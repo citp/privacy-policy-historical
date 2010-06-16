@@ -1,56 +1,81 @@
-<!--The following is the downloaded HTML source of the seat42f.com privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231175855id_/http%3A//seat42f.com/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seat42f.com privacy policy that was archived on 2010-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617011604id_/http%3A//seat42f.com/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta name="verify-v1" content="srBPWYkOoi2n9FxcqxWRi7I+B1dBlL3trb9xJWfoGuQ=">
   <base href="http://seat42f.com/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
-  <meta name="keywords" content="">
+  <meta name="keywords" content="Seat42f, TV Listings">
   <meta name="title" content="Seat42f Privacy Policy">
   <meta name="author" content="Seat42f">
   <meta name="description" content="">
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Seat42f Privacy Policy</title>
   <link href="/templates/ja_rulite_hacked/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
-  <link rel="stylesheet" href="http://seat42f.com/components/com_k2/css/style.css" type="text/css">
   <link rel="stylesheet" href="http://seat42f.com/plugins/system/yoo_effects/lightbox/shadowbox.css" type="text/css">
+  <style type="text/css">
+    <!--
+.kasocialplugin {display:-moz-inline-block; float:left; width:100%;}.kafblike {float:left; margin:5px;}
+    -->
+  </style>
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
-  <script type="text/javascript" src="/media/system/js/modal.js"></script>
-  <script type="text/javascript" src="http://seat42f.com/components/com_k2/js/k2.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/silverlight.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/wmvplayer.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/swfobject.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/avreloaded.js"></script>
   <script type="text/javascript">
-
-		window.addEvent('domready', function() {
-
-			SqueezeBox.initialize({});
-
-			$$('a.modal').each(function(el) {
-				el.addEvent('click', function(e) {
-					new Event(e).stop();
-					SqueezeBox.fromElement(el);
-				});
-			});
-		});
-var K2RatingURL = 'http://seat42f.com/';
+window.addEvent("domready", function() {
+	 					/// Get all redirect links
+						var links = $$("a[href*=ijoomla_seo]");
+	 					
+						//links.each(function(link){
+	 				    //	alert(link.innerHTML);
+	 					//});
+	 					
+	 					links.addEvents({
+	 						'click' : function (ev){
+	 							ev = new Event(ev).stop();
+	 							hr = this.href;
+	 							/// Get the seo redirect id from link url
+	 							if(hr.contains("id=")){
+	 								arr = hr.split("id=");
+	 								var id = arr[1];
+	 							}
+								
+	 							if(hr.contains("/id,")){
+	 								arr = hr.split("/id,");
+	 								var id = arr[1].charAt(0);	 								
+	 							}
+	 							obj = this;
+	 							var url = "administrator/components/com_ijoomla_seo/ajax.php?tasks=redirect&id="+id;
+	 							new Ajax(url, {
+									method: 'post',									
+									onComplete: function(resp){		 									
+					 					changeURL(obj, resp)
+					 				}.bind(this) 
+								}).request();
+									 							
+	 						   }
+	 					    });
+	 					    
+	 					    function changeURL(obj, resp){	 							
+	 							var prop = resp.split(",");	 							
+	 							if(prop[1] == "_blank")	 									 							
+	 					    			window.open(prop[0], "name");
+	 					    		else 
+	 					    			window.location = prop[0];
+	 						}
+	 					
+					}); 
   </script>
-  <!--[if IE 7]>
-				<link href="http://seat42f.com/components/com_k2/css/ie7.css" rel="stylesheet" type="text/css" />
-				<![endif]-->
-				<!--[if lte IE 6]>
-				<link href="http://seat42f.com/components/com_k2/css/ie6.css" rel="stylesheet" type="text/css" />
-				<![endif]-->
   <script type="text/javascript">
 /*<![CDATA[*/
 	var jax_live_site = 'http://seat42f.com/index.php';
 	var jax_site_type = '1.5';
 /*]]>*/
-</script><script type="text/javascript" src="http://seat42f.com/plugins/system/pc_includes/ajax_1.2.js"></script>
+</script><script type="text/javascript" src="http://seat42f.com/plugins/system/pc_includes/ajax_1.3.js"></script>
   <link rel="stylesheet" type="text/css" href="http://seat42f.com/components/com_jomcomment/style.css">
 <link rel="stylesheet" type="text/css" href="http://seat42f.com/components/com_jomcomment/templates/minimal/comment_style.css">
 
@@ -66,6 +91,21 @@ var jc_email            = "";
 var jc_commentForm;
 /*]]>*/
 </script>
+  <style type="text/css">div.tweetmebutton{padding: 0px 2px 10px 10px; float: right;} td.tweetmebutton{padding-right: 0px; padding-top: 5px; padding-bottom:0px; margin-bottom:0px; margin-top: 0px; vertical-align:top;} td.space_right{padding: 0px 0px 0px 0px;}</style>
+  <!-- JoomlaWorks "Disqus Comment System for Joomla!" Plugin (v2.2) starts here -->
+
+		<script type="text/javascript" src="http://seat42f.com/plugins/content/jw_disqus/includes/js/behaviour.js"></script>
+		<script type="text/javascript">
+			//<![CDATA[
+			var disqusSubDomain = 'Seat42f';
+			var disqus_iframe_css = "http://seat42f.com/plugins/content/jw_disqus/tmpl/css/disqus.css";
+			//]]>
+		</script>
+		<style type="text/css" media="all">
+			@import "http://seat42f.com/plugins/content/jw_disqus/tmpl/css/template.css";
+		</style>
+		
+<!-- JoomlaWorks "Disqus Comment System for Joomla!" Plugin (v2.2) ends here -->
   <script type="text/javascript" src="http://seat42f.com/plugins/content/ja_tabs/ja_tabs.js" charset="utf-8"></script>
   <script type="text/javascript">var xajaxUri = "http://seat42f.com/index2.php?option=com_jreviews"</script>
   <script type="text/javascript">var s2AjaxUri = "http://seat42f.com/index2.php?option=com_jreviews"</script>
@@ -75,7 +115,7 @@ var jc_commentForm;
                 jr_translate["submit"] = "Submit";
             </script>
   <script type="text/javascript">var datePickerImage = "http://seat42f.com/components/com_jreviews/jreviews/views/themes/default/theme_images/calendar.gif";</script>
-  <script type="text/javascript">var jr_publicMenu = 346;</script>
+  <script type="text/javascript">var jr_publicMenu = 99999;</script>
   <script type="text/javascript">var YOOeffects = { url: 'http://seat42f.com/plugins/system/yoo_effects/lightbox/' };</script>
 <script type="text/javascript" src="http://seat42f.com/plugins/system/yoo_effects/lightbox/shadowbox_packed.js"></script>
 
@@ -94,8 +134,8 @@ var jc_commentForm;
 <!-- js for dragdrop -->
 
 <!-- Menu head -->
-			<link href="http://seat42f.com/templates/ja_rulite_hacked/ja_menus/ja_moomenu/ja.moomenu.css" rel="stylesheet" type="text/css">
-			<script src="http://seat42f.com/templates/ja_rulite_hacked/ja_menus/ja_moomenu/ja.moomenu.js" language="javascript" type="text/javascript"></script>
+			<link href="http://seat42f.com/templates/ja_rulite_hacked/ja_menus/ja_cssmenu/ja.cssmenu.css" rel="stylesheet" type="text/css">
+			<script src="http://seat42f.com/templates/ja_rulite_hacked/ja_menus/ja_cssmenu/ja.cssmenu.js" language="javascript" type="text/javascript"></script>
 			<link href="http://seat42f.com/templates/ja_rulite_hacked/css/colors/blue.css" rel="stylesheet" type="text/css">
 
 <!--[if lte IE 6]>
@@ -122,27 +162,16 @@ margin:-2.4em 0 0 15.9em !important;
 <![endif]-->
 <meta name="msvalidate.01" content="768BC8ECC9620908FA1C16E029BAA9D6">
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-56EnhPuHhe4Rk"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-56EnhPuHhe4Rk.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
 
 </head>
 
 <body id="bd" class=" wide fs3">
 <a name="Top" id="Top"></a>
 <ul class="accessibility">
-	<li><a href="/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy/component/content/#ja-content" title="Skip to content">Skip to content</a></li>
-	<li><a href="/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy/component/content/#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
-	<li><a href="/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy/component/content/#ja-col1" title="Skip to 1st column">Skip to 1st column</a></li>
-	<li><a href="/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy/component/content/#ja-col2" title="Skip to 2nd column">Skip to 2nd column</a></li>
+	<li><a href="/component/content/article/7-examples/1787-seat42f-privacy-policy/component/content/#ja-content" title="Skip to content">Skip to content</a></li>
+	<li><a href="/component/content/article/7-examples/1787-seat42f-privacy-policy/component/content/#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
+	<li><a href="/component/content/article/7-examples/1787-seat42f-privacy-policy/component/content/#ja-col1" title="Skip to 1st column">Skip to 1st column</a></li>
+	<li><a href="/component/content/article/7-examples/1787-seat42f-privacy-policy/component/content/#ja-col2" title="Skip to 2nd column">Skip to 2nd column</a></li>
 </ul>
 
 <div id="ja-wrapper">
@@ -153,7 +182,7 @@ qacct:"p-56EnhPuHhe4Rk"
 <!-- LuanND inert top header at here -->
 <div id="ja-top-header" class="clearfix">
 	<div id="top-menu">
-    	<ul id="mainlevel"><li><a href="/index.php/tip-line.html" class="mainlevel">Got A Tip? Email Us</a></li></ul>
+    	<ul id="mainlevel"><li><a href="/tip-line.html" class="mainlevel">Got A Tip? Email Us</a></li></ul>
     </div>
     <div id="top-login">
     	<div align="right">
@@ -161,7 +190,7 @@ qacct:"p-56EnhPuHhe4Rk"
         </div>
     </div>
     <div id="member-area">
-    	<ul id="mainlevel"><li><a href="/index.php/login.html" class="mainlevel">Login</a></li><li><a href="/index.php/component/user/component/content/?task=register" class="mainlevel">Register</a></li><li><a href="/index.php/forgot-your-username.html" class="mainlevel">Forgot Your Username?</a></li></ul>
+    	<ul id="mainlevel"><li><a href="/login.html" class="mainlevel">Login</a></li><li><a href="/component/user/component/content/?task=register" class="mainlevel">Register</a></li><li><a href="/forgot-your-username.html" class="mainlevel">Forgot Your Username?</a></li></ul>
     </div>
 </div>
 <!-- End insert top header -->
@@ -198,187 +227,236 @@ google_ad_height = 90;
 		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';">	</div>
 	<input type="hidden" name="task" value="search">
 	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="0">
 </form>
 	</div>	
 	
 		<ul id="ja-cssmenu" class="clearfix">
 <li><a href="http://seat42f.com/" class="menu-item0 first-item" id="menu1" title="Home"><span class="menu-title">Home</span></a></li> 
-<li class="havechild"><a href="/index.php/tv.html" class="menu-item1" id="menu343" title="Television"><span class="menu-title">Television</span></a><ul><li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241.html" class=" first-item" id="menu241" title="TV Shows"><span class="menu-title">TV Shows</span></a><ul><li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91.html" class=" first-item" id="menu91" title="ABC"><span class="menu-title">ABC</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/the-bachelor-mainmenu-199.html" class=" first-item" id="menu199" title="The Bachelor"><span class="menu-title">The Bachelor</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/better-off-ted-mainmenu-310.html" id="menu310" title="Better Off Ted"><span class="menu-title">Better Off Ted</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/brothers-a-sisters-mainmenu-122.html" id="menu122" title="Brothers &amp; Sisters"><span class="menu-title">Brothers &amp; Sisters</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/castle-mainmenu-306.html" id="menu306" title="Castle"><span class="menu-title">Castle</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/dancing-with-the-stars-mainmenu-136.html" id="menu136" title="Dancing With The Stars"><span class="menu-title">Dancing With The Stars</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/desperate-housewives-mainmenu-142.html" id="menu142" title="Desperate Housewives"><span class="menu-title">Desperate Housewives</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/flash-forward.html" id="menu363" title="Flash Forward"><span class="menu-title">Flash Forward</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/greys-anatomy-mainmenu-92.html" id="menu92" title="Grey's Anatomy"><span class="menu-title">Grey's Anatomy</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/lost-mainmenu-105.html" id="menu105" title="Lost"><span class="menu-title">Lost</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/private-practice-mainmenu-145.html" id="menu145" title="Private Practice"><span class="menu-title">Private Practice</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/scrubs-mainmenu-126.html" id="menu126" title="Scrubs"><span class="menu-title">Scrubs</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-mainmenu-91/ugly-betty-mainmenu-101.html" class=" last-item" id="menu101" title="Ugly Betty"><span class="menu-title">Ugly Betty</span></a></li> 
+<li><a href="/umbrella.html" class="menu-item1" id="menu390" title="Umbrella"><span class="menu-title">Umbrella</span></a></li> 
+<li class="havechild"><a href="/tv.html" class="menu-item2" id="menu343" title="Television"><span class="menu-title">Television</span></a><ul><li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241.html" class=" first-item" id="menu241" title="TV Shows"><span class="menu-title">TV Shows</span></a><ul><li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91.html" class=" first-item" id="menu91" title="ABC"><span class="menu-title">ABC</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/detroit-187.html" class=" first-item" id="menu410" title="Detroit 187"><span class="menu-title">Detroit 187</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/the-bachelor-mainmenu-199.html" id="menu199" title="The Bachelor"><span class="menu-title">The Bachelor</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/better-off-ted-mainmenu-310.html" id="menu310" title="Better Off Ted"><span class="menu-title">Better Off Ted</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/brothers-a-sisters-mainmenu-122.html" id="menu122" title="Brothers &amp; Sisters"><span class="menu-title">Brothers &amp; Sisters</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/castle-mainmenu-306.html" id="menu306" title="Castle"><span class="menu-title">Castle</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/dancing-with-the-stars-mainmenu-136.html" id="menu136" title="Dancing With The Stars"><span class="menu-title">Dancing With The Stars</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/desperate-housewives-mainmenu-142.html" id="menu142" title="Desperate Housewives"><span class="menu-title">Desperate Housewives</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/flash-forward.html" id="menu363" title="Flash Forward"><span class="menu-title">Flash Forward</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/greys-anatomy-mainmenu-92.html" id="menu92" title="Grey's Anatomy"><span class="menu-title">Grey's Anatomy</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/lost-mainmenu-105.html" id="menu105" title="Lost"><span class="menu-title">Lost</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/modern-family.html" id="menu384" title="Modern Family"><span class="menu-title">Modern Family</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/private-practice-mainmenu-145.html" id="menu145" title="Private Practice"><span class="menu-title">Private Practice</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/scrubs-mainmenu-126.html" id="menu126" title="Scrubs"><span class="menu-title">Scrubs</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/ugly-betty-mainmenu-101.html" id="menu101" title="Ugly Betty"><span class="menu-title">Ugly Betty</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/v.html" id="menu386" title="V"><span class="menu-title">V</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/no-ordinary-family.html" id="menu409" title="No Ordinary Family"><span class="menu-title">No Ordinary Family</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/my-generation.html" id="menu411" title="My Generation"><span class="menu-title">My Generation</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/mr-sunshine.html" id="menu412" title="Mr Sunshine"><span class="menu-title">Mr Sunshine</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/body-of-proof.html" id="menu413" title="Body Of Proof"><span class="menu-title">Body Of Proof</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/off-the-map.html" id="menu414" title="Off The Map"><span class="menu-title">Off The Map</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/happy-endings.html" id="menu415" title="Happy Endings"><span class="menu-title">Happy Endings</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/the-whole-truth.html" id="menu416" title="The Whole Truth"><span class="menu-title">The Whole Truth</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/better-together.html" id="menu417" title="Better Together"><span class="menu-title">Better Together</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-mainmenu-91/cougar-town.html" class=" last-item" id="menu433" title="Cougar Town"><span class="menu-title">Cougar Town</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226.html" id="menu226" title="TV Graveyard"><span class="menu-title">TV Graveyard</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/aliens-in-america-mainmenu-184.html" class=" first-item" id="menu184" title="Aliens In America"><span class="menu-title">Aliens In America</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/back-to-you-mainmenu-159.html" id="menu159" title="Back To You"><span class="menu-title">Back To You</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/beauty-and-the-geek-mainmenu-186.html" id="menu186" title="Beauty And The Geek"><span class="menu-title">Beauty And The Geek</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/big-shots-mainmenu-123.html" id="menu123" title="Big Shots"><span class="menu-title">Big Shots</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/bionic-woman-mainmenu-111.html" id="menu111" title="Bionic Woman"><span class="menu-title">Bionic Woman</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/kath-a-kim-mainmenu-283.html" id="menu283" title="Kath &amp; Kim"><span class="menu-title">Kath &amp; Kim</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/crusoe-mainmenu-262.html" id="menu262" title="Crusoe"><span class="menu-title">Crusoe</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/cane-mainmenu-151.html" id="menu151" title="Cane"><span class="menu-title">Cane</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/carpoolers-mainmenu-140.html" id="menu140" title="Carpoolers"><span class="menu-title">Carpoolers</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/cashmere-mafia-mainmenu-121.html" id="menu121" title="Cashmere Mafia"><span class="menu-title">Cashmere Mafia</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/cavemen-mainmenu-141.html" id="menu141" title="Cavemen"><span class="menu-title">Cavemen</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/er-mainmenu-127.html" id="menu127" title="ER"><span class="menu-title">ER</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/life-mainmenu-110.html" id="menu110" title="Life"><span class="menu-title">Life</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/life-on-mars-mainmenu-252.html" id="menu252" title="Life On Mars"><span class="menu-title">Life On Mars</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/lipstick-jungle-mainmenu-235.html" id="menu235" title="Lipstick Jungle"><span class="menu-title">Lipstick Jungle</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/the-ex-list-mainmenu-255.html" id="menu255" title="The Ex List"><span class="menu-title">The Ex List</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/jericho-mainmenu-86.html" id="menu86" title="Jericho"><span class="menu-title">Jericho</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/my-own-worst-enemy-mainmenu-248.html" id="menu248" title="My Own Worst Enemy"><span class="menu-title">My Own Worst Enemy</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/journeyman-mainmenu-109.html" id="menu109" title="Journeyman"><span class="menu-title">Journeyman</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/k-ville-mainmenu-133.html" id="menu133" title="K-Ville"><span class="menu-title">K-Ville</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/las-vegas-mainmenu-125.html" id="menu125" title="Las Vegas"><span class="menu-title">Las Vegas</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/men-in-trees-mainmenu-114.html" id="menu114" title="Men In Trees"><span class="menu-title">Men In Trees</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/moonlight-mainmenu-108.html" id="menu108" title="Moonlight"><span class="menu-title">Moonlight</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/new-amsterdam-mainmenu-214.html" id="menu214" title="New Amsterdam"><span class="menu-title">New Amsterdam</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/notes-from-the-underbelly-mainmenu-143.html" id="menu143" title="Notes From The Underbelly"><span class="menu-title">Notes From The Underbelly</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/survivor-gabon-mainmenu-266.html" id="menu266" title="Survivor Gabon"><span class="menu-title">Survivor Gabon</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/swingtown-mainmenu-177.html" id="menu177" title="Swingtown"><span class="menu-title">Swingtown</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/october-road-mainmenu-144.html" id="menu144" title="October Road"><span class="menu-title">October Road</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/shark-mainmenu-87.html" id="menu87" title="Shark"><span class="menu-title">Shark</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/survivor-china-mainmenu-172.html" id="menu172" title="Survivor China"><span class="menu-title">Survivor China</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/survivor-micronesia-mainmenu-209.html" id="menu209" title="Survivor Micronesia"><span class="menu-title">Survivor Micronesia</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/womens-murder-club-mainmenu-146.html" class=" last-item" id="menu146" title="Women's Murder Club"><span class="menu-title">Women's Murder Club</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226.html" id="menu226" title="TV Graveyard"><span class="menu-title">TV Graveyard</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/aliens-in-america-mainmenu-184.html" class=" first-item" id="menu184" title="Aliens In America"><span class="menu-title">Aliens In America</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/back-to-you-mainmenu-159.html" id="menu159" title="Back To You"><span class="menu-title">Back To You</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/beauty-and-the-geek-mainmenu-186.html" id="menu186" title="Beauty And The Geek"><span class="menu-title">Beauty And The Geek</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/boston-legal-mainmenu-135.html" id="menu135" title="Boston Legal"><span class="menu-title">Boston Legal</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/big-shots-mainmenu-123.html" id="menu123" title="Big Shots"><span class="menu-title">Big Shots</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/bionic-woman-mainmenu-111.html" id="menu111" title="Bionic Woman"><span class="menu-title">Bionic Woman</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/kath-a-kim-mainmenu-283.html" id="menu283" title="Kath &amp; Kim"><span class="menu-title">Kath &amp; Kim</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/crusoe-mainmenu-262.html" id="menu262" title="Crusoe"><span class="menu-title">Crusoe</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/cane-mainmenu-151.html" id="menu151" title="Cane"><span class="menu-title">Cane</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/carpoolers-mainmenu-140.html" id="menu140" title="Carpoolers"><span class="menu-title">Carpoolers</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/cashmere-mafia-mainmenu-121.html" id="menu121" title="Cashmere Mafia"><span class="menu-title">Cashmere Mafia</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/harpers-island-mainmenu-305.html" id="menu305" title="Harper's Island"><span class="menu-title">Harper's Island</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/cavemen-mainmenu-141.html" id="menu141" title="Cavemen"><span class="menu-title">Cavemen</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/er-mainmenu-127.html" id="menu127" title="ER"><span class="menu-title">ER</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/life-mainmenu-110.html" id="menu110" title="Life"><span class="menu-title">Life</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/life-on-mars-mainmenu-252.html" id="menu252" title="Life On Mars"><span class="menu-title">Life On Mars</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/lipstick-jungle-mainmenu-235.html" id="menu235" title="Lipstick Jungle"><span class="menu-title">Lipstick Jungle</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/jericho-mainmenu-86.html" id="menu86" title="Jericho"><span class="menu-title">Jericho</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/journeyman-mainmenu-109.html" id="menu109" title="Journeyman"><span class="menu-title">Journeyman</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/the-ex-list-mainmenu-255.html" id="menu255" title="The Ex List"><span class="menu-title">The Ex List</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/my-own-worst-enemy-mainmenu-248.html" id="menu248" title="My Own Worst Enemy"><span class="menu-title">My Own Worst Enemy</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/pushing-daisies-mainmenu-99.html" id="menu99" title="Pushing Daisies"><span class="menu-title">Pushing Daisies</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/k-ville-mainmenu-133.html" id="menu133" title="K-Ville"><span class="menu-title">K-Ville</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/las-vegas-mainmenu-125.html" id="menu125" title="Las Vegas"><span class="menu-title">Las Vegas</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/without-a-trace-mainmenu-161.html" id="menu161" title="Without A Trace"><span class="menu-title">Without A Trace</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/men-in-trees-mainmenu-114.html" id="menu114" title="Men In Trees"><span class="menu-title">Men In Trees</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/moonlight-mainmenu-108.html" id="menu108" title="Moonlight"><span class="menu-title">Moonlight</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/new-amsterdam-mainmenu-214.html" id="menu214" title="New Amsterdam"><span class="menu-title">New Amsterdam</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/notes-from-the-underbelly-mainmenu-143.html" id="menu143" title="Notes From The Underbelly"><span class="menu-title">Notes From The Underbelly</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/survivor-gabon-mainmenu-266.html" id="menu266" title="Survivor Gabon"><span class="menu-title">Survivor Gabon</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/swingtown-mainmenu-177.html" id="menu177" title="Swingtown"><span class="menu-title">Swingtown</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/october-road-mainmenu-144.html" id="menu144" title="October Road"><span class="menu-title">October Road</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/shark-mainmenu-87.html" id="menu87" title="Shark"><span class="menu-title">Shark</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/survivor-china-mainmenu-172.html" id="menu172" title="Survivor China"><span class="menu-title">Survivor China</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/survivor-micronesia-mainmenu-209.html" id="menu209" title="Survivor Micronesia"><span class="menu-title">Survivor Micronesia</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tv-graveyard-mainmenu-226/womens-murder-club-mainmenu-146.html" class=" last-item" id="menu146" title="Women's Murder Club"><span class="menu-title">Women's Murder Club</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/amc-mainmenu-224.html" id="menu224" title="AMC"><span class="menu-title">AMC</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/amc-mainmenu-224/breaking-bad-mainmenu-233.html" class=" first-item" id="menu233" title="Breaking Bad"><span class="menu-title">Breaking Bad</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/amc-mainmenu-224/mad-men-mainmenu-225.html" class=" last-item" id="menu225" title="Mad Men"><span class="menu-title">Mad Men</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/amc-mainmenu-224.html" id="menu224" title="AMC"><span class="menu-title">AMC</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/amc-mainmenu-224/breaking-bad-mainmenu-233.html" class=" first-item" id="menu233" title="Breaking Bad"><span class="menu-title">Breaking Bad</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/amc-mainmenu-224/mad-men-mainmenu-225.html" id="menu225" title="Mad Men"><span class="menu-title">Mad Men</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/amc-mainmenu-224/rubicon.html" class=" last-item" id="menu430" title="Rubicon"><span class="menu-title">Rubicon</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/bbc-america.html" id="menu375" title="BBC America"><span class="menu-title">BBC America</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/bbc-america/doctor-who.html" class=" first-item" id="menu377" title="Doctor Who"><span class="menu-title">Doctor Who</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/bbc-america/robin-hood.html" class=" last-item" id="menu376" title="Robin Hood"><span class="menu-title">Robin Hood</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/bbc-america.html" id="menu375" title="BBC America"><span class="menu-title">BBC America</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/bbc-america/doctor-who.html" class=" first-item" id="menu377" title="Doctor Who"><span class="menu-title">Doctor Who</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/bbc-america/robin-hood.html" class=" last-item" id="menu376" title="Robin Hood"><span class="menu-title">Robin Hood</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/bravo-mainmenu-217.html" id="menu217" title="Bravo"><span class="menu-title">Bravo</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/bravo-mainmenu-217/top-chef-chicago-mainmenu-218.html" class=" first-item" id="menu218" title="Top Chef Chicago"><span class="menu-title">Top Chef Chicago</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/bravo-mainmenu-217.html" id="menu217" title="Bravo"><span class="menu-title">Bravo</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/bravo-mainmenu-217/top-chef-chicago-mainmenu-218.html" class=" first-item" id="menu218" title="Top Chef Chicago"><span class="menu-title">Top Chef Chicago</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43.html" id="menu43" title="CBS"><span class="menu-title">CBS</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/amazing-race-mainmenu-170.html" class=" first-item" id="menu170" title="Amazing Race"><span class="menu-title">Amazing Race</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/the-big-bang-theory-mainmenu-154.html" id="menu154" title="The Big Bang Theory"><span class="menu-title">The Big Bang Theory</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/cold-case-mainmenu-118.html" id="menu118" title="Cold Case"><span class="menu-title">Cold Case</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/criminal-minds-mainmenu-116.html" id="menu116" title="Criminal Minds"><span class="menu-title">Criminal Minds</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/csi-mainmenu-115.html" id="menu115" title="CSI"><span class="menu-title">CSI</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/csi-miami-mainmenu-119.html" id="menu119" title="CSI: Miami"><span class="menu-title">CSI: Miami</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/csi-new-york-mainmenu-117.html" id="menu117" title="CSI: New York"><span class="menu-title">CSI: New York</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/gary-unmarried-mainmenu-256.html" id="menu256" title="Gary Unmarried"><span class="menu-title">Gary Unmarried</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/ghost-whisperer-mainmenu-153.html" id="menu153" title="Ghost Whisperer"><span class="menu-title">Ghost Whisperer</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/how-i-met-your-mother-mainmenu-94.html" id="menu94" title="How I Met Your Mother"><span class="menu-title">How I Met Your Mother</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/medium.html" id="menu374" title="Medium"><span class="menu-title">Medium</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/the-mentalist-mainmenu-253.html" id="menu253" title="The Mentalist"><span class="menu-title">The Mentalist</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/ncis-mainmenu-167.html" id="menu167" title="NCIS"><span class="menu-title">NCIS</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/new-adventures-of-old-christine-mainmenu-168.html" id="menu168" title="New Adventures Of Old Christine"><span class="menu-title">New Adventures Of Old Christine</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/numb3rs-mainmenu-152.html" id="menu152" title="Numb3rs"><span class="menu-title">Numb3rs</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/rules-of-engagement-mainmenu-160.html" id="menu160" title="Rules Of Engagement"><span class="menu-title">Rules Of Engagement</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/two-and-a-half-men-mainmenu-171.html" id="menu171" title="Two And A Half Men"><span class="menu-title">Two And A Half Men</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/the-unit-mainmenu-174.html" id="menu174" title="The Unit"><span class="menu-title">The Unit</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/three-rivers.html" id="menu364" title="Three Rivers"><span class="menu-title">Three Rivers</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/ncis-los-angeles.html" class=" last-item" id="menu373" title="NCIS Los Angeles"><span class="menu-title">NCIS Los Angeles</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43.html" id="menu43" title="CBS"><span class="menu-title">CBS</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/amazing-race-mainmenu-170.html" class=" first-item" id="menu170" title="Amazing Race"><span class="menu-title">Amazing Race</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/the-big-bang-theory-mainmenu-154.html" id="menu154" title="The Big Bang Theory"><span class="menu-title">The Big Bang Theory</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/cold-case-mainmenu-118.html" id="menu118" title="Cold Case"><span class="menu-title">Cold Case</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/criminal-minds-mainmenu-116.html" id="menu116" title="Criminal Minds"><span class="menu-title">Criminal Minds</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/csi-mainmenu-115.html" id="menu115" title="CSI"><span class="menu-title">CSI</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/csi-miami-mainmenu-119.html" id="menu119" title="CSI: Miami"><span class="menu-title">CSI: Miami</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/csi-new-york-mainmenu-117.html" id="menu117" title="CSI: New York"><span class="menu-title">CSI: New York</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/gary-unmarried-mainmenu-256.html" id="menu256" title="Gary Unmarried"><span class="menu-title">Gary Unmarried</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/ghost-whisperer-mainmenu-153.html" id="menu153" title="Ghost Whisperer"><span class="menu-title">Ghost Whisperer</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/how-i-met-your-mother-mainmenu-94.html" id="menu94" title="How I Met Your Mother"><span class="menu-title">How I Met Your Mother</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/medium.html" id="menu374" title="Medium"><span class="menu-title">Medium</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/the-mentalist-mainmenu-253.html" id="menu253" title="The Mentalist"><span class="menu-title">The Mentalist</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/ncis-mainmenu-167.html" id="menu167" title="NCIS"><span class="menu-title">NCIS</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/new-adventures-of-old-christine-mainmenu-168.html" id="menu168" title="New Adventures Of Old Christine"><span class="menu-title">New Adventures Of Old Christine</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/numb3rs-mainmenu-152.html" id="menu152" title="Numb3rs"><span class="menu-title">Numb3rs</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/rules-of-engagement-mainmenu-160.html" id="menu160" title="Rules Of Engagement"><span class="menu-title">Rules Of Engagement</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/two-and-a-half-men-mainmenu-171.html" id="menu171" title="Two And A Half Men"><span class="menu-title">Two And A Half Men</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/the-unit-mainmenu-174.html" id="menu174" title="The Unit"><span class="menu-title">The Unit</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/three-rivers.html" id="menu364" title="Three Rivers"><span class="menu-title">Three Rivers</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/ncis-los-angeles.html" id="menu373" title="NCIS Los Angeles"><span class="menu-title">NCIS Los Angeles</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/the-defenders.html" id="menu418" title="The Defenders"><span class="menu-title">The Defenders</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/mike-a-molly.html" id="menu419" title="Mike &amp; Molly"><span class="menu-title">Mike &amp; Molly</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/hawaii-five-o.html" id="menu420" title="Hawaii Five O"><span class="menu-title">Hawaii Five O</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/blue-bloods.html" id="menu421" title="Blue Bloods"><span class="menu-title">Blue Bloods</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/-my-dad-says.html" id="menu422" title="$#*! My Dad Says"><span class="menu-title">$#*! My Dad Says</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/the-good-wife.html" class=" last-item" id="menu426" title="The Good Wife"><span class="menu-title">The Good Wife</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/cw-mainmenu-53.html" id="menu53" title="CW"><span class="menu-title">CW</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/cw-mainmenu-53/90210-mainmenu-264.html" class=" first-item" id="menu264" title="90210"><span class="menu-title">90210</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cw-mainmenu-53/americas-next-top-model-mainmenu-185.html" id="menu185" title="America's Next Top Model"><span class="menu-title">America's Next Top Model</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cw-mainmenu-53/the-beautiful-life.html" id="menu369" title="The Beautiful Life"><span class="menu-title">The Beautiful Life</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cw-mainmenu-53/gossip-girl-mainmenu-107.html" id="menu107" title="Gossip Girl"><span class="menu-title">Gossip Girl</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cw-mainmenu-53/one-tree-hill-mainmenu-212.html" id="menu212" title="One Tree Hill"><span class="menu-title">One Tree Hill</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cw-mainmenu-53/smallville-mainmenu-103.html" id="menu103" title="Smallville"><span class="menu-title">Smallville</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cw-mainmenu-53/supernatural-mainmenu-97.html" id="menu97" title="Supernatural"><span class="menu-title">Supernatural</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/cw-mainmenu-53/vampire-diaries.html" class=" last-item" id="menu370" title="Vampire Diaries"><span class="menu-title">Vampire Diaries</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53.html" id="menu53" title="CW"><span class="menu-title">CW</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/90210-mainmenu-264.html" class=" first-item" id="menu264" title="90210"><span class="menu-title">90210</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/americas-next-top-model-mainmenu-185.html" id="menu185" title="America's Next Top Model"><span class="menu-title">America's Next Top Model</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/the-beautiful-life.html" id="menu369" title="The Beautiful Life"><span class="menu-title">The Beautiful Life</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/gossip-girl-mainmenu-107.html" id="menu107" title="Gossip Girl"><span class="menu-title">Gossip Girl</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/life-unexpected.html" id="menu385" title="Life Unexpected"><span class="menu-title">Life Unexpected</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/one-tree-hill-mainmenu-212.html" id="menu212" title="One Tree Hill"><span class="menu-title">One Tree Hill</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/smallville-mainmenu-103.html" id="menu103" title="Smallville"><span class="menu-title">Smallville</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/supernatural-mainmenu-97.html" id="menu97" title="Supernatural"><span class="menu-title">Supernatural</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/vampire-diaries.html" id="menu370" title="Vampire Diaries"><span class="menu-title">Vampire Diaries</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/nikita.html" id="menu423" title="Nikita"><span class="menu-title">Nikita</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/cw-mainmenu-53/hellcats.html" class=" last-item" id="menu424" title="Hellcats"><span class="menu-title">Hellcats</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112.html" id="menu112" title="FOX"><span class="menu-title">FOX</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/24-mainmenu-155.html" class=" first-item" id="menu155" title="24"><span class="menu-title">24</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/american-idol-mainmenu-169.html" id="menu169" title="American Idol"><span class="menu-title">American Idol</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/bones-mainmenu-156.html" id="menu156" title="Bones"><span class="menu-title">Bones</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/cleveland-show-mainmenu-259.html" id="menu259" title="Cleveland Show"><span class="menu-title">Cleveland Show</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/dollhouse-mainmenu-239.html" id="menu239" title="Dollhouse"><span class="menu-title">Dollhouse</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/family-guy-mainmenu-157.html" id="menu157" title="Family Guy"><span class="menu-title">Family Guy</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/fringe-mainmenu-257.html" id="menu257" title="Fringe"><span class="menu-title">Fringe</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/glee.html" id="menu350" title="Glee"><span class="menu-title">Glee</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/house-mainmenu-113.html" id="menu113" title="House"><span class="menu-title">House</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/lie-to-me.html" id="menu354" title="Lie To Me"><span class="menu-title">Lie To Me</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/the-simpsons-mainmenu-158.html" id="menu158" title="The Simpsons"><span class="menu-title">The Simpsons</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/sons-of-tucson.html" id="menu365" title="Sons Of Tucson"><span class="menu-title">Sons Of Tucson</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/til-death-mainmenu-202.html" id="menu202" title="Til Death"><span class="menu-title">Til Death</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/virtuality.html" class=" last-item" id="menu367" title="Virtuality"><span class="menu-title">Virtuality</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112.html" id="menu112" title="FOX"><span class="menu-title">FOX</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/24-mainmenu-155.html" class=" first-item" id="menu155" title="24"><span class="menu-title">24</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/american-idol-mainmenu-169.html" id="menu169" title="American Idol"><span class="menu-title">American Idol</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/bones-mainmenu-156.html" id="menu156" title="Bones"><span class="menu-title">Bones</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/cleveland-show-mainmenu-259.html" id="menu259" title="Cleveland Show"><span class="menu-title">Cleveland Show</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/dollhouse-mainmenu-239.html" id="menu239" title="Dollhouse"><span class="menu-title">Dollhouse</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/family-guy-mainmenu-157.html" id="menu157" title="Family Guy"><span class="menu-title">Family Guy</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/fringe-mainmenu-257.html" id="menu257" title="Fringe"><span class="menu-title">Fringe</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/glee.html" id="menu350" title="Glee"><span class="menu-title">Glee</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/house-mainmenu-113.html" id="menu113" title="House"><span class="menu-title">House</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/lie-to-me.html" id="menu354" title="Lie To Me"><span class="menu-title">Lie To Me</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/the-simpsons-mainmenu-158.html" id="menu158" title="The Simpsons"><span class="menu-title">The Simpsons</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/sons-of-tucson.html" id="menu365" title="Sons Of Tucson"><span class="menu-title">Sons Of Tucson</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/til-death-mainmenu-202.html" id="menu202" title="Til Death"><span class="menu-title">Til Death</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/virtuality.html" id="menu367" title="Virtuality"><span class="menu-title">Virtuality</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/human-target.html" id="menu391" title="Human Target"><span class="menu-title">Human Target</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/running-wilde.html" id="menu402" title="Running WIlde"><span class="menu-title">Running WIlde</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/lonestar.html" id="menu403" title="Lonestar"><span class="menu-title">Lonestar</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/terra-nova.html" id="menu404" title="Terra Nova"><span class="menu-title">Terra Nova</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/ride-along.html" id="menu405" title="Ride-Along"><span class="menu-title">Ride-Along</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/raising-hope.html" id="menu406" title="Raising Hope"><span class="menu-title">Raising Hope</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/mixed-signals.html" id="menu407" title="Mixed Signals"><span class="menu-title">Mixed Signals</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fox-mainmenu-112/bobs-burgers.html" class=" last-item" id="menu408" title="Bob's Burgers"><span class="menu-title">Bob's Burgers</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/fx-mainmenu-147.html" id="menu147" title="FX"><span class="menu-title">FX</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/fx-mainmenu-147/30-days-mainmenu-251.html" class=" first-item" id="menu251" title="30 Days"><span class="menu-title">30 Days</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fx-mainmenu-147/damages-mainmenu-149.html" id="menu149" title="Damages"><span class="menu-title">Damages</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fx-mainmenu-147/its-always-sunny-in-philadelphia-mainmenu-150.html" id="menu150" title="It's Always Sunny In Philadelphia"><span class="menu-title">It's Always Sunny In Philadelphia</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fx-mainmenu-147/lawman.html" id="menu372" title="Lawman"><span class="menu-title">Lawman</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fx-mainmenu-147/nip-tuck-mainmenu-203.html" id="menu203" title="Nip Tuck"><span class="menu-title">Nip Tuck</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fx-mainmenu-147/rescue-me-mainmenu-148.html" id="menu148" title="Rescue Me"><span class="menu-title">Rescue Me</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/fx-mainmenu-147/sons-of-anarchy-mainmenu-304.html" class=" last-item" id="menu304" title="Sons of Anarchy"><span class="menu-title">Sons of Anarchy</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/fx-mainmenu-147.html" id="menu147" title="FX"><span class="menu-title">FX</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/fx-mainmenu-147/30-days-mainmenu-251.html" class=" first-item" id="menu251" title="30 Days"><span class="menu-title">30 Days</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fx-mainmenu-147/damages-mainmenu-149.html" id="menu149" title="Damages"><span class="menu-title">Damages</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fx-mainmenu-147/its-always-sunny-in-philadelphia-mainmenu-150.html" id="menu150" title="It's Always Sunny In Philadelphia"><span class="menu-title">It's Always Sunny In Philadelphia</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fx-mainmenu-147/justified.html" id="menu372" title="Justified"><span class="menu-title">Justified</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fx-mainmenu-147/nip-tuck-mainmenu-203.html" id="menu203" title="Nip Tuck"><span class="menu-title">Nip Tuck</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fx-mainmenu-147/rescue-me-mainmenu-148.html" id="menu148" title="Rescue Me"><span class="menu-title">Rescue Me</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/fx-mainmenu-147/sons-of-anarchy-mainmenu-304.html" class=" last-item" id="menu304" title="Sons of Anarchy"><span class="menu-title">Sons of Anarchy</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/abc-family-mainmenu-137.html" id="menu137" title="ABC Family"><span class="menu-title">ABC Family</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-family-mainmenu-137/greek-mainmenu-138.html" class=" first-item" id="menu138" title="Greek"><span class="menu-title">Greek</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/abc-family-mainmenu-137/kyle-xy-mainmenu-139.html" class=" last-item" id="menu139" title="Kyle XY"><span class="menu-title">Kyle XY</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/abc-family-mainmenu-137.html" id="menu137" title="ABC Family"><span class="menu-title">ABC Family</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/abc-family-mainmenu-137/greek-mainmenu-138.html" class=" first-item" id="menu138" title="Greek"><span class="menu-title">Greek</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-family-mainmenu-137/kyle-xy-mainmenu-139.html" id="menu139" title="Kyle XY"><span class="menu-title">Kyle XY</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/abc-family-mainmenu-137/pretty-little-liars.html" class=" last-item" id="menu425" title="Pretty Little Liars"><span class="menu-title">Pretty Little Liars</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/lifetime-mainmenu-260.html" id="menu260" title="Lifetime"><span class="menu-title">Lifetime</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/lifetime-mainmenu-260/army-wives-mainmenu-261.html" class=" first-item" id="menu261" title="Army Wives"><span class="menu-title">Army Wives</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/lifetime-mainmenu-260.html" id="menu260" title="Lifetime"><span class="menu-title">Lifetime</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/lifetime-mainmenu-260/army-wives-mainmenu-261.html" class=" first-item" id="menu261" title="Army Wives"><span class="menu-title">Army Wives</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42.html" id="menu42" title="NBC"><span class="menu-title">NBC</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/100-questions.html" class=" first-item" id="menu359" title="100 Questions"><span class="menu-title">100 Questions</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/30-rock-mainmenu-100.html" id="menu100" title="30 Rock"><span class="menu-title">30 Rock</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/the-biggest-loser-mainmenu-197.html" id="menu197" title="The Biggest Loser"><span class="menu-title">The Biggest Loser</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/chuck-mainmenu-128.html" id="menu128" title="Chuck"><span class="menu-title">Chuck</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/community.html" id="menu358" title="Community"><span class="menu-title">Community</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/day-one.html" id="menu356" title="Day One"><span class="menu-title">Day One</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/friday-night-lights-mainmenu-98.html" id="menu98" title="Friday Night Lights"><span class="menu-title">Friday Night Lights</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/heroes-mainmenu-96.html" id="menu96" title="Heroes"><span class="menu-title">Heroes</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/kings-mainmenu-300.html" id="menu300" title="Kings"><span class="menu-title">Kings</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/knight-rider-mainmenu-249.html" id="menu249" title="Knight Rider"><span class="menu-title">Knight Rider</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/law-a-order-mainmenu-129.html" id="menu129" title="Law &amp; Order"><span class="menu-title">Law &amp; Order</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/law-a-order-svu-mainmenu-182.html" id="menu182" title="Law &amp; Order SVU"><span class="menu-title">Law &amp; Order SVU</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/mercy.html" id="menu360" title="Mercy"><span class="menu-title">Mercy</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/my-name-is-earl-mainmenu-181.html" id="menu181" title="My Name Is Earl"><span class="menu-title">My Name Is Earl</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/the-office-mainmenu-102.html" id="menu102" title="The Office"><span class="menu-title">The Office</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/parenthood.html" id="menu355" title="Parenthood"><span class="menu-title">Parenthood</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/southland.html" id="menu351" title="Southland"><span class="menu-title">Southland</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/trauma.html" class=" last-item" id="menu357" title="Trauma"><span class="menu-title">Trauma</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42.html" id="menu42" title="NBC"><span class="menu-title">NBC</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/100-questions.html" class=" first-item" id="menu359" title="100 Questions"><span class="menu-title">100 Questions</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/30-rock-mainmenu-100.html" id="menu100" title="30 Rock"><span class="menu-title">30 Rock</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/the-biggest-loser-mainmenu-197.html" id="menu197" title="The Biggest Loser"><span class="menu-title">The Biggest Loser</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/chuck-mainmenu-128.html" id="menu128" title="Chuck"><span class="menu-title">Chuck</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/community.html" id="menu358" title="Community"><span class="menu-title">Community</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/day-one.html" id="menu356" title="Day One"><span class="menu-title">Day One</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/friday-night-lights-mainmenu-98.html" id="menu98" title="Friday Night Lights"><span class="menu-title">Friday Night Lights</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/heroes-mainmenu-96.html" id="menu96" title="Heroes"><span class="menu-title">Heroes</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/kings-mainmenu-300.html" id="menu300" title="Kings"><span class="menu-title">Kings</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/knight-rider-mainmenu-249.html" id="menu249" title="Knight Rider"><span class="menu-title">Knight Rider</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/law-a-order-mainmenu-129.html" id="menu129" title="Law &amp; Order"><span class="menu-title">Law &amp; Order</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/law-a-order-svu-mainmenu-182.html" id="menu182" title="Law &amp; Order SVU"><span class="menu-title">Law &amp; Order SVU</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/mercy.html" id="menu360" title="Mercy"><span class="menu-title">Mercy</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/my-name-is-earl-mainmenu-181.html" id="menu181" title="My Name Is Earl"><span class="menu-title">My Name Is Earl</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/the-office-mainmenu-102.html" id="menu102" title="The Office"><span class="menu-title">The Office</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/parenthood.html" id="menu355" title="Parenthood"><span class="menu-title">Parenthood</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/southland.html" id="menu351" title="Southland"><span class="menu-title">Southland</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/trauma.html" id="menu357" title="Trauma"><span class="menu-title">Trauma</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/undercovers.html" id="menu389" title="Undercovers"><span class="menu-title">Undercovers</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/chase.html" id="menu392" title="Chase"><span class="menu-title">Chase</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/the-cape.html" id="menu393" title="The Cape"><span class="menu-title">The Cape</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/friends-with-benefits.html" id="menu394" title="Friends With Benefits"><span class="menu-title">Friends With Benefits</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/outlaw.html" id="menu395" title="Outlaw"><span class="menu-title">Outlaw</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/perfect-couples.html" id="menu396" title="Perfect Couples"><span class="menu-title">Perfect Couples</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/love-bites.html" id="menu397" title="Love Bites"><span class="menu-title">Love Bites</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/outsourced.html" id="menu398" title="Outsourced"><span class="menu-title">Outsourced</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/the-event.html" id="menu399" title="The Event"><span class="menu-title">The Event</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/harrys-law.html" id="menu400" title="Harry's Law"><span class="menu-title">Harry's Law</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/the-paul-reiser-show.html" class=" last-item" id="menu401" title="The Paul Reiser Show"><span class="menu-title">The Paul Reiser Show</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/sci-fi-mainmenu-245.html" id="menu245" title="SCI FI"><span class="menu-title">SCI FI</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/sci-fi-mainmenu-245/battlestar-galactica-mainmenu-246.html" class=" first-item" id="menu246" title="Battlestar Galactica"><span class="menu-title">Battlestar Galactica</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/sci-fi-mainmenu-245/eureka-mainmenu-265.html" class=" last-item" id="menu265" title="Eureka"><span class="menu-title">Eureka</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/syfy.html" id="menu245" title="SyFy"><span class="menu-title">SyFy</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/syfy/battlestar-galactica-mainmenu-246.html" class=" first-item" id="menu246" title="Battlestar Galactica"><span class="menu-title">Battlestar Galactica</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/syfy/eureka-mainmenu-265.html" id="menu265" title="Eureka"><span class="menu-title">Eureka</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/syfy/warehouse-13.html" class=" last-item" id="menu429" title="Warehouse 13"><span class="menu-title">Warehouse 13</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/showtime-mainmenu-93.html" id="menu93" title="Showtime"><span class="menu-title">Showtime</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/brotherhood-mainmenu-204.html" class=" first-item" id="menu204" title="Brotherhood"><span class="menu-title">Brotherhood</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/californication-mainmenu-131.html" id="menu131" title="Californication"><span class="menu-title">Californication</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/dexter-mainmenu-104.html" id="menu104" title="Dexter"><span class="menu-title">Dexter</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/nurse-jackie.html" id="menu366" title="Nurse Jackie"><span class="menu-title">Nurse Jackie</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/secret-diary-of-a-call-girl-mainmenu-236.html" id="menu236" title="Secret Diary Of A Call Girl"><span class="menu-title">Secret Diary Of A Call Girl</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/the-tudors-mainmenu-215.html" id="menu215" title="The Tudors"><span class="menu-title">The Tudors</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/weeds-mainmenu-130.html" class=" last-item" id="menu130" title="Weeds"><span class="menu-title">Weeds</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/showtime-mainmenu-93.html" id="menu93" title="Showtime"><span class="menu-title">Showtime</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/brotherhood-mainmenu-204.html" class=" first-item" id="menu204" title="Brotherhood"><span class="menu-title">Brotherhood</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/californication-mainmenu-131.html" id="menu131" title="Californication"><span class="menu-title">Californication</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/dexter-mainmenu-104.html" id="menu104" title="Dexter"><span class="menu-title">Dexter</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/nurse-jackie.html" id="menu366" title="Nurse Jackie"><span class="menu-title">Nurse Jackie</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/secret-diary-of-a-call-girl-mainmenu-236.html" id="menu236" title="Secret Diary Of A Call Girl"><span class="menu-title">Secret Diary Of A Call Girl</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/the-tudors-mainmenu-215.html" id="menu215" title="The Tudors"><span class="menu-title">The Tudors</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/united-states-of-tara.html" id="menu387" title="United States Of Tara"><span class="menu-title">United States Of Tara</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/showtime-mainmenu-93/weeds-mainmenu-130.html" class=" last-item" id="menu130" title="Weeds"><span class="menu-title">Weeds</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/tbs-mainmenu-237.html" id="menu237" title="TBS"><span class="menu-title">TBS</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/tbs-mainmenu-237/the-bill-engvall-show-mainmenu-268.html" class=" first-item" id="menu268" title="The Bill Engvall Show"><span class="menu-title">The Bill Engvall Show</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tbs-mainmenu-237/my-boys-mainmenu-238.html" class=" last-item" id="menu238" title="My Boys"><span class="menu-title">My Boys</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/tbs-mainmenu-237.html" id="menu237" title="TBS"><span class="menu-title">TBS</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/tbs-mainmenu-237/the-bill-engvall-show-mainmenu-268.html" class=" first-item" id="menu268" title="The Bill Engvall Show"><span class="menu-title">The Bill Engvall Show</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tbs-mainmenu-237/my-boys-mainmenu-238.html" class=" last-item" id="menu238" title="My Boys"><span class="menu-title">My Boys</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/tnt-mainmenu-229.html" id="menu229" title="TNT"><span class="menu-title">TNT</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/tnt-mainmenu-229/the-closer-mainmenu-230.html" class=" first-item" id="menu230" title="The Closer"><span class="menu-title">The Closer</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tnt-mainmenu-229/leverage-mainmenu-232.html" id="menu232" title="Leverage"><span class="menu-title">Leverage</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tnt-mainmenu-229/raising-the-bar-mainmenu-303.html" id="menu303" title="Raising The Bar"><span class="menu-title">Raising The Bar</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/tnt-mainmenu-229/saving-grace-mainmenu-231.html" class=" last-item" id="menu231" title="Saving Grace"><span class="menu-title">Saving Grace</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/tnt-mainmenu-229.html" id="menu229" title="TNT"><span class="menu-title">TNT</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/tnt-mainmenu-229/the-closer-mainmenu-230.html" class=" first-item" id="menu230" title="The Closer"><span class="menu-title">The Closer</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tnt-mainmenu-229/leverage-mainmenu-232.html" id="menu232" title="Leverage"><span class="menu-title">Leverage</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tnt-mainmenu-229/raising-the-bar-mainmenu-303.html" id="menu303" title="Raising The Bar"><span class="menu-title">Raising The Bar</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tnt-mainmenu-229/saving-grace-mainmenu-231.html" id="menu231" title="Saving Grace"><span class="menu-title">Saving Grace</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/tnt-mainmenu-229/rizzoli-a-isles.html" class=" last-item" id="menu427" title="Rizzoli &amp; Isles"><span class="menu-title">Rizzoli &amp; Isles</span></a></li> 
 </ul></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/usa-mainmenu-162.html" id="menu162" title="USA"><span class="menu-title">USA</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/usa-mainmenu-162/burn-notice-mainmenu-164.html" class=" first-item" id="menu164" title="Burn Notice"><span class="menu-title">Burn Notice</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/usa-mainmenu-162/in-plain-sight-mainmenu-221.html" id="menu221" title="In Plain Sight"><span class="menu-title">In Plain Sight</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/usa-mainmenu-162/monk-mainmenu-165.html" id="menu165" title="Monk"><span class="menu-title">Monk</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/usa-mainmenu-162/psych-mainmenu-166.html" id="menu166" title="Psych"><span class="menu-title">Psych</span></a></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/usa-mainmenu-162/royal-pains.html" class=" last-item" id="menu371" title="Royal Pains"><span class="menu-title">Royal Pains</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/usa-mainmenu-162.html" id="menu162" title="USA"><span class="menu-title">USA</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/usa-mainmenu-162/burn-notice-mainmenu-164.html" class=" first-item" id="menu164" title="Burn Notice"><span class="menu-title">Burn Notice</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/usa-mainmenu-162/in-plain-sight-mainmenu-221.html" id="menu221" title="In Plain Sight"><span class="menu-title">In Plain Sight</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/usa-mainmenu-162/monk-mainmenu-165.html" id="menu165" title="Monk"><span class="menu-title">Monk</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/usa-mainmenu-162/psych-mainmenu-166.html" id="menu166" title="Psych"><span class="menu-title">Psych</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/usa-mainmenu-162/royal-pains.html" id="menu371" title="Royal Pains"><span class="menu-title">Royal Pains</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/usa-mainmenu-162/white-collar.html" class=" last-item" id="menu428" title="White Collar"><span class="menu-title">White Collar</span></a></li> 
 </ul></li> 
-<li><a href="/index.php/tv/tv-shows-mainmenu-241/help-me-find-my-show-mainmenu-196.html" id="menu196" title="Help Me Find My Show"><span class="menu-title">Help Me Find My Show</span></a></li> 
-<li class="havesubchild"><a href="/index.php/tv/tv-shows-mainmenu-241/hbo.html" class=" last-item" id="menu352" title="HBO"><span class="menu-title">HBO</span></a><ul><li><a href="/index.php/tv/tv-shows-mainmenu-241/hbo/true-blood.html" class=" first-item" id="menu353" title="True Blood"><span class="menu-title">True Blood</span></a></li> 
+<li><a href="/tv/tv-shows-mainmenu-241/help-me-find-my-show-mainmenu-196.html" id="menu196" title="Help Me Find My Show"><span class="menu-title">Help Me Find My Show</span></a></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/hbo.html" id="menu352" title="HBO"><span class="menu-title">HBO</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/hbo/true-blood.html" class=" first-item" id="menu353" title="True Blood"><span class="menu-title">True Blood</span></a></li> 
+</ul></li> 
+<li class="havesubchild"><a href="/tv/tv-shows-mainmenu-241/starz.html" class=" last-item" id="menu431" title="Starz"><span class="menu-title">Starz</span></a><ul><li><a href="/tv/tv-shows-mainmenu-241/starz/spartacus-blood-and-sand.html" class=" first-item" id="menu432" title="Spartacus Blood And Sand"><span class="menu-title">Spartacus Blood And Sand</span></a></li> 
 </ul></li> 
 </ul></li> 
 </ul></li> 
-<li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=seat42f" class="menu-item2" id="menu263" title="TV Listings"><span class="menu-title">TV Listings</span></a></li> 
-<li class="havechild"><a href="/index.php/movies-mainmenu-269.html" class="menu-item3" id="menu269" title="Movies"><span class="menu-title">Movies</span></a><ul><li><a href="/index.php/movies-mainmenu-269/movie-trailers-mainmenu-302.html" class=" first-item" id="menu302" title="Movie Trailers"><span class="menu-title">Movie Trailers</span></a></li> 
-<li><a href="/index.php/movies-mainmenu-269/box-office-mainmenu-297.html" id="menu297" title="Box Office"><span class="menu-title">Box Office</span></a></li> 
-<li><a href="/index.php/movies-mainmenu-269/movie-release-dates-mainmenu-271.html" id="menu271" title="Movie Release Dates"><span class="menu-title">Movie Release Dates</span></a></li> 
-<li><a href="/index.php/movies-mainmenu-269/dvd-release-dates-mainmenu-272.html" id="menu272" title="DVD Release Dates"><span class="menu-title">DVD Release Dates</span></a></li> 
-<li><a href="/index.php/movies-mainmenu-269/blu-ray-release-dates-mainmenu-273.html" id="menu273" title="Blu-Ray Release Dates"><span class="menu-title">Blu-Ray Release Dates</span></a></li> 
-<li><a href="/index.php/movies-mainmenu-269/movie-posters-mainmenu-299.html" id="menu299" title="Movie Posters"><span class="menu-title">Movie Posters</span></a></li> 
-<li><a href="/index.php/movies-mainmenu-269/movie-archive-mainmenu-298.html" id="menu298" title="Movie Archive"><span class="menu-title">Movie Archive</span></a></li> 
-<li><a href="/index.php/movies-mainmenu-269/blu-ray-and-dvd-cover-artwork.html" class=" last-item" id="menu382" title="Blu-ray And DVD Cover Artwork"><span class="menu-title">Blu-ray And DVD Cover Artwork</span></a></li> 
+<li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=seat42f" class="menu-item3" id="menu263" title="TV Listings"><span class="menu-title">TV Listings</span></a></li> 
+<li class="havechild"><a href="/movies-mainmenu-269.html" class="menu-item4" id="menu269" title="Movies"><span class="menu-title">Movies</span></a><ul><li><a href="/movies-mainmenu-269/movie-trailers-mainmenu-302.html" class=" first-item" id="menu302" title="Movie Trailers"><span class="menu-title">Movie Trailers</span></a></li> 
+<li><a href="/movies-mainmenu-269/box-office-mainmenu-297.html" id="menu297" title="Box Office"><span class="menu-title">Box Office</span></a></li> 
+<li><a href="/movies-mainmenu-269/movie-release-dates-mainmenu-271.html" id="menu271" title="Movie Release Dates"><span class="menu-title">Movie Release Dates</span></a></li> 
+<li><a href="/movies-mainmenu-269/dvd-release-dates-mainmenu-272.html" id="menu272" title="DVD Release Dates"><span class="menu-title">DVD Release Dates</span></a></li> 
+<li><a href="/movies-mainmenu-269/movie-posters-mainmenu-299.html" id="menu299" title="Movie Posters"><span class="menu-title">Movie Posters</span></a></li> 
+<li><a href="/movies-mainmenu-269/blu-ray-and-dvd-cover-artwork.html" class=" last-item" id="menu382" title="Blu-ray And DVD Cover Artwork"><span class="menu-title">Blu-ray And DVD Cover Artwork</span></a></li> 
 </ul></li> 
-<li><a href="/index.php/seat42f-blog.html" class="menu-item4" id="menu9" title="Blog"><span class="menu-title">Blog</span></a></li> 
-<li><a href="/index.php/reviews.html" class="menu-item5" id="menu346" title="Reviews"><span class="menu-title">Reviews</span></a></li> 
-<li><a href="/index.php/video-games.html" class="menu-item6 last-item" id="menu378" title="Video Games"><span class="menu-title">Video Games</span></a></li> 
+<li><a href="/video-games.html" class="menu-item5 last-item" id="menu378" title="Video Games"><span class="menu-title">Video Games</span></a></li> 
 </ul>
-
 	  <div id="ja-usertools">
 				  </div>
 
@@ -387,6 +465,9 @@ google_ad_height = 90;
 			<!-- END: MAIN NAVIGATION -->
 
 </div>
+<div id="top-banner">
+					
+				</div>
 </div></div></div></div>
 <!-- END: HEADER -->
 
@@ -414,10 +495,9 @@ google_ad_height = 90;
 <script type="text/javascript">
 					new Asset.css('http://seat42f.com/plugins/content/ja_tabs/ja_tabs.css', {id: 'myTabs', title: 'myTabs'});
 			</script>
-<h2 class="contentheading">
-		<a href="/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy.html" class="contentpagetitle">
-		Seat42f Privacy Policy	</a>
-	</h2>
+<h1>
+		<a href="/component/content/article/7-examples/1787-seat42f-privacy-policy.html" class="contentpagetitle">
+		Seat42f Privacy Policy	</a></h1>
 
 
 <div class="article-toolswrap">
@@ -435,51 +515,81 @@ google_ad_height = 90;
 	</div>
 </div>
 
-
-<div class="article-content">
-<p align="justify">This is the web site of <strong>SEAT42F.COM</strong>.<br> </p><p align="justify"> We can be reached via e-mail at 
- <script language="JavaScript" type="text/javascript">
- <!--
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy71355 = 'pr&#105;v&#97;cy' + '&#64;';
- addy71355 = addy71355 + 's&#101;&#97;t42f' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy71355 + '\'>' );
- document.write( addy71355 );
- document.write( '<\/a>' );
- //-->\n </script><a href="mailto:privacy@seat42f.com">privacy@seat42f.com</a> <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '<span style=\'display: none;\'>' );
- //-->
- </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
- <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '</' );
- document.write( 'span>' );
- //-->
- </script></span><br> </p><p align="justify">For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).</p><div align="justify"> </div><p align="justify">We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.</p><div align="justify"> </div><p align="justify">The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site and .</p><div align="justify"> </div><p align="justify">With respect to cookies: We do not set any cookies. </p><p align="justify">If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p><div align="justify"> </div><p align="justify">If you supply us with your postal address on-line you will only receive the information for which you provided us your address.</p><div align="justify"> </div><p align="justify">With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. </p><p align="justify">From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.</p><div align="justify"> </div><p align="justify">Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them .</p><div align="justify"> </div><p align="justify">With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p><div align="justify"> </div><p align="justify">If you feel that this site is not following its stated information policy, you may contact us at the above email address.</p><div align="justify"><span class="blkPnkHover"> This Privacy Policy was last modified on September 17, 2007 and is effective immediately. </span><br></div><p><span class="blkPnkHover"><br> Copyright © 2007 Seat42f - All Rights Reserved.</span></p>
-
-<br><script type="text/javascript"><!--
+<script type="text/javascript"><!--
 google_ad_client = "pub-9991225123526530";
-/* 300x250, created 11/23/08 */
-google_ad_slot = "6512071523";
-google_ad_width = 300;
-google_ad_height = 250;
+/* 468x15, created 5/15/10 */
+google_ad_slot = "1852447660";
+google_ad_width = 468;
+google_ad_height = 15;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div class="article-content">
+<div class="tweetmebutton">
+<script type="text/javascript">
+tweetme_url = 'http://seat42f.com/component/content/article/7-examples/1787-seat42f-privacy-policy.html';
+tweetme_window = 'new';
+tweetme_bgcolor = '#ffffff';
+tweetme_title = 'Seat42f Privacy Policy';
+</script>
+<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
+</div>
+
+<!-- JoomlaWorks "Disqus Comment System for Joomla!" Plugin (v2.2) starts here -->
+
+<span id="startOfPage"></span>
+
+
+<p align="justify">This is the web site of <strong>SEAT42F.COM</strong>.<br> </p><p align="justify"> We can be reached via e-mail at privacy@seat42f.com<br> </p><p align="justify">For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).</p><div align="justify"> </div><p align="justify">We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.</p><div align="justify"> </div><p align="justify">The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site and .</p><div align="justify"> </div><p align="justify">With respect to cookies: We do not set any cookies. </p><p align="justify">If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p><div align="justify"> </div><p align="justify">If you supply us with your postal address on-line you will only receive the information for which you provided us your address.</p><div align="justify"> </div><p align="justify">With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. </p><p align="justify">From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.</p><div align="justify"> </div><p align="justify">Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them .</p><div align="justify"> </div><p align="justify">With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p><div align="justify"> </div><p align="justify">If you feel that this site is not following its stated information policy, you may contact us at the above email address.</p><div align="justify"><span class="blkPnkHover"> This Privacy Policy was last modified on September 17, 2007 and is effective immediately. </span><br></div><p><span class="blkPnkHover"><br> Copyright © 2007 Seat42f - All Rights Reserved.</span></p>
+
+<div class="kasocialplugin"><span class="kafblike"><iframe src="http://www.facebook.com/plugins/like.php?href=http://seat42f.com/component/content/article/7-examples/1787-seat42f-privacy-policy.html&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;height=&amp;action=like&amp;font=segoe+ui&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height:px"></iframe></span></div>
+<hr>
+
+<!-- Disqus Comments -->
+<div class="jwDisqusForm">
+	
+			<div id="disqus_thread"></div>
+			<script type="text/javascript">
+				//<![CDATA[
+			
+					var disqus_url= "http://seat42f.com/component/content/article/7-examples/1787-seat42f-privacy-policy.html";
+					var disqus_identifier = "a891c55ede_id1787";
+				//]]>
+			</script>
+			<script type="text/javascript" src="http://disqus.com/forums/Seat42f/embed.js"></script>
+			<noscript>
+				<a href="http://Seat42f.disqus.com/?url=ref">View the discussion thread.</a>
+			</noscript>
+			<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+			</div>
+
+<div class="jwDisqusBackToTop">
+	<a href="http://seat42f.com/component/content/article/7-examples/1787-seat42f-privacy-policy.html#startOfPage">back to top</a>
+	<div class="clr"></div>
+</div>
+	
+<div class="clr"></div>
+
+<!-- JoomlaWorks "Disqus Comment System for Joomla!" Plugin (v2.2) ends here -->
+
+
 			<table align="center" class="pagenav">
 			<tbody><tr>
+				<th class="pagenav_prev">
+					<a href="/component/content/article/7-examples/6523-amc-orders-the-walking-dead-to-series.html">&lt; Prev</a>
+				</th>
+				<td width="50">
+					&nbsp;
+				</td>
 				<th class="pagenav_next">
-					<a href="/index.php/component/content/article/7-examples/2037-connect-with-seat42f.html">Next &gt;</a>
+					<a href="/component/content/article/7-examples/2037-connect-with-seat42f.html">Next &gt;</a>
 				</th>
 			</tr>
 			</tbody></table></div>
 
-	<span class="modifydate">
-		Last Updated ( Tuesday, 25 November 2008 00:56 )
-	</span>
 
 <span class="article_separator">&nbsp;</span>
 
@@ -492,21 +602,7 @@ google_ad_height = 250;
       
 								<!-- BEGIN: BANNER -->
 				<div id="ja-banner">
-					<div class="advs bannergroup">
-
-<div class="banneritem"><script type="text/javascript"><!--
-google_ad_client = "pub-9991225123526530";
-/* 468x60, created 9/21/09 */
-google_ad_slot = "3134391653";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>	</div>
-
-</div>
-
+					
 				</div>
 				<!-- END: BANNER -->
 							</div>
@@ -529,62 +625,13 @@ google_ad_height = 60;
     </div></div></div>
 	</div>
 	
-      	<!-- BEGIN: BOTTOM SPOTLIGHT-->
-	<div id="ja-botsl" class="ja-box-br">
-	  <div class="ja-box-bl"><div class="ja-box-tr"><div class="ja-box-tl clearfix">
-	
       
-      
-	  	  
-	  	  <div class="ja-box-left" style="width: 33.3%;">
-					<div class="module">
-			<div>
-				<div>
-					<div>
-													<h3>FAVORITE SHOWS</h3>
-											<div class="body"> </div><p><img src="/images/stories/bullet.gif" border="0">  <a href="/index.php/tv/tv-shows-mainmenu-241/nbc-mainmenu-42/30-rock-mainmenu-100">30 Rock</a><br>              <img src="/images/stories/bullet.gif" border="0">  Damages<br>             <img src="/images/stories/bullet.gif" border="0">  Dexter<br>              <img src="/images/stories/bullet.gif" border="0">  <a href="/index.php/tv/tv-shows-mainmenu-241/fox-mainmenu-112/fringe-mainmenu-257">Fringe</a><br>             <img src="/images/stories/bullet.gif" border="0">  Lost<br>              <img src="/images/stories/bullet.gif" border="0">  Mad Men<br>                <img src="/images/stories/bullet.gif" border="0"> <a href="/index.php/tv/tv-shows-mainmenu-241/cbs-mainmenu-43/the-mentalist-mainmenu-253"> The Mentalist</a><br>              <img src="/images/stories/bullet.gif" border="0">  The Office</p>					</div>
-				</div>
-			</div>
-		</div>
-	
-	  </div>
-	  	  
-	  	  <div class="ja-box-center" style="width: 33.3%;">
-					<div class="module">
-			<div>
-				<div>
-					<div>
-													<h3>CONTEST ZONE</h3>
-											<div class="body"> </div><p>              <img src="/images/stories/bullet.gif" mce_src="/images/stories/bullet.gif" border="0"> <a href="/index.php/contests-othermenu-206/5752-night-at-the-museum-battle-of-the-smithsonian-dvd-contest.html">Night At The Museum: Battle of the Smithsonian DVD Contest</a><br>              <img src="/images/stories/bullet.gif" mce_src="/images/stories/bullet.gif" border="0"> <a href="/index.php/contests-othermenu-206/4511-reaper-dvd-contest" mce_href="/index.php/contests-othermenu-206/4511-reaper-dvd-contest">	 		</a><a class="latestnews" href="/index.php/contests-othermenu-206/4808-reno-911-dvd-contest" mce_href="/index.php/contests-othermenu-206/4808-reno-911-dvd-contest"> 			</a><a href="/index.php/contests-othermenu-206/5740-the-kevin-smith-collection-blu-ray-contest" mce_href="/index.php/contests-othermenu-206/5740-the-kevin-smith-collection-blu-ray-contest">The Kevin Smith Collection Blu-ray Contest</a><br><a href="/index.php/contests-othermenu-206/4786-eastbound-a-down-dvd-contest" mce_href="/index.php/contests-othermenu-206/4786-eastbound-a-down-dvd-contest"><img src="/images/stories/bullet.gif" mce_src="/images/stories/bullet.gif" border="0"></a> <a href="/index.php/contests-othermenu-206/5664-up-blu-ray-contest" mce_href="/index.php/contests-othermenu-206/5664-up-blu-ray-contest">Up Blu-ray Contest</a><br>             <img src="/images/stories/bullet.gif" mce_src="/images/stories/bullet.gif" border="0"> <a href="/index.php/contests-othermenu-206/5584-zorro-dvd-contest" mce_href="/index.php/contests-othermenu-206/5584-zorro-dvd-contest" title="  &nbsp;">Zorro DVD Contest</a><br>               <a href="/index.php/contests-othermenu-206/3713-matlock-dvd-contest" mce_href="/index.php/contests-othermenu-206/3713-matlock-dvd-contest"><img src="/images/stories/bullet.gif" mce_src="/images/stories/bullet.gif" border="0"></a> <a href="/index.php/contests-othermenu-206/5780-mental-dvd-contest.html">Mental DVD Contest</a><br><img src="/images/stories/bullet.gif" mce_src="/images/stories/bullet.gif" border="0"> <a href="/index.php/contests-othermenu-206/5788-better-off-ted-dvd-contest.html">Better Off Ted DVD Contest</a></p>					</div>
-				</div>
-			</div>
-		</div>
-	
-	  </div>
-	  	
-	  	  <div class="ja-box-right" style="width: 33.3%;">
-					<div class="module">
-			<div>
-				<div>
-					<div>
-													<h3>CONNECT</h3>
-											<div class="body"> </div><div class="body">       </div><p>              <img src="/images/stories/bullet.gif" border="0">  Advertise With Seat42<br>              <img src="/images/stories/bullet.gif" border="0">  <a href="/index.php/latest-news/3812-bookmark">Bookmark</a><br>             <img src="/images/stories/bullet.gif" border="0">  <a href="http://www.facebook.com/people/Thomas-Miller/522700903">Follow Seat42f On Facebook</a><br><img src="/images/stories/bullet.gif" border="0"> <a href="http://twitter.com/seat42f">Follow Seat42f On Twitter</a><br>             <img src="/images/stories/bullet.gif" border="0">  <a href="http://list-manage.com/subscribe.phtml?id=742f1d95e4">Get Our Newsletter</a><br>              <img src="/images/stories/bullet.gif" border="0"> <a href="/index.php/component/content/article/7-examples/1787-seat42f-privacy-policy">Privacy Policy </a><br>             <img src="/images/stories/bullet.gif" border="0"> <a href="http://feeds2.feedburner.com/seat42f">RSS Feed / Subscribe</a><br>                <img src="/images/stories/bullet.gif" border="0"> <a href="/index.php/component/user/?task=register">Signup/Login</a><br>              <img src="/images/stories/bullet.gif" border="0"> <a href="/index.php/contact-mainmenu-3">Contact</a></p>					</div>
-				</div>
-			</div>
-		</div>
-	
-	  </div>
-	  
-    </div></div></div>
-	</div>
-	<!-- END: BOTTOM SPOTLIGHT 2 -->
-	
 </div></div>
 
 <!-- BEGIN: FOOTER -->
 <div id="ja-footer">
 	
-    Copyright © 2006 - 2009 seat42f.com
+   <!-- Copyright &copy; 2006 - 2009 seat42f.com -->
 </div>
 <!-- END: FOOTER -->
 
@@ -609,5 +656,24 @@ sc_security="3137832c";
 <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="free web stats" href="http://www.statcounter.com/" target="_blank"><img class="statcounter" src="http://c26.statcounter.com/2613694/0/3137832c/1/" alt="free web stats" ></a></div></noscript>
 <!-- End of StatCounter Code -->
 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1995479-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script>
+window.fbAsyncInit = function() { FB.init({appId: '119716764714104', status: true, cookie: true, xfbml: true}); };
+(function() { var e = document.createElement('script');
+e.type = 'text/javascript';
+e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+e.async = true;
+document.getElementById('fb-root').appendChild(e);
+}());
+</script>
 
 </body></html>
