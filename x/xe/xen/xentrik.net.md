@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xentrik.net privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216191805id_/http%3A//www.xentrik.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xentrik.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616032259id_/http%3A//www.xentrik.net/privacy.php) for the most accurate reproduction.*
 
 # Xentrik | Privacy Policy
 
