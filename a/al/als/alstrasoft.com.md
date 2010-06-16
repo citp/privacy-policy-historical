@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alstrasoft.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229195204id_/http%3A//www.alstrasoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alstrasoft.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616054219id_/http%3A//www.alstrasoft.com/privacy.htm) for the most accurate reproduction.*
 
 # AlstraSoft - Privacy Policy
 
