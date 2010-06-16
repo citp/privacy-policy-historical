@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sirpi.org privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202112238id_/http%3A//www.sirpi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirpi.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616195711id_/http%3A//www.sirpi.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sirpi.org
+# Sirpi.org: Privacy Policy
 
 ## **Our Commitment To Your Privacy**
 
