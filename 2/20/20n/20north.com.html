@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 20north.com privacy policy that was archived on 2009-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091211115406id_/http%3A//www.20north.com/pages/view/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 20north.com privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616052036id_/http%3A//www.20north.com/pages/view/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Shop in the US from India @ 20North - Millions of products, Thousands of brands</title>
@@ -8,15 +8,27 @@
     <meta name="keywords" content="Shop in the US from India @ 20North - Buy Camera Laptop Books DVD MP3 Player Shoes Watches Jewellery ">
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <base href="http://www.20north.com/">
-  <!-- <link rel="stylesheet" href="http://www.20north.com/css/style.css?ver=0.48"/>-->
- <link rel="stylesheet" type="text/css" media="screen" href="http://www.20north.com/combine?type=css&amp;files=style.css,jqzoom.css,jquery.autocomplete.css,superfish-vertical.css&amp;ver=0.14">
+	 
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-8091158-1']);
+	  _gaq.push(['_setDomainName', '.20north.com']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	  })();
+	</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
+	  <!-- <link rel="stylesheet" href="http://www.20north.com/css/style.css?ver=0.48"/>-->
+ <link rel="stylesheet" type="text/css" media="screen" href="http://www.20north.com/combine?type=css&amp;files=style.css,jqzoom.css,jquery.autocomplete.css,superfish-vertical.css,simplemodal.css,recommend.css,skin.css,jquery.jcarousel.css&amp;ver=0.51">
  
     
     <style type="text/css">
         a#username
         {
         text-decoration:none;
-        color:#0066CC;
+        color:#0044cc;
         font-size:13px;
         font-weight:normal;
         }
@@ -33,7 +45,7 @@
         /* used by Opera 5+, Netscape6+/Mozilla, Konqueror, Safari, OmniWeb 4.5+, iCab, ICEbrowser */
         position: fixed;
     }
-    </style>
+	</style>
     <!--[if gte IE 5.5]>
     <![if lt IE 7]>
     <style type="text/css">
@@ -63,8 +75,7 @@
     var domainy = location.protocol == "https:" ? "https://static.getclicky.com" : "http://static.getclicky.com";
     document.write(unescape("%3Cscript src='" + domainy + "/107857.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://static.getclicky.com/107857.js" type="text/javascript"></script>
-        <link rel="stylesheet" type="text/css" media="screen" href="http://www.20north.com/combine?type=css&amp;files=simplemodal.css,recommend.css,skin.css,jquery.jcarousel.css&amp;ver=0.02">
-   <!-- <style type='text/css'>
+       <!-- <style type='text/css'>
     @import "http://www.20north.com/css/simplemodal.css";
 
     @import "http://www.20north.com/css/recommend.css";
@@ -79,26 +90,47 @@
     -->
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
-   <script src="http://www.20north.com/combine?type=javascript&amp;files=init.js,cart.js,jquery.simplemodal.js,jquery.corner.js,jquery.alphanumeric.pack.js,carousel.js&amp;ver=0.09" type="text/javascript"></script>
+   <script src="http://www.20north.com/combine?type=javascript&amp;files=init.js,cart.js,superfish.js,jquery.simplemodal.js,jquery.corner.js,jquery.alphanumeric.pack.js,carousel.js,jquery.cookie.js&amp;ver=0.54" type="text/javascript"></script>
 
 
           <meta name="verify-v1" content="wmyl6SuLYnkmV1U3EJknjcNXODEATDKzBSFoMGezsLk=">
    <script>
-    $(function() {
-
+	//Define default search keyword to use in search box if it is empty
+	var def_search_keyword="Think it. Click it. Buy it.";
+	function googleTrack(e,obj)
+	{
+		e=window.event || e ;
+		e.returnValue = false;
+		e.preventDefault;
+		if(click_timeout)
+			window.clearTimeout(click_timeout);
+		var thisel = $(obj);
+		click_timeout = window.setTimeout(function (){
+			window.location = thisel.attr("href");
+		}, 300);
+		try
+		{
+			id=thisel.attr('id')?thisel.attr('id'):thisel.parents('[id!=""]:first').get(0).id;
+			_gaq.push(['_trackEvent',id, 'clicked'+psource, (thisel.attr('rel') || thisel.text() || thisel.children('img:first').attr('alt') || thisel.attr('href'))]);
+		}
+		catch (err) {}
+		return false;
+	}
+	$(function (){
+	 $('a.gtrack').click(function (e){
+		googleTrack(e,this);
+		return false;
+	});
     $('#inrusd_headercaption').rjBubble({text:'Prices are shown in INR but you can choose to pay in USD during checkout',topOffset:55,leftOffset:-15});
     sporderhelpmsg='The final price for a Special order product includes the following :  Cost on other website + 15% (Service Charge) + Duty + Shipping costs (as per other website + International shipping)';
-    $('.rounded').corner('br');
     $('#testimonialcontentdiv').corner('br,bl');
     $('#testimonialheaderdiv').corner('tr,tl');
 	$('#advnce_fromprice').numeric({allow:"."});
 	$('#advnce_toprice').numeric({allow:"."});
-	if(!getCookie('AdavancedSearch'))
-		advanceSearchFlag=1;
 	if(advanceSearchFlag==1)
 		$('#advancesearchlink').trigger('click');
 //	$('#advancesearchlink').trigger('click');
-	$('.redbarmain').corner('bl');
+
             $.ajax({
                     url: path+'gc/get_sumamount',
                     type: 'post',
@@ -114,11 +146,42 @@
 
  });
 
- </script>
+ 
+  startList = function() {
+if (document.all&&document.getElementById) {
+navRoot = document.getElementById("topmenunav");
+$('#topmenunav li ul li').each(function()
+{
+	$(this).mouseover(function() {
+	this.className+=" over";});
+  $(this).mouseout(function() {
+  this.className=this.className.replace(" over", "");});
+});
+for (i=0; i<navRoot.childNodes.length; i++) {
+node = navRoot.childNodes[i];
+if (node.nodeName=="LI") {
+node.onmouseover=function() {
+this.className+=" over";
+  }
+  node.onmouseout=function() {
+  this.className=this.className.replace
+	(" over", "");
+   }
+   }
+  }
+ }
+}
+window.onload=startList;
+
+  </script>
 </head>
 
 
 <body>
+<!-- A dummy form, which used for redirecting to a page by using a POST method, to avoid caching problems with IE -->
+<!-- Dont delete this form -->
+<form action="" method="post" name="dummyform" id="dummyform"></form>
+<!-- Dummy form ends here -->
 
 <!-- Gift message container starts here-->
 <script>
@@ -142,7 +205,7 @@ $('#giftcouponsendmailimg').click(function(){$.ajax({url:path+'gc/thankingMail/'
 </noscript>
 <div id="login-wrap" style="display:none">
 <div>
-    <a href="#" title="Close" class="modalCloseX simplemodal-close"><img src="images/close_big.jpg" border="0" style="margin-top:10px"></a>
+    <a href="#" title="Close" class="modalCloseX simplemodal-close headersprite1 redclosebtn" style="margin-right:5px;margin-top:10px"></a>
     <div class="login-top"></div>
     <div class="login-content">
         <h1 class="login-title">Login Form</h1>
@@ -195,38 +258,42 @@ $('#giftcouponsendmailimg').click(function(){$.ajax({url:path+'gc/thankingMail/'
 <script>validuserflag=0;</script>
         <div id="bodysizer">
          <!--Top menu-->
-          <div class="headermaindiv" id="headermaindiv" style="z-index:1000"><span class="redbarmain">
-         <span class="redbarcontents"><span class="headertab" style=""><a class="locked" id="locked-acc" href="account">My Account</a></span><span style="display:none" "="" class="headertab"><a class="locked" href="account">My Account</a></span><span class="tabsplitter"></span><span class="headertab"><a href="http://www.20north.com/wishlist">My Lists</a></span><span class="tabsplitter"></span><span class="headertab"><a href="http://www.20north.com/faq">FAQ</a></span><span class="tabsplitter"></span><span class="headertab"><a href="http://www.20north.com/so/makeSpecialOrders" id="specialorder">Special Orders</a></span><span class="tabsplitter"></span><span class="headertab"><a class="locked" href="gc">Gift Cards</a></span><span class="headersprite1" style="vertical-align:middle;display:inline-block;background-position: 0 -202px;width:17px;height:19px;vertical-align:top;margin-top:2px;"></span><span id="giftcardpopulate" class="headertab">(You have Rs.0 + $0)</span></span></span><!--Heading gray bar start here--><span style="display:inline-block"><ul class="contactus-sf-menu">
+          <div class="headermaindiv" id="headermaindiv" style="z-index:1000">
+		  <div class="headersprite1 top_red_curve"></div><div class="redbarmain">
+			<div class="redbarcontents" style="height:100%;"><ul id="topmenunav"><li style="border-left:1px outset #B0B0B0"><span class="headertab" style=""><a class="locked bold headermain" id="locked-acc" href="account">My Account</a></span><span style="display:none" "="" class="headertab"><a class="locked bold headermain" href="account">My Account</a></span><span class="headersprite1 menuitem"></span><ul><li><a href="http://www.20north.com/orders">My Orders</a></li><li><a href="http://www.20north.com/wishlist">My Wishlist</a></li><li><a href="http://www.20north.com/ajax/viewProfile">My Profile</a></li>
+																		</ul></li>
+			<li><span class="headertab"><a href="http://www.20north.com/pages/view/partners" class="bold headermain">Partners</a></span></li><li><span class="headertab"><a href="http://www.20north.com/faq" class="bold headermain">FAQ</a></span></li><li><span class="headertab"><a href="http://www.20north.com/so/makeSpecialOrders" id="specialorder" class="bold headermain">Special Orders</a></span></li><li style="border:0 none"><span class="headertab"><a class="locked bold headermain" href="gc">Gift Cards</a></span></li><li style="border:0 none"><span class="headersprite1" style="vertical-align:middle;display:inline-block;background-position:-219px -30px;width:17px;height:19px;vertical-align:top;margin-top:2px;"></span><span id="giftcardpopulate" class="headertab">(You have Rs.0 + $0)</span></li></ul></div></div><!--Heading gray bar start here--><div style="float:left"><ul class="contactus-sf-menu">
 		    <li>
 					<span id="support_graybar">
-					<span id="headset" class="headersprite1"></span><span id="livesupport">Live Support</span><span class="tabsplitter" style="border-right:1px solid #B0B0B0;height:17px;"></span><span style="vertical-align:middle;margin-left:10px;margin-top:9px;display:inline-block;background-position:0 -611px;_background:url(images/newrelease/live_chat_arrow.png) no-repeat 0 0px;height:8px;width:8px;" class="headersprite1"></span>
+					<span id="headset" class="headersprite1"></span><span id="livesupport">Live Support</span><span class="tabsplitter" style="border-right:1px solid #B0B0B0;height:17px;"></span><span style="vertical-align:middle;margin-left:10px;margin-top:9px;display:inline-block;background-position:-17px -16px;_background:url(images/newrelease/live_chat_arrow.png) no-repeat 0 0px;height:8px;width:8px;" class="headersprite1"></span>
 				   </span><span id="rightend" class="headersprite1"></span><ul class="rounded" style="display:block;z-index:1000">
 					<li class="current" style="z-index:1000;">
-					 <span class="iconspan headersprite1" style="display:inline-block;background-position:0 -16px;_background:url(images/newrelease/Live_Chat_Bubble.png) no-repeat 0 0px;width:15px;"></span><span id="livechat" class="mainheader">   <!-- BEGIN ProvideSupport.com Custom Images Chat Button Code -->
-<span id="scLJrt" style="z-index:100;"></span><span id="sdLJrt" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/20n/safe-standard.js?ps_h=LJrt&amp;ps_t=1580500781012&amp;online-image=http://www.20north.com/images/newrelease/chat_live_online.jpg&amp;offline-image=http://www.20north.com/images/newrelease/chat_live_online.jpg"></script></span><script type="text/javascript">var seLJrt=document.createElement("script");seLJrt.type="text/javascript";var seLJrts=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/20n/safe-standard.js?ps_h=LJrt\u0026ps_t="+new Date().getTime()+"\u0026online-image=http://www.20north.com/images/newrelease/chat_live_online.jpg\u0026offline-image=http://www.20north.com/images/newrelease/chat_live_online.jpg";setTimeout("seLJrt.src=seLJrts;document.getElementById('sdLJrt').appendChild(seLJrt)",1)</script><!-- END ProvideSupport.com Custom Images Chat Button Code --></span>
+					  <span class="iconspan"><span class="headersprite1" style="display:inline-block;background-position:-16px 0;width:15px;height:15px;"></span></span><span id="livechat" class="mainheader">   <!-- BEGIN ProvideSupport.com Custom Images Chat Button Code -->
+<span id="scLJrt" style="z-index:100;"></span><span id="sdLJrt" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/20n/safe-standard.js?ps_h=LJrt&amp;ps_t=1580500782151&amp;online-image=http://www.20north.com/images/newrelease/chat_live_online.jpg&amp;offline-image=http://www.20north.com/images/newrelease/chat_live_online.jpg"></script></span><script type="text/javascript">var seLJrt=document.createElement("script");seLJrt.type="text/javascript";var seLJrts=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/20n/safe-standard.js?ps_h=LJrt\u0026ps_t="+new Date().getTime()+"\u0026online-image=http://www.20north.com/images/newrelease/chat_live_online.jpg\u0026offline-image=http://www.20north.com/images/newrelease/chat_live_online.jpg";setTimeout("seLJrt.src=seLJrts;document.getElementById('sdLJrt').appendChild(seLJrt)",1)</script><!-- END ProvideSupport.com Custom Images Chat Button Code --></span>
 
 					</li>
                     <li style="z-index:1000;" class="current">
-                        <span class="iconspan headersprite1" style="display:inline-block;background-position:0 -1314px;_background:url(images/newrelease/sitehelp_icon.png) no-repeat 0 0px;"></span><span class="mainheader"><a href="http://www.20north.com/pages/view/about_us">Help</a></span>
+                        <span class="iconspan"><span class="headersprite1" style="display:inline-block;background-position:-48px 0;width:10px;height:15px;"></span></span><span class="mainheader"><a href="http://www.20north.com/pages/view/about_us" class="bold headermain">Help</a></span>
                     </li>
 					<li style="z-index:1000;" class="current">
-						<span class="iconspan headersprite1" style="display:inline-block;background-position:0 0;_background:url(images/newrelease/Email_icon.png) no-repeat 0 0px;"></span><span class="mainheader"><a href="mailto:customersupport@20north.com">E-mail Us</a></span>
+						 <span class="iconspan"><span class="headersprite1" style="display:inline-block;background-position:0 0;width:14px;height:15px;"></span></span><span class="mainheader"><a href="mailto:customersupport@20north.com" class="bold headermain">E-mail Us</a></span>
 					</li>
-                    <li style="z-index:1000;" class="current">
-   						<span class="iconspan headersprite1" style="display:inline-block;background-position:0 -32px;_background:url(images/newrelease/Phone_icon.png) no-repeat 0 0px;"></span><span class="mainheader">+91-80-42924000</span>
-                    </li>                    
-					 <li class="current" style="z-index:1000;border:0 none;">
-						<span class="iconspan headersprite1" style="display:inline-block;background-position:0 -32px;_background:url(images/newrelease/Phone_icon.png) no-repeat 0 0px;"></span><span class="mainheader">+91-80-42924009</span>
+                    <li class="current" style="z-index:1000;border:0 none;padding-bottom:0px;">
+						 <span class="iconspan"><span class="headersprite1" style="display:inline-block;background-position:-32px 0;width:15px;height:15px;"></span></span><span class="mainheader bold">+91-80-42924009</span><br>
+						 <center><span style="font-size:11px;padding-top:5px;display:inline-block;font-weight:normal;color:wheat;">Weekdays - 9.30am to 6.30pm</span></center>
 					 </li>
+					<!-- Code for right gray curve -->
+					 <li style="float:left;background:#696665;width:155px;height:7px;font-size:0;line-height:0;padding:0;margin:0;"></li>
+					 <li class="headersprite1" style="background-position:-195px -75px;background-color:white;border:none;width:7px;height:8px;float:left;font-size:0;line-height:0;padding:0;margin:0;border:0 none;"></li>
 				</ul>
 		</li>
 </ul>
-</span>
+</div>
 </div>
 
 <!-- Mouse hover div ends here-->
 
-<div id="header">
+<div id="header" style="clear:both;">
 <div id="flashMessage"><span class="" style="padding:0px"></span></div>
 
 <div class="tooltip" id="pickdepartment" style="top:47px;right:255px;display:none">Choose a Department to get relevant results or "All Departments" if you're not sure.<span class="bottom-pointer">&nbsp;</span></div>
@@ -238,30 +305,34 @@ $('#giftcouponsendmailimg').click(function(){$.ajax({url:path+'gc/thankingMail/'
                 </div>
                 <div id="headerContent">
                                     <div id="loginheader" style="margin-top:7px;width:780px;position:relative;font-size:13px;font-weight:normal;font-family:arial;color:#9A0303;z-index:0">
-
-<span style="display:inline-block;width:49px;height:30px; background-position: 0 -789px;" class="headersprite1"></span>
-<span style="display:inline-block;width:47px;height:30px;margin-left:20px; background-position: 0 -1376px;" class="headersprite1"></span>
-<span style="display:inline-block;width:67px;height:18px;margin-top:6px;vertical-align:top;margin-left:20px;background-position: 0 -866px;" class="headersprite1"></span>
-<span style="display:inline-block;width:76px;height:30px;margin-left:20px;background-position: 0 -222px;" class="headersprite1"></span>
-<span style="display:inline-block;vertical-align:top;margin-top:8px;margin-left:20px;height:30px;color:#682A2A;font-size:12px;font-weight:bold">Pay in INR or USD</span>
-<span class="headersprite1" style="display:inline-block;width:17px;height:20px; background-position: 0 -1407px;margin-bottom:3px;*margin-bottom:10px;*vertical-align:middle;cursor:pointer;" id="inrusd_headercaption"></span>
-<div id="afterLogin" class="logindivs" style="display:none"><span class="headersprite1" style="display:inline-block;background-position:0 -1353px;width:11px;height:22px;"></span><span style="display:inline-block;margin-top:2px;vertical-align:top;"><font style="color:#646160">Hello</font> <a href="http://www.20north.com/account" id="username" class="lblueanchor"></a></span><span style="display:inline-block;width:2px;border-right:1px solid black;height:13px;vertical-align:top;margin:4px"> </span><span style="margin-right:10px;margin-left:2px;display:inline-block;margin-top:2px;vertical-align:top;"><a href="#" id="modlogout" title="Click here to log out">Logout</a></span></div>
-<div id="beforeLogin" class="logindivs headersprite1" display:none"=""><span class="headersprite1" style="display:inline-block;background-position:0 -1353px;width:11px;height:22px;"></span><span style="display:inline-block;margin-top:2px;margin-left:2px;vertical-align:top;margin-right:5px;"><a href="#" title="Click here to login to 20North" id="modallogin">Login</a></span><span style="display:inline-block;width:2px;border-right:1px solid black;height:13px;vertical-align:top;margin:4px"> </span><span style="margin-right:10px;margin-left:5px;display:inline-block;margin-top:2px;vertical-align:top;"><a href="#" id="modregister" title="Click here to register if you are new to 20North">Register</a></span></div>
+<div style="float:left">
+<span style="display:inline-block;width:47px;height:30px; background-position:-196px 0" class="headersprite1 inline-block"></span>
+<span style="display:inline-block;width:47px;height:30px;margin-left:10px; background-position:-155px -45px;" class="headersprite1"></span>
+<span style="display:inline-block;width:67px;height:18px;margin-top:6px;vertical-align:top;margin-left:10px;background-position: 0 -242px;" class="headersprite1"></span>
+<span style="display:inline-block;width:72px;height:28px;margin-left:10px;background-position: 0 -261px;" class="headersprite1"></span>
+<span style="display:inline-block;vertical-align:top;margin-top:5px;margin-left:10px;height:30px;color:#682A2A;font-size:12px;font-weight:bold">Pay in INR or USD</span>
+<span class="helpicon headersprite1" style="margin-top:5px;vertical-align:top;" id="inrusd_headercaption"></span>
 </div>
+<div id="afterLogin" class="logindivs" style="display:none"><span class="headersprite1" style="display:inline-block;background-position:-52px -35px;width:11px;height:22px;"></span><span style="display:inline-block;margin-top:2px;vertical-align:top;"><font style="color:#646160">Hello</font> <a href="http://www.20north.com/account" id="username" class="lblueanchor"></a></span><span style="display:inline-block;width:2px;border-right:1px solid black;height:13px;vertical-align:top;margin:4px"> </span><span style="margin-right:10px;margin-left:2px;display:inline-block;margin-top:2px;vertical-align:top;"><a href="javascript:logout();" id="modlogout" title="Click here to log out">Logout</a></span></div>
+<div id="beforeLogin" class="logindivs headersprite1" display:none"=""><span class="headersprite1" style="display:inline-block;background-position:-52px -35px;width:11px;height:22px;"></span><span style="display:inline-block;margin-top:2px;margin-left:2px;vertical-align:top;margin-right:5px;"><a href="#" title="Click here to login to 20North" id="modallogin">Login</a></span><span style="display:inline-block;width:2px;border-right:1px solid black;height:13px;vertical-align:top;margin:4px"> </span><span style="margin-right:10px;margin-left:5px;display:inline-block;margin-top:2px;vertical-align:top;"><a href="#" id="modregister" title="Click here to register if you are new to 20North">Register</a></span></div>
+<a style="display:block;float:right;background:url(images/iPAD_Header.png) no-repeat;width:169px;height:30px;margin-right:10px;margin-top:-3px;" href="http://www.20north.com/?c=picks&amp;m=categorizedPicks&amp;listid=29"></a>
+</div>
+
 								<div id="tag2" style="margin-top:5px;position:relative;clear:both;">
 
 						
 						<div style="background:white;" id="headersearchbar">
 							<div class="searchbg"></div>
-									<div style="background-position: 0 -1280px;_background:url(./images/search_bl.png) no-repeat;position:absolute;left:0px;top:50px;width:195px;height:16px;z-index:1000;" id="search_bl" class="headersprite1"></div>
-					<div style="background-position:0 -1297px;_background:url(./images/search_br.jpg) no-repeat;position:absolute;right:0px;top:50px;width:188px;height:16px;" class="headersprite1"></div>
+									<div id="search_bl" class="headersprite1" style=" z-index: 1000;"></div>
+					<div id="search_br" class="headersprite1"></div>
 							<div style="width:115px;top:2px;right:15px;position:absolute;z-index:20000;">	
 										<div class="cart_button">
 											<span class="cart_button headersprite1" id="top_cart_button"><br>
 											<center><span id="before_bottom_left_r">Ready to checkout?</span></center></span>
 														 													  <div id="cart_hover_detail" class="car_details">
 														<div class="bottomright" id="top_cart_content">
-															  <span>Your Shopping Cart is Empty</span>	
+															  <center><span>Your Shopping Cart is Empty</span></center>
+	
 
            
   
@@ -281,18 +352,18 @@ $('#giftcouponsendmailimg').click(function(){$.ajax({url:path+'gc/thankingMail/'
 								
 								</div><!--Advance search option goes here -->
 							<div id="searchblock">
-							<div id="pickdept"><span class="error_msg_logo headersprite1" style="background-position: 0 -885px;display:inline-block;width:14px;height:13px;vertical-align:middle;*margin-top:3px;"></span>&nbsp;<span class="error_msg">Please pick a department</span></div>
+							<div id="pickdept"><span class="error_msg_logo headersprite1" style="*margin-top:3px;"></span>&nbsp;<span class="error_msg">Please pick a department</span></div>
 							<form action="http://www.20north.com/search" name="searchform" method="get" id="searchform">							<div id="outerreddiv" class="normaloptions">
 							 <div id="advancesearch">
 								  <div class="maincontent">
 								   	<div id="searchoptions" class="sop_advsearchclosed">
 											 <div id="search_content" class="normal_search">
 												 <span style="font-size:19px;"><label for="search_dropdown">Search</label></span>
-													<span style="font-size:19px;float:none" id="search_left"><input type="text" name="keyword" value="Think it. Click it. Buy it." class="search_txt" id="search_keyword" style="color:#CCCCCC"><input type="hidden" name="source" value="header"></span>
+													<span style="font-size:19px;float:none" id="search_left"><input type="text" name="keyword" value="Think it. Click it. Buy it." class="search_txt" id="search_keyword" onkeyup="closeTopSearches(this)" onfocus="searchKeyWordFocus(this)" onblur="searchKeyWordBlur(this)" style="color:#CCCCCC"><input type="hidden" name="source" value="header"></span>
 													&nbsp;<font style="font-size:14px">within</font>&nbsp;
 													<!--Search Category-->
 													<span id="search_right" style="margin-left:0px;float:none">
-													<select name="id" id="header_category" class="bestdeals_select" style="display:none" disabled="">
+																<select name="id" id="header_category" class="bestdeals_select" style="display:none" disabled="">
 <option value="All">--Pick a department--</option>
 <option value="1000002">Books</option>
 <option value="1000130">Classical Music</option>
@@ -316,7 +387,6 @@ $('#giftcouponsendmailimg').click(function(){$.ajax({url:path+'gc/thankingMail/'
 <option value="6000001">Home &amp; Garden</option>
 <option value="6000362">Home Improvement</option>
 <option value="8000035">Industrial &amp; Scientific</option>
-<option value="4000474">Jewelry</option>
 <option value="1000042">Movies &amp; TV</option>
 <option value="1000123">Music</option>
 <option value="3000218">Musical Instruments</option>
@@ -326,6 +396,7 @@ $('#giftcouponsendmailimg').click(function(){$.ajax({url:path+'gc/thankingMail/'
 <option value="9000002">Toys &amp; Games</option>
 <option value="3000291">Video Games</option>
 <option value="4000560">Watches</option>
+<option value="60000000">Opengear</option>
 </select>							
 								</span><span>
 									 <input type="submit" class="go_button" value="" id="search_gobutton">
@@ -342,8 +413,8 @@ $('#giftcouponsendmailimg').click(function(){$.ajax({url:path+'gc/thankingMail/'
 								   	<div id="searchoptions" class="innerwhitediv">
 										<div id="adv_search_options">
 											 <div style="position:relative;margin-bottom:5px;border-top:1px solid #B4B4B4;border-bottom:1px solid #B4B4B4;padding-bottom:5px;padding-top:5px;padding-left:63px;*padding-left:61px; font-size:14px;margin-top:5px;*margin-top:15px;">
-												<span style=""><input type="checkbox" id="bestdeals" name="bd" class="advancecheck" style="border:0 none" value="1">&nbsp;<label for="bd">Search for</label>&nbsp;<span class="dfgeligible headersprite1" style="display:inline-block;width:96px;height:21px;background-position: 0 -77px;vertical-align:middle;*margin-bottom:2px;"></span></span>
-												<span style="margin-left:127px;*margin-left:120px"><input type="checkbox" id="dutyfree" name="df" style="border:0 none" value="1" class="advancecheck">&nbsp;<label for="df">Search for&nbsp;<span class="dfgeligible headersprite1" style="display:inline-block;width:75px;height:21px; background-position: 0 -1428px;vertical-align:middle;"></span></label></span>
+												<span style=""><input type="checkbox" id="bestdeals" name="bd" class="advancecheck" style="border:0 none" value="1">&nbsp;<label for="bestdeals">Search for&nbsp;<span class="dfgeligible headersprite1" style="display:inline-block;width:96px;height:20px;background-position: -70px -23px;vertical-align:middle;*margin-bottom:2px;"></span></label></span>
+												<span style="margin-left:127px;*margin-left:120px"><input type="checkbox" id="dutyfree" name="df" style="border:0 none" value="1" class="advancecheck">&nbsp;<label for="dutyfree">Search for&nbsp;<span class="dfgeligible headersprite1" style="display:inline-block;width:75px;height:22px; background-position:-99px 0;vertical-align:middle;"></span></label></span>
 												
 										    </div>
 										  <!--Activate this div for prices-->
@@ -357,12 +428,13 @@ $('#giftcouponsendmailimg').click(function(){$.ajax({url:path+'gc/thankingMail/'
 							 </div>
 							</div>
 							 	 
-								 							 </div></form>
+								 
+							 </div></form>
 							
 							 <div id="advancesearchlinkmain">
 									<div id="advancesearchlink" class="advlink_advsearchclosed" style="border:1px solid gray;">
 										<div id="searchlinkinner" class="searchlink_advsearchclosed" title="Click here for Advanced Search option" style="">
-											<b>Advanced Search</b><br><center><span class="advancesearchlinkClosed headersprite1" style="display:inline-block; background-position: 0 -48px;width:6px;height:6px;"></span><span class="advancesearchlinkOpen headersprite1" style="display:none;height:5px;width:6px;background-position: 0 -934px;"></span></center>
+											<b>Advanced Search</b><br><center><span class="advancesearchlinkClosed headersprite1" style="display:inline-block; background-position: -17px -25px;width:6px;height:5px;font-size:0;line-height:0;"></span><span class="advancesearchlinkOpen headersprite1" style="display:none;height:5px;width:6px;background-position:-24px -25px;font-size:0;line-height:0;"></span></center>
 										</div>
 									</div>
 								 </div>
@@ -372,7 +444,7 @@ $('#giftcouponsendmailimg').click(function(){$.ajax({url:path+'gc/thankingMail/'
 							
 							      							  <div id="hovTopSearchAndDept" class="hovTopSearchAndDeptNrmlSearch">
                                         <h3>Top searches</h3>
-                                        <a class="tags topsearch" style="font-size:1.1138em;" rel="http://www.20north.com/search?keyword=airsoft+guns&amp;id=7000001" href="javascript:void(0)">airsoft guns</a> <a class="tags topsearch" style="font-size:1.00462em;" rel="http://www.20north.com/search?keyword=airsoft+pistols&amp;id=7000001" href="javascript:void(0)">airsoft pistols</a> <a class="tags topsearch" style="font-size:1.01105em;" rel="http://www.20north.com/search?keyword=blu+ray+movies&amp;id=1000042" href="javascript:void(0)">blu ray movies</a> <a class="tags topsearch" style="font-size:1.01057em;" rel="http://www.20north.com/search?keyword=Bose&amp;id=3000001" href="javascript:void(0)">Bose</a> <a class="tags topsearch" style="font-size:1em;" rel="http://www.20north.com/search?keyword=casio&amp;id=4000565" href="javascript:void(0)">casio</a> <a class="tags topsearch" style="font-size:1.00425em;" rel="http://www.20north.com/search?keyword=casio+watch&amp;id=4000525" href="javascript:void(0)">casio watch</a> <a class="tags topsearch" style="font-size:1.00036em;" rel="http://www.20north.com/search?keyword=clubwear&amp;id=4000001" href="javascript:void(0)">clubwear</a> <a class="tags topsearch" style="font-size:1.00389em;" rel="http://www.20north.com/search?keyword=cold+steel&amp;id=7000001" href="javascript:void(0)">cold steel</a> <a class="tags topsearch" style="font-size:1.00206em;" rel="http://www.20north.com/search?keyword=cold+steel+knives&amp;id=7000001" href="javascript:void(0)">cold steel knives</a> <a class="tags topsearch" style="font-size:2em;" rel="http://www.20north.com/search?keyword=converse&amp;id=5000001" href="javascript:void(0)">converse</a> <a class="tags topsearch" style="font-size:1.01506em;" rel="http://www.20north.com/search?keyword=converse+shoes&amp;id=5000001" href="javascript:void(0)">converse shoes</a> <a class="tags topsearch" style="font-size:1.07044em;" rel="http://www.20north.com/search?keyword=crocs+shoes&amp;id=5000001" href="javascript:void(0)">crocs shoes</a> <a class="tags topsearch" style="font-size:1.04603em;" rel="http://www.20north.com/search?keyword=golf&amp;id=7000036" href="javascript:void(0)">golf</a> <a class="tags topsearch" style="font-size:1.05599em;" rel="http://www.20north.com/search?keyword=ikea+furniture&amp;id=6000001" href="javascript:void(0)">ikea furniture</a> <a class="tags topsearch" style="font-size:1.08611em;" rel="http://www.20north.com/search?keyword=iphone&amp;id=3000057" href="javascript:void(0)">iphone</a> <a class="tags topsearch" style="font-size:1.01482em;" rel="http://www.20north.com/search?keyword=iphone+3gs&amp;id=1000001" href="javascript:void(0)">iphone 3gs</a> <a class="tags topsearch" style="font-size:1.32572em;" rel="http://www.20north.com/search?keyword=italian&amp;id=5000001" href="javascript:void(0)">italian</a> <a class="tags topsearch" style="font-size:1.54749em;" rel="http://www.20north.com/search?keyword=italian+shoes&amp;id=5000001" href="javascript:void(0)">italian shoes</a> <a class="tags topsearch" style="font-size:1.06631em;" rel="http://www.20north.com/search?keyword=knives&amp;id=7000517" href="javascript:void(0)">knives</a> <a class="tags topsearch" style="font-size:1.08574em;" rel="http://www.20north.com/search?keyword=leatherman&amp;id=6000392" href="javascript:void(0)">leatherman</a> <a class="tags topsearch" style="font-size:1.02538em;" rel="http://www.20north.com/search?keyword=marklin+|+lionel&amp;id=9000002" href="javascript:void(0)">marklin | lionel</a> <a class="tags topsearch" style="font-size:1.0085em;" rel="http://www.20north.com/search?keyword=mens+t+shirts&amp;id=4000001" href="javascript:void(0)">mens t shirts</a> <a class="tags topsearch" style="font-size:1.00874em;" rel="http://www.20north.com/search?keyword=nike&amp;id=4000465" href="javascript:void(0)">nike</a> <a class="tags topsearch" style="font-size:1.07809em;" rel="http://www.20north.com/search?keyword=puma&amp;id=5000017" href="javascript:void(0)">puma</a> <a class="tags topsearch" style="font-size:1.01518em;" rel="http://www.20north.com/search?keyword=Rifle+Scope&amp;id=7000001" href="javascript:void(0)">Rifle Scope</a> <a class="tags topsearch" style="font-size:1.00085em;" rel="http://www.20north.com/search?keyword=shoes&amp;id=5000001" href="javascript:void(0)">shoes</a> <a class="tags topsearch" style="font-size:1.00085em;" rel="http://www.20north.com/search?keyword=subwoofer&amp;id=3000089" href="javascript:void(0)">subwoofer</a> <a class="tags topsearch" style="font-size:1.09619em;" rel="http://www.20north.com/search?keyword=t-rex+rc&amp;id=1000001" href="javascript:void(0)">t-rex rc</a> <a class="tags topsearch" style="font-size:1.05064em;" rel="http://www.20north.com/search?keyword=tamiya+drift&amp;id=9000123" href="javascript:void(0)">tamiya drift</a> <a class="tags topsearch" style="font-size:1.03826em;" rel="http://www.20north.com/search?keyword=turntable&amp;id=3000001" href="javascript:void(0)">turntable</a> <a class="tags topsearch" style="font-size:1.24277em;" rel="http://www.20north.com/search?keyword=twilight&amp;id=1000001" href="javascript:void(0)">twilight</a> <a class="tags topsearch" style="font-size:1.0147em;" rel="http://www.20north.com/search?keyword=x-men&amp;id=1000002" href="javascript:void(0)">x-men</a>                                        <div class="clear"></div>
+                                        <span class="tags topsearch" style="font-size:1.17849em;" rel="http://www.20north.com/search?keyword=airsoft+guns&amp;id=7000001" onclick="topSearchClick(this)">airsoft guns</span> <span class="tags topsearch" style="font-size:1.01662em;" rel="http://www.20north.com/search?keyword=airsoft+pistols&amp;id=7000001" onclick="topSearchClick(this)">airsoft pistols</span> <span class="tags topsearch" style="font-size:1em;" rel="http://www.20north.com/search?keyword=blackberry&amp;id=1000001" onclick="topSearchClick(this)">blackberry</span> <span class="tags topsearch" style="font-size:1.01293em;" rel="http://www.20north.com/search?keyword=blu+ray&amp;id=1000001" onclick="topSearchClick(this)">blu ray</span> <span class="tags topsearch" style="font-size:1.04732em;" rel="http://www.20north.com/search?keyword=boots+caterpillar&amp;id=5000017" onclick="topSearchClick(this)">boots caterpillar</span> <span class="tags topsearch" style="font-size:1.04567em;" rel="http://www.20north.com/search?keyword=canon+slr&amp;id=1000001" onclick="topSearchClick(this)">canon slr</span> <span class="tags topsearch" style="font-size:2em;" rel="http://www.20north.com/search?keyword=converse&amp;id=5000001" onclick="topSearchClick(this)">converse</span> <span class="tags topsearch" style="font-size:1.04886em;" rel="http://www.20north.com/search?keyword=converse+shoes&amp;id=5000001" onclick="topSearchClick(this)">converse shoes</span> <span class="tags topsearch" style="font-size:1.0009em;" rel="http://www.20north.com/search?keyword=diecast&amp;id=9000154" onclick="topSearchClick(this)">diecast</span> <span class="tags topsearch" style="font-size:1.0013em;" rel="http://www.20north.com/search?keyword=ebook+reader&amp;id=1000001" onclick="topSearchClick(this)">ebook reader</span> <span class="tags topsearch" style="font-size:1.11455em;" rel="http://www.20north.com/search?keyword=google+nexus+one&amp;id=3000001" onclick="topSearchClick(this)">google nexus one</span> <span class="tags topsearch" style="font-size:1.14649em;" rel="http://www.20north.com/search?keyword=ipad&amp;id=1000001" onclick="topSearchClick(this)">ipad</span> <span class="tags topsearch" style="font-size:1.06144em;" rel="http://www.20north.com/search?keyword=iphone&amp;id=1000001" onclick="topSearchClick(this)">iphone</span> <span class="tags topsearch" style="font-size:1.03679em;" rel="http://www.20north.com/search?keyword=iphone+3gs&amp;id=1000001" onclick="topSearchClick(this)">iphone 3gs</span> <span class="tags topsearch" style="font-size:1.14295em;" rel="http://www.20north.com/search?keyword=italian&amp;id=5000001" onclick="topSearchClick(this)">italian</span> <span class="tags topsearch" style="font-size:1.39431em;" rel="http://www.20north.com/search?keyword=italian+shoes&amp;id=5000001" onclick="topSearchClick(this)">italian shoes</span> <span class="tags topsearch" style="font-size:1.0005em;" rel="http://www.20north.com/search?keyword=kindle&amp;id=1000001" onclick="topSearchClick(this)">kindle</span> <span class="tags topsearch" style="font-size:1.01328em;" rel="http://www.20north.com/search?keyword=knife&amp;id=7000001" onclick="topSearchClick(this)">knife</span> <span class="tags topsearch" style="font-size:1.00015em;" rel="http://www.20north.com/search?keyword=laptop&amp;id=1000001" onclick="topSearchClick(this)">laptop</span> <span class="tags topsearch" style="font-size:1.01437em;" rel="http://www.20north.com/search?keyword=leatherman&amp;id=6000362" onclick="topSearchClick(this)">leatherman</span> <span class="tags topsearch" style="font-size:1.01288em;" rel="http://www.20north.com/search?keyword=nexus+one&amp;id=1000001" onclick="topSearchClick(this)">nexus one</span> <span class="tags topsearch" style="font-size:1.0018em;" rel="http://www.20north.com/search?keyword=projector&amp;id=1000001" onclick="topSearchClick(this)">projector</span> <span class="tags topsearch" style="font-size:1.19022em;" rel="http://www.20north.com/search?keyword=puma&amp;id=5000017" onclick="topSearchClick(this)">puma</span> <span class="tags topsearch" style="font-size:1.1145em;" rel="http://www.20north.com/search?keyword=racing+car&amp;id=1000001" onclick="topSearchClick(this)">racing car</span> <span class="tags topsearch" style="font-size:1.07103em;" rel="http://www.20north.com/search?keyword=reebok+shoes+men&amp;id=5000017" onclick="topSearchClick(this)">reebok shoes men</span> <span class="tags topsearch" style="font-size:1.00285em;" rel="http://www.20north.com/search?keyword=Rifle+Scope&amp;id=7000001" onclick="topSearchClick(this)">Rifle Scope</span> <span class="tags topsearch" style="font-size:1.07392em;" rel="http://www.20north.com/search?keyword=tamiya+drift&amp;id=9000123" onclick="topSearchClick(this)">tamiya drift</span> <span class="tags topsearch" style="font-size:1.00344em;" rel="http://www.20north.com/search?keyword=webkinz&amp;id=9000002" onclick="topSearchClick(this)">webkinz</span> <span class="tags topsearch" style="font-size:1.01333em;" rel="http://www.20north.com/search?keyword=wolverine&amp;id=1000002" onclick="topSearchClick(this)">wolverine</span> <span class="tags topsearch" style="font-size:1.06793em;" rel="http://www.20north.com/search?keyword=x-men&amp;id=1000002" onclick="topSearchClick(this)">x-men</span>                                        <div class="clear"></div>
                                    </div>
 										
 							
@@ -404,12 +476,12 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
         <div class="logregtop"> </div>
             <div class="generalPopUpContent">
 
-                <div style="width:8px;height:100%;overflow:hidden;position:absolute;border:0px solid red;background:url('./images/back_mid.png') repeat;_background:none;left:0px;top:0px;"></div>
-                <div style="width:8px;height:100%;overflow:hidden;position:absolute;border:0px solid red;background:url('./images/back_mid.png') repeat;_background:none;right:0px;top:0px;"></div>
-                <div class="thankyoumsgdiv" style="width:420px;background-color:#F5F3EF;text-align:center">
+                <div id="lefttransp"></div>
+                <div id="righttransp"></div>
+                <div class="thankyoumsgdiv" style="width:420px;text-align:center">
                     <span id="general_popup_maincontent" class="main_message"></span>
                     <span class="actionbuttons">
-                     <img src="./images/okbutton.gif" style="font-size:11px" class="generalpopupokbtn" id="generalpopupclose">
+						<span class="headersprite1 stndrdbutton generalpopupokbtn" id="generalpopupclose" style="font-size:11px">OK</span>
                     </span>
                 </div>
             </div>
@@ -454,13 +526,13 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
 </style>
 			<div id="container">
               
-					<div id="left_side">
+					 <div id="left_side">
 					<div id="left_formenu">
                    <div id="topmenu">
                             <div id="new_hover_menu">
-                        	<div id="container_menu">
+                        	 <div id="container_menu">
 
-<img src="images/all_dept.gif" alt="all departments" id="all_department_hover" style="margin-bottom:0">
+<span id="all_department_hover"></span>
 <ul id="all_dpt" class="sf-vertical">
     <li><a class="leftmenu" href="#">Books, Music &amp; Movies</a>
         <ul class="new_menu" style="width:150px">
@@ -469,10 +541,9 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
             <li class="list" style="border-bottom:none"><div class="bottomleft"><a class="bottomright" href="browse/?per_page=1&amp;id=1000123">Music</a></div></li>
         </ul>     	
     </li>
-    <li><a class="leftmenu" href="#">Jewelry &amp; Watches</a>
+    <li><a class="leftmenu" href="#">Watches</a>
         <ul class="new_menu" style="width:150px">
-            <li class="list"><div class="topright"><a href="browse/?per_page=1&amp;id=4000474">Jewelry</a></div></li>
-            <li class="list" style="border-bottom:none"><div class="bottomleft"><a class="bottomright" href="browse/?per_page=1&amp;id=4000560">Watches</a></div></li>            
+            <li class="list"><div class="topright"><a class="bottomright" href="browse/?per_page=1&amp;id=4000560" style="width:100%;_background:0 none">Watches</a></div></li>
         </ul>     	
     </li>        
     <li><a class="leftmenu" href="#">Apparel &amp; Accessories</a>
@@ -574,9 +645,16 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
            <li class="list" style="border-bottom:none"><div class="bottomleft"><a class="bottomright" href="browse/?category=Industrial&amp;per_page=1&amp;id=8000060">Automotive</a></div></li>
 		</ul>				     	
     </li>
+	<li><a class="leftmenu" href="#">Featured Stores</a>
+        <ul class="new_menu" style="width:200px">
+           <li class="list"><div class="topright"><a href="http://www.20north.com/store/opengear" class="bottomright" style="width:100%;_background:0 none">Opengear</a></div></li>
+		 
+        </ul>				     	
+    </li>
 </ul>
-
-                </div>
+</div>
+<script>$("ul.sf-vertical").superfish({animation:{height:'show'},delay:500});</script>
+ 
                             </div>
                         </div>
                     </div>
@@ -587,6 +665,8 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
 						<div id="clcbg">
 							<div class="clc_brd1" style="border:none;line-height:2">
                                                                 <span><a href="pages/view/about_us" class="actlink">About Us</a></span><br>
+                                                                <span><a href="pages/view/eye_view" class="actlink">20North - A birds eye view</a></span><br>
+                                                                <span><a href="pages/view/partners" class="actlink">Alliance Marketing Partners</a></span><br>
                                                                 <span><a href="pages/view/executive_team" class="actlink">Executive Team</a></span><br>
                                                                 <span><a href="pages/view/affiliate" class="actlink">Affiliates</a></span><br>
                                                                 <span><a href="pages/view/duty_free" class="actlink">Duty Free Gifting</a></span><br>
@@ -596,6 +676,7 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
                                                                 <span><a href="pages/view/contact_us" class="actlink">Contact Us</a></span><br>
                                                                 <span><a href="pages/view/return_policy" class="actlink">Return Policy</a></span><br>
                                                                 <span><a href="pages/view/testimonials" class="actlink">Testimonials</a></span><br>
+                                                                <span><a href="pages/view/Survey" class="actlink">Your suggestions</a></span><br>
                             	
                 <span id="faq"><a href="faq" class="actlink">FAQ</a></span><br>
                 <span id="faqCat" style="display:block;">
@@ -612,12 +693,13 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
                   
 					
 				</div>
+ 
 					
 <div id="center_right_side" style="border:1px solid #CCCCCC">
 
 				
 				
-                <div id="c1" style="padding-left:10px"><a class="tab_selected">Privacy policy</a></div>
+                <div id="c1" style="padding-left:10px;padding-bottom:0px;"><a class="tab_selected" style="">Privacy policy</a></div>
                  <div id="c2" style="padding:0px 10px 10px 25px; font-size:12px; font-family:Arial, Helvetica, sans-serif">
                  	<style type="text/css">
 .style1 {
@@ -704,46 +786,20 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
 				<div class="clear"></div>
 			</div>
 			<div class="clear"></div>
-			<script src="http://www.20north.com/combine?type=javascript&amp;files=jquery.metadata.js,ddaccordion.js,carousel.js,jquery.autocomplete.js,wishlist.js&amp;ver=0.01" type="text/javascript"></script>
+			 <script src="http://www.20north.com/combine?type=javascript&amp;files=jquery.metadata.js,ddaccordion.js,carousel.js,jquery.autocomplete.js,wishlist.js,jquery.validate.pack.js,jquery.jtip.js,jquery.cycle.js,jquery.slideshow.minified.js,jqzoom.js,recommend.js,functions.js,jquery.supersized.2.0.js&amp;ver=0.06" type="text/javascript"></script>
 <!--Png fix for IE6-->
 <!--[if lt IE 7.]>
 	<script defer type="text/javascript" src="http://www.20north.com/combine?type=javascript&files=pngfix.js&ver=0.01" type="text/javascript"></script>
 <![endif]-->
-
-<!--
-<script type="text/javascript" src="http://www.20north.com/js/carousel.js"></script>
-        <script type="text/javascript" src="http://www.20north.com/js/jquery.jtip.js?ver=0.02"></script>
-    <script src="http://www.20north.com/js/jquery.autocomplete.js" type='text/javascript'></script>
-    	<script type="text/javascript" src="http://www.20north.com/js/functions.js"></script>
-        	 <script src="http://www.20north.com/js/jquery.cycle.js" type='text/javascript'></script>
-    <script type="text/javascript" src="http://www.20north.com/js/jquery.slideshow.minified.js"></script>
-             <script src="http://www.20north.com/js/jquery.simplemodal.js" type='text/javascript'></script>
-<script src="http://www.20north.com/js/superfish.js" type="text/javascript"></script>
-    <script src="http://www.20north.com/js/jqzoom.js?ver=0.02" type='text/javascript'></script>
-        	    <script src="http://www.20north.com/js/recommend.js?ver=0.03" type='text/javascript'></script>
-		    	<script type="text/javascript" src="http://www.20north.com/js/ddaccordion.js"></script>
-				      <script src="http://www.20north.com/js/jquery.metadata.js" type='text/javascript'></script>
-				          <script type="text/javascript" src="http://www.20north.com/js/jquery.corner.js"></script>
-     <script src="http://www.20north.com/js/jquery.validate.pack.js" type='text/javascript'></script>
-         <script src="http://www.20north.com/js/wishlist.js?ver=0.02" type='text/javascript'></script>
-    -->
-
-<script src="http://www.20north.com/combine?type=javascript&amp;files=jquery.validate.pack.js,jquery.jtip.js,jquery.cycle.js,jquery.slideshow.minified.js,jqzoom.js,superfish.js,recommend.js,functions.js,jquery.supersized.2.0.js&amp;ver=0.01" type="text/javascript"></script>
-
-
-
-    <!--[if IE]><script type="text/javascript" src="http://www.20north.com/js/excanvas.js"></script><![endif]-->
-
-
+<!--[if IE]><script type="text/javascript" src="http://www.20north.com/js/excanvas.js"></script><![endif]-->
 <script type="text/javascript">
-
         //Initialize homepage slideshow
      if($('#supersize'))
 	 {
 		$(function(){
 					 $.fn.supersized.options = {
 					startwidth: 557,
-					startheight: 270,
+					startheight: 263,
 					vertical_center: 1,
 					slideshow: 1,
 					navigation: 1,
@@ -759,12 +815,11 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
 	 }
 
         //Home page middle side slide show
-          if($('.buygift'))
+          /*if($('.buygift'))
           {
-              /*$('.buygift').slideShow({
-                interval: 1
-              });*/
-          }
+              $('.buygift').slideShow({
+                interval: 3
+              });          }*/
           //Right side slide show
           if($('.dfads_rightside'))
           {
@@ -789,7 +844,7 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
 }
 </style>
 <div id="registerAndLogin">
-  	<a href="#" title="Close" class="modalCloseX simplemodal-close"><img src="images/close_big.jpg" border="0" style="margin-top:10px"></a>
+  	<a href="#" title="Close" class="modalCloseX simplemodal-close headersprite1 redclosebtn" style="margin-top:15px;margin-right:5px;"></a>
     <div class="logregtop">&nbsp;</div>
   <div id="registerAndLoginbg">
   <div id="regLog-content">
@@ -798,14 +853,17 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
         <h3 id="regLogin-top">Login here </h3>
         <div id="loginRegNow">Not Registered Yet?   <a id="openRegister" href="#">Register Now</a></div>
          <div class="errmsg"></div>
-            <form action="#" method="post" id="regLogLoginForm">
-            	<label for="lr_loginemail">Email:</label> <input type="text" name="email" value="" id="lr_loginemail" maxlength="45" class="regLog-input required email">                <div class="clear"></div>
+           <form action="#" method="post" id="regLogLoginForm">
+            	<label for="lr_loginemail">Email Id:</label> <input type="text" name="email" value="" id="lr_loginemail" maxlength="45" class="regLog-input required">                <div class="clear"></div>
                 <label for="lr_loginpass">Password:</label> <input type="password" name="password" value="" id="lr_loginpass" maxlength="16" class="regLog-input required" minlength="6">                <div class="clear"></div>
                  <div class="buttons">
                  <input type="checkbox" name="remember_me" value="yes" checked="checked" class="" id="ls_remeberme"> <span style="padding-left:7px;">Remember me</span>
                  </div>
                 <div class="buttons">
-                	<input type="submit" name="login" value=" " class="login-send headersprite1" id="ls_loginbutton">                       <input type="submit" name="login-cancel" value=" " class="login-cancel simplemodal-close headersprite1">                </div>
+				 <span class="stndrdbutton_container"><input type="submit" class="login-send headersprite1 stndrdbutton" value="Log In" id="ls_loginbutton" name="login"></span>
+				 <span class="stndrdbutton_container"><input type="submit" class="login-cancel headersprite1 stndrdbutton simplemodal-close" value="Cancel" id="ls_loginbutton" name="login-cancel"></span>
+                
+                </div>
                 <div class="buttons"><a class="forgotpwd" href="ajax/forgotten_password">Forgot your Password?</a></div>
                 <div class="buttons">
                     By logging in you agree to our <a href="http://www.20north.com/pages/view/terms_condition" target="_blank">terms &amp; conditions</a>.
@@ -814,16 +872,16 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
             </form>
 
             </div>
-            <div class="rightside">
+<div class="rightside">
             <h3>Did you know?</h3>
             <ul class="icons">
-                    <li class="ic-cart">Items added to your cart are saved for upto 90 days</li>
-                     <li class="ic-star">You can create a wishlist and get the gifts you want from your friends</li>
-                     <li class="ic-shield">We do not store your credit card information at 20North</li>
-                     <li class="ic-mic" style="background-position:0 -28px">You can get price-drop alerts for items in your cart or wishlist</li>
+                    <li style="margin-top:10px;"><span class="headersprite1 ic-cart"></span><span class="content">Items added to your cart are saved for upto 90 days</span></li>
+                     <li style="margin-top:10px;"><span class="headersprite1 ic-star"></span><span class="content">You can create a wishlist and get the gifts you want from your friends</span></li>
+                     <li style="margin-top:10px;"><span class="headersprite1 ic-shield"></span><span class="content">We do not store your credit card information at 20North</span></li>
+                     <li style="background-position:0 -28px;margin-top:10px;"><span class="headersprite1 ic-mic"></span><span class="content">You can get price-drop alerts for items in your cart or wishlist</span></li>
    				 </ul>
             </div>
-            <div class="clear"></div>
+			  <div class="clear"></div>
         </div>
         <div id="regContent" style="display:none">
         <div class="leftside">
@@ -836,7 +894,9 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
             <form action="#" method="post" id="regLogRegisterForm">
             	<label for="lr_first_name">First Name:</label> <input type="text" name="first_name" value="" id="lr_first_name" maxlength="30" class="regLog-input {validate:{required:true, messages:{required:'Please enter your First Name'}}}">                <div class="clear"></div>
                 <label for="lr_last_name">Last Name:</label> <input type="text" name="last_name" value="" id="lr_last_name" maxlength="45" class="regLog-input {validate:{required:true, messages:{required:'Please enter your Last Name'}}}">                <div class="clear"></div>
-                <label for="lr_email">Email:</label> <input type="text" name="email" value="" id="lr_email" maxlength="45" class="regLog-input {validate:{required:true, email:true,remote:'?c=ajax&amp;m=email_duplicate_check', messages:{required:'Please enter your email address', email:'Please enter a valid email address',remote:'This email is already in use'}}}">                <div class="clear"></div>
+                <label for="lr_email">Email:</label> <input type="text" name="email" value="" id="lr_email" maxlength="45" class="regLog-input {validate:{required:true, email:true,remote:'?c=ajax&amp;m=email_duplicate_check', messages:{required:'Please enter your email address', email:'Please enter a valid email address',remote:'This email is already in use'}}}"><br>
+						   <span style="padding-left:70px;color:#CC0000;clear:both;">This will be your login id</span>
+                <div class="clear"></div>
                 <label for="lr_password">Password:</label> <input type="password" name="password" value="" id="lr_password" maxlength="16" class="regLog-input {validate:{required:true, minlength:6,messages:{required:'Please enter the password', minlength:'Please enter at least 6 characters'}}}" minlength="6">                <div class="clear"></div>
                 <label for="lr_confpass">Confirm Password:</label> <input type="password" name="lr_confpass" value="" id="lr_confpass" maxlength="16" class="regLog-input {validate:{required:true, equalTo: '#lr_password',messages:{required:'Please enter the confirmation password', equalTo:'Passwords do not match'}}}">                <div class="clear"></div>
                 <div class="buttons">
@@ -846,24 +906,27 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
 
 	 			</div>
                 <div class="buttons">
-                	<input type="submit" name="login" value=" " class="register headersprite1" id="ls_regbutton" onclick="">                       <input type="submit" name="login-cancel" value=" " class="register-later simplemodal-close headersprite1">                </div>
+					 <span class="stndrdbutton_container"><input type="submit" class="register headersprite1 stndrdbutton" value="I agree, Continue" id="ls_regbutton" name="login"></span>
+				 	 <span class="stndrdbutton_container"><input type="submit" class="register-later headersprite1 stndrdbutton simplemodal-close" value="Register Later" id="ls_regbutton" name="login-cancel"></span>
+				</div>
             </form>
+			<iframe src="" style="display:none" id="gtrackSignup"></iframe>
             </div>
             <div class="rightside">
             <h3>Why Register?</h3>
             <ul class="icons">
-                    <li class="ic-cart" style="margin:10px 0px;">Items added to your cart will be saved for upto 90 days</li>
-                     <li class="ic-star" style="background-position:0 -118px;margin:10px 0px;">Create a wishlist and get the gifts you want from your friends</li>
-                     <li class="ic-heart" style="margin:10px 0px;">Share cool products with your friends on Facebook, Orkut, etc</li>
-                     <li class="ic-dollar" style="margin:10px 0px;">Get price-drop alerts for items in your cart or wishlist</li>
-                     <li class="ic-mic" style="margin:10px 0px;">Get information about the best deals</li>
+                    <li style="margin:10px 0px;"><span class="headersprite1 ic-cart"></span><span class="content">Items added to your cart will be saved for upto 90 days</span></li>
+                     <li style="margin:10px 0px;"><span class="headersprite1 ic-star"></span><span class="content">Create a wishlist and get the gifts you want from your friends</span></li>
+                     <li style="margin:10px 0px;"><span class="headersprite1 ic-heart"></span><span class="content">Share cool products with your friends on Facebook, Orkut, etc</span></li>
+                     <li style="margin:10px 0px;"><span class="headersprite1 ic-dollar"></span><span class="content">Get price-drop alerts for items in your cart or wishlist</span></li>
+                     <li style="margin:10px 0px;margin-bottom:0px;"><span class="headersprite1 ic-mic"></span><span class="content">Get information about the best deals</span></li>
    				 </ul>
-			 <div style="margin-top:10px">
-			 <div style="float:left;width:120px">
-				<img src="images/home-top1.gif" width="120">
+			 <div>
+			 <div style="float:left;margin-bottom:10px;">
+				<img src="images/home-top1.png">
 			 </div>
-			 <div style="float:left">
-			 <h3 style="font-size:11px;padding-top:26px;"> Shop in the US. <br>Pay in Rupees.<br>Delivered to India in 2 Weeks. </h3>
+			 <div style="float:left;margin-left:10px;">
+			 <h3 style="font-size:11px;padding-top:11px;"> Shop in the US. <br>Pay in Rupees.<br>Delivered to India in 2 Weeks. </h3>
 			 </div>
 			 <div class="clear"></div>
 			 </div>
@@ -876,7 +939,7 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
   <div class="bottom">&nbsp;</div>
 </div>
 <div id="formregister" style="display:none">
-	<a href="#" title="Close" class="modalCloseX simplemodal-close"><img src="images/close_big.jpg" border="0" style="margin-top:10px"></a>
+	<a href="#" title="Close" class="modalCloseX simplemodal-close headersprite1 redclosebtn" style="margin-top:15px;margin-right:5px;"></a>
 	<div class="contact-top"></div>
 	<div class="contact-content">
 		<h1 class="contact-title">Registration Form:</h1>
@@ -945,7 +1008,7 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
 </div>
 
 <div id="formrecommend" style="display:none">
-	<a href="#" title="Close" class="modalCloseX simplemodal-close"><img src="images/close_big.jpg" border="0" style="margin-top:10px"></a>
+	<a href="#" title="Close" class="modalCloseX simplemodal-close headersprite1 redclosebtn" style="margin-top:10px"></a>
 	<div class="contact-top"></div>
 	<div class="recommend-content">
 		<h1 class="recommend-title">Recommendation Form:</h1>
@@ -986,25 +1049,14 @@ $('#advsearchblock .innerwhitediv').corner("bl,round 5px");
 </div>
 
 <div id="footer">
-			<span style="display:inline-block;width:127px;height:70px;margin-top:6px;background-position:0 -130px;;margin-left:10px;" class="headersprite1"></span>
+			<span style="display:inline-block;width:127px;height:70px;margin-top:6px;background-position:0 -142px;margin-left:10px;" class="headersprite1"></span>
 			<p>Buy <i>anything</i> in the world from <i>anywhere</i> in India.</p>
              <div id="footer_menu">
-            <span><a href="pages/view/merchant" class="actlink">Selling on 20North</a>&nbsp;&nbsp;|&nbsp;</span><span><a href="pages/view/about_us" class="actlink">About Us</a>&nbsp;&nbsp;|&nbsp;</span><span><a href="pages/view/affiliate" class="actlink">Affiliates</a>&nbsp;&nbsp;|&nbsp;</span><span><a href="pages/view/return_policy" class="actlink">Return &amp; Refund Policy</a>&nbsp;&nbsp;|&nbsp;</span>
+            <span><a href="pages/view/merchant" class="actlink">Selling on 20North</a>&nbsp;&nbsp;|&nbsp;</span><span><a href="pages/view/about_us" class="actlink">About Us</a>&nbsp;&nbsp;|&nbsp;</span><span><a href="pages/view/partners" class="actlink">Partners</a>&nbsp;&nbsp;|&nbsp;</span><span><a href="pages/view/affiliate" class="actlink">Affiliates</a>&nbsp;&nbsp;|&nbsp;</span><span><a href="pages/view/return_policy" class="actlink">Return &amp; Refund Policy</a>&nbsp;&nbsp;|&nbsp;</span>
 <span><a href="pages/view/privacy_policy" class="deactivated">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;</span><span><a href="pages/view/terms_condition" class="actlink">Terms &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;</span><span><a href="pages/view/contact_us" class="actlink">Contact Us</a>&nbsp;&nbsp;|&nbsp;</span><span><a href="pages/view/feedback" class="actlink">Feedback</a></span>
             </div>
 			</div>
-
  </div>
- 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-8091158-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
  
 <script id="pap_x2s6df8d" src="http://www.20north.com/affiliate/scripts/clickjs.php" type="text/javascript">
 </script>
