@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208231051id_/http%3A//www.intouch.org/site/lookup.asp%3Fc%3DcnKBIPNuEoG%26b%3D4943723) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616201645id_/http%3A//www.intouch.org/site/lookup.asp%3Fc%3DcnKBIPNuEoG%26b%3D4943723) for the most accurate reproduction.*
 
-# Privacy Policy - In Touch Ministries - Dr. Charles Stanley 2009
+# Privacy Policy - In Touch Ministries - Dr. Charles Stanley 2010
 
 Please be assured that In Touch Ministries will not disclose your personal information or information from your financial institution to any other organization, ministry, or business unless ordered to do so by a legal court order. We do not sell, rent or loan our mailing list to any other organization.
 
