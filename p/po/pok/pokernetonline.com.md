@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokernetonline.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027124818id_/http%3A//www.pokernetonline.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokernetonline.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616055402id_/http%3A//www.pokernetonline.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Contact Us - Free Poker Money Online - PokerNetOnline
 
@@ -7,7 +7,7 @@
 ### Privacy Policy   
   
 ---  
-| [Terms and Conditions](https://web.archive.org/web/20091027124818id_/http%3A//www.pokernetonline.com/terms.php)  
+| [Terms and Conditions](https://web.archive.org/web/20100616055402id_/http%3A//www.pokernetonline.com/terms.php)  
 ---  
 This is the web site of **PokerNetOnline**. 
 
