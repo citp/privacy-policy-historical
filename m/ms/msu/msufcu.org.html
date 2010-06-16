@@ -1,18 +1,32 @@
-<!--The following is the downloaded HTML source of the msufcu.org privacy policy that was archived on 2007-08-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070818032654id_/https%3A//www.msufcu.org/p_privacypolicy.html%3Fmnuccid%3D65) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the msufcu.org privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616190757id_/https%3A//www.msufcu.org/p_privacypolicy.html%3Fmnuccid%3D65) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <script language="javascript" type="text/javascript">
 var sslkeysize = "128"; 
 var hbstatus = "1";
-var remaddr = "207.241.232.16";
+var remaddr = "207.241.228.160";
 var clcgi = "dfawrapper.pl";
 </script>
 
 
 	<title>MSUFCU Privacy Policy</title>
-			<script language="JavaScript" type="text/javascript" src="https://www.msufcu.org/script/mynewjs.js"></script>
+			<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+	<meta http-equiv="Page-Enter" content="revealtrans(duration=0.0)">
+	<meta http-equiv="Page-Exit" content="revealtrans(duration=0.0)">
+	<script language="JavaScript" type="text/javascript" src="/script/jquery-1.3.2.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/script/jquery-plugins/capslock_fix.jquery.js"></script>
+	<script language="JavaScript" type="text/javascript" src="https://www.msufcu.org/script/mynewjs.js"></script>
 	<link rel="stylesheet" href="https://www.msufcu.org/script/rev2_stylesheet.css" type="text/css">
+  <link rel="alternate" type="application/rss+xml" title="MSUFCU Events" href="https://www.msufcu.org/rss/events.xml">
+  <link rel="alternate" type="application/rss+xml" title="What's New @ MSUFCU" href="https://www.msufcu.org/rss/whats_new.xml">  
+  <link rel="alternate" type="application/rss+xml" title="MSUFCU Auto Loan Rates" href="https://www.msufcu.org/rss/auto_rates.xml">
+  <link rel="alternate" type="application/rss+xml" title="MSUFCU Recreational Vehicles and Boat Loan Rates" href="https://www.msufcu.org/rss/rv_boat_rates.xml">
+  <link rel="alternate" type="application/rss+xml" title="MSUFCU Home Equity Loan Rates" href="https://www.msufcu.org/rss/home_equity_rates.xml">
+  <link rel="alternate" type="application/rss+xml" title="MSUFCU Consumer Loan Rates" href="https://www.msufcu.org/rss/consumer_rates.xml">
+  <link rel="alternate" type="application/rss+xml" title="MSUFCU Mortgage Loan Rates" href="https://www.msufcu.org/rss/mortgage_rates.xml">
+  <link rel="alternate" type="application/rss+xml" title="MSUFCU Consumer Dividend Rates" href="https://www.msufcu.org/rss/consumer_dividend_rates.xml">
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#000000" link="#334433" vlink="black" alink="#557755">
 
@@ -21,19 +35,48 @@ var clcgi = "dfawrapper.pl";
 				<tbody><tr>
 					<td>
 					<!-- <a href="/"><img src="https://www.msufcu.org/graphics/drk_logo6.gif" 
-					width="185" height="57" alt="MSUFCU Home" align="left" border="0"></a> -->
+					width="185" height="57" alt="MSUFCU Home" align="left" border="0"></a> -->					
 					<a href="/"><img src="https://www.msufcu.org/graphics/msufcu_logo9flat.gif" width="190" height="74" alt="MSUFCU Home" align="left" border="0"></a>
 					</td>
 			  <script language="javascript">
 	window.name = 'msufcumain';
-</script>
+	var selectedInput = null;
+
+$(document).ready(function() {
+	$('input, textarea, select').focus(function()	{ 
+	    selectedInput = this; 
+	}); 
+
+	var options = {
+		caps_lock_on: function() {
+			if(selectedInput.name == 'PASSWORD')
+			{
+				errpos = $('#clpass').offset();
+				$('#login_notice').css({'background-color': '#DDCC88', 'padding': '6px'});
+				$('#login_notice').css('position','absolute');
+				$('#login_notice').css('left', errpos.left+'px');
+				$('#login_notice').css('top', errpos.top+20+'px');						 
+				$('#login_notice').show().html('<strong>Your CAPS LOCK is On.</strong><br/>Your MSUFCU password is case-sensitive.');
+			}
+		},
+		caps_lock_off: function() {
+			// alert("Caps Lock off");
+			$('#login_notice').hide().html('');
+		}
+	};
 	
+	$().capslock(options);
+
+	$("#password_field").capslock(options); 
+});
+
+</script>
 	<td bgcolor="WHITE" width="345" nowrap="" align="left">
 		<table width="345" cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr height="20" valign="middle">
 			<td colspan="2" bgcolor="#abc2a3" align="center" height="20" valign="middle">
 			<font face="tahoma" size="1" color="black" class="boxhead">
-			<b>ComputerLine - Protected by TrulyU™ Security</b>
+			<b>ComputerLine - Protected by TrulyU</b><sup>®</sup><b> Security</b>
 			</font></td>
 		</tr>
 					<tr>
@@ -51,11 +94,11 @@ var clcgi = "dfawrapper.pl";
 						</tr>
 						<tr>
 							<td>
-								<b><font face="arial" size="2" class="clfont"><nobr>Password</nobr></font></b>
+								<b><font face="arial" size="2" class="clfont"><span id="clpass">Password</span></font></b>
 							</td>
 							<td>
-								<input type="PASSWORD" name="PASSWORD" size="5" class="clinput" tabindex="2" autocomplete="OFF">
-								<input type="hidden" name="WWWSESSID" value="b48665019ff86e0ee971d9d5d8294809">
+								<input type="PASSWORD" id="password_field" name="PASSWORD" size="5" class="clinput" tabindex="2" autocomplete="OFF">
+								<input type="hidden" name="WWWSESSID" value="891ffce10fa89e0bc656fdbded231cad">
 							</td>
 						</tr>
 					</tbody></table>
@@ -71,7 +114,40 @@ var clcgi = "dfawrapper.pl";
 						</tr>
 						<tr>
 							<td valign="bottom">
-							<input type="image" tabindex="3" src="https://www.msufcu.org/graphics/login_btn.gif" border="0" name="ComputerLine login (128bit secure)" value="Continue" alt="ComputerLine login (128bit secure)" title="ComputerLine login (128bit secure)" width="60" height="19" onclick="this.disabled=true;document.NEWFORM1.submit();return false;">							
+							<input type="image" tabindex="3" src="https://www.msufcu.org/graphics/login_btn.gif" border="0" name="ComputerLine login (128bit secure) hb" value="Continue" alt="ComputerLine login (128bit secure) hb" title="ComputerLine login (128bit secure) hb" width="60" height="19" onclick="
+					 if(document.NEWFORM1.ACCOUNTNUMBER.value == '')
+					 {
+					 	 errpos = $('#clpass').offset();
+					 	 $('#login_error').css({'background-color': '#DDDD88', 'padding': '6px'});
+						 $('#login_error').css('position','absolute');
+						 $('#login_error').css('left', errpos.left+'px');
+						 $('#login_error').css('top', errpos.top+20+'px');						 
+					 	 $('#login_error').html('<u>Error</u><br/>Please enter your account number.');
+					 	 $('#login_error').show();
+						 // alert('Please enter your account number.');
+						 document.NEWFORM1.ACCOUNTNUMBER.focus();
+						 setTimeout(function(){$('#login_error').fadeOut().html('')}, 2000);
+					 }
+					 else if(document.NEWFORM1.PASSWORD.value == '')
+					 {
+					 	 errpos = $('#clpass').offset();
+					 	 $('#login_error').css({'background-color': '#DDDD88', 'padding': '6px'});
+						 $('#login_error').css('position','absolute');
+						 $('#login_error').css('left', errpos.left+'px');
+						 $('#login_error').css('top', errpos.top+20+'px');						 
+					 	 $('#login_error').html('<u>Error</u><br/>Please enter your password.');
+						 $('#login_error').show();					 	 
+						 // alert('Please enter your password.');
+						 document.NEWFORM1.PASSWORD.focus();
+						 setTimeout(function(){$('#login_error').fadeOut().html('')}, 2000);
+					 }
+					 else
+					 {
+	 					 this.disabled=true;
+ 						 document.NEWFORM1.submit();					 
+					 }
+					 return false;					 
+					 ">							
 							</td>
 							<td align="right" class="boxtext">
 								<table border="0" cellpadding="0" cellspacing="0">
@@ -95,38 +171,69 @@ var clcgi = "dfawrapper.pl";
 				
 			</tr>
 		</tbody></table>
-	</td>
-				
+	<div id="login_error" style="display:none; position:absolute; color:#333300;
+	width:270px; border:2px solid #FFFF66; z-index:200; font-weight:bold;"></div>
 
-<td height="76" bgcolor="WHITE" nowrap="" align="right" valign="center">
-	<table width="100%" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr class="quicklinks">
-		<td valign="middle" align="right">
-						<a title="Rates" href="c_rates.html?tracking=topmenu&amp;mnuccid=65" class="quicklinks">Rates</a>
-					</td>
-					<td width="14" valign="middle"><a href="c_rates.html?tracking=topmenu&amp;mnuccid=65"><img border="0" src="https://www.msufcu.org/graphics/14x14arrow.gif" alt="Rates" width="14" height="17"></a></td>
-							</tr>
-		<tr class="quicklinks">
-		<td valign="middle" align="right">
-						<a title="Contact Us" href="contactus.htm?tracking=topmenu&amp;mnuccid=65" class="quicklinks">Contact Us</a>
-					</td>
-					<td width="14" valign="middle"><a href="contactus.htm?tracking=topmenu&amp;mnuccid=65"><img border="0" src="https://www.msufcu.org/graphics/14x14arrow.gif" alt="Contact Us" width="14" height="17"></a></td>
-							</tr>
-		<tr class="quicklinks">
-		<td valign="middle" align="right">
-						<a title="MSUFCU Locations" href="p_msufculoc.html?tracking=topmenu&amp;mnuccid=65" class="quicklinks">MSUFCU Locations</a>
-					</td>
-					<td width="14" valign="middle"><a href="p_msufculoc.html?tracking=topmenu&amp;mnuccid=65"><img border="0" src="https://www.msufcu.org/graphics/14x14arrow.gif" alt="MSUFCU Locations" width="14" height="17"></a></td>
-							</tr>
-		<tr class="quicklinks">
-		<td valign="middle" align="right">
-						<a title="Employment" href="c_employment.html?tracking=topmenu&amp;mnuccid=65" class="quicklinks">Employment</a>
-					</td>
-					<td width="14" valign="middle"><a href="c_employment.html?tracking=topmenu&amp;mnuccid=65"><img border="0" src="https://www.msufcu.org/graphics/14x14arrow.gif" alt="Employment" width="14" height="17"></a></td>
-							</tr>
-	</tbody></table>
-</td>
+	<div id="login_notice" style="display:none; position:absolute; color:#443300;
+	width:270px; border:2px solid #FFFF66; z-index:200;"></div>
 	
+	</td>
+				<style>
+	.qcklnk { text-decoration:none; font-family: Arial; font-size: 9pt; font-weight: bold;  }
+	a.qcklnk { text-decoration:none; font-family: Arial; font-size: 9pt; font-weight: bold;  }
+	a.qcklnk:link { }
+	a.qcklnk:hover { text-decoration: underline; }
+	a.qcklnk:alink {}
+	a.qcklnk:visited {}
+</style>
+<td height="76" bgcolor="WHITE" nowrap="" align="left" valign="center">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr><form name="topsearch" action="search.html" method="post"></form>
+    <td nowrap="">
+      <font style="font-family: Arial; font-size: 8pt; font-weight: bold;">
+      Site Search:
+    	<input type="hidden" value="Insensitive" name="mcase">
+			<input type="hidden" value="AND" name="mbool">
+			<input type="hidden" value="query" name="command">			
+    </font></td>
+    
+    <td width="5">&nbsp;</td>
+    <td nowrap="">
+      <input class="srchinput" style="border-color:#CFC29F; font-size:8pt; width: 85px;" onfocus="focus_off=1;" size="8" name="srchstr"> 
+      <input type="image" align="absmiddle" src="/graphics/tiny_arrow.gif" name="MSUFCU Search" alt="MSUFCU Search" title="MSUFCU Search" value="MSUFCU Search" border="0" onclick="this.disabled=true;document.topsearch.submit();return false;">
+    </td>
+    
+  </tr>
+  <form name="patmsearch" onsubmit="new_fill_atmdata();return false;" action="http://www.co-opfs.org/public/locators/atmlocator/results.cfm" method="post" target="_blank"></form>
+  <input type="hidden" value="display" name="fuseaction"> 
+	<input type="hidden" value="public_atm_info" name="querytable">
+	<input type="hidden" name="cu" value="0">
+	<input type="hidden" name="queryOrder" value="">
+	<input type="hidden" name="queryRadius" value="10">
+	<input type="hidden" value="UNITED STATES" name="country">
+	<input type="hidden" value="ZipCode" name="sortby">
+	<input type="hidden" name="address">
+	<input type="hidden" name="city">
+	<input type="hidden" name="state">
+	<input type="hidden" name="zip">
+  <tr>
+    <td nowrap="">
+      <font style="font-family: Arial; font-size: 8pt; font-weight: bold;">
+      ATM Search:
+     </font></td>
+     <td width="5">&nbsp;</td>
+     <td nowrap=""> 
+      <input class="srchinput" onblur="this.value=(this.value=='')?'city,state or zip':this.value;" onfocus="focus_off=1;if(this.value=='city,state or zip'){ this.value='';}" type="text" value="city,state or zip" name="atmterms" style="border-color:#CFC29F; font-size:8pt; width: 85px;">
+      <input type="image" align="absmiddle" src="/graphics/tiny_arrow.gif" name="ATM Search" alt="ATM Search" title="ATM Search" onclick="new_fill_atmdata();return false;">
+    </td>
+    
+  </tr>
+</tbody></table>
+
+<a class="qcklnk" style="line-height:17px;" href="knowledge_searchm.php">Frequently Asked Questions</a>
+<br>
+<a class="qcklnk" style="line-height:17px;" href="p_calculators.htm">Calculators</a>&nbsp;|&nbsp;<a class="qcklnk" style="line-height:17px;" href="c_rates.html">Rates</a>
+</td>
 					<td width="1%" bgcolor="WHITE" nowrap="">&nbsp;</td>
 		  	</tr>
 			</tbody></table>  
@@ -158,7 +265,7 @@ var clcgi = "dfawrapper.pl";
 			<td width="2" bgcolor="#E4EFE0"><img src="https://www.msufcu.org/graphics/blank.gif" width="2" height="1"></td><td width="2" bgcolor="#E4EFE0"><img src="https://www.msufcu.org/graphics/blank.gif" width="2" height="1"></td>	
 			<td valign="top" width="1" bgcolor="#ABC2A3"><img src="https://www.msufcu.org/graphics/left_round_light.gif" width="10" height="10"></td>
 			<td class="menu" bgcolor="#ABC2A3" valign="middle" align="center">
-			<a href="p_businessaccounts.html?mnuccid=69" class="mainmenu_link"><font color="#000000">Business <br>Accounts</font></a>
+			<a href="/business/" class="mainmenu_link"><font color="#000000">Business <br>Center</font></a>
 			</td>
 			
 			<td valign="top" width="1" bgcolor="#ABC2A3"><img src="https://www.msufcu.org/graphics/right_round_light.gif" width="10" height="10"></td>
@@ -179,7 +286,7 @@ var clcgi = "dfawrapper.pl";
 			<td width="2" bgcolor="#E4EFE0"><img src="https://www.msufcu.org/graphics/blank.gif" width="2" height="1"></td><td width="2" bgcolor="#E4EFE0"><img src="https://www.msufcu.org/graphics/blank.gif" width="2" height="1"></td>	
 			<td valign="top" width="1" bgcolor="#ABC2A3"><img src="https://www.msufcu.org/graphics/left_round_light.gif" width="10" height="10"></td>
 			<td class="menu" bgcolor="#ABC2A3" valign="middle" align="center">
-			<a href="p_selectinsurance.html" class="mainmenu_link"><font color="#000000">Insurance <br>Services</font></a>
+			<a href="c_insureinvest.html?mnuccid=112" class="mainmenu_link"><font color="#000000">Insurance</font></a>
 			</td>
 			
 			<td valign="top" width="1" bgcolor="#ABC2A3"><img src="https://www.msufcu.org/graphics/right_round_light.gif" width="10" height="10"></td>
@@ -193,7 +300,7 @@ var clcgi = "dfawrapper.pl";
 			<td width="2" bgcolor="#E4EFE0"><img src="https://www.msufcu.org/graphics/blank.gif" width="2" height="1"></td><td width="2" bgcolor="#E4EFE0"><img src="https://www.msufcu.org/graphics/blank.gif" width="2" height="1"></td>	
 			<td valign="top" width="1" bgcolor="#ABC2A3"><img src="https://www.msufcu.org/graphics/left_round_light.gif" width="10" height="10"></td>
 			<td class="menu" bgcolor="#ABC2A3" valign="middle" align="center">
-			<a href="p_phishing.html?mnuccid=68" class="mainmenu_link"><font color="#000000">Security <br>Center</font></a>
+			<a href="/p_securitycenter.html?mnuccid=68&amp;rd=1" class="mainmenu_link"><font color="#000000">Security <br>Center</font></a>
 			</td>
 			
 			<td valign="top" width="1" bgcolor="#ABC2A3"><img src="https://www.msufcu.org/graphics/right_round_light.gif" width="10" height="10"></td>
@@ -208,13 +315,6 @@ var clcgi = "dfawrapper.pl";
 			</tbody></table>
 
 
-<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td>
-			<img src="https://www.msufcu.org/images/blank.gif" width="1" height="6" align="left" border="0">
-		</td>
-	</tr>
-</tbody></table>
 <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td>
@@ -262,7 +362,7 @@ var clcgi = "dfawrapper.pl";
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
 		</td>
 	</tr>
-	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="p_communityrelations.html?mnuccid=65" class="leftmenu">Community Relations</a></div></td></tr>
+	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="p_communityrelations.html?mnuccid=65" class="leftmenu">Community Involvement</a></div></td></tr>
 	<tr bgcolor="white">
 		<td>
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
@@ -326,6 +426,22 @@ var clcgi = "dfawrapper.pl";
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
 		</td>
 	</tr>
+	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="https://www.msufcu.org/p_leedgold.html?mnuccid=65" class="leftmenu">LEED Gold Certification</a></div></td></tr>
+	<tr bgcolor="white">
+		<td>
+			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
+		</td>
+	</tr>
+	<tr bgcolor="white">
+		<td bgcolor="#bfb3a5">
+			<img src="/images/blank.gif" width="1" height="1" align="left" border="0">
+		</td>
+	</tr>
+	<tr bgcolor="white">
+		<td bgcolor="#ffffff">
+			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
+		</td>
+	</tr>
 	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="p_msufculoc.html?mnuccid=65" class="leftmenu" title="Click for Locations &amp; Hours sub-menu"><img border="0" src="/graphics/tinyplus6.gif" width="7" height="7" style="position:relative; left:-8px; margin-right:-8px; padding-right:1px;">Locations &amp; Hours</a></div></td></tr>
 	<tr bgcolor="white">
 		<td>
@@ -358,7 +474,7 @@ var clcgi = "dfawrapper.pl";
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
 		</td>
 	</tr>
-	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="p_newsletter.html?mnuccid=65" class="leftmenu">Newsletter</a></div></td></tr>
+	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="https://www.msufcu.org/p_financialcondition.html?mnuccid=65" class="leftmenu">MSUFCU's Financial Security</a></div></td></tr>
 	<tr bgcolor="white">
 		<td>
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
@@ -374,7 +490,23 @@ var clcgi = "dfawrapper.pl";
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
 		</td>
 	</tr>
-	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="p_seminars.html?mnuccid=65" class="leftmenu">Seminars</a></div>		</td>
+	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="https://www.msufcu.org/p_pressreleases.html?mnuccid=65" class="leftmenu">Press Releases</a></div></td></tr>
+	<tr bgcolor="white">
+		<td>
+			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
+		</td>
+	</tr>
+	<tr bgcolor="white">
+		<td bgcolor="#bfb3a5">
+			<img src="/images/blank.gif" width="1" height="1" align="left" border="0">
+		</td>
+	</tr>
+	<tr bgcolor="white">
+		<td bgcolor="#ffffff">
+			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
+		</td>
+	</tr>
+	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="p_seminars.html?mnuccid=65" class="leftmenu">Seminars &amp; Events</a></div>		</td>
 	</tr>
 	<tr bgcolor="white">
 		<td>
@@ -458,16 +590,13 @@ var clcgi = "dfawrapper.pl";
 	</tbody>
 </table>		</td><td width="1"><img src="/images/blank.gif" width="6" height="1"></td>		<td valign="top" width="100%"><table width="100%" border="0" cellpadding="2" cellspacing="1" bgcolor="#6b8163">
 <tbody><tr bgcolor="#6b8163"><td bgcolor="#e4efe0"><font class="leftmenu" size="1" face="verdana"> /<a class="leftmenu" href="p_msufcuinfo.html?mnuccid=65">About MSUFCU</a> /<font color="black">PRIVACY POLICY</font></font></td></tr>
-<tr bgcolor="#6b8163"><td bgcolor="#e4efe0"><font class="leftmenu" size="1" face="verdana"><a href="p_privacypolicy.html?printmode=1&amp;mnuccid=65" class="leftmenu" style="color:#000000;">Print This Page <img align="absmiddle" src="/graphics/printthis.gif" width="16" height="12" border="0" alt="Print this page"></a> | <a href="p_privacypolicy.html?emailmode=1&amp;mnuccid=65" class="leftmenu" style="color:#000000;">Email This Page <img align="absmiddle" src="/graphics/emailthis.gif" width="14" height="9" border="0" alt="Email this page to a friend"></a></font></td></tr>
+<tr bgcolor="#6b8163"><td bgcolor="#e4efe0"><font class="leftmenu" size="1" face="verdana"><a id="printthispage" href="p_privacypolicy.html?printmode=1&amp;mnuccid=65" class="leftmenu" style="color:#000000;">Print This Page <img align="absmiddle" src="/graphics/printthis.gif" width="16" height="12" border="0" alt="Print this page"></a> | <a href="p_privacypolicy.html?emailmode=1&amp;mnuccid=65" class="leftmenu" style="color:#000000;">Email This Page <img align="absmiddle" src="/graphics/emailthis.gif" width="14" height="9" border="0" alt="Email this page to a friend"></a></font></td></tr>
 </tbody></table><title>MSUFCU Privacy Policy</title><strong><font size="4">
 <br>Privacy&nbsp;Policy</font></strong>
-<p style="LINE-HEIGHT: 11pt">Michigan State University Federal Credit Union is owned by its members and run by a Board of Directors you elect. You can be confident that your financial privacy is a top priority of this credit union. We are required by law to give you this privacy notice to explain how we collect, use and safeguard your personal financial information<strong>.</strong> If you have any questions please contact a member service representative at (517) 333-2424 or 800-MSU-4-YOU.
+<p style="LINE-HEIGHT: 11pt">Michigan State University Federal Credit Union is owned by its members and run by a Board of Directors you elect. You can be confident that your financial privacy is a top priority of this credit union. We are required by law to give you this privacy notice to explain how we collect, use and safeguard your personal financial information. If you have any questions please contact a member service representative by phone at (517) 333-2424 or 800-MSU-4-YOU or send a secure message using the "Contact Us" form at <a href="http://www.msufcu.org">www.msufcu.org</a>.
 </p>
-<p style="LINE-HEIGHT: 11pt"><b>Information We Collect About You</b>
-  </p><hr color="#abc2a3">
-  <br>We collect nonpublic personal information about you from the following sources:
-  <p>
-  </p>
+<p style="LINE-HEIGHT: 11pt"><strong>Information We Collect About You</strong>
+  </p><hr color="#abc2a3"> We collect nonpublic personal information about you from the following sources:
   <p style="LINE-HEIGHT: 11pt">• Information we receive from you on membership and loan application and other forms;
   </p>
   <p>• Information about your transactions with us or others;
@@ -476,43 +605,30 @@ var clcgi = "dfawrapper.pl";
   </p>
   <p>• Information obtained when verifying the information you provide on an application or other forms, such as from your current or past employers or from other institutions where you conduct financial transactions.
   </p>
-  <p><b>Information About You We Share</b>
+  <p><strong>Information About You We Share</strong>
     </p><hr color="#abc2a3"> We may disclose information we collect about you under circumstances as permitted or required by law. These disclosures typically include information to process transactions on your behalf, conduct the operations of our credit union, follow your instructions as you authorize, or protect the security of our financial records.
-    <p>
+    <p style="LINE-HEIGHT: 11pt">We are committed to providing you with competitive products and services to meet your financial needs, which necessitates that we share information about you with our affiliates<strong>,</strong> to complete your transactions and to provide you with certain financial opportunities. We have also entered into agreements with other companies that provide either services to us or additional financial products for you to consider.
     </p>
-    <p style="LINE-HEIGHT: 11pt">We are committed to providing you with competitive products and services to meet your financial needs, which necessitates that we share information about you with our affiliates<b>,</b> to complete your transactions and to provide you with certain financial opportunities. We have also entered into agreements with other companies that provide either services to us or additional financial products for you to consider.
-    </p>
-    <p>Under these agreements, we may disclose all of the information we collect, as described above, to companies that perform marketing or other services on our behalf or to other financial institutions with whom we have joint marketing agreements. To protect your privacy, we require these companies to agree to maintain strong confidentiality protections and we prohibit their use of this information other than to carry out the purposes for which it is disclosed.
+    <p>Under these agreements, we may disclose all of the information we collect, as described above, to companies that perform marketing or other services on our behalf or to other financial institutions with whom we have joint marketing agreements. To protect your privacy, we require these companies agree to maintain strong confidentiality protections and we prohibit their use of this information other than to carry out the purposes for which it is disclosed.
     </p>
     <p>If you terminate your membership with Michigan State University Federal Credit Union, we will not share information we have collected about you, except as permitted or required by law.
     </p>
-    <p><b>Steps We Take to Protect Your Information</b>
+    <p><strong>Steps We Take to Protect Your Information</strong>
       </p><hr color="#abc2a3"> We restrict access to nonpublic personal information about you to those employees who have a specific business purpose in utilizing your data. Our employees, members of the Board of Directors and Committee Members shall maintain confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and industry practices to safeguard your nonpublic personal information.
-      <p>
-      </p>
-      <p><b>Links to Other Web Sites</b>
+      <p><strong>Links to Other Web Sites</strong>
         </p><hr color="#abc2a3"> Links from our website are provided for your convenience only. These linked sites are separate from our credit union's web site. We are not responsible for the content or availability of any linked third party websites or the privacy practices of such third parties. In addition, a link from our website to another does not indicate that MSU Federal Credit Union endorses the services or policies of such third party websites. You should always investigate the information practices of all websites that you access and carefully examine the privacy policies of any websites linking to or from our website. Information collected from the linked websites will be subject to the information practices of those websites.
-        <p>
-        </p>
-        <p><b>Online Privacy</b>
+        <p><strong>Online Privacy</strong>
           </p><hr color="#abc2a3"> Our privacy policy is the same whether you are online or not. At our website, <a href="http://www.msufcu.org/">www.msufcu.org</a>, you may apply for membership, accounts, loans and services. You may also communicate with us via the secure "Contact Us" form. To protect information you provide us online, we use multiple levels of security. All applications, forms and ComputerLine transactions are submitted to us securely using the industry standard "Secure Socket Layer" (SSL) encryption to secure your submission. MSUFCU uses 128-bit encryption and we use firewalls to secure your information. A firewall is a security measure that insulates the credit union's computer network from the World Wide Web. We analyze the traffic coming in and out of the firewall, which could indicate intrusion activity and computer viruses. MSUFCU contracts with a third-party technology specialist to try to penetrate our network and evaluate the security of our online applications and ComputerLine. MSUFCU has successfully passed each evaluation and is annually certified as a secure site. To read more about online security requirements <a href="/securityrequirements.html">click here</a>.
-          <p>
-          </p>
-          <p><b>Our Use of Cookies</b>
+          <p><strong>Our Use of Cookies</strong>
             </p><hr color="#abc2a3"> If you conduct transactions with MSUFCU via ComputerLine, you may notice our use of Internet cookies. Cookies are a small text file assigned and attached by a web server to the directory file on your computer. Cookies enable our systems to recognize your browser and your information as you navigate and conduct transactions within ComputerLine. If we did not use cookies within ComputerLine, you would need to enter your account number and password each time you wanted to see another page or each transaction you initiate. ComputerLine uses temporary session cookies that are stored on your Computer only during your current session and are automatically deleted from your computer when you close your browser. No information is collected from your computer.
             <p>
-            </p>
-            <p>
-              <br><b>Children's Online Privacy Protection Act (COPPA)</b>
-              </p><hr color="#abc2a3"> MSUFCU does not knowingly collect, nor is our web site designed or directed to use personal information from children under the age of 13 without containing verifiable consent from their parents. We do offer two children's programs on our web site: Planet M for children ages 5-12 and a GO teen program for children age 13-18. Unless applying for MSUFCU membership, no information is collected from children to participate in the online activities and information found in these areas of our web site.
-              <p>
+              <br><strong>Children's Online Privacy Protection Act (COPPA)</strong>
+              </p><hr color="#abc2a3"> MSUFCU does not knowingly collect, nor is our web site designed or directed to use personal information from children under the age of 13 without containing verifiable consent from their parents. We do offer three children's programs on our web site: Sweet Pea for children ages 0-4,&nbsp;Dollar&nbsp;Dog Kids Club&nbsp;for children ages 5-12, and the Cha-ching program for&nbsp;teens age 13-17. Unless applying for MSUFCU membership, no information is collected from children to participate in the online activities and information found in these areas of our web site.
+              <p><strong>Sweet Pea:</strong> Contains an online membership application that is designed to be submitted by a parent or guardian. In this membership application we ask information about the child for the purpose of establishing a&nbsp;Sweet Pea&nbsp;account for membership. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. Before the application can be submitted, the parent/guardian has to agree to consent to submit this information solely for the purpose of establishing a&nbsp;Sweet Pea&nbsp;account at MSUFCU. Parents/guardians have the ability to review the personal information collected prior to submitting the application. The child's name, age, and address information will also be used to send via U.S. Postal Mail a yearly&nbsp;Sweet Pea&nbsp;account birthday card. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at (517) 333-2424 or toll-free 800-MSU-4-YOU or by sending a secure message using the "Contact Us" form at <a href="http://www.msufcu.org/">www.msufcu.org</a>. In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party.
               </p>
-              <p><strong>Planet M:</strong> Contains an online membership application that is designed to be submitted by a parent or guardian. In this membership application we ask information about the child for the purpose of establishing a Planet M account for membership. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. Before the application can be submitted, the parent/guardian has to agree to consent to submit this information solely for the purpose of establishing a Planet M account at MSUFCU. Parents/guardians have the ability to review the personal information collected prior to submitting the application. The child's name, age, and address information will also be used to send via U.S. Postal Mail a quarterly Planet M account newsletter. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at memserv@msufcu.org, (517) 333-2424 or toll-free 800-MSU-4-YOU. In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party.
+              <p><strong>Dollar Dog:</strong> Contains an online membership application that is designed to be submitted by a parent or guardian. In this membership application we ask information about the child for the purpose of establishing a&nbsp;Dollar Dog&nbsp;account for membership. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. Before the application can be submitted, the parent/guardian has to agree to consent to submit this information solely for the purpose of establishing a&nbsp;Dollar Dog&nbsp;account at MSUFCU. Parents/guardians have the ability to review the personal information collected prior to submitting the application. The child's name, age, and address information will also be used to send via U.S. Postal Mail a quarterly newsletter. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at (517) 333-2424 or toll-free 800-MSU-4-YOU or by sending a secure message using the "Contact Us" form at <a href="http://www.msufcu.org/">www.msufcu.org</a>. In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party.
               </p>
-              <p><strong><em>GO</em> Teen:</strong> This section of our web site is designed for teens ages 13-18. A <em><strong>GO</strong></em> Teen membership application is available to submit online to establish an MSUFCU <em><strong>GO</strong></em> Teen membership account. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. The child's name, age, and address information will also be used to send via U.S. Postal Mail a quarterly <em><strong>GO</strong></em> Teen account newsletter. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at memserv@msufcu.org, (517) 333-2424 or toll-free 800-MSU-4-YOU. In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party.
-                <br>
-                <br>Additionally in the <em><strong>GO</strong></em> Teen section, should a child choose to submit a financial question to "Ask Justin," we would only use that information to respond directly to that child, seek parental consent or provide parental notice. No information would be stored.
-                <br>
+              <p><strong>Cha-ching:</strong> This section of our web site is designed for teens ages 13-17. A Cha-ching membership application is available to submit online to establish an MSUFCU Cha-ching membership account. Information directly collected from the submitted application includes the child's name, social security number, birth date and address. The child's name, age, and address information will also be used to send via U.S. Postal Mail a quarterly newsletter. At any time a parent/guardian may contact MSUFCU and ask that the submitted information no longer be used to contact the child. The credit union staff members in the e-commerce, member services and marketing departments will have access to the information collected. You may reach the credit union at (517) 333-2424 or toll-free 800-MSU-4-YOU or by sending a secure message using the "Contact Us" form at <a href="/">www.msufcu.org</a>. In accordance with MSUFCU's privacy policy, at NO TIME is the child's information provided to a third party.
               </p></td><td width="1"><img src="/images/blank.gif" width="6" height="1"></td>		<td valign="top"><table cellspacing="0" cellpadding="0" width="155" border="0" marginheight="0" marginwidth="0" topmargin="0" rightmargin="0" leftmargin="0">	<tbody>		<tr bgcolor="#d5d5b1">			<td width="9" align="left" valign="top" background="https://www.msufcu.org/graphics/templates/images/s4/ltile.gif"><img src="https://www.msufcu.org/graphics/templates/images/s4/ltile.gif"></td> 			<td width="155" bgcolor="#afaf91">				<table cellspacing="1" cellpadding="0" border="0" width="155">					<tbody>						<tr bgcolor="#d5d5b1">							<td width="100%">
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#d5d5b1"> <!-- #EFE2BF #F3F3F3-->
 			
@@ -534,76 +650,7 @@ var clcgi = "dfawrapper.pl";
 	</tr>
 		<tr bgcolor="white">
 		<td bgcolor="white" class="leftmenu">
-		<table bgcolor="white" border="0" cellpadding="3" width="100%" cellspacing="0"><tbody><tr><td align="center" class="summarymenu"><table cellspacing="0" cellpadding="0" width="150" border="0"> <tbody> 
-  <tr> <form name="patmsearch" onsubmit="new_fill_atmdata();return false;" action="http://www.co-opfs.org/public/locators/atmlocator/results.cfm" method="post" target="_blank"></form> 
-    <td nowrap="noWrap" align="middle" width="100%"><input type="hidden" value="display" name="fuseaction"> <input type="hidden" value="public_atm_info" name="querytable"><input type="hidden" name="cu" value="0"><input type="hidden" name="queryOrder" value=""><input type="hidden" name="queryRadius" value="10"> <input type="hidden" value="UNITED STATES" name="country"> <input type="hidden" value="ZipCode" name="sortby"> <input type="hidden" name="address"> <input type="hidden" name="city"> <input type="hidden" name="state"> <input type="hidden" name="zip"> <font class="searchtext" face="tahoma" size="1"><b>ATM Search : </b></font>
-    </td>
-  </tr> 
-  <tr> 
-    <td nowrap="noWrap" align="middle" width="100%"><input class="srchinput" onblur="this.value=(this.value=='')?'city,state or zip':this.value;" onfocus="focus_off=1;if(this.value=='city,state or zip'){ this.value='';}" size="8" value="city,state or zip" name="atmterms">
-      <input type="image" align="absmiddle" src="/graphics/tinygobtn.gif" name="ATM Search" alt="ATM Search" title="ATM Search" width="24" height="14" onclick="new_fill_atmdata();return false;">
-    </td>
-
-  </tr></tbody>
-</table> 
-</td></tr></tbody></table></td></tr>
-	<tr bgcolor="white">
-		<td>
-			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
-		</td>
-	</tr>
-	<tr bgcolor="white">
-		<td bgcolor="#bfb3a5">
-			<img src="/images/blank.gif" width="1" height="1" align="left" border="0">
-		</td>
-	</tr>
-	<tr bgcolor="white">
-		<td bgcolor="#ffffff">
-			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
-		</td>
-	</tr>
-	<tr bgcolor="white"><td class="leftmenu"><table bgcolor="white" border="0" cellpadding="3" width="100%" cellspacing="0"><tbody><tr><td align="center" class="summarymenu"><table> <tbody> 
-  <tr> <form name="topsearch" action="search.html" method="post"></form> 
-    <td align="middle"><input type="hidden" value="Insensitive" name="mcase"><input type="hidden" value="AND" name="mbool"><input type="hidden" value="query" name="command"><font class="searchtext" face="tahoma" size="1"><b>Keyword Search : </b></font>
-    </td>
-  </tr> 
-  <tr> 
-    <td align="middle"><input class="srchinput" onfocus="focus_off=1;" size="8" name="srchstr"> <input title="MSUFCU Search" onclick="this.disabled=true;document.topsearch.submit();return false;" type="image" height="14" alt="MSUFCU Search" width="24" src="/graphics/tinygobtn.gif" align="absMiddle" value="MSUFCU Search" border="0" name="MSUFCU Search">
-    </td>
-  </tr></tbody>
-</table></td></tr></tbody></table></td></tr>
-	<tr bgcolor="white">
-		<td>
-			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
-		</td>
-	</tr>
-	<tr bgcolor="white">
-		<td bgcolor="#bfb3a5">
-			<img src="/images/blank.gif" width="1" height="1" align="left" border="0">
-		</td>
-	</tr>
-	<tr bgcolor="white">
-		<td bgcolor="#ffffff">
-			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
-		</td>
-	</tr>
-	<tr bgcolor="white"><td class="leftmenu"><table bgcolor="white" border="0" cellpadding="3" width="100%" cellspacing="0"><tbody><tr><td align="center" class="summarymenu"><a href="knowledge_searchm.php?mnuccid=65">Frequently Asked Questions</a></td></tr></tbody></table></td></tr>
-	<tr bgcolor="white">
-		<td>
-			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
-		</td>
-	</tr>
-	<tr bgcolor="white">
-		<td bgcolor="#bfb3a5">
-			<img src="/images/blank.gif" width="1" height="1" align="left" border="0">
-		</td>
-	</tr>
-	<tr bgcolor="white">
-		<td bgcolor="#ffffff">
-			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
-		</td>
-	</tr>
-	<tr bgcolor="white"><td class="leftmenu"><table bgcolor="white" border="0" cellpadding="3" width="100%" cellspacing="0"><tbody><tr><td align="center" class="summarymenu"> <script language="JavaScript" src="/phplive/js/status_image.php?base_url=/phplive&amp;l=msufcu&amp;x=1&amp;deptid=2&amp;">  </script><style type="text/css"><!--#ProactiveSupport_1919088 {visibility:hidden; position:absolute; height:1; width:1; top:0; left:0;}--></style><a href="JavaScript:void(0)" onmouseover="window.status=&quot;Click for Live Support&quot;; return true;" onmouseout="window.status=&quot;&quot;; return true;" onclick="launch_support_1919088_2()"><img src="/phplive/image.php?l=msufcu&amp;x=1&amp;deptid=2&amp;page=https%3A//web.archive.org/web/20070818032654id_/https%253A//www.msufcu.org/p_privacypolicy.html%253Fmnuccid%253D65&amp;unique=1582140415848&amp;refer=&amp;text=" border="0" alt="Click for Live Support"></a><div id="ProactiveSupport_1919088" style="visibility: hidden;"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td align="right"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td bgcolor="#E1E1E1"><a href="JavaScript:RejectInitiate();" onmouseover="toggleMotion(1)" onmouseout="toggleMotion(0)"><font color="#828282" size="1" face="arial">&nbsp;close window</font>&nbsp;<img src="/phplive/images/initiate_close.gif" width="10" height="10" border="0"></a></td></tr></tbody></table></td></tr><tr><td align="center"><a href="JavaScript:launch_support_1919088_2()" onmouseover="toggleMotion(1)" onmouseout="toggleMotion(0)"><img src="https://web.archive.org/phplive/scroll_image.php?x=1&amp;l=msufcu&amp;1582140415848" border="0"></a></td></tr></tbody></table></div>
+		<table bgcolor="white" border="0" cellpadding="3" width="100%" cellspacing="0"><tbody><tr><td align="center" class="summarymenu"> <script language="JavaScript" src="/phplive/js/status_image.php?base_url=/phplive&amp;l=msufcu&amp;x=1&amp;deptid=2&amp;">  </script><style type="text/css"><!--#ProactiveSupport_1919088 {visibility:hidden; position:absolute; height:1; width:1; top:0; left:0;}--></style><a href="JavaScript:void(0)" onmouseover="window.status=&quot;Click for Live Support&quot;; return true;" onmouseout="window.status=&quot;&quot;; return true;" onclick="launch_support_1919088_2()"><img src="/phplive/image.php?l=msufcu&amp;x=1&amp;deptid=2&amp;page=https%3A//web.archive.org/web/20100616190757id_/https%253A//www.msufcu.org/p_privacypolicy.html%253Fmnuccid%253D65&amp;unique=1582140419932&amp;refer=&amp;text=" border="0" alt="Click for Live Support"></a><div id="ProactiveSupport_1919088" style="visibility: hidden;"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td align="right"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td bgcolor="#E1E1E1"><a href="JavaScript:RejectInitiate();" onmouseover="toggleMotion(1)" onmouseout="toggleMotion(0)"><font color="#828282" size="1" face="arial">&nbsp;close window</font>&nbsp;<img src="/phplive/images/initiate_close.gif" width="10" height="10" border="0"></a></td></tr></tbody></table></td></tr><tr><td align="center"><a href="JavaScript:launch_support_1919088_2()" onmouseover="toggleMotion(1)" onmouseout="toggleMotion(0)"><img src="https://web.archive.org/phplive/scroll_image.php?x=1&amp;l=msufcu&amp;1582140419932" border="0"></a></td></tr></tbody></table></div>
   </td></tr></tbody></table></td></tr>
 	<tr bgcolor="white">
 		<td>
@@ -620,7 +667,7 @@ var clcgi = "dfawrapper.pl";
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
 		</td>
 	</tr>
-	<tr bgcolor="white"><td class="leftmenu"><table bgcolor="white" border="0" cellpadding="3" width="100%" cellspacing="0"><tbody><tr><td align="center" class="summarymenu"><a href="contactus.htm?mnuccid=65">Contact Us</a></td></tr></tbody></table>		</td>
+	<tr bgcolor="white"><td class="leftmenu"><table bgcolor="white" border="0" cellpadding="3" width="100%" cellspacing="0"><tbody><tr><td align="center" class="summarymenu"><a href="https://www.msufcu.org/contactus.htm?mnuccid=68"><img border="0" src="/graphics/ContactUsButton.jpg" style="vertical-align:bottom;"></a></td></tr></tbody></table>		</td>
 	</tr>
 	<tr bgcolor="white">
 		<td>
@@ -724,7 +771,7 @@ var clcgi = "dfawrapper.pl";
 	</tr>
 		<tr bgcolor="white">
 		<td bgcolor="white" class="leftmenu">
-		<div style="margin-left:8px;"><a href="p_echecking.html" class="leftmenu">E-Checking</a></div></td></tr>
+		<div style="margin-left:8px;"><a href="https://www.msufcu.org/p_switchkit.html?mnuccid=64" class="leftmenu">How to Switch to MSUFCU</a></div></td></tr>
 	<tr bgcolor="white">
 		<td>
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
@@ -740,7 +787,7 @@ var clcgi = "dfawrapper.pl";
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
 		</td>
 	</tr>
-	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="https://www.msufcu.org/p_switchkit.html?mnuccid=64" class="leftmenu">How to Switch to MSUFCU</a></div></td></tr>
+	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="p_newusedauto.html" class="leftmenu">New/Used Auto Loans</a></div></td></tr>
 	<tr bgcolor="white">
 		<td>
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
@@ -756,7 +803,7 @@ var clcgi = "dfawrapper.pl";
 			<img src="/images/blank.gif" width="1" height="2" align="left" border="0">
 		</td>
 	</tr>
-	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="p_spartansaver.html" class="leftmenu">Spartan Saver</a></div>		</td>
+	<tr bgcolor="white"><td class="leftmenu"><div style="margin-left:8px;"><a href="p_echecking.html" class="leftmenu">Totally Green Checking</a></div>		</td>
 	</tr>
 	<tr bgcolor="white">
 		<td>
@@ -788,24 +835,45 @@ var clcgi = "dfawrapper.pl";
 	</tr>
 </table>
 -->
-
-				<hr color="#1A603A" noshade="" size="2" width="740">
-				
+        <hr color="#1A603A" noshade="" size="2" width="740">
+				<table colspacing="0" cellpadding="0" border="0" width="100%" align="center">
+<tbody><tr>
+  <td align="center" nowrap="">
+    <font face="arial" size="2">Visit MSUFCU online at these websites.
+    <a href="https://www.msufcu.org/p_socialnetworking.html" title="Learn more about these Social Networking sites">Learn more!</a></font>
+  </td>
+</tr>
+<tr>
+  <td align="center" nowrap="">
+    <map name="sn_logos">
+    <area target="_blank" href="http://www.facebook.com/pages/East-Lansing-MI/MSU-Federal_Credit_Union/52567995617" title="Check out MSUFCU on Facebook" shape="RECT" coords="0,0,76,33">
+    <area target="_blank" href="http://www.flickr.com/msufcu" title="View MSUFCU photos on Flickr" shape="RECT" coords="76,0,160,33">
+    <area target="_blank" href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=281924313" title="Listen to MSUFCU podcasts on iTunes" shape="RECT" coords="160,0,240,33">
+    <area target="_blank" href="http://www.youtube.com/MSUFCU" title="Watch MSUFCU videos on YouTube" shape="RECT" coords="240,0,320,33">
+    <area target="_blank" href="http://twitter.com/msufcu" title="Follow MSUFCU on Twitter" shape="RECT" coords="320,0,400,33">
+    <area target="_blank" href="http://www.myspace.com/393871076" title="Visit MSUFCU on MySpace" shape="RECT" coords="400,0,479,33">
+    </map>
+    <img border="0" width="479" height="33" usemap="#sn_logos" alt="Social Networking Logos Image Map" src="https://www.msufcu.org//graphics/snlogos.gif" style="vertical-align:middle;">
+  </td>
+</tr>
+</tbody></table>
+<br style="line-height:10px;">
+ 
 				<table border="0" width="100%" cellpadding="3" cellspacing="3">
 				<tbody><tr><td width="85%">
 				<font face="tahoma" size="1" class="footer_text">
 				<b>Michigan State University Federal Credit Union</b> 
-				savings are Federally insured to at least $100,000 by the 
+				savings are Federally insured to at least $250,000 by the 
 				<a href="http://www.ncua.gov" target="_blank">NCUA</a> 
 				and backed by the full faith and credit of the United States Government.
-				Call us with all your
+				<!--Call us with all your
 				questions about credit union services.  Our Contact Center is open Monday through Friday 7:00am to 9:00pm 
-				and Saturday from 9:00am to 3:00pm: <b>(517) 333-2424 or 800-MSU-4-YOU for direct assistance.</b>
-				<a target="_blank" href="contactus.htm?mnuccid=65">Send us a secure email</a>.
+				and Saturday from 9:00am to 3:00pm: <b>(517) 333-2424 or 800-MSU-4-YOU (800-678-4968) for direct assistance.</b>
+				<a target=_blank href="contactus.htm?mnuccid=65">Send us a secure email</a>.-->
 				APR = Annual Percentage Rate. *APY = Annual Percentage Yield.
 				<a href="p_privacypolicy.html?mnuccid=65">View our Privacy Policy</a> and 
 				read our <a href="p_privacypolicy.html?mnuccid=65#Links to Other Web Sites">disclaimer</a> 
-				regarding links to other sites. Copyright © 2007 Michigan State University Federal Credit Union.  All Rights Reserved. 
+				regarding links to other sites. Copyright © 2010 Michigan State University Federal Credit Union.  All Rights Reserved. 
 				</font>
 				</td><td valign="center">
 				<a href="http://www.ncua.gov" target="_blank"><img src="https://www.msufcu.org/graphics/ncua-logo.gif" align="center" border="0" hspace="3"></a><img src="https://www.msufcu.org/graphics/ehl.gif" align="center">			</td>
@@ -819,6 +887,10 @@ if(typeof(document.NEWFORM1) == "undefined")
 }
 setTimeout('if(focus_off == 0){document.NEWFORM1.ACCOUNTNUMBER.focus();}', 150);
 </script>
+
+
+
+
 							</td>
 						</tr>
 					</tbody>
@@ -832,5 +904,4 @@ setTimeout('if(focus_off == 0){document.NEWFORM1.ACCOUNTNUMBER.focus();}', 150);
 			<td width="9" background="https://www.msufcu.org/graphics/templates/images/s4/lrcorner.gif"><img height="9" src="https://www.msufcu.org/graphics/templates/images/s4/lrcorner.gif" width="9"></td>
 		</tr>
 	</tbody>
-</table>
-</center></body></html>
+</table></center></body></html>
