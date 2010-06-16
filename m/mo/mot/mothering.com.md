@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothering.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232352id_/http%3A//www.mothering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothering.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616043812id_/http%3A//www.mothering.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | mothering
 
@@ -25,6 +25,8 @@ When visitors send e-mail inquiries to Mothering, the return e-mail address is u
 ## Advertisers and Other Third-Party Sites
 
 We may share aggregated and non-personally identifying information about our visitors collected on our site with our advertisers. This privacy policy applies only to Mothering Inc. and its web site, [www.mothering.com](http://www.mothering.com/ "www.mothering.com"). Other sites that we link to or that advertise with us may have practices different from ours. Please consult the other sites' privacy notices, as we have no control over those of our advertisers, or any other sites we may link to.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ## Our Commitment to Security
 
