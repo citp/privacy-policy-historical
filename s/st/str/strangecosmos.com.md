@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strangecosmos.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232942id_/http%3A//strangecosmos.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strangecosmos.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616143431id_/http%3A//strangecosmos.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,8 @@ StrangeCosmos.com respects the privacy of visitors to our site. Please read this
 THE INFORMATION WE COLLECT 
 
 The information gathered through this website falls into two categories: (1) information voluntarily supplied by visitors to our website through optional registration or e-commerce transactions, and (2) tracking information gathered as visitors navigate through our site. Third party service providers on or linked to by our website, such as vendors of products and services offered through our site, may be gathering information, as well. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
 To make use of certain features on our website (such as contests, surveys, message boards, music download functionality, customizable audio applications, and others) visitors need to register and to provide certain information as part of the registration process. We may also ask visitors for certain information in connection with the purchase of products/services on our website. (We may ask, for example, for your name, email address, sex, age, zip code and credit card information, and we might request information on your interest in concerts, different types of music and the like.) The information you supply will help us to offer you more personalized features, to tailor our site to your interests, to make the site more useful to you, and to process your e-commerce transactions. 
 
