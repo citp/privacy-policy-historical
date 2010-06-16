@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contexteditor.org privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229121840id_/http%3A//www.contexteditor.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contexteditor.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616194524id_/http%3A//www.contexteditor.org/privacy) for the most accurate reproduction.*
 
-# Freeware Text Editor Privacy Policy
+# Text Editor Privacy Policy
 
 We are extremely concerned to protect your privacy and confidentiality. We understand that all users of our site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not fall into the hands of a third party. Our policy is both specific and strict. If you think our policy falls short of your expectations or that we are failing to abide by our policy, do please tell us. 
 
@@ -44,7 +44,7 @@ At any time you may review or update the personally identifiable information tha
 
 This confidentiality policy has been compiled so as to comply with current UK, US and EU legislation, so far as we are aware. If you have any question regarding the confidentiality policy, please contact us at: 
 
-ConTEXT Project Ltd  
+ConTEXT Project  
 The Meridan,  
 4 Copthall House,  
 Station Square,  
