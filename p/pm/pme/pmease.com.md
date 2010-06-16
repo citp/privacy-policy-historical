@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pmease.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129103403id_/http%3A//www.pmease.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmease.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616163907id_/http%3A//www.pmease.com/legal/privacy) for the most accurate reproduction.*
 
-# PMEase - Legal
+# PMEase - Legal - Continuous Integration and Release Management Server!
 
 We at PMEase Inc. ("PMEase" or "we") respect your individual privacy. This privacy policy documents our adherence to the highest industry standards for the protection of your personal information. The policy is effective as of July 1, 2008, applies to the site pmease.com and any other web sites of PMEase Software. 
 
