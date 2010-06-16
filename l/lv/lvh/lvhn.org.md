@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201184201id_/http%3A//www.lvhn.org/Help%257C143) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616090618id_/http%3A//www.lvhn.org/Help%257C143) for the most accurate reproduction.*
 
-# Hospital Privacy, Confidentiality Policy - Patient | Lehigh Valley Health Network | lvhn.org
+# Hospital Privacy, Confidentiality Policy - Patient | Lehigh Valley Health Network
 
 ## At Lehigh Valley Health Network, it is our policy that personal information, such as your name, postal and e-mail address or telephone number, is private and confidential
 
@@ -38,5 +38,3 @@ This Web site tracks information about the visits to our pages. We compile stati
 
   
 This page last updated 3/3/09 11:19 AM
-
-ARTICLE TOOLS:       [](http://www.lvh.orgjavascript:window.print\(\))     [](http://digg.com/submit?url=http://www.lvh.org%2FHelp%257C143&title=Hospital+Privacy%2C+Confidentiality+Policy+-+Patient) [](http://delicious.com/save) [](http://www.stumbleupon.com/submit?url=http://www.lvh.org/lvh/Your_LVH/Health_Care_Services/Heart_Care_MIMS/Most_Advanced_Treatments)
