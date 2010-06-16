@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theblemish.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616072049id_/http%3A//theblemish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblemish.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617011851id_/http%3A//theblemish.com/privacy-policy) for the most accurate reproduction.*
 
-# The Blemish Privacy Policy - The Blemish
+# The Blemish Privacy Policy | The Blemish
 
 This statement covers the site theblemish.com (The Blemish). Please read this statement carefully before proceeding to access The Blemish. Your use of The Blemish indicates your agreement to abide by the Terms in effect. If you have any questions or suggestions regarding our privacy policy, please contact us at: theblemish (at) gmail.com.
 
