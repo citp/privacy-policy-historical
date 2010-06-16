@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616135907id_/http%3A//www.pcadvisor.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616205104id_/http%3A//www.pcadvisor.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Site Policy - PC Advisor
 
