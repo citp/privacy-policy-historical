@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shatteredcrystal.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331205650id_/http%3A//www.shatteredcrystal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shatteredcrystal.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616125338id_/http%3A//www.shatteredcrystal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ By using this site, you signify your assent to the MDINC Online Privacy Policy. 
 
 |    
 [ ](http://www.trustwho.com/business.php)   
-ICQ [49164228](http://web.icq.com/whitepages/add_me?uin=49164228&action=add)
+
 
 Support
 
@@ -89,7 +89,8 @@ Affiliates
 
 » [Learn about the affiliate program](https://web.archive.org/content/affiliateinfo.php) \- Make money from visitors to your site by referring their business to us.  
 » [Join the affiliate program](https://web.archive.org/signup.php) and generate income from your site!  
-» [Login as an Affiliate](https://web.archive.org/affiliate)
+» [Login as an Affiliate](https://web.archive.org/affiliate)  
+» [Affiliate Banners](https://web.archive.org/banners.php)
 
 Sites we like
 
@@ -99,3 +100,5 @@ Sites we like
 » [UO Brokers](http://www.markeedragon.net/)  
 » [Live MMO Support](http://www.livemmosupport.com/)  
 » [Shattered Crystal Blog](http://gametimecard.blogspot.com/)
+
+[ ](http://www.shatteredcrystal.com/index.php/wallie_card "Pre Paid Wallie Cards")
