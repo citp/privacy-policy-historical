@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611214446id_/http%3A//www.ird.govt.nz/about-this-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617010330id_/http%3A//www.ird.govt.nz/about-this-site/privacy) for the most accurate reproduction.*
 
 # Your privacy (About this site)
 
 Inland Revenue is committed to ensuring that your privacy is protected. Any personal information you do provide to us will be kept for as long as necessary to achieve the purpose we collected it for. If your personal information becomes part of your Inland Revenue records, we will retain the information in accordance with Inland Revenue policy on retention of Inland Revenue records.
+
+##### [Report suspicious emails or online activity](https://web.archive.org/about-this-site/privacy/privacy-phishing.html)
+
+Phishing is when someone tries to trick you in to disclosing your personal information and may then use or sell this information for illegal purposes such as applying for credit cards or loans in your name. We would like to know if someone unexpectedly asks for your tax information including your IRD number, password or user ID.
 
 ##### [Privacy policy](https://web.archive.org/about-this-site/privacy/privacy-policy.html)
 
