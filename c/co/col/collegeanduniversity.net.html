@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the collegeanduniversity.net privacy policy that was archived on 2009-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090922001706id_/http%3A//www.collegeanduniversity.net/index.cfm%3Fevent%3Dp.pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegeanduniversity.net privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616161118id_/http%3A//www.collegeanduniversity.net/index.cfm%3Fevent%3Dp.pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>CollegeAndUniversity.net - Privacy Policy</title>
@@ -10,7 +10,7 @@
 
 
 <link rel="meta" href="http://www.collegeanduniversity.net/labels.xml" type="application/rdf+xml" title="ICRA labels">
-<meta http-equiv="pics-Label" content="(pics-1.1 &quot;http://www.icra.org/pics/vocabularyv03/&quot; l gen true for &quot;http://collegeanduniversity.net&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0)  gen true for &quot;http://www.collegeanduniversity.net&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))"> 
+<meta http-equiv="pics-Label" content="(pics-1.1 &quot;http://www.icra.org/pics/vocabularyv03/&quot; l gen true for &quot;http://collegeanduniversity.net&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0)  gen true for &quot;http://www.collegeanduniversity.net&quot; r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))">
 
 
 <meta name="y_key" content="127c33096ef2b18e">
@@ -28,7 +28,45 @@
 <script src="/javascript/validEmail.js" language="JavaScript" type="text/javascript"></script>
 <script src="/javascript/CheckZip.js" language="JavaScript" type="text/javascript"></script>
 <script src="/javascript/validatesignup.js" language="JavaScript" type="text/javascript"></script>
+<script>
+function clearForm(oForm) {
 
+  var elements = oForm.elements;
+
+  oForm.reset();
+
+  for(i=0; i<elements.length; i++) {
+
+  field_type = elements[i].type.toLowerCase();
+
+  switch(field_type) {
+
+    case "text":
+    case "password":
+    case "textarea":
+          case "hidden":
+
+      elements[i].value = "";
+      break;
+
+    case "radio":
+    case "checkbox":
+        if (elements[i].checked) {
+          elements[i].checked = false;
+      }
+      break;
+
+    case "select-one":
+    case "select-multi":
+                elements[i].selectedIndex = -1;
+      break;
+
+    default:
+      break;
+  }
+    }
+}
+</script>
 <link rel="P3Pv1" href="http://www.collegeanduniversity.net/w3c/p3p.xml"></head>
 
 <body id="landingpage09">
@@ -37,7 +75,7 @@
 	<div id="inner_wrapper">
 	
 		<div id="header">
-			
+		
 				<div class="logo"><a href="/index.cfm"><img src="/images_member/_default_logo.gif" border="0"></a></div>
 		
 	<form action="/index.cfm?event=ml.sign" method="POST" onsubmit="return validatesignup(this)">
@@ -46,7 +84,7 @@
 			<ul id="newsletter">
 				<li><label for="newsletter-email">Email Address:</label><input type="text" name="Email" maxlength="50" id="newsletter-email"></li>
 				<li><label for="newsletter-zip">Zip Code:</label><input type="text" name="Zip" maxlength="10" id="newsletter-zip"></li>
-				<li class="newsletter-submit"><input type="submit" alt="Sign Up" class="signup" value="Sign Up"></li>
+				<li class="newsletter-submit"><input type="submit" alt="Sign Up" class="signup" id="newsbutton" value=""></li>
 			</ul>
 		</form>
 	
@@ -176,8 +214,16 @@
 		<li><a href="http://www.collegeanduniversity.net/index.cfm?event=p.tu" title="CUnet, LLC Terms of Use" rel="nofollow">Terms of Use</a></li>
 		<li><a href="http://www.collegeanduniversity.net/colleges-programs-states/site-map.htm" title="College and University Site Map">Site Map</a></li>
 	</ul>
-	<div class="copyright">Copyright © 2004-2009 CUnet LLC. All rights reserved.</div>
+	<div class="copyright">Copyright © 2004-2010 CUnet LLC. All rights reserved.</div>
 </div>
+
+
+<!-- Google Analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-5283708-1";
+urchinTracker();
+</script>
 
 </div>
 
@@ -198,4 +244,4 @@
 isFromCache=null<br>
 cacheKey=null<br>
 </div>
-<!-- Server ID: 14 --></div></body></html>
+<!-- Server ID: 15 --></div></body></html>
