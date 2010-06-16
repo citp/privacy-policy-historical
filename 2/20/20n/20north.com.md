@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20north.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211115406id_/http%3A//www.20north.com/pages/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20north.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616052036id_/http%3A//www.20north.com/pages/view/privacy_policy) for the most accurate reproduction.*
 
 # Shop in the US from India @ 20North - Millions of products, Thousands of brands
 
