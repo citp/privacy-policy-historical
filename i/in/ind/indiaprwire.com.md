@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the indiaprwire.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417051847id_/http%3A//www.indiaprwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaprwire.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616034605id_/http%3A//www.indiaprwire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IndiaPRwire.com
 
-## Privacy Policy
-
 **Your privacy on the Internet is of the utmost importance to us. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.**
 
-Visitors to India PRwire.com website, subscribers to our newsletters, and clients and prospective clients of our service (collectively referred to as a "User" or "Users"), we log standard technical information such as your IP address. We use this information to help diagnose problems with our service, and to administer our Website. 
+Visitors to India PRwire.com website, subscribers to our newsletters, and clients and prospective clients of our service (collectively referred to as a "User" or "Users"), we log standard technical information such as your IP address. We use this information to help diagnose problems with our service, and to administer our Website.
 
 India PRwire.com uses cookies to keep track of your account. We also use cookies to deliver content specific to you.
 
-India PRwire requires registration for certain services, such as the distribution of press releases, and our website may contain order forms for other products and services or online surveys. In order to provide services to you, we may ask for contact information (like name and email address), financial information (like account and/or credit card numbers), and demographic information (like zip code and age). 
+India PRwire requires registration for certain services, such as the distribution of press releases, and our website may contain order forms for other products and services or online surveys. In order to provide services to you, we may ask for contact information (like name and email address), financial information (like account and/or credit card numbers), and demographic information (like zip code and age).
 
-If you decide to submit a press release for distribution through our system we will transmit your entire press release, including any personal information therein contained, to our media contacts and online distribution points including search engines. Your submission of press releases through our system indicates consent with this policy. 
+If you decide to submit a press release for distribution through our system we will transmit your entire press release, including any personal information therein contained, to our media contacts and online distribution points including search engines. Your submission of press releases through our system indicates consent with this policy.
 
 We may use your contact information to send you information about our company or our advertisers. We use this data to tailor your experience at our site, to deliver content that we think might be of interest to you, and to display the content according to your preferences. 
 
-India PRwire may also disclose your personal information, the contents of your communications, and/or your contact and financial information, if required to do so by law, or with your consent, or in good faith/belief that such action is necessary: 
+India PRwire may also disclose your personal information, the contents of your communications, and/or your contact and financial information, if required to do so by law, or with your consent, or in good faith/belief that such action is necessary:
 
 It is possible that as we continue to develop our business, India PRwire might be acquired. In such a transaction, your information may be transferred to the acquiring entity.
 
@@ -26,7 +24,7 @@ This site contains links to other sites. India PRwire is not responsible for the
 
 We use a third party advertisement company to display advertisements on our site. These ads may contain cookies. While we use cookies in other parts of our Website, the third party ad company collects cookies received with banner ads, and we do not have access to this information. This Privacy Statement does not cover the privacy practices of companies who provide services or ads through our site. Please contact those companies directly for more information about their privacy practices.
 
-This site has industry standard security measures in place to protect against the loss, misuse or alteration of the information under our control, but we cannot guarantee complete security. 
+This site has industry standard security measures in place to protect against the loss, misuse or alteration of the information under our control, but we cannot guarantee complete security.
 
 Clients who have registered in order to use our services can change or update their account information and preferences by emailing Client Services at [contact@indiaprwire.com](mailto:contact@indiaprwire.com?subject=Contact%20IndiaPRwire.com "Contact IndiaPRwire.com").
 
@@ -39,10 +37,9 @@ From time to time, we may use customer information for new, unanticipated uses n
 **Contacting the Website**  
 If you have any questions about this Privacy Statement, the practices of India PRwire, or your dealings with this Website, you can contact us at the postal address or email address listed below. 
 
-**India PRwire Pvt. Ltd**.  
-A-14, Regency Park I  
-DLF City, Phase - IV  
-Gurgaon, Haryana  
-India  
-Pin: 122002  
+**India PRwire**  
+J-11/121, 1st Floor,  
+Rajouri Garden, New Delhi  
+Delhi, India   
+Pin: 110027   
 Email: [contact@indiaprwire.com](mailto:contact@indiaprwire.com?subject=Contact%20IndiaPRwire.com "Contact IndiaPRwire.com")
