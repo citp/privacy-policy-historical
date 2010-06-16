@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webmaster-tips.net privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225111638id_/http%3A//www.webmaster-tips.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmaster-tips.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616041944id_/http%3A//www.webmaster-tips.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Joomla CMS - Download Joomla Components, Modules, Templates - Privacy Policy
+# Joomla CMS Extensions :: Download Joomla Components, Joomla Modules, Joomla Templates - Privacy Policy
 
   
 Privacy Policy 
