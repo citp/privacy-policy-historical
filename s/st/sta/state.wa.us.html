@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the state.wa.us privacy policy that was archived on 2009-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091028221121id_/http%3A//access.wa.gov/siteinfo/resources/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the state.wa.us privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616222928id_/http%3A//access.wa.gov/siteinfo/resources/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
 	Access Washington - Privacy notice
 </title><meta name="Keywords" content="Washington State, Government, Washington State Services, Ask George"><meta name="Description" content="Locate Washington State Government information and services available on the Web"><meta name="Robots" content="ALL"><meta name="Author" content="Washington State Department of Information Services"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="stylesheet" type="text/css" media="screen" href="../../css/global.css"><link rel="stylesheet" type="text/css" media="print" href="../../css/print.css">
-  <script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
+  <script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
  
  <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 
@@ -59,7 +59,7 @@
       <div id="navbar_search">
        <div id="ctl00_ctl00_Panel1">
 	
-       <input name="ctl00$ctl00$searchbox1" type="text" id="ctl00_ctl00_searchbox1" class="searchbox1" style="background-image: url(&quot;/images/searchbox1_bg_watermark.gif&quot;);">
+       <input name="ctl00$ctl00$searchbox1" type="text" id="ctl00_ctl00_searchbox1" class="searchbox1 swapValue" style="background-image: url(&quot;/images/searchbox1_bg_watermark.gif&quot;);">
          <input type="image" name="ctl00$ctl00$ImageButton1" id="ctl00_ctl00_ImageButton1" title="Submit Search" class="searchgo" src="/images/search_go.gif" alt="Submit Search" border="0">
        
 </div>
@@ -214,7 +214,7 @@ Email: </em><a href="mailto:PublicDisclosure@dis.wa.gov"><em>PublicDisclosure@di
             <li class="languages_li"><a href="../../translations/Cambodian.aspx" id="ctl00_ctl00_A18"> <img src="../../images/home/cambodian_new.gif" id="ctl00_ctl00_Img9" alt="Cambodian" width="53" height="12" title="Cambodian"></a></li>
           </ul>          
           <ul class="footernav">
-          <li class="clearnavborder">Copyright 2009 Washington State</li>
+          <li class="clearnavborder">Copyright 2010 Washington State</li>
           <li><a href="../../Home.aspx" id="ctl00_ctl00_A19" title="Home">Home</a></li>
           <li><a href="privacy.aspx" id="ctl00_ctl00_A20" title="Privacy Notice">Privacy Notice</a></li>
           <li class="clearnavborder"><a href="../index.aspx" id="ctl00_ctl00_A21" title="Site Info">Site Info</a></li>		   
@@ -227,13 +227,14 @@ Email: </em><a href="mailto:PublicDisclosure@dis.wa.gov"><em>PublicDisclosure@di
   
  
   
-  <script type="text/javascript" src="/js/JsLib.ashx?s=GlobalScripts&amp;v=4"></script>  
+  <script type="text/javascript" src="/js/JsLib.ashx?s=GlobalScripts&amp;v=5"></script>  
   
     <script type="text/javascript">
    
        AwNotGov.init();
-       if ($.trim($(".searchbox1").val()) == "")
+       if ($.trim($(".searchbox1").val()) == "") {
          $(".searchbox1").css('backgroundImage', 'url(/images/searchbox1_bg_watermark.gif)');
+        }
        $(".searchbox1").focus(function() {
          $(this).css('backgroundImage', 'url(/images/searchbox1_bg.gif)');
        }).blur(function() {
