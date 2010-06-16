@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216213331id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616234525id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
 
 # NYSED::Privacy Policy
 
-  
-
+SED Internet Privacy Policy | Online Information Practices | General Information about Internet Privacy | Cookies and Clear GIFs | General Information About Children's Online Privacy | SED Contact Information
 
 ## Internet Privacy and Security Policy
 
 Your online privacy is important. This section of the State Education Department’s Website provides information about this agency's approach to information from online visitors as well as general information about online privacy.
 
-This section of the Website is divided into several topics. You can scroll through the entire section. Or you can go directly to one of the topics listed below and on the navigation bar above.
+This policy is divided into several topics; you can scroll through the sections or use the links above.
 
 ## SED INTERNET PRIVACY POLICY
 
