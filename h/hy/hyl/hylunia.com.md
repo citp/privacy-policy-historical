@@ -1,27 +1,66 @@
-> *The following text is extracted and transformed from the hylunia.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627061640id_/http%3A//www.hylunia.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hylunia.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616051522id_/http%3A//www.hylunia.com/v2/apps/data/privacy_policy.shtml) for the most accurate reproduction.*
 
-# :: Hylunia :: privacy policy
+# Hylunia Skin Care - Privacy Policy
 
-Your trust and confidence is the cornerstone of our relationship.
+  
+Effective Date: January 10, 2010  
 
-At Hylunia International, Inc., we value this trust and confidence and we believe it is our responsibility to safeguard your personal information.
 
-We have established the following privacy policy to ensure you the confidentiality you deserve. You have our promise that we will adhere to these guidelines. It is our privacy pledge to you, our valued customer.
+This privacy policy sets out how US Advanced Medical Research, Inc. (Hylunia/Hymed Skin Care) uses and protects any information that you give US Advanced Medical Research, Inc. (Hylunia/Hymed Skin Care) when you use this website.
 
-Hylunia International, Inc. does not sell your nonpublic personal information to third parties. 
+US Advanced Medical Research, Inc. (Hylunia/Hymed Skin Care) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Hylunia International, Inc. restricts access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. 
+US Advanced Medical Research, Inc. (Hylunia/Hymed Skin Care) may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January , 2010.
 
-Hylunia International, Inc. only uses your nonpublic personal information to help us service your account, to improve services to you, to provide you with products you have requested, and to inform you about additional products, or other services and opportunities that may be of interest to you. 
+**What we collect**   
+We may collect the following information:
 
-Hylunia International, Inc. has taken the necessary steps to ensure your data is protected when using Hylunia eSource (when available online). Access codes including your Account Login and Password are required to gain initial access to your account. In addition, we use Secure Socket Layer (SSL) encryption technology to provide a secure channel that protects your data from being altered or monitored en route to your computer. 
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Our web servers collect standard non-identifying information about visits to the site, such as date and time visited, IP address, city, state, and country. This information is used to compile standard statistics on site use. If you have provided personal identifying information via e-mail (such as name and address), the information will only be used to communicate with you to handle your request. It is not sold or transferred to other parties. 
 
-Hylunia International, Inc. continually strives to maintain complete and accurate information about you and your accounts. If you ever believe that our records contain inaccurate or incomplete information about you, please let us know immediately. We will process any corrections or additions as quickly as possible. 
 
-You can also help safeguard your personal information by taking a few simple precautions. Protect your account, Account Login and Passwords. Never disclose confidential information to unknown callers or web sites. When using the Internet, be sure to use a secure browser and current virus detection software, and never open e-mail from an unknown source.
+**What we do with the information we gather**  
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-Thank you for viewing our privacy policy.
+  * Internal record keeping. 
+  * We may use the information to improve our products and services. 
+  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-**Updated April 25, 2008**
+
+
+**Security**   
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**   
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**  
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**  
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@hylunia.com
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [address].
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+> [](http://www.hylunia.com/)
+
+|    
+---|---
