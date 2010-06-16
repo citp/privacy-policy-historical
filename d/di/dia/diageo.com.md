@@ -1,141 +1,158 @@
-> *The following text is extracted and transformed from the diageo.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215094718id_/http%3A//www.diageo.com/en-row/Footer/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diageo.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616054357id_/http%3A//www.diageo.com/Pages/privacypolicy.aspx) for the most accurate reproduction.*
 
-# privacy policy
+# Privacy Policy
 
-**1\. Introduction**
+This Privacy Notice provides a high-level overview of our full Privacy Statement (click here to access). It summarises important information regarding how we collect, use and share any personal information collected through this website: www.diageo.com, which is operated by Diageo plc or one of its group of companies, and our other websites.
 
-All references to 'our', 'us', 'we' or ‘company’ within this policy and within the opt-in notice are deemed to refer to Diageo plc , its subsidiaries, affiliates and associates.
+At relevant points hyperlinks are provided that will take you directly to more further in this document. Links in this Privacy Notice will not take you to any external website or content.
 
-We endeavour to protect your personal privacy. We provide this privacy statement to help you to understand what we may do with any personal information that we obtain from you. By providing your personal information to us, you signify your acceptance of our Privacy Statement and agree that we may collect, use and disclose your personal information as described in this Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This Privacy Statement is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/en-row/Footer/termsandconditions.htm), which govern your use of the site in general.  We will use your information only for the purposes set out below. 
+  1. **Introduction**
+    1. Click here for more information about Diageo plc.
+  2. **Legal purchase age**
+    1. Do not provide us with your personal information if you are not of legal age to purchase alcohol.
+    2. If we believe that you are under the legal purchase age we will make every reasonable effort to remove your personal information from our records.
+  3. **What is personal information**
+    1. Personal information is information about an identifiable individual, as defined by applicable law.
+  4. **Collecting personal information**
+    1. We collect personal information that you choose to provide. This includes information provided when registering with our websites, contacting us, completing surveys or questionnaires, entering competitions and posting information on public areas of our websites.
+    2. Through your use of this and other Diageo websites (including browsing) you may provide us with personal information such as your name, contact details, personal preferences and details of your website use.
+    3. In doing so, you are agreeing to us using that information as set out in this Privacy Notice and our full Privacy Statement.
+    4. If you do not agree to these conditions, please do not provide us with this information, or please let us know your objections using the contact details below. Click here for more information.
+  5. **Use of cookies on our website**
+    1. We also collect information using common internet technologies such as “cookies” and “clear gifs” (also known as “web bugs” or “web beacons”). Click here for more information.
+  6. **Use of personal information**
+    1. We will only use the personal information we collect in order to provide you with specific information and services that you request, and with additional information services that may be of interest to you. Click here for more information.
+  7. **Disclosure of personal information**
+    1. This may include sharing your personal information with non-Diageo companies who provide services to Diageo companies and certain other third parties, but only where they offer adequate protection for your information and in certain cases, only where you have provided your consent.
+    2. In some cases, this may involve transferring your personal information to other countries (including the UK, the US, Canada and other countries inside and outside the European Economic Area) where Diageo group companies or such third parties operate and process your personal information. Click here for more information.
+    3. By providing any personal information to us, you fully understand and clearly consent to such use and transfers as set out in this Privacy Notice and our full Privacy Statement.
+  8. **Public (or Interactive) areas of our websites**
+    1. Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others.
+  9. **Security**
+    1. We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect.
+    2. We have no control over the privacy of any communications while in transit to us. We recommend that you not include confidential, proprietary or sensitive information in such communications. Click here for more information.
+  10. **Unsubscribe, access, questions and further information**
+    1. At your request, and where required by law, we will confirm, share and/or update the personal information we hold about you, however to protect your privacy we may have to verify your identity first.
+    2. At any time you can choose to make an unsubscribe request to stop receiving marketing information.
+    3. If you would like to unsubscribe from communications from Diageo or about Diageo brands, please contact: [privacy@diageo.com](mailto:privacy@diageo.com). Click here for more information.
+  11. **Contact us**
+    1. If you have any comments, queries or complaints about our collection or use of personal information please contact us via:
+    2. Post: Digital Governance Director, Diageo plc, Lakeside Drive, Park Royal, London, NW10 7HQ
+    3. E-mail: [privacy@diageo.com](mailto:privacy@diageo.com)
+
+
+
+### 1\. Introduction
+
+This website is operated by a member of the Diageo group of companies, the ultimate holding company of which is Diageo plc (registered in England and Wales with company number 23307 and registered address at Lakeside Drive, Park Royal, London NW10 7HQ, United Kingdom).
+
+All references to 'our', 'us', 'we' or 'company' within this policy and within the opt-in notice are deemed to refer to Diageo plc, its subsidiaries, affiliates and associates.
+
+We endeavor to protect your personal privacy. We provide this Privacy Statement to help you to understand what we may do with any personal information that we obtain from you. By providing your personal information to us, you signify your acceptance of our Privacy Statement and agree that we may collect, use and disclose your personal information as described in this Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This Privacy Statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information only for the purposes set out below. 
 
 We may need to update this Privacy Statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version.
 
-Changes to the Privacy Statement are noted here :
+Changes to the Privacy Statement are noted here:
 
-Date last revised : October 2005
+Date last revised: 15 February 2010
 
-Sections added : 2, 6, 10  
-Sections revised : 3, 7, 9
+Description of substantive revision:   
+Section 4 – Description of how personal information is collected  
+Section 5 – Use of cookies and clear gifs  
+Section 6 – Description of how personal information is used  
+Section 7 – Description of how personal information is shared  
+Section 8 – Posting of information in public forums  
+Section 10 – Changes to your privacy preferences 
 
-**2\. Legal Purchase Age**  
+### 2\. Legal purchase age
 
-You must not provide us with your personal information if you are not of legal age to purchase alcohol in the jurisdiction in which you reside and (if different) in the jurisdiction in which you are accessing the site. We do not intend to collect personal information from any individuals under the legal purchase age or market alcoholic beverages to anyone under the legal purchase age. If we receive notice or believe that someone under the legal purchase age has provided us with personal information we will make every reasonable effort to remove such personal information from our files or flag such personal information and retain it for the sole purpose of ensuring that it is not used any further. 
+You must not provide us with your personal information if you are not of legal age to purchase alcohol in the jurisdiction in which you reside and (if different) in the jurisdiction in which you are accessing the site. We do not intend to collect personal information from any individuals under the legal purchase age or market alcoholic beverages to anyone under the legal purchase age. If we receive notice or believe that someone under the legal purchase age has provided us with personal information we will make every reasonable effort to remove such personal information from our files or flag such personal information and, to the extent permitted by law, retain it for the sole purpose of ensuring that it is not used any further.
 
-**3\. What is personal information?**
+### 3\. What is personal information?
 
-Personal information is information about an identifiable individual, as defined by applicable law. It does not include aggregated information that does not allow you to be identified, nor does it include business contact information such as your name, title, business address and business phone number.  
+Personal information is information about an identifiable individual, as defined by applicable law.
 
-**4\. Collecting personal information**
+### 4\. Collecting personal information 
 
-You can decide what personal information you provide to us. We will only collect personal information that you choose to provide. Where possible, we will enable you to select how we will use this information (for example, by choosing to opt-in or opt-out of receiving special promotional offers). 
+It is your choice to provide us with personal information. We will only collect personal information that you choose to provide. In certain instances, we may provide you with the option to select whether you would like to receive information from us or from trusted third parties (for example, by choosing to opt-in or opt-out of receiving special promotional offers). In some circumstances, you will not have the option to opt-out, such as when we are satisfying the obligations of a contract with you, administering a transaction requested by you, or as required by law.
 
-You may choose to provide us with personal information if, for example, you: contact us with an enquiry; register on the site, fill out a survey or other form with your personal information included; request us to provide you with information; enter a competition; post information to public areas of the site or take advantage of a promotion. 
+You may choose to provide us with personal information if, for example, you: contact us with an enquiry; register on the site; forward an item to a friend; purchase an item; fill out a survey or other form with your personal information included; request us to provide you with information; enter a competition; post information to public areas of the site; or take advantage of a promotion. 
 
-You have the opportunity to decide whether or not to receive communications from us, except communications required by law or to administer any transaction requested by you, at any point where we request information about you. 
+By providing any personal information to us, you fully understand and clearly consent to the transfer of such personal information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this Privacy Statement. 
 
-By providing any personal information to us, you fully understand and clearly consent to the transfer of such personal information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this Privacy Statement. 
+### 5\. Use of cookies on our websites
 
-**5\. Use of cookies on our websites**
+In common with many websites, we use "cookies" to help us gather and store information about visitors to our websites. A cookie is a small data file that our server sends to your browser when you visit the site. The use of cookies helps us to assist your use of certain aspects of the site. You can delete cookies at any time or you can set your browser to reject or disable cookies. You can obtain information about how to manage cookies at [www.aboutcookies.org](http://www.aboutcookies.org/).
 
-In common with many websites, we use "cookies" to help us gather and store information about visitors to our websites. 
+We primarily use information from cookies for the following purposes:   
+1\. Traffic monitoring, e.g., the IP address from which you access the site, the type of browser and operating system used to access the site, the date and time of your access to the site, the pages you visit, and the Internet address of the website from which you accessed the site.  
+2\. To register you in programs and to recognize your website preferences.   
+3\. To recognize repeat visitors for statistical / analytical purposes.   
+4\. Anonymous tracking of interaction with online advertising, e.g., to monitor the number of times that a banner ad is displayed and the number of times it is clicked.  
+5\. To compile and report to third parties (such as advertisers) aggregate statistics about our users in terms of numbers, traffic patterns and related site information. 
 
-A cookie is a small data file that our server sends to your browser when you visit the site.  The use of cookies helps us to assist your use of certain aspects of the site. 
+We may also use clear gifs (also known as web bugs or web beacons), which are tiny graphics embedded in web pages and email messages that we use, in connection with cookies, to collect non-personal information from users to analyze site usage, manage content on the site, track visits to other related sites, and track the performance of online advertising. 
 
-You can delete cookies at any time or you can set your browser to reject or disable cookies. 
+We may also connect the information that we collect through cookies and clear gifs with other personal information that you provide to us in order to:  
+1\. customize or personalize your experience of the site; for example, so that we can greet you on the site by name;   
+2\. conduct transactions, such as credit card sales; and  
+3\. monitor your use of our website(s) in order to make our communications to you as relevant as possible and for other marketing and advertising research purposes.
 
-You can obtain information about how to manage cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+### 6\. Use of personal information
 
-We may use information from cookies for the following purposes:
+We may use personal information collected from you in order to provide you with specific services that you request as well as in order to provide you with additional services that may be of interest to you. For example, we may use your personal information in the following ways:
 
-1\. Traffic monitoring   
-E.g.   
-the IP address from which you access the site   
-the type of browser and operating system used to access the site   
-the date and time of your access to the site   
-the pages you visit   
-the internet address of the website from which you accessed the site   
-2\. To recognise repeat visitors for statistical / analytical purposes.   
-3\. Anonymous tracking of interaction with online advertising. e.g. to monitor the number of times that a banner ad is displayed and the number of times it is clicked. 
+Marketing Communications. We may use your personal information in order to communicate with you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses.
 
-We may connect the information that we collect through cookies with other personally identifiable information that you provide to us. Such purposes are:
+Marketing analysis. We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites.
 
-1\. To customise  or personalise your experience of the site; for example, so that we can greet you on the site by name.   
-2\. For transactional purposes, such as credit card sales.   
-3\. To monitor your use of our website(s) in order to make our communications to you as relevant as possible; for example, by sending you email communications relevant to the parts of the site that you visit most often or by letting you know about features of the site that you have not accessed previously.
+Transactional purposes. We may use your personal information in order to respond to your queries and requests, maintain your accounts, and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfillment of such transactions (e.g., delivery). 
 
-We may compile and report to third parties (such as advertisers) aggregate statistics about our users in terms of numbers, traffic patterns and related site information.
+Forward to a friend. When you provide us with information regarding another individual, such as when you request that we send someone information from one of our website, we will only send that individual the information that you specifically requested that we send. We will not send them additional communications based on you providing us with their information. 
 
-  **6\. Use of personal information  
-**     
-We may use and/or disclose personal information collected from you in one or more the following ways: 
+### 7\. Disclosure of personal information
 
- Marketing Communications 
+We value your personal information and only share such information with third parties that provide adequate protection for such information. From time to time we may disclose personal information to:
 
-We may use your personal information in order to communicate with you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses. However, you will be able to choose whether or not to receive such communications when you first provide personal information to us. You will also have an opportunity to unsubscribe whenever we communicate with you. You may also unsubscribe from such communications at any time (see “Unsubscribe, access, questions and further information” below).
+(a) third parties to whom you have provided your consent;  
+(b) our service providers and subcontractors, including our affiliates, retained to perform functions on our behalf or to provide services to us, such as warehousing and delivery; marketing and advertising; credit card and data processing; age verification; software development; website hosting and management; information technology and office services; legal, accounting, audit and other professional service providers; and other services related to our business; and further, provided such service providers and subcontractors do not collect, use or disclose the personal information for any purpose other than to perform such functions on our behalf or to provide services to us or as otherwise required by law;   
+(c) third parties who, in our reasonable judgment, are providing or seeking the information as the authorized or appointed legal agent of the subject individual; or  
+(d) carefully selected third parties, including our affiliates, to send you third party marketing and promotional information that may be of interest to you. In such circumstances your personal information may be disclosed to these organizations that will be bound by confidentiality obligations and restrictions on use of personal information. We will obtain your express permission before we allow a third party that is not an affiliate to send you any such marketing and promotional information;   
+(e) a person or entity, including our affiliates, in the event of a sale, merger, consolidation, change in control, transfer of substantial assets, financing, reorganization or liquidation, whereby we transfer, sell, or assign to such third party information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us; and   
+(f) law enforcement, governmental or regulatory agencies, or other third party in order to comply with law or where we believe such action is necessary in order to comply with law or detect, protect or defend us and/or other third parties against error, negligence, breach of contract, theft, fraud and other illegal or harmful activity, to comply with our audit and security requirements, and to audit compliance with our corporate policies, procedures, legal and contractual obligations.
 
-Marketing analysis 
+### 8\. Public (or Interactive) areas of our websites
 
-We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you. We will only shared identifiable personal information with third parties for marketing analysis with your consent.
+Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. You should not provide personal information about yourself in public (or interactive) areas of the site. Such personal information is not covered under this Privacy Statement.
 
-Transactional purposes
+### 9\. Security 
 
-We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfilment of such transactions (e.g. delivery). The personal information you provide may be used by an authorised vendor to fulfil that order. 
+We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. We have no control over the privacy of any communications while in transit to us. We recommend that you not include confidential, proprietary or sensitive information in such communications.
 
-  Third party offers
+In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail.
 
-We may arrange for carefully selected organisations to send you marketing and promotional information that may be of interest to you. In such circumstances your personal information may be disclosed to these organisations who will be bound by confidentiality obligations and restrictions on use of personal information. We will obtain your permission before we allow a third party to send you any such communications. 
+You are reminded that, in accordance with the Terms and Conditions for this website, which include this Privacy Statement, you are responsible for maintaining the strict confidentiality of your account password, and you are responsible for any activity under your account and password. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify us when you desire to cancel your account. We will not be responsible or liable for any loss or damage arising from your failure to comply with this obligation.
 
-Public (or Interactive) areas of our websites
+### 10\. Unsubscribe, access, questions and further information 
 
-Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others.  Users of our websites are encouraged to exercise caution when providing personal information about themselves in public (or interactive) areas of this site.
+At your request and where the law requires us to do so, we will confirm what personal information we hold about you, update your information, remove your information, fulfill specific opt-out requests, including requests where you have previously opted-in with respect to the use of your personal information, and/or correct any inaccuracies in such personal information if you contact us using the unsubscribe details provided below. 
 
-Sale or Transfer
+If you would like to unsubscribe from Diageo communications or from all communications about Diageo brands, please contact: Digital Governance Director, Diageo Plc, Lakeside Drive, Park Royal, London NW10 7HQ, United Kingdom.
 
-In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, financing, reorganisation or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us. 
+### 11\. Portfolio permissions
 
-Legal purposes
-
-We may collect, use and/or disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to detect, protect or defend us and/or other third parties against error, negligence, breach of contract, theft, fraud and other illegal or harmful activity, to comply with our audit and security requirements, and to audit compliance with or corporate policies, procedures, legal and contractual obligations.
-
-**7\. Disclosure of personal information**
-
-In addition to disclosures identified in the purposes above, from time to time we may disclose personal information to:
-
-(a) our service providers and subcontractors, including our affiliates, retained to perform functions on our behalf or to provide services to us, such as warehousing and delivery; marketing and advertising; data processing; software development; website hosting and management; information technology and office services; legal, accounting, audit and other professional service providers; and further provided such service provider does not collect, use or disclose the personal information for any purpose other than to perform such functions or to provide services to us or as otherwise required by law;  
-(b) a person or entity, including our affiliates, to whom disclosure is required in order to fulfill one or more of the purposes described above under “Purposes for Collecting Information”;  
-(c) a person who, in our reasonable judgment, is providing or seeking the information as the authorized or appointed legal agent of the subject individual; or  
-(d) any third party with your consent or where disclosure is required or permitted by law.
-
-Your acceptance of the [Terms and Conditions](https://web.archive.org/en-row/Footer/termsandconditions.htm) of use of this site, which include this Privacy Statement, constitute the granting of consent to the use and disclosure of your personal information for the purposes set out above. 
-
-**8\. Security**
-
-  We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. We have no control over the privacy of any e-mail communications while in transit to us. We recommend that you not include confidential, proprietary or sensitive information in e-mails.
-
-In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavour to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail.
-
-**9\. Unsubscribe, access, questions and further information**
-
-At your request, where the law requires us to do so, we will confirm what personal information we hold about you, update your information, remove your information and/or correct any inaccuracies in such personal information if you contact us using the unsubscribe details provided below.
-
-If you would like to unsubscribe from communications about Diageo brands, or if you have any privacy-related questions, concerns or complaints, please contact :   Digital Governance Director, Diageo plc, 8 Henrietta Place, London, W1G 0NB.
-
-**10\. Portfolio permissions**
-
-If you have given permission for communications about Diageo brands generally (for example, by opting to receive news and special offers by email about Diageo’s other great alcohol brands) you may from time to time receive communications about brands to which you have not opted-in specifically. Information about many of Diageo’s brands can be found at [www.diageobrands.com](http://www.diageobrands.com/). 
+If you have given permission to receive communications about Diageo brands generally (for example, by opting to receive news and special offers by email about Diageo's other great alcohol brands) you may from time to time receive communications about brands to which you have not opted-in specifically. Information about many of Diageo's brands can be found at [www.diageobrands.com](http://www.diageobrands.com/). 
 
 We may occasionally send you communications about brands not featured on [www.diageobrands.com](http://www.diageobrands.com/) (e.g. new brands). We recommend that you refer to [www.diageobrands.com](http://www.diageobrands.com/) from time to time as the list of brands featured will be updated periodically.
 
-Providing general permission for us to communicate with you about our brands does not mean that you will receive communications about all Diageo’s brands. We will only communicate with you about those brands that we think may be of particular interest to you. Any such communications will provide you with an opportunity to unsubscribe from the brand in question and/or from all communications about Diageo brands.
+Providing general permission for us to communicate with you about our brands does not mean that you will receive communications about all Diageo's brands. We will only communicate with you about those brands that we think may be of particular interest to you. Any such communications will provide you with an opportunity to unsubscribe from the brand in question and/or from all communications about Diageo brands.
 
-  
-**11\. Links**
+If you have any privacy-related questions, concerns or complaints, please contact: Digital Governance Director, Diageo plc, 8 Henrietta Place, London, W1G 0NB, E-mail: privacy@diageo.com
 
-This site may contain links or references to other websites outside of our control.  Please be aware that we have no control over these sites and our privacy statement does not apply to these sites.  We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter.
+### 12\. Links 
 
-As required, this Privacy Statement will be supplemented by additional legal requirements in jurisdictions where we conduct business.  Nothing in this Privacy Statement or otherwise will create, or add to, any right or claim (whether legal, equitable or otherwise) that any individual or person may have at law or otherwise against the company or any third party or any of their respective directors, officers, employees, agents or representatives (collectively the “Diageo Group”); nor will the existence of this Privacy Statement or its application impose or add to any obligations or liability upon the Diageo Group that the Diageo Group does not already otherwise have under law.
+The site may contain links or references to other websites outside of our control. Please be aware that we have no control over these websites and our Privacy Statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced websites you enter.
 
-© Diageo plc. 8 Henrietta Place, London, W1G 0NB. All rights reserved.
+As required, this Privacy Statement will be supplemented by additional legal requirements in jurisdictions where we conduct business. Nothing in this Privacy Statement or otherwise will create, or add to, any right or claim (whether legal, equitable or otherwise) that any individual or person may have at law or otherwise against the company or any third party or any of their respective directors, officers, employees, agents or representatives (collectively the “Diageo Group”); nor will the existence of this Privacy Statement or its application impose or add to any obligations or liability upon the Diageo Group that the Diageo Group does not already otherwise have under law.
 
-  
-Version 8.0 [October 2005]
+© 2010 Diageo Plc, Lakeside Drive, Park Royal, London NW10 7HQ, United Kingdom (registered in England and Wales with registered number 23307) All rights reserved. Version 9.2 dated 15 February.
