@@ -1,104 +1,77 @@
-<!--The following is the downloaded HTML source of the worldwidetelescope.org privacy policy that was archived on 2009-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090515014552id_/http%3A//www.worldwidetelescope.org/help/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldwidetelescope.org privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616193640id_/http%3A//www.worldwidetelescope.org/help/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	WorldWide Telescope
-</title><link href="../styles/main.css" rel="stylesheet" type="text/css"><link href="../styles/wwt.css" rel="stylesheet" type="text/css">
+</title><link href="/styles/main.css" rel="stylesheet" type="text/css">
+    <script src="/includes/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script src="/includes/main.js" type="text/javascript"></script>
+    
+
+    <style type="text/css">
+    .top_tab
+    {
+	    background-image:url(http://cdn.worldwidetelescope.org/images/backgrounds/top_navbar.jpg);
+    	
+    }
+    .active_tab
+    {
+	    background:url(http://cdn.worldwidetelescope.org/images/backgrounds/top_navbar_hover.gif);
+    	
+    }
+    .top_tab_sep
+    {
+	    background:url(http://cdn.worldwidetelescope.org/images/backgrounds/top_navbar.jpg);
+    }
+    TD.homebucket_content
+    {
+
+	    background:url(http://cdn.worldwidetelescope.org/images/backgrounds/home_bucket_stretch.gif);
+    }
+    DIV.tour_tile
+    {
+	    background:url(http://cdn.worldwidetelescope.org/images/backgrounds/tour_tile.gif);
+    	
+    }
+    DIV.active_tour
+    {
+	    background:url(http://cdn.worldwidetelescope.org/images/backgrounds/tour_tile_active.gif);
+    }
+    TABLE.tabs TD
+    {
+	    background-image:url(http://cdn.worldwidetelescope.org/images/tour_inactive_tab.gif);
+    }
+
+    .selected_tour_left
+    {
+	    background:url(http://cdn.worldwidetelescope.org/images/backgrounds/hover_tour_left.gif) no-repeat;
+    }
+    .selected_tour_right
+    {
+	    background:url(http://cdn.worldwidetelescope.org/images/backgrounds/hover_tour_right.gif) no-repeat;
+    }
+    .selected_tour_stretch
+    {
+	    background:url(http://cdn.worldwidetelescope.org/images/backgrounds/hover_tour_stretch.gif) repeat-x;
+    }
+    DIV.Sys_Requirements
+    {
+	    background:url(http://cdn.worldwidetelescope.org/images/backgrounds/sys_reqs.gif) no-repeat;
+    }
+    </style>
 </head>
 
-<body style="background:#0e1629 url(http://content.worldwidetelescope.org/img/backgrounds/bg_gradient_main.jpg) repeat-x 0px 0px">
-<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxM2RkHkBymOzvBQIDh6yi0cWTywA7O2M=">
+<body style="background:#0e1629 url(http://cdn.worldwidetelescope.org/images/backgrounds/bg_gradient_main.jpg) repeat-x 0px 0px">
+<form name="aspnetForm" method="post" action="/help/privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxM2RksgnR1m+i8y3eJdgcq1HrdcKxdOQ=">
 
 
-<script src="/ScriptResource.axd?d=qMmO_J_u76eu0kGqubXdw-3bqt19HuMVtFKzsxwBfRS8QPtTcLDIO_CjfE9gDrxkT5VvmMZMdQdaYVOhcmNtyrJinx0RHoZs5bkKNXaVj-o1&amp;t=1b151038" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OL9wHowHG37u3ruYiQDAv-NllEBfsM2WvydGt3tlUcLL8oqnAfpQ2mJ9qn06pFGti3s61EMbI1I_8EV1F4H9COqu1r7IbVE5A4d8dNpTE041&amp;t=9e05a1d" type="text/javascript"></script>
 
     <center>
     
-    <script language="javascript" type="text/javascript">
-	//<!--
-	function showRequirements()
-	{
-		var isHome = 'True' == 'False';
-		var reqsDiv = document.getElementById('divSysReqs');
-		reqsDiv.style.display = 'block';
-		var lnk = document.getElementById('lnkSysReqs');
-		reqsDiv.style.top = isHome ? '277px' : '90px';
-		reqsDiv.style.left = (findPos(document.getElementById('divMain')).left + (isHome ? 345 : 260)) + 'px';
-		hidePlayer();
-		
-	}
-
-	function findPos(obj)
-	{
-		var curleft = 0;
-		var curtop = 0;
-		if (obj.offsetParent)
-		{
-			while (obj.offsetParent)
-			{
-				curleft += obj.offsetLeft-obj.scrollLeft;
-				curtop += obj.offsetTop-obj.scrollTop;
-				var position = '';
-				if (obj.style && obj.style.position) 
-					position = obj.style.position.toLowerCase();
-				if (position == 'absolute' || position == 'relative') 
-					break;
-				while (obj.parentNode != obj.offsetParent) 
-				{
-					obj=obj.parentNode;
-					curleft -= obj.scrollLeft;
-					curtop -= obj.scrollTop;
-				}
-				obj = obj.offsetParent;
-			}
-		}
-		else 
-		{
-			if (obj.x)
-				curleft += obj.x;
-			if (obj.y)
-				curtop += obj.y;
-		}
-		return { left:curleft, top:curtop };
-	}
-
-	function showPlayer()
-	{
-//		if (document.getElementById('ctl00_ctl00_ContentPlaceHolder1_MainContent_slPlayer') != null)
-//			document.getElementById('ctl00_ctl00_ContentPlaceHolder1_MainContent_slPlayer').style.visibility = 'visible';
-//		else if (document.getElementById('divPlayerContainer') != null)
-//			document.getElementById('divPlayerContainer').style.visibility = 'visible';
-	}
-
-	function hidePlayer()
-	{
-//		if (document.getElementById('ctl00_ctl00_ContentPlaceHolder1_MainContent_slPlayer') != null)
-//			document.getElementById('ctl00_ctl00_ContentPlaceHolder1_MainContent_slPlayer').style.visibility = 'hidden';
-//		else if (document.getElementById('divPlayerContainer') != null)
-//			document.getElementById('divPlayerContainer').style.visibility = 'hidden';
-	}
-
-	function clickEl(id)
-	{
-		var el = document.getElementById(id);
-		try
-		{
-			el.onclick();
-		}
-		catch (er)
-		{
-			el.click();
-		}
-	}
-	
-	//-->
-	</script>
-	
-	
-
-	<div class="Sys_Requirements" style="z-index:111111" id="divSysReqs">
-	<img onclick="this.parentNode.style.display = 'none';showPlayer()" src="http://content.worldwidetelescope.org/img/close_pop.gif" style="float:right;margin:26px 2px;cursor:pointer">
+    <div class="Sys_Requirements" style="z-index:111111" id="divSysReqs">
+	<img onclick="$('div.Sys_Requirements').css('display', 'none');" src="http://cdn.worldwidetelescope.org/images/close_pop.gif" style="float:right;margin:26px 2px;cursor:pointer">
 	<ul>
 		<li>If you run Mac OS X or don't meet these requirements try the <a href="/whatIs/whatIsWWT.aspx?WWT=WebClient">Web Client</a></li>
 		<li>Microsoft® XP SP2 (minimum), Windows® Vista® (recommended)</li>
@@ -115,32 +88,32 @@
 		charges might also apply</li>
 	</ul>
 	</div>
-    <div id="divMain" class="main" style="background:url(http://content.worldwidetelescope.org/img/Star_BG.jpg) no-repeat;position:relative;">
+    <div id="divMain" class="main" style="background:url(http://cdn.worldwidetelescope.org/images/Star_BG.jpg) no-repeat;position:relative;">
 	<div id="ctl00_pnlInstall">
 	
-		
-<div id="installDiv" style="position:absolute;top:48px;left:711px;width:200px;text-align:right;margin-bottom:-2px">
-		<a href="http://content.worldwidetelescope.org/solstice/wwtsetup.msi" id="ctl00_wwtDownload">
-		<img alt="Install WorldWide Telescope" src="http://content.worldwidetelescope.org/img/btn_install_small.gif" style="border:none"></a>
-		<div style="color:White;font: 6.5pt verdana;position:relative;top:-1px" id="lnkSysReqs">
-			<a style="text-decoration:underline; font:6.5pt verdana; color:#6ba9e6; margin:0px" href="javascript:showRequirements()">
-				System Requirements</a>&nbsp;
-		</div>
-	</div>
-<div id="webclientDiv" style="position:absolute;top:48px;left:511px;width:200px;text-align:right;margin-bottom:-2px">
-		<a href="/webclient/" target="WWTWebClient">
-		<img alt="Install WorldWide Telescope" src="http://content.worldwidetelescope.org/img/btn_webclient_small.gif" style="border:none"></a>
-		<div style="color:White;font: 6.5pt verdana;position:relative;top:-1px" id="lnkSysReqs">
-			<a style="text-decoration:underline; font:6.5pt verdana; color:#6ba9e6; margin:0px" href="/whatIs/whatIsWWT.aspx?WWT=WebClient">Mac &amp; PC - Compare Client Versions</a>&nbsp;
-		</div>
+        <div id="installDiv" style="position:absolute;top:48px;left:711px;width:200px;text-align:right;margin-bottom:-2px">
+		    <a href="http://cdn.worldwidetelescope.org/beta/wwtsetupaphsp2.msi" id="ctl00_wwtDownload">
+		    <img alt="Install WorldWide Telescope" src="http://cdn.worldwidetelescope.org/images/btn_install_small.gif" style="border:none"></a>
+		    <div style="color:White;font: 6.5pt verdana;position:relative;top:-1px" id="lnkSysReqs">
+			    <a style="text-decoration:underline; font:6.5pt verdana; color:#6ba9e6; margin:0px" href="javascript:showRequirements()">
+				    System Requirements</a>&nbsp;
+		    </div>
+	    </div>
+        <div id="webclientDiv" style="position:absolute;top:48px;left:511px;width:200px;text-align:right;margin-bottom:-2px">
+		    <a href="/webclient/" target="WWTWebClient">
+		    <img alt="Install WorldWide Telescope" src="http://cdn.worldwidetelescope.org/images/btn_webclient_small.png" style="border:none"></a>
+		    <div style="color:White;font: 6.5pt verdana;position:relative;top:-1px">
+			    <a style="text-decoration:underline; font:6.5pt verdana; color:#6ba9e6; margin:0px" href="/whatIs/whatIsWWT.aspx?WWT=WebClient">Mac &amp; PC - Compare Client Versions</a>&nbsp;
+		    </div>
 
-	</div>
+	    </div>
 	
 </div>
+	
 		<div><a href="../Home.aspx">
-				<img src="/images/top_logo.jpg" border="0" alt="Microsoft Research WorldWide Telescope"></a></div><table style="background-image:url(/images/bottom_left_logo.jpg) no-repeat;width:932px;height:28px;table-layout:fixed" cellpadding="0" cellspacing="0">
+				<img src="http://cdn.worldwidetelescope.org/images/top_logo.jpg" border="0" alt="Microsoft Research WorldWide Telescope"></a></div><table style="background-image:url(http://cdn.worldwidetelescope.org/images/bottom_left_logo.jpg) no-repeat;width:932px;height:28px;table-layout:fixed" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td width="120px"><img src="http://content.worldwidetelescope.org/img/bottom_left_logo.jpg" alt=""></td>
+			<td width="120px"><img src="http://cdn.worldwidetelescope.org/images/bottom_left_logo.jpg" alt=""></td>
 			<td class="top_tab" width="94px">&nbsp;</td>
 
 			<td id="ctl00_nav_home" width="101px" class="active_tab">
@@ -178,11 +151,11 @@
 			<td id="ctl00_nav_press" width="91px" class="top_tab">
 				<a id="ctl00_hlPress" class="nav" href="/press/press.aspx">Media</a></td>
 <td>
-				<img alt="" src="http://content.worldwidetelescope.org/img/navbar_end.jpg"></td></tr>
+				<img alt="" src="http://cdn.worldwidetelescope.org/images/navbar_end.jpg"></td></tr>
 		</tbody></table>
 		<table cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td style="background:url('http://content.worldwidetelescope.org/img/trans_bg.png') repeat-y 34px 0px;padding-left:34px;height:100%;">
+			<td style="background:url('http://cdn.worldwidetelescope.org/images/trans_bg.png') repeat-y 34px 0px;padding-left:34px;height:100%;">
 
 				
 <div style="width:680px;margin:16px">
@@ -247,16 +220,18 @@ Redmond, WA 98052-6399 <br>
         </tr>
         <tr>
 			<td style="height:9px;padding:0px 34px">
-				<img src="http://content.worldwidetelescope.org/img/main_content_bottom.gif" alt="" style="margin-bottom:3px"></td>
+				<img src="http://cdn.worldwidetelescope.org/images/main_content_bottom.png" alt="" style="margin-bottom:3px"></td>
 		</tr>
 		
 		<tr>
 			<td style="height:41px;text-align:center;color:White;">
-				<span style="color:#498acc;font:7pt verdana;margin-right:5px">© 2008 Microsoft Corporation. All rights reserved</span> |
+				<span style="color:#498acc;font:7pt verdana;margin-right:5px">© 2009 Microsoft Corporation. All rights reserved</span> |
 				<a href="/help/supporthelp.aspx?SuppS=ContactInfo" class="footer">Contact Us</a>  |  
+				<a href="http://Research.Microsoft.com" class="footer">Microsoft Research</a>  |  
 				<a href="/help/tou.aspx" class="footer">Terms of Use</a>  |  
 				<a href="/help/privacy.aspx" class="footer">Privacy Statement</a>  |  
 				<a href="/help/disclaimer.aspx" class="footer">Disclaimer</a>
+				<img style="position:relative;top:-13px;z-index:-1;margin-bottom:-22px" src="http://cdn.worldwidetelescope.org/images/bottom_reflection.png">
 			</td>
 		</tr>
 		</tbody></table>
