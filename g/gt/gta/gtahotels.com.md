@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtahotels.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410074914id_/http%3A//www.gtahotels.com/customercare/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtahotels.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616153615id_/http%3A//www.gtahotels.com/customercare/privacy.php) for the most accurate reproduction.*
 
 # GtaHotels.com - Customer Care : Privacy
 
@@ -25,7 +25,7 @@ This site requires that customers share personal and/or financial information in
 |   
 ---  
 | Telephone numbers may be used to contact customers in case of an urgent need relating to an existing reservation or request for services.  
-| E-mail addresses may be used to inform clients of services and offers which are most likely to be of interest to them. With respect to this use of personal information, customers may at any time indicate their preference not to receive such information by sending an email to customercare@gtahotels.com.   
+| E-mail addresses are stored and never shared. E-mail addresses are used to inform our customers of offers including newsletters which are most likely to be of interest to them. With respect to this use of personal information, if you don't want to receive any future promotions or updates from Gtahotels.com please [click here](http://www.gtahotels.com/memberlogin.php "click here") and log in to update your account information.  
         
   
 ---  
@@ -65,7 +65,7 @@ Gtahotels.com logs visitor IP addresses to optimize server performance and to tr
 
 ****COOKIES****
 
-Upon your initial visit to our site, gtahotels.com will automatically set a cookie – a small piece of data– on your hard drive to welcome you back to the site upon subsequent visits and to save your chosen site parameters. We do not use cookies to collect any information other than just described, and the information stored in a cookie can in no way be used to identify you personally. You can always avoid receiving cookies by setting your Web browser to refuse them.  |   
+Upon your initial visit to our site, gtahotels.com will automatically set a cookie - a small piece of data - on your hard drive to welcome you back to the site upon subsequent visits and to save your chosen site parameters. We do not use cookies to collect any information other than just described, and the information stored in a cookie can in no way be used to identify you personally. You can always avoid receiving cookies by setting your Web browser to refuse them.  |   
         
   
 ---  
@@ -75,7 +75,7 @@ Upon your initial visit to our site, gtahotels.com will automatically set a cook
 
 ****LINKS TO THIRD PARTY SITES****
 
-This website contains links to third-party websites. Gtahotels.com’s Privacy Policy does not apply to these sites, and gtahotels.com makes no guarantees as to the privacy policy of any third party sites to which it contains links.  |   
+This website contains links to third-party websites. Gtahotels.com's Privacy Policy does not apply to these sites, and gtahotels.com makes no guarantees as to the privacy policy of any third party sites to which it contains links.  |   
         
   
 ---  
