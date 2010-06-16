@@ -1,157 +1,126 @@
-<!--The following is the downloaded HTML source of the netbenefit.com privacy policy that was archived on 2009-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090417040416id_/http%3A//www.netbenefit.com/netbenefit/Privacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netbenefit.com privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616053253id_/http%3A//www.netbenefit.com/netbenefit/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Privacy Policy | NetBenefit</title>
+<title>Privacy Policy | Web Hosting | NetBenefit</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="ROBOTS" content="NOYDIR">
 <meta name="description" content="Privacy Policy">
 <meta name="keywords" content="Privacy Policy">
-<script src="http://tracking.dc-storm.com/dcv4/jslib/sid0524_4.003.js" type="text/javascript"></script>
 
 <link href="/netbenefit/CSS_page" rel="stylesheet" type="text/css" media="all">
 <script type="text/javascript" language="javascript" src="/netbenefit/JS_page"></script>
 
-	<style type="text/css">
-	
-	BODY
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try 
 {
-    font: 0.7em Tahoma, Arial;
-	color: #666;
-    
-}
+    var pageTracker = _gat._getTracker("UA-2742309-1");
+    pageTracker._setDomainName("netbenefit.com");
+    pageTracker._trackPageview();
 
-.sitemapBox
-{
-    
-    width:209px;
-     height: 25px;
-    float:left;
-    vertical-align:bottom;
-      
-    
-}
+// BEGIN COASTDIGITAL
+    //
+    // This is a function that I "borrowed" from the urchin.js file.
+    // It parses a string and returns a value.  I used it to get
+    // data from the __utmz cookie
+    //
+    function _uGC(l,n,s) {
+     if (!l || l=="" || !n || n=="" || !s || s=="") return "-";
+     var i,i2,i3,c="-";
+     i=l.indexOf(n);
+     i3=n.indexOf("=")+1;
+     if (i > -1) {
+      i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
+      c=l.substring((i+i3),i2);
+     }
+     return c;
+    }
 
-.sitemapHeader
-{
-    background-color: #F45B0D;
-    height: 18px;
-    width: 209px;
-    text-align: center;
-    font: 11px Tahoma, Arial;
-    color: #ffffff;
-    font-weight: 900; 
-    vertical-align:bottom;
-    padding-top:.5em;
-    
-}
+    // 
+    // Get the __utmz cookie value. This is the cookies that 
+    // stores all campaign information. 
+    // 
+    var z = _uGC(document.cookie, '__utmz=', ';'); 
+    // 
+    // The cookie has a number of name-value pairs. 
+    // Each identifies an aspect of the campaign. 
+    // 
+    // utmcsr  = campaign source 
+    // utmcmd  = campaign medium 
+    // utmctr  = campaign term (keyword) 
+    // utmcct  = campaign content  
+    // utmccn  = campaign name 
+    // utmgclid = unique identifier used when AdWords auto tagging is enabled 
+    // 
+    // This is very basic code. It separates the campaign-tracking cookie 
+    // and populates a variable with each piece of campaign info. 
+    // 
+    var source  = _uGC(z, 'utmcsr=', '|'); 
+    var medium  = _uGC(z, 'utmcmd=', '|'); 
+    var term    = _uGC(z, 'utmctr=', '|'); 
+    var content = _uGC(z, 'utmcct=', '|'); 
+    var campaign = _uGC(z, 'utmccn=', '|'); 
+    var gclid   = _uGC(z, 'utmgclid=', '|'); 
+    // 
+    // The gclid is ONLY present when auto tagging has been enabled. 
+    // All other variables, except the term variable, will be '(not set)'. 
+    // Because the gclid is only present for Google AdWords we can 
+    // populate some other variables that would normally 
+    // be left blank. 
+    // 
+    if (gclid !="-") { 
+          source = 'google'; 
+          medium = 'cpc'; 
+    } 
+    // Data from the custom segmentation cookie can also be passed 
+    // back to your server via a hidden form field 
+    var csegment = _uGC(document.cookie, '__utmv=', ';'); 
+    if (csegment != '-') { 
+          var csegmentex = /[1-9]*?\.(.*)/;
+          csegment    = csegment.match(csegmentex); 
+          csegment    = csegment[1]; 
+    } else { 
+          csegment = '(not set)'; 
+    } 
+     
+    //
+    // One more bonus piece of information.  
+    // We're going to extract the number of visits that the visitor
+    // has generated.  It's also stored in a cookie, the __utma cookis
+    // 
+    var a = _uGC(document.cookie, '__utma=', ';');
+    var aParts = a.split(".");
+    var nVisits = aParts[5];
 
-.sitemapHeader a,.sitemapHeader a:visited
-{
-    color: #ffffff;
-    text-decoration:none;
-}
-
-.sitemapHeader a:hover
-{
-     color:#ff7a11;
-     text-decoration:underline;
-}
-
-
-
-#sitemapLeft
-{
-    float:left;
-    vertical-align:middle;
-     width:209px; 
-   
-    
-}
-
-#sitemapRight
-{ 
-    clear:right;
-    vertical-align:middle;
-    
-}
-
-.orangeBorder
-{
-    margin-top: -.8em;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-color: #ff7700;
-}
-
-
-.itemList
-{
-    
-    width: 209px;
-    height:8px;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-color:#F3F2F2;
-    vertical-align:top;
-    padding-bottom:.8em;
-   margin-top:-.8em;
-   
-    text-align:left;
-    clear:both;
-    font: 11px Tahoma, Arial;
-  
-}
-
-.itemList2
-{
-        width: 209px;
-    height:9px;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-bottom-color: #F3F2F2 ;
-    vertical-align:top;
-    padding-bottom:.8em;   
-    text-align:left;
-    clear:both;
-    padding-top:.5em;
-}
+    function populateHiddenFields(f) 
+    { 
+          f.source.value  = source; 
+          f.medium.value  = medium; 
+          f.term.value    = term; 
+          f.content.value = content; 
+          f.campaign.value = campaign; 
+          f.segment.value = csegment; 
+          f.numVisits.value = nVisits;
 
 
-.folder
-{
-  padding-right:.4em;   
-  vertical-align:middle;
-}
-
-
-.itemList a,.itemList a:visited,.itemList2 a, .itemList2 a:visited
-{
-  text-decoration:none;  
-   color: #666;
-   
-}
-
-.itemList a:hover, .itemList2 a:hover
-{
- 
-  color:#ff7a11;
-  text-decoration:underline;
-    
-}
-	
-
-
-
-	</style>
-
+          return validateRequired(); 
+    } 
+// END COASTDIGITAL
+} 
+catch(err) {}
+</script>
 
 </head>
+
 <body>
 
 
-
-<img src="/digitalAssets/8509_NBT-top-shadow.jpg" class="wrappershadow" alt="NetBenefit" title="NetBenefit">
+<img src="/digitalAssets/12734_NBT-top-shadow.jpg" class="wrappershadow" alt="NetBenefit" title="NetBenefit">
 
 <div id="wrapper">
 
@@ -172,120 +141,97 @@
 			
 		<div id="search"><div id="language">
 <b>Select language:</b>
-				<a href="http://www.netbenefit.com?languageId=1"><img src="/digitalAssets/8652_flag-uk.gif" alt="UK"></a>
-				<a href="http://www.netbenefit.fr"><img src="/digitalAssets/8651_flag-french.gif" alt="French"></a></div>
+				<a href="http://www.netbenefit.com?languageId=1" rel="nofollow"><img src="/digitalAssets/12756_flag-uk.gif" alt="UK"></a>
+				<a href="http://www.netbenefit.fr" rel="nofollow"><img src="/digitalAssets/12755_flag-french.gif" alt="French"></a></div>
 			<b>Search</b>
-			<form method="post" action="/netbenefit/Search">
+			<form method="get" action="/netbenefit/Search">
 			<input type="text" name="searchText">
 			<input type="image" src="/digitalAssets/1668_btn-go-panel.gif" alt="Go" title="Go">
 			</form>
 		</div>
 
-		<a href="http://www.netbenefit.com/"><img src="/digitalAssets/8656_3905_logo.gif" alt="NetBenefit logo" title="NetBenefit logo"></a>
+		<a href="http://www.netbenefit.com/"><img src="/digitalAssets/12760_3905_logo.gif" alt="Managed Server Hosting &amp; Business Web Hosting" title="Managed Server Hosting &amp; Business Web Hosting"></a>
 
 <div id="menu">
 <ul id="nav">
 	<li class="one">
 		<a id="root" href="/" burb="200 - 117">Home</a>
 	</li>
-
 	<li class="nine">
-<a id="root" href="/netbenefit/Managed+Hosting" burb="200 - 131">Managed Hosting</a>
+		<a id="root" href="/netbenefit/Managed-Hosting" burb="200 - 131">Managed Hosting</a>
 		  <ul class="subnav">
-      <li><a href="/netbenefit/Managed+Hosting/Dedicated+servers">
+      <li><a href="/netbenefit/Managed-Hosting/Dedicated-Servers">
 	Dedicated servers</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/Business+critical+hosting">
+      <li><a href="/netbenefit/Managed-Hosting/Business-critical-hosting">
 	Business critical hosting</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/Managed+hosting+services">
+      <li><a href="/netbenefit/Managed-Hosting/Managed-hosting-services">
 	Managed hosting services</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/managed+hosting+solutions">
+      <li><a href="/netbenefit/Managed-Hosting/managed-hosting-solutions">
 	Managed hosting solutions</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/complex+hosting+project+management">
+      <li><a href="/netbenefit/Managed-Hosting/hosting-project-management">
 	Complex hosting project management</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/ContentDeliveryNetwork">
+      <li><a href="/netbenefit/Managed-Hosting/Content-Delivery-Network">
 	Content Delivery Network</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/Virtualisation">
-	Virtualisation</a></li>
     </ul>
-		
 	</li>
-
 	<li class="two">
-		<a id="root" href="/netbenefit/Managed+Hosting/Dedicated+servers" burb="200 - 132">Dedicated Servers</a>
+		<a id="root" href="/netbenefit/Managed-Hosting/Dedicated-Servers" burb="200 - 132">Dedicated Servers</a>
 		  <ul class="subnav">
-      <li><a href="/netbenefit/Managed+Hosting/Dedicated+servers/Entry+level+server">
-	Entry level server</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/Dedicated+servers/Mid+range+server">
-	Mid range server</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/Dedicated+servers/High+end+server">
-	High end server</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/Dedicated+servers/Linux+hosting">
-	Linux hosting</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/Dedicated+servers/Windows+hosting">
-	Windows hosting</a></li>
-      <li><a href="/netbenefit/Managed+Hosting/Dedicated+servers/Quad+core+processors">
-	Quad core processors</a></li>
-    </ul>
+                       <li><a href="/netbenefit/Managed-Hosting/Dedicated-Servers/Entry-Level-Server">Entry level server</a></li>
+                       <li><a href="/netbenefit/Managed-Hosting/Dedicated-Servers/Mid-Range-Server">Mid range server</a></li>
+                       <li><a href="/netbenefit/Managed-Hosting/Dedicated-Servers/High-End-Server">High end server</a></li>
+                       <li><a href="/netbenefit/Managed-Hosting/Dedicated-Servers/Linux-Hosting">Linux hosting</a></li>
+                       <li><a href="/netbenefit/Managed-Hosting/Dedicated-Servers/Windows-Hosting">Windows hosting</a></li>
+                       <li><a href="/netbenefit/Managed-Hosting/Dedicated-Servers/Microsoft-WebsiteSpark">Microsoft WebsiteSpark</a></li>
+                       <li><a href="/netbenefit/Managed-Hosting/Dedicated-Servers/Microsoft-BizSpark">Microsoft BizSpark</a></li>
+                   </ul>	
 	</li>
-
 	<li class="three">
-		<a id="root" href="/netbenefit/Support" burb="200 - 124">Support</a>
+		<a id="root" href="/netbenefit/Virtualisation/What-is-virtualisation" burb="200 - 1206">Virtualisation</a>
 		  <ul class="subnav">
-      <li><a href="/netbenefit/Support/About+Control+Panel">
-	About Control Panel</a></li>
-      <li><a href="/netbenefit/Support/About+My+Account">
-	About My Account</a></li>
-      <li><a href="/netbenefit/Support/Account+management">
-	Account management</a></li>
-      <li><a href="/netbenefit/Support/Useful+Information">
-	Useful information</a></li>
-      <li><a href="/netbenefit/Support/About+NetBenefit+support">
-	About NetBenefit support</a></li>
-    </ul>
+                       <li><a href="/netbenefit/Virtualisation/What-is-virtualisation">What is virtualisation?</a></li>
+                       <li><a href="/netbenefit/Virtualisation/Ultra-V-virtualisation-platform">Ultra-V virtualisation platform</a></li>
+                       <li><a href="/netbenefit/Virtualisation/Microsoft-Hyper-V">Microsoft Hyper-V</a></li>
+                       <li><a href="/netbenefit/Virtualisation/VMware-for-virtualisation">VMware for virtualisation</a></li>
+                   </ul>	
 	</li>
-	<li class="six">
-		<a id="root" href="/netbenefit/Contact+Us" burb="200 - 126">Contact us</a>
-		  <ul class="subnav">
-      <li><a href="/netbenefit/Contact+Us/How+to+find+us">
-	How to find us</a></li>
-      <li><a href="/netbenefit/Contact+Us/Press+enquires">
-	Press enquires</a></li>
-      <li><a href="/netbenefit/Contact+Us/Contact+support">
-	Contact support</a></li>
+        <!--<li>
+               <a id='root' href='/netbenefit/'                                      burb='200 - 1289'
+>Cloud Hosting</a>
+                 <ul class="subnav">
     </ul>
-	</li>
+        </li>-->
 	<li class="five">
-		<a id="root" href="/netbenefit/About+Us" burb="200 - 127">About us</a>
+		<a id="root" href="/netbenefit/about-us" burb="200 - 127">About us</a>
 		  <ul class="subnav">
-      <li><a href="/netbenefit/About+Us/Why+choose+NetBenefit">
+      <li><a href="/netbenefit/about-us/why-netbenefit">
 	Why choose NetBenefit</a></li>
-      <li><a href="/netbenefit/About+Us/Our+network">
+      <li><a href="/netbenefit/about-us/our-network">
 	Our network</a></li>
-      <li><a href="/netbenefit/About+Us/Our+partners">
+      <li><a href="/netbenefit/about-us/our-partners">
 	Our partners</a></li>
-      <li><a href="/netbenefit/About+Us/Our_Customers">
+      <li><a href="/netbenefit/about-us/customers">
 	Our customers</a></li>
-      <li><a href="/netbenefit/About+Us/Case+studies">
+      <li><a href="/netbenefit/about-us/case-studies">
 	Case studies</a></li>
-      <li><a href="/netbenefit/About+Us/Press+room">
+      <li><a href="/netbenefit/about-us/press-room">
 	Press room</a></li>
-      <li><a href="/netbenefit/About+Us/Events">
+      <li><a href="/netbenefit/about-us/Events">
 	Events</a></li>
-      <li><a href="/netbenefit/About+Us/NetNames+Platinum">
+      <li><a href="/netbenefit/about-us/netnames-platinum">
 	NetNames Platinum</a></li>
-      <li><a href="/netbenefit/About+Us/Group+NBT">
+      <li><a href="/netbenefit/about-us/group-nbt">
 	Group NBT</a></li>
-      <li><a href="/netbenefit/About+Us/Careers+at+NetBenefit">
+      <li><a href="/netbenefit/about-us/careers-netbenefit">
 	Careers at NetBenefit</a></li>
-      <li><a href="/netbenefit/About+Us/Newsletter+sign+up">
+      <li><a href="/netbenefit/about-us/newsletter-sign-up">
 	Newsletter sign up</a></li>
+      <li><a href="/netbenefit/about-us/location">
+	How to find us</a></li>
     </ul>
 	</li>
-
-
-
 	<li class="seven">
-		<a id="root" href="/netbenefit/My+NetBenefit" burb="200 - 169">My NetBenefit</a>
+		<a id="root" href="/netbenefit/my-netbenefit" burb="200 - 169">My NetBenefit</a>
                 <ul id="subnavMY">
                        <li><div class="paneltop">
 		         <br>
@@ -293,16 +239,13 @@
 			<div class="left">Username:</div>
 			<div class="right"><input name="login_username" type="text" size="10"></div>
 			<div class="left">Password:</div>
-			<div class="right"><input name="login_password" type="password" size="10"></div>
-			
+			<div class="right"><input name="login_password" type="password" size="10"></div>			
 			<div class="leftpwd"><a id="forgotpwd" href="https://estore.netbenefit.com/login/enblogin.cfm">Forgot password?</a></div>
-			<div class="right"><img src="/digitalAssets/8655_NBT-lock.jpg" alt="Secure" title="Secure"></div>
-                        
+			<div class="right"><img src="/digitalAssets/12759_NBT-lock.jpg" alt="Secure" title="Secure"></div>                        
                         <input type="hidden" name="COID" value="">
                         <input type="hidden" name="ExtraPwd" value="">
                         <input type="hidden" name="fuseaction" value="Login">
-                        <input type="hidden" name="dest" value="account">
-			
+                        <input type="hidden" name="dest" value="account">			
 			<div class="buttons">
 <script type="text/javascript">
 function fillMyAccountValues(frm)
@@ -311,39 +254,62 @@ function fillMyAccountValues(frm)
   frm.ExtraPwd.value = frm.login_password.value;
 }
 </script>
-				<input style="margin-bottom:2px;" type="image" src="/digitalAssets/8653_NBT-my-account-button.jpg" alt="My Account" title="My Account" onclick="form1.action='https://estore.netbenefit.com/login/enblogin.cfm'; fillMyAccountValues(form1); return;">
-				<input type="image" src="/digitalAssets/8654_NBT-control-panel-button.jpg" alt="Control Panel" title="Control Panel" onclick="form1.action='https://control.netbenefit.com/control/domain/summary'; return;">
+				<input style="margin-bottom:2px;" type="image" src="/digitalAssets/12757_NBT-my-account-button.jpg" alt="My Account" title="My Account" onclick="form1.action='https://estore.netbenefit.com/login/enblogin.cfm'; fillMyAccountValues(form1); return;">
+				<input type="image" src="/digitalAssets/12758_NBT-control-panel-button.jpg" alt="Control Panel" title="Control Panel" onclick="form1.action='https://control.netbenefit.com/control/domain/summary'; return;">
 			</div>
                         </form>
 			
 		</div></li></ul>
 	</li>
-
-	<li class="eight">
-		<a id="root" href="/netbenefit/Get+a+Quote" burb="200 - 170">Get a quote</a>
+	<li class="three">
+		<a id="root" href="/netbenefit/Support" burb="200 - 124">Support</a>
+		  <ul class="subnav">
+      <li><a href="/netbenefit/Support/control-panel">
+	About Control Panel</a></li>
+      <li><a href="/netbenefit/Support/my-account">
+	About My Account</a></li>
+      <li><a href="/netbenefit/Support/account-management">
+	Account management</a></li>
+      <li><a href="/netbenefit/Support/useful-information">
+	Useful information</a></li>
+      <li><a href="/netbenefit/Support/netbenefit-support">
+	About NetBenefit support</a></li>
+    </ul>
 	</li>
+	<!--<li class="eight">
+		<a id='root' href='/netbenefit/get-quote'                                      burb='200 - 170'
+>Get a quote</a>
+	</li>-->
 </ul>
 </div>
 
 		
-		<div id="navbelow">
-<a href="/netbenefit/Call_Back" style="float:left; margin-top:-6px; margin-right:10px;"><img src="/digitalAssets/6909_5145_icon-callus.jpg" alt="Call me back" title="Call me back"></a>
-<a href="mailto:hosting@netbenefit.com" style="float:left; margin-top:-6px; margin-right:10px;" onclick="logOCSale('isconv=1|itemcount=1|itemvalue=0.00|m1=Form: Email enquiries')"><img src="/digitalAssets/5147_icon-emailus.jpg" alt="Email us" title="Email us"></a>
-<a rel="nofollow" onclick="javascript:pageTracker._trackPageview('/outgoing/email');" href="mailto:hosting@netbenefit.com" style="float:left; margin-top:-6px; margin-right:10px;"><img src="/digitalAssets/7094_request-a-quote.jpg" alt="Request a quote" title="Request a quote"></a>
-			<!--<div id="language">
 
-				<b>Select language:</b>
-				<a href="/netbenefit/Privacy+Policy?languageId=1"><img src="/digitalAssets/8652_flag-uk.gif" alt="UK" /></a>
-				<a href="/netbenefit/Privacy+Policy?languageId=4"><img src="/digitalAssets/8651_flag-french.gif" alt="French" /></a>
 
-			</div>-->
+<div id="navbelow">
 
-			
-			
-			<b><span>sales:</span> 0800 328 7477 | <a rel="nofollow" onclick="javascript:pageTracker._trackPageview('/outgoing/email');" href="mailto:hosting@netbenefit.com">Contact Us</a></b>
+<a href="/netbenefit/Call_Back" style="float: left; margin-top: -6px; margin-right: 10px;" rel="nofollow">
+	<img src="/digitalAssets/6909_5145_icon-callus.jpg" alt="Call me back" title="Call me back">
+</a>
+<a href="mailto:hosting@netbenefit.com" style="float:left; margin-top: -6px; margin-right: 10px;" onclick="javascript:pageTracker._trackPageview('/Outgoing/NavBar/Email-Us');" rel="nofollow">
+	<img src="/digitalAssets/5147_icon-emailus.jpg" alt="Email us" title="Email us">
+</a>
+<a rel="nofollow" onclick="javascript:pageTracker._trackPageview('/Outgoing/NavBar/Request-a-Quote');" href="http://www.netbenefit.com/netbenefit/get-quote" style="float: left; margin-top: -6px; margin-right: 10px;">
+	<img src="/digitalAssets/7094_request-a-quote.jpg" alt="Request a quote" title="Request a quote">
+</a>
 
-			
-		</div>
+ <!--<div id="language">
+	<b>Select language:</b>
+	<a href="/netbenefit/?languageId=1"><img src="/digitalAssets/8652_flag-uk.gif" alt="UK" /></a>
+	<a href="/netbenefit/?languageId=4"><img src="/digitalAssets/8651_flag-french.gif" alt="French" /></a>
+</div>-->
+
+<b>
+<span>sales:</span> 0800 328 7477 | 
+<span>support:</span> 0845 600 3128 | 
+<a rel="nofollow" onclick="javascript:pageTracker._trackPageview('/Outgoing/NavBar/Contact-Us');" href="/netbenefit/contact-us">Contact Us</a>
+</b>
+</div>
 	
 	</div>
 
@@ -364,20 +330,25 @@ function fillMyAccountValues(frm)
                 
 
 		<div class="panel" id="livechat">
-			<div>
-				<h2><a href="javascript:openPopUpWindow('http://CONTMAIL01.netbenefit.com/netagent/cimlogin.aspx?questid=C287FEB6-F0D3-48F3-81BC-5243113D59C5&amp;portid=74434BEE-6383-44F3-9A79-90BE6B4B49D3','livechat','500','400','yes');" onclick="rwAddTag('talknowtext','rw.oc=Live Chat,Talk Now,,1');">Live Chat</a></h2>
-				<p><b>Click here for live chat with<br>a managed hosting 
 
-consultant</b></p>
+<div>
+	<p class="title">
+		<a href="javascript:openPopUpWindow('http://CONTMAIL01.netbenefit.com/netagent/cimlogin.aspx?questid=C287FEB6-F0D3-48F3-81BC-5243113D59C5&amp;portid=74434BEE-6383-44F3-9A79-90BE6B4B49D3','livechat','500','400','yes');" onclick="rwAddTag('talknowtext','rw.oc=Live Chat,Talk Now,,1'); javascript:pageTracker._trackPageview('/Outgoing/Live-Chat');">Live Chat</a>
+	</p>
+  	<p><b>Click here for live chat with<br>a managed hosting consultant</b></p>
+	<a href="javascript:openPopUpWindow('http://CONTMAIL01.netbenefit.com/netagent/cimlogin.aspx?questid=C287FEB6-F0D3-48F3-81BC-5243113D59C5&amp;portid=74434BEE-6383-44F3-9A79-90BE6B4B49D3','livechat','500','400','yes');" onclick="rwAddTag('talknowbtn','rw.oc=Live Chat,Talk Now,,1');">
+		<img src="/digitalAssets/12730_1679_btn-talknow.gif" alt="Talk now" title="Talk now">
+	</a>
+	<a href="/netbenefit/Call_Back" onclick="rwAddTag('callbackbtn','rw.oc=Live Chat,Callback,,1');">
+		<img src="/digitalAssets/12731_1666_btn-callmeback.gif" alt="Call me back" title="Call me back">
+	</a>
+</div>
 
-				<a href="javascript:openPopUpWindow('http://CONTMAIL01.netbenefit.com/netagent/cimlogin.aspx?questid=C287FEB6-F0D3-48F3-81BC-5243113D59C5&amp;portid=74434BEE-6383-44F3-9A79-90BE6B4B49D3','livechat','500','400','yes');" onclick="rwAddTag('talknowbtn','rw.oc=Live Chat,Talk Now,,1');"><img src="/digitalAssets/1679_btn-talknow.gif" alt="Talk now" title="Talk now"></a>
-				<a href="/netbenefit/Call_Back" onclick="rwAddTag('callbackbtn','rw.oc=Live Chat,Callback,,1');"><img src="/digitalAssets/1666_btn-callmeback.gif" alt="Call me back" title="Call me back"></a>
-			</div>
 		</div>
 		<div class="panel" id="newsletter">
 			<div>
-				<a href="/netbenefit/About+Us/Newsletter+sign+up"><img src="/digitalAssets/1676_btn-signup.gif" alt="Sign up" title="Sign up"></a>
-				<h2><a href="/netbenefit/About+Us/Newsletter+sign+up">Newsletter</a></h2>
+				<a href="/netbenefit/about-us/newsletter-sign-up"><img src="/digitalAssets/12729_1676_btn-signup.gif" alt="Sign up" title="Sign up"></a>
+				<p class="title"><a href="/netbenefit/about-us/newsletter-sign-up">Newsletter</a></p>
 
 			</div>
 		</div>
@@ -388,17 +359,17 @@ consultant</b></p>
 
 		<div class="panel" id="news">
 			<div>
-				<h2><a href="/netbenefit/About+Us/Press+room">Latest news</a></h2>
+				<p class="title"><a style="color: #FF7800;" href="/netbenefit/about-us/press-room">Latest Web Hosting News</a></p>
 			<p>
-				<a href="/netbenefit/About+Us/Press+room/2009/Social+media+poll">
-                                       <b>Poll reveals marketers race to adopt social media</b>
+				<a href="/netbenefit/about-us/press-room/2009/Alpha-Micro">
+                                       <b>NetBenefit drives reliability for Alpha Micro vehicle tracking system</b>
                                 </a>
 
 				<br>		
 			</p>
 			<p>
-				<a href="/netbenefit/About+Us/Press+room/2009/hosting+mashup*">
-                                       <b>NetBenefit and mashup* events drive the business digital revolution forward</b>
+				<a href="/netbenefit/about-us/press-room/2009/Microsoft%2BBizSpark">
+                                       <b>NetBenefit offers start-ups free software, support and visibility through Microsoft's BizSpark programme</b>
                                 </a>
 
 				<br>		
@@ -406,10 +377,20 @@ consultant</b></p>
 			</div>
 		</div>
 
+					
+<div style="margin-bottom: 5px;">
+    <a href="/netbenefit/Managed-Hosting/Dedicated-Servers/Microsoft-WebsiteSpark" title="Microsoft WebsiteSpark - Sign Up Today!"><img src="/digitalAssets/12751_sign-up-panel.gif" alt="Request a quote"></a>
+</div>
+
+		
+
 	</div>
-	
+
+
+					
 	<div id="mainright">
-	
+
+                	
 		
 <h1>Privacy Page</h1>
 <ol>
@@ -508,28 +489,54 @@ consultant</b></p>
     <li>You can access and rectify your Personal Data by logging into your account or by contacting us using the details provided on our website. </li>
     <li>For information about your rights under UK data protection laws, see the website of the <a target="_blank" href="http://www.dataprotection.gov.uk">UK Data Protection Commissioner</a></li>
 </ol>
-						<a href="/netbenefit/Get+a+Quote"><img src="DownloadAsset.action?contentId=1465&amp;languageId=1&amp;assetKey=GeneralImage" alt="Get a Quote" title="Get a Quote">
+						<a href="/netbenefit/get-quote" rel="nofollow"><img src="DownloadAsset.action?contentId=1465&amp;languageId=1&amp;assetKey=GeneralImage" alt="Get a Quote" title="Get a Quote"></a>
 
-			</a></div><a href="/netbenefit/Get+a+Quote">
+			</div>
 	
 	<div id="bottomclear">&nbsp;</div>
 
-</a></div><a href="/netbenefit/Get+a+Quote">
-<img src="/digitalAssets/8510_NBT-bottom-shadow.jpg" class="wrappershadow" alt="NetBenefit" title="NetBenefit">
+       <div class="footer-logos">
+            <img src="/digitalAssets/12745_microsoft-logo.gif" alt="Microsoft Gold Certified Partner">
+            <img src="/digitalAssets/12742_dell-logo.gif" alt="Dell">
+            <img src="/digitalAssets/12743_fortinet-logo.gif" alt="Fortinet">
+            <img src="/digitalAssets/12746_parallels-logo.gif" alt="Parallels Silver Partner">
+            <img src="/digitalAssets/12749_vmware-logo.gif" alt="vmware">
+            <img src="/digitalAssets/12747_redhat-logo.gif" alt="redhat">
+            <img src="/digitalAssets/12744_icann-logo.gif" alt="ICANN">
+            <img src="/digitalAssets/12748_verisign-logo.gif" alt="veriSign Partner Gold">
+       </div>
 
-</a><div id="footer"><a href="/netbenefit/Get+a+Quote">
-	<span></span></a><a href="/netbenefit/Terms_and_conditions">Website Terms and Conditions</a> | <a href="/netbenefit/General_Terms_and_Conditions">General Terms and Conditions</a> | <a href="/netbenefit/Sitemap">Sitemap</a> | <a href="/netbenefit/Acceptable_use_policy">Acceptable Use Policy</a> | <a href="/netbenefit/Privacy+Policy">Privacy Policy</a> | <a href="/netbenefit/About+Us/Newsletter+sign+up" rel="nofollow">Newsletter sign up</a><br>
+</div>
+<img src="/digitalAssets/12735_NBT-bottom-shadow.jpg" class="wrappershadow" alt="NetBenefit" title="NetBenefit">
+
+<div id="footer">
+	<span><a href="/netbenefit/terms-conditions" rel="nofollow">Website Terms and Conditions</a> | <a href="/netbenefit/general-terms-conditions" rel="nofollow">General Terms and Conditions</a> | <a href="/netbenefit/Sitemap">Sitemap</a> | <a href="/netbenefit/acceptable-use-policy" rel="nofollow">Acceptable Use Policy</a> | <a href="/netbenefit/privacy-policy" rel="nofollow">Privacy Policy</a> | <a href="/netbenefit/about-us/newsletter-sign-up" rel="nofollow">Newsletter sign up</a> | <a rel="nofollow" onclick="javascript:pageTracker._trackPageview('/Outgoing/NavBar/Contact-Us');" href="/netbenefit/contact-us">Contact Us</a></span><br>
 
 	<span style="float:right;"><a target="_blank" href="http://www.creative-jar.com">Website design by Creative Jar  </a></span> © Copyright NetBenefit Limited - part of Group NBT plc<br>
 NetBenefit® is a registered trademark of NetBenefit Limited - part of Group NBT plc
 </div>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-2742309-1";
-urchinTracker();
 
-</script>
+//<![CDATA[
+
+var site = "http://www.netbenefit.com";
+
+document.write('<img src="'+window.location.protocol+'//trk.enecto.com/track?cust_id=8a8484e61f3e6119011f464615bb33de&purl='+escape(site + window.location.pathname)+'&ref='+escape(document.referrer)+ '&tm=' + new Date().getTime() +'" height="1" width="1" alt="">');
+
+//]]>
+
+</script><img src="https://trk.enecto.com/track?cust_id=8a8484e61f3e6119011f464615bb33de&amp;purl=http%3A//www.netbenefit.com/web/20100616053253id_/http%253A//www.netbenefit.com/netbenefit/privacy-policy&amp;ref=&amp;tm=1580418570694" height="1" width="1" alt="">
+
+
+
+
+
+
+
+
+
+
 
 
 
