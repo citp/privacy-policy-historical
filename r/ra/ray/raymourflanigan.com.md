@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616190946id_/http%3A//www.raymourflanigan.com/catalog/pop_up-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616232011id_/http%3A//www.raymourflanigan.com/catalog/pop_up-privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Raymour & Flanigan Furniture is committed to protecting your personal information. As a reminder, Raymour & Flanigan does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of Raymour & Flanigan, DO NOT RESPOND! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Raymour & Flanigan's privacy practices, contact [privacy@raymourflanigan.com](mailto:%20privacy@raymourflanigan.com) or call toll free - 1.866.383.4484.
+Raymour and Flanigan Furniture is committed to protecting your personal information. As a reminder, Raymour and Flanigan does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of Raymour and Flanigan, DO NOT RESPOND! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Raymour and Flanigan's privacy practices, contact [privacy@raymourflanigan.com](mailto:%20privacy@raymourflanigan.com) or call toll free - 1.866.383.4484.
 
 ## Our Privacy Pledge
 
-If you're not quite comfortable shopping online, or would prefer to make your purchase via telephone, just give us a call at 1-866-383-4484. Our Customer Service representatives are standing by and will be happy to take your raymourflanigan.com order right over the phone. 
+If you're not quite comfortable shopping online, or would prefer to make your purchase via telephone, just give us a call at 1-866-383-4484. Our Customer Care representatives are standing by and will be happy to take your raymourflanigan.com order right over the phone. 
 
 ## Safety of your information
 
-Raymour & Flanigan® Furniture respects and shares your concern about privacy. Our goal is to be your furniture retailer of choice based on a relationship of mutual trust. We take great care in safeguarding your personal information and in complying with all applicable federal and state privacy laws and our own internal standards and best practices. 
+Raymour and Flanigan® Furniture respects and shares your concern about privacy. Our goal is to be your furniture retailer of choice based on a relationship of mutual trust. We take great care in safeguarding your personal information and in complying with all applicable federal and state privacy laws and our own internal standards and best practices. 
 
 We believe you have a right to know what information we collect and how we use it. The following Privacy Policy describes the information and privacy practices for raymourflanigan.com. This Privacy Policy only applies to information collected online. When you provide us your personal information, you consent to the information practices described in this policy.
 
@@ -45,7 +45,7 @@ Information we collect on raymourflanigan.com may be used to enhance your shoppi
 
 We never **_sell or rent_** your personal information to any third parties under any circumstances.
 
-We will share personal customer information only with our agents, representatives, service providers, and contractors for limited purposes, including fulfilling customer orders; offering certain products and services in connection with raymourflanigan.com; communicating to customers; providing customer service; enhancing and improving customers' shopping experience; enabling access to our partners' web sites; providing a personalized shopping experience; preventing fraud; and completing payment method processing.
+We will share personal customer information only with our agents, representatives, service providers, and contractors for limited purposes, including fulfilling customer orders; offering certain products and services in connection with raymourflanigan.com; communicating to customers; providing customer care; enhancing and improving customers' shopping experience; enabling access to our partners' web sites; providing a personalized shopping experience; preventing fraud; and completing payment method processing.
 
 Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury (such as product recalls, fraud, claims or other liability) or to comply with valid legal processes (subpoenas, warrants) or as required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person. 
 
@@ -57,22 +57,22 @@ SSL is the gold standard in Internet encryption technology. It is a highly sophi
 
 To make sure you are accessing our secure server before you submit personal and financial information, look at the lower right-hand corner of your browser. If you see an unbroken key or a closed lock icon (depending upon your browser), then SSL is active. To double-check for security, look at the URL or web address line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https."
 
-Some browser versions and some firewalls don't permit communication through secure servers like the ones we use to process orders at raymourflanigan.com. If for any reason you cannot access the secure server, please feel free to place your order with us by phone toll free at 1.866.383.4484. Our Customer Service representatives will be happy to assist you.
+Some browser versions and some firewalls don't permit communication through secure servers like the ones we use to process orders at raymourflanigan.com. If for any reason you cannot access the secure server, please feel free to place your order with us by phone toll free at 1.866.383.4484. Our Customer Care representatives will be happy to assist you.
 
 ## Accessing and Updating Your Information
 
 You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [Sign In]() section of the site and then clicking on "Edit Your Account." 
 
-As a customer or subscriber you will occasionally receive e-mail communications about new Raymour & Flanigan products, special offers we think you'll like and requests for feedback. Raymour & Flanigan is an opt-out organization. You always have the ability to opt-in or opt-out of receiving future marketing communications from Raymour & Flanigan.
+As a customer or subscriber you will occasionally receive e-mail communications about new Raymour and Flanigan products, special offers we think you'll like and requests for feedback. Raymour and Flanigan is an opt-out organization. You always have the ability to opt-in or opt-out of receiving future marketing communications from Raymour and Flanigan.
 
-To opt-out of or opt-in to receiving marketing communications from Raymour & Flanigan, please take one of the following actions: 
+To opt-out of or opt-in to receiving marketing communications from Raymour and Flanigan, please take one of the following actions: 
 
-  1. Follow the directions on a marketing e-mail or direct mail marketing communication from us. All marketing communications from Raymour & Flanigan will tell you how to stop receiving them.
+  1. Follow the directions on a marketing e-mail or direct mail marketing communication from us. All marketing communications from Raymour and Flanigan will tell you how to stop receiving them.
   2. Call toll free (1.866.383.4484) and provide your current contact information.
   3. Send an e-mail with your current contact information to: [privacy@raymourflanigan.com](mailto:%20privacy@raymourflanigan.com)
   4. Or, send a request with your current contact information to:
 
-Raymour & Flanigan  
+Raymour and Flanigan  
 Attn: eCommerce Manager  
 P.O. Box 220  
 Liverpool, NY 13088
@@ -80,7 +80,7 @@ Liverpool, NY 13088
 
 If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address and indicate specifically what type of marketing communication(s) (e.g., e-mail, direct mail and/or phone) you wish to receive or stop receiving. This will ensure we identify you correctly in our systems and accurately process your request. 
 
-Raymour & Flanigan will take appropriate steps to implement your request to opt-out of or opt-in to receiving marketing communications. Please note that due to production, mailing and system timelines, in order to remove you from our marketing lists, it may take up to: 
+Raymour and Flanigan will take appropriate steps to implement your request to opt-out of or opt-in to receiving marketing communications. Please note that due to production, mailing and system timelines, in order to remove you from our marketing lists, it may take up to: 
 
   1. 10 Business days for e-mails
   2. 6 weeks for direct mail
