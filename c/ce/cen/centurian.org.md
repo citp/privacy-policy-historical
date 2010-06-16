@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centurian.org privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529091548id_/http%3A//www.centurian.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurian.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616183801id_/http%3A//www.centurian.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Centurian.org | Proxy List | Centurian Proxy Network
 
