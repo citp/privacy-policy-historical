@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bcbsal.org privacy policy that was archived on 2006-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061005181908id_/https%3A//www.bcbsal.org/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bcbsal.org privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616203230id_/https%3A//www.bcbsal.org/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/base.dwt.cfm" codeOutsideHTMLIsLocked="true" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -29,7 +29,6 @@
 
 
 
-
 <script language="JavaScript" src="/js/global.js"></script>
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable --><!-- InstanceParam name="crumbs" type="boolean" value="true" -->
 </head>
@@ -45,21 +44,28 @@
   <li><a tabindex="1" href="/contact/index.cfm">Contact Us</a></li>
 	<li><a tabindex="1" href="/help.cfm">Help</a></li>
 </ul>
-<form id="Search" name="Search" method="get" action="/verity/results.aspx">
-  <input id="Page" name="Page" type="hidden" value="1">
-  <input tabindex="1" id="Query" name="Query" type="text">
-	<input tabindex="1" class="search" id="Submit" name="Submit" type="image" src="/newImages/searchButton.gif" alt="Search">
+
+
+	
+
+<form id="Search" name="Search" method="get" action="/gsa/searchCustomers.cfm">
+  <input type="text" name="q" value="" size="15">
+  <input type="hidden" name="site" value="bcbsal_customers">
+  <input type="hidden" name="output" value="xml_no_dtd"> 
+  <input type="hidden" name="client" value="bcbsal_customers_frontend">
+  <input type="hidden" name="proxystylesheet" value="bcbsal_customers_frontend">
+	<input class="search" id="Submit" name="Submit" type="image" src="/newImages/searchButton.gif" alt="Search">
 </form>
 </div><!-- header -->
 
 <div id="primaryNav">
 <ul>
 	<li><a tabindex="1" class="first " href="/index.cfm">Home</a></li>
-  <li><a tabindex="1" href="https://www.bcbsal.org/webapps/customeraccess/Dispatch?application=org.bcbsal.inet.customermgmt.CustomerAppListApplication">CustomerAccess</a></li>
-  <li><a tabindex="1" href="/plans/index.cfm">Plans &amp; Services</a></li>
+  <li><a tabindex="1" href="/webapps/customeraccess/Dispatch?application=org.bcbsal.inet.customermgmt.CustomerAppListApplication"><em>my</em>BlueCross</a></li>
+  <li><a tabindex="1" href="/plans/index.cfm">Health Plans</a></li>
   <li><a tabindex="1" href="/health/index.cfm">Health &amp; Wellness</a></li>
   <li><a tabindex="1" href="/pharmacy/index.cfm">Pharmacy</a></li>
-  <li><a tabindex="1" href="/doctor/index.cfm">Find a Doctor</a></li>
+  <li><a tabindex="1" href="/webapps/providerfinderplus/Dispatch?application=org.bcbsal.providerfinderplus.ProviderFinderPlusApplication">Find a Doctor</a></li>
 </ul>
 </div> <!-- primaryNav -->
 <div class="spacer"></div>
@@ -122,10 +128,28 @@ Privacy Statement</p>
 	<li><a href="/privacy.cfm">Privacy Statement</a></li>
 	<li><a href="/legal.cfm">Legal Disclaimer</a></li>	
 </ul>
-<p id="copy">© 2006, Blue Cross and Blue Shield of Alabama is
+<p id="copy">© 2010, Blue Cross and Blue Shield of Alabama is
 an Independent Licensee of the Blue Cross and Blue Shield Association.</p>
 </div> <!-- footer -->
 </div> <!-- bodywrapper -->
+<script type="text/javascript">
+	window.CT_X_ScreenResolution = window.screen.availWidth + 'x' + window.screen.availHeight;
+	window.CT_X_Browser = navigator.userAgent;
+</script>
+<script language="javascript" type="text/javascript"><!--
+document.write('<s'
+	+ 'cript language="javascript" src="'
+	+ document.location.protocol
+	+ '//'
+	+ 'ct.bcbsal.org'
+	+ '/cgi-bin/ctasp-server.cgi'
+	+ '?i=bcbsal'
+	+ '&fp=1'
+	+ '&c='+escape(document.cookie)
+	+ '"></'
+	+ 'script>');
+	//-->
+</script><script language="javascript" src="https://ct.bcbsal.org/cgi-bin/ctasp-server.cgi?i=bcbsal&amp;fp=1&amp;c="></script>
 
 
 <!-- InstanceEnd -->
