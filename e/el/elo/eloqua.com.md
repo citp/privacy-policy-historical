@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112095350id_/http%3A//www.eloqua.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616135727id_/http%3A//www.eloqua.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy - Email Marketing Automation | Demand Generation | Eloqua
-
-## Eloqua believes strongly that every person has the right to privacy.
+# Privacy - Marketing Automation | Demand Generation | Eloqua
 
 Effective Date: 19 May 2009
 
@@ -36,7 +34,7 @@ Eloqua feels that if visitors would like a private online experience then they a
 
 **TRUSTe   
 **Eloqua is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world.  Eloqua is committed to protecting your privacy. In this regard, Eloqua has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.  
-If you have questions or concerns regarding this statement, you should first contact us at [privacy@eloqua.com](mailto:privacy@eloqua.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with Eloqua to address your concerns.
+If you have questions or concerns regarding this statement, you should first contact us at [privacy@eloqua.com](mailto:privacy@eloqua.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url). TRUSTe will then serve as a liaison with Eloqua to address your concerns.
 
 **Cookies**  
 Eloqua employs cookies in order for its server to recognize a return visitor as a unique user. Cookies are small text files placed in the 'Cookies' folder on a visitor's hard disk and allow Eloqua to remember the visitor. The cookies placed by the Eloqua server are readable only by Eloqua, and cookies cannot access, read or modify any other data on a computer. All web-browsers offer the option to refuse any cookie.  If a visitor refuses the Eloqua cookie, Eloqua does not gather any information on that visitor, but doing so will require you to re-enter certain information at each visit, or prevent us from customizing the site's features according to your preferences. You may also delete a cookie manually from your hard drive. Cookies themselves do not contain any personal information. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
@@ -66,7 +64,7 @@ For more information please see their Privacy Policy <http://www.addthis.com/pri
 
   * When an end user registers with our service, we collect personal, demographic and preference information, email address and other personally identifiable information. We do not share personally identifiable information with third-parties (with limited exceptions like a court order).
   * We use flash "cookies" to get an accurate count of unique users. No personal information is collected.
-  * We use collected data to operate the sharing services. For example, an end user will provide us email addresses in order to "send to friend". We do not store or use those email addresses for any other purpose.
+  * We use collected data to operate the sharing services. For example, an end user will provide us email addresses in order to "send to friend". We will automatically send the friend a one-time email inviting them to visit the site. Eloqua does NOT store this information for the sole purpose of sending this one-time email [and tracking the success of our referral program].
   * We use collected data for internal purposes to track usage patterns, unique users, total views, and other similar metrics. We also use collected data to diagnose problems or issues with our servers or third party services.
 
 
