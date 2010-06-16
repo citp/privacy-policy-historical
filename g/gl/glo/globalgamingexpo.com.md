@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201012938id_/http%3A//www.globalgamingexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgamingexpo.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616115521id_/http%3A//www.globalgamingexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Gaming Expo - G2E
 
@@ -8,11 +8,11 @@ Reed Exhibitions and Global Gaming Expo respect the information provided by our 
 
 ## US Policy
 
-Global Gaming Expo is produced and managed by Reed Exhibitions United States (Reed-US), a division of Reed Elsevier, Inc. This privacy policy applies to all Reed-US offices and conforms to the spirit of the Reed Exhibitions Corporate Privacy Policy, which can be found at [www.reedexpo.com](http://www.reedexpo.com/).
+Global Gaming Expo is produced and managed by Reed Exhibitions (RX-US), a division of Reed Elsevier, Inc. This privacy policy applies to all RX-US offices and conforms to the spirit of the Reed Exhibitions Corporate Privacy Policy, which can be found at [www.reedexpo.com](http://www.reedexpo.com/).
 
 ## Our Customers
 
-This policy applies to all customers of Global Gaming Expo and Reed-US, who include but are not limited to, our show exhibitors, show visitors, conference visitors, customer inquiries, speakers, press, and other individuals with whom Reed-US maintains business relationships or communications.
+This policy applies to all customers of Global Gaming Expo and RX-US, who include but are not limited to, our show exhibitors, show visitors, conference visitors, customer inquiries, speakers, press, and other individuals with whom RX-US maintains business relationships or communications.
 
 ## Customer Information and Use
 
@@ -20,11 +20,11 @@ Two primary types of information are gathered about our customers:
 
 Financial Information is payment information used for or gathered during the registration process and includes, but is not limited to, credit card numbers, financial institutions, and expiration dates. This information is not used for any purpose other than that for which it is being provided to us, and is used only to the extent necessary for processing the transaction or to facilitate future transactions.
 
-Professional Information includes, but is not limited to, name, address, company name, company address, phone number, fax number, and email address, as well as questions answered on survey or registration forms. Data captured during a customer’s visit to the Global Gaming Expo web site, as well as during a visit with a Global Gaming Expo customer is also considered professional information and may also be stored in our customer database for our internal use. Professional information may be, upon the consent of Global Gaming Expo, shared with other organizations or Global Gaming Expo customers for the purpose of facilitating business relationships believed by Reed-US to be in our customers’ best interests.
+Professional Information includes, but is not limited to, name, address, company name, company address, phone number, fax number, and email address, as well as questions answered on survey or registration forms. Data captured during a customer’s visit to the Global Gaming Expo web site, as well as during a visit with a Global Gaming Expo customer is also considered professional information and may also be stored in our customer database for our internal use. Professional information may be, upon the consent of Global Gaming Expo, shared with other organizations or Global Gaming Expo customers for the purpose of facilitating business relationships believed by RX-US to be in our customers’ best interests.
 
 ## Opting Out
 
-Reed-US will accept, implement and maintain any customer request to opt out of future communication from Global Gaming Expo, Reed-US, or a third party to whom Global Gaming Expo provided the customer’s information. If you would like to opt out of communications you are receiving from Global Gaming Expo, Reed-US, or a third party contacting you on behalf of Global Gaming Expo, please click here and enter the information requested so we may thoroughly implement your request within 10 days of receipt.
+RX-US will accept, implement and maintain any customer request to opt out of future communication from Global Gaming Expo, RX-US, or a third party to whom Global Gaming Expo provided the customer’s information. If you would like to opt out of communications you are receiving from Global Gaming Expo, RX-US, or a third party contacting you on behalf of Global Gaming Expo, please click here and enter the information requested so we may thoroughly implement your request within 10 days of receipt.
 
 ## Security
 
@@ -42,7 +42,7 @@ If you do not want your browser to accept cookies, you can turn off the cookie a
 
 ## Policy Changes
 
-Reed-US reserves the right to review and change this Policy. Policy changes may be made without prior notice to existing customers. Policy revisions only apply to information gathered as of the effective date of the revised policy, unless we give you notice and choice as to the changes in use, in which case all information is subject to the new policy.
+RX-US reserves the right to review and change this Policy. Policy changes may be made without prior notice to existing customers. Policy revisions only apply to information gathered as of the effective date of the revised policy, unless we give you notice and choice as to the changes in use, in which case all information is subject to the new policy.
 
 ## Review and Correction of Customer Information or Other Questions
 
