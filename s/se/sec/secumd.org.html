@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the secumd.org privacy policy that was archived on 2009-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090418193841id_/http%3A//www.secumd.org/html/secu/lower.htm%3Fpage%3Dsecurity.privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the secumd.org privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616203615id_/https%3A//www.secumd.org/html/secu/lower.htm%3Fpage%3Dsecurity.privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
@@ -7,7 +7,8 @@
 <meta name="keywords" content="SECU, Credit Union, Maryland, Bank, State Employees Credit Union, Banking Services, CDs, Certificate of Deposit, IRAs, Loans, Money Market, Home Banking, Online Banking, Investing, Savings, Financial Services, Retirement Planning, Buying A Home, Getting Married, Buying A Car">
 <meta name="description" content="Take advantage of membership in SECU, Maryland's largest state-chartered credit union! We offer online loan approval, free checking, online banking and bill pay, and much more.">
 <link href="../../stylesheets/secu.css" rel="stylesheet" media="screen">
-
+<link href="../../stylesheets/app.css" rel="stylesheet" media="screen">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 
 
@@ -22,21 +23,23 @@
 <script language="JavaScript">
 <!--  
 	function popNewOnlineBanking() {
-		window.open("https://www.secumdhb.org/onlineserv/HB/popuplogin.html", "OnlineBankingLogin",
+		window.open("https://online.secumd.org", "OnlineBankingLogin",
 		"width=276,height=170,resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,directories=no,location=no,status=no,left=20,top=20");
+		/*window.open("https://www.secumdhb.org/onlineserv/HB/popuplogin.html", "OnlineBankingLogin",
+		"width=276,height=170,resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,directories=no,location=no,status=no,left=20,top=20");*/
     }
 	function emailThisPage(pageURL) {
 		var popURL = 'popup.htm?page=popups.emailthispage&sendURL=' + pageURL ;
 		window.open(popURL, "EmailThisPage", "width=450,height=450,resizable=no,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no,left=20,top=20");
-	}	
+	}
 	function popDisclosures() {
 		var popURL = '../apps/custodial_account_popup.cfm' ;
 		window.open(popURL, "SECUdisclosure", "width=650,height=615,resizable=no,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no,left=0,top=0") ;	
-	}	
+	}
 	function popDisclaimer(sct,pg) {
 		var popURL = '../framesets/disclaimer.cfm?s='+sct+'&p='+pg ;
 		window.open(popURL, "SECUdisclaimer", "width=300,height=350,resizable=no,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no,left=0,top=0") ;	
-	}		
+	}				
 	// this code allows for a survey popup, if one exists
 	
 //-->
@@ -70,13 +73,17 @@
 		</td>
 		
 		<td width="226" valign="top" style="display: table-cell; height: 33px;">
-			<div id="utility_search_area">
-			<form action="lower.htm?page=sitemap.search_results" method="post" name="searchsite" style="display: inline; ">
-				<div class="left"><img src="../../images/toputility/search.gif" width="68"></div>
-				<div class="left"><input type="text" name="searchtext" id="utility_search"></div>
-				<div class="left"><input type="image" src="../../images/toputility/go.gif" width="25" height="18" style="margin:5px 0px 0px;"></div>
-			</form>
-			</div> 
+
+<div id="utility_search_area">
+  <form action="lower.htm" method="get" name="searchsite" style="display: inline; ">
+  <input type="hidden" name="page" value="sitemap.search_results">
+  <div class="left"><img src="../../images/toputility/search.gif" width="68"></div>
+  <div class="left"><input type="text" name="searchtext" id="utility_search"></div>
+  <div class="left"><input type="image" src="../../images/toputility/go.gif" width="25" height="18" style="margin:5px 0px 0px;"></div>
+  </form>
+</div> 
+
+
 		</td>
 	
 		
@@ -118,9 +125,9 @@
 
 		<tbody><tr><td align="center">
 				<div id="dhtmltooltip"></div>
-				<div id="foolproof-link"><a href="http://www.foolproofonline.info/cu/interface/MD/secumd.htm" target="_blank" onmouseover="ddrivetip('Clicking here will take you to the Foolproof website.')" onmouseout="hideddrivetip()"><span>Foolproof Website</span></a></div>								
+				<div id="foolproof-link"><a href="http://www.foolproofonline.info/cu/interface/MD/secumd.htm" target="_blank" onmouseover="ddrivetip('Clicking here will take you to the Foolproof website.')" onmouseout="hideddrivetip()"><span>Foolproof Website</span></a></div>				
 				<div id="youth-banking-link"><a href="http://youngadult.secumd.org" target="_blank" onmouseover="ddrivetip('Clicking here will take you to the Young Adult website.')" onmouseout="hideddrivetip()"><span>The Buck Starts Here</span></a></div>
-				<script src="/includes/javascripts/DHTMLtooltip.js" type="text/javascript"></script>
+				<script src="/includes/javascripts/DHTMLtooltip.js" type="text/javascript"></script> 
 				<input type="hidden" id="showFlyout" value="1">
 				<div id="enable" style="display:;">
 				<a href="javascript:handleFlyout();" id="flyoutTask" class="disable_flyout_menu" onmouseover="ddrivetip('You can turn the flyout menu ON or OFF at any time by clicking this button.');" ;="" onmouseout="hideddrivetip();"><span id="flyoutMenuDescription">Disable</span> Flyout Menu</a>
@@ -128,8 +135,8 @@
 			</td>
 		</tr>
 
-		<tr><td class="financialtip" style="padding:10px;"><b>SECU Financial Tip:</b><br>
-				Identity theft happens when someone uses your personal information without your permission to commit fraud or other crimes. While you can't completely control whether you will become a victim, there are steps you can take to reduce your risk ...<a href="http://www.secumd.org/html/secu/lower.htm?page=security.how_i_protect">learn more</a>
+		<tr><td class="financialtip" style="padding:10px; "><b>SECU Financial Tip:</b><br>
+				Can I re-order my SECU checks online? Of course! ...<a href="https://www.secumd.org/html/secu/lower.htm?page=apps.check_order" target="_blank">learn more</a>
 			</td></tr>
 		</tbody></table>
 		<table width="175" border="0" cellspacing="0" cellpadding="0">
@@ -191,18 +198,18 @@
 <p><strong>SECU Member's Right to Privacy and Confidentiality</strong></p>
 <strong></strong>
 <p>
-<table bordercolor="#808080" cellspacing="0" cellpadding="5" width="325" align="right" bgcolor="#fff2bf" border="1">
+<table width="325" cellspacing="0" cellpadding="5" bordercolor="#808080" border="1" bgcolor="#fff2bf" align="right">
     <tbody>
         <tr>
             <td>
             <p><font size="2"><em>Jump down to<br>
             </em><a href="#collects">Categories of information SECU collects about you</a><br>
-            <a class="" href="#discloses">Categories of information&nbsp;SECU discloses about you</a><br>
+            <a href="#discloses" class="">Categories of information&nbsp;SECU discloses about you</a><br>
             <a href="#opting">Opting out of promotional mailings<br>
             How SECU protects your information</a><br>
-            <a class="" href="#email">E-mail communication between members and SECU</a><br>
-            <a class="" href="#links">Third-party links</a><br>
-            <a class="" href="#amend">SECU's right to amend</a></font></p>
+            <a href="#email" class="">E-mail communication between members and SECU</a><br>
+            <a href="#links" class="">Third-party links</a><br>
+            <a href="#amend" class="">SECU's right to amend</a></font></p>
             </td>
         </tr>
     </tbody>
@@ -210,12 +217,12 @@
 </p>
 <p><strong>&nbsp;</strong>SECU is owned by its members and run by a Board of Directors you elect. You can be confident that your financial privacy is a top priority of this Credit Union. We are required by law to give you this privacy notice to explain how we collect, use and safeguard your personal financial information. If you have any questions, please contact a Member Services Representative at SECU, 971 Corporate Blvd., Linthicum, MD 21090-2337, 4l0-487-7328.</p>
 <p>
-<table bordercolor="#000080" cellspacing="0" cellpadding="10" width="250" align="right" bgcolor="#ffffff" border="1">
+<table width="250" cellspacing="0" cellpadding="10" bordercolor="#000080" border="1" bgcolor="#ffffff" align="right">
     <tbody>
         <tr>
             <td><font color="#631313">
-            <p><font color="#000080" size="2"><strong>SECU Credit Union never requests sensitive account information through unsolicited e-mail to members.</strong></font></p>
-            <p><font color="#000000" size="2">If you receive an <strong>unsolicited</strong> e-mail claiming to be from SECU or any other group requesting that you provide your account numbers, Social Security number, personal identification numbers (PINs), passwords, or other confidential information, do not divulge any information, do not click on any links, and report the suspected fraudulent e-mail to the Internet Fraud Complaint Center at </font><a class="" target="new" href="http://www.ifccfbi.gov/index.asp"><font size="2">www.ifccfbi.gov/index.asp</font></a><font size="2">.</font></p>
+            <p><font size="2" color="#000080"><strong>SECU Credit Union never requests sensitive account information through unsolicited e-mail to members.</strong></font></p>
+            <p><font size="2" color="#000000">If you receive an <strong>unsolicited</strong> e-mail claiming to be from SECU or any other group requesting that you provide your account numbers, Social Security number, personal identification numbers (PINs), passwords, or other confidential information, do not divulge any information, do not click on any links, and report the suspected fraudulent e-mail to the Internet Fraud Complaint Center at </font><a href="http://www.ic3.gov/" target="_blank"><font size="2">www.ic3.gov/</font></a><font size="2">.</font></p>
             </font></td>
         </tr>
     </tbody>
@@ -244,10 +251,6 @@ At SECU, we respect your right to privacy and confidentiality. Safeguarding your
 <p><a name="amend"></a><strong>SECU's Right to Amend</strong></p>
 <p>SECU reserves the right to amend this disclosure at any time without prior notice. This disclosure amends existing agreements that the Credit Union has with you.</p></td></tr></tbody></table> <br clear="all">
 		  
-			
-		
-		
-
 
 
 
@@ -260,7 +263,7 @@ At SECU, we respect your right to privacy and confidentiality. Safeguarding your
 		<tr><td align="right">
 				<table border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr><td><a href="#"><img src="../../images/lower/icon_email_this_page.gif" alt="click to Email This Page" height="16" width="22" border="0"></a></td>
-					<td class="financialtip"><a href="javascript:emailThisPage('1B111705484A7C3234225D1606160708376B2C27144A0B011F097C362636064A0F1A0500216B2B211E5A131415006E36263606170A010B4B23372A2312061A2A020A3F2C202C');"><b>Email This Page</b></a></td>
+					<td class="financialtip"><a href="javascript:emailThisPage('1B111705015F7C6A3422044B101011103E216D3A01024C1D06083F6A303010104C191D1236376D3D07085C051302367830301010111C061C7D35313C0504000C2D153C292A360A');"><b>Email This Page</b></a></td>
 					
 					
 					
@@ -269,6 +272,107 @@ At SECU, we respect your right to privacy and confidentiality. Safeguarding your
 					<td class="newHomeUtilities"><a href="#top">Back to Top of Page</a></td>
 				</tr>
 				</tbody></table>
+                
+
+
+<script language="javascript" src="/includes/javascripts/AjaxRequest.js"></script>
+
+<div class="formerror" id="emailFriendSuccess" style="display:none; margin-bottom:6px; width:100%;">
+	SUCCESS! This page has been sent to your friend. 
+</div>
+
+<table class="borderedtable" border="0" cellspacing="0" cellpadding="0" width="340" id="emailFriendTable" style="display:none;">
+<form method="post" id="fmEmailFriend"></form>
+<input type="hidden" name="thisURL" id="thisURL" value="https://www.secumd.org/html/secu/lower.htm?page=security.privacy_policy">
+<tbody><tr valign="top">
+	<td class="subhead" bgcolor="#e1e7f3" colspan="2">
+		Email This Page To a Friend</td></tr>
+<tr><td class="bodytext" align="right" bgcolor="#fff2bf"><b>Your Name:</b></td>
+	<td class="bodytext">
+		<input type="text" name="yourName" id="yourName" size="24" maxlength="40">
+	</td></tr>
+<tr><td class="bodytext" align="right" bgcolor="#fff2bf"><b>Your Email:</b></td>
+	<td class="bodytext">
+		<input type="text" name="yourEmail" id="yourEmail" size="24" maxlength="40">
+	</td></tr>
+<tr><td class="bodytext" align="right" bgcolor="#fff2bf"><b>Friend's Email:</b></td>
+	<td class="bodytext">
+		<input type="text" name="friendEmail" id="friendEmail" size="24" maxlength="40">
+	</td></tr>
+<tr><td class="bodytext" align="right" bgcolor="#fff2bf">&nbsp;</td>
+	<td class="bodytext">
+
+<div class="formerror" id="emailFriendErr" style="display:none; margin-bottom:6px; width:100%;">
+	SORRY! Please complete all fields, use properly-formatted email addresses, and try again. 
+</div>
+    	<input class="button" id="emailPageBtn" type="button" value="Send Page">
+    </td></tr>
+
+</tbody></table><br>
+
+<script type="text/javascript" src="/includes/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="/includes/jquery.validate.js"></script>
+<script type="text/javascript">
+$(function() {
+/*$(".submit").click(function() {*/
+$("#emailPageBtn").click(function() {
+
+// turn off error message
+$('#emailFriendErr').hide();
+
+var yourName = $("#yourName").val();
+var yourNameOK = 1;
+if (yourName == '') { yourNameOK == 0; }
+
+var yourEmail = $("#yourEmail").val();
+var yourEmailOK = 1;
+if (isValidEmailAddress(yourEmail) == false) { yourEmailOK = 0; }
+
+var friendEmail = $("#friendEmail").val();
+var friendEmailOK = 1;
+if (isValidEmailAddress(friendEmail) == false) { friendEmailOK = 0; }
+
+var thisURL = $("#thisURL").val();
+var dataString = 'yourname='+ yourName + '&youremail=' + yourEmail + '&friendEmail=' + friendEmail + '&thisURL=' + thisURL;
+
+if(yourNameOK==0 || yourEmailOK==0 || friendEmailOK==0 || thisURL=='') {
+	$('#emailFriendErr').show();
+} else {
+	$.ajax({
+	type: "POST",
+	url: "/includes/lower/email-to-friend.cfm",
+	data: dataString,
+	success: function(){
+		$('#emailFriendSuccess').show();
+		$('#emailFriendTable').hide();
+		clearEmailForm();
+	}
+});
+}
+return false;
+});
+});
+
+function isValidEmailAddress(emailAddress) {
+	var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+	return pattern.test(emailAddress);
+}
+
+function emailThisPage() {
+	$('#emailFriendSuccess').hide();
+	$('#emailFriendTable').show();
+}
+
+function clearEmailForm() {
+	document.getElementById('yourName').value = "";
+	document.getElementById('yourEmail').value = "";
+	document.getElementById('friendEmail').value = "";
+}
+
+</script>
+
+
+                
 			</td></tr>
 		</tbody></table>
 
@@ -297,18 +401,15 @@ At SECU, we respect your right to privacy and confidentiality. Safeguarding your
 
 
 
-
 				
-					<table width="170" border="0" cellspacing="0" cellpadding="0">
+                    <table width="170" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr><td class="financialtip" align="center"><b>&gt;</b></td>
 						<td><table width="100%" border="0" cellspacing="0" cellpadding="6">
-							
 							<tbody><tr><td class="financialtip"><a href="https://online.secumd.org" target="_blank"><b>Sign In Here</b></a></td></tr>    
-							</tbody></table>
+    						</tbody></table>
 						</td></tr>
 					</tbody></table>
 				
-
 			</td></tr>
 		</tbody></table>
 
@@ -355,17 +456,9 @@ At SECU, we respect your right to privacy and confidentiality. Safeguarding your
 		<tr valign="top"><td class="inthissectionsmall" colspan="4">&nbsp;</td></tr>
 		</tbody></table>
 	</td></tr>
-</tbody></table>
-
+</tbody></table> 
 		<img src="../../images/lower/top_calc_2.gif" alt="" height="19" width="223" border="0">
 	
-
-
-
-
-
-
-
 
 
 
@@ -378,6 +471,7 @@ At SECU, we respect your right to privacy and confidentiality. Safeguarding your
 		<tr>
 			<td align="center">
 				
+
 				
 			</td></tr>
 		<tr><td><img src="../../images/lower/spacer.gif" alt="" height="28" width="28" border="0"></td></tr>
@@ -436,14 +530,14 @@ At SECU, we respect your right to privacy and confidentiality. Safeguarding your
 <script src="/webtrends/wtinit.js" type="text/javascript"></script>
 <script src="/webtrends/wtbase.js" type="text/javascript"></script>
 <noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsh55ken00000cpzlgayn0xl_5h2u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="https://statse.webtrendslive.com/dcsh55ken00000cpzlgayn0xl_5h2u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
 </noscript>
 <!-- END OF SmartSource Data Collector TAG -->	
 
 
 
 
-<div id="bbML2" style="background-image: url(&quot;../../images/index/navigation_background.gif&quot;); position: absolute; z-index: 2000; top: 116px; left: 216px; visibility: visible; width: 175px; height: 305px;">
+<div id="bbML2" style="background-image: url(&quot;../../images/index/navigation_background.gif&quot;); position: absolute; z-index: 2000; top: 116px; left: 216px; visibility: visible; width: 175px; height: 333px;">
 	<bb:menu height="305" width="175" i="1" v="1.5">
 		<script type="text/javascript"><!--
 bbL=bbMenu.length;bbMenu[bbL]=new _bbroot(bbL,"bbML2",0,0,0,0,0,0,1,15,4,"","","",0,0,400,"menuGraphic","#003399",1,1,"Arial, Helvetica, Geneva, Swiss, Sans-serif",12,0,0,"left",5,5,0.45,0.67,0,"#003399",0,0,"Arial, Helvetica, Geneva, Swiss, Sans-serif",12,1,0,"left",14,5,0,0,0,/*URL*/"../../GeneratedItems/spacer.gif",0,0,5,5);
@@ -451,6 +545,7 @@ bbL=bbMenu.length;bbMenu[bbL]=new _bbroot(bbL,"bbML2",0,0,0,0,0,0,1,15,4,"","","
 bbMenu[bbL].bM("m334vcqc","","Loans",175,28,/*URL*/"../secu/lower.htm?page=loans.index","","","#ffcc33","white","navy","#00997f","","","","",0);
 bbMenu[bbL].bM("m334vcqi","","Credit Cards",175,28,/*URL*/"../secu/lower.htm?page=credit.index","","","#ffcc33","white","navy","#00997f","","","","",0);
 bbMenu[bbL].bM("m334vcqu","","Checking & Savings",175,28,/*URL*/"../secu/lower.htm?page=checking.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m10m2vnz","","Online Banking",175,28,/*URL*/"../secu/lower.htm?page=online_banking.index","","","#ffcc33","white","navy","#00997f","","","","",0); 
 bbMenu[bbL].bM("m334vcrk","","Insurance",175,28,/*URL*/"../secu/lower.htm?page=insurance.affordable","","","#ffcc33","white","navy","#00997f","","","","",0);
 bbMenu[bbL].bM("m334vcry","","Business Services",175,28,/*URL*/"../secu/lower.htm?page=business.index","","","#ffcc33","white","navy","#00997f","","","","",0);
 bbMenu[bbL].bM("m334vcs2","","Rates & Calculators",175,28,/*URL*/"../secu/lower.htm?page=ratescalc.index","","","#ffcc33","white","navy","#00997f","","","","",0);
@@ -468,28 +563,30 @@ bbMenu[bbL].buildLayers();
 </div>
 <div id="bbML2m334vcqu" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:56px;"><div id="bbML2m334vcqun" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Checking &amp; Savings</div><div id="bbML2m334vcque" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbML2m334vcrk" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:84px;"><div id="bbML2m334vcrkn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Insurance</div><div id="bbML2m334vcrke" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbML2m10m2vnz" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:84px;"><div id="bbML2m10m2vnzn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Online Banking</div><div id="bbML2m10m2vnze" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbML2m334vcry" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:112px;"><div id="bbML2m334vcryn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Business Services</div><div id="bbML2m334vcrye" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbML2m334vcrk" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:112px;"><div id="bbML2m334vcrkn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Insurance</div><div id="bbML2m334vcrke" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbML2m334vcs2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:140px;"><div id="bbML2m334vcs2n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Rates &amp; Calculators</div><div id="bbML2m334vcs2e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbML2m334vcry" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:140px;"><div id="bbML2m334vcryn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Business Services</div><div id="bbML2m334vcrye" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbML2m334vcsi" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:168px;"><div id="bbML2m334vcsin" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">News &amp; Resources</div><div id="bbML2m334vcsie" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbML2m334vcs2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:168px;"><div id="bbML2m334vcs2n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Rates &amp; Calculators</div><div id="bbML2m334vcs2e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbML2m45wdxu2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:196px;"><div id="bbML2m45wdxu2n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Branches &amp; ATMs</div><div id="bbML2m45wdxu2e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbML2m334vcsi" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:196px;"><div id="bbML2m334vcsin" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">News &amp; Resources</div><div id="bbML2m334vcsie" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbML2m45wdxuk" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:224px;"><div id="bbML2m45wdxukn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Applications &amp; Forms</div><div id="bbML2m45wdxuke" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbML2m45wdxu2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:224px;"><div id="bbML2m45wdxu2n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Branches &amp; ATMs</div><div id="bbML2m45wdxu2e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbML2m4jxuuhf" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:252px;"><div id="bbML2m4jxuuhfn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Education Center</div><div id="bbML2m4jxuuhfe" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbML2m45wdxuk" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:252px;"><div id="bbML2m45wdxukn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Applications &amp; Forms</div><div id="bbML2m45wdxuke" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbML2m2jxfpr7" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:25px;left:0px;top:280px;"><div id="bbML2m2jxfpr7n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:#cc0000;left:0px;top:0px;width:175px;height:25px;"><img name="bbML2m2jxfpr7i" id="bbML2m2jxfpr7i" src="/images/index/nav_your_security.gif" width="175" height="25" alt="Your Security &amp; Privacy" title="Your Security &amp; Privacy"></div><div id="bbML2m2jxfpr7e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:25px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbML2m4jxuuhf" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:280px;"><div id="bbML2m4jxuuhfn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Education Center</div><div id="bbML2m4jxuuhfe" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbML2m2jxfpr7" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:25px;left:0px;top:308px;"><div id="bbML2m2jxfpr7n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:#cc0000;left:0px;top:0px;width:175px;height:25px;"><img name="bbML2m2jxfpr7i" id="bbML2m2jxfpr7i" src="/images/index/nav_your_security.gif" width="175" height="25" alt="Your Security &amp; Privacy" title="Your Security &amp; Privacy"></div><div id="bbML2m2jxfpr7e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:25px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 </bb:menu></div>
 
 	
 
 
-<div id="bbML" style="background-image: url(&quot;../../images/index/navigation_background.gif&quot;); position: absolute; z-index: 2000; top: 116px; left: 216px; visibility: visible; width: 175px; height: 305px;">
+<div id="bbML" style="background-image: url(&quot;../../images/index/navigation_background.gif&quot;); position: absolute; z-index: 2000; top: 116px; left: 216px; visibility: visible; width: 175px; height: 333px;">
 	<bb:menu height="305" width="175" i="1" v="1.5">
 		<script type="text/javascript"><!--
 bbL=bbMenu.length;bbMenu[bbL]=new _bbroot(bbL,"bbML",0,0,0,0,0,0,1,15,4,"","","",0,0,400,"menuGraphic","#003399",1,1,"Arial, Helvetica, Geneva, Swiss, Sans-serif",12,0,0,"left",5,5,0.45,0.67,0,"#003399",0,0,"Arial, Helvetica, Geneva, Swiss, Sans-serif",12,1,0,"left",14,5,0,0,0,/*URL*/"../../GeneratedItems/spacer.gif",0,0,5,5);
@@ -506,7 +603,7 @@ bbMenu[bbL].bM("m47feali","m45wdxu4","First Time Home Buyer",175,24,/*URL*/"../s
 bbMenu[bbL].bM("m47fealk","m45wdxu4","Refinancing a Home",175,24,/*URL*/"../secu/lower.htm?page=loans.mortgage_refinancing","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m47feall","m45wdxu4","Buying a Home",175,24,/*URL*/"../secu/lower.htm?page=loans.mortgage_buying","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m45wdxu5","m334vcqc","Student Loan",175,24,/*URL*/"../secu/lower.htm?page=loans.student","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("m45wdxu6","m334vcqc","Student Loan Consolidation",175,24,/*URL*/"../secu/lower.htm?page=loans.student_consolidation","","","#e1e7f3","white","navy","#00997f","","","","",1);
+//bbMenu[bbL].bM("m45wdxu6","m334vcqc","Student Loan Consolidation",175,24,/*URL*/"../secu/lower.htm?page=loans.student_consolidation","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m45wdxu7","m334vcqc","Unsecured Preferred Line of Credit",175,36,/*URL*/"../secu/lower.htm?page=loans.preferred_line","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m45wdxuf","m334vcqc","Unsecured Signature Loan",175,24,/*URL*/"../secu/lower.htm?page=loans.signature_loan","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m2usz36y","m334vcqc","Managing Your Credit >",175,24,/*URL*/"../secu/lower.htm?page=loans.managing_credit","","","#e1e7f3","white","navy","#00997f","","","","",1);
@@ -515,11 +612,12 @@ bbMenu[bbL].bM("m45wdxuh","m2usz36y","Credit Report Counseling",175,24,/*URL*/".
 bbMenu[bbL].bM("m45wdxui","m2usz36y","Direct Loan Payment",175,24,/*URL*/"../secu/lower.htm?page=loans.direct_payment","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m45wdxuj","m2usz36y","Payment Protection Insurance",175,24,/*URL*/"../secu/lower.htm?page=loans.payment_protection","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m334vcqi","","Credit Cards",175,28,/*URL*/"../secu/lower.htm?page=credit.index","","","#ffcc33","white","navy","#00997f","","","","",0);
+bbMenu[bbL].bM("m45wdxu9a","m334vcqi","Sign Up for Visa",175,24,/*URL*/"../secu/lower.htm?page=credit.visa_sign_up","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m45wdxu9","m334vcqi","Platinum Visa",175,24,/*URL*/"../secu/lower.htm?page=credit.platinum_visa","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m45wdxua","m334vcqi","ScoreCard Rewards Visa",175,24,/*URL*/"../secu/lower.htm?page=credit.scorecard_visa","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m45wdxub","m334vcqi","Student",175,24,/*URL*/"../secu/lower.htm?page=credit.student_visa","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m45wdxuc","m334vcqi","Share-Secured",175,24,/*URL*/"../secu/lower.htm?page=credit.share_secured_visa","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("m45wdxud","m334vcqi","Card Comparison",175,24,/*URL*/"../secu/lower.htm?page=credit.card_comparison","","","#e1e7f3","white","navy","#00997f","","","","",1);
+bbMenu[bbL].bM("m45wdxud","m334vcqi","Why Choose a SECU Visa?",175,24,/*URL*/"../secu/lower.htm?page=credit.card_comparison","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m334vcqu","","Checking & Savings",175,28,/*URL*/"../secu/lower.htm?page=checking.index","","","#ffcc33","white","navy","#00997f","","","","",0);
 bbMenu[bbL].bM("m334vcqj","m334vcqu","Relationship Rewards Checking >",175,36,/*URL*/"../secu/lower.htm?page=checking.relationship_rewards","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("mjct4ga","m334vcqj","Premier Interest Checking",175,24,/*URL*/"../secu/lower.htm?page=checking.premier","","","#e1e7f3","white","navy","#00997f","","","","",1);
@@ -538,19 +636,21 @@ bbMenu[bbL].bM("m10m2vnx","m334vcqu","Convenient Account Access >",175,24,/*URL*
 bbMenu[bbL].bM("mjct4gm","m10m2vnx","ATM Card",175,24,/*URL*/"../secu/lower.htm?page=checking.atm_card","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("mjct4gm1","m10m2vnx","Bill Pay Set-up Instructions",175,24,/*URL*/"../secu/lower.htm?page=checking.bill_pay_setup","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("mjct4gn","m10m2vnx","Check Card",175,24,/*URL*/"../secu/lower.htm?page=checking.check_card","","","#e1e7f3","white","navy","#00997f","","","","",1);
-bbMenu[bbL].bM("mjct4go","m10m2vnx","Online Banking",175,24,/*URL*/"../secu/lower.htm?page=checking.online_banking","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("mjct4gp","m10m2vnx","Direct Deposit",175,24,/*URL*/"../secu/lower.htm?page=checking.direct_deposit","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("mjct4gq","m10m2vnx","Expressline Telephone Account Access",175,36,/*URL*/"../secu/lower.htm?page=checking.expressline","","","#e1e7f3","white","navy","#00997f","","","","",1);
-
 bbMenu[bbL].bM("mjct4gs","m10m2vnx","Wire Transfer",175,24,/*URL*/"../secu/lower.htm?page=checking.wire_transfer","","","#e1e7f3","white","navy","#00997f","","","","",1);
+bbMenu[bbL].bM("m10m2vnz","","Online Banking",175,28,/*URL*/"../secu/lower.htm?page=online_banking.index","","","#ffcc33","white","navy","#00997f","","","","",0); 
+bbMenu[bbL].bM("mjct4gm2","m10m2vnz","Bill Pay",175,24,/*URL*/"../secu/lower.htm?page=online_banking.bill_pay","","","#e1e7f3","white","navy","#00997f","","","","",1);
+bbMenu[bbL].bM("mjct4gm3","m10m2vnz","Online Statements",175,24,/*URL*/"../secu/lower.htm?page=online_banking.online_statements","","","#e1e7f3","white","navy","#00997f","","","","",1);
+bbMenu[bbL].bM("mjct4gm4","m10m2vnz","Mobile Banking",175,24,/*URL*/"../secu/lower.htm?page=online_banking.mobile_banking","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m334vcrk","","Insurance",175,28,/*URL*/"../secu/lower.htm?page=insurance.index","","","#ffcc33","white","navy","#00997f","","","","",0);
 bbMenu[bbL].bM("m47hr0pz","m334vcrk","Accidental Death and Dismemberment",175,36,/*URL*/"../secu/lower.htm?page=insurance.accidental_death","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m47hr0q0","m334vcrk","Automobile and Homeowners",175,24,/*URL*/"../secu/lower.htm?page=insurance.auto_homeowners","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m47hr0q1","m334vcrk","Whole Life, Disability and Critical Illness",175,36,/*URL*/"../secu/lower.htm?page=insurance.whole_life","","","#e1e7f3","white","navy","#00997f","","","","",1);
-
 bbMenu[bbL].bM("m47hr0q3","m334vcrk","Vehicle Mechanical<br>Breakdown",175,36,/*URL*/"../secu/lower.htm?page=insurance.vehicle_mechanical","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m334vcry","","Business Services",175,28,/*URL*/"../secu/lower.htm?page=business.index","","","#ffcc33","white","navy","#00997f","","","","",0);
-bbMenu[bbL].bM("m2jxfpr8","m334vcry","Business Checking",175,24,/*URL*/"../secu/lower.htm?page=business.checking","","","#e1e7f3","white","navy","#00997f","","","","",1);
+bbMenu[bbL].bM("m2jxfpr8","m334vcry","Business Checking >",175,24,/*URL*/"../secu/lower.htm?page=business.checking","","","#e1e7f3","white","navy","#00997f","","","","",1);
+bbMenu[bbL].bM("m2jxfpr8a","m2jxfpr8","Remote Deposit Capture",175,24,/*URL*/"../secu/lower.htm?page=business.remote-deposit","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m2jxfpr9","m334vcry","Business Savings",175,24,/*URL*/"../secu/lower.htm?page=business.savings","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m2jxfpra","m334vcry","Business Lending",175,24,/*URL*/"../secu/lower.htm?page=business.lending","","","#e1e7f3","white","navy","#00997f","","","","",1);
 bbMenu[bbL].bM("m47hr0q4","m334vcry","Paychex&reg; Services",175,24,/*URL*/"../secu/lower.htm?page=business.paychex","","","#e1e7f3","white","navy","#00997f","","","","",1);
@@ -636,15 +736,13 @@ bbMenu[bbL].buildLayers();
 </div>
 <div id="bbMLm45wdxu5" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:175px;background-color:#003399"><div id="bbMLm45wdxu5n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Student Loan</div><div id="bbMLm45wdxu5e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm45wdxu6" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:200px;background-color:#003399"><div id="bbMLm45wdxu6n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Student Loan Consolidation</div><div id="bbMLm45wdxu6e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm45wdxu7" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:38px;left:0px;top:200px;background-color:#003399"><div id="bbMLm45wdxu7n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:31px;overflow:hidden;padding-left:5px;padding-top:5px">Unsecured Preferred Line of Credit</div><div id="bbMLm45wdxu7e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:38px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm45wdxu7" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:38px;left:0px;top:225px;background-color:#003399"><div id="bbMLm45wdxu7n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:31px;overflow:hidden;padding-left:5px;padding-top:5px">Unsecured Preferred Line of Credit</div><div id="bbMLm45wdxu7e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:38px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm45wdxuf" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:237px;background-color:#003399"><div id="bbMLm45wdxufn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Unsecured Signature Loan</div><div id="bbMLm45wdxufe" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm45wdxuf" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:262px;background-color:#003399"><div id="bbMLm45wdxufn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Unsecured Signature Loan</div><div id="bbMLm45wdxufe" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm2usz36y" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:262px;background-color:#003399"><div id="bbMLm2usz36yn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Managing Your Credit &gt;</div><div id="bbMLm2usz36ye" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm2usz36y" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:287px;background-color:#003399"><div id="bbMLm2usz36yn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Managing Your Credit &gt;</div><div id="bbMLm2usz36ye" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
-</div>
-<div id="bbMLm2usz36yx2" style="left: 97px; top: 304px; z-index: 4000; position: absolute; visibility: hidden;">
+<div id="bbMLm2usz36yx2" style="left: 97px; top: 279px; z-index: 4000; position: absolute; visibility: hidden;">
 <div id="bbMLm45wdxug" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm45wdxugn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Credit Report Review</div><div id="bbMLm45wdxuge" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 <div id="bbMLm45wdxuh" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:25px;background-color:#003399"><div id="bbMLm45wdxuhn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Credit Report Counseling</div><div id="bbMLm45wdxuhe" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
@@ -658,15 +756,17 @@ bbMenu[bbL].buildLayers();
 <div id="bbMLm334vcqi" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:28px;"><div id="bbMLm334vcqin" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Credit Cards</div><div id="bbMLm334vcqie" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 <div id="bbMLm334vcqix1" style="left: 97px; top: 47px; z-index: 3000; position: absolute; visibility: hidden;">
-<div id="bbMLm45wdxu9" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm45wdxu9n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Platinum Visa</div><div id="bbMLm45wdxu9e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm45wdxu9a" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm45wdxu9an" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Sign Up for Visa</div><div id="bbMLm45wdxu9ae" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm45wdxua" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:25px;background-color:#003399"><div id="bbMLm45wdxuan" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">ScoreCard Rewards Visa</div><div id="bbMLm45wdxuae" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm45wdxu9" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:25px;background-color:#003399"><div id="bbMLm45wdxu9n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Platinum Visa</div><div id="bbMLm45wdxu9e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm45wdxub" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:50px;background-color:#003399"><div id="bbMLm45wdxubn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Student</div><div id="bbMLm45wdxube" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm45wdxua" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:50px;background-color:#003399"><div id="bbMLm45wdxuan" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">ScoreCard Rewards Visa</div><div id="bbMLm45wdxuae" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm45wdxuc" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:75px;background-color:#003399"><div id="bbMLm45wdxucn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Share-Secured</div><div id="bbMLm45wdxuce" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm45wdxub" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:75px;background-color:#003399"><div id="bbMLm45wdxubn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Student</div><div id="bbMLm45wdxube" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm45wdxud" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:100px;background-color:#003399"><div id="bbMLm45wdxudn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Card Comparison</div><div id="bbMLm45wdxude" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm45wdxuc" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:100px;background-color:#003399"><div id="bbMLm45wdxucn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Share-Secured</div><div id="bbMLm45wdxuce" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbMLm45wdxud" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:125px;background-color:#003399"><div id="bbMLm45wdxudn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Why Choose a SECU Visa?</div><div id="bbMLm45wdxude" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 </div>
 <div id="bbMLm334vcqu" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:56px;"><div id="bbMLm334vcqun" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Checking &amp; Savings</div><div id="bbMLm334vcque" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
@@ -711,19 +811,27 @@ bbMenu[bbL].buildLayers();
 </div>
 <div id="bbMLmjct4gn" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:50px;background-color:#003399"><div id="bbMLmjct4gnn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Check Card</div><div id="bbMLmjct4gne" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLmjct4go" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:75px;background-color:#003399"><div id="bbMLmjct4gon" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Online Banking</div><div id="bbMLmjct4goe" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLmjct4gp" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:75px;background-color:#003399"><div id="bbMLmjct4gpn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Direct Deposit</div><div id="bbMLmjct4gpe" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLmjct4gp" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:100px;background-color:#003399"><div id="bbMLmjct4gpn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Direct Deposit</div><div id="bbMLmjct4gpe" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLmjct4gq" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:38px;left:0px;top:100px;background-color:#003399"><div id="bbMLmjct4gqn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:31px;overflow:hidden;padding-left:5px;padding-top:5px">Expressline Telephone Account Access</div><div id="bbMLmjct4gqe" style="display:block;cursor:pointer;cursor:hand;width:177px;height:38px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLmjct4gq" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:38px;left:0px;top:125px;background-color:#003399"><div id="bbMLmjct4gqn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:31px;overflow:hidden;padding-left:5px;padding-top:5px">Expressline Telephone Account Access</div><div id="bbMLmjct4gqe" style="display:block;cursor:pointer;cursor:hand;width:177px;height:38px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
-</div>
-<div id="bbMLmjct4gs" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:162px;background-color:#003399"><div id="bbMLmjct4gsn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Wire Transfer</div><div id="bbMLmjct4gse" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLmjct4gs" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:137px;background-color:#003399"><div id="bbMLmjct4gsn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Wire Transfer</div><div id="bbMLmjct4gse" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 </div>
 </div>
-<div id="bbMLm334vcrk" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:84px;"><div id="bbMLm334vcrkn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Insurance</div><div id="bbMLm334vcrke" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm10m2vnz" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:84px;"><div id="bbMLm10m2vnzn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Online Banking</div><div id="bbMLm10m2vnze" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm334vcrkx1" style="left: 97px; top: 103px; z-index: 3000; position: absolute; visibility: hidden;">
+<div id="bbMLm10m2vnzx1" style="left: 97px; top: 103px; z-index: 3000; position: absolute; visibility: hidden;">
+<div id="bbMLmjct4gm2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLmjct4gm2n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Bill Pay</div><div id="bbMLmjct4gm2e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbMLmjct4gm3" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:25px;background-color:#003399"><div id="bbMLmjct4gm3n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Online Statements</div><div id="bbMLmjct4gm3e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbMLmjct4gm4" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:50px;background-color:#003399"><div id="bbMLmjct4gm4n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Mobile Banking</div><div id="bbMLmjct4gm4e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+</div>
+<div id="bbMLm334vcrk" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:112px;"><div id="bbMLm334vcrkn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Insurance</div><div id="bbMLm334vcrke" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbMLm334vcrkx1" style="left: 97px; top: 131px; z-index: 3000; position: absolute; visibility: hidden;">
 <div id="bbMLm47hr0pz" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:38px;left:0px;top:0px;background-color:#003399"><div id="bbMLm47hr0pzn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:31px;overflow:hidden;padding-left:5px;padding-top:5px">Accidental Death and Dismemberment</div><div id="bbMLm47hr0pze" style="display:block;cursor:pointer;cursor:hand;width:177px;height:38px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 <div id="bbMLm47hr0q0" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:37px;background-color:#003399"><div id="bbMLm47hr0q0n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Automobile and Homeowners</div><div id="bbMLm47hr0q0e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
@@ -733,10 +841,14 @@ bbMenu[bbL].buildLayers();
 <div id="bbMLm47hr0q3" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:38px;left:0px;top:99px;background-color:#003399"><div id="bbMLm47hr0q3n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:31px;overflow:hidden;padding-left:5px;padding-top:5px">Vehicle Mechanical<br>Breakdown</div><div id="bbMLm47hr0q3e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:38px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 </div>
-<div id="bbMLm334vcry" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:112px;"><div id="bbMLm334vcryn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Business Services</div><div id="bbMLm334vcrye" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm334vcry" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:140px;"><div id="bbMLm334vcryn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Business Services</div><div id="bbMLm334vcrye" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm334vcryx1" style="left: 97px; top: 131px; z-index: 3000; position: absolute; visibility: hidden;">
-<div id="bbMLm2jxfpr8" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm2jxfpr8n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Business Checking</div><div id="bbMLm2jxfpr8e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm334vcryx1" style="left: 97px; top: 159px; z-index: 3000; position: absolute; visibility: hidden;">
+<div id="bbMLm2jxfpr8" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm2jxfpr8n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Business Checking &gt;</div><div id="bbMLm2jxfpr8e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
+<div id="bbMLm2jxfpr8x2" style="left: 97px; top: 17px; z-index: 4000; position: absolute; visibility: hidden;">
+<div id="bbMLm2jxfpr8a" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm2jxfpr8an" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Remote Deposit Capture</div><div id="bbMLm2jxfpr8ae" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+</div>
 </div>
 <div id="bbMLm2jxfpr9" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:25px;background-color:#003399"><div id="bbMLm2jxfpr9n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Business Savings</div><div id="bbMLm2jxfpr9e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
@@ -745,9 +857,9 @@ bbMenu[bbL].buildLayers();
 <div id="bbMLm47hr0q4" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:75px;background-color:#003399"><div id="bbMLm47hr0q4n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Paychex® Services</div><div id="bbMLm47hr0q4e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 </div>
-<div id="bbMLm334vcs2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:140px;"><div id="bbMLm334vcs2n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Rates &amp; Calculators</div><div id="bbMLm334vcs2e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm334vcs2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:168px;"><div id="bbMLm334vcs2n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Rates &amp; Calculators</div><div id="bbMLm334vcs2e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm334vcs2x1" style="left: 97px; top: 159px; z-index: 3000; position: absolute; visibility: hidden;">
+<div id="bbMLm334vcs2x1" style="left: 97px; top: 187px; z-index: 3000; position: absolute; visibility: hidden;">
 <div id="bbMLm334vcrl" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm334vcrln" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Rates &gt;</div><div id="bbMLm334vcrle" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 <div id="bbMLm334vcrlx2" style="left: 97px; top: 17px; z-index: 4000; position: absolute; visibility: hidden;">
@@ -797,9 +909,9 @@ bbMenu[bbL].buildLayers();
 </div>
 </div>
 </div>
-<div id="bbMLm334vcsi" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:168px;"><div id="bbMLm334vcsin" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">News &amp; Resources</div><div id="bbMLm334vcsie" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm334vcsi" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:196px;"><div id="bbMLm334vcsin" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">News &amp; Resources</div><div id="bbMLm334vcsie" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm334vcsix1" style="left: 97px; top: 187px; z-index: 3000; position: absolute; visibility: hidden;">
+<div id="bbMLm334vcsix1" style="left: 97px; top: 215px; z-index: 3000; position: absolute; visibility: hidden;">
 <div id="bbMLm334vcs7" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm334vcs7n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">SECU is Safe and Sound</div><div id="bbMLm334vcs7e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 <div id="bbMLm334vcs5" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:25px;background-color:#003399"><div id="bbMLm334vcs5n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">SECU in the Community</div><div id="bbMLm334vcs5e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
@@ -829,13 +941,13 @@ bbMenu[bbL].buildLayers();
 </div>
 </div>
 </div>
-<div id="bbMLm45wdxu2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:196px;"><div id="bbMLm45wdxu2n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Branches &amp; ATMs</div><div id="bbMLm45wdxu2e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm45wdxu2" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:224px;"><div id="bbMLm45wdxu2n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Branches &amp; ATMs</div><div id="bbMLm45wdxu2e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm45wdxuk" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:224px;"><div id="bbMLm45wdxukn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Applications &amp; Forms</div><div id="bbMLm45wdxuke" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm45wdxuk" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:252px;"><div id="bbMLm45wdxukn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Applications &amp; Forms</div><div id="bbMLm45wdxuke" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm4jxuuhf" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:252px;"><div id="bbMLm4jxuuhfn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Education Center</div><div id="bbMLm4jxuuhfe" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm4jxuuhf" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:28px;left:0px;top:280px;"><div id="bbMLm4jxuuhfn" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:navy;left:0px;top:0px;width:161px;height:23px;overflow:hidden;padding-left:14px;padding-top:5px">Education Center</div><div id="bbMLm4jxuuhfe" style="display:block;cursor:pointer;cursor:hand;width:175px;height:28px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm4jxuuhfx1" style="left: 97px; top: 271px; z-index: 3000; position: absolute; visibility: hidden;">
+<div id="bbMLm4jxuuhfx1" style="left: 97px; top: 299px; z-index: 3000; position: absolute; visibility: hidden;">
 <div id="bbMLm45wdxut" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm45wdxutn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Frequently Asked Questions</div><div id="bbMLm45wdxute" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 <div id="bbMLm45wdxuu" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:25px;background-color:#003399"><div id="bbMLm45wdxuun" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Financial Articles</div><div id="bbMLm45wdxuue" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
@@ -849,9 +961,9 @@ bbMenu[bbL].buildLayers();
 <div id="bbMLmuak4e1" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:137px;background-color:#003399"><div id="bbMLmuak4e1n" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Retirement Central</div><div id="bbMLmuak4e1e" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 </div>
-<div id="bbMLm2jxfpr7" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:25px;left:0px;top:280px;"><div id="bbMLm2jxfpr7n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:#cc0000;left:0px;top:0px;width:161px;height:20px;overflow:hidden;padding-left:14px;padding-top:5px">Your Security &amp; Privacy</div><div id="bbMLm2jxfpr7e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:25px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
+<div id="bbMLm2jxfpr7" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:175px;height:25px;left:0px;top:308px;"><div id="bbMLm2jxfpr7n" style="position:absolute;visibility:inherit;font-size:12px;font-weight:bold;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;color:#cc0000;left:0px;top:0px;width:161px;height:20px;overflow:hidden;padding-left:14px;padding-top:5px">Your Security &amp; Privacy</div><div id="bbMLm2jxfpr7e" style="display:block;cursor:pointer;cursor:hand;width:175px;height:25px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
-<div id="bbMLm2jxfpr7x1" style="left: 97px; top: 297px; z-index: 3000; position: absolute; visibility: hidden;">
+<div id="bbMLm2jxfpr7x1" style="left: 97px; top: 325px; z-index: 3000; position: absolute; visibility: hidden;">
 <div id="bbMLm4jxuuhg" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:26px;left:0px;top:0px;background-color:#003399"><div id="bbMLm4jxuuhgn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:19px;overflow:hidden;padding-left:5px;padding-top:5px">Fraud Alerts</div><div id="bbMLm4jxuuhge" style="display:block;cursor:pointer;cursor:hand;width:177px;height:26px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
 </div>
 <div id="bbMLm4jxuuhh" style="display:block;overflow:hidden;position:absolute;visibility:inherit;width:177px;height:38px;left:0px;top:25px;background-color:#003399"><div id="bbMLm4jxuuhhn" style="position:absolute;visibility:inherit;font-size:12px;font-family:Arial, Helvetica, Geneva, Swiss, Sans-serif;text-align:left;background-color:#e1e7f3;color:navy;left:1px;top:1px;width:170px;height:31px;overflow:hidden;padding-left:5px;padding-top:5px">Report Lost or Stolen<br>Account Info</div><div id="bbMLm4jxuuhhe" style="display:block;cursor:pointer;cursor:hand;width:177px;height:38px;left:0px;top:0px;overflow:hidden;position:absolute;visibility:inherit">&nbsp;</div>
@@ -885,7 +997,7 @@ bbMenu[bbL].buildLayers();
 			document.getElementById('showFlyout').value = 0;
 		}
 		// ajax request to store settings in db
-		submitFlyoutPreferences('8614830','33117180');
+		submitFlyoutPreferences('27006102','56894482');
 	}
 </script>
 
@@ -893,14 +1005,124 @@ bbMenu[bbL].buildLayers();
 <script type="text/javascript" src="/includes/javascripts/ajaxRequest.js"></script>
 <script type="text/javascript" src="/includes/javascripts/lt.js"></script>
 
- 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+
+
+
 <script type="text/javascript">
-	_uacct = "UA-2045111-1";
-	urchinTracker();
+var gaJsHost = "https://ssl.";
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2045111-1");
+pageTracker._trackPageview();
+var exitTracker = pageTracker._createEventTracker('Exit Points');
+} catch(err) {}
 </script>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+	// BEGIN: code that replaces external links w/ exit message 
+	this.blankwin = function(){
+		var hostname = window.location.hostname;
+		hostname = hostname.replace("www.","").toLowerCase();
+		var a = document.getElementsByTagName("a");	
+		this.check = function(obj){
+			var href = obj.href.toLowerCase();
+			return (href.indexOf("http://")!=-1 && href.indexOf(hostname)==-1) ? true : false;				
+		};
+		this.set = function(obj){
+			var href = obj.href;
+			//obj.href = "javascript:void(0)";
+			obj.onclick = function() { return ExitNotice(href)};
+			obj.target = "_blank";
+			//obj.className = obj.className + " blank";
+		};	
+		for (var i=0;i<a.length;i++){
+			if(check(a[i])) set(a[i]);
+		};		
+	};
+	
+	this.addEvent = function(obj,type,fn){
+		if(obj.attachEvent){
+			obj['e'+type+fn] = fn;
+			obj[type+fn] = function(){obj['e'+type+fn](window.event );}
+			obj.attachEvent('on'+type, obj[type+fn]);
+		} else {
+			obj.addEventListener(type,fn,false);
+		};
+	};
+	addEvent(window,"load",blankwin);
+	// END: code that replaces external links w/ exit message
+
+	function ExitNotice(link,site,ltext) {
+		if(confirm("You are now leaving the SECU website.")) {
+			var isGoogleTracking = false;
+			if (link.indexOf("foolproofonline.info") > 0) {
+				// IF external URL is for foolproofonline.info, send tracking to Google Analytics
+				//pageTracker._trackevent('FoolProof lefthand nav CTA','http://www.foolproofonline.info/cu/interface/MD/secumd.htm', 0);
+				exitTracker._trackEvent('Click','FoolProof lefthand nav CTA', 0);
+				//exitTracker._trackevent('FoolProof lefthand nav CTA','http://www.foolproofonline.info/cu/interface/MD/secumd.htm', 0);
+			}
+			return true;
+		} 
+		//history.go(0);
+		return false;
+	}
+
+	// loop through href elements on page
+/*
+	function resetExternalLinks() {
+		var doc = document.getElementsByTagName('a');
+		for (var i=0; i<doc.length; i++){
+			var linkURL = doc[i].href;
+			if (linkURL.indexOf("javascript:") == -1) {
+				var protocolIndex = linkURL.indexOf("://");
+				var serverIndex = linkURL.indexOf("/", protocolIndex + 4);
+				var urlResult = linkURL.substring(protocolIndex+3, serverIndex);
+				var secuIndex = urlResult.indexOf("secumd.org");
+				if (secuIndex < 0 && urlResult != '') {
+					var thisHREF = doc[i].href;
+//alert(thisHREF);
+					//var thisOnClick = doc[i].onclick;
+					//doc[i].onclick = function() { return ExitNotice(thisHREF) };
+					doc[i].onclick = function() { return ExitNotice(thisHREF) };
+					doc[i].target = "_blank";
+				}
+			}
+		}
+	}
+
+	// do on page load
+	resetExternalLinks();
+	
+	// show me how onclicks are set
+		var doc = document.getElementsByTagName('a');
+		for (var z=0; z<doc.length; z++){
+			var thisOnClick = doc[z].onclick;
+			if (thisOnClick) {
+alert(thisOnClick);			
+			}
+		}
+*/	
+	
+</script>
+
+
+
+
+
 
 
 
