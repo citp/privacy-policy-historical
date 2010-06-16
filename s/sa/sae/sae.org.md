@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217093319id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.org privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617010334id_/http%3A//www.sae.org/about/privacy) for the most accurate reproduction.*
 
 # SAE Website Privacy Policy
 
 | 
-
-##  SAE Website Privacy Policy  
-_Your privacy is important to us!_  
-
 
 Last updated: 1 September 2005
 
@@ -81,3 +77,25 @@ If you have comments or questions about this Policy, please contact us at:
 >  Phone: +1 877 606 7323 
 
 | 
+
+| 
+
+Join SAE Today!
+
+| 
+
+SAE Off-Highway Engineering Online
+
+| 
+
+eBooks from SAE
+
+| 
+
+Membership saves you money on these special programs
+
+| 
+
+Support science, engineering & math education  
+  
+---|---|---|---|---
