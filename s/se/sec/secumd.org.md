@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secumd.org privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418193841id_/http%3A//www.secumd.org/html/secu/lower.htm%3Fpage%3Dsecurity.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secumd.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616203615id_/https%3A//www.secumd.org/html/secu/lower.htm%3Fpage%3Dsecurity.privacy_policy) for the most accurate reproduction.*
 
 # SECU Credit Union - Online Loans, Free Checking, Online Banking
 
@@ -12,7 +12,7 @@
 
 **SECU Credit Union never requests sensitive account information through unsolicited e-mail to members.**
 
-If you receive an **unsolicited** e-mail claiming to be from SECU or any other group requesting that you provide your account numbers, Social Security number, personal identification numbers (PINs), passwords, or other confidential information, do not divulge any information, do not click on any links, and report the suspected fraudulent e-mail to the Internet Fraud Complaint Center at [www.ifccfbi.gov/index.asp](http://www.ifccfbi.gov/index.asp).
+If you receive an **unsolicited** e-mail claiming to be from SECU or any other group requesting that you provide your account numbers, Social Security number, personal identification numbers (PINs), passwords, or other confidential information, do not divulge any information, do not click on any links, and report the suspected fraudulent e-mail to the Internet Fraud Complaint Center at [www.ic3.gov/](http://www.ic3.gov/).
 
 At SECU, we respect your right to privacy and confidentiality. Safeguarding your assets and accounts \- and all financial and personal information related to those accounts \- is our responsibility. Our policies and procedures are developed and implemented with that objective in mind. We have selected our computer system and software based on their ability to control access to your information.
 
