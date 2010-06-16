@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525195003id_/http%3A//www.acwholesalers.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acwholesalers.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616152202id_/http%3A//www.acwholesalers.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# 'Direct to the Public' quality Ductless air conditioning, Ductless Heat Pump Products.
+# Goodman Air: Mitsubishi Mr Slim: Goodman Heat Pump: Buy Wholesale Direct
 
 | 
+
+(Your shopping cart is empty)
 
 **Privacy Policy**
 
@@ -29,7 +31,7 @@ How do we protect visitor information?We implement a variety of security measure
 
 Do we use "cookies"?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard dritve through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -67,11 +69,11 @@ Terms and Conditions
 
 Please also visit our 
 
-[Terms and Conditions](https://web.archive.org/web/20090525195003id_/http%3A//www.acwholesalers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+[Terms and Conditions](https://web.archive.org/web/20100616152202id_/http%3A//www.acwholesalers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
 By using our site, you consent to our privacy policy.  
   
 ---|---  
-'Direct to the Public' quality Ductless air conditioning, Ductless Heat Pump Products.
+Goodman Air: Mitsubishi Mr Slim: Goodman Heat Pump: Buy Wholesale Direct
