@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigadda.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508170016id_/http%3A//www.bigadda.com/frontpage/_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigadda.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616124923id_/http%3A//www.bigadda.com/frontpage/_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - BIGADDA.com
 
@@ -7,7 +7,7 @@ Last Revised on: July 27, 2007
 **About BIGADDA.com**
 
 BIGADDA.com is an online youth networking site, owned and managed by **BIGADDA.com**. Registered members are allowed to set up unique personal profiles that can be linked together through networks of friends. BIGADDA members can view each others' profiles with the objective of making new friends, communicating with old friends, sharing photos and posting journals and comments etc. **In order to ensure that the objectives of the site can be fulfilled to the satisfaction of BIGADDA members** , we request and display some personal information / profile information relating to one or more members to other members and visitors, which allows our users to identify each other and expand their network of friends. BIGADDA members can change their personal information and/or profile information at any time. Kindly note that although most of the online services are offered for free, users would require a "Mandatory Registration" to navigate and use BIGADDA services. To know more about the said "Mandatory Registration", please follow the link below:  
-<http://www.bigadda.com/?L=registration.register>
+<http://www.bigadda.com/signup>
 
 BIGADDA.com respects the privacy of users and is committed to protect their privacy in all respects. Should you have any questions concerning this privacy policy, please email us at [privacy@bigadda.com](mailto:privacy@bigadda.com?subject=Privacy%20on%20BigAdda).
 
