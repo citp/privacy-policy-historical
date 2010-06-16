@@ -1,55 +1,37 @@
-> *The following text is extracted and transformed from the livesex.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508085340id_/http%3A//livesex.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesex.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616102635id_/http%3A//www.livesex.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Livesex.com
+# Live Sex Web Cam Video Chat
 
-## **Privacy policy**
+## privacy policy
 
-This document details important information regarding the use and disclosure of User Data collected on Livesex.com.
+### How livesex.com Protects Your Privacy
 
-The security of your Data is very important to Livesex.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
-
-This site expressly and strictly limits its membership and/or viewing privileges to adults of 18 years of age and over. All persons who do not meet this criteria are strictly forbidden from accessing or viewing the contents of this Website. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of maturity.
-
-1\. DATA COLLECTED
-
-  * Personal information: 
-    * Non-registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address may be recorded in the event that there is any misappropriation of information and/or content.
-    * Registration is required for uploading videos, and accessing a number of other features. The only personal information requested (and required) at the time of registration is an e-mail address. Additional personal information may be added on a voluntary basis after registration as the Website's features permit. All this data with the exception of the e-mail address and IP address becomes publicly accessible information. 
-  * Content uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  * Cookies: When you visit Livesex.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Livesex.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  * Log file information: When you visit Livesex.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  * E-mails: If you contact us, we may keep a record of that correspondence.
+  * We **NEVER** sell, rent or share your personal information or email address with any other party!
+  * We may send you occasional promotional emails, and every email will contain an unsubscribe option.
+  * Your personal information is **NEVER** stored on livesex.com's server, so it cannot be stolen by hackers.
 
 
 
-2\. USES
+### Not only do we respect your privacy, we protect your privacy!
 
-  * Your personally identifiable information submitted to Livesex.com is used to provide to the user the Website's general and special personalised features.
-  * Any videos that you submit to Livesex.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  * We do not use your e-mail address or other personally identifiable information to send commercial or marketing messages without your consent.
-  * We may use your e-mail address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
-  * We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Livesex.com user-experience.
+livesex.com is occasionally contacted by third parties who, for marketing purposes, want to purchase our mailing list and other sensitive customer information derived from our database. Although there is no law forbidding livesex.com from selling such information, the trading of which is an extremely lucrative business, livesex.com is serious in its commitment to protecting your personal privacy. We have never sold such personal information about our customers to outside parties -- not even once -- and we never will.
 
+### As a general rule, livesex.com collects only three kinds of information about you:
 
-
-3\. DISCLOSURE OF INFORMATION
-
-  * If under duty to do so Livesex.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Livesex.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Livesex.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-  * Should you deliberately upload any illegal material, Livesex.com will forward all available information to all relevant authorities without notice.
-  * We do not share your personally identifiable information with other, third-party companies for their commercial or marketing use without your consent except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+  1. Information that you voluntarily provide to us or authorize us to view, such as your name, address, credit-card and other account information as submitted on the livesex.com Membership Submission Form.
+  2. "Log information" about the areas of livesex.com that you visit, that are accessible from the general internet environment.
+  3. Private correspondence, such as the contents of telephone conversations, chat client logs, faxes or letters to livesex.com staff, e-mail messages to performers or livesex.com staff, performer chat client logs.
 
 
 
-4\. SECURITY
+### Log information bears greater explanation:
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+Log information typically consists of such things as your browser type (i.e., Netscape or MSIE), your IP address (i.e., 102.316.52.11), the domain name from which you are visiting livesex.com (i.e., "aol.com"), and the pages of livesex.com that you visit. Like all internet services, we analyze our log files to better understand which areas of livesex.com are more popular than others. And like most other large-scale internet properties, we also use this information to "customize" the livesex.com experience to match your tastes. For example, if you first visit livesex.com by searching an internet portal for a search term such as "voyeur" and clicking upon an livesex.com banner or link, livesex.com may set a "cookie" on your computer which records the term as a "search preference" (Note: Everyday log-analysis programs such as WebTrends include such tracking of keyword-specific traffic as a regular feature - indeed, using such tools, the administrators of most websites on earth track traffic originating from search engines by searched keyword).   
+Later, as you navigate through livesex.com, you will likely observe that the content you see on livesex.com tends to be tailored to match your recorded search preference. Note: such cookies are "secure" in that they cannot be read by other internet companies, but can only be read by the web site which placed the cookie on your computer.
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Livesex.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Livesex.com and you do so at your own risk.
+livesex.com also uses your recorded "search preference" information to better target and allocate marketing expenditures.   
+For example, if livesex.com learns that, in aggregate, individuals who search portals for terms such as "voyeur" are more likely to purchase goods and services from livesex.com than individuals who search for terms such as "livecams", livesex.com may allocate greater portions of its marketing budget to targeting the former group, and a smaller portion of its budget to target the latter group. By optimizing marketing strategies in this manner, livesex.com has more disposable capital that can be deployed toward development efforts which improve the livesex.com platform and provide a richer customer experience for all. 
 
-5\. YOUR RIGHTS
+Speaking of cookies, another kind of cookie that livesex.com sets is an "identification cookie". This cookie is written whenever you successfully use your login and password to access a restricted area of livesex.com; the identification cookie is available only to individuals who have already been verified as adults, via livesex.com's verification procedures. When livesex.com's servers observe this identification cookie on your computer, they recognize you and therefore might deliver unmodified content as opposed to modified content - in effect, another form of customized content tailored to suit your indicated preferences. 
 
-You are entitled to access and correct your data by doing so directly on the website.
-
-6\. DISCLAIMER
-
-Please be advised that all translations of legal statements and declarations made by Livesex.com and it's Owner are provided for informational purposes only and cannot be the basis of any legal claims or complaints. Livesex.com will only accept such claims based on the Hungarian version of any document.
+Another question that might concern you: "Does livesex.com outsource to other companies any privacy-sensitive functions such as management of its email newsletter system, web hosting, or its e-commerce platform?" Because livesex.com is committed to safeguarding the integrity of your personal information, we have elected to not use such services, despite the fact that they are reasonably-priced and simplify the management task of running a large and complex website operation.
