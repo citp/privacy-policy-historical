@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the earthlingorgeous.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115215148id_/http%3A//www.earthlingorgeous.com/about-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlingorgeous.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616043250id_/http%3A//www.earthlingorgeous.com/about-2) for the most accurate reproduction.*
 
 # Earthlingorgeous.com » Privacy Policy
-
-[ ](http://www.earthlingorgeous.com/)
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site http://www.earthlingorgeous.com . The following discloses the information gathering and dissemination practices for this Web site.
 
