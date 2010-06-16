@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202220735id_/http%3A//www.dosomething.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616211413id_/http%3A//www.dosomething.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Do Something
 
 ## Privacy
 
-Do Something is a not-for-profit organization for teens that want to change our world. This site is designed to offer resources to help teens change our world and has established online security measures to ensure the safety of every user.
+DoSomething.org is a not-for-profit organization for teens that want to change our world. This site is designed to offer resources to help teens change our world and has established online security measures to ensure the safety of every user.
 
-Do Something has a privacy policy. It was created by the Do Something Board of Directors in Summer 2003 to protect one of our greatest assets: your trust. We’ve created this privacy statement in order to demonstrate our firm commitment to online privacy. The following discloses our online information gathering and dissemination practices.
+DoSomething.org has a privacy policy. It was created by the Do Something Board of Directors in Summer 2003 to protect one of our greatest assets: your trust. We’ve created this privacy statement in order to demonstrate our firm commitment to online privacy. The following discloses our online information gathering and dissemination practices.
 
 Our promise about your personal information: If we collect information from you, we use it only for the purposes for which it was collected, and the other limited purposes outlined below. We will not sell or share your personally identifiable information with any third party.
 
@@ -28,12 +28,13 @@ We may use "cookies" to determine whether you have visited our site previously a
 
 ### Links
 
-Do Something only links to other non-profit or for-profit organizations that qualify as strategic partners. This site contains links to other sites. Do Something is not responsible for the privacy practices or the content of such Web sites. 
+DoSomething.org only links to other non-profit or for-profit organizations that qualify as strategic partners. This site contains links to other sites. DoSomething.org is not responsible for the privacy practices or the content of such Web sites. 
 
 ### User Generated Content
 
-The views, opinions, and comments expressed on our message boards DO NOT reflect the views and opinions of Do Something as an organization. Do Something is a not-for-profit and does not directly support or push any political, social, or religious agendas. We love all of our users equally.  
+The views, opinions, and comments expressed on our message boards DO NOT reflect the views and opinions of DoSomething.org as an organization. DoSomething.org is a not-for-profit and does not directly support or push any political, social, or religious agendas. We love all of our users equally.
 
+Content and pictures posted on DoSomething.org may be reused across the site and in promotional materials. DoSomething reserves the right to use photographs uploaded to the site in order to promote and publicize itself and its mission. If you have questions email [help@dosomething.org](mailto:help@dosomething.org)
 
 ### Message Boards 
 
@@ -43,7 +44,7 @@ The views, opinions, and comments expressed on our message boards DO NOT reflect
   * Have open, honest debates about issues that matter
   * Post opinions, information and news summaries relevant to making the world a better place
   * Report messages that violate our policy
-  * Use message boards to give Do Something feedback on its completely flawless website
+  * Use message boards to give DoSomething.org feedback on its completely flawless website
 
 
 
@@ -53,7 +54,7 @@ The views, opinions, and comments expressed on our message boards DO NOT reflect
   * Threaten fellow message boarders
   * Offend any specific race, religion, sexual orientation, or culture
   * Post or distribute sexually explicit, vulgar, or obscene content
-  * Impersonate another message boarder, Do Something Staff Member, or anyone else you are not
+  * Impersonate another message boarder, DoSomething.org Staff Member, or anyone else you are not
   * Post copyrighted material or material created by others with out direct permission
   * Post direct solicitations for funds or advertisements for any goods or services
   * Post offensive material of any kind
@@ -61,7 +62,7 @@ The views, opinions, and comments expressed on our message boards DO NOT reflect
 
 
 
-Do Something can decide, in its sole discretion, what is inappropriate for our message boards and can send users to the Sin Bin (restrict your access) or delete your account at any time. 
+DoSomething.org can decide, in its sole discretion, what is inappropriate for our message boards and can send users to the Sin Bin (restrict your access) or delete your account at any time. 
 
 **Message Board Link Policy = Do not directly link to external sites**
 
@@ -72,7 +73,7 @@ Do Something can decide, in its sole discretion, what is inappropriate for our m
 
 
 
-Direct site addresses will be edited, or rephrased on a case by case basis by Do Something moderators. ****
+Direct site addresses will be edited, or rephrased on a case by case basis by DoSomething.org moderators. ****
 
 ### Consequences –the Sin Bin
 
@@ -80,11 +81,11 @@ Users that post 3 or more messages that violate the ‘Do’s and Don’ts’ of
 
 ### Moderation
 
-Every member of the Do Something community acts as a moderator through the abuse-reporting system. Members are asked to ‘if they see something, do something’ about inapropriate content. When inapropriate user generated content is found the owner is contacted and the post is edited or removed as needed.
+Every member of the DoSomething.org community acts as a moderator through the abuse-reporting system. Members are asked to ‘if they see something, do something’ about inappropriate content. When inappropriate user generated content is found the owner is contacted and the post is edited or removed as needed.
 
-There is one full time Do Something staff member who moderates users, content and content policy. This staff member oversees a network of volunteer youth moderators that monitor every post for content and edit/hide/delete messages where appropriate. 
+There is one full time DoSomething.org staff member who moderates users, content and content policy. This staff member oversees a network of volunteer youth moderators that monitor every post for content and edit/hide/delete messages where appropriate. 
 
-In the case of a message that suggests a user may be in danger (either from themselves or someone else), they will be referred to a Do Something approved emergency help line or appropriate organization. This information is publicly available and all moderators are authorized to refer users to these pre-approved services: <http://www.dosomething.org/hotlines>
+In the case of a message that suggests a user may be in danger (either from themselves or someone else), they will be referred to a DoSomething.org approved emergency help line or appropriate organization. This information is publicly available and all moderators are authorized to refer users to these pre-approved services: <http://www.dosomething.org/hotlines>
 
   * Childhelp
   * National Alcohol Hotline
@@ -113,13 +114,13 @@ While there is no such thing as "perfect" security on the Internet, we will take
 
 ## Parents/Teachers/Old people/other?
 
-Do Something.org is not really for you. But we still care about you, so please check out the “Old People” on the bottom of every page. Do Something seeks to collect information from children over the age of 13. With respect to minors between the ages of 13 and 18, it is our hope that children participate in Do Something with the blessings of parents and guardians, but also that these parents and guardians become involved with Do Something too! If any child (13-18) provides us with personally identifiable information, a parent or guardian may notify us and such information will be deleted from our records.   
+DoSomething.org is not really for you. But we still care about you, so please check out the “Old People” on the bottom of every page. DoSomething.org seeks to collect information from children over the age of 13. With respect to minors between the ages of 13 and 18, it is our hope that children participate in DoSomething.org with the blessings of parents and guardians, but also that these parents and guardians become involved with DoSomething.org too! If any child (13-18) provides us with personally identifiable information, a parent or guardian may notify us and such information will be deleted from our records.   
   
 
 
 ## Choice/Opt-Out
 
-Users have the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. To opt-out, please email [unsubscribe@dosomething.org](mailto:unsubscribe@dosomething.org).
+Users have the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. To opt-out, please email [help@dosomething.org](mailto:help@dosomething.org).
 
 ## Correct/Update
 
