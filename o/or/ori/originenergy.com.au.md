@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originenergy.com.au privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228133559id_/http%3A//www.originenergy.com.au/932/Confidentiality-and-Privacy-Directive) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originenergy.com.au privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616052109id_/http%3A//www.originenergy.com.au/932/Confidentiality-and-Privacy-Directive) for the most accurate reproduction.*
 
 # Confidentiality and Privacy Directive - Origin Energy Australia
 
