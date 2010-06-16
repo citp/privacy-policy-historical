@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nurse.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209031226id_/http%3A//www.nurse.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nurse.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617011122id_/http%3A//www.nurse.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Nurse.com
 
