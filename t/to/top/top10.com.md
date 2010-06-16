@@ -1,66 +1,122 @@
-> *The following text is extracted and transformed from the top10.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229220423id_/http%3A//www.top10.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616203516id_/http%3A//top10.com/company/legal/privacy) for the most accurate reproduction.*
 
-# Top10
+# Privacy policy – Top10.com
 
-  
-We are committed to protecting online user privacy. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.
+## Privacy Policy
 
-This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in our Terms of Service, unless specifically defined in this Privacy Policy. All references herein to "we" or "us" refer to Top10 ("Top10"). All references to the "site" refer to our website located at [http://www.top10.com.](http://www.top10.com/)
+### Data Protection
 
-**Children's Privacy Policy**  
-Our Site is not directed towards children 13 years of age or under and we do not knowingly collect any information from children 13 years of age or under through the Site.
+Top10.com is owned and managed by Top10.com Media Ltd (“we”). Top10.com Media Ltd is registered with the Information Commissioner’s Office as a data controller in accordance with the Data Protection Act 1998 (“DPA”). Our registration number is: 21549624. 
 
-**What We Collect and How We Use It**  
-__Personally Identifiable Information__
+### General Policy
 
-Although you may generally use our site without providing us with any personally identifiable information, for some site applications or services, we may collect certain types of personally identifiable information, including: name, postal address, e-mail addresses, birth date, and phone number. This type of information is only collected from you voluntarily; we will never gather or store such information without your knowledge and consent. Examples of where we might gather such information from you: when you sign up to receive e-mail updates or newsletters about the site, our products, or services; to allow you to receive automatic mailings for services; to allow you to register or update your individual profile on the site; to help personalize the site for you; or to allow you to provide feedback, ask a question, or post on our Blog. In some situations, you will need to provide some or all of the above-described personally identifiable information in order for certain personalized features of the site to function properly.
+This policy and any other documents referred to within it form part of our terms and conditions which together set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-When you provide such information for a specific purpose, we will use such information to contact you solely for that purpose, except that we may at times also contact you to provide you with critical site information that impacts the features or services you have requested.
+By entering your details in fields on Top10.com, you enable us and our service providers to provide you with the services you select. Whenever you supply personal information, we will treat that information in accordance with this privacy policy. Our collection and use of data collected from you is further described below, as well as the ways (if any) in which the data may be shared with third parties. 
 
-We do not share personally identifiable information collected at this site with third parties, except for the limited instances noted below. The exceptions are: 
+If you have comments, questions or concerns, please [click here](https://web.archive.org/company/contact "Contact us") to contact us, or call: +44 (0) 20 3170 8040, or by post to: Top10.com Media Ltd, 131-151 Great Titchfield Street, London W1W 5BB.
 
-  * We may share your information with our agents who assist us in administering the site and various programs and promotions. They can only use the information to administer our site, services, and products. These agents are required to keep your information private and secure.
-  * If you opt-in (either at the time of providing personally identifiable information, or at a later time) to have us (i) use your information to contact you, or (ii) share your information with our partners for the purpose of receiving information from our partners and other companies.
-  * We may also disclose personally identifiable information if we are required to comply with laws, or if in our good faith judgment, such action is reasonably necessary to comply with legal process, to respond to any claims, or to protect the rights of Top10, its customers and the public.
-  * In the event of an acquisition of all or part of Top10 by another company, or in the event that Top10 were to sell or dispose of all or a part of the Top10 business, the acquirer would have access to the information maintained by Top10, which could include personally identifiable information, subject to applicable law. Similarly, information may be transferred as part of a reorganization or insolvency proceeding.
+### Information Collected from You
 
-We may on occasion combine information we receive with outside records or site usage information to enhance our consumer profiles for our own marketing and development purposes (in accordance with this Privacy Policy).
+We may collect any or all of the following types of information from you: 
 
-**Cookie/Tracking Technology**  
-This site uses cookie and tracking technology. A "Cookie," is a tiny file that your browser places on your computer's hard drive, which acts to identify your computer. Cookie and cookie tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the site. Cookies can also help tailor the site to visitors' needs and help customize the site for visitors. For example, we may use cookies to store your site preferences, usage patterns, and other information so that the site will function better for you on subsequent visits. The site may also use cookies to deliver content specific to your interests and for other similar purposes. Personally identifiable information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information (as discussed above), cookies may be tied to such information. Aggregated cookie and tracking information may be shared with third parties. If you choose to reject the site's cookies, some areas of the site may not function properly or may not be accessible.
+  * traffic or clickstream data;
+  * cookies;
+  * information that you provide by filling in forms on Top10.com. This includes information provided at the time of registering to use our website (including contact information), subscribing to any service, in order to use the Top 10 Broadband Speed Test (see below for further details) or posting reviews, comments or materials. We may also ask you for information if you enter a competition or promotion and if you report a problem with our website;
+  * records of correspondence between us if you contact us; and
+  * any other personally identifying information as identified in this privacy policy.
 
-**Automatically Collected Log Information**  
-In addition to the information discussed above, when you visit the site we collect and store the following information in our logs for each browser request. We may use such information for development and marketing purposes (we will not use IP addresses externally except as set forth above): 
 
-  * the date and time
-  * the originating IP address
-  * the type of browser and operating system used (if provided by the browser)
-  * the URL of the referring page (if provided by the browser)
-  * the object requested
-  * completion status of the request
-  * pages visited
 
-__Information Processing__  
-We process information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners, provided that we will not reveal such information except in accordance with this privacy policy.
+### Uses Made of the Information Collected from You
 
-**Demographic Information and Surveys and Polls**  
-We may ask for demographic or profile (age, gender, household, interests, etc.) information in a survey/poll or at registration. This information is used to assist us in tailoring the site, our communications, and our services and products to visitors and consumers. We may share aggregated demographic and survey information, as opposed to individual information, with third parties. You always have the option of not responding to any questionnaire, survey, or poll.
+We use information held about you in the following ways:
 
-Security, Opting Out, and Access to Information  
-Top10 uses commercially reasonable efforts to keep personally identifiable information secure. Only authorized Top10 employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information and only to help Top10 administer its promotional programs and the site.
+  * to ensure that content from our website is presented in the most effective manner for you and for your computer or device;
+  * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
+  * to carry out our obligations arising from any contracts entered into between you and us;
+  * to allow you to participate in interactive features of our website, when you choose to do so; and
+  * to notify you about changes to our website and services. 
 
-If you have signed up to receive newsletters and email from us, we will make every effort to have all such communications allow you to opt-out of further such communications. If enabled on the site, you may visit your account settings page to set your opt-in/opt-out settings. In the event that you wish to otherwise modify your settings, you may always contact us.
 
-If enabled on the site, you may visit your account settings page to delete your account and/or information. You can also contact us to request deletion of your account and/or information. Please note that any information that we have may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases. Also please note that log files are not affected by account deletion requests.
 
-**General**  
-Third party Internet sites accessible through hyperlinks from this site have their own privacy practices, and Top10 has no responsibility or liability for these independent practices. Please review their privacy practices for yourself.
+### Traffic and Clickstream Data
 
-We reserve the right to amend this Privacy Policy periodically. Any amendments made to this Privacy Policy will be considered effective ten (10) days after the amendments are posted on the site.
+Data about traffic and usage is not personally identifying or identifiable, and is not supplemented or combined with personally identifying or identifiable information. 
 
-**Contact Information**  
-If Users have any questions about our services or Privacy Policy, please contact Support, c/o Top10, 130 West Union Street, Pasadena, CA 91103 USA.
+This website collects some information regarding the use of Top10.com by observing browser functions and the files (pages) users’ access, in order to police fraudulent activities and any other irregularities. Aggregate information will be used in order to continually improve our website and service. 
 
-Users may also email [customerservice@top10.com](mailto:customerservice@top10.com) with questions about our Privacy Policy, and [help@top10.com](mailto:help@top10.com) with questions about our services.
+### Cookies
 
-Last Updated: March, 25 2007 
+We may store information about you using cookies (files which are sent by us to your computer or other access device) which we can access when you visit our website in the future. We do this to learn about repeat visitors and to find out if we are delivering quality products and services therefore improving our service further.
+
+If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. 
+
+Information on deleting or controlling cookies is available at www.AboutCookies.org. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
+
+### Data collected from you for the Top 10 Broadband Speed Test
+
+We will collect the following data from you where you take a Top 10 Broadband Speed Test:
+
+  * postcode or location data you manually enter; 
+  * the time and date you visited our website; 
+  * your IP address (which is automatically collected from your browser); 
+  * the type of web browser you are using (automatically detected); 
+  * the hostname and/or broadbrand provider you enter; and 
+  * the rating you give for your broadband provider when you enter your details 
+
+
+
+We use the data collected from you when you take a Top 10 Broadband Speed Test for the following purposes: 
+
+  * performing a look-up on a third party broadband availability service or ‘postcode checker’ to query your connection details including your phone exchange and the type of broadband connections available in your area;
+  * using your IP and/or postcode details, to geo-code your approximate location using the Google Maps API and to present a pin with the broadband provider you entered and the broadband speed we recorded on your local Google Map; 
+  * presenting the data collected on our broadband StreetStats maps and aggregating results (yours included) on our graphs and using your data (in conjunction with others) to work out average speeds for our users at a local and national level.
+
+
+
+We will store all of the data we collect for the purposes of the Top 10 Broadband Speed Test in a database on our servers.
+
+### Removing yourself from our StreetStats maps and database:
+
+We can remove you from our StreetStats maps and from our database if requested. To make this request, please email us at info@top10.com.
+
+#### How to remove yourself from our StreetStats maps immediately after your Top 10 Broadband Speed Test:
+
+After you have completed your Top 10 Broadband Speed Test, immediately click ‘StreetStats’ (top right), then click ‘Remove yourself from this map’ (bottom right). You will then be permanently removed from all our StreetStats maps, however we will still hold the data we collected from you for the purposes of the Top 10 Broadband Speed Test. 
+
+#### Removing your data from our Top 10 Broadband Speed Test and database at a later date:
+
+If you never wish to be displayed on our StreetStats maps or compiled within our aggregated speeds, you can be permanently removed from our database. To remove yourself, please contact us stating your postcode, broadband provider and date of speed test and we will remove you within 3 working days. You can contact us [here](https://web.archive.org/company/contact "Contact us")
+
+### Visitors under the Age of 16
+
+We do not intentionally collect personally identifiable information online from a child under 16 since our website is not directed at children. Any users under 16 must get approval from a parent/guardian prior to submitting information. Users without consent are not allowed to provide us with information. 
+
+### Security of Personal Data
+
+We shall take measures to avoid improper use, modification, loss, processing or unauthorised access or theft of your personal data by third parties.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we fully intend to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. 
+
+### Disclosure of your Personal Information
+
+We will not sell or give your personally identifiable information to others except as provided in this privacy policy.
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may disclose your personal information to third parties:
+
+  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * if Top10.com Media Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its users or customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and other agreements; or to protect the rights, property, or safety of Top10.com Media Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+### Email policy (when any email is submitted via our forms)
+
+We may keep you updated with our own Top10 offers and related information via email. We will never sell your details to third parties and will not send you 'spam' emails. You will have the option to unsubscribe from our email lists at any time. 
+
+### Policy Changes
+
+Due to the rapidly evolving technologies and capabilities on the internet our privacy policy may change over time. Any changes made to our privacy policy will be notified on our website and data taken before the changes will not be affected without your individual permission. 
