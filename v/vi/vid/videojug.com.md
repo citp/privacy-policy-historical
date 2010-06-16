@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videojug.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125044128id_/http%3A//www.videojug.com/terms/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videojug.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616224006id_/http%3A//www.videojug.com/terms/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement - Videojug
 
