@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtnfootball.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215025434id_/http%3A//www.mtnfootball.com/live/content.php%3FItem_ID%3D16321) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtnfootball.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616032416id_/http%3A//www.mtnfootball.com/live/content.php%3FItem_ID%3D16321) for the most accurate reproduction.*
 
 # Privacy Policy | MTNFootball.com
 
