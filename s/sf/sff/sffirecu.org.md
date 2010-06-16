@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044508id_/http%3A//www.sffirecu.org/about-us/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616085518id_/http%3A//www.sffirecu.org/about-us/privacy-and-security) for the most accurate reproduction.*
 
 # SF Fire Credit Union : Your Privacy Rights
 
@@ -97,7 +97,9 @@ We strive to keep records of member information about you accurate and up to dat
 
 #### Children’s Online Privacy
 
-The law requires parental consent to collect or use information from a child under 13 years of age. If you are a child under 18 years of age, please show this to your parents, and do not use the online services of this institution without disclosure to parents and verifiable parental consent pursuant to the requirements of the [Childrenâ€™s Online Privacy Protection Rule.](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.shtm)
+The law requires parental consent to collect or use information from a child under 13 years of age. If you are a child under 18 years of age, please show this to your parents, and do not use the online services of this institution without disclosure to parents and verifiable parental consent pursuant to the requirements of the [Children’s Online Privacy Protection Act Rule](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html) (COPPA Rule).
+
+**Alternate Link:** the Federal Trade Commission’s website was hacked on July 7, 2009 and has been experiencing problems. [Here is an alternate link](http://www.coppa.org/coppa.htm) to the COPPA legislation.
 
 [[Top of Page]](https://web.archive.org/about-us/privacy-and-security#top)
 
