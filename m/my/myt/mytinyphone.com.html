@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the mytinyphone.com privacy policy that was archived on 2009-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091211034823id_/http%3A//www.mytinyphone.com/p/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mytinyphone.com privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616120839id_/http%3A//www.mytinyphone.com/p/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Free ringtones and free phone wallpapers.</title>
 <meta name="keywords" content="make ringtones, free ringtones, make cell phone wallpapers, free wallpapers, make wallpapers, share wallpapers, share ringtones, free themes, mobile themes">
 <meta name="description" content="100% free ringtones and phone wallpapers. No hidden fees! No subscription! We have over 65K free ringtones available.. Create and share your own ringtones, videos, themes and cell phone wallpapers  with your friends.">
@@ -19,23 +19,29 @@
 	} 
 --> 
 </script>
-<link rel="stylesheet" type="text/css" href="/css/main.css">
+<link rel="stylesheet" type="text/css" href="/css/main.css?20100422">
+<link rel="stylesheet" type="text/css" href="/css/header.css">
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <link rel="stylesheet" type="text/css" href="/css/new.css?">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link rel="alternate" title="MyTinyPhone RSS Feeds" type="application/rss+xml" href="http://www.mytinyphone.com/rss">
+
 </head>
 
 <body>
-<!-- 41 --><div class="site">
-	<div class="header">
-		<div class="logo"><a href="/"><img src="/img/n/logo.gif" border="0"></a></div>
-		<div class="user_nav">
-	<b><a href="/register/?rs=mtp_toplink">Sign Up</a></b> | <a href="/p/help/">Help</a> | <a href="/p/faq/">FAQ</a> | <a href="javascript:toggleDiv('login');document.getElementById('loginUser').focus();" rel="nofollow" id="loginlink">Log In</a>&nbsp;<script type="text/javascript">document.getElementById('loginlink').href='javascript:toggleDiv(\'login\');document.getElementById(\'loginUser\').focus();'</script>	
-	<div class="search"><form action="/search/">
-	Search for <input type="text" id="autos0" name="skey" value="" size="15" autocomplete="off"><input type="hidden" id="selid0" name="selid" value=""> in <select name="searcht"><option value="" selected="">All content</option><option value="ringt">Ringtones</option><option value="wallp">Wallpapers</option><option value="user">Members</option><option value="tags">Tags</option></select> <input type="submit" name="subm" value="Search"></form></div>
+<!-- 50 --><div id="mask" onclick="showMask(1);"></div>
+<div id="ajaxLoader" style="display:none;"><img src="/img/loader.gif" alt="Please wait ..."></div>
+<div id="ajaxContent">
+	<a href="javascript:void(0);" id="ajaxCloseContent" onclick="showMask(1);" title="Close">X</a>
+	<div id="ajaxInnerContent">
 	</div>
+</div>
+<div class="site">
 
-	<div id="login">
+	<div class="header">
+		<div class="logo"><a href="/"><img src="/img/n/logo.gif" border="0"></a></div>		<div class="user_nav"><script src="/func/cookie.js" type="text/javascript"></script><a href="http://blog.mytinyphone.com/2010/06/14/find-your-personality-ringtone-brand-new-custom-a-team-ringtone-mudsucka/?utm_source=mtp&amp;utm_medium=link&amp;utm_content=plain&amp;utm_campaign=msg3" style="color:red;font-weight:bold;" onclick="setCookie('nt','3','30')">1 New Message</a> | <b><a href="/register/?rs=mtp_toplink">Sign Up</a></b> | <a href="/forum/">Forum</a> | <a href="javascript:toggleDiv('login');document.getElementById('loginUser').focus();" rel="nofollow" id="loginlink">Log In</a>&nbsp;<script type="text/javascript">document.getElementById('loginlink').href='javascript:toggleDiv(\'login\');document.getElementById(\'loginUser\').focus();'</script>		</div>
+
+		<div id="login">
 		<h2><span>Log in!</span> <a href="javascript:toggleDiv('login');">Close window</a></h2>
 
 
@@ -66,21 +72,48 @@
 				</div>
 			</fieldset>
 		</form>
-</div>
-		<div class="navigation">
-			<ul>
-				<li><a href="/">Home</a></li>
-				<li><a href="/ringtones/">Ringtones</a></li>
-				<li><a href="/wallpapers/">Wallpapers</a></li>
-				<li><a href="/themes/">Themes</a></li>
-				<li><a href="/games/">Games</a></li>
-				<li><a href="/applications/">Applications</a></li>
-				<li><a href="/tools/">Create content</a></li>
-				<li><a href="/search/">Search</a></li>
-				<li><a href="/forum/">Forum</a></li>
-							</ul>
 		</div>
-	</div>	<div class="middle">
+		<div class="breaker spacer"></div>
+		<div class="navigation">
+						<a href="/">Home</a>
+			<a href="/ringtones/">Ringtones</a>
+			<a href="/wallpapers/">Wallpapers</a>
+			<a href="/themes/">Themes</a>
+			<a href="/games/">Games</a>
+			<a href="/applications/">Applications</a>
+			<a href="/tools/">Create content</a>
+			<!-- <a href="/search/" >Search</a> -->
+			<!-- <a href="/forum/" >Forum</a> -->
+			<a href="/community">Community</a>
+			<a href="http://blog.mytinyphone.com">Blog</a>
+
+						<div class="breaker"></div>
+		</div>
+		<div class="subNavigation">
+			<div class="searchArea">
+				<form action="/search/">
+					<input type="text" id="autos0" name="skey" value="Search for" size="25" onfocus="chkSearch();" onblur="chkSearch(1);" autocomplete="off">
+					<input type="hidden" id="selid0" name="selid" value=""><input type="submit" name="subm" value="Search" class="submit">
+					<script type="text/javascript">
+						function chkSearch(rev) {
+							var elem = document.getElementById('autos0');
+							if (rev && elem.value == '') {
+								elem.value = 'Search for';
+							} else if (!rev && elem.value == 'Search for') {
+								elem.value = '';
+							}
+						}
+					</script>
+				</form>
+			</div>
+							<a href="/ringtones/all">Browse for ringtones</a>
+				<a href="/p/make-ringtone/">Create ringtone</a>
+				<a href="/wallpapers/all">Browse for wallpapers</a>
+				<a href="/p/make-wallpaper/">Create wallpaper</a>
+			
+			<div class="breaker"></div>
+		</div>	</div>
+	<div class="middle">
 
 
 <a name="startl"></a>
@@ -104,69 +137,127 @@ Google adsense</p><p>From time to time, we may use customer information for new,
 
 		<br class="clr">
 <div class="footer">
-<div class="fcol">
-<div id="title">Download</div>
-<ul>
-<li><a href="/ringtones/">Free ringtones</a></li>
-<li><a href="/wallpapers/">Free wallpapers</a></li>
-<li><a href="/themes/">Free themes</a></li>
-<li><a href="/games/">Free games</a></li>
-<li><a href="/applications/">Free applications</a></li>
-</ul>
+	<div class="innerCol">
+		<div style="padding-top:5px" align="center">
+			<form action="/search/" class="searchFooter">
+				<input type="text" onblur="chkSearch2(1);" onfocus="chkSearch2();" size="40" value="" name="skey" id="autos1" autocomplete="off">
+																
+																
+
+
+				<input type="hidden" value="" name="selid" id="selid0"><input type="submit" class="submit" value="Search" name="subm">
+				<script type="text/javascript">
+					function chkSearch2(rev) {
+						var elem = document.getElementById('autos1');
+						if (rev && elem.value == '') {
+							elem.value = 'Search for';
+						} else if (!rev && elem.value == 'Search for') {
+							elem.value = '';
+						}
+					}
+				</script>
+				<div class="breaker"></div>
+			</form>
+		</div>
+	</div>
+    <div class="breaker spacer"></div>
+	    <div style="margin-left: 70px; width:155px;" class="fcol">
+		<div id="title"><font class="sm_black">Download</font></div>
+		<ul>
+			<font class="sm_black">
+			<li><a href="http://www.mytinyphone.com/ringtones/">Free ringtones</a></li>
+			<li><a href="http://www.mytinyphone.com/wallpapers/">Free wallpapers</a></li>
+			<li><a href="http://www.mytinyphone.com/themes/">Free themes</a></li>
+			<li><a href="http://www.mytinyphone.com/games/">Free games</a></li>
+			<li><a href="http://www.mytinyphone.com/applications/">Free applications</a></li>
+			</font>
+		</ul>
+	</div>
+		<div style="width:155px;" class="fcol">
+		<div id="title"><font class="sm_black">Upload</font></div>
+		<ul>
+			<font class="sm_black">
+			<li><a href="http://www.mytinyphone.com/p/make-ringtone/">Upload ringtones</a></li>
+			<li><a href="http://www.mytinyphone.com/tools/upload-wallpapers/">Upload
+			  wallpapers</a></li>
+			<li><a href="http://www.mytinyphone.com/tools/upload-themes/">Upload 
+			  themes</a></li>
+			<li><a href="http://www.mytinyphone.com/tools/upload-games/">Upload 
+			  games</a></li>
+			<li><a href="http://www.mytinyphone.com/tools/upload-videos/">Upload 
+			  videos</a></li>
+			<li><a href="http://www.mytinyphone.com/tools/upload-applications/">Upload
+			  applications</a></li>
+			</font>
+		</ul>
+    </div>
+    <div style="width:155px;" class="fcol">
+		<div id="title"><font class="sm_black">Create</font></div>
+		<ul>
+			<font class="sm_black">
+			<li><a href="http://www.mytinyphone.com/p/make-ringtone/">Make a ringtone</a></li>
+			<li><a href="http://www.mytinyphone.com/p/make-wallpaper/">Make a 
+			  wallpaper</a></li>
+			</font>
+		</ul>
+    </div>
+    <div style="width:95px;" class="fcol">
+		<div id="title"><font class="sm_black">Help</font></div>
+		<ul>
+			<font class="sm_black">
+			<li><a href="http://www.mytinyphone.com/p/faq/">FAQ</a></li>
+			<li><a href="http://www.mytinyphone.com/p/help/">Help</a></li>
+			</font>
+		</ul>
+    </div>
+    <div class="fcol">
+		<div id="title"><font class="sm_black">Connect with us on</font></div>
+		<ul>
+			<font class="sm_black">
+			<li><a href="http://twitter.com/mytinyphone/" target="_blank" title="Follow us on Twitter" onclick="javascript:pageTracker._trackEvent('social', 'footer', 'twitter');"><img style="margin-bottom:-10px; margin-right:5px;" src="/img/twitter.png" border="0"><strong>Follow</strong></a></li>
+			<li><a href="http://www.facebook.com/mytinyphone" target="_blank" title="Join our Facebook fan page" onclick="javascript:pageTracker._trackEvent('social', 'footer', 'facebook');"><img style="margin: 5px 5px -12px 0px;" src="/img/fb.png" border="0"><strong>Fan page</strong></a></li>
+			<li><a href="http://www.mytinyphone.com/rss" title="RSS feed" onclick="javascript:pageTracker._trackEvent('social', 'footer', 'rss');"><img style="margin: 8px 5px -11px 0px;" src="/img/rss.png" border="0"><strong>RSS Feeds</strong></a></li>
+			</font>
+			</ul>
+    </div>
+    <div class="fcol2">
+		<div>
+			<a class="fcola" href="http://www.mytinyphone.com/artist/">Artists</a>
+			<a class="fcola" href="http://www.mytinyphone.com/p/privacy/" rel="nofollow">Privacy policy</a> 
+			<a class="fcola" href="http://www.mytinyphone.com/p/terms/" rel="nofollow">Terms of Service</a> 
+			<a class="fcola" href="http://www.mytinyphone.com/p/notice/" rel="nofollow">Copyright policy</a> 
+			<a class="fcola" href="http://www.mytinyphone.com/p/contact-us/" rel="nofollow">Contact us</a> 
+			<a class="fcola" href="http://www.mytinyphone.com/p/link-to-us/" rel="nofollow">Link to us</a> 
+			<a class="fcola" href="/dmca" rel="nofollow">Report Abuse</a>
+			<a href="http://www.mytinyphone.com/sm/">Sitemap</a>
+		</div>
+	</div>
+	<div class="breaker"></div>
+	<div class="breaker"></div>
+	<div class="breaker"></div>
+	<div class="breaker"></div>
+	<div class="breaker"></div>
+	<div class="fcol2">
+		<span style="font-size:12px;color:#797979;"> ©   2010 MyTinyPhone.com</span>
+	</div>
+</div>
 
 </div>
-<div class="fcol">
-<div id="title">Upload</div>
-<ul>
-<li><a href="/p/make-ringtone/">Upload ringtones</a></li>
-<li><a href="/tools/upload-wallpapers/">Upload wallpapers</a></li>
-<li><a href="/tools/upload-themes/">Upload themes</a></li>
-<li><a href="/tools/upload-games/">Upload games</a></li>
-<li><a href="/tools/upload-videos/">Upload videos</a></li>
-<li><a href="/tools/upload-applications/">Upload applications</a></li>
-</ul>
 
-</div>
-
-<div class="fcol">
-<div id="title">Create</div>
-<ul>
-<li><a href="/p/make-ringtone/">Make a ringtone</a></li>
-<li><a href="/p/make-wallpaper/">Make a wallpaper</a></li>
-</ul>
-
-</div>
-<div class="fcol">
-<div id="title">Site links</div>
-<ul>
-<li><a href="/artist/">Artists</a></li>
-<li><a href="/p/privacy/" rel="nofollow">Privacy policy</a></li>
-<li><a href="/p/terms/" rel="nofollow">Terms of Service</a></li>
-<li><a href="/p/notice/" rel="nofollow">Copyright policy</a></li>
-<li><a href="/p/contact-us/" rel="nofollow">Contact us</a></li>
-<li><a href="/p/link-to-us/" rel="nofollow">Link to us</a></li>
-<li><a href="/sm/">Sitemap</a></li>
-</ul>
-
-</div>
-<div class="fcol">
-<div id="title">Help</div>
-<ul>
-<li><a href="/p/faq/">FAQ</a></li>
-<li><a href="/p/help/">Help</a></li>
-</ul>
-
-</div>
-
-</div>
-</div>
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-55067-3";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-55067-3");
+
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+   var addthis_config = {
+      data_ga_tracker: pageTracker
+   };
 </script>
 	<script type="text/javascript">
 	var options2 = {
@@ -179,6 +270,30 @@ urchinTracker();
 		callback: function (obj) { document.getElementById('selid0').value = obj.id; }
 	};
 	var as2 = new bsn.AutoSuggest('autos0', options2);
-	</script>
+	</script><!-- Begin: 4q.iperceptions.com -->
+<script src="http://4qinvite.4q.iperceptions.com/1.aspx?sdfc=5dfc245c-17492-da2b0dc7-83be-4f2e-a035-41b14c98acfc&amp;lID=1&amp;loc=4Q-WEB2" type="text/javascript" defer="defer"></script>
+<!-- End: 4q.iperceptions.com -->
+
+<!--    <div id="fb-root"></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({appId: '104833346228208', status: true, cookie: true,
+                 xfbml: true});
+      };
+      (function() {
+        var e = document.createElement('script');
+        e.type = 'text/javascript';
+        e.src = document.location.protocol +
+          '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+      }());
+    </script>
+//-->
+
+<!-- SurveyMoney questionary -->
+<script src="http://www.surveymonkey.com/jsPop.aspx?sm=X9pb9o_2fzF_2fDQnAM5dovX6w_3d_3d"> </script>
+
+
 
 </div></body></html>
