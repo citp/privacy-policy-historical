@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513111837id_/http%3A//www.hiusa.org/ppolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616220912id_/http%3A//www.hiusa.org/about_us/privacy_policy) for the most accurate reproduction.*
 
-# Hostelling International USA
-
-You are here: hi-usa > privacy policy
+# Hostelling International USA Privacy Policy
 
 This document outlines Hostelling International USA's (HI-USA) online privacy policy, which governs personal information gathered on the national web site www.hiusa.org and its aliases.
 
@@ -30,7 +28,7 @@ HI-USA may also release personal information to appropriate governmental authori
 If your personal information changes or you would like to review the personal information we may have on file, please e-mail us with the new information or your review request at webmaster@hiusa.org. Let us also know the HI-USA program, product or service that led to your submission of personal information so we may efficiently locate your information.
 
 **Computer Tracking and Cookies**  
-Our web sites are not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.
+Our web sites do track sessions and employ analytics. However, we do not collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others in the form or aggregate traffic reports, but such statistics contain no personal information and cannot be used to gather such information.
 
 A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. HI-USA uses non-identifying cookies to provide easier site navigation and access to forms. You can still use the HI-USA site if your browser is set to reject cookies. Our cookies do not generate personal data, do not read personal data from your machine and are never tied to anything that could be used to identify you.
 
