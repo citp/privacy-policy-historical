@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224114158id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevepavlina.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616045045id_/http%3A//www.stevepavlina.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -39,12 +39,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ##  Free _Personal Development Insights_ Newsletter 
 
-Sign up for the FREE _Personal Development Insights_ newsletter to **achieve new breakthroughs** in your habits, career, finances, relationships, health, and spiritual development. With **tens of thousands** of active subscribers, _Personal Development Insights_ is one of the **most popular** self-improvement newsletters in the world. 
+  
 
-Newsletters are sent about once a month, just enough to keep you in the loop but not enough to overwhelm you. 
 
-If you enjoy the free information available on this site, you're sure to appreciate the free newsletter as well. Sign up right here: 
-
-**Note:** You can easily unsubscribe at any time with no hassle -- just click the cancellation link at the bottom of any issue. Your email address will be kept confidential and won't be shared. If you use spam-blocker on your email account, be sure to add the email address _pdinewsletter at stevepavlina.com_ to your whitelist, so the newsletter is allowed through. 
-
-Copyright © 2009 by Pavlina LLC, www.StevePavlina.com. All rights reserved. 
+Copyright © 2010 by Pavlina LLC, www.StevePavlina.com. All rights reserved. 
