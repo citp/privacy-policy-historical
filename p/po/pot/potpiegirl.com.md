@@ -1,35 +1,45 @@
-> *The following text is extracted and transformed from the potpiegirl.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820093835id_/http%3A//www.potpiegirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potpiegirl.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616141623id_/http%3A//www.potpiegirl.com/privacy-policy-termsofuse) for the most accurate reproduction.*
 
-# Privacy Policy | PotPieGirl.com
+# Privacy Policy/ TermsOfUse | PotPieGirls Blog (PotPieGirl.com)
 
-**PotPieGirl.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+## [ Privacy Policy/ TermsOfUse ](http://www.potpiegirl.com/privacy-policy-termsofuse/)
 
-## Routine Information Collection
+Comments Off
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-## Cookies and Web Beacons
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-Where necessary, PotPieGirl.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url [http://www.google.com/privacy_ads.html](http://www.potpiegirl.com/more_about/http_www_google_com_privacy_ads_html/1152/1) Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, PotPieGirl.com has no access or control over these cookies that may be used by third party advertisers.
 
-## Controlling Your Privacy
+**Collection of Personal Information**  
+When visiting PotPieGirl.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-## Contact Information
+You should also be aware that PotPieGirl.com may make a commission for a purchase or action you make via a link on this site. While PotPieGirl.com is not paid to write any review on this site, some articles do contain affiliate style links that enable this site to generate income.
 
-Concerns or questions about this privacy policy can be directed to potpiegirl@potpieworld.com for further clarification.
+**Earnings Disclaimer**  
+There are no earnings potential claims on this site. Any claims of income are not results of the typical reader. The “typical reader” will read an article here and then never do anything with the info explained or addressed. All results are unique and directly influenced by the individual person. No one can guarantee a certain income with internet marketing.
 
-This privacy policy was generated by the [Privacy Policy for WordPress](http://www.synclastic.com/plugins/privacy-policy/) plugin.
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.
+
+If you have any questions regarding the privacy policy of PotPieGirl.com then you may contact us at our help desk – AskPotPieGirl.com
 
   
 ***** Note: I 'Do Follow' All Comments. Because of this I moderate all comments before publishing. This means that your comment will not show until I approve it. Thanks for understanding! ****
 
 No comments yet.
 
-[Comments RSS Feed](http://www.potpiegirl.com/privacy-policy/feed/)   [TrackBack URL](http://www.potpiegirl.com/privacy-policy/trackback/)
+Sorry, the comment form is closed at this time.
+
+[Comments RSS Feed](http://www.potpiegirl.com/privacy-policy-termsofuse/feed/)  
 
 **SEARCH POTPIEGIRL.COM**  
 Finally... an easier way to find ALLLLL the info on PotPieGirl.com! 
