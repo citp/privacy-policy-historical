@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingcon.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926094552id_/http%3A//www.hostingcon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingcon.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616080247id_/http%3A//www.hostingcon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HostingCon
 
