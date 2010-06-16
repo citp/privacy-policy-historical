@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaaagencysearch.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620003626id_/http%3A//www2.aaaa.org/Pages/privacy2.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaaagencysearch.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616192709id_/http%3A//www2.aaaa.org/Pages/privacy2.aspx) for the most accurate reproduction.*
 
 # AAAA Web Site Privacy Policy
 
