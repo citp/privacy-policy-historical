@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hentairevolt.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618165339id_/http%3A//www.hentairevolt.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentairevolt.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616041725id_/http%3A//www.hentairevolt.com/pp.html) for the most accurate reproduction.*
 
-# Hentai Revolt: Free hentai manga doujinshi hentai games adult hentai sex movies
+# Hentai Revolt - Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
