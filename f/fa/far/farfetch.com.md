@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the farfetch.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613001749id_/http%3A//www.farfetch.com/pag92.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farfetch.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616155340id_/http%3A//www.farfetch.com/pag92.aspx) for the most accurate reproduction.*
 
 # Privacy - farfetch
 
 [Home](https://web.archive.org/) / Privacy
 
-**Farfetch.com** recognises the concern of our customers regarding privacy of information. All information you give to **Farfetch.com** is stored securely, and is not accessible to other users. Rest assured that any information you give to **Farfetch.com** will not be distributed to any other company outside of the **farfetch.com** group or its affiliated partners.
+**Farfetch.com** recognises the concern of our customers regarding privacy of information. All information you give to **Farfetch.com** is stored securely, and is not accessible to other users. Rest assured that any information you give to **Farfetch.com** will not be distributed to any other company outside of the **Farfetch.com** group or its affiliated partners.
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
+We are committed to protecting your privacy. We will only use the information that we collect about you lawfully.
 
 We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
 
