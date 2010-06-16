@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the migbank.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214165611id_/http%3A//www.migbank.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migbank.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616040518id_/http%3A//www.migbank.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MIG BANK
 
 Privacy Policy
 
