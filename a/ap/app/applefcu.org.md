@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the applefcu.org privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519012445id_/http%3A//applefcu.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applefcu.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616205117id_/https%3A//www.applefcu.org/privacy.asp) for the most accurate reproduction.*
 
 # Apple Federal Credit Union - Privacy Policy
 
-|  Monday, February 24, 2020   
-  
 |  |  PRIVACY POLICY  
-
-
+  
+  
 * * *
 
 Apple Federal Credit Union is owned by its members and run by a board of directors you elect. You can be confident that your financial privacy is a top priority of this credit union. We are required by law to give you this privacy notice to explain how we collect, use and safeguard your personal financial information.
