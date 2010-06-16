@@ -1,48 +1,24 @@
-> *The following text is extracted and transformed from the ataricommunity.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416184417id_/http%3A//us.atari.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ataricommunity.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616135829id_/http%3A//www.atari.com/privacy) for the most accurate reproduction.*
 
-# Atari North America - Privacy
+# Privacy Policy | Atari Video Games
 
-#####  Privacy Policy
+**Q1.** | **What information does this Privacy Statement cover?**  
+**A1.** | 
 
-**ATARI ONLINE PRIVACY STATEMENT**
-
-Last updated December 17, 2007
-
-Welcome to Atari!
-
-**OUR PRIVACY COMMITMENT**
-
-[](http://www.esrb.org/confirm/atari-confirmation.jsp) Atari, Inc., and its subsidiaries and affiliates (collectively, "Atari") respect the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
-
-This Privacy Statement and the certification seal shown on this page confirms that Atari is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/). ESRB's Privacy Online Program is designed to ensure that our website's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
-
-**TABLE OF CONTENTS
-
-Q1. What information does this Privacy Statement cover?  
-Q2. What types of personally identifiable information do we collect about our guests?  
-Q3. How is your personally identifiable information used and shared?  
-Q4. What choices do you have about the collection, use, and sharing of your personally identifiable information?  
-Q5. What kinds of security measures do we take to safeguard your personally identifiable information?  
-Q6. How can you update your personal information and profile?  
-Q7. How can you ask questions, or send us comments, about this Privacy Policy?  
-Q8. How will you know if we amend this Privacy Policy?
-
-**
-
- **Q1.**|  **What information does this Privacy Statement cover?**  
----|---  
-**A1.**|  This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by Atari through any other means.
+This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by Atari through any other means.
 
 This Privacy Policy applies to use and sharing of personal information collected on and after the date that this Privacy Policy is posted.
 
 Please note that this Privacy Policy applies only to information submitted and collected online, and does not apply to information that may be collected by Atari offline. This Privacy Policy applies only to websites maintained by Atari, and not to our international affiliates (Atari in France, United Kingdom, Italy, etc.), or any websites maintained by other companies or organizations to which we link. Atari is therefore not responsible for the content or activities provided on those websites.
 
-Finally, the terms of this Privacy Policy are subject to all applicable laws.   
-  
+Finally, the terms of this Privacy Policy are subject to all applicable laws.
+
 back to top  
-**Q2.**|  **What types of personally identifiable information do we collect about our guests?**  
----|---  
-**A2.**|  We don't require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website. Personal information is information that identifies you and may be used to contact you. To offer our guests certain features on our website, we collect several types of personal information.
+  
+**Q2.** | **What types of personally identifiable information do we collect about our guests?**  
+**A2.** | 
+
+We don't require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website. Personal information is information that identifies you and may be used to contact you. To offer our guests certain features on our website, we collect several types of personal information.
 
 **Children**
 
@@ -88,12 +64,14 @@ Our websites use a variety of technical methods for tracking purposes, including
 
 Many advertisements are managed and placed on our websites by third parties. These companies are called "network advertisers". Network advertisers who place advertisements on our websites may also use cookies and web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser.
 
-Finally, once you've clicked on an advertisement and have left our Websites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.   
-  
+Finally, once you've clicked on an advertisement and have left our Websites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.
+
 back to top  
-**Q3.**|  **How is your personally identifiable information used and shared?**  
----|---  
-**A3.**|  We don't share, sell, or rent your personal information to third parties without your consent. We don't require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website.
+  
+**Q3.** | **How is your personally identifiable information used and shared?**  
+**A3.** | 
+
+We don't share, sell, or rent your personal information to third parties without your consent. We don't require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website.
 
 Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
 
@@ -121,12 +99,12 @@ From time to time, we may purchase a business or sell one or more of our busines
 
 **Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others**
 
-We will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our websites or third parties.   
-  
+We will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our websites or third parties.
+
 back to top  
-**Q4.**|  **What choices do you have about the collection, use, and sharing of your personally identifiable information?**  
----|---  
-**A4.**| 
+  
+**Q4.** | **What choices do you have about the collection, use, and sharing of your personally identifiable information?**  
+**A4.** | 
 
 As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by emailing us at [privacy@atari.com](mailto:privacy@atari.com), or contacting us via the Atari mailing address.
 
@@ -134,32 +112,40 @@ Your California Privacy Rights
 
 Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires regarding our disclosure policy, please write us:
 
-Atari, Inc.   
+Atari, Inc.  
 Attn.: Webmaster  
 417 Fifth Avenue  
 New York, NY 10016  
 (212) 726-6500  
-[privacy@atari.com](mailto:privacy@atari.com)  
+[privacy@atari.com](mailto:privacy@atari.com)
+
+back to top  
   
+**Q5.** | **What kinds of security measures do we take to safeguard your personally identifiable information?**  
+**A5.** | 
+
+The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.
+
 back to top  
-**Q5.**|  **What kinds of security measures do we take to safeguard your personally identifiable information?**  
----|---  
-**A5.**|  The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.   
+  
+**Q6.** | **How can you update your personal information and profile?**  
+**A6.** | 
+
+You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by emailing us at [privacy@atari.com](mailto:privacy@atari.com)
+
 back to top  
-**Q6.**|  **How can you update your personal information and profile?**  
----|---  
-**A6.**|  You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by emailing us at [privacy@atari.com](mailto:privacy@atari.com)  
-back to top  
-**Q7.**|  **How can you ask questions, or send us comments, about this Privacy Policy?**  
----|---  
-**A7.**|  If you have questions or wish to send us comments about this Privacy Policy, please send us an e-mail us with your questions or comments to call or write us at:
+  
+**Q7.** | **How can you ask questions, or send us comments, about this Privacy Policy?**  
+**A7.** | 
+
+If you have questions or wish to send us comments about this Privacy Policy, please send us an e-mail us with your questions or comments to call or write us at:
 
 Atari, Inc.  
 Attn.: Webmaster  
 417 Fifth Avenue  
 New York, NY 10016  
 (212) 726-6500  
-[privacy@atari.com](https://web.archive.org/web/20090416184417id_/http://www.atari.com/us/privacy@atari.com)
+[privacy@atari.com](mailto:privacy@atari.com)
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
@@ -169,13 +155,15 @@ ESRB
 Attn.: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
-[privacy@esrb.org](mailto:privacy@esrb.org)  
-  
-back to top  
-**Q8.**|  **How will you know if we amend this Privacy Policy?**  
----|---  
-**A8.**|  We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.
+[privacy@esrb.org](mailto:privacy@esrb.org)
 
-Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.   
+back to top  
   
+**Q8.** | **How will you know if we amend this Privacy Policy?**  
+**A8.** | 
+
+We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.
+
+Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+
 back to top
