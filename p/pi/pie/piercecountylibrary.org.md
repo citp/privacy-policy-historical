@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piercecountylibrary.org privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302073152id_/http%3A//www.piercecountylibrary.org/about-us/policies/web-site-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piercecountylibrary.org privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617011806id_/http%3A//www.piercecountylibrary.org/about-us/policies/web-site-privacy.htm) for the most accurate reproduction.*
 
 # Pierce County Library > Web site Privacy Policy
 
