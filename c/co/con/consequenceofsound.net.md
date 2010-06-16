@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127075842id_/http%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616065959id_/http%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy « Consequence of Sound
 
 ### General:
 
@@ -18,6 +18,8 @@ This Website is operated in the United States of America. If you are located out
 
 We collect information from you when you register on our Website, comment on our Website, send us an email..
 
+We collect information from you when you register and/or participate in Contests, Giveaways, and Promotions.
+
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
@@ -26,8 +28,8 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 For further information, consult the privacy policies of:
 
-  * [Google AdSense](https://www.google.com/adsense/support/bin/answer.py?hl=en&answer=100557)
-  * [IndieClick](http://www.indieclick.com/)
+[Google AdSense](https://www.google.com/adsense/support/bin/answer.py?hl=en&answer=100557)[IndieClick](http://www.indieclick.com/)
+
 
 
 
@@ -35,23 +37,22 @@ For further information, consult the privacy policies of:
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience  
+To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-
-  * To improve our Website  
+To improve our Website  
 (we continually strive to improve our Website offerings based on the information and feedback we receive from you)
 
+To administer a contest, promotion, survey or other site feature
 
-  * To administer a contest, promotion, survey or other site feature
+To send periodic emails
 
-
-  * To send periodic emails  
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+
+If you decide to opt-in to our mailing list, you will receive weekly emails (newsletters) that may include company news, updates, related product or service information, etc. All individuals who participate in CoS Contests, Giveaways, and other Promotions will automatically be included in email updates. Individuals will be given option to opt out of mailing list at their discretion.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -89,7 +90,7 @@ By using our Website, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on July 26, 2009.
+This policy was last modified on March 28, 2010.
 
 ### Contacting Us
 
@@ -97,5 +98,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 [http://consequenceofsound.net](http://consequenceofsound.net/)  
 [info@consequenceofsound.net](mailto:info@consequenceofsound.net)
-
-**Share this story!:** These icons link to social bookmarking sites where readers can share and discover new web pages.
