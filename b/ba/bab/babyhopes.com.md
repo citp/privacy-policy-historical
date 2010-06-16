@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyhopes.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027132040id_/http%3A//www.babyhopes.com/pages.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhopes.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616074915id_/http%3A//www.babyhopes.com/privacy-and-security_policy.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy - BabyHopes.com
 
