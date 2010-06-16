@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steinberg.net privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429023222id_/http%3A//www.steinberg.net/en/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinberg.net privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617004344id_/http%3A//www.steinberg.net/en/extras/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Steinberg Media Technologies GmbH :: www.steinberg.net
+# Privacy Policy : | http://www.steinberg.net/
 
 ## Personal information
 
@@ -57,4 +57,4 @@ By means of his public key you can send the data protection commissioner your co
 
 [Download Public Key](http://www.steinberg.net/fileadmin/redaktion/Misc/PGP/Lindner_ics.asc "Initiates file download")
 
-_Last updated: July 2008_
+Last updated: July 2008 
