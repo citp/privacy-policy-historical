@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ihiremarketing.com privacy policy that was archived on 2009-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091216054053id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ihiremarketing.com privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616162143id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -23,7 +23,7 @@
 	<tr valign="top"> 
 		<td rowspan="3" height="100%" align="left" background="http://www.iHireMarketing.com/images/_MKT_sideleft.jpg"><img src="http://www.iHireMarketing.com/images/_MKT_tlc_a.jpg" width="29" height="124" border="0"><br><img src="http://www.iHireMarketing.com/images/_MKT_tlc_b.jpg" width="29" height="29" border="0"></td>
 		<td width="50%" background="http://www.iHireMarketing.com/images/_MKT_tlslice.jpg" align="center"><img src="http://www.iHireMarketing.com/images/clear.gif" width="1" height="1" border="0"></td>
-		<td align="left"><img src="http://www.iHireMarketing.com/images/RotatingImages/MKT1.jpg" width="232" height="164" border="0"></td>
+		<td align="left"><img src="http://www.iHireMarketing.com/images/RotatingImages/MKT5.jpg" width="232" height="164" border="0"></td>
 		<td align="right">
 			<table width="460" height="164" cellspacing="0" cellpadding="0" border="0" id="Table4">
 				<tbody><tr><td colspan="2"><img src="http://www.iHireMarketing.com/images/_MKT_HeaderTitle.jpg" width="460" height="39" border="0"></td></tr>
@@ -129,7 +129,7 @@
 	<tr valign="top"><td height="100%" colspan="4" align="center"><img src="http://www.iHireMarketing.com/images/clear.gif" width="361" height="10" border="0" alt="iHireLLC - iHireMarketing"></td></tr>
 	<tr valign="bottom">
 		<td align="left" background="http://www.iHireMarketing.com/images/_MKT_sideleft.jpg"><img src="http://www.iHireMarketing.com/images/_MKT_blcorner.jpg" width="29" height="29" border="0" alt="iHireLLC - iHireMarketing"></td>
-		<td class="COPYWRITE" colspan="4" align="center" width="100%"><strong>1999 - 2009 iHire LLC, All Rights Reserved.</strong><br>
+		<td class="COPYWRITE" colspan="4" align="center" width="100%"><strong>1999 - 2010 iHire LLC, All Rights Reserved.</strong><br>
 		Candidate Toll Free Customer Service: <strong>866-238-0161</strong><br>Employer Toll Free Customer Service: <strong>877-798-4854</strong><br><a href="http://www.iHireMarketing.com/Privacy.asp"><strong>Privacy Policy</strong></a><br><img src="http://www.iHireMarketing.com/images/clear.gif" border="0" width="1" height="1" alt="iHireLLC - iHireMarketing"><br><img src="http://www.iHireMarketing.com/images/_MKT_bslice.jpg" border="0" width="100%" height="16" alt="iHireLLC - iHireMarketing"></td>
 		<td align="right" background="http://www.iHireMarketing.com/images/_MKT_sideright.jpg"><img src="http://www.iHireMarketing.com/images/_MKT_brcorner.jpg" width="29" height="29" border="0" alt="iHireLLC - iHireMarketing"></td>
 	</tr>
@@ -143,7 +143,7 @@
 <script language="JavaScript" type="text/javascript">
     /* You may give each page an identifying name, server, and channel on
     the next lines. */
-    var myReportSuite = '';
+    var myReportSuite = 'ihirejobnetwork';
 </script>
 
 <script language="javascript" src="Javascript/s_code.js"></script>
@@ -154,7 +154,7 @@ http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript">
     /* You may give each page an identifying name, server, and channel on
     the next lines. */
-    var sServer = 'WEBSRV110';
+    var sServer = 'WEBSRV102';
     var sPath = window.location.pathname;
     var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
     sPage = sPage.toLowerCase();
@@ -211,8 +211,13 @@ if (sPage.indexOf("site_map") != -1) {
 
 //User login status
 s.prop15 = 'Logged Out';
-
-
+//User AppID
+s.eVar27 = 'MKT';
+s.prop12 = 'MKT';
+s.eVar28 = '';
+s.prop13 = '';
+s.eVar29 = '';
+s.prop14 = '';
 //Check fo registration
 //Employer
 if (typeof (GET["EREG"]) != 'undefined') {
@@ -268,8 +273,21 @@ if (typeof (GET["JobID"]) == 'undefined') {
 }
 //Check for resume upload
 if (typeof (GET["Uploaded"]) != 'undefined') {
+
+    if (typeof (GET["Rsearch"]) != 'undefined') {
+    
+    s.events = "event6,event21";
+    s.prop18 = GET["Method"];
+    s.eVar26 = GET["Method"];
+} else {
+    
     s.events = "event6";
     s.prop18 = GET["Method"];
+    s.eVar26 = GET["Method"];
+    
+    }
+    
+    
 }
 //Check for campaign
 
@@ -278,13 +296,49 @@ if (typeof (GET["campaign"]) != 'undefined') {
     s.campaign = GET["campaign"];
 
 }
+
+if (typeof (GET["Campaign"]) != 'undefined') {
+
+    s.campaign = GET["Campaign"];
+
+}
 if (typeof (GET["EI"]) != 'undefined') {
 
-    if (GET["EI"] = "True") {
+    if (GET["EI"] == "True") {
 
     s.campaign = "EmploymentInsider";
 
 }
+
+}
+
+if (typeof (GET["CMPID"]) != 'undefined') {
+
+    s.campaign = GET["CMPID"];
+
+}
+
+if (typeof (GET["RIID"]) != 'undefined') {
+
+    s.eVar4 = GET["RIID"];
+
+}
+
+if (typeof (GET["MID"]) != 'undefined') {
+
+    s.eVar30 = GET["MID"];
+
+}
+
+if (typeof (GET["CID"]) != 'undefined') {
+
+    s.eVar28 = GET["CID"];
+
+}
+
+if (typeof (GET["EID"]) != 'undefined') {
+
+    s.eVar29 = GET["EID"];
 
 }
 
@@ -306,7 +360,7 @@ s.server = sServer;
 s.channel = document.title;
 s.pageType = "";
 s.prop4 = document.domain;
-    
+
 </script>
     
      
@@ -328,7 +382,7 @@ s.prop4 = document.domain;
 <script language="JavaScript" type="text/javascript"><!--
     if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
 //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://.122.2O7.net/b/ss//1/H.20.3--NS/0"
+src="http://ihirejobnetwork.122.2O7.net/b/ss/ihirejobnetwork/1/H.20.3--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.3. -->
 
