@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adrive.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406082507id_/http%3A//www.adrive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrive.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616132137id_/http%3A//www.adrive.com/privacy) for the most accurate reproduction.*
 
 # ADrive.com – 50GB of Free Online Storage & Backup
 
   |  | 
 
-(Last Updated: July 2, 2008)
+(Last Updated: April 8, 2009)
 
 This Privacy Policy statement discloses ADrive's information sharing practices and is incorporated into and is subject to the ADrive Terms of Use. By entering into the Agreement, you expressly consent to ADrive's use and disclosure of Your personal information in accordance with this Privacy Policy. 
 
@@ -25,4 +25,5 @@ This Privacy Policy statement discloses ADrive's information sharing practices a
 **o.   Choice/Opt-out.** You may opt-out of having Your information used for purposes not directly related to ADrive's services at the point where we ask for the information. Users who no longer wish to receive promotional materials from our partners may opt-out of receiving these communications by replying with unsubscribe in the subject line in the electronic mail or electronic mail us at support@adrive.com.  
 **p.   Notification of Changes.** If ADrive decides to change this privacy policy, it will post those changes so Users are always aware of what information ADrive collects, how it uses it, and under which circumstances, if any, it is disclosed. If at any point ADrive decides to use personally identifiable information in a manner different from that stated at the time it was collected, ADrive will notify You by way of electronic mail. You will have a choice as to whether ADrive may use Your information in this different manner. Otherwise, ADrive will use information in accordance with the privacy policy under which the information was collected.  
 **q.   No Warranties.** Due to technical, legal and practical limitations, ADrive cannot warrant and does not guarantee, and You should not expect, that all of Your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. ADrive may disclose information to governmental authorities or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. You authorize ADrive to disclose any information about You to law enforcement or other government officials as ADrive, in its sole discretion, believes necessary, prudent or appropriate, in connection with an investigation of fraud, intellectual property infringement, or other activity that is illegal or may expose ADrive to legal liability.  
+**r.   Advertising.** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/managing/opt_out.asp).   
 
