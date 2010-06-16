@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tor.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192944id_/http%3A//www.tor.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tor.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617012030id_/http%3A//www.tor.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203) for the most accurate reproduction.*
 
 # Tor.com / Science fiction and fantasy / Privacy Notice
 
@@ -9,29 +9,29 @@
 
 We at Holtzbrinck Publishers, LLC, doing business as Macmillan, (“we” or “Macmillan”) respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect on [www.Tor.com](http://www.us.macmillan.com/) (the “Site”), how we may use that information, and with whom we may share it. This Privacy Notice also describes the measures we take to protect your personal information. We also describe the choices you can make about how we collect and use the personal information you provide to us, as well as personal information that we may share with third parties. We also discuss how you can update your personal information, contact us with questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices or this Website. This Privacy Notice does not include information about collection and use practices on other Macmillan branded Websites. Please see the privacy notices on those other sites for descriptions of their practices.
 
-  * Information We Collect
-    * _Joining the www.Tor.com “My World” Community_
-    * _Newsletters and Other Information_
-    * _Other Distributed Content_
-    * Ordering Our Products 
-    * _Surveys and Questionnaires_
-    * _Sweepstakes, Contests and Promotions_
-    * _User Generated Content_
-    * _Blogs, Forums and Discussion Groups_
-    * _Tell A Friend_
-    * _“Contact Us”_
-    * Passive Collection of Information
+  * [Information We Collect](http://www.tor.com/index.php#A)
+    * [_Joining the www.Tor.com “My World” Community_](http://www.tor.com/index.php#B)
+    * [_Newsletters and Other Information_](http://www.tor.com/index.php#C)
+    * [_Other Distributed Content_](http://www.tor.com/index.php#D)
+    * [Ordering Our Products ](http://www.tor.com/index.php#U)
+    * _[Surveys and Questionnaires](http://www.tor.com/index.php#E)_
+    * _[Sweepstakes, Contests and Promotions](http://www.tor.com/index.php#F)_
+    * [_User Generated Content_](http://www.tor.com/index.php#G)
+    * [_Blogs, Forums and Discussion Groups_](http://www.tor.com/index.php#H)
+    * [_Tell A Friend_](http://www.tor.com/index.php#I)
+    * [_“Contact Us”_](http://www.tor.com/index.php#J)
+    * [Passive Collection of Information](http://www.tor.com/index.php#K)
 
 
-  * How We Use Information We Collect
-  * How We Share Information
-  * Links to Other Web Sites
-  * Children’s Privacy
-  * Security
-  * Your Choices
-  * www.Tor.com Accounts 
-  * Updates to This Privacy Notice
-  * How to Contact Us
+  * [How We Use Information We Collect](http://www.tor.com/index.php#L)
+  * [How We Share Information](http://www.tor.com/index.php#M)
+  * [Links to Other Web Sites](http://www.tor.com/index.php#N)
+  * [Children’s Privacy](http://www.tor.com/index.php#O)
+  * [Security](http://www.tor.com/index.php#P)
+  * [Your Choices](http://www.tor.com/index.php#Q)
+  * [www.Tor.com Accounts ](http://www.tor.com/index.php#R)
+  * [Updates to This Privacy Notice](http://www.tor.com/index.php#S)
+  * [How to Contact Us](http://www.tor.com/index.php#T)
 
 
 
