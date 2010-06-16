@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220222748id_/http%3A//www.dhs.gov/xutil/gc_1157139158971.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616221436id_/http%3A//www.dhs.gov/xutil/gc_1157139158971.shtm) for the most accurate reproduction.*
 
 # DHS | Web Site Privacy Policy
+
+## Privacy Office U.S. Department of Homeland Security
+
+The Privacy Office works to minimize the impact on the individual’s privacy, particularly the individual’s personal information and dignity, while achieving the mission of the Department of Homeland Security. [Read More >>](https://web.archive.org/xabout/structure/editorial_0338.shtm)
+
+## More from Homeland Security
+
+  * [Linking to Us](https://web.archive.org/xutil/gc_1157314911749.shtm)
+  * [Terms of Use](https://web.archive.org/xutil/gc_1157140900398.shtm)
+  * [More Important Notices](https://web.archive.org/xutil/notices.shtm)
+
+
 
 [](https://web.archive.org/files/programs/Copy_of_press_release_0046.shtm)
 
@@ -69,4 +81,4 @@ The information posted on the Department of Homeland Security Web site includes 
 
 Back To Top
 
-This page was last reviewed/modified on August 28, 2009.
+This page was last reviewed / modified on August 28, 2009.
