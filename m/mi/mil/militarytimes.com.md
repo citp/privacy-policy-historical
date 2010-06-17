@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the militarytimes.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002412id_/http%3A//www.militarytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militarytimes.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617060817id_/http%3A//www.militarytimes.com/privacy) for the most accurate reproduction.*
 
 # Military News, benefits, careers, photos, discussions - Military Times HOME
 
