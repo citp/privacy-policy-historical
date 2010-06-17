@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217043630id_/http%3A//www.travelzoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617180749id_/http%3A//www.travelzoo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelzoo
 
@@ -18,13 +18,13 @@ Since 1998, Travelzoo has been a member of the TRUSTe program. This statement di
 
 
 
-Questions regarding this statement should be directed to the Travelzoo [site coordinator](https://web.archive.org/help/suggestions/). If the Web site has not responded to your inquiry within seven days or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) [(www.truste.org/consumers/watchdog_complaint.php)](http://www.truste.org/consumers/watchdog_complaint.php).
+Questions regarding this statement should be directed to the Travelzoo [site coordinator](http://www.travelzoo.com/help/suggestions/). If the Web site has not responded to your inquiry within seven days or your inquiry has not been satisfactorily addressed, contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php) [(www.truste.org/consumers/watchdog_complaint.php)](http://www.truste.org/consumers/watchdog_complaint.php).
 
 ### Travelzoo’s Privacy Practices 
 
 Travelzoo Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Travelzoo’s Web sites.
 
-Travelzoo publishes various e-mail newsletters. Users can sign up for newsletters from our home page by providing their e-mail address, country and zip code. This information will not be shared with third parties. Recipients can edit their personal information or manage newsletter subscriptions by visiting the [edit profile](https://web.archive.org/profiles/) page. Information on how to unsubscribe is also included in every newsletter. 
+Travelzoo publishes various e-mail newsletters. Users can sign up for newsletters from our home page by providing their e-mail address, country and zip code. This information will not be shared with third parties. Recipients can edit their personal information or manage newsletter subscriptions by visiting the [edit profile](http://www.travelzoo.com/profiles/) page. Information on how to unsubscribe is also included in every newsletter. 
 
 Travelzoo uses cookies to deliver content specific to your interests. The cookie is a small text file that resides on your hard drive. It is used to retrieve stored information that you knowingly provided us such as name, e-mail address and zip code in order to personalize your use of Travelzoo’s Web sites. Travelzoo also works with third parties with whom we have a service agreement (“Service Providers”) who use cookies to aid in the reporting of aggregate site usage statistics for Travelzoo’s Web sites. Such statistics are not linked to personally identifiable information.
 
