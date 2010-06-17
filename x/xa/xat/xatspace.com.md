@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xatspace.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318105248id_/http%3A//www.xat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xatspace.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617092710id_/http%3A//www.xat.com/privacy.html) for the most accurate reproduction.*
 
 # xat.com Privacy Policy
 
@@ -40,7 +40,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 ## Contact, Corrections and Updates
 
-If you have any questions or comments about this policy, please contact info@xat.com.
+If you have any questions or comments about this policy, please contact http://xat.com/Support.
 
 ## Other Websites and Services
 
