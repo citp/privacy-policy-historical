@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the epicurious.com privacy policy that was archived on 2009-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217174453id_/http%3A//www.epicurious.com/services/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epicurious.com privacy policy that was archived on 2010-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617192231id_/http%3A//www.epicurious.com/services/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
     
@@ -38,7 +38,6 @@ Privacy Policy
 
 
 
-<script type="text/javascript" src="/rd_scripts/css_overrides.js"></script><link rel="stylesheet" type="text/css" media="screen, print" href="/styles/legacy/mac_safari.css">
 <link rel="stylesheet" type="text/css" media="print" href="/styles/print.css">
 <link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -47,19 +46,34 @@ Privacy Policy
 <meta name="MSSmartTagsPreventParsing" content="true">
 <meta name="author" content="CondeNet">
 <meta name="Copyright" content="Copyright (c) 2008 CondeNet">
+
+
+
+
+
+
 <script type="text/javascript" src="/rd_scripts/main.js"></script>
+<script type="text/javascript" src="/rd_scripts/css_overrides.js"></script><link rel="stylesheet" type="text/css" media="screen, print" href="/styles/legacy/mac_safari.css">
+<script type="text/javascript" src="/rd_scripts/ecom/ecomfw.min.js"></script>
+
+
+
+<script type="text/javascript">
+    CNP.ecom.start({host: "magazine.epicurious.com", cnd: false});
+</script>
 <script type="text/javascript" src="/scripts/recipeAdUtils.js" language="javascript1.3"></script>
 <script type="text/javascript" src="/rd_scripts/popMaster.js"></script>
 <script type="text/javascript" src="/rd_scripts/subscription.js"></script>
 <script type="text/javascript" src="/scripts/registration.js"></script>
+<script type="text/javascript" src="/rd_scripts/rounder2.js"></script>
 <script type="text/javascript" src="/dwr/engine.js"></script>
+
 
 <script type="text/javascript" src="/scripts/prototype-1.4.0.js"></script>
 
 
 
 
-<script type="text/javascript" src="/rd_scripts/rounder2.js"></script>
 <link rel="stylesheet" type="text/css" media="screen" href="/styles/rounder2.css">
 <link rel="stylesheet" href="/styles/modules/Slider.css" type="text/css" media="screen">
 <script type="text/javascript" src="/rd_scripts/modules/Slider.js"></script>
@@ -135,7 +149,7 @@ Privacy Policy
     </ul>
 
     <ul class="user-session" id="notlogged" style="display: block;">
-        <li>Not a member?  To save, rate, and share recipes, <a href="/user/registration">join now</a>!  Already a member?  <a onclick="window.location='/user/login'" onmouseover="this.style.cursor='pointer'">sign in</a></li>
+        <li>Not a member?  To save, rate, and share recipes, <a href="/user/registration">join now</a>!  Already a member?  <a href="/user/login">sign in</a></li>
     </ul>     
     <script type="text/javascript" src="/rd_scripts/session.js" language="JavaScript1.2"></script>
 
@@ -154,15 +168,16 @@ Privacy Policy
 
     
     <div id="headerSpace"></div>
-    <iframe name="supernav_iframe" id="supernav_html" src="/nav/07redesign/supernav.html" scrolling="no" frameborder="0" width="990"></iframe>
+    <span id="secnav_start"></span><iframe name="supernav_iframe" id="supernav_html" src="/nav/07redesign/supernav.html" scrolling="no" frameborder="0" width="990"></iframe>
     <span id="navspacer">&nbsp;</span>
     
 
 
-	<div id="pushDownAd">
-		
-	</div>
-	<script type="text/javascript" language="JavaScript">detectPushdownAd();</script>
+    <div id="pushDownAd">
+        
+    </div>
+    <a id="epiAppStorePromo" class="appStorePromoHidden" href="itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312101965&amp;mt=8&amp;s=143441">get the epicurious iPhone app</a>
+    <script type="text/javascript" language="JavaScript">detectPushdownAd();displayEpiAppStorePromo();</script> 
 
         <div class="contentContainer" id="primary">
             <img id="printer_friendly_global" src="/rd_images/printer_friendly/printer_friendly_epi_logo.gif">
@@ -184,6 +199,7 @@ Privacy Policy
 
             
             
+                
                 <div id="primary_content">
                     <div id="pc_extra_info"></div>
                     <div id="pc_top">
@@ -208,13 +224,10 @@ Privacy Policy
     
         
         
+
         
         
-        
-        
-        
-        
-        
+
         
         
         
@@ -233,25 +246,27 @@ Privacy Policy
         
 
         
-
-
-        
-        
         
 
-        
         
 
         
         
         
+
+        
+        
+
+        
+        
+
         
             <h1><span>Privacy Policy</span></h1>
         
 
         
         
-        
+
     
 
     
@@ -269,7 +284,7 @@ Privacy Policy
 
     
     
-     
+    
     
 
     <p class="source">
@@ -314,6 +329,7 @@ Privacy Policy
 
 </div>
 
+                            
                             <div class="sponsorAd">
                                 
 
@@ -359,7 +375,7 @@ if (typeof tile_num == "undefined"){ tile_num=1; } else { tile_num++; }
 placement = '120x60';
 sysparams = 'sz=' + placement + ';tile=' + tile_num + ';ord=' + condenetads_ord;
 
-adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
+	adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
 
 
 dartZone = "services";
@@ -367,6 +383,9 @@ dartZoneVar = getDartZoneCookie("dartZone");
 if(dartZoneVar != null){
     dartZone = dartZoneVar;
 }
+
+var dartSiteZone=dartSiteModifier.setSite('epi.dart/'+ dartZone + ';');
+dartSite = dartSiteZone.split('/')[0];
 
 var keywordsOverride = getDartZoneCookie("keywords");
 if (keywordsOverride) {
@@ -377,17 +396,16 @@ var dessertIndex = referer.indexOf('/recipesmenus/desserts');
 if (dessertIndex != -1 && dartZone == 'recipedetail') {
      dartZone = 'rm.desserts.recipe';
 }
-document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/epi.dart/'+dartZone+';abr=!webtv;dcopt=ist;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
+document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;dcopt=ist;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-    document.write('<a href="http://ad.doubleclick.net/jump/epi.dart/'+dartZone+';'+adTargetingParameters+sysparams+'?" target="_blank">');
-    document.write('<img src="http://ad.doubleclick.net/ad/epi.dart/'+dartZone+';'+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
+    document.write('<a href="http://ad.doubleclick.net/jump/'+dartSiteZone+''+adTargetingParameters+sysparams+'?" target="_blank">');
+    document.write('<img src="http://ad.doubleclick.net/ad/'+dartSiteZone+''+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
 }
-dartSite = "epi.dart";
 dartKeywords = "kw=services;kw=privacypolicy";
 dartCalls[dartCalls.length] = sysparams.split(';');
 
 //-->
-</script><noscript><a href="http://ad.doubleclick.net/jump/epi.dart/services;kw=services;kw=privacypolicy;sz=120x60;tile=2;ord=373128229?" target="_blank"><img src="http://ad.doubleclick.net/ad/epi.dart/services;kw=services;kw=privacypolicy;sz=120x60;tile=2;ord=373128229?" border="0" alt="" /></a></noscript>
+</script><noscript><a href="http://ad.doubleclick.net/jump/'+dartSiteZone+'kw=services;kw=privacypolicy;sz=120x60;tile=2;ord=247750866?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=services;kw=privacypolicy;sz=120x60;tile=2;ord=247750866?" border="0" alt="" /></a></noscript>
 <!-- DART AD END -->
 
 
@@ -396,8 +414,8 @@ dartCalls[dartCalls.length] = sysparams.split(';');
     if (debugMode) {
         document.write('<div class="adDebugLabel">');
         document.write("<b>adStat</b>: {dartSite = epi.dart, dartZone = services, dartKeywords = [kw=services;kw=privacypolicy], statKeywords = [kw=services&amp;kw=privacypolicy], enabled = true}<br/>");
-        document.write('<b>script</b>: http://ad.doubleclick.net/adj/epi.dart/'+dartZone+';abr=!webtv;dcopt=ist;'+adTargetingParameters+sysparams+'?<br/>');
-        document.write('<b>image</b>: http://ad.doubleclick.net/ad/epi.dart/'+dartZone+';'+adTargetingParameters+sysparams+'?');
+        document.write('<b>script</b>: http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;dcopt=ist;'+adTargetingParameters+sysparams+'?<br/>');
+        document.write('<b>image</b>: http://ad.doubleclick.net/ad/'+dartSiteZone+''+adTargetingParameters+sysparams+'?');
         document.write('</div> <!-- close adDebugLabel -->');
         document.write('</div> <!-- close adDebug -->');
     }
@@ -514,16 +532,29 @@ Wilmington, DE 19801<br>
         
         <div id="headerContainer" style="">
                <div id="site_heading">
-        <a id="site_name" href="/"><span class="seo">Epicurious, for people who love to eat</span></a>  
-        <ul id="home_magazine_nav">		
+        <a id="site_name" href="/"><span class="seo">Epicurious, for people who love to eat</span></a>
+        
+        <ul id="home_magazine_nav">
+            
+			
 			<li>
                 <a id="hmn_part_recipes"><span class="seo">Parner Recipes</span></a>
-            </li>		
+            </li>
+			
 			<li>
                 <a id="hmn_bonappetit2" href="http://www.bonappetit.com" target="_blank"><span class="seo">Bon Appetit</span></a>
                 <ul id="hmn_ba_lnks" style="color:#eee;">
-				    <li><a href="javascript:subLink(ba_hp_header)" style="color:#eee;font-size:10px;">subscribe</a></li>
-					<li>&nbsp;·&nbsp;</li>
+                    
+                    <li>
+                        <div id="global_header_subscribeLink"><a style="color: rgb(238, 238, 238); font-size: 10px;" href="https://w1.buysub.com/loc/BNA/ATGFailsafeEpi" target="_blank"><span>subscribe</span></a></div>
+                        <script type="text/javascript">
+                                CNP.ecom.request({
+                                pid:'global_header_subscribeLink',
+                                tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_global_header_subscribeLink',
+                                params:{}});
+                        </script>
+                    </li>
+                    <li>&nbsp;·&nbsp;</li>
                     <li><a href="/recipesmenus/bonappetit/recipes" target="_blank" style="color:#eee;font-size:10px;">view recipes</a></li>
                 </ul>
             </li>
@@ -533,28 +564,31 @@ Wilmington, DE 19801<br>
                 <ul id="hmn_gmt_lnks" style="color:#eee;">
                     <li><a href="/recipesmenus/gourmet/recipes?browseByAtt=&amp;sort=1" target="_blank" style="color:#eee;font-size:10px;">view recipes</a></li>
                 </ul>
-            </li>			
+            </li>
+	
         </ul>
     </div>
 
-               <div id="navigation_area">      
+            <!-- /tiles/header/navigation_area.html -->
+ 
+    <div id="navigation_area">      
         <div id="primary_navigation">
             <ul>
                 <li><a id="recipesandmenus" href="/recipesmenus/"><span class="seo">Recipes &amp; Menus</span></a>
                     <div class="trigger_region">
-                        <a class="snav_trigger" onfocus="blur(this)"></a>
+                        <a class="snav_trigger" onfocus="blur(this)" style="display: block;"></a>
                     </div>
                 </li>
                 
                 <li><a id="articlesandguides" href="/articlesguides/"><span class="seo">Articles</span></a>
                     <div class="trigger_region">
-                        <a class="snav_trigger" onfocus="blur(this)"></a>
+                        <a class="snav_trigger" onfocus="blur(this)" style="display: block;"></a>
                     </div>
                 </li>
                 
                 <li><a id="community_rgn" href="/community/"><span class="seo">Community &amp; MyEpi</span></a>
                     <div class="trigger_region">
-                        <a class="snav_trigger" onfocus="blur(this)"></a>
+                        <a class="snav_trigger" onfocus="blur(this)" style="display: block;"></a>
                     </div>
                 </li>
             </ul>
@@ -581,12 +615,13 @@ Wilmington, DE 19801<br>
                 <li><a href="/articlesguides/blogs/editor">The Epi-Log</a></li>
 				<li><a href="/articlesguides/blogs/80dishes">80 global dishes</a></li>
 				<!-- <li><a href="/articlesguides/blogs/tgiving">thanksgiving countdown</a></li> -->
-                <li><a href="/articlesguides/holidays">Holidays &amp; Celebrations</a></li>
-                <li><a href="/articlesguides/entertaining">Entertaining</a></li>
-				<li><a href="/articlesguides/everydaycooking">everyday cooking</a></li>
-                <li><a href="/articlesguides/healthy">Healthy</a></li>
-				<li><a href="/articlesguides/seasonalcooking">seasonal cooking</a></li>
+                <li><a href="/articlesguides/holidays">Holidays &amp; Parties</a></li>
+				<li><a href="/articlesguides/everydaycooking">Everyday Cooking</a></li>
+                <li><a href="/articlesguides/healthy">Healthy Cooking</a></li>
+				<li><a href="/articlesguides/seasonalcooking">Seasonal Cooking</a></li>
                 <li><a href="/articlesguides/howtocook">How To Cook</a></li>
+				<li><a href="/articlesguides/cuisines">Cuisines</a></li>
+                <li><a href="/articlesguides/entertaining">Entertaining</a></li>				
                 <li><a href="/articlesguides/diningtravel">Dining &amp; Travel</a></li>
                 <li><a href="/articlesguides/kitchenequipment">Kitchen &amp; Equipment</a></li>
                 <li><a href="/articlesguides/chefsexperts">Chefs &amp; Experts</a></li>
@@ -596,7 +631,7 @@ Wilmington, DE 19801<br>
             <ul id="community_dropdown">
 			<li><a href="/community/myepi/myprofile">my epi profile</a></li>
 			<li><a href="/community/memberrecipes/submitarecipe">add your own recipes</a></li>
-			<li><a href="/community/contest">recipe contest</a></li>
+			<li><a href="/community/events/contest/">contest</a></li>
 			<li><a href="/community/myepi/profile/findmembers">find members</a></li>
 			<li><a href="/community/memberrecipes">member recipes</a></li>
 			<li><a href="/video/user-videos-our-picks">user-submitted video</a></li>
@@ -613,15 +648,17 @@ Wilmington, DE 19801<br>
                 <li><a href="/recipesmenus/advancedsearch">Advanced Search</a>&nbsp;|&nbsp;</li>
                 <li><a href="/recipesmenus/browse">Browse</a></li>
             </ul>
+			
             <ul id="articlesandguides_supplement">
-                <li><a href="/articlesguides/holidays/christmas/christmas">christmas guide</a></li>
+                <li><a href="/articlesguides/holidays/grilling/grilling">grilling &amp; barbecue guide</a></li>
             </ul>
+
             <ul id="community_supplement">
                 <li><a href="/community/myepi/myrecipebox">My Recipe Box</a>&nbsp;|&nbsp;</li>
                 <li><a href="/community/myepi/myprofile">my profile</a></li>
             </ul>
         </div>
-    
+                          
         <div id="auxiliary_navigation">       
             <ul id="auxiliary_list">
                 <li style="width:95px; height:19px; margin-left: -5px;"><a href="/video" id="aux_cvideo"><span class="seo">cooking videos</span></a></li>
@@ -654,9 +691,17 @@ Wilmington, DE 19801<br>
         
             <div id="magazine_nav">            
                 <ul>
-                    <li><a id="bonappetit" href="javascript:subLink(ba_header)" target="_blank"><span class="seo">Bon Appétit Magazine</span></a></li>
-                    <li><a class="subscribe" href="javascript:subLink(ba_header)"><span class="seo">Subscribe</span></a></li>
-                    <li><a class="viewbaRecipe" href="/recipesmenus/bonappetit/recipes" target="_blank"><span class="seo">view recipes</span></a></li>
+                    <li><a id="bonappetit" href="http://www.bonappetit.com/" target="_blank"><span class="seo">Bon Appétit Magazine</span></a></li>
+                    <li>
+                        <div id="global_navBar"><a class="subscribe" href="https://w1.buysub.com/loc/BNA/ATGFailsafeEpi" target="_blank"></a></div>
+                        <script type="text/javascript">
+                                CNP.ecom.request({
+                                pid:'global_navBar',
+                                tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_global_navBar',
+                                params:{}});
+                        </script>
+                    </li>
+                    <li><a class="viewbaRecipe" href="/recipesmenus/bonappetit/recipes"><span class="seo">view recipes</span></a></li>
                     <li><a class="visit" href="http://www.bonappetit.com/" target="_blank"><span class="seo">visit site</span></a></li>
                 </ul>        
             </div>
@@ -668,6 +713,7 @@ Wilmington, DE 19801<br>
         
     </div><!-- end navigation area -->  
 <script type="text/javascript" language="JavaScript" src="/rd_scripts/header/epi_navigation.js"></script>
+
 
 
 
@@ -715,7 +761,7 @@ if (typeof tile_num == "undefined"){ tile_num=1; } else { tile_num++; }
 placement = '728x90';
 sysparams = 'sz=' + placement + ';tile=' + tile_num + ';ord=' + condenetads_ord;
 
-adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
+	adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
 
 
 dartZone = "services";
@@ -723,6 +769,9 @@ dartZoneVar = getDartZoneCookie("dartZone");
 if(dartZoneVar != null){
     dartZone = dartZoneVar;
 }
+
+var dartSiteZone=dartSiteModifier.setSite('epi.dart/'+ dartZone + ';');
+dartSite = dartSiteZone.split('/')[0];
 
 var keywordsOverride = getDartZoneCookie("keywords");
 if (keywordsOverride) {
@@ -733,17 +782,16 @@ var dessertIndex = referer.indexOf('/recipesmenus/desserts');
 if (dessertIndex != -1 && dartZone == 'recipedetail') {
      dartZone = 'rm.desserts.recipe';
 }
-document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/epi.dart/'+dartZone+';abr=!webtv;kw=top;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
+document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;kw=top;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-    document.write('<a href="http://ad.doubleclick.net/jump/epi.dart/'+dartZone+';kw=top;'+adTargetingParameters+sysparams+'?" target="_blank">');
-    document.write('<img src="http://ad.doubleclick.net/ad/epi.dart/'+dartZone+';kw=top;'+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
+    document.write('<a href="http://ad.doubleclick.net/jump/'+dartSiteZone+'kw=top;'+adTargetingParameters+sysparams+'?" target="_blank">');
+    document.write('<img src="http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=top;'+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
 }
-dartSite = "epi.dart";
 dartKeywords = "kw=services;kw=privacypolicy";
 dartCalls[dartCalls.length] = sysparams.split(';');
 
 //-->
-</script><noscript><a href="http://ad.doubleclick.net/jump/epi.dart/services;kw=top;kw=services;kw=privacypolicy;sz=728x90;tile=3;ord=373128229?" target="_blank"><img src="http://ad.doubleclick.net/ad/epi.dart/services;kw=services;kw=privacypolicy;sz=728x90;tile=3;ord=373128229?" border="0" alt="" /></a></noscript>
+</script><noscript><a href="http://ad.doubleclick.net/jump/'+dartSiteZone+'kw=top;kw=services;kw=privacypolicy;sz=728x90;tile=3;ord=247750866?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=services;kw=privacypolicy;sz=728x90;tile=3;ord=247750866?" border="0" alt="" /></a></noscript>
 <!-- DART AD END -->
 
 
@@ -752,8 +800,8 @@ dartCalls[dartCalls.length] = sysparams.split(';');
     if (debugMode) {
         document.write('<div class="adDebugLabel">');
         document.write("<b>adStat</b>: {dartSite = epi.dart, dartZone = services, dartKeywords = [kw=services;kw=privacypolicy], statKeywords = [kw=services&amp;kw=privacypolicy], enabled = true}<br/>");
-        document.write('<b>script</b>: http://ad.doubleclick.net/adj/epi.dart/'+dartZone+';abr=!webtv;kw=top;'+adTargetingParameters+sysparams+'?<br/>');
-        document.write('<b>image</b>: http://ad.doubleclick.net/ad/epi.dart/'+dartZone+';kw=top;'+adTargetingParameters+sysparams+'?');
+        document.write('<b>script</b>: http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;kw=top;'+adTargetingParameters+sysparams+'?<br/>');
+        document.write('<b>image</b>: http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=top;'+adTargetingParameters+sysparams+'?');
         document.write('</div> <!-- close adDebugLabel -->');
         document.write('</div> <!-- close adDebug -->');
     }
@@ -775,28 +823,242 @@ dartCalls[dartCalls.length] = sysparams.split(';');
 
 				
 
-<script type="text/javascript" src="/rd_scripts/swfobject.js"></script>
+
+<script language="javascript" src="/dwr/interface/NewsletterController.js"></script>
+
 <script type="text/javascript">
-	swfobject.registerObject("myFlashContent", "9.0.0");
+// ----------------------------------------------------
+// Javascript functions for signing up newsletters
+// ----------------------------------------------------
+    function trackData(evnt) {
+        s.linkTrackVars="events";
+        s.linkTrackEvents=evnt;
+        s.events=evnt;
+        s.tl(this,'o','AjaxCall');
+    }
+
+    function validateNewsletters() {
+        var isChecked = false;
+        var email = document.newslettersForm.email.value;
+
+        for (var i = 0; i < document.newslettersForm.newsletter.length; i++) {
+            if (document.newslettersForm.newsletter[i].checked) {
+                isChecked = true;
+            }
+        }
+        if (! isChecked && document.newslettersForm.email.value == "") {
+            document.getElementById("letter_message3").style.display="block";
+            document.getElementById("letter_message2").style.display="block";
+        } else {
+            if (! isChecked && document.newslettersForm.email.value != "") {
+                document.getElementById("letter_message2").style.display="none";
+                document.getElementById("letter_message3").style.display="block";
+            }
+        }
+        return isChecked;
+    }
+    function showNewsletterError(message) {
+        document.getElementById("letter_message2").style.display="block";
+        document.getElementById("letter_message3").style.display="none";
+    }
+    function showNewsletterSuccess() {
+        document.getElementById("letter_message1").style.display="block";
+        document.getElementById("newsletter_content").style.display="none";
+        document.getElementById("learnMore").style.display="none";
+        document.getElementById("letter_message2").style.display="none";
+        document.getElementById("letter_message3").style.display="none";
+	  if(document.newslettersForm.newsletter[0].checked){
+             trackData('event11')
+         }
+    }
+    function signUpNewsletters() {
+        if (validateNewsletters()) {
+            var user = getCookie('amg_user_info');
+            var email = document.newslettersForm.email.value;
+            var ids = new Array();
+            var missedIds = new Array();
+
+            for (var i = 0; i < document.newslettersForm.newsletter.length; i++) {
+                if (document.newslettersForm.newsletter[i].checked) {
+                    ids[ids.length] = document.newslettersForm.newsletter[i].value;
+                } else{
+                    missedIds[missedIds.length] = document.newslettersForm.newsletter[i].value;
+                }
+            }
+
+            var form = {username: user,
+                        email: email,
+                        newsletterIds: ids,
+                        missedNewsLetterIds: missedIds,
+                        application: 'newsletter',
+                        applicationId: 'NONE PROVIDED',
+                        formName: 'shortForm'};
+
+              NewsletterController.signUpNewsletters(form, signUpNewslettersCallback);
+        }
+    }
+    function signUpNewslettersCallback(result) {
+        if (result.indexOf('Error') != -1) {
+            showNewsletterError(result);
+        } else {
+            if (isUserLoggedIn() || (result.indexOf('EmailTaken') != -1)) {
+                showNewsletterSuccess();
+            } else {
+                var email = document.newslettersForm.email.value;
+                var newlettersChecked;
+                if(document.newslettersForm.newsletter[0].checked && document.newslettersForm.newsletter[1].checked)
+                    newslettersChecked = 3;
+                else if(document.newslettersForm.newsletter[1].checked)
+                    newslettersChecked = 2;
+                else if(document.newslettersForm.newsletter[0].checked)
+                    newslettersChecked = 1;
+
+                var returnto = escape(window.location.pathname + window.location.search);
+                var params = '?postSignup=newsletter&appAlias=newsletter&email=' + email + '&newsletter=' + newslettersChecked + '&returnto=' + returnto;
+                window.location = '/user/registration' + params;
+            }
+        }
+    }
+
+    // ----------------------------------------------------
+    // General functions for the newsletter widget
+    // ----------------------------------------------------
+
+    function isUserLoggedIn() {
+        var userId = getCookie('amg_user_info');
+
+        if (userId != null && userId.length > 0) {
+            return true;
+        }
+        return false;
+    }
 </script>
-<style type="text/css"> 
-div#holidayGiftGuide #myFlashContent { visibility:visible; }
+<link rel="stylesheet" type="text/css" href="/stylesheets/newletter_widget/newsletter_widget.css">
+<script type="text/javascript" src="/js/newsletter_widget/newsletter_widget.js"></script>
+<!--[if IE 6]>
+<style type="text/css">
+    div#newsletter_content, div#rss_content, div#podcast_content { margin-top: -2px; }
+    div#newsletter_content { margin-bottom: -14px; }
+    div#error_area, div#error_area2 { margin-top: -2px; }
 </style>
-<div id="holidayGiftGuide" style="margin-bottom:10px;">
-	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="310" height="161" id="myFlashContent">
-		<param name="movie" value="/images/flashxml/epicurious_daily_gift.swf">
-		<param name="wmode" value="opaque">
-		<!--[if !IE]>-->
-		<object type="application/x-shockwave-flash" data="/images/flashxml/epicurious_daily_gift.swf" width="310" height="161" wmode="opaque">
-		<!--<![endif]-->
-			<a href="http://www.adobe.com/go/getflashplayer">
-				<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
-			</a>
-		<!--[if !IE]>-->
-		</object>
-		<!--<![endif]-->
-	</object>
+<![endif]-->
+
+<div style="padding-bottom:5px;">
+    <div id="newsletter_section" style="display:none;">
+        <div class="newsletter_top">
+            <div id="header">
+                <a href="javascript:switchid('newsletter_section'); hideMessages(); hideNewsletterMessage();" id="newsletter_Nav"><!-- --></a>
+                <a href="javascript:switchid('mobile_section'); hideMessages(); " id="mobile_Nav"><!-- --></a>
+                <a href="javascript:switchid('rss_section'); hideMessages();" id="rss_Nav"><!-- --></a>
+                <a href="javascript:switchid('tastebook_section'); hideMessages();" id="podcast_Nav"><!-- --></a>
+            </div>
+        </div>
+        <div id="error_area">
+            <div id="letter_message1">
+                <div align="right"><img src="/images/newsletter_widget/xClose_icon.gif" border="0" onclick="hideNewsletterMessage();"></div>
+                <span class="thanksHead">You've got great taste!</span><br>
+                <span class="thanksCont">Thank you for signing up to receive our<br>newsletters.</span>
+                <div style="height:10px;"><!-- --></div>
+            </div>
+            <div id="letter_message2">
+                <ul class="error_ul"><li class="error_icon"><img src="/images/newsletter_widget/error_icon.gif" height="0" width="0">ERROR:<br>- Please enter a valid e-mail address.</li></ul>
+            </div>
+            <div id="letter_message3">
+                <ul class="error_ul"><li class="error_icon"><img src="/images/newsletter_widget/error_icon.gif" height="0" width="0">ERROR:<br>- Please select a newsletter preference.</li></ul>
+            </div>
+        </div>
+        <div id="newsletter_content"><!-- action="/services/newsletters" -->
+            <form id="newslettersForm" name="newslettersForm" method="post" style="padding: 5px 15px 0 15px;">
+                <ul>
+                    <li style="padding-bottom: 2px; margin-left: -4px;"><input type="checkbox" tabindex="30" name="newsletter" class="checkBox" value="5" checked=""><a href="/services/newsletters" style="text-decoration:none;"><span class="section">Recipe Flash:</span></a> get weekly recipes &amp; food features</li>
+                    <li style="padding-bottom: 2px; margin-left: -4px;"><input type="checkbox" tabindex="31" name="newsletter" class="checkBox" value="23" checked=""><a href="/services/newsletters" style="text-decoration:none;"><span class="section">Tasting Notes:</span></a> receive monthly wine reviews &amp; news<br></li>
+                    <li>
+                        <input type="text" tabindex="32" name="email" maxlength="50" value="enter e-mail address" onfocus="javascript:this.value=''" class="inputBox"> <img src="/images/newsletter_widget/button_submit_newsWidget.gif" border="0" onclick="signUpNewsletters();" style="cursor:pointer; cursor:hand; vertical-align: bottom; padding: 0 0 1px 2px;" tabindex="33" onkeydown="javascript:return submitEnterNews(event);"><!-- <input name="submit" value="" type="button" class="submitButton" onclick="" /> -->
+                        <span id="learnMore"><a href="/services/newsletters" class="learnMore">learn more</a> ›</span>
+                    </li>
+                </ul>
+            </form>
+            
+        </div>
+        <div class="newsletter_bottom">
+             <p id="widgetLegalNote">I understand and agree that registration on or use of this site constitutes agreement to its <a href="/services/legal/useragreement">User Agreement</a>, and <a href="/services/legal/privacy">Privacy Policy</a>.</p>
+        </div>
+    </div>
+
+    <div id="mobile_section" style="display:block;">
+        <div class="mobile_top">
+            <div id="header">
+                <a href="javascript:switchid('newsletter_section'); hideMessages(); hideNewsletterMessage();" id="newsletter_Nav"><!-- --></a>
+                <a href="javascript:switchid('mobile_section'); hideMessages(); " id="mobile_Nav"><!-- --></a>
+                <a href="javascript:switchid('rss_section'); hideMessages();" id="rss_Nav"><!-- --></a>
+                <a href="javascript:switchid('tastebook_section'); hideMessages();" id="podcast_Nav"><!-- --></a>
+            </div>
+        </div>
+        <div id="mobile_content" class="mkt_widget_content">
+            <img src="/images/newsletter_widget/iphone_app.jpg" height="115" width="68" alt="iphone" align="left">
+            <p>
+                <a href="/services/mobile">Mobile Apps:</a><br>
+                get your favorite recipes — and even shopping lists — in the kitchen, 
+                at the store, or on the go!&nbsp;&nbsp;
+                <a class="learnMore" href="/services/mobile">learn more</a>&nbsp;›
+            </p>
+        </div>
+        <div class="mkt_widget_bottom">&nbsp;</div>
+    </div>
+
+    <div id="rss_section" style="display:none;">
+        <div class="rss_top">
+            <div id="header">
+                <a href="javascript:switchid('newsletter_section'); hideMessages(); hideNewsletterMessage();" id="newsletter_Nav"><!-- --></a>
+                <a href="javascript:switchid('mobile_section'); hideMessages(); " id="mobile_Nav"><!-- --></a>
+                <a href="javascript:switchid('rss_section'); hideMessages();" id="rss_Nav"><!-- --></a>
+                <a href="javascript:switchid('tastebook_section'); hideMessages();" id="podcast_Nav"><!-- --></a>
+            </div>
+        </div>
+        <div id="rss_content">
+            <ul style="padding: 5px 15px 0 15px;">
+                <li><a href="/services/rss" style="text-decoration:none;"><span class="section">Subscribe to our free RSS feeds:</span></a><br>Get the latest recipes, features, and Epicurious blog posts automatically added to your newsreader or your personal My Yahoo! or My AOL page.</li>
+            </ul>
+        </div>
+        <div class="rss_bottom"><span style="float:right; padding: 0 20px 0 0;"><a href="/services/rss" class="learnMore">learn more</a> ›</span></div>
+    </div>
+
+    <div id="tastebook_section" style="display:none;">
+        <div class="tastebook_top">
+            <div id="header">
+                <a href="javascript:switchid('newsletter_section'); hideMessages(); hideNewsletterMessage();" id="newsletter_Nav"><!-- --></a>
+                <a href="javascript:switchid('mobile_section'); hideMessages(); " id="mobile_Nav"><!-- --></a>
+                <a href="javascript:switchid('rss_section'); hideMessages();" id="rss_Nav"><!-- --></a>
+                <a href="javascript:switchid('tastebook_section');" id="podcast_Nav"><!-- --></a>
+            </div>
+        </div>
+        <div id="tastebook_content">
+            <img src="/images/newsletter_widget/tastebook_book.jpg" height="109" width="92" alt="tastebook" align="left">
+            <p>
+                <a href="/services/tastebook">A personalized Epi cookbook!</a><br>
+                <!-- Create a personalized hardcover cookbook of your favorite Epi recipes.  Or, buy one half-filled with our editors' picks and complete it with your own!  -->
+                Transform your favorite recipes from Epicurious.com into a beautiful, hardcover 'TasteBook'.
+                <a class="learnMore" href="/services/tastebook">learn how</a>&nbsp;›
+            </p>
+        </div>
+        <div id="tastebook_bottom">&nbsp;</div>
+    </div>
+
 </div>
+
+<script>
+    
+    /*
+    if(document.URL.match(/recipes/)||document.URL.match(/menus/)||document.URL.match(/myrecipebox/)) {
+        document.getElementById('newsletter_section').style.display="none" 
+        document.getElementById('tastebook_section').style.display="block"
+    }else{
+        document.getElementById('newsletter_section').style.display="block" 
+    }
+    */
+
+</script>
+
 
 
 
@@ -847,7 +1109,7 @@ if (typeof tile_num == "undefined"){ tile_num=1; } else { tile_num++; }
 placement = '300x250';
 sysparams = 'sz=' + placement + ';tile=' + tile_num + ';ord=' + condenetads_ord;
 
-adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
+	adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
 
 
 dartZone = "services";
@@ -855,6 +1117,9 @@ dartZoneVar = getDartZoneCookie("dartZone");
 if(dartZoneVar != null){
     dartZone = dartZoneVar;
 }
+
+var dartSiteZone=dartSiteModifier.setSite('epi.dart/'+ dartZone + ';');
+dartSite = dartSiteZone.split('/')[0];
 
 var keywordsOverride = getDartZoneCookie("keywords");
 if (keywordsOverride) {
@@ -865,17 +1130,16 @@ var dessertIndex = referer.indexOf('/recipesmenus/desserts');
 if (dessertIndex != -1 && dartZone == 'recipedetail') {
      dartZone = 'rm.desserts.recipe';
 }
-document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/epi.dart/'+dartZone+';abr=!webtv;kw=top;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
+document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;kw=top;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-    document.write('<a href="http://ad.doubleclick.net/jump/epi.dart/'+dartZone+';kw=top;'+adTargetingParameters+sysparams+'?" target="_blank">');
-    document.write('<img src="http://ad.doubleclick.net/ad/epi.dart/'+dartZone+';kw=top;'+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
+    document.write('<a href="http://ad.doubleclick.net/jump/'+dartSiteZone+'kw=top;'+adTargetingParameters+sysparams+'?" target="_blank">');
+    document.write('<img src="http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=top;'+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
 }
-dartSite = "epi.dart";
 dartKeywords = "kw=services;kw=privacypolicy";
 dartCalls[dartCalls.length] = sysparams.split(';');
 
 //-->
-</script><noscript><a href="http://ad.doubleclick.net/jump/epi.dart/services;kw=top;kw=services;kw=privacypolicy;sz=300x250;tile=4;ord=373128229?" target="_blank"><img src="http://ad.doubleclick.net/ad/epi.dart/services;kw=services;kw=privacypolicy;sz=300x250;tile=4;ord=373128229?" border="0" alt="" /></a></noscript>
+</script><noscript><a href="http://ad.doubleclick.net/jump/'+dartSiteZone+'kw=top;kw=services;kw=privacypolicy;sz=300x250;tile=4;ord=247750866?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=services;kw=privacypolicy;sz=300x250;tile=4;ord=247750866?" border="0" alt="" /></a></noscript>
 <!-- DART AD END -->
 
 
@@ -884,8 +1148,8 @@ dartCalls[dartCalls.length] = sysparams.split(';');
     if (debugMode) {
         document.write('<div class="adDebugLabel">');
         document.write("<b>adStat</b>: {dartSite = epi.dart, dartZone = services, dartKeywords = [kw=services;kw=privacypolicy], statKeywords = [kw=services&amp;kw=privacypolicy], enabled = true}<br/>");
-        document.write('<b>script</b>: http://ad.doubleclick.net/adj/epi.dart/'+dartZone+';abr=!webtv;kw=top;'+adTargetingParameters+sysparams+'?<br/>');
-        document.write('<b>image</b>: http://ad.doubleclick.net/ad/epi.dart/'+dartZone+';kw=top;'+adTargetingParameters+sysparams+'?');
+        document.write('<b>script</b>: http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;kw=top;'+adTargetingParameters+sysparams+'?<br/>');
+        document.write('<b>image</b>: http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=top;'+adTargetingParameters+sysparams+'?');
         document.write('</div> <!-- close adDebugLabel -->');
         document.write('</div> <!-- close adDebug -->');
     }
@@ -900,8 +1164,115 @@ dartCalls[dartCalls.length] = sysparams.split(';');
 
 
 
+
+
+    <div id="poll_booth_module" class="modular content_unit dropshadowed hslider dropshadowed" style="overflow: visible; border-bottom: none; border-top: none;"><div class="r_header" style="width: 1366px;"><span class="top_border" style="background-color: rgb(53, 51, 53); border-color: rgb(53, 51, 53);"></span><span class="top_gradient" style="background-color: rgba(0, 0, 0, 0); border-color: rgb(53, 51, 53);"></span></div>
+
+        <img class="poll_hed" src="/rd_images/poll/epi_poll_hed.jpg">
+
+        <iframe id="poll_booth" height="200" frameborder="0" scrolling="no" src="/services/poll-cache/rightrailpoll"></iframe>
+
+        <div class="poll_ad">
+            
+
+
+
+
+<script language="JavaScript1.1" type="text/javascript">
+    <!--
+    debugMode = getCookie('adStatDebug') == "true";
+
+    if (debugMode) {
+        document.write('<div class="adDebug">');
+    }
+    // -->
+</script>
+<!-- begin: ad.jsp -->
+
+
+ 
+ 
+ 
+ <!-- determine dcopt -->
+ 
+ 
+ 
+    
+        
+    
+    
+ 
+ 
+ 
+
+<!-- DART AD START -->
+<!-- AdStat: dartSite = epi.dart, dartZone = services, dartKeywords = [kw=services;kw=privacypolicy], statKeywords = [kw=services&kw=privacypolicy], enabled = true -->
+
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+if (typeof condenetads_ord == "undefined"){condenetads_ord = Math.random()*10000000000000000;}
+if (typeof tile_num == "undefined"){ tile_num=1; } else { tile_num++; }
+
+placement = '165x31';
+sysparams = 'sz=' + placement + ';tile=' + tile_num + ';ord=' + condenetads_ord;
+
+	adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
+
+
+dartZone = "services";
+dartZoneVar = getDartZoneCookie("dartZone");
+if(dartZoneVar != null){
+    dartZone = dartZoneVar;
+}
+
+var dartSiteZone=dartSiteModifier.setSite('epi.dart/'+ dartZone + ';');
+dartSite = dartSiteZone.split('/')[0];
+
+var keywordsOverride = getDartZoneCookie("keywords");
+if (keywordsOverride) {
+	adTargetingParameters = keywordsOverride;
+}
+var referer = document.referrer;
+var dessertIndex = referer.indexOf('/recipesmenus/desserts');
+if (dessertIndex != -1 && dartZone == 'recipedetail') {
+     dartZone = 'rm.desserts.recipe';
+}
+document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
+if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+    document.write('<a href="http://ad.doubleclick.net/jump/'+dartSiteZone+''+adTargetingParameters+sysparams+'?" target="_blank">');
+    document.write('<img src="http://ad.doubleclick.net/ad/'+dartSiteZone+''+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
+}
+dartKeywords = "kw=services;kw=privacypolicy";
+dartCalls[dartCalls.length] = sysparams.split(';');
+
+//-->
+</script><noscript><a href="http://ad.doubleclick.net/jump/'+dartSiteZone+'kw=services;kw=privacypolicy;sz=165x31;tile=5;ord=247750866?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=services;kw=privacypolicy;sz=165x31;tile=5;ord=247750866?" border="0" alt="" /></a></noscript>
+<!-- DART AD END -->
+
+
+<script language="JavaScript1.1" type="text/javascript">
+    <!--
+    if (debugMode) {
+        document.write('<div class="adDebugLabel">');
+        document.write("<b>adStat</b>: {dartSite = epi.dart, dartZone = services, dartKeywords = [kw=services;kw=privacypolicy], statKeywords = [kw=services&amp;kw=privacypolicy], enabled = true}<br/>");
+        document.write('<b>script</b>: http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;'+adTargetingParameters+sysparams+'?<br/>');
+        document.write('<b>image</b>: http://ad.doubleclick.net/ad/'+dartSiteZone+''+adTargetingParameters+sysparams+'?');
+        document.write('</div> <!-- close adDebugLabel -->');
+        document.write('</div> <!-- close adDebug -->');
+    }
+    // -->
+</script>
+<!-- end: ad.jsp -->
+
+        </div>
+    <div class="r_footer" style="width: 1366px;"><span class="bottom_gradient" style="background-color: rgba(0, 0, 0, 0); border-color: rgb(53, 51, 53);"></span><span class="bottom_border" style="background-color: rgb(53, 51, 53); border-color: rgb(53, 51, 53);"></span></div></div>
+
+
+
+
 <div id="cooks_tools_module" class="modular content_unit dropshadowed hslider dropshadowed" style="overflow: visible; border-bottom: none; border-top: none;"><div class="r_header" style="width: 1366px;"><span class="top_border" style="background-color: rgb(53, 51, 53); border-color: rgb(53, 51, 53);"></span><span class="top_gradient" style="background-color: rgba(0, 0, 0, 0); border-color: rgb(53, 51, 53);"></span></div>
 
+  		
 	<h2>cooks' tools</h2>
 
 	<span id="see_tools"><a href="/tools/">see all</a> ›</span>
@@ -910,7 +1281,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
 		<ul style="width: 462px;">
 			<li id="ct_fd"><a href="/tools/fooddictionary/">Food Dictionary</a></li>
 			<li id="ct_sl"><a href="/tools/shoppinglist/">Shopping List</a></li>
-			<li id="ct_ia"><a href="/services/mobile/">iPhone App</a></li>
+			<li id="ct_ia"><a href="/services/mobile/">Mobile Apps</a></li>
 			<li id="ct_tv"><a href="/video/">Technique Videos</a></li>
 			<li id="ct_wp"><a href="/services/winepairings/">Wine Pairings</a></li>
 			<li id="ct_cc"><a href="/tools/conversions/">Conversion Chart</a></li>
@@ -962,7 +1333,7 @@ if (typeof tile_num == "undefined"){ tile_num=1; } else { tile_num++; }
 placement = '120x61';
 sysparams = 'sz=' + placement + ';tile=' + tile_num + ';ord=' + condenetads_ord;
 
-adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
+	adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
 
 
 dartZone = "services";
@@ -970,6 +1341,9 @@ dartZoneVar = getDartZoneCookie("dartZone");
 if(dartZoneVar != null){
     dartZone = dartZoneVar;
 }
+
+var dartSiteZone=dartSiteModifier.setSite('epi.dart/'+ dartZone + ';');
+dartSite = dartSiteZone.split('/')[0];
 
 var keywordsOverride = getDartZoneCookie("keywords");
 if (keywordsOverride) {
@@ -980,17 +1354,16 @@ var dessertIndex = referer.indexOf('/recipesmenus/desserts');
 if (dessertIndex != -1 && dartZone == 'recipedetail') {
      dartZone = 'rm.desserts.recipe';
 }
-document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/epi.dart/'+dartZone+';abr=!webtv;kw=top;kw=cookstool;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
+document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;kw=top;kw=cookstool;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-    document.write('<a href="http://ad.doubleclick.net/jump/epi.dart/'+dartZone+';kw=top;kw=cookstool;'+adTargetingParameters+sysparams+'?" target="_blank">');
-    document.write('<img src="http://ad.doubleclick.net/ad/epi.dart/'+dartZone+';kw=top;kw=cookstool;'+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
+    document.write('<a href="http://ad.doubleclick.net/jump/'+dartSiteZone+'kw=top;kw=cookstool;'+adTargetingParameters+sysparams+'?" target="_blank">');
+    document.write('<img src="http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=top;kw=cookstool;'+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
 }
-dartSite = "epi.dart";
 dartKeywords = "kw=services;kw=privacypolicy";
 dartCalls[dartCalls.length] = sysparams.split(';');
 
 //-->
-</script><noscript><a href="http://ad.doubleclick.net/jump/epi.dart/services;kw=top;kw=cookstool;kw=services;kw=privacypolicy;sz=120x61;tile=5;ord=373128229?" target="_blank"><img src="http://ad.doubleclick.net/ad/epi.dart/services;kw=services;kw=privacypolicy;sz=120x61;tile=5;ord=373128229?" border="0" alt="" /></a></noscript>
+</script><noscript><a href="http://ad.doubleclick.net/jump/'+dartSiteZone+'kw=top;kw=cookstool;kw=services;kw=privacypolicy;sz=120x61;tile=6;ord=247750866?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=services;kw=privacypolicy;sz=120x61;tile=6;ord=247750866?" border="0" alt="" /></a></noscript>
 <!-- DART AD END -->
 
 
@@ -999,8 +1372,8 @@ dartCalls[dartCalls.length] = sysparams.split(';');
     if (debugMode) {
         document.write('<div class="adDebugLabel">');
         document.write("<b>adStat</b>: {dartSite = epi.dart, dartZone = services, dartKeywords = [kw=services;kw=privacypolicy], statKeywords = [kw=services&amp;kw=privacypolicy], enabled = true}<br/>");
-        document.write('<b>script</b>: http://ad.doubleclick.net/adj/epi.dart/'+dartZone+';abr=!webtv;kw=top;kw=cookstool;'+adTargetingParameters+sysparams+'?<br/>');
-        document.write('<b>image</b>: http://ad.doubleclick.net/ad/epi.dart/'+dartZone+';kw=top;kw=cookstool;'+adTargetingParameters+sysparams+'?');
+        document.write('<b>script</b>: http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;kw=top;kw=cookstool;'+adTargetingParameters+sysparams+'?<br/>');
+        document.write('<b>image</b>: http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=top;kw=cookstool;'+adTargetingParameters+sysparams+'?');
         document.write('</div> <!-- close adDebugLabel -->');
         document.write('</div> <!-- close adDebug -->');
     }
@@ -1072,7 +1445,7 @@ if (typeof tile_num == "undefined"){ tile_num=1; } else { tile_num++; }
 placement = '300x250';
 sysparams = 'sz=' + placement + ';tile=' + tile_num + ';ord=' + condenetads_ord;
 
-adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
+	adTargetingParameters = addSearchKeywords("kw=services;kw=privacypolicy");
 
 
 dartZone = "services";
@@ -1080,6 +1453,9 @@ dartZoneVar = getDartZoneCookie("dartZone");
 if(dartZoneVar != null){
     dartZone = dartZoneVar;
 }
+
+var dartSiteZone=dartSiteModifier.setSite('epi.dart/'+ dartZone + ';');
+dartSite = dartSiteZone.split('/')[0];
 
 var keywordsOverride = getDartZoneCookie("keywords");
 if (keywordsOverride) {
@@ -1090,17 +1466,16 @@ var dessertIndex = referer.indexOf('/recipesmenus/desserts');
 if (dessertIndex != -1 && dartZone == 'recipedetail') {
      dartZone = 'rm.desserts.recipe';
 }
-document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/epi.dart/'+dartZone+';abr=!webtv;kw=bottom;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
+document.write('<scr'+'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;kw=bottom;'+adTargetingParameters+sysparams+'?"></scr'+'ipt>');
 if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-    document.write('<a href="http://ad.doubleclick.net/jump/epi.dart/'+dartZone+';kw=bottom;'+adTargetingParameters+sysparams+'?" target="_blank">');
-    document.write('<img src="http://ad.doubleclick.net/ad/epi.dart/'+dartZone+';kw=bottom;'+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
+    document.write('<a href="http://ad.doubleclick.net/jump/'+dartSiteZone+'kw=bottom;'+adTargetingParameters+sysparams+'?" target="_blank">');
+    document.write('<img src="http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=bottom;'+adTargetingParameters+sysparams+'?" border="0" alt="" /></a>');
 }
-dartSite = "epi.dart";
 dartKeywords = "kw=services;kw=privacypolicy";
 dartCalls[dartCalls.length] = sysparams.split(';');
 
 //-->
-</script><noscript><a href="http://ad.doubleclick.net/jump/epi.dart/services;kw=bottom;kw=services;kw=privacypolicy;sz=300x250;tile=6;ord=373128229?" target="_blank"><img src="http://ad.doubleclick.net/ad/epi.dart/services;kw=services;kw=privacypolicy;sz=300x250;tile=6;ord=373128229?" border="0" alt="" /></a></noscript>
+</script><noscript><a href="http://ad.doubleclick.net/jump/'+dartSiteZone+'kw=bottom;kw=services;kw=privacypolicy;sz=300x250;tile=7;ord=247750866?" target="_blank"><img src="http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=services;kw=privacypolicy;sz=300x250;tile=7;ord=247750866?" border="0" alt="" /></a></noscript>
 <!-- DART AD END -->
 
 
@@ -1109,8 +1484,8 @@ dartCalls[dartCalls.length] = sysparams.split(';');
     if (debugMode) {
         document.write('<div class="adDebugLabel">');
         document.write("<b>adStat</b>: {dartSite = epi.dart, dartZone = services, dartKeywords = [kw=services;kw=privacypolicy], statKeywords = [kw=services&amp;kw=privacypolicy], enabled = true}<br/>");
-        document.write('<b>script</b>: http://ad.doubleclick.net/adj/epi.dart/'+dartZone+';abr=!webtv;kw=bottom;'+adTargetingParameters+sysparams+'?<br/>');
-        document.write('<b>image</b>: http://ad.doubleclick.net/ad/epi.dart/'+dartZone+';kw=bottom;'+adTargetingParameters+sysparams+'?');
+        document.write('<b>script</b>: http://ad.doubleclick.net/adj/'+dartSiteZone+'abr=!webtv;kw=bottom;'+adTargetingParameters+sysparams+'?<br/>');
+        document.write('<b>image</b>: http://ad.doubleclick.net/ad/'+dartSiteZone+'kw=bottom;'+adTargetingParameters+sysparams+'?');
         document.write('</div> <!-- close adDebugLabel -->');
         document.write('</div> <!-- close adDebug -->');
     }
@@ -1146,11 +1521,11 @@ dartCalls[dartCalls.length] = sysparams.split(';');
 				
                 <div id="recipe_of_the_day_content">
 
-                    <a id="rotd_linkable_image" href="/recipes/food/views/356344"><img src="/images/recipesmenus/2009/2009_december/&#10;356344_116.jpg" alt="Treviso, Walnut, and Gruyère Salad"></a>
+                    <a id="rotd_linkable_image" href="/recipes/food/views/359335"><img src="/images/recipesmenus/2010/2010_june/&#10;359335_116.jpg" alt="Harissa-Marinated Top Sirloin Tips"></a>
 
                     <div id="rotd_details">
-                        <h3><a href="/recipes/food/views/356344">Treviso, Walnut, and Gruyère Salad</a></h3>
-                        <p>Bon Appétit, December 2009</p>
+                        <h3><a href="/recipes/food/views/359335">Harissa-Marinated Top Sirloin Tips</a></h3>
+                        <p>Bon Appétit, June 2010</p>
                     </div>
                         <div class="clear"></div>
                 </div>
@@ -1179,7 +1554,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
                                    <li class="recent_search">1.
 
 
-                                   <a href="/tools/searchresults?search=garlic+chicken">garlic chicken</a>
+                                   <a href="/tools/searchresults?search=zucchini+2008">zucchini 2008</a>
                             </li>
                         
                     
@@ -1193,7 +1568,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
                                    <li class="recent_search">2.
 
 
-                                   <a href="/tools/searchresults?search=carbonara">carbonara</a>
+                                   <a href="/tools/searchresults?search=chocolate+butter+cream+frosting">chocolate butter cream frosting</a>
                             </li>
                         
                     
@@ -1207,7 +1582,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
                                    <li class="recent_search">3.
 
 
-                                   <a href="/tools/searchresults?search=candy">candy</a>
+                                   <a href="/tools/searchresults?search=potatoes+au+gratin">potatoes au gratin</a>
                             </li>
                         
                     
@@ -1221,7 +1596,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
                                    <li class="recent_search">4.
 
 
-                                   <a href="/tools/searchresults?search=blueberry+cheesecake">blueberry cheesecake</a>
+                                   <a href="/tools/searchresults?search=soy+rockfish">soy rockfish</a>
                             </li>
                         
                     
@@ -1235,7 +1610,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
                                    <li class="recent_search">5.
 
 
-                                   <a href="/tools/searchresults?search=gingerbread+cookies+">gingerbread cookies </a>
+                                   <a href="/tools/searchresults?search=israeli+couscous">israeli couscous</a>
                             </li>
                         
                     
@@ -1249,7 +1624,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
                                    <li class="recent_search">6.
 
 
-                                   <a href="/tools/searchresults?search=roast+chicken">roast chicken</a>
+                                   <a href="/tools/searchresults?search=popeyes+fried+">popeyes fried </a>
                             </li>
                         
                     
@@ -1263,7 +1638,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
                                    <li class="recent_search">7.
 
 
-                                   <a href="/tools/searchresults?search=stuffed+hamburger+swingers">stuffed hamburger swingers</a>
+                                   <a href="/tools/searchresults?search=salad">salad</a>
                             </li>
                         
                     
@@ -1277,7 +1652,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
                                    <li class="recent_search">8.
 
 
-                                   <a href="/tools/searchresults?search=spanish+white+beans+with+spinach">spanish white beans with spinach</a>
+                                   <a href="/tools/searchresults?search=pasta+with+gorgonzola">pasta with gorgonzola</a>
                             </li>
                         
                     
@@ -1291,7 +1666,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
                                    <li class="recent_search">9.
 
 
-                                   <a href="/tools/searchresults?search=fig+goat+cheese+walnut">fig goat cheese walnut</a>
+                                   <a href="/tools/searchresults?search=mussels">mussels</a>
                             </li>
                         
                     
@@ -1305,7 +1680,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
                                    <li class="recent_search">10.
 
 
-                                   <a href="/tools/searchresults?search=persimmon+cookies">persimmon cookies</a>
+                                   <a href="/tools/searchresults?search=appetizer%2C+brunch">appetizer, brunch</a>
                             </li>
                         
                     
@@ -1334,13 +1709,14 @@ dartCalls[dartCalls.length] = sysparams.split(';');
 </div>
 
 
-        <div id="highlight_nav">
+        <!-- /htmlinclude/tiles/link_lists.html -->
+<div id="highlight_nav">
         <div>
         <h2>Recipes &amp; Menus</h2>
         <ul id="hn_recipesmenus" class="autoclassed">
             <li id="hn_recipesmenus_first"><a href="/recipesmenus/quickeasy/recipes">Quick &amp; Easy Ideas</a></li>
             <li><a href="/recipesmenus/healthy/recipes">Healthy Options</a></li>
-            <li><a href="/recipesmenus/holidays">Holidays &amp; Celebrations</a></li>
+            <li><a href="/recipesmenus/holidays">cooking for holidays &amp; parties</a></li>
             <li><a href="/recipesmenus/seasonal/recipes">Seasonal Ingredients</a></li>
             <li><a href="/recipesmenus/global">International Cooking</a></li>
             <li><a href="/recipesmenus/desserts">Thousands of Desserts</a></li>
@@ -1355,7 +1731,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
             <li><a href="/articlesguides/holidays">Complete Holiday &amp; Celebration guides</a></li>
             <li><a href="/articlesguides/entertaining">Simple, Sophisticated Party Planners</a></li>
             <li><a href="/articlesguides/diningtravel">Restaurants &amp; Culinary Travel</a></li>
-            <li><a href="/articlesguides/healthy">Health News &amp; Information</a></li>
+            <li><a href="/articlesguides/healthy">Healthy Cooking</a></li>
             <li id="hn_articlesguides_last"><a href="/articlesguides">See More Articles &amp; Guides</a> ›</li>
         </ul>
     </div>
@@ -1378,7 +1754,7 @@ dartCalls[dartCalls.length] = sysparams.split(';');
         <h2>Resources</h2>
         <ul id="hn_references" class="autoclassed">
             <li id="hn_references_first"><a href="/tools/shoppinglist">Shopping List</a></li>
-			<li><a href="/services/mobile">iPhone App</a></li>
+			<li><a href="/services/mobile">Mobile Apps</a></li>
             <li><a href="/tools/fooddictionary">Food Dictionary</a></li>
             <li><a href="/tools/conversions/">Conversions &amp; Equivalents</a></li>
             <li><a href="/video">Technique Videos</a></li>
@@ -1388,118 +1764,124 @@ dartCalls[dartCalls.length] = sysparams.split(';');
     </div>
     </div>
     <div class="clear"></div>
+	<br clear="all">
 
         <div id="footerContainer">
-                  <ul id="utilities" class="autoclassed">
-        <li id="utilities_first"><a rel="nofollow" href="/services/help">Help</a></li>
-        <li><a rel="nofollow" href="/services/sitemap">Site Map</a></li>
-        <li><a rel="nofollow" href="/services/help">Contact Us</a></li>
-        <li><a rel="nofollow" href="/services/masthead">Masthead</a></li>
-		<li><a rel="nofollow" target="_new" href="http://condenet.com/mediakits/epicurious/">Advertising</a></li>
-        <li><a rel="nofollow" href="/services/presscenter">Press Center</a></li>
-        <li><a rel="nofollow" href="/services/subscriptions">Subscription Services</a></li>		
-        <li><a rel="nofollow" href="/services/newsletters">Newsletters</a></li>
-		<li><a rel="nofollow" href="/services/tastebook">Tastebook</a></li>		
-        <li><a rel="nofollow" href="/services/podcasts">Podcasts</a></li>
-        <li><a rel="nofollow" href="/services/rss" id="rss_img"><img src="/images/global/rssFooterIcon.gif" style="padding-right:0px; vertical-align: middle; text-decoration:none;"></a></li>
-		<li id="utilities_last"><a rel="nofollow" href="/services/rss" id="rss_lnk">RSS feeds</a></li>
-
-      </ul>
-
-      <div id="related_sites">
-       
-       <ul id="on_epi">
+            
+<ul id="utilities" class="autoclassed">
+	<li id="utilities_first"><a rel="nofollow" href="/services/help">Help</a></li>
+	<li><a rel="nofollow" href="/services/sitemap">Site Map</a></li>
+	<li><a rel="nofollow" href="/services/help">Contact Us</a></li>
+	<li><a rel="nofollow" href="/services/masthead">Masthead</a></li>
+	<li><a rel="nofollow" target="_new" href="http://condenet.com/mediakits/epicurious/">Advertising</a></li>
+	<li><a rel="nofollow" href="/services/presscenter">Press Center</a></li>
+	<li><a rel="nofollow" href="/services/subscriptions">Subscription Services</a></li>		
+	<li><a rel="nofollow" href="/services/newsletters">Newsletters</a></li>
+	<li><a rel="nofollow" href="/services/tastebook">Tastebook</a></li>		
+	<li><a rel="nofollow" href="/services/podcasts">Podcasts</a></li>
+	<li><a rel="nofollow" href="/services/rss" id="rss_img"><img src="/images/global/rssFooterIcon.gif" style="padding-right:0px; vertical-align: middle; text-decoration:none;"></a></li>
+	<li id="utilities_last"><a rel="nofollow" href="/services/rss" id="rss_lnk">RSS feeds</a></li>
+</ul>
+<div id="footerContent">	 
+	<ul class="condenastLinks">
+		<li><a href="/services/subscriptions">SUBSCRIPTION SERVICES</a></li>
+		<li><a href="http://www.condenastcareers.com/">CAREERS</a></li>
+		<li><a href="http://www.condenaststore.com/">CONDÉ NAST STORE</a></li>  
+		<li><a href="mailto:permissions@condenast.com">REPRINTS/PERMISSIONS</a></li>
+	</ul>
+<div class="clear"> </div>
+	<div id="topquad">
+		<div class="footerLogo"><img src="/images/global/condenastdigitalLogo.gif" width="159" height="37"><h3>Condé Nast Digital</h3></div>
+		<span class="vertRule"> </span>
+		<div class="recipesNews"> 
+			 For more great recipes &amp;<br> food news, visit:<br>
+		     <ul class="news">
+				 <li><a href="http://www.facebook.com/epicurious">Epicurious on<br>Facebook</a></li>
+				 <li><a href="http://www.twitter.com/epicurious">Epicurious on<br>Twitter</a></li>
+				 <li><a href="http://youtube.com/epicurious">Epicurious on<br>YouTube</a></li>
+			</ul> 
+		    <ul class="recipes">
+				 <li><a href="http://www.bonappetit.com/">Bon Appétit</a></li>
+				 <li><a href="http://www.self.com/">Self</a></li>
+				 <li><a href="http://www.nutritiondata.com/">Nutrition Data</a></li> 
+			</ul>
+		</div>  
 		
-		          <li><div style="font-size:11px; font-weight:bold;height:22px;padding-top:9px;float:left;padding-left:0px;"><span class="cnd_logo">C<span class="cnd_logo_small">ondé</span> N<span class="cnd_logo_small">ast</span></span> web sites:</div></li></ul>
-        <ul id="condenet_sites">
-		<li><a rel="nofollow" href="http://www.nutritiondata.com/" target="_new">Nutrition Data</a> / </li>
-		<li><a rel="nofollow" href="http://www.concierge.com" target="_new">Concierge</a> / </li> 
-		<li><a rel="nofollow" href="http://www.hotelchatter.com" target="_new">Hotel Chatter</a> /</li>
-        <li><a rel="nofollow" href="http://jaunted.com/" target="_new">Jaunted</a> / </li>  
-		<li><a rel="nofollow" href="http://www.style.com/" target="_new">Style.com</a> / </li>  
-		<li><a rel="nofollow" href="http://www.gq.com/" target="_new">GQ.com</a> / </li> 
-		<li><a rel="nofollow" href="http://www.wired.com/" target="_new">Wired.com</a> / </li>
-		<li><a rel="nofollow" href="http://www.reddit.com/" target="_new">Reddit</a> / </li>
-		<li><a rel="nofollow" href="http://arstechnica.com/index.ars" target="_new">Ars Technica</a> / </li>
-		<li><a rel="nofollow" href="http://www.webmonkey.com/" target="_new">Webmonkey</a></li>
-        </ul>  
-        <div class="clear"></div>
-        
-        <form name="footer_sub_links" id="footer_sub_links" action=""> 
-          <select name="sub_link_selector">
-            <option selected="selected">Subscribe to a magazine:</option>
-            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/TopCategoriesDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;activeLink=Home&amp;source=oldstore">View Special Offers</option>
-            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/TopCategoriesDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;activeLink=Home&amp;source=oldstore">View All Titles</option>
-            <option disabled="disabled">------------</option>
-            <option value="https://w1.buysub.com/pubs/N3/ALL/self.jsp?cds_page_id=1209&amp;cds_mag_code=ALL&amp;id=1214935921477&amp;lsid=81831312014050755&amp;vid=1&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=ALL">Allure</option>
-            <option value="https://w1.buysub.com/pubs/N3/ARD/self.jsp?cds_page_id=405&amp;cds_mag_code=ARD&amp;id=1214935989714&amp;lsid=81831312014050755&amp;vid=2&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=ARD">Architectural Digest</option>
-            <option value="https://w1.buysub.com/pubs/N3/BNA/self_control_split.jsp?cds_page_id=100&amp;cds_mag_code=BNA&amp;id=1214936059635&amp;lsid=81831312014050755&amp;vid=5&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=BNA">Bon Appétit</option>
-            <option value="https://w1.buysub.com/pubs/N3/BRI/self.jsp?cds_page_id=633&amp;cds_mag_code=BRI&amp;id=1214936029399&amp;lsid=81831312014050755&amp;vid=4&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=BRI">Brides</option>
-            <option value="https://w1.buysub.com/pubs/N3/TVL/self.jsp?cds_page_id=811&amp;cds_mag_code=TVL&amp;id=1214937677509&amp;lsid=81831341174053863&amp;vid=1&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=TVL">Conde Nast Traveler</option>
-            <option value="https://w1.buysub.com/pubs/N3/DET/self.jsp?cds_page_id=1253&amp;cds_mag_code=DET&amp;id=1214939061052&amp;lsid=81831404210056322&amp;vid=1&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=DET">Details</option>
-            <option value="https://w1.buysub.com/pubs/N3/GQM/self.jsp?cds_page_id=976&amp;cds_mag_code=GQM&amp;id=1214941035871&amp;lsid=81831436363038277&amp;vid=4&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=GQM">GQ</option>
-            <option value="https://w1.buysub.com/pubs/N3/GLM/self.jsp?cds_page_id=956&amp;cds_mag_code=GLM&amp;id=1214941632523&amp;lsid=81831436363038277&amp;vid=5&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=GLM">Glamour</option>
-            <option value="https://w1.buysub.com/pubs/N3/GLF/renewself.jsp?cds_page_id=17303&amp;cds_mag_code=GLF&amp;id=1214941694516&amp;lsid=81831436363038277&amp;vid=6&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=GLF">Golf Digest</option>
-            <option value="https://w1.buysub.com/pubs/N3/GWD/self.jsp?cds_page_id=17323&amp;cds_mag_code=GWD&amp;id=1214941710048&amp;lsid=81831436363038277&amp;vid=7&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=GWD">Golf World</option>
-           <option value="https://w1.buysub.com/pubs/N3/LKY/self_control_split.jsp?cds_page_id=799&amp;cds_mag_code=LKY&amp;id=1214941757850&amp;lsid=81831436363038277&amp;vid=10&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=LKY">Lucky</option>
-            <option value="https://w1.buysub.com/pubs/N3/SLF/self.jsp?cds_page_id=1231&amp;cds_mag_code=SLF&amp;id=1214941810166&amp;lsid=81831436363038277&amp;vid=13&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=SLF">Self</option>
-            <option value="https://w1.buysub.com/pubs/N3/TNV/self_makeUpPallete_060914.jsp?cds_page_id=26982&amp;cds_mag_code=TNV&amp;id=1214941824141&amp;lsid=81831436363038277&amp;vid=14&amp;cds_response_key=IRDNMUDD&amp;cds_mag_code=TNV">Teen Vogue</option>
-            <option value="https://w1.buysub.com/pubs/N3/NYR/self_1for1.jsp?cds_page_id=12454&amp;cds_mag_code=NYR&amp;id=1214941836477&amp;lsid=81831436363038277&amp;vid=15&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=NYR">The New Yorker</option>
-            <option value="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=VYF&amp;cds_page_id=2367&amp;cds_response_key=ILDN51UD">Vanity Fair</option>
-            <option value="https://w1.buysub.com/pubs/N3/VOG/self_073007.jsp?cds_page_id=1242&amp;cds_mag_code=VOG&amp;id=1214941864708&amp;lsid=81831436363038277&amp;vid=17&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=VOG">Vogue</option>
-            <option value="https://w1.buysub.com/pubs/N3/WMG/self_control_split.jsp?cds_page_id=3158&amp;cds_mag_code=WMG&amp;id=1214941723577&amp;lsid=81831448435050861&amp;vid=1&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=WMG">W</option>
-            <option value="https://w1.buysub.com/pubs/N3/WIR/digital_self_wiredtest.jsp?cds_page_id=22463&amp;cds_mag_code=WIR&amp;id=1214941895098&amp;lsid=81831436363038277&amp;vid=18&amp;cds_response_key=I2DNWTUD&amp;cds_mag_code=WIR">Wired</option>
-          </select>
-         </form>
-         
-<form id="condenet_sites_dropdown" name="condenet_sites_dropdown">
-            <select id="mag_list" onchange="if(document.condenet_sites_dropdown.mag_list.options[document.condenet_sites_dropdown.mag_list.selectedIndex].value != '') window.open(document.condenet_sites_dropdown.mag_list.options[document.condenet_sites_dropdown.mag_list.selectedIndex].value)" size="1" name="mag_list">
-                <option value="" selected="selected">Condé Nast Web sites:</option>
-				<option value=""></option>
-                 <option value="http://www.allure.com/">Allure</option>
-                <option value="http://www.architecturaldigest.com/">Architectural Digest</option>
-				<option value="http://www.ArsTechnica.com/">Ars Technica</option>		
-                <option value="http://www.bonappetit.com/">Bon Appétit</option>				
-                <option value="http://www.brides.com/">Brides.com</option>
-				<option value="http://www.CNTraveler.com/">Condé Nast  Traveler</option>
-				<option value="http://www.Details.com/">Details</option>
-                <option value="http://www.glamour.com/">Glamour</option>
-				<option value="http://www.GolfDigest.com/">Golf Digest</option>
-				<option value="http://www.GolfWorld.com/">Golf World</option>
-				<option value="http://www.GQ.com/">GQ</option>
-				<option value="http://www.HotelChatter.com/">Hotel Chatter</option>
-				<option value="http://www.Jaunted.com/">Jaunted</option>
-                <option value="http://www.luckymag.com/">Lucky</option>
-				<option value="http://www.NutritionData.com/">Nutrition Data</option>
-				<option value="http://www.Reddit.com/">Reddit</option>
-                <option value="http://www.self.com/">Self</option>
-				<option value="http://www.Style.com/">Style.com</option>
-                <option value="http://www.teenvogue.com/">Teen Vogue</option>
-                <option value="http://www.newyorker.com/">The New Yorker</option>
-                <option value="http://www.vanityfair.com/">Vanity Fair</option>
-				<option value="http://www.Vogue.com/">Vogue</option>
-				<option value="http://www.Webmonkey.com/">Webmonkey</option>
-				<option value="http://www.Wired.com/">Wired.com</option>
-                <option value="http://www.wmagazine.com/">W</option>
-            </select>
-        </form>
-
-		 <div class="clear"></div>
-      </div><!-- End related-sites -->
-
-      <div id="legal_information">   
-        <p id="disclaimer">
-          Registration on or use of this site constitutes acceptance of our <a rel="nofollow" href="/services/useragreement">User Agreement</a> (revised 08/21/08) and <a rel="nofollow" href="/services/privacypolicy">Privacy Policy</a> (revised 08/21/08).
-        </p>
-           
-        <p id="copyright">Epicurious © 2009 Condé Nast Digital. All rights reserved. <br><br>
-		The material on this site may not be reproduced, distributed, transmitted, cached, or otherwise used, <br>
-		except with the prior written permission of Condé Nast Digital.</p>
-    
-      </div><!-- End #disclaimers -->
-
-<script>dynamicWrapperByTagAndClass('div','typeAorB-child','dynamic-wrapper',3);</script>
-
+		<span class="vertRule"> </span>
+		<div id="subscribe">Subscribe to a magazine:
+		        <form name="footer_sub_links" id="footer_sub_links" action=""> 
+		          <select name="sub_link_selector">
+		            <option selected="selected">Subscribe to a magazine:</option>
+		            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/TopCategoriesDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;activeLink=Home&amp;source=oldstore">View Special Offers</option>
+		            <option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/TopCategoriesDisplay?langId=-1&amp;storeId=10001&amp;catalogId=10001&amp;activeLink=Home&amp;source=oldstore">View All Titles</option>
+		            <option disabled="disabled">------------</option>
+		            <option value="https://w1.buysub.com/pubs/N3/ALL/self.jsp?cds_page_id=1209&amp;cds_mag_code=ALL&amp;id=1214935921477&amp;lsid=81831312014050755&amp;vid=1&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=ALL">Allure</option>
+		            <option value="https://w1.buysub.com/pubs/N3/ARD/self.jsp?cds_page_id=405&amp;cds_mag_code=ARD&amp;id=1214935989714&amp;lsid=81831312014050755&amp;vid=2&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=ARD">Architectural Digest</option>
+		            <option value="https://w1.buysub.com/pubs/N3/BNA/self_control_split.jsp?cds_page_id=100&amp;cds_mag_code=BNA&amp;id=1214936059635&amp;lsid=81831312014050755&amp;vid=5&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=BNA">Bon Appétit</option>
+		            <option value="https://w1.buysub.com/pubs/N3/BRI/self.jsp?cds_page_id=633&amp;cds_mag_code=BRI&amp;id=1214936029399&amp;lsid=81831312014050755&amp;vid=4&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=BRI">Brides</option>
+		            <option value="https://w1.buysub.com/pubs/N3/TVL/self.jsp?cds_page_id=811&amp;cds_mag_code=TVL&amp;id=1214937677509&amp;lsid=81831341174053863&amp;vid=1&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=TVL">Conde Nast Traveler</option>
+		            <option value="https://w1.buysub.com/pubs/N3/DET/self.jsp?cds_page_id=1253&amp;cds_mag_code=DET&amp;id=1214939061052&amp;lsid=81831404210056322&amp;vid=1&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=DET">Details</option>
+		            <option value="https://w1.buysub.com/pubs/N3/GQM/self.jsp?cds_page_id=976&amp;cds_mag_code=GQM&amp;id=1214941035871&amp;lsid=81831436363038277&amp;vid=4&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=GQM">GQ</option>
+		            <option value="https://w1.buysub.com/pubs/N3/GLM/self.jsp?cds_page_id=956&amp;cds_mag_code=GLM&amp;id=1214941632523&amp;lsid=81831436363038277&amp;vid=5&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=GLM">Glamour</option>
+		            <option value="https://w1.buysub.com/pubs/N3/GLF/renewself.jsp?cds_page_id=17303&amp;cds_mag_code=GLF&amp;id=1214941694516&amp;lsid=81831436363038277&amp;vid=6&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=GLF">Golf Digest</option>
+		            <option value="https://w1.buysub.com/pubs/N3/GWD/self.jsp?cds_page_id=17323&amp;cds_mag_code=GWD&amp;id=1214941710048&amp;lsid=81831436363038277&amp;vid=7&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=GWD">Golf World</option>
+		           <option value="https://w1.buysub.com/pubs/N3/LKY/self_control_split.jsp?cds_page_id=799&amp;cds_mag_code=LKY&amp;id=1214941757850&amp;lsid=81831436363038277&amp;vid=10&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=LKY">Lucky</option>
+		            <option value="https://w1.buysub.com/pubs/N3/SLF/self.jsp?cds_page_id=1231&amp;cds_mag_code=SLF&amp;id=1214941810166&amp;lsid=81831436363038277&amp;vid=13&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=SLF">Self</option>
+		            <option value="https://w1.buysub.com/pubs/N3/TNV/self_makeUpPallete_060914.jsp?cds_page_id=26982&amp;cds_mag_code=TNV&amp;id=1214941824141&amp;lsid=81831436363038277&amp;vid=14&amp;cds_response_key=IRDNMUDD&amp;cds_mag_code=TNV">Teen Vogue</option>
+		            <option value="https://w1.buysub.com/pubs/N3/NYR/self_1for1.jsp?cds_page_id=12454&amp;cds_mag_code=NYR&amp;id=1214941836477&amp;lsid=81831436363038277&amp;vid=15&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=NYR">The New Yorker</option>
+		            <option value="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=VYF&amp;cds_page_id=2367&amp;cds_response_key=ILDN51UD">Vanity Fair</option>
+		            <option value="https://w1.buysub.com/pubs/N3/VOG/self_073007.jsp?cds_page_id=1242&amp;cds_mag_code=VOG&amp;id=1214941864708&amp;lsid=81831436363038277&amp;vid=17&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=VOG">Vogue</option>
+		            <option value="https://w1.buysub.com/pubs/N3/WMG/self_control_split.jsp?cds_page_id=3158&amp;cds_mag_code=WMG&amp;id=1214941723577&amp;lsid=81831448435050861&amp;vid=1&amp;cds_response_key=ILDN51UD&amp;cds_mag_code=WMG">W</option>
+		            <option value="https://w1.buysub.com/pubs/N3/WIR/digital_self_wiredtest.jsp?cds_page_id=22463&amp;cds_mag_code=WIR&amp;id=1214941895098&amp;lsid=81831436363038277&amp;vid=18&amp;cds_response_key=I2DNWTUD&amp;cds_mag_code=WIR">Wired</option>
+		          </select>
+		        </form>
+		</div>
+	
+		<span class="vertRule"> </span>		
+		<div id="sister">View our sister sites:	      
+				<form id="condenet_sites_dropdown" name="condenet_sites_dropdown">
+		            <select id="mag_list" onchange="if(document.condenet_sites_dropdown.mag_list.options[document.condenet_sites_dropdown.mag_list.selectedIndex].value != '') window.open(document.condenet_sites_dropdown.mag_list.options[document.condenet_sites_dropdown.mag_list.selectedIndex].value)" size="1" name="mag_list">
+		                <option value="" selected="selected">Condé Nast Web sites:</option>
+						<option value=""></option>
+		                 <option value="http://www.allure.com/">Allure</option>
+		                <option value="http://www.architecturaldigest.com/">Architectural Digest</option>
+						<option value="http://www.ArsTechnica.com/">Ars Technica</option>		
+		                <option value="http://www.bonappetit.com/">Bon Appétit</option>				
+		                <option value="http://www.brides.com/">Brides.com</option>
+						<option value="http://www.CNTraveler.com/">Condé Nast  Traveler</option>
+						<option value="http://www.concierge.com/">Concierge.com</option>
+						<option value="http://www.Details.com/">Details</option>
+		                <option value="http://www.glamour.com/">Glamour</option>
+						<option value="http://www.GolfDigest.com/">Golf Digest</option>
+						<option value="http://www.GolfWorld.com/">Golf World</option>
+						<option value="http://www.GQ.com/">GQ</option>
+						<option value="http://www.HotelChatter.com/">Hotel Chatter</option>
+						<option value="http://www.Jaunted.com/">Jaunted</option>
+		                <option value="http://www.luckymag.com/">Lucky</option>
+						<option value="http://www.NutritionData.com/">Nutrition Data</option>
+						<option value="http://www.Reddit.com/">Reddit</option>
+		                <option value="http://www.self.com/">Self</option>
+						<option value="http://www.Style.com/">Style.com</option>
+		                <option value="http://www.teenvogue.com/">Teen Vogue</option>
+		                <option value="http://www.newyorker.com/">The New Yorker</option>
+		                <option value="http://www.vanityfair.com/">Vanity Fair</option>
+						<option value="http://www.Vogue.com/">Vogue</option>
+						<option value="http://www.Webmonkey.com/">Webmonkey</option>
+						<option value="http://www.Wired.com/">Wired.com</option>
+		                <option value="http://www.wmagazine.com/">W</option>
+		            </select>
+		        </form>
+		     <div class="clear"></div>
+		 </div>
+	</div>	 
+		 <!-- End related-sites -->
+     <div id="legalquad">      
+        <p>Registration on or use of this site constitutes acceptance of our <a rel="nofollow" href="/services/useragreement">User Agreement</a> (revised 08/21/08) and <a rel="nofollow" href="/services/privacypolicy">Privacy Policy</a> (revised 08/21/08). Epicurious © 2010 Condé Nast Digital. All rights reserved. The material on this site may not be reproduced, distributed, transmitted, cached, or otherwise used, except with the prior written permission of Condé Nast Digital.</p>
+     </div>
+</div> 
+	 
+	 <!-- End #disclaimers -->
+  <script>dynamicWrapperByTagAndClass('div','typeAorB-child','dynamic-wrapper',3);</script>
 
             <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -1520,7 +1902,7 @@ urchinTracker();
 
 	
 	
-		<script language="javascript" src="/scripts/stats/zig.js"></script><script language="javascript" src="/scripts/stats/zag.js?Log=1&amp;URL=https://web.archive.org/web/20091217174453id_/http%3A//www.epicurious.com/services/privacypolicy&amp;&amp;screenres=800x600&amp;referrer=&amp;cachedefeat=1580351078018"></script><noscript><IMG SRC="/images/stats/zag.gif?Log=1&URL=/javascript_disabled" BORDER="0" WIDTH="1" HEIGHT="1"/></noscript>
+		<script language="javascript" src="/scripts/stats/zig.js"></script><script language="javascript" src="/scripts/stats/zag.js?Log=1&amp;URL=https://web.archive.org/web/20100617192231id_/http%3A//www.epicurious.com/services/privacypolicy&amp;&amp;screenres=800x600&amp;referrer=&amp;cachedefeat=1580351077889"></script><noscript><IMG SRC="/images/stats/zag.gif?Log=1&URL=/javascript_disabled" BORDER="0" WIDTH="1" HEIGHT="1"/></noscript>
 	
 
 
@@ -1580,7 +1962,52 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <script>
 deleteDartZoneCookie();
 </script>
+<script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/scripts/ecom/magnet.js"></script>
+<script type="text/javascript" src="/scripts/ecom/magnet.popups.js"></script>
 
+
+
+
+<script type="text/javascript">tyntVariables = {"ap":"Read More"};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cdozgy3G8r3R3Eab7jrHtB&amp;s=112"></script>
+
+
+
+    <script type="text/javascript">    
+        /* setting cookie that turns off exitpop monitor on contest pages 
+           to preserve cc upsell window on top.
+        */
+        var contest = "";
+        if (contest != "") {
+            document.cookie = "exitpop=false;path=/user/" + contest;
+        }
+        
+        MAGNET.site.init({ 
+            code: 'EPI',
+            title: 'Epicurious', 
+            name: 'epicurious.com'
+        });
+
+        MAGNET.popups.excludeExitDomain("local");
+        MAGNET.popups.excludeExitDomain("localhost");
+        MAGNET.popups.excludeExitDomain("conde-dev.com");
+        MAGNET.popups.excludeExitDomain("epicurious.com");
+        MAGNET.popups.setArriving(false);
+        MAGNET.popups.setExiting(true, {
+                name: 'exitingpop',
+                cookie: 'ExitingCookie',
+                path: '/scripts/exitpop.html',
+                width: 460,
+                height: 295,
+                top: (screen.height/2)-(295/2),
+                left:(screen.width/2)-(460/2),
+                args: {
+                    scrollbars: 0,
+                    toolbar: 0
+                }
+            });
+       MAGNET.popups.init();
+    </script>
 
 
 </body></html>
