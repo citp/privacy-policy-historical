@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516005908id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618012325id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
 
-# Privacy Policy - The Diamond and Watch Specialist - Ernest Jones
+# Privacy Policy Diamond and Watch Specialist - Ernest Jones
 
 We understand that privacy is important to you, and we promise to look after your personal information. Any personal information you provide to us will only be used and recorded in accordance with the Data Protection Act. We will not sell any information about you to any other party.
+
+By providing Ernest Jones with your information, you consent to the collection and processing of such information in accordance with the terms of this Policy.
 
 #### What information do we collect from you?
 
@@ -15,20 +17,27 @@ In order to do any of the following, you will need to provide us with certain de
   * enter competitions
   * take part in a survey (in this instance, your details will be passed to a third party for research purposes only) 
   * give feedback to us 
+  * request a gold recycling/buying pack
+  * be contacted by us so that we may notify you of our offer to buy your goods under our gold recycling/buying scheme or answer any queries in relation to the proposed sale
+  * make a payment to you under our gold recycling/buying scheme
 
 
 
 The details you provide may include your name, email address, delivery address, telephone number, credit or debit card number and the card's expiry date. 
 
+We may collect your IP (Internet Protocol) address to help diagnose problems with our server and to administer the website. An IP address is a number that is assigned to your computer when you use the Internet. Your IP address is also used to help identify you during a particular session and to gather statistical data.
+
 #### How will we use it?
 
-We will use this information to fulfil any order and to communicate with you when necessary. If you provide us with your debit or credit card details, we will record them so that you can save time and use them when you next order with us.
+We will use this information to fulfil any order and to communicate with you when necessary. If you provide us with your debit or credit card details, we will record them so that you can save time and use them when you next order with us. 
+
+We may also use these details for validation checks, as outlined below.
 
 We may also use your personal information to contact you about news and offers that we think may interest you, or to tell you if we change anything important about how the website works, or the terms of use of the website. 
 
 If you decide at any point that you no longer wish to receive messages of this nature, please [contact us](https://web.archive.org/webstore/secure/contactus.do) and send an email to let us know. Alternatively, click to unsubscribe at the bottom of any of the emails you receive.
 
-Please note that if you [telephone us](https://web.archive.org/webstore/secure/contactus.do), calls may be recorded for training purposes.
+Please note that if you [telephone us](https://web.archive.org/webstore/secure/contactus.do), calls may be recorded for training purposes and/or to provide evidence of the terms of any agreement we may enter into, including in respect of our gold recycling/buying scheme. 
 
 We may also use these details for validation checks, as outlined below.
 
@@ -40,7 +49,7 @@ Payments on the website are processed by a third party, which adheres to the pri
 
 #### Validation checks
 
-All credit and charge card holders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. In addition, in the interests of preventing fraudulent use of credit, debit and charge cards, Ernest Jones will validate the names, addresses and other information supplied during the order process against commercially available records (e.g Electoral Roll data, Credit Reference Services). A third party may also be instructed to complete these checks. By ordering from the ernestjones.co.uk website you consent to such checks being made. We may need to contact you by letter, telephone or email to verify details before we are able to process and dispatch your order or we may be unable to accept your order. Any information given may be disclosed to a registered Credit Reference Agency which may keep a record of the information. All information provided will be treated in accordance with the Data Protection Act 1998. These measures are taken as extra protection for you, to ensure your online shopping experience with us is as safe and secure as possible.
+All credit and charge card holders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. In addition, in the interests of preventing fraudulent use of credit, debit and charge cards, Ernest Jones will validate the names, addresses and other information supplied during the order process against commercially available records (e.g Electoral Roll data, Credit Reference Services). A third party may also be instructed to complete these checks. By ordering from the ernestjones.co.uk website you consent to such checks being made. We may need to contact you by letter, telephone or email to verify details before we are able to process and dispatch your order or we may be unable to accept your order. Any information given may be disclosed to a registered Credit Reference Agency which may keep a record of the information. All information provided will be treated in accordance with the Data Protection Act 1998. These measures are taken as extra protection for you, to ensure your online shopping experience with us is as safe and secure as possible and to assist in the prevention of crime.
 
 #### How long will we keep your information?
 
@@ -57,3 +66,47 @@ We will also use cookies for the compilation of certain statistics (which do not
 You may see Ernest Jones adverts on other websites. For these adverts, we will be using software that may send a cookie to your browser. This software will allow us to monitor if you see our adverts, if you click on them and if you go on to buy from our website.
 
 You may set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. If you decline to accept a cookie, some web pages may not function properly or you may not be permitted to access certain services offered on the website.
+
+#### Other Websites
+
+Our website contains links to other websites. Please note that we are not responsible for the privacy practices of such other websites and we recommend you read the privacy statements immediately on entering other websites. This Policy applies only to information collected and used by us through the website.
+
+#### Security guarantee
+
+Our website uses a secure server which uses SSL technology (secure sockets layer) to make sure that all your credit or debit card transactions are completely secure.
+
+Every time we receive an order, we use fraud checking systems as well as authentication processes before we fulfil it. 
+
+When you use our website, the secure server will encrypt all of the personal information you send us, including credit or debit card number and name and address. Encryption turns the information you enter into bits of code which are then securely transmitted to us over the Internet.
+
+We will take all reasonable measures to keep your personal information, order and payment details secure. However, we cannot be held liable if an event beyond our control results in loss to you.
+
+#### Safe shopping at Ernest Jones
+
+At Ernest Jones we are committed to protecting you against unauthorised transactions and ensuring that our payment process is as safe and secure as possible. As well as our SSL technology (mentioned above), we have implemented extra levels of security to protect your online transactions.
+
+#### Validation checks
+
+All credit and charge card holders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. In addition, in the interests of preventing fraudulent use of credit, debit and charge cards, Ernest Jones will validate the names, addresses and other information supplied during the order process against commercially available records (e.g Electoral Roll data, Credit Reference Services). A third party may also be instructed to complete these checks. By ordering from the hsamuel.co.uk website you consent to such checks being made. We may need to contact you by letter, telephone or email to verify details before we are able to process and dispatch your order or we may be unable to accept your order. Any information given may be disclosed to a registered Credit Reference Agency which may keep a record of the information. 
+
+All information provided will be treated in accordance with the Data Protection Act 1998. These measures are taken as extra protection for you, to ensure your online shopping experience with us is as safe and secure as possible and to assist in the prevention of crime.
+
+#### Security Code
+
+We will ask for your security code when you enter your card details. This is the last three digits on the signature strip on the back of your credit or Maestro card. American Express card holders this is the four digit number found on the front of the card. It guarantees that you physically have the card when you order and ensures that fraudulent orders cannot be placed with your card number alone.
+
+#### MasterCard SecureCode (for MasterCard and Maestro cards) and Verified by Visa (for Visa cards)
+
+When you are entering your payment details on our website, a box will pop up giving you the option to register with either MasterCard SecureCode or Verified by Visa (depending on which type of card you have), or to sign into them if you have already registered.
+
+MasterCard SecureCode and Verified by Visa work in the same way. Both systems protect your existing credit card with a secret password that you create. Your password is registered with your card-issuing bank and from then on you can use the same password whenever you use that card to pay for goods at HSamuel.co.uk or with any other websites that use this technology.
+
+#### Retail Decisions' (ReD) ebitGuard technology
+
+ReD's ebitGuard technology is designed to detect card fraud, particularly international fraud, in an online environment.
+
+By using this technology, Ernest Jones can check purchaser information against multiple public records for accuracy and consistency; identify computer-generated fraud that is not always picked up by other standard systems, screen fraud databases and much more.
+
+#### Children
+
+By using the website you confirm that you are at least 18 years old, or, if you are under 18, that you are accessing the website with the consent of your parent of guardian. We do not sell products to children, but we do sell children's products for purchase by adults.
