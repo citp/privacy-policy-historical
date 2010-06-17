@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the font-zone.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916030655id_/http%3A//www.font-zone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the font-zone.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617021424id_/http%3A//www.font-zone.com/privacy.php) for the most accurate reproduction.*
 
-# Free fonts at Font-zone.com
+# Font-zone.com Privacy Policy
 
 We take your right to privacy seriously. This Policy discloses the privacy practices for this website and other GSE-Media web properties (the "Site"). In reviewing this Policy, you can expect to be notified of: what personally identifiable information of yours is collected; the organization collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind and efficacy of security procedures that are in place to protect the loss, misuse or alteration of information under the licensee's control; and your ability to access, correct, and/or delete information you previously provided. Questions regarding this Policy should be directed to GSE-Media. To return to the Site, please use the "Back" button on your browser. 
 
@@ -26,14 +26,9 @@ We will not use the information to contact you in any way unless you affirmative
 
 **Third Party Advertising**
 
-We use various third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
+We use various third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 For more information about individual adnetworks and their corresponding privacy policies, please check below:
-
-  [E-bannerx](http://www.e-bannerx.com/)  
-  [Contextweb / Adsdaq](http://www.contextweb.com/ppolicy.html)  
-  [Google](http://www.google.com/intl/en/privacy.html)  
-  [AdBrite](http://www.adbrite.com/)
 
 **Third Party Cookies**
 
