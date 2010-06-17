@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xerox.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220061451id_/http%3A//www.xerox.com/about-xerox/privacy-policy/enus.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xerox.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617174234id_/http%3A//www.xerox.com/about-xerox/privacy-policy/enus.html) for the most accurate reproduction.*
 
 # Xerox Corporation Privacy Policy
 
@@ -11,7 +11,7 @@
 ---  
 **This is the Privacy Policy of the Xerox Corporation in the United States.**
 
-This privacy statement covers the Web pages belonging to the Xerox Corporation in the United States. It does not cover the privacy policies of Xerox [affiliates](http://www.xerox.com/go/xrx/template/017.jsp?ed_name=Privacy_Appendix).
+This privacy statement covers the Web pages belonging to the Xerox Corporation in the United States. It does not cover the privacy policies of Xerox [affiliates](http://www.xerox.com/about-xerox/privacy-policy/exceptions/enus.html).
 
 At Xerox, privacy on the Internet means that: 
 
@@ -83,7 +83,7 @@ In some instances, when Xerox transfers personally identifiable information to o
 
 **Xerox gets your consent before sending you additional information.**
 
-Xerox may send commercial email to customers who have expressed an interest in its products and services. If you contact Xerox over the Web, you can choose to receive commercial email or opt-out of such email by using the checkbox provided on our Web forms. Some forms on our site have no opt-out box. That is because those forms are "reply only" forms used only to respond to your particular request. If you receive commercial email from Xerox and wish to discontinue these mailings, you may unsubscribe at [www.xerox.com/unsubscribe](http://www.xerox.com/go/xrx/template/018u.jsp?Xcntry=USA&Xlang=en_US). You may also mail an unsubscribe request to: 
+Xerox may send commercial email to customers who have expressed an interest in its products and services. If you contact Xerox over the Web, you can choose to receive commercial email or opt-out of such email by using the checkbox provided on our Web forms. Some forms on our site have no opt-out box. That is because those forms are "reply only" forms used only to respond to your particular request. If you receive commercial email from Xerox and wish to discontinue these mailings, you may unsubscribe at [www.xerox.com/unsubscribe](http://www.xerox.com/perl-bin/formeng.pl?form=2680_email_pref&XOGlang=en_US). You may also mail an unsubscribe request to: 
 
 Marketing Privacy Preferences  
 Xerox Corporation  
@@ -146,7 +146,7 @@ Norwalk, CT 06856-4505
 USA
 
   * If you have questions about Xerox products or services, call us toll-free at 1-800-ASK-XEROX or 1-800-275-9376.
-  * [More contact information](http://www.xerox.com/go/xrx/portal/STServlet?projectID=ST_ContactXerox&pageID=ST_ContactXerox_Landing&metrics=HDR&Xcntry=USA&Xlang=en_US) is available if you are outside the United States and Canada, and/or if you have questions about support, sales, corporate information, scholarships, research and innovation or service.
+  * [More contact information](http://www.xerox.com/about-xerox/contact-us/enus.html) is available if you are outside the United States and Canada, and/or if you have questions about support, sales, corporate information, scholarships, research and innovation or service.
 
   
 Policy Updates  
