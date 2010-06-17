@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinbase.org privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216191502id_/http%3A//www.skinbase.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinbase.org privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617165824id_/http%3A//www.skinbase.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,8 +7,6 @@ As SkinBase is a general-age website, we ask that all registered users behave in
 Information is collected at several points from users of the SkinBase site. SkinBase is the sole owner of this information and will not sell or disclose it to any third party. Information is gathered in the following situations:
 
 SkinBase uses cookies to help make each user's visit easier and more interactive. By storing a cookie, the user does not have to log in to the site each time he/she visits the site and the user also gets to use features such as the messageboard and online chat. Cookies are in no way linked to the personal information disclosed at signup.
-
-SkinBase uses outside advertising on its website. These advertising companies may also place cookies on your hard drive to collect information (not including name, email address and phone number) in regards to your visit to this and other sites in order to try and bring you advertising in relation to your interests.
 
 SkinBase also logs IP addresses to help administer the website and track user's actions on the website. These details do not contain any personally identifiable information.
 
@@ -21,3 +19,5 @@ As SkinBase is a general-audience website, we can not allow children under the a
 If we make changes to this policy, we will let members know by posting mention of the changes on the homepage of the SkinBase website. If we decide to use the personal details collected at membership signup (or during any other stage of a user's onsite activity) in any manner different from that stated at the time it was collected, we will let the user know via email. Users will be given a choice as to whether they want their information used in a different manner.
 
 If you have questions not answered in this policy in regards to the daily running of this site, please feel free to email at info(at)SkinBase(dot)org
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](https://web.archive.org/web/20100617165824id_/http%3A//www.skinbase.org/networkadvertising.org).
