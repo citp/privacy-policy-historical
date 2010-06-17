@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lalate.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617050500id_/http%3A//news.lalate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lalate.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617163424id_/http%3A//news.lalate.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -41,8 +41,6 @@ lalate.com is fully compliant with CAN-SPAM Act of 2003.
 
 **
 
-  * [Comments](http://news.lalate.com/privacy/#comments)
+  * [Comments](http://news.lalate.com/privacy/#comments) [(0)](http://news.lalate.com/privacy/#respond "Comment on Privacy")
 
 
-
-[LALATE2](http://news.lalate.com/celebrity)
