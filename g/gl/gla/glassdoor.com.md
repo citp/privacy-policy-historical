@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the glassdoor.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207120314id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617135813id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Glassdoor.com - Privacy Policy
 
 This Privacy Policy was last updated in August 2008.
 
 Glassdoor, Inc. (“ **Glassdoor** ”, “ **we** ”, or “ **us** ”) takes the privacy and protection of personal information very seriously. By visiting the Site, registering as a Member, or using the Services, you acknowledge and accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the Glassdoor Terms of Use, which can be found at <http://www.glassdoor.com/about/terms.htm> and which incorporate this Privacy Policy by reference. This Privacy Policy describes Glassdoor's practices with respect to Personal Information that we collect when you use the Services. 
-
-**TRUSTe**
-
-[ ](http://www.truste.org/ivalidate.php?url=www.glassdoor.com&sealid=101) Glassdoor, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.glassdoor.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact [info@glassdoor.com](mailto:info@glassdoor.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at _<http://www.truste.org/consumers/watchdog_complaint.php>_ TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 “ **Personal Information** ” is information that is personally identifiable like names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing. We collect and use Personal Information as described in this Privacy Policy from the Users of our Services. 
 
