@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gainesville.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002730id_/http%3A//www.gainesville.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainesville.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617062032id_/http%3A//www.gainesville.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | Gainesville.com | The Gainesville Sun
+# privacypolicy | Gainesville.com | The Gainesville Sun
 
 This Privacy Policy discloses the privacy practices for The Gainesville Sun newspaper and Gainesville.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Gainesville Sun” include Gainesville.com and The Gainesville Sun newspaper. The Gainesville Sun is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
