@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news-leader.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235116id_/http%3A//www.news-leader.com/section/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-leader.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617160550id_/http%3A//www.news-leader.com/section/PRIVACY) for the most accurate reproduction.*
 
-# News-Leader.com | Springfield PRIVACY | Springfield News-Leader
+# News-Leader.com | Springfield privacy | Springfield News-Leader
 
 Last Updated: March 4, 2009
 
