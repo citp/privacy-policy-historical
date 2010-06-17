@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greengeeks.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206031213id_/http%3A//www.greengeeks.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greengeeks.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617112812id_/http%3A//www.greengeeks.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Web Hosting by GreenGeeks - Privacy Policy
+# Privacy Policy - Legal - Green Hosting that's 300% Green by GreenGeeks
 
 GreenGeeks LLC, referred to in this document as ("GreenGeeks"). 
 
