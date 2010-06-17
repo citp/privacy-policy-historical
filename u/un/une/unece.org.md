@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unece.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217161543id_/http%3A//www.unece.org/legal_notice/Privacy%2520Notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unece.org privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617180925id_/http%3A//www.unece.org/legal_notice/Privacy%2520Notice.htm) for the most accurate reproduction.*
 
 # UNECE - United Nations Economic Commission for Europe - About UNECE
 
