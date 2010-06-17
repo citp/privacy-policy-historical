@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pics-hosting.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616142412id_/http%3A//pics-hosting.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pics-hosting.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617025044id_/http%3A//pics-hosting.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Share For Free Your Adult Pics With Pics-Hosting.com. Hotlinking Is Allowed On All Major Adult Boards !
+# Share Your Adult Images For Free. Hotlinking Allowed On All Major Adult Boards
 
 When you sign up for an account with Pics-Hosting, we collect personal information from you including your e-mail address, and a password. 
 
