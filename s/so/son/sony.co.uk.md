@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217060009id_/http%3A//www.sony.co.uk/section/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617162059id_/http%3A//www.sony.co.uk/section/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,7 +16,7 @@ Personal Data means any data related to an identified or identifiable person, su
 
 Sony (and where relevant, a Sony Centre) would like to collect, maintain and use your Personal Data to:
 
-  * fulfil its obligations under any sale and purchase contract, including the processing of any payment payment or ensuring that you benefit from any relevant special offer or promotion, as well as any other contract with you;
+  * fulfil its obligations under any sale and purchase contract, including checking that the payment is not made fraudulently, delivering your purchase to you or ensuring that you benefit from any relevant special offer or promotion, as well as any other contract with you;
   * provide customer care, including services related to Sony businesses, such as warranty and after sales services;
   * ask your opinions on Sony products and services and conduct product surveys;
   * facilitate and process your searches and requests for information on Sony and its products and services;
@@ -37,7 +37,7 @@ Sony (and where relevant a Sony Centre) collect data about you in several ways. 
 
 Here are some of the most typical examples of how Sony (and where relevant a Sony Centre) collects your Personal Data.
 
-  * When you register a Sony product or service, we will collect your name, address data and the product or model name, etc;
+  * When you create a MySony profile or register a Sony product or service, we will collect your name, address data and the product or model name, etc;
   * When you purchase a product from us and submit your payment details to us (see section 4 below, for further details); 
   * When you ask our customer service for help, we will keep a record of your name, the product(s) you bought, the technical issues at hand, and our advice to you, etc.
   * When you want to participate in online communities, we need to record your account details and preferences. Some of our web sites allow for some personalisation of the content according to your interests, in which case we are recording your preferences.
@@ -75,7 +75,7 @@ You will be provided with the name and contact details of whichever Sony Centre 
 
 Whether you make an order online or over the telephone, the Sony Centre you choose to purchase from or Sony, if you have purchased from Sony Style, will use your Personal Data to complete the sale and provide product and after sales support to you. Your Personal Data is shared with Sony and the Sony Centres and may be combined with other information they hold about you as a customer, such as details of other purchases you have made from Sony or a Sony Centre. This information is used to provide you with better service and a more personalised experience, whether you shop at any of the Sony Centres or at Sony Style. Sony and the Sony Centres may also analyse purchase information to learn more about their customers’ shopping preferences in general. If you would prefer that your Personal Data is not shared with Sony and the Sony Centres, or have any other queries regarding the handling of your Personal Data, please send an email to privacy@eu.sony.com.
 
-If you agree, Sony and Sony Centres may also use your Personal Data to send you updates and details of offers relating to products or services by post, email, telephone or text message. If you would like to stop receiving these offers and updates please send an email to privacy@eu.sony.com. Alternatively, if you have registered with Sony online and have a "MySony" profile then you may log-in and amend your marketing preferences.
+If you agree, Sony and Sony Centres may also use your Personal Data to send you updates and details of offers relating to products or services by post, email, telephone or text message(SMS). If you would like to stop receiving these offers and updates please send an email to privacy@eu.sony.com. Alternatively, if you have registered with Sony online and have a "MySony" profile then you may log-in and amend your marketing preferences.
 
 Back to top
 
@@ -89,7 +89,7 @@ Back to top
 
 Sony will not disclose Personal Data to third parties other than Sony group companies, without your consent, except in the following cases: 
 
-Personal Data may be disclosed to third parties to enable the performance of contracts you are party to or for other purposes mentioned in section 4 or to ensure that you benefit fully from any relevant special offers and promotions.Sony (and where relevant a Sony Centre) uses other companies to perform functions on its behalf, such as fulfilling orders, delivering packages, sending postal mail and e-mails, providing marketing assistance, processing credit card payments and providing customer services. Such companies will have access to Personal Data needed to perform these functions, but may not use it for any other purpose and are required to process the data in accordance with applicable law.
+Personal Data may be disclosed to third parties to enable the performance of contracts you are party to or for other purposes mentioned in section 4 or to ensure that you benefit fully from any relevant special offers and promotions.Sony (and where relevant a Sony Centre) uses other companies to perform functions on its behalf, such as fulfilling orders, delivering packages, sending postal mail and e-mails,sending text messages (SMS),providing marketing assistance, processing credit card payments,providing fraud checking services and providing customer services. Such companies will have access to Personal Data needed to perform these functions, but may not use it for any other purpose and are required to process the data in accordance with applicable law.
 
 As described in section 4 if you purchase products or services through a Sony website or over the telephone, your Personal Data may be shared with Sony and the Sony Centres (unless you ask us not to do so).
 
@@ -186,14 +186,14 @@ Belgium
 Sony Europe (Belgium) N.V. acts for the Sony group companies in Europe, including Sony United Kingdom Limited, on matters related to data protection.
 
 Alternatively, you can contact our UK Customer Information Centre:  
-Sony United Kingdom Limited  
+Sony United Kingdom a division of Sony Europe Limited  
 Jays Close  
 Viables  
 Basingstoke RG22 4SB  
 Telephone: +44 (0)845 6000 124  
-Last Updated: September 2009
+Last Updated: 2010
 
 Back to top
 
 These Terms and the contents of this site are subject to copyright.  
-©2009 Sony. All Rights Reserved.
+© 2010 Sony Europe Limited. All Rights Reserved.
