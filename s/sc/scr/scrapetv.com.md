@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapetv.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230231624id_/http%3A//scrapetv.com/Home%2520Page/privacy%2520policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapetv.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617054946id_/http%3A//scrapetv.com/Home%2520Page/privacy%2520policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,3 +15,9 @@
 #### 4\. No personal information will ever be used to promote a third party resource or website unless written permission is submitted to The Virtual Union.
 
 #### 5\. Any questions regarding this privacy policy should be directed to [admin@thevirtualunion.com](mailto:admin@thevirtualunion.com)
+
+Custom Search 
+
+|   
+  
+---|---
