@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the accuwebhosting.com privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212225854id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accuwebhosting.com privacy policy that was archived on 2010-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617090240id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -28,6 +28,27 @@
 <script language="JavaScript">
 <!--
 var bName = navigator.appName;
+// alert (bName);
+
+
+var nVer = navigator.appVersion;
+var nAgt = navigator.userAgent;
+var browserName  = navigator.appName;
+var fullVersion  = ''+parseFloat(navigator.appVersion); 
+var majorVersion = parseInt(navigator.appVersion,10);
+var nameOffset,verOffset,ix;
+
+// In MSIE, the true version is after "MSIE" in userAgent
+if ((verOffset=nAgt.indexOf("MSIE"))!=-1) {
+ browserName = "Microsoft Internet Explorer";
+ fullVersion = nAgt.substring(verOffset+5, verOffset+6);
+
+}
+
+//alert('Browser name  = '+browserName);
+//alert('Full version  = '+fullVersion);
+
+
 
 if (bName == "Netscape")
 {
@@ -40,7 +61,16 @@ if(screen.width > "1024")
 	 {
 
 	  	//document.write('<'+'link rel="stylesheet" type="text/css" href="style_ie_index_apr09_1.css" />');
-		 document.write('<'+'link rel="stylesheet" type="text/css" href="style_ie_apr09_1200_1.css" />');
+		if (fullVersion = '8')
+		{	 
+			document.write('<'+'link rel="stylesheet" type="text/css" href="style_ie_8_1200.css" />'); 
+			//alert ('called');
+		}
+		else
+		{	
+			document.write('<'+'link rel="stylesheet" type="text/css" href="style_ie_apr09_1200_1.css" />'); 	
+		}
+	
 		
 		
 	 }
@@ -134,9 +164,6 @@ color: #0A679E;
 }
 
 </style>
-
-<script language="JavaScript" src="http://ultra7.clickchatsold.com/D6/AccuWebHosting.js"></script>
-
 
 <script type="text/javascript">
 
@@ -322,7 +349,9 @@ document.onclick=hidemenu
   <div id="mainstart">
       <div id="plan-box-right">
           <div id="livechat">
-           		<a href="javascript:popChatWin(0);"><img src="images/live_chat.jpg" border="0"></a>
+     <!-- BEGIN ProvideSupport.com Custom Images Chat Button Code -->
+<div id="cicw2d" style="z-index:100;position:absolute"></div><div id="sccw2d" style="display:inline"></div><div id="sdcw2d" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/accuwebhosting/safe-standard.js?ps_h=cw2d&amp;ps_t=1580366032047&amp;online-image=http%3A//www.accuwebhosting.com/images/live_chat.jpg&amp;offline-image=http%3A//www.accuwebhosting.com/images/live_chat.jpg"></script></div><script type="text/javascript">var secw2d=document.createElement("script");secw2d.type="text/javascript";var secw2ds=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/accuwebhosting/safe-standard.js?ps_h=cw2d&ps_t="+new Date().getTime()+"&online-image=http%3A//www.accuwebhosting.com/images/live_chat.jpg&offline-image=http%3A//www.accuwebhosting.com/images/live_chat.jpg";setTimeout("secw2d.src=secw2ds;document.getElementById('sdcw2d').appendChild(secw2d)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=accuwebhosting">Live Help Desk</a></div></noscript>
+<!-- END ProvideSupport.com Custom Images Chat Button Code -->
           </div>
           <div id="leftboxbg" style="margin-top:10px;">
             <div class="leftboxblack">Domain<div class="leftboxorange">Registration</div></div>
@@ -378,7 +407,7 @@ document.onclick=hidemenu
         <div class="leftboxblack">Affiliate
           <div class="leftboxorange">Program</div>
         </div>
-        <div class="leftboxtext"><b>Become our affiliate - Earn $50.00 / Sale</b><br>
+        <div class="leftboxtext"><b>Become our affiliate - Earn $20.00 / Sale</b><br>
           + $5.00 Signup bonus <br>
           + Earn flat or recurring bonus  <br>
           + 2 tier hosting affiliate program </div>
@@ -501,29 +530,32 @@ AccuWebHosting.com retains the right to change any or all of this entire Privacy
 
 <br>
 
-<div id="bottombg" vlink="#FFFFFFFF"><span class="style1"><a href="http://domains.accuwebhosting.com/" class="bottomlink">Register Domain</a> | <a href="http://www.accuwebhosting.com/freedomainregistration.asp" class="bottomlink">Free Domain Registration</a> | <a href="http://www.accuwebhosting.com/windows-vps-server-hosting.html" class="bottomlink">Windows VPS Hosting</a> |  <a href="http://www.accuwebhosting.com/cpanel-vps-server-hosting.html" class="bottomlink">CPanel VPS Hosting</a> |  <a href="http://www.accuwebhosting.com/sitemap.htm" class="bottomlink">SiteMap</a> | <a href="http://www.stpwebhosting.com/" class="bottomlink">Webiste Hosting</a> <br>
-<a href="http://discussion.accuwebhosting.com/" class="bottomlink">Discussion Forum</a> | <a href="testimonials.htm" class="bottomlink">Testimonials</a> | <a href="http://www.accuwebhosting.com/datacenter.htm" class="bottomlink">Data Center</a> | <a href="http://www.accuwebhosting.com/terms.htm" class="bottomlink">Terms OF Service</a> | <a href="http://www.accuwebhosting.com/sla.asp" class="bottomlink">Service Level Agreement</a> | <a href="http://www.accuwebhosting.com/privacypolicy.htm" class="bottomlink">Privacy Policy</a> | <a href="http://www.accuwebhosting.com/contact.htm" class="bottomlink">Contact Us</a> </span></div>
+<div id="bottombg" vlink="#FFFFFFFF"><span class="style1"><a href="http://www.accuwebhosting.com/freedomainregistration.asp" class="bottomlink">Free Domain Registration Offer</a> | <a href="http://www.accuwebhosting.com/reseller-webhosting.htm" class="bottomlink">Windows Reseller Hosting</a> | <a href="http://www.accuwebhosting.com/windows-vps-server-hosting.html" class="bottomlink">Windows VPS Hosting</a> |  <a href="http://www.accuwebhosting.com/cpanel-vps-server-hosting.html" class="bottomlink">CPanel VPS Hosting</a> | <a href="http://www.accuwebhosting.com/windows-dedicatedserver.htm" class="bottomlink">Dedicated Servers</a> | <a href="http://www.stpwebhosting.com/" class="bottomlink">Webiste Hosting</a> <br>
+<a href="http://www.accuwebhosting.com/sitemap.htm" class="bottomlink">SiteMap</a> | <a href="testimonials.htm" class="bottomlink">Testimonials</a> | <a href="http://www.accuwebhosting.com/datacenter.htm" class="bottomlink">Data Center</a> | <a href="http://www.accuwebhosting.com/terms.htm" class="bottomlink">Terms OF Service</a> | <a href="http://www.accuwebhosting.com/sla.asp" class="bottomlink">Service Level Agreement</a> | <a href="http://www.accuwebhosting.com/privacypolicy.htm" class="bottomlink">Privacy Policy</a> | <a href="http://www.accuwebhosting.com/contact.htm" class="bottomlink">Contact Us</a> </span></div>
 	
 	
-<div id="bottompart">Copyright 2003 - 2009 All rights reserved <a href="http://www.accuwebhosting.com" class="readallstories">Accu Web Hosting</a></div>
+<div id="bottompart">Copyright 2003 - 2010 All rights reserved <a href="http://www.accuwebhosting.com" class="readallstories">Accu Web Hosting</a></div>
 
-<!-- FMH Tracking CODE 1 -->
+<!-- Tracking CODE 1 -->
 <!-- Place on Home Page -->
+
 <!-- And all plan sign-up pages -->
-<script language="JavaScript">
-var qufmh = '' + this.location; 
-qufmh = qufmh.substring((qufmh.indexOf('?cif')) + 4);
-var keyfmh = qufmh.substring(0,qufmh.indexOf('=')); 
-var cifmh = qufmh.substring((qufmh.indexOf('=')) + 1);
-if (keyfmh == 'mh') {
-var today = new Date();
-var expiry = new Date(today.getTime() + 2592000000);
-document.cookie="cifmh=" + cifmh + "; expires=" + expiry.toGMTString() + "; domain=accuwebhost.com; path=/";
-}
-</script>
+    <script language="JavaScript" type="text/javascript">
+        var qufmh = '' + this.location;
+        qufmh = qufmh.substring((qufmh.indexOf('?cifmh')) + 4);
+
+        var keyfmh = qufmh.substring(0,qufmh.indexOf('='));
+        var cifmh = qufmh.substring((qufmh.indexOf('=')) + 1);
+
+        if(keyfmh == 'mh')
+        {
+            var today = new Date();
+            var expiry = new Date(today.getTime() + 2592000000);
+    
+            document.cookie="cifmh=" + cifmh + "; expires=" + expiry.toGMTString() + "; domain=accuwebhosting.com; path=/";
+        }
+    </script>
 <!-- End of Script -->
-
-
 
 
 <!-- Start of StatCounter Code -->
@@ -537,4 +569,18 @@ var sc_security="8f1bfe57";
 <script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c28.statcounter.com/counter.php?sc_project=2725368&java=0&security=8f1bfe57&invisible=0" alt="free hit counter" border="0"></a> </noscript>
 <!-- End of StatCounter Code -->
 
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker('UA-667302-1');
+pageTracker._setDomainName('accuwebhosting.com');
+pageTracker._addIgnoredOrganic('accuwebhosting.com');
+pageTracker._setAllowHash(false);
+pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+} catch(err) {}</script>
 </div></div></center></body></html>
