@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829014514id_/http%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617180017id_/http%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
 
-# Poker Stars - Online Poker Software Privacy Policy
+# Poker Stars - Online Poker Software Privacy Policy - Privacy Issues
 
 Your privacy on the Internet is very important to PokerStars and its owner and operator, Rational Entertainment Enterprises Limited. We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy playing poker online at PokerStars, by safeguarding it utilizing the best in class software and hardware architecture, techniques, methods and procedures.
 
@@ -56,9 +56,9 @@ By opening an Account with PokerStars, you agree to the terms of this PRIVACY PO
 9\. Who are we?
 
 Rational Entertainment Enterprises Limited  
-49 Victoria Street  
+33-37 Athol Street  
 Douglas  
-Isle of Man, IM1 2LD  
+Isle of Man, IM1 1LB  
 
 
 Privacy Policy last revised: 02 June, 2008
