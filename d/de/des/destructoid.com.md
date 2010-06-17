@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925221831id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617183502id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
 
-# Destructoid - destructoid.com privacy policy
+# destructoid.com privacy policy- Destructoid
+
+  
+
+
+[](http://destructoid.com/elephant/rebirth-index-author.phtml?a=1329)
+
+[ ](http://www.destructoid.com/destructoid-com-privacy-policy-28114.phtml)
+
+**4:32 PM** on 03.25.2006    |   [Niero](http://destructoid.com/elephant/rebirth-index-author.phtml?a=1329)
 
 **Mini Privacy Policy:**
 
@@ -24,7 +33,8 @@ Furthermore, Destructoid.com does not divulge any information regarding the user
 
 **Online Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).  
+Destructoid does not sell its own ads.  We use third-party advertising companies to serve ads and collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on our Web Site, other web sites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).     
+ 
 
 In layman's terms: it's just a cookie that says "hey you saw this ad already" or "ok, he clicked on a banner ad for leather rock pants, lets show this guy more of those."  We don't share any information from your personal account with advertisers.
 
@@ -40,3 +50,39 @@ Be sure that you only disclose your e-mail address in circumstances in which it 
 **Contacting the Webmaster  
 **   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact the site owner at [niero@destructoid.com](mailto:niero@destructoid.com). I will do our best to reply within 48 hours.
+
+  
+**Continue reading:[More Industry Bullshit stories](http://destructoid.com/elephant/index-short.phtml?t=Industry%20Bullshit)**
+
+  
+
+
+  
+15 comments |  showing # 1 to 15  
+
+
+  
+| 
+
+Click connect and comment instantly! 
+
+| 
+
+[](http://destructoid.com/elephant/login.phtml?t=sup&back_to=http%3A%2F%2Fwww.destructoid.com%2Fprivacy-policy-28114.phtml%23comment-post-form)
+
+**New?[SIGN UP](http://destructoid.com/elephant/signup.phtml)** \- it takes 5 seconds   
+  
+---|---  
+  
+**Comments policy**
+
+Destructoid is an open discussion community. You don't need to "audition" to post a comment - just speak your mind. We respect differing opinions on the site, so have at it. Be smart, funny, insightful, clueless, or cute -- but back it up with substance. Keep your cool, keep it fun. We only ask that you act respectfully and above all: don't be a [troll](http://en.wikipedia.org/wiki/Troll_%28Internet%29) and ruin it for everyone else. Don't bring down gamers or we'll, you know, gently shoot you in the face and stuff you into a flaming mailbox. Each comment is your opportuntity to make this community [awesomer](http://www.destructoid.com/elephant/signup_thanks.phtml?t=potato). Is that even a word? 
+
+Avoiding the banhammer only requires common sense: spamming, trolling, racism, NSFW stuff, and [other forms of sucking](http://www.destructoid.com/blogs/Hamza+CTZ+Aziz/community-blogs-terms-and-conditions-77513.phtml) will not be tolerated. If anyone is griefing please [report abuse](mailto:support@destructoid.com). Be good. Don't suck! 
+
+[](http://www.destructoid.com/elephant/index-short.phtml?t=Kinect)
+
+  
+
+
+[](http://www.destructoid.com/elephant/index-short.phtml?t=Satire)
