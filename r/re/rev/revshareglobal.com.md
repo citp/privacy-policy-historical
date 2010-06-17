@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revshareglobal.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217174905id_/http%3A//revshareglobal.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revshareglobal.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617191828id_/http%3A//revshareglobal.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Best Online Advertising & Revenue Sharing | Global Revenue Sharing
 
