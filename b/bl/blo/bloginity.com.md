@@ -1,0 +1,24 @@
+> *The following text is extracted and transformed from the bloginity.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617174439id_/http%3A//www.bloginity.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Bloginity.com
+
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+
+All of the content featured or displayed on Bloginity.com including without limitation text, graphics, photographs, images, moving images, sound, and illustrations (“Content”), is owned by Bloginity, its licensees, vendors, agents and/or its content providers. All elements of Bloginity, including without limitation the general design and the Content, are protected by trade dress, copyright, moral rights, trademark and other laws relating to intellectual property rights.
+
+The Services and Bloginity.com may only be used for the intended purpose for which such web site and services are being made available. Except as may be otherwise indicated in specific documents within the web site, you are authorized to view, play, print and download documents, audio and video found on our web site for personal, informational, and noncommercial purposes only.  
+You may not modify any of the materials and you may not copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information or work contained on the Web Site. Except as authorized under the copyright laws, you are responsible for obtaining permission before reusing any copyrighted material that is available on the Web Site.
+
+For purposes of these Terms of Service, the use of any such material on any other web site or networked computer environment is prohibited. You shall comply with all applicable domestic and international laws, statutes, ordinances and regulations regarding your use of the Web Site and Services. The Web Site, its Content and all related rights shall remain the exclusive property of Bloginity or its licensees unless otherwise expressly agreed. You will not remove any copyright, trademark or other proprietary notices from material found on Bloginity.com.
+
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+
+
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
