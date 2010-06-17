@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scenedaily.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002651id_/http%3A//www.scenedaily.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenedaily.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617061747id_/http%3A//www.scenedaily.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Privacy Policy | NASCAR Racing News - SceneDaily.com
+# Privacy Policy | NASCAR News Now - SceneDaily.com
 
 Last Revised Monday, June 18th, 2009
 
