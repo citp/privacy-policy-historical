@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrostyle.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123132219id_/http%3A//www.astrostyle.com/The_AstroTwins/about_copyright_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrostyle.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617235101id_/http%3A//www.astrostyle.com/The_AstroTwins/about_copyright_privacy.htm) for the most accurate reproduction.*
 
-# Ophi & Seymour
+# Testimonials
 
 copyright & privacy policy
 
@@ -41,4 +41,14 @@ Privacy Statement for Children Under the Age of 13 : The activities of this site
 
 On certain occasions, AstroStyle.com may offer sweepstakes promotions and/or contests. Children under the age of 13 will be asked to check a box indicating he/she is under the age of 13. If so, he/she will be asked to submit his/her parent's email address. After retrieving such information, AstroStyle.com will send an email to the parent notifying him/her the child has registered and provide him/her with information about the program and give instructions on how the parent can remove the child from the promotion and/or contest. AstroStyle.com will use the collected information (emails) ONLY to notify the promotion and/or contest winners and their parent that they have won. AstroStyle.com requires the winners' parents to provide us with all information other than as needed for legal requirements in connection with the promotion and/or contest. At AstroStyle.com, we will ONLY collect the child's email as well as the parent's email for promotional or contest purposes and in no event will AstroStyle.com use the information for any other purposes than to award prizes. The child will not be able to enter any sweepstakes or contest if he/she does not submit his/her parent's email address. 
 
-[NEXT PAGE >](https://web.archive.org/web/20090123132219id_/http%3A//www.astrostyle.com/The_AstroTwins/about_copyright_privacy2.htm)
+When we receive a request to purchase a membership or merchandise from a child under the age of 13,which would require our collection of personally identifiable information, an email requesting the consent of the parent along with instructions on purchasing the membership online or via telephone or mail is sent to the parent. The parent must fill out the personally identifiable information needed including the parent's credit card number to consent to the child's purchase and participation in the ASTROSTYLE  Fan Club. 
+
+Message Board Policy : Participants must have a paid annual membership, which requires parental consent for a child under the age of 13, to join the AstroStyle.com Fan Club and participate on the AstroStyle.com Message Boards. It's recommended that visitors never give out their full name, home address, email address, telephone number, or any other personally identifiable information that would allow any other online user to contact you either online or offline. 
+
+The information, ideas or opinions posted through this website do not necessarily reflect the views of US. We shall not assume responsibility or liability for any postings or for any claims, damages or losses resulting from their use or appearance on this website. WE will sweep its message boards periodically at its discretion. 
+
+WE do not allow postings that contain: (1) profanity or obscenities; (2) libel, threatening, vulgar, offensive, pronorgraphic, profane, sexually explicit or indecent, defamatory, obscene, fraudulent, harmful, threatening, abusive or hateful, or personal confrontations (3) displaying any personal information about oneself or that of another including but not limited to name, address and telephone number; (4) any information posted, emailed that is of a commercial nature or contains advertising or solicitations.and (4) other information that AstroStyle.com believes is inappropriate. 
+
+This message board may only be used for noncommercial purposes. Users may not post any information intended to promote or generate revenue for themselves or other third-party businesses. WE remains committed toward providing our users with the best service available and will maintain reasonable procedures to protect our message boards. WE reserves the right to edit, delete or refuse to post any messages that violate its policies and does not endorse the accuracy or reliability of the content posted by its users. 
+
+[NEXT](https://web.archive.org/web/20100617235101id_/http%3A//www.astrostyle.com/The_AstroTwins/about_copyright_privacy2.htm)
