@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the librarium-online.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064507id_/http%3A//www.librarium-online.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the librarium-online.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617211909id_/http%3A//www.librarium-online.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Librarium Online
+# Privacy Policy |
 
 **Privacy Statement:**  
 Librarium Online is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.librarium-online.com.
@@ -54,7 +54,7 @@ Our site requests information from users via surveys or contests. Participation 
 _Security_  
 This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’.
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry – SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’.
 
 _Supplementation of Information_  
 In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
@@ -62,6 +62,8 @@ In order for this Web site to properly fulfill its obligation to users it is nec
 _Notification of Changes_  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
-With the exception of the pictures/images/sounds/text of the bands, albums, songs, and record labels, all text and images contained herein are owned by and are Copyright © 1995 - 2005 Librarium Online, LLC. Copying and/or reproduction except as noted is denied. If you’d like to link here, copy and/or use any of this material for any purpose, please read our copy and use provisions below. Thank you.
+With the exception of the pictures/images/sounds/text of the bands, albums, songs, and record labels, all text and images contained herein are owned by and are Copyright © 1995 – 2005 Librarium Online, LLC. Copying and/or reproduction except as noted is denied. If you’d like to link here, copy and/or use any of this material for any purpose, please read our copy and use provisions below. Thank you.
 
 If you would like to reproduce and/or use part of or all of this text in a printed document for educational, non-profit purposes you are welcome to do so, all I ask is that credit be given to me on the same document this information is reproduced, and that none of this text be modified or altered (if you would like to add your own comments feel free to do so by including them in parenthesis and establishing that the comments are not my own.) I do not give permission for any contents herein to be reproduced in whole or in part on another web page or web site (whatever the nature or purpose) or to be reproduced in whole or in part in any publication or collection of widespread circulation, whether offline or online, for whatever purpose. Translations of this page into other languages are not authorized.
+
+**Views: 0**
