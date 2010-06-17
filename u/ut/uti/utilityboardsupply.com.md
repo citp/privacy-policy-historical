@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utilityboardsupply.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217234621id_/http%3A//www.utilityboardsupply.com/page_221.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utilityboardsupply.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617151434id_/http%3A//www.utilityboardsupply.com/page_221.htm) for the most accurate reproduction.*
 
 # Privacy Policy : Largest skateboard mailorder Shop online. Utility Board Supply carries a huge selection from top brand such as: DVS Shoes, Fallen Shoes, Supra Shoes, Emerica, Nike SB, Adidas, Lakai and more. at Utility Board Supply
 
