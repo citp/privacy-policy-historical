@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217023631id_/http%3A//www.scoutlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617150341id_/http%3A//www.scoutlabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Scout Labs
 
@@ -24,7 +24,7 @@ This policy describes the use of Personal Information by Scout Labs. Scout Labs 
 
 “Site” means the www.scoutlabs.com site, spark.scoutlabs.com, commerce.scoutlabs.com, and the respective content and Services available from the site(s).
 
-“Workspace” means a collective area on the Site in which a group of members can post original content, flag third-party content, assign and execute tasks and have collective visibility to what other members of the same workspace have posted, flagged, assigned or executed. It is the responsibility of the members to maintain secure Workspaces according to the Member Account, Password and Security provisions in the Scout Labs Terms of Service available at www.scoutlabs.com/terms.
+“Workspace” means a collective area on the Site in which a group of members can post original content, flag third-party content, assign and execute tasks and have collective visibility to what other members of the same workspace have posted, flagged, assigned or executed. It is the responsibility of the members to maintain secure Workspaces according to the Member Account, Password and Security provisions in the Scout Labs Terms of Service available at www.scoutlabs.com/tos.
 
 2\. Consent
 
@@ -103,11 +103,10 @@ Scout Labs may change or supplement this Privacy Policy from time to time. We ma
 If you have any questions about this policy or our use of Personal Information, you may contact us at:
 
 Scout Labs, Inc.  
-199 Fremont Street, 12th Floor  
+575 Market St., 12th Floor  
 San Francisco, CA 94105  
 privacy  Scoutlabs.com 
 
 Your California Privacy Rights
 
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.  
-
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
