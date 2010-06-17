@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socceram.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218011559id_/http%3A//www.socceram.com/information/0%2C21688%2C13985%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socceram.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617152545id_/http%3A//www.socceram.com/information/0%2C21688%2C13985%2C00.html) for the most accurate reproduction.*
 
 # Sky Sports | Shows | Soccer AM | Privacy Statement
 
