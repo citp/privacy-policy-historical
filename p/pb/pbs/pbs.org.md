@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001914id_/http%3A//www.pbs.org/aboutsite/aboutsite_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617054246id_/http%3A//www.pbs.org/aboutsite/aboutsite_privacy.html) for the most accurate reproduction.*
 
 # PBS | About This Site . Privacy Policy
 
@@ -68,7 +68,7 @@ Our service providers have access to your personally identifiable information as
 
 Similarly, personally identifiable information provided in connection with a donation intended for a program, series or Member Station, or for purposes of ordering products, subscriptions or other services offered by the PBS Member Stations, will be shared by PBS or by such PBS Member Stations with third parties who perform services to process the donation or the applicable order. Also, in transmitting your donation or order to the local Member Station PBS may share your personally identifiable information with the Member Station for order or donation processing. 
 
-  At times, we make customer mailing lists available to carefully screened companies whose products or services might interest individuals who have shopped on the Site. **If you prefer that we not share your information in this way, please send an email to[www@pbs.org](mailto:www@pbs.org). **
+  At times, we make customer mailing lists available to carefully screened companies whose products or services might interest individuals who have shopped on the Site. **If you prefer that we not share your information in this way, please[contact us](https://web.archive.org/aboutsite/aboutsite_emailform.html). **
 
 We, or our service providers, may release personal identification information if we believe in good faith that the law or legal process requires it, we have received a valid administrative request from a law enforcement agency, or such release is necessary to protect anyone’s rights, property or safety.
 
@@ -104,7 +104,7 @@ Access to personally identifiable information that is collected from our Site ma
 **_PBS.org_**  
 **_2100 Crystal Drive_**  
 **_Arlington, VA 22202_**  
-**_Email:[www@pbs.org](mailto:www@pbs.org)_** ****  
+**_Email us by completing our[feedback form](https://web.archive.org/aboutsite/aboutsite_emailform.html)_**  
 **www.pbs.org**
 
 **V.   HOW IS MY INFORMATION PROTECTED?**  
@@ -116,7 +116,7 @@ PBS.org is a general audience Site and does not knowingly collect or store perso
 Any of our sites that are directed to children under the age of 13 ( _e.g._ , PBSKids site) comply with COPPA (Children’s Online Privacy Protection Act) standards, which are in addition to PBS.org policies.  For complete guidelines on children’s information collection, please visit the PBS KIDS PRIVACY POLICY. 
 
 **VII.   ACCEPTANCE OF PBS.ORG PRIVACY POLICY TERMS AND CONDITIONS**  
-By using this Site, you signify your agreement to the terms and condition of this pbs.org Privacy Policy. If you do not agree to the terms and conditions, please do not use the Site.  We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this policy at any time.  Please check this page periodically for any changes.  Your continued use of pbs.org following the posting of any changes to these terms shall signify your acceptance of those changes.  If you have any questions or concerns, please e-mail us at [www@pbs.org](mailto:www@pbs.org).
+By using this Site, you signify your agreement to the terms and condition of this pbs.org Privacy Policy. If you do not agree to the terms and conditions, please do not use the Site.  We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this policy at any time.  Please check this page periodically for any changes.  Your continued use of pbs.org following the posting of any changes to these terms shall signify your acceptance of those changes.  If you have any questions or concerns, please [contact us](https://web.archive.org/aboutsite/aboutsite_emailform.html).
 
 **VIII.  TERMS OF USE**  
 Please also make sure to read pbs.org’s TERMS OF USE to understand the additional terms and conditions which apply to your use of our Site. 
