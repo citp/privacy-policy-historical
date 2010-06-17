@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedrum.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142007id_/http%3A//www.thedrum.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedrum.co.uk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617163632id_/http%3A//www.thedrum.co.uk/information/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | THE DRUM - Advertising, Design, Media, Marketing, Digital, PR - News, Information & Jobs
+# Privacy Policy - THE DRUM - Advertising, Design, Media, Marketing, Digital, PR - News, Information & Jobs
 
 The privacy of your personal data is important to Carnyx Group Ltd. The following sets out what we do and what we do not do with the information we collect using this Website:
 
