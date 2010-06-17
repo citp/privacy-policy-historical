@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227063038id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617192404id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement (Getty About Us)
 
@@ -16,10 +16,10 @@ We will never share your e-mail address with anyone.
 Our Web server automatically records the IP addresses of visitors to our site. This information is used in aggregate form to helps us understand how visitors use the Getty online environment. The servers at this site also collect connection-related technical data. The data entries in these logs are used for server and network operation and maintenance and to help us understand general usage patterns.
 
 **Blogs**  
-The Getty provides blogs on this site. You are welcome to post comments to these blogs. You may post comments anonymously or under your name or alias. Names and aliases are publicly displayed. We do not save, use, or sell commenters' names or e-mail addresses.
+The Getty provides blogs on this site. You are welcome to post comments to these blogs. You may post comments anonymously or under your name or alias. Names and aliases are publicly displayed. We do not sell or share commenters' names or e-mail addresses; we do save commenters' e-mail addresses and will use them only to contact you if we have questions about the contents of your comments.
 
 **E-Cards**  
-Some pages on this site allow you to send free e-cards to a friend. E-cards are sent as links to a Getty.edu Web page. We do not save, use, or sell senders' or recipients' names or e-mail addresses.
+Some pages on this site allow you to send free e-cards to a friend. E-cards are sent as links to a Getty.edu Web page. We do not sell or share senders' or recipients' names or e-mail addresses; we do save e-mail addresses and we will use them only to contact you if necessary.
 
 **E-Newsletters**  
 The Getty offers free electronic newsletters sent via e-mail.
