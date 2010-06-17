@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopadidas.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217034331id_/http%3A//www.shopadidas.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopadidas.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617152633id_/http%3A//www.shopadidas.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
-# adidas Helpdesk
+# adidas - Help Desk -
 
 Privacy Policy
 
