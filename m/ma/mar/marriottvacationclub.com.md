@@ -1,41 +1,28 @@
-> *The following text is extracted and transformed from the marriottvacationclub.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422171910id_/http%3A//www.marriottvillas.com/email/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriottvacationclub.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617204624id_/http%3A//www.marriottvacationclub.com/privacy.html) for the most accurate reproduction.*
 
-# Marriott Vacation Club Email opt-out
+# Privacy Statement - Marriott Time Shares
 
-|  |   
-  
-
-
-## Internet Privacy Statement  
-  
-| 
-
-**Scope**
-
-This notice provides highlights of the full Marriott Vacation Club International Internet Privacy Statement. This notice and the full [Internet Privacy Statement](https://web.archive.org/email/privacy-full.asp) apply to those Marriott Vacation Club International websites and services that display or link to this notice.  
-  
----  
 | 
 
 **Personal Information**
 
   * We only collect information you choose to submit during your use of this website.
-  * We use common Internet technology such as [cookies](https://web.archive.org/email/privacy-full.asp#Cookies) on our website to offer a personalized service.
+  * We use common Internet technology such as [cookies](https://web.archive.org/web/20100617204624id_/http%3A//www.marriottvacationclub.com/privacy-full.html#Cookies) on our website to offer a personalized service.
   * The information we collect may be combined with other information, such as your demographic and lifestyle information, obtained from other companies.
-  * For more information about our information collection practices please [click here](https://web.archive.org/email/privacy-full.asp#Info).
+  * For more information about our information collection practices please [click here](https://web.archive.org/web/20100617204624id_/http%3A//www.marriottvacationclub.com/privacy-full.html#Info).
 
 
 
 **Uses of Information**
 
   * We use the information you submit to provide you with the service you requested. Our services may include the display of personalized content and advertising.
-  * We use the information about you to provide you with helpful and targeted offers on Marriott International and Marriott Vacation Club International products and Services. [Click here](https://web.archive.org/email/privacy-full.asp#Network) for more information.
+  * We use the information about you to provide you with helpful and targeted offers on Marriott International and Marriott Vacation Club International products and Services. [Click here](https://web.archive.org/web/20100617204624id_/http%3A//www.marriottvacationclub.com/privacy-full.html#Network) for more information.
 
 
 
 **Important Information**
 
-  * We take steps to protect the information you provide against unauthorized access and use. For more information [click here.](https://web.archive.org/email/privacy-full.asp#Securing)
+  * We take steps to protect the information you provide against unauthorized access and use. For more information [click here.](https://web.archive.org/web/20100617204624id_/http%3A//www.marriottvacationclub.com/privacy-full.html#Securing)
   * [We self-certify compliance with](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)  
 [](http://www.export.gov/safeharbor/)
 
@@ -43,7 +30,7 @@ This notice provides highlights of the full Marriott Vacation Club International
 
 **Your Choices**
 
-  * We do not sell, rent, or lease our customer lists to third parties without your prior approval. [Click here](https://web.archive.org/email/privacy-full.asp#Disclosure) for more information.
+  * We do not sell, rent, or lease our customer lists to third parties without your prior approval. [Click here](https://web.archive.org/web/20100617204624id_/http%3A//www.marriottvacationclub.com/privacy-full.html#Disclosure) for more information.
   * You may request access to personal information you have submitted to Marriott Vacation Club International by clicking this [link.](http://www.vacationclub.com/common/vc/en-us/pdfs/Data_Request_Form.pdf)
 
 
@@ -52,8 +39,7 @@ This notice provides highlights of the full Marriott Vacation Club International
 
 Our Internet Privacy Statement contains supplementary information about specific Marriott Vacation Club International privacy practices. For more information, go to:
 
-[http://www.marriottvillas.com  
-/email/privacy-full.asp](https://web.archive.org/email/privacy-full.asp)
+[http://www.marriott-vacations.com/travel/privacy-full.html](https://web.archive.org/web/20100617204624id_/http%3A//www.marriottvacationclub.com/privacy-full.html)
 
   
   
@@ -65,6 +51,13 @@ Marriott Vacation Club International
 Attention: MVCI Privacy  
 6649 Westwood Blvd, Suite 500  
 Orlando, FL 32821  
-United States of America  
+United States of America
+
+MG-09-117  
   
----|---|---
+---|---|---  
+  
+Bookmark [](http://www.facebook.com/share.php?u=%3Curl%3E)[](http://delicious.com/save)
+
+  
+
