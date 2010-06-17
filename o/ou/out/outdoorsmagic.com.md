@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the outdoorsmagic.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235206id_/http%3A//www.outdoorsmagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorsmagic.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617163015id_/http%3A//www.outdoorsmagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # OUTDOORSmagic - Privacy Policy
+
+You are looking at: [Home](https://web.archive.org/default.asp?sp=&v=1) : [](https://web.archive.org/members/mydetails.asp?sp=&v=1)Privacy Policy
 
 |   
 ---  
