@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the re-nest.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215205509id_/http%3A//www.re-nest.com/re-nest/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the re-nest.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617055812id_/http%3A//www.re-nest.com/re-nest/privacy) for the most accurate reproduction.*
 
 # Apartment Therapy Re-Nest Privacy Policy
 
@@ -90,9 +90,9 @@ Residents of the State of California, under certain provisions of the California
 
 Apartment Therapy, LLC
 
-22 Howard Street, Suite 4i
+270 Lafayette Street, Suite 1204
 
-New York, NY 10013
+New York, NY 10012
 
 Attn: California Privacy Request
 
