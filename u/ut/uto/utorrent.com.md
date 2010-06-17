@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217072803id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617094238id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - µTorrent - a (very) tiny BitTorrent client
 
