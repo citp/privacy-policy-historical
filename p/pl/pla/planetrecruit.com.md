@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217102246id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617213804id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # IT jobs, Telecom jobs and Engineering jobs in London & the UK - PlanetRecruit
 
 ## Privacy policy
+
+Trinity Mirror Digital Recruitment Limited, Company No. 01904765 ("PlanetRecruit") endeavours to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users.
 
 ### At PlanetRecruit we are committed to protecting your privacy
 
@@ -12,7 +14,7 @@ PlanetRecruit endeavours to ensure that the information that you submit to us re
 
 Information may be gathered from your registration form(s) and your use of the Sites and/or the Interactive Services including through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a web site which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name, unless the cookie attached to personal information collected another way, such as by means of your on-line registration form.
 
-The information gathered may be used by Hotonline limited and companies in the same group as Hotonline limited (ie companies which share the same ultimate parent company) internally, for purposes relating to your use of the Sites and the Interactive Services and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. By marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material. If you do not wish to receive marketing material from Hotonline limited, from companies in the same group as Hotonline limited or from carefully selected third parties you should tick the appropriate box on the registration form(s) or notify us by e-mail. If you subsequently decide you no longer wish to receive direct marketing/information from Hotonline limited or companies in the same group as Hotonline limited or no longer wish us to pass your information to third parties you should again notify us by e-mail.
+The information gathered may be used by Trinity Mirror Digital Recruitment Ltd and companies in the same group as Trinity Mirror Digital Recruitment Ltd (ie companies which share the same ultimate parent company) internally, for purposes relating to your use of the Sites and the Interactive Services and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. By marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material. If you do not wish to receive marketing material from Trinity Mirror Digital Recruitment Ltd, from companies in the same group as Trinity Mirror Digital Recruitment Ltd or from carefully selected third parties you should tick the appropriate box on the registration form(s) or notify us by e-mail. If you subsequently decide you no longer wish to receive direct marketing/information from Trinity Mirror Digital Recruitment Ltd or companies in the same group as Trinity Mirror Digital Recruitment Ltd or no longer wish us to pass your information to third parties you should again notify us by e-mail.
 
 Other than as set out elsewhere in this clause 5 your information shall not be disclosed or used by us. You hereby agree to these terms in this clause 5 by your agreement to the terms and conditions of this Agreement.
 
@@ -56,6 +58,6 @@ We do not disclose information about your individual visits to the PlanetRecruit
 
 
 
-### Contact PlanetRecruit Ltd.
+### Contact PlanetRecruit
 
-If you have any questions, concerns or comments regarding PlanetRecruit Ltd or this website, please contact us: PlanetRecruit Ltd, Beaumont House, Kensington Village, Avonmore Road, London, W14 8TS.
+If you have any questions, concerns or comments regarding PlanetRecruit or this website, please contact us: PlanetRecruit, Trinity Mirror Digital Recruitment Ltd, One Canada Square, Canary Wharf, London, E14 5AP.
