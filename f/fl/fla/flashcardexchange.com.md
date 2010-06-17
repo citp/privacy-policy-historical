@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217174755id_/http%3A//www.flashcardexchange.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617192714id_/http%3A//www.flashcardexchange.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,4 +64,4 @@ In the event that we or a portion of our assets are acquired by another company,
 
 We do not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our service generally. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it. We will not be liable for any damages, including incidental, consequential, or punitive damages, relating to the practices described in this Privacy Policy.
 
-Copyright © 2001-2009 Tuolumne Technology Group, Inc. 
+Copyright © 2001-2010 Tuolumne Technology Group, Inc. 
