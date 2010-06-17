@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiguruonline.info privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216145554id_/http%3A//www.desiguruonline.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiguruonline.info privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617185840id_/http%3A//desiguruonline.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Desiguruonline.info - Free Adult Image Host
 
@@ -8,4 +8,4 @@ We may also collect the URL from which you linked into our site, your IP address
 
 User privacy is something we take very seriously at MultiHoster. We do not, and have never, sold or disseminated (except in cases where required to by law enforcement agencies) the personal information of our users to any parties outside of MultiHoster. We use account information for the purposes of creating and maintaining individual user accounts, contacting a user in case of a problem with their account, for statistical purposes, to administer our systems, and to provide technical support. 
 
-If you have any question, please do not hesitate to [contact us](http://www.desiguruonline.info/contact.php?act=contact_us). 
+If you have any question, please do not hesitate to [contact us](http://desiguruonline.info/contact.php?act=contact_us). 
