@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235528id_/http%3A//www.sbcc.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617170410id_/http%3A//www.sbcc.edu/privacy.php) for the most accurate reproduction.*
 
 # SBCC: Privacy - Santa Barbara City College
 
@@ -19,4 +19,4 @@ All information submitted on this site must comply with the Children's Online Pr
   
 
 
-721 Cliff Drive Santa Barbara, CA 93109-2394    Main Campus Phone: 805.965.0581    © 2009 Santa Barbara City College
+721 Cliff Drive Santa Barbara, CA 93109-2394    Main Campus Phone: 805.965.0581    © 2010 Santa Barbara City College
