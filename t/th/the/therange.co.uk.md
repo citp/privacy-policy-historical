@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the therange.co.uk privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629040521id_/http%3A//www.therange.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therange.co.uk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617194911id_/http%3A//www.therange.co.uk/page/privacy) for the most accurate reproduction.*
 
 # The Range
 
-[Home](http://www.therange.co.uk/page/home) > Privacy Policy 
+[Home](http://www.therange.co.uk/page/home/) > Privacy Policy 
 
 Collection and Storage of Information  
 Marketing to Third Parties  
