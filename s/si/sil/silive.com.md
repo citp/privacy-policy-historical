@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218023044id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617162008id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SILive.com
-
-####  By [Gail Lubin](http://connect.nj.com/user/glubin/index.html)
-
-##### August 07, 2008, 10:47AM
 
 Last Revised **December 28, 2007**  
 
@@ -12,7 +8,7 @@ Last Revised **December 28, 2007**
 **Kids and parents click here!**  
 
 
-The following Privacy Policy summarizes the various ways that **Staten Island Live LLC** (“Service Provider,” “we” or “our”) treats the information you provide while using **www.silive.com** (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+The following Privacy Policy summarizes the various ways that **Staten Island Live LLC** ("Service Provider," "we" or "our") treats the information you provide while using **www.silive.com** ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at **http://www.silive.com/privacypolicy**. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
