@@ -1,38 +1,79 @@
-> *The following text is extracted and transformed from the legalsounds.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227093453id_/http%3A//www.legalsounds.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalsounds.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617131903id_/http%3A//www.legalsounds.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy mp3 download
 
-Privacy policy
+**What information do we collect?**
 
-Protecting your privacy is important to LegalSounds.com. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the LegalMedia and LegalSounds.com Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information. 
+We collect information from you when you register on our site. 
 
-Your Financial Information. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-In order to pay for the services of LegalSounds.com, we provide you with a payment transfer company’s (third party), which has concluded a contract with LegalMedia / LegalSounds.com, with confidentiality about information on payment means (data on credit cards and other payment systems). All data on the payment means you use to pay for LegalSounds.com services is therefore unavailable to LegalMedia, LegalSounds.com and/or its employees. 
+Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
-To save you time and make our web services even easier to use, the LegalSounds.com website allows you to create a "LegalSounds.com account" using your personal information. After you fill out a brief profile and choose a password the system saves your information and sends you an e-mail to confirm your registration and to activate your account.
+ **What do we use your information for?**
 
-Next time you want to use the LegalSounds.com service you can simply enter your email address you used during registration and password to login—the system will automatically look up the information it needs. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-At times we may be required by law or legal process to disclose your personal information. We may also disclose information about you if we believe that disclosure is necessary for the public interest. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Protection of Your personal information 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-LegalSounds.com safeguards the security of the data you send us with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, during creation of the password use a combination of letters and numbers, and make sure you use a secure browser. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-LegalSounds.com uses industry-standard Secure Sockets Layer (SSL) encryption on all web pages where personal information is required. To make purchases from the LegalSounds.com Service, you must use an SSL-enabled browser such as Internet Explorer. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet. 
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-Collection of Your personal information 
+• To send periodic emails
 
-When you browse LegalSounds.com website, you are able to do so anonymously. Generally, we do not collect personal information when you browse, not even your e-mail address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-Like many websites, the LegalSounds.com website uses "cookie" technology. When you first connect to our site, the cookie identifies your browser with a unique, random number. Cookies help us understand which parts of our websites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-LegalSounds.com website contains links to other sites. LegalSounds.com does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. 
+• To administer a contest, promotion, survey or other site feature
 
-If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email with request.
+ **How do we protect your information?**
 
-The LegalSounds.com Customer Privacy Policy is subject to change at any time. We ask you to review the privacy policy regularly for any changes. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Last updated April 28th, 2005  
-© Copyright 2005 Legalmedia. All rights reserved. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to�keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'My Details' page.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes. 
