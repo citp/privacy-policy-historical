@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cc.cc privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216163742id_/http%3A//www.cc.cc/etc/contents_view.php%3Fw%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cc.cc privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617212358id_/http%3A//www.cc.cc/etc/contents_view.php%3Fw%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - CC.CC : Sell Online The Easy Way, Web Business Made Simple.
 
