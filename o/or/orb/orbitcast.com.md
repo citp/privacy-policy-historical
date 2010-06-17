@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbitcast.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217091810id_/http%3A//www.orbitcast.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitcast.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617150755id_/http%3A//www.orbitcast.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Orbitcast
 
