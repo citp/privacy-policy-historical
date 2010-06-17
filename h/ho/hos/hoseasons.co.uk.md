@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027071434id_/http%3A//www.hoseasons.co.uk/V3/WebPages/shared/SecurityAndPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617050334id_/http%3A//www.hoseasons.co.uk/WebPages/shared/SecurityAndPrivacy.aspx) for the most accurate reproduction.*
 
 # Hoseasons
 
@@ -26,3 +26,5 @@ Where you give us details relating to your physical or mental health or conditio
 We promise to keep all personal details you give us in connection with your booking confidential. We have appropriate security measures in place to protect this information. 
 
 You may write to us or email us to ask us whether we or someone on our behalf is holding personal details of yours or is carrying out any operation in relation to any of them. You are entitled to ask us what details of yours are being held or processed, for what purpose and to whom they may be or have been disclosed. We will charge a fee to respond to such a request. We promise to respond to your request within 40 days of receiving your written request and fee.
+
+Calls may be recorded for training purposes 
