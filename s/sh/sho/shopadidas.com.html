@@ -1,461 +1,1798 @@
-<!--The following is the downloaded HTML source of the shopadidas.com privacy policy that was archived on 2009-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217034331id_/http%3A//www.shopadidas.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopadidas.com privacy policy that was archived on 2010-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617152633id_/http%3A//www.shopadidas.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
-
-<title>adidas Helpdesk</title>
-<meta name="description" content="Welcome to shopadidas.com your store for adidas shoes, clothing, adidas Originals and accessories for running, soccer, basketball, tennis and other sports.">
-<meta name="keywords" content="adidas, adidas store, NBA, adidas superstar, shopadidas, adidas shoes, adidas soccer shoes, adidas running shoes, adidas originals, adidas jacket, didas by Stella McCartney">
-
-
-
-<script language="Javascript">
-	//	BROWSER CHECK	
-	var containerBrowser = "Unknown";
-	var containerBrowser = parseFloat( navigator.appVersion);
-	
-	if	(navigator.appName == "Microsoft Internet Explorer")	{
-	containerBrowser = "IE";
-	}
-	
-	else if	(navigator.appName == "Netscape")	{
-	containerBrowser = "NN";
-	}
-
-
-    var agt=navigator.userAgent.toLowerCase();
-    var is_mac    = (agt.indexOf("mac")!=-1);	
-	
-
-
-
-
-
-	function showCustomPopUp(thisUrl,thisName,theseParams) {
-	remote = open(thisUrl, thisName, theseParams);
-	}	
-	
-//	GENERIC POP-UP
-	function showPopUp3x2(thisUrl) {
-	remote = open(thisUrl, "PopUp3x2", "width=300,height=200,left=150,top=0");
-	}
-	
-//	LARGE IMAGE POP-UP WINDOW
-	function showLargeImage(thisImage) {
-	remote = open(thisImage, "largeImage", "width=505,height=525,left=0,top=0");
-	}
-	
-//	verisign POP-UP WINDOW
-	function popUp(url) {
-	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
-	self.name = "mainWin"; }
-	
-	function jump(url) {
-	if(url != "" && url != null) {
-		self.location.href = url;
-		}
-	}
-
-// LEAVE THIS CODE IN HERE		LEAVE THIS CODE IN HERE		LEAVE THIS CODE IN HERE	
-
-<!--
-// if (parent.frames.length > 1) { window.top.location.href = document.location.href }
-var agt=navigator.userAgent.toLowerCase();
-var is_major = parseInt(navigator.appVersion);
-var is_minor = parseFloat(navigator.appVersion);
-var is_nav = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1) 
-           && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1) 
-           && (agt.indexOf('webtv')==-1));
-var is_nav3 = (is_nav && (is_major == 3));
-var is_nav3up = (is_nav && (is_major >= 3));
-var is_nav4 = (is_nav && (is_major == 4));
-var is_nav4up = (is_nav && (is_major >= 4));
-var is_navonly = (is_nav && ((agt.indexOf(";nav") != -1) || 
-                  (agt.indexOf(";nav") != -1)) );
-var is_nav5 = (is_nav && (is_major == 5));
-var is_nav5up = (is_nav && (is_major >= 5));
-var is_ie = (agt.indexOf("msie") != -1);
-var is_ie3 = (is_ie && (is_major < 4));
-var is_ie4 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) );
-var is_ie4up = (is_ie  && (is_major >= 4));
-var is_ie5 = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
-var is_ie5up = (is_ie  && !is_ie3 && !is_ie4);
-var is_aol = (agt.indexOf("aol") != -1);
-var is_aol3 = (is_aol && is_ie3);
-var is_aol4 = (is_aol && is_ie4);
-var is_opera = (agt.indexOf("opera") != -1);
-var is_webtv = (agt.indexOf("webtv") != -1);
-var is_mac = (agt.indexOf("mac")!=-1);
-function fAutoPulldown(vSelected){
-	var URL = window.location.href;
-	var vStartCedroID = URL.indexOf("/cedroID/");
-	var vEndCedroID = URL.indexOf("/", (vStartCedroID + 9));
-	var sCedroID = URL.substring(vStartCedroID,vEndCedroID);
-
-	if (vSelected == "") {} else {
-		window.location = (sCedroID + vSelected);
-	}
-}
-
-// LEAVE THIS CODE IN HERE		LEAVE THIS CODE IN HERE		LEAVE THIS CODE IN HERE	
-
-function fPopup(URLb,width,height,scroll,tbar){
-	var URL = window.location.href;
-	var vStartCedroID = URL.indexOf("/cedroID/");
-	var vEndCedroID = URL.indexOf("/", (vStartCedroID + 9));
-	var sCedroID = URL.substring(vStartCedroID,vEndCedroID);
-
-	vNav3WidthAddition = 20; vNav3HeightAddition = 20;
-	vNav4WidthAddition = 0; vNav4HeightAddition = 0;
-	vIE3WidthAddition = 0; vIE3HeightAddition = 0;
-
-	if (is_nav3){
-		width = parseInt(width) + vNav3WidthAddition;
-		height = parseInt(height) + vNav3HeightAddition;
-	} else {
-		if (is_nav4){
-			width = parseInt(width) + vNav4WidthAddition;
-			height = parseInt(height) + vNav4HeightAddition;
-		} else {
-			if (is_ie3){
-				width = parseInt(width) + vIE3WidthAddition;
-				height = parseInt(height) + vIE3HeightAddition;
-			}
-		}
-	}	
-	var wPopup = window.open(sCedroID + URLb,"wPopupWindow","width=" + width + ",height=" + height + ",scrollbars=" + scroll + ",toolbar=" + tbar + ",resizable=yes")
-}
-
-			function jump(url) {
-				if(url != "") {
-					self.location.href = url;
-				}
-			}
-// -->
-
-</script>
-
-
-<link rel="stylesheet" type="text/css" href="http://ADUS.imageg.net/include/store.css">
-</head>
-
-<body>
-<a name="pageTop()"><!-- --></a>
-<script language="JavaScript" type="text/javascript">
-// point&roll
-function toggleVisibility(id, NNtype, IEtype, WC3type) 
-{
-    if (document.getElementById) {
-        eval("document.getElementById(id).style.visibility = \"" + WC3type + "\"");
-    } else {
-        if (document.layers) {
-            document.layers[id].visibility = NNtype;
-        } else {
-            if (document.all) {
-                eval("document.all." + id + ".style.visibility = \"" + IEtype + "\"");
-            }
-        }
-    }
-}
-
-//rollovers
-if (document.images) {
-
-image1on = new Image();
-image1on.src = "http://ADUS.imageg.net/images/home_register_on.gif";
-image2on = new Image();
-image2on.src = "http://ADUS.imageg.net/images/home_giftcert_on.gif";
-image3on = new Image();
-image3on.src = "http://ADUS.imageg.net/images/home_contact_on.gif";
-
-image1off = new Image(); 
-image1off.src = "http://ADUS.imageg.net/images/home_register_off.gif"; 
-image2off = new Image(); 
-image2off.src = "http://ADUS.imageg.net/images/home_giftcert_off.gif";
-image3off = new Image();
-image3off.src = "http://ADUS.imageg.net/images/home_contact_off.gif";
-
-}
-function imgOn(imgName) {
-        if (document.images) {
-            document[imgName].src = eval(imgName + "on.src");
-}
-}
-function imgOff(imgName) {
-        if (document.images) {
-            document[imgName].src = eval(imgName + "off.src");
-}
-}
-
-function emailPop(url) {
-  	theWindow = window.open(url,
-  	'mapWin', 'width=770,height=465,left=118,top=100,scrollbars=no,resizable=no')
-	theWindow.focus();
-	}
-
-</script>
-
-
-
-
-
-
-<!--catid = <br>-->
-<div style="display:none">Thank you for visiting Adidas. If you need assistance with shopping on our site, please call us at 800-982-9337 and a customer care representative will be happy to assist you. Please inform the Customer Service representative that you require assistance.</div>
-<script src="http://ADUS.imageg.net/include/dhtml_menus.js" type="text/javascript"></script>
-<table class="cellpadding=" 0"="" cellspacing="0" border="0" align="center" width="770">
-<tbody><tr>
-	<td width="118" rowspan="2"><a href="/home/index.jsp"><img src="http://ADUS.imageg.net/images/logo.jpg" height="70" width="118" alt="shopadidas.com" border="0"></a></td>
-	<td height="30" align="right" colspan="2" class="minicartContainer"><div id="minicart" style="display:none"></div>
-<style type="text/css">
-<!--
-	    #utilNav #myAccountLnk {
-		width : 68px;
-	    
-		background-image : url('http://ADUS.imageg.net/images/myaccount.gif');
-	    
-	    }
--->
-</style>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
 	
-	<table cellpadding="0" cellspacing="0" border="0" id="utilNav">
-	    <tbody><tr>
-		<td width="40" height="30"><a href="/home/index.jsp?clickid=topnav_home_txt" id="homeLnk">Home Page</a></td>
-		<td width="68" height="30"><a href="/shop/index.jsp?categoryId=2556552&amp;source=INT_STORELOCATOR" id="storeLocLnk">Find a Store</a></td>
-		<td width="62" height="30"><a href="/giftCards/index.jsp" id="giftCardLnk">Gift Cards</a></td>
-		<td width="75" height="30"><a href="javascript:emailPop('http://www.adidas.com/us/register/shopadidas/register.asp')" id="registerLnk">Email Sign Up</a></td>
-		<td width="68" height="30"><a href="https://www.shopadidas.com/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" id="myAccountLnk">My Account</a></td>
-		<td>
-		    <table cellpadding="0" cellspacing="0" border="0" width="90">
-			<tbody><tr>
-			    <td width="40" height="30"><a href="/cart/index.jsp?clickid=topnav_cart_txt" name="&amp;lid=Cart" id="cartLnk">Cart: </a></td>
-			    <td valign="center" nowrap="">&nbsp;&nbsp;<a href="/cart/index.jsp?clickid=topnav_cart_txt" name="&amp;lid=Cart" class="topnavlink2" id="cartQtyLnk">0 items</a></td>
-			</tr>
-		    </tbody></table>
-		</td>
-		<td width="22"><a href="/helpdesk/index.jsp?clickid=botnav_helpdesk_txt" id="helpLnk">Help Desk</a></td>
-		<td width="120"><span id="phoneLnk">Call 1-800-982-9337</span></td>
-	    </tr>
-	</tbody></table>
-    </td>
-</tr>
-<tr> 
-
-<!--wmns1 = -1<br>
-wmns2 = -1<br>
-wmns3 = -1<br>
-wmns4 = -1<br>
-sale1 = -1<br>-->
- <td height="40" width="469" valign="bottom">
-    <div id="content">
-	<span id="mens">
-	    <img src="http://ADUS.imageg.net/images/mens.gif" border="0" alt="Mens">
-	</span>
-	<span id="womens">
-	    <img src="http://ADUS.imageg.net/images/womens.gif" border="0" alt="Womens">
-	</span>
-	<span id="kids">
-	    <a href="/category/index.jsp?categoryId=2039850&amp;cp=2019629&amp;clickid=topnav_kidsdrop_1"><img src="http://ADUS.imageg.net/images/kids.gif" border="0" alt="Kids"></a>
-	</span>
-	<span id="sale">
-	    <a href="../outlet/index.jsp?categoryId=2041575&amp;cp=2041575&amp;clickid=topnav_saledrop_1"><img src="http://ADUS.imageg.net/images/outlet.gif" border="0" alt="Outlet"></a>
-	</span>
-	<a href="/shop/index.jsp?categoryId=2039765"><img src="http://ADUS.imageg.net/images/originals.gif" border="0" alt="Originals"></a>
-	<a href="http://www.miadidas.com"><img src="http://ADUS.imageg.net/images/miadidas.gif" border="0" alt="mi adidas"></a>
-    </div>
-	</td>
-	<td><img src="http://ADUS.imageg.net/images/pixel.gif" height="10" width="1"><br>
-	<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td valign="center" align="right">
-		<form action="/searchHandler/index.jsp" name="search" style="margin:0px;display:inline;">
-		<input type="text" size="26" name="keywords" style="font-size:10px;color:#444444;width:175px;" value="Keyword Search" onfocus="this.value=''" onblur="if(this.value==''){this.value='Keyword Search';}"></form></td>
-		<td valign="center"><input type="image" src="http://ADUS.imageg.net/images/go.gif" hspace="0" border="0" align="absmiddle" alt="Click here to search"></td>
-	</tr>
-	</tbody></table></td>
-</tr>
-<tr>
-	<td height="3" bgcolor="#999999" colspan="3"><img src="http://ADUS.imageg.net/images/pixel.gif" height="3" width="1"></td>
-</tr>
-<tr>
-	<td bgcolor="#FFFFFF" colspan="3"><img src="http://ADUS.imageg.net/images/pixel.gif" height="10" width="1"></td>
-</tr>
-</tbody></table><script language="javascript">
-if (TransMenu.isSupported()) {
-
-var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bottomLeft);
-
-	var menu1 = ms.addMenu(document.getElementById("mens"));menu1.addItem("Sport Shoes", "/category/index.jsp?categoryId=2039609&cp=2019627&clickid=topnav_mensdrop_1");menu1.addItem("Sport Apparel", "/category/index.jsp?categoryId=2039608&cp=2019627&clickid=topnav_mensdrop_2");menu1.addItem("Sport Accessories", "/family/index.jsp?categoryId=2106699&cp=2019627&clickid=topnav_mensdrop_3");menu1.addItem("Originals Shoes", "/family/index.jsp?categoryId=2019613&cp=2019627&clickid=topnav_mensdrop_4");menu1.addItem("Originals Apparel", "/family/index.jsp?categoryId=2019616&cp=2019627&clickid=topnav_mensdrop_5");menu1.addItem("Originals Accessories", "/family/index.jsp?categoryId=2106701&cp=2019627&clickid=topnav_mensdrop_6");
-
-	//==================================================================================================
 	
-	var menu2 = ms.addMenu(document.getElementById("womens"));menu2.addItem("Sport Shoes", "/category/index.jsp?categoryId=2039726&cp=2019628&clickid=topnav_womensdrop_1");menu2.addItem("Sport Apparel", "/category/index.jsp?categoryId=2039727&cp=2019628&clickid=topnav_womensdrop_2");menu2.addItem("Sport Accessories", "/family/index.jsp?categoryId=2106700&cp=2019628&clickid=topnav_womensdrop_3");menu2.addItem("Originals Shoes", "/family/index.jsp?categoryId=2019615&cp=2019628&clickid=topnav_womensdrop_4");menu2.addItem("Originals Apparel", "/family/index.jsp?categoryId=2019617&cp=2019628&clickid=topnav_womensdrop_5");menu2.addItem("Originals Accessories", "/family/index.jsp?categoryId=2106701&cp=2019628&clickid=topnav_womensdrop_6");
-
-	//==================================================================================================
 	
-	var menu3 = ms.addMenu(document.getElementById("kids"));
-	menu3.addItem("Shoes &amp; Apparel","/category/index.jsp?categoryId=2039850&cp=2019629&clickid=topnav_kidsdrop_1");
+	
+	
+	<title>adidas - Help Desk - </title>
+	<!--  Do not edit/add css links here. Use the min-cat project. Config file: /ant-min-cat/site-css.xml -->
+<link href="http://ADUS.imageg.net/min-cat/site-css.xml.min.css" type="text/css" rel="stylesheet">
+<!--  end min-cat section -->
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
+	
 	
 
-	//==================================================================================================
+	<!--[if IE]><link href="http://ADUS.imageg.net/css/ie.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if IE 6]><link href="http://ADUS.imageg.net/css/ie-6.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if IE 7]><link href="http://ADUS.imageg.net/css/ie-7.css" rel="stylesheet" type="text/css" /><![endif]-->
 	
-	var menu4 = ms.addMenu(document.getElementById("sale"));
-    menu4.addItem("Shoes, Apparel, &amp; Accessories","/outlet/index.jsp?categoryId=2041575&cp=2041575&clickid=topnav_saledrop_1");
 	
-	TransMenu.renderAll();
-	TransMenu.initialize();
-	
-	menu1.onactivate = function() {  };
-	menu1.ondeactivate = function() {  };
-
-	menu2.onactivate = function() {  };
-	menu2.ondeactivate = function() {  };
-
-	menu3.onactivate = function() {  };
-	menu3.ondeactivate = function() {  };
-	
-	menu4.onactivate = function() {  };
-	menu4.ondeactivate = function() {  };
-
-}
-
-</script>
-<!--base--><!--test-->
-
-<table width="760" cellpadding="0" cellspacing="0" border="0" align="center">
-<tbody><tr>
-	<td><table cellpadding="6" border="0" width="100%">
-    <tbody><tr><td>
-       <a class="breadcrumb" href="/home/index.jsp" onclick="javascript:location.href=&quot;/home/index.jsp&quot;;return false;">
-       Return to shopping</a>&nbsp;
-|&nbsp;
-
-    <a class="breadcrumb" href="/helpdesk/index.jsp">Help Desk</a>
-
-    </td></tr>
-</tbody></table>
-<br>
-
-
-
-
-</td>
-</tr>
-</tbody></table>
-<br>
-<table border="0" width="760" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr>			
-	<td valign="top">		
-
-<!--*********************************** STOREMAN HELPDESK STARTS**************************************-->
-
-								
-
-<table width="763" border="0" valign="top">
-	<tbody><tr>
-		<td valign="top">
-<!-- navigation -->
-			<table width="200" border="0" cellpadding="0" cellspacing="0" valign="top">
-				<tbody><tr>
-					<td valign="top" bgcolor="#DADADA">&nbsp;&nbsp;</td>
-					<td width="193" height="32" valign="middle" colspan="1" align="left" bgcolor="#DADADA">
-					<font class="navlinkheader">Privacy &amp; Security</font></td>
-				</tr>
-				<tr bgcolor="#EDEDED">
-					<td valign="top">&nbsp;&nbsp;</td>
-					<td valign="top">
-					<table border="0">
-				
-				<tbody><tr onmouseover="this.style.background='#FFFFFF';" onmouseout="this.style.background='#EDEDED';" bgcolor="#EDEDED">
-								
-							<td valign="top">
-					
-							   <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="navlinksub">Secure Shopping Guarantee</a>
-
-						
-					</td>
-					
-				</tr>
-				<tr>
-					<td bgcolor="#EDEDED" colspan="2"><img src="../images/pixel.gif" width="5" height="1"></td>
-				</tr>
-				
-				<tr onmouseover="this.style.background='#FFFFFF';" onmouseout="this.style.background='#EDEDED';" bgcolor="#EDEDED">
-								
-							<td valign="top">
-					
-							   <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="navlinksub">Terms &amp; Conditions</a>
-
-						
-					</td>
-					
-				</tr>
-				<tr>
-					<td bgcolor="#EDEDED" colspan="2"><img src="../images/pixel.gif" width="5" height="1"></td>
-				</tr>
-				
-				<tr onmouseover="this.style.background='#FFFFFF';" onmouseout="this.style.background='#EDEDED';" bgcolor="#EDEDED">
-								
-							<td valign="top">
-					
-							   <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="navlinksub">Privacy Policy</a>
-
-						
-					</td>
-					
-				</tr>
-				<tr>
-					<td bgcolor="#EDEDED" colspan="2"><img src="../images/pixel.gif" width="5" height="1"></td>
-				</tr>
-				
-				<tr onmouseover="this.style.background='#FFFFFF';" onmouseout="this.style.background='#EDEDED';" bgcolor="#EDEDED">
-								
-							<td valign="top">
-					
-									<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv&amp;topic=vbv" class="navlinksub">Verified by Visa</a>
-									
-					</td>
-					
-				</tr>
-				<tr>
-					<td bgcolor="#EDEDED" colspan="2"><img src="../images/pixel.gif" width="5" height="1"></td>
-				</tr>
-				
-				<tr onmouseover="this.style.background='#FFFFFF';" onmouseout="this.style.background='#EDEDED';" bgcolor="#EDEDED">
-								
-							<td valign="top">
-					
-									<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="navlinksub">MasterCard SecureCode</a>
-								
-					</td>
-					
-				</tr>
-				<tr>
-					<td bgcolor="#EDEDED" colspan="2"><img src="../images/pixel.gif" width="5" height="1"></td>
-				</tr>
-				
-				<tr>
-					<td bgcolor="#EDEDED"><img src="../images/pixel.gif" width="5"></td>
-				</tr>
-				</tbody></table>
-				</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td valign="top" width="550">
-				<!--a href="/helpdesk/index.jsp"><img src="../images/hd/help_desk.gif" border = "0"></a-->
+		
+		
 			
-						
-						
-						<!-- panel -->
-						<!--here is panelId::2045763-->
-<!--here is pd::null-->
-<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 2045763 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/ADUS_Security_9-3.19997.jsp-->
+		
+	
+	
+	<script type="text/javascript" src="http://ADUS.imageg.net/include/swfobject.js"></script>
+	
+<script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script><script src="/foresee/foresee-dhtml-popup.js" type="text/javascript" id="foresee-dhtml-popup"></script><link rel="stylesheet" media="screen" type="text/css" href="/foresee/foresee-dhtml.css"></head>
+<body class="twoColFixHdr help safetyprivacy">
+	<div id="helpdesk-article">
+		<div id="container">
+			<div id="header">
+				<div class="wrap">
+					
 
-								<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><!--You are running on ashprd2_ws_53_1-->
+
+
+
+
+
+
+<div id="adus-header">
+	<ul id="headerUtilNav">
+		
+		<li id="find"><a href="/storelocator;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067"><span>Find a Store</span></a></li>
+		<li id="email">
+			<a href="javascript:adus.showCustomPopUp('http://www.adidas.com/us/register/shopadidas/register.asp', 'EmailSignup', 'width=770,height=465,left=118,top=100,scrollbars=no,resizable=no');"><span>Email Sign-Up</span></a>
+		</li>
+		
+		<li id="gift"><a href="/giftCards/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067"><span>Gift Cards</span></a></li>
+		
+			
+			
+				<li id="account">
+					
+					<a href="https://www.shopadidas.com/coreg/index.jsp?step=register"><span>My Account</span></a>
+				</li>
+			
+		
+		
+		<li id="track"><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=ship&amp;subdisplay=tracking"><span>Track Your Order</span></a></li>
+		<li id="phone"><span>Call 1-800-982-9337</span></li>
+	</ul>
+	<div id="primaryNav">
+		<div id="siteNav">
+			
+			
+			<a href="/home/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067" title="shopadidas.com">
+				
+				
+					
+						<img id="mainLogo" src="http://ADUS.imageg.net/images/adus_headerLogo.gif" alt="shopadidas.com">
+					
+					
+				
+			</a>
+			<div id="countrySelector">United States</div>
+		</div>
+		<ul id="mainNav">
+			
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+		<li class="group1" id="mainNav3748174">
+			<a href="/category/index.jsp?categoryId=3748174">
+				<span>Men's Shoes &amp; Apparel</span>
+			</a>
+			<ul>
+				
+					
+					<li class="col1">
+					
+
+					
+						<div class="navProduct">
+							<span>Men's Shoes &amp; Apparel Product Menu</span>
+							<ol>
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2039609" title="Shoes" id="cat2039609" class="Shoes" rel="redir:p+cp=3748174.3748184">
+			Shoes
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2039608" title="Apparel" id="cat2039608" class="Apparel" rel="redir:p+cp=3748174.3748184">
+			Apparel
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3857248" title="Accessories" id="cat3857248" class="Accessories" rel="redir:p+cp=3748174.3748184">
+			Accessories
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748199" title="Equipment" id="cat3748199" class="Equipment" rel="redir:p+cp=3748174.3748184">
+			Equipment
+		</a>
+	</li>
+
+
+</ol>
+						</div>
+					
+					
+				
+					
+					
+					
+
+					
+						<div class="navBrand">
+							<span>Men's Shoes &amp; Apparel Brand Menu</span>
+							<ol>
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748348" title="Sport" id="cat3748348" class="Sport" rel="redir:p+cp=3748174.3748185">
+			Sport
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748449" title="Originals" id="cat3748449" class="Originals" rel="redir:p+cp=3748174.3748185">
+			Originals
+		</a>
+	</li>
+
+
+</ol>
+						</div>
+					
+					</li>
+				
+					
+					
+					<li class="col2">
+
+					
+						<div class="navSport">
+							<span>Men's Shoes &amp; Apparel Sport Menu</span>
+							<ol>
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748230" title="Baseball" id="cat3748230" class="Baseball" rel="redir:p+cp=3748174.3748186">
+			Baseball
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748232" title="Basketball" id="cat3748232" class="Basketball" rel="redir:p+cp=3748174.3748186">
+			Basketball
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3877826" title="Collegiate" id="cat3877826" class="Collegiate" rel="redir:p+cp=3748174.3748186">
+			Collegiate
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748238" title="Football" id="cat3748238" class="Football" rel="redir:p+cp=3748174.3748186">
+			Football
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748237" title="Motorsports" id="cat3748237" class="Motorsports" rel="redir:p+cp=3748174.3748186">
+			Motorsports
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748265" title="Outdoor" id="cat3748265" class="Outdoor" rel="redir:p+cp=3748174.3748186">
+			Outdoor
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748266" title="Running" id="cat3748266" class="Running" rel="redir:p+cp=3748174.3748186">
+			Running
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748267" title="Skate" id="cat3748267" class="Skate" rel="redir:p+cp=3748174.3748186">
+			Skate
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748268" title="Soccer" id="cat3748268" class="Soccer" rel="redir:p+cp=3748174.3748186">
+			Soccer
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748270" title="Tennis" id="cat3748270" class="Tennis" rel="redir:p+cp=3748174.3748186">
+			Tennis
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748272" title="Training" id="cat3748272" class="Training" rel="redir:p+cp=3748174.3748186">
+			Training
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748273" title="Wrestling" id="cat3748273" class="Wrestling" rel="redir:p+cp=3748174.3748186">
+			Wrestling
+		</a>
+	</li>
+
+
+</ol>
+						</div>
+					
+					</li>
+				
+				
+					<li class="col3">
+
+
+<!-- /cmsTemplates -->
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_53_1-->
+
+
+
+<!-- BEGIN adus_ess_mainNavInclude_1 -->
+<script type="text/javascript" src="http://ADUS.imageg.net/include/flashobject.js"></script>
+<script type="text/javascript" src="http://ADUS.imageg.net/include/swfobject.js"></script>
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  121585   -->
+<!-- === Page Name:  launch_mainnavinclude1   -->
+<!-- === Page URI:  /gsi/adus/cmsTemplates/adus_ess_mainNavInclude_1.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  60481   -->
+<!-- === Campaign Name:  ADUSRedesign04012010   -->
+<!-- === Campaign Tracking Code:  ADUSRedesign04012010   -->
+<!-- === Campaign Start Time:  2010-04-22 00:09:00.0   -->
+<!-- === Campaign End Time:  null   -->
+<!-- === -->
+<!-- === Request URI:  /gsi/adus/helpdesk/index.jsp   -->
+<!-- === Request Query String:  display=safety&subdisplay=privacy   -->
+<!-- === Include URI:  /gsi/adus/cmsTemplates/adus_ess_mainNavInclude_1.jsp   -->
+<!-- === Include Query String:  null   -->
+<!-- ================================================================================= -->
+<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  261756   -->
+<!-- === Widget Name:  adus_mainNavInclude_1   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {adus_mainNavInclude_1=261756}   -->
+<!-- ================================================================================= -->
+<div name="adus_mainNavInclude_1" id="adus_mainNavInclude_1" style="width:160px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/adus//cms_widgets/26/17/261756.jsp   -->
+<img height="260" alt="adidas Mens" width="160" usemap="#mens" border="0" src="/cms_widgets/26/17/261756_assets/160x282_Men_Drop_Down_New.jpg"><map name="mens" id="mens"><area shape="rect" coords="-1,0,170,23" href="/family/index.jsp?categoryId=3847306&amp;f=PAD%2FGender%2FMen" alt="adidas Men's Sale Apparel and Shoes"><area shape="rect" coords="0,23,169,43" href="/family/index.jsp?categoryId=3862495&amp;f=PAD/Gender/Men" alt="adidas Men's New Shoes and Apparel"><area shape="rect" coords="-2,42,164,70" href="/category/index.jsp?categoryId=2503288&amp;sr=1&amp;origkw=nba" alt="adidas Official NBA apparel"><area shape="rect" coords="-10,69,183,296" href="/giftCards/index.jsp" alt="adidas Gift Cards"></map><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT -->
+<!-- END adus_ess_mainNavInclude_1 -->
+</li>
+				
+				
+			</ul>
+		</li>
+	
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+		<li class="group1" id="mainNav3748175">
+			<a href="/category/index.jsp?categoryId=3748175">
+				<span>Women's Shoes &amp; Apparel</span>
+			</a>
+			<ul>
+				
+					
+					<li class="col1">
+					
+
+					
+						<div class="navProduct">
+							<span>Women's Shoes &amp; Apparel Product Menu</span>
+							<ol>
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2039726" title="Shoes" id="cat2039726" class="Shoes" rel="redir:p+cp=3748175.3748276">
+			Shoes
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2039727" title="Apparel" id="cat2039727" class="Apparel" rel="redir:p+cp=3748175.3748276">
+			Apparel
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3877822" title="Accessories" id="cat3877822" class="Accessories" rel="redir:p+cp=3748175.3748276">
+			Accessories
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748289" title="Equipment" id="cat3748289" class="Equipment" rel="redir:p+cp=3748175.3748276">
+			Equipment
+		</a>
+	</li>
+
+
+</ol>
+						</div>
+					
+					
+				
+					
+					
+					
+
+					
+						<div class="navBrand">
+							<span>Women's Shoes &amp; Apparel Brand Menu</span>
+							<ol>
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748349" title="Sport" id="cat3748349" class="Sport" rel="redir:p+cp=3748175.3748277">
+			Sport
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748450" title="Originals" id="cat3748450" class="Originals" rel="redir:p+cp=3748175.3748277">
+			Originals
+		</a>
+	</li>
+
+
+</ol>
+						</div>
+					
+					</li>
+				
+					
+					
+					<li class="col2">
+
+					
+						<div class="navSport">
+							<span>Women's Shoes &amp; Apparel Sport Menu</span>
+							<ol>
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748293" title="Basketball" id="cat3748293" class="Basketball" rel="redir:p+cp=3748175.3748282">
+			Basketball
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748297" title="Golf" id="cat3748297" class="Golf" rel="redir:p+cp=3748175.3748282">
+			Golf
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748298" title="Outdoor" id="cat3748298" class="Outdoor" rel="redir:p+cp=3748175.3748282">
+			Outdoor
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748299" title="Running" id="cat3748299" class="Running" rel="redir:p+cp=3748175.3748282">
+			Running
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748300" title="Skate" id="cat3748300" class="Skate" rel="redir:p+cp=3748175.3748282">
+			Skate
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748301" title="Soccer" id="cat3748301" class="Soccer" rel="redir:p+cp=3748175.3748282">
+			Soccer
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748304" title="Tennis" id="cat3748304" class="Tennis" rel="redir:p+cp=3748175.3748282">
+			Tennis
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748309" title="Training" id="cat3748309" class="Training" rel="redir:p+cp=3748175.3748282">
+			Training
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748312" title="Volleyball" id="cat3748312" class="Volleyball" rel="redir:p+cp=3748175.3748282">
+			Volleyball
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748295" title="Yoga" id="cat3748295" class="Yoga" rel="redir:p+cp=3748175.3748282">
+			Yoga
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3899597" title="Plus Size Training" id="cat3899597" class="Plus Size Training" rel="redir:p+cp=3748175.3748282">
+			Plus Size Training
+		</a>
+	</li>
+
+
+</ol>
+						</div>
+					
+					</li>
+				
+				
+				
+					<li class="col3">
+
+
+<!-- /cmsTemplates -->
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_53_1-->
+
+
+
+<!-- BEGIN adus_ess_mainNavInclude_2 -->
+<script type="text/javascript" src="http://ADUS.imageg.net/include/flashobject.js"></script>
+<script type="text/javascript" src="http://ADUS.imageg.net/include/swfobject.js"></script>
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  121586   -->
+<!-- === Page Name:  launch_mainnavinclude2   -->
+<!-- === Page URI:  /gsi/adus/cmsTemplates/adus_ess_mainNavInclude_2.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  60481   -->
+<!-- === Campaign Name:  ADUSRedesign04012010   -->
+<!-- === Campaign Tracking Code:  ADUSRedesign04012010   -->
+<!-- === Campaign Start Time:  2010-04-22 00:09:00.0   -->
+<!-- === Campaign End Time:  null   -->
+<!-- === -->
+<!-- === Request URI:  /gsi/adus/helpdesk/index.jsp   -->
+<!-- === Request Query String:  display=safety&subdisplay=privacy   -->
+<!-- === Include URI:  /gsi/adus/cmsTemplates/adus_ess_mainNavInclude_2.jsp   -->
+<!-- === Include Query String:  null   -->
+<!-- ================================================================================= -->
+<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  261758   -->
+<!-- === Widget Name:  adus_mainNavInclude_2   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {adus_mainNavInclude_2=261758, adus_mainNavInclude_1=261756}   -->
+<!-- ================================================================================= -->
+<div name="adus_mainNavInclude_2" id="adus_mainNavInclude_2" style="width:160px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/adus//cms_widgets/26/17/261758.jsp   -->
+<img height="260" alt="adidas Womens" width="160" usemap="#women" border="0" src="/cms_widgets/26/17/261758_assets/160x282_Women_Drop_Down_New.jpg"><map name="women" id="women"><area shape="rect" coords="-1,0,170,23" href="/family/index.jsp?categoryId=3847306&amp;f=PAD%2FGender%2FWomen" alt="adidas Women's Sale Apparel and Shoes"><area shape="rect" coords="0,23,169,43" href="/family/index.jsp?categoryId=3862495&amp;f=PAD%2FGender%2FWomen" alt="adidas Women's New Shoes and Apparel"><area shape="rect" coords="-2,42,164,70" href="/category/index.jsp?categoryId=2189720" alt="adidas by Stella McCartney"><area shape="rect" coords="-10,69,183,296" href="/giftCards/index.jsp" alt="adidas Gift Cards"></map><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT -->
+<!-- END adus_ess_mainNavInclude_2 -->
+</li>
+				
+			</ul>
+		</li>
+	
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+	
+		<li class="group3" id="mainNav3748176">
+			<a href="/category/index.jsp?categoryId=3748176">
+				<span>Kids' Shoes &amp; Apparel</span>
+			</a>
+			<ul>
+				<li class="col1">
+					<div class="nav0">
+						<span>Kids' Shoes &amp; Apparel Kids' Shoes &amp; Apparel Menu</span>
+						
+						
+						<ol>
+							
+								
+							
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2019634" title="Boys Apparel Sizes 8-20" id="cat2019634" class="Boys Apparel Sizes 8-20" rel="redir:p+cp=3748176.3772108">
+			Boys Apparel Sizes 8-20
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2019636" title="Girls Apparel Sizes 7-20" id="cat2019636" class="Girls Apparel Sizes 7-20" rel="redir:p+cp=3748176.3772108">
+			Girls Apparel Sizes 7-20
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3857255" title="Shoes Sizes 3.5-7" id="cat3857255" class="Shoes Sizes 3.5-7" rel="redir:p+cp=3748176.3772108">
+			Shoes Sizes 3.5-7
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2137146" title="Accessories" id="cat2137146" class="Accessories" rel="redir:p+cp=3748176.3772108">
+			Accessories
+		</a>
+	</li>
+
+
+
+						</ol>
+					</div>
+					<div class="nav1">
+						<span>Kids' Shoes &amp; Apparel Kids' Shoes &amp; Apparel Menu</span>
+						
+						
+						<ol>
+							
+								
+							
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748350" title="Sport" id="cat3748350" class="Sport" rel="redir:p+cp=3748176.3854984">
+			Sport
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748452" title="Originals" id="cat3748452" class="Originals" rel="redir:p+cp=3748176.3854984">
+			Originals
+		</a>
+	</li>
+
+
+
+						</ol>
+					</div>
+				</li>
+				<li class="col2">
+					<div class="nav2">
+						<span>Kids' Shoes &amp; Apparel Kids' Shoes &amp; Apparel Menu</span>
+						
+						
+						<ol>
+							
+								
+							
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2019633" title="Boys Apparel Sizes 2T-7" id="cat2019633" class="Boys Apparel Sizes 2T-7" rel="redir:p+cp=3748176.3772109">
+			Boys Apparel Sizes 2T-7
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2019635" title="Girls Apparel Sizes 2T-7" id="cat2019635" class="Girls Apparel Sizes 2T-7" rel="redir:p+cp=3748176.3772109">
+			Girls Apparel Sizes 2T-7
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3857256" title="Shoes Sizes 10.5-3" id="cat3857256" class="Shoes Sizes 10.5-3" rel="redir:p+cp=3748176.3772109">
+			Shoes Sizes 10.5-3
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3882956" title="Accessories" id="cat3882956" class="Accessories" rel="redir:p+cp=3748176.3772109">
+			Accessories
+		</a>
+	</li>
+
+
+
+						</ol>
+					</div>
+					<div class="nav3">
+						<span>Kids' Shoes &amp; Apparel Kids' Shoes &amp; Apparel Menu</span>
+						
+						
+						<ol>
+							
+								
+							
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2019639" title="Shoes" id="cat2019639" class="Shoes" rel="redir:p+cp=3748176.3772110">
+			Shoes
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=2019637" title="Apparel" id="cat2019637" class="Apparel" rel="redir:p+cp=3748176.3772110">
+			Apparel
+		</a>
+	</li>
+
+
+
+						</ol>
+					</div>
+				</li>
+				<li class="col3">
+
+
+<!-- /cmsTemplates -->
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_53_1-->
+
+
+
+<!-- BEGIN adus_ess_mainNavInclude_3 -->
+<script type="text/javascript" src="http://ADUS.imageg.net/include/flashobject.js"></script>
+<script type="text/javascript" src="http://ADUS.imageg.net/include/swfobject.js"></script>
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  126028   -->
+<!-- === Page Name:  launch_mainnavinclude3_akwah   -->
+<!-- === Page URI:  /gsi/adus/cmsTemplates/adus_ess_mainNavInclude_3.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  64178   -->
+<!-- === Campaign Name:  5.13.10_kids   -->
+<!-- === Campaign Tracking Code:  null   -->
+<!-- === Campaign Start Time:  2010-05-13 17:32:00.0   -->
+<!-- === Campaign End Time:  null   -->
+<!-- === -->
+<!-- === Request URI:  /gsi/adus/helpdesk/index.jsp   -->
+<!-- === Request Query String:  display=safety&subdisplay=privacy   -->
+<!-- === Include URI:  /gsi/adus/cmsTemplates/adus_ess_mainNavInclude_3.jsp   -->
+<!-- === Include Query String:  null   -->
+<!-- ================================================================================= -->
+<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  271319   -->
+<!-- === Widget Name:  adus_mainNavInclude_3   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {adus_mainNavInclude_3=271319, adus_mainNavInclude_2=261758, adus_mainNavInclude_1=261756}   -->
+<!-- ================================================================================= -->
+<div name="adus_mainNavInclude_3" id="adus_mainNavInclude_3" style="width:160px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/adus//cms_widgets/27/13/271319.jsp   -->
+<img height="260" alt="adidas Kids" width="160" usemap="#kids" border="0" src="/cms_widgets/27/13/271319_assets/160x260_Kids_Drop_Down2.jpg"><map id="kids" name="kids"><area alt="adidas Akwah Sandals" href="http://www.shopadidas.com/search/index.jsp?kwCatId=&amp;kw=akwah&amp;origkw=akwah&amp;sr=1" coords="0,51,167,282" shape="rect"><area alt="adidas Kids' New Arrivals" href="http://www.shopadidas.com/family/index.jsp?categoryId=3862495&amp;f=PAD%2FGender%2FKids" coords="-4,20,165,52" shape="rect"><area alt="adidas Kids Sale shoes and apparel" href="http://www.shopadidas.com/family/index.jsp?categoryId=3847306&amp;f=PAD/Gender/Kids" coords="-1,0,174,21" shape="rect"></map><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT -->
+<!-- END adus_ess_mainNavInclude_3 -->
+</li>
+			</ul>
+		</li>
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+	
+	
+		<li class="group4" id="mainNav3748178">
+			<a href="/category/index.jsp?categoryId=3748178">
+				<span>Sport</span>
+			</a>
+			<ul>
+				
+					
+					
+					
+					
+						
+							
+							
+							
+								
+								
+								
+							
+						
+					
+					<li class="col1">
+						<div class="navMen">
+							<a href="/family/index.jsp?categoryId=3748348" title="See all Men's...">
+								<span>
+									Sport Men Menu
+								</span>
+							</a>
+							<ol>
+								
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855001" title="Basketball" id="cat3855001" class="Basketball" rel="redir:p+cp=3748178.3748348.3791496">
+			Basketball
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3854999" title="Running" id="cat3854999" class="Running" rel="redir:p+cp=3748178.3748348.3791496">
+			Running
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855000" title="Soccer" id="cat3855000" class="Soccer" rel="redir:p+cp=3748178.3748348.3791496">
+			Soccer
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855003" title="Tennis" id="cat3855003" class="Tennis" rel="redir:p+cp=3748178.3748348.3791496">
+			Tennis
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855002" title="Training" id="cat3855002" class="Training" rel="redir:p+cp=3748178.3748348.3791496">
+			Training
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3877829" title="Collegiate" id="cat3877829" class="Collegiate" rel="redir:p+cp=3748178.3748348.3791496">
+			Collegiate
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855006" title="Baseball" id="cat3855006" class="Baseball" rel="redir:p+cp=3748178.3748348.3791496">
+			Baseball
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855005" title="Football" id="cat3855005" class="Football" rel="redir:p+cp=3748178.3748348.3791496">
+			Football
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3860912" title="Motorsports" id="cat3860912" class="Motorsports" rel="redir:p+cp=3748178.3748348.3791496">
+			Motorsports
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855004" title="Outdoor" id="cat3855004" class="Outdoor" rel="redir:p+cp=3748178.3748348.3791496">
+			Outdoor
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3860917" title="Wrestling" id="cat3860917" class="Wrestling" rel="redir:p+cp=3748178.3748348.3791496">
+			Wrestling
+		</a>
+	</li>
+
+
+
+								<li>
+									<a href="/family/index.jsp?categoryId=3748348">
+										See all Men's...
+									</a>
+								</li>
+							</ol>
+						</div>
+					</li>
+				
+					
+					
+					
+					
+						
+							
+							
+							
+								
+								
+								
+							
+						
+					
+					<li class="col2">
+						<div class="navWomen">
+							<a href="/family/index.jsp?categoryId=3748349" title="See all Women's...">
+								<span>
+									Sport Women Menu
+								</span>
+							</a>
+							<ol>
+								
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855009" title="Basketball" id="cat3855009" class="Basketball" rel="redir:p+cp=3748178.3748349.3874027">
+			Basketball
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3880924" title="Golf" id="cat3880924" class="Golf" rel="redir:p+cp=3748178.3748349.3874027">
+			Golf
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855012" title="Outdoor" id="cat3855012" class="Outdoor" rel="redir:p+cp=3748178.3748349.3874027">
+			Outdoor
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855007" title="Running" id="cat3855007" class="Running" rel="redir:p+cp=3748178.3748349.3874027">
+			Running
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855008" title="Soccer" id="cat3855008" class="Soccer" rel="redir:p+cp=3748178.3748349.3874027">
+			Soccer
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855011" title="Tennis" id="cat3855011" class="Tennis" rel="redir:p+cp=3748178.3748349.3874027">
+			Tennis
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855010" title="Training" id="cat3855010" class="Training" rel="redir:p+cp=3748178.3748349.3874027">
+			Training
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855014" title="Volleyball" id="cat3855014" class="Volleyball" rel="redir:p+cp=3748178.3748349.3874027">
+			Volleyball
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855013" title="Yoga" id="cat3855013" class="Yoga" rel="redir:p+cp=3748178.3748349.3874027">
+			Yoga
+		</a>
+	</li>
+
+
+
+								<li>
+									<a href="/family/index.jsp?categoryId=3748349">
+										See all Women's...
+									</a>
+								</li>
+							</ol>
+						</div>
+					</li>
+				
+					
+					
+					
+					
+						
+							
+							
+							
+								
+								
+								
+							
+						
+					
+					<li class="col3">
+						<div class="navKids">
+							<a href="/family/index.jsp?categoryId=3748350" title="See all Kids'...">
+								<span>
+									Sport Kids Menu
+								</span>
+							</a>
+							<ol>
+								
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855017" title="Basketball" id="cat3855017" class="Basketball" rel="redir:p+cp=3748178.3748350.3874028">
+			Basketball
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855015" title="Running" id="cat3855015" class="Running" rel="redir:p+cp=3748178.3748350.3874028">
+			Running
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855016" title="Soccer" id="cat3855016" class="Soccer" rel="redir:p+cp=3748178.3748350.3874028">
+			Soccer
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855019" title="Tennis" id="cat3855019" class="Tennis" rel="redir:p+cp=3748178.3748350.3874028">
+			Tennis
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3855018" title="Training" id="cat3855018" class="Training" rel="redir:p+cp=3748178.3748350.3874028">
+			Training
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748411" title="Soccer" id="cat3748411" class="Soccer" rel="redir:p+cp=3748178.3748350.3874028">
+			Soccer
+		</a>
+	</li>
+
+
+
+								<li>
+									<a href="/family/index.jsp?categoryId=3748350">
+										See all Kids'...
+									</a>
+								</li>
+							</ol>
+						</div>
+					</li>
+				
+				<li class="row2">
+
+
+<!-- /cmsTemplates -->
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_53_1-->
+
+
+
+<!-- BEGIN adus_ess_sportNavInclude_1 -->
+<script type="text/javascript" src="http://ADUS.imageg.net/include/flashobject.js"></script>
+<script type="text/javascript" src="http://ADUS.imageg.net/include/swfobject.js"></script>
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  122033   -->
+<!-- === Page Name:  launch_esssportnavinclude   -->
+<!-- === Page URI:  /gsi/adus/cmsTemplates/adus_ess_sportNavInclude_1.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  62219   -->
+<!-- === Campaign Name:  ADUSRedesign04012010-2   -->
+<!-- === Campaign Tracking Code:  ADUSRedesign04012010   -->
+<!-- === Campaign Start Time:  2010-04-22 00:09:41.0   -->
+<!-- === Campaign End Time:  null   -->
+<!-- === -->
+<!-- === Request URI:  /gsi/adus/helpdesk/index.jsp   -->
+<!-- === Request Query String:  display=safety&subdisplay=privacy   -->
+<!-- === Include URI:  /gsi/adus/cmsTemplates/adus_ess_sportNavInclude_1.jsp   -->
+<!-- === Include Query String:  null   -->
+<!-- ================================================================================= -->
+<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  262900   -->
+<!-- === Widget Name:  adus_sportNavInclude_1   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {adus_sportNavInclude_1=262900, adus_mainNavInclude_3=271319, adus_mainNavInclude_2=261758, adus_mainNavInclude_1=261756}   -->
+<!-- ================================================================================= -->
+<div name="adus_sportNavInclude_1" id="adus_sportNavInclude_1" style="width:485px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/adus//cms_widgets/26/29/262900.jsp   -->
+<img height="75" alt="slot" width="485" usemap="#sport" border="0" src="/cms_widgets/26/29/262900_assets/485x75_TechFit.jpg"><map name="sport" id="sport"><area shape="rect" coords="-1,-1,510,54" href="/family/index.jsp?categoryId=2409485&amp;cp=3748174.3748184.2039608.2039612" alt="Men's Techfit Compression Apparel"><area shape="rect" coords="191,52,498,90" href="/family/index.jsp?categoryId=2409485&amp;cp=3748174.3748184.2039608.2039612" alt="Men's Techfit Compression Apparel"><area shape="rect" coords="121,53,193,86" href="/search/index.jsp?kwCatId=&amp;kw=womens techfit&amp;origkw=womens techfit&amp;sr=1" alt="Women's Techfit Compression Apparel"><area shape="rect" coords="0,53,121,82" href="/family/index.jsp?categoryId=2409485&amp;cp=3748174.3748184.2039608.2039612" alt="Men's Techfit Compression Apparel"></map><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT -->
+<!-- END adus_ess_sportNavInclude_1 -->
+</li>
+			</ul>
+		</li>
+	
+	
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+		<li class="group5" id="mainNav3748179">
+			<a href="/category/index.jsp?categoryId=3748179">
+				<span>Originals</span>
+			</a>
+			<ul>
+				<li class="col1">
+					
+					<ol>
+
+
+
+
+
+
+
+
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748449" title="Men" id="cat3748449" class="Men" rel="redir:p+cp=3748179">
+			Men
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748450" title="Women" id="cat3748450" class="Women" rel="redir:p+cp=3748179">
+			Women
+		</a>
+	</li>
+
+
+	
+	<li>
+		<a href="/family/index.jsp?categoryId=3748452" title="Kids" id="cat3748452" class="Kids" rel="redir:p+cp=3748179">
+			Kids
+		</a>
+	</li>
+
+
+</ol>
+				</li>
+				<li class="col2">
+
+
+<!-- /cmsTemplates -->
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_53_1-->
+
+
+
+<!-- BEGIN adus_ess_originalsNavInclude_1 -->
+<script type="text/javascript" src="http://ADUS.imageg.net/include/flashobject.js"></script>
+<script type="text/javascript" src="http://ADUS.imageg.net/include/swfobject.js"></script>
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  122325   -->
+<!-- === Page Name:  launch_originalsnavinclude1   -->
+<!-- === Page URI:  /gsi/adus/cmsTemplates/adus_ess_originalsNavInclude_1.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  62282   -->
+<!-- === Campaign Name:  ADUSRedesign04012010-3   -->
+<!-- === Campaign Tracking Code:  ADUSRedesign04012010   -->
+<!-- === Campaign Start Time:  2010-04-22 00:09:41.0   -->
+<!-- === Campaign End Time:  null   -->
+<!-- === -->
+<!-- === Request URI:  /gsi/adus/helpdesk/index.jsp   -->
+<!-- === Request Query String:  display=safety&subdisplay=privacy   -->
+<!-- === Include URI:  /gsi/adus/cmsTemplates/adus_ess_originalsNavInclude_1.jsp   -->
+<!-- === Include Query String:  null   -->
+<!-- ================================================================================= -->
+<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  263455   -->
+<!-- === Widget Name:  adus_originalsNavInclude_1   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {adus_originalsNavInclude_1=263455, adus_sportNavInclude_1=262900, adus_mainNavInclude_3=271319, adus_mainNavInclude_2=261758, adus_mainNavInclude_1=261756}   -->
+<!-- ================================================================================= -->
+<div name="adus_originalsNavInclude_1" id="adus_originalsNavInclude_1" style="width:296px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/adus//cms_widgets/26/34/263455.jsp   -->
+<img height="105" alt="adidas Kids" width="296" usemap="#orignav" border="0" src="/cms_widgets/26/34/263455_assets/296x105_Originals_Nav_Drop.jpg"><map id="orignav" name="orignav"><area alt="adidas Originals by Originals" href="http://www.shopadidas.com/family/index.jsp?categoryId=4090408" coords="1,0,349,55" shape="rect"><area alt="adidas Star Wars" href="/family/index.jsp?categoryId=4090400" coords="0,52,390,76" shape="rect"><area alt="adidas Originals World Cup" href="/family/index.jsp?categoryId=3986757" coords="0,73,412,122" shape="rect"></map><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT -->
+<!-- END adus_ess_originalsNavInclude_1 -->
+</li>
+				<li class="row2"><!-- intentionally empty --></li>
+			</ul>
+		</li>
+	
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+
+
+
+
+		</ul>
+		<ul id="auxNav">
+			
+			<li id="auxNav3748180"><a href="/shop/index.jsp?categoryId=2041575"><span>Sale</span></a></li>
+			<li id="miadidas"><a href="http://www.miadidas.com" target="_blank"><span>mi adidas</span></a></li>
+		</ul>
+	</div>
+	<div id="headerAd">
+		<div class="wrap">
+
+
+<!-- /cmsTemplates -->
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_53_1-->
+
+
+
+<!-- BEGIN adus_ess_headerInclude_1 -->
+<script type="text/javascript" src="http://ADUS.imageg.net/include/flashobject.js"></script>
+<script type="text/javascript" src="http://ADUS.imageg.net/include/swfobject.js"></script>
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  127382   -->
+<!-- === Page Name:  include_header1_worldcup   -->
+<!-- === Page URI:  /gsi/adus/cmsTemplates/adus_ess_headerInclude_1.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  65096   -->
+<!-- === Campaign Name:  5.25.10_header   -->
+<!-- === Campaign Tracking Code:  null   -->
+<!-- === Campaign Start Time:  2010-05-25 19:31:00.0   -->
+<!-- === Campaign End Time:  null   -->
+<!-- === -->
+<!-- === Request URI:  /gsi/adus/helpdesk/index.jsp   -->
+<!-- === Request Query String:  display=safety&subdisplay=privacy   -->
+<!-- === Include URI:  /gsi/adus/cmsTemplates/adus_ess_headerInclude_1.jsp   -->
+<!-- === Include Query String:  null   -->
+<!-- ================================================================================= -->
+<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  275299   -->
+<!-- === Widget Name:  adus_headerInclude_1   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {adus_originalsNavInclude_1=263455, adus_headerInclude_1=275299, adus_sportNavInclude_1=262900, adus_mainNavInclude_3=271319, adus_mainNavInclude_2=261758, adus_mainNavInclude_1=261756}   -->
+<!-- ================================================================================= -->
+<div name="adus_headerInclude_1" id="adus_headerInclude_1" style="height:70px;width:188px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/adus//cms_widgets/27/52/275299.jsp   -->
+<script type="text/javascript">
+function invokeAnchor(id)
+{
+var anchor = document.getElementById(id);
+window.location = anchor.href;
+}
+</script>
+<a id="linkURL0" href="http://www.shopadidas.com/family/index.jsp?categoryId=4065452" title="adidas Official World Cup Collection" style="display:none"></a><img border="0" name="cms_image125944174" src="http://ADUS.imageg.net/cms_widgets/27/52/275299_assets/188x70_headerimage.jpg" height="70" width="188" alt="adidas Official World Cup Collection" align="Default" valign="Default" style="cursor:pointer" title="adidas Official World Cup Collection" onclick="javascript:invokeAnchor('linkURL0');"><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT -->
+<!-- END adus_ess_headerInclude_1 -->
+</div>
+	</div>
+	<div id="headerUtilities">
+		<div id="cart">
+			
+			
+			
+			
+				
+					<a href="/cart/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067">0 items</a>
+				
+				
+			
+			<a id="cartLogo" href="/cart/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067"><span>My Cart</span></a>
+		</div>
+		<div id="search">
+			<form action="" id="headerSearchForm" name="headerSearchForm" onsubmit="return false;">
+				<input id="kw" type="text" value="Keyword Search" name="kw" onblur="adus.searchBoxExitCheck(this)" onfocus="adus.searchBoxEntranceCheck(this)">
+				<button id="headerSearchBtn" type="submit"><span>Search</span></button>
+			</form>
+		</div>
+	</div>
+</div>
+<div id="adus-headerBottom"></div>
+
+				</div>
+			</div>
+			<div id="partner-content1">
+
+
+<!-- /cmsTemplates -->
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_53_1-->
+
+
+
+<!-- BEGIN adus_ess_siteStripeInclude_1 -->
+<script type="text/javascript" src="http://ADUS.imageg.net/include/flashobject.js"></script>
+<script type="text/javascript" src="http://ADUS.imageg.net/include/swfobject.js"></script>
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  118790   -->
+<!-- === Page Name:  launch_sitestripeinclude1   -->
+<!-- === Page URI:  /gsi/adus/cmsTemplates/adus_ess_siteStripeInclude_1.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  60481   -->
+<!-- === Campaign Name:  ADUSRedesign04012010   -->
+<!-- === Campaign Tracking Code:  ADUSRedesign04012010   -->
+<!-- === Campaign Start Time:  2010-04-22 00:09:00.0   -->
+<!-- === Campaign End Time:  null   -->
+<!-- === -->
+<!-- === Request URI:  /gsi/adus/helpdesk/index.jsp   -->
+<!-- === Request Query String:  display=safety&subdisplay=privacy   -->
+<!-- === Include URI:  /gsi/adus/cmsTemplates/adus_ess_siteStripeInclude_1.jsp   -->
+<!-- === Include Query String:  null   -->
+<!-- ================================================================================= -->
+<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  263618   -->
+<!-- === Widget Name:  adus_siteStripeInclude_1   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {adus_siteStripeInclude_1=263618, adus_originalsNavInclude_1=263455, adus_headerInclude_1=275299, adus_sportNavInclude_1=262900, adus_mainNavInclude_3=271319, adus_mainNavInclude_2=261758, adus_mainNavInclude_1=261756}   -->
+<!-- ================================================================================= -->
+<div name="adus_siteStripeInclude_1" id="adus_siteStripeInclude_1" style="width:960px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/adus//cms_widgets/26/36/263618.jsp   -->
+<a id="linkURL1" href="javascript:adus.showCustomPopUp('/promo/index.jsp?promoId=4088294','promo','width=450,height=500,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=no');" title="Free Shipping on Orders of $99 or more" style="display:none"></a><img border="0" name="cms_image77100427" src="http://ADUS.imageg.net/cms_widgets/26/36/263618_assets/960x30_Free_Shipping.jpg" height="30" width="960" alt="Free Shipping on Orders of $99 or more" align="Default" valign="Default" style="cursor:pointer" title="Free Shipping on Orders of $99 or more" onclick="javascript:invokeAnchor('linkURL1');"><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT -->
+<!-- END adus_ess_siteStripeInclude_1 -->
+</div>
+			
+				<div id="sidebar1">
+					<div class="wrap">
+						
+<div id="help-topics">
+	<h3>Privacy &amp; Security</h3>
+	<ul>
+		
+			
+				
+				
+				
+					
+					
+				
+			
+			
+			
+			
+				
+					<li>
+						<a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=safety&amp;subdisplay=secure" title="Secure Shopping Guarantee">
+							Secure Shopping Guarantee</a>
+					</li>
+				
+			
+		
+			
+				
+				
+				
+					
+					
+				
+			
+			
+			
+			
+				
+					<li>
+						<a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=safety&amp;subdisplay=terms" title="Terms &amp; Conditions">
+							Terms &amp; Conditions</a>
+					</li>
+				
+			
+		
+			
+				
+				
+				
+					
+					
+				
+			
+			
+			
+			
+				
+					<li>
+						<a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=safety&amp;subdisplay=privacy" title="Privacy Policy">
+							Privacy Policy</a>
+					</li>
+				
+			
+		
+			
+				
+				
+				
+					
+					
+				
+			
+			
+			
+			
+				
+					<li>
+						<a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=safety&amp;subdisplay=vbv" title="Verified by Visa">
+							Verified by Visa</a>
+					</li>
+				
+			
+		
+			
+				
+				
+				
+					
+					
+				
+			
+			
+			
+			
+				
+					<li>
+						<a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=safety&amp;subdisplay=mastercard" title="MasterCard SecureCode">
+							MasterCard SecureCode</a>
+					</li>
+				
+			
+		
+	</ul>
+</div>
+
+					</div>
+				</div>
+			
+			
+			
+			<div id="mainContent">
+				
+					
+					
+					
+					
+					<div id="breadcrumbs" class="Sport">
+						<div class="wrap"><ul>
+				<li>
+					<a href="/">Return to Shopping</a>
+					<span>|</span>
+				</li>
+				<li>
+					<a href="/helpdesk/index.jsp">
+						Help Desk</a>
+					<span>|</span>
+				</li>
+				<li>Privacy Policy</li>
+			</ul></div>
+					</div>
+				
+				
+				
+				
+					<div class="wrap">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><!--You are running on ashprd2_ws_53_1-->
+
+
+
+
+
+	
+	
+	
+	
+		
+		<!--Storeman panel: /panels/helpdesk/ADUS_Security_9-3.19997.jsp -->
+		<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
 
 <smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
 <table width="98%" border="0" cellpadding="0" cellspacing="0">
@@ -620,65 +1957,18 @@ var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bo
 </smpanel>
 
 
-<!--END STOREMAN PANEL helpdesk/ADUS_Security_9-3.19997.jsp-->
-<!--END STOREMAN GENERATION-->
 
-							
-		</td>
-	</tr>
-</tbody></table>
-
-								
-<!--*********************************** STOREMAN HELPDESK ENDS**********************************-->
-	</td>
-</tr>
-</tbody></table>
-
-
-
-
-	<table width="770" height="95" align="center" id="ftrLinks"><tbody><tr><td valign="middle"><a href="/home/index.jsp" id="ftrLogo"><img src="http://ADUS.imageg.net/images/logo_footer.gif" height="49" width="72" border="0"></a>
-		<div id="ftrShopping" class="ftrLinkGroup">
-		    <h3>Shopping</h3>
-		    <ul>
-			<li><a href="/helpdesk/index.jsp?display=ordering&amp;subdisplay=placing">Order By Phone</a></li>
-			<li><a href="/helpdesk/index.jsp?display=adiproducts&amp;subdisplay=sizing">Sizing</a></li>
-			<li><a href="/giftCards/index.jsp">Gift Cards</a></li>
-			<li><a href="http://www.miadidas.com">mi adidas</a></li>
-		    </ul>
-		    <ul>
-			<li><a href="/shop/index.jsp?categoryId=2556552&amp;source=INT_STORELOCATOR">Find a Store</a></li>
-			<li><a href="/helpdesk/index.jsp?display=adiproducts&amp;subdisplay=process">Product Availability</a></li>
-			<li><a href="/entry.point?entry=32436847753&amp;keywords=adidas_+exclusives&amp;source=INT_Footer">Limited Edition adidas</a></li>
-			<li><a href="/shop/index.jsp?categoryId=2556552#adidas_GLOBAL">adidas Global Sites</a></li>
-		    </ul>
-		</div>
-		<div id="ftrService" class="ftrLinkGroup">
-		    <h3>Service</h3>
-		    <ul>
-			<li><a href="/helpdesk/index.jsp?display=ship&amp;subdisplay=shipMethods">Shipping Options</a></li>
-			<li><a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=returns">Return Policy</a></li>
-			<li><a href="/helpdesk/index.jsp?display=ship&amp;subdisplay=tracking">Track Your Order</a></li>
-			<li><a href="/sitemap/index.jsp">Site Map</a></li>
-		    </ul>
-		    <ul>
-			<li><a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=mbg">Product Guarantee</a></li>
-			<li><a href="/helpdesk/index.jsp?display=store&amp;subdisplay=contact&amp;isStoremanDriven=yes">FAQ / Contact Us</a></li>
-			<li><a href="/affiliate/index.jsp">Affiliates</a></li>
-		    </ul>
-		</div>
-		<div id="ftrPrivacy" class="ftrLinkGroup">
-		    <h3>Security and Privacy</h3>
-		    <ul>
-			<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy">Privacy Policy</a></li>
-			<li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure">Secure Shopping Guarantee</a></li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure">
-			</a><li><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure"></a><a href="https://www.shopadidas.com/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt">My Account</a></li>
-		    </ul>
-		</div>
-	</td></tr></tbody></table>
-<div id="copyRights"><span class="footerlink2">©2009 adidas America Inc.</span></div>
 
 		
+	
+
+<br class="clearfloat"></div>
+				
+				
+			</div>
+			<div id="footer">
+				<div class="wrap">
+					
 
 
 
@@ -687,13 +1977,94 @@ var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bo
 
 
 
-<!--You are running on secprd2_ws_45_7-->
 
 
 
 
 
-<!-- pageOrprocessName getRequestURI() /gsi/adus/helpdesk/index.jsp  --><!-- pageOrprocessName finalPage() helpdesk  -->
+
+
+
+
+
+
+<div id="adus-footer">
+    <div id="footerNav">
+        <ul>
+            <li id="footerNav1">
+                <dl>
+                    <dt><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067">Shopping</a></dt>
+                    <dd><a href="/storelocator;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067">Find a Store</a></dd>
+                    <dd><a href="http://www.miadidas.com" target="_blank">mi adidas</a></dd>
+                    <dd><a href="/giftCards/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067">Gift Cards</a></dd>
+                </dl>
+            </li>
+            <li id="footerNav2">
+                <dl>
+                    <dt><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067">Help</a></dt>
+                    <dd><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067">Online Help</a></dd>
+                    <dd class="colMed"><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=ordering&amp;subdisplay=placing">Order by Phone</a></dd>
+                    <dd class="colLg"><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=adiproducts&amp;subdisplay=sizing">Sizing</a></dd>
+                    <dd><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=store&amp;subdisplay=contact&amp;isStoremanDriven=yes">Contact Us</a></dd>
+                    <dd class="colMed"><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=ship&amp;subdisplay=tracking">Track Your Order</a></dd>
+                    <dd class="colLg"><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=adiproducts&amp;subdisplay=process">Product Availability</a></dd>
+                    <dd><a href="/sitemap/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067">Site Map</a></dd>
+                    <dd class="colMed"><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=returns&amp;subdisplay=returns">Return Policy</a></dd>
+                    <dd class="colLg"><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=ship&amp;subdisplay=shipMethods">Shipping Options</a></dd>
+                </dl>
+            </li>
+            <li id="footerNav3">
+                <dl>
+                    <dt><a href="http://www.adidas.com/us/shared/aboutadidas.asp">About Us</a></dt>
+                    <dd><a href="/storelocator;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067#global">adidas Global Sites</a></dd>
+                    <dd><a href="/affiliate/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067">Affiliates</a></dd>
+                    <dd><a href="http://www.adidas-group.com" target="_blank">Company Info</a></dd>
+                </dl>
+            </li>
+            <li id="footerNav4">
+                <dl>
+                    <dt><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=safety&amp;subdisplay=secure">Policies</a></dt>
+                    <dd><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=safety&amp;subdisplay=privacy">Privacy Policy</a></dd>
+                    <dd><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=safety&amp;subdisplay=secure">Secure Shopping Guarantee</a></dd>
+                    <dd><a href="/helpdesk/index.jsp;jsessionid=lwRbMh2JvLGlgncf1kXddxtmTdrGl2KXkSxq41t4JQpvlp7MRQZp!1826704067?display=returns&amp;subdisplay=mbg">Product Guarantee</a></dd>
+                </dl>
+            </li>
+        </ul>
+    </div>
+    <div id="footerCopyright">©2010 adidas America Inc.</div>
+</div>
+
+
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--  Do not edit/add js scripts here. Use the min-cat project. Config file: /ant-min-cat/site-js.xml -->
+<script src="http://ADUS.imageg.net/min-cat/site-js.xml.min.js" type="text/javascript"></script>
+<!--  end min-cat section -->
+	
+	
+	
+	<!-- All Tracking Pixels Code -->
+	
+		<!-- File included in footer.jsp for adding tracking pixels in footer.jsp -->
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_53_1-->
+
+
+
+
+
+
 
 <div id="trackingPixels" style="display:hidden">
 
@@ -716,15 +2087,15 @@ var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bo
 	var axel = Math.random()+"";
 	var a = axel * 10000000000000;
 	document.write('<IFRAME SRC="http://fls.doubleclick.net/activityi;src=2343011;type=adidas;cat=ad3;ord=1;num='+ a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>');
-	</script><iframe src="http://fls.doubleclick.net/activityi;src=2343011;type=adidas;cat=ad3;ord=1;num=6605795467708.197?" width="1" height="1" frameborder="0"></iframe>
+	</script><iframe src="http://fls.doubleclick.net/activityi;src=2343011;type=adidas;cat=ad3;ord=1;num=4602320556751.189?" width="1" height="1" frameborder="0"></iframe>
 	<noscript>
 	<IFRAME SRC="http://fls.doubleclick.net/activityi;src=2343011;type=adidas;cat=ad3;ord=1;num=1?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>
 	</noscript>
 	<!-- End of DoubleClick Spotlight Tag: Please do not remove--> 
     
 </div>
- 
- 
+	
+	
 
 
 
@@ -732,14 +2103,65 @@ var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bo
 
 
 
-<!--You are running on secprd2_ws_45_7-->
+<!--You are running on ashprd2_ws_53_1-->
 
 
 
 <!-- trackingPageName finalPage() helpdesk  -->
 
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+	<!-- HitBox Code -->
+	
+		
+		
+		
+			
+				<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
 <!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><!--You are running on ashprd2_ws_53_1-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -748,13 +2170,13 @@ var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bo
 <script language="javascript">
 var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
 var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-adidasus.hitbox.com";
-var _lp=(location.protocol.toLowerCase()=="https:"?"https://":"http://"); 
+var _lp=(location.protocol.toLowerCase()=="https:"?"https://":"http://");
 
 //BEGIN EDITABLE SECTION
 //CONFIGURATION VARIABLES
 hbx.acct="DM5406094EEA";//ACCOUNT NUMBER(S)
-hbx.pn="helpdesk";//PAGE NAME(S)
-hbx.mlc="/Help";//MULTI-LEVEL CONTENT CATEGORY; WssTopNav.jsp  
+hbx.pn="";//PAGE NAME(S)
+hbx.mlc="";//MULTI-LEVEL CONTENT CATEGORY; WssTopNav.jsp
 hbx.pndef="title";//DEFAULT PAGE NAME
 hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
 
@@ -800,12 +2222,16 @@ hbx.pec="";//ERROR CODES
 
 
 //REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" defer="" src="/include/hbx.js"></script>
+</script>
+<script language="javascript1.1" defer="" src="http://ADUS.imageg.net/include/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
 
 
-
-
+			
+			
+		
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 
 
 
