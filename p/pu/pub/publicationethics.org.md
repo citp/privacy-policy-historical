@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicationethics.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218005500id_/http%3A//publicationethics.org/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicationethics.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618012359id_/http%3A//publicationethics.org/resources/privacy) for the most accurate reproduction.*
 
 # COPE Privacy Policy | Committee on Publication Ethics: COPE
 
