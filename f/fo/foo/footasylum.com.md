@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002233id_/http%3A//www.footasylum.com/Privacy-Policy-Acs_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617060443id_/http%3A//www.footasylum.com/Privacy-Policy-Acs_security) for the most accurate reproduction.*
 
-# Privacy - Two Stoned Clothing, K Swiss Trainers, Zoo York Clothing
+# Privacy; Buy Nike & Adidas Trainers, Ugg Boots, Converse, Fred Perry, G-Star & Luke 1977 online
 
 We are committed to safeguarding the privacy and security of our website visitors, this policy sets out how we will treat your personal information.  
 
@@ -21,9 +21,9 @@ We may collect, store and use the following kinds of personal data:  
 
 Cookies are used on this website. Defined a cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.  
 
-Footasylum Ltd may use the information we obtain from a cookie in the administration of this website, to improve the website’s usability and for marketing purposes and also to identify you in the event of further visits.  
+We may use the information we obtain from a cookie in the administration of this website, to improve the website’s usability and for marketing purposes and also to identify you in the event of further visits.  
 
-Footasylum Ltd uses Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website.  Google will store this information.  Google's privacy policy is available at: http://www.google.com/privacypolicy.html.  
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website.  Google will store this information.  Google's privacy policy is available at: http://www.google.com/privacypolicy.html.  
 
 You can, should you choose, disable the Cookies from your browser and delete all Cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. This may prevent you from taking full advantage of the website. You can find out how to do this for your particular browser by clicking “help” on your browser’s menu.  
 
@@ -37,7 +37,7 @@ Personal data submitted on this website will be used for the purposes specified 
   * to Send you commercial communications; 
   * to Deal with enquiries and complaints made by or about you relating to our service and website; 
   * to Provide third parties with statistical information about our website users; 
-  * to Send you marketing information with your express permission via mediums including email, post and telephone. You have the right to terminate marketing communications at any point by emailing “stop communications” to [_customer.services@footasylum.com_](mailto:customer.services@footasylum.com); 
+  * to Send you marketing information with your express permission via mediums including email, post and telephone. You have the right to terminate marketing communications at any point by emailing “stop communications” via the [contact us](http://www.footasylum.com/contact.asp) form; 
   * to Send order confirmations and invoices to you.; 
   * for Internal Record Keeping; 
   * to improve our products and services; 
@@ -48,7 +48,7 @@ Personal data submitted on this website will be used for the purposes specified 
 
 **Transfer of data**  
 
-In addition to the points above Footasylum may transfer, disclose, sell, distribute, or lease your personal information to third parties unless you tell us you do not wish this to happen.  This may include direct marketing agents.   
+In addition to the points above we may transfer, disclose, sell, distribute, or lease your personal information to third parties unless you tell us you do not wish this to happen.  This may include direct marketing agents.   
 
 **  
 Security**  
