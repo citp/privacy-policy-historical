@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costarica.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216080258id_/http%3A//www.costarica.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costarica.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617163436id_/http%3A//www.costarica.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Costa Rica - Privacy Policy
 
@@ -20,7 +20,7 @@ COSTARICA.COM automatically records messages sent via its server from Forum and 
 
 COSTARICA.COM uses information to customize the advertising and content you see, fulfill your requests for products or services, improve COSTARICA.COM services, contact you, and conduct research.
 
-[Back to Top](http://www.costarica.com/Home/#top)
+[Back to Top](https://web.archive.org/Home/#top)
 
 ### 2\. Information Sharing and Disclosure  
 
@@ -33,7 +33,7 @@ COSTARICA.COM transfers information about you if COSTARICA.COM is acquired by or
 
 COSTARICA.COM does not provide any personal information to the advertiser when you interact with or view an ad. However, advertisers may make assumptions that you meet certain criteria when you view an ad.
 
-[Back to Top](http://www.costarica.com/Home/#top)
+[Back to Top](https://web.archive.org/Home/#top)
 
 ### 3\. Confidentiality and Security  
 
@@ -44,18 +44,18 @@ Your personal information is password-protected.
 
 Any sensitive personal information is password-protected. COSTARICA.COM uses industry-standard SSL encryption to protect data transmissions.
 
-[Back to Top](http://www.costarica.com/Home/#top)
+[Back to Top](https://web.archive.org/Home/#top)
 
 ### 4\. Changes to this Privacy Policy  
 
 
 COSTARICA.COM may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your COSTARICA.COM account or by placing a prominent notice on our site.
 
-[Back to Top](http://www.costarica.com/Home/#top)
+[Back to Top](https://web.archive.org/Home/#top)
 
 ### 5\. Questions and Suggestions  
 
 
-Please address your concerns, questions, and suggestions to [privacy@costarica.com](mailto:privacy@costarica.com) .
+Please address your concerns, questions, and suggestions to [privacy@costarica.com](mailto:privacy@costarica.com).
 
-[Back to Top](http://www.costarica.com/Home/#top)
+[Back to Top](https://web.archive.org/Home/#top)
