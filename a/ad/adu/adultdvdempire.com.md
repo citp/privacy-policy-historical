@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217080424id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617193149id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
 
 # Adult DVD Empire -
 
@@ -110,7 +110,7 @@ We reserve the right to change, modify or amend this privacy policy at any time.
 
 **8\. How to contact DVD Empire**
 
-If you have comments or questions regarding our privacy policy, please contact us at [info@dvdempire.com](mailto:info@dvdempire.com). We will address any issue to the best of our abilities. 
+If you have comments or questions regarding our privacy policy, please [Email Us](https://web.archive.org/exec/onlineinquiry.asp). We will address any issue to the best of our abilities. 
 
 Thank you for your support of our policies. 
 
