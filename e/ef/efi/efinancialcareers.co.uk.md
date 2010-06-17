@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers.co.uk privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212051511id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.co.uk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617044850id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.*
 
 # eFinancialCareers - Privacy policy
 
