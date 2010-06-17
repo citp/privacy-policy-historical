@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialanxietysupport.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024313id_/http%3A//www.socialanxietysupport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialanxietysupport.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617180307id_/http%3A//www.socialanxietysupport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Anxiety Support
 
@@ -166,3 +166,5 @@ You may be required to complete online registration forms that provide us with c
 We may, from time to time, send you emails regarding our general service so that we can directly communicate with you regarding issues we determine to be relevant or issues that directly relate to you.
 
 Please [contact us](https://web.archive.org/forum/sendmessage.php) if you should have any questions, comments or concerns about this privacy policy.
+
+_Last modified October 26th, 2009._
