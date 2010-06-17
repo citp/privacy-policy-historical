@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportscapping.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231231659id_/http%3A//sportscapping.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportscapping.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617035816id_/http%3A//sportscapping.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # Information Security Statement | Privacy Policy | Sports Handicapping | Free Football Picks | NFL Predictions
 
@@ -14,4 +14,4 @@ All person information you provide to SportsCapping is confidential.  This incl
 **Payment Information**  
 All payments are submitted through a third party processor.  We do not retain your credit/debit card number, or any other payment-related information.  While SportsCapping.com only uses the most respected payment processors, we cannot be held responsible for the privacy of their websites.  We encourage you to examine their privacy policy if you have any questions about the information they retain.
 
-Comments 
+Comments
