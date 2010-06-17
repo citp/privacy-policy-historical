@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612150022id_/http%3A//www.softsurroundings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundings.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617061015id_/http%3A//www.softsurroundings.com/privacy) for the most accurate reproduction.*
 
-# SoftSurroundings.com
+# Soft Surroundings - Customer Care - Privacy Policy & Terms of Use
 
-**Privacy Policy & Terms of Use**
-
-Last updated: May 1, 2007
+Last updated: February 25, 2010
 
 We appreciate the trust you place in Soft Surroundings, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. SoftSurroundings.com and SoftSurroundingsOutlet.com are owned by Triad Catalog Co., LLC. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
 
@@ -98,7 +96,9 @@ If you set your browser to refuse cookies, please call us at 1-800-240-7076 to p
 
 We also use cookies and pixel tags (tiny graphic images) to tell us what parts of our website you have visited. Pixel tags also enable us to send you e-mail in a format you can read and let us know when you have opened an e-mail message from us.
 
-We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Soft Surroundings.
+We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We may share your personally identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous. To choose not to have this information used by our third-party advertising partner, [click here.](http://usucmweb.dotomi.com/2322/optout.html)
+
+We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Soft Surroundings.
 
 **How We Use E-mail**   
 When you provide us your e-mail address, we may send you e-mails necessary to process your order or respond to a request. For example, after you place an order at SoftSurroundings.com and SoftSurroundingsOutlet.com, you will receive an e-mail confirmation and, in most cases, an e-mail with delivery tracking information.
@@ -138,3 +138,5 @@ St. Louis, MO 63132
 Phone: 1-800-240-7076   
 Fax: 1-314-521-5780   
 [e-mail us](http://www.softsurroundings.com/emailUs.php)
+
+To choose not to have this information used by our third-party advertising partner, [click here.](http://usucmweb.dotomi.com/2322/optout.html)
