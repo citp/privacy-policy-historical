@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223185424id_/http%3A//overdrive.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617214212id_/http%3A//overdrive.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # OverDrive - Global distributor of digital eBooks, audiobooks, music & video for library, school & retail--Privacy Policy
 
@@ -43,6 +43,10 @@ We utilize industry standard SSL encryption when accepting your credit card info
 The personal information that you provide in connection with registering yourself as an OverDrive user or purchasing an OverDrive product is classified as Registration Information. If there are any changes or modifications to this information you need to make, you may do so by emailing the change to [support@overdrive.com](mailto:support@overdrive.com). 
 
 Please note that any information you post to a public bulletin board or chat room, such as the OverDrive Message Board, is available to all persons accessing that site. 
+
+## Safe Harbor
+
+OverDrive’s privacy practices conform to the Safe Harbor Privacy Principles found here: <http://www.export.gov/safeharbor/eg_main_018247.asp>. Questions, complaints, or requests for more information about the Safe Harbor Principles can be emailed to [support@overdrive.com](mailto:support@overdrive.com).
 
 ## Order Information
 
