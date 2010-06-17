@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wufoo.com privacy policy that was archived on 2009-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091215151518id_/http%3A//wufoo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wufoo.com privacy policy that was archived on 2010-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617030011id_/http%3A//wufoo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -12,8 +12,12 @@
 <meta name="keywords" content="wufoo, html form, web form, form builder, contact form, online survey, payment form, event registration, online invitation, mailing list, online poll">
 
 <!-- CSS -->
-<link rel="stylesheet" href="/css/global/dynamic.10388.css" type="text/css">
-<link rel="stylesheet" href="/css/wp/docs.10388.css" type="text/css">
+<link rel="stylesheet" href="/css/global/dynamic.12135.css" type="text/css">
+<link rel="stylesheet" href="/css/wp/docs.12135.css" type="text/css">
+
+<!-- Art Direction Styles -->
+
+
 
 <script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
@@ -154,6 +158,8 @@ Custom Search
 	<li><a href="/docs/entry-manager/">Entry Manager</a></li>
 	<li><a href="/docs/code-manager/">Code Manager</a></li>
 	<li><a href="/docs/notifications/">Notifications</a></li>
+	<li><a href="/docs/payment-settings/">Payment Settings</a></li>
+	<li><a href="/docs/integrations/">Integrations</a></li>
 </ul>
 
 <h3>Reports</h3>
@@ -170,17 +176,6 @@ Custom Search
 	<!--<li><a href="/style-guide/">Wufoo Style Guide</a></li>-->
 </ul>
 
-<h3>Payment</h3>
-<ul>
-	<li><a href="/docs/payment-settings/">Introduction</a></li>
-	<li><a href="/docs/merchant/paypal/">PayPal</a></li>
-	<li><a href="/docs/merchant/paypal-pro/">PayPal Pro</a></li>
-	<!--<li><a href="/docs/merchant/authnet/">Authorize.net</a></li>-->
-	<li><a href="/docs/merchant/authorize-net/">Authorize.net</a></li>
-	<li><a href="/docs/merchant/epay/">USA ePay</a></li>
-	<li><a href="/docs/merchant/gcheckout/">Google Checkout</a></li>
-	<li><a href="/docs/merchant/freshbooks/">FreshBooks</a></li>
-</ul>
 <!--
 <h3>Form Gallery</h3>
 <ul>
@@ -191,10 +186,8 @@ Custom Search
 -->
 <h3>The API</h3>
 <ul class="red">
-	<li><a href="/docs/api/">Introduction</a></li>
-	<li><a href="/docs/api/query/">Query API</a></li>
-	<li><a href="/docs/api/submit/">Submit API</a></li>
-	<li><a href="/docs/api/report/">Report API</a></li>
+	<li><a href="/docs/api/v3/">REST API</a></li>
+	<li><a href="/docs/api/templating/">Templating</a></li>
 	<li><a href="/docs/api/url-modifications/">URL Modifications</a></li>
 </ul>		</div>
 
@@ -218,11 +211,14 @@ Custom Search
 <img id="bottom" src="/images/bottom.png" alt="">
 
 <!-- JavaScript -->
-<script type="text/javascript" src="/scripts/global/dynamic-1-6.10388.js"></script>
-<script type="text/javascript" src="/scripts/docs/dynamic.10388.js"></script>
+<script type="text/javascript" src="/scripts/global/dynamic-1-6.12135.js"></script>
+<script type="text/javascript" src="/scripts/docs/dynamic.12135.js"></script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-621688-1']);
+_gaq.push(['_setDomainName', '.wufoo.com']);
+
+if (undefined !== window.SETUSERCOOKIE) _gaq.push(['_setVar', 'current_user']);
 _gaq.push(['_trackPageview']);
 
 (function() {
@@ -232,6 +228,8 @@ ga.setAttribute('async', 'true');
 document.documentElement.firstChild.appendChild(ga);
 })();
 </script>
+
+
 <noscript>	
 <style type="text/css">
 	body, html{height:100%; overflow:hidden}
