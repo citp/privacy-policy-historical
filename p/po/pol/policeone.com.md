@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the policeone.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617170507id_/http%3A//www.policeone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policeone.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617160131id_/http%3A//www.policeone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-| 
-
 **Privacy Policy**  
-  
----  
   
 This Web site is owned and operated by:
 
@@ -63,7 +58,7 @@ PoliceOne does research on our users' demographics, interests, and behavior base
   
  **Who is collecting information?**  
   
-When you are on a PoliceOne site and are asked for personal information, you are sharing that information with PoliceOne alone, unless it is specifically stated otherwise. For example, some PoliceOne services, like BLUtube, are offered as a brand of PoliceOne using the same infrastructure and member database.  In rare other cases we may offer other co-branded sites the ability to keep areas of their site behind closed doors for users who are NOT verified by our database as an active law enforcement professional.   In order to provide this co-branded service to you, it is necessary for us to share your username and security level with our partner company.  This information is stored within a cookie during login and not otherwise collected by the partner company for any purpose.  If data is being collected and/or maintained by any company other than PoliceOne, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.  If you have any questions about the use of your information by co-branded sites or experience login problems on a co-branded site please email [support@policeone.com](https://web.archive.org/web/20090617170507id_/http://www.policeone.com/Local%20Settings/ROBERT.DIPPELL/Desktop/support@policeone.com).
+When you are on a PoliceOne site and are asked for personal information, you are sharing that information with PoliceOne alone, unless it is specifically stated otherwise. For example, some PoliceOne services, like BLUtube, are offered as a brand of PoliceOne using the same infrastructure and member database.  In rare other cases we may offer other co-branded sites the ability to keep areas of their site behind closed doors for users who are NOT verified by our database as an active law enforcement professional.   In order to provide this co-branded service to you, it is necessary for us to share your username and security level with our partner company.  This information is stored within a cookie during login and not otherwise collected by the partner company for any purpose.  If data is being collected and/or maintained by any company other than PoliceOne, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.  If you have any questions about the use of your information by co-branded sites or experience login problems on a co-branded site please email [support@policeone.com](https://web.archive.org/web/20100617160131id_/http://www.policeone.com/Local%20Settings/ROBERT.DIPPELL/Desktop/support@policeone.com).
 
 Promotions that run on PoliceOne may be sponsored by companies other than PoliceOne or may be cosponsored by PoliceOne and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don't want your data to be shared.
 
@@ -165,7 +160,4 @@ ________________________________________________________________________________
  _  
 PoliceOne is a licensee of the TRUSTe Web Privacy Seal Program.   TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site www.policeone.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
 
- _If you have questions or concerns regarding this statement, you should first contact[support@policeone.com](mailto:support@policeone.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns._  
-  
-  
-
+ _If you have questions or concerns regarding this statement, you should first contact[support@policeone.com](mailto:support@policeone.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns._
