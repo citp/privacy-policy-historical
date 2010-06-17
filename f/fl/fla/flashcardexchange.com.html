@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flashcardexchange.com privacy policy that was archived on 2009-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217174755id_/http%3A//www.flashcardexchange.com/docs/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flashcardexchange.com privacy policy that was archived on 2010-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617192714id_/http%3A//www.flashcardexchange.com/docs/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -25,6 +25,14 @@ urchinTracker();
 </script>
 </head>
 <body class="yui-skin-sam">
+<script>
+flashex.strings = {};
+flashex.strings.yuiUrlBase = 'http://static.flashcardexchange.com/yui2.7';
+flashex.strings.ImageUrl = 'http://static.flashcardexchange.com/images/';
+flashex.strings.Save = 'Save';
+flashex.strings.Cancel = 'Cancel';
+flashex.strings.Saving = 'Saving, please wait....';
+</script>
 <div id="doc2">
  <div id="hd">
  <table width="100%" border="0">
@@ -107,7 +115,7 @@ urchinTracker();
 <div id="ft" class="topBuffer fePadding">
 <div class="yui-g">
   <div class="yui-u first">
-  Copyright © 2001-2009 Tuolumne Technology Group, Inc.
+  Copyright © 2001-2010 Tuolumne Technology Group, Inc.
   </div>
   <div class="yui-u right">
   <a href="/news">News</a> |
@@ -125,10 +133,11 @@ urchinTracker();
   oMenu.addItems([
   { text: "Account Info", url: "/profile" },
   { text: "Study History", url: "/history" },
-  { text: "My Flashcards", url: "/mycards" },
+  { text: "My Flashcards", url: "/mycards?view=mine" },
+  { text: "Saved Flashcards", url: "/mycards?view=saved" },
+  { text: "New Flashcards", url: "/create" },
   { text: "Card Files", url: "/cardfiles" },
   { text: "Clipboard", url: "/clipboard" },
-  { text: "Favorites", url: "/favorites" },
   { text: "Log Out", url: "/logout" }
   ]);
   oMenu.render('myStuffMenu');
