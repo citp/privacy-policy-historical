@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proformative.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217020028id_/http%3A//www.proformative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proformative.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617213010id_/http%3A//www.proformative.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ask. Share. Get Work Done.™
 
@@ -73,11 +73,11 @@ We take your rights seriously and encourage you to use them if you deem this to 
 
 Proformative Corporation  
 Attn: Privacy Policy Issues  
-111 W. Saint John
+1608 W. Campbell Ave, #170
 
 Suite 200
 
-San Jose, CA 95113
+Campbell, CA 95008
 
 **2\. Uses of personal information** ****
 
@@ -161,8 +161,8 @@ If you have questions or comments about this privacy policy, please email us at 
 
 Proformative Corporation  
 Attn: Privacy Policy Issues  
-111 W. Saint John
+1608 W. Campbell Ave, #170
 
 Suite 200
 
-San Jose, CA 95113
+Campbell, CA 95008
