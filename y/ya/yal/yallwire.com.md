@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yallwire.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217155529id_/http%3A//www.yallwire.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yallwire.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617195633id_/http%3A//www.yallwire.com/policy.html) for the most accurate reproduction.*
 
 # Yallwire Privacy Policy
 
@@ -37,7 +37,10 @@ Yallwire does not knowingly collect personally identifiable information from chi
 **Public Forums**   
 Yallwire has on-demand streaming music videos, live streaming video programming, original on-demand streaming video, chat rooms, and message boards available to its users. Please remember that any information disclosed in these areas becomes public information. Exercise caution when deciding to disclose your personal information. As these forums are public and open for users to interact with each other, Yallwire expects all its users to respect the rights of others. 
 
-**Subscribe/unsubscribe**  
+**Third Party Advertising**   
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visitsto this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+ **Subscribe/unsubscribe**  
 Should you choose to in the future, Yallwire provides its users the opportunity to opt out of receiving communications from us and our partners. 
 
 If you would like to cancel your registered membership, remove your information from our database and not receive future communications from us, please utilize one of the following options: Email your request to [support@yallwire.com](mailto:support@yallwire.com)
