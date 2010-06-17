@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavote.net privacy policy that was archived on 2009-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090109144856id_/http%3A//lacounty.info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavote.net privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617195539id_/http%3A//lacounty.info/privacy.htm) for the most accurate reproduction.*
 
 # Los Angeles County-About This Site-Privacy Policy
 
@@ -21,7 +21,3 @@ Some County department or agency websites may ask visitors who request specific 
 Our website also contains links to information located on websites maintained by other public agencies and private organizations. Once you access an individual document that links you to another website, you are subject to the privacy policy of the website containing that document.
 
  **Disclaimer of Liability** With respect to information available from this web page, neither the County of Los Angeles nor any of its employees, make any warranty, express or implied, including the warranty of merchantability and fitness for a particular purpose, or assume any liability or responsibility for the accuracy, completeness, or usefulness of such information.
-
-  
-  
-
