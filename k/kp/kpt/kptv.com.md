@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kptv.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217174719id_/http%3A//www.kptv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kptv.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617192458id_/http%3A//www.kptv.com/privacy) for the most accurate reproduction.*
 
 # kptv.com - Privacy
 
