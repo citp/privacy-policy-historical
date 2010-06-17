@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217234918id_/http%3A//www.shawfloors.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617155137id_/http%3A//www.shawfloors.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Shaw Floors: Privacy Policy -ShawFloors.com
 
@@ -26,4 +26,4 @@ Online security is important to us, so we have taken precautions to make the ent
 
 
 
-Shaw Industries, Inc. 2002 2006. All rights reserved.
+Shaw Industries, Inc. 2002-2010. All rights reserved.
