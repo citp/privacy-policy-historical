@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the salespider.com privacy policy that was archived on 2009-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217002315id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salespider.com privacy policy that was archived on 2010-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100617023303id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title>The Entrepreneur Network for Small Business, Home Business &amp; Business Opportunity</title>
@@ -9,7 +9,7 @@
 <meta name="verify-v1" content="09/YnxP3fOF1cLgkLlesv+oaRLBfoEGip1O/hWDwvVs=">
 <meta name="y_key" content="3e85f912f928ba49">
 <meta name="Description" content="Salespider.Com Is The Largest Free Social Network For Business Owners And Entrepreneurs And Includes Free Sales Leads &amp; Prospect Lists, Free Classified Ads, Free Business Directory, Free Business Videos, Free Business Chat Rooms, And Free Business Forums">
-			
+
 <link rel="stylesheet" type="text/css" href="/css/text.css">
 <link rel="stylesheet" type="text/css" href="/css/ss-dashboard-upgrade.css">
 <style type="text/css">
@@ -23,6 +23,7 @@
 <!-- this is what causes the freaking space -->
 <script language="javascript">AC_FL_RunContent = 0;</script>
 <script type="text/javascript" language="javascript" src="/js/helper.js"></script>
+<script type="text/javascript" language="javascript" src="/js/jquery-1.3.2.min.js"></script>
 <script language="javascript" type="text/javascript">
 <!--
 	function MM_openBrWindow(theURL,winName,features) { //v2.0
@@ -47,11 +48,10 @@
 <script type="text/javascript" src="/js/wz_jsgraphics.js"></script>
 <!--Google analytics-->
 <!---->
-						
+				
 </head>
 <body>
 
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <script language="JavaScript">
 function popUp(URL) {
 day = new Date();
@@ -59,26 +59,39 @@ id = day.getTime();
 eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=820,height=700');");
 }
 </script>
+<style type="text/css">
+#container_bar { height: 75px; }
+</style>
+<!--[if IE]>
+<style type="text/css">
+#container_bar {height: 75px; margin-bottom: -15px; }
+</style>
+<![endif]-->
+
 <!-- Start //table that holds all the content of the website -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
   <td align="center" valign="middle"><!-- //logo and banner table at the top-->
     <table width="960" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="40%" align="left" valign="top">
-        <a href="index.php">
-
-    <img src="images/logo_top_left.gif" border="0" vspace="0" alt="Top Logo">
- </a></td>
-        <td width="1%" align="right" valign="middle">&nbsp;</td>
-        <td width="59%" align="right" valign="bottom">
-          <img src="/images/events/top_right.gif" width="630" height="75" border="0" usemap="#two">
-
-<map name="two">
-<area shape="rect" coords="166,35,303,60" href="/special-offers.php">
-<area shape="rect" coords="324,34,461,60" href="/index.php?nr=1&amp;uri=%2Findex.php%3Fprivacy%3D1">
-<area shape="rect" coords="479,33,616,60" href="/index.php?login=1&amp;uri=%2Findex.php%3Fprivacy%3D1">
-</map>
+        <td>
+		<div id="container_bar">
+		<div style="float: left; width: 360px; background: #FFF;"><a href="/"><img src="/images/logo_top_left.gif" style="border: 0px;"></a></div>
+		<div style="float: left; padding-top: 25px; width: 285px;">
+<div>
+<div style="float: left;">
+<a href="http://www.twitter.com/SaleSpider" target="_blank"><img src="http://twitter-badges.s3.amazonaws.com/t_logo-a.png" style="border: 0px;" alt="Follow SaleSpider on Twitter"></a>
+</div>
+<div style="float: left; text-align: left; margin-left: 5px; font-size: 14px;"><a href="http://www.twitter.com/SaleSpider" target="_blank">Follow us on <br>Twitter</a></div>
+<div style="clear: both;"></div>
+</div>
+</div>
+		<map name="special-signup">
+			<area shape="rect" coords="152,75,0,0" href="/special-offers.php">
+			<area shape="rect" coords="300,75,152,0" href="/index.php?nr=1">
+		</map><div style="float: left; width: 304px; text-align: right;"><img src="/images/special-offers-signup.gif" style="border: 0px;" usemap="#special-signup"></div>
+		<div style="clear: both;"></div>
+		</div>
 		</td>
       </tr>
     </tbody></table>
@@ -94,14 +107,14 @@ var ddmenuitem      = 0;
 
 function fixDropDownLastLink() {
 	if ($('.top_menu_link_last').attr('id') != 'top_menu_selected') {
-		var p = $('.top_menu_link_last').position();var w1 = $('.top_menu_link_last').width();var w2 = $('.top_menu_link_last > span').width();var w3 = 0;
+		var p = $('.top_menu_link_last').position();var w1 = $('.top_menu_link_last').width();var w2 = $('.top_menu_link_last > div').width();var w3 = 0;
 		if (w2 > w1) { w3 = w2 - w1; }
-		$('.top_menu_link_last > span').css('left',p.left - w3);
+		$('.top_menu_link_last > div').css('left',p.left - w3);
 	}
 }
-function jsddm_open(){	
+function jsddm_open(){
 	fixDropDownLastLink();jsddm_canceltimer();jsddm_close();
-	if ($(this).attr('id') != 'top_menu_selected') {showElement2();ddmenuitem = $(this).find('span').eq(0).css('visibility', 'visible');}
+	if ($(this).attr('id') != 'top_menu_selected') {showElement2();ddmenuitem = $(this).find('div').eq(0).css('visibility', 'visible');}
 }
 
 function jsddm_close(){	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');hideElement2();}
@@ -137,18 +150,17 @@ function showElement2() {clearInterval(dummyTimer);dummyTimer = setInterval ( fu
 	<div id="top_menu_main_back">
 		<div id="top_menu_main">
 			<div id="jsddm">
-				<div class="top_menu_link" id="top_menu_selected"><a href="/">Home</a><span></span></div><div class="top_menu_link"><a href="/small-business-owner-directory">People</a><span><div><a href="/small-business-owner-directory">Connect To New People</a></div><div><a href="/social-network-find-friend-at-work">Find Friends</a></div><div><a href="javascript:AddressBook=window.open('/pms/pmsys/addressbook/index.php','AddressBook','width=640,height=500,scrollbars=yes,status=yes'); AddressBook.focus();">Address Book</a></div><div><a href="/friend-requests">Invitations to Connect</a></div><div><a href="#" onclick="return popUp('faq/faq.php?cat=13');" "="">Help</a></div><div><a href="/small-business-directory-about">About People</a></div></span></div><div class="top_menu_link"><a href="/sales-leads">Leads</a><span><div><a href="/sales-leads">Search Leads</a></div><div><a href="/US-Free-leads">USA Leads</a></div><div><a href="/Europe-Free-Sales-leads">European Leads</a></div><div><a href="/Canada-Free-Sales-leads">Canadian Leads</a></div><div><a href="/grants_us_gov_new.php?eligible=Small businesses">US Government Grants</a></div><div><a href="/grants_ca_new.php">Canadian Grants</a></div><div><a href="#" onclick="return popUp('/Help-Search-Topics');" "="">Help</a></div><div><a href="/About-Leads">About Leads &amp; Grants</a></div></span></div><div class="top_menu_link"><a href="/classified-ads-and-free-online-ads">Classifieds</a><span><div><a href="/classifieds-free-advertising">Browse Classifieds</a></div><div><a href="/online-classifieds-free-advertising">Post a Classified</a></div><div><a href="#" onclick="return popUp('/classifieds-help-and-faq');" "="">Help</a></div><div><a href="/about-classifieds-and-free-online-ads">About Classifieds</a></div></span></div><div class="top_menu_link"><a href="/home-business-start-a-business">Biz Tools</a><span><div><a href="/home-business-start-a-business">Business Tools &amp; Resources</a></div><div><a href="/business-directories-free-online-ads">Post to Business Directory</a></div><div><a href="/business-opportunity-free-online-ads">Search Business Directory</a></div><div><a href="/bc_form_new.php">Suggest Link</a></div><div><a href="/bc_tools.php?country=&amp;page=1&amp;section=1&amp;about=1">About Business Tools &amp; Resources</a></div></span></div><div class="top_menu_link"><a href="/job-center">Jobs</a><span><div><a href="/post-resume">Post a Resume / Bio</a></div><div><a href="/resume-search">Search Resumes</a></div><div><a href="/post-job">Post Job</a></div><div><a href="/search-jobs">Search Jobs</a></div><div><a href="#" onclick="return popUp('/faq/faq.php?cat=15');" "="">Help</a></div><div><a href="/about-job-center">About Job Center</a></div></span></div><div class="top_menu_link"><a href="/business-video">Videos</a><span><div><a href="/business-video">Business Videos</a></div><div><a href="/cnbc-video-business-video-new">CNBC Videos</a></div><div><a href="/upload-video-business-video-new">Upload Your Video</a></div><div><a href="/favorites-business-video-new">Favorites</a></div><div><a href="#" onclick="return popUp('faq/faq.php?cat=16');" "="">Help</a></div><div><a href="/business-video-cnbc-video-about-new">About Videos</a></div></span></div><div class="top_menu_link"><a href="/index.php?mail=1"><div style="padding: 0px 0px;">&nbsp;</div>Mail</a><span><div><a href="/index.php?mail=1">Inbox</a></div><div><a href="/index.php?mail=1&amp;page=compose.php">Compose Message</a></div><div><a href="/index.php?mail=1&amp;page=sent.php">Sent Items</a></div><div><a href="javascript:AddressBook=window.open('/pms/pmsys/addressbook/index.php','AddressBook','width=640,height=500,scrollbars=yes,status=yes'); AddressBook.focus();">Address Book</a></div><div><a href="/index.php?mail=1&amp;page=options.php">Mail Options</a></div><div><a href="#" onclick="return popUp('faq/faq.php');" "="">Help</a></div><div><a href="/index.php?mail=1&amp;about=1">About Mail</a></div></span></div><div class="top_menu_link"><a href="/business-forums">Forums</a><span><div><a href="/business-forums">Browse Forums</a></div><div><a href="/create-forums-and-free-chat-rooms">Create a Forum</a></div><div><a href="/join-a-business-forum">Join a Forum</a></div><div><a href="/invite-members-to-forum">Invite Members</a></div><div><a href="#" onclick="return popUp('/Forums-help-and-faq');" "="">Help</a></div><div><a href="/about-business-forums">About Forums</a></div></span></div><div class="top_menu_link"><a href="/browse-chat">Chat</a><span><div><a href="/browse-chat">Browse Chats</a></div><div><a href="/create-chat">Create Chat</a></div><div><a href="/invite-members">Invite Members</a></div><div><a href="#" onclick="return popUp('faq-live-chat');" "="">Help</a></div><div><a href="/about-live-chat">About Live Chats</a></div></span></div><div class="top_menu_link_last"><a href="/news.php">Advertise</a><span style="left: 8px;"><div><a href="/news.php">News</a></div><div><a href="/ss_createAd.php">Self Serve Advertising</a></div><div><a href="/MediaKit/home.php" target="_blank">Advertising Media Kit</a></div><div><a href="http://www.smbspider.com/home.php" target="_blank">Social Media Solutions</a></div><div><a href="/testimonials.php">Testimonials</a></div><div><a href="#" onclick="return popUp('faq/faq.php?cat=17');" "="">Help</a></div></span></div>	
-			</div>
-			<div class="top_menu_clear"></div>
-	
+				<div class="top_menu_link" id="top_menu_selected"><a href="/">Home</a><div class="ccc"></div></div><div class="top_menu_link"><a href="/small-business-owner-directory">People</a><div class="ccc"><div><a href="/small-business-owner-directory">Connect To New People</a></div><div><a href="/social-network-find-friend-at-work">Find Friends</a></div><div><a href="javascript:AddressBook=window.open('/pms/pmsys/addressbook/index.php','AddressBook','width=640,height=500,scrollbars=yes,status=yes'); AddressBook.focus();">Address Book</a></div><div><a href="/friend-requests">Invitations to Connect</a></div><div><a href="#" onclick="return popUp('faq/faq.php?cat=13');" "="">Help</a></div><div><a href="/small-business-directory-about">About People</a></div></div></div><div class="top_menu_link"><a href="/sales-leads">Leads</a><div class="ccc"><div><a href="/sales-leads">Search Leads</a></div><div><a href="/US-Free-leads">USA Leads</a></div><div><a href="/Europe-Free-Sales-leads">European Leads</a></div><div><a href="/Canada-Free-Sales-leads">Canadian Leads</a></div><div><a href="/grants_us_gov_new.php?eligible=Small businesses">US Government Grants</a></div><div><a href="/grants_ca_new.php">Canadian Grants</a></div><div><a href="#" onclick="return popUp('/Help-Search-Topics');" "="">Help</a></div><div><a href="/About-Leads">About Leads &amp; Grants</a></div></div></div><div class="top_menu_link"><a href="/classified-ads-and-free-online-ads">Classifieds</a><div class="ccc"><div><a href="/classifieds-free-advertising">Browse Classifieds</a></div><div><a href="/online-classifieds-free-advertising">Post a Classified</a></div><div><a href="#" onclick="return popUp('/classifieds-help-and-faq');" "="">Help</a></div><div><a href="/about-classifieds-and-free-online-ads">About Classifieds</a></div></div></div><div class="top_menu_link"><a href="/home-business-start-a-business">Biz Tools</a><div class="ccc"><div><a href="/home-business-start-a-business">Business Tools &amp; Resources</a></div><div><a href="/business-directories-free-online-ads">Post to Business Directory</a></div><div><a href="/business-opportunity-free-online-ads">Search Business Directory</a></div><div><a href="/bc_form_new.php">Suggest Link</a></div><div><a href="/bc_tools.php?country=&amp;page=1&amp;section=1&amp;about=1">About Business Tools &amp; Resources</a></div></div></div><div class="top_menu_link"><a href="/job-center">Jobs</a><div class="ccc"><div><a href="/post-resume">Post a Resume / Bio</a></div><div><a href="/resume-search">Search Resumes</a></div><div><a href="/post-job">Post Job</a></div><div><a href="/search-jobs">Search Jobs</a></div><div><a href="#" onclick="return popUp('/faq/faq.php?cat=15');" "="">Help</a></div><div><a href="/about-job-center">About Job Center</a></div></div></div><div class="top_menu_link"><a href="/business-video">Videos</a><div class="ccc"><div><a href="/business-video">Business Videos</a></div><div><a href="/cnbc-video-business-video-new">CNBC Videos</a></div><div><a href="/upload-video-business-video-new">Upload Your Video</a></div><div><a href="/favorites-business-video-new">Favorites</a></div><div><a href="#" onclick="return popUp('faq/faq.php?cat=16');" "="">Help</a></div><div><a href="/business-video-cnbc-video-about-new">About Videos</a></div></div></div><div class="top_menu_link"><a href="/index.php?mail=1">&nbsp;Mail</a><div class="ccc"><div><a href="/index.php?mail=1">Inbox</a></div><div><a href="/index.php?mail=1&amp;page=compose.php">Compose Message</a></div><div><a href="/index.php?mail=1&amp;page=sent.php">Sent Items</a></div><div><a href="javascript:AddressBook=window.open('/pms/pmsys/addressbook/index.php','AddressBook','width=640,height=500,scrollbars=yes,status=yes'); AddressBook.focus();">Address Book</a></div><div><a href="/index.php?mail=1&amp;page=options.php">Mail Options</a></div><div><a href="#" onclick="return popUp('faq/faq.php');" "="">Help</a></div><div><a href="/index.php?mail=1&amp;about=1">About Mail</a></div></div></div><div class="top_menu_link"><a href="/business-forums">Forums</a><div class="ccc"><div><a href="/business-forums">Browse Forums</a></div><div><a href="/create-forums-and-free-chat-rooms">Create a Forum</a></div><div><a href="/join-a-business-forum">Join a Forum</a></div><div><a href="/invite-members-to-forum">Invite Members</a></div><div><a href="#" onclick="return popUp('/Forums-help-and-faq');" "="">Help</a></div><div><a href="/about-business-forums">About Forums</a></div></div></div><div class="top_menu_link"><a href="/browse-chat">Chat</a><div class="ccc"><div><a href="/browse-chat">Browse Chats</a></div><div><a href="/create-chat">Create Chat</a></div><div><a href="/invite-members">Invite Members</a></div><div><a href="#" onclick="return popUp('faq-live-chat');" "="">Help</a></div><div><a href="/about-live-chat">About Live Chats</a></div></div></div><div class="top_menu_link_last"><a href="/news.php">Advertise</a><div class="ccc" style="left: 563.234px;"><div><a href="/news.php">News</a></div><div><a href="/ss_createAd.php">Self Serve Advertising</a></div><div><a href="/MediaKit/home.php" target="_blank">Advertising Media Kit</a></div><div><a href="http://www.smbspider.com/home.php" target="_blank">Social Media Solutions</a></div><div><a href="../faq/faq.php#45" target="_blank">Help</a></div></div></div>			</div>
+						<div style="float: right; padding-right: 10px; padding-top: 10px;"><a href="/index.php?login=1" style="font-weight: bold; color: #FFF;">Login now&nbsp;»</a></div>
+						<div class="top_menu_clear"></div>
+
 		</div>
 	</div>
 	<div id="top_menu_sub_menu_back">
 		<div id="top_menu_sub_menu">
 			<div id="top_menu_sub_menu_links">
 				<span class="top_menu_sub_menu_text">Welcome to Sales Spider!</span>			</div>
-			<div class="top_menu_sub_menu_right_text">Visitors last 24 hrs: 48258</div>
-			<div class="top_menu_clear"></div>	
+			<div class="top_menu_sub_menu_right_text">Visitors last 24 hrs: 55,503</div>			<div class="top_menu_clear"></div>
 		</div>
 	</div>
 	<div id="top_menu_shadow_bottom">&nbsp;</div>
@@ -162,11 +174,10 @@ fixDropDownLastLink();
 
 
 <map name="one">
-<area shape="rect" coords="2,2,127,63" href="testimonials.php" alt="Testimonials">
-<area shape="rect" coords="139,5,250,65" href="videos.php" alt="How to Videos">
-<area shape="rect" coords="271,5,385,59" href="index.php?nr=1&amp;uri=%2Findex.php%3Fprivacy%3D1" alt="Register Now">
-
-<area shape="rect" coords="400,5,512,60" href="index.php?login=1&amp;uri=%2Findex.php%3Fprivacy%3D1" alt="Log in">
+<area shape="rect" coords="2,2,127,63" href="/testimonials.php" alt="Testimonials">
+<area shape="rect" coords="139,5,250,65" href="/videos.php" alt="How to Videos">
+<area shape="rect" coords="271,5,385,59" href="/index.php?nr=1&amp;uri=%2Findex.php%3Fprivacy%3D1" alt="Register Now">
+<area shape="rect" coords="400,5,512,60" href="/index.php?login=1&amp;uri=%2Findex.php%3Fprivacy%3D1" alt="Log in">
 </map>
 	
 <!--from header_d and should be put back in there -->
@@ -242,39 +253,20 @@ fixDropDownLastLink();
 		</tbody></table>
 	<!-- 2nd coloum that holds the banner on the right side of the index.php-->
 	</td><td width="172" align="right" valign="top">
-		<table width="172" height="100%" border="0" cellpadding="5" cellspacing="0">
-		</table><table align="center"><tbody><tr><td align="center">            
-<div style="text-align: center; margin-left: 4px;">
-
-	<div class="heading_box">
-		<div class="heading_small" style="color:#FFFFFF; font-weight:bold; text-align:center; padding-top:5px;">Ads by Members</div>
-		<table width="178" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="174">
-					<table width="174" border="0" cellspacing="0" cellpadding="0">
-						<tbody><tr>
-							<td>
-							<br>
-								
-															
-																			<div align="left" onmouseover="return overlib('HELP WANTED<br>ompanies need employees to assemble their products in your home, No Selling, No Calling, Make up to...', LEFT, WIDTH, 200, FGCOLOR, '#FFFFE1', OFFSETX, 20);" onmouseout="return nd()" style="padding-left:10px;">
-									<b><a href="/ss_viewAd.php?id=83021">Help wanted</a></b><br>Companies need employees to assemble their products in your home, ...</div><br>											<div align="left" onmouseover="return overlib('A Helping Hand<br>need some help. I have dreamed of unique cushions and teddy bears for years. I got a trademark. I...', LEFT, WIDTH, 200, FGCOLOR, '#FFFFE1', OFFSETX, 20);" onmouseout="return nd()" style="padding-left:10px;">
-									<b><a href="/ss_viewAd.php?id=87473">A helping hand</a></b><br>I need some help. I have dreamed of unique cushions ...</div><br><center><img src="/images/dash_icons/ads-by-members-seperator.gif"></center><div align="center" style=" padding-top:3px;padding-bottom:2px;"><b><a href="/ss_createAd.php">Advertise Here</a></b></div>							</td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td>&nbsp;</td>
-			</tr>
-		</tbody></table>
-		</div>
-	
 		
+		
+	<div style=" border:1px solid black;margin-bottom:10px;">
+	<div class="heading_box" style="min-height: 30px;color:#FFFFFF; font-weight:bold; border:0px; text-align:center; padding-top:5px; ">Ads by Members</div>
+
+		<div style="text-align:center;clear:both">
+															<div align="left" onmouseover="return overlib('Accounts Receivable / Payable <br>ccounting Position for Accounts Receivable and Accounts Payable~Seeking an individu...', LEFT, WIDTH, 200, FGCOLOR, '#FFFFE1', OFFSETX, 20);" onmouseout="return nd()" style="padding-left:10px;">
+									<b><a href="/ss_viewAd.php?id=157271">Accounts receivable / payable </a></b><br>Accounting Position for Accounts Receivable and Accounts Payable
+
+~Seeking an individual ...</div><br>											<div align="left" onmouseover="return overlib('beautiful home decores <br>isit our online store today and you will be amazed how conveniently you can find every thing you ar...', LEFT, WIDTH, 200, FGCOLOR, '#FFFFE1', OFFSETX, 20);" onmouseout="return nd()" style="padding-left:10px;">
+									<b><a href="/ss_viewAd.php?id=154583">Beautiful home decores </a></b><br>Visit our online store today and you will be amazed ...</div><br><center><img src="/images/dash_icons/ads-by-members-seperator.gif"></center><div align="center" style=" padding-top:3px;padding-bottom:2px;"><b><a href="/ss_createAd.php">Advertise Here</a></b></div>		</div>
 	</div>
 	
-</td></tr>		<tr>
-			<td height="283" align="center" valign="top" class="rt_ad">
-				<div align="center">
-				<a href="http://www.salespider.com/openx/www/delivery/ck.php?oaparams=2__bannerid=12333__zoneid=281__cb=3dc7ce6ec0__maxdest=http://www.mymailingleads.com/marketing/landing-pages/ban/500-free-sales-leads.asp?sc=SSad500-2" target="_blank"><img src="http://www.salespider.com/images/banners/Acxiom/AcxAd2B_Flash.gif" border="0"></a><div id="beacon_12333" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.salespider.com/openx/www/delivery/lg.php?bannerid=12333&amp;campaignid=2581&amp;zoneid=281&amp;channel_ids=,&amp;loc=http%3A%2F%2Fwww.salespider.com%2Findex.php%3Fprivacy%3D1&amp;cb=3dc7ce6ec0" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>                </div>
+<div style="text-align:center;margin-top:10px;"><a href="http://www.salespider.com/openx/www/delivery/ck.php?oaparams=2__bannerid=15941__zoneid=281__cb=c7cead6c92__maxdest=http://www.looksmart.com/offer-match50-laptop/?lsc=BD-SS-160x600-laptop" target="_blank"><img src="http://www.salespider.com/images/banners/LookSmart/LookSmart_SMB_LaptopAd_160x600.gif" border="0"></a><div id="beacon_15941" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.salespider.com/openx/www/delivery/lg.php?bannerid=15941&amp;campaignid=3323&amp;zoneid=281&amp;loc=http%3A%2F%2Fwww.salespider.com%2Findex.php%3Fprivacy%3D1&amp;cb=c7cead6c92" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>              
 			</td>
 		</tr>
 		</tbody></table>
@@ -282,10 +274,10 @@ fixDropDownLastLink();
 	</tr>
 	</tbody></table>
 
-	</td>
+	
 
-</tr>
-</tbody></table>
+
+
 	<!-- main end -->
 
 
@@ -302,40 +294,41 @@ fixDropDownLastLink();
 <!-- END //table that holds all the content of the website the begining of this is in header_d-->  
 
 
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="top_line_gray">
   <tbody><tr>
     <td align="center">
       <div id="menu_bottom">
         <ul>
-          <li><a href="index.php?aboutus=1">About Us</a></li>
+          <li><a href="/index.php?aboutus=1">About Us</a></li>
           |
-          <li><a href="index.php?terms=1">Terms of Use</a></li>
+          <li><a href="/index.php?terms=1">Terms of Use</a></li>
           |
-          <li><a href="index.php?privacy=1">Privacy</a></li>
+          <li><a href="/index.php?privacy=1">Privacy</a></li>
           |
-          <li><a href="index.php?career=1">Careers</a></li>
+          <li><a href="/index.php?career=1">Careers</a></li>
           |
-          <li><a href="index.php?contactform=1">Contact Us</a></li>
+          <li><a href="/index.php?contactform=1">Contact Us</a></li>
           |
-		  <li><a href="basic_sitemap.php">Site Map</a></li>
+		  <li><a href="/basic_sitemap.php">Site Map</a></li>
           |
-          <li><a href="advertise-inquiry.php">Advertise</a></li>
+          <li><a href="/advertise-inquiry.php">Advertise</a></li>
           |
-          <li><a href="news.php">News</a></li>
+          <li><a href="/news.php">News</a></li>
           |
           <li><a href="http://www.smbspider.com/links.php" target="_blank">Link to Us</a></li>
           |
-          <li><a href="index.php?contactform=2">Feedback</a></li>
+          <li><a href="/index.php?contactform=2">Feedback</a></li>
           |
+          <li><a href="/business-blog">Business Blog</a></li>
+          |          
           <li>© 2009 Sales Spider</li>
-          <img src="images/btm_spider.jpg" hspace="3" vspace="3" border="0" align="absmiddle">
+          <img src="/images/btm_spider.jpg" hspace="3" vspace="3" border="0" align="absmiddle">
         </ul>
     </div></td>
   </tr>
 </tbody></table>
 
-<div align="center" class="top_line_gray" style="border-top-width: 0px;"><br><a href="http://www.salespider.com/business-chat.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-chat</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-discussion.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-discussion</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-entrepreneur.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-entrepreneur</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-forums.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-forums</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-social-network.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-social-network</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-video.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-video</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-videos.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-videos</a><br><a href="http://www.salespider.com/business_chat.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_chat</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_discussion.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_discussion</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_discussion_2.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_discussion_2</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_forums.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_forums</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_social_network.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_social_network</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_video.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_video</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_videos.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_videos</a><br><a href="http://www.salespider.com/entrepreneur-opportunity.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">entrepreneur-opportunity</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/entrepreneur.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">entrepreneur</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free-business-articles.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-business-articles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free-business-directories.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-business-directories</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free-business-directory.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-business-directory</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free-business-tools.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-business-tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free-classified-ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-classified-ads</a><br><a href="http://www.salespider.com/free-sales-lead.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-sales-lead</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_business_articles.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_business_articles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_business_directories.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_business_directories</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_business_directory.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_business_directory</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_business_tools.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_business_tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_classified_ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_classified_ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_sales_lead.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_sales_lead</a><br><a href="http://www.salespider.com/government-bids.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">government-bids</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/government-proposal.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">government-proposal</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/government_bids.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">government_bids</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/government_proposals.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">government_proposals</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/leads-sales.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">leads-sales</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/leads_sales.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">leads_sales</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/post-classified-ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post-classified-ads</a><br><a href="http://www.salespider.com/post-classifieds-ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post-classifieds-ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/post-resumes.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post-resumes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/posting_classified_ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">posting_classified_ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/post_classifieds_ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post_classifieds_ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/post_classified_ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post_classified_ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/post_resumes.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post_resumes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/resume-center.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">resume-center</a><br><a href="http://www.salespider.com/resume_center.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">resume_center</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/sales-lead.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">sales-lead</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/sales-leads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">sales-leads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/sales_lead.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">sales_lead</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/sales_leads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">sales_leads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/small-business-opportunities.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">small-business-opportunities</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/small-business-opportunity.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">small-business-opportunity</a><br><a href="http://www.salespider.com/small-business-owner.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">small-business-owner</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/social-networking-business.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">social-networking-business</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/social_networking_business.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">social_networking_business</a><br></div>
+<div align="center" class="top_line_gray" style="border-top-width: 0px;"><br><a href="http://www.salespider.com/business-chat.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-chat</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-discussion.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-discussion</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-entrepreneur.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-entrepreneur</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-forums.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-forums</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-opportunities.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-opportunities</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-social-network.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-social-network</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business-video.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-video</a><br><a href="http://www.salespider.com/business-videos.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business-videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_chat.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_chat</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_discussion.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_discussion</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_discussion_2.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_discussion_2</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_forums.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_forums</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_social_network.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_social_network</a><br><a href="http://www.salespider.com/business_video.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_video</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/business_videos.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">business_videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/classified_3.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">classified_3</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/entrepreneur-2.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">entrepreneur-2</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/entrepreneur-opportunity.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">entrepreneur-opportunity</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/entrepreneur.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">entrepreneur</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free-business-articles.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-business-articles</a><br><a href="http://www.salespider.com/free-business-directories.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-business-directories</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free-business-directory.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-business-directory</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free-business-tools.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-business-tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free-classified-ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-classified-ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free-sales-lead.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free-sales-lead</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_business_articles.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_business_articles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_business_directories.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_business_directories</a><br><a href="http://www.salespider.com/free_business_directory.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_business_directory</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_business_tools.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_business_tools</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_classified_ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_classified_ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/free_sales_lead.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">free_sales_lead</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/government-bids.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">government-bids</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/government-proposal.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">government-proposal</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/government_bids.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">government_bids</a><br><a href="http://www.salespider.com/government_proposals.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">government_proposals</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/leads-sales.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">leads-sales</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/leads_sales.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">leads_sales</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/post-classified-ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post-classified-ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/post-classifieds-ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post-classifieds-ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/post-resumes.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post-resumes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/posting_classified_ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">posting_classified_ads</a><br><a href="http://www.salespider.com/post_classifieds_ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post_classifieds_ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/post_classified_ads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post_classified_ads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/post_resumes.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">post_resumes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/resume-center.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">resume-center</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/resume_center.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">resume_center</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/sales-lead.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">sales-lead</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/sales-leads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">sales-leads</a><br><a href="http://www.salespider.com/sales_lead.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">sales_lead</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/sales_leads.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">sales_leads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/small-business-opportunities.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">small-business-opportunities</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/small-business-opportunity.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">small-business-opportunity</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/small-business-owner.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">small-business-owner</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/Small-Businesses.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">Small-Businesses</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.salespider.com/social-networking-business.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">social-networking-business</a><br><a href="http://www.salespider.com/social_networking_business.html" style="font-family:Verdana, Geneva, sans-serif; font-size:9.5px; color:#666; font-weight:bold; text-decoration:none;">social_networking_business</a><br></div>
 	<script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -345,6 +338,8 @@ fixDropDownLastLink();
         pageTracker._initData();
         pageTracker._trackPageview();
     </script>	
+
+	
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-4fGVX93RczZJA";quantserve();</script>
@@ -353,6 +348,15 @@ fixDropDownLastLink();
 </noscript>
 <!-- End Quantcast tag -->
 
+
+<!-- Revenue Science API -->
+
+<script src="http://js.revsci.net/gateway/gw.js?csid=K08784"></script>
+<script>
+DM_addEncToLoc("pid","ss");
+DM_tag();
+</script>
+<!-- Revenue Science API -->
 
 
 
@@ -372,7 +376,6 @@ SITE RETARGETING code should be placed on the entire site (or in universal heade
 
 
 
-<script type="text/javascript" language="javascript" src="/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" language="javascript" src="/AC_RunActiveContent.js"></script>
 
 <script type="text/javascript" language="javascript" src="/js/mailcommonlib.js"></script>
