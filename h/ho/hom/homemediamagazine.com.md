@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemediamagazine.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064056id_/http%3A//www.homemediamagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemediamagazine.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617055330id_/http%3A//www.homemediamagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | homemediamagazine.com
 
@@ -7,7 +7,7 @@
 
 #### **PRIVACY STATEMENT**
 
-The following Privacy Statement summarizes the various ways that **Questex Media Group, Inc**. (“Questex Media Group”) treats the information you provide while using **www.questex.com** or any other Questex Media Group site. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. This Privacy Statement does not cover information collected elsewhere, including offline and on sites linked to or from any of our sites.
+The following Privacy Statement summarizes the various ways that **Questex Media Group LLC**. (“Questex Media Group”) treats the information you provide while using **www.questex.com** or any other Questex Media Group site. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. This Privacy Statement does not cover information collected elsewhere, including offline and on sites linked to or from any of our sites.
 
 Please read this Privacy Statement carefully. **Your use of, accessing, and/or registration on any aspect of our sites will constitute your agreement to this Privacy Statement**. If you do not agree to these terms, please do not use our sites. If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@questex.com](mailto:privacy@questex.com)
 
@@ -90,13 +90,13 @@ We use procedural and technical safeguards to protect your personal information 
 If you have any questions regarding our privacy statement, please feel free to contact us by letter at the address below, or by e-mail at [privacy@questex.com](mailto:privacy@questex.com) . We read every message submitted and try to reply promptly to every one.
 
   
-**Questex Media Group, Inc.**  
+**Questex Media Group LLC.**  
 275 Grove Street  
 Suite 2-130  
 Newton, MA 02464  
 [privacy@questex.com](mailto:privacy@questex.com)
 
   
-Copyright © 2008 Questex Media Group, Inc. Privacy Statement
+Copyright © 2008 Questex Media Group LLC. Privacy Statement
 
 Revised and Posted As Of: February 5th, 2008
