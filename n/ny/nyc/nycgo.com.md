@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nycgo.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002208id_/http%3A//www.nycgo.com/privacy/ref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycgo.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617152556id_/http%3A//www.nycgo.com/privacy/ref%3Dfooter) for the most accurate reproduction.*
 
-# nycgo / privacy policy
+# privacy policy / nycgo.com
 
 In order for you to use our website, subscribe to our electronic newsletter and other electronic mailings, participate in our programs and promotions and participate in sweepstakes or other contests that we may sponsor, we collect personal information that you submit to us and nonpersonal information that is collected pursuant to the “cookies” definition described herein. That information may include, but not be limited to, your first and last name, postal address, telephone number, email address, date of birth and interests. We do not collect any personal information that you do not provide.
 
