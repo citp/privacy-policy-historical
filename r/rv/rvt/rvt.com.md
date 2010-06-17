@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvt.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000451id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvt.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617051706id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.*
 
 # RVT Privacy Agreement
 
@@ -6,9 +6,9 @@
 
 Last Updated: May 21 2008
 
-**Natco Trading Corporation, DBA RV Trader** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.rvt.com](http://www.rvt.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+**Natco Trading Corporation, DBA RV Trader** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.rvt.com](http://www.rvt.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact RVTrader Support at [tradersupport@rvt.com](mailto:tradersupport@rvt.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact RVTrader Support at [tradersupport@rvt.com](mailto:tradersupport@rvt.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.rvt.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.rvt.com) TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 RV Trader is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the RV Trader Classifieds.   
   
@@ -33,7 +33,7 @@ This policy will let you know:
   15. Communications From Our Site
   16. How you can access, update or delete your information
   17. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
-  18. How RV Trader protects children's privacy
+  18. How Natco Trading protects children's privacy
   19. What else you should know about your online privacy
   20. Changes in this Privacy Statement
 
@@ -220,8 +220,9 @@ If we decide to change our privacy policy, we will post those changes to this pr
 Back to Top
 
 Natco Trading Corporation  
-726 Cherry St. #160  
-PO Box 8000  
-Sumas, WA, 98295-8000 
+9250 Hwy 97N  
+Winfield, British Columbia  
+Canada V4V 1P9  
+
 
 Back to Top
