@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192922id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617180910id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
 
 # Road Runner Sports Privacy & Security Policy
 
-|  **Road Runner Sports Privacy & Security Policy**  
-
+| 
 
 We appreciate the trust you place in Road Runner Sports, and are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on November 3, 2009, describes the information we collect and how we use it.
 
@@ -23,6 +22,7 @@ Road Runner Sports uses the most advanced and highest level of online security a
 
 We are enrolled in Trustwave's TrustKeeper® remote compliance program to validate compliance with the Payment Card Industry (PCI) Data Security Standard supported by all the major credit card associations including: American Express, Diners Club, Discover, JCB, MasterCard International, Visa International and Visa USA. The Trusted CommerceSM service seal you see displayed on our site indicates that Road Runner Sports protects credit card and order information in accordance with payment card industry best practices.
 
+  
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Your credit card number cannot be read by a third party while in transit and will remain private and completely protected.
 
 Under the "Fair Credit Billing Act," federal law limits your responsibility for unauthorized charges up to $50.00. This means that your bank cannot hold you liable for more than $50.00 of fraudulent charges. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
@@ -48,7 +48,7 @@ For each visitor to our Web pages, our Web server does not recognize nor collect
   * Are referred to us through a marketing promotion
   * Participate in a marketing survey, promotion or event
 
-We use a third-party service provider called Akamai Technologies, Inc. to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our web site, and your interaction with our products and services. They may also use information about your visits to this and other web sites to target advertisements for goods and services. This anonymous information is collected through the use of pixel tags or cookies, which are industry standard technologies used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [ click here.](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party service providers to serve ads on our behalf across the Internet. We also use third-party service providers who utilize remarketing technology for advertising purposes. They may collect anonymous information about your visits to our web site, and your interaction with our products and services. They may also use information about your visits to this and other web sites to target advertisements for goods and services. This anonymous information is collected through the use of pixel tags or cookies, which are industry standard technologies used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [ click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Use of Web Site Analytics**  
 We currently contract with several online partners to help manage and optimize our Internet business and communications. We use these services to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes product codes and prices for merchandise that visitors purchase, the pages visited, etc... By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking [here](http://www.coremetrics.com/company/privacy.php).
