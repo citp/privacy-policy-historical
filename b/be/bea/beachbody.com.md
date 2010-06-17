@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachbody.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312065644id_/http%3A//beachbody.com/product/about_us/privacy_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachbody.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617124520id_/http%3A//www.beachbody.com/product/about_us/privacy_policy.do) for the most accurate reproduction.*
 
 # Beachbody Privacy Policy - Fitness, Nutrition, Diet, Weight Loss Official Web site
 
