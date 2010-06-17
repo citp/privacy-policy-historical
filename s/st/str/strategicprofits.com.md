@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the strategicprofits.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227222213id_/http%3A//www.strategicprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategicprofits.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617161903id_/http%3A//www.strategicprofits.com/privacy-policy) for the most accurate reproduction.*
 
-# Internet Marketing Privacy Policy
+# Online Business Privacy Policy
 
 *     
 
 ## Introduction
 
-We at Strategic Profits and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (”Personal Information”) you share with us.
+We at Strategic Profits and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
 
 Strategic Profits has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
 
@@ -72,5 +72,3 @@ While we cannot guarantee privacy perfection, we will address any issue to the b
 ## Your Consent
 
 By using this Web site, you consent to the terms of our Online Privacy Policy, Terms and Conditions of Use, and to Strategic Profits processing of Personal Information for the purposes given above as well as those explained where Strategic Profits collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
-
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
