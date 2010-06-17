@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118010254id_/http%3A//www.waterstones.com/waterstonesweb/navigate.do%3FpPageID%3D100000019) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618005116id_/http%3A//www.waterstones.com/waterstonesweb/navigate.do%3FpPageID%3D100000019) for the most accurate reproduction.*
 
-# Welcome to Waterstones.com
+# Fiction, Children's books, eBooks, Non-fiction books, textbooks and more at Waterstone's
 
 __
 
