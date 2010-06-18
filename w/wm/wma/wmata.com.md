@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218165735id_/http%3A//www.wmata.com/about_metro/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618125814id_/http%3A//wmata.com/about_metro/privacy.cfm) for the most accurate reproduction.*
 
 # Metro - About Metro - Privacy and Data Use Policy
 
@@ -38,7 +38,7 @@ The information collected allows us to see trends in usage: the most commonly vi
 
 Cookies are small files that can be placed on your computer by Web servers when you visit a site. These files may contain information such as ID's and passwords, personal information or preferences. During your visit, the server can access these files to help personalize pages or allow you to effect e-commerce more easily. 
 
-Metro does not set cookies from any page in the wmata.com domain that store personally identifiable information. The [Trip Planner](https://web.archive.org/rider_tools/tripplanner/tripplanner_form_solo.cfm) can store your travel to and travel from locations if you desire (and this only occurs if you elect to set cookies by checking the "Remember" checkbox). In this scenario, the only cookies saved will be your "Travel From" and "Travel To" locations and only while your browser is open. If you plan additional trips during your visit to our website, the locations will already be filled-in for your convenience. Our e-commerce and vendor registration sites set cookies with login information, but only for the convenience of customers who use these areas repeatedly. If you are concerned about privacy, you may set up your browser not to accept cookies or you can delete them from your hard drive once you leave the section.
+Metro does not set cookies from any page in the wmata.com domain that store personally identifiable information (the Trip Planner does however store your input fields and Travel From & To locations). The [Trip Planner](https://web.archive.org/rider_tools/tripplanner/tripplanner_form_solo.cfm) stores your input fields and locations as cookies, so if you plan additional trips during your visit to our website, the input fields will already be filled-in for your convenience. Our e-commerce and vendor registration sites set cookies with login information, but only for the convenience of customers who use these areas repeatedly. If you are concerned about privacy, you may set up your browser not to accept cookies or you can delete them from your hard drive once you leave that section of the website.
 
 ### Personal Information Collected
 
