@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033219id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618202215id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
 
 # Customer Service - Your Privacy Rights - TravelSmith
 
@@ -77,8 +77,8 @@ Toll Free: 1-800-950-1600
 Email: [service@travelsmith.com](mailto:service@travelsmith.com)  
 Mail: TravelSmith  
 Attn: TravelSmith Outfitters  
-60 Leveroni Court,  
-Novato, CA 94949
+773 San Marin Drive, Suite 2300  
+Novato, CA 94945
 
 
 
@@ -95,8 +95,8 @@ If you have any questions about this summary, our [Privacy Policy](https://web.a
 **Privacy Contact:**  
 Greg Garcia  
 TravelSmith  
-60 Leveroni Court,  
-Novato, CA 94949  
+773 San Marin Drive, Suite 2300  
+Novato, CA 94945  
 [privacy@travelsmith.com](mailto:privacy@travelsmith.com)
 
 © 2008 HSN, Inc. All rights reserved.
