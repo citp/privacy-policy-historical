@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faxo.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622171502id_/http%3A//www.faxo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faxo.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619001844id_/http%3A//faxo.com/faxo/Privacy) for the most accurate reproduction.*
 
 # Faxo - Privacy Policy
 
@@ -10,7 +10,7 @@ Faxo respects the privacy of its users. Its Privacy Policy applies to all produc
 
 Faxo is registered with the U.S. Department of Commerce’s safe harbor program and abides by its principles of notice, choice, onward transfer, data integrity, security, access and enforcement. 
 
-We hope you will take time to read this policy. Please contact us if you have any questions or comments [here](https://web.archive.org/about/contact) . 
+We hope you will take time to read this policy. Please contact us if you have any questions or comments [here](http://faxo.com/faxo/Contact/) . 
 
 ## Personal Data
 
@@ -43,11 +43,13 @@ Each time you visit a website, Faxo’s servers automatically record the connect
 
 Faxo will never share your personal data with any third party without your consent. Personal information will only be shared in order that: 
 
-* Your request for a product or service may be provided,
-* Faxo may provide such information as required by law,
-* Your data may be transferred and stored on different servers for storage and security,
-* Fraud, security or technical issues may be addressed,
-* As permitted by law, Faxo, its users or the general public are protected against imminent harm to rights, property, or safety.
+  * Your request for a product or service may be provided,
+  * Faxo may provide such information as required by law,
+  * Your data may be transferred and stored on different servers for storage and security,
+  * Fraud, security or technical issues may be addressed,
+  * As permitted by law, Faxo, its users or the general public are protected against imminent harm to rights, property, or safety.
+
+
 
 ## Security of Personal Data
 
@@ -63,4 +65,4 @@ This Privacy Policy will change, evolving over time. However, your rights as a F
 
 ## Policy Enforcement
 
-A regular review of Faxo’s policy compliance will be made. If you have suggestions or complaints, contact us [here](https://web.archive.org/about/contact). Complaining users will be contacted regarding concerns. In the situation where a complaint can not be resolved, appropriate regulatory authorities will be utilized. 
+A regular review of Faxo’s policy compliance will be made. If you have suggestions or complaints, contact us [here](http://faxo.com/faxo/Contact/). Complaining users will be contacted regarding concerns. In the situation where a complaint can not be resolved, appropriate regulatory authorities will be utilized. 
