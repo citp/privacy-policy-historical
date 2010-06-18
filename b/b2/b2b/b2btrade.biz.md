@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216200547id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618111315id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of B2btrade.biz - Asia B2B trade Portal for Import Export Business focus on Asia
 
@@ -49,8 +49,6 @@ B2Btrade.biz uses web beacons to access our cookies within our network of web si
   * Google's use of the DART cookie enables it to serve ads to users based on their visit to this sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-
-
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
 **Security**
@@ -74,3 +72,16 @@ B2Btrade.biz is not directed to children under the age of 13. We operate our sit
 **Questions or Suggestions**
 
 If you have questions or suggestions complete a feedback form or send an email to info@b2btrade.biz. 
+
+|    
+|   
+---  
+---  
+  
+  
+  
+* * *
+
+[About us](https://web.archive.org/aboutus.php) :: [Contact us](https://web.archive.org/?mode=feedback) :: [Terms of Use](https://web.archive.org/termsofuse.php) :: [Privacy policy](https://web.archive.org/Privacy.php) :: [Advertise with us](https://web.archive.org/?mode=banner)  
+Book Mark this site ! :: Make us your startpage :: [Tell a Partner](https://web.archive.org/tellpartner.php)  
+**Copyright © 2009 b2btrade.biz.** All rights resevered by
