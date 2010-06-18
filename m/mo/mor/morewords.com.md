@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226170938id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618114740id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
 
 # More Words - Privacy Policy
 
@@ -12,11 +12,4 @@ If you have any questions about this policy, please write to us using the [conta
 
 [New Search](https://web.archive.org/)
 
-Some random words: [eerie](https://web.archive.org/word/eerie/)   [ceanothus](https://web.archive.org/word/ceanothus/)   [ubieties](https://web.archive.org/word/ubieties/)   [orate](https://web.archive.org/word/orate/)   [elongate](https://web.archive.org/word/elongate/)   [by](https://web.archive.org/word/by/)   [nth](https://web.archive.org/word/nth/)  
-
-* * *
-
-**This is not a dictionary, it's a word game wordfinder.**   [Help and FAQ](https://web.archive.org/help/)   \-   [Examples](https://web.archive.org/examples/)   \-   [Home](https://web.archive.org/)  
-
-
-2009 Dec 26 - 17:09:38 - MoreWords.com © Copyright 2004-2009 Buttle and Tuttle Ltd - 0.852mS [Privacy Policy](https://web.archive.org/privacy/)
+Some random words: [ska](https://web.archive.org/word/ska/)   [toast](https://web.archive.org/word/toast/)   [de](https://web.archive.org/word/de/)   [ikon](https://web.archive.org/word/ikon/)   [ikat](https://web.archive.org/word/ikat/)   [nil](https://web.archive.org/word/nil/)   [treacheries](https://web.archive.org/word/treacheries/)  
