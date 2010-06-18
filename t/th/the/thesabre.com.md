@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesabre.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217130229id_/http%3A//www.thesabre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesabre.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618021525id_/http%3A//www.thesabre.com/privacy) for the most accurate reproduction.*
 
 # TheSabre.com - Privacy Policy
 
@@ -53,6 +53,10 @@ Rest assured that we neither rent nor sell your personal information to anyone a
 
 
 
+#### Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
 #### Children Under 18 Years of Age
 
 You must be 13 years and older to register to use the TheSabre.com website. As a result, TheSabre.com does not specifically collect information about children. If we learn that TheSabre.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using TheSabre.com or sending information about themselves or anyone else over the Internet. 
@@ -67,7 +71,7 @@ If you decide to visit TheSabre.com website, your visit and any possible dispute
 
 #### Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of September 29, 2008 and last updated September 29, 2008. 
+This Privacy Policy is effective as of September 29, 2008 and last updated April 30, 2010. 
 
 * * *
 
