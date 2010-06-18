@@ -1,49 +1,32 @@
-> *The following text is extracted and transformed from the ecopy.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223093257id_/http%3A//www.ecopy.com/company_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecopy.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618021815id_/http%3A//www.nuance.com/company/privacy) for the most accurate reproduction.*
 
-# eCopy, Inc. - Document Imaging Software - Privacy Policy
+# Nuance - Company - Privacy Policy
 
-This policy applies to the eCopy, Inc. Web site accessible through eCopy's home page located at www.ecopy.com. This policy does not apply to the Web sites of any subsidiary or affiliate company of eCopy or any other company that is associated with eCopy. Those Web sites, like any other Web site, may have their own privacy policies and eCopy encourages you to review the privacy policies of any of those sites that you visit. 
-
-We (eCopy) understand the importance of providing you with information concerning the collection and use of data collected from you during your visit to our Web site. Our privacy policy is set forth below. This policy may be updated from time to time and we encourage you to check this page periodically for any updates. 
-
-Definitions. Some helpful definitions of terms used in this privacy policy are:
-
-Personal information is information that can be used to uniquely identify you personally. Examples of personal information include your name, mailing address, telephone number, e-mail address, and credit card number. 
-
-Anonymous information is information that can not be used to uniquely identify you personally. Examples of anonymous information include your IP address, the type of browser software you use when visiting our site, the date and time you visit our site and what pages you viewed when visiting our site. 
-
-**Collection and Use of Anonymous Information  
-** You can visit our Web site without telling us who you are or revealing any personal information to us. During your visit, we may collect certain anonymous information. For example, we may track the number of visitors to our Web site by logging Internet Protocol (IP) addresses. We may keep track of what pages are visited on our Web site so we can monitor the performance and usage of our Web site. Also, we may pay attention to what visitors do and do not use on our Web site in order to assess the effectiveness of our Web site and modify our content or design appropriately. Anonymous information may be used individually or aggregated with other anonymous information. 
-
-**Collection and Use of Personal Information  
-** We collect personal information about you only when you elect to provide such information to us, such as when you register to receive products or services, request additional information from us, enter a contest or promotion, or submit an e-mail to us. The information collected might include your name, company name, e-mail address, mailing address, phone numbers, etc. Any personal information collected will be used solely for the purpose(s) for which it was collected (for example, to send you additional information about our products or services that you requested) unless you indicate otherwise. The personal information you provide to us may be shared with other companies with which we have relationships in order to complete your request or provide you with the products or services which you have requested. We may also enlist a third party to collect, store, process and manage on our behalf any personal information you elect to provide to us. When we use other companies to perform services on our behalf, we will require that such companies protect your personal information consistent with this policy. 
-
-In addition, from time to time, we may offer you the opportunity to receive information, products or services directly from a third party. If you elect to receive such items, we may share with such third party any of your personal information that was collected when you elected to receive such items. 
-
-We may process or store your personal information in our databases located in the United States or any other country in which we do business. 
-
-We may disclose personal information when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating the terms and conditions of our Web site or may be causing injury to or interference with (either intentionally or unintentionally) our rights or property or anyone else that is being harmed by such activities. We may disclose personal information when we believe in good faith that the law requires it and for other governmental administrative, regulatory, or law enforcement purposes. 
-
-**Use of Cookies  
-** A cookie is a small amount of data that is sent to your browser software from a Web server and is typically stored by your browser on your computer's hard drive. 
-
-We may insert cookies on your computer and access those cookies. These cookies may be used to help you navigate through our Web site, to provide you with customized and personalized features, and to assist us in collecting anonymous information concerning usage of our Web site. 
-
-Additionally, we may allow other companies to present advertisements on some pages on our Web site, and we may allow those companies to set and access their own cookies on your computer in connection with such advertising. Those other companies' use of their cookies is subject to their own privacy policies, not ours. 
-
-Our Web site may contain links to third party Web sites. Our privacy policy does not apply with respect to those third party Web sites. We encourage you to review the privacy policies of any of those sites that you visit. 
-
-**Questions**  
-If you have any questions about our privacy policy or the practices of our Web site [contact](http://ecopy.com/contact.htm):
-
-eCopy, Inc.   
-One Oracle Drive,  
-Nashua, NH 03062, USA   
-Attention: Marketing Department
-
-Last Updated: July 1, 2006  
+For country-specific privacy details, select a location below:  
 
 
-[Back to Top](https://web.archive.org/web/20091223093257id_/http%3A//www.ecopy.com/company_privacy_policy.asp#top)
+Nuance Communications, Inc. ("Nuance") is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our site and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below.
 
-Back to Top
+## Use of Personal Information
+
+Nuance Communications, Inc. abided by the Privacy Principles of the Safe Harbor Program as administered by the USA Department of Commerce. Details of these principles may be found at: [www.export.gov/SafeHarbor](http://www.export.gov/SafeHarbor).
+
+Any information you submit through Nuance's web sites will be held in the strictest confidence. In no way will your personal information ever be used without your consent. To ensure this, all forms on our web sites that send information to a database that may be used in the future, e.g. mailing lists, registration, etc., have check boxes where you specify whether or not you would like to receive information from us in the future. Forms used just to send email, post messages, etc., do not include the option, but will never be used to send information. Be assured that we do not sell our name and address lists. If you choose to receive information from us, each message will also include instructions on how to "unsubscribe" from future mailings should you wish to cancel.
+
+The only information we automatically collect is that related to the use of our web site. This information is anonymous and is gathered through our servers' log files. These log files record generic information, such as the number of visits our web site receives, the types of browsers used and the number of files downloaded, but never personal information. This log file information allows us to create better content aimed at our viewer's preferences.
+
+Nuance does not collect information that personally identifies individuals except when individuals provide such specific information on a voluntary basis. There may be occasions where specific personal information is requested before an individual can enter certain sections of Nuance's site or for participation in a certain program. For example, registration may be required to participate in an online forum or contest. This kind of registration helps us to ensure that content standards are rigorously upheld or that contact can be made with prize winners. In all such cases, Nuance will collect only information that is voluntarily provided by the user and undertakes that such information will be kept strictly confidential. Any such individual information provided to Nuance will not be sold or made available to a third party. Nuance does reserve the right, however, to perform statistical analyses from the information you provide so as to improve our products or to gather marketing information. Only aggregated data from these analyses, not individual data, will be used for this purpose.
+
+## Use of Data Collection
+
+All products and all studies, reports, analyses and other data, information or materials created in whole or part using Data shall be and remain the sole property of Nuance. None of the Data will be returned to you. As its proprietary information, Nuance intends to keep the Data confidential. Furthermore, Nuance intends to use the Data for the purpose of developing and enhancing the Software, future versions of the Software and/or related or similar software ("the Purpose"). The voluntary policies that Nuance intends to follow to maintain the confidentiality of the Data include the following: (a) sharing the Data only with employees, agents, consultants, or officers of Nuance with a need to know to carry out the Purpose ("Authorized Persons"), and (b) requiring such Authorized Persons to enter into written confidentiality agreements with Nuance when, in Nuance's sole judgment, such written confidentiality agreements are necessary to safeguard the confidentiality of the Data. PLEASE NOTE, HOWEVER, that Nuance's handling or treatment of the Data in accordance with this Section 1 is entirely voluntary and, therefore, NUANCE WILL HAVE NO LIABILITY TO YOU OR ANY OTHER PARTY FOR FAILURE TO KEEP THE DATA CONFIDENTIAL OR TO OTHERWISE HANDLE OR TREAT THE DATA IN ANY MANNER. 
+
+## Use of Cookies
+
+Some of our pages use a feature of your browser called a "cookie." Cookies, by themselves, are not able to extract any personal information from you. This cookie automatically identifies your computer - but not you - to our servers when you visit our site. Unless you specifically tell us, Nuance will never know who you are, even though we may assign your computer a cookie. Also, Nuance's web sites can only read cookies created by Nuance's web sites.
+
+Cookies allow us to personalize our site for you and to provide you with information that fits your needs and desires. For instance, once you register your product online, a cookie is written to your computer so that you will not need to type information in the future to obtain support.
+
+## Contact us
+
+Nuance knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to contact us at [privacy@nuance.com](mailto:privacy@nuance.com). Because technologies on the Internet change so quickly, Nuance reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Nuance's [Legal notices](https://web.archive.org/company/legal/) Statement.
