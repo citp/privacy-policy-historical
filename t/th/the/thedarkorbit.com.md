@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedarkorbit.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130202231id_/http%3A//www.thedarkorbit.com/index.es%3Faction%3Dinfo%26subAction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedarkorbit.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618205329id_/http%3A//www.thedarkorbit.com/index.es%3Faction%3Dinfo%26subAction%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
