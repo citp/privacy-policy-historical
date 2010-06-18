@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219021452id_/http%3A//www.ungerboeck.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619012259id_/http%3A//ungerboeck.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Terms of Use & Privacy policy
-
-### Terms of Use & Privacy policy
 
 **Effective Date: November 11, 2009**   
 
