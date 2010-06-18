@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the openfilm.com privacy policy that was archived on 2009-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218181255id_/http%3A//www.openfilm.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the openfilm.com privacy policy that was archived on 2010-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619000230id_/http%3A//www.openfilm.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Openfilm » Help &amp; Info » Privacy Policy</title>
@@ -10,81 +10,110 @@
     <base href="http://www.openfilm.com/">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="search" type="application/opensearchdescription+xml" title="Openfilm.com: Search Videos" href="http://www.openfilm.com/openfilm.com_video_search.xml">
-    <link rel="stylesheet" href="/design/css/main_v21.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/design/css/main_v136.css" type="text/css" media="all">
     <link rel="stylesheet" href="/design/css/corporate_all.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/design/css/inner_pages_categories_v2.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/design/css/inner_pages_categories_v101.css" type="text/css" media="all">
     <script type="text/javascript">
 <!--
-				var i18n = new Array();
-				i18n['m0008'] = 'Log In'; 
-	 i18n['m0016'] = 'Search Videos'; 
-	 i18n['m0017'] = 'Search Channels'; 
-	 i18n['m1470'] = 'Search People'; 
-	 i18n['m1389'] = 'Video Added to Quicklist'; 
-	 i18n['m1419'] = 'You should specify search criteria.'; 
-	 i18n['m1420'] = 'Thank you for your feedback! We really appreciate it.'; 
-	 i18n['m0814'] = 'OK'; 
-	 i18n['m0724'] = 'Do not have an account?'; 
-	 i18n['m0064'] = 'Join Now!'; 
-	 -->
+                var i18n = new Array();
+                i18n['m0008'] = 'Log In';
+    i18n['m0016'] = 'Search Videos';
+    i18n['m0017'] = 'Search Channels';
+    i18n['m1470'] = 'Search People';
+    i18n['m1389'] = 'Video Added to Quicklist';
+    i18n['m1419'] = 'You should specify search criteria.';
+    i18n['m1420'] = 'Thank you for your feedback! We really appreciate it.';
+    i18n['m0814'] = 'OK';
+    i18n['m0724'] = 'Do not have an account?';
+    i18n['m0064'] = 'Join Now!';
+    -->
     </script>
     <script type="text/javascript">
 <!--
-				var ini = new Array();
-				ini['ONLINE_TIMEOUT'] = 600;
-	 -->
+                var ini = new Array();
+                ini['ONLINE_TIMEOUT'] = 600;
+    -->
     </script>
-    <script type="text/javascript" src="/design/js/jquery/jquery_v132.js"></script>
-    <script type="text/javascript" src="/design/js/fn_v11.js"></script>
-    <script type="text/javascript" src="/design/js/swfobject_v1.js"></script>
-    <script type="text/javascript" src="/design/js/ads_v1.js"></script>
+    <script type="text/javascript" src="/design/js/jquery/jquery_v100.js"></script>
+    <script type="text/javascript" src="/design/js/fn_v105.js"></script>
+    <script type="text/javascript" src="/design/js/swfobject_v100.js"></script>
+    <script type="text/javascript" src="/design/js/ads_v100.js"></script>
   </head>
   <body>
+    <script type="text/javascript">
+            $(document).ready(function(){
+                $("div.amex_left, div.amex_right").click(function(){
+                    $("div.amex").fadeIn("slow");
+                    $("div.outer_mes_amex").addClass('visible');
+                });
+
+                $("div.amex .close").click(function(){
+                    $("div.amex").fadeOut("slow");
+                    $("div.outer_mes_amex.visible").removeClass('visible');
+                    var player = swfobject.getObjectById("video_player_for_banner_player");
+                    if (player) {
+                        player.sendEvent('stop');
+                    }
+                });
+            });
+        </script>
     <div id="header" class="">
       <div id="cinema" class="hidden">
         <div class="outer_mes cinema_mode cinema_mode_top"></div>
         <div class="outer_mes cinema_mode cinema_mode_bottom"></div>
-        <div class="outer_mes cinema_mode cinema_mode_left"></div>
       </div>
       <div class="fixed relative">
+        <div class="amex_left">
+          <script type="text/javascript">
+                        $(document).ready(function(){
+                            $.get('/link-tracker/?tid=amex_skin&amp;lnk=');
+                        });
+                    </script>
+        </div>
+        <div class="amex_right"></div>
+        <div class="amex" style="display:none;">
+          <a href="javascript:void(0);" class="close"></a>
+          <div class="amex_player">
+            <script type="text/javascript">
+                                    adPlayer("video_player_for_banner", "http://www.openfilm.com/player/video/?%26video_id=24356%26lang=us_US%26sort_id=1", "572", "322", "true");
+                                </script>
+            <div id="emdeb_player_wrapper">
+              <div id="video_player_for_banner" style="margin-left:0px">
+                <div id="video_player_for_banner_del">
+                  <div>Hello, you either have JavaScript turned off or an old version of Adobe's Flash Player.<a href="http://www.macromedia.com/go/getflashplayer/">Get the latest Flash player</a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a class="amex_small_banner" href="/link-tracker/?tid=amex_skin_click&amp;lnk=http://ad.doubleclick.net/clk;225288219;48891938;c"></a>
+        </div>
+        <div class="outer_mes outer_mes_amex hidden"></div>
         <a href="http://www.openfilm.com/">
           <span id="top_logo"></span>
         </a>
-        <ul class="main_menu_upload">
-          <li>
-            <a class="submit" href="/dashboard/submit/"></a>
-          </li>
-          <li id="dashboard_main_menu">
-            <a id="mm1" class="dashboard" href="/dashboard/" onmouseover="analyzeDropDownStatus('dashboard_categories_filter', 2); setCurrentItem('dashboard_main_menu');" onmouseout="startHide('dashboard_categories_filter', 50); setCurrentItem('dashboard_main_menu'); unsetCurrentItem('dashboard_main_menu', 0);"></a>
-            <div id="dashboard_categories_filter" class="main_menu_filter hidden" onmouseout="startHide('dashboard_categories_filter', 50);unsetCurrentItem('dashboard_main_menu',0);" onmouseover="cancelHide('dashboard_categories_filter');setCurrentItem('dashboard_main_menu');">
-              <ul class="first">
-                <li>
-                  <a href="/dashboard/stats_by_video/">Earnings</a>
-                </li>
-                <li>
-                  <a href="/dashboard/inbox/">My Messages</a>
-                </li>
-                <li class="last">
-                  <a href="/dashboard/profile/">My Profile</a>
-                </li>
-              </ul>
-              <ul>
-                <li>
-                  <a href="/dashboard/published/">My Videos</a>
-                </li>
-                <li>
-                  <a href="/dashboard/favorites/">My Playlists</a>
-                </li>
-                <li>
-                  <a href="/dashboard/subscriptions/">My Contacts</a>
-                </li>
-              </ul>
-            </div>
-          </li>
-        </ul>
+        <a class="header_pro" href="/join/pro/"></a>
+        <style>
+
+                    #header ul#main_menu li  a.white
+                    {
+                    color:white
+                    }
+                    #header ul#main_menu li.white2  a
+                    {
+                    background-position: left bottom;
+                    border: 2px solid #d8dbdd;
+                    border-top: 0;
+                    border-bottom: 0;
+                    color: #fff;
+                    }
+                    #header.header_black ul#main_menu li.white2  a
+                    {
+                    border-color: #000;
+                    }
+                </style>
         <ul id="main_menu">
           <li id="video_categories_main_menu">
-            <a class="videos" href="/videos/" onmouseover="analyzeDropDownStatus('video_categories_filter', 2);setCurrentItem('video_categories_main_menu');" onmouseout="startHide('video_categories_filter', 50);unsetCurrentItem('video_categories_main_menu',0);">Videos</a>
+            <a class="videos" href="/videos/" onmouseover="analyzeDropDownStatus('video_categories_filter', 2);" onmouseout="startHide('video_categories_filter', 50);unsetCurrentItem('video_categories_main_menu',0);">Films</a>
             <div id="video_categories_filter" class="main_menu_filter hidden" onmouseout="startHide('video_categories_filter', 50);unsetCurrentItem('video_categories_main_menu',0);" onmouseover="cancelHide('video_categories_filter');setCurrentItem('video_categories_main_menu');">
               <ul class="first">
                 <li>
@@ -116,24 +145,24 @@
               </ul>
               <ul>
                 <li>
+                  <a href="videos/?s=2&amp;c=47">Film Schools</a>
+                </li>
+                <li>
                   <a href="videos/?s=2&amp;c=16">Horror</a>
                 </li>
                 <li>
                   <a href="videos/?s=2&amp;c=19">How To</a>
                 </li>
-                <li>
-                  <a href="videos/?s=2&amp;c=11">International</a>
-                </li>
                 <li class="last">
-                  <a href="videos/?s=2&amp;c=10">Kids &amp; Family</a>
+                  <a href="videos/?s=2&amp;c=11">International</a>
                 </li>
               </ul>
               <ul>
                 <li>
-                  <a href="videos/?s=2&amp;c=7">Music</a>
+                  <a href="videos/?s=2&amp;c=10">Kids &amp; Family</a>
                 </li>
                 <li>
-                  <a href="videos/?s=2&amp;c=12">Openfilm Originals</a>
+                  <a href="videos/?s=2&amp;c=7">Music</a>
                 </li>
                 <li>
                   <a href="videos/?s=2&amp;c=9">Other</a>
@@ -158,115 +187,101 @@
               </ul>
             </div>
           </li>
-          <li id="channel_categories_main_menu">
-            <a class="channels" href="/channels/" onmouseover="analyzeDropDownStatus('channel_categories_filter', 2);setCurrentItem('channel_categories_main_menu');" onmouseout="startHide('channel_categories_filter', 50);setCurrentItem('channel_categories_main_menu');unsetCurrentItem('channel_categories_main_menu',0);">Channels</a>
-            <div id="channel_categories_filter" class="main_menu_filter hidden" onmouseout="startHide('channel_categories_filter', 50);unsetCurrentItem('channel_categories_main_menu',0);" onmouseover="cancelHide('channel_categories_filter');setCurrentItem('channel_categories_main_menu');">
+          <li id="music_categories_main_menu">
+            <a class="music" href="/music/" onmouseover="analyzeDropDownStatus('music_categories_filter', 2);" onmouseout="startHide('music_categories_filter', 50);unsetCurrentItem('music_categories_main_menu',0);">Music</a>
+            <div id="music_categories_filter" class="main_menu_filter hidden" onmouseout="startHide('music_categories_filter', 50);unsetCurrentItem('music_categories_main_menu',0);" onmouseover="cancelHide('music_categories_filter');setCurrentItem('music_categories_main_menu');">
               <ul class="first">
                 <li>
-                  <a href="channels/?&amp;c=0&amp;f=3">All</a>
+                  <a href="music/?s=2&amp;c=48">All</a>
                 </li>
                 <li>
-                  <a href="channels/?&amp;c=1">Action</a>
+                  <a href="music/?s=2&amp;c=49">Classical</a>
                 </li>
                 <li>
-                  <a href="channels/?&amp;c=2">Comedy</a>
+                  <a href="music/?s=2&amp;c=50">Country</a>
                 </li>
                 <li class="last">
-                  <a href="channels/?&amp;c=3">Documentary</a>
+                  <a href="music/?s=2&amp;c=51">Electronic</a>
                 </li>
               </ul>
               <ul>
                 <li>
-                  <a href="channels/?&amp;c=4">Drama</a>
+                  <a href="music/?s=2&amp;c=52">Indie &amp; Alternatives</a>
                 </li>
                 <li>
-                  <a href="channels/?&amp;c=5">Educational</a>
+                  <a href="music/?s=2&amp;c=53">Jazz</a>
                 </li>
                 <li>
-                  <a href="channels/?&amp;c=6">Experimental</a>
+                  <a href="music/?s=2&amp;c=59">Other</a>
                 </li>
                 <li class="last">
-                  <a href="channels/?&amp;c=7">Film Festivals</a>
+                  <a href="music/?s=2&amp;c=54">Pop</a>
                 </li>
               </ul>
               <ul>
                 <li>
-                  <a href="channels/?&amp;c=8">Film Schools</a>
+                  <a href="music/?s=2&amp;c=56">R&amp;B and Soul</a>
                 </li>
                 <li>
-                  <a href="channels/?&amp;c=9">Horror</a>
+                  <a href="music/?s=2&amp;c=55">Rap &amp; Hip Hop</a>
                 </li>
                 <li>
-                  <a href="channels/?&amp;c=20">How To</a>
+                  <a href="music/?s=2&amp;c=57">Rock</a>
                 </li>
                 <li class="last">
-                  <a href="channels/?&amp;c=10">International</a>
-                </li>
-              </ul>
-              <ul>
-                <li>
-                  <a href="channels/?&amp;c=11">Kids &amp; Family</a>
-                </li>
-                <li>
-                  <a href="channels/?&amp;c=12">Music</a>
-                </li>
-                <li>
-                  <a href="channels/?&amp;c=13">Openfilm Originals</a>
-                </li>
-                <li class="last">
-                  <a href="channels/?&amp;c=15">Sci-Fi</a>
-                </li>
-              </ul>
-              <ul>
-                <li>
-                  <a href="channels/?&amp;c=19">Sports</a>
-                </li>
-                <li>
-                  <a href="channels/?&amp;c=16">Trailers &amp; Reels</a>
-                </li>
-                <li>
-                  <a href="channels/?&amp;c=17">Video Art</a>
-                </li>
-                <li class="last">
-                  <a href="channels/?&amp;c=18">Web Series</a>
+                  <a href="music/?s=2&amp;c=58">World Music</a>
                 </li>
               </ul>
             </div>
           </li>
           <li id="community_main_menu">
-            <a class="people" href="/community/" onmouseover="analyzeDropDownStatus('community_categories_filter', 2); setCurrentItem('community_main_menu');" onmouseout="if (false) return 0; startHide('community_categories_filter', 50); setCurrentItem('community_main_menu'); unsetCurrentItem('community_main_menu', 0);">Members</a>
-            <div id="community_categories_filter" class="main_menu_filter hidden" onmouseout="startHide('community_categories_filter', 50);unsetCurrentItem('community_main_menu',0);" onmouseover="cancelHide('community_categories_filter');setCurrentItem('community_main_menu');">
+            <a class="people" href="/community/" onmouseover="analyzeDropDownStatus('community_categories_filter', 2);" onmouseout="if (false) return 0; startHide('community_categories_filter', 50); setCurrentItem('community_main_menu'); unsetCurrentItem('community_main_menu', 0);">Community</a>
+            <div id="community_categories_filter" class="main_menu_filter hidden" onmouseout="startHide('community_categories_filter', 50);unsetCurrentItem('community_main_menu',0);" onmouseover="cancelHide('community_categories_filter');">
               <ul class="first">
-                <li class="last">
+                <li class="last" onmouseout="unsetCurrentItem('community_main_menu',0);" onmouseover="setCurrentItem('community_main_menu');">
+                  <a href="/channels/">Channels</a>
+                </li>
+                <li class="last" onmouseout="unsetCurrentItem('community_main_menu',0);" onmouseover="setCurrentItem('community_main_menu');">
+                  <a href="/corporate/advisory-board/">Advisory Board</a>
+                </li>
+                <li class="last" onmouseout="unsetCurrentItem('community_main_menu',0);" onmouseover="setCurrentItem('community_main_menu');">
+                  <a href="/chats/">Webcam Chat Schedule</a>
+                </li>
+                <li class="last" onmouseout="unsetCurrentItem('community_main_menu',0);" onmouseover="setCurrentItem('community_main_menu');">
                   <a href="/community/">Members</a>
                 </li>
-                <li class="last">
+                <li class="last" onmouseout="unsetCurrentItem('community_main_menu',0);" onmouseover="setCurrentItem('community_main_menu');">
                   <a href="/reviews/">Reviews</a>
                 </li>
-                <li class="last">
+                <li class="last" onmouseout="unsetCurrentItem('community_main_menu',0);" onmouseover="setCurrentItem('community_main_menu');">
                   <a href="/blogs/">Blogs</a>
                 </li>
               </ul>
             </div>
           </li>
           <li>
-            <a class="filmfest" href="/filmfestivals/">Film Festivals</a>
+            <a class="filmfest" id="filmfest_id" onmouseover="analyzeDropDownStatus('filmfest_id', 2);" onmouseout="$(this).parents('li').removeClass('current');unsetCurrentItem('distribution_main_menu',0);" href="/filmfestivals/">Film Festivals</a>
+          </li>
+          <li id="distribution_main_menu">
+            <a class="distrib" id="distrib_id" href="/distribution/" onmouseover="analyzeDropDownStatus('distrib_id', 2);" onmouseout="setCurrentItem('distribution_main_menu'); unsetCurrentItem('distribution_main_menu', 0);">Distribution</a>
           </li>
           <li>
-            <a class="awards" href="/contests/">Awards</a>
+            <a class="awards" id="awards_id" onmouseover="analyzeDropDownStatus('awards_id', 2);" onmouseout="$(this).parents('li').removeClass('current'); unsetCurrentItem('distribution_main_menu',0);" href="/contests/">Contest</a>
           </li>
         </ul>
         <div id="search_block">
           <form id="index_search" method="get" action="videos/" onsubmit="return checkSearchForm();">
             <div>
               <div class="search_tag_container">
-                <span class="search_cl"></span>
                 <div id="search_path_container">
-                  <a id="search_path" class="search_list_show" onmouseout="startHide('search_path_items', 50)" onmouseover="analyzeDropDownStatus('search_path_items',1);"><span class="lang_select"></span>Videos</a>
+                  <a id="search_path" class="search_list_show" onmouseout="startHide('search_path_items', 50)" onmouseover="analyzeDropDownStatus('search_path_items',1);"><span class="lang_select"></span>Films</a>
                   <div id="search_path_items" class="hidden">
                     <ul onmouseout="startHide('search_path_items', 50);" onmouseover="cancelHide('search_path_items')">
                       <li onclick="searchSelectItem(this, 'videos/');">
-                        <a href="javascript:void(0);">Videos</a>
+                        <a href="javascript:void(0);">Films</a>
+                      </li>
+                      <li onclick="searchSelectItem(this, 'music/');">
+                        <a href="javascript:void(0);">Music</a>
                       </li>
                       <li onclick="searchSelectItem(this, 'channels/');">
                         <a href="javascript:void(0);">Channels</a>
@@ -294,56 +309,17 @@
           </form>
         </div>
         <ul id="toolbar">
-          <li class="first">New to Openfilm? <a href="/join/">Join Now</a></li>
+          <li class="first"> <a href="/join/">Join Now</a></li>
           <li>
             <a href="/login/">Log In</a>
           </li>
-          <li>
-            <a href="javascript:void(0);" onclick="toggleEll('feedback'); getElementById('fb_user_name').focus(); if (!/hidden/.test(getElementById('language_select').className)) { toggleEll('language_select'); }">Feedback</a>
-          </li>
         </ul>
-        <div id="language">
-          <a href="javascript:void(0);" title="Click here to change your language" class="lang_en_us" onmouseout="startHide('language_select', 50)" onmouseover="analyzeDropDownStatus('language_select',2);">
-            <span class="lang_l"></span>
-            <span class="lang_r"></span>
-            <span class="lang_select"></span>
-          </a>
-        </div>
-        <div id="language_select" class="hidden" onmouseout="startHide('language_select', 50)" onmouseover="cancelHide('language_select')">
-          <ul>
-            <li>
-              <a href="/setlang/?lang=de_de">
-                <span>Deutsch</span>
-              </a>
-            </li>
-            <li class="current">
-              <a href="/setlang/?lang=en_us">
-                <span>English</span>
-              </a>
-            </li>
-            <li>
-              <a href="/setlang/?lang=es_es">
-                <span>Español</span>
-              </a>
-            </li>
-            <li>
-              <a href="/setlang/?lang=fr_fr">
-                <span>Français</span>
-              </a>
-            </li>
-            <li>
-              <a href="/setlang/?lang=it_it">
-                <span>Italiano</span>
-              </a>
-            </li>
-          </ul>
-        </div>
         <script type="text/javascript">
-    function resetFeedbackForm()
-    {
-        $('#feedback_form').find('form').get(0).reset();
-    }
-</script>
+            function resetFeedbackForm()
+            {
+            $('#feedback_form').find('form').get(0).reset();
+            }
+        </script>
         <div id="feedback" class="hidden">
           <div class="outer_mes"></div>
           <div id="feedback_form" class="inner_mes">
@@ -414,6 +390,12 @@
         <a href="info/copyright/" class="copyright">
           <span>Copyright Notices</span>
         </a>
+        <a href="info/premium-services-chart/" class="premium-services-chart">
+          <span>Premium Chart</span>
+        </a>
+        <a href="info/terms-of-sale/" class="terms-of-sale">
+          <span>Terms of Sale</span>
+        </a>
       </div>
     </div>
     <div id="content" class="corporate">
@@ -421,19 +403,26 @@
         <div class="filters_block">
           <div class="left_block">
             <div class="relative">
-              <div class="corner lt"></div>
-              <div class="corner rt"></div>
               <div class="left_block_header">
                 <span class="png open"></span>
                 <span class="header">Openfilm</span>
                 <p class="clearer"></p>
               </div>
             </div>
-            <div class="center_bar_bottom_grid">
+            <div>
               <div>
                 <ul>
                   <li>
                     <a href="corporate/about/">About Us</a>
+                  </li>
+                  <li>
+                    <a href="corporate/note-from-chairman/">Note from Chairman</a>
+                  </li>
+                  <li>
+                    <a href="corporate/advisory-board/">Advisory Board</a>
+                  </li>
+                  <li>
+                    <a href="corporate/management/">Management</a>
                   </li>
                   <li>
                     <a href="corporate/press/">Press</a>
@@ -454,17 +443,15 @@
               </div>
             </div>
           </div>
-          <div class="left_block">
+          <div class="left_block dark_blue">
             <div class="relative">
-              <div class="corner lt"></div>
-              <div class="corner rt"></div>
               <div class="left_block_header center_bar_top_grid_dark dark">
                 <span class="png help"></span>
                 <span class="header">Help &amp; Info</span>
                 <p class="clearer"></p>
               </div>
             </div>
-            <div class="center_bar_bottom_grid">
+            <div>
               <div>
                 <ul>
                   <li>
@@ -485,21 +472,33 @@
                   <li>
                     <a href="info/copyright/">Copyright Notices</a>
                   </li>
+                  <li>
+                    <a href="info/premium-services-chart/">Premium Chart</a>
+                  </li>
+                  <li>
+                    <a href="info/terms-of-sale/">Terms of Sale</a>
+                  </li>
                 </ul>
               </div>
             </div>
           </div>
-          <div class="left_block">
+          <a href="/join/">
+            <div class="button_style">
+              <div class="button_bgleft"></div>
+              <div class="button_bg">Join Now</div>
+              <div class="button_bgright"></div>
+            </div>
+          </a>
+          <div class="clearer"></div>
+          <div class="left_block light_blue">
             <div class="relative">
-              <div class="corner lt"></div>
-              <div class="corner rt"></div>
               <div class="left_block_header">
                 <span class="png quick_tour"></span>
                 <span class="header">Quick Tour</span>
                 <p class="clearer"></p>
               </div>
             </div>
-            <div class="center_bar_bottom_grid center_bar_paddind_t">
+            <div>
               <div>
                 <ul>
                   <li>
@@ -515,13 +514,16 @@
                     <a href="quicktour/publishing/">Publishing</a>
                   </li>
                   <li>
-                    <a href="quicktour/monetization/">Monetization</a>
+                    <a href="quicktour/monetization/">Earn Revenue</a>
                   </li>
                   <li>
                     <a href="quicktour/promotion/">Promotion</a>
                   </li>
                   <li>
                     <a href="quicktour/social_networking/">Social Networking</a>
+                  </li>
+                  <li>
+                    <a href="quicktour/insider-access/">Insider Access</a>
                   </li>
                   <li>
                     <a href="quicktour/dashboard/">Dashboard</a>
@@ -534,18 +536,14 @@
             </div>
           </div>
           <div class="clearer"></div>
-          <a class="join button" href="/join/">Join Now</a>
-          <div class="clearer"></div>
         </div>
       </div>
       <div id="about">
         <div id="corporate_right">
-          <div class="center_bar_top_grid">
-            <div class="corner lt"></div>
-            <div class="corner rt"></div>
-            <div class="filter_name">Privacy Policy</div>
-          </div>
           <div class="center_bar_bottom_grid">
+            <div class="filter_name filter_height">
+              <div class="filter_text">Privacy Policy</div>
+            </div>
             <div id="corporate_content">
               <p>The Openfilm Privacy Policy describes how Openfilm treats personal information when you use Openfilm services, including information provided when you use the Openfilm website. Openfilm may modify or revise its privacy policies from time to time, and therefore advises you to check this site for information regarding revisions to our Privacy Policy.</p>
               <h2>Personal Information</h2>
@@ -553,7 +551,7 @@
                 <li><b>Non-Account Activity.</b> You can watch videos on Openfilm or contact us about a particular video on Openfilm without having an Openfilm Account.</li>
                 <li><b>Account-Related Activity.</b> Certain other activities on Openfilm, such as uploading videos or posting comments, require you to have an Openfilm account. We ask for some personal information when you create an Openfilm account, including your email address and a password, which is used to protect your account from unauthorized access. An Openfilm account allows you to access some of our services that require registration.</li>
                 <li><b>Usage Information.</b> We may record information about your usage, such as when you use Openfilm channels, groups, and favorites you subscribe to, the contacts you communicate with, the videos you watch, and the frequency and size of data transfers, as well as information you display or click on in Openfilm. If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients.</li>
-                <li><b>Content Uploaded to Site.</b> Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.</li>
+                <li><b>Content Uploaded to Site.</b> Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and webcam chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.</li>
               </ul>
               <h2>Uses</h2>
               <ul>
@@ -593,233 +591,269 @@
     <div id="footer">
       <div id="fot_line"></div>
       <div class="fixed">
-        <div class="feedback_footer">Please tell us what you think about Openfilm - <a onclick="toggleEll('feedback');getElementById('fb_user_name').focus();" href="javascript:void(0);">Send us your feedback</a></div>
+        <div class="feedback_footer">
+                    Please tell us what you think about Openfilm - <a href="javascript:void(0);" onclick="toggleEll('feedback');getElementById('fb_user_name').focus();">Send us your feedback</a>.
+
+                </div>
+        <div class="language_block">
+          <div id="language">
+            <span>Language:</span>
+            <a href="javascript:void(0);" title="Click here to change your language" class="lang_en_us" onmouseout="startHide('language_select', 50)" onmouseover="analyzeDropDownStatus('language_select',2);">English<span class="lang_select"></span></a>
+          </div>
+          <div id="language_select" class="hidden" onmouseout="startHide('language_select', 50)" onmouseover="cancelHide('language_select')">
+            <ul>
+              <li>
+                <a href="/setlang/?lang=de_de">
+                  <span>Deutsch</span>
+                </a>
+              </li>
+              <li class="current">
+                <a href="/setlang/?lang=en_us">
+                  <span>English</span>
+                </a>
+              </li>
+              <li>
+                <a href="/setlang/?lang=es_es">
+                  <span>Español</span>
+                </a>
+              </li>
+              <li>
+                <a href="/setlang/?lang=fr_fr">
+                  <span>Français</span>
+                </a>
+              </li>
+              <li>
+                <a href="/setlang/?lang=it_it">
+                  <span>Italiano</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
         <div id="bot_img">
           <a href="">
             <img src="/design/images/0.gif" class="openfilm_logo" alt="Openfilm.com">
           </a>
-          <p>© 2009 Openfilm, LLC</p>
+          <p>© 2010 Openfilm, LLC</p>
           <p id="timer" style="height: 0px; overflow:hidden;"></p>
-          <script type="text/javascript">
-<!--
-				var timer = 0; setInterval('t()', 1000);
-				function t() 
-				{
-					document.getElementById('timer').innerHTML = "© " + (2009 + timer++).toString() + " Openfilm, LLC";
-				}
-			-->
-          </script>
         </div>
-        <div class="links">
-          <ul>
-            <li>
-              <h5>
-                <a href="/dashboard/">Dashboard</a>
-              </h5>
-            </li>
-            <li>
-              <h6>
-                <a href="/dashboard/stats_by_video/">Earnings</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/dashboard/inbox/">My Messages</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/dashboard/profile/">My Profile</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/dashboard/published/">My Videos</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/dashboard/favorites/">My Playlists</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/dashboard/subscriptions/">My Contacts</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/dashboard/email_options/">My Account</a>
-              </h6>
-            </li>
-          </ul>
-        </div>
-        <div class="links">
-          <ul>
-            <li>
-              <h5>
-                <a href="/info/">Help &amp; Info</a>
-              </h5>
-            </li>
-            <li>
-              <h6>
-                <a href="/info/faq/">FAQ</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/info/sitemap/">Site Map</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/info/terms/">Terms of Use</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/info/agreement/">Member Agreement</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/info/privacy/">Privacy Policy</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/info/copyright/">Copyright Notices</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/dashboard/upload_help/">Upload Help</a>
-              </h6>
-            </li>
-          </ul>
-        </div>
-        <div class="links">
-          <ul>
-            <li>
-              <h5>
-                <a href="/quicktour/">Quick Tour</a>
-              </h5>
-            </li>
-            <li>
-              <h6>
-                <a href="/quicktour/content/">Content</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/quicktour/video_player/">Video Player</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/quicktour/publishing/">Publishing</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/quicktour/monetization/">Monetization</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/quicktour/promotion/">Promotion</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/quicktour/social_networking/">Social Networking</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/quicktour/dashboard/">Dashboard</a>
-              </h6>
-            </li>
-          </ul>
-        </div>
-        <div class="links">
-          <ul>
-            <li>
-              <h5>
-                <a href="/corporate/">Openfilm</a>
-              </h5>
-            </li>
-            <li>
-              <h6>
-                <a href="/corporate/about/">About Us</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/corporate/press/">Press</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/corporate/contact/">Contact</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/corporate/advertise/">Advertise</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/blogs/">Blogs</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a href="/corporate/jobs/">Jobs</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a class="left" href="/rss/feeds/">RSS</a>
-                <a class="add_rss" href="/rss/feeds/"></a>
-              </h6>
-            </li>
-          </ul>
-        </div>
-        <div class="links">
-          <ul>
-            <li>
-              <h5>
-                <a target="_blank" href="/corporate/">Our Friends</a>
-              </h5>
-            </li>
-            <li>
-              <h6>
-                <a target="_blank" href="http://www.filmfestivals.com/">FilmFestivals.com</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a target="_blank" href="http://www.reelzchannel.com/">Reelzchannel</a>
-              </h6>
-            </li>
-            <li>
-              <h6>
-                <a target="_blank" href="http://www.howcast.com/">Howcast</a>
-              </h6>
-            </li>
-          </ul>
+        <div id="footer_menu">
+          <div class="links">
+            <ul>
+              <li>
+                <h5>
+                  <a href="/dashboard/">Dashboard</a>
+                </h5>
+              </li>
+              <li>
+                <h6>
+                  <a href="/dashboard/stats_by_video/">Earnings</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/dashboard/inbox/">My Messages</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/dashboard/profile/">My Profile</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/dashboard/shopping-cart/">My Shopping Cart</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/dashboard/published/">My Videos</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/dashboard/favorites/">My Playlists</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/dashboard/subscriptions/">My Contacts</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/dashboard/email_options/">My Account</a>
+                </h6>
+              </li>
+            </ul>
+          </div>
+          <div class="links">
+            <ul>
+              <li>
+                <h5>
+                  <a href="/quicktour/">Quick Tour</a>
+                </h5>
+              </li>
+              <li>
+                <h6>
+                  <a href="/quicktour/content/">Content</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/quicktour/video_player/">Video Player</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/quicktour/publishing/">Publishing</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/quicktour/monetization/">Earn Revenue</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/quicktour/promotion/">Promotion</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/quicktour/social_networking/">Social Networking</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/quicktour/insider-access/">Insider Access</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/quicktour/dashboard/">Dashboard</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/quicktour/summary/">Summary</a>
+                </h6>
+              </li>
+            </ul>
+          </div>
+          <div class="links">
+            <ul>
+              <li>
+                <h5>
+                  <a href="/corporate/">Openfilm</a>
+                </h5>
+              </li>
+              <li>
+                <h6>
+                  <a href="/corporate/about/">About Us</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/corporate/note-from-chairman/">Note from Chairman</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/corporate/advisory-board/">Advisory Board</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/corporate/management/">Management</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/corporate/press/">Press</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/corporate/contact/">Contact</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/corporate/advertise/">Advertise</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/blogs/">Blogs</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/corporate/jobs/">Jobs</a>
+                </h6>
+              </li>
+            </ul>
+          </div>
+          <div class="links non_marg_right">
+            <ul>
+              <li>
+                <h5>
+                  <a href="/info/">Help &amp; Info</a>
+                </h5>
+              </li>
+              <li>
+                <h6>
+                  <a href="/info/faq/">FAQ</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/info/sitemap/">Site Map</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/info/terms/">Terms of Use</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/info/agreement/">Member Agreement</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/info/privacy/">Privacy Policy</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/info/premium-services-chart/">Premium Services Chart</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/info/terms-of-sale/">Terms of Sale</a>
+                </h6>
+              </li>
+              <li>
+                <h6>
+                  <a href="/dashboard/upload_help/">Upload Help</a>
+                </h6>
+              </li>
+            </ul>
+          </div>
         </div>
         <div class="clearer"></div>
       </div>
     </div>
     <script type="text/javascript">
 <!--
-				_qoptions={
-					qacct:"p-6eXHo1fAFiBa-"
-				};
-			-->
+                _qoptions={
+                qacct:"p-6eXHo1fAFiBa-"
+                };
+            -->
     </script>
     <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
     <noscript>
@@ -829,15 +863,15 @@
     </noscript>
     <script type="text/javascript">
 <!--
-				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			-->
+                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            -->
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
     <script type="text/javascript">
 <!--
-				var pageTracker = _gat._getTracker("UA-4509200-1");
-				pageTracker._trackPageview();
-			-->
+                var pageTracker = _gat._getTracker("UA-4509200-1");
+                pageTracker._trackPageview();
+            -->
     </script>
   
 
