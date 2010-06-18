@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jehzlau-concepts.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210085438id_/http%3A//www.jehzlau-concepts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jehzlau-concepts.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618070639id_/http%3A//www.jehzlau-concepts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Page of Jehzlau Concepts
 
@@ -11,7 +11,7 @@ If you choose to give me your personal information via the Internet that I or ou
 It is my goal to protect and secure the quality and integrity of your personally identifiable information. I have implemented appropriate technical and managerial procedures to maintain information that is secure, accurate, current and complete. I will make a sincere effort to respond to your requests to correct personal information inaccuracies in a timely manner.
 
 **What information do I gather?**  
-Information on Jehzlau Concepts are gathered in two ways: (1) indirectly (for example, through our site’s technology); and (2) directly (for example, when you provide information on various pages of Jehzlau Concepts).
+Information on Jehzlau Concepts are gathered in two ways: (1) indirectly (for example, through our site’s [technology](http://www.jehzlau-concepts.com/category/technology "technology")); and (2) directly (for example, when you provide information on various pages of Jehzlau Concepts).
 
 One example of information I collect indirectly is through our Internet access logs. When you access Jehzlau Concepts, your Internet address is automatically collected and is placed in our Internet access logs.
 
@@ -29,7 +29,12 @@ As a global organization, data I collect may be transferred internationally thro
 I do not generally seek to collect sensitive personal data through this site. If I do seek to collect such data, I will ask you to consent to our proposed uses of the data. I may also collect some sensitive personal data incidentally. By providing me with unsolicited sensitive personal data, you consent to our using the data subject to applicable law as described in this Privacy Statement. The references to “sensitive personal data” are to the various categories of personal data identified by European and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories comprise personal identity numbers, personal data about personality and private life, racial or ethnic origin, nationality, political opinions, membership of political parties or movements, religious, philosophical or other similar beliefs, membership of a trade union or profession or trade association, physical or mental health, genetic code, addictions, sexual life, property matters or criminal record (including information about suspected criminal activities).
 
 **How About Your Advertisers?**  
-I use third party advertisements such as Google Adsense, BlogBank, Bidvertiser, and Widgetbucks. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. You may check their websites for respective privacy policies.
+I use third party advertisements such as [Google](http://www.jehzlau-concepts.com/category/all-about-google "Google") Adsense, BlogBank, Bidvertiser, and Widgetbucks. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. You may check their websites for respective privacy policies.
+
+Google Internet-based Ads Policy Updates:  
+\- Google, as a third party vendor, uses cookies to serve ads on your site.  
+\- Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+\- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Do I give you access to your information?**  
 You are entitled to know whether I hold information about you and, if I do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by sending me an e-mail at jehzlau@dostscholars.org
