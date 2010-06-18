@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileadded.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207143612id_/http%3A//www.fileadded.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileadded.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618082822id_/http%3A//www.fileadded.com/privacy.php) for the most accurate reproduction.*
 
 # Free Unlimited File Hosting Service | Privacy Policy
 
@@ -21,6 +21,13 @@ We may disclose your informations if necessary to protect our legal rights or if
 ### Use of Cookies
 
 Fileadded Free File Hosting uses cookies to store the preferences of users, only if they so choose.
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * For more information about Doubleclick DART Cookie, please visit [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx).
+
+
 
 ### Third-Party Cookies
 
