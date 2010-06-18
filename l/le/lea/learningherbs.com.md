@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the learningherbs.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212224340id_/http%3A//www.learningherbs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningherbs.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619014137id_/http%3A//www.learningherbs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Free Home Remedies and Simple Herbal Medicine Making
+
+| 
+
+  
+  
+
+
+|  | 
+
+Privacy Policy & Terms of Use
 
 ******What information do we collect?**
 
@@ -12,21 +22,21 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-" To personalize your experience  
+To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-" To improve customer service  
+To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-" To process transactions
+To process transactions
 
-" To send periodic emails
+To send periodic emails
 
  **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+After a transaction, your private information (credit cards, financials, etc.) will not be stored on our servers.
 
  **Do we disclose any information to outside parties?**
 
@@ -48,13 +58,19 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
+At LearningHerbs.com our privacy policy is simple and non-negotiable.
+
+Whether you are placing an order with us, signing up for a newsletter, or simply emailing us with a question or comment,we will not share any of your information with anyone for any reason! **Period**.
+
 **WE TAKE YOUR PRIVACY VERY SERIOUSLY.**
+
+* * *
 
 Terms of Use
 
 The content on LearningHerbs.com is provided for informational purposes and is not meant to substitute for the advice provided by your physician or other medical professional.
 
-You should not use the information contained herein or the products in the Herbal Medicine Making Kit ™, Wildcraft! An Hebral Adventure Game, HerbMentor.com, Supermarket Herbalism, Home Remedy Secrets, HerbMentor News, The HerbWalk or ANY information on any product or website produced by LearningHerbs.com, LLC for diagnosing or treating a health problem, disease or injury, or prescribing any medication.
+You should not use the information contained herein or the products in the Herbal Medicine Making Kit ™, Wildcraft! An Hebral Adventure Game, HerbMentor.com, Supermarket Herbalism, Home Remedy Secrets, HerbMentor News, The HerbWalk, Healing Herbs Wall Chart or HealingHerbs eBook, HerbMentor.com or ANY information on any product or website produced by LearningHerbs.com, LLC for diagnosing or treating a health problem, disease or injury, or prescribing any medication.
 
 Our Kits, games, articles, eBooks, eCourses and advice are designed and created for the temporary relief of common household ailments. You should read carefully all product packaging.
 
@@ -80,6 +96,18 @@ LearningHerbs.com claims ownership of the name “Herbal Medicine Making Kit ™
 
 You agree that you will not copy, imitate or use any of these trademarks, service marks, trade dress, or trade names in whole or in part, without the prior written permission of LearningHerbs.com or the appropriate owner of these trademarks, service marks, trade dress or trade names. LearningHerbs.com also claims to the extent permitted by law, all ownership to the page headers, custom graphics, button icons and scripts on our Site.
 
+**CONTENT USE**
+
+No one, for any reason, whatsoever, may replicate, sell, copy or post ANY text, audio, ebooks, photos, videos...NO CONTENT AT ALL without the permission of John Gallagher of LearningHerbs.com. No one may post anything to their sites, blogs, or anywhere. The only posting allowed is the sharing of links to our site. No one may share or sell any content on any of our sites with anyone without asking.
+
+This goes for ALL content on LearningHerbs.com, HerbMentor.com, and FamilyHerbalRemedies.com.
+
+Anyone violating this term will be contacted by our lawyers to remove the content.
+
+We are serious about this. We work hard to create our content. So, don't steal it for your own use. Go and make your own content. It's way easier and you'll actually do well online.
+
+The only content you can share on your sites is where you are invited to embed media, such as a YouTube video. Other than that, do not steal content. It ain't good karma.
+
 **SHIPPING AND BILLING**
 
 LearningHerbs.com will use commercially reasonable efforts to process, invoice, and ship all orders within 72 business hours from when the order is received by LearningHerbs.com and provided, that the merchandise ordered is available and in stock. Your order will then ship out via the method selected. Non-verifiable orders may considerably delay your order as well as requiring us to obtain additional information from you in order to process the order. LearningHerbs.com shall not be responsible for any orders shipped to an address that is different than the one specified on the original order. Any shipping address that was altered by you is your sole responsibility.
@@ -98,7 +126,7 @@ If you are unsatisfied with your order, you may return it to LearningHerbs.com w
 
 **CANCELING ORDERS**
 
-To cancel your order, [email us](http://www.learningherbs.com/contact.html) right away or call 425-216-6373.. If your order has already been shipped, we will be unable to cancel it.
+To cancel your order, [email us](http://www.learningherbs.com/contact.html) right away or call 425-216-6373. If your order has already been shipped, we will be unable to cancel it.
 
 **RETURNING A PURCHASE**
 
@@ -115,3 +143,5 @@ If your order has been opened or damaged, refuse delivery and immediately [conta
 To receive a refund for damaged goods instead of a replacement, refuse delivery and immediately [contact us](http://www.learningherbs.com/contact.html) to report the process for us to process your return.
 
 .
+
+|  |  | 
