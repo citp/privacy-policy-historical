@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218013202id_/http%3A//www.hunter-ed.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618234759id_/http%3A//www.hunter-ed.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Today's Hunter Safety Course Privacy Policy - Online Hunting Education
 
@@ -26,9 +26,6 @@ We do not share, sell or otherwise distribute information about individual users
 
 All of your personal and credit card information is collected using SSL (Secure Socket Layer) which allows your information to be securely transferred to us using Verisign Secure Server Digital ID. **Hunter Ed** has been approved by VeriSign to protect your credit card and other confidential information with industry-leading SSL encryption. The VeriSign Secured Seal is a trust mark available for display on any website that protects its customers' confidential information using VeriSign services. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.
 
-|   
----|---  
-  
 ### 5\. Children and privacy
 
 **Hunter Ed** encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit. **Hunter Ed** fully complies with the Federal Trade Commission's COPPA Act (Children's Online Privacy Protection Act) and follows state guidelines for compliance for each state hunting safety education course we offer.
@@ -48,9 +45,9 @@ Please include your e-mail address and telephone number where we can reach you. 
 
 If you have any questions about this privacy statement or the practices of this site, you can email us by clicking the email link below, or contact us at:
 
-**Kalkomey Enterprises, Inc.**  
-2906 Ladybird Lane  
-Dallas, Texas 75220  
+**Kalkomey, Inc.**  
+14086 Proton Rd.  
+Dallas, TX 75244  
 Telephone: 214-351-0461
 
 **Hunter Ed** is committed to protecting the privacy of our students, and hopes this document answers your questions and concerns about our privacy policy. 
