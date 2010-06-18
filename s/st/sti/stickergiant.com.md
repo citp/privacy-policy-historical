@@ -1,34 +1,38 @@
-> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217093553id_/http%3A//www.stickergiant.com/merchant.mvc%3FScreen%3Dsec) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618093123id_/http%3A//www.stickergiant.com/sec.htm) for the most accurate reproduction.*
 
-# SECURITY
+# Stickers, Bumper Stickers - Sticker Giant - Shipping
 
-**CREDIT CARD CHARGES**  
+### CREDIT CARD CHARGES
+
 The charges made to your credit card will show up as "StickerGiant.com Inc." 
 
-**PRIVACY POLICY**
+### PRIVACY POLICY
 
-This is the web site of StickerGiant.com, Inc..
+This is the web site of StickerGiant.com, Inc.. 
 
 Our postal address is   
 P.O. Box 301  
-Hygiene, CO 80533
+Hygiene, CO 80533 
 
 We can be reached via e-mail at stickerhelp@stickergiant.com  
-or you can reach us by telephone at (866) 774-7900
+or you can reach us by telephone at (866) 774-7900 
 
-**EMAIL NEWSLETTER LIST**  
-Email collected on this site via the order process is automatically included in our newsletter mailing list. Emails used in the "email this to a friend" functionality are not included on the email list.
+### EMAIL NEWSLETTER LIST 
 
-Anybody can opt-out or opt-in to our newsletter list at any time by [_clicking here_](http://stickergiant.mail.zingstudios.net/mail/unsubscribe.php).
+Email collected on this site via the order process is automatically included in our newsletter mailing list. Emails used in the "email this to a friend" functionality are not included on the email list. 
 
-We never share your email with anybody outside of this company, ever.
+Anybody can opt-out or opt-in to our newsletter list at any time by [_clicking here_](http://stickergiant.mail.zingstudios.net/mail/unsubscribe.php). 
+
+We never share your email with anybody outside of this company, ever. 
 
 Your privacy is important, so we'd like to explain what information we collect when you visit StickerGiant.com (http://www.stickergiant.com), why we collect it, how it is used and whether we give it to others. We'd also like to explain your options to access and control your information, our data security practices and other matters. 
 
-**SPECIAL NOTE ABOUT CHILDREN**  
+### SPECIAL NOTE ABOUT CHILDREN
+
 This Site is not intended for children, especially kids under 13. Children may use this Site only with the direct supervision of their parent. 
 
-**WHAT INFORMATION DO WE COLLECT FROM YOU? WHY?**  
+### WHAT INFORMATION DO WE COLLECT FROM YOU? WHY?
+
 We May Collect Information Needed to Contact You Later: 
 
 If we collect personal contact information (as described below), you may not later be able to access, modify or remove it from our system. 
@@ -39,7 +43,7 @@ This information does not inherently reveal and will not be linked to you person
 
 We May Collect Your Email Address. We may request your email address, or other information needed to contact you online. This information does not necessarily reveal who you are and we will not link it to your personal identity. We use it to complete and support the immediate activity requested, and to comply with any requirements of law. This information may be disclosed only to our staff. 
 
-**We May Collect Other Kinds of Information from You:**
+### We May Collect Other Kinds of Information from You:
 
 When you use our Site, we may collect personal information about you described below. You may not later be able to access, modify or remove the information. 
 
@@ -49,29 +53,36 @@ We May Collect Purchase Information. We may collect information actively generat
 
 We May Collect Information About Your Finances. We may collect information about your financial account status, purchase and payment history and other financial data to help establish a financial status for your on-screen persona. This information will not reveal your identity or be linked to you personally. We use this information to complete and support the immediate activity requested, and to comply with any requirements of law. This information may be disclosed only to our staff. 
 
-**CERTAIN EXCEPTIONAL DISCLOSURES**  
+### CERTAIN EXCEPTIONAL DISCLOSURES
+
 We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct. Disclosure may be required by law or if we receive legal process. 
 
-**WHAT ARE COOKIES? WHY DO WE USE THEM?**  
+### WHAT ARE COOKIES? WHY DO WE USE THEM?
+
 Cookies are small files stored by your browser in your computer when you visit our Site. We use cookies to improve our Site and make it easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same information. We mostly use "session cookies" that are automatically deleted after each visit. Cookies from our Site can't be read by other sites. Most browsers will accept cookies until you change browser settings to refuse them. 
 
-**HOW DO WE PROTECT INFORMATION WE COLLECT?**  
+### HOW DO WE PROTECT INFORMATION WE COLLECT?
+
 We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our Site reduce the likelihood of security problems to a level appropriate to the type of data involved. 
 
-**HOW LONG DO WE KEEP USER INFORMATION?**  
+### HOW LONG DO WE KEEP USER INFORMATION?
+
 We generally keep user data on our server or in our archives for as long as we reasonably need it. We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. 
 
-**YOUR CONSENT TO THIS POLICY**  
+### YOUR CONSENT TO THIS POLICY
+
 By using our Site, you agree to this Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. We may change it by posting a new version on our Site. 
 
-**LEGAL DISCLAIMER**  
+### LEGAL DISCLAIMER
+
 THIS SITE OPERATES AS-IS AND AS-AVAILABLE. ANY WARRANTIES OF ACCURACY, QUALITY, TITLE, FITNESS OR MERCHANTABILITY ARE DISCLAIMED. WE ARE NOT LIABLE FOR DIRECT, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, OR FOR EVENTS BEYOND OUR DIRECT CONTROL. 
 
 This Policy is governed by Colorado law, excluding conflicts of law principles. Any provision of this Policy that is illegal or unenforceable shall be deemed automatically conformed to the minimum requirements of law. Any legal actions against us must be commenced in Colorado within one year after the claim arose, or be barred. 
 
-**IF YOU HAVE A PRIVACY QUESTION**  
+### IF YOU HAVE A PRIVACY QUESTION
+
 If you have a privacy question about our Site, please write: StickerGiant.com, Attn: John Fischer, POB 301 Hygiene, CO 80533 
 
-We have contracted with Overture services, Inc. (“Overture") to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, Overture may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. No personally identifiable data is collected by or transferred to Overture. For more information about how the information collected by Overture is used, please see Overture’s privacy policy at http://www.overture.com/d/USm/about/company/ccprivacypolicy.jhtml
+We have contracted with Overture services, Inc. (“Overture") to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, Overture may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. No personally identifiable data is collected by or transferred to Overture. For more information about how the information collected by Overture is used, please see Overture’s privacy policy at http://www.overture.com/d/USm/about/company/ccprivacypolicy.jhtml 
 
 (end of policy) 
