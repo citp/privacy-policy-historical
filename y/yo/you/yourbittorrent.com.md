@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122112105id_/http%3A//www.yourbittorrent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618062305id_/http%3A//www.yourbittorrent.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - yourBittorrent
 
-  
-
-
-### Privacy Policy
-
-|  yourBittorrent.com does **not** record personal information.
+yourBittorrent.com does **not** record personal information.
 
 Where identification is required for purposes of administration and/or user login, we use an encrypted string based on your username and password which are then encoded using our own secret algorithm. Such string is used solely by yourBittorrent.com and cannot be decoded.
 
@@ -17,9 +12,4 @@ In the course of serving advertisements, our third-party advertisers may place a
 
 This policy is in effect since 
 
-_26 July 2007_.   
----|---  
-  
-Bittorrent is a P2P network which allows users to share large files such as movies and games with each other.
-
-In order to download torrent files, you need to install the BitTorrent [client](http://www.yourbittorrent.com/clients.html).
+_26 July 2007_. 
