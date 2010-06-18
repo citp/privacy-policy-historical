@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218054403id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618142903id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LawnSite.com™ - Lawn Care & Landscaping Business Forum Powered by Moose River Media
 
@@ -30,7 +30,7 @@ MRM does not knowingly collect information from children under the age of 13. On
 
 2\. _How Information Collected is Used_
 
-The information collected by and through the Web site is owned solely by MRM. The information collected by and through this Web site will by used solely by MRM, its divisions, subsidiaries, and affiliates, or other entities that are involved in the operation of this Web site for MRM’s internal purposes and is not sold, rented or transferred to third parties. 
+The information collected by and through the Web site is owned solely by MRM. The information collected by and through this Web site will by used solely by MRM, its divisions, subsidiaries, and affiliates, or other entities that are involved in the operation of this Web site for MRM’s internal purposes. 
 
 MRM may use the information collected and provided, individually or in an aggregate form, as follows: 
 
