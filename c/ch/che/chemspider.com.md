@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemspider.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027011500id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemspider.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618235207id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -13,7 +13,7 @@ The RSC uses your personal data (e.g. name, address, email address, country of r
 
 The RSC logs the Internet Protocol (IP) address of your PC to be able to receive and send information on the Internet.
 
-The RSC collects personal data when your register or update your personal details using online forms.
+The RSC collects personal data when you register or update your personal details using online forms.
 
 ### Inaccuracies and corrections
 
