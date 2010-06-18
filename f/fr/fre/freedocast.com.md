@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedocast.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301052504id_/http%3A//www.freedocast.com/ppc.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedocast.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619005248id_/http%3A//www.freedocast.com/ppc.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,4 +86,4 @@ Freedocast may update or revise this Privacy Policy from time to time and the Us
 
 13\. CONTACT INFORMATION
 
-Users may contact Freedocast with any questions or comments about this Privacy Policy using the contact form or may address such queries and / or comments to: [ privacy@globaltakeoff.com](mailto:privacy@globaltakeoff.com)
+Users may contact Freedocast with any questions or comments about this Privacy Policy using the contact form or may address such queries and / or comments to: [ privacy@freedocast.com](mailto:privacy@freedocast.com)
