@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the edublogs.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230074047id_/http%3A//edublogs.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edublogs.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618234636id_/http%3A//edublogs.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Edublogs - teacher and student blogs
+
+## Blogging for teachers and students, made easy    [...find our more](http://edublogs.org/features/)
 
 Nothing is more important to edublogs than privacy. We hold your privacy in the highest regard. We take many steps to assure that your information is secure and not shared with any individual or business. Information collected by edublogs is only shared with edublogs staff. At no point in time will we provide information over the phone, email, support systems or by any means.
 
