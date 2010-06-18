@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apmmusic.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217131451id_/http%3A//www.apmmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmmusic.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619001821id_/http%3A//www.apmmusic.com/privacy) for the most accurate reproduction.*
 
 # APM Music | Privacy Policy
 
