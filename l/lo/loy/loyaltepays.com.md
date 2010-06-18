@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loyaltepays.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222143715id_/http%3A//www.loyaltepays.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyaltepays.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618172321id_/http%3A//loyaltepays.com/Home/tabid/38/ctl/Privacy/language/en-US/Default.aspx) for the most accurate reproduction.*
 
-# LoyaltePays > Home
+# LoyaltePAYS, pays YOU to build YOUR list!
 
 LoyaltePays is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the LoyaltePays Web site and governs data collection and usage. By using the LoyaltePays website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ LoyaltePays will occasionally update this Statement of Privacy to reflect compan
 
 Contact Information
 
-LoyaltePays welcomes your comments regarding this Statement of Privacy. If you believe that LoyaltePays has not adhered to this Statement, please contact LoyaltePays at [heide_holtz@mac.com](mailto:heide_holtz@mac.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+LoyaltePays welcomes your comments regarding this Statement of Privacy. If you believe that LoyaltePays has not adhered to this Statement, please contact LoyaltePays at [admin@smartersites.net](mailto:admin@smartersites.net). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
