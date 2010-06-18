@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxabout.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122085054id_/http%3A//www.maxabout.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxabout.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618235725id_/http%3A//www.maxabout.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # MaxAbout.com Privacy Policy
 
@@ -56,6 +56,8 @@ MaxAbout.com works with vendors, partners, advertisers, and other service provid
 MaxAbout.com may set and access MaxAbout.com cookies on your computer. MaxAbout.com lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to MaxAbout.com's cookies. 
 
 MaxAbout.com uses web beacons to access MaxAbout.com cookies inside and outside our network of web sites and in connection with MaxAbout.com products and services. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 ##  Your Ability to Edit and Delete Your Account Information and Preferences
 
