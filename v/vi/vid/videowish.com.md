@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videowish.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218164829id_/http%3A//www.videowish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videowish.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618202219id_/http%3A//www.videowish.com/privacy.php) for the most accurate reproduction.*
 
 # WWW.VIDEOWISH.COM
 
@@ -32,7 +32,7 @@ Detailed information about you is only collected when you are advised explicitly
 
 ### _Sharing Information_
 
-Our website does not share your information with any sub-contractors or third parties. We do however encourage you to look at the privacy statements of our billing agents, Paycom and CCBill. 
+Our website does not share your information with any sub-contractors or third parties. We do however encourage you to look at the privacy statements of our billing agents, CCBill. 
 
 ### _Legal Disclosure_
 
@@ -40,7 +40,7 @@ When approached by the appropriate authorities, information about you, your busi
 
 ### _Payment Encryption Technology_
 
-To maintain the highest security we use the services of Paycom and CCBill, both very technologically advanced billing agents who use state-of-the-art 128 bit encyption techniques. 
+To maintain the highest security we use the services of CCBill, very technologically advanced billing agents who use state-of-the-art 128 bit encyption techniques. 
 
 ### _Hackers and Viruses_
 
