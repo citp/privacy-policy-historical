@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adbuyer.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218063830id_/http%3A//adbuyer.com/signup/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbuyer.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619002340id_/http%3A//www.adbuyer.com/signup/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,9 @@ You are welcome to visit portions of the Site without becoming a registered user
 
 Collection and Use of Non Personal Information
 
-Our web servers uses "cookies" to collect general information about your computer (such as which web browser you are using) and to facilitate your use of the Site. A “cookie” is a small piece of data that is transmitted to an end-user’s computer and stored in the cookie directory of that user’s hard drive. A cookie identifies an end-user as a unique, anonymous user (but does not collect or transmit any personally identifiable information about that end-user). AdBuyer uses cookies and IP addresses to authenticate and keep track of user sessions. As an end-user, you can generally configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences). Please note that if you reject all cookies, you may limit the services we can provide when you visit. AdBuyer uses cookies to collect information about use of the Site for our own general business purposes, such as which sections are visited most frequently, how many visitors we have received, and how long visitors stay on each page. 
+Our web servers uses "cookies" to collect general information about your computer (such as which web browser you are using) and to facilitate your use of the Site. A “cookie” is a small piece of data that is transmitted to an end-user’s computer and stored in the cookie directory of that user’s hard drive. A cookie identifies an end-user as a unique, anonymous user (but does not collect or transmit any personally identifiable information about that end-user). AdBuyer uses cookies and IP addresses to authenticate and keep track of user sessions. As an end-user, you can generally configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences). Please note that if you reject all cookies, you may limit the services we can provide when you visit. AdBuyer uses cookies to collect information about use of the Site for our own general business purposes, such as which sections are visited most frequently, how many visitors we have received, and how long visitors stay on each page.
+
+To opt out of AdBuyer.com tracking cookies, please click on the following link: [AdBuyer cookie opt-out.](http://gbid.adbuyer.com/opt-out)
 
   
 
@@ -44,11 +46,12 @@ AdBuyer has implemented commercially reasonable security measures in order to pr
 
 Changes in Corporate Structure
 
-If all or part of AdBuyer is sold, merged or otherwise transferred to another entity, the information that you have provided at the Site or in connection with the AdBuyer services may be transferred as part of that transaction. However, AdBuyer will take commercially reasonable steps to ensure that such information is used in a manner consistent with the AdBuyer privacy policy under which it was collected.   
-Changes to the Privacy Policy and your Consent
+If all or part of AdBuyer is sold, merged or otherwise transferred to another entity, the information that you have provided at the Site or in connection with the AdBuyer services may be transferred as part of that transaction. However, AdBuyer will take commercially reasonable steps to ensure that such information is used in a manner consistent with the AdBuyer privacy policy under which it was collected. 
 
   
 
+
+Changes to the Privacy Policy and your Consent
 
 AdBuyer may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. By using our services directly or indirectly, you consent to the collection and use of your information as outlined in this Privacy Policy.
 
