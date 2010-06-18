@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsons.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315024454id_/http%3A//www.carsons.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsons.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618093948id_/http%3A//www.carsons.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Carson Pirie Scott
 
@@ -65,6 +65,6 @@ _Corporate Office_
 York, PA 17405
 
 Or call the following toll-free number:   
-1-800-233-7626
+1-800-945-4438, 6am-12am (CST) Monday -Sunday
 
 If you have a joint account, a request by one party will apply to the entire account. Please allow approximately 10 weeks for your request to take effect.
