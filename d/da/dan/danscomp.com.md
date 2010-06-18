@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the danscomp.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417151535id_/http%3A//www.danscomp.com/serve.php%3Fserve%3Dtext%26html%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danscomp.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619005938id_/http%3A//www.danscomp.com/serve.php%3Fserve%3Dtext%26html%3Dprivacy.htm) for the most accurate reproduction.*
 
-# DAN'S COMP - BMX Bikes, Parts, Clothing, Shoes and Accessories!
+# DAN'S COMP - Bmx Bikes, Bmx Parts, Bmx Clothing, Bmx Shoes and Bmx Accessories!
 
-|   | 
+  | 
 
 **Disclosure Regarding Collection and Use of Personal Information**  
 Thank you for visiting DANSCOMP.COM. This notice explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. OUR ONLINE INFORMATION COLLECTION AND USE PRACTICES MAY DIFFER FROM OUR PRACTICES REGARDING INFORMATION OBTAINED OFFLINE. 
