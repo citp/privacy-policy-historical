@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211225513id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618202249id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Honda (UK)
 
@@ -75,7 +75,7 @@ If you no longer wish to receive email or other promotional materials from us, y
 Back to top
 
 **Links to Third Party Sites**  
-Honda is not responsible for the content of any web sites that are linked to its site. We will notify you when you are visiting an external site. When entering a third party site, it is your responsibility to ensure that you read the Privacy Policy and Legal Terms & Conditions that apply to that site.  
+Honda is not responsible for the content of any web sites that are linked to its site. When entering a third party site, it is your responsibility to ensure that you read the Privacy Policy and Legal Terms & Conditions that apply to that site.  
 Back to top
 
 **Notification of Changes**  
