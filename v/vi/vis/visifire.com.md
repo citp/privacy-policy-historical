@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visifire.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218000544id_/http%3A//www.visifire.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visifire.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618113220id_/http%3A//www.visifire.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Silverlight charting component
 
@@ -44,7 +44,7 @@ In addition, we may use temporary session cookies to track your progress through
 
 **Third Party Web Sites**
 
-The Visifire web site may contain links to third-party web sites over which we have no control or responsibility regarding content, privacy policies, or practices. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own web site at [www.visifire.com](http://www.visifire.com/) . Please note that all on-line and telephone credit card orders for our software products may be processed by a third party.
+The Visifire web site may contain links to third-party web sites over which we have no control or responsibility regarding content, privacy policies, or practices. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own web site at [www.visifire.com](http://www.visifire.com/). Please note that all on-line and telephone credit card orders for our software products may be processed by a third party.
 
 **Web Site Security**
 
@@ -54,4 +54,4 @@ Our web site utilizes industry standard security technology to protect the secur
 
 Visifire may amend this policy at any time by posting the amended terms on our web site. All amended terms will be automatically effective without further notice, 10 days after they are first posted.
 
-You may contact us with your comments on Visifire's privacy policy at: [ info@visifire.com ](mailto:info@visifire.com?subject=Visifire%20Privacy%20Policy)
+You may contact us with your comments on Visifire's privacy policy at: [ info@visifire.com](mailto:info@visifire.com?subject=Visifire%20Privacy%20Policy).
