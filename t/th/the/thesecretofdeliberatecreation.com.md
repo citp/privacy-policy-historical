@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231232315id_/http%3A//thesecretofdeliberatecreation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618035201id_/http%3A//www.thesecretofdeliberatecreation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,6 +76,6 @@ Little e, Inc.
 Beverly Hills, CA 90211  
 USA 
 
-This privacy policy was last updated on 12-01-2009.
+This privacy policy was last updated on 3-01-2010.
 
-Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://www.thesecretofdeliberatecreation.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2008-2010 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://www.thesecretofdeliberatecreation.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
