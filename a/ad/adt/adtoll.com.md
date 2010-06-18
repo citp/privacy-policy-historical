@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtoll.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230050911id_/http%3A//www.adtoll.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtoll.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618201715id_/http%3A//www.adtoll.com/privacy_statement) for the most accurate reproduction.*
 
 # Online Advertising, Pay Per Click Advertising, Banner Advertising, Video Advertising, Text Advertising, Peel Away Advertising, Affiliate Program @ AdToll - Your Tollgate to Web Traffic
 
@@ -94,7 +94,7 @@ You have a right to access your personal information, subject to some exceptions
 
   11. **How to contact us**
 
-If you have any questions in relation to privacy, [contact us](http://adtoll.com/contact_us.php?subject=Privacy%20Enquiry).
+If you have any questions in relation to privacy, [contact us](http://www.adtoll.com/contact_us.php?subject=Privacy%20Enquiry).
 
 
 
