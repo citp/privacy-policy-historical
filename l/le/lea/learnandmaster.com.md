@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnandmaster.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101183304id_/http%3A//www.learnandmaster.com/main/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnandmaster.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618093153id_/http%3A//www.learnandmaster.com/main/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Instructional DVD Programs by Legacy Learning Systems | Bringing Personal Dreams Within Reach
+# Instructional DVD Programs by Legacy Learning Systems | Bringing Personal Dreams Within Reach - Privacy Policy
 
 This privacy policy lays out how Legacy Learning Systems, Inc. [LearnAndMaster.com] uses and protects any information that you give Legacy Learning Systems, Inc. when you use this Web site.
 
