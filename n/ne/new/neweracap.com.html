@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the neweracap.com privacy policy that was archived on 2009-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218180147id_/http%3A//www.neweracap.com/infoPages/privacy.php%3FfootDept%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the neweracap.com privacy policy that was archived on 2010-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618222844id_/http%3A//www.neweracap.com/infoPages/privacy.php%3FfootDept%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Customer Service: Privacy Policy </title>
@@ -71,58 +71,100 @@
 
 <body>
 
+
 <div id="container_global">
 <div id="container_bg">
 	<div style="background-image:url('/images/headerBg.jpg'); background-repeat:no-repeat; position:relative; text-align:center; width:1003px; height:21px; padding-top:2px;"><span style="color:red; padding-top:5px;"> U.S. PLANT CONSOLIDATION ANNOUNCEMENT </span><a target="_blank" style="color: #566181; margin-left: 5px; text-decoration:underline;" href="http://www.newerafacts.com">Click Here For Details</a> </div>
 	<div id="container_head">
 		
-		<div id="country_selector">
-	    	<img class="alpha" src="/images/base/countrySelector.png" alt="Country Selector" title="Country Selector" usemap="#countries">
+		<div id="country_selector" style="right:220px;">
+	    	<img class="alpha" src="/images/base/countrySelector-20091221.png" alt="Country Selector" title="Country Selector" usemap="#countries">
 		    <map name="countries" id="countries">
-				<area shape="rect" coords="138,0,162,17" href="http://www.neweracap.co.uk/" alt="" title="">
-				<area shape="rect" coords="164,0,186,17" href="http://www.neweracap.jp/" alt="" title="">
+			    <area shape="rect" alt="UK" title="" coords="137,3,153,14" href="http://www.neweracap.co.uk/" target="">
+			    <area shape="rect" alt="Japan" title="" coords="157,3,172,14" href="http://www.neweracap.jp/" target="">
+			    <area shape="rect" alt="Korea" title="" coords="177,3,192,14" href="http://www.neweracapkr.com/" target="">
 		    </map>
-		</div>
-		<div id="mainLogo"><a href="/index.php"><img id="logoGraphic" src="/images/base/logo.gif" alt="New Era" title="New Era" border="0"></a></div>
-		<div id="giftGuideLogo"><a href="/landingpages/landing.php?page=giftGuide"><img class="alpha" src="/images/base/NE_111809le_GG_Nav_Icon.png" alt="Gift Guide 2009" title="Gift Guide 2009" border="0"></a></div> 
-		<div id="global_nav">
-						<a href="/nshop/product.php?view=giftcert">gift card</a>
-			
-			&nbsp;•&nbsp;			<a href="/infoPages/contact.php">customer service</a>
-			&nbsp;•&nbsp;			<a href="http://www2.neweracap.com/category/9/GENERAL/page/252/NEW_ERA_FLAGSHIP_STORE_LOCATIONS.aspx">store locator</a>
-			
-			&nbsp;•&nbsp;			<a href="#" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/16847762/?cmd=file&amp;file=visitorWantsToChat&amp;site=16847762&amp;SESSIONVAR!skill=neweracap.com%20pre-sales&amp;imageUrl=https://www.babyphat.com/images/liveperson&amp;referrer='+escape(document.location),'chat16847762','width=472,height=320');return false;">live help</a>
-			
-			&nbsp;•&nbsp;			<a id="MailList" href="/includes/inc.maillist.php" class="modal">join mailing list</a><script>new Control.Modal('MailList',{iframe: true,width: 566,height: 607});</script>
-			
-			&nbsp;•&nbsp;			<a href="/nshop/account.php?topDept=myAccount">my account</a>
-					
-			&nbsp;•&nbsp;			<a href="/nshop/shopcart.php?topDept=cart">shopping cart</a>
-			
-			<a href="/nshop/shopcart.php?topDept=cart"><img src="/images/base/cart.gif" alt="New Era Cart" title="New Era Cart" style="position: relative;top: 3px;"></a>
-		</div><!--global_nav-->
+		</div>		
 		
-		<!--[if!IE]--><style>#content_search input {position:relative;top:-1px;}</style><!--[endif]-->
-		
+		<div id="searchDiv">
 		<form name="keyword_search" method="GET" action="/nshop/product.php" id="search">
 			<input type="hidden" name="view" value="keyword">
-			<div id="content_search"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="/images/base/input_pre.jpg" alt=" "></td><td><input type="text" name="keywords" value="enter key words" onfocus="if (this.value == 'enter key words') { this.value = '' }" onblur="if (this.value == '') { this.value = 'enter key words' }"></td><td><img src="/images/base/input_post.jpg" alt=" "></td></tr></tbody></table></div>
+			<div id="content_search">
+			<input type="text" name="keywords" value="" onblur="search_switch(this,'blur')" onfocus="search_switch(this,'focus')">
+
+			</div>
 			<div id="searchBoxBtn">	
 				<input id="searchGoBtn" type="submit" value="go">
 			</div>			
-			
+			<script type="text/javascript">
+					function search_switch(field, bg) {
+						if(bg == 'focus') {
+							document.getElementById('content_search').style.background = "url(/images/base/search/focus.gif) no-repeat";
+						} else if (bg == 'blur' && field.value == '') {
+							document.getElementById('content_search').style.background = "url(/images/base/search/blur.gif) no-repeat";
+						}
+					}
+			</script>			
 		</form>
+		</div>
+		<div id="mainLogo"><a href="/index.php"><img id="logoGraphic" src="/images/base/logo.gif" alt="New Era" title="New Era" border="0"></a></div>
+		
+		<div style="position:absolute;top:39px;left:287px;">
+                                <script language="javascript">
+                                        if (AC_FL_RunContent == 0) {
+                                                alert("This page requires AC_RunActiveContent.js.");
+                                        } else {
+                                                AC_FL_RunContent(
+                                                        'codebase', '//download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+                                                        'width', '123',
+                                                        'height', '17',
+                                                        'src', '/flash/qf',
+                                                        'quality', 'high',
+                                                        'pluginspage', '//www.macromedia.com/go/getflashplayer',
+                                                        'align', 'middle',
+                                                        'play', 'true',
+                                                        'loop', 'true',
+                                                        'scale', 'showall',
+                                                        'wmode', 'transparent',
+                                                        'devicefont', 'false',
+                                                        'id', 'Quick Finder Animation',
+                                                        'bgcolor', '#000000',
+                                                        'name', 'Quick Finder Animation',
+                                                        'menu', 'true',
+                                                        'allowFullScreen', 'false',
+                                                        'allowScriptAccess','sameDomain',
+                                                        'movie', '/flash/qf',
+                                                        'salign', ''
+                                                        ); //end AC code
+                                        }
+                                </script><embed width="123" height="17" src="/flash/qf.swf" quality="high" pluginspage="//www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="transparent" devicefont="false" bgcolor="#000000" name="Quick Finder Animation" menu="true" allowfullscreen="false" allowscriptaccess="sameDomain" salign="" type="application/x-shockwave-flash"> 
+                                <noscript>
+					<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="//download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="123" height="17" id="Quick Finder Animation" align="middle">
+                                        <param name="allowScriptAccess" value="sameDomain" />
+                                        <param name="allowFullScreen" value="false" />
+					<param name="movie" value="/flash/qf.swf" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="bgcolor" value="#000000" />	<embed src="/flash/qf.swf" quality="high" wmode="transparent" bgcolor="#000000" width="123" height="17" name="Quick Finder Animation" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="//www.macromedia.com/go/getflashplayer" />
+                                        </object>
+                                </noscript>
+		<div style="position:absolute;top:0px;left:0px;">
+			<a id="giftFinder" href="/nshop/giftFinder.php?view=keyword&amp;keywords=ne-" class="modal"><img src="/images/spacer.gif" border="0" height="17" width="123">
+		</a><script>new Control.Modal('giftFinder',{iframe: true,width: 723,height: 408});</script>	</div>
+		</div>
+
+		<div id="global_nav">
+						<a href="/nshop/product.php?view=giftcert">gift card</a>
+			&nbsp;•&nbsp;			<a href="/infoPages/contact.php">customer service</a>
+			&nbsp;•&nbsp;			<a href="http://www2.neweracap.com/category/9/GENERAL/page/252/NEW_ERA_FLAGSHIP_STORE_LOCATIONS.aspx">store locator</a>
+			&nbsp;•&nbsp;			<a href="#" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/16847762/?cmd=file&amp;file=visitorWantsToChat&amp;site=16847762&amp;SESSIONVAR!skill=neweracap.com%20pre-sales&amp;imageUrl=https://www.babyphat.com/images/liveperson&amp;referrer='+escape(document.location),'chat16847762','width=472,height=320');return false;">live help</a>
+			&nbsp;•&nbsp;			<a id="MailList" href="/includes/inc.maillist.php" class="modal">join mailing list</a><script>new Control.Modal('MailList',{iframe: true,width: 566,height: 607});</script>
+			&nbsp;•&nbsp;			<a href="/nshop/account.php?topDept=myAccount">my account</a>
+			&nbsp;•&nbsp;			<a href="/nshop/shopcart.php?topDept=cart">shopping cart</a>
+			<a href="/nshop/shopcart.php?topDept=cart"><img src="/images/base/cart.gif" alt="New Era Cart" title="New Era Cart" style="position: relative;top: 3px;"></a>
+		</div><!--global_nav-->
+		
+
+		
+
 			
-		<style>
-			#newarrivalsnav { padding-left:315px; }
-			#mennav         { padding-left:425px; }
-			#womennav       { padding-left:485px; }
-			#kidsnav        { padding-left:555px; }
-			#apparelnav     { padding-left:615px; }
-			#accessoriesnav { padding-left:700px; }
-			#aboutnav       { padding-left:805px; }
-			#salenav        { padding-left:925px; }
-		</style>
 
 	    <div id="navBar">
 	        <center>
@@ -143,21 +185,7 @@
 	</div><!-- container_head-->
 	<div id="sodd">
 		<div id="socontent" style="display:none">
-			<table cellpadding="0" cellspacing="0" width="100%" style="padding-bottom:10px;margin-bottom:10px;border-bottom:1px solid #dcdcdc;">
-	<tbody><tr>		<td style="font-size:11px; font-weight:bold; font-variant:caps; text-transform:uppercase;" class="promohead">GET A FREE GIFT BOX WITH ANY CAP PURCHASE</td>
-	</tr>	<tr>		<td class="normalize" style="padding:0 0 0 0px;font-size:10px;color:#999999;">limited time offer. while supplies last.</td>
-	</tr>	<tr>		<td class="normalize" style="padding:0 0 0 0px;font-size:10px;color:#990000;"><a href="/nshop/product.php?groupName=NewArrivalsMen&amp;view=listing&amp;useGN=1" class="highlight" style="color: #990000; text-decoration:none;">SHOP NOW</a></td>
-	</tr></tbody></table><hr>
-                        <table cellpadding="0" cellspacing="0" width="100%" style="padding-bottom:10px;margin-bottom:10px;border-bottom:1px solid #dcdcdc;">
-	<tbody><tr>		<td style="font-size:11px; font-weight:bold; font-variant:caps; text-transform:uppercase;" class="promohead">RECEIVE A FREE $5 GIFT CARD ON ALL ORDERS OVER $40</td>
-	</tr>	<tr>		<td class="normalize" style="padding:0 0 0 0px;font-size:10px;color:#999999;">limited time offer. while supplies last.</td>
-	</tr>	<tr>		<td class="normalize" style="padding:0 0 0 0px;font-size:10px;color:#990000;"><a href="/nshop/product.php?groupName=NewArrivalsMen&amp;view=listing&amp;useGN=1" class="highlight" style="color: #990000; text-decoration:none;">SHOP NOW</a></td>
-	</tr></tbody></table><hr>
-                        <table cellpadding="0" cellspacing="0" width="100%" style="padding-bottom:10px;margin-bottom:10px;border-bottom:1px solid #dcdcdc;">
-	<tbody><tr>		<td style="font-size:11px; font-weight:bold; font-variant:caps; text-transform:uppercase;" class="promohead">FREE SHIPPING WHEN YOU PURCHASE 2 ITEMS!</td>
-	</tr>	<tr>		<td class="normalize" style="padding:0 0 0 0px;font-size:10px;color:#999999;">ground domestic only. limited time offer.</td>
-	</tr>	<tr>		<td class="normalize" style="padding:0 0 0 0px;font-size:10px;color:#990000;"><a href="/nshop/product.php?groupName=NewArrivalsMen&amp;view=listing&amp;useGN=1" class="highlight" style="color: #990000; text-decoration:none;">SHOP NOW</a></td>
-	</tr></tbody></table>			<div align="right"><a href="#" onclick="return slide();" style="font-size:10px; color:gray;text-align:right;">close [X]</a></div>
+						<div align="right"><a href="#" onclick="return slide();" style="font-size:10px; color:gray;text-align:right;">close [X]</a></div>
         </div>
 	</div>
 	
@@ -182,9 +210,9 @@
 				<li><a href="/landing.php?page=menMLB&amp;groupName=MenMLB">MLB</a></li>
 				<li><a href="/landing.php?page=menMILB&amp;groupName=MenMiBL">MiLB</a></li>
 				<li><a href="/landing.php?page=menNHL&amp;groupName=MenNHL">NHL</a></li>
+				<li><a href="/nshop/product.php?groupName=MenAHL&amp;view=listing&amp;useGN=1">AHL</a></li>
 				<li><a href="/landing.php?page=menNBA&amp;groupName=MenNBA">NBA</a></li>
 				<li><a href="/nshop/product.php?groupName=Football&amp;view=listing&amp;useGN=1">FOOTBALL</a></li>
-				<li><a href="/landing.php?page=MenGolf&amp;groupName=MenGolf">GOLF</a></li>
 				<li><a href="/landing.php?page=menCollege&amp;groupName=MenCollege">College</a></li>
 				<li><a href="/landing.php?page=men59Fifty&amp;groupName=Men59FIFTY">59FIFTY</a></li>
 				<li><a href="/nshop/product.php?groupName=Men39THIRTY&amp;view=listing&amp;useGN=1">39THIRTY</a></li>
@@ -203,6 +231,7 @@
 				<li><a href="/nshop/product.php?groupName=WomenCollege&amp;view=listing&amp;useGN=1">COLLEGE</a></li>
 				<li><a href="/nshop/product.php?groupName=Women59FIFTY&amp;view=listing&amp;useGN=1">59FIFTY</a></li>
 				<li><a href="/landing.php?page=EK&amp;groupName=EKbyNewERA">EK Collection</a></li>
+				<li><a href="/nshop/product.php?groupName=WomenApparel&amp;view=listing&amp;useGN=1">Apparel</a></li>
 		</ul>
 	</div>
 </div>
@@ -210,6 +239,7 @@
 <div id="kidsDropNav" class="dropNav">
 	<div class="boxcontent" id="kidsnav">
 	    <ul style="padding-bottom:10px;padding-top:5px;">
+				<li><a href="/nshop/product.php?groupName=Infants&amp;view=listing&amp;useGN=1">Infants</a></li>
 				<li><a href="/nshop/product.php?groupName=Toddlers&amp;view=listing&amp;useGN=1">Toddlers</a></li>
 				<li><a href="/nshop/product.php?groupName=Child&amp;view=listing&amp;useGN=1">Child</a></li>
 				<li><a href="/nshop/product.php?hatGroup=&amp;hatFit=viewall&amp;groupName=Youth&amp;view=listing&amp;searchBy=fit&amp;prevHatGroup=&amp;prevHatFit=57&amp;resetDropDown=hatGroup">Youth</a></li>
@@ -220,13 +250,11 @@
 <div id="apparelDropNav" class="dropNav">
 	<div class="boxcontent" id="apparelnav">
 	    <ul style="padding-bottom:10px;padding-top:5px;">
-				<li><a href="/nshop/product.php?hatGroup=306&amp;hatFit=&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=viewall&amp;prevHatFit=&amp;resetDropDown=hatFit">59FIFTY Tees</a></li>
-				<li><a href="/nshop/product.php?hatGroup=1218&amp;hatFit=&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=&amp;prevHatFit=&amp;resetDropDown=hatFit">MLB Apparel</a></li>
-				<li><a href="/nshop/product.php?hatGroup=297&amp;hatFit=&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=&amp;prevHatFit=&amp;resetDropDown=hatFit">Black Collection</a></li>
-				<li><a href="/nshop/product.php?hatGroup=296&amp;hatFit=&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=297&amp;prevHatFit=&amp;resetDropDown=hatFit">Red Collection</a></li>
-				<li><a href="/nshop/product.php?hatGroup=295&amp;hatFit=&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=296&amp;prevHatFit=&amp;resetDropDown=hatFit">Fuschia Collection</a></li>
-				<li><a href="/nshop/product.php?hatGroup=298&amp;hatFit=&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=296&amp;prevHatFit=&amp;resetDropDown=hatFit">Tradition Collection</a></li>
-				<li><a href="/nshop/product.php?page=viewall&amp;hatGroup=viewall&amp;hatFit=&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=&amp;prevHatFit=&amp;resetDropDown=hatFit">View All</a></li>
+				<li><a href="/nshop/product.php?hatGroup=&amp;hatFit=69&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=fit&amp;prevHatGroup=&amp;prevHatFit=71&amp;resetDropDown=hatGroup">Hoodies</a></li>
+				<li><a href="/nshop/product.php?hatGroup=&amp;hatFit=71&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=fit&amp;prevHatGroup=&amp;prevHatFit=69&amp;resetDropDown=hatGroup">Jackets</a></li>
+				<li><a href="/nshop/product.php?hatGroup=&amp;hatFit=70&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=fit&amp;prevHatGroup=&amp;prevHatFit=71&amp;resetDropDown=hatGroup">Pants</a></li>
+				<li><a href="/nshop/product.php?hatGroup=&amp;hatFit=73&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=fit&amp;prevHatGroup=&amp;prevHatFit=70&amp;resetDropDown=hatGroup">Polos</a></li>
+				<li><a href="/nshop/product.php?hatGroup=&amp;hatFit=68&amp;groupName=MenApparel&amp;view=listing&amp;searchBy=fit&amp;prevHatGroup=&amp;prevHatFit=73&amp;resetDropDown=hatGroup">Tees</a></li>
 		</ul>
 	</div>
 </div>
@@ -236,7 +264,8 @@
 	    <ul style="padding-bottom:10px;padding-top:5px;">
 				<li><a href="/nshop/product.php?hatGroup=222&amp;groupName=CapCarriers&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=&amp;prevHatFit=&amp;resetDropDown=hatFit">Cap Carriers</a></li>
 				<li><a href="/nshop/product.php?hatGroup=283&amp;groupName=CapCarriers&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=222&amp;prevHatFit=&amp;resetDropDown=hatFit">Cap Brush</a></li>
-				<li><a href="/nshop/product.php?hatGroup=308&amp;groupName=ReCapKit&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=222&amp;prevHatFit=&amp;resetDropDown=hatFit">Re-Cap Kit</a></li>
+				<li><a href="/nshop/product.php?hatGroup=308&amp;groupName=CapCarriers&amp;view=listing&amp;searchBy=group&amp;prevHatGroup=222&amp;prevHatFit=&amp;resetDropDown=hatFit">Re-Cap Kit</a></li>
+				<li><a href="/nshop/product.php?groupName=Collectables&amp;view=listing&amp;useGN=1">Mini Collectables</a></li>
 		</ul>
 	</div>
 </div>
@@ -247,7 +276,7 @@
 				<li><a href="http://www2.neweracap.com/category/14/About_New_Era/page/119/HISTORY.aspx">History</a></li>
 				<li><a href="http://pressroom.neweracap.com/">Pressroom</a></li>
 				<li><a href="http://www2.neweracap.com/category/9/GENERAL/page/287/NEW_ERA_VIDEO_ARCHIVE.aspx">Video</a></li>
-				<li><a href="https://careers.neweracap.com/">Careers</a></li>
+				<li><a href="http://www2.neweracap.com/category/9/GENERAL/page/303/CAREERS_AT_NEW_ERA.aspx">Careers</a></li>
 				<li><a href="/contests">Contests</a></li>
 				<li><a href="http://www2.neweracap.com/category/14/About_New_Era/page/243/BUY_CAPS_FOR_YOUR_CORPORATION.aspx">BUY CAPS FOR YOUR CORPORATION</a></li>
 				<li><a href="http://www2.neweracap.com/category/14/About_New_Era/page/141/Corporate_Team_Sales.aspx">BUY CAPS FOR YOUR TEAM</a></li>
@@ -268,6 +297,7 @@
 		</ul>
 	</div>
 </div>
+               	
 	<div id="bodyContainer">
 		<span id="navContent" onmouseover="ddToggle(this.id,'open');" onmouseout="ddToggle(this.id,'close');"> </span>
 
@@ -376,17 +406,17 @@ new Control.Modal('SameDay');
 	</a><div id="footContainer"><a href="#top" style="color: #333366;text-decoration: underline;">
 		</a><div id="footerNav"><a href="#top" style="color: #333366;text-decoration: underline;">
 						</a><a href="https://cli.linksynergy.com/cli/publisher/registration/registration.php" target="_blank">Affiliate Program</a>
-    		&nbsp;•&nbsp;			<a href="https://careers.neweracap.com/" target="_blank">Careers</a>
+    		&nbsp;•&nbsp;			<a href="http://www2.neweracap.com/category/9/GENERAL/page/303/CAREERS_AT_NEW_ERA.aspx">Careers</a>
 			&nbsp;•&nbsp;			<a href="http://www.new.facebook.com/pages/New-Era-Caps/7157811926" target="_blank">Facebook</a>
 			&nbsp;•&nbsp;			<a href="http://www.myspace.com/neweranewyork" target="_blank">Myspace</a>
 			&nbsp;•&nbsp;			<a href="http://twitter.com/New_Era_Buffalo" target="_blank">Twitter</a>
-					&nbsp;•&nbsp;					<a href="http://www.youtube.com/Neweracapcompanyinc" target="_blank">YouTube</a>
-					&nbsp;•&nbsp;            <a href="http://www2.neweracap.com/category/9/GENERAL/page/252/NEW_ERA_FLAGSHIP_STORE_LOCATIONS.aspx">Store Locator</a>
+			&nbsp;•&nbsp;			<a href="http://www.youtube.com/Neweracapcompanyinc" target="_blank">YouTube</a>
+			&nbsp;•&nbsp;            <a href="http://www2.neweracap.com/category/9/GENERAL/page/252/NEW_ERA_FLAGSHIP_STORE_LOCATIONS.aspx">Store Locator</a>
 			&nbsp;•&nbsp;			<a href="/infoPages/privacy.php?footDept=privacy" class="nav_activeFooter">Privacy Policy</a>
         	&nbsp;•&nbsp;        	<a href="/infoPages/terms.php?footDept=tandc">Terms Of Use</a>
         	&nbsp;•&nbsp;        	<a href="/infoPages/contact.php?footDept=contactUs">Contact Us</a>
         	&nbsp;•&nbsp;		</div><!--footerNav-->
-		<div id="footerBase">© Copyright 2008 neweracap.com</div><!--footerBase-->
+		<div id="footerBase">© Copyright 2010 neweracap.com</div><!--footerBase-->
 		<div id="footerLogo"><a href="http://www.efashionsolutions.com" target="_blank"><img class="alpha" src="/images/base/efs_logo.png" alt="Powered by eFashionSolutions" title="Powered by eFashionSolutions" border="0" width="97" height="19"></a></div><!--footerLogo-->
 	</div><!--footContainer-->
 </div><!--mainContainer-->
@@ -397,7 +427,7 @@ var s_account="efashionnewera";
 //--></script>
 <script language="JavaScript" src="//www.neweracap.com/assets/js/com/omniture/util/sitecatalyst/s_code.js"></script>
 <script language="JavaScript"><!--
-s.server="192.168.100.208";
+s.server="172.16.101.208";
 s.pageName="newera:customer info: privacy policy";
 s.channel="";
 s.prop1="";
