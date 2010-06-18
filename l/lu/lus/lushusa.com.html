@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lushusa.com privacy policy that was archived on 2009-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226233905id_/http%3A//www.lushusa.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lushusa.com privacy policy that was archived on 2010-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619001455id_/http%3A//www.lushusa.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <title>LUSH Cosmetics: Customer Care &gt; Privacy Policy</title>
@@ -17,16 +17,33 @@
 
 
 
-
-
 <style type="text/css" media="screen">
 <!--
- @import url("/css/reset.css");
- @import url("/css/layout.css");
-  @import url("/css/main.css");
+	@import url("/css/reset.css");
+	@import url("/css/layout4.0.css");
+	@import url("/css/main4.0.css");
 -->
 </style>
-<link rel="stylesheet" type="text/css" media="all" href="/css/jScrollPaneCat.css">
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/superfish.css"> 
+<link rel="stylesheet" type="text/css" media="screen" href="/css/topdrops.css"> 
+
+
+
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cycle.all.2.72.js"></script>
+<script type="text/javascript" src="/js/jqueryEasing.js"></script>
+<script type="text/javascript" src="/js/jquery.tools.1.1.2.min.js"></script>
+<script type="text/javascript" src="/js/tooltips.imgs.js"></script>
+<script type="text/javascript" src="/js/jCarouselLite.js"></script>
+<script type="text/javascript" src="/js/jquery.showcase.1.0.js"></script>
+<script type="text/javascript" src="/js/jScrollPane.js"></script>
+<script type="text/javascript" src="/js/superfish.js"></script>
+<script type="text/javascript" src="/js/fade-req-2.js"></script>
+<script type="text/javascript" src="/js/jquery.tipsy.js"></script>
 
 
 
@@ -34,47 +51,65 @@
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
+ <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-3968820-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<script type="text/javascript" src="/includes/js/jQuery/jquery.taconite.min.js"></script>
+
+<!--(if lt IE 7)>
+ <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" 
+ type="text/javascript">
+ </script>
+ <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7-squish.js" 
+ type="text/javascript">
+ </script>
+<!(endif)-->
+
 <script type="text/javascript">
-$j=jQuery;
+    $(function() {
+	  $('.p-vegan').tipsy({gravity: 'w'});   
+    });
+	 $(function() {
+	  $('.p-melt').tipsy({gravity: 'w'});   
+    });
+	 $(function() {
+	  $('.prod-scroll').tipsy({gravity: 'n'});   
+    });
+	function clearForm(ElementName) { document.getElementById(ElementName.id).value = ""; }
+  </script>
+<script type="text/javascript">
+$.fn.cycle.defaults.timeout = 10000;
+$(function() {
+    $('#s6').cycle({
+    fx:     'fade',
+    timeout: 10000
+    });
+});
 </script>
 
 
-
-<script type="text/javascript" src="/js/jqueryLatest.js"></script>
-<script src="/js/jCarouselLite.js" type="text/javascript"></script>
-<!--<script src="/js/jqueryEasing.js" type="text/javascript"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>-->
-<script src="/js/jquery.showcase.1.0.js" type="text/javascript"></script>
-<script type="text/javascript" src="/js/dropdown.js"></script> 
-<script type="text/javascript" src="/js/jquery.maphilight.min.js"></script>
-<script type="text/javascript" src="/js/jScrollPane.js"></script>
-
-	<script type="text/javascript">
-	function qty(multiplier) {
-		var qty = parseInt(document.count.qty.value) + parseInt(multiplier);
-		if (qty == 0 || isNaN(qty)==true) {qty = 1;}
-		document.count.qty.value = qty;
-	}
-	$(function() {
-		$('.map').maphilight({fade: true});
-		
-	});
-		$(function()
-	{
+<script type="text/javascript">
+	// initialise plugins
+	jQuery(function(){
+		jQuery('ul.sf-menu').superfish();
 		$('#range-description').jScrollPane({showArrows:true});
 	});
-	function clearForm(ElementName) { document.getElementById(ElementName.id).value = ""; }
-	
-</script>
+</script>	
 
-
-
+<script type="text/javascript">
+	// initialise plugins
+	jQuery(function(){
+		jQuery('ul.sf-menu-top').superfish();
+		$('#range-description').jScrollPane({showArrows:true});
+		
+	});
+		jQuery(function(){
+		jQuery('ul.sf-menu-news').superfish();
+		$('#range-description').jScrollPane({showArrows:true});
+		
+	});
+</script>	
 
 
 
@@ -83,12 +118,12 @@ $j=jQuery;
 </head>
 <body>
  
-<div id="site-cap-inner-top" class="inner">
-
 	
 	
-
-
+<div id="inner-shell">	
+	
+	
+	
 <div id="where">
 			<p>Visit another LUSH site:</p>
 			<ul>
@@ -100,268 +135,370 @@ $j=jQuery;
 				</li>
 				
 			</ul>
-			</div>
-			<br class="clear">
+</div>
+<br class="clear">
+	
+	
+  <div class="header-cap">
+ 
+ <div id="logo-box">
+  <a href="/shop/">
+ <img src="/images/header/lush_logo.png" class="cap-logo" alt="LUSH">
+  </a>
+  </div>
+  
+ <div id="header-quicklinks">
+ <ul class="sf-menu-news sf-js-enabled sf-shadow">
+  <li class="top-down-off"> 
+ <a href="/shop/find/">Shop Locator</a>
+  </li>
+
+  
+ 
+   <li class="top-down-off"> 
+  <a href="/shop/about-us/">About LUSH</a>
+  </li>
+  <li class="top-down"> 
+				<a href="#a" class="top-drop-link sf-with-ul" style="cursor:default;">Lush Catalog
+				<span class="sf-sub-indicator"> »</span></a>
+				<ul style="width: 230px; background: none 0px center; display: none; visibility: hidden;" class="sf-shadow-off">
+					<li class="news-drop" style="padding:20px;padding-top:13px;z-index:9999;right:95px;">
+				
+				
+				<h3 style="color:#000;">Lush Times Catalog Signup</h3>
+				<p style="font-size:11px;">Each catalog includes fun product listings, and highlights new products and exciting things going on in our company. </p>
 			
+				<form method="post" action="/shop/lush-times/sign-up/createaccount.html">
+					<input name="llemail" type="text" id="catalog" value="Enter your email..." onfocus="clearForm(this);">
+					<input type="submit" name="ll-signup-button" value="sign up">
+				</form>
+				  </li>
+				</ul>
+		</li>
+  <li class="top-down"> 
+				<a href="#a" class="top-drop-link sf-with-ul" style="cursor:default;">Newsletter
+				<span class="sf-sub-indicator"> »</span></a>
+				<ul style="width: 230px; background: none 0px center; display: none; visibility: hidden;" class="sf-shadow-off">
+					<li class="news-drop" style="padding:20px;padding-top:13px;z-index:9999;right:95px;">
+				
+				
+				<h3 style="color:#000;">Newsletter Signup</h3>
+				<p style="font-size:11px;">Sign up for the LUSH newsletter and receive exclusive content and offers!</p>
+			
+				<form method="post" action="/shop/lush-life/">
+					<input name="llemail" type="text" id="news" value="Enter your email..." onfocus="clearForm(this);">
+					<input type="submit" name="ll-signup-button" value="sign up">
+				</form>
+				  </li>
+				</ul>
+				</li>
+				
+			  <li class="top-down-off">
+			  <a href="/shop/account/createaccount-us.html">Wishlist</a>
+			  </li>
+     <li class="top-down-off" style="border:0 none;font-weight:bold;padding-top:6px;">
+     	Call Us: 1-888-733-5874
+  </li>
+ </ul> 
+ </div>
+  
+  
+<div id="sign-in-flt">  
+
+	<ul class="sf-menu-top sf-js-enabled sf-shadow">
+	
+	
+	
+			<li class="top-down-basket">
+				<a href="#a" class="top-drop-link sf-with-ul" style="cursor:default"><span class="basket-icon"><img src="/images/shopping-basket-top-trans.png" alt="My Basket"></span>My Basket<span class="sf-sub-indicator"> »</span></a>
+				<ul style="width: 230px; background: none 0px center; display: none; visibility: hidden;" class="sf-shadow-off">
+					<li id="basket-drop">
+						
+	             <div id="basketTitleWrap">
+				  My Basket
+				</div>
+				
+				
+					<form action="/cgi-bin/shop/process.html" method="post">
+<input type="hidden" name="mv_nextpage" value="bag">
+<input type="hidden" name="mv_todo" value="refresh">
+<br>
+<table cellpadding="1" border="0" width="230px" style="background:#fff"> 
+ 
+
 		
-			
-			</div>
-			
-<div id="inner-shell">	
-  <div id="header">	
-<div id="header-signup">
-				<table width="960" class="sign-table">
-			
-			
-				
-				<tbody><tr>
-				<td>
-				<div style="display:block;float:left;width:85px;color:#999999;font-size:11px;">
-				Search
-				</div>
-				<div style="color:#FF0000;font-size:11px;position:relative;padding-right:5px;"><a href="/shop/search/" style="text-decoration:underline">Advanced Search</a> </div>
-				</td>
-				<td colspan="2" style="padding-left:2px;float:right">
-				
-				<div id="srch">
-						Password
-			
-				</div>
-				<div style="display:block;float:right;width:100px;margin-left:0px;color:#999999;font-size:11px;margin-right:50px;">
-			Username
-				</div>
-				</td>
-				</tr>
-					<tr>
-						<td valign="top" align="left" width="230"><form action="/shop/results/" method="post" accept-charset="utf-8">
-								<input type="hidden" name="searchtype" value="description">
-								<input onfocus="clearForm(this);" type="text" id="searchVal" name="searchfor" class="text-input-hd" maxlength="25" value="Enter keyword...">
-								<input type="image" name="header-search-button" id="header-search-button" src="/images/go-button.jpg" alt="Go">
-							</form></td>
-						<td valign="top" align="right">
+		
+		
+	
 
-<form action="/cgi-bin/shop/process.html" method="post" style="float:right">
-								<input type="hidden" name="mv_todo" value="return">
-								<input type="hidden" name="mv_click" value="Login">
-								<input type="hidden" name="mv_failpage" value="/account/sign-in.html">
-								<input type="hidden" name="mv_successpage" value="customerservice">
-								<input type="hidden" name="mv_nextpage" value="index">
-								
-								<input type="text" id="email" name="mv_username" class="text-input-hd" maxlength="25" value="">
-								
-								<input type="password" id="password" name="mv_password" class="text-input-hd" maxlength="25">
-								<input type="image" name="header-login-button" id="header-login-button" alt="Go" src="/images/go-button.jpg">
-							</form>
+	<tbody><tr>
+	<td style="height:20px">
+	</td>
+</tr>
+	
+	<tr>	
+		
+		<td colspan="3" style="text-align:left;font-weight:bold;padding-top:0px;padding-left:10px;" valign="bottom">
+		<br class="clear">
+		<strong style="font-weight:bold">Subtotal: $0.00</strong>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="3" align="right" style="text-align:right;">
+		<br>
+		<a href="&#10;https://secure.lushusa.com&#10;/shop/g/chek/1" class="register-top" style="text-decoration:underline;">Checkout</a>
+		</td>
+	</tr>
+</tbody></table>
+	</form>		
+					</li>
+					
+				</ul>
+			</li>
+			
+				<li class="top-down">
+				<a href="#a" class="top-drop-link sf-with-ul" style="cursor:default">
+				
+				<span class="sign-icon"><img src="/images/arrow-down-top-trans.png" alt=""></span>Sign In 
+				 <span class="sf-sub-indicator"> »</span></a>
+				  <ul style="width: 230px; background: none 0px center; display: none; visibility: hidden;" id="sign-in" class="sf-shadow-off">
+					
+					
+					
+		
+		 
+		 <li class="sign-shift">
+  <form name="signin" action="/cgi-bin/shop/process.html" method="post" accept-charset="utf-8" id="signin">
+	<input type="hidden" name="mv_todo" value="return">
+	<input type="hidden" name="mv_click" value="Login">
+	<input type="hidden" name="mv_failpage" value="/account/sign-in.html">
+	<input type="hidden" name="mv_successpage" value="customerservice">
+	<input type="hidden" name="mv_nextpage" value="index">
+	
+	<a href="/shop/account/createaccount-us.html" class="register-top" style="text-decoration:underline;">Register</a>
+					
+	<label for="email" style="color:#000" title="If you remember your password, try logging in with your email">Username</label>
+	<input id="email" name="mv_username" value="" title="username" tabindex="4" type="text">
+	
+	<p>
+	<label for="password">Password</label>
+	<input id="password" name="mv_password" value="" title="password" tabindex="5" type="password">
+	</p>
+	<p class="remember">
+	<input id="signin_submit" value="Sign In" tabindex="6" type="submit">
+	
 
-<div style="float:right;margin-right:10px;">
-<small><a href="/shop/account/createaccount-us.html">Register</a></small>
+	</p>
+	<p class="forgot"> <a href="/shop/account/lost-pass/" id="resend_password_link" class="forgot" style="font-size:11px;text-transform:none;">Forgot your password?</a> </p>
+	
+	<!-- 
+	<p class="forgot-username"> <A id=forgot_username_link 
+	title="If you remember your password, try logging in with your email" 
+	href="#">Forgot your username?</A> </p>
+	-->
+	</form>
+                     
+   </li>		
+	
+					
+				</ul>
+			</li>
+				
+		</ul>
+<!--		
+		
+<ul class="sf-menu" >
+
+	<li style="padding:0;" > <a href="#" class="category-sign" style="color:#FFF;font-size:11px;font-weight:bold;"><div style="position:relative;width:5px;height:5px;float:right;margin:0px 0px 0px 4px;"><img src="/images/login/toggle_down_light.png"/></div> My Basket  </a>
+		<ul style="width:230px;background:0 none;" id="sign-in">
+	 
+		  <li style="position:relative;right:145px;background-color:#FFF;color:#000;padding:10px;;margin-top:0;border:1px solid #EBEBEB;">
+	      
+		  		
+		  </li>
+		
+		</ul>
+	 
+	 
+	</li>
+	<li  style="padding:0;margin-left:5px;"><a href="#" class="category-sign" style="color:#FFF;font-size:11px;font-weight:bold;"><div style="position:relative;width:5px;height:5px;float:right;margin:1px 0px 0px 4px;"><img src="/images/login/toggle_down_light.png"/></div>Sign In </a>
+
+		
+     	<ul style="width:230px;background:0 none;" id="sign-in">
+	   
+	      <li style="position:relative;right:145px;background-color:#FFF;color:#000;padding:10px;;margin-top:0;border:1px solid #EBEBEB;">
+		  
+		  </li>
+					
+					
+      </ul>
+	</li>
+
+</ul>
+-->
+</div>
 
 </div>
-</td>
-<td>
-	<div id="site-cap-inner" class="inner">	
-			<ul>
-			
-<li class="last">
 
-</li>
+  <div id="header">
+    <div id="search-box">
+			<form action="/shop/results/" method="post" accept-charset="utf-8">
+			<input type="hidden" name="searchtype" value="description">
+			<input onfocus="clearForm(this);" type="text" id="searchVal" name="searchfor" class="search-input" style="font-size:12px!important;height:16px;" maxlength="25" value="Enter keyword...">
+			<input type="image" name="header-search-button" id="header-search-button" style="position:relative;float:left;width:30px;height:25px;" src="/images/search-button-black.jpg" alt="Go">
+			</form>
+		</div>
 
-			</ul></div>
-</td>
-					</tr>
-		
-				</tbody></table>
+			<div id="header-announce"><p><a href="/customers/about-shipping/"><span class="embiggen">New</span> lower shipping rates!</a> $8 Two-Day Shipping for orders under 6 lbs
+				</p></div>
 				
-				
-			</div>
-		
-		<div class="content">
-			
-           <a href="/shop/" id="logo-link"><img src="/images/logo-link.jpg"></a>
+  <a href="/shop/">
+ <img src="/images/header/logo_text_en.gif" class="logo-text" alt="LUSH Fresh Handmade Cosmetics">
+  </a>
 
-			
-			
-			 <div class="dock-container">
-			
-			
-			
-				  <div id="menu">
-				 
-					<div id="nav">
-					  
+	
+  	<div id="nav">
+	 
 
 
+<ul class="sf-menu sf-js-enabled sf-shadow">
 
-<dl class="dropdown-xmas">
-<dt id="xmas"><a href="/shop/products/xmas/" id="xmas" class="selected"></a></dt>
-
-</dl> 
-
-<dl class="dropdown-bath">
-<dt id="one-ddheader" onmouseover="ddMenu('one',1)" onmouseout="ddMenu('one',-1)"><a style="cursor:default" id="bath" class="selected"></a></dt>
-<dd id="one-ddcontent" onmouseover="cancelHide('one')" onmouseout="ddMenu('one',-1)">
-					<ul>
-						
-						<li><a href="/shop/products/bath/bath-bombs/" class="underline">Bath Bombs</a></li>
+	<li class=""><a href="#" class="category sf-with-ul">Bath<span class="sf-sub-indicator"> »</span></a>
+		<ul class="drop" style="display: none; visibility: hidden;">
+				<li class="current"><a href="/shop/products/bath/bath-bombs/" class="underline">Bath Bombs</a></li>
 						<li><a href="/shop/products/bath/bubble-bars/" class="underline">Bubble Bars</a></li>
 						<li><a href="/shop/products/bath/bath-melts/" class="underline">Bath Melts</a></li>
 						<li><a href="/shop/products/bath/soap/">Soap</a></li>
 					
-						<li>&nbsp;</li>
-					</ul>
-				</dd>
-</dl> 
-<dl class="dropdown-shower">
+					
+           </ul>
+	</li><li class="category"><a href="#" class="category sf-with-ul">Shower<span class="sf-sub-indicator"> »</span></a>
 
-				<dt id="two-ddheader" onmouseover="ddMenu('two',1)" onmouseout="ddMenu('two',-1)">
-<a style="cursor:default" id="shower"></a></dt>
-				<dd id="two-ddcontent" onmouseover="cancelHide('two')" onmouseout="ddMenu('two',-1)">
-					<ul>			
-							<li><a href="/shop/products/shower/buttercreams/" class="underline">Buttercreams</a></li>
+		<ul style="display: none; visibility: hidden;">
 						<li><a href="/shop/products/shower/shower-jellies/" class="underline">Shower Jellies</a></li>
 						<li><a href="/shop/products/shower/shower-gels/" class="underline">Shower Gels &amp; Smoothies</a></li>
 						<li><a href="/shop/products/bath/emotibombs/" class="underline">Emotibombs</a></li>
-							<li><a href="/shop/products/shower/sugar-scrubs/" class="underline">Sugar Scrubs</a></li>
-						<li><a href="/shop/products/bath/soap/">Soap</a></li>
-						
+						<li><a href="/shop/products/shower/sugar-scrubs/" class="underline">Sugar Scrubs</a></li>
+						<li><a href="/shop/products/bath/soap/">Soap</a></li>			
+		</ul>
+	</li>
 
-						<li>&nbsp;</li>
-					</ul>
-				</dd>
-			</dl>
-<dl class="dropdown-hair">
-
-				<dt id="three-ddheader" onmouseover="ddMenu('three',1)" onmouseout="ddMenu('three',-1)"><a style="cursor:default" id="hair"></a></dt>
-				<dd id="three-ddcontent" onmouseover="cancelHide('three')" onmouseout="ddMenu('three',-1)">
-					<ul>
-						
-						<li><a href="/shop/products/haircare/bottled-shampoos" class="underline">Bottled Shampoos</a></li>
+	<li class="category"><a href="#" class="category sf-with-ul">Hair<span class="sf-sub-indicator"> »</span></a>
+		<ul class="drop" style="display: none; visibility: hidden;">
+			<li><a href="/shop/products/haircare/bottled-shampoos" class="underline">Bottled Shampoos</a></li>
 						<li><a href="/shop/products/haircare/solid-shampoos/" class="underline">Solid Shampoos</a></li>
 						<li><a href="/shop/products/haircare/conditioners/" class="underline">Conditioners</a></li>
 						<li><a href="/shop/products/haircare/hair-treatments/" class="underline">Hair Treatments</a></li>
 						<li><a href="/shop/products/haircare/styling-gels/" class="underline">Styling Gels</a></li>
 						<li><a href="/shop/products/haircare/henna-hair-dyes/">Henna 
 Hair Dyes</a></li>
-						<li>&nbsp;</li>
-					</ul>
-				</dd>
-			</dl>
+						
 
-			<dl class="dropdown-skincare">
-				<dt id="four-ddheader" onmouseover="ddMenu('four',1)" onmouseout="ddMenu('four',-1)"><a style="cursor:default" id="skincare"></a></dt>
-				<dd id="four-ddcontent" onmouseover="cancelHide('four')" onmouseout="ddMenu('four',-1)">
-					
-					<div id="drop-left">
-					 <div class="cat-nav">Face</div>
-					<ul>	
-						<li><a href="/shop/products/face/shaving-creams/" class="underline">Shaving Creams</a></li>
-						<li><a href="/shop/products/face/cleansers/" class="underline">Cleansers</a></li>
-						<li><a href="/shop/products/face/toners-toner-tabs/" class="underline">Toners</a></li>
-						<li><a href="/shop/products/face/lip-balms/" class="underline">Lip Balms</a></li>
-						<li><a href="/shop/products/face/moisturisers/">Moisturisers</a></li>
-						<li>&nbsp;</li>
-					</ul>
-					</div>
-					<div id="drop-right">
-						<div class="cat-nav">Body</div>
-				     <ul>	
+		</ul>
+	</li>
+	
+
+	
+	<li class="category"><a href="#" class="category sf-with-ul">Skincare<span class="sf-sub-indicator"> »</span></a>
+		
+		<ul class="drop" style="display: none; visibility: hidden;">
+				
+				<li class=""><a href="#" class="sf-with-ul">Face<span class="sf-sub-indicator"> »</span></a>
+						<ul class="drop-two" style="display: none; visibility: hidden;">
+
+							<li><a href="/shop/products/face/shaving-creams/" class="underline">Shaving Creams</a></li>
+							<li><a href="/shop/products/face/cleansers/" class="underline">Cleansers</a></li>
+							<li><a href="/shop/products/face/toners-toner-tabs/" class="underline">Toners</a></li>
+							<li><a href="/shop/products/face/lip-balms-and-scrubs/" class="underline">Lip Balms &amp; Scrubs</a></li>
+							<li><a href="/shop/products/face/moisturisers/">Moisturizers</a></li>
+						
+						<li><a href="/shop/products/face/serums">Serums</a></li>
+						<li><a href="/shop/products/face/colour-supplements/">Colour Supplements</a></li>
+						</ul> 
+						
+
+				</li>
+
+                <li class=""><a href="#" class="sf-with-ul">Body<span class="sf-sub-indicator"> »</span></a>
+
+  <ul class="drop-two" style="display: none; visibility: hidden;">	
 						<li><a href="/shop/products/body/dusting-powders/" class="underline">Dusting Powders</a></li>
 						<li><a href="/shop/products/body/deodorants/" class="underline">Deodorants</a></li>
 						<li><a href="/shop/products/body/massage-bars/" class="underline">Massage Bars</a></li>
 						<li><a href="/shop/products/body/body-butters/" class="underline">Body Butters</a></li>
 						<li><a href="/shop/products/body/hand-and-body-creams/" class="underline">Hand &amp; Body Creams</a></li>
 						<li><a href="/shop/products/body/foot-care/">Foot Care</a></li>
-						<li>&nbsp;</li>
+						
 					 </ul>
-					</div>
-				</dd>
-			</dl>
-
-			<dl class="dropdown-fragrance">
-				<dt id="five-ddheader" onmouseover="ddMenu('five',1)" onmouseout="ddMenu('five',-1)"><a style="cursor:default" id="fragrance"></a></dt>
-				<dd id="five-ddcontent" onmouseover="cancelHide('five')" onmouseout="ddMenu('five',-1)">
-					<ul>
-						<li><a href="/shop/products/fragrance/solid-perfumes" class="underline">Solid Fragrances</a></li>
-						<li><a href="/shop/products/fragrance/liquid-perfumes">Fragrances</a></li>
-						
-					</ul>
-				</dd>
-			</dl>
-
-			<dl class="dropdown-gifts">
-				<dt id="six-ddheader" onmouseover="ddMenu('six',1)" onmouseout="ddMenu('six',-1)"><a href="/shop/products/gifts/wrapped/" id="gifts"></a></dt>
-					<dd id="six-ddcontent" onmouseover="cancelHide('six')" onmouseout="ddMenu('six',-1)">
-					<ul>
+	 
+               </li>
 				
-						<li><a href="/shop/products/gifts/gift-cards" class="underline">Gift Cards</a></li>
-						<li><a href="/shop/products/gifts/bags-accessories" class="underline">Accessories</a></li>
-						<li><a href="/shop/products/gifts/wrapped">Wrapped Gifts</a></li>
-						<li>&nbsp;</li>
-					</ul>
-				</dd>
-			</dl>
-			<dl class="dropdown-retro">
-				<dt id="seven-ddheader" onmouseover="ddMenu('seven',1)" onmouseout="ddMenu('seven',-1)"><a href="/shop/products/retro" id="retro"></a></dt>
-				<!--<dd id="seven-ddcontent" onmouseover="cancelHide('seven')" onmouseout="ddMenu('seven',-1)">
-					<ul>
-						
-					</ul>
-				</dd>-->
-			</dl>
-		
+
+		</ul>
+	</li>
 
 
 
 
-					   <div id="basket-link">
-					<a href="/shop/bag/" id="view-bskt"><img src="/images/basket.jpg" title="Check your basket!"> </a>
-					</div>
-					</div> 
-					
-					<div class="nav2" style="top:7px;left:10px;">
-					   
-	<a href="/shop/lushopedia/"><img src="/images/quicklinks/lushopedia-nav.jpg" alt="Lushopedia, all the ingredients we use"></a>
-						<a href="/shop/about-us/no-animal-testing/"><img src="/images/quicklinks/stillagainst-nav.jpg" alt="no animal testing"></a>
-						<a href="/shop/charity-pot/map/index.html"><img src="/images/quicklinks/charitypot-nav.jpg" alt="charity support"></a>		
-							<a href="http://forum.lush.com/forum/"><img src="/images/quicklinks/forum-nav.jpg" alt="LUSH Forum"></a>
-						<a href="/shop/about/believe/"><img src="/images/quicklinks/webelieve-nav.jpg" alt="Lush life, what we believe in at lush"></a>	
-						<a href="/about/spas/"><img src="/images/quicklinks/spa-nav.jpg" alt="Lush Spas"></a>
-						<a href="/shop/myshops/"><img src="/images/quicklinks/myshops-nav.jpg" alt="find your nearest lush store" style="margin-top: 2px;"></a>
-						<a href="/shop/find/"><img src="/images/quicklinks/store-locator.jpg" alt="Store Locator" style="margin-top:4px;"></a> 
-						
+	<li class="category"><a href="#" class="category sf-with-ul">Fragrances<span class="sf-sub-indicator"> »</span></a>
+	
+			<ul class="drop" style="display: none; visibility: hidden;">
+			<li><a href="/shop/products/fragrance/solid-perfumes" class="underline">Solid Fragrances</a></li>
+			<li><a href="/shop/products/fragrance/liquid-perfumes">Fragrances</a></li>				
+			</ul>
+	
+	</li>
 
-					</div>
-					<div class="basket-contents">
-                       <div id="items">
-Items 
-
-0
-</div>
-
-
-
-
- <div class="check">
-<a class="bc" href="&#10;https://secure.lushusa.com&#10;/shop/g/chek/1">Checkout</a>
-</div>
-
-
-
-<div class="sac">
-<a class="bc" href="/shop/account/wishlist">Wishlist</a>
-</div>
-
-					</div>
-               	  </div>
-					
-			</div>
+	<li class="category"><a href="#" class="category sf-with-ul">Gifts<span class="sf-sub-indicator"> »</span></a>
+	
+				<ul class="drop" style="display: none; visibility: hidden;">
+				<li><a href="/shop/products/gifts/gift-cards" class="underline">Gift Cards</a></li>
+				<li><a href="/shop/products/gifts/bags-accessories" class="underline">Accessories</a></li>
+				<li><a href="/shop/products/gifts/wrapped">Wrapped Gifts</a></li>
 			
-		</div>
-		
-	</div>
+				</ul>
+	
+	
+	</li>
+	<li class="category"><a href="/shop/products/retro/" class="category sf-with-ul">Retro<span class="sf-sub-indicator"> »</span></a>
+			<ul style="display: none; visibility: hidden;">
+			
+			<li></li>
+				</ul>
+	
+	
+	</li>
+     <li class="category"><a href="/shop/fathers-day/" class="category sf-with-ul">For Dads<span class="sf-sub-indicator"> »</span></a>
+			<ul style="display: none; visibility: hidden;">
+				
+				<li></li>
+				</ul>
+	
+	
+	</li>
+
+</ul>
+
+
+
+
+
+
+
+	</div> 
+  
+
+
+</div>
 
 	<!-- end header -->
 	<div id="wrapper">
+
+		
+
+
+ 
 
 <!-- begin content -->
 
@@ -437,27 +574,9 @@ Items
 	</div>
 	<!-- end #wrapper -->
 	<div id="footer">
-		<div class="contentt"> 
-
-
 
 		<div id="footer-inner" class="inner">
-			
-			<div id="lush-life-signup">
-				<div id="lush-life-group">
-					
-						<p>Sign up for LUSH e-news and receive exclusive offers!</p>
-					
-					<div id="lush-life-form">
-						<form method="post" action="/shop/lush-life/">
-							<input name="llemail" type="text" id="ll-signup-email" value="Enter your email..." onfocus="clearForm(this);">
-							<input type="image" name="ll-signup-button" id="ll-signup-button" src="/images/go-button.jpg" alt="Continue">
-						</form>
-					</div>
-				</div>
-			</div>
-			
-	
+
 			<div id="footer-inner-box">
 			<ul>
 				<li><a href="/shop/about-us/">About LUSH</a></li>
@@ -465,51 +584,53 @@ Items
 				<li><a href="/customers/about-returns/">Returning Items</a></li>
 				<li><a href="/shop/account/sign-in.html">My Account</a></li>
 				<li><a href="/customers/contact-us/">Contact Us</a></li>
-			</ul>
-			<ul>
-				
-				<li><a href="/lush-times/">LUSH Times Catalog</a></li>
-				<li><a href="/shop/charity-pot/map">Charity Pot</a></li>
-				<li><a href="/media/">LUSH in the Media</a></li>
-				<li><a href="/careers/">Jobs at LUSH</a></li>
-				<li><a href="/shop/weddings/">Weddings</a></li>
-			</ul>
-			
-			<ul>
-			    <li><a href="/shop/specials/">New Arrivals &amp; Farewells</a></li>
-				<li><a href="/shop/gifts/gift-cards/">Gift Cards</a></li>
 				<li><a href="/shop/quick-order/">Quick Order</a></li>
-				<li><a href="/shop/corporaterewards/">Corporate Rewards</a></li>
-				
+				<li><a href="/shop/specials/">New Arrivals &amp; Farewells</a></li>
 			</ul>
 			
 			<ul>
-				<li><a href="http://forum.lush.com" title="North America Customer Forum">NA Customer Forum</a></li>
 				<li><a href="/shop/find/list/">Shop Locator</a></li>
 				<li><a href="/shop/events/">Shop Events</a></li>
+				<li><a href="/shop/charity-pot/map">Charity Pot</a></li>
+				<li><a href="/lush-times/">LUSH Times Catalog</a></li>
+				<li><a href="/shop/corporate-sales/weddings/">Weddings</a></li>
+				<li><a href="/shop/gifts/gift-cards/">Gift Cards</a></li>
+					<li><a href="/shop/corporate-sales/" title="Volume Orders">Volume Orders</a></li>
+			</ul>
+			
+			<ul>
+		     
+				<li><a href="http://forum.lush.com" title="North America Customer Forum">NA Customer Forum</a></li>
+				<li><a href="/shop/media-section/">LUSH in the Media</a></li>
+				<li><a href="/careers/">Jobs at LUSH</a></li>
+				<li id="footer-fb"><a href="http://www.facebook.com/pages/LUSH-Cosmetics/175889629057">Find us on Facebook</a></li>
+				<li id="footer-tw"><a href="http://twitter.com/LUSHCosmetics">Follow us on Twitter</a></li>
+				<li id="footer-yt"><a href="http://www.youtube.com/user/Lushvidz">Watch our YouTube channel</a></li>
 			</ul>
 			
 	 </div>
-		
-
-
-
-		 <div id="sharing-fcbk"><p class="call-us">Call us at 1.888.733.5874</p> <a href="http://www.facebook.com/inbox/?ref=mb#/pages/LUSH-Cosmetics/175889629057?ref=mf" id="fcbk" target="_blank"> </a>  <a href="http://twitter.com/lushcosmetics/" target="_blank" id="twitt"> </a></div> 
+	 
+		<div id="lush-life-signup">
 			
+				<h3>Newsletter Signup</h3>
+				<p>Sign up for the LUSH newsletter and receive exclusive content and offers!</p>
+			
+				<form method="post" action="/shop/lush-life/">
+					<input name="llemail" type="text" id="ll-signup-email" value="Enter your email..." onfocus="clearForm(this);">
+					<input type="image" name="ll-signup-button" id="ll-signup-button" src="/images/go-button.jpg" alt="Continue">
+				</form>
+		</div>
+		
 	<br class="clear">
 		
-		
-		
-		  <p class="terms">
-					© 2002 - 2009 LUSH North America. View <a href="/terms/">Terms of Use</a> and <a href="/privacy/">Privacy Policy</a>.
+		  <p>
+					© 2002 - 2010 LUSH North America. View our <a href="/terms/">Terms of Use</a> and <a href="/privacy/">Privacy Policy</a>.
 				
 			</p>
 		</div>
-	</div>	
 	</div>
 	<!-- end footer -->
-	
-<div style="width:850px;margin-left:auto;margin-right:auto;">
+	<div class="fine-print">
 
 
 
@@ -518,23 +639,436 @@ Items
 
 
 
-		
-<p><small>
 
 
-*From 6am (PST) December 26, 2009, buy any holiday item or soap and get two products of equal or lesser value  free and/or buy a holiday pre-wrapped gift or a year round pre-wrapped gift and get one of equal or lesser value free. Offer applies only to holiday items, holiday retro products, soap, holiday pre-wrapped gifts, pre-wrapped year round gifts (made before December 1, 2009): all other products, Retro soaps, gift cards, and gift wrapping services are excluded. Offer limited to available inventory while supplies last.  No promo code required. Customers will automatically be prompted to select free product (s) during the check out process. Maximum of 10 free items per order.  We reserve the right to make substitutions for free products. No rainchecks. Product availability may vary over the course of the promotion. Offer limited to the web and phone orders only. Not valid for purchases in LUSH shops or prior purchases. All products eligible for the boxing day promotion will not be available for shipping until January 5, 2010.  Only Standard shipping is available.
 
-
-</small></p>
-
-
-<br></div>
-
+</div>
+	<!-- tr<3 -->
 </div>
 
 
 
 
+
+	<!-- wt-US -->
+	<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2006/04/07 16:45:14 $ -->
+<script type="text/javascript"><!--
+var gService = false;
+var gTimeZone = -8;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsGetIdCrumb(name,crumb){
+	var cookie=dcsGetCookie(name);
+	var id=cookie.substring(0,cookie.indexOf(":lv="));
+	var aCrumb=id.split("=");
+	for (var i=0;i<aCrumb.length;i++){
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
+	dCur.setTime(dCur.getTime()+adj);
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	
+WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+	if (document.cookie.indexOf(name+"=")==-1){
+		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+			WT.co_f=gWtId;
+		}
+		else if 
+((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+			WT.co_f=gTempWtId;
+			WT.vt_f="1";
+		}
+		else{
+			WT.co_f="2";
+			var cur=dCur.getTime().toString();
+			for (var i=2;i<=(32-cur.length);i++){
+				
+WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+			}
+			WT.co_f+=cur;
+			WT.vt_f="1";
+		}
+		if (typeof(gWtAccountRollup)=="undefined"){
+			WT.vt_f_a="1";
+		}
+		WT.vt_f_s=WT.vt_f_d="1";
+		WT.vt_f_tlh=WT.vt_f_tlv="0";
+	}
+	else{
+		var id=dcsGetIdCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		var dLst=new Date(lv);
+		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
+		dSes.setTime(ss);
+		if 
+((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			
+WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if 
+((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
+	var expiry="; expires="+dExp.toGMTString();
+	
+document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+	if (document.cookie.indexOf(name+"=")==-1){
+		
+WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+		WT.vt_f=WT.vt_f_a="2";
+	}
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gConvert=true;
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+	dcsFunc("dcsTP");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2006/04/07 16:45:14 $ -->
+<script type="text/javascript"><!--
+var gDomain="wt.lush.com";
+var gDcsId="dcs89kvcahx0fh631uq3mozrl_1z6z";
+
+if 
+((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
+	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+}
+//-->
+</script><script type="text/javascript" src="https://wt.lush.com/dcs89kvcahx0fh631uq3mozrl_1z6z/wtid.js"></script>
+<script type="text/javascript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+var gI18n=false;
+if (window.RegExp){
+	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
+	var I18NRE={"%25":/\%/g};
+}
+
+// Add customizations here
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	
+WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		
+WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		
+WT.ti=gI18n?dcsEscape(dcsEncode(document.title),I18NRE):document.title;
+	}
+	WT.js="Yes";
+	WT.jv=dcsJV();
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			
+WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		for(var i=10;i>0;i--){
+			try{
+				var flash = new 
+ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
+				WT.fi="Yes";
+				WT.fv=i+".0";
+				break;
+			}
+			catch(e){
+			}
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				
+WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	if (gI18n){
+		
+WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
+		if (typeof(document.defaultCharset)=="string"){
+			WT.le=document.defaultCharset;
+		} 
+		else if (typeof(document.characterSet)=="string"){
+			WT.le=document.characterSet;
+		}
+	}
+	WT.tv="8.0.0";
+	WT.sp="";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var 
+front=DCS.dcsqry.substring(0,pos);
+					var 
+end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if 
+((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			
+DCS.dcsref=gI18n?dcsEscape(window.document.referrer, 
+I18NRE):window.document.referrer;
+		}
+	}
+}
+
+function dcsA(N,V){
+	return "&"+N+"="+dcsEscape(V, RE);
+}
+
+function dcsEscape(S, REL){
+	if (typeof(REL)!="undefined"){
+		var retStr = new String(S);
+		for (R in REL){
+			retStr = retStr.replace(REL[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsEncode(S){
+	return 
+(typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			
+gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					
+WT[meta.name.substring(3)]=(gI18n&&(meta.name.indexOf('WT.ti')==0))?dcsEscape(dcsEncode(meta.content),I18NRE):meta.content;
+				}
+				else if 
+(meta.name.indexOf('DCSext.')==0){
+					
+DCSext[meta.name.substring(7)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCS.')==0){
+					
+DCS[meta.name.substring(4)]=(gI18n&&(meta.name.indexOf('DCS.dcsref')==0))?dcsEscape(meta.content,I18NRE):meta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var 
+P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=dcsA(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=dcsA("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=dcsA(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+function dcsJV(){
+	var agt=navigator.userAgent.toLowerCase();
+	var major=parseInt(navigator.appVersion);
+	var mac=(agt.indexOf("mac")!=-1);
+	var 
+nn=((agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
+	var nn4=(nn&&(major==4));
+	var nn6up=(nn&&(major>=5));
+	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
+	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
+	var ie5up=(ie&&!ie4);
+	var op=(agt.indexOf("opera")!=-1);
+	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
+	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
+	var op7up=(op&&!op5&&!op6);
+	var jv="1.1";
+	if (nn6up||op7up){
+		jv="1.5";
+	}
+	else if ((mac&&ie5up)||op6){
+		jv="1.4";
+	}
+	else if (ie5up||nn4||op5){
+		jv="1.3";
+	}
+	else if (ie4){
+		jv="1.2";
+	}
+	return jv;
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+//-->
+</script>
+
+<noscript>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" 
+SRC="http://wt.lush.com/dcs89kvcahx0fh631uq3mozrl_1z6z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0">
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG -->	
 
 
 
