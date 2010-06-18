@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlotterusse.com privacy policy that was archived on 2007-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071223211909id_/http%3A//www.charlotterusse.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbottomnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlotterusse.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618120500id_/http%3A//www.charlotterusse.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbottomnav_privacy_txt) for the most accurate reproduction.*
 
 # Charlotte Russe : Help Desk
 
@@ -7,6 +7,8 @@
 When you visit the Charlotte Russe, Inc. Website, we collect customer information to improve the content of our Website for marketing and promotional purposes. Each time you visit our Website, our Web server automatically recognizes your IP address, monitor resolution and what type of browser you are using. We collect the e-mail addresses of those who communicate with us via e-mail, and collect customer information gathered in the course of joining our online member base and/or processing sales transactions. We do not gather any personally identifying information about you when you visit this Website, unless you choose to provide such information to us.
 
 If you supply us with your e-mail address, you may receive periodic e-mails from us announcing product information, promotional events, or updates to our Website. If you do not wish to receive such e-mail updates, enter your email address below to be removed from our mailing list:
+
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 [Unsubscribe from our Mailing List](https://web.archive.org/helpdesk/index.jsp?subdisplay=unsubscribe&display=account)
 
