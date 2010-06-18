@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affordabletours.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124022507id_/http%3A//www.affordabletours.com/Terms/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordabletours.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618182913id_/http%3A//www.affordabletours.com/Terms/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Huge Discounts on: Tours, Globus Tours, Trafalgar Tours, Cosmos Tours, Collette, Contiki, Insight, General, CIE and More.
 
