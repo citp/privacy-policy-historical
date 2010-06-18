@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incomecloner.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206000904id_/http%3A//www.incomecloner.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomecloner.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618050719id_/http%3A//incomecloner.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for www.ExplosiveCashSystem.com
+# Privacy Policy
 
  
 
@@ -71,10 +71,6 @@ Many websites, including this one, collect information about your computer, your
 
 Cookies can be used to electronically gather information about you.  Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you.  You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
 
-**HOW INFORMATION** **MAY** **BE USED**
-
-The use of information as described below may or may not be how information that is collected is customarily used by this site.  While actual use of any information collected may be used quite conservatively, you must assume that it is not.  You must assume that information collected is shared with other persons or entities for commercial purposes.  While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website.  This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information.  This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
-
 **INFORMATION THAT IS NOT SHARED**
 
 Credit card information or other financial information is not usually known to the website.  However, in the event that it is made known, that information is never revealed to anyone except to processing authorities or law enforcement agencies.  However, the provider of such information gives express permission to use it in fraud investigation or for litigation.
@@ -127,4 +123,4 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 **COPYRIGHT** **AND** **LICENSE  **  
 This "Privacy Policy" is copyrighted © 2003-2006 by Mining Gold Corporation Nevada Processing Center, Inc  (888) 214-3349, and is fully licensed for use by this website.  If you wish to lawfully use this Terms of Use on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or visit  [legal documents website.](http://www.internet-law-compliance.com/)  
   
-© 2008 **Ryder Marketing Inc.** , All rights reserved.
+© 2010 **Ryder Marketing Inc.** , All rights reserved.
