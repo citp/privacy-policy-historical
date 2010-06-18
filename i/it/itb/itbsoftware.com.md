@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbsoftware.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235957id_/http%3A//www.itbsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbsoftware.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618135338id_/http%3A//www.itbsoftware.com/privacy) for the most accurate reproduction.*
 
 # IT Backbones - Dedicated To The Software Sector, Featuring News, Press Releases, IT Directory & Links
 
