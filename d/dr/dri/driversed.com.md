@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618052337id_/http%3A//driversed.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - DriversEd.com
 
-|  |   
----  
-|  |  |   
----|---|---  
-  
 | 
 
 Your privacy is important to us. We’ll never share your information with anyone for any reason. Feel free to read the details of our privacy statement by clicking on the links below or by scrolling down.  
@@ -49,7 +44,7 @@ We do not share aggregated demographic information with anyone. We use this info
 |   
 ---  
   
-**Associate Programs  
+**Associate Center  
 **If a user elects to become an associate and use our referral service for informing a friend about our site, once the referred friend decides to take a course, we request they provide their email address or drivers license number as a discount code. Interactive Solutions stores this information for the sole purpose of tracking the success of our referral program. If a user wishes to delete, edit, or access their information, they may do so by logging into their account or by sending an email to [info@driversed.com](mailto:info@driversed.com), [info@webtrafficschool.com](mailto:info@webtrafficschool.com), or [info@24x7drivingschool.com](mailto:info@24x7drivingschool.com). The emails sent to friends of the users are one-time emails. The friends of the users will not receive any more emails unless they choose to receive more emails or if they become a registered member of our site. Depending on the particular associate program, the referral may receive a discount for our course. Once payment has been received from a referral, the associate will receive a commission payment.  
   
 |   
@@ -123,7 +118,7 @@ If, however, we are going to use users' personally identifiable information in a
 ---  
   
 **********Partners  
-**We partner with three companies to provide online traffic school in certain states: [IDriveSafely.com](http://www.idrivesafely.com/) for Alaska, Colorado, New Mexico, and Missouri; [AmericanSafety Classes.com](http://www.americansafetyclasses.com/) for New York and New Jersey; and [DrivingUniversity.com](http://www.drivinguniversity.com/) for Arizona. When you sign up for traffic school in these states through our websites, we keep a record of your drivers license, email, name and contact information. We only use this information to keep track of the referrals through our websites to IDriveSafely.com, AmericanSafetyClasses.com, and DrivingUniversity.com. Our three partner sites collect all other personally identifiable information and are the sole owners of the information they collect. We encourage you to be aware when you leave our site and to read their privacy policies at <http://www.idrivesafely.com/policy.htm>, <http://americansafetyclasses.com/faqs.php#account2>, and <http://drivinguniversity.com/privacyPolicy.htm>. This privacy statement applies solely to information collected by Interactive Solutions.  
+**We partner with three companies to provide online traffic school in certain states: [IDriveSafely.com](http://www.idrivesafely.com/) for Alaska, Colorado, New Mexico, and Missouri; [AmericanSafety Classes.com](http://www.americansafetyclasses.com/) for New York and New Jersey; and [DrivingUniversity.com](http://www.drivinguniversity.com/) for Arizona. When you sign up for traffic school in these states through our websites, we keep a record of your drivers license, email, name and contact information. We only use this information to keep track of the referrals through our websites to IDriveSafely.com, AmericanSafetyClasses.com, and DrivingUniversity.com. Our three partner sites collect all other personally identifiable information and are the sole owners of the information they collect. We encourage you to be aware when you leave our site and to read their privacy policies at [http://www.idrivesafely.com/policy/](http://www.idrivesafely.com/privacy/), <http://americansafetyclasses.com/faqs.php#account2>, and <http://drivinguniversity.com/privacyPolicy.htm>. This privacy statement applies solely to information collected by Interactive Solutions.  
   
 |   
 ---  
@@ -176,15 +171,4 @@ For more information about Google Site Stats please visit: http://services.googl
 |   
 ---  
 **Unsubscribe  
-**Users who no longer wish to receive email correspondence from Interactive Solutions may opt-out of receiving communications by clicking on the unsubscribe link in the email, or emailing the appropriate website at [info@driversed.com](mailto:info@driversed.com), [info@webtrafficschool.com](mailto:info@webtrafficschool.com), or [info@24x7drivingschool.com](mailto:info@24x7drivingschool.com). The user may contact us at 888-651-2886, the above listed email addresses, or Interactive Solutions, Inc., P.O. Box 209, Oakland, CA 94604 to opt-out.  
-  
-| 
-
-[Home](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/ "Drivers Ed Home") | [Contact Us](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/about-us/contact-us-company.aspx "Contact Drivers Ed") |  [Privacy](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/about-us/privacy-statement.aspx "Drivers Ed Privacy Statement") |  [Join Associates](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/associate-programs/default.aspx?nav=aclinkbotm "Become a DriversEd.com Associates") | [Site Map](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/site-map.aspx "Site Map for Drivers Ed") |  [Help](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/support/ "Drivers Ed Help")
-
-|  [Copyright © 2009 DriversEd.com. All rights reserved.](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/about-us/copyright-notice.aspx "Drivers Ed Copyright")  
----|---  
-  
-24x7 Support (English & Español): **1-888-651-AUTO**
-
-| Page protected by | [](http://www.copyscape.com/)
+**Users who no longer wish to receive email correspondence from Interactive Solutions may opt-out of receiving communications by clicking on the unsubscribe link in the email, or emailing the appropriate website at [info@driversed.com](mailto:info@driversed.com), [info@webtrafficschool.com](mailto:info@webtrafficschool.com), or [info@24x7drivingschool.com](mailto:info@24x7drivingschool.com). The user may contact us at 888-651-2886, the above listed email addresses, or Interactive Solutions, Inc., P.O. Box 209, Oakland, CA 94604 to opt-out.
