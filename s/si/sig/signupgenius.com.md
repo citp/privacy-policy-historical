@@ -1,136 +1,124 @@
-> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612091642id_/http%3A//signupgenius.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618125905id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Information about our Organisation and Web site**
+Let’s face it. You came to this page because you are concerned about your privacy. You don’t know us and honestly… you just don’t trust us. Am I right? That’s perfectly understandable. There are a lot of fraudulent sites on the internet.
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like Skylark Productions, Inc. We are based in USA. Our principal activities are: 
+We started this company to help churches, temples, schools, soccer moms, coaches, room parents, and people just like us organize their lives. We want to be a company with integrity that will simplify life for our users, not take advantage them. So if any of the items below are unclear or you want to discuss them with us, please contact us.
 
-  * Web Development 
-  * Film/Video Production 
+__SignUpGenius is owned by:__  
+Skylark Productions, Inc.  
+2105 Water Ridge Parkway, Suite 500  
+Charlotte, NC 28217  
+www.SkylarkEntertainment.com  
+704-329-9530  
+Co-Owners: Michael Vadini, Dan Rutledge
 
+##    
+Our Policy:
 
+**We do not knowingly add users to our website without permission.** A person can be added to our site when they sign up themselves or a friend invites them to a sign up form. If a friend adds your information to our site and you do not want to be a part of our service, just [contact us](https://web.archive.org/help) and our staff will delete you from our system.
 
-Our privacy policy covers Skylark Productions, Inc. and its Web site: 
+**We do not sell or distribute your contact information or emails to third party vendors, period.** We hate spam and figure you do too. We use your email as part of our application, of course, but we take special care with it and never display it publicly on our site.
 
-Organisation Name:  |  Skylark Productions, Inc.   
----|---  
-Address:  |  2105 Water Ridge Parkway, Suite 500   
-City, Zip:  |  Charlotte  ,  28217   
-State:  |  NC   
-Country:  |  USA   
-Controller:  |  Skylark Productions, Inc.   
-Web Sites(s):  |  SignUpGenius.com   
+**We promise not to bother you with unwanted emails and we allow you to control what emails you receive.** You will, of course, receive emails as part of the SignUpGenius service including invites to sign up forms, status updates, and reminder notifications. In addition, we have an email newsletter that is sent out periodically to members that have created sign ups in order to inform them of new features. Users can unsubscribe from any of these emails in their account settings.
 
+**For our online advertisements, we utilize a system called Adsense that is provided by Google.** Adsense is a well-known product by a major company that is in use by hundreds of thousands of websites worldwide. Google does not have access to your personal information from our website, but will do an automated scan of the contents of our pages in order to provide context-sensitive advertising. Google will also track clicks of their advertisements. We are not able to preview the advertisements beforehand, but have the ability to block advertisements when we see them shown. We do our best to monitor the advertising and we try to immediately block any advertisement that seems in anyway offensive or inappropriate. We are in no way responsible for the content of an advertiser’s website if you choose to click on an advertisement. We are in the process of developing a no-advertising version for those that need it. Please contact us for more information.
 
+**We give the creator of the sign up choices about the privacy of his/her sign up form.** We offer multiple security levels that the sign up creator can choose to determine who can see a sign up page, who can sign up on the page, and what is required to sign up for something. The four options are below.
 
-**Providing Visitors with Anonymous Access**
+Security Level
 
-You can access our Web site home page and browse our site without disclosing your personal data. 
+| 
 
-**The services and links of our Web site**
+Can be viewed publicly on internet
 
-Our Web site enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data. 
+| 
 
-Our Web site also includes a link to: 
+Requires a SignUpGenius Account (with an email) to Sign Up
 
-  * Google AdSense 
+| 
 
+Restrictions on who can sign up  
+  
+---|---|---|---  
+  
+PUBLIC
 
+| 
 
-Such third party Web service providers may collect personal data about our visitors. 
+Yes
 
-**Automatic Collection of Information**
+| 
 
-We automatically log personal data by means such as programming or we link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes: 
+No
 
-  * Technical administration of the Web site 
-  * Research and development 
-  * Customer administration 
-  * Generating customized web content 
+| 
 
+None  
+  
+PUBLIC WITH EMAIL
 
+| 
 
-We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes: 
+Yes
 
-  * Research and development 
-  * Customer administration 
-  * General Web Statistics 
+| 
 
+Yes
 
+| 
 
-**Data Collection and Purpose Specification**
+None  
+  
+PRIVATE GROUP
 
-We collect the personal data that you may volunteer while using our services. 
+| 
 
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations. 
+Yes
 
-To access the table of personal data collected and purposes for which they are used, please  click here 
+| 
 
-We do not collect or use personal data for any purpose other than that indicated in the table below. 
+Yes
 
-If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose: [www.SignUpGenius.com/index.cfm?go=c.Help](https://web.archive.org/web/20090612091642id_/http%3A//signupgenius.com/index.cfm?go=c.Help)
+| 
 
-**Children's Privacy** We do not knowingly collect personal data from children. 
+Only those invited by the creator of the sign up  
+  
+PASSWORD PROTECTED
 
-We do not take specific steps to protect the privacy of children who disclose their personal data to us. 
+| 
 
-We do not provide information about our personal data practices in relation to children on our home page, or at those sites on our Web site where we collect personal data. 
+No
 
-**Disclosure and Visitor Choice**
+| 
 
-We do not disclose your personal data to our subsidiaries or other organisations. 
+No
 
-**Confidentiality / Security**
+| 
 
-We do not give visitors to our Web site the option of using a secure transmission method to send us their personal data. 
+Only those that know the password  
+  
+We do not publicly promote or link the web addresses of the sign ups on our site to try and help make sure that only the people you promote your sign up to will see it. In addition, the creator of the sign up can choose whether or not to display the names of the people that have signed up on the sign up form.
 
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
+**Our employees have access to your account data when needed to help provide the services of our site.** Our employees may view your personal account data in order to help solve a problem that you or another user is having with any part of our service.
 
-  * unauthorised access 
-  * improper use or disclosure 
-  * unauthorised modification 
-  * unlawful destruction or accidental loss 
+**Our site collects anonymous aggregate Data and may choose to make some of this data public.** Our site gathers anonymous aggregate data like web statistics and demographics statistics on our users. This data may be used to help us run our business, attract advertisers/investors, and measure the effectiveness of our marketing efforts. We may choose to share or publicize certain anonymous aggregate data about our site. However, because this data is anonymous and in summary form, no advertisers or third parties could ever contact you because of this.
 
+**Our staff periodically reviews site data for the purpose of developing a better service for our users.  **Our employees can review all data on our site for the purpose of helping us improve the application. For example, we review what themes people are using and the titles of created sign ups so that we can see which events and holidays people find the site useful for. We may periocially view individual sign up forms on our site so that we can understand how people are using the application. It is our policy to never view a “Password-Protected” sign up form unless it relates to a support ticket since users of the password-protected sign up form tend to be most concerned about their data.
 
+**We take precautions, but cannot provide guarantees.** We do our best to secure your data through the programming of our application and by using industry-standard technology. However, we cannot completely guarantee that no part of our system will ever fail or be compromised. If you ever suspect that our site has contributed to your personal information being compromised, please [contact us](https://web.archive.org/help) immediately so that we can investigate and try to resolve the matter.
 
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. 
+##    
+Technical Details:
 
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. 
+**Cookies**  
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's servers and stored on your computer's hard drive. Cookies are required for the SignUpGenius service. We use cookies to track and record user session information. We do not use permanent cookies, but will require users to login periodically to our site in order to help protect your account information.
 
-**Access to the personal data we may hold about you**
+**Google Adsense**  
+For exact details on Google Adsense and their privacy policy, see the [Google Privacy Center](http://www.google.com/privacy.html).
 
-You can ask us, by: 
+**Google Analytics**  
+Beyond our own programming, some of our aggregrate statistics are provided using the Google Analytics tool. For exact details on the Google Analytics privacy policy, see the [Google Privacy Center](http://www.google.com/privacy.html).
 
-  * visiting this url ( [www.SignUpGenius.com/index.cfm?go=c.Help](https://web.archive.org/web/20090612091642id_/http%3A//signupgenius.com/index.cfm?go=c.Help) ) 
-
-
-
-whether we are keeping personal data about you. 
-
-Upon request, which you can indicate by: 
-
-  * visiting this url ( [www.SignUpGenius.com/index.cfm?go=c.Help](https://web.archive.org/web/20090612091642id_/http%3A//signupgenius.com/index.cfm?go=c.Help) ) 
-
-
-
-We will provide you with a readable copy of the personal data which we keep about you, within a week. \- although we may before require proof of your identity -. We will provide the information without any charge. 
-
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
-
-  * erased 
-  * rectified or amended 
-
-
-
-We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal. 
-
-We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. 
-
-**Privacy Compliance**
-
-There are no national laws or self-regulatory schemes applicable to our web site or organisation. 
-
-There are no global or regional regulatory or self-regulatory schemes applicable to our web site or organisation. 
-
-We cannot demonstrate that our privacy policy accords with the privacy instrument. 
+Posted: 2/15/2010
