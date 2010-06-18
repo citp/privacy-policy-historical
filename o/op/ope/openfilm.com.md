@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openfilm.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218181255id_/http%3A//www.openfilm.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openfilm.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619000230id_/http%3A//www.openfilm.com/info/privacy) for the most accurate reproduction.*
 
 # Openfilm » Help & Info » Privacy Policy
 
@@ -9,7 +9,7 @@ The Openfilm Privacy Policy describes how Openfilm treats personal information w
   * **Non-Account Activity.** You can watch videos on Openfilm or contact us about a particular video on Openfilm without having an Openfilm Account.
   * **Account-Related Activity.** Certain other activities on Openfilm, such as uploading videos or posting comments, require you to have an Openfilm account. We ask for some personal information when you create an Openfilm account, including your email address and a password, which is used to protect your account from unauthorized access. An Openfilm account allows you to access some of our services that require registration.
   * **Usage Information.** We may record information about your usage, such as when you use Openfilm channels, groups, and favorites you subscribe to, the contacts you communicate with, the videos you watch, and the frequency and size of data transfers, as well as information you display or click on in Openfilm. If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients.
-  * **Content Uploaded to Site.** Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.
+  * **Content Uploaded to Site.** Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and webcam chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.
 
 
 
