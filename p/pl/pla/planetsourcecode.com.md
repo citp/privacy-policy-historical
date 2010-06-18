@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the planetsourcecode.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232425id_/http%3A//www.planetsourcecode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetsourcecode.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618232434id_/http%3A//www.planetsourcecode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
 
-# visual basic, vb, active server pages (ASP),java, javscript,c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP,Free source code for the taking. Over five million lines of programs.
+# visual basic, vb, active server pages (ASP),java, c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP, LISP, Javascript,Free source code for the taking. Over five million lines of programs.
 
 _**For those who view Planet Source Code**_ Internet user privacy and confidentiality is of the utmost importance to Planet Source Code and its owning company, [ Exhedra Solutions, Inc](http://www.exhedra.com/).. Its reputation and integrity is directly related to how it serves its web customers. 
 
-As a result, Planet Source Code openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@exhedra.com](mailto:privacy@exhedra.com). 
+As a result,  Planet Source Code openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@exhedra.com](mailto:privacy@exhedra.com). 
 
 _**Normal Viewing Information**_
 
@@ -23,9 +23,9 @@ Planet Source Code works with several third parties that serve ads to this site.
 
 Often, they will employ a third-party measurement service other than Planet Source Code for tracking the performance of an ad program. In these instances, Planet Source Code has no control over the information collected by the third party, and may not be held responsible for the actions of the third party measurement service where collected information is concerned. 
 
-To find out more about how Double-click manages the privacy of information in conjunction with serving ads on this site and to know your choices about not having this information used by DoubleClick, please go to 
+To find out more about how Double-click manages the privacy of information in conjunction with serving ads on this site and to know your choices about not having this information used by DoubleClick, please go to <http://www.sonar.com/naiprivacy>.
 
-<http://www.sonar.com/naiprivacy>.This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
 
 This site uses the services of Adtegrity for the serving and/or targeting of ads, promotions and other marketing messages. Adtegrity.com's Privacy Policy can be found at <http://www.adtegrity.com/privacy.asp>. 
 
