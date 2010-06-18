@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tuscaloosanews.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217125932id_/http%3A//www.tuscaloosanews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuscaloosanews.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619000727id_/http%3A//www.tuscaloosanews.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | TuscaloosaNews.com | Tuscaloosa News
+# privacypolicy | TuscaloosaNews.com | Tuscaloosa News
 
 This Privacy Policy discloses the privacy practices for Tuscaloosa News newspaper and TuscaloosaNews.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “Tuscaloosa News” include TuscaloosaNews.com and Tuscaloosa News newspaper. Tuscaloosa News is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
