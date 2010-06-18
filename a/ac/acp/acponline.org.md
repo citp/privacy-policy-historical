@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215195552id_/http%3A//www.acponline.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618135323id_/http%3A//www.acponline.org/help/privacy) for the most accurate reproduction.*
 
 # ACP - ACP Privacy Policy
 
 ### ACP Privacy Policy
+
+Digital Millenium Copyright Act
 
 #### Purpose
 
@@ -66,3 +68,60 @@ ACP may disclose personal information to an organization with which it merges, o
 
 **Disclosure to ACP operations and maintenance contractors** -  
 ACP operations and maintenance contractors sometimes have limited access to your personal information in the course of providing products or services to ACP. Access to your personal information by these contractors is limited to the information reasonably necessary in order for the contractor to perform its limited function for ACP. We also contractually require that our operations and maintenance contractors 1) protect the privacy of your personal information, and 2) not use or disclose your personal information for any purpose other than providing us with products and services.
+
+.
+
+#### Digital Millenium Copyright Act: Notice and Take Down Procedure for Making Claims of Copyright Infringement by ACP on ACPOnline.org
+
+_Please note that these notifications and counter-notifications are legal notices provided outside of the American College of Physicians environment. American College of Physicians may provide copies of such notices to the participants in the dispute or third parties, at our discretion and as required by law - **the privacy policy for American College of Physicians does not protect information provided in these notices**._
+
+If you (“ **Copyright Owner** ”) believe copyrighted work is available on this website in a way that constitutes copyright infringement, you may notify the following designated agent of the American College of Physicians, Inc. (" **Operator** ") in writing. While you are welcome to phone with queries, we cannot process take down requests made telephonically. 
+
+American College of Physicians, Inc.  
+Office of Legal Services  
+DMCA Agent: April Oeffler  
+190 N. Independence Mall West  
+Philadelphia, PA 19106  
+(p) 215-351-2791 (f) 215-351-2449 (e) [aoeffler@acponline.org](mailto:aoeffler@acponline.org)
+
+##### Notification
+
+Your written notification (the " **Notification** ") to the above-referenced designated agent must include substantially all of the following: 
+
+  1. Identification of the copyrighted work that is the subject of the claimed infringement or, if multiple copyrighted works are involved, a representative list of such works; 
+  2. Identification of the allegedly infringing material, together with information reasonably sufficient to permit Operator to locate such material ( _for example, the URL of web page on which the material appears with optional screenshot_ ); 
+  3. Information reasonably sufficient to permit Operator to contact you, such as your full name, address, telephone number and email address; 
+  4. A statement by you that you have a good faith belief that the copyrighted work identified in the Notification is being used in a manner that is not authorized by the copyright owner, its agent or the law; 
+  5. A statement by you, signed under penalty of perjury, that the information contained in the Notification is accurate and that you are authorized to act on behalf of the owner of the copyrighted work that is allegedly being infringed; and 
+  6. A physical or electronic signature of the owner of the copyrighted work or a person authorized to act on its behalf. 
+
+
+
+Upon receipt of a Notification containing substantially all of the foregoing, Operator may take the following steps: 
+
+  1. Remove or disable access to the allegedly infringing material; 
+  2. Forward the Notification to the alleged infringer (the "Impacted Party"); and 
+  3. Take reasonable steps to promptly notify the Impacted Party that Operator has removed or disabled access to the allegedly infringing material. 
+
+
+
+##### Counter Notification 
+
+The Impacted Party may submit a counter notification in writing to the above-referenced designated agent of Operator. The written counter notification (the " **Counter Notification** ") must include substantially all of the following: 
+
+  1. Identification of the allegedly infringing material that was removed or disabled by Operator and the location where the material appeared before it was removed or access to it was disabled; 
+  2. A statement under penalty of perjury that the Impacted Party has a good faith belief that the allegedly infringing material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; 
+  3. The Impacted Party's name, address and telephone number and a statement that the Impacted Party consents to the jurisdiction of the United States federal district court for the judicial district in which the address provided by the Impacted Party is located and will accept service of process from you. If the Impacted Party is located outside the United States, the Impacted Party must include a statement that it consents to the jurisdiction of any United States federal district court in which Operator may be found; and 
+  4. A physical or electronic signature of the Impacted Party. 
+
+
+
+Upon receipt of a Counter Notification containing substantially all of the foregoing, Operator will take the following steps: 
+
+  1. Send you a copy of the Counter Notification; 
+  2. Inform you that it will replace the allegedly infringing material or cease disabling access to it within ten (10) business days; and 
+  3. Replace the removed allegedly infringing material or cease disabling access to it not less than ten (10) nor more than fourteen (14) business days following receipt of the Counter Notification; provided you have not supplied the designated agent with evidence that you have filed an action seeking a court order to restrain the Impacted Party from engaging in the infringing activity that was the subject of the Notification. 
+
+
+
+Operator's policy is to terminate the online privileges of individuals who repeatedly violate the copyrights of others. 
