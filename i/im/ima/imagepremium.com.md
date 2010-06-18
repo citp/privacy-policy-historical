@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagepremium.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218021405id_/http%3A//imagepremium.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagepremium.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619000733id_/http%3A//www.imagepremium.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ImagePremium » More Information » Privacy Policy
 
