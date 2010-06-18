@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitedovebooks.co.uk privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202162456id_/http%3A//www.whitedovebooks.co.uk/site-design/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitedovebooks.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618180800id_/http%3A//www.whitedovebooks.co.uk/site-design/privacy.htm) for the most accurate reproduction.*
 
 # White Dove Books - Privacy Policy
 
@@ -25,7 +25,7 @@ Welcome!**
 **S** ign-up for the **Inspiration Newsletter** &   
 Get this book - Absolutely _free_ ...  
   
-** Here's What our Readers Say ...**
+Here's What our Readers Say ...
 
 > **"I just love White Dove Books. Your Newsletter is excellent and the books are outstanding" -** **Phil** Gerbyshak
 > 
@@ -35,11 +35,11 @@ Get this book - Absolutely _free_ ...
 > 
 > _"Train Your Brain_ is a gem, Will - a 'must have'. Thank you so much for making it available." - Peter Bunce
 > 
-> "I have always enjoyed your site and recommended it to many of my friends. Thanks for the valuable free content." \- Sam Simuzoshya
+> "I have always enjoy your site and recommend it to many of my friends. Thanks for the valuable free content." \- Sam Simuzoshya
 > 
 > "Thanks for the outstanding value of your life coaching programme. I am making some radical changes." -  Colin A. Guthrie
 > 
-> "I see your email in my inbox and I get a flutter, because I know there will be something that will be uplifting." - Rosemarie (Bermuda)
+> "I see your email in my inbox and I get a flutter, because I know there will be something uplifting." - Rosemarie (Bermuda)
 
 **We use Google to serve relevant advertising at this site.**
 
