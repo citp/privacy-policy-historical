@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420233148id_/http%3A//www.theesa.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618223132id_/http%3A//www.theesa.com/privacy/index.asp) for the most accurate reproduction.*
 
 # The Entertainment Software Association- Privacy Policy
 
