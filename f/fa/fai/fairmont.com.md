@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218011638id_/http%3A//www.fairmont.com/EN_FA/FooterNavigation/FirstLevel/PrivacyPolicy.htm%3FDisplayType%3DPopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618232027id_/http%3A//www.fairmont.com/EN_FA/FooterNavigation/FirstLevel/PrivacyPolicy.htm%3FDisplayType%3DPopup) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ Below we will outline the type of information normally collected in each of thes
 
 When making a reservation or using Fairmont Hotels & Resorts services it is necessary to have information in order to identify you, contact you and to process your purchase and requests. This information usually includes your name, address, phone number, e-mail address, credit card number and expiration date, and language preference. It may also include, if you choose to share that information with us, your preferences regarding the delivery of your service such as type of room, type of bed, and the like. You may wish to have your purchase of Fairmont Hotels & Resorts' services recognized in a third party's loyalty program with which Fairmont Hotels & Resorts has a relationship. To do so will require you providing us certain verification information such as your membership number in the third party program. We also offer special discounts from time to time that may have qualifying criteria. Sometimes we offer special offers to, for example, seniors or for children. To assess your eligibility and process your reservation correctly, we need to record your date of birth at the time of booking. You may be required to provide personal identification with your date of birth in order to verify this upon check-in.
 
-Fairmont Hotels & Resorts, is a family of management companies that manage hotels for third party owners. Your personal information is shared with the third party owner of the hotel where you intend to stay and those of its employees involved in delivering the service to you to the extent necessary for them to do so and to process the transaction. All hotels that are managed by Fairmont Hotels & Resorts are required to agree to abide by the terms of this Privacy Protection Policy.
+Fairmont Hotels & Resorts is a family of management companies that manage hotels for third party owners. Your personal information is shared with the third party owner of the hotel where you intend to stay and those of its employees involved in delivering the service to you to the extent necessary for them to do so and to process the transaction. All hotels that are managed by Fairmont Hotels & Resorts are required to agree to abide by the terms of this Privacy Protection Policy.
 
 From time to time, we offer packages or other services that involve third parties. If you are partaking of such a package or service, your personal information will be shared with that third party to the extent necessary to provide that service and process the purchase or request.
 
@@ -50,7 +50,7 @@ If you do not wish to receive such offers and information you may unsubscribe or
 
 **REGISTERING WITH FAIRMONT HOTELS & RESORTS' LOYALTY PROGRAM, FAIRMONT PRESIDENT'S CLUB**
 
-As a customer of Fairmont Hotels & Resorts you have the opportunity to belong to it's loyalty program, Fairmont President's Club.  Fairmont President's Club is designed to deliver a higher level of personalization and service, additional personal information will be required. Membership is voluntary. By choosing to enroll you have consented to the supply of and use of your personal information as more particularly outlined in the President's Club Terms and Conditions.  Please [click here](https://web.archive.org/EN_FA/FPCPublic/FPCTermsAndConditions.htm?DisplayType=popup) to view the Fairmont President's Club Terms and Conditions.
+As a customer of Fairmont Hotels & Resorts you have the opportunity to belong to its loyalty program, Fairmont President's Club.  Fairmont President's Club is designed to deliver a higher level of personalization and service, additional personal information will be required. Membership is voluntary. By choosing to enroll you have consented to the supply of and use of your personal information as more particularly outlined in the President's Club Terms and Conditions.  Please [click here](https://web.archive.org/EN_FA/FPCPublic/FPCTermsAndConditions.htm?DisplayType=popup) to view the Fairmont President's Club Terms and Conditions.
 
 **REGISTERING ON THE EVERYONE’S AN ORIGINAL WEBSITE**
 
@@ -58,7 +58,7 @@ Individuals interested in sharing their experiences at Fairmont Hotels & Resorts
 
 We may from time to time use third party service providers to facilitate the operation of the Everyone’s an Original website. As a result, your personal information may be accessed, administered or stored by such third parties to the extent reasonably required for them to perform such services. Some service providers may be located in other jurisdictions that do not have privacy legislation similar to that found in Canada, and information in such jurisdictions may be accessed pursuant to the laws of those countries.
 
-If you have become a member of the President’s Club, you may also use your President’s Club details to register on Everyone’s an Original website instead of a separate registration. If you choose to do so, you consent to the use of personal information you provided in the course of your enrolment in the President’s clubClub to facilitate such registration, to login to the website and for the purposes described above.
+If you have become a member of the President’s Club, you may also use your President’s Club details to register on Everyone’s an Original website instead of a separate registration. If you choose to do so, you consent to the use of personal information you provided in the course of your enrolment in the President’s Club to facilitate such registration, to login to the website and for the purposes described above.
 
 Use of the Everyone’s an Original website is also subject to the [Everyone’s an Original Terms and Conditions](http://www.everyonesanoriginal.com/termsandconditions/ "Everyone's An Original Terms and Conditions").
 
@@ -131,13 +131,12 @@ However, in either case, this may limit our ability to serve you.
 If you have questions or concerns about our privacy practices or wish to make a request in respect of your personal information please contact our Privacy Officer at **[privacyofficer@fairmont.com](mailto:privacyofficer@fairmont.com)** or if you prefer by writing us at:
 
 Fairmont Hotels & Resorts   
-CanadianPacific Tower   
-100 Wellington Street West, Suite 1600   
-TD Centre, P.O. Box 40   
+RBC Centre,   
+155 Wellington Street West, Suite 3300,   
 Toronto, Ontario   
 Canada   
-M5K 1B7
+M5V 0C3 
 
 Attention: Privacy Officer, Law Department
 
-[Rev. 1.10, November 3, 2009]
+[Rev. 1.12, March 31, 2010]
