@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bopandtigerbeat.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223085540id_/http%3A//www.bopandtigerbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bopandtigerbeat.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618201726id_/http%3A//www.bopandtigerbeat.com/privacy) for the most accurate reproduction.*
 
 # Privacy : BOP and Tiger Beat
 
@@ -15,7 +15,7 @@
 
 
 
-Thank you for visiting _BOP_ and _Tiger Beat_ Magazine Online, a Laufer Media, Inc. site. Your privacy is important to us. To better protect your privacy and that of your children, we provide this notice explaining our online information practices and the choices you can make about the way your child’s information is collected and used at this Laufer Media, Inc. site. _BOP_ Magazine, _Tiger Beat_ Magazine and bopandtigerbeat.com are fully committed to complying with COPPA, the Children’s Online Privacy Protection Act of 1998. Our practices are outlined below. We urge kids under 13 in particular to check with their parents before entering information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don’t know.
+Thank you for visiting _BOP_ and _Tiger Beat_ Magazine Online, a Laufer Media, Inc. site. Your privacy is important to us. We will never sell or trade you or your child’s information to third-parties. To better protect your privacy and that of your children, we provide this notice explaining our online information practices and the choices you can make about the way your child’s information is collected and used at this Laufer Media, Inc. site. _BOP_ Magazine, _Tiger Beat_ Magazine and bopandtigerbeat.com are fully committed to complying with COPPA, the Children’s Online Privacy Protection Act of 1998. Our practices are outlined below. We urge kids under 13 in particular to check with their parents before entering information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don’t know.
 
 Here is a list of the Laufer Media, Inc. business units  
 governed by this privacy notice:
@@ -27,7 +27,7 @@ governed by this privacy notice:
 **  
 The Information We Collect**
 
-At some Laufer Media, Inc. sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
+At some Laufer Media, Inc. sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or twitter feed. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
 
 At some other Laufer Media, Inc. sites, you can submit information about other people. For example, you might submit a person’s name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient’s name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient’s name, address, e-mail address, and telephone number.
 
