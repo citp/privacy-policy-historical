@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livestation.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218051310id_/http%3A//www.livestation.com/privacy%3Ftracker%3Dfooter_menu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestation.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618133514id_/http%3A//www.livestation.com/privacy%3Ftracker%3Dfooter_menu) for the most accurate reproduction.*
 
-# Livestation | Livestation privacy policy | Live streaming TV to your computer and iPhone
+# Livestation | Livestation privacy policy | Live streaming TV to your computer, mobile and connected TV
 
 We respect your right to privacy and it is our policy to comply with all applicable privacy and data protection laws. We are committed to protecting your personal information when using our software or services. 
 
