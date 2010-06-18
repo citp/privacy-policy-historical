@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the fastline.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011105356id_/http%3A//www.fastline.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastline.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618042119id_/http%3A//www.fastline.com/v100/privacy.aspx) for the most accurate reproduction.*
 
-# New & Used farm equipment, tractors, combines, and other used and new machinery by Fastline Publications
+# Fastline Publications Privacy Policy
+
+**Foreward**
 
 This document outlines the complete privacy policy used by Fastline Publications. Please print a copy of this document for your records. 
 
-**Our Commitment To Privacy**
+**Content** **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available from every page on the Fastline website. 
 
@@ -26,7 +28,7 @@ Fastline automatically recognizes some information from the User, employing comm
 
 **Registration**
 
-Most of the Fastline website is available without registration, but in order to take advantage of some features, you must register and create a member account. Fastline's online registration form requires you to provide your full name, e-mail address, ZIP code, and password for basic services. Some sections of the site may be accesible after you provide additional information about yourself.
+Most of the Fastline website is available without registration, but in order to take advantage of some features, you must register and create a member account. Fastline's online registration form requires you to provide your full name, e-mail address, postal code, and password for basic services. Some sections of the site may be accesible after you provide additional information about yourself.
 
 We hope that, like many users, you will want to provide information about yourself so that we can continue to make our Web Site more valuable to you. 
 
@@ -48,7 +50,7 @@ You can decline to provide personal information to us. Please note that in some 
 
 **Information Posted to Our Site**
 
-When you post information in our equipment database listings, classified listings, on message boards or discussion groups, you grant Fastline unrestricted use of that material. Please see our [ Terms of Use Agreement](https://web.archive.org/web/20071011105356id_/http%3A//www.fastline.com/license.asp) for more information. Users should be aware that personal information voluntarily disclosed on message boards and discussion groups can be collected and used by others and may result in unsolicited messages to you from other parties.
+When you post information in our equipment database listings, classified listings, on message boards or discussion groups, you grant Fastline unrestricted use of that material. Please see our [Terms of Use Agreement](https://web.archive.org/web/20100618042119id_/http%3A//www.fastline.com/v100/license.asp) for more information. Users should be aware that personal information voluntarily disclosed on message boards and discussion groups can be collected and used by others and may result in unsolicited messages to you from other parties.
 
 **Our Commitment To Data Security**
 
@@ -66,6 +68,6 @@ You can access all your personally identifiable information that we collect onli
 
 We reserve the right to change our Privacy Policy from time to time without prior notice. 
 
-_©2001 Fastline Publications, Inc. All rights reserved._
+_©2009 Fastline Publications, Inc. All rights reserved._
 
-Should you have other questions or concerns about these privacy policies, [helpdesk@fastline.com](mailto:helpdesk@fastline.com). 
+Should you have other questions or concerns about these privacy policies, [ helpdesk@fastline.com](mailto:helpdesk@fastline.com). 
