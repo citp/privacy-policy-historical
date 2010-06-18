@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricszoo.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218090742id_/http%3A//www.lyricszoo.com/i/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricszoo.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619002119id_/http%3A//www.lyricszoo.com/i/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Lyricszoo
 
@@ -183,4 +183,4 @@ Custom Search
 The copyright belongs to the performers or owners of the songs. Lyrics may be used for private study, scholarship or academic research only.  
 In accordance to the Digital Millenium Copyright Act, publishers may ask to have specific lyrics removed.  
 This is a non-commercial site. We are not selling anything. | [Copyright details](https://web.archive.org/i/copyright-details/)  
-The Lyricszoo design, layout, style etc is copyright 2005 - 2009 Lyricszoo.
+The Lyricszoo design, layout, style etc is copyright 2005 - 2010 Lyricszoo.
