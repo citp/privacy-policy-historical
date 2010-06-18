@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024118id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordonline.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619005302id_/http%3A//www.recordonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # recordonline.com - Times Herald-Record -
 
