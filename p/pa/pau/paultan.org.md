@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154641id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618205012id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,5 +76,7 @@ We never sell or share your personal information with another party.
 The contact forms gather email address and name so that we may reply to your email. This information is voluntary and is not required to contact us.
 
 We use the collected IP address to ban spammers from posting spam comments. We may also use the IP address to ban abusive individuals from commenting as well. We use the collected email address and name from the contact forms to return your email message. We track aggragate site traffic statistics for use in performance feedback and promotional use.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 If you have any questions or comments please use the [contact form](http://paultan.org/contact-me/) to write to paultan.org. Thank you.
