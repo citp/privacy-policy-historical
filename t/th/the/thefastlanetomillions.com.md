@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefastlanetomillions.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217005443id_/http%3A//www.thefastlanetomillions.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefastlanetomillions.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618064626id_/http%3A//www.thefastlanetomillions.com/articles/privacy-policy) for the most accurate reproduction.*
 
-# theFastlaneToMillions.com | Privacy
+# theFastlaneToMillions.com » Privacy
 
 **TheFastlaneToMillions.com – Privacy Policy**
 
@@ -36,5 +36,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
 If you feel that this site is not following its stated information policy, you may contact us via email by using the above “Contact” link.
-
-**Help Spread the Word About the Fastlane - Bookmark!**
