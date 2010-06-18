@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pbnation.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217045007id_/http%3A//www.pbnation.com/misc2.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbnation.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618133716id_/http%3A//www.pbnation.com/misc2.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # PbNation - Privacy Policy
-
-**PbNation Privacy Policy**
 
 At PbNation we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by PbNation LLC. or its subsidiaries or affiliated companies (collectively, PbNation's "services").
 
@@ -15,7 +13,10 @@ We offer a number of services that do not require you to register for an account
   * **Information you provide** \- When you sign up for a PbNation Account or other PbNation service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). Information is gathered by PbNation for the sole benefit of PbNation. Contact information is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings. For certain services, such as our advertising programs, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other PbNation services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. Financial information that is collected is used to bill the user for products and services. Our online surveys ask visitors for contact information (typically the customer's email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user promotional and other material related to PbNation products and services as well as some of our third-party business partners.
   
 
-  * **PbNation cookies** \- When you visit PbNation, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some PbNation features and services may not function properly if your cookies are disabled. 
+  * **PbNation cookies** \- When you visit PbNation, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some PbNation features and services may not function properly if your cookies are disabled.
+  
+
+  * **Network Advertising Initiative cookies** \- Some of our ad affiliates use 3rd party cookies to tailor advertisements based on your web preferences and usage patterns. You may opt out of these cookies by visiting [this page](http://www.networkadvertising.org/managing/opt_out.asp). This will not mean you no longer receive online advertising, but that they will simply not be targeted to you.
   
 
   * **Log information** \- When you use PbNation services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
@@ -87,4 +88,4 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o PbNation LLC, 2107 N Decatur Road, Suite 449, Decatur, GA, 30033 USA.
 
-Revised 6/23/06 
+Last revised 06/03/10 
