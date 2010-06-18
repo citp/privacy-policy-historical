@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the info-komen.org privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203211147id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the info-komen.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618050938id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Susan G. Komen for the Cure | Komen.org | Privacy Policy | Privacy Policy
 
