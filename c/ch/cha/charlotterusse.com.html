@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the charlotterusse.com privacy policy that was archived on 2007-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071223211909id_/http%3A//www.charlotterusse.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbottomnav_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the charlotterusse.com privacy policy that was archived on 2010-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618120500id_/http%3A//www.charlotterusse.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbottomnav_privacy_txt) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Charlotte Russe : Help Desk</title>
@@ -7,101 +7,357 @@
 <link href="http://chic.imageg.net/include/DF_CHIC_template.css" rel="stylesheet" type="text/css">
 <link href="http://chic.imageg.net/include/PG_CHIC_helpDesk.css" rel="stylesheet" type="text/css">
 <link href="http://chic.imageg.net/include/store.css" rel="stylesheet" type="text/css">
-<script type="text/javascript">
-function newWindow(url) {
-	theWindow = window.open(url, 'mapWinFreeShip', 'width=350,height=250,scrollbars=yes,resizable=no')
-	theWindow.focus();
-}
-
-function verifyFields(objForm) {
-	canSubmit = true;
-	formObject = objForm;
-	if (canSubmit && formObject.email && formObject.email.value == "") {
-		canSubmit = false;
-		alert("Please enter the email address that you would like removed from our mailing list.");
-		formObject.email.focus();
-		return false;
-	} else if (canSubmit && formObject.email) {
-		var emailReg = "^[\\w-_\.]*[\\w-_\.]\@[\\w]\.+[\\w]+[\\w]$";
-		var regex = new RegExp(emailReg);
-		if (!formObject.email.value.match(regex)) {
-			canSubmit = false;
-			alert("Please enter a valid email address.");
-			formObject.email.focus();
-			return false;
-		} 		
-	}
-	if (canSubmit) {
-		return true;
-	}
-}
-</script>
+<script type="text/javascript" src="http://chic.imageg.net/include/flashobject.js"></script>
+<script type="text/javascript" src="http://chic.imageg.net/include/swfobject.js"></script>
+<script type="text/javascript" src="http://chic.imageg.net/include/rotate.js"></script>
+<script type="text/javascript" src="/include/helpdesk.js"></script>
 <script type="text/javascript" src="/include/prototype.js"></script>
 <script type="text/javascript" src="/js/LIB_eventObserve.js"></script>
+
 </head>
 <body>
 <div id="wrapper">
-	  
+<!-- /cmsTemplates/chic_helpdesk_1.jsp  -->
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+	   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Charlotte Russe Associate Ordering System</title>
+<link rel="stylesheet" href="http://chic.imageg.net/css/PG_CHIC_Associate_Shell.css">
+
+
+
+
+
+
+
+
+
+
+	<style type="text/css">
+	@import url(http://img.charlotterusse.com/background/chic_hosted.css);
+	</style>
+
+
+	
+<script type="text/javascript">
+	function checklength(val) {
+		if(val.length == 0) return false;
+		for(var j=val.length;j > 0;j--) {
+			if(val.charAt(j-1) != ' ') {
+				return true;
+			}
+		}
+		return false;
+	}
+
+	function emailCheck(val) {
+		var EmailOk  = true
+		var Temp     = val;
+		var AtSym    = Temp.indexOf('@')
+		var Period   = Temp.lastIndexOf('.')
+		var Space    = Temp.indexOf(' ')
+		var Length   = Temp.length - 1   // Array is from 0 to length-1
+
+		if ((AtSym < 1) || (Period <= AtSym+1) || (Period == Length ) || (Space != -1)) {
+			return false;
+		}
+		return true;
+	}					
+
+	function valForm(frm) {
+		for(var i=0;i < frm.elements.length;i++) {
+			if (frm.elements[i].value != "sign-up") {
+				if(frm.elements[i].name != "fname" && frm.elements[i].name != "lname" && !checklength(frm.elements[i].value)) {
+					if(!document.layers) {
+						frm.elements[i].style.backgroundColor='yellow';
+					}
+					frm.elements[i].value = '';
+					alert("Please fill out all required fields.");
+					frm.elements[i].focus();
+					return false;
+				} 
+				else {
+					if(!document.layers) frm.elements[i].style.backgroundColor='#FFFFFF';
+				}				
+			}
+		}
+		if(!emailCheck(frm.emailAddress.value)) {
+			alert("Please enter a valid email address.");
+			if(!document.layers) frm.emailAddress.style.backgroundColor='yellow';
+			frm.emailAddress.focus();
+			return false;
+		}
+		return true;
+	}
+</script>
 
 <!-- Start of Minicart -->	
-<style>
-#minicart {position: absolute;z-index: 101;width: 416px;text-align:right;top:20px;}
-</style>
-<div style="text-align:center;height:1px;">
-	<div style="height:1px;line-height:1px;">
-		<div style="float:left; width:372px; height:1px;"></div>
-		<div id="minicart_lnt" style="z-index:200;float:left; height:1px; line-height:14px;"><!-- begin additions for minicart --> 
-<script type="text/javascript" src="/include/prototype.js"></script> 
-<script type="text/javascript" src="/include/minicart.js"></script> 
-<link rel="stylesheet" href="/include/minicart_chic.css"> 
+<div id="headTextAlignCenter">
+	<div id="headCartHeight1">
+		<div id="headFloatCartFWH"></div>
+		<div id="minicart_lnt" class="headFloatCartZH"><!-- begin additions for minicart --> 
+<script type="text/javascript" src="http://chic.imageg.net/include/prototype.js"></script> 
+<script type="text/javascript" src="http://chic.imageg.net/include/minicart.js"></script> 
+<link rel="stylesheet" href="http://chic.imageg.net/include/minicart_chic.css"> 
 <div id="minicart" class="minicart_chic"></div> 
 <!-- end of minicart additions --> 
 </div>
 	</div>
 </div>
-<script type="text/javascript" src="../include/minicart.js"></script>
+<script type="text/javascript" src="http://chic.imageg.net/include/minicart.js"></script>
 <!-- End of Minicart -->
-<div class="topemail">
-	<a href="/corp/index.jsp?page=storeLocator&amp;clickid=topnav_locator_txt">store locator</a>
-	&nbsp; | &nbsp;
-	<a href="https://www.charlotterusse.com/coreg/index.jsp?step=register&amp;clickid=topnav_login_txt">my account</a>
-	&nbsp; | &nbsp;
-	<a href="/cart/index.jsp?wlName=wishlist&amp;clickid=topnav_wish_txt">wishlist</a>
-	&nbsp; | &nbsp;
-	<a href="/cart/index.jsp?clickid=topnav_cart_txt">shopping bag [<span id="cartItemCount">0 Items</span>]</a>
-</div>
-<div id="header">
-	<div class="hdrIeFix" id="headerBg"></div>
-	<form action="/search/controller.jsp" method="get">
-	<div id="headerContent">
-		<div id="logo"><a title="CharlotteRusse.com" onfocus="blur();" href="/home/index.jsp?clickid=topnav_logo_img">CharlotteRusse.com</a></div>
-		<div id="emailSignUp"><a title="sign up for email" href="javascript:void(window.open('../include/entry.jsp','email','width=300,height=475,screenX=50,left=360,screenY=50,top=200,menubar=no,scroll=yes'));">sign up for email</a></div>
-		<div id="headerInput"><input name="kw" type="text" size="15"></div>
-		<div id="headerSearch"><input type="image" src="http://chic.imageg.net/images/header-search.gif" width="48" height="10"></div>
-	</div>
-	</form>
-</div>
-<ul id="main-menu">
-	<li id="casualTops"><a title="Casual Tops" href="/category/index.jsp?categoryId=2745080&amp;clickid=header_casualtops_button">Casual Tops</a></li>
-	<li id="dressyTops"><a title="Dressy Tops" href="/category/index.jsp?categoryId=2745081&amp;clickid=header_dressytops_button">Dressy Tops</a></li>
-	<li id="bottoms"><a title="Bottoms" href="/category/index.jsp?categoryId=2843537&amp;clickid=header_bottoms_button">Bottoms</a></li>
-	<li id="dresses"><a title="Dresses" href="/category/index.jsp?categoryId=2843536&amp;clickid=header_dresses_button">Dresses</a></li>
-	<li id="footwear"><a title="Footwear" href="/category/index.jsp?categoryId=2758878&amp;clickid=header_footwear_button">Footwear</a></li>
-	<li id="jewelry"><a title="Jewelry" href="/category/index.jsp?categoryId=2758879&amp;clickid=header_jewelry_button">Jewelry</a></li>
-	<li id="accessories"><a title="Accessories" href="/category/index.jsp?categoryId=2758877&amp;clickid=header_accessories_button">Accessories</a></li>
-	<li id="sale"><a title="Sale" href="/category/index.jsp?categoryId=2900570&amp;clickid=header_sale_button">Sale</a></li>
-	<li id="bluChic"><a title="Blu Chic Active Loungewear" href="/category/index.jsp?categoryId=2758881&amp;clickid=header_active_button">Blu Chic Active Loungewear</a></li>
-	<li id="refugeDenim"><a title="Refuge Denim" href="/category/index.jsp?categoryId=2758880&amp;clickid=header_denim_button">Refuge Denim</a></li>
+
+<ul class="topemail">
+	<li><a class="shoppingbag" href="/cart/index.jsp?clickid=topnav_cart_txt">shopping bag (<span id="cartItemCount">0 Items</span>)</a></li>
+	<li><a href="https://www.charlotterusse.com/coreg/index.jsp?step=register&amp;clickid=topnav_login_txt">my account</a></li>
+	<li><a href="/corp/index.jsp?page=storeLocator&amp;clickid=topnav_locator_txt">store locator</a></li>
+	<li>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://chic.imageg.net/include/flashobject.js"></script>
+<script type="text/javascript" src="http://chic.imageg.net/include/swfobject.js"></script>
+
+
+
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  124636   -->
+<!-- === Page Name:  Header CMS no 2nd flash_1   -->
+<!-- === Page URI:  /gsi/chic/cmsTemplates/chic_headerInclude_1.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  63605   -->
+<!-- === Campaign Name:  Header $5.99/Free returns_1   -->
+<!-- === Campaign Tracking Code:  null   -->
+<!-- === Campaign Start Time:  2010-05-06 13:04:00.0   -->
+<!-- === Campaign End Time:  null   -->
+<!-- === -->
+<!-- === Request URI:  /gsi/chic/cmsTemplates/chic_helpdesk_1.jsp   -->
+<!-- === Request Query String:  isInSecureMode=false&pageType=helpdesk&display=safety&subdisplay=privacy&clickid=bottomnav_privacy_txt   -->
+<!-- === Include URI:  /gsi/chic/cmsTemplates/chic_headerInclude_1.jsp   -->
+<!-- === Include Query String:  isInSecureMode=false&pageType=helpdesk   -->
+<!-- ================================================================================= -->
+<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  268476   -->
+<!-- === Widget Name:  chic_headerInclude_1   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {chic_botbanner_1=149171, chic_headerInclude_1=268476}   -->
+<!-- ================================================================================= -->
+<div name="chic_headerInclude_1" id="chic_headerInclude_1" style="height:16px;width:430px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/chic//cms_widgets/26/84/268476.jsp   -->
+<div id="RTCMS_FLASH0"></div><script type="text/javascript">var so = new SWFObject("http://chic.imageg.net/cms_widgets/26/84/268476_assets/circularoffer_122209.swf","null", "430", "16","8", "null"); so.addParam("swliveconnect","true"); so.addParam("menu","false"); so.addParam("quality","high"); so.addParam("base","."); so.addParam("type","application/x-shockwave-flash"); so.addParam("pluginspace","http://www.adobe.com/go/getflashplayer"); so.addParam("width","430"); so.addParam("height","16"); so.addParam("name","cms_flash60358779_18"); so.addParam("align","Default"); so.addParam("allowScriptAccess","always"); so.addParam("wmode","transparent"); so.addVariable("FlashStaticCont","http://chic.imageg.net"); so.addVariable("FlashDynamicCont","http://www.charlotterusse.com"); so.addVariable("FlashBulkCont","http://chic.imageg.net"); so.addVariable("FlashCampaignDir","cms_widgets/26/84/268476_assets"); so.addParam("allowFullScreen","false"); so.write("RTCMS_FLASH0");</script><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT -->
+	</li>
 </ul>
 
-	<!-- Start of SearchMarketing.com Natural Pixel Tag: Please do not remove-->
-	<script language="JavaScript"><!--
-	{
-		document.write("<img src=http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=743&x=" +escape(document.referrer) +  " width=1 height=1>");
-	}
-	//-->
-	</script><img src="http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=743&amp;x=" width="1" height="1">
-	<!-- End SearchMarketing.com Natural Pixel Tag -->
+<div id="header">
+    <div id="headerContent">
+		<a id="logo" title="CharlotteRusse.com" onfocus="blur();" href="/home/index.jsp?clickid=topnav_logo_img">CharlotteRusse.com</a>
+
+		<form id="signupForm" name="signupForm" action="/emailHandler/index.jsp" method="post" onsubmit="return valForm(this)">
+			
+			
+			
+			<!-- Visible Fields -->
+			<input type="text" class="text" name="emailAddress" size="15" value="enter e-mail; get 10% off!" onfocus="if (this.value=='enter e-mail; get 10% off!') { this.value=''; } this.focus()" onblur="if (this.value=='') { this.value='enter e-mail; get 10% off!'; }">
+			<input type="submit" class="submit" value="sign-up">
+			
+			
+			<!-- Hidden Fields -->
+			<input type="hidden" name="contest" value="chic_newsignup"> 
+			<input type="hidden" name="targetPage" value="/emailSignup/index.jsp"> 
+			<input type="hidden" name="emailPref" value="Y"> 
+			
+			
+			<input type="hidden" name="datetime" value="June 18, 2010 8:04:59 AM EDT">
+		</form>
+		
+		<form id="searchForm" action="/search/controller.jsp" method="get">
+			<input type="text" class="text" name="kw" size="15" value="enter keyword or style #" onmousedown="if (this.value=='enter keyword or style #') { this.value=''; } this.focus()" onblur="if (this.value=='') { this.value='enter keyword or style #'; }">
+			<input type="submit" class="submit" value="search">
+		</form>
+		<!--[if IE]>
+			<style>
+				#headerContent input.text { width: 115px; }
+			</style>
+		<![endif]-->
+	</div>
+</div>
+
+
+	
+
+
+<ul id="main-menu">
+	<li id="new">
+		<a title="New Arrivals" href="/category/index.jsp?categoryId=3707906&amp;clickid=header_new_button">New Arrivals</a>
+	</li>
+	<li id="tops">
+		<a title="Tops" href="/category/index.jsp?categoryId=3456439&amp;clickid=header_tops_button">Tops</a>
+	</li>
+	<li id="bottoms">
+		<a title="Bottoms" href="/category/index.jsp?categoryId=3456441&amp;clickid=header_bottoms_button">Bottoms</a>
+	</li>
+	<li id="dresses">
+		<a title="Dresses" href="/category/index.jsp?categoryId=3456440&amp;clickid=header_dresses_button">Dresses</a>
+	</li>
+	<li id="footwear">
+		<a title="Footwear" href="/category/index.jsp?categoryId=3456442&amp;clickid=header_footwear_button">Footwear</a>
+	</li>
+	<li id="accessories">
+		<a title="Accessories" href="/category/index.jsp?categoryId=3456443&amp;clickid=header_accessories_button">Accessories</a>
+	</li>
+	<li id="intimates">
+		<a title="Intimates" href="/category/index.jsp?categoryId=3456444&amp;clickid=header_jewelry_button">Intimates</a>
+	</li>
+	<li id="sleep">
+		<a title="Sleep &amp; Loungewear" href="/category/index.jsp?categoryId=3456445&amp;clickid=header_sleep_button">Sleep and Loungewear</a>
+	</li>
+	<li id="outer">
+		<a title="Swimwear" href="/category/index.jsp?categoryId=3456446&amp;clickid=header_swim_button">Swimwear</a>
+	</li>
+	<li id="sale">
+		<a title="Sale" href="/category/index.jsp?categoryId=3456448&amp;clickid=header_sale_button">Sale</a>
+	</li>
+</ul>
+
+<div id="sub-menu">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://chic.imageg.net/include/flashobject.js"></script>
+<script type="text/javascript" src="http://chic.imageg.net/include/swfobject.js"></script>
+
+
+
+
+<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  131002   -->
+<!-- === Page Name:  Topline Nav - No Shop By Outfit   -->
+<!-- === Page URI:  /gsi/chic/cmsTemplates/chic_headerInclude_2.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  67040   -->
+<!-- === Campaign Name:  Topline Nav - No Shop by Outfit   -->
+<!-- === Campaign Tracking Code:  null   -->
+<!-- === Campaign Start Time:  2010-06-16 15:06:00.0   -->
+<!-- === Campaign End Time:  2010-11-30 23:59:00.0   -->
+<!-- === -->
+<!-- === Request URI:  /gsi/chic/cmsTemplates/chic_helpdesk_1.jsp   -->
+<!-- === Request Query String:  isInSecureMode=false&pageType=helpdesk&display=safety&subdisplay=privacy&clickid=bottomnav_privacy_txt   -->
+<!-- === Include URI:  /gsi/chic/cmsTemplates/chic_headerInclude_2.jsp   -->
+<!-- === Include Query String:  isInSecureMode=false&pageType=helpdesk   -->
+<!-- ================================================================================= -->
+<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  282057   -->
+<!-- === Widget Name:  chic_headerInclude_2   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {chic_botbanner_1=149171, chic_headerInclude_2=282057, chic_headerInclude_1=268476}   -->
+<!-- ================================================================================= -->
+<div name="chic_headerInclude_2" id="chic_headerInclude_2" style="height:27px;width:780px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/chic//cms_widgets/28/20/282057.jsp   -->
+<img border="0" name="cms_image100657263" src="http://chic.imageg.net/cms_widgets/28/20/282057_assets/black_header.jpg" height="27" width="780" align="Default" valign="Default" usemap="#Top Nav"><map name="Top Nav"><area shape="rect" coords="0,0,341,26" title="SHOP BY EVENT" href="http://www.charlotterusse.com/family/index.jsp?totalProductsCount=100&amp;pageType=category&amp;categoryId=3518618&amp;view=all&amp;cm_sp=TopNavBar-_-Event-_-NA"><area shape="rect" coords="342,0,449,26" title="SHOP BY TREND" href="http://www.charlotterusse.com/family/index.jsp?totalProductsCount=300&amp;pageType=category&amp;categoryId=3683037&amp;view=all&amp;cm_sp=TopNavBar-_-Trend-_-NA"><area shape="rect" coords="450,0,780,26" title="SHOP ALL PROMOTIONS" href="http://www.charlotterusse.com/family/index.jsp?totalProductsCount=300&amp;pageType=category&amp;categoryId=4178928&amp;view=all&amp;cm_sp=TopNavBar-_-Promotions-_-NA"></map><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT -->
+</div>
+
+
+<div style="position:absolute; top:-10000px; left:-10000px;">
+</div>
+
 
 
 
@@ -125,13 +381,12 @@ function verifyFields(objForm) {
 
 
 <div id="breadcrumb">
-	<span class="links"><a class="breadcrumb" href="/home/index.jsp;jsessionid=HnQNW7krw1txWVNyTv3g38W2pcsZS0bPJGMYQwMJZgFm6LWhZhFL!-228312594">home</a> &gt; <span class="breadcrumbLast">customer service</span></span>
+	<span class="links"><a class="breadcrumb" href="/home/index.jsp">home</a> &gt; <span class="breadcrumbLast">customer service</span></span>
 	<!--start recently viewed-->
 
 <!--end recently viewed-->
 </div>
 <!-- end breadcrumbs -->
-	<div id="content">
 
 <!-- *********************************** STOREMAN HELPDESK STARTS************************************** -->
 
@@ -253,9 +508,6 @@ function verifyFields(objForm) {
        <!--Return to shopping--></a>
 <!--|-->
 
-	<div style="float:left; width:7px; margin:auto; vertical-align:middle;">
-		<img src="http://chic.imageg.net/images/arrowLeft_blue.gif" border="0">
-	</div> 
 	<div style="float:left; width:203px; padding-left:2px; margin:auto; text-align:left; vertical-align:middle;">
     	<a class="breadcrumb" href="/helpdesk/index.jsp">
 		return to customer service</a>	
@@ -279,7 +531,7 @@ function verifyFields(objForm) {
 
 		<!-- panel -->
 		<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 2768867 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/CHAR_Safety_9-3.31292.jsp-->
+<!--STOREMAN PANEL: helpdesk/CHAR_Safety_9-3.36555.jsp-->
 
 					
 					
@@ -294,6 +546,11 @@ function verifyFields(objForm) {
 <p>When you visit the Charlotte Russe, Inc. Website, we collect customer information to improve the content of our Website for marketing and promotional purposes. Each time you visit our Website, our Web server automatically recognizes your IP address, monitor resolution and what type of browser you are using. We collect the e-mail addresses of those who communicate with us via e-mail, and collect customer information gathered in the course of joining our online member base and/or processing sales transactions. We do not gather any personally identifying information about you when you visit this Website, unless you choose to provide such information to us.</p>
 
 <p>If you supply us with your e-mail address, you may receive periodic e-mails from us announcing product information, promotional events, or updates to our Website. If you do not wish to receive such e-mail updates, enter your email address below to be removed from our mailing list:</p>
+
+<p>We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and
+action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that 
+these third parties collect via cookies and action tags is completely anonymous. If you would like more information
+about this practice and your choices, <a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.</p>
 
 <p><a href="/helpdesk/index.jsp?subdisplay=unsubscribe&amp;display=account" class="body">Unsubscribe from our Mailing List</a></p>
 
@@ -313,7 +570,7 @@ function verifyFields(objForm) {
 
 </smpanel>
 					
-			<!--END STOREMAN PANEL helpdesk/CHAR_Safety_9-3.31292.jsp-->
+			<!--END STOREMAN PANEL helpdesk/CHAR_Safety_9-3.36555.jsp-->
 <!--END STOREMAN GENERATION-->
 
 			
@@ -322,39 +579,354 @@ function verifyFields(objForm) {
 
 			</div><!-- End panels -->
 		</div><!-- End pageContent -->
+        <div id="cmsBotBanner1">
+        <!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
+<!-- === Page ID:  131002   -->
+<!-- === Page Name:  Topline Nav - No Shop By Outfit   -->
+<!-- === Page URI:  /gsi/chic/cmsTemplates/chic_headerInclude_2.jsp   -->
+<!-- === -->
+<!-- === Campaign ID:  67040   -->
+<!-- === Campaign Name:  Topline Nav - No Shop by Outfit   -->
+<!-- === Campaign Tracking Code:  null   -->
+<!-- === Campaign Start Time:  2010-06-16 15:06:00.0   -->
+<!-- === Campaign End Time:  2010-11-30 23:59:00.0   -->
+<!-- === -->
+<!-- === Request URI:  /gsi/chic/cmsTemplates/chic_helpdesk_1.jsp   -->
+<!-- === Request Query String:  display=safety&subdisplay=privacy&clickid=bottomnav_privacy_txt   -->
+<!-- === Include URI:  null   -->
+<!-- === Include Query String:  null   -->
+<!-- ================================================================================= -->
+<!-- CMS SLOT DATA --><!-- =========================== CMS Slot and Widget info ========================== -->
+<!-- === Widget ID:  149171   -->
+<!-- === Widget Name:  chic_botbanner_1   -->
+<!-- === Slot Name:  null   -->
+<!-- === Slot Data Map:  {chic_botbanner_1=149171, chic_headerInclude_2=282057, chic_headerInclude_1=268476}   -->
+<!-- ================================================================================= -->
+<div name="chic_botbanner_1" id="chic_botbanner_1" style="width:780px;border:0px;overflow:hidden;"><!-- ------------------------ BEGIN: CMS INCLUDED WIDGET PAGE ------------------------------ --><!-- --- Included Page:  /gsi/chic//cms_widgets/14/91/149171.jsp   -->
+<img border="0" name="cms_image78028850" src="http://chic.imageg.net/cms_widgets/14/91/149171_assets/1x1.JPG" height="1" width="1" align="Default" valign="Default"><!-- ------------------------ END: CMS INCLUDED WIDGET PAGE -------------------------------- --></div><!-- END CMS SLOT -->
+        </div>
 	</div><!-- End content -->
-</div> <!-- end content -->
 	
-<div style="float:left; width:780px; height:20px; background: #fff; clear:left;"></div>
-<img style="float:left;" alt="" border="0" height="49" src="../images/family_oas_btm.jpg" width="780px" usemap="#Map">
-<div style="float:left; width:780px; height:15px; background: #fff;"></div>
-<map name="Map">
-	<area shape="rect" coords="27,3,119,26" href="http://corp.charlotterusse.com/whats-hot/">
-	<area shape="rect" coords="271,4,374,25" href="http://corp.charlotterusse.com/editor-picks/">
-	<area shape="rect" coords="533,6,606,24" href="http://corp.charlotterusse.com/hot-chic/">
-</map>
+<div style="clear:both;"></div>
 
-	<div style="clear:both;"></div>
 <div id="footer">
-	<div class="hdrIeFix" id="footerBg"></div>
 	<div id="footerContent">
-		<a target="_top" href="/giftCenter/index.jsp?clickid=bottomnav_giftcards_txt">gift cards</a>
-		&nbsp; | &nbsp;
+
+		<!-- START SCANALERT CODE -->
+		<a target="_blank" class="scanalert" href="https://www.mcafeesecure.com/RatingVerify?ref=www.charlotterusse.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.charlotterusse.com/55.gif" align="center" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+		<!-- END SCANALERT CODE -->
+
+    	<a target="_top" href="/giftCenter/index.jsp?clickid=bottomnav_giftcards_txt">gift cards</a>
 		<a target="_top" href="/helpdesk/index.jsp?clickid=bottomnav_help_txt">customer service</a>
-		&nbsp; | &nbsp;
-		<a target="_top" href="https://www.charlotterusse.com/coreg/index.jsp?step=ot&amp;clickid=bottomnav_track_txt">track my order</a>
-		&nbsp; | &nbsp;
+		
+		<a target="_top" href="https://www.charlotterusse.com/coreg/index.jsp?step=ot&amp;clickid=bottomnav_track_txt">track order</a>
 		<a target="_top" href="http://charlotte-russe.hodesiq.com/job_start.asp">career opportunities</a>
-		&nbsp; | &nbsp;
-		<a target="_top" href="http://corp.charlotterusse.com/corporate/">corporate / investor relations</a>
-		&nbsp; | &nbsp;
+		<a target="_top" href="http://corp.charlotterusse.com/corporate/">corporate relations</a>
 		<a target="_top" href="../sitemap/index.jsp">site map</a>
-		&nbsp; | &nbsp;
 		<a target="_top" href="../helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=bottomnav_privacy_txt">privacy policy</a>
+
 	</div>
 </div>
-<div id="copyright">@2007 Charlotte Russe Holding</div>
+
+
+		
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+
+<!-- pageOrprocessName getRequestURI() /gsi/chic/cmsTemplates/chic_helpdesk_1.jsp  -->
+
+<div id="trackingPixels" style="visibility:hidden">
+
+</div>
+
+
+
+<div id="copyright">©2010 Charlotte Russe Holding</div>
+
+<!-- Resonance code resxclsa.js v2.x Copyright 2004-2006 Certona Corporation www.certona.com -->
+<script type="text/javascript">
+	//variables for all pages
+	var resx = new Object();
+	resx.appid = "charlotterusse01";
+	resx.top1 = 100000;
+	resx.top2 = 100000;
+	resx.lkmatch = /productid%3d\d+/i;
+
+</script>
+<script type="text/javascript" src="http://chic.imageg.net/js/resxclsa.js"></script>
+<!-- Resonance -->
+<!-- start chic/include/omniture.jsp -->
+
+
+<!-- end chic/include/omniture.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+<!-- trackingPageType getRequestURI() /gsi/chic/cmsTemplates/chic_helpdesk_1.jsp  --><!-- trackingPageType finalPage() cmsTemplates  -->
+						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+
+
+
+	
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+<script type="text/javascript">
+
+
+
+
+</script>
+<script language="javascript" src="https://dsa.csdata1.com/data/js/9027460/csgather.js"></script>
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+
+
+
+
+
+
+
+
+		<script type="text/javascript">
+			var br_frequency = 30;
+			var br_percentage = 15;
+			var br_size = 0;
+			var br_pos_x = 50;
+			var br_pos_y = 50;   
+			var br_data = [];
+			br_data['Q165'] = '';			
+		</script>
+		<script type="text/javascript" src="https://eval.bizrate.com/js/survey_174486_1.js"></script>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+<!-- // End of code of PMO 52759 -->
+
+
+
+         
+
+<script language="JavaScript">
+var s_account='gsicchic';
+</script>
+<script language="JavaScript" src="http://chic.imageg.net/include/omniture-h.js"></script>
+<script language="JavaScript">
+s.server='www.charlotterusse.com';
+s.hier1='Tops';
+s.eVar19='106091388654';
+s.channel='Tops';
+s.pageName='Tops Landing Page';
+s.setLinkInternalFilters(',charlotterusse.com,imageg.net,gspt.net,gsipartners.com');
+var s_code=s.t(); if (s_code)document.write(s_code);
+</script>
+<!-- End SiteCatalyst code version: H.0. -->
+
+
+       
+	
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd2_ws_43_7-->
+
+
+
+
+<!-- REQUEST URI: /gsi/chic/helpdesk/index.jsp -->
+<!-- REQUEST URL: http://www.charlotterusse.com/gsi/chic/helpdesk/index.jsp -->
+<!-- cms request url attribute: http://www.charlotterusse.com/gsi/chic/helpdesk/index.jsp -->
+<!-- cms request uri attribute: /gsi/chic/helpdesk/index.jsp -->
+<!-- request url: http://www.charlotterusse.com/gsi/chic/helpdesk/index.jsp -->
+
+		<!-- coremetrics tag: [default] -->
+	    <script src="/scripts/coremetrics/eluminate.js"></script>
+
+<script src="/scripts/coremetrics/cmdatatagutils.js"></script>
+
+<script type="text/javascript">
+cmSetProduction();
+</script>
+
+<script src="/include/cmsupport_base.js"></script>
+
+<script src="/include/cmsupport_store.js"></script>
+
+<script type="text/javascript">
+
+(new CMTagGenerator(null, null, null, null, null, null, null, null, {categoryId: "CUSTOMER SERVICE", pageId: "CUSTOMER SERVICE: Privacy Policy"})).genericPageview();
+</script>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<!-- end -->
 </div><!-- end wrapper -->
+
+	<!-- DecisionStep Shop Together Code -->
+	<script type="text/javascript" src="http://shoptogether.decisionstep.com/Clients/CharlotteRusse/ShopTogether.js"></script>
+
+	<script type="text/javascript">
+		// Set Page Attributes and Initialize Flash Object.
+		ShopTogether.itemId = "helpdesk";
+		ShopTogether.itemName = "Help Desk";
+		ShopTogether.itemCategory = "home";
+		ShopTogether.itemType = "category";
+		ShopTogether.itemImage = "";
+		ShopTogether.itemThumb = "http://shoptogether.decisionstep.com/Clients/CharlotteRusse/Version2/images/DecisionStep_logo2.gif";
+		ShopTogether.itemPrice = "";
+		ShopTogether.itemLink = "http://www.charlotterusse.com/helpdesk/index.jsp?display=safety&subdisplay=privacy&clickid=bottomnav_privacy_txt";
+		ShopTogether.Initialize();
+	</script>
+	
+
 
 
 </body></html>
