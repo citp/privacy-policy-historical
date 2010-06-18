@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the servicepower.com privacy policy that was archived on 2009-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091216002938id_/http%3A//www.servicepower.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the servicepower.com privacy policy that was archived on 2010-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618072726id_/http%3A//www.servicepower.com/privacy.shtml) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -13,29 +13,33 @@ charset=utf-8">
 charset=iso-8859-1">
 
 
+
+
 <meta name="google-site-verification" content="Dpx3uWtAKI6hGHSEfhih4VuEPK0_IKuQjGe3fYsQxcs">
 <link rel="stylesheet" href="/css/sp_style.css" type="text/css">
 <!--[if IE]>
 <link rel="stylesheet" href="/css/sp_style_ie.css" type="text/css" />
 <![endif]-->
-</head><body class="header">
 
-<table width="950" align="center" cellspacing="0" cellpadding="0" border="0">
+
+</head>
+<!-- <body class="header">  -->
+<body class="header"><table width="950" align="center" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
 		<td></td>
 		<td width="233"><a href="/index.php"><img src="/images/sp_logo.png" alt="SERVICEPower"></a></td>
 		<td align="center" width="5%"></td>
 		<td align="center" width="400"></td>
 		<td align="right" width="175"><a href="/logon.shtml" class="blue">
-		<img class="reflect rheight33" src="/images/login_nm.png" alt="Servicer and Client Logon" align="right">
+		<div class="rheight33" style="width: 140px; height: 37px;"><img class="reflected" src="/images/login_nm.png" alt="Servicer and Client Logon" align="right" style="vertical-align: bottom;"><canvas height="9" width="140" style="height: 9px; width: 140px;"></canvas></div>
 		</a></td>
 		<td align="right" width="175">
 		<a href="/contact/quickfind.shtml" class="blue">
-		<img class="reflect rheight33" src="/images/quick_nm.png" alt="Quick Find Guide" align="right">
+		<div class="rheight33" style="width: 109px; height: 21px;"><img class="reflected" src="/images/quick_nm.png" alt="Quick Find Guide" align="right" style="vertical-align: bottom;"><canvas height="5" width="109" style="height: 5px; width: 109px;"></canvas></div>
 		</a></td>
 		<td align="right" width="175">
-		<a href="/contact/servicer_request.shtml?interest=Interested in Joining the ServicePower Network" class="blue">
-		<img class="reflect rheight33" src="/images/join_nm.png" alt="Join Our Network" align="right">
+		<a href="/join/index.shtml" class="blue">
+		<div class="rheight33" style="width: 109px; height: 21px;"><img class="reflected" src="/images/join_nm.png" alt="Join Our Network" align="right" style="vertical-align: bottom;"><canvas height="5" width="109" style="height: 5px; width: 109px;"></canvas></div>
 		</a></td>
 		<td></td>
 	</tr>
@@ -46,12 +50,15 @@ charset=iso-8859-1">
 <!--[if IE]>
 <link rel="stylesheet" href="/css/sp_style_ie.css" type="text/css" />
 <![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="/css/sp_style_ie8.css" type="text/css" />
+<![endif]-->
 <link href="/css/dropdown/dropdown.css" media="all" rel="stylesheet" type="text/css">
 <link href="/css/dropdown/themes/adobe/defaultadvanced.css" media="all" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/js/jquery/jquery.js"></script>
+<!-- <script type="text/javascript" src="/js/jquery/jquery.js"></script> -->
+ <script src="/js/jquery.tools.min.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.dropdown.js"></script>
 <script type="text/javascript" src="/js/reflection.js"></script>
-
 <script type="text/javascript">
 
 var submitRolls = new Object();
@@ -106,13 +113,23 @@ if (this.sendfield)
 
 function setLang(lang, country){
  
-if (lang.indexOf('en-us') > -1) flag_name = 'us_flag'; 
-else if (lang.indexOf('en-gb') > -1) flag_name = 'uk_flag'; 
-else if (lang.indexOf('de') > -1) flag_name = 'german_flag'; 
-else 
-flag_name = 'us_flag'; 
+if (lang != null){
+	if (lang.indexOf('en-us') > -1) flag_name = 'us_flag.png'; 
+	else if (lang.indexOf('en-gb') > -1) flag_name = 'uk_flag.png'; 
+	else if (lang.indexOf('eu') > -1) flag_name = 'eu_flag.png'; 	
+	else if (lang.indexOf('da') > -1) flag_name = 'eu_flag.png'; 	
+	else if (lang.indexOf('nl') > -1) flag_name = 'eu_flag.png';
+	else if (lang.indexOf('fi') > -1) flag_name = 'eu_flag.png';
+	else if (lang.indexOf('fr') > -1) flag_name = 'eu_flag.png';
+	else if (lang.indexOf('de') > -1) flag_name = 'german_flag.png';
+	else if (lang.indexOf('es') > -1) flag_name = 'eu_flag.png';						
+	else flag_name = 'us_flag.png'; 
+}
+else {
+flag_name = 'clear.gif'; 
+}
 
-document.getElementById('current_flag').src="../images/" + flag_name + ".png";
+document.getElementById('current_flag').src="/images/" + flag_name + ".png";
 
 
 document.cookie = 'SPWebSiteLang='+lang+"; path=/";
@@ -125,135 +142,298 @@ document.location.href = country;
 
 
 
-<table width="950" align="center" cellspacing="0" cellpadding="0" border="0" height="38">
-	<tbody><tr>
-		<td width="100px"></td>
-		<td width="6" height="38" background="/images/sp_menu_bgLeft.png">
-		</td>
-		<td width="720" bgcolor="#000000">
+<table class="header" width="950" align="center" cellspacing="0" cellpadding="0" border="0" height="38">
+	<tbody><tr class="header">
+		<td class="header" width="15px"></td>
+		<td class="header" width="6" height="38" background="/images/sp_menu_bgLeft.png"></td>
+		<td class="header" width="720" bgcolor="#000000">
 		<ul id="nav" class="dropdown dropdown-horizontal">
 			<li class="litop">
 			<div class="splogo">
-			<a style="padding: 0px;" href="/us_index.shtml">
-			<img src="/images/sp.png" width="28" height="28">	</a></div>
-		
-			
+				<a style="padding: 0px; padding-left: 5px;" href="/index.php">
+				<img src="/images/sp.png" width="28" height="28"> </a></div>
 			<ul>
-				<li><a style="padding-left:15px;" href="/index.php">Home</a></li>			
-				<li><a style="padding-left:15px;" href="/sitemap_page.shtml">Site Map</a></li>
-			</ul>	
-			</li>		
-			<li class="litop"><a class="dir" href="/solutions/index.shtml">Solutions</a>
-			<ul>
-				<li><a style="padding-left:15px;" href="/solutions/index.shtml"><b>Solutions Home</b></a></li>
-				<li><a style="padding-left:15px;" href="/solutions/service_scheduling_overview.shtml">Workforce 
-				Optimization<br>
-				<b>SERVICE<font color="#FF0000"><i>Scheduling</i></font></b></a></li>
-				<li><a style="padding-left:15px;" href="/solutions/service_operations_overview.shtml">3rd Party 
-				Network Management<br>
-				<b>SERVICE<font color="#FF0000"><i>Operations</i></font></b></a></li>
-				<li><a style="padding-left:15px;" href="/solutions/service_outsourcing_overview.shtml">Outsourced Service 
-				Management<br>
-				<b>SERVICE<font color="#FF0000"><i>Outsourcing</i></font></b></a></li>
-				<li><a style="padding-left:15px;" href="/solutions/service_store_overview.shtml">Discount Buying Group<br>
-				<b>SERVICE<font color="#FF0000"><i>Store</i></font></b></a></li>
-				<li><a style="padding-left:15px;" href="/solutions/service_mobility.shtml">Mobile Field Service 
-				Solutions<br>
-				<b>SERVICE<font color="#FF0000"><i>Mobility</i></font></b>, <b>SERVICE<font color="#FF0000"><i>GPS</i></font></b>, ...</a></li>
+				<li><a style="padding-left:15px;" href="/index.php">Home</a></li>
+				<li><a style="padding-left:15px;" href="/sitemap_page.shtml">Site 
+				Map</a></li>
 			</ul>
 			</li>
-			<li class="litop"><a class="dir" href="/partners/index.shtml">Partners</a>
-			<ul>
-				<li><a style="padding-left:15px;" href="/partners/index.shtml">Partner Overview</a></li>
-				<li><a style="padding-left:15px;" href="/contact/general_interest.shtml?interest=Interested in Being a ServicePower Partner">Become a <b>SERVICE<font color="#FF0000"><i>Power</i></font></b> Partner</a></li>				
-			</ul>	
-			</li>		
-			
-			<li class="litop"><a href="/library/index.shtml">Library</a>
-			<ul>
-				<li><a style="padding-left:15px;" href="/library/white_papers.shtml">White Papers</a></li>
-				<li><a style="padding-left:15px;" href="/library/webcasts.shtml">Podcasts/Webcasts</a></li>		
-				<li><a style="padding-left:15px;" href="/contact/webinar_interest.shtml">Web Seminars</a></li>							
-				<li><a style="padding-left:15px;" href="/library/clients.shtml">Clients</a></li>
-				<li><a style="padding-left:15px;" href="/library/success_stories.shtml">Success Stories</a></li>
-<!--				<li><a href="/library/training.shtml">Training</a></li>  -->
+			<li class="litop"><a href="/contact/about.shtml">Company</a>
+			<ul class="wide">
+				<div class="menu4wide"><br>
+					<li class="wide"><b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">
+					Company</font></b></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/contact/about.shtml">About
+					<b>SERVICE<font color="#FF0000"><i>Power</i></font></b></a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/contact/careers.shtml">
+					Careers</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/contact/community.shtml">
+					Community Relations</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/contact/quickfind.shtml">
+					Quick Find Guide</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/contact/locations.shtml">
+					Locations</a></li>
+				</div>
+				<div class="menu4wide"><br>
+					<li class="wide"><b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">
+					News</font></b></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/news/press_releases.shtml">
+					Press Releases</a></li>
+<!--					<li class="wide">
+					<a style="padding-left:15px;" href="/news/articles.shtml">Articles</a></li> -->
+					<li class="wide">
+					<a style="padding-left:15px;" href="/news/promotions.shtml">
+					Current Promotions </a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/news/industrynews.shtml">
+					Industry Related News</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/news/enewsletter.shtml">
+					eNewsletter</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/news/forum2011.shtml">
+					Forum 2011</a></li>					
+<!--					<li class="wide">
+					<a style="padding-left:15px;" href="/blog" target="_blank">
+					<img src="../images/blog_small.png" alt="Blog Logo" border="0" align="center" /> 
+					Blog</a></li> -->
+				</div>
+				<div class="menu4wide"><br>
+					<li class="wide"><b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">
+					Library</font></b></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/library/white_papers.shtml">
+					White Papers</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/library/webcasts.shtml">
+					Podcasts/Webcasts</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/contact/webinar_interest.shtml">
+					Web Seminars</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/library/clients.shtml">
+					Clients</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/library/success_stories.shtml">
+					Success Stories</a></li>
+				</div>
+				<div class="menu4wide"><br>
+					<li class="wide"><b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">
+					Contact Us</font></b></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/contact/index.shtml?interest=General Contact Request">
+					General Contact Request</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/contact/website_feedback.shtml">
+					Website Feedback</a></li><br> 
+					<li class="wide"><b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">
+					Customer Hub</font></b></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/private.shtml">
+					Customer Hub Login</a></li>					
+				</div>
+				<!--				<div class="menu4wide">
+					<li class="wide"><b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">
+					Investors</font></b></li>
+					<li class="wide"><a style="padding-left:15px;" href="/investors/index.shtml">
+					Overview</a></li>
+					<li class="wide"><a style="padding-left:15px;" href="/investors/index.shtml">
+					AIM Rule 26</a></li>
+					<li class="wide"><a style="padding-left:15px;" href="/investors/board.shtml">
+					Board of Directors</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/investors/aim_shareholders.shtml">
+					Major Shareholders</a></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/investors/aim_reports.shtml">
+					Annual Reports</a></li>					
+				</div> -->
 			</ul>
 			</li>
-			<li class="litop"><a href="/news/index.shtml">News</a>
+			<li class="litop"><a href="/solutions/index.shtml">Solutions</a>
+			<ul class="med">
+				<div class="menu2wide">
+					<li class="med"><br>
+					<b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">Find Solutions</font></b></li>
+					<li class="med"><a style="padding-left:15px;" href="/solutions/index.shtml"><b>Start Here 
+					Guide</b></a></li>
+					<li class="med"><a style="padding-left:15px;" href="/solutions/index_end_to_end.shtml">
+					Solution Overview</a></li>
+					<li class="med"><br>
+					<b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">Scheduling Solutions</font></b></li>
+					<li class="med">
+					<a style="padding-left:15px;" href="/solutions/service_scheduling_overview.shtml">Schedule 
+					Optimization</a></li>
+					<li class="med">
+					<a style="padding-left:15px;" href="/solutions/service_scheduling_overview.shtml">Schedule 
+					Optimization On Demand</a></li>
+					<li class="med"><a style="padding-left:15px;" href="/solutions/service_mobility.shtml">
+					Mobile Field Service</a> </li>
+					<li class="med"><a style="padding-left:15px;" href="/solutions/service_mobility.shtml">
+					Location Based Tracking / GPS</a> </li>
+					<li class="med">
+					<a style="padding-left:15px;" href="/solutions/service_stats_scheduling.shtml">Business 
+					Intelligence </a></li>
+				</div>
+				<div class="menu2wide">
+					<li class="med"><br>
+					<b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">Outsourced Solutions</font></b></li>
+					<li class="med"><a style="padding-left:15px;" href="/solutions/operations/index.shtml">
+					Manage 3rd Party Service Providers</a></li>
+					<li class="med">
+					<a style="padding-left:15px;" href="/solutions/service_outsourcing_overview.shtml">Outsourced 
+					Service Management</a></li>
+					<li class="med"><br>
+					<b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">Servicer &amp; SMB Solutions</font></b></li>
+					<li class="med"><a style="padding-left:15px;" href="/join/index.shtml">Join Our Network 
+					and Get More Work</a></li>
+					<li class="med">
+					<a style="padding-left:15px;" href="/solutions/service_store_overview.shtml">Discount Buying 
+					Group</a></li>
+					<li class="med"><a style="padding-left:15px;" href="/solutions/saas/index.shtml">Automated 
+					Scheduling (SaaS)</a></li>
+					<li class="med"><a style="padding-left:15px;" href="/solutions/service_mobility.shtml">
+					Location Based Tracking / GPS</a></li>
+				</div>
+			</ul>
+			<!--			</li>
+			<li class="litop"><a href="">Innovation</a>
 			<ul>
-				<li><a style="padding-left:15px;" href="/news/press_releases.shtml">Press Releases</a></li>
-				<li><a style="padding-left:15px;" href="/news/articles.shtml">Articles</a></li>
-				<li><a style="padding-left:15px;" href="/news/events.shtml">Events</a></li>
-				<li><a style="padding-left:15px;" href="/news/promotions.shtml">Current Promotions </a>
-				</li>
-				<li><a style="padding-left:15px;" href="/news/industrynews.shtml">Industry Related News</a></li>
-				<li><a style="padding-left:15px;" href="/news/enewsletter.shtml">eNewsletter</a></li>
-				<li><a style="padding-left:15px;" href="/blog" target="_blank"><img src="../images/blog_small.png" alt="Blog Logo" border="0" align="center"> Blog</a></li>
+				<li></li>
+			</ul>
+			</li>
+--></li>
+			<li class="litop"><a href="/join/index.shtml">Service Providers</a>
+			<ul>
+				<li><a style="padding-left:15px;" href="/join/index.shtml">About our Service Provider Program</a></li>
+				<li><a style="padding-left:15px;" href="/join/install/about.shtml">Join 
+				our Installer Network</a></li>
+				<li><a style="padding-left:15px;" href="/join/service/about.shtml">Join 
+				our Service/Repair Network</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/solutions/service_store_overview.shtml">
+				Join our Discount Buying Group</a></li>
+			</ul>
+			</li>
+			<li class="litop"><a href="/partners/index.shtml">Partners</a>
+			<ul>
+				<li><a style="padding-left:15px;" href="/partners/index.shtml">Current 
+				Partners</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/partners/partner_program.shtml">
+				Partner Program</a></li>
 			</ul>
 			</li>
 			<li class="litop"><a href="/investors/index.shtml">Investors</a>
 			<ul>
-				<li><b><a style="padding-left:15px;" href="/investors/index.shtml">Overview</a></b></li>
-				<li><a style="padding-left:15px;" href="/investors/index.shtml"><b>AIM Rule 26</b></a></li>
-				<li><a style="padding-left:15px;" href="/investors/board.shtml">Board of Directors</a></li>
-				<li><a style="padding-left:15px;" href="/investors/aim_articles_of_association.shtml">Articles 
-				of Association</a></li>
-				<li><a style="padding-left:15px;" href="/investors/aim_number_shares.shtml">Number of Shares 
-				in Issue</a></li>
-				<li><a style="padding-left:15px;" href="/investors/aim_shareholders.shtml">Major Shareholders</a></li>
-				<li><a style="padding-left:15px;" href="/investors/aim_reports.shtml">Annual Reports</a></li>
-				<li><a style="padding-left:15px;" href="/investors/aim_financial_news.shtml">Announcements</a></li>
-				<li><a style="padding-left:15px;" href="/investors/aim_company_circulars.shtml">Company Circulars</a></li>
-				<li><a style="padding-left:15px;" href="/investors/aim_advisers.shtml">Advisers</a></li>
-				<li><a style="padding-left:15px;" href="/investors/financial_information.shtml"><b>Financial 
-				Information</b></a></li>
-				<li><a style="padding-left:15px;" href="/investors/company_information.shtml"><b>Company Information</b></a></li>
-				<li><a style="padding-left:15px;" href="/investors/analyst_information.shtml"><b>Analyst Information</b></a></li>
+				<li><a style="padding-left:15px;" href="/investors/index.shtml">
+				<b>Overview</b></a></li>
+				<li><a style="padding-left:15px;" href="/investors/index.shtml">
+				<b>AIM Rule 26</b></a></li>
+				<li><a style="padding-left:15px;" href="/investors/board.shtml">
+				Board of Directors</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/investors/aim_articles_of_association.shtml">
+				Articles of Association</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/investors/aim_number_shares.shtml">
+				Number of Shares in Issue</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/investors/aim_shareholders.shtml">
+				Major Shareholders</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/investors/aim_reports.shtml">
+				Annual Reports</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/investors/aim_financial_news.shtml">
+				Announcements</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/investors/aim_company_circulars.shtml">
+				Company Circulars</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/investors/aim_advisers.shtml">
+				Advisers</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/investors/financial_information.shtml">
+				<b>Financial Information</b></a></li>
+				<li>
+				<a style="padding-left:15px;" href="/investors/company_information.shtml">
+				<b>Company Information</b></a></li>
+				<li>
+				<a style="padding-left:15px;" href="/investors/analyst_information.shtml">
+				<b>Analyst Information</b></a></li>
 			</ul>
 			</li>
 			<li class="litop"><a href="/support/index.shtml">Support</a>
 			<ul>
-				<li><a style="padding-left:15px;" href="/support/index.shtml">Contact Support</a></li>
+				<li><a style="padding-left:15px;" href="/support/index.shtml">Contact 
+				Support</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/support/dispatch_claims.shtml">
+				Help with Login</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/support/dispatch_claims.shtml">
+				Help with Profile</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/support/dispatch_claims.shtml">
+				Help with Filing Claims</a></li><br> 
+					<li class="wide"><b>&nbsp;&nbsp;&nbsp; <font color="#366DFF">
+					Customer Hub</font></b></li>
+					<li class="wide">
+					<a style="padding-left:15px;" href="/private.shtml">
+					Customer Hub Login</a></li>	
 			</ul>
 			</li>
+			<!--			
 			<li class="litop"><a href="/contact/index.shtml">Contact</a>
 			<ul>
-				<li><a style="padding-left:15px;" href="/contact/about.shtml">About <b>SERVICE<font color="#FF0000"><i>Power</i></font></b></a></li>
-				<li><a style="padding-left:15px;" href="/contact/careers.shtml">Careers</a></li>
-				<li><a style="padding-left:15px;" href="/contact/community.shtml">Community Relations</a></li>
-				<li><a style="padding-left:15px;" href="/contact/quickfind.shtml">Quick Find Guide</a></li>
-				<li><a style="padding-left:15px;" href="/contact/locations.shtml">Locations</a></li>
-				<li><a style="padding-left:15px;" href="/contact/index.shtml?interest=General Contact Request">Contact Us</a></li>
-				<li><a style="padding-left:15px;" href="/contact/website_feedback.shtml">Website Feedback</a></li>				
+				<li><a style="padding-left:15px;" href="/contact/index.shtml?interest=General Contact Request">
+				Contact Us</a></li>
+				<li>
+				<a style="padding-left:15px;" href="/contact/website_feedback.shtml">
+				Website Feedback</a></li>
 			</ul>
 			</li>
-			<li class="litop" style="width: 120px;">
-			<a class="dir" href="/us_index.shtml">Country </a>
+-->
+			<li class="litop" style="width: 120px;"><a href="/us_index.shtml">Country
+			</a>
 			<div class="flag">
-				<img src="../images/clear.gif" id="current_flag" alt="Current Flag" border="0" align="center"> 
+				<img src="/images/clear.gif" id="current_flag" alt="Current Flag" border="0" align="center">
 			</div>
 			<ul>
-				<li><a style="padding-left:15px;" href="/de_index.shtml" onclick="return setLang('de',this)">
+				<li>
+				<a style="padding-left:15px;" href="/de_index.shtml" onclick="return setLang('de',this)">
 				<img src="/images/german_flag.png" alt="German Flag" border="0" align="center"> 
 				Germany</a></li>
-				<li><a style="padding-left:15px;" href="/us_index.shtml" onclick="return setLang('en-us',this)">
+				<li>
+				<a style="padding-left:15px;" href="/us_index.shtml" onclick="return setLang('en-us',this)">
 				<img src="/images/us_flag.png" alt="US Flag" border="0" align="center"> 
 				USA</a></li>
-				<li><a style="padding-left:15px;" href="/uk_index.shtml" onclick="return setLang('en-gb',this)">
+				<li>
+				<a style="padding-left:15px;" href="/uk_index.shtml" onclick="return setLang('en-gb',this)">
 				<img src="/images/uk_flag.png" alt="UK Flag" border="0" align="center"> 
 				United Kingdom</a></li>
 			</ul>
 			</li>
 		</ul>
+		
+		<ul>
+		</ul>
 		</td>
-		<td width="150" bgcolor="#000000">
+		<td class="header" width="150" bgcolor="#000000">
 		<div id="search_box">
 			<form method="get" action="/cgi-bin/search/search.pl">
 				<input name="Terms" id="fdse_Terms" style="font-family:monospace" value="" size="10" maxlength="50">
 			</form>
 		</div>
 		</td>
-		<td valign="middle" bgcolor="#000000">
+		<td class="header" valign="middle" bgcolor="#000000">
 		<script type="text/javascript">
 					var sr = new submitroll("/images/search_nm.png","/images/search_hv.png","mysubmit");
 					sr.write();
@@ -262,14 +442,10 @@ document.location.href = country;
 		
 		
 		</td>
-		<td width="6" height="38" background="/images/sp_menu_bgRight.png">
-		</td>
-		<td width="10"></td>
+		<td class="header" width="6" height="38" background="/images/sp_menu_bgRight.png"></td>
+	<!--	<td class="header" width="10"></td> -->
 	</tr>
 </tbody></table>
-
-
-
 <script type="text/javascript">
 
 function readCookie(name) {
@@ -291,26 +467,27 @@ var lang = readCookie('SPWebSiteLang');
 if (lang != null){
 	if (lang.indexOf('en-us') > -1) flag_name = 'us_flag.png'; 
 	else if (lang.indexOf('en-gb') > -1) flag_name = 'uk_flag.png'; 
-	else if (lang.indexOf('de') > -1) flag_name = 'german_flag.png'; 
+	else if (lang.indexOf('eu') > -1) flag_name = 'eu_flag.png'; 	
+	else if (lang.indexOf('da') > -1) flag_name = 'eu_flag.png'; 	
+	else if (lang.indexOf('nl') > -1) flag_name = 'eu_flag.png';
+	else if (lang.indexOf('fi') > -1) flag_name = 'eu_flag.png';
+	else if (lang.indexOf('fr') > -1) flag_name = 'eu_flag.png';
+	else if (lang.indexOf('de') > -1) flag_name = 'german_flag.png';
+	else if (lang.indexOf('es') > -1) flag_name = 'eu_flag.png';						
 	else flag_name = 'us_flag.png'; 
 }
 else {
 flag_name = 'clear.gif'; 
-
 }
 
-
-document.getElementById('current_flag').src="../images/" + flag_name;
+document.getElementById('current_flag').src="/images/" + flag_name;
 
 </script>
 
 
 
 
-
-
-
-
+<!-- </body>   -->
 <link rel="stylesheet" href="css/sp_style.css" type="text/css">
 
 <table bgcolor="white" width="927" border="0" align="center" cellpadding="0" cellspacing="0">
