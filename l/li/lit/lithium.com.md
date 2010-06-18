@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218062040id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618152944id_/http%3A//lithium.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lithium
 
