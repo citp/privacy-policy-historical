@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyme.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192607id_/http%3A//dailyme.com/corporates/index/10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyme.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618135333id_/http%3A//dailyme.com/corporates/index/10) for the most accurate reproduction.*
 
 # Privacy Policy - DailyMe
 
