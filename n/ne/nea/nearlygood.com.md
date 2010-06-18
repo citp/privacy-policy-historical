@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230122115id_/http%3A//www.nearlygood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618112614id_/http%3A//www.nearlygood.com/privacy.html) for the most accurate reproduction.*
 
-# Nearly Good - funny videos, sexy babes, play games, funny pictures, jokes and more
+# Nearly Good - funny videos, shocking clips, play games, funny pictures, jokes and more
 
 **Introduction**
 
