@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allblogtools.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615071951id_/http%3A//www.allblogtools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allblogtools.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618131947id_/http%3A//www.allblogtools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger Templates and Tricks
 
 ## Privacy Policy
 
-**P** **rivacy Policy for www.allblogtools.com**
+ **P** **rivacy Policy for www.allblogtools.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@allblogtools.com.
 
@@ -31,6 +31,10 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  
  
+
+**  
+Update :**  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 Yours Sincerely  
 Max
