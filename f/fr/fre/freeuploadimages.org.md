@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeuploadimages.org privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418083209id_/http%3A//freeuploadimages.org/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeuploadimages.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618131656id_/http%3A//www.freeuploadimages.org/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Free Upload Images
 
