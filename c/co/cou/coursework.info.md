@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027130630id_/http%3A//www.coursework.info/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursework.info privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618140750id_/http%3A//www.coursework.info/content/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -56,8 +56,9 @@ If you have any questions about this privacy statement, the conduct of Coursewor
 
 Coursework.Info  
 Acumen Professional Intelligence Ltd  
-33 Bond Street  
+The Grain Store  
+127 Gloucester Road  
 Brighton  
-BN1 1RD
+BN1 4AF
 
 or [Contact Us](https://web.archive.org/content/contact_us_direct/)
