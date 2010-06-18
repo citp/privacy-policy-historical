@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onmilwaukee.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218171607id_/http%3A//onmilwaukee.com/about/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmilwaukee.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618204945id_/http%3A//www.onmilwaukee.com/about/privacystatement.html) for the most accurate reproduction.*
 
 # OnMilwaukee.com - Milwaukee's Daily Magazine
-
-**OnMilwaukee.com Privacy Statement**
 
 This statement discloses the privacy practices for OnMilwaukee.com. When you visit our site, you can expect to be notified of: what personally identifiable information of yours is collected; the organization collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information under the licensee's control; and how you can correct any inaccuracies in the information.
 
