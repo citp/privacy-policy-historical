@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the formula1.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227172823id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formula1.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618071129id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Formula 1™ - The Official F1™ Website
 
 **This website, Formula1.com (the "Site"), and all personal information collected from users of this Site, are owned solely by Formula One Management Limited. In this Privacy Policy references to "we", "us", "our", are references to Formula One Management Limited.**
 
 **We take the privacy of all our users seriously.**  
-This Privacy Policy outlines how we treat your personal information, and forms part of the Terms and Conditions of this Site. This Privacy Policy applies only to this Site, and not to the collection and use of personal information by any third party via any website to which there are links on this Site. We are not responsible for the privacy policies of other websites, and encourage you to be aware when you leave our Site, and to read all applicable terms, conditions and privacy policies when using other websites.
+This Privacy Policy outlines how we treat your personal information and forms part of the Terms and Conditions of this Site. This Privacy Policy applies only to this Site, and not to the collection and use of personal information by any third party via any website to which there are links on this Site. We are not responsible for the privacy policies of other websites, and encourage you to be aware when you leave our Site, and to read all applicable terms, conditions and privacy policies when using other websites.
 
 **Consent**  
-Your use of this Site signifies your consent to us collecting and using personal information about you in accordance with this Privacy Policy.
+Your use of this Site signifies your consent to our collecting and using personal information about you in accordance with this Privacy Policy.
 
 **What information do we collect?**  
 You may access this Site's home page and browse the Site without disclosing any personal data. In order to provide you with a range of services, however, we may collect personal information from this Site, from written information sent to us and from other communications. We may for example, keep a record of your name, mailing address, email address, telephone number, gender and preferences.
@@ -16,9 +16,9 @@ You may access this Site's home page and browse the Site without disclosing any 
 **How do we use your information?**  
 Any personal data relating to you will be used and recorded by us in accordance with current data protection legislation and this Privacy Policy. We may use your personal information to communicate with you, such as to let you know about new features or offerings on Formula1.com, for record keeping purposes, and in aggregate (and therefore anonymously) for market research purposes, to track activity on our site, to publish trends and/or to improve usefulness and content and for any other purpose that we may notify to you and the relevant data protection authority from time to time.
 
-We may operate a mailing list to send you FORMULA ONE (tm) related news. This mailing list currently operates as a 'opt in' mailing list whereby subscribers add themselves to the list. We only send emails to addresses, which have been subscribed to the list, we do not 'spam'. If you wish to unsubscribe from the list please e-mail us at [unsubscribe@formula1.com](mailto:unsubscribe@formula1.com). We currently do not share, licence or sell these e-mail addresses.
+We may operate a mailing list to send you FORMULA ONE (tm) related news. This mailing list currently operates as an 'opt in' mailing list whereby subscribers add themselves to the list. We only send emails to addresses which have been subscribed to the list. We do not 'spam'. If you wish to unsubscribe from the list please e-mail us at [unsubscribe@formula1.com](mailto:unsubscribe@formula1.com). We currently do not share, licence or sell these e-mail addresses.
 
-We reserve the right to disclose your personal information to anyone who may take over the running of the Site or who may purchase any or all of our assets including your personal information. We reserve the right to disclose your personal information to any law enforcement agency requesting it in connection with the commission of any offence, once we are reasonably satisfied as to the circumstances surrounding the request. We also reserve the right to access and disclose your personal information in order to comply with applicable laws a lawful government requests, to operate our systems properly or to protect our users and ourselves.
+We reserve the right to disclose your personal information to anyone who may take over the running of the Site or who may purchase any or all of our assets including your personal information. We reserve the right to disclose your personal information to any law enforcement agency requesting it in connection with the commission of any offence, once we are reasonably satisfied as to the circumstances surrounding the request. We also reserve the right to access and disclose your personal information in order to comply with applicable laws and lawful government requests, to operate our systems properly or to protect our users and ourselves.
 
 Except as expressly stated in this Privacy Policy, we will not sell, share, trade or licence your personal information to others without your express consent.
 
@@ -39,11 +39,11 @@ Some of our business partners (for example, advertisers) may use cookies on our 
 **Unsubscribe**  
 We hope that you will enjoy using this Site and the services we offer. However, you may request that your personal information is not used in the ways outlined above. This is called unsubscribing, and may be achieved by any of the following methods:
 
-Visit our [Email](http://www.formula1.com/services/email.html) page and complete the unsubscribe option.
+Sign in and visit the [Edit details](http://www.formula1.com/reg/editdetails) page, untick the relevant check box(es) and save your details.
 
 Email us at [unsubscribe@formula1.com](mailto:unsubscribe@formula1.com)
 
-**Correcting and Updating Personal Information**  
+ **Correcting and Updating Personal Information**  
 If your personal information changes, or if you believe that the personal data we hold about you is incorrect, you may ask us to correct or update the personal information held by us by sending an email to [admin@formula1.com](mailto:admin@formula1.com)
 
 **Site and Service Updates**  
