@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saptechnical.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063901id_/http%3A//saptechnical.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saptechnical.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618141544id_/http%3A//saptechnical.com/Privacy.htm) for the most accurate reproduction.*
 
 # SAPTechnical.COM - Privacy
 
@@ -35,6 +35,12 @@ As we continue to develop our business, we might buy or sell businesses or busin
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will make these changes available from our Homepage. If at any point we decide to use personally identifiable information we will notify users by way of an announcement on the home page.
+
+**Newly added** :
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
