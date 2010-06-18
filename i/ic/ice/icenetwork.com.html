@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icenetwork.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216151742id_/http%3A//web.icenetwork.com/help/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icenetwork.com privacy policy that was archived on 2010-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618124715id_/http%3A//web.icenetwork.com/help/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head style="">
 	
@@ -16,9 +16,11 @@
 		
 	
 	<script type="text/javascript">
-	var section = "help";
-	var ctxPath = "";
-	var pageid  = "privacy";
+	var section   = "help";
+	var ctxPath   = "";
+	var pageid    = "privacy";
+	var dc_keyVal = "";
+	var dc_lang   = "en";
 	</script>
 
 	
@@ -56,7 +58,7 @@ function getMLBDate() {
 	
 	//Day Start: 11
 	try {
-		var sysDate = new Date("December 15, 2008");
+		var sysDate = new Date("June 17, 2010");
 		sysDate.toDirectoryPath = function() {
 			var mm = (this.getMonth() + 1);
 				mm = (mm < 10)?"0" + mm:mm;
@@ -81,42 +83,44 @@ function getMLBDate() {
 <div style="position:absolute; top:-100px; left:-100px; width:100px;">
 
 
-<!-- SiteCatalyst code version: G.5. Copyright &copy; 2006 Ice Network, LLC. More info available at http://www.omniture.com -->
 <script language="JavaScript">
-<!--
-var omDomain = document.location.hostname.toLowerCase();
-var omURL = document.location.href.toLowerCase();
-
-var isProd = (((omDomain.indexOf("beta") == -1) && (omDomain.indexOf("dev") == -1)) ? true : false);
-if (isProd) var s_account = "bamneticenetwork";
-else var s_account = "devmlbglobal";
-
-if (typeof s_pageName == "undefined") var s_pageName = omURL.slice(omURL.indexOf(omDomain) + (omDomain.length + 1));
-if (s_pageName == "") s_pageName = "index.jsp";
-var s_server="";
-var s_channel=section;
-if (typeof s_pageType == "undefined") var s_pageType = "";
-if (typeof s_campaign == "undefined") var s_campaign = "";
-if (typeof s_state == "undefined") var s_state = "";
-if (typeof s_zip == "undefined") var s_zip = "";
-var s_prop1 = pageid;
-if (typeof s_prop5 != "undefined" && /\/28854\//.test(s_prop5)) s_prop5 = s_prop5.replace(/(.+)(\/28854\/)(.+)($)/gi,"$3$4");
-for (var i = 2; i <= 20; i++) eval('if (typeof s_prop' + i + ' == "undefined") var s_prop' + i + ' = "";');
-
-if (typeof s_events == "undefined") var s_events = "";
-if (typeof s_products == "undefined") var s_products = "";
-for (var i = 1; i <= 10; i++) eval('if (typeof s_eVar' + i + ' == "undefined") var s_eVar' + i + ' = "";');
-if (typeof s_purchaseID == "undefined") var s_purchaseID = "";
-else if (s_purchaseID != "") {
-	if (s_events.length > 0) s_events += ",";
-	s_events += "purchase";
-	s_purchaseID = "bamneticenetwork_" + s_purchaseID;
-}
-var s_linkInternalFilters="javascript:,icenetwork,/";
-//-->
+var omDomain  = document.location.hostname.toLowerCase();
+var omURL     = document.location.href.toLowerCase();
+var isProd    = (((omDomain.indexOf("qa") == -1) && (omDomain.indexOf("beta") == -1) && (omDomain.indexOf("dev") == -1)) ? true : false);
+var s_account, s_rsid = (isProd) ? "bamneticenetwork" : "mlbdevsandbox";
 </script>
-<script type="text/javascript" src="/shared/scripts/s_code_remote.js"></script><img name="s_i_bamneticenetwork" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/bamneticenetwork/1/G.5-Pd-R/s2484792227215?[AQB]&amp;ndh=1&amp;t=30/0/2020%2013%3A35%3A47%204%200&amp;pageName=web/20081216151742id_/http%253a//web.icenetwork.com/help/privacy.jsp&amp;ch=help&amp;c1=privacy&amp;v10=9033089681580391347090&amp;c21=9033089681580391347090&amp;c24=bamneticenetwork&amp;g=https%3A//web.archive.org/web/20081216151742id_/http%253A//web.icenetwork.com/help/privacy.jsp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-<!-- End SiteCatalyst code version: G.5. -->
+<!-- SiteCatalyst code version: H.14. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com ${Page.config.env} -->
+<script language="JavaScript" src="/shared/scripts/external/mlbamscv2.js"></script>
+<script language="JavaScript"><!--
+
+if (typeof s.pageName == "undefined") {
+	s.pageName = omURL.slice(omURL.indexOf(omDomain) + (omDomain.length + 1));
+	if (s.pageName == "") s.pageName = "index.jsp";
+}
+s.channel  = section;
+s.prop1    = pageid;
+
+s.prop24   = s_account;
+/* Conversion Variables */
+s.campaign   = "";
+s.state      = "";
+s.zip        = "";
+s.events     = "";
+s.products   = "";
+s.purchaseID = "";
+s.linkInternalFilters="javascript:,icenetwork,/";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.14. -->
+<script type="text/javascript">
+
+function trackFlash(){}
+function trackClick(){}
+function launchFlashLink(linkURL, trackCode) {
+	if(linkURL.indexOf("javascript:") != -1) { eval(linkURL); }
+	else { window.location.href = linkURL; }
+}
+</script>
 
 </div>
 
@@ -133,7 +137,7 @@ var s_linkInternalFilters="javascript:,icenetwork,/";
 
 
 <div id="header"><h1 class="mir"><a href="http://web.icenetwork.com/" title="click here to return to the homepage">icenetwork.com</a></h1></div>
-<div id="header_ad"><script type="text/javascript">writeAd(728,90);</script><script language="JavaScript" src="https://web.archive.org/web/20110713001806/http://ad.doubleclick.net/adj/icenetwork.com/help;;pos=1;sz=728x90;tile=1;ord=207515696?" type="text/javascript"></script></div>
+<div id="header_ad"><script type="text/javascript">writeAd(728,90);</script><script language="JavaScript" src="https://web.archive.org/web/20110713001806/http://ad.doubleclick.net/adj/icenetwork.com/help;;pos=1;sz=728x90;tile=1;ord=303335827?" type="text/javascript"></script></div>
 
 <div id="globalnav">
 	<ul id="menu" class="help">
@@ -144,8 +148,7 @@ var s_linkInternalFilters="javascript:,icenetwork,/";
 	<li class="video"><a href="http://web.icenetwork.com/video/" title="Video">Video</a></li>
 	<li class="photos"><a href="http://web.icenetwork.com/photos/" title="Photos">Photos</a></li>
 	<li class="news"><a href="http://web.icenetwork.com/news/" title="News">News</a></li>
-	<li class="boards"><a href="http://forums.prospero.com/n/pfx/forum.aspx?webtag=icenetwork" title="Message Boards">Message Boards</a></li>
-	<li class="shop"><a href="http://web.icenetwork.com/shop/" title="Shop">Shop</a></li>
+	<li class="boards"><a href="http://www.icenetworkincrowd.com" title="Incrowd">Incrowd</a></li>
 	<li class="tickets"><a href="http://web.icenetwork.com/tickets/" title="Tickets">Tickets</a></li>
 	<li class="subscribe"><a href="http://web.icenetwork.com/subscribe/" title="Subscribe">Subscribe</a></li>
 
@@ -257,7 +260,7 @@ By using any of the Sites, you signify your acceptance of our Privacy Policy. If
 		</div> <!-- "mc" -->
 		
 		<div id="adrail">
-		<div class="dc"><script type="text/javascript">writeAd(160,600);</script><script language="JavaScript" src="https://web.archive.org/web/20110713001806/http://ad.doubleclick.net/adj/icenetwork.com/help;;pos=1;sz=160x600;tile=1;ord=207515696?" type="text/javascript"></script></div>
+		<div class="dc"><script type="text/javascript">writeAd(160,600);</script><script language="JavaScript" src="https://web.archive.org/web/20110713001806/http://ad.doubleclick.net/adj/icenetwork.com/help;;pos=1;sz=160x600;tile=1;ord=303335827?" type="text/javascript"></script></div>
 
 		</div> <!-- "adrail" -->
 		<br style="clear: both;">
