@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204125953id_/http%3A//www.wotif.com/info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618144707id_/http%3A//www.wotif.com/info/Privacy) for the most accurate reproduction.*
 
 # Wotif.com: Privacy
 
@@ -92,11 +92,11 @@ If at any time you would like to either change your email address with us or uns
     1. Go to the "Newsletter" section of our site from the home page and follow the instructions to change your email address or unsubscribe; or 
     2. Send an email to [newsletter@wotif.com](mailto:newsletter@wotif.com?subject=\[newsletter%20subscription%20changes\]) advising that you would like to unsubscribe or change your email address. Be sure to include details of your old and new email addresses for changes.
   * _Booking information_  
-If at any time you would like to alter the PII you provided us in your booking, please [contact us](https://web.archive.org/ContactUs.jsp).
+If at any time you would like to alter the PII you provided us in your booking, please [contact us](http://info.wotif.com/ContactUs).
   * _Remember my details for next time_  
-If at any time you would like us to stop remembering your details for the next time you book, untick "Remember my details for next time" the next time you make a booking, or [contact us](https://web.archive.org/ContactUs.jsp).
+If at any time you would like us to stop remembering your details for the next time you book, untick "Remember my details for next time" the next time you make a booking, or [contact us](http://info.wotif.com/ContactUs).
   * _General_  
-If at any time you want to enquire about any of your PII that we store, please [contact us](https://web.archive.org/ContactUs.jsp).
+If at any time you want to enquire about any of your PII that we store, please [contact us](http://info.wotif.com/ContactUs).
 
 
 
