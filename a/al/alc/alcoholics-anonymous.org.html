@@ -1,57 +1,105 @@
-<!--The following is the downloaded HTML source of the alcoholics-anonymous.org privacy policy that was archived on 2008-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514192923id_/http%3A//www.alcoholics-anonymous.org/en_privacy_policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alcoholics-anonymous.org privacy policy that was archived on 2010-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618103932id_/http%3A//www.aa.org/lang/en/subpage.cfm%3Fpage%3D25) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head><script src="/__utm.js" type="text/javascript"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Alcoholics Anonymous</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Alcoholics Anonymous : Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="KEYWORDS" content="Alcoholics Anonymous, Dr. Bob, sobriety, sober, A way out, Twelve Steps, 12 Steps, Twelve Traditions, 12 Traditions, A.A. Big Book, Recovered, Recovery, Friends of Bill W., Bill W., AA, A.A., world, NY, N.Y., New York, Al Annon, Alateen, GSO, G.S.O., Alcohol, Alcoholism, Convention, Drunk, Drinking Problems, Preamble, Alcoholic">
-<meta name="DESCRIPTION" content="Alcoholics Anonymous Official Web site">
-<link rel="stylesheet" type="text/css" href="css/aa_en.css" media="all">
-<script language="Javascript">
+
+<meta name="DESCRIPTION" content="">
+
+<link rel="stylesheet" type="text/css" href="/css/aa.css" media="all">
+<link rel="stylesheet" type="text/css" href="/css/carousel.css" media="all">
+<link rel="stylesheet" type="text/css" href="/css/quicknav.css" media="all">
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6.css" media="all" />
+<![endif]-->
+<script src="/js/prototype.js" type="text/javascript"></script>
+<script src="/js/scriptaculous.js" type="text/javascript"></script>
+<script src="/__utm.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://yui.yahooapis.com/2.5.0/build/yahoo-dom-event/yahoo-dom-event.js"></script> 
+<script type="text/javascript" src="http://yui.yahooapis.com/2.5.0/build/utilities/utilities.js"></script>
+<script type="text/javascript" src="http://yui.yahooapis.com/2.5.0/build/dragdrop/dragdrop-min.js"></script>
+<script type="text/javascript" src="http://yui.yahooapis.com/2.5.0/build/container/container_core-min.js"></script>
+<script type="text/javascript" src="/js/carousel.js"></script>
+<script language="javascript" src="/js/scripts.js" type="text/javascript"></script>
+<script src="/js/prototype.js" type="text/javascript"></script>
+<script src="/js/scriptaculous.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
 <!-- //hide me
-
-    if (document.images) {
-
-	home01On = new Image(); home01On.src = "pics_en/en_information_on.gif";
-	home02On = new Image(); home02On.src = "pics_en/en_media_on.gif";
-	home03On = new Image(); home03On.src = "pics_en/en_aa_you_on.gif";
-	home04On = new Image(); home04On.src = "pics_en/en_services_on.gif";
-	home05On = new Image(); home05On.src = "pics_en/en_gso_archives_on.gif";
-	home06On = new Image(); home06On.src = "pics_en/en_find_meetings_on.gif";
-		    
-	home01Off = new Image(); home01Off.src = "pics_en/en_information_aa.gif";
-	home02Off = new Image(); home02Off.src = "pics_en/en_media_resources.gif";  
-	home03Off = new Image(); home03Off.src = "pics_en/en_aa_you.gif";
-	home04Off = new Image(); home04Off.src = "pics_en/en_services.gif";
-	home05Off = new Image(); home05Off.src = "pics_en/en_gso_archives.gif";
-	home06Off = new Image(); home06Off.src = "pics_en/en_find_meetings.gif";
-
-    }
 
 function hiLite(imgDocID,imgObjName) {
         if (document.images) 
         document.images[imgDocID].src = eval(imgObjName + ".src")
 }
+function changeQuickMenuBackOff(obj) {
+	//var n = obj.element.id.replace('quicknav','');
+	//menu = document.getElementById('quickmenu'+n);
+	menu = obj;
+	menu.className = "quickmenuoff";
+}
+function changeQuickMenuBackOn(obj) {
+	//var n = obj.element.id.replace('quicknav','');
+	//menu = document.getElementById('quickmenu'+n);
+	menu = obj;
+	menu.className = "quickmenuon";
+}
+var currQuickMenu = null;
+function showQuickNav(num) {
+	if ( currQuickMenu != null ) {
+		if ( currQuickMenu != num ) {
+			//new Effect.toggle('quicknav'+currQuickMenu,'slide',{queue: 'end', afterFinish: changeQuickMenuBackOff});
+			//new Effect.toggle('quicknav'+num,'slide',{queue: 'end', beforeStart: changeQuickMenuBackOn});
+			document.getElementById('quicknav'+num).style.display = 'block';
+			document.getElementById('quicknav'+num).style.visibility = 'visible';
+			document.getElementById('quicknav'+currQuickMenu).style.display = 'none';
+			document.getElementById('quicknav'+currQuickMenu).style.visibility = 'hidden';
+			var i = 1;
+			while ( $('quickmenu'+i) ) {
+				if ( i != num )
+					$('quickmenu'+i).setOpacity(0.4);
+				else 
+					$('quickmenu'+i).setOpacity(1.0);
+				i++;
+			}
+			changeQuickMenuBackOff(document.getElementById('quickmenu'+currQuickMenu));
+			changeQuickMenuBackOn(document.getElementById('quickmenu'+num));
+			currQuickMenu = num;
+		}
+		else {
+			//new Effect.toggle('quicknav'+num,'slide',{queue: 'end', afterFinish: changeQuickMenuBackOff});
+			var i = 1;
+			while ( $('quickmenu'+i) ) {
+				$('quickmenu'+i).setOpacity(1.0);
+				i++;
+			}
+			document.getElementById('quicknav'+num).style.display = 'none';
+			document.getElementById('quicknav'+num).style.visibility = 'hidden';
+			changeQuickMenuBackOff(document.getElementById('quickmenu'+num));
+			currQuickMenu = null;
+		}
+	}
+	else {
+		//new Effect.toggle('quicknav'+num,'slide',{queue: 'end', beforeStart: changeQuickMenuBackOn});
+		var i = 1;
+		while ( $('quickmenu'+i) ) {
+			if ( i != num )
+				$('quickmenu'+i).setOpacity(0.4);
+			else 
+				$('quickmenu'+i).setOpacity(1.0);
+			i++;
+		}
+		document.getElementById('quicknav'+num).style.display = 'block';
+		document.getElementById('quicknav'+num).style.visibility = 'visible';
+		changeQuickMenuBackOn(document.getElementById('quickmenu'+num));
+		currQuickMenu = num;
+	}
+}
 
 //stop hiding//-->
 </script>
 
-<script type="text/JavaScript">
+<script type="text/javascript" language="javascript">
 <!--
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
@@ -61,205 +109,463 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </script>
 
 
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen" />
+<style type="text/css">
+/* #page_content { height: 350px; } */
+</style>
+<![endif]-->
 </head>
 
 <body>
-<center>
 
-
-
-<table width="767" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td colspan="3"> 
-
- 
-
-
+<div id="topsearch">
 	
 	<br>
-	<form action="en_results.cfm?action=search" method="post">
+	<form action="results.cfm?action=search" id="searchform" name="searchform" method="get">
 	<table width="767" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
-		<td width="116"><div align="left"><img src="pics_en/en_search_our_site.gif" alt="Search Our Site" width="116" height="14" border="0" title="About A.A."></div></td>
-		<td width="155"><div align="left"><input type="text" name="results" value="" class="textbox"></div></td>
-		<td width="490"><div align="left"><input type="image" src="pics_site/button_search_arrow.gif" name="search" border="0"></div></td>
+		<td width="136"><div align="right"><img src="/pics_en/en_search_our_site.gif" alt="Search Our Site" border="0" title="Search Our Site"></div></td>
+		<td width="145"><div align="center"><input type="text" name="results" value="" class="textbox" style="width:115px;border:1px solid #b4b4b4;height:16px"></div></td>
+		<td width="480"><div align="left"><a href="#" onclick="document.getElementById('searchform').submit();"><img src="/pics_site/button_search_arrow.gif" name="search" border="0" alt="Search"></a></div></td>
 		<td width="490">
-		<div style="padding-right: 20px; text-align: right;">
+        
+			<div style="padding-right: 20px; text-align: right;">
 			
-			<a href="index.cfm" class="switch_en">Home</a> | 
-			<a href="sp&#10;&#9;&#9;&#9;&#9;_privacy_policy.cfm&#10;&#9;&#9;&#9;&#9;?" class="switch_sp">Español</a> | 
-				
-			<a href="fr&#10;&#9;&#9;&#9;&#9;_privacy_policy.cfm&#10;&#9;&#9;&#9;&#9;?" class="switch_fr">Français</a>
-				
+			<a href="/index.cfm" class="switch_en">Home</a> | 
+            
+			<a href="/lang/sp/subpage.cfm?page=25" class="switch_lang">Español</a> | 
+			<a href="/lang/fr/subpage.cfm?page=25" class="switch_lang">Français</a> 
 			</div>
+        
 		</td>
 	</tr>
 	</tbody></table>
 	</form>
 	
-	</td>	
-</tr><tr>
-	<td colspan="3"><img src="pics_site/shadow_top.gif" alt="Welcome To Alcoholics Anonymous" width="767" height="18" border="0"></td>	
-</tr><tr>
-	<td width="5" valign="top"><img src="pics_site/shadow_left.gif" alt="Shadow_Left" width="5" height="420"></td>
-	<td width="757" bgcolor="FFFFFF" valign="top">
+	
+</div>
 
-	
-	
-	<img src="pics_en/en_top_banner.gif" alt="Welcome To Alcoholics Anonymous" title="Welcome To Alcoholics Anonymous" border="0">
-	
-	
-	<table width="757" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td width="133"><a href="en_information_aa.cfm" onmouseover="hiLite('home01','home01On');" onmouseout="hiLite('home01','home01Off');"><img src="pics_en/en_information_aa.gif" alt="Information About A.A." width="133" height="29" border="0" title="Information About A.A." name="home01"></a></td>
-		<td width="111"><a href="en_media_resources.cfm" onmouseover="hiLite('home02','home02On');" onmouseout="hiLite('home02','home02Off');"><img src="pics_en/en_media_resources.gif" alt="A.A. Media Resources" width="111" height="29" border="0" title="A.A. Media Resources" name="home02"></a></td>
-		<td width="96"><a href="en_is_aa_for_you.cfm" onmouseover="hiLite('home03','home03On');" onmouseout="hiLite('home03','home03Off');"><img src="pics_en/en_aa_you.gif" alt="Is A.A. for You" width="96" height="29" border="0" title="Is A.A. for You" name="home03"></a></td>
-		<td width="140"><a href="en_services_for_members.cfm" onmouseover="hiLite('home04','home04On');" onmouseout="hiLite('home04','home04Off');"><img src="pics_en/en_services.gif" alt="Services for Members" width="140" height="29" border="0" title="Services for Members" name="home04"></a></td>
-		<td width="110"><a href="en_gso_archives.cfm" onmouseover="hiLite('home05','home05On');" onmouseout="hiLite('home05','home05Off');"><img src="pics_en/en_gso_archives.gif" alt="GSO A.A. Archives" width="110" height="29" border="0" title="GSO A.A. Archives" name="home05"></a></td>
-		<td width="167"><a href="en_find_meeting.cfm" onmouseover="hiLite('home06','home06On');" onmouseout="hiLite('home06','home06Off');"><img src="pics_en/en_find_meetings.gif" alt="How To Find an A.A. Meeting" width="167" height="29" border="0" title="How To Find an A.A. Meeting" name="home06"></a></td>
-	</tr>
-	</tbody></table><br><br>
-	
-	
-	<center>
-	  <table width="700" border="0" cellpadding="0" cellspacing="0">
-	  	<tbody><tr>
-			<td width="200" valign="top">
-			
-			
-			<table width="190" border="0" cellpadding="0" cellspacing="1">
-                  <tbody><tr>
-					<td colspan="2"><div align="left"><a href="en_privacy_policy.cfm"><b>A.A. Privacy Policy</b></a></div></td>
-				</tr>
-				
-				<tr>
-					<td width="15" valign="top">•</td>
-					<td width="175"><div align="left"><a href="en_privacy_policy.cfm?PageID=33" class="switch_en">A.A.W.S. Inc.'s Policy on G.S.O.'s A.A. Web site</a></div></td>
-				</tr>
-				
-				
-				
-				
-				
-				<tr>
-					<td width="15" valign="top">•</td>
-					<td width="175"><div align="left"><a href="en_privacy_policy.cfm?PageID=94" class="switch_en">Intellectual Properties Policy</a></div></td>
-				</tr>
-				
-				
-				
-				
-				
-				<tr>
-					<td width="15" valign="top">•</td>
-					<td width="175"><div align="left"><a href="en_privacy_policy.cfm?PageID=34" class="switch_en">A.A. Literature Translation Policy</a></div></td>
-				</tr>
-				
-				
-				
-				
-				
-                </tbody></table>
-				
-				<div align="center">
-				<a href="http://www.aa.org/bigbookonline/" target="_blank"><img src="pics_en/en_big_book_anime_side.gif" alt="View The Big Book Online" titel="View The Big Book Online" border="0"></a>
-				</div>
-			
-			</td>
-			<td width="500" valign="top">
-			<div align="left">
-			<h1>A.A. Privacy Statement Policy</h1>
+<div id="top_shadow"><img src="/images/top_shadow.gif" alt="" width="767" height="18" border="0"></div>
+<div id="page">
+    <div id="page_header">
+        <div id="page_top">
+
+            <img src="/pics_en/en_top_banner.gif" alt="Welcome To Alcoholics Anonymous" title="Welcome To Alcoholics Anonymous" border="0">
             
-			<p><b>General Service Office’s A.A. Web site    </b></p><p><b>
-</b>This information is provided to explain our online information practices and the choices you have in the way information is collected and used on this Web site.    </p><p>
-<b>The Information We Collect</b><br>  At G.S.O.’s Web site, we do not require personally identifiable information from you in order to access and use the Web site. Certain functions, such as online information or registration forms, do require you to voluntarily submit personally identifiable information, which may include: name, organization, address, and telephone and fax numbers.    </p><p>
-<b>How We Use the Information</b><br>  Any personally identifiable information submitted by you is kept strictly confidential and separately from the Web site, and is used solely by G.S.O. to provide the information that you requested or for your registration to Regional Forums and/or International Conventions.  <i>We do not</i> provide or forward personally identifiable information to any organization.    </p><p>
-<b>Cookies</b><br>  Portions of G.S.O.’s Web site use “cookies.” Cookies are small text files placed on your computer. G.S.O. uses cookies to facilitate your ongoing access to and use of the Web site, to track site usage, and to compile nonpersonal aggregate data in order to improve content and efficiency on the Web site. We do not link personally identifiable information submitted by you through the online forms on G.S.O’s Web site to the data stored in the cookies.    </p><p>
-Most browsers and certain third-party utilities allow for you to accept or deny cookies from this or any other Web site. If you deny the use of cookies you will still be able to use our Web site.    </p><p>
-<b>Third Party Sites</b><br>  Portions of G.S.O.’s Web site contain links to other Web sites. When leaving our Web site you will see a disclaimer statement. You should consult the other Web site’s privacy statement for more information, as those practices may differ from ours.    </p><p>
-<b>How to Contact Us</b><br>  If you have any questions or concerns about this privacy statement, you may contact us at:<br>    </p><p>
-</p><center><b>General Service Office<br>  </b>P.O. Box 459<br>  Grand Central Station<br>  New York, N.Y. 10163<br>  (212) 870-3400<br>  email: <a href="mailto:privacystatement@aa.org">privacystatement@aa.org</a><br><br><br>  Approved by A.A.W.S. September 19th 2003</center><br>    <p>
-<align="left"><b><i><a href="#top">back to </a><a href="#top"><img src="pics_gen/top_e_b.gif" width="55" height="40" border="0"></a></i></b> </align="left"></p><p> 
-			
-			
-			</p></div>
-			</td>
-		</tr>
-	  </tbody></table>
-	  </center>
-	  	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	</td>
-	<td width="5" valign="top"><img src="pics_site/shadow_right.gif" alt="Shadow_Right" width="5" height="420"></td>
+        </div>
+        <div id="topnav"> 
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="padding: 0; margin: 0;">
+<tbody><tr>
+
+<td class="portal_nav"><a href="/lang/en/subpage.cfm?page=1">INFORMATION ON A.A.</a></td>
+
+<td class="portal_sep"> </td>
+
+<td class="portal_nav"><a href="/lang/en/subpage.cfm?page=3">FOR THE MEDIA</a></td>
+
+<td class="portal_sep"> </td>
+
+<td class="portal_nav"><a href="/lang/en/subpage.cfm?page=12">IS A.A. FOR YOU?</a></td>
+
+<td class="portal_sep"> </td>
+
+<td class="portal_nav"><a href="/lang/en/subpage.cfm?page=5">FOR GROUPS AND MEMBERS</a></td>
+
+<td class="portal_sep"> </td>
+
+<td class="portal_nav"><a href="/lang/en/subpage.cfm?page=6">ARCHIVES AND HISTORY</a></td>
+
+<td class="portal_sep"> </td>
+
+<td class="portal_nav"><a href="/lang/en/subpage.cfm?page=28">HOW TO FIND A.A. MEETINGS</a></td>
+
 </tr>
-<tr>
-	<td width="5">&nbsp;</td>
-	<td width="757" bgcolor="ffffff">
-	<div align="center">
-	
-	
-	<br>
-			<div style="padding-right: 20px; text-align: right;">
-			
-			<i>View this page in</i>: 
-			<a href="sp&#10;&#9;&#9;&#9;&#9;_privacy_policy.cfm&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;" class="switch_sp">Español</a> | 
-				
-			<a href="fr&#10;&#9;&#9;&#9;&#9;_privacy_policy.cfm&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;" class="switch_fr">Français</a>
-				
-			</div>
-	
-	
-	
-	
-	</div></td>
-	<td width="5">&nbsp;</td>
-</tr><tr>
-	<td width="5">&nbsp;</td>
-	<td width="757" valign="top"><img src="pics_site/site_bottom.gif" alt="www.aa.org" border="0"></td>
-	<td width="5">&nbsp;</td>
-</tr><tr>
-	<td colspan="3">
-	<br><div align="center">
-	<table width="757" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td width="391">
-		<div id="copyright" align="left">
-		<b>© Copyright 2008 <br>Alcoholics Anonymous World Services, Inc. All Rights Reserved.</b><br>
-		"Graphic images may not be downloaded, copied or duplicated without the express<br>
-		written permission of Alcoholics Anonymous World Services, Inc."</div>
-
-		</td>
-		<td width="187">
-		<div id="copyright" align="left">
-		• <a href="en_privacy_policy.cfm" class="copyright">PRIVACY STATEMENT</a><br>
-		• <a href="en_privacy_policy.cfm?PageID=33" class="copyright">WEB SITE POLICY</a><br>
-		• <a href="en_privacy_policy.cfm?PageID=94" class="copyright">INTELLECTUAL PROPERTY POLICIES</a><br>
-		• <a href="en_services_for_members.cfm?PageID=26" class="copyright">CONTACT US</a></div>
-		</td>
-		<td width="179">
-		<div id="copyright" align="left">
-		• <a href="en_privacy_policy.cfm?PageID=34" class="copyright">LITERATURE TRANSLATION POLICY</a><br>
-		• <a href="en_site_map.cfm" class="copyright">SITE MAP</a><br>
-		• <a href="en_aa_help.cfm" class="copyright">SITE HELP</a></div>
-		</td>	
-	</tr>
-	</tbody></table>
-	</div><br><br>
-	
-	</td>	
-</tr>	
 </tbody></table>
+</div>
+    
+		    
+            <div id="quicknav">
+            <div id="quickmenus">
+<table cellspacing="0" cellpadding="0" width="80%" border="0" id="quickmenutable">
+<tbody><tr>
+<td class="descriptor" style="text-align: center;">NAVIGATE TO VITAL INFO</td>
+<td></td>
+<td id="quickmenu1" class="quickmenuoff"><a href="#" id="quickmenulink1" class="quickmenulink" onfocus="this.blur();" onclick="showQuickNav(1); return false;">HIGHLIGHTS</a></td>
+<td></td>
+<td id="quickmenu2" class="quickmenuoff"><a href="calendar.cfm" id="quickmenulink2" class="quickmenulink" onfocus="this.blur();">GSB/AAWS Calendar</a></td>
+<td></td>
+<td id="quickmenu3" class="quickmenuoff"><a href="#" id="quickmenulink3" class="quickmenulink" onfocus="this.blur();" onclick="showQuickNav(3); return false;">A.A. LITERATURE</a></td>
+<td></td>
 
-</center>
+</tr>
+</tbody></table><div id="quicknav1" class="quicknavmenu" style="display: none;">
+    <table cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr>
+    
+        <td>
+        
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/meeting_finder.cfm?origpage=29" class="quicknavlink">How to Find A.A. Meetings</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/catalog.cfm?origpage=&amp;category=8&amp;product=92" class="quicknavlink">A.A. Fact File</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="http://www.aa.org/lang/en/subpage.cfm?page=359" class="quicknavlink">Big Book</a></td></tr></tbody></table>
+            
+        </td>
+    
+        <td>
+        
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/subpage.cfm?page=29" class="quicknavlink">Central Offices/Intergroups</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/catalog.cfm?origpage=&amp;category=5&amp;product=84" class="quicknavlink">Information on A.A.</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/catalog.cfm?category=4&amp;product=5" class="quicknavlink">Is A.A. for You?</a></td></tr></tbody></table>
+            
+        </td>
+    
+        <td>
+        
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/aatimeline" class="quicknavlink">A.A. Timeline - Over 70 Years of Growth</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/subpage.cfm?page=199" class="quicknavlink">2010 International Convention of A.A.</a></td></tr></tbody></table>
+            
+        </td>
+    
+    </tr>
+    </tbody></table>
+</div>
+<div id="quicknav2" class="quicknavmenu" style="display: none;">
+    <table cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr>
+    
+        <td>
+        
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/calendar.cfm" class="quicknavlink">G.S.O. and A.A.W.S. Calendar of Events</a></td></tr></tbody></table>
+            
+        </td>
+    
+    </tr>
+    </tbody></table>
+</div>
+<div id="quicknav3" class="quicknavmenu" style="display: none;">
+    <table cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr>
+    
+        <td>
+        
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/catalog.cfm?category=2" class="quicknavlink">Books</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/catalog.cfm?category=4" class="quicknavlink">Pamphlets</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/catalog.cfm?category=8" class="quicknavlink">Miscellaneous</a></td></tr></tbody></table>
+            
+        </td>
+    
+        <td>
+        
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/subpage.cfm?page=27" class="quicknavlink">Box 4-5-9 - News and Notes from G.S.O.</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/lang/en/subpage.cfm?page=36" class="quicknavlink">A.A. Guidelines</a></td></tr></tbody></table>
+            
+        </td>
+    
+    </tr>
+    </tbody></table>
+</div>
+<div id="quicknav4" class="quicknavmenu" style="display: none;">
+    <table cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr>
+    
+        <td>
+        
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/en_find_meeting.cfm" class="quicknavlink">VHS/DVD</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/en_find_meeting.cfm" class="quicknavlink">Audio Cassettes/CDs</a></td></tr></tbody></table>
+            
+            <table><tbody><tr><td><img src="/images/quicknavyellow.gif" alt=""></td><td><a href="/en_find_meeting.cfm" class="quicknavlink">American Sign Language</a></td></tr></tbody></table>
+            
+        </td>
+    
+    </tr>
+    </tbody></table>
+</div>
+
+</div>
+
+            </div>
+        
+    </div>
+
+<div id="pagebody">
+	    
+	<div id="page_content">
+        <img src="/images/sub_gradient.gif" alt="" width="757" height="22"><br>
+        <div id="sidenav">
+        	
+        <script language="javascript">
+		  var openmenu = null;
+		  var opennum = null;
+		  var animatingopen = false;
+		  var animatingclose = false;
+		  
+		  function togglemenu(menuid,num) {
+			if(animatingopen || animatingclose) {
+			  return false;
+			}
+		    /*
+			if(openmenu) {
+				new Effect.SlideUp(openmenu, {
+					transition: Effect.Transitions.sinoidal,
+					duration: 0.5, 
+					queue: {
+							position: 'end', 
+							scope: 'accordionAnimation'
+					},
+					beforeStart: function() {
+							animatingclose = true;
+					},
+					afterFinish: function() {
+							if ($(openmenu)) {
+								$(openmenu).setStyle({
+									display: 'none'
+								});				
+							}
+							$(menuid).setStyle({
+							  height: 'auto'
+							});
+							animatingclose = false;
+					}
+				});
+			}
+			
+			new Effect.SlideDown(menuid, {
+				transition: Effect.Transitions.sinoidal,
+				duration: 0.5, 
+				queue: {
+						position: 'end', 
+						scope: 'accordionAnimation'
+				},
+				beforeStart: function() {
+					animatingopen = true;
+				},
+				afterFinish: function() {
+					animatingopen = false;
+					openmenu = menuid;
+				}
+			});
+			*/
+			if ( openmenu == menuid ) {
+				$('expand'+num).src = '/images/plusyellow.gif';
+				opennum = null;
+				new Effect.SlideUp(menuid, {
+					transition: Effect.Transitions.sinoidal,
+					duration: 0.5, 
+					queue: {
+							position: 'end', 
+							scope: 'accordionAnimation'
+					},
+					beforeStart: function() {
+						animatingopen = true;
+					},
+					afterFinish: function() {
+						animatingopen = false;
+						openmenu = null;
+					}
+				});
+			}
+			else {
+				if ( openmenu != null ) {
+					$('expand'+opennum).src = '/images/plusyellow.gif';
+					new Effect.SlideUp(openmenu, {
+						transition: Effect.Transitions.sinoidal,
+						duration: 0.5, 
+						queue: {
+								position: 'end', 
+								scope: 'accordionAnimation'
+						},
+						beforeStart: function() {
+							animatingopen = true;
+						}
+					});
+				}
+				$('expand'+num).src = '/images/minusyellow.gif';
+				opennum = num;
+				new Effect.SlideDown(menuid, {
+					transition: Effect.Transitions.sinoidal,
+					duration: 0.5, 
+					queue: {
+							position: 'end',
+							scope: 'accordionAnimation'
+					},
+					beforeStart: function() {
+						animatingopen = true;
+					},
+					afterFinish: function() {
+						animatingopen = false;
+						openmenu = menuid;
+					}
+				});
+			}
+		}
+        
+        
+		function changeIcon(iid) {
+		    if(!document.getElementById('icon' + iid).childNodes) return;
+		    var imgel = document.getElementById('icon' + iid).childNodes[0];
+			if ( imgel.tagName.toUpperCase() == 'IMG' && imgel.src.indexOf("/images/plus.gif") > -1) { 
+				imgel.src = "/images/minus.gif";
+			} else { 
+				imgel.src = "/images/plus.gif";
+			}
+		}
+		
+		function toggleCurrent() { 
+		    var el;
+		    el = document.getElementById('sublevel25');
+		    if(el) {
+			    el.style.height = 'auto';
+			    el.style.display = 'block';
+			    el.style.overflow = 'visible';
+			    openmenu = el.id;
+			    var idnum = el.id.substring(8);
+			    $('expand'+idnum).src = '/images/minusyellow.gif';
+				opennum = idnum;
+				return;
+			}
+			
+			el = document.getElementById('subsublevel25');
+			if(!el) {
+			  el = document.getElementById('subsubsublevel25');
+			  if(el) {
+			    while(el.className != 'subsublevelmenudiv' && el.parentNode) {
+			      el = el.parentNode;
+			    }
+			    
+			    var idnum = el.id.substring(11);
+			    changeIcon(idnum);
+			    
+			    el.style.height = 'auto';
+			    el.style.display = 'block';
+			    el.style.overflow = 'visible';
+			    openmenu = el.id;
+			  }
+			  else {
+			    return;
+			  }
+		    }
+			  
+			while(el.className != 'sublevelmenudiv') {
+			    el = el.parentNode;
+			}
+			  
+			el.style.height = 'auto';
+			el.style.display = 'block';
+			el.style.overflow = 'visible';
+			var idnum = el.id.substring(8);
+			$('expand'+idnum).src = '/images/minusyellow.gif';
+			opennum = idnum;
+			openmenu = el.id;
+		}
+		
+		YAHOO.util.Event.addListener(window, 'load', toggleCurrent);
+	</script>
+
+<ul id="submenu">
+
+<li class="submenuitem"><a href="http://www.aa.org/lang/en/subpage.cfm?page=25" class="submenuitemlink">Privacy Policy</a></li>
+
+<li class="submenuitem"><a href="subpage.cfm?page=33" class="submenuitemlink">Web site Policy</a></li>
+
+<li class="submenuitem"><a href="subpage.cfm?page=94" class="submenuitemlink">Intellectual Property Policies</a></li>
+
+</ul>
+<br>
+<div style="text-align: center;">
+
+<a href="subpage.cfm?page=359" title="Read The Big Book and Twelve and Twelve"><img src="/pics_en/en_big_book_anime_side.gif" alt="Read The Big Book and Twelve and Twelve" title="Read The Big Book and Twelve and Twelve" border="0"></a>
+
+</div>
+
+        </div>
+        
+		<div id="content" align="center">
+	
+<div id="breadcrumb"><a href="index.cfm">Home</a> <img src="/images/breadyellow.gif" alt=""> <a href="subpage.cfm?page=25">Privacy Policy</a> </div>
+<h1>Privacy Policy</h1>
+<h2></h2>
+
+
+<a name="top"></a><br>
+<strong>General Service Office’s A.A. Web site </strong>This information is provided to explain our online information practices and the choices you have in the way information is collected and used on this Web site.<br>
+&nbsp;<br>
+<strong>The Information We Collect</strong><br> At G.S.O.’s Web site, we do not require personally identifiable information from you in order to access and use the Web site. Certain functions, such as online information or registration forms, do require you to voluntarily submit personally identifiable information, which may include: name, organization, address, and telephone and fax numbers.<br>
+&nbsp;<br>
+<strong>How We Use the Information</strong><br> Any personally identifiable information submitted by you is kept strictly confidential and separately from the Web site, and is used solely by G.S.O. to provide the information that you requested or for your registration to Regional Forums and/or International Conventions.  <em>We do not</em> provide or forward personally identifiable information to any organization.<br>
+&nbsp;<br>
+<strong>Cookies</strong><br> Portions of G.S.O.’s Web site use “cookies.” Cookies are small text files placed on your computer. G.S.O. uses cookies to facilitate your ongoing access to and use of the Web site, to track site usage, and to compile nonpersonal aggregate data in order to improve content and efficiency on the Web site. We do not link personally identifiable information submitted by you through the online forms on G.S.O’s Web site to the data stored in the cookies.
+Most browsers and certain third-party utilities allow for you to accept or deny cookies from this or any other Web site. If you deny the use of cookies you will still be able to use our Web site.<br>
+&nbsp;<br>
+<strong>Third Party Sites</strong><br> Portions of G.S.O.’s Web site contain links to other Web sites. When leaving our Web site you will see a disclaimer statement. You should consult the other Web site’s privacy statement for more information, as those practices may differ from ours.<br>
+&nbsp;<br>
+<strong>How to&nbsp;Contact Us</strong><br>
+If you have any questions or concerns about this privacy statement, you may contact us at:<br>
+&nbsp;<br>
+&nbsp;<br>
+<strong>General Service Office<br> </strong>P.O. Box 459<br> Grand Central Station<br> New York, N.Y. 10163<br> (212) 870-3400<br>
+<br><br><span style="font-style: italic;"> Approved by A.A.W.S. Board June 12, 2009</span><br>             </div> 
+            <br class="clr" style="padding:0;margin:0;">
+			
+        </div> 
+	</div> 
+    <!-- <div id="site_bottom"><img src="/pics_site/site_bottom.gif" width="757" height="8" alt="" /></div> -->
+</div> 
+<br>
+
+<div id="language_footer">
+	
+    <div style="padding-right: 20px; text-align: right;">
+    <em>View this page in:</em> 
+    <a href="/lang/sp/subpage.cfm?page=25" class="switch_lang">Español</a> | 
+    <a href="/lang/fr/subpage.cfm?page=25" class="switch_lang">Français</a> 
+    </div>
+    
+</div>
+
+<div id="footer" class="subfooter">
+    <div id="copyright" style="width: 350px;">
+    <strong>© Copyright 2010&nbsp;<br> Alcoholics Anonymous World Services, Inc. All Rights Reserved.</strong><br> This is the official web site of the General Service Office (G.S.O.) of Alcoholics Anonymous.<br> "Graphic images may not be downloaded, copied or duplicated without the express<br> written permission of Alcoholics Anonymous World Services, Inc." 
+    </div>
+    <div id="footer_links" style="width: 360px;">
+        <div style="float:left; margin-right: 15px; width: 165px;">
+			
+            <ul style="margin: 0; padding: 0;">
+            <li><a href="/lang/en/subpage.cfm?page=26" class="copyright">CONTACT US</a></li>
+            <li><a href="/lang/en/site_map.cfm" class="copyright">SITE MAP</a></li>
+            <li><a href="/lang/en/subpage.cfm?page=32" class="copyright">SITE HELP</a></li>
+            <li><a href="http://www.aa.org/redirect_gv.cfm?language=en&amp;urllocation=http://www.aagrapevine.org">AAGRAPEVINE.ORG</a></li>
+            </ul>
+            
+        </div>
+        <div style="float:left; width: 180px;">
+            <ul style="margin: 0; padding: 0;">
+            
+            <li><a href="/lang/en/subpage.cfm?page=25" class="copyright" style="text-transform: uppercase;">Privacy Policy</a></li>
+            
+            <li><a href="/lang/en/subpage.cfm?page=33" class="copyright" style="text-transform: uppercase;">Web site Policy</a></li>
+            
+            <li><a href="/lang/en/subpage.cfm?page=94" class="copyright" style="text-transform: uppercase;">Intellectual Property Policies</a></li>
+            
+            
+            </ul>
+        </div>
+        <p style="clear:both;"></p>
+    </div>
+    <p style="clear:both;"></p>
+</div>
+<br>
+<br>
+
+
 
 
 </body></html>
