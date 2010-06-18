@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tip.it privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617042924id_/http%3A//www.tip.it/runescape/%3Fpage%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tip.it privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618054616id_/http%3A//www.tip.it/runescape/%3Fpage%3Dprivacy.htm) for the most accurate reproduction.*
 
-# Tip.it Runescape Help :: Privacy :: The Original RuneScape help site!
+# Tip.it RuneScape Help :: Privacy :: The Original RuneScape help site!
 
 Rune Tips is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you may provide online here on our site.
 
@@ -16,11 +16,11 @@ Personal information **will not be released** to third parties except to further
 
 Our website is not set up to track, collect or distribute personal information about its visitors. It does recognize the IP home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our site. This information is used only for internal purposes by Rune Tips technical support staff (for example, so that you can not vote in polls from the same IP more than once).
 
-In addition, our web site uses third party services to collect information about the visits to our web sites. For example, they compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and will not be used to gather such information. We will not use any service which does not have a privacy policy. If you have information that a service uses or gathers personal information, please inform us by [contacting us](https://web.archive.org/web/20090617042924id_/http%3A//www.tip.it/runescape/%3Fpage%3Dprivacy.htm?contact) and we will immediately re-evaluate our relations with that third party.
+In addition, our web site uses third party services to collect information about the visits to our web sites. For example, they compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and will not be used to gather such information. We will not use any service which does not have a privacy policy. If you have information that a service uses or gathers personal information, please inform us by [contacting us](https://web.archive.org/web/20100618054616id_/http%3A//www.tip.it/runescape/%3Fpage%3Dprivacy.htm?contact) and we will immediately re-evaluate our relations with that third party.
 
 ### Third Party Advertising
 
-We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here.](http://www.networkadvertising.org/optout_nonppii.asp?) In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp?). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 ### Forum and Chat
 
@@ -28,4 +28,4 @@ Rune Tips has a chat room and public forums for our users. Please remember that 
 
 This site contains links to other sites. Rune Tips staff is not responsible for the privacy practices or the content of Web sites to which we link or which participate in our programs but are not hosted by us.
 
-Last revised: April 1, 2005.
+Last revised: April 1, 2005
