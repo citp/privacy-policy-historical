@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fodors.com privacy policy that was archived on 2009-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091216192656id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fodors.com privacy policy that was archived on 2010-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618130022id_/http%3A//www.fodors.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//IETF//DTD HTML 3.0//EN"><html><head>
 
@@ -10,6 +10,8 @@
 			
 
 <link rel="stylesheet" type="text/css" href="/styles/presscenter.css" title="style1">
+			<script type="text/javascript" src="http://assets.fodors.com/f/1018/19020/1d/randomhouse1.download.akamai.com/19020/js/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://assets.fodors.com/f/1018/19020/1d/randomhouse1.download.akamai.com/19020/js/jquery/cookie-plugin.js"></script>
 
 </head> 
 
@@ -67,8 +69,6 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 <div id="frame" style="padding-bottom:0px;">
 		
- 	<link rel="stylesheet" type="text/css" href="/css/top_level_nav.css">
-
 	<div id="destnavlogin">
 		
 
@@ -95,25 +95,29 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<div id="top-nav-header" class="clearfix">
 		<div id="header-logo">
 			<a href="/">
-				<img src="/images/fodors-logo.png" alt="Fodor's For Choice Travel Experience">
+				<img src="/images/fodors-logo.png" alt="Fodor's Logo" width="136" height="74">
 			</a>
-			<img src="/images/mainnav_text.gif" alt="">
+			<img src="/images/mainnav_text.gif" alt="Fodor's For Choice Travel Experience" width="219" height="16">
 		</div>
 		<div id="header-ad">
 			
 	<!-- Begin ad tag -->
-	<script language="JavaScript" src="http://ad.doubleclick.net/adj/fdrs.other/;tile=1;dcopt=ist;sz=728x90;ord=399e53ca22f3b385?" type="text/javascript"></script>
+	<script language="JavaScript" src="http://ad.doubleclick.net/adj/fdrs.other/;tile=1;dcopt=ist;sz=728x90;promo=;ord=6ecd8164639e7d60?" type="text/javascript"></script>
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/fdrs.other/;tile=1;sz=728x90;ord=399e53ca22f3b385?" target="_blank"><img src="http://ad.doubleclick.net/ad/fdrs.other/;tile=1;sz=728x90;ord=399e53ca22f3b385?" width="728" height="90" border="0" alt=""></a>
+	<a href="http://ad.doubleclick.net/jump/fdrs.other/;tile=1;sz=728x90;promo=;ord=6ecd8164639e7d60?" target="_blank"><img src="http://ad.doubleclick.net/ad/fdrs.other/;tile=1;sz=728x90;promo=;ord=6ecd8164639e7d60?" width="728" height="90" border="0" alt=""></a>
 	</noscript>
 	<!-- End ad tag -->
-	
+
 		</div>
 	</div>
 	<div id="navigation" class="clearfix">
 		<div id="menu" class="clearfix">
-		
-			<ul class="clearfix">
+			<ul id="main-nav" class="clearfix">
+				
+				<li>
+					<a class="gray" id="unselected" href="/world/europe/itineraries/" name="&amp;lpos=top-nav">To Europe!</a>
+				</li>
+				
 				<li>
 					<a class="gray" id="unselected" href="/community/" name="&amp;lpos=top-nav">Forums</a>
 				</li>
@@ -123,7 +127,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 				</li>
 
 				<li id="subnav-div">
-					<a id="trip-ideas" class="gray unselected" href="/trip-ideas/" name="&amp;lpos=top-nav"><img src="/images/plus1a.gif" alt="more" border="0">Trip Ideas</a>
+					<a id="trip-ideas" class="gray unselected" href="/trip-ideas/" name="&amp;lpos=top-nav">Trip Ideas</a>
 					<ul class="sub-nav" id="subnav-trip-ideas" style="display:none;">
 						
 <li>
@@ -220,8 +224,8 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 					<a class="gray" id="unselected" href="/cruises/" name="&amp;lpos=top-nav">Cruises</a>
 				</li>
 
-				<li id="traveldeals">
-				<a class="gray" href="/deals/" target="_top" name="&amp;lpos=top-nav">Travel Deals</a>
+				<li>
+				<a class="gray" id="traveldeals" href="/deals/" name="&amp;lpos=top-nav">Deals</a>
 				</li>
 
 				<li>
@@ -241,62 +245,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		</div>
 	</div>
 	</div>
-
-
-<script type="text/javascript">
-	var tripidea_nav = document.getElementById("subnav-trip-ideas");
-		tripidea_nav.onmouseout = function() {
-			closeMouseout();
-			}
-			
-	var tripidea_link = document.getElementById("trip-ideas");
-			tripidea_link.onclick = function() {
-				if (tripidea_nav.style.display == "block")
-					tripidea_nav.style.display = "none";
-				if (tripidea_nav.style.display == "none")
-					tripidea_nav.style.display = "block";
-			tripidea_nav.onmouseover = function() {
-				tripidea_nav.style.display = "block";
-			}
-				
-				reactivateOnclick(tripidea_nav.style.display);
-				return false;
-			}
-	function reactivateOnclick(state) {
-		var tripidea_nav = document.getElementById("subnav-trip-ideas");
-		var tripidea_link = document.getElementById("trip-ideas");
-			if (state == "block") {
-				tripidea_link.onclick = function() {
-					tripidea_nav.style.display = "none";
-					reactivateOnclick(tripidea_nav.style.display);
-					return false;
-				}
-				tripidea_nav.onmouseout = function() {
-					tripidea_nav.style.display = "none";
-					reactivateOnclick(tripidea_nav.style.display);
-				}
-			} 
-			if (state == "none") {
-				tripidea_link.onclick = function() {
-					tripidea_nav.style.display = "block";
-					reactivateOnclick(tripidea_nav.style.display);
-					return false;
-				}
-				tripidea_nav.onmouseover = function() {
-					tripidea_nav.style.display = "block";
-					reactivateOnclick(tripidea_nav.style.display);
-				}
-			} 
-		}
-		
-	function closeMouseout() {
-		var tripidea_nav = document.getElementById("subnav-trip-ideas");
-			tripidea_nav.style.display = "none";
-	}
-
-</script>
-
-
+	
 
 <div id="destnav">
 
@@ -440,14 +389,12 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 				
 	<!-- Begin ad tag -->
-
-	<script language="JavaScript" src="http://ad.doubleclick.net/adj/fdrs.other/;tile=2;sz=160x600;ord=399e53ca22f3b385?" type="text/javascript"></script>
+	<script language="JavaScript" src="http://ad.doubleclick.net/adj/fdrs.other/;tile=1;dcopt=ist;sz=160x600;promo=;ord=6ecd8164639e7d60?" type="text/javascript"></script>
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/fdrs.other/;tile=2;sz=160x600;ord=399e53ca22f3b385?" target="_blank"><img style="margin:0px; padding:0px;" src="http://ad.doubleclick.net/ad/fdrs.other/;tile=2;sz=160x600;ord=399e53ca22f3b385?" width="160" height="600" border="0" alt=""></a>
+	<a href="http://ad.doubleclick.net/jump/fdrs.other/;tile=1;sz=160x600;promo=;ord=6ecd8164639e7d60?" target="_blank"><img src="http://ad.doubleclick.net/ad/fdrs.other/;tile=1;sz=160x600;promo=;ord=6ecd8164639e7d60?" width="160" height="600" border="0" alt=""></a>
 	</noscript>
-
 	<!-- End ad tag -->
-	
+
 
 		</td>
 
@@ -466,12 +413,12 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<ul>
 		<li><a href="/" target="_top" name="&amp;lpos=bottom-nav">Fodors.com</a> |</li>
 		<li><a href="/world/" target="_top" name="&amp;lpos=bottom-nav">Destinations</a> |</li>
+		<li><a href="/80degrees/" target="_top" name="&amp;lpos=bottom-nav">80 Degrees Travel Planner</a> |</li>
 		<li><a href="/cruises/" target="_top" name="&amp;lpos=bottom-nav">Cruises</a> |</li>
 		<li><a href="http://www.randomhouse.com/category/fodors/" target="_top" name="&amp;lpos=bottom-nav">Bookstore</a> |</li>
 		<li><a href="/news/" target="_top" name="&amp;lpos=bottom-nav">Travel Blog</a> |</li>
 		<li><a href="/community/" target="_top" name="&amp;lpos=bottom-nav">Forums</a> |</li>
-		<li id="traveldeals-footer"><a href="/deals/" target="_top" name="&amp;lpos=bottom-nav" onclick="linkCode(this,'bottomnav-deals','event21');">Travel Deals</a> |</li>
-		<li><a href="/newsletter/signup.html" target="_top" name="&amp;lpos=bottom-nav">Sign Up For Our Free Newsletter</a></li>
+		<li id="traveldeals-footer"><a href="/deals/" target="_top" name="&amp;lpos=bottom-nav" onclick="linkCode(this,'bottomnav-deals','event21');">Travel Deals</a></li>
 	</ul>
 
 	<ul>
@@ -480,66 +427,11 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		<li><a href="/about/subagree/" target="_top" name="&amp;lpos=bottom-nav">Subscriber's Agreement</a> |</li>
 		<li><a href="/about/us/ftp_about.cfm" target="_top" name="&amp;lpos=bottom-nav">About Us</a> |</li>
 		<li><a href="/faq/" target="_top" name="&amp;lpos=bottom-nav">FAQ</a> |</li>
-		<li><a href="/about/us/ftp_affiliate.cfm" target="_top" name="&amp;lpos=bottom-nav">Affiliate Program</a></li>
+		<li><a href="/about/us/ftp_affiliate.cfm" target="_top" name="&amp;lpos=bottom-nav">Affiliate Program</a> |</li>
+		<li><a href="/newsletter/signup.html" target="_top" name="&amp;lpos=bottom-nav">Sign Up For Our Free Newsletter</a></li>
 	</ul>
-		<p>Copyright © 2009 <a href="/">Fodor's Travel</a>, a division of Random House, Inc.</p>
+		<p>Copyright © 2010 <a href="/">Fodor's Travel</a>, a division of Random House, Inc.</p>
 </div>
-
-
-
-
-<script type="text/javascript">
-	function addLoadEvent(func) {
-		var oldonload = window.onload;
-		if (typeof window.onload != 'function') {
-			window.onload = func;
-		} else {
-		window.onload = function() {
-			if (oldonload) {
-				oldonload();
-				}
-			func();
-			}
-		}
-	}
-</script>
-<!--[if lt IE 7]>
-<script type="text/javascript" src="/js/pngfix.js"></script>
-<![endif]-->
-
-
-
-
-<div style="position:absolute;top:0;left:-9999px;">
-<img src="http://bh.contextweb.com/bh/set.aspx?action=add&amp;advid=1312&amp;token=FODR1" width="1" height="1" border="0">
-</div> 
-
-<div style="display:none;">
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-4500675-1");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
-
-
-	<!-- Start Quantcast tag -->
-	<script type="text/javascript">
-	_qoptions={
-	qacct:"p-d0i2EbAMl-wE2"
-	};
-	</script>
-	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-	<noscript>
-	<img src="http://pixel.quantserve.com/pixel/p-d0i2EbAMl-wE2.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-	</noscript>
-	<!-- End Quantcast tag -->
-
-</div>
-
 
 
 
