@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124185904id_/http%3A//www.bodogaffiliate.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618054139id_/http%3A//www.bodogaffiliate.com/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Poker, Sportsbook, Casino Affiliate Programs - Bodog Affiliate
 
