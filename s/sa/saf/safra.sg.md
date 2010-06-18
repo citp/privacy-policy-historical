@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216195617id_/http%3A//www.safra.sg/page.aspx%3Fpageid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618113459id_/http%3A//www.safra.sg/page.aspx%3Fpageid%3D18) for the most accurate reproduction.*
 
 # Safra - Privacy Policy
 
