@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmaroot.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218075119id_/http%3A//www.mmaroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaroot.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619001039id_/http%3A//www.mmaroot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MMA Root
+# Privacy Policy
 
 It is the policy of MMA Root that personal information, such as your name, or email address is private and confidential. Because your privacy is important to us, the site maintains privacy policies to protect your personal information. View our site’s Privacy Policy.
 
