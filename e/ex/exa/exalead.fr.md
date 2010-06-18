@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exalead.fr privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217185923id_/http%3A//www.exalead.com/software/services/knowledgebase/websearchengine/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exalead.fr privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619004807id_/http%3A//www.exalead.com/software/services/knowledgebase/websearchengine/privacypolicy) for the most accurate reproduction.*
 
 # Exalead Privacy policy
 
@@ -8,7 +8,7 @@ Exalead makes it a point of honor to respect the privacy of its users, guarantee
 
 Exalead endeavours to respect a user data protection agreement, which is detailed on this page as our "privacy agreement". The contents of this agreement were written in conformance with law number 78-17 of January 6, 1978, and with the modifications to this law made in 2004.
 
-This agreement applies to the following Internet domains: exalead.fr, exalead.com, and exalead.de, baagz.com, baagz.fr as well as to all of the products and services offered by Exalead.
+This agreement applies to the following Internet domains: exalead.fr, exalead.com, and exalead.de as well as to all of the products and services offered by Exalead.
 
 The user data protection agreement implemented by Exalead answers these questions:
 
