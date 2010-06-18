@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdnl.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217003844id_/http%3A//www.hdnl.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdnl.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618021834id_/http%3A//www.hdnl.co.uk/Privacy) for the most accurate reproduction.*
 
 # HDNL Internet - Privacy
 
@@ -43,3 +43,5 @@ Brand and Marketing Director: Home Delivery Network Ltd, Fallows Way, Whiston, M
 ## Other Websites
 
 This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
+
+For further information you can email:- [hdn@hdnl.co.uk](mailto:hdn@hdnl.co.uk)
