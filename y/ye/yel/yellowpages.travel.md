@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages.travel privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230071926id_/http%3A//www.yellowpages.travel/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.travel privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618090152id_/http%3A//www.yellowpages.travel/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Yellow Pages Travel Directory - YELLOWPAGES.travel
 
