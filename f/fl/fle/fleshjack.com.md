@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the fleshjack.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022735id_/http%3A//www.fleshjack.com/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshjack.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619002626id_/http%3A//www.fleshjack.com/faq-privacy-policy) for the most accurate reproduction.*
 
 # Fleshjack
 
+* * *
+
 Fleshjack Privacy Policy
+
+* * *
 
 Our Guarantee:  
 Maintaining your privacy and providing a hassle-free, enjoyable, and discreet shopping experience is of utmost importance to us.
