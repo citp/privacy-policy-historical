@@ -1,27 +1,31 @@
-> *The following text is extracted and transformed from the desktopcar.net privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220082752id_/http%3A//www.desktopcar.net/About-Privacy-Policy-Contact.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopcar.net privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618080226id_/http%3A//www.desktopcar.net/privacy_policy.html) for the most accurate reproduction.*
 
-# About
+# 
 
-##  www.desktopcar.net 
+We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
-"  We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
+Log Files
 
-Log Files:  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user�s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-Cookies:  
-A cookie is a piece of data stored on the user�s computer tied to information about the user. Our site don�t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+Cookies
 
-Links:  
-< This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site don’t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
-Advertisers:  
+DoubleClick DART Cookie .:: Google, as a third party vendor, uses cookies to serve ads on your site. .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... Google Adsense 
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.desktopcar.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+Links
+
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+
+Advertisers
+
 We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense. Please check their websites for respective privacy policies.
 
-Content:  
-**All wallpapers I collected from the net and belong to the owners! All articles from Wikipedia.**
+Contact Information
 
-Contact Information:  
-If you have any question regarding our copyright, privacy or other policies, please contact by send me an email to: bigu_c (at) yahoo (dot) com
-
-" 
+If users have any questions or suggestions regarding our privacy policy, please contact me through my contact form.
