@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lawnsite.com privacy policy that was archived on 2009-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218054403id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lawnsite.com privacy policy that was archived on 2010-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618142903id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en"><head>
 <title>LawnSite.com™ - Lawn Care &amp; Landscaping Business Forum Powered by Moose River Media</title>
@@ -44,7 +44,7 @@ a:hover, a:active, body_ahover
 }
 td, th, p, li
 {
-	font: 10.5pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	font: 10.5pt arial, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
 }
 .tborder
 {
@@ -296,6 +296,7 @@ a.shade:active, a.shade:hover { color: #FF4400; text-decoration: underline; }
 .fieldset, .fieldset td, .fieldset p, .fieldset li { font-size: 11px; }
 html { 
     filter: expression(document.execCommand("BackgroundImageCache", false, true)); 
+    font-family: arial;
 }
 
 TD
@@ -435,7 +436,7 @@ TD
 
 .logindiv{
 
-        width: 290px;
+        width: 300px;
          height: 110px;
 float:right;
 margin-right: 5px;
@@ -444,9 +445,9 @@ padding-top: 5px;
 TD.toplogintopleft{
       height: 11px;
       width: 16px;
-      background: url("images/logintopleftbg.jpg");
+      background: url("images/logintopleftbg.png");
      background-repeat: no-repeat;
-background-position: center center;
+background-position: left top;
 }
 TD.toplogintop{
       background-color: #E9F5CF;
@@ -454,37 +455,59 @@ TD.toplogintop{
 
 TD.toplogintopright{
      height: 11px;
-     width: 23px;
-     background: url("images/logintoprightbg.jpg");
+     width: 22px;
+     background: url("images/logintoprightbg.png");
      background-repeat: no-repeat;
-background-position: center center;
+     background-position: left top;
 }
 
 TD.toploginleft
 {
-     background: url("images/loginleftbg.jpg");
-     background-position: bottom;
+     background-color: #E9F5CF;
      background-repeat: no-repeat;
      width: 16px;
 }
+
+
 TD.toploginright
 {
-     background: url("images/loginrightbg.jpg");
-     background-position: bottom;
+     background: url("images/loginrightbg.png") repeat-y left top;
+     width: 22px;
+}
+
+.toploginbottomleft{
+     background: url("images/loginbottomleftbg.png") right bottom;
      background-repeat: no-repeat;
-     width: 23px;
+     width: 16px;
+     height: 18px;
+}
+.toploginbottomright{
+     background: url("images/loginbottomrightbg.png") no-repeat left bottom;
+     width: 22px;
+     height: 18px;
 }
 TD.toplogincenter
 {
      font-size: 9px;
-     background: url("images/loginbottombg.jpg");
-     background-color: #E9F5CF;
-     background-position: bottom;
-     background-repeat: repeat-x;
      padding-left: 0px;
      padding-right: 0px;
      padding-top: 0px;
-     padding-bottom: 15px;
+     padding-bottom: 0px;
+     background: #e9f5cf;
+}
+
+.toplogincenterbg{
+     
+}
+
+.toploginspacer{
+height: 5px;
+}
+
+.toploginbottom{
+    background: transparent url("images/loginbottombg.png") left bottom;
+    background-repeat: repeat-x;
+    height: 18px;
 }
 
 .slogan{
@@ -512,6 +535,16 @@ font-size: 12px;
 
 .smallfontlogin{
  font-size: 9px;
+}
+
+.tcat_SDCBAR
+{
+	background: #519049;
+	color: #000000;
+	font: bold 10.5pt arial bold;
+        vertical-align: middle;
+        text-align: left;
+
 }
 
 .tcat_SFSBAR
@@ -554,6 +587,12 @@ font-size: 12px;
 	color: #000000;
 	font: bold 10.5pt arial bold;
         vertical-align: middle;
+}
+
+.tcat_SDCBAR A, .tcat_SDCBAR A:visited, .tcat_SDCBAR A:active
+{
+     color: #FFFFFF;
+     text-decoration: none;
 }
 
 .tcat_SFSBAR A, .tcat_SFSBAR A:visited, .tcat_SFSBAR A:active
@@ -610,7 +649,17 @@ z-index: 1000;
  .servicestable td{
     font-size: 10px;
 }
+
 </style>
+
+<!--[if IE 7]>
+<style>
+.toplogintopleft{
+   background-position: -1px top;
+}
+</style>
+<![endif]-->
+
 <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_important.css?v=373">
 
 
@@ -620,7 +669,7 @@ z-index: 1000;
 <script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=373"></script>
 <script type="text/javascript">
 <!--
-var SESSIONURL = "";
+var SESSIONURL = "s=d17ce194ad02f522b54dc5ce067a14c0&";
 var SECURITYTOKEN = "guest";
 var IMGDIR_MISC = "http://images.lawnsite.com/images/misc";
 var vb_disable_ajax = parseInt("0", 10);
@@ -643,8 +692,8 @@ function setEmail(this, int) {}
 <script src="email.js" type="text/javascript"></script>
 
 
-
-<script type="text/javascript" src="http://adserver.lawnsite.com/openx/www/delivery/spcjs.php?id=1&amp;block=1&amp;blockcampaign=1&amp;target=_blank"></script>
+<!-- Generated by OpenX 2.6.3 -->
+<script type="text/javascript" src="http://adserver.lawnsite.com/openx/www/delivery/spcjs.php?id=1"></script>
 
 
 <style type="text/css">
@@ -804,10 +853,27 @@ if(whichbutton == "submitpopupform"){
  }
  </script>
 
+ 
 <!-- END TEMPLATE: headinclude -->
 </head>
 <body>
 <!-- BEGIN TEMPLATE: header -->
+<!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="iestyles.css" />
+    <script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+    <script src="js/jquery.pngFix.js" type="text/javascript"></script>
+
+    <script src="js/jquery.pngFix.pack.js" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(document).pngFix();
+        });
+    </script> 
+    <![endif]-->
+
+
+
 <div id="darkBackgroundLayer" style="display: none;" class="darkenBackground">
 </div>
 
@@ -851,11 +917,12 @@ if(whichbutton == "submitpopupform"){
                    <td class="ad">
 		<script type="text/javascript"><!--//<![CDATA[
 		if(typeof(searchterms) != 'undefined'){
+		   var intCampaign = 313;
 		   var m3_u = (location.protocol=='https:'?'https://adserver.lawnsite.com/openx/www/delivery/ajs.php':'http://adserver.lawnsite.com/openx/www/delivery/ajs.php');
 		   var m3_r = Math.floor(Math.random()*99999999999);
 		   if (!document.MAX_used) document.MAX_used = ',';
 		   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-		   document.write ("?what="+ searchterms +"&amp;target=_blank&amp;block=1&amp;blockcampaign=1");
+		   document.write ("?campaignid=" + intCampaign + "&amp;what="+ searchterms +"&amp;target=_blank&amp;block=1&amp;blockcampaign=1");
 		   document.write ('&amp;cb=' + m3_r);
 		   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
 		   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
@@ -1102,7 +1169,7 @@ if(whichbutton == "submitpopupform"){
 //find out current URL and send as hidden value
 var redirect = "<input type='hidden' name='url' value='" + location.href + "' />";
 document.write(redirect);
-</script><input type="hidden" name="url" value="https://web.archive.org/web/20091218054403id_/http%3A//www.lawnsite.com/privacypolicy.php">
+</script><input type="hidden" name="url" value="https://web.archive.org/web/20100618142903id_/http%3A//www.lawnsite.com/privacypolicy.php">
 
 
 <!-- Validate form -->
@@ -1178,6 +1245,7 @@ text-align: center;"><center><map name="map1">
     <tr>
         <td class="toploginleft">&nbsp;</td>
 <td class="toplogincenter" valign="top">
+<div class="toplogincenterbg">
 
         
         
@@ -1199,7 +1267,7 @@ vb_login_md5password_utf, 0)">
 			<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
 		</tr>
 		</tbody></table>
-		<input type="hidden" name="s" value="">
+		<input type="hidden" name="s" value="d17ce194ad02f522b54dc5ce067a14c0">
 		<input type="hidden" name="securitytoken" value="guest">
 		<input type="hidden" name="do" value="login">
 		<input type="hidden" name="vb_login_md5password">
@@ -1258,14 +1326,14 @@ searchButton_down = new Image(65, 26);
 searchButton_down.src = 'images/searchbutton_down.jpg'
 
 function clearText(){
-	if(document.getElementById("query").value == "Search the Forums"){
+	if(document.getElementById("query").value == "Search"){
 		document.getElementById("query").value = "";
 	}
 }
 
 function replaceText(){
 	if(document.getElementById("query").value == ""){
-		document.getElementById("query").value = "Search the Forums";
+		document.getElementById("query").value = "Search";
 	}
 }
 </script>
@@ -1273,7 +1341,7 @@ function replaceText(){
 <tbody><tr>
 <td width="180">
 <div class="searchbg">
-	<form name="search1" action="search.php?do=process" method="post">
+	<form name="search1" id="search1" action="search.php?do=process" method="post" onsubmit="startSearch()">
 		<input name="do" value="process" type="hidden">
 		<input name="quicksearch" value="1" type="hidden">
 		<input name="childforums" value="1" type="hidden">
@@ -1285,17 +1353,30 @@ function replaceText(){
 </form></div>
 </td>
 <td width="60">
-<a href="javascript:document.search1.submit();" onmouseover="document.getElementById('sub_but').src=searchButton_over.src" onmousedown="document.getElementById('sub_but').src=searchButton_down.src" onmouseout="document.getElementById('sub_but').src=searchButton.src" onmouseup="document.getElementById('sub_but').src=searchButton.src"><img src="images/searchbutton.jpg" border="0" alt="Search the Forums" name="sub_but" id="sub_but" tabindex="1002" title="Search the Forums"></a>
+<a href="javascript:document.forms['search1'].submit();" onmouseover="document.getElementById('sub_but').src=searchButton_over.src" onmousedown="document.getElementById('sub_but').src=searchButton_down.src" onmouseout="document.getElementById('sub_but').src=searchButton.src" onmouseup="document.getElementById('sub_but').src=searchButton.src"><img src="images/searchbutton.jpg" border="0" alt="Search" name="sub_but" id="sub_but" tabindex="1002" style="outline: 0;" title="Search"></a>
 </td>
+
 </tr>
 </tbody></table>
 
 <!-- /SEARCH BAR -->
 
-
+<div align="center"><script type="text/javascript"><!--// <![CDATA
+    /* [id51] LawnSite - Ad Under Search Bar */
+    OA_show(51);
+// ]]> --></script><noscript><a target='_blank' href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=a9a146c'><img border='0' alt='' src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?zoneid=51&amp;n=a9a146c' /></a></noscript>
+</div>
+</div>
 </td> 
     <td class="toploginright">&nbsp;</td>
 </tr>
+<tr>
+	<td class="toploginbottomleft">&nbsp;</td>
+	<td class="toploginbottom">&nbsp;</td>
+	<td class="toploginbottomright">&nbsp;</td>
+</tr>
+
+
 </tbody></table>
 </div>
 <!-- END FLOATING LOGIN SCRIPT -->
@@ -1309,6 +1390,12 @@ function replaceText(){
 				<img src="images/topb1.jpg"><br>
 				<div class="leftmenuinner">
 					<br>
+
+<a href="http://store.lawnsite.com" target="_blank"><img src="http://www.lawnsite.com/images/merch.jpg" border="0" alt="Lawnsite Merchandise!" title="Lawnsite Merchandise!"></a><br>
+<span style="font-size: 9px;"><a href="http://store.lawnsite.com" target="_blank">Click here for LawnSite Merchandise</a></span>
+
+<br>
+<br>
 					<a href="http://www.mooserivermedia.com" alt="Click Here for Magazine Sites and 
 
 Subscriptions"><img src="http://www.lawnsite.com/images/logomrp.png" border="0" style="text-decoration:none;"></a><br>
@@ -1326,12 +1413,18 @@ Subscriptions">Click Here for Magazine Sites and Subscriptions</a></span><br>
 					</div>
 					
 					<div class="leftmenuinner">
-						<a href="http://www.mooserivermedia.com/dealer.php"><img src="images/dealerdirectory.gif" border="0" style="margin-top: 5px;margin-bottom: 5px;"></a>
-						<br>
 <br>
-<div><a href="vbtube.php"><img src="http://www.lawnsite.com/images/lawntvlogo100.gif" border="0"></a></div>
+<a href="http://www.lawnsite.com/benefits.php"><img src="http://www.lawnsite.com/images/benefitscard.jpg" border="0" style="margin-bottom: 5px;"></a><br>
+<span style="font-size: 9px;"><a href="http://www.lawnsite.com/benefits.php">Click here for Lawnsite Member Benefits</a></span><br>
+<br>
+<div><a href="http://www.lawnsite.com/buttons/jump.php?id=MRMturfweb" target="_blank"><img src="http://www.lawnsite.com/images/turfcover.gif" border="0" style="margin-top: 5px;margin-bottom: 5px;"></a>
+</div>
+<span style="font-size: 9px;"><a href="http://www.lawnsite.com/buttons/jump.php?id=MRMturfweb" target="_blank">Turf Magazine Online Edition</a></span>
 
 <br>
+<br>
+						<a href="http://www.mooserivermedia.com/dealer.php"><img src="images/dealerdirectory.gif" border="0" style="margin-top: 5px;margin-bottom: 5px;"></a>
+						<br>
 					</div>
 					
 					<div class="menuheader">
@@ -1380,6 +1473,36 @@ Subscriptions">Click Here for Magazine Sites and Subscriptions</a></span><br>
     /* [id21] LawnSite - Tower 6 */
     OA_show(21);
 // ]]> --></script><noscript><a target='_blank' href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=fb277d9'><img border='0' alt='' src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?zoneid=21&amp;n=fb277d9' /></a></noscript>
+<br>
+<br>
+<script type="text/javascript"><!--// <![CDATA[
+    /* [id42] LawnSite - Tower 7 */
+    OA_show(42);
+// ]]> --></script><noscript><a target='_blank' href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=9931192'><img border='0' alt='' src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?zoneid=42&amp;n=9931192' /></a></noscript>
+<br>
+<br>
+<script type="text/javascript"><!--// <![CDATA[
+    /* [id43] LawnSite - Tower 8 */
+    OA_show(43);
+// ]]> --></script><noscript><a target='_blank' href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=faa3a36'><img border='0' alt='' src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?zoneid=43&amp;n=faa3a36' /></a></noscript>
+<br>
+<br>
+<script type="text/javascript"><!--// <![CDATA[
+    /* [id44] LawnSite - Tower 9 */
+    OA_show(44);
+// ]]> --></script><noscript><a target='_blank' href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=539e879'><img border='0' alt='' src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?zoneid=44&amp;n=539e879' /></a></noscript>
+<br>
+<br>
+<script type="text/javascript"><!--// <![CDATA[
+    /* [id45] LawnSite - Tower 10 */
+    OA_show(45);
+// ]]> --></script><noscript><a target='_blank' href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=7bab6d3'><img border='0' alt='' src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?zoneid=45&amp;n=7bab6d3' /></a></noscript>
+<br>
+<br>
+<script type="text/javascript"><!--// <![CDATA[
+    /* [id46] LawnSite - Tower 11 */
+    OA_show(46);
+// ]]> --></script><noscript><a target='_blank' href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=5f46146'><img border='0' alt='' src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?zoneid=46&amp;n=5f46146' /></a></noscript>
 </div>
 
 
@@ -1389,17 +1512,10 @@ Subscriptions">Click Here for Magazine Sites and Subscriptions</a></span><br>
 			<td class="contentcell">
 
 <div align="center">
-<iframe src="http://view.atdmt.com/MSR/iview/191762931/direct/01?click=" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="1" height="1">
-<script language="JavaScript" type="text/javascript">
-document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" target="_blank"><img src="http://view.atdmt.com/MSR/view/191762931/direct/01/"/></a>');
-</script><noscript><a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" target="_blank"><img border="0" src="http://view.atdmt.com/MSR/view/191762931/direct/01/" /></a></noscript></iframe>
-
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="400" height="225" id="johndeeread" align="middle">
-	<param name="allowScriptAccess" value="sameDomain">
-<param name="wmode" value="opaque">
-	<param name="allowFullScreen" value="false">
-	<param name="movie" value="flash/johndeeread.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff">	<embed wmode="opaque" src="flash/johndeeread.swf" quality="high" bgcolor="#ffffff" width="400" height="225" name="johndeeread" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer">
-	</object>
+<script type="text/javascript"><!--// <![CDATA[
+    /* [id37] LawnSite - 728x90 - Lawnsite Header */
+    OA_show(37);
+// ]]> --></script><noscript><a target='_blank' href='http://adserver.lawnsite.com/openx/www/delivery/ck.php?n=bcfc97c'><img border='0' alt='' src='http://adserver.lawnsite.com/openx/www/delivery/avw.php?zoneid=37&amp;n=bcfc97c' /></a></noscript>
 <br>
 <br>
 <!-- MAIN BANNER #1 -->
@@ -1422,7 +1538,7 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
 		<a href="http://www.lawnsite.com/buttons/jump.php?id=hustler" target="_blank"><img border="0" src="http://adserver.lawnsite.com/ads/hustler90x30.gif" alt="Hustler" width="90" height="30" title="Hustler"></a>
 	</td>
 	<td width="14%" align="center" valign="top" height="34"> 
-              <a href="http://www.lawnsite.com/buttons/jump.php?id=goilawn" target="_blank"><img src="http://adserver.lawnsite.com/ads/goilawn90x30.jpg" alt="Go iLawn" border="0" title="Go iLawn"></a>
+              <a href="http://www.lawnsite.com/buttons/jump.php?id=oregoncs" target="_blank"><img src="http://adserver.lawnsite.com/ads/oregoncutting90x30.jpg" alt="Oregon Cutting Systems" border="0" title="Oregon Cutting Systems"></a>
 	</td>	
 	<td width="14%" align="center" valign="top" height="34">
 	      <a href="http://www.lawnsite.com/buttons/jump.php?id=Wright" target="_blank"><img border="0" src="http://adserver.lawnsite.com/ads/wright90x30.gif" alt="Wright" width="90" height="30" title="Wright"></a>
@@ -1442,64 +1558,22 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
 	    	<a href="http://www.lawnsite.com/buttons/jump.php?id=tanakausa" target="_blank"><img src="http://adserver.lawnsite.com/ads/tanaka90x30.gif" border="0" alt="Tanaka" width="90" height="30" title="Tanaka"></a>
 	</td>
 	<td width="14%" align="center" height="34">
-      		<a href="http://www.lawnsite.com/buttons/jump.php?id=BlackBurn" target="_blank"><img border="0" src="http://adserver.lawnsite.com/ads/blackburn90x30.gif" alt="BlackBurn Flag" width="90" height="30" title="BlackBurn Flag"></a>
+      		<a href="http://www.lawnsite.com/buttons/jump.php?id=jrco" target="_blank"><img border="0" src="http://adserver.lawnsite.com/ads/jrco90x30.jpg" alt="JRCO, Inc." width="90" height="30" title="JRCO, Inc."></a>
       	</td>
       	<td width="14%" align="center" height="34">
       		<a href="http://www.lawnsite.com/buttons/jump.php?id=turfco" target="_blank"><img border="0" src="http://adserver.lawnsite.com/ads/turfco90x30.jpg" alt="Turfco" width="90" height="30" title="Turfco"></a>
       	</td>
 	<td width="14%" align="center" height="34">
-		<a href="http://www.lawnsite.com/buttons/jump.php?id=prolandscape" target="_blank"><img src="http://adserver.lawnsite.com/ads/drafix90x30.gif" border="0" alt="Drafix - Pro Landscape" width="90" height="30" title="Drafix - Pro Landscape"></a>
+		<a href="http://www.lawnsite.com/buttons/jump.php?id=bobcatLS" target="_blank"><img src="http://adserver.lawnsite.com/ads/bobcat90x30.jpg" border="0" alt="Bob Cat" width="90" height="30" title="Bob Cat"></a> 
       	</td>
 	<td width="14%" align="center" height="34">
-      		<a href="http://www.lawnsite.com/buttons/jump.php?id=insectctrl" target="_blank"><img border="0" src="http://adserver.lawnsite.com/ads/insectcontrol90x30.gif" alt="Insect Control Systems" width="90" height="30" title="Insect Control Systems"></a>
+      		<a href="http://www.lawnsite.com/buttons/jump.php?id=agriumls" target="_blank"><img border="0" src="http://adserver.lawnsite.com/ads/agrium90x30.jpg" alt="Agrium Agronomy Guide" width="90" height="30" title="Agrium Agronomy Guide"></a>
       	</td>
       	<td width="14%" align="center" height="34">
       		<a href="http://www.lawnsite.com/buttons/jump.php?id=toro" target="_blank"><img src="http://adserver.lawnsite.com/ads/toro90x30.gif" border="0" alt="Toro" width="90" height="30" title="Toro"></a>
       	</td>
      	<td width="14%" align="center" height="34">
-      		<script>
-	/* Little Wonder
-	
-	
-	*/
-	// JavaScript Document
-	var img_width = "90";
-	var img_height = "30";
-	var img_title = new Array();
-
-        img_title[0] = "Bobcat";
-        img_title[1] = "Bunton";
-        img_title[2] = "Classen";
-        img_title[3] = "Little Wonder";
-        img_title[4] = "Mantis";
-        img_title[5] = "Ryan";	
-        img_title[6] = "Steiner";
-
-
-	var ad=new Array()
-	//insert here your images src
-	ad[0]='http://adserver.lawnsite.com/ads/lwbobcat90x30.gif';
-	ad[1]='http://adserver.lawnsite.com/ads/lwbunton90x30.gif';
-	ad[2]='http://adserver.lawnsite.com/ads/lwclassen90x30.gif';
-	ad[3]='http://adserver.lawnsite.com/ads/littlewonder90x30.gif';
-	ad[4]='http://adserver.lawnsite.com/ads/lwmantis90x30.gif';
-	ad[5]='http://adserver.lawnsite.com/ads/lwryan90x30.gif';
-	ad[6]='http://adserver.lawnsite.com/ads/lwsteiner90x30.gif';
-											
-	var links=new Array()
-	//insert here your links
-	links[0]='http://www.lawnsite.com/buttons/jump.php?id=LWbobcat';
-	links[1]='http://www.lawnsite.com/buttons/jump.php?id=LWbunton';
-	links[2]='http://www.lawnsite.com/buttons/jump.php?id=LWclassen';
-	links[3]='http://www.lawnsite.com/buttons/jump.php?id=littlewonder';
-	links[4]='http://www.lawnsite.com/buttons/jump.php?id=LWmantis';
-	links[5]='http://www.lawnsite.com/buttons/jump.php?id=LWryan';
-	links[6]='http://www.lawnsite.com/buttons/jump.php?id=LWsteiner';
-
-
-	var xy=Math.floor(Math.random()*ad.length);
-	document.write('<a href="'+links[xy]+'" target="_blank"><img border=0 vspace=3 src="'+ad[xy]+'" width="'+img_width+'" height="'+img_height+'" alt="'+img_title[xy]+'" /></a></div>');
-            </script><a href="http://www.lawnsite.com/buttons/jump.php?id=LWclassen" target="_blank"><img border="0" vspace="3" src="http://adserver.lawnsite.com/ads/lwclassen90x30.gif" width="90" height="30" alt="Classen" title="Classen"></a>
+      		<a href="http://www.lawnsite.com/buttons/jump.php?id=goldeagle" target="_blank"><img src="http://adserver.lawnsite.com/ads/goldeagle90x30.gif" border="0" alt="Gold Eagle" width="90" height="30" title="Gold Eagle"></a>
       	</td>
     </tr>
 </tbody></table>  
@@ -1536,7 +1610,7 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
 <td><a href="http://www.lawnsite.com"><img src="http://www.lawnsite.com/images/tabforumson.jpg" border="0"></a></td>
 <td><a href="http://www.lawnsite.com/forumdisplay.php?f=247"><img src="http://www.lawnsite.com/images/tabpodcastsoff_lefton.jpg" border="0"></a></td>
 <td><a href="http://www.lawnsite.com/vbtube.php"><img src="http://www.lawnsite.com/images/tabvideosoff_rightoff_leftoff.jpg" border="0"></a></td>
-<td><a href="http://www.lawnsite.com/search.php"><img src="http://www.lawnsite.com/images/tabsearchoff_leftoff.jpg" border="0"></a></td>
+<td><a href="http://www.lawnsite.com/benefits.php"><img src="http://www.lawnsite.com/images/tabbenefitsoff_leftoff.jpg" border="0"></a></td>
 </tr>
 </tbody></table>
 
@@ -1550,7 +1624,7 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
 			<tbody><tr valign="bottom">
 				<td><a href="#" onclick="history.back(1); return false;"><img src="http://images.lawnsite.com/images/misc/navbits_start.gif" alt="Go Back" border="0" title="Go Back"></a></td>
 				<td>&nbsp;</td>
-				<td width="100%"><span class="navbar"><a href="index.php" accesskey="1">LawnSite.com™ - Lawn Care &amp; Landscaping Business Forum Powered by Moose River Media</a></span> </td>
+				<td width="100%"><span class="navbar"><a href="index.php?s=d17ce194ad02f522b54dc5ce067a14c0" accesskey="1">LawnSite.com™ - Lawn Care &amp; Landscaping Business Forum Powered by Moose River Media</a></span> </td>
 			</tr>
 			<tr>
 				<td class="navbar" style="font-size:10pt; padding-top:1px" colspan="3"><a href="/privacypolicy.php"><img class="inlineimg" src="http://images.lawnsite.com/images/misc/navbits_finallink_ltr.gif" alt="Reload this Page" border="0" title="Reload this Page"></a> <strong><!-- BEGIN TEMPLATE: navbar_link -->
@@ -1579,15 +1653,15 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
 		
 
 		
-			<td class="vbmenu_control"><a href="register.php" rel="nofollow">Register</a></td>
+			<td class="vbmenu_control"><a href="register.php?s=d17ce194ad02f522b54dc5ce067a14c0" rel="nofollow">Register</a></td>
 		
 		
-		<td class="vbmenu_control"><a href="faq.php" accesskey="5">FAQ</a></td>
+		<td class="vbmenu_control"><a href="faq.php?s=d17ce194ad02f522b54dc5ce067a14c0" accesskey="5">FAQ</a></td>
 		
-		<td class="vbmenu_control"><a href="calendar.php">Calendar</a></td>
+		<td class="vbmenu_control"><a href="calendar.php?s=d17ce194ad02f522b54dc5ce067a14c0">Calendar</a></td>
 		
 			
-			<td class="vbmenu_control"><a href="forumdisplay.php?do=markread" rel="nofollow">Mark Forums Read</a></td>
+			<td class="vbmenu_control"><a href="forumdisplay.php?s=d17ce194ad02f522b54dc5ce067a14c0&amp;do=markread" rel="nofollow">Mark Forums Read</a></td>
 			
 		
 		
@@ -1665,7 +1739,7 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
     2. <u>How Information Collected is Used</u>
 </p>
 <p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
-    The information collected by and through the Web site is owned solely by MRM. <span style="mso-spacerun: yes"></span>The information collected by and through this Web site will by used solely by MRM, its divisions, subsidiaries, and affiliates, or other entities that are involved in the operation of this Web site for MRM’s internal purposes and is not sold, rented or transferred to third parties.
+The information collected by and through the Web site is owned solely by MRM. The information collected by and through this Web site will by used solely by MRM, its divisions, subsidiaries, and affiliates, or other entities that are involved in the operation of this Web site for MRM’s internal purposes.
 </p>
 <p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">
     MRM may use the information collected and provided, individually or in an aggregate form, as follows:
@@ -1778,7 +1852,7 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
 <!-- END TEMPLATE: ad_footer_start -->
 
 <br>
-<div class="smallfont" align="center">All times are GMT -4. The time now is <span class="time">01:44 AM</span>.</div>
+<div class="smallfont" align="center">All times are GMT -4. The time now is <span class="time">10:29 AM</span>.</div>
 <br>
 
 <!-- BEGIN TEMPLATE: spacer_close -->
@@ -1823,11 +1897,10 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
 <a target="_blank" href="http://www.turfmagazine.com">Turf Magazine</a> -
 <a target="_blank" href="http://www.sportsfieldmanagementmagazine.com">SportsField Management Magazine</a> -
 <a target="_blank" href="http://www.treeservicesmagazine.com">Tree Services Magazine</a> -
-<a target="_blank" href="http://www.lhcmagazine.com">Landscape and Hardscape Construction Magazine</a> -
+<a target="_blank" href="http://www.lhdesignbuild.com">Landscape and Hardscape Design-Build Magazine</a> -
 <a target="_blank" href="http://www.farmingforumsite.com">FarmingForumSite.com</a> -
 <a target="_blank" href="http://www.farmingmagazine.com">Farming Magazine</a> -
 <a target="_blank" href="http://www.growingmagazine.com">Growing Magazine</a> -
-<a target="_blank" href="http://www.fpemagazine.com">Forest Products Equipment</a> -
 <a target="_blank" href="http://www.mooserivermedia.com/sourcebook.php">Moose River Media Source Book</a> -
 <a target="_blank" href="http://www.superintendentmagazine.com">Superintendent Magazine</a>
 </p><p><a href="partnerlinks.php"><strong>View our Partner links</strong></a></p>
@@ -1838,7 +1911,7 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
 <div align="center">
 	<div class="smallfont" align="center">
 	<!-- Do not remove this copyright notice -->
-	Powered by vBulletin® Version 3.7.3<br>Copyright ©2000 - 2009, Jelsoft Enterprises Ltd.
+	Powered by vBulletin® Version 3.7.3<br>Copyright ©2000 - 2010, Jelsoft Enterprises Ltd.
 	<!-- Do not remove this copyright notice -->
 	</div>
 
@@ -1847,7 +1920,7 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
 	
 	<!-- Do not remove  or your scheduled tasks will cease to function -->
 
-	Copyright ©1998 - 2009, LawnSite.com™ - Moose River Media
+	Copyright ©1998 - 2010, LawnSite.com™ - Moose River Media
 	</div>
 </div>
 
@@ -1909,6 +1982,7 @@ document.write('<a href="http://clk.atdmt.com/MSR/go/191762931/direct/01/" targe
 <!-- BEGIN TEMPLATE: ad_footer_end -->
 
 <!-- END TEMPLATE: ad_footer_end -->
+
 
 
 <script type="text/javascript">
@@ -1973,6 +2047,9 @@ pageTracker._trackPageview();
 <script>
 replaceText();
 </script>
+
+
+
 <!-- END TEMPLATE: footer -->
 
 
