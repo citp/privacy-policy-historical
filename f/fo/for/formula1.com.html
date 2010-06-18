@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2009-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227172823id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2010-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618071129id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="ctl00_Head1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="jsEnabled"><head id="ctl00_Head1">
 <title>Formula 1™ - The Official F1™ Website</title>
+<script type="text/javascript">
+	document.getElementsByTagName('html')[0].className = 'jsEnabled';
+</script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link href="/css/global.css" rel="stylesheet" type="text/css" media="screen">
@@ -10,16 +13,25 @@
 <link href="/css/modules.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/slimbox.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/videobox.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/f1_forms.css" rel="stylesheet" type="text/css" media="screen">
+
 <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="http://www.formula1.com/desktopfavicon.png">
 
 <link href="/assets/fragment/css/dynamic.css" rel="stylesheet" type="text/css" media="screen">
 
 <!--[if lt IE 7]>
     <link href="/css/ie6.css" rel="stylesheet" type="text/css" media="screen" />
 <![endif]-->
-<!--[if IE]>
-    <link href="/css/ie.css" rel="stylesheet" type="text/css" media="screen" />
+<!--[if IE 7]>
+    <link href="/css/ie7.css" rel="stylesheet" type="text/css" media="screen" />
 <![endif]-->
+<!--[if IE 8]>
+    <link href="/css/ie8.css" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+
+<script type="text/javascript" src="/js/AC_OETags.js"></script>
 <script type="text/javascript" src="/js/swfobject2.js"></script>
 
 <script type="text/javascript" src="/js/mootools.js"></script>
@@ -36,11 +48,22 @@
 <script type="text/javascript" src="/js/time.js"></script>
 <script type="text/javascript" src="/js/webservice.js"></script>
 
+<script type="text/javascript" src="/js/f1_forms.js"></script>
+<script type="text/javascript" src="/js/f1_detect.js"></script>
+
+<!--[if lt IE 7]>
+    <script defer type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->
+
+
 <noscript>
 <style type="text/css">
     div#tertiaryNav div{
         display: block;
     }     
+</style>
+<style type="text/css">
+	#bannerWrapper{margin-bottom: 10px;}
 </style>
 </noscript>
 
@@ -58,7 +81,7 @@
         
 
 <h1>
-    <a href="/">
+    <a href="/default.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/F1_Logo'); }">
         <img id="blackImage" src="/img/heading/logo_f1.png" alt="Home - The Official Formula 1 Website">
         <img id="whiteImage" src="/img/heading/logo_f1_wte.gif" alt="Home - The Official Formula 1 Website" style="display: none;">
     </a> 
@@ -75,27 +98,32 @@
 			<ul>
 		
 		
-				<li>
+				<li class="navNEWS_HEADLINES navNEWS_HEADLINES_en">
 				
 				<a href="/news/headlines/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/headlines'); }">HEADLINES</a>
 				</li>
 			
-				<li>
+				<li class="navNEWS_FEATURES navNEWS_FEATURES_en">
 				
 				<a href="/news/features/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/features'); }">FEATURES</a>
 				</li>
 			
-				<li>
+				<li class="navNEWS_TECHNICAL navNEWS_TECHNICAL_en">
 				
 				<a href="/news/technical/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/technical'); }">TECHNICAL</a>
 				</li>
 			
-				<li>
+				<li class="navNEWS_INTERVIEWS navNEWS_INTERVIEWS_en">
 				
 				<a href="/news/interviews/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/interviews'); }">INTERVIEWS</a>
 				</li>
 			
-				<li>
+				<li class="navNEWS_FEEDS navNEWS_FEEDS_en">
+				
+				<a href="/news/feeds.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/feeds'); }">FEEDS</a>
+				</li>
+			
+				<li class="navNEWS_SEARCHRESULTS navNEWS_SEARCHRESULTS_en">
 				
 				
 				</li>
@@ -109,14 +137,19 @@
 			<ul>
 		
 		
-				<li>
+				<li class="navRACES_INDETAIL navRACES_INDETAIL_en">
 				
 				<a href="/races/in_detail/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/in_detail'); }">IN DETAIL</a>
 				</li>
 			
-				<li>
+				<li class="navRACES_2010CALENDAR navRACES_2010CALENDAR_en">
 				
 				<a href="/races/calendar.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/calendar'); }">2010 CALENDAR</a>
+				</li>
+			
+				<li class="navRACES_DOWNLOADS navRACES_DOWNLOADS_en">
+				
+				<a href="/races/downloads/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/downloads'); }">DOWNLOADS</a>
 				</li>
 			
 			</ul>
@@ -128,17 +161,17 @@
 			<ul>
 		
 		
-				<li>
+				<li class="navRESULTS_SEASON navRESULTS_SEASON_en">
 				
 				<a href="/results/season/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/season'); }">SEASON</a>
 				</li>
 			
-				<li>
+				<li class="navRESULTS_TEAM navRESULTS_TEAM_en">
 				
 				<a href="/results/team/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/team'); }">TEAM</a>
 				</li>
 			
-				<li>
+				<li class="navRESULTS_DRIVER navRESULTS_DRIVER_en">
 				
 				<a href="/results/driver/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/driver'); }">DRIVER</a>
 				</li>
@@ -152,22 +185,22 @@
 			<ul>
 		
 		
-				<li>
+				<li class="navGALLERY_RACE navGALLERY_RACE_en">
 				
 				<a href="/gallery/race/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/race'); }">RACE</a>
 				</li>
 			
-				<li>
+				<li class="navGALLERY_TESTING navGALLERY_TESTING_en">
 				
 				<a href="/gallery/testing/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/testing'); }">TESTING</a>
 				</li>
 			
-				<li>
+				<li class="navGALLERY_LAUNCHES navGALLERY_LAUNCHES_en">
 				
 				<a href="/gallery/launches/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/launches'); }">LAUNCHES</a>
 				</li>
 			
-				<li>
+				<li class="navGALLERY_OTHER navGALLERY_OTHER_en">
 				
 				<a href="/gallery/other/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/other'); }">OTHER</a>
 				</li>
@@ -181,17 +214,17 @@
 			<ul>
 		
 		
-				<li>
+				<li class="navTEAMSDRIVERS_TEAMS navTEAMSDRIVERS_TEAMS_en">
 				
 				<a href="/teams_and_drivers/teams/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/teams'); }">TEAMS</a>
 				</li>
 			
-				<li>
+				<li class="navTEAMSDRIVERS_DRIVERS navTEAMSDRIVERS_DRIVERS_en">
 				
 				<a href="/teams_and_drivers/drivers/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/drivers'); }">DRIVERS</a>
 				</li>
 			
-				<li>
+				<li class="navTEAMSDRIVERS_HALLOFFAME navTEAMSDRIVERS_HALLOFFAME_en">
 				
 				<a href="/teams_and_drivers/hall_of_fame/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/hall_of_fame'); }">HALL OF FAME</a>
 				</li>
@@ -205,32 +238,32 @@
 			<ul>
 		
 		
-				<li>
+				<li class="navINSIDEF1_RULESREGULATIONS navINSIDEF1_RULESREGULATIONS_en">
 				
 				<a href="/inside_f1/rules_and_regulations/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/rules_and_regulations'); }">RULES &amp; REGULATIONS</a>
 				</li>
 			
-				<li>
+				<li class="navINSIDEF1_UNDERSTANDINGTHESPORT navINSIDEF1_UNDERSTANDINGTHESPORT_en">
 				
 				<a href="/inside_f1/understanding_the_sport/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/understanding_the_sport'); }">UNDERSTANDING THE SPORT</a>
 				</li>
 			
-				<li>
+				<li class="navINSIDEF1_SAFETY navINSIDEF1_SAFETY_en">
 				
 				<a href="/inside_f1/safety/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/safety'); }">SAFETY</a>
 				</li>
 			
-				<li>
+				<li class="navINSIDEF1_GLOSSARY navINSIDEF1_GLOSSARY_en">
 				
 				<a href="/inside_f1/glossary.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/glossary'); }">GLOSSARY</a>
 				</li>
 			
-				<li>
+				<li class="navINSIDEF1_FAQ navINSIDEF1_FAQ_en">
 				
 				<a href="/inside_f1/faq.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/faq'); }">FAQ</a>
 				</li>
 			
-				<li>
+				<li class="navINSIDEF1_SEARCHRESULTS navINSIDEF1_SEARCHRESULTS_en">
 				
 				
 				</li>
@@ -240,30 +273,10 @@
 	
 		
 		
-			<li class="navSERVICES navSERVICES_en"><a href="/services/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L1Nav/services'); }">SERVICES</a>
+			<li class="navLIVETIMING navLIVETIMING_en"><a href="/live_timing/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L1Nav/live_timing'); }">LIVE TIMING</a>
 			<ul>
 		
 		
-				<li>
-				
-				<a href="/services/live_timing/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/live_timing'); }">LIVE TIMING</a>
-				</li>
-			
-				<li>
-				
-				<a href="/services/email.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/email'); }">EMAIL</a>
-				</li>
-			
-				<li>
-				
-				<a href="/services/downloads/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/downloads'); }">DOWNLOADS</a>
-				</li>
-			
-				<li>
-				
-				<a href="/services/feeds.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/feeds'); }">FEEDS</a>
-				</li>
-			
 			</ul>
 		</li>
 	
@@ -273,12 +286,12 @@
 			<ul>
 		
 		
-				<li>
+				<li class="navVIDEO_RACEEDITS navVIDEO_RACEEDITS_en">
 				
 				<a href="/video/race_edits.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L2Nav/Video'); }">RACE EDITS</a>
 				</li>
 			
-				<li>
+				<li class="navVIDEO_ONBOARD navVIDEO_ONBOARD_en">
 				
 				<a href="/video/onboard.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L2Nav/Video'); }">ONBOARD</a>
 				</li>
@@ -306,10 +319,35 @@
 	
 		
 		
-			<li class="navMOBILE navMOBILE_en"><a href="http://digitalstore.formula1.com/catalog/index.php?cPath=49" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/L1Nav/Mobile'); }">MOBILE</a>
+			<li class="navMOBILE navMOBILE_en"><a href="/mobile_services/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L1Nav/mobile_services'); }">MOBILE</a>
 			<ul>
 		
 		
+				<li class="navMOBILE_OVERVIEW navMOBILE_OVERVIEW_en">
+				
+				<a href="/mobile_services/services.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/services'); }">OVERVIEW</a>
+				</li>
+			
+				<li class="navMOBILE_WEBSITE navMOBILE_WEBSITE_en">
+				
+				<a href="/mobile_services/website.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/website'); }">WEBSITE</a>
+				</li>
+			
+				<li class="navMOBILE_2010APPLICATION navMOBILE_2010APPLICATION_en">
+				
+				<a href="/mobile_services/live_timing.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/live_timing'); }">2010 APPLICATION</a>
+				</li>
+			
+				<li class="navMOBILE_DOWNLOADS navMOBILE_DOWNLOADS_en">
+				
+				<a href="/mobile_services/downloads.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/downloads'); }">DOWNLOADS</a>
+				</li>
+			
+				<li class="navMOBILE_TEXTSERVICE navMOBILE_TEXTSERVICE_en">
+				
+				<a href="/mobile_services/text_service.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/text_service'); }">TEXT SERVICE</a>
+				</li>
+			
 			</ul>
 		</li>
 	
@@ -330,7 +368,7 @@
 	</div>
    
                             
-                <div id="contentMain">
+                <div id="contentMain"><div id="adHoldLeftCol" style="position: absolute; margin-left: 0px; margin-top: 5px; z-index: -1000; height: 0px;"><div id="adHoldLeftFlash"></div></div>
                      <!-- content modules here -->
                      
     
@@ -341,12 +379,12 @@
         
         <div class="contentPage">
             <p><b>This website, Formula1.com (the "Site"), and all personal information collected from users of this Site, are owned solely by Formula One Management Limited. In this Privacy Policy references to "we", "us", "our", are references to Formula One Management Limited. </b></p>
-<p><b>We take the privacy of all our users seriously.</b><br>This Privacy Policy outlines how we treat your personal information, and forms part of the Terms and Conditions of this Site. This Privacy Policy applies only to this Site, and not to the collection and use of personal information by any third party via any website to which there are links on this Site. We are not responsible for the privacy policies of other websites, and encourage you to be aware when you leave our Site, and to read all applicable terms, conditions and privacy policies when using other websites.</p>
-<p><b>Consent</b><br>Your use of this Site signifies your consent to us collecting and using personal information about you in accordance with this Privacy Policy.</p>
+<p><b>We take the privacy of all our users seriously.</b><br>This Privacy Policy outlines how we treat your personal information and forms part of the Terms and Conditions of this Site. This Privacy Policy applies only to this Site, and not to the collection and use of personal information by any third party via any website to which there are links on this Site. We are not responsible for the privacy policies of other websites, and encourage you to be aware when you leave our Site, and to read all applicable terms, conditions and privacy policies when using other websites.</p>
+<p><b>Consent</b><br>Your use of this Site signifies your consent to&nbsp;our collecting and using personal information about you in accordance with this Privacy Policy.</p>
 <p><b>What information do we collect?</b><br>You may access this Site's home page and browse the Site without disclosing any personal data. In order to provide you with a range of services, however, we may collect personal information from this Site, from written information sent to us and from other communications. We may for example, keep a record of your name, mailing address, email address, telephone number, gender and preferences.</p>
 <p><b>How do we use your information?</b><br>Any personal data relating to you will be used and recorded by us in accordance with current data protection legislation and this Privacy Policy. We may use your personal information to communicate with you, such as to let you know about new features or offerings on Formula1.com, for record keeping purposes, and in aggregate (and therefore anonymously) for market research purposes, to track activity on our site, to publish trends and/or to improve usefulness and content and for any other purpose that we may notify to you and the relevant data protection authority from time to time.</p>
-<p>We may operate a mailing list to send you FORMULA ONE (tm) related news. This mailing list currently operates as a 'opt in' mailing list whereby subscribers add themselves to the list. We only send emails to addresses, which have been subscribed to the list, we do not 'spam'. If you wish to unsubscribe from the list please e-mail us at <a href="mailto:unsubscribe@formula1.com">unsubscribe@formula1.com</a>. We currently do not share, licence or sell these e-mail addresses.</p>
-<p>We reserve the right to disclose your personal information to anyone who may take over the running of the Site or who may purchase any or all of our assets including your personal information. We reserve the right to disclose your personal information to any law enforcement agency requesting it in connection with the commission of any offence, once we are reasonably satisfied as to the circumstances surrounding the request. We also reserve the right to access and disclose your personal information in order to comply with applicable laws a lawful government requests, to operate our systems properly or to protect our users and ourselves.</p>
+<p>We may operate a mailing list to send you FORMULA ONE (tm) related news. This mailing list currently operates as an 'opt in' mailing list whereby subscribers add themselves to the list. We only send emails to addresses which have been subscribed to the list. We do not 'spam'. If you wish to unsubscribe from the list please e-mail us at <a href="mailto:unsubscribe@formula1.com">unsubscribe@formula1.com</a>. We currently do not share, licence or sell these e-mail addresses.</p>
+<p>We reserve the right to disclose your personal information to anyone who may take over the running of the Site or who may purchase any or all of our assets including your personal information. We reserve the right to disclose your personal information to any law enforcement agency requesting it in connection with the commission of any offence, once we are reasonably satisfied as to the circumstances surrounding the request. We also reserve the right to access and disclose your personal information in order to comply with applicable laws and lawful government requests, to operate our systems properly or to protect our users and ourselves.</p>
 <p>Except as expressly stated in this Privacy Policy, we will not sell, share, trade or licence your personal information to others without your express consent.</p>
 <p><b>Security</b><br>We take every precaution to protect your personal information. In addition, we have strict security protocols in place to protect our customer database from unauthorised access, improper use or disclosure, unauthorised modification, and unlawful destruction or accidental loss. We only allow access to the customer database when absolutely necessary, and then under strict guidelines as to what use may be made of such details. We may ask you for proof of identity before disclosing any personal information to you.</p>
 <p><b>Surveys</b><br>We always aim to improve the services we offer. As a result we may occasionally canvass our customers using surveys. Participation in surveys is voluntary, and you are under no obligation to reply to any survey you might receive from us. Should you choose to do so, we will treat the information you provide with the same high standard of care as all other customer information.</p>
@@ -354,12 +392,12 @@
 <p><b>Cookies</b><br>When you first visit one of our Sites, upon entering your name and address, we may send you a cookie. Usage of cookies is in no way linked to any personally identifiable information while on our Site. A cookie is a small file that can be placed on your computer's hard drive for record keeping purposes, and we may use them to do a number of things. For example, cookies may be used to compile anonymous statistics related to the take up or use of services, or to patterns of browsing. When used in this manner, you are not individually identified, and information collected in this manner is only used in aggregate.</p>
 <p>Some of our business partners (for example, advertisers) may use cookies on our Site or their own sites. We have no access to, or control over these cookies. You are not obliged to accept a cookie from us, or any other website, and you may modify your browser so that it will not accept cookies, although some features on the Site may not function if you do.</p>
 <p><b>Unsubscribe</b><br>We hope that you will enjoy using this Site and the services we offer. However, you may request that your personal information is not used in the ways outlined above. This is called unsubscribing, and may be achieved by any of the following methods:</p>
-<p>Visit our <a href="http://www.formula1.com/services/email.html">Email</a> page and complete the unsubscribe option.</p>
-<p>Email us at <a href="mailto:unsubscribe@formula1.com">unsubscribe@formula1.com</a></p>
-<p><b>Correcting and Updating Personal Information</b><br>If your personal information changes, or if you believe that the personal data we hold about you is incorrect, you may ask us to correct or update the personal information held by us by sending an email to <a href="mailto:admin@formula1.com">admin@formula1.com</a></p>
+<p>Sign in and visit the <a href="http://www.formula1.com/reg/editdetails">Edit details</a> page, untick the relevant check box(es) and save your details.</p>
+<p>Email us at <a href="mailto:unsubscribe@formula1.com">unsubscribe@formula1.com</a></p><p><b>Correcting and Updating Personal Information</b><br>If your personal information changes, or if you believe that the personal data we hold about you is incorrect, you may ask us to correct or update the personal information held by us by sending an email to <a href="mailto:admin@formula1.com">admin@formula1.com</a></p>
 <p><b>Site and Service Updates</b><br>We may send you Site and service announcements or updates. You cannot unsubscribe from service announcements, as they will contain important information about the services provided on the Site.</p>
 <p><b>Notification of Changes</b><br>We may occasionally modify our Privacy Policy, and when this happens, we will notify you via our homepage.</p>
-<p><b>Privacy Support</b><br>If you have any enquiry or concern about our privacy policy, please email us at <a href="mailto:admin@formula1.com">admin@formula1.com</a></p><a name="misc"></a><p></p>
+<p><b>Privacy Support</b><br>If you have any enquiry or concern about our privacy policy, please email us at <a href="mailto:admin@formula1.com">admin@formula1.com</a></p><a name="misc"></a>
+<p></p>
         </div>
     </div>
 
@@ -371,6 +409,77 @@
                     
 
 <!-- Advertising Panel -->
+
+<script type="text/javascript">
+    var now = new Date();
+    var unique = "unique=" + now.getTime();
+    var adHoldLeftHeight = 409;
+    function sbaSize(toBe){
+        document.getElementById("adHoldRightCol").style.height = toBe + "px";
+        $('adHoldRightCol').setStyle('overflow', 'hidden');
+        if (toBe > 0)
+        {
+            $('adHoldRightCol').setStyle('padding', '5px 0 0 0');
+        }
+    }
+    
+    function sbaHide(){
+        document.getElementById("adHoldLeftCol").style.zIndex = "-1000";
+        document.getElementById("adHoldLeftCol").style.height = "0px";
+        document.getElementById("adHoldLeft").style.height = "0px";
+    }
+    
+    function sbaShow(){
+        document.getElementById("adHoldLeftCol").style.zIndex = "1000";
+        document.getElementById("adHoldLeftCol").style.height = adHoldLeftHeight + "px";
+        document.getElementById("adHoldLeft").style.height = adHoldLeftHeight + "px";
+    }
+    
+    var sbaLoadRightCalled = false;
+    function sbaLoadRight()
+    {
+        if (sbaLoadRightCalled)
+        {
+            return;
+        }
+            
+        sbaLoadRightCalled = true;
+        
+        sbaHide();
+        
+		var flashvars = false;
+		var attributes = {id: "adHoldRight"};
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=promos&typeArray=D&nameArray=Vodafone5G&weightArray=4" };
+		swfobject.embedSWF("/flash/advertising/side_bar/adHoldRight.swf", "adHoldRightFlash", "235", "600", "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
+    }
+
+    window.addEvent('domready', function(){
+        // create adHoldLeftCol container DIV and insert in contentMain DIV
+	     var oDiv = new Element('div', {
+	     'id':'adHoldLeftCol',
+	     'styles':{'position':'absolute','margin-left':'0px','margin-top':'5px','zIndex':'-1000','height':'0'}
+	     });
+	     	     
+	  	oDiv.injectTop($('contentMain'));
+	  	
+        var oFlashDiv = new Element('div', {
+        'id':'adHoldLeftFlash'
+        });
+        
+        oFlashDiv.inject(oDiv);
+
+		var flashvars = false;
+		var attributes = {id: "adHoldLeft"};
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=rollpanels&typeArray=D&nameArray=Vodafone5G&weightArray=4" };
+		swfobject.embedSWF("/flash/advertising/side_bar/adHoldLeft.swf", "adHoldLeftFlash", "715", adHoldLeftHeight, "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
+});
+
+</script>
+
+<div id="adHoldRightCol" style="z-index: 1; display: block; height:0; padding: 0px 0 0 0;">
+<div id="adHoldRightFlash"></div>
+</div>
+  
 
 
                     
@@ -397,7 +506,7 @@
         <a href="/tickets_and_travel/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Tickets'); }">TICKETS &amp; TRAVEL</a>
     </div>
     <div class="button button_mobile">
-        <a href="http://digitalstore.formula1.com/catalog/index.php?cPath=49" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Mobile'); }" target="_blank">MOBILE SERVICES</a>
+        <a href="/mobile_services/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Mobile'); }">MOBILE SERVICES</a>
     </div>
     <div class="button button_video last">
         <a href="/video/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/RHP/Video'); }">VIDEO</a>
@@ -412,7 +521,7 @@
 <div id="footer">
     <div id="footerBar">
 	    <div class="section1">
-    	    &nbsp;
+	        <a href="/default.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/F1_Logo'); }">FORMULA1.COM</a>
         </div>
         <div class="divLine"><img src="/img/footer/div.jpg"></div>
         <div class="section2">
@@ -420,7 +529,7 @@
     	    <li><a href="/video/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/Video'); }">VIDEO</a></li>
             <li><a href="/tickets_and_travel/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/Tickets'); }">TICKETS &amp; TRAVEL</a></li>
             <li><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/F1Store'); }">F1 STORE</a></li>
-            <li><a href="http://digitalstore.formula1.com/catalog/index.php?cPath=49" target="_blank" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/Mobile'); }">MOBILE</a></li>
+            <li><a href="/mobile_services/" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Footer/Mobile'); }">MOBILE</a></li>
         </ul>
         </div>
         <div class="divLine"><img src="/img/footer/div.jpg"></div>
@@ -431,13 +540,11 @@
 			    
                 <li><a href="/contacts.html">CONTACTS</a></li>
                 
+			    <li><a href="/reg/viewdetails">MY DETAILS</a></li>
         </ul>
         </div>
-	    <div class="section3">
-    	    &nbsp;
-        </div>
     </div>
-    <span id="copyrightLine">© 1999-2009 Formula One Administration Ltd</span>
+    <span id="copyrightLine">© 1999-2010 Formula One Administration Ltd</span>
 </div>
 
 
