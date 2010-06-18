@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230022043id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618212154id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CFNC - Privacy of Information
 
@@ -25,7 +25,7 @@ The Privacy Policy for each entity maintaining the College Foundation of North C
 
 #### Privacy Policy of College Foundation, Inc.
 
-Effective as of June 2009 
+Effective as of June 2010 
 
 College Foundation, Inc., (the "Foundation"), on its own behalf and on behalf of the entities for which the Foundation services education loans and administers education assistance programs, is committed to protecting the confidential nature of all "nonpublic personal information" that the Foundation collects from individuals, including borrowers and other student assistance program participants, in order to provide services to you. Such "nonpublic personal information" includes, but is not limited to, the following:
 
@@ -54,7 +54,7 @@ SunTrust Bank
 Wachovia Bank, N.A.  
 Fifth Third Bank  
 Branch Banking and Trust Company  
-First National Bank and Trust Co.  
+CommunityONE Bank, N.A.  
 Bank of America, N.A.  
 Bank of Granite  
 Farmers & Merchants Bank  
