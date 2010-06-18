@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazette.net privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218021110id_/http%3A//www.gazette.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazette.net privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619000050id_/http%3A//www.gazette.net/privacy) for the most accurate reproduction.*
 
 # Gazette.Net Maryland Community News
 
@@ -29,5 +29,3 @@ If you are having trouble with our Web site, please contact [editor@gazette.net]
 ## Questions and comments
 
 If you have questions or comments on this privacy policy, please e-mail [editor@gazette.net](mailto:editor@gazette.net).
-
-[](http://spotted.gazette.net/)
