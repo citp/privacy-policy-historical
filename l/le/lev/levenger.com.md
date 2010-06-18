@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218044658id_/http%3A//www.levenger.com/CUSTOMER/SERVICE/privacy.asp%3FParams%3Dcategory%3D539%7Clevel%3D2%7Cpageid%3D2370) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618130547id_/http%3A//www.levenger.com/CUSTOMER/SERVICE/privacy.asp%3FParams%3Dcategory%3D539%7Clevel%3D2%7Cpageid%3D2370) for the most accurate reproduction.*
 
 # Levenger Privacy Statement - Levenger
 
-Last updated 10/1/07
+Last updated 03/24/10
 
 AT LEVENGER, WE STRIVE TO TREAT OUR CUSTOMERS AS WE DO OUR BEST FRIENDS. SO IN DEVELOPING THIS PRIVACY POLICY, WE APPLIED THE GOLDEN RULE TEST: IF WE WERE THE CUSTOMER, HOW WOULD WE WANT THE COMPANY TO TREAT US? OUR GOAL IS TO RESPECT YOUR PRIVACY EVEN AS WE GO ABOUT THE BUSINESS OF BRINGING YOU WELL-DESIGNED AND USEFUL PRODUCTS FOR YOUR READING, WRITING AND THINKING. 
 
@@ -83,13 +83,13 @@ Personalized Cards Font Agreement
 
 
 
-Third Party Intermediaries
+Third-Party Intermediaries
 
 We use an outside shipping company to ship orders, an outside telemarketing company to take orders and a credit card processing company to validate charges for goods. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
 
 Service Providers
 
-We partner with other third parties such as Experian and e-Dialog to provide specific services. For example, e-Dialog is our email vendor that transmits all of our marketing emails and Experian is responsible for the data processing and postal sortation for each catalog mailing. When the user signs up for these particular services, we share names, email addresses and mailing address information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+We partner with other third parties such as Experian to provide specific services. For example, Experian is responsible for the data processing and postal sortation for each catalog mailing. When the user signs up for these particular services, we share names and mailing address information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
 Business Transitions
 
