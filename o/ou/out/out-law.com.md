@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218053012id_/http%3A//www.out-law.com/page-298) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618133504id_/http%3A//www.out-law.com/page-298) for the most accurate reproduction.*
 
 # Privacy | OUT-LAW.COM by Pinsent Masons LLP
 
