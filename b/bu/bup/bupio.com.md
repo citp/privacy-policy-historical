@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bupio.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426082005id_/http%3A//www.bupio.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bupio.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618053711id_/http%3A//www.bupio.com/help-privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
  
 
-Bupio.com has established its privacy policy to explain how your information within the purview of Bupio.com is protected, collected and used. This policy may be updated by Bupio.com. Bupio.com will post notices of its policy changes on the Bupio.com site at: <http://www.bupio.com/help-privacy.html> 
+Bupio.com has established its privacy policy to explain how your information within the purview of Bupio.com is protected, collected and used. This policy may be updated by Bupio.com. Bupio.com will post notices of its policy changes on the Bupio.com site at: <http://www.bupio.com/help-privacy.html>  
 
 **PRIVACY PROTECTION**
 
