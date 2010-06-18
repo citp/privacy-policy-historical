@@ -1,48 +1,101 @@
-> *The following text is extracted and transformed from the onboardmag.com privacy policy that was archived on 2007-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070824014500id_/http%3A//www.onboardmag.com/terms_and_conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onboardmag.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619004854id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy / Terms And Conditions / Onboard : snowboarding online
+# Privacy Policy // About // Mpora Extreme Sports
 
-## Privacy policy
+**What is the Privacy Policy** This Privacy Policy (the 'Policy') forms part of the Terms and Conditions for the access and use of this Website (the 'Terms') and should be read in conjunction with the Terms. Your access and use of this Website and any information you provide on the Website remains subject to the terms of this Policy and to our Terms.
 
-If you choose to share this information with us, we may hold it and use it to enhance the website for your future visits. We may also use information supplied by you to perform in-house statistical analysis for marketing reasons – although no information that can single out an individual will ever be distributed to a 3rd party.
+**We recognise that you value your privacy.** This Policy provides information about the use and disclosure of personally identifiable information collected about you on the Website. We are committed to ensuring that your privacy is protected.
 
-Your information 
+**1\. Minimum Age**
 
-The website contains various data 'opt in' and 'opt out' boxes on the relevant pages where you provide your personal information. We will not use information supplied to us in order to contact you by telephone or post where you have opted out of being contacted and by e-mail where you have not opted in to be contacted. Your personal information will only be passed to reputable third parties where you have not opted out of being contacted by such organisations. 
+**Children under 13** The minimum age for members is 13. Please do not try to become a member if you are younger than 13. If you are under 13 and have joined we will delete your information as soon as possible after learning this. Please advise us if you believe we have personal information relating to a person younger than 13
 
-Technical information 
+**Parents’ permission** We recommend that minors of 13 years or older ask their parents’ permission before providing personal information to us in the internet. Personal information placed on the Website will, subject to your privacy preference be available on the internet. 
 
-The internet by its very design allows websites to access certain technical information about the computers being used to access it. This information includes:
+**2\. Scope of the Policy**
 
-  * IP address 
-  * Computer platform 
-  * Web browser used 
-  * Referring website
+**Material you provide** You acknowledge that any personal details and material (videos, images, or other content) posted by you on the Website is published material and ceases to be private; such material is not considered to be personally identifiable information and is therefore not subject to this Policy.
 
+**Limited effect of privacy policy** This Policy only applies to this Website and our other Websites, but not to any external websites or other organisations, companies, individuals to which we provide links or any advertisers or merchants who use our Website. It does not apply to those external websites, applications, and entities which we do not control.
 
+**Purpose of the Policy** This Policy is concerned with governing the type of information and the manner in which we collect and store personal information about you and your use of the Website, the way that we use such information and the circumstances in which we will disclose information about you.
 
-This collects this information so that the very best experience can be designed into future updates of the website. 
+**3\. Information Collection by us**
 
-Security 
+**Your registration with MPORA** In order to register an account with us, you need to provide us with certain personally identifiable information (including your name, surname, date of birth, sex, email address, mobile phone number, IP address, country, address and postcode, sports interests, your activity on the Website (for website improvement purposes) and a profile image). We also ask you whether we can contact you with offers from us (and others) and in what ways we can communicate with you.
 
-We will only store IP address information of visitors against user submitted data when it is deemed necessary to protect both Action Sports Media Ltd and the visitor against fraud or other liability. An example of this could be on a payment page, public forum or a competition entry.
+**Your participation in our activities** Once you are registered with us, you can participate in various activities on our Website, including, but not limited to posting messages in our forums or the video comments section, creating blogs, uploading videos, posting material on your profile, participating in surveys, entering competitions and taking advantage of promotions, subscribing to newsletters or other mailing lists.
 
-Links 
+**Opting in and opting out** When you register with us, you will have the option of opting in to receive various email subscription newsletters. We may also wish to provide you with information about special features of our Website or any other service or products we think may be of interest to you. If you would rather not receive this information, please log into your mpora profile and unselect the unwanted newsletter or follow instructions on the bottom of any newsletter(s) received to unsubscribe.
 
-This website may contain links to other websites that have been deemed to be of interest. A link to an external website takes the visitor outside of the remit of this privacy policy. We try to only provide links to good trustworthy content, but we cannot be held responsible for external content or the privacy practices of the owners of external websites.
+**4\. Our use of Cookies and other information gathering technologies**
 
-Payment Systems 
+**Why we use cookies** When you visit our Website, we may send you one or more cookies to make the Website easier to use. Cookies are small text files that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise your browser and to provide features such as automated login on your next visit. Cookies also enable us to personalise our content to your tastes based upon information that you have provided to us, such as an interest in a particular sport. Cookies in themselves do not contain any personal data, and can only be read and understood by the webserver that issued them.
 
-Where we take payment for a subscription or service we will need to capture more specific personal data. This information will only be used for the purpose of taking payment and or delivery and will be handled in a very secure encrypted manner.
+**If you don’t want the cookies** You can set your browser so that it will not accept cookies, but some components of the Website may not function properly or efficiently if you cannot accept cookies.
 
-Advertisements 
+**Recording your visits to the Website** When you visit our Website, our servers automatically record certain information that your web browser sends whenever it visits any sites. The information recorded will include your IP address, browser type, web request, URLs, domain names and other technical data.
 
-Advertisers are supplied with current statistical reports about visitors to this website in order that they can make decisions about their own marketing campaigns. We will only supply anonymous information to Advertisers.
+**Other recording technologies** We may also employ the use of other technologies to track the online usage pattern of our Users in our Website but such tracking will not be personally identifiable.
 
-Changes to Policy 
+**5\. How we use your information**
 
-If we need to change any aspects of our privacy policy, it will be made on this page in a timely manner.
+**Using your personal information** If you register with us and submit any personally identifiable information to us, we will use your personal information to operate, maintain and provide you with the services and interactive functionality of our Website.
 
-Contact 
+**Media you provide** Any videos that you provide to us for uploading may be redistributed through the internet and other media and may be viewed by the public.
 
-If you have any questions concerning this privacy policy please [contact us](http://www.onboardmag.com/contact/ "Contact us") immediately for an urgent response. 
+**Posting your information on the Website** You can limit the spread of your personal information on the Website by opting out of the provision of some of your personal details. If you voluntarily disclose on the Website any personal information then this becomes publicly available and may be collected by others.
+
+**Aggregating the personal information we receive** We may arrange with other websites and advertisers to share aggregate information and statistics for the purposes of monitoring usage of our Website to help us develop our Website and the services we offer. We may provide the aggregate information to third parties from time to time, but these statistics will not include personally identifiable information.
+
+**We will not** We will not sell your personal information to third parties without your consent; we will not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or unless you have specifically opted in to a particular feature, for example, a newsletter.
+
+**We may** We may use your personal information for non-marketing, administrative purposes.
+
+**Limiting your personal information** You can control how you share your personal information on the Website by opting out of the provision of some personal details. Other details such as your full name, username, country, sex, sports interests and date of birth (if you opt in to this) will be publicly available. If you remove or limit personal details later these may continue to appear elsewhere. When you click on links you will go to other site(s) and we are not and cannot be responsible for those sites.
+
+**6\. Protection of your information**
+
+**Our security** The internet is not a secure medium. We have, however, put in place various security procedures to help to protect your personal information. Protection technologies we use include industry recognised firewalls, browser certification, password protection and limited access to personal information.
+
+**Confidentiality** We keep your personal information confidential. Our internal procedures cover the storage, access and disclosure of your information.
+
+**Imperfect security** We do not represent, warrant or guarantee the security of any information you transmit to us, and any transmission is carried out at your sole risk. Once we receive information we have our own security systems in place, but we do not represent or warrant or guarantee that such systems cannot be breached. Although we will take steps to protect your personal details and you have some options to limit these no security measures are perfect and we cannot promise that only authorised people will access your personal information
+
+**Breach of security** If our security systems have been breached, then we will take appropriate steps to remedy this and to notify you of any breach.
+
+**7\. Updating your details**
+
+If any of the details you have provided to us change, then it is your responsibility to inform us of any such changes.
+
+**8\. Disclosure of information**
+
+**Our passing of your personal information** We may provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our Policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+
+**Anonymous elements of your personal information** We may share information that is not personally identifiable (such as anonymous User usage data) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on our Website.
+
+**When we must disclose your personal information** We will disclose your personal data, personally identifiable information and your User activity and any other details if we are requested to do so by law or by any regulatory or governmental authority or by any law enforcement agency, or upon receipt of a court order or a legitimate request by a third party (for example, the police) in investigating illegal activities to provide information concerning your activities on our Website.
+
+**Other disclosure of your personal information** We reserve the right to disclose information that we believe is appropriate or necessary to enforce our Terms, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to protect the security or integrity of our Website, and to protect our Users and our Users’ rights, property, or personal safety.
+
+**No disclosure of personal information to advertisers** We do not provide any personally identifiable information to any advertisers, merchants or other Users. If you engaged with any advertisers, merchants or other Users on the Website, for example, in the Marketplace, then the terms in this Policy are not applicable to such arrangements and you should find out what privacy policies such third parties have in place.
+
+**9\. Assignment of personal information on a sale, merger or liquidation of the Website**
+
+**When we will pass your information on** We reserve the right to assign any data that we have collected about you to any third party purchaser. We may not be able to control how your personal information is treated, used or managed in the unlikely event that we become insolvent, subject to administration or enter receivership.
+
+**10\. Changes to the Policy**
+
+**Consent to the Policy** By submitting your information, you consent to the use of that information as set out in the Policy. The Policy may be revised periodically and we will give you notice of the details of new policy.
+
+**Changes and notice** If we change our Policy we will post the changes on this page and may place notices on other pages of the Website. We will indicate at the top of this page the date the Policy was last amended.
+
+**11\. Access to Personal Data**
+
+**Application for your data** Should you wish to obtain a copy of any personal data we have about you, please email us at privacy@factorymedia.com We will provide you, at a cost of £10 per application, with a readable copy of your personal data within 30 days of your request.
+
+**Proof of identity** Before we provide you with a copy of any personal data we retain about you, we may ask for proof of your identity.
+
+**Dissatisfaction with the data** If you consider that the information that we have about you is incorrect, incomplete or inaccurate, you must inform us promptly, so that we can make the necessary amendments.
+
+**Your enquiries** If you have any queries regarding our Policy, please email your query to privacy@factorymedia.com
