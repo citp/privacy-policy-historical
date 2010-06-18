@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the primagames.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214072424id_/http%3A//www.primagames.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primagames.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619010407id_/http%3A//www.primagames.com/about/privacy) for the most accurate reproduction.*
 
 # Prima Games - Privacy Policy
 
-The policies below are applicable to the primagames.com Web site and the Prima eGuide store (collectively the "Prima Games Web site"), produced and maintained by Prima Games and its vendors (collectively "Prima Games"). Prima Games is strongly committed to protecting the privacy of users of its interactive products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for users, and in particular, ensure that kids' information is protected. If you don't find your concern addressed here, feel free to contact us by e-mail at [websupportent@primagames.com](mailto:websupportent@primagames.com) or phone 800-733-3000.
+The policies below are applicable to the primagames.com Web site and the Prima eGuide store (collectively the "Prima Games Web site"), produced and maintained by Prima Games and its vendors (collectively "Prima Games"). Prima Games is strongly committed to protecting the privacy of users of its interactive products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for users, and in particular, ensure that kids' information is protected. If you don't find your concern addressed here, feel free to contact us by e-mail at [feedback@primagames.com](mailto:feedback@primagames.com) or phone 800-733-3000.
 
 **What Personal Information Do We Collect?**
 
@@ -80,7 +80,7 @@ You always may opt-out of receiving future mailings. The Prima Games Web site pr
 
 **Questions**
 
-Questions regarding this statement should be directed to [websupportent@primagames.com](mailto:websupportent@primagames.com). 
+Questions regarding this statement should be directed to [feedback@primagames.com](mailto:feedback@primagames.com). 
 
 **For Users Located In Canada Only**
 
