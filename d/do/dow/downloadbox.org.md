@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the downloadbox.org privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026094724id_/http%3A//downloadbox.org/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbox.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618235530id_/http%3A//downloadbox.org/Privacy%2520Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Download from Rapidshare, Megaupload, Hotfile, Storage.to, Depositfiles, Mediafire, Netload, Filefactory, Direct Download
+# Privacy Policy Full Rapidshare Megaupload or Torrent Downloads
+
+**Privacy Policy**
 
 _**Privacy Policy**_
 
@@ -24,5 +26,3 @@ DownloadBox.Org reserves the right, at any time, to modify, alter or update the 
 
   
 
-
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=800367&afsid=1)
