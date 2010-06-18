@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonesreview.co.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218171244id_/http%3A//www.phonesreview.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonesreview.co.uk privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618204928id_/http%3A//www.phonesreview.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy » Phone Reviews
 
