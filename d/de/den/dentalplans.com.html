@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the dentalplans.com privacy policy that was archived on 2009-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090530201814id_/http%3A//www.dentalplans.com/moreinfo/privacystatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dentalplans.com privacy policy that was archived on 2010-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618183050id_/http%3A//www.dentalplans.com/moreinfo/privacystatement.asp) for the most accurate reproduction.-->
 
-<html><head><script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<script>
 //readCookie('dpaffiliate') // readCookie('dpsubaffiliate')
 function readCookie(name)   
 {   
@@ -20,17 +21,28 @@ function readCookie(name)
   }   
   return cookieValue;   
 }  
+
+//Logs Event Analytics
+function LoadVirtualGoogleEventTracking( strCategory, strEvent)
+{
+	var vCategory =strCategory;
+	var vEvent =strEvent;
+	pageTracker._trackEvent(vCategory, vEvent);
+}
+//Returns Filename with out extion
+function GetCurrentURLFileAlias()
+{
+	var cUrl = location.href.split('/');
+	var cFile = cUrl[cUrl.length-1].split('?')[0];
+	var cAlias = cFile.split('.')[0];
+ 	   return cAlias;
+}
+
 </script>
 
 
 
-
-
-
-
-
 <title>DentalPlans.com Privacy Policy</title>
-
 
 <meta name="description" content="At DentalPlans.com, your privacy is as important to us as it is to you.">
 <meta name="keywords" content="privacy information, statement, medical, dental, prescription, vision, benefits, plans, insurance, coverage, discount, free, dental benefits, dental plans, dental insurance">
@@ -38,28 +50,44 @@ function readCookie(name)
 <meta name="distribution" content="global">
 <meta name="resource-type" content="document">
 <meta name="revisit-after" content="20 days">
-<meta name="verify-v1" content="EnsmkQcaROrH5bIu3f2CnwQiQj8EbJkb9s1dv5DSV+0="> 
-<meta name="verify-v1" content="Jv1+GhaZE+AWVNmXZN3M7evjZpgbbMGNVWoxvxfE6BE="> 
-<style type="text/css">
-body, div, td, layer { color:#2D2D2D; font-family: Verdana;}
-a:link, a:visited { color: #041CAC; text-decoration:  underline; font-family: Verdana;}
-a:hover, a:active { color:#209688; text-decoration: underline; font-family: Verdana;}
-H3 { page-break-after: always; }
-.planlogopad {
-	padding-top: 4px;
-	padding-bottom: 4px;
-}
-.planname {
-	font-family: Verdana;
-	font-size: 10px;
-	color: #000000;
-	padding-left: 10px;
-}
-.planlink {
-	color: #04579d;
-}
-</style>
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<script type="text/javascript">
 
+/***********************************************
+* Different CSS depending on OS (mac/pc)- 
+
+***********************************************/
+
+//Specify type of CSS to use. "Inline" or "external"
+var csstype="external" 
+
+var mac_css='body{font-size: 14pt; }' //if "inline", specify mac css here
+var pc_css='body{font-size: 12pt; }' //if "inline", specify PC/default css here
+
+var mac_externalcss='/macstyle.css' //if "external", specify Mac css file here
+var pc_externalcss='/pcstyle.css'   //if "external", specify PC/default css file here
+
+
+
+var mactest=navigator.userAgent.indexOf("Mac")!=-1
+if (csstype=="inline"){
+document.write('<style type="text/css">')
+if (mactest)
+document.write(mac_css)
+else
+document.write(pc_css)
+document.write('</style>')
+}
+else if (csstype=="external")
+document.write('<link rel="stylesheet" type="text/css" href="'+ (mactest? mac_externalcss : pc_externalcss) +'">')
+
+</script><link rel="stylesheet" type="text/css" href="/pcstyle.css">
+<script type="text/javascript">
+var addthis_config =
+{   
+	data_track_clickback: true
+}
+</script>
 
 
 
@@ -180,169 +208,277 @@ window.external.AddFavorite(bookmarkurl,bookmarktitle)
 
 
 
+<link href="/globalStyleSheet.css" rel="stylesheet" type="text/css">
+
+
+<!-- mp_trans_supressurljs_start -->
+<!-- mp_trans_disable_start -->
 
 
 
-</head>
+<script type="text/javascript">
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    { 
+    c_start=c_start + c_name.length+1 ;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length
+    return unescape(document.cookie.substring(c_start,c_end));
+    } 
+  }
+return ""
+}
+var cookieVal=getCookie('_utmx');
+//Begin fucntion to define test id and combination
+function findComboWithK(k) { 
+var loc=cookieVal.search(k);
+var tempStr=cookieVal.substr(loc);
+var klength=k.length;
+var kval=tempStr.substr(0,klength);
+var comboNum=utmx('combination');
+if(comboNum==0){
+comboNum="c";}
+var kcombo=(kval+'-'+comboNum);
+return kcombo;
+}
+
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+
+<!--paymentapproved: -->
+<!--ShowPaymentOnce:  -->
+<script type="text/javascript">
+//try {
+var pageTracker = _gat._getTracker("UA-3535050-1");
+pageTracker._setAllowLinker(true);
+pageTracker._setDomainName("dentalplans.com");
+//var kc = findComboWithK('') 
+//pageTracker._setCustomVar(1,"",kc,2);
+pageTracker._trackPageview();
+//} catch(err) {}
+
+
+
+</script>
+
+<!-- mp_trans_disable_end -->
+<!-- mp_trans_supressurljs_end -->
+
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=41449062"></script></head>
 
 
 
 
 <body topmargin="0" leftmargin="0" onload="window.name = 'mainwindow'">
 
-<p>
-  
-  </p><table border="0" cellpadding="0" cellspacing="0" width="100%">
-
-
+<table border="0" cellpadding="0" cellspacing="0" width="985" align="center">
+<tbody><tr><td background="/images/bgshadow_left.gif"><img src="/images/bgshadow_left.gif" width="5"></td><td valign="top" align="left">
+<table border="0" cellpadding="0" cellspacing="0" width="985" align="center">
 
   
-
   <tbody><tr>
-    <td width="755" height="72" bgcolor="#E1E9F2" background="/images/dp04headerback_new.gif"><table width="755" border="0" align="left" cellpadding="0" cellspacing="0">
+    <td width="765" bgcolor="#FFFFFF" style="background-image:url(/images/dp04headerback_newcopy.gif);height:72px;width:765;"><table width="765" border="0" align="left" cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td valign="bottom" width="225">
-		<a href="/"> <img align="top" border="0" src="/images/dp_header_large.gif" alt="Individual and Family Discount Dental Plans, Affordable
-Dental Care Starting at $79.95 a Year!" width="285" height="70"></a>
-		</td>
+        <td valign="bottom" width="225"><a href="/"><img align="top" border="0" src="/images/dp_header_large.gif" alt="Individual and Family Discount Dental Plans, Affordable
+Dental Care Starting at $79.95 a Year!" width="285" height="70"></a></td>
 		  
-		<form method="get" action="/search/zipsummaryshort.asp"></form><td align="right" valign="top" width="533"><p><a href="/enrollment/index.asp" onmouseover="document.hmjoin.src='/images/headmenu_join_on.gif'" onmouseout="document.hmjoin.src='/images/headmenu_join_off.gif'"><img src="/images/headmenu_join_off.gif" name="hmjoin" width="34" height="18" alt="Join" border="0"></a><a href="/affiliate/index.asp" onmouseover="document.hmaffiliate.src='/images/headmenu_affprog_on.gif'" onmouseout="document.hmaffiliate.src='/images/headmenu_affprog_off.gif'"><img src="/images/headmenu_affprog_off.gif" name="hmaffiliate" width="118" height="18" alt="Affiliate Program" border="0"></a><a href="/moreinfo/contactus.asp" onmouseover="document.hmcontact.src='/images/headmenu_contact_on.gif'" onmouseout="document.hmcontact.src='/images/headmenu_contact_off.gif'"><img src="/images/headmenu_contact_off.gif" name="hmcontact" width="66" height="18" alt="Contact Us" border="0"></a></p><p><img src="/images/step1.gif" alt="Enter your 5-digit ZIP code for a summary of dental plans available in your area, complete with dental savings information and nearby participating dentists." width="165" height="25" border="0" align="top">  
-              <input type="text" name="zipcode" size="8" value="">              
-              <input align="top" type="image" src="/images/go_button_sm.GIF" width="32" height="23" onclick="submit()"></p></td>
-      
+  
+  
+	<td align="right" valign="top" width="150"><div style="padding-top:5px; color:white;width:698px;"><font size="4" color="black">
+	1-888-571-1946</font>&nbsp;<br>
+    <span style="font-size:10px;">M-F 8 AM - 9 PM EST</span>&nbsp;<br><span style="font-size:10px;"> <!-- mp_trans_supressurljs_start --><!--mp_trans_disable_start-->
+
+
+<a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/41449062/?cmd=file&amp;file=visitorWantsToChat&amp;site=41449062&amp;byhref=1&amp;SESSIONVAR!opid=4&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat41449062" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/41449062/?cmd=file&amp;file=visitorWantsToChat&amp;site=41449062&amp;SESSIONVAR!opid=4&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat41449062','width=475,height=400,resizable=yes');  LoadVirtualGoogleEventTracking('LiveChat','HeaderClick'); return false;"><img src="/images/livechat.gif" border="0"></a><!--mp_trans_disable_end--><!-- mp_trans_supressurljs_end --><a href="/enroll/index.asp"><img src="/images/img_mycart2.GIF" border="0" onclick="LoadVirtualGoogleEventTracking('Checkout','HeaderClick');" style="margin-right:6px;"></a>
+<!--/moreinfo/privacystatement.asp--> 
+
+</span></div></td>
+     
 	  </tr>
 	  </tbody></table>
+</td>
+  </tr>
+
+
   
-	  <table width="100%" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td width="100%" height="73" background="/images/dp04headerback2_new.gif"></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
+  <tr><td width="100%" align="left" valign="top" bgcolor="#FFFFFF"><table border="0" cellspacing="0" cellpadding="5">
+         <tbody><tr> <td width="200" valign="top" bgcolor="#E1E9F2"><div style="width:206px;">
+<script type="text/javascript">
+function loadXMLtrackingDoc(url)
+{
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ 
+xmlhttp.open("GET",url,false);
+xmlhttp.send(null);
+//document.getElementById('test').innerHTML=xmlhttp.responseText;
+}
+</script>
+
+<!-- leftnavStyle=-->
 
 
-  <tr>
-    <td background="/images/right_space_other.gif" width="100%" height="28"><a href="/dentalplans/index.asp" onmouseover="document.hmindfam.src='/images/headnav_indivfam_on.gif'" onmouseout="document.hmindfam.src='/images/headnav_indivfam_off.gif'"><img src="/images/headnav_indivfam_off.gif" name="hmindfam" width="167" height="28" alt="For Individuals and Families" border="0"></a><a href="/dentalplans/groupdentalplans.asp" onmouseover="document.hmgroup.src='/images/headnav_bizgrps_on.gif'" onmouseout="document.hmgroup.src='/images/headnav_bizgrps_off.gif'"><img src="/images/headnav_bizgrps_off.gif" name="hmgroup" width="159" height="28" alt="For Businesses and Groups" border="0"></a><a href="/dentistaffiliate/index.asp" onmouseover="document.hmdent.src='/images/headnav_dentists_on.gif'" onmouseout="document.hmdent.src='/images/headnav_dentists_off.gif'"><img src="/images/headnav_dentists_off.gif" name="hmdent" width="87" height="28" alt="For Dentists" border="0"></a><a href="/otherbenefitplans.asp" onmouseover="document.hmother.src='/images/headnav_otherdisc_on.gif'" onmouseout="document.hmother.src='/images/headnav_otherdisc_off.gif'"><img src="/images/headnav_otherdisc_off.gif" name="hmother" width="137" height="28" alt="Other Discount Plans" border="0"></a><a href="/moreinfo/index.asp" onmouseover="document.hminfo.src='/images/headnav_infohelp_on.gif'" onmouseout="document.hminfo.src='/images/headnav_infohelp_off.gif'"><img src="/images/headnav_infohelp_off.gif" name="hminfo" width="83" height="28" alt="Information and Help" border="0"></a><a href="/members/index.asp" onmouseover="document.hmmembers.src='/images/headnav_members_on.gif'" onmouseout="document.hmmembers.src='/images/headnav_members_off.gif'"><img src="/images/headnav_members_off.gif" name="hmmembers" width="73" height="28" alt="Members Area" border="0"></a><a href="/search/index.asp" onmouseover="document.hmsearch.src='/images/headnav_search_on.gif'" onmouseout="document.hmsearch.src='/images/headnav_search_off.gif'"><img src="/images/headnav_search_off.gif" name="hmsearch" width="63" height="28" alt="Search" border="0"></a></td>
-  </tr>
-  <tr><td width="100%" align="left" valign="top" bgcolor="#FFFFFF"><table border="0" cellspacing="5" width="760" cellpadding="5">
-            <tbody><tr><td width="100%" valign="top">
+
 			
 
 
 
+<style>
+div#leftPanelLinks{ margin: 2px 8px 10px 13px;}
+</style>
+
+<div id="leftPanelLinks">
+
+<a href="/index.asp" onmouseover="document.leftnavhome.src='/images/sidebar_home_on.gif'" onmouseout="document.leftnavhome.src='/images/sidebar_home_off.gif'" onclick="LoadVirtualGoogleEventTracking('MainNav','Home');"><img src="/images/sidebar_home_off.gif" name="leftnavhome" width="185" height="31" alt="Home" border="0"></a><br>
 
 
-<p><font size="1">&nbsp;<a href="/">DentalPlans.com</a> 
-&gt; </font><font size="1"><a href="/moreinfo/">Help</a> &gt; Privacy Policy<br>
-</font>
-<img border="0" src="/images/dptopprivacystatement.GIF" width="604" height="56" alt="Privacy Policy"></p>
-<table width="600" border="0" cellspacing="0" cellpadding="4">
+
+ <!-- isBroker:0 -->
+  <!-- dpWrap: -->
+<a href="/dentalplans/groupdentalplans.asp" onmouseover="document.leftnavgroup.src='/images/sidebar_bizngrps_on.gif'" onmouseout="document.leftnavgroup.src='/images/sidebar_bizngrps_off.gif'" onclick="LoadVirtualGoogleEventTracking('MainNav','Bus/Groups');"><img src="/images/sidebar_bizngrps_off.gif" name="leftnavgroup" width="185" height="31" alt="For Businesses and Groups" border="0"></a><br>
+<a href="/dentistaffiliate/index.asp" onclick="LoadVirtualGoogleEventTracking('MainNav','For Dentist');" onmouseover="document.leftnavdent.src='/images/sidebar_dentists_on.gif'" onmouseout="document.leftnavdent.src='/images/sidebar_dentists_off.gif'"><img src="/images/sidebar_dentists_off.gif" name="leftnavdent" width="185" height="31" alt="For Dentists" border="0"></a><br>
+
+<a href="/otherbenefitplans.asp" onmouseover="document.leftnavother.src='/images/sidebar_otherplans_on.gif'" onmouseout="document.leftnavother.src='/images/sidebar_otherplans_off.gif'" onclick="LoadVirtualGoogleEventTracking('MainNav','Other Discount Plans');"><img src="/images/sidebar_otherplans_off.gif" name="leftnavother" width="185" height="31" alt="Other Discount Plans" border="0"></a><br>
+
+<a href="/moreinfo/index.asp" onclick="LoadVirtualGoogleEventTracking('MainNav','info/Help');" onmouseover="document.leftnavinfo.src='/images/sidebar_infonhelp_on.gif'" onmouseout="document.leftnavinfo.src='/images/sidebar_infonhelp_off.gif'"><img src="/images/sidebar_infonhelp_off.gif" name="leftnavinfo" width="185" height="31" alt="Information &amp; Help" border="0"></a><br>
+<a href="/press-room/" onclick="LoadVirtualGoogleEventTracking('MainNav','Press Center');" onmouseover="document.leftnavpress.src='/images/sidebar_presscenter_on.gif'" onmouseout="document.leftnavpress.src='/images/sidebar_presscenter_off.gif'"><img src="/images/sidebar_presscenter_off.gif" name="leftnavpress" width="185" height="31" alt="Press Center" border="0"></a><br>
+
+<a href="/members/index.asp" onclick="LoadVirtualGoogleEventTracking('MainNav','Members');" onmouseover="document.leftnavmem.src='/images/sidebar_members_on.gif'" onmouseout="document.leftnavmem.src='/images/sidebar_members_off.gif'"><img src="/images/sidebar_members_off.gif" name="leftnavmem" width="185" height="31" alt="Members" border="0"></a><br>
+
+
+<a href="http://dentist.net/dentalplans-store.asp?source=dentalplans" target="_new" onmouseover="document.leftnavdprod.src='/images/sidebar_dentalproducts_on.gif'" onclick="LoadVirtualGoogleEventTracking('MainNav','Dental Products');loadXMLtrackingDoc('/deals-health-products/otrk.asp?t=8');" onmouseout="document.leftnavdprod.src='/images/sidebar_dentalproducts_off.gif'"><img src="/images/sidebar_dentalproducts_off.gif" name="leftnavdprod" width="185" height="31" alt="Dental Products" border="0"></a><br>
+
+<a href="http://www.dentist.net/dentalplans-drugstore.asp?source=dentalplans" target="_new" onmouseover="document.leftnavdpharm.src='/images/sidebar_pharm_products_on.gif'" onclick="LoadVirtualGoogleEventTracking('MainNav','Pharmacy Products');loadXMLtrackingDoc('/deals-health-products/otrk.asp?t=9');" onmouseout="document.leftnavdpharm.src='/images/sidebar_pharm_products_off.gif'"><img src="/images/sidebar_pharm_products_off.gif" name="leftnavdpharm" width="185" height="31" alt="Pharmacy Products" border="0"></a><br>
+
+
+<a href="/search/index.asp" onclick="LoadVirtualGoogleEventTracking('MainNav','Advanced Search');" onmouseover="document.leftnavsearch.src='/images/sidebar_advsearch_on.gif'" onmouseout="document.leftnavsearch.src='/images/sidebar_advsearch_off.gif'"><img src="/images/sidebar_advsearch_off.gif" name="leftnavsearch" width="185" height="31" alt="Advanced Search" border="0"></a><br>
+<br><a href="/deals-health-products/"><img src="/images/featureddeals.gif" border="0"></a>		  
+
+
+
+ <!-- mp_trans_supressurljs_start -->
+<!-- mp_trans_disable_start -->
+   
+
+
+<!-- mp_trans_disable_end -->
+    <!-- mp_trans_supressurljs_end -->
+
+
+
+
+
+</div>
+	
+
+<div align="center">
+</div></div></td><td width="785" valign="top">
+
+  <table border="0" cellpadding="0" width="100%" cellspacing="0">
+        <tbody><tr>
+      <td width="95%"><p><strong><font size="1">you are here</font></strong><font size="1">: <a href="/Index.asp">DentalPlans.com</a>&nbsp;&gt; <a href="/moreinfo/Index.asp">Information and Help</a>&nbsp;&gt; Privacy Policy</font></p></td>
+		  		<td width="5%" nowrap="nowrap">
+			<div style="padding-right: 15px;"><a href="javascript:;" onclick="window.print();"><font size="1">print&nbsp;page</font></a>&nbsp;<a href="javascript:;" onclick="window.print();"><img src="/images/printarticle.gif" alt="Print This Page" border="0" align="absbottom"></a></div></td>
+		</tr>
+      </tbody></table>
+  <br>
+<div align="center" class="pageheader">Privacy Policy</div>
+<br>
+<table width="765" border="0" cellspacing="0" cellpadding="4">
   <tbody><tr>
-    <td><font size="2">DentalPlans.com takes your privacy seriously, and consequently, we have adopted the following Privacy Policy.</font> </td>
+    <td>DentalPlans.com takes your privacy seriously, and consequently, we have adopted the following Privacy Policy. </td>
   </tr>
   <tr>
     <td height="15"> </td>
   </tr>
   <tr>
-    <td><font color="#041CAC" size="4">What This Privacy Policy Covers</font><font color="#041CAC" size="2">&nbsp;</font><font size="2">&nbsp;</font></td>
+    <td><div class="sectionheader">What This Privacy Policy Covers</div>
+ </td>
   </tr>
   <tr>
-    <td><img src="/images/graypixel.gif" height="1" width="600" align="left" hspace="0"></td>
-  </tr>
-  <tr>
-    <td><p><font size="2">This Privacy Policy applies to the personal information that DentalPlans.com receives from you and thereafter stores in the company’s database, including but not limited to information relating to your past use of DentalPlans.com products and services. “Personal information” is information about you such as your name, street address, email address, telephone number, and such other similar information that is received from you by DentalPlans.com. </font></p>
-    <p><font size="2">This Privacy Policy does not apply to the practices of individuals or companies that DentalPlans.com does not own or control or to individuals or other business entities that DentalPlans.com does not employ and manage. Although DentalPlans.com requires DentalPlans.com Affiliates and Publishers to adhere to Good Business Practices as a condition of their doing business with DentalPlans.com, DentalPlans.com does not own or control such Affiliates and Publishers, and as such, DentalPlans.com is not responsible for the information use and/or information gathering practices of any Affiliate or Publisher. Affiliates and Publishers are not employees or agents of DentalPlans.com, and the Internet User should understand that Affiliates and Publishers may collect personal information from or about Internet Users in manners and/or for purposes that are not consistent with the DentalPlans.com Privacy Policy. The collection, use, and disclosure of information by Affiliates and Publishers are subject to their own respective privacy policies, which may materially differ both in form and substance from the DentalPlans.com Privacy Policy. </font></p></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><font color="#041CAC" size="4">Information Collection and Use</font><font color="#041CAC" size="2">&nbsp;</font><font size="2">&nbsp;</font></td>
-  </tr>
-  <tr>
-    <td><img src="/images/graypixel.gif" height="1" width="600" align="left" hspace="0"></td>
-  </tr>
-  <tr>
-    <td><p><font size="2">DentalPlans.com collects personal information when you register or join with DentalPlans.com, when you use DentalPlans.com products or services, when you visit DentalPlans.com pages or the pages of certain DentalPlans.com advertisers, affiliates or publishers, and when you enter promotions or sweepstakes. DentalPlans.com may also combine information about you that we have with information that we obtain from advertisers or other companies. </font></p>
-      <p><font size="2">When you register or join, we ask for information such as your name, street address, email address, birth date, gender, zip code, occupation and/or industry. Once you register or join with DentalPlans.com and sign into our services, you are not anonymous to us. </font></p>
-      <p><font size="2">DentalPlans.com also automatically receives and records information on our server logs from your browser, including your IP address, DentalPlans.com cookie information, and the page you request. "Cookies" are small pieces of information that are stored by an Internet User's browser on the Internet User's hard drive. </font></p>
-    <p><font size="2">DentalPlans.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our customer services, contact you, conduct research, and to provide anonymous reporting for internal and external clients. </font></p></td>
+    <td><p>This Privacy Policy applies to the personal information that DentalPlans.com receives from you and thereafter stores in the company’s database, including but not limited to information relating to your past use of DentalPlans.com products and services. “Personal information” is information about you such as your name, street address, email address, telephone number, and such other similar information that is received from you by DentalPlans.com. </p>
+    <p>This Privacy Policy does not apply to the practices of individuals or companies that DentalPlans.com does not own or control or to individuals or other business entities that DentalPlans.com does not employ and manage. Although DentalPlans.com requires DentalPlans.com Affiliates and Publishers to adhere to Good Business Practices as a condition of their doing business with DentalPlans.com, DentalPlans.com does not own or control such Affiliates and Publishers, and as such, DentalPlans.com is not responsible for the information use and/or information gathering practices of any Affiliate or Publisher. Affiliates and Publishers are not employees or agents of DentalPlans.com, and the Internet User should understand that Affiliates and Publishers may collect personal information from or about Internet Users in manners and/or for purposes that are not consistent with the DentalPlans.com Privacy Policy. The collection, use, and disclosure of information by Affiliates and Publishers are subject to their own respective privacy policies, which may materially differ both in form and substance from the DentalPlans.com Privacy Policy. </p></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td><font color="#041CAC" size="4">Information Sharing and Disclosure</font><font color="#041CAC" size="2">&nbsp;</font><font size="2">&nbsp;</font></td>
+    <td><div class="sectionheader">Information Collection and Use</div></td>
   </tr>
   <tr>
-    <td><img src="/images/graypixel.gif" height="1" width="600" align="left" hspace="0"></td>
-  </tr>
-  <tr>
-    <td><p><font size="2">DentalPlans.com does not rent, sell, or share personal identifying information about you with nonaffiliated individuals or companies except 1) where it is necessary to provide the information to acquire the products or services that you've requested and where we have your permission to do so; or 2) under the following circumstances: (a) we provide the information to nonaffiliated individuals or companies under confidentiality agreements for the purpose of allowing them to use your personal information to help DentalPlans.com communicate with you about offers from DentalPlans.com and/or our marketing partners, however, these companies do not have any independent right to share this information or to use this information for any purpose not consistent with the limited use identified in the foregoing sentence; or 3) we also share your personal identifying information in response to subpoenas, court orders, or other legal process, and/or to establish and/or exercise our legal rights and/or to defend against legal claims, and we will also share your information at such times and under such circumstances that we determine, in our sole discretion, that it is necessary to share the information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the DentalPlans.com Terms of Use, or as otherwise required by law; and 4) we will transfer information about you if DentalPlans.com is acquired by or merged with another company, and in this event, DentalPlans.com will notify you before information about you is transferred and becomes subject to a different privacy policy. </font></p>
-    <p><font size="2">Additionally, DentalPlans.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet their targeting criteria - for example, women ages 18-24 from a particular geographic area. DentalPlans.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. DentalPlans.com advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). </font></p></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><font color="#041CAC" size="4">Cookies</font><font color="#041CAC" size="2">&nbsp;</font><font size="2">&nbsp;</font></td>
-  </tr>
-  <tr>
-    <td><img src="/images/graypixel.gif" height="1" width="600" align="left" hspace="0"></td>
-  </tr>
-  <tr>
-    <td><p><font size="2">DentalPlans.com may set and access DentalPlans.com cookies on your computer. Advertisers or other companies do not have access to DentalPlans.com's cookies. DentalPlans.com uses web beacons to access DentalPlans.com cookies inside and outside of our network of web sites and in connection with DentalPlans.com products and services.</font></p>
-    <p><font size="2"> DentalPlans.com may use third-party advertising companies to serve ads on our site, and it may also allow the companies that show advertisements on some of our pages to set and access their own cookies on your computer. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. These cookies are set and subsequently accessed on an Internet User’s computer after the user interacts with, views, or clicks on a targeted ad. If you do not wish to have other companies’ cookies set on your computer, do not interact with, view or click on the targeted ads. These other companies' use of their cookies is subject to their own privacy policies and not the Dentalplans.com Privacy Policy, and as such, their privacy policy may materially differ in both form and substance from the DentalPlans.com Privacy Policy.</font></p></td>
+    <td><p>DentalPlans.com collects personal information when you register or join with DentalPlans.com, when you use DentalPlans.com products or services, when you visit DentalPlans.com pages or the pages of certain DentalPlans.com advertisers, affiliates or publishers, and when you enter promotions or sweepstakes. DentalPlans.com may also combine information about you that we have with information that we obtain from advertisers or other companies. </p>
+      <p>When you register or join, we ask for information such as your name, street address, email address, birth date, gender, zip code, occupation and/or industry. Once you register or join with DentalPlans.com and sign into our services, you are not anonymous to us. </p>
+      <p>DentalPlans.com also automatically receives and records information on our server logs from your browser, including your IP address, DentalPlans.com cookie information, and the page you request. "Cookies" are small pieces of information that are stored by an Internet User's browser on the Internet User's hard drive. </p>
+    <p>DentalPlans.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our customer services, contact you, conduct research, and to provide anonymous reporting for internal and external clients. </p></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td><font color="#041CAC" size="4">Confidentiality and Security</font><font size="2">&nbsp;</font></td>
+    <td><div class="sectionheader">Information Sharing and Disclosure</div></td>
   </tr>
   <tr>
-    <td><img src="/images/graypixel.gif" height="1" width="600" align="left" hspace="0"></td>
-  </tr>
-  <tr>
-    <td><font size="2">We limit access to the personal information about you within our company to employees who we believe reasonably need to come into contact with that information in order to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. Your DentalPlans.com Account Information is password-protected. In certain areas DentalPlans.com uses industry-standard SSL encryption to protect data transmissions.</font></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><font color="#041CAc" size="4">Changes to this Privacy Policy</font><font size="2">&nbsp;</font></td>
-  </tr>
-  <tr>
-    <td><img src="/images/graypixel.gif" height="1" width="600" align="left" hspace="0"></td>
-  </tr>
-  <tr>
-    <td><font size="2">DentalPlans.com may from time to time update this policy. We will notify you about any significant changes in the way we treat personal information by sending you a notice to the primary email address specified in your DentalPlans.com account or by placing a prominent notice on our site. </font></td>
+    <td><p>DentalPlans.com does not rent, sell, or share personal identifying information about you with nonaffiliated individuals or companies except 1) where it is necessary to provide the information to acquire the products or services that you've requested and where we have your permission to do so; or 2) under the following circumstances: (a) we provide the information to nonaffiliated individuals or companies under confidentiality agreements for the purpose of allowing them to use your personal information to help DentalPlans.com communicate with you about offers from DentalPlans.com and/or our marketing partners, however, these companies do not have any independent right to share this information or to use this information for any purpose not consistent with the limited use identified in the foregoing sentence; or 3) we also share your personal identifying information in response to subpoenas, court orders, or other legal process, and/or to establish and/or exercise our legal rights and/or to defend against legal claims, and we will also share your information at such times and under such circumstances that we determine, in our sole discretion, that it is necessary to share the information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the DentalPlans.com Terms of Use, or as otherwise required by law; and 4) we will transfer information about you if DentalPlans.com is acquired by or merged with another company, and in this event, DentalPlans.com will notify you before information about you is transferred and becomes subject to a different privacy policy. </p>
+    <p>Additionally, DentalPlans.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet their targeting criteria - for example, women ages 18-24 from a particular geographic area. DentalPlans.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. DentalPlans.com advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). </p></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td><font color="#041CAC" size="4">Questions and Suggestions</font><font color="#041CAC" size="2">&nbsp;</font><font size="2">&nbsp;</font></td>
+    <td><div class="sectionheader">Cookies</div></td>
   </tr>
   <tr>
-    <td><img src="/images/graypixel.gif" height="1" width="600" align="left" hspace="0"></td>
+    <td><p>DentalPlans.com may set and access DentalPlans.com cookies on your computer. Advertisers or other companies do not have access to DentalPlans.com's cookies. DentalPlans.com uses web beacons to access DentalPlans.com cookies inside and outside of our network of web sites and in connection with DentalPlans.com products and services.</p>
+    <p> DentalPlans.com may use third-party advertising companies to serve ads on our site, and it may also allow the companies that show advertisements on some of our pages to set and access their own cookies on your computer. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. These cookies are set and subsequently accessed on an Internet User’s computer after the user interacts with, views, or clicks on a targeted ad. If you do not wish to have other companies’ cookies set on your computer, do not interact with, view or click on the targeted ads. These other companies' use of their cookies is subject to their own privacy policies and not the DentalPlans.com Privacy Policy, and as such, their privacy policy may materially differ in both form and substance from the DentalPlans.com Privacy Policy.</p></td>
   </tr>
   <tr>
-    <td><font size="2">DentalPlans.com wants you to enjoy all of the savings discounts that are available to you as a member of DentalPlans.com. However, just as importantly, we want you to be assured that the information that you entrust to us stays private and confidential.<br>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div class="sectionheader">Confidentiality and Security</div></td>
+  </tr>
+  <tr>
+    <td>We limit access to the personal information about you within our company to employees who we believe reasonably need to come into contact with that information in order to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. Your DentalPlans.com Account Information is password-protected. In certain areas DentalPlans.com uses industry-standard SSL encryption to protect data transmissions.</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div class="sectionheader">Changes to this Privacy Policy</div></td>
+  </tr>
+  <tr>
+    <td>DentalPlans.com may from time to time update this policy. We will notify you about any significant changes in the way we treat personal information by sending you a notice to the primary email address specified in your DentalPlans.com account or by placing a prominent notice on our site. </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div class="sectionheader">Questions and Suggestions</div></td>
+  </tr>
+  <tr>
+    <td>DentalPlans.com wants you to enjoy all of the savings discounts that are available to you as a member of DentalPlans.com. However, just as importantly, we want you to be assured that the information that you entrust to us stays private and confidential.<br>
         <br>
-Thank you for coming to our web site. We hope to have the honor of serving you as a member of DentalPlans.com for many years to come. Please also refer to <a href="/moreinfo/yoursecurity.asp">Your Security</a> about other privacy and security issues you may be interested in.</font></td>
+Thank you for coming to our web site. We hope to have the honor of serving you as a member of DentalPlans.com for many years to come. Please also refer to <a href="/moreinfo/yoursecurity.asp">Your Security</a> about other privacy and security issues you may be interested in.</td>
   </tr>
 </tbody></table>
 <br>
 <br>
-<font size="4"><a href="javascript:history.go(-1)">Back to Previous Page</a></font>
-
-                
-
-
-
-
-  	<script>
+	<script>
 //readCookie('dpaffiliate') // readCookie('dpsubaffiliate')
 function readCookie(name)   
   
@@ -378,73 +514,60 @@ function readCookie(name)
   
 }  
 </script>
+<br>
+</td></tr></tbody></table></td></tr><tr><td bgcolor="#777777" height="1" width="100%"></td></tr><tr><td bgcolor="#FFFFFF">
+<table width="985" border="0" cellspacing="4" cellpadding="4">
+  <tbody><tr>
+<td height="80" align="left"><font size="2">
 
-</td>
-          </tr>
-        </tbody></table>
-
-    </td>
-  </tr>
-    <tr bgcolor="#FFFFFF">
-    <td width="100%"></td>
-  </tr>
-  <tr>
-    <td width="100%">
-    <table width="100%" border="0" cellpadding="5" cellspacing="0" bordercolor="#111111" background="/images/dpback05.gif" style="border-collapse: collapse">
-      <tbody><tr>
-        <td width="100%" align="left" valign="top"><table border="0" cellpadding="7" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="722" id="AutoNumber1">
-          <tbody><tr>
-            <td><font size="1"><a onclick="window.open('http://www.bbbonline.org/cks.asp?id=10207299194625021','BBB','scrollbars=yes,resizable=yes,location=yes,width=460,height=350'); return false;" href="#" style="color: #080073; text-decoration: none; font-family: Verdana"><img src="/images/bbbseal.gif" alt="BBBOnLine Reliability Seal" width="135" height="48" border="0"></a></font></td>
-            <td><font size="1"><a onclick="window.open('https://www.thawte.com/cgi/server/certdetails.exe?code=USDENT33-3X','Cert','scrollbars=yes,resizable=no,width=520,height=350'); return false;" href="#" style="color: #080073; text-decoration: none; font-family: Verdana"> <img src="/images/thawte.gif" width="79" height="50" border="0"></a></font></td>
-            <td width="100%" colspan="2"><font size="2">
-              
-      <a href="/moreinfo/termsofuse.asp">Terms of Use</a> - <a href="/moreinfo/privacystatement.asp"> Privacy Policy</a> - <a href="/moreinfo/affiliateabuse.asp">Report Abuse</a> - <a href="/moreinfo/sitemap.asp">Site Map</a> - <a href="http://dentalinsurance.dentalplans.com">States</a> <br>      <a href="/moreinfo/plansvsinsurance.asp">Find Dental Insurance Alternatives</a>  - <a href="/moreinfo/dentalinsurance.asp">Dental Insurance Decisions</a><br>
-<a href="http://www.planesdentales.com">Planes Dentales</a> - <a href="/moreinfo/moretestimonials.asp">Testimonials</a> - <a href="http://www.dprxcard.com/" target="_new">DPRxCard.com</a> - <a href="/gogreen">DP Goes Green</a> - <a href="/dental_insurance_and_discount_dental_plans.asp">Compare Discount Dental Plans &amp; Dental Insurance</a>
-
+  <a href="/moreinfo/termsofuse.asp">Terms of Use</a> | <a href="/moreinfo/privacystatement.asp">Privacy Policy</a> |&nbsp;<a href="/moreinfo/sitemap.asp">Site Map</a> |  <a href="/emailreg/">Newsletter</a> | <a href="javascript:;" onclick="window.open('/regpop2.asp','dentalplans','width=380,height=342'); return false;">Info to Go</a> |
+      <a href="/gogreen/">DP Goes Green</a> | 
 <!-- mp_trans_supressurljs_start -->
 <!-- mp_trans_disable_start -->
- <!--/moreinfo/privacystatement.asp-->
-	  
-      </font></td>
-          </tr>
-        </tbody></table>
-        <table width="740" cellspacing="0" cellpadding="7" border="0">
-          <tbody><tr><td>
-          <font color="#041CAC" size="2">The DENTALPLANS.COM website is administered by DENTALPLANS.COM, INC., a licensed Florida Discount Medical Plan Organization, 8100 S.W. 10th Street Suite #2000, Plantation, FL 33324. Plans and Programs offered by DentalPlans.com are not health insurance policies. Plans and Programs offered by DentalPlans.com provide discounts at certain health care providers for medical services. Plans and Programs offered by DentalPlans.com do not make payments directly to the providers of medical services. The Plan or Program member is obligated to pay for all health care services but will receive a discount from those health care providers who have contracted with the Plan, Program or discount plan organization.<br>
-          <br>
+ <!--/moreinfo/privacystatement.asp--><a href="/affiliate/">Affiliate Program</a> | <a href="/moreinfo/contactus.asp">Contact Us</a><br>
+
+
+<br>
+
+<font size="2" color="#777777"><br>
+The DENTALPLANS.COM website is administered by DENTALPLANS.COM, INC., a licensed Florida Discount Medical Plan Organization, 8100 S.W. 10th Street Suite #2000, Plantation, FL 33324. Plans and Programs offered by DentalPlans.com are not health insurance policies. Plans and Programs offered by DentalPlans.com provide discounts at certain health care providers for medical services. Plans and Programs offered by DentalPlans.com do not make payments directly to the providers of medical services. The Plan or Program member is obligated to pay for all health care services but will receive a discount from those health care providers who have contracted with the Plan, Program or discount plan organization. <br><br><font size="3"><strong>Special promotions including but not limited to 3 additional months free, Delta SkyMilesŽ and Membership RewardsŽ points from American Express are not available to California residents.</strong></font><br>
+<br></font>
+
+
+
+
 <!-- mp_trans_disable_end -->
 <!-- mp_trans_supressurljs_end -->
-		 
-        </font><font color="#041CAC" size="1"> © 1999-2009 DentalPlans.com, Inc. All Rights Reserved.  Patents Pending. 
-        
-        </font>
-        
-        <font size="1"><a onclick="window.open('http://www.bbbonline.org/cks.asp?id=10207299194625021','BBB','scrollbars=yes,resizable=yes,location=yes,width=460,height=350'); return false;" href="#" style="color: #080073; text-decoration: none; font-family: Verdana"> </a></font>
-        
-</td>
-        </tr>
-		</tbody></table>
-        </td>
-      </tr>
-      </tbody></table>
-    </td>
+ <font size="1" color="#777777">© 1999-2010 DentalPlans.com, Inc. All Rights Reserved. Patents Pending.</font></font></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.seflorida.bbb.org/BusinessReport.aspx?CompanyID=4008612&amp;source=ctc" target="_blank"><img src="/images/clickratingsm.gif" width="135" height="52" border="0"></a>&nbsp;&nbsp;<script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.dentalplans.com&amp;size=M&amp;lang=en"></script>
+&nbsp;<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.dentalplans.com"> <img width="94" height="54" border="0" src="https://images.scanalert.com/meter/13-www.dentalplans.com.gif" alt="HACKER SAFE certified sites prevent over 99% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a></td>
+</tr>
+</tbody></table>
+</td></tr></tbody></table>
+</td><td background="/images/bgshadow_right.gif"><img src="/images/bgshadow_right.gif" width="5"></td></tr></tbody></table>
+
+<table width="996" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td style="background-image:url(/images/bgshadow_bottom.gif); background-repeat: no-repeat;">&nbsp;</td>
   </tr>
 </tbody></table>
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-
-
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3535050-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-
-
+<!-- mp_trans_supressurljs_start -->
+<!--mp_trans_disable_start-->
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "41449062",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+<!-- BEGIN Monitor Tracking Variables  -->
+<script language="JavaScript1.2">
+if (typeof(lpMTagConfig.pageVar) == "undefined"){ lpMTagConfig.pageVar = new Array();}
+lpMTagConfig.pageVar[lpMTagConfig.pageVar.length] = 'orderTotal=';
+if (typeof(lpMTagConfig.visitorVar) == "undefined"){ lpMTagConfig.visitorVar = new Array();}
+lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = 'vtid=';
 </script>
+<!-- End Monitor Tracking Variables  -->
+<!--mp_trans_disable_end-->
+<!-- mp_trans_supressurljs_end -->
+
 
 
 
