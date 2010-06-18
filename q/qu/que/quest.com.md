@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218043410id_/http%3A//www.quest.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618124553id_/http%3A//www.quest.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -54,7 +54,7 @@ XIGLA Software uses cookies and clear GIFs on this site, which allow it to recog
 
 ###  _Security_
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link:
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link: <http://www.windowsecurity.com/articles/Secure_Socket_Layer.html>.
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
@@ -76,6 +76,4 @@ If you would like to remove your information from our database or not receive fu
 
 If you have any questions about this privacy statement, the practices of this site, Quest Software's adherence to this privacy statement, or your dealings with this Web site, you can contact Quest Software, Inc. at [webmaster@quest.com](mailto:webmaster@quest.com); 5 Polaris Way, Aliso Viejo, CA 92656.
 
-Page last updated: October 12, 2009
-
-<http://www.windowsecurity.com/articles/Secure_Socket_Layer.html>. 
+Page last updated: March 5, 2010
