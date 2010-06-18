@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218113014id_/http%3A//www.ubs.com/1/e/index/legalinfo2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618021641id_/http%3A//www.ubs.com/1/e/index/legalinfo2/privacy.html) for the most accurate reproduction.*
 
 # UBS - Privacy Statement
 
