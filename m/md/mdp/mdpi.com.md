@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mdpi.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215205936id_/http%3A//www.mdpi.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdpi.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618140937id_/http%3A//www.mdpi.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MDPI
+# MDPI | Privacy Policy
 
   1. **MDPI respects your concerns regarding privacy on the Internet.** This policy outlines what kind of your data will be collected by using this website, what we will do with collected data and our efforts to protect your privacy.
   
