@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macdailynews.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231064201id_/http%3A//macdailynews.com/index.php/weblog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macdailynews.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619010021id_/http%3A//macdailynews.com/index.php/weblog/privacy) for the most accurate reproduction.*
 
 # MacDailyNews - Apple and Mac News - Privacy Policy
 
@@ -12,7 +12,14 @@
 
 ###### **Personal Data**
 
-###### Personal data is collected when users provide personal data to the site. For example in registering for email notification services, answering surveys, purchasing items from the site, sending email to the site, registering for contests and other promotional opportunities, message boards and chat areas.  
+###### Personal data is collected when users provide personal data to the site. For example in registering for email notification services, answering surveys, purchasing items from the site, sending email to the site, registering for contests and other promotional opportunities, message boards and chat areas.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/member_privacy.shtml>. 
+
 We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent. Before registering for an account to use the services of the Web site, we ask that all minors have their parents read our Privacy Policy. Before and during the registration process, we encourage all minors to include a parent or guardian in the process.
 
 ###### **Aggregate Data**
@@ -52,7 +59,7 @@ We share aggregated information collected from the site with third parties for b
 
 ###### **Message Board and Chat**
 
-###### Please remember that information posted to message boards and chat areas becomes public information. Use caution when posting. Users under the age of 18 should be especially careful not to provide any personally identifying information while using chat rooms or message boards. As set forth in our Terms and Conditions of use, users of chat rooms and message boards must follow acceptable standards of behavior when posting messages online.
+###### Please remember that information posted to message boards and chat areas becomes public information. Use caution when posting. Users under the age of 18 should be especially careful not to provide any personally identifying information while using chat rooms or message boards. Users of chat rooms and message boards must follow acceptable standards of behavior when posting messages online.
 
 ###### **Links to other sites**
 
