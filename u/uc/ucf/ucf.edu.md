@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217125432id_/http%3A//www.ucf.edu/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618080734id_/http%3A//www.ucf.edu/policy) for the most accurate reproduction.*
 
 # University of Central Florida: Privacy Policy
 
