@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beyondhollywood.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509133459id_/http%3A//www.beyondhollywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondhollywood.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620011913id_/http%3A//www.beyondhollywood.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BeyondHollywood.com | Asian, Foreign, Horror, and Genre Movie Reviews and News
+# Privacy Policy | BeyondHollywood.com | Movie and TV News, Reviews, and Opinions
 
-BeyondHollywood.com takes your privacy very seriously. Below, find our privacy policy, which is updated as of October 8, 2004:
+BeyondHollywood.com takes your privacy very seriously. Below, find our privacy policy, which is updated as of May 28, 2009:
 
 **Advertisers**
 
@@ -10,11 +10,11 @@ We currently use several outside ad companies to display ads on our site. These 
 
 **Third Party Advertising**
 
-We use third-party advertising companies to serve ads . These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To “opt-out,” please click here. http://www.doubleclick.com/privacy/index.aspx. 
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Please take note that by the time you found our site, you had received third-party cookies from all those other sites you visited as well, so they are not unique to us. In fact, this is the norm when browsing the Internet.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Please take note that by the time you found our site, you had received third-party cookies from all those other sites you visited as well, so they are not unique to us. In fact, this is the norm when browsing the Internet.
 
 **Personal Information**
 
@@ -31,3 +31,5 @@ BeyondHollywood.com contains links to other sites that we think are interesting 
 **Contacting Us  
 **  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the webmaster using the contact form below:
+
+**Your location has been identified as part of a reported spam network. Contact form has been disabled to prevent spam.**
