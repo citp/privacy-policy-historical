@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrialinterface.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103053321id_/http%3A//industrialinterface.com/signup_help/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrialinterface.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620000733id_/http%3A//industrialinterface.com/signup_help/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Industrial Interface, Inc.
 
