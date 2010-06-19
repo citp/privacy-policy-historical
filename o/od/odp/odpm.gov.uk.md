@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odpm.gov.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002308id_/http%3A//www.communities.gov.uk/corporate/help/conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odpm.gov.uk privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619090520id_/http%3A//www.communities.gov.uk/corporate/help/conditions) for the most accurate reproduction.*
 
 # Website terms and conditions for use - Corporate - Communities and Local Government
 
