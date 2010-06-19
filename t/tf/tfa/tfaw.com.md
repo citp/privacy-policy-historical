@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the tfaw.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201181554id_/http%3A//www.tfaw.com/Help/Privacy-Policy___35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfaw.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619163327id_/http%3A//www.tfaw.com/Help/Privacy-Policy___35) for the most accurate reproduction.*
 
 # TFAW.com: Home > Help > Privacy Policy
 
 **Things From Another World, Inc. Privacy Policy**
 
-By using this site, you agree to the Privacy Policy of Things From Another World, Inc. If you do not agree to the Policy, please do not use this site.
+Please keep in mind that if you're using this site, you are agreeing to the Privacy Policy of Things From Another World, Inc.
 
-Things From Another World, Inc. recognizes the privacy concerns of visitors to its site on the Internet. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our site. We may collect certain non-personal information used only to optimize our web pages for your computer (i.e., the identity of your Internet browser and the type of operating system you use). We may also use non-personal information to determine the total number of visitors to our website.
+Things From Another World, Inc. recognizes the privacy concerns of visitors to its site on the Internet. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as your name, address, or email address, is automatically collected from visitors to our site. We may collect certain non-personal information used only to optimize our web pages for your computer (i.e., the identity of your Internet browser and the type of operating system you use). We may also use non-personal information to determine the total number of visitors to our website.
 
-We will not sell, rent or give out your personal information to any party outside of our company. Things From Another World values your privacy and your information very much. All customer information is stored on our SSL server behind 128-bit encryption, the most secure encryption available commercially at this time. We are verified by [Comodo](http://www.trustlogo.com/) , one of the leading SSL Certification companies.
+We will not sell, rent, or give out your personal information to any party outside of our company. Things From Another World values your privacy and your information very much. All customer information is stored on our SSL server behind 128-bit encryption, the most secure encryption available commercially at this time. We are verified by [Comodo](http://www.trustlogo.com/), one of the leading SSL Certification companies.
 
-Personally-identifiable information about visitors to the Things From Another World, Inc. site is collected only when knowingly and voluntarily submitted. In those instances when we do collect such information, the following applies:
+Personally identifiable information about visitors to the Things From Another World, Inc. site is collected only when knowingly and voluntarily submitted. In those instances when we do collect such information, the following applies:
 
  **I. POLICIES THAT APPLY TO INDIVIDUALS AGE 13 AND OVER**
 
