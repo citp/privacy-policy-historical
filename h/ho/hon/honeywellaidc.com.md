@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honeywellaidc.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620020555id_/http%3A//www.honeywell.com/privacy/en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeywellaidc.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619184917id_/http%3A//www.honeywell.com/privacy/en.html) for the most accurate reproduction.*
 
 # Privacy Statement - Honeywell International
 
