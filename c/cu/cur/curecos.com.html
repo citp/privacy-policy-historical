@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the curecos.com privacy policy that was archived on 2009-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218182549id_/http%3A//en.curecos.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the curecos.com privacy policy that was archived on 2010-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619233952id_/http%3A//en.curecos.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,7 +17,7 @@
 </head>
 <body id="portal"><a name="top"></a>
 <div id="container">
-<div id="header-bar-info"><p><span class="active-cosplayer"><a href="/list/cosplayers">74,370 active cosplayers</a></span></p></div>
+<div id="header-bar-info"><p><span class="active-cosplayer"><a href="/list/cosplayers">84,450 active cosplayers</a></span></p></div>
 <div id="header">
 
 <div id="usermenu">
@@ -31,7 +31,7 @@
 
 <div id="logobox">
 <h1 id="logo"><a href="/" onclick="javascript:pageTracker._trackPageview('clickreport/header/logo_link')"><img src="/img/logo.gif" width="195" height="82" alt="Cosplay Community Site CURE" title="Cosplay Community Site CURE"></a></h1>
-<div id="runof"><a href="http://app.click.livedoor.com:80/A-affiliate2/mobclick?campid=306&amp;creid=306&amp;location=null&amp;keyword=hs9000959&amp;uaid=0&amp;info=213070643312611607493880085" target="_blank"><script type="text/javascript" language="JavaScript">
+<div id="runof"><a href="http://app.click.livedoor.com:80/A-affiliate2/mobclick?campid=306&amp;creid=5720&amp;location=null&amp;keyword=hs9000959&amp;uaid=0&amp;info=16782926512769907923330107" target="_blank"><script type="text/javascript" language="JavaScript">
 <!--
 google_ad_client = 'ca-livedoor-cgm_html';
 google_ad_channel = 'cure2';
@@ -63,7 +63,7 @@ google_color_link = '0033cc';
 <div id="glb-search">
 <div id="glb-search-body">
 <div class="left-pr"></div>
-<div class="glb-search-wrapper"><form action="/search/" method="get"><input type="text" name="q" size="30" id="sbox" value="Search by keyword or Cure No." style="color: #777"><input type="submit" value="Search" class="submit-image-all"></form>
+<div class="glb-search-wrapper"><form action="/search/" method="get"><input type="text" name="q" size="30" id="sbox" style="color: rgb(119, 119, 119);"><input type="submit" value="Search" class="submit-image-all"></form>
 <div class="right-pr"></div>
 </div>
 </div></div>
@@ -147,7 +147,7 @@ google_color_link = '0033cc';
 <li><a href="/info/link">Link</a></li>
 </ul>
 <p id="c-commons">Use of any photos, text or representations is expressly prohibited without the permission of Cure -- Cosplay / Cosplayers Community Site Cure</p>
-<p id="copyright">Copyright © 1996-2009 livedoor All Rights Reserved. </p>
+<p id="copyright">© livedoor Co., Ltd. 2001</p>
 </div><!--end of footer-->
 
 </div><!--end of container-->
@@ -169,14 +169,24 @@ pageTracker._trackPageview();
 <script type="text/javascript">jQuery.noConflict();</script>
 <script type="text/javascript">
 <!--
+var sbox_is_empty = true;
+var search_info = 'Search by keyword or Cure No.';
 jQuery(function() {
     var sbox = jQuery('#sbox');
+    if (!sbox) {
+        return;
+    }
+    if (sbox_is_empty) {
+        sbox.css('color', '#777').val(search_info);
+    }
     sbox.focus(function() {
-        if(sbox.val() == sbox.attr('defaultValue'))
+        if (sbox_is_empty) {
             sbox.css('color', '#000').val('');
+        }
     }).blur(function() {
-        if (jQuery.trim(sbox.val()) == "") {
-            sbox.css('color', '#777').val(sbox.attr('defaultValue'));
+        sbox_is_empty = (sbox.val().length == 0);
+        if (sbox_is_empty) {
+            sbox.css('color', '#777').val(search_info);
         }
     });
 });
