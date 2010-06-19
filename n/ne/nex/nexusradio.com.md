@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nexusradio.com privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813181918id_/http%3A//www.nexusradio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexusradio.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619030637id_/http%3A//www.nexusradio.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Last Updated: February 15, 2008**  
+**Last Updated: January 4, 2010**  
 Nexus Radio recognize the importance of protecting the privacy of all information provided by users of our web sites, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by Nexus Radio.
 
 **Information Collection And Use**  
