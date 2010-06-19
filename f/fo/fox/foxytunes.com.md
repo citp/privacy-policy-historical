@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxytunes.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216203209id_/http%3A//www.foxytunes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxytunes.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619030340id_/http%3A//www.foxytunes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FoxyTunes
 
