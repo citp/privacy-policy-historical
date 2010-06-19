@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausgamers.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002738id_/http%3A//www.ausgamers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausgamers.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619091834id_/http%3A//www.ausgamers.com/privacy.php) for the most accurate reproduction.*
 
 # AusGamers Privacy Policy - AusGamers.com
 
