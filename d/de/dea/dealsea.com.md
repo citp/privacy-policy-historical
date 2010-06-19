@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171812id_/http%3A//www.dealsea.com/exec/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619051023id_/http%3A//dealsea.com/exec/s/privacy) for the most accurate reproduction.*
 
 # Dealsea.com: Coupon Codes | Deals
 
