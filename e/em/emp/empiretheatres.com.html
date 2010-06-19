@@ -1,7 +1,11 @@
-<!--The following is the downloaded HTML source of the empiretheatres.com privacy policy that was archived on 2009-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219005435id_/http%3A//www.empiretheatres.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the empiretheatres.com privacy policy that was archived on 2010-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619233729id_/http%3A//www.empiretheatres.com/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="js"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<script>
+  	$('a[href="/theatre/showtimes"]').attr('href', '/theatre/showtimes/test');
+  </script>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Privacy Policy | Empire Theatres</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,12 +13,15 @@
   <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
 <script type="text/javascript" src="/sites/all/modules/custom/modified_modules/ecommerce/address/js/helper.js?2"></script>
+<script type="text/javascript" src="/sites/all/themes/empire/js/movie.js"></script>
+<script type="text/javascript" src="/sites/all/themes/empire/js/showtime_days.js"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js"></script>
 <script type="text/javascript" src="/sites/all/modules/custom/thickbox/thickbox.js"></script>
 <script type="text/javascript" src="/sites/all/modules/custom/empire_user_location/js/empire_user_location.js?p2"></script>
-<script type="text/javascript">Drupal.extend({ settings: { "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } } });</script>
-    <link rel="StyleSheet" href="/sites/all/themes/empire/style/base.css?20091002" type="text/css" media="screen">
-  <link rel="StyleSheet" href="/sites/all/themes/empire/style/print.css?20091002" type="text/css" media="print">
-  <link rel="StyleSheet" href="/sites/all/themes/empire/style/mobile.css?20091002" type="text/css" media="handheld">
+<script type="text/javascript">Drupal.extend({ settings: { "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } } });</script>
+    <link rel="StyleSheet" href="/sites/all/themes/empire/style/base.css?20100616" type="text/css" media="screen">
+  <link rel="StyleSheet" href="/sites/all/themes/empire/style/print.css?20100118" type="text/css" media="print">
+  <link rel="StyleSheet" href="/sites/all/themes/empire/style/mobile.css?20100118" type="text/css" media="handheld">
   <!-- skins -->
   <!-- <link rel="StyleSheet" href="/sites/all/themes/empire/skins/skin-directory-name/style.css" type="text/css" media="screen" />-->
   <!--[if IE]>
@@ -24,9 +31,11 @@
   	<link type="text/css" rel="stylesheet" media="screen" href="/sites/all/themes/empire/style/ie6.css?20091002" />
   <![endif]-->
   <script src="/sites/all/themes/empire/js/AC_RunActiveContent.js" language="javascript" type="text/javascript"></script>
-  <script src="/sites/all/themes/empire/js/global.js?20091002" language="javascript" type="text/javascript"></script>
+  <script src="/sites/all/themes/empire/js/global.js?20100118" language="javascript" type="text/javascript"></script>
+  <script src="/sites/all/themes/empire/js/fb_connect.js?new" language="javascript" type="text/javascript"></script>
 </head>
 <body class="not-front not-logged-in ntype-page page-privacypolicy section-privacypolicy">
+  <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
   <div class="fullPageContainer">
     <div id="container">
       <div id="page">
@@ -34,12 +43,12 @@
           <table id="headerInfo" cellspacing="0">
             <tbody><tr>
               <td id="headerUserInfo">
-                <div id="registerLink"><a href="/user/register" title="Create a new user account.">Create Account</a> | <a href="/whycreateanaccount" title="Why create an account.">About Empire Insider</a> | <a href="/user/password" title="Reset your password via e-mail.">Reset Password</a></div><div id="loginForm"><form action="/privacypolicy?destination=node%2F13" accept-charset="UTF-8" method="post" id="user-login-form">
-<div><div class="form-item">
+                <div id="regular_login"><div id="registerLink"><a href="/user/register" title="Create a new user account.">Create Account</a> | <a href="/whycreateanaccount" title="Why create an account.">About Empire Insider</a> | <a href="/user/password" title="Reset your password via e-mail.">Reset Password</a></div><div id="loginForm"><form action="/privacypolicy?destination=node%2F13" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
  <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="60" name="name" id="edit-name" size="12" value="" onfocus="javascript:loginFieldFocus(this);" class="form-text required">
 </div>
-<div class="form-item">
+<div class="form-item" id="edit-pass-wrapper">
  <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
  <input type="password" name="pass" id="edit-pass" maxlength="60" size="12" onfocus="javascript:loginFieldFocus(this);" class="form-text required">
 </div>
@@ -47,7 +56,85 @@
 </div><input type="hidden" name="form_id" id="edit-empire-login-block" value="empire_login_block">
 
 </div></form>
-</div><script type="text/javascript"> if($("#headerUserInfo #edit-name").val() != "")$("#headerUserInfo #edit-name").css("background-position","top left");</script>              </td>
+</div><script type="text/javascript"> if($("#headerUserInfo #edit-name").val() != "")$("#headerUserInfo #edit-name").css("background-position","top left");</script></div><div id="fbconnect_login"><div id="fb_connect_login_header"><img src="/sites/all/themes/empire/images/facebook_or.gif" alt=""><span>Have a Facebook Account?</span></div>
+<div id="fb_connect"><fb:login-button onlogin="window.location='/fbconnect/login?srcurl=privacypolicy';" size="medium" background="black" length="long"></fb:login-button></div>
+</div><div id="fbconnect_whatsthis"><a href="javascript:empire_show_popup('#empire_fb_connect_whatsthis_popup');"><img src="/sites/all/themes/empire/images/icon-fb-whatsthis.gif"></a>
+</div>  <div id="empire_fb_connect_whatsthis_popup" class="empire_trans_popup" style="display: none;">
+    <a title="Close" href="javascript:empire_hide_popup('#empire_fb_connect_whatsthis_popup');" class="empire_pop_close">X</a>
+    <div class="empire_pop_top"></div>
+    <div class="empire_pop_body">
+      <div class="empire_pop_content">
+        <h1>Why Connect With Facebook?</h1>
+        <p>
+        Empire Theatres gives you the option of signing into your Empire Insider account 
+        using your Facebook login information through Facebook Connect.
+        </p>
+        <p>
+        Empire Insider members who log in through Facebook Connect can easily share information from 
+        the Empire website on their Facebook profiles, including our newly expanded movie reviews 
+        feature which allows you to share movie reviews you make at empiretheatres.com on 
+        your Facebook profile.
+        </p>
+        <p>
+        To sign in with Facebook Connect, simply click the "Connect with Facebook" button and 
+        enter your Facebook login information. On your first sign in, you'll be asked to sync 
+        your Facebook account with your current Empire Insider account, or create an Empire 
+        Insider account if you don't already have one. 
+        </p>
+        <p>
+        On future visits, you'll automatically be logged in if you're already logged into Facebook. If you 
+        aren't, you can simply click the "Connect with Facebook" button to login with your 
+        Facebook account information. 
+        </p>
+      </div>
+    </div>
+    <div style="clear: both;"></div>
+    <div class="empire_pop_bottom"></div>
+  </div>  <div id="empire_fb_connect_syncaccount_popup" class="empire_trans_popup" style="display: none;">
+    <a title="Close" href="javascript:empire_hide_popup('#empire_fb_connect_syncaccount_popup');" class="empire_pop_close">X</a>
+    <div class="empire_pop_top"></div>
+    <div class="empire_pop_body">
+      <div class="empire_pop_content">
+        <h1>Syncing Your Empire Theatres and Facebook Accounts</h1>
+        <p>
+        To ensure a site experience that is customized to your user preferences, your  Facebook account information 
+        needs to be synced with the information and preferences you set within your Empire Insider 
+        profile. After your accounts are synced, you will be able to login to the Empire site 
+        with just your Facebook account information. 
+        </p>
+        <p>
+        Once logged in, you can change your preferences at any time by clicking on the "Your Account" 
+        link at the top left side of any page on the website. 
+        </p>
+      </div>
+    </div>
+    <div style="clear: both;"></div>
+    <div class="empire_pop_bottom"></div>
+  </div>  <div id="empire_fb_connect_createaccount_popup" class="empire_trans_popup" style="display: none;">
+    <a title="Close" href="javascript:empire_hide_popup('#empire_fb_connect_createaccount_popup');" class="empire_pop_close">X</a>
+    <div class="empire_pop_top"></div>
+    <div class="empire_pop_body">
+      <div class="empire_pop_content">
+        <h1>Creating a New Empire Insider Account</h1>
+        <p>
+        There are many benefits to becoming an Empire Insider member, including easy site access, 
+        automated theatre preferences, exclusive offers and rewards, relevant movie information based on 
+        your preferred genres, and the ability to participate in interactive features such as our 
+        movie reviews feature.
+        </p>
+        <p>
+        All users participating in interactive features on our website are required to be Empire Insider 
+        members in order to protect the authenticity and validity of the comments being posted on our site.
+        </p>
+        After you create your Empire Insider account, you will be able to login with just your Facebook account 
+        information in the future. Once logged in, you can change your preferences at any time by clicking on the 
+        "Your Account" link at the top left side of any page on the website.
+        <p></p>
+      </div>
+    </div>
+    <div style="clear: both;"></div>
+    <div class="empire_pop_bottom"></div>
+  </div>              </td>
               <td>
                 <div id="block-empire_user_location-0" class="block block-empire_user_location">  
   <div class="blockinner">
@@ -292,6 +379,13 @@ playback timings (ms):
   $.ajax({
     type: "GET",url: "/user_location_instructions",    success: 
       function(msg){
+      	// Strip Devel HTML from the redirect link if needed.
+      	var str_position;
+      	str_position = msg.indexOf('<');
+      	if(str_position>1) {
+	      	msg = msg.substring(0,str_position);
+	      }
+	      //alert('str_position: ' + str_position);
         if(msg.match("redirect: ")) {
           msg = msg.replace(/redirect: /g, "");
           msg = msg.replace(/^"/g, "");
@@ -341,11 +435,11 @@ playback timings (ms):
       
         <div id="mainNav">
           <div id="searchForm">
-            <form action="/search/node" accept-charset="UTF-8" method="post" id="search-theme-form">
+            <form action="/privacypolicy" accept-charset="UTF-8" method="post" id="search-theme-form">
 <div><div style="float:left;"><input type="text" maxlength="128" name="search_theme_form_keys" id="searchInput" value="" title="Enter the terms you wish to search for." class="form-text"></div>
 <div id="searchButtonWrapper" style="float:left;"><input type="submit" name="op" id="searchButton" value="Search"></div>
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
-<input type="hidden" name="form_token" id="a-unique-id" value="338c4f1b82e4c85fd1de928addb680e2">
+<input type="hidden" name="form_token" id="a-unique-id" value="88999c3a7ed00e91a4ee597459366f80">
 
 
 </div></form>
@@ -379,14 +473,14 @@ playback timings (ms):
                       <div id="intPromos">
                                                 	<h2>What Not To Miss</h2>
                         	<!--<img src="/sites/all/themes/empire/images/text_what-not-to-miss-int.gif" alt="What Not To Miss" />-->
-                         <div class="view view-promos-block"><div class="view-content view-content-promos-block"><div class="item-list"><ul><li><a href="/gift"><b>BUY $30, GET $30</b> - 
-Our Gift Card Bundle offer is back! Buy $30 in gift cards, get $30 in coupons. Get them before time runs out!
+                         <div class="view view-promos-block"><div class="view-content view-content-promos-block"><div class="item-list"><ul><li><a href="/contests/twilight-saga-eclipse-autographed-poster"><b>AUTOGRAPHED ECLIPSE POSTER</b> - 
+Win a poster autographed by 2 of the Cullen Family! Enter this exclusive to Empire Theatres contest now!
 </a>
-</li><li><a href="/avatar-choose-your-format"><b>AVATAR</b> - 
-Tickets on sale now for James Cameron's Avatar. Get them online now with Express Tickets!
+</li><li><a href="/world"><b>YOU COULD INSTANTLY WIN</b> - 
+1 of 3 trips anywhere in the world, plus over 100,000 movie prizes to be won! Learn how!
 </a>
-</li><li><a href="/refreshments"><b>ALVIN &amp; THE CHIPMUNKS</b> - 
-The Squeakquel Kids Pack now available in theatres! Get yours while supplies last!
+</li><li><a href="/movie/big-four-metallica-slayer-megadeth-anthrax"><b>THE BIG FOUR</b> - 
+Metallica, Slayer, Megadeth, Anthrax live on the big screen for 1 night only! Get tickets and locations here!
 </a>
 </li></ul></div></div></div>
  
@@ -398,9 +492,9 @@ The Squeakquel Kids Pack now available in theatres! Get yours while supplies las
   <div class="blockinner">
     <h2 class="title">  </h2>
     <div class="content">
-      <div class="view view-image-promos-block"><div class="view-content view-content-image-promos-block"><div class="item-list"><ul><li>  <a href="/gift"><img src="/files/movies/2009/11/GIFTCARDS_HolidayDuo_300x88.jpg" alt="Gift Card - Holiday Duo" width="300" height="88">
+      <div class="view view-image-promos-block"><div class="view-content view-content-image-promos-block"><div class="item-list"><ul><li>  <a href="/twilight-saga-eclipse-tickets-and-showtimes"><img src="/files/movies/2010/06/ADVANCE_Eclipse_300x88.jpg" alt="Eclipse Advance Tickets" width="300" height="88">
 </a>
-</li><li>  <a href="/win-1-2-all-access-cards-empire-theatres"><img src="/files/movies/2009/12/CONTEST_AllAccessDec09_300x88.jpg" alt="Win 1 of 2 All Access Cards from Empire Theatres" width="300" height="88">
+</li><li>  <a href="/contests/1-million-online-tickets"><img src="/files/movies/2010/06/EXPRESS_1Million_300x88.jpg" alt="Who will make the 1 Millionth Online Ticket Purchase? " width="300" height="88">
 </a>
 </li></ul></div></div></div>
     </div>    
@@ -411,7 +505,7 @@ The Squeakquel Kids Pack now available in theatres! Get yours while supplies las
   <div class="blockinner">
     <h2 class="title">  </h2>
     <div class="content">
-      <div class="topFiveMovies"><table border="0" cellspacing="0"><tbody><tr><td><img src="/sites/all/themes/empire/images/top5_1.png" alt="#1" title="#1" height="17" width="17"></td><td><a href="/node/11357">The Princess and the Frog</a></td></tr><tr><td><img src="/sites/all/themes/empire/images/top5_2.png" alt="#2" title="#2" height="17" width="17"></td><td><a href="/node/9439">The Twilight Saga: New Moon</a></td></tr><tr><td><img src="/sites/all/themes/empire/images/top5_3.png" alt="#3" title="#3" height="17" width="17"></td><td><a href="/node/11168">A Christmas Carol in Disney Digital 3D</a></td></tr><tr><td><img src="/sites/all/themes/empire/images/top5_4.png" alt="#4" title="#4" height="17" width="17"></td><td><a href="/node/11351">The Blind Side</a></td></tr><tr><td><img src="/sites/all/themes/empire/images/top5_5.png" alt="#5" title="#5" height="17" width="17"></td><td><a href="/node/11358">Invictus</a></td></tr></tbody></table></div>    </div>    
+      <div class="topFiveMovies"><table border="0" cellspacing="0"><tbody><tr><td><img src="/sites/all/themes/empire/images/top5_1.png" alt="#1" title="#1" height="17" width="17"></td><td><a href="/node/12070">The Karate Kid</a></td></tr><tr><td><img src="/sites/all/themes/empire/images/top5_2.png" alt="#2" title="#2" height="17" width="17"></td><td><a href="/node/12124">The A-Team</a></td></tr><tr><td><img src="/sites/all/themes/empire/images/top5_3.png" alt="#3" title="#3" height="17" width="17"></td><td><a href="/node/11398">Shrek Forever After</a></td></tr><tr><td><img src="/sites/all/themes/empire/images/top5_4.png" alt="#4" title="#4" height="17" width="17"></td><td><a href="/node/12071">Get Him to the Greek</a></td></tr><tr><td><img src="/sites/all/themes/empire/images/top5_5.png" alt="#5" title="#5" height="17" width="17"></td><td><a href="/node/11402">Prince of Persia: The Sands of Time</a></td></tr></tbody></table></div>    </div>    
   </div>
 </div>
                   </div>
@@ -421,7 +515,13 @@ The Squeakquel Kids Pack now available in theatres! Get yours while supplies las
                 <td id="centerContent">
                   <div id="content">
                      
-                    <h2 class="title">Privacy Policy</h2>                                                                                  
+                                                                  <div id="title_holder">
+                          <div id="title_image-13"></div>
+                                            <h2 class="title">
+                        Privacy Policy                      </h2>
+                                              </div>
+                        <div id="title_holder_close"></div>
+                                                                                                                            
 <div id="body">
 <p><strong></strong></p><center><strong>PRIVACY POLICY<br>EMPIRE THEATRES LIMITED</strong></center><center></center><p></p>
 <p>Empire Theatres Limited (referred to in this Privacy Policy as the "Company") is<br>committed to protecting the privacy and confidentiality of your personal information.<br>You should familiarize yourself with this Policy, prior to using this website or<br>supplying personal information to the Company. When you provide us with personal<br>information, you are consenting to the collection, use and disclosure of the information listed below for the purposes set out in this Policy.</p>
@@ -545,7 +645,7 @@ The Squeakquel Kids Pack now available in theatres! Get yours while supplies las
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads1.empiretheatres.com/www/delivery/ajs.php?zoneid=10&amp;cb=59556213542&amp;loc=https%3A//web.archive.org/web/20091219005435id_/http%253A//www.empiretheatres.com/privacypolicy"></script><noscript><a href='http://ads1.empiretheatres.com/www/delivery/ck.php?n=a4d112b4&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads1.empiretheatres.com/www/delivery/avw.php?zoneid=10&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a4d112b4' border='0' alt='' /></a></noscript>                  </div>
+//]]>--></script><script type="text/javascript" src="https://ads1.empiretheatres.com/www/delivery/ajs.php?zoneid=10&amp;cb=22983966739&amp;loc=https%3A//web.archive.org/web/20100619233729id_/http%253A//www.empiretheatres.com/privacypolicy"></script><noscript><a href='http://ads1.empiretheatres.com/www/delivery/ck.php?n=a4d112b4&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads1.empiretheatres.com/www/delivery/avw.php?zoneid=10&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a4d112b4' border='0' alt='' /></a></noscript>                  </div>
                 </td>
               </tr>
             </tbody></table>
@@ -557,8 +657,8 @@ The Squeakquel Kids Pack now available in theatres! Get yours while supplies las
           <table class="shortcuts" cellspacing="0">
   <tbody><tr>
     <td class="shortcut_item">
-      <h3><a href="/contact/contact-form">Share Your Comments</a></h3>
-      <a href="/contact/contact-form"><img src="/sites/all/themes/empire/images/shortcuts/comments.jpg" alt="Comments" width="36" height="60"></a>
+      <h3><a href="/share-your-comments">Share Your Comments</a></h3>
+      <a href="/share-your-comments"><img src="/sites/all/themes/empire/images/shortcuts/comments.jpg" alt="Comments" width="36" height="60"></a>
     </td>
     <td class="shortcut_item">
       <h3><a href="/birthdays">Empire Party Kids</a></h3>
@@ -593,10 +693,11 @@ The Squeakquel Kids Pack now available in theatres! Get yours while supplies las
 				<li><a href="/comingsoon">Coming Soon</a></li>
         <li><a href="/theatre/showtimes">Theatre Showtimes</a></li>
         <li><a href="/shop/buytickets">Express Tickets</a></li>
+        <li><a href="/contests">Contests</a></li>
 				<li><a href="/mobile">Empire Mobile</a></li>
         <li><a href="/movies/filminformation">Film Classification</a></li>
         <li><a href="/imax">IMAX</a></li>
-        <li><a href="/digital">Digital Projection /<br>RealD 3D</a></li>
+        <li><a href="/reald-3d">RealD 3D</a></li>
     </ul>
     <ul>
     	<li><h4>Empire Programs</h4></li>
@@ -613,6 +714,7 @@ The Squeakquel Kids Pack now available in theatres! Get yours while supplies las
     	<li><h4>Corporate Sales</h4></li>
         <li><a href="/corporate/products">Corporate Products</a></li>
         <li><a href="/corporate/rentals">Private Screenings &amp; Meetings</a></li>
+        <li><a href="/corporate/partnership">Corporate Partner Programs</a></li>
         <li><a href="/corporate/advertising">Advertise With Empire Theatres</a></li>
     </ul>
      <ul>
@@ -634,15 +736,15 @@ The Squeakquel Kids Pack now available in theatres! Get yours while supplies las
         <li><a href="/theatres">Contact Your Theatre</a></li>
         <li><a href="/careers">Careers</a></li>
         <li><a href="/faq">FAQ</a></li>
-        <li><a href="http://www.access2.ca/english_default.html" target="_blank">Access 2 Entertainment</a></li>
-        <li><a href="/contact/contact-form">Share Your Comments</a></li>
+        <li><a href="http://www.access2.ca" target="_blank">Access 2 Entertainment</a></li>
+        <li><a href="/share-your-comments">Share Your Comments</a></li>
     </ul>
 </div>	
 <div style="clear: both; height: 20px;"></div>
 </div> <!-- /footer -->
     
 	<div id="bottom">
-    	<p>© 2009 Empire Theatres, All rights reserved.</p>
+    	<p>© 2010 Empire Theatres, All rights reserved.</p>
         <ul>
             <li><a href="/termsofuse">Terms of Use</a></li>
             <li><a href="/privacypolicy">Privacy Statement</a></li>
@@ -671,7 +773,11 @@ The Squeakquel Kids Pack now available in theatres! Get yours while supplies las
     pageTracker._trackPageview();
   </script>
   <script type="text/javascript" src="/files/siftanalytics/sift.js"></script>
-<script type="text/javascript">try{sift_track_campaign_element(1, "", "");} catch(err) {}</script><img id="sift_img" alt="" width="1" height="1" src="https://empiretheatres.siftanalytics.com/sift_track.php?sift_element=Privacy%20Policy%20%7C%20Empire%20Theatres&amp;data_type=element&amp;sift_visitor_code=BC44BCCC-423C-4539-DAA4-3543B937F0E9&amp;sift_visit_code=997676DA-BE4A-73C5-007D-CF9E39C68FB6&amp;sift_campaign=1&amp;sift_referrer=none&amp;sift_email_referrer=none&amp;sift_email=none&amp;sift_country=none&amp;sift_state=none&amp;sift_city=none&amp;sift_client_user=none&amp;user_referred=none&amp;page_referrer=&amp;sift_search=/web/20091219005435id_/http%253A//www.empiretheatres.com/privacypolicy&amp;sift_visit_timeout=30&amp;sift_add_form_delay=750&amp;flash_enabled=0&amp;java_enabled=0&amp;screen_resolution=800x600&amp;color_depth=24" style="position: absolute; bottom: 0px; left: 0px; border: none;">
+<script type="text/javascript">$().ready(function(){$("#edit-comments").maxLength(140);});</script>
+<script type="text/javascript">try{sift_track_campaign_element(1, "", "");} catch(err) {}</script><img id="sift_img" alt="" width="1" height="1" src="https://empiretheatres.siftanalytics.com/sift_track.php?sift_element=Privacy%20Policy%20%7C%20Empire%20Theatres&amp;data_type=element&amp;sift_visitor_code=3CCFF5AB-C7C0-A9F9-699F-F8E62EECB223&amp;sift_visit_code=BB05A6B5-CF2D-DA6C-6312-7BFF3DD843DF&amp;sift_campaign=1&amp;sift_referrer=none&amp;sift_email_referrer=none&amp;sift_email=none&amp;sift_country=none&amp;sift_state=none&amp;sift_city=none&amp;sift_client_user=none&amp;user_referred=none&amp;page_referrer=&amp;sift_search=/web/20100619233729id_/http%253A//www.empiretheatres.com/privacypolicy&amp;sift_visit_timeout=30&amp;sift_add_form_delay=750&amp;flash_enabled=0&amp;java_enabled=0&amp;screen_resolution=800x600&amp;color_depth=24" style="position: absolute; bottom: 0px; left: 0px; border: none;">
+  <script type="text/javascript">  
+    FB.init("73c7d8343aa1fa57d9a97ad13be87318", "/sites/all/modules/custom/empire_fb_connect/facebook-connect/xd_receiver.htm",{"ifUserConnected" : fb_connect_init});
+  </script>
 
 
 
