@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215074720id_/http%3A//www.smarthinking.com/static/pub_common/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthinking.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619195529id_/http%3A//www.smarthinking.com/static/pub_common/privacy.cfm) for the most accurate reproduction.*
 
 # SMARTHINKING.COM - Online tutoring and writing services that help students succeed
 
@@ -44,6 +44,6 @@ VI. Use of Cookies
 This site requires cookies. SMARTHINKING uses cookies to establish a session. We do not use cookies for tracking purposes. Cookies do not allow the website to access personal information that you haven't already provided. 
 
 VII. Our Security Procedures   
-We are committed to safeguarding the privacy of all users. We require our employees to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. We have a digital certificate that is signed by a recognized certificate authority. Credit card information is transmitted via encrypted technology. 
+We are committed to safeguarding the privacy of all users. We require our employees to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. We have a digital certificate that is signed by a recognized certificate authority.
 
 Please be advised that once you leave our website, your use of the Internet will be governed by the privacy policies, if any, of the particular website that you are accessing. SMARTHINKING is not responsible for the content, activities or privacy practices on the other sites.
