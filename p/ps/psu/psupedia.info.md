@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the psupedia.info privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040708id_/http%3A//psupedia.info/The_PSUPedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psupedia.info privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619122042id_/http%3A//psupedia.info/The_PSUPedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - The PSUPedia
 
-**The wiki is currently being migrated and may be subject to unforeseen downtime. Please use[this](http://ambitionofilluminus.com/Main_Page "http://ambitionofilluminus.com/Main_Page") if the main wiki is inaccessible.**  
-**Please note that the rule on multiple user page edits is still being enforced.**
+The PSUPedia needs donations to stay in operation. [Click here](https://web.archive.org/Donate "Donate") for details on how you can help. All contributions are greatly appreciated! 
 
 ### From The PSUPedia
 
-Privacy Policy (Redirected from [The PSUPedia:Privacy policy](https://web.archive.org/index.php?title=The_PSUPedia:Privacy_policy&redirect=no "The PSUPedia:Privacy policy"))
-
 ## Contents
+
+[hide]
 
   * 1 Ground Rules
   * 2 Information Collection and Use
