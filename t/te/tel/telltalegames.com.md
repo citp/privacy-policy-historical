@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telltalegames.com privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906064438id_/http%3A//www.telltalegames.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telltalegames.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619054046id_/http%3A//www.telltalegames.com/privacypolicy) for the most accurate reproduction.*
 
 # Telltale Games - Privacy Policy
 
