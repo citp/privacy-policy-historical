@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytruspot.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219162941id_/http%3A//www.mytruspot.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytruspot.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619233242id_/http%3A//www.mytruspot.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Tru Spot! - Listen to free music by Africans with internet radio and the largest African music catalogue online
 
