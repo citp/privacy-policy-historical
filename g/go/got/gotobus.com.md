@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotobus.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530004917id_/http%3A//www.gotobus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotobus.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619195312id_/http%3A//www.gotobus.com/privacy.html) for the most accurate reproduction.*
 
 # GotoBus - Privacy Notice
 
