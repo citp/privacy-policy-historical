@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219131908id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619231814id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement at Ancestor Search
 
@@ -37,17 +37,11 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 [ Ancestor Search ](mailto:webmaster@searchforancestors.com)   
 |    
-|  Freebies at Footnote.com   
----  
-  
-  
 
-*   [Free Databases](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.688600412&type=10&subid=0&u1=sfafreedatabases)   
-View, download, and print the original record from Footnote's free database collection. 
-*   [Free Trial](http://click.linksynergy.com/fs-bin/click?id=VaCTQ8UIJfs&offerid=162700.697388383&type=10&subid=0&u1=sfacolumnft)   
-Access every original record on Footnote.com with a free trial.   
+
   
-Site Features   
+  
+|  Site Features   
 ---  
   
   
@@ -61,8 +55,8 @@ Genealogy software, forms, charts and templates.
 *   [Free Genealogy](http://www.searchforancestors.com/genealogyfreebies.html)   
 Free genealogy resources: charts, lessons, software, databases, look ups, relationship charts, form letters, translation services. 
 *   [Genealogy Database Free Trials](http://www.searchforancestors.com/freetrials.html)   
-Free trials to genealogy databases such as Ancestry.com and Footnote.com. Why pay when you can view for free? 
+Free trial to Ancestry.com. Why pay when you can view for free? 
 *   [Ancestry.com Coupons & Deals](http://www.searchforancestors.com/ancestrycoupon.html)   
 Special offers, coupons, coupon codes, discounts, sales & deals 
-*  [FTM 2010](http://ancestorsearch.blogspot.com/2009/08/family-tree-maker-2010-improvements.html)  
-Family Tree Maker 2010 list of improvements plus 20% Coupon Code
+*   [FTM 2010](http://ancestorsearch.blogspot.com/2009/08/family-tree-maker-2010-improvements.html)   
+Family Tree Maker 2010 list of improvements 
