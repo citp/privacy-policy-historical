@@ -1,20 +1,338 @@
-<!--The following is the downloaded HTML source of the genome.gov privacy policy that was archived on 2009-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091218120852id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the genome.gov privacy policy that was archived on 2010-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619051342id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-    <title>genome.gov | Web Site Privacy Policy</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    
-        <meta name="description" content="Privacy policy for the National Human Genome Research Institute's Web site.">
-        
-        <meta name="keywords" content="privacy, privacy policy, collected, stored, domain, date, time, personal information, disclosure, visit, user, users, browse, web site, about nhgri, about the national human genome research institute">
-        
-        <link rel="stylesheet" type="text/css" href="/Includes/css/genome22.css">
-    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  
+    <title>Genome.gov | Web Site Privacy Policy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+    <meta name="Description" content="Privacy policy for the National Human Genome Research Institute's Web site.">
+    <meta name="Keywords" content="privacy, privacy policy, collected, stored, domain, date, time, personal information, disclosure, visit, user, users, browse, web site, about nhgri, about the national human genome research institute">
+    <meta http-equiv="pragma" content="nocache">
+	<link rel="stylesheet" type="text/css" href="/includes/css/genome.css" media="all">
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="P3Pv1" href="http://www.genome.gov/w3c/p3p.xml">
-    
-	<script language="JavaScript">
+    <script type="text/javascript">
+
+// USE WORDWRAP AND MAXIMIZE THE WINDOW TO SEE THIS FILE
+c_styles={};c_menus={}; // do not remove this line
+
+/******************************************************
+	(1) GLOBAL SETTINGS
+*******************************************************/
+
+c_hideTimeout=200; // 1000==1 second
+c_subShowTimeout=200;
+c_keepHighlighted=true;
+c_findCURRENT=true; // find the item linking to the current page and apply it the CURRENT style class
+c_findCURRENTTree=true;
+c_overlapControlsInIE=true;
+c_rightToLeft=false; // if the menu text should have "rtl" direction (e.g. Hebrew, Arabic)
+
+
+/******************************************************
+	(2) MENU STYLES (CSS CLASSES)
+*******************************************************/
+
+// You can define different style classes here and then assign them globally to the menu tree(s)
+// in section 3 below or set them to any UL element from your menu tree(s) in the page source
+
+
+c_imagesPath="/includes/JS/"; // path to the directory containing the menu images
+
+c_styles['DD']=[ // MainMenu (the shorter the class name the better)
+[
+// MENU BOX STYLE
+0,		// BorderWidth
+'none',	// BorderStyle (CSS valid values except 'none')
+'',	// BorderColor ('color')
+0,		// Padding
+'',	// Background ('color','transparent','[image_source]')
+'',		// IEfilter (only transition filters work well - not static filters)
+''		// Custom additional CSS for the menu box (valid CSS)
+],[
+// MENU ITEMS STYLE
+0,		// BorderWidth
+'',	// BorderStyle (CSS valid values except 'none')
+'',	// OVER BorderStyle
+'',	// BorderColor ('color')
+'',	// OVER BorderColor
+0,		// Padding
+'',	// Background ('color','transparent','[image_source]')
+'',	// OVER Background
+'',	// Color
+'',	// OVER Color
+'',		// FontSize (values in CSS valid units - %,em,ex,px,pt)
+'',	// FontFamily
+'',		// FontWeight (CSS valid values - 'bold','normal','bolder','lighter','100',...,'900')
+'',		// TextDecoration (CSS valid values - 'none','underline','overline','line-through')
+'',		// OVER TextDecoration
+'',		// TextAlign ('left','center','right','justify')
+0,		// ItemsSeparatorSize
+'',	// ItemsSeparatorStyle (border-style valid values)
+'',	// ItemsSeparatorColor ('color','transparent')
+0,		// ItemsSeparatorSpacing
+false,			// UseSubMenuImage (true,false)
+'',	// SubMenuImageSource ('[image_source]')
+'',	// OverSubMenuImageSource
+0,			// SubMenuImageWidth
+0,			// SubMenuImageHeight
+'0',			// SubMenuImageVAlign ('pixels from item top','middle')
+'',		// VISITED BorderStyle
+'',		// VISITED BorderColor
+'',		// VISITED Background
+'',		// VISITED Color
+'',			// VISITED TextDecoration
+'',	// VISITED SubMenuImageSource
+'',		// CURRENT BorderStyle
+'',		// CURRENT BorderColor
+'',		// CURRENT Background
+'',		// CURRENT Color
+'',			// CURRENT TextDecoration
+'',	// CURRENT SubMenuImageSource
+'',		// Custom additional CSS for the items (valid CSS)
+'',		// OVER Custom additional CSS for the items (valid CSS)
+'',		// CURRENT Custom additional CSS for the items (valid CSS) background-image:url(/includes/JS/v_arrow.gif); background-position:left; background-repeat:no-repeat
+''		// VISITED Custom additional CSS for the items (valid CSS)
+]];
+
+c_styles['LL']=[ // MainMenu (horizontal) (the shorter the class name the better)
+[
+// MENU BOX STYLE
+0,		// BorderWidth
+'none',	// BorderStyle (CSS valid values except 'none')
+'',	// BorderColor ('color')
+0,		// Padding
+'#EFEFEF',	// Background ('color','transparent','[image_source]')
+'',		// IEfilter (only transition filters work well - not static filters)
+''		// Custom additional CSS for the menu box (valid CSS)
+],[
+// MENU ITEMS STYLE
+0,		// BorderWidth
+'',	// BorderStyle (CSS valid values except 'none')
+'',	// OVER BorderStyle
+'',	// BorderColor ('color')
+'',	// OVER BorderColor
+5,		// Padding
+'#EFEFEF',	// Background ('color','transparent','[image_source]')
+'#2F91A6',	// OVER Background
+'black',	// Color
+'white',	// OVER Color
+'95%',		// FontSize (values in CSS valid units - %,em,ex,px,pt)
+'tahoma,arial,verdana,helvetica,sans-serif',	// FontFamily
+'normal',		// FontWeight (CSS valid values - 'bold','normal','bolder','lighter','100',...,'900')
+'none',		// TextDecoration (CSS valid values - 'none','underline','overline','line-through')
+'underline',		// OVER TextDecoration
+'left',		// TextAlign ('left','center','right','justify')
+1,		// ItemsSeparatorSize
+'solid',	// ItemsSeparatorStyle (border-style valid values)
+'#CBCBEF',	// ItemsSeparatorColor ('color','transparent')
+0,		// ItemsSeparatorSpacing
+true,			// UseSubMenuImage (true,false)
+'[v_arrow.gif]',	// SubMenuImageSource ('[image_source]')
+'[v_arrow_over.gif]',	// OverSubMenuImageSource
+7,			// SubMenuImageWidth
+7,			// SubMenuImageHeight
+'8',			// SubMenuImageVAlign ('pixels from item top','middle')
+'solid',		// VISITED BorderStyle
+'',		// VISITED BorderColor
+'',		// VISITED Background
+'',		// VISITED Color
+'',			// VISITED TextDecoration
+'[v_arrow.gif]',	// VISITED SubMenuImageSource
+'',		// CURRENT BorderStyle
+'',		// CURRENT BorderColor
+'#CCC',		// CURRENT Background
+'black',		// CURRENT Color
+'',			// CURRENT TextDecoration
+'[v_arrow_current.gif]',	// CURRENT SubMenuImageSource
+'padding-left:7px',		// Custom additional CSS for the items (valid CSS)
+'',		// OVER Custom additional CSS for the items (valid CSS)
+'font-weight:bold',//background-image:url(/includes/JS/v_arrow_over.gif); background-position:left; background-repeat:no-repeat; margin-left:2px',		// CURRENT Custom additional CSS for the items (valid CSS) background-image:url(/includes/JS/v_arrow.gif); background-position:left; background-repeat:no-repeat
+''		// VISITED Custom additional CSS for the items (valid CSS)
+]];
+
+
+
+c_styles['SD']=[ // SubMenus
+[
+// MENU BOX STYLE
+0,		// BorderWidth
+'',	// BorderStyle (CSS valid values except 'none')
+'',	// BorderColor ('color') #4D4C76
+0,		// Padding
+'white',	// Background ('color','transparent','[image_source]') #237298
+'',		// IEfilter (only transition filters work well - not static filters)
+''		// Custom additional CSS for the menu box (valid CSS)
+],[
+// MENU ITEMS STYLE
+0,		// BorderWidth
+'',	// BorderStyle (CSS valid values except 'none')
+'',	// OVER BorderStyle
+'',	// BorderColor ('color')
+'',	// OVER BorderColor
+1,		// Padding
+'',	// Background ('color','transparent','[image_source]')
+'#CCC',	// OVER Background
+'white',	// Color
+'black',	// OVER Color
+'95%',		// FontSize (values in CSS valid units - %,em,ex,px,pt)
+'tahoma,verdana,arial,helvetica,sans-serif',	// FontFamily
+'normal',	// FontWeight (CSS valid values - 'bold','normal','bolder','lighter','100',...,'900')
+'none',		// TextDecoration (CSS valid values - 'none','underline','overline','line-through')
+'none',		// OVER TextDecoration
+'left',		// TextAlign ('left','center','right','justify')
+1,		// ItemsSeparatorSize
+'solid',	// ItemsSeparatorStyle (border-style valid values)
+'#CBCBEF',	// ItemsSeparatorColor ('color','transparent')
+0,		// ItemsSeparatorSpacing
+false,			// UseSubMenuImage (true,false)
+'',	// SubMenuImageSource ('[image_source]')
+'',	// OverSubMenuImageSource
+7,			// SubMenuImageWidth
+7,			// SubMenuImageHeight
+'7',			// SubMenuImageVAlign ('pixels from item top','middle')
+'solid',		// VISITED BorderStyle
+'',		// VISITED BorderColor
+'',		// VISITED Background
+'',		// VISITED Color
+'none',			// VISITED TextDecoration
+'',	// VISITED SubMenuImageSource
+'solid',		// CURRENT BorderStyle
+'#CBCBEF',		// CURRENT BorderColor
+'#FFFBF0',		// CURRENT Background
+'#252455',		// CURRENT Color
+'none',			// CURRENT TextDecoration
+'',	// CURRENT SubMenuImageSource
+'',		// Custom additional CSS for the items (valid CSS)
+'',		// OVER Custom additional CSS for the items (valid CSS)
+'',		// CURRENT Custom additional CSS for the items (valid CSS)
+''		// VISITED Custom additional CSS for the items (valid CSS)
+]];
+
+
+c_styles['SL']=[ // SubMenus
+[
+// MENU BOX STYLE
+0,		// BorderWidth
+'',	// BorderStyle (CSS valid values except 'none')
+'',	// BorderColor ('color') #4D4C76
+3,		// Padding
+'#2F91A6',	// Background ('color','transparent','[image_source]') #237298
+'',		// IEfilter (only transition filters work well - not static filters)
+'border-bottom:5px solid transparent'		// Custom additional CSS for the menu box (valid CSS)
+],[
+// MENU ITEMS STYLE
+0,		// BorderWidth
+'',	// BorderStyle (CSS valid values except 'none')
+'',	// OVER BorderStyle
+'',	// BorderColor ('color')
+'',	// OVER BorderColor
+4,		// Padding
+'#2F91A6',	// Background ('color','transparent','[image_source]')
+'#CCC',	// OVER Background
+'white',	// Color
+'black',	// OVER Color
+'95%',		// FontSize (values in CSS valid units - %,em,ex,px,pt)
+'tahoma,verdana,arial,helvetica,sans-serif',	// FontFamily
+'normal',	// FontWeight (CSS valid values - 'bold','normal','bolder','lighter','100',...,'900')
+'none',		// TextDecoration (CSS valid values - 'none','underline','overline','line-through')
+'none',		// OVER TextDecoration
+'left',		// TextAlign ('left','center','right','justify')
+1,		// ItemsSeparatorSize
+'solid',	// ItemsSeparatorStyle (border-style valid values)
+'#CBCBEF',	// ItemsSeparatorColor ('color','transparent')
+0,		// ItemsSeparatorSpacing
+true,			// UseSubMenuImage (true,false)
+'[v_arrow.gif]',	// SubMenuImageSource ('[image_source]')
+'[v_arrow_over.gif]',	// OverSubMenuImageSource
+7,			// SubMenuImageWidth
+7,			// SubMenuImageHeight
+'7',			// SubMenuImageVAlign ('pixels from item top','middle')
+'solid',		// VISITED BorderStyle
+'',		// VISITED BorderColor
+'',		// VISITED Background
+'',		// VISITED Color
+'none',			// VISITED TextDecoration
+'[v_arrow.gif]',	// VISITED SubMenuImageSource
+'solid',		// CURRENT BorderStyle
+'#CBCBEF',		// CURRENT BorderColor
+'#FFFBF0',		// CURRENT Background
+'#252455',		// CURRENT Color
+'none',			// CURRENT TextDecoration
+'[v_arrow.gif]',	// CURRENT SubMenuImageSource
+'',		// Custom additional CSS for the items (valid CSS)
+'',		// OVER Custom additional CSS for the items (valid CSS)
+'',		// CURRENT Custom additional CSS for the items (valid CSS)
+''		// VISITED Custom additional CSS for the items (valid CSS)
+]];
+
+/******************************************************
+	(3) MENU TREE FEATURES
+*******************************************************/
+
+// Normally you would probably have just one menu tree (i.e. one main menu with sub menus).
+// But you are actually not limited to just one and you can have as many menu trees as you like.
+// Just copy/paste a config block below and configure it for another UL element if you like.
+
+
+c_menus['dynamic_d']=[ // the UL element with id="Menu1"
+[
+// MAIN-MENU FEATURES
+'horizontal',	// ItemsArrangement ('vertical','horizontal')
+'relative',	// Position ('relative','relative','fixed')
+'0',		// X Position (values in CSS valid units- px,em,ex)
+'',		// Y Position (values in CSS valid units- px,em,ex)
+false,		// RightToLeft display of the sub menus
+false,		// BottomToTop display of the sub menus
+0,		// X SubMenuOffset (pixels)
+0,		// Y SubMenuOffset
+'',		// Width (values in CSS valid units - px,em,ex) (matters for main menu with 'vertical' ItemsArrangement only)
+'DD',		// CSS Class (one of the defined in section 2)
+false		// Open sub-menus onclick (default is onmouseover)
+],[
+// SUB-MENUS FEATURES
+0,		// X SubMenuOffset (pixels)
+0,		// Y SubMenuOffset
+'auto',		// Width ('auto',values in CSS valid units - px,em,ex)
+'160px',		// MinWidth ('pixels') (matters/useful if Width is set 'auto')
+'360px',		// MaxWidth ('pixels') (matters/useful if Width is set 'auto')
+'SD',		// CSS Class (one of the defined in section 2)
+false		// Open sub-menus onclick (default is onmouseover)
+]];
+
+
+
+c_menus['dynamic_l']=[ // the UL element with id="Menu1"
+[
+// MAIN-MENU FEATURES
+'vertical',	// ItemsArrangement ('vertical','horizontal')
+'relative',	// Position ('relative','absolute','fixed')
+'0',		// X Position (values in CSS valid units- px,em,ex)
+'',		// Y Position (values in CSS valid units- px,em,ex)
+false,		// RightToLeft display of the sub menus
+false,		// BottomToTop display of the sub menus
+5,		// X SubMenuOffset (pixels)
+0,		// Y SubMenuOffset
+'190px',		// Width (values in CSS valid units - px,em,ex) (matters for main menu with 'vertical' ItemsArrangement only)
+'LL',		// CSS Class (one of the defined in section 2)
+false		// Open sub-menus onclick (default is onmouseover)
+],[
+// SUB-MENUS FEATURES
+5,		// X SubMenuOffset (pixels)
+0,		// Y SubMenuOffset
+'auto',		// Width ('auto',values in CSS valid units - px,em,ex)
+'180',		// MinWidth ('pixels') (matters/useful if Width is set 'auto')
+'360',		// MaxWidth ('pixels') (matters/useful if Width is set 'auto')
+'SL',		// CSS Class (one of the defined in section 2)
+false		// Open sub-menus onclick (default is onmouseover)
+]];
+
+</script>
+<script type="text/javascript" src="/includes/js/c_smartmenus.js"></script><style type="text/css" media="screen,projection,print"></style>
+
+
+<script language="JavaScript">
     <!--
         function popUp(strURL,strType,strHeight,strWidth) {
         var strOptions="";
@@ -24,121 +342,284 @@
         window.open(strURL, 'newWin', strOptions);
     }
     //-->
-    </script>
-    <script type="text/javascript" src="/includes/js/embeddedcontent.js" defer="defer"></script>
-	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
-<script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script><script src="/foresee/foresee-dhtml-popup.js" type="text/javascript" id="foresee-dhtml-popup"></script><link rel="stylesheet" media="screen" type="text/css" href="/foresee/foresee-dhtml.css"></head>
-	
-<body>
+</script>
 
+
+<script language="JavaScript" type="text/javascript" src="/includes/js/curvycorners.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript" src="/includes/js/jquery.min.js"></script>
+<script type="text/javascript" src="/includes/js/jkmegamenu.js">
+	/***********************************************
+	* jQuery Mega Menu- by JavaScript Kit (www.javascriptkit.com)
+	* This notice must stay intact for usage
+	* Visit JavaScript Kit at http://www.javascriptkit.com/ for full source code
+	***********************************************/
+</script>
+<script type="text/javascript">
+	//jkmegamenu.definemenu("anchorid", "menuid", "mouseover|click")
+	jkmegamenu.definemenu("megaanchor", "megamenu1", "mouseover")
+</script>
+
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+
+<script type="text/javascript" src="/foresee/foresee-trigger.js"></script> 
+<script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
+
+<body style="background-image:url(/images/template/bg_banner_about.jpg)">
+
+<a href="#skip" class="hidden">Skip Navigation</a>
 <a name="top"></a>
 
+<div id="header"><a href="/"><img src="/images/template/topbanner.jpg" alt="Genome.gov National Human Genome Research Institute National Institutes of Health" border="0"></a><form id="globalsearch" name="globalsearch" method="post" action="/search.cfm">
+    <div class="hidden"><label for="keyword">Enter word(s) to search</label></div>
+    <input name="keyword" id="keyword" type="text" size="27" style="background: url(&quot;/images/icons/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">&nbsp;<input type="image" src="/images/template/search.gif" alt="Search" name="search_button" id="search_button" value="submit" align="absbottom">
+  </form>
 
+<div id="navigation2">	
+  <ul id="dynamic_d" class="DD">
+    <noscript>
+      <style>
+		#navigation2 ul {margin:0; padding:0}
+		#navigation2 ul ul { display:none }
+		#navigation2 ul li { list-style: none; float:left}	
+	</style>
+    </noscript>
+    
+  <li id="der"><a href="/ResearchFunding/" style="width:134px">Research Funding</a>
+    <ul style="border:2px solid #900" class="SD">
+      <li><a href="/topnavPassthru.cfm?link=/ResearchFunding/" style="background-color:#900; text-decoration:none; color:white">The Division of Extramural Research (DER)</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/12010633">An Overview</a></li>
+	  <li><a href="/topnavPassthru.cfm?link=/27534285">DER Funded Programs</a></li>
+	  <li><a href="/topnavPassthru.cfm?link=/19517564">DER News Features</a></li>
+	  <li><a href="/topnavPassthru.cfm?link=/10005107">ENCODE/modENCODE Project</a></li>    
+	  <li><a href="/topnavPassthru.cfm?link=/10000004">Grants</a></li>     
+      <li><a href="/topnavPassthru.cfm?link=/10001688">International HapMap Project</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/13013963">NIH Roadmap for Medical Research</a></li>
+    
+	  <li><a href="/topnavPassthru.cfm?link=/19518660">Office of Population Genomics</a></li>
+	  <li><a href="/topnavPassthru.cfm?link=/10000375">Online Research Resources</a></li>
+	  <li><a href="/topnavPassthru.cfm?link=/17516564">The Cancer Genome Atlas</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/17515708">The Knockout Mouse Project</a></li>
+      <li class="NOSEPARATOR"><a href="/topnavPassthru.cfm?link=/27530304">The Recovery Act</a></li>
+	  
+      
+    </ul>
+  </li>
+  <li id="dir"><a href="/ResearchAtNHGRI/" style="width:136px">Research at NHGRI</a>
+    <ul style="border:2px solid #997B04" class="SD">
+      <li><a href="/topnavPassthru.cfm?link=/ResearchAtNHGRI/" style="background-color:#997B04; text-decoration:none; color:white">The Division of Intramural Research (DIR)</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10001634">An Overview</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10000010">Branches</a></li>
+      
+      <li><a href="/topnavPassthru.cfm?link=/10000331">Clinical Research</a></li>
+	  <li><a href="/topnavPassthru.cfm?link=/11508889">DIR Calendar</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/19516609">DIR News Features</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/12512879">NHGRI Affiliated Centers</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10001504">Online NHGRI Research Resources</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/12012131">Organizational Chart</a></li>
+	  <li><a href="/topnavPassthru.cfm?link=/12010536">Publications and Books</a></li>
+      <li class="NOSEPARATOR"><a href="/topnavPassthru.cfm?link=/10000297">Research Investigators</a></li>
+      
+    </ul>
+  </li>
+  <li id="health"><a href="/Health/" style="width:62px">Health</a>
+    <ul style="border:2px solid #881374" class="SD">
+      <li><a href="/topnavPassthru.cfm?link=/19016903" style="background-color:#881374; text-decoration:none; color:white">For Patients and the Public:</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27527652">Genetic Disorders, Genomics &amp; Healthcare</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27527653">Genetic and Genomic Science and Research</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10000409">Genetic and Rare Diseases Information Center (GARD)</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/17516481">Family History Initiative</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/11510197">Online Health Resources</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/11008303">Finding Reliable Health Information Online</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27527599" style="background-color:#881374; text-decoration:none; color:white">For Health Professionals:</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27527639">Quick Links for Patient Care</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27527600">Patient Management</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27527634">Curricular Resources</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27527636">New Horizons and Research</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27527637">Genetics 101</a></li>
+      <li class="NOSEPARATOR"><a href="/topnavPassthru.cfm?link=/27527631">Policy and Ethics Issues</a></li>
+      
+    </ul>
+  </li>
+  <li id="education"><a href="/Education/" style="width:82px">Education</a>
+    <ul style="border:2px solid #1D8246" class="SD">
+      
+      <li><a href="/topnavPassthru.cfm?link=/10001772">All About the Human Genome Project</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10000202">Fact Sheets</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10005911">Genetic Education Modules</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27527023">NHGRI Webinar Series</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10506367">National DNA Day</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/25019879">Online Education Kit</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10000464">Online Genetics Education Resources</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/12011706">Speaking About Genetics</a></li>
+      <li class="NOSEPARATOR"><a href="/topnavPassthru.cfm?link=/Glossary">Talking Glossary of Genetic Terms</a></li>
+      
+    </ul>
+  </li>
+  <li id="issues"><a href="/Issues/" style="width:132px">Issues in Genetics</a>
+    <ul style="border:2px solid #4D38A3" class="SD">
+      
+      <li><a href="/topnavPassthru.cfm?link=/19016729">Coverage &amp; Reimbursement of Genetic Tests</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/12510566">Ethics Research at NHGRI</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10002077">Genetic Discrimination</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10002335">Genetic Testing</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10001872">Health Issues in Genetics</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27026588">Informed Consent for Genomics Research</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/19016590">Intellectual Property</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10001744">Online Bioethics Resources</a></li>
+      <li class="NOSEPARATOR"><a href="/topnavPassthru.cfm?link=/PolicyEthics/LegDatabase/pubsearch.cfm">Policy and Legislation Database</a></li>
+      
+    </ul>
+  </li>
+  <li id="newsroom"><a href="/Newsroom/" style="width:84px">Newsroom</a>
+    <ul style="border:2px solid #0B49A7" class="SD">
+      
+      
+      <li><a href="/topnavPassthru.cfm?link=/10000475">Current News Releases</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10000720">Media Contacts</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10000741">Media Resources</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/Multimedia/">Multimedia Gallery <img src="/images/icons/mm.png" alt="" border="0"></a></li>
+	  <li><a href="/topnavPassthru.cfm?link=/10002215">Calendar of Events</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10001292">Event Webcasts</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10005141">Press Photos Gallery</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/17015314">NHGRI-Related News</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10506216">Recent Articles from NHGRI</a></li>
+      <li class="NOSEPARATOR"><a href="/topnavPassthru.cfm?link=/10001350">Speeches &amp; Testimony</a></li>
+      
+    </ul>
+  </li>
+  <li id="careers"><a href="/Careers/" style="width:136px">Careers &amp; Training</a>
+    <ul style="border:2px solid #8F421F" class="SD">
+      
+      <li><a href="/topnavPassthru.cfm?link=/12011083">Educational Programs</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/17517037">Health Professional Education</a></li>
+	    <li><a href="/topnavPassthru.cfm?link=/10005818">Intramural Training Office</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/12012075">Online Careers &amp; Training Resources</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10000212">Training Programs</a></li>
+      <li class="NOSEPARATOR"><a href="/topnavPassthru.cfm?link=/10000383">Working at NHGRI</a></li>
+    
+      
+    </ul>
+  </li>
+  <li id="about"><a href="/About/" style="width:56px" class="selected">About</a>
+    <ul style="border:2px solid #2F91A6" class="SD">
+      
+      <li><a href="/topnavPassthru.cfm?link=/27534788">About the Institute</a></li>
+	   <li><a href="/topnavPassthru.cfm?link=/10000008">Budget and Financial Information</a></li>
+	    <li><a href="/topnavPassthru.cfm?link=/10002900">Contact Us</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/27527308">Director's Page</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10000881">Institute Advisors</a></li>     
+      <li><a href="/topnavPassthru.cfm?link=/10001307">Long-Range Planning</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/10001192">Minority and Special Populations</a></li>
+	   <li><a href="/topnavPassthru.cfm?link=/10000968">Organizational Structure &amp; Offices</a></li>
+      <li class="NOSEPARATOR"><a href="/topnavPassthru.cfm?link=/12010618">Reports &amp; Publications</a></li>
+     
+     
+      
+    </ul>
+  </li>
+  <li id="foryou" class="NOSEPARATOR">
+   <noscript>
+     <style>
+		#foryou a {display:none}
+			
+	</style>
+  </noscript>
+   <a style="width:164px; color:#C00; text-decoration:none; "><img src="/images/icons/person.gif" alt="person" border="0" align="absmiddle"> For You</a>
+    <ul style="border:2px solid #A00" class="SD">
+      <li><a style="background-color:#900; text-decoration:none; color:white">Specialized Information For:</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/Students/">Students</a></li>
+	  <li><a href="/topnavPassthru.cfm?link=/Educators/">Educators</a></li>
+	  <li><a href="/topnavPassthru.cfm?link=/Patients/">Patients</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/HealthProfessionals/">Health Professionals</a></li>
+      <li><a href="/topnavPassthru.cfm?link=/GrantApplicants/">Grant Applicants</a></li>
+      <li class="NOSEPARATOR"><a href="/topnavPassthru.cfm?link=/NewsMedia/">News Media</a></li>
 
-  <div id="header">
-    <div class="hidden">
-    	<a href="#skip">Skip Navigation</a>
-    </div> 
-	<img src="/images/template/header.jpg" alt="" width="770" height="85" border="0" usemap="#HomeMap">
-    <map name="HomeMap" id="HomeMap">
-      <area shape="rect" coords="60,55,211,68" href="http://www.nih.gov" alt="National Institutes of Health" title="National Institutes of Health">
-      <area shape="rect" coords="0,0,525,85" href="/" alt="genome.gov National Human Genome Research Institute" title="genome.gov National Human Genome Research Institute">
-    </map>
-    <div id="search-nav">
-        
-
-	<form action="/search.cfm" id="google" method="post" style="margin-top: 0px; margin-bottom: 0px;">
-        <label for="searchbox"><span class="hidden">Enter keyword</span></label>
-        <input id="searchbox" size="20" type="text" name="keyword" maxlength="100" value="" title="Search genome.gov" style="background: url(&quot;/images/icons/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">&nbsp; 
-        <input style="font-size:100%" type="submit" value="Search">
-	</form>
-
-
-
-	<script type="text/javascript">
-		(function() {
-		var f = document.getElementById('google');
-		if (f && f.keyword) {
-		var q = f.keyword;
-		var n = navigator;
-		var l = location;
-		if (n.platform == 'Win32') {
-		q.style.cssText = 'border: 1px solid #7e9db9; padding: 2px;';
-		}
-		var b = function() {
-		if (q.value == '') {
-		q.style.background = '#FFFFFF url(/images/icons/google_custom_search_watermark.gif) left no-repeat';
-		}
-		};
-		var f = function() {
-		q.style.background = '#ffffff';
-		};
-		q.onfocus = f;
-		q.onblur = b;
-		if (!/[&?]q=[^&]/.test(l.search)) {
-		b();
-		}
-		}
-		})();
-    </script>
-        <br><br style="line-height:30px">
-        <a href="/">Home</a> | <a href="/About/">About NHGRI</a> | <a href="/Media/">Newsroom</a> | <a href="/staffSearch.cfm">Staff</a>
-    </div>
-  </div>
-
-<div id="navigation" style="background-image:url(/Images/topnav/navback_about.gif); background-repeat:repeat-x">
- <img src="/images/spacer.gif" width="3" height="43" alt="" border="0" align="left" vspace="0" hspace="0">
-  <ul>
-  	 <li><a href="/Research/" title="Research" style="background:url(/Images/topnav/navabout_research.jpg); width:133px;"><span class="hidden">Research</span></a></li>
-     <li><a href="/Grants/" title="Grants" style="background:url(/Images/topnav/navabout_grants.jpg); width:130px;"><span class="hidden">Grants</span></a></li>
-     <li><a href="/Health/" title="Health" style="background:url(/Images/topnav/navabout_health.jpg); width:134px;"><span class="hidden">Health</span></a></li>
-     <li><a href="/PolicyEthics/" title="Policy &amp; Ethics" style="background:url(/Images/topnav/navabout_policy.jpg); width:133px;"><span class="hidden">Policy &amp; Ethics</span></a></li>
-     <li><a href="/Education/" title="Educational Resources" style="background:url(/Images/topnav/navabout_education.jpg); width:135px;"><span class="hidden">Educational Resources</span></a></li>
-     <li><a href="/Careers/" title="Careers &amp; Training" style="background:url(/Images/topnav/navabout_careers.jpg); width:133px;"><span class="hidden">Careers &amp; Training</span></a></li>
-  </ul>
+      
+    </ul>
+  </li>
+ </ul>
+</div>
+    
+  
 </div>
 
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-  <tbody><tr valign="top">
-    <td width="20"><img src="/Images/spacer2.gif" width="20" height="20" alt="" border="0"></td>
-    <td width="100%"><br>
+<div id="pagecontent"> 
   
-    <table width="100%" cellspacing="0" cellpadding="0" border="0">
-      <tbody><tr valign="top">
-        <td width="80%">
-        <a href="/">Home</a><img src="/Images/bullet.gif" alt="right arrow" width="13" height="11" border="0"><a href="http://www.genome.gov/10000007">About NHGRI</a> <img src="/Images/bullet.gif" alt="right arrow" width="13" height="11" border="0"><strong class="redtext">Web Site Privacy Policy</strong></td>
-        
-        <td width="5%"><img src="/Images/spacer2.gif" width="20" height="5" alt="" border="0"><br></td>
-        <td width="15%"> 
-  <div style="width:170px">
+    <div id="breadcrumbs">
+                   
+    <a href="/" style="color:#069">Home</a><img src="/images/bullet.gif" alt="right arrow" border="0" hspace="1"><a href="http://www.genome.gov/10000007" style="color:#069">About</a><img src="/images/bullet.gif" alt="right arrow" border="0" hspace="1"><strong>Web Site Privacy Policy</strong>
+	</div>
+  
+  <a name="skip"></a> 
+
+<div id="mid-wrapper-nonav">
+<div><img src="/images/template/roundcorners_nonav_top.gif" border="0" alt="" style="margin:0;padding:0;"></div>
+<div id="maincontent">
+
+
+
+
+  <div id="right-column">
+  
+  
     <div id="share_button">
       <script type="text/javascript">
 		var addthis_pub  = "genome"; 
 		var addthis_brand = "Genome.gov";
-		var addthis_hover_delay = 0;
-		var addthis_offset_top = -16;
-		var addthis_offset_left = -2;
-		var addthis_exclude = 'print';
-    </script>
+		var addthis_config = {
+     		ui_delay: 100,
+			ui_offset_top: -10,
+     		ui_offset_left: 0,
+			services_exclude: 'print, friendster'
+		}
+      </script>
       <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()">Share this page</a>
-      <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
     </div>
     <div id="print_button">
       
+      
+
         <a href="/pfv.cfm?pageID=10003453">Print</a>
+
+        
+      
         
     </div>
-  </div>
-</td>
-      </tr>
-    </tbody></table><br>
 
-  	
-    
-    <a name="skip"></a>
-    
-	<h3>Web Site Privacy Policy</h3>
+  <br>
+  <br>
+  
+</div> <h3>Web Site Privacy Policy</h3>
 <p>Thank you for visiting the National Human Genome Research Institute (NHGRI) Web site. This site does not collect personal information about users, other than information automatically collected and stored when someone visits our Web site, or you choose to provide that information to us (see below).</p>
 <h4>Information Automatically Collected and Stored</h4>
 <p>When you browse through any Web site, certain information can be collected. We automatically collect and store the following information about your visit:</p>
@@ -169,43 +650,46 @@
 <hr color="#CCCCCC" size="1">
 
 <p><em>Last Reviewed: June 19, 2009</em></p>
-<br>
-    <br></td>
-    <td width="15"><img src="/Images/spacer2.gif" width="15" height="20" alt="" border="0"></td>
-    
-  </tr>
-</tbody></table>
 
-
-<div id="footer">
-  <div style="float:left">
-	<a href="/privacy.cfm" style="margin-left:22px">Privacy</a>
-    <img src="/Images/footer/link_separator.gif" alt="" border="0">
-    <a href="/12514471">Copyright</a>
-    <img src="/Images/footer/link_separator.gif" alt="" border="0">
-    <a href="/10002900">Contact</a>
-    <img src="/Images/footer/link_separator.gif" alt="" border="0">
-    <a href="/accessibility.cfm">Accessibility</a>
-    <img src="/Images/footer/link_separator.gif" alt="" border="0">
-    <a href="/siteIndex.cfm">Site Map</a>
-    <img src="/Images/footer/link_separator.gif" alt="" border="0">
-    <a href="/staffSearch.cfm">Staff Directory</a>
-    <img src="/Images/footer/link_separator.gif" alt="" border="0">
-    <a href="http://www.nhlbi.nih.gov/about/foia.htm">FOIA</a>
-	
-    	<img src="/Images/footer/link_separator.gif" alt="" border="0">
-    	<a href="/">Home</a>
-    
-  </div>
-  <div style="margin-left:575px;">
-    <a href="http://www.os.dhhs.gov/" title="Department of Health and Human Services"><img src="/Images/footer/HHS_40x40.jpg" alt="Department of Health and Human Services" border="0"></a>&nbsp; 
-    <a href="http://www.nih.gov/" title="National Institutes of Health"><img src="/Images/footer/NIH_40x40.gif" alt="National Institutes of Health" border="0"></a>&nbsp; 
-    <a href="http://www.usa.gov" title="USA.gov"><img src="/Images/footer/usagov_100x40.jpg" alt="USA.gov" border="0"></a>
-  </div>
 </div>
+<div><img src="/images/template/roundcorners_nonav_bottom.gif" border="0" alt="" style="margin:0;padding:0;"></div>
+</div> </div>
+
+<div id="globalfooter"> <a href="/privacy.cfm">Privacy</a> &nbsp;|&nbsp; <a href="/copyright.cfm">Copyright</a> &nbsp;|&nbsp; <a href="/contact.cfm">Contact</a> &nbsp;|&nbsp; <a href="/accessibility.cfm">Accessibility</a> &nbsp;|&nbsp; <a href="/sitemap.cfm">Site Map</a> &nbsp;|&nbsp; <a href="/staffDirectory.cfm">Staff Directory</a> &nbsp;|&nbsp; <a href="http://www.nhlbi.nih.gov/about/foia.htm">FOIA</a> 
+  <br>
+  <br>
+  <a href="http://www.os.dhhs.gov/"><img src="/images/template/footer_HHS.jpg" alt="Department of Health and Human Services" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nih.gov/"><img src="/images/template/footer_NIH.jpg" alt="National Institutes of Health" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.usa.gov"><img src="/images/template/footer_USAgov.jpg" alt="USA.gov" border="0"></a> </div>
 
 
+<script type="text/javascript">
+		(function() {
+		var f = document.getElementById('globalsearch');
+		if (f && f.keyword) {
+		var q = f.keyword;
+		var n = navigator;
+		var l = location;
+		if (n.platform == 'Win32') {
+		q.style.cssText = 'border: 1px solid #7e9db9; padding: 2px;';
+		}
+		var b = function() {
+		if (q.value == '') {
+		q.style.background = '#FFFFFF url(/images/icons/google_custom_search_watermark.gif) left no-repeat';
+		}
+		};
+		var f = function() {
+		q.style.background = '#ffffff';
+		};
+		q.onfocus = f;
+		q.onblur = b;
+		if (!/[&?]q=[^&]/.test(l.search)) {
+		b();
+		}
+		}
+		})();
+</script>
 
+
+<script type="text/javascript" src="https://s7.addthis.com/js/152/addthis_widget.js"></script>
 
 
 </body></html>
