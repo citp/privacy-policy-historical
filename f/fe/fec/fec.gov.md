@@ -1,6 +1,28 @@
-> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812224618id_/http%3A//www.fec.gov/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620005914id_/http%3A//www.fec.gov/privacy.shtml) for the most accurate reproduction.*
 
 # FEC Website Privacy Policy
+
+## Introduction
+
+The Privacy Program at the Federal Election Commission is overseen by Co-Chief Privacy Officers Lawrence L. Calvert (Associate General Counsel, General Law and Advice) and Alec Palmer (Acting Staff Director/Chief Information Officer). The Agency's Privacy Act regulations, codified at 11 CFR 1.1, et seq. may be found on the Commission's website at: [http://www.fec.gov/law/cfr/cfr_2009.pdf](https://web.archive.org/web/20100620005914id_/http%3A//www.fec.gov/law/cfr/cfr_2009.pdf). The Commission's current systems of records notices may be found in Volume 73, No.1 of the Federal Register, or on the Commission's website at:[ http://www.fec.gov/law/cfr/ej_compilation/2008/notice_2007-28.pdf](https://web.archive.org/web/20100620005914id_/http%3A//www.fec.gov/law/cfr/ej_compilation/2008/notice_2007-28.pdf). 
+
+If you would like to make a Privacy Act records request, or have any privacy-related complaints, comments, questions or concerns, please contact the Privacy Program at: 
+
+### By Mail
+
+Federal Election Commission  
+Attn: Co-Chief Privacy Officers  
+4th Floor  
+999 E Street, NW  
+Washington, DC 20463
+
+### By Electronic Mail
+
+Privacy@fec.gov
+
+The Commission's Website Privacy Policy is as follows:
+
+## Website Privacy Policy
 
 The privacy of our customers has always been very important to the Federal Election Commission. We do not require individuals to identify themselves when they come to our offices or contact us by phone. Our concern for your privacy continues in the electronic age. That view underlies our policy, stated below: 
 
