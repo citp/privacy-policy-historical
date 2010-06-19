@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotornot.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406060514id_/http%3A//www.hotornot.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotornot.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619132203id_/http%3A//www.hotornot.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 
 #### 1\. Introductory Statement
 
-By accepting this Privacy Policy and our Terms and Conditions of Use ("Terms of Use"), you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use. 
+By accessing the Service (as defined below), you accept this Privacy Policy and you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use. 
 
 Eight Days, Inc. ("we", "us"), which owns and operates the hotornot.com web site (our "Site"), has created this privacy policy (the "Privacy Policy") as part of our commitment to helping our users better understand what information we collect about them and what we may do with that information. The following discloses our information gathering and dissemination practices for our Site. 
 
@@ -15,13 +15,13 @@ We understand the concerns that you may have about your privacy and respect your
 
 #### 2\. A Special Note About Children
 
-Children are not eligible to use our Service. We ask that minors (under the age of 18) not submit any personal information to us. We do not knowingly collect any personal information from children under the age of 13.
+Children are not eligible to use our Service. We ask that minors (under the age of 18) not submit any personal information to us. We do not knowingly collect any personal information from persons under the age of 18.
 
 #### 3\. Information We Collect
 
 _Our primary goal in collecting personal information is to provide you with a smooth, efficient and customized experience. This allows us to provide services and features and to customize our Service to make your experience better._
 
-We collect two types of information: personally identifiable information (PII) and non-personally identifiable information (Non-PII), which is also referred to as aggregate and anonymous data. We collect this information in a variety of ways through the features provided on our Sites, such as registration, when you communicate or otherwise interact with us, contests or promotions, or when you purchase a product or service through our Site. Providing us with PII is your choice, and you can always choose not to provide certain information, but then you may not be able to take advantage of some of the Site's features. 
+We collect two types of information: personally identifiable information ("PII") and non-personally identifiable information ("Non-PII"), which is also referred to as aggregate and anonymous data. We collect this information in a variety of ways through the features provided on our Sites, such as registration, when you communicate or otherwise interact with us, contests or promotions, or when you purchase a product or service through our Site. Providing us with PII is your choice, and you can always choose not to provide certain information, but then you may not be able to take advantage of some of the Site's features. 
 
 **(a) Personally Identifiable Information**
 
@@ -33,13 +33,13 @@ Non-PII is information that is anonymous or not linked to a particular person su
 
 **(c) User Profiles**
 
-You agree that we may feature your public profile information, in, among other places, editorials and newsletters that we may periodically send out to our users. **Your non-public profile information including real name, email address, postal address and telephone number are confidential and will not be posted by us in your profile or used in any editorial or newsletter feature.** The Terms of Use prohibit you from including such information in your profile. Your profile is available for view on our Site, by both registered users and anonymous visitors who view our Site. Users' profiles include a description, photos, likes and dislikes, individual essays, and other information helpful in rating and communicating with that user. Your viewable profile does not include any identifying information about you, except the photo(s) you choose to submit and the username you chose upon registering. 
+You agree that we may feature your public profile information, in, among other places, editorials and newsletters that we may periodically send out to our users. Your profile is available for view on our Site, by both registered users and anonymous visitors who view our Site. Users' profiles include a description, photos, likes and dislikes, individual essays, and other information helpful in rating and communicating with that user. Your viewable profile does not include any identifying information about you, except the photo(s) you choose to submit and the username you chose upon registering. 
 
 **(d) Use of Cookies**
 
-We use data collection and persistence devices such as "cookies" on certain pages of our Site for practical purposes. "Cookies" are small files placed in memory and/or disk on your computer that assist us in providing customized services and better functionality as you move from page to page within our Site. Cookies make the personalization of your Internet experiences possible. For example, without the use of cookie files, it would be virtually impossible for us to remember your username and password as you click from page to page and you would need to log-in over and over again as you interact with pages of site that need to know who you are what actions you have taken in previous pages of a session. We also offer certain features that are only available through the use of a "cookie. You are always free to decline our cookies if your browser permits; however, many aspects of our Service may not work properly without them. 
+We use data collection and persistence devices such as "cookies" on certain pages of our Site for practical purposes. "Cookies" are small files placed in memory and/or disk on your computer that assist us in providing customized services and better functionality as you move from page to page within our Site. Cookies make the personalization of your Internet experiences possible. For example, without the use of cookie files, it would be virtually impossible for us to remember your username and password as you click from page to page and you would need to log-in over and over again as you interact with pages of the Site that need to know who you are or what actions you have taken in previous pages of a session. We also offer certain features that are only available through the use of a "cookie." You are always free to decline our cookies if your browser permits; however, many aspects of our Service may not work properly without them. 
 
-**Web Beacons and Web Bugs**
+**(e) Web Beacons and Web Bugs**
 
 Generally, a Web beacon consists of a small string of software code that represents a graphic image request on a Web page in an email message. There may or may not be a visible graphic image associated with the Web beacon and often the image is designed to blend into the background of a Web page or email. Web beacons can be used for many purposes - including site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization. The Web beacons on our Site collect only Non-PII or anonymous data. We may use Web beacons to do the following: count users who have visited specific pages or access certain cookies; monitor traffic and conversion patterns through our various product and other offerings on our Site; personalize your experience when you visit our Site, including the advertising content you see; and determine whether or not messages were opened, links were clicked or notifications/offers were acted upon. 
 
@@ -53,15 +53,17 @@ We use information in the files we maintain about you, and the other information
 
 You agree that we may use PII to improve our marketing and promotional efforts, to analyze Site usage, improve our content and product offerings, and customize our Site's content, layout, and services. These uses improve our Site and may better tailor it to meet your needs. 
 
-You agree that we may use your information to contact you and to deliver information to you regarding your account, administrative notices, newsletters and/or alerts for which you have opted-in and may cancel at any time, product offerings and communications relevant to your use of the Site. We collect all email addresses that you provide to us, and communicate with you via email in accordance with your preferences. When creating a user profile, you select the notifications that you wish to receive from us. For users that pay for our subscription service, we occasionally notify those users by email about account renewal dates, cancellations, changes in service or other operational concerns fundamental to the delivery of a high quality paid experience. We do not share your email address with any other users of our Site, including paid subscribers. While we may maintain a copy of your email address if you send us an unsolicited email inquiry, we will not alter the email notifications that you have selected. 
+You agree that we may use your information to contact you and to deliver information to you regarding your account, administrative notices, newsletters and/or alerts for which you have opted-in and may cancel at any time, product offerings, targeted advertising on behalf of us and third-parties and communications relevant to your use of the Site. You agree to receive commercial e-mail messages from us, and acknowledge and agree that your e-mail addresses and other personal information may be used by us for the purpose of initiating commercial e-mail messages. We collect all email addresses that you provide to us, and communicate with you via email in accordance with your preferences. When creating a user profile, you select the notifications that you wish to receive from us. For users that pay for our subscription service, we occasionally notify those users by email about account renewal dates, cancellations, changes in service or other operational concerns fundamental to the delivery of a high quality paid experience. We do not share your email address with any other users of our Site, including paid subscribers. While we may maintain a copy of your email address if you send us an unsolicited email inquiry, we will not alter the email notifications that you have selected. 
 
-If you do not wish to receive all of these communications, you may opt out of the receipt of certain communications when creating or editing your user profile or by clicking "unsubscribe" in any email communications from us. By accepting this Privacy Policy and not changing your notification preferences, you expressly agree to receive this information. To edit this information you can, at any time, log-in to your account and go to the "Edit Account Settings" section of the profile where each key type of personal information and opt-in is clearly displayed and easy to change. You can also learn more about opting out of these communications by reading the Frequently Asked Questions section of our online Help area ( <http://www.hotornot.com/pages/faq.html> ). 
+In addition, as a subscriber to the Site and/or in agreeing to receive email marketing from us, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule, 16 CFR Â§310 et seq. (the "Rule"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the Rule. 
+
+If you do not wish to receive all of these communications, you may opt out of the receipt of certain communications when creating or editing your user profile or by clicking "unsubscribe" in any email communications from us. By accepting this Privacy Policy and not changing your notification preferences, you expressly agree to receive this information. To edit this information you can, at any time, log-in to your account and go to the "Account Settings" section of your profile and then click on the email preferences link. You can also learn more about opting out of these communications by reading the Frequently Asked Questions section of our online Help area (<http://www.hotornot.com/pages/faq.html>). 
 
 #### 6\. Our Disclosure of Your Information
 
 Due to the regulatory environment in which we operate, we cannot ensure that all of your private communications and other PII will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting any of the foregoing), we may be required to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your information that they collect from our Site. Accordingly, although we use industry standard practices to protect your privacy, we do not guarantee, and you should not expect, that your PII or private communications will always remain private. 
 
-As a matter of policy, we do not sell or rent any PII about you to any third party. However, the following describes some of the ways that your PII may be used or disclosed. 
+The following describes some of the ways that your PII may be used or disclosed. 
 
 **Financial Information**
 
@@ -69,7 +71,7 @@ Under some circumstances we may require certain additional information, includin
 
 **Advertisers**
 
-We may aggregate (gather up data across multiple users' accounts) PII and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. However, in these situations, we would not disclose to these entities any information that could be used to identify you personally. We do not disclose PII, such as your name, email address, password, credit card number and bank account number, are never disclosed to marketing advertisers. 
+We may disclose PII information to advertisers and other third parties for marketing and promotional purposes. You agree that we may transfer personally identifiable information about you to third party marketing partners who may then contact you based on that information. We do not disclose your credit card number or bank account number to marketing advertisers. Moreover, by registering with, or requesting information from, a third-party advertiser at or through the Site, such action shall constitute an inquiry and/or application with the respective third-party advertiser for purposes of the Rule and you may be contacted via email, direct mail and/or telemarketing by such third-party advertiser in accordance with the Rule. 
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and to better manage the advertising on our Site. For example, the companies typically gather data about consumers who view their ads. That data is anonymous - linked only to a numbered cookie on a user's computer. Networks collect and analyze this data to make a variety of inferences about each consumer's interests and preferences. The result is a profile that attempts to predict the individual consumer's tastes, needs, and purchasing habits. That profile enables the advertising companies' computers to make split-second decisions about how to deliver ads directly targeted to the consumer's specific interests. This is called online preference marketing. 
 
@@ -77,7 +79,7 @@ Some advertisers also track and analyze anonymous usage and browsing patterns of
 
 **Other Corporate Entities**
 
-We may share much of our data, including PII about you, with our parent, subsidiary and other affiliated companies (each an "Affiliate") that are committed to serving your online needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. Our Affiliates will follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. It is possible that we or one or more of our Affiliates, or any combination of such, could merge with or be acquired by another business entity. In connection with the due diligence review involving such a potential transaction, we may share some or all of your PII with potential acquirers, merger partners or investors, and their agents (including professionals). We would require that these third parties sign non-disclosure agreements and would endeavor to disclose as little PII as possible. Should such a combination then in fact occur, you should expect that we would share some or all of your information in order to continue to provide the Service. 
+We may share all of our information, including PII, about you with our parent, subsidiary and other affiliated companies (each an "Affiliate") that are committed to serving your online needs and related services, throughout the world. Our Affiliates maintain and follow their own privacy policies which govern the use of PII. It is possible that we or one or more of our Affiliates, or any combination of such, could merge with or be acquired by another business entity. In connection with the due diligence review involving such a potential transaction, we may share some or all of your PII with potential acquirers, merger partners or investors, and their agents (including professionals). We would require that these third parties sign non-disclosure agreements and would endeavor to disclose as little PII as possible. If we are sold to or merge with another company or declare bankruptcy, some or all of the information collected from you, including PII, may be transferred to a third party as a result of the transfer of assets. 
 
 **Legal Requests**
 
@@ -85,13 +87,13 @@ We cooperate with law enforcement inquiries, as well as other third parties to e
 
 #### 7\. Your Use of Other Users Information
 
-Our Service also includes access to instant messaging and chat rooms. As a user you have access to users' user names, and you might gain access to other contact information of other users through the regular use of the Service. By accepting this Privacy Policy, you agree that, with respect to other users' PII that you obtain through the Service, we hereby grant to you a license to use such information only for: (a) communications related to the Site that are not unsolicited commercial messages, and (b) any other purpose to which such user expressly agrees after complete disclosure of the purpose. In all cases, you must give users an opportunity to remove themselves from your database. In addition, under no circumstances, except as defined in this Privacy Policy, may you disclose PII about another user to any third party without our consent and the consent of such other user after adequate disclosure. We and our users do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a Site user to your mail list (email or physical mail) without their express consent after adequate disclosure of your intentions. 
+Our Service also includes access to instant messaging and chat rooms. As a user you have access to users' user names, and you might gain access to other contact information of other users through the regular use of the Service. By accepting this Privacy Policy, you agree that, with respect to other users' PII that you obtain through the Service, we hereby grant to you a license to use such information only for: (a) communications related to the Site that are not unsolicited commercial messages, and (b) any other purpose to which such user expressly agrees after complete disclosure of the purpose. In all cases, you must give users an opportunity to remove themselves from your database. In addition, under no circumstances, except as defined in this Privacy Policy, may you disclose PII about another user to any third party without our consent and the consent of such other user after adequate disclosure. We and our users do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a Site user to your mail list (email or physical mail) without their express consent after adequate disclosure of your intentions.
 
 #### 8\. Accessing, Reviewing and Changing Your Profile
 
-Following registration, you can review and update the information you submitted during registration by logging-in and going to the "Edit Account Settings" section of your profile (this section is clearly labeled in the left-hand navigation bar that is part of all profile pages). You are always free to change your password and email address, name, address, city, state, zip code, country, phone number, profile, likes and dislikes (keywords), desired date profile, personal descriptions/essays, HotLists™ StylePix™ and saved search criteria. If you change you password and/or email address, we will retain a record of your old password and email address. 
+Following registration, you can review and update the information you submitted during registration by logging-in and going to the "Account Settings" section of your profile (this section is clearly labeled in the left-hand navigation bar that is part of all profile pages). You are always free to change your password and email address, name, address, city, state, zip code, country, phone number, profile, likes and dislikes (keywords), desired date profile, personal descriptions/essays, HotLists™ StylePix™ and saved search criteria. If you change your password and/or email address, we will retain a record of your old password and email address. 
 
-Upon your notification, we will remove your profile from our active databases as soon as reasonably possible in accordance with our policy and applicable law. To hide or remove your profile so that others cannot view it, log-in to your profile and go to the "Edit Account Settings" section of your profile (this section is clearly labeled in the left-hand navigation bar that is part of all profile pages). 
+Upon your notification, we will remove your profile from our active databases as soon as reasonably possible in accordance with our policy and applicable law. To deactivate your profile so that others cannot view it, log-in to your profile and go to the "Account Settings" section of your profile (this section is clearly labeled in the left-hand navigation bar that is part of all profile pages). From there, click "Personal Info" and then "click the "deactivate" link. 
 
 We will retain in our files information you have requested be removed from our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information may never be completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your PII will be completely removed from our databases in response to any request you may submit. 
 
@@ -109,17 +111,27 @@ We treat data as an asset that must be protected against loss and unauthorized a
 
 #### 12\. Notice
 
-We may change this Privacy Policy from time to time based on changes in the law, your comments, or our need to accurately reflect our data collection and disclosure practices. We will notify you about significant changes in the way we treat personal information by sending you a notice via email or by placing a prominent notice on our Site.
+We may change this Privacy Policy from time to time based on changes in the law, your comments, or our need to accurately reflect our data collection and disclosure practices. We will notify you about significant changes in the way we treat personal information by sending you a notice via email or by placing a prominent notice on our Site. All changes will be posted on this page and we recommend that you check it regularly.
 
-#### 13\. How to Contact Us
+#### 13\. Canada's Personal Information Protection and Electronic Documents Act
 
-If you have any questions about this Privacy Policy or our information-handling practices, please contact us by email or postal mail as follows: 
+The Canadian government has enacted the Personal Information Protection and Electronic Documents Act. That Act outlines the way personal information may be used in Canada, and we fully adhere to it. That Act defines personal information as anything that identifies an individual, such as, for example, their name, telephone number, age, home address, email address, gender. You may at any time contact us regarding our use of your personal information by using the Contact Form referred to below or at the mailing address referred to below (you may also change your personal information usage profile by accessing the "Manage Profile" or "Message Center" sections of your Ad Profile).
+
+#### 14\. California Privacy Rights
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliatesâ€™ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice.
+
+#### 15\. How to Contact Us
+
+If you have any questions about this Privacy Policy or our information-handling practices, please contact us by email or postal mail as follows:
 
 Privacy Officer  
-Eight Days, Inc.  
-617 Front St. San Francisco, CA 94111  
-[privacy at hotornot dot com](mailto:privacy@hotornot.com)
+HOT or NOT Inc.  
+P.O. Box 7775 #31865  
+San Francisco, CA 94120-7775  
+USA  
+[privacy AT hotornot DOT COM](mailto:privacy@hotornot.com)
 
-© 2008 Eight Days, Inc.  
+© 2009 Eight Days, Inc.  
 All rights reserved  
-Last Updated June 15, 2008. 
+Last Updated August 13, 2009. 
