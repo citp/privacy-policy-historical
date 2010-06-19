@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the blippr.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429093615id_/http%3A//www.blippr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blippr.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619115032id_/http%3A//www.blippr.com/privacy) for the most accurate reproduction.*
 
-# blippr.com
+# Privacy policy on blippr
+
+## short version first
 
 We really, really, really care about your privacy. Some of the basics of our policy include:
 
@@ -38,9 +40,3 @@ Additionally, blippr may serve ads through the Google AdSense program, which use
 ## privacy policy changes
 
 Although most changes are likely to be minor, blippr may change its Privacy Policy from time to time, and in blippr’s sole discretion. blippr encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-## giving credit to whom credit is due
-
-[](http://creativecommons.org/licenses/by-sa/3.0/)
-
-This legal stuff was inspired by the kind folks over at Automattic (a.k.a. [WordPress.com](http://wordpress.com/)) who made [their Terms of Service](http://wordpress.com/tos/) available under a Creative Commons Sharealike license, which means you’re more than welcome to steal it and repurpose it for your own use. So we did. Feel free to do the same if you’re interested.
