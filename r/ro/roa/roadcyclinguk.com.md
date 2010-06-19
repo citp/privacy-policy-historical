@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the roadcyclinguk.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219215508id_/http%3A//www.roadcyclinguk.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadcyclinguk.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619232821id_/http%3A//www.roadcyclinguk.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # RoadCyclingUK - Privacy Policy
+
+You are looking at: [Home](https://web.archive.org/default.asp?sp=&v=1) : [](https://web.archive.org/members/mydetails.asp?sp=&v=1)Privacy Policy
 
 |   
 ---  
@@ -31,6 +33,3 @@ In addition to the uses made of information collected outlined above, all of the
   
 Is the RCUK redesign an improvement?  
 [Click here](https://web.archive.org/forum/forummessages.asp?dt=3&UTN=118103&V=8) to tell us what you think about it in the forum 
-
-Do you think spending money at an [online casino](http://www.gamblingplanet.org/) is a waste of time and cash? Would you ever consider signing up to play at one of the rooms?  
-[Click here](http://www.roadcyclinguk.com/forum/forummessages.asp?dt=4&UTN=118397&V=8&SP=) to discuss 
