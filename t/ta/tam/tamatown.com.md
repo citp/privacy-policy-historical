@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamatown.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206080241id_/http%3A//www.bandai.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamatown.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619093309id_/http%3A//www.bandai.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Bandai.com - Privacy Policy: find toys for Power Rangers, Ben 10, Dragon Ball, Tamagotchi, and Action Figures
 
