@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desicomments.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022356id_/http%3A//www.desicomments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desicomments.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619080420id_/http%3A//www.desicomments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesiComments.com
 
