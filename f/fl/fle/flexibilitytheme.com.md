@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexibilitytheme.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521204512id_/http%3A//www.flexibilitytheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexibilitytheme.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619133832id_/http%3A//www.flexibilitytheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
