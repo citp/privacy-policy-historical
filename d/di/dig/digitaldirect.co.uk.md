@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219034003id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620012131id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Direct
 
@@ -42,6 +42,6 @@ Digital Direct does not sell, trade or rent your personal information to others.
 In accordance with the Privacy & Electronic Communications Act passed into law in December 2003, Digital Direct do not send random marketing emails to personal email addresses ('spam').  
 Digital Direct conform with the requirements of the Data Protection Act, 1998. 
 
-Should you have any queries with regard our privacy policy then please contact us at privacy@digitaldirect.uk.com
+Should you have any queries with regard our privacy policy then please contact us at privacy@digitaldirect.co.uk
 
 [](http://www.addthis.com/bookmark.php)
