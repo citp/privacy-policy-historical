@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officeautopilot.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219161000id_/http%3A//www.officeautopilot.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeautopilot.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619233454id_/http%3A//www.officeautopilot.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OfficeAutopilot
 
