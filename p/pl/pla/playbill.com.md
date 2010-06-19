@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the playbill.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504100224id_/http%3A//www.playbill.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playbill.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619120548id_/http%3A//www.playbill.com/about/privacy.html) for the most accurate reproduction.*
 
 # Playbill: Privacy Policy
+
+[](http://www.playbill.com/openx/www/delivery/ck.php?oaparams=2__bannerid=2543__zoneid=5__source=about%7Cros%7Celse__cb=66b310cc01__oadest=http%3A%2F%2Fwww.playbill.com%2Fplayblog%2F)
 
 * * *
 
@@ -60,10 +62,6 @@ Playbill
 New York, NY 10018  
 Updated: March 16, 2008
 
-[Contact Us](http://www.playbill.com/about/contact.html) | [Advertise](http://www.playbill.com/about/advertise.html) | [Privacy Policy](http://www.playbill.com/about/privacy.html)
+* * *
 
-Send questions and comments to the [Webmaster](mailto:webmaster@playbill.com)  
-Copyright © 2009 Playbill, Inc. All Rights Reserved. 
-
-  
-
+* * *
