@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the apropos-conservatories.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627084420id_/http%3A//www.apropos-conservatories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apropos-conservatories.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619233246id_/http%3A//www.apropos-conservatories.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Apropos - Privacy Policy
 
-#### data protection act
+#### Data protection act
 
-This is the Apropos Tectonic privacy statement which applies to the entire website. Any future changes will be posted on this website. We have structured our website so that, in general, you can visit it without identifying yourself or revealing any personal information. If however, you choose to provide us with any information by which you can be identified, then you can be assured that it will only be used in accordance with this privacy statement. We are registered under the Data Protection Act 1998.
+This is the apropos tectonic privacy statement which applies to the entire website. Any future changes will be posted on this website. We have structured our website so that, in general, you can visit it without identifying yourself or revealing any personal information. If however, you choose to provide us with any information by which you can be identified, then you can be assured that it will only be used in accordance with this privacy statement. We are registered under the Data Protection Act 1998.
 
-#### data collection
+#### Data collection
 
 We may collect the following information:
 
@@ -43,7 +43,7 @@ If you have not advised us otherwise, when using this site you are agreeing that
 
 If you have not previously objected to us using your personal information for either of these purposes you may change your mind at any time by writing to us at:
 
-Apropos Tectonic  
+apropos tectonic  
 Greenside House  
 Richmond Street  
 Ashton Under Lyne  
