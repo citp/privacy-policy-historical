@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the dropjack.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217074922id_/http%3A//www.dropjack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropjack.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619195529id_/http%3A//www.dropjack.com/privacy.php) for the most accurate reproduction.*
 
-# DropJack Social News Network :: Article and News Content Website
+# Dropjack |
 
 ## **DropJack Privacy Policy Overview**
 
 This Privacy Policy covers DropJack's treatment of personal information that is recorded when you register for membership and submit comments and/or news content for inclusion in our database.
 
-Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the DropJack web site, nor does it extend to people that DropJack does not employ or manage. 
-
-
-
+Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the DropJack web site, nor does it extend to people that DropJack does not employ or manage.
 
 ## **Information Collection and Use**
 
@@ -21,15 +18,13 @@ We ask for your email address so that we can inform you of updates or changes to
 
 The other way we collect information is through the use of cookies. When you register with DropJack, a "cookie" may be placed on your computer. Cookies are bits of information that a web site places on your computer's hard drive for record-keeping and activity-tracking purposes. Cookies cannot be used to learn your identity unless you have previously provided that information to that web site or your web browser automatically provides that information. 
 
-In conjunction with the registration information you provide, cookies help us recognize you when you return to the site, and they let you avoid having to log-in each time you visit. Moreover, cookies may be helpful in helping us determine the direction of future upgrades and enable us to better personalize our service to match your interests. The only other information collected is the data recorded on our server log files. Typically this information includes IP address, browser type, domain name, referral URL, country of origin, pages visited, entry points, and exit points, but this data is NOT correlated in any fashion to personally identifying information.
+In conjunction with the registration information you provide, cookies help us recognize you when you return to the site, and they let you avoid having to log-in each time you visit. Moreover, cookies may be helpful in helping us determine the direction of future upgrades and enable us to better personalize our service to match your interests. 
 
-
-
+The only other information collected is the data recorded on our server log files. Typically this information includes IP address, browser type, domain name, referral URL, country of origin, pages visited, entry points, and exit points, but this data is NOT correlated in any fashion to personally identifying information.
 
 ## **Protecting Your Privacy on DropJack**
 
 As a registered user you are able to not just submit and rate news, you are also able to post comments. Please be aware that your posted comments are publicly accessible. Caution should be exercised in disclosing any personal details. Although it is not uncommon for email addresses to be included in comment posts, it is not required. The same is true of any personal information.
-
 
 ## **Security**
 
@@ -37,25 +32,18 @@ Any information you provide, other than information you chose to provide and mak
 
 Notwithstanding the above, we do not and cannot warrant the security of the information that you provide. Accordingly, you agree that you are providing such information at your own risk.
 
-
-
-
 ## **Special Cases**
 
 DropJack's policy is not to use or share personal information about visitors or members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. Notwithstanding anything in this policy to the contrary, DropJack may, however, disclose personal information about visitors or members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms and Conditions or other user policies; to operate the Services properly; or to protect DropJack.com and our Members.
-
 
 ## **Changes to this Privacy Policy**
 
 DropJack may amend this policy from time to time. If significant changes are made in the way your personal information is used, you will be notified by email or a prominent announcement will be posted on our site notifying you of the change.
 
-
 ## **Questions or Comments**
 
-Questions or comments may be sent to: [webmaster@dropjack.com](mailto:webmaster@dropjack.com) 
-
+Questions or comments may be sent to: [webmaster@dropjack.com](mailto:webmaster@dropjack.com)
 
 ## **Acceptance of Terms**
 
 By using this site you acknowledge and agree to the terms of this Privacy Policy as outlined above. If you disagree with any term or condition in this Privacy Policy, you must not use our site.
-
