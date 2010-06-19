@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheatcodesweb.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219200101id_/http%3A//www.cheatcodesweb.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodesweb.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619235853id_/http%3A//www.cheatcodesweb.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Cheat Codes Web
 
-**[Home](https://web.archive.org/web/20091219200101id_/http%3A//www.cheatcodesweb.com/index.htm)  >  Privacy Policy**
+**[Home](https://web.archive.org/web/20100619235853id_/http%3A//www.cheatcodesweb.com/index.htm)  >  Privacy Policy**
 
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
@@ -10,9 +10,7 @@ We want our users to always be aware of any information we collect, how we use i
 
 For each visit to our website, our web server automatically recognizes only the visitors IP (Internet Protocol) address, but not the email address. This can reveal the identity of your Internet Service Provider, and their local point-of-presence. This information is only used  for general traffic tracking and security.
 
-Email addresses are collected if visitors subscribe our Cheats Alert Newsletter. Email addresses are then only used by Cheat Codes Web and not sold, rented, given, or shown to any other company for any use whatsoever. Our use of email addresses is to notify visitors of new cheats added to the site.
-
-All subscribers always have an option to unsubscribe at any time. Our newsletter is double opt-in, meaning subscribers must confirm their desire to be on the list by clicking a link in an email sent to their sign up address. This is done to protect all email addresses from being mistakenly or fraudulently added to our list by 3rd parties.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Special Notification with respect to Children's Privacy**
 
