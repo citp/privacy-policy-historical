@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312081941id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filext.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619180618id_/http%3A//filext.com/privacy.php) for the most accurate reproduction.*
 
 # FILExt Privacy Statement
 
@@ -118,11 +118,15 @@ If you have any questions or suggestions regarding the FILExt privacy policy, pl
 
 If you prefer contact via postal mail please use the address:
 
-> Computer Knowledge  
->  PO Box 5818  
->  Santa Maria, CA 93456-5818  
->  U.S.A.  
+> Orange Point  
+>  Dun Karm Street  
+>  B'Kara By-Pass  
+>  Birkirkara BKR9037  
+>  Malta (EU)  
 > 
+> 
+> **Tel:** +356 2327 5000  
+>  **Fax:** +356 2131 8998 
 
   
 
