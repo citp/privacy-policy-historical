@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffic.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207132020id_/http%3A//bhelp.traffic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620003913id_/http%3A//bhelp.traffic.com/privacy-policy) for the most accurate reproduction.*
 
 # Traffic Reports and Alerts | Real Time Traffic | Road Conditions | Delays :: Traffic.com
 
@@ -6,48 +6,98 @@ Back
 
 ## NAVTEQ Traffic.com Privacy Policy
 
-Traffic.com, Inc. and it affiliates and agents (collectively, “Traffic.com”) respect the privacy of the visitors to our web site at www.traffic.com and affiliate websites and any co branded, derivative or successor site (collectively, the “Website”) and are committed to protecting your privacy. Traffic.com has established this Privacy Statement to inform you of our policies and practices regarding how we collect information from you, how we use and disclose it, and your rights with respect to such information.
+**Effective date: February 2010**
 
-**1. COLLECTION OF PERSONAL IDENTIFIABLE INFORMATION.**
+We take your trust seriously, and our goal is to safeguard your privacy while providing you with the best possible experience using our products and services. NAVTEQ North America, LLC and its affiliated companies and properties (collectively, “NAVTEQ”) provide this notice explaining our information collection practices and the choices you can make about the way your information is collected and used when you inquire about or purchase our products (the “Products”), or use our websites and navigational services (collectively, the “Services”).
 
-Personal identifiable information is information that may be used to identify an individual, including, without limitation, your first and last name, your home or other physical address, your age and income, your electronic mail address, which Internet address you go to, what browser you are using, and other similar information (collectively, “Personal Information”). Traffic.com will ask you for and collect personal identifiable information from you to provide certain services to you; to sell products and services to you; to send promotional e-mails and information about our company; to sign up for products or services; to sign up or request to receive updates about our upcoming services; to solicit feedback; and for editorial, internal marketing, and promotional purposes. Traffic.com collects personal identifiable information about you from various sources while you are visiting our Website including, but not limited to, the following: (i) information we collect from you from applications, registration, surveys, and other forms; (ii) information about your transactions with us, our business partners and our suppliers; (iii) information we receive from our server logs from your browser, including your IP address, cookie information and the page(s) you requested; and (iv) your e-mail, fax and telephone requests to us for technical support, information, or about our products or services.
+NAVTEQ certifies compliance with the United States Department of Commerce’s U.S.-EU Safe Harbor Framework, and adheres to the Safe Harbor Principles.
 
-**2. USE OF PERSONAL INFORMATION.**
+## What NAVTEQ Collects
 
-Traffic.com and its suppliers, business partners, affiliates, agents and other third parties will use Personal Information to provide you with the products and services you requested, to better understand your needs, and to respond to your requests. Unless you request otherwise through our opt-out process, we may also use Personal Information to deliver promotional information about Traffic.com and our product and services. From time to time, we may seek your permission to provide Personal Information (e.g. your email address) to specific business partners for their use in sending you promotional information. We will provide this information to our partners only if you allow it. We will make commercially reasonable efforts to ensure that our partners’ use of such information is consistent with Traffic.com’s Privacy Policy.
+In the course of inquiring about or using NAVTEQ’s Products or Services, NAVTEQ may ask you for, among other things, your name, e-mail address, postal address, telephone number, fax number and other registration information. NAVTEQ may request billing and payment information under certain circumstances, such as when you make a purchase from us, including through one of our online stores.
 
-You may choose not to provide us with any Personal Information. In such an event, you can still access and use many portions of the Website; however, you will not be able to access and use those portions of the Website or the services available on or through the Website that require your Personal Information.
+NAVTEQ also may collect certain technical information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, your IP address and the domain name of your Internet service provider, aggregate data about the number of visits to a site or Service, and/or aggregate data about the pages visited. We may combine information we receive online with other information you have provided to us and with information from other sources to improve our knowledge of you as a customer, to help us provide quality customer service, to provide and customize our Products and Services, and to offer certain Products and Services to you subject to your marketing preferences.
 
-**3. DISCLOSURE AND SHARING OF PERSONAL IDENTIFIABLE INFORMATION.**
+If you access NAVTEQ Products and Services from a mobile device, NAVTEQ may collect limited information from your device, including location data, but will not store this information in a manner that identifies you individually unless you consent for us to do so.
 
-Traffic.com will not distribute, sell, rent or otherwise disclose your personal identifiable information to any third party except as follows: (i) to business partners, suppliers, affiliates, agents, and other third parties that help us provide certain services and products to you and to process payments (if applicable); (ii) in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Traffic.com’s rights or property, or anyone else that could be harmed by such activities; (iii) in special circumstances, such as the sale or potential sale of Traffic.com or the bankruptcy of Traffic.com; (iv) when we believe in good faith that it is required by law, or to comply with a court order or other legal process; (v) to enforce our Terms of Use Agreement; and (vi) when you have consented to such disclosure. Traffic.com takes commercially reasonable precautions to ensure that your Personal Information is used only for its intended purposes.
+Some NAVTEQ Products and Services, including some of our online stores, are co-branded and offered in conjunction with another company. By registering for or using these Products and Services, both NAVTEQ and the other company may receive information collected in conjunction with the co-branded Products and Services.
 
-**4. OPTING OUT AND OTHER RIGHTS.**
+## How NAVTEQ Uses the Information
 
-We allow you, on our web site, to set up and to modify your marketing preferences and/or to opt out of receiving communications from Traffic.com. When you signed up for service, you had the option of unchecking the selection box and choosing to continue to get our traffic services, but not receive newsletters or marketing material from Traffic.com. If you wish to modify your selection, please click the contact information link under ‘my account’. If you opt out of such communications, Traffic.com will use commercially reasonable efforts to ensure that such selections take effect within 24 hours.
+Except as otherwise indicated, NAVTEQ uses the personally identifiable information (“Personal Information”) you provide:  
 
-You may request removal of your Personal Information from our systems by canceling your service by following the cancel account link under ‘my account’. Canceling your service means that we will not be able to send you traffic reports by email or by phone. We may retain in our files information you have requested to remove in some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Use Agreement. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your Personal Information will be completely removed from our databases in response to your requests.
 
-Traffic.com reserves the right to send you certain communications related to this Website that are considered part of your account, such as traffic reports and alerts, without offering you the opportunity to opt out of receiving them.
+  
 
-**5\. CHILDREN’S PRIVACY (INDIVIDUALS UNDER 18 YEARS OF AGE).**
+  * to fulfill your requests for our Products and Services and those of our partners and to respond to your inquiries about our offerings
+  
 
-Traffic.com is committed to protecting the privacy of children and encourages parents and guardians to take an active role in your child’s online activities and interests. Traffic.com does not knowingly collect, use or disclose Personal Information about visitors under 18 years of age. Parents and guardians should instruct their children never to give out real names or any other identifying information over the Internet without first getting parental permission. If you are 17 or under, you must have your parent or guardian’s permission to provide any information to Traffic.com through our Website.
+  * to communicate with you and to assist you with any questions you have about an order you have placed for Products and Services
+  
 
-**6. USE OF COOKIES.**
+  * to offer you other products or services, including NAVTEQ Products and Services, that may be of interest to you;  
 
-Cookies are data text files that a web site transfers to a visitor’s computer for record-keeping purposes. Cookies allow web site operators like Traffic.com to facilitate and customize your visit by saving your preferences and/or your password, while tracking information about your visit to a web site. We use the data collected by cookies to retrieve certain information previously provided by you and to help us provide our visitors with a better experience at our Website. Many improvements and updates to the Website are based on the data collected by cookies. Information that we track with cookies includes, without limitation, the total number of visitors and pages viewed, the areas of our Website that you have visited, and settings and/or preferences you have chosen. Although most browsers are initially set up to accept cookies, you can reset your browser preferences to indicate when a cookie is being sent or to refuse all cookies. You can also delete some or all of your cookies. However, please realize that if your browser refuses cookies, or if you delete cookies, you may have difficulty accessing cookie-enabled pages and services available at our Website, and some of our services may be unavailable.
+  * to ease use of our Products and Services by eliminating the need to re-enter information
+  
 
-**7. SECURITY.**
+  * to display content and advertising customized to your interests and preferences
+  
 
-Traffic.com takes commercially reasonable care in providing secure transmission of your information over the Internet. Even though we strive to protect your Personal Information, no data transmission over the Internet can be guaranteed to be 100% secure. Traffic.com cannot ensure and does not warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+  * to assist us in the development of new Products or Services and/or the improvement of our existing Products and Services
+  
 
-**8. TERMS OF USE.**
+  * to cooperate with government officials or parties in litigation under process of law or regulation, or as otherwise required or permitted by law
+  
 
-Traffic.com has a Terms of Use Agreement that sets forth the terms and conditions under which Traffic.com provides information and services to you. The Terms of Use Agreement for use of this Website is available on the Traffic.com Website. It is your responsibility to read, understand and comply with all terms and conditions of the Terms of Use, as updated from time to time by Traffic.com in its sole discretion.
+  * to protect the security or integrity of the Products or Services, and/or to enforce the terms governing their use
+  
 
-**9. YOUR ACCEPTANCE OF THESE TERMS.**
+  * to protect against a threat of safety or destruction of propertyand/or
+  
 
-By using this Website, you acknowledge and agree to the terms and conditions of this Privacy Statement. If you do not agree to these terms, please do not use this Website. Traffic.com reserves the right to change or modify the privacy practices that are described herein simply by posting such change, update, or modification on this Website. Any such change, update or modification will be effective immediately upon posting to the Website and Traffic.com reserves the right to make the revised or changed Privacy Statement effective for information we already have about you, as well as any information we receive in the future. 
+  * to protect against legal liability.
 
-Effective Date: August 19, 2005.
+Authorized NAVTEQ service providers and contractors may have access to your information to facilitate its use consistent with this Policy.
+
+NAVTEQ may use and store non-personally identifiable information, including anonymized and aggregated data, for any purpose, without limitation, including to generate reporting and to improve the design and content of our Products and Services, and NAVTEQ may share this data with third-parties.
+
+## Disclosure of Personal Information
+
+NAVTEQ may disclose Personal Information we maintain about you to non-affiliated third parties under the following types of circumstances: when we have your permission to do so; to comply with the law, or when we respond to a subpoena or other process, legal order, or official request; as otherwise required by law; to establish or exercise our legal rights or defend against legal claims; or, as permitted by applicable law, when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of the legal terms that govern your use of our Products and Services. In addition, NAVTEQ may transfer both Personal Information and non-personally identifiable information if NAVTEQ is acquired by or merged with another company.
+
+## Your Marketing Preferences
+
+We generally ask you for your marketing preferences at the time we collect your information. If you wish to change your marketing preferences after collection, visit our Contact page. In addition, some of our Products and Services enable you to maintain your account information online by logging in. For those Products and Services, you may also be able to update your marketing preferences by viewing your account information online. Some mandatory service messages are required for use of the Products or Services, and are not subject to opt-out.
+
+If you wish to access your Personal Information to correct, amend, or delete that information when it is inaccurate, you can request to do so through our Contact page.
+
+## Security
+
+NAVTEQ has implemented security measures to help protect against the risk of loss, misuse and alteration of any information under NAVTEQ’s control. For example, NAVTEQ protects online order information through use of encryption, such as by Secure Sockets Layer (SSL) protocol.
+
+## Storage and Retention
+
+Your Personal Information will not be stored for longer than is necessary for the purposes described in this Policy, or to otherwise meet legal requirements.
+
+## IP Addresses and Cookies
+
+Like other web sites, NAVTEQ uses your domain, IP address and browser information to help diagnose problems with NAVTEQ’s Products and Services and equipment, to administer the Products and Services, and for security purposes. “Cookies” are pieces of data sent from a Web server to a Web browser that enable a Web server to identify users that visit a site hosted by that server. NAVTEQ may use Cookies in order to identify you to our sites so that NAVTEQ can provide more customized information and services to you. In addition, advertisers on our sites may place their own Cookies. In general, if you choose, you can disable the use of Cookies by reviewing your browser’s preferences and options.
+
+## International Transfer
+
+As NAVTEQ operates globally, it may be necessary to transfer your information internationally. In particular, information is generally transferred to and processed in the United States. Data protection laws vary between the United States and other jurisdictions. Please be assured that we take reasonable steps so that your privacy is protected.
+
+## Modification of Privacy Policy
+
+NAVTEQ may change this Privacy Policy at any time, and will notify you in an appropriate manner, including by posting the changed or amended Privacy Policy on our Products and Services.
+
+## Questions
+
+If you have questions about this Policy or about how information we collect is used by NAVTEQ, please contact us here.
+
+NAVTEQ North America, LLC  
+425 West Randolph Street  
+Chicago, IL 60657
+
+
+
