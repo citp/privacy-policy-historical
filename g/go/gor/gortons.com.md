@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217031413id_/http%3A//www.gortons.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620014415id_/http%3A//www.gortons.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Gorton's, Trusted Since 1849 : Privacy Policy : Privacy Policy
 
@@ -82,5 +82,3 @@ Please write to us at [info@gortons.com](mailto:info@gortons.com) or call us at 
 If you don't want to be contacted in the future or would like us to correct or update your Personal Information in our records, please email us with your request at [info@gortons.com](mailto:info@gortons.com).
 
 ^ back to top
-
-© 2009 Gorton's. All Rights Reserved.
