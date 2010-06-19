@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestranger.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217234619id_/http%3A//www.thestranger.com/seattle/Page%3Foid%3D568113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestranger.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619040912id_/http%3A//www.thestranger.com/seattle/Page%3Foid%3D568113) for the most accurate reproduction.*
 
 # Privacy Policy | The Stranger, Seattle's Only Newspaper
 
