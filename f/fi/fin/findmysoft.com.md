@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the findmysoft.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218170355id_/http%3A//www.findmysoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmysoft.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620004644id_/http%3A//www.findmysoft.com/privacy) for the most accurate reproduction.*
 
 # » FindMySoft.com - Privacy
-
-Categories
-
-**Top** Downloads
-
-[](http://www.liutilities.com/affcb/?id=RBgen&aff=6006&xat=Win_Banner_RB)
-
-Advertise on findmysoft.com
-
-  
-
 
 Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it.
 
