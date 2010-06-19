@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quizfarm.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033412id_/http%3A//quizfarm.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizfarm.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619125821id_/http%3A//quizfarm.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Quizfarm.com
 
 Privacy Policy
 
-This Privacy Policy was last updated on [   ].
+This Privacy Policy was last updated on January 1, 2009.
 
 **Introduction:** This web sites which are located at the domain Quizfarm.com (the "Site") are operated by Oxygen Media. (collectively or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at Legal Department, Oxygen Media, LLC, 75 Ninth Avenue, New York, NY 10011 (phone: (212) 651-2000) or at the address at the end of this policy. 
 
