@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123221736id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620013639id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # LightingDirect.com: Security & Privacy
 
