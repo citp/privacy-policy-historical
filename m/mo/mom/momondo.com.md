@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momondo.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525125129id_/http%3A//www.momondo.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momondo.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619172258id_/http%3A//www.momondo.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Momondo
 
