@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617041057id_/http%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619121335id_/http%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,13 +27,13 @@ From time to time, we may use customer information for new, unanticipated uses n
 [Yahoo! steps up anti-phishing Campaign](http://www.mukamo.com/yahoo-steps-up-anti-phishing-campaign/ "Permanent Link: Yahoo! steps up anti-phishing Campaign")  
 [SSS Online Inquiry System is always down](http://www.mukamo.com/sss-online-inquiry-system-is-always-down/ "Permanent Link: SSS Online Inquiry System is always down")  
 [Stormpay: Paypal Alternative](http://www.mukamo.com/stormpay-paypal-alternative/ "Permanent Link: Stormpay: Paypal Alternative")  
-[Sony PS3 Update 1.93 and PSP Update 3.71](http://www.mukamo.com/sony-ps3-update-193-and-psp-update-371/ "Permanent Link: Sony PS3 Update 1.93 and PSP Update 3.71")  
 [US Gov’t launches Web site for new immigrants](http://www.mukamo.com/us-govt-launches-web-site-for-new-immigrants/ "Permanent Link: US Gov’t launches Web site for new immigrants")  
-[MSN dot PH Launches Yello](http://www.mukamo.com/msn-dot-ph-launches-yello/ "Permanent Link: MSN dot PH Launches Yello")  
+[Sony PS3 Update 1.93 and PSP Update 3.71](http://www.mukamo.com/sony-ps3-update-193-and-psp-update-371/ "Permanent Link: Sony PS3 Update 1.93 and PSP Update 3.71")  
+[Local Website Aims to Help Filipinos Save On Fuel Purchases](http://www.mukamo.com/local-website-aims-to-help-filipinos-save-on-fuel-purchases/ "Permanent Link: Local Website Aims to Help Filipinos Save On Fuel Purchases")  
+[Pasyalera: Your One-Stop Philippine Travel Guide](http://www.mukamo.com/pasyalera-your-one-stop-philippine-travel-guide/ "Permanent Link: Pasyalera: Your One-Stop Philippine Travel Guide")  
 [Metrobank Warns Clients of Phishing Attack](http://www.mukamo.com/metrobank-warns-clients-of-phishing/ "Permanent Link: Metrobank Warns Clients of Phishing Attack")  
-[Western Union Philippines enforces “One ID Policy”](http://www.mukamo.com/western-union-philippines-enforces-one-id-policy/ "Permanent Link: Western Union Philippines enforces “One ID Policy”")  
-[MyDeathSpace.com - Are you Dead?](http://www.mukamo.com/mydeathspacecom-are-you-dead/ "Permanent Link: MyDeathSpace.com - Are you Dead?")  
-[ThePinoyTUBE: Pinoy Adult Version of YouTube](http://www.mukamo.com/thepinoytube-pinoy-adult-version-of-youtube/ "Permanent Link: ThePinoyTUBE: Pinoy Adult Version of YouTube")
+[MSN dot PH Launches Yello](http://www.mukamo.com/msn-dot-ph-launches-yello/ "Permanent Link: MSN dot PH Launches Yello")  
+[Western Union Philippines enforces “One ID Policy”](http://www.mukamo.com/western-union-philippines-enforces-one-id-policy/ "Permanent Link: Western Union Philippines enforces “One ID Policy”")
 
   
 
