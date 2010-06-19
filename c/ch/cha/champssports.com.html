@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the champssports.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228085615id_/http%3A//www.champssports.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the champssports.com privacy policy that was archived on 2010-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619083213id_/http%3A//www.champssports.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -22,24 +22,19 @@ function openInvestWin(url) {
 
 
 
-<!-- web23 --> 
+<!-- web24 --> 
 <title>Champs Sports - Where Sport Lives.</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
 
-<meta http-equiv="published" content="Monday, December 28, 2009 2:56:14">
-<link href="http://www.champssports.com/css/typography.css" rel="stylesheet" type="text/css">
-<link href="http://www.champssports.com/css/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="published" content="Saturday, June 19, 2010 3:32:13">
+
 <script type="text/javascript" src="http://www.champssports.com/shared/scripts/jquery-1.3.2.min.js"></script>
 <script language="javascript" src="http://www.champssports.com/shared/scripts/ajax.js"></script>
 <script language="javascript" src="http://www.champssports.com/shared/scripts/common.js"></script>
 <script language="javascript" src="http://www.champssports.com/shared/search/scripts/sizesearch.js"></script>
 <script language="javascript" src="http://www.champssports.com/shared/PDPZoom/PDPZoom.js"></script>
-<link href="http://www.champssports.com/shared/PDPZoom/PDPZoom.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">//<![CDATA[
-function openJobWindow(url) {
-	popupWin = window.open(url,'jobsFootlocker','height=430,width=640,fullscreen=no,menubar=no,location=no,resizable=yes,scrollbars=yes,titlebar=yes,toolbar=no');
-	}
 var sizeSearchActionURL = 'http://www.champssports.com/includes/sizeSearchForm.cfm';
 //]]>
 </script>
@@ -50,9 +45,9 @@ var sizeSearchActionURL = 'http://www.champssports.com/includes/sizeSearchForm.c
 	<script type="text/javascript" src="http://www.champssports.com/shared/wishlist/wl_sharedWishList.js"></script>
 	
 	<script>
-	var wishlistpostCardURL = 'http://www.champssports.com/wishlist/wl_postcard.cfm';
-	var wishlistmailSender  = 'http://www.champssports.com/wishlist/wl_mailSender.cfm';
-	var dsnname = 'pro-cs-lb';
+	var wishlistpostCardURL = 'https://www.champssports.com/wishlist/wl_postcard.cfm';
+	var wishlistmailSender  = 'https://www.champssports.com/wishlist/wl_mailSender.cfm';
+	var dsnname = 'pro-cs-lb-alt';
 	
 		var microsite = '';
 	
@@ -71,7 +66,7 @@ var sizeSearchActionURL = 'http://www.champssports.com/includes/sizeSearchForm.c
 		
 			var login_template_path = "http://www.champssports.com/login/login.cfm?secured=false&bv_RR_enabled=false&bv_AA_enabled=false";
 		
-		var register_url = "https://www.champssports.com/account/default.cfm?TID=5555-58280902492058021223484-0&action=accountCreate";
+		var register_url = "https://www.champssports.com/account/default.cfm?action=accountCreate";
     </script> 
 	<script type="text/javascript" src="http://www.champssports.com/shared/myAccount/login.js"></script>
     <link href="http://www.champssports.com/shared/myAccount/login.css" rel="stylesheet" type="text/css">
@@ -108,29 +103,56 @@ var sizeSearchActionURL = 'http://www.champssports.com/includes/sizeSearchForm.c
 		function logout(coremetricsEventId, CoremetricsCategoryId, coreMetricsDo) {
 			if ((coremetricsEventId) && (CoremetricsCategoryId) && coreMetricsDo == 'true')
 				{ cmCreateConversionEventTag(coremetricsEventId, 1, CoremetricsCategoryId, 0);  }
-			eraseCookie('SESSION');
-			eraseCookie('USER_PROFILE');
-			eraseCookie('BAZAARVOICEUSER');
 			if ((coremetricsEventId) && (CoremetricsCategoryId) && coreMetricsDo == 'true')
 				{ cmCreateConversionEventTag(coremetricsEventId, 2, CoremetricsCategoryId, 0);	}
+		
+		var logoutPath = "http://www.champssports.com/account/default/action--accountSignOut/";
 		
 			var thisurl = window.location.toString();
 			var regex = "/" + "bvdisplaycode--/[a-zA-Z0-9%._&=]*" + "/g";
 			if (thisurl.indexOf('bvdisplaycode--/') > 0 && thisurl.indexOf('submitReview') < 0) {
 				thisurl = thisurl.replace(eval(regex), '');
-				window.location=thisurl;
-			}
-			else {
-				window.location.reload();
 			}
 		
+			var ret_val= $.ajax({ type: "GET", url: logoutPath, data: {Next: escape(thisurl)}, async: false }).responseText;
+			eraseCookie('BAZAARVOICEUSER');
+			window.location=thisurl;
 		}
+		
 //-->
 </script>
 
 
-        <style type="text/css">
-            .price {
+
+                <style type="text/css">
+					@import 'http://www.champssports.com/css/typography.css'; @import 'http://www.champssports.com/css/style.css'; @import 'http://www.champssports.com/shared/PDPZoom/PDPZoom.css'; 
+                </style>
+            
+                <style type="text/css">
+					
+	.checkout_step {
+		height: 35px;
+		background-color: transparent;
+		background-position: top left;
+		background-repeat: no-repeat;
+	}
+	#checkout_step_shipping {
+		background-image: url(http://www.champssports.com/images/cs/checkout/header-shipping.gif);
+	}
+	#checkout_step_payment {
+		background-image: url(http://www.champssports.com/images/cs/checkout/header-payment.gif);
+	}
+	#checkout_step_review {
+		background-image: url(http://www.champssports.com/images/cs/checkout/header-review.gif);
+	}
+	#checkout_step_receipt {
+		background-image: url(http://www.champssports.com/images/cs/checkout/header-receipt.gif);
+	}	
+
+                </style>
+            
+            <style type="text/css">
+                .price {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	font-weight: bold;
@@ -183,69 +205,92 @@ margin-bottom:5px;
 position:relative;
 }
   #custgreet {
-width:99%;
 /*left:300px;*/
-position:relative;
-text-align:center;
+position:absolute;
+text-align:right;
 /*top:43px;*/
+top: 15px;
+right: 28px;
 height:20px;
 }
 
 #custgreet a, #custgreet a:hover {
-color: fff;
+color: #002F85;
 }			
 	#guest_welcome {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:12px;
-	color:#fff;
+	color:#002F85;
 	text-transform:none;
 top:7px;
 	position:relative;
 	}
 	#guest_welcome a {
-	color:#4D8BC4;
+	color:#FF0000;
+	font-weight: normal;
+	text-decoration: none;
 	}
 	#guest_welcome a:hover {
-	color:#4D8BC4;
+	color:#FF0000;
+	font-weight: normal;
+	text-decoration: underline !important;
 	}
 	#guest_welcome a:visited {
-	color:#4D8BC4;
+	color:#FF0000;
+	font-weight: normal;
+	text-decoration: none;
 	}
 	#member_welcome {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:12px;
-	color:#fff;
+	color:#002F85;
 	font-weight:bold;
 	text-transform:none;
-	display:block;clear:both;
+	top:7px;
+	position:relative;
+	clear:both;
 	}
 	#member_welcome a {
-	color:#4D8BC4;
+	color:#FF0000;
+	font-weight: normal;
+	text-decoration: none;
 	}
 	#member_welcome a:hover {
-	color:#4D8BC4;
+	color:#FF0000;
+	font-weight: normal;
+	text-decoration: underline;
 	}
 	#member_welcome a:visited {
-	color:#4D8BC4;
+	color:#FF0000;
+	font-weight: normal;
+	text-decoration: none;
 	}
 	#not_member_welcome {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:11px;
-	color:#fff;
+	color:#002F85;
+	top:7px;
+	position:relative;
 	text-transform:none;
 	}
 	#not_member_welcome a {
-	color:#4D8BC4;
+	color:#FF0000;
+	font-weight: normal;
+	text-decoration: none;
 	}
 	#not_member_welcome a:hover {
-	color:#4D8BC4;
+	color:#FF0000;
+	font-weight: normal;
+	text-decoration: underline;
 	}
 	#not_member_welcome a:visited {
-	color:#4D8BC4;
+	color:#FF0000;
+	font-weight: normal;
+	text-decoration: none;
 	}
 #wl_list .item_thumb IMG {  border: 1px solid black; }
-        </style>
-    
+            </style>
+        
 
 
 
@@ -273,131 +318,73 @@ top:7px;
 
 <div id="body" style="background: transparent url(http://www.champssports.com/images/cs/topnav/Wide/champs_site_bkg1.jpg) top center no-repeat">
 	<div id="wrapper">
-		<!--[if IE 6]>
+		<link rel="stylesheet" type="text/css" href="//www.champssports.com/ns/header/css/cs_global_header-23.css">
+<!--[if IE 6]>
 <style>
 #tagalong {
 top:69px;
 }
 </style>
 <![endif]-->
-<style type="text/css">
-#wl_list .item_thumb IMG {  border: 1px solid black; }
-#order_summary a, #order_summary a:hover, #order_summary a:visited {
-text-decoration:none;
-cursor:pointer;
-}
-</style>
-
 <link rel="stylesheet" type="text/css" href="http://www.champssports.com/images/cs/headers/cust_serv/cs_cust_serv.css">
-
 <div id="flash_wrapper">
 <div id="flash_ticker">
-
-<style type="text/css">
-
-
-#flash_ticker {
- position: absolute;
- visibility: visible;
-top: 0px;
-z-index: 1;
-}
-
-#body {
-padding-top: 37px;
-}
-
-</style>
-
     <a href="http://ww2.champssports.com/2008/ch061108a/ch061108a_mobile.html" title="Click to signup for Mobile Alerts" target="_blank"><img src="http://www.champssports.com/images/cs/topnav/Wide/Champs-mobile-banner.gif" title="Click to signup for Mobile Alerts" border="0"></a>
 </div>
 </div>
-<div id="topnav">
-	<div id="homeLink">
-			<a href="http://www.champssports.com"><img src="http://www.champssports.com/images/cs/topnav/Wide/champs_logo.png" alt=""></a>
-					<!-- customer greeting div -->
-			<div id="custgreet"><div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login">log in</a> 
-								or <a href="https://www.champssports.com/account/default/action--accountCreate/">register</a>.</span></div></div>    
+<div class="cs_header_wrapper">
+	<div class="cs_header_background">
+    	<img src="//www.champssports.com/ns/header/images/champs_header_bg3.jpg" width="966" height="180" border="0" usemap="#header_map">
+      <map name="header_map">
+            <area shape="rect" coords="699,150,790,178" href="http://www.champssports.com/content/locator/" title="Store Locator">
+            <area shape="rect" coords="789,120,887,177" href="http://lounge.champssports.com/?utm_source=CShome&amp;utm_medium=header&amp;utm_campaign=loungelogo" title="Champs Sports Lounge" target="_blank">
+            <area shape="rect" coords="886,149,959,176" href="http://dailysweeps.champssports.com" target="_blank" title="Win Daily Prizes">
+            <area shape="rect" coords="336,15,606,140" href="http://www.champssports.com" alt="home">
+      </map>
     </div>
-    <table id="headerTable" style="background: transparent url(http://www.champssports.com/images/cs/topnav/Wide/champs_header_bkg.jpg) top center no-repeat">
-    <tbody><tr id="headerTableTop">
-
-        <td colspan="2">&nbsp;<a href="http://dailysweeps.champssports.com" target="_blank"><img src="http://www.champssports.com/images/cs/topnav/Wide/CH-ConHdr-new.png" width="84" height="28" id="tagalong"></a></td>
-        <td rowspan="2" id="homeLinkPlaceholder">&nbsp;</td>
-        <td colspan="2">&nbsp;</td>
-    </tr>
-    <tr id="headerTableMiddle">
-        <td id="headerTableBecomeaVIP">
-            <a href="http://www.champssports.com/content/locator/">Store<br> Locator</a>
-
-
-        </td>
-        <td id="headerTableGiftCards">
-<div style="float:left;position:relative;left:12px">
-            <a href="http://www.champssports.com/promo/default/promoid--5002789/">GiftCards <img src="http://www.champssports.com/images/cs/topnav/Wide/champs_giftcard.jpg" alt=""></a>
-</div>
-        </td>
-        <td id="headerTableSearch">
-<span id="phNum">1.800.991.6813</span><br>
-            <form name="keywordSearch" action="http://www.champssports.com/catalog/advancedSearch.cfm" method="get">
-                Search
-                <input type="hidden" name="module" value="topnav">
-
-                <input type="hidden" name="action" value="keywordsearch">
-                <input type="hidden" name="search" value="k">
-                <input type="text" name="keyword" size="15" maxlength="40" value="keyword/product#" style="font-size: 10px; color: rgb(153, 153, 153);" onfocus="this.style.color=&quot;black&quot;;this.value=&quot;&quot;;">
-                <a href="#" onclick="keywordSubmit();"><img src="http://www.champssports.com/images/cs/topnav/Wide/champs_shoparrow.png" alt="Go"></a>            </form>
-        </td>
-        <td id="headerTableShoppingCart">
-            <a href="https://www.champssports.com/catalog/shoppingCart/">Shopping Cart</a> <a href="https://www.champssports.com/catalog/shoppingCart/"><img src="http://www.champssports.com/images/cs/topnav/Wide/champs_cart.png" alt=""></a><br>
-
-			<div id="order_summary"><a href="https://www.champssports.com/catalog/shoppingCart/">
+    <div class="cs_header_links_wrapper">
+        <div id="myaccount"><a href="http://www.champssports.com/content/custserv/">Help</a><span>|</span><a href="https://www.champssports.com/account/default/action--orderStatus/">Order Status</a><span>|</span><a href="http://www.champssports.com/wishlist/">Wish List</a><span>|</span><a href="https://www.champssports.com/account/default/">My Account</a><span>|</span><span id="header_login_area"><a href="javascript:openLoginDialogForID('top_welcome_login', null, null, function() {updateWelcome()}, 'left', 'Global Header', 'Log In' , 'true', 'true')" id="top_welcome_login" rel="nofollow">Log In</a></span> | 1.800.991.6813</div>
+    </div>
+	<div class="cs_header_shopping_cart_wrapper">
+        <div id="shopping_cart_header_link"><a href="http://www.champssports.com/catalog/shoppingCart/">SHOPPING CART<img src="//www.champssports.com/ns/header/images/champs_header_cart.jpg" height="11" width="13" border="0" align="baseline"></a></div><div id="order_summary"><a href="http://www.champssports.com/catalog/shoppingCart/">
 	<span class="order_summary_value">0 Items</span>
-</a></div>
-        </td>
-    </tr>
-    <tr id="headerTableBottom">
-        <td colspan="5">
-		<div id="myaccount"><a href="http://www.champssports.com/content/custserv/">Customer Service</a><span>|</span><a href="https://www.champssports.com/account/default/action--orderStatus/">Order Status</a><span>|</span><a href="http://www.champssports.com/wishlist/">Wish List</a><span>|</span><a href="https://www.champssports.com/account/default/">My Account</a><span>|</span><span id="header_login_area"><a href="javascript:openLoginDialogForID('top_welcome_login', null, null, function() {updateWelcome()}, 'left', 'Global Header', 'Log In' , 'true', 'true')" id="top_welcome_login">Log In</a></span></div>
-        <ul>
-            <li style="background: transparent url(http://www.champssports.com/images/cs/topnav/Wide/champs_header_menu_divider.gif) center right no-repeat;"><a href="http://www.champssports.com/catalog/supercat_mens/">Men</a></li>
-            <li style="background: transparent url(http://www.champssports.com/images/cs/topnav/Wide/champs_header_menu_divider.gif) center right no-repeat;"><a href="http://www.champssports.com/catalog/supercat_womens/">Women</a></li>
-            <li style="background: transparent url(http://www.champssports.com/images/cs/topnav/Wide/champs_header_menu_divider.gif) center right no-repeat;"><a href="http://www.champssports.com/catalog/supercat_youth/">Kids</a></li>
-            <li style="background: transparent url(http://www.champssports.com/images/cs/topnav/Wide/champs_header_menu_divider.gif) center right no-repeat;"><a href="http://www.champssports.com/catalog/supercat_fangear/">Fan Gear</a></li>
+</a></div>    
+    </div>
+    <div id="custgreet"><div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
+								or <a href="https://www.champssports.com/account/default/action--accountCreate/" rel="nofollow">register</a>.</span></div></div> 
+    <div class="cs_header_search_wrapper">
+        <form name="keywordSearch" action="http://www.champssports.com/catalog/advancedSearch.cfm" method="get">
+            <input type="hidden" name="module" value="topnav">
+            <input type="hidden" name="action" value="keywordsearch">
+            <input type="hidden" name="search" value="k">
+            <input type="text" id="reduce_input_text_height" name="keyword" size="15" maxlength="40" value="KEYWORD/PRODUCT#" onfocus="this.style.color=&quot;#003B81&quot;;this.value=&quot;&quot;;">
+            <a href="#" onclick="keywordSubmit();"><img src="http://www.champssports.com/images/cs/global/pixel.gif" border="0" align="absmiddle" height="47" width="39" alt="Go"></a>
+        </form>             
+    </div>
+    <div class="cs_header_nav_wrapper">
+          <ul>
+            <li><a href="http://www.champssports.com/catalog/supercat_mens/">Men</a></li>
+            <li><a href="http://www.champssports.com/catalog/supercat_womens/">Women</a></li>
+            <li><a href="http://www.champssports.com/catalog/supercat_youth/">Kids</a></li>
+            <li><a href="http://www.champssports.com/catalog/supercat_fangear/">Fan Gear</a></li>
 
-            <li style="background: transparent url(http://www.champssports.com/images/cs/topnav/Wide/champs_header_menu_divider.gif) center right no-repeat;"><a href="http://www.champssports.com/catalog/supercat_equipment/">Equipment</a></li>
-            <li style="background: transparent url(http://www.champssports.com/images/cs/topnav/Wide/champs_header_menu_divider.gif) center right no-repeat;"><a href="http://www.champssports.com/catalog/supercat_casual/">Casual</a></li>
-            <li style="background: transparent url(http://www.champssports.com/images/cs/topnav/Wide/champs_header_menu_divider.gif) center right no-repeat;"><a href="http://www.champssports.com/catalog/brands/">Brands</a></li>
+            <li><a href="http://www.champssports.com/catalog/supercat_equipment/">Equipment</a></li>
+
+            <li><a href="http://www.champssports.com/catalog/supercat_casual/">Casual</a></li>
+            <li><a href="http://www.champssports.com/catalog/brands/">Brands</a></li>
             <li class="lastItem"><a href="http://www.champssports.com/catalog/supercat_outlet/">Clearance</a></li>
         </ul>
-        </td>
-    </tr>
+  
+    </div>
+</div> 
+	<script language="javascript">
+		<!--
+		viewBannerEvent("Free Shipping >$75", 90);
+		//-->
+	</script>
 
-    </tbody></table>
-</div> <a href="http://ww2.champssports.com/2009/chgb122209a-dis/chgb122209a.html" target="_new">
-		<img src="http://www.champssports.com/images/cs/topbanners/chgb122409a.jpg" alt="Free Shipping on orders over $50" border="0">
-		</a> 
-<style type="text/css">
-	.checkout_step {
-		height: 35px;
-		background-color: transparent;
-		background-position: top left;
-		background-repeat: no-repeat;
-	}
-	#checkout_step_shipping {
-		background-image: url(http://www.champssports.com/images/cs/checkout/header-shipping.gif);
-	}
-	#checkout_step_payment {
-		background-image: url(http://www.champssports.com/images/cs/checkout/header-payment.gif);
-	}
-	#checkout_step_review {
-		background-image: url(http://www.champssports.com/images/cs/checkout/header-review.gif);
-	}
-	#checkout_step_receipt {
-		background-image: url(http://www.champssports.com/images/cs/checkout/header-receipt.gif);
-	}	
-</style>
-
+		<!-- tpbann --><a href="http://www.champssports.com/ns/2010/chgb061110a_dis/chgb061110a.html" target="_blank" alt="Free Shipping Over $75"><img src="http://www.champssports.com/images/cs/headers/chgb061110a-FS75.jpg" border="0"></a><!-- end tpbann -->
+	
 
 <style type="text/css">
 	/*#helpheader {
@@ -456,6 +443,11 @@ padding-top: 37px;
 	#itemchild {
 		padding-left: 17px;
 	}
+	.language {
+		float: right;
+		font-size: 10px;
+		color: orange;
+	}
 </style>
 
 
@@ -492,7 +484,10 @@ padding-top: 37px;
 			
 			
 			
-			<div id="contenttitle">Privacy Policy<hr size="1"></div>
+			<div id="contenttitle">
+            	Privacy Policy
+                <hr size="1">
+            </div>
 			<ul></ul>
 			
 				
@@ -591,88 +586,91 @@ padding-top: 37px;
 </div>
 
 	<footer>
-    <div id="bottomnav">
-        <table id="footerTable" style="background: transparent url(http://www.champssports.com/images/cs/bottomnav/Wide/champs_footer_bkg.jpg) top left repeat-x">
-        <tbody><tr>
-            <td>
+    <link rel="stylesheet" type="text/css" href="http://www.champssports.com/ns/homepage/footer/cs_add_footer_style.css">
+
+<div id="bottomnav">
+  
             <!--- Start of footer-flex presentation divs --->
             <div class="footer-flex">
               <div class="headff">
                 <div class="cff">
-                    <div id="flex-column-sponsor" class="flex-column">
-                        <div class="flex-titlebar">Proud Sponsor of</div>
+                    <div class="flex-column-sponsor-gc">
+                    	<div class="cs_sponsor_link"><a href="http://champssportsbowl.com/" title="Champs Sports Bowl" target="_blank"><img src="http://www.champssports.com/images/cs/global/pixel.gif" width="207" height="78" border="0"></a></div>
+                    	<div class="cs_sponsor_logo"></div>
+                        <div class="cs_sponsor_text">Proud Sponsor of the<br>Champs Sports Bowl</div>
+                        <div class="cs_gc_link"><a href="http://www.champssports.com/promo/default/promoid--5002848/" title="Champs Sports Gift Cards"><img src="http://www.champssports.com/images/cs/global/pixel.gif" width="207" height="53" border="0"></a></div>
+                        <div class="cs_gc_logo"></div>
+                        <div class="cs_gc_text">Champs Sports<br>GiftCards</div>
+                    </div>
+                    <div id="flex-column-customerService" class="flex-column-category">
+                        <div class="flex-titlebar"><strong>Top Sellers</strong></div>
                         <div class="flex-links">
-							<a href="http://champssportsbowl.com/" target="_blank"><img src="http://www.champssports.com/images/cs/bottomnav/Wide/champs_sportsbowl.png" alt="Champs Sports Bowl"></a>
+                        	<a href="http://www.champssports.com/promo/default/promoId--5002627/" manual_cm_re="Footer-_-TopSellers-_-jrdnshoes-_-null" title="Jordan Shoes">Jordan Shoes</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--nike+basketball+shoes/" manual_cm_re="Footer-_-TopSellers-_-nikebballshoes-_-null" title="Nike Basketball Shoes">Nike Basketball Shoes</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--nike+shox+shoes/" manual_cm_re="Footer-_-TopSellers-_-nikeshox-_-null" title="Nike Shox Shoes">Nike Shox Shoes</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--nike+casual+shoes/" manual_cm_re="Footer-_-TopSellers-_-nikecasshoes-_-null" title="Nike Casual Shoes">Nike Casual Shoes</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--nike+air+max+shoes/" manual_cm_re="Footer-_-TopSellers-_-airmaxshoes-_-null" title="Nike Air Max Shoes">Nike Air Max Shoes</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--running+shoes/" manual_cm_re="Footer-_-TopSellers-_-runshoes-_-null" title="Running Shoes">Running Shoes</a>
                         </div>
                     </div>
-                    <div id="flex-column-category" class="flex-column">
-                        <div class="flex-titlebar">Gift Cards</div>
+                    <div id="flex-column-customerService" class="flex-column-category">
+                        <div class="flex-titlebar"><strong>Most Popular</strong></div>
                         <div class="flex-links">
-							<br><a href="http://www.champssports.com/promo/default/promoid--5002789/"><img src="http://www.champssports.com/images/cs/headers/champs-gc-football.png" alt="Champs Gift Cards" title="Champs Gift Cards"></a>
-                        </div>
-                    </div>      
-                    <div id="flex-column-customerService" class="flex-column">
-                        <div class="flex-titlebar">Shopping Help</div>
-                        <div class="flex-links">
-<a href="http://www.champssports.com/content/custserv/help--shipInfo/" title="Shipping Info">Shipping Info</a>
-							
-<a href="http://www.champssports.com/content/locator/" title="Store Locator">Store Locator</a>
-							<a href="http://www.champssports.com/content/custserv/help--returnsExchanges/" title="Returns/Exchanges">Returns/Exchanges</a>
-							<a href="http://www.champssports.com/promo/default/promoid--5002789/" title="Gift Cards">Gift Cards</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--asics+running+shoes/" manual_cm_re="Footer-_-MostPopular-_-asicsshoes-_-null" title="Asics Running Shoes">Asics Running Shoes</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--under+armour+clothing/" manual_cm_re="Footer-_-MostPopular-_-uaclothes-_-null" title="Under Armour Clothing">Under Armour Clothing</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--under+armour+shoes/" manual_cm_re="Footer-_-MostPopular-_-uashoes-_-null" title="Under Armour Shoes">Under Armour Shoes</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--reebok+zig+shoes/" manual_cm_re="Footer-_-MostPopular-_-rbkzigshoes-_-null" title="Reebok Zig Shoes">Reebok Zig Shoes</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--nba+clothing/" manual_cm_re="Footer-_-MostPopular-_-nbaclothing-_-null" title="NBA Clothing">NBA Clothing</a>
+                        	<a href="http://www.champssports.com/catalog/advancedSearch/keyword--mlb+caps/" manual_cm_re="Footer-_-MostPopular-_-mlbcaps-_-null" title="MLB Caps">MLB Caps</a>
                         </div>
                     </div>     
-                    <div id="flex-column-shoppingHelp" class="flex-column">
-                        <div class="flex-titlebar">Company Information</div>
+                    <div id="flex-column-customerService" class="flex-column-category">
+                        <div class="flex-titlebar"><strong>Customer Service</strong></div>
                         <div class="flex-links">
-						<a href="http://www.champssports.com/promo/default/promoid--5001261/" title="Become A VIP">Become A VIP</a>	
-						<a href="http://www.footlocker-inc.com/company.cfm?page=champs-sports" target="_blank" title="About Us">About Us</a>
-						<a href="http://www.champssports.com/promo/default/promoid--5002039/" title="Affiliates">Affiliates</a>
-						<a href="http://www.champssports.com/sitemap/champssports-sitemap.htm" title="Site Map">Site Map</a>
-						<a href="http://www.champssports.com/content/feedback/" title="Contact Us">Contact Us</a>
-                                                <a href="http://www.footlocker-inc.com/careers.cfm?page=careers-champs-sports-landing" target="_blank" title="Job Opportunities">Job Opportunities</a>
+                        	<a href="http://www.champssports.com/content/custserv/help--orderInfo/" title="Ordering Help">Odering Help</a>
+                        	<a href="http://www.champssports.com/content/custserv/help--shipInfo/" title="Shipping Info">Shipping Info</a>
+                            <a href="http://www.champssports.com/content/custserv/help--generalSizing/" title="Sizing Help">Sizing Help</a>
+                            <a href="http://www.champssports.com/content/custserv/help--returnsExchanges/" title="Returns/Exchanges">Returns &amp; Exchanges</a>
+                            <a href="http://www.champssports.com/promo/default/promoid--5002039/" title="Affiliates">Affiliates</a>
+                            <a href="http://www.champssports.com/content/locator/" title="Store Locator">Store Locator</a>
                         </div>
                     </div>      
-                    <div id="flex-column-email" class="flex-column">
-                        <div class="flex-titlebar">Sign Up For Email</div>
-                        <div class="emailsignup">
-							<form id="email_signup_form" name="email_signup_form" method="post" action="#" onsubmit="return false">
-								<input type="hidden" id="co_cd" value="20">
-								<img class="icon" src="http://www.champssports.com/images/cs/bottomnav/Wide/champs_email.gif" alt="Email">
-								<input type="text" id="email" name="email" style="width:200px" value="Enter Your Email Address" onfocus="this.style.color=&quot;black&quot;;this.value=&quot;&quot;;">
-								<a href="javascript:openEmailSignUp(document.email_signup_form.email.value, '20')"><img src="http://www.champssports.com/images/cs/bottomnav/Wide/champs_shoparrow.png" alt="Join" value="Submit"></a>
-</form>								
-								<p>Sign Up for Text Message Offers</p>
-							<form id="mobile_signup_form" name="mobile_signup_form" method="post" action="">
-  <img class="icon" src="http://www.champssports.com/images/cs/bottomnav/Wide/Champs_cell_new.png" alt="Text Message">
-  <input id="Mobile_Number_1" type="text" style="width: 60px; margin-right: 7px" name="areacode" value="">
-  <input id="Mobile_Number_2" type="text" style="width: 60px; margin-right: 7px" name="prefix" value="">
-  <input id="Mobile_Number_3" type="text" style="width: 60px" name="linenumber" value="">
-  <a href="javascript:openSignupemail('mobile', '20');"><img src="http://www.champssports.com/images/cs/bottomnav/Wide/champs_shoparrow.png" alt="Join" value="Submit"></a>
-</form>                        </div>
+                    <div id="flex-column-customerService" class="flex-column-vip">
+						<div class="cs_vip_logo"></div>
+						<div class="cs_vip_link"><a href="http://www.champssports.com/promo/default/promoid--5002895/" title="VIP"><img src="http://www.champssports.com/images/cs/global/pixel.gif" width="137" height="87" border="0"></a></div>
+                    	<div class="cs_vip_text">
+                    		<p class="vip_title">Join Now and Save $10</p>
+                            <p>• Exclusive offers and coupns</p>
+                            <p>• VIP access to special events</p>
+                            <p class="vip_links">
+                            	<a href="http://www.champssports.com/promo/default/promoid--5002895/" title="Check VIP Status">Check Status</a> | 
+                                <a href="http://www.champssports.com/promo/default/promoid--5002895/" title="Update VIP Account">Update Account</a>
+                            </p>
+                    	</div>
                     </div>
                 </div>
               </div>
 				<div class="clear"></div>
             </div>
             <!--- End of footer-flex presentation divs --->
-        	</td>
-        </tr>
+
         
-        <tr>
-        	<td>
+
                 <div class="footer-tagline">
                     <a href="http://www.champssports.com/content/feedback/">Contact Us</a> |
-                    <a href="http://www.footlocker-inc.com/CO_index.htm" target="_blank">Job Opportunities</a> |
-                    <a href="http://www.champssports.com/content/custserv/help--privacyPolicy/">Privacy Policy</a> |<a href="http://www.champssports.com/content/custserv/help--terms/"> Terms of Use</a> |
-
-                    © 2009 Footlocker.com, Inc. All rights reserved.
-                              <br>
-                    <div style="padding: 5px 0 3px 0">
-                        Prices subject to change without notice. Products shown may not be available in our stores. ( <a href="http://www.champssports.com/content/custserv/help--productInformation/" class="footersmall">more info</a> )
+                    <a href="http://www.footlocker-inc.com/careers.cfm?page=careers-champs-sports-landing" target="_blank">Job Opportunities</a> |
+                    <a href="http://www.champssports.com/content/custserv/help--privacyPolicy/">Privacy Policy</a> | 
+                    <a href="http://www.champssports.com/content/custserv/help--terms/"> Terms of Use</a> | 
+                    <ignoreurlreformat><a href="http://www.footlocker-inc.com/company.cfm?page=champs-sports" target="_blank" title="About Us">About Us</a> | 
+                    <a href="http://www.champssports.com/sitemap/champssports-sitemap.htm" title="Site Map">Site Map</a>
+                      <br>
+                    <div class="footer_disclaimer">
+                        © 2010 Footlocker.com, Inc. All rights reserved. Prices subject to change without notice. Products shown may not be available in our stores. ( <a href="http://www.champssports.com/content/custserv/help--productInformation/" class="footersmall">more info</a> )
                     </div>
-                </div>
+                </ignoreurlreformat></div>
                 
                 <div class="footer-partners">
+                	<a href="http://www.champssports.com/promo/default/promoId--5002941/" title="Veterans Advantage Discount Program"><img src="http://www.champssports.com/images/cs/headers/veteransadvantage.jpg" alt="Veterans Discount Program" width="57" height="45" border="0"></a>
                     <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--23598.html" target="_bizrate"><img src="http://www.champssports.com/images/cs/bizrate/bizrate.gif" border="0"></a>
                 	
 <script language="Javascript">
@@ -684,15 +682,14 @@ padding-top: 37px;
 
                 
                     <!-- START SCANALERT CODE -->
-<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.champssports.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.champssports.com/22.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+<a target="_blank" href="https://www.mcafeesecure.com/RatingVerifyref--www.champssports.com/"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.champssports.com/22.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
 <!-- END SCANALERT CODE -->
                 
                     <span style="padding-left:5px;"><a href="http://www.paypal.com" target="_blank"><img src="http://www.champssports.com/images/cs/paypal/btn_paypal_AcceptMark_68x43.gif" border="0"></a></span>
                 </div>
-        	</td>
-        </tr>
+
         
-        </tbody></table>
+
     </div> 
     </footer>  
 
