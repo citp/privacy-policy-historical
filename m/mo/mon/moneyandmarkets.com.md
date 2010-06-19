@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219032816id_/http%3A//www.moneyandmarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619121739id_/http%3A//www.moneyandmarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money and Markets: Free Investment Email Newsletter
 
@@ -17,6 +17,10 @@ A “cookie” is a small piece of information that is stored by your Internet b
 **COLLECTION AND USE OF DATA**
 
 Our site’s registration form requires users to give us contact information (such as name and email address), unique identifiers, and demographic information (such as sex or age). We use this information to enhance the site so that it can offer you a more personalized experience. We also use the information to communicate information about our company, promotional material such as contests, questionnaires and surveys, and promotional material from some of our partners. Users may opt-out of receiving future mailings by using the tool explained in the “Updating and Removal of Data” section below. Unique identifiers are collected to verify the user’s identity, for use as account numbers in our record system, and for other purposes. Demographic profile data is also collected at our site. We use this data to tailor the user experience, showing you content that is most likely to be of interest to you, and displaying the content according to your preferences. This information may be shared with our affiliates or third-party service providers such as fulfillment centers, mailing houses, event providers, and customer support organizations.
+
+**THIRD PARTY ADVERTISING**
+
+As an active subscriber to _Money and Markets_ and/or _Uncommon Wisdom_ , you may receive third party advertisements. These offers are paid advertisements provided by our external partners or external advertisers. You will receive these third party emails from Weiss Research Advertising and dedicated emails will have the name of the third party in the subject line. We will occasionally share your information with our partners or any third parties to present offers that may be of interest to you. We also have an internal procedure that may remove your name from our file or provide your email to a third party for lack of activity on our file exceeding 6 months. If you click on these offers you will be proceeding under the terms of that third party advertiser’s privacy policy. Most offers will be sent from Weiss Research, Inc. Weiss Research is not responsible for the content of these advertisements. Weiss Research makes no guarantee or warranty about what is advertised, and no coupon or special Weiss Research, Inc. offer will be valid with these third party advertisements at any time. If you wish to opt out of our advertising policy, [click here](http://www.emailpreferencecenter.com/). 
 
 **LINKS TO WEBSITES OUTSIDE OF THIS ONE**
 
