@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the telltalegames.com privacy policy that was archived on 2009-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090906064438id_/http%3A//www.telltalegames.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the telltalegames.com privacy policy that was archived on 2010-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619054046id_/http%3A//www.telltalegames.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Telltale Games - Privacy Policy</title>
@@ -12,10 +12,10 @@
     <link rel="alternate" type="application/rss+xml" title="Telltale Jobs" href="/feeds/jobs">
 
     	<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-    <link rel="stylesheet" href="/include/css/tt4.css?1251136139">
+    <link rel="stylesheet" href="/include/css/tt4.css?1271111541">
     <link rel="stylesheet" href="/include/css/thickbox.css">
              <link rel="stylesheet" href="/include/css/support.css?1220395091">
-        <script type="text/javascript" src="/include/js/global.js?1236901840"></script>
+        <script type="text/javascript" src="/include/js/global.js?1269880286"></script>
         <script>
     $(document).ready(function(){
          $("a.thickbox").click(function(){
@@ -39,7 +39,73 @@ function urchinTracker() {
 <script type="text/javascript">
      var navbar = 'logo';
      var loggedin = 0;
-     eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('$(R).S(7(){k d=T;k e=U;$(\'#C\').D(7(){E.F=\'/8/C\';G 3});$(\'#V\').D(7(){E.F=$(4).9(\'W\');G 3});$(\'.l\').o(\'x\',7(){$(\'.l-p\').f({y:\'H\'},{g:3,h:e})});$(\'.l-p, .l\').o(\'I\',7(){$(\'.l-p\').f({y:\'-X\'},{g:3,h:e})});$(\'.l-p a\').o(\'x\',7(){$(\'.l-p\').q().i({y:\'H\'})});$(\'.5-t\').o(\'x\',7(){$(\'.5-t\').q().i({j:\'J\'});$(\'.u-v\').q().i({j:\'K\'});z(m!=\'8\')$(\'#5-Y\').i({n:\'-L -r\'});k a=\'#\'+$(4).9(\'w\')+\'-M\';k b=$(a).9(\'A\')+\'6 \'+(m==\'8\'?\'-N\':\'0\')+\'6\';b=b.B(\' \',2);k c=$(4).9(\'A\').B(\' \',2);$(a).i({n:b[0]+\' \'+(s(b[1])-Z)+\'6\'});$(\'#5-O, #5-P\').f({j:(Q?\'10\':\'11\')},{g:3,h:d});$(\'#\'+$(4).9(\'w\')+\' .u-v\').f({j:\'12\'},{g:3,h:d});z(m==\'8\')$(4).i({n:s(c[0])+\'6 \'+s(c[1])+\'6\'});$(4).f({n:(s(c[0])+ -13)+\'6 \'+s(c[1])+\'6\',j:\'14\'},{g:3,h:d})});$(\'.5-t\').o(\'I\',7(){$(\'.5-t\').q();$(\'.u-v\').q();k a=\'#\'+$(4).9(\'w\')+\'-M\';k b=$(a).9(\'A\')+\'6 \'+(m==\'8\'?\'-N\':\'0\')+\'6\';b=b.B(\' \',2);$(a).i({n:b[0]+\' \'+b[1]});$(\'#5-O, #5-P\').f({j:(Q?\'15\':\'16\')},{g:3,h:d});$(\'#\'+$(4).9(\'w\')+\' .u-v\').f({j:\'K\'},{g:3,h:d});z(m==\'8\')$(4).i({n:(m==\'8\'?\'-17 -r\':\'18 -r\')});$(4).f({n:(m==\'8\'?\'-19 -r\':\'-L -r\'),j:\'J\'},{g:3,h:d})})});',62,72,'|||false|this|account|px|function|mytelltale|attr||||||animate|queue|duration|css|width|var|games|navbar|backgroundPosition|bind|dropdown|stop|347px|parseInt|box|cart|text|id|mouseenter|top|if|bgpos|split|register|click|window|location|return|42px|mouseleave|34px|1px|209px|icon|116|name|login|loggedin|document|ready|200|300|logout|link|165px|settings|57|90px|124px|55px|148|95px|158px|192px|605px|0px|814px'.split('|'),0,{}))
+     $(document).ready(function(){
+          var nbar_antime = 200;
+          var drop_antime = 300;
+          
+          $('#register').click(function(){ window.location = '/mytelltale/register'; return false; });
+          $('#logout').click(function(){ window.location = $(this).attr('link'); return false; });
+          
+          $('#help-link').click(function(){
+               $('.help-dropdown').animate({ top: '42px' }, { queue: false, duration: drop_antime });
+               return false;
+          });
+          
+          $('.games').bind('mouseenter', function(){
+               $('.games-dropdown').animate({ top: '42px' }, { queue: false, duration: drop_antime });
+          });
+          
+          $('.games-dropdown, .games').bind('mouseleave', function(){
+               $('.games-dropdown').animate({ top: '-165px' }, { queue: false, duration: drop_antime });
+          });
+          
+          $('.games-dropdown a').bind('mouseenter', function(){
+               $('.games-dropdown').stop().css({ top: '42px' });
+          });
+          
+          $('.account-box').bind('mouseenter', 
+               function() {
+                    $('.account-box').stop().css({ width: '34px' });
+                    $('.cart-text').stop().css({ width: '1px' });
+                    if(navbar != 'mytelltale')
+                         $('#account-settings').css({ backgroundPosition: '-209px -347px' });
+                    
+                    var icon = '#'+$(this).attr('id')+'-icon';
+                    var iconpos = $(icon).attr('bgpos') + 'px ' + (navbar == 'mytelltale' ? '-116' : '0') + 'px';
+                    iconpos = iconpos.split(' ', 2);
+                    var bgpos = $(this).attr('bgpos').split(' ', 2);
+                    
+                    $(icon).css({ backgroundPosition: iconpos[0] + ' ' + (parseInt(iconpos[1]) - 57) + 'px' });
+                    
+                    $('#account-name, #account-login').animate({ width: (loggedin ? '90px' : '124px') }, { queue: false, duration: nbar_antime });
+                    $('#'+$(this).attr('id')+' .cart-text').animate({ width: '55px' }, { queue: false, duration: nbar_antime });
+                    
+                    if(navbar == 'mytelltale')
+                         $(this).css({ backgroundPosition: parseInt(bgpos[0]) + 'px ' + parseInt(bgpos[1]) + 'px'  });
+                    $(this).animate({ backgroundPosition: (parseInt(bgpos[0]) + -148) + 'px ' + parseInt(bgpos[1]) + 'px', width: '95px' }, { queue: false, duration: nbar_antime });
+               }
+          );
+          
+          $('.account-box').bind('mouseleave', 
+               function(){
+                    $('.account-box').stop();
+                    $('.cart-text').stop();
+                    
+                    var icon = '#'+$(this).attr('id')+'-icon';
+                    var iconpos = $(icon).attr('bgpos') + 'px ' + (navbar == 'mytelltale' ? '-116' : '0') + 'px';
+                    iconpos = iconpos.split(' ', 2);
+                    
+                    $(icon).css({ backgroundPosition: iconpos[0] + ' ' + iconpos[1] });
+
+                    $('#account-name, #account-login').animate({ width: (loggedin ? '158px' : '192px') }, { queue: false, duration: nbar_antime });
+                    $('#'+$(this).attr('id')+' .cart-text').animate({ width: '1px' }, { queue: false, duration: nbar_antime });
+                    
+                    if(navbar == 'mytelltale')
+                         $(this).css({ backgroundPosition: (navbar == 'mytelltale' ? '-605px -347px' : '0px -347px') });
+                    $(this).animate({ backgroundPosition: (navbar == 'mytelltale' ? '-814px -347px' : '-209px -347px'), width: '34px' }, { queue: false, duration: nbar_antime });
+               }
+          );
+     });
 </script>
 
 <div class="games-dropdown">
@@ -48,6 +114,11 @@ function urchinTracker() {
      <a href="/strongbad" id="game-strongbad">Strong Bad's Cool Game for Attractive People</a>
      <a href="/samandmax" id="game-samandmax">Sam &amp; Max</a>
      <a href="/games" id="game-more">More Telltale Games</a>
+</div>
+
+<div class="help-dropdown">
+     Forgot your password?<br>
+     <a href="/mytelltale/forgotpassword/">No worries, we can help!</a>
 </div>
 
 <div class="nav-bar">
@@ -74,6 +145,7 @@ function urchinTracker() {
                <div class="login-text">Username</div><input type="text" name="login_username" class="username"><br>
                <div class="login-text">Password</div><input type="password" name="login_password" class="password"> 
           </div>
+          <a href="#" id="help-link" class="login-link login-top-link">Help!</a>
           <a href="#" onclick="document.forms['loginform'].submit();" class="login-link">Go »</a>
           
           <input type="submit" name="dologin" style="display:none;">
@@ -231,7 +303,8 @@ Last Updated on: (July 26th, 2005)</p></div>
 </td>
 
 <td style="padding-left: 10px; padding-right: 10px;" width="253" valign="top">
-     <a href="/monkeyisland"><img src="/images/checkout_sidebar_MI.jpg" border="0"></a>
+
+          <a href="/monkeyisland"><img src="/images/checkout_sidebar_MI.jpg" border="0"></a>
 
 
 
@@ -243,14 +316,13 @@ Last Updated on: (July 26th, 2005)</p></div>
 
 </tbody></table>
 
-<div align="center" class="supportfooterbg">
+<div align="center" class="supportfooterbg" id="mainPageFooterWrapper">
 <div class="footer-top-img"><img src="/images/footer-top.png" class="png"></div>
 <div class="foot-bar">
      <div class="ttg-logo"><img src="/images/ttg-logo-footer.png" class="png"></div>
      <div class="ttg-text">
-     <b>Telltale Games - © 2008 Telltale, Incorporated. All rights reserved.<br>
-     <b><a href="/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/store">Store</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/community/blogs">Blogs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forums">Forums</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/support">Product Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/company">Corporate Info</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/company/jobs">Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/termsofuse">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacypolicy">Privacy Policy</a>
-     </b></b></div><b><b>
+     <b>Telltale Games - © 2010 Telltale, Incorporated. All rights reserved.<br>
+     <b><a href="/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/store">Store</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/community/blogs">Blogs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/forums">Forums</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/support">Product Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/company">Corporate Info</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/company/jobs">Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/termsofuse">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacypolicy">Privacy Policy</a>     </b></b></div><b><b>
 </b></b></div></div><b><b>
 
 
@@ -270,6 +342,6 @@ pageTracker._trackPageview();
 
 
 
-<!-- c1 qs0.0002140998840332 s0.070305109024048-->
+<!-- c0 qs0 s0.071314096450806-->
 <!--  -->
 <!--  --></b></b></div></div><div id="imgLoader" style="position:absolute; top:0px; left:0px; width:1px; height:1px; visibility:hidden; overflow:hidden;"></div></body></html>
