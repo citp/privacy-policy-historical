@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communityfirstcu.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217232348id_/http%3A//www.communityfirstcu.org/interior.php/pid/4/sid/33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communityfirstcu.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619050621id_/http%3A//communityfirstcu.org/interior.php/pid/4/sid/33) for the most accurate reproduction.*
 
 # Community First Credit Union:
 
