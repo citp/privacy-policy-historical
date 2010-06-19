@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papalouie.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219005020id_/http%3A//www.papalouie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papalouie.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620015440id_/http%3A//www.papalouie.com/privacy.php) for the most accurate reproduction.*
 
 # PapaLouie.com :: Privacy Policy
 
