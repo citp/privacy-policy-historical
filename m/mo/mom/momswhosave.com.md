@@ -1,22 +1,27 @@
-> *The following text is extracted and transformed from the momswhosave.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219142000id_/http%3A//www.momswhosave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhosave.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619073335id_/http%3A//www.momswhosave.com/privacy.html) for the most accurate reproduction.*
 
 # MomsWhoSave.com coupon codes, discounts, & freebies
 
 
-
+  
+subscribe, bookmark, & share
 
 [](http://www.addthis.com/bookmark.php)
 
-  
+[](http://www.momswhosave.com/rss.html)  
 
 
 * * *
 
-[Click to Follow my Updates on twitter. See Deals Not Listed Here --Updated Several Times a Day! ](http://www.twitter.com/momswhosave)  
+[Link to MomsWhoSave.com](http://www.momswhosave.com/link.html)
 
+[Grab a button! Click for copy-&-paste code for your blog or website. More sizes available.](http://www.momswhosave.com/link.html)
 
-[](http://twittercounter.com/?username=momswhosave "TwitterCounter for @momswhosave")  
+[](http://www.momswhosave.com/link.html)
 
+* * *
+
+[Click to see even more deals on twitter.](http://www.twitter.com/momswhosave)
 
 * * *
 
