@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219095504id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619082523id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
 
-# MercatorNet: defending human dignity on the internet
+# MercatorNet. an online voice for human dignity
 
 ## MercatorNet’s Privacy Policy
 
