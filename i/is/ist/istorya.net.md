@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istorya.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114313id_/http%3A//www.istorya.net/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istorya.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620013347id_/http%3A//www.istorya.net/forums/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - iSTORYA.NET
 
@@ -6,7 +6,7 @@
 |   
 ---|---  
   
-[](https://web.archive.org/web/20090618114313id_/http%3A//www.istorya.net/forums/register.php) | [](https://web.archive.org/web/20090618114313id_/http%3A//www.istorya.net/forums/faq.php) | [](https://web.archive.org/web/20090618114313id_/http%3A//www.istorya.net/forums/members/list/) | [](https://web.archive.org/web/20090618114313id_/http%3A//www.istorya.net/forums/calendar.php) | [Mark Forums Read](https://web.archive.org/web/20090618114313id_/http%3A//www.istorya.net/forums/forumdisplay.php?do=markread) |   
+[](https://web.archive.org/web/20100620013347id_/http%3A//www.istorya.net/forums/register.php) | [](https://web.archive.org/web/20100620013347id_/http%3A//www.istorya.net/forums/faq.php) | [](https://web.archive.org/web/20100620013347id_/http%3A//www.istorya.net/forums/members/list/) | [](https://web.archive.org/web/20100620013347id_/http%3A//www.istorya.net/forums/calendar.php) | [Mark Forums Read](https://web.archive.org/web/20100620013347id_/http%3A//www.istorya.net/forums/forumdisplay.php?do=markread) |   
 ---|---|---|---|---|---  
   
 Privacy Policy  
@@ -34,7 +34,7 @@ Privacy Policy
 
   
   
-All times are GMT +8. The time now is 07:38 PM.
+All times are GMT +8. The time now is 09:19 AM.
 
   
 
