@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gtrecycling.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219084632id_/http%3A//www.gtrecycling.com/contents.php%3Fcmd%3Dcontents%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtrecycling.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619233710id_/http%3A//www.gtrecycling.com/contents.php%3Fcmd%3Dcontents%26id%3D2) for the most accurate reproduction.*
 
-# GreenTech
+# GreenTech Inkjet and Toner Cartridge Recycling
 
 **Our Commitment To Privacy**   
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page and at every point where personally identifiable information may be requested.
