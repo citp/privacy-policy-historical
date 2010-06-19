@@ -1,123 +1,209 @@
-> *The following text is extracted and transformed from the movabletype.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214051901id_/http%3A//www.movabletype.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movabletype.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619142118id_/http%3A//www.sixapart.com/privacy) for the most accurate reproduction.*
 
-# Movable Type: Movable Type: Privacy Policy
+# Six Apart - Privacy
 
-### What This Privacy Policy Covers
+SIX APART'S PRIVACY POLICY
 
-  * This policy covers how Six Apart, Ltd., a Delaware corporation ("Six Apart," "we," "us," or "our"), and all of its affiliated websites, products and services, including, without limitation, www.sixapart.com, TypePad and www.typepad.com, Movable Type and www.movabletype.org, TypeKey and www.typekey.com, and ProNet (collectively, the "Six Apart Sites, Products and Services"), treat personal information that the Six Apart Sites, Products and Services collect and receive. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. Please note that any posting made while using the Six Apart Sites, Products and Services is not considered "personal information" and is not considered the type of information protected by a privacy policy.
-  * This policy covers how the Six Apart Sites, Products and Services deal with information about your children under the Children's Online Privacy Protection Act ("COPPA"), and how parents and legal guardians may request from us how they can review, delete or stop the collection of the personally identifiable information of their child.
-  * This policy does not apply to the practices of companies that Six Apart does not own or control, or to people that Six Apart does not employ or manage.
+1\. What This Privacy Policy Covers
 
+1.1 This Privacy Policy explains how Six Apart Ltd. ("we", "us", "our" or "Six Apart") collects, uses and shares your "Personal Information" - information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number - and other data through your use of any of Six Apart's Web sites (each, a "Site" and, collectively, the "Sites"), any of Six Apart's services (each, a "Service" and, collectively, the "Services") and any of Six Apart's software ("Software").
 
+1.2 This policy does not apply to the practices of companies that Six Apart does not own or control or to people that Six Apart does not employ or manage.
 
-### Information We Gather
+1.3 Your use of Six Apart's Sites, Services and Software is subject to this Privacy Policy in effect at the time of your use. Six Apart reserves the right to update and change this Privacy Policy from time to time without notice or acceptance by you, so please check this page frequently for updates and changes. However, changes made to this Privacy Policy will not apply to you to the extent that (i) the changes concern matters which are the subject of an actual dispute between you and Six Apart as of the date the changes take effect and (ii) Six Apart has actual notice of the dispute as of the date the changes take effect.
 
-  * The Six Apart Sites, Products and Services may collect personal information (such as your name, email address, billing address, phone number, credit card information, and certain optional information such as birth date, birth place, mother's maiden name, gender, zip code, biographical information, ICQ/AIM/Yahoo/MSN user name, Amazon.com associates code, occupation, industry, and personal interests) when you register with them, use the particular products or services or post content on a Blog site as a guest with authoring rights, as applicable.
-  * The Six Apart Sites, Products and Services may also collect personal information when you enter into promotions or sweepstakes.
-  * The Six Apart Sites, Products and Services may combine information about you that we have with information we obtain from business partners or others.
-  * The Six Apart Sites, Products and Services may also collect information about your transactions with us and with some of our business partners. This information might include information necessary to process payments due to us from you such as your credit card number.
-  * The Six Apart Sites, Products and Services may automatically receive and record information on our server logs from your browser, including your IP address, cookies, and the pages you request.
-  * The Six Apart Sites, Products and Services use information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
+2\. Information We Gather
 
+2.1 Six Apart may collect Personal Information when you register, use or post content on or through Six Apart's Sites, Services and Software.
 
+2.2 Six Apart may collect Personal Information when you enter into promotions or sweepstakes.
 
-### IP Address
+2.3 Six Apart may combine information about you in our possession with information we obtain from business partners or others.
 
-  * The Six Apart Sites, Products and Services may occasionally obtain IP addresses from users depending upon how you access our websites. IP addresses, browser and session information may be used for various purposes, including to: 
-    * Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. 
-    * Estimate the total number of users visiting Six Apart's websites from specific geographical regions. 
-    * Help determine which users have access privileges to certain content, services or resources that we offer. 
-    * Monitor and prevent fraud and abuse. 
-  * The Six Apart Sites, Products and Services may display your IP address to the owners or maintainers of certain journals or Blogs when you post to those journals or Blogs and the owner or maintainer has enabled functionality on the sites for this purpose.
+2.4 Six Apart may collect information about your transactions with us and/or with our business partners. This information might include information necessary to process payments, such as billing information and your credit card number.
 
+2.5 Six Apart may automatically receive and record information on our server logs from your browser, including your IP address, cookies and the pages you request.
 
+3\. IP Address and Browser and Session Information
 
-### Cookies
+3.1 Six Apart may obtain IP addresses and browser and session information from users depending upon how they access Six Apart's Sites, Services and Software. IP addresses and browser and session information may be used for various purposes, including to:
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive. 
-  * If you reject all cookies, you may not be able to use the Six Apart Sites, Products and Services that require you to "sign in," and you may not be able to take full advantage of all offerings.
-  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. 
-  * The Six Apart Sites, Products and Services use their own cookies for a number of purposes, including to: 
-    * Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. 
-    * Keep track of preferences you specify while you are using the Six Apart Sites, Products and Services. 
-    * Estimate and report our total audience size and traffic. 
-    * Conduct research to improve the content and services provided on the Six Apart Sites, Products and Services. 
-  * Six Apart lets other entities that show advertisements on some of our web pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, and not this policy. Advertisers or other entities do not have access to Six Apart's cookies.
+  * Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
+
+  * Estimate the total number of users visiting Six Apart's Sites, Services and Software from specific geographical regions.
+
+  * Help determine which users have access privileges to certain content, services or resources that we offer.
+
+  * Monitor and prevent fraud and abuse.
 
 
 
-### Information Relating to Children
 
-  * The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. The Six Apart Sites, Products and Services are not directed at children under 13 years of age but, we recognize that with proper adult supervision some parents might permit their children to visit and utilize the Six Apart Sites, Products and Services. COPPA requires that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of the Six Apart Sites, Products and Services. 
-  * When your child attempts to register and/or provide personal information to Six Apart (including on any of the Six Apart Sites, Products and Services), we require a parent or legal guardian to: 
-    * complete the registration; 
-    * review our privacy policy and to submit a valid credit card number to verify that the child's parent or guardian knows about and authorizes our information practices related to children protected by COPPA; and 
-    * verify through the use of an email confirmation and second authorization that the parent or guardian consents to any applicable Terms of Service and this privacy policy. 
-  * Once parental notice and consent has been verified, the information we collect will be treated the same as information collected from any other user of the Six Apart Sites, Products and Services. Without verified parental notice and consent, we will not knowingly collect personal information of children under 13 years of age, and if we learn that we have inadvertently collected such information, we will promptly delete it. 
+3.2 Six Apart may display your IP address to the owners or maintainers of certain blogs, groups or communities when you post to those blogs, groups or communities and the owner or maintainer has enabled functionality for this purpose.
 
+4\. Cookies, Web Beacons and Scripts
 
+4.1 Six Apart and third parties such as advertisers, third party advertising networks, third-party advertising serving companies, Six Apart's business partners, vendors and service providers may identify users and record user activity through technologies such as "cookies", "Web beacons" and "scripts".
 
-### How Parents can Access their Children's Personal Information
+4.2 A "cookie" is a small amount of data, which typically includes an anonymous unique identifier, that is sent to your browser and stored on your computer's hard drive when you view a Web page, an advertisement, a video or other types of content. You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. If you reject all cookies, or specifically reject cookies set by Six Apart, you may not be able to take full advantage of features of Six Apart's Sites, Services and Software that require you to be signed in to your account or otherwise identify yourself.
 
-In compliance with COPPA, parents and legal guardians may request us to review, delete or stop the collection of the personally identifiable information of their child. You may do so in one of two ways.
+4.3 Six Apart may set and access cookies on your computer through Six Apart's Sites, Services and Software, through third party Web sites or through our emails and newsletters. Six Apart uses cookies for a number of purposes, including to:
 
-If you know the user name and password, follow the instructions below regarding Changing your Preferences and Personal Information, or you may contact us by letter, phone or email using the address information provided at the bottom of this page.
+  * Identify you as an account holder.
 
-If you request that no further information about your child be collected or used, we will be required to terminate your child's ability to use the Six Apart Sites, Products and Services that require a user to "sign in."
+  * Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
 
-### Information Use, Sharing and Disclosure
+  * Keep track of preferences you specify while you are using Six Apart's Sites, Services and Software.
 
-  * The Six Apart Sites, Products and Services do not share personal information we learn about you from your use of the websites, products and services with others except as described in this policy. We do not share your information with unrelated third parties for their direct marketing purposes. However, the Six Apart Sites, Products and Services may display targeted advertisements based on personal information.
-  * When you provide personal information through using the Six Apart Sites, Products and Services you are however sharing your personal information with Six Apart and its affiliated entities. The use of your personal information by these organizations is subject to this policy. 
-  * The Six Apart Sites, Products and Services may use or share your personal information where it is necessary to complete a transaction, to operate or improve the Six Apart Sites, Products and Services, to do something that you have asked us to do, or tell you of products and services that we think may be of interest. 
-  * Where you are contacted with an offer or service based on information you have shared with any Six Apart Site, Product and/or Service, we will do our best to provide you with an opportunity to opt-out of receiving such further communications at the time you are contacted, however, in connection with any of our paid products and services (i.e., products or services that you license or use for a fee), we reserve the right to send you certain communications relating to those products and services, such as service announcements, administrative messages and the Six Apart Newsletter, that are considered part of your Six Apart account, without offering you the opportunity to opt-out of receiving them. 
-  * When you post a message, your user ID or alias that you are posting under may be visible to other users. 
-  * When you post a message on any Six Apart journal or Blog Site, you have the ability to post a message which may include personally identifiable information about yourself. 
-  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
-  * The Six Apart Sites, Products and Services may share personally identifiable information about you under the following circumstances: 
-    * In the course of operating our business it may be necessary or appropriate for us to provide access to your personal information to others such as our service providers, contractors and select vendors so that we can operate the Six Apart Sites, Products and Services and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this policy and that limit others' use or disclosure of the information you have shared. 
-    * We may share your personal information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate. 
-    * We may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of use, or as otherwise required by law. 
-    * As we continue to develop our business, we may also buy or sell all or part of our business. In such transactions, personally identifiable information you have shared with us is generally one of the business assets that will be transferred. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented. 
+  * Estimate and report our total audience size and traffic.
+
+  * Conduct research to improve Six Apart's Sites, Services and Software.
 
 
 
-### Changes to this Privacy Policy
 
-  * Six Apart may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular Six Apart account or by placing a prominent notice on our site. 
+4.4 A "Web beacon" is an electronic file that signals when a Web page, an advertisement, a video or other types of content, an email or a newsletter has been viewed. Six Apart may use Web beacons on Six Apart's Sites, Services and Software, on third party Web sites or in our emails and newsletters. Six Apart uses Web beacons for a number of purposes, including to:
 
+  * Count visitors to Web sites.
 
+  * Recognize and access cookies.
 
-### Confidentiality and Security
+  * Record page view information.
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems.
+  * Record the Internet protocol address of the computer that downloads a Web beacon.
 
-  * We use physical, electronic, and procedural safeguards to protect personal information about you. 
-  * Your account information is password-protected. 
-  * In certain areas, the Six Apart Sites, Products and Services use industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. 
+  * Record the type of browser used to view a page where a Web beacon is placed.
 
+  * Track of the delivery, viewing and responses to emails and newsletters.
 
+  * Estimate and report our total audience size and traffic.
 
-If Six Apart learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Six Apart Sites, Products and Services or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable websites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable websites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@sixapart.com.
-
-### Changing your Preferences and Personal Information
-
-  * You can edit your account information with an applicable Six Apart Site, Product and Service at any time. Most personal information you may provide is entirely optional. For example, to the extent that parents are considering whether to permit their children to use the Six Apart Sites, Products and Services, we do not condition a child's participation based upon their provision of any more personal information than is necessary to operate those sites, products and services. 
-  * You can delete your applicable account by visiting the applicable account deletion page; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements. 
+  * Conduct research to improve Six Apart's Sites, Services and Software.
 
 
 
-### Contacting Six Apart
 
-If you have a privacy concern regarding any Six Apart Site, Product or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at privacy@sixapart.com. Alternatively, we can be reached by telephone at 415-344-0056 or our postal mail address: 
+4.5 A "script" is a short section of computer code included in a Web page or other content that can be used to set and access a cookie on your computer's hard drive and to record your activity on a Web site. Six Apart may use scripts on Six Apart's Sites, Services and Software, on third party Web sites or in our emails and newsletters. Six Apart uses scripts for a number of purposes, including to:
 
-Six Apart, Ltd.  
+  * Track the performance of advertising campaigns.
+
+  * Identify sources of traffic to Six Apart's Sites, Services and Software.
+
+  * Count the number of "clicks" on a link in a Web page, advertisement, email or newsletter.
+
+  * Follow the distribution of content.
+
+  * Measure patterns of activity on Six Apart's Sites, Services and Software such as usage by date, time and geographic location.
+
+  * Estimate and report our total audience size and traffic.
+
+  * Conduct research to improve Six Apart's Sites, Services and Software.
+
+
+
+
+4.6 Third parties may set and access their own cookies, use their own Web beacons and use their own scripts on and through Six Apart's Sites, Services and Software, on and through third party Web sites or in and through our emails and newsletters. How other companies use their own cookies, Web beacons and scripts and the information they gather is subject to those companies' own privacy policies, not this Privacy Policy.
+
+5\. Information Use, Sharing and Disclosure
+
+5.1 Six Apart does not share Personal Information we learn about you from your use of Six Apart's Sites, Services and Software with others, except as described in this policy.
+
+5.2 Six Apart does not claim ownership over the Personal Information you post on or through Six Apart's Sites, Services or Software. After posting your Personal Information, you continue to retain your ownership of your Personal Information and you continue to have the right to use and license your Personal Information in any way you choose. By using Six Apart's Sites, Services and Software or by otherwise submitting your Personal Information to us, you are granting Six Apart and third parties permission to use, distribute and, in some circumstances, to keep copies of your Personal Information as described in greater detail in this Privacy Policy. You may always decline to submit Personal Information to us, but please be aware that your decision may prevent you from being able to use all or portions of Six Apart's Sites, Services and Software.
+
+5.3 You hereby grant Six Apart a nonexclusive, worldwide, royalty-free, perpetual, irrevocable, sublicenseable and transferable right and license to use, reproduce, create derivative works of, distribute, publicly perform and publicly display your Personal Information. This license ends when you delete your Personal Information or your account (except to the extent that your Personal Information has been shared with others or syndicated to third parties and they have not deleted it or as otherwise described in this Privacy Policy).
+
+5.4 Six Apart is not responsible for how any third party uses, distributes or keeps your Personal Information. If you have any questions regarding how any third party uses, distributes or keeps your Personal Information or you wish to access, correct, amend or delete any of your Personal Information in the possession of that third party, you must contact that third party directly.
+
+5.5 Six Apart uses information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
+
+5.6 We do not share your information with unrelated third parties for their direct marketing purposes. However, Six Apart's Sites, Services and Software may display targeted advertisements based on Personal Information.
+
+5.7 Six Apart may use or share your Personal Information where it is necessary to complete a transaction, to operate or improve Six Apart's Sites, Services and Software, to do something that you have asked us to do or tell you of products and services that we think may be of interest.
+
+5.8 To receive optional email messages such as newsletters and marketing and promotional offers, you will be required to provide us with your email address. In addition to these optional email messages, Six Apart may contact you via any email address you provide to us with transactional or relationship messages such as account status messages, security updates or notifications of changes in the terms of your account or the Services. These types of transactional or relationship email messages are not optional.
+
+5.9 When you post a message, your user ID or alias that you are posting under may be visible to other users.
+
+5.10 When you post a message on or through Six Apart's Sites, Services and Software, you have the ability to post a message which may include Personal Information. Before you post any Personal Information, make sure you are comfortable with that content being shared with Six Apart and displayed on and transmitted through Six Apart's Sites, Services and Software.
+
+5.11 If you post Personal Information online that is accessible to the public, please be aware that you may receive unsolicited messages from other parties in return.
+
+5.12 Six Apart may share personally identifiable information about you under the following circumstances:
+
+  * In the course of operating our business, it may be necessary or appropriate for us to provide access to your Personal Information to others such as our service providers, contractors and select vendors so that we can operate Six Apart's Sites, Services and Software and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this policy and that limit others' use or disclosure of the information you have shared.
+
+  * We may share your Personal Information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights, to defend against legal claims or in such circumstances where, in our judgment, disclosure is required or appropriate.
+
+  * We may share your Personal Information if we believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of service or as otherwise required by law.
+
+  * As we continue to develop our business, we may sell all or part of our business. In such transactions, Personal Information collected from users is generally one of the business assets that will be transferred. The transferred Personal Information will remain subject to this Privacy Policy or subsequent policies to which you have consented.
+
+
+
+
+6\. Advertising
+
+6.1 We may allow advertisers, third party advertising networks and third-party advertising serving companies to serve advertisements directly to you within Six Apart's Sites, Services and Software. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons. If you would like to contact the advertisers, third party advertising networks and third-party advertising serving companies with which we have relationships to learn more about their privacy policies and what options (if any) they offer to opt out of their data collection, please visit their web site(s). You may find a list of links to these companies' Web sites [here](http://www.sixapart.com/advertising/solutions-for-bloggers/privacy/3rd-party-list/index.html). Some of these companies are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks [here](http://www.networkadvertising.org/).
+
+6.2 We collect your interactions with advertising (such as click-throughs) displayed on or through Six Apart's Sites, Services and Software and on those third party Web sites on which we display advertising. We use this information to evaluate and report on the success of the displayed advertising.
+
+7\. Information Relating to Children
+
+7.1 We do not knowingly collect or solicit Personal Information from children under the age of 13 or knowingly allow children under the age of 13 to register for Six Apart's Sites, Services and Software. If you are under 13, do not register or attempt to register for any of Six Apart's Sites, Services and Software or send any information about yourself to us. No one under the age of 13 may provide any Personal Information to, on or through Six Apart's Sites, Services and Software.
+
+7.2 If we learn that we have collected or been sent Personal Information from a child under the age of 13, we will delete that Personal Information as soon as reasonably practical. If you believe that we might have collected or been sent Personal Information from a child under the age of 13, please contact our Customer Support team.
+
+7.3 We recommend that minors 13 years of age or older ask their parents for permission before sending any Personal Information about themselves to, on or through Six Apart's Sites, Services and Software.
+
+8\. Data We Collect Other Than Personal Information
+
+8.1 In addition to the Personal Information you provide to us, we collect data on your use and interaction with Six Apart's Sites, Services and Software. Data which we obtain about you, other than Personal Information, is the exclusive property of Six Apart and may be used by Six Apart in any manner permitted by applicable laws.
+
+9\. Retention of Personal Information and Other Data
+
+9.1 Six Apart reserves the right to retain your Personal Information, other data collected about you and content you submit to Six Apart's Sites, Services and Software to the extent required by applicable laws, rules and regulations and as reasonably necessary to protect our legal interests.
+
+10\. Confidentiality and Security
+
+10.1 No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems:
+
+  * We use physical, electronic, and procedural safeguards to protect Personal Information about you.
+
+  * Your account information is password-protected.
+
+  * In certain areas, Six Apart's Sites, Services and Software use industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
+
+
+
+
+10.2 If Six Apart learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using Six Apart's Sites, Services and Software or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy and administrative issues relating to your use of those Sites, Services and Software. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at:
+
+    
+
+Six Apart Ltd.  
 548 4th St.  
 San Francisco, CA 94107  
-Attention: Privacy Officer
+Attention: Legal Department 
 
-If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use the Six Apart Sites, Products and Services or may require us to terminate our relationship with you.
+11\. Changing your Account Information and Personal Information
 
-_Effective Date: February 1, 2005_
+11.1 You may edit your account information for an applicable Six Apart Site, Product and Service by accessing your account and following the instructions for changing account preferences and account information.
 
-Copyright 2003, 2005 Six Apart, Ltd. All rights reserved.
+11.2 You may delete your account by visiting the applicable account deletion page; however, please note that some Personal Information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements.
+
+11.3 Please be aware that, if you request that no further information about you be collected or used, we may be required to terminate your ability to use Six Apart's Sites, Services and Software, including but not limited to any site, product, or service that requires you to be signed in to your account or otherwise identify yourself.
+
+12\. Contacting Six Apart
+
+12.1 If you have a privacy concern regarding any Six Apart Site, Product or Service, or this Privacy Policy, please contact our Customer Support team or write to us at:
+
+    
+
+Six Apart Ltd.  
+548 4th St.  
+San Francisco, CA 94107  
+Attention: Legal Department 
+
+Last updated January 20, 2010
+
+Copyright © 2003, 2005, 2009, 2010 Six Apart Ltd. All rights reserved.
