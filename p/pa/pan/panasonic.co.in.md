@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the panasonic.co.in privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112257id_/http%3A//www.panasonic.co.in/web/cid/1064) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.co.in privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619122315id_/http%3A//www.panasonic.co.in/web/cid/1064) for the most accurate reproduction.*
 
 # Privacy | Panasonic India
 
 ## Privacy Statement
 
-Panasonic Sales & Sevices India Pvt Ltd has created this privacy statement in order to disclose our information gathering and dissemination practices for this site: http://www.panasonic.co.in
+Panasonic India Pvt Ltd has created this privacy statement in order to disclose our information gathering and dissemination practices for this site: http://www.panasonic.co.in
 
 We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address identifies you, and allows us to gather broad demographic information on site visitors.
 
