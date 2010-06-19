@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219032302id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619081602id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # UUA: UUA Privacy and Data Security Policy
 
@@ -115,10 +115,6 @@ This policy addresses the collection, use, and safeguarding of data about indivi
 
 
 
-Last updated on Tuesday, December 8, 2009. 
+Last updated on Tuesday, June 1, 2010. 
 
-Related Content
-
-Main Navigation
-
-Section Navigation
+Sidebar Content, Page Navigation
