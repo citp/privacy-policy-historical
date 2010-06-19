@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229220833id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619163517id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your Information Is Kept Safe
 
@@ -23,7 +23,7 @@ Here's what we do - and, more importantly, don't do - with any information you p
 
 Your account information is held in strict confidence. All customers' account information is.
 
-We do not sell or share your information with anyone. We only collect information like your name, email address, mailing address, phone number, and billing information so we can provide the services described on this website.
+We do not sell or share your information with anyone. We only collect information like your name, email address, mailing address, phone number, and billing information so we can provide the [email marketing services](https://web.archive.org/) described on this website.
 
   
 
