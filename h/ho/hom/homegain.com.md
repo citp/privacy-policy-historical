@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213703id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619142921id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
 
-# HomeGain -- Find a real estate agent - Realtor - Real Estate - Homes for sale - Home Buying - Home Selling - Home
+# HomeGain -- Find a real estate agent - Realtor - Real Estate - Homes for sale - Home Buying - Home Selling - Home - HomeGain
 
 **Effective December 16, 2008**
 
@@ -74,6 +74,8 @@ To help service your requests, such as a request to Find A REALTOR® or to recei
 
 If you choose to use our service to forward a blog posting from our site to a friend, we will ask you for your name and email address and for your friend’s email address. We will automatically send your friend a one-time email with the information you requested be sent. HomeGain does not store any of the information you have provided. 
 
+We provide users' on the Site the capacity to share information from the Site using a third party widget that allows for the transfer of information to third party sites of your selection, by acting as a bridge between both Sites. While information is transferred through widgets on the Site, none of your personal information is stored within or used for any other purposes. Users' also have the capacity to import contacts on this platform - this third party personal information is only imported with your explicit consent and specifically for those contacts you select - we do not share, or use any of this collected information for promotional services. This third party personal information is stored in a users' account and used specifically to service communication requests where they have been made. 
+
 **Changes in this Privacy Statement**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other pages we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
@@ -88,4 +90,4 @@ If you have any questions or concerns regarding this statement, you should first
 
 **Privacy questions**
 
-If you have any questions about our privacy policy, please contact us at [privacy@homegain.com](mailto:privacy@homegain.com). Our office address is 1250 45th Street, Ste. 200, Emeryville, CA. 94608. 
+If you have any questions about our privacy policy, please contact us at [privacy@homegain.com](mailto:privacy@homegain.com). Our office address is 6001 Shellmound St., Suite 550, Emeryville, CA. 94608. 
