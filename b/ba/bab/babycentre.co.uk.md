@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218020457id_/http%3A//www.babycentre.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619074732id_/http%3A//www.babycentre.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -84,4 +84,4 @@ U.S.A.
 
 ## Changes to This Privacy Policy
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy (v 2.0) was last updated on April 19, 2006.
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy (v 2.0) was last updated on April 19, 2006. 
