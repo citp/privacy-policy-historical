@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218061826id_/http%3A//www.open.collab.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619090258id_/http%3A//www.open.collab.net/legal/privacy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - CollabNet
 
@@ -83,12 +83,6 @@ CollabNet may send you e-mail about your account, about the products you have do
 You may let us know whether or not you would like to receive information, special offers, and promotional materials from CollabNet or our business partners when you create an openCollabNet account, when you register for a service, when you provide us with your personal information, or when we send you e-mail. You may also update these choices in your registration profile at any time. Please note that if you choose not to accept promotional e-mails, you may not receive special offers that may be of value to you.
 
 CollabNet will provide you with the opportunity to opt-out of the newsletter or any of our direct marketing communications at any time. All newsletters and promotional e-mail sent from CollabNet will contain a provision allowing you the option to decline receiving future e-mail. You may unsubscribe to an e-mail communication by contacting CollabNet at the email address provided below and requesting that you be unsubscribed from that specific communication:
-
-  * To unsubscribe from the openCollabNet Technical Newsletter: [unsubscribe-ocn@collab.net](mailto:unsubscribe-ocn@collab.net)
-  * To unsubscribe from other CollabNet email communications: [unsubscribe@collab.net](mailto:unsubscribe@collab.net)  
-
-
-
 
 **Cookies and Other Browser Information**  
 Our Site uses certain "cookies" and other tracking technologies. These technologies allow us to remember your interests as expressed by the pages you visit on our Site and to allow the Site to "remember" your login information to facilitate automatic logins (if desired). A cookie is a small text file that may be used, for example, to collect information about your activities on our Site. The cookie transmits this information back to our Site's computer that, generally speaking, is the only computer that can read it. Some cookies may serve to recall Personal Information previously registered by you. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. You can also set your browser to block or remove cookies; however, if you choose to do so, certain features and functionality of our Websites may no longer be available to you.
