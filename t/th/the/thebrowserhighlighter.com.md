@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebrowserhighlighter.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218172405id_/http%3A//thebrowserhighlighter.com/legal_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrowserhighlighter.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619203043id_/http%3A//thebrowserhighlighter.com/legal_privacy.jsp) for the most accurate reproduction.*
 
 # The Browser Highlighter - Privacy Policy
 
