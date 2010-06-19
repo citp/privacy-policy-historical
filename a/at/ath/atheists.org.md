@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atheists.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218043441id_/http%3A//www.atheists.org/orphans/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atheists.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619064122id_/http%3A//www.atheists.org/orphans/privacy_statement) for the most accurate reproduction.*
 
 # American Atheists | Privacy Statement
 
