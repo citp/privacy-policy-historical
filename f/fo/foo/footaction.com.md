@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footaction.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217125759id_/http%3A//www.footaction.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footaction.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619233218id_/http%3A//www.footaction.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
 
 # Footaction
 
