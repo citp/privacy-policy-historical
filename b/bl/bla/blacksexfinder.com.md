@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024935id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619084210id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # BlackSexFinder - Black Sex, Black Dating - Privacy Policy
 
-| 
-
-[](http://www.blacksexfinder.com/register.php)
-
-|  |  **Information Obtained**
+**Information Obtained**
 
 When you join blacksexfinder.com, you will create a user identity, which will include a username, personal profile, personal narrative and photograph. You will be asked for some personal information to complete your profile such as body type, personal interests, etc. The information you provide is being made available to the public as part of your personal profile and you should recognize as much prior to providing your information. If there is any information that you do not wish to made available to the public at large, you should not post it in your profile. 
 
@@ -41,21 +37,3 @@ blacksexfinder.com reserves the right to change this privacy policy at any time.
 **Contact**
 
 If you have any questions regarding the above Policy Statement, please contact us at info@blacksexfinder.com 
-
-|  | 
-
-|   
----  
-  
-  * **11.28.09**  
-spam alert..BSF members.. Please send us an email if any member is trying to spam u to visit there websites or have fake profiles. WE do not tolerate this and will take approrpriate action.
-  *  **11.11.09**  
-cupid bug fixed. your cupid links in you emails are working now. 
-  * **10.08.09**  
-Webmasters. Join our new Affiliate program and get 50/50 rev share
-  *  **09.18.09**  
-Add titles to all your videos. Go to "My Video Album" and add or edit your titles. We Will be adding default titles to all the videos. 
-  * **03.04.09**  
-Hot Stories have been upgraded. You can view now view more catagories and stories
-
-
