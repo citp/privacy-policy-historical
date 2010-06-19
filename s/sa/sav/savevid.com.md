@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the savevid.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105522id_/http%3A//www.savevid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savevid.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619121004id_/http%3A//www.savevid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Savevid.com
 
-  * Views today: **44718**
-  * Total views: **3876418**
-  * Downloads today: **64796**
-  * Total downloads: **14413701**
+  * Views today: **64979**
+  * Total views: **69347929**
+  * Downloads today: **83286**
+  * Total downloads: **76488279**
 
 
 
