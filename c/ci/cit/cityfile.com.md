@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityfile.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217020220id_/http%3A//cityfile.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityfile.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619083131id_/http%3A//cityfile.com/about/privacy) for the most accurate reproduction.*
 
 # Cityfile: Privacy Policy
 
