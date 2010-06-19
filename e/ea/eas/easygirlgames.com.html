@@ -1,0 +1,434 @@
+<!--The following is the downloaded HTML source of the easygirlgames.com privacy policy that was archived on 2010-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619211500id_/http%3A//www.easygirlgames.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy</title>
+<meta name="description" content="Privacy Policy for www.easygirlgames.com">
+<meta name="keywords" content="Privacy Policy"> 
+<link rel="stylesheet" type="text/css" href="http://www.easygirlgames.com/templates/arcadeclassic/rating_style.css">
+<meta name="copyright" content="easygirlgames.com 2009">
+<meta name="revisit-after" content="1 day">
+<meta name="Distribution" content="Global">
+<meta name="classification" content="Girl Games">
+<link rel="shortcut icon" href="http://www.easygirlgames.com/images/favion.ico">
+<script src="http://www.easygirlgames.com/javascript/pretext.js"></script>
+<script type="text/javascript" src="http://www.easygirlgames.com/js/rating_update.js"></script>	
+<script type="text/javascript" src="http://www.easygirlgames.com/js/pread.js"></script>	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link type="text/css" rel="stylesheet" href="http://www.easygirlgames.com/templates/arcadeclassic/css/all.css">
+	<link type="text/css" rel="stylesheet" href="http://www.easygirlgames.com/trade.css">
+	<script type="text/javascript" src="http://www.easygirlgames.com/templates/arcadeclassic/js/main.js"></script>
+	<script type="text/javascript" src="http://www.easygirlgames.com/templates/arcadeclassic/js/arcade.js"></script>
+	<!--[if lt IE 7]><link type="text/css" rel="stylesheet" href="http://www.easygirlgames.com/templates/arcadeclassic/css/ie.css" />
+<![endif]-->
+<script type="text/javascript" language="javascript">
+function CopyToClipboard()
+{
+   CopiedTxt = document.selection.createRange();
+   CopiedTxt.execCommand("Copy");
+}
+  var http_request = false;
+  function show_hint ( p_hint_text, p_span ) {
+    document.getElementById(p_span).innerHTML = p_hint_text ;
+  }
+  function makePOSTRequest(url, parameters, SpanName) {
+    http_request = false;
+    if (window.XMLHttpRequest) { // Mozilla, Safari,...
+    http_request = new XMLHttpRequest();
+    if (http_request.overrideMimeType) {
+    http_request.overrideMimeType('text/xml');
+    }
+    } else if (window.ActiveXObject) { // IE
+    try {
+    http_request = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+    try {
+    http_request = new ActiveXObject("Microsoft.XMLHTTP");
+    } catch (e) {}
+    }
+    }
+    if (!http_request) {
+    alert('Cannot create XMLHTTP instance');
+    return false;
+    }
+    http_request.onreadystatechange = function() {
+    if (http_request.readyState == 4) {
+    if (http_request.status == 200) {
+    //alert(http_request.responseText);
+    result = http_request.responseText;
+    document.getElementById(SpanName).innerHTML = result;
+    document.getElementById('status').innerHTML = 'Ready'; 
+    } else {
+    alert('There was a problem with the request.');
+    }
+    }
+    };
+    http_request.open('POST', url, true);
+    http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    http_request.setRequestHeader("Content-length", parameters.length);
+    http_request.setRequestHeader("Connection", "close");
+    http_request.send(parameters);
+  }
+  function Contact(obj,SpanName,DivName) {
+    var curDateTime = new Date(); //For IE 
+    var SpanName = SpanName; 
+    if(DivName == 'tf'){
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    //alert (SpanName); 
+    makePOSTRequest('http://www.easygirlgames.com/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+    if(DivName == 'tfv'){
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  	  				"&verifycode=" + encodeURI( document.getElementById("tafverifycode").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    //alert (SpanName); 
+    makePOSTRequest('http://www.easygirlgames.com/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+    if(DivName == 'cf'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value );
+    //alert (SpanName); 
+    makePOSTRequest('http://www.easygirlgames.com/index.php?action=addcommentajax', poststr, SpanName);
+    }
+    if(DivName == 'cfv'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value ) +
+  					"&verifycode=" + encodeURI( document.getElementById("cverifycode").value );
+    //alert (SpanName); 
+    makePOSTRequest('http://www.easygirlgames.com/index.php?action=addcommentajax', poststr, SpanName);
+    }
+    document.getElementById(DivName).style.display = 'none';
+  } 
+</script>
+<!-- bookmark --> 
+<script type="text/javascript"> 
+function bookmarksite(title,url){ 
+if (window.sidebar) // firefox 
+   window.sidebar.addPanel(title, url, ""); 
+else if(window.opera && window.print){ // opera 
+   var elem = document.createElement('a'); 
+   elem.setAttribute('href',url); 
+   elem.setAttribute('title',title); 
+   elem.setAttribute('rel','sidebar'); 
+   elem.click(); 
+} 
+else if(document.all)// ie 
+   window.external.AddFavorite(url, title); 
+} 
+</script> 
+<!-- bookmark -->
+<!-- Generated by OpenX 2.8.1 -->
+<script type="text/javascript" src="http://www.wbgincads.com/www/delivery/spcjs.php?id=1&amp;target=_blank"></script>
+<meta name="google-site-verification" content="bYunqV-_LmQkZJLgaQcqaD3A_3S0ghrYWjHHOXy-c-U">
+</head>
+<body>
+	<div id="main">
+	<div id="header">
+	  <h1 class="logo"><a href="http://www.easygirlgames.com/">Girls Games</a></h1>
+		<!-- end logo -->
+			<div class="banner"><iframe src="http://www.easygirlgames.com/ads/leaderboard.php" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+
+</div>
+</div>
+<!-- end header -->
+		<div class="container">
+			<div class="top">
+				<div class="bottom">
+				<!-- navigation -->
+					<ul class="main-navigation">
+					    <li><a href="http://www.easygirlgames.com">Home</a></li>
+                         <li><a href="http://www.easygirlgames.com/barbie-games.html">Barbie</a></li>
+           		      <li><a href="http://www.easygirlgames.com/bratz-games.html">Bratz</a></li>
+					  <li><a href="http://www.easygirlgames.com/celebrity-games.html">Celebrity</a></li>
+					  <li><a href="http://www.easygirlgames.com/cooking-games.html">Cooking</a></li>
+					  <li><a href="http://www.easygirlgames.com/dress-up-games.html">Dress Up</a></li>
+                       <li><a href="http://www.easygirlgames.com/kissing.html">Kissing</a></li>
+					  <li><a href="http://www.easygirlgames.com/make-over-games.html">MakeOver</a></li>
+					  <li><a href="http://www.easygirlgames.com/categories/134/doll-maker.html"></a><a href="http://www.easygirlgames.com/other-girl-games.html">More..</a></li>
+					  <li><a href="http://www.easygirlgames.com/articles/">Blog</a></li>
+                      <li><a href="javascript:bookmarksite('EasyGirlGames.com', 'http://www.easygirlgames.com/')" target="_self">Bookmark Us</a></li>
+					</ul>
+<!-- end navigation -->
+					<div class="content-holder">
+					<!-- content -->
+
+
+						
+
+            <div id="content">
+
+		<!-- CONTENT PAGE -->
+		<h2><b>Privacy Policy for www.easygirlgames.com </b></h2><br>
+<br>
+If you require any more information or have any questions about our privacy policy, please feel free to <a href="http://www.easygirlgames.com/contact.php">contact us</a> by by clicking the contact us link.<br>
+At www.easygirlgames.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.easygirlgames.com and how it is used. <br>
+Log Files<br>
+Like many other Web sites, www.easygirlgames.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. <br>
+Cookies and Web Beacons<br>
+www.easygirlgames.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. <br>
+DoubleClick DART Cookie<br>
+• Google, as a third party vendor, uses cookies to serve ads on www.easygirlgames.com.<br>
+• Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. <br>
+• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html <br>
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: <br>
+Google Adsense<br>
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.easygirlgames.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. <br>
+www.easygirlgames.com has no access to or control over these cookies that are used by third-party advertisers. <br>
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.easygirlgames.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. <br>
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. <br>
+    <!-- END CONTENT PAGE -->	
+						</div>
+					<!-- end content -->
+					<!-- right column -->
+
+
+
+
+
+
+
+
+
+						<div id="right-column">
+												<!-- search -->
+							<div class="search">
+								<h3>Search Girl Games</h3>
+								<form action="http://www.easygirlgames.com/index.php" method="post" name="searchform" id="searchform">
+									<fieldset>
+										<div class="text-2">
+										  <input name="q" id="q" type="text" value="Dress Up" onfocus="if( this.value == 'Dress Up' ) this.value = '';" onblur="if( this.value == '' ) this.value = 'Dress Up';">
+										</div>
+									<a href="#" onclick="document.searchform.submit()" class="button-2">Go</a>
+									</fieldset>
+								</form>
+							</div>
+                            <!-- search end -->
+                           
+                            <div class="bookmark">
+								<a href="javascript:bookmarksite('EasyGirlGames.com', 'http://www.easygirlgames.com/')" target="_self" class="clicky">CLICKY!</a>
+								<a href="javascript:bookmarksite('EasyGirlGames.com', 'http://www.easygirlgames.com/')" target="_self">Please bookmark <span>EasyGirlGames.com</span> by clicking here</a>							</div>
+               
+                             
+                             <!-- new 300x250 spot -->
+                            <div class="block-2">
+								<div class="bottom-block-2">
+                        
+									<h3>Hottest Girl Games</h3>
+									<div class="block-content-2">
+										<div class="bottom-block-content-2">
+											<ul class="games-holder">
+												<li>
+													<div class="game-block-3">
+												  <!-- BEGIN STANDARD 278 x 232 Our Games- Easy Girl Games::Entire Site - DO NOT MODIFY -->
+<iframe id="a2fecd20" name="a2fecd20" src="http://www.easygirlgames.com/eggads/www/delivery/afr.php?zoneid=1&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="278" height="232"><a href='http://www.easygirlgames.com/eggads/www/delivery/ck.php?n=aa0e2d44&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.easygirlgames.com/eggads/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa0e2d44' border='0' alt='' /></a></iframe>
+<!-- END TAG -->                                            
+												  </div>
+
+											  </li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+                            <!-- new 300x250 spot end -->                            
+                                <!-- new 300x250 spot -->
+                            <div class="block-2">
+								<div class="bottom-block-2">
+                        
+									<h3>Players Favorite Games</h3>
+									<div class="block-content-2">
+										<div class="bottom-block-content-2">
+											<ul class="games-holder">
+												<li>
+													<div class="game-block-3">
+												  <!-- BEGIN STANDARD 278 x 232 Our Games- Easy Girl Games::Entire Site - DO NOT MODIFY -->
+<iframe id="a5a7f423" name="a5a7f423" src="http://www.easygirlgames.com/eggads/www/delivery/afr.php?zoneid=2&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="278" height="232"><a href='http://www.easygirlgames.com/eggads/www/delivery/ck.php?n=a2ab62bc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.easygirlgames.com/eggads/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2ab62bc' border='0' alt='' /></a></iframe>
+
+<!-- END TAG -->                                            
+												  </div>
+
+											  </li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+                            <!-- new 300x250 spot end -->
+                            
+                                                         
+                            
+			
+             
+                      
+
+  
+
+
+
+                                                       
+	               <!-- Advert 300x250 spot start --> 
+                              <iframe src="http://www.easygirlgames.com/ads/cube300x250_4.php" width="300" height="250" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+
+  <!-- Advert 300x250 spot end --> 
+     
+    <!-- new 300x250 spot -->
+                            <div class="block-2">
+								<div class="bottom-block-2">
+                        
+									<h3>Exclusive Girl Games</h3>
+									<div class="block-content-2">
+										<div class="bottom-block-content-2">
+											<ul class="games-holder">
+												<li>
+													<div class="game-block-3">
+												  <!-- BEGIN STANDARD 278 x 232 Our Games- Easy Girl Games::Entire Site - DO NOT MODIFY -->
+<iframe id="acb928a3" name="acb928a3" src="http://www.easygirlgames.com/eggads/www/delivery/afr.php?zoneid=16&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="278" height="232"><a href='http://www.easygirlgames.com/eggads/www/delivery/ck.php?n=ab2f1bda&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.easygirlgames.com/eggads/www/delivery/avw.php?zoneid=16&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab2f1bda' border='0' alt='' /></a></iframe>
+
+<!-- END TAG -->                                            
+												  </div>
+
+											  </li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+                            <!-- new 300x250 spot end -->  
+                            
+                                         
+							 <!-- BOOKMARK --> 
+							<div class="bookmark">
+								<a href="javascript:bookmarksite('EasyGirlGames.com', 'http://www.easygirlgames.com/')" target="_self" class="clicky">CLICKY!</a>
+								<a href="javascript:bookmarksite('EasyGirlGames.com', 'http://www.easygirlgames.com/')" target="_self">Please bookmark <span>EasyGirlGames.com</span> by clicking here</a>							</div> <!-- BOOKMARK --> 
+						</div>
+
+
+
+					<!-- end right column -->
+					</div>
+				<!-- bottom navigations -->
+					<div class="modules-holder">
+						<div class="module first">
+							<div class="heading">
+								<h3>Navigation</h3>
+							</div>
+							<ul>
+								<li><a href="http://www.easygirlgames.com/">Home</a></li>
+								<li><a href="http://www.easygirlgames.com/Register.html">Register</a></li>
+								<li><a href="javascript:bookmarksite('EasyGirlGames.com', 'http://www.easygirlgames.com/')" target="_self">Bookmark Us</a></li>
+							  <li>
+								<a href="http://www.easygirlgames.com/Trade-Traffic.html">
+								1 to 1 Trades</a></li>
+							  <li><a href="http://www.easygirlgames.com/Traffic-Stats.html">Traders Stats</a></li>
+							  <li><a href="http://www.easygirlgames.com/advertise.html">Advertise</a></li>
+							  <li><a href="http://www.easygirlgames.com/privacy.html">Privacy Policy</a></li>
+							</ul>
+					  </div>
+						<div class="module second">
+							<div class="heading">
+								<h3>Categories</h3>
+							</div>
+							<ul>
+								<li><a href="http://www.easygirlgames.com/dress-up-games.html">Dress Up</a></li>
+							  <li><a href="http://www.easygirlgames.com/cooking-games.html">Cooking</a></li>
+							  <li><a href="http://www.easygirlgames.com/celebrity-games.html">Celebrity</a></li>
+							  <li><a href="http://www.easygirlgames.com/barbie-games.html">Barbie</a></li>
+							  <li><a href="http://www.easygirlgames.com/make-over-games.html">Make Over</a></li>
+                               <li><a href="http://www.easygirlgames.com/kissing.html">Kissing</a></li>
+						  </ul>
+							<ul>
+								<li>
+								<a href="http://www.easygirlgames.com/make-over-games.html">Make Over</a></li>
+							  <li>
+								<a href="http://www.easygirlgames.com/doll-maker-games.html">Doll Maker</a></li>
+							  <li>
+								<a href="http://www.easygirlgames.com/decor-games.html">Room Decorating</a></li>
+							  <li>
+								<a href="http://www.easygirlgames.com/other-girl-games.html">Other</a></li>
+						      <li><a href="http://www.easygirlgames.com/rss.php?type=newest_content&amp;limit=15">Newest Content		</a></li>
+                              <li><a href="http://www.easygirlgames.com/articles/">Girl Games Articles</a></li>
+						  </ul>
+					  </div>
+						<div class="module third">
+							<div class="heading">
+								<h3>Girl Friends</h3>
+							</div>
+							<ul>
+								<li><a href="http://www.playpink.com/" target="_blank">Dress Up Games</a></li>
+							  <li><a href="http://www.easygirlgames.com/cooking-games.html">Cooking</a></li>
+							  <li><a href="http://www.easygirlgames.com/celebrity-games.html">Celebrity</a></li>
+							  <li><a href="http://www.easygirlgames.com/barbie-games.html">Barbie</a></li>
+							  <li><a href="http://www.easygirlgames.com/make-over-games.html">Make Over</a></li>
+						  </ul>
+					  <ul>
+								<li><a href="http://www.easygirlgames.com/make-over-games.html">Make Over</a></li>
+							  <li>
+								<a href="http://www.easygirlgames.com/doll-maker-games.html">Doll Maker</a></li>
+							  <li>
+								<a href="http://www.easygirlgames.com/decor-games.html">Room Decorating</a></li>
+							  <li>
+								<a href="http://www.easygirlgames.com/other-girl-games.html">Other</a></li>
+					          <li><a href="http://www.rainbowdressup.com" target="_blank">Dress Up Games</a></li>
+					  </ul>
+<ul>
+								<li>
+								<a href="http://www.easygirlgames.com/make-over-games.html">Make Over</a><a href="http://www.easygirlgames.com/categories/132/makeover.html"></a></li>
+								<li>
+								<a href="http://www.easygirlgames.com/categories/134/doll-maker.html"> Doll Maker</a></li>
+								<li><a href="http://www.easygirlgames.com/decor-games.html">Room Decorating</a></li>
+							    <li><a href="http://www.easygirlgames.com/dress-up-games.html">Dress Up Games</a></li>
+              <li><a href="http://www.easygirlgames.com/Download-Girl-Games.html" target="_self">Webmasters</a></li>
+</ul>
+					  </div>
+					</div>
+				<!-- end bottom navigations -->
+				<!-- footer -->
+					<div id="footer">
+
+						<p>Copyright © 2008 EasyGirlGames.com - All Rights Reserved. 
+                        </p><div style="display:none;">
+                        
+						  <script type="text/javascript" src="http://widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('i6prs54fa2an')</script></div>
+                          <p></p>
+                        
+				  </div>
+				<!-- end footer -->
+			  </div>
+		  </div>
+		</div>
+</div>
+
+<!-- Begin google analytics -->
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2379367-21");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+ <!-- End google analytics -->
+ <!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-42NmyH1G_-5pI"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-42NmyH1G_-5pI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+</body></html>
