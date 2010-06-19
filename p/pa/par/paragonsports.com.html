@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paragonsports.com privacy policy that was archived on 2009-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219033132id_/http%3A//www.paragonsports.com/webapp/wcs/stores/servlet/PrivacyView%3FstoreId%3D10551%26catalogId%3D10051%26langId%3D-1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paragonsports.com privacy policy that was archived on 2010-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619123521id_/http%3A//www.paragonsports.com/webapp/wcs/stores/servlet/PrivacyView%3FstoreId%3D10551%26catalogId%3D10051%26langId%3D-1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Policy</title>
@@ -128,9 +128,9 @@
 
 
 
-								
-							
-				
+
+
+
 
 
 
@@ -139,18 +139,36 @@
 
 <!-- Only load this javascript if the page is not secure, to prevent security warnings -->
 <script type="text/javascript">
+
+  var currentpageurl = location.href;
   var trackTrans = new Boolean(false);
   var http_protocol = new Boolean(false);
-  var noTrans = new Boolean(true);  
-  
-	if( location.protocol == "http:" )
+  var noTrans = new Boolean(true);
+  var categoriesToTrack = ["Baseball","Cycling","Tennis","Running","Camping"];
+
+	if(location.protocol == "http:")
 	{
 		document.write('<s'+'cript language="javascript" src="/avant_sfpc_10037.js"></s'+'cript>');
-		document.write('<s'+'cript src="http://cts.channelintelligence.com/12811264_landing.js"></s'+'cript>' );
-		document.write('<s'+'cript type="text/javascript" src="http://px.steelhousemedia.com/pr?get_px=1&prov_id=8993"></s'+'cript>');
+		document.write('<s'+'cript src="http://cts.channelintelligence.com/12811264_landing.js"></s'+'cript>');
+
+		var sht = null;
+	    if(currentpageurl.indexOf('/category/') !=-1){
+	        for(var i = 0; i < categoriesToTrack.length; i++){
+				 if(currentpageurl.indexOf(categoriesToTrack[i]) !=-1){
+				    sht = 1 + i;
+				    document.write('<s'+'cript type="text/javascript" src="http://px.steelhousemedia.com/pr?get_px=1&prov_id=8993&spt='+sht+'"></s'+'cript>');
+				 }
+            }
+            if(sht == null){
+			    document.write('<s'+'cript type="text/javascript" src="http://px.steelhousemedia.com/pr?get_px=1&prov_id=8993"></s'+'cript>');
+			}
+        }else{
+            document.write('<s'+'cript type="text/javascript" src="http://px.steelhousemedia.com/pr?get_px=1&prov_id=8993"></s'+'cript>');
+	    }
+
 	}else{
-	     (document.location.toString().search(/OrderOKView/) != -1)?trackTrans=true:trackTrans=false; 
-	     http_protocol = true;   
+	     (currentpageurl.toString().search(/OrderOKView/) != -1)?trackTrans=true:trackTrans=false;
+	     http_protocol = true;
 	}
 </script>
 
@@ -287,15 +305,15 @@
 <div id="nav-secondary" onmouseover="clearAllNav();">
 	
 		
-		    <a href="LogonForm?langId=-1&amp;storeId=10551&amp;catalogId=10051">Log In</a> | 
-		    <a href="UserRegistrationForm?langId=-1&amp;storeId=10551&amp;catalogId=10051&amp;new=Y">Register</a> | 
+		    <a href="LogonForm?langId=-1&amp;storeId=10551&amp;catalogId=10051">Log In</a> |
+		    <a href="UserRegistrationForm?langId=-1&amp;storeId=10551&amp;catalogId=10051&amp;new=Y">Register</a> |
     	
     	
     
-    <a href="LogonForm?langId=-1&amp;storeId=10551&amp;catalogId=10051&amp;page=orderstatus">Order Status</a> | 
+    <a href="LogonForm?langId=-1&amp;storeId=10551&amp;catalogId=10051&amp;page=orderstatus">Order Status</a> |
     <a href="ParagonContent_10551_10051_-1_customerservice">Customer Service</a>
 	
-	
+
 </div>
 
 
@@ -305,6 +323,16 @@
 		     #nav-searchbox{position: relative; top: -3px; left: -2px; height: 17px; width: 125px;}
 		</style>
 <![endif]-->
+<!--[if lt IE 8]>
+        <style>
+		     #nav-primary{margin-top: -18px}
+		</style>
+<![endif]-->
+<!--[if IE 8]>
+        <style>
+		     #nav-primary{margin-top: -4px}
+		</style>
+<![endif]-->
 
 
 
@@ -312,13 +340,13 @@
 	<form name="CatalogSearchForm" action="CatalogSearchResultView" method="get" id="nav-search-form" onsubmit="returnAllProdCheck()">
 		<img src="/wcsstore/ConsumerDirectStorefrontAssetStore/images/nav_search.gif" width="73" height="23" alt="Search ">
 		<label for="nav-searchbox">Search</label>
-		
+
 		<input type="text" class="textEntry" name="ip_text" id="nav-searchbox" value="(Keyword or Item Number)" onfocus="if (this.value==this.defaultValue) { this.value=''; this.style.color='black'; }" onblur="if (this.value=='') {this.value=this.defaultValue; this.style.color='#a4a4a4'; }">
-						
+
 		<!--
 	    The w3.org deprecates input[type='image'] and would prefer I class and style a background on
 	    a plain submit button.
-	
+
 	    ...except you can't set a background on an input element in KHTML.  Which includes Safari.-->
 		<input type="image" src="/wcsstore/ConsumerDirectStorefrontAssetStore//images/nav_search-go.gif" alt="GO" value="GO">
 		<input type="hidden" name="storeId" value="10551" id="WC_CachedHeaderDisplay_FormInput_storeId_In_CatalogSearchForm_1">
@@ -337,8 +365,8 @@
 		<input type="hidden" name="ip_relax" value="">
  	</form>
 </div>
- 
- 
+
+
 <script type="text/javascript">
 <!--
 var navElementCurrent = "";
@@ -375,7 +403,7 @@ function clearAllNav() {
 }
 
 function returnAllProdCheck() {
-	
+
 	if (document.CatalogSearchForm.ip_text.value == '(Keyword or Item Number)'){
 		document.CatalogSearchForm.ip_text.value = ' ';
 		//document.CatalogSearchForm.submit();
@@ -410,15 +438,28 @@ function submitNewsletterForm( _s_email )
 var newsletter_bademail="The email address you entered does not appear to be valid.";
 		
 	
-	
+
 	if( checkEmail( _s_email ) )
 	{
-		alert(newsletter_thankyou);
 		var s_url = document.location.href;
 		s_url = s_url.replace( "#", "" );
+
+        eImg = document.createElement('img');
+		eImg.setAttribute( 'src', 'http://app.bronto.com/public/?q=direct_add&fn=Public_DirectAddForm&id=bpzcvkvfignoyrbehcfdeovhnemwbmp&email=' + _s_email + '&sendWelcome=always&messageId=228c0b2c3f0eeca6049795602dbaefa1&fromName=Paragon+Sports&fromAddress=donotreply%40paragonsports.com&list1=0bbf03ec0000000000000000000000036506');
+		eImg.setAttribute('width', '0');
+		eImg.setAttribute('height', '0');
+		eImg.setAttribute('border', '0');
+		document.getElementById('footer').appendChild(eImg);		
+		
+	/*
+	    WebSphere Email Submit
+	
 		document.NewsLetterNavForm.URL.value = s_url;
 		document.NewsLetterNavForm.email_address.value = _s_email;
 		document.NewsLetterNavForm.submit();
+	*/	
+	       alert(newsletter_thankyou);
+	
 	}
 	else
 	{
@@ -459,7 +500,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing_10551_10051_20000_20005_-1.htm"><img src="/wcsstore/Paragon/images/nav_clothing.gif" alt="Clothing"></a><br>
+									  <a href="/category/Mens-Clothing_10551_10051_20000_20005_-1.htm">
+									     
+										 <img src="/wcsstore/Paragon/images/nav_clothing.gif" alt="Clothing"></a><br>
+								      
 								  
 							  
 						  
@@ -469,13 +513,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Baseball_10551_10051_20000_20485_-1.htm">Baseball</a><br>
+									  <a href="/category/Mens-Clothing-Baseball_10551_10051_20000_20485_-1.htm">
+									     
+										 Baseball</a><br>
+								      
 								  
 							  
 						  
@@ -485,13 +531,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Basketball_10551_10051_20000_20486_-1.htm">Basketball</a><br>
+									  <a href="/category/Mens-Clothing-Basketball_10551_10051_20000_20486_-1.htm">
+									     
+										 Basketball</a><br>
+								      
 								  
 							  
 						  
@@ -501,13 +549,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Boating_10551_10051_20000_20487_-1.htm">Boating</a><br>
+									  <a href="/category/Mens-Clothing-Boating_10551_10051_20000_20487_-1.htm">
+									     
+										 Boating</a><br>
+								      
 								  
 							  
 						  
@@ -517,13 +567,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Casual_10551_10051_20000_20488_-1.htm">Casual</a><br>
+									  <a href="/category/Mens-Clothing-Casual_10551_10051_20000_20488_-1.htm">
+									     
+										 Casual</a><br>
+								      
 								  
 							  
 						  
@@ -533,13 +585,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Cycling_10551_10051_20000_20489_-1.htm">Cycling</a><br>
+									  <a href="/category/Mens-Clothing-Cycling_10551_10051_20000_20489_-1.htm">
+									     
+										 Cycling</a><br>
+								      
 								  
 							  
 						  
@@ -549,13 +603,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Fitness_10551_10051_20000_20490_-1.htm">Fitness</a><br>
+									  <a href="/category/Mens-Clothing-Fitness_10551_10051_20000_20490_-1.htm">
+									     
+										 Fitness</a><br>
+								      
 								  
 							  
 						  
@@ -565,13 +621,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Football_10551_10051_20000_20491_-1.htm">Football</a><br>
+									  <a href="/category/Mens-Clothing-Football_10551_10051_20000_20491_-1.htm">
+									     
+										 Football</a><br>
+								      
 								  
 							  
 						  
@@ -581,13 +639,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Golf_10551_10051_20000_20492_-1.htm">Golf</a><br>
+									  <a href="/category/Mens-Clothing-Golf_10551_10051_20000_20492_-1.htm">
+									     
+										 Golf</a><br>
+								      
 								  
 							  
 						  
@@ -597,13 +657,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Hiking_10551_10051_20000_20493_-1.htm">Hiking</a><br>
+									  <a href="/category/Mens-Clothing-Hiking_10551_10051_20000_20493_-1.htm">
+									     
+										 Hiking</a><br>
+								      
 								  
 							  
 						  
@@ -613,13 +675,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-MLB-Shop_10551_10051_20000_20494_-1.htm">MLB Shop</a><br>
+									  <a href="/category/Mens-Clothing-MLB-Shop_10551_10051_20000_20494_-1.htm">
+									     
+										 MLB Shop</a><br>
+								      
 								  
 							  
 						  
@@ -629,13 +693,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-NBA-Shop_10551_10051_20000_20495_-1.htm">NBA Shop</a><br>
+									  <a href="/category/Mens-Clothing-NBA-Shop_10551_10051_20000_20495_-1.htm">
+									     
+										 NBA Shop</a><br>
+								      
 								  
 							  
 						  
@@ -645,13 +711,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-NCAA-_10551_10051_20000_20496_-1.htm">NCAA </a><br>
+									  <a href="/category/Mens-Clothing-NCAA-_10551_10051_20000_20496_-1.htm">
+									     
+										 NCAA </a><br>
+								      
 								  
 							  
 						  
@@ -661,13 +729,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-NFL-Shop_10551_10051_20000_20497_-1.htm">NFL Shop</a><br>
+									  <a href="/category/Mens-Clothing-NFL-Shop_10551_10051_20000_20497_-1.htm">
+									     
+										 NFL Shop</a><br>
+								      
 								  
 							  
 						  
@@ -677,13 +747,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-NHL-Shop_10551_10051_20000_20498_-1.htm">NHL Shop</a><br>
+									  <a href="/category/Mens-Clothing-NHL-Shop_10551_10051_20000_20498_-1.htm">
+									     
+										 NHL Shop</a><br>
+								      
 								  
 							  
 						  
@@ -693,13 +765,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Outerwear_10551_10051_20000_20499_-1.htm">Outerwear</a><br>
+									  <a href="/category/Mens-Clothing-Outerwear_10551_10051_20000_20499_-1.htm">
+									     
+										 Outerwear</a><br>
+								      
 								  
 							  
 						  
@@ -709,13 +783,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Performance-Apparel_10551_10051_20000_22060_-1.htm">Performance Apparel</a><br>
+									  <a href="/category/Mens-Clothing-Performance-Apparel_10551_10051_20000_22060_-1.htm">
+									     
+										 Performance Apparel</a><br>
+								      
 								  
 							  
 						  
@@ -725,13 +801,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Running_10551_10051_20000_20500_-1.htm">Running</a><br>
+									  <a href="/category/Mens-Clothing-Running_10551_10051_20000_20500_-1.htm">
+									     
+										 Running</a><br>
+								      
 								  
 							  
 						  
@@ -741,13 +819,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Skateboard_10551_10051_20000_20501_-1.htm">Skateboard</a><br>
+									  <a href="/category/Mens-Clothing-Skateboard_10551_10051_20000_20501_-1.htm">
+									     
+										 Skateboard</a><br>
+								      
 								  
 							  
 						  
@@ -757,13 +837,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Skiing_10551_10051_20000_20582_-1.htm">Skiing</a><br>
+									  <a href="/category/Mens-Clothing-Skiing_10551_10051_20000_20582_-1.htm">
+									     
+										 Skiing</a><br>
+								      
 								  
 							  
 						  
@@ -773,13 +855,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Snowboarding_10551_10051_20000_20584_-1.htm">Snowboarding</a><br>
+									  <a href="/category/Mens-Clothing-Snowboarding_10551_10051_20000_20584_-1.htm">
+									     
+										 Snowboarding</a><br>
+								      
 								  
 							  
 						  
@@ -789,13 +873,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Soccer_10551_10051_20000_20502_-1.htm">Soccer</a><br>
+									  <a href="/category/Mens-Clothing-Soccer_10551_10051_20000_20502_-1.htm">
+									     
+										 Soccer</a><br>
+								      
 								  
 							  
 						  
@@ -805,13 +891,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Socks_10551_10051_20000_20503_-1.htm">Socks</a><br>
+									  <a href="/category/Mens-Clothing-Socks_10551_10051_20000_20503_-1.htm">
+									     
+										 Socks</a><br>
+								      
 								  
 							  
 						  
@@ -821,13 +909,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Swimming_10551_10051_20000_20504_-1.htm">Swimming</a><br>
+									  <a href="/category/Mens-Clothing-Spin_10551_10051_20000_49309_-1.htm">
+									     
+										 Spin</a><br>
+								      
 								  
 							  
 						  
@@ -837,13 +927,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Tennis_10551_10051_20000_20505_-1.htm">Tennis</a><br>
+									  <a href="/category/Mens-Clothing-Swimming_10551_10051_20000_20504_-1.htm">
+									     
+										 Swimming</a><br>
+								      
 								  
 							  
 						  
@@ -853,13 +945,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Travel_10551_10051_20000_20506_-1.htm">Travel</a><br>
+									  <a href="/category/Mens-Clothing-Tennis_10551_10051_20000_20505_-1.htm">
+									     
+										 Tennis</a><br>
+								      
 								  
 							  
 						  
@@ -869,13 +963,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Triathlon_10551_10051_20000_20507_-1.htm">Triathlon</a><br>
+									  <a href="/category/Mens-Clothing-Travel_10551_10051_20000_20506_-1.htm">
+									     
+										 Travel</a><br>
+								      
 								  
 							  
 						  
@@ -885,16 +981,55 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Clothing-Underwear_10551_10051_20000_20508_-1.htm">Underwear</a><br>
+									  <a href="/category/Mens-Clothing-Triathlon_10551_10051_20000_20507_-1.htm">
+									     
+										 Triathlon</a><br>
+								      
 								  
 							  
 						  
+							  
+								  
+								  
+								  
+								      
+									      
+									          
+									      
+									      
+								      
+									  
+									  <a href="/category/Mens-Clothing-Underwear_10551_10051_20000_20508_-1.htm">
+									     
+										 Underwear</a><br>
+								      
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									          
+									      
+									      
+								      
+									  
+									  <a href="/category/Mens-Clothing-Yoga_10551_10051_20000_49304_-1.htm">
+									     
+										 Yoga</a><br>
+								      
+								  
+							  
+						  
+
 						</td>
 						
 						<td class="nav-primary-style2-column2">
@@ -910,7 +1045,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear_10551_10051_20000_20008_-1.htm"><img src="/wcsstore/Paragon/images/nav_footwear.gif" alt="Footwear"></a><br>
+									  <a href="/category/Mens-Footwear_10551_10051_20000_20008_-1.htm">
+									     
+										 <img src="/wcsstore/Paragon/images/nav_footwear.gif" alt="Footwear"></a><br>
+								      
 								  
 							  
 						  
@@ -920,13 +1058,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Basketball_10551_10051_20000_35805_-1.htm">Basketball</a><br>
+									  <a href="/category/Mens-Footwear-Basketball_10551_10051_20000_35805_-1.htm">
+									     
+										 Basketball</a><br>
+								      
 								  
 							  
 						  
@@ -936,13 +1076,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Baseball_10551_10051_20000_20510_-1.htm">Baseball</a><br>
+									  <a href="/category/Mens-Footwear-Baseball_10551_10051_20000_20510_-1.htm">
+									     
+										 Baseball</a><br>
+								      
 								  
 							  
 						  
@@ -952,13 +1094,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Boating_10551_10051_20000_35303_-1.htm">Boating</a><br>
+									  <a href="/category/Mens-Footwear-Boating_10551_10051_20000_35303_-1.htm">
+									     
+										 Boating</a><br>
+								      
 								  
 							  
 						  
@@ -968,13 +1112,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Clogs_10551_10051_20000_35304_-1.htm">Clogs</a><br>
+									  <a href="/category/Mens-Footwear-Clogs_10551_10051_20000_35304_-1.htm">
+									     
+										 Clogs</a><br>
+								      
 								  
 							  
 						  
@@ -984,13 +1130,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Casual_10551_10051_20000_20515_-1.htm">Casual</a><br>
+									  <a href="/category/Mens-Footwear-Casual_10551_10051_20000_20515_-1.htm">
+									     
+										 Casual</a><br>
+								      
 								  
 							  
 						  
@@ -1000,13 +1148,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Cross-Training_10551_10051_20000_20517_-1.htm">Cross Training</a><br>
+									  <a href="/category/Mens-Footwear-Cross-Training_10551_10051_20000_20517_-1.htm">
+									     
+										 Cross Training</a><br>
+								      
 								  
 							  
 						  
@@ -1016,13 +1166,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Cycling_10551_10051_20000_20518_-1.htm">Cycling</a><br>
+									  <a href="/category/Mens-Footwear-Cycling_10551_10051_20000_20518_-1.htm">
+									     
+										 Cycling</a><br>
+								      
 								  
 							  
 						  
@@ -1032,13 +1184,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Flip-Flops_10551_10051_20000_20519_-1.htm">Flip-Flops</a><br>
+									  <a href="/category/Mens-Footwear-Flip-Flops_10551_10051_20000_20519_-1.htm">
+									     
+										 Flip-Flops</a><br>
+								      
 								  
 							  
 						  
@@ -1048,13 +1202,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Football_10551_10051_20000_20520_-1.htm">Football</a><br>
+									  <a href="/category/Mens-Footwear-Football_10551_10051_20000_20520_-1.htm">
+									     
+										 Football</a><br>
+								      
 								  
 							  
 						  
@@ -1064,13 +1220,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Golf_10551_10051_20000_35808_-1.htm">Golf</a><br>
+									  <a href="/category/Mens-Footwear-Golf_10551_10051_20000_35808_-1.htm">
+									     
+										 Golf</a><br>
+								      
 								  
 							  
 						  
@@ -1080,13 +1238,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Hiking_10551_10051_20000_35801_-1.htm">Hiking</a><br>
+									  <a href="/category/Mens-Footwear-Hiking_10551_10051_20000_35801_-1.htm">
+									     
+										 Hiking</a><br>
+								      
 								  
 							  
 						  
@@ -1096,13 +1256,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Insoles-Pads_10551_10051_20000_20523_-1.htm">Insoles &amp; Pads</a><br>
+									  <a href="/category/Mens-Footwear-Insoles-Pads_10551_10051_20000_20523_-1.htm">
+									     
+										 Insoles &amp; Pads</a><br>
+								      
 								  
 							  
 						  
@@ -1112,13 +1274,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Mocs_10551_10051_20000_35305_-1.htm">Mocs</a><br>
+									  <a href="/category/Mens-Footwear-Mocs_10551_10051_20000_35305_-1.htm">
+									     
+										 Mocs</a><br>
+								      
 								  
 							  
 						  
@@ -1128,13 +1292,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Mountaineering_10551_10051_20000_20526_-1.htm">Mountaineering</a><br>
+									  <a href="/category/Mens-Footwear-Mountaineering_10551_10051_20000_20526_-1.htm">
+									     
+										 Mountaineering</a><br>
+								      
 								  
 							  
 						  
@@ -1144,13 +1310,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Racquetball_10551_10051_20000_20527_-1.htm">Racquetball</a><br>
+									  <a href="/category/Mens-Footwear-Racquetball_10551_10051_20000_20527_-1.htm">
+									     
+										 Racquetball</a><br>
+								      
 								  
 							  
 						  
@@ -1160,13 +1328,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Running_10551_10051_20000_20528_-1.htm">Running</a><br>
+									  <a href="/category/Mens-Footwear-Running_10551_10051_20000_20528_-1.htm">
+									     
+										 Running</a><br>
+								      
 								  
 							  
 						  
@@ -1176,13 +1346,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Sandals_10551_10051_20000_20529_-1.htm">Sandals</a><br>
+									  <a href="/category/Mens-Footwear-Sandals_10551_10051_20000_20529_-1.htm">
+									     
+										 Sandals</a><br>
+								      
 								  
 							  
 						  
@@ -1192,13 +1364,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Skate_10551_10051_20000_20531_-1.htm">Skate</a><br>
+									  <a href="/category/Mens-Footwear-Skate_10551_10051_20000_20531_-1.htm">
+									     
+										 Skate</a><br>
+								      
 								  
 							  
 						  
@@ -1208,13 +1382,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Soccer_10551_10051_20000_20532_-1.htm">Soccer</a><br>
+									  <a href="/category/Mens-Footwear-Soccer_10551_10051_20000_20532_-1.htm">
+									     
+										 Soccer</a><br>
+								      
 								  
 							  
 						  
@@ -1224,13 +1400,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Squash_10551_10051_20000_20533_-1.htm">Squash</a><br>
+									  <a href="/category/Mens-Footwear-Squash_10551_10051_20000_20533_-1.htm">
+									     
+										 Squash</a><br>
+								      
 								  
 							  
 						  
@@ -1240,13 +1418,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Tennis_10551_10051_20000_20534_-1.htm">Tennis</a><br>
+									  <a href="/category/Mens-Footwear-Tennis_10551_10051_20000_20534_-1.htm">
+									     
+										 Tennis</a><br>
+								      
 								  
 							  
 						  
@@ -1256,13 +1436,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Trail-Multisport_10551_10051_20000_20524_-1.htm">Trail Multisport</a><br>
+									  <a href="/category/Mens-Footwear-Trail-Multisport_10551_10051_20000_20524_-1.htm">
+									     
+										 Trail Multisport</a><br>
+								      
 								  
 							  
 						  
@@ -1272,13 +1454,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Volleyball_10551_10051_20000_20535_-1.htm">Volleyball</a><br>
+									  <a href="/category/Mens-Footwear-Volleyball_10551_10051_20000_20535_-1.htm">
+									     
+										 Volleyball</a><br>
+								      
 								  
 							  
 						  
@@ -1288,13 +1472,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Walking_10551_10051_20000_20536_-1.htm">Walking</a><br>
+									  <a href="/category/Mens-Footwear-Walking_10551_10051_20000_20536_-1.htm">
+									     
+										 Walking</a><br>
+								      
 								  
 							  
 						  
@@ -1304,13 +1490,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Water-Shoes_10551_10051_20000_20537_-1.htm">Water Shoes</a><br>
+									  <a href="/category/Mens-Footwear-Water-Shoes_10551_10051_20000_20537_-1.htm">
+									     
+										 Water Shoes</a><br>
+								      
 								  
 							  
 						  
@@ -1320,13 +1508,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Winter-Boots_10551_10051_20000_20538_-1.htm">Winter Boots</a><br>
+									  <a href="/category/Mens-Footwear-Winter-Boots_10551_10051_20000_20538_-1.htm">
+									     
+										 Winter Boots</a><br>
+								      
 								  
 							  
 						  
@@ -1336,16 +1526,19 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Mens-Footwear-Wrestling_10551_10051_20000_20539_-1.htm">Wrestling</a><br>
+									  <a href="/category/Mens-Footwear-Wrestling_10551_10051_20000_20539_-1.htm">
+									     
+										 Wrestling</a><br>
+								      
 								  
 							  
 						  
+
 						</td>
 						
 					  </tr>
@@ -1385,7 +1578,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing_10551_10051_20001_20006_-1.htm"><img src="/wcsstore/Paragon/images/nav_clothing.gif" alt="Clothing"></a><br>
+									  <a href="/category/Womens-Clothing_10551_10051_20001_20006_-1.htm">
+									     
+										 <img src="/wcsstore/Paragon/images/nav_clothing.gif" alt="Clothing"></a><br>
+								      
 								  
 							  
 						  
@@ -1395,13 +1591,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Baseball_10551_10051_20001_20540_-1.htm">Baseball</a><br>
+									  <a href="/category/Womens-Clothing-Baseball_10551_10051_20001_20540_-1.htm">
+									     
+										 Baseball</a><br>
+								      
 								  
 							  
 						  
@@ -1411,13 +1609,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Casual_10551_10051_20001_20541_-1.htm">Casual</a><br>
+									  <a href="/category/Womens-Clothing-Casual_10551_10051_20001_20541_-1.htm">
+									     
+										 Casual</a><br>
+								      
 								  
 							  
 						  
@@ -1427,13 +1627,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Cycling_10551_10051_20001_20542_-1.htm">Cycling</a><br>
+									  <a href="/category/Womens-Clothing-Cycling_10551_10051_20001_20542_-1.htm">
+									     
+										 Cycling</a><br>
+								      
 								  
 							  
 						  
@@ -1443,13 +1645,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Fitness_10551_10051_20001_20543_-1.htm">Fitness</a><br>
+									  <a href="/category/Womens-Clothing-Fitness_10551_10051_20001_20543_-1.htm">
+									     
+										 Fitness</a><br>
+								      
 								  
 							  
 						  
@@ -1459,13 +1663,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Hiking_10551_10051_20001_20545_-1.htm">Hiking</a><br>
+									  <a href="/category/Womens-Clothing-Golf_10551_10051_20001_20544_-1.htm">
+									     
+										 Golf</a><br>
+								      
 								  
 							  
 						  
@@ -1475,13 +1681,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Long-Underwear_10551_10051_20001_20546_-1.htm">Long Underwear</a><br>
+									  <a href="/category/Womens-Clothing-Hiking_10551_10051_20001_20545_-1.htm">
+									     
+										 Hiking</a><br>
+								      
 								  
 							  
 						  
@@ -1491,13 +1699,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Outerwear_10551_10051_20001_20547_-1.htm">Outerwear</a><br>
+									  <a href="/category/Womens-Clothing-Long-Underwear_10551_10051_20001_20546_-1.htm">
+									     
+										 Long Underwear</a><br>
+								      
 								  
 							  
 						  
@@ -1507,13 +1717,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Running_10551_10051_20001_20548_-1.htm">Running</a><br>
+									  <a href="/category/Womens-Clothing-Outerwear_10551_10051_20001_20547_-1.htm">
+									     
+										 Outerwear</a><br>
+								      
 								  
 							  
 						  
@@ -1523,13 +1735,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Skiing_10551_10051_20001_20583_-1.htm">Skiing</a><br>
+									  <a href="/category/Womens-Clothing-Running_10551_10051_20001_20548_-1.htm">
+									     
+										 Running</a><br>
+								      
 								  
 							  
 						  
@@ -1539,13 +1753,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Snowboarding_10551_10051_20001_20585_-1.htm">Snowboarding</a><br>
+									  <a href="/category/Womens-Clothing-Skiing_10551_10051_20001_20583_-1.htm">
+									     
+										 Skiing</a><br>
+								      
 								  
 							  
 						  
@@ -1555,13 +1771,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Soccer_10551_10051_20001_20549_-1.htm">Soccer</a><br>
+									  <a href="/category/Womens-Clothing-Snowboarding_10551_10051_20001_20585_-1.htm">
+									     
+										 Snowboarding</a><br>
+								      
 								  
 							  
 						  
@@ -1571,13 +1789,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Socks_10551_10051_20001_21896_-1.htm">Socks</a><br>
+									  <a href="/category/Womens-Clothing-Soccer_10551_10051_20001_20549_-1.htm">
+									     
+										 Soccer</a><br>
+								      
 								  
 							  
 						  
@@ -1587,13 +1807,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Sports-Bras_10551_10051_20001_44303_-1.htm">Sports Bras</a><br>
+									  <a href="/category/Womens-Clothing-Socks_10551_10051_20001_21896_-1.htm">
+									     
+										 Socks</a><br>
+								      
 								  
 							  
 						  
@@ -1603,13 +1825,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Swimming_10551_10051_20001_20550_-1.htm">Swimming</a><br>
+									  <a href="/category/Womens-Clothing-Sports-Bras_10551_10051_20001_44303_-1.htm">
+									     
+										 Sports Bras</a><br>
+								      
 								  
 							  
 						  
@@ -1619,13 +1843,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Tennis_10551_10051_20001_20551_-1.htm">Tennis</a><br>
+									  <a href="/category/Womens-Clothing-Spin_10551_10051_20001_49310_-1.htm">
+									     
+										 Spin</a><br>
+								      
 								  
 							  
 						  
@@ -1635,13 +1861,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Travel_10551_10051_20001_21912_-1.htm">Travel</a><br>
+									  <a href="/category/Womens-Clothing-Swimming_10551_10051_20001_20550_-1.htm">
+									     
+										 Swimming</a><br>
+								      
 								  
 							  
 						  
@@ -1651,13 +1879,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Triathlon_10551_10051_20001_22051_-1.htm">Triathlon</a><br>
+									  <a href="/category/Womens-Clothing-Tennis_10551_10051_20001_20551_-1.htm">
+									     
+										 Tennis</a><br>
+								      
 								  
 							  
 						  
@@ -1667,16 +1897,55 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Clothing-Yoga_10551_10051_20001_20552_-1.htm">Yoga</a><br>
+									  <a href="/category/Womens-Clothing-Travel_10551_10051_20001_21912_-1.htm">
+									     
+										 Travel</a><br>
+								      
 								  
 							  
 						  
+							  
+								  
+								  
+								  
+								      
+									      
+									          
+									      
+									      
+								      
+									  
+									  <a href="/category/Womens-Clothing-Triathlon_10551_10051_20001_22051_-1.htm">
+									     
+										 Triathlon</a><br>
+								      
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
+									          
+									      
+									      
+								      
+									  
+									  <a href="/category/Womens-Clothing-Yoga_10551_10051_20001_20552_-1.htm">
+									     
+										 Yoga</a><br>
+								      
+								  
+							  
+						  
+
 						</td>
 						
 						<td class="nav-primary-style2-column2">
@@ -1692,7 +1961,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear_10551_10051_20001_20009_-1.htm"><img src="/wcsstore/Paragon/images/nav_footwear.gif" alt="Footwear"></a><br>
+									  <a href="/category/Womens-Footwear_10551_10051_20001_20009_-1.htm">
+									     
+										 <img src="/wcsstore/Paragon/images/nav_footwear.gif" alt="Footwear"></a><br>
+								      
 								  
 							  
 						  
@@ -1702,13 +1974,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Baseball_10551_10051_20001_20554_-1.htm">Baseball</a><br>
+									  <a href="/category/Womens-Footwear-Baseball_10551_10051_20001_20554_-1.htm">
+									     
+										 Baseball</a><br>
+								      
 								  
 							  
 						  
@@ -1718,13 +1992,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Basketball_10551_10051_20001_20555_-1.htm">Basketball</a><br>
+									  <a href="/category/Womens-Footwear-Basketball_10551_10051_20001_20555_-1.htm">
+									     
+										 Basketball</a><br>
+								      
 								  
 							  
 						  
@@ -1734,13 +2010,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Boating_10551_10051_20001_20556_-1.htm">Boating</a><br>
+									  <a href="/category/Womens-Footwear-Boating_10551_10051_20001_20556_-1.htm">
+									     
+										 Boating</a><br>
+								      
 								  
 							  
 						  
@@ -1750,13 +2028,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Casual_10551_10051_20001_20559_-1.htm">Casual</a><br>
+									  <a href="/category/Womens-Footwear-Casual_10551_10051_20001_20559_-1.htm">
+									     
+										 Casual</a><br>
+								      
 								  
 							  
 						  
@@ -1766,13 +2046,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Clogs_10551_10051_20001_20560_-1.htm">Clogs</a><br>
+									  <a href="/category/Womens-Footwear-Clogs_10551_10051_20001_20560_-1.htm">
+									     
+										 Clogs</a><br>
+								      
 								  
 							  
 						  
@@ -1782,13 +2064,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Cycling_10551_10051_20001_20561_-1.htm">Cycling</a><br>
+									  <a href="/category/Womens-Footwear-Cycling_10551_10051_20001_20561_-1.htm">
+									     
+										 Cycling</a><br>
+								      
 								  
 							  
 						  
@@ -1798,13 +2082,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Fitness_10551_10051_20001_20562_-1.htm">Fitness</a><br>
+									  <a href="/category/Womens-Footwear-Fitness_10551_10051_20001_20562_-1.htm">
+									     
+										 Fitness</a><br>
+								      
 								  
 							  
 						  
@@ -1814,13 +2100,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Flip-Flops_10551_10051_20001_20563_-1.htm">Flip-Flops</a><br>
+									  <a href="/category/Womens-Footwear-Flip-Flops_10551_10051_20001_20563_-1.htm">
+									     
+										 Flip-Flops</a><br>
+								      
 								  
 							  
 						  
@@ -1830,13 +2118,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Hiking_10551_10051_20001_20565_-1.htm">Hiking</a><br>
+									  <a href="/category/Womens-Footwear-Hiking_10551_10051_20001_20565_-1.htm">
+									     
+										 Hiking</a><br>
+								      
 								  
 							  
 						  
@@ -1846,13 +2136,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Mocs_10551_10051_20001_20567_-1.htm">Mocs</a><br>
+									  <a href="/category/Womens-Footwear-Mocs_10551_10051_20001_20567_-1.htm">
+									     
+										 Mocs</a><br>
+								      
 								  
 							  
 						  
@@ -1862,13 +2154,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Racquetball_10551_10051_20001_20569_-1.htm">Racquetball</a><br>
+									  <a href="/category/Womens-Footwear-Racquetball_10551_10051_20001_20569_-1.htm">
+									     
+										 Racquetball</a><br>
+								      
 								  
 							  
 						  
@@ -1878,13 +2172,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Running_10551_10051_20001_20570_-1.htm">Running</a><br>
+									  <a href="/category/Womens-Footwear-Running_10551_10051_20001_20570_-1.htm">
+									     
+										 Running</a><br>
+								      
 								  
 							  
 						  
@@ -1894,13 +2190,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Sandals_10551_10051_20001_20571_-1.htm">Sandals</a><br>
+									  <a href="/category/Womens-Footwear-Sandals_10551_10051_20001_20571_-1.htm">
+									     
+										 Sandals</a><br>
+								      
 								  
 							  
 						  
@@ -1910,13 +2208,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Slides_10551_10051_20001_20573_-1.htm">Slides</a><br>
+									  <a href="/category/Womens-Footwear-Slides_10551_10051_20001_20573_-1.htm">
+									     
+										 Slides</a><br>
+								      
 								  
 							  
 						  
@@ -1926,13 +2226,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Soccer_10551_10051_20001_20574_-1.htm">Soccer</a><br>
+									  <a href="/category/Womens-Footwear-Soccer_10551_10051_20001_20574_-1.htm">
+									     
+										 Soccer</a><br>
+								      
 								  
 							  
 						  
@@ -1942,13 +2244,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Tennis_10551_10051_20001_20576_-1.htm">Tennis</a><br>
+									  <a href="/category/Womens-Footwear-Spin_10551_10051_20001_49308_-1.htm">
+									     
+										 Spin</a><br>
+								      
 								  
 							  
 						  
@@ -1958,13 +2262,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Trail-Multisport_10551_10051_20001_20566_-1.htm">Trail Multisport</a><br>
+									  <a href="/category/Womens-Footwear-Tennis_10551_10051_20001_20576_-1.htm">
+									     
+										 Tennis</a><br>
+								      
 								  
 							  
 						  
@@ -1974,13 +2280,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Volleyball_10551_10051_20001_20577_-1.htm">Volleyball</a><br>
+									  <a href="/category/Womens-Footwear-Trail-Multisport_10551_10051_20001_20566_-1.htm">
+									     
+										 Trail Multisport</a><br>
+								      
 								  
 							  
 						  
@@ -1990,13 +2298,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Walking_10551_10051_20001_20578_-1.htm">Walking</a><br>
+									  <a href="/category/Womens-Footwear-Volleyball_10551_10051_20001_20577_-1.htm">
+									     
+										 Volleyball</a><br>
+								      
 								  
 							  
 						  
@@ -2006,13 +2316,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Water-Shoes_10551_10051_20001_20579_-1.htm">Water Shoes</a><br>
+									  <a href="/category/Womens-Footwear-Walking_10551_10051_20001_20578_-1.htm">
+									     
+										 Walking</a><br>
+								      
 								  
 							  
 						  
@@ -2022,16 +2334,37 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Womens-Footwear-Winter-Boots_10551_10051_20001_20580_-1.htm">Winter Boots</a><br>
+									  <a href="/category/Womens-Footwear-Water-Shoes_10551_10051_20001_20579_-1.htm">
+									     
+										 Water Shoes</a><br>
+								      
 								  
 							  
 						  
+							  
+								  
+								  
+								  
+								      
+									      
+									          
+									      
+									      
+								      
+									  
+									  <a href="/category/Womens-Footwear-Winter-Boots_10551_10051_20001_20580_-1.htm">
+									     
+										 Winter Boots</a><br>
+								      
+								  
+							  
+						  
+
 						</td>
 						
 					  </tr>
@@ -2071,7 +2404,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing_10551_10051_20002_20007_-1.htm"><img src="/wcsstore/Paragon/images/nav_clothing.gif" alt="Clothing"></a><br>
+									  <a href="/category/Kids-Clothing_10551_10051_20002_20007_-1.htm">
+									     
+										 <img src="/wcsstore/Paragon/images/nav_clothing.gif" alt="Clothing"></a><br>
+								      
 								  
 							  
 						  
@@ -2081,13 +2417,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Athletic_10551_10051_20002_20470_-1.htm">Athletic</a><br>
+									  <a href="/category/Kids-Clothing-Athletic_10551_10051_20002_20470_-1.htm">
+									     
+										 Athletic</a><br>
+								      
 								  
 							  
 						  
@@ -2097,13 +2435,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Baseball_10551_10051_20002_22071_-1.htm">Baseball</a><br>
+									  <a href="/category/Kids-Clothing-Baseball_10551_10051_20002_22071_-1.htm">
+									     
+										 Baseball</a><br>
+								      
 								  
 							  
 						  
@@ -2113,13 +2453,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Basketball_10551_10051_20002_20471_-1.htm">Basketball</a><br>
+									  <a href="/category/Kids-Clothing-Basketball_10551_10051_20002_20471_-1.htm">
+									     
+										 Basketball</a><br>
+								      
 								  
 							  
 						  
@@ -2129,13 +2471,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Cycling_10551_10051_20002_20473_-1.htm">Cycling</a><br>
+									  <a href="/category/Kids-Clothing-Cycling_10551_10051_20002_20473_-1.htm">
+									     
+										 Cycling</a><br>
+								      
 								  
 							  
 						  
@@ -2145,13 +2489,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Dance_10551_10051_20002_20474_-1.htm">Dance</a><br>
+									  <a href="/category/Kids-Clothing-Football_10551_10051_20002_20475_-1.htm">
+									     
+										 Football</a><br>
+								      
 								  
 							  
 						  
@@ -2161,13 +2507,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Football_10551_10051_20002_20475_-1.htm">Football</a><br>
+									  <a href="/category/Kids-Clothing-Hockey_10551_10051_20002_22084_-1.htm">
+									     
+										 Hockey</a><br>
+								      
 								  
 							  
 						  
@@ -2177,13 +2525,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Hockey_10551_10051_20002_22084_-1.htm">Hockey</a><br>
+									  <a href="/category/Kids-Clothing-Long-Underwear_10551_10051_20002_20476_-1.htm">
+									     
+										 Long Underwear</a><br>
+								      
 								  
 							  
 						  
@@ -2193,13 +2543,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Long-Underwear_10551_10051_20002_20476_-1.htm">Long Underwear</a><br>
+									  <a href="/category/Kids-Clothing-MLB-Shop_10551_10051_20002_20477_-1.htm">
+									     
+										 MLB Shop</a><br>
+								      
 								  
 							  
 						  
@@ -2209,13 +2561,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-MLB-Shop_10551_10051_20002_20477_-1.htm">MLB Shop</a><br>
+									  <a href="/category/Kids-Clothing-NFL-Shop_10551_10051_20002_20479_-1.htm">
+									     
+										 NFL Shop</a><br>
+								      
 								  
 							  
 						  
@@ -2225,13 +2579,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-NFL-Shop_10551_10051_20002_20479_-1.htm">NFL Shop</a><br>
+									  <a href="/category/Kids-Clothing-NHL-Shop_10551_10051_20002_20480_-1.htm">
+									     
+										 NHL Shop</a><br>
+								      
 								  
 							  
 						  
@@ -2241,13 +2597,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-NHL-Shop_10551_10051_20002_20480_-1.htm">NHL Shop</a><br>
+									  <a href="/category/Kids-Clothing-Outerwear_10551_10051_20002_20481_-1.htm">
+									     
+										 Outerwear</a><br>
+								      
 								  
 							  
 						  
@@ -2257,13 +2615,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Outerwear_10551_10051_20002_20481_-1.htm">Outerwear</a><br>
+									  <a href="/category/Kids-Clothing-Performance-Apparel_10551_10051_20002_22095_-1.htm">
+									     
+										 Performance Apparel</a><br>
+								      
 								  
 							  
 						  
@@ -2273,13 +2633,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Performance-Apparel_10551_10051_20002_22095_-1.htm">Performance Apparel</a><br>
+									  <a href="/category/Kids-Clothing-Running_10551_10051_20002_21986_-1.htm">
+									     
+										 Running</a><br>
+								      
 								  
 							  
 						  
@@ -2289,13 +2651,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Running_10551_10051_20002_21986_-1.htm">Running</a><br>
+									  <a href="/category/Kids-Clothing-Skiing_10551_10051_20002_21752_-1.htm">
+									     
+										 Skiing</a><br>
+								      
 								  
 							  
 						  
@@ -2305,13 +2669,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Skiing_10551_10051_20002_21752_-1.htm">Skiing</a><br>
+									  <a href="/category/Kids-Clothing-Snowboarding_10551_10051_20002_21753_-1.htm">
+									     
+										 Snowboarding</a><br>
+								      
 								  
 							  
 						  
@@ -2321,13 +2687,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Snowboarding_10551_10051_20002_21753_-1.htm">Snowboarding</a><br>
+									  <a href="/category/Kids-Clothing-Soccer_10551_10051_20002_20482_-1.htm">
+									     
+										 Soccer</a><br>
+								      
 								  
 							  
 						  
@@ -2337,13 +2705,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Soccer_10551_10051_20002_20482_-1.htm">Soccer</a><br>
+									  <a href="/category/Kids-Clothing-Swimming_10551_10051_20002_20483_-1.htm">
+									     
+										 Swimming</a><br>
+								      
 								  
 							  
 						  
@@ -2353,32 +2723,19 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Clothing-Swimming_10551_10051_20002_20483_-1.htm">Swimming</a><br>
+									  <a href="/category/Kids-Clothing-Tennis_10551_10051_20002_20484_-1.htm">
+									     
+										 Tennis</a><br>
+								      
 								  
 							  
 						  
-							  
-								  
-								  
-								  
-								      
-									      
-									          
-									          
-									      
-									      
-								      
-									  
-									  <a href="/category/Kids-Clothing-Tennis_10551_10051_20002_20484_-1.htm">Tennis</a><br>
-								  
-							  
-						  
+
 						</td>
 						
 						<td class="nav-primary-style2-column2">
@@ -2394,7 +2751,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear_10551_10051_20002_20010_-1.htm"><img src="/wcsstore/Paragon/images/nav_footwear.gif" alt="Footwear"></a><br>
+									  <a href="/category/Kids-Footwear_10551_10051_20002_20010_-1.htm">
+									     
+										 <img src="/wcsstore/Paragon/images/nav_footwear.gif" alt="Footwear"></a><br>
+								      
 								  
 							  
 						  
@@ -2404,13 +2764,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Baseball_10551_10051_20002_20588_-1.htm">Baseball</a><br>
+									  <a href="/category/Kids-Footwear-Baseball_10551_10051_20002_20588_-1.htm">
+									     
+										 Baseball</a><br>
+								      
 								  
 							  
 						  
@@ -2420,13 +2782,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Basketball_10551_10051_20002_20589_-1.htm">Basketball</a><br>
+									  <a href="/category/Kids-Footwear-Basketball_10551_10051_20002_20589_-1.htm">
+									     
+										 Basketball</a><br>
+								      
 								  
 							  
 						  
@@ -2436,13 +2800,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Casual_10551_10051_20002_20591_-1.htm">Casual</a><br>
+									  <a href="/category/Kids-Footwear-Casual_10551_10051_20002_20591_-1.htm">
+									     
+										 Casual</a><br>
+								      
 								  
 							  
 						  
@@ -2452,13 +2818,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Classics_10551_10051_20002_20592_-1.htm">Classics</a><br>
+									  <a href="/category/Kids-Footwear-Classics_10551_10051_20002_20592_-1.htm">
+									     
+										 Classics</a><br>
+								      
 								  
 							  
 						  
@@ -2468,13 +2836,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Cross-Training_10551_10051_20002_20593_-1.htm">Cross Training</a><br>
+									  <a href="/category/Kids-Footwear-Cross-Training_10551_10051_20002_20593_-1.htm">
+									     
+										 Cross Training</a><br>
+								      
 								  
 							  
 						  
@@ -2484,13 +2854,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Hiking_10551_10051_20002_20596_-1.htm">Hiking</a><br>
+									  <a href="/category/Kids-Footwear-Hiking_10551_10051_20002_20596_-1.htm">
+									     
+										 Hiking</a><br>
+								      
 								  
 							  
 						  
@@ -2500,13 +2872,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Running_10551_10051_20002_20597_-1.htm">Running</a><br>
+									  <a href="/category/Kids-Footwear-Running_10551_10051_20002_20597_-1.htm">
+									     
+										 Running</a><br>
+								      
 								  
 							  
 						  
@@ -2516,13 +2890,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Sandals_10551_10051_20002_20598_-1.htm">Sandals</a><br>
+									  <a href="/category/Kids-Footwear-Sandals_10551_10051_20002_20598_-1.htm">
+									     
+										 Sandals</a><br>
+								      
 								  
 							  
 						  
@@ -2532,13 +2908,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Soccer_10551_10051_20002_20600_-1.htm">Soccer</a><br>
+									  <a href="/category/Kids-Footwear-Soccer_10551_10051_20002_20600_-1.htm">
+									     
+										 Soccer</a><br>
+								      
 								  
 							  
 						  
@@ -2548,13 +2926,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Softball_10551_10051_20002_20601_-1.htm">Softball</a><br>
+									  <a href="/category/Kids-Footwear-Softball_10551_10051_20002_20601_-1.htm">
+									     
+										 Softball</a><br>
+								      
 								  
 							  
 						  
@@ -2564,13 +2944,15 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Tennis_10551_10051_20002_20602_-1.htm">Tennis</a><br>
+									  <a href="/category/Kids-Footwear-Tennis_10551_10051_20002_20602_-1.htm">
+									     
+										 Tennis</a><br>
+								      
 								  
 							  
 						  
@@ -2580,16 +2962,19 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								  
 								      
 									      
-									          
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Kids-Footwear-Water-Shoes_10551_10051_20002_20603_-1.htm">Water Shoes</a><br>
+									  <a href="/category/Kids-Footwear-Water-Shoes_10551_10051_20002_20603_-1.htm">
+									     
+										 Water Shoes</a><br>
+								      
 								  
 							  
 						  
+
 						</td>
 						
 					  </tr>
@@ -2629,7 +3014,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Backpacks-Bags_10551_10051_20003_20011_-1.htm">Backpacks &amp; Bags</a><br>
+									  <a href="/category/Gear-Backpacks-Bags_10551_10051_20003_20011_-1.htm">
+									     
+										 Backpacks &amp; Bags</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2644,7 +3034,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Badminton_10551_10051_20003_20012_-1.htm">Badminton</a><br>
+									  <a href="/category/Gear-Badminton_10551_10051_20003_20012_-1.htm">
+									     
+										 Badminton</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2659,7 +3054,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Baseball_10551_10051_20003_20013_-1.htm">Baseball</a><br>
+									  <a href="/category/Gear-Baseball_10551_10051_20003_20013_-1.htm">
+									     
+										 Baseball</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2674,7 +3074,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Basketball_10551_10051_20003_20014_-1.htm">Basketball</a><br>
+									  <a href="/category/Gear-Basketball_10551_10051_20003_20014_-1.htm">
+									     
+										 Basketball</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2689,7 +3094,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Binoculars_10551_10051_20003_20016_-1.htm">Binoculars</a><br>
+									  <a href="/category/Gear-Binoculars_10551_10051_20003_20016_-1.htm">
+									     
+										 Binoculars</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2704,7 +3114,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Boating_10551_10051_20003_20017_-1.htm">Boating</a><br>
+									  <a href="/category/Gear-Boating_10551_10051_20003_20017_-1.htm">
+									     
+										 Boating</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2719,7 +3134,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Bowling_10551_10051_20003_20018_-1.htm">Bowling</a><br>
+									  <a href="/category/Gear-Bowling_10551_10051_20003_20018_-1.htm">
+									     
+										 Bowling</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2734,7 +3154,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Boxing_10551_10051_20003_20019_-1.htm">Boxing</a><br>
+									  <a href="/category/Gear-Boxing_10551_10051_20003_20019_-1.htm">
+									     
+										 Boxing</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2749,7 +3174,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Camping_10551_10051_20003_20020_-1.htm">Camping</a><br>
+									  <a href="/category/Gear-Camping_10551_10051_20003_20020_-1.htm">
+									     
+										 Camping</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2764,7 +3194,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Climbing_10551_10051_20003_20021_-1.htm">Climbing</a><br>
+									  <a href="/category/Gear-Climbing_10551_10051_20003_20021_-1.htm">
+									     
+										 Climbing</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2779,7 +3214,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Custom-Knives_10551_10051_20003_20022_-1.htm">Custom Knives</a><br>
+									  <a href="/category/Gear-Cycling_10551_10051_20003_20023_-1.htm">
+									     
+										 Cycling</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2794,7 +3234,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Cycling_10551_10051_20003_20023_-1.htm">Cycling</a><br>
+									  <a href="/category/Gear-Darts_10551_10051_20003_20024_-1.htm">
+									     
+										 Darts</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2809,7 +3254,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Darts_10551_10051_20003_20024_-1.htm">Darts</a><br>
+									  <a href="/category/Gear-Daypacks_10551_10051_20003_34802_-1.htm">
+									     
+										 Daypacks</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2824,7 +3274,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Daypacks_10551_10051_20003_34802_-1.htm">Daypacks</a><br>
+									  <a href="/category/Gear-Electronics_10551_10051_20003_20025_-1.htm">
+									     
+										 Electronics</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2839,7 +3294,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Electronics_10551_10051_20003_20025_-1.htm">Electronics</a><br>
+									  <a href="/category/Gear-Fitness_10551_10051_20003_20028_-1.htm">
+									     
+										 Fitness</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2854,7 +3314,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Fitness_10551_10051_20003_20028_-1.htm">Fitness</a><br>
+									  <a href="/category/Gear-Football_10551_10051_20003_20030_-1.htm">
+									     
+										 Football</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2869,7 +3334,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Football_10551_10051_20003_20030_-1.htm">Football</a><br>
+									  <a href="/category/Gear-Golf_10551_10051_20003_20031_-1.htm">
+									     
+										 Golf</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2884,7 +3354,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Golf_10551_10051_20003_20031_-1.htm">Golf</a><br>
+									  <a href="/category/Gear-GPS-Navigation_10551_10051_20003_20026_-1.htm">
+									     
+										 GPS &amp; Navigation</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2899,7 +3374,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-GPS-Navigation_10551_10051_20003_20026_-1.htm">GPS &amp; Navigation</a><br>
+									  <a href="/category/Gear-Ice-Hockey_10551_10051_20003_20032_-1.htm">
+									     
+										 Ice Hockey</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2914,7 +3394,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Ice-Hockey_10551_10051_20003_20032_-1.htm">Ice Hockey</a><br>
+									  <a href="/category/Gear-Ice-Skating_10551_10051_20003_20033_-1.htm">
+									     
+										 Ice Skating</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2929,7 +3414,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Ice-Skating_10551_10051_20003_20033_-1.htm">Ice Skating</a><br>
+									  <a href="/category/Gear-Injury-Prevention-Recovery_10551_10051_20003_20034_-1.htm">
+									     
+										 Injury Prevention &amp; Recovery</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2944,7 +3434,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Injury-Prevention-Recovery_10551_10051_20003_20034_-1.htm">Injury Prevention &amp; Recovery</a><br>
+									  <a href="/category/Gear-Inline-Skating_10551_10051_20003_20055_-1.htm">
+									     
+										 Inline Skating</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2959,7 +3454,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Inline-Skating_10551_10051_20003_20055_-1.htm">Inline Skating</a><br>
+									  <a href="/category/Gear-Kayaking_10551_10051_20003_20035_-1.htm">
+									     
+										 Kayaking</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2974,7 +3474,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Kayaking_10551_10051_20003_20035_-1.htm">Kayaking</a><br>
+									  <a href="/category/Gear-Knives-Tools_10551_10051_20003_20036_-1.htm">
+									     
+										 Knives &amp; Tools</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -2989,7 +3494,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Knives-Tools_10551_10051_20003_20036_-1.htm">Knives &amp; Tools</a><br>
+									  <a href="/category/Gear-Lacrosse_10551_10051_20003_20037_-1.htm">
+									     
+										 Lacrosse</a><br>
+								      
+                                          
+											<a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?catalogId=10051&amp;storeId=10551&amp;langId=-1&amp;categoryId=20020&amp;parent_category_rn=&amp;top_category=20003&amp;top=&amp;currentPage=&amp;pageView=&amp;ip_state=c0%3Dt%253A9%252F%252F%253Ass%252F%252Fiphrase%2Bbundle%2Btaxonomy%252F%252F%253AGear%253ACamping%26q%3D25%26a0%3Diphrase%2Bbundle%2Btaxonomy%252F%252Fv%253A0%26i%3Dsitemap%2Bid%26qt%3D1275422575%26qid%3Dq8AiTq4wz3MrV%26vid%3Dvgk8np783vmsS%26ioe%3DUTF-8%26s2%3Dsitemap%2Bid%252F%252F1%26qtid%3Dn8AiTq4wz3MrV%26s1%3Diphrase%2BWCSAttr_574793574e70d12fae7c9d5d36057aaa6e33b923%252F%252F1%26rid%3Dr02fDsEZoNcnY%26s0%3Diphrase%2Brelevance%252F%252F0%26t%3D0%26m0%3Diphrase%2Bbundle%2Bid%26mcmode%3Dtest&amp;ip_constrain=e:3//iphrase+WCSAttr_9d3e2d73e5932bf07888de110b421479e6cff003//:eq//Water+Bottles&amp;ip_relax=&amp;ip_textRemoveTerm=&amp;categoryType=">Water Bottles</a><br>
+										  
+									  
 								  
 							  
 						  
@@ -3004,7 +3516,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Lacrosse_10551_10051_20003_20037_-1.htm">Lacrosse</a><br>
+									  <a href="/category/Gear-Lawn-Games_10551_10051_20003_20038_-1.htm">
+									     
+										 Lawn Games</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3019,25 +3536,16 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Lawn-Games_10551_10051_20003_20038_-1.htm">Lawn Games</a><br>
-								  
-							  
-						  
-							  
-								  
-								  
-								  
+									  <a href="/category/Gear-Mixed-Martial-Arts_10551_10051_20003_22044_-1.htm">
+									     
+										 Mixed Martial Arts</a><br>
 								      
-									      
-									      
-									          
-									      
-								      
+                                          
 									  
-									  <a href="/category/Gear-Mixed-Martial-Arts_10551_10051_20003_22044_-1.htm">Mixed Martial Arts</a><br>
 								  
 							  
 						  
+
 						</td>
 						
 						<td class="nav-primary-style2-column2">
@@ -3053,7 +3561,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Nutrition_10551_10051_20003_20039_-1.htm">Nutrition</a><br>
+									  <a href="/category/Gear-Nutrition_10551_10051_20003_20039_-1.htm">
+									     
+										 Nutrition</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3068,7 +3581,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Platform-Tennis_10551_10051_20003_20040_-1.htm">Platform Tennis</a><br>
+									  <a href="/category/Gear-Platform-Tennis_10551_10051_20003_20040_-1.htm">
+									     
+										 Platform Tennis</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3083,7 +3601,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Racquetball_10551_10051_20003_20041_-1.htm">Racquetball</a><br>
+									  <a href="/category/Gear-Racquetball_10551_10051_20003_20041_-1.htm">
+									     
+										 Racquetball</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3098,7 +3621,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Roller-Skating_10551_10051_20003_20056_-1.htm">Roller Skating</a><br>
+									  <a href="/category/Gear-Roller-Skating_10551_10051_20003_20056_-1.htm">
+									     
+										 Roller Skating</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3113,7 +3641,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Running_10551_10051_20003_20042_-1.htm">Running</a><br>
+									  <a href="/category/Gear-Running_10551_10051_20003_20042_-1.htm">
+									     
+										 Running</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3128,7 +3661,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Sailing_10551_10051_20003_20043_-1.htm">Sailing</a><br>
+									  <a href="/category/Gear-Sailing_10551_10051_20003_20043_-1.htm">
+									     
+										 Sailing</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3143,7 +3681,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Scooters_10551_10051_20003_20044_-1.htm">Scooters</a><br>
+									  <a href="/category/Gear-Scooters_10551_10051_20003_20044_-1.htm">
+									     
+										 Scooters</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3158,7 +3701,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Scuba-Snorkeling_10551_10051_20003_20045_-1.htm">Scuba &amp; Snorkeling</a><br>
+									  <a href="/category/Gear-Scuba-Snorkeling_10551_10051_20003_20045_-1.htm">
+									     
+										 Scuba &amp; Snorkeling</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3173,7 +3721,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Skateboarding_10551_10051_20003_20046_-1.htm">Skateboarding</a><br>
+									  <a href="/category/Gear-Skateboarding_10551_10051_20003_20046_-1.htm">
+									     
+										 Skateboarding</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3188,7 +3741,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Skiing_10551_10051_20003_20047_-1.htm">Skiing</a><br>
+									  <a href="/category/Gear-Skiing_10551_10051_20003_20047_-1.htm">
+									     
+										 Skiing</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3203,7 +3761,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Sledding_10551_10051_20003_20048_-1.htm">Sledding</a><br>
+									  <a href="/category/Gear-Sledding_10551_10051_20003_20048_-1.htm">
+									     
+										 Sledding</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3218,7 +3781,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Snowboarding_10551_10051_20003_20049_-1.htm">Snowboarding</a><br>
+									  <a href="/category/Gear-Snowboarding_10551_10051_20003_20049_-1.htm">
+									     
+										 Snowboarding</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3233,7 +3801,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Snowshoeing_10551_10051_20003_20050_-1.htm">Snowshoeing</a><br>
+									  <a href="/category/Gear-Snowshoeing_10551_10051_20003_20050_-1.htm">
+									     
+										 Snowshoeing</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3248,7 +3821,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Soccer_10551_10051_20003_20051_-1.htm">Soccer</a><br>
+									  <a href="/category/Gear-Soccer_10551_10051_20003_20051_-1.htm">
+									     
+										 Soccer</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3263,7 +3841,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Softball_10551_10051_20003_20052_-1.htm">Softball</a><br>
+									  <a href="/category/Gear-Softball_10551_10051_20003_20052_-1.htm">
+									     
+										 Softball</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3278,7 +3861,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Squash_10551_10051_20003_20053_-1.htm">Squash</a><br>
+									  <a href="/category/Gear-Squash_10551_10051_20003_20053_-1.htm">
+									     
+										 Squash</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3293,7 +3881,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Street-Hockey_10551_10051_20003_20054_-1.htm">Street Hockey</a><br>
+									  <a href="/category/Gear-Street-Hockey_10551_10051_20003_20054_-1.htm">
+									     
+										 Street Hockey</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3308,7 +3901,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Sunglasses_10551_10051_20003_20057_-1.htm">Sunglasses</a><br>
+									  <a href="/category/Gear-Sunglasses_10551_10051_20003_20057_-1.htm">
+									     
+										 Sunglasses</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3323,7 +3921,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Surfing_10551_10051_20003_20058_-1.htm">Surfing</a><br>
+									  <a href="/category/Gear-Surfing_10551_10051_20003_20058_-1.htm">
+									     
+										 Surfing</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3338,7 +3941,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Swimming_10551_10051_20003_20059_-1.htm">Swimming</a><br>
+									  <a href="/category/Gear-Swimming_10551_10051_20003_20059_-1.htm">
+									     
+										 Swimming</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3353,7 +3961,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Table-Tennis_10551_10051_20003_20060_-1.htm">Table Tennis</a><br>
+									  <a href="/category/Gear-Table-Tennis_10551_10051_20003_20060_-1.htm">
+									     
+										 Table Tennis</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3368,7 +3981,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Tennis_10551_10051_20003_20061_-1.htm">Tennis</a><br>
+									  <a href="/category/Gear-Tennis_10551_10051_20003_20061_-1.htm">
+									     
+										 Tennis</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3383,7 +4001,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Travel_10551_10051_20003_20062_-1.htm">Travel</a><br>
+									  <a href="/category/Gear-Travel_10551_10051_20003_20062_-1.htm">
+									     
+										 Travel</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3398,7 +4021,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Volleyball_10551_10051_20003_20063_-1.htm">Volleyball</a><br>
+									  <a href="/category/Gear-Volleyball_10551_10051_20003_20063_-1.htm">
+									     
+										 Volleyball</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3413,7 +4041,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Watches_10551_10051_20003_20064_-1.htm">Watches</a><br>
+									  <a href="/category/Gear-Watches_10551_10051_20003_20064_-1.htm">
+									     
+										 Watches</a><br>
+								      
+                                          
+											<a href="/webapp/wcs/stores/servlet/CatalogSearchResultView?catalogId=10051&amp;storeId=10551&amp;langId=-1&amp;categoryId=20020&amp;parent_category_rn=&amp;top_category=20003&amp;top=&amp;currentPage=&amp;pageView=&amp;ip_state=c0%3Dt%253A9%252F%252F%253Ass%252F%252Fiphrase%2Bbundle%2Btaxonomy%252F%252F%253AGear%253ACamping%26q%3D25%26a0%3Diphrase%2Bbundle%2Btaxonomy%252F%252Fv%253A0%26i%3Dsitemap%2Bid%26qt%3D1275422575%26qid%3Dq8AiTq4wz3MrV%26vid%3Dvgk8np783vmsS%26ioe%3DUTF-8%26s2%3Dsitemap%2Bid%252F%252F1%26qtid%3Dn8AiTq4wz3MrV%26s1%3Diphrase%2BWCSAttr_574793574e70d12fae7c9d5d36057aaa6e33b923%252F%252F1%26rid%3Dr02fDsEZoNcnY%26s0%3Diphrase%2Brelevance%252F%252F0%26t%3D0%26m0%3Diphrase%2Bbundle%2Bid%26mcmode%3Dtest&amp;ip_constrain=e:3//iphrase+WCSAttr_9d3e2d73e5932bf07888de110b421479e6cff003//:eq//Water+Bottles&amp;ip_relax=&amp;ip_textRemoveTerm=&amp;categoryType=">Water Bottles</a><br>
+										  
+									  
 								  
 							  
 						  
@@ -3428,7 +4063,12 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Weightlifting_10551_10051_20003_20029_-1.htm">Weightlifting</a><br>
+									  <a href="/category/Gear-Weightlifting_10551_10051_20003_20029_-1.htm">
+									     
+										 Weightlifting</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
@@ -3443,10 +4083,16 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Gear-Yoga_10551_10051_20003_22036_-1.htm">Yoga</a><br>
+									  <a href="/category/Gear-Yoga_10551_10051_20003_22036_-1.htm">
+									     
+										 Yoga</a><br>
+								      
+                                          
+									  
 								  
 							  
 						  
+
 						</td>
 						
 					  </tr>
@@ -3490,12 +4136,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Badminton_10551_10051_20004_28733_-1.htm">Badminton</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Badminton_10551_10051_20004_28733_-1.htm">
+									     
+										 Badminton</a><br>
+								      
 								  
 							  
 						  
@@ -3506,12 +4154,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Baseball_10551_10051_20004_28734_-1.htm">Baseball</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Baseball_10551_10051_20004_28734_-1.htm">
+									     
+										 Baseball</a><br>
+								      
 								  
 							  
 						  
@@ -3522,12 +4172,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Basketball_10551_10051_20004_28735_-1.htm">Basketball</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Basketball_10551_10051_20004_28735_-1.htm">
+									     
+										 Basketball</a><br>
+								      
 								  
 							  
 						  
@@ -3538,12 +4190,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Boating_10551_10051_20004_28737_-1.htm">Boating</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Boating_10551_10051_20004_28737_-1.htm">
+									     
+										 Boating</a><br>
+								      
 								  
 							  
 						  
@@ -3554,12 +4208,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Bowling_10551_10051_20004_28738_-1.htm">Bowling</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Bowling_10551_10051_20004_28738_-1.htm">
+									     
+										 Bowling</a><br>
+								      
 								  
 							  
 						  
@@ -3570,12 +4226,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Boxing_10551_10051_20004_28739_-1.htm">Boxing</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Boxing_10551_10051_20004_28739_-1.htm">
+									     
+										 Boxing</a><br>
+								      
 								  
 							  
 						  
@@ -3586,12 +4244,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Camping_10551_10051_20004_28740_-1.htm">Camping</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Camping_10551_10051_20004_28740_-1.htm">
+									     
+										 Camping</a><br>
+								      
 								  
 							  
 						  
@@ -3602,12 +4262,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Cycling_10551_10051_20004_28741_-1.htm">Cycling</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Cycling_10551_10051_20004_28741_-1.htm">
+									     
+										 Cycling</a><br>
+								      
 								  
 							  
 						  
@@ -3618,12 +4280,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Darts_10551_10051_20004_28742_-1.htm">Darts</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Darts_10551_10051_20004_28742_-1.htm">
+									     
+										 Darts</a><br>
+								      
 								  
 							  
 						  
@@ -3634,12 +4298,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Football_10551_10051_20004_28744_-1.htm">Football</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Football_10551_10051_20004_28744_-1.htm">
+									     
+										 Football</a><br>
+								      
 								  
 							  
 						  
@@ -3650,12 +4316,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Golf_10551_10051_20004_28745_-1.htm">Golf</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Golf_10551_10051_20004_28745_-1.htm">
+									     
+										 Golf</a><br>
+								      
 								  
 							  
 						  
@@ -3666,12 +4334,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Hiking_10551_10051_20004_28746_-1.htm">Hiking</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Hiking_10551_10051_20004_28746_-1.htm">
+									     
+										 Hiking</a><br>
+								      
 								  
 							  
 						  
@@ -3682,12 +4352,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Hockey_10551_10051_20004_28747_-1.htm">Hockey</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Hockey_10551_10051_20004_28747_-1.htm">
+									     
+										 Hockey</a><br>
+								      
 								  
 							  
 						  
@@ -3698,12 +4370,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Ice-Skating_10551_10051_20004_28748_-1.htm">Ice Skating</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Ice-Skating_10551_10051_20004_28748_-1.htm">
+									     
+										 Ice Skating</a><br>
+								      
 								  
 							  
 						  
@@ -3714,12 +4388,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Inline-Skating_10551_10051_20004_28749_-1.htm">Inline Skating</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Inline-Skating_10551_10051_20004_28749_-1.htm">
+									     
+										 Inline Skating</a><br>
+								      
 								  
 							  
 						  
@@ -3730,12 +4406,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Kayaking_10551_10051_20004_28750_-1.htm">Kayaking</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Kayaking_10551_10051_20004_28750_-1.htm">
+									     
+										 Kayaking</a><br>
+								      
 								  
 							  
 						  
@@ -3746,12 +4424,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Lacrosse_10551_10051_20004_28751_-1.htm">Lacrosse</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Lacrosse_10551_10051_20004_28751_-1.htm">
+									     
+										 Lacrosse</a><br>
+								      
 								  
 							  
 						  
@@ -3762,12 +4442,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Mountaineering_10551_10051_20004_28752_-1.htm">Mountaineering</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Mountaineering_10551_10051_20004_28752_-1.htm">
+									     
+										 Mountaineering</a><br>
+								      
 								  
 							  
 						  
@@ -3778,15 +4460,18 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sport-Racquetball_10551_10051_20004_28753_-1.htm">Racquetball</a><br>
+									  <a href="/category/Shop-By-Sport-Sport-Racquetball_10551_10051_20004_28753_-1.htm">
+									     
+										 Racquetball</a><br>
+								      
 								  
 							  
 						  
+
 						</td>
 						
 						<td class="nav-primary-style3-column2">
@@ -3804,12 +4489,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Running_10551_10051_20004_28754_-1.htm">Running</a><br>
+									  <a href="/category/Shop-By-Sport-Running_10551_10051_20004_28754_-1.htm">
+									     
+										 Running</a><br>
+								      
 								  
 							  
 						  
@@ -3820,12 +4507,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Sailing_10551_10051_20004_28755_-1.htm">Sailing</a><br>
+									  <a href="/category/Shop-By-Sport-Sailing_10551_10051_20004_28755_-1.htm">
+									     
+										 Sailing</a><br>
+								      
 								  
 							  
 						  
@@ -3836,12 +4525,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Scuba-Snorkeling_10551_10051_20004_28756_-1.htm">Scuba &amp; Snorkeling</a><br>
+									  <a href="/category/Shop-By-Sport-Scuba-Snorkeling_10551_10051_20004_28756_-1.htm">
+									     
+										 Scuba &amp; Snorkeling</a><br>
+								      
 								  
 							  
 						  
@@ -3852,12 +4543,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Skateboarding_10551_10051_20004_28757_-1.htm">Skateboarding</a><br>
+									  <a href="/category/Shop-By-Sport-Skateboarding_10551_10051_20004_28757_-1.htm">
+									     
+										 Skateboarding</a><br>
+								      
 								  
 							  
 						  
@@ -3868,12 +4561,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Skiing_10551_10051_20004_28758_-1.htm">Skiing</a><br>
+									  <a href="/category/Shop-By-Sport-Skiing_10551_10051_20004_28758_-1.htm">
+									     
+										 Skiing</a><br>
+								      
 								  
 							  
 						  
@@ -3884,12 +4579,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Snowboarding_10551_10051_20004_28759_-1.htm">Snowboarding</a><br>
+									  <a href="/category/Shop-By-Sport-Snowboarding_10551_10051_20004_28759_-1.htm">
+									     
+										 Snowboarding</a><br>
+								      
 								  
 							  
 						  
@@ -3900,12 +4597,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Soccer_10551_10051_20004_28760_-1.htm">Soccer</a><br>
+									  <a href="/category/Shop-By-Sport-Soccer_10551_10051_20004_28760_-1.htm">
+									     
+										 Soccer</a><br>
+								      
 								  
 							  
 						  
@@ -3916,12 +4615,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Softball_10551_10051_20004_28761_-1.htm">Softball</a><br>
+									  <a href="/category/Shop-By-Sport-Softball_10551_10051_20004_28761_-1.htm">
+									     
+										 Softball</a><br>
+								      
 								  
 							  
 						  
@@ -3932,12 +4633,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Squash_10551_10051_20004_28762_-1.htm">Squash</a><br>
+									  <a href="/category/Shop-By-Sport-Squash_10551_10051_20004_28762_-1.htm">
+									     
+										 Squash</a><br>
+								      
 								  
 							  
 						  
@@ -3948,12 +4651,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Surfing_10551_10051_20004_28763_-1.htm">Surfing</a><br>
+									  <a href="/category/Shop-By-Sport-Surfing_10551_10051_20004_28763_-1.htm">
+									     
+										 Surfing</a><br>
+								      
 								  
 							  
 						  
@@ -3964,12 +4669,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Swimming_10551_10051_20004_28764_-1.htm">Swimming</a><br>
+									  <a href="/category/Shop-By-Sport-Swimming_10551_10051_20004_28764_-1.htm">
+									     
+										 Swimming</a><br>
+								      
 								  
 							  
 						  
@@ -3980,12 +4687,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Table-Tennis_10551_10051_20004_28765_-1.htm">Table Tennis</a><br>
+									  <a href="/category/Shop-By-Sport-Table-Tennis_10551_10051_20004_28765_-1.htm">
+									     
+										 Table Tennis</a><br>
+								      
 								  
 							  
 						  
@@ -3996,12 +4705,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Tennis_10551_10051_20004_28766_-1.htm">Tennis</a><br>
+									  <a href="/category/Shop-By-Sport-Tennis_10551_10051_20004_28766_-1.htm">
+									     
+										 Tennis</a><br>
+								      
 								  
 							  
 						  
@@ -4012,12 +4723,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Triathlon_10551_10051_20004_44304_-1.htm">Triathlon</a><br>
+									  <a href="/category/Shop-By-Sport-Triathlon_10551_10051_20004_44304_-1.htm">
+									     
+										 Triathlon</a><br>
+								      
 								  
 							  
 						  
@@ -4028,12 +4741,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Volleyball_10551_10051_20004_28767_-1.htm">Volleyball</a><br>
+									  <a href="/category/Shop-By-Sport-Volleyball_10551_10051_20004_28767_-1.htm">
+									     
+										 Volleyball</a><br>
+								      
 								  
 							  
 						  
@@ -4044,12 +4759,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Walking_10551_10051_20004_28768_-1.htm">Walking</a><br>
+									  <a href="/category/Shop-By-Sport-Walking_10551_10051_20004_28768_-1.htm">
+									     
+										 Walking</a><br>
+								      
 								  
 							  
 						  
@@ -4060,12 +4777,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Weightlifting_10551_10051_20004_28769_-1.htm">Weightlifting</a><br>
+									  <a href="/category/Shop-By-Sport-Weightlifting_10551_10051_20004_28769_-1.htm">
+									     
+										 Weightlifting</a><br>
+								      
 								  
 							  
 						  
@@ -4076,12 +4795,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Wrestling_10551_10051_20004_28770_-1.htm">Wrestling</a><br>
+									  <a href="/category/Shop-By-Sport-Wrestling_10551_10051_20004_28770_-1.htm">
+									     
+										 Wrestling</a><br>
+								      
 								  
 							  
 						  
@@ -4092,15 +4813,18 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Yoga_10551_10051_20004_28771_-1.htm">Yoga</a><br>
+									  <a href="/category/Shop-By-Sport-Yoga_10551_10051_20004_28771_-1.htm">
+									     
+										 Yoga</a><br>
+								      
 								  
 							  
 						  
+
 						</td>
 						
 						<td class="nav-primary-style3-column3">
@@ -4120,12 +4844,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Specialty-Shops-Backpacks-Bags_10551_10051_20004_28772_-1.htm">Backpacks &amp; Bags</a><br>
+									  <a href="/category/Shop-By-Sport-Specialty-Shops-Backpacks-Bags_10551_10051_20004_28772_-1.htm">
+									     
+										 Backpacks &amp; Bags</a><br>
+								      
 								  
 							  
 						  
@@ -4136,12 +4862,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Specialty-Shops-Beach-Shop_10551_10051_20004_28773_-1.htm">Beach Shop</a><br>
+									  <a href="/category/Shop-By-Sport-Specialty-Shops-Beach-Shop_10551_10051_20004_28773_-1.htm">
+									     
+										 Beach Shop</a><br>
+								      
 								  
 							  
 						  
@@ -4152,12 +4880,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
-									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Specialty-Shops-Travel-Shop_10551_10051_20004_28775_-1.htm">Travel Shop</a><br>
+									  <a href="/category/Shop-By-Sport-Specialty-Shops-Fan-Shop_10551_10051_20004_28774_-1.htm">
+									     
+										 Fan Shop</a><br>
+								      
 								  
 							  
 						  
@@ -4168,15 +4898,36 @@ var newsletter_bademail="The email address you entered does not appear to be val
 								      
 									      
 									          
+									      
+									      
+								      
+									  
+									  <a href="/category/Shop-By-Sport-Specialty-Shops-Travel-Shop_10551_10051_20004_28775_-1.htm">
+									     
+										 Travel Shop</a><br>
+								      
+								  
+							  
+						  
+							  
+								  
+								  
+								  
+								      
+									      
 									          
 									      
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Sport-Specialty-Shops-Winter-Shop_10551_10051_20004_28776_-1.htm">Winter Shop</a><br>
+									  <a href="/category/Shop-By-Sport-Specialty-Shops-Winter-Shop_10551_10051_20004_28776_-1.htm">
+									     
+										 Winter Shop</a><br>
+								      
 								  
 							  
 						  
+
 						</td>
 						
 					  </tr>
@@ -4191,8 +4942,6 @@ var newsletter_bademail="The email address you entered does not appear to be val
 			
 			
 			
-				
-					
 				
 					
 				
@@ -4306,7 +5055,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-2XU_10551_10051_27401_27408_-1.htm">2XU</a><br>
+									  <a href="/category/Shop-By-Brand-2XU_10551_10051_27401_27408_-1.htm">
+									     
+										 2XU</a><br>
+								      
 								  
 							  
 						  
@@ -4321,7 +5073,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-adidas_10551_10051_27401_27427_-1.htm">adidas</a><br>
+									  <a href="/category/Shop-By-Brand-adidas_10551_10051_27401_27427_-1.htm">
+									     
+										 adidas</a><br>
+								      
 								  
 							  
 						  
@@ -4336,7 +5091,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Ahnu_10551_10051_27401_27435_-1.htm">Ahnu</a><br>
+									  <a href="/category/Shop-By-Brand-Arc'teryx_10551_10051_27401_27481_-1.htm">
+									     
+										 Arc'teryx</a><br>
+								      
 								  
 							  
 						  
@@ -4351,7 +5109,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Arc'teryx_10551_10051_27401_27481_-1.htm">Arc'teryx</a><br>
+									  <a href="/category/Shop-By-Brand-Asics_10551_10051_27401_27486_-1.htm">
+									     
+										 Asics</a><br>
+								      
 								  
 							  
 						  
@@ -4366,7 +5127,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Asics_10551_10051_27401_27486_-1.htm">Asics</a><br>
+									  <a href="/category/Shop-By-Brand-Brooks_10551_10051_27401_27580_-1.htm">
+									     
+										 Brooks</a><br>
+								      
 								  
 							  
 						  
@@ -4381,7 +5145,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Brooks_10551_10051_27401_27580_-1.htm">Brooks</a><br>
+									  <a href="/category/Shop-By-Brand-Burton_10551_10051_27401_27589_-1.htm">
+									     
+										 Burton</a><br>
+								      
 								  
 							  
 						  
@@ -4396,7 +5163,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Burton_10551_10051_27401_27589_-1.htm">Burton</a><br>
+									  <a href="/category/Shop-By-Brand-Calvin-Klein-Performance_10551_10051_27401_27599_-1.htm">
+									     
+										 Calvin Klein Performance</a><br>
+								      
 								  
 							  
 						  
@@ -4411,7 +5181,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Calvin-Klein-Performance_10551_10051_27401_27599_-1.htm">Calvin Klein Performance</a><br>
+									  <a href="/category/Shop-By-Brand-Canada-Goose_10551_10051_27401_27605_-1.htm">
+									     
+										 Canada Goose</a><br>
+								      
 								  
 							  
 						  
@@ -4426,7 +5199,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Canada-Goose_10551_10051_27401_27605_-1.htm">Canada Goose</a><br>
+									  <a href="/category/Shop-By-Brand-Cannondale_10551_10051_27401_27607_-1.htm">
+									     
+										 Cannondale</a><br>
+								      
 								  
 							  
 						  
@@ -4441,7 +5217,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Cannondale_10551_10051_27401_27607_-1.htm">Cannondale</a><br>
+									  <a href="/category/Shop-By-Brand-CW-X_10551_10051_27401_27696_-1.htm">
+									     
+										 CW-X</a><br>
+								      
 								  
 							  
 						  
@@ -4456,7 +5235,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-CW-X_10551_10051_27401_27696_-1.htm">CW-X</a><br>
+									  <a href="/category/Shop-By-Brand-Danskin_10551_10051_27401_27706_-1.htm">
+									     
+										 Danskin</a><br>
+								      
 								  
 							  
 						  
@@ -4471,7 +5253,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Danskin_10551_10051_27401_27706_-1.htm">Danskin</a><br>
+									  <a href="/category/Shop-By-Brand-Eagle-Creek_10551_10051_27401_27752_-1.htm">
+									     
+										 Eagle Creek</a><br>
+								      
 								  
 							  
 						  
@@ -4486,7 +5271,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Eagle-Creek_10551_10051_27401_27752_-1.htm">Eagle Creek</a><br>
+									  <a href="/category/Shop-By-Brand-FootJoy_10551_10051_27401_27832_-1.htm">
+									     
+										 FootJoy</a><br>
+								      
 								  
 							  
 						  
@@ -4501,7 +5289,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-FootJoy_10551_10051_27401_27832_-1.htm">FootJoy</a><br>
+									  <a href="/category/Shop-By-Brand-Gore-Bike-Wear_10551_10051_27401_27883_-1.htm">
+									     
+										 Gore Bike Wear</a><br>
+								      
 								  
 							  
 						  
@@ -4516,7 +5307,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Gore-Bike-Wear_10551_10051_27401_27883_-1.htm">Gore Bike Wear</a><br>
+									  <a href="/category/Shop-By-Brand-Icebreaker_10551_10051_27401_27957_-1.htm">
+									     
+										 Icebreaker</a><br>
+								      
 								  
 							  
 						  
@@ -4531,7 +5325,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Icebreaker_10551_10051_27401_27957_-1.htm">Icebreaker</a><br>
+									  <a href="/category/Shop-By-Brand-Jansport_10551_10051_27401_27993_-1.htm">
+									     
+										 Jansport</a><br>
+								      
 								  
 							  
 						  
@@ -4546,7 +5343,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Jansport_10551_10051_27401_27993_-1.htm">Jansport</a><br>
+									  <a href="/category/Shop-By-Brand-Keen_10551_10051_27401_28022_-1.htm">
+									     
+										 Keen</a><br>
+								      
 								  
 							  
 						  
@@ -4561,7 +5361,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Keen_10551_10051_27401_28022_-1.htm">Keen</a><br>
+									  <a href="/category/Shop-By-Brand-Marmot_10551_10051_27401_28136_-1.htm">
+									     
+										 Marmot</a><br>
+								      
 								  
 							  
 						  
@@ -4576,7 +5379,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Marmot_10551_10051_27401_28136_-1.htm">Marmot</a><br>
+									  <a href="/category/Shop-By-Brand-Maui-Jim_10551_10051_27401_28146_-1.htm">
+									     
+										 Maui Jim</a><br>
+								      
 								  
 							  
 						  
@@ -4591,7 +5397,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Maui-Jim_10551_10051_27401_28146_-1.htm">Maui Jim</a><br>
+									  <a href="/category/Shop-By-Brand-Merrell_10551_10051_27401_28159_-1.htm">
+									     
+										 Merrell</a><br>
+								      
 								  
 							  
 						  
@@ -4606,25 +5415,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Merrell_10551_10051_27401_28159_-1.htm">Merrell</a><br>
+									  <a href="/category/Shop-By-Brand-Mizuno_10551_10051_27401_28175_-1.htm">
+									     
+										 Mizuno</a><br>
+								      
 								  
 							  
 						  
-							  
-								  
-								  
-								  
-								      
-									      
-									      
-									          
-									      
-								      
-									  
-									  <a href="/category/Shop-By-Brand-Mizuno_10551_10051_27401_28175_-1.htm">Mizuno</a><br>
-								  
-							  
-						  
+
 						</td>
 						
 						<td class="nav-primary-style2-column2">
@@ -4640,7 +5438,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-New-Balance_10551_10051_27401_28217_-1.htm">New Balance</a><br>
+									  <a href="/category/Shop-By-Brand-New-Balance_10551_10051_27401_28217_-1.htm">
+									     
+										 New Balance</a><br>
+								      
 								  
 							  
 						  
@@ -4655,7 +5456,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Nike_10551_10051_27401_28223_-1.htm">Nike</a><br>
+									  <a href="/category/Shop-By-Brand-Nike_10551_10051_27401_28223_-1.htm">
+									     
+										 Nike</a><br>
+								      
 								  
 							  
 						  
@@ -4670,7 +5474,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Nixon_10551_10051_27401_28231_-1.htm">Nixon</a><br>
+									  <a href="/category/Shop-By-Brand-Nixon_10551_10051_27401_28231_-1.htm">
+									     
+										 Nixon</a><br>
+								      
 								  
 							  
 						  
@@ -4685,7 +5492,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Oakley_10551_10051_27401_28246_-1.htm">Oakley</a><br>
+									  <a href="/category/Shop-By-Brand-Oakley_10551_10051_27401_28246_-1.htm">
+									     
+										 Oakley</a><br>
+								      
 								  
 							  
 						  
@@ -4700,7 +5510,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Oakley-Classics_10551_10051_27401_37801_-1.htm">Oakley Classics</a><br>
+									  <a href="/category/Shop-By-Brand-Oakley-Classics_10551_10051_27401_37801_-1.htm">
+									     
+										 Oakley Classics</a><br>
+								      
 								  
 							  
 						  
@@ -4715,7 +5528,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Patagonia_10551_10051_27401_28295_-1.htm">Patagonia</a><br>
+									  <a href="/category/Shop-By-Brand-Patagonia_10551_10051_27401_28295_-1.htm">
+									     
+										 Patagonia</a><br>
+								      
 								  
 							  
 						  
@@ -4730,7 +5546,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Pearl-Izumi_10551_10051_27401_28298_-1.htm">Pearl Izumi</a><br>
+									  <a href="/category/Shop-By-Brand-Pearl-Izumi_10551_10051_27401_28298_-1.htm">
+									     
+										 Pearl Izumi</a><br>
+								      
 								  
 							  
 						  
@@ -4745,7 +5564,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Phiten_10551_10051_27401_28314_-1.htm">Phiten</a><br>
+									  <a href="/category/Shop-By-Brand-Phiten_10551_10051_27401_28314_-1.htm">
+									     
+										 Phiten</a><br>
+								      
 								  
 							  
 						  
@@ -4760,7 +5582,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Polar_10551_10051_27401_28326_-1.htm">Polar</a><br>
+									  <a href="/category/Shop-By-Brand-Polar_10551_10051_27401_28326_-1.htm">
+									     
+										 Polar</a><br>
+								      
 								  
 							  
 						  
@@ -4775,7 +5600,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Puma_10551_10051_27401_28355_-1.htm">Puma</a><br>
+									  <a href="/category/Shop-By-Brand-Puma_10551_10051_27401_28355_-1.htm">
+									     
+										 Puma</a><br>
+								      
 								  
 							  
 						  
@@ -4790,7 +5618,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Rawlings_10551_10051_27401_28367_-1.htm">Rawlings</a><br>
+									  <a href="/category/Shop-By-Brand-Rawlings_10551_10051_27401_28367_-1.htm">
+									     
+										 Rawlings</a><br>
+								      
 								  
 							  
 						  
@@ -4805,7 +5636,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Rollerblade_10551_10051_27401_28405_-1.htm">Rollerblade</a><br>
+									  <a href="/category/Shop-By-Brand-Rollerblade_10551_10051_27401_28405_-1.htm">
+									     
+										 Rollerblade</a><br>
+								      
 								  
 							  
 						  
@@ -4820,7 +5654,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Salomon_10551_10051_27401_28420_-1.htm">Salomon</a><br>
+									  <a href="/category/Shop-By-Brand-Salomon_10551_10051_27401_28420_-1.htm">
+									     
+										 Salomon</a><br>
+								      
 								  
 							  
 						  
@@ -4835,7 +5672,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Saucony_10551_10051_27401_28429_-1.htm">Saucony</a><br>
+									  <a href="/category/Shop-By-Brand-Saucony_10551_10051_27401_28429_-1.htm">
+									     
+										 Saucony</a><br>
+								      
 								  
 							  
 						  
@@ -4850,7 +5690,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Spyder_10551_10051_27401_28526_-1.htm">Spyder</a><br>
+									  <a href="/category/Shop-By-Brand-Spyder_10551_10051_27401_28526_-1.htm">
+									     
+										 Spyder</a><br>
+								      
 								  
 							  
 						  
@@ -4865,7 +5708,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Sugoi_10551_10051_27401_28552_-1.htm">Sugoi</a><br>
+									  <a href="/category/Shop-By-Brand-Sugoi_10551_10051_27401_28552_-1.htm">
+									     
+										 Sugoi</a><br>
+								      
 								  
 							  
 						  
@@ -4880,7 +5726,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-The-North-Face_10551_10051_27401_28598_-1.htm">The North Face</a><br>
+									  <a href="/category/Shop-By-Brand-The-North-Face_10551_10051_27401_28598_-1.htm">
+									     
+										 The North Face</a><br>
+								      
 								  
 							  
 						  
@@ -4895,7 +5744,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Under-Armour_10551_10051_27401_28649_-1.htm">Under Armour</a><br>
+									  <a href="/category/Shop-By-Brand-Under-Armour_10551_10051_27401_28649_-1.htm">
+									     
+										 Under Armour</a><br>
+								      
 								  
 							  
 						  
@@ -4910,7 +5762,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Victorinox-Swiss-Army_10551_10051_27401_28574_-1.htm">Victorinox Swiss Army</a><br>
+									  <a href="/category/Shop-By-Brand-Victorinox-Swiss-Army_10551_10051_27401_28574_-1.htm">
+									     
+										 Victorinox Swiss Army</a><br>
+								      
 								  
 							  
 						  
@@ -4925,7 +5780,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-Wilson_10551_10051_27401_28699_-1.htm">Wilson</a><br>
+									  <a href="/category/Shop-By-Brand-Wilson_10551_10051_27401_28699_-1.htm">
+									     
+										 Wilson</a><br>
+								      
 								  
 							  
 						  
@@ -4940,10 +5798,14 @@ var newsletter_bademail="The email address you entered does not appear to be val
 									      
 								      
 									  
-									  <a href="/category/Shop-By-Brand-MORE_10551_10051_27401_27404_-1.htm">MORE</a><br>
+									  <a href="/category/Shop-By-Brand-MORE_10551_10051_27401_27404_-1.htm">
+									     
+										 MORE</a><br>
+								      
 								  
 							  
 						  
+
 						</td>
 						
 					  </tr>
@@ -4982,10 +5844,10 @@ var newsletter_bademail="The email address you entered does not appear to be val
 	
 		
 	
+
 	
 	
-	
-	
+
   </ul>
 </div>
 
@@ -6303,104 +7165,14 @@ padding-left:16px;
 }
 </style>
 
-<script type="text/javascript" src="/jquery-1.2.6.min.js"></script>
-<script>
-
-$(document).ready(function(){
-  $("span#showHHours").click(function(){
-	 $("div#holidayWrapper").slideDown("slow");
-   }).mouseout(function(){
-     $("div#holidayWrapper").slideUp("slow");
-   });
-});
-</script>
-
 <div class="well hours">
-<span id="showHHours" style="cursor: pointer"><img src="/images/misc/ribbon.gif"><b>&nbsp;Click To View<br> Holiday Store Hours</b></span>
-<br><br>
-     <b>Regular Store Hours</b><br>
+    <b>Store Hours</b><br>
     Mon - Sat 10:00am - 8:00pm<br>
     Sun 11:00am - 7:00pm.<br>
     867 Broadway, NY, NY 10003<br>
     1-800-961-3030 or 212-255-8889<br><br>
-
-<style> 
-  
-	#holidayHours ul{
-       list-style-type: none;   
-	   margin-left: 0px; 
-	   padding-left: 0px; 
-     }
-
-    #holidayHours ul li{
-	   line-height: 22px;
-       width: 375px;
-     }	 
 	
-	.holidayDayHours{
-		float: right;
-		padding-right: 5px;
-	}
-	
-	.holidayDays{
-	    float: left;
-		padding-left: 5px;
-	}
-	
-	.odd-hol{
-	  background-color: #ffffff;
-	  color: black;
-	}
-	
-	.even-hol{
-	  float: left;
-	  background-color: #437099;
-	  color: #fff;
-	}
-	
-	#holidayWrapper{
-	  background-color: #fff;
-	  display: none;
-	  width: 375px;
-	  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	  position: relative;
-	  left: 180px;
-	  top: -145px;
-	  z-index: 100;
-	}
-   </style>
-   
-<div id="holidayWrapper">   
-   <div id="holidayHours">
-   <ul>
-     <li class="odd-hol">
-	     <span class="holidayDays">Monday December 7th - Saturday December 12th</span> 
-		 <span class="holidayDayHours">10am-9pm</span> 
-	 </li>
-	 <li class="even-hol">
-	    <span class="holidayDays">Sunday December 13th</span>
-		<span class="holidayDayHours">10am - 8pm</span>
-     </li>  		  
-     <li class="odd-hol">
-	    <span class="holidayDays">Monday December 14th - Saturday December 19th</span>
-		<span class="holidayDayHours">9am - 9pm</span>
-	 </li>
-     <li class="even-hol">
-	   <span class="holidayDays">Sunday December 20th</span>
-	   <span class="holidayDayHours">10am-9pm</span>
-	 </li>
-	 <li class="odd-hol">
-	   <span class="holidayDays">Monday December 21st - Wedneday December 23rd</span>
-	   <span class="holidayDayHours">9am-9pm</span>
-	 </li>	 
-	 <li class="even-hol">
-	    <span class="holidayDays">Thursday December 24th</span>
-		<span class="holidayDayHours">9am - 7pm</span>
-	 </li>
-<li style="clear: left"><h4><center>* These Hours Are Subject To Change *</center></h4></li>
-    </ul>
-   </div>
-   </div>
+   <a href="http://twitter.com/paragonsports"><img border="0" src="/images/misc/twitter1.gif"></a>
 </div>
 
 					
@@ -6435,7 +7207,6 @@ $(document).ready(function(){
     <a href="ContentView?storeId=10551&amp;catalogId=10051&amp;langId=-1&amp;content=shipping_returns">Shipping &amp; Returns</a><br>
     <a href="ContentView?storeId=10551&amp;catalogId=10051&amp;langId=-1&amp;content=guarantee">Our Guarantee</a><br>
     <a href="mailto:webmaster@paragonsports.com">Report Site Issues</a><br>
-    <a href="http://twitter.com/paragonsports"><img border="0" src="/images/misc/twitter1.gif"></a>
 </div>
 
 <div class="well" style="width:379px; margin-top:-8px; padding:0px;">
@@ -6459,7 +7230,7 @@ $(document).ready(function(){
 <img style="margin: -2px 0pt 0pt 16px;" src="/images/footer/satisfactionGuarantee2.gif"></a>
 </td>
 <td align="center" style="font-weight:600; padding-left:30px; padding-top:20px; color:#000; font-size:11px;">
-Copyright 2007.<br>
+Copyright 2010.<br>
 Paragon Sports Co. LLC<br>
  All Rights Reserved. 
 </td>
