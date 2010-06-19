@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218014613id_/http%3A//www.airtransat.ca/EN/Info/privacy.aspx%3FExitID%3D765%26ContentType%3Dgamme) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619074158id_/http%3A//www.airtransat.ca/EN/Info/privacy.aspx%3FExitID%3D765%26ContentType%3Dgamme) for the most accurate reproduction.*
 
 # 
 
