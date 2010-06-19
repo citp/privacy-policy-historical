@@ -1,43 +1,48 @@
-> *The following text is extracted and transformed from the techblissonline.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230101711id_/http%3A//techblissonline.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblissonline.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619092933id_/http%3A//techblissonline.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-This is the web site of **techblissonline dot com**.  
-We can be reached via e-mail through the contact page 
+This is the web site of **Techblissonline Dot Com**. 
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us via the contact page. 
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit.
+At **techblissonline dot com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by _techblissonline dot com.com_ and how it is used. 
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor and .
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via contact page, the e-mail addresses of those who make postings to our chat areas (comment section), aggregate information on what pages consumers access or visit.
 
-With respect to cookies: We do not set any cookies. 
+The information we collect is used for internal review and is used to improve the content of our Web page, customize the content and/or layout of our page for each individual visitor.The information is subsequently discarded.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.
+**Log Files**  
+Like many other Web sites, _techblissonline dot com_ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+**Cookies and Web Beacons**  
+techblissonline dot com does not use or set any cookies. 
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+**DoubleClick DART Cookie**
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+.:: Google, as a third party vendor, uses cookies to serve ads on **techblissonline dot com**.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to techblissonline dot com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Infolinks  
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.burstmedia.com/
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on techblissonline dot com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+techblissonline dot com has no access to or control over these cookies that are used by third-party advertisers. 
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, writing to us at the above address. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. techblissonline dot com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, communications that the consumer/visitor has directed to the site.
+Upon request, we offer visitors, the ability to have inaccuracies corrected, in contact information, communications that the consumer/visitor has directed to the site.
 
-Consumers can have this information corrected by sending us e-mail at the above address. 
+Consumers can have any of their information corrected by messaging us via the contact page.
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
+If you feel that this site is not following its stated information policy, you may contact us.
