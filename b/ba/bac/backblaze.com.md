@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033121id_/http%3A//www.backblaze.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620002856id_/http%3A//www.backblaze.com/privacy/index.html) for the most accurate reproduction.*
 
 # Backblaze - Online backup privacy policy
 
-Updated 1/10/08
+Updated 3/22/10
 
 This Privacy Policy explains what personal information is collected and how it is used and protected by Backblaze Inc., its websites (including www.backblaze.com), products and services (collectively, the “Service” or “Services”.) Backblaze defines Personal Information as your name, email address or billing information, or other data which can be reasonably linked to such information.   
 By using the Services, you expressly consent to the use of data as described in this Privacy Policy.
@@ -50,7 +50,7 @@ Backblaze may update this Privacy Policy from time to time. We expect these chan
 
 Safe Harbor
 
-Backblaze supports the Safe Harbor Privacy Principles as covered in this Privacy Policy. Backblaze has contracted with the European Union Data Protection Authorities (DPA) to uphold the requirement of providing an independent third party to resolve privacy disputes. If you are a European consumer and feel your privacy complaint has not been adequately resolved, you may contact the DPA.
+Backblaze supports the Safe Harbor Privacy Principles as covered in this Privacy Policy. 
 
 Privacy Complaints  
 Backblaze is committed to protecting your privacy. If you have a privacy complaint, please contact us directly first to attempt to resolve any issue by visiting [www.backblaze.com/privacy](http://www.backblaze.com/privacy).
