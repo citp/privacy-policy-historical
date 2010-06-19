@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotforwords.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228182710id_/http%3A//www.hotforwords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotforwords.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619234210id_/http%3A//www.hotforwords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,9 @@ HotForWords, LLC is the sole owner of the information collected on the HotForWor
 
 ### **Mailing List**
 
-HotForWords, LLC offers a free subscription to the HotForWords website. When you sign up to the HotForWords website, you may receive from time to time an email of an eCard (holiday email from HotForWords) as well as notifications of replies to comments you make on the website.  In order to sign up to receive regular emails from any website, users must submit information including a valid email address.
+HotForWords, LLC offers a free subscription to the HotForWords website. When you sign up to the HotForWords website, you will be notified of new videos and posts to the website as well as notifications of replies to comments you make on the website.  In order to sign up to receive regular emails from any website, users must submit information including a valid email address.
 
-Users who choose to sign up for this site will receive these special holiday cards, or other specials, and separately, if users sign up for the new post notifications on the upper right corner of the site, they will also receive notifications when new posts are made on the site. These services are independent of each other, and a user can exist in either service, or both. If you do not wish to receive emails from HotForWords, you can [unsubscribe at any time.](http://www.hotforwords.com/subscribe/ "Subscription")
+If you do not wish to receive emails from HotForWords, you can [unsubscribe at any time.](http://www.hotforwords.com/subscribe/ "Subscription")
 
 ### **Third Party Cookies**
 
@@ -43,5 +43,3 @@ Whenever the HotForWords website changes its privacy policy, the changes will be
 ### **Contact Information**
 
 If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.hotforwords.com/support "contact us").
-
-[](http://www.hotforwords.com/privacy-policy/?administer_redirect_21=http://www.drinkneuro.com)
