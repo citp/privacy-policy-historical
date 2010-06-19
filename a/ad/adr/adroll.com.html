@@ -1,116 +1,254 @@
-<!--The following is the downloaded HTML source of the adroll.com privacy policy that was archived on 2009-02-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090227094903id_/http%3A//www.adroll.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adroll.com privacy policy that was archived on 2010-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100619182732id_/http%3A//www.adroll.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-        <link rel="Shortcut Icon" href="/20090224/i/favicon.ico" type="image/x-icon">
-        <link type="text/css" rel="stylesheet" href="http://yui.yahooapis.com/2.6.0/build/reset/reset-min.css">
-        <link type="text/css" rel="stylesheet" href="/20090224/c/adroll.css">
-        <title>Adroll.com - Privacy Policy</title>
+        <meta name="description" content="AdRoll is a simple and effective platform for advertising online and retargeting previous website visitors to bring them back to your site.">
+        <link rel="Shortcut Icon" href="/20100617/i/favicon.ico" type="image/x-icon">
+        <title>Privacy Policy | AdRoll</title>
+		
+		
+        
+			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+				<script type="text/javascript" src="/20100617/j/jquery/all.js"></script>
+			
+			
+			
+			<script type="text/javascript">
+            /*<![CDATA[*/
+                
+                    $.console.enabled = false;
+				
+				
+                $(document).ready(function(){
+                    $.adroll.fixIE6Pngs();
+                });
+            /*]]>*/
+            </script>
+        
+        
+        
         
         
     
-            <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.6.0/build/button/assets/skins/sam/button.css">
-            <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.6.0/build/menu/assets/skins/sam/menu.css"> 
-            <script type="text/javascript" src="http://yui.yahooapis.com/2.6.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-            <script type="text/javascript" src="http://yui.yahooapis.com/2.6.0/build/container/container_core-min.js"></script>
-            <script type="text/javascript" src="http://yui.yahooapis.com/2.6.0/build/menu/menu-min.js"></script>
-            <script type="text/javascript" src="http://yui.yahooapis.com/2.6.0/build/element/element-beta-min.js"></script>
-            <script type="text/javascript" src="http://yui.yahooapis.com/2.6.0/build/button/button-min.js"></script>
-            <script type="text/javascript" src="/20090224/j/utils.js"></script>
-
-
-            <style type="text/css">
-
-                .error-message {background-image: url(/20090224/i/error_up_arrow.gif);}
-                .tab-line {background-image: url(/20090224/i/top-tab-line1.gif);}
-                .header-top .welcome {background-image: url(/20090224/i/bg_dotted_white_vert.gif);}
-                .header-top a {background-image: url(/20090224/i/bg_dotted_white_vert.gif);}
-                .menu {background-image: url(/20090224/i/bg_header_top_left.gif);}
-                .site-footer a.join-link {background-image: url(/20090224/i/add.gif);}
-
-                #profile-page a.add-button {background-image: url(/20090224/i/add.gif);}
-                #profile-page a.contact-button {background-image: url(/20090224/i/message.gif);}
-                #profile-page a.connected-button {background-image: url(/20090224/i/check.png);}
-
-                    #main-nav {margin-bottom: 23px;}
-                    #main-nav .button {font-size: 1.2em !important; margin-left: 20px !important;}
-            </style>
+			<link type="text/css" rel="stylesheet" href="/20100617/c/future/adroll.css">
+			
+			<!--[if IE]>
+            <link type="text/css" rel="stylesheet" href="/20100617/c/future/ie.css" />
+            <![endif]-->
+			
+				<script type="text/javascript" src="http://feedback.adroll.com/logout.json"></script>
         
     <style type="text/css">
         h3 {margin-top: 20px;}
-        ul {font-size: .8em; margin-top: 0;}
-        ul li {margin-left: 30px; list-style-type: disc;}
+        ul.privacy-info {margin-top: 0;}
+        ul.privacy-info li {list-style-type: disc;}
     </style>
-
-    </head>
+    <script type="text/javascript">
+    var cookieName = "__adroll_opt_out";
+    var cookieVal = 'OPT_OUT_foobar';
     
-    <body class="yui-skin-sam">
+    $(document).ready(function(){
+        
+        function isIn(){
+            return $.cookie(cookieName) == null;
+        }
+        
+        function display(){
+            var isit = isIn();
+            $(isit ? '#optout' : '#optin').show();
+            $(isit ? '#optin' : '#optout').hide();
+        }
+        
+        function toggle(){
+            if(isIn()) $.cookie(cookieName, cookieVal, {expires: 1000000});
+            else $.cookie(cookieName, null);
+            display();
+        }
+        
+        $('.opt-link').click(function(){
+            toggle();
+            return false;
+        })
+        
+        display();
+    });
+
+    </script>
+
+        
+    <script async="true" type="text/javascript" src="https://c.adroll.com/j/roundtrip.js"></script><script type="text/javascript" src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
+    
+
+    <body id="privacy">
             <script type="text/javascript">
                 /*<![CDATA[*/
                 var WRInitTime=(new Date()).getTime();
                 /*]]>*/
             </script>
         
-        <div id="container">
-            <div class="header-top">
-                <div class="header-top-inner">
-                <div class="menu">
-                    <a href="/account/signin">Sign in</a>
-                </div>
-                </div>
-            </div>
-            <div id="header-main">
-                <div id="logo">
-                    <a href="http://www.adroll.com/">
-                        <img alt="adroll: ad networking" src="/20090224/i/logo_w_tag.gif" border="0">
-                    </a><br>
-                </div>
-                <div id="main-nav" style="padding-left: 20px;">
-                        <div class="button"><p><a href="/">Home</a></p></div>
-                        <div class="button"><p><a href="/explore">Explore</a></p></div>
-                        <div class="button"><p><a href="/advertise">Advertise</a></p></div>
-                        <div class="button"><p><a href="/account/register">Join</a></p></div>
-                </div>
-            </div>
-            <br clear="all" class="min">
-            <div id="maincontent">
-                
+		
+		<div id="page-top">
+			<div id="page-top-wrapper">
+				
+				
+					<div id="page-top-info">
+						We're here to help. Call 877-7-ADROLL
+					</div>
+				
+			</div>
+		</div>
+		
+		<div id="header">
+			<div id="header-actions">
+				<a href="/account/signin">Log in</a> |
+				<a href="/account/register">Sign up</a> |
+				<a href="/about">Support</a>
+			</div>
+			
+			
+			
+				<div id="logo">
+					<a href="http://www.adroll.com/">
+						<img alt="adroll: get targeted" src="/20100617/i/site/logo.png">
+					</a>
+					<span id="tag-line">Increase Sales. Raise Awareness.</span>
+				</div>
+			
+		</div>
+        
+		<div id="nav">
+			<div id="nav-wrapper">
+				
+				
+					<div id="nav-message">
+						<ul class="nav-bar">
+							<li class=""><a href="/agency" title="Advertising Information for Ad Agencies">For Agencies</a></li>
+						</ul>
+					</div>
+				
+				
+				<ul class="nav-bar">
+					
+					
+                        
+						<li class="home "><a href="/" title="Visit the home page!">Home</a></li>
+						<li class="">
+							<a href="/about/keyfeatures">How AdRoll Works</a></li>
+						<li class=""><a href="http://www.adroll.com/advertise/evaluation">Launch Campaign</a></li>
+						<li class=""><a href="/about/pricing">Products &amp; Pricing</a></li>
+						<li class=""><a href="/company">About Us</a></li>
+					
+				</ul> <!-- end header-main-->
+				
+			</div>
+		</div>
+		
+		
+		
+        <div id="page">
+			
+			
+            
 
 
 
 <div id="box-line" class="padded">
-<h1>Privacy Policy for Adroll.com Services</h1>
 
-<p>This policy describes the ways we collect, store, use and protect your personal information. You accepted this policy when you signed up for our Service. We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide you with 30 days prior notice by posting notice of the change on the "Privacy Policy" page of our website.</p>
+<h1 class="page-heading">Privacy Policy for AdRoll.com Services</h1>
+
+<p>The following describes the overall company Privacy Policy of Semantic Sugar Inc. (referred to as "Adroll", "AdRoll.com", "we", "us", "our") and the services provided on the AdRoll.com website (referred to as "Services", "Service").  We understand how important it is to keep your personal information confidential, especially online.  Our commitment to protecting your privacy is outlined in the policies below.  This policy was designed to inform you of the information we collect when you visit AdRoll.com as well as our customer's (referred to as "Advertisers" websites or "Publishers" websites) and then how the information is collected and used by companies that display advertisements (referred to as "Partners").  Those who visit our Advertisers' or Publishers' websites are referred to as "Prospects" throughout this policy.  Because our policy may be updated periodically we encourage you to review these pages on a regular basis.</p>
+
+<h3>Opt In / Opt Out</h3>
+
+<div id="optin">
+    <p>You have opted out of allowing Adroll to select more relevant ads for
+    you. Adroll has placed an opt-out cookie in your browser's cache that
+    indicates to our servers that you have opted out. No further Adroll
+    cookies will be used. Your decision does not affect ad delivery, but it
+    turns off our ability to select the most relevant ads for you or keep
+    track which ads you have seen and how often you have seen them.
+    </p>
+    
+    <p>NOTE: If you delete your cookies or switch to a different browser you will have to repeat this procedure.</p>
+    
+    <p>If you opted-out in error, or you want to make sure we can select more
+    relevant ads for you, click on the link below to reset your Adroll cookie
+    (opt in).</p>
+    
+    <p><a href="#" class="opt-link">Click here if you want to Opt IN</a></p>
+</div>
+
+<div id="optout">
+    <p>You have opted in to allowing Adroll to select more relevant ads for
+    you. If you would like to opt out, click on the link below.</p>
+    <p><a href="#" class="opt-link">Click here if you want to Opt OUT</a></p>
+</div>
+
+<p>In order to allow AdRoll advertisers to reach the best inventory online, AdRoll
+buys across multiple networks. In order to opt out of all retargeted ads,
+you must opt out of each of the major networks individually. Click on each link
+to Opt OUT of all AdRoll retargeted ads.</p>
+
+<p>
+<a href="http://www.google.com/privacy_ads.html" target="_blank">Click here to Opt OUT of Google Content Network</a><br>
+<a href="http://www.adbrite.com/mb/behavorial_optout.php" target="_blank">Click here to Opt OUT of AdBrite</a><br>
+<a href="http://www.openx.org/privacy" target="_blank">Click here to Opt OUT of OpenX</a>
+</p>
 
 <h3>How we collect information about you</h3>
-<p>When you visit the Adroll.com website, we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website.</p>
+
+<p>When you visit the AdRoll.com website, we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website.</p>
+
 <p>This site uses page referrer data - that is, information about the page that linked you to this page - to determine to what extent our page is referenced by other resources on the Web.</p>
+
 <p>When you are using our Service, we collect information about your account transactions and we may collect information about your computer or other access device for fraud prevention purposes.</p>
+
 <p>This data may be used to preserve the integrity of our computing resources.</p>
+
 <p>If you open an account, we collect the following types of information from you:</p>
-<ul>
+
+<ul class="privacy-info">
     <li>Contact information - your name, address, email, and other similar information.</li>
-    <li>Financial information - the bank account numbers and credit card numbers that you link to your Adroll.com account. Alternately, we collect your PayPal account.</li>
+    <li>Financial information - the bank account numbers and credit card numbers that you link to your AdRoll.com account. Alternately, we collect your PayPal account.</li>
 </ul>
+
 <p>Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey.</p>
-<p>We do not share any personal information with any third parties nor do we use any personal information for any purposes beyond those stated here.</p>
+
+<h3>Personal and Non-Personal Information</h3>
+
+<p>Personally Identifiable Information ("PII") is data about you that is personally identifiable; like your name, email address, credit card number or any other information that is not otherwise publicly available. The PII that Adroll collects from you is information you supply to us; such as your name, email address, credit card number and AdRoll.com account login. That information is maintained by Adroll so that you do not have to enter it each time you visit our website.</p>
+
+<p>Non-Personally Identifiable Information ("NPII") data is collected by Adroll and Adroll Partners, and is used by Adroll for the purpose of improving the quality and relevancy of the advertisements served by Adroll and Adroll's Partners (referred to as "Retargeting"). NPII data collected by Adroll for Retargeting is completely anonymous, and only includes information such as the Prospect IP address, date and time of visit, domain type, and their activity on our Advertiser's or Partner's websites. None of this information, individually or grouped together, can be traced back to a specific individual.</p>
+
+<p>Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey.</p>
+
+<p>We do not share any PII with any third parties nor do we use any personal information for any purposes beyond those stated here.</p>
 
 <h3>How we use cookies</h3>
-<p>This site uses form elements and/or cookies on each page to maintain a continuous user session.</p>
 
-<p>"Cookies" are small data files that may be downloaded to your computer when you visit the Adroll.com site or a Publisher site and permit the Adroll.com server to identify your browser whenever you interact with the Adroll.com site or with an Adroll.com Publisher site. Adroll.com uses cookies to recognize repeat visits by users of its Service and to collect information about how users interact with the Service. These cookies contain identification information that enables us to streamline a user's experiences using the Services and to report such information to Publishers, Advertisers, and Network Operators.</p>
+<p>"Cookies" are small data files that may be downloaded to the browser on your computer when you visit the Adroll site or an Advertiser or Publisher site and permit the Adroll server or an Adroll Partner's server to identify your browser whenever you interact with the AdRoll.com site or with an Adroll Advertiser or Publisher site. Adroll uses cookies to recognize repeat visits by users of its Service and to collect information about how users interact with the Service. These cookies contain identification information that enables us to streamline the user experiences using the Services and to report such information to Publishers, Advertisers, and Network Operators.</p>
+
+<p>Adroll also uses it's cookies to serve relevant and targeted advertisements through Retargeting.  A Prospect receives a cookie from Adroll and Adroll's Partners when they visit AdRoll.com, and/or when they visit one of Adroll's Advertiser's websites.  When a Prospect visits one of Adroll's Advertiser websites, an Adroll pixel on that site sets a Adroll cookie and Adroll Partner cookies in the browser being used by the Prospect.  When that Prospect visits one of Adroll's Publisher sites or a site where one of our Partners serves advertisements, the cookie storied in the browser of the Prospect will be recognized by Adroll's server or the Partner's server.  The Prospect will then be shown and advertisement from the Advertiser of the site they visited when the cookie was stored.  After this point, Adroll will track how many times the Prospect is shown an ad from that Advertiser and whether or not they clicked on the ad.  This information is part of what Adroll uses in its reporting, but in no way can be used to identify who that Prospect is, or any other online activities of the Prospect outside of Adroll's Advertiser, Publisher and Partner websites.  Adroll has no access to Partner cookies but requires that each Partner only collect NPII information for the use of serving ads.  Any Partner found in violation of this policy will immediately be removed.</p>
+
+<p>The NPII data collected by Adroll in the above outlined process of Retargeting will be kept by Adroll for the period of one year.  After one year, all cookie data and IP addresses is purged.  This information is used strictly for reporting purposes and is not tied to personal information.</p>
+
 <p>We encode our cookies so that only we can interpret the information stored in them. You are free to decline our cookies if your browser permits, but doing so may interfere with your use of our website.</p>
 
 <h3>How we protect and store personal information</h3>
+
 <p>Throughout this policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been made anonymous so that it does not identify a specific user.</p>
+	
 <p>We store and process your personal information on our computers in the US, and we protect it by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.</p>
+
 <p>All credit card information is encrypted with 128-bit SSL encryption before it is transmitted across the network.</p>
 
 <h3>How we use the personal information we collect</h3>
+
 <p>Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to:</p>
-<ul>
+
+<ul class="privacy-info">
     <li>Provide the services and customer support you request</li>
     <li>Process transactions and send notices about your transactions</li>
     <li>Resolve disputes, collect fees, and troubleshoot problems</li>
@@ -120,13 +258,15 @@
     <li>Compare information for accuracy and verify it with third parties</li>
 </ul>
 
-<h3>How we share personal information with other Adroll.com users</h3>
-<p>To buy and sell ads, we need to share some of your personal information with the person or company that you are paying or is paying you. Your contact information, date of sign-up, the number of successful transactions you have completed from verified Adroll.com customers, and whether you have verified control of a bank account are displayed to other Adroll.com customers who you transact with through Adroll.com.</p>
-<p>Regardless, we will not disclose your credit card number or bank account number to anyone you have paid or who has paid you through Adroll.com, except with your express permission or if we are required to do so to comply with a subpoena or other legal process.</p>
+<h3>How we share personal information with other AdRoll.com users</h3>
+
+<p>To buy and sell ads, we need to share some of your personal information with the person or company that you are paying or is paying you. Your contact information, date of sign-up, the number of successful transactions you have completed from verified AdRoll.com customers, and whether you have verified control of a bank account are displayed to other AdRoll.com customers who you transact with through AdRoll.com.</p>
+<p>Regardless, we will not disclose your credit card number or bank account number to anyone you have paid or who has paid you through AdRoll.com, except with your express permission or if we are required to do so to comply with a subpoena or other legal process.</p>
 
 <h3>How we share personal information with other parties</h3>
+
 <p>We may share your personal information with:</p>
-<ul>
+<ul class="privacy-info">
     <li>Service providers under contract who help with parts of our business operations; (fraud prevention, bill collection, marketing, technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.</li>
     <li>Credit bureaus to report outstanding negative balance accounts, as allowed by law.</li>
     <li>We may share aggregated non-personally identifiable information about you with Publishers or Advertisers, such as the number of users who visit a Publisher site or the number of users who clicked on a particular advertisement. This information does not identify you individually. Further, we encourage you to review the privacy policies of the Publishers that you visit. You should contact Publishers directly and review their privacy policies should you have questions concerning their use of your information such as, for example, communications you may or may not wish to receive.</li>
@@ -134,46 +274,104 @@
     <li>Other third parties with your consent or direction to do so.</li>
 </ul>
 
-<p>Adroll.com complies with all statutory and legal requirements with respect to access to information.</p>
-<p>Adroll.com will not sell or rent any of your personal information to third parties in the normal course of doing business and only shares your personal information with third parties as described in this policy.</p>
+<p>AdRoll.com complies with all statutory and legal requirements with respect to access to information.</p>
+<p>AdRoll.com will not sell or rent any of your personal information to third parties in the normal course of doing business and only shares your personal information with third parties as described in this policy.</p>
 
-<h3>How you can restrict Adroll.com from sharing your personal information</h3>
-<p>You can control how we use your contact information in the notifications preferences.</p>
+<h3>Unsupervised Children</h3>
+<p>Children 18 and under are not eligible to use Adroll services with participation and supervision of a legal parent or guardian.  Adroll is not a site meant for children, and we do not provide privacy measures designed to protect children when using the Internet unsupervised.</p>
 
-<h3>How you can access or change your personal information</h3>
-<p>You can review your personal information and make any necessary changes, at any time by logging in to your account and changing your preferences in the "My Account" area.</p>
+<h3>Other Sites Policies</h3>
+<p>Adroll has no control over, nor does it bear any of the responsibility for the privacy policies and/or content of any sites or advertisers linked to or on Adroll, or the cookies these sites might deposit on your hard drive.  Adroll does require that Advertisers that have elected to use Adroll provide a descriptive privacy policy of their own reachable from their website describing how they handle Online Behavioral Advertising.</p>
+
+<h3>Forum/Conversation Tool</h3>
+<p>If you use the Conversational Tool and/or Forum Tool on Adroll you should be aware that any personally identifiable information you submit there can be read, collected or used by users who that message was sent to (using the Conversational Tool) or who use the forum and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit using these product features.</p>
+
+<h3>How you can restrict AdRoll.com from sharing your personal information</h3>
+<p>You can control how we use your contact information in the Email Preferences section of your account:</p>
+<p>http://www.adroll.com/account/emailpreferences</p><p>
+
+</p><h3>How you can access or change your personal information</h3>
+<p>You can review your personal information and make any necessary changes, at any time by logging in to your account and changing your preferences in the "My Account" area.  You may email us at support@adroll.com or use one of the alternate contact methods listed below to remove your contact information from our database provided we have completed all your pending transactions.</p>
 
 <h3>How you can contact us about privacy questions</h3>
-<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact <strong>support <em>[at]</em> adroll <em>[dot]</em> com</strong> or write to us at:</p>
+<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact support [at] adroll [dot] com or write to us at:</p>
 
 <p class="indented">
-Adroll.com<br>
+AdRoll.com<br>
 Attn: Privacy Department<br>
-201 Post Street<br>
-Suite 1000<br>
-San Francisco, CA 94108
+720 Market Street<br>
+4th floor<br>
+San Francisco, CA 94102
 </p>
 
 </div>
 
-            </div>
-            <div id="footer">
-    <div id="footer-nav">
-        <a href="http://www.adroll.com/about">How Adroll Works</a> | 
-        <a href="http://www.adroll.com/help">Help</a> | 
-        <a href="http://www.adroll.com/company">Company</a> | 
-        <a href="http://www.adroll.com/forums">Forums</a> | 
-        <a href="http://adroll.com/blog">Blog</a> | 
-        <a href="http://www.adroll.com/privacy">Privacy</a> |
-        <a href="http://www.adroll.com/account/terms">Terms</a><br> 
-        Got Questions? Call 1-877-7-ADROLL or email info [at] adroll [dot] com<br>
-
-        Copyright © 2006-08 Adroll.com. All Rights Reserved. [2] | Public β
-    </div>
-    <div class="clr" id="footer-end"></div>
-</div>
-
-        </div>
+        </div> <!--page-->
+		
+		
+		
+		<div id="footer">
+			<div id="footer-copy">
+				Copyright © 2010 AdRoll.com. All rights reserved.
+			</div>
+			<div id="footer-links">
+				<a href="/">Home</a> | 
+				<a href="http://www.adroll.com/about">How AdRoll Works</a> | 
+				<a href="http://www.adroll.com/advertise/evaluation">Launch</a> |
+				<a href="http://www.adroll.com/company">About Us</a> | 
+				<a href="http://adroll.com/blog">Blog</a> | 
+				<a href="http://www.adroll.com/privacy">Privacy</a> |
+				<a href="http://www.adroll.com/account/terms">Terms</a> |
+				<a href="http://www.adroll.com/about/sitemap">Site Map</a> |
+				877-7-ADROLL
+			</div>
+		</div>
+        
+        
+        
+        
+			<script type="text/javascript">
+			var uservoiceOptions = {
+			  /* required */
+			  key: 'adroll',
+			  host: 'feedback.adroll.com', 
+			  forum: '218',
+			  showTab: true,  
+			  /* optional */
+			  alignment: 'left',
+			  background_color:'#1a79b5', 
+			  text_color: 'white',
+			  hover_color: '#1570b0',
+			  lang: 'en'
+			};
+			
+			function _loadUserVoice() {
+			  var s = document.createElement('script');
+			  s.setAttribute('type', 'text/javascript');
+			  s.setAttribute('src', ("https:" == document.location.protocol ? "https://" : "http://") + "cdn.uservoice.com/javascripts/widgets/tab.js");
+			  document.getElementsByTagName('head')[0].appendChild(s);
+			}
+			_loadSuper = window.onload;
+			window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
+			</script>
+		
+			<script type="text/javascript">
+			adroll_adv_id = "RZIKS6STTRGITOSVEGHYAC";
+			adroll_pix_id = "BSQ3LVPJNJDARPDS6RC7CJ";
+			(function () {
+			var oldonload = window.onload;
+			window.onload = function(){
+			   __adroll_loaded=true;
+			   var scr = document.createElement("script");
+			   var host = (("https:" == document.location.protocol) ? "https://c.adroll.com" : "http://c.adroll.com");
+			   scr.setAttribute('async', 'true');
+			   scr.type = "text/javascript";
+			   scr.src = host + "/j/roundtrip.js";
+			   document.documentElement.firstChild.appendChild(scr);
+			   if(oldonload){oldonload()}};
+			}());
+			</script>
+			
                 <div id="ClickTale" style="display: none;"></div>
                 <script src="http://s.clicktale.net/WRa.js" type="text/javascript"></script>
                 <script type="text/javascript">
@@ -181,6 +379,7 @@ San Francisco, CA 94108
                     if(typeof ClickTale=='function') ClickTale(13986,0.0257);
                     /*]]>*/
                 </script>
+			
             <script type="text/javascript">
                 /*<![CDATA[*/
                 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -189,12 +388,21 @@ San Francisco, CA 94108
             </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
             <script type="text/javascript">
                 /*<![CDATA[*/
+                try {
                 var pageTracker = _gat._getTracker("UA-3221223-1");
                 pageTracker._initData();
-                pageTracker._trackPageview();
-                __adrollPageTracker = pageTracker;
+				pageTracker._setDomainName(".adroll.com");
+					pageTracker._trackPageview();
+				__adrollPageTracker = pageTracker;
+				
+				
+				
+				
+                } catch(err) {}
                 /*]]>*/
             </script>
+		
+		
     
 
 </body></html>
