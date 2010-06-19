@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217234900id_/http%3A//www.magazine.org/privacy_policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619042331id_/http%3A//www.magazine.org/privacy_policy/index.aspx) for the most accurate reproduction.*
 
 # Magazine Publishers of America - Privacy Policy
 
