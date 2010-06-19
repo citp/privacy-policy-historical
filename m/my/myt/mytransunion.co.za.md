@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytransunion.co.za privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113001312id_/http%3A//mytransunion.co.za/Contents/PrivacyPolicy.htm%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D450%26width%3D800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytransunion.co.za privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619074527id_/http%3A//mytransunion.co.za/Contents/PrivacyPolicy.htm%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D450%26width%3D800) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -22,6 +22,15 @@ This Privacy Policy document outlines an overview of TransUnion and explains the
 Definitions
 
 In this privacy policy TransUnion makes use of the following terms:
+
+"Consumer Credit Information" means information concerning:
+
+  * a person’s credit history, including applications for credit, credit agreements to which the person is or has been a party, pattern of payment or default under any such credit agreements, debt re-arrangement in terms of this Act, incidence of enforcement actions with respect to any such credit agreement, the circumstances of termination of any such credit agreement, and related matters;
+  * a person’s financial history, including the person’s past and current income, assets and debts, and other matters within the scope of that person’s financial means, prospects and obligations, as defined in section and related matters; 
+  * a person’s education, employment, career, professional or business history, including the circumstances of termination of any employment, career, professional or business relationship, and related matters; or 
+  * a person’s identity, including the person’s name, date of birth, identity number, marital status and family relationships, past and current addresses and other contact details, and related matters. 
+
+
 
 "Personal information" means any information about an identifiable individual   
 "TransUnion" refers to TransUnion Credit Bureau South Africa 
@@ -112,7 +121,22 @@ TransUnion has adopted strict security measures to secure your personal informat
 
 Retention of your personal information
 
-TransUnion retains your personal information in our credit information database in accordance with the data retention periods prescribed by the NCA. Please refer to………………for further information on the various categories of Consumer Credit Information and the retention periods. 
+TransUnion retains your personal information in our credit information database in accordance with the data retention periods prescribed by the NCA. Please refer to the definition of “Consumer Credit Information”. Retention periods on the various categories of Consumer Credit Information include:
+
+  * Details and results of disputes lodged by consumers / 18 months
+  * Credit enquiries / 2 years
+  * Payment Profile / 5 years
+  * Adverse classifications of consumer behaviour (e.g. Default, Slow payer, Cheque account misconduct) / 1 years
+  * Adverse classifications of enforcement action (e.g. Handed over; Write-off; Repossession) / 2 years
+  * Debt Restructuring / Until a clearance certificate is issued
+  * Civil Court Judgments / The earlier of 5 years or until the judgment is rescinded by a court or abandoned by the credit provider.
+  * Administration Orders / The earlier of 10 years or until order is rescinded by a court
+  * Sequestrations / The earlier of 10 years or until rehabilitation order is granted
+  * Liquidations / Unlimited period
+  * Rehabilitation Orders / 5 years
+  * Other information e.g. Collections / 2 years
+
+
 
 Cookies
 
