@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincah.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201155637id_/http%3A//www.lincah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincah.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619205719id_/http%3A//www.lincah.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - New Car and Used Car Pictures on Lincah.Com
 
