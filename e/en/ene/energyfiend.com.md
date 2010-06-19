@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyfiend.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024331id_/http%3A//www.energyfiend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyfiend.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619083808id_/http%3A//www.energyfiend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,5 @@ Cookies.
 Email address is required when submitting a comment – but is never displayed.
 
 The WordPress Blog Software use browser cookies to keep track of which messages you have read, and other information about your session. Cookies are small pieces of text that are stored on your hard drive between visits. For example, a cookie is used to store your name and URL when you post comments so you don’t have to re-enter them each time you visit. These cookies do not collect, store or maintain any private, personally identifiable information. You do not have to accept these cookies to visit or use the site (although turning cookies off will impair the site’s functionality), and you can choose to refuse the cookies, delete the cookies from your hard drive or turn off cookies at any time by updating your user profile preferences.
-
-**If you like it, share it..**
 
 * * *
