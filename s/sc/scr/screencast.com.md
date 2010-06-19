@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506004845id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619130828id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# TechSmith | Screencast.com, online video sharing, Privacy Policy
 
 The following is the privacy policy for the www.Screencast.com website. In this policy, we describe what personal information we collect on our site, how we use it, and your options regarding information we may collect about you. If you have questions about this policy, please feel free to contact us at: 
 
@@ -8,7 +8,7 @@ The following is the privacy policy for the www.Screencast.com website. In this 
 2405 Woodlake Dr.  
 Okemos, MI 48864-5910 USA 
 
-**Tollfree:** 800.517.3001 (U.S. Only)  
+**Toll Free:** 800.517.3001 (U.S. Only)  
 **Voice:** +1.517.381.2300  
 **Fax:** +1.517.913.6121 
 
@@ -55,6 +55,8 @@ TechSmith understands that it is a privilege to have you as a customer and is co
   * Bind subcontractors with contractual, technical and organizational measures to protect your personal information.
 
 
+
+If you discover a vulnerability in a TechSmith product, email: [security@techsmith.com](mailto:security@techsmith.com). Please include a detailed summary of the issue including the name of the product (e.g., Screencast.com) and the nature of the issue you believe you've discovered. Be sure to include an email address where we can reach you in case we need more information. TechSmith will respond to your notification within a reasonable amount of time and will quickly work to fix the reported vulnerability. 
 
 ### DATA INTEGRITY
 
