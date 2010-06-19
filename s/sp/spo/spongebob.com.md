@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spongebob.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127062527id_/http%3A//spongebob.nick.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spongebob.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619233311id_/http%3A//spongebob.nick.com/help/privacy) for the most accurate reproduction.*
 
 # Help | SpongeBob.com
 
