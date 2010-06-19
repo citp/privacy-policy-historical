@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218060451id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619084859id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy | COSMOS magazine
 
@@ -56,3 +56,6 @@ Phone +61 2 9310 8500
 Fax +61 2 9698 4899 
 
 Email: [Privacy Officer at COSMOS magazine](mailto:privacy@cosmosmagazine.com)
+
+  
+
