@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weblog.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218170555id_/http%3A//www.weblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblog.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619233326id_/http%3A//weblog.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Weblog.com
+# Privacy Policy « Weblog.com – Get a Free Blog Here
 
 Weblog.com Media LLC (“ **Weblog** ”) operates [weblog.com](http://www.weblog.com/). It is Weblog’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
