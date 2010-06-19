@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nps.edu privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120150417id_/http%3A//www.nps.edu/Footer/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.edu privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619160212id_/http%3A//www.nps.edu/Footer/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Naval Postgraduate School - Privacy Policy
 
@@ -13,7 +13,3 @@
   5. Except for authorized law enforcement investigation and to maintain required correspondence files, no other attempts are made to identify individual users or their usage habits. Raw data logs are used to simply determine how many users are accessing the site, which pages are the most popular, and, from time to time, from which top level domain users are coming. This data is scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
 
 
-
-This is an official U.S. Navy website.   
-All information contained herein has been approved for release by the [NPS Public Affairs Officer](mailto:PAO@nps.edu).   
-Page Last Updated: Oct 26, 2009 4:10:28 PM | Contact the [Webmaster](mailto:webmaster@nps.edu)
