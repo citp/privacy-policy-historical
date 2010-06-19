@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansofrealitytv.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154503id_/http%3A//www.fansofrealitytv.com/forums/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansofrealitytv.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620012255id_/http%3A//www.fansofrealitytv.com/forums/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
