@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnads4u.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180521id_/http%3A//www.gnads4u.com/staticpages.html%3F_a%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnads4u.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619044943id_/http%3A//www.gnads4u.com/staticpages.html%3F_a%3Dprivacy) for the most accurate reproduction.*
 
 # GNAds4U.com - Privacy policy
 
@@ -6,7 +6,7 @@
 
 Join gnads4u.com NOW for FREE. You will be able to save your search queries and get free email alerts whenever new ads matching your requirements become available. 
 
-[ ](https://web.archive.org/web/20090616180521id_/http%3A//www.gnads4u.com/personal.html "go")
+[ ](https://web.archive.org/personal.html "go")
 
 ## 
 
@@ -27,6 +27,8 @@ The Owner may collect and retain information from registered users of the Site i
   * Information about product and service subscriptions, usage and preferences and use regarding the Site. 
 
 
+
+The Owner may also utilise the services of Nielsen Online to collect information, including the use of cookies and web-beacons, on the Site. Click here ([http://www.nielsen- netratings.com/privacy/sitecensus.htm](http://www.nielsen-netratings.com/privacy/sitecensus.htm)) to learn more information about how we use Nielsen Online’s service to collect and use information on the Site. 
 
 **Use of Information**  
 In order to provide complete functionality and ensure, to the extent possible, safe, secure transactions, the Site uses the Personal Information collected from registered users, amongst other things, to: 
