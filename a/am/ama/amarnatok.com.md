@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amarnatok.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217093125id_/http%3A//www.amarnatok.com/index.php%3Fpage%3DTOS_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarnatok.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619052537id_/http%3A//www.amarnatok.com/index.php%3Fpage%3DTOS_PrivacyPolicy) for the most accurate reproduction.*
 
-# AMARNATOK.COM - TOS & PRIVACY POLICY
+# AmarNatok.com - FREE Bangla Natoks, Drama Serials, Ittadi, Recipes! - AMARNATOK.COM - TERMS OF SERVICE & PRIVACY POLICY
 
   
 AMARNATOK.COM considers that respect of privacy on the Internet is of utmost importance. This statement presents the rules applied by AMARNATOK.COM for the collection and dissemination of personal information given by users on the site. They apply to all "AMARNATOK.COM Sites", i.e. all sites and pages within the "AMARNATOK.COM” domain.
@@ -63,7 +63,7 @@ AMARNATOK.COM is not responsible for the content or accuracy of the Information 
 
 AMARNATOK.COM reserves the right to terminate or suspend access to the Site at any time and without prior warning.Hypertext LinksAMARNATOK.COM is not responsible for the content or accuracy of the Information to other sites accessible on the Site, nor is responsible for the existence of a link to this Site on other sites.
 
-A nominal reference to one of these sites or to a service or product does not presume the agreement of AMARNATOK.COM for the content or accuracy. The user assumes all risks associated with its use.GuarantiesThe Information contained in this Site can in no way have a contractual and / or official value.
+A nominal reference to one of these sites or to a service or product does not presume the agreement of AMARNATOK.COM for the content or accuracy. The user assumes all risks associated with its use.GuaranteesThe Information contained in this Site can in no way have a contractual and / or official value.
 
 Accordingly, you agree to use the Information at your own risk. You assume all the costs of any service, repair, or correction needed.
 
