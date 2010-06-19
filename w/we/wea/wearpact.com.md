@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219102159id_/http%3A//wearpact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619083136id_/http%3A//www.wearpact.com/privacy) for the most accurate reproduction.*
 
 # PACT Organic Underwear: Privacy Policy
 
