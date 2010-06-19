@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mybangalore.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033121id_/http%3A//mybangalore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybangalore.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619123451id_/http%3A//mybangalore.com/privacy) for the most accurate reproduction.*
 
-# My Bangalore privacy policy
+# Mybangalore.com Privacy Policy
 
 We are committed in respecting the privacy of every person who visits our website (the " **Site** "). In the course of using the Site, we may become privy to your personal information, including information that is of a confidential nature. Your privacy is important to us and we strive to take reasonable care and protection of the information we receive from you. 
 
@@ -58,7 +58,7 @@ To the extent that you provide us with Your Personal Information, we wish to mai
 
 We will address any questions, comments and concerns about our online privacy practice and policy. Please write to us at [feedback@mybangalore.com](mailto:feedback@mybangalore.com) Dispute Resolution
 
-If you believe that Yelp has not adhered to this Privacy Policy you may write to the Yelp Privacy Office at the following address: Double Spring Media India (P) Ltd.
+Double Spring Media India (P) Ltd.
 
 # 15/1 Robertson Road  
 Fraser Town, Bangalore-560 005  
