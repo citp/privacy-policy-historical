@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the felixfilms.net privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806030731id_/http%3A//www.felixfilms.net/default/off/page/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the felixfilms.net privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619142535id_/http%3A//www.felixfilms.net/default/off/page/Privacy.html) for the most accurate reproduction.*
 
 # Felix Films Ltd - Privacy
 
@@ -9,9 +9,11 @@
 Products  
 [Books](https://web.archive.org/default/on/category/Books)  
 [Felix Films DVDs](https://web.archive.org/default/on/category/Felix_Films_DVDs)  
+[Football DVDs](https://web.archive.org/default/on/category/Football_DVDs)  
 [Ghost Tour DVDs](https://web.archive.org/default/on/category/Ghost_Tour_DVDs)  
 [Past In Pictures](https://web.archive.org/default/on/category/Past_In_Pictures)  
-[Site Map](https://web.archive.org/default/off/page/Site_Map.html) (101)  
+[Staffordshire Films](https://web.archive.org/default/on/category/Staffordshire_Films)  
+[Site Map](https://web.archive.org/default/off/page/Site_Map.html) (160)  
 
 
 |    
@@ -20,9 +22,9 @@ Products
   | 
 
 Customer Accounts  
-[Customer Login](http://www.felixfilms.net/ingenii.cgi?session_login=yes&secure=yes&cart_id=U84sU3.a7925)   
-[Lost Password](http://www.felixfilms.net/ingenii.cgi?lost_password=yes&secure=yes&cart_id=U84sU3.a7925)   
-[Create an Account](http://www.felixfilms.net/ingenii.cgi?customer_register=yes&secure=yes&cart_id=U84sU3.a7925)   
+[Customer Login](http://www.felixfilms.net/ingenii.cgi?session_login=yes&secure=yes&cart_id=iG1vLf.a7925)   
+[Lost Password](http://www.felixfilms.net/ingenii.cgi?lost_password=yes&secure=yes&cart_id=iG1vLf.a7925)   
+[Create an Account](http://www.felixfilms.net/ingenii.cgi?customer_register=yes&secure=yes&cart_id=iG1vLf.a7925)   
 [Benefits of Registering](https://web.archive.org/ingenii.cgi?page=Benefits_of_Registering.html)
 
 |    
@@ -33,8 +35,8 @@ Customer Accounts
 We Recommend
 
 [  
- **Most Haunted Places in Britain**  
-£ 9.99](https://web.archive.org/more/on/details/0045)
+ **Stoke on film 1950's**  
+£ 9.99](https://web.archive.org/more/on/details/0115)
 
 |    
 |  |   
