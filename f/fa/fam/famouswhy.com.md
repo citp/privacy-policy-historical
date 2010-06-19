@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famouswhy.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192849id_/http%3A//www.famouswhy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famouswhy.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620003715id_/http%3A//www.famouswhy.com/privacy_policy) for the most accurate reproduction.*
 
 # FamousWhy: Privacy Policy
 
