@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanican.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215153353id_/http%3A//www.japanican.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanican.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620005635id_/http%3A//www.japanican.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - JAPANiCAN
 
@@ -8,11 +8,12 @@ Based on this philosophy, our fundamental policy is to use our solution know-how
 
 In order to realize this philosophy and fundamental policy, we see the reliable protection of personal information of our customers and others who have business with our company as indispensable, and have enacted the following to this end.
 
-1. | A personal information management system based on the JIS Q 15001 Standard was created, and strict adherence by management and all employees is ensured.  
+1. | A personal information management system based on the JIS Q 15001 Standard was created, and strict adherence by management and all employees is ensured.   
 ---|---  
 2. | The legal and fair collection, use for specific purposes, and supply of personal information is conducted following the personal information management system above and only for work-related purposes.  
 3. | Organizational, technical, and reasonable preventive and corrective measures have been taken to mitigate the risk of illegal access, loss, destruction, or leaking of all personal information handled by the company.  
 4. | Methods of appropriately and quickly handling any complaints or questions from individuals concerning their own personal information will be considered.  
+5. | All laws, guidelines, social norms, and public standards regarding personal information will be strictly followed.   
 6. | The personal information management system will be regularly audited and continuously improved.  
   
 February 27, 2007 (Established)   
@@ -23,7 +24,7 @@ Fukagawa Saburo, President & CEO
 Personal Information Section   
 Phone Number: 03-5796-5400 
 
-How We Handle Personal Information
+Personal Information Usage Guidelines
 
 In accordance with the Personal Information Protection Act and JTB Global Marketing & Travel Personal Information Protection Policy, JTB Global Marketing & Travel (below, JTB GMT) handles and works to protect the personal information of customers as follows. 
 
@@ -33,36 +34,56 @@ JTB GMT keeps a portion of personal information provided by customers in travel 
 
 2\. Reasons for Use of Customer Personal Information
 
-JTB GMT and its designated travel businesses (branches) will use personal information provided in travel purchase forms to contact customers, as well as when necessary in the performance of our travel and other services as requested by the customer, including the arrangement of transportation and accommodations (as listed in the agreement).  
+JTB GMT and its designated travel businesses (branches) will use personal information provided in travel purchase forms to contact customers, as well as when necessary in the performance of our travel and other services as requested by the customer, including the arrangement of transportation and accommodations (as listed in the agreement).
+
 *In addition, JTB GMT will use customer personal information…
 
-･ | To provide information on products, services, and campaigns offered by JTB GMT and related companies  
+･ | To respond to inquiries  
 ---|---  
+･ | To process credit card payments for products or services  
+･ | To provide information on products, services, and campaigns offered by JTBGMT and related companies  
 ･ | To request opinions and impressions after participating in travel  
 ･ | To request participation in questionnaires  
 ･ | To offer special services  
 ･ | To create statistical data  
   
-3\. Sensitive Information
+3\. Handling of Personal Information Related to Credit Cards Used for Internet Purchases
+
+JTB Global Marketing & Travel Inc. will use the personal information of customers related to credit cards used to pay for products or services over the internet.  
+**Name of Collector of Credit Card Data**  
+JTB Global Marketing & Travel Inc.   
+**Outside Consignment of Payment Processing**  
+JTB Global Marketing & Travel consigns all operations necessary to process payments for products or services purchased via the internet by credit card to outside companies.   
+**Consignment Company**  
+i.JTB Corp.  
+**Retention Period**  
+The personal information related to credit card data is saved for 13 months after which it is erased. 
+
+4\. Sensitive Information
 
 JTB GMT does not collect, use or provide information to third parties on political opinions, faith (religion, philosophy, or creed), race or ethnicity, lineage or place of birth, medical treatment or sexual history, or criminal history, except where permitted by law. Also, when sensitive information is collected, used, or provided to a third party, JTB GMT takes special care in its handling so as not to collect, use, or provide information in a way that is not in accordance with the law. 
 
-4\. Providing Customer Personal Information to Third Parties
+5\. Providing Customer Personal Information to Third Parties
 
 ･ JTB GMT will provide in electronic form a customer’s name, gender, age, address, phone number, e-mail address, passport number, and credit card number to transportation, accommodation, and insurance companies as necessary to arrange and provide purchased travel services, or as necessary to fulfill travel agreements or complete insurance formalities to securitize costs when accidents occur.
 
 ･ JTB GMT may provide customer personal information in our possession to souvenir stores to facilitate shopping by customers at their destination. In such cases, the customer’s name, passport number and flight number will be provided electronically. If you do not wish for your information to be provided to these businesses, please inform the branch where you purchased the travel before departure. 
 
-5\. Collection and Use of Customer Personal Information
+6\. Consignment of Customer Personal Information
+
+JTB GMT may consign personal information to complete formalities for traveling abroad as well as perform procedures necessary to provide requested travel and other services. When consigning the information, JTB GMT will choose a consignee using company standards, enter into a contract with the consignee for protecting personal information, and audit their practices to ensure the proper handling of personal information. 
+
+7\. Collection and Use of Customer Personal Information
 
 JTB GMT handles the collection and use of customer personal information as follows: 
 
-･ | Customers are presented with a clearly worded policy on the purpose of collection and types of use in pamphlets and travel request forms, and permission for use and collection is sought.  
+(1) | Customers are presented with a clearly worded policy on the purpose of collection and types of use in pamphlets and travel request forms, and permission for use and collection is sought.  
 ---|---  
-･ | If the customer does not agree, information is only collected, not used.  
-･ | When the information is provided to data storage companies or third parties, customers will be notified, and permission will be sought.  
-･ | When the customer is a minor, the permission of the customer’s parent or guardian will be sought.  
-･ | In order to simplify customer purchases in the future, JTB GMT and members of the JTB Group listed below may share information, but in these cases, the information will be strictly managed and stored.  
+(2) | If the customer does not agree, information is only collected, not used.  
+(3) | When the information is provided to data storage companies or third parties, customers will be notified, and permission will be sought.  
+(4) | When the customer is a minor, the permission of the customer’s parent or guardian will be sought.  
+(5) | Though customers are free to choose whether or not to provide any or all types of personal information when requesting travel services or information, there are instances where JTB GMT will not be able to contact the customer or complete procedures necessary to provide the requested services when some or all information is not provided, and thus will not be able to accept the requests for services from the customer.  
+(6) | In order to simplify customer purchases in the future, JTB GMT and members of the JTB Group listed below may share information, but in these cases, the information will be strictly managed and stored.  
   
   
 
@@ -84,7 +105,7 @@ JTB GMT handles the collection and use of customer personal information as follo
 ♦ | JTB Business Innovators Corp.  
 ♦ | JTB Traveland Corp.  
   
-6\. Joint Use of Customer Personal Information
+8\. Joint Use of Customer Personal Information
 
 Among the customer personal information that it has acquired, JTB GMT will jointly use names, phone numbers, and e-mail addresses with the group companies below at the minimum extent necessary to contact customers. The group companies will use this information for their own sales activities, simplification of customer orders, sending information on products, and sending purchased products. 
 
@@ -119,9 +140,13 @@ JTB Trading, Inc. |  2-43-20 Minami Ikebukuro Toshima-ku, Tokyo
 JBankersPartner, Inc. |  Tokyo Ginko Kyokai Building, 16th Fl 1-3-1 Marunouchi Chiyoda-ku, Tokyo  
 JTB Global Assistance, Inc. |  2-1-5 Iwamoto-cho Chiyoda-ku, Tokyo  
   
-7\. Inquiries, Release, Deletion, and Correction of Customer Personal Information
+9\. Cookies
 
-nyone who requests that we disclose, delete or destroy, change, stop the use, or stop sharing with third parties their individual customer personal information in our possession will be provided with the necessary steps to do so by contacting the departments listed below. When requested, we will take all necessary measures as set by laws and company regulations without delay.  
+The JTB GMT website uses “cookies” to provide better service and ensure security. Cookies are data files that are stored by websites on customer computers and can be read when the customer visits the site at a later date. Individual cookies can only be read by the website that created them. JTB GMT uses cookies for many website management purposes. For instance, to record the types of information requested by customers and to use that information to automatically fill in fields when the customer visits the site. Most cookies are used only for a single session or visit to the site. They do not contain any information that would allow anybody to contact the customer such as phone numbers, e-mail addresses, or mail addresses. Customers can set their browser to inform them of the placement of cookies or to not permit the placement of any cookies. 
+
+10\. Inquiries, Release, Deletion, and Correction of Customer Personal Information
+
+Anyone who requests that we disclose, delete or destroy, change, stop the use, or stop sharing with third parties their individual customer personal information in our possession will be provided with the necessary steps to do so by contacting the departments listed below. When requested, we will take all necessary measures as set by laws and company regulations without delay.  
 If we are unable to comply with all or part of your request, we will provide an explanation.
 
 Please contact the departments below for any issues concerning personal information.
@@ -132,12 +157,12 @@ JTB Global Marketing & Travel, Inc., Administration Department
 Address: 2-3-11 Highashi-Shinagawa, Shinagawa-ku, Tokyo  
 Hours: 9:30-18:00 (Weekdays)  
 Phone: 03-5796-5400 (Not open Saturdays, Sundays, holidays, or 12/30-1/3)  
-※The paperwork necessary for disclose and deletion of information can also be obtained from the branches of companies listed in “5. Collection and Use of Customer Personal Information”, but requests must be mailed to the department listed above.
+※The paperwork necessary for disclose and deletion of information can also be obtained from the branches of companies listed in “5. Collection and Use of Customer Personal Information”, but requests must be mailed to the department listed above. 
 
 (2) Requests for Corrections, Stop of Usage, and Stop Sharing with Third Parties  
 Please contact the branch at which you purchased your trip.  
 (Contact information is located on the copy of your application and on the contract.) 
 
-8\. In Circumstances When Personal Information is Leaked
+11\. In Circumstances When Personal Information is Leaked
 
 If for some reason JTB GMT personal information is disclosed, we will contact the customer immediately. If necessary, we will temporarily shout down our system to maintain security, or we may promptly announce facts about the situation publicly on our homepage.
