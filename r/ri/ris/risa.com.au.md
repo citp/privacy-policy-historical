@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the risa.com.au privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219213956id_/http%3A//www.risa.com.au/termsofuse/Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risa.com.au privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619230846id_/http%3A//www.risa.com.au/termsofuse/Policy.asp) for the most accurate reproduction.*
 
 # Racing Information Services Australia
 
