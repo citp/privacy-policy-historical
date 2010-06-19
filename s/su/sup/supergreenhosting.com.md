@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supergreenhosting.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217142641id_/http%3A//www.supergreenhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supergreenhosting.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619195345id_/http%3A//www.supergreenhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Super Green Hosting
 
