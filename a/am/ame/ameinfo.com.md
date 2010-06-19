@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231145542id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619081013id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | AMEinfo.com
 
