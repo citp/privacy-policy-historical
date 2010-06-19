@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssireview.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218113129id_/http%3A//www.ssireview.org/general/324) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssireview.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619041434id_/http%3A//www.ssireview.org/general/324) for the most accurate reproduction.*
 
 # Stanford Social Innovation Review : Privacy Policy
 
