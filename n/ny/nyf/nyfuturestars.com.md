@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nyfuturestars.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219013719id_/http%3A//www.nyfuturestars.com/community/viewtopic.php%3Fp%3D309541) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfuturestars.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620173911id_/http%3A//www.nyfuturestars.com/community/viewtopic.php%3Fp%3D309541) for the most accurate reproduction.*
 
-# View topic - NYFS Privacy Policy ny mets message boards forums mets minor league baseball discussion group
+# NYFS ny mets message boards • View topic - NYFS Privacy Policy
 
-[NYFS](http://www.nyfuturestars.com/) Privacy Policy:
+**[NYFS](http://www.nyfuturestars.com/) Privacy Policy:**
 
 This [NYFS](http://www.nyfuturestars.com/) Privacy Policy describes the privacy practices that apply to [NYFS](http://www.nyfuturestars.com/)'s products, services and websites collectively, [NYFS](http://www.nyfuturestars.com/)'s "services". 
 
@@ -18,8 +18,4 @@ We may use personal information to provide the services you've requested, includ
 
 We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
 
-You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.  
-_________________  
-PLEASE Take a moment today to install the NYFS/Alexa Toolbar. No advertising or spyware. It anonymously tracks your web usage of NYFS so we can demonstrate our audience to sponsors thru a third party and keep paying the bills. The Alexa bar supports Firefox browsers so everyone can help. It takes 30 seconds, and is a HUGE help to NYFS. 
-
-[Click Here To Install The NYFS Toolbar](http://download.alexa.com/?amzn_id=002-7585541-7511218)
+You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.
