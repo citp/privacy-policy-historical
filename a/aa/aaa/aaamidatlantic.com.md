@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219131827id_/http%3A//www.aaamidatlantic.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaamidatlantic.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620185116id_/http%3A//www.aaamidatlantic.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AAA - AAA Mid-Atlantic
 
@@ -58,7 +58,7 @@ Return to Top
 
 ## Linking From AAA.com to Other Websites
 
-Please remember that when you use a link to go away from the AAA Mid-Atlantic or AAA World web site,,our privacy policy is no longer in effect. Your browsing, use or disclosure of your email address and other personal information, and interaction on any other website, including sites to which you can link from our site, are subject to the terms, conditions, and privacy policies of those sites. Please read those privacy policies carefully before proceeding.
+Please remember that when you use a link to go away from the AAA Mid-Atlantic or AAA World web site, our privacy policy is no longer in effect. Your browsing, use or disclosure of your email address and other personal information, and interaction on any other website, including sites to which you can link from our site, are subject to the terms, conditions, and privacy policies of those sites. Please read those privacy policies carefully before proceeding.
 
 ## Our use of cookies online
 
@@ -77,6 +77,6 @@ We permit other approved companies to use a cookie when you visit our Web site t
 Once you visit or link to a partner's Web site, their sites may use cookies. We do not control those cookies and they are not subject or our cookies policy. 
 
 **What to do if you do not want cookies used:**  
-If you do not want cookies used in connection with your visit, or if you wish to limit their use, you can generally adjust your browser settings on your computer. Most internet browsers allow you to set your own preferences for use of cookies. Please see the cookie security options in your browser and change them to suit your preferences. For example, you typically can either refuse to accept cookies or you can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, if you decline cookies, you may have difficulty navigating our Web site, which could adversely impact your AAA on-line experience.
+If you do not want cookies used in connection with your visit, or if you wish to limit their use, you can generally adjust your browser settings on your computer. Most Internet browsers allow you to set your own preferences for use of cookies. Please see the cookie security options in your browser and change them to suit your preferences. For example, you typically can either refuse to accept cookies or you can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, if you decline cookies, you may have difficulty navigating our Web site, which could adversely impact your AAA on-line experience.
 
 Return to Top
