@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207140853id_/http%3A//www.ciol.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620191007id_/http%3A//www.ciol.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
-# 
+# CIOL Privacy Policy
 
-**Privacy Statement for CyberMedia India Online Limited**
+## Privacy Statement for CyberMedia India Online Limited
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at ciol.com. Please read this privacy policy before using the site or submitting any personal information. By using ciol.com, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit ciol.com to make sure that you understand how any personal information you provide will be used.
 
@@ -19,7 +19,7 @@ CIOL.com sometimes may offer content (e.g., contests, promotions) that is sponso
 There are known methods that spammers can use to hide their identity by using other people's email address to send out emails. If you have any question about the genuineness of an email you receive that appears to be from CIOL, contact us at [webmasterciol@cybermedia.co.in](mailto:webmasterciol@cybermedia.co.in) and do not furnish personal information in response to that email. 
 
 **  Cookie Technology**  
-      The Site may use cookie and tracking technology depending on the features offered. CIOL’s usage of cookie is very rare except when you opt for “Remember me ID on this computer”. Personal information cannot be collected via cookies, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+      The Site may use cookie and tracking technology depending on the features offered. CIOL’s usage of cookie is very rare except when you opt for “Remember my ID on this computer”. Personal information cannot be collected via cookies, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
 **  Distribution of Information**  
       We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
@@ -41,4 +41,5 @@ Click here for details on [**terms and conditions.**](https://web.archive.org/ab
     Bangalore 560 042, India.  
 **By e-mail:**[webmasterciol@cybermedia.co.in](mailto:webmasterciol@cybermedia.co.in)
 
-                We reserve the right to make changes to this policy. Any changes to this policy will be posted. The Privacy Notice posted on this site was updated on or about July27, 2007
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.  
+The Privacy Notice posted on this site was updated on or about July27, 2007
