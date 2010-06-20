@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sixent.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191933id_/http%3A//sixent.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixent.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620201114id_/http%3A//sixent.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Ramius Corporation
+# SIXENT PRIVACY POLICY
 
-## Our Statement on Privacy and Security of Information
-
-Ramius Corporation ("Ramius"), the developer and operator of Sixent.com, is absolutely committed to protecting the privacy of our users' personal information. The following statement explains our information gathering and dissemination practices.
+Ramius Corporation ("Ramius"), the developer and operator of Sixent, is absolutely committed to protecting the privacy of our users' personal information. The following statement explains our information gathering and dissemination practices.
 
 ## Information Collected
 
-When you register with Sixent, our registration form requires you to disclose your first and last names, email address, and date of birth ("registration data"). You also have the option to disclose in one or multiple personal profiles your address, phone number, gender, and other optional profile information not required to register. As part of your registration, you will be asked to select a user name and password for use at Sixent. Please keep your password confidential at all times. If you believe that the security of your password has been compromised, please contact Ramius immediately.
+When you register with Sixent, or enter via a Single Sign On process, Sixent requires a minimum disclosure of your first name, last name and email address. Some organizations may also require you to disclose your date of birth and gender. Collectively this is all referred to as "registration data". You also have the option to disclose in one or multiple personal profiles your address, phone number, gender, and other optional profile information not required to register. As part of your registration, you will be asked to select a user name and password for use at Sixent. Please keep your password confidential at all times. If you believe that the security of your password has been compromised, please contact Ramius immediately.
+
+Ramius does not monitor your communications on Sixent, but may, in its discretion, do so if it believes that such action is necessary to protect and defend the rights or property of Ramius or others, or to protect the personal safety of other Users or the public, or to address any contravention of the Terms of Service which governs your use of this service.
 
 ## Use of Information
 
@@ -59,8 +59,8 @@ If we should change the Sixent privacy policy, we will post those changes promin
 Should you have any questions or comments regarding this Sixent privacy policy, or the practices of this website, you may contact us [here](http://help.sixent.com/index.php?departmentid=4&&_m=tickets&_a=submit&step=1), or write to us here:
 
 Ramius Corporation  
-Suite 530, 55 Metcalfe Street  
-Ottawa, ON K1P 6L5  
+Suite 480, 47 Clarence Street  
+Ottawa, ON K1N 9K1  
 Canada 
 
 ## Legal Disclaimer
