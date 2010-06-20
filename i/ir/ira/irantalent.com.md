@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irantalent.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220022355id_/http%3A//www.irantalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irantalent.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620211635id_/http%3A//www.irantalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
 
 # IranTalent.com Privacy Policy
 
