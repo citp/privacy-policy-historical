@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208034550id_/http%3A//www.cartoonnetworkindia.com/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkindia.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620151229id_/http%3A//www.cartoonnetworkindia.com/parents/privacy.php) for the most accurate reproduction.*
 
 # Cartoon Network India - free online games & videos
 
