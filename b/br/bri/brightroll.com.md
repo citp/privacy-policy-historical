@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightroll.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805053137id_/http%3A//www.brightroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightroll.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620093629id_/http%3A//www.brightroll.com/privacy) for the most accurate reproduction.*
 
 # BrightRoll - The Largest Video Advertising Network
 
@@ -16,7 +16,7 @@ To date, on our wholly owned properties we do not ask for personally identifiabl
 
 **Other Information that is Collected**
 
-At some BrightRoll properties, including this one, BrightRoll collects personal information on individuals and companies who want to enter into business relationships with BrightRoll (”business information”). An example of this would include web publishers who want to become a part of BrightRoll’s web network. We maintain business information for purposes of administering the program, such as maintaining account information, sending payments, etc. We may share business information with third parties who provide administrative services (and they are required to maintain the confidentiality of the information), as well as pursuant to a court order or to law enforcement or government officials as we deem necessary or appropriate.
+At some BrightRoll properties, including this one, BrightRoll collects personal information on individuals and companies who want to enter into business relationships with BrightRoll (“business information”). An example of this would include web publishers who want to become a part of BrightRoll’s web network. We maintain business information for purposes of administering the program, such as maintaining account information, sending payments, etc. We may share business information with third parties who provide administrative services (and they are required to maintain the confidentiality of the information), as well as pursuant to a court order or to law enforcement or government officials as we deem necessary or appropriate.
 
 **How Is Such Information Used?**
 
