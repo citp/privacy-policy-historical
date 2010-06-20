@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coupondad.net privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609152918id_/http%3A//www.coupondad.net/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondad.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620075604id_/http%3A//www.coupondad.net/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy @ CouponDad.net
+# Coupon Dad's Privacy Policy
 
 **PRIVACY POLICY**
 
