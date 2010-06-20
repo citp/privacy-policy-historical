@@ -1,7 +1,7 @@
-> *The following text is extracted and transformed from the insearchoftheworldsmostbeautifulwoman.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527102443id_/http%3A//www.insearchoftheworldsmostbeautifulwoman.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insearchoftheworldsmostbeautifulwoman.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620172810id_/http%3A//www.insearchoftheworldsmostbeautifulwoman.com/privacy.php) for the most accurate reproduction.*
 
 # Online Beauty Pageant - Privacy Policy
 
-We respect your right to personal privacy and want to assure you that the information collected during the sign up process for Contestants and Judges will remain strictly confidential, will not be made publicly available, sold or given away.
+We respect your right to personal privacy. We want to assure you that the information collected during the sign up process for Contestants and Judges will remain strictly confidential, will not be made publicly available, sold or given away.
 
-We take your privacy very seriously. Your information will not be abused in any way, and is only used to prevent persons from creating multiple accounts. Creating multiple accounts is strictly prohibited and is grounds for immediate termination of all accounts and permanent ban from the site. Please read the [ Terms of Use ](http://www.insearchoftheworldsmostbeautifulwoman.com/terms_of_use.php).
+We take your privacy very seriously. Your information will not be abused in any way, and is only used to prevent persons from creating multiple accounts. Creating multiple accounts is strictly prohibited and is grounds for immediate termination of all accounts, and permanent ban from the site. Please read the [ Terms of Use ](http://www.insearchoftheworldsmostbeautifulwoman.com/terms_of_use.php).
