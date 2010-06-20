@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235917id_/http%3A//www.elc.co.uk/Popup.php%3Fpage_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621011750id_/http%3A//www.elc.co.uk/Popup.php%3Fpage_id%3D6) for the most accurate reproduction.*
 
 # Privacy Policy - Early Learning Centre
 
