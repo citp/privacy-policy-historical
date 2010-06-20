@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kold.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219135403id_/http%3A//www.kold.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kold.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620194440id_/http%3A//www.kold.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
-# Privacy Policy - KOLD News 13 live, local and late breaking-
+# Privacy Policy - KOLD News 13
 
 **This Website's Privacy Policy**
 
