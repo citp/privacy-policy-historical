@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmynd.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214231419id_/http%3A//www.webmynd.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmynd.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620095216id_/http%3A//webmynd.com/html/privacy.html) for the most accurate reproduction.*
 
 # WebMynd · A better way to search
 
