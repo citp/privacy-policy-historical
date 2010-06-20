@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the century21.com privacy policy that was archived on 2009-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221093326id_/http%3A//www.century21.com/legal/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the century21.com privacy policy that was archived on 2010-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620103117id_/http%3A//www.century21.com/legal/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
@@ -26,7 +26,10 @@
 
     
     
-        <!-- page --><title>Privacy Policy | CENTURY 21</title>
+        
+            <!-- page --><title>Privacy Policy | CENTURY 21</title>
+            <!-- page --><meta name="title" content="Privacy Policy | CENTURY 21">
+        
         
         
     
@@ -39,6 +42,13 @@
         
         
         <!--default--><meta name="description" content="get to know our new real estate search tools. Click, draw and type your way to a new home.">
+    
+    
+        
+        
+        
+            <!-- default --><link rel="image_src" href="http://century21.com/aboutus/images/c21_logo_white_back.jpg">
+        
     
 
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -343,7 +353,7 @@ Parsippany, New Jersey 07054
           Call us 866-732-6139
       <br>
       
-      © 2009 Century 21 Real Estate LLC, A Realogy Company.  All rights reserved.  Each CENTURY 21 Office Is Independently Owned And Operated.
+      © 2010 Century 21 Real Estate LLC, A Realogy Company.  All rights reserved.  Each CENTURY 21 Office Is Independently Owned And Operated.
       <br>
       
       
@@ -425,6 +435,39 @@ Parsippany, New Jersey 07054
          <div class="br"></div>
       </div>
 </div>
+
+
+
+<div id="c21videopopup" class="whitepopup hide" style="width:732px;height:480px">
+    <table class="topsection" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td class="tl"></td>
+            <td class="tm">&nbsp;</td>
+            <td class="tr" onclick="document.getElementById('c21videoframe').src='';return HideC21VideoPopup();"></td>
+        </tr>
+    </tbody></table>
+    <table class="bottomsection" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td class="bl"></td>
+            <td class="bm">&nbsp;</td>
+            <td class="br"></td>
+        </tr>
+    </tbody></table>
+    <div class="leftsection"></div>
+    <div id="vcontainer" class="pcontainer" style="width:640px;height:480px">
+        <div id="award_header" class="hide" style="width:100%;overflow:hidden;height:63px;">
+            <img id="award_label" src="" style="float:right;">
+            <img src="/flash/ceohome/logo.jpg">
+        </div>
+        <div id="c21videocontainer">
+            <iframe id="c21videoframe" src="" height="370" ,="" width="640" style="margin:0px auto;background-color:#fff;"></iframe>
+        </div>
+        <div id="c21videodescription">
+        </div>
+    </div>
+    <div class="rightsection"></div>
+</div>
+  
 <!-- myc21 helper popup -->
 <div id="myc21popup" style="position:absolute;display:none;top:0;left:0;z-index:50000">
    <div id="myc21outer" class="calloutblack" style="width:255px;height:240px;margin-right: 20px;">
@@ -442,38 +485,42 @@ Parsippany, New Jersey 07054
 <!-- end myc21 helper popup -->
 
 
-<!-- add item display popup -->
+<!-- add saved item display popup -->
+<script type="text/javascript" src="/js/calendar.js"></script>
 <div id="myc21addpopup" style="position:absolute;display:none;top:0;left:0;z-index:50000">
-   <div class="calloutblack" style="width:205px;height:177px;margin-right: 20px;">
-      <div style="position: absolute;top:10px;right:-10px;z-index:51000;"><a href="#" onclick="return HidePopup('myc21addpopup');"><img src="/images/close.gif" border="0"></a></div>
-      <div class="body" style="border-top:2px solid white;color:white;">
-         <div style="height:148px;padding-left:6px;margin-right:5px;">
-            <form>
-				   <input type="hidden" id="myc21addparms">
-				   <input type="hidden" id="myc21addimgid">
-				   Nickname: (10 char. max)<br> 
-				   <input type="text" class="contactform" id="myc21addnickname" value="" style="width: 177px;" onkeypress="return callFunctionOnEnter(event, doMyC21AddItem);"><br>
-				   Add a note to this item? (optional)<br>
-				   <textarea id="myc21addnotes" class="contactform" style="width: 177px;" onkeypress="return callFunctionOnEnter(event, doMyC21AddItem);"></textarea>
-				   <span id="myc21adderror" class="errormessage"></span>
-				   <div id="myc21addload" class="hide">Loading...</div>
-				   <div id="myc21addsaved" class="hide">Item Saved</div>
-				   <div id="myc21addsubmit"><a href="#" onclick="return doMyC21AddItem();"><img src="/images/submit.gif" alt=""></a></div>
-            </form>
-         </div>
-      </div>
-      <div class="bl"></div>
-      <div class="bm"></div>
-      <div class="br"></div>
-   </div>
+	<div id="additempopupcallout" class="calloutblack" style="width:205px;height:177px;margin-right: 20px;">
+		<div style="position: absolute;top:10px;right:-10px;z-index:51000;"><a href="#" onclick="return HidePopup('myc21addpopup');"><img src="/images/close.gif" border="0"></a></div>
+			<div class="body" style="border-top:2px solid white;color:white;">
+				<div style="height:148px;padding-left:6px;margin-right:5px;">
+					<form>
+						<input type="hidden" id="myc21addparms">
+						<input type="hidden" id="myc21addimgid">
+						Nickname: (10 char. max)<br> 
+						<input type="text" class="contactform" id="myc21addnickname" value="" style="width: 177px;" onkeypress="return callFunctionOnEnter(event, doMyC21AddItem);"><br>
+						Add a note to this item? (optional)<br>
+						<textarea id="myc21addnotes" class="contactform" style="width: 177px;" onkeypress="return callFunctionOnEnter(event, doMyC21AddItem);"></textarea>
+						<div id="additemadditional"></div>
+						<span id="myc21adderror" class="errormessage"></span>
+						<div id="myc21addload" class="hide">Loading...</div>
+						<div id="myc21addsaved" class="hide">Item Saved</div>
+						<div id="myc21addsubmit">
+							<a href="#" onclick="return doMyC21AddItem()">
+								<img src="/images/submit.gif" alt="">
+							</a>
+						</div>
+					</form>
+				</div>
+			</div>
+		<div class="bl"></div>
+		<div class="bm"></div>
+		<div class="br"></div>
+	</div>
 </div>
-<!-- end add item display popup -->
-
-
+<!-- end add saved item display popup -->
 <!-- login display popup -->
 <div id="mortgagepopup" style="position:absolute;display:none;top:0;left:0;z-index:50000">
    <div class="calloutblack" style="width:235px;height:177px;margin-right: 20px;">
-      <div style="position: absolute;top:10px;right:-10px;z-index:51000;"><a href="#" onclick="return HidePopup('mortgagepopup');"><img src="/images/close.gif" border="0"></a></div>
+      <div style="position: absolute;top:10px;right:-10px;z-index:51000;"><a class="preview_ok" href="#" onclick="return HidePopup('mortgagepopup');"><img src="/images/close.gif" border="0"></a></div>
       <div class="body" style="border-top:2px solid white;color:white;">
          <div style="height:148px;padding-left:16px;margin-right:5px;">
             <h3>Monthly Payment Calculator</h3>
@@ -482,7 +529,7 @@ Parsippany, New Jersey 07054
 	    <tr><td> Interest Rate: </td><td> <input type="text" class="contactform" style="width: 40px;" id="mortgagerate" value="6.75"> %</td></tr>
 	    <tr><td> Mortgage Term: </td><td> <input type="text" class="contactform" style="width: 40px;" id="mortgageterm" value="30"> years</td>
 	    </tr></tbody></table>
-	    <div id="mortgagesubmit"><a href="#" onclick="return doMortgageRecalculation();"><img src="/images/submit.gif" alt=""></a></div>
+	    <div id="mortgagesubmit"><a class="preview_ok" href="#" onclick="return doMortgageRecalculation();"><img src="/images/submit.gif" alt=""></a></div>
          </div>
       </div>
       <div class="bl"></div>
