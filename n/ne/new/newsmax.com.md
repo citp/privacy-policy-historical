@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsmax.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214015432id_/http%3A//newsmax.com/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmax.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620055717id_/http%3A//newsmax.com/PrivacyStatement) for the most accurate reproduction.*
 
 # Newsmax - Newsmax.com - Privacy Statement
 
