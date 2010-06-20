@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newlilwayne.com privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015043235id_/http%3A//www.newlilwayne.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlilwayne.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621005020id_/http%3A//www.newlilwayne.com/privacy-policy) for the most accurate reproduction.*
 
 # New Lil Wayne | NewLilWayne.com Privacy Policy
 
