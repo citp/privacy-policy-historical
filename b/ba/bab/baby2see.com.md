@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baby2see.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203030205id_/http%3A//baby2see.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baby2see.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620071214id_/http%3A//www.baby2see.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Pregnancy and Baby Information Index Baby2see.com
 
