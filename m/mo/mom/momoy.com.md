@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momoy.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204034150id_/http%3A//www.momoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momoy.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620131025id_/http%3A//www.momoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Home Trends | Decoration | Gardening
 
