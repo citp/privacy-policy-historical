@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the glos.ac.uk privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219133537id_/http%3A//www.glos.ac.uk/siteinformation/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glos.ac.uk privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620190404id_/http%3A//www.glos.ac.uk/siteinformation/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Statement of Intent
 
-The University is obliged to comply with the Data Protection Act 1998. Personal data collected via our web sites will only be used for the stated purpose for which they are collected. No personal data will be passed to any third party without the consent of the person concerned, unless we are required to do so by the appropriate authority acting under the Regulation of Investigatory Powers Act 2000.
+The University of Gloucestershire is registered with the Office of the Information Commissioner according to the Data Protection Act 1998 to process personal data relating to its students in order to carry out its normal administration. This data, which may relate to ethnicity and disability, is stored and processed for various administrative, academic and health and safety reasons, and it may be used by the university for it's own marketing purposes.
+
+The data collected is processed in accordance with the Act and will only be available within the University to members of staff who need to know in order to perform their duties. No personal data will be passed to any third party without the consent of the person concerned, unless the University is required to do so by the provisions stipulated under the Data Protection Act 1998 or an appropriate authority acting under the Regulation of Investigatory Powers Act 2000.
 
 ## Cookies
 
