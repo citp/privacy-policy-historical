@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218184041id_/http%3A//www.rif.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620201037id_/http%3A//www.rif.org/privacy) for the most accurate reproduction.*
 
 # Reading Is Fundamental | Privacy Policy
 
