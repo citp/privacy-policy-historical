@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedesignblog.org privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903233755id_/http%3A//www.thedesignblog.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedesignblog.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620142705id_/http%3A//www.thedesignblog.org/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - The Design blog: Design trendsetter
+# 
 
 Privacy Policy
 
