@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerstars.net privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217023250id_/http%3A//www.pokerstars.net/poker/room/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620213124id_/http%3A//www.pokerstars.net/poker/room/terms/privacy) for the most accurate reproduction.*
 
 # Player Security - Free Poker Download - PokerStars
 
@@ -45,10 +45,10 @@ By opening an Account with [PokerStars.net](http://www.pokerstars.net/) you agre
 
 **8\. Who are we?**  
 Rational Poker School Limited,  
-49 Victoria Street,   
+33-37 Athol Street,   
 Douglas,   
 Isle of Man,   
-IM1 2LD.   
+IM1 1LB.   
 
 
 Privacy Policy last revised: 29th August, 2007 
