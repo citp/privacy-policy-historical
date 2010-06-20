@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231063533id_/http%3A//www.arthritis.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritis.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620081128id_/http%3A//www.arthritis.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Arthritis.org Privacy Policy
 
-The Arthritis Foundation respects the privacy of each individual who contacts us. We are grateful for your support and the crucial role you play in helping us continue our valuable work. As part of our commitment to safeguarding your privacy we have adopted the online privacy policy outlined below, which is applicable to this website ("Site”).
+The Arthritis Foundation respects the privacy of each individual who contacts us. We are grateful for your support and the crucial role you play in helping us continue our valuable work. As part of our commitment to safeguarding your privacy we have adopted the online privacy policy outlined below, which is applicable to this website ("Site”). Find out about our [linking policy](http://www.arthritis.org/linking-policy).
 
 ### Collection of Information
 
@@ -92,4 +92,37 @@ California Residents:  Users who reside in California and have provided persona
 
 Back to top
 
-_This policy was last updated on December 14, 2009_.
+### Interactive Areas
+
+Some opinions and recommendations contained in the Web Site, especially in areas such as personal pages, message boards and chat rooms ("Interactive Areas"), are not necessarily those of the Arthritis Foundation or endorsed by the Arthritis Foundation. YOU ACKNOWLEDGE THAT ANY RELIANCE ON CONTENT POSTED IN AN INTERACTIVE AREA IS AT YOUR OWN RISK. 
+
+If you use an Interactive Area, you are solely responsible for your own communications and the consequences of posting those communications. The Arthritis Foundation does not assume any responsibility for the consequences of any Interactive Area communications on or arising from use of the Web Site. In cases where you feel threatened or believe someone else is in danger, you should contact your local law enforcement agency immediately. 
+
+The Arthritis Foundation cannot and does not screen content provided by you or other Users to the Web Site or any Interactive Area, and is not responsible for the content of these communications and materials. Notwithstanding the foregoing, the Arthritis Foundation reserves the right to review the Web Site and material from the Web Site brought to the Arthritis Foundation’s attention and to remove content, which the Arthritis Foundation, in its sole discretion, determines to be   
+(a) abusive, libelous, defamatory or obscene,   
+(b) fraudulent, deceptive or misleading,   
+(c) in violation of a copyright or trademark, other intellectual property right of another or   
+(d) offensive or otherwise unacceptable to the Arthritis Foundation. 
+
+The Arthritis Foundation reserves the right to record the dialogue in public chat rooms. The Arthritis Foundation does not screen communications in advance and is not responsible for screening or monitoring material posted by Users or any other person or entity. If notified by a User of communication(s) which are alleged not to conform to the terms of this Agreement, the Arthritis Foundation may investigate the allegation and determine in its sole discretion to remove or request the removal of the communication(s). The Arthritis Foundation reserves the right to remove communications which are abusive, illegal, disruptive, profane or that otherwise fail to conform with this Agreement. In addition to the removal rights described above, the Arthritis Foundation reserves the right to terminate a User’s access to any or all Interactive Areas upon Subscriber’s breach of these Terms and Conditions. The Arthritis Foundation reserves the right (but is not obligated) to edit or delete any communication(s) posted on the Web Site, regardless of whether such communication(s) violate these standards for content. 
+
+Furthermore, the Arthritis Foundation reserves the right (but is not obligated) to monitor, edit or disclose any type of communication(s) on the Interactive Areas for adherence to this Agreement, if required in the course of normal operation and maintenance of the Web Site, or if required to do so by law or in the good-faith belief that such action is necessary to:   
+(i) comply with the law or comply with legal process served;   
+(ii) protect and defend the rights of the Arthritis Foundation or others; or   
+(iii) act in an emergency to protect the personal safety of our guests or the public.
+
+  
+The Arthritis Foundation HAS NO LIABILITY OR RESPONSIBILITY TO SUBSCRIBERS OR ANY OTHER PERSON OR ENTITY FOR PERFORMANCE OR NONPERFORMANCE OF THE AFOREMENTIONED SCREENING ACTIVITIES.
+
+  
+Back to top
+
+### External Links
+
+  
+The Arthritis Foundation may provide links on the Web Site to other Web sites that are not under the control of the Arthritis Foundation. In general, any Web site that has an address (or URL) that does not contain "arthritis.org" or "jointsinmotion.org" is such a Web site. These links are provided for convenience of reference only and are not intended as an endorsement by the Arthritis Foundation of the organization or individual operating the Web site or a warranty of any type regarding the Web site or the information on the Web site.
+
+  
+Back to top
+
+ _This policy was last updated on January 20, 2010_.
