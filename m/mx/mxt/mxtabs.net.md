@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxtabs.net privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020110042id_/http%3A//www.mxtabs.net/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxtabs.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620182824id_/http%3A//www.mxtabs.net/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MXTabs.net
 
