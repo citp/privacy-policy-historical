@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219150315id_/http%3A//www.jockey.com/en-us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620211057id_/http%3A//www.jockey.com/en-us/privacypolicy) for the most accurate reproduction.*
 
 # Jockey Privacy Policy | Corportate Information | Jockey.com
 
@@ -56,7 +56,7 @@ Generally, Jockey keeps your personal information only as long as it is reasonab
 
 How Can I Access and Update My Personal Information?
 
-If you would like to access and update your personal information provided to us, please contact us electronically at: [http://www.jockey.com/en-US/CustomerService/ContactUS/](https://web.archive.org/en-US/CustomerService/ContactUS/) or call us toll free at 1-800-562-5391 (MON-FRI, 8:00 - 6:00 CST; SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided below. Some of your personal information may also be accessed and updated by visiting the Site and logging into your user profile. 
+If you would like to access and update your personal information provided to us, please contact us electronically at: [http://www.jockey.com/en-US/CustomerService/ContactUS/](https://web.archive.org/en-US/CustomerService/ContactUS/) or call us toll free at 1-800-562-5391 (MON-FRI 8:00 - 6:00 CST, SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided below. Some of your personal information may also be accessed and updated by visiting the Site and logging into your user profile. 
 
 How Can I unsubscribe or Opt-Out of Receiving Communications from Jockey?
 
@@ -66,7 +66,7 @@ If you provide us with your e-mail address or other contact information and no l
 
 
   * Electronically at: [http://www.jockey.com/en-US/CustomerService/ContactUS/](https://web.archive.org/en-US/CustomerService/ContactUS/)
-  * Calling us toll free at 1-800-562-5391 (MON-FRI, 8:00 - 6:00 CST; SAT-SUN 9:30 - 6:00 CST), or
+  * Calling us toll free at 1-800-562-5391 (MON-FRI 8:00 - 6:00 CST, SAT-SUN 9:30 - 6:00 CST), or
   * Writing us at: 
 
 Jockey International, Inc.  
@@ -84,7 +84,7 @@ What Information Do We Share with Third Parties?
 
 We use reputable third parties to help us provide services to you such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, maintaining our loyalty programs, administering e-mails, online and catalog marketing campaigns, and sweepstakes, drawings, or contests. We may also share aggregate purchase behavior with third parties that monitor consumer purchasing trends and product interest. Third parties also provide aggregate, comparative information on the performance of our site to us. 
 
-In addition, we cooperate in advertising member networks with other consumer entities where we may communicate your name, postal address and general purchase information so that other members may inform you about products or services that might interest you. If you prefer to have your name withheld, please contact us electronically at: [http://www.jockey.com/en-US/CustomerService/ContactUS/](http://en-us/CustomerService/ContactUS/) or call us toll free at: 1-800-562-5391 (MON-FRI, 8:00 - 6:00 CST; SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided above. 
+In addition, we cooperate in advertising member networks with other consumer entities where we may communicate your name, postal address and general purchase information so that other members may inform you about products or services that might interest you. If you prefer to have your name withheld, please contact us electronically at: [http://www.jockey.com/en-US/CustomerService/ContactUS/](http://en-us/CustomerService/ContactUS/) or call us toll free at: 1-800-562-5391 (MON-FRI 8:00 - 6:00 CST, SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided above. 
 
 Please note that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or to protect the users of our Site or the public. 
 
@@ -102,7 +102,7 @@ This Privacy Notice is effective as of the date noted above. We may need to chan
 
 Questions or Concerns?
 
-If you have any questions or concerns about Jockey's Privacy Notice, you need further information, or you feel that this Site is not following its stated policy, you are welcome to contact us electronically at: [http://www.jockey.com/en-US/CustomerService/ContactUS/](http://en-us/CustomerService/ContactUS/) or call us toll free at: 1-800-562-5391 (MON-FRI, 8:00 - 6:00 CST; SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided above. 
+If you have any questions or concerns about Jockey's Privacy Notice, you need further information, or you feel that this Site is not following its stated policy, you are welcome to contact us electronically at: [http://www.jockey.com/en-US/CustomerService/ContactUS/](http://en-us/CustomerService/ContactUS/) or call us toll free at: 1-800-562-5391 (MON-FRI 8:00 - 6:00 CST, SAT-SUN 9:30 - 6:00 CST) or write to us at the postal address provided above. 
 
   
 
