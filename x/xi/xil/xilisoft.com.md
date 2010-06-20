@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xilisoft.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230080827id_/http%3A//www.xilisoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xilisoft.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621010903id_/http%3A//www.xilisoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Xilisoft Corporation - Privacy Policy
 
@@ -8,14 +8,14 @@ Xilisoft's Customer Privacy Policy covers the collection, use, and disclosure of
 
 We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about.
 
-## What information we collect and how we may use it 
+## What information we collect and how we may use it
 
 There are a number of situations in which your personal information may help us give you better products or service. For example:
 
   * We may ask for your personal information when you're discussing a service issue on the phone with an associate, downloading a software update, registering for a seminar, participating in an online survey, registering your products, or purchasing a product.
-  * When you interact with Xilisoft, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and information about the Xilisoft products you own, such as their serial numbers and date of purchase; and information relating to a support or service issue. 
-  * We also collect information for market research purposes — such as your occupation and where you use your computer - to gain a better understanding of our customers and thus provide more valuable service. 
-  * We collect information regarding customer activities on our websites. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites, products, and Internet services are of most interest to them. 
+  * When you interact with Xilisoft, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and information about the Xilisoft products you own, such as their serial numbers and date of purchase; and information relating to a support or service issue.
+  * We also collect information for market research purposes — such as your occupation and where you use your computer - to gain a better understanding of our customers and thus provide more valuable service.
+  * We collect information regarding customer activities on our websites. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites, products, and Internet services are of most interest to them.
   * We may use personal information to provide products that you have requested as well as for auditing, research, and analysis to improve Xilisoft's products and service.
 
 
@@ -34,7 +34,7 @@ To help us provide superior service, your personal information may be shared wit
 
 ### With our service providers, vendors, and strategic partners
 
-There are also times when it may be advantageous for Xilisoft to make certain personal information about you available to companies that Xilisoft has a strategic relationship with or that perform work for Xilisoft to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with Xilisoft's policies, except if we inform you otherwise at the time of collection. 
+There are also times when it may be advantageous for Xilisoft to make certain personal information about you available to companies that Xilisoft has a strategic relationship with or that perform work for Xilisoft to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with Xilisoft's policies, except if we inform you otherwise at the time of collection.
 
 At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
 
@@ -58,13 +58,13 @@ As is true of most websites, we gather certain information automatically and sto
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. Xilisoft will not use the information collected to market directly to that person.
 
-## Anti-malware statement 
+## Anti-malware statement
 
 Xilisoft STRONGLY OPPPOSES all forms of malware. Xilisoft applications will never intentionally jeopardize our customers' privacy or security. All applications are designed to be easily removable from the computer through an uninstall utility. Xilisoft does not employ the use of reinstallers and avoids all features that may be found in any type of malware. No Xilisoft application is designed to collect any personally identifiable information from any user. Xilisoft applications do not contain, nor are they bundled with, any third party applications (spyware, adware, malware, etc.) that would jeopardize our customers' security or their privacy. All Xilisoft applications pass both Kaspersky and Rising vigorous anti-virus/malware tests before public release.
 
 ## Our companywide commitment to your privacy
 
-This policy covers the Intel Corporate website and is applicable worldwide. To make sure your personal information is secure, we communicate these guidelines to Xilisoft employees and strictly enforce privacy safeguards within the company. 
+This policy covers the Intel Corporate website and is applicable worldwide. To make sure your personal information is secure, we communicate these guidelines to Xilisoft employees and strictly enforce privacy safeguards within the company.
 
 ## International users
 
