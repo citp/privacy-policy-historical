@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the retrorenovation.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128112306id_/http%3A//retrorenovation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrorenovation.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620073053id_/http%3A//retrorenovation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Retro Renovation
 
 PRIVACY POLICY
 
@@ -51,5 +51,3 @@ If you have any questions or concerns, our contact information is as follows:
 retrorenovation (at) gmail (dot) com
 
 This privacy policy was last updated on May 5, 2009.
-
-Want to stay on top of all Retro Renovation news? Subscribe to our Saturday [email newsletter](http://visitor.constantcontact.com/d.jsp?m=1102382223287&p=oi).
