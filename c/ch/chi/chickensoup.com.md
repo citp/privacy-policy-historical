@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218171754id_/http%3A//www.chickensoup.com/cs.asp%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickensoup.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621002434id_/http%3A//www.chickensoup.com/cs.asp%3Fcid%3Dprivacy) for the most accurate reproduction.*
 
 # Chicken Soup for the Soul
 
@@ -38,7 +38,7 @@ In addition, information about you in our possession may be disclosed as part of
 
 **CHILDREN’S PRIVACY**
 
-Although our websites may be accessed by children under the age of 13, we will not knowingly collect or use any personal information from such children. If we become aware that we have collected any personal information from children under 13, we will promptly delete such information from our databases.
+Although our websites may be accessed by children under the age of 13, we will not knowingly collect or use any personal information from such children without the consent of a parent or guardian. If we become aware that we have collected any personal information from children under 13 and have not received consent from a parent of guardian, we will promptly delete such information from our databases.
 
 **OTHER WEBSITES**
 
