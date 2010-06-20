@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anvari.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193152id_/http%3A//www.anvari.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anvari.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620151311id_/http%3A//www.anvari.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,6 +48,4 @@ You may, of course, decline to submit personally identifiable information, in wh
 
   
 |   
-|  |   
-  
-[](http://www.addthis.com/bookmark.php?v=250)
+|  | 
