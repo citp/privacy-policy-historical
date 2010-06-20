@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imbibemagazine.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403155708id_/http%3A//www.imbibemagazine.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imbibemagazine.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621011817id_/http%3A//www.imbibemagazine.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - Imbibe Magazine
 
@@ -20,7 +20,7 @@ We sometimes use the non-personally identifiable information that we collect via
 We will disclose information in our database when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
 **Copyright Information**  
-Copyright © 2005 - 2009 imbibe Media Inc.  
+Copyright © 2005 - 2010 Imbibe Media Inc.  
 All rights reserved  
 Imbibe Media Inc.  
 1028 SE Water Ave., Suite 285  
