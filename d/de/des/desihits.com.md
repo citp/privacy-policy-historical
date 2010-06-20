@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desihits.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115201005id_/http%3A//www.desihits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihits.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620080918id_/http%3A//www.desihits.com/privacy_policy) for the most accurate reproduction.*
 
-# DesiHits!
+# Desi Radio, Videos and MP3s, Bollywood Hindi Songs, Bhangra Music and Podcasts at Desi Hits.com
 
 This privacy policy discloses the privacy practices for DesiHits.com. While we will generally not share information that may be used to identify you, we do expect our policy statement will change as new ways to protect your confidentiality and new uses for information emerge. To that end, we value your comments about our privacy statement and invite you to e-mail us with suggestions and concerns. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy@DesiHits.com
 
@@ -18,10 +18,11 @@ Note that if you sign up for service from one of our Partnership program affilia
 
 **How Information Is Collected**
 
-Registration and Account Set Up – When you sign up for services from Desi Hits! you will be asked to provide certain basic contact Information. After this is entered you, we will establish your account. You will be given the opportunity to provide additional Contact Information once your account is established. In addition, Financial Information may be collected to process payment for some of the premium services we provide or may provide in the future.  
-Customer Service – If you contact Desi Hits! either via e-mail, telephone or letter, we may keep a record of the correspondence.  
-Cookies – Desi Hits! may use cookies to store visitors preferences and to record session information to better the visitors experience and potentially better the advertising and marketing promotions relevance.  
-Links – Desi Hits! is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on the Desi Hits! website.
+Registration and Account Set Up – When you sign up for services from Desi Hits! you will be asked to provide certain basic contact Information. After this is entered you, we will establish your account. You will be given the opportunity to provide additional Contact Information once your account is established. In addition, Financial Information may be collected to process payment for some of the premium services we provide or may provide in the future.
+
+Customer Service – If you contact Desi Hits! either via e-mail, telephone or letter, we may keep a record of the correspondence.
+
+Cookies – Desi Hits! may use cookies to store visitors preferences and to record session information to better the visitors experience and potentially better the advertising and marketing promotions relevance. Links – Desi Hits! is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on the Desi Hits! website.
 
 **Sharing and Disclosure of Collected Information**
 
@@ -30,3 +31,6 @@ Except as otherwise described in this privacy statement, Desi Hits! will not dis
 **Changes in Our Privacy Policy**
 
 From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted.
+
+  
+
