@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616191630id_/http%3A//storynory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621002900id_/http%3A//storynory.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Free Audio Story
 
@@ -6,7 +6,7 @@ We try to make our site as safe and enjoyable for you and your children as possi
 
 We are particularly keen not to obtain the personal addresses of children under the age of 13. We ask that in all email communications with us, you use the address of somebody who is at least 13 years old. This policy is to reassure parents and guardians that Storynory is a safe site for their children to use.
 
-**Control of Information** Storynory is owned by Blog Relations Limited, 26 Star St, London W2 1QB, . Any information collected by Storynory is controlled by Blog Relations Limited (”we/us/our”). Your point of contact for privacy issues is Hugh Fraser: hugh@blog-relations.com. Telephone +44 (0)20 7706 7974.
+**Control of Information** Storynory is owned by Blog Relations Limited, 26 Star St, London W2 1QB, . Any information collected by Storynory is controlled by Blog Relations Limited (“we/us/our”). Your point of contact for privacy issues is Hugh Fraser: hugh@blog-relations.com. Telephone +44 (0)20 7706 7974.
 
 Many of our Web pages contain links to external Web sites outside the control of Blog Relations Limited. Please be aware that when you follow a link to another site, you are then subject to the privacy policies of the new site.
 
