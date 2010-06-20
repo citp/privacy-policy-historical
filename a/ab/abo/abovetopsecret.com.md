@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abovetopsecret.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218213055id_/http%3A//www.abovetopsecret.com/forum/thread233728/pg1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovetopsecret.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620024737id_/http%3A//www.abovetopsecret.com/forum/thread233728/pg1) for the most accurate reproduction.*
 
 # AboveTopSecret.com Privacy Policy, page 1
 
@@ -6,13 +6,13 @@
 ****  
 
 
-[](http://www.truste.org/ivalidate.php?url=www.abovetopsecret.com&sealid=101)
-
-**Our Commitment To Privacy**
+**Commitment To Privacy**
 
 Nothing is more important to the owners and staff of AboveTopSecret.com than making every effort to protect the privacy of all members. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
-**The Information We Collect:**
+[Network Advertising Initiative](http://www.networkadvertising.org/)
+
+ **The Information We Collect:**
 
 This notice applies to all information collected or submitted on the AboveTopSecret.com website, and any other site owned and operated by AboveTopSecret.com and/or The Above Network, LLC. On some pages, you can specify personal profiles that may be viewable by other registered members of this website. However, at no time do we collect your personal information such as name, address, or phone number, and only require a functioning e-mail address for membership. At no time do we attempt to reconcile any information you provide (included your IP address as indicated below) with offline identity or other personal information. 
 
@@ -40,8 +40,9 @@ From time to time data cookies will be set by various portions of the applicatio
 
 **Third Party Data Cookies:**
 
-Advertising networks that serve advertising on AboveTopSecret.com may write their own cookies for the purposes of determining advertising frequency and relevance. We have performed reasonable diligence on all advertising networks authorized to serve ads on our websites to ensure that their data cookies are for this purpose and nothing more. Many of the providers serving display ads on AboveTopSecret.com provide users with the ability to opt-out of these third-party cookies. Below is a list of the networks which may, from time to time, deliver ads to our users (many may only occasionally deliver ads):   
-[Media Mayhem](http://www.mediamayhem.com/privacy.html/) (via adbureau.net)   
+Advertising networks that serve advertising on AboveTopSecret.com may write their own cookies for the purposes of determining advertising frequency and relevance, and to match ads against your interests based on aggregate non-personally identifiable information learned about your Internet browsing. We have performed reasonable diligence on all advertising networks authorized to serve ads on our websites to ensure that their data cookies are for this purpose and nothing more. Many of the providers serving display ads on AboveTopSecret.com provide users with the ability to opt-out of these third-party cookies. Below is a list of the networks which may, from time to time, deliver ads to our users (many may only occasionally deliver ads):   
+[Google](http://www.google.com/privacypolicy.html)   
+[Comscore](http://www.comscore.com/About_comScore/Privacy_Policy)   
 [DoubleClick](http://www.doubleclick.com/)   
 [Mediaplex](http://www.mediaplex.com/)   
 [Eyeblaster](http://www.eyeblaster.com/)   
@@ -92,14 +93,6 @@ From time to time, members may post controversial material for which demands of 
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-**TRUSTe:**
-
-AboveTopSecret.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.AboveTopSecret.com]. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Bill Irvine at business-at-theabovenetwork.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.truste.org](http://www.truste.org/consumers/watchdog_complaint.php), TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-This privacy policy and the policies of AboveTopSecret.com have been reviewed and certified by TRUSTe, to ensure we maintain the highest standards of protecting and ensuring the online privacy of our users. If you believe there may be a violation of this privacy or other material breech of a user's privacy, you may initiate a dispute with TRUSTe at: [www.truste.org](http://www.truste.org/consumers/watchdog_complaint.php). 
-
 **How To Contact Us:**
 
 Should you have other questions or concerns about these privacy policies, please send us an email using our [Contact Form](http://www.abovetopsecret.com/forum/contact.php). 
@@ -118,6 +111,12 @@ August 21, 2008.
 * * *
 
 [edit on 21-8-2008 by SkepticOverlord] 
+
+[edit on 16-6-2009 by SkepticOverlord] 
+
+(Update to add NAI link) 
+
+[edit on 18-11-2009 by SkepticOverlord] 
 
   
 
