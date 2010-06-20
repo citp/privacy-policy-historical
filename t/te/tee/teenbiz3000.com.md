@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenbiz3000.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219001810id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenbiz3000.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621002018id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
 
 # Achieve3000
 
