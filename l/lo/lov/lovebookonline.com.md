@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the lovebookonline.com privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129233046id_/http%3A//lovebookonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovebookonline.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621002957id_/http%3A//www.lovebookonline.com/privacy.php) for the most accurate reproduction.*
 
-# Welcome to Love Book online.com
+# None
+
+  
+
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -42,12 +45,12 @@ We never use or share the personally identifiable information provided to us onl
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway provider’s database only to be accessible by those quthorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information will not be stored on our servers.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway provider's database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information will not be stored on our servers.
 
   
 
 
-Yes. We use cookies to help us remember and process the items in your shopping cart. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the site or service provider’s systems to recognize your browser and capture and remember certain information. 
+Yes. We use cookies to help us remember and process the items in your shopping cart. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the site or service provider's systems to recognize your browser and capture and remember certain information. 
 
   
 
@@ -57,9 +60,14 @@ Occasionally, at our discretion, we may include or offer third party products or
   
 
 
+To better serve you, Love Book uses Google Site Stats to track traffic and conversion.
+
+  
+
+
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the ‘My Books’ page and selecting the ‘Edit My Account’ tab.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the 'My Books' page and selecting the 'Edit My Account' tab.
 
   
 
@@ -71,7 +79,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 If we decide to change our privacy policy, we will post those changes on this page and/or update the Privacy Policy modification date below.
 
-This policy was last modified on October 27, 2008
+This policy was last modified on January 22, 2010
 
   
 
