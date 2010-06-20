@@ -1,34 +1,11 @@
-<!--The following is the downloaded HTML source of the magazineline.com privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220040357id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the magazineline.com privacy policy that was archived on 2010-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621001928id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Magazineline - America's First Choice Magazine Store Since 1974</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="Magazineline - Customer Service page for Magazineline customers - America's First Choice Discount Magazine Store Since 1974. Up to 85% off newsstand prices with over 600 magazine titles. Guaranteed lowest subscription prices.">
 <meta name="keywords" content="discount magazine subscription agency, student discount magazine periodical, magazineline, sports magazines, news magazines, cheap magazines, faculty discounts for teachers, low price subscriptions, Magazine, Subscription">
-<!-- link rel="stylesheet" type="text/css" href="/haupt/includes/Yahoo/fonts.css" -->
-
-
-<link rel="stylesheet" type="text/css" href="/haupt/includes/Yahoo/menu.css"> 
-<script type="text/javascript" src="/haupt/includes/Yahoo/yahoo.js"></script>
-<script type="text/javascript" src="/haupt/includes/Yahoo/dom.js"></script>
-<script type="text/javascript" src="/haupt/includes/Yahoo/event.js"></script>
-<script type="text/javascript" src="/haupt/includes/Yahoo/container_core.js"></script>
-
-<!-- Source File -->
-<script type="text/javascript" src="/haupt/includes/Yahoo/menu.js"></script>
-
-<!-- Page-specific script -->
-
-<script type="text/javascript">
-//set constants;
-	 //YAHOO.widget.MenuModule.IMG_ROOT = 'http://www.magazineline.com/haupt/includes/Yahoo/images/';
-	 //YAHOO.widget.MenuModule.IMG_ROOT_SSL = 'http://www.magazineline.com/haupt/includes/Yahoo/images/';
-
-
-
-</script>
-
 <script language="JavaScript" type="text/JavaScript">
 <!--
 function MM_swapImgRestore() { //v3.0
@@ -56,19 +33,304 @@ function MM_swapImage() { //v3.0
 //-->
 </script>
 
+
+		<script type="text/javascript" language="JavaScript"><!--
+			var isNav, isIE
+
+			if (parseInt(navigator.appVersion) >= 4) {
+				if (navigator.appName == "Netscape")
+					isNav = true
+				else
+					isIE = true
+				}
+				
+		//--></script>
+
+
+
+
+		
+
+
+
+
+
+		<script type="text/javascript" language="JavaScript">
+
+
+		function chkObjectByName(theVal) {
+			if (document.getElementsByName(theVal).length > 0) {
+				return true;
+			} else {
+				return false;
+					}
+				}
+
+
+		function trim(str, chars) {
+			return ltrim(rtrim(str, chars), chars);
+		}
+		 
+		function ltrim(str, chars) {
+			chars = chars || "\\s";
+			return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
+		}
+		 
+		function rtrim(str, chars) {
+			chars = chars || "\\s";
+			return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
+		}
+
+
+
+
+		function URLEncode (clearString) {
+			var output = '';
+			var x = 0;
+			clearString = clearString.toString();
+			var regex = /(^[a-zA-Z0-9_.]*)/;
+			while (x < clearString.length) {
+				var match = regex.exec(clearString.substr(x));
+				if (match != null && match.length > 1 && match[1] != '') {
+					output += match[1];
+					x += match[1].length;
+				} else {
+					if (clearString[x] == ' ') output += '+';
+					else {
+						var charCode = clearString.charCodeAt(x);
+						var hexVal = charCode.toString(16);
+						output += '%' + hexVal.toUpperCase();
+					}
+					x++;
+				}
+			}
+			return output;
+		}
+
+			
+			function doTopBarSearch(fromEnterButton) {
+				var theSearchTerm = '';
+				var didSearch = false;
+				
+				if (document.getElementById("searchField") == null) {
+					if (document.getElementById("SearchPhrase") == null) {
+						theSearchTerm = theSearchTerm + '';
+					}
+					else {
+						theSearchTerm = theSearchTerm + document.getElementById("SearchPhrase").value;
+					}
+				}
+				else {
+				
+					var mySearchField = document.getElementById("searchField");
+					//theSearchTerm = theSearchTerm + document.getElementById("searchField").value;
+					theSearchTerm = theSearchTerm + mySearchField.value;
+				}
+				
+				if (trim(theSearchTerm) != '') {
+					if (self.location.hostname) {
+						myhost = self.location.hostname;
+					}
+					else {
+						myhost = 'www.magazineline.com';
+					}
+				
+					if (parent.frames.length > 0) {
+						parent.location.href = 	'http://' + myhost + '/Haupt/NetCart/Search.aspx?SiteID=26&SearchType=Keyword&SearchText=' + URLEncode(theSearchTerm);
+						didSearch = true;
+					}
+					else {
+						location.href = 'http://' + myhost + '/Haupt/NetCart/Search.aspx?SiteID=26&SearchType=Keyword&SearchText=' + URLEncode(theSearchTerm);
+						didSearch = true;						
+					}
+
+			//new fallback thing
+				}
+				else {
+
+
+					if (document.getElementById("SearchTextLeft_old") == null) {
+						if (document.getElementById("SearchTextLeft") == null) {
+							theSearchTerm = theSearchTerm + '';
+						}
+						else {
+							theSearchTerm = theSearchTerm + document.getElementById("SearchTextLeft").value;
+						}
+					}
+					else {
+					
+						var mySearchField = document.getElementById("SearchTextLeft_old");
+						//theSearchTerm = theSearchTerm + document.getElementById("searchField").value;
+						theSearchTerm = theSearchTerm + mySearchField.value;
+					}
+
+
+
+
+					if (trim(theSearchTerm) != '') {
+						if (self.location.hostname) {
+							myhost = self.location.hostname;
+						}
+						else {
+							myhost = 'www.magazineline.com';
+						}
+					
+						if (parent.frames.length > 0) {
+							parent.location.href = 	'http://' + myhost + '/Haupt/NetCart/Search.aspx?SiteID=26&SearchType=Keyword&SearchText=' + URLEncode(theSearchTerm);
+						didSearch = true;							
+						}
+						else {
+							location.href = 'http://' + myhost + '/Haupt/NetCart/Search.aspx?SiteID=26&SearchType=Keyword&SearchText=' + URLEncode(theSearchTerm);
+						didSearch = true;							
+						}
+				}
+
+			// end new fallback thing
+				}
+
+
+
+			//experiment - if we got this far, we may have ate the Enter key when the user wanted
+			// to submit a form on an ASPX page
+
+
+			var theURL;
+			theURL = location.href;
+
+			//reset if they back buttoned - no idea if this will work
+			document.forms[0].method = 'POST';
+			document.forms[0].action = theURL;
+
+
+			if (didSearch == false) {
+
+	
+				if (theURL.indexOf('.aspx') != -1) {
+					//document.forms[0].submit();         no
+	
+					//horribly hackish
+					if ( SubmitLogInButtonVarGMH = document.getElementById('SubmitLogInButton') ) {
+						// code herein when the element exists, using SubmitLogInButtonVarGMH
+						SubmitLogInButtonVarGMH.focus();
+						SubmitLogInButtonVarGMH.click();
+					}
+
+			}
+			//end didsearch hack
+			}
+			else {
+				//equally hackish
+				//no, make that even more hackish
+				if (theURL.indexOf('.aspx') != -1) {
+
+					if (!fromEnterButton) {
+						weCameFromEnterButton = false;
+					}
+					else {
+						weCameFromEnterButton = true;
+					}
+
+
+					if (weCameFromEnterButton == true) {
+
+						if (chkObjectByName('__VIEWSTATE')) {
+							document.forms[0].removeChild(document.getElementsByName('__VIEWSTATE')[0]);
+						}
+
+					//if (chkObjectByName('__EVENTTARGET')) {
+					//	document.forms[0].removeChild(document.getElementsByName('__EVENTTARGET')[0]);
+					//}
+
+					//if (chkObjectByName('__EVENTARGUMENT')) {
+					//	document.forms[0].removeChild(document.getElementsByName('__EVENTARGUMENT')[0]);
+					//}
+
+
+					//document.forms[0].removeChild(document.getElementsByName('__EVENTTARGET')[0]);
+					//document.forms[0].removeChild(document.getElementsByName('__EVENTARGUMENT')[0]);
+		
+						var el = document.createElement('input');
+						el.value = theSearchTerm;
+						el.style.display = 'none';
+						document.forms[0].appendChild(el);
+		
+						document.forms[0].method = 'GET';
+						document.forms[0].action = '/haupt/netcart/search.aspx';
+
+					}
+				}
+
+			}
+
+
+
+
+		}
+
+
+
+				function showKeyValue(evt) {
+					var keyValue
+
+					if (isNav) 
+						keyValue = evt.which
+					else
+						keyValue = window.event.keyCode
+					/*status = keyValue*/
+					if (keyValue == 13) {
+						/*alert(keyValue)*/
+						doTopBarSearch(1); //tell it we are coming from ENTER button press
+						return false
+					}
+
+				}
+
+
+
+
+
+-->			
+		</script>
+
+
+
 <!-- MBox Script Start -->
-<script language="javascript1.2" src="/Haupt/includes/mbox/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+<script language="javascript1.2" src="http://www.magazineline.com/Haupt/includes/mbox/mbox.js"></script>
 <!-- MBox Script End -->
 
-<link rel="stylesheet" href="/styles.css" type="text/css">
+<link rel="stylesheet" href="http://www.magazineline.com/styles.css" type="text/css">
 
 </head>
 
 <body onunload="closePopWin()" style="align=center" bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('images/1homeOVR.gif','../images/5prvcyOVR.gif')">
 
-<iframe src="/haupt/TopBar.aspx?sourcePage=/magazineline/privacypolicy.htm&amp;TopBarSwitch=A" width="750" height="100" frameborder="0" scrolling="no"></iframe>
+			<div id="B_Header">
+	<table width="708" border="0" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tbody><tr> 
+    <td width="262" rowspan="2" valign="top"><a href="http://www.magazineline.com/magazineline/homepage.htm" target="_parent"><img src="http://www.magazineline.com/images/topbar/logo_MLnotag.gif" alt="Magazines and Magazine Subscriptions at a Discount Magazine Price!" width="262" height="64" border="0"></a></td>
+    <td width="170" rowspan="2" align="center" valign="top"><img src="http://www.magazineline.com/images/topbar/middle.gif" height="64" width="170" border="0"></td>
+    <td width="26" rowspan="2" valign="top"><img src="http://www.magazineline.com/images/holiday07/swoop_up.gif" width="26" height="64"></td>
+    <td width="111" valign="top"><a href="/search.asp?SiteID=26&amp;wci=LandingPage&amp;wce=NetCart/Cart.aspx" target="_parent"><img src="http://www.magazineline.com/images/holiday07/cart_button.gif" width="111" height="26" border="0"></a></td>
+    <td width="82" valign="top"><a href="/search.asp?wci=LandingPage&amp;wce=NetMyAccount/EasyRenewalPage.aspx&amp;SiteID=26" target="_parent"><img src="http://www.magazineline.com/images/account_button.gif" width="82" height="26" border="0"></a></td>
+    <td width="56" rowspan="2" valign="top"><a title="Live Chat" onclick="javascript:window.open('http://www.magazineline.com/Haupt/CustomerService/Forms/LiveChat_ML.htm','chatwindow','width=600,height=500,location=1,status=1,scrollbars=1,menubar=1,resizable=1');return false;" href="http://www.magazineline.com/Haupt/CustomerService/Forms/LiveChat_ML.htm" target="_parent"><img title="Live Chat" src="http://www.magazineline.com/images/livehelpmntr.gif" alt="" border="0" width="56" height="64"></a></td>
+    <td width="1"></td>
+  </tr>
+  <tr><td colspan="2" valign="top" bgcolor="#ffcc00" height="38"><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #CC0000">&nbsp;<br>Search: </span>
+<span style="font-size: 12px;">
+<input name="searchField" type="text" size="13" id="searchField" style="{font-size: 11px; font-family: Verdana; padding: 0px;" onkeypress="showKeyValue(event);">&nbsp;<input type="image" name="searchButton" id="searchButton" onclick="doTopBarSearch();return false;" src="http://www.magazineline.com/images/gobutton2.gif" alt="" align="AbsMiddle" border="0"></span>
+</td></tr>
+  <tr> 
+    <td colspan="6" valign="top"><a href="http://www.magazineline.com/magazineline/homepage.htm" onmouseover="MM_swapImage('Image1','','/images/home_over.gif',1)" onmouseout="MM_swapImgRestore()" target="_parent"><img src="http://www.magazineline.com/images/home_init.gif" alt="Magazineline Homepage" name="Image1" width="102" height="25" border="0" id="Image1"></a><a href="http://www.magazineline.com/Haupt/Category/GiftFinder.aspx?SiteID=26" onmouseover="MM_swapImage('Image2','','/images/gifts_over.gif',1)" onmouseout="MM_swapImgRestore()" target="_parent"><img src="http://www.magazineline.com/images/gifts_init.gif" alt="Magazine Gift Ideas" name="Image2" width="101" height="25" border="0" id="Image2"></a><a href="http://www.magazineline.com/magazineline/customerservice.htm" onmouseover="MM_swapImage('Image3','','/images/cs_over.gif',1)" onmouseout="MM_swapImgRestore()" target="_parent"><img src="http://www.magazineline.com/images/cs_init.gif" alt="Customer Service" name="Image3" width="101" height="25" border="0" id="Image3"></a><a href="http://www.magazineline.com/magazineline/aboutus.htm" onmouseover="MM_swapImage('Image4','','/images/aboutus_over.gif',1)" onmouseout="MM_swapImgRestore()" target="_parent"><img src="http://www.magazineline.com/images/aboutus_init.gif" alt="About Magazineline" name="Image4" width="101" height="25" border="0" id="Image4"></a><img src="http://www.magazineline.com/images/orderhotline_pub.gif" width="302" height="25"></td>
+    <td></td>
+  </tr>
+</tbody></table>
+</div>
 
-<div id="content" style="position:absolute; left:204px; top:105px; width: 510px;"><a class="magtitle" href="customerservice.htm" style="color:Purple;">Customer
+<div style="position:absolute; top:55px; left:20px; width: 230px;cursor: pointer; margin: 0; padding: 0;font-family:Verdana,Arial,Helvetica; font-size:9px; font-weight: normal; text-align: right; margin: 0; padding: 0;" title="Magazines and Magazine Subscriptions at a Discount Magazine Price!" onclick="location.href='/magazineline/homepage.htm'">Your Line to Magazine Subscriptions Savings</div>
+
+
+ <div id="content" style="position:absolute; left:204px; top:105px; width: 510px;"><a class="magtitle" href="customerservice.htm" style="color:Purple;">Customer
     Service</a> <img src="/images/blarrow.gif" alt="arrow" hspace="6"><span class="magtitle" style="color:Purple;">Privacy &amp; Security
     Policy</span> <br>
       <p class="redHead" style="background-color:#FFFFCC">Privacy &amp; Security</p>
@@ -129,7 +391,7 @@ function MM_swapImage() { //v3.0
         any account difficulties. If you would like to discuss our customer contact
         programs or specify a preference for how you are contacted, please call
         our customer service department at (800) 959-1676 (M-F, 8am-11pm, EST)
-        or <a href="/Haupt/CS_Email.aspx">email us</a>.<br>
+        or <a href="/haupt/cs_email.aspx">email us</a>.<br>
               <br>
               <strong class="bodyMED">With Whom Do We Share Information?</strong><br>
       When you place an order, your name and address, and the name and address
@@ -281,7 +543,9 @@ function MM_swapImage() { //v3.0
 
   <p class="bodySM">&nbsp;</p>
 </div>
-<div class="mboxDefault" style="visibility: visible; display: block;">
+<div class="mboxDefault">
+
+
 <style type="text/css">
 #nav, #nav ul {
 	padding: 0;
@@ -360,7 +624,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 
 <form name="LeftBarForm" action="/Haupt/NetCart/Search.aspx" method="get">
 
-<img src="../../images/holiday09/findithead_holiday09.gif" alt="Find a magazine fast!" width="187" height="25" style="margin-bottom: 0; padding-bottom: 0;"><table bgcolor="#FFEDA6" cellpadding="4" cellspacing="0" width="187" style="border:2px solid #003399;">
+<img src="/images/findithead.gif" alt="Find a magazine fast!" width="187" height="25" style="margin-bottom: 0; padding-bottom: 0;"><table bgcolor="#FFEDA6" cellpadding="4" cellspacing="0" width="187" style="border:2px solid #003399;">
 	<tbody><tr valign="top"> 
 		<td width="175" valign="top" class="bodyMED" background="../../images/searchBG_sm.gif">
 					<font color="#CC0000"><b>&nbsp;&nbsp;Quick Magazine Search:</b></font><br><img src="../../images/clear.gif" height="2">&nbsp; 
@@ -379,114 +643,114 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 <span class="bodyMED" style="margin-top: 0; padding-top: 0; margin-bottom: 0; margin-left: 4px; padding-bottom: 1px; line-height:16px;">
             
 <ul id="nav">
-	<li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/Category/Category_WI_11_1_26.html">Women's Magazines</a>
+	<li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/category/category_wi_11_1_26.html">Women's Magazines</a>
 		<ul>
-			<li><a href="/haupt/Category/Category_WI_11_1_26.html" class="top">Women's Magazines</a></li>
-			<li><a href="/haupt/Category/Category_11_GN_1_26.html">General</a></li>
-			<li><a href="/haupt/Category/Category_11_FO_1_26.html">Fashion</a></li>
-			<li><a href="/haupt/Category/Category_11_HE_1_26.html">Health &amp; Fitness</a></li>
-            <li><a href="/haupt/Category/Category_11_ET_1_26.html">Ethnic</a></li>
-            <li><a href="/haupt/Category/Category_11_CB_1_26.html">Celebrity News</a></li>
-            <li><a href="/haupt/Category/Category_11_P2_1_26.html">Popular Hobbies</a></li>
-            <li><a href="/haupt/Category/Category_11_BD_1_26.html">Bridal &amp; Wedding</a><br></li>
-            <li><a href="/haupt/Category/Category_WI_11_1_26.html">All Women's Magazines</a></li>
+			<li><a href="/haupt/category/category_wi_11_1_26.html" class="top">Women's Magazines</a></li>
+			<li><a href="/haupt/category/category_11_gn_1_26.html">General</a></li>
+			<li><a href="/haupt/category/category_11_fo_1_26.html">Fashion</a></li>
+			<li><a href="/haupt/category/category_11_he_1_26.html">Health &amp; Fitness</a></li>
+            <li><a href="/haupt/category/category_11_et_1_26.html">Ethnic</a></li>
+            <li><a href="/haupt/category/category_11_cb_1_26.html">Celebrity News</a></li>
+            <li><a href="/haupt/category/category_11_p2_1_26.html">Popular Hobbies</a></li>
+            <li><a href="/haupt/category/category_11_bd_1_26.html">Bridal &amp; Wedding</a><br></li>
+            <li><a href="/haupt/category/category_wi_11_1_26.html">All Women's Magazines</a></li>
 		</ul>
 	</li>
 
-	<li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/Category/Category_MI_11_1_26.html">Men's Magazines</a>
+	<li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/category/category_mi_11_1_26.html">Men's Magazines</a>
 		<ul>
-			<li><a href="/haupt/Category/Category_MI_11_1_26.html" class="top">Men's Magazines</a></li>
-			<li><a href="/haupt/Category/Category_11_GE_1_26.html">General</a></li>
-			<li><a href="/haupt/Category/Category_11_AD_1_26.html">Adult</a></li>
-			<li><a href="/haupt/Category/Category_11_MP_1_26.html">Sports</a></li>
-			<li><a href="/haupt/Category/Category_11_HF_1_26.html">Health &amp; Fitness</a></li>
-            <li><a href="/haupt/Category/Category_11_MA_1_26.html">African American</a></li>
-            <li><a href="/haupt/Category/Category_11_FA_1_26.html">Fashion</a></li>
-            <li><a href="/haupt/Category/Category_11_PH_1_26.html">Popular Hobbies</a><br></li>
-            <li><a href="/haupt/Category/Category_MI_11_1_26.html">All Men's Magazines</a></li>
+			<li><a href="/haupt/category/category_mi_11_1_26.html" class="top">Men's Magazines</a></li>
+			<li><a href="/haupt/category/category_11_ge_1_26.html">General</a></li>
+			<li><a href="/haupt/category/category_11_ad_1_26.html">Adult</a></li>
+			<li><a href="/haupt/category/category_11_mp_1_26.html">Sports</a></li>
+			<li><a href="/haupt/category/category_11_hf_1_26.html">Health &amp; Fitness</a></li>
+            <li><a href="/haupt/category/category_11_ma_1_26.html">African American</a></li>
+            <li><a href="/haupt/category/category_11_fa_1_26.html">Fashion</a></li>
+            <li><a href="/haupt/category/category_11_ph_1_26.html">Popular Hobbies</a><br></li>
+            <li><a href="/haupt/category/category_mi_11_1_26.html">All Men's Magazines</a></li>
 		</ul>
 	</li>
     
-    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/Category/Category_CD_11_1_26.html">Children's Magazines</a>
+    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/category/category_cd_11_1_26.html">Children's Magazines</a>
 		<ul>
-			<li><a href="/haupt/Category/Category_CD_11_1_26.html" class="top">Children's Magazines</a></li>
-			<li><a href="/haupt/Category/Category_11_A1_1_26.html">0 to 2 years</a></li>
-			<li><a href="/haupt/Category/Category_11_A2_1_26.html">2 to 6 years</a></li>
-			<li><a href="/haupt/Category/Category_11_A3_1_26.html">6 to 9 years</a></li>
-			<li><a href="/haupt/Category/Category_11_A4_1_26.html">9 to 12 years</a></li>
-			<li><a href="/haupt/Category/Category_11_A5_1_26.html">Over 12 years</a><br></li>
-            <li><a href="/haupt/Category/Category_CD_11_1_26.html">All Children's Magazines</a></li>
+			<li><a href="/haupt/category/category_cd_11_1_26.html" class="top">Children's Magazines</a></li>
+			<li><a href="/haupt/category/category_11_a1_1_26.html">0 to 2 years</a></li>
+			<li><a href="/haupt/category/category_11_a2_1_26.html">2 to 6 years</a></li>
+			<li><a href="/haupt/category/category_11_a3_1_26.html">6 to 9 years</a></li>
+			<li><a href="/haupt/category/category_11_a4_1_26.html">9 to 12 years</a></li>
+			<li><a href="/haupt/category/category_11_a5_1_26.html">Over 12 years</a><br></li>
+            <li><a href="/haupt/category/category_cd_11_1_26.html">All Children's Magazines</a></li>
 		</ul>
 	</li>
     
-    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/Category/Category_TE_11_1_26.html">Teen Magazines</a>
+    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/category/category_te_11_1_26.html">Teen Magazines</a>
 		<ul>
-			<li><a href="/haupt/Category/Category_TE_11_1_26.html" class="top">Teen Magazines</a></li>
-			<li><a href="/haupt/Category/Category_11_GR_1_26.html">Teen Girls</a></li>
-			<li><a href="/haupt/Category/Category_11_BY_1_26.html">Teen Boys</a><br></li>
-			<li><a href="/haupt/Category/Category_TE_11_1_26.html">All Teen Magazines</a></li>
+			<li><a href="/haupt/category/category_te_11_1_26.html" class="top">Teen Magazines</a></li>
+			<li><a href="/haupt/category/category_11_gr_1_26.html">Teen Girls</a></li>
+			<li><a href="/haupt/category/category_11_by_1_26.html">Teen Boys</a><br></li>
+			<li><a href="/haupt/category/category_te_11_1_26.html">All Teen Magazines</a></li>
 		</ul>
 	</li>
     
-    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/Category/Category_AE_11_1_26.html">Entertainment</a>
+    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/category/category_ae_11_1_26.html">Entertainment</a>
 		<ul>
-	        <li><a href="/haupt/Category/Category_AE_11_1_26.html" class="top">Entertainment Magazines</a></li>
-			<li><a href="/haupt/Category/Category_11_CW_1_26.html">Celebrity News</a></li>
-			<li><a href="/haupt/Category/Category_11_MU_1_26.html">Music</a></li>
-			<li><a href="/haupt/Category/Category_11_FM_1_26.html">Movies</a></li>
-            <li><a href="/haupt/Category/Category_11_TV_1_26.html">Television</a><br></li>
-			<li><a href="/haupt/Category/Category_AE_11_1_26.html">All Entertainment Magazines</a></li>
+	        <li><a href="/haupt/category/category_ae_11_1_26.html" class="top">Entertainment Magazines</a></li>
+			<li><a href="/haupt/category/category_11_cw_1_26.html">Celebrity News</a></li>
+			<li><a href="/haupt/category/category_11_mu_1_26.html">Music</a></li>
+			<li><a href="/haupt/category/category_11_fm_1_26.html">Movies</a></li>
+            <li><a href="/haupt/category/category_11_tv_1_26.html">Television</a><br></li>
+			<li><a href="/haupt/category/category_ae_11_1_26.html">All Entertainment Magazines</a></li>
 		</ul>
 	</li>
     
-    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/Category/Category_SE_11_1_26.html">Adult-Only Titles</a>
+    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/category/category_se_11_1_26.html">Adult-Only Titles</a>
 		<ul>
-			<li><a href="/haupt/Category/Category_SE_11_1_26.html" class="top">Adult-Only Titles</a></li>
-			<li><a href="/haupt/Category/Category_11_MN_1_26.html">For Men</a></li>
-			<li><a href="/haupt/Category/Category_11_WO_1_26.html">For Women</a><br></li>
-			<li><a href="/haupt/Category/Category_SE_11_1_26.html">All Adult Magazines</a></li>
+			<li><a href="/haupt/category/category_se_11_1_26.html" class="top">Adult-Only Titles</a></li>
+			<li><a href="/haupt/category/category_11_mn_1_26.html">For Men</a></li>
+			<li><a href="/haupt/category/category_11_wo_1_26.html">For Women</a><br></li>
+			<li><a href="/haupt/category/category_se_11_1_26.html">All Adult Magazines</a></li>
 		</ul>
 	</li>
     
-    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/Category/Category_SA_11_1_26.html">Sports &amp; Activities</a>
+    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/category/category_sa_11_1_26.html">Sports &amp; Activities</a>
 		<ul>
-			<li><a href="/haupt/Category/Category_SA_11_1_26.html" class="top">Sports &amp; Activities</a></li>
-			<li><a href="/haupt/Category/Category_11_GS_1_26.html">General</a></li>
-			<li><a href="/haupt/Category/Category_11_GO_1_26.html">Golf</a></li>
-			<li><a href="/haupt/Category/Category_11_SO_1_26.html">Soccer</a></li>
-			<li><a href="/haupt/Category/Category_11_RU_1_26.html">Running</a></li>
-            <li><a href="/haupt/Category/Category_11_BK_1_26.html">Bikes</a></li>
-            <li><a href="/haupt/Category/Category_11_HU_1_26.html">Hunting</a></li>
-            <li><a href="/haupt/Category/Category_11_FG_1_26.html">Fishing</a><br></li>
-            <li><a href="/haupt/Category/Category_SA_11_1_26.html">All Sports Magazines</a></li>
+			<li><a href="/haupt/category/category_sa_11_1_26.html" class="top">Sports &amp; Activities</a></li>
+			<li><a href="/haupt/category/category_11_gs_1_26.html">General</a></li>
+			<li><a href="/haupt/category/category_11_go_1_26.html">Golf</a></li>
+			<li><a href="/haupt/category/category_11_so_1_26.html">Soccer</a></li>
+			<li><a href="/haupt/category/category_11_ru_1_26.html">Running</a></li>
+            <li><a href="/haupt/category/category_11_bk_1_26.html">Bikes</a></li>
+            <li><a href="/haupt/category/category_11_hu_1_26.html">Hunting</a></li>
+            <li><a href="/haupt/category/category_11_fg_1_26.html">Fishing</a><br></li>
+            <li><a href="/haupt/category/category_sa_11_1_26.html">All Sports Magazines</a></li>
 		</ul>
 	</li>
     
-    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/Category/Category_FD_11_1_26.html">Cooking &amp; Food</a>
+    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/category/category_fd_11_1_26.html">Cooking &amp; Food</a>
 		<ul>
-			<li><a href="/haupt/Category/Category_FD_11_1_26.html" class="top">Cooking &amp; Food</a></li>
-			<li><a href="/haupt/Category/Category_11_CN_1_26.html">General</a></li>
-			<li><a href="/haupt/Category/Category_11_CP_1_26.html">Specialty</a><br></li>
-			<li><a href="/haupt/Category/Category_FD_11_1_26.html">All Food Magazines</a></li>
+			<li><a href="/haupt/category/category_fd_11_1_26.html" class="top">Cooking &amp; Food</a></li>
+			<li><a href="/haupt/category/category_11_cn_1_26.html">General</a></li>
+			<li><a href="/haupt/category/category_11_cp_1_26.html">Specialty</a><br></li>
+			<li><a href="/haupt/category/category_fd_11_1_26.html">All Food Magazines</a></li>
 		</ul>
 	</li>
     
-    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/Category/Category_ED_11_1_26.html">Education</a>
+    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/category/category_ed_11_1_26.html">Education</a>
 		<ul>
-			<li><a href="/haupt/Category/Category_ED_11_1_26.html" class="top">Education</a></li>
-			<li><a href="/haupt/Category/Category_11_E2_1_26.html">For Teachers</a></li>
-			<li><a href="/haupt/Category/Category_11_E1_1_26.html">For Kids</a><br></li>
-			<li><a href="/haupt/Category/Category_ED_11_1_26.html">All Education Magazines</a></li>
+			<li><a href="/haupt/category/category_ed_11_1_26.html" class="top">Education</a></li>
+			<li><a href="/haupt/category/category_11_e2_1_26.html">For Teachers</a></li>
+			<li><a href="/haupt/category/category_11_e1_1_26.html">For Kids</a><br></li>
+			<li><a href="/haupt/category/category_ed_11_1_26.html">All Education Magazines</a></li>
 		</ul>
 	</li>
     
-    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/Category/Category_NP_11_1_26.html">News &amp; Politics</a>
+    <li><img src="/images/flyout_arrow.gif" align="right" alt="Open menu" width="8" height="8" vspace="4"><a href="/haupt/category/category_np_11_1_26.html">News &amp; Politics</a>
 		<ul>
-			<li><a href="/haupt/Category/Category_NP_11_1_26.html" class="top">News &amp; Politics</a></li>
-			<li><a href="/haupt/Category/Category_11_NS_1_26.html">News</a></li>
-			<li><a href="/haupt/Category/Category_11_OP_1_26.html">Opinion</a></li>
-			<li><a href="/haupt/Category/Category_11_PL_1_26.html">Politics</a><br></li>
-			<li><a href="/haupt/Category/Category_NP_11_1_26.html">All News &amp; Politics</a></li>
+			<li><a href="/haupt/category/category_np_11_1_26.html" class="top">News &amp; Politics</a></li>
+			<li><a href="/haupt/category/category_11_ns_1_26.html">News</a></li>
+			<li><a href="/haupt/category/category_11_op_1_26.html">Opinion</a></li>
+			<li><a href="/haupt/category/category_11_pl_1_26.html">Politics</a><br></li>
+			<li><a href="/haupt/category/category_np_11_1_26.html">All News &amp; Politics</a></li>
 		</ul>
 	</li>
     
@@ -518,7 +782,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 					</a>
 			</p>
 	  		<p class="bodymed" style="margin-top: 0; padding-top: 0; margin-left: 4px; margin-bottom: 0; padding-bottom: 0;">
-					<a href="http://www.magazineline.com/magazineline/NewMags.htm">
+					<a href="http://www.magazineline.com/magazineline/newmags.htm">
 						New Magazines
 					</a>
 			</p>
@@ -533,7 +797,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 				</b>
 			</p>
 	  		<p class="bodymed" style="margin-top: 0; padding-top: 0; margin-left: 4px; margin-bottom: 0; padding-bottom: 0;">
-					<a href="/haupt/Category/GiftFinder.aspx?SiteID=26">
+					<a href="/haupt/category/giftfinder.aspx?SiteID=26">
 						Magazine Gift Ideas
 					</a>
 			</p>
@@ -553,68 +817,68 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 	                <span class="bodymed"><b><font color="CC0000">Search Alphabetically:</font></b><br></span>
 	                <img src="../../images/clear.gif" height="5"><br>
 			<span id="AlphaSearch1_DataList_old"><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchA.htm">A</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearcha.htm">A</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchB.htm">B</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchb.htm">B</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchC.htm">C</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchc.htm">C</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchD.htm">D</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchd.htm">D</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchE.htm">E</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearche.htm">E</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchF.htm">F</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchf.htm">F</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchG.htm">G</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchg.htm">G</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchH.htm">H</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchh.htm">H</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchI.htm">I</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchi.htm">I</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchJ.htm">J</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchj.htm">J</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchK.htm">K</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchk.htm">K</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchL.htm">L</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchl.htm">L</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchM.htm">M</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchm.htm">M</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchN.htm">N</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchn.htm">N</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearch.htm"></a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearch.htm"></a> 
 				</span></span>
 				
 			<br>
 			<span id="AlphaSearch2_DataList_old"><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchO.htm">O</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearcho.htm">O</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchP.htm">P</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchp.htm">P</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchQ.htm">Q</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchq.htm">Q</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchR.htm">R</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchr.htm">R</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchS.htm">S</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchs.htm">S</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchT.htm">T</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearcht.htm">T</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchU.htm">U</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchu.htm">U</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchV.htm">V</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchv.htm">V</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchW.htm">W</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchw.htm">W</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchX.htm">X</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchx.htm">X</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchY.htm">Y</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchy.htm">Y</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearchZ.htm">Z</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearchz.htm">Z</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearch0-9.htm">0-9</a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearch0-9.htm">0-9</a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearch.htm"></a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearch.htm"></a> 
 				</span><span>
-					<a href="http://www.magazineline.com/magazineline/AlphaSearch.htm"></a> 
+					<a href="http://www.magazineline.com/magazineline/alphasearch.htm"></a> 
 				</span></span>
 
 	                <img src="../../images/clear.gif" height="5"><br>
@@ -628,15 +892,15 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 			<table>
 				<tbody><tr> 
 					<td valign="top" class="bodymed"><img src="../../images/clear.gif" height="2"><br> 
-			    			<a href="http://www.magazineline.com/magazineline/RangeSearch0.htm" id="RangeLink0_old">Under $10</a><br> 
-			    			<a href="http://www.magazineline.com/magazineline/RangeSearch1.htm" id="RangeLink1_old">$10 to $15</a><br> 
-			    			<a href="http://www.magazineline.com/magazineline/RangeSearch2.htm" id="RangeLink2_old">$15 to $20</a><br> 
-			    			<a href="http://www.magazineline.com/magazineline/RangeSearch3.htm" id="RangeLink3_old">$20 to $25</a>
+			    			<a href="http://www.magazineline.com/magazineline/rangesearch0.htm" id="RangeLink0_old">Under $10</a><br> 
+			    			<a href="http://www.magazineline.com/magazineline/rangesearch1.htm" id="RangeLink1_old">$10 to $15</a><br> 
+			    			<a href="http://www.magazineline.com/magazineline/rangesearch2.htm" id="RangeLink2_old">$15 to $20</a><br> 
+			    			<a href="http://www.magazineline.com/magazineline/rangesearch3.htm" id="RangeLink3_old">$20 to $25</a>
 				      	</td>
 	      				<td valign="top" class="bodymed"><img src="../../images/clear.gif" height="2"><br> &nbsp;&nbsp;
-	    					<a href="http://www.magazineline.com/magazineline/RangeSearch4.htm" id="RangeLink4_old">$25 to $30</a><br> &nbsp;&nbsp;
-		    				<a href="http://www.magazineline.com/magazineline/RangeSearch5.htm" id="RangeLink5_old">$30 to $40</a><br> &nbsp;&nbsp;
-			    			<a href="http://www.magazineline.com/magazineline/RangeSearch6.htm" id="RangeLink6_old">$40 and up</a>
+	    					<a href="http://www.magazineline.com/magazineline/rangesearch4.htm" id="RangeLink4_old">$25 to $30</a><br> &nbsp;&nbsp;
+		    				<a href="http://www.magazineline.com/magazineline/rangesearch5.htm" id="RangeLink5_old">$30 to $40</a><br> &nbsp;&nbsp;
+			    			<a href="http://www.magazineline.com/magazineline/rangesearch6.htm" id="RangeLink6_old">$40 and up</a>
 					</td>
 				</tr>
 			</tbody></table>
@@ -646,13 +910,9 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 
 </form>
 
-<a href="/haupt/Category/GiftFinder.aspx?SiteID=26" id="GiftsLink_old"><img src="../../images/giftbutton.gif" id="GiftsImage_old" border="0"></a><br><a href="http://www.magazineline.com/magazineline/customerservice.htm" id="BenefitsLink_old"><img src="../../images/benefitsboxnew2.gif" id="BenefitsImage_old" border="0"></a>
+<a href="/haupt/Category/giftfinder.aspx?SiteID=26" id="GiftsLink_old"><img src="../../images/giftbutton.gif" id="GiftsImage_old" border="0"></a><br><a href="http://www.magazineline.com/magazineline/customerservice.htm" id="BenefitsLink_old"><img src="../../images/benefitsboxnew2.gif" id="BenefitsImage_old" border="0"></a>
 
 </div>
-</div>
-<script type="text/javascript">
-mboxCreate('2009_10_leftbar');
-</script><div id="mboxMarker-default-2009_10_leftbar-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://americancollegiatema.tt.omtrdc.net/m2/americancollegiatema/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580526674319-943584&amp;mboxPage=1580526680448-430031&amp;mboxCount=1&amp;mbox=2009_10_leftbar&amp;mboxId=0&amp;mboxTime=1580526680477&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20091220040357id_%2Fhttp%253A%2F%2Fwww.magazineline.com%2Fmagazineline%2Fprivacypolicy.htm&amp;mboxReferrer=&amp;mboxVersion=38" language="JavaScript"></script>
 
 <ul id="nav"><li></li></ul> <!-- This empty list is necessary to avoid Javascript errors when testing the left nav bar in Test & Target -->
 
@@ -661,6 +921,12 @@ mboxCreate('2009_10_leftbar');
 <a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=mbrighton" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=mbrighton"></script>
 </div>
 <!-- AddThis Button END -->
+
+
+</div>
+<script type="text/javascript">
+mboxCreate('2009_10_leftbar');
+</script>
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
