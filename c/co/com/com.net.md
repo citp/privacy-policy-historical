@@ -1,20 +1,23 @@
-> *The following text is extracted and transformed from the com.net privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326073135id_/http%3A//com.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the com.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620132128id_/http%3A//www.infoweb.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy, Email, and Spam Statement for http://www.SoGoSearch.com and Related Websites
+# Privacy Policy: InfoWeb.net Information Directory
 
-## Privacy, Email, and Spam Statement for http://www.SoGoSearch.com
+You may also wish to visit the [Policy Page](https://web.archive.org/web/20100620132128id_/http%3A//www.infoweb.net/policy.php) for policies other than privacy.  
 
-SoGoSearch has created this statement in order to demonstrate our firm commitment to privacy, and keeping the Internet Spam-free. It is also intended to answer frequently asked questions that are related to our privacy policy. 
 
-The following statement discloses our information gathering and dissemination practices for this website: http://www.SoGoSearch.com. This privacy policy also applies to all other search engines operated by SoGoSearch unless otherwise noted on the site in question. Such sites include but are not limited to: **infoweb.net, searchrockland.com, sparkill.net**.
+## Privacy, Email, and Spam Statement for infoweb.net Domain
 
-Please note that advertisers on these sites may set cookies, record your access of their advertisements. This data is usually shared among advertisers to help them track your use of the web and target you with relevant advertisements. Such tracking is not specific to SoGoSearch and sister sites, nor does SoGoSearch actively participate in such data collection. If you do not wish to participate in web advertising, there are software utilities that can be used, such as the Sunbelt Kerio PC Firewall, which can be used to block such tracking, and AdAware, which can remove tracking cookies. You may also choose to view ads without such tracking, which is possible by suitably configuring such software. 
+InfoWeb.net has created this statement in order to demonstrate our firm commitment to privacy, and keeping the Internet Spam-free. It is also intended to answer frequently asked questions that are related to our privacy policy. 
+
+The following statement discloses our information gathering and dissemination practices for websites in the InfoWeb.net domain. 
+
+Please note that advertisers on these sites may set cookies, record your access of their advertisements. This data is usually shared among advertisers to help them track your use of the web and target you with relevant advertisements. Such tracking is not specific to InfoWeb.net , nor does InfoWeb.net actively participate in such data collection. If you do not wish to participate in web advertising, there are software utilities that can be used, such as the Sunbelt Kerio PC Firewall, which can be used to block such tracking, and AdAware, which can remove tracking cookies. You may also choose to view ads without such tracking, which is possible by suitably configuring such software but may impair the functionality or experience of using the site. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
-Our site may use cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests. At times, we may use no cookies at all. 
+Our site may use cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests. We use cookies to assist in site navigation and display your most recent search. We also use cookies to prevent abuse of the site. At times, we may use no cookies at all. 
 
-This site contains links to other sites. **http://www.SoGoSearch.com** is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. **InfoWeb.net** is not responsible for the privacy practices or the content of such Web sites.
 
 ## Unsolicited Email ("Spam")
 
@@ -24,7 +27,7 @@ We do not send unsolicited email ("Spam"). We do send email to customers who hav
 
 We do not automatically install software on your computer (including "Malware" or "Spyware"). We do not make changes to the configuration of your computer. 
 
-We operate search engine sites. Some of these sites offer a "customized search tool bar". This software must be downloaded and installed manually by the user. This software does nothing other than provide the convenience of initiating searches from your web browser. It does not collect or transmit information of any kind. It does not contain "Spyware" or "Malware". 
+InfoWeb.net supports OpenSearch. This mechanism is built into the most recent versions of popular web browsers, and allows the user to add the InfoWeb.net search engine to a list of content search providers. We do not, and are unable to, automatically add our site to this list: adding a site requires manual intervention by the user. 
 
 ## Choice/Opt-Out
 
@@ -43,7 +46,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. You can send email via the email panel on the right-hand side of our home page, or by emailing the address that can be found on our [contact page](http://www.mnema.com/contact.html). To prevent spam, direct links to our email address(es) is not included in HTML on our site. We apologize for the inconvenience caused by spammers. 
-  2. send mail to the following postal address:  SoGoSearch, 700 West Nyack Road, West Nyack, NY 10994 
+  2. send mail to the following postal address:  P.O. Box 19, Sparkill, NY 10976 
 
 
 
@@ -56,9 +59,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via: 
 
   1. You can send email via the email panel on the right-hand side of our home page, or by emailing the address that can be found on our [contact page](http://www.mnema.com/contact.html). To prevent spam, direct links to our email address(es) is not included in HTML on our site. We apologize for the inconvenience caused by spammers. 
-  2. send mail to the following postal address:  SoGoSearch, P.O. Box 19, Sparkill, NY 10976 
+  2. send mail to the following postal address:  InfoWeb.net, P.O. Box 19, Sparkill, NY 10976 
 
 
 
 Privacy Policy 12/8/2004 revised 3/10/2008   
-(C) 2005-2008, SoGoSearch 
+(C) 2005-2008, InfoWeb.net 
