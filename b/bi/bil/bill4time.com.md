@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125222918id_/http%3A//www.bill4time.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620071302id_/http%3A//www.bill4time.com/privacy) for the most accurate reproduction.*
 
 # Time Tracking Software - Time Management and Billing Software - Privacy
 
