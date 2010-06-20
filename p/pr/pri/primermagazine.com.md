@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primermagazine.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230043204id_/http%3A//primermagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primermagazine.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620204336id_/http%3A//primermagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Primer
 
@@ -20,4 +20,4 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to contact@primermagazine.com for further clarification.
+Concerns or questions about this privacy policy can be directed to contact (a) primermagazine.com for further clarification.
