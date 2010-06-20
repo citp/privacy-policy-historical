@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203192111id_/http%3A//www.nab.com.au/wps/wcm/connect/nab/nab/home/About_Us/10/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620173824id_/http%3A//www.nab.com.au/wps/wcm/connect/nab/nab/home/About_Us/10/1) for the most accurate reproduction.*
 
 # NAB - National Australia Bank Privacy Policy
 
@@ -154,6 +154,35 @@ If you have any issues you wish to raise with the Group, or would like to discus
 ## Unsubmitted on-line applications.
 
 If I start but do not submit an on-line application, the Bank may contact me/us using the contact method I/we nominate in the application to offer help completing it. This may happen within 24 hours after I/we last enter information into the application. If I/we do not submit the on-line application, the information in it will be kept for 28 days then destroyed.
+
+## Lenders Mortgage Insurance (LMI)
+
+If NAB decides it is required, NAB will apply to the Insurer described below for LMI  for the loan that that I/we have applied for (including any additional finance provided under an existing Bank loan contract) (the “loan”).  NAB and the Insurer may exchange information about me/us and the Insurer may collect information about me/us to enable the Insurer to decide whether to:
+
+  * insure NAB; or
+  * assess the risk of insuring NAB in respect of the loan; or assess the risk of default by me/us on the loan (if insured by the Insurer); or
+  * assess the risk of a guarantor for the loan being unable to meet their liabilities under the guarantee in respect of mortgage finance given by NAB to me/us (the assessment purposes); and also to comply with legislative requirements and for any purpose in connection with the LMI contract between NAB and the Insurer.
+
+
+
+I/we authorise the Insurer to obtain a credit report containing either personal or commercial information about me/us from a credit reporting agency for any of the assessment purposes.
+
+I/we understand that:
+
+  * if my/our information is not provided to the Insurer, NAB may not be in a position to provide the loan;
+  * the Insurer will collect and use my/our information for the purpose of assessing NAB's insurance application, for any other assessment or administration purposes, for purposes connected with the LMI contract between the Insurer and NAB (including any variation to, or claim under, the policy, or enforcing the mortgage relating to the loan) and for the Insurer’s internal management, risk assessment and compliance purposes;
+  * the Insurer will usually disclose my/our information for these purposes to its related companies, NAB, a guarantor or a potential guarantor, reinsurers, credit reporting agencies, its service providers, its agents, contractors and external advisers, my referees (including my employer), my/our legal and financial advisers, mercantile agents (if I/we default on the loan), government and other regulatory bodies, rating agencies, payment systems operators and other financial institutions, securitisers and credit providers;
+  * I/we may access my/our information collected by the Insurer.
+
+
+
+I/we may contact the Insurer by telephone on 1300367764.  I/we authorise the Insurer to collect, use and disclose my/our information in this way.
+
+Insurer means QBE Lenders’ Mortgage Insurance Limited  
+ABN70 000 511 071  
+The Insurer can be contacted at:  
+Level 21, 50 Bridge Street,  
+Sydney NSW 2000
 
 For more information about our Privacy Policy, please call 13 22 65 and select the option to speak to a Customer Service Representative.
 
