@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hincity.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218013525id_/http%3A//www.hincity.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hincity.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620213431id_/http%3A//www.hincity.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # HINcity.com
 
