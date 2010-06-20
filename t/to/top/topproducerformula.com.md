@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topproducerformula.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202113107id_/http%3A//onlinemlmsecrets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topproducerformula.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620080622id_/http%3A//onlinemlmsecrets.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -73,8 +73,8 @@ Privacy Policy Statement
 This is the web site of Empowered Entrepreneurs.
 
 Our postal address is   
-26 hampden rd  
-somers, ct, 06071
+1504 US Highway 395 North #8  
+Gardnerville, Nevada 89410-5273
 
 We can be reached via e-mail at http://www.OnlineMLMSecretsHelp.com  
 or you can reach us by telephone at 480-626-7056
@@ -135,6 +135,6 @@ If you feel that this site is not following its stated information policy, you
 may contact us at the above addresses or phone number.  
 
 
-© 2007 **www.OnlineMLMSecrets.com** , All rights reserved.  
+© 2010 **www.OnlineMLMSecrets.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
 
