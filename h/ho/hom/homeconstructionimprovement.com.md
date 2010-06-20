@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the homeconstructionimprovement.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204030552id_/http%3A//www.homeconstructionimprovement.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeconstructionimprovement.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620190703id_/http%3A//www.homeconstructionimprovement.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
-# Disclaimer & Privacy Policy | Home Construction Improvement
+# Discloser, Disclaimer & Privacy Policies | Home Construction Improvement
 
 This disclaimer, privacy policy and disclosure covers [www.homeconstructionimprovement.com](http://www.homeconstructionimprovement.com/) and all subdirectories and content, collectively known as **Home Construction Improvement** , and operated by Front Steps Media, LLC.
 
-### Disclaimer
+### **Disclaimer**
 
 Information provided on **Home Construction Improvement** does not constitute endorsement of a particular method or reliable instructions for construction, remodeling, proper use of tools, or other home improvements. You should _**always consult a professional**_ and follow product/tool instructions before undertaking a project that you are not qualified to perform. It is possible that information on this site could omit serious safety and health information, or could even be wholly inaccurate. While we never do this intentionally, it is your responsibility to verify information before undertaking a project. If you make use of information on this site, you agree to assume all risks associated with use of that information.
 
-### Privacy Policy
+### **Privacy Policy**
 
 The privacy of our visitors to www.homeconstructionimprovement.com is important to us.
 
@@ -26,14 +26,16 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 ### Discloser
 
-This policy is valid from 08 March 2008
+This policy is valid from 25 February 2010
 
-This blog is a personal blog written and edited by me. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+This blog is a personal blog written and edited by me. For questions about this blog, please contact the [owner](http://www.homeconstructionimprovement.com/contact/).
+
+This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
 The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post may not always be identified as paid or sponsored content.
 
-The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+The owner(s) of this blog is not compensated to provide opinion on products, services, websites and various other topics. The views and opinions expressed on this blog are purely the blog owners. If we claim or appear to be experts on a certain topic or product or service area, we will only endorse products or services that we believe, based on our expertise, are worthy of such endorsement. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer or provider.
 
-This blog does not contain any content which might present a conflict of interest.
+This blog does contain content which might present a conflict of interest. This content may not always be identified.
 
 To get your own policy, go to http://www.disclosurepolicy.org
