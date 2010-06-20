@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the queerty.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603094613id_/http%3A//www.queerty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queerty.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620233040id_/http%3A//www.queerty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Queerty
-
-Privacy Policy
 
 Our privacy policy is pretty simple. We respect yours, especially because without it, we wouldn't be in business. Listen up.
 
