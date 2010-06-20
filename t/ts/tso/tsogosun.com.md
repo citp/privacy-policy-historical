@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tsogosun.com privacy policy that was archived on 2008-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080503234401id_/http%3A//tsogosungaming.tsogosun.co.za/live/content.php%3FItem_ID%3D1490) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsogosun.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621014219id_/http%3A//www.tsogosun.co.za/privacypolicy/pages/default.aspx) for the most accurate reproduction.*
 
-# TSOGO SUN GAMING - Privacy Statement
+# Tsogo Sun Privacy Policy
 
-Tsogo Sun Gaming is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Privacy Policy applies to The Tsogo Sun Gaming Web site and governs data collection and usage. By using Tsogo Sun Gaming website, you consent to the data practices described in this statement.
+By using Tsogo Sun Gaming website, you consent to the data practices described in this statement.
 
 **Collection of your Personal Information**
 
@@ -44,6 +44,4 @@ Tsogo Sun Gaming will occasionally update this Statement of Privacy to reflect c
 
 **Contact Information**
 
-Tsogo Sun Gaming welcomes your comments regarding this Statement of Privacy. If you believe that Tsogo Sun Gaming has not adhered to this Statement, please contact Tsogo Sun Gaming via Tel: (011) 510 7700, Fax: (011) 510 7277  or Email: [webmaster@tsogosun.com](mailto:webmaster@tsogosun.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
-
-BACK TO TOP::
+Tsogo Sun Gaming welcomes your comments regarding this Statement of Privacy. If you believe that Tsogo Sun Gaming has not adhered to this Statement, please contact Tsogo Sun Gaming via Tel: (011)  510 7700, Fax: (011)  510 7277  or Email: [webmaster@tsogosun.com](mailto:webmaster@tsogosun.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
