@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217234748id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621005305id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
 
 # ELATED Privacy Statement
 
