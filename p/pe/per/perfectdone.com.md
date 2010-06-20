@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectdone.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219161233id_/http%3A//www.perfectdone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectdone.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620205726id_/http%3A//www.perfectdone.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
