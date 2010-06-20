@@ -1,46 +1,232 @@
-<!--The following is the downloaded HTML source of the weather.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228145237id_/http%3A//www.weather.com/common/home/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weather.com privacy policy that was archived on 2010-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620165944id_/http%3A//www.weather.com/common/home/privacy.html) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html><html><head>
         <title>weather.com - Privacy Statement</title>
 <script language="JavaScript">var ts_pageid="61042";var ts_pagename="/common/home/privacy.html";var ts_level1="COMMON";var ts_level2="home";var ts_level3="privacy";var ts_level4="";var ts_level5="";var ts_level6="";var ts_contentType="";var ts_detail="";var ts_adCategory="";var ts_adFamily="";var ts_adChannel="";var ts_adSubchannel="";</script>
-		<!-- MJX config controlled by noads -->
-<script type="text/javascript">
-OAS_MJX_on=true;
-OAS_spoof='/noads';
-OAS_listpos='PageCounter';
-OAS_query='';
-CM_tag='no_value';
+		<!-- DFP  -->
+
+<script type="text/javascript" src="http://j.imwx.com/v.20100528.0/global/common/elements/javascript/ext-divtools.js"></script>
+<script src="/common/severe/modules/siteconfig.js"></script>
+<script>
+
+function getASIValue() {
+	var asiVals = [];
+	var asi = GetCookie("rsi_segs");
+	// split on |
+	var vals1 = asi.split('|');
+	for(i=0;i<vals1.length;i++) {
+		// split on _ (take number 2)
+		var vals2 = vals1[i];
+		var tmp = vals2.split('_');
+		asiVals.push(tmp[1]);
+	}
+	return asiVals;
+}
+
+function findAgeRange(age) {
+
+        var ageRange = [];
+        age = parseInt(age, 10);
+        if (isNaN(age)) {
+            return '';
+        }
+        if (age >= 18 && age <= 24) {
+            ageRange.push('1824');
+        }
+        if (age >= 18 && age <= 34) {
+            ageRange.push('1834');
+        }
+        if (age >= 18 && age <= 49) {
+            ageRange.push('1849');
+        }
+        if (age >= 21 && age <= 34) {
+            ageRange.push('2134');
+        }
+        if (age >= 25 && age <= 49) {
+            ageRange.push('2549');
+        }
+        if (age >= 25 && age <= 54) {
+            ageRange.push('2554');
+        }
+        if (age >= 35 && age <= 54) {
+            ageRange.push('3554');
+        }
+        if (age >= 18 && age <= 99) {
+            ageRange.push('18u');
+        }
+        if (age >= 25 && age <= 99) {
+            ageRange.push('25u');
+        }
+        if (age >= 35 && age <= 99) {
+            ageRange.push('35u');
+        }
+        if (age >= 45 && age <= 99) {
+            ageRange.push('45u');
+        }
+        if (age >= 50 && age <= 99) {
+            ageRange.push('50u');
+        }
+        if (age >= 55 && age <= 99) {
+            ageRange.push('55u');
+        }
+        if (age >= 65 && age <= 99) {
+            ageRange.push('65u');
+        }
+        if (age >= 45 && age <= 65) {
+            ageRange.push('bybm');
+        }
+        if (age >= 30 && age <= 44) {
+            ageRange.push('genx');
+        }
+        if (age >= 21 && age <= 29) {
+            ageRange.push('geny');
+        }
+        return ageRange;
+    }
+
+	function getDeclarationDFP(state){
+
+switch(state) {
+        case"AchesAndPains":            return "fam=hlth;ch=pain";break;
+        case"Allergies":                return "fam=hlth;ch=algy";break;
+        case"AirQuality":               return "fam=hlth;ch=airq";break;
+        case"ColdAndFlu":               return "fam=hlth;ch=flu";break;
+        case"SunSafety":                return "fam=hlth;ch=skin";break;
+        case"Fitness":                  return "fam=hlth;ch=fit";break;
+        case"Health":                   return "fam=hlth";break;
+        case"BusinessTravel":           return "fam=trvl;ch=biz";break;
+        case"VacationPlanner":          return "fam=trvl;ch=vac";break;
+        case"Driving":                  return "fam=drv;ch=istate";break;
+        case"SportingEvents":           return "fam=sprts;ch=evt";break;
+        case"Weddings":                 return "fam=hnf;ch=wed";break;
+        case"Golf":                     return "fam=sprts;ch=golf";break;
+        case"Ski":                      return "fam=sprts;ch=ski";break;
+        case"BoatAndBeach":             return "fam=outd;ch=bnb";break;
+        case"Outdoors":                 return "fam=outd;ch=out";break;
+        case"HomePlanner":              return "fam=hnf;ch=home";break;
+        case"Lawn":                     return "fam=hnf;ch=lawn";break;
+        case"Pets":                     return "fam=hnf;ch=pets";break;
+        case"Schoolday":                return "fam=hnf;ch=schd";break;
+        case "LivingSmart":             return "fam=clim;ch=green";break;
+        //family declarations
+        case "Travel":                  return "fam=trvl";break;
+        case "HealthyLiving" :          return "fam=hlth";break;
+        case "OutdoorActivity":         return "fam=outd";break;
+        case "Sports":                  return "fam=sprts";break;
+        case "Climate":                 return "fam=clim";break;
+        case "Home":                    return "fam=hnf";break;
+        default:                        return "";
+        }
+}
+
+	function convertAge(dob) {
+		var d = new Date();
+		var curr_year = d.getFullYear();
+		return curr_year-dob;
+	}
+
+	function getGender() {
+		var tempSex = getUserPreferences("14").toLowerCase();
+		if(tempSex=="f" || tempSex=="m") {
+			return tempSex;
+		} else {
+			return "nl";
+		}
+	}
+
+	/*****  NEW LOGIC FOR DFP *****/
+	if (null == wx) var wx = {};
+
+	// Initial creation of object structure
+	wx.config = {
+	    page: {},
+	    user: {},
+	    ad: {},
+	    loc: {},
+	    wx: {},
+	    bc:[]
+	};
+
+	wx.config.page = {
+		pageId:"",
+		pageURL:"",
+		version:"",
+		sev:gnSiteMode
+	};
+
+	wx.config.user = {
+		age: findAgeRange(convertAge(getUserPreferences("13"))),
+		gender: getGender(),
+		asi: getASIValue(),
+		view: "",
+		cobrand: GetCookie("partner"),
+		decl: getDeclarationDFP(getUserPreferences("16")),
+		entry: "",
+		skin: "",
+		installed: "",
+		claritas: getUserPreferences("33")
+	};
+
+
+	wx.config.loc = {
+		gpr: "",
+		country: "",
+		state: "",
+		dma: "",
+		zip: "",
+		claritas: ""
+	};
+
+	/**** END DFP LOGIC BLOCK ****/
+	wx.config.page.pageId = ts_pageid;
+	wx.config.page.pageURL = ts_pagename;
 </script>
 
+<script src="http://j.imwx.com/v.20100601.1/global/common/elements/javascript/a21.js"></script>
+<script src="http://j.imwx.com/v.20100601.1/common/a21/plugins/a21plugins.js"></script>
+
+
+<script>
+A21.initStatic();
+</script>
+
+
         <!-- externals static version 06.17.2009 @ 12:50PM -->
+
+
 <script type="text/javascript">
+var OAS_query ='';
+var gnSiteMode='';
 	// Global Cache busting section
 			// Global Cache busting section
 	// 
 	// <% /**
-		var remoteAddr="172.16.183.25";
+		var remoteAddr="172.16.118.30";
 		 
-		var cssSpot = '/v.20091124.2';
-		var extdivtoolsVAR = '/v.20091124.2';
+		var cssSpot = '/v.20100602.1';
+		var extdivtoolsVAR = '/v.20100528.0';
 		var triggerParamsstdLauncherVAR = '/v.20081017.0';
 		var bust_hat='/v.20080116.1';
-		var bust_hpCSS='/v.20081117.0';
+		var bust_hpCSS='/v.20100304.2';
 		var bust_globalNav='/v.20090519.3';
 		var bust_headerNavYUITypeAhead='/v.20090313.1';
 		var bust_recentSearch='/v.20090114.0';
-		var bust_s_code='/v.20081117.0';
+		var bust_s_code='/v.20100518.2';
 		var bust_typeAhead='/v.20090313.11';
 		var bust_swfObject='/v.20081117.0';
 		var bust_flCheckFlookie='/v.20081117.0';
 		var bust_eventBroadcaster='/v.20081125.0';
 	// **/ %>
 
-	 var css='style_sheet.css';if(typeof(pageType)!="undefined"&&pageType=="920"){css="global.css";}
+	 var css='style_sheet.css';if(typeof(pageType)!="undefined"&&(pageType=="920" || pageType=="980")){css="global.css";}
+	 if(typeof(pagetype)!="undefined"&&(pagetype=="980")){css="global.css";}
 	if(typeof(usingGrids)!="undefined"&&usingGrids=="yes"){css="global_grids.css";}
-	document.write('<LI'+'NK REL="style'+'sheet" TYPE="text/css"  HREF="http://c.imwx.com'+cssSpot+'/web/common/header/stylesheet/'+css+'">');	document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com'+extdivtoolsVAR+'/global/common/elements/javascript/ext-divtools.js" ></scr'+'ipt>');
+	document.write('<LI'+'NK REL="style'+'sheet" TYPE="text/css"  HREF="http://c.imwx.com'+cssSpot+'/web/common/header/stylesheet/'+css+'">');	if(window.location.pathname.indexOf("/map/interactive")>=0 || window.location.pathname.indexOf("/weather/hugme")>=0) {
+		document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com' + extdivtoolsVAR + '/global/common/elements/javascript/ext-divtools.js" ></scr'+'ipt>');
+	}
 	document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com'+triggerParamsstdLauncherVAR+'/global/common/elements/javascript/triggerParams-stdLauncher.js" ></scr'+'ipt>');
-</script><link rel="stylesheet" type="text/css" href="http://c.imwx.com/v.20091124.2/web/common/header/stylesheet/style_sheet.css"><script type="text/javascript" src="http://j.imwx.com/v.20091124.2/global/common/elements/javascript/ext-divtools.js"></script><script type="text/javascript" src="http://j.imwx.com/v.20081017.0/global/common/elements/javascript/triggerParams-stdLauncher.js"></script>
+</script><link rel="stylesheet" type="text/css" href="http://c.imwx.com/v.20100602.1/web/common/header/stylesheet/style_sheet.css"><script type="text/javascript" src="http://j.imwx.com/v.20081017.0/global/common/elements/javascript/triggerParams-stdLauncher.js"></script>
 <!--[if IE 6]>
 <style type="text/css">
 img.transparent{behavior: url(/common/scripts/pngTransparent.htc);}
@@ -75,16 +261,19 @@ function initialize_ad_array(adS)
   adS['adstest.epic.weather.com'] = new Array('adstest.weather.com','http://adstest.weather.com/RealMedia/a'+'ds/');
 }
 
+
+
+
 // -->
 </script>
 
-<script type="text/javascript" src="/common/severe/modules/siteconfig.js"></script>
+
 
 <script type="text/javascript">
 
 <!--
 
-var adTest=GetCookie("oas_host_cookie");
+var adTest="";
 
 function regenerate2(){return;}
 
@@ -105,6 +294,7 @@ if (adS[OAS_host]){OAS_url=adS[OAS_host][1];OAS_host = adS[OAS_host][0];
 }else{OAS_host='www.weather.com';}
 
 // special ads test code
+/*
 if (adTest)
 {
     if ((remoteAddr.indexOf("10.") == 0)||
@@ -115,7 +305,7 @@ if (adTest)
 	 OAS_host=adTest;
        }
   }
-
+*/
 OAS_target="_top";OAS_version=10;OAS_rn='001234567890';OAS_rns='1234567890';
 OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring(2,11);
 function OAS_NORMAL(pos) {
@@ -132,7 +322,7 @@ return queryString[key];}
 	parseParameter();
 
 // Function to replace %CONTEXT% in i-maps page
-if(typeof(OAS_query)!='undefined') {
+if(typeof(OAS_query)!='undefined' && OAS_query!="") {
 	
 	OAS_query = OAS_query.replace("%CONTEXT%",getImapDec(getUserPreferences("16")));
 }
@@ -166,10 +356,37 @@ function getImapDec(state) {
 
 
 
-if(typeof(OAS_query)=='undefined'){}else{var partnerCookie=GetCookie("partner");if(partnerCookie == 'google') {if(GetCookie("pCounter")!= 1) {SetCookie ("pCounter", "1", "", "/", ".weather.com");}}var idType=searchTermType();var fromParam=paramValue('from');var dwcobrand=paramValue('dwcobrand');var byear=getUserPreferences("13");var age=0;var gender=getUserPreferences("14");if(byear.length>0&&gender.length>0){var oq=OAS_query;var now=new Date();var thisYear=now.getFullYear();age=thisYear-Number(byear);if(oq==""){oq="age="+age+"&gender="+gender.toLowerCase();}else{oq=oq+"&age="+age+"&gender="+gender.toLowerCase();}if(partnerCookie!=''){oq=oq+"&cobrand="+partnerCookie;}if(partnerCookie==''&&dwcobrand!='undefined'){oq=oq+"&cobrand="+dwcobrand;}if(idType!=''){oq=oq+"&idtype="+idType;}if(fromParam == 'homedepot'){oq=oq+"&vanity=homedepot";}if(gnSiteMode=='severe'){/*oq=oq+"&mode=severe"*/}else if(gnSiteMode=='alert'){/*oq=oq+"&mode=alert"*/}else{/*oq=oq+"&mode=normal"*/}var gotFV=GetCookie("fv");if(gotFV.length > 0){currentCount = parseInt(gotFV);if(currentCount==-1){}else{viewNumber = currentCount + 1;if(viewNumber > 3)viewNumber = -1;SetCookie ("fv", viewNumber,"", "/", ".weather.com");}}else{SetCookie ("fv", 1,"", "/", ".weather.com");}var gotFV = GetCookie("fv");
+if(typeof(OAS_query)=='undefined' && OAS_query!=""){}else{var partnerCookie=GetCookie("partner");if(partnerCookie == 'google') {if(GetCookie("pCounter")!= 1) {SetCookie ("pCounter", "1", "", "/", ".weather.com");}}var idType=searchTermType();
+
+var tempFromCookie = GetCookie('fromStr');
+var paramFromVal = paramValue('from');
+var fromParam ="";
+if(paramFromVal!="" && paramFromVal != null && paramFromVal !="undefined") {
+	fromParam=paramValue('from');
+} else if(tempFromCookie.length>0 && tempFromCookie!="undefined") {
+	fromParam=tempFromCookie; 
+} else {
+	fromParam = "";
+}
+
+var dwcobrand=paramValue('dwcobrand');var byear=getUserPreferences("13");var age=0;var gender=getUserPreferences("14");if(byear.length>0&&gender.length>0){var oq=OAS_query;var now=new Date();var thisYear=now.getFullYear();age=thisYear-Number(byear);if(oq==""){oq="age="+age+"&gender="+gender.toLowerCase();}else{oq=oq+"&age="+age+"&gender="+gender.toLowerCase();}if(partnerCookie!=''){oq=oq+"&cobrand="+partnerCookie;}if(partnerCookie==''&&dwcobrand!='undefined'){oq=oq+"&cobrand="+dwcobrand;}if(idType!=''){oq=oq+"&idtype="+idType;}if(fromParam == 'homedepot'){oq=oq+"&vanity=homedepot";}if(gnSiteMode=='severe'){/*oq=oq+"&mode=severe"*/}else if(gnSiteMode=='alert'){/*oq=oq+"&mode=alert"*/}else{/*oq=oq+"&mode=normal"*/}var gotFV=GetCookie("fv");if(gotFV.length > 0){currentCount = parseInt(gotFV);if(currentCount==-1){}else{viewNumber = currentCount + 1;if(viewNumber > 3)viewNumber = -1;SetCookie ("fv", viewNumber,"", "/", ".weather.com");}}else{SetCookie ("fv", 1,"", "/", ".weather.com");}var gotFV = GetCookie("fv");
 if(gotFV.length>0){oq=oq+"&vw="+gotFV;}OAS_query=oq;}}
 
-function updAdsTwoOASQuery() {if(typeof(OAS_query)=='undefined'){}else{var partnerCookie=GetCookie("partner");if(partnerCookie == 'google') {if(GetCookie("pCounter")!= 1) {SetCookie ("pCounter", "1", "", "/", ".weather.com");}}var idType=searchTermType();var fromParam=paramValue('from');var dwcobrand=paramValue('dwcobrand');var byear=getUserPreferences("13");var age=0;var gender=getUserPreferences("14");if(byear.length>0&&gender.length>0){var oq=OAS_query;var now=new Date();var thisYear=now.getFullYear();age=thisYear-Number(byear);if(oq==""){oq="age="+age+"&gender="+gender.toLowerCase();}else{oq=oq+"&age="+age+"&gender="+gender.toLowerCase();}if(partnerCookie!=''){oq=oq+"&cobrand="+partnerCookie;}if(partnerCookie==''&&dwcobrand!='undefined'){oq=oq+"&cobrand="+dwcobrand;}
+function updAdsTwoOASQuery() {if(typeof(OAS_query)=='undefined' && OAS_query!=""){}else{var partnerCookie=GetCookie("partner");if(partnerCookie == 'google') {if(GetCookie("pCounter")!= 1) {SetCookie ("pCounter", "1", "", "/", ".weather.com");}}var idType=searchTermType();
+
+var tempFromCookie = GetCookie('fromStr');
+var paramFromVal = paramValue('from');
+var fromParam ="";
+if(paramFromVal!="" && paramFromVal != null && paramFromVal !="undefined") {
+	fromParam=paramValue('from');
+} else if(tempFromCookie.length>0 && tempFromCookie!="undefined") {
+	fromParam=tempFromCookie; 
+} else {
+	fromParam = "";
+}
+
+
+var dwcobrand=paramValue('dwcobrand');var byear=getUserPreferences("13");var age=0;var gender=getUserPreferences("14");if(byear.length>0&&gender.length>0){var oq=OAS_query;var now=new Date();var thisYear=now.getFullYear();age=thisYear-Number(byear);if(oq==""){oq="age="+age+"&gender="+gender.toLowerCase();}else{oq=oq+"&age="+age+"&gender="+gender.toLowerCase();}if(partnerCookie!=''){oq=oq+"&cobrand="+partnerCookie;}if(partnerCookie==''&&dwcobrand!='undefined'){oq=oq+"&cobrand="+dwcobrand;}
 if(idType!=''){oq=oq+"&idtype="+idType;}if(fromParam == 'homedepot'){oq=oq+"&vanity=homedepot";}if(gnSiteMode=='severe'){/*oq=oq+"&mode=severe"*/}else if(gnSiteMode=='alert'){/*oq=oq+"&mode=alert"*/}else{/*oq=oq+"&mode=normal"*/}var gotFV=GetCookie("fv");if(gotFV.length > 0){currentCount = parseInt(gotFV);if(currentCount==-1){}else{viewNumber = currentCount + 1;if(viewNumber > 3)viewNumber = -1;SetCookie ("fv", viewNumber,"", "/", ".weather.com");}}else{SetCookie ("fv", 1,"", "/", ".weather.com");}
 var gotFV = GetCookie("fv");if(gotFV.length>0){var findFv= oq.indexOf("vw=");if (findFv ==-1){oq=oq+"&vw="+gotFV;}else{oq=oq.substring(0,findFv) + "vw=" + gotFV;}}OAS_query=oq;}}}
 	
@@ -181,7 +398,7 @@ if(customization_pathname==0){var myPrefsCookie=GetCookie("MyPrefs");if(myPrefsC
 //-->
 </script>
 <script type="text/javascript">
-if(typeof(OAS_query)=='undefined'){
+if(typeof(OAS_query)=='undefined' && OAS_query!=""){
 } else {
 	if(OAS_query.indexOf("mode=") != -1) {
 	} else {
@@ -208,8 +425,39 @@ if(typeof(gnSiteMode)=='undefined'){
 	  }
 	}
 }
-function getDeclaration(state){switch(state)
-{case"AchesAndPains":return"hlth_pain";break;case"Allergies":return"htlh_algy";break;case"AirQuality":return"hlth_brth";break;case"ColdAndFlu":return"htlh_flu";break;case"SunSafety":return"hlth_skin";break;case"Fitness":return"hlth_fit";break;case"Health":return"hlth_genhlth";break;case"BusinessTravel":return"trvl_btrav";break;case"VacationPlanner":return"trvl_vac";break;case"Driving":return"drv_intst";break;case"SportingEvents":return"evt_sport";break;case"Weddings":return"evt_wed";break;case"Golf":return"recr_golf";break;case"Ski":return"recr_ski";break;case"BoatAndBeach":return"recr_boat";break;case"Outdoors":return"recr_outd";break;case"HomePlanner":return"hng_home";break;case"Lawn":return"hng_gard";break;case"Pets":return"hng_pets";break;case"Schoolday":return"hng_schdy";break;default:return"undcl";}}
+function getDeclaration(state){
+switch(state) {
+	case"AchesAndPains":	return "hlth_pain";break;
+	case"Allergies":		return "hlth_algy";break;
+	case"AirQuality":		return "hlth_brth";break;
+	case"ColdAndFlu":		return "hlth_flu";break;
+	case"SunSafety":		return "hlth_skin";break;
+	case"Fitness":			return "hlth_fit";break;
+	case"Health":			return "hlth_genhlth";break;
+	case"BusinessTravel":	return "trvl_btrav";break;
+	case"VacationPlanner":	return "trvl_vac";break;
+	case"Driving":			return "drv_intst";break;
+	case"SportingEvents":	return "sprts_evnts";break;
+	case"Weddings":			return "hnf_wed";break;
+	case"Golf":				return "sprts_golf";break;
+	case"Ski":				return "sprts_ski";break;
+	case"BoatAndBeach":		return "outd_boat";break;
+	case"Outdoors":			return "outd_outd";break;
+	case"HomePlanner":		return "hnf_home";break;
+	case"Lawn":				return "hnf_gard";break;
+	case"Pets":				return "hnf_pets";break;
+	case"Schoolday":		return "hnf_schdy";break;
+	case "LivingSmart":		return "clim_green";break;
+	//family declarations
+	case "Travel": 			return "trvl_none";break;
+	case "HealthyLiving" : 	return "hlth_none";break;
+	case "OutdoorActivity": return "outd_none";break;
+	case "Sports":			return "sprts_none";break;
+	case "Climate":			return "clim_none";break;
+	case "Home":			return "hnf_none";break;
+	default:				return "undcl";
+	}
+}
 var trans_dec=getDeclaration(getUserPreferences("16"));var rsi_segs=GetCookie("rsi_segs");var rsi_array=new Array();var rsi_clean_array=new Array();var ad_itemsArray=new Array();rsi_array=rsi_segs.split("|");for(var i=0;i<rsi_array.length;i++){rsi_clean_array.push(rsi_array[i].slice(7));}
 rsi=rsi_clean_array.join('&rsi=');function filterNum(str){var temp=str;temp=temp.replace(/[^a-zA-Z 0-9]+/g,'_');temp=temp.replace(/\s/g,'_');temp=temp.toLowerCase();return temp;}
 if(trans_dec!=""){ad_itemsArray.push("dec="+trans_dec);}
@@ -221,6 +469,8 @@ if(getUserPreferences("32")!=""){ad_itemsArray.push("zip="+getUserPreferences("3
 if(getUserPreferences("33")!=""){ad_itemsArray.push("cid="+getUserPreferences("33"));}
 if(rsi!=""&&rsi!=" "){ad_itemsArray.push("rsi="+rsi);}
 if(typeof(OAS_query)!='undefined'){OAS_query=OAS_query+"&"+ad_itemsArray.join('&');}
+
+
 
 <!--
 if(typeof(provider)!='undefined'){
@@ -254,9 +504,19 @@ var pageName = new String(window.location.pathname);
 </script>
 <script type="text/javascript">
 var mx_hash=new Object();
-mx_hash["cobrand"]=partnerCookie;if(typeof(ts_pagename)!='undefined'){mx_hash["pagename"]=ts_pagename;}else{mx_hash["pagename"]="";}if(typeof(ts_level1)!='undefined'){mx_hash["level1"]=ts_level1;}else{mx_hash["level1"]="UNCATEGORIZED";}if(typeof(ts_level2)!='undefined'){mx_hash["level2"]=ts_level2;}else{mx_hash["level2"]="";}if(typeof(ts_level3)!='undefined'){mx_hash["level3"]=ts_level3;}else{mx_hash["level3"]="";}if(typeof(ts_level4)!='undefined'){mx_hash["level4"]=ts_level4;}else{mx_hash["level4"]="";}if(typeof(ts_level5)!='undefined'){mx_hash["level5"]=ts_level5;}else{mx_hash["level5"]="";}if(typeof(ts_level6)!='undefined'){mx_hash["level6"]=ts_level6;}else{mx_hash["level6"]="";}if(typeof(ts_detail)!='undefined'){mx_hash["detail"]=ts_detail;}else{mx_hash["detail"]="";}if(typeof(ts_adCategory)!='undefined'){mx_hash["ad_category"]=ts_adCategory;}else{mx_hash["adCategory"]="";}if(typeof(ts_contentType)!='undefined'){mx_hash["content_type"]=ts_contentType;}else{mx_hash["content_type"]="";}if(typeof(ts_adFamily)!='undefined'){mx_hash["ad_family"]=ts_adFamily;}else{mx_hash["ad_family"]="";}if(typeof(ts_adChannel)!='undefined'){mx_hash["ad_channel"]=ts_adChannel;}else{mx_hash["ad_channel"]="";}mx_hash["declaration_state"]=getUserPreferences("16");mx_hash["urg"]=getUserPreferences("14");mx_hash["ura"]=getUserPreferences("13");mx_hash["urz"]=getUserPreferences("23");if(typeof(OAS_query)!='undefined'){var matchCondition=new RegExp(/cond=\w*/gi);condition=OAS_query.match(matchCondition);if(condition!=null){mx_hash["wxcond"]=condition[0].replace(/cond=/,"");}}if(typeof(OAS_query)!='undefined'){var matchContext=new RegExp(/context=\w*/gi);context=OAS_query.match(matchContext);if(context!=null){mx_hash["oas_context"]=context[0].replace(/context=/,"");}}if(typeof(OAS_query)!='undefined'){var matchSevere=new RegExp(/severe=\w*/gi);severeCondition=OAS_query.match(matchSevere);if(severeCondition!=null){mx_hash["severe"]=severeCondition[0].replace(/severe=/,"");}}if(typeof(omn_locid)!='undefined'){mx_hash["locid"]=omn_locid;}else{mx_hash["locid"]="";}if(typeof(omn_locytpe)!='undefined'){mx_hash["loctype"]=omn_locytpe;}else{mx_hash["loctype"]="";}if(typeof(omn_locname)!='undefined'){mx_hash["locname"]=omn_locname;}else{mx_hash["locname"]="";}if(typeof(omn_cityName)!='undefined'){mx_hash["city"]=omn_cityName;}else{mx_hash["city"]="";}if(typeof(omn_locstate)!='undefined'){mx_hash["state"]=omn_locstate;}else{mx_hash["state"]="";}if(typeof(omn_zipcode)!='undefined'){mx_hash["zipcode"]=omn_zipcode;}else{mx_hash["zipcode"]="";}if(typeof(omn_loccountry)!='undefined'){mx_hash["country"]=omn_loccountry;}else{mx_hash["country"]="";}if(typeof(omn_dmaCode)!='undefined'){mx_hash["dma"]=omn_dmaCode;}else{mx_hash["dma"]="";}var categoryID="";if(typeof(ts_level1)!=""){categoryID=mx_hash["level1"];}if(typeof(ts_level2)!=""){categoryID=categoryID+"-"+mx_hash["level2"];}if(typeof(ts_level3)!=""){categoryID=categoryID+"-"+mx_hash["level3"];}if(typeof(ts_level4)!=""){categoryID=categoryID+"-"+mx_hash["level4"];}mx_hash["category_id"]=categoryID;mx_hash["refurl"]=document.referrer;mx_hash["desturl"]=document.URL;mx_hash["rm_id"]=GetCookie("RMID");mx_hash["urs_id"]=getUserPreferences("2");if(typeof(gnSiteMode)!=""){mx_hash["sitemode"]=gnSiteMode;}else{mx_hash["sitemode"]="";}if(typeof(OAS_spoof)!='undefined'){mx_hash["oas_spoof"]=OAS_spoof;}else{mx_hash["oas_spoof"]="";}mx_hash["qstring_hash"]=queryString;if(GetCookie("partner")=="beta2"){mx_hash["beta_flag"]="beta";}else{mx_hash["beta_flag"]="prod";}if(typeof(fromParam)!='undefined'){mx_hash["from"]=fromParam;}else{mx_hash["from"]="";}mx_hash["pagination"]="";if(typeof(page_keywords)!='undefined'){mx_hash["page_kw"]=page_keywords;}else{mx_hash["page_kw"]="";}if(typeof(page_params)!='undefined'){mx_hash["page_prms"]=page_params;}else{mx_hash["page_prms"]="";}if(typeof(ad_size)!='undefined'){mx_hash["page_adsize"]=ad_size;}else{mx_hash["page_adsize"]="";}
+mx_hash["cobrand"]=partnerCookie;if(typeof(ts_pagename)!='undefined'){mx_hash["pagename"]=ts_pagename;}else{mx_hash["pagename"]="";}if(typeof(ts_level1)!='undefined'){mx_hash["level1"]=ts_level1;}else{mx_hash["level1"]="UNCATEGORIZED";}if(typeof(ts_level2)!='undefined'){mx_hash["level2"]=ts_level2;}else{mx_hash["level2"]="";}if(typeof(ts_level3)!='undefined'){mx_hash["level3"]=ts_level3;}else{mx_hash["level3"]="";}if(typeof(ts_level4)!='undefined'){mx_hash["level4"]=ts_level4;}else{mx_hash["level4"]="";}if(typeof(ts_level5)!='undefined'){mx_hash["level5"]=ts_level5;}else{mx_hash["level5"]="";}if(typeof(ts_level6)!='undefined'){mx_hash["level6"]=ts_level6;}else{mx_hash["level6"]="";}if(typeof(ts_detail)!='undefined'){mx_hash["detail"]=ts_detail;}else{mx_hash["detail"]="";}if(typeof(ts_adCategory)!='undefined'){mx_hash["ad_category"]=ts_adCategory;}else{mx_hash["adCategory"]="";}if(typeof(ts_contentType)!='undefined'){mx_hash["content_type"]=ts_contentType;}else{mx_hash["content_type"]="";}if(typeof(ts_adFamily)!='undefined'){mx_hash["ad_family"]=ts_adFamily;}else{mx_hash["ad_family"]="";}if(typeof(ts_adChannel)!='undefined'){mx_hash["ad_channel"]=ts_adChannel;}else{mx_hash["ad_channel"]="";}mx_hash["declaration_state"]=getUserPreferences("16");mx_hash["urg"]=getUserPreferences("14");mx_hash["ura"]=getUserPreferences("13");mx_hash["urz"]=getUserPreferences("23");if(typeof(OAS_query)!='undefined'){var matchCondition=new RegExp(/cond=\w*/gi);condition=OAS_query.match(matchCondition);if(condition!=null){mx_hash["wxcond"]=condition[0].replace(/cond=/,"");}}if(typeof(OAS_query)!='undefined'){var matchContext=new RegExp(/context=\w*/gi);context=OAS_query.match(matchContext);if(context!=null){mx_hash["oas_context"]=context[0].replace(/context=/,"");}}if(typeof(OAS_query)!='undefined'){var matchSevere=new RegExp(/severe=\w*/gi);severeCondition=OAS_query.match(matchSevere);if(severeCondition!=null){mx_hash["severe"]=severeCondition[0].replace(/severe=/,"");}}if(typeof(omn_locid)!='undefined'){mx_hash["locid"]=omn_locid;}else{mx_hash["locid"]="";}if(typeof(omn_locytpe)!='undefined'){mx_hash["loctype"]=omn_locytpe;}else{mx_hash["loctype"]="";}if(typeof(omn_locname)!='undefined'){mx_hash["locname"]=omn_locname;}else{mx_hash["locname"]="";}if(typeof(omn_cityName)!='undefined'){mx_hash["city"]=omn_cityName;}else{mx_hash["city"]="";}if(typeof(omn_locstate)!='undefined'){mx_hash["state"]=omn_locstate;}else{mx_hash["state"]="";}if(typeof(omn_zipcode)!='undefined'){mx_hash["zipcode"]=omn_zipcode;}else{mx_hash["zipcode"]="";}if(typeof(omn_loccountry)!='undefined'){mx_hash["country"]=omn_loccountry;}else{mx_hash["country"]="";}if(typeof(omn_dmaCode)!='undefined'){mx_hash["dma"]=omn_dmaCode;}else{mx_hash["dma"]="";}var categoryID="";if(typeof(ts_level1)!=""){categoryID=mx_hash["level1"];}if(typeof(ts_level2)!=""){categoryID=categoryID+"-"+mx_hash["level2"];}if(typeof(ts_level3)!=""){categoryID=categoryID+"-"+mx_hash["level3"];}if(typeof(ts_level4)!=""){categoryID=categoryID+"-"+mx_hash["level4"];}mx_hash["category_id"]=categoryID;mx_hash["refurl"]=document.referrer;mx_hash["desturl"]=document.URL;mx_hash["rm_id"]=GetCookie("RMID");mx_hash["urs_id"]=getUserPreferences("2");if(typeof(gnSiteMode)!=""){mx_hash["sitemode"]=gnSiteMode;}else{mx_hash["sitemode"]="";}if(typeof(OAS_spoof)!='undefined'){mx_hash["oas_spoof"]=OAS_spoof;}else{mx_hash["oas_spoof"]="";}mx_hash["qstring_hash"]=queryString;if(GetCookie("partner")=="beta2"){mx_hash["beta_flag"]="beta";}else{mx_hash["beta_flag"]="prod";}
+
+if(typeof(fromParam)!='undefined') {
+	mx_hash["from"]=fromParam;
+} else {
+	mx_hash["from"]=GetCookie("fromStr");/*fromParam;*/
+}
+
+mx_hash["pagination"]="";if(typeof(page_keywords)!='undefined'){mx_hash["page_kw"]=page_keywords;}else{mx_hash["page_kw"]="";}if(typeof(page_params)!='undefined'){mx_hash["page_prms"]=page_params;}else{mx_hash["page_prms"]="";}if(typeof(ad_size)!='undefined'){mx_hash["page_adsize"]=ad_size;}else{mx_hash["page_adsize"]="";}
 
 mx_hash["current_rsi"] = GetCookie("rsi_segs");mx_hash["current_cc"] = getUserPreferences("28");mx_hash["current_st"] = getUserPreferences("29");mx_hash["current_dma"] = getUserPreferences("30");mx_hash["current_ct"] = getUserPreferences("31");mx_hash["current_zip"] = getUserPreferences("32");mx_hash["current_cid"] = getUserPreferences("33");mx_hash["current_dec"] = trans_dec;
+
+
 </script>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
@@ -272,7 +532,39 @@ function actionLib(actionID) {
 
 <!-- Setting the season string to be used sitewide -->
 
-<!-- BEGIN COBRAND -->
+<!-- BEGIN COBRAND 1.2 -->
+<!-- begin ie6 bar -->
+<script type="text/javascript">
+if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){ 
+ var ieversion=new Number(RegExp.$1) 
+ if (ieversion=='6'){
+document.write('<style>')
+document.write('#ie6nSupport {width:920px;height:50px;background-color:#333;}')
+document.write('.ie6nSupportInner {background:#333 url(http://s.imwx.com/img/module/upgrade-ie-lrg.gif) left 5px no-repeat;padding-top:5px; width:970px;height:40px;margin-left:auto;margin-right:auto;}')
+document.write('.ie6nSupportMar {padding-top:3px;}')
+document.write('.ie6nSupportContainer {float:right;margin-top:1px}')
+document.write('.ieContent {float:left;cursor:pointer}')
+document.write('.browserIE {width:155px;height:35px;margin-right:5px;}')
+document.write('.browserFF {width:105px;height:35px;margin-right:20px;}')
+document.write('.browserClose {width:17px;height:17px;margin-right:6px;vertical-align:top;margin-top:2px;}')
+document.write('</style>')
+
+function hideIENA()
+{document.getElementById('ie6nSupport').style.display = 'none';}
+document.write('<div id="ie6nSupport">')
+document.write('<center>')
+document.write(' <div class="ie6nSupportInner">')
+document.write('<div class="ie6nSupportMar">')
+document.write('<div class="ie6nSupportContainer">')
+document.write('<a href="http://www.microsoft.com/windows/Internet-explorer/default.aspx" target="_blank" from="IE6messaging_IEupgrade"><div class="ieContent browserIE" ></div></a>')
+document.write('<a href="http://www.mozilla.com/en-US/firefox/ie.html" target="_blank" from="IE6messaging_FFupgrade"><div class="ieContent browserFF"></div></a>')
+document.write('<div class="ieContent browserClose" onclick="hideIENA();"></div>')
+document.write('</div></div></div></center></div>')
+}
+}
+</script>
+<!-- begin ie6 bar -->
+
 <script language="JavaScript1.2">
 <!--
 if (document.referrer) {
@@ -291,6 +583,8 @@ if (thisDF.search(/usatoday.com/) != -1) {
 
 
 <img src="http://i.imwx.com/web/blank.gif" width="1" height="2" alt="" border="0"><br>
+
+
 <!--<script src="http://j.imwx.com/common/urs/md5.js"></script>-->
 <table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><div id="parent">
 <!-- BEGIN Global Sites Include File -->
@@ -436,16 +730,34 @@ if (thisDF.search(/usatoday.com/) != -1) {
 									</script>
 <!-- END Global Sites Include File -->
 
+
+
 <!-- call server for data -->
 <script type="text/javascript">
 document.write('<scr'+'ipt src="http://j.imwx.com'+bust_globalNav+'/common/header/javascript/globalnav.js"></scr'+'ipt>');
+
+</script><script src="http://j.imwx.com/v.20090519.3/common/header/javascript/globalnav.js"></script>
+<script type="text/javascript">
+
 var getTwcLocId=getUserPreferences("11");
 var getHugmeLocationType=getUserPreferences("22");
+
 if (getTwcLocId && getTwcLocId!=" " && getHugmeLocationType && getHugmeLocationType!=" " && window.location.hostname.match("community.weather.com") == null){
-var hugmecall="http://www.weather.com/weather/mpdwcr/hugmedata?" + getTwcLocId;
-document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.2 SRC="'+hugmecall+'"><\/script>');}
+	var hugmecall="http://www.weather.com/weather/mpdwcr/hugmedata?" + getTwcLocId;
+	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.2 SRC="'+hugmecall+'"><\/script>');
+}
+</script>
+
+<script type="text/javascript">
+setUserPreferences("22","4");
+</script>
+
+<script type="text/javascript">
+
 if (window.location.hostname.match("community.weather.com") == null){document.write('<scr' + 'ipt type="text/javascript"src="http://j.imwx.com'+bust_hat+'/common/header/javascript/hat.js"><\/script>');}
-</script><script src="http://j.imwx.com/v.20090519.3/common/header/javascript/globalnav.js"></script>
+</script><script type="text/javascript" src="http://j.imwx.com/v.20080116.1/common/header/javascript/hat.js"></script>
+
+
 
 
 <!-- BEGIN THE PRIMARY NAVIGATION -->
@@ -465,7 +777,7 @@ if (window.location.hostname.match("community.weather.com") == null){document.wr
 <!-- begin the secondary navigation -->
 
 			</tr>
-            </tbody></table>							<div id="hdMI0" class="navSecond navSecondDown" onmouseover="hdNav.up(0)" onmouseout="hdNav.down(0)">																																							<a id="home_my_page" href="http://www.weather.com/weather/my/" from="secondarynav">My Page</a>																								<a id="home_weather.com_gold" href="http://www.weather.com/services/weathergold.html" from="secondarynav">weather.com Gold</a>																								<a id="home_site_map" href="http://www.weather.com/common/home/siteindex.html" from="secondarynav">Site Map</a>																												</div>					<div id="hdMI1" class="navSecond navSecondDown" onmouseover="hdNav.up(1)" onmouseout="hdNav.down(1)">																																								<a id="weather_news_national_forecast" href="http://www.weather.com/newscenter/fcstsummary.html" from="secondarynav">National Forecast</a>																								<a id="weather_news_weather_maps" href="http://www.weather.com/maps/travel.html" from="secondarynav">Weather Maps</a>																								<a id="weather_news_hurricane" href="http://www.weather.com/newscenter/hurricanecentral/" from="secondarynav">Hurricane</a>																								<a id="weather_news_severe_weather" href="http://www.weather.com/newscenter/stormwatch/" from="secondarynav">Severe Weather</a>																								<a id="weather_news_alerts" href="http://www.weather.com/newscenter/alerts/national/severeWxAlertsNational.html" from="secondarynav">Alerts</a>																								<a id="weather_news_agriculture_news_&amp;_forecast" href="http://www.weather.com/outlook/agriculture/" from="secondarynav">Agriculture News &amp; Forecast</a>																								<a id="weather_news_blogs" href="http://www.weather.com/blog/weather/" from="secondarynav">Blogs</a>																								<a id="weather_news_local_guides" href="http://www.weather.com/localguides/index.html" from="secondarynav">Local Guides</a>										</div>					<div id="hdMI2" class="navSecond navSecondDown" onmouseover="hdNav.up(2)" onmouseout="hdNav.down(2)">																																								<a id="travel_business_travel" href="http://www.weather.com/activities/travel/businesstraveler" from="secondarynav">Business Travel</a>																								<a id="travel_destination_guides" href="http://www.weather.com/outlook/travel/destination-guides/drilldown/world-map" from="secondarynav">Destination Guides<font color="red">&nbsp;NEW!</font></a>																								<a id="travel_flight_status" href="http://www.weather.com/activities/travel/businesstraveler/welcome.html" from="secondarynav">Flight Status</a>																								<a id="travel_honeymoon_spots" href="http://www.weather.com/activities/events/weddings/honeymoon/index.html" from="secondarynav">Honeymoon Spots</a>																								<a id="travel_national_parks" href="http://www.weather.com/activities/recreation/outdoors/" from="secondarynav">National Parks</a>																								<a id="travel_vacation_home_rentals" href="http://www.weather.com/activities/travel/forgetaway.html" from="secondarynav">Vacation Home Rentals</a>																								<a id="travel_vacation_travel" href="http://www.weather.com/activities/travel/vacationplanner/" from="secondarynav">Vacation Travel</a>										</div>					<div id="hdMI3" class="navSecond navSecondDown" onmouseover="hdNav.up(3)" onmouseout="hdNav.down(3)">																																								<a id="driving_auto_advice" href="http://www.weather.com/activities/driving/drivingsafety/" from="secondarynav">Auto Advice</a>																								<a id="driving_interstate_driving" href="http://www.weather.com/activities/driving/interstate" from="secondarynav">Interstate Driving</a>																																										<a id="driving_scenic_drives" href="http://www.weather.com/activities/driving/scenicdrives" from="secondarynav">Scenic Drives</a>																								<a id="driving_traffic_reports" href="http://www.weather.com/activities/driving/rushhour" from="secondarynav">Traffic Reports</a>										</div>					<div id="hdMI4" class="navSecond navSecondDown" onmouseover="hdNav.up(4)" onmouseout="hdNav.down(4)">																																																																												<a id="health_aches_&amp;_pains" href="http://www.weather.com/activities/health/achesandpains" from="secondarynav">Aches &amp; Pains</a>																																										<a id="health_air_quality" href="http://www.weather.com/activities/health/airquality" from="secondarynav">Air Quality</a>																								<a id="health_allergies_&amp;_pollen" href="http://www.weather.com/activities/health/allergies/" from="secondarynav">Allergies &amp; Pollen</a>																								<a id="health_cold_&amp;_flu_report" href="http://www.weather.com/activities/health/coldandflu" from="secondarynav">Cold &amp; Flu Report<font color="red">&nbsp;NEW!</font></a>																								<a id="health_fitness_&amp;_exercise" href="http://www.weather.com/activities/health/fitness" from="secondarynav">Fitness &amp; Exercise</a>										</div>					<div id="hdMI5" class="navSecond navSecondDown" onmouseover="hdNav.up(5)" onmouseout="hdNav.down(5)">																																																										<a id="home_&amp;_family_home_improvement" href="http://www.weather.com/activities/homeandgarden/home" from="secondarynav">Home Improvement</a>																								<a id="home_&amp;_family_lawn_&amp;_garden" href="http://www.weather.com/activities/homeandgarden/garden" from="secondarynav">Lawn &amp; Garden</a>																								<a id="home_&amp;_family_local_events" href="http://www.weather.com/activities/events/special" from="secondarynav">Local Events</a>																								<a id="home_&amp;_family_pets" href="http://www.weather.com/activities/homeandgarden/pets" from="secondarynav">Pets</a>																								<a id="home_&amp;_family_safety_-_weatherready" href="http://www.weather.com/ready/" from="secondarynav">Safety - WeatherReady</a>																																										<a id="home_&amp;_family_schoolday_weather" href="http://www.weather.com/activities/homeandgarden/schoolday" from="secondarynav">Schoolday Weather</a>																								<a id="home_&amp;_family_wedding_planner" href="http://www.weather.com/activities/events/weddings" from="secondarynav">Wedding Planner</a>										</div>					<div id="hdMI6" class="navSecond navSecondDown" onmouseover="hdNav.up(6)" onmouseout="hdNav.down(6)">																																																										<a id="sports_college_football" href="http://www.weather.com/outlook/events/college-football-weather" from="secondarynav">College Football</a>																																										<a id="sports_golf" href="http://www.weather.com/activities/recreation/golf" from="secondarynav">Golf</a>																								<a id="sports_mlb" href="http://www.weather.com/activities/events/mlb/" from="secondarynav">MLB</a>																																										<a id="sports_nfl" href="http://www.weather.com/activities/events/nfl/football-weather.html" from="secondarynav">NFL</a>																								<a id="sports_ski_conditions" href="http://www.weather.com/activities/recreation/ski" from="secondarynav">Ski Conditions</a>																								<a id="sports_sporting_events" href="http://www.weather.com/activities/events/sports" from="secondarynav">Sporting Events</a>																												</div>					<div id="hdMI7" class="navSecond navSecondDown" onmouseover="hdNav.up(7)" onmouseout="hdNav.down(7)">																																								<a id="outdoor_activities_beach_&amp;_marine" href="http://www.weather.com/activities/recreation/boatandbeach" from="secondarynav">Beach &amp; Marine</a>																								<a id="outdoor_activities_camping_&amp;_hiking" href="http://www.weather.com/activities/recreation/outdoors/" from="secondarynav">Camping &amp; Hiking</a>																								<a id="outdoor_activities_fishing_reports" href="http://www.weather.com/activities/recreation/outdoors/fishing/" from="secondarynav">Fishing Reports</a>																								<a id="outdoor_activities_picnic_&amp;_grilling" href="http://www.weather.com/activities/homeandgarden/home/picnic" from="secondarynav">Picnic &amp; Grilling</a>																												</div>					<div id="hdMI8" class="navSecond navSecondDown" onmouseover="hdNav.up(8)" onmouseout="hdNav.down(8)">																						<a id="climate_&amp;_green_climate_science" href="http://climate.weather.com/news/science-news.html" from="secondarynav" target="_blank">Climate Science</a>																																										<a id="climate_&amp;_green_green_living" href="http://climate.weather.com/news/living-smart-news.html" from="secondarynav" target="_blank">Green Living</a>																																																												<a id="climate_&amp;_green_green_news" href="http://climate.weather.com/news/" from="secondarynav" target="_blank">Green News</a>																								<a id="climate_&amp;_green_green_travel" href="http://www.weather.com/activities/travel/vacationplanner/greentravel/" from="secondarynav">Green Travel</a>																								<a id="climate_&amp;_green_green_vehicles" href="http://www.weather.com/activities/driving/greenvehicle" from="secondarynav">Green Vehicles</a>																																														</div>					<div id="hdMI9" class="navSecond navSecondDown" onmouseover="hdNav.up(9)" onmouseout="hdNav.down(9)">																						<a id="on_tv_tv_personalities" href="http://www.weather.com/tv/personalities" from="secondarynav">TV Personalities</a>																																										<a id="on_tv_tv_shows" href="http://www.weather.com/tv/programs" from="secondarynav">TV Shows</a>																								<a id="on_tv_tv_schedule" href="http://www.weather.com/tv/schedule" from="secondarynav">TV Schedule</a>																								<a id="on_tv_music" href="http://www.weather.com/tv/music" from="secondarynav">Music</a>																								<a id="on_tv_hd_studio" href="http://www.weather.com/tv/studio/index.html" from="secondarynav">HD Studio</a>																								<a id="on_tv_twc_store" href="http://store.weather.com" from="secondarynav" target="_blank">TWC Store</a>																																								</div>	</div>
+            </tbody></table>							<div id="hdMI0" class="navSecond navSecondDown" onmouseover="hdNav.up(0)" onmouseout="hdNav.down(0)">																					<a id="home_my_page" href="http://www.weather.com/weather/my/" from="secondarynav">My Page</a>																																										<a id="home_weather.com_gold" href="http://www.weather.com/services/weathergold.html" from="secondarynav">weather.com Gold</a>																								<a id="home_site_map" href="http://www.weather.com/common/home/siteindex.html" from="secondarynav">Site Map</a>																												</div>					<div id="hdMI1" class="navSecond navSecondDown" onmouseover="hdNav.up(1)" onmouseout="hdNav.down(1)">																																								<a id="weather_news_national_forecast" href="http://www.weather.com/newscenter/fcstsummary.html" from="secondarynav">National Forecast</a>																								<a id="weather_news_weather_maps" href="http://www.weather.com/maps/travel.html" from="secondarynav">Weather Maps</a>																								<a id="weather_news_hurricane" href="http://www.weather.com/newscenter/hurricanecentral/" from="secondarynav">Hurricane</a>																								<a id="weather_news_severe_weather" href="http://www.weather.com/newscenter/stormwatch/" from="secondarynav">Severe Weather</a>																								<a id="weather_news_alerts" href="http://www.weather.com/newscenter/alerts/national/severeWxAlertsNational.html" from="secondarynav">Alerts</a>																								<a id="weather_news_agriculture_news_&amp;_forecast" href="http://www.weather.com/farming/" from="secondarynav">Agriculture News &amp; Forecast</a>																								<a id="weather_news_blogs" href="http://www.weather.com/blog/weather/" from="secondarynav">Blogs</a>																								<a id="weather_news_local_guides" href="http://www.weather.com/localguides/index.html" from="secondarynav">Local Guides</a>										</div>					<div id="hdMI2" class="navSecond navSecondDown" onmouseover="hdNav.up(2)" onmouseout="hdNav.down(2)">																																								<a id="travel_business_travel" href="http://www.weather.com/activities/travel/businesstraveler" from="secondarynav">Business Travel</a>																								<a id="travel_destination_guides" href="http://www.weather.com/outlook/travel/destination-guides/drilldown/world-map" from="secondarynav">Destination Guides<font color="red">&nbsp;NEW!</font></a>																								<a id="travel_flight_status" href="http://www.weather.com/activities/travel/businesstraveler/welcome.html" from="secondarynav">Flight Status</a>																								<a id="travel_honeymoon_spots" href="http://www.weather.com/activities/events/weddings/honeymoon/index.html" from="secondarynav">Honeymoon Spots</a>																								<a id="travel_national_parks" href="http://www.weather.com/activities/recreation/outdoors/" from="secondarynav">National Parks</a>																								<a id="travel_vacation_home_rentals" href="http://www.forgetaway.com" from="secondarynav">Vacation Home Rentals</a>																								<a id="travel_vacation_travel" href="http://www.weather.com/activities/travel/vacationplanner/" from="secondarynav">Vacation Travel</a>										</div>					<div id="hdMI3" class="navSecond navSecondDown" onmouseover="hdNav.up(3)" onmouseout="hdNav.down(3)">																																								<a id="driving_auto_advice" href="http://www.weather.com/activities/driving/drivingsafety/" from="secondarynav">Auto Advice</a>																																										<a id="driving_interstate_driving" href="http://www.weather.com/activities/driving/interstate" from="secondarynav">Interstate Driving</a>																								<a id="driving_scenic_drives" href="http://www.weather.com/activities/driving/scenicdrives" from="secondarynav">Scenic Drives</a>																								<a id="driving_traffic_reports" href="http://www.weather.com/activities/driving/rushhour" from="secondarynav">Traffic Reports</a>										</div>					<div id="hdMI4" class="navSecond navSecondDown" onmouseover="hdNav.up(4)" onmouseout="hdNav.down(4)">																																																																												<a id="health_aches_&amp;_pains" href="http://www.weather.com/activities/health/achesandpains" from="secondarynav">Aches &amp; Pains</a>																																										<a id="health_air_quality" href="http://www.weather.com/activities/health/airquality" from="secondarynav">Air Quality</a>																								<a id="health_allergies_&amp;_pollen" href="http://www.weather.com/activities/health/allergies/" from="secondarynav">Allergies &amp; Pollen</a>																								<a id="health_beauty_forecast" href="http://www.weather.com/weather/health/beauty/" from="secondarynav">Beauty Forecast<font color="red">&nbsp;NEW!</font></a>																								<a id="health_cold_&amp;_flu_report" href="http://www.weather.com/activities/health/coldandflu" from="secondarynav">Cold &amp; Flu Report</a>																								<a id="health_fitness_&amp;_exercise" href="http://www.weather.com/activities/health/fitness" from="secondarynav">Fitness &amp; Exercise</a>										</div>					<div id="hdMI5" class="navSecond navSecondDown" onmouseover="hdNav.up(5)" onmouseout="hdNav.down(5)">																																																										<a id="home_&amp;_family_home_improvement" href="http://www.weather.com/activities/homeandgarden/home" from="secondarynav">Home Improvement</a>																								<a id="home_&amp;_family_lawn_&amp;_garden" href="http://www.weather.com/activities/homeandgarden/garden" from="secondarynav">Lawn &amp; Garden</a>																								<a id="home_&amp;_family_local_events" href="http://www.weather.com/activities/events/special" from="secondarynav">Local Events</a>																								<a id="home_&amp;_family_pets" href="http://www.weather.com/activities/homeandgarden/pets" from="secondarynav">Pets</a>																								<a id="home_&amp;_family_safety_-_weatherready" href="http://www.weather.com/ready/" from="secondarynav">Safety - WeatherReady</a>																								<a id="home_&amp;_family_schoolday_weather" href="http://www.weather.com/activities/homeandgarden/schoolday" from="secondarynav">Schoolday Weather</a>																																										<a id="home_&amp;_family_wedding_planner" href="http://www.weather.com/activities/events/weddings" from="secondarynav">Wedding Planner</a>										</div>					<div id="hdMI6" class="navSecond navSecondDown" onmouseover="hdNav.up(6)" onmouseout="hdNav.down(6)">																																																										<a id="sports_college_football" href="http://www.weather.com/outlook/events/college-football-weather" from="secondarynav">College Football</a>																																										<a id="sports_golf" href="http://www.weather.com/activities/recreation/golf" from="secondarynav">Golf</a>																								<a id="sports_mlb" href="http://www.weather.com/activities/events/mlb/" from="secondarynav">MLB</a>																																										<a id="sports_nfl" href="http://www.weather.com/activities/events/nfl/football-weather.html" from="secondarynav">NFL</a>																								<a id="sports_ski_conditions" href="http://www.weather.com/activities/recreation/ski" from="secondarynav">Ski Conditions</a>																								<a id="sports_sporting_events" href="http://www.weather.com/activities/events/sports" from="secondarynav">Sporting Events</a>																												</div>					<div id="hdMI7" class="navSecond navSecondDown" onmouseover="hdNav.up(7)" onmouseout="hdNav.down(7)">																																								<a id="outdoor_activities_beach_&amp;_marine" href="http://www.weather.com/activities/recreation/boatandbeach" from="secondarynav">Beach &amp; Marine</a>																								<a id="outdoor_activities_camping_&amp;_hiking" href="http://www.weather.com/activities/recreation/outdoors/" from="secondarynav">Camping &amp; Hiking</a>																								<a id="outdoor_activities_fishing_reports" href="http://www.weather.com/activities/recreation/outdoors/fishing/" from="secondarynav">Fishing Reports</a>																								<a id="outdoor_activities_picnic_&amp;_grilling" href="http://www.weather.com/activities/homeandgarden/home/picnic" from="secondarynav">Picnic &amp; Grilling</a>																												</div>					<div id="hdMI8" class="navSecond navSecondDown" onmouseover="hdNav.up(8)" onmouseout="hdNav.down(8)">																						<a id="climate_&amp;_green_green_news" href="http://climate.weather.com" from="secondarynav" target="_blank">Green News</a>																																										<a id="climate_&amp;_green_green_travel" href="http://www.weather.com/activities/travel/vacationplanner/greentravel/" from="secondarynav">Green Travel</a>																								<a id="climate_&amp;_green_green_vehicles" href="http://www.weather.com/activities/driving/greenvehicle" from="secondarynav">Green Vehicles</a>										</div>					<div id="hdMI9" class="navSecond navSecondDown" onmouseover="hdNav.up(9)" onmouseout="hdNav.down(9)">																						<a id="on_tv_tv_personalities" href="http://www.weather.com/tv/personalities" from="secondarynav">TV Personalities</a>																																										<a id="on_tv_tv_shows" href="http://www.weather.com/tv/programs" from="secondarynav">TV Shows</a>																								<a id="on_tv_tv_schedule" href="http://www.weather.com/tv/schedule" from="secondarynav">TV Schedule</a>																								<a id="on_tv_music" href="http://www.weather.com/tv/music" from="secondarynav">Music</a>																								<a id="on_tv_hd_studio" href="http://www.weather.com/tv/studio/index.html" from="secondarynav">HD Studio</a>																								<a id="on_tv_twc_store" href="http://store.weather.com" from="secondarynav" target="_blank">TWC Store</a>																																								</div>	</div>
 	</div>
 <!-- end the primary navigation -->
 <script>
@@ -495,7 +807,13 @@ bannerImage = "";
  var sitestormheader="Test";
  var sitestormname=""; 
 </script>
-<script>OAS_AD('PageCounter')</script><script language="JavaScript1.2">
+<div id="WX_PageCounter" class="adDiv">
+  <!--  <iframe id="WX_PageCounter_frame" name="WX_PageCounter_frame" frameBorder="0" scrolling="no" allowtransparency="true" class="OASAdFrame" style="width: 1px; height: 1px" width="1" height="1"></iframe> -->
+    <script>
+        A21.notifyRegistered('WX_PageCounter');
+    </script>
+</div>
+<script>
 //if ((GetCookie('RMID') && GetCookie('RMID').length>=5)&&document.cookie.indexOf("TData")<0) 
 //{document.write('<im'+'g src="http://cte.weather.com/web/blank.gif" alt="" border=0 width=1 height=1>');}
 $myReferer=GetCookie('partner_url');var refParameter = paramValue('ref');
@@ -540,9 +858,9 @@ function preCheckForm2() {
 	var ival = document.getElementById("whatwhereForm2");
 	var tval = ival.value.replace(/^\s*|\s*$/g,'');
 	var r1 = document.getElementById("headerSearchR1");
-	if(ival.value == "Enter ZIP or US / world city" || (tval == "" && getCheckedValue(r1) == "on")) {
+	if(ival.value == "Enter ZIP, City or Place (e.g. Disney World)" || (tval == "" && getCheckedValue(r1) == "on")) {
 		ival.className = "searchInputBoxError";
-		ival.value = "Enter ZIP or US / world city";
+		ival.value = "Enter ZIP, City or Place (e.g. Disney World)";
 		return false;
 	}
 	else if(ival.value == "Enter words or phrase" || tval == "") {
@@ -604,9 +922,9 @@ function preFormInputHeader2() {
 
 
 <script>
-document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/common/components/javascript/datasource27-min.js"></scr'+'ipt>');
-document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/common/components/javascript/autocomplete27-min.js"></scr'+'ipt>');
-</script><script type="text/javascript" src="http://j.imwx.com/common/components/javascript/datasource27-min.js"></script><script type="text/javascript" src="http://j.imwx.com/common/components/javascript/autocomplete27-min.js"></script>
+document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/v.20091221.0/global/common/elements/javascript/2.7.0/datasource/datasource27-min.js"></scr'+'ipt>');
+document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/v.20091221.0/global/common/elements/javascript/2.7.0/autocomplete/autocomplete27-min.js"></scr'+'ipt>');
+</script><script type="text/javascript" src="http://j.imwx.com/v.20091221.0/global/common/elements/javascript/2.7.0/datasource/datasource27-min.js"></script><script type="text/javascript" src="http://j.imwx.com/v.20091221.0/global/common/elements/javascript/2.7.0/autocomplete/autocomplete27-min.js"></script>
 
 
 
@@ -729,9 +1047,9 @@ var showTypeAhead = true;
  var doTypeAheadEven = true;
 
 	function buildSearchInputDisplayHeader(wRIn) {
-		if(document.getElementById('whatwhereForm2').value == "Enter ZIP or US / world city" || document.getElementById('whatwhereForm2').value == "Enter words or phrase") {	
+		if(document.getElementById('whatwhereForm2').value == "Enter ZIP, City or Place (e.g. Disney World)" || document.getElementById('whatwhereForm2').value == "Enter words or phrase") {	
 			if(wRIn=="local") {
-				document.getElementById('whatwhereForm2').value = "Enter ZIP or US / world city";
+				document.getElementById('whatwhereForm2').value = "Enter ZIP, City or Place (e.g. Disney World)";
 				showTypeAhead = true;
 			} else if(wRIn=="site") {
 				document.getElementById('whatwhereForm2').value = "Enter words or phrase";
@@ -898,10 +1216,10 @@ var showTypeAhead = true;
 	<input type="hidden" name="lswe">
 	<input type="hidden" name="lswa">
 	<input type="hidden" name="loctypes" value="1003,1001,1000,1,9,5,11,13,19,20">
-	<input type="hidden" name="from" value="searchbox_localwx">
+	<input type="hidden" name="from" value="hdr_localsearch">
 
 
-	<div id="hbSearchBox" style="display:inline;"><div id="googlesearchContent"><div class="c1"><span class="googleRadioContainer"><input type="radio" id="headerSearchR1" class="searchRadioBtn" name="googleTypeSearch" onclick="buildSearchInputDisplayHeader('local');" checked=""><label class="searchRadioLabel" for="headerSearchR1">Local Weather</label><input type="radio" id="headerSearchR2" class="searchRadioBtn" name="googleTypeSearch" onclick="buildSearchInputDisplayHeader('site');MyLocationClose('whatwhere');" value="localHeader"><label class="searchRadioLabel" for="headerSearchR2">Site</label><input type="radio" id="headerSearchR3" class="searchRadioBtn" name="googleTypeSearch" onclick="buildSearchInputDisplayHeader('web');MyLocationClose('whatwhere');" value="webHeader"><label class="searchRadioLabel" for="headerSearchR3">Web</label></span><span class="googleLogo"><img src="http://i.imwx.com/web/common/poweredbygoogle.gif" width="103" height="16" border="0"></span></div><div class="c2"><input type="Text" class="searchInputBox" name="where" id="whatwhereForm2" value="Enter ZIP or US / world city" onclick="preFormInputHeader();preFormInputHeader2();" onkeypress="MyLocationClose('whatwhere')" autocomplete="off"><input type="image" class="googleGoButtonHeader" src="http://i.imwx.com/web/common/searchbutton.gif" name="Search" value="Search" id="headerSearchButton"></div></div></div></form>
+	<div id="hbSearchBox" style="display:inline;"><div id="googlesearchContent"><div class="c1"><span class="googleRadioContainer"><input type="radio" id="headerSearchR1" class="searchRadioBtn" name="googleTypeSearch" onclick="buildSearchInputDisplayHeader('local');" checked=""><label class="searchRadioLabel" for="headerSearchR1">Local Weather</label><input type="radio" id="headerSearchR2" class="searchRadioBtn" name="googleTypeSearch" onclick="buildSearchInputDisplayHeader('site');MyLocationClose('whatwhere');" value="localHeader"><label class="searchRadioLabel" for="headerSearchR2">Site</label><input type="radio" id="headerSearchR3" class="searchRadioBtn" name="googleTypeSearch" onclick="buildSearchInputDisplayHeader('web');MyLocationClose('whatwhere');" value="webHeader"><label class="searchRadioLabel" for="headerSearchR3">Web</label></span><span class="googleLogo"><img src="http://i.imwx.com/web/common/poweredbygoogle.gif" width="103" height="16" border="0"></span></div><div class="c2"><input type="Text" class="searchInputBox" name="where" id="whatwhereForm2" value="Enter ZIP, City or Place (e.g. Disney World)" onclick="preFormInputHeader();preFormInputHeader2();" onkeypress="MyLocationClose('whatwhere')" autocomplete="off"><input type="image" class="googleGoButtonHeader" src="http://i.imwx.com/web/common/searchbutton.gif" name="Search" value="Search" id="headerSearchButton"></div></div></div></form>
 
 
 <!-- Site Search - Type Ahead , Recent Search & My Favorite Result Container -->	
@@ -916,9 +1234,9 @@ var showTypeAhead = true;
 
 
 <script type="text/javascript">
-document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/v.20091119.0/common/header/javascript/headerNavplusYUITypeAhead.js" ></scr'+'ipt>');
-document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/v.20091209.0/common/components/javascript/typeAheadDS2.js" ></scr'+'ipt>');
-</script><script type="text/javascript" src="http://j.imwx.com/v.20091119.0/common/header/javascript/headerNavplusYUITypeAhead.js"></script><script type="text/javascript" src="http://j.imwx.com/v.20091209.0/common/components/javascript/typeAheadDS2.js"></script>
+document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/v.20100611.2/common/header/javascript/headerNavplusYUITypeAhead.js" ></scr'+'ipt>');
+document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com/v.20100112.1/common/components/javascript/typeAheadDS2.js" ></scr'+'ipt>');
+</script><script type="text/javascript" src="http://j.imwx.com/v.20100611.2/common/header/javascript/headerNavplusYUITypeAhead.js"></script><script type="text/javascript" src="http://j.imwx.com/v.20100112.1/common/components/javascript/typeAheadDS2.js"></script>
 
 
 
@@ -932,7 +1250,7 @@ var isVideo = (window.location.pathname.indexOf("/multimedia/")>=0)?1:0;
 var isPhotos = (window.location.pathname.indexOf("/photos")>=0)?1:0;
 var isWorld = (window.location.pathname.indexOf("/common/welcomepage/world.html")>=0)?1:0;
 var isMobile = (window.location.pathname.indexOf("/mobile")>=0)?1:0;
-var isTv = (window.location.pathname.indexOf("/television")>=0)?1:0;
+var isTv = (window.location.pathname.indexOf("/tv")>=0)?1:0;
 var isDownloads = (window.location.pathname.indexOf("/alerts")>=0)?1:0;
 </script>
 <div id="hbLinkBox" style="left:200px;">
@@ -941,7 +1259,7 @@ var isDownloads = (window.location.pathname.indexOf("/alerts")>=0)?1:0;
 	  var myHref = "/surf/";
 	</script>
 	<a href="http://www.weather.com/maps/" from="gn_six_welcome" id="sixLinks1" class="hbLink">Maps</a><font class="sixlinkpipe"> |</font>
-	<a href="http://www.weather.com/multimedia/videoplayer.html" from="gn_six_welcome" collection="topstory" target="_blank" id="sixLinks2" class="hbLink">Video</a><font class="sixlinkpipe"> |</font>
+	<a href="http://www.weather.com/outlook/videos/" from="gn_six_welcome" collection="topstory" id="sixLinks2" class="hbLink">Video</a><font class="sixlinkpipe"> |</font>
 	<a href="http://www.weather.com/photos/" from="gn_six_welcome" id="sixLinks3" class="hbLink">Photos</a><font class="sixlinkpipe"> |</font>
 	<a href="http://www.weather.com/common/welcomepage/world.html" from="gn_six_welcome" id="sixLinks4" class="hbLink">World</a><font class="sixlinkpipe"> |</font>
 	<a href="#" id="sixLinks5" class="hbLink" onclick="loadMobileWindow();">Mobile</a><font class="sixlinkpipe"> |</font>
@@ -964,7 +1282,7 @@ function loadMobileWindow() {
 <!-- RECENT SEARCH BOX -->
 <div id="whatwherezip" class="whatwhereZipClassHidden">
 	<div id="MyLocationList">
-<script src="http://j.imwx.com/v.20091209.0/common/components/javascript/recentsearchNew.js"></script>
+<script src="http://j.imwx.com/v.20100120.1/common/components/javascript/recentsearchNew.js"></script>
 </div>
 </div>	
 <script>
@@ -981,7 +1299,7 @@ var templswe = paramValue('lswe');
 if(templswe)  {
 	document.whatwhere.where.value = templswe.replace("+"," ");
 } else {
-	document.whatwhere.where.value = "Enter ZIP or US / world city";
+	document.whatwhere.where.value = "Enter ZIP, City or Place (e.g. Disney World)";
 }
 </script>
  <div id="SEVERE">
@@ -1005,17 +1323,12 @@ if(warning_mode && window.location.pathname.indexOf("specialtopics")==-1){
 </script>
 
 
-<div id="hbBHeaderSpon" style="display:inline;"> <!-- there is a javascript condition to check if 'hbBHeaderSpon' needs to be turn on or off -->
-<div align="center">
-<script>
-if(warning_mode && window.location.pathname.indexOf("specialtopics")==-1) {
-	// No HeaderSpon gets put on page
-} else {
-		if(typeof(OAS_listpos) == 'undefined' || OAS_listpos.indexOf("HeaderSpon") == -1){document.write('<SCR'+'IPT LANG'+'UAGE="JavaScript1.2" SRC="http://j.imwx.com/common/header/javascript/headerspon.js?10222006"></SCR'+'IPT>');}else{document.write('<div id="headSpon" style="width:151px;height:60px;"><SCR'+'IPT>OAS_AD(\'HeaderSpon\')</SCR'+'IPT></div>');}
-}
-
-</script><script language="JavaScript1.2" src="http://j.imwx.com/common/header/javascript/headerspon.js?10222006"></script>
-<br><img src="http://i.imwx.com/web/blank.gif" alt="" name="sponsorLogo" id="sponsorLogo" border="0">
+<div id="hbBHeaderSpon">
+<div id="WX_Header" class="adDiv">
+    <iframe id="WX_Header_frame" name="WX_Header_frame" frameborder="0" scrolling="no" allowtransparency="true" class="OASAdFrame" style="width: 1px; height: 1px" width="1" height="1"></iframe>
+    <script>
+        A21.notifyRegistered('WX_Header');
+    </script>
 </div>
 </div>
 
@@ -1108,7 +1421,7 @@ if(window.location.pathname.indexOf("/tv/")!= -1) {
 		<img src="http://image.weather.com/web/blank.gif" width="1" height="10" border="0"><br>
 			<table width="742" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td align="left" valign="middle" colspan="2"><b>EFFECTIVE AS OF June 5th, 2008</b><hr color="#A7C9E0">
+					<td align="left" valign="middle" colspan="2"><b>EFFECTIVE AS OF June 16, 2010</b><hr color="#A7C9E0">
 					<p>The Weather Channel Interactive, Inc.  ("The Weather Channel") is strongly committed to protecting your privacy.  This Privacy Policy discloses how we collect, use and share information we gather about you on The Weather Channel's Web sites and the choices you have regarding our use of and your ability to correct the information.  This Privacy Policy applies only to The Weather Channel's Web sites and The Weather Channel's Internet-enabled services, excluding those properties which primarily serve international markets (e.g., weather.co.uk).  We hope that this disclosure will enhance your experience on the Internet and reinforce the trust that you place in The Weather Channel's products and services.
 </p><p>
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
@@ -1134,23 +1447,21 @@ The TRUSTe program covers only information that is collected through this Web si
 				<tr>
 					<td colspan="2" class="bodyText">
 					<p><font class="sectionTitle">Information Collected Online</font></p>
-					Most of the information provided by The Weather Channel is offered without our collecting any personally identifiable information from you.  For instance, you can view weather conditions in your hometown or anywhere in the world without giving out any personally identifiable information.  In order to maximize your experience and to provide you with enhanced products and services, however, The Weather Channel collects personally identifiable information (e.g., name, e-mail address, etc.) and demographic data (e.g., zip code, gender, birth date, interests, etc.) that you voluntarily supply to us. When you make a purchase or sign up for one of our premium services, we will also collect your billing address, phone number, and credit card information.  Some examples of instances when we collect personally identifiable information include when you:
+					Most of the information provided by The Weather Channel is offered without our collecting any personally identifiable information from you.  For instance, you can view weather conditions in your hometown or anywhere in the world without providing any personally identifiable information.  In order to maximize your experience and to provide you with enhanced products and services, however, The Weather Channel will collect personally identifiable information (e.g., name, e-mail address, etc.) and demographic data (e.g., zip code, gender, birth date, interests, etc.) that you voluntarily supply to us. Although you are not required to disclose any personally identifiable information to us, portions of our Web site and other specialized services may be unavailable to  you without such information. <br> When you make a purchase or sign up for one of our premium services, we will also collect your billing address, phone number, and credit card information.  Some other examples of instances when we collect personally identifiable information include when you subscribe to our premium or enhanced services, for example <i>The Weather Channel Alerts</i> (weather information delivered to you via e-mail or text), <i>The Weather Channel Desktop</i> (a software application which you can download to your desktop to receive weather information), <i>The Weather Channel</i> downloads (software applications you can download to certain wireless devices).  Others are when you:
 <ul>
-<li>Subscribe to our premium or enhanced services.  Examples include <i>Inbox Weather</i> (weather information delivered to you via e-mail), <i>Desktop Weather</i> (a software application which you can download to your desktop to receive weather information), <i>Wireless Weather</i> (a family of services which allow you to receive weather information on your cellular phone or PDA)</li>
 <li>Complete a survey</li>
 <li>Register for a promotion, contest or sweepstakes</li>
 <li>Make a purchase from our online store</li>
 <li>Send us an e-mail message or complete an inquiry form to receive additional information</li>
 <li>Submit a photo to the photo gallery</li>
 <li>Participate in an online forum or community, or</li>
-<li>Customize weather.com.
+<li>Customize the weather.com site.
 </li></ul>
-Thus, you have a choice as to whether to provide your personally identifiable information.  Although you are not required to disclose any personally identifiable information to us, portions of our Web site and other specialized services may be unavailable to you without such information. 
-<p>In the case of participation in a chat session you are not required to provide any personally identifiable information.  However, we do require you to select a user name.  Also, the sessions are monitored and transcripts are posted on the Web site for access by other users.  You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used by other users to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
+<p>In the case of participation in a chat session you are not required to provide any personally identifiable information, but we require you to select a user name.  Please be aware that chat sessions are monitored and transcripts are posted on the Web site for access by other users.  Any personally identifiable information you submit during a chat session, in blog comments, or in connection with your content submissions, including photo and video submissions, can be read, collected, or used by other users of these forums, and could be used by other users to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
 					<p><font class="sectionTitle">How We Use Your Information</font></p>
-					We use the information you provide in a limited number of ways.  We may use the information to service your account, conduct a transaction that you have requested, display information and advertisements that match your interests and profile, notify you if you've won a contest or sweepstakes and compile demographic statistics about our users.  We may on occasion combine information about you that we have with information we obtain from other parties to enhance our ability to market to you those products or services that may be of interest to you.
+					We use the information you provide to help fulfill your request or in connection with the operation of the site, for example to service your account, conduct a transaction that you have requested, display information and advertisements that match your interests and profile, notify you if you've won a contest or sweepstakes. We may also use this information to improve the working of the site or compile demographic statistics about our users and their use of the site. We may on occasion combine information about you that we have with information we obtain from other parties to enhance our ability to market to you those products or services that may be of interest to you.
 					<p><font class="sectionTitle">How We Share Your Information</font></p>
-					One of the most valuable assets of our business is you. The Weather Channel does not rent, sell or share personally identifiable information about you with other people or nonaffiliated companies except as described below. 
+					One of the most valuable assets of our business is you. Except as described below The Weather Channel does not rent, sell or share personally identifiable information about you with other people or nonaffiliated companies. 
 						<table width="742" border="0" cellpadding="0" cellspacing="0">
 													<tbody><tr>
 								<td colspan="2"><img src="http://image.weather.com/web/blank.gif" width="1" height="10" border="0"></td>
@@ -1159,7 +1470,7 @@ Thus, you have a choice as to whether to provide your personally identifiable in
 								<td><img src="http://image.weather.com/web/blank.gif" width="20" height="1" border="0"></td>
 								<td>
 								<p><font class="sectionTitle">The Weather Channel and its Affiliates</font></p>
-			                     We provide you with the opportunity to opt in to receive special offers from The Weather Channel and it affiliates.  If you opt in, The Weather Channel and its affiliates will use your personally identifiable information to inform you of other products or services available from weather.com and its affiliates, including The Weather Channel, Inc. and WSI Corporation.  These products may include, for example, schedules for special programs on The Weather Channel cable network or offers to purchase a calendar from The Weather Channel.	
+			                     At various points, we may provide you with the opportunity to opt in to receive special offers from The Weather Channel and its affiliates.  If you choose to opt in, The Weather Channel and its affiliates will use your personally identifiable information to inform you of other products or services available from weather.com and its affiliates, including The Weather Channel, Inc. and WSI Corporation.  These products may include, for example, schedules for special programs on The Weather Channel cable network or offers to purchase a calendar from The Weather Channel.	
              					</td>
 						     </tr>
 													<tr>
@@ -1169,7 +1480,7 @@ Thus, you have a choice as to whether to provide your personally identifiable in
 								<td><img src="http://image.weather.com/web/blank.gif" width="20" height="1" border="0"></td>
 								<td>
 								<p><font class="sectionTitle">Companies Offering Promotions, Products, or Services</font></p>
-			                     In two types of instances, we provide you with the opportunity to opt-in to receive promotions, products or services from third party sponsors:  1) only with your permission, The Weather Channel will periodically send to you, via e-mail, offers and promotions from our third party sponsors which we select based upon your interests or user profile.  In these instances, we do not share your personally identifiable information with the third party sponsors-we do the mailing for them.  Additionally, you will always have the opportunity, with each e-mail, to opt-out of receiving future offers.   2)  In other instances, we provide you with the opportunity to receive products and services from specifically identified third parties directly through our site.  In these instances, you must explicitly consent to receive each offer.  When you explicitly agree to receive offers from specific third parties, your personally identifiable information is shared with the specific third party to enable them to provide you with the offer you have requested.  All information provided to third parties is governed by the Privacy Policies of these third parties.  We are not responsible for the information collection practices of these third parties, and you should review the Privacy Policies of these parties before supplying personally identifiable information to them.	
+			                     At times we will provide you with the opportunity to opt-in to receive promotions, products or services from third party sponsors.  With your permission, The Weather Channel will periodically send to you, via e-mail, offers and promotions from our third party sponsors which we select based upon your interests or user profile. We do not share your personally identifiable information with the third party sponsors-we do the mailing for them.  You will always have the opportunity, to opt-out of receiving future offers by following the unsubscribe link included with each email.  In other instances, we provide you with the opportunity to receive products and services directly from specifically identified third parties through our site.  In these instances, you must explicitly consent to receive each offer.  When you explicitly agree to receive offers from specific third parties, your personally identifiable information is shared with the specific third party to enable them to provide you with the offer you have requested.  We are not repsonsible for the information collection practices of these third parties, and all information provided is governed by the Privacy Policies of these third parties.  You should review the Privacy Policies of these parties before supplying personally identifiable information to them.	
              					</td>
 						     </tr>
 													<tr>
@@ -1179,7 +1490,7 @@ Thus, you have a choice as to whether to provide your personally identifiable in
 								<td><img src="http://image.weather.com/web/blank.gif" width="20" height="1" border="0"></td>
 								<td>
 								<p><font class="sectionTitle">Third-Party Processors</font></p>
-			                     When you submit your personal information on the weather.com Web site, it may be shared with a selected  third party ("Third Party Processors").  These Third Party Processors may include, for example, companies that operate our online store and companies that process credit card information or handle shipping for The Weather Channel.  These Third Party Processors may organize, administer, process, and/or analyze data on our behalf to help us provide more relevant offers to you and to eliminate the delivery of duplicate offers.  In addition, these Third Party Processors correct and/or update users' data based on information we provide them.  We may also use Third Party Processors to deliver materials to you via e-mail or postal service.  The data we provide to Third Party Processors is securely stored and maintained by them so that it can be accessed when needed for future purposes.  Further, all such Third Party Processors are contractually bound by us to keep the information confidential.  All information provided to Third Party Processors is used by them only to carry out the service they are providing for The Weather Channel.	
+			                     When you submit your personal information on the weather.com Web site, it may be shared with a selected  third party in connection with the operation of the site or the provision of services to you("Third Party Processors").  These Third Party Processors may include, for example, companies that operate our online store, that process credit card information or handle shipping for The Weather Channel, that deliver materials to you via e-mail or postal service, and who organize, administer, process, and/or analyze data on our behalf to help us provide more relevant offers to you and to eliminate the delivery of duplicate offers as well as correcting and/or updating users' data based on information we provide them.  All information provided to Third Party Processors is used by them only to carry out the service they are providing for The Weather Channel.  The data we provide to Third Party Processors is securely stored and maintained by them so that it can be accessed when needed for future purposes, and all such Third Party Processors are contractually bound by us to keep the information confidential.  	
              					</td>
 						     </tr>
 													<tr>
@@ -1189,7 +1500,7 @@ Thus, you have a choice as to whether to provide your personally identifiable in
 								<td><img src="http://image.weather.com/web/blank.gif" width="20" height="1" border="0"></td>
 								<td>
 								<p><font class="sectionTitle">Links to Other Web Sites</font></p>
-			                     Like many Web sites on the Internet, The Weather Channel links to pages located on Web sites maintained by various other entities not bound by our Privacy Policy.  In some cases you may link to pages of other Web sites that are framed with elements of weather.com such as in the header or footer.  The URL will identify the site you are visiting.  We are not responsible for the information collection practices of other Web sites.  The Privacy Policies of other organizations may differ from ours, for example, with respect to the level of security, use of cookies, and collection, use and disclosure of personally identifiable information.	
+			                     Like many Web sites on the Internet, The Weather Channel links to pages located on Web sites maintained by various other entities. In some cases you may link to pages of other Web sites that are framed with elements of weather.com such as in the header or footer.  The URL will identify the site you are visiting. These sites are not bound by our privacy policy, and we are not responsible for the information collection practices. The Privacy Policies of other organizations may differ from ours, for example, with respect to the level of security, use of cookies, and collection, use and disclosure of personally identifiable information.	
              					</td>
 						     </tr>
 													<tr>
@@ -1199,7 +1510,7 @@ Thus, you have a choice as to whether to provide your personally identifiable in
 								<td><img src="http://image.weather.com/web/blank.gif" width="20" height="1" border="0"></td>
 								<td>
 								<p><font class="sectionTitle">Purchase or Sale of Businesses</font></p>
-			                     The Weather Channel continually looks for ways to improve our business.  One such way of improving our business might be to buy or sell a company.  If we buy or sell a business, databases containing personally identifiable information will likely be transferred as part of the sale.  If we buy a business, we will honor the requests of that business' former customers regarding their personally identifiable information. If in connection with a sale there will be material changes to the way personally identifiable information is being used, affected consumers will be notified via e-mail and will be given the opportunity to opt-out.	
+			                     The Weather Channel continually looks for ways to improve our business, including purchasing or selling all or part of a business or company.  If we buy or sell a business, databases containing personally identifiable information will likely be transferred as part of the sale.  If we buy a business, we will honor the requests of that business' former customers regarding their personally identifiable information. If in connection with a sale there will be material changes to the way personally identifiable information is being used, affected consumers will be notified via e-mail and will be given the opportunity to opt-out.	
              					</td>
 						     </tr>
 													<tr>
@@ -1209,36 +1520,35 @@ Thus, you have a choice as to whether to provide your personally identifiable in
 								<td><img src="http://image.weather.com/web/blank.gif" width="20" height="1" border="0"></td>
 								<td>
 								<p><font class="sectionTitle">Other Limitations on Privacy</font></p>
-			                     We may provide personally identifiable information without your permission  (i) pursuant to judicial or other government subpoenas, warrants, or orders; (ii) where The Weather Channel believes our property or an individual's safety or security is at risk; iii) if we find that your actions violate our <a href="/common/home/legal.html">Legal Restrictions and Terms of Use</a>; or iv) where otherwise required by law.	
+			                     Other than as set forth above and in this section, you will receive notice from us when information about you might go to third parties, and you will have an opportunity to choose not to share the information.  We may provide personally identifiable information without your permission  (i) pursuant to judicial or other government subpoenas, warrants, or orders or otherwise to comply with law; (ii) where The Weather Channel believes the rights, property or an individual's safety or security is at risk; iii) if we find that your actions violate our <a href="/common/home/legal.html">Legal Restrictions and Terms of Use</a>; or iv) where otherwise required by law.	
              					</td>
 						     </tr>
 						
 						</tbody></table>
 <p><font class="sectionTitle">E-mail a Friend</font></p>
-					If you choose to use our service that allows you to e-mail a page of our site to a friend, <span style="color:#3333FF">in most circumstances </span> we do not have access to and do not collect any personally identifiable information regarding you or your friend.  <span style="color:#3333FF">On certain pages of the site, we need to have access to your and your friend's e-mail addresses temporarily to send the e-mail due to technical requirements.  This information is deleted as soon as the e-mail is sent and is not used for any other purpose</span>.
+					If you choose to use our service that allows you to e-mail a page of our site to a friend, in most circumstances we do not have access to and do not collect any personally identifiable information regarding you or your friend.  On certain pages of the site, we need to have access to your and your friend's e-mail addresses temporarily to send the e-mail due to technical requirements.  This information is deleted as soon as the e-mail is sent and is not used for any other purpose.
 					<a name="ipinfo"></a>
 					<p><font class="sectionTitle">IP Addresses, Cookies, Web Beacons, Gifs, <font color="blue"></font>and Information Saved by Other Technologies</font></p>
-					The Weather Channel and Third Party Processors acting on our behalf uses various Internet technologies which help us to manage our site operations and track usage behavior so that we can tailor information and advertisements to make your visits more enjoyable and meaningful.  These Internet technologies include:
+					The Weather Channel and Third Party Processors acting on our behalf use various Internet technologies which help us to manage our site operations and track usage behavior so that we can tailor information and advertisements to make your visits more enjoyable and meaningful.  These Internet technologies include:
 <ul>
-<li>IP Addresses:  random numbers assigned to individual computers which The Weather Channel uses to administer our Web site and help diagnose problems with our servers.<p>
-</p></li><li>Cookies:  small electronic files transferred from our Web site to your hard drive.  Cookies enable The Weather Channel to recognize repeat visitors, track usage behavior and facilitate your access to and use of our site.  If you wish, you can choose to have your computer warn you each time a Cookie is being sent, or you can choose to turn off all Cookies.  You can do this by resetting your browser (such as Netscape Navigator or Internet Explorer) settings.  Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your Cookies.  If you turn Cookies off, however, you won't have access to many of the features which make your experience more efficient and some of our services will not function properly.<p>
-<a name="remember"></a>We have developed a simple mechanism that allows us to protect some of your custom settings -- even if your weather.com cookies are deleted -- by saving a backup of certain cookie values to a different location on your computer.  We can then simply reset these saved values to your cookies when you revisit the site, allowing you to continue enjoying your customized experience on the weather.com website and on other products and services from The Weather Channel.  You may <a href="/common/help/flcookieforgetme.html" onclick="return mapWindowOpen('/common/help/flcookieforgetme.html','Help','width=466,height=450,resizable,scrollbars,nostatus');">enable or disable this functionality</a> at any time.  If you disable this functionality and your cookies are deleted, you won't have access to many of the features which make your experience more efficient and some of our services will not function properly. 
-</p><p>
-<a name="flookie"></a>
-</p></li><li>
-Information saved via other technologies: using similar methods, we can save some of your settings by creating small electronic files in a different location on your computer.  This enables The Weather Channel to recognize repeat visitors, track usage behavior and facilitate your access to and use of our site.  We can read the saved settings when you revisit the site, allowing you to continue enjoying your customized experience on the weather.com website and on other products and services from The Weather Channel. You may  <a href="/common/help/ski_flookie.html" onclick="return mapWindowOpen('/common/help/ski_flookie.html','Help','width=466,height=450,resizable,scrollbars,nostatus');">enable or disable this functionality</a> at any time. If you disable this functionality and your settings are deleted, you won't have access to many of the features which make your experience more efficient and some of our services will not function properly.
-<p>
+<li>IP Addresses: random numbers assigned to individual computers which The Weather Channel uses to administer our Web site and help diagnose problems with our servers.<p>
+</p></li><li>Cookies: small electronic files transferred from our Web site to your hard drive.  Cookies enable The Weather Channel to recognize repeat visitors, track usage behavior and facilitate your access to and use of our site.  Cookies are also used to serve advertisements on our site.  If you wish, you can choose to have your computer warn you each time a Cookie is being sent, or you can choose to turn off all Cookies.  You can do this by resetting your browser (such as Netscape Navigator or Internet Explorer) settings.  Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your Cookies.  If you turn Cookies off, however, you won't have access to many of the features which make your experience more efficient and some of our services will not function properly.<p>
+
 </p></li><li>Web Beacons (sometimes called single-pixel Gifs):  electronic images that allow The Weather Channel to count users who have visited certain Web pages we wish to track.  For example, The Weather Channel may include Web Beacons in promotional email messages in order to count how many messages have been opened and acted upon.  Web Beacons may also be placed by our advertising partners on The Weather Channel Web pages to help determine the effectiveness of Internet advertising campaigns.
 </li></ul>
-Information that is collected via IP Address, Cookie and Web Beacon and other technologies is not personally identifiable.  However, if you choose to provide The Weather Channel with personally identifiable information, this information may be linked to the data stored in these technologies.  In addition, we may share aggregate (not individual) site usage statistics and demographic information and other non-personally identifiable information with advertisers and other third parties, but this information will not include any personally identifiable information.  Personal information about you as an individual will not be provided to any third party without your consent, except under the circumstances described above in the "Third Party Processors" and "Other Limitations on Privacy" sections.  To obtain information about the privacy and security practices of Omniture, a Third Party Processor with which The Weather Channel contracts to assist it in tracking site usage using these Internet technologies, <a href="#" onclick="return mapWindowOpen('/common/home/modules/privacyOptoutp1.html','Omniture','width=555,height=360,noresizable,noscrollbars,nostatus')">click here</a>.
+Information that is collected via IP address, Cookie and Web Beacon technologies is not personally identifiable.  However, if you choose to provide The Weather Channel with personally identifiable information, this information may be linked to the data stored in these technologies.  In addition, we may share aggregate (not individual) site usage statistics and demographic information and other non-personally identifiable information with advertisers and other third parties, but this information will not include any personally identifiable information.  Personal information about you as an individual will not be provided to any third party without your consent, except under the circumstances described above in the "Third Party Processors" and "Other Limitations on Privacy" sections.  To obtain information about the privacy and security practices of Omniture, a Third Party Processor with which The Weather Channel contracts to assist it in tracking site usage using these Internet technologies, <a href="#" onclick="return mapWindowOpen('/common/home/modules/privacyOptoutp1.html','Omniture','width=555,height=360,noresizable,noscrollbars,nostatus')">click here</a>.
 					<p><font class="sectionTitle">Use of Cookie and Web Beacon Technology by Advertisers and Ad Serving Networks</font></p>
-					The Weather Channel works with 24/7 Real Media, DoubleClick and other third parties to serve ads on our site.  Some of these ads contain Cookies and/or Web Beacons that are used to track user behavior.  This privacy policy does not cover the use of Cookies or Web Beacons set by 24/7 Real Media, DoubleClick or any other third party advertisers.  The Weather Channel does not have control over, or even access to, the information contained in these third party Cookies or Web Beacons.  For more information about how 24/7 Real Media, DoubleClick, and other ad serving networks use the information collected by these Cookies and Web Beacons and about your option not to accept Cookies placed by these companies, please <a href="http://www.networkadvertising.org/consumer/opt_out.asp">click here</a>. 
-					<p><font class="sectionTitle">Opting-Out, Corrections and Cancellations</font></p>
-					In order to receive an offer or promotion from The Weather Channel or a third party in an e-mail, a user must have chosen to receive it during a registration process.  To completely ensure that we have your consent, we make sure that each e-mail we send you presents the additional opportunity to opt-out of receiving future e-mails.  
+					The Weather Channel works with a variety of Advertisers and Advertising Networks, including 24/7 Real Media and DoubleClick.  These Advertisers and Advertising Networks use various technologies and technologies from third party companies, including Omniture, to collect event based data in order to send (or serve) relevant ads to users.  The data is used to provide advertisements about goods and services that may be of interest to users on The Weather Channel site and other sites and also may be used to keep track of the response to advertisements on the site.  Advertisers and Ad Networks use information derived from user visits to The Weather Channel site and other sites to place a cookie or cookies on the site visitor's browser in order to serve advertisements.  Advertisers and Ad Networks may also use Web Beacons on the site and on other sites to recognize a browser's cookie when a browser visits the site in order to enable Advertisers to determine which banner ad brought a user to the Advertiser's site.  Cookies and Web Beacons also assist in the delivery of more relevant ads to users.  If you want more information about these technologies or wish to opt out of this information collection, you may visit the following sites: <br>
+<a href="http://www.doubleclick.net/privacy_policy">http://doubleclick.net/privacy_pilocy</a>
+<a href="http://networkadvertising.org/optout_nonpii.asp">http://networkadvertising.org/optout_nonpii.asp</a>
+<a href="http://www.omniture.com/en/privacy/policy#optout">http://www.omniture.com/en/privacy/policy#optout</a>
+<p>
+					</p><p><font class="sectionTitle">Opting-Out, Corrections and Cancellations</font></p>
+					If you receive an offer or promotion from The Weather Channel or a third party related to The Weather Channel you must have opted in.  To ensure we have your consent, we make sure that each e-mail sent to you by The Weather Channel presents the additional opportunity to opt-out of receiving future e-mails.  
 <p>If you have registered with us and have obtained a password, you may reset your password, update your personally identifiable information, correct any information, make changes to your preferences, unsubscribe to any e-mail subscriptions or to opt-out of any services, by accessing your <a href="https://registration.weather.com/ursa/profile">weather.com profile</a> online from the "Weather Tools" section by selecting "My Profile" or you may <a href="http://support.registration.weather.com/ics/support/default.asp?deptID=2553">contact us</a> directly.
 </p><p>
-If you elect to make e-mail inquiries on the www.forgetaway.weather.com site, you cannot opt-out of storage of this information by us for use by the property lister, property manager, and owner.  To update any information you entered in your e-mail inquiry on the www.forgetaway.weather.com site, you will need to contact the property lister, property manager, or owner directly.</p>
-					<p><font class="sectionTitle">Children's Privacy</font></p>
+
+					</p><p><font class="sectionTitle">Children's Privacy</font></p>
 					The Weather Channel is committed to protecting the safety and privacy of young people using the Internet.  We do not knowingly collect personally identifiable information from children under the age of 13 and believe that children should get their parents' or guardians' consent before giving out any personally identifiable information.  
 <p>Our Web site may contain links to third party Web sites geared to children.  The linked sites are not under the control of The Weather Channel.  We are not responsible for the contents of any linked site or any link contained in a linked site, nor are we responsible for the privacy practices of the operators of those sites with respect to children.  We strongly encourage parents and guardians to review the Privacy Policies of all linked sites.
 					</p><p><font class="sectionTitle">Our Commitment to Security</font></p>
@@ -1268,105 +1578,33 @@ If you elect to make e-mail inquiries on the www.forgetaway.weather.com site, yo
 	</td></tr>
 </tbody></table>
 <p class="Spacing"></p>	
-</div></td>
+</div>
+</td>
 </tr></tbody></table>
-
+      </td>
+     </tr>
+    </tbody></table>
+</div>
 	
-<!-- SiteCatalyst code version: H.14.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-
 <script type="text/javascript">
-document.write('<scr'+'ipt type="text/javascript" src="http://j.imwx.com'+bust_s_code+'/common/omniture/s_code11102009.js" ></scr'+'ipt>');
-</script><script type="text/javascript" src="http://j.imwx.com/v.20081117.0/common/omniture/s_code11102009.js"></script>
-<script language="JavaScript">
-<!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName=(mx_hash["level1"]+":"+mx_hash["pagename"]).toLowerCase();  
-s.channel=mx_hash["level1"].toUpperCase();
-if (mx_hash["searchterm"] != null && mx_hash["searchterm"] != "" && mx_hash["searchterm"] != "undefined") {
-s.prop1=mx_hash["searchterm"];
-}
+        addEvent(window,"load",function() {
+          window.setTimeout(function() {
+             var scodeScript = document.createElement('script');
+             scodeScript.type = 'text/javascript';
+             scodeScript.src = 'http://j.imwx.com'+bust_s_code+'/common/omniture/s_code11102010.js';
+             document.body.appendChild(scodeScript);
+           }, 10);
+         });
+		 
+		 // To delete fromStr cookie at the end of page load
+		 SetCookie ("fromStr", "", "", "/", ".weather.com");
+ </script>
 
-if (mx_hash["searchTermNonLocal"] != null && mx_hash["searchTermNonLocal"] != "" && mx_hash["searchTermNonLocal"] != "undefined") {
-s.prop3=mx_hash["searchTermNonLocal"];
-}
-
-if (mx_hash["resultsnum"] != null && mx_hash["resultsnum"] != "" && mx_hash["resultsnum"] != "undefined") {
-s.prop2=mx_hash["resultsnum"];
-}
-s.prop7=mx_hash["urs_id"];
-s.prop8=mx_hash["rm_id"];
-if (mx_hash["pif_timeframe"] != null && mx_hash["pif_timeframe"] != "" && mx_hash["pif_timeframe"] != "undefined") {
-s.prop10=mx_hash["pif_timeframe"];
-}
-s.prop11=(mx_hash["level1"]+"-"+mx_hash["level2"]+"-"+mx_hash["level3"]+"-"+mx_hash["level4"]).toUpperCase();
-s.prop14=(mx_hash["level1"]+"-"+mx_hash["level2"]).toUpperCase();
-s.prop15=(mx_hash["level1"]+"-"+mx_hash["level2"]+"-"+mx_hash["level3"]).toUpperCase();
-s.prop16=mx_hash["wxcond"];
-s.prop17=mx_hash["detail"];
-s.prop19=mx_hash["declaration_state"];
-if (mx_hash["loctype"] != null && mx_hash["loctype"] != "" && mx_hash["loctype"] != "undefined") {
-s.prop22=mx_hash["loctype"] + ":" + mx_hash["locid"] + ":" + mx_hash["locname"];
-}
-s.prop23=mx_hash["oas_spoof"];
-if (mx_hash["city"] != null && mx_hash["city"] != "" && mx_hash["city"] != "undefined") {
-s.prop26=mx_hash["city"] + ":" + mx_hash["state"] + ":" + mx_hash["country"];
-}
-s.prop27=mx_hash["dma"];
-s.prop28=mx_hash["zipcode"];
-s.prop31=mx_hash["urg"].replace(/^\s+|\s+$/g,"");
-s.prop32=mx_hash["ura"].replace(/^\s+|\s+$/g,"");
-s.prop34="";
-if (mx_hash["severewxticker"] != null && mx_hash["severewxticker"] != "" && mx_hash["severewxticker"] != "undefined") {
-  s.prop34 = mx_hash["severewxticker"];
-} else if (mx_hash["pollenticker"] != null && mx_hash["pollenticker"] != "" && mx_hash["pollenticker"] != "undefined"){
-  s.prop34 = mx_hash["pollenticker"];
-}
-if (mx_hash["localseveremod"] != null && mx_hash["localseveremod"] != "" && mx_hash["localseveremod"] != "undefined") {
-  s.prop34 = s.prop34 + ":" + mx_hash["localseveremod"];
-}
-if (mx_hash["severe"] != null && mx_hash["severe"] != "" && mx_hash["severe"] != "undefined") {
-  s.prop36 = mx_hash["severe"];
-}
-s.prop37=mx_hash["oas_context"];
-var rmid_2 = s.prop8.substring(8);
-var rmid_2_dec = parseInt(rmid_2,16);
-var dt = new Date();
-dt.setTime(rmid_2_dec * 1000);
-s.prop38 = (dt.getMonth()+1) + "-" + dt.getDate() +  "-" + dt.getFullYear();
-if (mx_hash["pagination"] != null && mx_hash["pagination"] != "" && mx_hash["pagination"] != "undefined") {
-	s.prop43=mx_hash["pagination"];
-}
-if(mx_hash["from"] != null && mx_hash["from"] != "") {
-	s.prop44=mx_hash["from"];s.eVar44=s.prop44;
-}
-if (mx_hash["cobrand"] != null && mx_hash["cobrand"] != "" && mx_hash["cobrand"] != "cobrand") {
-s.prop45=mx_hash["cobrand"];
-}
-s.prop46=mx_hash["ad_category"];
-s.prop47=mx_hash["content_type"];
-s.prop48=mx_hash["ad_family"];
-s.prop49=mx_hash["ad_channel"];
-s.hier1=(mx_hash["level1"] + "-" + mx_hash["level2"] + "-" + mx_hash["level3"] + "-" + mx_hash["level4"] + "-" + mx_hash["level5"] + "-" + mx_hash["level6"]).toUpperCase();
-if (mx_hash["ad_category"] == "vertical") {
-s.hier2=(mx_hash["ad_family"] + "-" + mx_hash["ad_channel"] + "-" + mx_hash["level1"]).toUpperCase();
-}
-if (mx_hash["error_page"] != null && mx_hash["error_page"] != "" && mx_hash["error_page"] != "undefined") {
-s.pageType=mx_hash["error_page"];
-s.pageName="error:"+window.location.pathname;
-}
-
-
-
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.14. -->
+
 
 <div id="ftrFooter">
 <div id="googlesearchbar" class="googleSearchFooter">
@@ -1409,6 +1647,11 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 						
 						
 									<p><a href="http://www.weather.com/encyclopedia/" from="footer">Weather Encyclopedia</a></p>
+					
+				
+						
+						
+									<p><a href="http://www.weather.com/outlook/weather-news/severe-weather/articles/tornado_2010-03-30" from="footer">Tornado</a></p>
 					
 				
 						
@@ -1550,15 +1793,25 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 	</tr>
 </tbody></table>
 	<p class="ftrVerticalLinks">
-	<span class="ftrVLHeader">More Great Sites:</span><a href="http://forgetaway.weather.com/" target="_blank">Vacation Home Rentals</a> | <a href="http://store.weather.com" target="_blank">TWC Store</a> | <a href="http://www.theweatherchannelkids.com/" target="_blank">The Weather Channel Kids</a> | <a href="http://climate.weather.com/" target="_blank">Climate &amp; Green Living</a> | <a href="http://weatherbonk.com/" target="_blank">WeatherBonk</a></p>	<p class="ftrVerticalLinks">
+	<span class="ftrVLHeader">More Great Sites:</span><a href="http://www.forgetaway.com" target="_blank">Vacation Home Rentals</a> | <a href="http://store.weather.com" target="_blank">TWC Store</a> | <a href="http://www.theweatherchannelkids.com/" target="_blank">The Weather Channel Kids</a> | <a href="http://climate.weather.com/" target="_blank">Climate &amp; Green Living</a> | <a href="http://weatherbonk.com/" target="_blank">WeatherBonk</a></p>	<p class="ftrVerticalLinks">
 	<span class="ftrVLHeader">Partners:</span><a href="/partnerships/homedepot/index.html" from="footer" target="_blank">The Home Depot Project of the Week</a> | <a href="http://www.mapquest.com/#?cid=MPQWeatherFooter" target="_blank">Maps &amp; Directions</a> | <a href="http://www.webmd.com/allergies/default.htm" target="_blank">WebMD Asthma &amp;  Allergy Center</a> | <a href="http://www.godaddy.com/default.aspx?isc=gdweather2" target="_blank">Web Hosting at GoDaddy.com</a></p>
-<p id="ftrButtons"><a href="http://www.weather.com/" from="footer">Home</a> | <a href="/common/home/siteindex.html" from="footer">Site Map</a> | <a href="/multimedia/bluebox/sitemap/index.html" from="footer">Video Site Map</a> | <a href="/interact/contactus/" from="footer">Customer Service</a> | <a href="/common/survey/feedback.html" from="footer">Feedback</a> | <a href="/aboutus/" from="footer">About Us</a> | <a href="http://press.weather.com/default.asp" from="footer" target="_blank">Press Room</a> | <a href="/jobs/" from="footer">Careers</a> | <a href="http://www.twcmediakit.com/" from="footer" target="_blank">Advertising</a></p>
+<p id="ftrButtons"><a href="http://www.weather.com/" from="footer">Home</a> | <a href="/common/home/siteindex.html" from="footer">Site Map</a> | <a href="/outlook/videos/sitemap" from="footer">Video Site Map</a> | <a href="/interact/contactus/" from="footer">Customer Service</a> | <a href="/common/survey/feedback.html" from="footer">Feedback</a> | <a href="/aboutus/" from="footer">About Us</a> | <a href="http://press.weather.com/default.asp" from="footer" target="_blank">Press Room</a> | <a href="/jobs/" from="footer">Careers</a> | <a href="http://www.twcmediakit.com/" from="footer" target="_blank">Advertising</a></p>
 
-<p id="ftrLegal"><span id="ftrCopyright">Copyright © 1995-2009, The Weather Channel Interactive, Inc.</span> <span id="ftrLicensed">weather.com® Licensed by TRUSTe | <a href="http://controlyourtv.org/" from="footer">Parental TV Controls</a></span> <span id="ftrTerms"><a href="/common/home/legal.html" from="footer">Terms of Service</a> | <a href="/common/home/privacy.html" from="footer">Privacy Statement</a></span></p>
+<p id="ftrLegal"><span id="ftrCopyright">Copyright © 1995-2010, The Weather Channel Interactive, Inc.</span> <span id="ftrLicensed">weather.com® Licensed by TRUSTe | <a href="http://controlyourtv.org/" from="footer">Parental TV Controls</a></span> <span id="ftrTerms"><a href="/common/home/legal.html" from="footer">Terms of Service</a> | <a href="/common/home/privacy.html" from="footer">Privacy Statement</a></span></p>
+
+<!-- Begin Hidden Ad -->
+<div id="WX_Hidden" class="adDiv">
+    <!--<iframe id="WX_Hidden_frame" name="WX_Hidden_frame" frameBorder="0" scrolling="no" allowtransparency="true" class="OASAdFrame" style="width: 1px; height: 1px" width="1" height="1"></iframe>-->
+    <script>
+        A21.notifyRegistered('WX_Hidden');
+    </script>
+</div>
+<!-- End Hidden Ad -->
 
 <script type="text/javascript">
-	if(typeof(OAS_listpos) == 'undefined' || OAS_listpos.indexOf("Hidden1") == -1){}else {document.write('<SCR'+'IPT>OAS_AD(\'Hidden1\')</SCR'+'IPT>');}
-if(typeof(OAS_listpos) == 'undefined' || OAS_listpos.indexOf("Hidden2") == -1){}else{document.write('<SCR'+'IPT>OAS_AD(\'Hidden2\')</SCR'+'IPT>');}
+
+
+
 function doHeadSpon() {
 	if(document.getElementById('headSpon') ) {
 		var ed=new Date(2008,3,22,23,59,59);
@@ -1574,12 +1827,26 @@ function doHeadSpon() {
 if(pageName == "/index.html" || pageName =="/" || pageName =="") { 
 	//window.onload = doHeadSpon;
 }
+
+
+
+	if(param('DFPdebug')) {
+    (function() {
+        var positions = wx.config.ad.sequence;
+        for (var i = 0; i < positions.length; i++) {
+            A21.getPosReqDetails(positions[i]);
+        }
+    })();
+}
+
 </script>
 
 
 
+</div></div></center>
 
 <script type="text/javascript" src="http://j.imwx.com/v.20080105.0/common/header/javascript/flookies.js"></script>
+
 <script src="http://j.imwx.com/v.20081117.0/common/header/javascript/flCheckFlookie.js" type="text/javascript"></script>
 <script language="JavaScript">if ((popup == 'undefined') || !popup) {if (!isNS6) Poll();}</script><script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=K06578" charset="ISO-8859-1"></script>
 <script type="text/javascript">
@@ -1637,7 +1904,7 @@ head.appendChild(script);
 </script>
 <noscript>
 <img src="http://pixel.quantserve.com/pixel/p-46ROr_WsiEBkE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript></div>
+</noscript>
 
 
-</div></td></tr></tbody></table></div></center></body></html>
+</body></html>
