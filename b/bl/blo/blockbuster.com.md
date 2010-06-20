@@ -1,76 +1,146 @@
-> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008043818id_/http%3A//www.blockbuster.com/bb/help/privacy_policy/0%2C7644%2C%2C00.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620125111id_/http%3A//www.blockbuster.com/corporate/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy at Blockbuster
+# Privacy Policy
 
-[ ](https://web.archive.org/bb/buy/main) |  | My BLOCKBUSTER |   
----|---|---  
-|  [Sign In](https://www.blockbuster.com/bb/secure/olr/account/account_index/0,7934,,00.html?)  
-Purchase Cart  
-[BLOCKBUSTER Rewards®](http://www.blockbuster.com/bb/rewards/0,7786,,00.html?)  
-[E-Newsletter](http://www.blockbuster.com/bb/enewsletter/0,7789,,00.html?)  
-[Recommendations](http://www.blockbuster.com/bb/recommends/0,7799,,00.html?)  
-[Freebie](http://www.blockbuster.com/bb/freebie/0,7745,,00.html?)  
-[Contact Us](http://www.blockbuster.com/bb/about/contact/us/0,7714,,00.html?)  
-[Store Locator](http://www.blockbuster.com/bb/store_locator/locate_store_enter/0,7391,,00.html?)  
-[About BLOCKBUSTER](http://www.blockbuster.com/bb/about/0,7710,,00.html?) [Careers](http://www.blockbuster.com/bb/about/careerzone/0,7700,,00.html?)  
-| [Movies](http://www.blockbuster.com/bb/movie/main/0,7296,,00.html?) |   
----|---|---  
-|  [New Releases](http://www.blockbuster.com/bb/movie/new_releases/0,7343,,00.html?)   
-[Coming Soon](http://www.blockbuster.com/bb/movie/coming_soon/0,7346,,00.html?)   
-[Top 10 DVD](http://www.blockbuster.com/bb/movie/platform/dvd/top10/0,7328,,00.html?)   
-[Top 10 VHS](http://www.blockbuster.com/bb/movie/platform/vhs/top10/0,7332,,00.html?)   
-[Award Winners](http://www.blockbuster.com/bb/awards/0,7503,,00.html?)   
-[Family Viewing Guide](http://www.blockbuster.com/bb/familyviewingguide/0,7784,,00.html?)   
-[Ratings Defined](http://www.blockbuster.com/bb/movies/mpaa/0,7640,,00.html?)  
-  
-| [Games](http://www.blockbuster.com/bb/game/main/0,7560,,00.html?) |   
----|---|---  
-|  [New Releases](http://www.blockbuster.com/bb/game/new_releases/0,7578,,00.html?)  
-[Coming Soon](http://www.blockbuster.com/bb/game/coming_soon/0,7580,,00.html?)  
-[Top 10 Games](http://www.blockbuster.com/bb/game/top10/0,7559,,00.html?)  
-[Game Freedom Pass](http://www.blockbuster.com/gamefreedompass/0,8096,,00.html?)  
-[Ratings Defined](http://www.blockbuster.com/bb/game/esrb/0,7631,,00.html?)  
-| Specials |   
----|---|---  
-|  [DIRECTV](http://www.blockbuster.com/bb/article/details/0,7413,ART-707,00.html?)  
-[Carl & Ray™](https://web.archive.org/bb/carlandray)  
-[GiftCards](http://www.blockbuster.com/bb/article/details/0,7413,ART-528,00.html?)  
-[Pre-viewed Movies](https://web.archive.org/bb/movie/prp)  
-[Pre-played Games](http://www.blockbuster.com/bb/article/details/0,7413,ART-1167,00.html?)  
-  
-|  |  PRIVACY POLICY |   
----|---  
-  
+Blockbuster Inc. ("Blockbuster") operates a variety of web sites ("Web Site" or "Site") including www.blockbuster.com and is committed to protecting the privacy of our Web Site users ("Users") and BLOCKBUSTER® members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. Blockbuster will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
+
+What is Personal Information?
+    
+
+Blockbuster defines personal information as information about an individual that enables someone to identify or contact a person and includes, among other things, a person's full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form in combination with one of the foregoing identifiers, such as account history, financial information, titles rented or purchased or categories of products rented or purchased. Categories of personal information that we collect include, for example:
+
+  * Basic identifying information such as e-mail address and first and last names
+  * Security information such as password, secret question and answer or driver's license
+  * Contact information such as address and phone number
+  * Store membership information such as membership number, names of others allowed to use your account and favorite stores
+  * Billing information such as credit or check card, expiration date, billing address and account history
+  * Site preferences such as movie categories you like, game platforms you have and whether you wish for cover art to be displayed
+  * Ratings and reviews of movies and games
+  * Lists of movies and games, such as for online subscription, rental or purchase
+  * E-newsletter selections and preferences
+  * Direct marketing contact preferences
+  * Rental and purchase history
+  * Sweepstakes entries
+  * Complaints, questions and information submitted to customer service agents or similar individuals either in person, by phone, by e-mail or by entry on a Site
+  * Site behavior such as pages visited or searches requested
+  * Browser information such as browser version, connection speed, IP address and the presence of various related plug-ins and tools such as media players
 
 
-Blockbuster Inc. ("Blockbuster") is committed to protecting the privacy of our website users ("Users") and BLOCKBUSTER® members ("Members"). To that end, we offer this statement to inform our Users and Members of how we define, gather and utilize personally identifiable information. Blockbuster shall take reasonable steps to protect Members' and Users' privacy consistent with the guidelines set forth in this policy and the law.
+When Does Blockbuster Collect Personal Information?
+    
 
-Blockbuster defines personally identifiable information as information that includes any combination of the following: a person's full name, street address, telephone number, date of birth, email address and/or the genre of products rented or purchased by a person. Blockbuster can gather information about our Users in two different ways:
+Blockbuster collects personal information from you when you voluntarily submit that information to Blockbuster, for example: when you apply for a customer membership in our stores; register on a Site; sign up for a subscription service; register for our e-newsletter service; participate in one of our sweepstakes, contests, or surveys; respond to an offer; purchase or rent products; or request to be on a mailing list. After you have registered your e-mail address on the Site and if you have clicked "Remember Me" or signed in to the Site, Blockbuster collects Site behavior and browser information as you navigate through the Site. This information may be used to create a profile that we keep on individual Users that details their preferences, personal information and behavior. Consequently, collected information is tied to the User's personally identifiable information and may be used to provide offers and improve the content of the Site for the User. This profile may also be used to tailor a User's visit to our Web Site, and to direct pertinent marketing promotions to them.
 
-1\. a User supplies it in response to a request from us or   
-2\. Cookie technology. 
+We may also collect personal information from other sources. For example, we purchase third party marketing data and add it to our existing databases of User and Member information to better target our advertising and provide pertinent offers we think our Users and Members would be interested in. We use this information to enhance or overlay the 'profile' of individual Users. This aggregate marketing data is therefore tied to the User's or Member's personally identifiable information. 
 
-Blockbuster collects personally identifiable information from Users when voluntarily submitted by a User, for example when a User participates in a sweepstakes or contest, purchases products online, or registers on blockbuster.com for an e-newsletter or other individualized services. We require that a User be 16 years of age or older to submit personally identifiable information. We do not knowingly collect personally identifiable information from children under the age of thirteen. We screen users who wish to provide personal information to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen. Because we do not knowingly collect any personally identifiable information from children under the age of thirteen, we also do not knowingly distribute such information to third parties. We do not knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information. Because we do not collect any personally identifiable information from children under the age of thirteen, we do not condition the participation in online activities of a child under thirteen on providing personally identifiable information.
+What Happens When I Register On The Web Site?
+    
 
-Blockbuster also utilizes cookie technology to process and identify order data. A cookie is a piece of information that is transferred to a user's hard drive for record- keeping purposes. If Users choose to, they have the option to set their browser to refuse cookies.
+In order to use certain features of this Web Site, a User must first complete a registration process. During registration a User is required to provide basic contact information (such as name and e-mail address) and establish a password. Depending on the feature being used, the User may be required to provide other information associated with the use of that particular feature. For example, a User signing up for our subscription service will be required to provide an address to which products will be mailed and financial information in the form of a credit card or check card number and expiration date for billing purposes. Users signing up for our e-newsletter service may enter the types of movies or games in which they are interested and about which they wish to receive information in the newsletter.
 
-Blockbuster, its affiliates and franchisees (if permitted by Blockbuster) may share and use personally identifiable information collected online to develop and improve the products, benefits and services we or selected business partners offer to our Members or Users. Blockbuster its affiliates and franchises (if permitted by Blockbuster) also may share and use certain User and Member data in the ordinary course of their business, for example, for account maintenance and debt collection. Certain information collected in connection with product purchases may be provided to third parties for use in transaction authorization, fraud scoring and credit card fraud prevention modeling.
+What Happens When I Place An Order On The Web Site?
+    
 
-Except as described above, Blockbuster will not communicate with Users or Members by email or provide User or Member email addresses to business partners, unless the User or Member has provided express permission to Blockbuster. Users and Members also have the chance to opt out of other opportunities to receive promotional communications, materials and products from (1) Blockbuster, its affiliates and Blockbuster franchisees (if permitted by Blockbuster) or (2) their business partners. With the exception of users exercising the opt out opportunity, Blockbuster, its affiliates and franchisees (if permitted by Blockbuster) on occasion may disclose to their business partners certain data such as names and addresses and the genre of products rented or purchased by a person, for the exclusive use of marketing goods and services directly to Users and Members. Under no circumstances will Blockbuster disclose title-specific information to anyone except as allowed by law.
+Certain features of the Web Site do not require registration but may still require personal information to be entered, such as placing an order for a product. We request information from the User during the ordering process. For example, a User will be required to provide contact information (such as name, e-mail, and shipping address) and financial information (such as credit card or check card number, expiration date). This information is used for billing purposes and to fill Users' orders. If we have trouble processing an order, the information is used to contact the User.
 
-**How to Opt Out**
+Does Blockbuster Use Cookie Technology?
+    
 
-**1\. Direct Mail**  
-If you wish to receive communications by means other than email from (1) Blockbuster, its affiliates and permitted franchisees and/or (2) their business partners, but you would like to change your election, please visit any BLOCKBUSTER store.
+Blockbuster uses cookie technology to make your use of the Sites more convenient and to support our internal business purposes. A cookie is a piece of information that is transferred to a User's hard drive for record-keeping purposes. For example, Blockbuster uses cookies to remember your e-mail address so that you will not have to re-enter this information each time you visit the Site. Blockbuster also uses cookies to help track referrals from third party web sites. Most browsers are initially set up to accept cookies, but you can set up your browser to alert you every time a cookie is offered, letting you decide whether or not to accept it. You can use and visit the Site with cookies disabled, but you will not automatically be recognized by the Site upon re-visiting. However, cookies allow you to take full advantage of some of our Sites' best features, so we recommend that you leave them turned on. 
 
-**2\. Email**  
-Otherwise, to change your election regarding receipt of email from (1) Blockbuster, it's affiliates and franchisees if permitted by Blockbuster and/or (2) their business partners, please contact the Blockbuster Customer Service department by sending an email to customer.service@blockbuster.com.
+Some of our business partners use cookies on our Site (for example, advertising partners). However, we have no access to or control over these cookies, once we have given permission for them to set cookies.
 
-Secure online ordering is important to Blockbuster. Blockbuster utilizes SSL (secure socket layers) to protect your credit card and order information. SSL encrypts all of this data, such as your name and credit card number, so that it cannot be read in transit. In addition, Blockbuster encrypts credit card information when it is stored in our databases.
+What Other Mechanisms Does Blockbuster Use to Track User Behavior?
+    
 
-Blockbuster supports the Video Privacy Protection Act of 1988 and will use reasonable commercial efforts to require employee and business partner compliance with the Act. 
+Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies. 
 
-REQUIRED BY NEW YORK LAW: This video tape service provider from time to time provides to marketers of goods and services, the names and addresses of customers and a description or subject matter of materials rented by video customers. You have the right to elect not to have your name, address or the description or subject matter of any material rented included in such lists. This election may be changed by you, in writing, at any time. 
+Blockbuster and its third party vendors use web beacons to track and analyze non-personally identifiable usage information and to compile statistical information about our Users in order to improve the Web Site's quality and to support our business. All data collected on behalf of Blockbuster is owned and used by Blockbuster. Blockbuster reserves the right to publish non-personally identifiable, summary information regarding its Web Site visitors for promotional purposes and as a representative audience for business partners.
 
-  
+We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
+How Does Blockbuster Handle Information from Children?
+    
+
+Please note that Blockbuster has no intention of collecting personal information from individuals under the age of 13 ("children"). We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). Where appropriate, we will instruct children not to provide such information to us. If a parent becomes aware that a child has provided us with personal information, we ask that the parent or legal guardian of the child contact us by visiting www.blockbuster.com, selecting 'Contact Us' and completing the contact form or in writing to 1201 Elm Street, ATTN: Online Customer Care, Dallas, TX 75270 to request that this information be deleted from our records.
+
+How Does Blockbuster Use Personal Information?
+    
+
+Use of Personal Information for our internal business purposes. Blockbuster uses the personal information you provide for the purposes for which it was provided, for example, to process an order; to record your rental of a product and its return date; to support an online subscription service; to collect debts and recover overdue rental products; to notify you that you have won a contest or sweepstakes; to respond to your inquiries or complaints or to contact you or send you information about your membership. In addition, Blockbuster, its subsidiaries and franchisees may share and use information collected through the Site to administer and manage our business, including, for example for account maintenance and collections purposes, and in connection with information technology services. In addition, personal information may be used to create a profile that we keep on individual Users that details their preferences and behavior. This profile may be used to develop and improve the products, benefits and services, Blockbuster, its subsidiaries, franchisees and business partners offer to our Members or Users, to improve the Site and the associated user experience, and to develop pertinent marketing promotions to Users and Members. 
+
+Where permitted or required by law, Blockbuster may collect, use or disclose your personal information without your consent, for example in response to a court order or subpoena or to comply with a legally permitted inquiry by a government agency. 
+
+When Will I Be Contacted by Blockbuster?
+    
+
+You may receive products and communications associated with your transactions with Blockbuster, such as rentals, purchases, subscriptions, sweepstakes and contests. You may also receive communications from Blockbuster related to transactions that appear to be from you or which appear to be fraudulent. You may be contacted in regards to an issue on your account or in response to a customer service contact by you or in response to a specific request from you such as clicking on a "forgot my password" link. Users who sign up for e-newsletter subscriptions will receive e-mails in accordance with their selection and preferences. These administrative communications also may be accompanied by information about products and services, special offers and upcoming promotions or events offered by Blockbuster, our subsidiaries, our franchisees or our marketing partners that we think may be of interest to you ("direct marketing"). 
+
+You may periodically receive from Blockbuster, its subsidiaries and franchisees unsolicited direct marketing communications by mail (delivered via the United States Postal Service). Blockbuster and its subsidiaries will send standalone direct marketing e-mail communications to you only if you have agreed previously. We support the option to not receive these types of communications. Please see the following section: How Can I Opt Out of Receiving Direct Marketing from Blockbuster?
+
+How Can I Opt Out of Receiving Direct Marketing from Blockbuster?
+    
+
+By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Privacy Policy as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. Blockbuster is the owner of the personal information collected on our Web Site. If you do not want your personal information to be collected, used or disclosed in this manner, please do not submit your personal information to us. 
+
+If you would prefer that Blockbuster not use your personal information for standalone direct marketing communications, subject to legal, or contractual restrictions and legal notice you may opt out of such uses and/or disclosures by (a) checking the appropriate "Opt Out" box in any applicable e-mail communication or e-newsletter, (b) visiting www.blockbuster.com, selecting 'Contact Us' and completing the contact form (c) writing to us at 1201 Elm Street, ATTN: Online Customer Care, Dallas, TX 75270 or (d) visiting your local BLOCKBUSTER store. Once you have opted out, your subsequent registration for our direct marketing services and promotions like our e-newsletter, or our sweepstakes and contests may void, temporarily or permanently, your prior elections to opt out of receiving direct marketing communications from Blockbuster. Please consult the applicable rules of the promotion or service before participating. Note that when you elect to opt out we do not delete your personal information. 
+
+E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from Blockbuster are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Online Customer Service group using the Contact Us functionality on the Site. We appreciate your feedback but cannot commit to taking action.
+
+What Personal Information Does Blockbuster Give to Others?
+    
+
+ _Transfer of Personal Information to Third Party Goods and Services Providers._ Blockbuster employs third party vendors, service providers, and suppliers to perform various functions on our behalf. Such services include: fulfilling orders; processing credit card or check card payments; collecting debts; removing repetitive information from customer lists; analyzing data; developing, hosting and maintaining our Web Sites and databases; sending and receiving e-mail and other communications; and staffing customer service call centers. These third parties may have access to personally identifiable information as reasonably necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Certain information collected in connection with transactions may be provided to third parties for use in transaction authorization, fraud scoring and payment card fraud prevention modeling.
+
+Blockbuster, its affiliates and franchisees (if permitted by Blockbuster) on occasion may disclose to their business partners certain data, such as names and addresses and the genre of products rented or purchased by Users or Members, so that the business partner may send their own direct marketing communications to Users and Members. Blockbuster will not provide User or Member e-mail addresses to business partners, unless the User or Member has provided express permission to Blockbuster. If you would prefer that Blockbuster not use disclose your personal information to its business partners for direct marketing purposes, subject to legal, or contractual restrictions and legal notice you may opt out of such uses and/or disclosures by (a) checking the appropriate "Opt Out" box in any applicable e-mail communication or e-newsletter, (b) visiting www.blockbuster.com, selecting 'Contact Us' and completing the contact form (c) writing to us at 1201 Elm Street, ATTN: Online Customer Care, Dallas, TX 75270 or (d) visiting your local BLOCKBUSTER store.
+
+ _Third Party Features._  From time to time Blockbuster may include additional features and functionality from third parties on our Web Sites. Certain of these features and functions, may require Blockbuster to send selected information about you, such as information about your movie queue, to the third party. If you do not wish for Blockbuster to share this information, you will have a reasonable opportunity to opt-out of these third-party features and functions. Blockbuster will never send your password or your financial information to any third party through these features or functions.
+
+ _Cleaned Data._  We periodically remove from personal information data that can be used to identify individuals for example by summarizing, aggregating or removing certain data elements. The resulting cleaned data is no longer considered personal information and is not subject to this Privacy Policy. The cleaned data may be published by Blockbuster and provided to various third parties.
+
+ _Disclosures Attendant to a Merger or Acquisition._  If Blockbuster or its assets are acquired by another company, your personal information may be disclosed to the acquiring company to allow it to fulfill your order or provide the products, services or information that Blockbuster would otherwise provide to you and generally to carry on the Blockbuster business. We may also use and disclose your personal information to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties. We will require such parties to treat your personal information in accordance with this privacy policy and to use and disclose it only for the purposes for which it was collected. 
+
+_Public postings._  If you disclose your personal information in a manner that will be posted publicly such as in a product review your posting will be seen by others. In addition, if you elect to participate in certain community features offered from time to time, selected information about you, including information about your movie queue, may be shared with other participants in these community features. Also, Blockbuster may make it possible for certain third party web sites to be accessed directly from our Web Sites and for selected information about you to be provided to these third party web sites if you are also a user of these third party web sites. If a third party web site allows other users to view information about you (e.g., through posting to a publicly available profile page), the information provided by Blockbuster will be visible to other users of the third party web site.
+
+How does Blockbuster Protect Personal Information?
+    
+
+Blockbuster takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by Blockbuster. For example, Blockbuster uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. 
+
+What About Links to Other Web Sites?
+    
+
+This Privacy Policy applies solely to information collected by Blockbuster. However, our Site contains links to other web sites owned and operated by third parties. The third parties who operate these sites may treat the collection, use and disclosure of personal information differently than we do. This could be the case even for those web sites that carry Blockbuster's or its affiliates' trademarks or logos or which are framed by a Site. Please be aware that Blockbuster is not responsible for the data collection, use and disclosure practices of companies or organizations to which our Sites may provide links. We encourage our Users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+
+How Can I Access or Correct My Personal Information?
+    
+
+If a User's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a User no longer desires our service, we provide a way to correct or, update or delete/deactivate Users' personally identifiable information. You can review or change some of your personal information as follows:
+
+  * You can review and change certain store related information by visiting one of our stores, presenting suitable identification and giving the store agent your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc. 
+  * You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area. 
+
+
+
+Note that in most cases, Blockbuster will retain the previously entered data.
+
+Legal Notices
+    
+
+Video Privacy Protection Act of 1988. Blockbuster supports the Video Privacy Protection Act of 1988 and will use reasonable commercial efforts to require employee and business partner compliance with the Act.
+
+REQUIRED BY NEW YORK LAW: This videotape service provider from time to time provides to marketers of goods and services, the names and addresses of customers and a description or subject matter of materials rented by video customers. You have the right to elect not to have your name, address or the description or subject matter of any material rented included in such lists. This election may be changed by you, in writing, at any time.
+
+Can Blockbuster Change This Privacy Policy?
+    
+
+Blockbuster reserves the right to change this Privacy Policy from time to time. If Blockbuster makes a change, this Privacy Policy will be updated accordingly. We recommend that you review this Privacy Policy periodically so that you are aware of any changes. If we make a material change to this Privacy Policy we will make reasonable efforts to notify you. For example, your continued consent to our collection, use and disclosure of your personal information or your continued use of our Sites following the notification or posting of any changes to this Privacy Policy shall constitute your acceptance of these changes.
+
+How Do I Contact Blockbuster Regarding The Web Site And This Privacy Policy?
+    
+
+If Users have any questions or suggestions regarding our privacy policy, please contact us at:
+
+Web: visit www.blockbuster.com, select 'Contact Us' and complete the contact form 
+
+Postal Address: ATTN: Online Customer Care, 1201 Elm Street, Dallas, TX 75270
