@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218183648id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620193804id_/http%3A//www.bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web Site Privacy Policy
 
@@ -26,9 +26,7 @@ NATURAL HEALING](http://www.bottomlinesecrets.com/store/pubs/sub_bnah.html)
     * [Meet Dr. Stengler](http://www.bottomlinesecrets.com/experts/mstengler.html)
     * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=nah)
   * [Bottom Line/  
-WOMEN'S HEALTH](http://www.bottomlinesecrets.com/store/pubs/sub_bwh.html)
-    * [Free Subscription Offer](http://www.bottomlinesecrets.com/store/pubs/sub_bwh.html)
-    * [Article Index](http://www.bottomlinesecrets.com/index/indexes.html?pub=bmwh)
+WOMEN'S HEALTH](http://www.bottomlinesecrets.com/index/indexes.html?pub=bmwh)
   * [Bottom Line/  
 RETIREMENT](http://www.bottomlinesecrets.com/index/indexes.html?pub=tomm)
   * [Bottom Line/  
