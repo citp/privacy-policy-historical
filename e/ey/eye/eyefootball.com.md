@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the eyefootball.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219010724id_/http%3A//www.eyefootball.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefootball.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621002735id_/http%3A//www.eyefootball.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Football News
 
 ### Eyefootball: Privacy Policy
 
 **We are committed to your right to privacy and will only use your data as set out below.  
-This privacy policy has been created specifically for football news site [www.eyefootball.com](https://web.archive.org/web/20091219010724id_/http%3A//www.eyefootball.com/index.php). Please read this information carefully. By using eyefootball.com you agree to us collecting and using your personal information in accordance with the following details.**
+This privacy policy has been created specifically for football news site [www.eyefootball.com](https://web.archive.org/web/20100621002735id_/http%3A//www.eyefootball.com/index.php). Please read this information carefully. By using eyefootball.com you agree to us collecting and using your personal information in accordance with the following details.**
 
 **Compliance with legislation**
 
