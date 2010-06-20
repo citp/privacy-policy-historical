@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qpzm.com.au privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002075546id_/http%3A//www.qpzm.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qpzm.com.au privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620095837id_/http%3A//www.qpzm.com.au/privacy) for the most accurate reproduction.*
 
 # Qpzm Australia
 
@@ -28,4 +28,4 @@ If the business of Qpzm is sold, or transfers substantially all of its assets to
 
 This policy may change from time to time, so please check back periodically. 
 
-Copyright © 2005 - 2007. Twit Solutions Pty Ltd.
+Copyright © 2009 Twit Solutions Pty Ltd.
