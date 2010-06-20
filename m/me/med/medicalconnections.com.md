@@ -1,49 +1,38 @@
-> *The following text is extracted and transformed from the medicalconnections.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218164909id_/http%3A//www.medicalconnections.com/health-care-jobs-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalconnections.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621001045id_/http%3A//www.medicalconnections.com/health-care-jobs-privacy) for the most accurate reproduction.*
 
 # Privacy | physical theraphy, pt, ot, nurse, pta, travel jobs, perm jobs | Medical Connections
 
 You are truly remarkable and have been a pleasure to work with.  John G. & Sarah M., Los Angeles, CA
 
-Medical Connections is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request. This privacy statement explains data collection and use in those situations. This privacy statement only applies to Medicalconnections.com; it does not apply to other online or offline Medical Connections sites.
+We, Medical Connections, have created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy statement discloses the information collection and disclosure practices for our Web site. By accessing this Site, you consent to the collection and use of information as described herein.
 
-#### Collection of your Personal Information
+**WHO WE ARE:** Our Site(s) provides you with various services related to travel, temporary and permanent employment opportunities. In order to provide these services, we collect information from you a job seeker through our Sites and forward it on to one or more third party service providers that use the information to provide you with these services. If you are a seeking employment, we collect personally identifying information from you through our Sites, including but not limited to your name, address, phone number, e-mail address, and information about career preferences. In order for us to provide these services, we also may collect supplementary personally identifying information about you from third party sources to correct or supplement the information we have requested from you.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are registering before entering a contest, ordering e-mail newsletters, signing up for an event or training, or when purchasing and/or registering for a Medical Connections produce to service. Personal information collected by Medicalconnections.com often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested.
+**PERSONAL INFORMATION:** [www.medicalconnections.com](http://www.medicalconnections.com/ "Medical Connections") is a career site, you, the visitor, have the option of posting your resume in our database. Posting your resume can have significant benefits, as it can be viewed by a large number of facilities, staffing companies, recruiting firms, and travel companies. Depending on your qualifications and your position requirements, you may receive many contacts from facilities, recruiting firms, staffing companies, and travel companies. Contacts may be made by phone, mail, fax, and/or email. Any email contacts are not spam, and by posting your resume, you agree not to submit any email you receive due to posting your resume as spam.
 
-#### Use of your Personal Information
+**UPDATING INFORMATION:** At which point you no longer wish to receive contacts, you may remove your resume from our database. If you are currently employed, there is a chance that your current employer will receive your resume if they are a preferred client of [www.medicalconnections.com](http://www.medicalconnections.com/ "Medical Connections"). If this concerns you, do not post your resume. [www.medicalconnections.com](http://www.medicalconnections.com/ "Medical Connections") will not be held responsible for any damages if your current employer receives, or views your resume.
 
-We use your personal information for the following purposes:
+**POSTING INFORMATION:** By posting your resume you acknowledge the acceptance of this disclaimer. Information is not required to view jobs. If you prefer to simply search jobs, and respond to those of interest without posting your resume to our database, feel free to do so.
 
-  * To ensure our site is relevant to your needs.
-  * To deliver services, such as newsletters, events, training or software that you request.
-  * To help us create and publish content most relevant to you.
-  * To alert you to product upgrades, special offers, updated information and other new services from Medical Connections, if you so request.
-  * To allow you access to limited-entry areas of our site as appropriate.
+**DISCLOSURE OF PERSONAL INFORMATION:** Except as set forth in this privacy statement, we do not disclose, sell, rent, loan, trade or lease any personally identifying information collected at our Sites beyond our current client(s).
+
+**LINKS:** Please be aware that we may provide links to third party Web sites from our Sites as a service to our users and we are not responsible for the content or information collection practices of those sites. We have no ability to control the privacy and data collection practices of such sites and the privacy policies of such sites may differ from that of [www.medicalconnections.com](http://www.medicalconnections.com/ "Medical Connections"), Therefore, we encourage you to review and understand the privacy policies of such sites before providing them with any information.
+
+**COOKIES AND WEB TRACKING:** To enhance your experience with [www.medicalconnections.com](http://www.medicalconnections.com/ "Medical Connections"), we use a feature on your internet browser called a "cookie". Cookies are small tracking files that your web browser uses to allow applying for multiple positions without the hassle of having to re-enter your information each time you wish to apply. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will hinder performance and negatively impact your experience on our site.
+
+**SECURITY:** We [www.medicalconnections.com](http://www.medicalconnections.com/ "Medical Connections") use reasonable security measures to store and maintain personally identifying information to protect it from loss, misuse, alternation or destruction by any unauthorized party while it is under our control.
+
+**CHILDREN:** We do not intend, and these Sites are not designed, to collect personal information from children under the age of 18. If you are under 18 years old, you should not register for our services or otherwise provide information on our Sites.
+
+**CHOICE AND ACCESS:** [www.medicalconnections.com](http://www.medicalconnections.com/ "Medical Connections") gives users the following options for accessing, changing and deleting personal information previously provided, or opting out of receiving communications from us:
+
+  * Email us at [info@medicalconnections.com](mailto:info@medicalconnections.com) or
+  * Call us at the following telephone number: (866) 681-2056
 
 
 
-We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of Medicalconnections.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won't merge your personal information with site-visitation data.
+**QUESTIONS AND CONCERNS:** If you have any questions or concerns regarding our privacy statement, the practices of our Sites, or your dealings with our Sites, please contact us at the following address or email us at [info@medicalconnections.com](mailto:info@medicalconnections.com)
 
-Medical Connections may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Medical Connections or the site; (b) protect and defend the rights or property of Medical Connections, or (c) act in urgent circumstances to protect the personal safety of Medical Connections employees, users of Medical Connections products or services, or members of the public.
+Medical Connections, Inc.
 
-#### Control of your Personal Information
-
-When you register, or otherwise give us personal information, Medicalconnections.com will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
-
-#### Security of your Personal Information
-
-Medicalconnections.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-#### Use of Cookies
-
-When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. One use of cookies is to assist in the collection of the site visitation statistics described above.
-
-We also use cookies to collect information on which newsletter links are clicked by customers. This information is used to ensure we are sending information customers want to read. It is collected in aggregate form and never linked with your personal information.
-
-#### Enforcement of this Privacy Statement
-
-If you have questions regarding this statement, you should first contact Medicalconnections.com by e-mail.
-
-#### Changes to this Statement
-
-Medicalconnections.us will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, Medicalconnections.com will notify you by placing prominent notice on the Web site. 
+2300 Glades Rd. 202E, Boca Raton, FL 33431
