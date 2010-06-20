@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203090334id_/http%3A//www.sportingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620120311id_/http%3A//www.sportingnews.com/privacy) for the most accurate reproduction.*
 
 # Sporting News - Privacy Policy
 
@@ -67,6 +67,6 @@ Privacy Policy Coordinator
 SportingNews  
 120 West Morehead Street, Suite 200  
 Charlotte, NC 28202  
-[privacyreport@sportingnews.com](mailto:privacyreport@sportingnews.com)
+[privacy@sportingnews.com](mailto:privacy@sportingnews.com)
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
