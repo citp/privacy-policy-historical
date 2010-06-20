@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ergoindemand.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ergoindemand.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Ergo In Demand - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 | 
 
-[ LCD Monitor Arms & Mounts](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/lcd_monitor_arms.htm)  
+[ LCD Monitor Arms & Mounts](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/lcd_monitor_arms.htm)  
   
 ---|---  
   
@@ -14,61 +14,61 @@ __
 
 | 
 
-[ Plasma LCD Mount / TV Stand](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/plasma-mounts-TV-stands.htm)  
+[ Plasma LCD Mount / TV Stand](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/plasma-mounts-TV-stands.htm)  
   
 | 
 
-[ Home & Office Furniture](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/office-furniture-desks-home.htm)  
+[ Home & Office Furniture](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/office-furniture-desks-home.htm)  
   
 | 
 
-[ Computer Furniture](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/computer_workstations_overview.htm)  
+[ Computer Furniture](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/computer_workstations_overview.htm)  
   
 | 
 
-[ School Furniture](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/school-furniture-classroom-furniture.htm)  
+[ School Furniture](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/school-furniture-classroom-furniture.htm)  
   
 | 
 
-[Office Chairs & Seating](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/office-chairs-ergonomic-chairs.htm)  
+[Office Chairs & Seating](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/office-chairs-ergonomic-chairs.htm)  
   
 | 
 
-[Filing & Storage](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/filing_systems_storage_cabinets.htm)  
+[Filing & Storage](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/filing_systems_storage_cabinets.htm)  
   
 | 
 
-[Boards & Easels](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/white_boards_and_bulletin_boards.htm)  
+[Boards & Easels](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/white_boards_and_bulletin_boards.htm)  
   
 | 
 
-[ Magazine & Literature Racks](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/literature_rack_magazine_holder.htm)  
+[ Magazine & Literature Racks](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/literature_rack_magazine_holder.htm)  
   
 | 
 
-[ Keyboard Trays](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/keyboard.htm)  
+[ Keyboard Trays](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/keyboard.htm)  
   
 | 
 
-[ Filters](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/glarefilters.htm)  
+[ Filters](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/glarefilters.htm)  
   
 | 
 
-[ Ergonomic Accessories](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/ergonomic-accessories.htm)  
+[ Ergonomic Accessories](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/ergonomic-accessories.htm)  
   
 | 
 
-[ Economy Line](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/economyline.htm)  
+[ Economy Line](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/economyline.htm)  
   
 |   
 | 
 
-[ Home](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/index.html) > FAQ  & Policies
+[ Home](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/index.html) > FAQ  & Policies
 
 ##  \- Learn about how keep your personal and purchase information safe and private.
 
 |   
----|---  
+[](http://www.addthis.com/bookmark.php)  
   
 |   
   
@@ -122,7 +122,7 @@ In an attempt to provide you with increased value, we may include third party li
 Changes to our policy  
 If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on September 26th, 2007.  
 Questions and feedback  
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue by email at [ ](https://web.archive.org/web/20091219020114id_/http%3A//www.ergoindemand.com/contact.htm) or by phone at 1-800-888-6024.  
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue by email at [ ](https://web.archive.org/web/20100621011029id_/http%3A//www.ergoindemand.com/contact.htm) or by phone at 1-800-888-6024.  
 Online Policy Only  
 This online privacy policy applies only to information collected through our website and not to information collected offline.  
   
@@ -142,11 +142,11 @@ Customer Service| Ordering| Partner Links| Learning Center| Site Links
 |  |  |  |   
 |  |  |  |   
 |  |   |  [ Product Reviews](http://reviews.ergoindemand.com/) |   
-  |  |   |   |    
+  |  |   |   |   
 |  |  |  |   
   
    
   
 < back to top >
 
-© Copyright 2000 to 2009  ~  Ergo In Demand, Inc.  ~  4900 Industry Drive,  Central Point, OR 97502
+© Copyright 2000 to 2010  ~  Ergo In Demand, Inc.  ~  4900 Industry Drive,  Central Point, OR 97502
