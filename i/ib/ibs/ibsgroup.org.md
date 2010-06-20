@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925080957id_/http%3A//www.ibsgroup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620153936id_/http%3A//www.ibsgroup.org/privacy) for the most accurate reproduction.*
 
-# The Irritable Bowel Syndrome Self Help and Support Group Respects Your Privacy | Irritable Bowel Syndrome Self Help and Support Group
+# The Irritable Bowel Syndrome Self Help and Support Group Respects Your Privacy | IBSgroup.org
 
-**Publication Date (revised): March 18, 2009**
+**Publication Date (revised): January 22, 2009**
 
 IBS Self Help and Support Group ("IBS Group") respects your privacy. That's why we have created this Privacy Statement to explain how and why we collect certain information online, and how we use that information. This statement also explains how you can prevent collection of certain information about yourself, if you choose. Please take a few moments to read our Privacy Statement. This statement applies to both information we collect from visitors to the IBSGroup.org Web site, as well as information we collect or have access to when on our message boards. 
 
@@ -40,14 +40,12 @@ IBS Group uses browser cookies to facilitate your experience with our bulletin b
 
 The IBS Group uses, in part, Google Adsense to deliver relevant advertising. Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-**Donations and/or Credit Card Information**  
-IBS Group strives to maintain strict security for your private information. Our online donations are Paypal enabled, providing a secure means of making a donation. We do not maintain any credit card information at IBS Group, which means that you have to provide it each time you make a donation, but also means that your information is controlled by you alone. 
-
 **Technical Support**  
 Any personal information you provide to us in the course of obtaining technical support, or asking other questions about IBS Group will be used only for the purposes for which it was submitted. We may store the information, but we will not use it for any other purposes or disclose it to any third parties. 
 
 **Use and Disclosure of Your Information**  
-IBS Group uses the personal information it collects from registration forms you fill out on our site to: 
+IBS Group uses the personal information it collects from registration forms you fill out on our site to:   
+ 
 
   * Allow users to access and use our bulletin board and/or services;
   * Supply users with installation instructions, download, access or use information, and technical support information;
