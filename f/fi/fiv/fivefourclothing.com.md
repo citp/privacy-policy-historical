@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivefourclothing.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219131126id_/http%3A//www.fivefourclothing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivefourclothing.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620172450id_/http%3A//www.fivefourclothing.com/privacy) for the most accurate reproduction.*
 
 # FIVE FOUR ~ Privacy Policy
 
