@@ -1,30 +1,51 @@
-> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218103433id_/http%3A//www.build.com/decor/static.pl%3FS%3Dinfo/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620211522id_/http%3A//www.build.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
-# Privacy Policy at Build.com
+# Build.com: Security & Privacy
 
-### Information Collection & Use
+## Our Company
 
-Build.com is the sole owner of the information collected on its Web sites. We will not sell, share, or rent this information to others. Build.com collects information from our customers at several different points on our Web sites including the order and quote pages. This information is used for the sole purpose of providing you the best possible service when requesting information or ordering products.
+Build.com is a website of Build.com, Inc. Our corporate website can be viewed here. 
 
-When you place an order, we request contact and credit card information. This information is used strictly for billing purposes and to successfully complete and fill orders. If we should have trouble processing an order, the contact information is used to get in touch with you.
+Our postal address is:  
+282 Convair Ave.  
+Chico, CA 95973
 
-### Security
+We can be reached online through our online Customer Service center and via phone at (800) 375-3403, which is our customer service call center.
 
-Build.com takes strong precautions to protect your information both online and offline. We use a variety of technical solutions to make shopping safe at our Web sites. Your information is encrypted and is protected by industry-standard Secure Sockets Layer (SSL) software. While we use SSL encryption to protect sensitive information online, we also protect your information offline. All of your customer information is maintained in a restricted section. Only those of our employees who need the information to perform a specific job function (for example, customer service representatives) are granted access to personally identifiable data. See our Security Center for more details.
+## Transaction Security
 
-### Cookies
+We electronically verify each transaction with the credit company, processing only those orders if the credit company so authorizes it. In the case of a suspicious or declined transaction, our company may contact you to confirm the validity and ensure your identity or cancel that order with full notification.
 
-Our Web sites use "cookies", small pieces of data stored on your computer and delivered through your Web browser. Most, if not all, e-commerce merchants now use cookies. By using this technology we can provide you with an enhanced shopping experience. It is possible for you to turn off cookies in your Web browser. If you do this, you can still browse our Web sites, but we will not be able to provide you with a more personalized shopping experience or accept online orders from you. Please call us at 800-693-7235 if you would like more information or if you would prefer to place your order over the phone.
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input at 128-bit strength. This is often symbolized on most web-browsers by a small padlock appearing on the bottom bar of the window and the address of the window changing from http:// to https://, meaning a secure connection. In the event that an order cannot be completed, please contact our Customer Service. If our website cannot establish a secure connection, we will not risk your confidential information (it will not be transmitted).
 
-### Links
+## Information You Give Us
 
-Our Web sites often contain links to other sites to provide you with the best information. Build.com is not responsible for the privacy practices of other sites you may visit.
+We receive and store any information you enter on our Web site or give us in any other way with the exception of your credit card numbers. We use the information that you provide for such purposes as responding to your requests, customizing future shopping suggestions, improving our store, and fulfilling your order.
 
-### Newsletters
+***Emails:** Email addresses we receive are used to contact you concerning inquiries before, during and after your order is placed, solely concerning your order. An exception to this is our Newsletters (more information below).
 
-As a Build.com account holder you will automatically receive monthly emails, which may contain promotional and sale information. Every newsletter we send includes easy-to-use removal instructions and complies with all Federal CAN-SPAM regulations for commercial e-mailers.
+## Automatic Information
 
-If you have any questions about our privacy policies, please contact us by phone at 800-693-7235 or e-mail us at [info@build.com](mailto:info@build.com). Thank you for choosing Build.com as your online supplier.
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your web browser accesses Build.com. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Build.com if we cannot recognize you, we want you to be aware that these tools exist.
 
-  
+## Cookies
 
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as the storage of items in your Shopping Cart. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, if you disable cookies, you will not be able to purchase from the Web site. We recommend that you leave them turned on or please contact our Customer Service to have your order placed.
+
+## Emails and Newsletters
+
+Build.com uses emails as one of our primary ways to respond and communicate with our customers. All emails sent are addressing one of the three issues: a direct response to an inquiry, communication concerning an order (receipt, shipping confirmation, etc), or a promotional newsletter if you have indicated you wish to receive offers and information about our Network Stores.
+
+From time to time, we may notify you of special offers that consider your historic purchasing activity with us. We do not share or otherwise sell your contact information to unrelated third parties.
+
+Upon signing up to receive our promotional emails, you will periodically receive emails with specials and discounts, updates about our Network Stores, and information about the lines and products featured on our sites.
+
+If you wish to stop receiving our promotional emails, you’ll find clear and easy unsubscribe instructions in each email. You may also change your subscription status at any time either by logging into your account and editing your “Change Billing Info” or by sending an email to newsletters@Build.com. Lastly, if you wish to reach us by phone, representatives in our call center can also alter your subscription preferences.
+
+## Sharing Information
+
+Information about our customers is an important part of our business, and we are not in the business of selling it to others.
+
+## Conditions of Use, Notices, and Revisions
+
+If you choose to visit Build.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Build.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
