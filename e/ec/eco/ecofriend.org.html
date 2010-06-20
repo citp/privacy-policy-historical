@@ -1,140 +1,238 @@
-<!--The following is the downloaded HTML source of the ecofriend.org privacy policy that was archived on 2009-03-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090304014449id_/http%3A//www.ecofriend.org/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecofriend.org privacy policy that was archived on 2010-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620140007id_/http%3A//www.ecofriend.org/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
-	<title>Privacy Policy - Ecofriend: Green living</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="title" content="Privacy Policy - Ecofriend: Green living">
-	<meta name="subject" content="Environment">
-	<meta name="language" content="en">
-	<meta name="keywords" content="architecture, Cars, Eco Gadgets, eco-friendly, Electricity, energy, Environment, global warming, green, LED, Recycle, recycling, Renewable Energy, Solar, solar energy, solar panels, Solar power, solar powered, Technology, Wind Energy">
-	<meta name="description" content="Green living">
-	<link rel="alternate" href="http://www.ecofriend.org/rss.xml" type="application/rss+xml" title="Ecofriend's RSS Feed">
-	<link rel="alternate" href="http://www.instablogs.com/feed/blog=Ecofriend" type="application/rss+xml" title="Ecofriend's RSS Feed (Instablogs Community)">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	
-	<style type="text/css">
-	  @import url(/style.css);
-</style>
-	
-<script type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="title" content="">
+		<meta name="subject" content="">
+		<meta name="language" content="en">
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<link rel="alternate" href="http://feeds.feedburner.com/ecofriend/WNra" type="application/rss+xml" title="Ecofriend RSS Feed (Instablogs Community)">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="/js/validate.js"></script>
+		<script type="text/javascript" src="/js/easySlider.packed.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$("#subscribeForm").validate();
+			});
 
-	function on_blur()
-	{
-		if(document.getElementById('nav-search').value == "")
-		{
-		document.getElementById('nav-search').value = "search here...";
-		document.getElementById('nav-search').style.color = "#999";
-		}
-	}
+			$(document).ready(function(){
+			$("#sidewindow").easySlider();
+			});
+				
+				var my_width='';
+				var my_height='';
+				function my_lightbox(id, my_width, my_height)
+				{
+					jQuery.fn.center = function (absolute) {
+						return this.each(function () {
+							var t = jQuery(this);
+
+							t.css({
+								position:    absolute ? 'absolute' : 'fixed', 
+								left:        '50%', 
+								top:        '50%', 
+								zIndex:        '999999'
+							}).css({
+								marginLeft:    '-' + (t.outerWidth() / 2) + 'px', 
+								marginTop:    '-' + (t.outerHeight() / 2) + 'px'
+							});
+
+							if (absolute) {
+								t.css({
+									marginTop:    parseInt(t.css('marginTop'), 10) + jQuery(window).scrollTop(), 
+									marginLeft:    parseInt(t.css('marginLeft'), 10) + jQuery(window).scrollLeft()
+								});
+							}
+						});
+					};
+					
+					var pageWidth = $('*').width();
+					var pageHeight = $('*').height();
+
+					var my_pageHeight = $(window).height();
+					
+					$('#'+id).height(my_height);
+					$('#'+id).width(my_width);
+					$('#'+id).fadeIn().center();
+						
+					$('#fade').show();
+					$('#fade').height(pageHeight);
+					$('#fade').width(pageWidth);
+
+					$('#fade').click(function(){
+							$(this).fadeOut();
+							$('#'+id).hide();
+					});
+					$('.my_lightbox_close').click(function(){
+							$('#fade').fadeOut();
+							$('#'+id).hide();
+					});
+					
+
+				}
+
+				function subscribe()
+					{
+						var postdata='subsciber_mail='+ $('#subsciber_mail').val();
+						$.ajax({type: "POST",url: "/share_email.php",data: postdata,success: function(msg){var id ='#subscribe .light-content';$(id).html(msg);}});
+					}
 
 
-	function on_focus()
-	{
-		document.getElementById('nav-search').value = "";
-		document.getElementById('nav-search').style.color = "#444";
-	}
-
-	function network_down(network_head_id)
-	{
-		var	flag=$('blog_network-'+network_head_id);
-		var x;			
-		for (x = 0; x < 10; x++)
-		{
-			if(x == network_head_id && flag.style.display=="none")
-				Effect.BlindDown('blog_network-'+x,{duration:0.5});
-			else
-				Effect.BlindUp('blog_network-'+x,{duration:0.5});
-		}
-	}
-
-	function open_reply_comment(comment_id, comment_type)
-	{
-		var div = document.getElementById('reply-comment-' + comment_type+comment_id);
-		if(div.style.display=='block')
-		{
-			div.style.display='none';
-		}
-		else
-		{
-			div.style.display='block';
-		}
-	}
-
-	function show_comments(id)
-	{
-		var div = document.getElementById(id);
+				var currentslide = 1;
+				var i=1;
+				var nrSld1 =1
+					function showSlide(nrSld) {
+						currentslide = parseInt(nrSld)
+						$('#slider .slideWrapper').animate({left:-380*(parseInt(nrSld)-1)})
+						redrawBullets(nrSld);
+						i=nrSld;
+					};
+					function redrawBullets(slide) {
+						var currentBullet = 's'+slide;
+						$('#slideCtrl a').each(function(){
+						$(this).removeClass('s');
+						if($(this).hasClass(currentBullet)){
+							$(this).addClass('s')
+							}
+						});
+					};
+				function loop() { 
+				  if (i<5) {
+				   showSlide(i);
+				   setTimeout(function() { incr(); }, 5000);
+				  }
+				  else
+				  {
+				  i= 1;
+				  showSlide(i);
+				  loop();
+				  }
+				}
+				function incr() {
+				  i++;
+				  loop();
+				}
 		
-		if(id=='global-local-comments')
-		{
-			div.style.display='block';
-			document.getElementById('normal-comments').style.display='none';
-			YAHOO.util.Dom.addClass('g', 'head-current'); 
-			YAHOO.util.Dom.removeClass('n', 'head-current');
-		}
-		
-		if(id=='normal-comments')
-		{
-			div.style.display='block';
-			document.getElementById('global-local-comments').style.display='none';
-			YAHOO.util.Dom.addClass('n', 'head-current'); 
-			YAHOO.util.Dom.removeClass('g', 'head-current');
-		}
-	}
+			function footer_articles(start, end, blog)
+			{
+				var postdata='start='+start+'&end='+end+'&blog='+blog;
+				$.ajax({type: "POST",url: "/footer_articles.php",data: postdata,success: function(msg){var id ='#week-diary';$(id).html(msg);}});
+			}
 
-	function lightboxImageOn(image_id, Image_title)
-	{
-		var comment_image = 'comment_image';
-		var Image_title = "Image uploaded by - " + Image_title;
-		var div = document.getElementById('lb-edit');
-		var postdata ='image_id='+image_id + '&type=' + comment_image + '&title=' + Image_title;
-		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+			function week_diary_articles(start, blog)
+			{
+				var postdata='start='+start+'&blog='+blog;
+				$.ajax({type: "POST",url: "/week_diary.php",data: postdata,success: function(msg){var id ='#week-diary';$(id).html(msg);}});
+			}
 
-		var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
-		var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML= o.statusText;}}
-		var Callback ={success:handleSuccess,failure: handleFailure};
+			function tag_paging(page_no, total_pages, quantity)
+			{
+				var postdata='page_no='+page_no+'&total_pages='+total_pages+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/tag_paging.php",data: postdata,success: function(msg){var id ='#t-sidewindow';$(id).html(msg);}});
+			}
 
-		var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
+			function post_paging(page_no, total_pages, quantity)
+			{
+				var postdata='page_no='+page_no+'&total_pages='+total_pages+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/post_paging.php",data: postdata,success: function(msg){var id ='#insta-articles';$(id).html(msg);}});
+			}
 
-		var black = document.getElementById('fade');
-		black.style.display = 'block';
+			function category_paging(page_no, quantity)
+			{
+				var postdata='page_no='+page_no+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/category_paging.php",data: postdata,success: function(msg){var id ='#category-news';$(id).html(msg);}});
+			}
 
-		div.style.display = 'block';
-		window.scrollTo(0,0);
-	}
+			function hotSheet_paging(page_no, quantity)
+			{
+				var postdata='page_no='+page_no+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/hotSheet_paging.php",data: postdata,success: function(msg){var id ='#hot-sheet';$(id).html(msg);}});
+			}
 
-	function lightboxVideoOn(video_id, You_Tube_title)
-	{
-		var video='video';
-		var You_Tube_title = "Video uploaded by - " + You_Tube_title;
-		var div = document.getElementById('lb-edit');
-		var postdata ='video_id=' + video_id + '&type=' + video + '&title=' +  You_Tube_title;
-		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+			function video_list_paging(page_no, quantity, sortMethod)
+			{
+				var postdata='page_no='+page_no+'&quantity='+quantity+'&sortMethod='+sortMethod;
+				$.ajax({type: "POST",url: "/video_list_paging.php",data: postdata,success: function(msg){var id ='#video-list';$(id).html(msg);}});
+			}
 
-		var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
-		var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
-		var Callback ={success:handleSuccess,failure: handleFailure};
+			function slide_feature(total_divs,display,button,divid, prev_id, next_id)
+			{
+				for(var i=1; i<= total_divs; i++)
+				{
+					var div =document.getElementById(divid + i);
+					div.style.display = 'none';
+				}
+				
+				if(button == '1')
+				{
+					var next_div = document.getElementById(next_id);
+					var next =  display + 1;
+					next_div.innerHTML ='<a href="javascript:slide_feature( '+total_divs+', '+next+',1, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Next</a>';
+					var prev_div = document.getElementById(prev_id);
+					var prev = next - 1;
+					prev_div.innerHTML ='<a href="javascript:slide_feature('+total_divs+', '+prev+',0, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Prev</a>';
+					$('#'+divid + next).show();
 
-		var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
+					if(total_divs == next)
+					{
+						next_div.innerHTML ='';
+					}
+					
+				}
+				else
+				{
+					var next_div = document.getElementById(next_id);
+					var next =  display;
+					next_div.innerHTML ='<a href="javascript:slide_feature( '+total_divs+', '+next+',1, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Next</a>';
+					var prev_div = document.getElementById(prev_id);
+					var prev = next - 1;
+					if(prev == 0)
+						{
+							prev_div.innerHTML ='';
+						}
+						else
+						{
+							prev_div.innerHTML ='<a href="javascript:slide_feature('+total_divs+', '+prev+',0, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Prev</a>';
+						}
+						$('#'+divid + display).show();
+				}
+			}
+		</script>
+		<link href="/css/common.css" rel="stylesheet" type="text/css">
+		<link href="/css/club-sidebar.css" rel="stylesheet" type="text/css">
+		<link href="/css/error_404.css" rel="stylesheet" type="text/css">
 
-		var black = document.getElementById('fade');
-		black.style.display = 'block';
-
-		div.style.display = 'block';
-		window.scrollTo(0,0);
-	}
-
-	function lightboxoff1(id)
-	{
-		var light = document.getElementById(id);
-		light.style.display = 'none';
-	}
-
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
-<script type="text/javascript"> var sz_global_config_params = {cppluginurl:"",cpserverurl:"http://sezwho.com", rating_submit_path:"", sitekey:"185305b33abe71cc6b48b758995749ef",blogkey:"48d1049b0d3ca",blogid:"0_18", plugin_version:"2.1",ibhome:"http://www.instablogs.com",partner:"instablogs"} ; </script>
-<script type="text/javascript" id="szJsEmbedScript" src="http://www.instablogs.com/sezwho/sezwho.js"></script>
-<link rel="stylesheet" id="szProfAndEmbedStyleSheet" href="http://www.instablogs.com/sezwho/sezwho.css" type="text/css" media="screen">
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-9415440757655812");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-9415440757655812", "Ecofriend_Homepage_ATF_Leaderboard_SwitchConcepts");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-9415440757655812");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-9415440757655812", "Ecofriend_Homepage_BTF_MediumRectangle_SwitchConcepts");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION -->
 
 <!-- PUT THIS TAG IN THE head SECTION -->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
@@ -144,67 +242,95 @@
   GS_googleEnableAllServices();
 </script>
 <script type="text/javascript">
-  GA_googleAddSlot("ca-pub-9415440757655812", "ecofriend_above_header_728x90_1");
-  GA_googleAddSlot("ca-pub-9415440757655812", "ecofriend_glam_160x600");
-  GA_googleAddSlot("ca-pub-9415440757655812", "ecofriend_glam_rect_300x250");
-  GA_googleAddSlot("ca-pub-9415440757655812", "ecofriend_google_banner_468x60");
-  GA_googleAddSlot("ca-pub-9415440757655812", "ecofriend_google_large_rect_336x280");
-  GA_googleAddSlot("ca-pub-9415440757655812", "ecofriend_google_line_728x15");
-  GA_googleAddSlot("ca-pub-9415440757655812", "ecofriend_google_skycraper_120x600");
+  GA_googleAddSlot("ca-pub-9415440757655812", "Ecofriend_Leaderboard_AFT_Glam");
 </script>
 <script type="text/javascript">
   GA_googleFetchAds();
 </script>
 <!-- END OF TAG FOR head SECTION -->
-</head>
 
-<body>
-<script type="text/javascript" src="/js/prototype.js"></script>
-<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
-<script type="text/javascript" src="http://www.instablogs.com/js/lightbox.js"></script>
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-9415440757655812");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-9415440757655812", "Ecofriend_MediumRectangle_AFT_Glam");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION -->
 
-<div style="background: url(http://www.instablogs.com/css-img/top-bar-bg.gif) repeat-x;font:bold 10px/1em verdana,arial,serif;text-align:left;height:25px;padding-top:2px;color:#444"><div style="width:950px;margin:0 auto;text-align:left;"><span class="ad-w-us" style="padding-top:5px;font:bold 10px/1em verdana,arial,serif;float:right"><a href="http://www.instablogs.com/ad_solutions.php?b=18">Advertise with Us</a></span>An&nbsp; <a href="http://www.instablogs.com/"><img style="margin-bottom:-6px;" src="http://www.instablogs.com/css-img/bar-logo.gif"></a> Venture &nbsp;&nbsp;</div></div>
+	</head>
+	
+		<body onload="loop();">
+			<div class="wrapper">
+				<div class="header">
+					<div id="subscribe" class="my_lightbox" style="display:none">
+						<div class="light-head"><span>Please fill in your email address</span><a href="javascript:void(0)" class="my_lightbox_close light-close">[Close]</a></div>
+						<div class="clear"></div>
+						<div class="light-content">
+							<form method="post" action="javascript:subscribe();" name="subscribeForm" id="subscribeForm">
+								<input type="text" class="required email" name="subsciber_mail" id="subsciber_mail" value="">
+								<input type="submit" value="Subscribe" name="Subscribe">
+							</form>
+						</div><!-- EOF light-content -->
+					</div><!-- EOF my_lightbox -->
 
-
-	<div id="container">
-	<div style="height:1px;"> </div>
-
-				<div class="ad-top">
-			<div class="left-top-ad">
-			<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT ecofriend_above_header_728x90_1 =====ads====-->
-			<script type="text/javascript">
-			  GA_googleFillSlot("ecofriend_above_header_728x90_1");
-			</script>
-			<!-- END OF TAG FOR SLOT ecofriend_above_header_728x90_1  -->
-			</div>
-			<div class="right-top-ad">
-			<a href="http://www.instablogs.com/ad_solutions.php?b=18"><img src="http://www.instablogs.com/css-img/120-x-90.jpg"></a>
-			</div>
-			<div class="clear"></div>
-			</div><!-- EOF #ad-top -->
-			
-		<div id="header"> 
-			<div class="logo"> <a href="/" title="Home"><h1>Ecofriend</h1></a> </div>	
-		</div><!-- EOF header -->
-
-		<div style="padding:5px;text-align:center;">
-			<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT ecofriend_google_line_728x15=====ads====-->
-			<script type="text/javascript">
-			  GA_googleFillSlot("ecofriend_google_line_728x15");
-			</script>
-			<!-- END OF TAG FOR SLOT ecofriend_google_line_728x15 -->
-		</div>
-
-
-		
+					<div class="top-nav">
+						<a href="http://www.ecofriend.org/contact-us.php?q=tips">Send Tips</a> | 
+						<a href="http://www.instablogs.com/ad_solutions.php?b=18">Advertise</a> | 
+						<a href="http://www.ecofriend.org/contact-us.php?q=general">Contact</a>
+					</div><!-- EOF top-nav -->
+					<a class="logo" href="http://www.ecofriend.org/">&nbsp;</a>
+					<div class="ad">
+						<!-- ca-pub-9415440757655812/Ecofriend_Homepage_ATF_Leaderboard_SwitchConcepts -->
+<script type="text/javascript">
+GA_googleFillSlot("Ecofriend_Homepage_ATF_Leaderboard_SwitchConcepts");
+</script>						<!-- ca-pub-9415440757655812/Ecofriend_Leaderboard_AFT_Glam -->
+<script type="text/javascript">
+GA_googleFillSlot("Ecofriend_Leaderboard_AFT_Glam");
+</script>					</div>
+					<div class="ad">
+						<script type="text/javascript"><!--
+google_ad_client = "pub-9415440757655812";
+/* Ecofriend, Header, LinkUnit_4, 8Jan10 */
+google_ad_slot = "3652165673";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>					</div>
+					<div class="extra-ads">
 						
-
-		<div id="content">
-			<div id="content-box">
-				
-		
+					</div>
+					<div class="clear"></div>
+					<div class="bottom-nav">
+						<a class="share sprite mail" href="javascript:void(0)" onclick="my_lightbox('subscribe')" title=""></a>
+						<a class="share sprite face" href="http://www.facebook.com/pages/Ecofriend/129321651815"></a>
+						<a class="share sprite tweet" href="http://twitter.com/ecofriend_org"></a>
+						<a class="share sprite rss" href="http://feeds.feedburner.com/ecofriend/WNra"></a>
+												<span class=""><span class="nav-bg hom"><a href="http://www.ecofriend.org"></a></span></span>
+						<span class=""><span class="css-nav"><a href="http://www.ecofriend.org/tags/architecture/">Architecture</a></span></span>
+						<span class=""><span class="css-nav"><a href="http://www.ecofriend.org/tags/art/">Art</a></span></span>
+						<span class=""><span class="css-nav"><a href="http://www.ecofriend.org/tags/cars/">Autos</a></span></span>
+						<span class=""><span class="css-nav"><a href="http://www.ecofriend.org/tags/concepts/">Design</a></span></span>
+						<span class=""><span class="css-nav"><a href="http://www.ecofriend.org/tags/gadgets/">Gadgets</a></span></span>
+						<span class=""><span class="css-nav"><a href="http://www.ecofriend.org/tags/fashion/">Lifestyle</a></span></span>
+						<span class=""><span class="css-nav"><a href="http://www.ecofriend.org/tags/nature/">Nature</a></span></span>
+						<span class=""><span class="css-nav"><a href="http://www.ecofriend.org/tags/technology/">Technology</a></span></span>
+					</div><!-- EOF bottom-nav -->
+					<div class="clear"></div>
+				</div><!-- EOF header -->
+				<div class="container">
+					<div class="clear"></div>
+					<div class="inner-container">		<div class="content">
 				<div class="privacy-content-main">						
-					<div class="privacy-title">Privacy Policy</div> 
+					<div class="error-page-title">Privacy Policy</div> 
 
 					<p>This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.</p>
 
@@ -257,631 +383,431 @@
 					
 					</p>
 
-
-
 				</div><!-- EOF #content-main -->
 
-				
 			
-			</div><!-- EOF #content-box -->
+			</div><!-- EOF content -->
 
-			<div id="content-sidebar">
-
-	<div style="padding-bottom:20px;text-align:center;">
-		<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT ecofriend_glam_rect_300x250	===ads===	 -->
-		<script type="text/javascript">
-		  GA_googleFillSlot("ecofriend_glam_rect_300x250");
-		</script>
-		<!-- END OF TAG FOR SLOT ecofriend_glam_rect_300x250    -->
-	</div>
-
-	<script>
-		function toggle_div(id)
-		{
-			var divid= document.getElementById(id);
-			if(divid.style.display == 'none')
-				divid.style.display = 'block';
-			else
-				divid.style.display = 'none';
-		}
-	</script>
-	
-	<div style="text-align:center;padding-bottom:15px"><a href="http://www.instablogs.com/evolution_cover.php"><img src="/css-img/123.jpg"></a></div>	<div class="inner-sidebars">
-
-	<div class="inner-sidebar1">
-
-	<div style="padding-bottom:10px;text-align:center;">
-	<a href="http://www.instablogs.com/instablogs-club/"><img src="http://www.instablogs.com/css-img/insta_club_badge.gif"></a>
+			<div class="sidebar">
+<div class="search">
+	<form action="/search.php" id="cse-search-box">
+		<input type="hidden" name="cx" value="partner-pub-9415440757655812:3d1ycr9cc72">
+		<input type="hidden" name="cof" value="FORID:10">
+		<input type="hidden" name="ie" value="UTF-8">
+		<input type="text" class="s-text" name="q" size="25">
+		<input type="submit" class="s-but" name="sa" value="Search">
+		<div class="s-lens sprite"></div>
+	</form>
+	<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 </div>
+	<div class="clear"></div>
 
-<div class="market-place">
-	<h2>Instablogs Club</h2>
-	<div class="club-data">
-	<span class="club-top-img"><a href="http://www.coolcelebs.org/entry/mega-gallery-irina-shayk-is-a-hot-lingerie-babe/"><img src="http://www.instablogsimages.com/images/2009/03/04/0_1c8PO_2263_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.coolcelebs.org/entry/mega-gallery-irina-shayk-is-a-hot-lingerie-babe/">Mega Gallery: Irina Shayk is a hot lingerie babe!</a><span> (<a href="http://www.coolcelebs.org">Coolcelebs</a>)</span></div><span class="club-top-img"><a href="http://www.coolcelebs.org/entry/video-terminator-salvation-movie-trailer/"><img src="http://www.instablogsimages.com/images/2009/03/03/I__sN9lp_2263_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.coolcelebs.org/entry/video-terminator-salvation-movie-trailer/">Video: <em>Terminator Salvation</em> movie trailer</a><span> (<a href="http://www.coolcelebs.org">Coolcelebs</a>)</span></div><span class="club-top-img"><a href="http://www.coolcelebs.org/entry/ashlee-simpsons-life-is-in-danger/"><img src="http://www.instablogsimages.com/images/2009/03/03/ashlee-pete_h4d6i_2263_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.coolcelebs.org/entry/ashlee-simpsons-life-is-in-danger/">Ashlee Simpson's life is in danger!</a><span> (<a href="http://www.coolcelebs.org">Coolcelebs</a>)</span></div><span class="club-top-img"><a href="http://www.blogherald.com/2009/03/03/adjix-introduces-new-way-to-advertise-via-twitter-tweets/"><img src="http://www.instablogsimages.com/images/2009/03/03/_kAsLn_160x120.gif"></a></span><div class="club-top-title"><a href="http://www.blogherald.com/2009/03/03/adjix-introduces-new-way-to-advertise-via-twitter-tweets/">Adjix introduces new way to advertise via Twitter “Tweets”</a><span> (<a href="http://www.blogherald.com">The Blog Herald</a>)</span></div><span class="club-top-img"><a href="http://www.celebguru.org/entry/lilo-converting-to-judaism/"><img src="http://www.instablogsimages.com/images/2009/03/03/1_Eayri_2263_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.celebguru.org/entry/lilo-converting-to-judaism/">LiLo converting to Judaism!</a><span> (<a href="http://www.celebguru.org">Celeb Guru</a>)</span></div><span class="club-top-img"><a href="http://www.blogherald.com/2009/03/03/exploring-social-media-future-tweets-with-tweetlater/"><img src="http://www.instablogsimages.com/images/2009/03/03/_kasln_cM7sX_160x120.png"></a></span><div class="club-top-title"><a href="http://www.blogherald.com/2009/03/03/exploring-social-media-future-tweets-with-tweetlater/">Exploring Social Media: Future Tweets with TweetLater</a><span> (<a href="http://www.blogherald.com">The Blog Herald</a>)</span></div><span class="club-top-img"><a href="http://www.celebguru.org/entry/paris-hilton-is-bluebell/"><img src="http://www.instablogsimages.com/images/2009/03/03/1_GIc76_2263_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.celebguru.org/entry/paris-hilton-is-bluebell/">Paris Hilton is bluebell</a><span> (<a href="http://www.celebguru.org">Celeb Guru</a>)</span></div>	</div>
-	<div class="add-news"><a class="add-news-page" href="http://www.instablogs.com/instablogs-club/club_wp_plugin.php">Add This</a></div>
+<div class="side-ads" style="padding-bottom:10px; margin-top:20px;"><!-- ca-pub-9415440757655812/Ecofriend_Homepage_BTF_MediumRectangle_SwitchConcepts -->
+<script type="text/javascript">
+GA_googleFillSlot("Ecofriend_Homepage_BTF_MediumRectangle_SwitchConcepts");
+</script></div><div class="clear"></div><div class="side-ads" style="padding-bottom:10px; margin-top:20px;"><!-- ca-pub-9415440757655812/Ecofriend_MediumRectangle_AFT_Glam -->
+<script type="text/javascript">
+GA_googleFillSlot("Ecofriend_MediumRectangle_AFT_Glam");
+</script></div><div class="clear"></div><div class="side-ads" style="float:right;"></div><div class="clear"></div><div class="side-ads" style="margin-top:5px;"></div><div class="clear"></div>
+<div class="side-ads" style="float:left;"></div><div class="side-ads" style="float:right;"></div><div class="clear"></div>
+	<div class="sidewindow">
+	<div class="h-space"></div>
+	<div class="side-head"><a href="http://www.ecofriend.org/videos/">All</a>Videos</div>
+	
+	<div class="clear"></div>
+		<div id="sidewindow">
+		<ul style="width: 510px;">	
+							<li style="float: left;">
+												<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.ecofriend.org/entry/worlds-greenest-concept-skyscrapers-video/"><img src="http://www.instablogsimages.com/images/2010/05/17/2m_OCGt1_18770_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.ecofriend.org/entry/worlds-greenest-concept-skyscrapers-video/">World's Greenest Concept Skyscrapers - V...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.ecofriend.org/entry/infinyte-electric-boat-makes-your-weekend-cruises-green-and-noise-free/"><img src="http://www.instablogsimages.com/images/2010/03/31/infinyte_1_86YLa_69_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.ecofriend.org/entry/infinyte-electric-boat-makes-your-weekend-cruises-green-and-noise-free/">Infinyte electric boat makes your weeken...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.ecofriend.org/entry/big-eye-cruiser-concept-changes-shape-to-fit-your-growing-child-over-the-years/"><img src="http://www.instablogsimages.com/images/2010/03/13/big-eye-cruiser_1_9M6Zk_69_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.ecofriend.org/entry/big-eye-cruiser-concept-changes-shape-to-fit-your-growing-child-over-the-years/">Big Eye Cruiser concept changes shape to...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.ecofriend.org/entry/energy-saving-multitap-ambient-light-gets-powered-by-wasted-energy/"><img src="http://www.instablogsimages.com/images/2010/02/26/energy-saving-multitap_1_mRgur_69_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.ecofriend.org/entry/energy-saving-multitap-ambient-light-gets-powered-by-wasted-energy/">Energy saving Multitap ambient light get...</a></div>
+								<div class="clear"></div>
+							</div>
+											</li>
+							<li style="float: left;">
+												<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.ecofriend.org/entry/design-students-envision-a-zero-emission-bmw-motorcycle-powered-by-hydrogen/"><img src="http://www.instablogsimages.com/images/2010/02/25/bmw-knust_1_uYbIg_69_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.ecofriend.org/entry/design-students-envision-a-zero-emission-bmw-motorcycle-powered-by-hydrogen/">Design students envision a zero-emission...</a></div>
+								<div class="clear"></div>
+							</div>
+											</li>
+								
+		</ul>
+	</div><span id="prevBtn"><a href="javascript:void(0);" style="display: none;">Previous</a></span> <span id="nextBtn"><a href="javascript:void(0);" style="display: inline;">Next</a></span>
 </div>
-	<div style="text-align:center;padding:10px 0;">
-		<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT ecofriend_glam_160x600   ===ads===	 -->
-		<script type="text/javascript">
-		  GA_googleFillSlot("ecofriend_glam_160x600");
-		</script>
-		<!-- END OF TAG FOR SLOT ecofriend_glam_160x600     -->
+<div class="clear"></div>
+
+<div class="side-ads" style="float:left;margin-bottom:10px;"><!-- BEGIN RICH-MEDIA Burst Direct CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad15198d.cgi/v=2.3S/sz=125x125A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad15198d.cgi/v=2.3S/sz=125x125A/42711/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad15198d-map.cgi/ns/v=2.3S/sz=125x125A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad15198d.cgi/ns/v=2.3S/sz=125x125A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END Burst Direct CODE --></div><div class="side-ads" style="float:right;margin-bottom:10px;"><!-- BEGIN UAT - 125x125 - BornRich: EcoFriend - DO NOT MODIFY -->
+<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/92/26/uat_2692.js?ad_size=125x125"></script>
+<!-- END TAG --></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
+	<div class="t-sidewindow" id="t-sidewindow">
+		<div class="side-head">Popular Tags</div>
+		<ul class="pop-tags">
+					<li><a href="http://www.ecofriend.org/tags/environment/">Environment</a></li>
+					<li><a href="http://www.ecofriend.org/tags/solar-energy/">solar energy</a></li>
+					<li><a href="http://www.ecofriend.org/tags/renewable-energy/">Renewable Energy</a></li>
+					<li><a href="http://www.ecofriend.org/tags/eco-tech/">eco-tech</a></li>
+					<li><a href="http://www.ecofriend.org/tags/eco-gadgets/">Eco Gadgets</a></li>
+					<li><a href="http://www.ecofriend.org/tags/eco-architecture/">eco architecture</a></li>
+					<li><a href="http://www.ecofriend.org/tags/eco-cars/">eco-cars</a></li>
+					<li><a href="http://www.ecofriend.org/tags/electricity/">Electricity</a></li>
+					<li><a href="http://www.ecofriend.org/tags/eco-friendly/">eco-friendly</a></li>
+					<li><a href="http://www.ecofriend.org/tags/recycling/">recycling</a></li>
+				</ul>
+					<div class="all-tag"><a class="r-tag" href="javascript:tag_paging('2','50','10')">Next 10 <b>&gt;&gt;</b></a><a href="/tags/">All Tags</a></div>
+			</div><!-- EOF sidewindow -->
+
+<div class="side-ads" style="margin-bottom:5px;"><script src="http://www15.glam.com/glamIgm.act?igm=318102441;199268861;6053"></script></div><div class="clear"></div>
+	<div class="club-sidebar">
+	<div class="club-title"><img src="/images/insta_club_badge.gif" border="0" alt=""></div>
+		<div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/creativity-in-harvey-nichols-campaigns/"><img src="http://www.instablogsimages.com/images/2010/06/20/hn_bingo_mRT6P_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/creativity-in-harvey-nichols-campaigns/">Creativity in Harvey Nichols' campaigns</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/why-waste-energy/"><img src="http://www.instablogsimages.com/images/2010/06/20/xanlite-hypnotist_36S8R_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/why-waste-energy/">Why waste energy?</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/chicks-too-cross-the-red-sea-no-miracles/"><img src="http://www.instablogsimages.com/images/2010/06/20/ocean-hawaiian_QEKgl_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/chicks-too-cross-the-red-sea-no-miracles/">Chicks too cross the red sea, no miracles</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/lady-liberty-spoiled-by-reading/"><img src="http://www.instablogsimages.com/images/2010/06/20/sz_library_of_metropolises_ny_BXUyE_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/lady-liberty-spoiled-by-reading/">Lady liberty, spoiled by reading</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/a-twisted-campaign-from-israel-which-goes-for-male-pregnancy-test/"><img src="http://www.instablogsimages.com/images/2010/06/20/clalit_ready_daddy_EWzk1_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/a-twisted-campaign-from-israel-which-goes-for-male-pregnancy-test/">A twisted campaign from Israel, which goes for  male pregnancy test</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club -->	</div><!-- EOF club-sidebar -->
+
+<div class="side-ads" style="margin-bottom:5px;margin-top:5px;"><!-- BEGIN STANDARD TAG - 300 x 250 - Citizen Media Pvt Ltd: Citizen Media Pvt Ltd - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://ad.adtegrity.net/st?ad_type=iframe&amp;ad_size=300x250&amp;section=813616"></iframe>
+<!-- END TAG --></div><div class="clear"></div>
+	<a title="Top energy blogs badge" href="http://www.energyauthority.net/top-7-eco-friendly-blogs-with-an-energy-focus" style="display:block; padding:10px 0 10px 0;text-align:center;"><img class="alignright size-full wp-image-2074" style="border: 0pt none;" title="Top 7 Eco Blogs Badge" src="http://www.energyauthority.net/wp-content/uploads/2010/05/energy-awardSMALL.jpg" alt="Energy Eco Blogs"></a>
+
+	<iframe src="http://www.facebook.com/plugins/fan.php?id=129321651815&amp;width=295&amp;height=250&amp;connections=10&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:300px; height:250px"></iframe>
+
+<div class="side-ads" style="margin-bottom:5px;margin-top:5px;"></div><div class="clear"></div>
+			<div class="t-sidewindow" id="archives">
+			<div class="side-head">Archives</div>
+			<ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open0').show('slow')}" "="">2010</ul><ul class="arch-open" id="arch-open0">					<li>
+						<a href="http://www.ecofriend.org/archives/201006/">June 2010</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/201005/">May 2010</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/201004/">April 2010</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/201003/">March 2010</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/201002/">February 2010</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/201001/">January 2010</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open1').show('slow')}" "="">2009</ul><ul class="arch-open" id="arch-open1" style="display:none;">					<li>
+						<a href="http://www.ecofriend.org/archives/200912/">December 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200911/">November 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200910/">October 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200909/">September 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200908/">August 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200907/">July 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200906/">June 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200905/">May 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200904/">April 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200903/">March 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200902/">February 2009</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200901/">January 2009</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open2').show('slow')}" "="">2008</ul><ul class="arch-open" id="arch-open2" style="display:none;">					<li>
+						<a href="http://www.ecofriend.org/archives/200812/">December 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200811/">November 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200810/">October 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200809/">September 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200808/">August 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200807/">July 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200806/">June 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200805/">May 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200804/">April 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200803/">March 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200802/">February 2008</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200801/">January 2008</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open3').show('slow')}" "="">2007</ul><ul class="arch-open" id="arch-open3" style="display:none;">					<li>
+						<a href="http://www.ecofriend.org/archives/200712/">December 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200711/">November 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200710/">October 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200709/">September 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200708/">August 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200707/">July 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200706/">June 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200705/">May 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200704/">April 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200703/">March 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200702/">February 2007</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200701/">January 2007</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open4').show('slow')}" "="">2006</ul><ul class="arch-open" id="arch-open4" style="display:none;">					<li>
+						<a href="http://www.ecofriend.org/archives/200612/">December 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200611/">November 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200610/">October 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200609/">September 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200608/">August 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200607/">July 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200606/">June 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200605/">May 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200604/">April 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200603/">March 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200602/">February 2006</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200601/">January 2006</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open5').show('slow')}" "="">2005</ul><ul class="arch-open" id="arch-open5" style="display:none;">					<li>
+						<a href="http://www.ecofriend.org/archives/200512/">December 2005</a>
+					</li>
+								<li>
+						<a href="http://www.ecofriend.org/archives/200511/">November 2005</a>
+					</li>
+					</ul></div><!-- EOF archives -->
+		
+<div class="side-ads" style="margin-left:10px;float:right;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102441&amp;adSize=160x600"></script></div><div class="side-ad"><!-- BEGIN STANDARD TAG - 120 x 240 - ecofriend::Default section - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="120" height="240" src="http://ad.103092804.com/st?ad_type=iframe&amp;ad_size=120x240&amp;section=809360"></iframe>
+<!-- END TAG --></div><div class="clear"></div>
+<div class="side-ads" style="margin-top:15px;"><!-- Begin Adify tag for "EcoFriend300" Ad Space (300x250) ID #8834107 -->
+<script type="text/javascript">
+	sr_adspace_id = 8834107;
+	sr_adspace_width = 300;
+	sr_adspace_height = 250;
+	sr_ad_new_window = true;
+	sr_adspace_type = "graphic";
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=8834107">
+</script>
+<!-- End Adify tag for "EcoFriend300" Ad Space (300x250) ID #8834107 --></div><div class="clear"></div>
+	<div class="clear"></div>
+</div><!-- EOF sidebar -->			
+<div class="clear"></div>
+<div class="insta-articles" id="insta-articles">
+	<div class="related-s">You might also like</div>
+	<div class="clear"></div>
+	
+
+	<div class="paging-class">		<div class="all-post"><a class="r-post prev-disabled"><b></b></a></div>
+			<div class="all-post"><a class="r-post next" href="javascript:post_paging('2','27','6')"><b></b></a></div>
 	</div>
-
-	<div class="border"></div>
 	<div class="clear"></div>
 
-   <div id="content-sidebar-inner">
-	
-	
-
+		<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.ecofriend.org/entry/10-innovative-cars-pedaling-towards-a-green-future/"><img src="http://www.instablogsimages.com/images/2010/06/18/ferdinand-gt3-rs_3_vlyko_69_MtM3Z_69_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.ecofriend.org/entry/10-innovative-cars-pedaling-towards-a-green-future/">10 innovative cars pedaling towards a green future</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.greendiary.com/entry/7-trash-made-diy-vehicles-that-run-on-unconventional-fuels/"><img src="http://www.instablogsimages.com/images/2010/06/16/yellow-roadster-2_zjYdH_11446_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.greendiary.com/entry/7-trash-made-diy-vehicles-that-run-on-unconventional-fuels/">7 trash-made DIY vehicles that run on unconventional fuels</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.ecofriend.org/entry/12-incredible-kinetic-sculptures-made-from-recycled-materials/"><img src="http://www.instablogsimages.com/images/2010/06/16/recycled-giraffe_jrk9n_69_SM9L9_5638_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.ecofriend.org/entry/12-incredible-kinetic-sculptures-made-from-recycled-materials/">12 incredible kinetic sculptures made from recycled materials</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.greendiary.com/entry/craziest-solutions-we-can-bank-on-for-a-clean-energy-planet/"><img src="http://www.instablogsimages.com/images/2010/06/14/dance-floor_1sh9v_11446_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.greendiary.com/entry/craziest-solutions-we-can-bank-on-for-a-clean-energy-planet/">Craziest solutions we can bank on for a clean energy planet</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.greendiary.com/entry/fifa-world-cup-2010-scoring-green-at-the-big-event/"><img src="http://www.instablogsimages.com/images/2010/06/12/world-cup-ball_zhNci_11446_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.greendiary.com/entry/fifa-world-cup-2010-scoring-green-at-the-big-event/">FIFA World Cup 2010: Scoring green at the big event</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.ecofriend.org/entry/time-machine-envisioning-a-green-future-of-mobile-communication/"><img src="http://www.instablogsimages.com/images/2010/06/12/eco-phones_bUxUF_69_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.ecofriend.org/entry/time-machine-envisioning-a-green-future-of-mobile-communication/">Time Machine: Envisioning a green future of mobile communication</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+			<div class="clear"></div>
+</div> <!-- EO week-dairy -->
+<div class="clear"></div>
+						<div class="clear"></div>	
+			</div><!-- EOF inner-container -->
+			<div class="clear"></div>
+		</div> <!-- EOF container -->
+	</div> <!-- EOF wrapper -->
+	<div id="footer">
+		<div>Published by <a href="http://www.instablogs.com/">The Instablogs Network</a>,<a href="http://www.citizenmedia.org/"> Citizen Media Pvt. Ltd</a>.</div><div>Copyright © Instablogs Network 2009. All rights reserved</div><div>Powered by <a href="http://www.instapress.org/">Instapress</a></div>
+		<div><a href="http://www.instablogs.com/ad_solutions.php?b=18">Advertising</a> | <a href="http://www.ecofriend.org/about-us.php">About</a> | <a href="http://www.ecofriend.org/disclaimer.php">Disclaimer</a> | <a href="http://www.ecofriend.org/privacy-policy.php">Privacy Policy</a> | <a href="http://www.ecofriend.org/terms-of-use.php">Terms of Use</a> | <a href="http://www.ecofriend.org/contact-us.php?q=general">Contact </a></div>
+	</div><!-- EOF footer -->
 	<div class="clear"></div>
-		
-</div><!-- EOF #content-sidebar-inner -->	<div class="border"></div>
-	
-	</div><!-- EOF inner-sidebar1 -->
-		<div class="inner-sidebar2">
-
-		<div style="padding-bottom:20px;text-align:center;">
-				<a href="http://www.ecofriend.org/write_us.php"><img src="/css-img/write.gif"></a>
-		</div>
-
-		<div id="tags">
-		<h2>Tags</h2>
-		<div class="tag-content">
-			<a href="http://www.ecofriend.org/tags/architecture/" class="ibn_tag1">architecture</a> <a href="http://www.ecofriend.org/tags/cars/" class="ibn_tag4">Cars</a> <a href="http://www.ecofriend.org/tags/eco-gadgets/" class="ibn_tag3">Eco Gadgets</a> <a href="http://www.ecofriend.org/tags/eco-friendly/" class="ibn_tag9">eco-friendly</a> <a href="http://www.ecofriend.org/tags/electricity/" class="ibn_tag8">Electricity</a> <a href="http://www.ecofriend.org/tags/energy/" class="ibn_tag3">energy</a> <a href="http://www.ecofriend.org/tags/environment/" class="ibn_tag10">Environment</a> <a href="http://www.ecofriend.org/tags/global-warming/" class="ibn_tag6">global warming</a> <a href="http://www.ecofriend.org/tags/green/" class="ibn_tag1">green</a> <a href="http://www.ecofriend.org/tags/led/" class="ibn_tag2">LED</a> <a href="http://www.ecofriend.org/tags/recycle/" class="ibn_tag6">Recycle</a> <a href="http://www.ecofriend.org/tags/recycling/" class="ibn_tag8">recycling</a> <a href="http://www.ecofriend.org/tags/renewable-energy/" class="ibn_tag7">Renewable Energy</a> <a href="http://www.ecofriend.org/tags/solar/" class="ibn_tag5">Solar</a> <a href="http://www.ecofriend.org/tags/solar-energy/" class="ibn_tag10">solar energy</a> <a href="http://www.ecofriend.org/tags/solar-panels/" class="ibn_tag5">solar panels</a> <a href="http://www.ecofriend.org/tags/solar-power/" class="ibn_tag9">Solar power</a> <a href="http://www.ecofriend.org/tags/solar-powered/" class="ibn_tag2">solar powered</a> <a href="http://www.ecofriend.org/tags/technology/" class="ibn_tag7">Technology</a> <a href="http://www.ecofriend.org/tags/wind-energy/" class="ibn_tag4">Wind Energy</a> 		</div>		
-	</div><!-- EOF  tags-->
-	
-		
-
-	<div class="clear"></div>
-	
-	<!-- <div class="right-ads">
-		<h2>ADS</h2>
-
-	</div> -->
-
-	<div class="Comments">
-		<h2>Fresh Comments</h2>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img///t_.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://www.annointedunion.blogspot.com">annointed union</a>
-											</div>
-					on <span><a href="http://www.ecofriend.org/entry/eco-diys-150-wind-turbine-generates-250-watts-of-green-power/#comment-597195">Eco DIYs: $150 Wind Turbine...</a> very nice eco friendly machine. </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img///t_.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://www.latigo.com.ar">Mago</a>
-											</div>
-					on <span><a href="http://www.ecofriend.org/entry/eco-tech-any-liquid-is-good-for-the-world-s-first-chlorophyll-battery/#comment-597182">Eco Tech: Any liquid is good...</a> This is the future!
-
-Like Doc. Emet Brown who used garbage as fuel! :p </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img///t_.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://www.latigo.com.ar">Magos</a>
-											</div>
-					on <span><a href="http://www.ecofriend.org/entry/eco-energy-portable-power-generator-to-harness-every-motion-of-a-bike/#comment-597180">Eco Energy: Portable power...</a> This gadget probabbly costs more than my bike itself! :/ </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img///t_.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://info-lowongan-kerja-2009.blogspot.com">lowongan kerja 2009</a>
-											</div>
-					on <span><a href="http://www.ecofriend.org/entry/six-biofuel-misconceptions/#comment-597177">Six  misconceptions about...</a> Yes, i am searching for this topic.
-thanks
-
-i agree ...biofuel, more friendly with our... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img///t_.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://info-lowongan-kerja-2009.blogspot.com">lowongan kerja 2009</a>
-											</div>
-					on <span><a href="http://www.ecofriend.org/entry/eco-cars-lotus-omniwore-can-run-on-any-fuel/#comment-597175">Eco Cars: Lotus...</a> omnivore..interesting name...
-i agree using biodiesel is the best </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-			</div><!-- EOF Comments -->
-
-	<div class="market-place">
-	<h2>Shopping</h2>
-								<div class="bizrate">
-					<a href="http://www.atlanta-locksmith.com ">Atlanta Locksmith</a>
-					<div class="desc">The Eco friendly Locksmith Service!</div>
-				</div>
-							<div class="bizrate">
-					<a href="http://www.made-in-china.com">Made-in-China.com</a>
-					<div class="desc"></div>
-				</div>
-							<div class="bizrate">
-					<a href="http://www.modernecohomes.com">Eco-Friendly Products</a>
-					<div class="desc"></div>
-				</div>
-							<div class="bizrate">
-					<a href="http://www.floormall.com">Flooring</a>
-					<div class="desc"></div>
-				</div>
-							<div class="bizrate">
-					<a href="http://www.terraverdeflooring.com">Green Flooring</a>
-					<div class="desc"></div>
-				</div>
-			
-		<div class="buy"> To Advertise please <a href="http://www.instablogs.com/ad_solutions.php?b=18">Contact Us</a>.</div>
-	</div><!-- EOF market-place -->
-
+	<div id="fade" style="display:none;"></div>
 
 	
-			<div id="archives">
-			<h2>Archives</h2>
-			
-			<div class="year" onclick="toggle_div('arch-open0')">2009</div><div id="arch-open0">				<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200903/">March 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200902/">February 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200901/">January 2009</a>
-				</div>
-			</div><div class="year" onclick="toggle_div('arch-open1')">2008</div><div id="arch-open1" style="display:none;">				<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200812/">December 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200811/">November 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200810/">October 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200809/">September 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200808/">August 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200807/">July 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200806/">June 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200805/">May 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200804/">April 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200803/">March 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200802/">February 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200801/">January 2008</a>
-				</div>
-			</div><div class="year" onclick="toggle_div('arch-open2')">2007</div><div id="arch-open2" style="display:none;">				<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200712/">December 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200711/">November 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200710/">October 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200709/">September 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200708/">August 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200707/">July 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200706/">June 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200705/">May 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200704/">April 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200703/">March 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200702/">February 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200701/">January 2007</a>
-				</div>
-			</div><div class="year" onclick="toggle_div('arch-open3')">2006</div><div id="arch-open3" style="display:none;">				<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200612/">December 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200611/">November 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200610/">October 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200609/">September 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200608/">August 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200607/">July 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200606/">June 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200605/">May 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200604/">April 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200603/">March 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200602/">February 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200601/">January 2006</a>
-				</div>
-			</div><div class="year" onclick="toggle_div('arch-open4')">2005</div><div id="arch-open4" style="display:none;">				<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200512/">December 2005</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.ecofriend.org/archives/200511/">November 2005</a>
-				</div>
-						</div>
-		</div><!-- EOF archives -->
-		
-		<div class="border"></div>
-  
-		</div><!-- EOF inner-sidebar2 -->
-
-	</div><!-- EOF inner-sidebars -->
-
-	<div class="clear"></div>
- 
-		
-	<script src="/js/prototype.js"></script>
-	<script src="/js/control.js"></script>
-<script>
-	function show_top_tabs(divid)
-		{
-			if(divid=='topic-voted')
-			{
-				$('topic-commented').style.display='none';
-				$('topic-voted').style.display='block';
-				$('1').addClassName('active');
-				$('2').removeClassName('active');
-
-			}
-			else
-			{
-				$('topic-commented').style.display='block';
-				$('topic-voted').style.display='none';
-				$('2').addClassName('active');
-				$('1').removeClassName('active');
-			}
-		}
-	</script>
-
-			<div id="cool-geek">
-				<h2>Eco Friends</h2>
-				<div class="image-content">
-					<div class="image">
-					<a href="http://www.ecofriend.org/entry/add-a-bit-of-sense-to-the-element-of-creativity-n-voila-the-result-is-amy-hunting/"><img src="http://www.instablogsimages.com/images/2008/08/09/furniture_aQCJ7_69_125x80.jpg" alt="furniture aQCJ7"></a>
-					</div>
-					<div class="content">
-						<span class="name">
-							<a href="http://www.ecofriend.org/entry/add-a-bit-of-sense-to-the-element-of-creativity-n-voila-the-result-is-amy-hunting/">Add  a bit of sense to the element of creativity n voila the result is Amy Hunting!</a>
-						</span>
-						<p>
-						
-
-I am a big fan of all the amazing independent designers out there, therefore- Three cheers for...						</p>
-					</div>				
-				</div><!-- EOF image-content -->
-						<div class="cool-geek-images">
-				<a href="http://www.ecofriend.org/entry/delve-with-us-into-the-world-of-interactive-sculptures-with-amy-youngs/"><img src="http://www.instablogsimages.com/images/2008/03/07/1_amy-youngs_50_125x80.jpg" alt="1 amy youngs"></a>
-			</div>
-						<div class="cool-geek-images">
-				<a href="http://www.ecofriend.org/entry/meet-gideon-greenspan-the-star-behind-carbon-catalog/"><img src="http://www.instablogsimages.com/images/2008/02/01/1_gideon-greenspanjpg_50_125x80.jpg" alt="1 gideon greenspanjpg"></a>
-			</div>
-						<div class="cool-geek-images">
-				<a href="http://www.ecofriend.org/entry/interviewing-gary-harvey-a-design-visionary/"><img src="http://www.instablogsimages.com/images/2008/01/25/gary-harvey_50_125x80.jpg" alt="gary harvey"></a>
-			</div>
-						<div class="cool-geek-images">
-				<a href="http://www.ecofriend.org/entry/watch-out-for-christian-kocx-the-one-who-concretizes-decorative-items-from-injection-moulding/"><img src="http://www.instablogsimages.com/images/2008/01/18/christian-kocx_50_125x80.jpg" alt="christian kocx"></a>
-			</div>
-						
-			<div class="clear"></div>
-			<div class="more"><a href="/eco_friends.php">More&gt;&gt;</a></div>
-	</div><!-- EOF cool-geek -->
-
-		<div class="border"></div>
-	
-		<div class="breaking-news">
-		<h2>Green Gifts</h2>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2008/12/23/iqua-vizor-sun_QGaJx_69_125x80.jpg" alt="iqua vizor sun QGaJx">
-				<div class="title"><a href="http://www.ecofriend.org/entry/green-gifts-solar-powered-iqua-vizor-sun-bluetooth-car-kit/">Green Gifts: Solar-powered Iqua Vizor SUN Bluetooth Car Kit</a></div>
-				<div class="date">Dec 23 2008</div>
-			</div>
-			<div class="clear"> </div>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2008/12/22/funman_Ib9qK_69_125x80.jpg" alt="funman Ib9qK">
-				<div class="title"><a href="http://www.ecofriend.org/entry/green-gifts-fan-man-by-jay-garrison/">Green Gifts: Fan Man by Jay Garrison</a></div>
-				<div class="date">Dec 22 2008</div>
-			</div>
-			<div class="clear"> </div>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2008/12/20/lamp_R6TPS_69_125x80.jpg" alt="lamp R6TPS">
-				<div class="title"><a href="http://www.ecofriend.org/entry/green-gifts-moso-lamp-by-brian-schmitt/">Green Gifts: Moso Lamp by Brian Schmitt</a></div>
-				<div class="date">Dec 20 2008</div>
-			</div>
-			<div class="clear"> </div>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2008/12/19/milkbottle_nVRBf_69_125x80.jpg" alt="milkbottle nVRBf">
-				<div class="title"><a href="http://www.ecofriend.org/entry/green-gifts-recycled-milk-bottle-lamp-by-droog-design/">Green Gifts: Recycled Milk Bottle lamp by Droog Design</a></div>
-				<div class="date">Dec 19 2008</div>
-			</div>
-			<div class="clear"> </div>
-				<div class="clear"></div>
-		<div class="more"><a href="/eco_green_gifts.php">More&gt;&gt;</a></div>
-	</div><!--EOF breaking-news-->
-	 
-
-
-		<div class="breaking-news">
-		<h2>Green Product of the Week</h2>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2008/11/20/z-pitcher_mgmiD_69_125x80.jpg" alt="z pitche mgmiD">
-				<div class="title"><a href="http://www.ecofriend.org/entry/eco-gadgets-z-pitcher-debuts-water-filter-made-from-recycled-materials/">Eco Gadgets: Z-Pitcher debuts water filter made from recycled materials</a></div>
-				<!-- <div class="date">Nov 20 2008</div> -->
-			</div>
-			<div class="clear"> </div>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2008/06/03/river_gym_joachim2_jLQto_7071_125x80.jpg" alt="rive gym joachim2 jLQto">
-				<div class="title"><a href="http://www.ecofriend.org/entry/river-gym-new-york-get-ready-to-work-out-on-the-waves/">River Gym -  New York get ready to work out on the waves!</a></div>
-				<!-- <div class="date">Jun 3 2008</div> -->
-			</div>
-			<div class="clear"> </div>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2008/05/28/sunplant1_vaFzQ_69_125x80.jpg" alt="sunplant1 vaFzQ">
-				<div class="title"><a href="http://www.ecofriend.org/entry/sunplant-from-sanyo-and-studio-kita-showcased-at-milan/">Sunplant from Sanyo and Studio Kita showcased at Milan</a></div>
-				<!-- <div class="date">May 28 2008</div> -->
-			</div>
-			<div class="clear"> </div>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2008/05/16/sailyacht-1_NL3kH_15699_125x80.jpg" alt="sailyacht 1 NL3kH">
-				<div class="title"><a href="http://www.ecofriend.org/entry/green-jet-yacht-luxury-meets-eco-friendly-technology/">Green Jet Yacht: Luxury meets eco-friendly technology</a></div>
-				<!-- <div class="date">May 16 2008</div> -->
-			</div>
-			<div class="clear"> </div>
-			</div><!--EOF breaking-news-->
-	
-	<div class="breaking-news">
-		<h2>Top of Environment<span style="font:italic 10px/1.1em arial,serif;"> ( 7 days )</span></h2>
-					
-					<div class="topic">
-					( <a id="1" class="active" href="javascript:show_top_tabs('topic-voted')">Recent</a> | <a id="2" href="javascript:show_top_tabs('topic-commented')">Popular</a> )
-					</div>
-						<div id="topic-voted">
-						
-							<div class="breaking-content">
-							<img src="http://www.instablogsimages.com/images/2009/03/03/ford-fusion_ZMr1W_69_125x80.jpg">								<div class="title"><a href="http://www.ecofriend.org/entry/eco-cars-ford-s-green-hybrids-get-sustainable-interiors">Eco Cars: Ford’s green hybrids get sustainable interiors</a></div>
-								<div class="date">15 hrs ago</div>
-							</div>
-							<div class="clear"> </div>
-							
-							<div class="breaking-content">
-							<img src="http://www.instablogsimages.com/images/2009/03/03/raincloud-c-15_3KXfk_69_125x80.jpg">								<div class="title"><a href="http://www.ecofriend.org/entry/eco-gadgets-raincloud-captures-the-air-you-breathe-for-water-you-drink">Eco Gadgets: RainCloud captures the air you breathe for water you drink</a></div>
-								<div class="date">15 hrs ago</div>
-							</div>
-							<div class="clear"> </div>
-							
-							<div class="breaking-content">
-							<img src="http://www.instablogsimages.com/images/2009/03/03/glaciallight-led_NhENx_69_125x80.jpg">								<div class="title"><a href="http://www.ecofriend.org/entry/eco-gadgets-glaciallight-introduces-new-range-of-led-light-bulbs">Eco Gadgets: GlacialLight introduces new range of LED light bulbs</a></div>
-								<div class="date">16 hrs ago</div>
-							</div>
-							<div class="clear"> </div>
-							
-							<div class="breaking-content">
-							<img src="http://www.instablogsimages.com/images/2009/03/03/asus-eee-box-206_yIPgH_69_125x80.jpg">								<div class="title"><a href="http://www.ecofriend.org/entry/eco-gadgets-asus-announces-eee-box-206-with-added-technology-and-eco-friendliness">Eco Gadgets: Asus announces Eee Box 206 with added technology and eco-friendliness</a></div>
-								<div class="date">16 hrs ago</div>
-							</div>
-							<div class="clear"> </div>
-							
-							<div class="breaking-content">
-							<img src="http://www.instablogsimages.com/images/2009/03/03/wave-energy_N6CmL_69_125x80.jpg">								<div class="title"><a href="http://www.ecofriend.org/entry/eco-tech-san-francisco-gears-up-for-30mw-of-wave-power">Eco Tech: San Francisco gears up for 30MW of wave power</a></div>
-								<div class="date">18 hrs ago</div>
-							</div>
-							<div class="clear"> </div>
-													</div>
-					
-						<div id="topic-commented" style="display:none;">
-							
-							<div class="breaking-content">
-							<img src="http://www.instablogsimages.com/images/2009/02/28/eleanor1_XKN1m_69_125x80.jpg">								<div class="title"><a href="http://www.ecofriend.org/entry/eco-cars-mit-s-eleanor-solar-powered-car-does-90-mph">Eco Cars: MIT’s Eleanor solar-powered car does 90 mph</a></div>
-								<div class="date">3 days ago</div>
-							</div>
-							<div class="comments-ads">
-
-							
-
-						</div>
-							<div class="clear"> </div>
-							
-							<div class="breaking-content">
-							<img src="http://www.instablogsimages.com/images/2009/02/28/toyota2_W3mC3_69_125x80.jpg">								<div class="title"><a href="http://www.ecofriend.org/entry/eco-cars-toyota-develops-hybrid-car-made-of-seaweed">Eco Cars: Toyota develops hybrid car made of seaweed</a></div>
-								<div class="date">3 days ago</div>
-							</div>
-							<div class="comments-ads">
-
-							
-
-						</div>
-							<div class="clear"> </div>
-							
-							<div class="breaking-content">
-							<img src="http://www.instablogsimages.com/images/2009/02/28/co2-scrapper_SZxEE_69_125x80.jpg">								<div class="title"><a href="http://www.ecofriend.org/entry/eco-tech-evergreen-sky-forests-to-help-cool-the-atmosphere">Eco Tech: Evergreen sky forests to help cool the atmosphere</a></div>
-								<div class="date">3 days ago</div>
-							</div>
-							<div class="comments-ads">
-
-							
-
-						</div>
-							<div class="clear"> </div>
-							
-							<div class="breaking-content">
-							<img src="http://www.instablogsimages.com/images/2009/02/28/first-solar_hhOX3_69_125x80.jpg">								<div class="title"><a href="http://www.ecofriend.org/entry/eco-tech-first-solar-brings-solar-manufacturing-below-1watt-installation-still-expensive">Eco Tech: First Solar brings solar manufacturing below $1/watt, installation still expensive</a></div>
-								<div class="date">3 days ago</div>
-							</div>
-							<div class="comments-ads">
-
-							
-
-						</div>
-							<div class="clear"> </div>
-							
-							<div class="breaking-content">
-							<img src="http://www.instablogsimages.com/images/2009/02/27/inlet-outlet_hdcCC_69_125x80.jpg">								<div class="title"><a href="http://www.ecofriend.org/entry/eco-gadgets-inlet-outlet-convert-your-home-into-an-electricity-grid">Eco Gadgets: Inlet-Outlet – Convert your home into an electricity grid</a></div>
-								<div class="date">4 days ago</div>
-							</div>
-							<div class="comments-ads">
-
-							
-
-						</div>
-							<div class="clear"> </div>
-													</div>
-
-
-				
-			</div><!-- EOF local-main-->
-		<div class="clear"></div>
-
-	
-</div><!-- EOF #content-sidebar -->
-		</div><!-- EOF #content -->
-
-				<div class="clear"> </div>
-
-				
-		<div id="ad-footer">
-			
-		</div><!-- EOF #ad-footer -->
-
-		<div id="footer">
-			
-			<div id="footer-main">
-				
-				<div class="publish">Published by The <a href="http://www.instablogs.com/">Instablogs Network</a>, <a href="http://www.citizenmedia.org">Citizen Media Pvt. Ltd.</a></div>
-				<div class="copyright">Copyright © Instablogs Network 2005. All rights reserved.</div>
-				<div class="footer-links">
-				<a href="http://www.instablogs.com/ad_solutions.php?b=18">Advertising</a>  |  <a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
-				</div>
-			</div><!-- EOF #footer-main -->
-		</div><!-- EOF #footer -->
-		
-		
-<!-- Start of StatCounter Code -->
-<script type="text/javascript" language="javascript">
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://ecofriend.us.intellitxt.com/intellitxt/front.asp?ipid=19073"></script>
+<!-- end Vibrant Media IntelliTXT script section -->	<!-- Start of StatCounter Code -->
+<script type="text/javascript">
 var sc_project=1063694; 
 var sc_invisible=1; 
-var sc_partition=6; 
+var sc_partition=62; 
+var sc_click_stat=1; 
 var sc_security="2902c709"; 
-var sc_remove_link=1; 
 </script>
 
-<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c7.statcounter.com/counter.php?sc_project=1063694&amp;java=0&amp;security=2902c709&amp;invisible=1" alt="counter" border="0"> </noscript>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="wordpress stats "
+href="http://www.statcounter.com/wordpress.org/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/1063694/0/2902c709/1/"
+alt="wordpress stats " ></a></div></noscript>
+<!-- End of StatCounter Code -->
+<!-- Start of StatCounter Code Instablogs Network -->
+<script type="text/javascript">
+var sc_project=2497465; 
+var sc_invisible=1; 
+var sc_partition=66; 
+var sc_click_stat=1; 
+var sc_security="77633a20"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="web stats"
+href="http://www.statcounter.com/free_web_stats.html"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/2497465/0/77633a20/1/"
+alt="web stats" ></a></div></noscript>
 <!-- End of StatCounter Code -->
 
-		<!-- Start of StatCounter Code Network 0-->
-		<script type="text/javascript" language="javascript">
-		var sc_project=2497465; 
-		var sc_invisible=1; 
-		var sc_partition=23; 
-		var sc_security="77633a20";
-		var sc_remove_link=1; 
-		</script>
-
-		<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c24.statcounter.com/counter.php?sc_project=2497465&java=0&security=77633a20&invisible=0" alt="blog counter" border="0"> </noscript>
-		<!-- End of StatCounter Code -->
-
-	</div> <!-- EOF #container -->
-  
+	<!-- Site Google Analytics -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-601944-3");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+	<!-- End of Site Google Analytics -->
 
 
-<!-- Histats.com START -->
-<a href="http://www.histats.com" target="_blank" title="counter hit make">
-<script type="text/javascript" language="javascript">
-
-var s_sid = 429823;var st_dominio = 4;
-var cimg = 0;var cwi =150;var che =30;
-</script>
-<script type="text/javascript" language="javascript" src="http://s10.histats.com/js9.js"></script>
-</a>
-<noscript><a href="http://www.histats.com" target="_blank">
-<img src="http://s4.histats.com/stats/0.gif?429823&1" alt="counter hit make" border="0"></a>
-</noscript>
-
-<!-- Histats.com END -->
-
-<!-- Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-601944-3");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-<!-- Environment google analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-601944-30");
-pageTracker._trackPageview();
-</script>
+	<!-- Channel Google Analytics -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-601944-30");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+	<!-- End of Channel Google Analytics -->
 
 <!-- Instablogs Network Google Analytics -->
 <script type="text/javascript">
@@ -889,7 +815,10 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-601944-10");
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
+<!-- End of Instablogs Network Google Analytics -->
+	
 </body></html>
