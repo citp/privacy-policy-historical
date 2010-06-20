@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the sharetv.org privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416185533id_/http%3A//sharetv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetv.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621003901id_/http%3A//sharetv.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ShareTV.org
-
-**¬ Update:** ShareTV adds 
-
-[_Full-Episodes_](https://web.archive.org/watch)
-
-from HULU, Joost, and TheWB.com
+# Privacy Policy - shareTV.org
 
 We respect your privacy and are committed to safeguarding it while online at our site **ShareTV.org**. The following discloses the information gathering and dissemination practices for this Web site. 
 
@@ -22,8 +16,16 @@ This Web site contains links to other sites. Please be aware that we are not res
 **Advertisers**  
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense. Please check their websites for respective privacy policies. 
 
+**Google AdSense**  
+Google uses what's called the DART cookie, which enables it to serve ads to you based on your visits on this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: admin@sharetv.org 
 
-[Sitemap](https://web.archive.org/sitemap) \- [Feedback](https://web.archive.org/contact) \- [Help](https://web.archive.org/help)   
-[© sharetv - free online tv community](https://web.archive.org/)
+  
+
+
+  
+
+
+Page created in 0.0405 seconds
