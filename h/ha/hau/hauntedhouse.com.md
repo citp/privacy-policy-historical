@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hauntedhouse.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220040607id_/http%3A//www.hauntedhouse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hauntedhouse.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621000432id_/http%3A//www.hauntedhouse.com/privacy.html) for the most accurate reproduction.*
 
-# The New Haunted House.com
+# HauntedHouse.com Privacy Policy
 
 Privacy Policy
 
@@ -11,7 +11,6 @@ This online privacy policy applies to HauntedHouse.comwhich is operated by **Hau
 Haunt Holdings, LLC  
 101 Convention Center Drive, Suite 700  
 Las Vegas, NV 89109   
-Telephone: 708.688.4377  
 Email:[ info@hauntedhouse.com](mailto:info@hauntedhouse.com)
 
 **INFORMATION COLLECTION**
