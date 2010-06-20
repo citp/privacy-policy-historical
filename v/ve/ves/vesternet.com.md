@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vesternet.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312090242id_/http%3A//www.vesternet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesternet.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620204255id_/http%3A//www.vesternet.com/s.nl/c.1057900/it.I/id.9/.f) for the most accurate reproduction.*
 
-# Vesternet - Privacy Policy
+# Privacy Policy
 
-### 
+**PRIVACY POLICY**
 
 Vesternet Limited ("We") are committed to protecting and respecting your privacy.
 
@@ -14,7 +14,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.vesternet.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Vesternet Limited and when you report a problem with our site.
+  * Information that you provide by filling in forms on our site www.zigbee.eu (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Vesternet Limited and when you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
   * Vesternet Limited may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our site and of the fulfilment of your orders.
@@ -23,7 +23,7 @@ We may collect and process the following data about you:
 
 
 
-**IP ADDRESSES AND COOKIES**
+ **IP ADDRESSES AND COOKIES**
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
@@ -80,9 +80,9 @@ We may disclose your personal information to third parties:
 
 
 
-**YOUR RIGHTS**
+ **YOUR RIGHTS**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@vesternet.com](mailto:info@vesternet.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@vesternet.com](mailto:info@vesternet.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -96,7 +96,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
  **CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@vesternet.com](mailto:info@vesternet.com)
-
-  
-
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@vesternet.com](mailto:info@vesternet.com)
