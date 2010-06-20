@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myindospace.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218185643id_/http%3A//www.myindospace.com/content/index.php%3Fid%3D50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myindospace.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620173436id_/http%3A//www.myindospace.com/content/index.php%3Fid%3D50) for the most accurate reproduction.*
 
 # MyIndoSpace.com - Privacy policy
 
@@ -10,7 +10,6 @@ This Privacy Notice is incorporated into and is subject to the MyIndoSpace.com T
 
 Please note that any video, image, or other content posted at the direction of Users onto the MyIndoSpace.com Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice. 
 
-  
 \--------------------------------------------------------------------------------
 
 **Information MyIndoSpace.com Collects**
@@ -21,7 +20,6 @@ Cookies Information: When you visit the MyIndoSpace.com Sites, we may send one o
 
 Log File Information: When you use the MyIndoSpace.com Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
-  
 \--------------------------------------------------------------------------------
 
 **The Way MyIndoSpace.com Uses Information**
@@ -52,7 +50,6 @@ This Privacy Notice may be revised periodically. Please revisit this page to sta
 
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
-  
 \--------------------------------------------------------------------------------
 
 The use of this version of the MyIndoSpace.com website(s) and/or MyIndoSpace.com software and any other related software, upgrades or updates and all related services and special offers (the "Service") provided by MyIndoSpace.com inc. ("MyIndoSpace.com") are subject to the hereunder provisions of this Privacy Policy.
@@ -67,9 +64,11 @@ If you are under the age of 13, you are not eligible to use the Service, and we 
 
 Personal Information: Use of certain features of the Service may require submission of certain personal information, including your first and last name, email address, a nick name (or other user ID) and a password.
 
-Non personally identifiable Information: MyIndoSpace.com may also collect or receive additional non personally identifiable usage information specifically related to the use of a particular feature or offering on the MyIndoSpace.com Service or website(s), and responses to the offerings and advertisements presented on MyIndoSpace.com''s Service and/or website(s).
+Non personally identifiable Information: MyIndoSpace.com may also collect or receive additional non personally identifiable usage information specifically related to the use of a particular feature or offering on the MyIndoSpace.com Service or website(s), and responses to the offerings and advertisements presented on MyIndoSpace.com's Service and/or website(s).
 
 MyIndoSpace.com may also collect or receive (in some cases as part of the internet communication protocol) certain non personally identifiable technical information, when the MyIndoSpace.com website(s) and pages are visited or when the MyIndoSpace.com Service is used.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 **How is the information being used?**
 
@@ -81,15 +80,15 @@ Notwithstanding the foregoing, your information may be accessed and disclosed if
 
 **Cookies**
 
-MyIndoSpace.com may use cookies or similar technologies to enhance and personalize your experience of the Service and/or of MyIndoSpace.com''s web sites, including to operate and improve offerings through the Service and/or web sites; to help authenticate your identity when you visit and transact with the Service, and/or web sites; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you.
+MyIndoSpace.com may use cookies or similar technologies to enhance and personalize your experience of the Service and/or of MyIndoSpace.com's web sites, including to operate and improve offerings through the Service and/or web sites; to help authenticate your identity when you visit and transact with the Service, and/or web sites; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you.
 
-Additionally, MyIndoSpace.com or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Service, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements'' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not MyIndoSpace.com''s.
+Additionally, MyIndoSpace.com or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Service, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not MyIndoSpace.com's.
 
 MyIndoSpace.com does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Services and/or web sites may be impaired if you decline to accept cookies.
 
 **Special Note for Parents**
 
-MyIndoSpace.com''s Service and websites are intended for a general audience, and children under the age of thirteen (13) are not permitted to register with MyIndoSpace.com''s Service and websites.
+MyIndoSpace.com's Service and websites are intended for a general audience, and children under the age of thirteen (13) are not permitted to register with MyIndoSpace.com's Service and websites.
 
 **Modification and Deletion of Personally Identifiable Information**
 
@@ -97,9 +96,9 @@ Deletion (Opt-Out). In order to delete the personally identifiable information y
 
 Modification. If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: support(-at-)MyIndoSpace.com.com
 
-Please note that deletion of your personally identifiable information from MyIndoSpace.com''s database will not prevent MyIndoSpace.com from using gathered anonymous information.
+Please note that deletion of your personally identifiable information from MyIndoSpace.com's database will not prevent MyIndoSpace.com from using gathered anonymous information.
 
-**Third Parties'' Practices.**
+**Third Parties' Practices.**
 
 This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that MyIndoSpace.com does not own or control, or does not employ or manage.   
 
