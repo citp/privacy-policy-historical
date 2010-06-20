@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newsmax.com privacy policy that was archived on 2009-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214015432id_/http%3A//newsmax.com/PrivacyStatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newsmax.com privacy policy that was archived on 2010-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620055717id_/http%3A//newsmax.com/PrivacyStatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	Newsmax - Newsmax.com - Privacy Statement
@@ -10,254 +10,88 @@
 <meta http-equiv="content-script-type" content="text/javascript"> 
 <meta name="keywords" content="newsmax,ruddy,conservative,republican,news,politics,opinion,American,independent,international,world,headlines,US,current,events,money,finance,books,Kessler,Timmerman,article,feature,blaylock,magazine"> 
 <link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=Newsmax"> 
-<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta http-equiv="EXPIRES" content="-1">
 <link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=NewsmaxInternalPages">
-
 <link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=NewsmaxWebParts">
-<link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=Newsmax">
 
-<link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=gsh">
-<link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=gda">
+
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
 <script language="JavaScript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 
-<script language="JavaScript">
+<script src="/CMSScripts/newsmax/headerscripts.js" type="text/javascript"> </script>
+
+<script type="text/javascript" language="JavaScript">
 	GS_googleAddAdSenseService("pub-2932230807573228");
 	GS_googleEnableAllServices();
 </script>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+
+
 <script type="text/javascript">
-	_uacct = "UA-31221-1";
-	urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-31221-1");
+pageTracker._setDomainName(".newsmax.com");
+pageTracker._trackPageview();
+} catch(err) {}
 </script>
 
 
 
 
 
-<script type="text/javascript">
-var min=8;
-var max=18;
-function increaseFontSize() {
-   var p = document.getElementsByTagName('p');
-   for(i=0;i<p.length;i++) {
-      if(p[i].style.fontSize) {
-         var s = parseInt(p[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 12;
-      }
-      if(s!=max) {
-         s += 1;
-      }
-      p[i].style.fontSize = s+"px"
-   }
-}
-function decreaseFontSize() {
-   var p = document.getElementsByTagName('p');
-   for(i=0;i<p.length;i++) {
-      if(p[i].style.fontSize) {
-         var s = parseInt(p[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 12;
-      }
-      if(s!=min) {
-         s -= 1;
-      }
-      p[i].style.fontSize = s+"px"
-   }   
-}
 
-function printPage(obj){
-	//window.print();
-	window.open('/PrintTemplate?nodeid='+obj,'printWin','toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,width=500,height=650');
-}
-function get_ZipCookie(Name) {
-  var search = Name + "="
-  var returnvalue = "";
-  if (document.cookie.length > 0) {
-    offset = document.cookie.indexOf(search)
-    if (offset != -1) { // if the cookie exists
-      offset += search.length
-      end = document.cookie.indexOf(";", offset); // set the index of beginning value
-      
-    if (end == -1) // set the index of the end of cookie value
-         end = document.cookie.length;
-         returnvalue=unescape(document.cookie.substring(offset, end))
-      }
-   }
-  return returnvalue;
-}
-function goWeather()
-{
-var searchStr=document.getElementById('zipcity').value;
-var date = new Date();
-date.setTime(date.getTime()+(14*24*60*60*1000));
-var expires = "; expires="+date.toGMTString();
-var SiteName=document.getElementById('Sitepath').value;
-document.cookie="WeatherZip=" +searchStr+expires+" path=/";
-searchStr=searchStr.replace(/'/g,"\'");
-CleanURI=searchStr.replace(/"/g,"\"");
-window.location='http://'+SiteName+'/Zipweather/Results.aspx/?sString='+ CleanURI;
-
-//window.location='http://devcms.newsmax.dev/Development/Zipweather/Results.aspx/?sString='+ CleanURI;
-
-}
-function URLEncode (clearString) {  
-   var output = '';  
-   var x = 0;  
-   clearString = clearString.toString();  
-   var regex = /(^[a-zA-Z0-9_.]*)/;  
-   while (x < clearString.length) {  
-     var match = regex.exec(clearString.substr(x));  
-     if (match != null && match.length > 1 && match[1] != '') {  
-         output += match[1];  
-       x += match[1].length;  
-     } else {  
-       if (clearString[x] == ' ')  
-         output += '+';  
-       else {  
-         var charCode = clearString.charCodeAt(x);  
-         var hexVal = charCode.toString(16);  
-         output += '%' + ( hexVal.length < 2 ? '0' : '' ) + hexVal.toUpperCase();  
-       }  
-       x++;  
-     }  
-   }  
-   return output;  
- } 
- function SearchSite()  
- {  
-var val = '';
-
-for( i = 0; i < document.forms[0].sitesearch.length; i++ )
-{
-if( document.forms[0].sitesearch[i].checked == true )
-val = document.forms[0].sitesearch[i].value;
-}
-var SiteName=document.getElementById('Sitepath').value;
- document.location.href='http://'+SiteName+'/search?cx=011533900540746215761%3A-adksucby_s&cof=FORID%3A9&ie=UTF-8&hl=en&sitesearch='+val+'&q=' +   
-URLEncode(document.getElementById('q').value)+ '&sa=Search' + '&safe=active';
-
- } 
-
-    function SubmitOnEnter(myfield, e)  
- {  
-     var keycode;  
-     if (window.event)  
-         keycode = window.event.keyCode;  
-     else if (e)  
-         keycode = e.which;  
-     else  
-         return true;  
-     if (keycode == 13)  
-     {  
-         SearchSite();  
-         return false;  
-     }  
-     else  
-         return true;  
- }  
-function Gotosignup()
-{
-if (document.getElementById('txtalert_signup').value =='')
-{
-window.location='http://w3.newsmax.com/emails/nm_signup.cfm';
-}else{
-window.location='http://w3.newsmax.com/emails/nm_signup.cfm?email_address='+document.getElementById('txtalert_signup').value;
-}
-}
-
-function drawPromoPixel(){
-	var promo_code = ''
-	var i_url = document.URL
-	if (i_url.indexOf('?') >= 0){
-		var bits = i_url.split('?')
-		var aBits = bits[1].split('&')
-		for(i=0;i<aBits.length;i++){
-			var bBits = aBits[i].split('=')
-			if(bBits[0] == 'promo_code' || bBits[0]=='PROMO_CODE'){
-				var promo_code = bBits[1]
-			}
-		}
-		if(promo_code != ''){
-			document.write("<img src=\"http://www.newsmaxstore.com/images/promo_tracking/promo_conversion_image.cfm?PROMO_CODE=" +  promo_code + "&SOURCE=newsmax&LANDING_PAGE=" + URLEncode(document.URL) + "\" width=\"1\" height=\"1\" border=\"0\">")
-		}
-	}
-}
-
-</script> 
+ 
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="icon" href="/favicon.ico"></head>
 <body class="LTR ENUS">
-    <form name="form1" method="post" action="http://newsmax.com:80/PrivacyStatement.aspx" id="form1">
+    <form name="form1" method="post" action="/PrivacyStatement.aspx" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTg2MzA2MjY5D2QWAgIBEGRkFgICAw9kFgJmD2QWAmYPZBYGAgIPZBYEZg9kFgJmDxUBA3gxNWQCAQ9kFgJmDxUBA3gxNmQCBg9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFgICBQ9kFgJmD2QWAmYPFQEFUmlnaHRkAggPZBYCAgEPZBYCZg8VAQZCb3R0b21kGAMFHWRiZ0VsZW0kVmlld1N0YXRlMSRncmlkU3RhdGVzDzwrAAoBCGZkBRtkYmdFbGVtJENhY2hlTG9nMSRncmlkQ2FjaGUPPCsACgEIZmQFHWRiZ0VsZW0kUXVlcnlMb2cxJGdyaWRRdWVyaWVzDzwrAAoBCGZk0OtypghjXst5q3k9Wt8xIMMhkV0=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTg2MzA2MjY5D2QWAgIBEGRkFgICAw9kFgJmD2QWAmYPZBYIAgIPZBYCAgEPZBYCZg8VAQRUb3AyZAIFD2QWAgIBD2QWAgICD2QWAmYPZBYCZg9kFgJmDxUCQ2h0dHA6Ly93My5uZXdzbWF4LmNvbS9uZXdzbGV0dGVycy9oY2kvaGNpMDAxYi5jZm0/UFJPTU9fQ09ERT1BMTlDLTFhQmlsbCBP4oCZUmVpbGx5IGFuZCBKaW0gUm9nZXJzIERpc2N1c3MgR29sZCBTdXJnZSBvbiBFY29ub21pYyBDcmlzaXMgU3VtbWl0IOKAlCBXYXRjaCBJdCBIZXJlIE5vd2QCBg9kFgJmD2QWAgICD2QWAmYPZBYCZg9kFgICBQ9kFgJmD2QWAmYPFQEFUmlnaHRkAggPZBYCAgEPZBYCZg8VAQZCb3R0b21kGAgFGmRiZ0VsZW0kbG9nU1FMJGdyaWRRdWVyaWVzDzwrAAoBCGZkBRtkYmdFbGVtJGxvZ1N0YXRlJGdyaWRTdGF0ZXMPPCsACgEIZmQFJGRiZ0VsZW0kbG9nUmVxdWVzdCR0YmxWYWwkZ3JpZFZhbHVlcw88KwAKAQhmZAUlZGJnRWxlbSRsb2dSZXF1ZXN0JHRibFJlcUMkZ3JpZFZhbHVlcw88KwAKAQhmZAUaZGJnRWxlbSRsb2dDYWNoZSRncmlkQ2FjaGUPPCsACgEIZmQFHGRiZ0VsZW0kbG9nUmVxdWVzdCRncmlkQ2FjaGUPPCsACgEIZmQFJWRiZ0VsZW0kbG9nUmVxdWVzdCR0YmxSZXNDJGdyaWRWYWx1ZXMPPCsACgEIZmQFFmRiZ0VsZW0kbG9nU2VjJGdyaWRTZWMPPCsACgEIZmRpTnRRQbz3cnmCUkRK1dld/sz51g==">
 </div>
 
 <div><input type="hidden" name="lng" id="lng" value="en-US">
-</div>
-<script src="/ScriptResource.axd?d=vJiXLk0P5sGgUe0jXMQjxcUxQvMeNXLOjo7bhMDfeQH0ZCxVdHRSGjvWB7woZAFM1hb-_bcYseWL91xEo9tO_7UVMWzhuFlOF929VZWlGZE1&amp;t=ffffffff8dca00c7" type="text/javascript"></script>
+</div><script type="text/javascript">
+//<![CDATA[
+
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=ZjWPAHwPQDCO6HJysengRXukQZE-bSqPJTnTbec56kL3wSXZS3QSH_u69lQCt_DhyLZ1xCbNh9UFqfpfkQo-notBbLgtpcrQTU-YTsdxqMc1&amp;t=306c1628" type="text/javascript"></script>
         <div id="manPortal">
 
 </div>
          
-<script type"text="" javascript"="">
+<script type="text/javascript">
+//<![CDATA[
 if(window.location.hostname.indexOf("stage") >= 0)
  document.write('<div style="width:100%; height:20px; background-color:red; text-align:center"><strong> STAGE </strong><span style="font-size:11px; font-family:arial,helvetica; position:relative; left:400px;"><a href="/cmsscripts/help/index.html" target="blank">CMS HELP</a></span></div>');
+//]]>
 </script>
 
 <!--Main Wrapper -->
 <div class="mainWrapper">
-<!--<script type="text/javascript">
 
- function pageLoad()
-{
-	alert('123');
-}
-</script> -->
-<script>
-//RedirectToInterviews();
-</script>
-<input type="hidden" name="plc$lt$OASAdPositions" id="plc_lt_OASAdPositions" value="Bottom,x15,x16,Right">
+
+<input type="hidden" name="plc$lt$OASAdPositions" id="plc_lt_OASAdPositions" value="Bottom,Top2,Right">
 <input type="hidden" name="plc$lt$OASSitePage" id="plc_lt_OASSitePage" value="www.newsmax.com">
-<input type="hidden" value="newsmax.com" id="Sitepath">
+<input type="hidden" value="www.newsmax.com" id="Sitepath">
 <script type="text/javascript">
-<!--
+/*//<![CDATA[*/
+
 //configuration
     var OAS_url = 'http://oascentral.newsmax.com/RealMedia/ads/';
  var OAS_sitepage = document.getElementById('plc_lt_OASSitePage').value;
     var OAS_listpos = document.getElementById('plc_lt_OASAdPositions').value;
-//    var OAS_sitepage = '';
-//var OAS_listpos = '';
 
-//   var str= new String(window.location);
-//   var pos = str.toLowerCase().indexOf('home.aspx');
-//    if (pos <= 0)
-//       pos = str.toLowerCase().indexOf('home');
-//    if (pos <= 0 && window.location.pathname == '/')
-//       pos = 1;
-//	
-//    if (pos>=0)
-//	{
-//		OAS_sitepage = 'video.newsmax.com/home';
-//		OAS_listpos = 'TopLeft,Middle,Bottom'; 
-//				
-//	}
-//   else 
-//	{
-//		OAS_sitepage = 'video.newsmax.com/landing';
-//		OAS_listpos = 'TopLeft,Bottom,Right';			
-//		
-//	}
-//	
-// OAS_sitepage = 'www.newsmax.com/video';
-//OAS_sitepage = window.location.hostname + window.location.pathname;
-
-//var OAS_listpos = 'x20,x21,x22,x23,x24,x25,x26,TopLeft,Middle,Bottom,Left1,x05,Top2,Right';
 
 var OAS_query = '';
 var OAS_target = '_top';
@@ -287,8 +121,9 @@ function OAS_AD(pos) {
 
    
         
--->
-</script><script language="JavaScript1.1" src="http://oascentral.newsmax.com/RealMedia/ads/adstream_mjx.ads/www.newsmax.com/1929847375@Bottom,x15,x16,Right?"></script>
+
+/*//]]>*/
+</script><script language="JavaScript1.1" src="http://oascentral.newsmax.com/RealMedia/ads/adstream_mjx.ads/www.newsmax.com/1190866019@Bottom,Top2,Right?"></script>
 
 
 
@@ -296,21 +131,15 @@ function OAS_AD(pos) {
 
 	<div class="TopZone">
 	<div>
-<div style="float:left;position:relative;width:49%;text-align:right;">
+<div>
+
 <script language="JavaScript"> 
 <!-- 
-OAS_AD('x15');
+OAS_AD('Top2');
 //--> 
- </script>
- 
- <span id="plc_lt_zoneTopleft_OASAddsDisplay_TOP2_ltl"></span></div><div style="float:right;position:relative;width:49%;text-align:left;">
-<script language="JavaScript"> 
-<!-- 
-OAS_AD('x16');
-//--> 
- </script>
- 
- <span id="plc_lt_zoneTopleft_OASAddsDisplay1_ltl"></span></div>
+</script>
+
+<span id="plc_lt_zoneTopleft_OAS_TOP2_ltl"></span></div>
 	
 	<div style="clear:both">
 <br>
@@ -320,30 +149,29 @@ OAS_AD('x16');
 	<div class="TopZone" style="margin-bottom:3px;">
 			
 
-   
-
 <div id="HeaderMainTop">
-<div class="HeaderDate">
+    <div class="HeaderDate">
+        <span class="HeaderDateText">
 
-<span class="HeaderDateText">
-		<script type="text/javascript">
-		    var now = new Date();
-		    document.write(now.format("dddd, MMMM dd, yyyy"));
-        </script>
+            <script type="text/javascript">
+                var now = new Date();
+                document.write(now.format("dddd, MMMM dd, yyyy"));
+            </script>
+
         </span>
-</div>
-<div class="HeaderSearch">
-<div class="HeaderSearchDiv">  
-<input name="sitesearch" value="" type="radio">
+    </div>
+    <div class="HeaderSearch">
+        <div class="HeaderSearchDiv">
+            <input name="sitesearch" value="*.*" type="radio">
             <span class="HeaderSearchText">Web</span>
-            <input name="sitesearch" value="Newsmax.com" checked="checked" type="radio">
+            <input name="sitesearch" value="" checked="checked" type="radio">
             <span class="HeaderSearchText">Newsmax.com</span>
-            <input name="sitesearch" value="http://newsmax.com/PrivacyStatement/" type="radio">
-<span class="HeaderSearchText">This section</span>
-
+            
             <input id="q" name="q" value="" size="40" onkeypress="return SubmitOnEnter(this,event)" type="text" class="HeaderSearchInput">
-    <a onclick="SearchSite();"><img alt="search" src="/App_Themes/NewsmaxVideo/Images/nm_search.gif" class="HeaderSearchBtn"></a></div>
-</div>
+            <a onclick="SearchSite();">
+                <img alt="search" src="/App_Themes/NewsmaxVideo/Images/nm_search.gif" class="HeaderSearchBtn"></a>
+        </div>
+    </div>
 </div>
 
 		</div>
@@ -351,7 +179,12 @@ OAS_AD('x16');
 	<!-- Content container -->
 	<div class="mainDiv">
 		<div>
-			
+			    <div id="HeaderMain">
+        
+        <div class="HeaderMaxLogo">
+            <a href="http://www.newsmax.com/">
+            <img src="/App_Themes/NewsmaxVideo/Images/Newsmax_com_header_logo.gif" width="347" height="90" class="HeaderCorrespondent_HeaderLogo_container" border="0"></a>
+</div></div>
 <div id="NewsmaxHeader">
 
     <script type="text/javascript">
@@ -361,34 +194,26 @@ OAS_AD('x16');
     </script>
 
     <div id="HeaderMain">
-        
-        <div class="HeaderMaxLogo">
-            <a href="http://newsmax.com/">
-            <img src="/App_Themes/NewsmaxVideo/Images/Newsmax_com_header_logo.gif" width="347" height="90" class="HeaderCorrespondent_HeaderLogo_container" border="0"></a>
-            
-            
-        </div>
-        
         <div class="HeaderMidMenu">
             <div class="HeaderMidMenu_upperList">
                 <ul class="HeaderMidMenu_ul">
-                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://newsmax.com/jokes/"> 
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmax.com/jokes/">
                         Jokes</a> </li>
-                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://newsmax.com/Links">
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmax.com/Links">
                         Links</a> </li>
-                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://newsmax.com/advertise">
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmax.com/advertise">
                         Advertise</a> </li>
-                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://newsmax.com/cartoons">
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmax.com/cartoons">
                         Cartoons</a> </li>
-                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://newsmax.com/contact">
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmax.com/contact">
                         Contact</a> </li>
                     <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://shop.newsmax.com/shop/">
                         Shop</a> </li>
-                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://newsmax.com/archives">
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmax.com/archives">
                         Archives</a> </li>
-                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://newsmax.com/rss">
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmax.com/rss">
                         RSS</a> </li>
-                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://newsmax.com/blogs">
+                    <li class="HeaderMidMenu_li"><a class="HeaderMidMenu_link" href="http://www.newsmax.com/blogs">
                         Blogs</a> </li>
                 </ul>
             </div>
@@ -401,31 +226,29 @@ OAS_AD('x16');
         <div class="HeaderBotMenu">
             <div class="HeaderBotMenu_lowerList">
                 <ul id="HeaderBotMenu_ul">
-                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://newsmax.com">
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmax.com">
                         Home</a> </li>
                     <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmax.com/video">
-                        <span style="color:red">Newsmax.TV</span></a> </li>
-                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://moneynews.com">
+                        <span style="color: red">Newsmax.TV</span></a> </li>
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.moneynews.com">
                         Money</a> </li>
-                       <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmaxhealth.com/">
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmaxhealth.com/">
                         Health</a> </li>
-                     <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmaxworld.com">
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmaxworld.com">
                         World</a> </li>
-                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://newsmax.com/insidecover">
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmax.com/insidecover">
                         Inside Cover</a> </li>
-                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://newsmax.com/newsfront">
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmax.com/newsfront">
                         Newsfront</a> </li>
-                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://newsmax.com/us">
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmax.com/us">
                         U.S.</a> </li>
-                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://newsmax.com/politics">
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmax.com/politics">
                         Politics</a> </li>
-                  
-                 
-                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://newsmax.com/ScienceTechnology">
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmax.com/ScienceTechnology">
                         Science &amp; Technology</a> </li>
-                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://newsmax.com/entertainment">
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmax.com/entertainment">
                         Entertainment</a> </li>
-                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://newsmax.com/Slideshows">
+                    <li class="HeaderBotMenu_li"><a class="HeaderBotMenu_link" href="http://www.newsmax.com/Slideshows">
                         Slideshows</a> </li>
                 </ul>
             </div>
@@ -436,7 +259,10 @@ OAS_AD('x16');
 		
 		<!-- Content -->
 		<div class="zoneMainContent">
-                        <div class="breakingnewssection"></div> 
+                        <div id="txtBreakNews" class="breakingnewssection" style="min-height:10px">
+
+<a href="http://w3.newsmax.com/newsletters/hci/hci001b.cfm?PROMO_CODE=A19C-1">Bill O’Reilly and Jim Rogers Discuss Gold Surge on Economic Crisis Summit — Watch It Here Now</a><br>
+</div> 
 			
  
 <div>
@@ -511,13 +337,14 @@ By using the Site, you acknowledge and consent to the fact that Personal Data pr
   </div>
   <div style="width: 20%; float: right;">
     <div style="margin-top:5px;text-align:center">
+
 <script language="JavaScript"> 
 <!-- 
 OAS_AD('Right');
 //--> 
- </script>
- 
- <span id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneRight_OASAddsDisplay_ltl"></span></div>      
+</script>
+
+<span id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneRight_OASAddsDisplay_ltl"></span></div>      
   </div>
 </div>
 <div style="clear: both">
@@ -531,31 +358,71 @@ OAS_AD('Right');
 		<div>
 			<div id="divMenuFooter">
 					<ul id="ListNavFooter">
-<li class="FooterBotMenu_li"><a href="http://newsmax.com/Home" class="FooterBotMenu_link">Home</a></li>
-	<li class="FooterBotMenu_li"><a href="http://newsmax.com/jokes/" class="FooterBotMenu_link">Jokes</a></li>
-	<li class="FooterBotMenu_li"><a href="http://newsmax.com/links" class="FooterBotMenu_link">Links</a></li>
-        <li class="FooterBotMenu_li"><a href="http://newsmax.com/advertise" class="FooterBotMenu_link">Advertise</a></li>
-	<li class="FooterBotMenu_li"><a href="http://newsmax.com/cartoons" class="FooterBotMenu_link">Cartoons</a></li>
-        <li class="FooterBotMenu_li"><a href="http://newsmax.com/contact" class="FooterBotMenu_link">Contact</a></li>
+<li class="FooterBotMenu_li"><a href="http://www.newsmax.com/Home" class="FooterBotMenu_link">Home</a></li>
+	<li class="FooterBotMenu_li"><a href="http://www.newsmax.com/jokes/" class="FooterBotMenu_link">Jokes</a></li>
+	<li class="FooterBotMenu_li"><a href="http://www.newsmax.com/links" class="FooterBotMenu_link">Links</a></li>
+        <li class="FooterBotMenu_li"><a href="http://www.newsmax.com/advertise" class="FooterBotMenu_link">Advertise</a></li>
+	<li class="FooterBotMenu_li"><a href="http://www.newsmax.com/cartoons" class="FooterBotMenu_link">Cartoons</a></li>
+        <li class="FooterBotMenu_li"><a href="http://www.newsmax.com/contact" class="FooterBotMenu_link">Contact</a></li>
         <li class="FooterBotMenu_li"><a href="http://shop.newsmax.com/" class="FooterBotMenu_link">Shop</a></li>
-	<li class="FooterBotMenu_li"><a href="http://newsmax.com/archives" class="FooterBotMenu_link">Archives</a></li>
-	<li class="FooterBotMenu_li"><a href="http://newsmax.com/rss" class="FooterBotMenu_link">RSS</a></li>
-	<li class="FooterBotMenu_li"><a href="http://newsmax.com/blogs" class="FooterBotMenu_link">Blogs</a></li>
-	<li class="FooterBotMenu_li"><a href="http://newsmax.com/TermsConditions" class="FooterBotMenu_link">Terms &amp; conditions </a></li>
-	<li class="FooterBotMenu_li"><a href="http://newsmax.com/PrivacyStatement" class="FooterBotMenu_link">Privacy Policy</a></li>
+	<li class="FooterBotMenu_li"><a href="http://www.newsmax.com/archives" class="FooterBotMenu_link">Archives</a></li>
+	<li class="FooterBotMenu_li"><a href="http://www.newsmax.com/rss" class="FooterBotMenu_link">RSS</a></li>
+	<li class="FooterBotMenu_li"><a href="http://www.newsmax.com/blogs" class="FooterBotMenu_link">Blogs</a></li>
+	<li class="FooterBotMenu_li"><a href="http://www.newsmax.com/TermsConditions" class="FooterBotMenu_link">Terms &amp; conditions </a></li>
+	<li class="FooterBotMenu_li"><a href="http://www.newsmax.com/PrivacyStatement" class="FooterBotMenu_link">Privacy Policy</a></li>
 	</ul>
-<script language="javascript">
-	drawPromoPixel();
-</script>
+<script type="text/javascript" language="javascript">
+<!--	
+drawPromoPixel();
+//-->
 
-<script language="javascript" src="http://w3.newsmax.com/js/popcontrol.js"></script>  <div id="OASAddBottom">
+</script><div id="OASAddBottom">
+
 <script language="JavaScript"> 
 <!-- 
 OAS_AD('Bottom');
 //--> 
- </script>
- 
- <span id="plc_lt_zoneMenuFooter_OASAddsDisplay_ltl"></span></div>
+</script>
+
+<span id="plc_lt_zoneMenuFooter_OAS_BOTTOM_ltl"></span></div><script type="text/javascript">
+
+<!--
+
+function get_cookie(Name) {
+  var search = Name + "="
+  var returnvalue = "";
+  if (document.cookie.length > 0) {
+    offset = document.cookie.indexOf(search)
+    if (offset != -1) { // if the cookie exists
+      offset += search.length
+      end = document.cookie.indexOf(";", offset); // set the index of beginning value
+      
+    if (end == -1) // set the index of the end of cookie value
+         end = document.cookie.length;
+         returnvalue=unescape(document.cookie.substring(offset, end))
+      }
+   }
+  return returnvalue;
+}
+
+if (get_cookie('popunder')==''){	
+	//SPAWN A EXTERNAL POPUNDER
+win247_external=window.open('/mainpop.htm', 'externalPop', 'toolbar=no,location=no,scrollbars=no,resizable=no,width=720,height=340');
+
+
+
+if(win247_external!=null){
+	win247_external.blur();
+	self.window.focus();
+	if (!win247_external.opener) win247_external.opener = self;
+}
+}
+
+document.cookie="popunder=yes";
+
+//-->
+
+</script> <br>
 
 			</div>
 			<div class="zoneFooter">
@@ -565,7 +432,7 @@ OAS_AD('Bottom');
 				<div class="copy_footer" style="margin-top: 85px;">
 					<span style="font-size: 13px;">Newsmax.com <br>America's News Page</span>
 					<br>
-					© 2009 Newsmax.com All Rights Reserved
+					© 2010 Newsmax.com All Rights Reserved
 				</div>
 				</div>
 			</div>
@@ -574,12 +441,6 @@ OAS_AD('Bottom');
 </div>
 
         
-<div>
-
-
-
-</div>
-
     
 
 <script type="text/javascript">
