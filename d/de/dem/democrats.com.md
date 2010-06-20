@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213024018id_/http%3A//democrats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620041229id_/http%3A//democrats.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Democrats.com
 
@@ -30,7 +30,6 @@ Updated 8/31/05
 
 p.s. Notice to postmasters: **Democrats.com does not spam so please do not block our email**. We use SPF to verify the authenticity of our email. If you have any questions about our policies, [contact us](http://democrats.com/contact) and we will reply promptly.
 
-  * [Printer-friendly version](https://web.archive.org/print/book/export/html/3264 "Display a printer-friendly version of this page.")
-  * [Send to friend](https://web.archive.org/send/send/3264)
+  * [Print](https://web.archive.org/print/book/export/html/3264 "Display a printer-friendly version of this page.")
 
 
