@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bauergriffinonline.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235941id_/http%3A//www.bauergriffinonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bauergriffinonline.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620214200id_/http%3A//www.bauergriffinonline.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Celebrity News | Celebrity Photos | Celebrity Gossip | BauerGriffinOnline.com
 
 This privacy statement ("Privacy Policy") covers all the websites owned, affiliated or operated by Bauer-Griffin. ("Bauer-Griffin", "we", "us", "our"). Bauer-Griffin knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Bauer-Griffin websites, submitting information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
 
