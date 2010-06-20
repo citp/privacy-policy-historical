@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the frys.com privacy policy that was archived on 2009-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091224053500id_/http%3A//www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frys.com privacy policy that was archived on 2010-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620164945id_/http%3A//www.frys.com/regular.jsp%3F/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -39,10 +39,16 @@
 <script language="JavaScript">
 <!--
 
-var global_ref_tr = "NONE";
-if (document.referrer != ''){
-   global_ref_tr = document.referrer;
-}
+if(typeof(global_ref_tr) == "undefined")
+ var global_ref_tr = '';
+
+ if (global_ref_tr == '')
+ {
+   if (document.referrer == '')
+       global_ref_tr = "NONE";
+   else
+       global_ref_tr = document.referrer;
+  }
 
 if (self.parent.frames.length != 0){
 self.parent.location=document.location;
@@ -61,14 +67,22 @@ self.parent.location=document.location;
 
 <script language="JavaScript"><!--
 var gbl_ImgSvr = "http://images.frys.com";
-var gbl_TabsImgPath = "/art/0900_site/header/dev2/";
+var gbl_TabsImgPath = "/art/0900_site/header/tabs/";
 --></script>
+
+<style>
+.globalbackgroundcolor {background-color: #CCDDFF;}
+.grayLinks {color:#555555;font-family:Verdana,Arial,Helvetica;font-size:10px;font-weight:bold;}
+.search {font-family: Verdana;font-size: 10px;color:#000000}
+
+</style>
+
 
 
 
 
 <script language="JavaScript"><!--
-//var WL_SESSION = "DhwZJlxFVTS7vco3fcCyeA**.node1";
+//var WL_SESSION = "GQPkVSzY9+zd4lp8gz+dIA**.node1";
 --></script>
 
 
@@ -94,12 +108,12 @@ var gbl_TabsImgPath = "/art/0900_site/header/dev2/";
 function focusHere(){document.search.query_string.focus();}
 function enableMenus(enableDisable) {var refreshUrl = location.href;var idx = refreshUrl.indexOf("enableMenus=");if (idx != -1) {refreshUrl = refreshUrl.substring(0,idx-1);}if (refreshUrl.indexOf("?") == -1) {return location.href = refreshUrl + "?enableMenus=" + enableDisable;} else {return location.href = refreshUrl + "&enableMenus=" + enableDisable;}}
 function writeOnAdClick(clickSpot,wdt,ht) {if(typeof is_Defcon == "undefined"){random = Math.round(Math.random() * 10000000);document.write('<a href="AdClick/cgi-bin/accipiter/adclick.exe/AREA=' + clickSpot + random + '"><img border=0 width=' + wdt + ' height=' + ht + ' src="http://${deploy.directserver.name}/cgi-bin/accipiter/adserver.exe/AREA=' + clickSpot + random + '"></a>');}}
-function setDefaultImage(imgObj,imgTyp) {switch (imgTyp) {case 'tn': imgObj.src = 'http://images.frys.com' + '/art/product/search_image/img_soon.gif'; break; case 'pi': imgObj.src = 'http://images.frys.com' + '/art/product/box_shots/picsoon.gif'; break;}}
+function setDefaultImage(imgObj,imgTyp) {switch (imgTyp) {case 'tn': imgObj.src = 'http://images.frys.com' + '/art/product/box_shots/img_soon_boxshot.gif'; break; case 'pi': imgObj.src = 'http://images.frys.com' + '/art/product/box_shots/picsoon.gif'; break;}}
 -->
 </script>
 <table id="top_logo" border="0" width="800" cellspacing="0" cellpadding="0">
 <tbody><tr valign="top">
-	<td align="left" valign="middle" height="70"><a href="http://www.frys.com/template/index/"><img src="http://images.frys.com/art/homepage/images/frysdotcom.gif" border="0" alt="Frys.com"></a>
+	<td align="left" valign="middle" height="70"><a href="http://www.frys.com/template/index/"><img src="http://images.frys.com/art/homepage/images/frysdotcom2.gif" border="0" alt="Frys.com"></a>
 	</td>
 
 <td align="right" valign="middle" width="160">
@@ -121,10 +135,16 @@ function setDefaultImage(imgObj,imgTyp) {switch (imgTyp) {case 'tn': imgObj.src 
 <script language="JavaScript">
 <!--
 
-var global_ref_tr = "NONE";
-if (document.referrer != ''){
-   global_ref_tr = document.referrer;
-}
+if(typeof(global_ref_tr) == "undefined")
+ var global_ref_tr = '';
+
+ if (global_ref_tr == '')
+ {
+   if (document.referrer == '')
+       global_ref_tr = "NONE";
+   else
+       global_ref_tr = document.referrer;
+  }
 
 if (self.parent.frames.length != 0){
 self.parent.location=document.location;
@@ -159,7 +179,18 @@ function saOnclick(url)
 
 
 
-</table>
+
+	<tbody><tr>
+	<td align="center">
+	<a href="/template/onad/product_navigation/?site=sa:TOP_BANNER:Spot1"><img border="0" src="http://images.frys.com/art/weeklyspecials/Great_Weekly_Specials1.jpg" alt="Weekly Specials"></a>
+	</td>
+	</tr>
+	
+
+
+
+
+</tbody></table>
 
 
 </td>
@@ -175,33 +206,35 @@ function writeSmartAd(clickSpot,ht, wd) { if(typeof is_Defcon == "undefined"){do
 
 
 <table id="top_nav" border="0" width="800" cellspacing="0" cellpadding="0" class="noPrint">
-<tbody><tr valign="bottom"><td align="left"><a href="http://www.frys.com/template/computerspc"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/pctab_static.gif" class="menuImg" id="img_pctab"></a><a href="http://www.frys.com/template/computersmac"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/mactab_static.gif" class="menuImg" id="img_mactab"></a><a href="http://www.frys.com/template/notebook"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/notebookstablets_static.gif" class="menuImg" id="img_notebookstablets"></a><a href="http://www.frys.com/template/handheldpda"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/pdashandhelds_static.gif" class="menuImg" id="img_pdashandhelds"></a><a href="http://www.frys.com/template/mp3"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/mp3_static.gif" class="menuImg" id="img_mp3"></a><a href="http://www.frys.com/template/harddrives"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/harddrivesmemory_static.gif" class="menuImg" id="img_harddrivesmemory"></a><br><a href="http://www.frys.com/template/ecomponents"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/electroniccomponents_static.gif" class="menuImg" id="img_electroniccomponents"></a><a href="http://www.frys.com/template/networking"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/networkingtab_static.gif" class="menuImg" id="img_networkingtab"></a><a href="http://www.frys.com/template/communication"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/phonescommunications_static.gif" class="menuImg" id="img_phonescommunications"></a><a href="http://www.frys.com/template/electronics"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/electronicstab_static.gif" class="menuImg" id="img_electronicstab"></a><a href="http://www.frys.com/template/cameras"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/cameras_static.gif" class="menuImg" id="img_cameras"></a><a href="http://www.frys.com/template/carelectronics"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/carelectronics_static.gif" class="menuImg" id="img_carelectronics"></a><br><a href="http://www.frys.com/template/b2b"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/b2b_static.gif" class="menuImg" id="img_b2b"></a><a href="http://www.frys.com/template/software"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/software_static.gif" class="menuImg" id="img_software"></a><a href="http://www.frys.com/template/games"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/games_static.gif" class="menuImg" id="img_games"></a><a href="http://www.frys.com/template/dvd"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/dvdmovies_static.gif" class="menuImg" id="img_dvdmovies"></a><a href="http://www.frys.com/template/music"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/music_static.gif" class="menuImg" id="img_music"></a><a href="http://www.frys.com/template/books"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/books_static.gif" class="menuImg" id="img_books"></a><a href="http://www.frys.com/template/science"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/sciencetoys_static.gif" class="menuImg" id="img_sciencetoys"></a><a href="http://www.frys.com/template/healthbeauty"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/healthbeauty_static.gif" class="menuImg" id="img_healthbeauty"></a><a href="http://www.frys.com/template/appliances"><img border="0" src="http://images.frys.com/art/0900_site/header/dev2/appliances_static.gif" class="menuImg" id="img_appliances"></a><br><img src="http://images.frys.com/art/space.gif" width="6" height="1" border="0"></td>
+<tbody><tr valign="bottom"><td align="left"><a href="http://www.frys.com/template/computerspc"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/pctab_static.gif" class="menuImg" id="img_pctab"></a><a href="http://www.frys.com/template/computersmac"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/mactab_static.gif" class="menuImg" id="img_mactab"></a><a href="http://www.frys.com/template/notebook"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/notebookstablets_static.gif" class="menuImg" id="img_notebookstablets"></a><a href="http://www.frys.com/template/handheldpda"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/pdashandhelds_static.gif" class="menuImg" id="img_pdashandhelds"></a><a href="http://www.frys.com/template/mp3"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/mp3_static.gif" class="menuImg" id="img_mp3"></a><a href="http://www.frys.com/template/harddrives"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/harddrivesmemory_static.gif" class="menuImg" id="img_harddrivesmemory"></a><br><a href="http://www.frys.com/template/ecomponents"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/electroniccomponents_static.gif" class="menuImg" id="img_electroniccomponents"></a><a href="http://www.frys.com/template/networking"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/networkingtab_static.gif" class="menuImg" id="img_networkingtab"></a><a href="http://www.frys.com/template/communication"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/phonescommunications_static.gif" class="menuImg" id="img_phonescommunications"></a><a href="http://www.frys.com/template/audio"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/audio_static.gif" class="menuImg" id="img_audio"></a><a href="http://www.frys.com/template/electronics"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/video_static.gif" class="menuImg" id="img_video"></a><a href="http://www.frys.com/template/cameras"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/cameras_static.gif" class="menuImg" id="img_cameras"></a><a href="http://www.frys.com/template/carelectronics"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/carelectronics_static.gif" class="menuImg" id="img_carelectronics"></a><br><a href="http://www.frys.com/template/b2b"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/b2b_static.gif" class="menuImg" id="img_b2b"></a><a href="http://www.frys.com/template/software"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/software_static.gif" class="menuImg" id="img_software"></a><a href="http://www.frys.com/template/games"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/games_static.gif" class="menuImg" id="img_games"></a><a href="http://www.frys.com/template/music"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/music_static.gif" class="menuImg" id="img_music"></a><a href="http://www.frys.com/template/dvd"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/movies_static.gif" class="menuImg" id="img_movies"></a><a href="http://www.frys.com/template/books"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/books_static.gif" class="menuImg" id="img_books"></a><a href="http://www.frys.com/template/science"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/sciencetoys_static.gif" class="menuImg" id="img_sciencetoys"></a><a href="http://www.frys.com/template/healthbeauty"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/healthbeauty_static.gif" class="menuImg" id="img_healthbeauty"></a><a href="http://www.frys.com/template/appliances"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs/appliances_static.gif" class="menuImg" id="img_appliances"></a><br><img src="http://images.frys.com/art/space.gif" width="6" height="1" border="0"></td>
 </tr>
 </tbody></table>
 
-<table border="0" width="800" cellspacing="0" cellpadding="0" bgcolor="#336699" class="noPrint">
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="800" height="62" background="http://images.frys.com/art/a_new_home_page/images/bg.gif">
+<tbody><tr>
+<td valign="top" style="height:2px;">
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<table border="0" width="800" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td><img src="http://images.frys.com/art/space.gif" width="2" height="1" border="0"></td>
 	<td width="1999" align="right">
 		<table border="0" cellpadding="0" cellspacing="2">
 		<tbody><tr>
-			<td><b>
-            <font color="#ffffff" face="Verdana,Arial,Helvetica" size="1">
-            <a style="text-decoration: none" href="http://www.frys.com/template/help/index/">
-            <font color="#ffffff">Customer Service</font></a>&nbsp;<font color="#ffffff">|</font>&nbsp;
-            <font color="#ffffff" face="Verdana,Arial,Helvetica" size="1">
-            <a style="text-decoration: none" href="http://www.frys.com/template/index/">
-            <font color="#ffffff">Home</font></a>&nbsp;<font color="#ffffff">|</font>&nbsp;
-            <a style="text-decoration: none" href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy">
-            <font color="#ffffff">Your Privacy</font></a>&nbsp;<font color="#ffffff">|</font>&nbsp;
-            <a style="text-decoration: none" href="https://shop1.frys.com/wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1"><font color="#ffffff">Express Account</font></a>&nbsp;<font color="#ffffff">|</font>&nbsp;<a style="text-decoration: none" href="https://shop1.frys.com/wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1">
-            <font color="#ffffff">Track Your Order</font></a>&nbsp;<font color="#ffffff">|</font>&nbsp;
-            <a style="text-decoration: none" href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases">
-            <font color="#ffffff">Returns</font></a>&nbsp;<font color="#ffffff">|</font>&nbsp;
-            <a style="text-decoration: none" href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A11WarrantiesRebates"><font color="#ffffff">Warranty</font></a>&nbsp;<font color="#ffffff">|</font>&nbsp;
-            <a style="text-decoration: none" href="http://www.frys.com/ac/storelocator/index.jsp"><font color="#ffffff">Store Locator</font></a>&nbsp;<font color="#ffffff">|</font>&nbsp;
-            <a style="text-decoration: none" href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A12ContactUs"><font color="#ffffff">1 (877)688-7678</font></a></font>
-            </font></b></td>
+			<td class="grayLinks">            
+   <a style="text-decoration: none" href="http://www.frys.com/template/index/"><span class="grayLinks">Home</span></a>&nbsp;|&nbsp;
+   <a style="text-decoration: none" href="http://www.frys.com/template/help/index/"><span class="grayLinks">Customer Service</span></a>&nbsp;|&nbsp;
+   <a style="text-decoration: none" href="https://shop3.frys.com/wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1"><span class="grayLinks">Express Account</span></a>&nbsp;|&nbsp;<a style="text-decoration: none" href="https://shop3.frys.com/wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1"><span class="grayLinks">Track Your Order</span></a>&nbsp;|&nbsp;
+   <a style="text-decoration: none" href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases"><span class="grayLinks">Returns</span></a>&nbsp;|&nbsp;
+   <a style="text-decoration: none" href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A11WarrantiesRebates"><span class="grayLinks">Warranty</span></a>&nbsp;|&nbsp;
+   <a style="text-decoration: none" href="http://www.frys.com/ac/storelocator/index.jsp"><span class="grayLinks">Store Locator</span></a>&nbsp;|&nbsp;
+   <a style="text-decoration: none" href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A12ContactUs"><span class="grayLinks">1 (877)688-7678</span></a>
+            </td>
 		</tr>
 		</tbody></table>
 	</td>
@@ -213,6 +246,8 @@ function writeSmartAd(clickSpot,ht, wd) { if(typeof is_Defcon == "undefined"){do
 </tr>
 </tbody></table>
 
+
+
 <script language="JavaScript">
 <!-- //
 function isWhiteSpace1(s) {    for(var i = 0; i < s.length; i++)     {        var c = s.charAt(i);        if ((c != ' ') && (c != '\n') && (c != '\t')) return false;    }    return true;}
@@ -222,19 +257,21 @@ function chkWhiteSpace(f) {    var msg;    var empty_fields = "";    var errors 
 
 <table border="0" cellspacing="0" cellpadding="0" width="800" class="noPrint">
 <tbody><tr>
-<td width="5%" valign="top">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr bgcolor="#336699">
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
 <form action="/search" method="get" name="search" onsubmit="return chkWhiteSpace(this);"></form>
    <input type="hidden" name="search_type" value="regular">
    <input type="HIDDEN" name="sqxts" value="1">
 	<td align="right"><img src="http://images.frys.com/art/0900_site/header_091500/search_space.gif" height="2" width="5" border="0"></td>
-	<td align="left"><font face="Verdana,Arial,Helvetica" color="white" size="1"><b>Search</b></font>&nbsp;</td>
-	<td bgcolor="#336699" align="center" valign="middle">
-       <input type="text" name="query_string" size="10" style="font-family: Verdana;font-size: 10px;">
+	<td align="right" style="width:100px;"><img border="0" src="http://images.frys.com/art/a_new_home_page/images/searchfor.gif"></td>
+	<td align="center" valign="top"><div style="width:272px;height:26px;background-image:url('http://images.frys.com/art/0900_site/header_091500/search1.gif');background-repeat:no-repeat;"><input style="border: 0px solid white;width:260px;margin-top:5px;margin-left:3px;" type="text" name="query_string" class="search"></div>
     </td>
-	<td align="center"><font face="Verdana,Arial,Helvetica" color="white" size="1">&nbsp;<b>in</b>&nbsp;</font></td>
+    <td width="24" height="26" align="right" valign="top"><input type="image" name="submit" width="38" height="26" border="0" src="http://images.frys.com/art/0900_site/header_091500/search2.gif"></td>
+	<td style="width:54px;" align="right"><img border="0" src="http://images.frys.com/art/a_new_home_page/images/in.gif&#10;"></td>
 
+
+	
 
 	
 
@@ -281,23 +318,25 @@ function chkWhiteSpace(f) {    var msg;    var empty_fields = "";    var errors 
 
 
     <input id="searchCatSel_ip" type="hidden" name="cat" value="0">
-    <td align="left" valign="middle">
-      <div id="searchCatSel_Lbl" data="0" style="width: 105;font-family: Verdana;font-size: 7pt;position: inline;color: black;background-color: white;border: 2px white inset;padding-left: 4px; padding-right: 6px;padding-top: 1px; padding-bottom: 1px">Entire Site</div>
+    <td align="left" valign="top" style="width:127px;height:26px;background-image:url('http://images.frys.com/art/0900_site/header_091500/search1.gif');background-repeat:no-repeat;">
+      <div id="searchCatSel_Lbl" data="0" style="width: 130;font-family: Verdana;font-size: 7pt;position: inline;color: black;background-color: white;border: 0px solid white;margin-left:3;margin-top:3;padding-left: 4px; padding-right: 6px;padding-top: 1px; padding-bottom: 1px">Entire Site</div>
     </td>
-    <td align="right" valign="middle" bgcolor="#336699"><img border="0" name="searchCatSel_Button" src="http://images.frys.com/art/0900_site/header_112403/combo_btn.gif" style="border: 2px white inset;" onclick="handleComboButtonClick(event)"></td>
+    <td align="right" valign="top" style="width:30px; height=" 26""=""><img border="0" name="searchCatSel_Button" src="http://images.frys.com/art/0900_site/header_091500/search4.gif" width="30" height="26" onclick="handleComboButtonClick(event)"></td>
 
-    <td width="24" align="right" valign="middle" bgcolor="#336699"><input type="image" name="submit" width="24" border="0" src="http://images.frys.com/art/0900_site/header_112403/go.gif"></td>
 	
     </tr>
 </tbody></table>
 
 </td>
 
-<td width="100%" nowrap="" align="center"><!--<A href="http://www.frys.com/template/maps/index/"><font face="Verdana,Arial,Helvetica" size="1" color="#336699"><b>Site Map</b></font></A> | <A href="http://www.frys.com/template/buying_guide/index" ><font face="Verdana,Arial,Helvetica" size="1" color="#336699"><b>Buying Guides</b></font></A>--><a href="javascript:enableMenus(false)"><font face="Verdana,Arial,Helvetica" size="1" color="#336699"><b>Disable Menus</b></font></a></td>
-<td align="right" valign="top" width="166"><a href="http://www.frys.com/ShopCartServlet?action=display_cart"><img src="http://images.frys.com/art/0900_site/header_091500/cart.gif" width="166" height="25" border="0" alt="Shopping Cart | Checkout"></a></td>
+<td align="right" valign="top" style="width:192px;"><a href="http://www.frys.com/ShopCartServlet?action=display_cart"><img src="http://images.frys.com/art/0900_site/header_091500/viewcart.gif" width="124" height="26" border="0" alt="Shopping Cart | Checkout"></a></td>
 </tr>
 </tbody></table>
 
+
+</td>
+</tr>
+</tbody></table>
 
 <table border="0" width="800" cellspacing="0" cellpadding="0">
   <tbody><tr valign="top">
@@ -539,10 +578,16 @@ sweepstakes is limited to those 18 years old or older.<br><br>
 <script language="JavaScript">
 <!--
 
-var global_ref_tr = "NONE";
-if (document.referrer != ''){
-   global_ref_tr = document.referrer;
-}
+if(typeof(global_ref_tr) == "undefined")
+ var global_ref_tr = '';
+
+ if (global_ref_tr == '')
+ {
+   if (document.referrer == '')
+       global_ref_tr = "NONE";
+   else
+       global_ref_tr = document.referrer;
+  }
 
 if (self.parent.frames.length != 0){
 self.parent.location=document.location;
@@ -562,14 +607,14 @@ self.parent.location=document.location;
 <font color="#ffffff" face="Verdana,Arial,Helvetica" size="1">
 <a style="text-decoration: none" href="/regular.jsp?/template/index/"><font color="#FFFFFF"><b>Home<b></b></b></font></a><b><b>
 &nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/maps/index/"><font color="#FFFFFF"><b>Site Map<b></b></b></font></a><b><b>
-&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/buying_guide/index/"><font color="#FFFFFF"><b>Buying Guides<b></b></b></font></a><b><b>
-&nbsp;  </b></b></b></b></b></b></font><b><b><b>
+&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/buying_guide/index/"><font color="#FFFFFF"><b>Buying Guides<b></b></b></font></a><b><b>&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy"><font color="#FFFFFF"><b>Your Privacy Rights</b></font></a>&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/help/index/FE30/Service3/Assistance/Middle_Topics/C9CAprivacy"><font color="#FFFFFF"><b>Your California Privacy Rights</b></font></a>
+&nbsp;  </b></b></b></b></b></b></font><b><b>
 
 
 
 
             
-            </b></b></b></td>
+            </b></b></td>
 			
                 <td bgcolor="#336699" align="left"><font face="Verdana,Arial,Helvetica" color="white" size="1"><b>Search</b></font>&nbsp;</td>
                 <td bgcolor="#336699" align="center">
@@ -619,10 +664,16 @@ self.parent.location=document.location;
 <script language="JavaScript">
 <!--
 
-var global_ref_tr = "NONE";
-if (document.referrer != ''){
-   global_ref_tr = document.referrer;
-}
+if(typeof(global_ref_tr) == "undefined")
+ var global_ref_tr = '';
+
+ if (global_ref_tr == '')
+ {
+   if (document.referrer == '')
+       global_ref_tr = "NONE";
+   else
+       global_ref_tr = document.referrer;
+  }
 
 if (self.parent.frames.length != 0){
 self.parent.location=document.location;
@@ -640,7 +691,7 @@ self.parent.location=document.location;
 
 
 <font size="2" face="Helvetica, Arial, Helvetica"><center><b>Frys.com prices good for online purchases only. In-store items and prices at Fry's retail locations may vary. Some online offers are subject to prior sale and may not be available.</b><br>
-Copyright © 1995-2009 Fry's Electronics, Incorporated. All rights reserved. Fry's Electronics, Frys.com and Outpost.com are registered trademarks of Fry's Electronics, Incorporated.<br></center></font>
+Copyright © 1995-2010 Fry's Electronics, Incorporated. All rights reserved. Fry's Electronics, Frys.com and Outpost.com are registered trademarks of Fry's Electronics, Incorporated.<br></center></font>
 
 
 
