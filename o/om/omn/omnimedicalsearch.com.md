@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnimedicalsearch.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218183030id_/http%3A//www.omnimedicalsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnimedicalsearch.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620185828id_/http%3A//www.omnimedicalsearch.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - OmniMedicalSearch.com
 
@@ -16,9 +16,19 @@ The following discloses the information gathering and dissemination practices fo
 
 **Log Files**
 
-Like most standard Web site servers we collect and use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+Like most standard Web site servers we collect and use log files. This includes:
 
-Though our traffic monitoring devices, OmniMedicalSearch.com does temporarily collect information about users to include:search terms in which they entered our website, IP address, referring website or search engine, browser type and settings.
+  * internet protocol (IP) addresses, 
+  * browser type, 
+  * internet service provider (ISP), 
+  * referring/exit pages, 
+  * platform type, 
+  * date/time stamp, 
+  * and number of clicks.
+
+
+
+This is done to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
 **Advertisers**
 
@@ -56,16 +66,12 @@ A Bottomside Toolbar compatible with all others.
 
 [Add the OMS   
 Search Engine  
-to Your Website](https://web.archive.org/web/20091218183030id_/http%3A//www.omnimedicalsearch.com/searchbox.html)
+to Your Website](https://web.archive.org/web/20100620185828id_/http%3A//www.omnimedicalsearch.com/searchbox.html)
 
 Got a suggestion or comment for us?  
-[Let us know](https://web.archive.org/web/20091218183030id_/http%3A//www.omnimedicalsearch.com/contact.html)
+[Let us know](https://web.archive.org/web/20100620185828id_/http%3A//www.omnimedicalsearch.com/contact.html)
 
-[Tell a friend about OmniMedicalSearch](https://web.archive.org/web/20091218183030id_/http%3A//www.omnimedicalsearch.com/recommend_us.htm)
-
-[OmniMedicalSearch in the News](https://web.archive.org/web/20091218183030id_/http%3A//www.omnimedicalsearch.com/press.html)
-
-[](http://www.hon.ch/HONcode/Conduct.html?HONConduct884235)
+[OmniMedicalSearch in the News](https://web.archive.org/web/20100620185828id_/http%3A//www.omnimedicalsearch.com/press.html)
 
 |    
 ---|---|---
