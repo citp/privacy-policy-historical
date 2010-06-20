@@ -1,9 +1,107 @@
-<!--The following is the downloaded HTML source of the hakimtea.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617172739id_/http%3A//hakimtea.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hakimtea.com privacy policy that was archived on 2010-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621014718id_/http%3A//hakimtea.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 
-<title>Privacy Policy | Hakimtea Dot Com</title>
+<!-- start popup ads -->
+<style type="text/css">
+
+#topbar{
+position:absolute;
+border: 1px solid black;
+padding: 2px;
+background-color: #FFFFFF;
+width: 728px;
+visibility: hidden;
+z-index: 100;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Floating Top Bar script- © Dynamic Drive (www.dynamicdrive.com)
+* Sliding routine by Roy Whittle (http://www.javascript-fx.com/)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
+var startX = 30 //set x offset of bar in pixels
+var startY = 5 //set y offset of bar in pixels
+var verticalpos="fromtop" //enter "fromtop" or "frombottom"
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function closebar(){
+if (persistclose)
+document.cookie="remainclosed=1"
+document.getElementById("topbar").style.visibility="hidden"
+}
+
+function staticbar(){
+	barheight=document.getElementById("topbar").offsetHeight
+	var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+	var d = document;
+	function ml(id){
+		var el=d.getElementById(id);
+		if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+		el.style.visibility="visible"
+		if(d.layers)el.style=el;
+		el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+		el.y = startY;
+		else{
+		el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+		el.y -= startY;
+		}
+		return el;
+	}
+	window.stayTopLeft=function(){
+		if (verticalpos=="fromtop"){
+		var pY = ns ? pageYOffset : iecompattest().scrollTop;
+		ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else{
+		var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+		ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		ftlObj.sP(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("topbar");
+	stayTopLeft();
+}
+
+if (window.addEventListener)
+window.addEventListener("load", staticbar, false)
+else if (window.attachEvent)
+window.attachEvent("onload", staticbar)
+else if (document.getElementById)
+window.onload=staticbar
+</script>
+<!-- ens popup ads -->
+
+<title>  Privacy Policy</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -21,76 +119,11 @@
 
 <link rel="shortcut icon" href="http://hakimtea.googlepages.com/favicon.gif">
 
+<link rel="alternate" type="application/rss+xml" title="Hakimtea Dot Com » Privacy Policy Comments Feed" href="http://hakimtea.com/privacy-policy/feed/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hakimtea.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hakimtea.com/wp-includes/wlwmanifest.xml"> 
-<script type="text/javascript" src="http://hakimtea.com/wp-includes/js/jquery/jquery.js?ver=1.2.6"></script>
-<meta name="generator" content="WordPress 2.6.3">
-
-
-<!-- all in one seo pack 1.4.91 ob_start_detected [-1,-1] -->
-<meta name="description" content="www.hakimtea.com (Hakimtea.Com) Privacy Statement Please read this statement regarding our blogs. If you have questions please ask us via email or contact">
-<link rel="canonical" href="http://hakimtea.com/privacy-policy/">
-<!-- /all in one seo pack -->
-
-	<!-- Added By Highslide Plugin. Version 1.28  -->
-	<link href="http://hakimtea.com/wp-content/plugins/highslide/highslide.css" rel="stylesheet" type="text/css">
-				<script type="text/javascript" src="http://hakimtea.com/wp-content/plugins/highslide/highslide.js"></script>
-				<script type="text/javascript">
-				hs.showCredits = false;
-	 			hs.graphicsDir = 'http://hakimtea.com/wp-content/plugins/highslide/graphics/';
-	    		hs.outlineType = 'rounded-white';
-			</script>
-			<link rel="stylesheet" type="text/css" href="http://hakimtea.com/index.php?ak_action=aktt_css">
-			<script type="text/javascript" src="http://hakimtea.com/index.php?ak_action=aktt_js"></script>
-		<style type="text/css" media="screen">
-
-/* Begin Contact Form ][ CSS */
-.contactform {
-	position: static;
-	overflow: hidden;
-}
-
-.contactleft {
-	width: 25%;
-	text-align: right;
-	clear: both;
-	float: left;
-	display: inline;
-	padding: 4px;
-	margin: 5px 0;
-    font-weight: bold;
-}
-
-.contactright {
-	width: 70%;
-	text-align: left;
-	float: right;
-	display: inline;
-	padding: 4px;
-	margin: 5px 0;
-}
-
-.contacterror {
-	border: 2px solid #ff0000;
-}
-/* End Contact Form ][ CSS */
-
-	</style>
-
-
-<!-- Start Of Script Generated By WP-PostViews 1.31 -->
-<script type="text/javascript" src="http://hakimtea.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-	var postviews_ajax_url = 'http://hakimtea.com/wp-content/plugins/wp-postviews/wp-postviews.php';
-	postviews_count = new sack(postviews_ajax_url);
-	postviews_count.setVar("postviews_id", 158);
-	postviews_count.method = 'GET';
-	postviews_count.runAJAX();
-	postviews_count = null;
-/* ]]> */
-</script>
-<!-- End Of Script Generated By WP-PostViews 1.31 -->
+<link rel="index" title="Hakimtea Dot Com" href="http://hakimtea.com">
+<meta name="generator" content="WordPress 2.8.5">
 
 <meta name="verify-v1" content="lVGEvxD/OSN44DgfFeGvBd3ZY9Ra+3+ExVZJqUz4dKU=">
 
@@ -165,56 +198,11 @@ zoneid=494&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a4669995' border='0' alt=''
 
 <!-- code for header image or text -->
 
-<!-- PayingPost Code starts -->
-<script type="text/javascript" src="http://www.payingpost.com/js/jquery-1.2.3.min.js"></script>
-<script type="text/javascript" src="http://www.payingpost.com/js/blogjs.php?blog_id=1926"></script>
-<!-- PayingPost Code ends -->
-
 <script type="text/javascript" src="http://izearanks.com/itk/show/hakimtea-com"></script>
 
+</head>
 
- <!-- Begin Wordpress Top Stripe Ads Plugin by TechTreak.com --> 
- <style type="text/css">#outerstrip {
-background: #ffc;
-border-bottom: 1px solid #fc0;
-margin: 0 0 5px 0;
-padding: 4px 0;
-text-align: center;
-font-size:12px
-}
-#outerstrip a{ 
-text-decoration:none;
-color:#0066CC; 
-}
-#outerstrip a:link{
-text-decoration:none;
-color:#0066CC;
-}
-#outerstrip a:visited{
-text-decoration:none;
-color:#0066CC;
-}
-#outerstrip a:hover{
-text-decoration:none;
-color: #004993;
-}
-#outerstrip #nexttip {
-text-decoration:none;
-color: #004993;
-}
-#outerstrip #help_img{
-position:absolute;
-top:5px;
-right:2px;
-} 
- </style>  
- <!-- End Wordpress Top Stripe Ads Plugin by TechTreak.com --> 
- </head>
-
-<body> 
- <!-- Please dont delete the below link to our site :( -->
-<div id="outerstrip"><a href="http://www.sponsoredreviews.com/?aid=28147" target="_blank">Sponsored Reviews! Program paid review terbaik! Segera gabung untuk menghasilkan dolar dari Blog Anda!</a> | <a href="?tip=4" id="nexttip">Next Ads »</a><a href="http://www.techtreak.com/products/?topads"><img src="http://techtreak.com/products/techtreak_topads_help_icon.png" align="right" alt="?" id="help_img"></a></div>
-<!-- Please dont delete the above link to our site :(  -->
+<body>
 
 <div id="header">
 
@@ -232,20 +220,14 @@ right:2px;
 <li class="page_item page-item-158 current_page_item"><a href="http://hakimtea.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
 <li class="page_item page-item-271"><a href="http://hakimtea.com/blogpage/" title="Blogpage">Blogpage</a></li>
 <li class="page_item page-item-1392"><a href="http://hakimtea.com/pasang-iklan-disini/" title="Pasang Iklan">Pasang Iklan</a></li>
-<li class="page_item page-item-2067"><a href="http://hakimtea.com/cek-pagerank/" title="Cek Pagerank">Cek Pagerank</a></li>
+<li class="page_item page-item-3360"><a href="http://hakimtea.com/submit-artikel/" title="Submit Artikel">Submit Artikel</a></li>
+<li class="page_item page-item-3457"><a href="http://hakimtea.com/search/" title="Search">Search</a></li>
 	
 
 	<li class="page_item"><a href="./tools/index.php" title="Hyper Tools">Tools</a></li>
 
 <li class="page_item"><a href="./sitemap.xml" title="Google Sitemap">Sitemap</a></li>
-
- <li class="page_item"><script language="javascript" src="http://www.hyperwebenable.com/refer/js/hyperwebrefer.js"></script>
-			<form name="referform11" action="#" method="post"><input type="hidden" name="PHPSESSID" value="9564d32f4250444da76c7a831e9fac5a">
-  <a href="#" onclick="callurl11()">Tell a Friend</a>
- </form>
-
-</li>
-	
+	<li class="page_item"><a href="http://hakimtea.com/wp-login.php">Login</a></li>
   </ul>
 
 </div>
@@ -264,13 +246,14 @@ right:2px;
 
     <div class="description">
 
-      Personal Blog About Blogging, Business, Make Money Online, Travel and Technology
+      Internet, Blogging, SEO, Tips dan Trik Blog, Submit Artikel
     </div>
 
   </div>
 
 <div class="ads726">
-<a href="http://hakimtea.net/tiga-domain-exclusive-com-net-org-gratis-untuk-anda-dari-raisahakimcom/"><img class="alignnone" title="Kontes Review Raisahakim.com" src="http://raisahakim.com/raisahakim-728X90.jpg" alt="" width="728" height="90"></a>
+
+<a href="http://narutoindo.com/"><img class="alignnone" title="Naruto Games" src="http://hakimtea.com/wp-content/uploads/2010/01/naruto-games.png" alt="Naruto Games" width="180" height="90"></a> <a href="http://www.sponsoredreviews.com/?aid=28147"><img class="alignnone" title="Dapatkan Dollar dengan Mereview!" src="http://hakimtea.com/wp-content/uploads/2010/02/sponsorreviews.png" alt="Daftar" width="180" height="90"></a> <a href="http://goodsneeds.com/" target="_blank"><img class="alignnone" style="border: 1px solid black;" title="Kumpulan Drama Asia" src="http://hakimtea.net/wp-content/uploads/2009/12/korean-drama.jpg" alt="Kumpulan Drama Asia" width="180" height="88"></a> <a href="http://www.kaskus.us/showthread.php?t=892367"><img class="alignnone" title="Bawang terbaik untuk keluarga Anda. Beli sekarang juga, besok bisa jadi terlambat. Garansi uang kembali 100% plus barang tidak usah dikembalikan. Inilah teman setia setiap makanan Anda." src="http://hakimtea.com/wp-content/uploads/2010/02/bawangsoy.gif" alt="Bawang terbaik untuk keluarga Anda. Beli sekarang juga, besok bisa jadi terlambat. Garansi uang kembali 100% plus barang tidak usah dikembalikan. Inilah teman setia setiap makanan Anda." width="180" height="90"></a>
 
 </div>
 
@@ -283,21 +266,7 @@ right:2px;
       Privacy Policy    </h2>
     <div class="entry">
 	
-	<!-- code added by hyperwebenable.com please do not change or alter -->
-<script type="text/javascript">
-if(typeof(hyperweb_adcount)=="undefined") hyperweb_adcount =1;
-<!--//<![CDATA[   		
-  var m3_u = 'http://www.hyperwebads.com/test/delivery.php';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?hyperweb_sitename="+document.domain);
-   document.write ('&amp;hyperweb_adcount=' +hyperweb_adcount++);
-  document.write ('&amp;hyperweb_location=top');
-   document.write ("'><\/scr"+"ipt>");
-//]]>-->
-</script><script type="text/javascript" src="http://www.hyperwebads.com/test/delivery.php?hyperweb_sitename=web.archive.org&amp;hyperweb_adcount=1&amp;hyperweb_location=top"></script>
-<!-- code added by hyperwebenable.com please do not change or alter -->
-       <!-- code added by hyperwebenable.com please do not change or alter -->
-<script type="text/javascript"> 
+      <script type="text/javascript"> 
  if(typeof(hyperweb_adcount)=="undefined") hyperweb_adcount =1;
 <!--//<![CDATA[
 var m3_u = 'http://www.hyperwebads.com/test/delivery.php'
@@ -307,8 +276,7 @@ document.write ('&amp;hyperweb_adcount=' +hyperweb_adcount++);
 document.write ('&amp;hyperweb_location=top');
 document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="http://www.hyperwebads.com/test/delivery.php?hyperweb_sitename=web.archive.org&amp;hyperweb_adcount=2&amp;hyperweb_location=top"></script>
-<!-- code added by hyperwebenable.com please do not change or alter -->
+</script><script type="text/javascript" src="http://www.hyperwebads.com/test/delivery.php?hyperweb_sitename=web.archive.org&amp;hyperweb_adcount=1&amp;hyperweb_location=top"></script>
 <p><strong>www.hakimtea.com (Hakimtea.Com) Privacy Statement</strong></p>
 <p>Please read this statement regarding our blogs. If you have questions please ask us via email or <a title="Contact us" href="http://hakimtea.com/kontak/" target="_blank">contact form</a>.</p>
 <p><strong>Email Addresses</strong><br>
@@ -329,7 +297,6 @@ Hakimtea.Com weblog frequently link to other websites or blogs. We are not respo
 When Hakimtea.Com makes changes to this privacy policy we will post those changes here.</p>
 <p><strong>Contact Information</strong><br>
 If you have any questions regarding our privacy policy, please contact us at email <strong>kontak@hakimtea.com</strong> or via our <a title="Contact us" href="http://hakimtea.com/kontak/" target="_self">contact</a> menu above.</p>
-<p class="akpc_pop">Popularity: 2% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p> <!-- code added by hyperwebenable.com please do not change or alter -->
 <script type="text/javascript"> 
  if(typeof(hyperweb_adcount)=="undefined") hyperweb_adcount =1;
 <!--//<![CDATA[
@@ -340,22 +307,7 @@ document.write ('&amp;hyperweb_adcount=' +hyperweb_adcount++);
 document.write ('&amp;hyperweb_location=bottom');
 document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="http://www.hyperwebads.com/test/delivery.php?hyperweb_sitename=web.archive.org&amp;hyperweb_adcount=3&amp;hyperweb_location=bottom"></script>
-<!-- code added by hyperwebenable.com please do not change or alter -->
-	  
-	  <!-- code added by hyperwebenable.com please do not change or alter -->
-<script type="text/javascript">
-      if(typeof(hyperweb_adcount)=="undefined") hyperweb_adcount =1;
-   <!--//<![CDATA[
-   var m3_u = 'http://www.hyperwebads.com/test/delivery.php';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?hyperweb_sitename="+document.domain);
-   document.write ('&amp;hyperweb_adcount=' +hyperweb_adcount++);
-  document.write ('&amp;hyperweb_location=bottom');
-   document.write ("'><\/scr"+"ipt>");
-//]]>-->
-</script><script type="text/javascript" src="http://www.hyperwebads.com/test/delivery.php?hyperweb_sitename=web.archive.org&amp;hyperweb_adcount=4&amp;hyperweb_location=bottom"></script>
-<!-- code added by hyperwebenable.com please do not change or alter -->
+</script><script type="text/javascript" src="http://www.hyperwebads.com/test/delivery.php?hyperweb_sitename=web.archive.org&amp;hyperweb_adcount=2&amp;hyperweb_location=bottom"></script>
 
           </div>
   </div>
@@ -365,16 +317,20 @@ document.write ("'><\/scr"+"ipt>");
 
 <div class="master-side">
 
-<form action="http://www.google.com/cse" id="cse-search-box">
+<center>
+
+<form action="http://hakimtea.com/search/" id="cse-search-box">
   <div>
-    <input type="hidden" name="cx" value="partner-pub-1058518310780723:z13o8zozbn9">
-    <input type="hidden" name="ie" value="ISO-8859-1">
-    <input type="text" name="q" size="57">
-    <input type="submit" name="sa" value="Search">
+    <input type="hidden" name="cx" value="partner-pub-1058518310780723:99r13h-z874">
+    <input type="hidden" name="cof" value="FORID:11">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="35">
+    <input type="submit" name="sa" value="">
   </div>
 </form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=in"></script>
 
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</center>
 
 </div>
 
@@ -388,51 +344,51 @@ document.write ("'><\/scr"+"ipt>");
 <ul>
   			<li><h2>Tags Clouds</h2>
 
-<table><tbody><tr><td>	    <a href="http://hakimtea.com/tag/adsense/" class="tag-link-17" title="6 topics" rel="tag" style="font-size: 9.93103448276pt;">Adsense</a>
-<a href="http://hakimtea.com/tag/agama/" class="tag-link-66" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Agama</a>
-<a href="http://hakimtea.com/tag/article/" class="tag-link-67" title="6 topics" rel="tag" style="font-size: 9.93103448276pt;">Article</a>
-<a href="http://hakimtea.com/tag/artikel-kontes/" class="tag-link-890" title="21 topics" rel="tag" style="font-size: 17.1724137931pt;">Artikel Kontes</a>
-<a href="http://hakimtea.com/tag/bandung/" class="tag-link-96" title="4 topics" rel="tag" style="font-size: 8.96551724138pt;">Bandung</a>
-<a href="http://hakimtea.com/tag/best-web-hosting/" class="tag-link-471" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">best web hosting</a>
-<a href="http://hakimtea.com/tag/blogger/" class="tag-link-45" title="8 topics" rel="tag" style="font-size: 10.8965517241pt;">Blogger</a>
-<a href="http://hakimtea.com/tag/blogger-template/" class="tag-link-34" title="4 topics" rel="tag" style="font-size: 8.96551724138pt;">Blogger Template</a>
-<a href="http://hakimtea.com/tag/blogging/" class="tag-link-47" title="7 topics" rel="tag" style="font-size: 10.4137931034pt;">blogging</a>
-<a href="http://hakimtea.com/tag/blog-review/" class="tag-link-14" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Blog Review</a>
-<a href="http://hakimtea.com/tag/busby-seo-test/" class="tag-link-696" title="12 topics" rel="tag" style="font-size: 12.8275862069pt;">Busby SEO Test</a>
-<a href="http://hakimtea.com/tag/catatan-blogger/" class="tag-link-4" title="19 topics" rel="tag" style="font-size: 16.2068965517pt;">Catatan Blogger</a>
-<a href="http://hakimtea.com/tag/dofollow/" class="tag-link-42" title="2 topics" rel="tag" style="font-size: 8pt;">Dofollow</a>
-<a href="http://hakimtea.com/tag/domain-gratis/" class="tag-link-36" title="9 topics" rel="tag" style="font-size: 11.3793103448pt;">Domain Gratis</a>
-<a href="http://hakimtea.com/tag/free-hosting/" class="tag-link-57" title="6 topics" rel="tag" style="font-size: 9.93103448276pt;">Free Hosting</a>
-<a href="http://hakimtea.com/tag/furniture/" class="tag-link-278" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Furniture</a>
-<a href="http://hakimtea.com/tag/google/" class="tag-link-146" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Google</a>
-<a href="http://hakimtea.com/tag/google-adsense/" class="tag-link-22" title="8 topics" rel="tag" style="font-size: 10.8965517241pt;">Google Adsense</a>
-<a href="http://hakimtea.com/tag/hyperwebenable/" class="tag-link-38" title="2 topics" rel="tag" style="font-size: 8pt;">Hyperwebenable</a>
-<a href="http://hakimtea.com/tag/internet/" class="tag-link-83" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Internet</a>
-<a href="http://hakimtea.com/tag/kapanlagicom/" class="tag-link-701" title="4 topics" rel="tag" style="font-size: 8.96551724138pt;">Kapanlagi.com</a>
-<a href="http://hakimtea.com/tag/komunitas/" class="tag-link-98" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Komunitas</a>
-<a href="http://hakimtea.com/tag/kontes/" class="tag-link-669" title="8 topics" rel="tag" style="font-size: 10.8965517241pt;">Kontes</a>
-<a href="http://hakimtea.com/tag/kontes-blog/" class="tag-link-670" title="5 topics" rel="tag" style="font-size: 9.44827586207pt;">Kontes Blog</a>
-<a href="http://hakimtea.com/tag/kontes-blog-1-tahun-hakimteacom/" class="tag-link-825" title="4 topics" rel="tag" style="font-size: 8.96551724138pt;">Kontes Blog 1 Tahun Hakimtea.com</a>
-<a href="http://hakimtea.com/tag/kopdar/" class="tag-link-95" title="4 topics" rel="tag" style="font-size: 8.96551724138pt;">Kopdar</a>
-<a href="http://hakimtea.com/tag/make-money-online/" class="tag-link-63" title="4 topics" rel="tag" style="font-size: 8.96551724138pt;">Make Money Online</a>
-<a href="http://hakimtea.com/tag/paypal/" class="tag-link-234" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">paypal</a>
-<a href="http://hakimtea.com/tag/pengumuman-pemenang-kontes-banner-kapanlagicom/" class="tag-link-706" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Pengumuman Pemenang Kontes Banner Kapanlagi.com</a>
-<a href="http://hakimtea.com/tag/personal/" class="tag-link-72" title="7 topics" rel="tag" style="font-size: 10.4137931034pt;">Personal</a>
-<a href="http://hakimtea.com/tag/plugins/" class="tag-link-68" title="6 topics" rel="tag" style="font-size: 9.93103448276pt;">Plugins</a>
-<a href="http://hakimtea.com/tag/scam/" class="tag-link-346" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">SCAM</a>
-<a href="http://hakimtea.com/tag/scam-program/" class="tag-link-350" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Scam Program</a>
-<a href="http://hakimtea.com/tag/search-engine/" class="tag-link-341" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Search Engine</a>
-<a href="http://hakimtea.com/tag/seleb/" class="tag-link-70" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Seleb</a>
-<a href="http://hakimtea.com/tag/seo/" class="tag-link-77" title="17 topics" rel="tag" style="font-size: 15.2413793103pt;">SEO</a>
-<a href="http://hakimtea.com/tag/tips/" class="tag-link-6" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">Tips</a>
-<a href="http://hakimtea.com/tag/tips-blogging/" class="tag-link-21" title="31 topics" rel="tag" style="font-size: 22pt;">Tips Blogging</a>
-<a href="http://hakimtea.com/tag/tips-html/" class="tag-link-25" title="4 topics" rel="tag" style="font-size: 8.96551724138pt;">Tips HTML</a>
-<a href="http://hakimtea.com/tag/tips-wordpress/" class="tag-link-33" title="14 topics" rel="tag" style="font-size: 13.7931034483pt;">Tips Wordpress</a>
-<a href="http://hakimtea.com/tag/vcc/" class="tag-link-235" title="3 topics" rel="tag" style="font-size: 8.48275862069pt;">VCC</a>
-<a href="http://hakimtea.com/tag/web-hosting/" class="tag-link-407" title="7 topics" rel="tag" style="font-size: 10.4137931034pt;">Web Hosting</a>
-<a href="http://hakimtea.com/tag/widget/" class="tag-link-46" title="8 topics" rel="tag" style="font-size: 10.8965517241pt;">widget</a>
-<a href="http://hakimtea.com/tag/wordpress/" class="tag-link-12" title="11 topics" rel="tag" style="font-size: 12.3448275862pt;">Wordpress</a>
-<a href="http://hakimtea.com/tag/youtube/" class="tag-link-61" title="6 topics" rel="tag" style="font-size: 9.93103448276pt;">Youtube</a></td><td>
+<table><tbody><tr><td>	    <a href="http://hakimtea.com/tag/adsense/" class="tag-link-17" title="7 topics" rel="tag" style="font-size: 9.5555555555556pt;">Adsense</a>
+<a href="http://hakimtea.com/tag/agama/" class="tag-link-66" title="3 topics" rel="tag" style="font-size: 8pt;">Agama</a>
+<a href="http://hakimtea.com/tag/article/" class="tag-link-67" title="6 topics" rel="tag" style="font-size: 9.1666666666667pt;">Article</a>
+<a href="http://hakimtea.com/tag/artikel-kontes/" class="tag-link-890" title="39 topics" rel="tag" style="font-size: 22pt;">Artikel Kontes</a>
+<a href="http://hakimtea.com/tag/bandung/" class="tag-link-96" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">Bandung</a>
+<a href="http://hakimtea.com/tag/blog/" class="tag-link-992" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">Blog</a>
+<a href="http://hakimtea.com/tag/blogger/" class="tag-link-45" title="17 topics" rel="tag" style="font-size: 13.444444444444pt;">Blogger</a>
+<a href="http://hakimtea.com/tag/blogger-bandung/" class="tag-link-244" title="3 topics" rel="tag" style="font-size: 8pt;">blogger bandung</a>
+<a href="http://hakimtea.com/tag/blogger-template/" class="tag-link-34" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">Blogger Template</a>
+<a href="http://hakimtea.com/tag/blogging/" class="tag-link-47" title="8 topics" rel="tag" style="font-size: 9.9444444444444pt;">blogging</a>
+<a href="http://hakimtea.com/tag/blog-review/" class="tag-link-14" title="3 topics" rel="tag" style="font-size: 8pt;">Blog Review</a>
+<a href="http://hakimtea.com/tag/busby-seo-test/" class="tag-link-696" title="12 topics" rel="tag" style="font-size: 11.5pt;">Busby SEO Test</a>
+<a href="http://hakimtea.com/tag/catatan-blogger/" class="tag-link-4" title="19 topics" rel="tag" style="font-size: 14.222222222222pt;">Catatan Blogger</a>
+<a href="http://hakimtea.com/tag/domain-gratis/" class="tag-link-36" title="9 topics" rel="tag" style="font-size: 10.333333333333pt;">Domain Gratis</a>
+<a href="http://hakimtea.com/tag/free-hosting/" class="tag-link-57" title="6 topics" rel="tag" style="font-size: 9.1666666666667pt;">Free Hosting</a>
+<a href="http://hakimtea.com/tag/furniture/" class="tag-link-278" title="3 topics" rel="tag" style="font-size: 8pt;">Furniture</a>
+<a href="http://hakimtea.com/tag/google/" class="tag-link-146" title="5 topics" rel="tag" style="font-size: 8.7777777777778pt;">Google</a>
+<a href="http://hakimtea.com/tag/google-adsense/" class="tag-link-22" title="8 topics" rel="tag" style="font-size: 9.9444444444444pt;">Google Adsense</a>
+<a href="http://hakimtea.com/tag/guest-blogging/" class="tag-link-1027" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">guest blogging</a>
+<a href="http://hakimtea.com/tag/internet/" class="tag-link-83" title="5 topics" rel="tag" style="font-size: 8.7777777777778pt;">Internet</a>
+<a href="http://hakimtea.com/tag/kapanlagicom/" class="tag-link-701" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">Kapanlagi.com</a>
+<a href="http://hakimtea.com/tag/komunitas/" class="tag-link-98" title="3 topics" rel="tag" style="font-size: 8pt;">Komunitas</a>
+<a href="http://hakimtea.com/tag/kontes/" class="tag-link-669" title="9 topics" rel="tag" style="font-size: 10.333333333333pt;">Kontes</a>
+<a href="http://hakimtea.com/tag/kontes-blog/" class="tag-link-670" title="5 topics" rel="tag" style="font-size: 8.7777777777778pt;">Kontes Blog</a>
+<a href="http://hakimtea.com/tag/kontes-blog-1-tahun-hakimteacom/" class="tag-link-825" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">Kontes Blog 1 Tahun Hakimtea.com</a>
+<a href="http://hakimtea.com/tag/kontes-seo/" class="tag-link-798" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">Kontes SEO</a>
+<a href="http://hakimtea.com/tag/kopdar/" class="tag-link-95" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">Kopdar</a>
+<a href="http://hakimtea.com/tag/make-money-online/" class="tag-link-63" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">Make Money Online</a>
+<a href="http://hakimtea.com/tag/paypal/" class="tag-link-234" title="6 topics" rel="tag" style="font-size: 9.1666666666667pt;">paypal</a>
+<a href="http://hakimtea.com/tag/personal/" class="tag-link-72" title="8 topics" rel="tag" style="font-size: 9.9444444444444pt;">Personal</a>
+<a href="http://hakimtea.com/tag/plugins/" class="tag-link-68" title="6 topics" rel="tag" style="font-size: 9.1666666666667pt;">Plugins</a>
+<a href="http://hakimtea.com/tag/scam/" class="tag-link-346" title="3 topics" rel="tag" style="font-size: 8pt;">SCAM</a>
+<a href="http://hakimtea.com/tag/scam-program/" class="tag-link-350" title="3 topics" rel="tag" style="font-size: 8pt;">Scam Program</a>
+<a href="http://hakimtea.com/tag/search-engine/" class="tag-link-341" title="3 topics" rel="tag" style="font-size: 8pt;">Search Engine</a>
+<a href="http://hakimtea.com/tag/seleb/" class="tag-link-70" title="3 topics" rel="tag" style="font-size: 8pt;">Seleb</a>
+<a href="http://hakimtea.com/tag/seo/" class="tag-link-77" title="19 topics" rel="tag" style="font-size: 14.222222222222pt;">SEO</a>
+<a href="http://hakimtea.com/tag/tips/" class="tag-link-6" title="3 topics" rel="tag" style="font-size: 8pt;">Tips</a>
+<a href="http://hakimtea.com/tag/tips-blogging/" class="tag-link-21" title="31 topics" rel="tag" style="font-size: 18.888888888889pt;">Tips Blogging</a>
+<a href="http://hakimtea.com/tag/tips-html/" class="tag-link-25" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">Tips HTML</a>
+<a href="http://hakimtea.com/tag/tips-wordpress/" class="tag-link-33" title="14 topics" rel="tag" style="font-size: 12.277777777778pt;">Tips Wordpress</a>
+<a href="http://hakimtea.com/tag/vcc/" class="tag-link-235" title="4 topics" rel="tag" style="font-size: 8.3888888888889pt;">VCC</a>
+<a href="http://hakimtea.com/tag/web-hosting/" class="tag-link-407" title="9 topics" rel="tag" style="font-size: 10.333333333333pt;">Web Hosting</a>
+<a href="http://hakimtea.com/tag/widget/" class="tag-link-46" title="8 topics" rel="tag" style="font-size: 9.9444444444444pt;">widget</a>
+<a href="http://hakimtea.com/tag/wordpress/" class="tag-link-12" title="12 topics" rel="tag" style="font-size: 11.5pt;">Wordpress</a>
+<a href="http://hakimtea.com/tag/youtube/" class="tag-link-61" title="10 topics" rel="tag" style="font-size: 10.722222222222pt;">Youtube</a></td><td>
 
 <center>
 <a href="http://feeds.feedburner.com/Hakimtea"><img src="http://feeds.feedburner.com/~fc/Hakimtea?bg=FC612B&amp;fg=FFFFFF&amp;anim=1" height="26" width="88" style="border:0" alt=""></a><br>
@@ -448,372 +404,6 @@ document.write ("'><\/scr"+"ipt>");
 
 <a href="http://www.blogtopsites.com/marketing-seo/"><img style="border:none" src="http://www.blogtopsites.com/v_7223.gif" alt="Marketing &amp; SEO Blogs - Blog Top Sites"></a><br>
 
-<style type="text/css">
-#akismetwrap #aka,#aka:link,#aka:hover,#aka:visited,#aka:active{color:#fff;text-decoration:none}
-#aka:hover{border:none;text-decoration:none}
-#aka:hover #akismet1{display:none}
-#aka:hover #akismet2,#akismet1{display:block}
-#akismet2{display:none;padding-top:2px}
-#akismeta{font-size:16px;font-weight:bold;line-height:18px;text-decoration:none}
-#akismetcount{display:block;font:15px Verdana,Arial,Sans-Serif;font-weight:bold;text-decoration:none}
-#akismetwrap #akismetstats{background:url(http://hakimtea.com/wp-content/plugins/akismet/akismet.gif) no-repeat top left;border:none;color:#fff;font:11px 'Trebuchet MS','Myriad Pro',sans-serif;height:40px;line-height:100%;overflow:hidden;padding:8px 0 0;text-align:center;width:120px}
-</style>
-<div id="akismetwrap"><div id="akismetstats"><a id="aka" href="http://akismet.com" title=""><div id="akismet1"><span id="akismetcount">22,978</span> <span id="akismetsc">spam comments</span></div> <div id="akismet2"><span id="akismetbb">blocked by</span><br><span id="akismeta">Akismet</span></div></a></div></div>
+<a href="http://bundles.usdirect.com">Qwest</a>
 
-</center></td></tr>
-</tbody></table>
-
-</li>
-
-
-			<li class="search">
-	  		<form method="get" id="searchform" action="http://hakimtea.com/">
-<div>
-<input type="text" value="To search, type and hit enter" name="s" id="s" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'To search, type and hit enter';}">
-<input type="hidden" id="searchsubmit" value="Search">
-</div>
-</form>	</li>
-</ul>
-</div>
-<div class="side1">
-
-
-    <ul>
-			<li id="text-309251581" class="widget widget_text">			<h2 class="widgettitle">Support by :</h2>
-			<div class="textwidget"><div id="lw_context_ads">
-
-<a href="http://traveltea.info/" target="_blank">Perfect Vocation</a> <br>
-
-<a href="http://tenapril.com/" target="_blank">Ponsel News</a> <br>
-
-<a href="http://www.mizwar.com/" target="_blank">Daftar Harga Laptop</a> <br>
-
-<a href="http://rumputlaut.co.cc" target="_blank">Rumput Laut Ads</a> <br>
-
-<a href="http://www.eporchshop.com/" target="_blank">Eporchshop.com Sponsor</a> <br>
-
-<a href="http://pajagalan.co.cc" target="_blank">Pajagalan Sponsor</a> <br>
-
-<a rel="nofollow" href="http://www.friendstergue.co.cc/" target="_blank">Pimp Out Friendster Ads</a> <br>
-
-<a rel="nofollow" href="http://www.e-tourism.co.cc/" target="_blank">Travel Sponsor</a> <br>
-
-<a rel="nofollow" href="http://www.lyricmusic.co.cc/" target="_blank">Lyric Music Sponcor</a> <br>
-
-</div></div>
-		</li>
-		<li id="text-207479631" class="widget widget_text">			<h2 class="widgettitle">Sponsored</h2>
-			<div class="textwidget"><!-- Begin: KlikSaya.com -->
-<script src="http://scr.kliksaya.com/js-ad.php?zid=20283" type="text/javascript">
-</script>
-<!-- End: KlikSaya.com -->
-
-
-Feature Auto-Approve not activated</div>
-		</li>
-</ul>
-</div>
-
-<div class="side2">
-<ul>
- <li>
-<ul id="sBlocks">
-
-<li><a href="http://www.sponsoredreviews.com/?aid=28147"><img src="http://www.srwww1.com/images/SR/Affiliate/2.jpg" border="0px" alt="Blog Advertising - Advertise on blogs with SponsoredReviews.com"></a><br><a href="http://hakimtea.com/kontak/" title="Keberatan dengan iklan banner di atas...?">Komplain Iklan!</a></li>
-
-<li><a href="http://www.etamhost.com/" target="_blank"><img src="http://hakimtea.googlepages.com/etamhost.gif" alt="Web Hosting" title="Web Hosting"></a> <br><a href="http://hakimtea.com/kontak/" title="Keberatan dengan iklan banner di atas...?">Komplain Iklan!</a></li>
-
-<br class="clear">	 
-
-</ul>
-<div class="side2-data">
-<ul>
- 	  <li id="twitter-tools" class="widget aktt_widget"><h2 class="widgettitle">Twitter Hakimtea...</h2>
-<div class="aktt_tweets">
-	<ul>
-		<li>sedang buatin blog buat crew Smart... sederhana saja ya blognya :) bisa dilihat di smartcampz.blogspot.com =&gt; <a href="http://smartcampz.blogspot.com" rel="nofollow">http://smartcampz.blogspot.com</a> <a href="http://twitter.com/hakimtea/statuses/1934389751">3 weeks ago</a></li>
-		<li>resesi resepsi resepsi resepsi... resepsi... bntar lagi... meski akad sudah tapi resepsi belum... <a href="http://twitter.com/hakimtea/statuses/1934383126">3 weeks ago</a></li>
-		<li>masih juga ada yg tidak percaya saya sudah menikah, heu...! Beneran saya memang udah nikah =&gt; raisahakim.com <a href="http://twitter.com/hakimtea/statuses/1931798082">3 weeks ago</a></li>
-		<li class="aktt_more_updates"><a href="http://twitter.com/hakimtea">More updates...</a></li>
-</ul>	<p id="aktt_tweet_posted_msg">Posting tweet...</p></div></li>
-<li id="top-commentators" class="widget widget_topcommentators"><h2 class="widgettitle">Top Commentators :</h2>
-		<ul id="topCommentators">
-			<li><a href="http://ravatar.blogspot.com/">Ravatar</a> (7)
-</li>
-<li><a href="http://kelincex.blogspot.com">Remba</a> (7)
-</li>
-<li><a href="http://lifeinsurancebox.blogspot.com">Life Insurance Info</a> (7)
-</li>
-<li><a href="http://duniapiyen.blogspot.com">duniapiyen</a> (6)
-</li>
-<li><a href="http://theardzcoholic.blogspot.com/2009/06/tips-meramal-cuaca.html#comments">ardianz</a> (5)
-</li>
-		</ul>
-		</li>
-<li id="most-viewed" class="widget widget_views_most_viewed"><h2 class="widgettitle">18 Most Viewed Articles</h2>
-<ul>
-<li><a href="http://hakimtea.com/catatan-hari-ini/tema-dan-logo-63-tahun-negeriku/">Tema dan Logo 63 Tah...</a> - 19,461 views</li>
-<li><a href="http://hakimtea.com/tips/meningkatkan-kecepatan-firefox-dan-membuat-fasterfox-compatible-firefox-300/">Meningkatkan Kecepat...</a> - 19,346 views</li>
-<li><a href="http://hakimtea.com/tips/58-widget-pilihan-untuk-mempercantik-blog-anda/">58 Widget Pilihan Un...</a> - 19,345 views</li>
-<li><a href="http://hakimtea.com/tips/cara-mendownload-video-youtube/">Cara Mendownload Vid...</a> - 17,243 views</li>
-<li><a href="http://hakimtea.com/santai/sandra-dewi-ngeblog/">Sandra Dewi Ngeblog</a> - 13,945 views</li>
-<li><a href="http://hakimtea.com/blogger-template/template-3-coloumn-untuk-publisher-adsense/">Template 3 Column Un...</a> - 9,558 views</li>
-<li><a href="http://hakimtea.com/tips/membuat-teks-berjalan-marquee/">Membuat Teks Berjala...</a> - 7,596 views</li>
-<li><a href="http://hakimtea.com/tutorial/instal-wordpress-ke-domain-cocc/">Instal Wordpress ke ...</a> - 6,885 views</li>
-<li><a href="http://hakimtea.com/tutorial/tampilkan-status-online-ym/">Tampilkan Status Onl...</a> - 6,673 views</li>
-<li><a href="http://hakimtea.com/kontes/kontes-blog-1-tahun-hakimteacom/">Kontes Blog 1 Tahun ...</a> - 5,234 views</li>
-<li><a href="http://hakimtea.com/tips/membuat-banner-dan-logo-blog-tanpa-menguasai-photoshop/">Membuat Banner dan L...</a> - 4,963 views</li>
-<li><a href="http://hakimtea.com/tutorial/daftar-cara-setting-feed-blogger-ke-feedburner-plus-bonus-memasang-3-widget-feedburner/">Daftar &amp; Cara Settin...</a> - 4,287 views</li>
-<li><a href="http://hakimtea.com/tutorial/membuat-banner-blog/">Membuat Banner Blog</a> - 4,275 views</li>
-<li><a href="http://hakimtea.com/tips/u-comment-i-follow-backlink-dan-pagerank/">U Comment I Follow, ...</a> - 4,229 views</li>
-<li><a href="http://hakimtea.com/seo/adakah-titi-kamal-telanjang-di-blog-ini/">Adakah Titi Kamal Te...</a> - 3,310 views</li>
-<li><a href="http://hakimtea.com/catatan-blogger/kapanlagicom-menantang-perang-blogger-indonesia/">Kapanlagi.com Menant...</a> - 3,281 views</li>
-<li><a href="http://hakimtea.com/tutorial/membuat-form-kontak-di-blogger-how-to-make-contact-form-into-blogger/">Membuat Form Kontak ...</a> - 3,057 views</li>
-<li><a href="http://hakimtea.com/catatan-blogger/sms-donasi-dan-pasang-banner-dukungan-untuk-palestina/">SMS Donasi dan Pasan...</a> - 2,769 views</li>
-</ul>
-</li>
-</ul>
-  </div>
-  </li></ul></div>
-<br class="clear">
-<div class="side3">
- <ul>
- <li>
- 
-<div class="about">
-
-  <h2>Who is behind Hakimtea.Com</h2>
-  <p><img src="http://i43.servimg.com/u/f43/11/83/04/92/hakim-10.jpg" alt="About me" width="82" height="82" class="iright">Hi, my name is Hakimtea, I like drink a cup of tea n blogging is really my cup of tea :) I've been dreaming to be a fulltime Blogger,  I imagine to be a  Master Blogger... when I wake up and realize that all my dreams are still like all I consume, an ordinary Hakimtea... a newbie Blogger who try to write, sharing information and getting money from blogging. <a href="http://hakimtea.com/about/">more »»</a></p>
-  <p class="stats"> Howdy, till now there is
-    <span class="posts">409    Posts</span> 
-    <span class="comms"> 7,741    Comments.</span></p>
-
-  <p class="stats"> 
-
-<a href="http://kafeblogger.com/"><img src="http://www.kafeblogger.com/img/banners/def_banner_.gif" alt="kafeblogger.com" width="449" height="60"></a>
-
-</p>
-</div>
-
- </li>
- </ul>
- </div>
-
-</div>
-
-
-<!-- code added by hyperwebenable.com please do not change or alter -->
-<script type="text/javascript">
-   		if(typeof(hyperweb_adcount)=="undefined") hyperweb_adcount =1;
-   <!--//<![CDATA[
-   var m3_u = 'http://www.hyperwebads.com/test/delivery.php';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?hyperweb_sitename="+document.domain);
-   document.write ('&amp;hyperweb_adcount=' +hyperweb_adcount++);
-  document.write ('&amp;hyperweb_location=more');
-   document.write ("'><\/scr"+"ipt>");
-//]]>-->
-</script><script type="text/javascript" src="http://www.hyperwebads.com/test/delivery.php?hyperweb_sitename=web.archive.org&amp;hyperweb_adcount=5&amp;hyperweb_location=more"></script>
-<!-- code added by hyperwebenable.com please do not change or alter -->
-
-<br class="clear">
-
-<div id="footer-post">
-
-<center>
-
-<script type="text/javascript" src="http://www.blogcatalog.com/w/recent.php?id=4399825&amp;width=850&amp;rows=2&amp;bgcolor=F4F6F8&amp;bcolor=F4F6F8&amp;lcolor=777777&amp;hcolor=777777&amp;htext=Recent%20reader%20from%20Blogcatalog%20and%20MyBloglog:&amp;name=1&amp;img=s"></script>
-
-<script type="text/javascript" src="http://pub.mybloglog.com/comm2.php?mblID=2008042911561772&amp;c_width=930&amp;c_sn_opt=n&amp;c_rows=2&amp;c_img_size=h&amp;c_heading_text=&amp;c_color_heading_bg=F4F6F8&amp;c_color_heading=777777&amp;c_color_link_bg=F4F6F8&amp;c_color_link=F4F6F8&amp;c_color_bottom_bg=F4F6F8"></script>
-
-</center>
-
-</div>
-
-
-
-<div id="footer-post">
-
-<div class="f1">
-
-<ul>
-
-	<li class="boxr">
-  <h2>Recent Post</h2>
-  <ul>
-    	<li><a href="http://hakimtea.com/tips/manfaat-ngeblog-bagi-pemula/" title="Manfaat Ngeblog bagi Pemula">Manfaat Ngeblog bagi Pemula</a></li>
-	<li><a href="http://hakimtea.com/info/interior-kantor-penunjang-gairah-kerja/" title="Interior Kantor Penunjang Gairah Kerja">Interior Kantor Penunjang Gairah Kerja</a></li>
-	<li><a href="http://hakimtea.com/seo/kontes-seo-prestasi-atau-prestise/" title="Kontes SEO : Prestasi atau Prestise">Kontes SEO : Prestasi atau Prestise</a></li>
-	<li><a href="http://hakimtea.com/iklan/apply-for-unsecured-loans-and-have-fun-with-them/" title="Apply for UNSECURED LOANS and Have fun with them">Apply for UNSECURED LOANS and Have fun with them</a></li>
-	<li><a href="http://hakimtea.com/tips/4-nasehat-untuk-blogger-pemula/" title="4 Nasehat Untuk Blogger Pemula">4 Nasehat Untuk Blogger Pemula</a></li>
-	<li><a href="http://hakimtea.com/blogger/kisah-negeri-blogger/" title="Kisah Negeri Blogger">Kisah Negeri Blogger</a></li>
-	<li><a href="http://hakimtea.com/iklan/belajar-sulap-tidaklah-susah/" title="Belajar Sulap Tidaklah Susah">Belajar Sulap Tidaklah Susah</a></li>
-	<li><a href="http://hakimtea.com/iklan/game-online-gratis-di-asikgamecom/" title="Game Online Gratis di Asikgame.com">Game Online Gratis di Asikgame.com</a></li>
-	<li><a href="http://hakimtea.com/info/mencari-hotel-murah-di-bali/" title="Mencari Hotel Murah di Bali">Mencari Hotel Murah di Bali</a></li>
-	<li><a href="http://hakimtea.com/uncategorized/tips-menghasilkan-uang-dengan-facebook/" title="Tips menghasilkan uang dengan Facebook">Tips menghasilkan uang dengan Facebook</a></li>
-  </ul>
-</li>
-
-</ul>
-
-</div>
-
-<div class="f2">
-
-<li><h2>Recent Comments:</h2>
-      <ul>
-      	<li><a href="http://hakimtea.com/tips/manfaat-ngeblog-bagi-pemula/#comment-14767" title="Manfaat Ngeblog bagi Pemula, Wednesday, June 17, 2009">manusiahero</a>: Berteman erat walaupun tidk pernah ketemu…</li>
-	<li><a href="http://hakimtea.com/iklan/apply-for-unsecured-loans-and-have-fun-with-them/#comment-14765" title="Apply for UNSECURED LOANS and Have fun with them, Monday, June 15, 2009">kohakoha</a>: Pertamaxxx.. belum ada yang berkomentar ni kang..</li>
-	<li><a href="http://hakimtea.com/info/interior-kantor-penunjang-gairah-kerja/#comment-14762" title="Interior Kantor Penunjang Gairah Kerja, Wednesday, June 17, 2009">kohakoha</a>: Pertamaxx.. sayang saya nggak punya kantor hhe.. kantor saya di ruangan petak 4×4 m..</li>
-	<li><a href="http://hakimtea.com/tips/manfaat-ngeblog-bagi-pemula/#comment-14761" title="Manfaat Ngeblog bagi Pemula, Wednesday, June 17, 2009">kohakoha</a>: Pertamaxxx…. setuju sekali.. saya juga pemula, yang sedang menikmati dunia blogging..</li>
-	<li><a href="http://hakimtea.com/seo/kontes-seo-prestasi-atau-prestise/#comment-14760" title="Kontes SEO : Prestasi atau Prestise, Monday, June 15, 2009">kohakoha</a>: Kalau saya boleh berpendapat, kayaknya memang prestise, tapi bisa juga dibilang prestasi..</li>
-      </ul>
-</li>
-   
-
-<li><h2>Recent Trackbacks:</h2>
-      <ul>
-      	<li><a href="http://hakimtea.com/tutorial/tampilkan-status-online-ym/#comment-14756" title="Trackback to &quot;Tampilkan Status Online YM&quot;: Skype button – Seperti widget menampilkan status online YM pada blog Anda, widget...">green soup</a>: widget untuk blog</li>
-	<li><a href="http://hakimtea.com/widgets/fungsi-shoutbox-kelebihan-dan-kekurangan-berbagai-macam-shoutbox/#comment-14755" title="Trackback to &quot;Fungsi Shoutbox, Kelebihan dan kekurangan Berbagai Macam Shoutbox&quot;: Shoutbox – Fungsi shoutbox adalah untuk menampung pesan singkat teman atau para...">green soup</a>: widget untuk blog</li>
-	<li><a href="http://hakimtea.com/tutorial/daftar-cara-setting-feed-blogger-ke-feedburner-plus-bonus-memasang-3-widget-feedburner/#comment-14754" title="Trackback to &quot;Daftar &amp; Cara Setting Feed Blogger Ke FeedBurner Plus &quot;Bonus&quot; Memasang 3 Widget FeedBurner&quot;: Menampilkan jumlah pengunjung blog Anda melalui banner kecil dan widget ini berhubungan...">green soup</a>: widget untuk blog</li>
-	<li><a href="http://hakimtea.com/tutorial/tampilkan-status-online-ym/#comment-14740" title="Trackback to &quot;Tampilkan Status Online YM&quot;: Skype button – Seperti widget menampilkan status online YM pada blog Anda, widget ini pun...">Rhan16</a>: 58 Widget Pilihan Untuk Mempercantik Blog Anda</li>
-	<li><a href="http://hakimtea.com/uncategorized/tips-menghasilkan-uang-dengan-facebook/#comment-14739" title="Trackback to &quot;Tips menghasilkan uang dengan Facebook&quot;: Tips menghasilkan uang dengan Facebook">Berbagi Cerita Dan Informasi</a>: Menghasilkan uang melalui facebook</li>
-      </ul>
-</li>
-
-</div>
-
-<div class="f3">
-
-      
-<ul>
-
-	  <li class="boxr">
-
-        <h2>Popular Article</h2>
-
-        <ul>
-
-          <li><a href="http://hakimtea.com/tutorial/membuat-form-kontak-di-blogger-how-to-make-contact-form-into-blogger/">Membuat Form Kontak Di Blogger (How to Make Contact Form Into Blogger)</a></li><li><a href="http://hakimtea.com/santai/sandra-dewi-ngeblog/">Sandra Dewi Ngeblog</a></li><li><a href="http://hakimtea.com/catatan-hari-ini/tema-dan-logo-63-tahun-negeriku/">Tema dan Logo 63 Tahun Negeriku</a></li><li><a href="http://hakimtea.com/tips/meningkatkan-kecepatan-firefox-dan-membuat-fasterfox-compatible-firefox-300/">Meningkatkan Kecepatan Firefox dan Membuat Fasterfox Compatible Firefox 3.0.0</a></li><li><a href="http://hakimtea.com/tips/58-widget-pilihan-untuk-mempercantik-blog-anda/">58 Widget Pilihan Untuk Mempercantik Blog Anda</a></li><li><a href="http://hakimtea.com/tips/cara-mendownload-video-youtube/">Cara Mendownload Video Youtube</a></li><li><a href="http://hakimtea.com/tips/u-comment-i-follow-backlink-dan-pagerank/">U Comment I Follow, Backlink dan Pagerank</a></li><li><a href="http://hakimtea.com/blogger-template/template-3-coloumn-untuk-publisher-adsense/">Template 3 Column Untuk Publisher Adsense</a></li><li><a href="http://hakimtea.com/tutorial/instal-wordpress-ke-domain-cocc/">Instal Wordpress ke Domain CO.CC</a></li><li><a href="http://hakimtea.com/tips/membuat-teks-berjalan-marquee/">Membuat Teks Berjalan (Marquee)</a></li>
-        </ul>
-
-      </li>
-
-</ul>
-
-	  
-</div>
-
-</div> 
-
-<br class="clear">
-
-</div>
-
-<div id="footer">
-
-  <hr>
-
-<p><strong>
-
-    Hakimtea Dot Com
-    </strong> © 2005 - 2009 All Rights Reserved. Using <a href="http://wordpress.org/" target="_blank">WordPress 2.6.3</a>.<br>Valid <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> and <a href="http://validator.w3.org/check/referer">XHTML</a>
-
-    82 queries. 0.608 seconds.<br>
-<a href="http://hakimtea.net/" target="_blank">Hakimtea.net</a> | <a href="http://www.rodlitu.com/" target="_blank">RodBlog</a> | <a href="http://www.mizwar.com/" target="_blank">Notebook Price List</a> | <a href="http://tenapril.com/" target="_blank">Ponsel News</a> | <a href="http://kelinciku.com/" target="_blank">Kelinci Online</a> <br> <a href="http://publicult.com/" target="_blank">Hollywood Gossip</a> | <a href="http://duniasoer.com/" target="_blank">DuniaSoer.com</a> | <a href="http://eporchshop.com/" target="_blank">ePorchShop.com</a> | <a href="http://goodsneeds.com/" target="_blank">GoodsNeeds.com</a>.
-
-  </p>
-
-  <p class="right"><span class="rss"><a href="http://hakimtea.com/feed/">Entries (RSS)</a></span> and <span class="rss"><a href="http://hakimtea.com/comments/feed/">Comments (RSS)</a></span><br><span><a href="http://www.jauhari.net/themes/myapril-reloaded" title="MyApril Reloaded 1.3" target="_blank">MyApril Reloaded 1.3</a> made by <a href="http://www.jauhari.net/" title="Free WordPress Themes Designer" target="_blank">Nurudin Jauhari</a></span><br>
-
-<a href="http://klinikservo.com/" title="Klinik Servo" target="_blank">Klinik Servo</a>  |<a href="http://batagor.org/" title="Batagor Simpang Dago" target="_blank">Batagor.org</a> | <a href="http://hppda.blogspot.com/" title="Personal Digital Assistant Mobile Phone" target="_blank">PDA</a> | <a href="http://musicsave.blogspot.com/" title="Music Save" target="_blank">Music</a> | <a href="http://beautyever.blogspot.com/" title="Beauty" target="_blank">Beauty</a> | <a href="http://e-tourism.co.cc/" title="Travel and Tourism" target="_blank">E-Tourism</a> <br>
-<a href="http://ilamatravels.blogspot.com/" title="Ilama Travels" target="_blank">Ilama Travels</a> | <a href="http://wikilaw.blogspot.com/" title="Wikilaw" target="_blank">Wikilaw</a> | <a href="http://cityseosem.blogspot.com/" title="cityseosem" target="_blank">CitySEOSEM</a>  | <a href="http://mobilephoneservice.co.cc/" title="Mobile Phone Service" target="_blank">Mobile Phone Service</a>
-
- </p>
-
-  <center>
-
-  <!-- Histats.com  START  --> 
-
- <a href="http://www.histats.com" target="_blank" title="website page counter"> 
-
- <script type="text/javascript" language="javascript"> 
-
-  
-
- var s_sid = 284923;var st_dominio = 4; 
-
- var cimg = 0;var cwi =150;var che =30; 
-
- </script> 
-
- <script type="text/javascript" language="javascript" src="http://s10.histats.com/js9.js"></script> 
-
- </a> 
-
- <noscript><a href="http://www.histats.com" target="_blank"> 
-
- <img  src="http://s4.histats.com/stats/0.gif?284923&1" alt="website page counter" border="0"></a> 
-
- </noscript> 
-
-
- <!-- Histats.com  END  --> 
-
-</center>
-
-  <br class="clear">
-
-<center><!-- code added by hyperwebenable.com please do not change or alter -->
-<script type="text/javascript">
-     		if(typeof(hyperweb_adcount)=="undefined") hyperweb_adcount =1;
-   <!--//<![CDATA[
-   var m3_u = 'http://www.hyperwebads.com/test/delivery.php';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?hyperweb_sitename="+document.domain);
-   document.write ('&amp;hyperweb_adcount=' +hyperweb_adcount++);
-  document.write ('&amp;hyperweb_location=footer');
-   document.write ("'><\/scr"+"ipt>");
-//]]>-->
-</script><script type="text/javascript" src="http://www.hyperwebads.com/test/delivery.php?hyperweb_sitename=web.archive.org&amp;hyperweb_adcount=6&amp;hyperweb_location=footer"></script>
-<a href="http://hyperwebenable.com"></a>
-
-Learn more <a href="http://reviewblogservices.blogspot.com/2008/11/hyperwebenable-get-facts-about.html">HyperWebEnable.com</a>.<!-- code added by hyperwebenable.com please do not change or alter --></center>
-
-<center>
-
-
-</center></div>
-
-<script type="text/javascript">
-
-var pageTracker = _gat._getTracker("UA-5184976-1");
-
-pageTracker._trackPageview();
-
-</script>
-
-
-<style>
-.lw_cad_link:link {
-text-decoration: underline;
-border-bottom: 1px;
-}
-.lw_cad_link:visited {
-text-decoration: underline;
-border-bottom: 1px;
-}
-.lw_cad_link:hover {
-text-decoration: underline;
-border-bottom: 2px;
-}
-</style>
-<script language="javascript" src="http://www.linkworth.com/context-ads/context_ads.php?prt_website_id=42369"></script>
-
-<img src="http://socialspark.com/images/claimdot.gif" alt="ss_blog_claim=01f116ffe02cccb82c80583acccda74f"> <script type="text/javascript" src="http://izearanks.com/itk/show/hakimtea-com"></script>
-
-<img src="http://socialspark.com/images/claimdot.gif" alt="ss_blog_claim=01f116ffe02cccb82c80583acccda74f">
-
-
-
-Busby SEO Test</body></html>
+</center></td></tr></tbody></table></li></ul></div></div></div></body></html>
