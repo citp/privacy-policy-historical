@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countdowntopregnancy.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611092346id_/http%3A//www.countdowntopregnancy.com/support/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countdowntopregnancy.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620191402id_/http%3A//www.countdowntopregnancy.com/support/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Countdown to Pregnancy
 
@@ -18,4 +18,6 @@ In order to gain access to certain areas of our site, you may choose to provide 
 
 Other than as described in this privacy policy, or as may be necessary to protect the rights, property and safety of our organization or others, or as may be necessary to comply with applicable law, CountdownToPregnancy.com will not give or sell the personal information you provide online.
 
-Only information you select to have displayed (using your My Account or My Homepage settings) will be displayed in these locations. 
+Only information you select to have displayed (using your My Account or My Homepage settings) will be displayed in these locations.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>. 
