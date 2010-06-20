@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surchur.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207025451id_/http%3A//surchur.com/info/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surchur.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620120148id_/http%3A//www.surchur.com/info/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # surchur – The Dashboard to Right Now. Real Time Search and Real Time Discovery
 
