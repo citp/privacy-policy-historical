@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cfnews13.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221061615id_/http%3A//www.cfnews13.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnews13.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620050141id_/http%3A//www.cfnews13.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Central Florida News 13 -
-
-Get into the [holiday spirit with News 13](http://www.cfnews13.com/Features/Holidays/Default.aspx "Holiday spirit with News 13"). Find [festive events](http://cfnews13.com/features/holidays/events.aspx "festive events") near you, browse our [exclusive recipes](http://www.cfnews13.com/Features/Holidays/Recipes/News13StaffHoliday/default.aspx "exclusive recipes") and show off your decorated [Holiday Home](http://www.cfnews13.com/Features/HolidayHomes/default.aspx "Holiday Home"). 
 
 In addition to reviewing this privacy policy, please read our [User Agreement](http://www.cfnews13.com/cfnews13useragreement.aspx "User Agreement"). Your use of BayNews9.com constitutes agreement to its terms and conditions.
 
