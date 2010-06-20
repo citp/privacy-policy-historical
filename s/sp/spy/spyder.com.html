@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spyder.com privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220065555id_/http%3A//www.spyder.com/YourPrivacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spyder.com privacy policy that was archived on 2010-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620225430id_/http%3A//www.spyder.com/YourPrivacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -35,6 +35,20 @@
 			}
 		 });	
 	}
+	function low_inventory_popup(){
+		var url = "/front/templates/ajax/low_inventory_msg.jsp";
+		$.ajax({
+		   type: "POST",
+		   url: url,
+		   success: function(content){
+			  $('#modalLogin').html(content);
+			  $('#modalLogin').modal();
+			/* need to dynamicly adjust the height of gray background or else firefox would not fully cover the screen with it */
+			var pixelHeight = document.body.offsetHeight;
+		    $('#modal-screen').height(pixelHeight + "px");
+			}
+		 });	
+	}
 </script>
 <div class="headerwrap">
 	<div class="header">
@@ -52,14 +66,6 @@
 		<ul class="utilitynav">
 			<li id="vipContact" class="vipContact" style="display: none"><a href="#">Need Help?</a></li>
 			<li><a href="http://survey.leisuretrends.com/default.asp?survey=282&amp;survey_version=392" target="_blank">Subscribe</a></li>
-			<script type="text/javascript">
-				addLoadListener(showProductReg);
-				function showProductReg(){
-					if(is_domestic() == true)
-						document.getElementById("product-registration").style.display="";
-				}
-			</script>
-			<li id="product-registration" style=""><a href="https://secure.prodregister.com/spyder/register.shtml" target="_blank">Product Registration</a></li>
 			<li id="myaccount" style="display: none"><a href="/front/agent/my_account">My Account</a></li>
 			<li id="cart" style="display: none"><a href="/front/shopping_cart/view_cart.jsp">Cart</a></li>
 			<li id="login"><a href="#">Login</a></li>
@@ -88,6 +94,11 @@
 						if (percent_off == null){
 							asyncGet('/front/templates/ajax/percent_off.jsp', 'addCookie', '');
 						}
+						var low_inventory_popup_cookie = readCookie('low_inventory_popup');
+						if (low_inventory_popup_cookie == null){
+							createCookie('low_inventory_popup', 'created');
+							low_inventory_popup();
+						}
 					}else{
 						// user is logged out; delete cookie here (cookies is also deleted when they click log out, but if they keep the browser open for a long time and session expires, the cookies stays; so we delete it here in that senario)
 						var percent_off = readCookie('spyder_percent_off'); 
@@ -111,6 +122,7 @@
 	<ul id="nav">
 		<li id="nav1" class="current"><a href="#">Athletes</a>
 			<ul class="subnav">
+				<li><a href="http://www.spyder.com/jamaica/" target="_blank">Jamaica Ski Team</a></li>
 				<li><a href="/Freeski-Athletes/">Freeski Athletes</a></li>
 	        	<li><a href="http://usskiteam.com" target="_blank">US Ski Team</a></li>
 	        	<li class="last"><a href="http://canski.org" target="_blank">Canadian Alpine Team</a></li>
@@ -190,7 +202,7 @@
 <div class="contentAreaBase"></div>
 							</div><!--/.maincontent -->
 	<div class="sidecontent">
-		<a href="http://www.spyder.com/volume1" target="_blank"><img src="/spyder/cats/Spyder20092010_medium_image1_108718.gif" alt=""></a>
+		<a href="http://www.spyder.com/jamaica/" target="_blank"><img src="/spyder/cats/Spyder20092010_medium_image1_130345.jpg" alt=""></a>
 		<a href="http://www.facebook.com/spyderactivesports" target="_blank"><img src="/spyder/cats/Spyder20092010_medium_image2_108719.jpg" alt=""></a>		
 	</div><!--/.sidecontent-->
 						</div><!--/.content -->		
@@ -439,73 +451,73 @@
 			    <ul id="cat_203" style="display:none;">
 				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_204');">Mens</a>
 				            		<ul id="subcat_204" style="display: none">
-											<li id="leaf_cat_205"><a href="/Collections/Mens/Legend/">Legend</a></li>
-											<li id="leaf_cat_206"><a href="/Collections/Mens/Quest/">Quest</a></li>
-											<li id="leaf_cat_207"><a href="/Collections/Mens/Rogue/">Rogue</a></li>
-											<li id="leaf_cat_208"><a href="/Collections/Mens/Big-Mountain/">Big Mountain</a></li>
-											<li id="leaf_cat_209"><a href="/Collections/Mens/Venom/">Venom</a></li>
-											<li id="leaf_cat_210"><a href="/Collections/Mens/Active/">Active</a></li>
-											<li id="leaf_cat_212"><a href="/Collections/Mens/Layers/">Layers</a></li>
-											<li id="leaf_cat_213"><a href="/Collections/Mens/Accessories/">Accessories</a></li>
-											<li id="leaf_cat_259"><a href="/Collections/Mens/Race/">Race</a></li>
+									        		<li id="leaf_cat_205"><a href="/Collections/Mens/Legend/">Legend</a></li>
+									        		<li id="leaf_cat_206"><a href="/Collections/Mens/Quest/">Quest</a></li>
+									        		<li id="leaf_cat_207"><a href="/Collections/Mens/Rogue/">Rogue</a></li>
+									        		<li id="leaf_cat_208"><a href="/Collections/Mens/Big-Mountain/">Big Mountain</a></li>
+									        		<li id="leaf_cat_209"><a href="/Collections/Mens/Venom/">Venom</a></li>
+									        		<li id="leaf_cat_210"><a href="/Collections/Mens/Active/">Active</a></li>
+									        		<li id="leaf_cat_212"><a href="/Collections/Mens/Layers/">Layers</a></li>
+									        		<li id="leaf_cat_213"><a href="/Collections/Mens/Accessories/">Accessories</a></li>
+									        		<li id="leaf_cat_259"><a href="/Collections/Mens/Race/">Race</a></li>
 									</ul>
 								</li>
 				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_214');">Womens</a>
 				            		<ul id="subcat_214" style="display: none">
-											<li id="leaf_cat_215"><a href="/Collections/Womens/L-Series/">L-Series</a></li>
-											<li id="leaf_cat_216"><a href="/Collections/Womens/Legend/">Legend</a></li>
-											<li id="leaf_cat_217"><a href="/Collections/Womens/Quest/">Quest</a></li>
-											<li id="leaf_cat_218"><a href="/Collections/Womens/Vision/">Vision</a></li>
-											<li id="leaf_cat_219"><a href="/Collections/Womens/Renaissance/">Renaissance</a></li>
-											<li id="leaf_cat_220"><a href="/Collections/Womens/Big-Mountain/">Big Mountain</a></li>
-											<li id="leaf_cat_221"><a href="/Collections/Womens/Venom/">Venom</a></li>
-											<li id="leaf_cat_222"><a href="/Collections/Womens/Active/">Active</a></li>
-											<li id="leaf_cat_224"><a href="/Collections/Womens/Layers/">Layers</a></li>
-											<li id="leaf_cat_225"><a href="/Collections/Womens/Accessories/">Accessories</a></li>
-											<li id="leaf_cat_260"><a href="/Collections/Womens/Race/">Race</a></li>
+									        		<li id="leaf_cat_215"><a href="/Collections/Womens/L-Series/">L-Series</a></li>
+									        		<li id="leaf_cat_216"><a href="/Collections/Womens/Legend/">Legend</a></li>
+									        		<li id="leaf_cat_217"><a href="/Collections/Womens/Quest/">Quest</a></li>
+									        		<li id="leaf_cat_218"><a href="/Collections/Womens/Vision/">Vision</a></li>
+									        		<li id="leaf_cat_219"><a href="/Collections/Womens/Renaissance/">Renaissance</a></li>
+									        		<li id="leaf_cat_220"><a href="/Collections/Womens/Big-Mountain/">Big Mountain</a></li>
+									        		<li id="leaf_cat_221"><a href="/Collections/Womens/Venom/">Venom</a></li>
+									        		<li id="leaf_cat_222"><a href="/Collections/Womens/Active/">Active</a></li>
+									        		<li id="leaf_cat_224"><a href="/Collections/Womens/Layers/">Layers</a></li>
+									        		<li id="leaf_cat_225"><a href="/Collections/Womens/Accessories/">Accessories</a></li>
+									        		<li id="leaf_cat_260"><a href="/Collections/Womens/Race/">Race</a></li>
 									</ul>
 								</li>
 				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_226');">Boys Size 8-20</a>
 				            		<ul id="subcat_226" style="display: none">
-											<li id="leaf_cat_228"><a href="/Collections/Boys-Size-8-20/Legend/">Legend</a></li>
-											<li id="leaf_cat_229"><a href="/Collections/Boys-Size-8-20/Quest/">Quest</a></li>
-											<li id="leaf_cat_230"><a href="/Collections/Boys-Size-8-20/Rogue/">Rogue</a></li>
-											<li id="leaf_cat_231"><a href="/Collections/Boys-Size-8-20/Spawn/">Spawn</a></li>
-											<li id="leaf_cat_232"><a href="/Collections/Boys-Size-8-20/Xscap/">Xscap</a></li>
-											<li id="leaf_cat_233"><a href="/Collections/Boys-Size-8-20/Active/">Active</a></li>
-											<li id="leaf_cat_234"><a href="/Collections/Boys-Size-8-20/Layers/">Layers</a></li>
-											<li id="leaf_cat_235"><a href="/Collections/Boys-Size-8-20/Accessories/">Accessories</a></li>
-											<li id="leaf_cat_262"><a href="/Collections/Boys-Size-8-20/Race/">Race</a></li>
+									        		<li id="leaf_cat_228"><a href="/Collections/Boys-Size-8-20/Legend/">Legend</a></li>
+									        		<li id="leaf_cat_229"><a href="/Collections/Boys-Size-8-20/Quest/">Quest</a></li>
+									        		<li id="leaf_cat_230"><a href="/Collections/Boys-Size-8-20/Rogue/">Rogue</a></li>
+									        		<li id="leaf_cat_231"><a href="/Collections/Boys-Size-8-20/Spawn/">Spawn</a></li>
+									        		<li id="leaf_cat_232"><a href="/Collections/Boys-Size-8-20/Xscap/">Xscap</a></li>
+									        		<li id="leaf_cat_233"><a href="/Collections/Boys-Size-8-20/Active/">Active</a></li>
+									        		<li id="leaf_cat_234"><a href="/Collections/Boys-Size-8-20/Layers/">Layers</a></li>
+									        		<li id="leaf_cat_235"><a href="/Collections/Boys-Size-8-20/Accessories/">Accessories</a></li>
+									        		<li id="leaf_cat_262"><a href="/Collections/Boys-Size-8-20/Race/">Race</a></li>
 									</ul>
 								</li>
 				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_236');">Girls Size 8-20</a>
 				            		<ul id="subcat_236" style="display: none">
-											<li id="leaf_cat_238"><a href="/Collections/Girls-Size-8-20/L-Series/">L-Series</a></li>
-											<li id="leaf_cat_239"><a href="/Collections/Girls-Size-8-20/Vision/">Vision</a></li>
-											<li id="leaf_cat_240"><a href="/Collections/Girls-Size-8-20/Antidote/">Antidote</a></li>
-											<li id="leaf_cat_241"><a href="/Collections/Girls-Size-8-20/Xscap/">Xscap</a></li>
-											<li id="leaf_cat_242"><a href="/Collections/Girls-Size-8-20/Active/">Active</a></li>
-											<li id="leaf_cat_244"><a href="/Collections/Girls-Size-8-20/Layers/">Layers</a></li>
-											<li id="leaf_cat_245"><a href="/Collections/Girls-Size-8-20/Accessories/">Accessories</a></li>
-											<li id="leaf_cat_261"><a href="/Collections/Girls-Size-8-20/Race/">Race</a></li>
+									        		<li id="leaf_cat_238"><a href="/Collections/Girls-Size-8-20/L-Series/">L-Series</a></li>
+									        		<li id="leaf_cat_239"><a href="/Collections/Girls-Size-8-20/Vision/">Vision</a></li>
+									        		<li id="leaf_cat_240"><a href="/Collections/Girls-Size-8-20/Antidote/">Antidote</a></li>
+									        		<li id="leaf_cat_241"><a href="/Collections/Girls-Size-8-20/Xscap/">Xscap</a></li>
+									        		<li id="leaf_cat_242"><a href="/Collections/Girls-Size-8-20/Active/">Active</a></li>
+									        		<li id="leaf_cat_244"><a href="/Collections/Girls-Size-8-20/Layers/">Layers</a></li>
+									        		<li id="leaf_cat_245"><a href="/Collections/Girls-Size-8-20/Accessories/">Accessories</a></li>
+									        		<li id="leaf_cat_261"><a href="/Collections/Girls-Size-8-20/Race/">Race</a></li>
 									</ul>
 								</li>
 				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_246');">Mini Boys Size 2-7</a>
 				            		<ul id="subcat_246" style="display: none">
-											<li id="leaf_cat_247"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Quest/">Mini Quest</a></li>
-											<li id="leaf_cat_248"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Spawn/">Mini Spawn</a></li>
-											<li id="leaf_cat_249"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Active/">Mini Active</a></li>
-											<li id="leaf_cat_250"><a href="/Collections/Mini-Boys-Size-2-7/Layers/">Layers</a></li>
-											<li id="leaf_cat_251"><a href="/Collections/Mini-Boys-Size-2-7/Accessories/">Accessories</a></li>
+									        		<li id="leaf_cat_247"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Quest/">Mini Quest</a></li>
+									        		<li id="leaf_cat_248"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Spawn/">Mini Spawn</a></li>
+									        		<li id="leaf_cat_249"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Active/">Mini Active</a></li>
+									        		<li id="leaf_cat_250"><a href="/Collections/Mini-Boys-Size-2-7/Layers/">Layers</a></li>
+									        		<li id="leaf_cat_251"><a href="/Collections/Mini-Boys-Size-2-7/Accessories/">Accessories</a></li>
 									</ul>
 								</li>
 				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_252');">Bitsy Girls Size 2-7</a>
 				            		<ul id="subcat_252" style="display: none">
-											<li id="leaf_cat_253"><a href="/Collections/Bitsy-Girls-Size-2-7/Bitsy-L-Series/">Bitsy L-Series</a></li>
-											<li id="leaf_cat_254"><a href="/Collections/Bitsy-Girls-Size-2-7/Itsy-Bitsy/">Itsy Bitsy</a></li>
-											<li id="leaf_cat_255"><a href="/Collections/Bitsy-Girls-Size-2-7/Bitsy-Active/">Bitsy Active</a></li>
-											<li id="leaf_cat_256"><a href="/Collections/Bitsy-Girls-Size-2-7/Layers/">Layers</a></li>
-											<li id="leaf_cat_257"><a href="/Collections/Bitsy-Girls-Size-2-7/Accessories/">Accessories</a></li>
+									        		<li id="leaf_cat_253"><a href="/Collections/Bitsy-Girls-Size-2-7/Bitsy-L-Series/">Bitsy L-Series</a></li>
+									        		<li id="leaf_cat_254"><a href="/Collections/Bitsy-Girls-Size-2-7/Itsy-Bitsy/">Itsy Bitsy</a></li>
+									        		<li id="leaf_cat_255"><a href="/Collections/Bitsy-Girls-Size-2-7/Bitsy-Active/">Bitsy Active</a></li>
+									        		<li id="leaf_cat_256"><a href="/Collections/Bitsy-Girls-Size-2-7/Layers/">Layers</a></li>
+									        		<li id="leaf_cat_257"><a href="/Collections/Bitsy-Girls-Size-2-7/Accessories/">Accessories</a></li>
 									</ul>
 								</li>
 								<li id="leaf_cat_"><a href="/Collections/Bags/">Bags</a></li>
@@ -524,7 +536,7 @@
 			</div><!--/.contentwrap -->
 <div class="footer">
 	<p class="links"><a href="/">Home</a>/<a href="/Site-Map.html">Site Map</a>/<a href="/YourPrivacy.html">Your Privacy</a>/<a href="http://www.facebook.com/spyderactivesports" target="_blank">Facebook</a>/<a href="http://twitter.com/iamspyder" target="_blank">Twitter</a></p>
-	<p class="copyright">Copyright © 2009 Spyder Active Sports, Inc. All Rights Reserved.</p>
+	<p class="copyright">Copyright © 2010 Spyder Active Sports, Inc. All Rights Reserved.</p>
 </div><!--/.footer-->
 	<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
