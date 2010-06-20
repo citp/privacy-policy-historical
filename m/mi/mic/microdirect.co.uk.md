@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the microdirect.co.uk privacy policy that was archived on 2007-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070816205040id_/http%3A//www.microdirect.co.uk/Content.aspx%3FContentType%3DNormal%26ArticleID%3D153) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microdirect.co.uk privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621011558id_/http%3A//www.microdirect.co.uk/Articles/Index/Normal/153) for the most accurate reproduction.*
 
-# Microdirect.co.uk is the UK leading retailer of quality computer components and electronics.,
+# Privacy Policy - microdirect.co.uk
 
 Micro Direct Ltd is committed to respecting your privacy. In general, you can visit Micro Direct Ltd without revealing any information about yourself. We do collect information regarding visitors to our website. Some information is required in order to process orders, for example, we analyze this data for trends and statistics to help us provide you with a better service.
 
