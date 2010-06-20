@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the egames.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912230023id_/http%3A//www.egames.com/support.php%3Fmode%3D2%26id%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egames.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620090640id_/http%3A//www.egames.com/privacy%2Bstatement.html) for the most accurate reproduction.*
 
-# Games - Download and Play Free Online Games! | eGames: Support > PRIVACY STATEMENT
-
-EGames has created this privacy statement in order to demonstrate our commitment to the privacy rights of our online visitors and to the purchasers of our products.
-
-Privacy Statement
+# Games - Download Free Online Games! | eGames: Support > PRIVACY STATEMENT
 
 eGames has created this privacy statement in order to demonstrate our commitment to the privacy rights of our online visitors and to the purchasers of our products. At eGames, we strive to help our customers protect their privacy while using our products and services. This privacy statement contains information about our website and our products. This privacy statement provides information about: what personally identifiable information of yours is collected; what organization is collecting the information; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; and how you can correct any inaccuracies in the information. Please note that this policy relates only to eGames.com. This policy does not apply to websites or products developed and/or maintained by other companies to which we link or which provide services to our website. 
 
@@ -34,13 +30,13 @@ When you purchase a product online or become a registered user of our website, y
 
 **The Way Your Information Is Used**
 
-The information you provide about yourself when purchasing a product is used by eGames and the third-party credit card processing service to complete that order. Customers who buy products from the eGames website are shopping on a secure server, which encrypts all of the customer’s personal information including name, email address and credit card number. Encryption is used to block access and use of this information in an unauthorized manner. The eGames’ shopping cart uses Secure Socket Layers. This means that the data being sent to the eGames server from your browser is encrypted using high-level encryption technology.
+The information you provide about yourself when purchasing a product is used by eGames and the third-party credit card processing service to complete that order. Customers who buy products from the eGames website are shopping on a secure server, which encrypts all of the customers personal information including name, email address and credit card number. Encryption is used to block access and use of this information in an unauthorized manner. The eGames shopping cart uses Secure Socket Layers. This means that the data being sent to the eGames server from your browser is encrypted using high-level encryption technology.
 
 The information you provide about yourself when becoming a registered user is used to analyze website traffic, to aggregate and analyze demographic information about visitors to our website, and for other business purposes, such as product development and marketing, advertising on our website, and business transactions with third parties.
 
 **Who Your Information is Shared With**
 
-When you become a registered user of our website, the information you provide – email address, username, zip code, gender and birth date -- allows eGames to send you information that may be of interest to users of our site, including special offers, news and updates that relate directly to your specific interests. As part of the registration process, we give you the opportunity to decline to receive any of these communications from us.  
+When you become a registered user of our website, the information you provide email address, username, zip code, gender and birth date -- allows eGames to send you information that may be of interest to users of our site, including special offers, news and updates that relate directly to your specific interests. As part of the registration process, we give you the opportunity to decline to receive any of these communications from us.  
 The data collected is used in the aggregate to give eGames demographic information about the entire audience registering to use the eGames wesbite. eGames uses this information to better understand that audience and to improve our offerings to our customers. We may also disclose this aggregated information to unaffiliated third parties (companies that are not owned or controlled by us) for various business purposes, including advertising, marketing and joint business efforts for related and unrelated products and services.  
 The information you provide when you purchase a product online is used to complete the transaction. Your personally identifiable information provided during the purchasing process is not shared with third parties, although aggregated demographic and purchasing information may be shared with third parties for advertising, marketing and other business purposes. 
 
@@ -54,9 +50,9 @@ You can access and change the information that we collect from you online during
 
 **Cookies**
 
-Cookies are pieces of information – in the form of a small text file - that a Web site transfers to an individual's hard drive. The cookie transmits information back to the server that placed it, and most times can only be read by that server. Cookies can make Web-surfing easier for website visitors by saving the user’s preferences while at our site.
+Cookies are pieces of information in the form of a small text file - that a Web site transfers to an individual's hard drive. The cookie transmits information back to the server that placed it, and most times can only be read by that server. Cookies can make Web-surfing easier for website visitors by saving the users preferences while at our site.
 
-The use of cookies is an industry standard -- you'll find them at most major Web sites. By showing how and when visitors use a site, cookies help us see which areas of our website are popular and which are not. Many improvements and updates to the site are based on the data collected by cookies such as the total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users’ needs. 
+The use of cookies is an industry standard -- you'll find them at most major Web sites. By showing how and when visitors use a site, cookies help us see which areas of our website are popular and which are not. Many improvements and updates to the site are based on the data collected by cookies such as the total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our users needs. 
 
 We have two primary uses for cookies. First, we use them to specify unique preferences. Secondly, we use cookies to track website user trends and patterns. This helps us to better understand and improve areas of our website. You may also get cookies from third-party advertisers. eGames does not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. 
 
@@ -64,15 +60,15 @@ Most Internet browsers are initially set up to accept cookies. You can reset you
 
 **Use of IP Addresses**
 
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the computers that "serve up" Web pages to your computer- automatically identify your computer by its IP address. eGames collects IP addresses for the purpose of tracking visitors’ usage of our site. We do not link IP addresses to any personally identifiable information, which means that a user's session will be logged, but the user remains anonymous to us. Personally identifiable information includes name, address, phone number and email address. 
+An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the computers that "serve up" Web pages to your computer- automatically identify your computer by its IP address. eGames collects IP addresses for the purpose of tracking visitors usage of our site. We do not link IP addresses to any personally identifiable information, which means that a user's session will be logged, but the user remains anonymous to us. Personally identifiable information includes name, address, phone number and email address. 
 
 **Advertising on our Website**
 
-eGames may use third-party online advertising services on its website to display advertisements throughout the eGames website. These third-party advertising services would be responsible for maintaining and displaying the advertisements you may see on our website. 
+eGames may use third-party online advertising services on its website to display advertisements throughout the eGames website. These third-party advertising services would be responsible for maintaining and displaying the advertisements you may see on our website. SpotXchange, serves ads on our website and collects information about users interaction with those ads - information that cannot identify a particular person. For more information about the privacy practices of our ad serving service provider, SpotXchange, please visit <http://www.spotxchange.com/spx_privacypolicy.html>. 
 
-These services typically use cookies to collect data from browsers to aggregate statistical information. This includes IP addresses, browser types, operating systems, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding viewing of advertisments. These services do not, and cannot, collect personally identifiable information about visitors to our website, such as email address, name, phone number and street address. 
+These services typically use cookies to collect data from browsers to aggregate statistical information. This includes IP addresses, browser types, operating systems, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding viewing of advertisements. These services do not, and cannot, collect personally identifiable information about visitors to our website, such as email address, name, phone number and street address. 
 
-**Children’s Guidelines**
+**Childrens Guidelines**
 
 eGames encourages parents and guardians to spend time online with their children and to participate in the activities offered by our website. No information should be submitted to or posted at eGames.com by customers under 13 years of age without the consent of their parent or guardian. All customers under the age of 13 are required to have a parent register online for them. We currently do not knowingly collect personally identifiable information from anyone under the age of 13. 
 
@@ -88,4 +84,4 @@ By using this website, you consent to this privacy policy. If you do not agree t
 
 Here at eGames, we continuously work to expand and improve the eGames.com website. When new features are added, we will incorporate the information collection and use practices stated in the policy. As our website and the products and services we provide evolve, we may revise this policy, so please check back frequently.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact us at [webmaster@egames.com](mailto:webmaster@egames.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact us at [webmaster@egames.com](mailto:webmaster@egames.com). 
