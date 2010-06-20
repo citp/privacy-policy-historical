@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024759id_/http%3A//www.sandiego.org/nav/Visitors/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620143256id_/http%3A//www.sandiego.org/nav/Visitors/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ This is the web site of the **San Diego Convention and Visitors Bureau**.
 
 Our postal address is   
 **2215 India Street  
-San Diego, CA 92111**
+San Diego, CA 92101**
 
 We can be reached via e-mail at [sdinfo@sandiego.org](mailto:sdinfo@sandiego.org)  
 or you can reach us by telephone at 619-236-1212
@@ -17,6 +17,8 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
 The information we collect is used to improve the content of our Web page.
+
+We have the right to reject any user content submitted for publication.
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site .
 
