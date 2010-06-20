@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231090537id_/http%3A//www.movoto.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620033832id_/http%3A//www.movoto.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Movoto Real Estate - Privacy Policy
 
@@ -61,6 +61,3 @@ Movoto requires our sales staff, affiliated real estate agents and other personn
 **Any Questions?** If you have any questions or concerns about the do-not-call rules, bring it immediately to the attention Movoto Customer Care. Our central office is located at 1155 Broadway St Ste 205, Redwood City, CA 94063. We can also be reached by fax at (650) 556-0060, or by phone at (888) 766-8686.
 
 © 2004-2009 by Movoto LLC. All rights reserved. Patent Pending. 
-
-  
-
