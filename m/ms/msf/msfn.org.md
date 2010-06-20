@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msfn.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217103309id_/http%3A//www.msfn.org/core_privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msfn.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620141411id_/http%3A//www.msfn.org/core_privacypolicy/index.html) for the most accurate reproduction.*
 
-# MSFN - Where People Go To Know
+# MSFN
 
 **Privacy Policy** for [www.msfn.org](http://www.msfn.org/)
 
