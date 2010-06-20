@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jajah.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217080812id_/http%3A//www.jajah.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jajah.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621001050id_/http%3A//www.jajah.com/policy/privacy) for the most accurate reproduction.*
 
-# JAJAH IP Telephony Platform / Low-Cost International Calls
+# Piattaforma di telefonia IP JAJAH / Chiamate internazionali low-cost
 
 The use of this website and its related software, upgrades or updates and all related services and special offers (the "Product") provided by JAJAH, Inc. are subject to the hereunder provisions of this Privacy Policy. 
 
