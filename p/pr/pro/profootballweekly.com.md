@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profootballweekly.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219144605id_/http%3A//www.profootballweekly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballweekly.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620210036id_/http%3A//www.profootballweekly.com/privacy) for the most accurate reproduction.*
 
 # ProFootballWeekly.com
 
