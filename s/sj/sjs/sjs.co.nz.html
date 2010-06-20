@@ -1,58 +1,32 @@
-<!--The following is the downloaded HTML source of the sjs.co.nz privacy policy that was archived on 2009-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219150119id_/http%3A//www.sjs.co.nz/en/General-Pages/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sjs.co.nz privacy policy that was archived on 2010-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620210629id_/http%3A//www.sjs.co.nz/en/General-Pages/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-    <!-- V1.7 -->
+    <!-- V1.11.1 -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	Student Job Search
 </title><link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen" charset="utf-8"><link rel="stylesheet" href="/css/print.css" type="text/css" media="print" charset="utf-8"><link rel="Stylesheet" href="/css/custom-theme/jquery-ui-1.7.2.custom.css" type="text/css">
-    <!--[if lte IE 6]><link rel="stylesheet" href="MasterPages/css/lib/ie.css" type="text/css" media="screen" charset="utf-8" /><![endif]-->
-
-    <script type="text/javascript" src="/Script/jquery-1.3.2.js"></script>
-
+    <!--[if lte IE 6]><link rel="stylesheet" href="/css/lib/ie.css" type="text/css" media="screen" charset="utf-8" /><![endif]-->
+    <script type="text/javascript" src="/Script/jquery-1.3.2.min.js"></script>
     <script type="text/javascript" src="/Script/jquery-ui-1.7.2.custom.min.js"></script>
-
     <script type="text/javascript" src="/Script/jquery-autocomplete.js"></script>
-
     <script type="text/javascript" src="/Script/jquery-tooltip.min.js"></script>
-
     <script type="text/javascript" src="/Script/ui.dropdownchecklist.js"></script>
-
     <script type="text/javascript">
         function GetChildDropDownListElements(parentControlCssClass, childControlCssClass, serviceMethod, serviceMethodParamName, childDropDownValue) {
             parentControlCssClass = '.' + parentControlCssClass + ':first';
             childControlCssClass = '.' + childControlCssClass + ':first';
             if ($(parentControlCssClass).val() != '00000000-0000-0000-0000-000000000000') {
-                $.ajax
-            (
-                {
-                    type: "POST",
-                    url: "/WebClientService.asmx/" + serviceMethod,
-                    data: "{'" + serviceMethodParamName + "': '" + $(parentControlCssClass).val() + "'}",
-                    contentType: "application/json; charset=utf-8",
-                    dataType: "json",
+                $.ajax({ type: "POST", url: "/WebClientService.asmx/" + serviceMethod, data: "{'" + serviceMethodParamName + "': '" + $(parentControlCssClass).val() + "'}", contentType: "application/json; charset=utf-8", dataType: "json",
                     success: function(msg) {
                         $(childControlCssClass).removeAttr("disabled");
                         var options = '';
-                        for (var i = 0; i < msg.d.length; i++) {
-                            options += "<option value='" + msg.d[i].Id + "'>" + msg.d[i].Name + "</option>";
-                        }
+                        for (var i = 0; i < msg.d.length; i++) { options += "<option value='" + msg.d[i].Id + "'>" + msg.d[i].Name + "</option>"; }
                         $(childControlCssClass).html(options);
-
-
-                        if (childDropDownValue && childDropDownValue != '') {
-                            $(childControlCssClass).val(childDropDownValue);
-                        }
-
+                        if (childDropDownValue && childDropDownValue != '') { $(childControlCssClass).val(childDropDownValue); }
                         $(childControlCssClass).change();
-
-                    },
-                    error: function(result) {
-                        //todo
-                        //alert(result.status + ' ' + result.statusText + '!');
                     }
-                }
-            );
+                });
             }
             else {
                 $(childControlCssClass).val('00000000-0000-0000-0000-000000000000');
@@ -61,7 +35,6 @@
             }
         }
     </script>
-
     </head><body><div>
 	<!-- BEGIN: SectionID -->
 <script language="javascript" type="text/javascript">
@@ -76,12 +49,11 @@ _m1IsActive=1;
 
     <form name="aspnetForm" method="post" action="/en/General-Pages/Privacy/" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI3MjAzMjk3MA9kFgJmD2QWAmYPZBYGAgEQZGQWAgIJDw8WBB4LX2lzRWRpdGFibGVoHglfbGFzdFR5cGUFB0RlZmF1bHRkZAIDEGRkFhBmDw8WBB8AaB8BBQdEZWZhdWx0ZGQCAQ9kFgQCAQ9kFgICAQ9kFgJmD2QWBAILDw8WAh4LTmF2aWdhdGVVcmwFNS90ZW1wbGF0ZXMvUGFzc3dvcmRSZWNvdmVyeS5hc3B4P2lkPTcxJmVwc2xhbmd1YWdlPWVuZGQCDQ8QDxYCHgdDaGVja2VkaGRkZGQCAw9kFgJmDxYCHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4xMzMsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwI1NRYKAgEPZBYCAgEPDxYGHwBoHg5fYm91bmRQYWdlTGluawI3HwEFB0RlZmF1bHRkZAICD2QWAgIBDw8WBh8AaB8FAlQfAQUHRGVmYXVsdGRkAgMPZBYCAgEPDxYGHwBoHwUCXx8BBQdEZWZhdWx0ZGQCBA9kFgICAQ8PFgYfAGgfBQJqHwEFB0RlZmF1bHRkZAIFD2QWAgIBDw8WBh8AaB8FAm8fAQUHRGVmYXVsdGRkAgIPZBYIAgMPZBYCAgEPDxYEHwBoHwEFB0RlZmF1bHRkZAIFD2QWAgIFD2QWCAIDDxAPFgYeDkRhdGFWYWx1ZUZpZWxkBQJJZB4NRGF0YVRleHRGaWVsZAUETmFtZR4LXyFEYXRhQm91bmRnZBAVBRtDYXN1YWwsIEZpeGVkLVRlcm0sIE9uZS1PZmYGQ2FzdWFsCkZpeGVkLVRlcm0HT25lLU9mZglQZXJtYW5lbnQVBSQwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAkNDBlOTI5MjAtYjk0ZS00OGQ1LWFhNGQtMjljODY4OGFhODFmJDAwZmIxNjkxLTU4OTEtNGQ4ZC1iODQ3LTRlMjUxMjEzYzNlOCRiOWQxYmVhNS1mODgzLTQ0Y2YtYjU1NC1mMzFlOTU0MDAyMDkkNWJiODEyMjgtNGQzNy00OTE5LWI4NTktZDdmMDMzYWUzZTA5FCsDBWdnZ2dnZGQCBQ8QDxYGHwYFAklkHwcFBE5hbWUfCGdkEBUSDkNsYXNzaWZpY2F0aW9uEkFydHMvRW50ZXJ0YWlubWVudApDYXJlZ2l2aW5nCUNoaWxkY2FyZRRGYXJtd29yay9BZ3JpY3VsdHVyZQxIb3J0aWN1bHR1cmULSG9zcGl0YWxpdHkLSVQvQ29tcHV0ZXIGTGFib3VyA0xhdx5PZmZpY2UvQWRtaW5pc3RyYXRpb24vQ2xlcmljYWwhUHJvZmVzc2lvbmFsL01hcmtldGluZy9BY2NvdW50aW5nClJlY3JlYXRpb24TUmVzZWFyY2gvTGFib3JhdG9yeQxTYWxlcy9SZXRhaWwRVHJhZGVzIEFzc2lzdGFuY2UJVHJhbnNwb3J0CFR1dG9yaW5nFRIkMDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDAwMDAwMDAwJDA5MWU2N2MxLTMwMDYtNDE4Yi1iNWRhLWNiMTM3M2JlNGVkYiQ2ODJmM2ExNC03NWQ4LTQ0MmYtYTA5Yi0zMTRiNDllYWIzZjIkOWY3ZTdkYmEtYzk0NC00YjQzLThmZjEtYmFkMjFiNWM0ZWE5JDdiY2ZiOThkLTgzZTYtNDA3YS04ZTc4LTI3NWJlODU5ZDc3NCQ1YTA1Njg2NC1mMzI4LTQ0YzYtYmUwNy04MTdhYzVhMWFiYjQkYmE1MDBkN2YtNzJkNS00Y2FhLWJmODktMDlkMjljMDUxYTM5JDJiNjk5M2Y0LWI3OTUtNDNlYi1iODVmLWU3NzgwYWNjNzA5NCQ4OGVmYzA1My0yMGM2LTQzYzYtOThmNy1jMWMwNDI5ZjFlOTAkYzQzZTE5OTQtYWNmNi00YWIyLTkzYmItMTc5MzhlYmYwOGMzJGYwMmJkZjM0LTY0Y2UtNGQ5MS1iNjIwLTcyMDVmNzcwZmZmMyRlY2RlMGQyMi1lZDUxLTQ0N2MtOGM0NC1lYTdkNjU2M2U3ZjgkZTYxZWE3MDMtYzE1My00ZmQxLThhNDItMmM5MmM4ODgwM2QzJGI5NzkxMGFlLWYyNjAtNDU3MS04YjRkLTZmNjBhYzg4NjY4YSQ3MTU5YTdiMC05YzVjLTQwYjYtYmNiNS0zYjE4ODJkZDVjYWIkZDA1ZGExM2EtZGY1NS00YmJjLTkzMzItMjFmOWU0YjkyZDM3JDQzYzIwYTBhLTdhZWItNDFmOC1hYzFhLTczMDg2ZDEyN2E4NiRhMTFlYjM3Yy1iMzE1LTQ4NDktOTg1NC01ODI1ZDkyZjRhMzYUKwMSZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBw8QDxYGHwYFAklkHwcFBE5hbWUfCGdkEBURBlJlZ2lvbg9BdWNrbGFuZCBSZWdpb24UQmF5IG9mIFBsZW50eSBSZWdpb24RQ2FudGVyYnVyeSBSZWdpb24QRWFzdCBDYXBlIFJlZ2lvbhJIYXdrZSdzIEJheSBSZWdpb24YTWFuYXdhdHUtV2FuZ2FudWkgUmVnaW9uEk1hcmxib3JvdWdoIFJlZ2lvbg1OZWxzb24gUmVnaW9uEE5vcnRobGFuZCBSZWdpb24MT3RhZ28gUmVnaW9uEFNvdXRobGFuZCBSZWdpb24PVGFyYW5ha2kgUmVnaW9uDVRhc21hbiBSZWdpb24OV2Fpa2F0byBSZWdpb24RV2VsbGluZ3RvbiBSZWdpb24RV2VzdCBDb2FzdCBSZWdpb24VESQwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAkYzE1Mjc3N2MtMTM2Yi00OWY5LTg4YjktZGI3NWI0NTYwOTAwJDYzY2ViNmFlLTZjMDAtNGJhZi1hNzQ0LTQ3OTYzZGRmMGM1YyRlNjEyMWZmMi04NGVkLTQzZDktODg5OS00ZDdjMGUyMDhjMzgkOWQ0Mjk1YzEtMjdlYi00YzExLTk3Y2EtNjlkMzY2YjQ1N2M3JDExZTUwZTg4LTkxYTQtNDI5My04M2UzLWMxMmI0NDAwOTQ3MiRkZmU5MmMzZS1mYmJlLTRkM2YtYjNmNi0zODNiOTljZGJiOGMkMjQ2OGYyZGQtZjAyMi00ZDhhLWIxOWEtZTdjMzAwMzYyNDhlJGUyNTc5NDg0LTllNmEtNDNkYi04N2IxLTA0ODE0Njg2MjZmMCQ4ODdmM2Q4ZS02MjI2LTQ5ZWUtOTllOC05YWE3N2UyYzJmZGIkZTExOTgwMmYtOWRiZS00YzhjLTljYjUtMTZkZmI4NTU2ZmJkJDE3ZmE5NWUwLTYyODgtNDY5NS04YmU2LTA5MjA3YjJmMTkyNSRkMzg2MzE3ZS1mNzMwLTQ4NmMtYjYzYi1lYjU0NzYwYTMxMTkkYWZlODE2OWUtZTQzYS00NzVhLWI3MTEtOThmOWVjN2I4YTgwJDZkMjc1MDYzLTZiNjYtNDQ0OC04Y2RkLWNhM2I0Zjg4YzVjYSQ2NmU0YzMyYi0yMzA0LTRiNjctOWIzNC0xN2U5YzBiODc2ZTEkYWI1N2MyOGUtMzA5YS00Njg4LWJkMjEtYmE4OWFhNjE0MzY1FCsDEWdnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCCQ8QZA8WAWYWARAFC0NpdHkgLyBUb3duBSQwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDBnFgFmZAILD2QWAgIBDw8WBB8AaB8BBQdEZWZhdWx0ZGQCDQ8PFgQfAGgfAQUHRGVmYXVsdGRkAgMPDxYEHwBoHwEFB0RlZmF1bHRkZAIEDw8WBB8AaB8BBQdEZWZhdWx0ZGQCBQ8PFgQfAGgfAQUHRGVmYXVsdGRkAgYPDxYEHwBoHwEFB0RlZmF1bHRkZAIHDw8WBB8AaB8BBQdEZWZhdWx0ZGQCBQ8PFgQfAGgfAQUHRGVmYXVsdGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBS1jdGwwMCRjdGwwMCRCYW5uZXJDb250cm9sJExvZ2luMSRMb2dpbjEkTG9naW4FMmN0bDAwJGN0bDAwJEJhbm5lckNvbnRyb2wkTG9naW4xJExvZ2luMSRSZW1lbWJlck1lBTZjdGwwMCRjdGwwMCRNYWluQ29udGVudFBsYWNlSG9sZGVyJFNlYXJjaCRzZWFyY2hCdXR0b27aCydlFQBcrTsQ/GB/AK9wLYZ7Vw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI3MjAzMjk3MA9kFgJmD2QWAmYPZBYGAgIQZGQWAgIJDw8WBB4LX2lzRWRpdGFibGVoHglfbGFzdFR5cGUFB0RlZmF1bHRkZAIEEGRkFhBmDw8WBB8AaB8BBQdEZWZhdWx0ZGQCAQ9kFgICAQ9kFgICAQ9kFgJmD2QWBAILDw8WAh4LTmF2aWdhdGVVcmwFNS90ZW1wbGF0ZXMvUGFzc3dvcmRSZWNvdmVyeS5hc3B4P2lkPTcxJmVwc2xhbmd1YWdlPWVuZGQCDQ8QDxYCHgdDaGVja2VkaGRkZGQCAg9kFggCAw9kFgICAQ8PFgQfAGgfAQUHRGVmYXVsdGRkAgUPZBYCAgUPZBYIAgMPEA8WBh4ORGF0YVZhbHVlRmllbGQFAklkHg1EYXRhVGV4dEZpZWxkBQROYW1lHgtfIURhdGFCb3VuZGdkEBUFG0Nhc3VhbCwgRml4ZWQtVGVybSwgT25lLU9mZgZDYXN1YWwKRml4ZWQtVGVybQdPbmUtT2ZmCVBlcm1hbmVudBUFJDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCQ0MGU5MjkyMC1iOTRlLTQ4ZDUtYWE0ZC0yOWM4Njg4YWE4MWYkMDBmYjE2OTEtNTg5MS00ZDhkLWI4NDctNGUyNTEyMTNjM2U4JGI5ZDFiZWE1LWY4ODMtNDRjZi1iNTU0LWYzMWU5NTQwMDIwOSQ1YmI4MTIyOC00ZDM3LTQ5MTktYjg1OS1kN2YwMzNhZTNlMDkUKwMFZ2dnZ2dkZAIFDxAPFgYfBAUCSWQfBQUETmFtZR8GZ2QQFRIOQ2xhc3NpZmljYXRpb24SQXJ0cy9FbnRlcnRhaW5tZW50CkNhcmVnaXZpbmcJQ2hpbGRjYXJlFEZhcm13b3JrL0FncmljdWx0dXJlDEhvcnRpY3VsdHVyZQtIb3NwaXRhbGl0eQtJVC9Db21wdXRlcgZMYWJvdXIDTGF3Hk9mZmljZS9BZG1pbmlzdHJhdGlvbi9DbGVyaWNhbCFQcm9mZXNzaW9uYWwvTWFya2V0aW5nL0FjY291bnRpbmcKUmVjcmVhdGlvbhNSZXNlYXJjaC9MYWJvcmF0b3J5DFNhbGVzL1JldGFpbBFUcmFkZXMgQXNzaXN0YW5jZQlUcmFuc3BvcnQIVHV0b3JpbmcVEiQwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAkMDkxZTY3YzEtMzAwNi00MThiLWI1ZGEtY2IxMzczYmU0ZWRiJDY4MmYzYTE0LTc1ZDgtNDQyZi1hMDliLTMxNGI0OWVhYjNmMiQ5ZjdlN2RiYS1jOTQ0LTRiNDMtOGZmMS1iYWQyMWI1YzRlYTkkN2JjZmI5OGQtODNlNi00MDdhLThlNzgtMjc1YmU4NTlkNzc0JDVhMDU2ODY0LWYzMjgtNDRjNi1iZTA3LTgxN2FjNWExYWJiNCRiYTUwMGQ3Zi03MmQ1LTRjYWEtYmY4OS0wOWQyOWMwNTFhMzkkMmI2OTkzZjQtYjc5NS00M2ViLWI4NWYtZTc3ODBhY2M3MDk0JDg4ZWZjMDUzLTIwYzYtNDNjNi05OGY3LWMxYzA0MjlmMWU5MCRjNDNlMTk5NC1hY2Y2LTRhYjItOTNiYi0xNzkzOGViZjA4YzMkZjAyYmRmMzQtNjRjZS00ZDkxLWI2MjAtNzIwNWY3NzBmZmYzJGVjZGUwZDIyLWVkNTEtNDQ3Yy04YzQ0LWVhN2Q2NTYzZTdmOCRlNjFlYTcwMy1jMTUzLTRmZDEtOGE0Mi0yYzkyYzg4ODAzZDMkYjk3OTEwYWUtZjI2MC00NTcxLThiNGQtNmY2MGFjODg2NjhhJDcxNTlhN2IwLTljNWMtNDBiNi1iY2I1LTNiMTg4MmRkNWNhYiRkMDVkYTEzYS1kZjU1LTRiYmMtOTMzMi0yMWY5ZTRiOTJkMzckNDNjMjBhMGEtN2FlYi00MWY4LWFjMWEtNzMwODZkMTI3YTg2JGExMWViMzdjLWIzMTUtNDg0OS05ODU0LTU4MjVkOTJmNGEzNhQrAxJnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIHDxAPFgYfBAUCSWQfBQUETmFtZR8GZ2QQFREGUmVnaW9uD0F1Y2tsYW5kIFJlZ2lvbhRCYXkgb2YgUGxlbnR5IFJlZ2lvbhFDYW50ZXJidXJ5IFJlZ2lvbhBFYXN0IENhcGUgUmVnaW9uEkhhd2tlJ3MgQmF5IFJlZ2lvbhhNYW5hd2F0dS1XYW5nYW51aSBSZWdpb24STWFybGJvcm91Z2ggUmVnaW9uDU5lbHNvbiBSZWdpb24QTm9ydGhsYW5kIFJlZ2lvbgxPdGFnbyBSZWdpb24QU291dGhsYW5kIFJlZ2lvbg9UYXJhbmFraSBSZWdpb24NVGFzbWFuIFJlZ2lvbg5XYWlrYXRvIFJlZ2lvbhFXZWxsaW5ndG9uIFJlZ2lvbhFXZXN0IENvYXN0IFJlZ2lvbhURJDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCRjMTUyNzc3Yy0xMzZiLTQ5ZjktODhiOS1kYjc1YjQ1NjA5MDAkNjNjZWI2YWUtNmMwMC00YmFmLWE3NDQtNDc5NjNkZGYwYzVjJGU2MTIxZmYyLTg0ZWQtNDNkOS04ODk5LTRkN2MwZTIwOGMzOCQ5ZDQyOTVjMS0yN2ViLTRjMTEtOTdjYS02OWQzNjZiNDU3YzckMTFlNTBlODgtOTFhNC00MjkzLTgzZTMtYzEyYjQ0MDA5NDcyJGRmZTkyYzNlLWZiYmUtNGQzZi1iM2Y2LTM4M2I5OWNkYmI4YyQyNDY4ZjJkZC1mMDIyLTRkOGEtYjE5YS1lN2MzMDAzNjI0OGUkZTI1Nzk0ODQtOWU2YS00M2RiLTg3YjEtMDQ4MTQ2ODYyNmYwJDg4N2YzZDhlLTYyMjYtNDllZS05OWU4LTlhYTc3ZTJjMmZkYiRlMTE5ODAyZi05ZGJlLTRjOGMtOWNiNS0xNmRmYjg1NTZmYmQkMTdmYTk1ZTAtNjI4OC00Njk1LThiZTYtMDkyMDdiMmYxOTI1JGQzODYzMTdlLWY3MzAtNDg2Yy1iNjNiLWViNTQ3NjBhMzExOSRhZmU4MTY5ZS1lNDNhLTQ3NWEtYjcxMS05OGY5ZWM3YjhhODAkNmQyNzUwNjMtNmI2Ni00NDQ4LThjZGQtY2EzYjRmODhjNWNhJDY2ZTRjMzJiLTIzMDQtNGI2Ny05YjM0LTE3ZTljMGI4NzZlMSRhYjU3YzI4ZS0zMDlhLTQ2ODgtYmQyMS1iYTg5YWE2MTQzNjUUKwMRZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIJDxBkDxYBZhYBEAULQ2l0eSAvIFRvd24FJDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMGcWAWZkAgsPZBYCAgEPDxYEHwBoHwEFB0RlZmF1bHRkZAINDw8WBB8AaB8BBQdEZWZhdWx0ZGQCAw8PFgQfAGgfAQUHRGVmYXVsdGRkAgQPDxYEHwBoHwEFB0RlZmF1bHRkZAIFDw8WBB8AaB8BBQdEZWZhdWx0ZGQCBg8PFgQfAGgfAQUHRGVmYXVsdGRkAgcPDxYEHwBoHwEFB0RlZmF1bHRkZAIGDw8WBB8AaB8BBQdEZWZhdWx0ZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFLWN0bDAwJGN0bDAwJEJhbm5lckNvbnRyb2wkTG9naW4xJExvZ2luMSRMb2dpbgUyY3RsMDAkY3RsMDAkQmFubmVyQ29udHJvbCRMb2dpbjEkTG9naW4xJFJlbWVtYmVyTWUFNmN0bDAwJGN0bDAwJE1haW5Db250ZW50UGxhY2VIb2xkZXIkU2VhcmNoJHNlYXJjaEJ1dHRvbgkqPLnxoI73VVEplWAf4BX3nrb6">
 </div>
 
-   
     <div id="page">
-     <div align="center">
+        <div align="center">
             <div>
 	<script type="text/javascript">
   GA_googleFillSlot("SJS_Banner");
@@ -92,7 +64,6 @@ _m1IsActive=1;
 
 </div>
         </div>
-        
         
 <div id="header">
     <div class="logo">
@@ -107,46 +78,53 @@ _m1IsActive=1;
             <table id="ctl00_ctl00_BannerControl_Login1_Login1" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
 	<tbody><tr>
 		<td>
-
-                        
-                        
                     
-                        <table>
-                            <tbody><tr>
-                                <td class="loginInstruction" rowspan="3"><p class="login-help-text">
+                    <table>
+                        <tbody><tr>
+                            <td class="loginInstruction" rowspan="3">
+                                <p class="login-help-text">
                                     <span>Already Registered? Sign in here. Need help? Call us on 0800 757 562</span>
-                                    </p>
-                                </td>
-                                <td>Email</td>
-                                <td><input name="ctl00$ctl00$BannerControl$Login1$Login1$UserName" type="text" id="ctl00_ctl00_BannerControl_Login1_Login1_UserName" class="email">
-                                    &nbsp;
-                                </td>
-                                <td>
-                                    Password
-                                </td>
+                                </p>
+                            </td>
+                            <td>
+                                Email
+                            </td>
+                            <td>
+                                <input name="ctl00$ctl00$BannerControl$Login1$Login1$UserName" type="text" id="ctl00_ctl00_BannerControl_Login1_Login1_UserName" class="UserName">
+                                &nbsp;
                                 
-                                <td>
-                                    <input name="ctl00$ctl00$BannerControl$Login1$Login1$Password" type="password" id="ctl00_ctl00_BannerControl_Login1_Login1_Password" class="password">
-                                    &nbsp;
-                                </td>
-                                <td>
-                                    <input type="image" name="ctl00$ctl00$BannerControl$Login1$Login1$Login" id="ctl00_ctl00_BannerControl_Login1_Login1_Login" class="button" src="/images/login_button.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$BannerControl$Login1$Login1$Login&quot;, &quot;&quot;, true, &quot;login&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
-                                </td>
-                                <td rowspan="2" class="forgotPasswordLink">
-                                    <a id="ctl00_ctl00_BannerControl_Login1_Login1_passwordRetreivalLink" href="/en/Shared-Pages/Password-Recovery/">Forgot Password?</a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;</td>
-                                <td class="rememberMe" colspan="4"><input id="ctl00_ctl00_BannerControl_Login1_Login1_RememberMe" type="checkbox" name="ctl00$ctl00$BannerControl$Login1$Login1$RememberMe"><label for="ctl00_ctl00_BannerControl_Login1_Login1_RememberMe">Remember me</label></td>
+                            </td>
+                            <td>
+                                Password
+                            </td>
+                            <td>
+                                <input name="ctl00$ctl00$BannerControl$Login1$Login1$Password" type="password" id="ctl00_ctl00_BannerControl_Login1_Login1_Password" class="password">
+                                &nbsp;
+                            </td>
+                            <td>
+                                <input type="image" name="ctl00$ctl00$BannerControl$Login1$Login1$Login" id="ctl00_ctl00_BannerControl_Login1_Login1_Login" class="button" src="/images/login_button.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$BannerControl$Login1$Login1$Login&quot;, &quot;&quot;, true, &quot;login&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
+                            </td>
+                            <td rowspan="2" class="forgotPasswordLink">
+                                <a id="ctl00_ctl00_BannerControl_Login1_Login1_passwordRetreivalLink" href="/en/Shared-Pages/Password-Recovery/">Forgot Password?</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="rememberMe" colspan="6">
+                                <input id="ctl00_ctl00_BannerControl_Login1_Login1_RememberMe" type="checkbox" name="ctl00$ctl00$BannerControl$Login1$Login1$RememberMe"><label for="ctl00_ctl00_BannerControl_Login1_Login1_RememberMe">Remember me</label>
+                           
+                                
+                            </td>
                             </tr><tr>
-                                <td colspan="6"> <h6 align="center" style="padding-top: 5px;">
-                                    </h6></td>
+                                <td colspan="6">
+                                    <h6 style="padding-top: 5px;">
+                                        </h6>
+                                </td>
                             </tr>
-                        </tbody></table>
-                </td>
-	</tr>
-</tbody></table>
+                        </tbody></table></td></tr>
+                    </tbody></table>
+                
+	
+
             
         </div>
     </div>
@@ -155,17 +133,12 @@ _m1IsActive=1;
 
     
 		<ul class="tabs">
-	
 			<li><a href="/en/">Home</a></li>
-	
+			<li><a href="/en/Feedback/">Feedback</a></li>
 			<li><a href="/en/Employers1/">Employers</a></li>
-	
 			<li><a href="/en/Students/">Students</a></li>
-	
 			<li><a href="/en/About-SJS/">About SJS</a></li>
-	
 			<li><a href="/en/Contact-us/">Contact us</a></li>
-	
 		</ul>
 	
 </div>
@@ -176,8 +149,7 @@ _m1IsActive=1;
         
     <a id="ctl00_ctl00_MainContentPlaceHolder_BannerContentRegion_TopBanner"></a>
 
-    </div>
-    
+    </div>  
     <div id="left-col">
         
             <div align="center">
@@ -194,29 +166,11 @@ _m1IsActive=1;
             </div>
         
     </div>
-    
     <div id="right-col">
         
-
-
-<script language="javascript" type="text/javascript">
-    $(document).ready(function() {
-        $('.RegionDropDownList').change(function() {
-            GetChildDropDownListElements('RegionDropDownList', 'SubRegionDropDownList', 'GetSubRegionWithHeaderRow', 'regionId');
-        });
-
-        $('.SubRegionDropDownList').change(function() {
-            $('.SubRegionHidden').val($('.SubRegionDropDownList').val());
-        });
-
-        
-        GetChildDropDownListElements('RegionDropDownList', 'SubRegionDropDownList', 'GetSubRegionWithHeaderRow', 'regionId', $('.SubRegionHidden').val());
-    });            
-</script> 
-
+<script language="javascript" type="text/javascript" src="/script/jquery-search.js"></script> 
 <input name="ctl00$ctl00$MainContentPlaceHolder$Search$SubRegionHidden" type="hidden" id="ctl00_ctl00_MainContentPlaceHolder_Search_SubRegionHidden" class="SubRegionHidden">
 <input name="ctl00$ctl00$MainContentPlaceHolder$Search$SubClassificationHidden" type="hidden" id="ctl00_ctl00_MainContentPlaceHolder_Search_SubClassificationHidden" class="SubClassificationHidden">
-
 <div id="ctl00_ctl00_MainContentPlaceHolder_Search_searchPanel">
 	
     <div class="search-panel">                 
@@ -240,7 +194,6 @@ _m1IsActive=1;
 	</select>
                 </p>
                 <p>
-                    
                     <label>Classification:</label>
                     <select name="ctl00$ctl00$MainContentPlaceHolder$Search$classificationDropDownList" id="ctl00_ctl00_MainContentPlaceHolder_Search_classificationDropDownList" class="ClassificationDropDownList">
 		<option value="00000000-0000-0000-0000-000000000000">Classification</option>
@@ -267,7 +220,6 @@ _m1IsActive=1;
 
                 <p>
                     <label>Region:</label>
-                    
                     <select name="ctl00$ctl00$MainContentPlaceHolder$Search$regionDropDownList" id="ctl00_ctl00_MainContentPlaceHolder_Search_regionDropDownList" class="RegionDropDownList">
 		<option value="00000000-0000-0000-0000-000000000000">Region</option>
 		<option value="c152777c-136b-49f9-88b9-db75b4560900">Auckland Region</option>
@@ -304,13 +256,9 @@ _m1IsActive=1;
     </div>
 
 </div>
-
         
-        
-            
         
     </div>
-    
     <div id="mid-col">
         
     <div class="introduction">
@@ -376,7 +324,6 @@ _m1IsActive=1;
 </div>
 
     </div>
-    
     <div class="rectangleAd">
         <div>
 	<script type="text/javascript">
@@ -385,7 +332,6 @@ _m1IsActive=1;
 
 </div>
     </div>
-  
 
         </div>
         <div id="footer">
@@ -401,24 +347,13 @@ _m1IsActive=1;
 </div>
             </div>
             <ul class="tabs">
-                <li>Copyright ©
-                    2009
-                    Student Job Search</li>
-                <li>
-                    <a href="/en/Contact-us/">Contact us</a>
-                </li>
-                <li>
-                    <a href="/en/General-Pages/Terms-and-Conditions/">Terms and Conditions</a>
-                </li>
-                <li>
-                    <a href="/en/General-Pages/Privacy/">Privacy Policy</a>
-                </li>
-                <li>
-                    <a href="/en/General-Pages/Links/">Links</a>
-                </li>
+                <li>Copyright © 2010 Student Job Search</li>
+                <li><a href="/en/Contact-us/">Contact us</a></li>
+                <li><a href="/en/General-Pages/Terms-and-Conditions/">Terms and Conditions</a></li>
+                <li><a href="/en/General-Pages/Privacy/">Privacy Policy</a></li>
+                <li><a href="/en/General-Pages/Links/">Links</a></li>
             </ul>
-            <p class="quiet">
-                Need help? Call us on 0800 757 562</p>
+            <p class="quiet">Need help? Call us on 0800 757 562</p>
         </div>
     </div>
     </form>
