@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urlz.net privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216193219id_/http%3A//www.urlz.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urlz.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620180718id_/http%3A//www.urlz.net/privacy.php) for the most accurate reproduction.*
 
 # URLZ Web Directory Privacy
 
