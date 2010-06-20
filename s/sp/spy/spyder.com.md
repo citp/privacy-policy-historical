@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyder.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220065555id_/http%3A//www.spyder.com/YourPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyder.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620225430id_/http%3A//www.spyder.com/YourPrivacy.html) for the most accurate reproduction.*
 
 # Spyder | Your Privacy
 
