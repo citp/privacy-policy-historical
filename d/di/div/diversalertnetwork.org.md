@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219151320id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620165028id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
 
 # DAN Divers Alert Network : Privacy Policy
 
