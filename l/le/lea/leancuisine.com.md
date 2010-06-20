@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leancuisine.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617090614id_/http%3A//www.leancuisine.com/Index/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leancuisine.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620210615id_/http%3A//www.leancuisine.com/Index/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# LEAN CUISINE® Nestlé USA Privacy Policy
+# LEAN CUISINE, Nestle USA Online Privacy Policy
 
 Effective Date: 10/25/2006  
 Last Updated On: 5/29/2009
@@ -281,3 +281,5 @@ If any of the options set forth above are not available or you wish to make a di
 Please be advised that if you permit your child to register on a Nestlé USA Site or participate in other Site activities available to children under 13, your child may also have the ability to review, modify, or delete his/her personal information associated with such registration or activity. This may include the ability to unsubscribe himself/herself from a feature that you’ve consented to.
 
 Any changes to this Children's Privacy Policy will be posted here and material changes will generally apply only to activities and information collected on a going forward basis. If we wish to materially change how we use your child's previously-collected personal information, we will notify you by email and seek the required parental consent.
+
+[](http://www.truste.org/ivalidate.php?companyName=Nestle%20USA,%20Inc.&sealid=105) [](http://www.truste.org/ivalidate.php?companyName=Nestle%20USA,%20Inc.&sealid=101)
