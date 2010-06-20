@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125080236id_/http%3A//womma.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620165915id_/http%3A//womma.org/privacy) for the most accurate reproduction.*
 
 # WOMMA's Privacy Policy
 
@@ -63,7 +63,7 @@ All WOMMA materials are copyrighted and permission to reprint them must be reque
 
 Permission to reprint is typically granted for educational and informational purposes only. The reprinted material must be attributed to WOMMA. Permission will not be granted to reprint all or portions of any WOMMA materials for resale or profit. Permission to reprint entire published documents will not be granted.
 
-Anyone wishing to reprint WOMMA materials should [download the permission request form here](https://web.archive.org/web/20091125080236id_/http%3A//womma.org/permission-request-form.doc), and email their request to WOMMA's editorial team at editor@womma.org, or fax it to 1-312-275-7687. 
+Anyone wishing to reprint WOMMA materials should [download the permission request form here](https://web.archive.org/web/20100620165915id_/http://womma.org/privacy/permission-request-form.doc), and email their request to WOMMA's editorial team at editor@womma.org, or fax it to 1-312-275-7687. 
 
 |    
   | 
@@ -74,14 +74,17 @@ Anyone wishing to reprint WOMMA materials should [download the permission reques
   
 |  |  |   
 ---|---|---  
-  | 
+  |  |    
+  |  | 
 
-|    
-  | 
-
-Updates and reactions to the FTC's Guides Concerning the Use of Endorsements and Testimonials in Advertising. [_Learn More_](http://womma.org/ftc/)
-
-|    
+[](http://womma.org/events/category/wine-wednesday/)  
+  
+---  
+  
+On June 30, CA residents have two WOMMA Wine Wednesdays headed towards them. The San Francisco event will cover "Social + Mobile," and the Los Angeles event will cover "Adapating Marketing Strategies for Location-Based Technology." The best part? They're free of charge to members and nommembers alike.  
+[_Learn more here and register today!_](http://womma.org/events/category/wine-wednesday/)  
+  
+   
 |  |   
 |  |   
 ---|---|---  
@@ -105,16 +108,6 @@ Download podcasts, presentation decks, and watch SlideShares of WOMMA Webinars a
 ---|---|---  
 |  |   
   
-[](http://womma.leveragesoftware.com/blog_post_view.aspx?BlogPostID=e84bf2f686984111a6a264a93e0f71b8)
-
-|  | 
-
-Word-of-Mouth Marketing Forecast 2009-2013  
-New research detailing the size, scope, & growth of the WOM industry, and projected spending for WOM activities in 2013.  
-[_Download PDF_](http://womma.leveragesoftware.com/blog_post_view.aspx?BlogPostID=e84bf2f686984111a6a264a93e0f71b8)  
-  
-|  |   
-  
 [](http://womma.org/wom101/wom101.pdf)
 
 |  | 
@@ -125,13 +118,13 @@ Learn the art and science of creating effective marketing programs that get cust
   
 |  |   
   
-[](http://womma.org/ethics/ethicstoolkit.pdf)
+[](http://womma.org/membercenter/ethicstoolkit.php)
 
 |  | 
 
 Ethics Toolkit  
 The WOMMA Ethics Toolkit defines best practices, baseline rules, and asks 20 questions to help you ethically comply.   
-[_Download PDF_](http://womma.org/ethics/ethicstoolkit.pdf)  
+[_Download PDF_](http://womma.org/membercenter/ethicstoolkit.php)  
   
    
 |  |   
@@ -140,18 +133,18 @@ The WOMMA Ethics Toolkit defines best practices, baseline rules, and asks 20 que
   |  |    
   | 
 
-Read about companies that do it right. 
+Learn from the brands and agencies that successfully developed and measured WOM campaigns. Stand on the shoulders of these giants, use their lessons learned, and grow your WOM knowledge. 
 
 |    
 |  |   
   |  | 
 
-31 Days of the Dragon  
-HP provided 31 HDX “Dragon” systems to 31 selected influencers for 31 days to give away to lucky readers of their sites. 31 top bloggers promoted the contest, HP, the HDX Dragon and each other, this has never happened before and it showed the collective power of a community banding together. Bloggers created and shared custom marketing materials, including a dedicated site, graphics, logos, videos and RSS feeds... [_more.._](http://www.womma.org/casestudy/examples/interact-with-bloggers/hp-and-buzz-corps-31-days-of-t/)  
+Random House - Random Buzzers Teen Community  
+In 2007, Affinitive worked with Random House on a “pilot” program to help promote a teen-oriented book for an unknown, first-time author. Based on the success of the program and demonstrated passion of teen readers, the program was expanded and “Random Buzzers” was launched.... [_more.._](http://www.womma.org/casestudy/examples/create-an-evangelism-program/random-house-random/)  
   
 ---  
   
-The Atlas Solution: Stimulate the Economy, and Creating Buzz  
-The client is an upscale shopping center that opened just two years ago in the middle of a working class area of Queens, New York. An outdoor center, the owner found that the most difficult time of year was the post-holiday winter months. With the economy slumping in January ‘08, the Shops wanted to create something that would generate a lot of attention, speak directly to consumers concerns about the economy, and drive traffic to the center... [_more.._](http://www.womma.org/casestudy/examples/generate-buzz/the-atlas-solution-stimulate-t/)  
+ABC Studios Advisory Panel: It’s Emmy Time!  
+ABC Studios had been working with Passenger’s customer collaboration platform and client services team to build and grow a private online community around fans of existing and new shows. The goal was to give producers and executives an opportunity to directly connect with viewers, engaging them in ongoing dialogue and incorporating that voice into the development of their shows... [_more.._](http://www.womma.org/casestudy/examples/work-with-online-communities/passengerenabled-community-hel/)  
   
  
