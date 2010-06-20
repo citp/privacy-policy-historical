@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designload.net privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213080353id_/http%3A//www.designload.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designload.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620230907id_/http%3A//www.designload.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
