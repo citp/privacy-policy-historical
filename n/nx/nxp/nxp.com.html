@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nxp.com privacy policy that was archived on 2009-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090522104205id_/http%3A//www.nxp.com/privacypolicy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nxp.com privacy policy that was archived on 2010-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620060859id_/http%3A//www.nxp.com/privacypolicy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -42,7 +42,7 @@
 		<div class="layout_container">
 			<div class="layout_header">
 	<div class="layout_header_left">
-		<a href="/" title="" name="top"><img src="/bbimages/logo.gif" alt=""></a>
+		<a href="/" title="NXP Semiconductors homepage" name="top"><img src="/bbimages/NXP_logo.gif" alt="NXP Semiconductors logo"></a>
 	</div>
 	<div class="layout_header_right">
 		
@@ -55,13 +55,13 @@
 		<div class="TM-seperator"><span></span></div>
 		<div class="TM-item"><a href="/news/">News</a></div>
 		<div class="TM-seperator"><span></span></div>
-		<div class="TM-item"><a href="/infocus/">In Focus</a></div>
-		<div class="TM-seperator"><span></span></div>
 		<div class="TM-item"><a href="/jobs/">Careers</a></div>
 		<div class="TM-seperator"><span></span></div>
 		<div class="TM-item"><a href="/investor/">Investors</a></div>
 		<div class="TM-seperator"><span></span></div>
-		<div class="TM-item"><a href="/technical_support/">Tech support</a></div>
+		<div class="TM-item"><a href="/orderportal/" onclick="if(typeof bb != 'undefined') { internal_link('/page/content=[f=/dynamic/orderportal/all/data.xml]'); return false; }">Order/buy</a></div>
+		<div class="TM-seperator"><span></span></div>		
+		<div class="TM-item"><a href="/technical_support/" onclick="if(typeof bb != 'undefined') { internal_link('/page/content=[f=/dynamic/supportportal/all/data.xml]'); return false; }">Tech support</a></div>
 		<div class="TM-seperator"><span></span></div>
 		<div class="TM-item"><a href="/support/">Contact</a></div>
 		<div class="TM-seperator"><span></span></div>
@@ -111,14 +111,15 @@ LP.initialize();
 					</div>
 				</div>
 			</div><div class="SP-advanced">
-				<a i18n_title="searchPanel.advancedSearchTitle" title="Go to the advanced search" href="/search/advanced/" shape="rect">Advanced search</a>
-				<a i18n_title="panel.selectionguides" title="Selection guides" href="/search/advanced/" shape="rect">Selection guides</a>
+				<a i18n_title="searchPanel.advancedSearch_selectionGuidesTitle" title="Go to the advanced search" href="/search/advanced/" onclick="if(typeof bb !='undefined'){internal_link('/page/content=[f=/static/search/advanced.xml]');return false;}" shape="rect">Advanced search / Selection guides</a>
+				<!--<a i18n_title="panel.selectionguides" title="Selection guides" i18n_text_="panel.selectionguides" href="/search/advanced/">Selection guides</a>-->
 			</div></form>
 	</div>
 	<script type="text/javascript" xml:space="preserve">
 		
 SP={};SP.self='';SP.inputDefault='';SP.inputElement='';SP.formElement='';SP.validate=function(input,mode){var sValue=input.value;if(mode=='focus'){input.className='text';if(sValue==SP.inputDefault){input.value='';}}else if(mode=='blur'){if(sValue==''){input.className='text inactive';input.value=SP.inputDefault;}}}
-SP.submit=function(mode){if(SP.inputElement.value!=''&&SP.inputElement.value!=SP.inputDefault){if(!mode||mode!='onsubmit'){SP.formElement.submit();}
+SP.submit=function(mode){if(SP.inputElement.value!=''&&SP.inputElement.value!=SP.inputDefault){if(typeof bb!='undefined'){_nxp.mainController.doSearch({value:SP.inputElement.value});SP.inputElement.value=SP.inputDefault;return false;}
+if(!mode||mode!='onsubmit'){SP.formElement.submit();}
 return true;}else{return false;}}
 SP.initialize=function(){var oForm=document.getElementById('SP_form');SP.formElement=oForm;var oInput=document.getElementById('SP_input');SP.inputElement=oInput;SP.inputDefault=oInput.value;}
 SP.initialize();
@@ -349,7 +350,6 @@ SP.initialize();
 			
 
 <div class="layout_footer">
-	<div class="endorser"><span></span></div>
 	<div id="footer-links" class="links">
 		<a href="/siteowner/index.html">NXP</a> |
 		<a href="/privacypolicy/index.html" rel="nofollow">Privacy policy</a> |
@@ -357,7 +357,7 @@ SP.initialize();
 		<a href="/sitemap/">Sitemap</a>
 	</div>
 	<div class="copyright">
-		©2006-2009 NXP Semiconductors. All rights reserved.
+		©2006-2010 NXP Semiconductors. All rights reserved.
 	</div>
 </div>
 		</div>
@@ -374,7 +374,7 @@ SP.initialize();
 				<script type="text/javascript" src="http://scripts.nxp.com/javascript/elqNow/elqCfg.js"></script>
 		<script type="text/javascript" src="http://scripts.nxp.com/javascript/elqNow/elqImg.js"></script>
 		<script type="text/javascript" src="http://scripts.nxp.com/javascript/urchin.js"></script>
-        <script type="text/javascript" src="http://nxp.taggingserver.netmining.com/"><!-- --></script>
+    <script type="text/javascript" src="http://nxp.taggingserver.netmining.com/"><!-- --></script>
 		<script type="text/javascript">
 			_uacct="UA-352656-6";_udn = "none"; _uOsr[20]="Inquiro"; _uOsr[21]="search.live.com"; _uOkw[20]="query"; _uOkw[21]="q"; _uOsr[7]="Baidu"; _uOkw[7]="wd"; _utimeout="600";_ulink=1; urchinTracker();addLinkerEvents();
 		</script>
@@ -393,6 +393,10 @@ SP.initialize();
 				s.channel = "MPI page";
 			}
 			
+			if (typeof sOmniturePageType != 'undefined' && sOmniturePageType == '404') {
+				s.pageType = 'errorPage';
+			}
+
 			if (typeof sOmnitureEvents != "undefined" && sOmnitureEvents != "" ) {
 				s.linkTrackEvents = sOmnitureEvents;
 				s.events = sOmnitureEvents;
