@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisedirect.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219130052id_/http%3A//www.franchisedirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisedirect.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620174138id_/http%3A//www.franchisedirect.com/privacy) for the most accurate reproduction.*
 
 # Franchise Direct > Privacy Policy
 
@@ -44,9 +44,9 @@ We recommend that you take every precaution to protect your personal information
 
 ##### TRUSTe
 
-Franchise Direct is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site [http://www.franchisedirect.com](http://www.franchisedirect.com/) .  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Franchise Direct is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site [http://www.franchisedirect.com](http://www.franchisedirect.com/) .  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact us at [privacy@franchisedirect.com](mailto:privacy@franchisedirect.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact us at [privacy@franchisedirect.com](mailto:privacy@franchisedirect.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url) TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Franchise Direct reserves the right to make material changes to it’s Privacy Statement These changes will be posted prominently to our privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
