@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the revision3.com privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220044618id_/http%3A//revision3.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the revision3.com privacy policy that was archived on 2010-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621005958id_/http%3A//revision3.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
     <title>Revision3 &gt; Privacy Policy</title>
-
     
     <script type="text/javascript">
       var BANNER_RAND = (Math.floor(Math.random() * 100000) + 10000).toString();
@@ -14,51 +13,64 @@
       function getBannerSection() {
           return BANNER_SECTION;
       }
+      var userMessagesOffset = -34;
     </script>
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    
+
     <meta name="description" content="Revision3 Privacy Policy.">
     <meta name="keywords" content="privacy policy">
     <link rel="shortcut icon" href="http://revision3.com/favicon.ico" type="image/vnd.microsoft.icon">
-    <link rel="stylesheet" type="text/css" href="http://revision3.com/_/css/darth.css?v=1.1" media="screen">
-    <link rel="stylesheet" type="text/css" href="http://revision3.com/_/css/structure.css?v=1.0" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://revision3.com/_/css/darth.css?v=2.0" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://revision3.com/_/css/structure.css?v=1.2" media="screen">
     <link rel="stylesheet" type="text/css" href="http://revision3.com/_/js/jquery/theme/ui.all.css" media="screen">
     <link rel="stylesheet" type="text/css" href="http://revision3.com/_/css/sIFR-all.css" media="all">
     <link rel="stylesheet" type="text/css" href="http://revision3.com/_/css/sIFR-screen.css" media="all">
 
-    
-    <script type="text/javascript" src="http://revision3.com/_/js/jquery/jquery-1.3.2.min.js"></script>
+
+    <script type="text/javascript" src="http://revision3.com/_/js/jquery/jquery-1.4.2.min.js"></script>
     <script type="text/javascript" src="http://revision3.com/_/js/jquery/jquery-swfobject.1-0-5.min.js"></script>
     <script type="text/javascript" src="http://revision3.com/_/js/jquery/jquery-ui-personalized-1.6rc6.min.js"></script>
-    <script type="text/javascript" src="http://revision3.com/_/js/darth.js?v=1.2"></script>
+    <script type="text/javascript" src="http://revision3.com/_/js/jquery/jquery.includeMany.js"></script>
+    <script type="text/javascript" src="http://revision3.com/_/js/jquery/jquery.copyable.js"></script>
+    <script type="text/javascript" src="http://revision3.com/_/js/darth.js?v=1.4"></script>
+    <script type="text/javascript" src="http://revision3.com/_/js/player.js?v=1.1"></script>
     <script type="text/javascript" src="http://revision3.com/_/js/sifr.js"></script>
+    <script type="text/javascript" src="http://platform.twitter.com/anywhere.js?id=ECeHl8YLQHnJyvD72z3qdw&amp;v=1"></script>
 
     <script type="text/javascript">
-      jQuery(document).ready(function() {
-        $('.tabs').tabs({ cache: true });
+    var _sf_startpt=(new Date()).getTime();
+    
+    jQuery(document).ready(function() {
+      $('.tabs').tabs({ cache: true });
+
+      $('#search-box .videoSearch').focus(function () { $(this).css('background-image', 'none'); });
+      $('#search-box .videoSearch').blur(function () { if (! $(this).val()) $(this).css('background-image', 'url(/_/images/darth/videosurf_bgbox.gif)'); });
+      $('a.playlistPlay').live('click', function() {
+          playerPlay($(this).attr('value'));
       });
+
+      $('a.playlistPrevious').live('click', function() {
+          playerPrevious();
+      });
+
+      $('a.playlistNext').live('click', function() {
+          playerNext();
+      });
+    });
+
+    twttr.anywhere(function(T) {
+  	  T.hovercards();
+  	  state.twitter = state.twitter || T;
+    });
     </script>
   </head>
 
   <body id="www-revision3-com">
-    <div id="theaterBlindsTop" class="theaterModeOff" style="display: none">
-      <div class="closeLink theaterModeOff"><a href="javascript:;">exit theater mode</a></div>
-    </div>
     <div id="header">
       <div class="content">
         <div class="header">
-          <div class="user-info clear">
-            <a class="logo" href="/"><img src="http://revision3.com/_/images/darth/logo.gif" width="173" height="63"></a>
-                    <div class="user">
-          <a class="avatar" href="http://revision3.com/register"><img src="http://revision3.com/_/images/tv-medium.gif" class="defaultAvatar"></a>
-          <h4>Welcome, Guest</h4>
-          <ul>
-            <li><a href="http://revision3.com/login" class="loginLink">Login</a></li>
-            <li><a href="http://revision3.com/register" class="registerLink">Register</a></li>
-          </ul>
-        </div>
-          </div>
+          <a class="logo" href="/"><img class="upperLogo" src="http://revision3.com/_/images/darth/logo_large.gif" width="212" height="69"></a>
           <div class="ad_leaderboard">
             <script type="text/javascript">
   var fwAd = '<scr' + 'ipt src="http://2819.v.fwmrm.net/ad/g/1?nw=10265&pvrn='
@@ -70,12 +82,12 @@
            + 'height="90" border="0" marginwidth="0" marginheight="0" frameborder="0" '
            + 'scrolling="no"></ifr' + 'ame></nosc' + 'ript>';
   document.write(fwAd);
-</script><script src="http://2819.v.fwmrm.net/ad/g/1?nw=10265&amp;pvrn=72165&amp;csid=watch&amp;resp=ad;;ptgt=s&amp;envp=g_js&amp;slid=header_728_90&amp;w=728&amp;h=90" language="javascript"></script><noscript><iframe src="http://2819.v.fwmrm.net/ad/g/1?nw=10265&pvrn=72165&csid=watch&resp=ad;;ptgt=s&envp=g_iframe&slid=header_728_90&w=728&h=90" width="728" height="90" border="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></noscript>          </div>
+</script><script src="http://2819.v.fwmrm.net/ad/g/1?nw=10265&amp;pvrn=70226&amp;csid=watch&amp;resp=ad;;ptgt=s&amp;envp=g_js&amp;slid=header_728_90&amp;w=728&amp;h=90" language="javascript"></script><noscript><iframe src="http://2819.v.fwmrm.net/ad/g/1?nw=10265&pvrn=70226&csid=watch&resp=ad;;ptgt=s&envp=g_iframe&slid=header_728_90&w=728&h=90" width="728" height="90" border="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></noscript>          </div>
         </div>
       
         <div class="search-bar">
           <form id="search-form" method="GET" action="http://revision3.com/search/search">
-            <div id="search-box"><input type="text" name="q"></div>
+            <div id="search-box"><input type="text" name="q" class="videoSearch"></div>
             <div id="search-button"><input type="submit" value="search"></div>
           </form>
         </div>
@@ -85,6 +97,7 @@
     <li class="expand shows">
       <a href="http://revision3.com/shows">Shows</a>
       <ul>
+        <li><a href="http://revision3.com/animetv">AnimeTV</a></li>
         <li><a href="http://revision3.com/appjudgment">AppJudgment</a></li>
         <li><a href="http://revision3.com/bytejacker">Bytejacker</a></li>
         <li><a href="http://revision3.com/coop">CO-OP</a></li>
@@ -92,11 +105,14 @@
         <li><a href="http://revision3.com/diggreel">The Digg Reel</a></li>
         <li><a href="http://revision3.com/diggnation">Diggnation</a></li>
         <li><a href="http://revision3.com/filmriot">Film Riot</a></li>
+        <li><a href="http://revision3.com/foodmob">Food Mob</a></li>
+        <li><a href="http://revision3.com/thegameshow">The Game Show</a></li>
         <li><a href="http://revision3.com/hak5">Hak5</a></li>
         <li><a href="http://revision3.com/hdnation">HD Nation</a></li>
         <li><a href="http://revision3.com/ifanboy">iFanboy</a></li>
         <li><a href="http://revision3.com/instmsgs">INST MSGS</a></li>
         <li><a href="http://revision3.com/landlinetv">LandlineTV</a></li>
+        <li><a href="http://revision3.com/pennpoint">Penn Point</a></li>
         <li><a href="http://revision3.com/pixelperfect">PixelPerfect</a></li>
         <li><a href="http://revision3.com/rofl">ROFL</a></li>
         <li><a href="http://revision3.com/scamschool">Scam School</a></li>
@@ -115,10 +131,12 @@
     <li class="expand deals">
       <a href="http://revision3.com/deals">Deals</a>
       <ul>
+        <li><a href="http://revision3.com/deals_electronics">Consumer Electronics</a></li>
         <li><a href="http://revision3.com/deals_hosting">Domains &amp; Web Hosting</a></li>
         <li><a href="http://revision3.com/deals_entertainment">Entertainment</a></li>
         <li><a href="http://revision3.com/deals_fooddrink">Food &amp; Drink</a></li>
-        <li><a href="http://revision3.com/deals_business">Business Tools</a></li>      </ul>
+        <li><a href="http://revision3.com/deals_business">Business Tools</a></li>
+      </ul>
     </li>
     <li class="expand community">
       <a href="http://revision3.com/forum">Community</a>
@@ -142,11 +160,39 @@
         <li><a href="http://revision3.com/studio">Studio Rental</a></li>
       </ul>
     </li>
-    <li class="static store"><a target="_STORE" href="http://store.revision3.com">Store</a></li>
+    <li class="expand store">
+      <a target="_STORE" href="http://store.revision3.com">Shop</a>
+      <ul>
+        <li><a target="_STORE" href="http://store.revision3.com">Revision3 Store</a></li>
+        <li><a target="_STORE" href="http://gamestore.revision3.com">PC Games</a></li>
+      </ul>
+    </li>
   </ul>
 </div>      </div>
     </div>
+    <div id="userBar">
+      <div class="content">
+                <div class="user clear">
+          <form action="http://revision3.com/login/auth" method="POST">
+            Username: <input type="text" name="email">
+            &nbsp; Password: <input type="password" name="password">
+            <input type="checkbox" id="rememberMeTop" name="rememberMe"><label for="rememberMeTop" style="margin-right: 5px">Remember Me</label>
+            <input class="login ui-form-button" type="submit" value="Login">
+          </form>
+          <div class="separator">|</div>
+          <div class="signupCall">Don't have an account? <a href="/register">Create a Revision3 account now</a>—it's easy!</div>
+        </div>
+      </div>
+    </div>
     <div id="main">
+<div id="userMessages" style="display: none;">
+  <div class="template rev3message"><div class="messageBox"><span class="notifyIcon"></span>
+  <span class="content"></span><span class="closeLink">click to close</span></div></div>
+</div>
+<div id="userErrors" style="display: none;">
+  <div class="template rev3error"><div class="messageBox"><span class="errorIcon"></span>
+<span class="content"></span><span class="closeLink">click to close</span></div></div>
+</div>
 <div id="breadcrumbs" class="clear"><p class="crumbs"><a href="/">Revision3</a></p><div id="loadSpinner" style="display: none"></div></div>
 <div class="content">
   <p>Revision3 knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Revision3 website, you are accepting the practices outlined in this Privacy Policy.</p>
@@ -226,7 +272,7 @@
            + 'height="90" border="0" marginwidth="0" marginheight="0" frameborder="0" '
            + 'scrolling="no"></ifr' + 'ame></nosc' + 'ript>';
   document.write(fwAd);
-</script><script src="http://2819.v.fwmrm.net/ad/g/1?nw=10265&amp;pvrn=72165&amp;csid=watch&amp;resp=ad;;ptgt=s&amp;envp=g_js&amp;slid=footer_728_90&amp;w=728&amp;h=90" language="javascript"></script><noscript><iframe src="http://2819.v.fwmrm.net/ad/g/1?nw=10265&pvrn=72165&csid=watch&resp=ad;;ptgt=s&envp=g_iframe&slid=footer_728_90&w=728&h=90" width="728" height="90" border="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></noscript>        </div>
+</script><script src="http://2819.v.fwmrm.net/ad/g/1?nw=10265&amp;pvrn=70226&amp;csid=watch&amp;resp=ad;;ptgt=s&amp;envp=g_js&amp;slid=footer_728_90&amp;w=728&amp;h=90" language="javascript"></script><noscript><iframe src="http://2819.v.fwmrm.net/ad/g/1?nw=10265&pvrn=70226&csid=watch&resp=ad;;ptgt=s&envp=g_iframe&slid=footer_728_90&w=728&h=90" width="728" height="90" border="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></noscript>        </div>
       	<div class="navigation">
       	  <div class="shows list">
       	    <h4>Shows</h4>
@@ -265,12 +311,11 @@
       	<div class="copyright">
       	  <a class="logo" href="/"><img src="http://revision3.com/_/images/darth/logo_footer.gif"></a>
           <p><a href="http://revision3.com/privacy">Privacy Policy</a><span class="grey"> | </span><a href="http://revision3.com/terms">Terms of Use</a></p>
-      	  <p>Copyright © 2009 Revision3</p>
+      	  <p>Copyright © 2010 Revision3</p>
       	  <p class="last">Some rights reserved</p>
       	</div>
       </div>
     </div>
-    <div id="theaterBlindsBottom" class="theaterModeOff" style="display: none"></div>
     <!-- Google Analytics -->
     <script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -299,6 +344,25 @@
       };
       //]]>
     </script>
+        
+    <!-- Chartbeat -->
+    <script type="text/javascript">
+    var _sf_async_config={uid:7338,domain:"revision3.com"};
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+           "static.chartbeat.com/js/chartbeat.js");
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+    </script>
   
-
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
