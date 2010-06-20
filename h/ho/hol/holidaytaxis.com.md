@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227053315id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620034517id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
 
-# Holiday Taxis | Airport Transfers | Airport Taxi | Minibus | Limousines
+# Holiday Taxis | Airport Transfers , Airport Taxis and Airport Shuttles
 
 ## Privacy Policy
 
@@ -28,9 +28,9 @@ Holiday Taxis have many trade partners who from time to time give us access to o
 
 ### Other Web sites
 
-There are several places on the Holiday Taxis Web site where you can link through to other sites. Once you click through onto another site, Holiday Taxis privacy practices no longer apply. We recommend you view privacy statements for all third party Web sites to understand their own policies for collecting and disclosing your information.
+There are several places on the Holiday Taxis Web site where you can link through to other sites. Once you click through onto another site, Holiday Taxis privacy practices no longer apply. We recommend you view privacy statements for all third party Websites to understand their own policies for collecting and disclosing your information.
 
-### Security and Data Protection
+### Security and Data Protection [(click here for more information)](https://web.archive.org/about/data-protection.php)
 
 In addition and as required by the UK Data Protection Legislation, (Acts of 1984 and 1998) we follow strict security procedures in the storage and disclosure of information which you have given to us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you.
 
