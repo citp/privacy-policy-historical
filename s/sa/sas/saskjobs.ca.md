@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saskjobs.ca privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219130219id_/http%3A//www.aee.gov.sk.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskjobs.ca privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620173505id_/http%3A//www.aee.gov.sk.ca/privacy) for the most accurate reproduction.*
 
-# Internet Privacy Policy - Advanced Education, Employment and Labour -
+# Internet Privacy Policy - Advanced Education, Employment and Labour - Government of Saskatchewan
 
 The Government of Saskatchewan and the Ministry of Advanced Education, Employment and Labour are committed to protecting your privacy. Its entire operations, including this web site, are subject to "[The Freedom of Information and Protection of Privacy Act](http://www.justice.gov.sk.ca/Freedom-of-Information-and-Protection-of-Privacy-Act)". The points below summarize the privacy policy and practices on the Ministry of Advanced Education, Employment and Labour web sites.
 
@@ -31,10 +31,9 @@ The Government of Saskatchewan and the Ministry of Advanced Education, Employmen
 
 Questions or comments regarding this policy or the administration of The Freedom of Information and Protection of Privacy Act in the Ministry of Advanced Education, Employment and Labour may be directed to: **Jan Gray  
 **Ministry of Advanced Education, Employment and Labour  
-4th Floor, 1870 Albert Street  
-Regina SK  S4P 4W1   
-Phone: (306) 787-2638  
-Fax: (306) 787-7229   
+15th Floor, 1945 Hamilton Street  
+Regina SK  S4P 2CB   
+Phone: 306.787.2638  
 Email: [privaca@gov.sk.ca](mailto:privaca@gov.sk.ca)
 
 If you are not satisfied with our response to your privacy concern, you may wish to contact the: 
@@ -42,7 +41,7 @@ If you are not satisfied with our response to your privacy concern, you may wish
 [Saskatchewan Information and Privacy Commissioner](http://www.oipc.sk.ca/)  
 503-1801 Hamilton St.  
 Regina SK  S4P 4B4  
-Tel: (306) 787-8350  
-Fax: (306) 798-1603 
+Tel: 306.787.8350  
+Fax: 306.798.1603 
 
 The _Office of_ _The Information and Privacy Commissioner_ Website offers a variety of downloadable forms. 
