@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hustlermoneyblog.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218011220id_/http%3A//www.hustlermoneyblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlermoneyblog.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620033603id_/http%3A//www.hustlermoneyblog.com/privacy) for the most accurate reproduction.*
 
-# Privacy : Hustler Money Blog
+# Privacy | Hustler Money Blog
 
 **HustlerMoneyBlog** is committed to protecting your privacy when you visit  
 our Web site. You can access **HustlerMoneyBlog** and browse our site without  
