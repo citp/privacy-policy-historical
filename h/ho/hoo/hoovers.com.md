@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoovers.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228021745id_/http%3A//www.hoovers.com/about/legal/100000523-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoovers.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620024726id_/http%3A//www.hoovers.com/about/legal/100000523-1.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hoover's: The most comprehensive business information available
 
@@ -54,7 +54,7 @@ From time to time, Hoover's compiles online and offline transaction and registra
 
 Hoover's respects your privacy preferences and offers the following ways through which you may control how we contact you and disclose your information. We will honor your requests accordingly. 
 
-**Hoover's E-mail Marketing:** We provide individuals with the opportunity to opt out of receiving Hoover's promotional e-mails, newsletters and updates about new Hoover's products and services. You can manage your e-mail communication preferences in our [E-mail Preference Center](https://web.archive.org/products/100001020-1.html) or you may call Hoover's Customer Support at 1-800-486-8666 and opt out of our promotional e-mails. You may change your preferences at any time. We may continue to send you transactional or service-related e-mails, such as communications regarding your account or subscription service, despite your desire to not receive promotional or marketing e-mail messages. 
+**Hoover's E-mail Marketing:** We provide individuals with the opportunity to opt out of receiving Hoover's promotional e-mails, newsletters and updates about new Hoover's products and services. You can manage your e-mail communication preferences in our [E-mail Preference Center](http://em.hoovers.com/CustomerPower/10000/sign-in.asp) or you may call Hoover's Customer Support at 1-800-486-8666 and opt out of our promotional e-mails. You may change your preferences at any time. We may continue to send you transactional or service-related e-mails, such as communications regarding your account or subscription service, despite your desire to not receive promotional or marketing e-mail messages. 
 
 **Hoover's Telemarketing:** We provide businesses with the opportunity to place themselves on our company's internal Do Not Call list should they no longer wish to receive telemarketing calls from us. We may continue to call you for transactional or service-related purposes despite your desire to not receive telemarketing calls. 
 
@@ -66,7 +66,7 @@ Hoover's respects your privacy preferences and offers the following ways through
 
 ## Hoover's Community Forum 
 
-When you sign up to participate in Hoover's Community Forum, we will collect personally identifiable information in order to establish your profile. You may choose to make certain individual profile elements public, in which case that information will be available to Hoover's Community Forum website visitors and possibly to other users of the Internet. If you post information to Hoover's Community Forum, it may be viewable to anyone online. Your postings will be associated with your username and your voluntarily created public profile. 
+When you sign up to participate in Hoover's Community Forum, we will collect personally identifiable information in order to establish your profile. You may choose to make certain individual profile elements public, in which case that information will be available to Hoover's Community Forum website visitors and possibly to other users of the Internet. Any information that you submit and post via Hoover's Community Forum will be available to Community Forum website visitors and may be viewable to anyone online. Your postings will be associated with your username and your voluntarily created public profile. Violation of our Terms of Use agreement may result in the removal of your post(s) and/or the termination of your membership. 
 
 ## Access and Correction 
 
@@ -90,7 +90,7 @@ We use third party advertising companies to serve our Internet ad banners on our
 
 These third party advertising networks also track visitors' online usage and behavior patterns. These companies may use information about your visits to Hoover's and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. The result of these efforts is the creation of an online profile that attempts to predict individual user interests, preferences and purchasing habits. The third party advertising networks then accordingly customize the advertising content served to users when visiting other websites. 
 
-The _Network Advertising Initiative_ (NAI) is a self-regulatory cooperative of online marketing and analytics companies. The NAI provides educational content and opt-out tools to help Internet users learn about and address online behavioral marketing practices. Through the NAI's online options, you may opt out of particular NAI network members' behavioral advertising programs or you may opt out of all NAI network members' programs. Opting out will prevent the given network from which you opted out from using your Web preferences and usage patterns to deliver targeted online ads. The NAI opt-out only works with participating third party advertising networks that use cookies and Web beacons to execute their advertising initiatives. If you would like additional information about online behavioral marketing and your options regarding these standard Internet practices, please visit the [NAI website](http://www.networkadvertising.org/). 
+The _Network Advertising Initiative_ (NAI) is a self-regulatory cooperative of online marketing and analytics companies. The NAI provides educational content and opt-out tools to help Internet users learn about and address online behavioral marketing practices. Through the NAI's online options, you may opt out of particular NAI network members' behavioral advertising programs or you may opt out of all NAI network members' programs. Opting out will prevent the given network from which you opted out from using your Web preferences and usage patterns to deliver targeted online ads. The NAI opt-out only works with participating third party advertising networks that use cookies and Web beacons to execute their advertising initiatives. If you would like additional information about online behavioral marketing and your options regarding these standard Internet practices, please visit the [NAI website](http://www.networkadvertising.org/). Our third-party advertisers may also use Omniture to place third-party cookies on your browser in order to collect anonymous and aggregated session data, such as the ads that are viewed. You may opt out of _Omniture's_ cookie tracking by visiting the [_Omniture_ website](http://www.omniture.com/en/privacy/policy#optout). 
 
 ## Data Security 
 
@@ -100,11 +100,11 @@ There is no such thing as "guaranteed security," whether conducting business onl
 
 Data security is our priority and we commit ourselves to safeguarding our customers' data. We do this by: 
 
-  * Establishing policies and procedures for securely managing information;
+  * Establishing policies and procedures for securely managing information; 
   * Limiting employee access to sensitive information; 
   * Protecting against unauthorized access to customer data by using data encryption, authentication and virus detection technology, as required; 
   * Requiring service providers with whom we do business to comply with relevant Data Privacy legal and regulatory requirements; 
-  * Monitoring our websites through recognized online privacy and security organizations;
+  * Monitoring our websites through recognized online privacy and security organizations; 
   * Conducting background checks on employees and providing Data Privacy training to our team members; and 
   * Continually assessing our Data Privacy, information management and data security practices. 
 
@@ -130,6 +130,6 @@ D&B
 Short Hills, NJ 07078   
 [privacyofficer@dnb.com](mailto:privacyofficer@dnb.com)
 
-**Privacy Policy Effective Date: November 19, 2009**
+**Privacy Policy Effective Date: April 21, 2010**
 
-© Hoover's, Inc., 2009. All rights reserved. 
+© Hoover's, Inc., 2010. All rights reserved. 
