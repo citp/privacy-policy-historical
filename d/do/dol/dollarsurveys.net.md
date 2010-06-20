@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dollarsurveys.net privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130103911id_/http%3A//www.dollarsurveys.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarsurveys.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620174346id_/http%3A//www.dollarsurveys.net/privacy.asp) for the most accurate reproduction.*
 
-# DollarSurveys!
+# Paid Online Surveys for Free
 
 This privacy policy sets out how DollarSurveys.net uses and protects any information that you give DollarSurveys.net when you use this website. 
 
