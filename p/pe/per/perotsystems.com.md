@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the perotsystems.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616110222id_/http%3A//www.perotsystems.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perotsystems.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621000742id_/http%3A//www.perotsystems.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Perot Systems - Privacy Policy
+# Privacy Policy - Perot Systems
 
-We recognize that you care how information about you is collected and used. Our Online Privacy Policy has been developed to guide us in the collection and use of information about visitors to this Web site while respecting their privacy rights. Additionally, information collected, retained, or used through or in connection with this Site is subject to our [Personal Data Privacy Policy](https://web.archive.org/web/20090616110222id_/http%3A//www.perotsystems.com/Responsibility/personaldataprivacy). 
+We recognize that you care how information about you is collected and used. Our Online Privacy Policy has been developed to guide us in the collection and use of information about visitors to this Web site while respecting their privacy rights. Additionally, information collected, retained, or used through or in connection with this Site is subject to our [Personal Data Privacy Policy](https://web.archive.org/web/20100621000742id_/http%3A//www.perotsystems.com/Responsibility/personaldataprivacy). 
 
 ## GENERAL
 
-Perot Systems Corporation and its subsidiaries and affiliates (collectively, "Perot Systems") are committed to privacy and data protection and have no desire or intent to infringe on your privacy rights. This Perot Systems Online Privacy Policy ("Online Privacy Policy") and our [Personal Data Privacy Policy ](https://web.archive.org/web/20090616110222id_/http%3A//www.perotsystems.com/Responsibility/personaldataprivacy)(collectively, the "Privacy Policies") are intended to tell you about the type of information that is collected on this web site ("Site") and how such information is used.
+Perot Systems Corporation and its subsidiaries and affiliates (collectively, "Perot Systems") are committed to privacy and data protection and have no desire or intent to infringe on your privacy rights. This Perot Systems Online Privacy Policy ("Online Privacy Policy") and our [Personal Data Privacy Policy ](https://web.archive.org/web/20100621000742id_/http%3A//www.perotsystems.com/Responsibility/personaldataprivacy)(collectively, the "Privacy Policies") are intended to tell you about the type of information that is collected on this web site ("Site") and how such information is used.
 
 By using our Site, you consent to the collection, use, transfer, and storage of your information by Perot Systems in the manner described in the Privacy Policies. If you do not agree with the Privacy Policies, you should cease use of this Site immediately. 
 
