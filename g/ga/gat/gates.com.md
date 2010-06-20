@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231225352id_/http%3A//www.gates.com/privacy.cfm%3Flocation_id%3D225) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621001728id_/http%3A//gates.com/privacy.cfm%3Flocation_id%3D225) for the most accurate reproduction.*
 
 # The world's most trusted name in belts, hoses & hydraulics | Gates Corporation
 
@@ -23,10 +23,10 @@ This site has security measures in place to protect the loss, misuse and alterat
 Gates Corporation may occasionally send you an email regarding products, services and site updates, as well as special offers if you stated that you were interested in receiving such offers when registering at the Gates Corporation Web site. As well our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor, although occasionally we may be required to send you information via email we deem to be important.  
 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.   
+This site gives users the following options for removing their information from our database to not receive future email communications or to no longer receive our service.   
 
 
-  1. Via an online form(s)
+  1. [Via an Unsubscribe Form(s)](http://www.gates.com/unsubscribe.cfm)
 
 
 
@@ -38,7 +38,7 @@ Effective Date of Privacy Statement: 9/13/05
 This site gives users the following options for changing and modifying information previously provided.   
 
 
-  1. Via an online form(s)
+  1. [Via a Registration Form(s)](http://www.gates.com/login/index.cfm?fromloggin=1)
 
 
 
