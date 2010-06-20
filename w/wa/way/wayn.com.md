@@ -1,53 +1,48 @@
-> *The following text is extracted and transformed from the wayn.com privacy policy that was archived on 2007-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070930020520id_/http%3A//www.wayn.com/wayn.html%3Fwci%3Dstaticpage%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wayn.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621004802id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.*
 
-# WAYN.COM - Privacy Policy
+# Privacy Policy - WAYN.COM
 
-**This privacy policy was last updated on the following date: 11th July 2007**
+|   | 
 
-This privacy policy relates to the following domains owned and operated by Where Are You Now? Ltd:
+**This Privacy Policy was last updated on the following date: 12th September 2008**
 
-  * wayn.com
-  * wayn.net
-  * wayn.org
-  * wayn.co.uk
-  * wayn.eu
-  * whereareyounow.com
-  * whereareyounow.net
-  * whereareyounow.org
-  * whereareyounow.co.uk
-  * whereareyounow.eu
-  * waynlist.com
-  * waynlist.net
-  * waynlist.org
-  * waynlist.co.uk
-  * waynlist.eu
+This Privacy Policy relates to the following domains owned and operated by Where Are You Now? Ltd: 
+
+  * wayn.com 
+  * wayn.net 
+  * wayn.org 
+  * wayn.co.uk 
+  * wayn.eu 
+  * whereareyounow.com 
+  * whereareyounow.net 
+  * whereareyounow.org 
+  * whereareyounow.co.uk 
+  * whereareyounow.eu 
+  * waynlist.com 
+  * waynlist.net 
+  * waynlist.org 
+  * waynlist.co.uk 
+  * waynlist.eu 
 
 
 
-The Privacy Policy can be found at the bottom of most pages on the WAYN Service and is accessible from the following link: <http://www.wayn.com/privacy.html> If you have any queries in relation to this Privacy Policy, you can email us at: [support@wayn.com](mailto:support@wayn.com) This is a legal document which sets out how Where Are You Now? handles data which identifies you. This Privacy Policy forms part of our Term and Conditions. At Where Are You Now? We believe strongly in protecting the privacy of our Members' personal information. This statement describes the privacy practices we apply for the WAYN Service. As part of that, it also expresses our approach to complying with the data protection laws which apply in the United Kingdom. If you have questions or concerns regarding this statement, you should contact Where Are You Now?'s customer services at [dataprotection@wayn.com](mailto:dataprotection@wayn.com). 
-
-Where Are You Now Ltd is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.wayn.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact our privacy staff at [support@wayn.com](mailto:support@wayn.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe Watchdog at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-  
-[ ](http://www.truste.org/ivalidate.php?url=www.wayn.com)
+If you have any queries in relation to this Privacy Policy, you can email us at:  [ support@wayn.com](mailto:support@wayn.com) This is a legal document which sets out how Where Are You Now? handles data which identifies you. This Privacy Policy forms part of our Term and Conditions. At Where Are You Now? we believe strongly in protecting the privacy of our Members' personal information. This statement describes the privacy practices we apply for the WAYN Service. As part of that, it also expresses our approach to complying with the data protection laws which apply in the United Kingdom. If you have questions or concerns regarding this statement, you should contact the Where Are You Now? customer services at [dataprotection@wayn.com](mailto:dataprotection@wayn.com). 
 
 **1\. The information we gather and track**
 
-Information gathered on registration. When you register for the WAYN Service, you provide your name, your email address, your gender, your date of birth, nationality, your location details and some optional details about yourself ("Registration Information"). They are available to you, and capable of being corrected or updated, through the "Profile" page 
+**Information gathered on registration.** When you register for the WAYN Service, you provide your name, your email address, your gender, your date of birth, nationality, your location details and some optional details about yourself. They are available to you, and capable of being corrected or updated, through your WAYN profile page 
 
-Cookies. We use small files known as "cookies" to enhance users' experience of the Where Are You Now? Service as follows: 
+**Cookies.** We use small files known as "cookies" to enhance users' experience of the Where Are You Now? Service as follows: 
 
-To hold Members' login information, so that your location details and contact information are displayed when you visit the WAYN Service. This option can be disabled by clicking the "logoff" icon which appears at the top right hand corner of every page. 
+  * To hold Members' login information, so that your location details and contact information are displayed when you visit the WAYN Service. This option can be disabled by clicking the "logoff" icon which appears at the top right hand corner of every page. 
+  * To facilitate optimal use of the WAYN Service by Members, by means of a temporary "session" cookie. These cookies disappear when the Member's browser session ends, or if the Member clicks the "logoff" icon which appears on the WAYN Service. 
+  * In the course of running advertisements or sponsored areas on this site, a third-party advertiser or sponsor may place on your browser (and subsequently recognize) a unique cookie or pixel. 
+  * Google, as a third-party advertiser, uses cookies to serve ads on this site. Its use of the DART cookie enables Google to serve ads to you based on your use of the WAYN Service and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [www.google.co.uk/privacy_ads.html](http://www.google.co.uk/privacy_ads.html)
+  * We use third-party advertising companies to serve ads when you visit the WAYN Service. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites (non-personal information) in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, click here [www.google.co.uk/privacy_ads.html](http://www.google.co.uk/privacy_ads.html).
+  * The cookies on the WAYN Service do not access or use information by which people can be personally identified. If you wish, you can prevent these files from using non-personal information about you by either deleting the cookie folder in your browser or by putting your browser's Privacy setting higher, but doing so will mean that you will not be able to use the WAYN Service in the way that we intend it to be used, will not be presented with advertising that reflects the way that you use our, and other, websites and may well adversely affect your experience of websites that use cookies to enhance or personalize that experience. 
+  * You can find out how to make these changes to your browser at this site:[ http://www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/)
 
-To facilitate optimal use of the WAYN Service by Members, by means of a temporary "session" cookie. These cookies disappear when the Member's browser session ends, or if the Member clicks the "logoff" icon which appears on the WAYN Service. 
 
-In the course of serving advertisements to this site, a third-party advertiser may place or recognize a unique "cookie" on your browser. 
-
-The WAYN Service also includes cookies provided by an online advertising network that helps more precisely to target advertising to Members, based on their activity on this and other sites within the network. 
-
-The cookies on the WAYN Service do not access or use information by which people can be personally identified. If you wish, you can prevent these files from using non-personal information about you by either deleting the cookie folder in your browser or by putting your browser's Privacy setting higher, but doing so will mean that you will not be able to use the WAYN Service in the way that we intend it to be used, will not be presented with advertising that reflects the way that you use our, and other, websites and may well adversely affect your experience of websites that use cookies to enhance or personalize that experience. 
-
-You can find out how to make these changes to your browser at this site:[ http://www.allaboutcookies.org/manage-cookies/"](http://www.allaboutcookies.org/manage-cookies/)
 
 **2\. Access to Personally Identifiable Information**
 
@@ -63,11 +58,11 @@ The information we collect may be used:
 
 
 
-If your personally identifiable information or email address changes, or if you no longer wish to be a Member of the WAYN Service, you may correct, update, delete or deactivate your Membership through the Member's account settings menu option found at the top of most pages when logged on to the WAYN Service. Alternatively, you can email WAYN Customer Support at the following email: [support@wayn.com](mailto:support@wayn.com) or by mail to: Where Are You Now Ltd, 123 Aldersgate Street, London, EC1A 4JQ, United Kingdom, or by telephone during normal office hours of 9am to 5pm GMT Monday to Friday on: 0871 700 700 1. We will endeavour to respond to all email enquires within 2 working days. 
+If your personally identifiable information or email address changes, or if you no longer wish to be a Member of the WAYN Service, you may correct, update, delete or deactivate your Membership through the Member's account settings menu option found at the top of most pages when logged on to the WAYN Service. Alternatively, you can email WAYN Customer Support at the following email: [support@wayn.com](mailto:support@wayn.com) or by mail to: Where Are You Now Ltd, 123 Aldersgate Street, London, EC1A 4JQ, United Kingdom, or by telephone during normal office hours of 9am to 5pm GMT Monday to Friday on: + 44 (0) 20 7336 8027. We will endeavour to respond to all email enquires within 2 working days. 
 
 **3\. Emails you receive from WAYN**
 
-As part of the WAYN Service, WAYN sends Members these [newsletters and emails](https://web.archive.org/web/20070930020520id_/http%3A//www.wayn.com/wayn.html?wci=staticpage&page=newslettersandemails). You may also receive email notifications when you have new mail in your WAYN inbox or when you have received a reply to your "Chatboard" topic. 
+As part of the WAYN Service, WAYN sends Members these [newsletters and emails](http://www.wayn.com/wayn.html?wci=staticpage&page=newslettersandemails). You may also receive email notifications when you have new mail in your WAYN inbox or when you have received a reply to your "Chatboard" topic. 
 
 **4\. Choice / Opt-Out**
 
@@ -75,7 +70,7 @@ We provide you the opportunity to 'opt-out' of having your personally identifiab
 
 You may opt out of any or all of the newsletters and emails we send you (see paragraph 3 above) by changing your Interaction Options at any time. Your "Interaction Options" can be accessed from the Member's account settings menu option found at the top of most web pages when logged on to the WAYN Service. 
 
-You may also opt-out of receiving them by following the instructions included in each newsletter or email we send you or by emailing us at: [support@wayn.com](mailto:support@wayn.com) with your request. Alternatively, you may contact us by telephone during normal office hours of 9am to 5pm GMT Monday to Friday on: 0871 700 700 1, or by mail to: Where Are You Now Ltd, 123 Aldersgate Street, London, EC1A 4JQ, United Kingdom. 
+You may also opt-out of receiving them by following the instructions included in each newsletter or email we send you or by emailing us at: [support@wayn.com](mailto:support@wayn.com) with your request. Alternatively, you may contact us by telephone during normal office hours of 9am to 5pm GMT Monday to Friday on: \+ 44 (0) 20 7336 8027, or by mail to: Where Are You Now Ltd, 123 Aldersgate Street, London, EC1A 4JQ, United Kingdom. 
 
 **5\. Sharing and use of information**
 
@@ -85,27 +80,27 @@ The over-riding principles we apply are these:
 
 We, and (where relevant) our credit card processing agents, will not supply your personal data to a third party for commercial exploitation except as consented to by you in accordance with prevailing law. 
 
-Registration Information. Once a Member selects a location, some or all of the information held for that Member, except for the email address, telephone numbers and passwords, will be publicly available at the listing for that location. 
+**Profile Information**. Once a Member selects a location, some or all of the information held for that Member, except for the email address, telephone numbers and passwords, will be publicly available at the listing for that location. 
 
-Your home location, in terms of your town / city, state / county and country, and any other location specific information you submit to the WAYN Service must be considered at all times to be publicly available information, save where the option to keep private such information is available and activated by the Member. In addition, if address details are submitted to the WAYN.com service they are not made publicly available. 
+Your home location, in terms of your town / city, state / county and country, and any other location specific information you submit to the WAYN Service must be considered at all times to be publicly available information, save where you specify (in the Privacy options that apply to your profile) that you wish your profile only to be viewable by either Members or friends. In addition, if address details are submitted to the WAYN.com service they are not made publicly available. 
 
-Email addresses. We do not directly make your email address available to anyone on any screen of the WAYN Service. Similarly, when you send an email to another Member through the WAYN Service, neither the sender's nor the recipient's email address is disclosed by the WAYN Service itself. Members can, however, choose to make their email addresses known to other Members; however, WAYN does not recommend that you do so, and any such disclosure is at the Member's own risk. Members may change the email address we hold them at any time by visiting "Edit Personal Details", which is accessible from the Member's account settings found at the top of most pages when logged on to the WAYN Service. If your email system automatically responds to a contact email with a read or delivery receipt, your email address will be revealed. 
+**Email addresses**. We do not directly make your email address available to anyone on any screen of the WAYN Service. Similarly, when you send an email to another Member through the WAYN Service, neither the sender's nor the recipient's email address is disclosed by the WAYN Service itself. Members can, however, choose to make their email addresses known to other Members; however, WAYN does not recommend that you do so, and any such disclosure is at the Member's own risk. Members may change the email address we hold them at any time by visiting "Edit Personal Details", which is accessible from the Member's account settings found at the top of most pages when logged on to the WAYN Service. If your email system automatically responds to a contact email with a read or delivery receipt, your email address will be revealed. No tracking technologies are used within / in conjunction with emails nor do we share, sell, rent or trade PII with third parties for their promotional purposes. 
 
-Un-validated Memberships. If you register for the WAYN Service, and you receive a validation email, but fail to validate your Membership then we may contact you via email at periods of 24 hours, 7 days, and 30 days at your registered email address to notify you of the invalid status. Should you fail to respond to these notifications then we may send you one final notice before the un-validated Membership is removed. 
+**Un-validated Memberships.** If you register for the WAYN Service, and you receive a validation email, but fail to validate your Membership then we may contact you via email at periods of 24 hours, 7 days, and 30 days at your registered email address to notify you of the invalid status. Should you fail to respond to these notifications then we may send you one final notice before the un-validated Membership is removed.
 
-Advertising. The WAYN Service may include interactive advertising for other businesses. We may use, and provide to third parties, anonymous demographic data provided by Members to target this advertising more appropriately. 
+ **Advertising.** The WAYN Service may include interactive advertising for other businesses. We use third-party advertising companies to serve ads and collect information when you visit the WAYN website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on the WAYN website, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>.
 
-Telephone numbers. You may enter a contact telephone number in your Personal Details. This number is for internal use only, for future or current services such as SMS. Your number will never be disclosed to any third party without your prior consent. Should we introduce an additional service which utilises telephone numbers, or we wish to provide you with informational content via your mobile phone, you will be given the option to agree to this, as we believe it should be your choice what services you receive. 
+ **Telephone numbers.** You may enter a contact telephone number in your Personal Details. This number is for internal use only, for future or current services such as SMS. Your number will never be disclosed to any third party without your prior consent. Should we introduce an additional service which utilises telephone numbers, or we wish to provide you with informational content via your mobile phone, you will be given the option to agree to this, as we believe it should be your choice what services you receive.
 
-Notification of unread messages. If you have a number of messages waiting for you in your WAYN mailbox, and you have not logged in to the service for an extended period, we may at our discretion contact you via your registered email address to notify you of the unread messages. Should you still not read and remove these messages then we may remove the messages as part of our data cleansing process. 
+ **Notification of unread messages.** If you have a number of messages waiting for you in your WAYN mailbox, and you have not logged in to the service for an extended period, we may at our discretion contact you via your registered email address to notify you of the unread messages. Should you still not read and remove these messages then we may remove the messages as part of our data cleansing process. 
 
-Credit Card information. There has been a lot of publicity about Credit Card security on the Internet so we work with the leading Merchant Providers in the industry who specialize in Fraud and Data Verification. These companies include Protx and Meta Charge. Members' credit or debit card information is encrypted and stored securely. We share your billing information with such companies insofar as necessary for the processing of your payment or to prevent or detect fraud. These companies have agreed not to retain, share, store or use your personally identifiable information for any secondary purpose. 
+**Credit Card information.** There has been a lot of publicity about Credit Card security on the Internet so we work with the leading Merchant Providers in the industry who specialize in Fraud and Data Verification. These companies include Protx and Meta Charge. Members' credit or debit card information is encrypted and stored securely. We share your billing information with such companies insofar as necessary for the processing of your payment or to prevent or detect fraud. These companies have agreed not to retain, share, store or use your personally identifiable information for any secondary purpose.
 
-WAYN companies and subsidiaries. We may share data supplied by you (or collected about you) with our subsidiaries and other companies owned by us, but only for the purposes described in this policy. 
+ **WAYN companies and subsidiaries.** We may share data supplied by you (or collected about you) with our subsidiaries and other companies owned by us, but only for the purposes described in this policy. 
 
-Changes in WAYN's business. If all of the assets which WAYN uses to operate its business (or substantially all of them) are acquired by a third party, we may transfer personal data we then hold to that party. 
+**Changes in WAYN's business.** If all of the assets which WAYN uses to operate its business (or substantially all of them) are acquired by a third party, we may transfer personal data we then hold to that party. 
 
-Place of processing. The computers and companies that process data on our behalf are based in the United Kingdom, Poland and other countries, some of which may be outside the European Union ("EU"). Thus, your personal data (which may include data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or concerning health or sex life) may be transferred to, processed and held both inside and outside the EU. Countries outside the EU may not have as well developed data protection laws in place to protect your information as those inside the EU, but we will ensure your personal data is treated in compliance with those laws and this Privacy Policy. 
+**Place of processing.** The computers and companies that process data on our behalf are based in the United Kingdom, Poland and other countries, some of which may be outside the European Union ("EU"). Thus, your personal data (which may include data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or concerning health or sex life) may be transferred to, processed and held both inside and outside the EU. Countries outside the EU may not have as well developed data protection laws in place to protect your information as those inside the EU, but we will ensure your personal data is treated in compliance with those laws and this Privacy Policy. 
 
 **6\. Sharing Information**
 
@@ -113,20 +108,26 @@ When you use the WAYN Service, you may form relationships, send messages, perfor
 
 Where Are You Now? Ltd may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the WAYN.com service through the operation of the service (e.g. photo tags) in order to provide you with more useful information and a more personalized experience. 
 
-When you register for the WAYN Service, you can create your own profile and determine your own privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the networks specified in your privacy settings to enable you to connect with other members of WAYN.com. Your Profile information is used by WAYN.com primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings. In some cases where your privacy settings permit it. 
+When you register for the WAYN Service, you can create your own profile and determine your own privacy settings. 
 
-Profile information you submit to the WAYN Service will be available to users of WAYN who belong to at least one of the networks you allow to access the information through your privacy selections. Your name and profile picture thumbnail will be available in all search results across the WAYN.com network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they are linked to you (friend, friend of friend, member of your groups, etc.) that allows such access based on your privacy settings. 
+Your name and profile picture thumbnail will be available in all search results across the WAYN.com network and may be searchable through third party web-sites with which we partner (such as sites for which we provide a social network service) and third party search engines, and may be automatically notified to third party tracking websites/weblogs; in each case, you can prevent this happening by specifying (in the Privacy options that apply to your profile) that you wish your profile only to be viewable by either Members or friends. 
 
-Your news feeds and friends feeds may aggregate the information you provide and make it available to your friends and network members according to your privacy settings. You may set your preferences for your news feeds at any time by adjusting your Privacy Settings 
+The fact that your WAYN profile has been added or updated, as well as a short extract from the title page of your WAYN profile, may be automatically notified to third party tracking websites/weblogs (thus increasing the traffic to the WAYN Service, and potentially to your own WAYN profile). This can also be prevented by specifying (in the Privacy options) that you wish your profile only to be viewable by either Members or friends. If you do so, this will prevent subsequent notifications to third party tracking websites/weblogs, but notifications prior to the time when you make the change to your profile's Privacy options may continue to appear on those websites/weblogs. 
+
+Your news feeds and friends feeds may aggregate the information you provide and make it available to your friends and network members according to your privacy settings. You may set your preferences for your news feeds at any time by adjusting your Privacy Settings. 
 
 **7\. Security**
 
 We have security measures in place to protect our customer database and access to this database is restricted internally. However, it remains each Member's responsibility: 
 
-to protect against unauthorised access to Your Details;   
-to ensure against use by anyone else of the WAYN Service through the machine that Member uses while they are "logged on" to the WAYN Service;   
-to log off or exit from the WAYN Service when not using it;  
-and to keep his/her password secret. 
+  * to protect against unauthorised access to Your Details; 
+  * to ensure against use by anyone else of the WAYN Service through the machine that Member uses while they are "logged on" to the WAYN Service; 
+  * to log off or exit from the WAYN Service when not using it; 
+  * and to keep his/her password secret. 
+  * our Security team can be reached via [dataprotection@wayn.com](mailto:dataprotection@wayn.com)
+  * WAYN.com strives to protect the Personal Information and email address you provide through our site, no data transmission over the Internet can be guaranteed to be 100% secure 
+
+
 
 **8\. Remove details**
 
@@ -134,19 +135,23 @@ You may have your registration details removed at any time. To remove yourself, 
 
 **9\. Invite a Friend**
 
-If Members elect to permit WAYN to search email addresses held within their email service on their behalf and click on "Import & Invite Friends", they accept that by doing so, an email invitation will be sent on their behalf, to the relevant email address, and that from time to time a reminder email could be sent to that contact, on their behalf. In addition, if Members click on "Refer a Friend" or opt to Invite a Friend from any other link on the WAYN website, and submit email addresses of their contacts to invite to join the WAYN Service, they accept that by doing so, an email invitation will be sent on their behalf, to the relevant email address, and that from time to time a reminder email could be sent to that contact, on their behalf. By inviting their contacts to join the site, the Member agrees that they have obtained prior consent from their contacts (a) to send them such an invitation and reminder, and (b) to allow the other action referred to in this Clause and in Clause 8. WAYN stores the name and email address of the contacts for the purpose of automatically adding the respondent to the contacts list of the Member sending the invitation and to send reminders of the invitation on the Member's behalf. The Members' username and password will not be saved anywhere on the site. WAYN does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders on behalf of the Member. The Member or the Contact of the Member's contacts can request the removal of their details from our database at any time by sending an email to: [remove@wayn.com](mailto:remove@wayn.com). 
+If Members elect to permit WAYN to search email addresses held within their email service on their behalf and click on "Import & Invite Friends", they accept that by doing so, an email invitation will be sent on their behalf, to the relevant email address, and that a reminder email could be sent to that contact on their behalf. In addition, if Members click on "Refer a Friend" or opt to Invite a Friend from any other link on the WAYN website, and submit email addresses of their contacts to invite to join the WAYN Service, they accept that by doing so, an email invitation will be sent on their behalf, to the relevant email address, and that a reminder email could be sent to that contact on their behalf. By inviting their contacts to join the site, the Member agrees that they have obtained prior consent from their contacts (a) to send them such an invitation and a reminder, and (b) to allow the other action referred to in this Clause and in Clause 8. WAYN stores the name and email address of the contacts for the purpose of automatically adding the respondent to the contacts list of the Member sending the invitation and to send a reminder to that invitation on the Member's behalf. The Members' username and password will not be saved anywhere on the site. WAYN does not sell these email addresses or use them to send any other communication besides invitations and the reminder to an invitation on behalf of the Member. The Member or the Contact of the Member's contacts can request the removal of their details from our database at any time by sending an email to: [remove@wayn.com](mailto:remove@wayn.com). 
 
 **10\. Importing your Contacts**
 
-If Members elect to import their contacts, they accept that by doing so, an email invitation will be sent on their behalf, to the email addresses of the contacts that are being imported and that from time to time, a reminder email could be sent to that contact, on their behalf. By inviting their contacts to join the site, the Member agrees that they have obtained prior consent from their contacts to send them an invitation or invitation reminder. WAYN stores the name and email address of the contacts to enable the Member to contact their contacts via the WAYN Service and to send reminders of the invitation on the Member's behalf. The Member's username and password will not be saved anywhere on the site. WAYN does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders on behalf of the Member. The Member or the Member's contacts can request the removal of their details from the WAYN database at any time by sending an email to: [remove@wayn.com](mailto:remove@wayn.com). 
+If Members elect to import their contacts, they accept that by doing so, an email invitation will be sent on their behalf, to the email addresses of the contacts that are being imported and that a reminder email could be sent to that contact, on their behalf. By inviting their contacts to join the site, the Member agrees that they have obtained prior consent from their contacts to send them an invitation or a reminder to that invitation. WAYN stores the name and email address of the contacts to enable the Member to contact their contacts via the WAYN Service and to send them a reminder of that invitation on the Member's behalf. The Member's username and password will not be saved anywhere on the site. WAYN does not sell these email addresses or use them to send any other communication besides invitations and the reminder of that invitation on behalf of the Member. The Member or the Member's contacts can request the removal of their details from the WAYN database at any time by sending an email to: [remove@wayn.com](mailto:remove@wayn.com). 
 
 **11\. Disclosure for legal reasons**
 
 We reserve the right to communicate such of a Member's personal information as we hold to third parties which seek the disclosure of it, and which make a legally-compliant request for its disclosure. 
 
+Legal Disclaimer 
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site 
+
 **12\. Contacting Where Are You Now?**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Where Are You Now?, you can contact us here. You can also use this address if you wish to request from Where Are You Now? a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Where Are You Now?, you can contact us at support@wayn.com . You can also use this address if you wish to request from a copy of the personal data we hold about you or a description of that data from Where Are You Now?. Please note that by English law we are entitled to charge you a small sum for providing this information. 
 
 **13\. Links to third party sites**
 
