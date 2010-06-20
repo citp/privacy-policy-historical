@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justengineers.net privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511233633id_/http%3A//www.jobsgroup.net/statements/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justengineers.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620093707id_/http%3A//www.jobsgroup.net/statements/privacy.asp) for the most accurate reproduction.*
 
 # JobsGroup - Privacy Policy
 
@@ -18,9 +18,13 @@ We use our best efforts to limit access to our CV services to recruiters who agr
 
 You may remove your CV from our searchable database at any time. However, recruiters who have paid for access to the database may have retained a copy of your CV in their own files or databases. We are not responsible for the retention, use, or privacy of your CV by recruiters in these instances.
 
+_This site uses a tool which collects your requests for pages and passes elements of them to search engines to assist them in indexing this site. We control the configuration of the tool and are responsible for any information sent to the search engines_
+
 **2) Jobs by Email Service**
 
 The Jobs by Email service matches a job seekers requirements for employment with the profile of vacancies advertised on any one of our Sites. For job seekers who subscribe to this service you receive an email listing those jobs that we believe you should be interested in. Your requirements are defined by you using "strings" which can be used to specify geographic region, specific job titles, skills or other definition of the job you want. You can change the strings at any time or unsubscribe at any time.
+
+_This site uses a tool which collects your requests for pages and passes elements of them to search engines to assist them in indexing this site. We control the configuration of the tool and are responsible for any information sent to the search engines_
 
 **3) Application Forms**
 
@@ -40,9 +44,13 @@ Consequently, we cannot accept any liability for any direct or indirect damages 
 
 If you have any concerns over any application form, please contact us for advice. Our contact details are set out below. 
 
+_This site uses a tool which collects your requests for pages and passes elements of them to search engines to assist them in indexing this site. We control the configuration of the tool and are responsible for any information sent to the search engines_
+
 **4) General Privacy Statement**
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and to gather broad demographic information. Our site uses persistent cookies to keep track of your navigation, searches and actions every time you visit the site until the end of your browser session unless you choose the ‘stay logged in’ option. These cookies expire after one year and do not allow anyone to access your confidential information. If you are using a shared computer, please ensure that you log out of JobsGroup.net or close down the browser before leaving the computer for the next user. Cookie seesion only lasts for long as browser session unless the user opts @remember 
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and to gather broad demographic information. Our site uses persistent cookies to keep track of your navigation, searches and actions every time you visit the site until the end of your browser session unless you choose the ‘stay logged in’ option. These cookies expire after one year and do not allow anyone to access your confidential information. If you are using a shared computer, please ensure that you log out of JobsGroup.net or close down the browser before leaving the computer for the next user. Cookie session only lasts for long as browser session unless the user opts @remember.
+
+_This site uses a tool which collects your requests for pages and passes elements of them to search engines to assist them in indexing this site. We control the configuration of the tool and are responsible for any information sent to the search engines_
 
 **5) Remember me**
 
