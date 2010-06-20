@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hometheaterhifi.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219131110id_/http%3A//www.hometheaterhifi.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometheaterhifi.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620170646id_/http%3A//www.hometheaterhifi.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Secrets of Home Theater and High Fidelity
+# Privacy Policy
 
 SDI uses reasonable efforts to protect the privacy of its Website visitors, users and registrants (for purposes of the Privacy Policy, "users") and their respective information pursuant to the terms of this Privacy Policy which applies solely to information collected by this Website. If you feel that we are not abiding by our posted privacy policy, please contact us.
 
