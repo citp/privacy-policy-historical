@@ -1,521 +1,357 @@
-<!--The following is the downloaded HTML source of the vesternet.com privacy policy that was archived on 2009-03-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090312090242id_/http%3A//www.vesternet.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vesternet.com privacy policy that was archived on 2010-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620204255id_/http%3A//www.vesternet.com/s.nl/c.1057900/it.I/id.9/.f) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
-
-<link rel="shortcut icon" href="http://www.vesternet.com/graphics/favicon.ico">
-
-<script type="text/javascript" src="mootools/mootools-1.2.1-core-nc.js"></script>
-<script type="text/javascript" src="mootools/mootools-1.2-more.js"></script>
-<script type="text/javascript" src="slimbox/js/slimbox.js"></script>
-<script language="JavaScript">
-window.addEvent('domready', function(){
-
-	$('HiddenArea').setStyle('height','auto');
-	var mySlide = new Fx.Slide('HiddenArea').hide();  //starts the panel in closed state  
-
-    $('showProducts').addEvent('click', function(e){
-		e = new Event(e);
-		mySlide.toggle();
-		e.stop();
-	});
-
-    $('hideProducts').addEvent('click', function(e){
-		e = new Event(e);
-		mySlide.slideOut();
-		e.stop();
-	});
-
-});
-</script>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Privacy Policy</title>
 
 
-<meta name="keywords" content="zigbee, wireless, wireless network, mesh networking, IEEE 802.15.4, mesh, mote, home automation, building automation, industrial automation, smart energy, zigbee products, zigbee development, zigbee alliance, zigbee solutions, zigbee consultancy, zigbee training, home control, building control, building automation, energy management, advanced metering, zigbee certification, zigbee sensors, zigbee chips, zigbee shop, zigbee store, zigbee news, WPAN, power sensor, smart metering, smart meter, advanced metering, advanced meter, zigbee gateway, zigbee coordinator, zigbee router, zigbee end device">
-<meta name="description" content="Vesternet is the place for everything ZigBee - Products, Education, Training, Consultancy &amp; News.">
-<title>Vesternet - Privacy Policy</title>
-</head>
-
-<body class="oneColFixCtrHdr">
-
-<div id="container">
-  <div id="header">
-	 
-<script language="javascript" type="text/javascript">
-<!--
-function removeTxt(){
-	if (document.newsletter_form.NL_EmailAddress.value='Email')
-	document.newsletter_form.NL_EmailAddress.value='';
-}
-function removeTxt2(){
-	if (document.newsletter_form.NL_Password.value='Password')
-	document.newsletter_form.NL_Password.value='';
-}
-
-function initOverLabels () {
-  if (!document.getElementById) return;  	
-
-  var labels, id, field;
-
-  // Set focus and blur handlers to hide and show 
-  // LABELs with 'overlabel' class names.
-  labels = document.getElementsByTagName('label');
-  for (var i = 0; i < labels.length; i++) {
-	
-    if (labels[i].className == 'overlabel') {
-
-      // Skip labels that do not have a named association
-      // with another field.
-      id = labels[i].htmlFor || labels[i].getAttribute('for');
-      if (!id || !(field = document.getElementById(id))) {
-        continue;
-      }
-
-      // Change the applied class to hover the label 
-      // over the form field.
-      labels[i].className = 'overlabel-apply';
-
-      // Hide any fields having an initial value.
-      if (field.value !== '') {
-        hideLabel(field.getAttribute('id'), true);
-      }
-
-      // Set handlers to show and hide labels.
-      field.onfocus = function () {
-        hideLabel(this.getAttribute('id'), true);
-      };
-      field.onblur = function () {
-        if (this.value === '') {
-          hideLabel(this.getAttribute('id'), false);
-        }
-      };
-
-      // Handle clicks to LABEL elements (for Safari).
-      labels[i].onclick = function () {
-        var id, field;
-        id = this.getAttribute('for');
-        if (id && (field = document.getElementById(id))) {
-          field.focus();
-        }
-      };
-
-    }
-  }
-};
-
-function hideLabel (field_id, hide) {
-  var field_for;
-  var labels = document.getElementsByTagName('label');
-  for (var i = 0; i < labels.length; i++) {
-    field_for = labels[i].htmlFor || labels[i].getAttribute('for');
-    if (field_for == field_id) {
-      labels[i].style.textIndent = (hide) ? '-1000px' : '0px';
-      return true;
-    }
-  }
-}
 
 
-window.onload = function () {
-  setTimeout(initOverLabels,0);
-};
-
-//-->
-</script>
-
-  	<div id="header_left">
-		<p class="logo"><a href="http://www.vesternet.com"><img src="Graphics/new_logo.jpg" width="236" height="68" border="0"></a></p>
-<!-- end #header_left --></div>
-	<div id="header_right">	
-
-
- <form id="newsletter_form" name="newsletter_form" method="post" action="Login_action.asp" onsubmit="return ValidateNLForm(this);">
-  <img src="Graphics/user_login.jpg"><div id="username">
-   <label for="NL_EmailAddress" class="overlabel-apply">Email Address</label>
-   <input id="NL_EmailAddress" type="text" name="L_EmailAddress" title="Email Address" value="" tabindex="1">
-  </div>
-<div class="spacer1"></div>
-  <div id="password">
-   <label for="NL_Password" class="overlabel-apply">Password</label>
-   <input id="NL_Password" type="password" name="L_Password" title="Password" value="" tabindex="2">
-  </div>
-
-  <div id="submit">
-	<input name="FormType" type="hidden" value="Login">
-    <input name="Submit" type="image" src="Graphics/button_login2.jpg" tabindex="3">
-  </div>
-<div class="spacer1"></div>
-  <div id="forgot_password">
-	<p><a href="login.asp">(Forgot Password?)</a></p>
-  </div>
- </form>
-
-
-<div id="header_flags_area">
-	<ul id="languages2">	  
- 
-    <li><a href="country_select.asp?CountryID=7"><img src="Graphics/flags2/swedish.png" alt="swedish" name="swedish" border="0" id="swedish"></a></li>
-
-    <li><a href="country_select.asp?CountryID=6"><img src="Graphics/flags2/dutch.png" alt="dutch" name="dutch" border="0" id="dutch"></a></li>
-
-    <li><a href="country_select.asp?CountryID=5"><img src="Graphics/flags2/italian.png" alt="italian" name="italian" border="0" id="italian"></a></li>
-
-    <li><a href="country_select.asp?CountryID=4"><img src="Graphics/flags2/german.png" alt="german" name="german" border="0" id="german"></a></li>
-
-    <li><a href="country_select.asp?CountryID=3"><img src="Graphics/flags2/spanish.png" alt="spanish" name="spanish" border="0" id="spanish"></a></li>
-
-    <li><a href="country_select.asp?CountryID=2"><img src="Graphics/flags2/french.png" alt="french" name="french" border="0" id="french"></a></li>
-		  
-    <li><a href="country_select.asp?CountryID=1"><img src="Graphics/flags2/english.png" alt="british" name="english" border="0" id="english"></a></li>
-
-		</ul>
-	<div id="greeting2">
-	   <img src="Graphics/flags2/Welcome7.gif" alt="Vesternet.com :: The place for everything zigbee" name="Welcome" border="0" id="english" class="fltrt2">
-	</div>
-	<div class="spacer"></div>
-	<div id="basket_contents">
-	   <a href="shop_basket.asp">Your basket contains <span class="items">(0)</span> Item(s)</a>
-	</div>
-	<br class="clearfloat">
-</div>
-
-	</div>
-	<div class="spacer"></div>
-        <ul id="nav">
-			<li id="tabout"><a href="about.asp">About</a></li>
-			<li id="tzigbee"><a href="zigbee.asp">Zigbee Tech</a></li>
-			<li id="tproducts"><a href="shop_categories_intro.asp">Shop</a></li>
-			<li id="tservices"><a href="services.asp">Services</a></li>
-		    <li id="tsupport"><a href="support.asp">Support</a></li>
-		    <li id="tnews"><a href="news.asp">News</a></li>
-		    <li id="tcontact"><a href="contact.asp">Contact</a></li>
-		    <li id="tsearch"><form id="search_form" name="search_form" method="post" action="site_search.asp">
-			<input name="SearchString" type="text" id="SearchString">
-			<div id="search_button">
-			<input name="Submit" type="image" src="Graphics/button_search.gif">
-			</div>
-			</form></li>
-		</ul>
-	<!-- hidden div -->
-	<div id="HiddenArea">
-		<div class="HiddenContent">
-		  <form action="shop_categories_search.asp" method="post" name="cat_search_form2" id="cat_search_form2">
-            <div class="cat_sf_label2">Price Range:</div>
-		    <div class="cat_sf_field2">
-		      
-              <select name="PriceRange" id="PriceRange2">
-                <option value="--any--">--any--</option>
-                
-                <option value="1">£0.00
-                  &nbsp;-&nbsp;£25.00
-                </option>
-                
-                <option value="2">£25.00
-                  &nbsp;-&nbsp;£52.00
-                </option>
-                
-                <option value="3">£50.00
-                  &nbsp;-&nbsp;£75.00
-                </option>
-                
-                <option value="4">£75.00
-                  &nbsp;-&nbsp;£100.00
-                </option>
-                
-                <option value="5">£100.00
-                  &nbsp;-&nbsp;£150.00
-                </option>
-                
-                <option value="6">£150.00
-                  &nbsp;-&nbsp;£200.00
-                </option>
-                
-                <option value="7">£200.00
-                  +
-                  
-                </option>
-                
-              </select>
-	        </div>
-		    
-		    <div class="cat_sf_label2">Manufacturer:</div>
-		    <div class="cat_sf_field2">
-		      
-              <select name="Manufacturer" id="Manufacturer2">
-                <option value="--any--">--any--</option>
-                
-                <option value="Adhoco">Adhoco</option>
-                
-                <option value="Energy Optimizers">Energy Optimizers</option>
-                
-                <option value="Episensor">Episensor</option>
-                
-                <option value="LS Research">LS Research</option>
-                
-                <option value="Telegesis">Telegesis</option>
-                
-                <option value="Vesternet">Vesternet</option>
-                
-              </select>
-	        </div>
-		    
-		    <div class="cat_sf_label2">Type:</div>
-		    <div class="cat_sf_field2">
-		      
-              <select name="ProductType" id="ProductType2">
-                <option value="--any--">--any--</option>
-                
-                <option value="Energy">Energy</option>
-                
-                <option value="Gateway">Gateway</option>
-                
-                <option value="Package">Package</option>
-                
-                <option value="Security">Security</option>
-                
-                <option value="Software">Software</option>
-                
-              </select>
-	        </div>
-
-		    <div class="cat_sf_label2">Keywords:</div>
-		    <div class="cat_sf_field2">
-		      <input name="sfKeywords" id="sfKeywords2" type="text">
-	        </div>
-		    <div class="cat_sf_btn2">
-			<input name="SearchType" type="hidden" value="Components">
-		      <input name="Search" type="image" src="Graphics/button_search_small2.jpg">
-	        </div>
-		    <div class="spacer"></div>
-	      </form>
-		 <div class="spacer"></div>
-
-		<div id="header_fp_container">
-		<h5>Featured Products</h5>
-		
-			<div class="header_fp_box">
-
-<a href="shop_product.asp?ProductID=2&amp;CategoryID=">
-<img src="uploadedfiles/products/2/zigbox_200200_thumb.jpg" width="53" height="53" class="rs_pic_border fltlft" alt="Zigbox (+ 30 days Free Zigbytes licence)" title="Zigbox (+ 30 days Free Zigbytes licence)"></a>
-<div class="header_fp_title">
-	<a href="shop_product.asp?ProductID=2&amp;CategoryID=">Zigbox (+ 30 days Free Zigbytes licence)</a>
-</div>
-<div class="header_fp_title">£304.75<br>
-<font size="-5">(£265.00 ex VAT)</font></div>
-
-			</div>
-		
-		<div class="header_fp_div"></div>
-		
-			<div class="header_fp_box">
-
-<a href="shop_product.asp?ProductID=3&amp;CategoryID=">
-<img src="uploadedfiles/products/3/Zigbytes screenshot2_thumb.png" width="46" height="53" class="rs_pic_border fltlft" alt="Zigbytes 12 Months Licence" title="Zigbytes 12 Months Licence"></a>
-<div class="header_fp_title">
-	<a href="shop_product.asp?ProductID=3&amp;CategoryID=">Zigbytes 12 Months Licence</a>
-</div>
-<div class="header_fp_title">£29.90<br>
-<font size="-5">(£26.00 ex VAT)</font></div>
-
-			</div>
-		
-		<div class="header_fp_div"></div>
-		
-			<div class="header_fp_box">
-
-<a href="shop_product.asp?ProductID=21&amp;CategoryID=">
-<img src="uploadedfiles/products/21/Episensor ZEM-70 Energy sensor_thumb.jpg" width="53" height="53" class="rs_pic_border fltlft" alt="Episensor ZEM-75 Energy Monitor &amp; Switch" title="Episensor ZEM-75 Energy Monitor &amp; Switch"></a>
-<div class="header_fp_title">
-	<a href="shop_product.asp?ProductID=21&amp;CategoryID=">Episensor ZEM-75 Energy Monitor &amp; Switch</a>
-</div>
-<div class="header_fp_title">£69.00<br>
-<font size="-5">(£60.00 ex VAT)</font></div>
-
-			</div>
-		
-		<div class="header_fp_div"></div>
-		
-			<div class="header_fp_box">
-
-<a href="shop_product.asp?ProductID=55&amp;CategoryID=">
-<img src="uploadedfiles/products/55/TelegesisETRX2 ZigBee USB stick _thumb.JPG" width="53" height="35" class="rs_pic_border fltlft" alt="Telegesis ETRX2 USB Stick" title="Telegesis ETRX2 USB Stick"></a>
-<div class="header_fp_title">
-	<a href="shop_product.asp?ProductID=55&amp;CategoryID=">Telegesis ETRX2 USB Stick</a>
-</div>
-<div class="header_fp_title">£43.70<br>
-<font size="-5">(£38.00 ex VAT)</font></div>
-
-			</div>
-		
-		<div class="spacer"></div>
-		
-			<div class="header_fp_box">
-
-<a href="shop_product.asp?ProductID=31&amp;CategoryID=">
-<img src="uploadedfiles/products/31/M1-1-Aufsicht_thumb.jpg" width="53" height="53" class="rs_pic_border fltlft" alt="Adhoco.M1 Mini Meteo Station" title="Adhoco.M1 Mini Meteo Station"></a>
-<div class="header_fp_title">
-	<a href="shop_product.asp?ProductID=31&amp;CategoryID=">Adhoco.M1 Mini Meteo Station</a>
-</div>
-<div class="header_fp_title">£169.05<br>
-<font size="-5">(£147.00 ex VAT)</font></div>
-
-			</div>
-		
-		<div class="header_fp_div"></div>
-		
-			<div class="header_fp_box">
-
-<a href="shop_product.asp?ProductID=35&amp;CategoryID=">
-<img src="uploadedfiles/products/35/NEW_plogg_UK_and_EE_white_A5[1]_thumb.gif" width="53" height="53" class="rs_pic_border fltlft" alt="Plogg" title="Plogg"></a>
-<div class="header_fp_title">
-	<a href="shop_product.asp?ProductID=35&amp;CategoryID=">Plogg</a>
-</div>
-<div class="header_fp_title">£63.25<br>
-<font size="-5">(£55.00 ex VAT)</font></div>
-
-			</div>
-		
-		<div class="header_fp_div"></div>
-		
-			<div class="header_fp_box">
-
-<a href="shop_product.asp?ProductID=44&amp;CategoryID=">
-<img src="uploadedfiles/products/44/package1_thumb.jpg" width="53" height="53" class="rs_pic_border fltlft" alt="Vesternet Energy Starter Kit" title="Vesternet Energy Starter Kit"></a>
-<div class="header_fp_title">
-	<a href="shop_product.asp?ProductID=44&amp;CategoryID=">Vesternet Energy Starter Kit</a>
-</div>
-<div class="header_fp_title">£575.00<br>
-<font size="-5">(£500.00 ex VAT)</font></div>
-
-			</div>
-		
-		<div class="header_fp_div"></div>
-		
-			<div class="header_fp_box">
-
-<a href="shop_product.asp?ProductID=49&amp;CategoryID=">
-<img src="uploadedfiles/products/49/ratesaver trim_thumb.jpg" width="53" height="40" class="rs_pic_border fltlft" alt="Rate$aver In Home Display" title="Rate$aver In Home Display"></a>
-<div class="header_fp_title">
-	<a href="shop_product.asp?ProductID=49&amp;CategoryID=">Rate$aver In Home Display</a>
-</div>
-<div class="header_fp_title">£172.50<br>
-<font size="-5">(£150.00 ex VAT)</font></div>
-
-			</div>
-		
-		<div class="spacer"></div>
-		
-				 <div class="spacer"></div>
-		</div>
-		 <div class="spacer"></div>
-		</div>
-		<div class="HiddenClose"><a href="#" id="hideProducts"><img src="Graphics/button_close3.gif" border="0"></a></div>
-  <div class="spacer"></div>
-	</div> <!-- /login -->
-
-	<div id="zig_tab">
-		<div id="the_tab"><a id="showProducts" href="#"><img src="Graphics/zigbee_tab.jpg" border="0"></a></div>
-	</div>
-  <div class="spacer"></div>
-
-  <!-- end #header --></div>
-
-  <div id="subContent2">
-	<div id="subBody2">	
-    <h3><img src="Graphics/header_privacy.gif"></h3>
-	<p class="nospace">Vesternet Limited ("We") are committed to protecting and respecting your privacy.</p><p class="nospace"></p><p class="nospace">This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p><p class="nospace"></p><p class="nospace">For the purpose of the Data Protection Act 1998 (the Act), the data controller is Vesternet Limited, 1 Abbots Quay, Monks Ferry, Birkenhead, Wirral CH41 5LH</p><p class="nospace"></p><p class="nospace"></p><p class="nospace"><b>INFORMATION WE MAY COLLECT FROM YOU</b></p><p class="nospace"></p><p class="spacebelow">We may collect and process the following data about you:</p><ul class="listmain" style="margin-left:20px;"><li>Information that you provide by filling in forms on our site www.vesternet.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Vesternet Limited and when you report a problem with our site.</li>
-<li>If you contact us, we may keep a record of that correspondence.</li>
-<li>Vesternet Limited may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
-<li>Details of transactions you carry out through our site and of the fulfilment of your orders.</li>
-<li>Details of your visits to our site [including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</li>
-<li>Vesternet Limited will not store your financial credit or debit card details.</li>
-</ul>
-<p class="nospace"><b>IP ADDRESSES AND COOKIES</b></p><p class="nospace"></p><p class="nospace">We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</p><p class="nospace"></p><p class="spacebelow">For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:</p><ul class="listmain" style="margin-left:20px;"><li>To estimate our audience size and usage pattern.</li>
-<li>To store information about your preferences, and so allow us to customise our site according to your individual interests.</li>
-<li>To speed up your searches.</li>
-<li>To recognise you when you return to our site.&nbsp;</li>
-</ul>
-<p class="nospace">You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.</p><p class="nospace"></p><p class="nospace">Please note that our advertisers may also use cookies, over which we have no control.&nbsp;</p><p class="nospace"></p><p class="nospace"></p><p class="nospace"><b>WHERE WE STORE YOUR PERSONAL DATA</b></p><p class="nospace"></p><p class="nospace">The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p><p class="nospace">Where we have given you (or where you have chosen) a password, which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p><p class="nospace"></p><p class="nospace">Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p><p class="nospace"></p><p class="nospace"></p><p class="nospace"><b>USES MADE OF THE INFORMATION</b></p><p class="nospace"></p><p class="spacebelow">We use information held about you in the following ways:</p><ul class="listmain" style="margin-left:20px;"><li>To ensure that content from our site is presented in the most effective manner for you and for your computer.</li>
-<li>To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.</li>
-<li>To carry out our obligations arising from any contracts entered into between you and us.</li>
-<li>To allow you to participate in interactive features of our service, when you choose to do so.</li>
-<li>To notify you about changes to our service.</li>
-</ul>
-<p class="nospace">We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services, which may be of interest to you, and they or we may contact you about these by post or telephone.&nbsp;</p><p class="nospace"></p><p class="nospace">If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.&nbsp;</p><p class="nospace"></p><p class="nospace">If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.&nbsp;</p><p class="nospace">If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form).</p><p class="nospace"></p><p class="nospace"></p><p class="nospace"><b>DISCLOSURE OF YOUR INFORMATION</b></p><p class="nospace"></p><p class="nospace">We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.</p><p class="nospace"></p><p class="nospace">We may disclose your personal information to third parties:</p><p class="spacebelow"></p><ul class="listmain" style="margin-left:20px;"><li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
-<li>If Vesternet Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
-<li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Vesternet Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
-</ul>
-<p class="nospace"><b>YOUR RIGHTS</b></p><p class="nospace"></p><p class="nospace">You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at <a href="mailto:info@vesternet.com" class="bodyred11">info@vesternet.com</a>.</p><p class="nospace"></p><p class="nospace">Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p><p class="nospace"></p><p class="nospace"></p><p class="nospace"><b>ACCESS TO INFORMATION</b></p><p class="nospace"></p><p class="nospace">The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act.  Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p><p class="nospace"></p><p class="nospace"></p><p class="nospace"><b>CHANGES TO OUR PRIVACY POLICY</b></p><p class="nospace"></p><p class="nospace">Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p><p class="nospace"></p><p class="nospace"></p><p class="nospace"><b>CONTACT</b></p><p class="nospace">Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="mailto:info@vesternet.com" class="bodyred11">info@vesternet.com</a></p><p class="spacebelow"></p>
-<br>
-
-
-	<!-- end #subBody2 --></div>
- <!-- end #subContent2 --></div>
-
-<br class="clearfloat">
-  <div id="footer"><img src="Graphics/top_footer.jpg" height="15" width="900">
-		
-<div id="footer_content">
-		<div id="foot_col1">
-			<h3 class="foot_header"><img src="Graphics/footer_header_legal.gif"></h3>
-			<ul>				
-		      <li>© 2009 Vesternet</li>
-			  <li><a href="terms.asp">Terms &amp; Conditions</a></li>
-			  <li><a href="privacy.asp">Privacy Policy</a></li>
-			  <li><a href="returns.asp">Returns Policy</a></li>
-		  </ul>
-		<!-- end #foot_col1 --></div>
-		<div id="foot_col2">
-			<h3 class="foot_header"><img src="Graphics/footer_header_site.gif"></h3>
-			<ul>
-				<li><a href="sitemap.asp">Site Map</a></li>
-				<li><a href="site_search.asp">Site Search</a></li>
-				<li><a href="contact.asp">Contact Us</a></li>
-				<li><a href="newsletter.asp">Newsletter Signup</a></li>
-		  </ul>
-		<!-- end #foot_col2 --></div>
-		<div id="foot_col3">
-			<h3 class="foot_header"><img src="Graphics/footer_header_shop.gif"></h3>
-		
-			<ul>
-		
-				<li><a href="shop_categories.asp?CategoryID=1">Zigbox</a></li>
-		
-				<li><a href="shop_categories.asp?CategoryID=2">Zigbytes</a></li>
-		
-				<li><a href="shop_categories.asp?CategoryID=3">Sensors</a></li>
-		
-			</ul>
-		<!-- end #foot_col3 --></div>
-		<div id="foot_col4">
-			<h3 class="foot_header"><img src="Graphics/footer_header_support.gif"></h3>
-			<ul>
-			  <li><a href="technical_support.asp">Technical Support</a></li>
-			  <li><a href="customer_service.asp">Customer Service</a></li>
-			  <li><a href="help.asp">Request Help</a></li>
-		    </ul>
-		<!-- end #foot_col4 --></div>
-		<div id="foot_col5">
-			<h3 class="foot_header"><img src="Graphics/footer_header_services.gif"></h3>
-			<ul>
-			  <li><a href="training.asp">Training</a></li>
-			  <li><a href="development.asp">Development</a></li>
-			  <li><a href="installation.asp">Installation</a></li>
-		    </ul>
-		<!-- end #foot_col5 --></div>
-    <!-- end #footer_content --></div> 
-
-  <img src="Graphics/bottom_footer.jpg" height="15" width="900"><!-- end #footer --></div>
-<!-- end #container --></div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-4089420-2");
 pageTracker._trackPageview();
+} catch(err) {}</script>
+<script language="JavaScript">window.status='Loading...';</script>
+<script type="text/javascript" src="/javascript/NLUtil.jsp__NS_VER=2010.1.0&amp;locale=en_GB.nlqs"></script>
+<script language="JavaScript">window.status='';</script>
+<!-- v=2010.1.0.126 db=306 c=1057900 n=1 rg=1 e=0 r=17 ct=WEBSITE isstore=T https=F
+     id=I:9 cat= sc=12 sct=PRESENTATION thm=102 bll=i:130;c:129;r:124;
+     cart=-1 price=5 cur=1 lang=en_GB partner=0 promocode=0 leadsource=
+     sobc=F tandem=F scripting=F
+     page(candbc=F fromdbc=F vol=F reason='Cache disabled by use of switch') -->
+<link rel="stylesheet" href="http://www.vesternet.com/core/styles/pagestyles.nl?ct=70&amp;bglt=E1E8EA&amp;bgmd=A4B3B7&amp;bgdk=6C777A&amp;bgon=666666&amp;bgoff=CCCCCC&amp;bgbar=666666&amp;tasktitletext=FFFFFF&amp;crumbtext=FFFFFF&amp;headertext=FFFFFF&amp;ontab=FFFFFF&amp;offtab=000000&amp;text=000000&amp;link=000000&amp;bgbody=FFFFFF&amp;bghead=FFFFFF&amp;portlet=666666&amp;portletlabel=FFFFFF&amp;bgbutton=D2D2C8&amp;bgrequiredfld=FFFFE5&amp;font=Arial%2CHelvetica%2Csans-serif&amp;size_site_content=9pt&amp;size_site_title=9pt&amp;size=1.0&amp;nlinputstyles=T&amp;NS_VER=2010.1.0">
+<link rel="stylesheet" type="text/css" href="/c.1057900/site/v3/includes/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="/c.1057900/site/v3/includes/css/styleMOD.css" media="all">
+<link rel="stylesheet" type="text/css" href="/c.1057900/site/v3/includes/css/nav.css" media="all">
+</head>
+<body bgcolor="#FFFFFF" link="#000000" vlink="#000000" alink="#000000" text="#000000" style="margin: 5px 0px 5px 0px" onload="page_init()">
+<div id="div__header" class="noprint" leftmargin="0" topmargin="0" marginwidth="1">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr><td><table width="100%" cellpadding="0" cellspacing="0" border="0" background="https://checkout.netsuite.com/c.1057900/site/v3/images/banner-top.gif" height="133">
+	<tbody><tr>
+		<td height="75" align="center">
+			<table width="900" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td><a href="/"><img src="/site/images/vesternet-logo.jpg" width="208" height="69"></a></td>
+					<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td align="right" valign="top"><div class="cartcontents">0 item(s) | £0.00</div></td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td align="right" valign="top">
+						<div class="navbar">
+							<div class="right">
+								<ul id="mega">
+									<li class="navFirst"><a href="/Technologies/Energy-packages">Energy</a>
+									</li><li><a href="/Technologies/security-packages">Security</a>
+									</li><li class="dif navLast"><a href="/basket">Basket</a>
+								</li></ul>
+							</div>
+						</div></td>
+                      </tr>
+                    </tbody></table></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td height="41" align="center">
+			<table width="900" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td align="left" width="100%"><div id="header_text" style="margin-left:10px;"><a class="crumb" onmouseover="this.className='crumbover';" onmouseout="this.className='crumb';" href="/Technologies">Technologies</a>&nbsp;&gt;&nbsp;</div></td>
+				    <td align="left"><nobr><div class="toolbar">
+							<div class="right">
+							<form method="post" name="searchportlet2" id="cse-search-box" onsubmit="window.location.href='/s.nl/c.856734/sc.2/category./.f?search='+escape(document.forms['searchportlet2'].elements['search'].value);return false;"> 
+							<input class="inputBox" type="text" name="search"> 
+							<input class="formSubmit" value="Search" type="submit" name="go"></form>
+							</div>
+						</div></nobr></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table></td></tr>
+</tbody></table>
+</div>
+<div id="div__title" style="margin: 0px;">
+</div>
+<div id="div__label" class="scrollarea" style="margin: 0px; overflow:hidden;">
+</div>
+<div id="div__body" style="margin: 0px; ">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr>
+ 
+<td valign="top" align="center">
+	<table width="900" align="center" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td width="900" align="center"></td></tr><tr class="portletHandle" id="handle_itemMainPortlet">
+<form method="post" name="form0" id="form0" action="/s.nl" onkeypress="if (getEventKeypress(event) == 13) {if (getEventTargetType(event) == &quot;textarea&quot;) return true;document.forms.form0.submit(); event.cancelBubble=true; return false;}"></form>
+<input type="hidden" name="c" value="1057900">
+<input type="hidden" name="n" value="1">
+<input type="hidden" name="sc" value="">
+<input type="hidden" name="category" value="">
+<input type="hidden" name="id" value="9">
+<input type="hidden" name="it" value="I">
+<input type="hidden" name="vid" value="">
+<input type="hidden" name="ck" value="">
+<input type="hidden" name="cktime" value="87853">
+<input type="hidden" name="cart" value="-1">
+<input type="hidden" name="referer" value="http://www.vesternet.com/s.nl?it=I&amp;id=9&amp;fromsla=T">
+
+<td valign="top" width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top">
+<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+<tbody><tr>
+
+
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #0099FF;
+}
+-->
+</style>
+<td valign="top" align="left"><table border="0" width="868" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+  <tbody><tr> <td width="10"><img src="/c.1057900/site/images/x.gif" width="10"></td>
+    <td width="650" valign="top"><nlitemlist>
+  </nlitemlist><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="4" rowspan="5">&nbsp;</td>
+    <td width="10" rowspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="30" class="cat-txt"><span class="Apple-style-span" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; color: rgb(102, 102, 102); "><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><span class="Apple-style-span" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; line-height: normal; "></span></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><b><font class="Apple-style-span" color="#000000">PRIVACY POLICY</font></b></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">Vesternet Limited ("We") are committed to protecting and respecting your privacy.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">For the purpose of the Data Protection Act 1998 (the Act), the data controller is Vesternet Limited, 1 Abbots Quay, Monks Ferry, Birkenhead, Wirral CH41 5LH</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><b><font class="Apple-style-span" color="#000000">INFORMATION WE MAY COLLECT FROM YOU</font></b></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="spacebelow" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">We may collect and process the following data about you:</font></p><ul class="listmain" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 20px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; list-style-type: none; "><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">Information that you provide by filling in forms on our site www.zigbee.eu (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Vesternet Limited and when you report a problem with our site.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">If you contact us, we may keep a record of that correspondence.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">Vesternet Limited may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">Details of transactions you carry out through our site and of the fulfilment of your orders.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">Details of your visits to our site [including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">Vesternet Limited will not store your financial credit or debit card details.</font></li></ul><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><b><font class="Apple-style-span" color="#000000">IP ADDRESSES AND COOKIES</font></b></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="spacebelow" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:</font></p><ul class="listmain" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 20px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; list-style-type: none; "><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">To estimate our audience size and usage pattern.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">To store information about your preferences, and so allow us to customise our site according to your individual interests.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">To speed up your searches.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">To recognise you when you return to our site.&nbsp;</font></li></ul><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">Please note that our advertisers may also use cookies, over which we have no control.&nbsp;</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><b><font class="Apple-style-span" color="#000000">WHERE WE STORE YOUR PERSONAL DATA</font></b></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">Where we have given you (or where you have chosen) a password, which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><b><font class="Apple-style-span" color="#000000">USES MADE OF THE INFORMATION</font></b></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="spacebelow" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">We use information held about you in the following ways:</font></p><ul class="listmain" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 20px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; list-style-type: none; "><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">To ensure that content from our site is presented in the most effective manner for you and for your computer.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">To carry out our obligations arising from any contracts entered into between you and us.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">To allow you to participate in interactive features of our service, when you choose to do so.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">To notify you about changes to our service.</font></li></ul><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services, which may be of interest to you, and they or we may contact you about these by post or telephone.&nbsp;</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.&nbsp;</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.&nbsp;</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form).</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><b><font class="Apple-style-span" color="#000000">DISCLOSURE OF YOUR INFORMATION</font></b></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">We may disclose your personal information to third parties:</font></p><p class="spacebelow" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><ul class="listmain" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 20px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; list-style-type: none; "><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">If Vesternet Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</font></li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 2px; margin-left: 30px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; background-image: url(http://www.zigbee.eu/graphics/bullet.gif); background-repeat: no-repeat; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; background-position: 0px 6px; "><font class="Apple-style-span" color="#000000">If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Vesternet Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</font></li></ul><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><b><font class="Apple-style-span" color="#000000">YOUR RIGHTS</font></b></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at&nbsp;</font><a href="mailto:info@vesternet.com" class="bodyred11" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-decoration: underline; "><font class="Apple-style-span" color="#000000">info@vesternet.com</font></a><font class="Apple-style-span" color="#000000">.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><b><font class="Apple-style-span" color="#000000">ACCESS TO INFORMATION</font></b></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><b><font class="Apple-style-span" color="#000000">CHANGES TO OUR PRIVACY POLICY</font></b></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</font></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><b><font class="Apple-style-span" color="#000000">CONTACT</font></b></p><p class="nospace" style="font-size: 0.76em; font-family: Arial, Helvetica, sans-serif; line-height: 22px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><font class="Apple-style-span" color="#000000">Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to&nbsp;</font><a href="mailto:info@vesternet.com" class="bodyred11" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-decoration: underline; "><font class="Apple-style-span" color="#000000">info@vesternet.com</font></a></p></span><p></p></td>
+  </tr>
+  <tr>
+    <td width="574">&nbsp;</td>
+  </tr>
+  
+  
+  <tr>
+    </tr>
+  
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table></td>
+    <td width="10"><img src="/c.1057900/site/images/x.gif" width="10"></td>
+    </tr></tbody></table></td>
+
+
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+
+</tr>
+
+		
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div id="div__footer" class="noprint" leftmargin="0" topmargin="0" marginwidth="1" marginheight="1">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" height="250" background="https://checkout.netsuite.com/c.1057900/site/v3/images/footer.jpg" align="center">
+	<tbody><tr>
+		<td height="15">&nbsp;</td>
+	</tr>
+	<tr>
+		<td height="235">
+			<table width="960" cellpadding="0" cellspacing="0" border="0" align="center">
+				<tbody><tr>
+					<td align="left" valign="middle" width="33%">
+					<div id="vesternet">
+							<div class="footerCol">
+								<ul style="font-size: 12px; MARGIN: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px;">
+								<li style="margin: 0px;"><b>FREE Delivery</b> to <b>UK &amp; Europe</b>, on any package!
+								</li><li><b>90 Day Return</b> Satisfaction Guarantee on all Packages!
+								</li><li><b>FREE Lifetime Access</b> to Support and Knowledgebase!
+								</li><li>Only the Latest, Future-Proof, <b>Zigbee &amp; Z-Wave</b> Products!</li></ul>
+								<table><tbody><tr><td valign="center" style="vertical-align: center; border: 1px solid #999;"><div style="width: 245px; vertical-align:top; padding:0px; margin:0px 0 10px 0;">
+									<p style="padding: 0px 5px 0px 10px; font-size: 14px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; text-align: center; color:#ffffff;" align="center">
+										<script>
+										var sourceTestimony = "";
+										var sourceAuthor = "";
+										
+										var randomnumber=Math.floor(Math.random()*7);
+		
+										if (randomnumber == 0){
+											sourceTestimony = "Great service with fast response times.  Would definitely recommend you.";
+											sourceAuthor = "Bill, UK";
+										} else if (randomnumber == 1){
+											sourceTestimony = "Your packaged kits make it really easy to choose the right solution.  Thanks for your advice.";
+											sourceAuthor = "Christof, Belgium";
+										} else if (randomnumber == 2){
+											sourceTestimony = "For the non-techie, your site is very easy to understand.";
+											sourceAuthor = "Brian, UK";
+										} else if (randomnumber == 3){
+											sourceTestimony = "The only place I found with all the technology info in one place.";
+											sourceAuthor = "Christian, Norway";
+										} else if (randomnumber == 4){
+											sourceTestimony = "Quick delivery.  Will order again.";
+											sourceAuthor = "Thomas, UK";
+										} else if (randomnumber == 5){
+											sourceTestimony = "Its hard to know what products work together, but your solutions made it a simple process.";
+											sourceAuthor = "Nic, Germany";
+										} else if (randomnumber == 6){
+											sourceTestimony = "Your technical support resource is a real help.";
+											sourceAuthor = "Matheus, Portugal";
+										}
+										
+										document.write("<b>Customer Feedback</b><br /><br />")								
+										document.write('<b>')
+										document.write(sourceTestimony);
+										document.write('</b>');
+										document.write("<br /><br/><i>" + " -");
+										document.write(sourceAuthor);
+										document.write('</i>');
+										
+									
+									</script><b>Customer Feedback</b><br><br><b>The only place I found with all the technology info in one place.</b><br><br><i> -Christian, Norway</i>
+									
+									</p>
+									</div></td></tr></tbody></table>
+								
+									</div>
+								</div>
+							
+					</td>
+					<td align="right" valign="middle" width="1" style="border-left:1px solid #FFFFFF"><img src="/images/store/templates/common/spacer.gif" width="1" height="50" border="0" alt=""></td>
+					<td align="left" valign="middle" width="34%" style="padding:0px 0px 0px 10px;">
+					<div id="followUs">
+							<div class="footerCol">
+								<div class="header">Follow Us</div>
+									<div class="content">
+									<ul>
+									  <li><a href="http://www.twitter.com/vesternet" target="_blank"><img alt="follow us on Twitter" src="/c.TSTDRV647497/site/vesternet/images/twitter.gif"> </a></li>
+									  <li><a href="http://www.facebook.com/pages/Vesternet/129623320387348?ref=sgm" target="_blank"><img alt="Become a fan on Facebook" src="/c.TSTDRV647497/site/vesternet/images/facebook.gif"></a></li>
+						  			  <li><a href="http://blog.vesternet.com/" target="_blank"><img alt="follow us on Twitter" src="/c.1057900/site/v3/images/blog_icon.png"></a></li>
+						  			  <li><script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=5e0dbcf7-b61b-4e70-a1b6-7ba3d7895e6e&amp;type=website&amp;post_services=email%2Cfacebook%2Ctwitter%2Cgbuzz%2Cmyspace%2Cdigg%2Csms%2Cwindows_live%2Cdelicious%2Cstumbleupon%2Creddit%2Cgoogle_bmarks%2Clinkedin%2Cbebo%2Cybuzz%2Cblogger%2Cyahoo_bmarks%2Cmixx%2Ctechnorati%2Cfriendfeed%2Cpropeller%2Cwordpress%2Cnewsvine"></script></li>
+									  </ul><br>
+									  <p style="font-size:11px"><b>FREE - Latest Product Email Updates</b></p>
+									  <form id="newsletterForm" method="post" name="main_form" action="/app/site/crm/externalleadpage.nl">
+										<input type="hidden" name="firstname" id="firstname" value="Web">
+										<input type="hidden" name="lastname" id="lastname" value="Web">
+										<input class="inputBox" maxlength="255" size="23" type="text" name="email"> 
+										<input id="submit" class="formSubmit" value="Sign Up" type="submit" name="newsletterFormSubmit">
+									  <!-- REQUIRED HIDDEN FIELDS FOR HTML ONLINE FORM -->
+										<input type="hidden" name="compid" value="1057900">
+										<input type="hidden" name="formid" value="1">
+										<input type="hidden" name="id" value="">
+										<input type="hidden" name="h" value="dbb777c08df4fc5545ea">
+										<input type="hidden" name="rectype" value="-1">
+										<input type="hidden" name="whence" value="/app/site/crm/externalleadpage.nl?compid=1057900&amp;formid=1&amp;h=dbb777c08df4fc5545ea">
+										<input type="hidden" name="submitted">
+										<iframe src="javascript:false" id="server_commands" name="server_commands" style="visibility:hidden" height="0"></iframe>
+										<!-- END OF REQUIRED HIDDEN FIELDS FOR HTML ONLINE FORM -->
+										</form>
+									</div>
+							</div>
+						</div>
+					</td>
+					<td align="right" valign="middle" width="1" style="border-left:1px solid #FFFFFF"><img src="/images/store/templates/common/spacer.gif" width="1" height="50" border="0" alt=""></td>
+					<td align="left" valign="middle" width="33%">
+					<div id="followUs">
+						<div class="footerCol">
+						<div class="content">
+						<table>
+							<tbody><tr>
+								<td align="center" style="vertical-align: center; background-color: #ffffff;"><div style="margin-top: 10px;"><a href="/Technologies/ZigBee"><img width="125px" height="49" style="text-align: right;" src="/site/images/zigbee-logo.jpg" border="0"></a></div></td>
+								<td align="center" style="vertical-align: center; background-color: #ffffff;"><div style="margin-top: 10px;"><a href="/Technologies/Z-Wave"><img width="99px" height="65" style="text-align: left;" src="/site/images/z-wave_logo.jpg" border="0"></a><br></div></td>
+							</tr>
+							<tr>
+								<td><div class="content" style="font-size:12px; color:#ffffff;">
+								<ul>
+										<li><a href="/About-Us">About Us</a></li>
+										<li><a href="/s.nl/c.1057900/it.I/id.3/.f">Customer Service</a></li>
+										<li><a href="/Support">Technical Support</a></li>
+										<li><a href="/Support">Contact Us</a></li>
+									</ul></div>
+								</td>
+								<td><div style="font-size:12px; color:#ffffff;" class="content">Vesternet Ltd.<br>
+                  					1 Abbots Quay<br>
+									Monks Ferry<br>
+                  					<nobr>Birkenhead, CH41 5LH</nobr><br>
+                  					<nobr>Merseyside, England</nobr><br><br>
+									Reg No 5165889<br>
+									<nobr>VAT No 920 5198 36</nobr></div>
+								</td>
+							</tr>
+						</tbody></table></div>
+						</div></div>
+					</td>
+
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td height="15">&nbsp;</td>
+	</tr>
+</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+		<tbody><tr>
+			<td align="center"><a href="https://checkout.google.com/reviews/merchant/endUserReviews?sellerId=405904232108119" target="_blank"><img src="/site/images/google_checkout.jpg" height="30" border="0"></a>
+            	<!-- PayPal Logo -->
+                <a href="#" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="/site/images/paypal.jpg" border="0" alt="Acceptance Mark" width="73" height="32"></a>
+                <!-- PayPal Logo -->
+                <a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=CHECKOUT.NETSUITE.COM&amp;lang=en&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" target="_blank"><img src="/site/images/versign_logo.jpg" height="35" border="0"></a>
+                <img src="/site/images/creditcard_banner.jpg" width="375" height="35" border="0">
+			</td>
+		</tr>
+		<tr>
+			<td align="center" id="footer" style="font-size:10px; color:#666666;">Copyright © 2010 Vesternet Ltd. All Rights Reserved. | <a href="/s.nl/c.1057900/it.I/id.9/.f">Terms of Service</a> | <a href="/s.nl/c.1057900/it.I/id.9/.f">Privacy Policy</a></td>
+		</tr>	
+</tbody></table>
+</div>
+<iframe src="/empty.html" id="server_commands" style="visibility:hidden" height="0"></iframe>
+<script language="javascript" type="text/javascript">
+var i=new Image();
+i.src='/app/site/hit/tracker.nl?c=1057900&n=1&type=store&sc=12&category=&it=I&itemid=9&referer='+escape(document.referrer);
+i.onload=function(){nsVoid();};
+function nsVoid(){return;};
+</script>
+
+<script language="JavaScript">
+function page_init() {
+window.weekstart  ='2';
+window.dateformat ='DD/MM/YYYY';
+window.longdateformat ='DD Month YYYY';
+window.timeformat ='fmHH24:fmMI';
+window.datetime_am_string ='am';
+window.datetime_pm_string ='pm';
+window.datetime_short_months = new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec","");
+window.loadcomplete = true;
+}
 </script>
 
 
+
+
+
+<!-- 127 6% #27-->
+<!-- [ sh.j30.sv ] [ 2010.1.0.126 ]-->
+<!-- [ 1057900 ] [  ] [ /s.nl ] [ Sun Jun 20 13:42:55 PDT 2010 ] -->
+<!-- Not logging slowest SQL -->
 </body></html>
