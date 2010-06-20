@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171928id_/http%3A//www.hebcal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621011840id_/http%3A//www.hebcal.com/privacy) for the most accurate reproduction.*
 
 # hebcal.com Privacy Policy
 
