@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venetian.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230224630id_/http%3A//www.venetian.com/Pages.aspx%3Fid%3D584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venetian.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621002442id_/http%3A//www.venetian.com/Pages.aspx%3Fid%3D584) for the most accurate reproduction.*
 
 # The Venetian - Resort, Hotel, Casino.
 
