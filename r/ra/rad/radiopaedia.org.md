@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226140645id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620192839id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
 
-# Radiopaedia.org | Privacy Policy
+# Privacy Policy | Radiopaedia.org
 
 #### Our commitment to privacy 
 
