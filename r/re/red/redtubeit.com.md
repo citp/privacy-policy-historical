@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtubeit.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219233400id_/http%3A//redtubeit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtubeit.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621000919id_/http%3A//redtubeit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policies | Redtube
 
