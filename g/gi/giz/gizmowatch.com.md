@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gizmowatch.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216055146id_/http%3A//www.gizmowatch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmowatch.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620170929id_/http%3A//www.gizmowatch.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Gizmo Watch: Gizmowatch enriches you with latest news, insights and updates on gadgets, gizmos, computers, laptops, cell phones, mobiles, PDAs, PMPs, MP3 players, HDTVs, LCD TVs, Music systems, digital cameras, blu-ray, hd-dvd, weapons, GPS, DIY, robots, hardware...
+# 
 
 Privacy Policy
 
