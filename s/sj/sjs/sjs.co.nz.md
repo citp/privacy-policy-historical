@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sjs.co.nz privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219150119id_/http%3A//www.sjs.co.nz/en/General-Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sjs.co.nz privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620210629id_/http%3A//www.sjs.co.nz/en/General-Pages/Privacy) for the most accurate reproduction.*
 
 # Student Job Search
 
