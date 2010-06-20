@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615045046id_/http%3A//www.ihispano.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620192431id_/http%3A//www.ihispano.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | iHispano | Connecting Latinos to Great Jobs
+# Privacy Policy | iHispano | The Professional Latino Network
 
 iHispano.com is committed to protecting the privacy of our users. In addition to providing our users numerous privacy features, iHispano.com has created this Privacy Statement in order to demonstrate in writing our firm commitment to privacy.
 
