@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekcommercial.com.au privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218204841id_/http%3A//www.seekcommercial.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekcommercial.com.au privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620233219id_/http%3A//www.seekcommercial.com.au/Privacy) for the most accurate reproduction.*
 
 # SEEK Commercial - Privacy
 
@@ -244,28 +244,4 @@ SEEK Commercial welcomes ideas and feedback about all aspects of the SEEK Commer
 
 If you have any questions regarding this Privacy Statement, practices of the SEEK Commercial website or your dealings with SEEK Commercial, you can contact us in the following ways:  
   
-|  | 
-
-Email:
-
 | 
-
-[userhelp@seekcommercial.com.au](mailto:userhelp@seekcommercial.com.au)  
-  
----|---  
-  
-Telephone:
-
-| 
-
-+61 13 7335  
-  
-Post:
-
-| 
-
-User Help Desk  
-SEEK Commercial  
-Level 2, 3 Wellington Street  
-ST. KILDA VIC 3182  
-Australia
