@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jazeeraairways.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223207id_/http%3A//www.jazeeraairways.com/InnerPage.aspx%3Fipid%3DMbao8hy7sTg%3D%26%3FLang%3DEn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazeeraairways.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622011401id_/http%3A//www.jazeeraairways.com/InnerPage.aspx%3Fipid%3DMbao8hy7sTg%3D%26%3FLang%3DEn) for the most accurate reproduction.*
 
 # Great low fares only on jazeeraairways.com
 
   
 **What is Jazeera Privacy Policy?**
 
-Strongly believes in the protection and privacy of your personal data. Jazeera Airways takes great care to at all times act in compliance with this Privacy Policy. This Privacy Policy explains how Jazeera Airways collates, uses and protec information that we process about you. From time to time it may be necessary to update this policy. We will notify you of any such updates by posting such updates on the Airways website. The Privacy does not cover any third party website that you may enter via the Jazeera Airways website. 
+Strongly believes in the protection and privacy of your personal data. Jazeera takes great care to at all times act in compliance with this . This Privacy Policy explains how Jazeera collates, uses and protec information that we process about you. From time to time it may be necessary to update this policy. We will notify you of any such updates by posting such updates on the Airways . The Privacy does not cover any third party website that you may enter via the Airways . 
 
 **
 
@@ -29,14 +29,14 @@ Airways may need to pass your data to selected third parties in order to facilit
 
 **How can you amend your personal details?**
 
-If you would like to have your personal data which we have retained for marketing purposes removed from our database, please use the [unsubscribe](https://web.archive.org/web/20091230223207id_/http%3A//www.jazeeraairways.com/FreedomMail.aspx) page. 
+If you would like to have your personal data which we have retained for marketing purposes removed from our database, please use the [unsubscribe](https://web.archive.org/web/20100622011401id_/http%3A//www.jazeeraairways.com/FreedomMail.aspx) page. 
 
 **font >**
 
-Jazeera Airways uses up to date industry procedures to protect your personal information from unauthorised access, use, disclosure or loss. When booking a flight with Jazeera Airways the personal information provided to us is held securely on servers in the USA and Canada using security measures that are consistent with best Internet practice. 
+Jazeera Airways uses up to date industry procedures to protect your personal information from unauthorised access, use, disclosure or loss. When booking a flight with the personal information provided to us is held securely on servers in the USA and Canada using security measures that are consistent with best Internet practice. 
 
-To ensure the security of your payment card information we use the latest Secure Socket Layer (SSL) technology. If your browser supports SSL, please select the Secure Mode option when confirming your booking. If you are restricted by the capabilities of your browser then you can use the non-secure mode but we recommend that you upgrade to the latest version of any browser to give you extra reassurance during any further transactions.
+To ensure the security of your payment card information . If your browser supports SSL, please select the Secure Mode option when confirming your booking. If you are restricted by the capabilities of your browser then you can use to the latest version of any browser to give you extra reassurance during any further transactions.
 
  **Use of Cookies**
 
- ****From time to time, Jazeera Airways may use 'Cookies'. Cookies are small pieces of information which can be stored on your computer's hard drive. They allow you to access additional features on the Jazeera Airways website and to provide you with a more personalised booking experience. You can, if you wish, delete these Cookies from your hard drive.
+ ****From time to time, Jazeera Airways may use 'Cookies'. Cookies are small pieces of information which can be stored on your computer's hard drive. Airways website and to provide you with a more personalised booking experience. You can, if you wish, delete these Cookies from your hard drive.
