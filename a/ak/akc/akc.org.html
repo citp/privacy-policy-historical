@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2009-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091124062647id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2010-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621203834id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
-                <!-- Start Ads JS -->
-                <!-- pre jsAd html -->
+<!-- Start Ads JS -->
+
+<!-- pre jsAd html -->
 <script language="JavaScript">
 <!--
   function getProto(){
@@ -120,8 +121,10 @@
 </script>
 
 
-                <!-- End Ads JS -->
-            
+
+
+
+<!-- End Ads JS -->
 
 <!--[if IE]>
 <style type="text/css" media="screen">
@@ -184,6 +187,12 @@ font-size: 100%;
 				</script>				
 			
 		
+			
+				<script type="text/javascript">
+					$ = jQuery = Versions.use('jquery', '1.3.2');
+				</script>				
+			
+		
 	<script type="text/javascript">
 		Versions.use('jquery', 'default')(function($) {
 			var jQuery = $
@@ -199,6 +208,7 @@ font-size: 100%;
 
 		});
 	</script>
+    
 </head>
 
 <body>
@@ -240,18 +250,15 @@ padding:0;
 #header_graphic {
 width:758px;
 height:90px; 
-margin:0;
-padding:0;
-position:absolute;
-top:0;
-left:0;
+background: url(//images.akc.org/template/images/sprite.png) -10px -272px;
 }
 #main_navbar_wrapper{
 width: 758px;
 height:28px;
 margin:0;
 padding:0;
-background:#D8DEE9 url(/layouts/Standard/images/new/main_nav_bkg.gif) repeat-x top left;
+background:#D8DEE9 url(//images.akc.org/template/images/sprite.png) repeat-x -10px -364px;
+_background:transparent url(//images.akc.org/template/images/sprite.gif) repeat-x -10px -364px;
 position:absolute;
 top:90px;
 left:0;
@@ -259,8 +266,8 @@ left:0;
 #main_navbar{
 list-style:none;
 margin:0;
-padding:0 0 0 .3em;
-width: 758px;
+padding:0;
+width: 900px;
 height:28px;
 }
 #main_navbar li{
@@ -276,7 +283,7 @@ color: #000000;
 font-size:1.2em;
 font-weight:bold;
 text-decoration:none;
-padding:0 0.5em 0 .4em;
+padding:0 0.4em;
 }
 #main_navbar a:hover{
 color: #7320bd;
@@ -289,9 +296,69 @@ padding:0 0 0 .4em;
 }
 
 </style>
-<div class="print_head"><img class="print_head" src="/images/print/akc_h_tm_k_www.gif" width="758" height="90" alt=""></div><div id="header_wrapper">
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+		
+				
+			
+		
+			
+		
+		
+<script type="text/javascript">
+jQuery(function($){
+	var fadeToggleText = function(target,wait,speed,reps){
+		var doToggle = function(target,speed){
+			var $target = $(target);
+			//get the new text
+			var newText = $target.attr("toggletext");
+			//stash the old text
+			$target.attr("toggletext",$target.html());
+			//do the toggle
+			$target.parent().fadeOut(speed,function(){$target.html(newText).parent().fadeIn(speed)});
+		}
+		var doReps = function(fn,reps,wait){
+			if (reps >= 1) {
+				setTimeout(function(){
+					fn();
+					doReps(fn,--reps,wait);
+				}, wait);
+			}
+		}
+		doReps(function(){
+			doToggle(target, speed)
+		},reps,wait);
+	}
+	var targetElement = $("a.fade_toggle_text");
+	fadeToggleText(targetElement,5000,"slow",4);
+	
+});
+</script>
+
+
+<!--googleoff: index-->
+
+<div class="print_head"><img class="print_head" src="//images.akc.org/template/images/print/akc_h_tm_k_www.gif" width="758" height="90" alt=""></div><div id="header_wrapper">
 <div id="header_graphic">
-<a href="/index.cfm?nav_area=homepage" class="hide_all"><img src="http://images.akc.org/template/header/header.jpg" width="758" height="90" border="0" id="headerGraphic" alt="The American Kennel Club"></a>
+<a href="/index.cfm?nav_area=homepage" class="hide_all" title="The American Kennel Club"><img src="//images.akc.org/template/images/1px.gif" width="758" height="90" border="0" id="headerGraphic" alt="The American Kennel Club"></a>
 </div>
 <div id="main_navbar_wrapper">
 <ul id="main_navbar">
@@ -299,33 +366,31 @@ padding:0 0 0 .4em;
 <li>|</li>
 <li><a title="Breeders" href="/breeders/index.cfm?nav_area=breeders" target="_top">Breeders</a></li><li>|</li><li><a title="Owners" href="/dog_owners/index.cfm?nav_area=dog_owners" target="_top">Owners</a></li>
 <li>|</li>
-<li><a title="Future Owners" href="/future_dog_owner/index.cfm?nav_area=future_dog_owners" target="_top">Future Owners</a></li><li>|</li><li><a title="Clubs" href="/clubs/index.cfm?nav_area=clubs" target="_top">Clubs</a></li>
+<li><a title="Future Owners" href="/future_dog_owner/index.cfm?nav_area=future_dog_owners" target="_top">Future Owners</a></li>
+<li>|</li>
+<li><a title="Mixed Breeds is now Canine Partners" class="fade_toggle_text" toggletext="Mixed Breeds" href="/mixedbreeds/index.cfm?nav_area=mixedbreeds" target="_top">Canine Partners</a></li>
+<li>|</li>
+<li><a title="Clubs" href="/clubs/index.cfm?nav_area=clubs" target="_top">Clubs</a></li>
 <li>|</li>
 <li><a title="Registration" href="/reg/index.cfm?nav_area=registration" target="_top">Registration</a></li>
 <li>|</li>
 <li><a title="Juniors" href="/kids_juniors/index.cfm?nav_area=kids_juniors" target="_top">Juniors</a></li>
-<li>|</li>
-<li><a title="Mixed Breeds" href="/mixedbreeds/index.cfm?nav_area=mixedbreeds" target="_top" class="last">Mixed Breeds</a></li>
 </ul></div></div>
+<!--googleon: index-->
+
 </td></tr>
 
 
 
 
-<tr>
-<td width="149" class="left_nav_wrapper" valign="top" height="100%" background="/layouts/Standard/images/leftnav_bkg.gif">
-
-<table width="149" class="left_nav_wrapper" border="0" cellpadding="0" cellspacing="0" background="/layouts/Standard/images/leftnav_bkg.gif">
-<tbody><tr background="/layouts/Standard/images/leftnav_bkg.gif">
-<td width="149" background="/layouts/Standard/images/leftnav_bkg.gif">
-
-
-  <br><table width="140" border="0" cellspacing="0" cellpadding="0" align="left" id="leftnav">
-    <tbody><tr align="left">
+<tr height="100%">
+  <td width="149" class="left_nav_wrapper" valign="top">
+    <div class="left_nav_wrapper">
+    
+    
+    <!--googleoff: snippet-->
+  <div id="leftnav">
  
-	</tr>
-    <tr align="left">
-    <td align="left" width="140"> 
 	<script type="text/javascript">
 
 //HV Menu- by Ger Versluis (http://www.burmees.nl/)
@@ -444,20 +509,19 @@ function Go(){return}
  
 </div>
 	
-	</td></tr>
+	
 
-	</tbody></table>
+	</div>
+    <!--googleon: snippet-->
+    
 
-</td>
-</tr>
-</tbody></table>
-
-	  </td>
-    <td valign="top" bgcolor="#FFFFFF">
-
-		<table width="609" height="27" border="0" cellpadding="5" cellspacing="0">
-        <tbody><tr> 
+    </div>
+  </td>
+ 
 <td valign="top" bgcolor="#FFFFFF">
+	<table width="609" border="0" cellpadding="5" cellspacing="0">
+		<tbody><tr> 
+			<td valign="top" bgcolor="#FFFFFF">
 
 
 <div class="hide_all" style="width: 599px; text-align: center; "> 
@@ -591,70 +655,76 @@ jsAd( "Bottom")
 	 </td>
   </tr>
 </tbody></table>
+
+
 <style type="text/css">
-#footer_wrapper {
-width:758px;
-text-align:center;
-margin:.7em 0 0 .7em;
-padding:0 0 2em 0;
-}
-#footer {
-list-style:none;
-margin:1em 0;
-padding:0 0.6em;
-width:758px;
-float:left;
-}
-#footer li {
-float:left;
-margin:0;
-padding:0 0.3em;
-font-size:0.9em;
-color:#ffcc99;
-}
-#footer li a:link, #footer li a:active, #footer li a:visited {
-font-size:1em;
-color:#ffcc99;
-text-decoration:none;
-font-weight:normal;
-}
-#footer_wrapper span a {
-font-size:0.9em;
-color:#ffcc99;
-text-decoration:none;
-font-weight:normal;
-}
-#footer li a:hover, #footer_wrapper span a:hover {
-text-decoration:underline;
-}
+	#footer_wrapper {
+		width:758px;
+		text-align:center;
+		margin:.7em 0 0 .7em;
+		padding:0 0 2em 0;
+	}
+	#footer {
+		list-style:none;
+		margin:1em 0;
+		padding:0 0.6em;
+		width:758px;
+		float:left;
+	}
+	#footer li {
+		float:left;
+		margin:0;
+		padding:0 0.3em;
+		font-size:0.9em;
+		color:#ffcc99;
+	}
+	#footer li a:link, #footer li a:active, #footer li a:visited {
+		font-size:1em;
+		color:#ffcc99;
+		text-decoration:none;
+		font-weight:normal;
+	}
+	#footer_wrapper span a {
+		font-size:0.9em;
+		color:#ffcc99;
+		text-decoration:none;
+		font-weight:normal;
+	}
+	#footer li a:hover, #footer_wrapper span a:hover {
+		text-decoration:underline;
+	}
 </style>
 
-<div id="footer_wrapper">
-<ul id="footer">
-	<li><a href="/index.cfm" title="AKC Homepage">AKC Homepage</a></li>
-    <li>|</li>
-	<li><a href="/about/site/about.cfm" title="About this Site">About this Site</a></li>
-    <li>|</li>
-    <li><a href="/about/job_opportunities.cfm" title="Employment">Employment</a></li>
-    <li>|</li>
-	<li><a href="/about/telephone_directory.cfm" title="Contact Us">Contact Us</a></li>
-    <li>|</li>
-	<li><a href="/about/site/advertising.cfm" title="Corporate Advertising">Corporate Advertising</a></li>
-    <li>|</li>
-	<li><a href="/about/site/privacystatement.cfm" title="Privacy Statement">Privacy Statement</a></li>
-    <li>|</li>
-	<li><a href="/about/site/terms_use.cfm" title="Terms of Use">Terms of Use</a></li>
-    <li>|</li>
-	<li><a href="/about/california_privacy.cfm" title="Your CA Privacy Rights">Your CA Privacy Rights</a></li>
-</ul>
-
-	<span><a href="/about/site/copy.cfm" title="AKC Copyright and Trademark Statement">© 2009 American Kennel Club® (AKC Copyright and Trademark Statement)</a></span>
-
-</div>
 
 
+<!--googleoff: index-->
+	<div id="footer_wrapper">
+		<ul id="footer">
+			<li><a href="/index.cfm" title="AKC Homepage">AKC Homepage</a></li>
+		    <li>|</li>
+			<li><a href="/about/site/about.cfm" title="About this Site">About this Site</a></li>
+		    <li>|</li>
+		    <li><a href="/about/job_opportunities.cfm" title="Employment">Employment</a></li>
+		    <li>|</li>
+			<li><a href="/about/telephone_directory.cfm" title="Contact Us">Contact Us</a></li>
+		    <li>|</li>
+			<li><a href="/about/site/advertising.cfm" title="Corporate Advertising">Corporate Advertising</a></li>
+		    <li>|</li>
+			<li><a href="/about/site/privacystatement.cfm" title="Privacy Statement">Privacy Statement</a></li>
+		    <li>|</li>
+			<li><a href="/about/site/terms_use.cfm" title="Terms of Use">Terms of Use</a></li>
+		    <li>|</li>
+			<li><a href="/about/california_privacy.cfm" title="Your CA Privacy Rights">Your CA Privacy Rights</a></li>
+		</ul>
+		
+		<span><a href="/about/site/copy.cfm" title="AKC Copyright and Trademark Statement">© 2010 American Kennel Club® (AKC Copyright and Trademark Statement)</a></span>
+	</div>
+<!--googleon: index-->
 
-<div id="breed_images_box"> <div id="breedheaderimage"> <a href="/breeds/soft_coated_wheaten_terrier/index.cfm"><img src="//images.akc.org/template/header/breeds/soft_coated_wheaten_terrier.png" width="227" height="90" border="0"></a> 
+
+
+
+<div id="breed_images_box"> <div id="breedheaderimage"> <a href="/breeds/argentine_dogo/index.cfm"><img src="//images.akc.org/template/header/breeds/argentine_dogo2.png" width="227" height="90" border="0"></a> 
 </div>
 
 
@@ -690,7 +760,7 @@ font-size:10px;
 list-style:none;
 margin:0;
 padding:0;
-width:400px;
+width:600px;
 float:left;
 }
 #second_nav li {
@@ -716,6 +786,8 @@ color: #9dc5fb;
 }
 </style>
 
+
+<!--googleoff: index-->
 <ul id="second_nav">
 
     <li><a id="current" title="Home" href="/index.cfm?nav_area=homepage">Home</a></li>
@@ -732,24 +804,25 @@ color: #9dc5fb;
     <li>|</li>
     <li><a title="Online Services" href="/online_services/index.cfm?nav_area=online_services">Online Services</a></li>
   </ul>
+<!--googleon: index-->
+
 
 
 </div>
-<div id="slogan_box"><div id="slogan_text"><img src="http://images.akc.org/template/header/tagline.gif"></div></div>
+<div id="slogan_box"><div id="slogan_text"></div></div>
 <div id="site_search"> 
 
  <!-- Google GSA Search Box Begins -->
 <form method="GET" action="/sitesearch/index.cfm" id="googlesearchbox">
     
-    	<div class="site_search_text">Search:</div><input type="text" name="q" value="" size="38" style="background: url(&quot;http://images.akc.org/template/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">
+    	<div class="site_search_text">Search:</div><input type="text" name="q" value="" size="38" style="background: url(&quot;//images.akc.org/template/images/sprite.png&quot;) -10px -185px rgb(255, 255, 255);">
 	
-      <button onclick="this.form.submit();" style="border:none;background:none;">
-        <img src="/sitesearch/images/search_go.gif" name="submitsearch" id="submitsearch">
+      <button name="submitsearch" id="submitsearch" onclick="this.form.submit();">
       </button>
 </form>
 
  <script>
-(function() { var f = document.getElementById('googlesearchbox'); if (!f) { f = document.getElementById('searchbox_demo'); } if (f && f.q) { var q = f.q; var n = navigator; var l = location; if (n.platform == 'Win32') { q.style.cssText = 'border: 1px solid #7e9db9; padding: 2px;'; } var b = function() { if (q.value == '') { q.style.background = '#FFFFFF url(http://images.akc.org/template/google_custom_search_watermark.gif) left no-repeat'; } }; var f = function() { q.style.background = '#ffffff'; }; q.onfocus = f; q.onblur = b; if (!/[&?]q=[^&]/.test(l.search)) { b(); } } })();
+(function() { var f = document.getElementById('googlesearchbox'); if (!f) { f = document.getElementById('searchbox_demo'); } if (f && f.q) { var q = f.q; var n = navigator; var l = location; if (n.platform == 'Win32') { q.style.cssText = 'border: 1px solid #7e9db9; padding: 2px;'; } var b = function() { if (q.value == '') { q.style.background = '#ffffff url(//images.akc.org/template/images/sprite.png) -10px -185px'; } }; var f = function() { q.style.background = '#ffffff'; }; q.onfocus = f; q.onblur = b; if (!/[&?]q=[^&]/.test(l.search)) { b(); } } })();
  </script>
  <!-- Google GSA Search Box Ends --></div>
 
@@ -769,18 +842,10 @@ color: #9dc5fb;
 		
 		
 		
-		
-		
 			
-		
-		
-		
 				
 			
-		
 			
-		
-		
 <div id="sidebar_wrapper">
 <div id="sidebar_content"> 
 
@@ -848,7 +913,7 @@ color: #9dc5fb;
 
 
 
-<hr id="sidebar_hr">
+<hr class="sidebar_hr">
 <a href="http://cs.silverpop.com/akc/preferences/" class="sidebar_main_link">Free eNewsletter Signup</a>
 <a href="http://cs.silverpop.com/akc/preferences/" class="sidebar_href">Click here</a>
 
@@ -857,7 +922,7 @@ color: #9dc5fb;
 
 
 
-<hr id="sidebar_hr"> 
+<hr class="sidebar_hr"> 
 	
 <h2>AKC News</h2>	
 <ul class="sidebar_list">
@@ -871,11 +936,11 @@ color: #9dc5fb;
 
 
 
-<hr id="sidebar_hr"> 
+<hr class="sidebar_hr"> 
 <a href="/news/sections/legislative_alerts.cfm" class="sidebar_main_link">Legislative Alerts</a>
 
 
-<hr id="sidebar_hr"> 
+<hr class="sidebar_hr"> 
 <h2>Translate This Page</h2>
 
 <ul class="sidebar_list">
@@ -892,6 +957,9 @@ color: #9dc5fb;
 
 
 
+<div style="margin:0 0 .7em 0;">
+<a href="/doghealth/index.cfm"><img src="//images.akc.org/homepage/chrc.jpg" border="0" width="179" height="350"></a>
+</div>
 <div id="sidebar_ads">
 
 <div id="Frame1_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
@@ -899,7 +967,7 @@ color: #9dc5fb;
 <!--
 jsAd( "Frame1")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20091124062647id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1734847248@BottomRight,Frame2,Frame1!Frame1"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20100621203834id_/http%3A//www.akc.org/about/site/privacystatement.cfm/797018282@BottomRight,Frame2,Frame1!Frame1"></script>
 </div>
 
 <div id="Frame2_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
@@ -907,7 +975,7 @@ jsAd( "Frame1")
 <!--
 jsAd( "Frame2")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20091124062647id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1734847248@BottomRight,Frame2,Frame1!Frame2"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20100621203834id_/http%3A//www.akc.org/about/site/privacystatement.cfm/797018282@BottomRight,Frame2,Frame1!Frame2"></script>
 </div>
 
 <div id="BottomRight_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
@@ -915,7 +983,7 @@ jsAd( "Frame2")
 <!--
 jsAd( "BottomRight")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20091124062647id_/http%3A//www.akc.org/about/site/privacystatement.cfm/1734847248@BottomRight,Frame2,Frame1!BottomRight"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20100621203834id_/http%3A//www.akc.org/about/site/privacystatement.cfm/797018282@BottomRight,Frame2,Frame1!BottomRight"></script>
 </div>
 
 
@@ -967,67 +1035,17 @@ height:20px;
    height:20px;
    width:475px;
   }
-</style> 
-					<div id="sidebar_poll_content">
-		            
-
-<h2>Quick Poll:</h2>
-<p>Have you ever tried to view the AKC website on a smartphone?</p>
-<form action="/poll/akc_quick_poll.cfm" method="post">
-		<input name="cde_poll" type="hidden" value="20092311032717">	
-<table cellpadding="3" cellspacing="0" border="0">
-	
-		
-			<tbody><tr>
-				<td width="20" valign="top">
-					
-						<input name="cde_answer" type="radio" value="200923110327171">
-					
-			  	</td>
-				<td>
-					Yes<br>
-				</td>
-			</tr>
-		
-			<tr>
-				<td width="20" valign="top">
-					
-						<input name="cde_answer" type="radio" value="200923110327172">
-					
-			  	</td>
-				<td>
-					No<br>
-				</td>
-			</tr>
-		
-	
-</tbody></table>
-	<button id="sidebar_go" name="Submit" onclick="this.form.submit();">
-    	<img src="/layouts/Standard/images/sidebar/go.gif">
-    </button>
-						
-</form>
-
-
-
-
-                    </div>
-					
-
-
-  
-  <img src="//images.akc.org/press/social-followus.jpg" border="0" usemap="#Social">
-  <map name="Social" id="Social">
-    <area shape="rect" coords="20,27,50,55" href="http://twitter.com/akcdoglovers" target="_blank" alt="Twitter">
-    <area shape="rect" coords="57,26,88,56" href="http://www.myspace.com/purebreds" target="_blank" alt="MySpace">
-    <area shape="rect" coords="95,26,124,57" href="http://www.facebook.com/group.php?gid=50737551679&amp;ref=ts#/pages/New-York-NY/American-Kennel-Club/93474569120?ref=ts" target="_blank" alt="Facebook">
-    <area shape="rect" coords="130,27,164,57" href="http://www.youtube.com/user/AmericanKennelClub" target="_blank" alt="YouTube">
-  </map>
-
-
-
+</style> <div id="socialMedia">
+<h2>Follow Us</h2>	
+<ul class="social">
+	<li><a href="http://twitter.com/akcdoglovers" class="twitter"></a></li>
+	<li><a href="http://www.myspace.com/purebreds" class="myspace"></a></li>
+	<li><a href="http://www.facebook.com/group.php?gid=50737551679&amp;ref=ts#/pages/New-York-NY/American-Kennel-Club/93474569120?ref=ts" class="facebook"></a></li>
+    <li><a href="http://www.youtube.com/user/AmericanKennelClub" class="youtube"></a></li>
+</ul> 
+</div> 
 	<div id="sidebar_main_machine">
-	sloughi - ecom
+	afghan - ecom - akc
 	</div> 
 
 
