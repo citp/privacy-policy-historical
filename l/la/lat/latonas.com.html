@@ -1,16 +1,15 @@
-<!--The following is the downloaded HTML source of the latonas.com privacy policy that was archived on 2009-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221013257id_/http%3A//www.latonas.com/mainportal.prt%3Faction%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the latonas.com privacy policy that was archived on 2010-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621053744id_/http%3A//latonas.com/mainportal.prt%3Faction%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
-<title>Latona's Domain Auction House and Brokerage</title>
+<title>Latona's Brokerage and Auction House</title>
 <meta name="author" content="Gerryjun Abaluna">
 <meta name="author" content="Julie Romo">
 <meta name="author" content="Lemuel Garcia">
 <meta name="author" content="Manuel Galgana">
 <meta name="COPYRIGHT" content="Copyright (c) by Latona's Domain Auctions">
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="resource/css/stylelatonas.css" type="text/css" media="screen">
+<link rel="shortcut icon" href="resource/img/homepage/favicon.ico">
+<link rel="stylesheet" href="resource/css/stylelatonas.css?051310" type="text/css" media="screen">
 <script type="text/javascript" src="resource/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" language="JavaScript" src="resource/js/window.js"></script>
 <script language="JavaScript">
@@ -34,9 +33,19 @@ window.onload = function()
 			function() { $('ul', this).css('display', 'none'); });
 	});
 </script>
+<script type="text/javascript" src="resource/js/jquery.pngFix.js"></script>
+<script type="text/javascript"> 
+    $(document).ready(function(){ 
+        $(document).pngFix(); 
+    }); 
+</script>
 <!--[if IE 6]>
 <link rel="stylesheet" href="resource/css/iefix.css" type="text/css" media="screen" />
 <![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="resource/css/iefix7.css" type="text/css" media="screen" />
+<![endif]-->
+
 </head>
 <body><div id="helpwindow"></div>
 <div id="outsidewraper">
@@ -60,7 +69,7 @@ window.onload = function()
 				
 			</ul>			
 <div class="bug">
-<a href="mailto:bugs@latonas.com?subject=I found a bug.&amp;body=Please describe&#10;the error as completely as possible.">Found a bug? Let us know.</a>
+<a href="http://latonas.com/mainportal.prt?action=contactus">Found a bug? Let us know.</a>
 </div>
 		</div>
 		<br class="clearfloat">
@@ -71,6 +80,7 @@ window.onload = function()
 	<li><a href="auctions.prt?action=auctionList&amp;limit=now">Active Auctions</a></li>
 	<li><a href="auctions.prt?action=auctionList&amp;limit=soon">Upcoming Auctions</a></li>
 	<li><a href="auctions.prt?action=auctionList&amp;limit=old">Auction Results</a></li>
+	<li><a href="auctions.prt?action=domainSearch">Search Auctions</a></li>	
 </ul>
 
 	</li>
@@ -84,7 +94,11 @@ window.onload = function()
 	<li class="headlink menusizetab2"><a href="mainportal.prt?action=selling">Selling</a>
 	<ul>
 	<li><a href="mainportal.prt?action=selling">Selling Guide</a></li>
-	<li><a href="auctions.prt?action=auctionList&amp;limit=soon">Upcoming Auctions</a></li>
+	
+	<li><a href="domainLot.usr?AddDomainLot">Submit Domains</a></li>
+	
+	<li><a href="mainportal.prt?action=termsofservice">Terms Of Service</a></li>
+	
 	<li><a href="mainportal.prt?action=reg">Registration</a></li>
 </ul>
 	</li>
@@ -94,13 +108,21 @@ window.onload = function()
 	<li><a href="mainportal.prt?action=who">Who we are</a></li>
 	<li><a href="mainportal.prt?action=history">Our History</a></li>
 	<li><a href="mainportal.prt?action=news_press">News &amp; Press</a></li>
+	<li><a href="mainportal.prt?action=faq">FAQ</a></li>
 	<li><a href="mainportal.prt?action=help">Help</a></li>
 </ul>
 	</li>
 </ul>
-            <div id="search">
-		        </div>
+
 		</div><!-- End #mainmenu -->
+
+	<div id="search">
+			<form id="findDomainerForm" "="">
+			<label>Search</label><input id="domainBox2" type="text" onkeypress="if (checkEnter(event)) {location.href='auctions.prt?action=domainSearch&amp;lotName=' + document.getElementById('domainBox2').value ; return false;}">
+			<input type="submit" value="Search" onclick="location.href='auctions.prt?action=domainSearch&amp;lotName=' + document.getElementById('domainBox2').value ; return false;">
+			</form>
+	</div>	
+
 	</div><!-- end #header -->
 	<br class="clearfloat">
 	
@@ -112,8 +134,7 @@ window.onload = function()
  
 
 
-<div id="quicklinks"> <strong>Popular Links: </strong> <a href="http://latonas.com/auctions.prt?action=viewAuction&amp;auctionId=1">
-										The WhyPark.com Charity Auction is Happening Now - Click Here to Enter</a></div>
+<div id="quicklinks"> <strong>Popular Links: </strong> <a href="mainportal.prt?action=history">Our History</a>  <a href="mainportal.prt?action=reg">Registration</a>  <a href="mainportal.prt?action=buying">Buying</a>  <a href="mainportal.prt?action=selling">Selling</a></div>
 <div id="locationbar"> <a href="index.jsp"> Home</a> <img src="resource/img/homepage/breadcrumb-arrow.gif"> <b>Privacy Policy</b> </div>
 
 
@@ -322,9 +343,9 @@ window.onload = function()
 			</div><!-- end #mainContent -->
 		<br class="clearfloat">
 
-			</div><!-- end #mainContent -->
+			</div><!-- end #mainContentcontainer -->
 		<br class="clearfloat">
-		</div><!-- end #contentBottom -->
+		</div><!-- end #insidePage -->
 		<div id="footer">
 
 								<ul>
@@ -352,7 +373,7 @@ window.onload = function()
 							<ul>
 								<li><a href="mainportal.prt?action=contactus">Contact Us</a></li>
 								<li><a href="mainportal.prt?action=privacypolicy">Privacy Policy</a></li>
-								<li><a href="mainportal.prt?action=termsandconditions">Terms &amp; Conditions</a></li>
+								<li><a href="mainportal.prt?action=termsofservice">Terms of Service</a></li>
 								<li><a href="mainportal.prt?action=sitemap">Site map</a></li>
 							</ul>		
 			</div>
