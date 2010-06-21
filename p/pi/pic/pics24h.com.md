@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pics24h.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517205259id_/http%3A//www.pics24h.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pics24h.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621044048id_/http%3A//www.pics24h.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pics24h
 
