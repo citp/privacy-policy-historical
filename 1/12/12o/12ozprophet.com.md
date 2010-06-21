@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219005621id_/http%3A//www.12ozprophet.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621060043id_/http%3A//www.12ozprophet.com/index.php/privacy) for the most accurate reproduction.*
 
 # 12ozProphet.com - Privacy Policy
 
