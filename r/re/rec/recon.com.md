@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107223524id_/http%3A//www.recon.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621114342id_/http%3A//www.recon.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Recon - Photo profiles for gay men
 
 **We have created this policy to demonstrate our respect for your privacy. Please read it carefully before using this website as it concerns use of your personal information.**
 
