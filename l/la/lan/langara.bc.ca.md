@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the langara.bc.ca privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132514id_/http%3A//www.langara.bc.ca/ancillary/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the langara.bc.ca privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622005644id_/http%3A//www.langara.bc.ca/ancillary/privacy.html) for the most accurate reproduction.*
 
 # Langara College | Privacy Statement
 
