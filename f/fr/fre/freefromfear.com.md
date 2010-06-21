@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefromfear.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214214748id_/http%3A//www.freefromfear.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefromfear.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621041027id_/http%3A//www.freefromfear.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Free From Fear - Privacy Policy
 
@@ -91,7 +91,7 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent
 
-[Back to Top](https://web.archive.org/web/20091214214748id_/http%3A//www.freefromfear.com/Privacy-Policy.html?rnd=0.9093712621275878#top)
+[Back to Top](https://web.archive.org/web/20100621041027id_/http%3A//www.freefromfear.com/Privacy-Policy.html?rnd=0.9093712621275878#top)
 
 * * *
 
