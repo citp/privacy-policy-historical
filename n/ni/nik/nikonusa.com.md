@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonusa.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221002537id_/http%3A//www.nikonusa.com/About-Nikon/Privacy-Policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonusa.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621051258id_/http%3A//www.nikonusa.com/About-Nikon/Privacy-Policy.page) for the most accurate reproduction.*
 
 # Nikon Privacy Policy
 
