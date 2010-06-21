@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthdaily.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132926id_/http%3A//www.wealthdaily.com/subscription/manage/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthdaily.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622010038id_/http%3A//www.wealthdaily.com/subscription/manage/%23privacy) for the most accurate reproduction.*
 
 # Wealth Daily - Subscription Management
 
