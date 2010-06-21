@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashbeats.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222003930id_/http%3A//www.smashbeats.com%3Fgo%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashbeats.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235130id_/http%3A//www.smashbeats.com%3Fgo%3Dprivacypolicy) for the most accurate reproduction.*
 
 # SMASHbeats - Music Videos, Funny Videos, Song Lyrics & More
 
