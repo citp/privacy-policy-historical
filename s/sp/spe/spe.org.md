@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218235214id_/http%3A//spe.org/spe-app/spe/about/governance/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235030id_/http%3A//www.spe.org/about/governance/privacy_policy.php) for the most accurate reproduction.*
 
-# SPE: Privacy Policy
+# Privacy Policy
 
 To provide service to you, SPE collects certain information, such as your address, telephone number(s), and other contact, demographic, and billing information. SPE collects this information only by voluntary disclosure directly from you. SPE requests such information through a variety of ways, including the SPE Membership Application, product order forms, and event registrations. The information SPE collects is intended to allow SPE to process your transaction effectively and efficiently and to plan future programs and services to better serve you.
 
@@ -20,7 +20,7 @@ These principles and SPE's policies apply whether SPE collects the information b
 
 ### Contact Information
 
-The [Membership Application Form](https://web.archive.org/spe-site/spe/spe/membership/recruit/09_membership_application.pdf)  requires individuals to provide contact information -- address(es), phone number(s), and email address(es) -- together with demographic information (e.g., job title, education, and business focus) SPE uses the information to provide member services, such as the _Journal of Petroleum Technology_ , as well as catalogs and promotions of publications, meetings, and other products and information of interest to you.
+The [Membership Application Form](https://web.archive.org/web/20100621235030id_/http%3A//www.spe.org/membership/recruit/documents/09_membership_application.pdf) requires individuals to provide contact information -- address(es), phone number(s), and email address(es) -- together with demographic information (e.g., job title, education, and business focus) SPE uses the information to provide member services, such as the _Journal of Petroleum Technology_ , as well as catalogs and promotions of publications, meetings, and other products and information of interest to you.
 
 SPE also collects information from customers, both members and nonmembers, who request information or purchase products and services from SPE. This information is collected on an order form, an event registration form, or in another manner. SPE collects contact information (address, phone number, etc.), payment information (an account or credit card number) and other information. This information is used to fulfill orders and to contact the customer as necessary.
 
@@ -28,7 +28,7 @@ The SPE database contains information on members and nonmembers, including autho
 
 From time to time, SPE will permit companies, who, in SPE's estimation, have something of value to offer to SPE members to rent mailing lists. However, SPE does not make available the email addresses of SPE members or customers for non-SPE business.
 
-SPE makes information from its membership database available to other members through the online [Membership Directory](https://web.archive.org/mbrservices/directory/index.cfm).  SPE’s [Data Use Policy](https://web.archive.org/spe-app/spe/about/governance/data_use_pol.htm) covers the use of information from the Membership Directory.
+SPE makes information from its membership database available to other members through the online [Membership Directory](https://web.archive.org/mbrservices/directory/index.cfm).  SPE’s [Data Use Policy](https://web.archive.org/web/20100621235030id_/http%3A//www.spe.org/about/governance/data_use_pol.php) covers the use of information from the Membership Directory.
 
 ### Payment Information
 
@@ -50,7 +50,7 @@ If you choose to restrict use of your information, you may not receive certain c
 
 ### Changing/Correcting Your Personal Information
 
-SPE members or customers may [change or correct information](https://web.archive.org/mbrservices/index.cfm)  on their record online. Members and customers may also contact SPE Customer Service to review or request changes to personal information.
+SPE members or customers may [change or correct information](https://web.archive.org/mbrservices/index.cfm) on their record online. Members and customers may also contact SPE Customer Service to review or request changes to personal information.
 
 SPE reserves the right to modify its privacy policies and practices at any time without notice. This statement is not intended to create any contractual or other legal rights. If you have questions about SPE's Privacy Policy, the practices of the SPE web site, or your interactions with SPE, contact the [SPE President](mailto:president@spe.org).
 
@@ -64,7 +64,7 @@ Logging into the SPE website requires that you accept cookies.  Most cookies us
 
 **Email List Servers and Online Communities** – SPE operates email list servers and Online Communities to facilitate communication among groups conducting SPE business. These tools are useful in communicating technical and non-technical information. Information in discussion forums or online communities is available to anyone with access to this area. SPE cannot control what others may do with information that you disclose using these tools.
 
-**Links** – Certain areas of SPE.org may contain links to other web sites. SPE is not responsible for the privacy practices or content of such linked sites. See SPE’s [Links Policy](https://web.archive.org/spe-app/spe/about/governance/links_policy.htm)
+**Links** – Certain areas of SPE.org may contain links to other web sites. SPE is not responsible for the privacy practices or content of such linked sites. See SPE’s [Links Policy](https://web.archive.org/web/20100621235030id_/http%3A//www.spe.org/about/governance/links_policy.php).
 
 ### Secure Transactions
 
