@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compsci.ca privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219225517id_/http%3A//compsci.ca/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compsci.ca privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621125850id_/http%3A//compsci.ca/Privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -97,6 +97,9 @@ We may release personal information when we believe in good faith that release i
   * **With Your Consent:**  
 Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out. 
 
+  * **stopforumspam.com**  
+CompSci.ca will share the username, e-mail address and IP of users we consider to be spammers with the site [stopforumspam.com](http://stopforumspam.com./). CompSci.ca is not responsible for what information is shared by stopforumspam.com. What constitutes spaming is left solely to the determination of our staff, moderators, and automated systems. Any user may be listed as a spammer and have there information shared with stopforumspam.com at any time. 
+
 
 
 
@@ -141,3 +144,5 @@ If you decide to visit Computer Science Canada websites, your visit and any poss
 ### Effective Date of this Privacy Policy
 
 This Privacy Policy is effective as of May 7, 2007
+
+Last updated on May 18th, 2010
