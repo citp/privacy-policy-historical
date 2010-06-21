@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222005546id_/http%3A//www.weartv.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weartv.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235700id_/http%3A//www.weartv.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WEAR ABC 3 :: Privacy Policy
 
-[](https://web.archive.org/sections/station/advertise/)  
----  
-  
 **General**
 
 The following privacy policy describes what information is collected by http://www.weartv.com/ (the "Website") and how that information is used. This privacy policy is effective as of February 7, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time. 
@@ -30,15 +27,3 @@ All personal information collected by this Website may be disclosed as required 
 **Linked Sites**
 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
-
-**Local Weather:**
-
-Monday Night:  Clear and cool. Lows 35-40. 
-
-Tuesday:  Partly cloudy.  Highs in the 60s.
-
-River Flood Warnings: [Click Here](http://forecast.weather.gov/wwamap/wwatxtget.php?cwa=mob&wwa=flood%20warning)
-
-[](http://www.weartv.com/newsroom/wx/)
-
-IE6 Float Fix
