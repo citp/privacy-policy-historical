@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connexion.org privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414181115id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexion.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621165412id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,17 +16,19 @@ Connexion asks for certain information such as your name, email address, gender 
 
 **Information Obtained from Your Computer**
 
-Connexion also collects the type and version number of your browser as well as your computer's IP address. We use this for general administration of the website only.
+Connexion also collects the type and version number of your browser as well as your computer's IP address. We use this for general administration of the website - including for tracking down fake or libelous accounts.
 
 **Sharing of Your Information**
 
-We do not sell, rent, share, trade or give away any of your personal information unless required by law.
+We do not sell, rent, share, trade or give away any of your personal information unless required by law. At Connexion's discretion, information may also be released on any fake or libelous account to anyone wishing to pursue legal action.
+
+Anonymized data may be shared for purposes of conducting scholarly studies, but no personal information (names, email addresses, etc.) will be released.
 
 **How We Use Your Information**
 
 We use your information principally to enhance your experience using the web site. Links available on the home page and elsewhere may be shown because they have relevance to you. Also to minimize irrelevant communications from us to you, any email communication from Connexion will be sent only to those members to whom it might be important.
 
-It is also used is aggregated form (i.e. as statistics like 12% of members are under the age of 20) and in that form may be widely distributed. However, we never release your personal information to anyone outside of our organization.
+It is also used is aggregated form (i.e. as statistics like 12% of members are under the age of 20) and in that form may be widely distributed.
 
 **Use of Cookies**
 
@@ -56,7 +58,6 @@ The messages you send on Connexion are private. They are not normally read by an
 
 A list of contacts for Connexion can be obtained [here](http://www.connexion.org/contactus.cfm). Or you can write or call us at:  
 Connexion  
-419 Race St.  
 Denver CO 80206  
 303-322-4804
 
