@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bossgoo.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219202752id_/http%3A//www.bossgoo.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossgoo.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235807id_/http%3A//www.bossgoo.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Bossgoo.com makes a firm commitment to protect your privacy. The following policy, as part of [Terms & Conditions](https://web.archive.org/web/20091219202752id_/http%3A//www.bossgoo.com/help/terms-conditions.html) which has to be agreed with by users while visiting our website, provides details of how your information is treated. This policy may be subject to changes without notice. So please check the latest version periodically. 
+Bossgoo.com makes a firm commitment to protect your privacy. The following policy, as part of [Terms & Conditions](https://web.archive.org/web/20100621235807id_/http%3A//www.bossgoo.com/help/terms-conditions.html) which has to be agreed with by users while visiting our website, provides details of how your information is treated. This policy may be subject to changes without notice. So please check the latest version periodically. 
 
 ## Our Commitment to Privacy
 
