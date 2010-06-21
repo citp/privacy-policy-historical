@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powersportsmax.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222004646id_/http%3A//www.powersportsmax.com/information.php%3Finfo_id%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powersportsmax.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235535id_/http%3A//www.powersportsmax.com/information.php%3Finfo_id%3D18) for the most accurate reproduction.*
 
 # PowersportsMax.com
 
