@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateursrated.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620203250id_/http%3A//poseparty.com/user/statements/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateursrated.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235454id_/http%3A//www.poseparty.com/user/statements/privacy.php) for the most accurate reproduction.*
 
 # Amateur, Voyeur & Exhibitionist PoseParty - The Sexiest Party On Earth
 
