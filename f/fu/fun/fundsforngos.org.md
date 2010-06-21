@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fundsforngos.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022606id_/http%3A//www.fundsforngos.org/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundsforngos.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621035208id_/http%3A//www.fundsforngos.org/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
-# FUNDS FOR NGOS . ORG » Privacy Policy
+# Privacy Policy | FUNDS FOR NGOS . ORG
 
 ## [Privacy Policy](http://www.fundsforngos.org/privacy-policy/privacy-policy/ "Permanent Link to Privacy Policy")
 
@@ -21,9 +21,3 @@ DoubleClick DART cookies
 We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on the visitors’ computers when they are browsing the web and visiting a website using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to visitors and their interests, which is known as “interest based targeting.” The ads served will be targeted based on the previous browsing history. DART uses “non-personally identifiable information” only. It does NOT track personal information about the visitor, such as the name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. Visitors can opt-out of this ad serving on all sites using this advertising by visiting this link: <http://www.doubleclick.com/privacy/dart_adserving.aspx> and/or <http://www.google.com/privacy_ads.html>
 
 Visitors can choose to disable or selectively turn off the cookies or third-party cookies in their browser settings, or by managing preferences in programs such as Norton Internet Security. Deleting cookies does not mean visitors are permanently opted out of any advertising program. Unless they have settings that disallow cookies, the next time they visit a website running the advertisements, a new cookie will be added.
-
-**Possibly Related Posts:**
-
-
-  
-
