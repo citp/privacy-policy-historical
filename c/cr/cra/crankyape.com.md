@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220071140id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622001617id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
 
 # Crankyape.com Bank repo rvs, motorcycles, snowmobiles, atvs, boats, trucks, trailers, go karts, jet skis, sleds, fourwheelers, trailers, motorhomes, rvs.
 
@@ -22,29 +22,28 @@
   * [  Miscellaneous](http://www.crankyape.com/default.asp?pg=DisItems&Cat=7)
   * [  Lawn & Garden](http://www.crankyape.com/default.asp?pg=DisItems&Cat=17)
   * [  All items](http://www.crankyape.com/default.asp?pg=todaysInventory)
+  * [  Online Store](http://www.crankyape.com/store/AllItems.aspx "get your CrankyApe.com GEAR here")
 
   
   
   FAQ's  
   
-  * [  FAQ's](http://www.crankyape.com/default.asp?pg=Help)
+  * [  FAQ's](http://www.crankyape.com/faq.aspx)
 
   
   
   Resources  
   
-  * [  Financing](http://www.crankyape.com/default.asp?pg=Financing)
-  * [  Shipping](http://www.crankyape.com/default.asp?pg=Shipping)
-  * [  Parts &   Accessories](http://www.crankyape.com/default.asp?pg=Parts-and-Accessories)
-  * [  Links](http://www.crankyape.com/default.asp?pg=Links)
+  * [  Financing](http://www.crankyape.com/Financing.aspx)
+  * [  Shipping](http://www.crankyape.com/shipping.aspx)
+  * [  Links](http://www.crankyape.com/Links.aspx)
 
   
   
   Company  
   
   * [  About us](http://www.crankyape.com/default.asp?pg=Company)
-  * [  Hours &  
-  Directions](http://www.crankyape.com/default.asp?pg=hours-information)
+  * [  Locations](http://www.crankyape.com/locationinformation.aspx)
   * [  Tour our facility](http://www.crankyape.com/default.asp?pg=Tour)
   * [  Work for us](http://www.applicantstack.com/client/crankyape/x/openings)
   * [  News](http://www.crankyape.com/default.asp?pg=News)
@@ -70,7 +69,7 @@ At Midwest Recreational Clearinghouse (hereinafter referred to as “CrankyApe.c
 * * *  
   
 ---  
-When you bid on an item or purchase an item at auction, we need to know your name, e-mail address, mailing address, credit-card number and expiration date. This allows us to process and fulfill your winning auction results and to notify you of your auction sale status. 
+When you bid on an item or purchase an item at auction, we need to know your name, e-mail address and mailing address. This allows us to process and fulfill your winning auction results and to notify you of your auction sale status. 
 
 You may voluntarily sign up to be informed about certain upcoming auctions. For this service you will need to register as a member of www.CrankyApe.com and provide a valid e-mail address, which we use to send the information you requested. 
 
