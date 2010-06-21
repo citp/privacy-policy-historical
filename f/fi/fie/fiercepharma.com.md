@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiercepharma.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141549id_/http%3A//www.fiercepharma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiercepharma.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621114631id_/http%3A//www.fiercepharma.com/privacy) for the most accurate reproduction.*
 
 # FierceMarkets Privacy Policy
 
@@ -27,6 +27,12 @@ We also rent our postal mailing list from time to time, albeit rarely. In doing 
 We typically collect user-supplied information during the registration process for our events and webinars. This information is used for communication and logistical purposes, and to provide a tailored and customized events.
 
 Event and webinar registration information may be shared with our event sponsors and co-hosts. (Information may be both given and received.) These outside sponsors will use the information according to their own privacy policies. Please read those policies and be aware of their privacy practices before registering. 
+
+### **Whitepaper and other Third Party Content**
+
+FierceMarkets frequently promotes content developed by Third Party Content providers. Examples of this type of content include, but are not limited to, whitepapers and analyst research reports. This information is either hosted on a FierceMarkets website or hosted entirely on a Third Party content providers site.
+
+The third party partners provide this content through FierceMarkets in return for receiving the personally identifiable contact information of users who view their content. If you choose to view third party content, FierceMarkets may disclose your personal data to the third parties. If you do not want this information disclosed to a Content Provider, do not view the Third Party Content. The third party's use of that personal information is governed by the partner's privacy policy, and not by this Privacy Policy.
 
 ### **Additional Notes**
 
