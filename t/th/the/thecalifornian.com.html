@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the thecalifornian.com privacy policy that was archived on 2009-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219014616id_/http%3A//www.thecalifornian.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecalifornian.com privacy policy that was archived on 2010-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621114504id_/http%3A//www.thecalifornian.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><!-- 
-
---><head>
-<!-- GO4F Version: 0912.1604 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+<!-- GO4F Version: 1006.1758 -->
 							<title>thecalifornian.com | Salinas PRIVACY | The Salinas Californian</title>
 <meta name="keywords" content="thecalifornian.com,Salinas,California,News,local news,headlines,stories,world news">
 <meta name="description" content="Salinas California News - thecalifornian.com is the home page of Salinas California with in depth and updated Salinas local news. Stay informed with both Salinas California news as well as headlines and stories from around the world.">
+<link rel="canonical" href="http://www.thecalifornian.com/section/PRIVACY/PRIVACY">
+<meta name="robots" content="noodp">
+<meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="0">
@@ -17,12 +18,12 @@
 <link href="/gci/gc/p6/GO4Styles-min.css" rel="stylesheet" type="text/css">
 <script src="/GEL/lib/core/core.js"></script>
 <script type="text/javascript"> 
- /*Subsite Redirect*/
+/*Subsite Redirect*/
 var _bodyTimer= new GEL.util.benchmark.Timer("Body Load").start(); 
 GEL.thepage.on("ready", function() { _bodyTimer.end() } ); 
- try{document.domain= GEL.config.domain= "thecalifornian.com"}catch(e){};
- /* GO4 Faster PageInfo */
- 				GEL.config.sitelifeurl= "http://sitelife." + 
+try{document.domain= GEL.config.domain= "thecalifornian.com"}catch(e){};
+/* GO4 Faster PageInfo */
+				GEL.config.sitelifeurl= "http://sitelife." + 
 	"thecalifornian.com/ver1.0/Direct/Process?sid=sitelife"+ 
 	".thecalifornian.com";
 GEL.thepage.pageinfo = { 
@@ -58,32 +59,37 @@ GEL.thepage.pageinfo = {
 	}
 };
 GEL.thepage.pageinfo.siteinstance="";
- /* Banner configuration and Initialization */
- (function(){
+GEL.thepage.pageinfo.videooverlays="on";
+/*GO4 Faster Semantics*/
+	GEL.thepage.pageinfo.semantics={
+	response:{"Url":"http://www.thecalifornian.com/section/PRIVACY/PRIVACY","ContentLength":"","FetchDuration":"","ContentType":"","Id":"","PathIds":"","LanguageId":"","Channels":[{}],"UnconStatus":4},
+	source:'CW',
+	enabled:true,
+	status:'4',
+	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.thecalifornian.com/section/PRIVACY/PRIVACY',
+	uniqueids:[],
+	uniqueidsdesc:[],
+	allids: [],
+	calltime:'5032',
+	cached:true
+};
+/* Banner configuration and Initialization */
+(function(){
 var 
 	_c= GEL.config,
-        _keywords= ''+'&'+location.search.substring(1),
-        _a= _keywords.split("&")
+	_a = [],
+	_SI= GEL.namespace("thepage.pageinfo.semantics"), 
+	_ids= typeof _SI.uniqueids == 'object' ? _SI.uniqueids : [],
+	_keywords
 ; 
+for(var i=0, l= _ids.length,kw= _ids[i]; i < l ; kw= _ids[++i])
+	_a[_a.length]= "CW" + kw; 
+_c.KeyWords= _a.slice(); 
+_c.KeyValues= {cw: _ids.slice()}; 
 _c.AdPage='ca-salinas.californianonline.com/news/front.htm';
 _c.AdServer= "gannett.gcion.com"; 
 _c.AdNetworkId= 5111.1;
 _c.PlacementId=parseInt(896016, 10)
-_c.KeyValues= { };
-_c.KeyWords= [];
-for( var i=0,l=_a.length,w=_a[i]; i<l; w= _a[++i] )
-{
-        if(!w) continue;
-        var
-                _t= w.split("="),
-                n= encodeURIComponent(_t[0]),
-                v= _t[1]
-        ;
-        if(v)   
-                _c.KeyValues['kv'+n]=  encodeURIComponent(v);
-        else
-                _c.KeyWords.push(n);
-}
 _c.gcion_section_front = "section"; 
 _c.gdn_section_front = "section"; 
 _c.PDurl = 'search.thecalifornian.com'; /*PDURL*/
@@ -94,7 +100,7 @@ GEL.thepage.initializer.addInitRoutine({
 	callback: bannerFinder, 
 	priority: 25
 }); 
-function bannerFinder(){ 
+function bannerFinder(){
 	var 
 		_t= new GEL.util.benchmark.Timer("Banners").start(), 
 		_bl= GEL.thepage.bannerLoader= 
@@ -103,10 +109,10 @@ function bannerFinder(){
 	; 	
 	_bl.findBanners(); 
 	_bm= _bl.loadBanners(
-			function(){return this.config.loadOnInit;}, 
-			null, 
-			false
-		);
+		function(){return this.config.loadOnInit;},
+		null, 
+		false
+	);
 	_bm.on("ready", _t.getStop()); 
 	this.addElement(_bm); 
 }
@@ -124,7 +130,7 @@ return function OAS_AD(pos, opts) {
         _me.parentNode.insertBefore(_container.getElement(), _me); 
 }
 })(); 
- (function(){ 
+(function(){ 
 var _c= GEL.config.userauth={
 	timeout: 20, 
 	enable_auth_by_division: true, 
@@ -150,7 +156,7 @@ var _c= GEL.config.userauth={
 	persona_url: "/apps/pbcs.dll/section?category=pluckpersona", 
 	blogs_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaBlog", 
 	photos_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaPhotos", 
-	version: "3.4.1",
+	version: "3.4",
 	coppaage: 13, 
 	pp_url: "/pp", 
 	tos_url: "/tos", 
@@ -238,7 +244,7 @@ GEL.thepage.initializer.addInitRoutine({
 	}
 }); 
 })(); 
- /****O4 Faster Omniture******/
+/****O4 Faster Omniture******/
 (function(){
 	var 
 		_PI= GEL.thepage.pageinfo
@@ -246,7 +252,7 @@ GEL.thepage.initializer.addInitRoutine({
 	GEL.namespace('config.omniture', 'config.bus.properties', 'config.bus.providers');
 	GEL.config.bus.providers.sitecat= 100; 
 	GEL.config.bus.providers.bt= 200;
-/* If this is a frontpage (section or home) we add the checkmate provider */
+/* If this is a frontpage (section Front or home) we add the checkmate provider:*/
 (function(){ 
 	var _CFG= GEL.namespace("config.checkmate"); 
 	_CFG.domain= "" || (function(){ 
@@ -297,7 +303,7 @@ GEL.thepage.initializer.addInitRoutine({
 	is maintained within the OMniture JavaScript provider. 
 */
 	GEL.config.bus.properties= {
-		server: 'publicus',
+		server: 'SAXO-GEL',
 		pagetype: '',
 		custom1: '',
 		custom2: '',
@@ -323,11 +329,100 @@ GEL.thepage.initializer.addInitRoutine({
 				return _pdefault;
 		})(),
 		custom8 : '',
+		topstories: (function(){
+			var 
+				_top = {
+					frontpage: (function(){
+						return '';
+					})(),
+					article: (function(){
+						if(GEL.thepage.pageinfo.articleinturl){
+							var 
+								_arturl=GEL.thepage.pageinfo.articleinturl.split("/"),
+								_top
+							;
+							_top = '/article/'+_arturl[2]+"/"+_arturl[3]+"/"+_arturl[4];
+							return _top;
+						}
+					})(),		
+					section: (function(){
+						return '';
+					})(),
+					gallery: (function(){
+						return '';
+					})(),
+					error: (function(){
+						return '';
+					})()
+				},_type=_PI.type
+			;
+			if(_type in _top)
+				return _top[_type];
+		})(),
 		contenttype : 'section',
-		division: 'Newspaper',
+		division: '',
 		location: document.location,
-		marketname: 'Salinas:thecalifornian',
-		isException : false
+		uri: (function(){
+			var 
+				_uri = {
+					frontpage: (function(){
+						var _uri = "/frontpage"
+						return _uri;
+					})(),
+					article: (function(){
+						if(GEL.thepage.pageinfo.articleinturl){
+							var 
+								_arturl=GEL.thepage.pageinfo.articleinturl.split("/"),
+								_uri
+							;
+							_uri = '/article/'+_arturl[2]+"/"+_arturl[3]+"/"+_arturl[4];
+							return _uri;
+						}
+					})(),		
+					section: (function(){
+						var _uri = "/section/"+_PI.categoryid;
+						return _uri;
+					})(),
+					gallery: (function(){
+						return '/Gallery-TBD';
+					})(),
+					error: (function(){
+						return '/error';
+					})()
+				},_type=_PI.type
+			;
+			if(_type in _uri)
+				return _uri[_type];
+		})(),
+		pagedomain: _PI.url.domainname,
+		marketname: 'gpaper167',
+		isException : false,
+		useraction: (function(){
+			var _p = GEL.env.url.qsv;
+			if(_p.odyssey && _p.template!='printphoto')
+				return _p.odyssey;
+		})(),
+		ecommerceSource: (function(){
+			var 
+				_p = GEL.env.url.qsv
+			;
+			if(_p.source)
+				return _p.source;
+		})(),
+		semantics: (function(){
+			if(typeof(_PI.semantics)!='undefined' && typeof(_PI.semantics.uniqueids)!='undefined'){
+				var 
+					_c = _PI.semantics.uniqueids.join('+'),
+					_t = _PI.type,_u
+				;
+			_u = (_t=='frontpage') ? 'frontpage' : 
+					( (_t=='article') ? _PI.articleinturl.split('/').slice(1,5).join('/') : 
+						( (_t=='section') ? _PI.type +'/'+_PI.categoryid : '' ) )
+			; 
+				if(_c)
+					return 'CW:'+'/'+_u+':'+_PI.ssts.section+':'+_c;
+			}
+		})()
 	}
 })();
 </script> 
@@ -347,7 +442,7 @@ GEL.thepage.initializer.addInitRoutine({
 			<div class="leaderboard-container-top">
 				<div class="leaderboard-top">
 					<div class="ad_728x90">
-<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896016/0/-1/ADTECH;alias=ca-salinas.californianonline.com/news/front.htm_728x90_1;cookie=info;loc=100;target=_blank;grp=25953;misc=1580375413043;size=728x90;noperf=1;key=PRIVACY;kvtitle=PRIVACY"></script>
+<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896016/0/-1/ADTECH;alias=ca-salinas.californianonline.com/news/front.htm_728x90_1;cookie=info;loc=100;target=_blank;grp=89194;misc=1580375419291;size=728x90;noperf=1;key=PRIVACY;kvcw=;kvtitle=PRIVACY"></script>
 </div>
 </div><banner position="728x90_1" id="__gelement_adbanner_0"></banner>
 </div>
@@ -364,7 +459,7 @@ GEL.thepage.initializer.addInitRoutine({
 		<li>Other editions: </li>
 		<li><a href="/section/MOBILE">Mobile</a> |</li>
 		<li><a href="/rss">News Feeds</a> |</li>
-		<li><a href="/section/NLETTERSUBSCRIBE">E-Newsletters</a>|</li>
+		<li><a href="/section/NLETTERSUBSCRIBE">E-Newsletters</a> |</li>
 		<li><a href="/sms">Text Alerts</a></li>
 	</ul>
 	<ul class="right">
@@ -385,112 +480,73 @@ GEL.thepage.initializer.addInitRoutine({
 		<tbody><tr>
 			<td>
 				<div class="masthead">
-					<h1>
-						<a href="http://www.thecalifornian.com"><img src="/graphics/mastlogo.gif" alt="thecalifornian.com"></a>
-					</h1>
+					<a href="http://www.thecalifornian.com"><img src="/graphics/mastlogo.gif" alt="thecalifornian.com"></a>
 				</div>
 			</td>
 			<td>
 				<div class="pd-search">
-					<script>
-	var currentLnk = 'tab0';
-	function changeTabbedAff(aff, tabId, text) {
-		document.tabbedForm.aff.value = aff;
-		document.getElementById(currentLnk).className = "";
-		document.getElementById(tabId).className = "pd-search-section-on";
-		document.getElementById("pd-search-text").innerHTML = "Search<br>" + text;
-		currentLnk = tabId;
-	}
-	function gotoTabbedAff(aff, tabId, text, domain) {
-		window.location=domain.replace(/:9085/,"")+"/sp?aff="+aff;
-	}
-	function changeStyle(tabId, onVal) {
-		if(onVal)
-		    document.getElementById(tabId).className = "pd-searchMore-droplistOn";
-		else
-		document.getElementById(tabId).className = "pd-searchMore-droplist";
-	}
-	var hideId;
-	function showMore() {
-		if(document.getElementById('pd-search-sections-more')!=null) {
-		    coords = getPosition();
-		    document.getElementById('pd-search-sections-more').style.left = (coords.x+50) +'px';
-            document.getElementById('pd-search-sections-more').style.top = coords.y +'px';
-			document.getElementById('pd-search-sections-more').style.display = "block";
+					<div class="searchbox-shift">
+<script>
+var search_default = "Find what you are looking for ...";
+var timer = null;
+function showOptions() {
+	var search_options = document.getElementById("search-options");
+	search_options.style.display = "";
+}
+function HideAllSearchOptions() {
+	var search_options = document.getElementById("search-options");
+	search_options.style.display = "none";
+}
+function submitFormAction() {
+	var keywords = document.getElementById("searchbox").value;
+		if (keywords == search_default){
+			keywords = "";
+		}
+	var search_form = document.getElementById("pd-header-search");
+	var checked_option = "";
+	for(var i = 0; i < search_form.searchoption.length; i++) {
+		if(search_form.searchoption[i].checked) {
+			checked_option = search_form.searchoption[i].value;
 		}
 	}
-	function getPosition() {
-	    var coords =  new Object();
-	      coords.x = 0;
-	      coords.y = 0;
-          try {
-	        targetElement = document.getElementById('tabm');
-		    if(targetElement.x && targetElement.y) {
-		        coords.x = targetElement.x;
-		        coords.y = targetElement.y;
-		    } else {
-		        if(targetElement.offsetParent) {
-			        coords.x += targetElement.offsetLeft;
-				    coords.y += targetElement.offsetTop;
-				    while(targetElement = targetElement.offsetParent) {
-				        coords.x += targetElement.offsetLeft;
-					    coords.y += targetElement.offsetTop;
-				    }
-			    }
-		    }
-	      } catch(error) { }
-          return coords;
-	}
-	function hideMore() {
-		if(document.getElementById('pd-search-sections-more')!=null) {
-			document.getElementById('pd-search-sections-more').style.display = "none";
-		}
-	}
-	function mouseOverShowMore() {
-		clearTimeout(hideId);
-	}
-	function mouseOutHideMore(timeout) {
-		hideId = setTimeout("hideMore()",timeout);
-	}
+	var new_url = "";
+	if(checked_option === "OPTION1") new_url = "http://search.thecalifornian.com/sp?aff=1100&skin=&keywords=";
+	else if(checked_option === "OPTION2") new_url = "http://pqasb.pqarchiver.com/thecalifornian/results.html?st=basic&QryTxt=";
+	else if(checked_option === "OPTION3") new_url = "http://search.thecalifornian.com/sp?aff=1180&keywords=";
+	else if(checked_option === "OPTION4") new_url = "http://search.thecalifornian.com/sp?skin=&aff=1109&keywords=";
+	new_url = new_url + "" + keywords;
+	window.location.href = new_url;
+	return false; 
+}	
+function safeParam( key, def) { 
+    var defval = def|| ""; 
+    var re = new RegExp( "[?&]" + key + "=([^&$]*)", "i" ); 
+    var offset = location.search.search(re); 
+    if ( offset == -1 || RegExp.$1 == '') return defval; 
+    return RegExp.$1; 
+}		
 </script>
-		<div id="isf-search-form">						
-<form action="http://search.thecalifornian.com/sp" method="get" class="tabbed-search-form" id="tabbedForm" name="tabbedForm">
-	<input type="hidden" name="aff" value="1100">
-	<input type="hidden" name="skin" value="100">
-	<div style="float:left;">
-		<span id="pd-search-text" class="pd-search-text">Search<br>Monterey County</span>
-	</div>
-	<div style="float:left; width:350px;">
-		<div class="pd-search-sections">
-			<ul>
-								<li id="tab0" class="pd-search-section-on"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tab0','All')">All</a></b><span>&nbsp;</span></li>
-								<li id="tab1"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1101','tab1','Local News')">Local News</a></b><span>&nbsp;</span></li>
-								<li id="tab2"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1174','tab2','Archives')">Archives</a></b><span>&nbsp;</span></li>
-								<li id="tab3"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1001','tab3','Calendar')">Calendar</a></b><span>&nbsp;</span></li>
-								<li id="tabm"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tabm','more');mouseOverShowMore();showMore();" onmouseout="mouseOutHideMore(250);">More&nbsp;»</a></b><span>&nbsp;</span></li></ul></div>
-								<div id="pd-search-sections-more" class="pd-search-sections-more" style="display:none;" onmouseover="mouseOverShowMore();" onmouseout="mouseOutHideMore(250);"><ul>
-								<li id="tab4" class="pd-searchMore-droplist" onmouseover="changeStyle('tab4',true);mouseOverShowMore();" onmouseout="changeStyle('tab4',false);"><a href="javascript:gotoTabbedAff('1114&amp;skin=100','tab4','Jobs','http://search.thecalifornian.com');">Jobs</a></li>
-								<li id="tab5" class="pd-searchMore-droplist" onmouseover="changeStyle('tab5',true);mouseOverShowMore();" onmouseout="changeStyle('tab5',false);"><a href="javascript:gotoTabbedAff('1109&amp;skin=100','tab5','Directory','http://search.thecalifornian.com');">Directory</a></li>
-								<li id="tab6" class="pd-searchMore-droplist" onmouseover="changeStyle('tab6',true);mouseOverShowMore();" onmouseout="changeStyle('tab6',false);"><a href="javascript:gotoTabbedAff('1112&amp;skin=100','tab6','Websites','http://search.thecalifornian.com');">Websites</a></li>
-								<li id="tab7" class="pd-searchMore-droplist" onmouseover="changeStyle('tab7',true);mouseOverShowMore();" onmouseout="changeStyle('tab7',false);"><a href="javascript:gotoTabbedAff('1102&amp;skin=100','tab7','Classifieds','http://search.thecalifornian.com');">Classifieds</a></li>
-								<li id="tab8" class="pd-searchMore-droplist" onmouseover="changeStyle('tab8',true);mouseOverShowMore();" onmouseout="changeStyle('tab8',false);"><a href="javascript:gotoTabbedAff('1113&amp;skin=100','tab8','Cars','http://search.thecalifornian.com');">Cars</a></li>
-								<li id="tab9" class="pd-searchMore-droplist" onmouseover="changeStyle('tab9',true);mouseOverShowMore();" onmouseout="changeStyle('tab9',false);"><a href="javascript:gotoTabbedAff('1180&amp;skin=100','tab9','Coupons &amp; Deals','http://search.thecalifornian.com');">Coupons &amp; Deals</a></li>
-								<li id="tab10" class="pd-searchMore-droplist" onmouseover="changeStyle('tab10',true);mouseOverShowMore();" onmouseout="changeStyle('tab10',false);"><a href="javascript:gotoTabbedAff('1105&amp;skin=100','tab10','Movies','http://search.thecalifornian.com');">Movies</a></li>
-								<li id="tab11" class="pd-searchMore-droplist" onmouseover="changeStyle('tab11',true);mouseOverShowMore();" onmouseout="changeStyle('tab11',false);"><a href="javascript:gotoTabbedAff('1172&amp;skin=100','tab11','Comments','http://search.thecalifornian.com');">Comments</a></li>
-								<li id="tab12" class="pd-searchMore-droplist" onmouseover="changeStyle('tab12',true);mouseOverShowMore();" onmouseout="changeStyle('tab12',false);"><a href="javascript:gotoTabbedAff('1171&amp;skin=100','tab12','People','http://search.thecalifornian.com');">People</a></li>
-								<li id="tab13" class="pd-searchMore-droplist" onmouseover="changeStyle('tab13',true);mouseOverShowMore();" onmouseout="changeStyle('tab13',false);"><a href="javascript:gotoTabbedAff('1108&amp;skin=100','tab13','Shopping','http://search.thecalifornian.com');">Shopping</a></li>
-			</ul>
+<form method="get" id="pd-header-search" class="multi-search" onsubmit="return submitFormAction()" action=" ">
+	<div id="search-wrapper" class="clear">
+		<div id="search_border">
+			<input id="searchbox" type="text" size="34" maxlength="34" onfocus="if(this.value==='Find what you are looking for ...') this.value=''; showOptions();" onblur="if(this.value=='') this.value=safeParam('keywords','Find what you are looking for ...');timer=setTimeout('HideAllSearchOptions()',1500);" onkeydown="showOptions();">
+			<button class="search_btn" type="submit"> Search</button>
 		</div>
-		<div style="clear:both;"></div>
-		<div>
-			<input type="text" name="keywords" class="keyword-input" value="">
-			<input type="image" src="/graphics/search/button_search.gif" class="go-button" align="top">
+		<div id="search-options" style="display:none;" onmouseover="clearTimeout(timer);" onmouseout="timer=setTimeout('HideAllSearchOptions()',1500);">
+			<p>Search in</p>
+			<div class="left">
+				<input class="submit" name="searchoption" type="radio" value="OPTION1" checked="">&nbsp;&nbsp;News<br>
+				<input class="submit" name="searchoption" type="radio" value="OPTION2">&nbsp;&nbsp;Archives
+	     	</div>
+	   		<div class="left">
+				<input class="submit" name="searchoption" type="radio" value="OPTION3">&nbsp;&nbsp;Local Deals<br>
+				<input class="submit" name="searchoption" type="radio" value="OPTION4">&nbsp;&nbsp;Yellow Pages
+		    </div>       
 		</div>
 	</div>
-	<div style="clear:both;"></div>
 </form>
-		</div><!-- #isf-search-form -->			
-
+<script type="text/javascript">document.getElementById("searchbox").value = safeParam('keywords',search_default);</script>
+</div>
 				</div>
 			</td>
 			<td>
@@ -504,7 +560,7 @@ GEL.thepage.initializer.addInitRoutine({
 		</tr>
 		</tbody></table>
 		<div id="navigation-container" class="navigation-container">
-	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-collapse" id="node5310"><a href="http://www.thecalifornian.com">Home</a></span><span class="level1-expand" id="node5311"><a href="http://www.thecalifornian.com/section/NEWSFRONT2">News</a></span><span class="level1-expand" id="node11996"><a href="http://www.thecalifornian.com/Multimedia">Multimedia</a></span><span class="level1-expand" id="node5313"><a href="http://www.thecalifornian.com/news/weather/index.html">Weather</a></span><span class="level1-expand" id="node5314"><a href="http://www.thecalifornian.com/news/opinion.html">Voices &amp; Views</a></span><span class="level1-expand" id="node5315"><a href="http://www.legacy.com/obituaries/thecalifornian/">Obituaries</a></span><span class="level1-expand" id="node5341"><a href="http://www.thecalifornian.com/Living">Living</a></span><span class="level1-expand" id="node5349"><a href="http://www.thecalifornian.com/sports">Sports</a></span><span class="level1-expand" id="node12185"><a href="http://www.thecalifornian.com/section/ENTERTAINMENT">Entertainment</a></span><span class="level1-expand" id="node13879"><a href="http://www.off68.com"><font color="green">68</font></a></span><span class="level1-expand" id="node5316"><a href="http://www.thecalifornian.com/classifieds/index.html">Classifieds</a></span><span class="level1-expand" id="node5317"><a href="http://www.thecalifornian.com/customerservice">Contact Us</a></span><span class="level1-expand" id="node13675"><a href="https://ssl1.gmti.com/salinas/forms/icon/newicon.html"><font color="red">Subscribe!</font></a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"><span class="level2-expand" id="node5352"><a href="http://www.thecalifornian.com/section/MOBILE">Mobile</a></span><span class="level2-expand" id="node5353"><a href="http://www.thecalifornian.com/section/CUSTOMERSERVICE33">RSS Feeds</a></span><span class="level2-expand" id="node5354"><a href="http://www.thecalifornian.com/section/NLETTERSUBSCRIBE">E-Newsletter</a></span></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
+	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-collapse" id="node5310"><a href="http://www.thecalifornian.com">Home</a></span><span class="level1-expand" id="node5311"><a href="http://www.thecalifornian.com/section/NEWSFRONT2">News</a></span><span class="level1-expand" id="node5349"><a href="http://www.thecalifornian.com/sports">Sports</a></span><span class="level1-expand" id="node5314"><a href="http://www.thecalifornian.com/news/opinion.html">Opinion</a></span><span class="level1-expand" id="node11996"><a href="http://www.thecalifornian.com/section/multimedia">Multimedia</a></span><span class="level1-expand" id="node5315"><a href="http://www.legacy.com/obituaries/thecalifornian/">Obituaries</a></span><span class="level1-expand" id="node5341"><a href="http://www.thecalifornian.com/Living">Living</a></span><span class="level1-expand" id="node15458"><a href="http://www.thecalifornian.com/section/news05">El Sol</a></span><span class="level1-expand" id="node13879"><a href="http://www.off68.com">Off 68</a></span><span class="level1-expand" id="node5313"><a href="http://www.thecalifornian.com/news/weather/index.html">Weather</a></span><span class="level1-expand" id="node5316"><a href="http://www.thecalifornian.com/classifieds/index.html">Classifieds</a></span><span class="level1-expand" id="node5317"><a href="http://www.thecalifornian.com/customerservice">Customer Service</a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"><span class="level2-expand" id="node5352"><a href="http://www.thecalifornian.com/section/MOBILE">Mobile</a></span><span class="level2-expand" id="node5353"><a href="http://www.thecalifornian.com/section/CUSTOMERSERVICE33">RSS Feeds</a></span><span class="level2-expand" id="node5354"><a href="http://www.thecalifornian.com/section/NLETTERSUBSCRIBE">E-Newsletter</a></span></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
 </div>
 <script type="text/javascript">
 (function(){ 
@@ -525,7 +581,6 @@ function initMenu(){
 }
 })(); 
 </script>
-
 	</div>
 </div>
 <!-- end #header-container -->
@@ -543,9 +598,13 @@ function initMenu(){
 		</td>
 		<td class="brandingcontentwrapper">
 			<div class="brandingcontent">
-				<img src="/graphics/branding&#10;.gif" alt="The Salinas Californian">
-			</div>
-		</td>
+				</div></td><td style="overflow: hidden;">
+		<div class="frontpage_branding">
+		<a href="http://www.thecalifornian.com/customerservice">Customer service</a> |  <a href="http://www.thecalifornian.com/section/CUSTOMERSERVICE14">Advertise with us</a> | <a href="http://www.thecalifornian.com/section/CUSTOMERSERVICE03">Submit a news tip</a>
+		</div>	
+</td>
+			
+		
 	</tr>
 </tbody></table>
 </div>
@@ -634,13 +693,92 @@ function initMenu(){
 			</tbody></table>
 		</div>
 	</div>
+<div id="partners-sitemap">
+	<div class="sitemap-column">
+	<h4>TOP SECTIONS</h4>
+	<ul>
+		<li><a href="/section/NEWSFRONT2">Local</a></li>
+		<li><a href="/SPORTS">Sports</a></li>
+		<!--li><a href="/section/OFFSIXTYEIGHT05">Schools</a></li-->
+		<li><a href="/news/localbusiness.html">Business</a></li>
+		<li><a href="/news/opinion.html">Opinion</a></li>
+		<li><a href="/Living">Living</a></li>
+		<li><a href="/section/permgall">Photos &amp; Videos</a></li>
+		<li><a href="http://www.legacy.com/obituaries/thecalifornian/">Obituaries</a></li>
+		<!-- li><a href="#needlink">News of the Weird</a></li -->
+		<li><a href="/section/news09">Crime</a></li>
+		<li><a href="/section/news12">Education</a></li>
+		<!-- li><a href="#needlink">The Biq Question</a></li -->
+		<li><a href="/goodnews">Good News Edition</a></li>
+		<li><a href="/news/elsol.html">El Sol</a></li>
+		<li><a href="http://www.off68.com/">Off 68</a></li>
+	</ul>
+	</div>
+	<div class="sitemap-column">
+	<h4>STAY CONNECTED</h4>
+	<ul>
+		<li><a href="/facebook">Facebook</a></li>
+		<li><a href="http://twitter.com/salnews">Twitter</a></li>
+		<li><a href="/section/nlettersubscribe">E-mail Newsletters</a></li>
+		<li><a href="/sms">Text Alerts</a></li>
+		<li><a href="/section/customerservice33">RSS Feeds</a></li>
+	</ul>
+	<h4>ARCHIVES</h4>
+	<ul>
+		<li><a href="http://www.newseum.org/todaysfrontpages/hr.asp?fpVname=CA_SC&amp;ref_pge=gal&amp;b_pge=1">Today's Front Page</a></li>
+		<!-- li><a href="#needlink">Past 7 Days' Content</a></li -->
+		<li><a href="http://search.thecalifornian.com/sp?aff=1100&amp;skin=100">News Archive</a></li>
+		<li><a href="http://pqasb.pqarchiver.com/thecalifornian/item.html">Page Reprints</a></li>
+	</ul>
+	</div>
+	<div class="sitemap-column">
+	<h4>CUSTOMER SERVICE</h4>
+	<ul>
+		<li><a href="/customerservice">Subscriptions</a></li>
+		<li><a href="/customerservice">Delivery</a></li>
+		<li><a href="/customerservice">Advertising</a></li>
+		<li><a href="/section/classifieds">Classifieds</a></li><a href="/section/classifieds">
+		</a><li><a href="/section/classifieds"></a><a href="/section/CUSTOMERSERVICE03">Submit a News Tip</a></li>
+		<li><a href="/section/CUSTOMERSERVICE03">Submit a Letter to the Editor</a></li>
+		<li><a href="http://search.thecalifornian.com/sp?aff=1003">Submit a Calendar Item</a></li>
+		<li><a href="/section/CUSTOMERSERVICE03">Contact Us</a></li>
+	</ul>
+	</div>
+	<div class="sitemap-column">
+	<h4>CLASSIFIEDS</h4>
+	<ul>
+		<li><a href="/jobs">Jobs</a></li>
+		<li><a href="/cars">Cars</a></li>
+		<li><a href="/homes">Homes</a></li>
+		<li><a href="/apartments">Apartments</a></li>
+	</ul>
+	<h4>SAVINGS</h4>
+	<ul>
+		<li><a href="http://circularcentral.shoplocal.com/californianonline/default.aspx?citystatezip=salinas+ca">Weekly Deals</a></li>
+                <li><a href="http://deals.thecalifornian.com/grocerycoupons">Grocery Coupons</a></li>
+                <li><a href="http://deals.thecalifornian.com/localcoupons">Local Coupons</a></li>
+	</ul>
+	</div>
+	<div class="sitemap-column">
+	<h4>ADVERTISING FEATURES</h4>
+	<ul>
+		<li><a href="http://cp.digi-page.net/CpVir/PUBLICATIONS/4999/FlipBook/FlipBook.html">Reader's Choice</a></li>
+		<li><a href="http://cp.digi-page.net/CpVir/PUBLICATIONS/4873/FlipBook/FlipBook.html">Oldtown Salinas</a></li>
+		<li><a href="http://cp.digi-page.net/CpVir/PUBLICATIONS/4344/FlipBook/FlipBook.html#">Women in Business</a></li>
+		<li><a href="http://thecalifornian.digi-page.net/?id=wintershs09">Salinas Cowboy Winter Roundup</a></li>
+		<li><a href="http://view.digipage.net/?userpath=00000018/00009093/00041974/">Welcome 2009</a></li>
+		<li><a href="http://view.digipage.net/?userpath=00000018/00009093/00037976/">Spring Weddings</a></li>
+	</ul>
+	</div>
+</div>
 <div id="partner-logos" class="partner-logos">
 	<a href="http://www.gannett.com"><span class="gannett"></span></a>
 	<a href="http://www.usatoday.com"><span class="usatoday"></span></a>
 	<a href="/apartments"><span class="apartments"></span></a>
 	<a href="/cars"><span class="cars"></span></a>
 	<a href="/jobs"><span class="jobs"></span></a>
-	<a href="/homes"><span class="homes"></span></a>
+	<a href="http://www.homefinder.com"><span class="homes"></span></a>
+	<a href="http://www.homegain.com"><span class="homegain"></span></a> 
 	<a href="/shopping"><span class="shopping"></span></a>
 	<a href="/dating"><span class="dating"></span></a>
 	<a href="http://www.usaweekend.com"><span class="usaweekend"></span></a>
@@ -648,17 +786,17 @@ function initMenu(){
 <div id="partner-links" class="partner-links">
 	<ul>
 		<li>Partners: </li>
-		<li><a href="http://www.careerbuilder.com">Jobs: CareerBuilder.com</a></li>
-		<li><a href="http://www.cars.com">Cars: Cars.com</a></li>
-		<li><a href="http://www.apartments.com">Apartments: Apartments.com</a></li>
-		<li><a href="http://www.shoplocal.com">Shopping: ShopLocal.com</a></li>
-		<li><a href="/homes">Homes: Homefinder.com</a></li>
+		<li><a href="/jobs">Jobs: CareerBuilder.com</a></li>
+		<li><a href="/cars">Cars: Cars.com</a></li>
+		<li><a href="/apartments">Apartments: Apartments.com</a></li>
+		<li><a href="/shopping">Shopping: ShopLocal.com</a></li>
+		<li><a href="http://www.homefinder.com">Homes:</a> <a href="http://www.homefinder.com">Homefinder.com</a></li>
 		<li><a href="http://www.eharmony.com">Dating: eHarmony</a></li>
 	</ul>
 </div>
 <div class="seo-links">
 <ul>
-<li><a href="http://www.thecalifornian.com">Home</a> | </li><li><a href="http://www.thecalifornian.com/section/NEWSFRONT2">News</a> | </li><li><a href="http://www.thecalifornian.com/Multimedia">Multimedia</a> | </li><li><a href="http://www.thecalifornian.com/news/weather/index.html">Weather</a> | </li><li><a href="http://www.thecalifornian.com/news/opinion.html">Voices &amp; Views</a> | </li><li><a href="http://www.legacy.com/obituaries/thecalifornian/">Obituaries</a> | </li><li><a href="http://www.thecalifornian.com/Living">Living</a> | </li><li><a href="http://www.thecalifornian.com/sports">Sports</a> | </li><li><a href="http://www.thecalifornian.com/section/ENTERTAINMENT">Entertainment</a> | </li><li><a href="http://www.off68.com"><font color="green">68</font></a> | </li><li><a href="http://www.thecalifornian.com/classifieds/index.html">Classifieds</a> | </li><li><a href="http://www.thecalifornian.com/customerservice">Contact Us</a> | </li><li><a href="https://ssl1.gmti.com/salinas/forms/icon/newicon.html"><font color="red">Subscribe!</font></a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
+<li><a href="http://www.thecalifornian.com">Home</a> | </li><li><a href="http://www.thecalifornian.com/section/NEWSFRONT2">News</a> | </li><li><a href="http://www.thecalifornian.com/sports">Sports</a> | </li><li><a href="http://www.thecalifornian.com/news/opinion.html">Opinion</a> | </li><li><a href="http://www.thecalifornian.com/section/multimedia">Multimedia</a> | </li><li><a href="http://www.legacy.com/obituaries/thecalifornian/">Obituaries</a> | </li><li><a href="http://www.thecalifornian.com/Living">Living</a> | </li><li><a href="http://www.thecalifornian.com/section/news05">El Sol</a> | </li><li><a href="http://www.off68.com">Off 68</a> | </li><li><a href="http://www.thecalifornian.com/news/weather/index.html">Weather</a> | </li><li><a href="http://www.thecalifornian.com/classifieds/index.html">Classifieds</a> | </li><li><a href="http://www.thecalifornian.com/customerservice">Customer Service</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
 <div id="legal" class="legal">
 	<ul>
 		<li><a href="/terms">Terms of Service</a> |</li>
@@ -669,13 +807,14 @@ function initMenu(){
 		<!--li><a href="#">Work for Us</a> |</li-->
 		<li><a href="/customerservice/subscribe.html">Subscribe</a></li>
 	</ul>
-	<p>Copyright ©2009</p>
+	<p>Copyright ©2010</p>
 </div>
 <div class="gannettlegal">
 	<p>	Use of this site signifies your agreement to the <a href="/section/TERMS">Terms of Service</a> and <a href="/section/PRIVACY">Privacy Policy</a> , updated March 2009.	</p>
 </div>
 <!-- macro name="ad_rotate_test" --> 
 <!-- div class="clear"></div -->
+<!--MBox macro -->
 <!--Site Catalyst macro -->
 <!--Sitecatalyst Macro Settings -->
 <script type="text/javascript"> 
@@ -787,6 +926,26 @@ function initMenu(){
 <noscript> 
  <img src="http://gpaper167.112.2O7.net/b/ss/gpaper167,gntbcstglobal/1/H.3--NS/0"	height="1" width="1" border="0" alt="" />
 </noscript> 
+<!--Semantics Agency Trading Desk-->
+<div id="adsdaq"></div>
+<script type="text/javascript">
+(function(){
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "ADSDAQ",
+		namespace: "remoting",
+		callback: function (){ 
+			var 
+				_jscntr= GEL.ement("adsdaq"), 
+				_u= "http://atd.agencytradingdesk.net/WatsonTracker/IMP/A1000138/C1000187/P1003016/cw.jsx?t=1"
+			;
+			_jscntr.setContentUrl(_u, 'script');
+			_jscntr.updateRemoteContent(); 
+			return; 
+		}, 
+		priority: 250
+	});
+})()	
+</script>
 <script type="text/javascript">
 setTimeout(function(){ GEL.thepage.initializer.init();}, 100); 
 </script> 
