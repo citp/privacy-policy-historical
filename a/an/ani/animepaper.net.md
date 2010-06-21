@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animepaper.net privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220133309id_/http%3A//www.animepaper.net/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animepaper.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621083845id_/http%3A//www.animepaper.net/faq/privacy) for the most accurate reproduction.*
 
 # FAQ - Anime Paper - Anime and Manga wallpapers and scans! (アニメ)
 
@@ -45,3 +45,9 @@ To protect your privacy and security, we will also take reasonable steps to veri
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please contact us by viewing our [contact page](http://www.animepaper.net/faq/contact). 
+
+**Opt-out**
+
+Some of our advertisers collect usage patterns on you using cookies. You can opt out on this data collection by following the link below:
+
+<http://www.networkadvertising.org/managing/opt_out.asp>
