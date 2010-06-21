@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the melbournewater.com.au privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220131520id_/http%3A//www.melbournewater.com.au/content/about_us/policies/privacy_statement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the melbournewater.com.au privacy policy that was archived on 2010-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622003130id_/http%3A//melbournewater.com.au/content/about_us/policies/privacy_statement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -30,7 +30,7 @@
 <meta name="DC.Description" content="Privacy statement.">
 <meta name="DC.Date.Created" scheme="ISO8601" content="2005/08/01">
 <meta name="DC.Date.validTo" scheme="ISO8601" content="2007/08/01">
-<meta name="DC.Identifier" scheme="URI" content="http://www.melbournewater.com.au/content/about_us/policies/privacy_statement.asp">
+<meta name="DC.Identifier" scheme="URI" content="http://melbournewater.com.au/content/about_us/policies/privacy_statement.asp">
 <meta name="DC.Language" scheme="ISO639-1" content="en">
 <meta name="DC.Subject" scheme="Keyword" content="Policy; Privacy; Melbourne; Water; Victoria; Australia">
 <meta name="keywords" content="Policy, Privacy, Melbourne, Water, Victoria, Australia">
@@ -75,7 +75,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 		
 
 		<form id="search-form" method="post" action="/search/">
-			<input type="text" name="txtSearch" value="Enter Search Request..." onfocus="this.value=''">
+			<input id="search-box" type="text" name="txtSearch" value="" onfocus="hideGoogle();">
 			<input type="submit" value="Go" class="button">
 		</form>
 		<p style="float:right;margin:0px 0px 0px 0px;
@@ -92,12 +92,13 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 	<select name="cmbURL" onchange="navURL(form)">
 	<option value="">Our websites</option>
 	<option value="http://education.melbournewater.com.au">Education</option>
+	<option value="http://www.clearwater.asn.au">Clearwater</option>
 	<option value="http://grants.melbournewater.com.au/">Community Grants</option>
 	<option value="http://lote.melbournewater.com.au">Community Languages</option>
 	<option value="http://conservewater.melbournewater.com.au">Conserve Water</option>
 	<option value="http://frogs.melbournewater.com.au">Frog Census</option>
+	<option value="http://healthywaterways.melbournewater.com.au">Healthy Waterways</option>
 	<option value="http://ldm.melbournewater.com.au">Land Development Manual</option>
-	<option value="http://drought.melbournewater.com.au">Living with Drought</option>
 	<option value="http://ouryarra.melbournewater.com.au">Our Yarra</option>
 	<option value="http://melbournemain.melbournewater.com.au">Melb Main Sewer Replacement</option>
 	<option value="http://raingardens.melbournewater.com.au">Raingardens Program</option>
@@ -112,7 +113,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 
 	<div id="storageBanner">
 	<p id="storageText">Melbourne's <a href="/content/water_storages/water_report/water_report.asp" title="Link to Melbourne's Water Storages">water<br>storages</a> are currently</p>
-	<p id="storageNumber"><a href="/content/water_storages/water_report/water_report.asp" title="Link to Melbourne's Water Storages">37.9%</a></p>
+	<p id="storageNumber"><a href="/content/water_storages/water_report/water_report.asp" title="Link to Melbourne's Water Storages">33.1%</a></p>
 	</div>
 
 </div>
@@ -127,10 +128,12 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 						<li><a href="/content/about_us/policies/policies.asp" title="Link to Policies">Policies</a></li>
 						<li><a href="/content/about_us/our_customers_and_services/our_customers_and_services.asp" title="Link to Our Customers and Services">Our Customers and Services</a></li>
 						<li><a href="/content/about_us/contact_us/contact_us.asp" title="Link to Contact Us">Contact Us</a></li>
+						<li><a href="/content/about_us/partnerships/partnerships.asp" title="Link to Partnerships">Partnerships</a></li>
 					</ul>
 				</li>
 				<li><a href="/content/current_projects/current_projects.asp" accesskey="u" title="Link to Current Projects">C<span>u</span>rrent Projects</a>
 					<ul>
+						<li><a href="/content/current_projects/drainage/drainage.asp" title="Link to Drainage">Drainage</a></li>
 						<li><a href="/content/current_projects/rivers_creeks_and_wetlands/rivers_creeks_and_wetlands.asp" title="Link to Rivers Creeks and Wetlands">Rivers Creeks and Wetlands</a></li>
 						<li><a href="/content/current_projects/sewerage/sewerage.asp" title="Link to Sewerage">Sewerage</a></li>
 						<li><a href="/content/current_projects/water_recycling/water_recycling.asp" title="Link to Water Recycling">Water Recycling</a></li>
@@ -157,6 +160,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 					</ul>
 				</li>
 				<li><a href="/content/news/news.asp" accesskey="n" title="Link to News"><span>N</span>ews</a></li>
+				<li><a href="/content/events/events.asp" accesskey="v" title="Link to Events">E<span>v</span>ents</a></li>				
 				<li><a href="/content/careers/careers.asp" accesskey="e" title="Link to Careers">Car<span>e</span>ers</a>
 					<ul>
 						<li><a href="http://careers.melbournewater.com.au/" title="Link to Jobs at Melbourne Water">Jobs at Melbourne Water</a></li>
@@ -166,7 +170,13 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 						<li><a href="/content/careers/trainees/trainees.asp" title="Link to Trainees">Trainees</a></li>
 					</ul>
 				</li>
-				<li><a href="/content/partnerships/partnerships.asp" accesskey="i" title="Link to Partnerships">Partnersh<span>i</span>ps</a></li>
+				<li><a href="/content/sustainability/sustainability.asp" accesskey="b" title="Link to Sustainability">Sustaina<span>b</span>ility</a>
+					<ul>
+						<li><a href="/content/sustainability/climate_change/climate_change.asp" title="Link to Climate Change">Climate Change</a></li>
+						<li><a href="/content/sustainability/renewable_energy/renewable_energy.asp" title="Link to Renewable Energy">Renewable Energy</a></li>
+						<li><a href="/content/sustainability/corporate_sustainability/corporate_sustainability.asp" title="Link to Corporate Sustainability">Corporate Sustainability</a></li>
+					</ul>
+				</li>
 			</ul>
 		</div>
 	</div>
@@ -195,10 +205,9 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 				</li>
 				<li><a href="/content/sewerage/sewerage.asp" accesskey="s" title="Link to Sewerage"><span>S</span>ewerage</a>
 					<ul>
-						<li><a href="/content/sewerage/sewage_treatment/sewage_treatment.asp" title="Link to Sewage Treatment">Sewage Treatment</a></li>
-						<li><a href="/content/sewerage/eastern_treatment_plant/eastern_treatment_plant.asp" title="Link to Eastern Treatment Plant">Eastern Treatment Plant</a></li>
-						<li><a href="/content/sewerage/western_treatment_plant/western_treatment_plant.asp" title="Link to Western Treatment Plant">Western Treatment Plant</a></li>
-						<li><a href="/content/sewerage/a_toilet_is_not_a_rubbish_bin/a_toilet_is_not_a_rubbish_bin.asp" title="Link to A Toilet is not a Rubbish Bin">A Toilet is not a Rubbish Bin</a></li>
+						<li><a href="/content/sewerage/melbournes_sewerage_system/melbournes_sewerage_system.asp" title="Melbourne's Sewerage System">Melbourne's Sewerage System</a></li>
+						<li><a href="/content/sewerage/eastern_treatment_plant/eastern_treatment_plant.asp" title="Eastern Treatment Plant">Eastern Treatment Plant</a></li>
+						<li><a href="/content/sewerage/western_treatment_plant/western_treatment_plant.asp" title="Western Treatment Plant">Western Treatment Plant</a></li>
 					</ul>
 				</li>
 				<li><a href="/content/rivers_and_creeks/rivers_and_creeks.asp" accesskey="c" title="Link to Rivers and Creeks">Rivers and <span>C</span>reeks</a>
@@ -216,18 +225,17 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 					<ul>
 						<li><a href="/content/drainage_and_stormwater/the_drainage_system/the_drainage_system.asp" title="Link to The Drainage System">The Drainage System</a></li>
 						<li><a href="/content/drainage_and_stormwater/flooding/flooding.asp" title="Link to Flooding">Flooding</a></li>
-						<li><a href="/content/drainage_and_stormwater/drain_safety/drain_safety.asp" title="Link to Drain Safety">Drain Safety</a></li>
+						<li><a href="/content/drainage_and_stormwater/stormwater/stormwater.asp" title="Link to Stormwater">Stormwater</a></li>
 					</ul>
 				</li>
 				<li><a href="/content/water_recycling/water_recycling.asp" accesskey="r" title="Link to Water Recycling">Water <span>R</span>ecycling</a>
 					<ul>
-						<li><a href="/content/water_recycling/recycling_water_for_a_greener_future/recycling_water_for_a_greener_future.asp" title="Link to Recycling Water for a Greener Future">Recycling Water for a Greener Future</a></li>
-						<li><a href="/content/water_recycling/quality_of_recycled_water/quality_of_recycled_water.asp" title="Link to Quality of Recycled Water">Quality of Recycled Water</a></li>
-						<li><a href="/content/water_recycling/eastern_region/eastern_region.asp" title="Link to Eastern Region">Eastern Region</a></li>
-						<li><a href="/content/water_recycling/western_region/western_region.asp" title="Link to Western Region">Western Region</a></li>
-						<li><a href="/content/water_recycling/other_recycling_initiatives/other_recycling_initiatives.asp" title="Link to Other Recycling Initiatives">Other Recycling Initiatives</a></li>
-						<li><a href="/content/water_recycling/supply_of_recycled_water/supply_of_recycled_water.asp" title="Link to Supply of Recycled Water">Supply of Recycled Water</a></li>
-						<li><a href="/content/water_recycling/links_and_faqs/links_and_faqs.asp" title="Link to Links and FAQs">Links and FAQs</a></li>
+						<li><a href="/content/water_recycling/what_is_recycled_water/what_is_recycled_water.asp" title="What is Recycled Water">What is Recycled Water?</a></li>
+						<li><a href="/content/water_recycling/recycled_water_is_safe/recycled_water_is_safe.asp" title="Recycled Water is Safe">Recycled Water is Safe</a></li>
+						<li><a href="/content/water_recycling/using_recycled_water/using_recycled_water.asp" title="Using Recycled Water">Using Recycled Water</a></li>
+						<li><a href="/content/water_recycling/recycled_water_suppliers/recycled_water_suppliers.asp" title="Recycled Water Suppliers">Recycled Water Suppliers</a></li>
+						<li><a href="/content/water_recycling/water_recycling_research/water_recycling_research.asp" title="Water Recycling Research">Water Recycling Research</a></li>
+						<li><a href="/content/water_recycling/faqs/faqs.asp" title="FAQs">FAQs</a></li>
 					</ul>
 				</li>
 		</ul>
@@ -400,6 +408,8 @@ Privacy Statement</p></div>
 
 <li><a title="Contact Us" href="/content/about_us/contact_us/contact_us.asp">Contact Us</a></li>
 
+<li><a title="Partnerships" href="/content/about_us/partnerships/partnerships.asp">Partnerships</a></li>
+
 	</ul>
 	</div>
 
@@ -411,17 +421,15 @@ Privacy Statement</p></div>
 
 	
 	<div id="footer">
+		<p class="icons"><a class="flickr" href="http://www.flickr.com/photos/melbournewater/" title="Visit our Flickr Photostream" target="_blank">Flickr</a><a class="twitter" href="http://twitter.com/MelbourneWater" title="Visit our Twiiter page" target="_blank">Twitter</a><a class="youtube" href="http://www.youtube.com/melbournewater" title="Visit our YouTube channel" target="_blank">YouTube</a></p>
 		<ul>
-			<li id="toplink"><a href="#topofpage" title="Link to the Top of the Page">Top of Page</a></li>
-			<li><a href="/content/about_us/policies/copyright_and_disclaimer.asp">Copyright and Disclaimer</a></li>
-			<li><a title="Link to our Privacy Policy" href="/content/about_us/policies/privacy_statement.asp">Privacy</a></li>
-			<li><a title="Link to reference materials" href="/applications/references/references.asp">References</a></li>
-
-			<li><a title="Link to Glossary" href="/content/glossary/glossary.asp">Glossary</a></li>
-			
-			<li><a title="Link to print this page" href="javascript:print()">Print this Page</a></li>
-			<li id="last"><a title="Link to email this page" href="mailto:?subject=Melbourne Water : About Us : Policies : Privacy Statement&amp;body=http://www.melbournewater.com.au/content/about_us/policies/privacy_statement.asp">Email this Page</a></li>
-			
+		<li><a href="/content/about_us/policies/copyright_and_disclaimer.asp">Copyright and Disclaimer</a></li>
+		<li><a title="Link to our Privacy Policy" href="/content/about_us/policies/privacy_statement.asp">Privacy</a></li>
+		<li><a title="Link to reference materials" href="/applications/references/references.asp">References</a></li>
+		<li><a title="Link to Glossary" href="/content/glossary/glossary.asp">Glossary</a></li>
+		<li><a title="Link to print this page" href="javascript:print()">Print this Page</a></li>
+		<li id="last"><a title="Link to email this page" href="mailto:?subject=Melbourne Water : About Us : Policies : Privacy Statement&amp;body=http://melbournewater.com.au/content/about_us/policies/privacy_statement.asp">Email this Page</a></li>
+		<li id="toplink"><a href="#topofpage" title="Link to the Top of the Page">Top of Page</a></li>
 		</ul>
 	</div>
 
@@ -429,11 +437,13 @@ Privacy Statement</p></div>
 
 
 </div>
+
+
 <!-- START Nielsen Online 2008 survey launch -->
 <script type="text/javascript">
 var _rsCI="qt0255"; var _rsND = "//secure-au.imrworldwide.com/"; function rsCi() { } 
 document.write('<scr' + 'ipt type="text/javascript" src="' + _rsND + 'cgi-bin/j?ci=' + _rsCI + '&se=1&cc=1&rd=' + (new Date()).getTime() + '"><\/scr' + 'ipt>');
-</script><script type="text/javascript" src="//secure-au.imrworldwide.com/cgi-bin/j?ci=qt0255&amp;se=1&amp;cc=1&amp;rd=1580437880750"></script>
+</script><script type="text/javascript" src="//secure-au.imrworldwide.com/cgi-bin/j?ci=qt0255&amp;se=1&amp;cc=1&amp;rd=1580437881288"></script>
 <!-- END Nielsen Online -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -444,6 +454,8 @@ try {
 var pageTracker = _gat._getTracker("UA-9850401-2");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
+
 
 
 </body></html>
