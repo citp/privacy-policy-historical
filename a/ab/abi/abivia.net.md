@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the abivia.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621150955id_/http%3A//www.abivia.net/privacy%3Fml%3D5%26mlt%3Dsystem%26tmpl%3Dcomponent) for the most accurate reproduction.*
+
+# Privacy Policy
+
+Your privacy is important to us. We recognize and respect your need for appropriate protection and management of the personal information that you share with us. We are aware of concerns over what happens to personal information that is gathered over the Internet. Our philosophy is to ensure quality for you in all facets of your experience, including your comfort while online with us.
+
+In general, a visit to our site, in which there are no purchases or subscriptions, will not reveal any information about you. We might track which pages you visit, but we do not relate this to you specifically. You remain totally anonymous to us for these purposes. We use tracking information to determine which pages and products are most appealing to our customers and to reduce confusion in our website layout so you can easily navigate the site.
+
+Some of our web pages use "cookies" to provide us with the necessary information for session management and tracking purposes. A cookie is a notation, placed in a file on your computer. Session cookies allow us to maintain the context of your visit with us, for example to remember that you have successfully logged in. Tracking cookies can identify you as someone returning to a web site. You can set your browser to notify you when you are sent a cookie. Then you decide whether or not you wish to accept the cookie. The information we collect in this way will be used to help us improve our service to you by providing an informative, quality online experience.
+
+There are times when we need to collect personal information from you about yourself or someone else, such as someone you are placing an order for, usually at the time you make a purchase. We will always endeavour to provide you with the maximum protection possible during these transactions. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect from you.
+
+We do not sell, rent, or share information you provide to us with outside parties except to the extent necessary to complete transactions requested by you. An example would be sending you a mailing to which you have subscribed or placing a mailing label on a letter so it can be delivered.
