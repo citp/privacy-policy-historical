@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219151128id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621140133id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Checkatrade Privacy Policy
 
