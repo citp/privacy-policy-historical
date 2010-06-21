@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomla.org privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305095346id_/http%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621022854id_/http%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,4 +66,4 @@ From time to time, we may use user information for new, unanticipated uses not p
 
 ##  Questions or comments 
 
-If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at [privacy@opensourcematters.org](mailto:privacy@opensourcematters.org) . 
+If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at [privacy@opensourcematters.org](mailto:privacy@opensourcematters.org). 
