@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reitmans.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620121512id_/http%3A//www.reitmans.com/en/company/privacy.cfm%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reitmans.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621053801id_/http%3A//www.reitmans.com/en/company/privacy.cfm%3F) for the most accurate reproduction.*
 
-# Reitmans
+# Reitmans: shop for women's clothing, apparel in Canada - Designed For Real Life®
 
 Privacy Policy
 
