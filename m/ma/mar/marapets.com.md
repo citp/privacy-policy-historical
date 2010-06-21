@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marapets.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171059id_/http%3A//www.marapets.com/info.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marapets.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621115107id_/http%3A//www.marapets.com/info.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # Mara Pets Games - Free Virtual Pet Site, Online Games & Dress Up Games
 
@@ -10,7 +10,7 @@ Children under the age of 13 do not disclose any personal information about them
 
 Marapets asks users 13 years and older to provide a valid first (and optional last name), valid e-mail address, birth date, gender, and country of location. All users can change or remove their information upon registration. 
 
-Children under 13 can only have their accounts changed to an over 13 account upon the request of their parents, informing us that they have permission to do so. In such a case, the parents need to print out a Parental Consent form ([ **click here**](https://web.archive.org/web/20090617171059id_/http%3A//www.marapets.com/coppa.html)) and fill it in. They can then scan it and email to marapets@gmail.com or fax it (fax number coming soon). 
+Children under 13 can only have their accounts changed to an over 13 account upon the request of their parents, informing us that they have permission to do so. In such a case, the parents need to print out a Parental Consent form ([ **click here**](https://web.archive.org/web/20100621115107id_/http%3A//www.marapets.com/coppa.html)) and fill it in. They can then scan it and email to marapets@gmail.com or fax it (fax number coming soon). 
 
 All information we collect and store is for gaming purposes only. Personal information of those 13 and over are, your email address for you to recover your password, your gender to identify you at the forums, date of birth to track which age groups use the site, your ip address to stop cheating with multiple accounts. 
 
