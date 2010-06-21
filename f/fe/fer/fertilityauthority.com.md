@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fertilityauthority.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220015032id_/http%3A//www.fertilityauthority.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilityauthority.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621071618id_/http%3A//www.fertilityauthority.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -- Privacy-policy -- FertilityAuthority.com
 
 ##  [Privacy Policy](https://web.archive.org/privacy-policy)
 
