@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dc-unlocker.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219203116id_/http%3A//www.dc-unlocker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc-unlocker.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621064226id_/http%3A//dc-unlocker.com/privacy_policy) for the most accurate reproduction.*
 
-# Dc-unlocker | Huawei E230, Vodafone Huawei K4505, Sierra Wireless USB301, USB302, Longcheer WM71, 4G Systems XSStick W14, MF100 Kyivstar
+# Dc-unlocker | Huawei E1550 Kyivstar,Emobile D02HW,E968,ZTE MF639,Sierra Wireless Aircard:USB308,Aircard AC503,Longcheer WM66A,Phones ZTE F600
 
 DC-unlocker.com privacy policy
 
@@ -20,15 +20,14 @@ Paragraphs bellow explain DC-unlocker. com privacy policy.
 
 
 
-2009-12-10
+2010-06-17
 
- **DC-unlocker client software V1.00.0388**
+ **DC-unlocker client software V1.00.0508**
 
-Added: Huawei E230, Vodafone Huawei K4505, Sierra Wireless USB301, USB302, Longcheer WM71, 4G Systems XSStick W14.
+Added: Phones:T-Mobile Pulse mini(beta),ZTE F930,TOSHIBA G450,Modems: Huawei: E1786,UMG1691,UMG1831,E1550 MTC version 11.608.14.11.222 with 14.15.222 boot,Pantech UMW190 VW,MOMO Design MD-@ Mini (ZTE),ZTE: MF102,MF150.
 
-2009-12-05
+2010-05-21
 
- **DC-unlocker client software V1.00.0384**
+ **DC-unlocker client software V1.00.0496**
 
-Added unlock support new version MF100 Kyivstar  
-
+Added: Modems :Huawei:E1550 Kyivstar 11.608.14.11.174 with mixed firmware (11.608.14.15.174 boot),Emobile D02HW,E968,ZTE MF639,Sierra Wireless Aircard:USB308,Aircard AC503,Longcheer WM66A,Phones:ZTE F600.
