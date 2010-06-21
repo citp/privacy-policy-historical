@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nationalledger.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221004046id_/http%3A//www.nationalledger.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalledger.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621061142id_/http%3A//www.nationalledger.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # The National Ledger - Privacy Policy
 
 * * *
 
-UPDATED: April 9, 2009
+UPDATED: January 7, 2010
 
 Internet user privacy is of the highest importance to The National Ledger. The National Ledger is committed to protecting your privacy. The National Ledger does not automatically collect any personally identifiable information, such as name, address, email address or telephone number, from visitors to our website. 
 
@@ -24,7 +24,9 @@ Our website contains links to websites that are not operated by The National Led
 
 Users should check the applicable privacy policies of those third parties if providing personally identifiable information.
 
-The National Ledger also uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest.
+The National Ledger also uses third-party advertising companies to serve ads when you visit our website. These companies may use cookies and information about your visits to this and other web sites in order to provide advertisements that may be of interest to you. This is known as Online Behavior Advertising ("O.B.A") and/or Multi-Site Advertising. The information they use is not personally identifiable, and does not contain your name, email address, physical address, or phone number.
+
+To get more information or to opt out please [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 * * *
 
@@ -44,13 +46,13 @@ The National Ledger reserves the right to change this policy at any time. Please
 
 **Acceptance of Privacy Policy:**
 
-By using The National Ledger sites and services, you signify your acceptance of this Privacy Policy Statement. If you do not agree or are not comfortable with any policy described in this Privacy Policy Statement, your only remedy is to discontinue use of The National Ledger sites. We reserve the right, to modify this Privacy Policy Statement at any time. If we materially change how we use your personal information we will notify through a prominent notice on this Privacy Policy Statement of the web site. Your continued use of any portion of The National Ledger sites following notification or posting of such changes, will constitute your accept of those changes. Questions or concerns about our specific policies, please contact us through [our feedback form](https://web.archive.org/web/20091221004046id_/http%3A//www.nationalledger.com/about/contact.shtml).
+By using The National Ledger sites and services, you signify your acceptance of this Privacy Policy Statement. If you do not agree or are not comfortable with any policy described in this Privacy Policy Statement, your only remedy is to discontinue use of The National Ledger sites. We reserve the right, to modify this Privacy Policy Statement at any time. If we materially change how we use your personal information we will notify through a prominent notice on this Privacy Policy Statement of the web site. Your continued use of any portion of The National Ledger sites following notification or posting of such changes, will constitute your accept of those changes. Questions or concerns about our specific policies, please contact us through [our feedback form](https://web.archive.org/web/20100621061142id_/http%3A//www.nationalledger.com/about/contact.shtml).
 
 * * *
 
 **Contact:**
 
-Direct any questions to us [via e-mail](https://web.archive.org/web/20091221004046id_/http%3A//www.nationalledger.com/about/contact.shtml).
+Direct any questions to us [via e-mail](https://web.archive.org/web/20100621061142id_/http%3A//www.nationalledger.com/about/contact.shtml).
 
 _Or mail us at:_
 
