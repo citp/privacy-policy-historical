@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the latonas.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221013257id_/http%3A//www.latonas.com/mainportal.prt%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latonas.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621053744id_/http%3A//latonas.com/mainportal.prt%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Latona's Domain Auction House and Brokerage
+# Latona's Brokerage and Auction House
 
 #### Privacy Policy
 
