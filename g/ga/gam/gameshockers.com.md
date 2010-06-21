@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameshockers.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218163259id_/http%3A//www.gameshockers.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshockers.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621043018id_/http%3A//www.gameshockers.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
