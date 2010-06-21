@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabi.org privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220013357id_/http%3A//www.cabi.org/Default.aspx%3Fsite%3D170%26page%3D1258) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabi.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621125221id_/http%3A//www.cabi.org/Default.aspx%3Fsite%3D170%26page%3D1258) for the most accurate reproduction.*
 
 # CABI | Privacy policy
 
