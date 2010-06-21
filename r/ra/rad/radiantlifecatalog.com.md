@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiantlifecatalog.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220234532id_/http%3A//www.radiantlifecatalog.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiantlifecatalog.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622013045id_/http%3A//www.radiantlifecatalog.com/privacy_policy) for the most accurate reproduction.*
 
 # Nourishing Traditions, Weston Price, Nutrient Dense Foods
 
