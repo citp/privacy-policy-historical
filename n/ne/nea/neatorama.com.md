@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neatorama.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203130245id_/http%3A//www.neatorama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatorama.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621031429id_/http%3A//www.neatorama.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Neatorama
+# Privacy Policy
 
 At Neatorama.com, we appreciate your readership and respect your privacy. This privacy policy governs the way we collect and use your personal information. This policy may be revised or updated at any time, so please check back often to find the latest version.
 
@@ -47,7 +47,3 @@ Ads on Neatorama.com are served by third party advertisers. These companies may 
 We reserve the right to change this Privacy Policy from time to time, solely in our discretion. We encourage visitors to frequently check this page for any changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 If you have any questions or suggestions regarding our Privacy Policy, please contact us via email.
-
-**COMMENT**
-
-| 
