@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fun-with-words.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193154id_/http%3A//www.fun-with-words.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun-with-words.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622004359id_/http%3A//www.fun-with-words.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
   
-**BORED?** Play our [free word games](https://web.archive.org/web/20090617193154id_/http%3A//www.fun-with-words.com/puzzles.html) – [BOGGLE](https://web.archive.org/web/20090617193154id_/http%3A//www.fun-with-words.com/boggle.html) and [HANGMAN](https://web.archive.org/web/20090617193154id_/http%3A//www.fun-with-words.com/hangman.html)  
+**BORED?** Play our [free word games](https://web.archive.org/web/20100622004359id_/http%3A//www.fun-with-words.com/puzzles.html) – [BOGGLE](https://web.archive.org/web/20100622004359id_/http%3A//www.fun-with-words.com/boggle.html) and [HANGMAN](https://web.archive.org/web/20100622004359id_/http%3A//www.fun-with-words.com/hangman.html)  
  **Fun-with-words.com** has created this Privacy Statement in order to demonstrate our firm commitment to respecting your privacy. The following discloses our information gathering and dissemination practices for this web site (www.fun-with-words.com).
 
 ## IP Addresses
@@ -20,7 +20,7 @@ We also advertise _Anagram Genius_ and _Crossword Maestro_ computer applications
 
 ## Choice/Opt-Out
 
-If users wish to remove their information (e-mail addresses) from our mailing list database so as not to receive future communications from us, you can send us a request using [this form](https://web.archive.org/web/20090617193154id_/http%3A//www.fun-with-words.com/contact_us.html).
+If users wish to remove their information (e-mail addresses) from our mailing list database so as not to receive future communications from us, you can send us a request using [this form](https://web.archive.org/web/20100622004359id_/http%3A//www.fun-with-words.com/contact_us.html).
 
 Should you wish to correct or update any information you have previously provided, please also use this form.
 
@@ -38,8 +38,8 @@ We use outside advertising companies to display advertisements on our web site. 
 
 ## Accuracy
 
-Fun-with-words.com may not be held responsible for any errors or inaccuracies contained on the web site. We make every effort possible to ensure that all information on fun-with-words.com is correct. If you discover anything on www.fun-with-words.com which you believe to be erroneous, we would be grateful if you would [contact the editor](https://web.archive.org/web/20090617193154id_/http%3A//www.fun-with-words.com/contact_us.html) with specific details.
+Fun-with-words.com may not be held responsible for any errors or inaccuracies contained on the web site. We make every effort possible to ensure that all information on fun-with-words.com is correct. If you discover anything on www.fun-with-words.com which you believe to be erroneous, we would be grateful if you would [contact the editor](https://web.archive.org/web/20100622004359id_/http%3A//www.fun-with-words.com/contact_us.html) with specific details.
 
 ## Copyright
 
-For visitors who wish to use fun-with-words.com other than for individual purposes, please refer to our [Copyright Information](https://web.archive.org/web/20090617193154id_/http%3A//www.fun-with-words.com/copyright_info.html) page. | 
+For visitors who wish to use fun-with-words.com other than for individual purposes, please refer to our [Copyright Information](https://web.archive.org/web/20100622004359id_/http%3A//www.fun-with-words.com/copyright_info.html) page. | 
