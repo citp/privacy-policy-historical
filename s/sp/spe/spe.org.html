@@ -1,951 +1,404 @@
-<!--The following is the downloaded HTML source of the spe.org privacy policy that was archived on 2008-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081218235214id_/http%3A//spe.org/spe-app/spe/about/governance/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spe.org privacy policy that was archived on 2010-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621235030id_/http%3A//www.spe.org/about/governance/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="">
-<title>
-    SPE: Privacy Policy
-</title>
-<script src="/web/js/prototype.js" type="text/javascript"></script>
-
-<script src="/web/js/jquery.js" type="text/javascript"></script>
-
-<script src="/web/js/dal_menus.js" type="text/javascript"></script>
-
-<script src="/web/js/cookies.js" type="text/javascript"></script>
-
-<script src="/web/js/sponsor_rotator.js" type="text/javascript"></script>
-
-<script src="/web/js/spe_web.js" type="text/javascript"></script>
-<script>
-    var navigation2 = 'governance';
-    var navigation3 = 'policies';
-</script>
-
-
-<script>
-jQuery.noConflict();
-
-var $j = jQuery;
-var onloads = new Array();
-function bodyOnLoad() {
-    for (var i = 0; i < onloads.length; i++) {
-        onloads[i]();
-    }
-    jQuery(document).ready(function() {
-        jQuery('#div_portlets ').find('.panelContent').hide().end().find('.panelHeader').click(function() {
-            var panel = jQuery(this).next();
-            if (panel.is(':visible')) {
-                panel.slideUp();
-            } else {
-                panel.slideDown();
-            }
-        });
-    }); 
-    setStyleSheet(getCookieValue('speTextSize'));
-
-    var code = '<div id="lev4_box"><div id="lev4_hdr"><h3>Policies &amp; Procedures</h3></div><div id="lev4_bdy"><ul id="lev4"><li><a  href="/spe-app/spe/about/governance/privacy_policy.htm">Privacy Policy</a></li><li><a  href="/spe-app/spe/about/governance/links_policy.htm">Links Policy</a></li><li><a  href="/spe-app/spe/about/governance/data_use_pol.htm">Data Use Policy</a></li><li><a  href="/spe-app/spe/about/governance/terms_use_service_pol.htm">Terms of Service</a></li><li><a  href="/spe-app/spe/about/governance/permissions_policy.htm">Permissions Policy</a></li><li><a  href="/spe-app/spe/about/governance/editorial_policy.htm">Editorial Policy</a></li><li><a  href="/spe-app/spe/about/governance/logo_policy.htm">Logo Use Policy</a></li><li><a  href="/spe-app/spe/about/governance/antitrust_policy.htm">Antitrust Policy</a></li><li><a target="_blank" href="/spe-app/spe/about/governance/Conflict_Interest.pdf">Conflict of Interest Statement</a><img alt="" src="/spe-site/spe/images/icons/pdf.jpg " /></li><li><a target="_blank" href="/spe-app/spe/about/governance/Anti__Harrasment_Policy.pdf">Anti-Harassment Policy</a><img alt="" src="/spe-site/spe/images/icons/pdf.jpg " /></li><li><a  href="/spe-app/spe/about/governance/guide_online_comm.htm">Guidelines for Online Communities</a></li><li><a  href="/spe-app/spe/about/governance/guide_sect_websites.htm">Guidelines for Section Websites/Publications</a></li></ul></div><div id="lev4_ftr"></div></div>';
-    if ($('mcol_basic')) {
-    
-        new Insertion.Top('mcol_basic', '<div id="breadcrumb"><p><a href="/"> Home</a> > <a href="/spe-app/spe/about/index.htm">About SPE</a> > <a href="/spe-app/spe/about/governance/index.htm">Governance</a> > <a href="/spe-app/spe/about/governance/policies_and_procedures.htm">Policies & Procedures</a> > Privacy Policy</p></div>');
-        new Element.addClassName('breadcrumb', 'breadcrumb');
-    
-        new Insertion.Top('mcol_basic', code);
-    }
-
-
-
-
-}
-function deletePersonal(el) {
-    var aa = 'i' + el;
-    var bb = 'a' + el;
-    var cc = 'b' + el;
-    new Element.remove(aa);
-    new Element.remove(bb);
-    new Element.remove(cc);
-    var url = '/spe-app/saveFavoriteServlet';
-    var pars = 'NextAction=1&userId=&title=' + el;
-    var myAjax = new Ajax.Request(
-            url,
-    {
-        method: 'post',
-        parameters: pars,
-        onComplete: null
-    });
-
-}
-function deleteSearch(el) {
-    var aa = 'i' + el;
-    var bb = 'a' + el;
-    var cc = 'b' + el;
-    var xx = 'd' + el;
-    var dd = $(xx);
-    new Element.remove(aa);
-    new Element.remove(bb);
-    new Element.remove(cc);
-    new Element.remove(xx);
-    var url = '/spe-app/saveFavoriteServlet';
-    var pars = 'NextAction=2&userId=&title=' + el + '&application=' + dd.value;
-    var myAjax = new Ajax.Request(
-            url,
-    {
-        method: 'post',
-        parameters: pars,
-        onComplete: null
-    });
-
-}
-<!--showMenuContext()      -->
-function addToFavorites() {
-	    var sm_constitid = null;
-	    sm_constitid = getCookieValue('sm_constitid');
-	    var is_org = null;
-	    is_org = getCookieValue('is_org');
-    if (sm_constitid) {
-        if(is_org && is_org == '0') {
-        	//if this is an individual user then add to favs
-		    var url = '/spe-app/saveFavoriteServlet';
-		    var sub = 'SPE: Privacy Policy'.escapeHTML();
-		    sub = sub.replace(/&amp;/g, "%26");
-		    var pars = 'NextAction=0&userId=&title=' + sub + '&url=/spe-app/spe/about/governance/privacy_policy.htm';
-		    var myAjax = new Ajax.Request(
-		            url,
-		    {
-		        method: 'post',
-		        parameters: pars,
-		        onComplete: fadeUp
-		    });
-		}
-	} else {
-		    var serverName = 'www.spe.org';
-		    var url1 = 'https://' + serverName + '/appssecured/login/servlet/ErightsLoginServlet?ERIGHTS_TARGET=/spe-app/spe/about/governance/privacy_policy.htm?load=fav';
-		    window.open(url1, '_self');
-	}
-
-}
-function emailToFriend() {
-    var m = $('mail');
-    var sub = 'SPE: Privacy Policy';
-    sub = sub.replace(/&amp;/g, " and ");
-    var tempMail = 'mailto:?subject=' + sub + '&body=http://www.spe.org/spe-app/spe/about/governance/privacy_policy.htm';
-    m.action = tempMail;
-    m.submit();
-}
-function fadeUp() {
-    jQuery("#fav").fadeIn('slow', fadeDown);
-}
-function fadeDown() {
-    jQuery("#fav").fadeOut(2000);
-}
-
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link href="/web/css/spe_org_inside.css" rel="stylesheet" type="text/css">
-
-
-
-
-<link id="largeText" href="/web/css/large.css" rel="alternate stylesheet" type="text/css" title="Larger">
-
-    <title>
-        personal
-    </title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/sub_all.dwt.php" codeOutsideHTMLIsLocked="true" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Privacy Policy</title>
+<!-- InstanceEndEditable -->
+<script src="http://cdn.jquerytools.org/1.1.2/full/jquery.tools.min.js"></script>
+<link href="../../css/gen/reset.css" rel="stylesheet" type="text/css">
+<link href="../../css/gen/960.css" rel="stylesheet" type="text/css">
+<link href="../../css/gen/spe_common.css" rel="stylesheet" type="text/css">
+<link href="../../css/gen/spe_gen_inside.css" rel="stylesheet" type="text/css">
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../../css/gen/tabs-accordion-ul.css" rel="stylesheet" type="text/css">
+<link href="../../css/gen/nav-v1.css" rel="stylesheet" type="text/css">
 </head>
-<body bgcolor="#ffffff" onload="javascript:bodyOnLoad()">
-
+<body>
 <div id="container">
-
-
-    
-    
-        
-    
-
-
-
-
-<script>
-
-    var sm_constitid = null;
-    function check() {
-        sm_constitid = getCookieValue('sm_constitid');
-        var pageContentType = 'basic';
-        switch (pageContentType) {
-            case 'home':
-                if (sm_constitid)
-                {
-                    var siteImage = '/web/images/header_home_logout.gif';
-                }
-                else
-                {
-                    var siteImage = '/web/images/header_home_login.jpg';
-                }
-                break;
-
-            default :
-                if (sm_constitid)
-                {
-                    var siteImage = '/web/images/header_basic_logout.gif';
-                }
-                else
-                {
-                    var siteImage = '/web/images/header_basic_login.gif';
-                }
-                break;
-        }
-        if ($('login_img')) {
-            var i = $('login_img');
-            i.src = siteImage;
-        } else if ($('login_text')) {
-            if (sm_constitid) {
-                $('login_text').innerHTML = 'Logout';
-            }
-            else
-            {
-                $('login_text').innerHTML = 'Login';
-            }
-        }
-        var a = $('user_name');
-        if (sm_constitid && a != null) {
-
-            var htmlText = 'Welcome <strong>';
-            if (getCookieValue('first_name')) {
-                htmlText += getCookieValue('first_name');
-            }
-            if (getCookieValue('last_name')) {
-                htmlText += ' ' + getCookieValue('last_name')
-            }
-            htmlText += '</strong>';
-            a.innerHTML = htmlText;
-        }
-    }
-
-    function login() {
-        var serverName = 'www.spe.org';
-        var scheme = 'http';
-        //var reqURL = 'http://www.spe.org:80/spe-app/jsp/personal.jsp';
-        //var reqURI = '/spe-app/jsp/personal.jsp';
-        var targetUrl = "";
-    
-    
-    
-    
-        targetUrl = 'http://' + serverName + '/spe-app/spe/about/governance/privacy_policy.htm';
-    
-    
-    
-    
-        targetUrl = escape(targetUrl);
-
-        if (getCookieValue('sm_constitid'))
-        {
-            //var url1 ='https://' +serverName+'/appssecured/login/servlet/ErightsLoginServlet?ERIGHTS_TARGET='+ scheme + '://' +  serverName + '/spe-app/spe/about/governance/privacy_policy.htm';
-            var url1 = 'https://' + serverName + '/appssecured/login/servlet/ErightsLoginServlet?command=logout&ERIGHTS_TARGET=' + targetUrl;
-            document.location.href = url1;
-        }
-        else
-        {
-            //var url1 ='https://' +serverName+'/appssecured/login/servlet/ErightsLoginServlet?logout=true&ERIGHTS_TARGET='+ scheme + '://' + serverName + '/spe-app/spe/about/governance/privacy_policy.htm';
-
-            var url1 = 'https://' + serverName + '/appssecured/login/servlet/ErightsLoginServlet?ERIGHTS_TARGET=' + targetUrl;
-            document.location.href = url1;
-        }
-    }
-</script>
-<div id="header_bg">
-<img src="/web/images/header_top_bg.jpg" class="img_header" alt="SPE.org" width="987" height="97" border="0" usemap="#Map">
-  <map name="Map"><area shape="rect" coords="65,25,384,80" href="/spe-app/spe/index.jsp"></map>
-    <div id="login_status">
-      <img id="login_img" src="/web/images/header_home_login.jpg" alt="site navigation" border="0" usemap="#logged_out_home">
-      	<map name="logged_out_home">
-      		<area id="login_area" shape="rect" coords="4,4,74,24" href="javascript:login();" alt="login">
-      		<area shape="rect" coords="59,4,120,24" href="/spe-app/jsp/siteFunctionality/siteMap.jsp" alt="site map">
-      		<area shape="rect" coords="125,4,185,24" href="/spe-app/spe/about/contact_us.htm" alt="contact us">
-      		<area shape="rect" coords="191,4,249,24" href="/spe-app/spe/index.jsp" alt="home">
-      	</map>
-<p id="user_name"></p>
-</div></div>
-  <div id="top_nav_row"><img src="/web/images/header_nav.jpg" width="987" height="33" border="0" usemap="#top_nav"></div>
-  <map name="top_nav">
-
-    <area shape="rect" coords="27,6,111,30" href="/spe-app/spe/membership/index.htm">
-    <area shape="rect" coords="120,6,229,30" href="/spe-app/spe/events/index.htm">
-    <area shape="rect" coords="237,6,406,30" href="/spe-app/spe/papers/index.htm">
-    <area shape="rect" coords="413,6,520,30" href="/spe-app/spe/career/index.htm">
-    <area shape="rect" coords="531,6,695,30" href="/spe-app/spe/groups/index.htm">
-    <area shape="rect" coords="706,6,878,30" href="/spe-app/spe/industry/index.htm">
-    <area shape="rect" coords="886,6,964,30" href="/spe-app/spe/about/index.htm">
-  </map>
-
-
-
-
-
-<!-- search panel include -->
-
-    
-        
-
-
-
-
-
-  <div id="srch_bar">
-
-  	<div id="srch_bdy">
-
-		<script language="Javascript">
-
-        function handleKeyPress(e){
-            var key=e.keyCode || e.which;
-            if (key==13){
-                doSearch();
-                return false;
-            } else {
-                return true;
-            }
-        }
-
-
-		function enter() {
-			if(window.event && window.event.keyCode == 13) {
-			  doSearch();
-			  return false; }
-			else
-			  return true;
+	<div id="header">
+		<!-- begin  -->
+<script type="text/javascript">
+	function checkSearch() {
+		if(document.searchForm.searchText.value=='') {
+			alert("Please enter some text to search for.");
+			document.searchForm.searchText.focus();
+			return false;
 		}
-
-
-        function doSearch() {
-
-            if(document.headerForm.searchText.value=='') {
-                alert("Please provide the text to search for.");
-                document.headerForm.searchText.focus();
-                return false;
-            }
-            else {
-                var optionIndex = document.headerForm.searchSelect.selectedIndex;
-                if(optionIndex == 3 || optionIndex == 5 || optionIndex == 9) {
-                    alert("Please select an appropriate place to search from the dropdown!");
-                    return false;
-                }
-                else {
-                    switch(optionIndex) {
-                      //SPE.org
-                      case 0:
-                          window.location.href = document.headerForm.searchSelect.options[optionIndex].value + "&searchText=" + escape(document.headerForm.searchText.value)  + "&searchSelect=" + optionIndex;
-                          break;
-                      //JPT
-                      case 1:
-                          window.location.href = document.headerForm.searchSelect.options[optionIndex].value + "&searchText=" + escape(document.headerForm.searchText.value) + "&searchSelect=" + optionIndex;
-                          break;
-                      //Meeting Subsites
-                      case 2:
-                          window.location.href = document.headerForm.searchSelect.options[optionIndex].value + "&searchText=" + escape(document.headerForm.searchText.value) + "&searchSelect=" + optionIndex;
-                          break;
-                      //Consultants Directory
-                      //case 3:
-                      //			window.location.href = document.headerForm.searchSelect.options[optionIndex].value + "&searchText=" + escape(document.headerForm.searchText.value) + "&searchSelect=" + optionIndex;
-                      //			 break;
-                      //Training Marketplace
-                      //case 4:
-                      //			window.location.href = document.headerForm.searchSelect.options[optionIndex].value + "&searchText=" + escape(document.headerForm.searchText.value)  + "&searchSelect=" + optionIndex;
-                      //			 break;
-                      //Section Websites
-                      case 4:
-                          window.location.href = document.headerForm.searchSelect.options[optionIndex].value + "&searchText=" + escape(document.headerForm.searchText.value)  + "&searchSelect=" + optionIndex;
-                          break;
-                      //eLibrary + Industry
-                      case 6:
-                          window.location.href = document.headerForm.searchSelect.options[optionIndex].value + "&searchText=" + escape(document.headerForm.searchText.value)  + "&searchSelect=" + optionIndex;
-                          break;
-                      //eLibrary
-                      case 7:
-                          window.location.href = document.headerForm.searchSelect.options[optionIndex].value + "?mode=newSearch&searchString=" + escape(document.headerForm.searchText.value)  + "&searchSelect=" + optionIndex;
-                          break;
-                      //Industry
-                      case 8:
-                          window.location.href = document.headerForm.searchSelect.options[optionIndex].value + "&searchText=" + escape(document.headerForm.searchText.value) + "&searchSelect=" + optionIndex;
-                          break;
-                      //All Sources
-                      case 10:
-                          window.location.href = document.headerForm.searchSelect.options[optionIndex].value + "&searchText=" + escape(document.headerForm.searchText.value) + "&searchSelect=" + optionIndex;
-                          break;
-                      default:
-                          window.location.href = "#";
-                          break;
-                    } //switch
-                    return true;
-                } //else
-            } //else
-        }
-
-      </script>
-
-      <!--  TODO if meetings is getting indexed in autonomy, then the db name needs to be appended to the list of dbs in the first option -->
-
-		<form class="frm_search" name="headerForm" method="POST" action="">
-
-			<label>Search</label>
-
-			<input id="searchTextForHeader" name="searchText" type="text" size="45" onkeypress="return handleKeyPress(event)">
-
-			<label>in</label>
-
-			<select name="searchSelect">
-
-				<option id="SPE" style="font-weight:bold" value="/spe-app/basicSearchRD.do?selectedDatabaseNames=SPEWEB,SPEWEB_JPT,SPEWEB_MEETINGS,ConsDirDB,TSPRODDB,RPPRODDB">SPE.org</option>
-
-				<option value="/spe-app/basicSearchRD.do?selectedDatabaseNames=SPEWEB_JPT" id="jpt">&nbsp;&nbsp;- JPT Online</option>
-
-				<option value="/spe-app/basicSearchRD.do?selectedDatabaseNames=SPEWEB_MEETINGS">&nbsp;&nbsp;- Meetings</option>
-
-				<option>-------------------------------------</option>
-
-				<option value="/spe-app/basicSearchRD.do?selectedDatabaseNames=SPESECTIONS" style="font-weight:bold">Section Websites</option>
-
-				<option>-------------------------------------</option>
-
-				<option style="font-weight:bold" value="/spe-app/basicSearchRD.do?selectedDatabaseNames=ELIBRARY,INDUSTRY">eLibrary + Industry sites</option>
-
-				<option value="/elibrary/app/search.do">&nbsp;&nbsp;- eLibrary Only</option>
-
-				<option value="/spe-app/basicSearchRD.do?selectedDatabaseNames=INDUSTRY">&nbsp;&nbsp;- E&amp;P Industry
-
-					sites (700+)</option>
-
-                <option>-------------------------------------</option>
-
-				<option value="/spe-app/basicSearchRD.do?selectedDatabaseNames=SPEWEB,SPEWEB_JPT,SPEWEB_MEETINGS,ConsDirDB,TSPRODDB,RPPRODDB,SPESECTIONS,ELIBRARY,INDUSTRY" style="font-weight:bold">SPE+sections+eLibrary+industry</option>
-
-
-
-
-
-			</select><a href="#" onclick="doSearch();"><img border="0" src="/web/images/srch_go.gif" alt="Go" width="29" height="22"></a>
-
-		</form>
-
-  		</div>
-
-                  <script> onloads.push(check)</script>
-
-  </div>
-
-  <div id="srch_sh"><img src="/web/images/1x1.gif" alt="spacer"></div>
-
-    
-    
-
-
-<script> onloads.push(check)</script>
-
-
-    
-        
-        
-            
-            
-
-
-<div id="lcol">
-  <div class="lcol_box">
-    <div class="lcol_hdr1">
-      <h3>About SPE </h3>
-    </div>
-    <div class="lcol_bdy">
-<ul id="expandList" class="papers">
-
-  
-    <li id="leadership"><a href="/spe-app/spe/about/leadership/index.htm">Leadership</a>
-      
-      
-        
-          <ul>
-
-        
-          <li id="board"><a href="/spe-app/spe/about/leadership/SPE_Board.htm">Board of Directors</a>
-          
-          </li>
-        
-      
-        
-          <li id="former_pres"><a href="/spe-app/spe/about/leadership/presidents_list.htm">Former Presidents</a>
-          
-          </li>
-        
-      
-        
-          <li id="bd_nom"><a href="/spe-app/spe/about/leadership/nomination_procedures.htm">Nomination/Election Procedures</a>
-          
-          </li>
-        
-      
-        
-          <li id="standing_committees"><a href="/spe-app/jsp/siteFunctionality/standingCommittees.jsp">Standing Committees</a>
-          
-          </li>
-        
-          </ul>
-        
-      
-    </li>
-  
-    <li id="governance"><a href="/spe-app/spe/about/governance/index.htm">Governance</a>
-      
-      
-        
-          <ul>
-
-        
-          <li id="mission"><a href="/spe-app/spe/about/governance/mission.htm">Mission, Vision, Values</a>
-          
-          </li>
-        
-      
-        
-          <li id="history"><a href="/spe-app/spe/about/governance/history.htm">History</a>
-          
-          </li>
-        
-      
-        
-          <li id="constitution"><a href="/spe-site/spe/spe/about/governance/SPE_International_Constitution.pdf" target="_blank">Constitution</a>
-          
-           <img alt="" src="/spe-site/spe/images/icons/pdf.jpg ">
-          
-          </li>
-        
-      
-        
-          <li id="financial"><a href="/spe-app/spe/about/governance/financial.htm">Financial Results</a>
-          
-          </li>
-        
-      
-        
-          <li id="policies"><a href="/spe-app/spe/about/governance/policies_and_procedures.htm">Policies &amp; Procedures</a>
-          
-          </li>
-        
-      
-        
-          <li id="conduct"><a href="/spe-app/spe/about/governance/professional_conduct.htm">Guide for Professional Conduct</a>
-          
-          </li>
-        
-      
-        
-          <li id="onespe"><a href="/spe-app/spe/about/governance/one_spe.htm">OneSPE</a>
-          
-          </li>
-        
-      
-        
-          <li id="plan"><a href="/spe-site/spe/spe/about/governance/Strategic_Plan_appSept08.pdf" target="_blank">Strategic Plan</a>
-          
-           <img alt="" src="/spe-site/spe/images/icons/pdf.jpg ">
-          
-          </li>
-        
-      
-        
-          <li id="categories"><a href="/spe-app/spe/about/governance/discipline_categories.htm">Discipline Categories</a>
-          
-          </li>
-        
-      
-        
-          <li id="logos"><a href="/spe-app/spe/about/governance/logos.htm">SPE Logos/Images</a>
-          
-          </li>
-        
-          </ul>
-        
-      
-    </li>
-  
-    <li id="honors"><a href="/spe-app/spe/about/honors/index.htm">Honors &amp; Awards</a>
-      
-      
-        
-          <ul>
-
-        
-          <li id="spe_awards"><a href="/spe-app/spe/about/honors/spe_awards.htm">International Awards</a>
-          
-          </li>
-        
-      
-        
-          <li id="reg_awards"><a href="/spe-app/spe/about/honors/regional_awards.htm">Regional Awards</a>
-          
-          </li>
-        
-      
-        
-          <li id="FAQ"><a href="http://www.spe.org/spe-site/spe/spe/about/honors/SPE_Awards_FAQ.v2.pdf">SPE Awards FAQ</a>
-          
-          </li>
-        
-          </ul>
-        
-      
-    </li>
-  
-    <li id="media"><a href="/spe-app/spe/about/media/index.htm">Media Center</a>
-      
-      
-        
-          <ul>
-
-        
-          <li id="releases"><a href="/spe-app/spe/about/media/press_releases.htm">Press Releases</a>
-          
-          </li>
-        
-      
-        
-          <li id="bios"><a href="/spe-app/spe/about/media/executive_bios.htm">Executive Bios</a>
-          
-          </li>
-        
-          </ul>
-        
-      
-    </li>
-  
-    <li id="volunteer"><a href="/spe-app/spe/about/volunteer/index.htm">Volunteer</a>
-      
-      
-    </li>
-  
-    <li id="foundation"><a href="/spe-app/spe/about/foundation/index.htm">SPE Foundation</a>
-      
-      
-        
-          <ul>
-
-        
-          <li id="spef"><a href="/spe-app/spe/about/foundation/foundation_jpt_article.pdf">Overview</a>
-          
-          </li>
-        
-      
-        
-          <li id="Move "><a href="http://www.spe.org/giving/index.html">Moving Forward, Giving Back</a>
-          
-          </li>
-        
-      
-        
-          <li id="omega"><a href="/spe-app/spe/about/foundation/omega.htm">Omega Association</a>
-          
-          </li>
-        
-      
-        
-          <li id="contributors"><a href="/spe-app/spe/about/foundation/contributors.htm">Contributors to Tomorrow's SPE</a>
-          
-          </li>
-        
-      
-        
-          <li id="gus_archie"><a href="/spe-app/spe/about/foundation/gus_archie.htm">Gus Archie Scholarship</a>
-          
-          </li>
-        
-      
-        
-          <li id="Wingen"><a href="/spe-app/spe/about/foundation/van_wingen.htm">van Wingen Graduate Fellowship</a>
-          
-          </li>
-        
-          </ul>
-        
-      
-    </li>
-  
-    <li id="SPE Careers"><a href="/web/careers/index.html">Careers at SPE</a>
-      
-      
-    </li>
-  
-</ul></div>
-    <div class="lcol_ftr"> </div>
-  </div>
-</div>
-<script language="JavaScript" type="text/javascript">
-onloads.push(initMenus)
+		else {
+			return true;
+		} //else
+	}
 </script>
 
-        
-    
-    
-        <div id="mcol_basic"><div id="main_content"><h1>Privacy Policy</h1><p>To provide service to you, SPE collects certain information, such as your
-address, telephone number(s), and other contact, demographic, and billing
-information. SPE collects this information only by voluntary disclosure
-directly from you. SPE requests such information through a variety of ways,
-including the SPE Membership Application, product order forms, and event
-registrations. The information SPE collects is intended to allow SPE to process
-your transaction effectively and efficiently and to plan future programs and
-services to better serve you.</p>
-
-<p>To help you understand how SPE uses your personal information, SPE abides by
-the following principles:</p>
-
-<ul>
-<li>SPE will disclose to you how it uses the information it collects.</li>
-
-<li>SPE will give you an opportunity to restrict SPE's use of this
-information.</li>
-
-<li>SPE will give you an opportunity to deny permission to distribute this
-information to others.</li>
-
-<li>SPE will use commercially reasonable means to maintain the information
-accurately.</li>
-
-<li>SPE will give you an opportunity to correct the information in our records
-when it has been erroneously recorded.</li>
-</ul>
-
-<p>These principles and SPE's policies apply whether SPE collects the
-information by paper or in electronic form.</p>
-
-<h2>How SPE Uses Your Personal Information</h2>
-
-<h3>Contact Information</h3>
-
-<p>The <a href="/spe-site/spe/spe/membership/recruit/09_membership_application.pdf" target="_blank">Membership Application Form</a> <img src="/spe-site/spe/images/icons/pdf.jpg">&nbsp;requires individuals to provide contact
-information -- address(es), phone number(s), and email address(es) -- together
-with demographic information (e.g., job title, education, and business focus)
-SPE uses the information to provide member services, such as the <i>Journal of
-Petroleum Technology</i>, as well as catalogs and promotions of publications,
-meetings, and other products and information of interest to you.</p>
-
-<p>SPE also collects information from customers, both members and nonmembers,
-who request information or purchase products and services from SPE. This
-information is collected on an order form, an event registration form, or in
-another manner. SPE collects contact information (address, phone number, etc.),
-payment information (an account or credit card number) and other information.
-This information is used to fulfill orders and to contact the customer as
-necessary.</p>
-
-<p>The SPE database contains information on members and nonmembers, including
-authors, exhibitors, advertisers, service providers, for the purpose of
-conducting official SPE business. SPE allows certain non-staff individuals
-access to this information in support of SPE business. For example, SPE may
-provide access to data to an SPE committee, a Technical Information Group, or
-section officers and others for the purpose of conducting SPE business.</p>
-
-<p>From time to time, SPE will permit companies, who, in SPE's estimation, have
-something of value to offer to SPE members to rent mailing lists. However, SPE
-does not make available the email addresses of SPE members or customers for
-non-SPE business.</p>
-
-<p>SPE makes information from its membership database available to other
-members through the online <a href="/mbrservices/directory/index.cfm" target="_blank">Membership Directory</a>. <img src="/spe-site/spe/images/icons/key_icon.gif">&nbsp;SPE’s <a href="/spe-app/spe/about/governance/data_use_pol.htm">Data Use Policy</a>
-covers the use of information from the Membership Directory.</p>
-
-<h3>Payment Information</h3>
-
-<p>SPE collects payment information (such as a credit card number) for the
-purpose of completing transactions. SPE does not disclose credit card or other
-financial information to any other individual or organization.</p>
-
-<h2>Limits on Use of Collected Information</h2>
-
-<p>SPE provides members and customers the opportunity to request that SPE
-restrict the use of personal information. This request may be made when the
-information is provided or at a later time by contacting SPE’s Customer Service
-Department (contact information below).</p>
-
-<h3>Use of Information by Others</h3>
-
-<p>Members and customers may choose to restrict use or disclosure of their
-name, address, or telephone number on mailing lists that may be rented to
-others.</p>
-
-<h3>Use of Information by SPE</h3>
-
-<p>Members and customers may also elect to have SPE not use their email address
-for SPE communications; however, an email address is required for the
-completion of certain transactions. Even when SPE members request that SPE
-restrict use of their personal information, SPE may still use this information
-to contact you in connection with SPE official business.</p>
-
-<p>If you choose to restrict use of your information, you may not receive
-certain communications from SPE that may be of interest to you. Because of the
-nature of computer data storage, any information that you restrict will remain
-stored but will not be accessed in the normal course of business. SPE will
-comply with any court orders that may be received requiring us to disclose
-information from our database, regardless of whether you have requested that
-the information be restricted.</p>
-
-<h3>Changing/Correcting Your Personal Information</h3>
-
-<p>SPE members or customers may <a href="/mbrservices/index.cfm">change or
-correct information</a> <img src="/spe-site/spe/images/icons/key_icon.gif">&nbsp;on their record online.
-Members and customers may also contact SPE Customer Service to review or
-request changes to personal information.</p>
-
-<p>SPE reserves the right to modify its privacy policies and practices at any
-time without notice. This statement is not intended to create any contractual
-or other legal rights. If you have questions about SPE's Privacy Policy, the
-practices of the SPE web site, or your interactions with SPE, contact the <a href="mailto:president@spe.org">SPE President</a>.</p>
-
-<h3>Website-Specific Issues</h3>
-
-<p><b>IP Addresses</b> – SPE.org automatically records the Internet address of
-the computer accessing the site as well as the time and date of access. This
-information does not identify you personally, nor does it contain your name or
-email address. SPE uses this information solely for the purpose of diagnosing
-problems with the SPE server and to administer the website, or for some
-corporate subscribers, to determine access rights.</p>
-
-<p><b>Cookies</b> – SPE uses "cookies" to deliver content that is
-specific to your interests and to keep track of your preferences.
-"Cookies" are small text files that help identify you and your
-preferences when you return to SPE.org. When your browser accesses the site,
-SPE's server checks your browser settings to see if it is permissible to store
-this identification information on your computer. "Cookies" are not
-programs and are not known to be damaging to your computer. The “cookies” set
-by SPE do not personally identify you; they simply permit SPE's web site to
-know what your preferences are. "Cookies" are also used to help
-determine how many unique users access pages on the web site and may direct
-specific advertising content to you on selected pages. Most browsers have an
-optional setting to deny "cookies." If you use this setting, however,
-you may not be able to use SPE's site to its fullest capability, and you will
-lose the benefit of many special features provided via SPE.org.</p>
-
-<p>Logging into the SPE website requires that you accept cookies. &nbsp;Most
-cookies used by SPE are temporary; that is, they remain only for the duration
-of your session on the SPE website. &nbsp;SPE does write some cookies that
-remain after you end your session, such as items loaded into your shopping cart
-in the eLibrary. &nbsp;This is designed to assist members whose session is
-interrupted before they can complete their purchase.</p>
-
-<p><b>Email List Servers and Online Communities</b> – SPE operates email list
-servers and Online Communities to facilitate communication among groups
-conducting SPE business. These tools are useful in communicating technical and
-non-technical information. Information in discussion forums or online
-communities is available to anyone with access to this area. SPE cannot control
-what others may do with information that you disclose using these tools.</p>
-
-<p><b>Links</b> – Certain areas of SPE.org may contain links to other web
-sites. SPE is not responsible for the privacy practices or content of such
-linked sites. See SPE’s <a href="/spe-app/spe/about/governance/links_policy.htm">Links Policy</a></p>
-
-<h3>Secure Transactions</h3>
-
-<p>SPE uses industry-standard measures to protect your submission of credit
-card information to SPE. SPE uses a secure server and encrypted data
-transmission using Secure Sockets Layer (SSL) Technology. SSL Technology
-encrypts the transmitted information to make it very difficult for anyone other
-than SPE to decode the information. SPE's implementation of SSL is
-authenticated by VeriSign.</p>
-
-<p>You can verify that you are in a secure-transmission portion of SPE's
-website in one of two ways:</p>
-
-<ul>
-<li>Look for an unbroken key symbol or lock symbol at the bottom status bar of
-your browser. This shows that you are in a secured mode.</li>
-
-<li>Look at the URL address in your browser window. When in secured mode, the
-address changes from http to "https."</li>
-</ul>
-
-<h2>Contacting SPE Customer Service</h2>
-
-<p>Email: <a href="mailto:service@spe.org">service@spe.org</a><br>
-Phone: 1.972.952.9393<br>
-Fax: 1.972.952.9435<br>
-Mail: P.O. Box 833836<br>
-Richardson, Texas 75083 USA</p>
-
-<p align="right"><b>Revised March 2003</b></p></div></div><div id="rcol" class="basic">
-			<div id="flag">
-				<p class="flag_first">
-					<img src="/web/images/flag_print.gif" width="20" height="20" border="0"> 
-					<a href="#" onclick="window.open('?print=print','_blank','height=400,width=800,status=yes,toolbar=no,menubar=no,location=no,resizable=yes,scrollbars=yes')">Printable View</a>
-				</p> 
-				<div id="favBox">
-					<div id="fav">Favorite Saved!</div>
-					<p>
-						<img src="/web/images/flag_add.gif" width="20" height="20" border="0">
-						<a href="#" onclick="addToFavorites()">Add page to My SPE Favorites </a>
-					</p>
-				</div>
-				<p>
-					<img src="/web/images/flag_email.gif" alt="Email" width="20" height="20" border="0">
-					<a href="#" onclick="emailToFriend()">Email this page to a friend</a>
-				</p> 		          
-		
-				<p class="flag_last">
-					<img src="/web/images/flag_textsize.gif" alt="Text size" width="20" height="20">
-					<a href="javascript:toggleStyleSheet()" id="fontLink" onclick="">Use larger font</a>
-				</p>
-			</div>
-			<div id="flag_ftr"></div>
-		 <br></div>
-    
-    
-        
-    
-
-
-<div id="footer">
-    	<div id="div_ftr_links">
-    <ul>
-    	<li class="li_link_first"><a href="/spe-app/jsp/siteFunctionality/siteMap.jsp">Site Map</a></li>
-    	<li><a href="/spe-app/spe/about/governance/privacy_policy.htm">Privacy Policy</a></li>
-    	<li><a href="/spe-app/spe/about/advertising.htm">Advertising</a></li>
-    	<li><a href="/spe-app/spe/about/contact_us.htm">Contact Us</a></li>
-    	</ul>
-	</div>
-	<p id="p_tagline">SPE.org — Where knowledge powers the E&amp;P industry</p>
-	<p id="p_copyright">©2003 –
-	<script type="text/javascript" language="JavaScript">
-	<!--
-	var today = new Date();
-	document.write(today.getFullYear());
-	//-->
-	</script>2020
-	Society of Petroleum Engineers, All Rights Reserved</p>
-    </div>
-
-
+<div class="printonly"> <a class="printcontrol">Return to normal view</a> | <a onclick="window.print();return false;">Print</a>
+	<h1>SPE.org</h1>
+	<hr>
 </div>
-<form action="" method="POST" enctype="text/plain" id="mail" name="mail">
-</form>
+<div class="noprint">
+	<div id="header_bg"> <img src="../../img/gen/header_top_bg.jpg" class="img_header" alt="SPE.org" usemap="#Map" border="0" height="97" width="987">
+		<map name="Map">
+			<area shape="rect" coords="65,25,384,80" href="/">
+		</map>
+		<div id="login_status"><img src="/img/gen/header_home_login.gif" alt="site navigation" name="login_img" border="0" usemap="#logged_out_home" id="login_img">
+			<map name="logged_out_home">
+				<area id="login_area" shape="rect" coords="-18,-2,52,18" href="https://www.spe.org/appssecured/login/servlet/ErightsLoginServlet?ERIGHTS_TARGET=http://www.spe.org/about/governance/privacy_policy.php" alt="login">
+				<area shape="rect" coords="55,1,116,21" href="/about/site_map.php" alt="site map">
+				<area shape="rect" coords="118,1,178,21" href="/about/contact_us.php" alt="contact us">
+				<area shape="rect" coords="191,4,249,24" href="/" alt="home">
+			</map>
+			<p id="user_name"></p>
+		</div>
+	</div>
+	<div id="top_nav_row"><img src="../../img/gen/header_nav.jpg" usemap="#top_nav" border="0" height="33" width="987"></div>
+	<map name="top_nav">
+		<area shape="rect" coords="27,6,111,30" href="../../membership/" alt="Membership">
+		<area shape="rect" coords="120,6,229,30" href="../../events/" alt="Events">
+		<area shape="rect" coords="237,6,406,30" href="../../papers/" alt="Papers, Publications and Authors">
+		<area shape="rect" coords="413,6,520,30" href="../../career/" alt="Career and Education">
+		<area shape="rect" coords="531,6,695,30" href="../../groups/" alt="Sections, Groups and Networking">
+		<area shape="rect" coords="704,6,876,30" href="../../industry/" alt="Industry and Technical Resources">
+		<area shape="rect" coords="886,6,964,30" href="../../about/" alt="About SPE">
+	</map>
+	<div id="srch_bar">
+		<div id="srch_bdy">
+			<form class="searchForm" name="searchForm" method="post" onsubmit=" return checkSearch()" action="/spe-app/basicSearchRD.do">
+				<input name="selectedDatabaseNames" type="hidden" id="selectedDatabaseNames" value="SPEWEB,SPEWEB_JPT,SPEWEB_MEETINGS,ConsDirDB,TSPRODDB,RPPRODDB,SHAREPOINT">
+				<label>Search</label>
+				<input name="searchText" type="text" id="searchText" size="50" maxlength="100">
+				<input name="searchSelect" type="hidden" id="searchSelect" value="0">
+				<input name="Submit" type="image" id="Submit" value="Submit" src="/img/gen/srch_go.gif" alt="Submit">
+			</form>
+		</div>
+	</div>
+	<div id="srch_sh"><img src="../../img/gen/1x1.gif" alt="spacer"></div>
+</div>
+<!-- end  -->
+	</div>
+	<!--Begin 960 styles -->
+	<div class="container_16">
+		<div class="grid_3 noprint static">
+			<div class="lcontent">
+				<!-- begin  -->
 
+<ul id="navmenu-v">
+	<li id="leadership_over"><a href="/about/leadership/">Leadership</a>
+		<ul>
+			<li><a href="/about/leadership/SPE_Board.php">Board of Directors</a></li>
+			<li><a href="/about/leadership/presidents_list.php">Former Presidents</a></li>
+			<li><a href="/about/leadership/nomination_procedures.php">Nomination/Election Procedures</a></li>
+			<li><a href="/spe-app/jsp/siteFunctionality/standingCommittees.jsp" broken="http://speapp.org/spe-app/jsp/siteFunctionalitystandingCommittees.jsp">Standing Committees</a></li>
+		</ul>
+	</li>
+	<li><a href="../../about/governance/">Governance</a>
+		<ul>
+			<li><a href="/about/governance/mission.php">Mission, Vision, Values</a></li>
+			<li><a href="/about/governance/history.php">History</a></li>
+			<li><a href="/about/governance/docs/SPE_International_Constitution_Oct2009.pdf" target="_blank">Constitution</a></li>
+			<li><a href="/about/governance/financial.php">Financial Results</a></li>
+			<li><a href="/about/governance/policies_and_procedures.php">Policies &amp; Procedures</a></li>
+			<li><a href="/about/governance/professional_conduct.php">Guide for Professional Conduct</a></li>
+			<li><a href="/about/governance/one_spe.php">OneSPE</a></li>
+			<li><a href="../../about/governance/docs/StrategicPlan_Revised_Jan2010.pdf" target="_blank">Strategic Plan</a></li>
+		  <li><a href="/about/governance/discipline_categories.php">Discipline Categories</a></li>
+			<li><a href="/about/governance/logos.php">SPE Logos/Images</a></li>
+		</ul>
+	</li>
+	<li id="honors_over"><a href="../../about/honors/">Honors &amp; Awards</a>
+		<ul>
+			<li><a href="/about/honors/spe_awards.php">International Awards</a></li>
+			<li><a href="/about/honors/regional_awards.php">Regional Awards</a></li>
+			<li><a href="/about/honors/SPE_Awards_FAQ_2010.php"> Awards FAQ</a></li>
+	  </ul>
+	</li>
+	<li><a href="../../about/media/">Media Center</a>
+		<ul>
+			<li><a href="/about/media/press_releases.php">Press Releases</a></li>
+			<li><a href="/about/media/executive_bios.php">Executive Bios</a></li>
+		</ul>
+	</li>
+	<li id="volunteer_over"><a href="/membership/members/volunteering/">Volunteer</a></li>
+<li><a href="/about/foundation/">SPE Foundation</a>
+		<ul>
+			<li><a href="/giving/">Moving Forward, Giving Back</a></li>
+			<li><a href="/about/foundation/omega.php" rel="i_am_broken">Omega Association</a></li>
+			<li><a href="/about/foundation/contributors.php">Contributors to Tomorrow's SPE</a></li>
+			<li><a href="/about/foundation/gus_archie.php">Gus Archie Scholarship</a></li>
+			<li><a href="/about/foundation/van_wingen.php">van Wingen Graduate Fellowship</a></li>
+		</ul>
+	</li>
+	<li><a href="/about/careers/">Careers at SPE</a></li>
+</ul>
+
+<br style="clear: both;">
+<!-- end  -->
+			</div>
+		</div>
+		<div class="grid_10">
+			<div class="mccontent">
+				<!-- InstanceBeginEditable name="content" -->
+		<div id="mcol_basic">
+		  <div id="main_content">
+		    <h1>Privacy Policy</h1>
+		    <p>To provide service to you, SPE collects certain information, such as your
+		      address, telephone number(s), and other contact, demographic, and billing
+		      information. SPE collects this information only by voluntary disclosure
+		      directly from you. SPE requests such information through a variety of ways,
+		      including the SPE Membership Application, product order forms, and event
+		      registrations. The information SPE collects is intended to allow SPE to process
+		      your transaction effectively and efficiently and to plan future programs and
+		      services to better serve you.</p>
+		    <p>To help you understand how SPE uses your personal information, SPE abides by
+		      the following principles:</p>
+		    <ul>
+              <li>SPE will disclose to you how it uses the information it collects.</li>
+		      <li>SPE will give you an opportunity to restrict SPE's use of this
+		        information.</li>
+		      <li>SPE will give you an opportunity to deny permission to distribute this
+		        information to others.</li>
+		      <li>SPE will use commercially reasonable means to maintain the information
+		        accurately.</li>
+		      <li>SPE will give you an opportunity to correct the information in our records
+		        when it has been erroneously recorded.</li>
+	        </ul>
+		    <p>These principles and SPE's policies apply whether SPE collects the
+		      information by paper or in electronic form.</p>
+		    <h2>How SPE Uses Your Personal Information</h2>
+		    <h3>Contact Information</h3>
+		    <p>The <a href="../../membership/recruit/documents/09_membership_application.pdf" target="_blank">Membership Application Form</a>&nbsp;requires individuals to provide contact
+		      information -- address(es), phone number(s), and email address(es) -- together
+		      with demographic information (e.g., job title, education, and business focus)
+		      SPE uses the information to provide member services, such as the <i>Journal of
+		        Petroleum Technology</i>, as well as catalogs and promotions of publications,
+		      meetings, and other products and information of interest to you.</p>
+		    <p>SPE also collects information from customers, both members and nonmembers,
+		      who request information or purchase products and services from SPE. This
+		      information is collected on an order form, an event registration form, or in
+		      another manner. SPE collects contact information (address, phone number, etc.),
+		      payment information (an account or credit card number) and other information.
+		      This information is used to fulfill orders and to contact the customer as
+		      necessary.</p>
+		    <p>The SPE database contains information on members and nonmembers, including
+		      authors, exhibitors, advertisers, service providers, for the purpose of
+		      conducting official SPE business. SPE allows certain non-staff individuals
+		      access to this information in support of SPE business. For example, SPE may
+		      provide access to data to an SPE committee, a Technical Information Group, or
+		      section officers and others for the purpose of conducting SPE business.</p>
+		    <p>From time to time, SPE will permit companies, who, in SPE's estimation, have
+		      something of value to offer to SPE members to rent mailing lists. However, SPE
+		      does not make available the email addresses of SPE members or customers for
+		      non-SPE business.</p>
+		    <p>SPE makes information from its membership database available to other
+		      members through the online <a href="/mbrservices/directory/index.cfm" target="_blank">Membership Directory</a>. &nbsp;SPE’s <a href="data_use_pol.php">Data Use Policy</a> covers the use of information from the Membership Directory.</p>
+		    <h3>Payment Information</h3>
+		    <p>SPE collects payment information (such as a credit card number) for the
+		      purpose of completing transactions. SPE does not disclose credit card or other
+		      financial information to any other individual or organization.</p>
+		    <h2>Limits on Use of Collected Information</h2>
+		    <p>SPE provides members and customers the opportunity to request that SPE
+		      restrict the use of personal information. This request may be made when the
+		      information is provided or at a later time by contacting SPE’s Customer Service
+		      Department (contact information below).</p>
+		    <h3>Use of Information by Others</h3>
+		    <p>Members and customers may choose to restrict use or disclosure of their
+		      name, address, or telephone number on mailing lists that may be rented to
+		      others.</p>
+		    <h3>Use of Information by SPE</h3>
+		    <p>Members and customers may also elect to have SPE not use their email address
+		      for SPE communications; however, an email address is required for the
+		      completion of certain transactions. Even when SPE members request that SPE
+		      restrict use of their personal information, SPE may still use this information
+		      to contact you in connection with SPE official business.</p>
+		    <p>If you choose to restrict use of your information, you may not receive
+		      certain communications from SPE that may be of interest to you. Because of the
+		      nature of computer data storage, any information that you restrict will remain
+		      stored but will not be accessed in the normal course of business. SPE will
+		      comply with any court orders that may be received requiring us to disclose
+		      information from our database, regardless of whether you have requested that
+		      the information be restricted.</p>
+		    <h3>Changing/Correcting Your Personal Information</h3>
+		    <p>SPE members or customers may <a href="/mbrservices/index.cfm">change or
+		      correct information</a>&nbsp;on their record online.
+		      Members and customers may also contact SPE Customer Service to review or
+		      request changes to personal information.</p>
+		    <p>SPE reserves the right to modify its privacy policies and practices at any
+		      time without notice. This statement is not intended to create any contractual
+		      or other legal rights. If you have questions about SPE's Privacy Policy, the
+		      practices of the SPE web site, or your interactions with SPE, contact the <a href="mailto:president@spe.org">SPE President</a>.</p>
+		    <h3>Website-Specific Issues</h3>
+		    <p><b>IP Addresses</b> – SPE.org automatically records the Internet address of
+		      the computer accessing the site as well as the time and date of access. This
+		      information does not identify you personally, nor does it contain your name or
+		      email address. SPE uses this information solely for the purpose of diagnosing
+		      problems with the SPE server and to administer the website, or for some
+		      corporate subscribers, to determine access rights.</p>
+		    <p><b>Cookies</b> – SPE uses "cookies" to deliver content that is
+		      specific to your interests and to keep track of your preferences.
+		      "Cookies" are small text files that help identify you and your
+		      preferences when you return to SPE.org. When your browser accesses the site,
+		      SPE's server checks your browser settings to see if it is permissible to store
+		      this identification information on your computer. "Cookies" are not
+		      programs and are not known to be damaging to your computer. The “cookies” set
+		      by SPE do not personally identify you; they simply permit SPE's web site to
+		      know what your preferences are. "Cookies" are also used to help
+		      determine how many unique users access pages on the web site and may direct
+		      specific advertising content to you on selected pages. Most browsers have an
+		      optional setting to deny "cookies." If you use this setting, however,
+		      you may not be able to use SPE's site to its fullest capability, and you will
+		      lose the benefit of many special features provided via SPE.org.</p>
+		    <p>Logging into the SPE website requires that you accept cookies. &nbsp;Most
+		      cookies used by SPE are temporary; that is, they remain only for the duration
+		      of your session on the SPE website. &nbsp;SPE does write some cookies that
+		      remain after you end your session, such as items loaded into your shopping cart
+		      in the eLibrary. &nbsp;This is designed to assist members whose session is
+		      interrupted before they can complete their purchase.</p>
+		    <p><b>Email List Servers and Online Communities</b> – SPE operates email list
+		      servers and Online Communities to facilitate communication among groups
+		      conducting SPE business. These tools are useful in communicating technical and
+		      non-technical information. Information in discussion forums or online
+		      communities is available to anyone with access to this area. SPE cannot control
+		      what others may do with information that you disclose using these tools.</p>
+		    <p><b>Links</b> – Certain areas of SPE.org may contain links to other web
+		      sites. SPE is not responsible for the privacy practices or content of such
+		      linked sites. See SPE’s <a href="links_policy.php">Links Policy</a>.</p>
+		    <h3>Secure Transactions</h3>
+		    <p>SPE uses industry-standard measures to protect your submission of credit
+		      card information to SPE. SPE uses a secure server and encrypted data
+		      transmission using Secure Sockets Layer (SSL) Technology. SSL Technology
+		      encrypts the transmitted information to make it very difficult for anyone other
+		      than SPE to decode the information. SPE's implementation of SSL is
+		      authenticated by VeriSign.</p>
+		    <p>You can verify that you are in a secure-transmission portion of SPE's
+		      website in one of two ways:</p>
+		    <ul>
+              <li>Look for an unbroken key symbol or lock symbol at the bottom status bar of
+                your browser. This shows that you are in a secured mode.</li>
+		      <li>Look at the URL address in your browser window. When in secured mode, the
+		        address changes from http to "https."</li>
+	        </ul>
+		    <h2>Contacting SPE Customer Service</h2>
+		    <p>Email: <a href="mailto:service@spe.org">service@spe.org</a><br>
+		      Phone: 1.972.952.9393<br>
+		      Fax: 1.972.952.9435<br>
+		      Mail: P.O. Box 833836<br>
+		      Richardson, Texas 75083 USA</p>
+		    <p align="right"><b>Revised March 2003</b></p>
+	      </div>
+    </div>
+		<h2>&nbsp;</h2>
+		<!-- InstanceEndEditable --></div>
+		</div>
+		<div class="grid_3 noprint">
+			<div id="pagetools">
+				<h4 id="toollink">Print, Share, Save, Fonts</h4>
+				<div id="toolpane">
+					<p><a id="printable" class="printcontrol" href="#">Printable view</a></p>
+					<p>Font <a href="#" id="flarger" class="fchanger">Larger</a> <a href="#" id="fsmaller" class="fchanger" style="display:none">Smaller</a></p>
+					<div id="toolsremote"></div>
+				</div>
+			</div>
+			<div class="rcontent"><!-- InstanceBeginEditable name="extras" --><p>&nbsp;</p>
+	<!-- InstanceEndEditable --></div>
+		</div>
+	</div>
+	<!--End 960 styles -->
+	<div id="footer">
+		
+
+<!-- begin footer1: 2010-06-21 @ 18:50:30 (Anonymous Guest) -->
+
+
+
+
+        <div id="footer" class="noprint">
+		<div id="div_ftr_links">
+			<ul>
+				<li class="li_link_first"><a href="/about/site_map.php">Site Map</a></li>
+				<li><a href="/about/governance/privacy_policy.php">Privacy Policy</a></li>
+				<li><a href="/about/advertising.php">Advertising</a></li>
+				<li><a href="/about/contact_us.php">Contact Us</a></li>
+			</ul>
+		</div>
+		<p id="p_tagline">SPE.org — Where knowledge powers the E&amp;P industry</p>
+		<p id="p_copyright">©2003 – 2010			Society of Petroleum Engineers, All Rights Reserved</p>
+	</div>
+
+
+	<div class="printonly" style="display: none;">
+		<div class="clear"></div>
+			<p>©2003-2010 Society of Petroleum Engineers</p>
+		</div>
+	</div>
+
+
+
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2009 WebTrends Inc.  All rights reserved. -->
+<!-- Version: 8.6.2 -->
+<!-- Tag Builder Version: 3.0  -->
+<!-- Created: 12/9/2009 10:10:44 PM -->
+<script src="/js/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcs5rvqrv10000gkepiix4rfz_1q3w/wtid.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcs5rvqrv10000gkepiix4rfz_1q3w/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->	
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcs5rvqrv10000gkepiix4rfz_1q3w/wtid.js"></script>
+
+
+
+
+<!-- end footer1 -->
+	</div>
 
 <script>
+$(function() {
 
+  $("#navmenu-h li,#navmenu-v li").hover(
+    function() { $(this).addClass("iehover"); },
+    function() { $(this).removeClass("iehover"); }
+  );
+
+$("#toollink").click(function () {
+      if ($("#toolpane").is(":hidden")) {
+		$("#toolpane").slideDown("normal");
+		$("#toolsremote").load("/inc/pagetools.php");
+		 
+      } else {
+        $("#toolpane").slideUp("fast");
+      }
+});
+$(".printcontrol").click(function () {
+      $(".noprint").toggle();
+	  $(".printonly").toggle();
+      return true;
+});
+});
 </script>
+
+<!-- InstanceEnd -->
 </body></html>
