@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225123652id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621033521id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
 
-# People Search | Background Check | Reverse Cell Phone Lookup - Intelius.com
+# Reverse Phone Lookup & People Search Powered by Intelius
 
 Effective December 2009 
 
@@ -80,7 +80,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 **Enforcement**
 
-We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to us by sending an email to our Chief Privacy Officer at privacy@Intelius.com or by writing us at Privacy c/o Intelius Inc., 500 108th AVE NE, 25th Floor, Bellevue, WA 98004. It is our policy to contact the complaining user regarding his or her concerns. 
+We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to us by sending an email to our Chief Privacy Officer at privacy@Intelius.com or by writing us at Privacy c/o Intelius Inc., 500 108th AVE NE, 22nd Floor, Bellevue, WA 98004. It is our policy to contact the complaining user regarding his or her concerns. 
 
 **Changes to this Policy**
 
