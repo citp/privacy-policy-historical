@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pwmania.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617051539id_/http%3A//pwmania.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwmania.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621035722id_/http%3A//www.pwmania.com/privacy.php) for the most accurate reproduction.*
 
-# WWE News, The Bash PPV Spoilers, WWE Spoilers, Results, TNA Wrestling, Videos | PWMania
+# WWE Fatal Four Way PPV Spoilers, WWE News & Spoilers, TNA Wrestling, Results, Photos | PWMania
 
 **PWMania.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:  [ PWMania.com](http://www.pwmania.com/). 
 
