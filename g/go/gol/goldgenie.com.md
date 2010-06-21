@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldgenie.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524213258id_/http%3A//www.goldgenie.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldgenie.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621042033id_/http%3A//www.goldgenie.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Goldgenie
 
