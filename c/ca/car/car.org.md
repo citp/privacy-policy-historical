@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the car.org privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227032135id_/http%3A//www.car.org/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the car.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621105710id_/http%3A//www.car.org/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policies
 
