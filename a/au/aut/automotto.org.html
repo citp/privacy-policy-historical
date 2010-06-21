@@ -1,232 +1,299 @@
-<!--The following is the downloaded HTML source of the automotto.org privacy policy that was archived on 2009-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090914144217id_/http%3A//www.automotto.org/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the automotto.org privacy policy that was archived on 2010-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621070859id_/http%3A//www.automotto.org/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
-	<title>Privacy Policy - Auto Motto: Automobiles unplugged</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="title" content="Privacy Policy - Auto Motto: Automobiles unplugged">
-	<meta name="subject" content="Technology">
-	<meta name="language" content="en">
-	<meta name="keywords" content="2008 Detroit Auto Show, Aston Martin, AUDI, automobiles, Bentley, bikes, BMW, bugatti veyron, Cars, Chevrolet, Chrysler, concept car, concept cars, Concepts, design concept, Ferrari, Fiat, Ford, funny, General Motors, Geneva Motor Show, GM, honda, hummer, Hyundai, Jaguar, japan, Lamborghini, Land Rover, Lexus, Mazda, Mercedes, Mercedes-Benz, mini, Mitsubishi, NAIAS, Nissan, Paris Motor Show, Peugeot, Porsche, Renault, rolls royce, SUV, Technology, Toyota, UK, vehicles, Video, Volkswagen, Volvo">
-	<meta name="description" content="Automobiles unplugged">
-	<link rel="alternate" href="http://www.automotto.org/rss.xml" type="application/rss+xml" title="AutoMotto.org's RSS Feed">
-	<link rel="alternate" href="http://www.instablogs.com/feed/blog=automotto" type="application/rss+xml" title="AutoMotto.org's RSS Feed (Instablogs Community)">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="subject" content="">
+		<meta name="title" content="">
 
-	
-<style type="text/css">
-  @import url(/style.css);
-</style>
+		<meta property="og:title" content="">
+		<meta property="og:site_name" content="Auto Motto">
 
-<script type="text/javascript">
-if (top !== self) top.location.href = self.location.href;
-</script>
+		<meta name="language" content="en">
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<link rel="alternate" href="http://feeds.feedburner.com/automotto/PXow" type="application/rss+xml" title="Automotto RSS Feed (Instablogs Community)">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="/js/validate.js"></script>
+		<script type="text/javascript" src="/js/easySlider.packed.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$("#subscribeForm").validate();
+			});
 
-<script type="text/javascript" src="/js/jquery-1.3.1.min.js"></script>
-<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
-<script type="text/javascript" src="http://www.instablogs.com/js/connection.js"></script>
-<script type="text/javascript">
-	function on_blur()
-	{
-		if(document.getElementById('nav-search').value == "")
-		{
-		document.getElementById('nav-search').value = "search here...";
-		document.getElementById('nav-search').style.color = "#999";
-		}
-	}
-	function on_focus()
-	{
-		document.getElementById('nav-search').value = "";
-		document.getElementById('nav-search').style.color = "#444";
-	}
+			$(document).ready(function(){
+			$("#sidewindow").easySlider();
+			});
+				
+				var my_width='';
+				var my_height='';
+				function my_lightbox(id, my_width, my_height)
+				{
+					jQuery.fn.center = function (absolute) {
+						return this.each(function () {
+							var t = jQuery(this);
 
-	function open_reply_comment(comment_id, post_id, back_url, blog_name)
-	{
+							t.css({
+								position:    absolute ? 'absolute' : 'fixed', 
+								left:        '50%', 
+								top:        '50%', 
+								zIndex:        '999999'
+							}).css({
+								marginLeft:    '-' + (t.outerWidth() / 2) + 'px', 
+								marginTop:    '-' + (t.outerHeight() / 2) + 'px'
+							});
+
+							if (absolute) {
+								t.css({
+									marginTop:    parseInt(t.css('marginTop'), 10) + jQuery(window).scrollTop(), 
+									marginLeft:    parseInt(t.css('marginLeft'), 10) + jQuery(window).scrollLeft()
+								});
+							}
+						});
+					};
+					
+					var pageWidth = $('*').width();
+					var pageHeight = $('*').height();
+
+					var my_pageHeight = $(window).height();
+					
+					$('#'+id).height(my_height);
+					$('#'+id).width(my_width);
+					$('#'+id).fadeIn().center();
+						
+					$('#fade').show();
+					$('#fade').height(pageHeight);
+					$('#fade').width(pageWidth);
+
+					$('#fade').click(function(){
+							$(this).fadeOut();
+							$('#'+id).hide();
+					});
+					$('.my_lightbox_close').click(function(){
+							$('#fade').fadeOut();
+							$('#'+id).hide();
+					});
+					
+
+				}
+
+				function subscribe()
+					{
+						var postdata='subsciber_mail='+ $('#subsciber_mail').val();
+						$.ajax({type: "POST",url: "/share_email.php",data: postdata,success: function(msg){var id ='#subscribe .light-content';$(id).html(msg);}});
+					}
+
+
+				var currentslide = 1;
+				var i=1;
+				var nrSld1 =1
+					function showSlide(nrSld) {
+						currentslide = parseInt(nrSld)
+						$('#slider .slideWrapper').animate({left:-380*(parseInt(nrSld)-1)})
+						redrawBullets(nrSld);
+						i=nrSld;
+					};
+					function redrawBullets(slide) {
+						var currentBullet = 's'+slide;
+						$('#slideCtrl a').each(function(){
+						$(this).removeClass('s');
+						if($(this).hasClass(currentBullet)){
+							$(this).addClass('s')
+							}
+						});
+					};
+				function loop() { 
+				  if (i<5) {
+				   showSlide(i);
+				   setTimeout(function() { incr(); }, 5000);
+				  }
+				  else
+				  {
+				  i= 1;
+				  showSlide(i);
+				  loop();
+				  }
+				}
+				function incr() {
+				  i++;
+				  loop();
+				}
 		
-		var div = document.getElementById('reply-comment'+comment_id);	
-		var postdata ='comment_id='+ comment_id + '&post_id=' + post_id + '&back_url=' + back_url + '&blog_name=' + blog_name;
-		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:20px 0 35px;"><center><img src="/css-img/wheel.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+			function footer_articles(start, end, blog)
+			{
+				var postdata='start='+start+'&end='+end+'&blog='+blog;
+				$.ajax({type: "POST",url: "/footer_articles.php",data: postdata,success: function(msg){var id ='#week-diary';$(id).html(msg);}});
+			}
 
-		var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
-		var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
-		var Callback ={success:handleSuccess,failure: handleFailure};
+			function week_diary_articles(start, blog)
+			{
+				var postdata='start='+start+'&blog='+blog;
+				$.ajax({type: "POST",url: "/week_diary.php",data: postdata,success: function(msg){var id ='#week-diary';$(id).html(msg);}});
+			}
 
-		var request = YAHOO.util.Connect.asyncRequest("POST", '/reply_comment.php', Callback, postdata);
-	}
-	
-	function lightboxImageOn(image_id, Image_title)
-	{
-		var comment_image = 'comment_image';
-		var Image_title = "Image uploaded by - " + Image_title;
-		var div = document.getElementById('lb-edit');
-		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+			function tag_paging(page_no, total_pages, quantity)
+			{
+				var postdata='page_no='+page_no+'&total_pages='+total_pages+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/tag_paging.php",data: postdata,success: function(msg){var id ='#t-sidewindow';$(id).html(msg);}});
+			}
 
-		$.ajax({
-		type: "POST",
-		url: "/show_media.php",
-		data: 'image_id='+image_id + '&type=' + comment_image + '&title=' + Image_title,
-		success: function(msg)
-		{
-			var id ='#lb-edit';
-			$(id).html(msg);
-		}
-		});
+			function post_paging(page_no, total_pages, quantity)
+			{
+				var postdata='page_no='+page_no+'&total_pages='+total_pages+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/post_paging.php",data: postdata,success: function(msg){var id ='#insta-articles';$(id).html(msg);}});
+			}
 
-		var black = document.getElementById('fade');
-		black.style.display = 'block';
+			function category_paging(page_no, quantity)
+			{
+				var postdata='page_no='+page_no+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/category_paging.php",data: postdata,success: function(msg){var id ='#category-news';$(id).html(msg);}});
+			}
 
-		div.style.display = 'block';
-		window.scrollTo(0,0);
-	}
+			function hotSheet_paging(page_no, quantity)
+			{
+				var postdata='page_no='+page_no+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/hotSheet_paging.php",data: postdata,success: function(msg){var id ='#hot-sheet';$(id).html(msg);}});
+			}
 
+			function video_list_paging(page_no, quantity, sortMethod)
+			{
+				var postdata='page_no='+page_no+'&quantity='+quantity+'&sortMethod='+sortMethod;
+				$.ajax({type: "POST",url: "/video_list_paging.php",data: postdata,success: function(msg){var id ='#video-list';$(id).html(msg);}});
+			}
 
-	function lightboxVideoOn(video_id, You_Tube_title)
-	{
-		var video='video';
-		var You_Tube_title = "Video uploaded by - " + You_Tube_title;
-		var div = document.getElementById('lb-edit');
-		div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+			function slide_feature(total_divs,display,button,divid, prev_id, next_id)
+			{
+				for(var i=1; i<= total_divs; i++)
+				{
+					var div =document.getElementById(divid + i);
+					div.style.display = 'none';
+				}
+				
+				if(button == '1')
+				{
+					var next_div = document.getElementById(next_id);
+					var next =  display + 1;
+					next_div.innerHTML ='<a href="javascript:slide_feature( '+total_divs+', '+next+',1, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Next</a>';
+					var prev_div = document.getElementById(prev_id);
+					var prev = next - 1;
+					prev_div.innerHTML ='<a href="javascript:slide_feature('+total_divs+', '+prev+',0, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Prev</a>';
+					$('#'+divid + next).show();
 
-		$.ajax({
-		type: "POST",
-		url: "/show_media.php",
-		data: 'video_id=' + video_id + '&type=' + video + '&title=' +  You_Tube_title,
-		success: function(msg)
-		{
-			var id ='#lb-edit';
-			$(id).html(msg);
-		}
-		});
+					if(total_divs == next)
+					{
+						next_div.innerHTML ='';
+					}
+					
+				}
+				else
+				{
+					var next_div = document.getElementById(next_id);
+					var next =  display;
+					next_div.innerHTML ='<a href="javascript:slide_feature( '+total_divs+', '+next+',1, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Next</a>';
+					var prev_div = document.getElementById(prev_id);
+					var prev = next - 1;
+					if(prev == 0)
+						{
+							prev_div.innerHTML ='';
+						}
+						else
+						{
+							prev_div.innerHTML ='<a href="javascript:slide_feature('+total_divs+', '+prev+',0, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Prev</a>';
+						}
+						$('#'+divid + display).show();
+				}
+			}
+		</script>
+		<link href="/css/common.css" rel="stylesheet" type="text/css">
+		<link href="/css/club-sidebar.css" rel="stylesheet" type="text/css">
+		<link href="/css/error_404.css" rel="stylesheet" type="text/css">
 
-		var black = document.getElementById('fade');
-		black.style.display = 'block';
-
-		div.style.display = 'block';
-		window.scrollTo(0,0);
-	}
-
-	function lightboxoff(id)
-	{
-		var light = document.getElementById(id);
-		light.style.display = 'none';
-	}
-
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
-<style>
-.black_overlay
-	{
-		display: none;
-		position: absolute;
-		top:0px;
-		left:0px;
-		width:100%;
-		height:100%;
-		/width:expression((document.body.clientWidth) + "px");
-		/height:expression((document.body.clientHeight)+ "px");
-		background-color: black;
-		z-index:1001;
-		-moz-opacity: 0.6;
-		opacity:.60;
-		filter: alpha(opacity=60);
-	}
-			
-	.white_content_video
-	{
-		display: none;
-		position: absolute;
-		top: 90px;
-		left: 37%;
-		min-width:400px;
-		min-height:330px;
-		border: 4px solid #333;
-		background-color: #E6EFF4;
-		z-index:1002;
-	}
-
-	.login-head{background:#333;color:#868686;font: bold 1.9em/1.3em georgia,verdana,arial,serif;padding:8px;}
-	.login-head .close {display:block;float:right;padding:0px;text-align:right;font-size:12px}
-</style>
-
-</head>
-
-<body>
-<script type="text/javascript" src="http://www.instablogs.com/js/lightbox.js"></script>
-
-	<div id="container">
-			<div class="ad-top">
-			<div class="left-top-ad">
-				<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-/* Automotto_head_728x90, created 6/6/09 */
-google_ad_slot = "5014856983";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-9415440757655812");
+GS_googleEnableAllServices();
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>			</div>
-			<div class="right-top-ad">
-							<a href="http://www.instablogs.com/ad_solutions.php?b=8"><img src="http://www.instablogs.com/css-img/120-x-90.jpg"></a>
-			</div>
-			<div class="clear"></div>
-		</div><!-- EOF #ad-top -->
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-9415440757655812", "Automotto_Martini_HalfPage");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
 
-		<div id="header">
-			<div class="top-nav">
-				<span>
-					<a href="/">Home</a> ::
-				</span>
+	</head>
+		<body onload="loop();">
+		
+			<div class="container">
+				<div class="header">
+					<div id="subscribe" class="my_lightbox" style="display:none">
+						<div class="light-head"><span>Please fill in your email address</span><a href="javascript:void(0)" class="my_lightbox_close light-close">[Close]</a></div>
+						<div class="clear"></div>
+						<div class="light-content">
+							<form method="post" action="javascript:subscribe();" name="subscribeForm" id="subscribeForm" novalidate="novalidate">
+								<input type="text" class="required email" name="subsciber_mail" id="subsciber_mail" value="">
+								<input type="submit" value="Subscribe" name="Subscribe">
+							</form>
+						</div><!-- EOF light-content -->
+					</div><!-- EOF my_lightbox -->
 
-				<span class="RSS">
-					<a href="/rss.xml">RSS</a> ::
-				</span>
-
-				<span>
-					<a href="/contact-us.php?q=tips">Send Tips</a> ::
-				</span>
-
-				<span>
-					<a href="http://www.instablogs.com/ad_solutions.php?b=8">Advertise</a> ::
-				</span>
-
-				<span>
-					<a href="/contact-us.php?q=general">Contact</a> ::
-				</span>
-
-				<span>
-					<form method="get" action="/search.php">
-						<input id="nav-search" name="q" value="search AutoMotto..." type="text" onfocus="on_focus()" onblur="on_blur()">					
-						<input type="submit" name="submit" value="Search">
-					</form>
-				</span>
-			</div>
-
-			<div id="logo"> <a href="/" title="Home"><h1>AutoMotto</h1></a> </div>
-			
-		</div><!-- EOF #header -->
-
-			<div style="padding:5px;text-align:center;">
-				<script type="text/javascript"><!--
+					<div class="top-nav">
+						<a href="http://www.automotto.org/contact-us.php?q=tips">Send Tips</a> | 
+						<a href="http://www.instablogs.com/ad_solutions.php?b=8">Advertise</a> | 
+						<a href="http://www.automotto.org/contact-us.php?q=general">Contact</a>
+					</div><!-- EOF top-nav -->
+					<a class="logo" href="http://www.automotto.org/">&nbsp;</a>
+					<div class="ad">
+						<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1003665931&amp;adSize=728x90"></script>											</div>
+					<div class="ad">
+						<script type="text/javascript"><!--
 google_ad_client = "pub-9415440757655812";
-/* automotto, Header 728x15, created 5/30/09 */
-google_ad_slot = "5909080862";
+/* Automotto, Header, LinkUnit, 8Jan10 */
+google_ad_slot = "2601836434";
 google_ad_width = 728;
 google_ad_height = 15;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>				</div>
+</script>					</div>
+					<div class="extra-ads">
+						
+					</div>
+					<div class="clear"></div>
+					<div class="bottom-nav">
+						<a class="share sprite mail" href="javascript:void(0)" onclick="my_lightbox('subscribe')" title=""></a>
+						<a class="share sprite face" href="http://www.facebook.com/pages/Automotto/54335774706"></a>
+						<a class="share sprite tweet" href="http://www.twitter.com/Automotto"></a>
+						<a class="share sprite rss" href="http://feeds.feedburner.com/automotto/PXow"></a>
+													<span class=""><span class="nav-bg hom"><a href="http://www.automotto.org"></a></span></span>
+							<span class=""><span class="nav-bg art"><a href="http://www.automotto.org/tags/art/"></a></span></span>
+							<span class=""><span class="nav-bg bikes"><a href="http://www.automotto.org/tags/bikes/"></a></span></span>
+							<span class=""><span class="nav-bg cars"><a href="http://www.automotto.org/tags/cars/"></a></span></span>
+							<span class=""><span class="nav-bg concepts"><a href="http://www.automotto.org/tags/concepts/"></a></span></span>
+							<span class=""><span class="nav-bg diy"><a href="http://www.automotto.org/tags/diy/"></a></span></span>
+							<span class=""><span class="nav-bg gadgets"><a href="http://www.automotto.org/tags/gadgets/"></a></span></span>
+							<span class=""><span class="nav-bg green"><a href="http://www.automotto.org/tags/green/"></a></span></span>
+							<span class=""><span class="nav-bg industry"><a href="http://www.automotto.org/tags/industry/"></a></span></span>
+							<span class=""><span class="nav-bg offbeat"><a href="http://www.automotto.org/tags/offbeat/"></a></span></span>
+							<span class=""><span class="nav-bg shows"><a href="http://www.automotto.org/tags/shows/"></a></span></span>
+							<span class=""><span class="nav-bg technology"><a href="http://www.automotto.org/tags/tech/"></a></span></span>
+							<span class=""><span class="nav-bg tuning"><a href="http://www.automotto.org/tags/tuning/"></a></span></span>
+							<span class=""><span class="nav-bg vehicle"><a href="http://www.automotto.org/tags/vehicle/"></a></span></span>
 
-				<div class="extra-ads"><script src="http://services.picadmedia.com/js/picad.js" type="text/javascript"></script>
-<script type="text/javascript">
-picadService.initialize();
-</script></div>		<div id="content">
-			<div id="content-box">
-				<div class="roundtop">
-					<img src="/css-img/tl.gif" alt="" width="15" height="15" class="corner" style="display: none">
-				</div>
-		
+					</div><!-- EOF bottom-nav -->
+					<div class="clear"></div>
+				</div><!-- EOF header -->
+				<div class="clear"></div>
+				<div class="inner-container">
+
+				
+
+
+		<div class="content">
 				<div class="privacy-content-main">						
-					<div class="privacy-title">Privacy Policy</div> 
+					<div class="error-page-title">Privacy Policy</div> 
 
 					<p>This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.</p>
 
@@ -279,435 +346,485 @@ picadService.initialize();
 					
 					</p>
 
-
-
 				</div><!-- EOF #content-main -->
 
-				<div class="roundbottom">
-					<img src="/css-img/bl.gif" alt="" width="15" height="15" class="corner" style="display: none">
-				</div>
 			
-			</div><!-- EOF #content-box -->
+			</div><!-- EOF content -->
 
-			<!--INFOLINKS_OFF--><div id="content-sidebar">
-	<div class="roundtop">
-		<img src="/css-img/tl.gif" alt="" width="15" height="15" class="corner" style="display: none">
-	</div>
-
-
-
-
-<div class="side-ads" style="padding:10px auto"><!-- PubMatic ad tag (Javascript) : automotto_sidebar_300x250 | http://www.automotto.org | 300 x 250 Medium Rectangle -->
-<script type="text/javascript">
-var pubId=22165;
-var siteId=22173;
-var kadId=16720;
-var kadwidth=300;
-var kadheight=250;
-var kadtype=1;
-</script>
-<script type="text/javascript" src="http://ads.pubmatic.com/AdServer/js/showad.js">
- </script></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-<div class="inner-sidebars">
-	<div class="inner-sidebar1">
-
-<div class="side-ads" style="margin-bottom:10px"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div style="padding-bottom:10px;text-align:center;">
-	<a href="http://www.instablogs.com/instablogs-club/"><img src="http://www.instablogs.com/css-img/insta_club_badge.gif"></a>
+			<div class="sidebar">
+<div class="search">
+	<form action="/search.php" id="cse-search-box">
+		<input type="hidden" name="cx" value="partner-pub-9415440757655812:xwsnq3-i3zd">
+		<input type="hidden" name="cof" value="FORID:10">
+		<input type="hidden" name="ie" value="UTF-8">
+		<input type="text" class="s-text" name="q" size="25">
+		<input type="submit" class="s-but" name="sa" value="Search">
+		<div class="s-lens sprite"></div>
+	</form>
+	<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 </div>
+	<div class="clear"></div>
 
+<div class="side-ads" style="padding-bottom:10px; margin-top:20px;"><!-- ca-pub-9415440757655812/Automotto_Martini_HalfPage -->
+<script type="text/javascript">
+GA_googleFillSlot("Automotto_Martini_HalfPage");
+</script></div><div class="clear"></div><div class="side-ads" style="padding-bottom:10px; margin-top:20px;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1003665931&amp;adSize=300x250"></script></div><div class="clear"></div><div class="side-ads" style="float:right;"></div><div class="clear"></div><div class="side-ads" style="margin-top:5px;"></div><div class="clear"></div>
+<div class="side-ads" style="float:left;"></div><div class="side-ads" style="float:right;"></div><div class="clear"></div>
 <div class="market-place">
-	<h2>Instablogs Club</h2>
-	<div class="club-data">
-	<span class="club-top-img"><a href="http://www.pickmeupnews.com/katy-perry-sexy-at-2009-mtv-vma/"><img src="http://www.instablogsimages.com/images/2009/09/14/_C8VzX_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.pickmeupnews.com/katy-perry-sexy-at-2009-mtv-vma/">Katy Perry Sexy At 2009 MTV VMA</a><span> (<a href="http://www.pickmeupnews.com/">Pick me up news</a>)</span></div><span class="club-top-img"><a href="http://www.crickblog.com/entry/onions-for-flintoff-latter-out-of-ecbs-hold/"><img src="http://www.instablogsimages.com/images/2009/09/14/flintoff-smiles1_zyoE8_17022_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.crickblog.com/entry/onions-for-flintoff-latter-out-of-ecbs-hold/">Onions For Flintoff, Latter Out of ECB's Hold</a><span> (<a href="http://www.crickblog.com">Cricket Blog</a>)</span></div><span class="club-top-img"><a href="http://www.bornrich.org/entry/glonbe-trotter-andy-warhol-limited-edition-luggage-by-hysteric-glamour/"><img src="http://www.instablogsimages.com/images/2009/09/14/andy-warhol-globe-trotter_dzuvT_12_160x120.png"></a></span><div class="club-top-title"><a href="http://www.bornrich.org/entry/glonbe-trotter-andy-warhol-limited-edition-luggage-by-hysteric-glamour/">Glonbe Trotter × Andy Warhol limited edition luggage by Hysteric Glamour</a><span> (<a href="http://www.bornrich.org">Born Rich</a>)</span></div><span class="club-top-img"><a href="http://www.crickblog.com/entry/compaq-cup-final-half-time-century-no44-props-india-to-319/"><img src="http://www.instablogsimages.com/images/2009/09/14/sachin-dravid_erGOY_17022_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.crickblog.com/entry/compaq-cup-final-half-time-century-no44-props-india-to-319/">Compaq Cup Final Half Time: Century No.44 Props India to 319</a><span> (<a href="http://www.crickblog.com">Cricket Blog</a>)</span></div><span class="club-top-img"><a href="http://www.thedesignblog.org/entry/trailer-mounted-mobile-shower-unit-lets-the-poor-bathe-better/"><img src="http://www.instablogsimages.com/images/2009/09/14/trailer_tdW9H_22976_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.thedesignblog.org/entry/trailer-mounted-mobile-shower-unit-lets-the-poor-bathe-better/">Trailer mounted 'Mobile Shower Unit' lets the poor bathe better</a><span> (<a href="http://www.thedesignblog.org">The Design blog</a>)</span></div><span class="club-top-img"><a href="http://www.bornrich.org/entry/a-lamborghini-bed-serious/"><img src="http://www.instablogsimages.com/images/2009/09/14/lamborghini-bed_dhaD4_12_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.bornrich.org/entry/a-lamborghini-bed-serious/">A Lamborghini bed, seriously?</a><span> (<a href="http://www.bornrich.org">Born Rich</a>)</span></div><span class="club-top-img"><a href="http://www.gizmowatch.com/entry/intel-delivers-a-modular-self-service-kiosk/"><img src="http://www.instablogsimages.com/images/2009/09/14/intel_grocery-kiosk_3awpR_54_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.gizmowatch.com/entry/intel-delivers-a-modular-self-service-kiosk/">Intel delivers a modular self-service kiosk</a><span> (<a href="http://www.gizmowatch.com">Gizmo Watch</a>)</span></div>	</div>
-	<div class="add-news"><a class="add-news-page" href="http://www.instablogs.com/instablogs-club/club_wp_plugin.php">Add This</a></div>
-</div><div class="side-ads"></div><div class="clear"></div><div class="clear"> </div>
-	<div class="border"></div>
-	<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>	
+	 </div><!-- EOF market-place -->
 
-	<div class="border"></div>
-
-		<div class="side-ads"><script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=513849&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=59981"></script></div><div class="clear"></div>
-					<div id="archives">
-		<h2>Archives</h2>
-		
-		<div class="year" style="cursor:pointer;text-decoration:underline;" onclick="toggle_div('arch-open0')">2009</div><div id="arch-open0">			<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200909/">September 2009</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200908/">August 2009</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200907/">July 2009</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200906/">June 2009</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200905/">May 2009</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200904/">April 2009</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200903/">March 2009</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200902/">February 2009</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200901/">January 2009</a>
-			</div>
-			</div><div class="year" style="cursor:pointer;text-decoration:underline;" onclick="toggle_div('arch-open1')">2008</div><div id="arch-open1" style="display:none;">			<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200812/">December 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200811/">November 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200810/">October 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200809/">September 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200808/">August 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200807/">July 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200806/">June 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200805/">May 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200804/">April 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200803/">March 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200802/">February 2008</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200801/">January 2008</a>
-			</div>
-			</div><div class="year" style="cursor:pointer;text-decoration:underline;" onclick="toggle_div('arch-open2')">2007</div><div id="arch-open2" style="display:none;">			<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200712/">December 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200711/">November 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200710/">October 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200709/">September 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200708/">August 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200707/">July 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200706/">June 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200705/">May 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200704/">April 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200703/">March 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200702/">February 2007</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200701/">January 2007</a>
-			</div>
-			</div><div class="year" style="cursor:pointer;text-decoration:underline;" onclick="toggle_div('arch-open3')">2006</div><div id="arch-open3" style="display:none;">			<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200612/">December 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200611/">November 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200610/">October 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200609/">September 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200608/">August 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200607/">July 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200606/">June 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200605/">May 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200604/">April 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200603/">March 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200602/">February 2006</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200601/">January 2006</a>
-			</div>
-			</div><div class="year" style="cursor:pointer;text-decoration:underline;" onclick="toggle_div('arch-open4')">2005</div><div id="arch-open4" style="display:none;">			<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200512/">December 2005</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200511/">November 2005</a>
-			</div>
-						<div class="archive-data">
-				<a href="http://www.automotto.org/archives/200510/">October 2005</a>
-			</div>
-					</div>
-		</div><!-- EOF archives -->
-			
-		<div class="side-ads"></div><div class="clear"></div>
-	</div><!-- EOF inner-sidebar1 -->
-		<div class="inner-sidebar2">
-
-		<div class="market-place">
-			 		</div><!-- EOF market-place -->
-
-		<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-			<script>
-	function toggle_div(id)
-	{
-		var divid= document.getElementById(id);
-		if(divid.style.display == 'none')
-			divid.style.display = 'block';
-		else
-			divid.style.display = 'none';
-	}
-</script>
-
-<div id="content-sidebar-inner">
-	<div id="tags">
-		<h2>Tags</h2>
-		<div class="tag-content">
-			<a href="http://www.automotto.org/tags/2008-detroit-auto-show/" class="ibn_tag1">2008 Detroit Auto Show</a> <a href="http://www.automotto.org/tags/aston-martin/" class="ibn_tag5">Aston Martin</a> <a href="http://www.automotto.org/tags/audi/" class="ibn_tag8">AUDI</a> <a href="http://www.automotto.org/tags/automobiles/" class="ibn_tag7">automobiles</a> <a href="http://www.automotto.org/tags/bentley/" class="ibn_tag1">Bentley</a> <a href="http://www.automotto.org/tags/bikes/" class="ibn_tag9">bikes</a> <a href="http://www.automotto.org/tags/bmw/" class="ibn_tag10">BMW</a> <a href="http://www.automotto.org/tags/bugatti-veyron/" class="ibn_tag3">bugatti veyron</a> <a href="http://www.automotto.org/tags/cars/" class="ibn_tag10">Cars</a> <a href="http://www.automotto.org/tags/chevrolet/" class="ibn_tag4">Chevrolet</a> <a href="http://www.automotto.org/tags/chrysler/" class="ibn_tag5">Chrysler</a> <a href="http://www.automotto.org/tags/concept-car/" class="ibn_tag10">concept car</a> <a href="http://www.automotto.org/tags/concept-cars/" class="ibn_tag9">concept cars</a> <a href="http://www.automotto.org/tags/concepts/" class="ibn_tag5">Concepts</a> <a href="http://www.automotto.org/tags/design-concept/" class="ibn_tag1">design concept</a> <a href="http://www.automotto.org/tags/ferrari/" class="ibn_tag8">Ferrari</a> <a href="http://www.automotto.org/tags/fiat/" class="ibn_tag5">Fiat</a> <a href="http://www.automotto.org/tags/ford/" class="ibn_tag10">Ford</a> <a href="http://www.automotto.org/tags/funny/" class="ibn_tag3">funny</a> <a href="http://www.automotto.org/tags/general-motors/" class="ibn_tag6">General Motors</a> <a href="http://www.automotto.org/tags/geneva-motor-show/" class="ibn_tag7">Geneva Motor Show</a> <a href="http://www.automotto.org/tags/gm/" class="ibn_tag9">GM</a> <a href="http://www.automotto.org/tags/honda/" class="ibn_tag8">honda</a> <a href="http://www.automotto.org/tags/hummer/" class="ibn_tag4">hummer</a> <a href="http://www.automotto.org/tags/hyundai/" class="ibn_tag3">Hyundai</a> <a href="http://www.automotto.org/tags/jaguar/" class="ibn_tag1">Jaguar</a> <a href="http://www.automotto.org/tags/japan/" class="ibn_tag2">japan</a> <a href="http://www.automotto.org/tags/lamborghini/" class="ibn_tag6">Lamborghini</a> <a href="http://www.automotto.org/tags/land-rover/" class="ibn_tag2">Land Rover</a> <a href="http://www.automotto.org/tags/lexus/" class="ibn_tag4">Lexus</a> <a href="http://www.automotto.org/tags/mazda/" class="ibn_tag3">Mazda</a> <a href="http://www.automotto.org/tags/mercedes/" class="ibn_tag7">Mercedes</a> <a href="http://www.automotto.org/tags/mercedes-benz/" class="ibn_tag8">Mercedes-Benz</a> <a href="http://www.automotto.org/tags/mini/" class="ibn_tag2">mini</a> <a href="http://www.automotto.org/tags/mitsubishi/" class="ibn_tag4">Mitsubishi</a> <a href="http://www.automotto.org/tags/naias/" class="ibn_tag2">NAIAS</a> <a href="http://www.automotto.org/tags/nissan/" class="ibn_tag8">Nissan</a> <a href="http://www.automotto.org/tags/paris-motor-show/" class="ibn_tag1">Paris Motor Show</a> <a href="http://www.automotto.org/tags/peugeot/" class="ibn_tag4">Peugeot</a> <a href="http://www.automotto.org/tags/porsche/" class="ibn_tag7">Porsche</a> <a href="http://www.automotto.org/tags/renault/" class="ibn_tag3">Renault</a> <a href="http://www.automotto.org/tags/rolls-royce/" class="ibn_tag6">rolls royce</a> <a href="http://www.automotto.org/tags/suv/" class="ibn_tag6">SUV</a> <a href="http://www.automotto.org/tags/technology/" class="ibn_tag10">Technology</a> <a href="http://www.automotto.org/tags/toyota/" class="ibn_tag9">Toyota</a> <a href="http://www.automotto.org/tags/uk/" class="ibn_tag2">UK</a> <a href="http://www.automotto.org/tags/vehicles/" class="ibn_tag5">vehicles</a> <a href="http://www.automotto.org/tags/video/" class="ibn_tag7">Video</a> <a href="http://www.automotto.org/tags/volkswagen/" class="ibn_tag9">Volkswagen</a> <a href="http://www.automotto.org/tags/volvo/" class="ibn_tag6">Volvo</a> 		</div>	
-		<div class="clear"></div>
-		<div class="more"><a href="/tags/">More&gt;&gt;</a></div>
-	</div><!-- EOF  tags-->	
-
+	<div class="sidewindow">
+	<div class="h-space"></div>
+	<div class="side-head"><a href="http://www.automotto.org/videos/">All</a>Videos</div>
 	
 	<div class="clear"></div>
-
-	<div class="side-ads" style="margin-top:20px"></div><div class="clear"></div>
-	<div class="Comments">
-		<h2>Fresh Comments</h2>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogsimages.com/user-img/m_nation_kingdom.jpg" alt="Anas Takiyudin M.A"></div>
-				<div class="comment-content">
-					<div class="author"><a href="http://nation_kingdom.instablogs.com/">Anas Takiyudin M.A</a></div>
-					on <span><a href="http://www.automotto.org/entry/twin-barrels-burning-rolling-on-motorized-wine-barrels/#comment-630605">Twin Barrels Burning: Rolling...</a> cool! </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogsimages.com/user-img/m_berlinnetta.jpg" alt="John Kelly"></div>
-				<div class="comment-content">
-					<div class="author"><a href="http://berlinnetta.instablogs.com/">John Kelly</a></div>
-					on <span><a href="http://www.automotto.org/entry/successor-to-ferrari-f430-the-f458-italia-revealed/#comment-629967">Successor to Ferrari F430:...</a> F458.
-l have had a cost sent to me.The basic cost will be £186000.00.lf l spec the car... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogsimages.com/user-img/m_ojitetsuooni.jpg" alt="Grant Pourciau"></div>
-				<div class="comment-content">
-					<div class="author"><a href="http://ojitetsuooni.instablogs.com/">Grant Pourciau</a></div>
-					on <span><a href="http://www.automotto.org/entry/the-cloud-bike-concept-is-badass-and-so-unreal/#comment-629801">The Cloud Bike concept is...</a> Nice, it more than likely will handle like crap, but I’d still bring it down to... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogsimages.com/user-img/m_drewtiss.jpg" alt="Drewtiss Drewtiss"></div>
-				<div class="comment-content">
-					<div class="author"><a href="http://drewtiss.instablogs.com/">Drewtiss Drewtiss</a></div>
-					on <span><a href="http://www.automotto.org/entry/1984-chevrolet-gmc-camper-with-sauna-trailer/#comment-629656">1984 Chevrolet GMC Camper...</a> I really love the GMC camper. </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogsimages.com/user-img/m_franciccia.jpg" alt="Francesca Milone"></div>
-				<div class="comment-content">
-					<div class="author"><a href="http://franciccia.instablogs.com/">Francesca Milone</a></div>
-					on <span><a href="http://www.automotto.org/entry/moy-concept-allows-you-to-fully-customize-car-color/#comment-629435">MOY concept allows you to...</a> i’d really like to buy it !! </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-			</div><!-- EOF Comments -->
-
-	<div class="border"></div>
-	
-</div><!-- EOF #content-sidebar-inner -->
-			<div class="side-ads"></div><div class="clear"></div>
-			<div class="market-place">
-				<div class="buy"> To Advertise please <a href="http://www.instablogs.com/ad_solutions.php?b=8">Contact Us</a>.</div>
-			</div><!-- EOF market-place -->
-
-			<div class="border"></div>
-		<div class="border"></div>
-	<div class="clear"></div>
-
-			<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-	</div><!-- EOF inner-sidebar2 -->
-
-	</div><!-- EOF inner-sidebars -->
-	<div class="clear"></div>
-
-		<div class="auto-head">Auto Garage</div>
-	<div class="breaking-news">		
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2009/09/08/toshiba-pedestrian-detection-system_hgvRu_5965_125x80.jpg" alt="toshiba pedestrian detection system hgvRu">
-				<div class="title"><a href="http://www.automotto.org/entry/toshiba-creates-a-system-to-make-roads-safer-for-pedestrians/">Toshiba creates a system to make roads safer for pedestrians</a></div>
-				<div class="date"></div>
-			</div>
-			<div class="clear"> </div>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2009/09/08/toyota-new-breathalyzer_YJyKU_5965_125x80.jpg" alt="toyota new breathalyze YJyKU">
-				<div class="title"><a href="http://www.automotto.org/entry/toyota-moves-to-test-breathalyzer-ignition-interlock-system/">Toyota moves to test breathalyzer ignition-interlock system</a></div>
-				<div class="date"></div>
-			</div>
-			<div class="clear"> </div>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2009/09/05/smartstop_jy94X_5965_125x80.jpg" alt="smartstop jy94X">
-				<div class="title"><a href="http://www.automotto.org/entry/smartstop-saves-your-car-from-getting-scratches-in-the-garage/">SmartStop saves your car from getting scratches in the garage</a></div>
-				<div class="date"></div>
-			</div>
-			<div class="clear"> </div>
-				
-			<div class="breaking-content">
-				<img src="http://www.instablogsimages.com/images/2009/09/02/mystic-aluminum-wheels_Zf2GD_5965_125x80.jpg" alt="mystic aluminum wheels Zf2GD">
-				<div class="title"><a href="http://www.automotto.org/entry/mystic-aluminum-wheels-get-a-customizable-look/">Mystic aluminum wheels get a customizable look</a></div>
-				<div class="date"></div>
-			</div>
-			<div class="clear"> </div>
-			</div><!--EOF breaking-news-->
-	
-	<div class="clear"></div>
-			<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
+		<div id="sidewindow">
+		<ul style="width: 4050px;">	
+							<li style="float: left;">
+												<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.automotto.org/entry/hondas-live-every-liter-campaign-stuns-with-a-surprise-striptease-nsfw/"><img src="http://www.instablogsimages.com/images/2010/06/04/hondas-live-every-liter-campaign-5_YcZaT_3868_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.automotto.org/entry/hondas-live-every-liter-campaign-stuns-with-a-surprise-striptease-nsfw/">Honda's Live Every Liter campaign stuns ...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.automotto.org/entry/hybrid-sports-car-concepts-waiting-to-see-the-rolling-day/"><img src="http://www.instablogsimages.com/images/2010/05/18/wn_QE2Nr_18770_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.automotto.org/entry/hybrid-sports-car-concepts-waiting-to-see-the-rolling-day/">Hybrid Sports Car concepts waiting to se...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.automotto.org/entry/shells-crystal-car-tv-commercial-shows-helix-lubricants-in-action-like-never-before/"><img src="http://www.instablogsimages.com/images/2010/04/22/shells-crystal-car-tv-commercial_i7Rt3_3868_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.automotto.org/entry/shells-crystal-car-tv-commercial-shows-helix-lubricants-in-action-like-never-before/">Shell's Crystal Car TV commercial shows ...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.automotto.org/entry/chevrolet-2010-equinox-under-severe-testing/"><img src="http://www.instablogsimages.com/images/2010/04/21/D-_hV57D_3868_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.automotto.org/entry/chevrolet-2010-equinox-under-severe-testing/">Chevrolet 2010 Equinox under severe test...</a></div>
+								<div class="clear"></div>
+							</div>
+											</li>
+							<li style="float: left;">
+												<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.automotto.org/entry/video-winter-bikini-dance-party-fiat-500c/"><img src="http://www.instablogsimages.com/images/2010/05/15/iH_AeEs1_5965_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.automotto.org/entry/video-winter-bikini-dance-party-fiat-500c/">Video: Winter, Bikini dance party, Fiat ...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.automotto.org/entry/videos-the-bmw-m3-gts-in-action/"><img src="http://www.instablogsimages.com/images/2010/05/15/g7_NSVEa_5965_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.automotto.org/entry/videos-the-bmw-m3-gts-in-action/">Videos: The BMW M3 GTS in action</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.automotto.org/entry/video-fv432-takes-a-day-off-to-crush-cars/"><img src="http://www.instablogsimages.com/images/2008/01/02/tank-crushes-cars_5965_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.automotto.org/entry/video-fv432-takes-a-day-off-to-crush-cars/">Video: FV432 takes a day off to crush ca...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.automotto.org/entry/video-hydrofoil-cars-historic-swim-across-the-english-channel/"><img src="http://www.instablogsimages.com/"></a>
+								</div>
+								<div class="video-title"><a href="http://www.automotto.org/entry/video-hydrofoil-cars-historic-swim-across-the-english-channel/">Video: Hydrofoil Car's historic swim acr...</a></div>
+								<div class="clear"></div>
+							</div>
+											</li>
+							<li style="float: left;">
+												<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.automotto.org/entry/video-brad-pitt-in-honda-integra-commercial/"><img src="http://www.instablogsimages.com/"></a>
+								</div>
+								<div class="video-title"><a href="http://www.automotto.org/entry/video-brad-pitt-in-honda-integra-commercial/">Video: Brad Pitt in Honda Integra commer...</a></div>
+								<div class="clear"></div>
+							</div>
+											</li>
+								
+		</ul>
+	</div><span id="prevBtn"><a href="javascript:void(0);" style="display: none;">Previous</a></span> <span id="nextBtn"><a href="javascript:void(0);" style="display: inline;">Next</a></span>
+</div>
 <div class="clear"></div>
 
-	<div class="roundbottom">
-		<img src="/css-img/bl.gif" alt="" width="15" height="15" class="corner" style="display: none">
+<div class="side-ads" style="float:left;margin-bottom:10px;"><!-- BEGIN RICH-MEDIA Burst Direct CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad15198n.cgi/v=2.3S/sz=125x125A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad15198n.cgi/v=2.3S/sz=125x125A/86587/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad15198n-map.cgi/ns/v=2.3S/sz=125x125A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad15198n.cgi/ns/v=2.3S/sz=125x125A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END Burst Direct CODE --></div><div class="side-ads" style="float:right;margin-bottom:10px;"><!-- BEGIN UAT - 125x125 - BornRich: AutoMotto - DO NOT MODIFY -->
+<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/88/26/uat_2688.js?ad_size=125x125"></script>
+<!-- END TAG --></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
+	<div class="t-sidewindow" id="t-sidewindow">
+		<div class="side-head">Popular Tags</div>
+		<ul class="pop-tags">
+					<li><a href="http://www.automotto.org/tags/technology/">Technology</a></li>
+					<li><a href="http://www.automotto.org/tags/cars/">Cars</a></li>
+					<li><a href="http://www.automotto.org/tags/concept-cars/">concept cars</a></li>
+					<li><a href="http://www.automotto.org/tags/concepts/">Concepts</a></li>
+					<li><a href="http://www.automotto.org/tags/bikes/">bikes</a></li>
+					<li><a href="http://www.automotto.org/tags/ford/">Ford</a></li>
+					<li><a href="http://www.automotto.org/tags/bmw/">BMW</a></li>
+					<li><a href="http://www.automotto.org/tags/volkswagen/">Volkswagen</a></li>
+					<li><a href="http://www.automotto.org/tags/toyota/">Toyota</a></li>
+					<li><a href="http://www.automotto.org/tags/gm/">GM</a></li>
+				</ul>
+					<div class="all-tag"><a class="r-tag" href="javascript:tag_paging('2','50','10')">Next 10 <b>&gt;&gt;</b></a><a href="/tags/">All Tags</a></div>
+			</div><!-- EOF sidewindow -->
+
+<div class="side-ads" style="margin-bottom:5px;"><script src="http://www15.glam.com/glamIgm.act?igm=1003665931;208199853;6044"></script></div><div class="clear"></div>
+	<div class="club-sidebar">
+	<div class="club-title"><img src="/css-img/insta_club_badge.gif" border="0" alt=""></div>
+		<div class="main-club"><div class="club-img"><a href="http://www.ecofriend.org/entry/eco-artist-creates-detailed-sculptures-from-corrugated-cardboard/"><img src="http://www.instablogsimages.com/images/2010/06/21/cardboard-sculptures_1_FgoC9_69_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.ecofriend.org/entry/eco-artist-creates-detailed-sculptures-from-corrugated-cardboard/">Eco-artist creates detailed sculptures from corrugated cardboard</a></div><div class="link"> (<a href="http://www.ecofriend.org">Ecofriend</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.bornrich.org/entry/custom-lamborghini-vault-flaunts-your-opulence-inside-your-living-room/"><img src="http://www.instablogsimages.com/images/2010/06/21/lamborghini-vault_Lfpba_65_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.bornrich.org/entry/custom-lamborghini-vault-flaunts-your-opulence-inside-your-living-room/">Custom Lamborghini Vault flaunts your opulence inside your living room</a></div><div class="link"> (<a href="http://www.bornrich.org">Born Rich</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.automotto.org/entry/1997-vw-gti-world-s-fastest-gti-with-208mph/"><img src="http://www.instablogsimages.com/images/2010/06/21/worlds-fastest-gti_UWCTJ_3868_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.automotto.org/entry/1997-vw-gti-world-s-fastest-gti-with-208mph/">1997 VW GTI – World’s fastest GTI with 208mph</a></div><div class="link"> (<a href="http://www.automotto.org">Auto Motto</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.ecofriend.org/entry/the-park-spark-project-turns-dog-poop-into-methane-for-electricity/"><img src="http://www.instablogsimages.com/images/2010/06/21/the-park-spark-project_1_j48Ej_69_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.ecofriend.org/entry/the-park-spark-project-turns-dog-poop-into-methane-for-electricity/">The Park Spark Project turns dog poop into methane for electricity</a></div><div class="link"> (<a href="http://www.ecofriend.org">Ecofriend</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.borntechie.com/entry/chrome-extension-turns-your-browsed-sites-into-personal-music-library/"><img src="http://www.instablogsimages.com/images/2010/06/21/extensionfm-for-google-chrome_inlUu_25552_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.borntechie.com/entry/chrome-extension-turns-your-browsed-sites-into-personal-music-library/">Chrome extension turns your browsed sites into personal music library</a></div><div class="link"> (<a href="http://www.borntechie.com">Borntechie</a>)</div><div class="clear"></div></div><!-- EOF main-club -->	</div><!-- EOF club-sidebar -->
+
+<div class="side-ads" style="margin-bottom:5px;margin-top:5px;"><!-- Begin Adify tag for "MediumRectangle" Ad Space (300x250) ID #1000000909407 -->
+<script type="text/javascript">
+	sr_adspace_id = 1000000909407;
+	sr_adspace_width = 300;
+	sr_adspace_height = 250;
+	sr_ad_new_window = true;
+	sr_adspace_type = "graphic";
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000000909407">
+</script>
+<!-- End Adify tag for "MediumRectangle" Ad Space (300x250) ID #1000000909407 --></div><div class="clear"></div>
+	<iframe src="http://www.facebook.com/plugins/likebox.php?id=54335774706&amp;width=300&amp;height=250&amp;connections=10&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:300px; height:250px"></iframe>
+
+<div class="side-ads" style="margin-bottom:5px;margin-top:5px;"></div><div class="clear"></div>
+			<div class="t-sidewindow" id="archives">
+			<div class="side-head">Archives</div>
+			<ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open0').show('slow')}" "="">2010</ul><ul class="arch-open" id="arch-open0">					<li>
+						<a href="http://www.automotto.org/archives/201006/">June 2010</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/201005/">May 2010</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/201004/">April 2010</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/201003/">March 2010</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/201002/">February 2010</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/201001/">January 2010</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open1').show('slow')}" "="">2009</ul><ul class="arch-open" id="arch-open1" style="display:none;">					<li>
+						<a href="http://www.automotto.org/archives/200912/">December 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200911/">November 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200910/">October 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200909/">September 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200908/">August 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200907/">July 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200906/">June 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200905/">May 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200904/">April 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200903/">March 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200902/">February 2009</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200901/">January 2009</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open2').show('slow')}" "="">2008</ul><ul class="arch-open" id="arch-open2" style="display:none;">					<li>
+						<a href="http://www.automotto.org/archives/200812/">December 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200811/">November 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200810/">October 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200809/">September 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200808/">August 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200807/">July 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200806/">June 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200805/">May 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200804/">April 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200803/">March 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200802/">February 2008</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200801/">January 2008</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open3').show('slow')}" "="">2007</ul><ul class="arch-open" id="arch-open3" style="display:none;">					<li>
+						<a href="http://www.automotto.org/archives/200712/">December 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200711/">November 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200710/">October 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200709/">September 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200708/">August 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200707/">July 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200706/">June 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200705/">May 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200704/">April 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200703/">March 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200702/">February 2007</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200701/">January 2007</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open4').show('slow')}" "="">2006</ul><ul class="arch-open" id="arch-open4" style="display:none;">					<li>
+						<a href="http://www.automotto.org/archives/200612/">December 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200611/">November 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200610/">October 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200609/">September 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200608/">August 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200607/">July 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200606/">June 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200605/">May 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200604/">April 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200603/">March 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200602/">February 2006</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200601/">January 2006</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open5').show('slow')}" "="">2005</ul><ul class="arch-open" id="arch-open5" style="display:none;">					<li>
+						<a href="http://www.automotto.org/archives/200512/">December 2005</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200511/">November 2005</a>
+					</li>
+								<li>
+						<a href="http://www.automotto.org/archives/200510/">October 2005</a>
+					</li>
+					</ul></div><!-- EOF archives -->
+		
+<div class="side-ads" style="margin-left:10px;float:right;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1003665931&amp;adSize=160x600"></script></div><div class="side-ad"><!-- BEGIN STANDARD TAG - 120 x 240 - automotto::Default section - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="120" height="240" src="http://ad.103092804.com/st?ad_type=iframe&amp;ad_size=120x240&amp;section=805517"></iframe>
+<!-- END TAG --></div><div class="clear"></div>
+<div class="side-ads" style="margin-top:15px;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1003665931&amp;adSize=300x250&amp;zone=Marketplace"></script></div><div class="clear"></div>
+	<div class="clear"></div>
+</div><!-- EOF sidebar -->			
+<div class="clear"></div>
+<div class="insta-articles" id="insta-articles">
+	<div class="related-s">You might also like</div>
+	<div class="clear"></div>
+	
+
+	<div class="paging-class">		<div class="all-post"><a class="r-post prev-disabled"><b></b></a></div>
+			<div class="all-post"><a class="r-post next" href="javascript:post_paging('2','48','6')"><b></b></a></div>
 	</div>
-</div><!-- EOF #content-sidebar -->
-		</div><!-- EOF #content -->
+	<div class="clear"></div>
 
-		<!--INFOLINKS_OFF--><div class="clear"> </div>
-	
-		<div id="ad-footer">
+		<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.automotto.org/entry/1997-vw-gti-world-s-fastest-gti-with-208mph/"><img src="http://www.instablogsimages.com/images/2010/06/21/worlds-fastest-gti_UWCTJ_3868_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.automotto.org/entry/1997-vw-gti-world-s-fastest-gti-with-208mph/">1997 VW GTI – World’s fastest GTI with 208mph</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.automotto.org/entry/schaukelwagen-a-toy-car-that-flips-into-a-rocking-chair/"><img src="http://www.instablogsimages.com/images/2010/06/19/schaukelwagen_Z4mqa_3868_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.automotto.org/entry/schaukelwagen-a-toy-car-that-flips-into-a-rocking-chair/">Schaukelwagen – A toy car that flips into a rocking chair</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.automotto.org/entry/another-transformer-erected-this-time-from-old-samara-diva-car-parts/"><img src="http://www.instablogsimages.com/images/2010/06/19/transformer-by-nikola-nikolov_hptPQ_1292_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.automotto.org/entry/another-transformer-erected-this-time-from-old-samara-diva-car-parts/">Another ‘Transformer’ erected, this time from old Samara Diva car parts</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.borntechie.com/entry/create-cool-twitter-screenshot-from-the-address-bar/"><img src="http://www.instablogsimages.com/images/2010/06/18/twitter_screenshots1_NrOK6_25552_150x150.png"></a></div>
+			<div class="stry-title-insta"><a href="http://www.borntechie.com/entry/create-cool-twitter-screenshot-from-the-address-bar/">Create cool Twitter screenshot from the address bar</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.automotto.org/entry/o-lec-concept-harvests-power-from-the-road-to-move-on/"><img src="http://www.instablogsimages.com/images/2010/06/18/o-lec-concept-2_YHvsN_3868_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.automotto.org/entry/o-lec-concept-harvests-power-from-the-road-to-move-on/">O-lec concept harvests power from the road to move on</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.automotto.org/entry/toyota-yaris-converted-into-batmobile-for-everyday-batman/"><img src="http://www.instablogsimages.com/images/2010/06/18/toyota-yaris-batmobile_DQxOH_3868_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.automotto.org/entry/toyota-yaris-converted-into-batmobile-for-everyday-batman/">Toyota Yaris converted into Batmobile for everyday Batman</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+			<div class="clear"></div>
+</div> <!-- EO week-dairy -->
+<div class="clear"></div>
+						<div class="clear"></div>	
+			</div><!-- EOF inner-container -->
+			<div class="clear"></div>
+		</div> <!-- EOF container -->
+	 <!-- EOF wrapper -->
+	<div id="footer">
 
-			<div class="side-ads"></div>
-
-			<div class="side-ads"></div>
-
-		</div><!-- EOF #ad-footer -->
-
-		<div id="footer">
-	
-		<div class="roundtop">
-				
-				<img src="/css-img/tl.gif" alt="" width="15" height="15" class="corner" style="display: none">
-			</div>
-						<div id="footer-main">
-				
-				<div class="publish">Published by The <a href="http://www.instablogs.com/">Instablogs Network</a>, <a href="http://www.citizenmedia.org">Citizen Media Pvt. Ltd.</a></div>
-				<div class="copyright">Copyright © Instablogs Network 2005. All rights reserved.</div>
-				<div class="footer-links">
-				<a href="http://www.instablogs.com/ad_solutions.php?b=8">Advertising</a>  |  <a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
-				</div>
-			</div><!-- EOF #footer-main -->
-
-				<div class="side-ads"></div>
-
-				<div class="side-ads"></div>
-
-		</div><!-- EOF #footer -->
-
-
-		<!-- Start of StatCounter Code ===Automotto.org=== -->
-			<script type="text/javascript">
-			var sc_project=968470; 
-			var sc_invisible=1; 
-			var sc_partition=53; 
-			var sc_click_stat=1; 
-			var sc_security="491b4af7"; 
+		<div class="glam-logo" style="text-align:center;">
+			<script type="text/javascript" language="JavaScript">
+			brash_affiliate_id = '1003665931';
+			brash_logo_type = 'BPN';
+			brash_logo_size = '160x24';
+			brash_logo_color = 'wht';
+			brash_logo_country = 'US';
 			</script>
+			<script src="http://www8.glam.com/js/widgets/brash_logo.js"></script>
+		</div>
 
-			<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-			class="statcounter"><a title="drupal statistics"
-			href="http://www.statcounter.com/drupal/"
-			target="_blank"><img class="statcounter"
-			src="http://c.statcounter.com/968470/0/491b4af7/1/"
-			alt="drupal statistics" ></a></div></noscript>
-		<!-- End of StatCounter Code -->
+		<div>Published by <a href="http://www.instablogs.com/">The Instablogs Network</a>,<a href="http://www.citizenmedia.org/"> Citizen Media Pvt. Ltd</a>.</div><div>Copyright © Instablogs Network 2009. All rights reserved</div><div>Powered by <a href="http://www.instapress.org/">Instapress</a></div>
+		<div><a href="http://www.instablogs.com/ad_solutions.php?b=8">Advertising</a> | <a href="http://www.automotto.org/about-us.php">About</a> | <a href="http://www.automotto.org/disclaimer.php">Disclaimer</a> | <a href="http://www.automotto.org/privacy-policy.php">Privacy Policy</a> | <a href="http://www.automotto.org/terms-of-use.php">Terms of Use</a> | <a href="http://www.automotto.org/contact-us.php?q=general">Contact </a></div>
+	</div><!-- EOF footer -->
+	<div class="clear"></div>
+	<div id="fade" style="display:none;"></div>
 
+	<!-- Kontera ContentLink(TM);-->
 
-		<!-- Start of StatCounter Code Instablogs Network -->
-			<script type="text/javascript">
-			sc_project=2497465; 
-			sc_invisible=1; 
-			sc_partition=23; 
-			sc_security="77633a20"; 
-			</script>
-
-			<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-			class="statcounter"><a title="hits counter"
-			href="http://www.statcounter.com/free_hit_counter.html"
-			target="_blank"><img class="statcounter"
-			src="http://c24.statcounter.com/2497465/0/77633a20/1/"
-			alt="hits counter" ></a></div></noscript>
-		<!-- End of StatCounter Code -->
-
-
-	</div> <!-- EOF #container -->
-
-	<!-- Start Quantcast tag --> <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qoptions = { labels:"MTV TuningCulture,MTVN Global Digital Network,MTVN Digital Tribes,MTV Generation Tribe,MTVN Music and Logo Global Network,MTVN Music and Logo Tribes,MTV plus Generation" }; _qacct="p-94wNw88f65Rhk";quantserve();</script><noscript><a href="http://www.quantcast.com/p-94wNw88f65Rhk" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-94wNw88f65Rhk.gif?labels=MTV%20TuningCulture%2CMTVN%20Global%20Digital%20Network%2CMTVN%20Digital%20Tribes%2CMTV%20Generation%20Tribe%2CMTVN%20Music%20and%20Logo%20Global%20Network%2CMTVN%20Music%20and%20Logo%20Tribes%2CMTV%20plus%20Generation" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript><!-- End Quantcast tag -->
-
-  
-
-
-	
-<!-- google analytics -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-601944-17");
-pageTracker._trackPageview();
+
+var dc_AdLinkColor = 'blue' ;
+
+var dc_PublisherID = 90569 ;
+
+var dc_maxLinks='4';
+
 </script>
 
-<!-- Technology Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-5515876-22");
-pageTracker._trackPageview();
+<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js">
+
 </script>
+
+<!-- Kontera ContentLink(TM) -->	<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=968470; 
+var sc_invisible=1; 
+var sc_partition=58; 
+var sc_click_stat=1; 
+var sc_security="491b4af7"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="counter customisable"
+href="http://www.statcounter.com/free_hit_counter.html"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/968470/0/491b4af7/1/"
+alt="counter customisable" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+<!-- Start of StatCounter Code Instablogs Network -->
+<script type="text/javascript">
+var sc_project=2497465; 
+var sc_invisible=1; 
+var sc_partition=66; 
+var sc_click_stat=1; 
+var sc_security="77633a20"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="web stats"
+href="http://www.statcounter.com/free_web_stats.html"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/2497465/0/77633a20/1/"
+alt="web stats" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+	<!-- Site Google Analytics -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-601944-17");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+	<!-- End of Site Google Analytics -->
+
+
+	<!-- Channel Google Analytics -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-5515876-22");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+	<!-- End of Channel Google Analytics -->
 
 <!-- Instablogs Network Google Analytics -->
 <script type="text/javascript">
@@ -715,9 +832,11 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-601944-10");
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
+<!-- End of Instablogs Network Google Analytics -->	<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=diDhkgs6ir34XAadbiUt4I&amp;s=131"></script>
 
-<div class="side-ads">
-	</div></body></html>
+	
+</body></html>
