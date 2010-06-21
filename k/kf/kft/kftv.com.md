@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219162714id_/http%3A//www.kftv.com/infozone/resources/privpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622004847id_/http%3A//www.kftv.com/infozone/resources/privpolicy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
