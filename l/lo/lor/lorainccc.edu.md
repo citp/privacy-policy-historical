@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorainccc.edu privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221002356id_/http%3A//www.lorainccc.edu/Current%2BStudents/Campus%2BPolicies/Web%2BSite%2BPrivacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorainccc.edu privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621051655id_/http%3A//www.lorainccc.edu/Current%2BStudents/Campus%2BPolicies/Web%2BSite%2BPrivacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
