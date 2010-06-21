@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025125934id_/https%3A//www.lowermybills.com/misc/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621132129id_/https%3A//www.lowermybills.com/misc/privacy/index.jsp) for the most accurate reproduction.*
 
 # LowerMyBills.com - Privacy Policy
 
 |  | 
 
-Last updated: August 21, 2009
+Last updated: January 4, 2010
 
 **We Respect Your Privacy**
 
@@ -35,7 +35,7 @@ We also collect demographic information. Demographic information is all other in
 We share personal information about you under the following circumstances:  
 
 
-**Loan Products or Service Requests -** If you submit a request for quotes for a loan product or service offered through this website, we will share the personal information contained in your request form (such as your full name, address, telephone number, property location, self-assessed value, and Social Security Number) with third parties, which include banks, mortgage lenders and brokers, and lead aggregators (collectively, "Lender" or "Lenders") in our client network to process and fulfill your request. In some circumstances, we may obtain additional information about you and/or share that information with Lenders in our network. For example, we may use your Social Security Number, your Year of Birth, or your personal information to obtain your credit report and credit score to help us better match you with Lenders. In addition, Lenders that receive your personal information may use your Social Security Number, Year of Birth or your personal information to obtain your credit report and credit score in order to process and fulfill your request. 
+**Loan Products or Service Requests -** If you submit a request for quotes for a loan product or service offered through this website, we will share the personal information contained in your request form (such as your full name, address, telephone number, property location, self-assessed value, and Social Security Number) with third parties, which include banks, mortgage lenders and brokers, and lead aggregators (collectively, "Lender" or "Lenders") in our client network to process and fulfill your request. In some circumstances, we may obtain additional information about you and/or share that information with Lenders in our network. For example, we may use your Social Security Number, your Year of Birth, or your personal information to obtain your credit report and credit score to help us better match you with Lenders. 
 
 All Lenders in our network have entered into agreements with LowerMyBills.com, and are required to comply with federal and state privacy regulations. By submitting your request to LowerMyBills.com, you understand that Lenders may contact you by telephone (on a recorded line), automated calling, email, or regular mail based on the information you provided to us in order to process and fulfill your request, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of an internal company. If one of the Lenders contacts you and you wish not to be contacted again by that Lender with respect to your inquiry, then you should specifically make a request to that Lender not to contact you again. Please note that the Lenders may maintain the information you provided whether you elect to use their services.
 
@@ -51,7 +51,7 @@ For a complete list of licenses and disclosures, please click [here](https://web
 
 **Affiliate Partners -** Personal and business information submitted through the "Affiliate Program" section of our website is collected by Commission Junction and is subject to Commission Junction's policies and procedures. Please review [Commission Junctions' Privacy Policy](http://www.cj.com/privacy.html) before submitting your personal information.
 
-**Subsidiaries, Parent or Sister Companies -** We may share personal and demographic information about you with our subsidiaries, parent company, or sister companies. For example, we may share your information with Experian, ConsumerInfo.com, ClassesUSA or PriceGrabber.com. 
+**Subsidiaries, Parent or Sister Companies -** We may share personal and demographic information about you with our subsidiaries, parent company, or sister companies. For example, we may share your information with Experian, ConsumerInfo.com, ClassesUSA.com or PriceGrabber.com. 
 
 **Aggregate, Non-Personal, or De-identified Information.** We may share aggregated information (i.e., information about you and other customers collectively, but not specifically identifiable to you) and other non-personal, de-identified, or anonymous information we collect with third parties, including affiliates to develop and deliver targeted advertising on our Site and on the websites of third parties. If you would prefer that we do not utilize cookies with your website experience, or would prefer to restrict the use of cookies with network advertising partners, please see the "Offering You Choices" section below.
 
@@ -112,8 +112,8 @@ By sending an email to:
 By sending a letter to:  
 LowerMyBills.com.   
 Attn: Customer Care   
-6701 Center Drive West, Suite 300   
-Los Angeles, CA 90045 
+P.O. Box 5467   
+Culver City, CA 90231
 
 **Changes to this Privacy Pledge**  
 LowerMyBills.com may update or modify this Privacy Pledge from time to time. If there are material changes to this Privacy Pledge or in how LowerMyBills.com will use your personal information, we will post such changes here. You will be notified if any of the material changes that affect the use of your personal information and asked to opt-in to the new use of your personal information. If you do not agree with the changes to how your information will be used, please do not continue to use this website.
