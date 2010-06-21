@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macauhr.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619200620id_/http%3A//www.macauhr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macauhr.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621044836id_/http%3A//www.macauhr.com/privacy) for the most accurate reproduction.*
 
 # macauHR.com | Job Search, Recruitment , Head Hunting, Training and HR Resources - Macau
 
