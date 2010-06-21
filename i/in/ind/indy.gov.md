@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indy.gov privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614203940id_/http%3A//indy.gov/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indy.gov privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621064516id_/http%3A//www.indy.gov/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Privacy Statement for the City of Indianapolis/ Marion County, Indiana
 
-This Privacy Statement informs you about the types of information the City of Indianapolis and Marion County gathers online when you visit Indygov.org or any of our associated web sites, how we may use that information, whether we disclose it to anyone, and your choices regarding our use of, and your ability to correct, that information.
+This Privacy Statement informs you about the types of information the City of Indianapolis and Marion County gathers online when you visit Indy.gov or any of our associated web sites, how we may use that information, whether we disclose it to anyone, and your choices regarding our use of, and your ability to correct, that information.
 
 This Privacy Statement may change from time to time, so please check back periodically. This Statement explains the following regarding the treatment of data collected on our Site(s):
 
@@ -23,7 +23,7 @@ This Privacy Statement may change from time to time, so please check back period
 
 **1** **. Sites covered by this Statement**
 
-This Privacy Statement covers the collection and use of data on the Indygov.org websites and any affiliated sites managed by Indianapolis or Marion County.
+This Privacy Statement covers the collection and use of data on the Indy.gov websites and any affiliated sites managed by Indianapolis or Marion County.
 
 **2** **. What Information we collect**
 
@@ -86,7 +86,7 @@ _Contact information_ : If you contact us, we may keep a record of your correspo
 
 **5** **. Sharing your information**
 
-Indygov.org will not rent, sell or give away any Personally Identifiable Information entered into the website to third parties for marketing or mailing list purposes. However, Your Personally Identifiable Information may be shared as required: by the Indiana Public Records Act, for a third party to process the request, and otherwise by law.
+Indy.gov will not rent, sell or give away any Personally Identifiable Information entered into the website to third parties for marketing or mailing list purposes. However, Your Personally Identifiable Information may be shared as required: by the Indiana Public Records Act, for a third party to process the request, and otherwise by law.
 
 [Indiana Public Records Act](http://www.ai.org/legislative/ic/code/title5/ar14/ch3.html): We are required to maintain many documents under the Indiana Access to Public Records Act, but we do not collect personal information for any purpose other than to respond to you or for other purposes required by law.
 
@@ -94,22 +94,22 @@ All information collected or submitted may be subject to disclosure pursuant to 
 
 For more information on the Indiana Access to Public Records Act, [click here](http://www.ai.org/legislative/ic/code/title5/ar14/ch3.html).  Visit the web page for the Indiana Public Access Counselor, by [clicking here](http://www.state.in.us/pac/), or to visit the web page for the City of Indianapolis Public Access Counselor, click here.
 
-_Third Party Processing_ : Indygov.org will send Personally Identifiable Information about you to other companies, agencies, or people when:
+_Third Party Processing_ : Indy.gov will send Personally Identifiable Information about you to other companies, agencies, or people when:
 
   * We need to share your information to provide the product or service you have requested. For example, we might use a third party billing company, and we send information for billing purposes only; and 
-  * We need to send the information to companies who work on behalf of Indygov.org to provide a product or service to you. Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us. CivicNet is an example of a "third party" in this context.
+  * We need to send the information to companies who work on behalf of Indy.gov to provide a product or service to you. Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us. CivicNet is an example of a "third party" in this context.
 
 
 
-_Otherwise by Law_ : Indygov.org will send Personally Identifiable Information about you as required to do so by law, subpoena, court order or legal process.
+_Otherwise by Law_ : Indy.gov will send Personally Identifiable Information about you as required to do so by law, subpoena, court order or legal process.
 
 **6** **. Accessing and Changing Your Information**
 
-Indygov.org seeks to ensure that your information and preferences are accurate and complete. If you have registered at Indygov.org, you may access and change your information by visiting the site where it was submitted. All e-mail communications from us, such as newsletters, tell you how to stop receiving them. Please follow these instructions if you no longer wish to receive the e-mail messages.
+Indy.gov seeks to ensure that your information and preferences are accurate and complete. If you have registered at Indy.gov, you may access and change your information by visiting the site where it was submitted. All e-mail communications from us, such as newsletters, tell you how to stop receiving them. Please follow these instructions if you no longer wish to receive the e-mail messages.
 
 **7** **. Use of Cookies On This Site**
 
-A "cookie" is a small data file transferred by a website to your computer's hard drive. You are sent cookies when you surf Indygov.org, make on-line payments, respond to online surveys, or request information. Accepting Indygov.org cookies does not give us access to your Personally Identifiable Information, but we can use the cookies to identify your computer. The aggregate information collected permits us to analyze traffic patterns on our Site(s). This can enable us over time to provide you with a better experience on our Site(s) by improving the content and making it easier to use.
+A "cookie" is a small data file transferred by a website to your computer's hard drive. You are sent cookies when you surf Indy.gov, make on-line payments, respond to online surveys, or request information. Accepting Indy.gov cookies does not give us access to your Personally Identifiable Information, but we can use the cookies to identify your computer. The aggregate information collected permits us to analyze traffic patterns on our Site(s). This can enable us over time to provide you with a better experience on our Site(s) by improving the content and making it easier to use.
 
 Most browsers automatically accept cookies, but you can usually refuse cookies, or selectively accept certain cookies, by adjusting the preferences in your browser. If you turn off cookies, though, there may be some features of our Site(s) that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how you can adjust them to control cookies at the following Web sites:
 
@@ -124,11 +124,11 @@ When you complete on-line transactions on our Site, we use Secure Sockets Layer 
 
 **9** **. Links to Other Web Sites**
 
-Parts of our Site(s) contain links to third-party websites for your convenience and information. If you use these links, you will leave the Indygov.org website. When you access a non-Indygov.org website, even one that may contain the Indygov.org logo (such as CivicNet.net), please understand that we do not control the content and are not responsible for the privacy practices of that site. We suggest that you carefully review the privacy policies of each site you visit. This Privacy Statement does not cover the information practices of those websites linked to our Site. These other sites may send their own cookies to users, collect data, or solicit personal information.
+Parts of our Site(s) contain links to third-party websites for your convenience and information. If you use these links, you will leave the Indy.gov website. When you access a non-Indy.gov website, even one that may contain the Indy.gov logo (such as CivicNet.net), please understand that we do not control the content and are not responsible for the privacy practices of that site. We suggest that you carefully review the privacy policies of each site you visit. This Privacy Statement does not cover the information practices of those websites linked to our Site. These other sites may send their own cookies to users, collect data, or solicit personal information.
 
 **10** **. Children's Privacy Protection**
 
-The City of Indianapolis and Marion County believe that protecting children's privacy online is extremely important. Indygov.org respects national and international laws, including the Children's On-line Privacy Protection Act ("COPPA"), which applies in the United States. Indygov.org is not directed to children under 13, and does not knowingly collect personal information from children.
+The City of Indianapolis and Marion County believe that protecting children's privacy online is extremely important. Indy.gov respects national and international laws, including the Children's On-line Privacy Protection Act ("COPPA"), which applies in the United States. Indy.gov is not directed to children under 13, and does not knowingly collect personal information from children.
 
 **11** **. Changes to This Statement**
 
@@ -136,10 +136,10 @@ If there are changes or additions to the terms of this Privacy Statement, we wil
 
 **12** **. Contact Us**
 
-If you have any questions or concerns about the City of Indianapolis and Marion County's use of your information or about this Privacy Statement, please send an e-mail to [webmaster@indygov.org](mailto:webmaster@indygov.org) and note "Privacy" in the subject line.
+If you have any questions or concerns about the City of Indianapolis and Marion County's use of your information or about this Privacy Statement, please send an e-mail to [webmaster@indy.gov](mailto:webmaster@indy.gov) and note "Privacy" in the subject line.
 
 Notes:   
-1 A URL is the global address of documents and other resources on the World Wide Web. For example, [http://www.Indygov.org](https://web.archive.org/) is the URL for the City of Indianapolis and Marion County's home page.   
+1 A URL is the global address of documents and other resources on the World Wide Web. For example, [http://www.Indy.gov](https://web.archive.org/) is the URL for the City of Indianapolis and Marion County's home page.   
 2 An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
 
 This statement is effective on June 18, 2002.
