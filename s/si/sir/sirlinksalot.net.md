@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirlinksalot.net privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211192112id_/http%3A//www.sirlinksalot.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirlinksalot.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621101827id_/http%3A//www.sirlinksalot.net/privacy.html) for the most accurate reproduction.*
 
 # SirLinksalot.net Privacy Policy
 
@@ -9,12 +9,6 @@
 **External Links**
 
 This site contains links to other sites. **SirLinksalot.net** and **Walker Marketing, Inc.** is not responsible for the privacy practices or the content of such Web sites.
-
-**Counted.com**
-
-This website collects statistical information using information provided by Counted.com.  The privacy policy for Counted.com 
-
-can be found [**by clicking here**](http://www.counted.com/information/privacy/).
 
 **Sitemeter.com**
 
@@ -30,7 +24,9 @@ You can use SirLinksalot.net without revealing any personal information.  The m
 
 We require registration for participation in our affiliates, advertising and partnership programs. These services cannot be offered without first receiving certain information, such as your contact details. If you are not willing to provide us with such information you may choose to not participate in these programs.
 
-During your use of our site, we may collect demographic and profile data. This data is used so we may enhance your experience at our site (i.e. showing you content that you may be interested in according to your preferences). We may share this information with selected advertisers and sponsors. If you do not wish demographic or profile information to be shared, then you may opt-out at the time of registration. At no time will information that personally identifies you or enables an advertiser to communicate with you directly be distributed to any third party.
+During your use of our site, we may collect demographic and profile data. This data is used so we may enhance your experience at our site (i.e. showing you content that you may be interested in according to your preferences). We may share this information with selected advertisers and sponsors. If you do not wish demographic or profile information to be shared, then you may opt-out at the time of registration. At no time will information that personally identifies you or enables an advertiser to communicate with you directly be distributed to any third party. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 **Coverage**
 
@@ -57,7 +53,4 @@ Should you have any questions regarding this privacy policy please **[contact us
   
 **Back to[SirLinksalot.net](http://www.sirlinksalot.net/)**
 
-[](http://bilbo.counted.com/7/30730/)  
-    
-
-Copyright © 2000 - 2008 [Walker Marketing Inc.](http://www.walkermarketinginc.com/) All Rights Reserved
+Copyright © 2000 - 2010 [Walker Marketing Inc.](http://www.walkermarketinginc.com/) All Rights Reserved
