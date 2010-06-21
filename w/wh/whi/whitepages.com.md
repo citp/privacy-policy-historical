@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227123316id_/http%3A//www.whitepages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621040809id_/http%3A//www.whitepages.com/privacy) for the most accurate reproduction.*
 
 # Free People Search | WhitePages
 
@@ -6,27 +6,24 @@
 
 ## Our Approach to Privacy
 
-It is our goal to make it fantastically simple for everyone to connect with confidence through our network of WhitePages websites. The key word here is "confidence." We want you to understand how your information is collected and used.
+Our approach to privacy is to help you to understand how your information is collected and used.
 
 ### Information Published on WhitePages Websites
 
-It's important for you to know that we acquire much of the information published on our websites from third-party data suppliers and other sources. Our Privacy Policy does not apply to that information. It applies only to the information that you provide directly to us. We detail the specifics below.
-
-### Remove Published Listing Information
-
-If you want to remove listing information - such as your name, address and phone number - from being shown on WhitePages websites, [click here](https://web.archive.org/help/privacy_central#6). For specific information about how you can control the listing information we may publish about you, [click here](https://web.archive.org/help/privacy_central).
+Our Privacy Policy does not apply to listing information published on our websites. If you want to learn how to remove listing information published on WhitePages websites or for more information about how to control this information, [click here](https://web.archive.org/help/privacy_central#6).
 
 ## WhitePages Privacy Policy
 
-**This policy is effective as of May 6, 2009.**
+**This policy is effective as of February 17, 2010.**
 
-Our privacy policy will help you understand the different types of information we collect when you use our services (the "Services"). By using our Services, you agree to our privacy policy and [terms of service](https://web.archive.org/terms). We may change or update this policy from time to time. Any updated policy shall be effective immediately after it is posted.
+Our privacy policy will help you understand the different types of information we collect when you use our services (the "Services"). By using our Services, you agree to our privacy policy and [Terms of Service](https://web.archive.org/help/terms). We may change or update this policy from time to time. Any updated policy shall be effective immediately after it is posted.
 
 ## The Information We Collect & How We Use It
 
-There are three categories of information that we collect from you:
+There are four categories of information that we collect from you:
 
   * Member Contributed Information
+  * Search Information and Uploaded Files
   * Personal Information
   * General Information
 
@@ -42,27 +39,38 @@ This is any information that you voluntarily send, post, upload, or display to o
 
 Our use of Member Contributed Information is straightforward – we publish it, send it to the intended recipient or use it in accordance with any terms and conditions you agree upon when you submit the information. Although we allow you to set privacy options that limit access to certain information, you should assume that Member Contributed Information may be accessible by anyone.
 
-### 2\. Personal Information
+### 2\. Search Information and Uploaded Files
 
-This is information that you provide when using the Services which is not provided for publication, transmission or display through the site AND identifies you by full name, full postal address, phone number or email address, or includes information necessary to process payment for the Services. Examples of Personal Information include your username and password and payment information such as a credit card number, expiration date, and billing address.
-
-To be very clear, Personal Information does not include any contact information you choose to publish on WhitePages websites. That's Member Generated Information.
+This is information that you provide through the use of our Services, such as searches performed on our websites, queries sent to us via API or files uploaded through our WhitePages PRO List Update services.
 
 **How we use it:**
 
-  * We may use Personal Information for the purposes for which it was provided, such as to process transactions and to send text messages or emails to other members.
-  * We may use your email address to send email about your account or marketing messages to any email address you provide us.
+  * We use Search Information and Uploaded Files for the purpose provided, such as to provide search results or to update information to your uploaded file.
+  * We do not share or sell Search Information and Uploaded Files (exceptions noted under "When We Share Information With Third Parties.")
+
+
+
+### 3\. Personal Information
+
+This is information that you provide when using the Services which is not provided for publication, transmission, display or update through the WhitePages site AND identifies you by full name, full postal address, phone number or email address, or includes information necessary to process payment for the Services. Examples of Personal Information include your username and password and payment information such as a credit card number, expiration date, and billing address.
+
+To be very clear, Personal Information does not include any contact information you choose to publish on WhitePages websites. That's Member Contributed Information.
+
+**How we use it:**
+
+  * We may use Personal Information for the purposes for which it was provided, such as to process transactions and to facilitate sending text messages or emails to other members.
+  * We may use your email address to send email about your account or marketing messages.
   * You can always choose not to receive any marketing email. We offer an "unsubscribe" in the marketing emails we send. If you choose not to receive marketing email, you may still receive WhitePages email and other communication (e.g. SMS, text messages, etc.) from us based on Services you may have signed up for.
 
 
 
-### 3\. General Information
+### 4\. General Information
 
 This information includes things like your browser type, IP address, the date and time of your visits, locality (your city and state), which web pages you viewed, searches you conducted, and other communications through the Services. Through surveys we may collect General Information, such as your age, gender or interests.
 
 We use cookies, web beacons and GPS information (for mobile devices) to collect General Information.
 
-**A cookie** is a small file that we send to your computer to identify your web browser. Most browsers allow you to disable cookies (not allow our servers to send cookies to your browser). However, some of the Services may not function properly if you disable cookies.
+**A cookie** is a small file that we send to your computer to identify your web browser. Most browsers allow you to disable cookies (which prevents our servers from sending cookies to your browser). However, some of the Services may not function properly if you disable cookies.
 
 **A web beacon** is a small graphic file used to identify if a page has been viewed.
 
@@ -80,11 +88,11 @@ WhitePages works with Audience Science and other third party companies to delive
 
 To stop information collection and targeted advertising from Audience Science and other third-party companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-### Advertising Forms & Surveys
+### Advertising Forms, Surveys and Third Party Links
 
 Some third-party advertisements include surveys or forms, which prompt you to enter search criteria or other General Information, such as your age or gender. An advertiser may receive the information you enter into a form or survey contained in an advertisement. Similarly, advertisements typically link to third-party websites.
 
-It's important to remember that we do not have control over the privacy policies of advertisers or other third-party websites. So before you enter any information into a form or survey contained in an advertisement, or click through to a third-party website linked from an advertisement, we encourage you to read the privacy policy of the advertiser or third-party website.
+There are links to other websites and pages provided by third parties on WhitePages. Any personal information you enter is provided directly to that third party and is subject to that third party's privacy policy. It's important to remember that we do not have control over the privacy policies of advertisers or other third-party websites. So before you enter any information into a form or survey contained in an advertisement, or click through to a third-party website linked from an advertisement, we encourage you to read the privacy policy of the advertiser or third-party website.
 
 Websites that contain a "Powered by WhitePages" logo may not be controlled by WhitePages, therefore please review the privacy policies on such web pages as our privacy policy might not apply.
 
@@ -116,7 +124,7 @@ We use reasonable security measures to protect your Personal Information from un
 
 ## Children & WhitePages
 
-Our Services are not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 18 through our Services. If you know of anyone under the age of 18 whose information is published through our Services, or have other concerns about children's privacy, please write to us at [childrensprivacy@whitepages.com](mailto:childrensprivacy@whitepages.com "Send email to childrensprivacy@whitepages.com").
+Our Services are not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 13 through our Services. If you know of anyone under the age of 13 whose information is published through our Services, or have other concerns about children's privacy, please write to us at [childrensprivacy@whitepages.com](mailto:childrensprivacy@whitepages.com "Send email to childrensprivacy@whitepages.com").
 
 ## Contact Us
 
