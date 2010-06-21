@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewsstar.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220034428id_/http%3A//www.thenewsstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewsstar.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621114458id_/http%3A//www.thenewsstar.com/privacy) for the most accurate reproduction.*
 
 # thenewsstar.com | Monroe PRIVACY | The News Star
 
