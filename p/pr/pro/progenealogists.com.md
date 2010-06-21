@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progenealogists.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617101458id_/http%3A//progenealogists.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progenealogists.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621064515id_/http%3A//www.progenealogists.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement | ProGenealogists
 
@@ -11,6 +11,8 @@ We use an outside ad company to display ads on our site. These ads may contain c
 ### Order Forms
 
 Our site uses an order form and registration forms for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level).  Contact information from the order forms is used to ship purchases or to provide information about our company. The customer's contact information is also used to get in touch with the visitor when necessary.
+
+Information collected regarding an individual's ancestry on order forms, estimate forms, or in the course of research is used only for the purpose of conducting research for that client's or potential client's purposes. Researchers in our firm are not employees of the LDS Church and ancestral information collected by ProGenealogists is not passed on to the LDS church for their use, except in instances where a specific request to that effect has been made by the client.
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity.
 
@@ -30,7 +32,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 ### Data Quality/Access
 
-This site gives users the following options for changing and modifying information previously provided:  Please send an email to [support@proenealogists.com](mailto:support@proenealogists.com). 
+This site gives users the following options for changing and modifying information previously provided:  Please send an email to [support@progenealogists.com](mailto:support@progenealogists.com). 
 
 ### Contacting the Web Site
 
