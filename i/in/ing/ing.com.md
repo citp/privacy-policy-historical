@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ing.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219011158id_/http%3A//www.ing.com/group/showdoc.jsp%3Fdocid%3D095075_EN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ing.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622010018id_/http%3A//www.ing.com/group/showdoc.jsp%3Fdocid%3D095075_EN) for the most accurate reproduction.*
 
 # Privacy statement - ING
 
@@ -14,4 +14,4 @@ Most web browsers automatically accept cookies, but you can usually alter the se
 
 This Privacy Statement may be modified from time to time to comply with applicable laws, or to reflect our updated business practises, without prior notice. Please check this page periodically for any changes that may be posted.
 
-If you have any questions about this Privacy Statement or our data processing activities, please [contact us](https://web.archive.org/web/20091219011158id_/http%3A//www.ing.com/group/coupon.jsp?cp=cpContactUS%E2%8C%A9=en) via this website.
+If you have any questions about this Privacy Statement or our data processing activities, please [contact us](https://web.archive.org/web/20100622010018id_/http%3A//www.ing.com/group/coupon.jsp?cp=cpContactUS&lang=en) via this website.
