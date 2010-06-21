@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218162148id_/http%3A//shop.rugby.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dbottomnav_r_PrivacyPolicy%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621045003id_/http%3A//shop.rugby.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dbottomnav_r_PrivacyPolicy%23policies) for the most accurate reproduction.*
 
 # Ralph Lauren Rugby - Rugby.com Customer Assistance
 
@@ -144,7 +144,7 @@ Polo Ralph Lauren's practices regarding the collection, storage, transfer, use a
 
 We notify our Customers and Employees located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Employees (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information. 
 
-Employees (including job applicants) who submit Personal Information through our careers site may view our [Privacy Notice](https://web.archive.org/web/20091218162148id_/http%3A//shop.rugby.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies) for details about our Personal Information privacy practices. Employees can find additional information in the Employee Data Protection Policy available on Polo Express and from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20091218162148id_/http%3A//shop.rugby.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
+Employees (including job applicants) who submit Personal Information through our careers site may view our [Privacy Notice](https://web.archive.org/web/20100621045003id_/http%3A//shop.rugby.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies) for details about our Personal Information privacy practices. Employees can find additional information in the Employee Data Protection Policy available on Polo Express and from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20100621045003id_/http%3A//shop.rugby.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
 
 **Purpose of Collection and Use of Personal Information**
 
