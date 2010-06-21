@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/corporate/content/webcontent.asp%3Fnav%3Dpolicies%26fullid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621115014id_/http%3A//www.pace.com/corporate/content/webcontent.asp%3Fnav%3Dpolicies%26fullid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Pace
 
@@ -10,7 +10,7 @@ Your privacy is important to us. We have created this Privacy Policy to explain 
 
  **What information do we collect from visitors to the Site?**
 
-We collect information from you if you choose to contact us with an enquiry or subscribe to our email alerts, newsletters or MYPACE services. The information we collect includes your contact details (such as name, company and email address) together with information that you provide to us including which topics are of interest to you and such other information as we require to respond to your enquiry. You warrant that any information you supply to us is accurate and up to date. You should inform us if any such information requires updating. If you submit a third party's details to us so that they receive our email alerts, newsletters or MYPACE services, you must first have obtained their permission to do so. 
+We collect information from you if you choose to contact us with an enquiry or subscribe to our email alerts. The information we collect includes your contact details (such as name, company and email address) together with information that you provide to us including which topics are of interest to you and such other information as we require to respond to your enquiry. You warrant that any information you supply to us is accurate and up to date. You should inform us if any such information requires updating. If you submit a third party's details to us so that they receive our email alerts, you must first have obtained their permission to do so. 
 
 **How do we use your personal information?**
 
@@ -34,7 +34,7 @@ Our cookies are restricted for use only on the Site and may be used to assist us
 
 **What about third party websites that you can access via the Site?**
 
-The Site contains links to our primary website, [http://www.pace.com](http://www.pace.com/), which contains links to other Pace websites*. All Pace websites* are covered by this Privacy Policy. However, our websites also contain links to websites that are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of those websites may collect personal information from you, which will be used in accordance with their respective Privacy Policies, which you should read. We are not liable for the practices of such third party website operators in respect of your personal information.
+The Site contains links to our primary website, [http://www.pace.com](https://web.archive.org/web/20100621115014id_/http%3A//www.pace.com/), which contains links to other Pace websites*. All Pace websites* are covered by this Privacy Policy. However, our websites also contain links to websites that are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of those websites may collect personal information from you, which will be used in accordance with their respective Privacy Policies, which you should read. We are not liable for the practices of such third party website operators in respect of your personal information.
 
  **Security of your data**
 
@@ -52,10 +52,9 @@ We may amend this Privacy Policy from time to time. If we make any substantial c
 
  ** _* Pace websites include:_**
 
-  * [Pace Corporate ](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/corporate/ "Pace Corporate  \(this link opens in a new window\)")(Business-to-Business (B2B) web site) 
-  * [Pace Americas ](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/americas "Pace Americas  \(this link opens in a new window\)")(B2B web site for the American market) 
-  * [Pace EMEA](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/emea/ "Pace EMEA \(this link opens in a new window\)") (B2B web site for Europe, the Middle East and Africa) 
-  * [Pace APAC](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/apac/ "Pace APAC \(this link opens in a new window\)") (B2B web site for the Asia Pacific region) 
-  * [Pace Deutschland ](https://web.archive.org/web/20091221085125id_/http%3A//www.pace.com/deutschland "Pace Deutschland  \(this link opens in a new window\)")(German language B2B web site) 
+  * [Pace Corporate ](https://web.archive.org/web/20100621115014id_/http%3A//www.pace.com/corporate/ "Pace Corporate  \(this link opens in a new window\)")(Business-to-Business (B2B) web site) 
+  * [Pace Americas ](https://web.archive.org/web/20100621115014id_/http%3A//www.pace.com/americas "Pace Americas  \(this link opens in a new window\)")(B2B web site for the American market) 
+  * [Pace EMEA](https://web.archive.org/web/20100621115014id_/http%3A//www.pace.com/emea/ "Pace EMEA \(this link opens in a new window\)") (B2B web site for Europe, the Middle East and Africa) 
+  * [Pace APAC](https://web.archive.org/web/20100621115014id_/http%3A//www.pace.com/apac/ "Pace APAC \(this link opens in a new window\)") (B2B web site for the Asia Pacific region) 
 
 
