@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theshoppingchannel.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201072623id_/http%3A//www.theshoppingchannel.com/category/customer%2Bservice/shopping%2Bwith%2Bus%2Bis%2B100-%2Bsecure/security%2B%2526%2Bprivacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshoppingchannel.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621120956id_/http%3A//www.theshoppingchannel.com/category/customer%2Bservice/customer%2Bservice/about%2Bus.do%3Fcontent%3Dprivacy%26cm_sp%3DFOOTER-_-BOTTOM-_-Privacy) for the most accurate reproduction.*
 
-# Security & Privacy Policy - Shopping With Us is 100% Secure - Customer Service - The Shopping Channel
+# About Us - Customer Service - - The Shopping Channel
 
-The Shopping Channel is a proud member of the Rogers Group of Companies. The Rogers Group of Companies have one single policy regarding the privacy of your information. Please see our Privacy Policy below. If you have any questions regarding our Rogers Privacy Policy as it relates to The Shopping Channel, please contact Graham Kingma at 905-362-7897.
+The Shopping Channel is a proud member of the Rogers Group of Companies. The Rogers Group of Companies have one single policy regarding the privacy of your information. 
 
 1\. This policy applies to Rogers Communications, Rogers Cable, Rogers Wireless and Rogers Media which are referred to here collectively as Rogers. At Rogers, the security and integrity of our customers' personal information is important to us. We take every reasonable measure necessary to protect the privacy of our customers while providing the high level communication services they expect. 
 
