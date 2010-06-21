@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramada.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219015616id_/http%3A//www.ramada.com/Ramada/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramada.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621042103id_/http%3A//www.ramada.com/Ramada/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Ramada: Privacy Policy
 
