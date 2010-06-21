@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unionpluscard.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228023146id_/http%3A//www.unionpluscard.com/ecare/privacy_nli) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionpluscard.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621034626id_/http%3A//www.unionpluscard.com/ecare/privacy_nli) for the most accurate reproduction.*
 
 # HSBC Privacy and Security Policy
 
-Privacy | Privacy Statement | Your Choices to Limit Sharing | Your Choices to Limit Marketing | Security Information | Website Terms and Conditions | Notice of Error Resolution Procedures
+Privacy | Privacy Statement | Your Choices to Limit Sharing | Your Choice to Limit Marketing | Security Information | Website Terms and Conditions
 
 HSBC Bank Nevada, N.A., ("HSBC Bank Nevada") is the proud issuer of the Union Plus® Credit Card. We understand the importance of handling customer information in a professional and confidential manner. We know that privacy is an important element of our customers' confidence in us and we understand that our customers expect us to collect and retain personal financial information responsibly. 
 
@@ -30,10 +30,10 @@ Responsible Information Sharing
 Control Over Information Sharing and Marketing
 
   * We give you a choice. If you do not want us to share your information or limit certain marketing, follow our opt-out procedures and we will be happy to comply with your opt-out request, consistent with the procedures in our Privacy Statement. 
-  * Click here to view our **Privacy Statement**.
-  * Click here to view **Security Information**.
-  * Click here for information on our use of **"cookie" technology**.
-  * Click here for **Website Terms and Conditions**.
+  * Click here to view our Privacy Statement.
+  * Click here to view Security Information.
+  * Click here for information on our use of "cookie" technology.
+  * Click here for Website Terms and Conditions.
 
 
 
@@ -44,60 +44,58 @@ Introduction - Our Commitment to You | How We Handle Information We Collect | Ho
 
 Introduction - Our Commitment to You
 
-HSBC Bank Nevada, N.A. ("HSBC", "we", "us", or "our") is the proud issuer of The Union Plus Credit Card. HSBC is proud to be part of a financial services organization that has been providing superior products and services for more than 150 years.We greatly appreciate the trust that you and millions of customers have placed in us, and we protect that trust by continuing to respect the privacy of all our applicants and customers even if our formal customer relationship ends.
+HSBC Bank Nevada, N.A. ("HSBC", "we", "us", or "our") is the proud issuer of The Union Plus Credit Card. HSBC is proud to be part of a financial services organization that has been providing superior products and services for more than 150 years. We greatly appreciate the trust that you and millions of customers have placed in us, and we protect that trust by continuing to respect the privacy of all our applicants and customers even if our formal customer relationship ends. 
 
 This Privacy Statement illustrates our commitment to your privacy and explains our privacy practices to help you understand how we protect and use your information. 
 
-We may change our privacy practices at any time as permitted by law, and if we do so, we will provide you with notice as required. If you have selected a creditrelated insurance product, the Privacy Statement applicable to that credit insurance product is set forth at the end of this Privacy Statement.
+We may change our privacy practices at any time as permitted by law, and if we do so, we will provide you with notice as required. If you have selected a credit-related insurance product, the Privacy Statement applicable to that credit insurance product is set forth at the end of this Privacy Statement. 
 
 Top of Privacy Statement  
 Back to Top
 
 How We Handle Information We Collect
 
-It is important for you to know that in order to ensure that our customers get the very best service and the highest quality products, and to develop new products, HSBC collects demographic information (like your name, address, and social security number) and credit information (like information from your application, your credit report or related to your accounts with us). In some instances, we obtain information about you directly from Union Privilege†. In addition, if you visit our website, we may collect certain information about your internet usage.
+It is important for you to know that in order to ensure that our customers get the very best service and the highest quality products, and to develop new products, HSBC collects demographic information (like your name, address, and social security number) and credit information (like information from your application, your credit report or related to your accounts with us). In some instances, we obtain information about you directly from Union Privilege†. In addition, if you visit our website, we may collect certain information about your internet usage. 
 
-Because some of the information we gather is not publicly available, we take great care to ensure that this information is kept safe from unauthorized access, and we will not share the information in violation of any regulation or law. HSBC diligently maintains physical, electronic and procedural safeguards that comply with applicable laws to guard your private personal information and to assist us in preventing unauthorized disclosure or access to that information.
+Because some of the information we gather is not publicly available, we take great care to ensure that this information is kept safe from unauthorized access, and we will not share the information in violation of any regulation or law. HSBC diligently maintains physical, electronic and procedural safeguards that comply with applicable laws to guard your private personal information and to assist us in preventing unauthorized disclosure or access to that information. 
 
 Top of Privacy Statement  
 Back to Top
 
 How We Protect Your Privacy Online
 
-Our website offers you the opportunity to view your current account information and make payments online, in addition to providing general information about our company and products. You may also view our Privacy Statement when you visit our website.
+Our website offers you the opportunity to view your current account information and make payments online, in addition to providing general information about our company and products. You may also view our Privacy Statement when you visit our website. 
 
-To help us learn which products, services and sections of our websites interest you, and to improve your experience, we use "cookies." Cookies are small files that our web server places on your hard drive to track activity on the website during a browsing session, and across multiple sessions.We also use cookies to "remember" which online service you last logged into, so that we can pre-select that service on your next visit. The cookies we set contain no personal information. Cookies can only track activity on our website, and cannot be read by any non-HSBC websites.
+To help us learn which products, services and sections of our websites interest you, and to improve your experience, we use "cookies." Cookies are small files that our web server places on your hard drive to track activity on the website during a browsing session, and across multiple sessions. We also use cookies to "remember" which online service you last logged into, so that we can preselect that service on your next visit. The cookies we set contain no personal information. Cookies can only track activity on our website, and cannot be read by any non-HSBC websites. 
 
-We may also use online profiling to help us better understand your individual financial needs. This information does not identify you personally unless you voluntarily give us personal information while online.
+We may also use online profiling to help us better understand your individual financial needs. This information does not identify you personally unless you voluntarily give us personal information while online. 
 
-We also work with other third parties to learn more about activity on our website. These vendors use "web beacons," "tracking pixels," "third party cookies" and other similar technologies to gather user demographics and usage patterns, which help us improve the effectiveness of our marketing and of our website design. These vendors do not share any personally identifiable information about you
+We also work with other third parties to learn more about activity on our website. These vendors use "web beacons," "tracking pixels," "third party cookies" and other similar technologies to gather user demographics and usage patterns, which help us improve the effectiveness of our marketing and of our website design. These vendors do not share any personally identifiable information about you. 
 
 Top of Privacy Statement  
 Back to Top
 
 How We Share Information within the HSBC Family of Companies
 
-From time to time, for general business purposes or when we think it may benefit you, we share certain information with other companies within the HSBC family of companies (our "'Affiliates*"), except as prohibited by applicable law. We may also provide information to Affiliates that perform operational services related to your account(s). These Affiliates all provide financial services, such as banking, consumer finance, insurance, mortgage, and brokerage services. Some examples include companies doing business under the names HSBC, HFC®, Household, or Beneficial®. We may also share certain information with non-financial become affiliated with us in the future (such as travel, auto, or shopping clubs), except as prohibited by applicable law. The information we share might come from your application, for instance your name, address, telephone number, social security number, and e-mail address. Also, the information we share could include your transactions with us or our Affiliates (such as your account balance, payment history, and parties to the transaction), your internet usage, or your credit card usage. Except for Vermont residents, the information we share could also include your assets, income, or credit report information. For Vermont residents, applicable law requires us to obtain your permission in order to share information about you with our Affiliates. Please note that we have chosen not to share your information in this way while you are a resident of Vermont.
+From time to time, for general business purposes or when we think it may benefit you, we share certain information with other companies within the HSBC family of companies (our "Affiliates*"), except as prohibited by applicable law. We may also provide information to Affiliates that perform operational services related to your account(s). These Affiliates all provide financial services, such as banking, consumer finance, insurance, mortgage, and brokerage services. Some examples include companies doing business under the names HSBC, HFC®, Household, or Beneficial®. We may also share certain information with non-financial service providers that become affiliated with us in the future (such as travel, auto, or shopping clubs), except as prohibited by applicable law. The information we share might come from your application, for instance your name, address, telephone number, social security number, and e-mail address. Also, the information we share could include your transactions with us or our Affiliates (such as your account balance, payment history, and parties to the transaction), your internet usage, or your credit card usage. 
 
 Top of Privacy Statement  
 Back to Top
 
 How We Share Information with Union Privilege, Your Union and the AFL-CIO
 
-We have an established relationship with Union Privilege and the AFL-CIO. Pursuant to this relationship, we issue credit card offers to members of AFL-CIO affiliated unions. Except for California and Vermont residents, we share certain information about you with Union Privilege, your union and the AFL-CIO so that we and they can provide you with the services and benefits of the Union Plus Credit Card Program and continue to bring you new opportunities. We obtain some information about you directly from Union Privilege. Other information we collect comes from the sources described above. The information we share with Union Privilege, your union or the AFL-CIO includes information we receive from you on your application or other forms such as your name, address, telephone number, income, real property purchased, leased or rented, marital status, dependents and e-mail address, as well as information about your transactions with us, such as the status and usage of your Account, purchase and payment history, including merchants (and/or categories thereof) from whom you have purchased, and marketing preferences. Sharing information with Union Privilege allows them to provide you with information about valuable union benefits and services that are available to you and your family that you might not otherwise hear about. For California and Vermont residents, state law restricts how we share information about you. Accordingly, we will not share information about you in this way without your permission. If we request your permission, we will notify you of the categories of information we would like to share with Union Privilege, your union and the AFL-CIO and the manner in which you can provide us with permission if you choose to do so.
+We have an established relationship with Union Privilege and the AFL-CIO. Pursuant to this relationship, we issue credit card offers to members of AFL-CIO affiliated unions. Except for California and Vermont residents, we share certain information about you with Union Privilege, your union and the AFL-CIO so that we and they can provide you with the services and benefits of the Union Plus Credit Card Program and continue to bring you new opportunities. We obtain some information about you directly from Union Privilege. Other information we collect comes from the sources described above. The information we share with Union Privilege, your union or the AFL-CIO includes information we receive from you on your application or other forms such as your name, address, telephone number, income, real property purchased, leased or rented, marital status, dependents and e-mail address, as well as information about your transactions with us, such as the status and usage of your Account, purchase and payment history, including merchants (and/or categories thereof) from whom you have purchased, and marketing preferences. Sharing information with Union Privilege allows them to provide you with information about valuable union benefits and services that are available to you and your family that you might not otherwise hear about. For California and Vermont residents, state law restricts how we share information about you. Accordingly, we will not share information about you in this way without your permission. If we request your permission, we will notify you of the categories of information we would like to share with Union Privilege, your union and the AFL-CIO and the manner in which you can provide us with permission if you choose to do so. 
 
 Top of Privacy Statement  
 Back to Top
 
 How We Share Information with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO)
 
-Except for California or Vermont residents, we may share information with companies outside of the HSBC family of companies (i.e. Non-Affiliates) that are able to extend special offers that we feel might be of value to you. These companies may be financial services providers (such as mortgage bankers, insurance agents or a re-insurer) or they may be non-financial companies (such as retailers or marketing companies). These offers are typically for products and services that you might not otherwise hear about. The information that we may provide Non-Affiliates comes from the sources described above and might include your name, address, phone number, and information about your account with us. For California and Vermont residents, applicable law requires us to obtain your permission in order to share information about you with Non-Affiliates, and so we have chosen not to share your information in this way while you are a resident of California or Vermont.
+Except for California or Vermont residents, we may share information with companies outside of the HSBC family of companies (i.e. Non-Affiliates) that are able to extend special offers that we feel might be of value to you. These companies may be financial services providers (such as mortgage bankers, insurance agents or a re-insurer) or they may be non-financial companies (such as retailers or marketing companies). These offers are typically for products and services that you might not otherwise hear about. The information that we may provide Non-Affiliates comes from the sources described above and might include your name, address, phone number, and information about your account with us. For California and Vermont residents, applicable law requires us to obtain your permission in order to share information about you with Non-Affiliates, and so we have chosen not to share your information in this way while you are a resident of California or Vermont. 
 
-We may also provide information to Non-Affiliates that perform operational services for your account such as, collection, fraud control and marketing. The sharing of information with these types of Non-Affiliates is permitted by law. This might include a financial company (such as an insurance service provider) or a non-financial company (such as a data processor or Internet service provider) with whom we have a service agreement. The information we may share also comes from the sources described above and might include your name, address, phone number, and account experience with us.
+We may also provide information to Non-Affiliates that perform operational services for your account such as, collection, fraud control and marketing. The sharing of information with these types of Non-Affiliates is permitted by law. This might include a financial company (such as an insurance service provider) or a non-financial company (such as a data processor or Internet service provider) with whom we have a service agreement. The information we may share also comes from the sources described above and might include your name, address, phone number, and account experience with us. 
 
-Finally, we provide information about you to Non-Affiliates as permitted by law.
-
-These may include credit reporting agencies and companies which provide services related to your account.
+Finally, we provide information about you to Non-Affiliates as permitted by law. These may include credit reporting agencies and companies which provide services related to your account. 
 
 Top of Privacy Statement  
 Back to Top
@@ -107,52 +105,52 @@ Privacy | Privacy Statement |  Your Choices to Limit Sharing |  Your Choic
   
 
 
-How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies (Except for residents of Vermont) | How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont) | How to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont) | Your Choices to Limit Marketing | Spanish
+How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies | How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont) | How to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont) | Your Choice to Limit Marketing | Spanish
 
-How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies (Except for residents of Vermont)
+How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies
 
-If you do not want us to share your credit report information with our Affiliates (unless we are permitted or required by law to do so), please let us know by completing the opt-out reply form. If you have previously informed us of your preference, you do not need to do so again. This request will not apply to information about your transactions or experience with us (such as account information, account usage, or payment history). This request will only apply to the Union Plus Credit Card account that you designate in your request.
+If you do not want us to share your credit report information with our Affiliates (unless we are permitted or required by law to do so), please let us know by simply calling us toll-free at 1-877-876-8819. If you have previously informed us of your preference, you do not need to do so again. This request will not apply to information about your transactions or experience with us (such as account information, account usage, or payment history). This request will only apply to the Union Plus Credit Card account that you designate in your request. 
 
 Top of Your Choices to Limit Sharing  
 Back to Top
 
 How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont)
 
-If you do not want us to share your non-public personal information with Union Privilege, Your Union and the AFL-CIO (unless we are permitted or required by law to do so), please let us know by completing the opt-out reply form. If you have previously informed us of your preference about this account, you do not need to do so again. This request will only apply to the Union Plus Credit Card account that you designate in your request.
+If you do not want us to share your non-public personal information with Union Privilege, Your Union and the AFL-CIO (unless we are permitted or required by law to do so), please let us know by simply calling us toll-free at 1-877-876-8819. If you have previously informed us of your preference about this account, you do not need to do so again. This request will only apply to the Union Plus Credit Card account that you designate in your request. 
 
 Top of Your Choices to Limit Sharing  
 Back to Top
 
 How to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont)
 
-If you do not want us to share your non-public personal information with Non-Affiliate companies (unless we are permitted or required by law to do so), please let us know by completing the opt-out reply form. If you have previously informed us of your preference about this account, you do not need to do so again. This request will only apply to the Union Plus Credit Card account that you designate in your request.
+If you do not want us to share your non-public personal information with Non- Affiliate companies (unless we are permitted or required by law to do so), please let us know by simply calling us toll-free at 1-877-876-8819. If you have previously informed us of your preference about this account, you do not need to do so again. This request will only apply to the Union Plus Credit Card account that you designate in your request. 
 
 **How to Limit Affiliate Marketing Offers**
 
-  * Federal law gives you the right to limit some but not all marketing from our Affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our Affiliates.
-  * You may limit our Affiliates in the HSBC family of companies, such as our insurance, and consumer finance affiliates, from marketing their products or services to you based on your personal information that we collect and share with them. This information may include your income, your account history with us, and your credit history with us.
-  * Your choice to limit marketing offers from our Affiliates will apply for at least 5 years from when you tell us your choice. If you have previously informed us of your preference, you do not need to do so again within the 5 year period. Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from our Affiliates for at least another 5 years.
+  * Federal law gives you the right to limit some but not all marketing from our Affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our Affiliates. 
+  * You may limit our Affiliates in the HSBC family of companies, such as our insurance, and consumer finance affiliates, from marketing their products or services to you based on your personal information that we collect and share with them. This information may include your income, your account history with us, and your credit history with us. 
+  * Your choice to limit marketing offers from our Affiliates will apply for at least 5 years from when you tell us your choice. If you have previously informed us of your preference, you do not need to do so again within the 5 year period. Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from our Affiliates for at least another 5 years. 
 
 
 
-To limit marketing offers under this section, you must call the toll-free telephone number 1-877-876-8819. The attached reply form may not be used for this particular opt out choice. 
+To limit marketing offers under this section, you must call the toll-free telephone number 1-877-876-8819. 
 
 **Joint Accounts**  
 For all opt-out types made available under this Privacy Statement, an opt-out request by any party on a joint account will apply to all parties on the joint account. 
 
 **Notice for Nevada Residents**  
-Pursuant to Nevada law, we are providing this notice, which applies to accounts with Nevada mailing addresses, to inform you that you may elect to be placed on our internal "do not call" list. To be placed on the list, you may call us toll free at 1-800-622-2580, or write P.O. Box 80027, Salinas, California, 93912. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Avenue, Suite 3900, Las Vegas, Nevada 89101.
+Pursuant to Nevada law, we are providing this notice, which applies to accounts with Nevada mailing addresses, to inform you that you may elect to be placed on our internal "do not call" list. To be placed on the list, you may call us toll free at 1-800-622-2580, or write P.O. Box 80027, Salinas, California, 93912. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Avenue, Suite 3900, Las Vegas, Nevada 89101. 
 
- _Spanish_
+**Notice for Vermont Residents**  
+HSBC does not share your information with Affiliates, other than information relating to your account transactions and our experiences with you, except as permitted or required by applicable law. 
 
-Atención clientes hispanohablantes: Esta Declaración Sobre la Privacidad proporciona información sobre cómo manejamos información personal no publica acerca de nuestros clientes, las circunstancias bajo las cuales podemos compartir tal información con otras personas, y cómo usted puede solicitar que no compartamos esa información con terceros que no sean afiliados nuestros. Si quisiera que le proporcionemos una traducción al español de la Declaración Sobre la Privacidad en su totalidad, por favor llamár al numero indicado al reverso de su tarjeta de credito.
+Spanish
 
-† Union Privilege was created by the AFL-CIO in 1986 to provide union members and their families with high-quality consumer benefits and services. Union Privilege works with HSBC to provide the benefits and services of the Union Plus Credit Card Program. Union Privilege also has full-time union member advocates who work to helping union members resolve credit card concerns.
+Atención clientes hispanohablantes: Esta Declaración Sobre la Privacidad proporciona información sobre cómo manejamos información personal no publica acerca de nuestros clientes, las circunstancias bajo las cuales podemos compartir tal información con otras personas, y cómo usted puede solicitar que no compartamos esa información con terceros que no sean afiliados nuestros. Si quisiera que le proporcionemos una traducción al español de la Declaración Sobre la Privacidad en su totalidad, por favor llamár al numero indicado al reverso de su tarjeta de credito. 
 
-* "Affiliates" are companies that are related to us by common ownership or corporate control. Our Affiliates includes companies such as HSBC Bank USA, N.A., HFC®, Beneficial®, Household Insurance Group Holding Company, and HSBC companies such as HSBC Mortgage Corporation (USA), HSBC Credit Centers Inc., HSBC Auto Finance Inc., and Solstice Capital Group.
+† Union Privilege was created by the AFL-CIO in 1986 to provide union members and their families with high-quality consumer benefits and services. Union Privilege works with HSBC to provide the benefits and services of the Union Plus Credit Card Program. Union Privilege also has full-time union member advocates who work to helping union members resolve credit card concerns. 
 
-  
-
+* "Affiliates" are companies that are related to us by common ownership or corporate control. Our Affiliates include companies such as HSBC Bank USA, N.A., HFC®, Beneficial®, Household Insurance Group Holding Company, and HSBC companies such as HSBC Mortgage Corporation (USA), HSBC Credit Centers Inc., HSBC Auto Finance Inc., and Solstice Capital Group.
 
 Top of Your Choices to Limit Sharing | Top of Your Choices to Limit Marketing   
 Back to Top
@@ -160,9 +158,13 @@ Back to Top
 **HOUSEHOLD INSURANCE GROUP HOLDING COMPANY**  
 Privacy Statement for Customers with Insurance**
 
-This paragraph applies only to customers with insurance products provided by Household Insurance Group Holding Company ("HIG"). HIG respects and protects your privacy. To administer the insurance requested by you or provided in connection with your account, HIG collects demographic information (like your name and address) and information related to insurance coverage (like information related to your account with HSBC or information related to your health). This information comes either directly from you, for instance from your application, or it may come from HSBC, such as information about your account, or it may come from a credit report or medical information bureau report. HIG takes great care to protect the privacy of this information. For example, the only employees or companies that can access such information are those who need it to provide services in connection with your insurance. Moreover, HIG maintains physical, electronic and procedural safeguards to protect against unauthorized use or disclosure of that information. HIG does not disclose information about you to their respective affiliates or to third parties, except as permitted by law.
+This paragraph applies only to customers with insurance products provided by Household Insurance Group Holding Company ("HIG"). HIG respects and protects your privacy. To administer the insurance requested by you or provided in connection with your account, HIG collects demographic information (like your name and address) and information related to insurance coverage (like information related to your account with HSBC or information related to your health). This information comes either directly from you, for instance from your application, or it may come from HSBC, such as information about your account, or it may come from a credit report or medical information bureau report. HIG takes great care to protect the privacy of this information. For example, the only employees or companies that can access such information are those who need it to provide services in connection with your insurance. Moreover, HIG maintains physical, electronic and procedural safeguards to protect against unauthorized use or disclosure of that information. HIG does not disclose information about you to their respective affiliates or to third parties, except as permitted by law. 
 
-** Household Insurance Group Holding Company (also under the trade name of HSBC Insurance Services or HSBC Insurance) includes Household Insurance Group, Inc., Household Life Insurance Company, HSBC Insurance Company of Delaware (formerly known as Service General Insurance Company), First Central National Life Insurance Company of New York, Household Life Insurance Company of Delaware, BFC Insurance Agency of Nevada, HSBC Insurance Agency (USA) Inc., and such other companies Household Insurance Group Holding Company may subsequently acquire.
+You have a right to see personal information collected about you and the right to correct any information, which may be wrong, by writing to us at the following address: Insurance Customer Service Operations, 90 Christiana Rd., New Castle, DE 19720. 
+
+** Household Insurance Group Holding Company (also under the trade name of HSBC Insurance Services or HSBC Insurance) includes Household Insurance Group, Inc., Household Life Insurance Company, HSBC Insurance Company of Delaware (formerly known as Service General Insurance Company), First Central National Life Insurance Company of New York, Household Life Insurance Company of Delaware, BFC Insurance Agency of Nevada, HSBC Insurance Agency (USA) Inc., and such other companies Household Insurance Group Holding Company may subsequently acquire. 
+
+IN00141
 
 Top of Your Choices to Limit Sharing | Top of Your Choices to Limit Marketing   
 Back to Top
@@ -172,7 +174,7 @@ Privacy | Privacy Statement |  Your Choices to Limit Sharing | Your Choice
   
 
 
-We understand that security is a prime concern for our customers, and our website strives to offer a high level of security: 
+We understand that security is a prime concern for our customers, and our website strives to offer a high level of security:
 
   * All Internet access must be completed using a browser that supports SSL encryption. All communications between you and our website are encrypted by a 128 bit secure link to protect the confidentiality of your data. State of the art monitoring systems and firewalls are used to prevent unauthorized access to our systems.
   * Users are required to select their own Login ID and Password when they sign up, and can change it at any time. 
@@ -185,7 +187,10 @@ We understand that security is a prime concern for our customers, and our websit
 Top of Security Information  
 Back to Top
 
-Privacy | Privacy Statement | Your Choices to Limit Sharing | Your Choices to Limit Marketing | Security Information | Website Terms and Conditions
+  
+
+
+Website Terms And Conditions
 
 Copyright and Other Intellectual Property | Limited Liability | NO WARRANTIES | Links | Children | Confidentiality of Information | Information and Cookies | Choice of Law | Website Content and Material | Waiver and Severability | Access to Secured Areas
 
