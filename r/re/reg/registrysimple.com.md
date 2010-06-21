@@ -1,63 +1,27 @@
-> *The following text is extracted and transformed from the registrysimple.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201182545id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registrysimple.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621234805id_/http%3A//www.registrysimple.com/privacy.php) for the most accurate reproduction.*
 
-# Uniblue - Software Made Easy
+# Privacy Policy
 
-  |    
+**Website Privacy Policy**
 
+By using this Website, you agree to the collection and use of your information by us in accordance with this Privacy Policy. 
 
-### Collection and use of information
+**Changes to the Privacy Policy**
 
-In order to provide our full range of services, we may collect the following types of information: 
+We reserve the right to change the terms of this Privacy Policy at any time without notice. Any changes will be posted on this page and visitors are encouraged to check this page regularly. Your continued use of the Website following any changes to this Privacy Policy will constitute your acceptance of such changes. 
 
-Information you provide - When you sign up to the Uniblue Community we ask you for personal information (name, surname, and email address) which we maintain in encrypted form on secure servers. 
+**Information Collected Automatically**
 
-**Use of cookies** \- When you visit Uniblue.com (currently LIUtilities.com), we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user account details and preferences, tracking user trends and conducting optional research surveys. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, Uniblue.com (currently LIUtilities.com) features and services may not function properly if your cookies are disabled. 
+In some cases, we may automatically (i.e., not via registration) collect technical information when you connect to our Website that is not personally identifiable information. Examples of this type of information include the type of internet browser you are using, the type of computer operating system you are using and the domain name of the website from which you linked to our site. Also, when you view our Website, we may store some information on your computer. This information will be in the form of a �cookie� or similar file and can help us in many ways. For example, cookies allow us to tailor the Website to better match your interests and preferences. With most internet browsers, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. 
 
-**Log information** \- When you use Uniblue.com (LIUtilities.com), our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+**Privacy Information for Persons 13 Years and Older**
 
-Uniblue.com processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We only process personal information to provide our own services. 
+We will not collect any personally identifiable information about you (e.g., your name, address, telephone number or email address) through our Website unless you have provided it to us voluntarily. We will ask you when we need information that personally identifies you. For example, if you choose to sign up for a newsletter, we will request your name and email address. 
 
-  
+When you do provide us with personally identifiable information, we may use that information in the following ways, unless stated otherwise: 
 
+We do not now, and do not intend to, sell, rent or market personally identifiable information about you to third parties. We share information only with subsidiaries of this site and may use it to send you promotions and product information. 
 
-### Choices for personal information
+**Children Under 13**
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
-
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. 
-
-  
-
-
-### Information sharing 
-
-Uniblue.com only shares personal information with other commercial projects from Uniblue Systems Ltd. upon obtaining the user’s consent. We require opt-in consent for the sharing of any personal information. 
-
-  
-
-
-### Information security 
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
-
-We restrict access to personal information to Uniblue Systems Ltd. employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
-
-  
-
-
-### Data integrity 
-
-Uniblue Systems Ltd. processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
-
-  
-
-
-### Changes to this policy
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
-
-v. 18/08/09
-
-  
-  
----|---
+Please also note that we do not offer activities that require the ongoing collection and use of personally identifiable information provided by children. 
