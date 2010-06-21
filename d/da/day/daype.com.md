@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the daype.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220152441id_/http%3A//www.daype.com/classifieds/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daype.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622005232id_/http%3A//www.daype.com/classifieds/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Daype USA Free Classifieds
+# Privacy Policy | Daype Online Free Classifieds
 
-This Privacy Policy describes how Daype, Inc. (referred to as "Daype") collects, protects and uses your Personal Information. This Privacy Policy applies to Daype's web site located at www.daype.com (the "Site"). By using the Site, you consent to the terms and conditions of this Privacy Policy. If there is a conflict between Daype's Terms of Use governing your use of the Site and this Privacy Policy, the Terms of Use control.  This Privacy Policy may be updated from time to time.  Any such updated version of this Privacy Policy will be effective immediately upon posting to the Site. It is your responsibility to review this Privacy Policy each time you use the Site to ensure you understand the terms applicable to you as a result of such use.
+This Privacy Policy describes how Daype, Inc. (referred to as "Daype") collects, protects and uses your Personal Information. This Privacy Policy applies to Daype's web site located at www.daype.com (the "Site"). By using the Site, you consent to the terms and conditions of this Privacy Policy. If there is a conflict between Daype's Terms of Use governing your use of the Site and this Privacy Policy, the Terms of Use control.� This Privacy Policy may be updated from time to time.� Any such updated version of this Privacy Policy will be effective immediately upon posting to the Site. It is your responsibility to review this Privacy Policy each time you use the Site to ensure you understand the terms applicable to you as a result of such use.
 
 Personal Information
 
