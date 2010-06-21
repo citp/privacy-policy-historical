@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviewavs.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231104036id_/http%3A//www.moviewavs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviewavs.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621064333id_/http%3A//www.moviewavs.com/privacy.html) for the most accurate reproduction.*
 
 # The MovieWavs Page - Privacy Policy
 
