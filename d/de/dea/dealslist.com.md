@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealslist.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219225421id_/http%3A//www.dealslist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealslist.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621131126id_/http%3A//www.dealslist.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
