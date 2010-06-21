@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercam.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219212004id_/http%3A//www.mastercam.com/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercam.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621023046id_/http%3A//www.mastercam.com/Legal/Privacy) for the most accurate reproduction.*
 
 # Mastercam : Legal
 
@@ -12,26 +12,26 @@ Please note that most Mastercam® products are sophisticated computer-aided manu
 The **Contents** of this statement are organized as follows:
 
   
-**A.[Online Privacy/ Marketing Contacts and Privacy/ License Activation and/or License Registration and Privacy](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Privacy)**
+**A.[Online Privacy/ Marketing Contacts and Privacy/ License Activation and/or License Registration and Privacy](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Privacy)**
 
-  * [Information Collected about Online Visitors](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#online)
-  * [Entities Collecting Information](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Entities)
-  * [Information Collected via Marketing Activities](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Marketing)
-  * [Information Collected via License Activation and/or License Registration](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#License)
-  * [The Use of Personal Information Collected ](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Use)
-  * [Updating Personal Information and "Opting Out"](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Updating)
-  * [Changes to This Policy](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Changes)
+  * [Information Collected about Online Visitors](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#online)
+  * [Entities Collecting Information](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Entities)
+  * [Information Collected via Marketing Activities](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Marketing)
+  * [Information Collected via License Activation and/or License Registration](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#License)
+  * [The Use of Personal Information Collected ](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Use)
+  * [Updating Personal Information and "Opting Out"](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Updating)
+  * [Changes to This Policy](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Changes)
 
 
 
   
-**B.[Mastercam Discussion Forum](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Forum)**
+**B.[Mastercam Discussion Forum](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Forum)**
 
 **  
-C.[Third Party Sites](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Third)**
+C.[Third Party Sites](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Third)**
 
 **  
-D.[Technical Support, Special Cases, and Privacy](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Support)**
+D.[Technical Support, Special Cases, and Privacy](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/Default.aspx#Support)**
 
   * Information Collected in Connection with Technical Support and the Use of That Information 
   * Performance Feedback Email Tool
@@ -113,7 +113,7 @@ CNC may change this policy from time to time. Any changes will be posted to this
 
 **B. Mastercam Discussion Forum**
 
-CNC participates in various Community activities with its users, including Discussion Forums on [www.emastercam.com](https://web.archive.org/web/20091219212004id_/http://www.mastercam.com/Legal/Privacy/www.emastercam.com). CNC does not manage a discussion forum directly. Participation in these activities is voluntary and it is very likely that personal information will be exposed to other members of the Community if you participate. Some users prefer to participate using pseudonyms, but email addresses are required. CNC takes no responsibility for maintaining the privacy of any personal information you make available to members of any Community identified in or other similar websites.
+CNC participates in various Community activities with its users, including Discussion Forums on [www.emastercam.com](https://web.archive.org/web/20100621023046id_/http://www.mastercam.com/Legal/Privacy/www.emastercam.com). CNC does not manage a discussion forum directly. Participation in these activities is voluntary and it is very likely that personal information will be exposed to other members of the Community if you participate. Some users prefer to participate using pseudonyms, but email addresses are required. CNC takes no responsibility for maintaining the privacy of any personal information you make available to members of any Community identified in or other similar websites.
 
 **C. Third Party Sites**
 
