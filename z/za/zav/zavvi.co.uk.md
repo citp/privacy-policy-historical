@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zavvi.co.uk privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926074835id_/http%3A//www.zavvi.co.uk/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zavvi.co.uk privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621070952id_/http%3A//www.zavvi.com/privacy-policy.info) for the most accurate reproduction.*
 
-# zavvi.co.uk - Privacy Policy
+# zavvi.com - Privacy Policy
 
 **This is a Secure Website**
 
@@ -22,6 +22,8 @@ It is important for you to protect against unauthorized access to your password 
 
 In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the Act'). 'The Act' requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorized access by other people.
 
+“zavvi takes the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, zavvi make every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by zavvi and such transactions will be reported to the relevant authorities.” 
+
 ## Contact Us
 
-If you have any queries on any aspect of the above policy, please [contact us](https://www.zavvi.co.uk/zavvi/customerQuery.secure?skeletonAccount=true) .
+If you have any queries on any aspect of the above policy, please [contact us](https://www.zavvi.com/zavvi/customerQuery.secure?skeletonAccount=true) .
