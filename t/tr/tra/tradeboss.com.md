@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradeboss.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620203252id_/http%3A//www.tradeboss.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeboss.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235604id_/http%3A//www.tradeboss.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
 
-# TradeBoss.com - B2B Marketplace, Import Export, Business Portal, FREE Business Website
+# B2B Marketplace TradeBoss.com - Import Export, Business to Business Portal, FREE Business Website, Suppliers
 
 **TradeBoss.com - Privacy Policy**
 
@@ -18,7 +18,7 @@ Your TradeBoss.com and TradeHolding.com B2B Network Account Information and Memb
 
 **PUBLISHING INFORMATION**  
 Company Description, Trade Lead Publishing and Product Detail Publishing:  
-All of your Publishing Information will be publicly available on TradeBoss.com and TradeHolding.com B2B Network and therefore accessible by visitors and members.  
+All of your Publishing Information will be publicly available on TradeBoss.com and TradeHolding.com B2B Network and therefore accessible by visitors, certain robots and members. The publicly available information can be also cached by search engines and robots and -as we do have no control over these entities- we can not influence the way these details are presented on certain pages / sites / etc. If you ever request your pages to be removed from our sites and servers we will do this but it is your responsibilitry to remove the publicly available information from any third party.  
 Any Publishing Information that you use on TradeBoss.com and TradeHolding.com B2B Network forms becomes public information and you respond for them (including but not limited to the rights of confidentiality and copyrights).  
 If you submit any information to TradeBoss.com and TradeHolding.com B2B Network to be published on our B2B Network through the publishing forms you are deemed to have given consent to the publication of such information.
 
