@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the langara.ca privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220132514id_/http%3A//www.langara.bc.ca/ancillary/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the langara.ca privacy policy that was archived on 2010-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622005644id_/http%3A//langara.bc.ca/ancillary/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,6 +19,7 @@
 </style>
 <script type="text/javascript" language="JavaScript" src="../scripts_styles/scripts/langara_global.js"></script><script type="text/javascript">var GB_ROOT_DIR = "http://www.langara.bc.ca/greybox/";</script><script src="http://www.langara.bc.ca/scripts_styles/scripts/mootools.v1.1.js" type="text/javascript"></script><script src="http://www.langara.bc.ca/scripts_styles/xtras/slimbox/slimbox.js" type="text/javascript"></script><script src="http://www.langara.bc.ca/greybox/AJS.js" type="text/javascript"></script><script src="http://www.langara.bc.ca/greybox/AJS_fx.js" type="text/javascript"></script><script src="http://www.langara.bc.ca/greybox/gb_scripts.js" type="text/javascript"></script><script src="http://www.langara.bc.ca/scripts_styles/xtras/niftycorners/niftycube.js" type="text/javascript"></script><script type="text/javascript">NiftyLoad=function() {Nifty("div#apply", "small bottom");}</script><style type="text/css">@import url(http://www.langara.bc.ca/greybox/gb_styles.css);@import url(http://www.langara.bc.ca/scripts_styles/xtras/niftycorners/niftyCorners.css);@import url(http://www.langara.bc.ca/scripts_styles/xtras/slimbox/slimbox.css);</style>
 <script type="text/javascript" language="JavaScript" src="../scripts_styles/scripts/langara_postindex.js"></script>
+<script type="text/javascript" language="JavaScript" src="../scripts_styles/scripts/form_validation.js"></script>
 <!--[if lt IE 7.]><script defer type="text/javascript" src="http://www.langara.bc.ca/scripts_styles/scripts/pngfix.js"></script><![endif]-->
 <!-- InstanceBeginEditable name="misc" --><!-- InstanceEndEditable -->
 </head>
@@ -59,10 +60,22 @@
 <!-- MAIN BODY REGION -->
 <div id="main"><!-- InstanceBeginEditable name="main" -->
   <div id="maintitle">
-    <h1>Privacy Statement</h1>
-    <!-- #BeginLibraryItem "/Library/interactives-no-course.lbi" -->
+    <h1>Privacy Statement</h1><!-- #BeginLibraryItem "/Library/interactives-no-course.lbi" -->
+<script type="text/javascript">
+var addthis_config = {
+	username: "langaracollege",
+	services_compact: 'email, reddit, twitter, digg, facebook, linkedin, delicious, stumbleupon, tumbir',
+    services_exclude: 'print'
+}
+var addthis_share = { 
+	templates: {
+		twitter: 'Check out {{title}} {{url}} (from @langaracollege)',
+	}
+}
+</script>
 <div id="interactives">
-  <p><a href="iframe-askaquestion.html" title="Ask a Question" rel="gb_page_center[610, 390]">Ask a Question</a> &nbsp; | &nbsp; <a href="iframe-tellafriend.html" title="Tell a Friend" rel="gb_page_center[630, 300]">Tell a Friend</a></p>
+  <p><a href="iframe-askaquestion.html" title="Ask a Question" rel="gb_page_center[610, 390]">Ask a Question</a> &nbsp; | &nbsp; <a href="http://www.addthis.com/bookmark.php" class="addthis_button" onclick="return false">Share this Page</a></p>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
 </div>
 <!-- #EndLibraryItem --></div>
   <div id="sidenav_container">
@@ -88,9 +101,74 @@
 						<p><strong>Sharing information… it's your choice!</strong></p>
   </div>
   <!-- InstanceEndEditable --> </div>
-<div id="footer">
-  <div id="footerleft">
-    <p><a href="../sitemap/index.html">Site Map</a> | <a href="iframe-problempage.html" title="Problem with this page?" rel="gb_page_center[620, 315]">Problem with this page?</a> | <a href="privacy.html">Privacy Statement</a> | <a href="../campus-guide/contact.html" target="_self">Contact Us</a></p>
+<div id="footer"><!-- #BeginLibraryItem "/Library/problem_with_page.lbi" --><!-- Problem with this page form Thank-you start -->
+  <div id="directions" style="display:none">
+    <p><strong class="closure">Thank you.</strong> Your feedback has been submitted.</p>
+  </div>
+  <!-- Problem with this page form Thank-you end -->
+  <!-- Problem with this page form hidden start -->
+  <div id="problem" style="display:none"> <a href="#problem" title="Problem with this page?" onclick="problemshow()" style="float:right;">Close</a>
+    <h3>Problem with this page?</h3>
+    <form action="http://www.langara.bc.ca/cgi-bin/spf544.pl" method="post" name="problempageform" id="problempageform" onsubmit="return areyouhuman();">
+      <table width="500" border="1" cellpadding="0" cellspacing="0" class="tabulardata">
+        <tbody><tr>
+          <td width="15%">Name:</td>
+          <td width="35%"><b>
+            <input size="30" name="Name" type="text" id="Name" maxlength="45">
+            <input type="hidden" size="83" name="URL" value="https://web.archive.org/web/20100622005644id_/http%3A//langara.bc.ca/ancillary/privacy.html">
+            </b></td>
+          <td width="15%">Email Address:</td>
+          <td width="35%"><b>
+            <input size="30" name="email" type="text" id="email" maxlength="45">
+            </b></td>
+        </tr>
+        <tr>
+          <td>Type of problem:</td>
+          <td colspan="3"><ul style="margin-left: 0px;">
+              <li style="list-style:none; display: inline;">
+                <input size="30" name="problemtype" maxlength="45" type="radio" value="Broken link">
+                Broken Link</li>
+              <li style="list-style:none; display: inline; padding-left: 10px;">
+                <input size="30" name="problemtype" maxlength="45" type="radio" value="Text error">
+                Text Error</li>
+              <li style="list-style:none; display: inline; padding-left: 10px;">
+                <input size="30" name="problemtype" maxlength="45" type="radio" value="Photograph error">
+                Photograph error</li>
+              <li style="list-style:none; display: inline; padding-left: 10px;">
+                <input size="30" name="problemtype" maxlength="45" type="radio" value="Other">
+                Other</li>
+            </ul></td>
+        </tr>
+        <tr>
+          <td valign="top">Details:</td>
+          <td colspan="3" valign="top"><textarea name="Comments" cols="73" rows="8" id="Comments"></textarea></td>
+        </tr>
+        <tr>
+          <td>Are you human?:</td>
+          <td colspan="3"><b>
+            <script type="text/javascript" language="JavaScript">
+			var randomnumber=Math.floor(Math.random()*11);
+			var randomnumber2=Math.floor(Math.random()*11);
+			var humannumber=randomnumber + randomnumber2;
+			document.write(randomnumber+" + "+randomnumber2);
+			</script>0 + 1
+            </b>=
+            <input size="4" name="answer" type="text" id="answer" maxlength="2">
+            This question helps us reduce spam.</td>
+        </tr>
+        <tr>
+          <td valign="top">&nbsp;</td>
+          <td colspan="3"><input name="required" type="hidden" id="required" value="URL,email,Name,Comments">
+            <input type="hidden" name="_config" value="problempage">
+            <input type="hidden" name="emailsubject" value="Problem with this Page - https://web.archive.org/web/20100622005644id_/http%3A//langara.bc.ca/ancillary/privacy.html">
+            <input name="Submit" type="submit" class="notes" value="Submit">
+            <input name="Reset" type="reset" class="notes" value="Reset"></td>
+        </tr>
+      </tbody></table>
+    </form>
+  </div>
+  <!-- Problem with this page form hidden end --><!-- #EndLibraryItem --><div id="footerleft">
+    <p><a href="../sitemap/index.html">Site Map</a> | <a href="#problem" title="Problem with this page?" onclick="problemshow()">Problem with this page?</a> | <a href="privacy.html">Privacy Statement</a> | <a href="../campus-guide/contact.html" target="_self">Contact Us</a></p>
     <p>© 1994 -
       <script type="text/javascript">
                   var curdate = new Date()
@@ -98,7 +176,7 @@
                   document.write(year)
             </script>2020
       Langara College • Modified on
-      <!-- #BeginDate format:Am1 -->January 2, 2009<!-- #EndDate -->
+      <!-- #BeginDate format:Am1 -->March 18, 2010<!-- #EndDate -->
     </p>
   </div>
   <div id="contactinfo">
