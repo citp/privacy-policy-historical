@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the frillr.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218041328id_/http%3A//frillr.com/%3Fq%3Dnode/8695) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frillr.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621114353id_/http%3A//frillr.com/%3Fq%3Dnode/8695) for the most accurate reproduction.*
 
 # Privacy Policy | Frillr
+
+  
+
 
 At Frillr, we are committed to protecting the privacy of our users and visitors. The following Privacy Policy outlines the information Uropa Media, Inc. (“Uropa Media”) may collect and how we may use that information to better serve visitors and members of Frillr. 
 
@@ -79,4 +82,4 @@ The personally identifiable information we collect is securely stored within our
 If you have further privacy concerns please do not hesitate to ask us by contacting uropa@uropamedia.com . This Privacy Policy is effective as of August, 2004. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. Uropa Media reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on www.Frillr.com. Any such change, update or modification will be effective immediately upon posting on Frillr.
 
   
-
+Submitted by [frillr](https://web.archive.org/?q=user/1 "View user profile.") on Tue, 2008-06-24 16:54.
