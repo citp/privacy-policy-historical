@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peta.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228183944id_/http%3A//www.peta.org/priv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peta.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621031652id_/http%3A//www.peta.org/priv.asp) for the most accurate reproduction.*
 
 # People for the Ethical Treatment of Animals (PETA): Your Privacy
 
@@ -62,7 +62,7 @@ PETA occasionally makes the names and postal addresses of members available to r
 
 If you are a PETA member and you don’t wish to have your information exchanged with other organizations and companies, please e-mail us at [Donations@peta.org](mailto:Donations@peta.org) or call us at 757-622-7382 to speak to one of our membership service representatives.
 
-The easiest method to correct and/or change other information regarding your membership is by visiting the member’s portion of our Web site by [going here](https://ebiz.isiservices.com/peta-e/peta/members.asp). You can also contact our membership services at [Donations@peta.org](mailto:Donations@peta.org) or by calling 757-622-7382.
+The easiest method to correct and/or change other information regarding your membership is by visiting the member’s portion of our Web site by [going here](https://secure.peta.org/site/Donation2?df_id=1600&1600.donation=form1&set.custom.Campaign_Code=I09KWLXLXXP&autologin=true). You can also contact our membership services at [Donations@peta.org](mailto:Donations@peta.org) or by calling 757-622-7382.
 
 If you are not a PETA member and you have provided personal contact information on our Web site through the methods listed above, your information will not be exchanged with organizations that are not affiliated with PETA. If you live outside the United States, we may share your contact details with PETA’s international affiliates in order to keep you apprised of developments in animal protection activities in your part of the world. Please e-mail [NewsManager@peta.org](mailto:NewsManager@peta.org) if you don’t want your information to be shared in this manner.
 
