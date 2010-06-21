@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohde-schwarz.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132205id_/http%3A//www2.rohde-schwarz.com/en/Statement_of_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohde-schwarz.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622004214id_/http%3A//www2.rohde-schwarz.com/en/Statement_of_Privacy) for the most accurate reproduction.*
 
 # Statement of Privacy (Rohde & Schwarz International)
 
@@ -16,9 +16,9 @@ Your personal information shall be treated strictly in accordance with the appli
 
 Furthermore, Rohde & Schwarz has implemented appropriate technical and organizational measures, such as using encryption for transmission, in order to keep your information secure, accurate, current and complete.
 
-Once you are registered at Rohde & Schwarz, you may wish to check your personal information processed at Rohde & Schwarz. To do so, please [send an e-mail to the webmaster](mailto:webmaster@rsd.rohde-schwarz.com?subject=Statement%20of%20Privacy:%20check%20personal%20information%20disclosed).
+Once you are registered at Rohde & Schwarz, you may wish to check your personal information processed at Rohde & Schwarz. To do so, please [send an e-mail to the webmaster](mailto:webmaster@rohde-schwarz.com?subject=Statement%20of%20Privacy:%20check%20personal%20information%20disclosed).
 
-Should you wish to have your personal information corrected or completed, please feel free to [send your request to Rohde & Schwarz](mailto:webmaster@rsd.rohde-schwarz.com?subject=Statement%20of%20Privacy:%20correct%20personal%20information).
+Should you wish to have your personal information corrected or completed, please feel free to [send your request to Rohde & Schwarz](mailto:webmaster@rohde-schwarz.com?subject=Statement%20of%20Privacy:%20correct%20personal%20information).
 
 Rohde & Schwarz shall comply with your request immediately.
 
