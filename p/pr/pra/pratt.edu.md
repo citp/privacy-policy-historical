@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pratt.edu privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222004627id_/http%3A//www.pratt.edu/about_pratt/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pratt.edu privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621235446id_/http%3A//www.pratt.edu/about_pratt/privacy_policy) for the most accurate reproduction.*
 
 # Pratt Institute | About Pratt | Privacy Policy
 
