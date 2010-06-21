@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arshtcenter.org privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230040112id_/http%3A//www.arshtcenter.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arshtcenter.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621101741id_/http%3A//www.arshtcenter.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Adrienne Arsht Center for the Performing Arts of Miami-Dade County
 
