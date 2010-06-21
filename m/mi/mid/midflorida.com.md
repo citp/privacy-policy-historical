@@ -1,87 +1,112 @@
-> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221180354id_/http%3A//www.midflorida.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622002207id_/http%3A//midflorida.com/support/privacy.asp) for the most accurate reproduction.*
 
 # MIDFLORIDA - Support - Privacy
 
-### IMPORTANT INFORMATION ABOUT YOUR PRIVACY
-
-**YOUR PRIVACY IS IMPORTANT TO US**
-
-As a member of MIDFLORIDA CREDIT UNION, you provide us with important information about yourself. We believe it is our responsibility to safeguard your personal and financial information. While some financial institutions share account owner information with other businesses, we are committed to keeping your financial information confidential. 
-
-The following privacy policy explains how we use and protect the information about our members. We ask that you read it carefully. 
-
-**NOTICE OF YOUR FINANCIAL PRIVACY RIGHTS**
-
-**_We_** , **_our_** , and **_us_** , when used in this notice, mean MIDFLORIDA CREDIT UNION. 
-
-This is our privacy notice for our members. When we use the words "you" and "your" we mean the following types of members: 
-
-  * Our consumer members who have a continuing relationship by purchasing or holding financial products or services  
-such as a(n): 
-    * Deposit account
-    * Loan account
-    * Credit card account
-    * Safe deposit box
-    * Automobile lease we service
-    * Mortgage brokerage services
-  * All IRA accounts for which we act as custodian
-  * Former members
+[En Espanol](https://web.archive.org/support/espanol.asp)  
+[FAQ](https://web.archive.org/support/faq.asp)  
+[Glossary](https://web.archive.org/support/glossary.asp)  
+[Legal Policy](https://web.archive.org/support/legal.asp)  
+[Privacy](https://web.archive.org/support/privacy.asp)  
+[Search](https://web.archive.org/support/search.asp)  
+[Site Map](https://web.archive.org/support/sitemap.asp)  
 
 
+| 
 
-We will tell you the sources of the information we collect about you. We will tell you what measures we take to secure that information. 
+FACTS | FACTS  | WHAT DOES MIDFLORIDA CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?   
+---|---  
+  
+Why?
 
-We first define some terms. 
+| Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+---|---  
+  
+What?
 
-> **_Nonpublic personal information_** means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter, we will use the term "information" to mean nonpublic personal information as defined in this section.   
->  An **_affiliate_** is a company we own or control.   
->  A **_nonaffiliated third party_** is a person we do not employ or a company that is not an affiliate of ours. This is also known as nonaffiliated third party, or simply, an "other party." 
+|  | The types of personal information we collect and share depend on the product or service you have with us. This information can include:   
+---  
+  
+  * Social Security Number
+  * Account Balances
+  * Payment History
 
-**THE INFORMATION WE COLLECT**
+| 
 
-We collect information about you from the following sources: 
+  * Transaction History
+  * Overdraft History
+  * Account Transaction
 
-  * Information you give us on applications or other forms
-  * Information about your transactions with us
-  * Information about your transactions with our affiliates
-  * Information from a consumer reporting agency
+  
+When you are no longer a member, we continue to share your information as described in this notice.   
+  
+How?
 
+| All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons MIDFLORDIA Credit Union chooses to share; and whether you can limit this sharing.   
+---|---  
+Reasons we can share your personal information  | Does MIDFLORIDA Credit   
+Union share?  | Can you limit this sharing?   
+---|---|---  
+**For our everyday business purposes -**  
+such as to process your transactions, maintain your   
+account(s), respond to court orders and legal   
+investigations, or report to credit bureaus  | Yes  | No   
+**For our marketing purposes -**  
+to offer our products and services to you.  | No  | We don't share   
+**For joint marketing with other financial companies** | Yes  | No   
+**For our affiliates' everyday business purposes -**  
+information about your transactions and experiences  | No  | We don't share   
+**For our affiliates' everyday business purposes -**  
+information about your creditworthiness  | No | We don't share  
+**For nonaffiliates to market to you** | No  | We don't share   
+Questions?  | Call toll-free (866) 913-3733   
+---|---  
+What We Do  
+---  
+How does MIDFLORIDA Credit Union protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. 
 
+We also maintain other physical, electronic and procedural safeguards to protect this information and we limit access to information to those employees for whom access is appropriate.  
+  
+How does MIDFLORIDA Credit   
+Union collect my personal   
+information? |  | We collect your personal information, for example, when you   
+---  
+  
+  * Open an account
+  * Apply for a loan
+  * Use your credit or debit card
 
-**THE CONFIDENTIALITY, SECURITY, AND INTEGRITY OF YOUR INFORMATION**
+| 
 
-We restrict access to information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards to protect this information. 
+  * Make a wire transfer
+  * Make deposits or withdrawals from your account
 
-**YOUR INFORMATION AND OTHER PARTIES**
+  
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
+Why can't I limit all sharing? |  | Federal law gives you the right to limit only  
+---  
+  
+  * sharing for affiliates' everyday business purposes - information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
 
-We will not disclose information about you to anyone except as disclosed in this policy or as permitted by law. Examples of this might include disclosures necessary to service your account or prevent unauthorized transactions. 
+  
+State laws and individual companies may give you additional rights to limit sharing.  
+Definitions  
+---  
+Affiliates | Companies related by common ownership or control. They can be financial and non-financial companies. 
 
-**INFORMATION ABOUT FORMER MEMBERS**
+  * MIDFLORIDA Credit Union does not share with our affiliates.
 
-We have the same policy about disclosing information about former members as we do about current members. 
+  
+Nonaffiliates | Companies not related by common ownership or control. They can be financial and non-financial companies. 
 
-**AUTHORIZED SHARING - JOINT MARKETING**
+  * MIDFLORIDA Credit Union does not share with nonaffiliates so they can market to you.
 
-We may disclose the following information to other financial institutions with whom we have joint marketing agreements: 
+  
+Joint Marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-  * Information you give us on an application or other forms, such as:
-    * Name
-    * Address
+  * Our joint marketing partners include Securities broker dealers and Insurance companies.
 
-
-
-We disclose the information listed above with other financial institutions with whom we have joint marketing agreements. You do not have a right to opt out of the disclosure of this information. 
-
-**Types of Businesses**
-
-We may disclose information pursuant to joint marketing agreements to the following types of businesses: 
-
-  * Financial service providers, such as:
-    * Securities broker-dealers
-    * Insurance companies
-
-
-
-**Reasons For Disclosing**
-
-We may disclose information about you to other financial institutions with whom we have joint marketing agreements to provide you with information about additional products and services. 
+  
+Questions?  | Call toll-free (866) 913-3733   
+---|---
