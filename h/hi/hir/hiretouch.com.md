@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiretouch.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223132241id_/http%3A//www.imagetrend.com/default.cfm%3FPID%3D1.11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiretouch.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621045202id_/http%3A//www.imagetrend.com/default.cfm%3FPID%3D1.11) for the most accurate reproduction.*
 
 # ImageTrend, Inc. - Privacy
 
