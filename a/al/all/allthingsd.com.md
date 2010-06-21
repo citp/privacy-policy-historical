@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allthingsd.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214003444id_/http%3A//allthingsd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingsd.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621234428id_/http%3A//allthingsd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Use of Information | About | AllThingsD
 
 _Effective as of December 2, 2009_
 
-Dow Jones & Company Inc. and its affiliates (”Dow Jones”) are committed to maintaining the privacy of personal information that you provide to us when using **AllThingsD.com**. This Privacy Policy describes how we treat personal information received about you when you visit **AllThingsD.com**.
+Dow Jones & Company Inc. and its affiliates (“Dow Jones”) are committed to maintaining the privacy of personal information that you provide to us when using **AllThingsD.com**. This Privacy Policy describes how we treat personal information received about you when you visit **AllThingsD.com**.
 
 **1\. LINKS TO OTHER WEB SITES**
 
@@ -78,7 +78,7 @@ The personally identifiable information we collect about you is stored in limite
 
 **7\. REVIEW AND CORRECTION**
 
-If you would like to review, change or delete your email preferences or the name that you provided to us for email services, you can [click here](http://allthingsd.com/contact/) or contact us at [help@AllThingsD.com](mailto:help@AllThingsD.com).
+If you would like to review, change or delete your email preferences or the name that you provided to us for email services, you can [click here](http://allthingsd.com/contact/) or contact us at [help@allthingsd.com](mailto:help@AllThingsD.com).
 
 **8\. TRANSFER TO THE U.S. OR OTHER COUNTRIES**
 
@@ -88,4 +88,4 @@ Your information may be stored and processed in the United States or any other c
 
 When we make any material change to this Privacy Policy, we will inform you by updating the Policy’s date.
 
-This Privacy Policy was last updated on November 25, 2009.
+This Privacy Policy was last updated on December 2, 2009.
