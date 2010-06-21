@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onestepahead.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522073622id_/http%3A//www.onestepahead.com/custserv/custserv.jsp%3FpageName%3DPrivacy_Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestepahead.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622003221id_/http%3A//www.onestepahead.com/custserv/custserv.jsp%3FpageName%3DPrivacy_Security) for the most accurate reproduction.*
 
-# One Step Ahead Baby - Privacy & Security
+# Privacy & Security
 
 We are committed to respecting your privacy, maintaining your trust, and making use of any information you provide us in a responsible manner. 
 
@@ -12,7 +12,7 @@ When you place an order, we collect the items you wish to order, the buyer and p
 
 ###### Online Account
 
-You have the option of establishing a password protected online account in which you may then save addresses and credit card information, review a history of your online purchases, utilize our gift registry and reminder service, and sign up to receive our periodic email updates.
+You have the option of establishing a password protected online account in which you may then save addresses, review a history of your online purchases, utilize our gift registry and reminder service, and sign up to receive our periodic email updates.
 
 ###### Product Reviews and Surveys
 
@@ -37,6 +37,10 @@ To ensure the security of your credit card information, we employ Secure Sockets
 We use third party companies to help us provide our products and services to you. Some of these companies are given access to some, or all, of the information you provide to us and may use cookies on our behalf. These companies are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our site. For more information, including how to opt out, please go to: <http://www.coremetrics.com/info_eluminate2.html>. Occasionally, we allow other carefully screened companies to mail their catalog to our customers' physical addresses. If you do not wish to be included, please let us know by email at [customerservice@onestepahead.com](mailto:customerservice@onestepahead.com).
 
 Our web site and our email updates may contain links to other sites. Please be aware that we are not responsible for the privacy and security practices of such other sites. We encourage you to read the privacy and security policies of these other sites.
+
+Chelsea & Scott LTD has arranged with Power Reviews, Inc. (d/b/a) ("PR") ([http://www.buzzillions.com](http://www.buzzillions.com/)) to facilitate customer reviews of products sold by Chelsea & Scott LTD. When you submit a product review to PR, you will be subject to PR's terms of use and privacy policies. The reviews you submit may be posted on both PR's site (<http://www.buzzillions.com/cz_4294967210_baby_reviews>) and our site.
+
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ##### Your children
 
