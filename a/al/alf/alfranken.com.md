@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfranken.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218113823id_/http%3A//www.alfranken.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfranken.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621142708id_/http%3A//www.alfranken.com/privacy) for the most accurate reproduction.*
 
 # Al Franken for Senate | privacypolicy
 
