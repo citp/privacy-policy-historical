@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marmot.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001512id_/http%3A//marmot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marmot.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621073642id_/http%3A//marmot.com/privacy) for the most accurate reproduction.*
 
-# Marmot Mountian Privacy Policy | marmot.com
+# Marmot Mountian Privacy Policy | Marmot Clothing & Equipment
 
 Marmot Mountain LLC values and protects privacy and believes in the privacy of its Web site visitors. Only Marmot Mountain LLC will use the information that you provide to us through our studies or for product delivery.
 
