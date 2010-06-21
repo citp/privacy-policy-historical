@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220104910id_/http%3A//www.buildabear.com/aboutus/ourcompany/privacy.aspx%3Fsc_hpan%3Dfooter%26sc_hpdr%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621114600id_/http%3A//www.buildabear.com/aboutus/ourcompany/privacy.aspx%3Fsc_hpan%3Dfooter%26sc_hpdr%3Dfooter_privacy) for the most accurate reproduction.*
 
 # Build-A-Bear Workshop-United States: Privacy Policy
 
-[ ](https://web.archive.org/shop/browsecategory.aspx?Category=polarbear)
-
-[
-
 Personal Information:
-
-](https://web.archive.org/shop/browsecategory.aspx?Category=polarbear)
 
   * We collect the information you provide to us, such as your name, your postal address or email address, gender or date of birth. 
   * We collect non-personal information such as browser type and web pages visited to help manage our websites and to improve your overall experience. 
