@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504105626id_/http%3A//www.bcwnyc.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcwnyc.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622010829id_/http%3A//www.bcwnyc.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Broadway Chiropractic And Wellness - Chiropractor In New York, NY, USA :: Privacy Policy
+# :: Privacy Policy
 
 This practice is required, by law, to maintain the privacy and confidentiality of your protected health information and to provide our patients with notice of our legal duties and privacy practices with respect to your protected health information. 
 
