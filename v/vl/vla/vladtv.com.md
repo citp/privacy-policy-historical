@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vladtv.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221235219id_/http%3A//www.vladtv.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vladtv.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621215941id_/http%3A//www.vladtv.com/page/privacy) for the most accurate reproduction.*
 
-# | Vlad TV
+# Privacy Policy | Vlad TV
 
 **Third Party Advertising / Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Security measures. We protect the personal information you share with us. Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. 
@@ -20,4 +20,4 @@ Know how your child's information is treated. Check out the FTC's site(1) for mo
 
 We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. Third Party Advertising These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. Third Party Cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-It is our strict policy to never knowingly work in association with any infringing entity's unlawful use of a lawful trademark or lawful copyright. Remember, WorldStar HipHop is simply a site that provides its readers with reporting of urban media & hip hop news and opinions. 
+It is our strict policy to never knowingly work in association with any infringing entity's unlawful use of a lawful trademark or lawful copyright. Remember, VladTV is simply a site that provides its readers with reporting of urban media & hip hop news and opinions. 
