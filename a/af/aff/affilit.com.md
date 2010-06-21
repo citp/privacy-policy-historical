@@ -1,86 +1,38 @@
-> *The following text is extracted and transformed from the affilit.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815132621id_/http%3A//www.affilit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affilit.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621054424id_/http%3A//www.affilit.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Affilit.com
+# Affilit Media
 
-|   
----  
-|   |  |   | 
+  
+Affilit Media has created this privacy policy in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering, use and dissemination practices solely for the web site located at www.affilit.com (the "Site"). By using or accessing the Site, you signify your assent to our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE. Use of the services on the Site are subject to other terms and conditions. 
 
-Affilit has created this privacy statement in order to demonstrate our firm commitment to privacy. We are committed to providing a cost-effective, results-driven Affiliate Program solution that allows Merchants to showcase their products and services in a marketplace of low risk and high return.
+**Collection and Use of Personal Information**  
+We do not collect personal information about Site users unless such information is voluntarily provided by the user. Our registration forms require users to provide certain contact information such as name, contact information, email address, tax ID number and other information. This information is used by Affilit Media and its affiliated companies to provide the services you select through the Site. Except as set forth in this policy, the information is not sold or rented to third parties. If you no longer wish Affilit Media to use your personal information, see the Choice/Opt-Out section below to remove your information. 
 
-The following discloses our information gathering and dissemination practices for this website: Affilit.com.
+We may need to disclose personal information when required by law and when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us or to assist in the investigation of any potential fraud. We may also disclose personal information in connection with a sale, merger or reorganization of Affilit Media. 
 
-  * Affiliates and Merchants are asked for contact and link information in order to facilitate the exchange of links and conduct trade using the Affilit Affiliate Program. In addition, Merchants are required to provide financial information which may include credit card information. 
-  * Affilit facilitates the tracking of transactions between Affiliate and Merchant Web sites, but is not responsible for the privacy practices or the content of such Web sites. We encourage you to read the Privacy Policy's of the Web sites of Affiliates and Merchants. 
-  * We will not reveal any information to any external organization unless we have previously informed the information provider in disclosures or agreements, been authorized by the information provider, or are required by law.
-
-**Definitions**  
-
-
-> "Affiliate" means a person or company that agrees to promote a Merchant's products or website on the Merchant's Terms in exchange for payment.
-> 
-> "Campaign" means a logical grouping of Events through which Merchants manage their program. For example, a campaign might be called 'Book Sales' and include Events which record only sales for books.
-> 
-> "Cookies" are pieces of information stored on a user's computer by web browsers.
-> 
-> "Event" means individual actions such as clicks (the clicking of a link by an internet user) or sales within each Campaign that are tracked and recorded in a Affilit Transaction Table.
-> 
-> "Affilit Transaction Table" means a table in Affilit's online database that contains information about visitor actions related to Merchant Links and Affiliates.
-> 
-> "Merchant" means a person or company that places links into the Affilit Site and agrees to pay Affiliates for promoting their products or website via these links.
+**Collection of Use of Non-Personally Identifiable Information**  
+We may collect non-personal information (or aggregate information) during your use of our Site, including IP address, pages viewed, click-stream data and browsing habits. Non-personal information may be shared with third parties who are not affiliated with Affilit Media. 
 
 **Cookies**  
+A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Affilit Media to identify the individual with his or her corresponding data that resides in VAffilit Media database. You may read more about cookies at http://cookiecentral.com. Individuals who use the Site need to accept cookies in order to use all of the features and functionality of the Site. 
 
+**Choices /Opt-Out**  
+To opt-out of any of a mailing from Affilit Media, you may follow the opt-out procedures set forth in our emails to you or send an email to us at support@affilit.com. However, we are not responsible for removing your personal information from the lists of any third party who has previously been provided your information in accordance with this policy. 
 
-> A cookie is necessary to enable any web site to personalize your experience, and Affilit is no exception. Presently, Affilit uses cookies to.
-> 
-> * Track and record a click Event.
-> * Determine how to credit a sale or lead Event. 
-> * Track and record a tracking Event.
+**Reviewing Your Information**  
+If you would like to review and update or correct the personally identifiable information that we have collected from you online, or if no longer wish to continue your service with us, simply send your request [here](https://web.archive.org/web/20100621054424id_/http%3A//www.affilit.com/index.php?page=contactus) . 
 
-**Security**  
+**Links**   
+This Site contains links to other sites. Affilit Media is not responsible for the privacy practices or the content of such sites. Please read the privacy policies of these linked sites, because their privacy practices may differ from ours. 
 
+**Changes to Privacy Policy**   
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use personal information in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Site following the posting of any changes to this policy means you accept such changes. 
 
-> This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
-> 
-> We will safeguard, according to strict standards of security and confidentiality, any information our customers share with us.
-> 
-> All data that is collected by us or provided voluntariliy to us is kept on our server in a secure area. We guarantee that all personal information provided by customers will not be sold or exchanged with any other company.
-> 
-> Access to any of our data is via a Username and Password by Affiliates and Merchants, or by authorized Affilit employees, who are trained in the proper handling of customer information, to have access to that information. Employees who violate our Privacy Policy will be subject to our normal disciplinary process and subject to dismissal.
+**Legal Statement**  
+Use of this Site is governed by, and subject to, the legal notices contained in our Legal Statement and other terms and conditions that are made available to you. Your use, or access, of the Site constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE. 
 
-**Correct/Update**  
+**Effective Date**   
+This privacy policy is effective and was last updated on Augest 12, 2009. 
 
-
-> This site gives users the following options for changing and modifying information previously provided. 
-> 
-> * As an Affiliate, login to your account through the Affilit homepage ([http://www.Affilit.com](http://www.affilit.com/)) and edit the appropriate information using the Affiliate Manager functionality. 
-> * As a Merchant, login to your account through the Affilit homepage ([http://www.Affilit.com](http://www.affilit.com/)) and edit the appropriate information using the Merchant Manager functionality.
-
-**Disclosing Information Gathering**  
-
-
-> We will never disclose individual information to any third party. However, we do, on occasion, provide aggregate information to potential customers such as click rates, conversion rates, number of Affiliates, etc.
-
-**Policy Changes**  
-
-
-> By using Affilit, you give your consent to the collection and use of data as outlined in this privacy statement. In addition, Affilit may choose in the future to modify this privacy statement and the most current version will always be accessible through this link ([http://www.Affilit.com/privacy.html](http://www.affilit.com/privacy.html)).
-
-**Contacting the Web Site**  
-
-
-> We respect your privacy and the confidentiality of your personal information. We thank you for being a customer and will continually strive to meet your needs.
-> 
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-> 
-> Affilit Media  
->  816 puck's place  
->  newmarket, Ontario, L3X 2K8  
->  Canada
-> 
-> [http://www.Affilit.com](http://www.affilit.com/)
-
-|    
----|---|---|---|---  
- 
+**Contacting Affilit Media**  
+If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can [contact us](https://web.archive.org/web/20100621054424id_/http%3A//www.affilit.com/index.php?page=contactus) here. 
