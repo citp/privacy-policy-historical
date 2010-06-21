@@ -1,64 +1,13 @@
-<!--The following is the downloaded HTML source of the unionpluscard.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228023146id_/http%3A//www.unionpluscard.com/ecare/privacy_nli) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unionpluscard.com privacy policy that was archived on 2010-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621034626id_/http%3A//www.unionpluscard.com/ecare/privacy_nli) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<!-- Changes for aug 08 start for autologoff -->
 
+<!-- Changes for aug 08 start for autologoff -->
+<!-- Changes for feb 10 removed autologoff -->
 
 <!-- Changes for aug 08 ends for autologoff -->
-<!-- added the changes for Catalyst task force Aug 09 start -->
-<!-- tracking_footer.jsp -->
- 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<!-- Start common/webtrends_non_is.html -->
-<script language="Javascript1.1" type="text/javascript"><!--gVersion="1.1";//-->
-</script>
-<script language="Javascript1.2" type="text/javascript"><!--gVersion="1.2";var RE={"%09":^t/g,"%20"://g,"%23":^#/g,"%26":^&/g,"%2B":^+/g,"%3F":^?/g,"%5C":^Vg}; //-->//-->
-</script>
-<script language="Javascript1.3" type="text/javascript"><!--gVersion="1.3";//-->
-</script>
-<script language="Javascript1.4" type="text/javascript"><!--gVersion="1.4";//-->
-</script>
-<script language="Javascript1.5" type="text/javascript"><!--gVersion="1.5";//-->
-</script>
-
-<noscript>
-<img name="dcsimg" width="1" height="1" alt=" " src="http://www1.member-hsbc-group.com/dcsx41mnd5twkf8wyp5mo4xok_6c8d/njs.gif?dcsuri=/nojavascript&amp;WT.js=No"/>
-</noscript>
-<!-- End common/webtrends_non_is.html -->
-	
-
-
-
-    
-
-		
-
-
-
-
-<!-- added the changes for Catalyst task force Aug 09 ends -->
 <!-- page_header.jsp -->
 
 
@@ -98,11 +47,41 @@
 
 
 
+
+
+
+
 <script type="text/javascript">
+<!--
 var pib = 'null';
+var keepAlive = 'null';
+var helpicon_text = "";
+-->
 </script>
  
  
+
+ 
+	
+
+    
+
+		
+
+<script type="text/javascript" src="/ecare/control/catalyst.js"></script>
+	
+<script type="text/javascript">
+<!--
+   
+   var defaultUrl ='null';
+   catalystTracking(defaultUrl);
+   var tracking_image ='null';
+   var tracking_image_src='null';
+   if(tracking_image_src != null) 
+        catalystTracking(tracking_image_src);
+-->	
+</script>
+
 
 	
 
@@ -111,8 +90,61 @@ var pib = 'null';
 	The code keeps looking up the key after stripping last token in the locale till it finds a matching key in the control
 	file .**/-->
  
+ 
 
 
+
+
+<!-- Changes For Auto Logoff    -->
+<script type="text/javascript">
+var pibsessiontimeoutvalue = 'null';
+// below javascript is execute only for pib user and called when page is loaded start here March10 
+if(pib == 'Y'){
+setInterval("pibClick()", pibsessiontimeoutvalue);
+document.getElementById('pibkeepalive').src = keepAlive; 
+}
+// below javascript is execute only for pib user and called when page is loaded end here March10
+
+var logoffflag = 'Y';
+var sessionpopupinterval = '600000';
+var sessionpopuptimeout = '300000';
+
+var popup =null;
+var timer1 = null;
+var timer2 = null;
+  function set_interval()
+	{
+		timer1=setTimeout("auto_popup()",sessionpopupinterval);
+	}
+    function reset_interval()
+    {
+		clearTimeout(timer1);
+		clearTimeout(timer2);
+		timer1=setTimeout("auto_popup()",sessionpopupinterval);   
+	}
+   function auto_popup()
+	{
+		if(logoffflag == 'y' || logoffflag == 'Y')
+		{
+     		timer2=setTimeout("action()",sessionpopuptimeout);
+     		popup = window.showModalDialog('/ecare/autologoff_popup?sessiontimeout=300000','popup','dialogHeight:250px;dialogWidth:550px;center:yes;resizable:no;status:no');	
+			if(popup=='extend')
+			{
+				reset_interval();
+			}
+		    if(popup=='end')
+			{
+				action();
+		    }
+	    }  
+	 }
+	function action()
+    {
+     clearTimeout(timer2);
+   	 window.parent.location="/ecare/logoff"
+    }
+   </script>
+<!-- End Of Changes for AutoLogoff   -->
 
 
 
@@ -134,6 +166,9 @@ var pib = 'null';
 	 
 	 
 
+	 
+    
+	
 	 
     
 	 
@@ -227,6 +262,12 @@ var pib = 'null';
     
               
 
+<link href="/ecare/css/styles_accessibility.css" rel="stylesheet" type="text/css" media="all">        
+
+ 
+    
+              
+
 <link href="/ecare/css/styles.css" rel="stylesheet" type="text/css" media="screen">        
 
  
@@ -245,11 +286,12 @@ var pib = 'null';
 
 
 
-<script>
+ <script type="text/javascript">
+ <!--
 var locale = '';
 var brand  = '';
 
-var imageRandomizer = '4';
+var imageRandomizer = '1';
 
 
 	locale = 'en_US';
@@ -258,40 +300,47 @@ var imageRandomizer = '4';
 
 	brand  = 'UP_000_000';
 
+-->
 </script>
 
-<script>
+<script type="text/javascript">
+<!--
 	var functionalPortfolio = 'UP';
 	var Portfolio = 'UP';
+	-->
 </script>
 <!--[if lte IE 6]>
  <script src="/ecare/control/dhtml.js"></script>
 <![endif]-->
 
-<script language="javaScript" src="/ecare/control/wt/top_section.js"></script>
+ <script type="text/javascript" src="/ecare/control/wt/top_section.js"></script>
 
-<script language="javaScript" src="/ecare/control/wt/webtrend_site.js"></script>
+ <script type="text/javascript" src="/ecare/control/wt/webtrend_site.js"></script>
 
-<script language="javaScript" src="/ecare/control/common.js"></script>
+ <script type="text/javascript" src="/ecare/control/common.js"></script>
 
-<script language="javaScript" src="/ecare/control/postconvert.js"></script>
+ <script type="text/javascript" src="/ecare/control/postconvert.js"></script>
 
-<script language="javaScript" src="/ecare/control/help.js"></script><style type="text/css">.closed p{ display:none;}.open p{ display:block;}</style>
+ <script type="text/javascript" src="/ecare/control/help.js"></script><style type="text/css">.closed p{ display:none;}.open p{ display:block;}</style>
 
-<script language="javaScript" src="/ecare/control/tooltip.js"></script>
+ <script type="text/javascript" src="/ecare/control/tooltip.js"></script>
 
-<script language="javaScript" src="/ecare/control/generic.js"></script>
+ <script type="text/javascript" src="/ecare/control/generic.js"></script>
 
-<script language="javaScript" src="/ecare/control/form_data.js"></script>
+ <script type="text/javascript" src="/ecare/control/form_data.js"></script>
 
-<script language="javaScript" src="/ecare/control/tabcontent.js"></script>
+ <script type="text/javascript" src="/ecare/control/tabcontent.js"></script>
 
-<script language="javaScript" src="/ecare/control/AC_RunActiveContent.js"></script>
+ <script type="text/javascript" src="/ecare/control/AC_RunActiveContent.js"></script>
 
-<script language="javaScript" src="/ecare/control/alternateContent.js"></script>
+ <script type="text/javascript" src="/ecare/control/alternateContent.js"></script>
 
-<script language="javaScript" src="/ecare/control/LostStolenNR.js"></script>
+ <script type="text/javascript" src="/ecare/control/LostStolenNR.js"></script>
 
+ <script type="text/javascript" src="/ecare/control/fm.js"></script>
+
+	
+	
                  
      
       
@@ -317,9 +366,10 @@ var imageRandomizer = '4';
           
                 
 
-<!-- Server Instance CellManager\pphapp11\ccssa_PRD -->
+<!-- Server Instance CellManager\pvhapp09\ccssa_PRD2 -->
 
-<script>
+ <script type="text/javascript">
+ <!--
 	var disclosureOffer = "offers";
 	var home = "";
 	var privacy = "on";
@@ -335,15 +385,17 @@ var imageRandomizer = '4';
 	var toggleURLNLIValue = "";
 	var langIndicator = "en";
 	var homeBaseUrl = ""; 
-	var catalystURL="";					// used in various landing pages like account overview
+	var catalystURL= decodeURIComponent("");					// used in various landing pages like account overview
 
 	var siab_locale = "en_US_UP_000_000"; 
 	var brandVariant = "";  // this variable is used for global nav li UP for displaying different images for different orgn and logo
+-->
 </script>
 
 <!-- Non-D : Changes for Cookie Looping back Issue Starts -->
 
 <!-- Non-D : Changes for Cookie Looping back Issue End-->
+
 <script type="text/javascript" src="//as00.estara.com/fs/lr.php?onload=1&amp;accountid=200106280255" charset="UTF-8"></script></head>
 
 	
@@ -351,20 +403,80 @@ var imageRandomizer = '4';
 			<body onload="page_init()">
 	
 
+<!-- added the changes for Catalyst task force Aug 09 start -->
+<!-- tracking_footer.jsp -->
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+ 
+
+
+
+
+
+<!-- Start common/webtrends_non_is.html -->
+<script type="text/javascript"><!--gVersion="1.1";//-->
+</script>
+<script type="text/javascript"><!--gVersion="1.2";var RE={"%09":^t/g,"%20"://g,"%23":^#/g,"%26":^&/g,"%2B":^+/g,"%3F":^?/g,"%5C":^Vg}; //-->
+</script>
+<script type="text/javascript"><!--gVersion="1.3";//-->
+</script>
+<script type="text/javascript"><!--gVersion="1.4";//-->
+</script>
+<script type="text/javascript"><!--gVersion="1.5";//-->
+</script>
+
+<noscript>
+<img id="dcsimg" width="1" height="1" alt="" title=""  src="http://www1.member-hsbc-group.com/dcsx41mnd5twkf8wyp5mo4xok_6c8d/njs.gif?dcsuri=/nojavascript&amp;WT.js=No"/>
+</noscript>
+<!-- End common/webtrends_non_is.html -->
+
+	
+
+<!-- added the changes for Catalyst task force Aug 09 ends -->
 
 	
 	
 
 		
 			
-			<script language="javascript">CheckWebCatalystID_Cookies('67.202.15.176-12619675049539530000007');</script>
+			<script type="text/javascript">CheckWebCatalystID_Cookies('174.129.237.157-1277091986078780000008');</script>
 		
 
 <div id="container">
 
 
 
+
   
+
 
 
 
@@ -402,7 +514,7 @@ var imageRandomizer = '4';
 		
 
 
-	<script>
+	<script type="text/javascript">
 		var lblALTHomeLogo = 'Union Plus';
 		var photoNumRand = '2';
 		var imageStatus =  'null' ;
@@ -411,24 +523,7 @@ var imageRandomizer = '4';
 
 
 	<!-- Start htsonly/global_nli_en_US_UP.html -->
-<!-- /utility nav -->
-<div id="utility_nav">	
-<a href="/ecare/home_nli" id="home" title="Home">Home</a>
-<a href="/ecare/helpfaq_nli" id="help" title="Help &amp; FAQs">Help &amp; FAQs</a>
-<a href="/ecare/contactus_nli" id="contact" title="Contact Us">Contact Us</a>
-<a href="/ecare/privacy_nli" id="privacy" title="Privacy &amp; Security" class="on">Privacy &amp; Security</a>
-<a href="/ecare/morebenefits_nli" id="benefits" style="border:0" title="More Benefits">More Benefits</a>
-</div>
-<!-- /utility nav -->	
-<!-- logo  -->
-	<div id="logos">
-		  	<a href="/ecare/home_nli" title="Union Plus Credit Card"><img src="/ecare/images/logo_en_US_UP.gif" style="float: left;" alt="Union Plus Credit Card"></a>
-		<img src="/ecare/images/household_2_en_US_UP.gif" style="float: right;" onclick="javascript:MM_openBrWindow('http://www.hsbcusa.com','businesses','scrollbars=yes');" alt="">
-	</div>
-
-
-
-<script language="JavaScript">
+<script type="text/javascript">
 
 <!--
             function MM_openBrWindow(theURL,winName,features) { //v2.0
@@ -439,32 +534,75 @@ var imageRandomizer = '4';
           		var httpsBaseURL =  command;
           		window.location.href = httpsBaseURL;
 			}       
-//end hide --> 
-if(home == 'on')
+
+	var home1 = "<a href=\"" + baseURLNLIValue + "/ecare/home_nli\" class=\"\" title=\"Home\">Home<\/a>";
+	var help1 = "<a href=\"" + baseURLNLIValue + "/ecare/helpfaq_nli\" class=\"\" title=\"Help &amp; F A Qs\">Help &amp; F A Qs<\/a>";
+	var contactUs1 = "<a href=\"" + baseURLNLIValue + "/ecare/contactus_nli\" class=\"\" title=\"Contact Us\">Contact Us<\/a>";
+	var privacy1 = "<a href=\"" + baseURLNLIValue + "/ecare/privacy_nli\" class=\"\" title=\"Privacy &amp; Security\">Privacy &amp; Security<\/a>";
+	var moreBenefits1 = "<a href=\"" + baseURLNLIValue + "/ecare/morebenefits_nli\" class=\"\" style=\"border:0\" title=\"More Benefits\">More Benefits<\/a>";	
+	if(home == 'on')
 	{
-	 	document.getElementById("home") .className="on";
+	 	home1  = "<a  href=\"" + baseURLNLIValue + "/ecare/home_nli\" class=\"on\" title=\"Home\">Home<\/a>";
 	}
 	else if(help == 'on')
 	{
-	 	document.getElementById("help") .className="on";
+		help1 = "<a href=\"" + baseURLNLIValue + "/ecare/helpfaq_nli\" class=\"on\" title=\"Help &amp; F A Qs\">Help &amp; F A Qs<\/a>";
 	}
 	else if(contactUs == 'on')
 	{
-	 	document.getElementById("contact") .className="on";
+		contactUs1 = "<a href=\"" + baseURLNLIValue + "/ecare/contactus_nli\" class=\"on\" title=\"Contact Us\">Contact Us<\/a>";
 	}
 	else if(privacy == 'on')
 	{
-		document.getElementById("privacy") .className="on";
+		privacy1 = "<a href=\"" + baseURLNLIValue + "/ecare/privacy_nli\" class=\"on\" title=\"Privacy &amp; Security\">Privacy &amp; Security<\/a>";
 	}
 	else if(moreBenefits == 'on')
 	{
-		document.getElementById("benefits") .className="on";
+		moreBenefits1 = "<a href=\"" + baseURLNLIValue + "/ecare/morebenefits_nli\" class=\"on\" title=\"More Benefits\">More Benefits<\/a>";
 	}
-
+//end hide 
+--> 
 </script>
+<!-- /utility nav -->
+<div id="utility_nav">		
+	<a href="#startcontent" title="Skip to Main Content" class="skiplink">Skip to Main Content</a>
+<script type="text/javascript">
+<!--
+	document.write(home1)
+-->
+</script><a href="http://www.unionpluscard.com/ecare/home_nli" class="" title="Home">Home</a>
+<script type="text/javascript">
+<!--
+	document.write(help1)
+-->
+</script><a href="http://www.unionpluscard.com/ecare/helpfaq_nli" class="" title="Help &amp; F A Qs">Help &amp; F A Qs</a>
+<script type="text/javascript">
+<!--
+	document.write(contactUs1)
+-->
+</script><a href="http://www.unionpluscard.com/ecare/contactus_nli" class="" title="Contact Us">Contact Us</a>
+
+<script type="text/javascript">
+<!--
+	document.write(privacy1)
+-->
+</script><a href="http://www.unionpluscard.com/ecare/privacy_nli" class="on" title="Privacy &amp; Security">Privacy &amp; Security</a>
+<script type="text/javascript">
+<!--
+	document.write(moreBenefits1)
+-->
+</script><a href="http://www.unionpluscard.com/ecare/morebenefits_nli" class="" style="border:0" title="More Benefits">More Benefits</a>
+</div>
+<!-- /utility nav -->	
+<!-- logo  -->
+	<div id="logos">
+		  	<a href="/ecare/home_nli" title="Union Plus Credit Card"><img src="/ecare/images/logo_en_US_UP.gif" style="float: left;" alt="Union Plus Credit Card" title="Union Plus Credit Card"></a>
+		<img src="/ecare/images/household_2_en_US_UP.gif" style="float: right;" onclick="javascript:MM_openBrWindow('http://www.hsbcusa.com','businesses','scrollbars=yes');" onkeypress="javascript:onKeypress(this,event);" alt=" " title=" ">
+	</div>
+	
 
 <!-- End htsonly/global_nli_en_US_UP.html -->
-	<script language="javaScript" src="/ecare/control/wt/webtrend_nli.js"></script>
+	<script type="text/javascript" src="/ecare/control/wt/webtrend_nli.js"></script>
 
 
 
@@ -537,7 +675,10 @@ if(home == 'on')
 
 
 
-              <div id="content_right">
+
+
+
+              <div class="content_right1">
               
 						 
              
@@ -559,16 +700,34 @@ if(home == 'on')
 
 
 
+
+
+
+
 	
 		
+			
 			<div id="main" class="nli">
-		
+				<div class="FM_Container_right1_outer_nli">
+ 		
 				
 		
 		
 		
 		
+		
+		
 	
+	
+
+     <div class="FM_Container_right1"> 
+    	<span>Print<a href="javascript:window.print();" title="Print Page"><img src="/ecare/images/print.gif" alt="Print Page" title="Print Page"></a></span>
+     	<span>Text Size<a href="javascript:decreaseFontSize();" id="decFontSize" title="Decrease Text Size"><img src="/ecare/images/disable-.gif" alt="font size decrease disabled" title="Font Size Decrease Disabled" style="cursor: default;"></a> 
+     	<a href="javascript:increaseFontSize();" id="incFontSize" title="Increase text size"><img src="/ecare/images/plus.gif" alt="Increase text size" title="Increase text size" style="cursor: pointer;"></a> 
+     	</span> 
+     </div>
+     </div>
+    <div class="float_fix"></div>
 <!-- left_navigation -->
 
 
@@ -602,12 +761,14 @@ if(home == 'on')
 
 
 
-<script language="JavaScript" type="text/javascript">
+
+<script type="text/javascript">
 function openPrivacyLink()
 {
 	privacyLink = '';
 	document.location.href = privacyLink;
 }
+
 </script>
 
 
@@ -617,22 +778,30 @@ function openPrivacyLink()
 		<div class="secondary_nav">
 		<div class="left" style="width:156px;">				
 		
-			 <!-- Start contactus/cc_PrivacyHSBCLink.html -->
+			 
+
+
+
+<!-- Start contactus/cc_PrivacyHSBCLink.html -->
 
     <div id="secondary_nav" class="posn_nav">
       <ul>
-        <li><a href="http://www.hsbcusa.com/security/default.html?WT.sv l=100" target="_blank">Learn More About HSBC Security</a></li>
-		<li><a href="/ecare/faqsecurity#phishing">Received a Suspicious Email?</a></li>
+        <li><a href="http://www.hsbcusa.com/security/default.html?WT.sv l=100" target="_blank" title="Learn More About HSBC Security">Learn More About HSBC Security</a></li>
+		<li><a href="/ecare/faqsecurity#phishing" title="Received a Suspicious Email?">Received a Suspicious Email?</a></li>
       </ul>
     </div>
 
 <!-- End contactus/cc_PrivacyHSBCLink.html -->
+
 			<br></div></div>
 		
 
 
 
 
+	
+
+
 
 
 	
@@ -641,13 +810,17 @@ function openPrivacyLink()
 		
 	
 
+<a id="startcontent" tabindex="-1" title="Skip to MainContent"></a>
+
+<div class="float_fix"></div>
 
 
 
 
 
 
-<div id="content_left_expanded" class="privacy_details">
+<div class="content_left_expanded privacy_details">
+
 
 
 
@@ -661,7 +834,7 @@ function openPrivacyLink()
 
 	
 
-<!-- Filename : cc_Brand_content.jsp static include-->  
+<!-- Filename : cc_Brand_content.jsp static include -->  
 
 
 
@@ -706,90 +879,106 @@ function openPrivacyLink()
 
  
 
-	<script>
+	 <script type="text/javascript">
+	 <!--
 		var siteURLValue = "www.hsbccreditcard.com";
 		var ccsSiteURLValue = "www.unionpluscard.com";
-		
+	 -->
 	</script>
 
-	<script>
+	 <script type="text/javascript">
+	 <!--
 		var homePageVerisignURL = "www.unionpluscard.com";
+	 -->
 	</script>
 	
-	<script>
+	 <script type="text/javascript">
+	 <!--
 		var siteIntrsURL = "www.hsbccreditcard.com";		
+	 -->
 	</script>
 
  
-		<div id="content_restriction"><p></p><h1><!-- Starts cc_PrivacyContentTitle.html -->
+		<div class="content_restriction"><p></p><h1>
+
+
+
+<!-- Starts cc_PrivacyContentTitle.html -->
 	Privacy &amp; Security
-<!-- Ends cc_PrivacyContentTitle.html --></h1><p></p></div>
+<!-- Ends cc_PrivacyContentTitle.html -->
+</h1></div>
 
 
-<script language="JavaScript">
+ <script type="text/javascript">
+ <!--
 function openWinOpt(optOut)
 {
 window.open(optOut,'popUp','width=530,height=300,toolbar=yes,menubar=yes,resizable,location=no,scrollbars,screenX=0,screenY=0,top=0,left=0');
 }
+-->
 </script>
 <table border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr valign="top">
 		<td valign="top" class="bodytext">
-		<!-- Starts cc_PrivacyHeader.html -->
+		
+
+
+
+<!-- Starts cc_PrivacyHeader.html -->
 <p>
   <a href="#Priv" title="Privacy">Privacy</a> |
   <a href="#privacy_statement" title="Privacy Statement">Privacy Statement</a>  |
   <a href="#limit_share" title="Your Choices to Limit Sharing">Your Choices to Limit Sharing</a> |
-  <a href="#limit_market" title="Your Choices to Limit Marketing">Your Choices to Limit Marketing</a> |
+  <a href="#limit_market" title="Your Choice to Limit Marketing">Your Choice to Limit Marketing</a> |
   <a href="#security_info" title="Security Information">Security Information</a> |
-  <a href="#web_terms" title="Website Terms and Conditions">Website Terms and Conditions</a> |
-  <a href="#error_res" title="Notice of Error Resolution Procedures">Notice of Error Resolution Procedures</a>
+  <a href="#web_terms" title="Website Terms and Conditions">Website Terms and Conditions</a>
 </p>
 <!-- Ends cc_PrivacyHeader.html -->
-		<div id="iw_content_restriction">
-		<!-- Start contactus/cc_Privacy_en_US_UP.html -->
 
-	<p class="h3">
-</p><h1><a name="Priv">Privacy</a></h1>
-
-<p></p>
+		<div class="iw_content_restriction">
+		
 
 
 
-		<p class="bodytext"></p><p>HSBC Bank Nevada, N.A., ("HSBC Bank Nevada")  is the proud issuer of the Union Plus® Credit Card. We understand the importance of handling customer information in a professional and confidential manner. We know that privacy is an important element of our customers' confidence in us and we understand that our customers expect us to collect and retain personal financial information responsibly.  </p>
-<p></p>
+
+<!-- Start contactus/cc_Privacy_en_US_UP.html -->
+
+	<p class="h3"></p>
+<h1><a id="Priv">Privacy</a></h1>
+
+
+
+
+
+		<p class="bodytext">HSBC Bank Nevada, N.A., ("HSBC Bank Nevada")  is the proud issuer of the Union Plus® Credit Card. We understand the importance of handling customer information in a professional and confidential manner. We know that privacy is an important element of our customers' confidence in us and we understand that our customers expect us to collect and retain personal financial information responsibly.  </p>
+
 <br>
-		<p class="bodybold"><a name="priv1">Experience</a></p><p class="bodytext"></p><ul><li>HSBC Bank Nevada is a member of a financial family with more than a century of financial experience.</li></ul>
+		<p class="bodybold"><a id="priv1">Experience</a></p><p class="bodytext"></p><ul><li>HSBC Bank Nevada is a member of a financial family with more than a century of financial experience.</li></ul>
 
-<p></p>
 
-		<p class="bodybold"><a name="priv2">Electronic, Physical and Administrative Safeguards</a></p><p class="bodytext"></p><ul>
+		<p class="bodybold"><a id="priv2">Electronic, Physical and Administrative Safeguards</a></p><p class="bodytext"></p><ul>
 <li>We take great care to ensure your personal information is kept safe.</li>
 
 <li>Only carefully trained professionals and companies who service your account or who provide services to you or to us have access to your personal information.</li>
 <li>HSBC Bank Nevada diligently maintains security measures that comply with applicable federal standards. This assists us in preventing unauthorized access to your non-public personal information.</li>
 </ul>
-<p></p>
 
-		<p class="bodybold"><a name="priv3">Responsible Information Sharing</a></p><p class="bodytext"></p><ul>
+
+		<p class="bodybold"><a id="priv3">Responsible Information Sharing</a></p><p class="bodytext"></p><ul>
 <li>Information is sometimes shared within the HSBC Bank Nevada family of Affiliates for purposes that could benefit you such as fraud control and other general business purposes. </li>
 
 <li>We only contract with respectable, carefully screened third-party financial and non-financial companies that offer our customers valuable merchandise and services. </li>
 </ul>
-<p></p>
 
-		<p class="bodybold"><a name="priv4">Control Over Information Sharing and Marketing</a></p><p class="bodytext"></p><ul>
+
+		<p class="bodybold"><a id="priv4">Control Over Information Sharing and Marketing</a></p><p class="bodytext"></p><ul>
 <li>We give you a choice. If you do not want us to share your information or limit certain marketing, follow our opt-out procedures and we will be happy to comply with your opt-out request, consistent with the procedures in our Privacy Statement.  </li>
 
-<li>Click here to view our <a href="#privacy_statement"><b>Privacy Statement</b></a>.</li>
-
-<li>Click here to view <a href="#security_info"><b>Security Information</b></a>.</li>
-
-<li>Click here for information on our use of <a href="#web_terms7"><b>"cookie" technology</b></a>.</li>
-
-<li>Click here for <a href="#web_terms"><b>Website Terms and Conditions</b></a>.</li>
+<li>Click here to view our <a href="#privacy_statement" title="Privacy Statement">Privacy Statement</a>.</li>
+		<li>Click here to view <a href="#security_info" title="Security Information">Security Information</a>.</li>
+		<li>Click here for information on our use of <a href="#web_terms7" title="Website Terms and Conditions cookie technology">"cookie" technology</a>.</li>
+		<li>Click here for <a href="#web_terms" title="Website Terms and Conditions">Website Terms and Conditions</a>.</li>
 </ul>
-<p></p>
 
 
 
@@ -799,93 +988,196 @@ window.open(optOut,'popUp','width=530,height=300,toolbar=yes,menubar=yes,resizab
 
 
 		</div>
-		<p align="center" class="bodytext"><a href="#priv">Top of Privacy</a><br>
+		<p class="bodytext align_center"><a href="#priv">Top of Privacy</a><br>
 		<a href="#top">Back to Top</a></p>
-		<div id="iw_content_restriction">
-		<!-- Start contactus/cc_PrivacyStatement_en_US_UP.html -->
+		<div id="iw_content_restriction_1">
+		
 
-	<p class="bodytext">
-</p><h1><a name="privacy_statement">Privacy Statement</a></h1>
 
-<p></p>
+
+
+<!-- Start contactus/cc_PrivacyStatement_en_US_UP.html -->
+
+	<p class="bodytext"></p>
+<h1><a id="privacy_statement">Privacy Statement</a></h1>
+
+
 <p class="bodytext">
-<a href="#privacy_statement1">Introduction - Our Commitment to You</a> | <a href="#privacy_statement2">How We Handle Information We Collect</a> | <a href="#privacy_statement3">How We Protect Your Privacy Online</a> | <a href="#privacy_statement4">How We Share Information within the HSBC Family of Companies </a> | <a href="#privacy_statement5">How We Share Information with Union Privilege, Your Union and the AFL-CIO</a> | <a href="#privacy_statement6">How We Share Information with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO)</a>
+<a href="#privacy_statement1" title="Introduction - Our Commitment to You">Introduction - Our Commitment to You</a> | <a href="#privacy_statement2" title="How We Handle Information We Collect">How We Handle Information We Collect</a> | <a href="#privacy_statement3" title="How We Protect Your Privacy Online">How We Protect Your Privacy Online</a> | <a href="#privacy_statement4" title="How We Share Information within the HSBC Family of Companies">How We Share Information within the HSBC Family of Companies </a> | <a href="#privacy_statement5" title="How We Share Information with Union Privilege, Your Union and the AFL-CIO">How We Share Information with Union Privilege, Your Union and the AFL-CIO</a> | <a href="#privacy_statement6" title="How We Share Information with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO)">How We Share Information with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO)</a>
 </p>
 <br>
 
-		<p class="bodybold"><a name="privacy_statement1">Introduction - Our Commitment to You</a></p><p class="bodytext"></p><p>HSBC Bank Nevada, N.A. ("HSBC", "we", "us", or "our") is the proud issuer of The Union Plus Credit Card. HSBC is proud to be part of a financial services organization that has been providing superior products and services for more than 150 years.We greatly appreciate the trust that you and millions of customers have placed in us, and we protect that trust by continuing to respect the privacy of all our applicants and customers even if our formal customer relationship ends.</p>
+		<p class="bodybold"><a id="privacy_statement1">Introduction - Our Commitment to You</a></p><p class="bodytext">
+HSBC Bank Nevada, N.A. ("HSBC", "we", "us", or "our") is the proud issuer of The
+Union Plus Credit Card. HSBC is proud to be part of a financial services
+organization that has been providing superior products and services for more than
+150 years. We greatly appreciate the trust that you and millions of customers
+have placed in us, and we protect that trust by continuing to respect the privacy
+of all our applicants and customers even if our formal customer relationship ends.
+
+</p>
 		<br>
-<p>This Privacy Statement illustrates our commitment to your privacy and explains our privacy practices to help you understand how we protect and use your information. </p>
+<p>This Privacy Statement illustrates our commitment to your privacy and explains our
+privacy practices to help you understand how we protect and use your information.
+ </p>
 <br>
-<p>We may change our privacy practices at any time as permitted by law, and if we do so, we will provide you with notice as required. If you have selected a creditrelated insurance product, the Privacy Statement applicable to that credit insurance product is set forth at the end of this Privacy Statement.</p><p></p>
+<p>We may change our privacy practices at any time as permitted by law, and if
+we do so, we will provide you with notice as required. If you have selected a
+credit-related insurance product, the Privacy Statement applicable to that
+credit insurance product is set forth at the end of this Privacy Statement.
+</p>
 <br>
-<p align="center" class="bodytext"><a href="#privacy_statement">Top of Privacy Statement</a><br>
-<a href="#Priv">Back to Top</a></p>
+<p class="alligncenter bodytext"><a href="#privacy_statement" title="Top of Privacy Statement">Top of Privacy Statement</a><br>
+<a href="#Priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="privacy_statement2">How We Handle Information We Collect</a></p><p class="bodytext"></p><p>It is important for you to know that in order to ensure that our customers get the very best service and the highest quality products, and to develop new products, HSBC collects demographic information (like your name, address, and social security number) and credit information (like information from your application, your credit
-report or related to your accounts with us). In some instances, we obtain information about you directly from Union Privilege†. In addition, if you visit our website, we may collect certain information about your internet usage.</p>
+		<p class="bodybold"><a id="privacy_statement2">How We Handle Information We Collect</a></p><p class="bodytext">
+		It is important for you to know that in order to ensure that our customers get the
+very best service and the highest quality products, and to develop new products,
+HSBC collects demographic information (like your name, address, and social
+security number) and credit information (like information from your application,
+your credit report or related to your accounts with us). In some instances, we
+obtain information about you directly from Union Privilege†. In addition, if you visit
+our website, we may collect certain information about your internet usage.
+</p>
 <br>
-<p>Because some of the information we gather is not publicly available, we take great care to ensure that this information is kept safe from unauthorized access, and we will not share the information in violation of any regulation or law. HSBC diligently maintains physical, electronic and procedural safeguards that comply with applicable laws to guard your private personal information and to assist us in preventing unauthorized disclosure or access to that information.</p>
-<p></p>
+<p>Because some of the information we gather is not publicly available, we take
+great care to ensure that this information is kept safe from unauthorized
+access, and we will not share the information in violation of any regulation or
+law. HSBC diligently maintains physical, electronic and procedural safeguards
+that comply with applicable laws to guard your private personal information and
+to assist us in preventing unauthorized disclosure or access to that information.
+</p>
+
 <br>
-<p align="center" class="bodytext"><a href="#privacy_statement">Top of Privacy Statement</a><br>
-<a href="#Priv">Back to Top</a></p>
+<p class="alligncenter bodytext"><a href="#privacy_statement" title="Top of Privacy Statement">Top of Privacy Statement</a><br>
+<a href="#Priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="privacy_statement3">How We Protect Your Privacy Online</a></p><p class="bodytext"></p><p>Our website offers you the opportunity to view your current account information and make payments online, in addition to providing general information about our company and products. You may also view our Privacy Statement when you visit our website.</p>
+		<p class="bodybold"><a id="privacy_statement3">How We Protect Your Privacy Online</a></p><p class="bodytext">
+		Our website offers you the opportunity to view your current account
+information and make payments online, in addition to providing general
+information about our company and products. You may also view our Privacy
+Statement when you visit our website.
+</p>
 		<br>
-<p>To help us learn which products, services and sections of our websites interest you, and to improve your experience, we use "cookies." Cookies are small files that our web server places on your hard drive to track activity on the website during a browsing session, and across multiple sessions.We also use cookies to "remember" which online service you last logged into, so that we can pre-select that service on your next visit. The cookies we set contain no personal information. Cookies can only track activity on our website, and cannot be read by any non-HSBC websites.</p>
+<p>To help us learn which products, services and sections of our websites interest
+you, and to improve your experience, we use "cookies." Cookies are small files
+that our web server places on your hard drive to track activity on the website
+during a browsing session, and across multiple sessions. We also use cookies
+to "remember" which online service you last logged into, so that we can preselect
+that service on your next visit. The cookies we set contain no personal
+information. Cookies can only track activity on our website, and cannot be read
+by any non-HSBC websites.
+</p>
 <br>
-<p>We may also use online profiling to help us better understand your individual financial needs. This information does not identify you personally unless you
-voluntarily give us personal information while online.</p>
+<p>We may also use online profiling to help us better understand your individual
+financial needs. This information does not identify you personally unless you
+voluntarily give us personal information while online.
+</p>
 <br>
-<p>We also work with other third parties to learn more about activity on our website. These vendors use "web beacons," "tracking pixels," "third party cookies" and other similar technologies to gather user demographics and usage patterns, which help us improve the effectiveness of our marketing and of our website design. These vendors do not share any personally identifiable information about you</p>
-<p></p>
+<p>We also work with other third parties to learn more about activity on our website.
+These vendors use "web beacons," "tracking pixels," "third party cookies" and
+other similar technologies to gather user demographics and usage patterns, which
+help us improve the effectiveness of our marketing and of our website design.
+These vendors do not share any personally identifiable information about you.
+</p>
+
 <br>
-<p align="center" class="bodytext"><a href="#privacy_statement">Top of Privacy Statement</a><br>
-<a href="#Priv">Back to Top</a></p>
+<p class="alligncenter bodytext"><a href="#privacy_statement" title="Top of Privacy Statement">Top of Privacy Statement</a><br>
+<a href="#Priv" title="Back to Top">Back to Top</a></p>
 <br>
-<p class="bodybold"><a name="privacy_statement4">How We Share Information within the HSBC Family of Companies</a></p><p class="bodytext"></p><p>From time to time, for general business purposes or when we think it may benefit you, we share certain information with other companies within the HSBC family of
-companies (our "'Affiliates*"), except as prohibited by applicable law. We may also provide information to Affiliates that perform operational services related to your account(s). These Affiliates all provide financial services, such as banking, consumer finance, insurance, mortgage, and brokerage services. Some examples include companies doing business under the names HSBC, HFC®, Household, or Beneficial®. We may also share certain information with non-financial become affiliated with us in the future (such as travel, auto, or shopping clubs), except as prohibited by applicable law. The information we share might come from your application, for instance your name, address, telephone number, social security number, and e-mail address. Also, the information we share could include your transactions with us or our Affiliates (such as your account balance, payment history, and parties to the transaction), your internet usage, or your credit card usage. Except for Vermont residents, the information we share could also include your assets, income, or credit report information. For Vermont residents, applicable law requires us to obtain your permission in order to share information about you with our Affiliates. Please note that we have chosen not to share your information in this way while you are a resident of Vermont.</p>
-<p></p>
+<p class="bodybold"><a id="privacy_statement4">How We Share Information within the HSBC Family of Companies</a></p><p class="bodytext">
+From time to time, for general business purposes or when we think it may
+benefit you, we share certain information with other companies within the HSBC
+family of companies (our "Affiliates*"), except as prohibited by applicable law.
+We may also provide information to Affiliates that perform operational services
+related to your account(s). These Affiliates all provide financial services, such as
+banking, consumer finance, insurance, mortgage, and brokerage services.
+Some examples include companies doing business under the names HSBC,
+HFC®, Household, or Beneficial®. We may also share certain information with
+non-financial service providers that become affiliated with us in the future (such
+as travel, auto, or shopping clubs), except as prohibited by applicable law. The
+information we share might come from your application, for instance your name,
+address, telephone number, social security number, and e-mail address. Also,
+the information we share could include your transactions with us or our Affiliates
+(such as your account balance, payment history, and parties to the transaction),
+your internet usage, or your credit card usage.
+</p>
+
 <br>
-<p align="center" class="bodytext"><a href="#privacy_statement">Top of Privacy Statement</a><br>
-<a href="#Priv">Back to Top</a></p>
+<p class="alligncenter bodytext"><a href="#privacy_statement" title="Top of Privacy Statement">Top of Privacy Statement</a><br>
+<a href="#Priv" title="Back to Top">Back to Top</a></p>
 <br>
-<p class="bodybold"><a name="privacy_statement5">How We Share Information with Union Privilege, Your Union and the AFL-CIO</a></p>
-<p>We have an established relationship with Union Privilege and the AFL-CIO. Pursuant to this relationship, we issue credit card offers to members of AFL-CIO
-affiliated unions. Except for California and Vermont residents, we share certain information about you with Union Privilege, your union and the AFL-CIO so that we
-and they can provide you with the services and benefits of the Union Plus Credit Card Program and continue to bring you new opportunities. We obtain some
-information about you directly from Union Privilege. Other information we collect comes from the sources described above. The information we share with Union
-Privilege, your union or the AFL-CIO includes information we receive from you on your application or other forms such as your name, address, telephone number,
-income, real property purchased, leased or rented, marital status, dependents and e-mail address, as well as information about your transactions with us, such as the status and usage of your Account, purchase and payment history, including merchants (and/or categories thereof) from whom you have purchased, and
-marketing preferences. Sharing information with Union Privilege allows them to provide you with information about valuable union benefits and services that are
-available to you and your family that you might not otherwise hear about. For California and Vermont residents, state law restricts how we share information
-about you. Accordingly, we will not share information about you in this way without your permission. If we request your permission, we will notify you of the categories of information we would like to share with Union Privilege, your union and the AFL-CIO and the manner in which you can provide us with permission if you choose to do so.</p>
+<p class="bodybold"><a id="privacy_statement5">How We Share Information with Union Privilege, Your Union and the AFL-CIO</a></p>
+<p>We have an established relationship with Union Privilege and the AFL-CIO.
+Pursuant to this relationship, we issue credit card offers to members of AFL-CIO
+affiliated unions. Except for California and Vermont residents, we share certain
+information about you with Union Privilege, your union and the AFL-CIO so that
+we and they can provide you with the services and benefits of the Union Plus
+Credit Card Program and continue to bring you new opportunities. We obtain
+some information about you directly from Union Privilege. Other information we
+collect comes from the sources described above. The information we share with
+Union Privilege, your union or the AFL-CIO includes information we receive from
+you on your application or other forms such as your name, address, telephone
+number, income, real property purchased, leased or rented, marital status,
+dependents and e-mail address, as well as information about your transactions
+with us, such as the status and usage of your Account, purchase and payment
+history, including merchants (and/or categories thereof) from whom you have
+purchased, and marketing preferences. Sharing information with Union Privilege
+allows them to provide you with information about valuable union benefits and
+services that are available to you and your family that you might not otherwise
+hear about. For California and Vermont residents, state law restricts how we
+share information about you. Accordingly, we will not share information about
+you in this way without your permission. If we request your permission, we will
+notify you of the categories of information we would like to share with Union
+Privilege, your union and the AFL-CIO and the manner in which you can provide
+us with permission if you choose to do so.
+</p>
 <br>
-<p align="center" class="bodytext"><a href="#privacy_statement">Top of Privacy Statement</a><br>
-<a href="#Priv">Back to Top</a></p>
+<p class="alligncenter bodytext"><a href="#privacy_statement" title="Top of Privacy Statement">Top of Privacy Statement</a><br>
+<a href="#Priv" title="Back to Top">Back to Top</a></p>
 <br>
 
-<p class="bodybold"><a name="privacy_statement6">How We Share Information with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO)</a></p> 
-<p>Except for California or Vermont residents, we may share information with companies outside of the HSBC family of companies (i.e. Non-Affiliates) that are able to extend special offers that we feel might be of value to you. These companies may be financial services providers (such as mortgage bankers, insurance agents or a re-insurer) or they may be non-financial companies (such as retailers or marketing companies). These offers are typically for products and services that you might not otherwise hear about. The information that we may provide Non-Affiliates comes from the sources described above and might include your name, address, phone number, and information about your account with us. For California and Vermont residents, applicable law requires us to obtain your permission in order to share information about you with Non-Affiliates, and so we have chosen not to share your information in this way while you are a resident of California or Vermont.</p>
+<p class="bodybold"><a id="privacy_statement6">How We Share Information with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO)</a></p> 
+<p>Except for California or Vermont residents, we may share information with
+companies outside of the HSBC family of companies (i.e. Non-Affiliates) that
+are able to extend special offers that we feel might be of value to you. These
+companies may be financial services providers (such as mortgage bankers,
+insurance agents or a re-insurer) or they may be non-financial companies
+(such as retailers or marketing companies). These offers are typically for
+products and services that you might not otherwise hear about. The information
+that we may provide Non-Affiliates comes from the sources described above
+and might include your name, address, phone number, and information about
+your account with us. For California and Vermont residents, applicable law
+requires us to obtain your permission in order to share information about you
+with Non-Affiliates, and so we have chosen not to share your information in this
+way while you are a resident of California or Vermont.
+</p>
 <br>
-<p>We may also provide information to Non-Affiliates that perform operational services for your account such as, collection, fraud control and marketing. The sharing of information with these types of Non-Affiliates is permitted by law. This might include a financial company (such as an insurance service provider) or a
-non-financial company (such as a data processor or Internet service provider) with whom we have a service agreement. The information we may share also comes
-from the sources described above and might include your name, address, phone number, and account experience with us.</p>
+<p>We may also provide information to Non-Affiliates that perform operational
+services for your account such as, collection, fraud control and marketing. The
+sharing of information with these types of Non-Affiliates is permitted by law.
+This might include a financial company (such as an insurance service provider)
+or a non-financial company (such as a data processor or Internet service
+provider) with whom we have a service agreement. The information we may
+share also comes from the sources described above and might include your
+name, address, phone number, and account experience with us.
+</p>
 <br>
-<p>Finally, we provide information about you to Non-Affiliates as permitted by law.</p>
+<p>Finally, we provide information about you to Non-Affiliates as permitted by law.
+These may include credit reporting agencies and companies which provide
+services related to your account.
+</p>
 
-<p>These may include credit reporting agencies and companies which provide services related to your account.</p> 
-		
+	
 <br>
-<p align="center" class="bodytext"><a href="#privacy_statement">Top of Privacy Statement</a><br>
-<a href="#Priv">Back to Top</a></p>
+<p class="alligncenter bodytext"><a href="#privacy_statement" title="Top of Privacy Statement">Top of Privacy Statement</a><br>
+<a href="#Priv" title="Back to Top">Back to Top</a></p>
 <br>
 
-<p align="left" class="bodytext">
-<a href="#priv">Privacy</a>&nbsp;|&nbsp;<a href="#privacy_statement">Privacy Statement</a>&nbsp;|&nbsp;
-<a href="#limit_share">Your Choices to Limit Sharing</a>&nbsp;|&nbsp;
-<a href="#limit_market">Your Choices to Limit Marketing</a>&nbsp;|&nbsp;<a href="#security_info">Security Information</a>&nbsp;|&nbsp;<a href="#web_terms">Website Terms and Conditions</a>
+<p class="allignlft bodytext">
+<a href="#priv" title="Privacy">Privacy</a>&nbsp;|&nbsp;<a href="#privacy_statement" title="Privacy Statement">Privacy Statement</a>&nbsp;|&nbsp;
+<a href="#limit_share" title="Your Choices to Limit Sharing">Your Choices to Limit Sharing</a>&nbsp;|&nbsp;
+<a href="#limit_market" title="Your Choices to Limit Marketing">Your Choices to Limit Marketing</a>&nbsp;|&nbsp;<a href="#security_info" title="Security Information">Security Information</a>&nbsp;|&nbsp;<a href="#web_terms" title="Website Terms and Conditions">Website Terms and Conditions</a>
 
 </p>
 <br>
@@ -895,48 +1187,84 @@ from the sources described above and might include your name, address, phone num
 
 
 		</div>
-		<div id="iw_content_restriction">
-		<!-- START contactus/cc_PrivacyNoShare_en_US_UP.html -->
-<p class="bodytext">
-	</p><p></p>
-<h1><a name="limit_share">Your Choices to Limit Sharing</a></h1>
-<p></p>
+		<div id="iw_content_restriction_2">
+		
+
+
+
+
+
+<!-- START contactus/cc_PrivacyNoShare_en_US_UP.html -->
+<p class="bodytext"></p>
+
+<h1><a id="limit_share">Your Choices to Limit Sharing</a></h1>
+
 
 <p class="bodytext">
-<a href="#no_share1" title="How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies (Except for residents of Vermont)">How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies (Except for residents of Vermont)</a> | <a href="#no_share2" title="How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont)">How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont)</a> | <a href="#no_share3" title="How to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont)">How to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont)</a> | <a href="#limit_market" title="Your Choices to Limit Marketing">Your Choices to Limit Marketing</a> | <a href="#no_share4" title="Spanish">Spanish</a>
+<a href="#no_share1" title="How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies">How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies</a> | <a href="#no_share2" title="How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont)">How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont)</a> | <a href="#no_share3" title="How to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont)">How to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont)</a> | <a href="#limit_market" title="Your Choice to Limit Marketing">Your Choice to Limit Marketing</a> | <a href="#no_share4" title="Spanish">Spanish</a>
 </p>
 <br>
-<p></p>
-<p class="bodybold"><a name="no_share1">How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies (Except for residents of Vermont)</a></p>
-<p class="bodytext"></p><p></p><p class="bodytext"></p><p>If you do not want us to share your credit report information with our Affiliates (unless we are permitted or required by law to do so), please let us know by completing the opt-out <a href="javascript:openWinOpt('/ecare/optout')"><b>reply form</b></a>. If you have previously informed us of your preference, you do not need to do so again. This request will not apply to information about your transactions or experience with us (such as account information, account usage, or payment history). This request will only apply to the Union Plus Credit Card account that you designate in your request.</p>
-<p></p>
+
+<p class="bodybold"><a id="no_share1">How to Opt-Out of Sharing with Our Affiliates in the HSBC Family of Companies</a></p>
+<p class="bodytext"></p><p class="bodytext">
+If you do not want us to share your credit report information with our Affiliates
+(unless we are permitted or required by law to do so), please let us know by
+simply calling us toll-free at 1-877-876-8819. If you have previously informed
+us of your preference, you do not need to do so again. This request will not
+apply to information about your transactions or experience with us (such as
+account information, account usage, or payment history). This request will only
+apply to the Union Plus Credit Card account that you designate in your request.
+</p>
 <br>
-<p align="center" class="bodytext"><a href="#limit_share" title="Top of Your Choices to Limit Sharing">Top of Your Choices to Limit Sharing</a><br>
+<p class="alligncenter bodytext"><a href="#limit_share" title="Top of Your Choices to Limit Sharing">Top of Your Choices to Limit Sharing</a><br>
 <a href="#Priv" title="Back to Top">Back to Top</a></p>
 
 <br>
-<p class="bodybold"><a name="no_share2">How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont)</a></p><p class="bodytext"></p><p>If you do not want us to share your non-public personal information with Union Privilege, Your Union and the AFL-CIO (unless we are permitted or required by law to do so), please let us know by completing the opt-out <a href="javascript:openWinOpt('/ecare/optout')" alt="Opt Out reply form" title="Opt Out reply form"><b>reply form</b></a>. If you have previously informed us of your preference about this account, you do not need to do so again. This request will only apply to the Union Plus Credit Card account that you designate in your request.</p>
+<p class="bodybold"><a id="no_share2">How to Opt-Out of Sharing with Union Privilege, Your Union and the AFL-CIO (Except for residents of California and Vermont)</a></p><p class="bodytext">
+If you do not want us to share your non-public personal information with
+Union Privilege, Your Union and the AFL-CIO (unless we are permitted or
+required by law to do so), please let us know by simply calling us toll-free at
+1-877-876-8819. If you have previously informed us of your preference
+about this account, you do not need to do so again. This request will only
+apply to the Union Plus Credit Card account that you designate in
+your request.
+</p>
 <br>
-<br>
-<p align="center" class="bodytext"><a href="#limit_share" title="Top of Your Choices to Limit Sharing">Top of Your Choices to Limit Sharing</a><br>
+<p class="alligncenter bodytext"><a href="#limit_share" title="Top of Your Choices to Limit Sharing">Top of Your Choices to Limit Sharing</a><br>
 <a href="#Priv" title="Back to Top">Back to Top</a></p>
 <br>
-<p></p>
-<p class="bodybold"><a name="no_share3">How to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont)</a></p><p class="bodytext"></p><p>If you do not want us to share your non-public personal information with Non-Affiliate companies (unless we are permitted or required by law to do so), please let us know by completing the opt-out <a href="javascript:openWinOpt('/ecare/optout')"><b>reply form</b></a>. If you have previously informed us of your preference about this account, you do not need to do so again. This request will only apply to the Union Plus Credit Card account that you designate in your request.</p>
+
+<p class="bodybold"><a id="no_share3">How to Opt-Out of Sharing with Other Third Parties (Non-Affiliates other than Union Privilege, Your Union and the AFL-CIO) (Except for residents of California and Vermont)</a></p><p class="bodytext">
+If you do not want us to share your non-public personal information with Non-
+Affiliate companies (unless we are permitted or required by law to do so),
+please let us know by simply calling us toll-free at 1-877-876-8819. If you
+have previously informed us of your preference about this account, you do not
+need to do so again. This request will only apply to the Union Plus Credit Card
+account that you designate in your request.
+</p>
 <br>
-<p class="bodybold"><a name="limit_market"></a></p><h1><a name="limit_market">Your Choice to Limit Marketing</a><p></p></h1>
+<p class="bodybold"></p><h1><a id="limit_market">Your Choice to Limit Marketing</a></h1>
 <b>How to Limit Affiliate Marketing Offers</b>
 <ul>
-	<li>Federal law gives you the right to limit some but not all marketing from our Affiliates. Federal law also requires us to give you this notice to tell you about
-your choice to limit marketing from our Affiliates.</li>
-	<li>You may limit our Affiliates in the HSBC family of companies, such as our insurance, and consumer finance affiliates, from marketing their products or
-services to you based on your personal information that we collect and share with them. This information may include your income, your account history with
-us, and your credit history with us.</li>
-	<li>Your choice to limit marketing offers from our Affiliates will apply for at least 5 years from when you tell us your choice. If you have previously informed us of your preference, you do not need to do so again within the 5 year period. Once that period expires, you will receive a renewal notice that will allow you to
-continue to limit marketing offers from our Affiliates for at least another 5 years.</li>
+	<li>Federal law gives you the right to limit some but not all marketing from our
+Affiliates. Federal law also requires us to give you this notice to tell you about
+your choice to limit marketing from our Affiliates.
+</li>
+	<li>You may limit our Affiliates in the HSBC family of companies, such as our
+insurance, and consumer finance affiliates, from marketing their products or
+services to you based on your personal information that we collect and share
+with them. This information may include your income, your account history
+with us, and your credit history with us.
+</li>
+	<li>Your choice to limit marketing offers from our Affiliates will apply for at least 5
+years from when you tell us your choice. If you have previously informed us of
+your preference, you do not need to do so again within the 5 year period. Once
+that period expires, you will receive a renewal notice that will allow you to
+continue to limit marketing offers from our Affiliates for at least another 5 years.
+</li>
 </ul>
-To limit marketing offers under this section, you must call the toll-free telephone number 1-877-876-8819. The attached reply form may not be used for this
-particular opt out choice.
+To limit marketing offers under this section, you must call the toll-free
+telephone number 1-877-876-8819. 
 <br>
 <br>
 <b>Joint Accounts</b><br>
@@ -945,31 +1273,92 @@ request by any party on a joint account will apply to all parties on the joint a
 <br>
 <br>
 <b>Notice for Nevada Residents</b><br>
-Pursuant to Nevada law, we are providing this notice, which applies to accounts with Nevada mailing addresses, to inform you that you may elect to be placed on our internal "do not call" list. To be placed on the list, you may call us toll free at 1-800-622-2580, or write P.O. Box 80027, Salinas, California, 93912. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Avenue, Suite 3900, Las Vegas, Nevada 89101.<br>
+Pursuant to Nevada law, we are providing this notice, which applies to
+accounts with Nevada mailing addresses, to inform you that you may elect to
+be placed on our internal "do not call" list. To be placed on the list, you may
+call us toll free at 1-800-622-2580, or write P.O. Box 80027, Salinas,
+California, 93912. You may also contact the Bureau of Consumer Protection,
+Office of the Nevada Attorney General, 555 E. Washington Avenue, Suite
+3900, Las Vegas, Nevada 89101.
 <br>
-<p class="bodybold"><a name="no_share4"><u>Spanish</u></a></p><p class="bodytext"></p><p>Atención clientes hispanohablantes: Esta Declaración Sobre la Privacidad proporciona información sobre cómo manejamos información personal no publica acerca de nuestros clientes, las circunstancias bajo las cuales podemos compartir tal información con otras personas, y cómo usted puede solicitar que no compartamos esa información con terceros que no sean afiliados nuestros. Si quisiera que le proporcionemos una traducción al español de la Declaración Sobre la Privacidad en su totalidad, por favor llamár al numero indicado al reverso de su tarjeta de credito.</p>
 <br>
-<p>† Union Privilege was created by the AFL-CIO in 1986 to provide union members and their families with high-quality consumer benefits and services. Union Privilege works with HSBC to provide the benefits and services of the Union Plus Credit Card Program. Union Privilege also has full-time union member advocates who work to helping union members resolve credit card concerns.</p>
-<p></p>
+<b>Notice for Vermont Residents</b><br>
+HSBC does not share your information with Affiliates, other than information
+relating to your account transactions and our experiences with you, except as
+permitted or required by applicable law.
 <br>
-* "Affiliates" are companies that are related to us by common ownership or corporate control. Our Affiliates includes companies such as HSBC Bank USA, N.A., HFC®, Beneficial®, Household Insurance Group Holding Company, and HSBC companies such as HSBC Mortgage Corporation (USA), HSBC Credit Centers Inc., HSBC Auto Finance Inc., and Solstice Capital Group.<p></p><p></p>
 <br>
-<p></p>
+<p class="bodybold" lang="es"><a id="no_share4"><span class="underlin">Spanish</span></a></p><p class="bodytext" lang="es">
+Atención clientes hispanohablantes: Esta Declaración Sobre la Privacidad
+proporciona información sobre cómo manejamos información personal no
+publica acerca de nuestros clientes, las circunstancias bajo las cuales
+podemos compartir tal información con otras personas, y cómo usted puede
+solicitar que no compartamos esa información con terceros que no sean
+afiliados nuestros. Si quisiera que le proporcionemos una traducción al español
+de la Declaración Sobre la Privacidad en su totalidad, por favor llamár al
+numero indicado al reverso de su tarjeta de credito.
+</p>
 <br>
-<p align="center" class="bodytext"><a href="#limit_share" title="Top of Your Choices to Limit Sharing">Top of Your Choices to Limit Sharing</a>&nbsp;|&nbsp;<a href="#limit_market" title="Top of Your Choices to Limit Marketing">Top of Your Choices to Limit Marketing</a> <br>
+<p>† Union Privilege was created by the AFL-CIO in 1986 to provide union members
+and their families with high-quality consumer benefits and services. Union
+Privilege works with HSBC to provide the benefits and services of the Union Plus
+Credit Card Program. Union Privilege also has full-time union member advocates
+who work to helping union members resolve credit card concerns.
+</p>
+<br>
+<p>* "Affiliates" are companies that are related to us by common ownership or
+corporate control. Our Affiliates include companies such as HSBC Bank USA,
+N.A., HFC®, Beneficial®, Household Insurance Group Holding Company, and
+HSBC companies such as HSBC Mortgage Corporation (USA), HSBC Credit
+Centers Inc., HSBC Auto Finance Inc., and Solstice Capital Group.</p>
+
+<br>
+
+<br>
+<p class="alligncenter bodytext"><a href="#limit_share" title="Top of Your Choices to Limit Sharing">Top of Your Choices to Limit Sharing</a>&nbsp;|&nbsp;<a href="#limit_market" title="Top of Your Choices to Limit Marketing">Top of Your Choices to Limit Marketing</a> <br>
 <a href="#Priv" title="Back to Top">Back to Top</a></p>
 
-<p></p><br>
-<p class="bodytext"></p><p class="bodytext" align="center"><strong>HOUSEHOLD INSURANCE GROUP HOLDING COMPANY**<br>
+<br>
+<p class="bodytext"></p><p class="bodytext alligncenter"><strong>HOUSEHOLD INSURANCE GROUP HOLDING COMPANY**<br>
 Privacy Statement for Customers with Insurance</strong></p>
 <br>
-<p>This paragraph applies only to customers with insurance products provided by Household Insurance Group Holding Company ("HIG"). HIG respects and protects your privacy. To administer the insurance requested by you or provided in connection with your account, HIG collects demographic information (like your name and address) and information related to insurance coverage (like information related to your account with HSBC or information related to your health). This information comes either directly from you, for instance from your application, or it may come from HSBC, such as information about your account, or it may come from a credit report or medical information bureau report. HIG takes great care to protect the privacy of this information. For example, the only employees or companies that can access such information are those who need it to provide services in connection with your insurance. Moreover, HIG maintains physical, electronic and procedural safeguards to protect against unauthorized use or disclosure of that information. HIG does not disclose information about you to their respective affiliates or to third parties, except as permitted by law.</p>
+<p>This paragraph applies only to customers with insurance products provided by
+Household Insurance Group Holding Company ("HIG"). HIG respects and
+protects your privacy. To administer the insurance requested by you or provided
+in connection with your account, HIG collects demographic information (like
+your name and address) and information related to insurance coverage (like
+information related to your account with HSBC or information related to your
+health). This information comes either directly from you, for instance from your
+application, or it may come from HSBC, such as information about your
+account, or it may come from a credit report or medical information bureau
+report. HIG takes great care to protect the privacy of this information. For
+example, the only employees or companies that can access such information
+are those who need it to provide services in connection with your insurance.
+Moreover, HIG maintains physical, electronic and procedural safeguards to
+protect against unauthorized use or disclosure of that information. HIG does not
+disclose information about you to their respective affiliates or to third parties,
+except as permitted by law.
+</p>
 <br>
-
-<p>** Household Insurance Group Holding Company (also under the trade name of HSBC Insurance Services or HSBC Insurance) includes Household Insurance Group, Inc., Household Life Insurance Company, HSBC Insurance Company of Delaware (formerly known as Service General Insurance Company), First Central National Life Insurance Company of New York, Household Life Insurance Company of Delaware, BFC Insurance Agency of Nevada, HSBC Insurance Agency (USA) Inc., and such other companies Household Insurance Group Holding Company may subsequently acquire.</p>
+<p>You have a right to see personal information collected about you and the right
+to correct any information, which may be wrong, by writing to us at the
+following address: Insurance Customer Service Operations, 90 Christiana Rd.,
+New Castle, DE 19720.
+</p>
 <br>
-
-<p align="center" class="bodytext"><a href="#limit_share" title="Top of Your Choices to Limit Sharing">Top of Your Choices to Limit Sharing</a>&nbsp;|&nbsp;<a href="#limit_market" title="Top of Your Choices to Limit Marketing">Top of Your Choices to Limit Marketing</a> <br>
+<p>** Household Insurance Group Holding Company (also under the trade name of
+HSBC Insurance Services or HSBC Insurance) includes Household Insurance
+Group, Inc., Household Life Insurance Company, HSBC Insurance Company of
+Delaware (formerly known as Service General Insurance Company), First
+Central National Life Insurance Company of New York, Household Life
+Insurance Company of Delaware, BFC Insurance Agency of Nevada, HSBC
+Insurance Agency (USA) Inc., and such other companies Household Insurance
+Group Holding Company may subsequently acquire.
+</p>
+<br>
+<p>IN00141</p>
+<br>
+<p class="alligncenter bodytext"><a href="#limit_share" title="Top of Your Choices to Limit Sharing">Top of Your Choices to Limit Sharing</a>&nbsp;|&nbsp;<a href="#limit_market" title="Top of Your Choices to Limit Marketing">Top of Your Choices to Limit Marketing</a> <br>
 <a href="#Priv" title="Back to Top">Back to Top</a></p>
 
 <br>
@@ -986,19 +1375,24 @@ Privacy Statement for Customers with Insurance</strong></p>
 
 
 		</div>
-		<div id="iw_content_restriction">
-		<!-- START contactus/cc_PrivacySecurity.html -->
-<p></p>
-	<p class="bodytext">
-</p><h1><a name="security_info">Security Information</a></h1>
-
-<p></p>
+		<div id="iw_content_restriction_3">
+		
 
 
 
-		<p class="bodytext">We understand that security is a prime concern for our customers, and our website strives to offer a high level of security:
 
-</p><ul>
+<!-- START contactus/cc_PrivacySecurity.html -->
+
+	<p class="bodytext"></p>
+<h1><a id="security_info">Security Information</a></h1>
+
+
+
+
+
+		<p class="bodytext">We understand that security is a prime concern for our customers, and our website strives to offer a high level of security:</p>
+
+<ul>
 <li>All Internet access must be completed using a browser that supports SSL encryption. All communications between you and our website are encrypted by a 128 bit secure link to protect the confidentiality of your data. State of the art monitoring systems and firewalls are used to prevent unauthorized access to our systems.</li>
 
 <li>Users are required to select their own Login ID and Password when they sign up, and can change it at any time. </li>
@@ -1009,122 +1403,128 @@ Privacy Statement for Customers with Insurance</strong></p>
 
 <li>We diligently maintain security measures that comply with applicable federal standards.</li>
 </ul>
-<p></p>
-<br>
-<p align="center" class="bodytext"><a href="#security_info">Top of Security Information</a><br>
-<a href="#top">Back to Top</a></p>
-
-
 
 <br>
-<p align="left" class="bodytext">
-<a href="#priv">Privacy</a>&nbsp;|&nbsp;<a href="#privacy_statement">Privacy Statement</a>&nbsp;|&nbsp;<a href="#limit_share">Your Choices to Limit Sharing</a>&nbsp;|&nbsp;<a href="#limit_market">Your Choices to Limit Marketing</a>&nbsp;|&nbsp;<a href="#security_info">Security Information</a>&nbsp;|&nbsp;<a href="#web_terms">Website Terms and Conditions</a>
+<p class="alligncenter bodytext"><a href="#security_info" title="Top of Security Information">Top of Security Information</a><br>
+<a href="#top" title="Back to Top">Back to Top</a></p>
+
+
+
+<br>
+<!--
+<p  class="allignlft bodytext">
+<a href='#priv' title="Privacy">Privacy</a>&nbsp;|&nbsp;<a href='#privacy_statement' title="Privacy Statement">Privacy Statement</a>&nbsp;|&nbsp;<a href='#limit_share' title="Your Choices to Limit Sharing">Your Choices to Limit Sharing</a>&nbsp;|&nbsp;<a href='#limit_market' title="Your Choices to Limit Marketing">Your Choices to Limit Marketing</a>&nbsp;|&nbsp;<a href='#security_info' title="Security Information">Security Information</a>&nbsp;|&nbsp;<a href='#web_terms' title="Website Terms and Conditions">Website Terms and Conditions</a>
 </p>
+-->
 <!-- END contactus/cc_PrivacySecurity.html -->
 
 
 
 
 		</div>
-		<div id="iw_content_restriction">
-		<!-- Start contactus/cc_PrivacyWebTermsCond_en_US_UP.html -->
+		<div id="iw_content_restriction_4">
+		
+
+
+
+<!-- Start contactus/cc_PrivacyWebTermsCond_en_US_UP.html -->
 <br>
-	<p class="bodytext">
-</p><h1><a name="web_terms">Website Terms And Conditions</a></h1>
+	<p class="bodytext"></p>
+<a id="web_terms">Website Terms And Conditions</a>
 
 <p class="bodytext">
 <a href="#web_terms1">Copyright and Other Intellectual Property</a> | <a href="#web_terms2">Limited Liability</a> | <a href="#web_terms3">NO WARRANTIES</a> | <a href="#web_terms4">Links</a> | <a href="#web_terms5">Children</a> | <a href="#web_terms6">Confidentiality of Information</a> | <a href="#web_terms7">Information and Cookies</a> | <a href="#web_terms8">Choice of Law</a> | <a href="#web_terms9">Website Content and Material</a> | <a href="#web_terms10">Waiver and Severability</a> | <a href="#web_terms11">Access to Secured Areas</a>
 </p>
 
 <br>
-		<p class="bodybold"><a name="web_terms1">Copyright and Other Intellectual Property</a></p><p class="bodytext"></p><p>HSBC Bank Nevada, N.A., or its corporate parents, affiliated companies, or subsidiaries (collectively "HSBC Bank Nevada" and/or its Affiliates") is the owner or the authorized user of this website and certain other websites linked to the site, as well as all text, images, graphics, photos, animation, music, sounds and other materials contained within these websites.</p>
+		<p class="bodybold"><a id="web_terms1">Copyright and Other Intellectual Property</a></p><p class="bodytext">HSBC Bank Nevada, N.A., or its corporate parents, affiliated companies, or subsidiaries (collectively "HSBC Bank Nevada" and/or its Affiliates") is the owner or the authorized user of this website and certain other websites linked to the site, as well as all text, images, graphics, photos, animation, music, sounds and other materials contained within these websites.</p>
 <br>
 <p>The materials contained within these websites, including, without limitation, any copyrights, trademarks, service marks, and all other proprietary materials, are protected by the U.S. and international copyright laws and treaty provisions, trademark laws, and other proprietary rights laws. The material contained within these websites is provided by HSBC Bank Nevada and/or its Affiliates only for lawful uses by customers, employees, and members of the general public. The material may not be copied, republished, incorporated into another website or reproduced (whether by linking, framing, or any other method), transmitted, distributed, uploaded, posted, used to create a derivative work or exploited in any other way without the express written consent of HSBC Bank Nevada.</p>
 <br>
-<p>HSBC holds a license to practice U.S. Patent Nos. 6,405,181; 6,567, 181; and 7,143,063.</p><p></p>
+<p>HSBC holds a license to practice U.S. Patent Nos. 6,405,181; 6,567, 181; and 7,143,063.</p>
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="web_terms2">Limited Liability</a></p><p class="bodytext"></p><p>NEITHER HSBC BANK NEVADA, ITS PARENT, AFFILIATES OR SUBSIDIARIES, OR ANY OTHER PARTY INVOLVED IN THE CREATION, PRODUCTION OR DELIVERY OF THE INFORMATION AT THIS SITE, NOR THE OFFICERS, DIRECTORS, EMPLOYEES OR REPRESENTATIVES OF ANY OF THE FOREGOING, ARE LIABLE IN ANY WAY FOR ANY DIRECT, SPECIAL, PUNITIVE, CONSEQUENTIAL, OR INDIRECT DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS, COST OF PROCURING SUBSTITUTE SERVICE OR LOST OPPORTUNITY) ARISING OUT OF OR IN CONNECTION WITH THIS SITE OR THE USE OF THIS SITE OR A LINKED SITE OR WITH THE DELAY OR INABILITY TO USE THIS SITE OR A LINKED SITE, WHETHER OR NOT HSBC BANK NEVADA IS MADE AWARE OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION INCLUDES, BUT IS NOT LIMITED TO, THE TRANSMISSION OF ANY VIRUSES, TROJAN HORSES OR HARMFUL CODE THAT MAY AFFECT A USER'S EQUIPMENT, ANY INCOMPATIBILITY BETWEEN THIS SITE'S FILES AND THE USER'S BROWSER OR OTHER SITE ACCESSING PROGRAM, FAILURE OF ANY ELECTRONIC OR TELEPHONE EQUIPMENT, COMMUNICATION OR CONNECTION LINES, UNAUTHORIZED ACCESS, THEFT, OPERATOR ERRORS, OR ANY FORCE MAJEURE. HSBC BANK NEVADA DOES NOT GUARANTEE CONTINUOUS, UNINTERRUPTED OR SECURE ACCESS TO THIS SITE OR A LINKED SITE. THE CONTENT, ACCURACY, OPINIONS EXPRESSED, AND OTHER LINKS PROVIDED BY THE LINKED SITES ARE NOT INVESTIGATED, VERIFIED, MONITORED OR ENDORSED BY HSBC BANK NEVADA. THE INFORMATION, SOFTWARE, PRODUCTS AND DESCRIPTION OF SERVICES PUBLISHED ON THE SITE OR A LINKED SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS, AND HSBC BANK NEVADA SPECIFICALLY DISCLAIMS ANY LIABILITY FOR SUCH INACCURACIES OR ERRORS. CHANGES ARE PERIODICALLY MADE TO THE INFORMATION ON THE SITE AND LINKED SITES. HSBC BANK NEVADA MAY MAKE IMPROVEMENTS OR CHANGES TO THE SITE AT ANY TIME.</p>
-<p></p>
+		<p class="bodybold"><a id="web_terms2">Limited Liability</a></p><p class="bodytext">NEITHER HSBC BANK NEVADA, ITS PARENT, AFFILIATES OR SUBSIDIARIES, OR ANY OTHER PARTY INVOLVED IN THE CREATION, PRODUCTION OR DELIVERY OF THE INFORMATION AT THIS SITE, NOR THE OFFICERS, DIRECTORS, EMPLOYEES OR REPRESENTATIVES OF ANY OF THE FOREGOING, ARE LIABLE IN ANY WAY FOR ANY DIRECT, SPECIAL, PUNITIVE, CONSEQUENTIAL, OR INDIRECT DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS, COST OF PROCURING SUBSTITUTE SERVICE OR LOST OPPORTUNITY) ARISING OUT OF OR IN CONNECTION WITH THIS SITE OR THE USE OF THIS SITE OR A LINKED SITE OR WITH THE DELAY OR INABILITY TO USE THIS SITE OR A LINKED SITE, WHETHER OR NOT HSBC BANK NEVADA IS MADE AWARE OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION INCLUDES, BUT IS NOT LIMITED TO, THE TRANSMISSION OF ANY VIRUSES, TROJAN HORSES OR HARMFUL CODE THAT MAY AFFECT A USER'S EQUIPMENT, ANY INCOMPATIBILITY BETWEEN THIS SITE'S FILES AND THE USER'S BROWSER OR OTHER SITE ACCESSING PROGRAM, FAILURE OF ANY ELECTRONIC OR TELEPHONE EQUIPMENT, COMMUNICATION OR CONNECTION LINES, UNAUTHORIZED ACCESS, THEFT, OPERATOR ERRORS, OR ANY FORCE MAJEURE. HSBC BANK NEVADA DOES NOT GUARANTEE CONTINUOUS, UNINTERRUPTED OR SECURE ACCESS TO THIS SITE OR A LINKED SITE. THE CONTENT, ACCURACY, OPINIONS EXPRESSED, AND OTHER LINKS PROVIDED BY THE LINKED SITES ARE NOT INVESTIGATED, VERIFIED, MONITORED OR ENDORSED BY HSBC BANK NEVADA. THE INFORMATION, SOFTWARE, PRODUCTS AND DESCRIPTION OF SERVICES PUBLISHED ON THE SITE OR A LINKED SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS, AND HSBC BANK NEVADA SPECIFICALLY DISCLAIMS ANY LIABILITY FOR SUCH INACCURACIES OR ERRORS. CHANGES ARE PERIODICALLY MADE TO THE INFORMATION ON THE SITE AND LINKED SITES. HSBC BANK NEVADA MAY MAKE IMPROVEMENTS OR CHANGES TO THE SITE AT ANY TIME.</p>
+
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="web_terms3">NO WARRANTIES</a></p><p class="bodytext"></p><p>ALL PRODUCTS, SERVICES AND CONTENT ON THIS SITE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, OR ACCURACY. NEITHER HSBC BANK NEVADA NOR ITS PARENT, AFFILIATES OR SUBSIDIARIES ENDORSES AND NONE ARE RESPONSIBLE FOR THE ACCURACY OR RELIABILITY OF ANY INFORMATION ON THIS SITE. IT IS THE RESPONSIBILITY OF THE USER TO EVALUATE THE ACCURACY, RELIABILITY, TIMELINESS AND COMPLETENESS OF ANY INFORMATION AVAILABLE ON THIS SITE. HSBC BANK NEVADA SPECIFICALLY DISCLAIMS ANY DUTY TO UPDATE THE INFORMATION ON THE SITE.</p>
+		<p class="bodybold"><a id="web_terms3">NO WARRANTIES</a></p><p class="bodytext">ALL PRODUCTS, SERVICES AND CONTENT ON THIS SITE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, OR ACCURACY. NEITHER HSBC BANK NEVADA NOR ITS PARENT, AFFILIATES OR SUBSIDIARIES ENDORSES AND NONE ARE RESPONSIBLE FOR THE ACCURACY OR RELIABILITY OF ANY INFORMATION ON THIS SITE. IT IS THE RESPONSIBILITY OF THE USER TO EVALUATE THE ACCURACY, RELIABILITY, TIMELINESS AND COMPLETENESS OF ANY INFORMATION AVAILABLE ON THIS SITE. HSBC BANK NEVADA SPECIFICALLY DISCLAIMS ANY DUTY TO UPDATE THE INFORMATION ON THE SITE.</p>
 <br>
 <p>USER AGREES TO INDEMNIFY, DEFEND, AND HOLD HSBC BANK NEVADA HARMLESS FROM ANY LIABILITY, LOSS, CLAIM AND EXPENSE, INCLUDING ATTORNEY'S FEES RELATED TO A USERS VIOLATION OF THESE TERMS OF USE OR THE USE OF THE SERVICES AND INFORMATION PROVIDED AT THIS SITE.
 </p>
-<p></p>
+
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="web_terms4">Links</a></p><p class="bodytext"></p><p>Clicking on certain links within this website or certain other websites that are linked to this website may take you to other websites, or may display information on your computer screen from other websites, which are not maintained by HSBC Bank Nevada. Such websites may contain terms and conditions, privacy provisions, confidentiality provisions, or other provisions that differ from the terms and conditions applicable to this website. Links to other Internet services and websites are provided solely for the convenience of users. A link to any service or website is not an endorsement of any kind of the service or website, its content, or its sponsoring organization.</p>
+		<p class="bodybold"><a id="web_terms4">Links</a></p><p class="bodytext">Clicking on certain links within this website or certain other websites that are linked to this website may take you to other websites, or may display information on your computer screen from other websites, which are not maintained by HSBC Bank Nevada. Such websites may contain terms and conditions, privacy provisions, confidentiality provisions, or other provisions that differ from the terms and conditions applicable to this website. Links to other Internet services and websites are provided solely for the convenience of users. A link to any service or website is not an endorsement of any kind of the service or website, its content, or its sponsoring organization.</p>
 <br>
 <p>HSBC BANK NEVADA AND ITS CORPORATE PARENTS, AFFILIATES, AND SUBSIDIARIES ASSUME NO RESPONSIBILITY OR LIABILITY WHATSOEVER FOR THE CONTENT, ACCURACY, RELIABILITY OR OPINIONS EXPRESSED IN A WEBSITE, TO WHICH THIS SITE IS LINKED (A "LINKED SITE") AND SUCH LINKED SITES ARE NOT MONITORED, INVESTIGATED, OR CHECKED FOR ACCURACY OR COMPLETENESS BY HSBC BANK NEVADA. IT IS THE RESPONSIBILITY OF THE USER TO EVALUATE THE ACCURACY, RELIABILITY, TIMELINESS AND COMPLETENESS OF ANY INFORMATION AVAILABLE ON A LINKED SITE. ALL PRODUCTS, SERVICES AND CONTENT OBTAINED FROM A LINKED SITE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, OR ACCURACY.</p>
-<p></p>
+
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="web_terms5">Children</a></p><p class="bodytext"></p><p>HSBC Bank Nevada does not knowingly market to, or solicit, or collect personal information from children under age 18.</p>
-<p></p>
+		<p class="bodybold"><a id="web_terms5">Children</a></p><p class="bodytext">HSBC Bank Nevada does not knowingly market to, or solicit, or collect personal information from children under age 18.</p>
+
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="web_terms6">Confidentiality of Information</a></p><p class="bodytext"></p><p>HSBC Bank Nevada has taken reasonable steps to ensure the confidentiality of information taken at this website and transmitted via the Internet.  HSBC Bank Nevada uses Secure Socket Layer (SSL) technology. During an SSL session, data passed back and forth between your computer and the HSBC Bank Nevada online card server is secured by using public key cryptography. Your computer exchanges key information with HSBC Bank Nevada computers to create a private conversation that only your computer and HSBC Bank Nevada's system can understand. However, unexpected changes in technology may be used by unauthorized third parties to intercept confidential information and we cannot be responsible should confidential information be intercepted and subsequently used by an unintended recipient. </p>
-<p></p>
+		<p class="bodybold"><a id="web_terms6">Confidentiality of Information</a></p><p class="bodytext">HSBC Bank Nevada has taken reasonable steps to ensure the confidentiality of information taken at this website and transmitted via the Internet.  HSBC Bank Nevada uses Secure Socket Layer (SSL) technology. During an SSL session, data passed back and forth between your computer and the HSBC Bank Nevada online card server is secured by using public key cryptography. Your computer exchanges key information with HSBC Bank Nevada computers to create a private conversation that only your computer and HSBC Bank Nevada's system can understand. However, unexpected changes in technology may be used by unauthorized third parties to intercept confidential information and we cannot be responsible should confidential information be intercepted and subsequently used by an unintended recipient. </p>
+
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="web_terms7">Information and Cookies</a></p><p class="bodytext"></p><p>HSBC Bank Nevada may collect and receive the URL you came from, the pages of HSBC Bank Nevada website that were viewed during a visit, the advertisements you clicked, any search terms that you entered to reach our site, and certain other information regarding your internet use. See HSBC Bank Nevada's Privacy Statement for how this information may be used, click here to view  <a href="#privacy_statement" title="Privacy Statement"><b>Privacy Statement</b></a>. Some of HSBC Bank Nevada's websites may also make use of "cookie" technology to measure site activity, determine how you arrived at our site and maintain your identity as you navigate through the website. HSBC Bank Nevada's websites require cookies to allow you to view your statements and transactions online. A cookie is an element of data that a website can send to your browser, which may then store the cookie on your hard drive. Cookies make visiting a website easier for you by saving your preferences while you are at the site. The use of cookies is an industry standard and you will find them at many websites. HSBC Bank Nevada uses the information from cookies to provide services that are customized to your needs.</p>
+		<p class="bodybold"><a id="web_terms7">Information and Cookies</a></p><p class="bodytext">HSBC Bank Nevada may collect and receive the URL you came from, the pages of HSBC Bank Nevada website that were viewed during a visit, the advertisements you clicked, any search terms that you entered to reach our site, and certain other information regarding your internet use. See HSBC Bank Nevada's Privacy Statement for how this information may be used, click here to view  <a href="#privacy_statement" title="Privacy Statement"><b>Privacy Statement</b></a>. Some of HSBC Bank Nevada's websites may also make use of "cookie" technology to measure site activity, determine how you arrived at our site and maintain your identity as you navigate through the website. HSBC Bank Nevada's websites require cookies to allow you to view your statements and transactions online. A cookie is an element of data that a website can send to your browser, which may then store the cookie on your hard drive. Cookies make visiting a website easier for you by saving your preferences while you are at the site. The use of cookies is an industry standard and you will find them at many websites. HSBC Bank Nevada uses the information from cookies to provide services that are customized to your needs.</p>
 <br>
 <p>HSBC Bank Nevada may also use third party advertising companies to serve HSBC Bank Nevada's ads on the Internet. These third party advertising companies also employ cookie technology to measure the effectiveness of ads. To do so, these companies may use information about your visits to HSBC Bank Nevada's website and other websites. Unless otherwise notified, these advertising companies do not use names, addresses, e-mail addresses or telephone numbers, and do not link any online actions or cookies to an identifiable person. The use of their cookies is subject to their own privacy policy.
 </p>
 <br>
 <p>If you want to prevent a third party advertiser from sending and reading cookies on your computer, currently you must visit each ad network's website individually and opt-out.
-</p><p></p>
+</p>
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="web_terms8">Choice of Law</a></p><p class="bodytext"></p><p>All website activity or use and these Terms and Conditions are governed by the laws of the United States of America and the laws of the State of Nevada, without regard to conflict of law principles.</p>
-<p></p>
+		<p class="bodybold"><a id="web_terms8">Choice of Law</a></p><p class="bodytext">All website activity or use and these Terms and Conditions are governed by the laws of the United States of America and the laws of the State of Nevada, without regard to conflict of law principles.</p>
+
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="web_terms9">Website Content and Material</a></p><p class="bodytext"></p><p>The information and materials contained in this website, including but not limited to these Terms and Conditions and any product information, are subject to change without notice. Users are deemed to be apprised of and bound by any such changes. Not all products and services are available in all geographic areas. Your eligibility for particular products and services is subject to final determination and acceptance by HSBC Bank Nevada. </p>
-<p></p>
+		<p class="bodybold"><a id="web_terms9">Website Content and Material</a></p><p class="bodytext">The information and materials contained in this website, including but not limited to these Terms and Conditions and any product information, are subject to change without notice. Users are deemed to be apprised of and bound by any such changes. Not all products and services are available in all geographic areas. Your eligibility for particular products and services is subject to final determination and acceptance by HSBC Bank Nevada. </p>
+
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="web_terms10">Waiver and Severability</a></p><p class="bodytext"></p><p>Any waiver of any provision contained in these Terms and Conditions shall not be deemed to be a waiver of any other right, term or provision of these Terms and Conditions. If any provision in these Terms and Conditions shall be or become wholly or partially invalid, illegal or unenforceable, such provision shall be enforced to the extent it is legal and valid and the validity, legality and enforceability of the remaining provisions shall in no way be affected or impaired thereby.</p>
-<p></p>
+		<p class="bodybold"><a id="web_terms10">Waiver and Severability</a></p><p class="bodytext">Any waiver of any provision contained in these Terms and Conditions shall not be deemed to be a waiver of any other right, term or provision of these Terms and Conditions. If any provision in these Terms and Conditions shall be or become wholly or partially invalid, illegal or unenforceable, such provision shall be enforced to the extent it is legal and valid and the validity, legality and enforceability of the remaining provisions shall in no way be affected or impaired thereby.</p>
+
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 <br>
-		<p class="bodybold"><a name="web_terms11">Access to Secured Areas</a></p><p class="bodytext"></p><p>Access to and use of password protected and/or secure areas of this website is restricted to authorized users only. Unauthorized persons attempting to access these areas of the website may be subject to prosecution.</p>
+		<p class="bodybold"><a id="web_terms11">Access to Secured Areas</a></p><p class="bodytext">Access to and use of password protected and/or secure areas of this website is restricted to authorized users only. Unauthorized persons attempting to access these areas of the website may be subject to prosecution.</p>
 <br>
 <p>Updates: These Terms and Conditions were last updated May 1, 2009. Please check periodically for changes.</p>
 
 <br>
-<p align="center" class="bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
+<p class="alligncenter bodytext"><a href="#web_terms" title="Top of Website Terms and Conditions">Top of Website Terms and Conditions</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 
 
 
 <br>
-<p class="bodytext">
-</p><h1><a name="error_res">Notice of Error Resolution Procedures</a></h1>
+<p class="bodytext"></p>
+<h1><a id="error_res">Notice of Error Resolution Procedures</a></h1>
 
-<p></p>The following annual notice is being provided to you, because you are enrolled in HSBC Card Services’ Online Bill Payment Service for your general purpose credit card.  This notice provides important information regarding the procedures for notification on any errors or questions about your online bill payments.<br>
+The following annual notice is being provided to you, because you are enrolled in HSBC Card Services’ Online Bill Payment Service for your general purpose credit card.  This notice provides important information regarding the procedures for notification on any errors or questions about your online bill payments.<br>
 <p><strong>This is not a notification of an error on your account.</strong></p> 
 <p>Please read the notice below and retain it for your records.</p> 
 ====================================================== 
@@ -1152,15 +1552,15 @@ For errors involving new accounts, point-of-sale, or foreign-initiated transacti
 <br><br>  
 We will tell you the results within three business days after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of the documents that we used in our investigation.
 
-<p></p>
 
-<p align="center" class="bodytext"><a href="#error_res" title="Top of Notice of Error Resolution Procedures">Top of Notice of Error Resolution Procedures</a><br>
+
+<p class="alligncenter bodytext"><a href="#error_res" title="Top of Notice of Error Resolution Procedures">Top of Notice of Error Resolution Procedures</a><br>
 <a href="#priv" title="Back to Top">Back to Top</a></p>
 
 
 <br>
 
-<p align="left" class="bodytext">
+<p class="allignlft bodytext">
 <a href="#priv" title="Privacy">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="#privacy_statement" title="Privacy Statement">Privacy Statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="#limit_share" title="Your Choice to Limit Sharing">Your Choice to Limit Sharing</a>&nbsp;&nbsp;|
@@ -1187,9 +1587,12 @@ We will tell you the results within three business days after completing our inv
 
 
 
+    
 		
 
+ 
 
+    <script type="text/javascript">initFM();</script> 
 
 	
 	<!-- page_footer.jsp -->
@@ -1210,6 +1613,11 @@ We will tell you the results within three business days after completing our inv
 
 
 
+<!-- /////////  Changes for AutoLogoff/////////////////// -->
+  
+<!-- //////// End Changes for AutoLogoff ///////////////// -->
+
+
 	
          
 
@@ -1223,10 +1631,15 @@ We will tell you the results within three business days after completing our inv
 				<!-- Start htsonly/footer_nli_en_US_UP.html -->
 
 <!-- Start chat code for eStara -->
-<script type="text/javascript"> if(typeof(window.addEventListener)!='undefined'){ window.addEventListener('load',eStara_loadlr,false); }else if(typeof(document.addEventListener)!='undefined'){ document.addEventListener('load',eStara_loadlr,false); }else if(typeof(window.attachEvent)!='undefined'){ window.attachEvent('onload',eStara_loadlr); } function eStara_quick_append(u){ var s=document.createElement('script'); s.setAttribute('type','text/javascript'); s.setAttribute('src',u); s.setAttribute('charset','UTF-8'); if(typeof(window.attachEvent)!='undefined') document.body.appendChild(s); else  document.getElementsByTagName('head').item(0).appendChild(s); } function eStara_loadlr(){ try{ eStara_quick_append('//as00.estara.com/fs/lr.php?onload=1&accountid=200106280255',0); }catch(e){} }</script>
+<script type="text/javascript">
+<!--
+if(typeof(window.addEventListener)!='undefined'){ window.addEventListener('load',eStara_loadlr,false); }else if(typeof(document.addEventListener)!='undefined'){ document.addEventListener('load',eStara_loadlr,false); }else if(typeof(window.attachEvent)!='undefined'){ window.attachEvent('onload',eStara_loadlr); } function eStara_quick_append(u){ var s=document.createElement('script'); s.setAttribute('type','text/javascript'); s.setAttribute('src',u); s.setAttribute('charset','UTF-8'); if(typeof(window.attachEvent)!='undefined') document.body.appendChild(s); else  document.getElementsByTagName('head').item(0).appendChild(s); } function eStara_loadlr(){ try{ var qappend=decodeURIComponent('//as00.estara.com/fs/lr.php?onload=1%26accountid=200106280255');
+eStara_quick_append(qappend,0); }catch(e){} }
+-->
+</script>
 <!-- End chat code for eStara -->
 
-<table align="center" border="0"><tbody><tr><td align="center">
+<table class="table_center" border="0"><tbody><tr><td class="align_center">
 <div id="bottom_nav">
 <!-- this div is for spacing above the footer -->
 <div style="height: 20px;">&nbsp;</div>
@@ -1235,10 +1648,11 @@ We will tell you the results within three business days after completing our inv
 <a href="/ecare/privacy_nli#web_Terms" title="Website Terms &amp; Conditions">Website Terms &amp; Conditions</a> |
 <a href="/ecare/faqsecurity#browser_support" title="Supported Browsers">Supported Browsers</a> | 
 <a href="/ecare/sitemap_nli" title="Site Map">Site Map</a> | 
-<a href="http://www.ouraccessibility.com" title="Accessibility" target="_new">Accessibility</a>
+<a href="http://www.ouraccessibility.com" title="Accessibility- this link will open in a new window" target="_new">Accessibility<span class="spanhide">- link opens in new browser window</span></a> |<br>
+<a href="/ecare/requestaccount_nli" title="Request Cardmember Agreements">Request Agreements</a> 
 <div>
 <br>
-© Copyright HSBC  Finance Corporation. 2009. All rights reserved.<br><br>Credit Cards issued by HSBC Bank Nevada, N.A.
+ Copyright HSBC Finance Corporation. 2010. All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Credit Cards issued by HSBC Bank Nevada, N.A.
 </div>
 </div>
 </td></tr></tbody></table>
@@ -1249,10 +1663,12 @@ We will tell you the results within three business days after completing our inv
 	
 
 <div id="disclosureDivId" style="display: none;">
+
+
+
+
 <!-- Start common/cc_Weblinking.html -->
-<font color="gray">
-‡ This is a link to a 3rd party website. By clicking, you will leave the HSBC website.  Third party websites are not related to or under the control of HSBC, its affiliates or subsidiaries.  The owner of the website is solely responsible for the products, services and content on its site. That site may have a privacy policy different from HSBC. HSBC provides links as a convenience and is not responsible for the content or security of any linked web page.
-</font>
+.This is a link to a 3rd party website. By clicking, you will leave the HSBC website.  Third party websites are not related to or under the control of HSBC, its affiliates or subsidiaries.  The owner of the website is solely responsible for the products, services and content on its site. That site may have a privacy policy different from HSBC. HSBC provides links as a convenience and is not responsible for the content or security of any linked web page.
 <!-- End common/cc_Weblinking.html -->
 
 
@@ -1265,12 +1681,12 @@ We will tell you the results within three business days after completing our inv
 
     
 
-<script>
+<script type="text/javascript">
 	var destpath = "Redirect_Privacy";
 	var footer_int = "null";
 </script>
 
-<script language="javascript">
+ <script type="text/javascript">
 if (showWebLinkingDisclosure)
 {
 var disclosureDiv = document.getElementById("disclosureDivId");
@@ -1282,7 +1698,6 @@ disclosureDiv.style.display = "";
 <!-- May 08 changes starts -->
 
 <!-- cc_WebtrendsCommon_content.jsp -->
-
  
 
 
@@ -1305,7 +1720,6 @@ if(typeof(HSBC)!="undefined")
 	
 	HSBC.LOG.dcsuri=newurl;
 }
-
 </script>
 
 
@@ -1314,13 +1728,15 @@ if(typeof(HSBC)!="undefined")
 
 <!-- May 08 changes ends -->
 
-<script language="javaScript" src="/ecare/control/wt/bottom_section.js"></script>
+ <script type="text/javascript" src="/ecare/control/wt/bottom_section.js"></script>
+  
+ 
     				
 </div>
 </div>
+
+
 </div>
-
-
 
 
 
