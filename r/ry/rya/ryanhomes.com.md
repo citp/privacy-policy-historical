@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217003843id_/http%3A//www.ryanhomes.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622001618id_/http%3A//www.ryanhomes.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Ryan Homes - Privacy Policy
 
