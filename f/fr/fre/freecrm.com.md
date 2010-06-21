@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecrm.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031013006id_/http%3A//www.freecrm.com/privacy.html%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D650%26width%3D900) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecrm.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621132512id_/http%3A//www.freecrm.com/privacy.html%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D650%26width%3D900) for the most accurate reproduction.*
 
 # Free CRM Privacy Policy effective 06.13.2008
 
