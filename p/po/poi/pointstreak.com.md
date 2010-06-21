@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220021406id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622005700id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
 # Pointstreak.com | privacy policy | The Leader in Sports Management Solutions
 
-Pointstreak.com Inc. strongly believes in keeping the trust of our leagues, players, partners and employees. We believe that by protecting the personal information of our customers and maintaining a high level of integrity, we will help accelerate the rate at which people are comfortable with using our innovative service. This privacy policy is designed to inform you, the user, about what information Pointstreak gathers about you, how this information is used and how it is protected.
+Pointstreak Sports Technologies Inc. strongly believes in keeping the trust of our leagues, players, partners and employees. We believe that by protecting the personal information of our customers and maintaining a high level of integrity, we will help accelerate the rate at which people are comfortable with using our innovative service. This privacy policy is designed to inform you, the user, about what information Pointstreak gathers about you, how this information is used and how it is protected.
 
 Your Personal Information
 
@@ -26,12 +26,13 @@ User Information Accuracy
 
 * * *
 
-Questions regarding Pointstreak's privacy policy or the use of the information collected should be directed via email to [info@pointstreak.com](mailto:info@pointstreak.com), by telephone at (604) 734-3585, or by mail to: 
+Questions regarding Pointstreak's privacy policy or the use of the information collected should be directed via email to [info@pointstreak.com](mailto:info@pointstreak.com), or by mail to: 
 
-Pointstreak.com Inc.  
-1627 West Broadway, Suite #202  
+Pointstreak Sport Technologies Inc.  
+400 – 999 West Broadway Avenue  
 Vancouver, BC  
-V6J 1W9
+Canada  
+V5Z 1K5
 
 Questions regarding the accuracy of your personal information or hockey statistics should be taken up with your league or database administrator - NOT Pointstreak staff or management.
 
@@ -51,7 +52,7 @@ Effect of Privacy Policy
 
 * * *
 
-This privacy policy is effective and up-to-date as of November 1st, 2001. Pointstreak reserves the right to change this policy at any time and will post any changes to this policy as soon as they go into effect.  
+This privacy policy is effective and up-to-date. Pointstreak reserves the right to change this policy at any time and will post any changes to this policy as soon as they go into effect.  
 
 
 * * *
