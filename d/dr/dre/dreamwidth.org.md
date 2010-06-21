@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamwidth.org privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212002216id_/http%3A//www.dreamwidth.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamwidth.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621064725id_/http%3A//www.dreamwidth.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,13 +56,33 @@ By choosing to make any personally-identifying information public, you recognize
 
 From time to time, we may allow you to provide us with your login credentials for a site that is not owned and operated by us in order to allow you to integrate data from that external service to your Dreamwidth account. Examples of this include the journal import feature and the entry crosspost feature. Providing us this information is completely optional. Your login credentials are only used for the purposes of these features, and are not used for any other purpose.
 
+## Account contents
+
+You may optionally post content to your account with varying security levels. To the best of our ability, and limited only by the possibility of bugs or technical difficulties, we will honor the security levels you choose for your content and display that content only to those whom you have authorized to see it.
+
+While maintaining the site, Dreamwidth staff may need to view the contents of your account, including information for which you have chosen a restrictive security level. Circumstances in which this is necessary include, but are not limited to: troubleshooting and diagnosing technical problems, investigating possible Terms of Service violations, and legal compliance issues.
+
+Dreamwidth staff only use the ability to override your chosen security levels during the course of these investigations. At no time is your secured content disclosed to any third party, except when required by law. Any use of this ability is logged and regularly audited.
+
+## Financial information and transactions
+
+You can engage in financial transactions with Dreamwidth to purchase enhancements for your account. These transactions are optional. If you choose to purchase enhanced services, you will be asked to provide financial information to complete the transaction. There are several payment methods available, each of which requires disclosure of certain personal and financial information. The specifics of these methods of payment are as follows:
+
+**Credit cards** : If you pay by credit card, we need you to provide your credit card number, your full name as it appears on the card, your address as it appears on the card statment, and the CVN or Card Verification Number. This information is required so we can authorize and charge your credit card. Your financial information is protected by industry-standard encryption methods. It is never stored on our servers: we pass it immediately along to our processor for the sole purpose of completing the authorized transaction.
+
+**Checks** : If you pay by check, we need you to provide us with a check printed with your bank's routing code and your account number, your name, and your address. This information is required so our bank can transfer funds from your account to ours. We use this information only for the purpose of the single transaction represented by the check, however, our bank retains, on their servers, permanent electronic scans of all checks deposited into our account.
+
+**Money orders** : If you pay by money order, we need you to provide us with a money order or international money order (as appropriate depending on the country in which you're currently living). We do not require the disclosure of any personal information to use a money order as payment beyond a signature on the face of the money order. However, the location that issues your money order may require you to write additional personal information on the money order. Our bank retains, on their servers, permanent electronic scans of all money orders deposited into our account.
+
+In all cases, Dreamwidth collects this personal and financial information only as necessary or appropriate for the completion of the single requested transaction. Any additional personally-identifying but non-financial information you disclose during these transactions will be governed by the "Disclosure of personally-identifying information" provisions below.
+
 ## Disclosure of personally-identifying information
 
 We disclose personally-identifying information only to those of our employees and contractors who (i) need to know that information in order to operate the service and (ii) have agreed not to disclose it to others. Some of these employees and contractors may be located outside your home country. By using this website, you consent to the transfer of your information to them.
 
 If all of our assets were transferred or acquired, your information would be one of the assets that is transferred or acquired by a third party.
 
-We may disclose potentially personally-identifying and personally-identifying information when that release is required by law or by court order, or when we believe in good faith that disclosure is reasonably necessary to protect the property, safety, or rights of us, third parties, or the public at large.
+We may disclose potentially personally-identifying and personally-identifying information when that release is required by law or by court order, or when we believe in good faith that disclosure is reasonably necessary to protect the safety or rights of us, third parties, or the public at large.
 
 ## Special rules regarding children
 
@@ -109,7 +129,6 @@ From time to time, we may contract with outside vendors to provide business serv
 Our current business vendors are:
 
   * [Google Business Services](http://www.google.com/services/): We use Google Business Services for their Google Analytics service. For information on how Google Business Services may use your information, see [Google's Privacy Center](http://www.google.com/intl/en_ALL/privacy.html). Google Analytics collects aggregate data on site usage, such as browser type and the navigational paths our users use, which helps us make decisions about how to improve the site. Some users may also have added Google Analytics code to their journals. To opt out of your site use being included in our Google Analytics report, you can use a browser plugin to block the JavaScript being served by google-analytics.com. 
-  * [PayPal Merchant Processing](https://www.paypal.com/us/): We use PayPal to allow users to make payments for their accounts. For information on how PayPal may use your information, see [PayPal's Privacy Policy](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). To opt out of using PayPal Merchant Processing, you can decline to make a payment for your account, or use an alternate payment method. 
 
 
 
@@ -125,4 +144,4 @@ If you have questions about this policy, you can contact us at privacy@dreamwidt
 
 This privacy policy is based on one developed by Automattic (http://automattic.com/privacy/) and is licensed under a Creative Commons Attribution-ShareAlike 2.5 License.
 
-Last revised February 15, 2009
+Last revised June 6, 2010
