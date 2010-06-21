@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiotv.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217234637id_/http%3A//www.whiotv.com/station/1920899/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiotv.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621115040id_/http%3A//www.whiotv.com/station/1920899/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - WHIO-TV News Story - WHIO Dayton
 
