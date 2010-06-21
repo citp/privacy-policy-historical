@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sodahead.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220045707id_/http%3A//www.sodahead.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodahead.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621135922id_/http%3A//www.sodahead.com/about-us/privacy) for the most accurate reproduction.*
 
 # SodaHead.com - Privacy
 
