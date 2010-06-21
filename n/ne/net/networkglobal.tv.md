@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkglobal.tv privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216072400id_/http%3A//www.networkglobal.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkglobal.tv privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621081050id_/http%3A//www.networkglobal.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # Network Global
 
@@ -60,7 +60,7 @@ Please contact NetworkGlobal.tv with any questions or comments about this Privac
 
 NetworkGlobal.tv does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks NetworkGlobal.tv to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the NetworkGlobal.tv Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. 
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. NetworkGlobal.tv �s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web Site. 
+You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. NetworkGlobal.tv 's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web Site. 
 
 **Our Commitment To Data Security**
 
