@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218062006id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.co.uk privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621133619id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
 
-# Amazon.co.uk: Help > Security & Privacy > Privacy Notice
+# Amazon.co.uk Help: Privacy Notice
+
+|  ****
 
 [Changes to the Privacy Notice February 17, 2009](https://web.archive.org/gp/help/customer/display.html?nodeId=200321100)
 
@@ -128,3 +130,7 @@ the future we may offer joint or co-branded products and services such as those 
 Examples of information you can access easily at Amazon.co.uk include: up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalised advertising preferences, address book and 1-Click settings); payment settings (including credit-card information and gift certificate, gift card and cheque balances); e-mail notification settings (including Alerts, Available to Order notifications, Delivers, Recommended for You and newsletters); recommendations (including recent product-view history, prior-order history and Favourites); Wish Lists and Marketplace seller accounts and Your Profile (including your product Reviews, Requests and Recommendations, your Listmania lists, "So You'd Like to..." guides, personal profile, people you tagged as interesting, and Amazon Friends).
 
 [Back to top](https://web.archive.org/gp/help/customer/display.html?nodeId=502584#Top)
+
+Amazon.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Amazon.co.uk.
+
+| 
