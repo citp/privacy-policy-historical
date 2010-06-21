@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waow.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220020235id_/http%3A//www.waow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waow.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621035226id_/http%3A//www.waow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WAOW - Newsline 9, Wausau News, Weather, Sports
 
