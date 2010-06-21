@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtc.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918102032id_/http%3A//www.vtc.com/modules/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtc.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621161235id_/http%3A//www.vtc.com/modules/content/privacy.php) for the most accurate reproduction.*
 
 # Online software tutorials, training CDs, Photoshop Tutorials, Dreamweaver Tutorials, Apple Tutorials from vtc.com
 
