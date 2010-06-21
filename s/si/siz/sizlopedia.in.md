@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sizlopedia.in privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928151849id_/http%3A//www.sizlopedia.in/%3Fpage_id%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sizlopedia.in privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622011421id_/http%3A//sizlopedia.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Sizlopedia
+
+## Privacy
 
 ### sizlopedia respects your privacy
 
