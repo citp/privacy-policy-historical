@@ -1,36 +1,32 @@
-> *The following text is extracted and transformed from the arise.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830215439id_/http%3A//www.arise.com/Content/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arise.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621022320id_/http%3A//www.arise.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Real Home Based Business Opportunity - Arise - At Home
+# Privacy Policy | Arise.com
 
-Arise is committed to respecting and protecting your personal privacy. Our Privacy Policy is explained below. 
+## Arise Respects and Protects Your Personal Privacy.
 
-**What Does the Arise Privacy Policy Cover?  
-**The Privacy Policy applies to all information submitted on this Web site.
+****You will find a full explanation of our Privacy Policy below. ****
 
-**What Information Does Arise Collect From You?**  
-You can visit our site without having to tell us who you are or reveal any personally identifiable information to us. It is only when you apply on this Web site to become an Arise Certified Professional that you will be asked to provide us with personally identifiable information directly relevant to becoming an Arise Certified Professional.
+**What does the Arise Privacy Policy cover?  
+** The Privacy Policy applies to all information submitted on this Web site.
 
-Whenever you visit this Web site, even if you have not applied to become an Arise Certified Professional, our web server automatically logs your IP address. We may analyze the IP address data for trends and statistics about Web traffic to this site. We may also use this data to help diagnose any problems with our server and to administer this Web site. Unless you apply to become an Arise Certified Professional, we do not link IP Addresses to a specific person so that you will remain anonymous to us. 
+**What information does Arise collect from you?**  
+You can visit our site without having to tell us who you are or reveal any identifiable personal information to us. It is only when you apply on this Web site to become an Arise Certified Professional that you will be asked to provide us with identifiable personal information directly relevant to becoming an Arise Certified Professional.
 
-If you apply on this Web site to become an Arise Certified Professional your personally identifiable application information is also recorded alongside the anonymous information in our web server log. So, once you apply to become an Arise Certified Professional, you are no longer anonymous to us. 
+Whenever you visit this Web site, even if you have not applied to become an Arise Certified Professional, our web server automatically logs your IP address. We may analyze the IP address data for trends and statistics about Web traffic to this site. We may also use this data to help diagnose any problems with our server and to administer this Web site. Unless you apply to become an Arise Certified Professional, we do not link IP Addresses to a specific person, so you will remain anonymous to us.
 
-**Use of Cookies  
-**Cookies are files or pieces of information that may be stored in your computer’s hard drive when you visit a web site. If you apply to become an Arise Certified Professional on this Web site, cookies are used for the limited purpose of processing your credit card payment of the Arise Certified Professional fees and expenses set forth in the Arise Certified Professional application. Unless you apply on this Web site to become an Arise Certified Professional, we do not currently use cookies when you visit our Web site.
+If you apply on this Web site to become an Arise Certified Professional your identifiable personal application information is also recorded alongside the anonymous information in our Web server log. Once you apply to become an Arise Certified Professional, you are no longer anonymous to us.
 
-**Do Any Third Parties Receive or Collect Your Information Through Arise?  
-**Arise will not share personally identifiable information with other companies or individuals except to the extent disclosed in the Arise Certified Professional application and as authorized by you in such application; or, to comply with subpoenas or court orders.
+**What are cookies and does Arise use them?  
+** Cookies are files or pieces of information that may be stored in your computer’s hard drive when you visit a Web site. If you apply to become an Arise Certified Professional on this Web site, cookies are used for the limited purpose of processing your credit card payment of the Arise Certified Professional fees and expenses set forth in the Arise Certified Professional application. Unless you apply on this Web site to become an Arise Certified Professional, we do not currently use cookies when you visit our Web site.
 
-**What Security Measures Are in Place to Protect Your Information?**  
-Arise operates secure data networks protected by industry standard firewall and password protection. We have reasonable security measures in place to attempt to protect against the loss, misuse or alteration of your personally identifiable information.
+**Do any third parties receive or collect your Information through Arise?  
+** Arise will not share personally identifiable information with other companies or individuals except to the extent disclosed in the Arise Certified Professional application and as authorized by you in such application; or, to comply with subpoenas or court orders.
+
+**What security measures are in place to protect your information?**  
+Arise operates secure data networks protected by industry standard firewall and password protection. We have stringent security measures in place to attempt to protect against the loss, misuse or alteration of your identifiable personal information.
 
 **Changes to this Privacy Policy**  
 Arise will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the bottom of this privacy statement. For material changes to this privacy statement, we will notify you by placing prominent notice on this Web site.
 
-**Contact Information  
-**Arise welcomes your comments regarding this Privacy Statement by postal mail.
-
-Arise.com Privacy  
-Arise Incorporated  
-3450 Lakeside Drive, Suite 620  
-Ft. Lauderdale, FL 33027-4151  
-Last updated January, 2007.
+  
+Last updated January 2007.
