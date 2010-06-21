@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016162121id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621021828id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # InsWeb.com - Privacy & Security
 
-(Last updated: March 15, 2009)
+(Last updated: May 6, 2010)
 
-[](http://www.truste.org/ivalidate.php?url=www.insweb.com&sealid=101)
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.insweb.com&sealid=101)
 
 This Privacy Policy covers the privacy and information sharing practices of InsWeb Corporation, [InsWeb.com](http://www.insweb.com/), [AgentInsider.com](http://www.agentinsider.com/), [FreeInsuranceAdvice.com](http://www.freeinsuranceadvice.com/), [InsuranceRates.com](http://www.insurancerates.com/), [BestInsuranceMatch.com](http://www.bestinsurancematch.com/) and [LowestPolicy.com](http://www.lowestpolicy.com/) (collectively “InsWeb”). For questions about this Privacy Policy, you may write to us at InsWeb Corporation, 11290 Pyrites Way, Suite 200, Gold River, CA 95670.
 
@@ -43,9 +43,9 @@ To assist you with reading through our Privacy Policy, we have provided answers 
 
 
 
-InsWeb is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because InsWeb wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+InsWeb is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because InsWeb wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions regarding this statement, you can email our customer care department at [privacy@insweb.com](mailto:privacy@insweb.com). If we have not responded to your inquiry regarding our privacy statement within five (5) business days, or you're not satisfied with the answer you received, you can contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. 
+If you have questions regarding this statement, you can email our customer care department at [privacy@insweb.com](mailto:privacy@insweb.com). If we have not responded to your inquiry regarding our privacy statement within five (5) business days, or you're not satisfied with the answer you received, you can contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url)[](http://www.truste.org/consumers/watchdog_complaint.php). 
 
 ## Questions and Answers About InsWeb's Privacy Policy
 
@@ -292,7 +292,7 @@ For more information about encryption, we encourage you to check out the Frequen
 
 ## TRUSTe 
 
-[](http://www.truste.org/ivalidate.php?url=www.insweb.com&sealid=101)
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.insweb.com&sealid=101)
 
 InsWeb is a member of TRUSTe, an organization intended to promote fair information practices in the collection of personally identifiable information at web sites. When you see the TRUSTe seal, you can be assured that the Web site will disclose:
 
