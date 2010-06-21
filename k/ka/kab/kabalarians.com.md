@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220133216id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621054709id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
-# Looking for the Meaning of a Name, Best Baby Names, and Name Change Recommendations?
+# Looking for the Meaning of a Name, Best Baby Names, and how to Legally Make a Name Change?
 
 ## Privacy Policy
 
-We guard your privacy like it was our own! Under no circumstances is your info given, sold or shared with others. Period! 
+We guard your privacy like it was our own! Under no circumstances is your info given, sold or shared with others. Period!
 
-The **Kabalarian Philosophy** and the **Society of Kabalarians of Canada** have been providing Balanced Name Recommendations, Name Reports, and other services to the public for over 67 years. We are a provincially registered non-profit society. 
+The **Kabalarian Philosophy** and the **Society of Kabalarians of Canada** have been providing Balanced Name Recommendations, Name Reports, and other services to the public for over 80 years. We are a provincially registered non-profit society. 
 
 Our policy is that all the information you provide us is kept **strictly private and confidential** and is used **only** in preparing your Name Report™. We do not in any way sell, trade, or distribute any personal information, address, e-mail, or telephone numbers with any organizations, governments, or companies.
 
@@ -14,7 +14,7 @@ We protect the personal information you share with us. For example, if you make 
 
 Shipping companies (Fed Ex, UPS) may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We provide these companies with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third-parties, unless you have granted us permission to do so. 
 
-We may collect and possibly share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Kabalarian Philosophy's terms and conditions, or as otherwise required by law. We may respond to subpoenas, court orders, or legal process. We also may choose to establish or exercise our legal rights or defend against legal claims. 
+We may collect and possibly share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Kabalarian Philosophy's terms and conditions, or as otherwise required by law. We may respond to subpoenas, court orders, or legal process. We also may choose to establish or exercise our legal rights or defend against legal claims.
 
 ### Data Retention
 
@@ -42,9 +42,9 @@ We do not knowingly collect personal information from children under the age of 
 
 We need your help in making sure your personal information is correct in our systems. Please notify us of changes to your name, address, title, phone number or e-mail address. 
 
-Each e-mail newsletter has instructions on how to unsubscribe. 
+Each e-mail newsletter has instructions on how to unsubscribe.
 
-The Kabalarian Philosophy forums are public. Please consider this before posting. 
+The Kabalarian Philosophy forums are public. Please consider this before posting.
 
 ### Types and Uses of Personal Information
 
@@ -55,25 +55,29 @@ Your personal information is used in the following ways:
   * E-mail Correspondence — Used to raise and respond to issues and inquiries of all types. Also used to distribute information about the Kabalarian Philosophy, our products, and services. 
   * Transactions — Show which products and services you have requested. 
 
+
+
 We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage. 
 
 ### Policy Updates
 
-All updates to this policy will be posted here. Last update: February 16, 2006 
+All updates to this policy will be posted here. Last update: May 28, 2010
 
 ###  Need Help with an Update, Access or Unsubscribe Request?
 
-[Contact the Kabalarian Philosophy](https://web.archive.org/cfm/feedback.cfm). To aid in processing your request, please include the following details: 
+[Contact the Kabalarian Philosophy](https://web.archive.org/cfm/feedback.cfm). To aid in processing your request, please include the following details:
 
   * Contact information (your name, address, e-mail address, etc.) 
   * Name of the program where you want the update applied 
   * Details of the request (e.g. change of e-mail address, unsubscribe from a newsletter, review of personal information, etc.) 
 
-Note: This policy also covers the personal information you provide to the Kabalarian Philosophy Customer Support. 
+
+
+Note: This policy also covers the personal information you provide to the Kabalarian Philosophy Customer Support.
 
 ### Have Additional Questions or Comments?
 
-Check out the privacy policy frequently asked questions (FAQs) listed below. Should you have any additional privacy questions or comments related to this privacy policy, please [contact us](https://web.archive.org/cfm/feedback.cfm). 
+Check out the privacy policy frequently asked questions (FAQs) listed below. Should you have any additional privacy questions or comments related to this privacy policy, please [contact us](https://web.archive.org/cfm/feedback.cfm).
 
 ###  FAQs
 
