@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lwsd.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618061032id_/http%3A//lwsd.org/About/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lwsd.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621070817id_/http%3A//www.lwsd.org/About/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Lake Washington School District
 
