@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcipia.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619213823id_/http%3A//www.netcipia.com/xwiki/bin/view/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcipia.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621055051id_/http%3A//www.netcipia.com/xwiki/bin/view/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # Netcipia - Privacy Policy
 
