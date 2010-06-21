@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search-solver.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127080419id_/http%3A//www.search-solver.com/index.php%3Fpage%3Dprivacy%26lg%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search-solver.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621124726id_/http%3A//www.search-solver.com/index.php%3Ffootpage%3Dprivacy%26lg%3DEN) for the most accurate reproduction.*
 
 # Search-Solver - Start searching!
 
@@ -11,7 +11,7 @@ Rambla Catalunya 12 2-2
 Barcelona 08007  
 Spain
 
-or via our contact form [Contact](http://www.search-solver.com/index.php?page=contact&lg=EN)
+or via our contact form [Contact](http://www.search-solver.com/index.php?footpage=contact&lg=EN)
 
 **1\. Collected Data**
 
