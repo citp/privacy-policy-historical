@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realdir.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228003822id_/http%3A//www.realdir.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realdir.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622002936id_/http%3A//www.realdir.com/p/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: www.realdir.com
 
