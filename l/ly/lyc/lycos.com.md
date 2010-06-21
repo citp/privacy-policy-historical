@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lycos.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226125158id_/http%3A//info.lycos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycos.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621203321id_/http%3A//info.lycos.com/privacy.php) for the most accurate reproduction.*
 
 # Lycos Info - Lycos Network Privacy Policy
 
