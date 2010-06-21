@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layitlow.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151903id_/http%3A//www.layitlow.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layitlow.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621062209id_/http%3A//www.layitlow.com/privacy.shtml) for the most accurate reproduction.*
 
 # LayItLow.com Privacy Statement
 
@@ -9,6 +9,7 @@ Information Sharing and Disclosure
 Review and Delete Your Account and Information  
 Data Security  
 Children and Privacy  
+Forum Guidelines and Rules  
 Third Party Sites  
 Changes to this Privacy Policy  
 Questions or Suggestions
@@ -51,7 +52,7 @@ LayItLow.com may send your personal information to other entitites or people und
 
 ##### Your Ability to Review and Delete Your Account and Information
 
-If you are a registered forum user, review and edit your profile information by accessing your control panel at [http://www.layitlow.com/forums](http://www.layitlow.com/forums/). You may also request deletion of your LayItLow.com forums account or any of your personal information held by us by sending an email to [support@layitlow.com](mailto:support@layitlow.com).
+If you are a registered forum user, review and edit your profile information by accessing your control panel at [http://www.layitlow.com/forums](http://www.layitlow.com/forums/). You may also request deletion of your LayItLow.com forums account or any of your personal information held by us by sending an email to .
 
 ##### Data Security
 
@@ -61,11 +62,35 @@ Your LayItLow.com account information is password-protected for your privacy and
 
 Our websites do not target and are not intended to attract children under the age of 13. LayItLow.com does not knowingly solicit personal information from children under the age of 13 or send them requests for personal information.
 
+##### Forum Guidelines and Rules
+
+You agree, through your use of this service, that you will not use our forums to post any material which is knowingly false and/or defamatory, inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually oriented, threatening, invasive of a person's privacy, or otherwise violative of any law.
+
+You agree not to post any copyrighted material unless you have permission from the copyright owner or the copyright is owned by you or by LayItLow.com.
+
+LayItLow.com does not assume any legal or financial responsiblity for products, services or other actuals offered through the forums or classifieds. There are risks which you assume when doing business with someone over the Internet. While we recommend that users make appropriate enquiries and take proper precautions before completing transactions, all liability for transactions remain solely with the buyers and sellers. If you cannot agree to these terms for any reason or if the law in your City, County, State or residing area limits or prohibits such activities by you or disclaimers by us - you are not authorized to use the LayItLow.com Forums.
+
+While we prefer an open atmosphere on this site, the forums are not an "anything goes" message board. Please keep in mind the following rules:  
+
+
+  * No Pornographic images or videos. Please do not post pictures of nudity in the forums.
+  * No vulgar, obscene or hateful images (such as extreme pictures of graphic violence, veraciously crude materials, etc.)
+  * No hateful speech (racist remarks, overt harassment, etc.) or like attacks against another member, or group of members.
+  * No Avatar Abuse. Please keep your avatars fairly clean. No pornography in the avatars.
+  * No spamming. Spamming is characterized by the initiation of threads or posts that contribute nothing to a forum. Examples include: empty bodies, bodies with few words that have no relation to the current thread or discussion and those posts that state they are spam, either to annoy or increase a member's post count. This determination is made by the forum Moderator or Administrator and is not up for discussion.
+  * Posts in a particular forum need to stay on topic as much as possible. If you want to talk about something that is drastically removed from the topic of a forum, please use the Off Topic forum.
+
+
+
 ##### Third Party Sites
 
-LayItLow.com contains links to other sites. LayItLow.com does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
-
 Our website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with a LayItLow.com logo, even though they are not operated or maintained by LayItLow.com. Although we choose our business partners carefully, LayItLow.com is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you. This also applies to advertising which may be displayed to you, check those [third party websites](https://www.google.com/adsense/support/bin/answer.py?answer=94149) to view their individual privacy policies and opt-out information.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [valueclickmedia.com/member_privacy.shtml](http://www.valueclickmedia.com/member_privacy.shtml).
 
 ##### Changes to this Privacy Policy
 
@@ -73,6 +98,6 @@ LayItLow.com will amend this policy from time to time. If we make any substantia
 
 ##### Questions or Suggestions
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [support@layitlow.com](mailto:support@layitlow.com).
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at .
 
-This document was last updated March 12, 2009
+This document was last updated June 4, 2010
