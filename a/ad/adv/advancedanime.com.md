@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the advancedanime.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219233536id_/http%3A//www.advancedanime.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedanime.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622001934id_/http%3A//www.advancedanime.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Advanced Anime - Privacy Policy
 
-<< [Return to Help](https://web.archive.org/web/20091219233536id_/http%3A//www.advancedanime.com/help.php)
+<< [Return to Help](https://web.archive.org/web/20100622001934id_/http%3A//www.advancedanime.com/help.php)
 
 Advanced Anime is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. While you can use many features of Advanced Anime anonymously, you are required to provide personal information to gain access to some of our member-only content and services. 
 
@@ -44,6 +44,6 @@ Any changes to our privacy policy will be posted on this page so that you are al
 
 **Tell us what you think**
 
-Advanced Anime welcomes your questions and comments about our privacy policy. Please [Contact](https://web.archive.org/web/20091219233536id_/http%3A//www.advancedanime.com/contact.php "Contact") us. 
+Advanced Anime welcomes your questions and comments about our privacy policy. Please [Contact](https://web.archive.org/web/20100622001934id_/http%3A//www.advancedanime.com/contact.php "Contact") us. 
 
 Privacy Policy v1.2 
