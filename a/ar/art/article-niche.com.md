@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the article-niche.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203095933id_/http%3A//article-niche.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-niche.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621095230id_/http%3A//article-niche.com/privacy.php) for the most accurate reproduction.*
 
-# Comprehensive Article Niche Directory | Privacy
+# Comprehensive Article Niche Directory | Privacy - Article Niche
 
 Article Niche Directory Privacy Policy |   
 ---|---  
   
 * * *  
   
-[Last Updated **December 2009** ] 
+[Last Updated **June 2010** ] 
 
 **The basics of our privacy statement**
 
