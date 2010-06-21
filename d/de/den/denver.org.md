@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denver.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616144428id_/http%3A//www.denver.org/about-dmcvb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denver.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621051743id_/http%3A//www.denver.org/about-dmcvb/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -23,5 +23,3 @@ Our computer is not set up to track, collect or distribute personal information 
 Site information is used to confirm participation in VISIT DENVER marketing programs, and may be used to advise participants of the numbers of visitors who come to our site from their sites. No personal information is collected. 
 
 In addition, our website tracks information about the visits to our websites. For example, we compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our websites, and which countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.
-
-[ ](http://www.addthis.com/bookmark.php)
