@@ -1,188 +1,277 @@
-<!--The following is the downloaded HTML source of the homeqn.com privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220104325id_/http%3A//www.homeqn.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homeqn.com privacy policy that was archived on 2010-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100621124605id_/http%3A//www.homeqn.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
-	<title>Privacy Policy - Homeqn: Homeqn</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="title" content="Privacy Policy - Homeqn: Homeqn">
-	<meta name="subject" content="Lifestyle">
-	<meta name="language" content="en">
-	<meta name="keywords" content="bathroom, Bathroom Furnishing, Bedroom, furniture, Home Accessory, home decor, Home Design, Home Furnishing, Home Furnishings, home furniture, Home Interior, House design, housing, kitchen, lamp, Lifestyle, Lighting, lights, real estate, Table">
-	<meta name="description" content="Homeqn">
-	<link rel="alternate" href="http://www.homeqn.com/rss.xml" type="application/rss+xml" title="Homeqn's RSS Feed">
-	<link rel="alternate" href="http://www.instablogs.com/feed/blog=Homeqn" type="application/rss+xml" title="Homeqn's RSS Feed (Instablogs Community)">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	
-	<style type="text/css">
-	  @import url(/style.css);
-	</style>
-	
-	<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
-	<script type="text/javascript" src="http://www.instablogs.com/js/lightbox.js"></script>
-	<script type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="title" content="">
+		<meta name="subject" content="">
+		<meta name="language" content="en">
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<link rel="alternate" href="http://feeds.feedburner.com/homeqn/KNyu" type="application/rss+xml" title="Homeqn RSS Feed (Instablogs Community)">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="/js/easySlider.packed.js"></script>
+		<script type="text/javascript" src="/js/validate.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$("#subscribeForm").validate();
+			});
+
+			$(document).ready(function(){
+			$("#sidewindow").easySlider();
+			});
+				
+				var my_width='';
+				var my_height='';
+				function my_lightbox(id, my_width, my_height)
+				{
+					jQuery.fn.center = function (absolute) {
+						return this.each(function () {
+							var t = jQuery(this);
+
+							t.css({
+								position:    absolute ? 'absolute' : 'fixed', 
+								left:        '50%', 
+								top:        '50%', 
+								zIndex:        '999999'
+							}).css({
+								marginLeft:    '-' + (t.outerWidth() / 2) + 'px', 
+								marginTop:    '-' + (t.outerHeight() / 2) + 'px'
+							});
+
+							if (absolute) {
+								t.css({
+									marginTop:    parseInt(t.css('marginTop'), 10) + jQuery(window).scrollTop(), 
+									marginLeft:    parseInt(t.css('marginLeft'), 10) + jQuery(window).scrollLeft()
+								});
+							}
+						});
+					};
+					
+					var pageWidth = $('*').width();
+					var pageHeight = $('*').height();
+
+					var my_pageHeight = $(window).height();
+					
+					$('#'+id).height(my_height);
+					$('#'+id).width(my_width);
+					$('#'+id).fadeIn().center();
+						
+					$('#fade').show();
+					$('#fade').height(pageHeight);
+					$('#fade').width(pageWidth);
+
+					$('#fade').click(function(){
+							$(this).fadeOut();
+							$('#'+id).hide();
+					});
+					$('.my_lightbox_close').click(function(){
+							$('#fade').fadeOut();
+							$('#'+id).hide();
+					});
+					
+
+				}
+
+				function subscribe()
+					{
+						var postdata='subsciber_mail='+ $('#subsciber_mail').val();
+						$.ajax({type: "POST",url: "/share_email.php",data: postdata,success: function(msg){var id ='#subscribe .light-content';$(id).html(msg);}});
+					}
 
 
-		function on_blur()
-		{
-			if(document.getElementById('nav-search').value == "")
+				var currentslide = 1;
+				var i=1;
+				var nrSld1 =1
+					function showSlide(nrSld) {
+						currentslide = parseInt(nrSld)
+						$('#slider .slideWrapper').animate({left:-380*(parseInt(nrSld)-1)})
+						redrawBullets(nrSld);
+						i=nrSld;
+					};
+					function redrawBullets(slide) {
+						var currentBullet = 's'+slide;
+						$('#slideCtrl a').each(function(){
+						$(this).removeClass('s');
+						if($(this).hasClass(currentBullet)){
+							$(this).addClass('s')
+							}
+						});
+					};
+				function loop() { 
+				  if (i<5) {
+				   showSlide(i);
+				   setTimeout(function() { incr(); }, 5000);
+				  }
+				  else
+				  {
+				  i= 1;
+				  showSlide(i);
+				  loop();
+				  }
+				}
+				function incr() {
+				  i++;
+				  loop();
+				}
+		
+			function footer_articles(start, end, blog)
 			{
-			document.getElementById('nav-search').value = "search here...";
-			document.getElementById('nav-search').style.color = "#999";
+				var postdata='start='+start+'&end='+end+'&blog='+blog;
+				$.ajax({type: "POST",url: "/footer_articles.php",data: postdata,success: function(msg){var id ='#week-diary';$(id).html(msg);}});
 			}
-		}
 
-
-		function on_focus()
-		{
-			document.getElementById('nav-search').value = "";
-			document.getElementById('nav-search').style.color = "#444";
-		}
-
-		function network_down(network_head_id)
-		{
-			var	flag=$('blog_network-'+network_head_id);
-			var x;			
-			for (x = 0; x < 10; x++)
+			function week_diary_articles(start, blog)
 			{
-				if(x == network_head_id && flag.style.display=="none")
-					Effect.BlindDown('blog_network-'+x,{duration:0.5});
+				var postdata='start='+start+'&blog='+blog;
+				$.ajax({type: "POST",url: "/week_diary.php",data: postdata,success: function(msg){var id ='#week-diary';$(id).html(msg);}});
+			}
+
+			function tag_paging(page_no, total_pages, quantity)
+			{
+				var postdata='page_no='+page_no+'&total_pages='+total_pages+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/tag_paging.php",data: postdata,success: function(msg){var id ='#t-sidewindow';$(id).html(msg);}});
+			}
+
+			function post_paging(page_no, total_pages, quantity)
+			{
+				var postdata='page_no='+page_no+'&total_pages='+total_pages+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/post_paging.php",data: postdata,success: function(msg){var id ='#insta-articles';$(id).html(msg);}});
+			}
+
+			function category_paging(page_no, quantity)
+			{
+				var postdata='page_no='+page_no+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/category_paging.php",data: postdata,success: function(msg){var id ='#category-news';$(id).html(msg);}});
+			}
+
+			function hotSheet_paging(page_no, quantity)
+			{
+				var postdata='page_no='+page_no+'&quantity='+quantity;
+				$.ajax({type: "POST",url: "/hotSheet_paging.php",data: postdata,success: function(msg){var id ='#hot-sheet';$(id).html(msg);}});
+			}
+
+			function video_list_paging(page_no, quantity, sortMethod)
+			{
+				var postdata='page_no='+page_no+'&quantity='+quantity+'&sortMethod='+sortMethod;
+				$.ajax({type: "POST",url: "/video_list_paging.php",data: postdata,success: function(msg){var id ='#video-list';$(id).html(msg);}});
+			}
+
+			function slide_feature(total_divs,display,button,divid, prev_id, next_id)
+			{
+				for(var i=1; i<= total_divs; i++)
+				{
+					var div =document.getElementById(divid + i);
+					div.style.display = 'none';
+				}
+				
+				if(button == '1')
+				{
+					var next_div = document.getElementById(next_id);
+					var next =  display + 1;
+					next_div.innerHTML ='<a href="javascript:slide_feature( '+total_divs+', '+next+',1, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Next</a>';
+					var prev_div = document.getElementById(prev_id);
+					var prev = next - 1;
+					prev_div.innerHTML ='<a href="javascript:slide_feature('+total_divs+', '+prev+',0, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Prev</a>';
+					$('#'+divid + next).show();
+
+					if(total_divs == next)
+					{
+						next_div.innerHTML ='';
+					}
+					
+				}
 				else
-					Effect.BlindUp('blog_network-'+x,{duration:0.5});
+				{
+					var next_div = document.getElementById(next_id);
+					var next =  display;
+					next_div.innerHTML ='<a href="javascript:slide_feature( '+total_divs+', '+next+',1, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Next</a>';
+					var prev_div = document.getElementById(prev_id);
+					var prev = next - 1;
+					if(prev == 0)
+						{
+							prev_div.innerHTML ='';
+						}
+						else
+						{
+							prev_div.innerHTML ='<a href="javascript:slide_feature('+total_divs+', '+prev+',0, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Prev</a>';
+						}
+						$('#'+divid + display).show();
+				}
 			}
-		}
+		</script>
+		<link href="/css/common.css" rel="stylesheet" type="text/css">
+		<link href="/css/club-sidebar.css" rel="stylesheet" type="text/css">
+		<link href="/css/error_404.css" rel="stylesheet" type="text/css">
 
-		function open_reply_comment(comment_id, comment_type)
-		{
-			var div = document.getElementById('reply-comment-' + comment_type+comment_id);
-			if(div.style.display=='block')
-			{
-				div.style.display='none';
-			}
-			else
-			{
-				div.style.display='block';
-			}
-		}
+	</head>
+		<body onload="loop();">
+			<div class="container">
+				<div class="header">
+					<div id="subscribe" class="my_lightbox" style="display:none">
+						<div class="light-head"><span>Please fill in your email address</span><a href="javascript:void(0)" class="my_lightbox_close light-close">[Close]</a></div>
+						<div class="clear"></div>
+						<div class="light-content">
+							<form method="post" action="javascript:subscribe();" name="subscribeForm" id="subscribeForm">
+								<input type="text" class="required email" name="subsciber_mail" id="subsciber_mail" value="">
+								<input type="submit" value="Subscribe" name="Subscribe">
+							</form>
+						</div><!-- EOF light-content -->
+					</div><!-- EOF my_lightbox -->
 
-		function show_comments(id)
-		{
-			var div = document.getElementById(id);
-			
-			if(id=='global-local-comments')
-			{
-				div.style.display='block';
-				document.getElementById('normal-comments').style.display='none';
-				YAHOO.util.Dom.addClass('g', 'head-current'); 
-				YAHOO.util.Dom.removeClass('n', 'head-current');
-			}
-			
-			if(id=='normal-comments')
-			{
-				div.style.display='block';
-				document.getElementById('global-local-comments').style.display='none';
-				YAHOO.util.Dom.addClass('n', 'head-current'); 
-				YAHOO.util.Dom.removeClass('g', 'head-current');
-			}
-		}
-
-		function lightboxImageOn(image_id, Image_title)
-		{
-			var comment_image = 'comment_image';
-			var Image_title = "Image uploaded by - " + Image_title;
-			var div = document.getElementById('lb-edit');
-			var postdata ='image_id='+image_id + '&type=' + comment_image + '&title=' + Image_title;
-			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
-
-			var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
-			var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML= o.statusText;}}
-			var Callback ={success:handleSuccess,failure: handleFailure};
-		
-			var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
-
-			var black = document.getElementById('fade');
-			black.style.display = 'block';
-
-			div.style.display = 'block';
-			window.scrollTo(0,0);
-		}
-
-		function lightboxVideoOn(video_id, You_Tube_title)
-		{
-			var video='video';
-			var You_Tube_title = "Video uploaded by - " + You_Tube_title;
-			var div = document.getElementById('lb-edit');
-			var postdata ='video_id=' + video_id + '&type=' + video + '&title=' +  You_Tube_title;
-			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
-		
-			var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
-			var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
-			var Callback ={success:handleSuccess,failure: handleFailure};
-
-			var request = YAHOO.util.Connect.asyncRequest("POST", '/show_media.php', Callback, postdata);
-
-			var black = document.getElementById('fade');
-			black.style.display = 'block';
-
-			div.style.display = 'block';
-			window.scrollTo(0,0);
-		}
-
-		function lightboxoff1(id)
-		{
-			var light = document.getElementById(id);
-			light.style.display = 'none';
-		}
-	</script>
-
-</head>
-
-<body>
-	<script type="text/javascript" src="/js/prototype.js"></script>
-
-	<div id="container">
-	<div style="height:1px;"> </div>
-		
-						<div id="small-header">
-				<div class="small-logo"><img src="/css-img/header.jpg" border="0" alt=""></div><!-- EOF small-logo -->
-					<div class="small-ad-top">
+					<div class="top-nav">
+						<a href="http://www.homeqn.com/contact-us.php?q=tips">Send Tips</a> | 
+						<a href="http://www.instablogs.com/ad_solutions.php?b=137">Advertise</a> | 
+						<a href="http://www.homeqn.com/contact-us.php?q=general">Contact</a>
+					</div><!-- EOF top-nav -->
+					<a class="logo" href="http://www.homeqn.com/">&nbsp;</a>
+					<div class="ad">
+						<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1003687546&amp;adSize=728x90"></script>											</div>
+					<div class="ad">
 						<script type="text/javascript"><!--
 google_ad_client = "pub-9415440757655812";
-/* Homequotient, Header 728x90, created 5/26/09 */
-google_ad_slot = "2262516421";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-						<div style="padding:5px 0;text-align:center;padding-bottom:15px;">
-							<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-/* Homequotient, Header 728x15, created 5/28/09 */
-google_ad_slot = "2142619149";
+/* Homeqn, Header, LinkUnit, 8Jan10 */
+google_ad_slot = "0447832182";
 google_ad_width = 728;
 google_ad_height = 15;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>						</div>
-					</div><!-- EOF #ad-top --> 
+</script>					</div>
+					<div class="extra-ads">
+						
+					</div>
+					<div class="clear"></div>
+					<div class="bottom-nav">
+						<a class="share sprite mail" href="javascript:void(0)" onclick="my_lightbox('subscribe')" title=""></a>
+						<a class="share sprite face" href="http://www.facebook.com/pages/Home-Quotient/183472811753"></a>
+						<a class="share sprite tweet" href="http://twitter.com/homeqn"></a>
+						<a class="share sprite rss" href="http://feeds.feedburner.com/homeqn/KNyu"></a>
+													<span class=""><span class="nav-bg hom"><a href="http://www.homeqn.com"></a></span></span>
+							<span class=""><span class="nav-bg bathrooms"><a href="http://www.homeqn.com/tags/bathrooms/"></a></span></span>
+							<span class=""><span class="nav-bg decor"><a href="http://www.homeqn.com/tags/decor/"></a></span></span>
+							<span class=""><span class="nav-bg design"><a href="http://www.homeqn.com/tags/design/"></a></span></span>
+							<span class=""><span class="nav-bg gadgets"><a href="http://www.homeqn.com/tags/gadgets/"></a></span></span>
+							<span class=""><span class="nav-bg green"><a href="http://www.homeqn.com/tags/green/"></a></span></span>
+							<span class=""><span class="nav-bg kitchen"><a href="http://www.homeqn.com/tags/kitchen/"></a></span></span>
+							<span class=""><span class="nav-bg living"><a href="http://www.homeqn.com/tags/living/"></a></span></span>
+							<span class=""><span class="nav-bg outdoors"><a href="http://www.homeqn.com/tags/outdoors/"></a></span></span>
+							<span class=""><span class="nav-bg renovations"><a href="http://www.homeqn.com/tags/renovations/"></a></span></span>
+							<span class=""><span class="nav-bg technology"><a href="http://www.homeqn.com/tags/technology/"></a></span></span>
+					</div><!-- EOF bottom-nav -->
+					<div class="clear"></div>
+				</div><!-- EOF header -->
+				<div class="clear"></div>
+				<div class="inner-container">
 
-				<div class="logo"> <a href="/" title="Home"><h1>Homeqn</h1></a> </div>
-
-			</div><!-- EOF small-header --> 
-			<div class="clear"></div>
-			
-			<div class="extra-ads"></div>
-
-		
-		<div id="content">
-			<div id="content-box">
 				
-		
+
+
+		<div class="content">
 				<div class="privacy-content-main">						
-					<div class="privacy-title">Privacy Policy</div> 
+					<div class="error-page-title">Privacy Policy</div> 
 
 					<p>This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.</p>
 
@@ -235,313 +324,376 @@ google_ad_height = 15;
 					
 					</p>
 
-
-
 				</div><!-- EOF #content-main -->
 
-				
 			
-			</div><!-- EOF #content-box -->
+			</div><!-- EOF content -->
 
-			<!--INFOLINKS_OFF--><div id="content-sidebar">
+			<div class="sidebar">
+<div class="search">
+	<form action="/search.php" id="cse-search-box">
+		<input type="hidden" name="cx" value="partner-pub-9415440757655812:lnzoivs7jpe">
+		<input type="hidden" name="cof" value="FORID:10">
+		<input type="hidden" name="ie" value="UTF-8">
+		<input type="text" class="s-text" name="q" size="25">
+		<input type="submit" class="s-but" name="sa" value="Search">
+		<div class="s-lens sprite"></div>
+	</form>
+	<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+	<div class="clear"></div>
+
+<div class="side-ads" style="padding-bottom:10px; margin-top:20px;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1003687546&amp;adSize=300x250"></script></div><div class="clear"></div><div class="side-ads" style="padding-bottom:10px; margin-top:20px;"></div><div class="clear"></div><div class="side-ads" style="float:right;"></div><div class="clear"></div><div class="side-ads" style="margin-top:5px;"></div><div class="clear"></div>
+<div class="side-ads" style="float:left;"></div><div class="side-ads" style="float:right;"></div><div class="clear"></div>
+	<div class="sidewindow">
+	<div class="h-space"></div>
+	<div class="side-head"><a href="http://www.homeqn.com/videos/">All</a>Videos</div>
 	
-		
+	<div class="clear"></div>
+		<div id="sidewindow">
+		<ul>	
+							<li>
+												<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/msi-introduces-floor-cleaner-with-the-power-of-a-robot/"><img src="http://www.instablogsimages.com/images/2010/06/04/msi-robot-vacuum_1xkFs_24431_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/msi-introduces-floor-cleaner-with-the-power-of-a-robot/">MSI introduces floor cleaner with the po...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/ufo-abduction-lamp-from-maker-faire/"><img src="http://www.instablogsimages.com/images/2010/05/08/ufo-abduction-lamps1_7nPvy_24431_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/ufo-abduction-lamp-from-maker-faire/">Handmade UFO Abduction Lamps by Jason Di...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/ipad-now-in-your-kitchen-cabinets/"><img src="http://www.instablogsimages.com/images/2010/05/06/ipad-cabinets_KddYp_24431_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/ipad-now-in-your-kitchen-cabinets/">iPad now in your kitchen cabinets</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/led-expansion-lights-comes-with-the-led-magnifier/"><img src="http://www.instablogsimages.com/images/2010/05/05/led-expansion-lights_fskpM_24431_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/led-expansion-lights-comes-with-the-led-magnifier/">LED Expansion Lights comes with the LED ...</a></div>
+								<div class="clear"></div>
+							</div>
+											</li>
+							<li>
+												<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/blossoming-garden-light-actually-blooms/"><img src="http://www.instablogsimages.com/images/2010/04/19/blossoming-solar-lights2_5313R_24431_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/blossoming-garden-light-actually-blooms/">Blossoming garden light actually blooms!</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/led-electric-windows-gives-geeky-look-to-your-home/"><img src="http://www.instablogsimages.com/images/2010/02/23/electric_window_led_UlzUc_24431_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/led-electric-windows-gives-geeky-look-to-your-home/">LED electric windows gives geeky look to...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/socket-that-gives-you-a-visual-feedback-of-the-power-consumed/"><img src="http://www.instablogsimages.com/images/2010/02/05/energize1_UhScF_24702_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/socket-that-gives-you-a-visual-feedback-of-the-power-consumed/">Socket that gives you a visual feedback ...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/you-touch-the-table-top-and-it-gets-recorded-and-transformed-into-music/"><img src="http://www.instablogsimages.com/images/2010/01/28/table-recorder1_KAM5x_24702_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/you-touch-the-table-top-and-it-gets-recorded-and-transformed-into-music/">You touch the tabletop and it gets recor...</a></div>
+								<div class="clear"></div>
+							</div>
+											</li>
+							<li>
+												<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/make-your-own-interactive-led-panel-for-coffee-tableits-easy/"><img src="http://www.instablogsimages.com/images/2010/01/19/interactive-led-panel-kit_MKvNP_24702_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/make-your-own-interactive-led-panel-for-coffee-tableits-easy/">Make your own Interactive LED Panel for ...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/affectic-is-smart-future-furniture-that-helps-you-relax/"><img src="http://www.instablogsimages.com/images/2010/01/16/affectic_hj7cv_24702_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/affectic-is-smart-future-furniture-that-helps-you-relax/">Affectic is smart future furniture that ...</a></div>
+								<div class="clear"></div>
+							</div>
+														<div class="video-image-title">
+								<div class="video-image">
+									<a href="http://www.homeqn.com/entry/the-most-intelligent-sticky-notes-of-all-time/"><img src="http://www.instablogsimages.com/images/2010/01/08/quickies_NeUcL_24702_100x100.jpg"></a>
+								</div>
+								<div class="video-title"><a href="http://www.homeqn.com/entry/the-most-intelligent-sticky-notes-of-all-time/">The most intelligent sticky notes of all...</a></div>
+								<div class="clear"></div>
+							</div>
+											</li>
+								
+		</ul>
+	</div>
+</div>
 <div class="clear"></div>
-<div class="border"></div>
+
+<div class="side-ads" style="float:left;margin-bottom:10px;"><!-- BEGIN RICH-MEDIA Burst Direct CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad15198ap.cgi/v=2.3S/sz=125x125A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad15198ap.cgi/v=2.3S/sz=125x125A/33860/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad15198ap-map.cgi/ns/v=2.3S/sz=125x125A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad15198ap.cgi/ns/v=2.3S/sz=125x125A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END Burst Direct CODE --></div><div class="side-ads" style="float:right;margin-bottom:10px;"><!-- BEGIN UAT - 125x125 - BornRich: Homeqn - DO NOT MODIFY -->
+<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/17/47/uat_4717.js?ad_size=125x125"></script>
+<!-- END TAG --></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
+<div class="bizrate">
+<h2>Shopping : </h2>
+	<span id="i68993">
+<table cellspacing="0" cellpadding="0" width="95%" border="0" class="i68993">
+  <tbody><tr>
+    <td>
+      <a class="i68993" href="http://www.midatlanticbryantdealers.com/BryantProducts/airConditioners.aspx" target="_blank">Bryant air conditioners</a> 
+    </td>
+  </tr>
+</tbody></table></span>
+</div>
+
+	<div class="t-sidewindow" id="t-sidewindow">
+		<div class="side-head">Popular Tags</div>
+		<ul class="pop-tags">
+					<li><a href="http://www.homeqn.com/tags/lifestyle/">Lifestyle</a></li>
+					<li><a href="http://www.homeqn.com/tags/home-furnishing/">Home Furnishing</a></li>
+					<li><a href="http://www.homeqn.com/tags/home-decor/">home decor</a></li>
+					<li><a href="http://www.homeqn.com/tags/furniture/">furniture</a></li>
+					<li><a href="http://www.homeqn.com/tags/home-interior/">Home Interior</a></li>
+					<li><a href="http://www.homeqn.com/tags/wow-interiors/">Wow interiors</a></li>
+					<li><a href="http://www.homeqn.com/tags/home-furnishings/">Home Furnishings</a></li>
+					<li><a href="http://www.homeqn.com/tags/lighting/">Lighting</a></li>
+					<li><a href="http://www.homeqn.com/tags/design/">design</a></li>
+					<li><a href="http://www.homeqn.com/tags/home-tech/">Home tech</a></li>
+				</ul>
+					<div class="all-tag"><a class="r-tag" href="javascript:tag_paging('2','50','10')">Next 10 <b>&gt;&gt;</b></a><a href="/tags/">All Tags</a></div>
+			</div><!-- EOF sidewindow -->
+
+<div class="side-ads" style="margin-bottom:5px;"><script src="http://www15.glam.com/glamIgm.act?igm=1003687546;199268861;6041"></script></div><div class="clear"></div>
+	<div class="club-sidebar">
+	<div class="club-title"><img src="/images/insta_club_badge.gif" border="0" alt=""></div>
+		<div class="main-club"><div class="club-img"><a href="http://www.gizmowatch.com/entry/dell-announces-the-arrival-of-inspiron-r-series-with-dell-dock-and-synaptic-touchpads/"><img src="http://www.instablogsimages.com/images/2010/06/21/inspiron-r-series1_hRbiY_24702_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.gizmowatch.com/entry/dell-announces-the-arrival-of-inspiron-r-series-with-dell-dock-and-synaptic-touchpads/">Dell announces the arrival of Inspiron R series with Dell-Dock and synaptic touchpads</a></div><div class="link"> (<a href="http://www.gizmowatch.com">Gizmo Watch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.thedesignblog.org/entry/una-blind-friendly-toy-kitchen-makes-life-interesting-for-kids/"><img src="http://www.instablogsimages.com/images/2010/06/21/una_opXLz_17621_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.thedesignblog.org/entry/una-blind-friendly-toy-kitchen-makes-life-interesting-for-kids/">UNA blind-friendly toy kitchen makes life interesting for kids</a></div><div class="link"> (<a href="http://www.thedesignblog.org">The Design blog</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.bornrich.org/entry/daniel-strom-s-most-expensive-skull-watch-fuels-skullmania/"><img src="http://www.instablogsimages.com/images/2010/06/21/memento-mori_GCWld_12_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.bornrich.org/entry/daniel-strom-s-most-expensive-skull-watch-fuels-skullmania/">Daniel Strom’s most expensive skull watch fuels skullmania</a></div><div class="link"> (<a href="http://www.bornrich.org">Born Rich</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.homeqn.com/entry/best-docks-to-rest-your-gorgeous-ipad-in-style/"><img src="http://www.instablogsimages.com/images/2010/06/21/ipad-docks_PPbwV_48_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.homeqn.com/entry/best-docks-to-rest-your-gorgeous-ipad-in-style/">Best docks to rest your gorgeous iPad in style</a></div><div class="link"> (<a href="http://www.homeqn.com">Homeqn</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.crickblog.com/entry/images-of-a-testing-contest-between-india-and-pakistan-in-the-asia-cup-2010/"><img src="http://www.instablogsimages.com/images/2010/06/21/kamran-akmal-gautam-gambhir-face-to-face_2ldOS_17022_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.crickblog.com/entry/images-of-a-testing-contest-between-india-and-pakistan-in-the-asia-cup-2010/">Images of a Testing Contest between India and Pakistan in the Asia Cup 2010</a></div><div class="link"> (<a href="http://www.crickblog.com">Cricket Blog</a>)</div><div class="clear"></div></div><!-- EOF main-club -->	</div><!-- EOF club-sidebar -->
+
+<div class="side-ads" style="margin-bottom:5px;margin-top:5px;"><!-- BEGIN UAT - 300x250 - InstaBlogs: Homeqn - DO NOT MODIFY -->
+<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/17/47/uat_4717.js?ad_size=300x250"></script>
+<!-- END TAG --></div><div class="clear"></div>
+	<iframe src="http://www.facebook.com/plugins/likebox.php?id=183472811753&amp;width=300&amp;height=250&amp;connections=10&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:300px; height:250px"></iframe>
+
+<div class="side-ads" style="margin-bottom:5px;margin-top:5px;"></div><div class="clear"></div>
+			<div class="t-sidewindow" id="archives">
+			<div class="side-head">Archives</div>
+			<ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open0').show('slow')}" "="">2010</ul><ul class="arch-open" id="arch-open0">					<li>
+						<a href="http://www.homeqn.com/archives/201006/">June 2010</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/201005/">May 2010</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/201004/">April 2010</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/201003/">March 2010</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/201002/">February 2010</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/201001/">January 2010</a>
+					</li>
+			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open1').show('slow')}" "="">2009</ul><ul class="arch-open" id="arch-open1" style="display:none;">					<li>
+						<a href="http://www.homeqn.com/archives/200912/">December 2009</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/200911/">November 2009</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/200910/">October 2009</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/200909/">September 2009</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/200908/">August 2009</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/200907/">July 2009</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/200906/">June 2009</a>
+					</li>
+								<li>
+						<a href="http://www.homeqn.com/archives/200905/">May 2009</a>
+					</li>
+					</ul></div><!-- EOF archives -->
 		
-<script>
-	function toggle_div(id)
-	{
-		var divid= document.getElementById(id);
-		if(divid.style.display == 'none')
-			divid.style.display = 'block';
-		else
-			divid.style.display = 'none';
-	}
+<div class="side-ads" style="margin-left:10px;float:right;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1003687546&amp;adSize=160x600"></script></div><div class="side-ad"><!-- BEGIN STANDARD TAG - 120 x 240 - homeqn::Default section - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="120" height="240" src="http://ad.103092804.com/st?ad_type=iframe&amp;ad_size=120x240&amp;section=805478"></iframe>
+<!-- END TAG --></div><div class="clear"></div>
+<div class="side-ads" style="margin-top:15px;"><!-- BEGIN RICH-MEDIA Burst Direct CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad15198ap.cgi/v=2.3S/sz=300x250A/NZ/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad15198ap.cgi/v=2.3S/sz=300x250A/NZ/99037/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad15198ap-map.cgi/ns/v=2.3S/sz=300x250A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad15198ap.cgi/ns/v=2.3S/sz=300x250A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END Burst Direct CODE --></div><div class="clear"></div>
+	<div class="clear"></div>
+</div><!-- EOF sidebar -->			
+<div class="clear"></div>
+<div class="insta-articles" id="insta-articles">
+	<div class="related-s">You might also like</div>
+	<div class="clear"></div>
+	
+
+	<div class="paging-class">		<div class="all-post"><a class="r-post prev-disabled"><b></b></a></div>
+			<div class="all-post"><a class="r-post next" href="javascript:post_paging('2','43','6')"><b></b></a></div>
+	</div>
+	<div class="clear"></div>
+
+		<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/550181/"><img src="http://www.instablogsimages.com/images/2010/06/21/sustainable-wood-jewelry-4_vgoPZ_22975_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/550181/">Go eco-friendly with accessories made from sustainable wood</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/549864/"><img src="http://www.instablogsimages.com/images/2010/06/19/lingerie-football-league-23_rfUhk_22975_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/549864/">Your BF ignored you for FIFA? You ignore him for LFL...</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/549459/"><img src="http://www.instablogsimages.com/images/2010/06/17/shanghai-corporate-pavilion_1_x3s1o_17621_XQKGL_17621_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/549459/">10 stunning interactive architectural delights</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/549453/"><img src="http://www.instablogsimages.com/images/2010/06/17/body-paintings_H5ILb_22975_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/549453/">How the art of geeky body painting is turning heads (NSFW)</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/549325/"><img src="http://www.instablogsimages.com/images/2010/06/17/fifa-1_v3roB_22975_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/549325/">Chaos at the FIFA 2010, all because of orange dresses!</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+				<div class="single-story-insta">
+			<div class="stry-img-insta"><a href="http://www.instadaily.com/pv/549074/"><img src="http://www.instablogsimages.com/images/2010/06/16/miley-cyrus-1_mF1uy_22975_150x150.jpg"></a></div>
+			<div class="stry-title-insta"><a href="http://www.instadaily.com/pv/549074/">Miley Cyrus again lands into a controversy with excess cleavage show!</a></div>
+			<div class="clear"></div>
+		</div><!-- eof single-story -->
+			<div class="clear"></div>
+</div> <!-- EO week-dairy -->
+<div class="clear"></div>
+					
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://citizenmedia.us.intellitxt.com/intellitxt/front.asp?ipid=23165"></script>
+<!-- end Vibrant Media IntelliTXT script section -->		<div class="clear"></div>	
+		</div><!-- EOF inner-container -->
+		<div class="clear"></div>
+	</div> <!-- EOF container -->
+	<div id="footer">
+
+		<div class="glam-logo" style="text-align:center;">
+			<script type="text/javascript" language="JavaScript">
+			glam_affiliate_id = '1003687546';
+			glam_logo_type = 'GLiving';
+			glam_logo_size = '160x24';
+			glam_logo_color = 'wht';
+			glam_logo_country = 'US';
+			</script>
+			<script src="http://www8.glam.com/js/widgets/glam_logo.js"></script>
+		</div>
+
+		<div>Published by <a href="http://www.instablogs.com/">The Instablogs Network</a>,<a href="http://www.citizenmedia.org/"> Citizen Media Pvt. Ltd</a>.</div><div>Copyright © Instablogs Network 2009. All rights reserved</div><div>Powered by <a href="http://www.instapress.org/">Instapress</a></div>
+		<div><a href="http://www.instablogs.com/ad_solutions.php?b=137">Advertising</a> | <a href="http://www.homeqn.com/about-us.php">About</a> | <a href="http://www.homeqn.com/disclaimer.php">Disclaimer</a> | <a href="http://www.homeqn.com/privacy-policy.php">Privacy Policy</a> | <a href="http://www.homeqn.com/terms-of-use.php">Terms of Use</a> | <a href="http://www.homeqn.com/contact-us.php?q=general">Contact </a></div>
+	</div><!-- EOF footer -->
+	<div class="clear"></div>
+	<div id="fade" style="display:none;"></div>
+
+	<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4742329; 
+var sc_invisible=1; 
+var sc_partition=54; 
+var sc_click_stat=1; 
+var sc_security="6c7cce54"; 
 </script>
 
-	<div class="side-ads" style="margin-left:20px; padding-bottom:10px; margin-right:10px;"><!-- begin ZEDO for channel: Instablogs , publisher: Instablogs , Ad Dimension: Medium Rectangle - 300 x 250 -->
-<iframe src="http://d2.zedo.com/jsc/d2/ff2.html?n=1140;c=26;s=35;d=9;w=300;h=250" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="300" height="250"></iframe>
-<!-- end ZEDO for channel: Instablogs , publisher: Instablogs , Ad Dimension: Medium Rectangle - 300 x 250 --></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-<div class="clear"></div>
-<div class="gd-banner"><a href="http://www.bornrich.org/entry/christmas-gift-guide-2009/"><img src="/css-img/banner_gizmowatch_all.gif"></a></div>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="site stats"
+href="http://www.statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/4742329/0/6c7cce54/1/"
+alt="site stats" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+<!-- Start of StatCounter Code Instablogs Network -->
+<script type="text/javascript">
+var sc_project=2497465; 
+var sc_invisible=1; 
+var sc_partition=66; 
+var sc_click_stat=1; 
+var sc_security="77633a20"; 
+</script>
 
-<div class="inner-sidebars">
-	<div class="inner-sidebar1">
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="web stats"
+href="http://www.statcounter.com/free_web_stats.html"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/2497465/0/77633a20/1/"
+alt="web stats" ></a></div></noscript>
+<!-- End of StatCounter Code -->
 
-<div class="side-ads" style="margin-bottom:10px"></div><div class="clear"></div>	
-	<div style="padding-bottom:10px;text-align:center;">
-		<a href="http://www.instablogs.com/instablogs-club/"><img src="http://www.instablogs.com/css-img/insta_club_badge.gif"></a>
-	</div>
+	<!-- Site Google Analytics -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-601944-92");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+	<!-- End of Site Google Analytics -->
 
-<div class="side-ads"></div><div class="clear"></div>
-<div class="market-place">
-	<h2>Instablogs Club</h2>
-	<div class="club-data">
-	<div class="club-top-title"><a href="http://www.nampblog.com/2009/12/improve-n97s-memory-with-nokias-memory.html">Improve N97's Memory with Nokia's Memory Reorganizer Application</a><span> (<a href="http://www.nampblog.com">NAMP Blog</a>)</span></div><div class="club-top-title"><a href="http://www.techviva.com/glow-in-the-dark-odd-pods-cacti-pals/13592">Glow in the Dark Odd Pods Cacti Pals</a><span> (<a href="http://www.techviva.com/">Techviva</a>)</span></div><div class="club-top-title"><a href="http://www.techviva.com/vinturi-essential-wine-aerator/13589">Vinturi Essential Wine Aerator</a><span> (<a href="http://www.techviva.com/">Techviva</a>)</span></div><div class="club-top-title"><a href="http://www.techviva.com/m-6-speedster/13586">M-6 Speedster</a><span> (<a href="http://www.techviva.com/">Techviva</a>)</span></div><div class="club-top-title"><a href="http://www.techviva.com/closet-annex/13583">Closet Annex</a><span> (<a href="http://www.techviva.com/">Techviva</a>)</span></div><span class="club-top-img"><a href="http://www.crickblog.com/entry/sa-eng-t-1-day-4-stumps-hashim-uplifts-sa-to-power-even-as-storm-threat-remains/"><img src="http://www.instablogsimages.com/images/2009/12/19/hashim-amla-james-anderson_fLJdv_17022_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.crickblog.com/entry/sa-eng-t-1-day-4-stumps-hashim-uplifts-sa-to-power-even-as-storm-threat-remains/">SA Eng T 1 Day 4 Stumps: Hashim Uplifts SA to Power even as Storm Threat Remains</a><span> (<a href="http://www.crickblog.com">Cricket Blog</a>)</span></div><span class="club-top-img"><a href="http://www.crickblog.com/entry/aus-wi-t-3-day-4-stumps-aus-on-verge-of-series-win-over-feisty-caribbean-counterparts/"><img src="http://www.instablogsimages.com/images/2009/12/19/brendon-nash_Z9OqG_17022_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.crickblog.com/entry/aus-wi-t-3-day-4-stumps-aus-on-verge-of-series-win-over-feisty-caribbean-counterparts/">Aus Wi T 3 Day 4 Stumps: Aus on Verge of Series Win Over Feisty Caribbean Counterparts</a><span> (<a href="http://www.crickblog.com">Cricket Blog</a>)</span></div>	</div>
-	<div class="add-news"><a class="add-news-page" href="http://www.instablogs.com/instablogs-club/club_wp_plugin.php">Add This</a></div>
-</div><div class="side-ads"></div><div class="clear"></div><div class="clear"> </div>
-	<div class="border"></div>
-	<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div id="content-sidebar-inner">
+
+	<!-- Channel Google Analytics -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-5515876-12");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+	<!-- End of Channel Google Analytics -->
+
+<!-- Instablogs Network Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-601944-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- End of Instablogs Network Google Analytics -->
+	<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=dj_ewws6Kr35fsadbiUt4I&amp;s=130"></script>
+
 	
-	
-
-
-	<div class="clear"></div>
-
-	
-	<div class="clear"></div>
-		
-	
-</div><!-- EOF #content-sidebar-inner -->	<div class="border"></div>
-			<div id="archives">
-			<h2>Archives</h2>
-			
-			<div class="year" onclick="toggle_div('arch-open0')">2009</div><div id="arch-open0">				<div class="archive-data">
-					<a href="http://www.homeqn.com/archives/200912/">December 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.homeqn.com/archives/200911/">November 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.homeqn.com/archives/200910/">October 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.homeqn.com/archives/200909/">September 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.homeqn.com/archives/200908/">August 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.homeqn.com/archives/200907/">July 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.homeqn.com/archives/200906/">June 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.homeqn.com/archives/200905/">May 2009</a>
-				</div>
-						</div>
-		</div><!-- EOF archives -->
-		
-		<div class="border"></div>
-	<div class="border"></div>
-	<div class="side-ads"><!-- begin ZEDO for channel: Instablogs , publisher: Instablogs , Ad Dimension: Wide Skyscraper - 160 x 600 -->
-<iframe src="http://d2.zedo.com/jsc/d2/ff2.html?n=1140;c=26;s=35;d=7;w=160;h=600" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="160" height="600"></iframe>
-<!-- end ZEDO for channel: Instablogs , publisher: Instablogs , Ad Dimension: Wide Skyscraper - 160 x 600 --></div><div class="clear"></div>	
-	</div><!-- EOF inner-sidebar1 -->
-
-		<div class="inner-sidebar2">
-
-		<div class="ext-links" style="padding:10px 0 0 15px;">
-		<span class="twit" style="padding:5px;"><a href="http://twitter.com/homeqn"><img src="/images/twitter.png" border="0" alt=""></a></span>
-		<span class="faceb" style="padding:5px;"><a href="http://www.facebook.com/pages/Home-Quotient/183472811753"><img src="/images/facebook.png" border="0" alt=""></a></span>
-		</div>
-		<div class="clear"></div>
-
-			<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-			<div id="tags">
-				<h2>Tags</h2>
-				<div class="tag-content">
-					<a href="http://www.homeqn.com/tags/bathroom/" class="ibn_tag4">bathroom</a> <a href="http://www.homeqn.com/tags/bathroom-furnishing/" class="ibn_tag7">Bathroom Furnishing</a> <a href="http://www.homeqn.com/tags/bedroom/" class="ibn_tag2">Bedroom</a> <a href="http://www.homeqn.com/tags/furniture/" class="ibn_tag9">furniture</a> <a href="http://www.homeqn.com/tags/home-accessory/" class="ibn_tag3">Home Accessory</a> <a href="http://www.homeqn.com/tags/home-decor/" class="ibn_tag8">home decor</a> <a href="http://www.homeqn.com/tags/home-design/" class="ibn_tag4">Home Design</a> <a href="http://www.homeqn.com/tags/home-furnishing/" class="ibn_tag10">Home Furnishing</a> <a href="http://www.homeqn.com/tags/home-furnishings/" class="ibn_tag1">Home Furnishings</a> <a href="http://www.homeqn.com/tags/home-furniture/" class="ibn_tag6">home furniture</a> <a href="http://www.homeqn.com/tags/home-interior/" class="ibn_tag9">Home Interior</a> <a href="http://www.homeqn.com/tags/house-design/" class="ibn_tag6">House design</a> <a href="http://www.homeqn.com/tags/housing/" class="ibn_tag5">housing</a> <a href="http://www.homeqn.com/tags/kitchen/" class="ibn_tag5">kitchen</a> <a href="http://www.homeqn.com/tags/lamp/" class="ibn_tag2">lamp</a> <a href="http://www.homeqn.com/tags/lifestyle/" class="ibn_tag10">Lifestyle</a> <a href="http://www.homeqn.com/tags/lighting/" class="ibn_tag8">Lighting</a> <a href="http://www.homeqn.com/tags/lights/" class="ibn_tag3">lights</a> <a href="http://www.homeqn.com/tags/real-estate/" class="ibn_tag7">real estate</a> <a href="http://www.homeqn.com/tags/table/" class="ibn_tag1">Table</a> 				</div>		
-			</div><!-- EOF  tags-->
-			
-				
-
-			<div class="clear"></div>
-			
-			<div class="border"></div>
-
-			<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-			<div class="Comments">
-				<h2>Fresh Comments</h2>
-									<div class="image-content">
-						<div class="image"><img src="http://www.instablogsimages.com/user-img/m_varologic.jpg"></div>
-						<div class="comment-content">
-							<div class="author">
-														<a href="http://varologic.instablogs.com/">Varologic Seo</a>
-														</div>
-							on <span><a href="http://www.homeqn.com/entry/green-a-sustainable-skin-for-the-buildings-of-the-future/#comment-637591">Green: A sustainable skin for...</a> Excellent idea and work has been done, by developing the vertical gardens, we will get... </span>
-						</div>
-					</div>
-					<div class="clear"></div>
-									<div class="image-content">
-						<div class="image"><img src="http://www.instablogsimages.com/user-img/m_yam2_ever.jpg"></div>
-						<div class="comment-content">
-							<div class="author">
-														<a href="http://yam2_ever.instablogs.com/">Yaser Banjar</a>
-														</div>
-							on <span><a href="http://www.homeqn.com/entry/rock-in-a-stool/#comment-637046">Rock in a stool</a> i like it, i would like to have one :) </span>
-						</div>
-					</div>
-					<div class="clear"></div>
-									<div class="image-content">
-						<div class="image"><img src="http://www.instablogsimages.com/user-img/m_demonike.jpg"></div>
-						<div class="comment-content">
-							<div class="author">
-														<a href="http://demonike.instablogs.com/">Kutt Niinepuu-Kiik</a>
-														</div>
-							on <span><a href="http://www.homeqn.com/entry/amazing-transforming-furniture-concepts/#comment-635701">Amazing transforming...</a> IKEA style... :) </span>
-						</div>
-					</div>
-					<div class="clear"></div>
-									<div class="image-content">
-						<div class="image"><img src="http://www.instablogsimages.com/user-img/m_jessicag.jpg"></div>
-						<div class="comment-content">
-							<div class="author">
-														<a href="http://jessicag.instablogs.com/">Jessica Galsworthy</a>
-														</div>
-							on <span><a href="http://www.homeqn.com/entry/grow-your-own-dinner-vegetable-box-from-an-18-year-old-entrepreneur/#comment-631040">‘Grow your own dinner’...</a> Hi I am the Jessica in the picture! Thanks for this!!Shocked me to see I was on... </span>
-						</div>
-					</div>
-					<div class="clear"></div>
-									<div class="image-content">
-						<div class="image"><img src="http://www.instablogsimages.com/user-img/m_naveen.jpg"></div>
-						<div class="comment-content">
-							<div class="author">
-														<a href="http://naveen.instablogs.com/">Naveen</a>
-														</div>
-							on <span><a href="http://www.homeqn.com/entry/dwell-hunting-students-reveal-futuristic-space-hotel-concept/#comment-628129">Dwell Hunting: Students...</a> With the space tourism industry heating up, we are sure to see some great things intended... </span>
-						</div>
-					</div>
-					<div class="clear"></div>
-							</div><!-- EOF Comments -->
-
-
-			<div class="clear"></div>
-
-			<div class="border"></div>
-
-				<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-				<div class="market-place">
-				
-					<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-					<div class="buy"> To Advertise please <a href="http://www.instablogs.com/ad_solutions.php?b=137">Contact Us</a>.</div>
-				</div><!-- EOF market-place -->
-
-			<div class="border"></div>
-
-			<div class="side-ads"></div><div class="clear"></div>
-	</div><!-- EOF inner-sidebar2 -->
-
-</div><!-- EOF inner-sidebars -->
-
-<div class="clear"></div>
-
-</div><!-- EOF #content-sidebar -->
-		</div><!-- EOF #content -->
-
-		<!--INFOLINKS_OFF--><div class="clear"> </div>
-				
-		<div id="ad-footer">
-
-			<div class="side-ads"></div>
-
-			<div class="side-ads"></div>
-
-		</div><!-- EOF #ad-footer -->
-
-		<div id="footer">
-			
-			<div id="footer-main">
-				
-				<div class="publish">Published by The <a href="http://www.instablogs.com/">Instablogs Network</a>, <a href="http://www.citizenmedia.org">Citizen Media Pvt. Ltd.</a></div>
-				<div class="copyright">Copyright © Instablogs Network 2005. All rights reserved.</div>
-				<div class="footer-links">
-				<a href="http://www.instablogs.com/ad_solutions.php?b=137">Advertising</a>  |  <a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
-				</div>
-			</div><!-- EOF #footer-main -->
-
-				<div class="side-ads"></div>
-
-				<div class="side-ads"></div>
-
-		</div><!-- EOF #footer -->
-
-		<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-601944-24");
-		pageTracker._trackPageview();
-		</script>
-
-		<!-- Start of StatCounter Code ===Homeqn.com=== -->
-			<script type="text/javascript">
-			var sc_project=4742329; 
-			var sc_invisible=1; 
-			var sc_partition=54; 
-			var sc_click_stat=1; 
-			var sc_security="6c7cce54"; 
-			</script>
-
-			<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-			class="statcounter"><a title="blogger hit counter"
-			href="http://www.statcounter.com/blogger/"
-			target="_blank"><img class="statcounter"
-			src="http://c.statcounter.com/4742329/0/6c7cce54/1/"
-			alt="blogger hit counter" ></a></div></noscript>
-		<!-- End of StatCounter Code -->
-
-
-		<!-- Start of StatCounter Code Instablogs Network -->
-			<script type="text/javascript">
-			sc_project=2497465; 
-			sc_invisible=1; 
-			sc_partition=23; 
-			sc_security="77633a20"; 
-			</script>
-
-			<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-			class="statcounter"><a title="hits counter"
-			href="http://www.statcounter.com/free_hit_counter.html"
-			target="_blank"><img class="statcounter"
-			src="http://c24.statcounter.com/2497465/0/77633a20/1/"
-			alt="hits counter" ></a></div></noscript>
-		<!-- End of StatCounter Code -->
-
-
-	</div> <!-- EOF #container -->
-	<script type="text/javascript" src="http://setup.hover.in/script?load=V0001AxA226" id="hi_client"></script>
-	
-
-		<!-- Homeqn Analytics Code -->
-			<script type="text/javascript">
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">
-			try {
-			var pageTracker = _gat._getTracker("UA-601944-92");
-			pageTracker._trackPageview();
-			} catch(err) {}
-			</script>
-
-
-		<!-- Lifestyle Google Analytics -->
-			<script type="text/javascript">
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">
-			var pageTracker = _gat._getTracker("UA-5515876-12");
-			pageTracker._trackPageview();
-			</script>
-
-		<!-- Instablogs Network Google Analytics -->
-			<script type="text/javascript">
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">
-			var pageTracker = _gat._getTracker("UA-601944-10");
-			pageTracker._trackPageview();
-			</script>
-
-<div class="side-ads">
-	</div>
-
-  
-
 </body></html>
