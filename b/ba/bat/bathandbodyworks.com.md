@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bathandbodyworks.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219213850id_/http%3A//www.bathandbodyworks.com/helpdesk/index.jsp%3Fdisplay%3Dcorp%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathandbodyworks.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622232148id_/http%3A//www.bathandbodyworks.com/helpdesk/index.jsp%3Fdisplay%3Dcorp%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
 
 # Bath & Body Works
 
