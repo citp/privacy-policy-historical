@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the cbitw-layouts.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618151401id_/http%3A//www.cbitw-layouts.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbitw-layouts.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622061331id_/http%3A//www.cbitw-layouts.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Cbitw-layouts.com - Myspace Layouts, Comment boxes, Other Resources, & More!
 
-[ ](http://friends.myspace.com/index.cfm?fuseaction=invite.addfriend_verify&friendId=186584524)
+  
+
 
 Custom Search 
 
@@ -13,5 +14,7 @@ To try and bring you offers that are of interest to you, we have relationships w
 If there are any questions please email me at biz@cbitw-layouts.com � 2008 [cbitw-layouts.com](http://www.cbitw-layouts.com/) All Rights Reserved. 
 
 Leave a comment if you take!
+
+[](http://comment.myspace.com/index.cfm?fuseaction=user.viewProfile_commentForm&friendID=186584524)
 
 Enjoy The Music!
