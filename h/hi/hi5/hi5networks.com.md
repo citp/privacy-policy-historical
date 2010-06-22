@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hi5networks.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305231306id_/http%3A//www.hi5.com/friend/displayPrivacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hi5networks.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622220405id_/http%3A//www.hi5.com/friend/displayPrivacy.do) for the most accurate reproduction.*
 
-# hi5 | Your Friends. Your World.
+# hi5 | Social Entertainment
 
 **hi5 Privacy Policy**  
 hi5 offers an online place to meet friends. This Privacy Policy is intended to inform you of hi5's policies and practices regarding the collection, use and disclosure of any Personal Information you submit to us through our Sites.
@@ -48,7 +48,7 @@ We will disclose information in response to subpoenas, court orders, or legal pr
 If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
  **Third Party Advertising**  
-We use third-party advertising companies to serve advertisements when you visit our Sites. These companies may use Personal Information, such as gender or age, and other information (not including your name, address, email address or telephone number) about your visits to the Sites and other websites, such as time of day of the login, IP address or information about the internet service provider (ISP) or mobile device Carrier, in order to provide advertisements on the Sites about goods and services that may be of interest to you. 
+We use third-party advertising companies to serve advertisements when you visit our Sites. These companies may use Personal Information, such as gender or age, and other information (not including your name, address, email address or telephone number) about your visits to the Sites and other websites, such as time of day of the login, IP address or information about the internet service provider (ISP) or mobile device Carrier, in order to provide advertisements on the Sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://networkadvertising.org/managing/opt_out.asp). 
 
 **Personal Information Collected Via Technology**  
 As you navigate the Sites, certain information may also be passively collected and stored on our server logs, including your Internet protocol address, browser type, and operating system. If you send SMS, MMS, or text messages to the Services, we will collect the telephone number (if any) from which such communication was sent. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed, or on which of the advertisements displayed on the Sites you clicked. This type of information is collected to make our Services and solutions more useful to you and to tailor the hi5 community experience to meet your special interests and needs. If you search the hi5 community by using a toolbar that hi5, or a third party provides, we may collect Anonymous Information about you automatically, but we will not collect Personal Information.
@@ -77,7 +77,7 @@ We do not intentionally gather Personal Information about visitors who are under
 Should you have any questions or concerns regarding this Privacy Policy, please contact us:
 
             hi5 Networks, Inc.  
-            55 2nd St., Suite 300  
+            55 2nd St., Suite 400  
             San Francisco, CA 94105  
             USA  
             Attn: Privacy Department  
@@ -86,4 +86,4 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
  **Changes to this Privacy Policy**  
 hi5 may update this policy from time to time. We will notify you about significant changes in the way we treat Personal Information by sending a notice to the primary email address specified in your hi5 account or by placing a prominent notice on our Sites. If you object to any such changes, you must cease using our Sites. Continued use of our Sites following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-This Policy was last updated in August 2008.
+This Policy was last updated in April 2009.
