@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagcounter.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225456id_/http%3A//flagcounter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagcounter.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623000042id_/http%3A//www.flagcounter.com/privacy.html) for the most accurate reproduction.*
 
 # Flag Counter » Privacy Policy
 
@@ -12,13 +12,13 @@ Personal information submitted to us by customers of our service (i.e. those who
 
 **CORRESPONDENCE WITH US**
 
-Any correspondence we receive from third-parties regarding a customer of our service�s account may be revealed to that customer, or to other third-parties at our sole discretion (even if the third-party contacting us is also our customer). For instance, if we receive a complaint regarding a customer's account, we may reveal that complaint to the account holder, so that they may address the situation. 
+Any correspondence we receive from third-parties regarding a customer of our service's account may be revealed to that customer, or to other third-parties at our sole discretion (even if the third-party contacting us is also our customer). For instance, if we receive a complaint regarding a customer's account, we may reveal that complaint to the account holder, so that they may address the situation. 
 
 Correspondence received from customers of our service (who identify themselves as such) regarding their account will ordinarily not be revealed to third parties, except as we deem in our sole discretion, necessary for us to address any issues raised in or by such correspondence, or as required by law. 
 
 **STATISTICAL INFORMATION COLLECTED**
 
-Information related to the viewership of your website (or the viewership of wherever you or anyone else has placed the counter code) will be publicly disclosed, including being displayed on your website, and anywhere else you, or anyone else implements code from our service (with or without your permission). Such viewership information further will be displayed on flagcounter.com or on other websites owned or operated by Boardhost.com, Inc. This information includes, but is not limited to the identified country of origin of your website's visitors and other visitor statistics and information we may collect. 
+Information related to the viewership of your website (or the viewership of wherever you or anyone else has placed the counter code) will be publicly disclosed, including being displayed on your website, and anywhere else you, or anyone else implements code from our service (with or without your permission). Such viewership information further will be displayed on flagcounter.com or on other websites owned or operated by Boardhost.com, Inc. This information includes, but is not limited to the identified country of origin of your website's visitors, sometimes including the state, province, region, county or other region, and other visitor statistics and information we may collect. 
 
 **COOKIES AND THIRD PARTY ADVERTISING**
 
