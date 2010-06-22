@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the apture.com privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220113551id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apture.com privacy policy that was archived on 2010-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622041214id_/http%3A//www.apture.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-		<title>Privacy Policy – Apture.com</title>
+		<title>Privacy Policy – Apture</title>
 		<!--[if !IE]><!-->
-			<link type="text/css" rel="stylesheet" href="http://static.apture.com/media/core.css?v=85068373" media="screen">
+			<link type="text/css" rel="stylesheet" href="http://cdn.apture.com/media/core.css?v=2793022" media="screen">
 		<!-- <![endif]-->
 		<!--[if gt IE 6]>
-			<link type="text/css" rel="stylesheet" href="http://static.apture.com/media/core_ie.css?v=85068373" media="screen" />
+			<link type="text/css" rel="stylesheet" href="http://cdn.apture.com/media/core_ie.css?v=2793022" media="screen" />
 		<![endif]-->
 		<!--[if lte IE 6]>
-			<link type="text/css" rel="stylesheet" href="http://static.apture.com/media/core_ie6.css?v=85068373" media="screen" />
+			<link type="text/css" rel="stylesheet" href="http://cdn.apture.com/media/core_ie6.css?v=2793022" media="screen" />
 		<![endif]-->
 		<link rel="icon" href="/favicon.ico?s" type="image/x-icon">
         
@@ -18,22 +18,78 @@
 
 	<body>
 
-	    
-
 		
 		<div id="wrap">
-			<div id="header">
-				<a href="http://www.apture.com/" title="Return to Apture homepage"><img id="logo" src="http://static.apture.com/media/imgs/logoHome.png" alt="Apture"></a>
+		    <div id="header">
+		    	<a href="/"><img id="logo" src="http://cdn.apture.com/media/imgs/logoHome.png" alt="Apture"></a>
+			
+		                        <p><span id="counter">00,000,000</span> visitors retained.&nbsp;
 				
-				<p><a href="/user/">Sign In</a> or <a href="http://www.apture.com/plugin/">Download Apture</a></p>
+				<a href="/user/">Sign In</a></p>
+				
+				<script>
+				var QuickCounter = (function() {
+                    var $start = 12140524, // Number to start from, based on count on $startDate
+                        $startDate = Date.parse('03/31/2010'),
+                        $incr = 1000, // How often to update counter in ms.
+                        $rate = 30091, // # to increment PER day
+
+                        $lastCount = 0,
+                        $ratePerIncr = 0,
+                        $callback = null;
+
+                    function count()
+                    {
+                        $lastCount += $numPerIncr;
+
+                        var $newCount = '',
+                            $curCountLen;
+                        $count = '' + Math.floor($lastCount);
+
+                        $countLen = $count.length;
+                        $pos = $countLen;
+
+                        while($pos > 0)
+                        {
+                            $newPos = ($pos >= 3 ? $pos - 3 : 0);
+                            $newCount = $count.substring($newPos, $pos) + ($newCount != '' ? ',' : '') + $newCount;
+                            $pos = $newPos;
+
+                        }
+
+                        $callback($newCount);
+                    }
+
+                    return function($cb) {
+                        $rateInMs = ($rate / 24 / 60 / 60 / 1000);
+                        $numPerIncr = $rateInMs * $incr;
+                        $callback = $cb;
+                        $lastCount = $start + (((new Date).getTime()) - $startDate) * $rateInMs;
+
+                        window.setInterval(count, $incr);
+                    };
+                })();
+                
+				QuickCounter(
+                    function($count)
+                    {
+                        document.getElementById('counter').innerHTML = $count;
+                    }
+                );
+				</script>
+
+				
 				<ul id="navigation">
-					<li class="bloggers"><a href="http://www.apture.com/bloggers/">For Bloggers</a></li>
-					<li class="publishers"><a href="http://www.apture.com/publishers/">For Publishers</a></li>
-					<li class="showcase"><a href="http://www.apture.com/showcase/">Showcase</a></li>
-					<li class="experience"><a href="http://www.apture.com/experience/music/">Demo</a></li>
+                    <!-- <li class="bloggers"><a href="http://www.apture.com/bloggers/">For Bloggers</a></li> -->
+                    <!-- <li class="publishers"><a href="http://www.apture.com/publishers/">For Publishers</a></li> -->
+                    <!-- <li class="showcase"><a href="http://www.apture.com/showcase/">Showcase</a></li> -->
+                    <li class="siteBarOverview"><a href="http://www.apture.com/signup/">Site Bar Overview</a></li>
+                    <!-- <li class="experience"><a href="http://www.apture.com/experience/music/">Demo</a></li> -->
+                    <li class="aboutUs"><a href="http://www.apture.com/about/">About Us</a></li>
 				</ul>
 				
-			</div><!--/#header-->
+			</div>
+
 
 			<div id="content">
 				<div id="content-primary">
@@ -125,7 +181,7 @@
 
 			
 			<div id="footer">
-	<p id="copyright">Copyright © 2009 Apture, Inc. Patents Pending</p>
+	<p id="copyright">Copyright © 2010 Apture, Inc. Patents Pending</p>
 	<ul id="global-nav">
 		<li><a href="http://www.apture.com/about/">About</a></li>
 		<li><a href="http://www.apture.com/press/">Press</a></li>
