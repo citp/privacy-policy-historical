@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the piperlime.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011946id_/http%3A//www.piperlime.com/customerService/info.do%3Fcid%3D4227) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piperlime.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623003434id_/http%3A//piperlime.gap.com/customerService/info.do%3Fcid%3D4227) for the most accurate reproduction.*
 
-# Privacy policy | Piperlime
+# | Piperlime
 
 **What kind of information does Gap Inc. collect?**
 
@@ -19,7 +19,7 @@ We may use your personal information in the following ways:
   * To help us address problems with and improve our site design, products and services
   * To enhance your shopping experience
   * To analyze trends and statistics
-  * To protect the security or integrity of our websites and our business 
+  * To protect the security or integrity of our websites and our business
   * To contact you if necessary
 
 
@@ -32,17 +32,17 @@ Back to top
 
 We may share your personal information in the following ways:
 
-  * When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, or Piperlime), we may share that information with our other Gap Inc. brands.
-  * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information.
+  * When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, or Athleta), we may share that information with our other Gap Inc. brands. 
+  * If you purchase Athleta brand products through our website or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes. We do not share email addresses for such purposes. We also do not share personal information about customers who only browse, email comments, request a catalog, or request email updates, or who purchase only Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, or Piperlime merchandise. If you would prefer that we not share information about you with other companies, please let us know by contacting Athleta customer service as described in the section entitled, "How do I contact you?", below.
+  * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information. 
   * We may share your information when we team up with another company to offer or provide products, services, contests, or promotions to our customers. 
+  * We may share information about you if necessary, in our good faith judgment, to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Gap Inc. or others.
 
 
 
-In addition, if you choose to participate in any scrip, loyalty, or similar program in which a Gap Inc. brand is a participating vendor, and you authorize Gap Inc. or our credit card processor to provide information about your purchases to the company administering the program, we will share your personal information with that program. Scrip programs allow you to instruct us to divert a percentage of the amount you spend on Gap Inc. purchases to participating schools and other non-profit organizations. Loyalty programs allow you to earn "points" on purchases at Gap Inc. brands, which you may then use toward certain rewards offered by the loyalty programs in which you participate. The information you authorize us to disclose to the scrip or loyalty program may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the scrip or loyalty company may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them.
+In addition, if you choose to participate in any third-party scrip, loyalty, or similar program in which a Gap Inc. brand is a participating vendor, and you authorize Gap Inc. or our credit card processor to provide information about your purchases to the company administering the program, we will share your personal information with that program. Scrip programs allow you to instruct us to divert a percentage of the amount you spend on Gap Inc. purchases to participating schools and other non-profit organizations. Loyalty programs allow you to earn "points" on purchases at Gap Inc. brands, which you may then use toward certain rewards offered by the loyalty programs in which you participate. The information you authorize us to disclose to the third-party scrip or loyalty program may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the scrip or loyalty company may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them.
 
 In the unlikely event of a sale or merger of Gap Inc. or any of our businesses, our customers' personal information and other information we have collected as described in this policy may be among the transferred business assets.
-
-We reserve the right to disclose information about you as permitted or required by law, in response to legal process and law enforcement requests, and as we believe necessary to protect the property, interests and rights of Gap Inc. and others.
 
 Back to top
 
@@ -56,13 +56,21 @@ Back to top
 
 **How do I make choices about receiving promotional communications?**
 
-Gap Inc. and our brands, Gap, Banana Republic, Old Navy, and Piperlime, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below.
+Gap Inc. and our brands, including Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below.
 
 Please be sure to include your full name and the email address you used when you registered with or made a purchase from the Gap Inc. brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Gap Inc.
 
-If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service. 
+If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service.
 
-_Please note_ that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
+Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
+
+Back to top
+
+**How do I stop receiving Athleta catalogs?**
+
+If you no longer wish to receive Athleta catalogs or wish to alert us to duplicate mailings, please contact Athleta customer service as described in the section entitled, "How do I contact you?", below. Please provide your exact name, postal address, and email address so that your request can be effectively processed. It may take up to 90 days in order for your information to be completely removed from our list.
+
+To learn more about your rights as a consumer and to receive less national advertising mail, please visit the Direct Marketing Association at <http://www.dmachoice.org/>.
 
 Back to top
 
@@ -74,7 +82,7 @@ Back to top
 
 **How does Gap Inc. use cookies?**
 
-Our websites use "cookies", which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
+Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
 
 For example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Does Gap Inc. share my information?", above.)
 
@@ -103,7 +111,7 @@ We do our best to provide you with a safe and convenient shopping experience. We
 
 When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https."
 
-If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?", below. Customer Services representatives at each of our brands will be happy to assist you.
+If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?", below. Customer Services representatives at each of our brands are available 24 hours a day, seven days a week, and will be happy to assist you.
 
 Back to top
 
@@ -134,7 +142,7 @@ Groveport, OH 43195-0002
 5900 North Meadows Drive  
 Grove City, OH 43123-8476  
 1-888-BR STYLE (1-888-277-8953)   
-1.888.906.1345 (TDD hearing impaired)  
+1-888-906-1345 (TDD hearing impaired)  
 [custserv@bananarepublic.com](mailto:custserv@bananarepublic.com)
 
 **Old Navy Customer Services**  
@@ -151,6 +159,13 @@ Grove City, OH 43123
 1-888-906-1345 (TDD hearing impaired)  
 [customercare@piperlime.com](mailto:customercare@piperlime.com)
 
+**Athleta Customer Care**  
+5900 North Meadows Drive  
+Grove City, OH 43123  
+1-877-3ATHLETA (1-877-328-4538)  
+1-888-906-1345 (TDD hearing impaired)  
+[custserv@athleta.com](mailto:custserv@athleta.com)
+
 Back to top
 
 **Your California Privacy Rights**
@@ -163,5 +178,3 @@ Legal Department
 San Francisco, CA 94105 
 
 Back to top
-
-**Last Revised: August 27, 2007**
