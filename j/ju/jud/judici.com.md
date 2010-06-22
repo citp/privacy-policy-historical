@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judici.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205141158id_/http%3A//www.judici.com/service/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judici.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044547id_/http%3A//judici.com/service/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Judici Privacy Policy
 
