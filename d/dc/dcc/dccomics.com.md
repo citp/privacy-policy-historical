@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dccomics.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218024957id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccomics.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623015541id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # DC Comics | Legal
 
@@ -11,7 +11,6 @@ Thank you for visiting DCCOMICS.COM, a Time Warner site. Your privacy is importa
   * [WildStorm.com](http://www.wildstorm.com/)
   * [DCdirectonline.com](http://www.dcdirectonline.com/)
   * [Madmag.com](http://www.madmag.com/)
-  * [CMXManga.com](http://www.cmxmanga.com/)
 
 
 
@@ -45,9 +44,9 @@ Agents and contractors of Time Warner who have access to personally identifiable
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
-Certain Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here.](https://web.archive.org/web/20091218024957id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy?action=more#sharing)
+Certain Time Warner sites may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here.](https://web.archive.org/web/20100623015541id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy?action=more#sharing)
 
-Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20091218024957id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy?action=more#marketing) for instructions on how to make your request.
+Time Warner may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20100623015541id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy?action=more#marketing) for instructions on how to make your request.
 
 Finally, Time Warner sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -57,7 +56,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Time Warner has no control over these third parties' use of this information. The Time Warner site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20091218024957id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy?action=more#thirdparty).
+We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Our privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on this site's use of such third-party ad servers, please [click here](https://web.archive.org/web/20100623015541id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy?action=more#thirdparty).
 
 ### Cookies
 
@@ -71,7 +70,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ### How You can Access or Correct Information
 
-For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/web/20091218024957id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy?action=more#id).
+For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please [click here](https://web.archive.org/web/20100623015541id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy?action=more#id).
 
 To protect your privacy and security, we will Take reasonable steps to help verify your identity before granting access or making corrections.
 
@@ -81,7 +80,7 @@ The site you are visiting is one of the Time Warner general audience sites. For 
 
 ### How to Contact Us
 
-If you have any questions or concerns about the Time Warner online policy for This site or its implementation you may contact us at (212)636-5997 or for more options, please [click here.](https://web.archive.org/web/20091218024957id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy?action=contact)
+If you have any questions or concerns about the Time Warner online policy for This site or its implementation you may contact us at (212)636-5997 or for more options, please [click here.](https://web.archive.org/web/20100623015541id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy?action=contact)
 
 ### Notification regarding updates
 
