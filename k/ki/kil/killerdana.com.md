@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killerdana.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020173232id_/http%3A//www.killerdana.com/killerdana/dept.asp%3Fdept_id%3D3320) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerdana.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623005417id_/http%3A//www.killerdana.com/killerdana/dept.asp%3Fdept_id%3D3320) for the most accurate reproduction.*
 
 # FAQ & Privacy Policy at Killer Dana Surf Shop - Home of the Boardshort Superstore
 
@@ -12,17 +12,24 @@ Our system sends any person ordering from Killer Dana an initial confirmation em
 
 ## How do I return an item/order to Killer Dana?
 
-All returns must be accompanied by the return portion of your receipt. Please fill it our completely and legibly using blue or black ink. Items must be returned within 60 days – no returns will be accepted after 60 days from the purchase date. Killer Dana can not guarantee that exchange items will be in stock. If the items are out of stock a credit will be issued immediately. Repack the items and return the parcel along with the return portion of the receipt. **NO express** return shipping will be credited. **No COD** returns will be accepted.
+All returns must be accompanied by our [Return Form](http://www.killerdana.com/killerdana/assets/images/ra_form.pdf). Fill it out completely and legibly using blue or black ink. Items must be returned within 30 days – no returns are accepted after 30 days from purchase date. Product must be in new, unused condition (no pet hair, odors, signs of wear, etc.) with tags in place. Once we receive your return, it can take up to 3 weeks to process your return and credit your account. Your credit card company may require up to an additional 5–7 days to post the credit to your account. Repackage your return item(s) in the original packaging and return the parcel along with this mandatory [Return Form](http://www.killerdana.com/killerdana/assets/images/ra_form.pdf).
+
+**Send to:**  
+Killer Dana  
+**ATTN: Returns Dept.**  
+14370 Myford Rd  
+Suite 150  
+Irvine CA 92606
 
 ## What about return shipping & handling?
 
-Killer Dana uses a SmartLabel, a simple and convenient return solution offered to our customers. If applicable, attach the pre-paid, pre-addressed return label on the other side of the packing slip to your return package. You pay nothing up front. We will deduct a $7.95 shipping cost from your refund. There is no charge for exchanges or product mistakes on our behalf. You don’t have to wait in line. Just leave the package with your mail carrier or drop it off at any U.S. Mail location. To track, go to **http://tracking.smartlabel.com/** and use the SmartLabel tracking number found on the front of the packing slip. Please retain the top portion of your packing slip.
+Killer Dana uses SmartLabel, a simple and convenient return solution offered to our customers. If applicable, attach the pre-paid, pre-addressed return label on the other side of the packing slip to your return package. You pay nothing up front. We will deduct a $7.95 shipping cost from your refund. There is no charge for product mistakes on our behalf. Just leave the package with your mail carrier or drop it off at any U.S. Mail location. To track, go to [**http://tracking.smartlabel.com/**](http://tracking.smartlabel.com/) and use the SmartLabel tracking number found on the front of the packing slip. Please retain the top portion of your packing slip for your records.
 
 **Please follow these steps:**
 
   1. Select the items you are returning, including a reason code in the shaded section.
 
-  2. Tell us if you would like a refund or exchange (check the appropriate box). If exchanging, please list the item number(if possible), description, size, and color
+  2. Indicate if you would like a refund or to order an alternate item (use the appropriate reason code).
 
   3. Enclose the return form in the original package (perforate at center section) retain the upper portion for your records.
 
@@ -33,27 +40,27 @@ Killer Dana uses a SmartLabel, a simple and convenient return solution offered t
 
 _Unfortunately we are unable to offer SmartLabel® returns for packages shipped to Alaska, Hawaii, U.S. Territories, APO/FPO addresses or other countries._
 
-If you ship a return package on your own, please make sure to use a trackable and insured shipping method and use the address below:
+If you ship a return package on your own, please make sure to use a traceable **and** insured shipping method and send to the address below:
 
 > **Killer Dana Returns**  
->  **14370 Myford**  
+>  **14370 Myford Rd**  
 >  **Suite 150**  
 >  **Irvine, CA 92606**  
 >  **SO#WEB____________**
 
 ## What is considered returnable merchandise?
 
-We will accept the return of new, unworn, and tag still attached product. This means no human or pet hair allowed on the merchandise. Items that come to us smelling of smoke, cologne, or detergent will not be accepted. Pretty much anything that doesn’t smell new. Footwear must not be worn and have the original packaging (if any) and have the tags still attached (if attached). Surfboards can not be returned without prior approval. Skateboards and skate accessories that are not ridden and are in the original packaging (if any) are accepted.
+We will accept the return of new, unworn, and tag still attached product. This means no human or pet hair allowed on the merchandise. Items that come to us smelling of smoke, cologne, or detergent will not be accepted. Pretty much anything that doesn’t smell new. Footwear must not be worn and have the original packaging (if any) and have all tags still attached. Surfboards cannot be returned without prior approval. Skateboards and skate accessories that are not ridden and are in the original packaging are accepted.
 
 ## What if I received a defective/incorrect product?
 
-_Defective Merchandise_ : Killer Dana cannot guarantee the exchange for a defective item. This is because the item might no longer be in stock or that the item might look defective. What we mean is that sometimes vendors make worn out looking items for that look. If the item is believed to be defective please return the item explaining the reason in the return portion of the receipt. 
+_Defective Merchandise_ : Killer Dana cannot guarantee the return for a defective item. This is because the item might no longer be in stock or that the item might look defective. What we mean is that some vendors make worn out looking items for that style or look. If the item is believed to be defective please return the item explaining the reason in the return portion of the receipt. 
 
-_Incorrect items_ : Unfortunately, these mistakes do happen from time to time. We try our best to avoid them in shipping but once in a while they slip past us. If for any reason that you receive the incorrect merchandise, please return your incorrect item with the filled out return receipt, please see returns section for further detail. We will ship out the correct item with free shipping. If the item is no longer in stock we will issue a complete credit. No express return shipping reimbursement will be permitted.
+_Incorrect items_ : Unfortunately, these mistakes do happen from time to time. We try our best to avoid them in shipping but once in a while they slip past us. If for any reason that you receive the incorrect merchandise, please return your incorrect item with the filled out return receipt, please see returns section for further detail. We will ship out the correct item with free ground shipping. No express shipping reimbursement will be permitted.
 
 ## My surfboard is damaged!
 
-Please trust us that we would never send a damaged surfboard unless otherwise explained. If this does occur please **SAVE ALL** packaging and contact us immediately at 1.800.228.7873 and email us at info@killerdana.com. There is a process that the shipping carrier is going to need to perform to help process all claims.
+Please trust us that we would NEVER send a damaged surfboard (or any other goods for that matter). If this does occur please **SAVE ALL** packaging and contact us immediately at (800) 228-7873 and email us at info@killerdana.com. There is a process that the shipping carrier is going to need to perform to help process all claims.
 
   * If the damage is less than $100 we will gladly pay for the ding repair.
 
@@ -64,15 +71,15 @@ Please trust us that we would never send a damaged surfboard unless otherwise ex
 
 ## What happens if something I order is out of stock?
 
-Thanks to amazing technology and trial and error we have implemented a system to remove out-of-stock items from the online store. However, nobody is perfect, we all wish we were, but it does happen that an item is out-of-stock. We try to make that not happen but it unfortunately does. Our customer service will do their best to help out when this situation occurs.
+Thanks to amazing technology and trial and error we have implemented a system to remove out-of-stock items from the online store. However, nobody is perfect. Contact our customer service department and we’ll do our best to help out when this situation occurs.
 
 ## How long does it take to process my return and/or credit?
 
-Once returns are received we process them as soon as possible. However, this can, especially during certain times of the year, take longer than expected. Usually, we have returns fully processed within 2-3 weeks, this includes reshipment and/or credit. Your issuing bank may take an additional billing cycle to display the credit to your card.
+Once returns are received we process them as soon as possible. However, certain times of the year take longer than expected. Usually, we have returns fully processed within approximately 3 weeks, this includes credits. Your issuing bank may take an additional billing cycle to display the credit to your card.
 
 ## Is my return guaranteed?
 
-Killer Dana can not guarantee any returns that are not received when shipped using a service other than the SmartLabel. To prevent this type of situation please make sure to use a traceable and insured shipping method.
+Killer Dana cannot guarantee any returns that are not received when shipped using a service other than the SmartLabel. To prevent this type of situation please make sure to use a traceable and insured shipping method. When returns are received, assuming the item(s) are in new/unused condition (see above requirements) your returns will be processed promptly.
 
 ## When will I know that my order has shipped?
 
