@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ochsner.org privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220054459id_/http%3A//www.ochsner.org/misc/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ochsner.org privacy policy that was archived on 2010-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622042324id_/http%3A//www.ochsner.org/misc/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us" dir="ltr"><head profile="http://gmpg.org/xfn/11">
 <link rel="shortcut icon" href="/favicon.ico">
@@ -10,7 +10,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	<meta name="author" content="Ochsner Health System">
-	<meta name="copyright" content="2001-2009">
+	<meta name="copyright" content="2001-2010">
         <meta name="google-site-verification" content="nuDeLNLDI58fnnwLIn8op29LQdq8KpCx9Mr-ZHPf1ME">
 	<meta name="description" content="">
 	<meta name="keywords" content="">
@@ -145,6 +145,20 @@ GB_ANIMATION = false;
 $("a.greybox").click(function(e){ 
 window.scroll(0,0);
 this.href="/includes/enews_demographics/";
+          var t = this.title || $(this).text() || this.href;
+          GB_show(t,this.href,710,610);
+          return false;
+        });
+$("a.greybox_terms").click(function(e){ 
+window.scroll(0,0);
+this.href="/includes/registertowin_terms/";
+          var t = this.title || $(this).text() || this.href;
+          GB_show(t,this.href,710,610);
+          return false;
+        });
+$("a.email_friend").click(function(e){ 
+window.scroll(0,0);
+this.href="/includes/enews_email_friend/";
           var t = this.title || $(this).text() || this.href;
           GB_show(t,this.href,710,610);
           return false;
@@ -553,8 +567,10 @@ In addition, these entities, sites and locations may share medical information w
 
 		
 	<div id="sidebar">
-		<a class="greybox" href="#" title="E-Newsletter Signup"><img src="/images/e-news/enews_button_big.jpg" alt="E-News Signup"></a>
+
+		<a href="/Newsletters/signup/" title="E-Newsletter Signup" onclick="pageTracker._trackEvent('e-News Signup', '/misc/privacy_policy/');" target="_blank"><img src="/images/e-news/e-news-flat-button.jpg" alt="E-News Signup"></a>
 <a href="http://choose-healthy.org" target="_blank"><img src="/images/btn/CHbutton_Ochsner_278x166.jpg" width="278" height="166" border="0"></a>
+
 	</div><!-- /#sidebar -->
 
 </div><!-- /#content-wrap-top -->
@@ -586,7 +602,7 @@ In addition, these entities, sites and locations may share medical information w
 								<li><a href="http://www.ochsner.org/patients_visitors/how_to_prepare/" title="How to Prepare">How to Prepare</a></li>
 								<li><a href="http://www.ochsner.org/patients_visitors/patient_services_admission_and_discharge/" title="Admission &amp; Discharge">Admission &amp; Discharge</a></li>
 								<li><a href="http://www.ochsner.org/patients_visitors/patient_services_patient_rights_and_responsibilities/" title="Patient Rights &amp; Responsibilities">Patient Rights &amp; Responsibilities</a></li>
-								<li><a href="http://www.peryourhealth.com/PYH/och.asp" title="View Bills Online">View Bills Online</a></li>
+								<li><a href="http://www.rh.peryourhealth.com/PYH/och.asp" title="View Bills Online">View Bills Online</a></li>
 								<li class="view-more"><a href="http://www.ochsner.org/locations/" title="View all Locations">View all Locations</a></li>
 							</ul>
 							<ul class="left careers">
@@ -609,7 +625,7 @@ In addition, these entities, sites and locations may share medical information w
 				</div><!-- /#footer -->
 			
 				<div id="copyright">
-					<p>© Copyright 2009  <strong>Ochsner Health System</strong>&nbsp;&nbsp;<a href="http://www.ochsner.org/misc/privacy_policy/" title="View our privacy policy.">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://www.ochsner.org/misc/employees/" title="Employee resources">Employees</a>&nbsp;|&nbsp;<a href="http://www.ochsner.org/find_a_doctor/" title="Find a Doctor to Make an Appointment">Find a Doctor to Make an Appointment</a></p>
+					<p>© Copyright 2010  <strong>Ochsner Health System</strong>&nbsp;&nbsp;<a href="http://www.ochsner.org/misc/privacy_policy/" title="View our privacy policy.">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://www.ochsner.org/misc/employees/" title="Employee resources">Employees</a>&nbsp;|&nbsp;<a href="http://www.ochsner.org/find_a_doctor/" title="Find a Doctor to Make an Appointment">Find a Doctor to Make an Appointment</a></p>
 				</div><!-- /#copyright -->
 				<div id="sub-footer">
 					<p><strong>Ochsner accepts all major insurances.</strong></p>
@@ -618,16 +634,21 @@ In addition, these entities, sites and locations may share medical information w
 				</div>
 			</div><!-- /#wrap -->
 		</div><!-- /#outer-wrap -->
+<script src="/sayt/search-as-you-type.js"></script>
+<script>
+if (document.getElementById('fadname') != null) {
+      searchAsYouType.initialize(document.getElementById('fadname'), false);
+}	
+</script>
 		<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		
 		<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-1965275-1");
 		pageTracker._setDomainName(".ochsner.org");
 		pageTracker._trackPageview();
 		</script>
-<script>document.write("<scr"+"ipt src='http://bp.specificclick.net?pixid=99027351&u="+escape(parent.document.location)+"&r="+escape(parent.document.referrer)+"'></scri"+"pt>");</script><script src="http://bp.specificclick.net?pixid=99027351&amp;u=https%3A//web.archive.org/web/20091220054459id_/http%3A//www.ochsner.org/misc/privacy_policy/&amp;r="></script><noscript><IMG SRC="http://bp.specificclick.net?pixid=99027351" width=0 height=0 border=0></noscript>
+<script>document.write("<scr"+"ipt src='http://bp.specificclick.net?pixid=99027351&u="+escape(parent.document.location)+"&r="+escape(parent.document.referrer)+"'></scri"+"pt>");</script><script src="http://bp.specificclick.net?pixid=99027351&amp;u=https%3A//web.archive.org/web/20100622042324id_/http%3A//www.ochsner.org/misc/privacy_policy/&amp;r="></script><noscript><IMG SRC="http://bp.specificclick.net?pixid=99027351" width=0 height=0 border=0></noscript>
 	
 </body></html>
