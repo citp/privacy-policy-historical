@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221001740id_/http%3A//www.brent.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623003624id_/http%3A//www.brent.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -6,7 +6,7 @@
 
 This site is owned, managed and run by Brent Council.
 
-Our privacy policy covers The London Borough of Brent and its website only.  Should you have any queries about the site, you can contact us by writing to The Web Manager at The London Borough of Brent, Brent House, 349-357 High Road, Wembley, Middlesex, United Kingdom, HA9 6BZ, or by email at [webmanager@brent.gov.uk](mailto:webmanager@brent.gov.uk)
+Our privacy policy covers The London Borough of Brent and its website only.  Should you have any queries about the site, you can contact us by writing to The Web Manager at The London Borough of Brent, Brent House, 349-357 High Road, Wembley, Middlesex, United Kingdom, HA9 6BZ, or by email at [web.master@brent.gov.uk](mailto:web.master@brent.gov.uk "Webmaster email")
 
  **Accessing Brent's website**   
 You can access our website home page and browse our site without disclosing your personal data, obtaining information about Brent Council services and activities.  Our website enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect information about you.
@@ -63,33 +63,29 @@ If you are not satisfied with our response to your concern: you may wish to cont
 
 Alternatively, you can contact the Information Commissioner, Wycliffe House, Water Lane, WILMSLOW, Cheshire, CK9 5AF or view the website [www.informationcommissioner.gov.uk/](http://www.informationcommissioner.gov.uk/ "Information Commissioner - Link opens in a new window") 
 
+The [Personal Information Promise ](https://web.archive.org/home.nsf/Files/LBBA-61/$FILE/Personal_Information_Promise.pdf "Personal Information Promise") (.pdf, 246Kb)was launched earlier this year by the Information Commissioner to help to raise standards of data protection and strengthen public trust and confidence in the way organisations handle personal information.
+
   
 Further information can be found on: [July 2008 explanatory leaflet](https://web.archive.org/home.nsf/Files/LBBA-9/$FILE/DPL%20Final%20-%20July%202008.pdf "This document provides an update on how Brent Council works to comply with the Data Protection Act") (.pdf, 75Kb)
 
   
  **Code of Data Matching Practice**  
-This authority is required by law to protect the public funds it administers. It  
-may share information provided to it with other bodies responsible for auditing or administering public funds, in order to prevent and detect fraud.
+This authority is required by law to protect the public funds it administers. It may share information provided to it with other bodies responsible for auditing or administering public funds, in order to prevent and detect fraud.
 
   
 The Audit Commission appoints the auditor to audit the accounts of this  
-authority. It is also responsible for carrying out data matching exercises.
+authority. It is also responsible for carrying out data matching exercises, although this authority may also participate in exercises carried out by other agencies.
 
 Data matching involves comparing computer records held by one body  
 against other computer records held by the same or another body. This is  
-usually personal information. Computerised data matching allows potentially  
-fraudulent claims and payments to be identified. Where a match is found it  
-indicates that there is an inconsistency which requires further investigation.  
+usually personal information. Computerised data matching allows potentially fraudulent claims and payments to be identified. Where a match is found it indicates that there is an inconsistency which requires further investigation.  
 No assumption can be made as to whether there is fraud, error or other  
 explanation until an investigation is carried out.
 
-The Audit Commission currently requires us to participate in a data matching  
-exercise to assist in the prevention and detection of fraud. We are required to provide particular sets of data to the Audit Commission for matching for each exercise, and these are set out in the Audit Commission's handbooks, which can be found at <http://ww.audit-commission.gov.uk/nfi>
+The Audit Commission currently requires us to participate in a data matching exercise to assist in the prevention and detection of fraud. We are required to provide particular sets of data to the Audit Commission for matching for each exercise, and these are set out in the Audit Commission's handbooks, which can be found at <http://ww.audit-commission.gov.uk/nfi>
 
 The use of data by the Audit Commission in a data matching exercise is  
-carried out with statutory authority under its powers in Part 2A of the Audit  
-Commission Act 1998. It does not require the consent of the individuals  
-concerned under the Data Protection Act 1998.
+carried out with statutory authority under its powers in Part 2A of the Audit Commission Act 1998. It does not require the consent of the individuals concerned under the Data Protection Act 1998.
 
 Data matching by the Audit Commission is subject to a Code of Practice. This may be found at <http://ww.audit-commission.gov.uk/nfi/codeofdmp>
 
@@ -126,4 +122,4 @@ If you are connected to the Internet you have one, for example it may look somet
 **Web server**  
 Delivers (serves up) web pages to your computer.
 
-Updated 04/24/2009 05:27:11 PM
+Updated 06/11/2010 01:50:08 PM
