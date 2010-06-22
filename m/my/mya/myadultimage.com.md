@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myadultimage.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160102id_/http%3A//myadultimage.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadultimage.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622233544id_/http%3A//myadultimage.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# MyAdultImage.Com - Adult Image Hosting,Free Image Hosting,Adult Image Sharing
+# Adult Image Hosting | Free Image Hosting
 
 When you sign up for an account with MyAdultImage.Com - Free Image Hosting, we collect personal information from you including your e-mail address, and a password. 
 
