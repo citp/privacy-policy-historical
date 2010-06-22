@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixify.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922214127id_/http%3A//flixify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixify.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622050933id_/http%3A//flixify.com/privacy) for the most accurate reproduction.*
 
 # Your privacy is something we take seriously, please read our policy
 
