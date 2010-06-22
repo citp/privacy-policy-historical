@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatorcountry.com privacy policy that was archived on 2007-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071213145739id_/http%3A//www.gatorcountry.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorcountry.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622043845id_/http%3A//www.gatorcountry.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Florida Gators Country » Privacy Policy
 
@@ -23,7 +23,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 **Privacy Contact Information**   
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
-By e-mail: [folks@gatorcountry.com](mailto:folks@gatorcountry.com)   
+By [e-mail](http://www.gatorcountry.com/page/contact_us/ "e-mail").   
 By Phone: (800) 601-4623 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
