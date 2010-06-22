@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conferenceplus.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220224012id_/http%3A//www.conferenceplus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferenceplus.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622040813id_/http%3A//www.conferenceplus.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | SMB Marketing | Webinars Software | Conferencing Services | ConferencePlus.com
 
