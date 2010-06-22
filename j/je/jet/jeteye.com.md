@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jeteye.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141951id_/http%3A//www.jeteye.com/about/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeteye.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622043424id_/http%3A//jeteye.com/about/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Jeteye
+
+Privacy Policy
 
 Thank you for your interest in Jeteye™ ("Software" or "Service"), fully owned and operated by JetArk Holdings, Inc. ("Jeteye," "We" or "Us"). Jeteye is committed to protecting the privacy of the users and visitors of its products and services. By using the Jeteye's web site at http://www.jeteye.com (the "Site") and/or the Jeteye Software (the "Software") (collectively the " Jeteye Services"), you agree to the collection and use of your information by us in accordance with this Privacy Policy. Please note that this policy applies only to Jeteye Services, and not to other web sites to which we link or to web sites which you access via Jeteye Services.
 
