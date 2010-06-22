@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourfindit.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001035304id_/http%3A//www.yourfindit.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfindit.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622042736id_/http%3A//www.wooeb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Advertising Marketing News Networking
 
