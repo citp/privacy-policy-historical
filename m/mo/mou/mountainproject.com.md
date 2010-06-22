@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainproject.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231040040id_/http%3A//mountainproject.com/scripts/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainproject.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622233314id_/http%3A//www.mountainproject.com/scripts/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Mountain Project's Privacy Policy
 
