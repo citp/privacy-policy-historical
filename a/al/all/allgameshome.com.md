@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgameshome.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221232116id_/http%3A//www.allgameshome.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgameshome.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623015424id_/http%3A//www.allgameshome.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Games Home - Download Free Games - Play Free Games!
 
@@ -53,7 +53,7 @@ If you have any questions or suggestions regarding our Privacy Policy, please co
 
 MyPlayCity, Inc  
 901 N. Pitt St.  
-Suite 3255  
+Suite 325  
 Alexandria, VA 22314, USA  
 © MyPlayCity, Inc   
 [Contact Us](https://web.archive.org/support)
