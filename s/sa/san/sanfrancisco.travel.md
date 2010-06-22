@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sanfrancisco.travel privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140637id_/http%3A//www.onlyinsanfrancisco.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfrancisco.travel privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622040355id_/http%3A//www.onlyinsanfrancisco.com/information/privacy.asp) for the most accurate reproduction.*
 
 # 
 
 **Information Collection & Treatment**  
-Information collected on www.sfvisitor.org is used to determine important statistical data for the SFCVB, its partners and members to determine the effectiveness of the content, programs and advertisements offered through our website. 
+Information collected on www.onlyinsanfrancisco.com is used to determine important statistical data for the SFCVB, its partners and members to determine the effectiveness of the content, programs and advertisements offered through our website. 
 
 The San Francisco Convention & Visitors Bureau, its partners and affiliates may collect personal contact and demographic information that the consumer willingly provides such as name, address, email, zip code, gender and income with the intention of using this information for purposes of statistical reporting and targeted promotional campaigns. 
 
@@ -13,13 +13,13 @@ Demographic information may be used to “personalize” the user's experience o
 Registration areas on our site require may users to provide contact information such as an email address and demographic information such as zip code, age or income level. The SFCVB and/or its partners and members may use the information provided to send users relevant promotional materials. 
 
 **Order Information**  
-Contact and demographic information provided with a consumer's order via our online store SHOP-N-SF - is subject to usage outlined in "Information Collection". All financial information provided by the consumer is completely private and unshared, and employed for the sole purpose of billing the consumer for products purchased from the store. 
+Contact and demographic information provided with a consumer's order via our online store is subject to usage outlined in "Information Collection". All financial information provided by the consumer is completely private and unshared, and employed for the sole purpose of billing the consumer for products purchased from the store. 
 
 **Online Survey Information**  
 To participate in online surveys, the user may be required to supply contact and/or demographic information. The San Francisco Convention & Visitors Bureau utilizes the information provided by the user to send that user any compensation promised in exchange for completing the survey and/or for purposes outlined in "Information Collection." 
 
 **Contest/Sweepstakes Information**  
-Participation in sfvisitor.org featured/sponsored contests and sweepstakes also requires the disclosure of contact and demographic information. This information is required to contact users as necessary. It may also be used to send you promotional information. However, users may opt out of or opt in to our mailings at any time. (See Opt Out/Opt In, below.) 
+Participation in onlyinsanfrancisco.com featured/sponsored contests and sweepstakes also requires the disclosure of contact and demographic information. This information is required to contact users as necessary. It may also be used to send you promotional information. However, users may opt out of or opt in to our mailings at any time. (See Opt Out/Opt In, below.) 
 
 **Opt-In/Opt-Out**  
 A user may choose remove themselves from our mailing list by following the instructions stated on our promotional communications, by completing our online Feedback Form or by sending a request to our Customer Support (also see “Contact Us”). 
