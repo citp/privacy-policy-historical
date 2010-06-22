@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tennispoint.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620061135id_/http%3A//www.tennispoint.com%3Fevent%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennispoint.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623003619id_/http%3A//www.tennispoint.com%3Fevent%3DprivacyPolicy) for the most accurate reproduction.*
 
-# Tennis Team Management online with TennisPoint - USTA, ALTA, KSwiss & T2Tennis & LeagueTennis (Flex Leagues)
+# Tennis Team Management :: Tennis League Management :: Tennis Tournament Management :: Tennis Team Management for USTA, ALTA, T2Tennis, KSwiss and other Flex Leagues at TennisPoint.com!
 
 **Privacy Policy**
 
@@ -9,7 +9,7 @@
 TennisPoint knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the TennisPoint website, you are accepting the practices outlined in this Privacy Policy. 
 
 **What Does This Privacy Policy Cover?**  
-This Privacy Policy covers TennisPoint's treatment of personal information that TennisPoint gathers when you are on the TennisPoint website (the ÒSiteÓ) and when you use TennisPoint services (collectively the ÒServiceÓ).
+This Privacy Policy covers TennisPoint's treatment of personal information that TennisPoint gathers when you are on the TennisPoint website (the �Site�) and when you use TennisPoint services (collectively the �Service�).
 
 This policy does not apply to the practices of third parties that TennisPoint does not own or control, or to individuals that TennisPoint does not employ or manage.
 
@@ -49,7 +49,7 @@ Some of our business partners may use cookies on our website (for example, adver
 **Will TennisPoint Share Any of the Information it Receives?**  
 We will not rent nor sell your personal information to anyone. We share your personal information only as described below.
 
-* Providing the TennisPoint Service: TennisPoint personnel may have access to user information while carrying out their duties in the normal course of TennisPoint business. TennisPoint may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third partiesÕ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of TennisPoint (for instance, on servers or databases co-located with hosting providers).
+* Providing the TennisPoint Service: TennisPoint personnel may have access to user information while carrying out their duties in the normal course of TennisPoint business. TennisPoint may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties� use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of TennisPoint (for instance, on servers or databases co-located with hosting providers).
 
 * Business Transfers: As we develop our business, we may buy or sell assets or business offerings. In these types of transactions, user information is typically one of the business assets that is transferred. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution. In any such transfer of information, your user information would remain subject to the promises made in our Privacy Policy.
 
