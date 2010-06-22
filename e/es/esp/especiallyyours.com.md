@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620230450id_/http%3A//www.especiallyyours.com/help_privacy.asp%3Fmscssid%3D%26adsrc%3D%26cid%3D5%26did%3D51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622233746id_/http%3A//www.especiallyyours.com/help_privacy.asp%3Fmscssid%3D%26adsrc%3D%26cid%3D5%26did%3D51) for the most accurate reproduction.*
 
 # Especially Yours: Privacy & Security
 
