@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsthoughtful.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212044146id_/http%3A//www.itsthoughtful.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsthoughtful.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622032605id_/http%3A//www.itsthoughtful.com/privacy.php) for the most accurate reproduction.*
 
 # itsThoughtful: Privacy Policy
 
@@ -24,7 +24,7 @@ In addition, any personal information, pictures or video content that you volunt
 
 itsThoughtful may use personally identifiable information collected through our website to contact Users regarding products and services offered by itsThoughtful and its trusted affiliates. We may also use information collected through our website for research regarding the effectiveness of the website and the marketing, advertising and sales efforts of itsThoughtful, and its trusted affiliates. 
 
-itsThoughtful may use your email to send information about related news, products, offers, surveys or promotions from itsThoughtful or it’s affiliates. You may also receive notification e-mails from itsThoughtful, which inform you of actions (e.g. invites from friends) that have been performed on the site. 
+itsThoughtful may use your email to send information about related news, products, offers, surveys or promotions from itsThoughtful or it�s affiliates. You may also receive notification e-mails from itsThoughtful, which inform you of actions (e.g. invites from friends) that have been performed on the site. 
 
 **Information Disclosure**
 
@@ -44,7 +44,7 @@ itsThoughtful reserves the right to change this privacy policy, and/or any part 
 
 **Conditions of Use**
 
-If you decide to visit itsThoughtful website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20091212044146id_/http%3A//www.itsthoughtful.com/terms.php). 
+If you decide to visit itsThoughtful website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20100622032605id_/http%3A//www.itsthoughtful.com/terms.php). 
 
 **Questions**
 
