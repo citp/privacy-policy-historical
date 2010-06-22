@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1books.co.in privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220105217id_/http%3A//www.a1books.co.in/privpolicy.do%3Fhome%3DAU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1books.co.in privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622041833id_/http%3A//www.a1books.co.in/privpolicy.do%3Fhome%3DAU) for the most accurate reproduction.*
 
 # A1Books India - Privacy Policy
 
