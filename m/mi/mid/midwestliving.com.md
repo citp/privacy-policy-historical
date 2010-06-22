@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestliving.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207224304id_/http%3A//www.midwestliving.com/mwl/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestliving.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622232321id_/http%3A//www.midwestliving.com/mwl/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
 
 # Midwest Living
 
