@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wavy.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222232544id_/http%3A//www.wavy.com/subindex/about_us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavy.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623015454id_/http%3A//www.wavy.com/subindex/about_us/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
