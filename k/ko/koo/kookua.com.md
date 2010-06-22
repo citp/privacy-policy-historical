@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kookua.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222230752id_/http%3A//kookua.com/Contact.aspx%3Fid%3D1202) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kookua.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623004852id_/http%3A//www.kookua.com/Contact.aspx%3Fid%3D1202) for the most accurate reproduction.*
 
-# Privacy notice - KooKua.com
+# - KooKua.com
 
 **Privacy notice**
 
