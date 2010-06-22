@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the childsplayclothing.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217081627id_/http%3A//www.childsplayclothing.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childsplayclothing.co.uk privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623014224id_/http%3A//www.childsplayclothing.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Childsplay | Privacy Policy
+# Childsplay | Privacy Policy Childsplay Kids Fashion Blog
+
+## Privacy Policy
 
 #### Effective 24th November 2008  
 Our Commitment To Privacy
@@ -50,4 +52,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 #### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20091217081627id_/http%3A//www.childsplayclothing.co.uk/contacts.html).
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20100623014224id_/http%3A//www.childsplayclothing.co.uk/contacts.html).
