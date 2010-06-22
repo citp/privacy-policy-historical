@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextgov.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222035234id_/http%3A//www.nextgov.com/site_services/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextgov.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622043736id_/http%3A//www.nextgov.com/site_services/privacy_policy.php) for the most accurate reproduction.*
 
 # NextGov.com Privacy Policy - Site Services
 
