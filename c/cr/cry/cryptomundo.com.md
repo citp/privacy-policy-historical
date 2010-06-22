@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cryptomundo.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619210328id_/http%3A//www.cryptomundo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptomundo.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623003806id_/http%3A//www.cryptomundo.com/privacy-policy) for the most accurate reproduction.*
 
 # Cryptomundo » Privacy Policy
 
-This Privacy Policy covers all of the Cryptomundo LLC (”Cryptomundo”) domains, subdomains, and the servers and networks which power them (”Cryptomundo Site”) and all content, which may be updated by Cryptomundo from time to time. Cryptomundo will provide notice of any change to the Privacy Policy [here](http://www.cryptomundo.com/privacy-policy/ "Cryptomundo Privacy Policy").
+This Privacy Policy covers all of the Cryptomundo LLC (“Cryptomundo”) domains, subdomains, and the servers and networks which power them (“Cryptomundo Site”) and all content, which may be updated by Cryptomundo from time to time. Cryptomundo will provide notice of any change to the Privacy Policy [here](http://www.cryptomundo.com/privacy-policy/ "Cryptomundo Privacy Policy").
 
 Please read this statement carefully before accessing the Cryptomundo Site. Your access to the Cryptomundo Site indicates your agreement to abide by the Privacy Policy. If you do not agree to this Privacy Policy, please do not access or use the Cryptomundo Site.
 
