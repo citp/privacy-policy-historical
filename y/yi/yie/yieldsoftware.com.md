@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the yieldsoftware.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620195530id_/http%3A//www.yieldsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yieldsoftware.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623004111id_/http%3A//www.yieldsoftware.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yield Software
 
-## Privacy Policy
+**V012510**
 
-**V091408**
-
-_Effective Date_ : This Privacy Policy was last updated on **September 14, 2008** and is effective immediately.
+_Effective Date_ : This Privacy Policy was last updated on **January 25, 2010** and is effective immediately.
 
 This website is located generally at www.yieldsoftware.com and is the official website for **Yield Software** (the “Site”). This Site is owned and operated by **Yield Software, Inc.** (“Yield Software”).
 
-Your privacy is very important to us. Because we gather certain types of personally identifiable information (“Personal Information” as defined below) from users who visit our Site, licensed subscribers of our services (”Subscribers”) and for various other operational and business purposes, we feel you should know how we collect, use, disclose, manage, and store the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags on our Site. This Privacy Policy is incorporated by reference in the Site’s [Terms of Use Agreement](https://web.archive.org/web/20090620195530id_/http%3A//www.yieldsoftware.com/tou), which is binding on all Site users. This Policy applies only to the Personal Information collected by Yield Software via the Site and does not govern any such information collected by any other company, unless specifically stated.
+Your privacy is very important to us. Because we gather certain types of personally identifiable information (“Personal Information” as defined below) from users who visit our Site, licensed subscribers of our services (”Subscribers”) and for various other operational and business purposes, we feel you should know how we collect, use, disclose, manage, and store the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags on our Site. This Privacy Policy is incorporated by reference in the Site’s [Terms of Use Agreement](https://web.archive.org/web/20100623004111id_/http%3A//www.yieldsoftware.com/tou), which is binding on all Site users. This Policy applies only to the Personal Information collected by Yield Software via the Site and does not govern any such information collected by any other company, unless specifically stated.
 
 **If you do not agree with this Privacy Policy, please do not participate in the online or off-line activities and services that require you to provide your Personal Information. (The type of Personal Information collected is listed below.)** This Policy provides information regarding your choices to either Opt-out or Opt-in when your Personal Information is used for various promotional and marketing purposes by Yield Software, the Site, and/or our advertisers, sponsors, or promotional partners (collectively, “Advertisers”).
 
@@ -26,8 +24,7 @@ Yield Software, Inc.
 Attn: Your California Privacy Rights  
 c/o Privacy Administrator  
 1700 South Amphlett Blvd., Suite 202  
-San Mateo, California 94402  
-
+San Mateo, California 94402
 
 For requests sent via email, you must put the statement “Your California Privacy Rights” in the subject field of your email. All requests sent via postal mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) **We will not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or not sent properly, or do not have complete information.To all other users of this Site, if you have other questions about this Privacy Policy, send an email to our Privacy Administrator at [privacy@yieldsoftware.com](mailto:privacy@yieldsoftware.com), or you may contact Yield Software at: 
 
@@ -42,7 +39,7 @@ This Site is governed by and operated in accordance with the laws of the United 
 
 We use your Personal Information to provide you with the features, services, or goods you request, to respond to billing and/or other such questions related to Yield Software’s services offered through the Site and to notify you about updates and new features and services that may be of interest to you. (We explain below in the next section what our policy is for the collection, use and disclosure of Personal Information to third parties.)
 
-We may also use your information for hiring, operational and business purposes, to find out how we can improve our services and your use of the Site via surveys or online tracking mechanisms, and to develop new services and features that may be of interest to you. We use aggregate Personal Information to help us to evaluate and modify existing services and features.
+We may also use your information for hiring, operational and business purposes, to find out how we can improve our services and your use of the Site via surveys or online tracking mechanisms, and to develop new services and features that may be of interest to you. We use aggregate Personal Information to help us to evaluate and modify existing services and features. We may also use aggregated or anonymous information about you or your website. This aggregated or anonymous information may be used by us, our products and our clients to improve the value of our products and services, or it may be published externally.
 
 We will not sell, exchange, rent, lease or otherwise disclose your Personal Information or Sensitive Personal Information to third party marketers or any such persons that are not associated with Yield Software as Advertisers unless it is necessary to: 1) conform to regulatory and legal requirements or to comply with legal process; 2) to protect the safety and security of our users, employees, or property; 3) to defend the rights of the Site or Yield Software; or 4) to enforce the Terms of Use Agreement.
 
