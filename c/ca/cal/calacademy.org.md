@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calacademy.org privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119031107id_/http%3A//www.calacademy.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calacademy.org privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622174946id_/http%3A//www.calacademy.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy: California Academy of Sciences
 
@@ -20,7 +20,7 @@ Cookies are small, removable data files that are stored on your computer's hard 
 
 You can browse our Website without being required to divulge any Personal Information to us. Although we collect and maintain aggregate information about usage and visitors browsing our Website, no Personal Information is collected as part of this process. We only collect Personal Information about you when you purchase an Academy membership or make a donation to the Academy online, This information includes your name, billing and shipping addresses, telephone number, e-mail address and credit card information. Your credit card information will be used only as needed to process your transaction.
 
-We also collect Personal information when you subscribe to receive our Academy eNews newsletter and provide us with your email address, your name and other Personal Information - which means you are consenting to receive each issue of our Academy eNews and any related emails. You may unsubscribe to Academy eNews at any time by following the instructions provided with the link contained in each Academy eNews or e-mail message we send you or by visiting our Website at www.calacademy.org/enews/subscribe.html and submitting your registered email address in the space provided under the "Unsubscribe" heading. 
+We also collect Personal information when you subscribe to receive our Academy eNews newsletter and provide us with your email address, your name and other Personal Information - which means you are consenting to receive each issue of our Academy eNews and any related emails. You may unsubscribe to Academy eNews at any time by following the instructions provided with the link contained in each Academy eNews or e-mail message we send you. 
 
 If you are a Subscriber, you must give us current, complete and accurate information and keep the information you provide to us up to date. We cannot and shall not be responsible for any problems or liability that may arise if you do not give us current, accurate, truthful or complete information or you fail to update the information you give us. 
 
