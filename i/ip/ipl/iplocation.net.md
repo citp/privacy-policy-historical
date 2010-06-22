@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplocation.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618075940id_/http%3A//www.topwebhosts.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplocation.net privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044159id_/http%3A//www.topwebhosts.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
