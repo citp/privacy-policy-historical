@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnursingschools.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219213616id_/http%3A//www.allnursingschools.com/w3c/privacy_popup.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnursingschools.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622042116id_/http%3A//www.allnursingschools.com/w3c/privacy_popup.php) for the most accurate reproduction.*
 
 # All Nursing Schools - Privacy Policy
 
