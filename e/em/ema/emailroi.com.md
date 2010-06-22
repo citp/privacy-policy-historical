@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailroi.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019210229id_/http%3A//www.eroi.com/miscellaneous/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailroi.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622051107id_/http%3A//www.eroi.com/miscellaneous/privacy) for the most accurate reproduction.*
 
 # e-Marketing Privacy Policy | eROI
 
@@ -26,4 +26,4 @@ If you have received unwanted, unsolicited email sent via our system or purporti
 
 We reserve the right to modify this policy at any time. We will always post the most current version of this policy on our website.
 
-If you would like to unsubscribe from ALL emailROI lists, please visit our [Global Unsubscribe](http://www.eroi.com/global-unsubscribe/) page.
+If you would like to unsubscribe from ALL email lists, please visit our [Global Unsubscribe](http://www.eroi.com/global-unsubscribe/) page.
