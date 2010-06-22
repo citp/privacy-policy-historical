@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topwebhosts.org privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220195404id_/http%3A//www.topwebhosts.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topwebhosts.org privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044159id_/http%3A//www.topwebhosts.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
