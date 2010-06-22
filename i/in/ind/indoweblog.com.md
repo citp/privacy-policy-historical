@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indoweblog.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213235053id_/http%3A//indoweblog.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indoweblog.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622040212id_/http%3A//indoweblog.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | IndoWeblog - Free Blog Hosting for Everyone
+# Privacy Statement | IndoWeblog
 
 Nothing is more important to **IndoWeblog** than privacy. We hold your privacy in the highest regard. We take many steps to assure that your information is secure and not shared with any individual or business. Information collected by IndoWeblog is only shared with IndoWeblog staff. At no point in time will we provide information over the phone, email, support systems or by any means.
 
