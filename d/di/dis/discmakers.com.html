@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discmakers.com privacy policy that was archived on 2009-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221161857id_/http%3A//www.discmakers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discmakers.com privacy policy that was archived on 2010-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623004640id_/http%3A//www.discmakers.com/privacy) for the most accurate reproduction.-->
 
 <html><head><script>
 function Set_Cookie(name,value, path,expires,domain,secure) 
@@ -92,7 +92,6 @@ function setInForm(frm, elemName, elemValue)
 
 
 
-
 <title>Disc Makers Privacy Policy</title>
 	
 <meta name="description" content="Protecting your privacy is important to Disc Makers. Here is how Disc Makers collects, uses, and safeguards the personal information you provide on our Web site:">
@@ -117,6 +116,24 @@ A:hover { TEXT-DECORATION: underline }
 
 <body bgcolor="#313847" link="ED8707" vlink="ED8707" alink="ED8707" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/images/navigation/TopNav1_f2.gif','/images/navigation/TopNav2_f2.gif','/images/navigation/TopNav3_f2.gif','/images/navigation/TopNav4_f2.gif','/images/navigation/TopNav5_f2.gif','/images/navigation/Nav1_f2.gif','/images/navigation/Nav2_f2.gif','/images/navigation/Nav3_f2.gif','/images/navigation/Nav4_f2.gif','/images/navigation/Nav5_f2.gif','/images/navigation/Nav6_f2.gif','/images/navigation/Nav7_f2.gif');">
 
+<script type="text/javascript" src="/JQueryScripts/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="/WebSearch/Includes/jquery.gsuggest.js"></script>
+<script type="text/javascript" language="javascript">
+	jQuery(document).ready(function(){
+		$("#SearchTerms").focusin( function() {
+			if($(this).val() == "SEARCH")
+			{
+				$(this).val("");
+			}
+		}).focusout( function() {
+			if($(this).val() == "")
+			{
+				$(this).val("SEARCH");
+			}
+		});
+		jQuery.gsuggest({'debug':true,'url':'/WebSearch/Suggest.aspx'});
+	});
+</script>
 <table width="980" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#313847">
   <tbody><tr>
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -148,7 +165,7 @@ A:hover { TEXT-DECORATION: underline }
         </tbody></table></td>
         <td align="right" bgcolor="#313847">  <form action="http://www.discmakers.com/websearch/search.aspx" method="get" style="margin-top:17px; ">
             <div id="SearchContainer" style="margin:0px; width: 158px; height: 26px; background: url(/images/SearchBackground.gif);">
-                <input type="text" name="SearchTerms" id="SearchTerms" value="SEARCH" onclick="if(this.value=='SEARCH')this.value=''" onblur="if(this.value=='')this.value='SEARCH'" style="float:left; border:0px; margin:5px 5px 0px 13px; background-color:Transparent; width:114px; color:#666; font-size:11px; font-weight:normal; font-family:Arial, Helvetica, sans-serif;">
+                <input type="text" name="SearchTerms" id="SearchTerms" suggest="yes" value="SEARCH" style="float:left; border:0px; margin:5px 5px 0px 13px; background-color:Transparent; width:114px; color:#666; font-size:11px; font-weight:normal; font-family:Arial, Helvetica, sans-serif;" autocomplete="off" suggestpos="-1"><div id="_suggestBox" style="display: none; position: absolute; z-index: 1; text-align: left; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); margin: 0px; font-size: 12px; font-family: Arial, Helvetica, sans-serif; cursor: pointer; color: rgb(49, 56, 71); padding: 0px; width: 114px; left: 1028px; top: 41px;"></div>
                 <input type="image" name="image" id="btnImage" src="/images/SearchGoButton.gif" style="float:left; margin:5px 0px 0px 2px;">
             </div>
          </form></td>
@@ -159,16 +176,16 @@ A:hover { TEXT-DECORATION: underline }
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td><a href="/products/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav1','','/images/navigation/Nav1_f2.gif',1);"><img src="/images/navigation/Nav1.gif" alt="CD / DVD Products" name="Nav1" width="94" height="44" border="0" id="Nav1"></a></td>
-        <td><img src="/images/navigation/Bullet1.gif" alt="" name="Bullet1" width="30" height="44" border="0" id="Bullet1"></td>
-        <td><a href="/services/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav2','','/images/navigation/Nav2_f2.gif',1);"><img src="/images/navigation/Nav2.gif" alt="CD / DVD Services" name="Nav2" width="91" height="44" border="0" id="Nav2"></a></td>
-        <td><img src="/images/navigation/Bullet1.gif" alt="" name="Bullet1" width="30" height="44" border="0" id="Bullet1"></td>
+        <td><img src="/images/navigation/Bullet1.gif" alt="" width="33" height="44" border="0"></td>
+        <td><a href="/services/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav2','','/images/navigation/Nav2_f2.gif',1);"><img src="/images/navigation/Nav2.gif" alt="CD / DVD Services" name="Nav2" width="88" height="44" border="0" id="Nav2"></a></td>
+        <td><img src="/images/navigation/Bullet1.gif" alt="" width="33" height="44" border="0"></td>
         <td><a href="/templates/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav3','','/images/navigation/Nav3_f2.gif',1);"><img src="/images/navigation/Nav3.gif" alt="CD / DVD Templates" name="Nav3" width="101" height="44" border="0" id="Nav3"></a></td>
-        <td><img src="/images/navigation/Bullet1.gif" alt="" name="Bullet1" width="30" height="44" border="0" id="Bullet1"></td>
-        <td><a href="/duplicators/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav5','','/images/navigation/Nav5_f2.gif',1);"><img src="/images/navigation/Nav5.gif" alt="Blank Media, Duplicators, and Supplies" name="Nav5" width="252" height="44" border="0" id="Nav5"></a></td>
-        <td><img src="/images/navigation/Bullet1.gif" alt="" name="Bullet1" width="30" height="44" border="0" id="Bullet1"></td>
-        <td><a href="/community/"><img src="/images/navigation/Nav6_f2.gif" alt="DM Community" name="Nav6" width="130" height="44" border="0" id="Nav6"></a></td>
-        <td><img src="/images/navigation/Bullet1.gif" alt="" name="Bullet1" width="30" height="44" border="0" id="Bullet1"></td>
-        <td><a href="/request/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav7','','/images/navigation/Nav7_f2.gif',1);"><img src="/images/navigation/Nav7.gif" alt="Free Catalog and More" width="162" height="44" border="0" id="Nav7"></a></td>
+        <td><img src="/images/navigation/Bullet1.gif" alt="" width="33" height="44" border="0"></td>
+        <td><a href="/duplicators/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav5','','/images/navigation/Nav5_f2.gif',1);"><img src="/images/navigation/Nav5.gif" alt="Blank Media, Duplicators, and Supplies" name="Nav5" width="267" height="44" border="0" id="Nav5"></a></td>
+        <td><img src="/images/navigation/Bullet1.gif" alt="" width="33" height="44" border="0"></td>
+        <td><a href="/community/"><img src="/images/navigation/Nav6_f2.gif" alt="Resources" name="Nav6" width="104" height="44" border="0" id="Nav6"></a></td>
+        <td><img src="/images/navigation/Bullet1.gif" alt="" width="33" height="44" border="0"></td>
+        <td><a href="/request/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav7','','/images/navigation/Nav7_f2.gif',1);"><img src="/images/navigation/Nav7.gif" alt="Free Catalog and More" width="161" height="44" border="0" id="Nav7"></a></td>
       </tr>
     </tbody></table></td>
   </tr>
@@ -230,37 +247,30 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
         <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/request/" class="LeftNav"><b>REQUEST INFO </b></a></td>
       </tr>
       <tr>
-        <td><img src="/images/GrayLine.gif" alt="Gray Line" width="100%" height="1"></td>
-      </tr>
-       <tr>
-        <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="http://blog.discmakers.com/" class="LeftNav"><b>BLOG </b></a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine.gif" alt="Gray Line" width="100%" height="1"></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/community/resources/" class="LeftNav"><b>RESOURCES</b></a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine.gif" alt="Gray Line" width="100%" height="1"></td>
-      </tr>
-      <tr>
+        <td><img src="/images/GrayLine2.gif" alt="Gray Line" width="100%" height="1"></td>
+      </tr>      <tr>
         <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/community/partnerprogram/" class="LeftNav"><b>PARTNER PROGRAM </b></a></td>
       </tr>
       <tr>
-        <td><img src="/images/GrayLine.gif" alt="Gray Line" width="100%" height="1"></td>
+        <td><img src="/images/GrayLine2.gif" alt="Gray Line" width="100%" height="1"></td>
       </tr>
       <tr>
-        <td><img src="/images/navigation/ArrowGreen.gif" width="10" height="10" border="0"><a href="/community/about/" class="LeftNav"><b>ABOUT US </b></a></td>
+        <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/community/resources/" class="LeftNav"><b>ONLINE RESOURCES </b></a></td>
       </tr>
       <tr>
-        <td><img src="/images/GrayLine.gif" alt="Gray Line" width="100%" height="1"></td>
+        <td><img src="/images/GrayLine2.gif" alt="Gray Line" width="100%" height="1"></td>
       </tr>
       <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Locations.asp" class="LeftNav">Locations</a></td>
+        <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/community/careers/" class="LeftNav"><b>CAREERS</b></a></td>
       </tr>
       <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Directions.asp" class="LeftNav">Directions</a></td>
+        <td><img src="/images/GrayLine2.gif" width="164" height="1"></td>
+      </tr>
+      <tr>
+        <td><img src="/images/navigation/ArrowGreen.gif" width="10" height="10" border="0"><a href="/community/about/" class="LeftNav"><b>OUR COMPANY</b></a></td>
+      </tr>
+      <tr>
+        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Locations.asp" class="LeftNav">Locations &amp; Directions</a></td>
       </tr>
       <tr>
         <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Press.asp" class="LeftNav">Press</a></td>
@@ -269,13 +279,10 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
         <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/History.asp" class="LeftNav">Company History </a></td>
       </tr>
       <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Tour.asp" class="LeftNav">Tour Our Factory </a></td>
-      </tr>
-      <tr>
         <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/sustainability/" class="LeftNav">Sustainability </a></td>
       </tr>
       <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/testimonials/" class="LeftNav">Testimonials </a></td>
+        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/testimonials/" class="LeftNav">Client Testimonials </a></td>
       </tr>
       <tr>
         <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/testimonials/Clients.asp" class="LeftNav">Client List </a></td>
@@ -287,22 +294,10 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
         <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Privacy.asp" class="LeftNav">Privacy Policy  </a></td>
       </tr>
       <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Terms.asp" class="LeftNav">Terms and Conditions </a></td>
+        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Terms.asp" class="LeftNav">Terms &amp; Conditions </a></td>
       </tr>
       <tr>
-        <td><img src="/images/GrayLine.gif" alt="Gray Line" width="100%" height="1"></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/community/careers/" class="LeftNav"><b>CAREERS</b></a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine.gif" width="164" height="1"></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/community/mystory/" class="LeftNav"><b>MY STORY </b></a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine.gif" alt="Gray Line" width="100%" height="1"></td>
+        <td><img src="/images/GrayLine2.gif" alt="Gray Line" width="100%" height="1"></td>
       </tr>
     </tbody></table></td>
   </tr>
@@ -422,7 +417,7 @@ If you have any question specific to privacy, please contact us at <a href="mail
         <td><img src="/images/GrayLine.gif" width="948" height="1"></td>
       </tr>
       <tr>
-        <td align="center" class="Footer2"><a href="/community/resources/rss.asp" title="rss" class="FooterBlue"><img src="/images/rss-icon-orange.png" width="10" height="10" border="0"></a> <a href="/community/resources/rss.asp" title="rss" class="FooterBlue">RSS</a> 
+        <td align="center" class="Footer2"><a href="feed://feeds2.feedburner.com/discmakersblog" title="rss" class="FooterBlue"><img src="/images/rss-icon-orange.png" width="10" height="10" border="0"></a> <a href="feed://feeds2.feedburner.com/discmakersblog" title="rss" class="FooterBlue">RSS</a> 
         •
       
         
@@ -432,7 +427,10 @@ If you have any question specific to privacy, please contact us at <a href="mail
       <tr>
         <td><img src="/images/GrayLine.gif" width="948" height="1"></td>
      </tr><tr align="center">
-<td align="center" class="Footer3"><a href="/shop/parentgroups/PACKAGING.asp" class="Footer3">CD Packaging</a> • <a href="/shop/parentgroups/DVDCASES.asp" class="Footer3">DVD Packaging</a> • <a href="/duplicators/printers/" class="Footer3">CD Printer</a> • <a href="/duplicators/printers/" class="Footer3">DVD Printer</a> • <a href="/products/OnDiscPrinting.asp" class="Footer3">CD Printing</a> • <a href="/shop/parentgroups/BLANK.asp" class="Footer3">Blank CDs</a> • <a href="/shop/parentgroups/BLANKDVD.asp" class="Footer3">Blank DVDs</a> • <a href="/shop/parentgroups/CDCASES.asp" class="Footer3">CD Jewel Cases</a> • <a href="/shop/parentgroups/DVDCASES.asp" class="Footer3">DVD Cases</a> • <a href="/" class="Footer3">Duplication</a> <br> <a href="/duplicators/" class="Footer3">CD Duplicator</a>  • <a href="/duplicators/" class="Footer3">DVD Duplicator</a> • <a href="/merch/products/CustomTees.asp" class="Footer3">Custom T-Shirts</a> • <a href="/products/cdduplication.asp" class="Footer3">CD Duplication</a>  • <a href="/products/cdreplication.asp" class="Footer3">CD Replication</a> • <a href="/products/dvdreplication.asp" class="Footer3">DVD Replication</a> • <a href="/selfservicequoter/" target="_blank" class="Footer3">Short-run CD DVD Duplication</a> • <a href="/selfservicequoter/" target="_blank" class="Footer3">CD Copies</a> <br><a href="/selfservicequoter/" target="_blank" class="Footer3">DVD Copies</a> •  <a href="/soundlab/" class="Footer3">CD Mastering</a> • <a href="/authoring/services/dvdauthoring/" class="Footer3">DVD Authoring</a> • <a href="/authoring/services/dvdauthoring/menu.asp" class="Footer3">DVD Menu Design</a> • <a href="/services/" class="Footer3">Services, Sales, &amp; Promo</a> • <a href="/CPSIA/" title="CPSIA Compliance" class="Footer3">CPSIA Compliance Information</a></td>
+<td align="center" class="Footer3"><a href="/shop/parentgroups/PACKAGING.asp" class="Footer3">CD Packaging</a> • <a href="/shop/parentgroups/DVDCASES.asp" class="Footer3">DVD Packaging</a> • <a href="/duplicators/printers/" class="Footer3">CD Printer</a> • <a href="/duplicators/printers/" class="Footer3">DVD Printer</a> • <a href="/products/OnDiscPrinting.asp" class="Footer3">CD Printing</a> • <a href="/shop/parentgroups/BLANK.asp" class="Footer3">Blank CDs</a> • <a href="/shop/parentgroups/BLANKDVD.asp" class="Footer3">Blank DVDs</a> • <a href="/shop/parentgroups/CDCASES.asp" class="Footer3">CD Jewel Cases</a> • <a href="/shop/parentgroups/DVDCASES.asp" class="Footer3">DVD Cases</a> • <a href="/" class="Footer3">Duplication</a> <br> <a href="/duplicators/" class="Footer3">CD Duplicator</a>  • <a href="/duplicators/" class="Footer3">DVD Duplicator</a> • <a href="/merch/products/CustomTees.asp" class="Footer3">Custom T-Shirts</a> • <a href="/products/cdduplication.asp" class="Footer3">CD Duplication</a>  • <a href="/products/cdreplication.asp" class="Footer3">CD Replication</a> • <a href="/products/dvdreplication.asp" class="Footer3">DVD Replication</a> • <a href="/selfservicequoter/" target="_blank" class="Footer3">Short-run CD DVD Duplication</a> • <a href="/selfservicequoter/" target="_blank" class="Footer3">CD Copies</a> • <a href="/selfservicequoter/" target="_blank" class="Footer3">DVD Copies</a><br>   <a href="/soundlab/" class="Footer3">CD Mastering</a> • <a href="/authoring/services/dvdauthoring/" class="Footer3">DVD Authoring</a> • <a href="/authoring/services/dvdauthoring/menu.asp" class="Footer3">DVD Menu Design</a> • <a href="/services/" class="Footer3">Services, Sales, &amp; Promo</a> • <a href="/CPSIA/" title="CPSIA Compliance" class="Footer3">CPSIA Compliance Information</a> • <a href="/techsupport/techsupport.asp" title="Tech Support" class="Footer3">Tech Support</a> • <a href="/shop/ItemGroup.aspx?ItemGroup=VERBCD" title="Verbatim CD" class="Footer3">Verbatin CD</a> • <a href="/shop/ItemGroup.aspx?ItemGroup=VERBDVD" title="Verbatim DVD" class="Footer3">Verbatim DVD</a></td>
+      </tr>
+                  <tr>            
+      <td colspan="2" align="center" class="Footer3Home"><a href="http://www.facebook.com/discmakers" target="_blank"><img name="SplashOffers2" src="/images/splash/fbwhite.gif" width="66" height="18" border="0" id="SplashOffers2" title="FaceBook" alt="FaceBook" style=" margin-top:3px; margin-bottom:3px;"></a><img name="SplashOffers2" src="/images/splash/bulletwhite.gif" width="9" height="18" border="0" id="SplashOffers2" title="" alt="" style="margin-left:10px; margin-right:13px; margin-top:3px; margin-bottom:3px;"><a href="http://www.twitter.com/discmakers" target="_blank"><img name="SplashOffers2" src="/images/splash/twwhite.gif" width="52" height="18" border="0" id="SplashOffers2" title="Twitter" alt="Twitter" style=" margin-top:3px; margin-bottom:3px;"></a><img name="SplashOffers2" src="/images/splash/bulletwhite.gif" width="9" height="18" border="0" id="SplashOffers2" title="" alt="" style="margin-left:10px; margin-right:13px; margin-top:3px; margin-bottom:3px;"><a href="http://www.myspace.com/discmakers" target="_blank"><img name="SplashOffers2" src="/images/splash/mswhite.gif" width="66" height="18" border="0" id="SplashOffers2" title="My Space" alt="My Space" style=" margin-top:3px; margin-bottom:3px;"></a><img name="SplashOffers2" src="/images/splash/bulletwhite.gif" width="9" height="18" border="0" id="SplashOffers2" title="" alt="" style="margin-left:10px; margin-right:11px; margin-top:3px; margin-bottom:3px;"><a href="http://blog.discmakers.com/" target="_blank"><img name="SplashOffers2" src="/images/splash/wpwhite.gif" width="45" height="18" border="0" id="SplashOffers2" title="blog" alt="blog" style=" margin-top:3px; margin-bottom:3px;"></a><img name="SplashOffers2" src="/images/splash/bulletwhite.gif" width="9" height="18" border="0" id="SplashOffers2" title="" alt="" style="margin-left:10px; margin-right:11px; margin-top:3px; margin-bottom:3px;"><a href="http://www.youtube.com/discmakers" target="_blank"><img name="SplashOffers2" src="/images/splash/youtubewhite.gif" width="64" height="18" border="0" id="SplashOffers2" title="youtube" alt="youtube" style=" margin-top:3px; margin-bottom:3px;"></a></td>
       </tr>
       <tr>
         <td><table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
