@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiondirect.com.au privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221064234id_/http%3A//www.visiondirect.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.com.au privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622042150id_/http%3A//www.visiondirect.com.au/privacy) for the most accurate reproduction.*
 
 # Vision Direct -- Privacy Policy
 
