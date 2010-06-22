@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anytimeproperty.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021035738id_/http%3A//www.anytimeproperty.com/index.php%3Fpg%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimeproperty.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622233554id_/http%3A//www.anytimeproperty.com/index.php%3Fpg%3Dpolicy) for the most accurate reproduction.*
 
-# Real Estate Property India | Buy Sell Rent Real Estate Property India | Real Estate Portal | Properties for Sale in Chennai India | Commercial Property in India.
+# Indian Real Estate Property India Property Sites Properties India-Anytimeproperty.com
 
 Anytimeproperty.com website is owned and operated by Anytime Infotech Pvt Ltd (Formerly known as Anytimeproperty.Com Pvt Ltd). We have created this privacy policy statement in order to demonstrate our commitment to our user's privacy.
 
