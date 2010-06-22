@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the geek.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227205709id_/http%3A//www.geek.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geek.net privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622165757id_/http%3A//geek.net/privacy-statement) for the most accurate reproduction.*
 
 # Privacy
 
-### (Last Updated Nov 08, 2009)  
+### (Last Updated May 13, 2010)  
 (Effective Date May 24, 2008)
 
-Geeknet, Inc. (“Geeknet”), comprised of the Internet sites Geek.net, Slashdot.org, Sourceforge.net freshmeat.net, ohloh.net, fossfor.us, Linux.com, ThinkGeek.com (the “Sites”), is committed to protecting the privacy of users of the Sites. Geeknet intends to give users as much control as possible over user’s personally identifiable information, including registration data. This Privacy Statement applies to each of the Sites and describes the information Geeknet collects about users and how that information may be used.
+Geeknet, Inc. (“Geeknet”), comprised of the Internet sites Geek.net, Sourceforge.net, Slashdot.org, ThinkGeek.com, Geek.com, ohloh.net, fossfor.us, and freshmeat.net (the “Sites”), is committed to protecting the privacy of users of the Sites. Geeknet intends to give users as much control as possible over user’s personally identifiable information, including registration data. This Privacy Statement applies to each of the Sites and describes the information Geeknet collects about users and how that information may be used.
 
 Geeknet reserves the right to update and change this Privacy Statement from time to time. If Geeknet makes material changes to its privacy practices, a prominent notice will be posted on this web page. Each time a user uses the Sites, the current version of the Privacy Statement applies. Accordingly, a user should check the date of this Privacy Statement (which appears at the top) and review for any changes since the last version. If a user does not agree to the Privacy Statement, the user should not use the Sites.
 
