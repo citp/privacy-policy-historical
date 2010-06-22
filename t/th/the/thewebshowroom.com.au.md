@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewebshowroom.com.au privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225083221id_/http%3A//www.thewebshowroom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewebshowroom.com.au privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622031540id_/http%3A//www.thewebshowroom.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - The Web Showroom
 
@@ -26,14 +26,18 @@ If you choose to provide your personal information to us, it may be used in orde
 
 We may disclose your personal information to other organisations (for example our service providers) to enable us to provide the services you have requested, or as otherwise permitted by law.
 
- **Contacting us via email and our web-forms**  
-When you contact The Web Showroom via email:   
-we will only use your email address for the purposes for which you provided it;   
-your e-mail address will not be added to a mailing list unless you have specifically requested that we do this (for the purposes of receiving update materials);  
-we will not disclose your email address without first obtaining your consent. You should keep in mind that the transmission of information over the Internet is not always completely secure or error-free. In particular, email sent to or from this website and information you enter into forms on our web-pages and send to us may not be secure. You should therefore take special care in deciding what information you send to us via email and web-forms.
+##  **Contacting us via email and our web-forms**
 
- **Our use of cookies**  
+When you contact The Web Showroom via email:
+
+  * we will not disclose your email address without first obtaining your consent. You should keep in mind that the transmission of information over the Internet is not always completely secure or error-free. In particular, email sent to or from this website and information you enter into forms on our web-pages and send to us may not be secure. You should therefore take special care in deciding what information you send to us via email and web-forms.
+
+
+
+##  **Our use of cookies**
+
 When you visit our website, our server attaches a small data file called a "cookie" to your computer's memory.Cookies are pieces of information that may be transferred to your computer's memory when you visit a website for record keeping purposes. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your Web browser to refuse cookies. We use cookies to provide us with aggregate (anonymous) information on how people use our website and to help us to know what they find interesting and useful on our website. We do not link this information back to your identity or other information that you have provided to us. We do not store any information that identifies you inside cookies.
 
- **Links to other sites**  
+##  **Links to other sites**
+
 This website may contain links or references to other websites. Our Website Privacy Statement does not extend beyond The Web Showroom website. When visiting other sites via a link on our website, you should familiarise yourself with the linked website's privacy statement.
