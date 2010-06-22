@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyzo.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414073137id_/http%3A//www.wyzo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyzo.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044312id_/http%3A//www.wyzo.com/legal/privacy) for the most accurate reproduction.*
 
 # Wyzo 3 - Privacy Policy
 
@@ -33,7 +33,5 @@ To help us keep our database up-to-date, we would be grateful if you would let u
 We would be grateful if you would also let us know (at admin@wyzo.com) if you have any comments on this site or have spotted any errors or non-functioning parts of the site. 
 
 Issue Date: 26th January 2009 
-
-* * *
 
 * * *
