@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nasafcu.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx%3Fci%3D123) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasafcu.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx%3Fci%3D123) for the most accurate reproduction.*
 
 # NASA Federal - Privacy Pledge
 
-[](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=77) [](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/homepage.aspx "Home Page")  
+[](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=77) [](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/homepage.aspx "Home Page")  
 |  |   
-|  | ONLINE CHAT | [CONTACT US](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=257) | [SEARCH](http://www.nasafcu.com/l2.aspx?ci=928) ||  [](https://ebranch.nasafcu.com/)  
+|  | ONLINE CHAT | [CONTACT US](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=257) | [SEARCH](http://www.nasafcu.com/l2.aspx?ci=928) ||  [](https://ebranch.nasafcu.com/)  
   
 ---|---  
   
@@ -131,15 +131,15 @@ If you think your identity has been stolen, you should also:
 
 **Place a fraud alert on your credit** file at any one of the three credit bureaus:
 
-Experian: **[www.experian.com](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=1224)** , 1-888-397-3742  
-Equifax: **[www.equifax.com](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=1222)** , 1-800-685-1111  
-TransUnion: **[www.transunion.com](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=1223)** , 1-800-888-4213
+Experian: **[www.experian.com](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=1224)** , 1-888-397-3742  
+Equifax: **[www.equifax.com](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=1222)** , 1-800-685-1111  
+TransUnion: **[www.transunion.com](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=1223)** , 1-800-888-4213
 
 **Close the accounts** that you know or believe have been tampered with or opened fraudulently.
 
 **File a police report** and submit a copy to your creditors and others that may require proof of the crime.
 
-**File your complaint with the Federal Trade Commission (FTC) at[www.ftc.gov/idtheft](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=1191)** or call the FTC’s identity theft hotline at **1-877-IDTHEFT** (1-877-438-4338). 
+**File your complaint with the Federal Trade Commission (FTC) at[www.ftc.gov/idtheft](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=1191)** or call the FTC’s identity theft hotline at **1-877-IDTHEFT** (1-877-438-4338). 
 
 ## Reducing Direct Marketing From Other Sources
 
@@ -151,11 +151,11 @@ New York, NY 10036
 
 212-768-7277, ext. 1500 
 
-You can also remove your name from these lists by visiting the DMA consumer assistance site at **[www.dmachoice.org.](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=1225)**
+You can also remove your name from these lists by visiting the DMA consumer assistance site at **[www.dmachoice.org.](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=1225)**
 
 ## National Consumer Credit Reporting Agencies
 
-If you would like your name removed from lists for pre-approved offers of credit or insurance obtained from the major credit reporting agencies, go to **[www.optoutprescreen.com](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=1226)** or call **1-888-5OPTOUT** (1-888-567-8688). 
+If you would like your name removed from lists for pre-approved offers of credit or insurance obtained from the major credit reporting agencies, go to **[www.optoutprescreen.com](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=1226)** or call **1-888-5OPTOUT** (1-888-567-8688). 
 
 The information you provide is confidential and will only be used to process your request. 
 
@@ -163,14 +163,14 @@ The information you provide is confidential and will only be used to process you
 
 Help eliminate unwanted and uninvited calls from telemarketers to your home when you register your telephone numbers – at no cost – with the National Do Not Call Registry. 
 
-Register your residential and cell phone numbers online at **[www.donotcall.gov](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=1227)** or by calling **1-888-382-1222**. While this will stop most calls, you may still receive calls from businesses with which you have a business relationship. 
+Register your residential and cell phone numbers online at **[www.donotcall.gov](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=1227)** or by calling **1-888-382-1222**. While this will stop most calls, you may still receive calls from businesses with which you have a business relationship. 
 
   
   
-[](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=900)  
-[](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=901)
+[](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=982)  
+[](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=901)
 
-[](https://web.archive.org/web/20091222141614id_/http%3A//www.nasafcu.com/l2.aspx?ci=1027)
+[](https://web.archive.org/web/20100623004714id_/http%3A//www.nasafcu.com/l2.aspx?ci=1027)
 
 |    
 
