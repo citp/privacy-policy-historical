@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india-forums.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225083154id_/http%3A//www.india-forums.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india-forums.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622235034id_/http%3A//www.india-forums.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # India-Forums -Privacy Policy
 
@@ -62,11 +62,11 @@ We are committed to resolving disputes as soon as feasible and shall endeavor to
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:  
 E-mail: [Support](https://web.archive.org/contact_us.asp "Support")   
 Telephone: +91 22 4016 6640  
-Postal address: Midas Chambers, Unit No. 601, 6th Floor, Off Link Road, Near Fun Republic, Opposite Yash Raj Films, Andheri (W), Mumbai.
+Postal address: Crystal Plaza, D-308, New Link Road, Opp. Infiniti Mall, Andheri (W), Mumbai-400053.
 
 **WEBSITE ADMINISTRATION**  
 Business name: Cyberax Media Pvt. Ltd.  
-Address: Midas Chambers, Unit No. 601, 6th Floor, Off Link Road, Near Fun Republic, Opposite Yash Raj Films, Andheri (W),  
+Address: Crystal Plaza, D-308, New Link Road, Opp. Infiniti Mall, Andheri (W),  
 City: Mumbai  
 State: Maharashtra  
 Pin code: 400 053  
