@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the ohmydogsupplies.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218100241id_/http%3A//www.ohmydogsupplies.com/pages.php%3Fpageid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmydogsupplies.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622043757id_/http%3A//www.ohmydogsupplies.com/pages.php%3Fpageid%3D12) for the most accurate reproduction.*
 
 # Privacy Policy - Oh My Dog Supplies
 
-|    
   
 
 
@@ -44,4 +43,5 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 888-269-7516 or via email.   
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 888-269-7516 or via email.    |    
+
