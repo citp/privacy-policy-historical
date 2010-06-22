@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230233711id_/http%3A//www.bmi.com/privacy%3Flink%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622233306id_/http%3A//www.bmi.com/privacy%3Flink%3Dfooter) for the most accurate reproduction.*
 
 # BMI.com | Privacy Policy
 
@@ -10,7 +10,7 @@ Launched in September of 1994, BMI.com is BMI’s hub for electronically communi
 
 ## Who We Are
 
-Broadcast Music, Inc. (“BMI”) is a U.S. music performing rights organization. Headquartered in New York at 320 West 57th Street, New York, NY 10019, BMI also maintains offices in Los Angeles, Nashville, Atlanta, Miami, Puerto Rico and London. We can be reached by e-mail at [webmaster@bmi.com](mailto:webmaster@bmi.com), or by telephone at (212) 586-2000. As described more thoroughly below, BMI generally owns all of the information collected on bmi.com.
+Broadcast Music, Inc. (“BMI”) is a U.S. music performing rights organization. Headquartered in New York at 7 World Trade Center, 250 Greenwich Street, New York, NY 10007, BMI also maintains offices in Los Angeles, Nashville, Atlanta, Miami, Puerto Rico and London. We can be reached by e-mail at [webmaster@bmi.com](mailto:webmaster@bmi.com), or by telephone at (212) 586-2000. As described more thoroughly below, BMI generally owns all of the information collected on bmi.com.
 
 ## What We Collect and How We Use It
 
