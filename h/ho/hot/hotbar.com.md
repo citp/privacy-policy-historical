@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotbar.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215035737id_/http%3A//www.hotbar.com/About/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotbar.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622060741id_/http%3A//www.hotbar.com/About/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
