@@ -1,140 +1,175 @@
-<!--The following is the downloaded HTML source of the search.us.com privacy policy that was archived on 2009-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091031035543id_/http%3A//search.us.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the search.us.com privacy policy that was archived on 2010-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622031646id_/http%3A//search.us.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Privacy Policy - Search.us.com   </title>
-    <link href="/cakephp/img/search.us.ico" type="image/x-icon" rel="icon">
-    <link href="/cakephp/img/search.us.ico" type="image/x-icon" rel="shortcut icon">
-    <link rel="stylesheet" type="text/css" href="/cakephp/css/search.css"></head>
-
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">    <title>
+        Privacy    </title>
+    <link rel="stylesheet" type="text/css" href="/css/search.css">
+    <link href="/img/search.ico" type="image/x-icon" rel="icon">
+    <link href="/img/search.ico" type="image/x-icon" rel="shortcut icon">
+    
+    <link rel="stylesheet" type="text/css" href="/cakephp/css/jquery.autocomplete.css"><script type="text/javascript" src="/cakephp/js/jquery-1.4.1.min.js"></script><script type="text/javascript" src="/cakephp/js/jquery-autocomplete/jquery.autocomplete.js"></script>    <meta name="google-site-verification" content="mLKeGT56qiNAPmthURu5rcGsJdODyMd9AlwThAH4Q7c">
+</head>
 <body>
+
 <div id="pm">
     <div id="m">
-
         <div id="h"> <!-- main header div-->
             <div id="th">
                 <div id="tl"></div>
                 <div id="tr"></div>
             </div>                    
             <div id="hs">
-            <form action="search" name="f" method="get">
-            <input maxlength="2048" name="k" size="55" title="Search" value="">
-                        <input value="Search" type="submit"> 
-            </form>
-
-            </div>        
+                <form action="http://search.us.com/search" name="f" method="get">
+    <input id="searchString" maxlength="2048" name="k" size="55" title="Search" value="" autocomplete="off" class="ac_input">
+    <div id="autocomplete" style="display:none"></div>
+    <input value="Search" type="submit"> 
+    
+    
+    
+          
+        <input type="hidden" name="s" value="0">
+    
+    
+    <script type="text/javascript">
+        $(document).ready(function()
+        {
+            //var data = "Core Selectors Attributes Traversing Manipulation CSS Events Effects Ajax Utilities".split(" ");
+            $("#searchString").autocomplete("/hintSearch/",
+                                            {
+                                                highlight: function highlight (value, term) 
+                                                {
+                                                    return "<strong>" + value.replace(
+                                                                                  new RegExp("(?![^&;]+;)(?!<[^<>]*)(" + 
+                                                                                  term.replace(/([\^\$\(\)\[\]\{\}\*\.\+\?\|\\])/gi, "\\$1") + 
+                                                                             ")(?![^<>]*>)(?![^&;]+;)", "gi"), "</strong>$1<strong>") + 
+                                                           "</strong>";
+                                                },
+                                                delay:200, 
+                                                selectFirst: false,
+                                                redirectUrl: "/search",
+                                                redirectParams: "",
+                                                extraParams: 
+                                                {  
+                                                    k: function() {return $("#searchString").val();}  
+                                                    //output: function(){return "toolbar";}
+                                                }
+                                            }
+                                           );
+        });
+    </script>
+</form>            </div>        
         </div>
         
         <div id="mb">
-        <p id="mbt">Privacy Policy</p>
-        <p id="resultStats" align="right">
-     
-     
-
-
-        </p>
-     
-     
+            <p id="mbt">Terms of Use</p>
+            <p id="resultStats" align="right">
+            </p>
         </div> <!--mid bar, contains "xxx results found out of xxx" message -->
-     
-        
-     
-        <div id="res"> <!-- main div that contains all results -->
-                        <div id="r"> <!-- right side sponsored listings -->
-             
-            </div><!--- end r div -->
-                       <div id="l"> <!-- left side results -->     
-    
-    
 
-                 
-                 
-                 
-                 
-                    
-                 <div id="t"> <!-- top sponsored ads -->
-                 
+        <div id="res"> <!-- main div that contains all results -->
+            <div id="r"> <!-- right side sponsored listings -->
+            </div><!--- end r div -->
+            <div id="l"> <!-- left side results -->
+                <div id="t"> <!-- top sponsored ads -->
                 </div> <!-- end t div -->
 
-                               
-               
-                               
-               
-               <!-- top 'Also Try' -->
-                                               <div id="topO">
-                    <div id="related"><!-- extra div, top of organic listings --> 
-                 
+                <!-- top 'Also Try' -->
+                <div id="topO">
+                    <div id="related"><!-- extra div, top of organic listings -->                  
                     </div> <!-- end related div -->
                 </div> <!-- end top0 div -->
+                <!-- end of top 'also try' -->
+                <div id="o"> <!-- div that contains organic listings -->
+                <!--- end organic listings -->
+                    <div style="font-family:arial"><strong>What information do we collect?</strong> <br><br>We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.  <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.<br><br><strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br>• To personalize your experience<br>(your information helps us to better respond to your individual needs)<br><br>• To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br><br><strong>Do we use cookies?</strong> <br><br>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information<br><br> We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><strong>Third party links</strong> <br><br> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br><br><strong>California Online Privacy Protection Act Compliance</strong><br><br>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br><br>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account via the "Sign In" link on the top right of the home page. Then click on 'Page Settings' and then go to the 'Account' section.<br><br><strong>Childrens Online Privacy Protection Act Compliance</strong> <br><br>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br><br><strong>Online Privacy Policy Only</strong> <br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><strong>Terms and Conditions</strong> <br><br>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://search.us.com/eula.html">http://search.us.com/eula.html</a><br><br><strong>Your Consent</strong> <br><br>By using our site, you consent to our privacy policy.<br><br><strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will post those changes on this page. <br><br>This policy was last modified on 9/17/2009<br><br><strong>Contacting Us</strong> <br><br>If there are any questions regarding this privacy policy you may contact us using the information below. <br><br>http://search.us.com<br>588 Sutter St #551<br>San Francisco, CA 94102<br>USA<br>webmaster@search.us.com<br><span></span><span></span><center><div style="font-size:7pt; font-family:Arial; color:gray; text-decoration:none; cursor:default;"></div></center></div><span></span><span></span><span></span></div><center>
+                </center></div> <!-- end o div -->
 
-                               <!-- end of top 'also try' -->
-
-
-
-
-                
-   
-               <div id="o"> <!-- div that contains organic listings -->
-               <!--- end organic listings -->
-     <div style="font-family:arial"><strong>What information do we collect?</strong> <br><br>We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.  <br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.<br><br><strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br>• To personalize your experience<br>(your information helps us to better respond to your individual needs)<br><br>• To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br><br><strong>Do we use cookies?</strong> <br><br>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information<br><br> We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br><strong>Third party links</strong> <br><br> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br><br><strong>California Online Privacy Protection Act Compliance</strong><br><br>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br><br>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account via the "Sign In" link on the top right of the home page. Then click on 'Page Settings' and then go to the 'Account' section.<br><br><strong>Childrens Online Privacy Protection Act Compliance</strong> <br><br>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br><br><strong>Online Privacy Policy Only</strong> <br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><strong>Terms and Conditions</strong> <br><br>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://search.us.com/eula.html">http://search.us.com/eula.html</a><br><br><strong>Your Consent</strong> <br><br>By using our site, you consent to our privacy policy.<br><br><strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will post those changes on this page. <br><br>This policy was last modified on 9/17/2009<br><br><strong>Contacting Us</strong> <br><br>If there are any questions regarding this privacy policy you may contact us using the information below. <br><br>http://search.us.com<br>588 Sutter St #551<br>San Francisco, CA 94102<br>USA<br>webmaster@search.us.com<br><span></span><span></span><center><div style="font-size:7pt; font-family:Arial; color:gray; text-decoration:none; cursor:default;"></div></center></div><span></span><span></span><span></span></div><center>
-               
-               
-               
-               
-               
-               </center></div> <!-- end o div -->
-                               
-            
-               
-            <div id="b"> <!--- bottom ads -->
-                
-            </div> <!-- end b div -->
-                    </div><!--- end l div -->
-  <!-- Also Try -->
-                                  <div id="botO">
-                    <div id="related">
-                   
-                    </div> <!-- end related div -->
-                </div> <!-- end bot0 div -->
-        <!-- end of Also Try -->
-    <!-- show did you mean when there's no also try -->
-                   
-        
-    </div>  <!--- end res div -->
-
-  
-
-      
-    <div id="foot"> <!-- entire footer div -->
-        <br clear="all">
-         
-        
+                <div id="b"> <!--- bottom ads -->                    
+                </div> <!-- end b div -->
+            </div><!--- end l div -->
+        </div>
+                    <div id="foot"> <!-- entire footer div -->
+                <br clear="all">
+                                
                 <div id="botBar"></div> <!-- bottom blue bar -->
-
+                
+                <div id="botCtr"> <!-- bottom, centered -->
+                    <div id="bs">
+                        <form action="http://search.us.com/search" name="f" method="get">
+                            
+                                                         
+                                <input type="hidden" name="s" value="0">
+                                                        
+                            <input maxlength="2048" name="k" size="55" title="Search" value=""> 
+                            <input value="Search" type="submit">
+                        </form>
+                        <!-- <p> links go here</p> -->
+                    </div>
+                    <p id="fl"> <a href="/about.html?">About Search.us.com</a> | <a href="/privacy.html?">Privacy Policy</a> | <a href="/eula.html?">Terms of Use</a> </p>
+                </div> <!-- end bottom, centered -->
+                
+            </div> <!-- end foot -->
         
-        <div id="botCtr"> <!-- bottom, centered -->
-            
-            <div id="bs">
-            
-                <form action="search" name="f" method="get">
-                    <input maxlength="2048" name="k" size="55" title="Search" value=""> 
-                    <input value="Search" type="submit">
-                </form>
+        </div><!--- end main -->
+     <!-- end pm -->
 
-                <!-- <p> links go here</p> -->
-            
-            </div>
 
-            <p id="fl"> <a href="/about.html">About Search.us.com</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/eula.html">Terms of Use</a> </p>
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-12362346-5");
+        pageTracker._setDomainName("search.us.com");
+        pageTracker._trackPageview();
+    } catch(err) {}
+</script>
+<script type="text/javascript">
+    function GetXmlHttpObject()
+    {
+        if (window.XMLHttpRequest)
+        {
+            // code for IE7+, Firefox, Chrome, Opera, Safari
+            return new XMLHttpRequest();
+        }
+        if (window.ActiveXObject)
+        {
+            // code for IE6, IE5
+            return new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        return null;
+    }
+    
+    function stateChanged()
+    {
+        return;
+    }
+     
+    function log(url, type)
+    {
+        //asynchronous http request
+        var xmlhttp = GetXmlHttpObject();
+        if (xmlhttp==null)
+        {
+            //alert("Your browser does not support XMLHTTP!");
+            return;
+        }
+        xmlhttp.onreadystatechange=stateChanged;
+        
+        url = "http://" + document.domain + "/toolbar/log.php?c=" + escape(url) + 
+                                                                  "&t=" + type + 
+                                                                  "&s=" +
+                                                                  "&guid=" +
+                                                                  "&user_id=";
+        
+        xmlhttp.open("GET", url ,false);
+        xmlhttp.send(null);   
+    }
 
-    </div> 
-
-    </div> <!-- end foot -->
-
-   </div><!--- end main -->
+</script>
+   <!--- end main -->
  <!-- end pm -->
 
-
-
-</body></html>
+<!-- 0.12s --></body></html>
