@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jisc.ac.uk privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228010132id_/http%3A//www.jisc.ac.uk/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jisc.ac.uk privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623015243id_/http%3A//www.jisc.ac.uk/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy statement : JISC
 
@@ -14,4 +14,4 @@ Across the website, web forms are used so you can, for instance, order publicati
 
 **Mailing lists**
 
-Some areas of JISC work are supported by discussion lists and forums. This service is provided by a JISC-funded service JISCmail. Full information about conditions and use of the lists is available on the [JISCmail website](http://www.jiscmail.ac.uk/ "\(external site\)")1. 
+Some areas of JISC work are supported by discussion lists and forums. This service is provided by a JISC-funded service JISCmail. Full information about conditions and use of the lists is available on the [JISCmail website](http://www.jiscmail.ac.uk/). 
