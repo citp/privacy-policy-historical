@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the rsa.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228110245id_/http%3A//www.rsa.com/node.aspx%3Fid%3D2470) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsa.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623010226id_/http%3A//www.rsa.com/node.aspx%3Fid%3D2470) for the most accurate reproduction.*
 
 # EMC Corporation Privacy Statement
 
 **_Updated: November 2009_**
 
-  
-
-
 ##### General Information
 
-EMC Corporation and its subsidiaries respect the privacy of our customers, business partners, and other visitors to our websites who may choose to provide personal information. We recognize the need for appropriate protections and management of personal information that you provide to us. This Privacy Statement will assist you to understand what types of information we may collect, how that information may be used, and with whom the information may be shared.
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.emc.com&sealid=101) EMC Corporation and its subsidiaries respect the privacy of our customers, business partners, and other visitors to our websites who may choose to provide personal information. We recognize the need for appropriate protections and management of personal information that you provide to us. This Privacy Statement will assist you to understand what types of information we may collect, how that information may be used, and with whom the information may be shared.
 
 ##### Scope
 
@@ -61,7 +58,7 @@ EMC strives to keep your personal information accurate. We have implemented tech
 
 **For EMC.com and Powerlink** : [emarketing@emc.com](mailto:emarketing@emc.com) or EMC, Attn: Marketing Department, 176 South Street, Hopkinton, MA, USA, 01748-9103. 
 
-**For RSA.com** : [webmaster@rsa.com](mailto:webmaster@rsa.com) or RSA Security Inc., Attn: Legal Department, 174 Middlesex Turnpike, Bedford, MA 01730. 
+**For RSA.com** : [Submit your comments](mailto:webcomments@rsa.com) or RSA Security Inc., Attn: Legal Department, 174 Middlesex Turnpike, Bedford, MA 01730. 
 
 **For Iomega.com** : for e-newsletters, special offers, "My Support" accounts, and software updates, you may update your personal information and opt-in preferences by logging into your "My Support" profile at [https://iomega-na-en.custhelp.com/cgi-bin/iomega_na_en.cfg/php/enduser/myprofile.php](https://iomega-na-en.custhelp.com/cgi-bin/iomega_na_en.cfg/php/enduser/myprofile.php%20or%20Iomega) or Iomega, Attn: eMarketing Department, 4059 South 1900 West, Roy, UT 84067; if you have created an account at Iomega's Online Store, you may update your personal information by logging into your account at the Online Store at <https://go.iomega.com/login/>.
 
