@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbodydesign.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219130719id_/http%3A//www.carbodydesign.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbodydesign.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622043742id_/http%3A//www.carbodydesign.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy - Car Body Design
 
