@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitewizard.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222231813id_/http%3A//www.websitewizard.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitewizard.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622232224id_/http%3A//www.websitewizard.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WebsiteWizard website builder > Privacy Policy
 
