@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228041936id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622042745id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
-# Rent.com:
+# Rent.com: Privacy Policy
 
 Help
 
@@ -9,6 +9,8 @@ Contact Us
 Security Center
 
 Legal
+
+Rent.com Privacy Policy
 
 Rent.com is a technology platform owned and operated by Viva Group, Inc. The rental advertisements and related services posted on Rent.com are procured and provided by Viva Group, Inc. and its subsidiaries and affiliates.
 
