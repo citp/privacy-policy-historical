@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221061739id_/http%3A//www.flinders.edu.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622234610id_/http%3A//www.flinders.edu.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy - Flinders University
 
-Flinders University has a firm commitment to privacy in accordance with the Guidelines for Federal and ACT Government World Wide Websites issued by the [Australian Privacy Commissioner](http://www.privacy.com.au/). This statement discloses our information gathering and dissemination practices for this site. 
+Flinders University has a firm commitment to privacy in accordance with the Guidelines for Federal and ACT Government World Wide Websites issued by the [Australian Privacy Commissioner](http://www.privacy.gov.au/ "Australian Privacy Commissioner"). This statement discloses our information gathering and dissemination practices for this site. 
 
 If you are submitting personal details, credit card numbers, or other information over the internet which you wish to remain private, please note that, while all attempts are made to secure information transmitted to this site, there is a possibility that information you submit could be observed by a third party while in transit.
-
-Information logged  
-Electronic mail addresses  
-Subscriptions  
-Cookies  
-Searches  
-Links to other sites  
-Contact details
 
 ### Information logged
 
@@ -68,6 +60,4 @@ This site contains links to other sites. Flinders University is not responsible 
 
 ### Contact details
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact:
-
-Email: wwwperson@flinders.edu.au 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact [Online Communications](mailto:webredevelopment@flinders.edu.au). 
