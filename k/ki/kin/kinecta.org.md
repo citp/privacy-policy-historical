@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the kinecta.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223031606id_/http%3A//kinecta.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinecta.org privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623010637id_/http%3A//www.kinecta.org/privacy.aspx) for the most accurate reproduction.*
 
 # Kinecta Federal Credit Union
 
+|   
+---  
+  
 We value your trust and handle your personal information with care. The following online practices demonstrate our commitment to maintain your online privacy and security.
 
 **Online information Collection and Use**  
-We may collect, use, and share the information you provide to us online as indicated under our [Privacy Policy](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=472 "Privacy Choices for Members").
+We may collect, use, and share the information you provide to us online as indicated under our Privacy Policy.
 
 **Security**  
 We take every precaution to ensure your information remains confidential. The information you provide to us on our Web site is encrypted and protected with an encryption method called Secure Socket Layer (SSL). While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open when you are just 'surfing'.
@@ -30,15 +33,14 @@ From our Web sites, we do not knowingly collect or use personal information from
 If you want to discontinue your access to this Web site or correct your personally identifiable information, you may send mail to the following postal address:
 
 > 1440 Rosecrans Avenue  
->  Manhattan Beach, CA 90266
+> Manhattan Beach, CA 90266
 
-Call our Member Contact Center at 800.854.9846, or visit your local Kinecta [Member Service Center.](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=600 "Locations Search") Please note that in some cases a written confirmation may be required.
+> Call our Member Contact Center at 800.854.9846, or visit your local Kinecta Member Service Center. Please note that in some cases a written confirmation may be required.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
 
-> Website Administrator  
->  Kinecta Federal Credit Union  
->  1440 Rosecrans Avenue  
->  Manhattan Beach, CA 90266  
-> [webmaster@kinecta.org](mailto:webmaster@kinecta.org "webmaster@kinecta.org")  
-> 
+Website Administrator  
+Kinecta Federal Credit Union  
+1440 Rosecrans Avenue  
+Manhattan Beach, CA 90266  
+[web@kinecta.org](mailto:web@kinecta.org)
