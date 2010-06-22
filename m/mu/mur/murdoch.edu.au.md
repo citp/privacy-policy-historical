@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the murdoch.edu.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022721id_/http%3A//www.murdoch.edu.au/goto/PrivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murdoch.edu.au privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044453id_/http%3A//www.murdoch.edu.au/goto/PrivacyNotice) for the most accurate reproduction.*
 
 # Murdoch University University Web Sites Privacy Notice
 
@@ -103,8 +103,6 @@ The University may use your IP address to help diagnose problems with a Web Serv
 ## 3\.  Disclosure of personal information
 
 Staff email addresses, room numbers and phone numbers are made available within the Campus Directory. Staff may elect to not have their email address or phone number displayed via the Directory. 
-
-Personal information about students will not be made publicly available on University Web sites without the written consent of individual students. 
 
 The information provided by users completing any forms on University Web sites will not be disclosed to others except where disclosure is consistent with the purpose for which it was collected and is otherwise in accordance with applicable privacy law requirements. 
 
