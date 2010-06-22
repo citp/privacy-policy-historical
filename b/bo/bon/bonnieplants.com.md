@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonnieplants.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221022605id_/http%3A//www.bonnieplants.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonnieplants.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622042440id_/http%3A//www.bonnieplants.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Bonnie Plants - Garden Plants for Your Vegetable Garden or Herb Garden
 
