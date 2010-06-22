@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219132208id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622021629id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Mintel International Group Ltd
+# Privacy Policy for Mintel International Group Ltd | Mintel
+
+  * [Contact Us](https://web.archive.org/contact-form)
+  * [Office Locations](https://web.archive.org/office-locations)
+
+| 
 
 **Introduction**  
-This policy covers Mintel Intenational Group Ltd use of personal information that Mintel collects when you use mintel.com and related sites
+This policy covers Mintel International Group Ltd use of personal information that Mintel collects when you use mintel.com and related sites
 
 From time to time, you will be asked to submit personal information about yourself (e.g. name, company name, postal address and email address) in order to receive or use services on our website. Such services include purchasing reports, receiving newsletters, competitions, registering for events, completing questionnaires and submitting questions. By entering your details in the fields requested, you enable Mintel to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. When using your personal information Mintel will act in accordance with current legislation, The Data Protection Act 1998 and aim to meet current Internet best practice.
 
@@ -47,7 +52,8 @@ If you no longer wish to receive our updates, newsletters and promotional commun
 **Your Legal Data Protection Rights**  
 In accordance with the Data Protection Act 1998 you, the data subject, can ask to view all data relating to you that we hold at any time. Mintel reserves the right to charge a fee of £10 for this request.
 
-**Legal Disclaimer.** Though we make every effort to preserve user privacy, we may in certain circumstances need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+**Legal Disclaimer.**  
+Though we make every effort to preserve user privacy, we may in certain circumstances need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
 **Security**  
 Mintel is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. In addition, all credit card details submitted to BMS ePDQ are encrypted via Secure Socket Layer (SSL). This encryption method is used widely on the Internet to keep information secure. If you prefer, our sales operators are standing by in the UK, GMT 8:00 am – 6.00 pm Monday to Friday on 0207 606 4533 or in the US, CST 8:00 am – 6:00 pm on (312) 932 0400 should you wish to place an order by telephone.
@@ -55,8 +61,7 @@ Mintel is committed to protecting the security of your personal information. We 
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact:
 
-**The Data Controller:**  
-  
+|  **The Data Controller:**  
 ---  
 email: | [data.controller@mintel.com](mailto:data.controller@mintel.com)  
 postal address: | Mintel Group, 18-19 Long Lane, London, EC1A 9PL  
