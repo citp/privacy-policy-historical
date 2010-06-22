@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the etaxindia.org privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220025316id_/http%3A//www.etaxindia.org/2008/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etaxindia.org privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622202219id_/http%3A//www.etaxindia.org/2008/11/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy — Tax India
+# Privacy Policy
 
-**Privacy Policy for[TAX INDIA](http://www.etaxindia.org/ "TAX INDIA") , http://www.etaxindia.org**
+**Privacy Policy for TAX INDIA , http://www.etaxindia.org**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact](http://www.etaxindia.org/2008/11/contact-tax-india.html "contact") us by email at admin at etaxindia.org
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin at etaxindia.org
 
 At etaxindia.com (henceforth referred as “Tax India”), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by “Tax India” and how it is used.
 
@@ -33,9 +33,10 @@ If you wish to disable cookies, you may do so through your individual browser op
 Related posts:
 
   1. [Copyright Policy and Fair Use Guide](http://www.etaxindia.org/2008/11/copyright-policy-and-fair-use-guide.html "Permanent Link: Copyright Policy and Fair Use Guide")
-  2. [Disclaimer](http://www.etaxindia.org/2008/11/disclaimer.html "Permanent Link: Disclaimer")
-  3. [Chandigarh Excise Policy 2009-2010 Enhances VAT on Liquor to Maximum](http://www.etaxindia.org/2009/03/chandigarh-excise-policy-2009-2010.html "Permanent Link: Chandigarh Excise Policy 2009-2010 Enhances VAT on Liquor to Maximum")
-  4. [Advertise on Tax India](http://www.etaxindia.org/2008/11/advertise-on-tax-india.html "Permanent Link: Advertise on Tax India")
+  2. [Chandigarh Excise Policy 2009-2010 Enhances VAT on Liquor to Maximum](http://www.etaxindia.org/2009/03/chandigarh-excise-policy-2009-2010.html "Permanent Link: Chandigarh Excise Policy 2009-2010 Enhances VAT on Liquor to Maximum")
+  3. [Disclaimer](http://www.etaxindia.org/2008/11/disclaimer.html "Permanent Link: Disclaimer")
+  4. [Download Budget 2010 Files](http://www.etaxindia.org/2010/03/download-budget-2010-files.html "Permanent Link: Download Budget 2010 Files")
+  5. [Advertise on Tax India](http://www.etaxindia.org/2008/11/advertise-on-tax-india.html "Permanent Link: Advertise on Tax India")
 
 
 
