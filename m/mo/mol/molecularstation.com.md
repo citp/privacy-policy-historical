@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the molecularstation.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622011230id_/http%3A//www.molecularstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molecularstation.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623011013id_/http%3A//www.molecularstation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Molecular Station
 
@@ -25,3 +25,5 @@ Molecular Station contains many links to other sites. Those sites may not have t
 Users should be aware that when you are on Molecular Station, you could be directed to other sites that are beyond our control. There are links to other sites from Molecular Station pages that take you outside our service. These other sites may send their own cookies to users, collect data or solicit personal information. Take note and caution when proceeding to other sites.
 
 Molecular Station's policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond Molecular Station's control, and is not to be applied in any manner contrary to applicable law or governmental regulation. 
+
+[ ](http://www.molecularstation.com/zt/privacy-policy/)
