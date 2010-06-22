@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gardenandgun.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132443id_/http%3A//gardenandgun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenandgun.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622235230id_/http%3A//gardenandgun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
+Privacy PolicyPrivacy Policy
 
 Welcome to the Web site for Garden & Gun, [www.gardenandgun.com](http://www.gardenandgun.com/ "www.gardenandgun.com"). This Site is owned by Indigo Acquisition, LLC. We at Garden & Gun recognize that many visitors to our Web site are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Web site Privacy Statement.
 
