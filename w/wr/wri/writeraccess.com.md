@@ -1,19 +1,22 @@
-> *The following text is extracted and transformed from the writeraccess.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428211537id_/http%3A//www.writeraccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writeraccess.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623015342id_/http%3A//www.writeraccess.com/privacy-policy) for the most accurate reproduction.*
 
 # WriterAccess.com
 
 WriterAccess.com, Inc. ("WriterAccess.com") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance, and operate our company with protecting your sensitive personal information in mind. This privacy policy covers the service offered at the WriterAccess.com Website (the "Site") and outlines the type of information we collect, its uses, and steps we take to safeguard it.
 
-If you have questions or concerns regarding this statement, you should first contact our Legal Dept. at [legal@WriterAccess.com](mailto:legal@writeraccess.com). 
+If you have questions or concerns regarding this statement, you should first contact our Legal Dept. using the contact information below. 
 
 ## Information We Collect
 
 WriterAccess.com is committed to helping match users who are seeking writing services ("Clients") to users who are providers of home or care services ("Writers"). Accordingly, we collect user submitted personally identifying information and other information specific to the services requested or provided. As part of providing you our services, we may obtain personal information from the following sources:
 
-Information you provide to us on forms that you enter on the Site or that you provide to us in writing.  
-Information that you provide to us by telephone, such as when you contact our customer care department.  
-Information we receive automatically when you visit our web site. Please see "Cookies and other Technical Data" below.  
-Information from third parties, including verification services, payment processing services, and other online and offline sources.  
+  * Information you provide to us on forms that you enter on the Site or that you provide to us in writing.
+  * Information that you provide to us by telephone, such as when you contact our customer care department.
+  * Information we receive automatically when you visit our web site. Please see "Cookies and other Technical Data" below.
+  * Information from third parties, including verification services, payment processing services, and other online and offline sources.
+
+
+
 The information we collect may include: first name, last name, city, state, address, ZIP code, phone, email address and other information specific to the service requested or provided. If you become a registered subscriber we may collect your credit card information and billing address should you explicitly decide to participate in programs that require this information. Such programs may include becoming a Premium subscriber, and other promotions that WriterAccess.com may offer from time to time. If you become a registered Writer, we may collect your date of birth, gender, company name (if applicable), and ZIP codes served. If you are a company or agency registering as a Writer, we may also collect information about the company including the tax id, the year established, and the number of employees. If you request a background check on yourself we may collect your Social Security Number. In addition, if you request a background check on yourself we may obtain criminal background information from a third-party verification service. Use of such a verification service is voluntary.
 
 We may also collect information about third-party references from Writers. This information may include the name, phone number, and email address of the third-party reference. This information is collected when a Writer creates or updates their profile. This information is collected so that a Client or WriterAccess.com acting on behalf of a Client can contact the third-party reference to verify information provided by the Writer. The information collected about third-party references will not be used for other purposes including marketing. If a third-party reference would like to have their information removed from WriterAccess.com, they can [contact WriterAccess.com Member Care](https://web.archive.org/contact-us/ "Contact Us").
@@ -42,9 +45,11 @@ The information collected by WriterAccess.com is used in the operation of the Si
 
 We do not share your personal information with other third parties except as permitted or required by law or as described within this privacy policy and including the following:
 
-In order to provide our services, we may share any of the information we gather about you with agents and service providers to perform functions on our behalf, such as to send email, host videos (if you decide to post one to your account), or process credit card payments. In addition, address information may be shared with a service provider to determine geographic information. These service providers have access to personal information needed to perform their functions, but may not use it for other purposes.  
-We may disclose personal information about you to third parties when we believe such disclosure is appropriate to comply with a legal requirement, such as a law, regulation, court order, subpoena or search warrant, or in the course of a legal proceeding. We may also disclose personal information as we believe appropriate to enforce or apply our rights under our agreements with customers, to protect the rights, property or safety of WriterAccess.com, our customers and others, including exchanging information for fraud protection and credit risk reduction.  
-If there is a change of control in WriterAccess.com's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information-handling practices as described in this statement, you will be notified by email and/or through a notice posted on our Site, and you will have a choice as to whether your existing information is used in a new manner.
+  * In order to provide our services, we may share any of the information we gather about you with agents and service providers to perform functions on our behalf, such as to send email, host videos (if you decide to post one to your account), or process credit card payments. In addition, address information may be shared with a service provider to determine geographic information. These service providers have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * We may disclose personal information about you to third parties when we believe such disclosure is appropriate to comply with a legal requirement, such as a law, regulation, court order, subpoena or search warrant, or in the course of a legal proceeding. We may also disclose personal information as we believe appropriate to enforce or apply our rights under our agreements with customers, to protect the rights, property or safety of WriterAccess.com, our customers and others, including exchanging information for fraud protection and credit risk reduction.
+  * If there is a change of control in WriterAccess.com's business (whether by merger, sale, or otherwise), its customer information could be sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information-handling practices as described in this statement, you will be notified by email and/or through a notice posted on our Site, and you will have a choice as to whether your existing information is used in a new manner.
+
+
 
 ## Your Choices
 
@@ -62,9 +67,12 @@ If your personally identifiable information changes, you may update this informa
 
 WriterAccess.com is committed to earning and keeping your trust and we understand the need to keep your information secure and private. As a result we have implemented industry-recognized safeguards to protect your information. These safeguards include:
 
-WriterAccess.com is registered with Comodo, a leading provider of digital authentication services and products for electronic commerce and other forms of secure communications. With Comodo, you can be assured that your communication with the WriterAccess.com web site is secure. We use SSL (Secure Socket Layer), the industry standard method for computers to communicate securely without risk of manipulation or recipient impersonation. We utilize SSL in the online registration process, in the login process, and in the account management section of the Site.  
-WriterAccess.com uses encryption technology to protect sensitive information such as credit card information.  
-WriterAccess.com employs firewalls and system monitoring to protect against unauthorized access of our systems.  
+  * WriterAccess.com is registered with Comodo, a leading provider of digital authentication services and products for electronic commerce and other forms of secure communications. With Comodo, you can be assured that your communication with the WriterAccess.com web site is secure. We use SSL (Secure Socket Layer), the industry standard method for computers to communicate securely without risk of manipulation or recipient impersonation. We utilize SSL in the online registration process, in the login process, and in the account management section of the Site.
+  * WriterAccess.com uses encryption technology to protect sensitive information such as credit card information.
+  * WriterAccess.com employs firewalls and system monitoring to protect against unauthorized access of our systems.
+
+
+
 Please remember that you also play a valuable role in data security. You should never share your WriterAccess.com password with anyone. If you feel your password has been compromised, you should change it immediately by logging into your account and accessing the "Profile" section within "My Account". After you have finished using our Site, you should log out of your WriterAccess.com account and exit your browser.
 
 ## Privacy Policy Changes
@@ -77,6 +85,5 @@ If you have any questions on our Privacy Policy, you can contact us at:
 
 Legal Department  
 WriterAccess.com, Inc.  
-77 N Washington St, Suite 3B  
-Boston, MA 02114 USA  
-[legal@WriterAccess.com](mailto:legal@writeraccess.com)
+240 Commercial St, Suite 3B  
+Boston, MA 02109 USA
