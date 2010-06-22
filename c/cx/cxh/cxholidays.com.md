@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cxholidays.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221174003id_/http%3A//www.cxholidays.com/chl/en_INTL/r/legal%3Fnav%3Dtop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxholidays.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622232921id_/http%3A//www.cxholidays.com/chl/en_INTL/r/legal%3Fnav%3Dtop) for the most accurate reproduction.*
 
 # Data Privacy and Security Policy - Cathay Pacific Holidays - Dragonair Holidays - Your holiday package travel agent
 
@@ -73,3 +73,5 @@ We post new or updated statements in this section if we deem it necessary to cha
 **Legal Disclaimer**
 
 We may disclose Data when required by law or by court order, or as requested by other government or law enforcement authorities. It may also be revealed in good faith that disclosure is otherwise necessary or advisable including, and without limitation to protect the rights or properties of Cathay Holidays Limited. This also applies when we have reason to believe that disclosing Data is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
+
+ **This notice is written in English language and may be translated into other languages. In the event of any inconsistency between the English version and the translated version of this notice, the English version shall prevail.**
