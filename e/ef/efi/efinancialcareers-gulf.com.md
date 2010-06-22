@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers-gulf.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219162519id_/http%3A//www.efinancialcareers-gulf.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers-gulf.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623015608id_/http%3A//www.efinancialcareers-gulf.com/privacyPolicy.htm) for the most accurate reproduction.*
 
 # eFinancialCareers - Privacy policy
 
