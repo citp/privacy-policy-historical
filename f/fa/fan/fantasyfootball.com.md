@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221173155id_/http%3A//fantasyfootball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623004803id_/http%3A//fantasyfootball.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Fantasy Football - Free News, Cheatsheets, Tools, and Advice. Leagues and Games.
+# Privacy Policy :: 2010 Fantasy Football – Leagues and Games, Free News and Headlines, Cheatsheets, Rankings, and Advice.
 
 ## Fantasy Planet Privacy Policy
 
-Fantasy Planet considers the maintenance of user privacy to be extremely important. Following is a description of the manner in which Fantasy Planet manages user information (”Privacy Policy” or “Policy”).
+Fantasy Planet considers the maintenance of user privacy to be extremely important. Following is a description of the manner in which Fantasy Planet manages user information (“Privacy Policy” or “Policy”).
 
 **Scope**
 
