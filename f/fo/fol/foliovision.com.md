@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the foliovision.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619031856id_/http%3A//foliovision.com/registration/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foliovision.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622041728id_/http%3A//foliovision.com/registration/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Foliovision
 
 Privacy policy for the web site of **Foliovision s.r.o.**.
 
 Our postal address is:
 
-> **Foliovision s.r.o.  
+>  **Foliovision s.r.o.  
 >  Grosslingova 63  
 >  Bratislava, 81109  
 >  Slovakia**
@@ -34,4 +34,4 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 
 With respect to security we take great care to make sure that your information remains private. We hate spam too. Perhaps even more than you - we get a lot of it for ourselves and on behalf of our clients.
 
-**If you feel that this site is not following its stated information policy, please contact us at the above addresses or phone number.**
+ **If you feel that this site is not following its stated information policy, please contact us at the above addresses or phone number.**
