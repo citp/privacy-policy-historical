@@ -1,0 +1,701 @@
+<!--The following is the downloaded HTML source of the jigsaw-online.com privacy policy that was archived on 2010-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622123232id_/http%3A//www.jigsaw-online.com/privacypolicy.aspx%3Fpagename%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1">
+    <base href="http://www.jigsaw-online.com/"><!-- DVPDS20080717-URLRewrite -->    
+    <link href="frontend/css/style.css" rel="stylesheet" type="text/css"><link href="frontend/css/navcss/nav_colours.css" rel="stylesheet" type="text/css"><link href="frontend/css/jigsaw_navigation.css" rel="stylesheet" type="text/css"><link id="ctl00_juniorcss" type="text/css" rel="stylesheet"><link id="ctl00_navigationcss" type="text/css" rel="stylesheet">   
+    <!--[if lte IE 6]> <link rel="stylesheet" type="text/css" href="frontend/css/ie6.css" media="screen" /> <![endif]-->    
+    <script type="text/javascript" src="frontend/js/includes.js"></script>
+    <script type="text/javascript" src="frontend/js/functionality/stores.js"></script>
+	<script type="text/javascript" src="frontend/js/functionality/listing.js"></script>
+	<script type="text/javascript" src="frontend/js/functionality/popup.js"></script>
+	<script type="text/javascript" src="frontend/js/functionality/my_account.js"></script> 
+	<script type="text/javascript" src="frontend/js/functionality/checkout.js"></script> 
+	
+    <title>
+	Privacy Policy – Women's Fashion Clothes – Online Shop
+</title><meta name="Description" content="Women's clothing from Jigsaw online. Privacy Policy Information."><script type="text/javascript" language="javascript">
+<!--//
+
+function reg() //- DVPDS20070115 - Original function
+{
+	var Key
+	if (navigator.appName == 'Netscape')
+	{
+		if (window.captureEvents)
+		{
+		}
+	}
+}
+
+function netscapeKeyPress(e)
+{
+	if (e.which==13)
+	{
+     return false
+	}
+}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--//
+var usernameenterkeyevent
+usernameenterkeyevent = false
+var eventname 
+
+
+
+function checkenterkey(evt)
+{
+     var key;     
+     if(window.event)
+          key = window.event.keyCode; //IE
+     else
+          key = evt.which; //firefox     
+
+     return (key != 13);
+}
+
+
+//function for Netscape
+ 
+	
+function validatefieldswithfocus(fields,count,texttype)
+{
+	var returnvalue
+    returnvalue =true
+	for (var i=0; i< count;i++)
+	{   
+		eval("var otmp = document.forms(0)." + fields[i][0]);
+		if (otmp=="[object]" || otmp=="[object HTMLInputElement]")
+		{
+			if (otmp.value=="")
+			{
+				alert(fields[i][1])
+				otmp.focus()
+				returnvalue = false
+				break;
+			}
+			else
+			{
+			    // check if password is blank or not . move cursor to password if password is blank
+				i++;
+				eval("var otmp = document.forms(0)." + fields[i][0]);
+				if (otmp=="[object]" || otmp=="[object HTMLInputElement]")
+				{
+					if (otmp.value=="")
+					{
+					 otmp.focus()
+					 returnvalue = false
+					 break;
+					}
+				}
+			}
+		}
+	}
+	return returnvalue
+}
+
+
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--//
+//function for addto cart
+function disabledenterkey()
+{
+	if (window.event.keyCode ==13)
+	{  
+	window.event.keyCode =0
+	}
+}
+
+function clickAddtoCart(e, buttonid,thebox,thevalidator)
+{ 
+	var bt = document.getElementById(buttonid); 
+	if (typeof bt == 'object')
+	{ 
+		if(navigator.appName.indexOf("Netscape")>(-1))
+		{ 
+			if (e.keyCode == 13)
+			{
+			validate = CheckQuantity1(thebox,thevalidator,bt)
+				if (validate) 
+				{
+					bt.click(); 
+					return false;
+				}
+			} 
+		} 
+		if (navigator.appName.indexOf("Microsoft Internet Explorer")>(-1))
+		{ 
+			if (event.keyCode == 13)
+			{ 
+				validate = CheckQuantity1(thebox,thevalidator,bt)
+				if (validate)
+				{
+					bt.click(); 
+					return false;
+				}
+				else
+				{
+					cancelevent()
+					event.keyCode = 9;
+				}
+			} 
+		} 
+	} 
+} 
+
+function clickAddtoCartQuickOrder(e, buttonid,thebox)
+{// Enter Key down doesn't trigger the validator event . So Catch enter key function is needed to validate quantity input
+ //catch enter key . if  quantity is correct , then submit the page ,otherwise , return the page
+	var bt = document.getElementById(buttonid); 
+	if (typeof bt == 'object')
+	{ 
+		if(navigator.appName.indexOf("Netscape")>(-1))
+		{ 
+			if (e.keyCode == 13)
+			{
+				bt.click(); 
+				return false;
+			} 
+		} 
+		if (navigator.appName.indexOf("Microsoft Internet Explorer")>(-1))
+		{ 
+			if (event.keyCode == 13)
+			{ 
+				cancelevent();				
+				bt.click(); 
+				return false; 
+			} 
+		} 
+	} 
+} 
+
+var eventname;
+
+function cancelevent()
+{   
+	event.returnValue=false;
+    event.cancel = true;
+}
+
+function validatefields(fields)
+{
+	for (var i=0; i< fields.length;i++)
+	{
+	var returnvalue
+	returnvalue = true
+	eval("var otmp = document.forms(0)." + fields[i][0]);
+	if (otmp=="[object]" || otmp=="[object HTMLInputElement]")
+	{
+		if (otmp.value=="")
+		{
+			alert(fields[i][1]);
+			otmp.focus();
+			returnvalue =  false;
+			break;
+		}
+		else if (eventname == fields[0][0])
+		{
+			eval("var otmp = document.forms(0)." + fields[i+1][0]);
+			if (otmp=="[object]" || otmp=="[object HTMLInputElement]")
+			{
+				if (otmp.value=="")
+				{
+					otmp.focus()
+					returnvalue =  false
+					break;
+				}
+			}
+		}
+	}
+	}
+	return returnvalue
+}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--//
+var value
+function SetupProvinceCode()
+{
+var countrycode
+var currcountrycode
+var statecode
+var description
+var dCountry
+var dState 
+var index
+var lastindex
+var isempty = false
+  
+dState = document.forms(0).Account1_dState
+dCountry =document.forms(0).Account1_dCountry
+for (i=0;i<dCountry.length ;i++)
+{
+	if (dCountry.options[i].selected)
+	{
+		countrycode=dCountry.options[i].value
+		break;
+	}
+}
+
+do
+{
+isempty=false
+	for (var i=0;i<dState.length;i++)
+	{
+		dState .options [i]=null
+		isempty=true
+	}
+}
+while(isempty)
+	
+var j =0 
+tOption= new Option("Select a Prov./State","")
+dState.options [j]=tOption
+j=j+1
+for(i=0;i<StateCodes.length -1 ;i++){
+	value = StateCodes[i]
+	currcountrycode =getcode()
+	if (currcountrycode == countrycode){
+		statecode =getcode()
+		description =getcode()
+		tOption= new Option(description,statecode)
+		dState.options [j]=tOption
+		j=j+1
+	}
+}
+dState.options[0].selected =true
+}
+
+function getcode()
+{
+	var index;
+	var code;
+	index = value.indexOf(":");
+	if (index==-1)
+	{
+		code = value
+	}
+	else
+	{
+		code = value.substring(0,index);
+		value = value.substring(index+1);
+}
+return code
+}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--//
+function loginneeded()
+{
+	alert("");
+	return false;
+}
+
+function CheckQuantity1(theQty,theValidator,bt)
+{ //
+var thistalue;
+var theText = document.getElementById(theQty); 
+var validator = document.getElementById(theValidator); 
+if (typeof theText == 'object')
+{ 
+	thistalue = theText.value
+	if (parseFloat(thistalue) == 0)
+	{ 
+		if (navigator.appName.indexOf("Microsoft Internet Explorer")>(-1))
+			validator.style.display =""
+		else
+		    bt.click()
+			//alert("");
+		theText.focus();
+		return false;}
+	if (!IsBlank(thistalue))
+	{ 
+	if (navigator.appName.indexOf("Microsoft Internet Explorer")>(-1))
+        validator.style.display =""
+	else  
+	    bt.click();
+       // alert("");
+	theText.focus();
+	return false;
+	}
+	else
+	{  
+		theText.value=parseFloat(thistalue);
+		theText.focus();
+		return true;
+	}
+	}
+}
+
+function IsBlank(thevalue)
+{
+//  check for valid numeric strings	
+ 
+	var strValidChars = "0123456789";
+	var strChar;
+	var blnResult = true;
+
+	if (thevalue.length == 0) return false;
+
+	//  test strString consists of valid characters listed above
+	for (i = 0; i < thevalue.length && blnResult == true; i++)
+	{
+		strChar = thevalue.charAt(i);
+		if (strValidChars.indexOf(strChar) == -1)
+		{
+			blnResult = false;
+		}
+	}
+	return blnResult;
+}
+
+function IsNumeric(strString)
+//  check for valid numeric strings	
+{
+	var strValidChars = "0123456789";
+	var strChar;
+	var blnResult = true;
+
+	if (strString.length == 0) return false;
+
+	//  test strString consists of valid characters listed above
+	for (i = 0; i < strString.length && blnResult == true; i++)
+	{
+	strChar = strString.charAt(i);
+		if (strValidChars.indexOf(strChar) == -1)
+		{
+			blnResult = false;
+		}
+	}
+	return blnResult;
+}
+//-->
+</script>
+
+
+
+<script type="text/javascript" language="javascript">
+<!--//
+var hidevalue;
+function ClearInitQty(TheBox)
+{
+
+if (TheBox.value !="" )
+  hidevalue=TheBox.value; 
+  TheBox.value ="";
+}
+
+function InitQty(TheBox, HideLabel)
+{
+
+}
+
+function NewInitQty(TheBox)
+{
+if (TheBox.value=="")
+  TheBox.value = hidevalue; 
+}
+
+function ClearInitQty(TheBox)
+{
+
+if (TheBox.value !="" )
+  hidevalue=TheBox.value; 
+  TheBox.value ="";
+}
+
+function InitQty(TheBox, HideLabel)
+{
+
+}
+
+function NewInitQty(TheBox)
+{
+if (TheBox.value=="")
+  TheBox.value = hidevalue; 
+}
+
+//-->
+</script>
+
+<script type="text/jscript" language="javascript">
+<!--//
+function populateState(countryObj,stateObj)
+{
+    var country = countryObj[countryObj.selectedIndex].value;
+    stateObj.options.length = 1;
+    if (country != "")
+    {
+        if (state[country][state[country].length-1].toLowerCase()== "false")
+        {
+            stateObj.disabled=false;
+                for (i = 0; i < (state[country].length-1); i++)
+                {
+                    stateObj.options[i + 1] = new Option(statename[country][i], state[country][i]);
+                }
+        }
+        else
+        {
+        stateObj.disabled=true;
+        }
+    }
+}
+//-->
+</script>
+</head>
+ 
+<body>
+    <form name="aspnetForm" method="post" action="privacypolicy.aspx?pagename=privacy" id="aspnetForm" onkeydown="return checkenterkey(event)">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1NzI1NDg2Mg9kFgJmD2QWAgIDD2QWFgIBD2QWBGYPDxYCHgRUZXh0ZWRkAgIPDxYEHwBlHgtOYXZpZ2F0ZVVybGVkZAIDD2QWBAICDw8WBB8ABQpNeSBBY2NvdW50HwEFKGh0dHBzOi8vd3d3LmppZ3Nhdy1vbmxpbmUuY29tL215LWFjY291bnRkZAIEDw8WBB8ABQlXSVNIIExJU1QfAQUoaHR0cDovL3d3dy5qaWdzYXctb25saW5lLmNvbS9teS13aXNobGlzdGRkAgcPZBYCZg8PFgIfAQUpaHR0cDovL3d3dy5qaWdzYXctb25saW5lLmNvbS9kZWZhdWx0LmFzcHgWAh4FdGl0bGUFJEppZ3NhdyBXb21lbidzIENsb3RoZXMgJiBBY2Nlc3Nvcmllc2QCCQ9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBRYKZg9kFgICAQ8WAh4FY2xhc3MFC3RhYnNfd29tZW5zFgJmDw8WBB8ABRc8c3Ryb25nPldvbWVuczwvc3Ryb25nPh8BBTdodHRwOi8vd3d3LmppZ3Nhdy1vbmxpbmUuY29tL2NvbGxlY3Rpb25zLzEwMDA4Njkvd29tZW5zFgIfAgUPV29tZW4ncyBDbG90aGVzZAIBD2QWAgIBDxYCHwQFEHRhYnNfYWNjZXNzb3JpZXMWAmYPDxYEHwAFHDxzdHJvbmc+QWNjZXNzb3JpZXM8L3N0cm9uZz4fAQU8aHR0cDovL3d3dy5qaWdzYXctb25saW5lLmNvbS9jb2xsZWN0aW9ucy8xMDAwODg3L2FjY2Vzc29yaWVzFgIfAgUhV29tZW4ncyBBY2Nlc3NvcmllcyBhbmQgSmV3ZWxsZXJ5ZAICD2QWAgIBDxYCHwQFCnRhYnNfbmV3aW4WAmYPDxYEHwAFFzxzdHJvbmc+TmV3IEluPC9zdHJvbmc+HwEFMGh0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20vc2hvcC8xMDAwODk3L25ldy1pbhYCHwIFFkxhdGVzdCBXb21lbidzIENsb3RoZXNkAgMPZBYCAgEPFgIfBAULdGFic19iZWF1dHkWAmYPDxYEHwAFFzxzdHJvbmc+QmVhdXR5PC9zdHJvbmc+HwEFN2h0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20vY29sbGVjdGlvbnMvMTAwMDg5NS9iZWF1dHkWAh8CBRdPcmdhbmljIEJlYXV0eSBQcm9kdWN0c2QCBA9kFgICAQ8WAh8EBQl0YWJzX2hvbWUWAmYPDxYEHwAFFTxzdHJvbmc+SG9tZTwvc3Ryb25nPh8BBTVodHRwOi8vd3d3LmppZ3Nhdy1vbmxpbmUuY29tL2NvbGxlY3Rpb25zLzEwMDA5NzMvaG9tZRYCHwIFG0JlZGRpbmcsIEJlZCBMaW5lbiBhbmQgSG9tZWQCCw9kFgJmDw8WAh8ABRFUZWwgMDIwIDgzOTIgNTYwM2RkAg0PZBYGZg8PFgQfAAUGU3RvcmVzHwEFOWh0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20vamlnc2F3LXN0b3Jlcy9HcmVhdGVyK0xvbmRvbhYCHwIFE0ppZ3NhdyBTdG9yZSBGaW5kZXJkAgEPDxYEHwAFCkNvbnRhY3QgVXMfAQUraHR0cDovL3d3dy5qaWdzYXctb25saW5lLmNvbS9jb250YWN0LWppZ3NhdxYCHwIFI0NvbnRhY3QgSmlnc2F3IE9ubGluZSBDbG90aGluZyBTaG9wZAICDw8WBB8ABRBTaG9wcGluZyBCYWcgKDApHwEFLmh0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20vc2hvcHBpbmdjYXJ0LmFzcHgWAh4Hb25jbGljawUmR2xvYmFsLnNob3BwaW5nQmFza2V0KCk7IHJldHVybiBmYWxzZTtkAhEPZBYEAgEPZBYQAgEPDxYEHwAFDEFib3V0IEppZ3Nhdx8BBSVodHRwOi8vd3d3LmppZ3Nhdy1vbmxpbmUuY29tL2Fib3V0LXVzFgIfAgUMQWJvdXQgSmlnc2F3ZAIDDw8WBB8ABQNGQVEfAQUgaHR0cDovL3d3dy5qaWdzYXctb25saW5lLmNvbS9mYXEWAh8CBQNGQVFkAgUPDxYEHwAFDEtleSBGZWF0dXJlcx8BBSlodHRwOi8vd3d3LmppZ3Nhdy1vbmxpbmUuY29tL2tleS1mZWF0dXJlcxYCHwIFDEtleSBGZWF0dXJlc2QCBw8PFgQfAAUKU2l6ZSBHdWlkZR8BBSdodHRwOi8vd3d3LmppZ3Nhdy1vbmxpbmUuY29tL3NpemUtZ3VpZGUWAh8CBQpTaXplIEd1aWRlZAIJDw8WBB8ABRZEZWxpdmVyeSAmYW1wOyBSZXR1cm5zHwEFMWh0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20vZGVsaXZlcnktYW5kLXJldHVybnMWAh8CBRJEZWxpdmVyeSAmIFJldHVybnNkAgsPDxYEHwAFB0NhcmVlcnMfAQUkaHR0cDovL3d3dy5qaWdzYXctb25saW5lLmNvbS9jYXJlZXJzFgIfAgUHQ2FyZWVyc2QCDQ8PFgQfAAUOUHJpdmFjeSBQb2xpY3kfAQUraHR0cDovL3d3dy5qaWdzYXctb25saW5lLmNvbS9wcml2YWN5LXBvbGljeRYCHwIFDlByaXZhY3kgUG9saWN5ZAIPDw8WBB8ABRZUZXJtcyAmYW1wOyBDb25kaXRpb25zHwEFMWh0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20vdGVybXMtYW5kLWNvbmRpdGlvbnMWAh8CBRJUZXJtcyAmIENvbmRpdGlvbnNkAgMPZBYKZg8PFgYeCEltYWdlVXJsBS4uLi9mcm9udGVuZC9pbWFnZXMvbGVmdF9uYXYvdHRsX25ld3NsZXR0ZXIucG5nHghDc3NDbGFzcwUVdHRsX2ppZ3Nhdy1uZXdzbGV0dGVyHgRfIVNCAgJkZAIDDw8WAh8ABShTaWduIFVwIHRvIFJlY2VpdmUgSmlnc2F3J3MgTGF0ZXN0IE5ld3MuZGQCBA8PFgIfAAUNSU5TSURFIEpJR1NBV2RkAgUPDxYCHwAFI05ld3MsIHByZXNzLCBjb21wZXRpdGlvbnMgJiBldmVudHMuZGQCBg8PFgYfBwUMbGF0ZXN0X3N0YW1wHwYFLC4uL2Zyb250ZW5kL2ltYWdlcy9sZWZ0X25hdi9sYXRlc3Rfc3RhbXAucG5nHwgCAmRkAhMPZBYCZg8WAh8DAgYWDGYPZBYIAgEPDxYCHwAFBDxoMz5kZAIDDw8WAh8ABQ5Qcml2YWN5IFBvbGljeWRkAgUPDxYCHwAFBTwvaDM+ZGQCBw8PFgIfAAWXBTxTVFJPTkc+PEZPTlQgc2l6ZT00PldlIGFyZSByZWdpc3RlcmVkIHVuZGVyIHRoZSBEYXRhIFByb3RlY3Rpb24gQWN0IDE5OTggKHRoZSDigJxBY3TigJ0pPC9GT05UPjwvU1RST05HPiA8UD48L1A+PFA+PFNUUk9ORz48L1NUUk9ORz48L1A+V2UgaGF2ZSB0aGUgdXRtb3N0IHJlc3BlY3QgZm9yIHRoZSBwcml2YWN5IG9mIG91ciBvbmxpbmUgY3VzdG9tZXJzLiBBbnkgaW5mb3JtYXRpb24geW91IHByb3ZpZGUgdXMgd2l0aCB3aWxsIGJlIHNlY3VyZWx5IHByb3RlY3RlZCBhbmQgbWFuYWdlZCBpbiBsaW5lIHdpdGggdGhlIEFjdC4gPFA+PC9QPjxQPjwvUD5Zb3UgY2FuIGFjY2VzcyBhbmQgYnJvd3NlIG91ciB3ZWJzaXRlIHdpdGhvdXQgaGF2aW5nIHRvIGRpc2Nsb3NlIGFueSBwZXJzb25hbCBkYXRhLiA8UD48L1A+PFA+PC9QPkJ5IGJyb3dzaW5nIGFuZCBzaG9wcGluZyBvbiBKaWdzYXfigJlzIHdlYnNpdGUgeW91IGFyZSBhY2NlcHRpbmcgYW5kIGNvbXBseWluZyB3aXRoIHRoZSByZWd1bGF0aW9ucyBvdXRsaW5lZCBpbiB0aGUgUHJpdmFjeSBQb2xpY3kgYmVsb3cgYW5kIGluIHRoZSA8QSBocmVmPSIuL3Rlcm1zYW5kY29uZGl0aW9ucy5hc3B4P3BhZ2VuYW1lPXNpdGV0ZXJtcyI+VGVybXMgYW5kIENvbmRpdGlvbnMgPC9BPnByb3ZpZGVkIG9uIHRoZSBzaXRlLmRkAgEPZBYIAgEPDxYCHwAFBDxoMz5kZAIDDw8WAh8ABR5QZXJzb25hbCBJbmZvcm1hdGlvbiBDb2xsZWN0ZWRkZAIFDw8WAh8ABQU8L2gzPmRkAgcPDxYCHwAF0gZJZiB5b3UgYnV5IGZyb20gdXMsIHdlIHdpbGwgcmVxdWlyZSBpbmZvcm1hdGlvbiBzdWNoIGFzIHlvdXIgZmlyc3QgbmFtZSBhbmQgc3VybmFtZSwgZW1haWwgYWRkcmVzcywgcGhvbmUgbnVtYmVyIGFuZCBkZWxpdmVyeSBhbmQgYmlsbGluZyBhZGRyZXNzZXMuIFRoaXMgaW5mb3JtYXRpb24gaXMgcmVxdWlyZWQgaW4gb3JkZXIgdGhhdCB3ZSBtYXkgcHJvY2VzcyB5b3VyIG9yZGVyIGVmZmljaWVudGx5LiA8UD48L1A+PFA+PC9QPlRoaXMgc2l0ZSB1c2VzIGludGVybmV0IGNvb2tpZXMuIFRoZXNlIGFyZSBzbWFsbCBwaWVjZXMgb2YgaW5mb3JtYXRpb24gdGhhdCBhcmUgc3RvcmVkIGJ5IHlvdXIgYnJvd3NlciBvbiB5b3VyIGNvbXB1dGVyIHRvIGltcHJvdmUgdGhlIHNwZWVkIGF0IHdoaWNoIGl0IGNhbiBhY2Nlc3MgcGFnZXMgb2Ygb3VyIHdlYnNpdGUsIHRoZXJlYnkgZ2l2aW5nIHlvdSBhIGJldHRlciBicm93c2luZyBleHBlcmllbmNlLiBUaGVzZSBjb29raWVzIGRvIG5vdCByZWNvcmQgb3Igc3RvcmUgYW55IHBlcnNvbmFsIGRldGFpbHMgYW5kIGFyZSBoYXJtbGVzcyB0byB5b3VyIGNvbXB1dGVyLiBTaG91bGQgeW91IG5vdCB3aGljaCB0byBzdG9yZSBjb29raWVzIG9uIHlvdXIgY29tcHV0ZXIgZnJvbSBvdXIgd2Vic2l0ZSBvciBhbnkgb3RoZXIsIGl0IGlzIHBvc3NpYmxlIHRvIGNoYW5nZSB0aGUgc2V0dGluZ3Mgb24geW91ciB3ZWIgYnJvd3NlciB0byBwcmV2ZW50IGNvb2tpZXMgZnJvbSBiZWluZyBzdG9yZWQuIFBsZWFzZSBub3RlIHRoYXQgZGlzYWJsaW5nIGNvb2tpZXMgbWF5IHJlZHVjZSB0aGUgcGVyZm9ybWFuY2Ugb2Ygb3VyIHdlYnNpdGUgb24geW91ciBjb21wdXRlci4gZGQCAg9kFggCAQ8PFgIfAAUEPGgzPmRkAgMPDxYCHwAFEllvdXIgUmlnaHQgVG8gS25vd2RkAgUPDxYCHwAFBTwvaDM+ZGQCBw8PFgIfAAWfAldlIHJlc3BlY3QgeW91ciByaWdodCB0byBrbm93IGFib3V0IHRoZSBpbmZvcm1hdGlvbiB3ZSBob2xkIGFib3V0IHlvdS4gSWYsIGF0IGFueSBwb2ludCwgeW91IHdpc2ggdG8gc2VlIHRoZSBpbmZvcm1hdGlvbiBoZWxkIGJ5IEppZ3NhdyBhZ2FpbnN0IHlvdXIgYWNjb3VudCwgeW91IG1heSB3cml0ZSB0byB1cyBhdDogSmlnc2F3IE9ubGluZSBTZXJ2aWNlIFRlYW0sIFJvYmluc29uIFdlYnN0ZXIgKEhvbGRpbmdzKSBMaW1pdGVkLCAxNTkgTW9ydGxha2UgUm9hZCwgS2V3LCBTdXJyZXksIFRXOSA0QVcuZGQCAw9kFggCAQ8PFgIfAAUEPGgzPmRkAgMPDxYCHwAFDkNvbnRhY3RpbmcgWW91ZGQCBQ8PFgIfAAUFPC9oMz5kZAIHDw8WAh8ABcQSPFA+SWYgeW91IGhhdmUgcHVyY2hhc2VkIGZyb20gdGhlIHNpdGUgb3Igb3B0ZWQgaW4gdG8gcmVjZWl2ZSBpbmZvcm1hdGlvbiBvbiBjb21wYW55IG5ld3MsIG91ciBwcm9kdWN0cyBhbmQgcHJvbW90aW9ucywgYnV0IHdvdWxkIG5vdyBsaWtlIHVzIHRvIHN0b3Agc2VuZGluZyB5b3UgdGhpcyBpbmZvcm1hdGlvbiBwbGVhc2UgZWl0aGVyOjxCUj7igKImbmJzcDtjbGljayB0aGUgdW5zdWJzY3JpYmUgbGluayBvbiB0aGUgbGF0ZXN0IChub24gb3JkZXIgYWRtaW5pc3RyYXRpb24pIGUtbWFpbCByZWNlaXZlZCBmcm9tIHVzIHRvIHN0b3Agb3VyIGFkanVzdCB0aGUgbGV2ZWwgb2YgY29udGFjdCB3ZSBoYXZlIHdpdGggeW91LDxCUj7igKImbmJzcDtsb2cgaW4gdG8geW91ciBhY2NvdW50IGluIHRoZSBNeSBBY2NvdW50IHNlY3Rpb24gb2YgdGhlIHdlYnNpdGUgYW5kIHNpbXBseSBjbGljayB0aGUgdW5zdWJzY3JpYmUgbGluaywgbG9jYXRlZCBuZXh0IHRvIHRoZSBOZXdzbGV0dGVyIFN1YnNjcmlwdGlvbiBmaWVsZCZuYnNwOyBpbiB0aGUgTXkgRGV0YWlscyBzY3JlZW48QlI+4oCiJm5ic3A7Y29udGFjdCB1cyBieSBlLW1haWwgKDxBIGhyZWY9Im1haWx0bzpub21vcmVtYWlsQGppZ3Nhdy1vbmxpbmUuY28udWsiPm5vbW9yZW1haWxAamlnc2F3LW9ubGluZS5jby51azwvQT4pIDxCUj7igKImbmJzcDt3cml0ZSB0byB1cyBhdCB0aGUgYWRkcmVzcyBwcm92aWRlZCBhYm92ZS4mbmJzcDsgUGxlYXNlIGJlIHN1cmUgdG8gcHJvdmlkZSB5b3VyIG5hbWUgYW5kIGFkZHJlc3Mgd2hlbiByZXF1ZXN0aW5nIHRoZSByZW1vdmFsIG9mIHlvdXIgZGF0YSBmcm9tIG91ciBkYXRhYmFzZSwgc28gdGhhdCB3ZSBjYW4gY2hlY2sgdGhhdCBpdCBpcyBpbiBmYWN0IHlvdSB3aG8gaXMgbWFraW5nIHRoZSByZXF1ZXN0LiA8QlI+Jm5ic3A7PEJSPlBsZWFzZSByZW1lbWJlciwgaWYgeW91IGhhdmUgYXNrZWQgdXMgdG8gc3RvcCBzZW5kaW5nIHlvdSBlbWFpbHMgYW5kIHRoZW4geW91IG1ha2UgYSBmdXJ0aGVyIHB1cmNoYXNlIGZyb20gb3VyIHdlYnNpdGUsIHdlIHdpbGwgbmVlZCB0byBjb250YWN0IHlvdSBieSBlbWFpbCB0byBjb25maXJtIHlvdXIgb3JkZXIgYW5kIGl0cyBkZXNwYXRjaCBhbmQgdGhpcyB3aWxsIHJlLWVuZ2FnZSB5b3UgYXMgYSByZWdpc3RlcmVkIGN1c3RvbWVyIHdpc2hpbmcgdG8gYmUgY29udGFjdGVkLiA8L1A+PFA+V2hlbiBwdXJjaGFzaW5nIGZyb20gdGhlIHdlYnNpdGUsIGF0IHRoZSBlbmQgb2YgdGhlIGNoZWNrb3V0IHByb2Nlc3MsIHdlIHdpbGwgb2ZmZXIgeW91IHRoZSBjaGFuY2UgdG8gYWN0aXZhdGUgeW91ciBhY2NvdW50LCBieSBzaW1wbHkgZW50ZXJpbmcgYSBwYXNzd29yZC4mbmJzcDsgVGhpcyB3aWxsIGFsbG93IHlvdSB0byBrZWVwIGEgcmVjb3JkIG9mIHlvdXIgb3JkZXJzLCBzYXZlIHlvdXIgd2lzaGxpc3QgYW5kIGJhZyB3aGVuIGxlYXZpbmcgdGhlIHNpdGUgYW5kIGVuam95IGZhc3RlciBjaGVja291dCBvbiBmdXR1cmUgdmlzaXRzLiZuYnNwOyBJZiB5b3Ugd291bGQgbGlrZSB0byBhY3RpdmF0ZSB5b3VyIGFjY291bnQgYnV0IGRvIG5vdCB3aXNoIGZvciB1cyB0byBvY2Nhc2lvbmFsbHkgY29udGFjdCB5b3Ugd2l0aCBpbmZvcm1hdGlvbiBhYm91dCBKaWdzYXcsIG91ciBwcm9kdWN0cyBhbmQgcHJvbW90aW9ucywgcGxlYXNlIGxvZyBpbiB0byB5b3VyIGFjY291bnQgaW4gdGhlIE15IEFjY291bnQgc2VjdGlvbiBvZiB0aGUgd2Vic2l0ZSBhbmQgc2ltcGx5IGNsaWNrIHRoZSB1bnN1YnNjcmliZSBsaW5rLCBsb2NhdGVkIG5leHQgdG8gdGhlIE5ld3NsZXR0ZXIgU3Vic2NyaXB0aW9uIGZpZWxkJm5ic3A7IGluIHRoZSBNeSBEZXRhaWxzIHNjcmVlbi48L1A+PFA+SWYgYW55IG9mIHlvdXIgZGV0YWlscyBoYXZlIGNoYW5nZWQgcGxlYXNlIGVpdGhlcjo8QlI+4oCiJm5ic3A7dmlzaXQgb3VyIHdlYnNpdGUgKGlmIHlvdSBoYXZlIGFscmVhZHkgc2V0IHVwIGFuIGFjY291bnQpIGFuZCBvcGVuIOKAmE15IEFjY291bnTigJkgdG8gYWNjZXNzIGFuZCBlZGl0IHlvdXIgZGF0YTxCUj7igKImbmJzcDtjb250YWN0IHVzIGJ5IGUtbWFpbCBvciBieSBwb3N0LCBxdW90aW5nIOKAnE15IE5ldyBJbmZvcm1hdGlvbuKAnSwgaWYgeW91IHdvdWxkIGxpa2UgdXMgdG8gY29tcGxldGUgdGhlIHVwZGF0ZSBmb3IgeW91LiZuYnNwOyBQbGVhc2UgYmUgc3VyZSB0byBwcm92aWRlIHlvdXIgb2xkIGluZm9ybWF0aW9uIHdoZW4gdXBkYXRpbmcgdXMsIHNvIHRoYXQgd2UgY2FuIHZlcmlmeSB0aGF0IGl0IGlzIGluIGZhY3QgeW91IG1ha2luZyB0aGlzIHJlcXVlc3QgYW5kIGVuc3VyZSB0aGF0IHdlIGNvcnJlY3QgeW91ciBkYXRhIGFjY3VyYXRlbHkuPEJSPjwvUD5kZAIED2QWCAIBDw8WAh8ABQQ8aDM+ZGQCAw8PFgIfAAUUQW55IEZ1cnRoZXIgUXVlcmllcz9kZAIFDw8WAh8ABQU8L2gzPmRkAgcPDxYCHwAFeVBsZWFzZSBmZWVsIGZyZWUgdG8gZS1tYWlsIHVzIGF0IGVucXVpcmllc0BqaWdzYXctb25saW5lLmNvbSBpZiB5b3UgaGF2ZSBhbnkgYWRkaXRpb25hbCBxdWVyaWVzIGFib3V0IG91ciBwcml2YWN5IHBvbGljeS5kZAIFD2QWCAIBDw8WAh8ABQQ8aDM+ZGQCAw8PFgIfAAUcU2VjdXJlIFN0b3JhZ2UgJiBVc2Ugb2YgRGF0YWRkAgUPDxYCHwAFBTwvaDM+ZGQCBw8PFgIfAAXhEFlvdXIgaW5mb3JtYXRpb24gd2lsbCBiZSBoZWxkIGJ5IEppZ3NhdywgdGhlIHRyYWRpbmcgbmFtZSBvZiBSb2JpbnNvbiBXZWJzdGVyIChIb2xkaW5ncykgTHRkLiA8UD48L1A+PFA+PC9QPldoZW4gbWFraW5nIGEgcHVyY2hhc2Ugb3Igc2lnbmluZyB1cCBmb3IgbmV3cywgd2UgcmVseSBvbiB5b3UgdG8gcmVnaXN0ZXIgYW55IGluZm9ybWF0aW9uIGFib3V0IHlvdXJzZWxmIGFjY3VyYXRlbHkuIElmIHlvdSBzZXQgdXAgYW4gYWNjb3VudCBvbmxpbmUgd2l0aCB1cyBhbmQgeW91ciBkZXRhaWxzIGNoYW5nZSwgeW91IHdpbGwgbmVlZCB0byBrZWVwIHRoaXMgaW5mb3JtYXRpb24gdXAtdG8tZGF0ZSBieSBsb2dnaW5nIGludG8geW91ciBhY2NvdW50IGFuZCBlZGl0aW5nIHlvdXIgcGVyc29uYWwgZGV0YWlscy4gWW91ciBhY2NvdW50IHdpbGwgYmUgcGFzc3dvcmQgcHJvdGVjdGVkIGJ5IGEgcGFzc3dvcmQgZ2VuZXJhdGVkIGJ5IHlvdSBhdCB0aGUgcG9pbnQgb2Ygc2V0IHVwLiBQbGVhc2Ugbm90ZSB0aGF0IHlvdSBhcmUgcmVzcG9uc2libGUgZm9yIG1haW50YWluaW5nIHRoZSBjb25maWRlbnRpYWxpdHkgb2YgeW91ciBvd24gcGFzc3dvcmQgYW5kIGFjY291bnQsIGFzIHdlbGwgYXMgYW55IGFjdGl2aXRpZXMgdGhhdCBvY2N1ciB1bmRlciB0aGF0IGFjY291bnQuIDxQPjwvUD48UD5XZSBtYXkgdXNlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gZm9yIHRoZSBmb2xsb3dpbmcgcHVycG9zZXM6IDxQPuKAoiB0byBmdWxmaWwvZGVsaXZlciBvcmRlcnMgcGxhY2VkIGJ5IHlvdSwgPFA+4oCiIHRvIHByb2Nlc3MgcGF5bWVudCBmb3IgeW91ciBnb29kcyBvbiBkZXNwYXRjaCwgPFA+4oCiIHRvIG9idGFpbiBjcmVkaXQgYXV0aG9yaXNhdGlvbiBmcm9tIHlvdXIgY2FyZCBpc3N1ZXIsIDxQPuKAoiB0byBjb250YWN0IHlvdSB3aXRoIGFueSBxdWVyaWVzIGFib3V0IHlvdXIgb3JkZXIsIDxQPuKAoiB0byBkZXNwYXRjaCBhZG1pbmlzdHJhdGlvbiBlLW1haWxzIHRvIHlvdSByZWdhcmRpbmcgeW91ciBvcmRlciwgPFA+4oCiIHRvIGFuYWx5c2UgcHJvZHVjdCBwcmVmZXJlbmNlcywgdG8gaGVscCBpbXByb3ZlIHRoZSBvZmZlciBvbiBvdXIgc2l0ZSBhbmQgPFA+4oCiIHRvIGNvbnRhY3QgeW91IHdpdGggcmVsZXZhbnQgaW5mb3JtYXRpb24gYWJvdXQgdXMsIG91ciBwcm9kdWN0IGFuZCBvdXIgc2VydmljZXMuIDxQPjwvUD48UD48L1A+V2Ugd2lsbCBub3Qga2VlcCBhIHBlcm1hbmVudCByZWNvcmQgb2YgeW91ciBjcmVkaXQgY2FyZCBkZXRhaWxzLiBUaGVzZSBkZXRhaWxzIHdpbGwgbmVlZCB0byBiZSBzdG9yZWQgaW5pdGlhbGx5IGluIG9yZGVyIHRoYXQgd2UgbWlnaHQgcHJvY2VzcyB5b3VyIG9yZGVyLCB0YWtlIHBheW1lbnQgb24gZGVzcGF0Y2ggYW5kIHByb3ZpZGUgcmVmdW5kcyBzaG91bGQgeW91IHdpc2ggdG8gcmV0dXJuIGFuZCByZWZ1bmQgYW55IGl0ZW1zLiBUaGUgY2FyZCBkZXRhaWxzIHlvdSBwcm92aWRlIHVzIHdpdGggZHVyaW5nIHRoZSBjaGVja291dCBwcm9jZXNzIHdpbGwgYmUgdGFrZW4gYW5kIHN0b3JlZCBzZWN1cmVseS4gT25jZSB5b3VyIHRyYW5zYWN0aW9uIGFuZCBhbnkgcmVxdWlyZWQgcmVmdW5kcyBhcmUgY29tcGxldGVkLCBhbGwgY2FyZCBkYXRhIHdpbGwgYmUgc2VjdXJlbHkgZXJhc2VkLiA8UD48L1A+PFA+PC9QPklmIHlvdSBsaW5rIHRvIGFub3RoZXIgd2Vic2l0ZSBmcm9tIG91cnMsIHdlIHdvbuKAmXQgZ2l2ZSB0aGVtIHlvdXIgZGV0YWlscy4gSXQgd2lsbCBiZSBhdCB5b3VyIGRpc2NyZXRpb24gdG8gcHJvdmlkZSB5b3VyIGRldGFpbHMgdG8gdGhhdCB3ZWJzaXRlLiBZb3UgdXNlIHRoZXNlIGxpbmtzIGF0IHlvdXIgb3duIHJpc2suIEppZ3NhdyBkb2VzIG5vdCBhY2NlcHQgcmVzcG9uc2liaWxpdHkgZm9yIHRoZSBjb250ZW50IGhlbGQgb24gdGhvc2Ugc2l0ZXMuIDxQPjwvUD48UD48L1A+SW4gdGhlIGV2ZW50IG9mIHRoZSBwb2xpY2Ugb3IgYSBnb3Zlcm5tZW50IGF1dGhvcml0eSByZXF1ZXN0aW5nIGluZm9ybWF0aW9uIGZyb20gdXMgZHVyaW5nIHRoZSBjb3Vyc2Ugb2YgYW4gaW52ZXN0aWdhdGlvbiBpbnRvIHN1c3BlY3RlZCBpbGxlZ2FsIGFjdGl2aXRpZXMsIHdlIGFyZSBvYmxpZ2VkIHRvIHByb3ZpZGUgZGF0YSB0byB0aGVtLmRkAhUPZBYGZg8PFgIeB1Zpc2libGVoZGQCAQ8PFgIfCWdkFgICAQ8PFgIfAAUaWW91ciBTaG9wcGluZyBCYWcgaXMgRW1wdHlkZAICDxYCHwAFtQE8c2NyaXB0IGxhbmd1YWdlPSJqYXZhc2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg1mdW5jdGlvbiBjaGVja291dCgpDXsNdmFyIGJ0biA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9qaWdzYXdjYXJ0MV9oaWRkZW5jaGVja291dCcpOw1pZiAoYnRuKSBidG4uY2xpY2soKTsNfQ08L3NjcmlwdD4NZAIXD2QWAmYPFgIfAAXAASZjb3B5OyBDb3B5cmlnaHQgMjAwOCBKaWdzYXcgPGEgaHJlZj0iaHR0cDovL3d3dy5wb2QxLmNvbSIgdGl0bGU9IlBvZDEgV2ViIGRlc2lnbiBMb25kb24gVUsiIG9uY2xpY2s9InJldHVybiAhd2luZG93Lm9wZW4oJ2h0dHA6Ly93d3cucG9kMS5jb20nKTsiIG9ua2V5cHJlc3M9IiI+V2ViIGRlc2lnbiBieSBKaWdzYXcvUG9kMTwvYT4NCmQCGQ9kFhJmDw8WBB8ABQhBYm91dCBVcx8BBSVodHRwOi8vd3d3LmppZ3Nhdy1vbmxpbmUuY29tL2Fib3V0LXVzFgIfAgUMQWJvdXQgSmlnc2F3ZAICDw8WBB8ABQNGQVEfAQUgaHR0cDovL3d3dy5qaWdzYXctb25saW5lLmNvbS9mYXEWBB8CBRpGcmVxdWVudGx5IEFza2VkIFF1ZXN0aW9ucx4DcmVsBQhub2ZvbGxvd2QCBA8PFgQfAAUMS2V5IEZlYXR1cmVzHwEFKWh0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20va2V5LWZlYXR1cmVzFgQfAgUbS2V5IEppZ3NhdyBXZWJzaXRlIEZlYXR1cmVzHwoFCG5vZm9sbG93ZAIGDw8WBB8ABQpTaXplIEd1aWRlHwEFJ2h0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20vc2l6ZS1ndWlkZRYEHwIFGkppZ3NhdyBDbG90aGluZyBTaXplIEd1aWRlHwoFCG5vZm9sbG93ZAIIDw8WBB8ABRZEZWxpdmVyeSAmYW1wOyBSZXR1cm5zHwEFMWh0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20vZGVsaXZlcnktYW5kLXJldHVybnMWBB8CBRpEZWxpdmVyeSAmIFJldHVybnMsIEppZ3Nhdx8KBQhub2ZvbGxvd2QCCg8PFgQfAAUHQ2FyZWVycx8BBSRodHRwOi8vd3d3LmppZ3Nhdy1vbmxpbmUuY29tL2NhcmVlcnMWBB8CBRVKaWdzYXcgQ2FyZWVycyAmIEpvYnMfCgUIbm9mb2xsb3dkAgwPDxYEHwAFDlByaXZhY3kgUG9saWN5HwEFK2h0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20vcHJpdmFjeS1wb2xpY3kWBB8CBRZQcml2YWN5IFBvbGljeSwgSmlnc2F3HwoFCG5vZm9sbG93ZAIODw8WBB8ABRZUZXJtcyAmYW1wOyBDb25kaXRpb25zHwEFMWh0dHA6Ly93d3cuamlnc2F3LW9ubGluZS5jb20vdGVybXMtYW5kLWNvbmRpdGlvbnMWBB8CBRpUZXJtcyAmIENvbmRpdGlvbnMsIEppZ3Nhdx8KBQhub2ZvbGxvd2QCEA8PFgQfAAUQQWZmaWxpYXRlcyBPZmZlch8BBSdodHRwOi8vd3d3LmppZ3Nhdy1vbmxpbmUuY29tL2FmZmlsaWF0ZXMWBB8CZR8KBQhub2ZvbGxvd2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFI2N0bDAwJGppZ3Nhd3NlYXJjaGJveDEkYnRudG9wc2VhcmNoBSpjdGwwMCRzaWRlbWVudSRuZXdsZXR0ZXIxJG5ld3NidG50b3BzZWFyY2jOrz9Bd9YXW7JoWVzN4fgezxzYgA==">
+   
+        <div id="top">
+	        <p class="location"><span id="ctl00_jigsawtopdesc1_TopDesc"></span> <a id="ctl00_jigsawtopdesc1_TopHyperlink"></a>
+</p>
+	        <div id="top_nav"> <span> | </span>
+<a id="ctl00_jigsawusercontrol1_MyAccountLink" class="topnav_my-account" rel="nofollow" href="https://www.jigsaw-online.com/my-account">My Account</a> <span> | </span>
+<a id="ctl00_jigsawusercontrol1_MyWishListLink" class="topnav_wish-list" rel="nofollow" href="http://www.jigsaw-online.com/my-wishlist">WISH LIST</a> <span> | </span>
+
+</div>
+	        <div id="frm_search">
+		        <fieldset>
+                    <input type="image" name="ctl00$jigsawsearchbox1$btntopsearch" id="ctl00_jigsawsearchbox1_btntopsearch" class="frm_submit" src="images/transparent.gif" alt="Search" border="0">
+<input name="ctl00$jigsawsearchbox1$txtquery" type="text" id="ctl00_jigsawsearchbox1_txtquery" class="frm_text">
+		        </fieldset>
+	        </div>
+        </div>
+    
+        <div id="wrapper">
+	        <div id="header">
+		        <a id="ctl00_jigsawlogo1_sitelogo" title="Jigsaw Women's Clothes &amp; Accessories" href="http://www.jigsaw-online.com/default.aspx"><p class="logo"></p></a>
+		        
+<ul id="tabs">
+
+    <li id="ctl00_jigsawtopcategory1_catRepeater1_ctl00_unsortedlist1" class="tabs_womens"><a id="ctl00_jigsawtopcategory1_catRepeater1_ctl00_categorylink" title="Women's Clothes" href="http://www.jigsaw-online.com/collections/1000869/womens"><strong>Womens</strong></a></li>
+
+    <li id="ctl00_jigsawtopcategory1_catRepeater1_ctl01_unsortedlist1" class="tabs_accessories"><a id="ctl00_jigsawtopcategory1_catRepeater1_ctl01_categorylink" title="Women's Accessories and Jewellery" href="http://www.jigsaw-online.com/collections/1000887/accessories"><strong>Accessories</strong></a></li>
+
+    <li id="ctl00_jigsawtopcategory1_catRepeater1_ctl02_unsortedlist1" class="tabs_newin"><a id="ctl00_jigsawtopcategory1_catRepeater1_ctl02_categorylink" title="Latest Women's Clothes" href="http://www.jigsaw-online.com/shop/1000897/new-in"><strong>New In</strong></a></li>
+
+    <li id="ctl00_jigsawtopcategory1_catRepeater1_ctl03_unsortedlist1" class="tabs_beauty"><a id="ctl00_jigsawtopcategory1_catRepeater1_ctl03_categorylink" title="Organic Beauty Products" href="http://www.jigsaw-online.com/collections/1000895/beauty"><strong>Beauty</strong></a></li>
+
+    <li id="ctl00_jigsawtopcategory1_catRepeater1_ctl04_unsortedlist1" class="tabs_home"><a id="ctl00_jigsawtopcategory1_catRepeater1_ctl04_categorylink" title="Bedding, Bed Linen and Home" href="http://www.jigsaw-online.com/collections/1000973/home"><strong>Home</strong></a></li>
+
+
+</ul>
+		        <p class="telephone_upper"><span id="ctl00_jigsawtelephone1_telephoneNo">Tel 020 8392 5603</span>
+</p>
+		        <p class="small_links">
+</p><p class="small_links "><span class="">
+<a id="ctl00_jigsawtoplinks1_storeslink" title="Jigsaw Store Finder" href="http://www.jigsaw-online.com/jigsaw-stores/Greater+London">Stores</a><span> | </span>
+<a id="ctl00_jigsawtoplinks1_contactuslink" title="Contact Jigsaw Online Clothing Shop" href="http://www.jigsaw-online.com/contact-jigsaw">Contact Us</a><span> | </span>
+<a id="ctl00_jigsawtoplinks1_basketlink" rel="nofollow" onclick="Global.shoppingBasket(); return false;" href="http://www.jigsaw-online.com/shoppingcart.aspx">Shopping Bag (0)</a></span></p>
+<p></p>
+	        </div>
+	        <hr class="notforscreen">
+
+            
+<h1>Privacy Policy</h1>
+
+	        <div class="middle">
+ 		        
+<div class="content_left">
+    
+<ul class="nav">
+    <li><a id="ctl00_sidemenu_jigsawtopleft1_aboutus1" title="About Jigsaw" href="http://www.jigsaw-online.com/about-us">About Jigsaw</a></li>
+    <li><a id="ctl00_sidemenu_jigsawtopleft1_faq1" title="FAQ" href="http://www.jigsaw-online.com/faq">FAQ</a></li>
+    <li><a id="ctl00_sidemenu_jigsawtopleft1_keyfeatures1" title="Key Features" href="http://www.jigsaw-online.com/key-features">Key Features</a></li>
+    <li><a id="ctl00_sidemenu_jigsawtopleft1_sizeguide1" title="Size Guide" href="http://www.jigsaw-online.com/size-guide">Size Guide</a></li>
+    <li><a id="ctl00_sidemenu_jigsawtopleft1_deliveryandreturns1" title="Delivery &amp; Returns" href="http://www.jigsaw-online.com/delivery-and-returns">Delivery &amp; Returns</a></li>
+    <li><a id="ctl00_sidemenu_jigsawtopleft1_careers1" title="Careers" href="http://www.jigsaw-online.com/careers">Careers</a></li>
+    <li><a id="ctl00_sidemenu_jigsawtopleft1_privacypolicy1" title="Privacy Policy" href="http://www.jigsaw-online.com/privacy-policy">Privacy Policy</a></li>
+    <li><a id="ctl00_sidemenu_jigsawtopleft1_termsandconditions1" title="Terms &amp; Conditions" href="http://www.jigsaw-online.com/terms-and-conditions">Terms &amp; Conditions</a></li>
+</ul>
+
+    
+
+<div class="content_left-newsletter">
+    
+    <p><a id="ctl00_sidemenu_newletter1_emailmeimg" class="ttl_jigsaw-newsletter" href="jigsawnewsletter.aspx"><img src="frontend/images/left_nav/ttl_newsletter.png" border="0"></a></p>
+	<div id="frm_jigsaw-newsletter">
+		<fieldset>
+			<input name="ctl00$sidemenu$newletter1$newstxtquery" type="text" value="your email address" id="ctl00_sidemenu_newletter1_newstxtquery" class="frm_text" onclick="javascript:refreshbox();">
+            <input type="image" name="ctl00$sidemenu$newletter1$newsbtntopsearch" id="ctl00_sidemenu_newletter1_newsbtntopsearch" class="frm_submit" src="images/transparent.gif" alt="Jigsaw News Letter" border="0">
+		</fieldset>
+	<p class="desc"><span id="ctl00_sidemenu_newletter1_emailmetext">Sign Up to Receive Jigsaw's Latest News.</span></p>
+	</div>
+</div>
+
+<div class="clear"></div>
+
+<div class="content_left-latest">
+    <div class="text">
+		
+		<p class="title"><a id="ctl00_sidemenu_newletter1_thelatesttitle" href="http://inside.jigsaw-online.com" target="_blank">INSIDE JIGSAW</a> </p>
+        <p class="desc"><a id="ctl00_sidemenu_newletter1_thelatesttext" href="http://inside.jigsaw-online.com" target="_blank">News, press, competitions &amp; events.</a></p>
+     </div>
+     <a id="ctl00_sidemenu_newletter1_thelatestimg" class="latest_stamp" href="http://inside.jigsaw-online.com" target="_blank"><img src="frontend/images/left_nav/latest_stamp.png" border="0"></a>
+</div>
+
+<br class="clear">
+         
+
+
+
+<script type="text/javascript">
+    function refreshbox() {           
+        var el = document.getElementById('ctl00_sidemenu_newletter1_newstxtquery');        
+        if (el.value == "your email address") el.value = "";
+    }                   
+</script>
+
+</div>
+
+                
+    <div class="content_extended">
+	    <div class="default_content">
+		    
+		            <span id="ctl00_cpholder_contentrepeater1_ctl00_h3start"><h3><span><span id="ctl00_cpholder_contentrepeater1_ctl00_subhead1">Privacy Policy</span></span><span id="ctl00_cpholder_contentrepeater1_ctl00_h3end"></span></h3></span>
+		            <p><span id="ctl00_cpholder_contentrepeater1_ctl00_content1"><strong><font size="4">We are registered under the Data Protection Act 1998 (the “Act”)</font></strong> </span></p><p></p><p><strong></strong></p>We have the utmost respect for the privacy of our online customers. Any information you provide us with will be securely protected and managed in line with the Act. <p></p><p></p>You can access and browse our website without having to disclose any personal data. <p></p><p></p>By browsing and shopping on Jigsaw’s website you are accepting and complying with the regulations outlined in the Privacy Policy below and in the <a href="./termsandconditions.aspx?pagename=siteterms">Terms and Conditions </a>provided on the site.<p></p>
+		            <p>&nbsp;</p>
+		        
+		            <span id="ctl00_cpholder_contentrepeater1_ctl01_h3start"><h3><span><span id="ctl00_cpholder_contentrepeater1_ctl01_subhead1">Personal Information Collected</span></span><span id="ctl00_cpholder_contentrepeater1_ctl01_h3end"></span></h3></span>
+		            <p><span id="ctl00_cpholder_contentrepeater1_ctl01_content1">If you buy from us, we will require information such as your first name and surname, email address, phone number and delivery and billing addresses. This information is required in order that we may process your order efficiently. </span></p><p></p><p></p>This site uses internet cookies. These are small pieces of information that are stored by your browser on your computer to improve the speed at which it can access pages of our website, thereby giving you a better browsing experience. These cookies do not record or store any personal details and are harmless to your computer. Should you not which to store cookies on your computer from our website or any other, it is possible to change the settings on your web browser to prevent cookies from being stored. Please note that disabling cookies may reduce the performance of our website on your computer. <p></p>
+		            <p>&nbsp;</p>
+		        
+		            <span id="ctl00_cpholder_contentrepeater1_ctl02_h3start"><h3><span><span id="ctl00_cpholder_contentrepeater1_ctl02_subhead1">Your Right To Know</span></span><span id="ctl00_cpholder_contentrepeater1_ctl02_h3end"></span></h3></span>
+		            <p><span id="ctl00_cpholder_contentrepeater1_ctl02_content1">We respect your right to know about the information we hold about you. If, at any point, you wish to see the information held by Jigsaw against your account, you may write to us at: Jigsaw Online Service Team, Robinson Webster (Holdings) Limited, 159 Mortlake Road, Kew, Surrey, TW9 4AW.</span></p>
+		            <p>&nbsp;</p>
+		        
+		            <span id="ctl00_cpholder_contentrepeater1_ctl03_h3start"><h3><span><span id="ctl00_cpholder_contentrepeater1_ctl03_subhead1">Contacting You</span></span><span id="ctl00_cpholder_contentrepeater1_ctl03_h3end"></span></h3></span>
+		            <p><span id="ctl00_cpholder_contentrepeater1_ctl03_content1"></span></p><p>If you have purchased from the site or opted in to receive information on company news, our products and promotions, but would now like us to stop sending you this information please either:<br>•&nbsp;click the unsubscribe link on the latest (non order administration) e-mail received from us to stop our adjust the level of contact we have with you,<br>•&nbsp;log in to your account in the My Account section of the website and simply click the unsubscribe link, located next to the Newsletter Subscription field&nbsp; in the My Details screen<br>•&nbsp;contact us by e-mail (<a href="mailto:nomoremail@jigsaw-online.co.uk">nomoremail@jigsaw-online.co.uk</a>) <br>•&nbsp;write to us at the address provided above.&nbsp; Please be sure to provide your name and address when requesting the removal of your data from our database, so that we can check that it is in fact you who is making the request. <br>&nbsp;<br>Please remember, if you have asked us to stop sending you emails and then you make a further purchase from our website, we will need to contact you by email to confirm your order and its despatch and this will re-engage you as a registered customer wishing to be contacted. </p><p>When purchasing from the website, at the end of the checkout process, we will offer you the chance to activate your account, by simply entering a password.&nbsp; This will allow you to keep a record of your orders, save your wishlist and bag when leaving the site and enjoy faster checkout on future visits.&nbsp; If you would like to activate your account but do not wish for us to occasionally contact you with information about Jigsaw, our products and promotions, please log in to your account in the My Account section of the website and simply click the unsubscribe link, located next to the Newsletter Subscription field&nbsp; in the My Details screen.</p><p>If any of your details have changed please either:<br>•&nbsp;visit our website (if you have already set up an account) and open ‘My Account’ to access and edit your data<br>•&nbsp;contact us by e-mail or by post, quoting “My New Information”, if you would like us to complete the update for you.&nbsp; Please be sure to provide your old information when updating us, so that we can verify that it is in fact you making this request and ensure that we correct your data accurately.<br></p><p></p>
+		            <p>&nbsp;</p>
+		        
+		            <span id="ctl00_cpholder_contentrepeater1_ctl04_h3start"><h3><span><span id="ctl00_cpholder_contentrepeater1_ctl04_subhead1">Any Further Queries?</span></span><span id="ctl00_cpholder_contentrepeater1_ctl04_h3end"></span></h3></span>
+		            <p><span id="ctl00_cpholder_contentrepeater1_ctl04_content1">Please feel free to e-mail us at enquiries@jigsaw-online.com if you have any additional queries about our privacy policy.</span></p>
+		            <p>&nbsp;</p>
+		        
+		            <span id="ctl00_cpholder_contentrepeater1_ctl05_h3start"><h3><span><span id="ctl00_cpholder_contentrepeater1_ctl05_subhead1">Secure Storage &amp; Use of Data</span></span><span id="ctl00_cpholder_contentrepeater1_ctl05_h3end"></span></h3></span>
+		            <p><span id="ctl00_cpholder_contentrepeater1_ctl05_content1">Your information will be held by Jigsaw, the trading name of Robinson Webster (Holdings) Ltd. </span></p><p></p><p></p>When making a purchase or signing up for news, we rely on you to register any information about yourself accurately. If you set up an account online with us and your details change, you will need to keep this information up-to-date by logging into your account and editing your personal details. Your account will be password protected by a password generated by you at the point of set up. Please note that you are responsible for maintaining the confidentiality of your own password and account, as well as any activities that occur under that account. <p></p><p>We may use your personal information for the following purposes: </p><p>• to fulfil/deliver orders placed by you, </p><p>• to process payment for your goods on despatch, </p><p>• to obtain credit authorisation from your card issuer, </p><p>• to contact you with any queries about your order, </p><p>• to despatch administration e-mails to you regarding your order, </p><p>• to analyse product preferences, to help improve the offer on our site and </p><p>• to contact you with relevant information about us, our product and our services. </p><p></p><p></p>We will not keep a permanent record of your credit card details. These details will need to be stored initially in order that we might process your order, take payment on despatch and provide refunds should you wish to return and refund any items. The card details you provide us with during the checkout process will be taken and stored securely. Once your transaction and any required refunds are completed, all card data will be securely erased. <p></p><p></p>If you link to another website from ours, we won’t give them your details. It will be at your discretion to provide your details to that website. You use these links at your own risk. Jigsaw does not accept responsibility for the content held on those sites. <p></p><p></p>In the event of the police or a government authority requesting information from us during the course of an investigation into suspected illegal activities, we are obliged to provide data to them.<p></p>
+		            <p>&nbsp;</p>
+		        
+		</div>		
+		<div class="default_photo">
+		    <img src="supplyimages/WEB01/footer-page-25.jpg" width="220" height="477" alt="Jigsaw Fashion Online Privacy Policy">
+		</div>
+		<br class="clear">
+	</div>	
+
+		        <div class="clear"></div>
+	        </div>
+	        <div class="clear"></div>
+	        <hr class="notforscreen">
+            
+<!--START jigsaw_basket_dropdown -->
+<div id="basket_dropdown" style="display: none">
+    <div class="shadow_top"></div>
+	<div class="basket_top">
+	    <strong class="item">Item</strong>
+		<strong class="quantity">Quantity</strong>
+		<strong class="price">Price</strong>
+    </div>
+	<div id="basket_dropdown_middle" style="display: none">
+	    <div class="basket_middle">
+	        
+			<div id="ctl00_jigsawcart1_emptycart">
+	
+			    <span id="ctl00_jigsawcart1_emptycartlabel1">Your Shopping Bag is Empty</span>
+			
+</div>
+		</div>
+	</div>
+	<div class="basket_bottom">
+	    <div class="basket_bottom_bg">
+	        <script language="javascript" type="text/javascript">
+function checkout()
+{
+var btn = document.getElementById('ctl00_jigsawcart1_hiddencheckout');
+if (btn) btn.click();
+}
+</script>
+
+	        <div style="display:none">
+		    <a href="http://www.jigsaw-online.com/ShoppingCart.aspx" title="Go to bag" id="btn4_go-to-bag" class="lnk_button2">Go to bag</a><span class="display_n"> | </span>
+			<a href="javascript:checkout()" title="Checkout" id="btn2_checkout" class="lnk_button2">Checkout</a>
+            </div> 			
+			<input type="submit" name="ctl00$jigsawcart1$hiddencheckout" value="" id="ctl00_jigsawcart1_hiddencheckout" style="visibility:hidden;display:none;">
+		</div>
+		<span class="left"></span><span class="right"></span><span class="footer"></span>
+	</div>
+	
+</div>
+<!-- END jigsaw_basket_dropdown -->
+	
+        </div>
+        
+        <div id="footer">
+	        <p class="left">© Copyright 2008 Jigsaw <a href="http://www.pod1.com" title="Pod1 Web design London UK" onclick="return !window.open('http://www.pod1.com');" onkeypress="">Web design by Jigsaw/Pod1</a>
+</p>
+	        <div class="right"><a id="ctl00_jsbrlinks1_aboutuslink" title="About Jigsaw" href="http://www.jigsaw-online.com/about-us">About Us</a><span> | </span>
+<a id="ctl00_jsbrlinks1_faqlink" title="Frequently Asked Questions" rel="nofollow" href="http://www.jigsaw-online.com/faq">FAQ</a><span> | </span>
+<a id="ctl00_jsbrlinks1_keyfeatures" title="Key Jigsaw Website Features" rel="nofollow" href="http://www.jigsaw-online.com/key-features">Key Features</a><span> | </span>
+<a id="ctl00_jsbrlinks1_sizeguidelink" title="Jigsaw Clothing Size Guide" rel="nofollow" href="http://www.jigsaw-online.com/size-guide">Size Guide</a><span> | </span>
+<a id="ctl00_jsbrlinks1_deliverylink" title="Delivery &amp; Returns, Jigsaw" rel="nofollow" href="http://www.jigsaw-online.com/delivery-and-returns">Delivery &amp; Returns</a><span> | </span>
+<a id="ctl00_jsbrlinks1_careerlink" title="Jigsaw Careers &amp; Jobs" rel="nofollow" href="http://www.jigsaw-online.com/careers">Careers</a><span> | </span>
+<a id="ctl00_jsbrlinks1_privacylink" title="Privacy Policy, Jigsaw" rel="nofollow" href="http://www.jigsaw-online.com/privacy-policy">Privacy Policy</a><span> | </span>
+<a id="ctl00_jsbrlinks1_termslink" title="Terms &amp; Conditions, Jigsaw" rel="nofollow" href="http://www.jigsaw-online.com/terms-and-conditions">Terms &amp; Conditions</a><span> | </span>
+<a id="ctl00_jsbrlinks1_affiliatelink" title="" rel="nofollow" href="http://www.jigsaw-online.com/affiliates">Affiliates Offer</a>
+
+</div>
+        </div>
+                         
+        
+        
+<div id="popup_area" style="display: none">
+	<div id="popup_bg"></div>
+	<div id="popup_content" style="display: none">
+
+        <!-- Delivery and returns -->
+
+        
+<!-- JigsawPopupDelivery.ascx -->
+<div class="content" id="pop_delivery-returns" style="width: 800px; height: 550px; margin:10px; display: none; ">
+  
+</div>
+<div class="content" id="pop_security-code" style="width: 307px; display: none">
+
+</div>
+
+
+		<span class="tl">&nbsp;</span><span class="tr">&nbsp;</span><span class="bl">&nbsp;</span><span class="br">&nbsp;</span>
+		<span class="top">&nbsp;</span><span class="bottom">&nbsp;</span><span class="left">&nbsp;</span><span class="right">&nbsp;</span>
+	</div>
+</div>
+
+
+                       
+        
+    
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKQs7XtDAKJuZbDDgKL14OSAwKr4c07Apq666oHAvviwbkBh4bzUd2th0mBow50E1BhJsElmno="></form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5237993-1");
+pageTracker._trackPageview();
+</script>
+
+
+
+</body></html>
