@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gsmworld.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230231025id_/http%3A//www.gsmworld.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gsmworld.com privacy policy that was archived on 2010-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622063844id_/http%3A//www.gsmworld.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
     <!-- PageID 573 - published by RedDot 7.5 - 7.5.1.103 - 26604 -->
@@ -21,8 +21,479 @@
 </script>
     <script type="text/javascript" src="/includes/jquery.gsma.js">
 </script>
-    <script src="http://www.gsmworld.com/Scripts/AC_RunActiveContent.js" type="text/javascript">
+    <script type="text/javascript">
+//<![CDATA[
+    var errorSet = null;
+    FieldObj = function() {
+    var Field;
+    this.get_Field = function() { return Field; }
+    this.set_Field = function(val) { Field = val; }
+    var ErrorMessage;
+    this.get_ErrorMessage = function() { return ErrorMessage; }
+    this.set_ErrorMessage = function(val) { ErrorMessage = val; }
+    }
+
+    function ResetHighlight() {
+    var field;
+    if (errorSet != null) {
+      for (var i = 0; i < errorSet.length; i++) {
+         errorSet[i].Field.className = 'elqField'
+      }
+    }
+    errorSet = new Array();
+    }
+
+    function DisplayErrorSet(ErrorSet) {
+    var element;
+    var ErrorMessage = '';
+    for (var i = 0; i < ErrorSet.length; i++) {
+      ErrorMessage = ErrorMessage + ErrorSet[i].ErrorMessage + '\n';
+      ErrorSet[i].Field.className = 'elqFieldValidation';
+    }
+    if (ErrorMessage != '')
+      alert(ErrorMessage);
+    }
+
+    function ValidateRequiredField(Element, args) {
+    var elementVal=Element.value;
+    var testPass=true;
+    if (Element) {
+      if (args.Type == 'text') {
+         if (Element.value == null || Element.value == "") {
+            return false;
+         }
+      }
+      else if (args.Type == 'singlesel') {
+         if (Element.value == null || Element.value == "") {
+            return false;
+         }
+    }
+      else if (args.Type == 'multisel') {
+         var selCount=0;
+         for (var i=0; i<Element.length; i++) {
+              if (Element[i].selected && Element[i].value !='') {
+                 selCount += 1;
+              }
+         }
+      if (selCount == 0)
+         return false;
+    }
+    }
+    else
+      testPass = false;
+    return testPass;
+    }
+
+    function ValidateEmailAddress(Element) {
+    var varRegExp='^[A-Z0-9!#\\$%&\'\\*\\+\\-/=\\?\\^_`\\{\\|\\}~][A-Z0-9!#\\$%&\'\\*\\+\\-/=\\?\\^_`\\{\\|\\}~\\.]{0,62}@([A-Z0-9](?:[A-Z0-9\\-]{0,61}[A-Z0-9])?(\\.[A-Z0-9](?:[A-Z0-9\\-]{0,61}[A-Z0-9])?)+)$';
+    if ((Element) && (Element.value != '')) {
+      var reg = new RegExp(varRegExp,"i");
+      var match = reg.exec(Element.value);
+         if ((match) && (match.length=3) && (match[1].length<=255) && ((match[2].length>=3) & (match[2].length<=7)))
+            return true;
+    }
+    return false;
+    }
+
+    function ValidateDataTypeLength(Element, args, ErrorMessage) {
+    var elementVal = Element.value;
+    var testPass = true;
+    if (Element) {
+      if (args.Type == 'text') {
+         if ((elementVal == '')) {
+            testPass = false;
+         }
+         if ((args.Minimum != '') && (elementVal.length < args.Minimum))
+            testPass = false;
+         if ((args.Maximum != '') && (elementVal.length > args.Maximum))
+            testPass = false;
+      }
+      else if (args.Type == 'numeric') {
+         if ((elementVal == '')) {
+            testPass = false;
+         }
+         if ((elementVal != '') && (elementVal != parseFloat(elementVal)))
+            testPass = false;
+         if (args.Minimum != '') {
+            if ((elementVal == '') || (parseFloat(elementVal) < args.Minimum))
+            testPass = false;
+         }
+         if (args.Maximum != '') {
+            if ((elementVal != '') && (parseFloat(elementVal) > args.Maximum))
+               testPass = false;
+         }
+      }
+    }
+    else
+      testPass = false;
+    return testPass;
+    }
+
+    function CheckElqForm(elqForm) {
+    var args = null;
+    var allValid = true;
+    if (elqForm == null) {
+    alert('Unable to execute form validation!\Unable to locate correct form');
+    return false;
+    }
+    ResetHighlight();
+    if (!allValid) {
+    DisplayErrorSet(errorSet);
+    return false;
+    }
+    return true;
+    }
+    function submitForm(elqForm) {
+    if (CheckElqForm(elqForm)) {
+       prepareSelectsForEloqua(elqForm);
+       fnPrepareCheckboxMatricesForEloqua(elqForm);
+       return true;
+    }
+    else { return false; }
+    }
+    function prepareSelectsForEloqua(elqForm) {
+    var selects = elqForm.getElementsByTagName("SELECT");
+    for (var i = 0; i < selects.length; i++) {
+       if (selects[i].multiple) {
+           createEloquaSelectField(elqForm, selects[i]);
+       }
+    }
+    return true;
+    }
+    function createEloquaSelectField(elqForm, sel) {
+    var inputName = sel.name;
+    var newInput = document.createElement('INPUT');
+    newInput.style.display = "none";
+    newInput.name = inputName;
+    newInput.value = "";
+    for (var i = 0; i < sel.options.length; i++) {
+       if (sel.options[i].selected) {
+           newInput.value += sel.options[i].value + "::";
+       }
+    }
+    if (newInput.value.length > 0) {
+       newInput.value = newInput.value.substr(0, newInput.value.length - 2);
+    }
+    sel.disabled = true;
+    newInput.id = inputName;
+    elqForm.insertBefore(newInput, elqForm.firstChild);
+    }
+    function fnPrepareCheckboxMatricesForEloqua(elqForm) {
+    var matrices = elqForm.getElementsByTagName('TABLE');
+    for (var i = 0; i < matrices.length; i++) {
+       var tableClassName = matrices[i].className;
+       if (tableClassName.match(/elqMatrix/)) {
+           if (fnDetermineMatrixType(matrices[i]).toLowerCase() == 'checkbox') {
+               if (matrices[i].rows[0].cells[0].childNodes.length == 1) {
+                   if (matrices[i].rows[0].cells[0].childNodes[0].nodeName != '#text') {
+                       fnCreateHorizontalMatrixCheckboxField(elqForm, matrices[i]);
+                   }
+                   else {
+                       fnCreateVerticalMatrixCheckboxField(elqForm, matrices[i]);
+                   }
+               }
+           }
+       }
+    }
+    return true;
+    }
+    function fnCreateVerticalMatrixCheckboxField(elqForm, matrix) {
+    var inputName = matrix.id + 'r' + 1;
+    var newInput = document.createElement('INPUT');
+    newInput.style.display = 'none';
+    newInput.name = inputName;
+    newInput.value = '';
+    var inputs = document.getElementsByName(inputName);
+    for (var i=0; i < inputs.length; i++) {
+       if (inputs[i].nodeName.toLowerCase() == 'input') {
+           if (inputs[i].checked == true) {
+               if (inputs[i].type.toLowerCase() == 'checkbox') {
+                   newInput.value += inputs[i].value + '::';
+                   inputs[i].disabled = true;
+               }
+           }
+       }
+    }
+    if (newInput.value.length > 0) {
+       newInput.value = newInput.value.substr(0, newInput.value.length - 2);
+    }
+    newInput.id = inputName;
+    elqForm.insertBefore(newInput, elqForm.firstChild);
+    matrix.disabled = true;
+    }
+    function fnCreateHorizontalMatrixCheckboxField(elqForm, matrix) {
+    for (var i=1; i < matrix.rows.length; i++) {
+       var inputs = document.getElementsByName(matrix.id + 'r' + i);
+       var oMatrixRow = matrix.rows[i];
+       var inputName = oMatrixRow.id;
+       var newInput = document.createElement('INPUT');
+       newInput.style.display = 'none';
+       newInput.name = inputName;
+       newInput.value = '';
+       for (var j=0; j < inputs.length; j++) {
+           if (inputs[j].nodeName.toLowerCase() == 'input') {
+               if (inputs[j].checked == true) {
+                   if (inputs[i].type.toLowerCase() == 'checkbox') {
+                       newInput.value += inputs[j].value + '::';
+                       inputs[j].disabled = true;
+                   }
+               }
+           }
+       }
+       if (newInput.value.length > 0) {
+           newInput.value = newInput.value.substr(0, newInput.value.length - 2);
+       }
+       newInput.id = inputName;
+       elqForm.insertBefore(newInput, elqForm.firstChild);
+    }
+    matrix.disabled = true;
+    }
+    function fnDetermineMatrixType(oTable) {
+    var oFirstMatrixInput = oTable.rows[1].cells[1].childNodes[0];
+    return oFirstMatrixInput.type;
+    }
+    //]]>
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+    var errorSet = null;
+    FieldObj = function() {
+    var Field;
+    this.get_Field = function() { return Field; }
+    this.set_Field = function(val) { Field = val; }
+    var ErrorMessage;
+    this.get_ErrorMessage = function() { return ErrorMessage; }
+    this.set_ErrorMessage = function(val) { ErrorMessage = val; }
+    }
+
+    function ResetHighlight() {
+    var field;
+    if (errorSet != null) {
+      for (var i = 0; i < errorSet.length; i++) {
+         errorSet[i].Field.className = 'elqField'
+      }
+    }
+    errorSet = new Array();
+    }
+
+    function DisplayErrorSet(ErrorSet) {
+    var element;
+    var ErrorMessage = '';
+    for (var i = 0; i < ErrorSet.length; i++) {
+      ErrorMessage = ErrorMessage + ErrorSet[i].ErrorMessage + '\n';
+      ErrorSet[i].Field.className = 'elqFieldValidation';
+    }
+    if (ErrorMessage != '')
+      alert(ErrorMessage);
+    }
+
+    function ValidateRequiredField(Element, args) {
+    var elementVal=Element.value;
+    var testPass=true;
+    if (Element) {
+      if (args.Type == 'text') {
+         if (Element.value == null || Element.value == "") {
+            return false;
+         }
+      }
+      else if (args.Type == 'singlesel') {
+         if (Element.value == null || Element.value == "") {
+            return false;
+         }
+    }
+      else if (args.Type == 'multisel') {
+         var selCount=0;
+         for (var i=0; i<Element.length; i++) {
+              if (Element[i].selected && Element[i].value !='') {
+                 selCount += 1;
+              }
+         }
+      if (selCount == 0)
+         return false;
+    }
+    }
+    else
+      testPass = false;
+    return testPass;
+    }
+
+    function ValidateEmailAddress(Element) {
+    var varRegExp='^[A-Z0-9!#\\$%&\'\\*\\+\\-/=\\?\\^_`\\{\\|\\}~][A-Z0-9!#\\$%&\'\\*\\+\\-/=\\?\\^_`\\{\\|\\}~\\.]{0,62}@([A-Z0-9](?:[A-Z0-9\\-]{0,61}[A-Z0-9])?(\\.[A-Z0-9](?:[A-Z0-9\\-]{0,61}[A-Z0-9])?)+)$';
+    if ((Element) && (Element.value != '')) {
+      var reg = new RegExp(varRegExp,"i");
+      var match = reg.exec(Element.value);
+         if ((match) && (match.length=3) && (match[1].length<=255) && ((match[2].length>=3) & (match[2].length<=7)))
+            return true;
+    }
+    return false;
+    }
+
+    function ValidateDataTypeLength(Element, args, ErrorMessage) {
+    var elementVal = Element.value;
+    var testPass = true;
+    if (Element) {
+      if (args.Type == 'text') {
+         if ((elementVal == '')) {
+            testPass = false;
+         }
+         if ((args.Minimum != '') && (elementVal.length < args.Minimum))
+            testPass = false;
+         if ((args.Maximum != '') && (elementVal.length > args.Maximum))
+            testPass = false;
+      }
+      else if (args.Type == 'numeric') {
+         if ((elementVal == '')) {
+            testPass = false;
+         }
+         if ((elementVal != '') && (elementVal != parseFloat(elementVal)))
+            testPass = false;
+         if (args.Minimum != '') {
+            if ((elementVal == '') || (parseFloat(elementVal) < args.Minimum))
+            testPass = false;
+         }
+         if (args.Maximum != '') {
+            if ((elementVal != '') && (parseFloat(elementVal) > args.Maximum))
+               testPass = false;
+         }
+      }
+    }
+    else
+      testPass = false;
+    return testPass;
+    }
+
+    function CheckElqForm(elqForm) {
+    var args = null;
+    var allValid = true;
+    if (elqForm == null) {
+    alert('Unable to execute form validation!\Unable to locate correct form');
+    return false;
+    }
+    ResetHighlight();
+    if (!allValid) {
+    DisplayErrorSet(errorSet);
+    return false;
+    }
+    return true;
+    }
+    function submitForm(elqForm) {
+    if (CheckElqForm(elqForm)) {
+       prepareSelectsForEloqua(elqForm);
+       fnPrepareCheckboxMatricesForEloqua(elqForm);
+       return true;
+    }
+    else { return false; }
+    }
+    function prepareSelectsForEloqua(elqForm) {
+    var selects = elqForm.getElementsByTagName("SELECT");
+    for (var i = 0; i < selects.length; i++) {
+       if (selects[i].multiple) {
+           createEloquaSelectField(elqForm, selects[i]);
+       }
+    }
+    return true;
+    }
+    function createEloquaSelectField(elqForm, sel) {
+    var inputName = sel.name;
+    var newInput = document.createElement('INPUT');
+    newInput.style.display = "none";
+    newInput.name = inputName;
+    newInput.value = "";
+    for (var i = 0; i < sel.options.length; i++) {
+       if (sel.options[i].selected) {
+           newInput.value += sel.options[i].value + "::";
+       }
+    }
+    if (newInput.value.length > 0) {
+       newInput.value = newInput.value.substr(0, newInput.value.length - 2);
+    }
+    sel.disabled = true;
+    newInput.id = inputName;
+    elqForm.insertBefore(newInput, elqForm.firstChild);
+    }
+    function fnPrepareCheckboxMatricesForEloqua(elqForm) {
+    var matrices = elqForm.getElementsByTagName('TABLE');
+    for (var i = 0; i < matrices.length; i++) {
+       var tableClassName = matrices[i].className;
+       if (tableClassName.match(/elqMatrix/)) {
+           if (fnDetermineMatrixType(matrices[i]).toLowerCase() == 'checkbox') {
+               if (matrices[i].rows[0].cells[0].childNodes.length == 1) {
+                   if (matrices[i].rows[0].cells[0].childNodes[0].nodeName != '#text') {
+                       fnCreateHorizontalMatrixCheckboxField(elqForm, matrices[i]);
+                   }
+                   else {
+                       fnCreateVerticalMatrixCheckboxField(elqForm, matrices[i]);
+                   }
+               }
+           }
+       }
+    }
+    return true;
+    }
+    function fnCreateVerticalMatrixCheckboxField(elqForm, matrix) {
+    var inputName = matrix.id + 'r' + 1;
+    var newInput = document.createElement('INPUT');
+    newInput.style.display = 'none';
+    newInput.name = inputName;
+    newInput.value = '';
+    var inputs = document.getElementsByName(inputName);
+    for (var i=0; i < inputs.length; i++) {
+       if (inputs[i].nodeName.toLowerCase() == 'input') {
+           if (inputs[i].checked == true) {
+               if (inputs[i].type.toLowerCase() == 'checkbox') {
+                   newInput.value += inputs[i].value + '::';
+                   inputs[i].disabled = true;
+               }
+           }
+       }
+    }
+    if (newInput.value.length > 0) {
+       newInput.value = newInput.value.substr(0, newInput.value.length - 2);
+    }
+    newInput.id = inputName;
+    elqForm.insertBefore(newInput, elqForm.firstChild);
+    matrix.disabled = true;
+    }
+    function fnCreateHorizontalMatrixCheckboxField(elqForm, matrix) {
+    for (var i=1; i < matrix.rows.length; i++) {
+       var inputs = document.getElementsByName(matrix.id + 'r' + i);
+       var oMatrixRow = matrix.rows[i];
+       var inputName = oMatrixRow.id;
+       var newInput = document.createElement('INPUT');
+       newInput.style.display = 'none';
+       newInput.name = inputName;
+       newInput.value = '';
+       for (var j=0; j < inputs.length; j++) {
+           if (inputs[j].nodeName.toLowerCase() == 'input') {
+               if (inputs[j].checked == true) {
+                   if (inputs[i].type.toLowerCase() == 'checkbox') {
+                       newInput.value += inputs[j].value + '::';
+                       inputs[j].disabled = true;
+                   }
+               }
+           }
+       }
+       if (newInput.value.length > 0) {
+           newInput.value = newInput.value.substr(0, newInput.value.length - 2);
+       }
+       newInput.id = inputName;
+       elqForm.insertBefore(newInput, elqForm.firstChild);
+    }
+    matrix.disabled = true;
+    }
+    function fnDetermineMatrixType(oTable) {
+    var oFirstMatrixInput = oTable.rows[1].cells[1].childNodes[0];
+    return oFirstMatrixInput.type;
+    }
+    //]]>
+    </script>
+    <script type="text/javascript" src="/includes/swfobject.js">
 </script>
+    <script type="text/javascript">
+//<![CDATA[
+    swfobject.embedSWF("http://www.gsmworld.com/flash/mobile_network_diagram.swf", "myContent", "490", "268", "9.0.0");
+    //]]>
+    </script>
   </head>
   <body id="news">
     <script type="text/javascript">
@@ -69,6 +540,9 @@
           </li>
           <li>
             <a href="/membership/index.htm" id="nav-6" name="nav-6">Membership</a>
+          </li>
+          <li>
+            <a href="/search/search.aspx" id="nav-" name="nav-">Search Results</a>
           </li>
         </ul>
         <div id="site-search">
@@ -185,7 +659,7 @@
           </p>
           <p>
             <strong>Contact us<br></strong> If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, or if you do not wish us to continue using your information as outlined above, you can do so by sending an email to us at <a href="mailto:database@gsm.org">database@gsm.org</a> or write to CRM Manager, GSMC Limited, 1000 Abernathy Road, Suite 450 Atlanta, Georgia 30328 USA.
-          </p>
+          </p><!--<p>Download the slide pack <a href="">here</a></p> <p align="right"><A href="[ioID]51B2D8234ADC44E89D6BC64C0AD9AC51">Return to Training</A></p>-->
         </div>
       </div><!-- FindinSiteoff:index-->
       <div id="sub-footer">
@@ -317,22 +791,23 @@
           <li>
             <a href="/includes/structure/2786.htm" target="_new">Twitter</a>
           </li>
-        </ul><!-- <p>Copyright &copy; 2009 GSM Association. GSM and the GSM Logo are registered and owned by the GSM Association.</p>
+        </ul><!-- <p>Copyright &copy; 2010 GSM Association. GSM and the GSM Logo are registered and owned by the GSM Association.</p>
    -->
         <p>
-          Copyright © 2009 GSM Association. GSM and the GSM Logo are registered and owned by the GSM Association.
+          Copyright © 2010 GSM Association. GSM and the GSM Logo are registered and owned by the GSM Association.
         </p>
-      </div><script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js">
+      </div><!-- Begin Eloqua code --><script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js">
 </script> <script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js">
-</script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=667&amp;ref2=elqNone&amp;tzo=0&amp;ms=206" border="0" width="1" height="1"></layer> <!-- Begin new code --> <script type="text/javascript">
+</script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=667&amp;ref2=elqNone&amp;tzo=0&amp;ms=363" border="0" width="1" height="1"></layer> <!-- End Eloqua code -->
+       <!-- Begin Clicky code --> <script src="/clicky/clicky.js" type="text/javascript">
+</script> <script type="text/javascript">
 //<![CDATA[
-      var domainy = location.protocol == "https:" ? "https://static.getclicky.com" : "http://static.getclicky.com";
-      document.write(unescape("%3Cscript src='" + domainy + "/109492.js' type='text/javascript'%3E%3C/script%3E"));
+      clicky.init(109492);
       //]]>
-      </script><script src="https://static.getclicky.com/109492.js" type="text/javascript"></script> <noscript>
+      </script> <noscript>
       <p>
-        <img alt="Clicky" width="1" height="1" src="http://static.getclicky.com/109492-db15.gif" />
-      </p></noscript> <!-- End new code --> <!--findinsiteon: all-->
+        <img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/109492ns.gif" />
+      </p></noscript> <!-- End Clicky code --> <!--findinsiteon: all-->
     </div>
   
 
