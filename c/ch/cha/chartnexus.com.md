@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartnexus.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222203647id_/http%3A//www.chartnexus.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartnexus.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623011215id_/http%3A//www.chartnexus.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Page :: ChartNexus® - Chart Your Success
 
@@ -29,7 +29,7 @@ We intend to safeguard the Personal Information from unauthorized access or disc
 
 #### ACCURACY & UPDATES
 
-We are committed to provide your with excellent products and services. The Personal Information collected will enable us to understand you better thereby meeting your needs. It is important that we maintain accurate and up-to-date Personal Information of you. Should you need to update or correct that Personal Information, please [inform us](https://web.archive.org/support/contactus.php#cform) or you may update the information through the [forms provided](https://web.archive.org/web/20091222203647id_/http%3A//www.chartnexus.com/legal/sitemap.php). 
+We are committed to provide your with excellent products and services. The Personal Information collected will enable us to understand you better thereby meeting your needs. It is important that we maintain accurate and up-to-date Personal Information of you. Should you need to update or correct that Personal Information, please [inform us](https://web.archive.org/support/contactus.php#cform) or you may update the information through the [forms provided](https://web.archive.org/web/20100623011215id_/http%3A//www.chartnexus.com/legal/sitemap.php). 
 
   
 
@@ -50,7 +50,7 @@ Revision : 1.2
 
 Past Revisions :
 
-  * [v1.0](https://web.archive.org/web/20091222203647id_/http%3A//www.chartnexus.com/legal/privacy_1.0.php) \- Last revised 1st November 2004
-  * [v1.1](https://web.archive.org/web/20091222203647id_/http%3A//www.chartnexus.com/legal/privacy_1.1.php) \- Last revised 3rd September 2005
+  * [v1.0](https://web.archive.org/web/20100623011215id_/http%3A//www.chartnexus.com/legal/privacy_1.0.php) \- Last revised 1st November 2004
+  * [v1.1](https://web.archive.org/web/20100623011215id_/http%3A//www.chartnexus.com/legal/privacy_1.1.php) \- Last revised 3rd September 2005
 
 
