@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the creativegroup.com privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220104314id_/http%3A//www.creativegroup.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the creativegroup.com privacy policy that was archived on 2010-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622041304id_/http%3A//www.creativegroup.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
  <title>
@@ -24,6 +24,8 @@ The Creative Group - Privacy Policy</title>
 
 <!--This tag is site specific and the values needs to be taken from the existing site's grid-->
 <meta name="google-site-verification" content="wzkM6GQyr6V8TYV9HIT8U_msOaxqQU0dQktAX56KYq4">
+<meta name="y_key" content="1d7c57f7065ecb81">
+<meta name="msvalidate.01" content="9EAC0D2245DACB23A670F7267A07C398">
 <!--end of site specific tag-->
 
 
@@ -37,7 +39,7 @@ The Creative Group - Privacy Policy</title>
    function submitJobsearch(){
 	//url should be in the form : http://extete-at/JobListings?locations=447,10&zipcode=&keywords=test&jobtypes=260,25
 	var url = '/JobListings?locations=&';
-	var zipcode = document.getElementById('zip').value;
+	var zipcode = document.getElementById('zip_code').value;
 	if(zipcode != "" && (zipcode != "zip/postal code")){
 		//Javascript Escape() method does NOT escape the "+" symbol, hence replacing it after escape
 		zipcode = escape(zipcode).replace(new RegExp( "\\+", "g" ),"%2B");
@@ -93,19 +95,11 @@ Privacy Policy</div>
 
 
 
-		<ul>
- 
-				<li id="menuitem_SignIn|Register" class="primaryChannel first"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=e791c9c71447a110VgnVCM1000003580fd0aRCRD">Sign In | Register</a></li>
-				 
-				<li id="menuitem_SearchJobs" class="primaryChannel"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=6081c9c71447a110VgnVCM1000003580fd0aRCRD">Search Jobs</a></li>
-				 
-				<li id="menuitem_PayrollCenter" class="primaryChannel"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=d0c2c9c71447a110VgnVCM1000003580fd0aRCRD">Payroll Center</a></li>
-				 
-				<li id="menuitem_SiteMap" class="primaryChannel"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=26e1c9c71447a110VgnVCM1000003580fd0aRCRD">Site Map</a></li>
-				 
-				<li id="menuitem_ContactUs" class="primaryChannel"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=8b1e30274837a110VgnVCM1000003580fd0aRCRD">Contact Us</a></li>
-				</ul>
-	
+
+<ul>
+	<li id="menuitem_SignIn|Register" class="primaryChannel first"><a href="/SignIn">Sign In | Register</a></li><li id="menuitem_SearchJobs" class="primaryChannel "><a href="/searchJobs">Search Jobs</a></li><li id="menuitem_PayrollCenter" class="primaryChannel "><a href="/PayrollCenter">Payroll Center</a></li><li id="menuitem_SiteMap" class="primaryChannel "><a href="/SiteMap">Site Map</a></li><li id="menuitem_ContactUs" class="primaryChannel "><a href="/ContactUs">Contact Us</a></li>
+</ul>
+
 
 
         </div>
@@ -113,7 +107,7 @@ Privacy Policy</div>
 			<div id="quicksearch">
 				<form id="form_quicksearch" name="form_quicksearch" action="javascript:submitJobsearch();"><label id="label_search-jobs" for="keywords">Search Jobs:</label>									
 					<input type="Text" id="txtkeywords" class="txtbox" value="keywords" onfocus="javascript:clearTextbox(this.id);" onblur="javascript:resetTextbox(this.id,'keywords');">									
-					<input type="Text" id="zip" class="txtbox" value="zip/postal code" onfocus="javascript:clearTextbox(this.id);" onblur="javascript:resetTextbox(this.id,'zip/postal code');">									
+					<input type="Text" id="zip_code" class="txtbox" value="zip/postal code" onfocus="javascript:clearTextbox(this.id);" onblur="javascript:resetTextbox(this.id,'zip/postal code');">									
 					<input type="Submit" id="btn_search_submit" class="button" value="search">
 				</form>
 			</div>
@@ -128,22 +122,11 @@ Privacy Policy</div>
 
 
 
+	
+		<ul>
+			<li id="menuitem_Candidates" class="secondaryChannel first"><a href="/Candidates">Candidates</a></li><li id="menuitem_Clients" class="secondaryChannel "><a href="/Clients">Clients</a></li><li id="menuitem_SmallBusinessCenter" class="secondaryChannel "><a href="/SmallBusinessCenter">Small Business Center</a></li><li id="menuitem_Portfolios" class="secondaryChannel "><a href="/portfolio">Portfolios</a></li><li id="menuitem_IndustryResources" class="secondaryChannel "><a href="/IndustryResources">Industry Resources</a></li><li id="menuitem_AboutUs" class="secondaryChannel "><a href="/AboutUs">About Us</a></li>
+		</ul>
 
-
-
-
-				<ul>
- 
-				<li id="menuitem_Candidates" class="secondaryChannel first"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=763e30274837a110VgnVCM1000003580fd0aRCRD">Candidates</a></li>
-				 
-				<li id="menuitem_Clients" class="secondaryChannel"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=ed3e30274837a110VgnVCM1000003580fd0aRCRD">Clients</a></li>
-				 
-				<li id="menuitem_Portfolios" class="secondaryChannel"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=bd4e30274837a110VgnVCM1000003580fd0aRCRD">Portfolios</a></li>
-				 
-				<li id="menuitem_IndustryResources" class="secondaryChannel"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=a54e30274837a110VgnVCM1000003580fd0aRCRD">Industry Resources</a></li>
-				 
-				<li id="menuitem_AboutUs" class="secondaryChannel"><a href="/vgn-ext-templating/v/index.jsp?vgnextoid=5f2e30274837a110VgnVCM1000003580fd0aRCRD">About Us</a></li>
-				</ul>
 
 
 </div>
@@ -157,6 +140,8 @@ Privacy Policy</div>
 
 
 
+
+
 </div>
   
 
@@ -173,21 +158,10 @@ Privacy Policy</div>
 
 
 
-
-
-<div id="breadcrumb">
-  
-
-<ul>
- 
-			<li class="first"><a href="/Home">Home</a></li>
-		
-			 <li class="link_currentpage">Privacy Policy</li>
-		 
-</ul>
-
-
-</div>
+	
+		<div id="breadcrumb">
+			<ul><li class="first"><a href="/Home">Home</a></li><li class="link_currentpage">Privacy Policy</li></ul>
+		</div>
 
 
 
@@ -351,8 +325,19 @@ Privacy Policy</div>
       <li><a href="http://www.rhi.com/GovernmentNotice" target="_blank">Government&nbsp;Notice</a></li>
       <li><a href="/PrivacyPolicy">privacy&nbsp;policy</a></li>
     </ul>
-<div id="footer_phone">1.888.846.1668</div>
-    <p>Copyright © 2009 The Creative Group, An Equal Opportunity Employer. A <a href="http://www.rhi.com" target="_blank">Robert Half International</a> Company. All rights reserved.</p>
+  <div id="footer_phone">1.888.846.1668</div>
+  <div id="footer_badges">
+    <ul>
+        <li class="first">Connect With Us:</li>
+		<li class="first"><a href="http://www.facebook.com/thecreativegroup" target="_blank"><img src="/External_Sites/content/CG/Shared/images/Facebook-16x16.jpg" style="height:16px;width:16px;">&nbsp;Facebook</a></li>
+    <li class="first"><a href="http://www.twitter.com/CreativeGroup" target="_blank"><img src="/External_Sites/content/Shared/images/twitter_16x16.gif" style="height:16px;width:16px;">&nbsp;Twitter</a></li>
+		<li class="first"><a href="http://www.linkedin.com/groups?gid=55743&amp;trk=hb_side_g" target="_blank"><img src="/External_Sites/content/CG/Shared/images/LinkedIn-16x16.jpg" style="height:16px;width:16px;">&nbsp;LinkedIn</a></li>
+		<li class="first"><a href="http://creativegroup.mediaroom.com/index.php?s=95" target="_blank"><img src="/External_Sites/content/CG/Shared/images/RSS-16x16.jpg" style="height:16px;width:16px;">&nbsp;RSS Feeds</a></li>
+	 </ul>
+   </div>
+ <div>
+
+    <p>Copyright © 2010 The Creative Group, An Equal Opportunity Employer. A <a href="http://www.rhi.com" target="_blank">Robert Half International</a> Company. All rights reserved.</p>
 
   </div> <!-- end footer_wrapper -->
 </div> <!-- end footer -->
@@ -380,4 +365,4 @@ Privacy Policy</div>
 
 
 
-</body></html>
+</div></body></html>
