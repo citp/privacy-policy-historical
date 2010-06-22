@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feverishthoughts.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220022305id_/http%3A//www.feverishthoughts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feverishthoughts.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623015617id_/http%3A//www.feverishthoughts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tricia's Musings
 
@@ -6,7 +6,7 @@
 
 Thank you for visiting _Tricia’s Musings_. At Tricia’s Musings, the privacy of our visitors is of extreme importance to us. This privacy policy tells you how we use personal information collected at _Tricia’s Musings_.
 
-Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to [review](http://www.feverishthoughts.com/recommends/paidreviews) the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](http://www.feverishthoughts.com/contact/).
 
@@ -24,7 +24,7 @@ Like many other Web sites, www.feverishthoughts.com makes use of log files. The 
 
 www.feverishthoughts.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Commission Junction, Widget Bucks, Adbrite, Clickbank, Azoogle, [Chitika](http://www.feverishthoughts.com/recommends/chitika), Linkshare, Amazon, [Kontera](http://www.feverishthoughts.com/recommends/contentlinks) and others.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Commission Junction, Widget Bucks, Adbrite, Clickbank, Azoogle, Chitika, Linkshare, Amazon, Kontera and others.
 
 Google Adsense has just started serving Third Party ads as well as ads from it’s own network. Google Adsense has provided a list of their [third party ad venders](https://www.google.com/adsense/support/bin/answer.py?answer=94149) and I expect it will be updated as new third party vendors sign on. Some or all of the third party ad vendors may install cookies in your browser and may provide means to opt out of having their respective cookies installed. To find out which of them provide such means, please visit the Google Adsense list of Third party ad vendors listed above.
 
@@ -42,7 +42,7 @@ Here are links to some of the most popular web browsers cookie information pages
 
   * [FireFox Cookie information](http://support.mozilla.com/kb/Cookies)
   * [Internet Explorer and Windows platform related Cookie information](http://windowshelp.microsoft.com/Windows/en-US/Help/ff035adb-411d-40f3-8f9f-23e158f7b8be1033.mspx)
-  * [Opera web browser Cookie information](http://www.opera.com/support/tutorials/security/privacy/index.dml)
+  * [Opera web browser Cookie information](http://www.opera.com/browser/tutorials/security/)
 
 
 
