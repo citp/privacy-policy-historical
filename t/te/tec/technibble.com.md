@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technibble.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212511id_/http%3A//www.technibble.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technibble.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623005712id_/http%3A//www.technibble.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy Statement - Technibble - A Resource for Computer Repair Technicians & to get PC tech support help.
+# Privacy Policy Statement | Technibble
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).  
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who make postings to our chat areas, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.  
