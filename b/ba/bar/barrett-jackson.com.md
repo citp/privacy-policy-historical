@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220132754id_/http%3A//www.barrett-jackson.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623014456id_/http%3A//www.barrett-jackson.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # Barrett-Jackson Auction Company - Privacy Policy
 
