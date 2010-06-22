@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kenyabuzz.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127201451id_/http%3A//www.kenyabuzz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenyabuzz.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622062754id_/http%3A//kenyabuzz.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D15) for the most accurate reproduction.*
 
-# Privacy - KenyaBuzz.com
+# What’s On, Events, Lifestyle, Business in Nairobi and Kenya – KenyaBuzz
 
 This privacy policy sets out how "KenyaBuzz" uses and protects any information that you give "KenyaBuzz" when you use this website.
 
