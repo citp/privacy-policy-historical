@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6ave.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225617id_/http%3A//www.6ave.com/shop/usertpl.aspx%3Ffle%3Dprivacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6ave.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622040502id_/http%3A//www.6ave.com/shop/usertpl.aspx%3Ffle%3Dprivacy_statement.htm) for the most accurate reproduction.*
 
 # 6ave.com
 
@@ -7,13 +7,13 @@
 
 As a convenience to our online purchasers, we offer the option of storing your personal information (but not credit card information) in a customer account. This makes shopping easier for our repeat customers, as they will not have to reenter their information every time they make a purchase. Users who choose this option will enter their email address and select a password, which will be the only way this information can be accessed. They will be able to change this information at any time. Customers who want to delete access to their online profiles can do so by calling 
 
-[Customer Service](https://web.archive.org/web/20091230225617id_/http%3A//www.6ave.com/shop/usertpl.aspx?fle=customer_service.htm) at 1-877-684-2831.
+[Customer Service](https://web.archive.org/web/20100622040502id_/http%3A//www.6ave.com/shop/usertpl.aspx?fle=customer_service.htm) at 1-877-684-2831.
 
 **Mailing List**  
 We also allow our users to sign up to receive Savings & News by registering with their email addresses, or by checking the appropriate box when purchasing. Users can remove their information from our mailing list at any time by sending an email with those instructions to [unsubscribe@6ave.com](mailto:unsubscribe@6ave.com). In addition, every email from us will come with instructions explaining how to unsubscribe. 
 
 **Sharing Information**  
-6ave.com respects your right to privacy. Protecting this right is something we take very seriously.  As a result, we do not share your information with any third party.
+6ave.com respects your right to privacy. Protecting this right is something we take very seriously.  As a result, we do not share your information with any non-sanctioned third party. When necessary, we use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.fetchback.com/optout.html)
 
 **Security**  
 6ave.com is dedicated to providing our online customers with a safe and secure shopping experience. We use the latest encryption technology to protect your personal information. In addition, we use secure socket layer (SSL) technology with digital certificates by VeriSign, Inc. and Hacker Safe.  All of your personal information is stored on our password protected secure servers.
