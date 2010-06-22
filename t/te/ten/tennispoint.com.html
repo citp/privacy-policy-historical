@@ -1,239 +1,80 @@
-<!--The following is the downloaded HTML source of the tennispoint.com privacy policy that was archived on 2009-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620061135id_/http%3A//www.tennispoint.com%3Fevent%3DprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tennispoint.com privacy policy that was archived on 2010-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623003619id_/http%3A//www.tennispoint.com%3Fevent%3DprivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<title>Tennis Team Management online with TennisPoint - USTA, ALTA, KSwiss &amp; T2Tennis &amp; LeagueTennis (Flex Leagues)</title>
-<meta name="keywords" content="Tennis, Tennis Teams, Tennis Matches, ALTA, USTA, KSwiss, T2Tennis, LeagueTennis, Flex Leagues">
-<meta name="description" content="Set your availability for your Tennis Matches leagues that I am playing in a single website -- TennisPoint">
-<style type="text/css" media="all">@import "/pageStyle.css";</style>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="/scripts/jquery/greybox.js"></script>
-<style type="text/css" media="all">@import "/css/greybox.css";</style>
+<title>Tennis Team Management :: Tennis League Management :: Tennis Tournament Management :: Tennis Team Management for USTA, ALTA, T2Tennis, KSwiss and other Flex Leagues at TennisPoint.com!</title>
+<meta name="keywords" content="Tennis Team Management, Tennis League Management, Tennis League, Tennis Tournament Management, Tennis Tournament, Tennis Software, Tennis, Tennis Teams, Tennis Matches, ALTA, USTA, KSwiss, T2Tennis, LeagueTennis, Flex Leagues">
+<meta name="description" content="TennisPoint.com is the single best resource for managing your Tennis Leagues, Tennis Tournaments and Tennis Team online -- Tennis Teams supported are USTA, ALTA Tennis and Flex Leagues (T2Tennis, KSwiss, UltimateTennis, etc)">
+<link rel="stylesheet" type="text/css" href="http://cdn.tennispoint.com/jscss/pageStyle.css">
+<script type="text/javascript" src="http://cdn.tennispoint.com/jscss/jquery/jquery-1.3.2.min.js"></script>
+<script src="http://cdn.tennispoint.com/jscss/jquery/jquery-ui-1.7.3.custom.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://cdn.tennispoint.com/jscss/jquery/greybox.js"></script>
+<link rel="stylesheet" type="text/css" href="http://cdn.tennispoint.com/jscss/greybox.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.tennispoint.com/jscss/homepage.css">
 <script type="text/javascript">
 var GB_ANIMATION = true;
 var loginForm = "";
-</script>
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-<script type="text/javascript">
-function facebook_onlogin() {
-location.href='http://www.tennispoint.com/?FBbc=HP';
-}
-function facebook_onlogout() {
-location.href='http://www.tennispoint.com/?logout=true';
-}
+var products = 'team_captain,league_manager,tournament_director';
+var captainIDs = 'captainOverview,captainTeamTypes,captainSetup,captainALTA,captainUse';
+var leagueIDs = 'leagueOverview,leagueCreate,leagueSchedule,leagueManage,leagueCommunicate,leaguePrice';
+var tournamentIDs = 'tournamentOverview,tournamentCreate,tournamentManage,tournamentCommunicate,tournamentPrice';
+var animating = false;
 </script>
 <style type="text/css">
 body {
-background-color: #FFFFFF;
-background-image: url(/images/background.jpg);
-background-repeat: repeat-x;
+margin: 0;
+padding: 0;
+background-color: #000;
 }
-.signUpBillboard h1 {
-font-family: Arial, Verdana, Helvetica, sans-serif;
-font-size: 21px;
-font-weight: bold;
-color: #FFFFFF;
-text-align: left;
-margin-top: -4px;
-letter-spacing: -1pt;
-}
-.signUpBillboard ul {
-font-family: Verdana, Arial, Helvetica, sans-serif;
-font-size: 14px;
-color: #FFFFFF;
-text-align: left;
-line-height: 125%;
-margin-top: -10px;
-list-style-position: inside;
-padding: 0px;
-}
-.signUpBillboard {
-background-image: url(/images/homeBillboard_980.jpg);
-height: 214px;
-padding-left: 18px;
-padding-top: 16px;
-/* border: 1pt solid #333333; */
-}
-.roundcont {
-width: 320px;
-background-color: #CEE7C4;
-color: #000000;
-}
-.roundtop {
-background: url(/images/roundedCornerTopRight.gif) no-repeat top right;
-}
-.roundbottom {
-background: url(/images/roundedCornerBottomRight.gif) no-repeat top right;
-}
-img.corner {
-width: 10px;
-height: 8px;
-border: none;
-display: block !important;
-}
-.post {
-clear:both;
-padding-top: 7px;
-}
-.post-date {
-width: 45px;
-height: 49px;
-float:left;
-background: url(/images/glossyBlue-1-4/images/date-bg.gif) no-repeat;
-}
-.post-month {
-font-size: 11px;
-text-transform: uppercase;
-color: #FFFFFF;
-text-align: center;
-display:block;
-line-height: 11px;
-padding-top: 2px;
-margin-left: -3px;
-}
-.post-day {
-font-size: 18px;
-text-transform: uppercase;
-color: #999999;
-text-align: center;
-display:block;
-line-height: 18px;
-padding-top: 7px;
-margin-left: -3px;
-}
-.post-title {
-float: left;
-margin-left: 10px;
-width:380px;
-}
-.entry {
-clear: both;
-margin-top: -5px;
-}
-.post-calendar {
-background: url(/images/glossyBlue-1-4/images/mini-calendar.gif) no-repeat;
-padding-left: 20px;
-float: right;
-font-size: 95%;
-color: #999999;
-}
-.title {
-color: #59770e;
-margin: 0px 0px 2px;
-border-bottom: 1px dotted #CCCCCC;
-letter-spacing: -1px;
-font: normal 150%/100% "Trebuchet MS", Tahoma, Arial;
-}
-.title a, .title a:visited {
-color: #59770e;
-text-decoration: none;
-}
-.title a:hover {
-color: #FF6600;
-text-decoration: none;
-}
-A.whiteLink:link {
-font-weight: normal;
-TEXT-DECORATION: underline;
-color: #ffffff;
-font-size:12px;
-font-family: Arial, Verdana, Helvetica, sans-serif;}
-A.whiteLink:visited {
-font-weight: normal;
-TEXT-DECORATION: underline;
-color: #ffffff;
-font-size:12px;
-font-family: Arial, Verdana, Helvetica, sans-serif;}
-A.whiteLink:hover {
-font-weight: normal;
-TEXT-DECORATION: underline;
-color: #ffffff;
-font-size:12px;
-font-family: Arial, Verdana, Helvetica, sans-serif;}
-A.footerText:link {
-font-weight: normal;
-TEXT-DECORATION: none;
-color: #333333;
-font-size:10px;
-font-family: Arial, Verdana, Helvetica, sans-serif;}
-A.footerText:visited {
-font-weight: normal;
-TEXT-DECORATION: none;
-color: #333333;
-font-size:10px;
-font-family: Arial, Verdana, Helvetica, sans-serif;}
-A.footerText:hover {
-font-weight: normal;
-TEXT-DECORATION: none;
-color: #333333;
-font-size:10px;
-font-family: Arial, Verdana, Helvetica, sans-serif;}
 </style>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
 <body>
-<table width="900" cellspacing="0" cellpadding="0" border="0" align="center">
+<div id="header" class="bandBkg" align="center">
+<div class="contain">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
 <form action="/?event=loginUser" id="createTeamForm" name="createTeamForm" method="POST"></form>
 <tbody><tr>
-<td valign="middle">
-<a href="http://www.tennispoint.com"><img src="/images/tennisPointLogo.gif" border="0" alt="TennisPoint for online Tennis Team Management and scorekeeping"></a>
+<td valign="top" rowspan="2">
+<a href="http://www.tennispoint.com"><img src="/images/TennisPointTransparent.png" border="0" alt="TennisPoint for online Tennis Captains &amp; Tennis Teams, Tennis Leagues &amp; Tennis Tournaments"></a>
 </td>
-<td width="650" align="right" valign="absbottom" class="MediumBoldBlackText">
-<div width="580px">
-<div id="tpLoginForm" style="float:right; padding-bottom: 5px; width:350px;">
+<td width="650" align="right" valign="absbottom">
+<div id="tpLoginForm" style="margin-bottom: 20px">
 <table cellpadding="1" cellspacing="0" border="0">
 <tbody><tr>
-<td id="" colspan="3" rowspan="4" valign="bottom"></td>
-</tr>
-<tr>
-<td colspan="3" align="right">
-<div style="margin-right: 30px">
-<a href="/?event=forgotPassword" class="verySmallLink greyboxP">Forgot Password?</a></div>
-</td>
-</tr>
-<tr>
-<td nowrap="true" class="MediumBoldBlueText" valign="bottom">Username</td>
-<td nowrap="true" class="MediumBoldBlueText" valign="bottom">Password</td>
-<td rowspan="2" valign="bottom"><input type="image" src="/images/blogLoginBtnOrange2.jpg" value="Submit" alt="Submit" name="loginBtn" id="loginBtn" align="absbottom"></td>
-</tr>
-<tr>
-<td nowrap="true" class="MediumBoldBlueText" valign="middle">
-<input type="text" name="username" id="username" size="15" value="" class="MediumBlackText">
-</td>
-<td nowrap="true" class="MediumBoldBlueText" valign="middle">
-<input type="password" name="userPassword" id="userPassword" size="15" value="" class="MediumBlackText">
-</td>
+<td nowrap="true" class="MediumWhiteText">Username</td>
+<td nowrap="true"><input type="text" name="username" id="username" size="15" value="" class="MediumBlackText"></td>
+<td>&nbsp; &nbsp;</td>
+<td nowrap="true" class="MediumWhiteText">Password</td>
+<td nowrap="true"><input type="password" name="userPassword" id="userPassword" size="15" value="" class="MediumBlackText"></td>
+<td rowspan="2"><input type="image" src="http://cdn.tennispoint.com/images/blogLoginBtnOrange2.jpg" value="Submit" alt="Submit" name="loginBtn" id="loginBtn" align="absmiddle"></td>
 </tr>
 </tbody></table>
-</div>
 </div>
 </td>
 </tr>
 
 <tr>
-<td class="navHeader" style="border: 1pt solid #333333" colspan="2" align="right">
-<a href="http://blog.tennispoint.com" class="nav">Help Blog</a> &nbsp; &nbsp; &nbsp;
-<a href="/?event=searchFacilityProfile" class="nav">Find Tennis Clubs / Courts</a> &nbsp; &nbsp; &nbsp;
-<a href="http://blog.tennispoint.com/frequently-asked-questions/" class="nav">Frequently Asked Questions</a> &nbsp; &nbsp; &nbsp;
-<a href="/?event=registerPlayer" class="nav">Signup New Team</a> &nbsp; &nbsp; &nbsp;
-<a href="/?event=registerPlayer" class="nav">Register for Free</a> &nbsp; &nbsp;
+<td align="right" class="MediumLtGrayText">
+<a href="http://www.tennispoint.com" class="headerNavText" title="TennisPoint Homepage">Home</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+<a href="/?event=registerPlayer" class="headerNavText" title="Register for Free on TennisPoint">Register for Free</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+<a href="http://blog.tennispoint.com/frequently-asked-questions/" class="headerNavText" title="Got a Question? Checkout the FAQ">Frequently Asked Questions</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+<a href="/?event=searchFacilityProfile" class="headerNavText" title="Find Tennis Courts &amp; Tennis Clubs">Find Tennis Clubs / Courts</a>
 </td>
 </tr>
-<tr>
-<td height="15"> </td>
-</tr>
 </tbody></table>
-<table width="900" cellspacing="0" cellpadding="0" border="0" align="center">
-<tbody><tr>
-<td align="center">
+</div>
+</div>
+<div id="mainContent" class="bandBkg" align="center">
+<div class="contain">
 <div align="left" class="MediumGrayText">
 <strong>Privacy Policy</strong><br><br>
 <strong>Last Updated: January 3, 2008</strong><br><br>
 TennisPoint knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the TennisPoint website, you are accepting the practices outlined in this Privacy Policy.
 <br><br>
 <strong>What Does This Privacy Policy Cover?</strong><br>
-This Privacy Policy covers TennisPoint's treatment of personal information that TennisPoint gathers when you are on the TennisPoint website (the ÒSiteÓ) and when you use TennisPoint services (collectively the ÒServiceÓ).<br><br>
+This Privacy Policy covers TennisPoint's treatment of personal information that TennisPoint gathers when you are on the TennisPoint website (the �Site�) and when you use TennisPoint services (collectively the �Service�).<br><br>
 This policy does not apply to the practices of third parties that TennisPoint does not own or control, or to individuals that TennisPoint does not employ or manage.<br><br>
 <strong>What Personal Information About Users Does TennisPoint Collect?</strong><br>
 Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We collect the following types of information from our users:<br><br>
@@ -256,7 +97,7 @@ Some of our business partners may use cookies on our website (for example, adver
 * Traffic data: TennisPoint uses this traffic data, including information gathered from cookies, to help diagnose problems with our servers, analyze trends, research the market for our services, and administer the website.<br><br>
 <strong>Will TennisPoint Share Any of the Information it Receives?</strong><br>
 We will not rent nor sell your personal information to anyone. We share your personal information only as described below.<br><br>
-* Providing the TennisPoint Service: TennisPoint personnel may have access to user information while carrying out their duties in the normal course of TennisPoint business. TennisPoint may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third partiesÕ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of TennisPoint (for instance, on servers or databases co-located with hosting providers).<br><br>
+* Providing the TennisPoint Service: TennisPoint personnel may have access to user information while carrying out their duties in the normal course of TennisPoint business. TennisPoint may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties� use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of TennisPoint (for instance, on servers or databases co-located with hosting providers).<br><br>
 * Business Transfers: As we develop our business, we may buy or sell assets or business offerings. In these types of transactions, user information is typically one of the business assets that is transferred. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution. In any such transfer of information, your user information would remain subject to the promises made in our Privacy Policy.<br><br>
 * Protection of TennisPoint and Others: We may release personal information when we believe in good faith that release is necessary to comply with the law; to enforce or apply our Terms of Use and other agreements; or to protect the rights, property, or safety of TennisPoint, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.<br><br>
 * With Your Consent: Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.<br><br>
@@ -278,18 +119,47 @@ TennisPoint may amend this Privacy Policy from time to time, at our sole discret
 <strong>Questions?</strong><br>
 Please e-mail privacy@tennispoint.com.
 </div>
+</div>
+</div>
+<div id="footer" class="bandBkg" align="center">
+<div class="contain">
+<table width="100%"><tbody><tr>
+<td valign="top"><div class="footerHeader">Tennis Solutions</div>
+<div style="line-height: 140%; margin-left: 0px">
+<a href="/#team_captain_tab" onclick="textLinkChange('team_captain_tab')" class="tabLink footerLink">Tennis Captains - Manage your Team</a><br>
+<a href="/#league_manager_tab" onclick="textLinkChange('league_manager_tab')" class="tabLink footerLink">League Managers</a><br>
+<a href="/#tournament_director_tab" onclick="textLinkChange('tournament_director_tab')" class="tabLink footerLink">Tournament Director</a><br>
+</div>
 </td>
-</tr>
-<tr>
-<td height="10"> </td>
-</tr>
-<tr>
-<td align="center" valign="top" class="verySmallGrayText" style="padding-top: 6px; border-top: 1px solid #666666">404-214-6044 &nbsp;&nbsp; • &nbsp;&nbsp; 770-916-1434:Fax &nbsp;&nbsp; • &nbsp;&nbsp; <a href="mailto:support@tennispoint.com" class="verySmallLink">Email Us</a> &nbsp;&nbsp; • &nbsp;&nbsp; <a href="/?event=privacyPolicy" class="verySmallLink">Privacy Policy</a> &nbsp;&nbsp; • &nbsp;&nbsp;	<a href="/?event=userAgreement" class="verySmallLink">User Agreement</a> &nbsp;&nbsp; • &nbsp;&nbsp;	© 2008 TennisPoint.com</td>
-</tr>
-<tr>
-<td align="center" valign="top" class="verySmallGrayText" style="padding-top: 6px;">With TennisPoint.com you can manage all aspects of your tennis game with<br>online tennis team management site and even <a href="http://www.tennispoint.com/tennis_club/tennis_court_USA.html" class="footerText">find a tennis court or find a tennis club</a> in the world.</td>
-</tr>
-</tbody></table>
+<td valign="top"><div class="footerHeader">Quick Jump To</div>
+<div style="line-height: 140%; margin-left: 0px">
+<a href="/?event=registerPlayer" class="footerLink">Register for Free</a><br>
+<a href="/?event=dashboard&amp;goto=EE86208453404F3EC5E3BCFBDBBA2FA5" class="footerLink">View Live Demo</a><br>
+<a href="/tennis_club/tennis_court_USA.html" class="footerLink">Find Tennis Courts or Tennis Clubs</a>
+</div>
+</td>
+<td valign="top"><div class="footerHeader">Help / Support</div>
+<div style="line-height: 140%; margin-left: 0px">
+<a href="/?event=forgotPassword" class="footerLink greyboxP">You forget your Password?</a><br>
+<a href="http://www.baselinenetwork.com/index.cfm/advertisers/why-baseline-network/" class="footerLink">Tennis Advertising</a><br>
+<a href="http://blog.tennispoint.com/frequently-asked-questions/" class="footerLink">Frequently Asked Questions</a><br>
+<a href="http://blog.tennispoint.com/" class="footerLink">How-to Articles in Help Blog</a><br>
+<a href="http://www.getsatisfaction.com/tennispoint" target="_blank" class="footerLink">Site Feedback</a><br>
+</div>
+</td>
+<td valign="top" class="SmallWhiteText" width="160"><div class="footerHeader">Contact TennisPoint</div>
+<div style="line-height: 150%; margin-left: 0px">
+404-214-6044<br>
+770-916-1434: fax<br>
+<a href="mailto:support@tennispoint.com" class="footerLink">support@tennispoint.com</a><br>
+<a href="/?event=privacyPolicy" class="footerLink">Privacy Policy</a><br>
+<a href="/?event=userAgreement" class="footerLink">User Agreement</a><br>
+© 2009 TennisPoint.com
+</div>
+</td>
+</tr></tbody></table>
+</div>
+</div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -306,7 +176,6 @@ _qoptions={ qacct:"p-casVx0yJsWl-A" };
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript><img src="http://pixel.quantserve.com/pixel/p-casVx0yJsWl-A.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
 <!-- End Quantcast tag -->
-<div id="cieInz" style="z-index:100;position:absolute"></div><div id="sdeInz" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/tennispoint/safe-monitor.js?ps_h=eInz&amp;ps_t=1580495328792"></script></div><script type="text/javascript">var seeInz=document.createElement("script");seeInz.type="text/javascript";var seeInzs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/tennispoint/safe-monitor.js?ps_h=eInz&ps_t="+new Date().getTime();setTimeout("seeInz.src=seeInzs;document.getElementById('sdeInz').appendChild(seeInz)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?monitor=tennispoint"><img src="http://image.providesupport.com/image/tennispoint.gif" border="0"></a></div></noscript>
-
+<div id="cieInz" style="z-index:100;position:absolute"></div><div id="sdeInz" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/tennispoint/safe-monitor.js?ps_h=eInz&amp;ps_t=1580495334150"></script></div><script type="text/javascript">var seeInz=document.createElement("script");seeInz.type="text/javascript";var seeInzs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/tennispoint/safe-monitor.js?ps_h=eInz&ps_t="+new Date().getTime();setTimeout("seeInz.src=seeInzs;document.getElementById('sdeInz').appendChild(seeInz)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?monitor=tennispoint"><img src="http://image.providesupport.com/image/tennispoint.gif" border="0"></a></div></noscript>
 
 </body></html>
