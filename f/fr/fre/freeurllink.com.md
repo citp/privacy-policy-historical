@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeurllink.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221023103id_/http%3A//www.freeurllink.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeurllink.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622042056id_/http%3A//www.freeurllink.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
