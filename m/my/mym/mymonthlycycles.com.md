@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymonthlycycles.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220175642id_/http%3A//www.mymonthlycycles.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymonthlycycles.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622053027id_/http%3A//www.mymonthlycycles.com/privacypolicy.html) for the most accurate reproduction.*
 
 # MyMonthlyCycles Privacy Policy
 
@@ -7,7 +7,7 @@ We understand that you value your privacy, and Binfinity Web, Inc., the owner an
 Binfinity Web, Inc. may update its MyMonthlyCycles.com privacy policy at any time. If there is a significant change to how we handle personal information, we will send you a notice to the primary email account you have specified in your MyMonthlyCycles.com account. You should also check this policy periodically to see if there are any changes. If our Privacy Policy does change, your continued use of the site will be deemed your acceptance of our changed Privacy Policy. 
 
 **Terms of Service**  
-Your use of the MyMonthlyCycles.com site is governed by our [Terms of Service](https://web.archive.org/web/20091220175642id_/http%3A//www.mymonthlycycles.com/termsofservice.html). Please make sure that you read that document.
+Your use of the MyMonthlyCycles.com site is governed by our [Terms of Service](https://web.archive.org/web/20100622053027id_/http%3A//www.mymonthlycycles.com/termsofservice.html). Please make sure that you read that document.
 
 **What Personal Information we collect**  
 Information you provide to us: MyMonthlyCycles.com collects personal information about you when you register to become a site member, subsequently change your account information, or interact with our site to use the software services available on the site.
