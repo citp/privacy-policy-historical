@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absoluteanime.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220105109id_/http%3A//www.absoluteanime.com/admin/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluteanime.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622042335id_/http%3A//www.absoluteanime.com/admin/privacy.htm) for the most accurate reproduction.*
 
 # Absolute Anime • Privacy Notice
 
