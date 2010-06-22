@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220021916id_/http%3A//cityofseattle.net/pan/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623014003id_/http%3A//www.cityofseattle.net/pan/privacypol.htm) for the most accurate reproduction.*
 
 # City of Seattle's Official Web Site
 
@@ -7,7 +7,7 @@
 Department of Information Technology  
  _Originally posted on September 15, 2004; updated on December 16, 2004_
 
-[City of Seattle Online Privacy and Security Policy Summary Available in 14 Languages](https://web.archive.org/web/20091220021916id_/http%3A//cityofseattle.net/pan/privacytrans.htm)
+[City of Seattle Online Privacy and Security Policy Summary Available in 14 Languages](https://web.archive.org/web/20100623014003id_/http%3A//www.cityofseattle.net/pan/privacytrans.htm)
 
 Section A. Introduction
 
@@ -59,7 +59,7 @@ If during your visit to our web site you participate in a survey, send an e-mail
 
 The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.
 
-We use your e-mail address to respond to you. It is the City's Policy to not use your e-mail address to send you unsolicited e-mail unless you specifically elect to receive it. Online discussion lists or "threads" are maintained and controlled in accordance with the City's [Electronic Conferencing and List Services Policy](http://www.seattle.gov/pan/ListServicesPolicies.htm). Survey information is used for the purpose identified by the survey. Information from other online forms is used only for conducting City business related to the online form.
+We use your e-mail address to respond to you. It is the City's Policy to not use your e-mail address to send you unsolicited e-mail unless you specifically elect to receive it. Online discussion lists or "threads" are maintained and controlled in accordance with the City's [Electronic Conferencing and List Services Policy](http://www.seattle.gov/pan/mailinglistpolicies.htm). Survey information is used for the purpose identified by the survey. Information from other online forms is used only for conducting City business related to the online form.
 
 Information provided for a transaction is used only for the purpose of completing and recording the transaction. Information requested will be no more specific than if a visitor were engaging in the transaction by other means, including by telephone or in-person while visiting a City facility. In all cases, the City strives to collect the minimum information necessary to comply with applicable law or provide the service requested.
 
