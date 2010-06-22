@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221004111id_/http%3A//www.gatorsports.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorsports.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623015307id_/http%3A//www.gatorsports.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | Gatorsports.com | The Gainesville Sun
+# privacypolicy | Gatorsports.com | The Gainesville Sun
 
 This Privacy Policy discloses the privacy practices for The Gainesville Sun newspaper and Gatorsports.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Gainesville Sun” include Gatorsports.com and The Gainesville Sun newspaper. The Gainesville Sun is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
