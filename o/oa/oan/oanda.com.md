@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821201420id_/http%3A//www.oanda.com/site/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623003223id_/http%3A//www.oanda.com/site/privacy) for the most accurate reproduction.*
 
-# Privacy Information
+# Privacy Policy | OANDA
+
+  
+
 
 ## A. Policy Statement
 
@@ -67,5 +70,5 @@ OANDA will provide an initial notice of its Privacy Policy to customers at the t
 
 ## J. Contact Us:
 
-We value our customers' opinions. If they have comments or questions about our Privacy Policy, they are invited to [email](https://web.archive.org/site/legal/privacy_questions.shtml) us or write to us at  
-**Privacy Office, OANDA Corp., 140 Broadway, 46th Floor, New York, NY 10005, U.S.A.**
+We value our customers' opinions. If they have comments or questions about our Privacy Policy, they are invited to [email](https://web.archive.org/site/legal/privacy_questions.shtml) us or write to us at:  
+ **Privacy Office, OANDA Corp., 140 Broadway, 46th Floor, New York, NY 10005, U.S.A.**
