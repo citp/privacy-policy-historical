@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eroi.com privacy policy that was archived on 2009-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091019210229id_/http%3A//www.eroi.com/miscellaneous/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eroi.com privacy policy that was archived on 2010-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622051107id_/http%3A//www.eroi.com/miscellaneous/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="stylesheet" type="text/css" href="http://www.eroi.com/modules/Album/css/stylesheet.css">
@@ -38,7 +38,7 @@
 <base href="http://www.eroi.com/">
 
 
-<script type="text/javascript" src="uploads/js/mootools.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="uploads/js/mootools.js"></script>
 
 <script type="text/javascript" src="/uploads/js/mootabs1.1.js"></script>
 <script type="text/javascript" src="/uploads/js/newsletter.js"></script>
@@ -51,6 +51,24 @@
 <!--[if lt IE 7]>
 <link href="/styles/iefix.css" rel="stylesheet" type="text/css" />
 <![endif]-->
+
+<!-- Google   -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-72754-1']);
+  _gaq.push(['_setDomainName', '.eroi.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
 
 </head>
 
@@ -80,7 +98,7 @@
 
 <ul id="navRight">
                     <li id="search"><a><span>Search</span></a></li>
-                    <li id="login"><a onclick="pageTracker._trackEvent('Home - Client Login', 'Expand', 'Client Login Form');"><span>Login</span></a></li>
+                    <li id="login"><a onclick="_gaq.push(['_trackEvent', 'Home - Client Login - Client Login Form', 'clicked'])"><span>Login</span></a></li>
 </ul>
 
 
@@ -89,13 +107,13 @@
        </div>
 		<div class="clear"></div>
 	
-<!-- Login Search -->
+<!-- Login Search: Dev -->
   <div id="expandContent">
          
 
 
                     <div id="clientLog">
-                    <form action="http://emailer.emailroi.com/dbadmin/non_icemaker_enter.pl" method="post" name="loginformExpand" id="loginformExpand">
+                    <form action="http://toolbox.eroi.com/email/" method="post" name="loginformExpand" id="loginformExpand">
                          <ul>
                             
 
@@ -118,11 +136,12 @@
                                 <input id="passWord" class="textbox" type="password" maxlength="120" size="12" name="password" value="">
                                 </li>
                                 <li id="login_button">
-                                <input class="subBtn" type="image" alt="Submit" src="/uploads/images/login_submit.jpg" name="go" onclick="pageTracker._trackEvent('Home - Client Login', 'Login', 'Client Login Submit');">
+                                <input class="subBtn" type="image" alt="Submit" src="/uploads/images/login_submit.jpg" name="go" onclick="_gaq.push(['_trackEvent', 'Home - Client Login - Client Login Submit', 'clicked'])">
                                 </li>
                                 
                           
                         </ul>
+<!--<p style="font-size:11px; font-weight:strong;">* emailROI maintenance 10am-4pm <a href="http://www.eroi.com/miscellaneous/client-login/">More info</a></p>-->
                          </form>    
                     </div>
                     
@@ -187,7 +206,7 @@
 <p>eROI is a general audience site and is not directed to children under the age of 13. Whether for itself or for its clients, eROI will not knowingly collect or maintain personally identifiable information from or about anyone under 13. eROI will make the best effort to assist its clients in complying with privacy laws and adhering to the highest industry standards on privacy. </p>
 <p>If you have received unwanted, unsolicited email sent via our system or purporting to be sent via this system, please forward a copy of that email with your comments to <a href="mailto:info@eroi.com">info@eroi.com</a> for review. </p>
 <p>We reserve the right to modify this policy at any time. We will always post the most current version of this policy on our website.</p>
-<p>If you would like to unsubscribe from ALL emailROI lists, please visit our <a href="/global-unsubscribe/">Global Unsubscribe</a> page.</p>                     
+<p>If you would like to unsubscribe from ALL email lists, please visit our <a href="/global-unsubscribe/">Global Unsubscribe</a> page.</p>                     
                       
                	         </div><!-- END INNERCOPY -->
 
@@ -336,7 +355,7 @@
 					 <p id="NewsletterWidget">Subscribe to the eROI Newsletter for the latest industry insights</p>
 <form id="newsletterForm" method="post" action="http://emailer.emailroi.com/multidouble.ice">
 
-<input type="hidden" name="username" value="BigBucks"> 
+<input type="hidden" name="username" value="conversion"> 
 
 <input type="hidden" name="contactemail" value="news@eroi.com"> 
 <input type="hidden" name="contactname" value="eROI"> 
@@ -345,7 +364,7 @@
 <input type="hidden" name="thankyou_message" value="http://www.eroi.com/eroi-newsletter-subscription/subscription-confirm/"> 
 <input type="hidden" name="thankyou_invalidemail" value="http://www.eroi.com/eroi-newsletter-subscription/invalid-email/"> 
 <input type="hidden" name="thankyou_alreadyonlist" value="http://www.eroi.com/eroi-newsletter-subscription/already-on-list/">
-<input type="hidden" name="list1" value="eROINews"> <input type="hidden" name="editionFirstDouble" value="eROINews_Confirmation"> 
+<input type="hidden" name="list1" value="Newsletter"> <input type="hidden" name="editionFirstDouble" value="Newsletter_Confirmation"> 
 
 <div id="sidebarNewsletterInputs">
             <input id="sidebarNewsletterEmail" onfocus="clearDefault(this)" name="Email" type="text" value="enter your email address">
@@ -402,23 +421,21 @@
     <li class="rss"><a href="http://feeds.feedburner.com/feedrinse/mHbS" target="_blank"><img src="/uploads/images/icon-rss-gray-footer.gif" border="0"></a></li>
 </ul>
 <br>
-<p class="copyright">© 2004-2009 eROI, Inc. All Rights Reserved. 505 NW Couch, Suite 300, Portland, OR 97209 &nbsp; TEL 503.221.6200</p>
+<p class="copyright">© 2004-2010 eROI, Inc. All Rights Reserved. 505 NW Couch, Suite 300, Portland, OR 97209 &nbsp; TEL 503.221.6200</p>
 </div>
 			
 			<div class="clear"></div>	
 		</div>
 	</div>
 
+
 <script type="text/javascript" language="JavaScript"><!--
 document.write('<img src="http://coolertracks.emailroi.com/tracks2.ice?un=BigBucks&' + window.document.referrer + '" height=1 width=1>')
 //-->
 </script><img src="http://coolertracks.emailroi.com/tracks2.ice?un=BigBucks&amp;" height="1" width="1">
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-72754-1";
-urchinTracker();
-</script> 
+
+
+
 <script src="http://www2.eroi.com/pi.js" type="text/javascript"></script>
 
 <script type="text/javascript">
@@ -431,9 +448,10 @@ urchinTracker();
 	-->
 </script>
 
+
  
 
 
-<!-- Generated in 0.458205 seconds by CMS Made Simple using 30 SQL queries -->
+<!-- Generated in 0.509875 seconds by CMS Made Simple using 26 SQL queries -->
 <!-- CMS Made Simple - Released under the GPL - http://cmsmadesimple.org -->
 </body></html>
