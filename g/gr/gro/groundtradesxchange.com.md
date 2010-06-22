@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groundtradesxchange.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022520id_/http%3A//www.groundtradesxchange.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundtradesxchange.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044313id_/http%3A//www.groundtradesxchange.com/privacy.htm) for the most accurate reproduction.*
 
 # Ground Trades Xchange | Privacy Policy
 
