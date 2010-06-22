@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsb.bc.ca privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222172405id_/http%3A//www.vsb.bc.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsb.bc.ca privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622041238id_/http%3A//www.vsb.bc.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vancouver School Board
 
@@ -15,7 +15,7 @@ Vancouver School Board uses per-session cookies. The per-session cookies do not 
   * The number of requests per visit
   * Your type of operating system (Windows, MacIntosh, Unix, etc.)
   * Your browser type (FireFox, Internet Explorer, etc.)
-  * By keeping this data, North Vancouver School District web site administrators can fine-tune the sites based on user-activity trends.
+  * By keeping this data, Vancouver School Board web site administrators can fine-tune the sites based on user-activity trends.
 
 
 
