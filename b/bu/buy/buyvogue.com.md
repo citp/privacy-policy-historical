@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyvogue.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222133403id_/http%3A//www.buyvogue.com/page.html%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyvogue.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623004730id_/http%3A//www.buyvogue.com/page.html%3Fid%3D5) for the most accurate reproduction.*
 
 # Privacy Policy - Prada Sneakers, Prada Shoes, Gucci Sneakers, Gucci Shoes, Dolce Gabbana, Versace at BuyVogue - Online Fashion Store
 
