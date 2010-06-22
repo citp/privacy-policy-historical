@@ -1,85 +1,85 @@
-> *The following text is extracted and transformed from the surefiretradingchallenge.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231145830id_/http%3A//surefiretradingchallenge.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefiretradingchallenge.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622060333id_/http%3A//www.surefiretradingchallenge.com/pp.htm) for the most accurate reproduction.*
 
-# Privacy
+# Surefire Trading Challenge
 
-### [HOME](http://www.surefiretradingchallenge.com/)
+We will never sell, barter, or rent your email address to any unauthorized third party. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy.
 
-### PRIVACY POLICY 
+How we gather information from users:
 
-This website will never sell, barter, or rent your email address to any unauthorized third party. 
+How we collect and store information depends on the page you are visiting. Like most Web sites, this website collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service  
+Provider or use cookie technology to recognize you and hold information from your visit.
 
-**How we gather information from users**
+This website does not recommend or endorse any specific trading system or method. We recommend that you research all trading systems, methods and strategies thoroughly.
 
-How we collect and store information depends on the page you are visiting. Like most Web sites, this website collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. 
+Trading any financial market involves risk. The contents of this website is neither a solicitation nor an offer to Buy/Sell any financial market. The contents of the website, newsletter and members area are for general information and educational purposes only. By using this website you agree to the terms laid out in this agreement.
 
-This website does not recommend or endorse any specific trading system or method. We recommend that you research all trading systems, methods and strategies thoroughly. 
+What we do with the information we collect:
 
-Trading any financial market involves risk. The contents of this website is neither a solicitation nor an offer to Buy/Sell any financial market. The contents of the website, newsletter and members area are for general information and educational purposes only. By using this website you agree to the terms laid out in this agreement. 
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
-**What we do with the information we collect**
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive).
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
+We may use Personally Identifiable Information collected on the website to communicate with you about your registration; our privacy policy; services and products offered by this website and other topics we think you might find of interest.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). 
+Affiliated sites, linked sites and advertisements
 
-We may use Personally Identifiable Information collected on the website to communicate with you about your registration; our privacy policy; services and products offered by this website and other topics we think you might find of interest. 
+This website expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection  
+policies and practices. For example, during your visit to our site you might click a link to, or view as part of a frame, page, certain content that is actually created or hosted by a third party. Also, through this website you may be introduced to, or be able to access, information, Web  
+sites, features offered by other parties. This website is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
-**Affiliated sites, linked sites and advertisements**
+Children
 
-This website expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you might click a link to, or view as part of a frame, page, certain content that is actually created or hosted by a third party. Also, through this website you may be introduced to, or be able to access, information, Web sites, features offered by other parties. This website is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
+Surefiretradingchallenge.com and sister sites (Old Tree Publishing (Pty) Ltd) does not knowingly collect or solicit Personally Identifiable Information from or about children under 13.   
+If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that we have any information from or about anyone under 13, please contact us at the address listed below.
 
-Children 
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular   
+advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. We do not control the use of this technology by third parties or the resulting information, and we do not accept   
+responsibility for any actions or policies of such third parties.
 
-Surefiretradingchallenge.com (Old Tree Publishing (Pty) Ltd does not knowingly collect or solicit Personally Identifiable Information from or about children under 13. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Surefiretradingchallenge.com has any information from or about anyone under 13, please contact us at the address listed below. 
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of this website.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about   
-you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement   
-before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. We do not control the use of this technology by third parties or the resulting information, and we do not accept responsibility for any actions or policies of such third parties. 
+Contacting Us
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be   
-collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of this website. 
+You can contact us anytime by adressing your saulte to:  
+The Manager  
+  
+Fax: +1 (347) 4383131
 
-**Contacting Us**
+Changes to this Policy
 
-**Changes to this Policy**
+We reserves the right to change this policy at any time. Please check this page periodically for changes.
 
-We reserves the right to change this policy at any time. Please check this page periodically for changes. 
+Governing law
 
-**Governing law**
+This policy and the use of this Site and purchase of any product from this site are governed by the laws of the Republic of South Africa. If a dispute arises under this Policy (agreement) we agree to first try to resolve it with the help of a mutually agreed-upon arbitrator in the following  
+location: Umhlanga, Kwazulu Natal, South Africa.
 
-This policy and the use of this Site and purchase of any product from this site are governed by the laws of the Republic of South Africa. If a dispute arises under this Policy (agreement) we agree to first try to resolve it with the help of a mutually agreed-upon arbitrator in the following location: Umhlanga, Kwazulu Natal, South Africa. 
-
-**Company Details**
+Company Details
 
 Old Tree Publishing Pty Ltd  
 Suite 509, Private Bag X503  
 Northway, 4065, KZN, SA  
-Reg # - 2004/031553/07 
+Reg # - 2004/031553/07
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Umhlanga, under the rules of the Arbitration Foundation of South Africa and an arbitrator appointed by the Foundation. 
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Umhlanga, under the rules of the Arbitration Foundation of South Africa and an arbitrator appointed by the Foundation.
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-By becoming a member of this website or using this website you agree that you unconditionally accept this disclaimer agreement. 
+By becoming a member of this website or using this website you agree that you unconditionally accept this disclaimer agreement.
 
-You further agree that Old Tree Publishing (Pty) Ltd, its Directors and representatives can not be held liable for any loses, injury or damages the user may claim as per the laws of the Republic of South Africa or any other country. 
+You further agree that Old Tree Publishing (Pty) Ltd, its Directors and representatives can not be held liable for any loses, injury or damages the user may claim as per the laws of the Republic of South Africa or any other country.
 
-**Warning!**
+Warning!
 
-Hypothetical performance results have many inherent limitations, some of which are mentioned below. No representation is being made that any account will or is likely to achieve profits or losses similar to those shown. In fact, there are frequently sharp differences between hypothetical performance results and actual results subsequently achieved by any particular trading program. 
+Hypothetical performance results have many inherent limitations, some of which are mentioned below. No representation is being made that any account will or is likely to achieve profits or losses similar to those shown. In fact, there are frequently sharp differences between hypothetical performance results and actual results subsequently achieved by any  
+particular trading program.
 
-One of the limitations of hypothetical performance results is that they are generally prepared with the benefit of hindsight. In addition, hypothetical trading does not involve financial risk and no hypothetical trading record can completely account for the impact of financial risk in actual trading. 
+One of the limitations of hypothetical performance results is that they are generally prepared with the benefit of hindsight. In addition, hypothetical trading does not involve financial risk and no hypothetical trading record can completely account for the impact of financial risk in actual trading.
 
-For example the ability to withstand losses or to adhere to a particular trading program in spite of the trading losses are material points, which can also adversely affect trading results. There are numerous other factors related to the market in general or to the implementation of any specific trading program which cannot be fully accounted for in the preparation of hypothetical performance results and all of which can adversely affect actual trading results. 
+For example the ability to withstand losses or to adhere to a particular trading program in spite of the trading losses are material points, which can also adversely affect trading results. There are numerous other factors related to the market in general or to the implementation of any specific trading program which cannot be fully accounted for in the preparation of  
+hypothetical performance results and all of which can adversely affect actual trading results.
 
-[HOME](http://www.surefiretradingchallenge.com/)
+  
 
-[Terms of Use](https://web.archive.org/web/20091231145830id_/http%3A//surefiretradingchallenge.com/tou.html) |[ Privacy Policy ](https://web.archive.org/web/20091231145830id_/http%3A//surefiretradingchallenge.com/privacy.html)
 
-\--------------------------------------------------------------------------------------------------
-
-> Hypothetical performance results have many inherent limitations, some of which are described below. No representation is being made that any account will or is likely to achieve profits or losses similar to those shown. In fact, there are frequently sharp differences between hypothetical performance results and the actual results subsequently achieved by any particular trading program. One of the limitations of hypothetical performance results is that they are generally prepared with the benefit of hindsight. In addition, hypothetical trading does not involve financial risk, and no hypothetical trading record can completely account for the impact of financial risk in actual trading. For example, the ability to withstand losses or to adhere to a particular trading program in spite of trading losses are material points which can also adversely affect trading results. There are numerous other factors related to the markets in general or to the implementation of any specific trading program which cannot be fully accounted for in the preparation of hypothetical performance results and all of which can adversely affect actual trading results.
-> 
-> ClickBank is a registered trademark of Keynetics Inc., a Delaware corporation. ForexAutoCashRobot.com is not affiliated with Keynetics Inc. in any way, nor does Keynetics Inc. sponsor or approve any ForexAutoCashRobot.com product. Keynetics Inc. expresses no opinion as to the correctness of any of the statements made by ForexAutoCashRobot.com in the materials on this Web page.
-
-Copyright © 2008 **Surefire Trading Challenge**
+ClickBank is a registered trademark of Keynetics Inc., a Delaware corporation. SurefireTradingChallenge.com is not affiliated with Keynetics Inc. in any way, nor does Keynetics Inc. sponsor or approve any SurefireTradingChallenge.com product. Keynetics Inc. expresses no opinion as to the correctness of any of the statements made by SurefireTradingChallenge.com in the materials on this Web page.
