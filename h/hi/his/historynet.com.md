@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221071017id_/http%3A//www.historynet.com/weider-history-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044237id_/http%3A//www.historynet.com/weider-history-group-privacy-policy) for the most accurate reproduction.*
 
 # Weider History Group Privacy Policy » HistoryNet
 
@@ -41,7 +41,7 @@ _**
 **What About Third Party Advertisers?**  
 **How Can You Control Your Personal Information?**  
 **Security of Your Personal Information**  
-**Children’s Privacy**  
+**Children's Privacy**  
 **Links**  
 **Changes in Corporate Structure**  
 **Visitors Outside the United States**  
@@ -100,7 +100,7 @@ At our websites, visitors will also have opportunities to sign up directly with 
 
 **_Trusted Fulfillment Partners_**. Sometimes we will give you the opportunity to opt in to receive e-mail offers directly from third parties not affiliated with Weider History Group. If you decide to accept these offers, we will provide your contact information to the third party. As our trusted fulfillment partners may keep and use your information whether or not you purchase their products or use their services, your personal information will be subject to their privacy policies, and you should contact them directly for more information about their specific privacy and opt-out policies. 
 
-_**Public Postings**_. You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through Weider History Group’s websites or any other service available online), that information can be collected and used by others. For example, if you use chat, forums, bulletin boards or message boards, or if you post personal information online (such as your e-mail address, photograph, etc.), you may receive unsolicited messages from others. Weider History Group has no control over this use of your personal information.
+_**Public Postings**_. You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through Weider History Group's websites or any other service available online), that information can be collected and used by others. For example, if you use chat, forums, bulletin boards or message boards, or if you post personal information online (such as your e-mail address, photograph, etc.), you may receive unsolicited messages from others. Weider History Group has no control over this use of your personal information.
 
 _**Important Note**_
 
@@ -138,9 +138,9 @@ Your personal information may also be protected by the password you created when
 
 Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions or within any system cannot be assured. Weider History Group employees are made aware of its privacy practices through periodic communications and training. We limit access to personal data only to those Weider History Group employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. To maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis. Remember, however, that any personal information you post in chat rooms or message boards is available to anyone. We ask our agents, promotional and business partners, and trusted fulfillment partners to provide assurances of reasonable security, but are not responsible for the privacy or security practices of any third party.
 
-**CHILDREN’S PRIVACY**
+**CHILDREN'S PRIVACY**
 
-Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. Weider History Group is strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13 and have adopted techniques to age-screen users on our teen-oriented sites to ensure compliance with this Privacy Policy and the Children’s Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations establish United States federal law that protects the privacy of children using the Internet. Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. Weider History Group is strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13 and have adopted techniques to age-screen users on our teen-oriented sites to ensure compliance with this Privacy Policy and the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations establish United States federal law that protects the privacy of children using the Internet. Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children's use of the Internet.
 
 **LINKS**
 
