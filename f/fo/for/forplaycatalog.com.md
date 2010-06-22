@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620233536id_/http%3A//www.forplaycatalog.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044317id_/http%3A//www.forplaycatalog.com/store/util/privacy%3FArgs%3D) for the most accurate reproduction.*
 
 # Forplay Catalog - Privacy Policy
 
@@ -28,4 +28,11 @@ If you are visiting ForplayCatalog.com through Yahoo!Shopping, information about
 **Forplay Catalog E-Mail**  
 | Forplay Catalog E-Mail allows you to receive exclusive information about special offers, media events, new products and much more. If you’re not already registered, simply complete our sign up form to receive these special messages. If at any time you would like to stop future delivery of Forplay Catalog E-Mail, please follow the removal instructions located at the bottom of each message or complete the removal from e-mail form. Asking to be removed from Forplay Catalog E-Mail will not prevent you from receiving e-mail confirmations for any order you place at ForplayCatalog.com.|   
 **Questions/Changes in Policy**  
-| If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us. If elements of our Privacy Policy change, we will post the policy changes in our Privacy Policy on this Web site. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about Forplay Catalog. | 
+| If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us. If elements of our Privacy Policy change, we will post the policy changes in our Privacy Policy on this Web site. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about Forplay Catalog. |   
+  
+|   
+---  
+| Forplay Catalog works to provide the highest quality Hollywood-style apparel to the rest of the world! Our dresses, sexy club wear, lingerie sets, sexy Halloween costumes, and swimwear are specially designed to keep you feeling sexy all day and all night, too! Some of our top-selling Halloween costumes include school girl costumes, sexy cop costumes, race car driver costumes, gangster girl costumes, sexy army girl costumes, sexy military girl costumes, French maid costumes, sailor girl costumes, and pirate girl costumes. Browse our categories for yourself to find that special look that will make your occasion even more memorable!  
+---  
+[](http://www.bbbonline.org/cks.asp?id=1051012172354) |  FOLLOW US ON:  
+[](http://www.facebook.com/pages/Forplay-Catalog/96213754805)   [](http://twitter.com/forplaycatalog)   [](http://www.myspace.com/forplay)   [](http://www.youtube.com/forplaycatalog) [FAQ](http://www.forplaycatalog.com/store/util/faq?Args=) | [Feedback](http://www.forplaycatalog.com/store/survey/1?Args=) | [Privacy](http://www.forplaycatalog.com/store/util/privacy?Args=) | [Terms](http://www.forplaycatalog.com/store/util/terms?Args=) | [Store](http://www.forplaycatalog.com/store/util/store_locator?Args=) | [Site Map](http://www.forplaycatalog.com/store/util/sitemap?Args=) Copyright ©  2000-2010 Forplay Inc. [Powered by Warp 9](http://www.warp9inc.com/) | [](https://web.archive.org/web/20100622044317id_/http%3A//www.forplaycatalog.com/store/util/VeriSign%20Secured%20Seal)
