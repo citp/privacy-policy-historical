@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobile-ent.biz privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022044id_/http%3A//www.mobile-ent.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-ent.biz privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622044204id_/http%3A//www.mobile-ent.biz/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 The purpose of this page is to inform you on every aspect of our Privacy Policy with respect to our data gathering.
 
-Whenever you visit our Intent Media web site we want you to assure you that we make every effort to respect your personal privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
+Whenever you visit an Intent Media web site we want to assure you that we make every effort to respect your personal privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
 ### Ownership of Information
 
@@ -12,9 +12,7 @@ Intent Media is the sole owner of any information collected. We will not sell, s
 
 ### Use of Cookies
 
-We may use a cookie to record previously established interests and preferences (via data submitted to us) so as to enhance the experience whilst using our site. Because the cookie is client side, i.e. on your hard drive, your privacy is in no way compromised.
-
-You may deactivate cookies in your web browser, or reject the creation of a cookie depending on your personal preferences.
+We may use a cookie to record previously established interests and preferences (via data submitted to us) so as to enhance the experience whilst using our site. Because the cookie is client side, i.e. on your hard drive, your privacy is in no way compromised.You may deactivate cookies in your web browser, or reject the creation of a cookie depending on your personal preferences.
 
 ### IP Address Information
 
