@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiegogo.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223031817id_/http%3A//www.indiegogo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiegogo.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623010450id_/http%3A//www.indiegogo.com/about/privacy) for the most accurate reproduction.*
 
 # IndieGoGo: about: privacy
 
