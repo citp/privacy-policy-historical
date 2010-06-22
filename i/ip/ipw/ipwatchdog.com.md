@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the ipwatchdog.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230143821id_/http%3A//www.ipwatchdog.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipwatchdog.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623002136id_/http%3A//www.ipwatchdog.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IPWatchdog.com | Patents & Patent Law
 
 ## Privacy Policy
 
   
-
-
-[Privacy Policy](http://www.ipwatchdog.com/about/privacy-policy/)
-
+|  [ ](http://www.refer-a-buddy.com/)  
+---|---  
+  
   1. This statement explains how information learned about you from your visit to IPWatchdog.com and the IPWatchdog.com Network of Sites is handled. The information received depends on what you do when you visit IPWatchdog.com or one of the other sites that make up the IPWatchdog.com Network. In this privacy policy the use of “IPWatchdog.com” is intended to mean the IPWatchdog.com Network of Sites.  It is not intended to and does not create any claim against IPWatchdog, Inc. by any visitors to the site and is merely presented so that you can better understand how we handle information given to us.
 
   2. If you visit to browse, or to read or download information the hosting company will collect and store various information, but to the best of our knowledge and understanding none of the information collected is personally identifying information. The information that is collected, and to which IPWatchdog.com will have access, includes: (1) the name of the domain and host from which you access the Internet (for example, aol.com or princeton.edu); (2) the browser software you use and your operating system; (3) the date and time you access the site; and (4) the Internet address of the website from which you linked directly to IPWatchdog.com. This is other information collected by our hosting company is used to measure the number of visitors, where and how visitors find out about IPWatchdog.com, and daily traffic. This information is considered to be general and nature and not confidential.
