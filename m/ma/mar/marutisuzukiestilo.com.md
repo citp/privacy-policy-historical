@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marutisuzukiestilo.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220152409id_/http%3A//www.marutisuzukiestilo.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marutisuzukiestilo.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622025444id_/http%3A//www.marutisuzukiestilo.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Maruti Suzuki Estilo - Take a fresh view of life.
 
