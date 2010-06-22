@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219173509id_/http%3A//www.belchfire.net/index.php%3Fshowtopic%3D8794) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623013846id_/http%3A//www.belchfire.net/index.php%3Fshowtopic%3D8794) for the most accurate reproduction.*
 
-# Privacy Policy - Belchfire Free Windows XP Themes, Vista Themes, Desktop Themes
+# Privacy Policy - Windows XP Themes, Windows Vista Themes, Windows 7 Themes, Desktop Themes
 
 Admin  
 
