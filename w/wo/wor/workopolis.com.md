@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workopolis.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033611id_/http%3A//www.workopolis.com/Default.aspx%3Faction%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workopolis.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622031227id_/http%3A//www.workopolis.com/Default.aspx%3Faction%3DPrivacy) for the most accurate reproduction.*
 
-# workopolis.com - Privacy Policy - Canada's Biggest Job Site
+# TheStar Careers
 
 | 
 
