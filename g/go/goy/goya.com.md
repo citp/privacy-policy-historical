@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617055445id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622041307id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
 
 # Goya Foods: Privacy Policy
 
@@ -27,6 +27,10 @@ Goya Foods Inc. does not allow you to control the way that we use personal ident
 Goya Foods Inc. ensures data quality, such as the accuracy of information obtained from website visitors to [www.goya.com](http://www.goya.com/).
 
 Access to information is kept by Goya Foods Inc. and is strictly controlled.
+
+##### REFER A FRIEND/FORWARD-TO-A-FRIEND FUNCTIONALITY
+
+If you feel that information about Goya Foods Inc. could be useful for a third party you know (e.g. your friends or family members etc.), you may use our forward-to-a-friend functionality. If you choose to use our referral service to tell a friend about Goya Foods Inc., we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Goya Foods Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
 ##### CONTACT INFORMATION - QUESTIONS & COMPLAINTS
 
