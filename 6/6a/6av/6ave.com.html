@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 6ave.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230225617id_/http%3A//www.6ave.com/shop/usertpl.aspx%3Ffle%3Dprivacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 6ave.com privacy policy that was archived on 2010-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100622040502id_/http%3A//www.6ave.com/shop/usertpl.aspx%3Ffle%3Dprivacy_statement.htm) for the most accurate reproduction.-->
 
 <html><head>
 		<title>
@@ -107,6 +107,20 @@ PreloadImages();
 	function collapseLayers()
 	{
 		var myLayers;
+		
+		myLayers = '';
+
+		if (myLayers=='')
+			return false;
+		else
+		{
+			var inactiveLayers = myLayers.split(',');
+			
+			for (var i=0; i<inactiveLayers.length-1; i++)
+			{
+				ShowHideLayerFinal('layer'+inactiveLayers[i],inactiveLayers[i]);
+			}
+		}
 		
 	}
 	
@@ -266,53 +280,13 @@ function searchbtn_clicked()
             <td width="490" valign="bottom">
               <table width="100%" cellpadding="0" cellspacing="0">
               <tbody><tr>
-			  
-                <td valign="bottom">
-<!-------------------------------- 6ave Christmas Logo Script -------------------------------------------------------->			
-			<script language="JavaScript1.1">
-<!--
-var MM_contentVersion = 6;
-var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
-if ( plugin ) {
-		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
-	    for (var i = 0; i < words.length; ++i)
-	    {
-		if (isNaN(parseInt(words[i])))
-		continue;
-		var MM_PluginVersion = words[i]; 
-	    }
-	var MM_FlashCanPlay = MM_PluginVersion >= MM_contentVersion;
-}
-else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
-   && (navigator.appVersion.indexOf("Win") != -1)) {
-	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
-	document.write('on error resume next \n');
-	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
-	document.write('</SCR' + 'IPT\> \n');
-}
-if ( MM_FlashCanPlay ) {
-		document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
-	document.write(' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" ');
-	document.write(' ID="script" WIDTH="466" HEIGHT="62" ALIGN="bottom">');
-	document.write(' <PARAM NAME=movie VALUE="/Assets/Animations/6ave-holiday-logo.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF>  '); 
-	document.write(' <EMBED src="/Assets/Animations/6ave-holiday-logo.swf" quality=high bgcolor=#FFFFFF ALIGN="bottom"  ');
-	document.write(' swLiveConnect=FALSE WIDTH="466" HEIGHT="62" NAME="script" ALIGN="bottom"');
-	document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">');
-	document.write(' </EMBED>');
-	document.write(' </OBJECT>');
-} else{
-	document.write('<a href="http://www.6ave.com/Shop/Home.aspx"><img src="/Assets/Images/6ave_logo_home.jpg" alt="Sixth Avenue Electronics Homepage" title="Sixth Avenue Electronics Homepage" border="0" /></a>>');
-}
-//-->
-</script><a href="http://www.6ave.com/Shop/Home.aspx"><img src="/Assets/Images/6ave_logo_home.jpg" alt="Sixth Avenue Electronics Homepage" title="Sixth Avenue Electronics Homepage" border="0"></a>&gt;<noscript><a href="http://www.6ave.com/Shop/Home.aspx"><img src="/Assets/Images/6ave_logo_home.jpg" alt="Sixth Avenue Electronics Homepage" title="Sixth Avenue Electronics Homepage" border="0" /></a></noscript>
-<!-------------------------------- End of 6ave Christmas Logo Script -------------------------------------------------------->						
-				</td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/Home.aspx"><img src="/Assets/Images/6ave_logo_home.jpg" alt="Sixth Avenue Electronics Homepage" title="Sixth Avenue Electronics Homepage" border="0"></a></td>
               </tr>
             </tbody></table>
-            <a href="http://www.6ave.com/Shop/Home.aspx"></a>            </td>
+            <a href="http://www.6ave.com/shop/Home.aspx"></a>            </td>
             <td width="500"><table width="500" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
-                  <td height="25"><div align="right"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=stores_locator.htm"><span class="holiday_text">Store Locator</span></a> <font color="#e5e5e5">&nbsp;|&nbsp;</font> <a href="http://www.6ave.com/Shop/usertpl.aspx?fle=weekly_ad.htm"><span class="holiday_text">Weekly Ad</span></a> <font color="#e5e5e5">&nbsp;|&nbsp;</font> <a href="https://www.6ave.com/Shop/login_myaccount.aspx"><span class="holiday_text">My Account</span></a> <font color="#e5e5e5">&nbsp;|&nbsp;</font> <a href="https://www.6ave.com/Shop/track_order.aspx?np=order_status.aspx"><span class="holiday_text">Track Order</span></a> <font color="#e5e5e5">&nbsp;|&nbsp;</font> <a href="http://www.6ave.com/Shop/usertpl.aspx?fle=customer_service.htm"><span class="holiday_text">Customer Service</span></a> </div></td>
+                  <td height="25"><div align="right"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=stores_locator.htm"><span class="holiday_text">Store Locator</span></a> <font color="#e5e5e5">&nbsp;|&nbsp;</font> <a href="http://www.6ave.com/shop/usertpl.aspx?fle=weekly_ad.htm"><span class="holiday_text">Weekly Ad</span></a> <font color="#e5e5e5">&nbsp;|&nbsp;</font> <a href="https://www.6ave.com/shop/login_myaccount.aspx"><span class="holiday_text">My Account</span></a> <font color="#e5e5e5">&nbsp;|&nbsp;</font> <a href="https://www.6ave.com/shop/track_order.aspx?np=order_status.aspx"><span class="holiday_text">Track Order</span></a> <font color="#e5e5e5">&nbsp;|&nbsp;</font> <a href="http://www.6ave.com/shop/usertpl.aspx?fle=customer_service.htm"><span class="holiday_text">Customer Service</span></a> </div></td>
                 </tr>
                 <tr>
                   <td><div align="right"><img src="/Assets/Images/dial-phone-banner.gif" border="0"></div></td>
@@ -420,221 +394,229 @@ var imgObj2 = new Array();
 
 				var menu1=new Array();
 			
-				    menu1[1] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0103&pti=0100\"style=\"padding-top:5px;\">Components</A>";				
+				    menu1[1] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0229&pti=0100\"style=\"padding-top:5px;\">Custom Entertainment Solutions</A>";				
 			    
-				    menu1[2] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0108&pti=0100\"style=\"padding-top:5px;\">Speakers</A>";				
+				    menu1[2] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0103&pti=0100\"style=\"padding-top:5px;\">Components</A>";				
 			    
-				    menu1[3] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0117&pti=0100\"style=\"padding-top:5px;\">Home Theater In a Box</A>";				
+				    menu1[3] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0108&pti=0100\"style=\"padding-top:5px;\">Speakers</A>";				
 			    
-				    menu1[4] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0125&pti=0100\"style=\"padding-top:5px;\">Home Automation</A>";				
+				    menu1[4] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0117&pti=0100\"style=\"padding-top:5px;\">Home Theater In a Box</A>";				
 			    
-				    menu1[5] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0120&pti=0100\"style=\"padding-top:5px;\">Remote Controls</A>";				
+				    menu1[5] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0125&pti=0100\"style=\"padding-top:5px;\">Home Automation</A>";				
 			    
-				    menu1[6] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1268&pti=0100\"style=\"padding-top:5px;\">Headphones</A>";				
+				    menu1[6] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0120&pti=0100\"style=\"padding-top:5px;\">Remote Controls</A>";				
 			    
-				    menu1[7] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1259&pti=0100\"style=\"padding-top:5px;\">AV Cables</A>";				
+				    menu1[7] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1268&pti=0100\"style=\"padding-top:5px;\">Headphones</A>";				
 			    
-				    menu1[8] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1251&pti=0100\"style=\"padding-top:5px;\">Home Audio Warranties</A>";				
+				    menu1[8] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1259&pti=0100\"style=\"padding-top:5px;\">AV Cables</A>";				
+			    
+				    menu1[9] = "<A onmouseout=\"hoverRow('1','out');\" onmouseover=\"hoverRow('1','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1251&pti=0100\"style=\"padding-top:5px;\">Home Audio Warranties</A>";				
 			    
 				var menu2=new Array();
 			
-				    menu2[1] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0201&pti=0200\"style=\"padding-top:5px;\">Televisions</A>";				
+				    menu2[1] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0201&pti=0200\"style=\"padding-top:5px;\">Televisions</A>";				
 			    
-				    menu2[2] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0203&pti=0200\"style=\"padding-top:5px;\">Flat Panel LCD TV's</A>";				
+				    menu2[2] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0203&pti=0200\"style=\"padding-top:5px;\">Flat Panel LCD TV's</A>";				
 			    
-				    menu2[3] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0204&pti=0200\"style=\"padding-top:5px;\">Plasma TV's</A>";				
+				    menu2[3] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0204&pti=0200\"style=\"padding-top:5px;\">Plasma TV's</A>";				
 			    
-				    menu2[4] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0210&pti=0200\"style=\"padding-top:5px;\">BLU-ray DVD Players</A>";				
+				    menu2[4] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0240&pti=0200\"style=\"padding-top:5px;\">LED-LCD TV's</A>";				
 			    
-				    menu2[5] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0209&pti=0200\"style=\"padding-top:5px;\">DVD Players & Recorders</A>";				
+				    menu2[5] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0241&pti=0200\"style=\"padding-top:5px;\">3D TV's</A>";				
 			    
-				    menu2[6] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0216&pti=0200\"style=\"padding-top:5px;\">DirecTV</A>";				
+				    menu2[6] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0210&pti=0200\"style=\"padding-top:5px;\">BLU-ray DVD Players</A>";				
 			    
-				    menu2[7] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1259&pti=0200\"style=\"padding-top:5px;\">AV Cables</A>";				
+				    menu2[7] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0209&pti=0200\"style=\"padding-top:5px;\">DVD Players & Recorders</A>";				
 			    
-				    menu2[8] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1240&pti=0200\"style=\"padding-top:5px;\">TV & Video Warranties</A>";				
+				    menu2[8] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0214&pti=0200\"style=\"padding-top:5px;\">Digital Video Recorders (DVR'S)</A>";				
+			    
+				    menu2[9] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0216&pti=0200\"style=\"padding-top:5px;\">DirecTV</A>";				
+			    
+				    menu2[10] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1259&pti=0200\"style=\"padding-top:5px;\">AV Cables</A>";				
+			    
+				    menu2[11] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1240&pti=0200\"style=\"padding-top:5px;\">TV & Video Warranties</A>";				
+			    
+				    menu2[12] = "<A onmouseout=\"hoverRow('2','out');\" onmouseover=\"hoverRow('2','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0242&pti=0200\"style=\"padding-top:5px;\">Television Bundles</A>";				
 			    
 				var menu3=new Array();
 			
-				    menu3[1] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0402&pti=0400\"style=\"padding-top:5px;\">Mini-DV Camcorders</A>";				
+				    menu3[1] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0402&pti=0400\"style=\"padding-top:5px;\">Mini-DV Camcorders</A>";				
 			    
-				    menu3[2] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0401&pti=0400\"style=\"padding-top:5px;\">DVD Camcorders</A>";				
+				    menu3[2] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0401&pti=0400\"style=\"padding-top:5px;\">DVD Camcorders</A>";				
 			    
-				    menu3[3] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0404&pti=0400\"style=\"padding-top:5px;\">HD Camcorders</A>";				
+				    menu3[3] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0404&pti=0400\"style=\"padding-top:5px;\">HD Camcorders</A>";				
 			    
-				    menu3[4] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0403&pti=0400\"style=\"padding-top:5px;\">Hard Drive Camcorders</A>";				
+				    menu3[4] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0403&pti=0400\"style=\"padding-top:5px;\">Hard Drive Camcorders</A>";				
 			    
-				    menu3[5] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0405&pti=0400\"style=\"padding-top:5px;\">Flash Memory Camcorders</A>";				
+				    menu3[5] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0405&pti=0400\"style=\"padding-top:5px;\">Flash Memory Camcorders</A>";				
 			    
-				    menu3[6] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1202&pti=0400\"style=\"padding-top:5px;\">Camcorder Recording Media</A>";				
+				    menu3[6] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1202&pti=0400\"style=\"padding-top:5px;\">Camcorder Recording Media</A>";				
 			    
-				    menu3[7] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1201&pti=0400\"style=\"padding-top:5px;\">Camcorder Accessories</A>";				
+				    menu3[7] = "<A onmouseout=\"hoverRow('3','out');\" onmouseover=\"hoverRow('3','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1201&pti=0400\"style=\"padding-top:5px;\">Camcorder Accessories</A>";				
 			    
 				var menu4=new Array();
 			
-				    menu4[1] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0502&pti=0500\"style=\"padding-top:5px;\">Point and Shoot</A>";				
+				    menu4[1] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0502&pti=0500\"style=\"padding-top:5px;\">Point and Shoot</A>";				
 			    
-				    menu4[2] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0503&pti=0500\"style=\"padding-top:5px;\">Digital SLR</A>";				
+				    menu4[2] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0503&pti=0500\"style=\"padding-top:5px;\">Digital SLR</A>";				
 			    
-				    menu4[3] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1215&pti=0500\"style=\"padding-top:5px;\">Digital Camera Memory Cards</A>";				
+				    menu4[3] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1215&pti=0500\"style=\"padding-top:5px;\">Digital Camera Memory Cards</A>";				
 			    
-				    menu4[4] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0504&pti=0500\"style=\"padding-top:5px;\">Photo Printers</A>";				
+				    menu4[4] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0504&pti=0500\"style=\"padding-top:5px;\">Photo Printers</A>";				
 			    
-				    menu4[5] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0505&pti=0500\"style=\"padding-top:5px;\">Digital Photo Frames</A>";				
+				    menu4[5] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0505&pti=0500\"style=\"padding-top:5px;\">Digital Photo Frames</A>";				
 			    
-				    menu4[6] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0506&pti=0500\"style=\"padding-top:5px;\">Telescopes</A>";				
+				    menu4[6] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0506&pti=0500\"style=\"padding-top:5px;\">Telescopes</A>";				
 			    
-				    menu4[7] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1214&pti=0500\"style=\"padding-top:5px;\">Camera Accessories</A>";				
+				    menu4[7] = "<A onmouseout=\"hoverRow('4','out');\" onmouseover=\"hoverRow('4','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1214&pti=0500\"style=\"padding-top:5px;\">Camera Accessories</A>";				
 			    
 				var menu5=new Array();
 			
-				    menu5[1] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0606&pti=0600\"style=\"padding-top:5px;\">Car Stereos & Components</A>";				
+				    menu5[1] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0606&pti=0600\"style=\"padding-top:5px;\">Car Stereos & Components</A>";				
 			    
-				    menu5[2] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0602&pti=0600\"style=\"padding-top:5px;\">Car CD Player</A>";				
+				    menu5[2] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0602&pti=0600\"style=\"padding-top:5px;\">Car CD Player</A>";				
 			    
-				    menu5[3] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0605&pti=0600\"style=\"padding-top:5px;\">Car Video</A>";				
+				    menu5[3] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0605&pti=0600\"style=\"padding-top:5px;\">Car Video</A>";				
 			    
-				    menu5[4] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0630&pti=0600\"style=\"padding-top:5px;\">Car Installation Accessories</A>";				
+				    menu5[4] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0630&pti=0600\"style=\"padding-top:5px;\">Car Installation Accessories</A>";				
 			    
-				    menu5[5] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0800&pti=0600\"style=\"padding-top:5px;\">Navigation</A>";				
+				    menu5[5] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0800&pti=0600\"style=\"padding-top:5px;\">Navigation</A>";				
 			    
-				    menu5[6] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0618&pti=0600\"style=\"padding-top:5px;\">Car Speakers</A>";				
+				    menu5[6] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0618&pti=0600\"style=\"padding-top:5px;\">Car Speakers</A>";				
 			    
-				    menu5[7] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0637&pti=0600\"style=\"padding-top:5px;\">Car Subwoofers</A>";				
+				    menu5[7] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0637&pti=0600\"style=\"padding-top:5px;\">Car Subwoofers</A>";				
 			    
-				    menu5[8] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0615&pti=0600\"style=\"padding-top:5px;\">Car Amplifiers</A>";				
+				    menu5[8] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0615&pti=0600\"style=\"padding-top:5px;\">Car Amplifiers</A>";				
 			    
-				    menu5[9] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0651&pti=0600\"style=\"padding-top:5px;\">iPod & MP3 Car Adapters</A>";				
+				    menu5[9] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0651&pti=0600\"style=\"padding-top:5px;\">iPod & MP3 Car Adapters</A>";				
 			    
-				    menu5[10] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0664&pti=0600\"style=\"padding-top:5px;\">HD Radio</A>";				
+				    menu5[10] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0659&pti=0600\"style=\"padding-top:5px;\">Changers & Tuners</A>";				
 			    
-				    menu5[11] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0646&pti=0600\"style=\"padding-top:5px;\">Car Accessories</A>";				
+				    menu5[11] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0664&pti=0600\"style=\"padding-top:5px;\">HD Radio</A>";				
+			    
+				    menu5[12] = "<A onmouseout=\"hoverRow('5','out');\" onmouseover=\"hoverRow('5','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0646&pti=0600\"style=\"padding-top:5px;\">Car Accessories</A>";				
 			    
 				var menu6=new Array();
 			
-				    menu6[1] = "<A onmouseout=\"hoverRow('6','out');\" onmouseover=\"hoverRow('6','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0604&pti=0800\"style=\"padding-top:5px;\">In Dash Navigation</A>";				
+				    menu6[1] = "<A onmouseout=\"hoverRow('6','out');\" onmouseover=\"hoverRow('6','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0604&pti=0800\"style=\"padding-top:5px;\">In Dash Navigation</A>";				
 			    
-				    menu6[2] = "<A onmouseout=\"hoverRow('6','out');\" onmouseover=\"hoverRow('6','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0908&pti=0800\"style=\"padding-top:5px;\">Portable Navigation</A>";				
+				    menu6[2] = "<A onmouseout=\"hoverRow('6','out');\" onmouseover=\"hoverRow('6','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0908&pti=0800\"style=\"padding-top:5px;\">Portable Navigation</A>";				
 			    
-				    menu6[3] = "<A onmouseout=\"hoverRow('6','out');\" onmouseover=\"hoverRow('6','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0671&pti=0800\"style=\"padding-top:5px;\">Navigation Accessories</A>";				
+				    menu6[3] = "<A onmouseout=\"hoverRow('6','out');\" onmouseover=\"hoverRow('6','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0671&pti=0800\"style=\"padding-top:5px;\">Navigation Accessories</A>";				
 			    
-				    menu6[4] = "<A onmouseout=\"hoverRow('6','out');\" onmouseover=\"hoverRow('6','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0804&pti=0800\"style=\"padding-top:5px;\">Navigation Warranties</A>";				
+				    menu6[4] = "<A onmouseout=\"hoverRow('6','out');\" onmouseover=\"hoverRow('6','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0804&pti=0800\"style=\"padding-top:5px;\">Navigation Warranties</A>";				
 			    
 				var menu7=new Array();
 			
-				    menu7[1] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0902&pti=0900\"style=\"padding-top:5px;\">MP3 Players</A>";				
+				    menu7[1] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0902&pti=0900\"style=\"padding-top:5px;\">MP3 Players</A>";				
 			    
-				    menu7[2] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0118&pti=0900\"style=\"padding-top:5px;\">Mini Systems</A>";				
+				    menu7[2] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0910&pti=0900\"style=\"padding-top:5px;\">iPod Sound Systems & Docks</A>";				
 			    
-				    menu7[3] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0910&pti=0900\"style=\"padding-top:5px;\">iPod Sound Systems & Docks</A>";				
+				    menu7[3] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1000&pti=0900\"style=\"padding-top:5px;\">Telephones</A>";				
 			    
-				    menu7[4] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0912&pti=0900\"style=\"padding-top:5px;\">Voice Recorders</A>";				
+				    menu7[4] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0912&pti=0900\"style=\"padding-top:5px;\">Voice Recorders</A>";				
 			    
-				    menu7[5] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0908&pti=0900\"style=\"padding-top:5px;\">Portable Navigation</A>";				
+				    menu7[5] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0908&pti=0900\"style=\"padding-top:5px;\">Portable Navigation</A>";				
 			    
-				    menu7[6] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0906&pti=0900\"style=\"padding-top:5px;\">Portable DVD Players</A>";				
+				    menu7[6] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0906&pti=0900\"style=\"padding-top:5px;\">Portable DVD Players</A>";				
 			    
-				    menu7[7] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1268&pti=0900\"style=\"padding-top:5px;\">Headphones</A>";				
+				    menu7[7] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1006&pti=0900\"style=\"padding-top:5px;\">Netbooks</A>";				
 			    
-				    menu7[8] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0914&pti=0900\"style=\"padding-top:5px;\">2-way Radios</A>";				
+				    menu7[8] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1268&pti=0900\"style=\"padding-top:5px;\">Headphones</A>";				
 			    
-				    menu7[9] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0911&pti=0900\"style=\"padding-top:5px;\">iPod Accessories</A>";				
+				    menu7[9] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0914&pti=0900\"style=\"padding-top:5px;\">2-way Radios</A>";				
+			    
+				    menu7[10] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0911&pti=0900\"style=\"padding-top:5px;\">iPod Accessories</A>";				
+			    
+				    menu7[11] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0916&pti=0900\"style=\"padding-top:5px;\">Small Appliances</A>";				
+			    
+				    menu7[12] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0915&pti=0900\"style=\"padding-top:5px;\">Vacuums & Floor Care</A>";				
+			    
+				    menu7[13] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1111&pti=0900\"style=\"padding-top:5px;\">Air Conditioners</A>";				
+			    
+				    menu7[14] = "<A onmouseout=\"hoverRow('7','out');\" onmouseover=\"hoverRow('7','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0935&pti=0900\"style=\"padding-top:5px;\">Video Games</A>";				
 			    
 				var menu8=new Array();
 			
-				    menu8[1] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1001&pti=1000\"style=\"padding-top:5px;\">Cordless Phones</A>";				
+				    menu8[1] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1106&pti=1100\"style=\"padding-top:5px;\">Projection TV Stands</A>";				
 			    
-				    menu8[2] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1003&pti=1000\"style=\"padding-top:5px;\">Cordless Multi Line Phones</A>";				
+				    menu8[2] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1107&pti=1100\"style=\"padding-top:5px;\">Flat Panel TV Stands</A>";				
 			    
-				    menu8[3] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1005&pti=1000\"style=\"padding-top:5px;\">Extra Handsets</A>";				
+				    menu8[3] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1108&pti=1100\"style=\"padding-top:5px;\">Audio Racks</A>";				
 			    
-				    menu8[4] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1002&pti=1000\"style=\"padding-top:5px;\">Corded Phones</A>";				
+				    menu8[4] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1105&pti=1100\"style=\"padding-top:5px;\">Speaker Stands & Brackets</A>";				
 			    
-				    menu8[5] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1006&pti=1000\"style=\"padding-top:5px;\">Netbooks</A>";				
-			    
-				    menu8[6] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1252&pti=1000\"style=\"padding-top:5px;\">Cell Phone Accessories</A>";				
+				    menu8[5] = "<A onmouseout=\"hoverRow('8','out');\" onmouseover=\"hoverRow('8','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1109&pti=1100\"style=\"padding-top:5px;\">Home Theater Seating</A>";				
 			    
 				var menu9=new Array();
 			
-				    menu9[1] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1106&pti=1100\"style=\"padding-top:5px;\">Projection TV Stands</A>";				
+				    menu9[1] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1278&pti=1200\"style=\"padding-top:5px;\">External Hard Drives</A>";				
 			    
-				    menu9[2] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1104&pti=1100\"style=\"padding-top:5px;\">Manufacturer Stands</A>";				
+				    menu9[2] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1206&pti=1200\"style=\"padding-top:5px;\">Warranties</A>";				
 			    
-				    menu9[3] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1107&pti=1100\"style=\"padding-top:5px;\">Flat Panel TV Stands</A>";				
+				    menu9[3] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1227&pti=1200\"style=\"padding-top:5px;\">TV & Video Accessories</A>";				
 			    
-				    menu9[4] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1108&pti=1100\"style=\"padding-top:5px;\">Audio Racks</A>";				
+				    menu9[4] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1274&pti=1200\"style=\"padding-top:5px;\">Camera Warranties</A>";				
 			    
-				    menu9[5] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1105&pti=1100\"style=\"padding-top:5px;\">Speaker Stands & Brackets</A>";				
+				    menu9[5] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1214&pti=1200\"style=\"padding-top:5px;\">Camera Accessories</A>";				
 			    
-				    menu9[6] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1109&pti=1100\"style=\"padding-top:5px;\">Home Theater Seating</A>";				
+				    menu9[6] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1201&pti=1200\"style=\"padding-top:5px;\">Camcorder Accessories</A>";				
 			    
-				    menu9[7] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1111&pti=1100\"style=\"padding-top:5px;\">Air Conditioners</A>";				
+				    menu9[7] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0710&pti=1200\"style=\"padding-top:5px;\">Satellite Radio Accessories</A>";				
+			    
+				    menu9[8] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0646&pti=1200\"style=\"padding-top:5px;\">Car Accessories</A>";				
+			    
+				    menu9[9] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1252&pti=1200\"style=\"padding-top:5px;\">Cell Phone Accessories</A>";				
+			    
+				    menu9[10] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1268&pti=1200\"style=\"padding-top:5px;\">Headphones</A>";				
+			    
+				    menu9[11] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=0911&pti=1200\"style=\"padding-top:5px;\">iPod Accessories</A>";				
+			    
+				    menu9[12] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1273&pti=1200\"style=\"padding-top:5px;\">Cases</A>";				
+			    
+				    menu9[13] = "<A onmouseout=\"hoverRow('9','out');\" onmouseover=\"hoverRow('9','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1209&pti=1200\"style=\"padding-top:5px;\">Recording Media</A>";				
 			    
 				var menu10=new Array();
 			
-				    menu10[1] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1278&pti=1200\"style=\"padding-top:5px;\">External Hard Drives</A>";				
+				    menu10[1] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1310&pti=1300\"style=\"padding-top:5px;\">For Dad</A>";				
 			    
-				    menu10[2] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1206&pti=1200\"style=\"padding-top:5px;\">Warranties</A>";				
+				    menu10[2] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1302&pti=1300\"style=\"padding-top:5px;\">For Him</A>";				
 			    
-				    menu10[3] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1227&pti=1200\"style=\"padding-top:5px;\">TV & Video Accessories</A>";				
+				    menu10[3] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1303&pti=1300\"style=\"padding-top:5px;\">For Her</A>";				
 			    
-				    menu10[4] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1274&pti=1200\"style=\"padding-top:5px;\">Camera Warranties</A>";				
+				    menu10[4] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1304&pti=1300\"style=\"padding-top:5px;\">For Teens</A>";				
 			    
-				    menu10[5] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1214&pti=1200\"style=\"padding-top:5px;\">Camera Accessories</A>";				
+				    menu10[5] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1305&pti=1300\"style=\"padding-top:5px;\">For Kids</A>";				
 			    
-				    menu10[6] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1201&pti=1200\"style=\"padding-top:5px;\">Camcorder Accessories</A>";				
-			    
-				    menu10[7] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0710&pti=1200\"style=\"padding-top:5px;\">Satellite Radio Accessories</A>";				
-			    
-				    menu10[8] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0646&pti=1200\"style=\"padding-top:5px;\">Car Accessories</A>";				
-			    
-				    menu10[9] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1252&pti=1200\"style=\"padding-top:5px;\">Cell Phone Accessories</A>";				
-			    
-				    menu10[10] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1268&pti=1200\"style=\"padding-top:5px;\">Headphones</A>";				
-			    
-				    menu10[11] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0911&pti=1200\"style=\"padding-top:5px;\">iPod Accessories</A>";				
-			    
-				    menu10[12] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1273&pti=1200\"style=\"padding-top:5px;\">Cases</A>";				
-			    
-				    menu10[13] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1209&pti=1200\"style=\"padding-top:5px;\">Recording Media</A>";				
+				    menu10[6] = "<A onmouseout=\"hoverRow('10','out');\" onmouseover=\"hoverRow('10','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1309&pti=1300\"style=\"padding-top:5px;\">For Mom</A>";				
 			    
 				var menu11=new Array();
 			
-				    menu11[1] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1310&pti=1300\"style=\"padding-top:5px;\">For Dad</A>";				
+				    menu11[1] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1501&pti=1500\"style=\"padding-top:5px;\">Clearance Televisions</A>";				
 			    
-				    menu11[2] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1302&pti=1300\"style=\"padding-top:5px;\">For Him</A>";				
+				    menu11[2] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1502&pti=1500\"style=\"padding-top:5px;\">Clearance Video</A>";				
 			    
-				    menu11[3] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1303&pti=1300\"style=\"padding-top:5px;\">For Her</A>";				
+				    menu11[3] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1503&pti=1500\"style=\"padding-top:5px;\">Clearance Receivers</A>";				
 			    
-				    menu11[4] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1304&pti=1300\"style=\"padding-top:5px;\">For Teens</A>";				
+				    menu11[4] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1504&pti=1500\"style=\"padding-top:5px;\">Clearance Speakers</A>";				
 			    
-				    menu11[5] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1305&pti=1300\"style=\"padding-top:5px;\">For Kids</A>";				
+				    menu11[5] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1506&pti=1500\"style=\"padding-top:5px;\">Clearance Camcorders</A>";				
 			    
-				    menu11[6] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1309&pti=1300\"style=\"padding-top:5px;\">For Mom</A>";				
+				    menu11[6] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1509&pti=1500\"style=\"padding-top:5px;\">Clearance Headphones</A>";				
 			    
-				var menu12=new Array();
-			
-				    menu12[1] = "<A onmouseout=\"hoverRow('12','out');\" onmouseover=\"hoverRow('12','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1502&pti=1500\"style=\"padding-top:5px;\">Clearance Video</A>";				
-			    
-				    menu12[2] = "<A onmouseout=\"hoverRow('12','out');\" onmouseover=\"hoverRow('12','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1503&pti=1500\"style=\"padding-top:5px;\">Clearance Receivers</A>";				
-			    
-				    menu12[3] = "<A onmouseout=\"hoverRow('12','out');\" onmouseover=\"hoverRow('12','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1504&pti=1500\"style=\"padding-top:5px;\">Clearance Speakers</A>";				
-			    
-				    menu12[4] = "<A onmouseout=\"hoverRow('12','out');\" onmouseover=\"hoverRow('12','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1509&pti=1500\"style=\"padding-top:5px;\">Clearance Headphones</A>";				
-			    
-				    menu12[5] = "<A onmouseout=\"hoverRow('12','out');\" onmouseover=\"hoverRow('12','in');\" href=\"http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1512&pti=1500\"style=\"padding-top:5px;\">Clearance Accessories</A>";				
+				    menu11[7] = "<A onmouseout=\"hoverRow('11','out');\" onmouseover=\"hoverRow('11','in');\" href=\"http://www.6ave.com/shop/Category.aspx?cti=1512&pti=1500\"style=\"padding-top:5px;\">Clearance Accessories</A>";				
 			    
 </script>
     
 	<table cellpadding="0" cellspacing="0" border="0" style="position:relative;" id="headerTableForFrame" width="995" height="29">
 		<tbody><tr style="background-image:url(../Assets/Images/home_bk_grey.gif)">
-			<!--<td background="../assets/images/home_button0.jpg" onmouseover="JavaScript:this.style.backgroundImage = 'url('+imgList2[0]+')';" onmouseout="JavaScript:this.style.backgroundImage = 'url('+imgList[0]+')';" id="div0" height="29" width="73" class="pointer_cursor" style="background-repeat:no-repeat;" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/home.aspx'"><img src='https://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/../Assets/Images/spacer.gif' width="73" height="1"></td>-->
+			<!--<td background="../assets/images/home_button0.jpg" onmouseover="JavaScript:this.style.backgroundImage = 'url('+imgList2[0]+')';" onmouseout="JavaScript:this.style.backgroundImage = 'url('+imgList[0]+')';" id="div0" height="29" width="73" class="pointer_cursor" style="background-repeat:no-repeat;" onclick="parent.location='http://www.6ave.com/shop/home.aspx'"><img src='https://www.6ave.com/shop/../Assets/Images/spacer.gif' width="73" height="1"></td>-->
 			
 				<td valign="bottom">
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('1','in');showFrame('dropmenu1','block');dropdownmenu(this, event, menu1, '240px');" onmouseout="hoverRow('1','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0100&amp;pti=0100&amp;ctype=1'" id="div1" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('1','in');showFrame('dropmenu1','block');dropdownmenu(this, event, menu1, '240px');" onmouseout="hoverRow('1','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=0100&amp;pti=0100&amp;ctype=1'" id="div1" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
 								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">Home Theater &amp; Audio</span>
 							</td>
 						
@@ -647,7 +629,7 @@ var imgObj2 = new Array();
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('2','in');showFrame('dropmenu2','block');dropdownmenu(this, event, menu2, '240px');" onmouseout="hoverRow('2','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0200&amp;pti=0200&amp;ctype=1'" id="div2" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('2','in');showFrame('dropmenu2','block');dropdownmenu(this, event, menu2, '240px');" onmouseout="hoverRow('2','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=0200&amp;pti=0200&amp;ctype=1'" id="div2" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
 								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">TV &amp; Video</span>
 							</td>
 						
@@ -660,7 +642,7 @@ var imgObj2 = new Array();
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('3','in');showFrame('dropmenu3','block');dropdownmenu(this, event, menu3, '240px');" onmouseout="hoverRow('3','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0400&amp;pti=0400&amp;ctype=1'" id="div3" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('3','in');showFrame('dropmenu3','block');dropdownmenu(this, event, menu3, '240px');" onmouseout="hoverRow('3','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=0400&amp;pti=0400&amp;ctype=1'" id="div3" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
 								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">Camcorders</span>
 							</td>
 						
@@ -673,7 +655,7 @@ var imgObj2 = new Array();
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('4','in');showFrame('dropmenu4','block');dropdownmenu(this, event, menu4, '240px');" onmouseout="hoverRow('4','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0500&amp;pti=0500&amp;ctype=1'" id="div4" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('4','in');showFrame('dropmenu4','block');dropdownmenu(this, event, menu4, '240px');" onmouseout="hoverRow('4','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=0500&amp;pti=0500&amp;ctype=1'" id="div4" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
 								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">Digital Cameras</span>
 							</td>
 						
@@ -686,7 +668,7 @@ var imgObj2 = new Array();
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('5','in');showFrame('dropmenu5','block');dropdownmenu(this, event, menu5, '240px');" onmouseout="hoverRow('5','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0600&amp;pti=0600&amp;ctype=1'" id="div5" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('5','in');showFrame('dropmenu5','block');dropdownmenu(this, event, menu5, '240px');" onmouseout="hoverRow('5','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=0600&amp;pti=0600&amp;ctype=1'" id="div5" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
 								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">Car Audio &amp; Video</span>
 							</td>
 						
@@ -699,7 +681,7 @@ var imgObj2 = new Array();
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('6','in');showFrame('dropmenu6','block');dropdownmenu(this, event, menu6, '240px');" onmouseout="hoverRow('6','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0800&amp;pti=0800&amp;ctype=1'" id="div6" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('6','in');showFrame('dropmenu6','block');dropdownmenu(this, event, menu6, '240px');" onmouseout="hoverRow('6','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=0800&amp;pti=0800&amp;ctype=1'" id="div6" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
 								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">Navigation</span>
 							</td>
 						
@@ -712,8 +694,8 @@ var imgObj2 = new Array();
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('7','in');showFrame('dropmenu7','block');dropdownmenu(this, event, menu7, '240px');" onmouseout="hoverRow('7','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=0900&amp;pti=0900&amp;ctype=1'" id="div7" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
-								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">MP3 &amp; Portables</span>
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('7','in');showFrame('dropmenu7','block');dropdownmenu(this, event, menu7, '240px');" onmouseout="hoverRow('7','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=0900&amp;pti=0900&amp;ctype=1'" id="div7" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">Home &amp; Office</span>
 							</td>
 						
 							<td height="29"><img src="/Assets/Images/home_bk_spacer.gif" border="0"></td>
@@ -725,20 +707,7 @@ var imgObj2 = new Array();
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('8','in');showFrame('dropmenu8','block');dropdownmenu(this, event, menu8, '240px');" onmouseout="hoverRow('8','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1000&amp;pti=1000&amp;ctype=1'" id="div8" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
-								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">Telephones</span>
-							</td>
-						
-							<td height="29"><img src="/Assets/Images/home_bk_spacer.gif" border="0"></td>
-						</tr>
-					</tbody></table>
-				</td>
-				
-				<td valign="bottom">
-					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
-						<tbody><tr>
-						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('9','in');showFrame('dropmenu9','block');dropdownmenu(this, event, menu9, '240px');" onmouseout="hoverRow('9','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1100&amp;pti=1100&amp;ctype=1'" id="div9" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('8','in');showFrame('dropmenu8','block');dropdownmenu(this, event, menu8, '240px');" onmouseout="hoverRow('8','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=1100&amp;pti=1100&amp;ctype=1'" id="div8" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
 								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">AV Furniture</span>
 							</td>
 						
@@ -751,7 +720,7 @@ var imgObj2 = new Array();
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('10','in');showFrame('dropmenu10','block');dropdownmenu(this, event, menu10, '240px');" onmouseout="hoverRow('10','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1200&amp;pti=1200&amp;ctype=1'" id="div10" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('9','in');showFrame('dropmenu9','block');dropdownmenu(this, event, menu9, '240px');" onmouseout="hoverRow('9','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=1200&amp;pti=1200&amp;ctype=1'" id="div9" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
 								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">Accessories</span>
 							</td>
 						
@@ -764,7 +733,7 @@ var imgObj2 = new Array();
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('11','in');showFrame('dropmenu11','block');dropdownmenu(this, event, menu11, '240px');" onmouseout="hoverRow('11','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1300&amp;pti=1300&amp;ctype=1'" id="div11" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('10','in');showFrame('dropmenu10','block');dropdownmenu(this, event, menu10, '240px');" onmouseout="hoverRow('10','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=1300&amp;pti=1300&amp;ctype=1'" id="div10" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
 								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">Gift Center</span>
 							</td>
 						
@@ -777,7 +746,7 @@ var imgObj2 = new Array();
 					<table width="100%" border="0" cellspacing="0" cellpadding="0" height="29">
 						<tbody><tr>
 						
-							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('12','in');showFrame('dropmenu12','block');dropdownmenu(this, event, menu12, '240px');" onmouseout="hoverRow('12','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/home.aspx/include/include/include/include/include/include/include/include/Assets/Images/footer/Assets/Images/nav_menu_images/Category.aspx?cti=1500&amp;pti=1500&amp;ctype=1'" id="div12" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
+							<td background="../Assets/Images/home_bk_grey.gif" onmouseover="hoverRow('11','in');showFrame('dropmenu11','block');dropdownmenu(this, event, menu11, '240px');" onmouseout="hoverRow('11','out');delayhidemenu();" onclick="parent.location='http://www.6ave.com/shop/Category.aspx?cti=1500&amp;pti=1500&amp;ctype=1'" id="div11" class="pointer_cursor" align="center" valign="middle" style="padding-left:0px; padding-right:0px; padding-top:5px;" nowrap="nowrap">
 								<span style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#646464;">Clearance Center</span>
 							</td>
 						
@@ -814,9 +783,7 @@ var imgObj2 = new Array();
               
               <option value="0800">Navigation</option>
               
-              <option value="0900">MP3 &amp; Portables</option>
-              
-              <option value="1000">Telephones</option>
+              <option value="0900">Home &amp; Office</option>
               
               <option value="1100">AV Furniture</option>
               
@@ -837,7 +804,7 @@ var imgObj2 = new Array();
                 <tr>
                   <td><div align="right">
                       
-                      <span class="arial_text">Please</span> <a href="https://www.6ave.com/Shop/login_myaccount.aspx"><span class="blue_font"><font color="6699CC">sign in</font></span></a><span class="arial_text"> or</span> <a href="https://www.6ave.com/Shop/login_myaccount.aspx"><span class="blue_font"><font color="6699CC">create an account</font></span></a>
+                      <span class="arial_text">Please</span> <a href="https://www.6ave.com/shop/login_myaccount.aspx"><span class="blue_font"><font color="6699CC">sign in</font></span></a><span class="arial_text"> or</span> <a href="https://www.6ave.com/shop/login_myaccount.aspx"><span class="blue_font"><font color="6699CC">create an account</font></span></a>
                       
                   </div></td>
                 </tr>
@@ -847,7 +814,7 @@ var imgObj2 = new Array();
           <td width="125"><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
               <tbody><tr>
                 <td align="right"><span class="standard_bold_text">
-                  <a id="Header_cart_lnk" href="http://www.6ave.com/Shop/basket.aspx"><b>Cart (0 items)</b></a>
+                  <a id="Header_cart_lnk" href="http://www.6ave.com/shop/basket.aspx"><b>Cart (0 items)</b></a>
                 </span> </td>
               </tr>
               <tr>
@@ -896,13 +863,15 @@ pageTracker._trackPageview();
         <td valign="top"><div id="customer_layer">
 		    <table width="100%" cellspacing="0" cellpadding="0">
               <tbody><tr>
-                <td><img src="/Assets/Images/holiday09hours.jpg"></td>
+                <td><img src="/Assets/Images/holiday-homepage-cs.jpg"></td>
               </tr>
               <tr>
-                <td><div align="center"><span class="days_text">                Mon - Fri:</span> <span class="times_text">8AM - 10PM</span><br>
-                  <span class="days_text">Sat - Sun: </span><span class="times_text">9AM - 10PM</span><br>
-                      <span class="zone_text">[ All times EST ]</span><br>
-                  <img height="5" src="/Assets/Images/nav_menu_images/white_spacer.gif" width="5"></div></td>
+                <td><img height="5" src="/Assets/Images/nav_menu_images/white_spacer.gif" width="5"><br>
+<span class="days_text">                Mon - Fri:</span> <span class="times_text">8AM - 9PM</span><br>
+                    <span class="days_text">Sat:</span> <span class="times_text">9AM - 9PM</span><br>
+                    <span class="days_text">Sun:</span> <span class="times_text">9AM - 7PM</span><br>
+                <span class="zone_text">[ All times EST ]</span><br>
+                <img height="5" src="/Assets/Images/nav_menu_images/white_spacer.gif" width="5"></td>
               </tr>
             </tbody></table>
 		  </div>        </td>
@@ -922,124 +891,124 @@ pageTracker._trackPageview();
         <td><table width="151" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
                   <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="https://www.6ave.com/Shop/track_order.aspx?np=order_status.aspx">Track Order</a></span></td>
+                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="https://www.6ave.com/shop/track_order.aspx?np=order_status.aspx">Track Order</a></span></td>
                 </tr>
             </tbody></table>
               <table width="151" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
                   <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=faq.htm#shipping_questions">Shipping Information</a></span></td>
+                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm#shipping_questions">Shipping Information</a></span></td>
                 </tr>
             </tbody></table>
               <table width="151" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
                   <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=faq.htm#return_policy_questions">Return Policy</a></span></td>
+                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm#return_policy_questions">Return Policy</a></span></td>
                 </tr>
             </tbody></table>
               <table width="151" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
                   <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=privacy_statement.htm">Privacy Policy</a></span></td>
+                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=privacy_statement.htm">Privacy Policy</a></span></td>
                 </tr>
             </tbody></table>
               <table width="151" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
                   <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=faq.htm">FAQ's</a></span></td>
+                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm">FAQ's</a></span></td>
                 </tr>
             </tbody></table>
             <table width="151" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
                   <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="https://www.6ave.com/Shop/login_myaccount.aspx?np=order_status.aspx">Your Account</a> </span></td>
+                  <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="https://www.6ave.com/shop/login_myaccount.aspx?np=order_status.aspx">Your Account</a> </span></td>
                 </tr>
             </tbody></table>
             <table width="151" border="0" cellspacing="0" cellpadding="1">
               <tbody><tr>
                 <td width="10">&nbsp;</td>
                 <td width="10" valign="bottom"><font color="0068d5" ;="" size="2"> »</font></td>
-                <td valign="bottom"><a href="http://www.6ave.com/Shop/profile.aspx">Update Profile</a></td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/profile.aspx">Update Profile</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
                 <td valign="bottom"><font color="0068d5" ;="" size="2"> »</font></td>
-                <td valign="bottom"><a href="http://www.6ave.com/Shop/order_status.aspx">Order History</a></td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/order_status.aspx">Order History</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
                 <td valign="bottom"><font color="0068d5" ;="" size="2"> »</font></td>
-                <td valign="bottom"><a href="http://www.6ave.com/Shop/RequestPassword.aspx">Password Reset</a></td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/RequestPassword.aspx">Password Reset</a></td>
               </tr>
             </tbody></table>
             <img src="/Assets/Images/nav_menu_images/white_spacer.gif" width="5" height="5"><br>
             <table width="151" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-                <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=company_profile.htm">About Us</a> </span></td>
+                <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=company_profile.htm">About Us</a> </span></td>
               </tr>
             </tbody></table>
             <table width="151" border="0" cellspacing="0" cellpadding="1">
               <tbody><tr>
                 <td width="10">&nbsp;</td>
                 <td width="10" valign="bottom"><font color="0068d5" ;="" size="2"> »</font></td>
-                <td valign="bottom"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=company_profile.htm">Our History </a></td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=company_profile.htm">Our History </a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
                 <td valign="bottom"><font color="0068d5" ;="" size="2"> »</font></td>
-                <td valign="bottom"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=careers.htm">Careers</a></td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=careers.htm">Careers</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
                 <td valign="bottom"><font color="0068d5" ;="" size="2"> »</font></td>
-                <td valign="bottom"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=press_releases.htm">Press Releases</a><span class="style3 style36"></span></td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=press_releases.htm">Press Releases</a><span class="style3 style36"></span></td>
               </tr>
             </tbody></table>
             <table width="151" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-                <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=home_car_instalation.htm">Our Services</a></span></td>
+                <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=home_car_instalation.htm">Our Services</a></span></td>
               </tr>
             </tbody></table>
             <table width="151" border="0" cellspacing="0" cellpadding="1">
               <tbody><tr>
                 <td width="10">&nbsp;</td>
                 <td width="10" valign="bottom"><font color="0068d5" ;="" size="2"> »</font></td>
-                <td valign="bottom"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=home_car_instalation.htm">Home Installation </a></td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=home_car_instalation.htm">Home Installation </a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
                 <td valign="bottom"><font color="0068d5" ;="" size="2"> »</font></td>
-                <td valign="bottom"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=car_audio.htm">Car Installation</a></td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=car_audio.htm">Car Installation</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
                 <td valign="bottom"><font color="0068d5" ;="" size="2"> »</font><span class="style3 style36"></span> </td>
-                <td valign="bottom"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=home_automation.htm">Home Automation</a></td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=home_automation.htm">Home Automation</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
                 <td valign="bottom"><font color="0068d5" ;="" size="2"> »</font><span class="style3 style36"></span> </td>
-                <td valign="bottom"><a href="http://www.6ave.com/Shop/B2B.aspx">B2B</a></td>
+                <td valign="bottom"><a href="http://www.6ave.com/shop/B2B.aspx">B2B</a></td>
               </tr>
             </tbody></table>
             <table width="151" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-                <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=stores_locator.htm">Store Locator</a></span></td>
+                <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=stores_locator.htm">Store Locator</a></span></td>
               </tr>
             </tbody></table>
             <table width="151" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
               <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-              <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=contact_us.htm">Contact Us</a></span></td>
+              <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=contact_us.htm">Contact Us</a></span></td>
             </tr>
           </tbody></table>
           <table width="151" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr>
               <td width="5" height="20" bgcolor="f0f0f0">&nbsp;</td>
-              <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/Shop/sitemap.aspx">Site Map</a></span></td>
+              <td bgcolor="f0f0f0"><span class="cml_darkgrayb_text_11"><a href="http://www.6ave.com/shop/sitemap.aspx">Site Map</a></span></td>
             </tr>
           </tbody></table></td>
       </tr>
@@ -1305,7 +1274,7 @@ a.black_link_12px:visited { font-family:Arial, Helvetica, sans-serif; font-size:
 .style10 {font-size: small; font-weight: normal; text-decoration: none; font-family: Arial, Helvetica, sans-serif;}
 </style>
 <table width="675" border="0">
-  <tbody><tr>
+  <tbody><tr align="left">
     <td><img src="../Assets/Images/privacy_policy_images/privacypolicy.jpg"><br>
     <span class="navigation_tab">&gt;&gt; <a href="/shop/home.aspx" class="navigation_tab">Home</a> &gt;&gt; Privacy Policy </span></td>
   </tr>
@@ -1316,7 +1285,7 @@ a.black_link_12px:visited { font-family:Arial, Helvetica, sans-serif; font-size:
   </tr>
 </tbody></table>
 <table width="675" border="0">
-  <tbody><tr>
+  <tbody><tr align="left">
     <td><p class="black_12px">Sixth  Avenue Electronics respects your right to privacy and your right to know how  your information is being used. While we need to collect certain information  from you to process your order and provide essential customer service, we take  all possible measures to protect your personal information.<br>
         <br>
         By  using our website, you consent to the use of your information as outlined in  this policy and agree to its terms. We value your business and strive to make  your shopping experience at 6ave.com a positive one. Should you have any  questions regarding our privacy policy, please contact <a href="usertpl.aspx?fle=customer_service.htm">Customer Service</a> at 1-877-684-2831 or <a href="mailto:customerservice@6ave.com">customerservice@6ave.com</a>.</p>
@@ -1352,7 +1321,7 @@ a.black_link_12px:visited { font-family:Arial, Helvetica, sans-serif; font-size:
   </tr>
 </tbody></table>
 <table width="675" border="0">
-  <tbody><tr>
+  <tbody><tr align="left">
     <td class="style7"><p class="style8"><span class="style4"><strong><a name="purchases" id="purchases"></a><a href="#privacy_links"><img src="../Assets/Images/privacy_policy_images/left_up_double_arrow.jpg" alt="Return to Privacy Policy Navigational Links" width="9" height="14" border="0"></a> Purchases</strong><br>
       6ave.com allows our customers to purchase  products online. In order to process these orders, we must collect your full  name, billing address, shipping address, telephone numbers, email address, and  credit card information including the type of card, the card number, the expiration  date, and the card holder's name. This information is collected and transmitted  using secure technology provided by VeriSign, Inc. and Hacker Safe. It is  stored by us on our secure servers to allow us to perform essential functions  including processing credit card reconciliations, providing customer service,  and handling audits and warranty claims.<br>
       <br>
@@ -1364,7 +1333,12 @@ As a convenience to our online purchasers, we offer the option of storing your p
     <p class="style8">&nbsp;</p>
     <p class="style8">&nbsp;</p>
     <p class="style8"><span class="style4"><strong><a name="sharing_information" id="sharing_information"></a><a href="#privacy_links"><img src="../Assets/Images/privacy_policy_images/left_up_double_arrow.jpg" alt="Return to Privacy Policy Navigational Links" width="9" height="14" border="0"></a> Sharing Information</strong><br>
-      6ave.com respects your right to privacy.  Protecting this right is something we take very seriously.&nbsp; As a result, we do not share your information  with any third party.</span></p>
+      6ave.com respects your right to privacy.  Protecting this right is something we take very seriously.&nbsp; As a result, we do not share your information  with any non-sanctioned third party. </span><span class="style4">When necessary, we use third-party advertising companies to serve ads when you visit our Website. These
+companies may use information (not including your name, address email address or
+telephone number) about your visits to this and other Web sites in order to provide
+advertisements about goods and services of interest to you. If you would like more
+information about this practice and to know your choices about not having this information
+used by these companies, <a href="http://www.fetchback.com/optout.html" target="_blank">click here.</a></span></p>
     <p class="style8">&nbsp;</p>
     <p class="style8">&nbsp;</p>
     <p class="style8"><span class="style4"><strong><a name="security" id="security"></a><a href="#privacy_links"><img src="../Assets/Images/privacy_policy_images/left_up_double_arrow.jpg" alt="Return to Privacy Policy Navigational Links" width="9" height="14" border="0"></a> Security</strong><br>
@@ -1411,7 +1385,6 @@ For our internal purposes, we gather date, time, pages visited, originating sear
 						
 <link href="../Assets/StyleSheets/footerstyle.css" rel="stylesheet" type="text/css">
 <br>
-
 <table width="674" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td><img src="../Assets/Images/footer/horizontal_gray_bar.gif" width="674" height="2"></td>
@@ -1419,27 +1392,24 @@ For our internal purposes, we gather date, time, pages visited, originating sear
 </tbody></table>
 <table width="674" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td width="5">&nbsp;</td>
-		<td><a href="http://www.6ave.com/shop/usertpl.aspx?fle=ge_splash_page.htm"><img src="/Assets/Images/CC-Footer-12months.jpg" alt="The Six Ave Credit Card 90 Days No Interest No Money Down" border="0"></a></td>
-		<td width="15"><img src="../Assets/Images/footer/footer_midtable_dotline.gif" width="2" height="91"></td>
-        <td><div align="center"><a href="https://www.pricegrabber.com/rating_getreview.php/retid=407"><img border="0" src="https://a248.e.akamai.net/f/248/10025/1d/www.pricegrabber.com/merchant_rating_image_secure.php?retid=XXX" alt="PriceGrabber User Ratings for 6thAve"></a></div></td>
-      <td width="155"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td colspan="2"><div align="center">
-					<script src="https://seal.verisign.com/getseal?host_name=www.6ave.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
-				  </div>					</td>
-				</tr>
-				<tr>
-					<td colspan="2"><div align="center"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.6ave.com"><img border="0" src="//images.scanalert.com/meter/www.6ave.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a><br>
-					  <img height="5" src="../Assets/Images/nav_menu_images/white_spacer.gif" width="5"></div>					</td>
-				</tr>
-				
-			</tbody></table>
-      </td>
-		<td width="5">&nbsp;</td>
-		<td><a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1050920105115"><img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="../Assets/Images/bbbseal1US.gif" alt="Click to verify BBB accreditation and to see a BBB report."></a></td>
-		<td width="10">&nbsp;</td>
-	</tr>
+	  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td colspan="2"><div align="center">
+              <script src="https://seal.verisign.com/getseal?host_name=www.6ave.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+          </div></td>
+        </tr>
+        <tr>
+          <td colspan="2"><div align="center"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.6ave.com"><img border="0" src="//images.scanalert.com/meter/www.6ave.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a><br>
+                  <img height="5" src="../Assets/Images/nav_menu_images/white_spacer.gif" width="5"></div></td>
+        </tr>
+      </tbody></table></td>
+	  <td width="25">&nbsp;</td>
+	  <td><div align="center"><img src="/Assets/Images/payment-options2.jpg"></div></td>
+	  <td width="55"><div align="center"><img src="../Assets/Images/footer/footer_midtable_dotline.gif" width="2" height="91"></div></td>
+	  <td><div align="center"><a href="https://www.pricegrabber.com/rating_getreview.php/retid=407"><img border="0" src="https://a248.e.akamai.net/f/248/10025/1d/www.pricegrabber.com/merchant_rating_image_secure.php?retid=XXX" alt="PriceGrabber User Ratings for 6thAve"></a></div></td>
+	  <td width="30">&nbsp;</td>
+	  <td><div align="center"><a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1050920105115"><img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="../Assets/Images/bbbseal1US.gif" alt="Click to verify BBB accreditation and to see a BBB report."></a></div></td>
+  </tr>
 </tbody></table>
 <table width="674" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
@@ -1451,25 +1421,25 @@ For our internal purposes, we gather date, time, pages visited, originating sear
 		<td width="225" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
 					<td width="4">&nbsp;</td>
-					<td height="25" colspan="3"><span class="footer_blueb_11">&nbsp;Services+</span><span class="footer_grayb_11">Solutions</span></td>
+					<td height="25" colspan="3"><div align="left"><span class="footer_blueb_11">&nbsp;Services+</span><span class="footer_grayb_11">Solutions</span></div></td>
 				</tr>
 				<tr>
 					<td>&nbsp;</td>
 					<td width="4">&nbsp;</td>
-				  <td width="125" valign="top" class="footer_text"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=customer_service.htm">Customer 
-							Service<br>
-						</a> <a href="https://www.6ave.com/shop/track_order.aspx?np=order_status.aspx">Track 
-							Order </a>
-					  <br>
-					  <a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm#shipping_questions">Shipping Info</a><br>																			
-						<a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm#return_policy_questions">
-							Return Policy</a><br>
-					      <a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm#policy_procedure_q1">Pricematch
-							Policy</a><br>
-	              <a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm">FAQ's</a><a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm"></a><br>
-				  <a href="http://www.6ave.com/shop/B2B.aspx">B2B</a><a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm">
-	              </a></td>
-					<td width="86" valign="top"><p class="footer_text"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=company_profile.htm">About 
+				  <td width="125" valign="top" class="footer_text"><div align="left"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=customer_service.htm">Customer 
+				    Service<br>
+				    </a> <a href="https://www.6ave.com/shop/track_order.aspx?np=order_status.aspx">Track 
+				      Order </a>
+				      <br>
+				      <a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm#shipping_questions">Shipping Info</a><br>																			
+				    <a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm#return_policy_questions">
+				      Return Policy</a><br>
+				      <a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm#policy_procedure_q1">Pricematch
+				        Policy</a><br>
+				              <a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm">FAQ's</a><a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm"></a><br>
+				              <a href="http://www.6ave.com/shop/B2B.aspx">B2B</a><a href="http://www.6ave.com/shop/usertpl.aspx?fle=faq.htm">
+			      </a></div></td>
+					<td width="86" valign="top"><p align="left" class="footer_text"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=company_profile.htm">About 
 					  Us</a><br>
 				        <a href="http://www.6ave.com/shop/usertpl.aspx?fle=careers.htm">Careers</a><br>
 				        <a href="http://www.6ave.com/shop/usertpl.aspx?fle=home_car_instalation.htm">Home &amp; Car Installation</a><br>
@@ -1485,12 +1455,10 @@ For our internal purposes, we gather date, time, pages visited, originating sear
 		<td width="10" align="left"><img src="../Assets/Images/footer/footer_btm_dotline.gif" width="2" height="91"></td>
 		<td width="100" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td height="25"><span class="footer_blueb_11">Tools</span><span class="footer_grayb_11">Online </span></td>
+					<td height="25"><div align="left"><span class="footer_blueb_11">Tools</span><span class="footer_grayb_11">Online </span></div></td>
 				</tr>
 				<tr>
-					<td><p class="footer_text"><a href="http://www.6ave.com/shop/rebates.aspx">Find a Rebate</a><br>
-					
-					<a href="http://www.6ave.com/shop/learningcenter.aspx">Learning Center</a></p></td>
+					<td><p align="left" class="footer_text"><a href="http://www.6ave.com/shop/rebates.aspx">Find a Rebate</a></p></td>
 				</tr>
 			
 			</tbody></table>
@@ -1498,35 +1466,37 @@ For our internal purposes, we gather date, time, pages visited, originating sear
 		<td width="10" align="left"><img src="../Assets/Images/footer/footer_btm_dotline.gif" width="2" height="91"></td>
 		<td width="100" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td height="25"><span class="footer_blueb_11">Deals</span><span class="footer_grayb_11">Online</span></td>
+					<td height="25"><div align="left"><span class="footer_blueb_11">Deals</span><span class="footer_grayb_11">Online</span></div></td>
 				</tr>
 				<tr>
-					<td class="footer_text"><a href="http://www.6ave.com/shop/Category.aspx?cti=1312&amp;pti=1300">Exclusive Deals</a>
-					  <a href="http://www.6ave.com/shop/Category.aspx?cti=1311&amp;pti=1300">New Arrivals</a> <br>
-	              <a href="http://www.6ave.com/shop/usertpl.aspx?fle=weekly_ad.htm">Weekly Ad</a><p></p></td>
+					<td class="footer_text"><div align="left"><a href="http://www.6ave.com/shop/Category.aspx?cti=1312&amp;pti=1300">Exclusive Deals</a>
+					    <a href="http://www.6ave.com/shop/Category.aspx?cti=1311&amp;pti=1300">New Arrivals</a> <br>
+					        <a href="http://www.6ave.com/shop/usertpl.aspx?fle=weekly_ad.htm">Weekly Ad</a>
+					  <p></p>
+				  </div></td>
 				</tr>
 			</tbody></table>
 	  </td>
 		<td width="10" align="left"><img src="../Assets/Images/footer/footer_btm_dotline.gif" width="2" height="91"></td>
 	  <td width="220" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td height="25" colspan="2"><span class="footer_blueb_11">Shop</span><span class="footer_grayb_11">Categories</span></td>
+					<td height="25" colspan="2"><div align="left"><span class="footer_blueb_11">Shop</span><span class="footer_grayb_11">Categories</span></div></td>
 				</tr>
 			</tbody></table>
 	    <table width="100%" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="60%"><a href="http://www.6ave.com/shop/Category.aspx?cti=0100&amp;pti=0100&amp;ctype=1">Home Theater/Audio</a> 
-        <a href="http://www.6ave.com/shop/Category.aspx?cti=0200&amp;pti=0200&amp;ctype=1">TV/Video</a><br>
-        <a href="http://www.6ave.com/shop/Category.aspx?cti=0400&amp;pti=0400&amp;ctype=1">Camcorders</a><br>
-        <a href="http://www.6ave.com/shop/Category.aspx?cti=0500&amp;pti=0500&amp;ctype=1">Digital Cameras</a><br>
-        <a href="http://www.6ave.com/shop/Category.aspx?cti=0600&amp;pti=0600&amp;ctype=1">Car Audio/Video</a><br>
-        <a href="http://www.6ave.com/shop/Category.aspx?cti=0800&amp;pti=0800&amp;ctype=1">Navigation</a></td>
-            <td width="42%" valign="top"><a href="http://www.6ave.com/shop/Category.aspx?cti=0700&amp;pti=0700&amp;ctype=1">Satellite Radio</a><br>
-          <a href="http://www.6ave.com/shop/Category.aspx?cti=0900&amp;pti=0900&amp;ctype=1">MP3/Portables</a><br>
-          <a href="http://www.6ave.com/shop/Category.aspx?cti=1000&amp;pti=1000&amp;ctype=1">Telephones</a><br>
-          <a href="http://www.6ave.com/shop/Category.aspx?cti=1100&amp;pti=1100&amp;ctype=1">AV Furniture</a><br>
-          <a href="http://www.6ave.com/shop/Category.aspx?cti=1200&amp;pti=1200&amp;ctype=1">Accessories</a><br>
-          <a href="http://www.6ave.com/shop/Category.aspx?cti=1300&amp;pti=1300&amp;ctype=1">Gift Center</a></td>
+            <td width="60%"><div align="left"><a href="http://www.6ave.com/shop/Category.aspx?cti=0100&amp;pti=0100&amp;ctype=1">Home Theater/Audio</a> 
+                      <a href="http://www.6ave.com/shop/Category.aspx?cti=0200&amp;pti=0200&amp;ctype=1">TV/Video</a><br>
+                      <a href="http://www.6ave.com/shop/Category.aspx?cti=0400&amp;pti=0400&amp;ctype=1">Camcorders</a><br>
+                      <a href="http://www.6ave.com/shop/Category.aspx?cti=0500&amp;pti=0500&amp;ctype=1">Digital Cameras</a><br>
+                      <a href="http://www.6ave.com/shop/Category.aspx?cti=0600&amp;pti=0600&amp;ctype=1">Car Audio/Video</a><br>
+                    <a href="http://www.6ave.com/shop/Category.aspx?cti=0800&amp;pti=0800&amp;ctype=1">Navigation</a></div></td>
+            <td width="42%" valign="top"><div align="left"><a href="http://www.6ave.com/shop/Category.aspx?cti=0700&amp;pti=0700&amp;ctype=1">Satellite Radio</a><br>
+                    <a href="http://www.6ave.com/shop/Category.aspx?cti=0900&amp;pti=0900&amp;ctype=1">Home &amp; Office</a><br>
+                    <a href="http://www.6ave.com/shop/Category.aspx?cti=1000&amp;pti=1000&amp;ctype=1">Telephones</a><br>
+                    <a href="http://www.6ave.com/shop/Category.aspx?cti=1100&amp;pti=1100&amp;ctype=1">AV Furniture</a><br>
+                    <a href="http://www.6ave.com/shop/Category.aspx?cti=1200&amp;pti=1200&amp;ctype=1">Accessories</a><br>
+                  <a href="http://www.6ave.com/shop/Category.aspx?cti=1300&amp;pti=1300&amp;ctype=1">Gift Center</a></div></td>
             <td width="2%">&nbsp;</td>
           </tr>
         </tbody></table></td>
@@ -1553,472 +1523,10 @@ For our internal purposes, we gather date, time, pages visited, originating sear
 		</td>
 	</tr>
 	<tr>
-		<td height="25"><div align="center"><span class="footer_lightgray_10">Copyright ©1995-2009 Sixth Avenue Electronics. Inc. All rights reserved.</span></div>
+		<td height="25"><div align="center"><span class="footer_lightgray_10">Copyright ©1995-2010 Sixth Avenue Electronics. Inc. All rights reserved.</span></div>
 		</td>
 	</tr>
 </tbody></table>
-
-<!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2007/02/16 11:44:56 $ -->
-<script type="text/javascript"><!--
-var gService = false;
-var gTimeZone = -5;
-// Code section for Enable First-Party Cookie Tracking
-function dcsCookie(){
-	if (typeof(dcsOther)=="function"){
-		dcsOther();
-	}
-	else if (typeof(dcsPlugin)=="function"){
-		dcsPlugin();
-	}
-	else if (typeof(dcsFPC)=="function"){
-		dcsFPC(gTimeZone);
-	}
-}
-function dcsGetCookie(name){
-	var pos=document.cookie.indexOf(name+"=");
-	if (pos!=-1){
-		var start=pos+name.length+1;
-		var end=document.cookie.indexOf(";",start);
-		if (end==-1){
-			end=document.cookie.length;
-		}
-		return unescape(document.cookie.substring(start,end));
-	}
-	return null;
-}
-function dcsGetCrumb(name,crumb){
-	var aCookie=dcsGetCookie(name).split(":");
-	for (var i=0;i<aCookie.length;i++){
-		var aCrumb=aCookie[i].split("=");
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsGetIdCrumb(name,crumb){
-	var cookie=dcsGetCookie(name);
-	var id=cookie.substring(0,cookie.indexOf(":lv="));
-	var aCrumb=id.split("=");
-	for (var i=0;i<aCrumb.length;i++){
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsIsFpcSet(name,id,lv,ss){
-	if (id==dcsGetIdCrumb(name,"id")){
-		if (lv==dcsGetCrumb(name,"lv")){
-		   	if (ss=dcsGetCrumb(name,"ss")){
-				return true;
-			}
-		}
-	}
-	return false;
-}
-function dcsFPC(offset){
-	if (typeof(offset)=="undefined"){
-		return;
-	}
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var name=gFpc;
-	var dCur=new Date();
-	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
-	dCur.setTime(dCur.getTime()+adj);
-	var dExp=new Date(dCur.getTime()+315360000000);
-	var dSes=new Date(dCur.getTime());
-	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-	if (document.cookie.indexOf(name+"=")==-1){
-		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-			WT.co_f=gWtId;
-		}
-		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-			WT.co_f=gTempWtId;
-			WT.vt_f="1";
-		}
-		else{
-			WT.co_f="2";
-			var cur=dCur.getTime().toString();
-			for (var i=2;i<=(32-cur.length);i++){
-				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-			}
-			WT.co_f+=cur;
-			WT.vt_f="1";
-		}
-		if (typeof(gWtAccountRollup)=="undefined"){
-			WT.vt_f_a="1";
-		}
-		WT.vt_f_s=WT.vt_f_d="1";
-		WT.vt_f_tlh=WT.vt_f_tlv="0";
-	}
-	else{
-		var id=dcsGetIdCrumb(name,"id");
-		var lv=parseInt(dcsGetCrumb(name,"lv"));
-		var ss=parseInt(dcsGetCrumb(name,"ss"));
-		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-			return;
-		}
-		WT.co_f=id;
-		var dLst=new Date(lv);
-		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
-		dSes.setTime(ss);
-		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
-			dSes.setTime(dCur.getTime());
-			WT.vt_f_s="1";
-		}
-		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-			WT.vt_f_d="1";
-		}
-	}
-	WT.co_f=escape(WT.co_f);
-	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
-	var expiry="; expires="+dExp.toGMTString();
-	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-	if (!dcsIsFpcSet(name,WT.co_f,dCur.getTime().toString(),dSes.getTime().toString())){
-		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-		WT.vt_f=WT.vt_f_a="2";
-	}
-}
-
-// Code section for Use the WebTrends Cookie Plug-in cookie. Your web server(s) require the WebTrends Cookie Plug-in.
-function dcsPlugin(){
-	if (typeof(gFpc)!="undefined"){
-		if (dcsGetCookie("WEBTRENDS_ID")){
-			gTempWtId=dcsGetCookie("WEBTRENDS_ID");
-			dcsFPC(gTimeZone);
-		}
-		else if (dcsGetCookie(gFpc)){
-			document.cookie=gFpc+"=; expires=Thu, 01-Jan-1970 00:00:01 GMT";
-		}
-	}
-	else if (dcsGetCookie("WEBTRENDS_ID")){
-		WT.co_f=escape(dcsGetCookie("WEBTRENDS_ID"));
-	}
-}
-
-function dcsAdv(){
-	dcsFunc("dcsET");
-	dcsFunc("dcsCookie");
-	dcsFunc("dcsAdSearch");
-	dcsFunc("dcsTP");
-}
-
-//-->
-</script>
-<!-- END OF SDC Advanced Tracking Code -->
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2007/03/01 14:48:29 $ -->
-<script type="text/javascript"><!--
-var gDomain="ssdc.6ave.com";
-var gDcsId="dcs9q9czk100004no50tafbol_5h8j";
-
-
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
-	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
-}
-//-->
-</script>
-<script type="text/javascript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-var gQP=new Array();
-var gI18n=false;
-if (window.RegExp){
-	var RE=gI18n?{"%25":/\%/g}:{"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
-	if (gI18n){
-		var EXRE=/dcs(uri)|(ref)|(aut)|(met)|(sta)|(sip)|(pro)|(byt)|(dat)|(p3p)|(cfg)|(redirect)|(cip)/i;
-	}
-}
-
-// Add customizations here
-
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	if (document.title){
-		WT.ti=document.title;
-	}
-	WT.js="Yes";
-	WT.jv=dcsJV();
-	if (document.body&&document.body.addBehavior){
-		document.body.addBehavior("#default#clientCaps");
-		WT.ct=document.body.connectionType||"unknown";
-		document.body.addBehavior("#default#homePage");
-		WT.hp=document.body.isHomePage(location.href)?"1":"0";
-	}
-	else{
-		WT.ct="unknown";
-	}
-	if (parseInt(navigator.appVersion)>3){
-		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
-			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
-		}
-		else if (navigator.appName=="Netscape"){
-			WT.bs=window.innerWidth+"x"+window.innerHeight;
-		}
-	}
-	WT.fi="No";
-	if (window.ActiveXObject){
-		for(var i=10;i>0;i--){
-			try{
-				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
-				WT.fi="Yes";
-				WT.fv=i+".0";
-				break;
-			}
-			catch(e){
-			}
-		}
-	}
-	else if (navigator.plugins&&navigator.plugins.length){
-		for (var i=0;i<navigator.plugins.length;i++){
-			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
-				WT.fi="Yes";
-				WT.fv=navigator.plugins[i].description.split(" ")[2];
-				break;
-			}
-		}
-	}
-	if (gI18n){
-		WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
-		if (typeof(document.defaultCharset)=="string"){
-			WT.le=document.defaultCharset;
-		} 
-		else if (typeof(document.characterSet)=="string"){
-			WT.le=document.characterSet;
-		}
-	}
-	WT.tv="8.0.3";
-	WT.sp="@@SPLITVALUE@@";
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-		if (gQP.length>0){
-			for (var i=0;i<gQP.length;i++){
-				var pos=DCS.dcsqry.indexOf(gQP[i]);
-				if (pos!=-1){
-					var front=DCS.dcsqry.substring(0,pos);
-					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
-					DCS.dcsqry=front+end;
-				}
-			}
-		}
-	}
-	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=window.document.referrer;
-		}
-	}
-}
-
-function dcsA(N,V){
-	if (gI18n&&!EXRE.test(N)){
-		if (N=="dcsqry"){
-			var newV="";
-			var params=V.substring(1).split("&");
-			for (var i=0;i<params.length;i++){
-				var pair=params[i];
-				var pos=pair.indexOf("=");
-				if (pos!=-1){
-					var key=pair.substring(0,pos);
-					var val=pair.substring(pos+1);
-					if (i!=0){
-						newV+="&";
-					}
-					newV+=key+"="+dcsEncode(val);
-				}
-			}
-			V=V.substring(0,1)+newV;
-		}
-		else{
-			V=dcsEncode(V);
-		}
-	}
-	return "&"+N+"="+dcsEscape(V, RE);
-}
-
-function dcsEscape(S, REL){
-	if (typeof(REL)!="undefined"){
-		var retStr = new String(S);
-		for (var R in REL){
-			retStr = retStr.replace(REL[R],R);
-		}
-		return retStr;
-	}
-	else{
-		return escape(S);
-	}
-}
-
-function dcsEncode(S){
-	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var elems;
-	if (document.all){
-		elems=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		elems=document.getElementsByTagName("meta");
-	}
-	if (typeof(elems)!="undefined"){
-		var length=elems.length;
-		for (var i=0;i<length;i++){
-			var name=elems.item(i).name;
-			var content=elems.item(i).content;
-			var equiv=elems.item(i).httpEquiv;
-			if (name.length>0){
-				if (name.indexOf("WT.")==0){
-					WT[name.substring(3)]=content;
-				}
-				else if (name.indexOf("DCSext.")==0){
-					DCSext[name.substring(7)]=content;
-				}
-				else if (name.indexOf("DCS.")==0){
-					DCS[name.substring(4)]=content;
-				}
-			}
-			else if (gI18n&&(equiv=="Content-Type")){
-				var pos=content.toLowerCase().indexOf("charset=");
-				if (pos!=-1){
-					WT.mle=content.substring(pos+8);
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(){
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (var N in DCS){
-		if (DCS[N]){
-			P+=dcsA(N,DCS[N]);
-		}
-	}
-	var keys=["co_f","vt_sid","vt_f_tlv"];
-	for (var i=0;i<keys.length;i++){
-		var key=keys[i];
-		if (WT[key]){
-			P+=dcsA("WT."+key,WT[key]);
-			delete WT[key];
-		}
-	}
-	for (N in WT){
-		if (WT[N]){
-			P+=dcsA("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]){
-			P+=dcsA(N,DCSext[N]);
-		}
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-function dcsJV(){
-	var agt=navigator.userAgent.toLowerCase();
-	var major=parseInt(navigator.appVersion);
-	var mac=(agt.indexOf("mac")!=-1);
-	var ff=(agt.indexOf("firefox")!=-1);
-	var ff0=(agt.indexOf("firefox/0.")!=-1);
-	var ff10=(agt.indexOf("firefox/1.0")!=-1);
-	var ff15=(agt.indexOf("firefox/1.5")!=-1);
-	var ff2up=(ff&&!ff0&&!ff10&!ff15);
-	var nn=(!ff&&(agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
-	var nn4=(nn&&(major==4));
-	var nn6up=(nn&&(major>=5));
-	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
-	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
-	var ie5up=(ie&&!ie4);
-	var op=(agt.indexOf("opera")!=-1);
-	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
-	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
-	var op7up=(op&&!op5&&!op6);
-	var jv="1.1";
-	if (ff2up){
-		jv="1.7";
-	}
-	else if (ff15){
-		jv="1.6";
-	}
-	else if (ff0||ff10||nn6up||op7up){
-		jv="1.5";
-	}
-	else if ((mac&&ie5up)||op6){
-		jv="1.4";
-	}
-	else if (ie5up||nn4||op5){
-		jv="1.3";
-	}
-	else if (ie4){
-		jv="1.2";
-	}
-	return jv;
-}
-
-function dcsFunc(func){
-	if (typeof(window[func])=="function"){
-		window[func]();
-	}
-}
-
-dcsVar();
-dcsMeta();
-dcsFunc("dcsAdv");
-dcsTag();
-//-->
-</script>
-
-<noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://ssdc.6ave.com/dcs9q9czk100004no50tafbol_5h8j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2">
-</noscript>
-<!-- END OF SmartSource Data Collector  TAG -->	
 
 					</td>
 				</tr>
@@ -2029,6 +1537,16 @@ dcsTag();
 			
 <table width="151" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
+    <td height="37"><a href="http://auctions.6ave.com" target="_blank"><img src="/Assets/Images/Auctions-homepage-btn.jpg" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="40"><a href="http://6ave.cexchange.com" target="_blank"><img src="/Assets/Images/TradeIns-btn.jpg" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="40" valign="top"><a href="http://www.cellstores.com/mobile/?r=6thave" target="_blank"><img src="/Assets/Images/CellPhones-btn.jpg" border="0"></a></td>
+  </tr>
+  
+  <tr>
     <td>
 <link href="../Assets/StyleSheets/emailsignupstyle.css" rel="stylesheet" type="text/css">
 
@@ -2124,7 +1642,7 @@ and more.</span></td>
 								 <table id="Table_01" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td colspan="5">
-			<a href="http://www.6ave.com/Shop/SickDealProduct.aspx?sku=CSOEXZ280SR&amp;location=Sick Deal"><img src="/Assets/Images/sick-deal-homepage.jpg" alt="" border="0"></a></td>
+			<a href="http://www.6ave.com/shop/SickDealProduct.aspx?sku=MONMCBLULIVEKIT-6&amp;location=Sick Deal"><img src="/Assets/Images/sick-deal-homepage.jpg" alt="" border="0"></a></td>
 	</tr>
 </tbody></table>
                                   
@@ -2133,14 +1651,10 @@ and more.</span></td>
 </tbody></table>			
 <!-- End Speical Section --></td>
   </tr>
-   <tr>
-     <td height="160"><table style="BORDER-RIGHT: #eaeaea 1px solid; BORDER-TOP: #eaeaea 1px solid; BORDER-LEFT: #eaeaea 1px solid; BORDER-BOTTOM: #eaeaea 1px solid" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td><a href="usertpl.aspx?fle=NetbookSweepstakes.htm"><img src="/Assets/Images/netbook_sweepstakes-mini.jpg" width="151" height="151" border="0"></a></td>
-          </tr>
-        </tbody></table></td>
-   </tr>
-   <tr>
+  <tr>
+    <td><div align="center"><a href="NameYourPrice.aspx"><img src="/Assets/Images/NYP-nav.jpg" border="0"></a><a href="TopRetailDeals.aspx"></a></div></td>
+  </tr>
+  <tr>
     <td height="60"><div align="center"><a href="http://www.6ave.com/shop/allbrands.aspx"><img src="/Assets/Images/authorizedicon.jpg" border="0"></a></div></td>
   </tr>
   <tr>
@@ -2160,37 +1674,37 @@ and more.</span></td>
           <tbody><tr span="span" class="darkgrayb_text_11" "="">
             <td width="10" height="20" bgcolor="#f0f0f0">&nbsp;</td>
             <td width="15" bgcolor="#f0f0f0"><font color="#0068d5" ;="" size="3">»</font></td>
-            <td height="23" bgcolor="#f0f0f0" class="darkgrayb_text_11"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=showcase_bose"><b>Bose®</b></a></td>
+            <td height="23" bgcolor="#f0f0f0" class="darkgrayb_text_11"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=showcase_bose"><b>Bose®</b></a></td>
           </tr>
           <tr span="span" class="darkgrayb_text_11" "="">
             <td height="20" bgcolor="#f0f0f0">&nbsp;</td>
             <td bgcolor="#f0f0f0"><font color="#0068d5" ;="" size="3">»</font></td>
-            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=showcase_olympus"><b>Olympus</b></a></td>
+            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=showcase_olympus"><b>Olympus</b></a></td>
           </tr>
           <tr span="span" class="darkgrayb_text_11" "="">
             <td height="20" bgcolor="#f0f0f0">&nbsp;</td>
             <td bgcolor="#f0f0f0"><font color="#0068d5" ;="" size="3">»</font></td>
-            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=showcase_samsungus"><strong>Samsung</strong></a></td>
+            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=showcase_samsungus"><strong>Samsung</strong></a></td>
           </tr>
           <tr span="span" class="darkgrayb_text_11" "="">
             <td height="20" bgcolor="#f0f0f0">&nbsp;</td>
             <td bgcolor="#f0f0f0"><font color="#0068d5" ;="" size="3">»</font></td>
-            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=showcase_sonyus"><strong>Sony</strong></a></td>
+            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=showcase_sonyus"><strong>Sony</strong></a></td>
           </tr>
           <tr span="span" class="darkgrayb_text_11" "="">
             <td height="20" bgcolor="#f0f0f0">&nbsp;</td>
             <td bgcolor="#f0f0f0"><font color="#0068d5" ;="" size="3">»</font></td>
-            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=showcase_tomtom"><b>TomTom</b></a></td>
+            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=showcase_tomtom"><b>TomTom</b></a></td>
           </tr>
           <tr span="span" class="darkgrayb_text_11" "="">
             <td height="20" bgcolor="#f0f0f0">&nbsp;</td>
             <td bgcolor="#f0f0f0"><font color="#0068d5" ;="" size="3">»</font></td>
-            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=showcase_toshiba"><b>Toshiba</b></a></td>
+            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=showcase_toshiba"><b>Toshiba</b></a></td>
           </tr>
           <tr span="span" class="darkgrayb_text_11" "="">
             <td height="20" bgcolor="#f0f0f0">&nbsp;</td>
             <td bgcolor="#f0f0f0"><font color="#0068d5" ;="" size="3">»</font></td>
-            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/Shop/usertpl.aspx?fle=showcase_xmradio"><b>XM Radio</b> </a></td>
+            <td height="23" bgcolor="#f0f0f0"><a href="http://www.6ave.com/shop/usertpl.aspx?fle=showcase_xmradio"><b>XM Radio</b> </a></td>
           </tr>
         </tbody></table>
     </div></td>
