@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igda.org privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923151810id_/http%3A//www.igda.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igda.org privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622235407id_/http%3A//www.igda.org/privacy) for the most accurate reproduction.*
 
-# IGDA - Privacy Policy
+# Privacy policy | IGDA
 
 The International Game Developers Association (" **IGDA** ") is committed to respecting the privacy rights of members, users and all visitors to the web site. The following policy describes how the IGDA protects information it receives from visitors to its web site:
 
@@ -12,7 +12,7 @@ We use the information we collect to tailor your experience at our site to conte
 
 On occasion the IGDA hosts contests and promotions. When you enter a contest or other promotional feature, the IGDA may ask for additional information, including further contact and demographic information, as well as consumer preference information so that we are able to better administer the contest and notify winners.
 
-Members and registered users will receive the IGDA's monthly email newsletter, which includes notifications from the IGDA and IGDA partners and sponsors about important functionality, changes to the web site, new IGDA services, special offers we think you'll find valuable as well as overall news of the IGDA and the game development industry. If you would rather not receive the newsletter you may do so by either opting-out on your [MyProfile page](https://web.archive.org/web/20090923151810id_/http%3A//www.igda.org/membership/myprofile.php), or by submitting such an unsubscribe request to [admin -at- igda -dot- org](mailto:admin%20-at-%20igda%20-dot-%20org).
+Members and registered users will receive the IGDA's monthly email newsletter, which includes notifications from the IGDA and IGDA partners and sponsors about important functionality, changes to the web site, new IGDA services, special offers we think you'll find valuable as well as overall news of the IGDA and the game development industry. If you would rather not receive the newsletter you may do so by either opting-out on your [MyProfile page](https://web.archive.org/user), or by submitting such an unsubscribe request to [admin -at- igda -dot- org](mailto:admin%20-at-%20igda%20-dot-%20org).
 
 ### How does the IGDA protect visitor information?
 
@@ -20,7 +20,7 @@ The IGDA implements a variety of security measures to maintain the safety and co
 
 To ensure compliance with updated security technology, the IGDA recommends using one of the following browsers, each of which can be downloaded free of charge: Netscape Navigator ([http://www.netscape.com](http://www.netscape.com/)), or Microsoft Internet Explorer (<http://www.microsoft.com/ie>). To ensure the highest level of security available today, the IGDA suggests that you choose the 128-bit encryption version from the download options. If you do not have access to a browser that supports at least 48-bit encryption, your information may not be processed by the IGDA's servers, or may not be securely transferred through your web browser to the IGDA's servers.
 
-When you submit information to us (or to any other web site) over the Internet, the information may travel over many networks and systems that are not under the control of the IGDA. The Internet is not completely secure and others may intercept the information that you are sending. Further, anything you voluntarily provide in any public area of the IGDA web site, including in any discussion forum or mailing list, will be publicly available to other visitors on the web site and potentially to other third parties, and you should always exercise caution when deciding to publicly disclose any of your personal information. The IGDA is not responsible for submissions to discussion forums or mailing lists and your submissions could be used by others in ways that the IGDA is unable to control. Please see our [Terms of Use](https://web.archive.org/web/20090923151810id_/http%3A//www.igda.org/terms.php) for further information.
+When you submit information to us (or to any other web site) over the Internet, the information may travel over many networks and systems that are not under the control of the IGDA. The Internet is not completely secure and others may intercept the information that you are sending. Further, anything you voluntarily provide in any public area of the IGDA web site, including in any discussion forum or mailing list, will be publicly available to other visitors on the web site and potentially to other third parties, and you should always exercise caution when deciding to publicly disclose any of your personal information. The IGDA is not responsible for submissions to discussion forums or mailing lists and your submissions could be used by others in ways that the IGDA is unable to control. Please see our [Terms of Use](https://web.archive.org/terms) for further information.
 
 ### Does the IGDA use "cookies"?
 
@@ -36,9 +36,9 @@ Pursuant to the provisions of the Federal Children's Online Privacy Protection A
 
 ### How does a visitor opt-out, remove, or modify information they have provided to IGDA?
 
-After gathering any user information, the IGDA offers users the opportunity to remove their information from our database so as not to receive future communications or to no longer interact with the web site until they later chose to by sending such a request to the IGDA at [info@igda.org](http://www.igda.org/contact.php), or as set forth below under "Contact Us." IGDA additionally provides users the opportunity to update and modify any information they have previously provided by viewing their [MyProfile page](https://web.archive.org/web/20090923151810id_/http%3A//www.igda.org/membership/myprofile.php).
+After gathering any user information, the IGDA offers users the opportunity to remove their information from our database so as not to receive future communications or to no longer interact with the web site until they later chose to by sending such a request to the IGDA at [info@igda.org](https://web.archive.org/contact), or as set forth below under "Contact Us." IGDA additionally provides users the opportunity to update and modify any information they have previously provided by viewing their [MyProfile page](https://web.archive.org/user).
 
-In addition, our monthly email newsletter will always contain instructions on how to discontinue receipt of the newsletter. However, if a visitor at anytime chooses to no longer receive such information and opt-out from any future mailings, they should simply reply to the IGDA's removal instructions and request to be removed from any such list and/or mailings, or they may also send such a request to [info@igda.org](http://www.igda.org/contact.php).
+In addition, our monthly email newsletter will always contain instructions on how to discontinue receipt of the newsletter. However, if a visitor at anytime chooses to no longer receive such information and opt-out from any future mailings, they should simply reply to the IGDA's removal instructions and request to be removed from any such list and/or mailings, or they may also send such a request to [info@igda.org](https://web.archive.org/contact).
 
 ### Third party links and co-brand relationships
 
@@ -46,7 +46,7 @@ In an attempt to provide increased value to our visitors, the IGDA may choose va
 
 ### Public Forums
 
-The IGDA makes discussion forums and mailing lists available at the web site. These resources are read-only for non-registered visitors to the IGDA web site. Only IGDA members and registered users may post to these resources. As such, please remember that any information that is disclosed in these areas immediately becomes public information and you should exercise caution when deciding to disclose your personal information. The IGDA is not responsible for submissions in discussion forums and/or mailing lists and your submissions could be used by others in ways that the IGDA is unable to control. Please see our [Terms of Use](https://web.archive.org/web/20090923151810id_/http%3A//www.igda.org/terms.php) for further information.
+The IGDA makes discussion forums and mailing lists available at the web site. These resources are read-only for non-registered visitors to the IGDA web site. Only IGDA members and registered users may post to these resources. As such, please remember that any information that is disclosed in these areas immediately becomes public information and you should exercise caution when deciding to disclose your personal information. The IGDA is not responsible for submissions in discussion forums and/or mailing lists and your submissions could be used by others in ways that the IGDA is unable to control. Please see our [Terms of Use](https://web.archive.org/terms) for further information.
 
 ### Your Consent
 
@@ -54,10 +54,10 @@ By using our web site, you consent to the collection and use of information by t
 
 ### Contact Us
 
-The IGDA welcomes your questions, comments, and concerns about privacy. Please [contact us](https://web.archive.org/web/20090923151810id_/http%3A//www.igda.org/contact.php) with any and all feedback pertaining to this, or any other issue.
+The IGDA welcomes your questions, comments, and concerns about privacy. Please [contact us](https://web.archive.org/contact) with any and all feedback pertaining to this, or any other issue.
 
-You can reach us by the various means outlined on our [Contact Us](https://web.archive.org/web/20090923151810id_/http%3A//www.igda.org/contact.php) page
+You can reach us by the various means outlined on our [Contact Us](https://web.archive.org/contact) page
 
 ### Terms of Use
 
-Please also visit the IGDA's [Terms of Use](https://web.archive.org/web/20090923151810id_/http%3A//www.igda.org/terms.php) establishing the use, disclaimers, and limitations of liability governing the use of the entire IGDA web site.
+Please also visit the IGDA's [Terms of Use](https://web.archive.org/terms) establishing the use, disclaimers, and limitations of liability governing the use of the entire IGDA web site.
