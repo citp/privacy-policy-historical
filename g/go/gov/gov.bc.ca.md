@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.bc.ca privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228133844id_/http%3A//www.gov.bc.ca/com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.bc.ca privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623115057id_/http%3A//www.gov.bc.ca/com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Province of British Columbia
 
