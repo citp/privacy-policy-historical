@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221174931id_/http%3A//www.portlandtribune.com/news/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624005107id_/http%3A//www.portlandtribune.com/news/privacy.php) for the most accurate reproduction.*
 
-# The Portland Tribune Ι News
+# The Portland Tribune Ι News | Now Daily
 
 ####  Effective Date: August 10, 2006 
 
