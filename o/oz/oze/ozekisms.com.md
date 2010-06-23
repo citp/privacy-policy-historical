@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozekisms.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618115528id_/http%3A//www.ozekisms.com/index.php%3Fow_page_number%3D449) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozekisms.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623132046id_/http%3A//www.ozekisms.com/index.php%3Fow_page_number%3D449) for the most accurate reproduction.*
 
 # SMS Gateway - Press, Privacy
 
@@ -8,11 +8,11 @@ Use of Your Personal Information
 
 The personal information we collect from you will be used by Ozeki and its controlled subsidiaries and affiliates to provide the service or carry out the transaction you have requested or authorized. This may include using the personal information for the following purposes: 
 
-� To provide you with important information about the product or service that you are using, including critical updates and notifications; 
+• To provide you with important information about the product or service that you are using, including critical updates and notifications; 
 
-� To make a site or service easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the site or service to your particular interests or preferences; 
+• To make a site or service easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the site or service to your particular interests or preferences; 
 
-� To improve the product or service and to provide better customer service to users. 
+• To improve the product or service and to provide better customer service to users. 
 
 Ozeki does not sell, rent or lease its customer lists to third parties. Ozeki may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. 
 
@@ -42,4 +42,4 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 Contact Information 
 
-At Ozeki, we�re working hard to protect your privacy, while delivering products that bring you the speed, power and convenience you desire in your personal computing. Our privacy principles represent our commitment to ensuring that your personal information is safe and secure. If you believe that Ozeki has not adhered to these policies, please contact us by e-mail and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
+At Ozeki, we’re working hard to protect your privacy, while delivering products that bring you the speed, power and convenience you desire in your personal computing. Our privacy principles represent our commitment to ensuring that your personal information is safe and secure. If you believe that Ozeki has not adhered to these policies, please contact us by e-mail and we will use commercially reasonable efforts to promptly determine and remedy the problem. 
