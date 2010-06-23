@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricefalls.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522014328id_/http%3A//www.pricefalls.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricefalls.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623103509id_/https%3A//www.pricefalls.com/Pricefalls-Privacy-Policy) for the most accurate reproduction.*
 
-# 
+# Pricefalls.com | Dutch Auction Shopping Cell Phones, Fragrance, Jewelery, Electronics, Authentic Autographed Sports Memorabilia
 
 This Pricefalls.com Privacy Policy (this "Policy") tells you about how we collect, use, and protect your personal information. To see a summary of this Policy, and for more information to answer your privacy concerns, please go to our Privacy Central page. By accepting this Policy and the Pricefalls.com User Agreement (the "User Agreement") during registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy. This Policy is effective upon acceptance for new users and is otherwise effective on Pricefalls.com as of 2008.
 
@@ -8,7 +8,7 @@ This Pricefalls.com Privacy Policy (this "Policy") tells you about how we collec
 
 This Policy describes how we handle your personal information for our services on Pricefalls.com websites. It applies generally to the Pricefalls.com websites and content and other related websites where a link to this Policy appears in the footer of the page. This Policy does not apply to the practices of companies that Pricefalls.com does not own or control, or to people that Pricefalls.com does not employ or manage.
 
-Some Pricefalls.com-branded websites or websites we operate may be governed by separate privacy policies. The policy that applies on any of our domains or subdomains is always the policy to which a link appears in the footer of each website. Our subsidiaries’ and joint ventures’ privacy practices, if applicable, are similar to those described in this Policy. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global Pricefalls.com trading community.
+Some Pricefalls.com-branded websites or websites we operate may be governed by separate privacy policies. The policy that applies on any of our domains or subdomains is always the policy to which a link appears in the footer of each website. Our subsidiariesâ€™ and joint venturesâ€™ privacy practices, if applicable, are similar to those described in this Policy. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global Pricefalls.com trading community.
 
 **TRUSTe**
 
@@ -55,7 +55,7 @@ We may disclose personal information to respond to legal requirements, enforce o
 
 We may also share your personal information with:
 
-  * Members of the Pricefalls.com Inc. corporate family to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you’ve requested their services.
+  * Members of the Pricefalls.com Inc. corporate family to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about products, services and communications. Members of our corporate family will use this information to send you marketing communications only if youâ€™ve requested their services.
   * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, affiliate and rewards programs and co-branded credit cards).
   * Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).
   * Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. Other business entities, should we plan to merge with or be acquired by that business entity. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors and illegal activity, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
@@ -64,7 +64,7 @@ We may also share your personal information with:
 
 **VI. Information You Share on Pricefalls.com** Your User ID is displayed throughout Pricefalls.com (and so available to the public), and is connected to all of your Pricefalls.com activity. Other people can see your bids, purchases, items for sale, storefronts, feedback, ratings and associated comments. Notices sent to other community members about suspicious activity and policy violations on our sites refer to User IDs and specific items. Therefore, if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your Pricefalls.com activities.
 
-If you access Pricefalls.com websites from a shared computer or a computer in an internet café, certain information about you, such as your User ID, activity or communications from Pricefalls.com, may also be visible to other individuals who use the computer after you.
+If you access Pricefalls.com websites from a shared computer or a computer in an internet cafÃ©, certain information about you, such as your User ID, activity or communications from Pricefalls.com, may also be visible to other individuals who use the computer after you.
 
 **VII. Using Information from Pricefalls.com**
 
