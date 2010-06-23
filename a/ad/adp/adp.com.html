@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adp.com privacy policy that was archived on 2009-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091124232252id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adp.com privacy policy that was archived on 2010-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623083311id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
   <title>Privacy | ADP
@@ -10,6 +10,12 @@
     <meta name="vs_defaultClientScript" content="JavaScript">
     <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
     <link href="/adp.css" rel="stylesheet" type="text/css">
+    
+      <link href="/ui.all.css" rel="stylesheet" type="text/css">
+      <script type="text/javascript" src="/js/jquery-1.3.2.js"></script>
+  <script type="text/javascript" src="/js/ui.core.js"></script>
+  <script type="text/javascript" src="/js/ui.tabs.js"></script>
+    
     <script type="text/javascript">
      // <![CDATA[
      var offspringConfiguration = {runningMode:"full"};
@@ -18,11 +24,31 @@
    <script type="text/javascript" src="/js/offspring.js"></script>
    <script type="text/javascript" src="/js/adp.js"></script>
    <script type="text/javascript" src="/js/swfobject.js"></script>
-   <script language="javascript" src="/includes/ADPLeadID.js"></script>
+   <script type="text/javascript">
+   jQuery.noConflict();
+  
+  jQuery(document).ready(function($){
+    $("#tabs").tabs();
+    
+  });
+  
+  jQuery(window).load(function(){
+  	//alert("window load");
+	//console.debug("tabs %d", $("#tabs").length);
+	//alert("tabs: "+ jQuery("#tabs").length);
+  	if(jQuery("#tabs").length >0) {
+		jQuery("#tabs .ui-tabs-panel").equalizeCols();
+		jQuery("#col-body > div").equalizeCols();
+	}
+  });
+  </script>
+   
+   <link href="/sitecore/shell/applications/analytics/visitor.css.aspx" rel="stylesheet" type="text/css">
+
   </head>
-  <body><form name="mainform" method="post" action="/Privacy.aspx" id="mainform" class="first-child nth-child-odd nth-child-1">
+  <body><form name="mainform" method="post" action="/privacy.aspx" id="mainform" class="first-child nth-child-odd nth-child-1">
 <div class="first-child nth-child-odd nth-child-1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI2NjU0MDY0OA9kFgQCAxBkZBYCAgEPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYEZg8WAh4EaHJlZgUBL2QCAg9kFgJmD2QWAmYPEGRkFgFmZAIHDxYCHgRUZXh0BdQFPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJKYXZhU2NyaXB0IiBzcmM9Ii9lbHFOb3cvTUFTL2VscUNmZy5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSIvZWxxTm93L01BUy9lbHFJbWcuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiIHNyYz0iL2VscU5vdy9OQVMvZWxxQ2ZnLmpzIj48L3NjcmlwdD4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJKYXZhU2NyaXB0IiBzcmM9Ii9lbHFOb3cvTkFTL2VscUltZy5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSIvZWxxTm93L1RXL2VscUNmZy5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSIvZWxxTm93L1RXL2VscUltZy5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSIvZWxxTm93L0lTL2VscUltZy5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSIvZWxxTm93L0lTL2VscUNmZy5qcyI+PC9zY3JpcHQ+CmRknPEYGa0Iq0X2CBWXPGS4+8H4TiU=" class="first-child nth-child-odd only-child nth-child-1 last-child">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMzMDM1Mzc4Mw9kFgQCBRBkZBYCAgEPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYEZg8WAh4EaHJlZgUBL2QCAg9kFgJmD2QWAmYPEGRkFgFmZAILDxYCHgRUZXh0BbkPPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJKYXZhU2NyaXB0IiBzcmM9Ii9lbHFOb3cvTUFTL2VscUNmZy5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSIvZWxxTm93L01BUy9lbHFJbWcuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiIHNyYz0iL2VscU5vdy9OQVMvZWxxQ2ZnLmpzIj48L3NjcmlwdD4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJKYXZhU2NyaXB0IiBzcmM9Ii9lbHFOb3cvTkFTL2VscUltZy5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSIvZWxxTm93L0lTL2VscUltZy5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSIvZWxxTm93L0lTL2VscUNmZy5qcyI+PC9zY3JpcHQ+CjwhLS0gU3RhcnQgb2YgRG91YmxlQ2xpY2sgU3BvdGxpZ2h0IFRhZzogUGxlYXNlIGRvIG5vdCByZW1vdmUtLT4KPCEtLSBBY3Rpdml0eSBOYW1lIGZvciB0aGlzIHRhZyBpczpBRFAgSE9tZSBWaWV3IC0tPgo8IS0tIFdlYiBzaXRlIFVSTCB3aGVyZSB0YWcgc2hvdWxkIGJlIHBsYWNlZDogaHR0cDovL3d3dy5hZHAuY29tIC0tPgo8IS0tIFRoaXMgdGFnIG11c3QgYmUgcGxhY2VkIHdpdGhpbiB0aGUgb3BlbmluZyA8Ym9keT4gdGFnLCBhcyBjbG9zZSB0byB0aGUgYmVnaW5uaW5nIG9mIGl0IGFzIHBvc3NpYmxlLS0+CjwhLS0gQ3JlYXRpb24gRGF0ZTozLzE5LzIwMTAgLS0+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iamF2YXNjcmlwdCI+CnZhciBheGVsID0gTWF0aC5yYW5kb20oKSsiIjsKdmFyIGEgPSBheGVsICogMTAwMDAwMDAwMDAwMDA7CiBkb2N1bWVudC53cml0ZSgnPGltZyBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWN0aXZpdHk7c3JjPTI2Nzc0Njk7dHlwZT1hZHBobzA1NztjYXQ9YWRwaG82Njc7b3JkPScrIGEgKyAnPyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgYm9yZGVyPSIwIi8+Jyk7Cjwvc2NyaXB0Pgo8bm9zY3JpcHQ+CiAgPGltZyBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWN0aXZpdHk7c3JjPTI2Nzc0Njk7dHlwZT1hZHBobzA1NztjYXQ9YWRwaG82Njc7b3JkPTE/IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBib3JkZXI9IjAiLz4KPC9ub3NjcmlwdD4KPCEtLSBFbmQgb2YgRG91YmxlQ2xpY2sgU3BvdGxpZ2h0IFRhZzogUGxlYXNlIGRvIG5vdCByZW1vdmUtLT4KPGltZyBzcmM9J2h0dHA6Ly9hZHMudW5kZXJ0b25lLmNvbS9mYy5waHA/c2NyaXB0PXByb2ZpbGVUYXJnZXRpbmdDb21tb246bG9nQmVhY29uJmNiPVt0aW1lc3RhbXBdJnBpZD03MTInIGFsdD0nJyBzdHlsZT0nZGlzcGxheTogbm9uZTsnIGJvcmRlcj0nMCcgaGVpZ2h0PScxJyB3aWR0aD0nMScgLz4KPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPgp2YXIgZWJSYW5kID0gTWF0aC5yYW5kb20oKSsnJzsKZWJSYW5kID0gZWJSYW5kICogMTAwMDAwMDsKLy88IVtDREFUQVsgCmRvY3VtZW50LndyaXRlKCc8c2NyJysnaXB0IHNyYz0iSFRUUDovL2JzLnNlcnZpbmctc3lzLmNvbS9CdXJzdGluZ1BpcGUvQWN0aXZpdHlTZXJ2ZXIuYnM/Y249YXMmYW1wO0FjdGl2aXR5SUQ9NTk2MTAmYW1wO3JuZD0nICsgZWJSYW5kICsgJyI+PC9zY3InICsgJ2lwdD4nKTsKLy9dXT4KPC9zY3JpcHQ+Cjxub3NjcmlwdD4KPGltZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBzdHlsZT0iYm9yZGVyOjAiIHNyYz0iSFRUUDovL2JzLnNlcnZpbmctc3lzLmNvbS9CdXJzdGluZ1BpcGUvQWN0aXZpdHlTZXJ2ZXIuYnM/Y249YXMmYW1wO0FjdGl2aXR5SUQ9NTk2MTAmYW1wO25zPTEiLz4KPC9ub3NjcmlwdD4KZGS2MjFA2HJeHojN1TdI8O2PRo5hmA==" class="first-child nth-child-odd only-child nth-child-1 last-child">
 </div>
 
 				<table class="mainTbl nth-child-even nth-child-2 last-child" cellspacing="0" cellpadding="0" border="0">
@@ -40,7 +66,7 @@
     </div>
     <!--Begin Other Menu-->
     <div class="clearfix nth-child-odd nth-child-3" id="nav-other">
- <div id="nav-msg" class="first-child nth-child-odd nth-child-1"><img class="vbottom first-child nth-child-odd only-child nth-child-1 last-child" style="width: 335px; height: 14px" alt="The Business Behind Business" src="~/media/Images/header-msg.ashx?w=335&amp;h=14&amp;as=1" border="0"></div><ul id="links" class="nth-child-even nth-child-2"><li class="linksboxed first-child nth-child-odd nth-child-1"><a href="/userlogin.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Product Login</a></li><li class="nth-child-even nth-child-2"><a href="/contactus.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Contact Us</a></li><li class="nth-child-odd nth-child-3"><a href="/careers.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Careers</a></li><li class="noBg nth-child-even nth-child-4 last-child"><a href="http://www.investquest.com/iq/a/adp/" class="first-child nth-child-odd only-child nth-child-1 last-child">Investors</a></li></ul>
+        <div id="nav-msg" class="first-child nth-child-odd nth-child-1"><img class="vbottom first-child nth-child-odd only-child nth-child-1 last-child" style="width: 335px; height: 14px" alt="The Business Behind Business" src="~/media/Images/header-msg.ashx?w=335&amp;h=14&amp;as=1" border="0"></div><ul id="links" class="nth-child-even nth-child-2"><li class="linksboxed first-child nth-child-odd nth-child-1"><a href="/userlogin.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Product Login</a></li><li class="nth-child-even nth-child-2"><a href="/contactprocess/contact-us-pre-process.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Contact Us</a></li><li class="nth-child-odd nth-child-3"><a href="/careers.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Careers</a></li><li class="noBg nth-child-even nth-child-4 last-child"><a href="http://www.investquest.com/iq/a/adp/" class="first-child nth-child-odd only-child nth-child-1 last-child">Investors</a></li></ul>
         <ul id="country-us" class="nth-child-odd nth-child-3 last-child"><select name="content_0$ctl00$ctl00$DropDownList1" id="content_0_ctl00_ctl00_DropDownList1" class="first-child nth-child-odd only-child nth-child-1 last-child">
 	<option selected="selected" value="100-Change" class="first-child nth-child-odd nth-child-1">Change Country</option>
 	<option value="101-/Global.aspx" class="nth-child-even nth-child-2">Employer Services Intl</option>
@@ -52,36 +78,37 @@
 	<option value="110-http://www.adp.ca/en-ca/default.aspx" class="nth-child-even nth-child-8">Canada English</option>
 	<option value="143-http://www.adp.ca/fr-ca/default.aspx" class="nth-child-odd nth-child-9">Canada French</option>
 	<option value="111-http://www.adpchina.com/" class="nth-child-even nth-child-10">China</option>
-	<option value="112-/Global.aspx" class="nth-child-odd nth-child-11">Czech Republic</option>
-	<option value="113-/Global.aspx" class="nth-child-even nth-child-12">Finland</option>
-	<option value="114-http://www.fr.adp.com" class="nth-child-odd nth-child-13">France</option>
-	<option value="115-http://www.de-adp.com" class="nth-child-even nth-child-14">Germany</option>
-	<option value="117-/Global.aspx" class="nth-child-odd nth-child-15">Hong Kong</option>
-	<option value="118-/Global.aspx" class="nth-child-even nth-child-16">India</option>
-	<option value="119-/Global.aspx" class="nth-child-odd nth-child-17">Indonesia</option>
-	<option value="120-http://www.europe.adp.com/2703.CFM" class="nth-child-even nth-child-18">Ireland</option>
-	<option value="121-http://www.it-adp.com/home.CFM" class="nth-child-odd nth-child-19">Italy</option>
-	<option value="122-http://www.globalview.adp.com" class="nth-child-even nth-child-20">Japan</option>
-	<option value="123-/Global.aspx" class="nth-child-odd nth-child-21">Korea</option>
-	<option value="124-/Global.aspx" class="nth-child-even nth-child-22">Malaysia</option>
-	<option value="125-/Global.aspx" class="nth-child-odd nth-child-23">Mexico</option>
-	<option value="126-http://www.adp.nl/index.xml" class="nth-child-even nth-child-24">Netherlands</option>
-	<option value="127-/Global.aspx" class="nth-child-odd nth-child-25">New Zealand</option>
-	<option value="128-/Global.aspx" class="nth-child-even nth-child-26">Norway</option>
-	<option value="129-/Global.aspx" class="nth-child-odd nth-child-27">Philippines</option>
-	<option value="130-http://www.adp.pl" class="nth-child-even nth-child-28">Poland</option>
-	<option value="131-http://www.europe.adp.com/2710.CFM" class="nth-child-odd nth-child-29">Portugal</option>
-	<option value="132-/Global.aspx" class="nth-child-even nth-child-30">Romania</option>
-	<option value="133-/Global.aspx" class="nth-child-odd nth-child-31">Russia</option>
-	<option value="134-/Global.aspx" class="nth-child-even nth-child-32">Singapore</option>
-	<option value="135-/Global.aspx" class="nth-child-odd nth-child-33">Slovakia </option>
-	<option value="136-http://www.es-adp.com" class="nth-child-even nth-child-34">Spain</option>
-	<option value="137-/Global.aspx" class="nth-child-odd nth-child-35">Sweden</option>
-	<option value="138-http://www.adp.ch" class="nth-child-even nth-child-36">Switzerland</option>
-	<option value="139-/Global.aspx" class="nth-child-odd nth-child-37">Taiwan</option>
-	<option value="140-/Global.aspx" class="nth-child-even nth-child-38">Thailand</option>
-	<option value="141-http://www.adp-es.co.uk/" class="nth-child-odd nth-child-39">United Kingdom</option>
-	<option value="142-http://www.adp.com" class="nth-child-even nth-child-40 last-child">United States of America</option>
+	<option value="112-http://www.cz.adp.com" class="nth-child-odd nth-child-11">Czech Republic</option>
+	<option value="144-http://www.adpdsi.dk/" class="nth-child-even nth-child-12">Denmark</option>
+	<option value="113-/Global.aspx" class="nth-child-odd nth-child-13">Finland</option>
+	<option value="114-http://www.fr.adp.com" class="nth-child-even nth-child-14">France</option>
+	<option value="115-http://www.de-adp.com" class="nth-child-odd nth-child-15">Germany</option>
+	<option value="117-/Global.aspx" class="nth-child-even nth-child-16">Hong Kong</option>
+	<option value="118-/Global.aspx" class="nth-child-odd nth-child-17">India</option>
+	<option value="119-/Global.aspx" class="nth-child-even nth-child-18">Indonesia</option>
+	<option value="120-http://www.europe.adp.com/2703.CFM" class="nth-child-odd nth-child-19">Ireland</option>
+	<option value="121-http://www.it-adp.com/home.CFM" class="nth-child-even nth-child-20">Italy</option>
+	<option value="122-http://www.globalview.adp.com" class="nth-child-odd nth-child-21">Japan</option>
+	<option value="123-/Global.aspx" class="nth-child-even nth-child-22">Korea</option>
+	<option value="124-/Global.aspx" class="nth-child-odd nth-child-23">Malaysia</option>
+	<option value="125-/Global.aspx" class="nth-child-even nth-child-24">Mexico</option>
+	<option value="126-http://www.adp.nl/index.xml" class="nth-child-odd nth-child-25">Netherlands</option>
+	<option value="127-/Global.aspx" class="nth-child-even nth-child-26">New Zealand</option>
+	<option value="128-/Global.aspx" class="nth-child-odd nth-child-27">Norway</option>
+	<option value="129-/Global.aspx" class="nth-child-even nth-child-28">Philippines</option>
+	<option value="130-http://www.adp.pl" class="nth-child-odd nth-child-29">Poland</option>
+	<option value="131-http://www.europe.adp.com/2710.CFM" class="nth-child-even nth-child-30">Portugal</option>
+	<option value="132-/Global.aspx" class="nth-child-odd nth-child-31">Romania</option>
+	<option value="133-/Global.aspx" class="nth-child-even nth-child-32">Russia</option>
+	<option value="134-/Global.aspx" class="nth-child-odd nth-child-33">Singapore</option>
+	<option value="135-/Global.aspx" class="nth-child-even nth-child-34">Slovakia </option>
+	<option value="136-http://www.es-adp.com" class="nth-child-odd nth-child-35">Spain</option>
+	<option value="137-/Global.aspx" class="nth-child-even nth-child-36">Sweden</option>
+	<option value="138-http://www.adp.ch" class="nth-child-odd nth-child-37">Switzerland</option>
+	<option value="139-/Global.aspx" class="nth-child-even nth-child-38">Taiwan</option>
+	<option value="140-/Global.aspx" class="nth-child-odd nth-child-39">Thailand</option>
+	<option value="141-http://www.adp-es.co.uk/" class="nth-child-even nth-child-40">United Kingdom</option>
+	<option value="142-http://www.adp.com" class="nth-child-odd nth-child-41 last-child">United States of America</option>
 
 </select>
 </ul>
@@ -90,10 +117,35 @@
     <div class="clearfix nth-child-even nth-child-4 last-child" id="nav-main">
         <!--Begin Main Menu-->
         <ul id="nav-top" class="first-child nth-child-odd nth-child-1">
-            <li class="first-child nth-child-odd nth-child-1"><a href="/solutions.aspx" id="solutions" class="first-child nth-child-odd only-child nth-child-1 last-child">Products &amp; Solutions</a></li><li class="nth-child-even nth-child-2"><a href="/tools-and-resources.aspx" id="resources" class="first-child nth-child-odd only-child nth-child-1 last-child">Tools &amp; Resources</a></li><li class="nth-child-odd nth-child-3"><a href="/media.aspx" id="media" class="first-child nth-child-odd only-child nth-child-1 last-child">Media</a></li><li class="nth-child-even nth-child-4"><a href="/partners.aspx" id="partners" class="first-child nth-child-odd only-child nth-child-1 last-child">Partners</a></li><li class="nth-child-odd nth-child-5 last-child"><a href="/about-us.aspx" id="about" class="first-child nth-child-odd only-child nth-child-1 last-child">About Us</a></li>
+            <li class="first-child nth-child-odd nth-child-1"><a id="solutions" href="/solutions.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Products &amp; Solutions</a></li><li class="nth-child-even nth-child-2"><a id="resources" href="/tools-and-resources.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Tools &amp; Resources</a></li><li class="nth-child-odd nth-child-3"><a id="partners" href="/partners.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Partners</a></li><li class="nth-child-even nth-child-4"><a id="media" href="/media.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Media</a></li><li class="nth-child-odd nth-child-5 last-child"><a id="about" href="/about-us.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">About Us</a></li>
         </ul>
         <!--End Main Menu-->
-        <div class="search nth-child-even nth-child-2 last-child"><input id="q" type="text" maxlength="255" size="18" name="q" onclick="document.getElementById('mainform').action = 'http://google.adp.com/search';document.getElementById('mainform').method='GET';" class="first-child nth-child-odd nth-child-1"><input class="btn-search nth-child-even nth-child-2" id="btnSearch" type="submit" value="&nbsp;" name="btnSearch"><input type="hidden" name="output" value="xml_no_dtd" class="nth-child-odd nth-child-3"><input type="hidden" name="oe" value="UTF-8" class="nth-child-even nth-child-4"><input type="hidden" name="ie" value="UTF-8" class="nth-child-odd nth-child-5"><input type="hidden" name="client" value="default_frontend" class="nth-child-even nth-child-6"><input type="hidden" name="proxystylesheet" value="default_frontend" class="nth-child-odd nth-child-7"><input type="hidden" name="site" value="default_collection" class="nth-child-even nth-child-8 last-child"></div>
+        <script type="text/javascript" class="nth-child-even nth-child-2">
+          function subSearchForm(subtype)
+          {
+
+            var URL = 'http://google.adp.com/search?q=' + document.getElementById("q").value + '&output=xml_no_dtd&oe=UTF-8&ie=UTF-8&client=default_frontend&proxystylesheet=default_frontend&site=default_collection&DataAction=' + subtype;
+
+            document.location.href = URL;
+
+            return false;
+          }
+          
+          function checkReturn(e){
+            if(window.event) // IE
+            {
+              keynum = e.keyCode
+            }
+            else if(e.which) // Netscape/Firefox/Opera
+            {
+              keynum = e.which
+            }
+            if (keynum == 13 ) {
+              return subSearchForm('rec');
+            }
+
+          }
+         </script><div class="search nth-child-odd nth-child-3 last-child"><input id="q" type="text" maxlength="255" size="18" name="q" onkeypress="return checkReturn(event);" class="first-child nth-child-odd nth-child-1"><input class="btn-search nth-child-even nth-child-2 last-child" id="btnSearch" value="&nbsp;" name="btnSearch" onclick="return subSearchForm('rec');"></div>
     </div>
 </div>
 </td></tr></thead>
@@ -101,20 +153,24 @@
 				<!--Begin Footer-->
 				<tfoot class="nth-child-even nth-child-2">
 <tr class="first-child nth-child-odd only-child nth-child-1 last-child">
-<td valign="top" class="first-child nth-child-odd only-child nth-child-1 last-child"><div id="footer" class="first-child nth-child-odd only-child nth-child-1 last-child">
-	                  <!--Begin Footer Menu-->
-                     <div id="nav-footer" class="first-child nth-child-odd nth-child-1">
-                        <ul class="first-child nth-child-odd only-child nth-child-1 last-child">
-                          <li class="first-child nth-child-odd nth-child-1"><a href="http://www.adp.com" class="first-child nth-child-odd only-child nth-child-1 last-child">Home</a></li><li class="separator nth-child-even nth-child-2"><a href="/solutions.aspx" id="solutions" class="first-child nth-child-odd only-child nth-child-1 last-child">Products &amp; Solutions</a></li><li class="separator nth-child-odd nth-child-3"><a href="/tools-and-resources.aspx" id="resources" class="first-child nth-child-odd only-child nth-child-1 last-child">Tools &amp; Resources</a></li><li class="separator nth-child-even nth-child-4"><a href="/media.aspx" id="media" class="first-child nth-child-odd only-child nth-child-1 last-child">Media Center</a></li><li class="separator nth-child-odd nth-child-5"><a href="/partners.aspx" id="partners" class="first-child nth-child-odd only-child nth-child-1 last-child">Partners</a></li><li class="separator nth-child-even nth-child-6"><a href="/about-us.aspx" id="about" class="first-child nth-child-odd only-child nth-child-1 last-child">About ADP</a></li><li class="separator nth-child-odd nth-child-7"><a href="/careers.aspx" id="career" class="first-child nth-child-odd only-child nth-child-1 last-child">Careers</a></li><li class="separator nth-child-even nth-child-8"><a href="/legal.aspx" target="_blank" class="first-child nth-child-odd only-child nth-child-1 last-child">Legal</a></li><li class="separator nth-child-odd nth-child-9"><a href="/privacy.aspx" target="_blank" id="Privacy" class="first-child nth-child-odd only-child nth-child-1 last-child">Privacy &amp; Security</a></li><li class="separator nth-child-even nth-child-10 last-child"><a href="/site-map.aspx" id="Sitemap" class="first-child nth-child-odd only-child nth-child-1 last-child">Site Map</a></li>
-                        </ul>
-                     </div>
-                     <!--End Footer Menu-->
-                     <!--Begin Copyright-->
-                     <div id="site-info" class="nth-child-even nth-child-2 last-child">
-                        <p class="first-child nth-child-odd only-child nth-child-1 last-child">© <span id="copyright-year" class="first-child nth-child-odd only-child nth-child-1 last-child">Copyright 2009</span> Automatic Data Processing, Inc.</p>
-                     </div>
-                     <!--End Copyright-->
-                  </div></td><!--End Footer--><!--Begin Body--></tr></tfoot>
+<td valign="top" class="first-child nth-child-odd only-child nth-child-1 last-child">
+<div id="footer" class="first-child nth-child-odd only-child nth-child-1 last-child">
+    <!--Begin Footer Menu-->
+    <div id="nav-footer" class="first-child nth-child-odd nth-child-1">
+        <ul class="first-child nth-child-odd only-child nth-child-1 last-child">
+            <li class="first-child nth-child-odd nth-child-1"><a href="http://www.adp.com" class="first-child nth-child-odd only-child nth-child-1 last-child">Home</a></li><li class="separator nth-child-even nth-child-2"><a id="solutions" href="/solutions.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Products &amp; Solutions</a></li><li class="separator nth-child-odd nth-child-3"><a id="Sitemap" href="/site-map.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Site Map</a></li><li class="separator nth-child-even nth-child-4"><a id="resources" href="/tools-and-resources.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Tools &amp; Resources</a></li><li class="separator nth-child-odd nth-child-5"><a id="Privacy" href="/privacy.aspx" target="_blank" class="first-child nth-child-odd only-child nth-child-1 last-child">Privacy &amp; Security</a></li><li class="separator nth-child-even nth-child-6"><a id="about" href="/about-us.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">About ADP</a></li><li class="separator nth-child-odd nth-child-7"><a id="media" href="/media.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Media Center</a></li><li class="separator nth-child-even nth-child-8"><a id="CareerNew" href="/careers.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Careers</a></li><li class="separator nth-child-odd nth-child-9"><a id="partners" href="/partners.aspx" class="first-child nth-child-odd only-child nth-child-1 last-child">Partners</a></li><li class="separator nth-child-even nth-child-10 last-child"><a id="" href="/legal.aspx" target="_blank" class="first-child nth-child-odd only-child nth-child-1 last-child">Legal</a></li>
+        </ul>
+    </div>
+    <!--End Footer Menu-->
+    <!--Begin Copyright-->
+    <div id="site-info" class="nth-child-even nth-child-2 last-child">
+        <p class="first-child nth-child-odd only-child nth-child-1 last-child">
+            © <span id="copyright-year" class="first-child nth-child-odd only-child nth-child-1 last-child">Copyright 2010</span> Automatic Data Processing,
+            Inc.</p>
+    </div>
+    <!--End Copyright-->
+</div>
+</td><!--End Footer--><!--Begin Body--></tr></tfoot>
 <tbody class="trc-small-wm nth-child-odd nth-child-3 last-child">
 <tr id="content_0_content" class="style-red first-child nth-child-odd only-child nth-child-1 last-child">
 	<td valign="top" class="first-child nth-child-odd only-child nth-child-1 last-child"><div id="content-main" class="first-child nth-child-odd only-child nth-child-1 last-child"><!--Begin Title--><div id="content-title" class="first-child nth-child-odd nth-child-1"><h1 class="first-child nth-child-odd only-child nth-child-1 last-child"><img src="~/media/images/titles/privacy.ashx" alt="Privacy" class="first-child nth-child-odd only-child nth-child-1 last-child"></h1><!--render section title here--></div><!--End Title--><!--Begin Breadcrumb--><script type="text/javascript" class="nth-child-even nth-child-2">
@@ -142,14 +198,40 @@
 </script><div id="breadcrumb" class="nth-child-odd nth-child-3"><strong class="first-child nth-child-odd nth-child-1">Go Back To:</strong>&nbsp;
         <a href="/" class="nth-child-even nth-child-2">Home</a>
             &nbsp;/&nbsp;
-          <div id="page-tools" class="nth-child-odd nth-child-3 last-child"><a id="to-bookmark" href="javascript:bookmark_us();" onclick="var s=s_gi('adpnew2008');s.linkTrackVars='eVar26';s.linkTrackEvents='event32';s.tl(this,'o',document.URL);" class="first-child nth-child-odd nth-child-1">Bookmark This Page</a><a id="to-email" href="#" onclick="javascript:window.open('/Email.aspx?refLink=' + window.location.href,'EmailPageUrl', 'width=350, height=155, location=no, menubar=no, status=no, toolbar=no, scrollbars=no, resizable=no');return;" class="nth-child-even nth-child-2">Email This Page</a><a id="to-print" href="#" onclick="javascript:open_window();" class="nth-child-odd nth-child-3 last-child">Print This Page</a></div></div><!--End Breadcrumb--><div class="clearfix nth-child-even nth-child-4 last-child" id="col-body"><div id="col-content" class="first-child nth-child-odd only-child nth-child-1 last-child"><p class="intro first-child nth-child-odd nth-child-1">
+          <div id="page-tools" class="nth-child-odd nth-child-3 last-child"><a id="to-bookmark" href="javascript:bookmark_us();" onclick="var s=s_gi('adpnew2008');s.linkTrackVars='eVar26';s.linkTrackEvents='event32';s.tl(this,'o',document.URL);" class="first-child nth-child-odd nth-child-1">Bookmark</a><a id="to-email" href="#" onclick="javascript:window.open('/Email.aspx?refLink=' + window.location.href,'EmailPageUrl', 'width=350, height=155, location=no, menubar=no, status=no, toolbar=no, scrollbars=no, resizable=no');return;" class="nth-child-even nth-child-2">Email</a><a id="to-print" href="#" onclick="javascript:open_window();" class="nth-child-odd nth-child-3 last-child">Print</a></div></div><!--End Breadcrumb--><div class="clearfix nth-child-even nth-child-4 last-child" id="col-body"><div id="col-content" class="first-child nth-child-odd only-child nth-child-1 last-child"><p class="intro first-child nth-child-odd nth-child-1">
 		</p><h1 class="nth-child-even nth-child-2">ADP.com Web Site Privacy Statement</h1>
     <h3 class="gray nth-child-odd nth-child-3">
       <br class="first-child nth-child-odd nth-child-1">ADP believes that privacy is important to the success and use of the Internet. This statement sets forth ADP's Privacy Statement for ADP.com and describes the practices that ADP will follow with respect to the privacy of users of this site. From time to time, we may change this Privacy Statement. For example, as we update and improve our service, new features may require modifications to the Privacy Statement. Accordingly, please check back periodically. <br class="nth-child-even nth-child-2 last-child"></h3>
     <p class="nth-child-even nth-child-4">
+      <!-- <a href="#wn">What's New In Privacy and Security</a> -->
       <br class="first-child nth-child-odd nth-child-1">
-      <strong class="nth-child-even nth-child-2">What is personally identifiable information?</strong>
-      <br class="nth-child-odd nth-child-3">"Personally identifiable information" is information about you, such as name, address, e-mail address, user ID, credit card number, social security number, and so on. <br class="nth-child-even nth-child-4"><br class="nth-child-odd nth-child-5"><strong class="nth-child-even nth-child-6">How is information collected, used, and disclosed?</strong><br class="nth-child-odd nth-child-7">We do not collect personal information -- including your e-mail address -- unless we first ask you for it. On some of our sites, we may request that you voluntarily supply us with information, including your e-mail address, street address, telephone number or other information so that we may enhance your site visit or follow up with you after your visit. Whether you provide any information is entirely up to you. <br class="nth-child-even nth-child-8"><br class="nth-child-odd nth-child-9">If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. In some circumstances, ADP may share information you voluntarily provide us with trustworthy business partners. We do not sell or rent personal information collected through this site to anyone. Also, ADP may provide aggregate statistics about visitors to our sites, such as volume, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifiable information. ADP may also disclose information in special cases when we have a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect and defend our rights or property; (c) enforce the Web site Terms and Conditions of Use; or (d) act to protect the interests of our users or others. <br class="nth-child-even nth-child-10"><br class="nth-child-odd nth-child-11"><strong class="nth-child-even nth-child-12">What are cookies and how are they used?</strong><br class="nth-child-odd nth-child-13">Some ADP sites, like many other commercial web sites, may utilize a standard technology called "cookies" to collect information about how our site is used. Cookies were designed to help a web site operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set while the user was browsing the site. Cookies are small strings of text that web sites can send to your browser. Cookies cannot retrieve any other data from your hard drive or obtain your e-mail address. If you are simply browsing an ADP informational site, a cookie may be used to identify your browser as one that has visited the site before. <br class="nth-child-even nth-child-14"><br class="nth-child-odd nth-child-15">We may also make use of memory-based cookies in support of authenticating the user of certain ADP web applications. Similarly, if you are a registered user of a site providing service to ADP clients (and have a user ID and password), we may use cookies so that we can provide personalized information based on preferences you have indicated while using the site. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize ADP services which require registration if you reject cookies. <br class="nth-child-even nth-child-16"><br class="nth-child-odd nth-child-17"><strong class="nth-child-even nth-child-18">What are your choices regarding collection, use, and distribution of your information?</strong><br class="nth-child-odd nth-child-19">If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. If, in connection with your use of a particular service, we ask to use your data in a way not described in this Privacy Statement and you do not wish to permit that use, you can choose not to use the particular service. <br class="nth-child-even nth-child-20"><br class="nth-child-odd nth-child-21">If you have voluntarily provided personally identifiable information, we may, from time to time, send you mail or e-mail regarding products and services. If you do not want to receive such offers and mailings, you can easily indicate that by checking the appropriate box on the submission form. <br class="nth-child-even nth-child-22"><br class="nth-child-odd nth-child-23"><strong class="nth-child-even nth-child-24">How can you correct, access, and update your information?</strong><br class="nth-child-odd nth-child-25">You may view and edit your personally identifiable information at any time by contacting us using the link provided on the web site. <br class="nth-child-even nth-child-26"><br class="nth-child-odd nth-child-27"><strong class="nth-child-even nth-child-28">How do we protect your information?</strong><br class="nth-child-odd nth-child-29">We exercise great care to protect your personally identifiable information. This includes, among other things, using industry standard techniques such as firewalls, encryption, intrusion detection and site monitoring. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. This is especially true for information you transmit to us via e-mail. We have no way of protecting that information until it reaches us. Once we receive your transmission, we make our best effort to ensure its security on our servers. <br class="nth-child-even nth-child-30"><br class="nth-child-odd nth-child-31">Internally, we will restrict access to your personally identifiable information to employees who need access to the information in order to do their jobs. These employees are limited in number, and are committed to our privacy policies. <br class="nth-child-even nth-child-32"><br class="nth-child-odd nth-child-33">We will review our security arrangements from time to time as we deem appropriate. <br class="nth-child-even nth-child-34"><br class="nth-child-odd nth-child-35"><strong class="nth-child-even nth-child-36">How can you help protect your information?</strong><br class="nth-child-odd nth-child-37">If you are using an ADP web site for which you registered and chose a password, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer. <br class="nth-child-even nth-child-38"><br class="nth-child-odd nth-child-39"><strong class="nth-child-even nth-child-40">Other sites</strong><br class="nth-child-odd nth-child-41">ADP sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites. <br class="nth-child-even nth-child-42"><br class="nth-child-odd nth-child-43">If you have questions or concerns regarding this statement, you should contact us at <a href="mailto:ES_Privacy@adp.com" class="nth-child-even nth-child-44">ES_Privacy@adp.com</a>. <br class="nth-child-odd nth-child-45 last-child"></p><p class="nth-child-odd nth-child-5 last-child"></p></div></div></div></td>
+      <strong class="nth-child-even nth-child-2">What is personally identifiable information?</strong> <br class="nth-child-odd nth-child-3">"Personally identifiable information" is information about you, such as name, address, e-mail address, user ID, credit card number, social security number, and so on. <br class="nth-child-even nth-child-4"><br class="nth-child-odd nth-child-5"><strong class="nth-child-even nth-child-6">How is information collected, used, and disclosed?</strong><br class="nth-child-odd nth-child-7">We do not collect personal information -- including your e-mail address -- unless we first ask you for it. On some of our sites, we may request that you voluntarily supply us with information, including your e-mail address, street address, telephone number or other information so that we may enhance your site visit or follow up with you after your visit. Whether you provide any information is entirely up to you. <br class="nth-child-even nth-child-8"><br class="nth-child-odd nth-child-9">If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. In some circumstances, ADP may share information you voluntarily provide us with trustworthy business partners. We do not sell or rent personal information collected through this site to anyone. Also, ADP may provide aggregate statistics about visitors to our sites, such as volume, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifiable information. ADP may also disclose information in special cases when we have a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect and defend our rights or property; (c) enforce the Web site Terms and Conditions of Use; or (d) act to protect the interests of our users or others. <br class="nth-child-even nth-child-10"><br class="nth-child-odd nth-child-11"><strong class="nth-child-even nth-child-12">What are cookies and how are they used?</strong><br class="nth-child-odd nth-child-13">Some ADP sites, like many other commercial web sites, may utilize a standard technology called "cookies" to collect information about how our site is used. Cookies were designed to help a web site operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set while the user was browsing the site. Cookies are small strings of text that web sites can send to your browser. Cookies cannot retrieve any other data from your hard drive or obtain your e-mail address. If you are simply browsing an ADP informational site, a cookie may be used to identify your browser as one that has visited the site before. <br class="nth-child-even nth-child-14"><br class="nth-child-odd nth-child-15">We may also make use of memory-based cookies in support of authenticating the user of certain ADP web applications. Similarly, if you are a registered user of a site providing service to ADP clients (and have a user ID and password), we may use cookies so that we can provide personalized information based on preferences you have indicated while using the site. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize ADP services which require registration if you reject cookies. <br class="nth-child-even nth-child-16"><br class="nth-child-odd nth-child-17"><strong class="nth-child-even nth-child-18">What are your choices regarding collection, use, and distribution of your information?</strong><br class="nth-child-odd nth-child-19">If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. If, in connection with your use of a particular service, we ask to use your data in a way not described in this Privacy Statement and you do not wish to permit that use, you can choose not to use the particular service. <br class="nth-child-even nth-child-20"><br class="nth-child-odd nth-child-21">If you have voluntarily provided personally identifiable information, we may, from time to time, send you mail or e-mail regarding products and services. If you do not want to receive such offers and mailings, you can easily indicate that by checking the appropriate box on the submission form. <br class="nth-child-even nth-child-22"><br class="nth-child-odd nth-child-23"><strong class="nth-child-even nth-child-24">How can you correct, access, and update your information?</strong><br class="nth-child-odd nth-child-25">You may view and edit your personally identifiable information at any time by contacting us using the link provided on the web site. <br class="nth-child-even nth-child-26"><br class="nth-child-odd nth-child-27"><strong class="nth-child-even nth-child-28">How do we protect your information?</strong><br class="nth-child-odd nth-child-29">We exercise great care to protect your personally identifiable information. This includes, among other things, using industry standard techniques such as firewalls, encryption, intrusion detection and site monitoring. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. This is especially true for information you transmit to us via e-mail. We have no way of protecting that information until it reaches us. Once we receive your transmission, we make our best effort to ensure its security on our servers. <br class="nth-child-even nth-child-30"><br class="nth-child-odd nth-child-31">Internally, we will restrict access to your personally identifiable information to employees who need access to the information in order to do their jobs. These employees are limited in number, and are committed to our privacy policies. <br class="nth-child-even nth-child-32"><br class="nth-child-odd nth-child-33">We will review our security arrangements from time to time as we deem appropriate. <br class="nth-child-even nth-child-34"><br class="nth-child-odd nth-child-35"><strong class="nth-child-even nth-child-36">How can you help protect your information?</strong><br class="nth-child-odd nth-child-37">If you are using an ADP web site for which you registered and chose a password, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer. <br class="nth-child-even nth-child-38"><br class="nth-child-odd nth-child-39"><strong class="nth-child-even nth-child-40">Other sites</strong><br class="nth-child-odd nth-child-41">ADP sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites. <br class="nth-child-even nth-child-42"><br class="nth-child-odd nth-child-43">If you have questions or concerns regarding this statement, you should contact us at <a href="mailto:ES_Privacy@adp.com" class="nth-child-even nth-child-44">ES_Privacy@adp.com</a>. <br class="nth-child-odd nth-child-45 last-child"></p>
+    <a name="wn" class="nth-child-odd nth-child-5">
+    </a>
+    <h1 class="nth-child-even nth-child-6">Secure Email</h1>
+    <p class="nth-child-odd nth-child-7">
+      <strong class="first-child nth-child-odd only-child nth-child-1 last-child">A message for all ADP’s clients and business partners:</strong>
+    </p>
+    <p class="nth-child-even nth-child-8">
+      <strong class="first-child nth-child-odd only-child nth-child-1 last-child">The ADP Secure Email System</strong>
+    </p>
+    <p class="nth-child-odd nth-child-9">As part of ADP’s ongoing efforts to strengthen security and to protect sensitive information, we have a Secure Email system. It provides a convenient method for you to receive and reply to secure emails, while continuing to ensure the integrity of the information interchange. </p>
+    <p class="nth-child-even nth-child-10">
+      <strong class="first-child nth-child-odd only-child nth-child-1 last-child">Will I have to install new software or register for the new system?</strong>
+    </p>
+    <p class="nth-child-odd nth-child-11">No new software is required on your system. The first time you use the new secure email system, you will be asked to create a password. You will also select a password recovery question / answer that will allow you to change your password. There are no other registration requirements. </p>
+    <p class="nth-child-even nth-child-12">
+      <strong class="first-child nth-child-odd only-child nth-child-1 last-child">How will I receive secure email messages from ADP?</strong>
+    </p>
+    <p class="nth-child-odd nth-child-13">Secure email messages (and any attached files) from ADP will be encrypted before they are sent, and then delivered directly to your inbox. When you open the message you will be prompted to enter your password, which will decrypt the message (and any attached files). You can then save, reply to, or forward the message and files. </p>
+    <p class="nth-child-even nth-child-14">
+      <strong class="first-child nth-child-odd only-child nth-child-1 last-child">Are there reply capabilities? Can I initiate a secure email to an ADP Associate?</strong>
+    </p>
+    <p class="nth-child-odd nth-child-15">You can respond to ADP secure emails with secure replies, and there is also a method for initiating secure email exchanges with ADP associates. </p>
+    <p class="nth-child-even nth-child-16">
+      <strong class="first-child nth-child-odd only-child nth-child-1 last-child">Where can I get more information?</strong>
+    </p>
+    <a href="~/media/PDF/Privacy/Clients Secure Email User Guide.ashx" target="_blank" class="nth-child-odd nth-child-17">Secure Email User Guide</a> <br class="nth-child-even nth-child-18"><br class="nth-child-odd nth-child-19"><a href="~/media/PDF/Privacy/Clients Secure Email Quick Reference.ashx" target="_blank" class="nth-child-even nth-child-20">Secure Email Quick Reference</a><p class="nth-child-odd nth-child-21 last-child"></p></div></div></div></td>
 </tr>
 </tbody><!--End Body--></table>
                </form>
@@ -161,37 +243,67 @@
 s.prop4="Corporate"
 s.eVar6="Privacy"
 s.pageName="us|corp|es|privacy"
-s.eVar4="Corporate"
+s.eVar1="United States"
 s.eVar9="Main Category Page"
 s.prop6="Privacy"
 s.server="Production"
 s.channel="Privacy"
 s.prop1="United States"
 s.eVar3="Employer Services"
+s.eVar4="Corporate"
 s.prop3="Employer Services"
 s.eVar2="English United States"
 s.prop2="English United States"
-s.eVar1="United States"
 s.prop9="Main Category Page"
+s.eVar27="04"
+s.eVar29="2bft3rbuga5nmg45kaqrpqei"
 
-
-s.eVar27="18"
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 
-	var s_code=s.t();if(s_code)document.write(s_code)//-->
+var s_code=s.t();if(s_code)document.write(s_code)//-->
 
-</script><script language="JavaScript" type="text/javascript" class="nth-child-even nth-child-4"></script><noscript class="nth-child-odd nth-child-5"><a href="http://www.omniture.com" title="Web Analytics"><img src="http://adpglobalnewsite08dev.112.2O7.net/b/ss/adpglobalnewsite08dev/1/H.17--NS/0" height="1" width="1" border="0" alt=""></a></noscript>
+</script><script language="JavaScript" type="text/javascript" class="nth-child-even nth-child-4"></script><noscript class="nth-child-odd nth-child-5"><a href='http://www.omniture.com' title='Web Analytics'><img src='http://adpglobalnewsite08dev.112.2O7.net/b/ss/adpglobalnewsite08dev/1/H.17--NS/0' height='1' width='1' border='0' alt=''></a></noscript>
 <!-- DO NOT REMOVE -->
 <!-- End SiteCatalyst code version: H.17. -->
-<script type="text/javascript" language="JavaScript" src="/elqNow/MAS/elqCfg.js" class="nth-child-even nth-child-6"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/MAS/elqImg.js" class="nth-child-odd nth-child-7"></script><layer hidden="true" class="nth-child-even nth-child-8"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=937&amp;ref2=elqNone&amp;tzo=0&amp;ms=209" border="0" width="1" height="1" class="first-child nth-child-odd only-child nth-child-1 last-child"></layer>
-<script type="text/javascript" language="JavaScript" src="/elqNow/NAS/elqCfg.js" class="nth-child-odd nth-child-9"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/NAS/elqImg.js" class="nth-child-even nth-child-10"></script><layer hidden="true" class="nth-child-odd nth-child-11"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=478&amp;ref2=elqNone&amp;tzo=0&amp;ms=221" border="0" width="1" height="1" class="first-child nth-child-odd only-child nth-child-1 last-child"></layer>
-<script type="text/javascript" language="JavaScript" src="/elqNow/TW/elqCfg.js" class="nth-child-even nth-child-12"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/TW/elqImg.js" class="nth-child-odd nth-child-13"></script><layer hidden="true" class="nth-child-even nth-child-14"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=901&amp;ref2=elqNone&amp;tzo=0&amp;ms=249" border="0" width="1" height="1" class="first-child nth-child-odd only-child nth-child-1 last-child"></layer>
-<script type="text/javascript" language="JavaScript" src="/elqNow/IS/elqImg.js" class="nth-child-odd nth-child-15"></script><layer hidden="true" class="nth-child-even nth-child-16"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=901&amp;ref2=elqNone&amp;tzo=0&amp;ms=260" border="0" width="1" height="1" class="first-child nth-child-odd only-child nth-child-1 last-child"></layer>
-<script type="text/javascript" language="JavaScript" src="/elqNow/IS/elqCfg.js" class="nth-child-odd nth-child-17 last-child"></script>
+
+<script type="text/javascript" class="nth-child-even nth-child-6">
+
+
+</script>
+<script language="javascript" src="https://dsa.csdata1.com/data/js/1081107/csgather.js" class="nth-child-odd nth-child-7"></script>
+
+<script type="text/javascript" language="JavaScript" src="/elqNow/MAS/elqCfg.js" class="nth-child-even nth-child-8"></script>
+<script type="text/javascript" language="JavaScript" src="/elqNow/MAS/elqImg.js" class="nth-child-odd nth-child-9"></script><layer hidden="true" class="nth-child-even nth-child-10"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=937&amp;ref2=elqNone&amp;tzo=0&amp;ms=893" border="0" width="1" height="1" class="first-child nth-child-odd only-child nth-child-1 last-child"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/NAS/elqCfg.js" class="nth-child-odd nth-child-11"></script>
+<script type="text/javascript" language="JavaScript" src="/elqNow/NAS/elqImg.js" class="nth-child-even nth-child-12"></script><layer hidden="true" class="nth-child-odd nth-child-13"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=478&amp;ref2=elqNone&amp;tzo=0&amp;ms=896" border="0" width="1" height="1" class="first-child nth-child-odd only-child nth-child-1 last-child"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/IS/elqImg.js" class="nth-child-even nth-child-14"></script><layer hidden="true" class="nth-child-odd nth-child-15"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=478&amp;ref2=elqNone&amp;tzo=0&amp;ms=898" border="0" width="1" height="1" class="first-child nth-child-odd only-child nth-child-1 last-child"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/IS/elqCfg.js" class="nth-child-even nth-child-16"></script>
+<!-- Start of DoubleClick Spotlight Tag: Please do not remove-->
+<!-- Activity Name for this tag is:ADP HOme View -->
+<!-- Web site URL where tag should be placed: http://www.adp.com -->
+<!-- This tag must be placed within the opening <body> tag, as close to the beginning of it as possible-->
+<!-- Creation Date:3/19/2010 -->
+<script type="text/javascript" language="javascript" class="nth-child-odd nth-child-17">
+var axel = Math.random()+"";
+var a = axel * 10000000000000;
+ document.write('<img src="http://ad.doubleclick.net/activity;src=2677469;type=adpho057;cat=adpho667;ord='+ a + '?" width="1" height="1" border="0"/>');
+</script><img src="http://ad.doubleclick.net/activity;src=2677469;type=adpho057;cat=adpho667;ord=1817674584788.3157?" width="1" height="1" border="0" class="nth-child-even nth-child-18">
+<noscript class="nth-child-odd nth-child-19">
+  <img src="http://ad.doubleclick.net/activity;src=2677469;type=adpho057;cat=adpho667;ord=1?" width="1" height="1" border="0"/>
+</noscript>
+<!-- End of DoubleClick Spotlight Tag: Please do not remove-->
+<img src="http://ads.undertone.com/fc.php?script=profileTargetingCommon:logBeacon&amp;cb=[timestamp]&amp;pid=712" alt="" style="display: none;" border="0" height="1" width="1" class="nth-child-even nth-child-20">
+<script type="text/javascript" class="nth-child-odd nth-child-21">
+var ebRand = Math.random()+'';
+ebRand = ebRand * 1000000;
+//<![CDATA[ 
+document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=59610&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
+//]]>
+</script><script src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=59610&amp;rnd=108782.22099263102" class="nth-child-even nth-child-22"></script>
+<noscript class="nth-child-odd nth-child-23 last-child">
+<img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=59610&amp;ns=1"/>
+</noscript>
 
 
 
