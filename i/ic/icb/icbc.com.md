@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412011859id_/http%3A//www.icbc.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623063624id_/http%3A//www.icbc.com/Privacy%2520Statement) for the most accurate reproduction.*
 
-# ICBC.com - Privacy Statement
+# ICBC | Privacy Statement
 
 Your privacy is important to us. This privacy statement describes the information we collect via the ICBC Web site (www.icbc.com), how we collect and use that information and how we protect your privacy. 
 
 ## What personal information we collect
 
-  * We do not collect personal information unless our Web site visitors volunteer it.
-  * When you respond to games on our site, we may collect personal information such as your name and e-mail address.
-  * When you complete online transactions, job applications, or enter our online surveys or contests, we may collect personal information such as your name, address, e-mail address and your internet IP address.
-  * When you voluntarily send us electronic mail, we collect your email address, your internet IP address and your message so that we may reply to you.
+  * We do not collect personal information unless our Web site visitors volunteer it. 
+  * When you respond to games on our site, we may collect personal information such as your name and e-mail address. 
+  * When you complete online transactions, job applications, or enter our online surveys or contests, we may collect personal information such as your name, address, e-mail address and your internet IP address. 
+  * When you voluntarily send us electronic mail, we collect your email address, your internet IP address and your message so that we may reply to you. 
   * We use cookies on this website only in those areas which contain an express statement regarding their use. 
 
 
 
-##  What session information we collect 
+## What session information we collect 
 
-  * We keep no individual visitor data.
-  * When you visit the ICBC Web site, our web server automatically collects a small amount of information to help us manage and improve our Web site. This information is aggregated, and is never used for individual tracking. It is only used to report our visitors' collective viewing habits and technical environment (e.g., browser type).
-  * Our Web site service provider advises us that no cookies are stored on visitors' computers as a result of session information collection.
+  * We keep no individual visitor data. 
+  * When you visit the ICBC Web site, our web server automatically collects a small amount of information to help us manage and improve our Web site. This information is aggregated, and is never used for individual tracking. It is only used to report our visitors' collective viewing habits and technical environment (e.g., browser type). 
+  * Our Web site service provider advises us that no cookies are stored on visitors' computers as a result of session information collection. 
 
 
 
-##  How we protect and use the personal information that we collect 
+## How we protect and use the personal information that we collect 
 
   * ICBC's collection, use, disclosure and retention of information complies with the provisions of the _Freedom of Information and Protection of Privacy Act_. Collected information is used only by authorized ICBC staff to fulfil the purpose for which it was originally collected, or other purposes which will be described in the transaction you are completing. 
   * We will not sell or trade any personally identifiable information that may be collected from our Web site and will not disclose such information to third parties except as authorized by law. 
@@ -40,7 +40,7 @@ Your privacy is important to us. This privacy statement describes the informatio
 
 ICBC may revise this Privacy Statement from time to time to reflect changes to our Web site. As a result, you should visit this page periodically to review the contents.
 
-##  Links to other sites
+## Links to other sites
 
 Our Web site contains links to other Web sites. Please be aware that privacy policies vary from site to site. We are not responsible for the privacy practices of other Web sites to which our site may link.
 
