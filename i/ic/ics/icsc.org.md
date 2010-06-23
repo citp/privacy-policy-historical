@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228093253id_/http%3A//www.icsc.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623114331id_/http%3A//www.icsc.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
