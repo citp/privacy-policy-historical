@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221022604id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004955id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
 
 # Acas - Acas privacy policy
 
@@ -20,15 +20,13 @@ By participating in these features we may ask you for your name, email address, 
 
 You may, however, visit parts of our site anonymously or purchase without registering. If you provide online feedback on the Acas website, we will only use this information to develop and improve the site.
 
-Acas retains the right to use information collected via our E-learning and training services for use with Acas mailings for marketing or informational (regarding promotions or changes to our services) purposes.[LW1]
+Acas retains the right to use information collected via our e-learning and training services for use with Acas mailings for marketing or informational (regarding promotions or changes to our services) purposes.
 
 ## Data Protection Act 1998
 
-If you have a complaint about an employment right or are responding to one, Acas will put some of the information you give us on to a computer. This helps us to monitor progress and produce statistics. Information may be passed to the Department for Business Regulation and Reform (BERR) to assist research into the use and effectiveness of Acas.
+If you have a complaint about an employment right or are responding to one, Acas will put some of the information you give us on to a computer. This helps us to monitor progress and produce statistics. Information may be passed to the Department for Business, Innovation and Skills (BIS) to assist research into the use and effectiveness of Acas.
 
 ## Site usage information
-
-i) Cookies
 
 Cookies are pieces of data created when you visit a site, which contain a unique, anonymous number. They are stored in the cookie directory of your hard-drive, and do not expire at the end of your session. Cookies do not contain any personal information and cannot be used to identify an individual user. If you choose not to accept the cookie, this will not affect your access to the majority of facilities available on our website.
 
@@ -40,11 +38,11 @@ Acas uses Nielsen//NetRatings and Google Analytics to track web statistics. For 
 
 You have the right to request a copy of the personal information Acas holds about you and to have any inaccuracies corrected. Please address requests (with a return email address where possible) to:
 
-The Web Team/Data ProtectionAcasBrandon House180 Borough High StLondon SW1 1LWemail: webteam@acas.org.uk
+The Web Team/Data ProtectionAcasEuston Tower286 Euston RoadLondon NW1 3JJEmail: [webteam@acas.org.uk](mailto:webteam@acas.org.uk)
 
-If you have a query or complaint about this privacy policy or about the site, you can contact us at webteam@acas.org.uk
+If you have a query or complaint about this privacy policy or about the site, you can contact us at [webteam@acas.org.uk](mailto:webteam@acas.org.uk). 
 
-**Please note we cannot answer personal situations or queries by email.** You can call the dedicated National Helpline 08457 47 47 47 for free confidential help and information on work issues.
+**Note that we cannot answer personal situations or queries by email.** You can call the dedicated National Helpline 08457 47 47 47 for free confidential help and information on work issues.
 
 ## Links to external sites from the Acas website
 
