@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mio.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219160357id_/http%3A//www.mio.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mio.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624014338id_/http%3A//www.mio.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Mio Technology
 
 MIO TECHNOLOGY AND ITS PARENT COMPANY AND AFFILIATED COMPANIES RESPECT YOUR PRIVACY AND ARE COMMITTED TO PROTECTING IT. MIO TECHNOLOGY ALSO BELIEVES IT IS IMPORTANT TO INFORM YOU ABOUT WE WILL USE YOUR PERSONAL DATA OR INFORMATION, AND TO GIVE YOU CHOICES ABOUT HOW THOSE DATA WILL BE USED. THEREFORE, PLEASE READ THIS PRIVACY POLICY CAREFULLY.
 
@@ -62,4 +62,4 @@ The terms of this Privacy Policy will govern the use and any information collect
 
 CONTACTING US
 
-If you have comments or questions about our Privacy Policy, welcome to send us your concerns and suggestions by feedback form. Please [click here](https://web.archive.org/web/20091219160357id_/http%3A//www.mio.com/about-mio-contact-us.htm).
+If you have comments or questions about our Privacy Policy, welcome to send us your concerns and suggestions by feedback form. Please [click here](https://web.archive.org/web/20100624014338id_/http%3A//www.mio.com/about-mio-contact-us.htm).
