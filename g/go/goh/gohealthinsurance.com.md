@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gohealthinsurance.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501101755id_/http%3A//www.gohealthinsurance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohealthinsurance.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623064321id_/http%3A//www.gohealthinsurance.com/privacy.html) for the most accurate reproduction.*
 
-# GoHealth Insurance Privacy Policy
+# Go Health Insurance Privacy Policy
 
 This website is owned and operated by the GoHealthInsurance.com network. GoHealthInsurance.com is a leading online source of information for people seeking to learn more about their insurance options. GoHealthInsurance.com also matches people in need of insurance services with insurance professionals who can provide those services. The use of our matching service (hereinafter "Service" or "Services") is free for consumers.
 
@@ -8,7 +8,7 @@ GoHealthInsurance.com believes it is important for you to know and understand ho
 
 Please note that this privacy policy only applies to this website. Other websites in the GoHealthInsurance.com network may have different privacy policies. 
 
-By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20090501101755id_/http%3A//www.gohealthinsurance.com/terms.html). 
+By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20100623064321id_/http%3A//www.gohealthinsurance.com/terms.html). 
 
 ### Services Offered By GoHealthInsurance.com
 
@@ -69,8 +69,8 @@ We provide you the opportunity to ‘opt-out’ of having your personally identi
 If you no longer wish to receive our newsletter and promotional communications from GoHealthInsurance.com or our affiliated marketing partners, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [customerservice@gohealthinsurance.com](mailto:customerservice@gohealthinsurance.com) or calling us at 1-888-250-3409 or writing to the address below:
 
 > GoHealthInsurance.com   
->  40 E. Chicago Avenue #169   
->  Chicago, IL 60611
+>  214 W. Huron Street  
+>  Chicago, IL 60654
 
 Any personally identifiable information you submit in our blog comments or forum can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in blog comments or forums.
 
@@ -84,7 +84,7 @@ While you are visiting this website the following information will be automatica
 
 **Consumers** :
 
-If you choose to give us personally-identifiable information, we may share this information with our network of insurance professionals to help answer your questions, fulfill your request, or for any purpose in our sole discretion. We may also share your personally-identifiable information with selected third parties to offer you products or services that we think will interest you. The professionals we match you with may contact you by phone, email, or mail to fulfill your inquiry and provide you with other offers you may be interested in. The personally-identifiable information we share with selected third parties includes name, e-mail address, phone number, and/or postal address. **** If you do not want us to share this information with other companies or organizations, please let us know by following one of the methods for opting-out of our communications.
+If you choose to give us personally-identifiable information, we may share this information with our network of insurance professionals to help answer your questions, fulfill your request, or for any purpose in our sole discretion. We may also share your personally-identifiable information with selected third parties to offer you products or services that may interest you. The professionals we match you with may contact you by phone, email, or mail to fulfill your inquiry and provide you with other offers you may be interested in. The personally-identifiable information we share with selected third parties includes name, e-mail address, phone number, and/or postal address. **** If you do not want us to share this information with other companies or organizations, please let us know by following one of the methods for opting-out of our communications.
 
 The professionals in our network may include, but are not limited to, insurance agents, discount program representatives, and other financial services brokers. 
 
@@ -145,8 +145,8 @@ Companies that collect personally-identifiable information from California resid
 GoHealthInsurance.com has elected the second option, and you may request that your personally-identifiable information not be shared with third parties by sending your request, including your full name, email address and postal address to:
 
 > GoHealthInsurance.com   
->  40 E. Chicago Avenue #169   
->  Chicago, IL 60611
+>  214 W. Huron Street   
+>  Chicago, IL 60654
 
 In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
 
@@ -182,11 +182,11 @@ The effective date of the TRUSTe license for GoHealthInsurance.com is 08/25/2008
 
 ### Contacting Us
 
-If you have any questions about GoHealth Insurance, this website, our service, or this Privacy Policy, you may contact us at:
+If you have any questions about Go Health Insurance, this website, our service, or this Privacy Policy, you may contact us at:
 
 > GoHealthInsurance.com  
->  40 E. Chicago Avenue #169  
->  Chicago, IL 60611
+>  214 W. Huron Street   
+>  Chicago, IL 60654
 > 
 > 1-888-250-3409
 
