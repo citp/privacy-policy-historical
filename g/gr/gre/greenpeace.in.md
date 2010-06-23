@@ -1,0 +1,35 @@
+> *The following text is extracted and transformed from the greenpeace.in privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623090741id_/http%3A//greenpeace.in/safefood/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy « Say NO to GE Food
+
+Greenpeace believes you have a fundamental right to privacy on the web, and we work to protect your security online as vigorously as possible.
+
+This policy applies to all the pages hosted on greenpeace.in. It does not apply to pages hosted by other organisations to which we may link and whose privacy policies may differ.
+
+We do not collect personally identifiable information on our web site unless you voluntarily choose to give it to us via this website, email, a phone call, by signing up as a supporter, or by postal mail. Even when you choose to give us information, we keep it confidential, and we bind suppliers who work with us by these conditions as well.
+
+We do not sell or rent web-generated mailing lists or other personally identifiable information outside Greenpeace.
+
+Greenpeace does not share or otherwise disclose its files to other organisations. However we may share files amongst national or regional Greenpeace offices to effectively inform and activate the public to win campaigns and help raise money to fund our activities.
+
+We do not provide mailing lists to outside agencies unless they agree to be bound by the terms of this Privacy Policy.
+
+When you sign a petition or other form on the website you will be added as a cyber-activist and we will send you updates on this and other important campaigns by email. If at any time you would like to unsubscribe from our email list, you may do so by clicking on the unsubscribe link in our mails.
+
+We maintain some records of individuals who contact us for further information or help in case we need to contact them later or provide further information to them in the future. However, we do not provide this information to anyone else unless you give us your permission, and we do not use this information for other purposes.
+
+Our site is hosted on a variety of servers. Information collected for fundraising purposes is collected on a server we own and maintain in a secure environment. Information in our website logs is not personally identifiable, and we make no attempt to link that information with the individuals that actually browse the site. The server collects information about the date and time in which our web site was accessed and the Internet address of the server from which you linked to our site. We may also track, anonymously, a user’s movement within the site. We use this data to improve our site performance and to evaluate traffic statistics, such as the times of day and days of week at which we see peak traffic, and to assess the relative popularity of different areas of the site.
+
+A cookie is a tiny element of data that our site can send to your browser, which may then be stored on your hard drive. Our web site uses cookies to customise certain options. This small amount of information does NOT contain any private information stored on your computer. You may set your web browser to notify you when you receive a cookie, or to disable cookies altogether. We do not use cookies to track your content choices.
+
+Our Donation form page uses Secure Sockets Layer (SSL): a security protocol that provides communications privacy over the Internet. The protocol allows client/server applications to communicate in a way that is designed to prevent eavesdropping, tampering, or message forgery. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. While on a secure page, such as our giving form, the lock icon on the bottom of Web browsers such as Firefox, Opera, Netscape Navigator, and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ’surfing’.
+
+You can learn more about SSL at:
+
+http://home.netscape.com/security/techbriefs/ssl.html
+
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of your information, not just the sensitive information like a credit card number, is restricted. Only employees who need the information to perform a specific job (for example, our donation officers) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, all Greenpeace employees who handle membership information are kept up-to-date on our security and privacy practices. Our employees are notified and reminded about the importance we place on privacy, and what they can do to ensure our supporters’ information is protected.
+
+If you have any questions about the information we maintain about your supporter details please contact web.producer.in@greenpeace.org
+
+By signing up as a cyberactivist or donor, you accept this privacy policy and authorize Greenpeace to collect, store and process your information in the ways mentioned above and for the purposes you submitted it.
