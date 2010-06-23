@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milfcocklovers.com privacy policy that was archived on 2008-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080926224138id_/http%3A//support.milfcocklovers.com/support_privacy.php%3Flang%3Dus%26tour%3D2%26id%3D2740%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milfcocklovers.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623192312id_/http%3A//support.milfcocklovers.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2740%26country%3Dus) for the most accurate reproduction.*
 
 # Milf Cock Lovers
 
