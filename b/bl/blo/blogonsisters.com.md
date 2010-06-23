@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogonsisters.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109204530id_/http%3A//blogonsisters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogonsisters.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623115726id_/http%3A//blogonsisters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Blog On Sisters – Start Your Global Conversation Today
 
