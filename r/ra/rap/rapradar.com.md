@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapradar.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112093703id_/http%3A//rapradar.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapradar.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623072722id_/http%3A//rapradar.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Rap Radar :: Privacy Policy
 
