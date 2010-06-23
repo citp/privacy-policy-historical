@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylocker.net privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222233943id_/http%3A//www.mylocker.net/privacy.cfm%3Fsc_id%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocker.net privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623132938id_/http%3A//www.mylocker.net/privacy.cfm%3Fsc_id%3D0) for the most accurate reproduction.*
 
 # My Locker Privacy Policy
 
@@ -6,7 +6,7 @@ This is the web site of **MyLocker.net**
 
 Our postal address is:  
 **28241 Mound Rd  
-Warren, MI, 48092**
+Warren, MI 48092**
 
 We can be reached via e-mail at [policy@mylocker.net](mailto:policy@mylocker.net)  
 or you can reach us by telephone at **877-898-3366**
