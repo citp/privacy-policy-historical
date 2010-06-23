@@ -1,92 +1,126 @@
-<!--The following is the downloaded HTML source of the pizzahut.com privacy policy that was archived on 2009-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091222013251id_/http%3A//www.pizzahut.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pizzahut.com privacy policy that was archived on 2010-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623134828id_/http%3A//www.pizzahut.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head"><title>
-	PizzaHut.com — Privacy Policy for America’s Favorite Pizza Online!
-</title><meta id="ctl00_description" name="Description" content="Privacy policy page for PizzaHut.com"><meta id="ctl00_keywords" name="Keywords" content="Pizza Hut Privacy Policy">
-	<link rel="STYLESHEET" type="text/css" href="/Stylesheets/ALBERT_Style.css">
-	<link rel="STYLESHEET" type="text/css" href="/Stylesheets/menuHovers/menuHover.css">	
+	Pizza Hut - America's Favorite Pizza - Privacy Policy
+</title><meta id="ctl00_description" name="Description" content="Pizza Hut privacy policy"><meta id="ctl00_keywords" name="Keywords" content="Pizza Hut privacy policy">
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/YETI_Style.css?version=5">
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/Navigation.css?version=5">
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/Homepage.css?version=5">
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/ContactUs.css?version=5">
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/MyHut.css?version=5">	
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/Catering.css?version=5">
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/Deals.css?version=5">		
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/FAQ.css?version=5">	
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/Typography.css?version=5">	
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/lightbox.css?version=5">
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/callouts.css?version=5">
+	<link rel="stylesheet" type="text/css" href="/Stylesheets/menuHovers/menuHover.css?version=5">	
+    <!--[if IE 7]>
+    <link rel="STYLESHEET" type="text/css" href="/Stylesheets/IE.css?version=3" />      
+    <![endif]--> 	
+
     <!--[if IE 6]>
-    <link rel="STYLESHEET" type="text/css" href="/Stylesheets/menuHovers/menuHover_ie6.css" />     
+    <link rel="STYLESHEET" type="text/css" href="/Stylesheets/ie6.css?version=3" />      
     <![endif]--> 	
     
 	<!-- For Print Version -->
-	<link rel="STYLESHEET" type="text/css" media="print" href="/Stylesheets/Print.css">
-	<script type="text/javascript" language="javascript" src="/JavaScript/ALBERT_Common.js"></script>
-	<script type="text/javascript" language="javascript" src="/JavaScript/jquery-1.2.6.min.js"></script>
-	<script type="text/javascript" language="javascript" src="/JavaScript/jquery.jcarousel.pack.js"></script>
-	<script type="text/javascript" language="javascript" src="/JavaScript/QOEnvironment.js"></script>
-	<script type="text/javascript" language="javascript" src="/JavaScript/ALBERT_Personalization.js"></script>
-	<script type="text/javascript" language="javascript" src="/JavaScript/ALBERT_PersonalizationVars.js"></script>
-	
-	<script language="javascript">
-		// Root URL
-		initialize('');		
-	</script>	
-	
-	<script type="text/javascript" language="javascript" src="/JavaScript/swfobject.js"></script>
-    <script type="text/javascript" language="javascript">
-        function switchLanguage() {
-	        urls=new Array();
-	        oh=new Array();tsd=new Array();
-	        tsh='quikorderespanol.pizzahut.com';
-	        oh[0]='quikorder.pizzahut.com';tsd[0]='/enes/sdquikorder/';
-	        oh[1]='qotest.quikorder.com';tsd[1]='/enes/sdqotest/sdquikorder/';
-	        urls[0]=new URLData(tsh, oh, tsd);
+	<link rel="stylesheet" type="text/css" media="print" href="/Stylesheets/Print.css?version=5">
 
-	        oh=new Array();tsd=new Array();
-	        tsh='espanol.pizzahut.com';
-	        oh[0]='www.wingstreet.com';tsd[0]='/enes/dwingstreet/';
-	        oh[1]='pizzahutcard.pizzahut.com';tsd[1]='/enes/sdpizzahutcard/';
-	        oh[2]='coupons.eurorscgretail.com';tsd[2]='/enes/sdcoupons/deurorscgretail/';
-	        oh[3]='a248.e.akamai.net';tsd[3]='/enes/sda248/dakamai/';
-	        oh[4]='www.pizzahut.com';tsd[4]='/enes/';
-	        urls[1]=new URLData(tsh, oh, tsd);
+<script type="text/javascript">
+    
+    function pageLoad() 
+    {
+       var sPath = window.location.pathname;
+        //var sPage = sPath.substring(sPath.lastIndexOf('\\') + 1);
+        var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+        //alert(sPage.toLowerCase());
+       if (sPage.toLowerCase() == "contactusform.aspx")
+       {
+          
+       }
+       else
+       {
+          GetUserInfo();
+       }
+    }
+  
+     
+    
+    function OnWSRequestFailed(error)
+    {
+        
+          var errorInfo = "Stack Trace: " + error.get_stackTrace() + "\r\n" +
+          "Error: " + error.get_message() + "\r\n" +
+          "Status Code: " + error.get_statusCode() + "\r\n" +
+          "Exception Type: " + error.get_exceptionType() + "\r\n" +
+          "Timed Out: " + error.get_timedOut();
+          
+          //alert(errorInfo);
+          PizzaHut.Web.WS.AEPersonalizationWS.WriteLog(errorInfo);
+          
+          //Any Exception on WebService. Still push to Quick Order site.
+          window.location = baseQuickOrderLoginURL;
+    }
+    
+    
+    
+        
+        
+</script>  
+<script type="text/javascript" language="javascript" src="/JavaScript/jquery-1.3.2.js"></script>
 
-	        var found=false;
-	        for (i=0;i<urls.length;i++){ 
-		        idx=location.href.indexOf(urls[i].tsh);
-		        if(idx==-1){
-			        for (j=0;j<urls[i].oh.length;j++){ 
-				        idx=location.href.indexOf(urls[i].oh[j]);
-				        if(idx>-1){
-					        idx=idx+urls[i].oh[j].length;hname=urls[i].tsh+urls[i].tsd[j];
-					        found=true;
-					        break;
-				        }
-			        }
-		        }else{
-			        for (j=0;j<urls[i].tsd.length;j++){ 
-				        idx=location.href.indexOf(urls[i].tsd[j]);
-				        if(idx>-1){
-					        idx=idx+urls[i].tsd[j].length;hname=urls[i].oh[j];
-					        found=true;
-					        break;
-				        }
-			        }
-		        }
-		        if (found) break;
-	        }
+<!--Scripts-->
+<script type="text/javascript" language="javascript" src="/JavaScript/YETI_Common.js?version=4"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/jquery.lightbox.js"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/sIFR.js"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/modalpopup.js"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/jquery.pngFix.pack.js"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/equalHeight.js"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/loadPlugins.js?version=4"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/QOEnvironment.js"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/YETI_Personalization.js?version=4"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/YETI_PersonalizationVars.js"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/jquery.scrollable-1.0.2.pack.js"></script>
+<script type="text/javascript" language="javascript" src="/JavaScript/mplink.js"></script>
 
-	        path=location.href.substring(idx);
-	        hend=hname.charAt(hname.length-1); pstart=path.charAt(0);
-	        if(hend=='/' && pstart=='/') path=path.substring(path.indexOf('/')+1);
-	        if(hend!='/' && pstart!='/') path='/'+path;
-	        location.href=location.protocol+'//'+hname+path;
-	        return false;
-        }
-        function URLData(tsh, oh, tsd) {
-	        this.tsh = tsh;
-	        this.oh = oh;
-	        this.tsd = tsd;
-        }	    
-    </script></head>
-<body>
-    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA4NjUyNDUyNQ9kFgJmD2QWBAIBD2QWBAIBDxYCHgdjb250ZW50BSRQcml2YWN5IHBvbGljeSBwYWdlIGZvciBQaXp6YUh1dC5jb21kAgIPFgIfAAUYUGl6emEgSHV0IFByaXZhY3kgUG9saWN5ZAIDD2QWAgIFDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWAgIBDxYCHwECIRZCZg9kFgICAQ8WAh4HVmlzaWJsZWgWBmYPFQYFYmxvY2sML1NpZ25VcC5hc3B4AAAAAGQCAQ8VBQAAB1NpZ24gVXAEbm9uZQwvU2lnblVwLmFzcHhkAgIPFQIAB1NpZ24gVXBkAgEPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2sJL0ZBUS5hc3B4AAAAAGQCAQ8VBQAAA0ZBUQRub25lCS9GQVEuYXNweGQCAg8VAgADRkFRZAICD2QWAgIBD2QWBmYPFQYFYmxvY2scL01lbnUuYXNweD90YWI9ZmVhdHVyZWRJdGVtcwRNZW51BE1lbnUETWVudQRNZW51ZAIBDxUFBE1lbnUETWVudQRNZW51BG5vbmUcL01lbnUuYXNweD90YWI9ZmVhdHVyZWRJdGVtc2QCAg8VAgRNZW51BE1lbnVkAgMPZBYCAgEPZBYGZg8VBgVibG9jaw8vTnV0cml0aW9uLmFzcHgJTnV0cml0aW9uCU51dHJpdGlvbglOdXRyaXRpb24JTnV0cml0aW9uZAIBDxUFCU51dHJpdGlvbglOdXRyaXRpb24JTnV0cml0aW9uBG5vbmUPL051dHJpdGlvbi5hc3B4ZAICDxUCCU51dHJpdGlvbglOdXRyaXRpb25kAgQPZBYCAgEPZBYGZg8VBgVibG9jazpodHRwczovL3F1aWtvcmRlci5waXp6YWh1dC5jb20vcGhvcmRlcnMyL3N0b3JlX2xvY2F0b3IucGhwCUxvY2F0aW9ucwlMb2NhdGlvbnMJTG9jYXRpb25zCUxvY2F0aW9uc2QCAQ8VBQlMb2NhdGlvbnMJTG9jYXRpb25zCUxvY2F0aW9ucwRub25lOmh0dHBzOi8vcXVpa29yZGVyLnBpenphaHV0LmNvbS9waG9yZGVyczIvc3RvcmVfbG9jYXRvci5waHBkAgIPFQIJTG9jYXRpb25zCUxvY2F0aW9uc2QCBQ9kFgICAQ9kFgZmDxUGBWJsb2NrCy9EZWFscy5hc3B4Bl9EZWFscwZfRGVhbHMGX0RlYWxzBl9EZWFsc2QCAQ8VBQZfRGVhbHMGX0RlYWxzBURlYWxzBG5vbmULL0RlYWxzLmFzcHhkAgIPFQIGX0RlYWxzBURlYWxzZAIGD2QWAgIBD2QWBmYPFQYFYmxvY2tXaHR0cHM6Ly9waXp6YWh1dGNhcmQucGl6emFodXQuY29tL3RyYWRpdGlvbmFsZ2lmdGNhcmQvP1dULm1jX2lkPTA5MDMwOUdpZnRfQ2FyZF9HbG9iYWxfBEdpZnQER2lmdARHaWZ0BEdpZnRkAgEPFQUER2lmdARHaWZ0CkdpZnQgQ2FyZHMEbm9uZVdodHRwczovL3BpenphaHV0Y2FyZC5waXp6YWh1dC5jb20vdHJhZGl0aW9uYWxnaWZ0Y2FyZC8/V1QubWNfaWQ9MDkwMzA5R2lmdF9DYXJkX0dsb2JhbF9kAgIPFQIER2lmdApHaWZ0IENhcmRzZAIHD2QWAgIBD2QWBmYPFQYFYmxvY2sLL3dpbmdzdHJlZXQOTWVudVdpbmdzdHJlZXQOTWVudVdpbmdzdHJlZXQOTWVudVdpbmdzdHJlZXQOTWVudVdpbmdzdHJlZXRkAgEPFQUOTWVudVdpbmdzdHJlZXQOTWVudVdpbmdzdHJlZXQKV2luZ3N0cmVldARub25lCy93aW5nc3RyZWV0ZAICDxUCDk1lbnVXaW5nc3RyZWV0CldpbmdzdHJlZXRkAggPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2sGL3B6b25lBVB6b25lBVB6b25lBVB6b25lBVB6b25lZAIBDxUFBVB6b25lBVB6b25lBVB6b25lBG5vbmUGL3B6b25lZAICDxUCBVB6b25lBVB6b25lZAIJD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrGS9nZXR0aGVQem9uZS9kZWZhdWx0LmFzcHgLZ2V0VGhlUHpvbmULZ2V0VGhlUHpvbmULZ2V0VGhlUHpvbmULZ2V0VGhlUHpvbmVkAgEPFQULZ2V0VGhlUHpvbmULZ2V0VGhlUHpvbmULZ2V0VGhlUHpvbmUEbm9uZRkvZ2V0dGhlUHpvbmUvZGVmYXVsdC5hc3B4ZAICDxUCC2dldFRoZVB6b25lC2dldFRoZVB6b25lZAIKD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrFC9pUGhvbmUvZGVmYXVsdC5hc3B4BmlQaG9uZQZpUGhvbmUGaVBob25lBmlQaG9uZWQCAQ8VBQZpUGhvbmUGaVBob25lBmlQaG9uZQRub25lFC9pUGhvbmUvZGVmYXVsdC5hc3B4ZAICDxUCBmlQaG9uZQZpUGhvbmVkAgsPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2sWL3NhbmRpZWdvL2RlZmF1bHQuYXNweA9TYW4gRGllZ28gT2ZmZXIPU2FuIERpZWdvIE9mZmVyD1NhbiBEaWVnbyBPZmZlcg9TYW4gRGllZ28gT2ZmZXJkAgEPFQUPU2FuIERpZWdvIE9mZmVyD1NhbiBEaWVnbyBPZmZlcg9TYW4gRGllZ28gT2ZmZXIEbm9uZRYvc2FuZGllZ28vZGVmYXVsdC5hc3B4ZAICDxUCD1NhbiBEaWVnbyBPZmZlcg9TYW4gRGllZ28gT2ZmZXJkAgwPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2sVL2RldHJvaXQvZGVmYXVsdC5hc3B4DURldHJvaXQgT2ZmZXINRGV0cm9pdCBPZmZlcg1EZXRyb2l0IE9mZmVyDURldHJvaXQgT2ZmZXJkAgEPFQUNRGV0cm9pdCBPZmZlcg1EZXRyb2l0IE9mZmVyDURldHJvaXQgT2ZmZXIEbm9uZRUvZGV0cm9pdC9kZWZhdWx0LmFzcHhkAgIPFQINRGV0cm9pdCBPZmZlcg1EZXRyb2l0IE9mZmVyZAIND2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrHi9maWdodG5pZ2h0cm91bmQ0L2RlZmF1bHQuYXNweApmaWdodE5pZ2h0CmZpZ2h0TmlnaHQKZmlnaHROaWdodApmaWdodE5pZ2h0ZAIBDxUFCmZpZ2h0TmlnaHQKZmlnaHROaWdodApmaWdodE5pZ2h0BG5vbmUeL2ZpZ2h0bmlnaHRyb3VuZDQvZGVmYXVsdC5hc3B4ZAICDxUCCmZpZ2h0TmlnaHQKZmlnaHROaWdodGQCDg9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaxUvdGhlZWRnZS9kZWZhdWx0LmFzcHgHdGhlRWRnZQd0aGVFZGdlB3RoZUVkZ2UHdGhlRWRnZWQCAQ8VBQd0aGVFZGdlB3RoZUVkZ2UHdGhlRWRnZQRub25lFS90aGVlZGdlL2RlZmF1bHQuYXNweGQCAg8VAgd0aGVFZGdlB3RoZUVkZ2VkAg8PZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2sOL091clN0b3J5LmFzcHgAAAAAZAIBDxUFAAAJT3VyIFN0b3J5BG5vbmUOL091clN0b3J5LmFzcHhkAgIPFQIACU91ciBTdG9yeWQCEA9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaw4vTmV3c3Jvb20uYXNweAAAAABkAgEPFQUAAAhOZXdzcm9vbQRub25lDi9OZXdzcm9vbS5hc3B4ZAICDxUCAAhOZXdzcm9vbWQCEQ9kFgICAQ8WAh8CaBYGZg8UKwIGBQVibG9jawUcL25ld3Nyb29tLzIwMDZIZWFkbGluZXMuYXNweGRkZGRkAgEPFCsCBWRkBSNQdWJsaWMgUmVsYXRpb25zIOKAlCAyMDA2IEhlYWRsaW5lcwUEbm9uZQUcL25ld3Nyb29tLzIwMDZIZWFkbGluZXMuYXNweGQCAg8UKwICZAUjUHVibGljIFJlbGF0aW9ucyDigJQgMjAwNiBIZWFkbGluZXNkAhIPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2uIAWphdmFzY3JpcHQ6T3Blbk5ldygnaHR0cDovL3d3dy5waXp6YWh1dC5jb20vZW1haWxzL3JlZGlyZWN0Lmh0bT9yZWRpcmVjdD1odHRwOi8vd3d3LnJlYWxwaXp6YWh1dGpvYnMuY29tJldULm1jX2lkPUNhcmVlcnNfR2xvYmFsX0xpbmsnKTsAAAAAZAIBDxUFAAAHQ2FyZWVycwRub25liAFqYXZhc2NyaXB0Ok9wZW5OZXcoJ2h0dHA6Ly93d3cucGl6emFodXQuY29tL2VtYWlscy9yZWRpcmVjdC5odG0/cmVkaXJlY3Q9aHR0cDovL3d3dy5yZWFscGl6emFodXRqb2JzLmNvbSZXVC5tY19pZD1DYXJlZXJzX0dsb2JhbF9MaW5rJyk7ZAICDxUCAAdDYXJlZXJzZAITD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrFi9jYXRlcmluZy9kZWZhdWx0LmFzcHgAAAAAZAIBDxUFAAAIQ2F0ZXJpbmcEbm9uZRYvY2F0ZXJpbmcvZGVmYXVsdC5hc3B4ZAICDxUCAAhDYXRlcmluZ2QCFA9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaw0vSHV0c2V1bS5hc3B4AAAAAGQCAQ8VBQAAB0h1dHNldW0Ebm9uZQ0vSHV0c2V1bS5hc3B4ZAICDxUCAAdIdXRzZXVtZAIVD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrEy9JbnRlcm5hdGlvbmFsLmFzcHgAAAAAZAIBDxUFAAANSW50ZXJuYXRpb25hbARub25lEy9JbnRlcm5hdGlvbmFsLmFzcHhkAgIPFQIADUludGVybmF0aW9uYWxkAhYPZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2sSL1N1cHBsaWVyQ29kZS5hc3B4AAAAAGQCAQ8VBQAADVN1cHBsaWVyIENvZGUEbm9uZRIvU3VwcGxpZXJDb2RlLmFzcHhkAgIPFQIADVN1cHBsaWVyIENvZGVkAhcPZBYCAgEPFgIfAmgWBmYPFQYEbm9uZRMvUHJpdmFjeVBvbGljeS5hc3B4AAAAAGQCAQ8VBQAADlByaXZhY3kgUG9saWN5BWJsb2NrEy9Qcml2YWN5UG9saWN5LmFzcHhkAgIPFQIADlByaXZhY3kgUG9saWN5ZAIYD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrEC9UZXJtc09mVXNlLmFzcHgAAAAAZAIBDxUFAAAMVGVybXMgb2YgVXNlBG5vbmUQL1Rlcm1zT2ZVc2UuYXNweGQCAg8VAgAMVGVybXMgb2YgVXNlZAIZD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrHi9Db250YWN0VXMvY29udGFjdGxhbmRpbmcuYXNweAAAAABkAgEPFQUAAApDb250YWN0IFVzBG5vbmUeL0NvbnRhY3RVcy9jb250YWN0bGFuZGluZy5hc3B4ZAICDxUCAApDb250YWN0IFVzZAIaD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrDS9TaXRlTWFwLmFzcHgAAAAAZAIBDxUFAAAIU2l0ZSBNYXAEbm9uZQ0vU2l0ZU1hcC5hc3B4ZAICDxUCAAhTaXRlIE1hcGQCGw9kFgICAQ8WAh8CaBYGZg8VBgVibG9jawsvRXJyb3IuYXNweAAAAABkAgEPFQUAAAVFcnJvcgRub25lCy9FcnJvci5hc3B4ZAICDxUCAAVFcnJvcmQCHA9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaxcvVlBvZlBpenphL0RlZmF1bHQuYXNweAAAAABkAgEPFQUAAAtWUCBvZiBQaXp6YQRub25lFy9WUG9mUGl6emEvRGVmYXVsdC5hc3B4ZAICDxUCAAtWUCBvZiBQaXp6YWQCHQ9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaxMvUFpvbmUvRGVmYXVsdC5hc3B4AAAAAGQCAQ8VBQAABlAnWm9uZQRub25lEy9QWm9uZS9EZWZhdWx0LmFzcHhkAgIPFQIABlAnWm9uZWQCHg9kFgICAQ8WAh8CaBYGZg8VBgVibG9jaxUvUFpvbmUvRW50cnlGb3JtLmFzcHgAAAAAZAIBDxUFAAAbUCdab25lIENoYWxsZW5nZSBFbnRyeSBGb3JtBG5vbmUVL1Bab25lL0VudHJ5Rm9ybS5hc3B4ZAICDxUCABtQJ1pvbmUgQ2hhbGxlbmdlIEVudHJ5IEZvcm1kAh8PZBYCAgEPFgIfAmgWBmYPFQYFYmxvY2scL1Bab25lL0NvbmZpcm1hdGlvblBhZ2UuYXNweAAAAABkAgEPFQUAACNQJ1pvbmUgQ2hhbGxlbmdlIEVudHJ5IENvbmZpcm1hdGlvbgRub25lHC9QWm9uZS9Db25maXJtYXRpb25QYWdlLmFzcHhkAgIPFQIAI1AnWm9uZSBDaGFsbGVuZ2UgRW50cnkgQ29uZmlybWF0aW9uZAIgD2QWAgIBDxYCHwJoFgZmDxUGBWJsb2NrHy9QWm9uZS9SdWxlc0FuZFJlZ3VsYXRpb25zLmFzcHgAAAAAZAIBDxUFAAAmUCdab25lIENoYWxsZW5nZSBSdWxlcyBhbmQgUmVndWxhdGlvbnMEbm9uZR8vUFpvbmUvUnVsZXNBbmRSZWd1bGF0aW9ucy5hc3B4ZAICDxUCACZQJ1pvbmUgQ2hhbGxlbmdlIFJ1bGVzIGFuZCBSZWd1bGF0aW9uc2Rksu4PMsukdmQocuyGqHgu4sBDs+o=">
-</div>
+<!--[if IE 6]>
+<script type="text/javascript" language="javascript" src="/JavaScript/DD_belatedPNG_0.0.8a-min.js"></script>
 
+<script type="text/JavaScript">
+  DD_belatedPNG.fix('.png');
+</script> 
+
+<![endif]-->
+
+<script type="text/javascript" language="javascript">
+	// Root URL
+	initialize('');		
+</script>	
+<script type="text/javascript"> 
+    jQuery(document).ready(function(){ 
+        jQuery('.wildcardWrapper, .wcImage').pngFix();
+        
+        //Forgot Password Link
+        forgetPassword = forgotPasswordLink; 
+    }); 
+</script>
+
+
+
+<script type="text/javascript" language="javascript" src="/JavaScript/swfobject.js"></script>
+</head>
+<body id="ctl00_masterBody" class="privacyPolicy">
+    <ie:clientcaps id="oClientCaps">    
+    <form name="aspnetForm" method="post" action="/privacypolicy.aspx" id="aspnetForm" class="mainForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNTk5ODgzNg9kFgJmD2QWBAIBD2QWBAIBDxYCHgdjb250ZW50BRhQaXp6YSBIdXQgcHJpdmFjeSBwb2xpY3lkAgIPFgIfAAUYUGl6emEgSHV0IHByaXZhY3kgcG9saWN5ZAIDDxYCHgVjbGFzcwUNcHJpdmFjeVBvbGljeRYCAgEPZBYEAgQPFgIeC18hSXRlbUNvdW50AgEWAmYPZBYCAgEPFgIfAgIjFkZmD2QWAgIBDxYCHgdWaXNpYmxlaBYEZg8VAgwvU2lnblVwLmFzcHgAZAIBDxUCAAdTaWduIFVwZAIBD2QWAgIBD2QWBGYPFQIUL215X2h1dC9kZWZhdWx0LmFzcHgFTXlIdXRkAgEPFQIFTXlIdXQGTXkgSHV0ZAICD2QWAgIBD2QWBGYPFQILL1BpenphLmFzcHgFUGl6emFkAgEPFQIFUGl6emEFUGl6emFkAgMPZBYCAgEPZBYEZg8VAgsvUGFzdGEuYXNweAVQYXN0YWQCAQ8VAgVQYXN0YQVQYXN0YWQCBA9kFgICAQ9kFgRmDxUCCy93aW5ncy5hc3B4BVdpbmdzZAIBDxUCBVdpbmdzBVdpbmdzZAIFD2QWAgIBDxYCHwNoFgRmDxUCDC9QWm9uZXMuYXNweAVQWm9uZWQCAQ8VAgVQWm9uZQdQJ1pvbmVzZAIGD2QWAgIBD2QWBGYPFQIdL0JpZ0VhdFRpbnlQcmljZS9kZWZhdWx0LmFzcHgGYmlnZWF0ZAIBDxUCBmJpZ2VhdApWYWx1ZSBNZW51ZAIHD2QWAgIBD2QWBGYPFQIUL1NpZGVzX0Rlc3NlcnRzLmFzcHgFU2lkZXNkAgEPFQIFU2lkZXMSU2lkZXMgYW5kIERlc3NlcnRzZAIID2QWAgIBD2QWBGYPFQIML0RyaW5rcy5hc3B4CUJldmVyYWdlc2QCAQ8VAglCZXZlcmFnZXMGRHJpbmtzZAIJD2QWAgIBD2QWBGYPFQILL0RlYWxzLmFzcHgFRGVhbHNkAgEPFQIFRGVhbHMFRGVhbHNkAgoPZBYCAgEPFgIfA2gWBGYPFQIUL2lwaG9uZS9kZWZhdWx0LmFzcHgGaVBob25lZAIBDxUCBmlQaG9uZQZpUGhvbmVkAgsPZBYCAgEPFgIfA2gWBGYPFQIPL051dHJpdGlvbi5hc3B4CU51dHJpdGlvbmQCAQ8VAglOdXRyaXRpb24JTnV0cml0aW9uZAIMD2QWAgIBDxYCHwNoFgRmDxUCOmh0dHBzOi8vcXVpa29yZGVyLnBpenphaHV0LmNvbS9waG9yZGVyczIvc3RvcmVfbG9jYXRvci5waHAJTG9jYXRpb25zZAIBDxUCCUxvY2F0aW9ucwlMb2NhdGlvbnNkAg0PZBYCAgEPFgIfA2gWBGYPFQIeL2ltcG9ydGFudE1lc3NhZ2UvZGVmYXVsdC5hc3B4EWltcG9ydGFudCBtZXNzYWdlZAIBDxUCEWltcG9ydGFudCBtZXNzYWdlEWltcG9ydGFudCBtZXNzYWdlZAIOD2QWAgIBDxYCHwNoFgRmDxUCLmh0dHBzOi8vcGl6emFodXRjYXJkLnBpenphaHV0LmNvbS9uZXdnaWZ0Y2FyZC8ER2lmdGQCAQ8VAgRHaWZ0CUdpZnQgQ2FyZGQCDw9kFgICAQ8WAh8DaBYEZg8VAg4vT3VyU3RvcnkuYXNweABkAgEPFQIACU91ciBTdG9yeWQCEA9kFgICAQ8WAh8DaBYEZg8VAg4vTmV3c3Jvb20uYXNweABkAgEPFQIACE5ld3Nyb29tZAIRD2QWAgIBDxYCHwNoFgRmDxUCEi9yZWFsL2RlZmF1bHQuYXNweABkAgEPFQIABHJlYWxkAhIPZBYCAgEPFgIfA2gWBGYPFQIcL21vYmlsZW9yZGVyaW5nL2RlZmF1bHQuYXNweABkAgEPFQIAGFRleHQgYW5kIE1vYmlsZSBPcmRlcmluZ2QCEw9kFgICAQ8WAh8DaBYEZg8VAhUvQ2FyZWVycy9kZWZhdWx0LmFzcHgAZAIBDxUCAAdDYXJlZXJzZAIUD2QWAgIBDxYCHwNoFgRmDxUCHi9waXp6YWh1dHNob3J0Y3V0L2RlZmF1bHQuYXNweABkAgEPFQIAElBpenphIEh1dCBTaG9ydGN1dGQCFQ9kFgICAQ8WAh8DaBYEZg8VAhMvSW50ZXJuYXRpb25hbC5hc3B4AGQCAQ8VAgANSW50ZXJuYXRpb25hbGQCFg9kFgICAQ8WAh8DaBYEZg8VAhIvU3VwcGxpZXJDb2RlLmFzcHgAZAIBDxUCAA1TdXBwbGllciBDb2RlZAIXD2QWAgIBDxYCHwNoFgRmDxUCEy9Qcml2YWN5UG9saWN5LmFzcHgAZAIBDxUCAA5Qcml2YWN5IFBvbGljeWQCGA9kFgICAQ8WAh8DaBYEZg8VAh4vQ29udGFjdFVzL2NvbnRhY3RsYW5kaW5nLmFzcHgAZAIBDxUCAApDb250YWN0IFVzZAIZD2QWAgIBDxYCHwNoFgRmDxUCDS9TaXRlTWFwLmFzcHgAZAIBDxUCAAhTaXRlIE1hcGQCGg9kFgICAQ8WAh8DaBYEZg8VAhAvVGVybXNPZlVzZS5hc3B4AGQCAQ8VAgAMVGVybXMgb2YgVXNlZAIbD2QWAgIBDxYCHwNoFgRmDxUCFi9DYXRlcmluZy9kZWZhdWx0LmFzcHgAZAIBDxUCAAhDYXRlcmluZ2QCHA9kFgICAQ8WAh8DaBYEZg8VAgkvRkFRLmFzcHgAZAIBDxUCAANGQVFkAh0PZBYCAgEPFgIfA2gWBGYPFQILL0Vycm9yLmFzcHgAZAIBDxUCAAVFcnJvcmQCHg9kFgICAQ8WAh8DaBYEZg8VAhcvVlBvZlBpenphL0RlZmF1bHQuYXNweABkAgEPFQIAC1ZQIG9mIFBpenphZAIfD2QWAgIBDxYCHwNoFgRmDxUCEy9QWm9uZS9EZWZhdWx0LmFzcHgAZAIBDxUCAAZQJ1pvbmVkAiAPZBYCAgEPFgIfA2gWBGYPFQIVL1Bab25lL0VudHJ5Rm9ybS5hc3B4AGQCAQ8VAgAbUCdab25lIENoYWxsZW5nZSBFbnRyeSBGb3JtZAIhD2QWAgIBDxYCHwNoFgRmDxUCHC9QWm9uZS9Db25maXJtYXRpb25QYWdlLmFzcHgAZAIBDxUCACNQJ1pvbmUgQ2hhbGxlbmdlIEVudHJ5IENvbmZpcm1hdGlvbmQCIg9kFgICAQ8WAh8DaBYEZg8VAh8vUFpvbmUvUnVsZXNBbmRSZWd1bGF0aW9ucy5hc3B4AGQCAQ8VAgAmUCdab25lIENoYWxsZW5nZSBSdWxlcyBhbmQgUmVndWxhdGlvbnNkAg0PZBYCAgcPZBYCZg9kFgYCDw8QZA8WDWYCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwWDRAFAk1NZWcQBQdKYW51YXJ5BQExZxAFCEZlYnJ1YXJ5BQEyZxAFBU1hcmNoBQEzZxAFBUFwcmlsBQE0ZxAFA01heQUBNWcQBQRKdW5lBQE2ZxAFBEp1bHkFATdnEAUGQXVndXN0BQE4ZxAFCVNlcHRlbWJlcgUBOWcQBQdPY3RvYmVyBQIxMGcQBQhOb3ZlbWJlcgUCMTFnEAUIRGVjZW1iZXIFAjEyZ2RkAhEPEGQPFiBmAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhACEQISAhMCFAIVAhYCFwIYAhkCGgIbAhwCHQIeAh8WIBAFAkREZWcQBQExBQExZxAFATIFATJnEAUBMwUBM2cQBQE0BQE0ZxAFATUFATVnEAUBNgUBNmcQBQE3BQE3ZxAFATgFAThnEAUBOQUBOWcQBQIxMAUCMTBnEAUCMTEFAjExZxAFAjEyBQIxMmcQBQIxMwUCMTNnEAUCMTQFAjE0ZxAFAjE1BQIxNWcQBQIxNgUCMTZnEAUCMTcFAjE3ZxAFAjE4BQIxOGcQBQIxOQUCMTlnEAUCMjAFAjIwZxAFAjIxBQIyMWcQBQIyMgUCMjJnEAUCMjMFAjIzZxAFAjI0BQIyNGcQBQIyNQUCMjVnEAUCMjYFAjI2ZxAFAjI3BQIyN2cQBQIyOAUCMjhnEAUCMjkFAjI5ZxAFAjMwBQIzMGcQBQIzMQUCMzFnZGQCEw8QZA8WZWYCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUCFgIXAhgCGQIaAhsCHAIdAh4CHwIgAiECIgIjAiQCJQImAicCKAIpAioCKwIsAi0CLgIvAjACMQIyAjMCNAI1AjYCNwI4AjkCOgI7AjwCPQI+Aj8CQAJBAkICQwJEAkUCRgJHAkgCSQJKAksCTAJNAk4CTwJQAlECUgJTAlQCVQJWAlcCWAJZAloCWwJcAl0CXgJfAmACYQJiAmMCZBZlEAUEWVlZWWVnEAUEMjAxMAUEMjAxMGcQBQQyMDA5BQQyMDA5ZxAFBDIwMDgFBDIwMDhnEAUEMjAwNwUEMjAwN2cQBQQyMDA2BQQyMDA2ZxAFBDIwMDUFBDIwMDVnEAUEMjAwNAUEMjAwNGcQBQQyMDAzBQQyMDAzZxAFBDIwMDIFBDIwMDJnEAUEMjAwMQUEMjAwMWcQBQQyMDAwBQQyMDAwZxAFBDE5OTkFBDE5OTlnEAUEMTk5OAUEMTk5OGcQBQQxOTk3BQQxOTk3ZxAFBDE5OTYFBDE5OTZnEAUEMTk5NQUEMTk5NWcQBQQxOTk0BQQxOTk0ZxAFBDE5OTMFBDE5OTNnEAUEMTk5MgUEMTk5MmcQBQQxOTkxBQQxOTkxZxAFBDE5OTAFBDE5OTBnEAUEMTk4OQUEMTk4OWcQBQQxOTg4BQQxOTg4ZxAFBDE5ODcFBDE5ODdnEAUEMTk4NgUEMTk4NmcQBQQxOTg1BQQxOTg1ZxAFBDE5ODQFBDE5ODRnEAUEMTk4MwUEMTk4M2cQBQQxOTgyBQQxOTgyZxAFBDE5ODEFBDE5ODFnEAUEMTk4MAUEMTk4MGcQBQQxOTc5BQQxOTc5ZxAFBDE5NzgFBDE5NzhnEAUEMTk3NwUEMTk3N2cQBQQxOTc2BQQxOTc2ZxAFBDE5NzUFBDE5NzVnEAUEMTk3NAUEMTk3NGcQBQQxOTczBQQxOTczZxAFBDE5NzIFBDE5NzJnEAUEMTk3MQUEMTk3MWcQBQQxOTcwBQQxOTcwZxAFBDE5NjkFBDE5NjlnEAUEMTk2OAUEMTk2OGcQBQQxOTY3BQQxOTY3ZxAFBDE5NjYFBDE5NjZnEAUEMTk2NQUEMTk2NWcQBQQxOTY0BQQxOTY0ZxAFBDE5NjMFBDE5NjNnEAUEMTk2MgUEMTk2MmcQBQQxOTYxBQQxOTYxZxAFBDE5NjAFBDE5NjBnEAUEMTk1OQUEMTk1OWcQBQQxOTU4BQQxOTU4ZxAFBDE5NTcFBDE5NTdnEAUEMTk1NgUEMTk1NmcQBQQxOTU1BQQxOTU1ZxAFBDE5NTQFBDE5NTRnEAUEMTk1MwUEMTk1M2cQBQQxOTUyBQQxOTUyZxAFBDE5NTEFBDE5NTFnEAUEMTk1MAUEMTk1MGcQBQQxOTQ5BQQxOTQ5ZxAFBDE5NDgFBDE5NDhnEAUEMTk0NwUEMTk0N2cQBQQxOTQ2BQQxOTQ2ZxAFBDE5NDUFBDE5NDVnEAUEMTk0NAUEMTk0NGcQBQQxOTQzBQQxOTQzZxAFBDE5NDIFBDE5NDJnEAUEMTk0MQUEMTk0MWcQBQQxOTQwBQQxOTQwZxAFBDE5MzkFBDE5MzlnEAUEMTkzOAUEMTkzOGcQBQQxOTM3BQQxOTM3ZxAFBDE5MzYFBDE5MzZnEAUEMTkzNQUEMTkzNWcQBQQxOTM0BQQxOTM0ZxAFBDE5MzMFBDE5MzNnEAUEMTkzMgUEMTkzMmcQBQQxOTMxBQQxOTMxZxAFBDE5MzAFBDE5MzBnEAUEMTkyOQUEMTkyOWcQBQQxOTI4BQQxOTI4ZxAFBDE5MjcFBDE5MjdnEAUEMTkyNgUEMTkyNmcQBQQxOTI1BQQxOTI1ZxAFBDE5MjQFBDE5MjRnEAUEMTkyMwUEMTkyM2cQBQQxOTIyBQQxOTIyZxAFBDE5MjEFBDE5MjFnEAUEMTkyMAUEMTkyMGcQBQQxOTE5BQQxOTE5ZxAFBDE5MTgFBDE5MThnEAUEMTkxNwUEMTkxN2cQBQQxOTE2BQQxOTE2ZxAFBDE5MTUFBDE5MTVnEAUEMTkxNAUEMTkxNGcQBQQxOTEzBQQxOTEzZxAFBDE5MTIFBDE5MTJnEAUEMTkxMQUEMTkxMWdkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBwUmY3RsMDAkbGlnaHRib3hDb250YWluZXJzJE5ld0RlbGl2ZXJ5TEwFJmN0bDAwJGxpZ2h0Ym94Q29udGFpbmVycyROZXdDYXJyeW91dExMBSZjdGwwMCRsaWdodGJveENvbnRhaW5lcnMkTmV3Q2FycnlvdXRMTAUiY3RsMDAkbGlnaHRib3hDb250YWluZXJzJEVtYWlsT25seQUiY3RsMDAkbGlnaHRib3hDb250YWluZXJzJEVtYWlsT25seQUiY3RsMDAkbGlnaHRib3hDb250YWluZXJzJEVtYWlsVGV4dAUlY3RsMDAkbGlnaHRib3hDb250YWluZXJzJGNvbnNlbnRUZXJtc3j8l+dFmN7wYhwjvLQalxPH8yCA">
+
+
+<script src="/ScriptResource.axd?d=u9b9LDDjN0praFt0t3mukGQyAUy6rLmURIUIvkNjnvUNHY0srkrCNslXi_-JJ6YbsHltRGObXbyqD9CvGZj5Cqzatbmz5-J2MSrI8BPWlLc1&amp;t=5dcee369" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=BK4rGU4tLUVXZRw8XX2mvJmBi-HQyhiEpqkSJKIS9CWHxjVNevO5BZI24dJJ-KGafn4LN5qJAz-g1-PAYeud6-xyHHbLXSUGtBnyBfnbnmA1&amp;t=26f06b8e" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=BK4rGU4tLUVXZRw8XX2mvJmBi-HQyhiEpqkSJKIS9CWqeC5aSB1NaU820O8sVukT2ofkVKmppZJ1FeSO_D1a7McBGaETJGjubHZRBT72p-I0WqpEltPOZUOMlbq8TU2b0&amp;t=26f06b8e" type="text/javascript"></script>
+<script src="/WS/AEPersonalizationWS.asmx/js" type="text/javascript"></script>
+    
     
     
 	<!-- Page Properties -->
@@ -95,28 +129,61 @@
 
 	
 	<div id="container">
-
-	     <script type="text/javascript" language="javascript">
-	        var showBanner = false;
+	    <script type="text/javascript" language="javascript">
 	        var OAS_sitepageName = "ph/menu";
+	        var showBanner = false;
 	        var sPath = window.location.pathname.toLowerCase();
             //var sPage = sPath.substring(sPath.lastIndexOf('\\') + 1);
-
+            //alert("sPath " + sPath);
+            
             var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+            //alert("sPage " + sPage);
+            
             if (sPage.toLowerCase() == "default.aspx" || sPage.toLowerCase() == "")
             {
               if (sPath == "/my_hut/default.aspx" || sPath == "/my_hut/")
               {
+                sPage = "myhut";
                 showBanner = true;
               }
-              else if (sPath == "/catering/default.aspx" || sPath == "/catering/")
+              else if (sPath == "/bigeattinyprice/default.aspx" || sPath == "/bigeattinyprice/")
               {
+                sPage = "pizza";  //PhMenu tag for Triad
                 showBanner = true;
-                sPage = "pizza";
               }
+              else if (sPath == "/mobileordering/default.aspx" || sPath == "/mobileordering/")
+              {
+                sPage = "mobile";  //PhMenu tag for Triad
+                showBanner = true;
+              }             
               else if (sPath == "/iphone/default.aspx" || sPath == "/iphone/")
               {
                 sPage = "myhut";  //PhMenu tag for Triad
+                showBanner = true;
+              }
+               else if (sPath == "/newsroom/default.aspx" || sPath == "/newsroom/")
+              {
+                sPage = "newsroom";  //PhMenu tag for Triad
+                showBanner = true;
+              }
+                else if (sPath == "/ourstory/default.aspx" || sPath == "/ourstory/")
+              {
+                sPage = "ourstory";  //PhMenu tag for Triad
+                showBanner = true;
+              }
+              else if (sPath == "/nutrition.aspx" || sPath == "/nutrition/")
+              {
+                sPage = "nutrition";  //PhMenu tag for Triad
+                showBanner = true;
+              }              
+              else if (sPath == "/keepitbalanced.aspx" || sPath == "/keepitbalanced/")
+              {
+                sPage = "keepitbalanced";  //PhMenu tag for Triad
+                showBanner = true;
+              }
+               else if (sPath == "/catering/default.aspx" || sPath == "/catering/")
+              {
+                sPage = "catering";  //PhMenu tag for Triad
                 showBanner = true;
               }
               else
@@ -130,8 +197,8 @@
             }
             
 	    </script>
-	    
-	     <script type="text/javascript" language="javascript">
+
+        <script type="text/javascript" language="javascript">
         function getOASPagename(currentpagename)
         {
              currentpagename = currentpagename.replace(".aspx", "").toLowerCase();
@@ -167,21 +234,40 @@
                 break;
                 
                 case "deals": 
-                return "ph/deals";
+                return "ph/menu";
                 break;
                 
                 case "faq":
                 return "ph/faq";
                 break;
                 
-                case "contactlanding":
-                return "ph/contact";
+                case "catering":
+                return "ph/catering";
+                break;
+                
+                case "newsroom":
+                return "ph/newsroom";
+                break;
+                
+                case "ourstory":
+                return "ph/ourstory";
                 break;
                 
                 case "nutrition":
                 return "ph/nutrition";
+                break;  
+                
+                case "keepitbalanced":
+                return "ph/nutrition";
+                break;       
+                
+                case "contactlanding":
+                return "ph/contact";
                 break;
-                          
+                
+                case "mobile":
+                return "ph/mobile";
+                break;
                                                                         
                 default : 
                 return "ph/menu";
@@ -190,606 +276,1179 @@
             }
         </script>
         
-        <div id="OAS" style="margin:20px auto 10px auto; width:729px;">         
-         <div id="disclaimer" style="color:#cc9999; font-family:Arial; font-size:10px; text-align:left; margin:0; padding:0;">
-            Advertisement. Non-Pizza Hut offers subject to advertiser's terms and conditions
-         </div>
+        <div id="OAS" style="margin:10px auto 0 auto; width:729px;">         
+      
+         
+         
+         
         <!------ OAS SETUP begin ------>		 
-            <script language="JavaScript" type="text/javascript">
-            <!-- 
-            //configuration 
-           
-            //var objCurrentPage = document.getElementById("CurrentPageName");
-            if (showBanner)
-            {
-                jQuery('#disclaimer').show();  
-                OAS_sitepageName = getOASPagename(sPage)
-                //alert(OAS_sitepageName);              
-            }
-            else
-            {
-             jQuery('#disclaimer').hide();
-            }
-            
-            if (showBanner)
-            {
-                OAS_url = 'http://oasc12019.247realmedia.com/RealMedia/ads/';
-                OAS_sitepage = OAS_sitepageName; //'ph/menu'// + objCurrentPage.value;// 'ph/test';
-                OAS_listpos = 'Top1';
-                OAS_query = '';
-                OAS_target = '_blank';
-                //end of configuration
-                OAS_version = 10;
-                OAS_rn = '001234567890'; OAS_rns = '1234567890';
-                OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-             }
-             
-            function OAS_NORMAL(pos) {
-                 if (showBanner)
-                {
-                    document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>'); 
-                    document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>'); 
-                }
-            }
-            
-             //--> 
-             </script> 
-             
-            <script language="javascript" type="text/javascript">
-            <!--  
-            if (showBanner)
-            {
-                 OAS_version = 11;   
-                if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1))  
-                 OAS_version = 10; 
-                if (OAS_version >= 11) 
-                document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
-            }
-            
-            </script><script language="JavaScript1.1" src="http://oasc12019.247realmedia.com/RealMedia/ads/adstream_mjx.ads/ph/menu/1815401158@Top1?"></script>
-            
-            <script language="javascript" type="text/javascript"> 
-            <!--  
-             document.write('');  
-            function OAS_AD(pos) {  
-             if (showBanner)
-            {
-                if (OAS_version >= 11)  
-                 OAS_RICH(pos);  
-                else 
-                 OAS_NORMAL(pos);  
-                }  //--> 
-            }
-             </script>  
-             
-            <script type="text/javascript" language="javascript">
-             if (showBanner)
-            {
-                OAS_AD('Top1');  
-             }
-            </script>                    
+                             
             <!--End OAS --> 
              
             
      
+             
+             
+            
+           
         </div>
-
+        
 		<div id="header">	
-			<a href="Default.aspx" id="ctl00_A1" name="top"><img src="Images/Common/hdrLogo2.gif" id="ctl00_Img1" alt="Pizza Hut™ – Now you're eating™" title="Pizza Hut™ – Now you're eating™"></a>
+			<a id="A1" href="/Default.aspx" name="top" class="phLogo">Pizza Hut™ – Now you're eating™</a>
 			
-			<div id="globalNav">
-				<a href="https://quikorder.pizzahut.com/phorders2/register.php">REGISTER</a>&nbsp;&nbsp;|&nbsp;
-				<a href="FAQ.aspx" id="ctl00_A2">FAQ</a>&nbsp;&nbsp;|&nbsp;
-				<a href="contactus/contactlanding.aspx" id="ctl00_A3">CONTACT US</a>&nbsp;&nbsp;|&nbsp;
-				<a href="http://www.pizzahut.com/emails/redirect.htm?redirect=http://www.realpizzahutjobs.com&amp;WT.mc_id=Careers_Global_Link" target="_blank">CAREERS</a>&nbsp;&nbsp;|&nbsp;
-				<a href="http://espanol.pizzahut.com/enes/" target="_blank" onclick="return switchLanguage();">EN ESPAÑOL</a>
-			</div>
-			<div id="primaryNavigation">
-			    <table cellpadding="0" cellspacing="0" border="0" height="39px">
-			        <tbody><tr>
-			            
-
+			<ul id="globalNav">
+			    <li id="welcomeLI"></li>
+			    <li id="signOutLI"></li> <!-- used for sign out -->
+			    <li id="guestSignInLI"></li> <!-- used for guest sign in -->
+			    <li id="myAccountLI"></li>
+			    <li id="signInLI"><a href="javascript:void(0)" id="signIn" class="lightbox">Sign In</a>&nbsp; |</li>
+				<li id="registerLI"><a href="javascript:void(0);" onclick="window.location = Register+ '?WT.mc_id=070209Top_Nav_Register_Link';">Register</a>&nbsp; | </li>
+				<li><a href="https://quikorder.pizzahut.com/phorders3/#locator">Store Locator</a>&nbsp; | </li>
+				<li><a id="A2" href="/contactus/contactlanding.aspx?WT.mc_id=060809_Contact_Us" class="contactUsNav ">Contact Us</a>&nbsp; | </li>
+                
+                <li><a mporgnav="" href="http://espanol.pizzahut.com/enes/?WT.mc_id=2010En_Espanol" onclick="return switchLanguage('es'); function switchLanguage(lang) {    MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();	MP.switchLanguage(MP.UrlLang==lang?'en':lang);	return false;}">Español</a>&nbsp; </li>				
+			    
+			</ul>
+			<ul id="primaryNavigation">
 				  
-						 
-								  		                      
-								
-								  		                      
-								
-								  	                          	                         
-										  <td valign="bottom"><a style="display:block;" href="/Menu.aspx?tab=featuredItems" onmouseover="rollOver('navMenu', 'navMenuOn')" onmouseout="rollOver('navMenu', 'navMenuOff');"><img id="IMG1" src="/Images/Navigation/navMenu.gif" name="navMenu" border="0" alt=" Menu "></a>
-										  <a style="display:none;" href="/Menu.aspx?tab=featuredItems"><img id="IMG2" src="/Images/Navigation/navMenuOn.gif" border="0" alt=" Menu "></a></td>
-								  		                      
-								
-								  	                          	                         
-										  <td valign="bottom"><a style="display:block;" href="/Nutrition.aspx" onmouseover="rollOver('navNutrition', 'navNutritionOn')" onmouseout="rollOver('navNutrition', 'navNutritionOff');"><img id="IMG1" src="/Images/Navigation/navNutrition.gif" name="navNutrition" border="0" alt=" Nutrition "></a>
-										  <a style="display:none;" href="/Nutrition.aspx"><img id="IMG2" src="/Images/Navigation/navNutritionOn.gif" border="0" alt=" Nutrition "></a></td>
-								  		                      
-								
-								  	                          	                         
-										  <td valign="bottom"><a style="display:block;" href="https://quikorder.pizzahut.com/phorders2/store_locator.php" onmouseover="rollOver('navLocations', 'navLocationsOn')" onmouseout="rollOver('navLocations', 'navLocationsOff');"><img id="IMG1" src="/Images/Navigation/navLocations.gif" name="navLocations" border="0" alt=" Locations "></a>
-										  <a style="display:none;" href="https://quikorder.pizzahut.com/phorders2/store_locator.php"><img id="IMG2" src="/Images/Navigation/navLocationsOn.gif" border="0" alt=" Locations "></a></td>
-								  		                      
-								
-								  	                          	                         
-										  <td valign="bottom"><a style="display:block;" href="/Deals.aspx" onmouseover="rollOver('nav_Deals', 'nav_DealsOn')" onmouseout="rollOver('nav_Deals', 'nav_DealsOff');"><img id="IMG1" src="/Images/Navigation/nav_Deals.gif" name="nav_Deals" border="0" alt=" Deals "></a>
-										  <a style="display:none;" href="/Deals.aspx"><img id="IMG2" src="/Images/Navigation/nav_DealsOn.gif" border="0" alt=" Deals "></a></td>
-								  		                      
-								
-								  	                          	                         
-										  <td valign="bottom"><a style="display:block;" href="https://pizzahutcard.pizzahut.com/traditionalgiftcard/?WT.mc_id=090309Gift_Card_Global_" onmouseover="rollOver('navGift', 'navGiftOn')" onmouseout="rollOver('navGift', 'navGiftOff');"><img id="IMG1" src="/Images/Navigation/navGift.gif" name="navGift" border="0" alt=" Gift Cards "></a>
-										  <a style="display:none;" href="https://pizzahutcard.pizzahut.com/traditionalgiftcard/?WT.mc_id=090309Gift_Card_Global_"><img id="IMG2" src="/Images/Navigation/navGiftOn.gif" border="0" alt=" Gift Cards "></a></td>
-								  		                      
-								
-								  	                          	                         
-										  <td valign="bottom"><a style="display:block;" href="/wingstreet" onmouseover="rollOver('navMenuWingstreet', 'navMenuWingstreetOn')" onmouseout="rollOver('navMenuWingstreet', 'navMenuWingstreetOff');"><img id="IMG1" src="/Images/Navigation/navMenuWingstreet.gif" name="navMenuWingstreet" border="0" alt=" Wingstreet "></a>
-										  <a style="display:none;" href="/wingstreet"><img id="IMG2" src="/Images/Navigation/navMenuWingstreetOn.gif" border="0" alt=" Wingstreet "></a></td>
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-								  		                      
-								
-					    
-			        </tr>
-			    </tbody></table>		
-			</div>
+					 
+							  		                      
+							
+							  	                          	                         
+									  <li>
+									    <a href="/my_hut/default.aspx" id="navMyHut" class="png"><img src="/Images/Navigation/navMyHut_off.png" alt="My Hut" class="png"> </a>
+									  </li>
+							  		                      
+							
+							  	                          	                         
+									  <li>
+									    <a href="/Pizza.aspx" id="navPizza" class="png"><img src="/Images/Navigation/navPizza_off.png" alt="Pizza" class="png"> </a>
+									  </li>
+							  		                      
+							
+							  	                          	                         
+									  <li>
+									    <a href="/Pasta.aspx" id="navPasta" class="png"><img src="/Images/Navigation/navPasta_off.png" alt="Pasta" class="png"> </a>
+									  </li>
+							  		                      
+							
+							  	                          	                         
+									  <li>
+									    <a href="/wings.aspx" id="navWings" class="png"><img src="/Images/Navigation/navWings_off.png" alt="Wings" class="png"> </a>
+									  </li>
+							  		                      
+							
+							  		                      
+							
+							  	                          	                         
+									  <li>
+									    <a href="/BigEatTinyPrice/default.aspx" id="navbigeat" class="png"><img src="/Images/Navigation/navbigeat_off.png" alt="Value Menu" class="png"> </a>
+									  </li>
+							  		                      
+							
+							  	                          	                         
+									  <li>
+									    <a href="/Sides_Desserts.aspx" id="navSides" class="png"><img src="/Images/Navigation/navSides_off.png" alt="Sides and Desserts" class="png"> </a>
+									  </li>
+							  		                      
+							
+							  	                          	                         
+									  <li>
+									    <a href="/Drinks.aspx" id="navBeverages" class="png"><img src="/Images/Navigation/navBeverages_off.png" alt="Drinks" class="png"> </a>
+									  </li>
+							  		                      
+							
+							  	                          	                         
+									  <li>
+									    <a href="/Deals.aspx" id="navDeals" class="png"><img src="/Images/Navigation/navDeals_off.png" alt="Deals" class="png"> </a>
+									  </li>
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+							  		                      
+							
+				    
+			</ul>
+			<a href="#" id="orderNowBtn" class="orderNowBtn">Order Now - No Credit Card Needed.</a>
+            
+            <div class="clear"></div>
+            <!-- Active Nav States -->
+            <a id="myhutActive" class="png">My Hut</a>
+            <a id="pizzaActive" class="png">Pizza</a>
+            <a id="pastaActive" class="png">Pasta</a>
+            <a id="wingsActive" class="png">Wings</a>
+            <a id="bigeatActive" class="png">Value Menu</a>
+            <a id="sidesActive" class="png">Sides &amp; Desserts</a>
+			<a id="beveragesActive" class="png">Beverages</a>
+			<a id="dealsActive" class="png">Deals</a>
+			
 		</div>
+       		
+		<!--Top Cap for Pizza Hut Container -->
+		<img src="/Images/Common/phContainerTop.gif" id="ctl00_Img1" class="floatLeft">
+		
+		
+		<!--Start of Content-->
 		<div class="middle" id="middleTwoColumn">
-			<div id="content">
-				<div class="minHeight"></div>
-				<div class="padding">
-			<!-- Callout: Order Now -->
-			
-				<div id="globalCalloutLocal" style="position:absolute; left: 890px; top: -110px;">
-
-<div id="calloutOrderNow"><a href="https://quikorder.pizzahut.com/phorders2/login.php"><img src="Images/Common/OrderNow_bug_NEW.gif" alt=" Order now "></a></div></div>
-			
+			<div id="mainContent">
+				
 
     
      
        
-    <h1><img src="Images/Headers/hdrPrivacyPolicy.gif" alt="Privacy Policy"></h1>
     
+	<h1 class="interstateHeadline">PIZZA HUT PRIVACY POLICY</h1>
 	
-	<p>
-	Pizza Hut, Inc. (hereinafter referred to as either, "Company", "We", "Us" or "Our") is committed to protecting the privacy of personal information you may provide Us on this website (the “Site”).  We believe it is important for you to know how We treat your personal information.  We updated this Privacy Policy effective as of October 9, 2009.  The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site.  Below you will find answers to several questions regarding Our revised Privacy Policy.  	</p>
+	<div id="introText">
+        <!-- Top Cap for Intro Text -->
+        <img src="Images/Common/introTextTop.gif" id="ctl00_mainContent_Img1" class="floatLeft">
+        <div class="introTextContent">
+            <p>Pizza Hut, Inc. (hereinafter referred to as either "Company", "We", "Us" or "Our") is committed to protecting the privacy of personal information you may provide Us on this website (the “Site”).  We believe it is important for you to know how We treat your personal information.  We updated this Privacy Policy effective as of March 1, 2010.  The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site.  Below you will find answers to several questions regarding Our revised Privacy Policy.  	</p>
+        </div>
+        <img src="Images/Common/introTextBtm.gif" id="ctl00_mainContent_Img2" class="floatLeft">
+    </div>
+    
+    
+    <div class="fullContainer">
+        <a name="backTop" id="backTop">
+        <div class="header">
+            <h1>QUESTIONS ABOUT OUR REVISED PRIVACY POLICY</h1>
+        </div>
+        </a><div class="mainContent"><a name="backTop" id="backTop">
+	        </a><ul><a name="backTop" id="backTop">
+		        </a><li><a name="backTop" id="backTop"></a><a href="#al1">What information does Company collect about me on this Site?</a><br></li>
+		        <li><a href="#al2">What does Company do with the information collected?</a><br></li>
+		        <li><a href="#al3">With whom does Company share the information?</a><br></li>
+		        <li><a href="#al4">How can I stop receiving notices about future offers or stop my Personal Information from being shared with third parties?</a><br></li>
+		        <li><a href="#al5">How do I correct or update my Personal Information?</a><br></li>
+		        <li><a href="#al6">How does Company protect the security of my Personal Information?</a><br></li>
+		        <li><a href="#al7">Does Company's Site link to other sites?</a><br></li>
+		        <li><a href="#al8">What is the effective date of Company Privacy Policy and how will Company notify me of changes to its Privacy Policy?</a><br></li>
+		        <li><a href="#al9">How does Company handle children's privacy online?</a><br></li>
+		        <li><a href="#al10">How do I contact Company?</a></li>
+	        </ul>
+	        
+	        
+            <div class="mainContentInfoBox privacyPolicy">
+	            <h2><a name="al1">What information does Company collect about me on this Site?</a></h2>
+            	
+	            <p>
+	            Company collects personally identifiable information that you may voluntarily provide on online forms, which may include:  user registration, sweepstakes registration, contact requests, guest comments, online surveys, and other online activities.  The personally identifiable information (“Personal Information”) collected on this Site can include some or all of the following:  your name, address, telephone number(s), email addresses, text messaging information and other contact information associated with electronic or digital messaging methods, vehicles and interaction, credit card information, demographic information, and any other information you may voluntarily provide.  You will have the choice whether or not to disclose such Personal Information in the above activities; however, some parts of the Site and some services may be more difficult or impossible to use if you choose not to disclose Personal Information.
+	            </p>
 
-	<ul>
-		<li><a href="#al1">What information does Company collect about me on this Site?</a><br></li>
-		<li><a href="#al2">What does Company do with the information collected?</a><br></li>
-		<li><a href="#al3">With whom does Company share the information?</a><br></li>
-		<li><a href="#al4">How can I stop receiving notices about future offers or to stop my Personal Information from being shared with third parties?</a><br></li>
-		<li><a href="#al5">How do I correct or update my Personal Information?</a><br></li>
-		<li><a href="#al6">How does Company protect the security of my Personal Information?</a><br></li>
-		<li><a href="#al7">Does Company's Site link to other sites?</a><br></li>
-		<li><a href="#al8">What is the effective date of Company Privacy Policy and how will Company notify me of changes to its Privacy Policy?</a><br></li>
-		<li><a href="#al9">How does Company handle children's privacy online?</a><br></li>
-		<li><a href="#al10">How do I contact Company?</a></li>
-	</ul>
+	            <p>
+	            At the time of registration, you will have the option to receive future offers and updates from the Company by checking the appropriate opt-in box(es).  If you choose to opt in, your Personal Information will be kept in a secured database and We will alert you  via your selected opt-in communication method (i.e., email, text messaging, etc.) to new features, special offers, updated information and new services.  
+	            </p>
 
-	<h2><a name="al1"><img src="Images/Headers/subwhatInfo.gif" alt=" What information does Company collect about me on this Site? "></a></h2>
-	
-	<p>
-	Company collects personally identifiable information that you may voluntarily provide on online forms, which may include:  user registration, sweepstakes registration, contact requests, guest comments, online surveys, and other online activities.  The personally identifiable information (“Personal Information”) collected on this Site can include some or all of the following:  your name, address, telephone number(s), e-mail addresses, text messaging information and other contact information associated with electronic or digital messaging methods, vehicles and interaction, credit card information, demographic information, and any other information you may voluntarily provide.  You will have the choice whether or not to disclose such Personal Information in the above activities; however, some parts of the Site and some services may be more difficult or impossible to use if you choose not to disclose Personal Information.
-	</p>
+	            <p>
+	            In addition to the Personal Information identified above, Our web servers automatically identify computers by their IP addresses.  Company may use IP addresses to analyze trends, administer the Site, track users' movement and gather broad demographic information for aggregate use.  To emphasize, IP addresses are not linked to Personal Information.
+	            </p>
 
-	<p>
-	At the time of registration, you will have the option to receive future offers and updates from the Company by checking the appropriate opt-in box(es).  If you choose to opt-in, your Personal Information will be kept in a secured database and We will alert you  via your selected opt-in communication method (i.e., e-mail, text messaging, etc.) to new features, special offers, updated information and new services.  
-	</p>
+	            <p>
+	            Further, Our Site may use technologies such as “cookies” to provide visitors with tailored information upon each visit.  Cookies are a common part of many commercial websites that allow small text files to be sent by a website, accepted by a web browser and then placed on your hard drive as recognition for repeat visits to the Site.  Every time you visit Our Site, Our servers, through cookies, pixels and/or GIF files, collect basic technical information such as your domain name, the address of the last URL visited prior to clicking through to the Site, and your browser and operating system.  You do not need to enable cookies to visit Our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled.  To emphasize, cookies are not linked to any Personal Information while on this Site.
+	            </p>
 
-	<p>
-	In addition to the Personal Information identified above, Our web servers automatically identify computers by their IP addresses.  Company may use IP addresses to analyze trends, administer the Site, track users' movement and gather broad demographic information for aggregate use.  To emphasize, IP addresses are not linked to Personal Information.
-	</p>
+	            <p>
+	            Company's ad management partner, Microsoft Advertiser &amp; Publisher Solutions (Atlas), employs pixels or transparent GIF files to help manage Our online advertising.  These files enable Atlas to recognize a unique cookie on your web browser, which in turn enables Us to learn which advertisements bring users to Our website.  The cookie was placed by Us, or by another advertiser who works with Atlas. With both cookies and Universal Action Tag technology, the information We collect and share is anonymous and not personally identifiable.  It does not contain your name, address, telephone number(s), or email address.  For more information about Atlas, including information on how to opt out of these technologies, go to <a href="http://www.atlassolutions.com/privacy" target="_blank">http://www.atlassolutions.com/privacy</a>.
+	            </p>
+	            <a href="#backTop">Back to top</a> <span class="linkArrow">»</span>
+            </div>
+            <img height="11" width="716" alt="" src="../Images/Common/fullContainerContentBtm.gif">
 
-	<p>
-	Further, Our Site may use technologies such as “cookies” to provide visitors with tailored information upon each visit.  Cookies are a common part of many commercial websites that allow small text files to be sent by a website, accepted by a web browser and then placed on your hard drive as recognition for repeat visits to the Site.  Every time you visit Our Site, Our servers, through cookies, pixels and/or GIF files, collect basic technical information such as your domain name, the address of the last URL visited prior to clicking through to the Site, and your browser and operating system.  You do not need to enable cookies to visit Our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled.  To emphasize, cookies are not linked to any Personal Information while on this Site.
-	</p>
+            <div class="mainContentInfoBox privacyPolicy">
+	            <h2><a name="al2">What does Company do with the information collected?</a></h2>
 
-	<p>
-	Company's ad management partner, Microsoft Advertiser &amp; Publisher Solutions (Atlas), employs pixels or transparent GIF files to help manage Our online advertising.  These files enable Atlas to recognize a unique cookie on your web browser, which in turn enables Us to learn which advertisements bring users to Our website.  The cookie was placed by Us, or by another advertiser who works with Atlas. With both cookies and Universal Action Tag technology, the information We collect and share is anonymous and not personally identifiable.  It does not contain your name, address, telephone number(s), or email address.  For more information about Atlas, including information on how to opt out of these technologies, go to <a href="http://www.atlassolutions.com/privacy" target="_blank">http://www.atlassolutions.com/privacy</a>.
-	</p>
+	            <p>
+	            Company may use your Personal Information for any of the following purposes: (1) to understand the use of the Site and make improvements; (2) to fulfill prizes; (3) to register visitors for online activities such as: online ordering, sweepstakes, contests, surveys, employment applications, comment forms, or any other online interactive activities; (4) to respond to specific requests from visitors; (5) to obtain parental consent from visitors under 18 years of age, when necessary; (6) to provide any necessary notices to visitors or their parent or legal guardians if situations prompt such notification; (7) to protect the security or integrity of the Site if necessary; (8) to send notices of special promotions, offers or solicitations through your selected opt-in methods; and (9) in general, to promote and market Company's business and various products.
+	            </p>
+            	
+	            <p>
+	            In addition, from time to time, We may market certain third-party services through Our Site.  Should you choose to accept an offer from a third party, We will pass your relevant Personal Information, which may include your name, address, and credit/debit card number, to that third party.
+	            </p>
+	            <a href="#backTop">Back to top</a> <span class="linkArrow">»</span>
+            </div>
+            <img height="11" width="716" alt="" src="../Images/Common/fullContainerContentBtm.gif">	            
+          
+            <div class="mainContentInfoBox privacyPolicy">            
+	            <h2><a name="al3">With whom does Company share the information?</a></h2>
 
-	<h2><a name="al2"><img src="Images/Headers/subWhatDoWithInfo.gif" alt=" What does Company do with the information collected? "></a></h2>
+	            <p>
+	            Company is a part of <a href="http://www.yum.com/privacy.asp" target="_blank">Yum! Brands, Inc</a>. ("Yum Brands"). Yum Brands includes:  <a href="http://www.kfc.com/privacy.asp" target="_blank">KFC U.S. Properties, Inc.</a>, <a href="http://www.tacobell.com/legal/privacypolicy.html" target="_blank">Taco Bell Corp.</a>, <a href="PrivacyPolicy.aspx" id="ctl00_mainContent_A1">Pizza Hut, Inc.</a>, <a href="http://www.ljsilvers.com/privacy/" target="_blank">Long John Silver's, Inc.</a>, <a href="http://www.awrestaurants.com/#/home" target="_blank">A&amp;W Restaurants, Inc.</a>, and <a href="http://www.yrigfp.com/legal.asp" target="_blank">Yum Restaurants International, Inc</a>.  Company may share Personal Information collected on this Site with any member of Yum Brands, its franchisees, and any other future subsidiaries or affiliates. This Privacy Policy applies if Company shares your Personal Information collected on this Site with any other Yum Brands members.  If you choose to provide your Personal Information to other members of Yum Brands through their respective websites, then the respective Privacy Policies will apply.
+	            </p>
 
-	<p>
-	Company may use your Personal Information for any of the following purposes: (1) to understand the use of the Site and make improvements; (2) to fulfill prizes; (3) to register visitors for online activities such as: online ordering, sweepstakes, contests, surveys, employment applications, comment forms, or any other online interactive activities; (4) to respond to specific requests from visitors; (5) to obtain parental consent from visitors under 18 years of age, when necessary; (6) to provide any necessary notices to visitors or their parent or legal guardians if situations prompt such notification; (7) to protect the security or integrity of the Site if necessary; (8) to send notices of special promotions, offers or solicitations through your selected opt-in methods; and (9) in general, to promote and market Company's business and various products.
-	</p>
-	
-	<p>
-	In addition, from time to time, We may market certain third party services through Our Site.  Should you choose to accept an offer from a third party, We will pass your relevant Personal Information, which may include your name, address, and credit/debit card number, to that third party.
-	</p>
+	            <p>
+                Company will not sell, rent, loan, transfer, or otherwise disclose any Personal Information to third parties except as set forth in this statement.  Company may share Personal Information with third parties under the following circumstances: (i) in connection with a court order, subpoena, government investigation, or when otherwise required by law; (ii) in the event of a corporate sale, merger, acquisition, or similar event; or (iii) working with third-party companies to support the Site's technical operation or execute a specific promotion or program (such as providing responses to the Guest Comments Page, conduct surveys, or maintain a database of visitor information, etc.); or (iv) to facilitate your transactions with Our third-party marketing partners. 
+                </p>  
 
-	<h2><a name="al3"><img src="Images/Headers/subWithWhom.gif" alt=" With whom does Company share the information? "></a></h2>
+	            <p>
+	            If Personal Information is shared with any third party for the purposes of executing a specific promotion or program, it will be clearly communicated to visitors that the third party will have no right to use the Personal Information for independent purposes without your consent. In support of this policy, Company will enter into written agreements with any third party receiving Personal Information requiring the third party to comply with Company's privacy policies and applicable laws.  To avoid your Personal Information from being shared with a third party, you can choose not to use the affected service or participate in the affected promotional activity.  
+	            </p>
+	            <a href="#backTop">Back to top</a> <span class="linkArrow">»</span>
+            </div>
+            <img height="11" width="716" alt="" src="../Images/Common/fullContainerContentBtm.gif">
+        	
+            <div class="mainContentInfoBox privacyPolicy">
+	            <h2><a name="al4">How can I stop receiving notices about future offers or stop my Personal Information from being shared with third parties?</a></h2>
+	            <p>
+	            Those who initially opted in to receive future offers or promotional materials or to allow the sharing of Personal Information with third parties may subsequently opt out as follows: 
+	            </p>
+	            <ul>
+	            <li style="list-style-type:disc;">For email communications: (a) send a request to us through our feedback page at <a href="http://www.pizzahut.com/ContactUs.aspx">www.PizzaHut.com/ContactUs</a> and include the appropriate email address(es) or (b) if you are a registered user, deselect the option on your accounts profile page under "My Account" on Our website;</li>
+	            <li style="list-style-type:disc;">For text message communications, (a) send a request to us through our feedback page at <a href="http://www.pizzahut.com/ContactUs.aspx">www.PizzaHut.com/ContactUs</a> and include the appropriate mobile telephone number(s), (b) send a "STOP" text message to "749488" or (c) if you are a registered user, deselect the option on your accounts profile page under "My Account" on Our website.</li>
+	            <li style="list-style-type:disc;">Please understand that if you opt-out, and later accept an offer from an advertiser or one of Our third party marketing partners, We will share your Personal Information with that specific third party.</li>
+	            </ul>
+	            <a href="#backTop">Back to top</a> <span class="linkArrow">»</span>
+            </div>
+            <img height="11" width="716" alt="" src="../Images/Common/fullContainerContentBtm.gif">
 
-	<p>
-	Company is a part of <a href="http://www.yum.com/privacy.asp" target="_blank">Yum! Brands, Inc</a>. ("Yum Brands"). Yum Brands includes:  <a href="http://www.kfc.com/privacy.asp" target="_blank">KFC U.S. Properties, Inc.</a>, <a href="http://www.tacobell.com/legal/privacypolicy.html" target="_blank">Taco Bell Corp.</a>, <a href="PrivacyPolicy.aspx" id="ctl00_mainContent_A1">Pizza Hut, Inc.</a>, <a href="http://www.ljsilvers.com/privacy/" target="_blank">Long John Silver's, Inc.</a>, <a href="http://www.awrestaurants.com" target="_blank">A&amp;W Restaurants, Inc.</a>, and <a href="http://www.yrigfp.com/legal.asp" target="_blank">Yum Restaurants International, Inc</a>.  Company may share Personal Information collected on this Site with any member of Yum Brands, its franchisees, and any other future subsidiaries or affiliates. This Privacy Policy applies if Company shares your Personal Information collected on this Site with any other Yum Brands members.  If you choose to provide your Personal Information to other members of Yum Brands through their respective websites, then the respective Privacy Policies will apply.
-	</p>
+            <div class="mainContentInfoBox privacyPolicy">
+	            <h2><a name="al5">How do I correct or update my Personal Information?</a></h2>
 
-	<p>
-    Company will not sell, rent, loan, transfer, or otherwise disclose any Personal Information to third parties except as set forth in this statement.  Company may share Personal Information with third parties under the following circumstances: (i) in connection with a court order, subpoena, government investigation, or when otherwise required by law; (ii) in the event of a corporate sale, merger, acquisition, or similar event; or (iii) working with third party companies to support the Site's technical operation or execute a specific promotion or program (such as providing responses to the Guest Comments Page, conduct surveys, or maintain a database of visitor information, etc.); or (iv) to facilitate your transactions with Our third party marketing partners. 
-    </p>  
+	            <p>
+                Those who have registered on our website may review, correct, update or delete/deactivate  their Personal Information, by logging on to Our Site and clicking on “My Account” to make the appropriate changes. 
+                </p>
+                <p>
+                If you are not a Registered User, you may send a request to us through our feedback page at <a href="http://www.pizzahut.com/ContactUs.aspx">www.PizzaHut.com/ContactUs</a> to correct, update or delete/deactivate their applicable email address(es).  
+                </p>
+	            <a href="#backTop">Back to top</a> <span class="linkArrow">»</span>
+            </div>
+            <img height="11" width="716" alt="" src="../Images/Common/fullContainerContentBtm.gif">
+            
+            
+            <div class="mainContentInfoBox privacyPolicy">
+	            <h2><a name="al6">How does Company protect the security of my Personal Information?</a></h2>
 
-	<p>
-	If Personal Information is shared with any third party for the purposes of executing a specific promotion or program, it will be clearly communicated to visitors that the third party will have no right to use the Personal Information for independent purposes without your consent. In support of this policy, Company will enter into written agreements with any third party receiving Personal Information requiring the third party to comply with Company's privacy policies and applicable laws.  To avoid your Personal Information from being shared with a third party, you can choose not to use the affected service or participate in the affected promotional activity.  
-	</p>
-	
-	<h2><a name="al4"><img src="Images/Headers/subStopInfo.gif" alt=" How can I stop receiving notices about future offers or to stop my Personal Information from being shared with third parties? "></a></h2>
+	            <p>
+	            Company uses appropriate technical and procedural security measures to protect this Site and data submitted by users. We cannot guarantee, however, that our standard measures will not prevent a third party from circumventing our security measures and unlawfully intercept or access transmissions or private communications, or where an error may occur in the administration of this Site. As such, Company recommends that you use caution whenever submitting Personal Information online.
+	            </p>
+	            <a href="#backTop">Back to top</a> <span class="linkArrow">»</span>
+            </div>
+            <img height="11" width="716" alt="" src="../Images/Common/fullContainerContentBtm.gif">
 
-	<p>
-	For those who initially opted in to receive future offers or promotional materials or to allow the sharing of Personal Information with third parties may subsequently opt-out as follows: 
-	</p>
-	<ul>
-	<li style="list-style-type:disc;">For email communications: (a) send a request to us through our feedback page at <a href="http://www.pizzahut.com/ContactUs.aspx">www.PizzaHut.com/ContactUs</a> and include the appropriate email address(es) or (b) if you are a registered user, deselect the option on your accounts profile page under "My Account" on Our website;</li>
-	<li style="list-style-type:disc;">For text message communications, (a) send a request to us through our feedback page at <a href="http://www.pizzahut.com/ContactUs.aspx">www.PizzaHut.com/ContactUs</a> and include the appropriate mobile telephone number(s), (b) send a "STOP" text message to "749488" or (c) if you are a registered user, deselect the option on your accounts profile page under "My Account" on Our website.</li>
-	<li style="list-style-type:disc;">Please understand that if you opt-out, and later accept an offer from an advertiser or one of Our third party marketing partners, We will share your Personal Information with that specific third party.</li>
-	</ul>
+            <div class="mainContentInfoBox privacyPolicy">
+	            <h2><a name="al7">Does Company's Site link to other sites?</a></h2>
 
-	<h2><a name="al5"><img src="Images/Headers/subCorrectOrUpdate.gif" alt=" How do I correct or update my Personal Information? "></a></h2>
+	            <p>
+	            Yes. This Site may contain links to other websites that may not be owned or operated by Company.  Company cannot control nor is responsible for the privacy practices or content of such other websites.  Company encourages you to read the privacy statements of each and every website that collects personally identifiable information.  This Privacy Policy applies solely to Personal Information collected on this Site.
+	            </p>
+	            <a href="#backTop">Back to top</a> <span class="linkArrow">»</span>
+            </div>
+            <img height="11" width="716" alt="" src="../Images/Common/fullContainerContentBtm.gif">
 
-	<p>
-    Those who have registered on Our website may review, correct, update or delete/deactivate  their Personal Information, by logging onto Our Site and clicking on “My Account” to make the appropriate changes. 
-    </p>
-    <p>
-    If you are not a Registered User, you may send a request to us through our feedback page at <a href="http://www.pizzahut.com/ContactUs.aspx">www.PizzaHut.com/ContactUs</a> to correct, update or delete/deactivate their applicable email address(es).  
-    </p>
+            <div class="mainContentInfoBox privacyPolicy">
+	            <h2><a name="al8">What is the effective date of Company Privacy Policy and how will Company notify me of changes to its Privacy Policy?</a></h2>
 
-	<h2><a name="al6"><img src="Images/Headers/subSecurPersonal.gif" alt=" How does Company protect the security of my Personal Information? "></a></h2>
+	            <p>
+	            This Privacy Policy was last updated on March 1, 2010.  Company will post any changes on the Site's homepage, so visitors are always aware of any changes to what information We collect, how We use it, and under what circumstances We disclose it.  If We decide to use your Personal Information in a manner different than first communicated, Company will notify users by email to the email addresses on record.  Users will then be given a choice as to whether or not their Personal Information can be used in the new manner.
+	            </p>
 
-	<p>
-	Company uses appropriate security measures to protect all Personal Information collected in a secure, controlled environment.  In addition, Company configures the list server software to refuse to divulge the e-mail addresses of the list subscribers to anyone other than authorized Company staff members, including other list subscribers.  In the event of a security breach whereas your Personal Information is acquired by an unauthorized person, Company will take appropriate steps to contain the breach and to notify you of the unauthorized acquisition.  
-	</p>
+	            <p>
+	            In the event that Company goes through a business transition, such as a merger, another company acquires Company or its Affiliates, or Company sells a portion of its assets, your Personal Information will, in most instances, be part of the assets transferred.  At least 10 days prior to the change of ownership or control, you will be informed of this exchange and its effects via prominent notice on Our site.  If as a result of a business transition, your personally identifiable information will be used in a manner different from that stated at the time of collection, you will be give the choice to opt out. 
+	            </p>
+	            <a href="#backTop">Back to top</a> <span class="linkArrow">»</span>
+            </div>
+            <img height="11" width="716" alt="" src="../Images/Common/fullContainerContentBtm.gif">
+        	
+            <div class="mainContentInfoBox privacyPolicy">        	
+	            <h2><a name="al9">How does Company handle children's privacy online?</a></h2>
+                <p>Company's practice is not to collect information from children under 13, and Company does not knowingly collect any Personal Information online from children under 13 or as otherwise prohibited by law. If You believe We have information about a child under 13, please send a request to Us through Our feedback page at <a href="http://www.pizzahut.com/ContactUs.aspx">www.PizzaHut.com/ContactUs</a> or a write to Pizza Hut, Inc., 14841 Dallas Parkway, Dallas, Texas 75254, Attention: Children's Online Privacy Act - Information Request, or by us at 972-338-7700. To learn more about how to protect your child online, we suggest you visit <a href="http://www.OnGuardOnline.gov" target="_blank">www.OnGuardOnline.gov</a> and read the helpful information provided by the FTC at <a href="http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm" target="_blank">http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm</a>.</p>
+	            <a href="#backTop">Back to top</a> <span class="linkArrow">»</span>
+            </div>
+            <img height="11" width="716" alt="" src="../Images/Common/fullContainerContentBtm.gif">
+        	
+            <div class="mainContentInfoBox privacyPolicy">
+	            <h2><a name="al10">How do I contact Company?</a></h2>
 
-	<h2><a name="al7"><img src="Images/Headers/subLinkToOtherSites.gif" alt=" Does Company's Site link to other sites? "></a></h2>
-
-	<p>
-	Yes. This Site may contain links to other websites that may not be owned or operated by Company.  Company cannot control nor is responsible for the privacy practices or content of such other websites.  Company encourages you to read the privacy statements of each and every website that collects personally identifiable information.  This Privacy Policy applies solely to Personal Information collected on this Site.
-	</p>
-
-	<h2><a name="al8"><img src="Images/Headers/subEffectiveDate.gif" alt=" What is the effective date of Company Privacy Policy and how will Company notify me of changes to its Privacy Policy? "></a></h2>
-
-	<p>
-	This Privacy Policy was last updated on October 9, 2009.  Company will post any changes on the Site's Homepage, so visitors are always aware of any changes to what information We collect, how We use it, and under what circumstances We disclose it.  If We decide to use your Personal Information in a manner different than first communicated, Company will notify users by e-mail to the e-mail addresses on record.  Users will then be given a choice as to whether or not their Personal Information can be used in the new manner.
-	</p>
-
-	<p>
-	In the event that Company goes through a business transition, such as a merger, another company acquires Company or its Affiliates, or Company sells a portion of its assets, your personal information will, in most instances, be part of the assets transferred.  At least ten days prior to the change of ownership or control, you will be informed of this exchange and its effects via prominent notice on Our site.  If as a result of a business transition, your personally identifiable information will be used in a manner different from that stated at the time of collection, you will be give the choice to opt-out. 
-	</p>
-	
-	<h2><a name="al9"><img src="Images/Headers/subChildrensPrivacy.gif" alt=" How does Company handle children's privacy online? "></a></h2>
-
-    <p>Company's practice is not to collect information from children under 13, and Company does not knowingly collect any Personal Information online from children under 13 or as otherwise prohibited by law. If You believe We have information about a child under 13, please send a request to Us through Our feedback page at <a href="http://www.pizzahut.com/ContactUs.aspx">www.PizzaHut.com/ContactUs</a> or a write to Pizza Hut, Inc., 14841 Dallas Parkway, Dallas, Texas 75254, Attention: Children's Online Privacy Act - Information Request, or by us at 972-338-7700. To learn more about how to protect your child online, we suggest you visit <a href="http://www.OnGuardOnline.gov" target="_blank">www.OnGuardOnline.gov</a> and read the helpful information provided by the FTC at <a href="http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm" target="_blank">http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm</a>.</p>
-	
-	<h2><a name="al10"><img src="Images/Headers/subContact.gif" alt=" How do I contact Company? "></a></h2>
-
-	<p>
-	If you have any further questions concerning the Company's Privacy Policy and the use of your Personal Information, please contact us through our feedback page at <a href="http://www.pizzahut.com/ContactUs.aspx">www.PizzaHut.com/ContactUs</a>. 
-	</p>
-	
-	<p style="text-align:right;">
-	<strong>Effective as of October 9, 2009</strong>
-	</p>
-
-	
+	            <p>
+	            If you have any further questions concerning the Company's Privacy Policy and the use of your Personal Information, please contact us through our feedback page at <a href="http://www.pizzahut.com/ContactUs.aspx">www.PizzaHut.com/ContactUs</a>.
+	            </p>
+	            <a href="#backTop">Back to top</a> <span class="linkArrow">»</span>
+            </div>
+            <img height="11" width="716" alt="" src="../Images/Common/fullContainerContentBtm.gif">	            
+        	<br>
+	        <p class="btmCopy"><strong>Effective as of March 1, 2010</strong></p>
+        </div>
+        <img src="/Images/Common/fullContainerBtm.gif" class="floatLeft" width="757" height="15">    
+    </div>
 
 				
-				</div>
+				
+				<!-- Bottom Cap for Main Content -->
+			    <div id="mainContentBtm">   
+			    </div>
 				<div class="clear"></div>
 			</div>
-			<div id="contentColumn">
-				<div class="padding">
-					
-    
 
-				</div>
-			</div>			
+			
+			
 			<div id="right">
-				<div class="padding">
 					
 
 	
-<script src="/Javascript/mootools-release-1.11.js" type="text/javascript"></script>
-	<!-- Callout: Find a deal near your -->
-	<img src="Images/Callouts/callHdlFindaDeal.jpg" id="ctl00_rightContent_CalloutRight_Img3" alt=" Find a deal near you "><br>
-	<div class="rightModule">
-		<div class="innerPadding">
-		<br>
-			<a href="https://quikorder.pizzahut.com/phorders2/deals.php"><img src="Images/Buttons/btnGo.gif" id="ctl00_rightContent_CalloutRight_Img1" alt=" Go " border="0"></a>
-		</div>
-	</div>
 	
-	<!-- Callout: Get More -->
-	<img src="Images/Callouts/callHdlGetMore.jpg" id="ctl00_rightContent_CalloutRight_Img2" alt=" Get more "><br>
-	<div class="rightModule">
-		<div class="innerPadding" id="Div1">
-			<p>Get coupons, specials, promotions, announcements and event information from Pizza Hut. Just send us your email address.</p>
-			<p style="font-size: 8pt;">Required fields are marked with an (*)</p>
-			<strong>*Email Address</strong>
-			<input type="text" id="EmailStartBox">
-			<div id="EmailStartBoxError" style="font-size: 8pt; color: Red;">Please Enter a valid email</div><br>
-			<img src="Images/Buttons/btnGetStarted.gif" id="ctl00_rightContent_CalloutRight_ImgStart" onclick="Toggle1();" onmouseover="this.style.cursor = 'pointer';">
-		</div>
-		<div class="innerPadding" id="Div2">
-		    <p>Tell us how you want to get your Pizza Hut information.</p>
-		    <p style="font-size: 8pt;">Required fields are marked with an (*)</p>
-		    <input type="radio" id="EmailOnly" name="EmailOption" onclick="ToggleMobileOn();" checked="1">Email Only<br>
-		    <input type="radio" id="EmailAndText" name="EmailOption" onclick="ToggleMobileOff();">Email and Text Message<br>
-		    <b>*Email Address:</b><br>
-		    <input type="text" id="EmailBox"><br>
-		    <b>*Confirm Email Address</b><br>
-		    <input type="text" id="EmailBox2"><br>
-		    <b>*ZIP Code</b><br>
-		    <input type="text" id="ZipBox"><br>
-		    <b>*Birthdate</b> <a href="http://www.pizzahut.com/PrivacyPolicy.aspx#al9" target="_blank">Why do we ask?</a><br>
-		    <span id="MonthHolder"><select id="BirthMonth"><option value="">MM</option><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option></select></span>
-		    <script language="javascript" type="text/javascript">
-		        var BirthMonth = "<select id=\"BirthMonth\"><option value=\"\">MM</option>";
-		        for (i = 1; i < 13; i++)
-		        {
-		            if (i < 10)
-		                BirthMonth += "<option value=\"0" + i + "\">0" + i + "</option>";
-		            else
-		                BirthMonth += "<option value=\"" + i + "\">" + i + "</option>";
-		        }
-		        BirthMonth += "</select>";
-		        document.getElementById("MonthHolder").innerHTML = BirthMonth;
-		    </script>
-		    <span id="DayHolder"><select id="BirthDay"><option value="">DD</option><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select></span>
-		    <script language="javascript" type="text/javascript">
-		        var BirthDay = "<select id=\"BirthDay\"><option value=\"\">DD</option>";
-		        for (i = 1; i < 32; i++)
-		        {
-		            if (i < 10)
-		                BirthDay += "<option value=\"0" + i + "\">0" + i + "</option>";
-		            else
-		                BirthDay += "<option value=\"" + i + "\">" + i + "</option>";
-		        }
-		        BirthMonth += "</select>";
-		        document.getElementById("DayHolder").innerHTML = BirthDay;
-		    </script>
-		    <span id="YearHolder"><select id="BirthYear"><option value="">YYYY</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option><option value="1911">1911</option><option value="1910">1910</option><option value="1909">1909</option><option value="1908">1908</option><option value="1907">1907</option><option value="1906">1906</option><option value="1905">1905</option><option value="1904">1904</option><option value="1903">1903</option><option value="1902">1902</option><option value="1901">1901</option><option value="1900">1900</option></select></span>
-		    <script language="javascript" type="text/javascript">
-		        var BirthYear = "<select id=\"BirthYear\"><option value=\"\">YYYY</option>";
-		        for (i = 1990; i > 1899; i--)
-		        {
-		            BirthYear += "<option value=\"" + i + "\">" + i + "</option>";
-		        }
-		        BirthYear += "</select>";
-		        document.getElementById("YearHolder").innerHTML = BirthYear;
-		    </script>
-		    <div id="MobileHolder">
-		    <b>Mobile Phone Number:</b><br>
-		    <input type="text" id="MobileNumber1" style="width: 35px;"> - 
-		    <input type="text" id="MobileNumber2" style="width: 35px;"> - 
-		    <input type="text" id="MobileNumber3" style="width: 44px;">
-		    </div>
-		    <table cellpadding="2" cellspacing="0" border="0">
-		        <tbody><tr>
-		            <td valign="top"><input type="checkbox" id="TermsCheckbox"></td>
-		            <td style="font-size: 8pt;">I consent to receive coupons, specials, promotions, announcements and event information from Pizza Hut and its affiliates via the above electronic methods.</td>
-		        </tr>
-		    </tbody></table>	    	    
-		    <p style="font-size: 8pt;">Please read our <a href="http://www.pizzahut.com/PrivacyPolicy.aspx" target="_blank">Privacy Policy</a> and <a href="http://www.pizzahut.com/TermsOfUse.aspx" target="_blank">Terms of Use</a>.</p>
-		    <div style="clear:both;"></div>
-		    <center><img src="Images/Buttons/btnSubmit.gif" id="ctl00_rightContent_CalloutRight_ImgSubmit" onclick="Toggle2();" onmouseover="this.style.cursor = 'pointer';"></center>
-		</div>
-		<div class="innerPadding" id="Div3">
-		    <p>Thank you for registering! Look for great deals from Pizza Hut designed especially for you. </p>
-		    <p>You may unsubscribe at any time by clicking the link on the emails you receive.</p>
-		</div>
-	</div>
-	<div class="calloutBottom"></div>
-	<div><iframe id="RegistrationIframe" src="" width="0px" height="0px" frameborder="0" scrolling="no"></iframe></div>
-	
-	<!-- Callout: WingStreet -->
-	<br><a href="/wingstreet/?WT.mc_id=061608WingStreet_Award_Winning_Call_Out"><img src="Images/Callouts/callWingStreet.jpg" id="ctl00_rightContent_CalloutRight_Img4" alt=" Award-winning Buffalo sauce The heat is in your hands. "></a>
-	<script type="text/javascript">
-        var Div1 = new Fx.Slide('Div1', {duration: 500});
-        var Div2 = new Fx.Slide('Div2', {duration: 500});
-        var Div3 = new Fx.Slide('Div3', {duration: 500});
-        var MobileHolder = new Fx.Slide('MobileHolder', {duration: 500, mode: 'horizontal'});
-        var EmailStartBoxError = new Fx.Slide('EmailStartBoxError', {duration: 300});
-        Div2.hide();
-        Div3.hide();
-        MobileHolder.hide();
-        EmailStartBoxError.hide();
-        function Toggle1()
-        {
-            var validationString = $('EmailStartBox').value;
-            //if(validationString.length > 0)
-            if(validationString.match(/^([0-9a-zA-Z]+([_.-]?[0-9a-zA-Z]+)*@[0-9a-zA-Z]+[0-9,a-z,A-Z,.,-]*(.){1}[a-zA-Z]{2,4})+$/))
-            {
-                $('EmailBox').value = validationString;
-                Div2.toggle();
-                Div1.toggle();
-            }
-            else
-            {
-                EmailStartBoxError.slideIn();
-            }
-        }
-        
-        function Toggle2()
-        {
-            var Terms =$('TermsCheckbox').checked;
-            var Email1Value = $('EmailBox').value;
-            var Email2Value = $('EmailBox2').value;
-            var ZipValue = $('ZipBox').value;
-            var Birthday = $('BirthYear').value + $('BirthMonth').value + $('BirthDay').value;
-            var MobileNumber = $('MobileNumber1').value + $('MobileNumber2').value + $('MobileNumber3').value;
-            
-            var ValidationMessage = "";
-            var Validated = true;
-            if (Email1Value != Email2Value)
-            {
-                ValidationMessage += "Please make sure the two emails match.\n";
-                Validated = false;
-            }
-            if (!ZipValue.match(/^\d{5}$|^\d{5}-\d{4}$/))
-            {
-                ValidationMessage += "Please enter a valid zip code.\n";
-                Validated = false;
-            }
-            if ( Birthday.length <= 2 )
-            {
-                ValidationMessage += "Please enter your birthday.\n";
-                Validated = false;            
-            }
-            if( Terms != true )
-            {
-                ValidationMessage += "Please agree to the terms of use.\n";
-                Validated = false;              
-            }
-            //if(Email1Value == Email2Value && ZipValue.match(/^\d{5}$|^\d{5}-\d{4}$/) && Birthday.length > 2 && Terms == true)
-            if(Validated)
-            {
-                Div2.toggle();
-                Div3.toggle();
-                var URL = "GetMore.aspx?pfEmailaddress=" + Email1Value + "&pfBirthDate=" + Birthday + "&pfOptIn=true&pfMobileNumber=" + MobileNumber + "&pfZipCode=" + ZipValue;                               
-                $('RegistrationIframe').src = URL;               
-            }
-            else
-            {
-                alert(ValidationMessage);
-            }
-        }
-        
-        function ToggleMobileOn()
-        {
-            MobileHolder.slideOut();
-        }
-        
-        function ToggleMobileOff()
-        {
-            MobileHolder.slideIn();
-        }        
-	</script>
 	
 
-				</div>
 			</div>
+			
+			<!--footer-->
+			<ul id="footer">
+			    <li><a id="A4" href="/OurStory.aspx?WT.mc_id=060809_Our_Story" class="ourStoryNav">Our Story</a>&nbsp;| </li>
+			    <li><a id="A5" href="/contactus/contactlanding.aspx?WT.mc_id=060809_Contact_Us" class="contactUsNav">Contact Us</a>&nbsp;&nbsp;|&nbsp;</li>
+			    <li><a id="A6" href="/Newsroom.aspx?WT.mc_id=060809_Newsroom" class="newsroomNav">Newsroom</a>&nbsp;| </li>
+			    <li><a href="http://www.pizzahut.com/emails/redirect.htm?redirect=http://www.realpizzahutjobs.com?WT.mc_id=060809_Careers" class="careersNav " target="_blank">Careers</a>&nbsp;| </li>
+			    <li><a href="http://www.yumfranchises.com/disclaimer.asp?brand=ph" class="" target="_blank">Become a Franchisee</a>&nbsp;| </li>
+			    <li><a id="A7" href="/FAQ.aspx?WT.mc_id=060809_FAQ" class="faqNav">FAQ</a>&nbsp; | </li>
+			    <li><a id="A8" href="/nutrition.aspx" class="nutritionNav">Nutrition</a>&nbsp;| </li>
+			    <li><a id="A9" href="/catering/?WT.mc_id=060809_Catering" class="cateringNav">Catering</a>&nbsp;| </li>
+			    <li><a href="https://pizzahutcard.pizzahut.com/traditionalgiftcard/?WT.mc_id=090309_Gift_Cards" class="">Gift Cards</a>&nbsp;| </li>
+			    <li><a href="http://www.pizzahut.com/emails/redirect.htm?redirect=http://www.bookitprogram.com?WT.mc_id=060809_BOOK_IT" class="" target="_blank">BOOK IT!<sup>®</sup></a>&nbsp;| </li>
+		        <li><a href="/mobileordering?WT.mc_id=060809_Text_and_Mobile" class="mobileOrderingNav ">Text &amp; Mobile Ordering</a></li>
+		    </ul>
+		    
 		</div>
-		<div id="footer">
-		    <a href="Default.aspx" id="ctl00_A4" style="position:absolute; top:-18px; right:38px; _right:88px;"><img src="Images/Common/ftrLogoPH.gif" id="ctl00_pizzaHutFooterLogo" alt="Pizza Hut™" title="Pizza Hut™"></a>
-			<a href="OurStory.aspx" id="ctl00_A5">Our Story</a>&nbsp;&nbsp;|&nbsp;
-			<a href="Newsroom.aspx" id="ctl00_A6">Newsroom</a>&nbsp;&nbsp;|&nbsp;
-			<a id="A7" href="http://www.pizzahut.com/emails/redirect.htm?redirect=http://www.realpizzahutjobs.com&amp;WT.mc_id=Careers_Global_Link" target="_blank">Careers</a>&nbsp;&nbsp;|&nbsp;
-			<a href="http://www.pizzahut.com/emails/redirect.htm?redirect=http://www.yumfranchises.com/getstarted/getstarted.asp?brand=ph&amp;WT.mc_id=Become_a_Franchisee" target="_blank">Become a Franchisee</a>&nbsp;&nbsp;|&nbsp;
-			<a href="catering" id="ctl00_A8">Catering</a>
+		
+		<!-- Bottom Cap for Pizza Hut Container -->
+		<img src="/Images/Common/phContainerBtm.gif" id="ctl00_Img2" class="floatLeft">
+		
+		
+		<div id="Wildcards"></div>
+		  
+		<!-- Secondary Footer with legal -->
+		
+        
+<div id="footerText">
+	<a href="/PrivacyPolicy.aspx?WT.mc_id=060809_Privacy_Policy" class="privacyPolicyNav">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;
+	<a href="/TermsOfUse.aspx?WT.mc_id=060809_Terms_Of_Use" class="termsUseNav">Terms of Use</a>&nbsp;&nbsp;|&nbsp;
+	<a href="/SupplierCode.aspx?WT.mc_id=060809_Supplier_Code" class="supplierCodeNav">Supplier Code</a>&nbsp;&nbsp;|&nbsp;
+	<a href="http://www.yum.com/responsibility/diversity.asp?WT.mc_id=060809_Diversity" target="_blank">Diversity</a>&nbsp;&nbsp;|&nbsp;
+	<a href="/SiteMap.aspx" class="siteMapNav">Site Map</a>
 			
-			
-<div id="CustomerSatisfactionContainer">    
-            
-    <script type="text/javascript">
-    var realPage = /Real_Global_Seal/;
-    var realPage2 = /real/;
-    var chooseRealPage = /choosereal/;
-    var fullURL = window.location.href;
-    var real = fullURL.match(realPage);
-    var real2 = fullURL.match(realPage2);
-    var chooseReal = fullURL.match(chooseRealPage);
-    var footerText = document.getElementById('footerTextCustomerSatisfaction');
+	<br><br>
+	© 2010 Pizza Hut, Inc. All rights reserved. Powered by QuikOrder<sup>®</sup> The Pizza Hut name, logos, and related marks are trademarks of Pizza Hut, Inc.<br><br>
+				
+	The HERSHEY'S<sup>®</sup> trademark and trade dress are used under license.<br><br>
+	
+	PEPSI, PEPSI-COLA, and PEPSI Globe are registered trademarks of PepsiCo, Inc.
+	DR PEPPER and PEPPER are registered trademarks of Dr Pepper/Seven Up, Inc.<br><br>
+	
+    Portions © QuikOrder, Inc. 1997-2009  Patents 5,991,739; 6,801,228; 7,197,478; 7,287,002; Other Patents Pending  Portions © IPDEV, Co. 1986-2009 Used with Permission<br><br>
+</div>
+
+		
+		<div class="clear"></div>
+      
+	</div>
+   <!-- Last Order Box -->
+   	
+   
+   <!-- Yeti Wildcard popup -->
+   <div id="wildcardTooltip2"></div>
+   <a class="wildcardTooltipLink" href="#"></a>
+   <!-- Help Tooltips -->
+   <div id="helpTooltip" style="display:none;"></div>
+   <div id="dealMoreInformation" style="display:none;"></div>
     
-    if(!real && !real2)
+    
+    
+    
+    
+
+
+
+<!-- Main SignIn Lightbox -->
+<div id="loginLightboxWrapper" style="display:none;">
+    <div class="loginHeader">
+		<h1 class="loginLightboxTop">Start Your Order Here</h1>
+        <a href="#" class="close"><img src="/Images/Buttons/login_lightboxCloseBtn.gif" alt="Close"></a>
+    </div>
+    
+    <div class="loginLightboxMid">
+        
+        <!-- Order Information -->
+        <div class="loginOrderInfo">
+            <div id="selectedDeal"></div><p><strong><span id="itemTitle"></span></strong> <span id="addToOrderText"></span></p>
+            <!--<p>Our menu varies depending on your address and local Pizza Hut. Enter your street address for your local Pizza Hut menu.</p>-->
+            <p>Enter your location or sign in to order from a Pizza Hut near you. </p>
+        </div>
+        <div class="loginOrderInfoBot"></div>
+        
+        
+        <div class="guestUserLoginContainer">
+            <img src="/Images/Lightbox/orderAsGuestHdr.png" class="png" alt="ORDER AS A GUEST">
+            <div class="guestUserContent">
+                <!-- New Customer -->
+                <div class="loginBox" id="newCustomerLL">
+                    <div class="mainContentLightbox">
+                        <p><strong>You don't need an account to make an order.</strong> Enter your location<br> to order from your local menu.</p>
+                        <span class="dashedBorder"></span>
+                        <p class="requiredFields">All Fields Required</p>
+                        <p><strong>I would like to order for:</strong></p>
+                        <!-- LL means Login Lightbox -->
+                        <p>
+                            <input id="ctl00_lightboxContainers_NewDeliveryLL" type="radio" name="ctl00$lightboxContainers$NewOrderingLL" value="NewDeliveryLL" checked="checked"> Delivery &nbsp; &nbsp;
+                            <input id="ctl00_lightboxContainers_NewCarryoutLL" type="radio" name="ctl00$lightboxContainers$NewOrderingLL" value="NewCarryoutLL"> Carryout
+                        </p>
+                        
+                        <span id="addressLL" class="loginErrors">Please enter a street address.<br>Do not include apartment number.<br>No P.O. Boxes.<br></span> 
+                        <input name="ctl00$lightboxContainers$NewAddressLL" type="text" value="Enter a Street Address" id="ctl00_lightboxContainers_NewAddressLL" class="largeTextBox streetAddressText">
+                        <div class="clear"></div>
+                        <div class="zipCodeWrapper">
+                            <span id="zipLL" class="loginErrors">Please enter a ZIP code.<br></span>
+                            <input name="ctl00$lightboxContainers$NewZipLL" type="text" value="Enter a ZIP Code" id="ctl00_lightboxContainers_NewZipLL" class="smallTextBox zipCodeText"><br>
+                            <p><a href="#" class="noZip">Don't know your ZIP?</a></p>
+                        </div>
+                        
+                        <div class="cityStateWrapper">
+                            <span id="cityLL" class="loginErrors cityState">Please enter your city.</span> 
+                            <span id="stateLL" class="loginErrors cityState">Please select a state.<br></span>
+                            <div class="clear"></div>
+                            <input name="ctl00$lightboxContainers$NewCityLL" type="text" value="Enter Your City" id="ctl00_lightboxContainers_NewCityLL" class="smallTextBox cityText"> &nbsp; &nbsp;
+                            <select name="ctl00$lightboxContainers$ddlStateLL" id="ctl00_lightboxContainers_ddlStateLL">
+	<option selected="selected" value="">Please Select a State</option>
+	<option value="AL">Alabama</option>
+	<option value="AK">Alaska</option>
+	<option value="AZ">Arizona</option>
+	<option value="AR">Arkansas</option>
+	<option value="CA">California</option>
+	<option value="CO">Colorado</option>
+	<option value="CT">Connecticut</option>
+	<option value="DC">District of Columbia</option>
+	<option value="DE">Delaware</option>
+	<option value="FL">Florida</option>
+	<option value="GA">Georgia</option>
+	<option value="HI">Hawaii</option>
+	<option value="ID">Idaho</option>
+	<option value="IL">Illinois</option>
+	<option value="IN">Indiana</option>
+	<option value="IA">Iowa</option>
+	<option value="KS">Kansas</option>
+	<option value="KY">Kentucky</option>
+	<option value="LA">Louisiana</option>
+	<option value="ME">Maine</option>
+	<option value="MD">Maryland</option>
+	<option value="MA">Massachusetts</option>
+	<option value="MI">Michigan</option>
+	<option value="MN">Minnesota</option>
+	<option value="MS">Mississippi</option>
+	<option value="MO">Missouri</option>
+	<option value="MT">Montana</option>
+	<option value="NE">Nebraska</option>
+	<option value="NV">Nevada</option>
+	<option value="NH">New Hampshire</option>
+	<option value="NJ">New Jersey</option>
+	<option value="NM">New Mexico</option>
+	<option value="NY">New York</option>
+	<option value="NC">North Carolina</option>
+	<option value="ND">North Dakota</option>
+	<option value="OH">Ohio</option>
+	<option value="OK">Oklahoma</option>
+	<option value="OR">Oregon</option>
+	<option value="PA">Pennsylvania</option>
+	<option value="RI">Rhode Island</option>
+	<option value="SC">South Carolina</option>
+	<option value="SD">South Dakota</option>
+	<option value="TN">Tennessee</option>
+	<option value="TX">Texas</option>
+	<option value="UT">Utah</option>
+	<option value="VT">Vermont</option>
+	<option value="VA">Virginia</option>
+	<option value="WA">Washington</option>
+	<option value="WV">West Virginia</option>
+	<option value="WI">Wisconsin</option>
+	<option value="WY">Wyoming</option>
+
+</select>
+                            <p><a href="#" class="noCityState">Don't know your city &amp; state?</a></p>
+                        </div>
+                        <div class="clear"></div>
+                        <a href="#" id="getStartedNewLL" class="lightboxGetStartedBtn" onclick="getCookieInformationLightbox('NewLL'); return false;"><img src="/Images/Lightbox/getStartedBtn.gif" class="button" alt="Get Started"></a> 
+                    </div>
+                 </div>
+                
+                <!-- Returning Customer -->
+                <div class="loginBox alreadyRegistered" id="returningCustomerLL">
+                    <img src="/Images/Lightbox/alreadyRegisteredTop.gif" alt="">
+                    <div class="mainContentLightbox">
+                        <h3>Already Registered?</h3>
+                        
+                        <a href="javascript:sendToQuikorder();"><img src="/Images/Lightbox/signInBtn.gif" class="button" alt="Sign In"></a>                
+                    
+                    </div>
+                    <img style="float:left;" src="/Images/Lightbox/alreadyRegisteredBtm.gif" alt="">
+                </div>
+            </div>
+            <img style="float:left;" src="/Images/Lightbox/securityFixBoxBtm.png" class="png" alt="">
+        </div>
+    </div>
+    <div class="loginLightboxBot"></div>
+    <div class="clear"></div>
+</div>
+
+
+<!-- Deals Lightbox  style="display:none;" -->
+<div id="dealsLightbox">
+    <div id="dealsLightboxWrapper">
+        <a href="#" class="close"><img src="Images/Buttons/login_lightboxCloseBtn.gif" alt="Close"></a>
+        <div class="sendDealsHeader">
+            <h1>SEND ME DEALS</h1>
+        </div>
+        
+        <div id="dealsLightboxMid">
+            <div id="ctl00_lightboxContainers_upDeals">
+	
+                    <div id="sendDealsIntroText">
+                        <!-- Top Cap for Intro Text -->
+                        <img src="../Images/Homepage/sendDealsTop.gif" class="floatLeft" alt="">
+	                        <p>Get Pizza Hut coupons, specials, promotions, announcements and event information from Pizza Hut delivered to your email address or phone.</p>        
+                        <!-- Bottom Cap for Intro Text -->
+	                    <img src="../Images/Homepage/sendDealsBtm.gif" class="floatLeft" alt="">
+                        <div class="clear"></div> 
+                    </div> 
+                    <p><span class="red">*</span> Required Fields</p>
+                    <div class="form" style="overflow:hidden;">
+                        <div class="formLabel">
+                            <span class="red">*</span><strong>How would you like to get deals?</strong>
+                        </div>
+                        <div class="formInputs">
+                            <input id="ctl00_lightboxContainers_EmailOnly" type="radio" name="ctl00$lightboxContainers$EmailDeals" value="EmailOnly"><label for="ctl00_lightboxContainers_EmailOnly">Email Only</label> &nbsp; &nbsp;
+                            <input id="ctl00_lightboxContainers_EmailText" type="radio" name="ctl00$lightboxContainers$EmailDeals" value="EmailText" checked="checked"><label for="ctl00_lightboxContainers_EmailText">Email and Text Message</label>
+                            <p id="privacyTerms" style="width:240px;">Please read our <a href="PrivacyPolicy.aspx">Privacy Policy</a> and <a href="TermsOfUse.aspx">Terms of Use</a>. </p>                                   
+                        </div>
+                        
+                        <div class="sdFormContent">
+                            <span id="stateError" class="sendDealsError" style="display:none;">Please select your state.</span>
+                            <div class="formLabel">
+                                <span class="red">*</span><strong>State:</strong>
+                            </div>
+                            <div class="formInputs">
+                                <select name="ctl00$lightboxContainers$ddlSDState" id="ctl00_lightboxContainers_ddlSDState">
+		<option selected="selected" value="">Select Your State</option>
+		<option value="AL">Alabama</option>
+		<option value="AK">Alaska</option>
+		<option value="AZ">Arizona</option>
+		<option value="AR">Arkansas</option>
+		<option value="CA">California</option>
+		<option value="CO">Colorado</option>
+		<option value="CT">Connecticut</option>
+		<option value="DC">District of Columbia</option>
+		<option value="DE">Delaware</option>
+		<option value="FL">Florida</option>
+		<option value="GA">Georgia</option>
+		<option value="HI">Hawaii</option>
+		<option value="ID">Idaho</option>
+		<option value="IL">Illinois</option>
+		<option value="IN">Indiana</option>
+		<option value="IA">Iowa</option>
+		<option value="KS">Kansas</option>
+		<option value="KY">Kentucky</option>
+		<option value="LA">Louisiana</option>
+		<option value="ME">Maine</option>
+		<option value="MD">Maryland</option>
+		<option value="MA">Massachusetts</option>
+		<option value="MI">Michigan</option>
+		<option value="MN">Minnesota</option>
+		<option value="MS">Mississippi</option>
+		<option value="MO">Missouri</option>
+		<option value="MT">Montana</option>
+		<option value="NE">Nebraska</option>
+		<option value="NV">Nevada</option>
+		<option value="NH">New Hampshire</option>
+		<option value="NJ">New Jersey</option>
+		<option value="NM">New Mexico</option>
+		<option value="NY">New York</option>
+		<option value="NC">North Carolina</option>
+		<option value="ND">North Dakota</option>
+		<option value="OH">Ohio</option>
+		<option value="OK">Oklahoma</option>
+		<option value="OR">Oregon</option>
+		<option value="PA">Pennsylvania</option>
+		<option value="RI">Rhode Island</option>
+		<option value="SC">South Carolina</option>
+		<option value="SD">South Dakota</option>
+		<option value="TN">Tennessee</option>
+		<option value="TX">Texas</option>
+		<option value="UT">Utah</option>
+		<option value="VT">Vermont</option>
+		<option value="VA">Virginia</option>
+		<option value="WA">Washington</option>
+		<option value="WV">West Virginia</option>
+		<option value="WI">Wisconsin</option>
+		<option value="WY">Wyoming</option>
+
+	</select>
+                            </div>
+                        </div>
+
+                        <div class="sdFormContent">
+                            <span id="zipError" class="sendDealsError" style="display:none;">Please enter your ZIP code.</span>                        
+                            <div class="formLabel">
+                                <span class="red">*</span><strong>ZIP Code:</strong>
+                            </div>
+                            <div class="formInputs">
+                                <input name="ctl00$lightboxContainers$sdZip" type="text" maxlength="10" id="ctl00_lightboxContainers_sdZip">
+                            </div>
+                        </div>
+                        
+                        <div class="sdFormContent">
+                            <span id="emailError" class="sendDealsError" style="display:none;">Please enter your email address.</span>                        
+                            <div class="formLabel">
+                                <span class="red">*</span><strong>Email Address:</strong>
+                            </div>
+                            <div class="formInputs">
+                                <input name="ctl00$lightboxContainers$EmailSD" type="text" maxlength="30" id="ctl00_lightboxContainers_EmailSD">
+                            </div>
+                        </div>
+                        
+                        <div class="sdFormContent">                                                
+                            <span id="birthdayError" class="sendDealsError" style="display:none;">Please enter your birth date.</span>                        
+                            <span id="notEligible" class="sendDealsError" style="display:none;">Sorry, but you are not eligible to sign up for these offers based on our <a href="/privacypolicy.aspx" style="color:red; font-weight:normal; float:none; margin:0;">Privacy Policy</a>.</span>                        
+                            <div class="formLabel">
+                                <span class="red">*</span><strong>Birth Date:</strong>
+                            </div>
+                            <div class="formInputs">
+                                <select name="ctl00$lightboxContainers$monthDropDownList" id="ctl00_lightboxContainers_monthDropDownList">
+		<option value="">MM</option>
+		<option value="1">January</option>
+		<option value="2">February</option>
+		<option value="3">March</option>
+		<option value="4">April</option>
+		<option value="5">May</option>
+		<option value="6">June</option>
+		<option value="7">July</option>
+		<option value="8">August</option>
+		<option value="9">September</option>
+		<option value="10">October</option>
+		<option value="11">November</option>
+		<option value="12">December</option>
+
+	</select>
+                                &nbsp;
+                                <select name="ctl00$lightboxContainers$dayDropDownList" id="ctl00_lightboxContainers_dayDropDownList">
+		<option value="">DD</option>
+		<option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+		<option value="6">6</option>
+		<option value="7">7</option>
+		<option value="8">8</option>
+		<option value="9">9</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+		<option value="13">13</option>
+		<option value="14">14</option>
+		<option value="15">15</option>
+		<option value="16">16</option>
+		<option value="17">17</option>
+		<option value="18">18</option>
+		<option value="19">19</option>
+		<option value="20">20</option>
+		<option value="21">21</option>
+		<option value="22">22</option>
+		<option value="23">23</option>
+		<option value="24">24</option>
+		<option value="25">25</option>
+		<option value="26">26</option>
+		<option value="27">27</option>
+		<option value="28">28</option>
+		<option value="29">29</option>
+		<option value="30">30</option>
+		<option value="31">31</option>
+
+	</select>
+                                &nbsp;
+                                <select name="ctl00$lightboxContainers$yearDropDownList" id="ctl00_lightboxContainers_yearDropDownList">
+		<option value="">YYYY</option>
+		<option value="2010">2010</option>
+		<option value="2009">2009</option>
+		<option value="2008">2008</option>
+		<option value="2007">2007</option>
+		<option value="2006">2006</option>
+		<option value="2005">2005</option>
+		<option value="2004">2004</option>
+		<option value="2003">2003</option>
+		<option value="2002">2002</option>
+		<option value="2001">2001</option>
+		<option value="2000">2000</option>
+		<option value="1999">1999</option>
+		<option value="1998">1998</option>
+		<option value="1997">1997</option>
+		<option value="1996">1996</option>
+		<option value="1995">1995</option>
+		<option value="1994">1994</option>
+		<option value="1993">1993</option>
+		<option value="1992">1992</option>
+		<option value="1991">1991</option>
+		<option value="1990">1990</option>
+		<option value="1989">1989</option>
+		<option value="1988">1988</option>
+		<option value="1987">1987</option>
+		<option value="1986">1986</option>
+		<option value="1985">1985</option>
+		<option value="1984">1984</option>
+		<option value="1983">1983</option>
+		<option value="1982">1982</option>
+		<option value="1981">1981</option>
+		<option value="1980">1980</option>
+		<option value="1979">1979</option>
+		<option value="1978">1978</option>
+		<option value="1977">1977</option>
+		<option value="1976">1976</option>
+		<option value="1975">1975</option>
+		<option value="1974">1974</option>
+		<option value="1973">1973</option>
+		<option value="1972">1972</option>
+		<option value="1971">1971</option>
+		<option value="1970">1970</option>
+		<option value="1969">1969</option>
+		<option value="1968">1968</option>
+		<option value="1967">1967</option>
+		<option value="1966">1966</option>
+		<option value="1965">1965</option>
+		<option value="1964">1964</option>
+		<option value="1963">1963</option>
+		<option value="1962">1962</option>
+		<option value="1961">1961</option>
+		<option value="1960">1960</option>
+		<option value="1959">1959</option>
+		<option value="1958">1958</option>
+		<option value="1957">1957</option>
+		<option value="1956">1956</option>
+		<option value="1955">1955</option>
+		<option value="1954">1954</option>
+		<option value="1953">1953</option>
+		<option value="1952">1952</option>
+		<option value="1951">1951</option>
+		<option value="1950">1950</option>
+		<option value="1949">1949</option>
+		<option value="1948">1948</option>
+		<option value="1947">1947</option>
+		<option value="1946">1946</option>
+		<option value="1945">1945</option>
+		<option value="1944">1944</option>
+		<option value="1943">1943</option>
+		<option value="1942">1942</option>
+		<option value="1941">1941</option>
+		<option value="1940">1940</option>
+		<option value="1939">1939</option>
+		<option value="1938">1938</option>
+		<option value="1937">1937</option>
+		<option value="1936">1936</option>
+		<option value="1935">1935</option>
+		<option value="1934">1934</option>
+		<option value="1933">1933</option>
+		<option value="1932">1932</option>
+		<option value="1931">1931</option>
+		<option value="1930">1930</option>
+		<option value="1929">1929</option>
+		<option value="1928">1928</option>
+		<option value="1927">1927</option>
+		<option value="1926">1926</option>
+		<option value="1925">1925</option>
+		<option value="1924">1924</option>
+		<option value="1923">1923</option>
+		<option value="1922">1922</option>
+		<option value="1921">1921</option>
+		<option value="1920">1920</option>
+		<option value="1919">1919</option>
+		<option value="1918">1918</option>
+		<option value="1917">1917</option>
+		<option value="1916">1916</option>
+		<option value="1915">1915</option>
+		<option value="1914">1914</option>
+		<option value="1913">1913</option>
+		<option value="1912">1912</option>
+		<option value="1911">1911</option>
+
+	</select>
+                            </div>                        
+                        </div>
+                        
+                        <div id="sdMobileOrdering" class="sdFormContent">
+                            <span id="mobilePhoneError" class="sendDealsError" style="display:none;">Please enter your mobile number.</span>                        
+                            <div class="formLabel">
+                                <span class="red" id="optionalMobile">*</span><strong>Mobile Number:</strong>
+                            </div>
+                            <div class="formInputs">
+                                <input name="ctl00$lightboxContainers$mobileAreaCode" type="text" maxlength="3" id="ctl00_lightboxContainers_mobileAreaCode"> - 
+                                <input name="ctl00$lightboxContainers$mobilePhonePrefix" type="text" maxlength="3" id="ctl00_lightboxContainers_mobilePhonePrefix"> - 
+                                <input name="ctl00$lightboxContainers$mobilePhoneExt" type="text" maxlength="4" id="ctl00_lightboxContainers_mobilePhoneExt">
+                                
+                                
+                                
+                            </div>
+                        </div>
+                        
+                        <div class="sdFormContent">
+                            <span id="termsError" class="sendDealsError" style="display:none;">Please consent to the terms of use.</span>                        
+                            <div class="formLabel">
+                                &nbsp;
+                            </div>
+                            <div class="formInputs">
+                                <input id="ctl00_lightboxContainers_consentTerms" type="checkbox" name="ctl00$lightboxContainers$consentTerms"> 
+                                <span class="legal"><span class="red">*</span>I consent to receive coupons, specials, promotions, announcements and event information from Pizza Hut<sup>®</sup> and its affiliates via the above electronic methods.</span>
+                            </div>                        
+                        </div>
+                    </div>
+
+                    <a href="#" class="cancel"><img src="Images/Buttons/btnCancel.gif" class="button" alt="Cancel"></a>            
+                    <a href="#" onclick="sendOptInInformation()" class="dealsSubmit" id="ibDealsSubmit"><img src="Images/Buttons/signUpSendDealsBtn.gif" class="button" alt="Sign Up"></a>                                
+                
+</div>                
+        </div>
+        <div id="dealsLightboxBtm"></div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<!-- Contact Us Popup Box -->
+<div class="contactUsPopupWrapper" id="corporateInfoBox" style="display:none;">
+    <div class="contactPopupTop"></div>
+    <div class="contactPopupMid">
+        <h1>CORPORATE INFORMATION</h1>
+        <ul class="corporateInformationInfo">
+            <li>Pizza Hut, Inc.</li>
+            <li>14841 Dallas Parkway</li>
+            <li>Dallas, TX 75254</li>
+        </ul>
+        <ul class="corporateInformationInfo">
+            <li><b>Customer Feedback</b></li>
+            <li>Phone: 1-800-948-8488</li>
+            <li><b>All Other Inquiries</b></li>
+            <li>Phone: 1-972-338-7700</li>
+        </ul>
+    </div>
+    <div class="contactPopupBot">
+        <a href="#" class="close corporateInfoClose"><img src="../Images/Buttons/closeBtn.gif" alt="close"></a>
+    </div>
+</div>
+
+<div id="helpTooltip" style="display:none;"></div>
+<div id="wildcardTooltip"></div>
+
+<script type="text/javascript">
+
+/* Script call for Epsilon */
+var sendDeals;
+var emailDeals;
+var phone;
+var birthdayPass;
+var consent;
+
+function sendOptInInformation() 
+{
+    //debugger;
+    var emailyOnly = jQuery('#ctl00_lightboxContainers_EmailOnly:checked').val();
+	var email = document.getElementById("ctl00_lightboxContainers_EmailSD").value;
+	var zip = document.getElementById("ctl00_lightboxContainers_sdZip").value;
+    var consentChecked = document.getElementById("ctl00_lightboxContainers_consentTerms").checked;
+    var mobileArea = document.getElementById("ctl00_lightboxContainers_mobileAreaCode").value;
+    var mobilePrefix = document.getElementById("ctl00_lightboxContainers_mobilePhonePrefix").value;
+    var mobileExt = document.getElementById("ctl00_lightboxContainers_mobilePhoneExt").value;
+    var mobilenumber = mobileArea + "-" + mobilePrefix + "-" + mobileExt;
+    var regexPhone = new RegExp("^(\\(?[0-9]{3}\\)?)?\\-?[0-9]{3}\\-?[0-9]{4}$");
+    var regexZip = new RegExp("\\d{5}$|^\\d{5}");
+    var regexEmail = new RegExp("\\w+([-+.]\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*");
+     
+    var stateCheck = document.getElementById('ctl00_lightboxContainers_ddlSDState').value;
+    
+    var checkDate = new Date();
+    var dayToCheck;
+    var checkDateYear = checkDate.getFullYear() - 13;
+    var checkDateYearMaine = checkDate.getFullYear() - 18; //Maine check
+    var checkDateMonth = checkDate.getMonth().toString();
+    var checkDateDay = checkDate.getDate().toString();
+    
+    var userDate = new Date();
+    var getUserMonth = document.getElementById('ctl00_lightboxContainers_monthDropDownList').value - 1;
+    var getUserDay = document.getElementById('ctl00_lightboxContainers_dayDropDownList').value;
+    var getUserYear = document.getElementById('ctl00_lightboxContainers_yearDropDownList').value;
+    
+    var dob = (getUserMonth + 1)  + "/" + getUserDay + "/" + getUserYear;
+    
+    var setUserBirthdate = userDate.setFullYear(getUserYear, getUserMonth, getUserDay);
+
+    if(stateCheck == "")
     {
-        document.write('<a href="real?WT.mc_id=122208Real_Global_Seal" class="RealSealImage">Choose Real Taste<sup>&trade;</sup></a>');
+        jQuery('#stateError').slideDown();
+        birthdayPass = false;
+    }
+    else if(stateCheck == "ME")
+    {
+        dayToCheck = checkDate.setFullYear(checkDateYearMaine, checkDateMonth, checkDateDay);
+        jQuery('#stateError').slideUp();
+    }
+    else
+    {
+        dayToCheck = checkDate.setFullYear(checkDateYear, checkDateMonth, checkDateDay);
+        jQuery('#stateError').slideUp();
+    }
+
+    if((getUserDay == "") || (getUserMonth == "-1") || (getUserYear == ""))
+    {
+        jQuery('#birthdayError').slideDown();
+        birthdayPass = false;
+    }
+    else
+    {
+        birthdayPass = true;
+    }
+     if (birthdayPass == true)
+     {
+        if(dayToCheck >= setUserBirthdate)
+        {
+            jQuery('#birthdayError, #notEligible').slideUp();
+        }
+        else
+        {
+            if(jQuery('#notEligible').css('display') == "block") return false;
+            jQuery('#birthdayError').slideUp(200, function(){jQuery('#notEligible, #notEligible td').slideDown();});
+            birthdayPass = false;
+        }
     }
     
-    if(chooseReal)
+    if(emailyOnly == "EmailOnly")
     {
-        document.write('<a href="real?WT.mc_id=122208Real_Global_Seal" class="RealSealImage">Choose Real Taste<sup>&trade;</sup></a>');
-    }    
-    </script><a href="real?WT.mc_id=122208Real_Global_Seal" class="RealSealImage">Choose Real Taste<sup>™</sup></a>
+        phone = true;
+    }
+    else
+    {
+        if(regexPhone.test(mobilenumber))
+        {
+            jQuery('#mobilePhoneError').slideUp();
+            phone = true;
+           
+        }
+        else
+        {
+            jQuery('#mobilePhoneError').slideDown();
+            phone = false;
+        }
+    }
     
-	<div id="footerTextCustomerSatisfaction">
-	    
-		<a href="PrivacyPolicy.aspx" id="ctl00_FooterText_A1">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;
-		<a href="TermsOfUse.aspx" id="ctl00_FooterText_A2">Terms of Use</a>&nbsp;&nbsp;|&nbsp;
-		<a href="contactus/contactlanding.aspx" id="ctl00_FooterText_A3">Contact Us</a>&nbsp;&nbsp;|&nbsp;
-		<a href="International.aspx" id="ctl00_FooterText_A4">International</a>&nbsp;&nbsp;|&nbsp;
-		<a href="SupplierCode.aspx" id="ctl00_FooterText_A5">Supplier Code</a>&nbsp;&nbsp;|&nbsp;
-		<a href="http://www.yum.com/responsibility/diversity.asp" target="_blank">Diversity</a>&nbsp;&nbsp;|&nbsp;
-		<a href="http://www.bookitprogram.com/" target="_blank">BOOK IT!</a><sup>®</sup>&nbsp;&nbsp;|&nbsp;
-		<a href="SiteMap.aspx" id="ctl00_FooterText_A6">Site Map</a>
-				
-		<br><br>
-		© 2009 Pizza Hut, Inc. All rights reserved. Powered by QuikOrder<sup>®</sup><br><br>
-		
-		The Pizza Hut name, logos, and related marks are trademarks of Pizza Hut, Inc.<br><br>
-					
-		The HERSHEY'S<sup>®</sup> trademark and trade dress are used under license.<br><br>
-		
-		PEPSI, PEPSI-COLA, and PEPSI Globe are registered trademarks of PepsiCo, Inc.<br>
-		DR PEPPER and PEPPER are registered trademarks of Dr Pepper/Seven Up, Inc.<br><br>
-		
-		
-        Portions © QuikOrder, Inc. 1997-2008  Patents 5,991,739; 6,801,228; 7,197,478; 7,287,002;<br>
-        Other Patents Pending  Portions © IPDEV, Co. 1986-2008 Used with Permission<br><br>
-	</div>
-</div>
-			
-		</div>
-	</div>		
+    if(consentChecked)
+    {
+        consent = true;
+        jQuery('#termsError').slideUp();
+    }
+    else
+    {
+        consent = false;
+        jQuery('#termsError').slideDown();
+    }
 
-    </form>
+    if(regexZip.test(zip))
+    {
+        sendDeals = true;
+        jQuery('#zipError').slideUp();
+    }
+    else
+    {
+        sendDeals = false;
+        jQuery('#zipError').slideDown();
+    }
+   
+    if(regexEmail.test(email))
+    {
+        emailDeals = true;
+        jQuery('#emailError').slideUp();
+    }
+    else
+    {
+        emailDeals = false;
+        jQuery('#emailError').slideDown();
+    }        
+
+    if(sendDeals==true && emailDeals==true && birthdayPass ==true && consent==true && phone == true){
+        PizzaHut.Web.WS.AEPersonalizationWS.ExactTargetTriggerSend(email, zip, dob, mobilenumber, OnWSSendOptInInformationComplete, OnWSSendOptInInformationFailed);
+        if (typeof (Sys) !== "undefined") Sys.Application.notifyScriptLoaded();
+    }
+}
+
+
+jQuery(document).ready(function(){
+    var emailyOnly = jQuery('#ctl00_lightboxContainers_EmailOnly');
+    var emailText = jQuery('#ctl00_lightboxContainers_EmailText');
+    var mobileField = jQuery('#sdMobileOrdering');
+    jQuery(emailyOnly).click(function(){
+        jQuery('#sdMobileOrdering, #mobilePhoneError').slideUp();
+    });
+    jQuery(emailText).click(function(){
+        jQuery('#sdMobileOrdering, #mobilePhoneError').slideDown();
+    });
     
+});
+
+function OnWSSendOptInInformationComplete(result) {
+	//alert("sendOptInInformation: " + ((result) ? "succeeded:" + result : "failed") + "!");
+	jQuery('#dealsLightboxMid').html("Thank you for registering! Look for great deals from Pizza Hut designed especially for you. If you don't see our welcome email in your inbox, please check your junk email and be sure to add us to your address box. You may unsubscribe at any time by clicking the link on the emails you receive.");
+}
+
+function OnWSSendOptInInformationFailed(result) {
+	//alert("sendOptInInformation: " + ((result) ? "succeeded" : "failed") + "!");
+}
+
+
+/***********************
+Login Methods
+***********************/
+
+// Set flags for validation
+var addressValid;
+var zipValid;
+var cityValid;
+var stateValid;
+
+function getCookieInformationLightbox(Lightbox)
+{
+    //debugger;
+    //Variables for New Customers
     
+    var userAddress =  $get("ctl00_lightboxContainers_NewAddressLL").value; 
+    var userZip =  $get("ctl00_lightboxContainers_NewZipLL").value;  
+    var userCity =  $get("ctl00_lightboxContainers_NewCityLL").value;  
+    var userState =  $get("ctl00_lightboxContainers_ddlStateLL").selectedIndex;  
+
+    var regexAddress = /^[0-9a-zA-Z' '.,-]{5,}$/;
+    var regexCity = /^([A-Za-z ]{1,255})$/;
+    var regexZip =/^\d{5}$/;
     
+    if(regexAddress.test(userAddress) && userAddress != "Enter a Street Address")
+    {
+        addressValid = true;
+        jQuery('#addressLL').slideUp();
+    }
+    else
+    {
+        addressValid = false;
+        jQuery('#addressLL').slideDown();
+    }
+    
+    if((regexCity.test(userCity)) && userCity != "Enter Your City")
+    {
+        cityValid = true;
+        jQuery('#cityLL').slideUp();
+    }
+    else
+    {
+        cityValid = false;
+        jQuery('#cityLL').slideDown();
+    }
+    
+    if(userState != 0)
+    {
+        stateValid = true;
+        jQuery('#stateLL').slideUp();
+    }
+    else
+    {
+        stateValid = false;
+        jQuery('#stateLL').slideDown();
+    }
+    
+    if(regexZip.test(userZip))
+    {
+        zipValid = true;
+        jQuery('#zipLL').slideUp();
+    }
+    else
+    {
+        zipValid = false;
+        jQuery('#zipLL').slideDown();
+    }
+    
+    if((addressValid == true && zipValid == true) || (addressValid == true && cityValid == true && stateValid == true))
+    {
+        GetSeemlessCookieInfo(Lightbox);
+    }
+    return false;  
+}
+
+function GetSeemlessCookieInfo(Lightbox)  {
+    //debugger; 
+    var userAddress =  $get("ctl00_lightboxContainers_NewAddressLL").value; 
+    var userZip =  $get("ctl00_lightboxContainers_NewZipLL").value;  
+    var userCity =  $get("ctl00_lightboxContainers_NewCityLL").value;  
+    //var userState =  $get("ctl00_lightboxContainers_ddlStateLL").selectedIndex; 
+    var userState =  $get("ctl00_lightboxContainers_ddlStateLL").options[$get("ctl00_lightboxContainers_ddlStateLL").selectedIndex].value;
+
+    var isDelivery =  $get("ctl00_lightboxContainers_NewDeliveryLL").checked; 
+ 
+    WriteSeemlessCookie(userAddress, userZip, userCity, userState, isDelivery);
+}
+</script>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.FilteredTextBoxBehavior, {"FilterType":2,"id":"ctl00_lightboxContainers_AreaCodeFilteredTextBoxExtender"}, null, null, $get("ctl00_lightboxContainers_mobileAreaCode"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.FilteredTextBoxBehavior, {"FilterType":2,"id":"ctl00_lightboxContainers_PrefixTextBoxExtender"}, null, null, $get("ctl00_lightboxContainers_mobilePhonePrefix"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.FilteredTextBoxBehavior, {"FilterType":2,"id":"ctl00_lightboxContainers_ExtensionTextBoxExtender"}, null, null, $get("ctl00_lightboxContainers_mobilePhoneExt"));
+});
+//]]>
+</script>
+</form>
             
     
     <script type="text/javascript" language="javascript" src="/JavaScript/Tracking.js"></script>
 	<noscript>
-	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcslc8cht10000gwfmqbu3e5f_6j9u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2">
+	<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcslc8cht10000gwfmqbu3e5f_6j9u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2"/>
 	</noscript>
-    
 
 
-   
-
-
-</body></html>
+</ie:clientcaps><div id="modalBackground" style="display: none; background-color: rgb(0, 0, 0); opacity: 0.55; z-index: 50;"></div></body></html>
