@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219224715id_/http%3A//www.bid4assets.com/Help/index.cfm%3FfuseAction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624015817id_/http%3A//www.bid4assets.com/Help/index.cfm%3FfuseAction%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Bid4Assets – the online auction marketplace for buying and selling high-value items
 
@@ -93,6 +93,6 @@ If you need to speak to a client services professional about this privacy statem
 
 
 Bid4Assets  
-8757 Georgia Avenue, Suite 1330  
+8757 Georgia Avenue, Suite 520  
 Silver Spring, MD 20910  
 [Service@Bid4Assets.com](mailto:Service@Bid4Assets.com)
