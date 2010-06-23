@@ -1,30 +1,71 @@
-> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D482007.488493..488493.cat) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/%21stmenu_template.main%3Fcomplex_id_in%3D482007.488493..488493.cat) for the most accurate reproduction.*
 
-# VivaTerra - Eco Living With Style
+# VivaTerra - Privacy Policy
 
-| 
+[Furniture
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.1062178..1062178.cat)
+
+[Accessories
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.4002599..4002599.cat)
+
+[Gourmet
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.486160..486160.cat)
+
+[Bed & Bath
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.486161..486161.cat)
+
+[Women's
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.484107..484107.cat)
+
+[Gifts
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.488301..488301.cat)
+
+[Sale
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.826941..826941.cat)   
+
+
+[New
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.4002626.4002626.3961616.cat)
+
+[Specials
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.4002626.4002626.4014693.cat)
+
+[Style
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.4002626.4002626.4014417.cat)
+
+[Materials
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.4002626.4002626.4014696.cat)
+
+[Holidays
+
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.4002626.4002626.4014412.cat)   
+
 
 [View Catalog
 
-](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.782286..782286.cat)
+](http://global.syndeca.com/vivaterra/ecatalog/holiday09/) Registry 
 
-[Catalog Quick Order
+[Connect
 
-](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?proc_to_call_in=shopping_cart.QuickCart&complex_id_in=482007.488490..488490.cat)
+](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.4014301..4014301.cat)
 
-[Request a Catalog
+* * *
 
-](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.488289..488289.cat)  
-Gift Registry 
+[](https://web.archive.org/web/20100623042246id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.3939939..3939939.cat)
 
-[Gift Certificate
+* * *
 
-](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.488492..488492.cat)  
-
-
-[View eNewsletter
-
-](https://web.archive.org/web/20080629194559id_/http%3A//www.vivaterra.com/pls/enetrixp/!stmenu_template.main?complex_id_in=482007.797413..797413.cat)  
 | 
 
 Privacy Policy
@@ -66,6 +107,6 @@ We use sophisticated encryption and authentication tools to protect the security
 
 What happens if VivaTerra is sold?
 
-If we are acquired by another company, or a significant portion of our assets is sold to another company, all of the customer information that we have collected may be transferred to the new company. This would include both financial records and consumer information.   
+If we are acquired by another company, or a significant portion of our assets is sold to another company, all of the customer information that we have collected may be transferred to the new company. This would include both financial records and consumer information.  
   
 ---|---
