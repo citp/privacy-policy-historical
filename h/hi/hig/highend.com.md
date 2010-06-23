@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highend.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220131807id_/http%3A//highend.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highend.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623033155id_/http%3A//www.highend.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - High End Systems
 
@@ -53,9 +53,8 @@ The "help" portion of the toolbar on most browsers will tell you how to prevent 
 HighEnd.com will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, HighEnd.com will notify you by placing prominent notice on the Web site.
 
 **Contact Information**  
-High End Systems welcomes your comments regarding this privacy statement, please contact us by e-mail, or postal mail.
+High End Systems welcomes your comments regarding this privacy statement, please [contact us](https://web.archive.org/contactus/) electronically or via postal mail.
 
-[privacy@highend.com](mailto:privacy@highend.com)  
 High End Systems Inc.  
 2105 Gracy Farms Lane  
-Austin, Texas 78758
+Austin, Texas 78758 
