@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the windows-vista-update.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218235306id_/http%3A//www.windows-vista-update.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows-vista-update.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623023548id_/http%3A//www.windows-vista-update.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 January 30, 2020 | [Privacy Policy]()
 
 ## Privacy Policy 
-
- Advertisement  
-[ ](http://esd.element5.com/product.html?cart=1&productid=300036130&languageid=1&cookies=1&affiliateid=200031413)
 
 ##  Our Commitment To Your Privacy
 
