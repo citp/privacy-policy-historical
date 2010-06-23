@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the juju.com privacy policy that was archived on 2009-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213234447id_/http%3A//www.job-search-engine.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juju.com privacy policy that was archived on 2010-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623101107id_/http%3A//www.job-search-engine.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
     <title>Privacy Policy | Juju</title>
@@ -8,17 +8,17 @@
 
 
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<link href="/assets/images/favicon.ico" rel="shortcut icon">
+<link href="/assets-legacy/images/favicon.ico" rel="shortcut icon">
 
-<link media="screen,projection" href="/assets/style/initial.css" type="text/css" rel="stylesheet">
-<link media="screen,projection" href="/assets/style/juju.css" type="text/css" rel="stylesheet">
-<link media="screen,projection" href="/assets/style/niftyCorners.css" type="text/css" rel="stylesheet">
+<link media="screen,projection" href="/assets-legacy/style/initial.css" type="text/css" rel="stylesheet">
+<link media="screen,projection" href="/assets-legacy/style/juju.css" type="text/css" rel="stylesheet">
+<link media="screen,projection" href="/assets-legacy/style/niftyCorners.css" type="text/css" rel="stylesheet">
 
-<link media="screen,projection" href="/assets/style/browseby.css" type="text/css" rel="stylesheet">
+<link media="screen,projection" href="/assets-legacy/style/browseby.css" type="text/css" rel="stylesheet">
 
-<script src="/assets/js/MochiKit.js" type="text/javascript"></script>
-<script src="/assets/js/juju-standard.js" type="text/javascript"></script>
-<script src="/assets/js/niftycube.js" type="text/javascript"></script>
+<script src="/assets-legacy/js/MochiKit.js" type="text/javascript"></script>
+<script src="/assets-legacy/js/juju-standard.js" type="text/javascript"></script>
+<script src="/assets-legacy/js/niftycube.js" type="text/javascript"></script>
 <script type="text/javascript">
 function sizePage() {
     var pageWidth = getViewportDimensions().w; 
@@ -47,8 +47,17 @@ window.onload=function() {
     if (getElement('searchoptions')) {
         Nifty("div#searchoptions","same-height transparent");
     }
+    if (getElement('navigation')) {
+       Nifty("div#navigation","same-height transparent");
+    }
+    if (getElement('benefits')) {
+       Nifty("div#benefits","same-height transparent");
+    }
     if (getElement('footer')) {
         Nifty("div#footer","same-height transparent");
+    }
+    if (getElement('email_a_friend')) {
+        Nifty("div#email_a_friend","same-height transparent");
     }
     
     
@@ -64,8 +73,17 @@ window.onload=function() {
     <meta content="all" name="robots">
 
 
-<link type="text/css" rel="stylesheet" href="/assets/style/niftyCorners.css" media="screen"></head>
+
+</head>
+
 <body class="layout2">
+
+
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+
+
 <div id="container">
 
 
@@ -73,12 +91,14 @@ window.onload=function() {
 
 
     <div id="header">
-    <div id="logo"><a href="/" title="Juju - Home"><img src="/assets/images/juju_logo_small.gif" alt="Juju Logo"></a></div>
-    <div id="util" class="rounded" style="padding-top: 0px; padding-bottom: 0px; height: auto;"><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-bottom: -5px;"><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b> 
+    <div id="logo"><a href="/" title="Juju - Home"><img src="/assets-legacy/images/juju_logo_small.gif" alt="Juju Logo"></a></div>
+    <div id="util" class="rounded"> 
         
+            
             <p id="browselinks">Browse Jobs by: <a href="/category/" title="Browse
 Jobs by Category">Category</a> <span>|</span> <a href="/location/" title="Browse Jobs by Location">Location</a> <span>|</span> <a href="/company/" title="Browse Jobs by Company">Company</a> <span>|</span> <a href="/keyword/" title="Browse Jobs by Company">Keyword</a></p>
 
+            
             
 <script type="text/javascript">
 function onJobSearch(evtNode) {
@@ -95,7 +115,9 @@ function onJobSearch(evtNode) {
     }
 }
 </script>
+
 <form action="/jobs" onsubmit="return onJobSearch(this)" class="searchform clearfix" method="get">
+
     <div class="keywordbox"> 
         <label for="keyword">Keywords</label><br>
         <input onblur="onKeywordBlur(this)" name="k" value="" class="keyword" maxlength="512" onfocus="onKeywordFocus(this)" type="text" id="keyword1" size="20">
@@ -116,7 +138,7 @@ function onJobSearch(evtNode) {
 
             <div class="clear"></div>
         
-    <b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-top: -5px;"><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b></div>
+    </div>
 </div>
 
 
@@ -369,11 +391,15 @@ function onJobSearch(evtNode) {
     updated December 6, 2007.</p>
 
     </div>
-<div id="footer" class="rounded" style="padding-top: 0px; padding-bottom: 0px; height: auto;"><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-bottom: -5px;"><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b>
-    <p id="copyright">© 2009 Juju Inc.</p>
+<div id="footer" class="rounded">
+    
+    <p id="copyright">© 2010 Juju Inc.</p>
+    
     <p id="footernav"><a href="/about/">About Us</a> <span>|</span> <a href="/privacy/">Privacy</a> <span>|</span> <a href="/add-jobs/">Add Jobs</a> | <a href="/advertise/">Advertise Jobs</a></p>
     <div class="clear">&nbsp;</div>
-<b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-top: -5px;"><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b></div>
+</div>
+    
+
 
     </div>
 
@@ -383,6 +409,17 @@ function onJobSearch(evtNode) {
     _uacct = "UA-2459316-1";
     urchinTracker();
 </script>
+
+
+<div style="display: none;" id="ClickTaleDiv"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript src='/assets-legacy/js/WRb.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(36623,.1,"www");
+</script>
+
 
 
 
