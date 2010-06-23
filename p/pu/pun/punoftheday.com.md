@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punoftheday.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221021800id_/http%3A//www.punoftheday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punoftheday.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623234305id_/http%3A//www.punoftheday.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (Pun of the Day)
 
@@ -16,4 +16,4 @@ Cookies are small pieces of information that some web sites use to store data us
 
 Tell us what you think. 
 
-Pun of the Day welcomes your questions and comments about privacy. Please click [here](https://web.archive.org/web/20091221021800id_/http%3A//www.punoftheday.com/feedback.html) to contact us.
+Pun of the Day welcomes your questions and comments about privacy. Please click [here](https://web.archive.org/web/20100623234305id_/http%3A//www.punoftheday.com/feedback.html) to contact us.
