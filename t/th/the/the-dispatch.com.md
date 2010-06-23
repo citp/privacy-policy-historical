@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-dispatch.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217090611id_/http%3A//www.the-dispatch.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-dispatch.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623033408id_/http%3A//www.the-dispatch.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | The-Dispatch.com | The Dispatch | Lexington, NC
+# privacypolicy | The-Dispatch.com | The Dispatch | Lexington, NC
 
 This Privacy Policy discloses the privacy practices for The Dispatch | Lexington, NC newspaper and The-Dispatch.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Dispatch | Lexington, NC” include The-Dispatch.com and The Dispatch | Lexington, NC newspaper. The Dispatch | Lexington, NC is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
