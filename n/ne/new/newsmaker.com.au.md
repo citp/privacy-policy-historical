@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsmaker.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218122208id_/http%3A//www.newsmaker.com.au/pages/6-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmaker.com.au privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623090820id_/http%3A//www.newsmaker.com.au/pages/6-privacy_policy) for the most accurate reproduction.*
 
 # NewsMaker - Media release service, Press release distribution, Cost-effective PR
 
