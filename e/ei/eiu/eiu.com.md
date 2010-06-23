@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eiu.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221094915id_/http%3A//www.eiu.com/site_info.asp%3Finfo_name%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eiu.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624001640id_/http%3A//www.eiu.com/site_info.asp%3Finfo_name%3Dprivacy) for the most accurate reproduction.*
 
 # EIU.com
 
@@ -50,4 +50,4 @@ Occasions will arise when customer information is passed outside the Economist I
 Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing **eiu.com** and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. 
 
 **Updating customer details**  
-It is important to the Economist Intelligence Unit that we have your correct contact information so that you do not miss out on further correspondence or experience problems with the delivery of products. To notify us of any changes, simply send your new details, along with your old details, to the [Economist Intelligence Unit office nearest to you](https://web.archive.org/web/20091221094915id_/http%3A//www.eiu.com/site_info.asp?info_name=EIUoffices). 
+It is important to the Economist Intelligence Unit that we have your correct contact information so that you do not miss out on further correspondence or experience problems with the delivery of products. To notify us of any changes, simply send your new details, along with your old details, to the [Economist Intelligence Unit office nearest to you](https://web.archive.org/web/20100624001640id_/http%3A//www.eiu.com/site_info.asp?info_name=EIUoffices). 
