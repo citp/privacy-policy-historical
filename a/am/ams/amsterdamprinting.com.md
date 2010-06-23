@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amsterdamprinting.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619225711id_/http%3A//www.amsterdamprinting.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsterdamprinting.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623042756id_/http%3A//www.amsterdamprinting.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
 
-# Amsterdam: Promotional Items | Promo Products | Imprinted Pens Customized Calendars | Personalized Products for your Business
+# Privacy Policy | AmsterdamPrinting.com
 
 ### PRIVACY POLICY
 
