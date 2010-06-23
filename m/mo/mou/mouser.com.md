@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230130505id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020442id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.*
 
 # Mouser Electronics - Electronic Component Distributor
 
@@ -6,6 +6,9 @@ At Mouser, we are committed to protecting your privacy and developing technology
 
 **Collecting your Personal Information:**  
 We will ask you when we need information that personally identifies you or allows us to contact you. Usually this information is requested when you order email newsletters, catalogs or when you purchase our products. We continually monitor our website for errors and if one occurs, information about your web browser may be collected to assist us in correcting the problem.
+
+**Cookies:**  
+In order to make certain parts of mouser.com function correctly, cookies are utilized. Cookies are used to link you to your shopping cart and to session information while logged in. Although you can still browse and search for products, you must have cookies enabled in order to add items to your shopping cart or to create/log into a My Mouser account.
 
 **Use of your Personal Information:**  
 We may use your personal information for several purposes such as:  
@@ -31,11 +34,14 @@ We will disclose your information, without notice, only as follows:
 
 
 **Control of your Personal Information:**  
-When you register with our website, Mouser **will not** share your personal information with any third party.
+When you register with our website, Mouser **will not** share your personal information with any third party except as noted above.
 
-**Security of your Personal Information:**  
-We strictly protect the security of your personal information and carefully protect your data from loss, misuse, disclosure, alteration, destruction or unauthorized access.
+**Data Security:**  
+We aim to protect your personal data. Mouser uses a variety of security technologies to protect your personal data, including secure servers, firewalls and encryption of credit card information.
+
+**Changes to this Privacy Policy:**  
+We reserve the right to make changes to this privacy policy without notice.
 
 If you have any questions or comments concerning our privacy statement contact us at [webmaster@mouser.com](mailto:webmaster@mouser.com?subject=Privacy%20Policy).
 
-**Revised June 29th, 2005**
+**Revised January 12, 2010**
