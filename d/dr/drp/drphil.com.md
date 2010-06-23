@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221005004id_/http%3A//www.drphil.com/members/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623021419id_/http%3A//drphil.com/members/privacypolicy) for the most accurate reproduction.*
 
 # Dr. Phil.com - Privacy Policy
 
