@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluebeam.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222033602id_/http%3A//www.bluebeam.com/web07/us/company/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebeam.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004730id_/http%3A//www.bluebeam.com/web07/us/company/privacypolicy.asp) for the most accurate reproduction.*
 
 # Bluebeam Software, Inc. - PDF Solutions for PDF Editing, PDF Markup, PDF Conversion and More
 
