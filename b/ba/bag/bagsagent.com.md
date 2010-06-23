@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bagsagent.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121163338id_/http%3A//www.bagsagent.com/page.html%3Fid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagsagent.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004646id_/http%3A//www.bagsagent.com/page.html%3Fid%3D11) for the most accurate reproduction.*
 
-# Privacy Policy : Designer Handbags,Coach Handbags,Chanel Handbags,Louis Vuitton Handbags, Free Shipping,BagsAgent.com
+# Privacy Policy : Designer Handbags,Replica Handbags, Coach Handbags,Chanel Handbags,Louis Vuitton Handbags, Fast Shipping,BagsAgent.com
 
 ## Privacy Policy
 
@@ -25,7 +25,7 @@ We use cookies to:
 
 ### Email Addresses
 
-When a visitor gives us their email address, or sends us email correspondence, we retain their email address. We do not share our email lists with third parties for marketing purposes. We use email addresses to communicate with you regarding your orders and other matters regarding transactions between us or your customer relationship with us. We may also use your email address to share information about Tiffany & Co. products and services that may be of interest to you. You may opt-out of receiving such promotional messages from us at any time. If we do send you a promotional email, you will be given the opportunity to decline receiving similar emails in the future. If you wish to decline receiving such emails in the future, [click here](http://www.bagsagent.com/index.php?main_page=login).
+When a visitor gives us their email address, or sends us email correspondence, we retain their email address. We do not share our email lists with third parties for marketing purposes. We use email addresses to communicate with you regarding your orders and other matters regarding transactions between us or your customer relationship with us. We may also use your email address to share information about Bagsagent products and services that may be of interest to you. You may opt-out of receiving such promotional messages from us at any time. If we do send you a promotional email, you will be given the opportunity to decline receiving similar emails in the future. If you wish to decline receiving such emails in the future, [click here](http://www.bagsagent.com/index.php?main_page=login).
 
 ### Visitor-Keyed Information
 
@@ -37,11 +37,7 @@ On request with verification, we will give the visitor a reminder with unique id
 
 ### Mailing Addresses
 
-If you request a catalogue to be mailed to your postal address, you will be placed on our mailing list and you will receive periodic mailings from us. If you purchase through our catalogue, you may also receive mailings from other carefully screened companies to whom we may make such mailing lists available. (These lists do not include Tiffany & Co. charge card account holders). If you prefer, you can have your name put on our do-not-share list by writing to us at our address above. Please include your name and address as it appears on your mailing label. 
-
-### Telephone Numbers
-
-Visitors who give us their telephone numbers online will receive telephone contact from our representatives regarding orders or requests they have placed online. You may be contacted by one of our representatives conducting research with regard to your satisfaction with our service. Your participation is voluntary and you may opt-out at any time by telephoning us at 86-400-886-6598.
+If you request a catalogue to be mailed to your postal address, you will be placed on our mailing list and you will receive periodic mailings from us. If you purchase through our catalogue, you may also receive mailings from other carefully screened companies to whom we may make such mailing lists available. (These lists do not include Bagsagent charge card account holders). If you prefer, you can have your name put on our do-not-share list by writing to us at our address above. Please include your name and address as it appears on your mailing label. 
 
 ### Security
 
@@ -49,7 +45,7 @@ We use industry-standard encryption technologies when transferring and receiving
 
 ### Children's Online Privacy
 
-The Children's Online Privacy Protection Act took effect April 21, 2000, and pertains to websites directed toward children under 13 years of age. Tiffany.com does not collect information on any person under 13 years. We ask that children do not submit information to us without the consent of a parent or guardian.   
+The Children's Online Privacy Protection Act took effect April 21, 2000, and pertains to websites directed toward children under 13 years of age. Bagsagent.com does not collect information on any person under 13 years. We ask that children do not submit information to us without the consent of a parent or guardian.   
 
 
 ### Disclosure
