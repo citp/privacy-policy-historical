@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsivehealth.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045909id_/http%3A//www.responsivehealth.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsivehealth.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623123029id_/http%3A//www.responsivehealth.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Responsive Health - Privacy
 
@@ -52,9 +52,9 @@ When required by law wherein we have a good-faith belief that such action is nec
 
 If you have an account, we may share the information submitted under your account among all of our services and websites we own in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this privacy policy or with your consent. 
 
-We may store and process personal information collected on our site in the United States or Canada or any other country in which We or our agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country. 
+We may store and process personal information collected on our site in the United States or Canada or any other country in which we or our agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country. 
 
-We may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use information about your visits to our website so that we can provide a better experience to you. 
+We may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use non-personally identifiable information about your visits to our website and other websites so that we can provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, visit [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp "Opt-out"). 
 
 Additional Notices and Disclosures
 
