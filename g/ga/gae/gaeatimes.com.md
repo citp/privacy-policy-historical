@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaeatimes.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206135334id_/http%3A//blog.taragana.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaeatimes.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623021126id_/http%3A//blog.taragana.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
