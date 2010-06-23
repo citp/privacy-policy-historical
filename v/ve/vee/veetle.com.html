@@ -1,18 +1,172 @@
-<!--The following is the downloaded HTML source of the veetle.com privacy policy that was archived on 2009-08-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090803091624id_/http%3A//www.veetle.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veetle.com privacy policy that was archived on 2010-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623115627id_/http%3A//www.veetle.com/index.php/about/privacy) for the most accurate reproduction.-->
 
-<html><head></head><body><h1>Privacy Policy</h1>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta name="description" content="Watch live TV on the Internet. Start your own TV station.">
+<meta name="keywords" content="tv, broadcast, live, stream, video, webcam, sports">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <link type="image/x-icon" href="/interface/favicon.ico" rel="icon">
+    <title>
+        Veetle
+    </title>
+<link type="text/css" rel="stylesheet" href="http://veetle.com/style/min_c8f9487cc3a867f6d83055b7caf7507b_minified_v20100617T214231.css">
+    <!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="http://veetle.com/style/min_72bc42295325d8c25fcf1f39b21749e0_minified_v20100401T013340.css"/>
+	<![endif]-->
+	<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="http://veetle.com/style/min_36a607c7ee8a5d94d1ee8fc427e8c942_minified_v20100429T230548.css"/>
+	<![endif]-->
+	<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://veetle.com/style/min_f1350e52ee5984ad26e6a8602732a276_minified_v20100515T040548.css"/>
+	<![endif]-->
+<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
+<body>
+    <div id="veil" style="display: none"></div>
+    <input type="hidden" id="machine" value="veetle">
+    <input type="hidden" id="baseUrl" value="http://www.veetle.com/">
+    <div id="header" class="spriteGradient gradientHeader">
+        <div class="container">
+            <a id="logo" href="http://www.veetle.com/index.php" title="home">
+                <img src="http://www.veetle.com/images/spacer.gif" alt="veetle logo" class="spriteCommon">
+            </a>
+            <ul id="navigation">
+                <li>
+                    <a href="http://www.veetle.com/index.php">home</a>
+                </li>
+                <li>
+                    <a href="http://www.veetle.com/index.php/listing">channels</a>                </li>
+                <li>
+                    <a href="http://www.veetle.com/index.php/broadcast">broadcast</a>                </li>
+                <li>
+                    <a href="http://forums.veetle.com/forums/">forums</a>
+                </li>
+            </ul>
+            <ul id="account">
+                <li class="quickPanel">
+                    <a id="familyFilterTab" title="family filter" class="accountButton" href="javascript:void(0)" onclick="VEETLE.account.familyFilterToggle(); return false;">
+                        <img src="http://www.veetle.com/images/spacer.gif" class="spriteCommon familyFilterOn">
+                        <img src="http://www.veetle.com/images/spacer.gif" class="spriteCommon arrowDownLight">
+                    </a>
+<form id="familyFilter" class="hiddenMenu hiddenMenuRightAdjust" style="display: none">
+    <p>
+        By turning off the family filter, I certify that I am over 18 years old.
+    </p>
+    <div>
+        <input id="familyFilterOn" type="radio" checked="checked" name="familyFilter" onclick="VEETLE.account.familyFilterChange(true)">
+        <label for="familyFilterOn">Family filter: <strong>ON</strong></label>
+    </div>
+    <div>
+        <input id="familyFilterOff" type="radio" name="familyFilter" onclick="VEETLE.account.familyFilterChange(false)">
+        <label for="familyFilterOff">Family filter: <strong>OFF</strong></label>
+    </div>
+</form>                    
+                </li>
+                <li class="quickPanel">
+                    <a id="feedbackTab" class="accountButton" href="javascript:void(0)" onclick="VEETLE.Utilities.feedbackToggle(); return false;">
+                        write to us
+                        <img src="http://www.veetle.com/images/spacer.gif" class="spriteCommon arrowDownLight">
+                    </a>
+<form id="feedback" action="javascript:VEETLE.Utilities.submitFeedback()" class="hiddenMenu hiddenMenuRightAdjust form" style="display: none">
+    <div>
+        <label>name</label>
+        <input type="text" id="feedbackName" name="feedbackName" size="40">
+    </div>
+    <div>
+        <label>email</label>
+        <input type="text" id="feedbackEmail" name="feedbackEmail" size="40">
+    </div>
+    <div>
+        <label>comment</label>
+        <textarea id="feedbackComment" name="feedbackComment" cols="38" rows="5"></textarea>
+    </div>
+    <div>
+        <input id="feedbackSendButton" type="submit" value="send">
+    </div>
+    <p id="feedbackConfirmation"></p>
+</form>                </li>
+                <li id="accountLogout" style="display: none">
+                    <a href="javascript:void(0)" class="accountButton" onclick="VEETLE.account.logout(); return false;">
+                        logout
+                    </a>
+                </li>
+                <li id="accountLogin" class="quickPanel" style="">
+                    <a id="loginTab" class="accountButton" href="javascript:VEETLE.account.loginBoxToggle()">login
+                        <img src="http://www.veetle.com/images/spacer.gif" class="spriteCommon arrowDownLight"></a>
+<form id="login" class="hiddenMenu hiddenMenuLeftAdjust form" action="javascript:VEETLE.account.login()" style="display: none">
+    <div>
+        <label>username</label>
+        <input type="text" name="loginUsername" id="loginUsername" size="30">
+    </div>
+    <div>
+        <label>password</label>
+        <input type="password" name="loginPassword" id="loginPassword" size="30">
+    </div>
+    <div>
+        <input type="checkbox" id="loginRemember" checked="checked">
+        remember me
+    </div>
+    <div>
+        <input id="loginSubmit" type="submit" value="login">
+    </div>
+    <p id="loginConfirmation"></p>
+    <a href="http://www.veetle.com/index.php/account/forgot">Forgot your username or password?</a></form>
+                </li>
+                <li id="accountRegister" style="">
+                    <a href="http://www.veetle.com/index.php/account/register" class="accountButton">register</a>                </li>
+                <li id="accountUsername" style="display: none">
+                    <a id="username" class="accountButton" href="http://www.veetle.com/index.php/account/edit">
+        account                    </a>
+                </li>
+            </ul>
+        </div> <!-- end container -->
+    </div> <!-- end header -->
+    <div class="container" id="container"><div id="article">
+<h1>Privacy Policy</h1>
+<h2></h2>
 <p>Nothing is more important to Veetle than protecting the private information of visitors to our site. Below you'll find information about our commitment to ensuring the privacy of your and your children's personally identifiable information (such as your full name, address, email address, telephone number and/or other identifying information) and preserving the integrity of the medium.</p>
+
 <p>Please read the following carefully. If you have any questions or concerns, please contact us at Veetle, Inc, 261 Hamilton Ave, Palo Alto, CA 94301.</p>
-<br>
+
 <h2>Gathering and Use of Information</h2>
+
 <p>Veetle will never willfully disclose any personally identifiable information about our online audience to any third party without first receiving the user's permission. We do not collect personally identifiable information from our visitors other than what is supplied to us on a voluntary basis.</p>
+
 <p>Visitors to the Veetle Web Site may voluntarily supply certain personally identifiable information in connection with (i) subscription registration for sites or services which require subscription (such as email newsletters), (ii) requests for membership information and (iii) e-commerce transactions. In addition, personally identifiable information is voluntarily provided in connection with certain content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, or voting.</p>
+
 <p>Veetle may use such information only for conducting the activities stated above. For more information regarding Veetle's policies on the handling and use of Veetle's membership list, please see Veetle's Membership List Policy. The extent of such use is always explained at the time a site visitor provides such information. If the visitor does not want this information collected and used by us for the disclosed internal purposes, the visitor is given an opportunity to 'opt-out.' Our visitors need to recognize, however, that under certain circumstances, if they select to 'opt-out' they may not be eligible for certain activities for which the personally identifiable information is needed. (For example, if a forum or bulletin board participant elects to 'opt-out' on permitting us to collect and use their personal information, they cannot use the forums or bulletin boards.)</p>
-<br>
+
 <h2>Acceptance of these Veetle Web Site Privacy Policy Terms and Conditions</h2>
+
 <p>By using this site, you signify your agreement to the terms and conditions of this Veetle Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the Veetle Web Site following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please contact us at Veetle, Inc, 261 Hamilton Ave, Palo Alto, CA 94301.</p>
+</div>
+        <br class="clear">
+        <div id="footer">
+            <blockquote>
+                Veetle © 2006-2010. All Rights Reserved. <a href="http://www.veetle.com/index.php/about/terms">Terms of use</a>, <a href="http://www.veetle.com/index.php/about/privacy">privacy policy</a>, &amp; <a href="http://www.veetle.com/index.php/about/copyright">copyright policiy</a>.
+            </blockquote>
+            <ul>
+                <li><a href="http://www.veetle.com/index.php/about">about</a></li>
+                <li><a href="http://www.veetle.com/index.php/partner">partners</a></li>
+                <li><a href="http://www.veetle.com/index.php/about/contact">contact</a></li>
+                <li><a href="http://www.veetle.com/index.php/article">help</a></li>
+                <li><a href="http://www.veetle.com/index.php/download">download</a></li>
+            </ul>   
+        </div> <!-- end footer -->
+    </div> <!-- end container -->
+<script type="text/javascript" src="http://www.veetle.com/scripts/min_145d8e4c98fbbd7fc8d4f7b99ec5d9eb_minified_v20100617T214239.js"></script>
+        <!-- asynchronous loading of Google Analytics -->
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-11403043-1']);
+          _gaq.push(['_trackPageview']);
 
-
+          (function() {
+            var ga = document.createElement('script');
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+                'http://www') + '.google-analytics.com/ga.js';
+            ga.setAttribute('async', 'true');
+            document.documentElement.firstChild.appendChild(ga);
+          })();
+        </script>
+    
 </body></html>
