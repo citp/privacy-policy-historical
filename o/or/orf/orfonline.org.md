@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the orfonline.org privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122213232id_/http%3A//www.orfonline.org/cms/sites/orfonline/html/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orfonline.org privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020555id_/http%3A//orfonline.org/cms/sites/orfonline/html/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |  |   
----|---  
-|  | 
-
-****
+|  |   |  ****
 
 > > > >                       Observer Research Foundation  
 >  20,Rouse Avenue Institutional Area, New Delhi - 110002  
@@ -58,11 +54,4 @@ Regardless of the precautions taken by us we cannot ensure or warrant the securi
 
 > This Policy is governed by the laws of New Delhi, India, without regard to its conflict of laws principles. Jurisdiction for any claims arising under or out of this Policy shall lie exclusively with the state courts in New Delhi, India. If any provision of this Policy is found to be invalid by a court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Policy, which shall remain in full force and effect. UNDER NO CIRCUMSTANCES SHALL ORF HAVE ANY LIABILITY WHATSOEVER FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT OR SPECIAL DAMAGES ARISING OUT OF THE BREACH OF THIS POLICY, HOWEVER OCCASIONED. 
 
-|   
----|---  
-|   
----  
-|   
----  
-  
-© 2007 Observer Research Foundation. All Rights Reserved. 
+|   |  |  
