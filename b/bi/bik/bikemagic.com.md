@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bikemagic.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219224544id_/http%3A//www.bikemagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikemagic.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624014533id_/http%3A//www.bikemagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # BIKEmagic - Privacy Policy
+
+You are looking at: [Home](https://web.archive.org/default.asp?sp=&v=1) : [](https://web.archive.org/members/mydetails.asp?sp=&v=1)Privacy Policy
 
 |   
 ---  
