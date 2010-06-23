@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1keydata.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221072545id_/http%3A//www.1keydata.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1keydata.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623064827id_/http%3A//www.1keydata.com/privacy.php) for the most accurate reproduction.*
 
 # 1Keydata Privacy Policy
 
@@ -25,5 +25,5 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 * * *
 
-Copyright 1999-2009 1keydata.com.   All Rights Reserved.     [Privacy Policy](http://www.1keydata.com/privacy.php)  
+Copyright 2010 1keydata.com.   All Rights Reserved.     [Privacy Policy](http://www.1keydata.com/privacy.php)  
 
