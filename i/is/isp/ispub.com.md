@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispub.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221023602id_/http%3A//www.ispub.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispub.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624015122id_/http%3A//www.ispub.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ISPUB - Privacy Policy
 
