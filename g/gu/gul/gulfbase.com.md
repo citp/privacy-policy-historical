@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220014528id_/http%3A//www.gulfbase.com/site/Interface/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfbase.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623074229id_/http%3A//www.gulfbase.com/site/Interface/Privacy.aspx) for the most accurate reproduction.*
 
 # GulfBase.com - Privacy
 
@@ -12,11 +12,11 @@ GulfBase.com is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independe
 
 If you have any questions or concerns regarding this statement, you should first contact us at [feedback@gulfbase.com](mailto:feedback@gulfbase.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at: 
 
-http://www.truste.org/consumers/watchdog_complaint.php 
+http://watchdog.truste.com/pvr.php?page= complaint&url= 
 
 TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
-| [](http://www.truste.org/ivalidate.php?url=www.gulfbase.com&sealid=101)  
+| [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.gulfbase.com&sealid=101)  
 ---|---  
   
 **Cookies**   
@@ -31,6 +31,9 @@ In order to make GulfBase.com a more valuable service for our subscribers and vi
 
 **Advertisers**   
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. This privacy policy only governs the use of cookies by www.gulfbase.com 
+
+**Clear Gifs (Web Beacons/Web Bugs)**   
+Our third party advertising partners may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
 **Registration Forms**   
 Our site's registration form requires users to give us contact information (like their name, company name, email and postal address), and unique identifiers (like their user name). We also collect financial information at this point such as your credit card number, when you sign up for “Premium Membership” to service your request and complete your subscription request. 
