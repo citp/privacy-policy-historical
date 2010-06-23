@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goamp.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524081307id_/http%3A//www.goamp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goamp.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623021319id_/http%3A//www.goamp.com/privacy.aspx) for the most accurate reproduction.*
 
 # AMP Privacy Statement
 
@@ -14,7 +14,7 @@ This Applied Measurement Professional's, Inc. (AMP) privacy statement discloses 
 
 
 
-If you have any comment or question on our privacy policy, you should first contact the [AMP Chief Information Officer.](https://web.archive.org/web/20090524081307id_/http%3A//www.goamp.com/emailSubmission.aspx?ToEmail=cio)
+If you have any comment or question on our privacy policy, you should first contact the [AMP Chief Information Officer.](https://web.archive.org/web/20100623021319id_/http%3A//www.goamp.com/emailSubmission.aspx?ToEmail=cio)
 
 ## Information Collection and Use
 
