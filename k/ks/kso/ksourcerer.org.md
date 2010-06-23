@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksourcerer.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223031436id_/http%3A//www.ksourcerer.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksourcerer.org privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623034033id_/http%3A//www.ksourcerer.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free Software Downloads
 
@@ -9,6 +9,8 @@
 **Information Collection and Use**
 
 Free Software Downloads respects the privacy of visitors to any Website owned and operated by the network. When a visitor requests pages from Free Software Downloads site, our Web servers automatically recognize the browser's domain name, and IP address. We collect the domain names and IP addresses in order to aggregate information on the pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Cookies**
 
