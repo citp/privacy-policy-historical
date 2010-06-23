@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the brand-yourself.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612101744id_/http%3A//www.brand-yourself.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brand-yourself.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623110603id_/http%3A//brand-yourself.com/privacy) for the most accurate reproduction.*
 
-# Brand-Yourself.com - Privacy - Personal Professional Students Websites
-
-### 
-
-#### Erin McNulty
-
-I can show employers exactly what makes me unique - and simplify their jobs by painting a complete picture of myself.
-
-[](http://blog.brand-yourself.com/ "Personal Branding Blog")
+# Privacy Policy | Brand-Yourself.com - Personal Branding & Online Reputation Management
 
 **Brand-Yourself.com Privacy Principles**
 
