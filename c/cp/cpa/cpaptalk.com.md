@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaptalk.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141554id_/http%3A//cpaptalk.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaptalk.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623085307id_/http%3A//www.cpaptalk.com/privacy-policy.php) for the most accurate reproduction.*
 
 # www.cpaptalk.com • CPAPtalk.com Privacy Policy
 
@@ -113,7 +113,7 @@ Protecting and securing your information is of the highest priority to us. We co
 
 ## Personal Health Information
 
-We are legally required to protect the privacy of your 'Personal Health Information', or 'PHI' for short. Additionally incorporated into this Privacy Policy is more information described in the [PHI Privacy Policy](https://web.archive.org/web/20090618141554id_/http%3A//cpaptalk.com/phi-privacy.php).
+We are legally required to protect the privacy of your 'Personal Health Information', or 'PHI' for short. Additionally incorporated into this Privacy Policy is more information described in the [PHI Privacy Policy](https://web.archive.org/web/20100623085307id_/http%3A//www.cpaptalk.com/phi-privacy.php).
 
   
 
