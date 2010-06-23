@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the retrojunk.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520061020id_/http%3A//www.retrojunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrojunk.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623054925id_/http%3A//www.retrojunk.com/privacy.php) for the most accurate reproduction.*
 
 # RetroJunk.Com Privacy Policy
 
 Retro Junk respects the privacy concerns of the of the people who grace it with their presence. As a general policy, no personal information is automatically collected from users of our site. However, certain non-personal information is recorded by the standard operation of the internet servers. Information, such as the type of browser being used, screen resolution and other general information is gathered in order to customize your online experience. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
 
 Personally-identifiable information that may be collected in connection with your voluntarily filling out forms, such as subscribing to our newsletter, or participating in other promotions is retained by Retro Junk and is not sold or otherwise transferred outside the company without your prior consent. We hate spam just as much as you do...maybe even more but we can discuss that later.
