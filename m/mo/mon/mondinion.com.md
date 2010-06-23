@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mondinion.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519024837id_/http%3A//www.mondinion.com/International_Property/def/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondinion.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623064723id_/http%3A//www.mondinion.com/International_Property/def/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mondinion.com - Free International Real Estate Listings & International Property Ads, Overseas Real Estate
 
@@ -18,7 +18,7 @@ Collection. Information posted on Mondinion.com except your E-Mail Address is pu
 
 Mondinion.com does store some information in "cookies" on your computer. It does not store any personally identifible information. If you use a section of our website that requires a login, your login information may be stored in a cookie for the duration of your browser session.
 
-Use. We use users' personal information to:
+Use. We use users personal information to:
 
 * provide our services  
 * resolve disputes and troubleshoot problems  
