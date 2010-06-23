@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mouser.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230130505id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mouser.com privacy policy that was archived on 2010-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623020442id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_header"><title>
 	Mouser Electronics - Electronic Component Distributor
@@ -9,7 +9,7 @@ electronic parts, components, distributor, connectors, semiconductors, integrate
     <!-- BASE STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="../css/base.css">
     <!-- Global STYLE SHEET -->
-    <link id="ctl00_ccsGlobal" rel="stylesheet" type="text/css" href="../css/base-en-US.css"><link rel="shortcut icon" href="../favicon.ico"><link rel="alternate" type="application/rss+xml" title="RSS" href="../rss/rss.xml"><link href="../JavaScript/thickbox.css" rel="stylesheet" type="text/css">
+    <link id="ctl00_ccsGlobal" rel="stylesheet" type="text/css" href="../css/base-en-US.css"><link rel="shortcut icon" href="../favicon.ico"><link rel="alternate" type="application/rss+xml" title="RSS" href="../rss/rss.xml"><link href="../JavaScript/thickbox.css" rel="stylesheet" type="text/css"><link href="../css/feedback.css" rel="stylesheet" type="text/css">
     
 
     <script type="text/javascript">
@@ -26,9 +26,10 @@ electronic parts, components, distributor, connectors, semiconductors, integrate
 	    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'	type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
     <script src="../Javascript/jquery-1.3.2.min.js" type="text/javascript"></script>
+     
     <script src="../Javascript/jquery.url.js" type="text/javascript"></script>
+    <script src="../Javascript/jquery.tooltip.pack.js" type="text/javascript"></script>
     <script src="../Javascript/track.js" type="text/javascript"></script>
-    
     <script src="../JavaScript/thickbox_1.js" type="text/javascript"></script>
     <script src="../Javascript/default.js" type="text/javascript"></script>
     <script src="../Javascript/jquery.pngFix.pack.js" type="text/javascript"></script>
@@ -55,6 +56,12 @@ function ChangeCurrencyToUSD() {
 function ChangeCurrencyToUSD2() {
   ChangeCurrency('www', 'USDu');ChangeSubdomain('www')
 }
+function ChangeLanguageImpl(val) {
+  var date = new Date();
+  date.setDate(date.getDate() + 365);
+  document.cookie = "preferredLanguage=" + val + ";expires=" + date.toGMTString() + ";domain=.mouser.com;path=/;";
+  location.reload();
+}
 //]]>
 </script>
 
@@ -64,7 +71,7 @@ function ChangeCurrencyToUSD2() {
 
 <script type="text/javascript">
     function OpenCurrencyPopup() {
-        $(".thickbox").trigger('click');
+        $("#tblink").trigger('click');
     }
     function CloseCurrencyPopup() {
         var ddlCurrency = document.getElementById('ctl00_NavHeader_ddlCurrencies');
@@ -72,7 +79,7 @@ function ChangeCurrencyToUSD2() {
         if (ddlCurrency != null && hidCurrencyValue != null) {
             ddlCurrency.selectedIndex = hidCurrencyValue.value;
         }
-        tb_remove();
+        window.location.reload();
     }
 </script>
 
@@ -86,7 +93,7 @@ function ChangeCurrencyToUSD2() {
         <a href="http://www.mouser.com:80/contact/" id="ctl00_NavHeader_A2" class="smallgrey" title="Contact Us">
             <img id="ctl00_NavHeader_imgContact" src="../images/icon-contact.gif" alt="Contact Us" border="0">
             &nbsp;<span id="ctl00_NavHeader_lblContactUs">Contact Us</span></a>&nbsp;&nbsp;
-        <a href="http://www.mouser.com:80/feedback.aspx" id="ctl00_NavHeader_A5" class="smallgrey" title="Feedback">
+        <a href="http://www.mouser.com:80/feedback.aspx" id="ctl00_NavHeader_feedback" class="smallgrey link-feedback" title="Feedback">
             <img id="ctl00_NavHeader_imgFeedback" src="../images/icon-feedback.gif" alt="Feedback" border="0">&nbsp;
             <span id="ctl00_NavHeader_lblFeedback">Feedback</span></a>&nbsp;&nbsp;
         <a href="http://www.mouser.com:80/Cart/Cart.aspx" id="ctl00_NavHeader_A3" class="smallgrey cart" title="View Cart">
@@ -206,7 +213,7 @@ function ChangeCurrencyToUSD2() {
     <h3><a id="ctl00_LeftNavMain1_linkWhatsNew" href="../newest/"><strong>What's New</strong></a></h3>
     <ul>
          <li><a id="ctl00_LeftNavMain1_linkNewestProducts" href="../newest/">NEWEST Products</a></li>
-         <li><span class="highlight">(Updated 12/28/2009)</span></li>
+         <li><span class="highlight">(Updated 6/21/2010)</span></li>
          <li><a id="ctl00_LeftNavMain1_linkNewProducts" href="../new/">New Products</a></li>
          <li><a id="ctl00_LeftNavMain1_linkNewSuppliers" href="../newsuppliers/">New Suppliers</a></li>
          <li><a id="ctl00_LeftNavMain1_linkNewTech" href="../newtechnology/">New Technologies</a></li>
@@ -242,18 +249,21 @@ function ChangeCurrencyToUSD2() {
     <h6>Follow Mouser:</h6>
     <ul>
         <li>
-            <a id="ctl00_LeftNavMain1_linkFacebook" href="http://www.facebook.com/pages/Mansfield-TX/Mouser-Electronics/73169326515" target="_blank" style="background: none;"><img id="ctl00_LeftNavMain1_imgFacebookIcon" src="../images/facebook-icon-sm.gif" border="0">&nbsp;
+            <a id="ctl00_LeftNavMain1_linkFacebook" href="http://www.facebook.com/mouserelectronics" target="_blank" style="background: none;"><img id="ctl00_LeftNavMain1_imgFacebookIcon" src="../images/facebook-icon-sm.gif" border="0">&nbsp;
                 facebook</a></li>
         <li>
             <a id="ctl00_LeftNavMain1_linkTwitter" href="http://www.twitter.com/mouserelec" target="_blank"><img id="ctl00_LeftNavMain1_imgTwitterIcon" src="../images/twitter-icon-sm.jpg" border="0">&nbsp;
-                twitter</a></li>
+                Twitter</a></li>
+          <li>
+            <a id="ctl00_LeftNavMain1_linkRSS" href="http://feeds2.feedburner.com/MouserElectronics" target="_blank"><img id="ctl00_LeftNavMain1_imgRSS" src="../images/rss-icon-sm.png" border="0">&nbsp;
+                RSS</a></li>
     </ul>
 </div>
 <div class="navMenu" style="background:none;">
          <div style="text-align:center">
             
             <img id="ctl00_LeftNavMain1_imgneda" src="../images/logoneda.gif" border="0">
-            <em><a id="ctl00_LeftNavMain1_linkISO" href="../quality/">ISO9001:2000&nbsp;Certified</a></em>
+            <em><a id="ctl00_LeftNavMain1_linkISO" href="../quality/">ISO9001:2008&nbsp;Certified</a></em>
             <br><br>
             <a id="ctl00_LeftNavMain1_linkhackersafe" href="https://www.scanalert.com/RatingVerify?ref=www.mouser.com" target="_blank"><img id="ctl00_LeftNavMain1_imghackersafe" oncontextmenu="javascript:alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" src="//images.scanalert.com/meter/www.mouser.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." height="37" width="65" border="0"></a>
          </div> 
@@ -270,8 +280,8 @@ function ChangeCurrencyToUSD2() {
 </div>
 
 
-<h2>Mouser Electronics Statement of Internet Privacy</h2>
-		<table cellpadding="0" cellspacing="0" border="0" align="left">
+<h2>Mouser Electronics Statement of  Privacy</h2>
+<table cellpadding="0" cellspacing="0" border="0" align="left">
 		<tbody><tr><td>
 		
 
@@ -281,6 +291,13 @@ function ChangeCurrencyToUSD2() {
         
 		<p><strong>Collecting your Personal Information:</strong><br>		
 		We will ask you when we need information that personally identifies you or allows us to contact you.  Usually this information is requested when you order email newsletters, catalogs or when you purchase our products.  We continually monitor our website for errors and if one occurs, information about your web browser may be collected to assist us in correcting the problem.</p>
+        
+        <p><b>Cookies:</b><br>
+In order to make certain parts of mouser.com function correctly, cookies are utilized. Cookies are 
+used to link you to your shopping cart and to session information while logged in. Although you 
+can still browse and search for products, you must have cookies enabled in order to add items to 
+your shopping cart or to create/log into a My Mouser account.</p>
+
         
         <p><strong>Use of your Personal Information:</strong><br>
 		We may use your personal information for several purposes such as:<br>
@@ -309,13 +326,17 @@ function ChangeCurrencyToUSD2() {
 		</ol><p></p>
 
 		<p><strong>Control of your Personal Information:</strong><br>
-        When you register with our website, Mouser <strong>will not</strong> share your personal information with any third party.</p>
+        When you register with our website, Mouser <strong>will not</strong> share your personal information with any third party except as noted above.</p>
         
-        <p><strong>Security of your Personal Information:</strong><br>
-        We strictly protect the security of your personal information and carefully protect your data from loss, misuse, disclosure, alteration, destruction or unauthorized access.</p>
+        <p><b>Data Security:</b><br>
+		We aim to protect your personal data.  Mouser uses a variety of security technologies to protect your personal data, including secure servers, firewalls and encryption of credit card information.</p>
+
+		<p><b>Changes to this Privacy Policy:</b><br>
+		We reserve the right to make changes to this privacy policy without notice.</p>
+
         
         <p>If you have any questions or comments concerning our privacy statement contact us at <a href="mailto:webmaster@mouser.com?subject=Privacy Policy">webmaster@mouser.com</a>.</p>
-		<div align="right"><p><strong>Revised June 29th, 2005</strong></p></div>
+		<div align="right"><p><strong>Revised January 12, 2010</strong></p></div>
 
 	</div>
 	</td></tr></tbody></table>
@@ -342,11 +363,11 @@ function ChangeCurrencyToUSD2() {
 									<div class="padding5">
 										
     <div id="ftImg">
-        <a id="ctl00_Footer1_AdRotator" target="_top"><img src="/images/ft-sp-05.gif" alt="" border="0"></a>
+        <a id="ctl00_Footer1_AdRotator" target="_top"><img src="/images/rep-footer-singapore.gif" alt="" border="0"></a>
     </div>
     <h5 style="padding: 5px 0 5px 5px;">
-        <span id="ctl00_Footer1_lblYearFirstPart">Copyright ® 1996 -</span>
-        <span id="ctl00_Footer1_lblYear">2009</span>
+        <span id="ctl00_Footer1_lblYearFirstPart">Copyright © 1996 -</span>
+        <span id="ctl00_Footer1_lblYear">2010</span>
         <span id="ctl00_Footer1_labelLastPart">Mouser Electronics, Inc.</span>
     </h5>
     <p>
@@ -361,16 +382,20 @@ function ChangeCurrencyToUSD2() {
         &nbsp;&nbsp;|&nbsp;&nbsp;
         <a id="ctl00_Footer1_HyperLink1" href="../browsersupport/">Browser Support</a>
         <br>
-        Site Map by: 
+        Quick Reference: 
         <a id="ctl00_Footer1_linkCategory" href="../parts/">Product Category</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
+        <a id="ctl00_Footer1_linkProductsFeatured" href="../Products_Featured_Index/">Products Featured</a>&nbsp;&nbsp;|&nbsp;&nbsp;  
         <a id="ctl00_Footer1_linkManufacturer" href="../manufacturer/">Manufacturer</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
         <a id="ctl00_Footer1_linkPartNumber" href="../manufacturerpartnumber/">Part Number</a>
         
         
     </p>
+        
     <p>
         <span id="ctl00_Footer1_pTradeMark">Mouser® and Mouser Electronics® are registered trademarks of Mouser Electronics,        Inc.<br>        Other products, logos and company names mentioned herein, may be trademarks of their        respective owners.</span>
     </p>
+        
+    
     <div class="clear">
     </div>
 
@@ -384,7 +409,7 @@ function ChangeCurrencyToUSD2() {
 		</div>
 	</div>
 </div>
- <a href="#TB_inline?height=440&amp;width=400&amp;inlineId=divCurrencyPopup&amp;modal=true" class="thickbox">
+ <a href="#TB_inline?height=440&amp;width=400&amp;inlineId=divCurrencyPopup&amp;modal=true" id="tblink" class="thickbox">
     </a>
     <div id="divCurrencyPopup" class="currency-popup">
         <div class="currency-close">
@@ -419,11 +444,21 @@ function ChangeCurrencyToUSD2() {
 		            pageTracker._trackPageview();
 		        } catch(err) { }
             </script>
-        </form>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+  $("#ctl00_NavHeader_ddlLanguage").change(function() {
+    ChangeLanguageImpl($("option:selected", this).val());
+  });
+});
+//]]>
+</script>
+</form>
     <script src="../flash/AC_RunActiveContent.js" type="text/javascript"></script>
     <script src="../flash/peel/peel.js" type="text/javascript"></script>
      
- 
 
 
-</body></html>
+<div id="tooltip" style="display: none;"><h3></h3><div class="body"></div><div class="url"></div></div></body></html>
