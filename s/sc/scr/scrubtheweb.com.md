@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122011421id_/http%3A//www.scrubtheweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623064835id_/http%3A//www.scrubtheweb.com/privacy.html) for the most accurate reproduction.*
 
 # Scrub The Web Privacy Policy
 
@@ -6,7 +6,7 @@ In general, Scrub The Web does not collect, store, use or disclose personally id
 
 Scrub The Web provides fun, easy to use services, including Scrub The Web Search (located at www.scrubtheweb.com) and Scrub The Web Website SEO services (located at www.scrubtheweb/abs/) (the "Services"). The Services are made available by Scrub The Web and, its subsidiaries and affiliates. Scrub The Web values its users and their concerns about privacy. To this end, Scrub The Web engages in consistent information practices and uses its best efforts to make clear disclosures regarding those practices. This Privacy Policy is a part of that effort.
 
-Put your 120x60 image, HTML or text Ad [here](https://web.archive.org/cgi-bin/gobillboard.cgi?ad=120Ad "Click to Visit").
+Your 234x60 image, HTML or text message could be placed [here](https://web.archive.org/cgi-bin/gobillboard.cgi?ad=234Ad "Click to Visit"). Check our rates.
 
 ### What does this Privacy Policy cover?
 
