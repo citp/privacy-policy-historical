@@ -1,25 +1,23 @@
-> *The following text is extracted and transformed from the static-layouts.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019192015id_/http%3A//static-layouts.com/page.php%3Fid%3D72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the static-layouts.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623062249id_/http%3A//static-layouts.com/page.php%3Fid%3D72) for the most accurate reproduction.*
 
-# STATIC-LAYOUTS.COM - Myspace Layouts, Default Layouts, Skinny Layouts, Bulletin Surveys, Skinny Defaults, Music Skins, Page Graphics
+# STATIC-LAYOUTS.COM - Summer Layouts, Myspace Layouts, Default Layouts, Skinny Layouts, Bulletin Surveys, Skinny Defaults, Music Skins, Page Graphics
 
-| | Updates  
+| Updates  
 ---  
   
   
 Myspace Content  
 ---  
-[MySpace Layouts](http://www.static-layouts.com/page.php?id=4)  
+[ **MySpace Layouts**](http://www.static-layouts.com/page.php?id=4)  
 [All Page Graphics](http://www.static-layouts.com/page.php?id=53)  
 [All Photography Graphics](http://www.static-layouts.com/page.php?id=10)  
-[MySpace Codes](http://www.static-layouts.com/page.php?id=34)  
-[Comment Boxes](http://www.static-layouts.com/page.php?id=6)  
 [Surveys](http://www.static-layouts.com/page.php?id=85)  
 [Contact Buttons](http://www.static-layouts.com/page.php?id=12)  
 [Contact Tables](http://www.static-layouts.com/page.php?id=13)  
-[Music Skins](http://www.static-layouts.com/page.php?id=57)  
 [About Me Headers](http://www.static-layouts.com/page.php?id=11)  
 [Extended Networks](http://www.static-layouts.com/page.php?id=14)  
-[Icons](http://www.static-layouts.com/page.php?id=39)  
+[Find your FRIEND ID](http://www.static-layouts.com/page.php?id=37)  
+[Graphics](http://www.static-layouts.com/page.php?id=43)  
 [Twilight Stuff](http://www.static-layouts.com/page.php?id=81)  
   
   
@@ -36,7 +34,6 @@ Friends
 [Default Layouts](http://www.def-layouts.com/)  
 [Heartbreaker Layouts](http://www.hblyts.com/)  
 [Sunshine Layouts](http://www.sunshinee.com/)  
-  
   
   
 
@@ -78,11 +75,4 @@ Your use of our site, including any dispute concerning privacy, is subject to th
 Last Revised March 22nd, 2006 
 
   
-  
-  
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1274281&afsid=1) [](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1378523&afsid=1)
 
-2009 Static-Layouts.com. [Privacy Policy](http://static-layouts.com/page.php?id=72) All Rights Reserved. [ Online.](http://www.freeonlineusers.com/)   
-Static-Layouts.com is not affilated with myspace.com 
-
-[ ](http://extremetracking.com/open?login=flowdude)
