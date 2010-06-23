@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605004845id_/http%3A//www.pervasive.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624002553id_/http%3A//www.pervasivesoftware.com/company/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Pervasive Software - Privacy Policy
+# Privacy-Policy - Pervasive Software
 
-### Pervasive Software Respects your privacy
+## Pervasive Software Respects Your Privacy
 
 Pervasive Software and its subsidiaries respect your privacy and are committed to protecting it. Pervasive Software provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit Pervasive Software on the Web without identifying yourself or revealing any personal information. We make this notice readily available at the bottom of every Pervasive Software Web page.
 
-1\. Sites covered by this privacy statement  
-2\. Types of information we collect  
-3\. Children's privacy  
-4\. How we use your information  
-5\. Who we share your information with  
-6\. Your choices  
-7\. Access to and accuracy of your information  
-8\. Keeping your information secure  
-9\. Changes to this Statement  
-10.Contacting us
+[1\. Sites covered by this privacy statement](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#1)  
+[2\. Types of information we collect](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#2)  
+[3\. Children's privacy](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#3)  
+[4\. How we use your information](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#4)  
+[5\. Who we share your information with](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#5)  
+[6\. Your choices](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#6)  
+[7\. Access to and accuracy of your information](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#7)  
+[8\. Keeping your information secure](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#8)  
+[9\. Changes to this Statement](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#9)  
+[10.Contacting us](http://pdiauthoring.pervasive.com/company/Pages/privacy_policy.aspx#10)
 
 How Pervasive Software uses cookies and Web beacons on pervasive.com and in third-party ads:
 
   * **Cookies**  
 A "cookie" is a small data file transferred by a website to your computer’s hard drive. Pervasive Software sends cookies when you surf our site, make purchases, request or personalize information, or register yourself for certain services. Accepting the cookies used on our site does not give us access to your personal information, but we may use the cookies to identify your computer. Cookies are typically classified as either "session" cookies or "permanent" cookies. 
-    * **"Session" cookies** do not stay on your computer after you leave our website or close your browser. The aggregate information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide a better experience on our site by improving content or personalization and making our site easier to use.
-    * **"Permanent" cookies** are those that remain on your computer. They are used to facilitate shopping, personalization and registration services. For example, cookies can keep track of what you have selected to purchase as you continue to shop and allow you to enter your password only once on Web pages where a login is required. "Permanent" cookies can be manually removed by the user.
+    * **"Session" cookies** do not stay on your computer after you leave our website or close your browser. The aggregate information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide a better experience on our site by improving content or personalization and making our site easier to use. 
+    * **"Permanent" cookies** are those that remain on your computer. They are used to facilitate shopping, personalization and registration services. For example, cookies can keep track of what you have selected to purchase as you continue to shop and allow you to enter your password only once on Web pages where a login is required. "Permanent" cookies can be manually removed by the user. 
 Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites: 
     * Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>
     * Netscape Navigator: <http://www.netscape.com/legal_notices/cookies.html>
   * **Web beacons**  
-Some Pervasive.com Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies to compile aggregate statistics about website usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some Web beacons unusable by rejecting their associated cookies.
+Some Pervasive.com Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies to compile aggregate statistics about website usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some Web beacons unusable by rejecting their associated cookies. 
   * **Third-party media companies**  
-Pervasive Software does not post third-party ads on its website. Pervasive Software may use third-party media companies to place ads for Pervasive Software products or services on other companies’ websites. If you view a Web page where Pervasive Software ads appear, the online media company may place a cookie or Web beacon on your computer. This allows the online media company to recognize the computer when it is used to return to that site, or to measure advertising response. This data is anonymous and is not linked to personal data on the user’s computer or any Pervasive Software databases. Some Pervasive Software newsletters delivered on Pervasive Software’s behalf by online media companies use the same technologies. In both cases, this data is also used by the online media company to measure advertising and content interest and relevance. Pervasive Software does not have access to the data collected by the online media company. To prevent online media companies from placing cookies on your computer, you will need to visit each media company’s website and use their cookie removal process or set your browser cookie filter accordingly.
+Pervasive Software does not post third-party ads on its website. Pervasive Software may use third-party media companies to place ads for Pervasive Software products or services on other companies’ websites. If you view a Web page where Pervasive Software ads appear, the online media company may place a cookie or Web beacon on your computer. This allows the online media company to recognize the computer when it is used to return to that site, or to measure advertising response. This data is anonymous and is not linked to personal data on the user’s computer or any Pervasive Software databases. Some Pervasive Software newsletters delivered on Pervasive Software’s behalf by online media companies use the same technologies. In both cases, this data is also used by the online media company to measure advertising and content interest and relevance. Pervasive Software does not have access to the data collected by the online media company. To prevent online media companies from placing cookies on your computer, you will need to visit each media company’s website and use their cookie removal process or set your browser cookie filter accordingly. 
 
 
 
@@ -87,8 +87,8 @@ Pervasive Software will deliver a variety of information that complements our pr
 **Subscription services**  
 To opt-out of receiving communications use any of the following methods:
 
-  * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication
-  * Users who no longer wish to receive our newsletters and promotional communications may opt-out of receiving these communications by visiting our subscription management page at [www.pervasive.com/support/subscription.asp](http://www.pervasive.com/support/subscription.asp).
+  * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication 
+  * Users who no longer wish to receive our newsletters and promotional communications may opt-out of receiving these communications by visiting our subscription management page at [www.pervasive.com/support/subscription.asp](http://www.pervasive.com/support/subscription.asp). 
 
 
 
