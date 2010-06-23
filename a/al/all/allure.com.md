@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the allure.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910091744id_/http%3A//www.allure.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allure.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623135038id_/http%3A//www.allure.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: allure.com
+
+[](https://web.archive.org/ "Go to the Allure homepage")
+
+[](https://w1.buysub.com/loc/ALL/ATGFailsafe)
 
   1. Privacy Policy 
     * Last Revised January 7, 2009
@@ -16,7 +20,7 @@
     * II. HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU 
 
       * Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs. 
-      * Unless otherwise specified on the Website, Service Provider may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your personally identifying information shared, write to us at the street address set forth at the end of this document. If you do not wish to receive future commercial communications from us by e-mail, [click here](http://info.condenet.com/emailform/optOut/entry) for instructions to be removed from Service Provider's mailing lists. If you've registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such date accurate and up-to-date. Otherwise, contact our Privacy Policy Coordinator as described below with your changes. 
+      * Unless otherwise specified on the Website, Service Provider may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your personally identifying information shared, write to us at the street address set forth at the end of this document. If you do not wish to receive future commercial communications from us by e-mail, [click here](http://www.condenastdigital.com/emailform/optOut/entry) for instructions to be removed from Service Provider's mailing lists. If you've registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such date accurate and up-to-date. Otherwise, contact our Privacy Policy Coordinator as described below with your changes. 
       * We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on the Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. We may also provide access to our database in order to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal process. 
       * In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website.
       * While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. 
@@ -45,3 +49,7 @@ Wilmington, DE 19801
 [Privacy_administration@advancemags.com](mailto:Privacy_administration@advancemags.com)
 
 
+
+[](https://w1.buysub.com/loc/ALL/ATGFailsafe)
+
+[](http://www.allurerewards.com/ "Allure Rewards")
