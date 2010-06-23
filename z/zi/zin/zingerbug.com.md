@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228200330id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623195711id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
 
 # ZingerBug.com Privacy Policy
 
@@ -25,7 +25,7 @@ Popular Links Horizontal Menu
 
 Upcoming Holidays Horizontal Menu
 
-_**Upcoming Holidays**_    [ Hanukkah - 12/11-12/19](http://www.zingerbug.com/holidays/Hanukkah/index.htm)     [ Winter](http://www.zingerbug.com/holidays/winter/index.htm)     [ Christmas - 12/25](http://www.zingerbug.com/holidays/christmas/index.htm)     [ New Year's Day - 1/1](http://www.zingerbug.com/holidays/NewYear/index.htm)     [ Martin Luther King Jr. Day - 1/19](http://www.zingerbug.com/holidays/MLKDay/index.htm)  
+_**Upcoming Holidays**_     [Best Friends Day - 6/8](http://www.zingerbug.com/holidays/BestFriendsDay/index.htm)     [Flag Day - 6/14](http://www.zingerbug.com/holidays/FlagDay/index.htm)    [Juneteenth - 6/19](http://www.zingerbug.com/holidays/juneteenth/index.htm)     [Fathers Day - 6/21](http://www.zingerbug.com/holidays/FathersDay/index.htm)     [Summer](http://www.zingerbug.com/holidays/summer/index.htm)     [4th of July - 7/4](http://www.zingerbug.com/holidays/July4/index.htm)  
   
 Bookmark Us! (Ctrl+D)  Top Menu
 
