@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bose.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219222323id_/http%3A//www.bose.com/controller%3Furl%3D/customer_service/privacy/privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bose.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624010602id_/http%3A//www.bose.com/controller%3Furl%3D/customer_service/privacy/privacy_security.jsp) for the most accurate reproduction.*
 
 # Your Privacy Rights - Bose Customer Service
 
