@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcog.org.uk privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228010344id_/http%3A//www.rcog.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcog.org.uk privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623132819id_/http%3A//www.rcog.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Royal College of Obstetricians and Gynaecologists
 
@@ -6,7 +6,7 @@ The RCOG is committed to protecting your privacy.  The following statement tell
 
 ## How do we collect information?
 
-We ask you to register in order to access some sections of the website and carry out certain transactions through the site.  For non-members we ask for your name, email address and postal address.  For Fellows, Members, Associates, Affiliates and Trainees we require your name, email address, membership number and postal address.
+We ask you to register in order to access some sections of the website and carry out certain transactions through the site.  For non-members we ask for your name, email address and postal address.  For Fellows, Members and Trainees we require your name, email address, membership number and postal address.
 
 ## How do we use this information?
 
