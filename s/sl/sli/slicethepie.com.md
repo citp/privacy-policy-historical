@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slicethepie.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616150939id_/http%3A//www.slicethepie.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slicethepie.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624010505id_/http%3A//www.slicethepie.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Slicethepie - Privacy policy
 
