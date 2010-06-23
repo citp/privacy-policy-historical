@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macdevcenter.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140005id_/http%3A//oreilly.com/oreilly/privacy.csp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macdevcenter.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623201848id_/http%3A//oreilly.com/oreilly/privacy.csp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -11,7 +11,7 @@
 
 ### Purpose and Scope
 
-This policy discloses what information we gather about you when you visit any of our Web sites (all oreilly.com and O'Reilly Network sites) or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses:
+This policy discloses what information we gather about you when you visit any of our Web sites or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses:
 
 Information O'Reilly gathers and tracks  
 Personal information  
@@ -30,7 +30,7 @@ O'Reilly collects two kinds of information about users: 1) data that users volun
 
 We use the personal information you provide voluntarily to send information you've requested and to fulfill orders. The specific use of your personal information varies, depending on how you contact us:
 
-  * When you sign up online to receive O'Reilly Network newsletters, O'Reilly product and company news, and to participate in talkbacks on our sites you must provide your name, email address, and a password. We never sell or rent your email address or other personally identifiable information you provide us under these circumstances.
+  * When you sign up online to receive O'Reilly newsletters, product and company news, and to participate in talkbacks on our sites you must provide your name, email address, and a password. We never sell or rent your email address or other personally identifiable information you provide us under these circumstances.
   * When you register for an O'Reilly conference, or sign up for a conference email list, we will send you email announcements and updates about O'Reilly conferences. We send conference brochures to past conference attendees.
   * When you order books directly from us, or request book catalogs, we add you to our snailmail list, and we'll send you catalogs and other marketing pieces.
   * When you enter a contest or sweepstakes, we may ask for your name, address, and email address so we can administer the contest and communicate with entrants about the results.
@@ -40,7 +40,6 @@ We use the personal information you provide voluntarily to send information you'
 We share customer information only with affiliated companies (see <http://www.oreilly.com/affiliates.html>) and as described below:
 
   * With third parties we retain to perform functions on our behalf, such as fulfilling orders, processing credit card payments, managing mailing lists, and delivering packages. These parties are restricted from using your information for any other purpose.
-  * We rent our snailmail list for one-time use to third parties we deem relevant and appropriate. We do not rent or sell our email lists.
   * We release personal information when we believe that release is appropriate to comply with the law, or to protect the rights, property, or safety of O'Reilly Media, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 
@@ -49,9 +48,9 @@ We share customer information only with affiliated companies (see <http://www.or
 
 We analyze visitors' use of our sites by tracking information such as pageviews, traffic flow, search terms, and click through. We use this information to improve our sites. We also share this anonymous traffic and demographic information in aggregate form with advertisers and other business partners. We do not share any information with advertisers that can identify an individual user.
 
-We use WebSiteStory's Hitbox, a third party web analytics service to improve our web site performance and user experience. We use this information to improve usability on our sites and to help support our customers online needs. Hitbox does not reveal any personally identifiable information, such as names or email address.
+We use Omniture SiteCatalyst, a third party web analytics service to improve our web site performance and user experience. We use this information to improve usability on our sites and to help support our customers online needs. Omniture SiteCatalyst does not reveal any personally identifiable information, such as names or email address.
 
-For more information on the Hitbox service and privacy policy, please see their [privacy policy](http://www.websidestory.com/privacy/privacy-policy.html) and [privacy FAQ](http://www.websidestory.com/privacy/faq.html).
+For more information on the Omniture SiteCatalyst service and privacy policy, please see their [privacy policy](http://www.omniture.com/en/privacy?s_cid=1493).
 
 ### Cookies
 
@@ -67,8 +66,8 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ### Third Party Advertising
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click here:  
-<http://www.doubleclick.net/us/corporate/privacy>
+The ads appearing on this Web site are delivered to you by TechVertical.com, our Web advertising partner. Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about TechVertical.com, please   
+[contact TechVertical.com](http://techvertical.com/?s=contactus)
 
 ### Notification of Changes
 
