@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aajtv.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010022837id_/http%3A//www.aaj.tv/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aajtv.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623234253id_/http%3A//www.aajtv.com/privacy_statement.html) for the most accurate reproduction.*
 
-# AAJ TV : Pakistan's Premier Channel : Privacy Statements
+# AAJ TV : Pakistan Ki Awaz
 
 **PRIVACY POLICY**   
 We do not share any data or information about you (collected for whatever reason and by whatever means or provided by you to us for whatever reason and by whatever means) with any third party. Ever, except when required to provide it under orders from a competent Court of Law. 
@@ -11,4 +11,4 @@ Then, there is information that a visitor provides when he joins mailing lists, 
 
 Our privacy policy does not and cannot be applied to information that you choose to put up in sections that are open to public, that is, classified advertisements, message boards, discussion forums, etc. Naturally our privacy policy does not and cannot cover this information. It is simply impossible for us to check others using this information for their own valid or invalid purposes. 
 
-We do not also give, lease or sell email addresses of visitors to outside parties. However, we do occasionally send to our visitor's news and announcements about us, our sister web sites and the services we or our sister web sites offer. So, if you provide us your email address, for whatever reason, please expect to receive such emails from us 
+We do not also give, lease or sell email addresses of visitors to outside parties. However, we do occasionally send to our visitor's news and announcements about us, our sister web sites and the services we or our sister web sites offer. So, if you provide us your email address, for whatever reason, please expect to receive such emails from us
