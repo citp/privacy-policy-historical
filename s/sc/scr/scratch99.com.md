@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scratch99.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619051415id_/http%3A//www.scratch99.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratch99.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623074056id_/http%3A//www.scratch99.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | More Than Scratch The Surface
+# Privacy Policy
 
 This policy discloses how personal information is gathered and used by the www.scratch99.com website (referred to as ‘the site’ or ‘this site’ from here on). 
 
