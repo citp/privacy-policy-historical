@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the geewa.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111095614id_/http%3A//www.geewa.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geewa.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623091203id_/http%3A//geewa.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Help - Geewa.com
+# Live Games - Help
 
 ##  Privacy and Geewa
 
 We take the privacy of our users data very seriously. We believe that your personal data is your own and you should control it. Because of this Geewa do not rent, sell or otherwise disclose data to 3rd parties unless we are required to by law.
 
-As a registered member to [Geewa.com](https://web.archive.org/) you have complete access to data stored on you - simply log in [Geewa.com](https://web.archive.org/) and you can view and edit your data freely.
+As a registered member to [Live Games](https://web.archive.org/) you have complete access to data stored on you - simply log in [Live Games](https://web.archive.org/) and you can view and edit your data freely.
 
 Here is our full privacy policy:
 
@@ -43,7 +43,7 @@ The Geewa website (the "Site") is provided by Geewa s.r.o., a company registered
     1. We may also collect and disclose information to third parties in aggregate (so that no individual members are identified) for statistical analysis and strategic development purposes. 
   6. ####  Cookies
 
-    1. We may use "cookies" to collect aggregate information. A "Cookie" is a small piece of information sent by our web server to your web browser, which enables us to record anonymous details and allows you to move around the Site faster. We may use cookies for a number of purposes, for instance to enable us to simplify the logging on process, to help ensure the security and authenticity of members and to enable traffic monitoring. You can find out more about the way cookies work on [http://www.cookiecentral.com ](http://www.cookiecentral.com/). 
+    1. We may use "cookies" to collect aggregate information. A "Cookie" is a small piece of information sent by our web server to your web browser, which enables us to record anonymous details and allows you to move around the Site faster. We may use cookies for a number of purposes, for instance to enable us to simplify the logging on process, to help ensure the security and authenticity of members and to enable traffic monitoring. You can find out more about the way cookies work on [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
     2. Most browsers allow you to turn off the cookie function. If you want to know how to do this, please look at the help menu on your browser. However, if you turn off the cookie function your use of the Services may be impaired.
   7. ####  Overseas
 
@@ -62,6 +62,5 @@ The Geewa website (the "Site") is provided by Geewa s.r.o., a company registered
 
 If you would like to contact us with any queries or comments on our privacy practices, please write to the contact address above or send an e-mail to [ info@geewa.com](mailto:info@geewa.com)
 
-[ ](mailto:info@geewa.com)
-[ ](mailto:info@geewa.com)
+
 
