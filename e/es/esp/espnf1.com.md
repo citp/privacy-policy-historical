@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espnf1.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223063716id_/http%3A//en.espnf1.com/f1/motorsport/page/2646.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espnf1.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623115555id_/http%3A//en.espnf1.com/f1/motorsport/page/2646.html) for the most accurate reproduction.*
 
 # Privacy policy | ESPN F1
 
