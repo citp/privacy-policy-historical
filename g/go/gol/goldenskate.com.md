@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221021506id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624001755id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
 
 # Golden Skate's Privacy Policy
 
@@ -14,18 +14,8 @@
   * [Fan Pages](https://web.archive.org/directories/fanpages/fan.shtml)
   * [Clubs & Rinks](https://web.archive.org/directories/clubs/clubs.shtml)
   * [Organizations](https://web.archive.org/organizations/organizations.shtml)
-  * [International Skater Directory](https://web.archive.org/directories/skaters/main.shtml)
+  * [ Skater Directory](https://web.archive.org/directories/skaters/main.shtml)
   * [Synchronized Skating](https://web.archive.org/directories/synch/synch.shtml)
-  * **MARKETPLACE**
-  * [Accessories](https://web.archive.org/marketplace/accessories.shtml)
-  * [Apparel](https://web.archive.org/marketplace/apparel.shtml)
-  * [Art, Gifts & Memorabilia](https://web.archive.org/marketplace/gifts.shtml)
-  * [Boots & Blades ](https://web.archive.org/marketplace/boots.shtml)
-  * [Magazines](https://web.archive.org/marketplace/magazines.shtml)
-  * [Music & Video Services](https://web.archive.org/marketplace/musicediting.shtml)
-  * [Production Companies](https://web.archive.org/marketplace/productions.shtml)
-  * [Ice Rink Equipment](https://web.archive.org/marketplace/rinkequipment.shtml)
-  * [Training/Fitness Aids](https://web.archive.org/marketplace/training.shtml)
   * **RESOURCES**
   * [Fun & Games](https://web.archive.org/resources/fun.shtml)
   * [Graphics](https://web.archive.org/resources/graphics.shtml)
@@ -33,7 +23,7 @@
   * [Music & Program Info](https://web.archive.org/resources/music.shtml)
   * [Photography](https://web.archive.org/resources/photography.shtml)
   * [Pro-Am Results](https://web.archive.org/competitions/proam/main.shtml)
-  * [Figure Skating Results & Historical Data](https://web.archive.org/resources/results.shtml)
+  * [Results & Historical Data](https://web.archive.org/resources/results.shtml)
   * [Reviews](https://web.archive.org/resources/reviews.shtml)
   * [Tape Trading](https://web.archive.org/resources/tapes.shtml)
   * [Technical Resources](https://web.archive.org/resources/technical.shtml)
