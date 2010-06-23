@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831154036id_/http%3A//www.sandals.com/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623050937id_/http%3A//www.sandals.com/general/privacy.cfm) for the most accurate reproduction.*
 
 # Sandals Resorts Privacy Policy
 
