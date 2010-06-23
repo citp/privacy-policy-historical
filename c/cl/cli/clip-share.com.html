@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the clip-share.com privacy policy that was archived on 2009-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090422232350id_/http%3A//www.clip-share.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clip-share.com privacy policy that was archived on 2010-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623082600id_/http%3A//www.clip-share.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Privacy - ClipShare : Video Sharing Script - Youtube Clone - Youtube Script</title>
-<meta name="Description" content="With a huge variety of features, at an extremely affordable price, ClipShare is the ultimate video sharing script for starting your own Youtube clone.">
+<title>Privacy - ClipShare : Video Script - Youtube Clone - Youtube Script</title>
+<meta name="Description" content="With a huge variety of features, at an extremely affordable price, ClipShare is the ultimate video script for starting your own Youtube clone.">
 <meta name="Keywords" content="clipshare, youtube software, youtube clone, youtube script, video sharing script, video script, video sharing software, video share script">
 <meta name="Copyright" content="Copyright © 2006-2007 Envient. All Rights Reserved.">
 <meta name="Author" content="Envient">
@@ -15,12 +15,16 @@
 <link rel="stylesheet" type="text/css" href="/css/screen.css">
 <link rel="stylesheet" href="/css/slider.css" type="text/css" media="screen">
 
-<link rel="alternate" type="application/rss+xml" title="ClipShare News - RSS Feed" href="http://blog.clip-share.com/feed/">
-	
+
 <script type="text/javascript" src="/js/ajaxticker.js"></script>
 <script type="text/javascript" src="/js/swfobject.js"></script>
 <script src="/js/jquery-1.2.6.pack.js" type="text/javascript"></script>
 <script src="/js/jquery.jcarousel.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="http://cdn.envient.com/envient.network.css">
+<script type="text/javascript" src="http://cdn.envient.com/envient.network.jquery.js"></script>
+
+
 
 <script type="text/javascript"><!--//--><![CDATA[//><!--
 
@@ -41,39 +45,42 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 
 <script type="text/javascript">
 		//<![CDATA[
- 		$(document).ready(function()
+		jQuery.noConflict();
+ 		jQuery(document).ready(function()
 		{
-			$('#slide-content').jcarousel({ scroll: 1, buttonPrevHTML: false, initCallback: theCarousel, itemVisibleInCallback: nextCallback });
+			jQuery('#slide-content').jcarousel({ scroll: 1, buttonPrevHTML: false, initCallback: theCarousel, itemVisibleInCallback: nextCallback });
 			
 			function theCarousel(carousel)
 			{
-				$('#nav2 ul a').bind('click', function() {
-					var index = $(this).attr("id").split("_");
+				jQuery('#nav2 ul a').bind('click', function() {
+					var index = jQuery(this).attr("id").split("_");
         	carousel.scroll(jQuery.jcarousel.intval(index[1]));
-					$('#nav2 ul a').removeClass("active");
-					$(this).addClass("active");
+					jQuery('#nav2 ul a').removeClass("active");
+					jQuery(this).addClass("active");
 				  return false;
 				});
 			}
 			
 			function nextCallback(carousel, li, index)
 			{
-				$('#nav2 ul a').removeClass("active");
-				$("a#item_" + index).addClass("active");
+				jQuery('#nav2 ul a').removeClass("active");
+				jQuery("a#item_" + index).addClass("active");
 			}
 		});
 		//]]>
 </script>
 
 </head>
-<body onload="document.getElementById('graphic').style.visibility='visible'">
+<body onload="document.getElementById('graphic').style.visibility='visible';">
+
+<script type="text/javascript" src="http://cdn.envient.com/envient.network.js"></script>
 
 <div id="container-out">
 	<div id="container-in">
 		<!-- Header -->
 		<div id="header">
-			<p><a href="/">ClipShare - Video Sharing Community Script - Youtube Clone</a></p>
-			<div class="livedemo"><a href="/product/demo/">Live Demo</a></div>
+			<p><a href="/">ClipShare - Video Script - Youtube Clone</a></p>
+			<div class="livedemo"><!-- Begin SupportSuite Javascript Code --><script language="javascript" src="http://helpdesk.clip-share.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=0"></script><!-- End SupportSuite Javascript Code --></div>
 		</div>
 		<!-- Header -->
 		<div id="graphic" style="visibility: visible;">			
@@ -232,6 +239,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 							<li><a href="/services/hosting/">Hosting</a></li>
 							<li><a href="/services/servers/">Servers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="newstuff">New</span></a></li>
 							<li><a href="/services/custom-development/">Custom Features</a></li>
+							<li><a href="http://www.weblogodesigner.com" target="_blank">Logo Design</a></li>
 							<li class="shaddow"><a href="/services/custom-design/">Custom Design</a></li>
 					</ul>
 				</li>
@@ -274,18 +282,18 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 				<li><a href="/product/demo/">Live Demo</a></li>
 				<li><a href="/order/">Pricing &amp; Ordering</a></li>
 				<li><a href="/product/templates/">Templates</a> <span class="newstuff">New</span></li>
-				<li><a href="/plugins/video-grabber/">Video Grabber</a> <span class="newstuff">New</span></li>
-				<li><a href="/plugins/multi-server/">Multi-Server</a> <span class="newstuff">New</span></li>
+				<li><a href="/plugins/video-grabber/">Video Grabber</a></li>
+				<li><a href="/plugins/multi-server/">Multi-Server</a></li>
 			</ul>
 			<ul>
 				<li><a href="http://client.clip-share.com" rel="nofollow">Client Area</a></li>
 				<li><a href="http://helpdesk.clip-share.com" rel="nofollow">Helpdesk</a></li>
 				<li><a href="http://forums.clip-share.com">Forums</a></li>
-				<li><a href="http://blog.clip-share.com">Blog</a> <span class="newstuff">New</span></li>
+				<li><a href="/affiliates/">Affiliates</a> <span class="newstuff">New</span></li>
+				<li><a href="/services/hosting/">Hosting</a></li>
 			</ul>
 			<br>
-				<div class="banner"><a href="http://www.adultvideoscript.com" target="_blank"><img src="/images/avs_125x125.gif" width="125" height="125" alt="AVS - Adult Video Script"></a></div>
-			</div>	
+			<div class="banner"><a rel="nofollow" href="http://www.mediasharesuite.com" target="_blank"><img src="/images/banners/mediashare_125.gif" width="125" height="125" alt="MediaShare - Video, Audio and Photo Sharing Script"></a></div>			</div>	
 			<div id="detailpage">
 				<h1>Privacy Policy</h1>		
 				<p><strong>Privacy Statement for Clip-Share.Com</strong><br>Clip-Share.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Clip-Share.com</p>
@@ -300,16 +308,28 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 		</div>
 		<!-- Footer -->
 		<div id="footer">
-			<div class="left"><a href="/about/">About</a> : <a href="/privacy/">Privacy</a> : <a href="/product/eula/">License Agreement</a> : <a href="/support/">Contact</a> : <a href="/services/hosting/">Hosting</a> : <a href="/sitemap/">Sitemap</a></div> <div class="right">Copyright © 2006-2009 Envient. All Rights Reserved.</div>
+			<div class="left"><a href="/about/">About</a> : <a href="/privacy/">Privacy</a> : <a href="/product/eula/">License Agreement</a> : <a href="/support/">Contact</a> : <a href="/services/hosting/">Hosting</a> : <a href="/sitemap/">Sitemap</a></div> <div class="right">Copyright © 2006-2010 Envient. All Rights Reserved.</div>
 		</div>
 	</div>
 </div>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-3042308-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? 
+               "https://ssl." : 
+               "http://www.");
+document.write(
+unescape("%3Cscript src='" + gaJsHost 
++ "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")
+);
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("UA-3042308-1");
+		pageTracker._setDomainName("none");
+		pageTracker._setAllowLinker(true);
+		pageTracker._trackPageview();
+	}
+	catch(err) {}
 </script>
 
 <!-- Start Quantcast tag -->
@@ -323,6 +343,8 @@ qacct:"p-16GBnmSS9I-zk"
 <a href="http://www.quantcast.com/p-16GBnmSS9I-zk" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-16GBnmSS9I-zk.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
+
+<script language="JavaScript" type="text/javascript">var MerchantID = 'BARCLIPS'</script><script language="JavaScript" type="text/javascript" src="https://secure.avangate.com/content/server.js"></script>
 
 
 </body></html>
