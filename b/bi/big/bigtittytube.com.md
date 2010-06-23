@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bigtittytube.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140717id_/http%3A//bigtittytube.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtittytube.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004434id_/http%3A//bigtittytube.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
 # BigTittyTube - Information
 
 **Bigtittytube.com** ("Bigtittytube") recognizes that its customers, visitors, users, and others who use [www.Bigtittytube.com](http://bigtittytube.com/) or other web sites owned or operated by Bigtittytube (the "Bigtittytube Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Bigtittytube Sites. Bigtittytube provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Bigtittytube Sites.
 
-This Privacy Notice is incorporated into and is subject to the [Bigtittytube Terms of Use](https://web.archive.org/web/20090618140717id_/http%3A//bigtittytube.com/index.php?view=info_terms). Your use of the Bigtittytube Sites and any personal information you provide on the Bigtittytube Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20090618140717id_/http%3A//bigtittytube.com/index.php?view=info_terms).
+This Privacy Notice is incorporated into and is subject to the [Bigtittytube Terms of Use](https://web.archive.org/web/20100624004434id_/http%3A//bigtittytube.com/index.php?view=info_terms). Your use of the Bigtittytube Sites and any personal information you provide on the Bigtittytube Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20100624004434id_/http%3A//bigtittytube.com/index.php?view=info_terms).
 
 Please note that any video, image, or other content posted at the direction of Users onto the Bigtittytube Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
@@ -40,7 +40,7 @@ Please note that any video, image, or other content posted at the direction of U
   * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
   * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Bigtittytube Sites.
   * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  * Bigtittytube also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Bigtittytube believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20090618140717id_/http%3A//bigtittytube.com/index.php?view=info_terms), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Bigtittytube, our Users or others.
+  * Bigtittytube also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Bigtittytube believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20100624004434id_/http%3A//bigtittytube.com/index.php?view=info_terms), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Bigtittytube, our Users or others.
 
 
 
@@ -50,7 +50,7 @@ You may, of course, decline to submit personally identifiable information throug
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-Please contact Bigtittytube with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing [customer service](https://web.archive.org/web/20090618140717id_/http%3A//bigtittytube.com/index.php?view=contact).
+Please contact Bigtittytube with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing [customer service](https://web.archive.org/web/20100624004434id_/http%3A//bigtittytube.com/index.php?view=contact).
 
 ### Third-party Advertisers, Links to Other Sites
 
@@ -64,7 +64,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 Bigtittytube uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Bigtittytube and you do so at your own risk. Once we receive your transmission of information, Bigtittytube makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If Bigtittytube learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Bigtittytube may post a notice on the Bigtittytube Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify [customer service](https://web.archive.org/web/20090618140717id_/http%3A//bigtittytube.com/index.php?view=contact).
+If Bigtittytube learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Bigtittytube may post a notice on the Bigtittytube Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify [customer service](https://web.archive.org/web/20100624004434id_/http%3A//bigtittytube.com/index.php?view=contact).
 
 ### Our Commitment to Legal-Age Usage
 
@@ -72,7 +72,7 @@ Protecting children from adult ocntent is especially important. For that reason,
 
 ### Special Note to International Users:
 
-The Bigtittytube Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Bigtittytube Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Bigtittytube Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20090618140717id_/http%3A//bigtittytube.com/index.php?view=info_terms), you are transferring your personal information to the United States and you consent to that transfer.
+The Bigtittytube Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Bigtittytube Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Bigtittytube Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20100624004434id_/http%3A//bigtittytube.com/index.php?view=info_terms), you are transferring your personal information to the United States and you consent to that transfer.
 
 ### Changes and updates to this Privacy Notice
 
