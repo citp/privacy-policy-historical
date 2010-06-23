@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsolute.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216005716id_/http%3A//blogsolute.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsolute.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623055140id_/http%3A//www.blogsolute.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
