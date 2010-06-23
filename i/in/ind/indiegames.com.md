@@ -1,79 +1,51 @@
-> *The following text is extracted and transformed from the indiegames.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603093059id_/http%3A//www.cmp.com/delivery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiegames.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623093714id_/http%3A//www.cmp.com/delivery/privacy.html) for the most accurate reproduction.*
 
-# UBMTechnology.com » United Business Media LLC Privacy Statement
+# UBMTechnology.com » United Business Media LLC Privacy Notice Highlights
 
-_Last Updated: February 29, 2008_ United Business Media LLC (formerly CMP MEDIA LLC) , and its divisions Techweb, Everything Channel, TechInsights and Think Services, (collectively referred to in this Privacy Statement as “we” or “UBM LLC”) recognize the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers’ right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by UBM LLC. A current list of our publications, web sites, online webcasts, newsletters and trade shows can be found on the [UBMtechnology.com](http://ubmtechnology.com/), [EverythingChannel.com](http://everythingchannel.com/), [TechInsights.com,](http://techinsights.com/) [TechWeb.com ](http://techweb.com/aboutus/)and [Think Services.com](http://think-services.com/).
+Effective January 4th, 2009
 
-## INFORMATION COLLECTION AND USE
+## SCOPE
 
-UBM LLC collects information from our website users, subscribers and other customers. In this section of our Privacy Statement, we describe the type of information we collect and how we use it to provide better services to our customers.
+This Privacy Notice Highlights and the full [ _ **United Business Media LLC  Privacy Notice**_](http://ubmtechnology.com/united-business-media-llc-privacy-notice/) (together, simply the Notice) apply to our face-to-face events, print publications distributed within the United States and their digital versions, our online events, web sites, and web properties, our email newsletters and our participation in social media.
 
-### Registration and Ordering
+## PERSONAL INFORMATION
 
-When attending our trade shows and other in-person events, participating in our customer-sponsored webcasts, using some of our websites and signing up for certain selected services (such as free subscriptions), users must first register. During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). For internal purposes, we use this information to communicate with users and provide requested services, and, for our website visitors, to provide a more personalized experience on our sites. We also may collect information about a user’s professional responsibilities (such as job title, purchasing responsibilities, company information and professional certification). We use such information to improve our service, for marketing purposes and/or for industry reporting purposes. Many of our products and services are free to subscribers who meet certain demographic criteria. Independent auditors may need to certify the eligibility of these subscribers. In order to do that, we may collect unique identifiers (such as mother’s maiden name) that we disclose to the auditors strictly for industry reporting and audit verification purposes. For our services that require payment (such as certain events, products and subscriptions), we also collect credit card information (such as account name, number and expiration date), which is used for our or our agent’s billing purposes only, and is not otherwise shared.
+  * We collect information you give us directly.
+  * We may add information from other sources.
+  * We use common Internet technologies such as cookies and web beacons on our websites and in our emails.
 
-### E-mail Newsletters
 
-If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and phone number) and information about the subscriber’s professional interests and responsibilities. We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter.
 
-### Surveys and Contests
+## USES
 
-From time to time we invite web site users and other customers to provide information via surveys or contests. Participation in these surveys or contests is completely voluntary and the website user or other customer therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or job title). In addition to the other uses set forth in this policy, contact information collected in connection with surveys and contests is used to notify the winners and award prizes and to monitor or improve the use of, and satisfaction with the website or other UBM LLC product or service. Subject to the given customer’s preferences (as described in the “Preferences” section below), such information also may be shared with third party sponsors of such surveys or contests.
+We use information about you 
 
-### Interactive Features
+  * to provide the products and services you request and to manage your account,
+  * to provide you with content and information about other products and services that may be of interest to you, and
+  * to allow you to connect directly with other companies and with colleagues.
 
-At some of our sites, we offer interactive and community features such as discussion boards and user profiles. Note that all personal information sent or posted via such features becomes public information for which we are not responsible.
 
-### Tell-A-Friend
 
-If customers elect to use our referral service for informing a friend about our sites and services, we may ask them for the friend’s name, job title and e-mail address. UBM LLC will store and use this information to send the friend an invitation. This information may also be used to provide information about our company and related products and services. The friend may contact us as specified in the tell-a-friend message to request that no further communications be sent.
+## YOUR CHOICES
 
-### Communications with Us
+  * To find out how to control whether or not to connect with other companies, opt out of our email marketing programs, or keep your account or subscription information up to date, please visit [Your Choices](http://ubmtechnology.com/united-business-media-llc-privacy-notice/#Choices) in the full Notice.
+  * To find out how to control the display of advertising or content based on your interests, please review [More Information About Cookies](http://ubmtechnology.com/united-business-media-llc-privacy-notice/#More_info) in the full Notice.
 
-We have features where our customers can submit information to us (such as our feedback forms). Where such submissions include requests for service, support or information, we may forward them to our agents, as needed, to best respond to the specific request. In addition, we may retain e-mails and other information sent to us for our internal administrative purposes and to help us to serve customers better. Please note that letters to the editor and similar submissions may be made public.
 
-### Communications from Us: Service Updates, Special Offers
 
-In order to best serve our customers, we may send updates that contain important information about our products and services. For example, we send new members a welcoming message and verify password and username for our password-protected web sites. We may also communicate with a customer to provide requested services and for account-related issues via e-mail, phone or regular mail. In addition to such service and product-essential messages, we offer our customers the option to receive information about our company, related products, services and special deals. Users, however, can choose not to receive these communications from us, as set forth in the “Preferences” section below.
+## IMPORTANT INFORMATION
 
-### Automatic Data Collection
+  * We collect and process information on servers around the world.
+  * We use reasonable security measures to protect information about you.
+  * This Notice covers how we use information you provide to us. We cannot control how others may use information you may make public or choose to disclose online or at face-to-face events.
+  * Our products, services, events and offerings are directed to professionals and not children thirteen or under.
+  * We will post and date any changes to this Notice. Please check here periodically. Your continued use of our products and services covered by this Notice constitutes your acceptance of the terms in place at the time of your use.
 
-Our web sites, newsletters and, from time to time, certain other products and services have features that automatically collect information from customers, to deliver content specific to customers’ interests and to honor their preferences. This information assists us in creating products and services that will serve the needs of our customers. For example, we use “cookies,” a piece of data stored on the user’s hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our web site. If users reject the cookies, they may be limited in the use of some areas of our web site. For example, the user may not be able to participate in sweepstakes, contests or drawings. Additionally, we may note some of the pages the user visits on our web sites and via our email newsletters through the use of pixel tags (also called clear gifs) and web beacons. The use of cookies, pixels and web beacons enable us to track and target the interests of our users to enhance the experience on our sites and via our email newsletters. In addition, some of our business affiliates use cookies on our web sites and in our email newsletters, in ads or promotions. However, we have no access to or control over these business affiliates’ cookies; we urge users to read their privacy policies for information. In particular, we use third-party advertising technology to serve ads for UBM LLC products and services when you visit certain UBM LLC Web sites. This technology uses information about your visits to these UBM LLC Web sites (not including your name, address, or other personal information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our ad serving partner, to help manage our online advertising for UBM LLC products and services. These web beacons enable our ad server to recognize a browser’s cookie when a browser visits these sites and to learn which banner ads bring users to our Web sites. The information used in this process is not personally identifiable. To learn more about our third party ad serving partner, cookies, and how to “opt-out,” please {[click here](http://www.doubleclick.com/us/about_doubleclick/privacy/)}. We allow advertisers to use third party ad servers to display ads on our sites. These third party ad servers may set and recognize their cookies on your pc. They may collect standard information about your browser and system and use that data, along with your IP address, to manage ad frequency and serve ads in a format most compatible with your system. In addition, we authorize TACODA, Inc. to set and access its cookies on UBM LLC’s sites. TACODA tracks and analyzes behavior on a unique but non personal basis. They provide us with aggregate reports so that we can understand how our users visit and use our sites. For more information about TACODA’s privacy practices, including how to opt out of their cookies, please visit <http://www.tacoda.com/notice/privacy_policy.html>. We also use an email delivery and marketing company to send emails, including newsletters, for which you have registered (or otherwise agreed to receive). Web beacons and cookies may be used in such email messages to help us measure the effectiveness of our advertising and how customers use our web sites, services and other products. For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our web sites. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad information about our user base. We may combine information supplied by a customer at registration with web site usage data to learn more about users and their preferences in the content of the site. We may use this information to tailor services to your interests or to contact you about offers from our business associates which may be of interest to you. We do not disclose this information to third parties.
 
-## WITH WHOM YOUR INFORMATION IS SHARED
 
-When you register for co-branded, customized, private label, “powered by” or sponsored products and services, including, for example, webcasts and co-sponsored newsletters, or when we join with other parties to provide specific services, you are, in effect, choosing to provide your registration information to that third party as well. These third parties will use the information according to their own privacy policies and we urge people who register to read those policies and be aware of the other company’s privacy practices before registering. If you register for TechOnline’s or Light Reading’s network of sites, information which you submit at registration may be shared with third party sponsors and with companies that provide resources available on those networks as a prerequisite for access to the sites. TechOnline and Light Reading will provide you with notice and ask your consent as part of the registration process. Finally, on occasion, we may provide targeted lists of names and offline and online contact information for marketing purposes to third parties with your consent to do so. We may transfer personally identifiable information to other companies which act as our agents in providing our product(s)/service(s), and which agree to use it only for that purpose and to keep the information secure and confidential. Also, our parent, subsidiary and affiliate companies, entities into which our company may be merged, or entities to which any of our assets, products, sites or operations may be transferred, will be able to use personal information we collect. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency’s request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission. We may share aggregate information, which is not personally identifiable, with others.
+## HOW TO CONTACT US
 
-## CORRECTION/UPDATING PERSONAL INFORMATION
+For more information about our privacy practices and how to contact us, please review the full [_**United Business Media LLC Privacy Notice**_](http://ubmtechnology.com/united-business-media-llc-privacy-notice/).
 
-If information which you have submitted to us changes or if you no longer desire our product(s)/service(s), we provide a way to correct or update your personal data: you may either contact Customer Support for the applicable product or service or use the instructions and links on the [Preference Page](https://web.archive.org/your-ubm-llc-preferences).
-
-### PREFERENCES
-
-Our customers are given the opportunity to choose whether to receive promotional information from us. Customers also can go to our [Preference Page](https://web.archive.org/your-ubm-llc-preferences) at any time, to remove their contact information from our email marketing lists or find directions to change other preferences. You may also opt out of email marketing lists by following the directions at the bottom of our promotional emails. Please note that we have a number of brands and products. You may choose to opt out of certain brands and products selectively or for all our lists. If you opt out of all our lists and then resubmit your email address and contact details to any UBM LLC product or service, your opt out may be reset. In addition, for those customers that are California residents, you may have additional rights, as described in the “Your California Privacy Rights” section below. Please note that we will endeavor to implement your preference requests within a reasonable time, although for a time you may continue to receive mailings, etc., while we process your request. In addition, please note that even after such request is implemented, you will continue to receive account or subscription information directly related to the product or service for which you registered (or which you otherwise agreed to receive). 
-
-## YOUR CALIFORNIA PRIVACY RIGHTS
-
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits those customers that are California residents to request that UBM LLC not share your personal information with third parties for their direct marketing for personal, household or family use. To make such a request, please send an email with your request to [privacyrequests@ubm-us.com](mailto:privacyrequests@ubm-us.com "Email Privacy Requests").
-
-## SECURITY
-
-We use reasonable precautions to protect information about our customers while it is stored on our servers or in transit to our vendors processing on our behalf. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted to us securely. In addition, access to all of our customers’ information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers on which we store personally identifiable information are kept in a secure environment.
-
-## LINKS
-
-Our web sites contain links to other sites. UBM LLC is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information.
-
-## CHILDREN
-
-UBM LLC websites are not directed at individuals under thirteen years of age and UBM LLC does not intend to collect any personally-identifiable information from such individuals.
-
-## NOTIFICATION and CHANGES
-
-If we change our Privacy Statement, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. For questions about this Privacy Statement, contact: 
-
-Legal Department - Privacy Officer   
-UBM Inc.   
-11 W. 19th Street   
-New York, NY 10010   
-[ privacyrequests@ubm-us.com](mailto:privacyrequests@ubm-us.com "Email Privacy Officer")
+  
+United Business Media LLC, 600 Community Drive, Manhasset NY, 11030.
