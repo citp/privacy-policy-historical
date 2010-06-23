@@ -1,14 +1,26 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175333id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624015100id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Extreme bikinis for sexy women. The- bikini .com Micro bikinis
+# Extreme micro and mini bikinis for women. The-Bikini.com sexy micro bikinis for women and men
 
+  
+  
+
+
+Latest Comments
+
+Thank you for your great speedy service, your products are fantastic.  
+Thank you  
+Amanda & Paul  
+[more comments...](https://web.archive.org/information/?action=comments)
+
+  
   
   
 
 
 Intimate Shaver
 
-The ultimate pubic area shaving tool!  
+The ultimate intimate areas shaving tool for men and women!  
   
 
 
@@ -17,9 +29,6 @@ The [Body Bare](http://www.personalshavers-affiliates.com/b.asp?ID=1005 "get a p
 It does not bite, cause bumps, discomfort or ingrown hairs. This is the BEST WOMEN or MEN'S razor in the world!   
 [ ](http://www.personalshavers-affiliates.com/b.asp?ID=1005 "perfect intimate shave")
 
-  
-  
-  
   
   
   
@@ -108,4 +117,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20090617175333id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20100624015100id_/http%3A//www.the-bikini.com/contact/). 
