@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the prizes.uk.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226113905id_/http%3A//prizes.uk.com/media/prizesuk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizes.uk.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623081137id_/http%3A//prizes.uk.com/media/prizesuk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+If you received an email with an advertisement from Prizes.co.uk and no longer wish to receive offers from us, please click [here](http://www.dnelist.com/u/566f1c928d695e3cf2e9d5892a0e41a9718) and follow the instructions to unsubscribe from our list. 
 
 **Privacy Policy**   
 Last Updated January 15, 2009
@@ -117,4 +119,4 @@ Company may use your personal information in the following ways:
 
 **5\. Foreign use of the Website.** To the extent that you are accessing the Website while domiciled outside of the United States, you acknowledge that the Personal Information you are providing Company is collected and stored in the United States and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States. 
 
-If you have questions about this policy, please contact us by [clicking here](http://intela.com/contact.php). 
+If you have questions about this policy, please contact us by clicking [here](mailto:support@prizes.co.uk). 
