@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightmobilephone.co.uk privacy policy that was archived on 2009-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090721092115id_/http%3A//www.rightmobilephone.co.uk/Right-Mobile-Phone-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmobilephone.co.uk privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623044227id_/http%3A//www.rightmobilephone.co.uk/Right-Mobile-Phone-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Right Mobile Phone
 
