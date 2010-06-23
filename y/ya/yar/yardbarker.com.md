@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the yardbarker.com privacy policy that was archived on 2007-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070202211342id_/http%3A//www.yardbarker.com/account/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardbarker.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623030326id_/http%3A//www.yardbarker.com/account/privacy) for the most accurate reproduction.*
 
-# Yardbarker: Privacy Policy
-
-| 
-
-Yardbarker, Inc. Privacy Policy
+# Privacy Policy
 
 **Last Updated: May 7, 2006**
 
@@ -74,6 +70,4 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: info@yardbarker.com (2680 Bancroft Way, Berkeley, CA 94618). 
-
-| 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: info@yardbarker.com (611 Mission Street, 2nd Floor, San Francisco CA 94105). 
