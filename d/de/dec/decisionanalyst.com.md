@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221020246id_/http%3A//www.decisionanalyst.com/privacy.dai) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623034531id_/http%3A//www.decisionanalyst.com/privacy.dai) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
 You are here: [Home](https://web.archive.org/index.dai) | Privacy Policy 
 
 * * *
@@ -19,7 +18,7 @@ We believe that consumers have an inalienable right to privacy. We protect your 
 We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us. 
 
 **Who We Are**  
-The site [www.DecisionAnalyst.com](https://web.archive.org/web/20091221020246id_/http%3A//www.decisionanalyst.com/index.dai) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20091221020246id_/http%3A//www.decisionanalyst.com/index.dai).  Tell me more.
+The site [www.DecisionAnalyst.com](https://web.archive.org/web/20100623034531id_/http%3A//www.decisionanalyst.com/index.dai) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20100623034531id_/http%3A//www.decisionanalyst.com/index.dai).  Tell me more.
 
 **Information We Collect From You**  
 We only collect the personal identifying information (name, address, phone number, and email address, etc.) you voluntarily provide to us when downloading our marketing research data, white papers, and Stats™ Statistical Software. Tell me more.
@@ -31,7 +30,7 @@ We use the information you provide us to measure our advertising efforts and for
 We don't share any information that personally identifies you with any business, client, or business partner. Decision Analyst does not sell or rent your personal information to anyone. Tell me more.
 
 **Use Of Internet Technology ("Cookies" and Log Files)**  
-We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20091221020246id_/http%3A//www.decisionanalyst.com/index.dai) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion� website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20091221020246id_/http%3A//www.decisionanalyst.com/index.dai). We do collect information in our log files.  Tell me more.
+We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20100623034531id_/http%3A//www.decisionanalyst.com/index.dai) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion� website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20100623034531id_/http%3A//www.decisionanalyst.com/index.dai). We do collect information in our log files.  Tell me more.
 
 **Links To Outside Sites**  
 The www.decisionanalyst.com website contains links to other websites whose privacy policies may differ from ours.  Tell me more.
@@ -73,7 +72,7 @@ Back to top
 We use the information you provide to us while downloading marketing research data, white papers, and Stats™ Statistical Software to: 
 
   * To measure the effectiveness of our advertising
-  * To update you of any changes in Stats™ Statistical Software
+  * To update you of any changes in STATS™ Statistical Software
   * To respond to an inquiry or request for information
   * To thank you for contacting Decision Analyst
   * To send you information about Decision Analyst products and services that we think might interest you. 
