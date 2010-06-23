@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessworkforce.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219224530id_/http%3A//www.businessworkforce.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessworkforce.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624013804id_/http%3A//www.businessworkforce.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Search Business & Management Jobs & Resumes, Find Career Resources - BusinessWorkforce.com
 
