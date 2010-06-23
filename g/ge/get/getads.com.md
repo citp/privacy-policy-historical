@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the getads.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214213306id_/http%3A//www.getads.com/index-5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getads.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623145203id_/http%3A//www.getads.com/index-5.html) for the most accurate reproduction.*
 
-# GetAds - Advertising Network, Affiliate Network and Business Solutions
+# GetAds Affiliate Sign Up
+
+  | 
+
+## Privacy Policy
 
 **GETADS, LLC, and each of its related web sites (** **** **GetAds** **** **) Privacy Policy**  
 Last updated September 26, 2007.    
@@ -56,7 +60,7 @@ GetAds uses Individual Information to target advertising to an individual. When 
 
 **2.4 Direct Mail and Telemarketing.**  
 GetAds uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones.    
-**2.5   Mobile Phone SMS Messaging. **   
+**2.5   Mobile Phone SMS Messaging. **  
 In certain cases, when requested by an individual, a Third Party may use Individual Information to provide customized content and advertising via SMS messaging to an individual's cell phone.  GetAds is not responsible for the privacy practices or the content of such Third Parties.   
 
 **2.6 Use of Technology Information.**  
@@ -99,8 +103,17 @@ Anyone using the Website outside of the United States acknowledges that personal
 **6\. Unsubscribe Procedures.**  
 **6,1** If you wish to discontinue receiving email messages from GetAds, you have several options: 
 
+  1. **Unsubscribe from one email list.    **To unsubscribe from a particular list, either (1) send an email to [unsubscribe@getads.com ](mailto:unsubscribe@getads.com)or (2) follow the instructions in each promotional email message sent by GetAds. 
+  2. **Unsubscribe from all of GetAds's email lists.**  
+We reserve the right to add Individual Information to multiple lists maintained by GetAds. To globally unsubscribe from all of GetAds's lists, send an email to [unsubscribe@getads.com ](mailto:unsubscribe@getads.com). 
+
+
+    1. **Unsubscribe from a particular SMS messaging campaign.**
+
+
+
 To unsubscribe from a particular SMS messaging campaign on a cell phone, send STOP, END, or QUIT to the SMS message received by the individual.  In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign. 
 
-**For more information about protecting your privacy, you may wish to visit:**[ **www.ftc.gov**](http://www.ftc.gov/) **.   If you have questions about this policy, please contact us at [legalnotices@getads.com ](mailto:legalnotices@getads.com). **  
-**California User Consumer Rights.**   In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov ](mailto:dca@dca.ca.gov).    
-© 2007 GetAds, LLC. 
+**For more information about protecting your privacy, you may wish to visit:**[ **www.ftc.gov**](http://www.ftc.gov/) **.   If you have questions about this policy, please contact us at [legalnotices@getads.com ](mailto:legalnotices@getads.com). **
+
+|  
