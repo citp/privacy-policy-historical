@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221172252id_/http%3A//www.leagueathletics.com/Page.asp%3Fn%3D19687%26org%3DLeagueAthletics.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624004618id_/http%3A//www.leagueathletics.com/Page.asp%3Fn%3D19687%26org%3DLeagueAthletics.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
+|    |    |     
+---|---|---  
 |   
-  
-### Privacy Policy Statement  
-  
 ---  
   
 As a user of a LeagueAthletics.com hosted World Wide Web site (the “Service”) your privacy is very important to us. You are entitled to know how your use of the Service will affect your personal privacy.  **In general, LeagueAthletics.com will under no circumstances share any personal information with anyone other than the members of the sports organization to which you belong**. The purpose of this Privacy Policy Statement is to inform you about:
@@ -34,15 +33,15 @@ The types of information that LeagueAthletics.com may collect about you, either 
 
 > _Volunteered Information_
 > 
-> : This category consists of (i) information that you voluntarily provide to LeagueAthletics.com upon your registration for this service or for a sports program that uses our Service, such as your name, email address, and other contact information, (ii) information that you subsequently volunteer to LeagueAthletics.com regarding your contact information through the Password protected features of the Service, or changes in your registration information, (iii) if you are a participant in a sports program, the information that you provide to that program at the time of enrollment and thereafter through the Service, either by you directly inputting the information into the Service , and (iv) other information about you that you may voluntarily provide through the Service at LeagueAthletics.com’s request. 
+> : This category consists of (i) information that you voluntarily provide to LeagueAthletics.com upon your registration for this service or for a sports program that uses our Service, such as your name, email address, and other contact information, (ii) information that you subsequently volunteer to LeagueAthletics.com regarding your contact information through the Password protected features of the Service, or changes in your registration information, (iii) if you are a participant in a sports program, the information that you provide to that program at the time of enrollment and thereafter through the Service, either by you directly inputting the information into the Service , and (iv) other information about you that you may voluntarily provide through the Service at LeagueAthletics.com’s request.
 > 
-> _Transaction Information_
+>  _Transaction Information_
 > 
 > : This category consists of information you may provide to LeagueAthletics.com as a result of your purchase of goods or services from the Service, which may include contact information, billing and shipping addresses and financial information such as credit card number and expiration date. Information that you may provide to a company other than LeagueAthletics.com during a transaction consummated through the service is not included in this Privacy Policy Statement and will be subject to the privacy policies and practices, if any, employed by the company with whom you are dealing.
 > 
 >  _"Cookie" Information_
 > 
-> : As is the case with many Web sites, the Service uses standard technology called "cookies," which are small data files that are downloaded onto your computer when you visit a particular Web site. Cookies automatically identify your browser to the LeagueAthletics.com server whenever you interact with the Service. LeagueAthletics.com uses cookies to keep track of your teams and preferences, but cannot track any activity by you on other Web sites. If you prefer not to have any information collected by cookies, you may disable cookies by turning them off in your browser; however, some areas of the Service may not function properly if you do. 
+> : As is the case with many Web sites, the Service uses standard technology called "cookies," which are small data files that are downloaded onto your computer when you visit a particular Web site. Cookies automatically identify your browser to the LeagueAthletics.com server whenever you interact with the Service. LeagueAthletics.com uses cookies to keep track of your teams and preferences, but cannot track any activity by you on other Web sites. If you prefer not to have any information collected by cookies, you may disable cookies by turning them off in your browser; however, some areas of the Service may not function properly if you do.
 > 
 > All of these types of information about you may be maintained by LeagueAthletics.com on computers located in the United States, and may be transferred from time to time among those computers.
 
@@ -52,15 +51,15 @@ The types of information that LeagueAthletics.com may collect about you, either 
 
 > _Volunteered Information_
 > 
-> : 
+> :
 > 
-> Volunteered Information will be used by LeagueAthletics.com to operate the Service and maintain your contact information within the Service, including the record of your team membership(s). For this purpose it will be necessary to disclose Volunteered Information to LeagueAthletics.com employees and contractors who have a need to know. 
+> Volunteered Information will be used by LeagueAthletics.com to operate the Service and maintain your contact information within the Service, including the record of your team membership(s). For this purpose it will be necessary to disclose Volunteered Information to LeagueAthletics.com employees and contractors who have a need to know.
 > 
-> Volunteered Information may be used by LeagueAthletics.com to send you information about LeagueAthletics.com and promotional material about products and services of LeagueAthletics.com. 
+> Volunteered Information may be used by LeagueAthletics.com to send you information about LeagueAthletics.com and promotional material about products and services of LeagueAthletics.com.
 > 
-> _Transaction Information_
+>  _Transaction Information_
 > 
-> : 
+> :
 > 
 > Transaction Information will be used by LeagueAthletics.com solely for the purpose of completing the transaction you have requested and providing customer service and with respect to that transaction. Financial Information such as credit card number and expiration dates will not be stored or saved on our servers.
 > 
@@ -70,13 +69,13 @@ The types of information that LeagueAthletics.com may collect about you, either 
 
   * **_Modifications to Privacy Policy Statement._**
 
-LeagueAthletics.com may modify this Privacy Policy Statement at any time, at its discretion, and modifications are effective upon being posted here on the Service. You are responsible for revisiting this Privacy Policy Statement periodically to ensure that you are aware of any changes to it. 
+LeagueAthletics.com may modify this Privacy Policy Statement at any time, at its discretion, and modifications are effective upon being posted here on the Service. You are responsible for revisiting this Privacy Policy Statement periodically to ensure that you are aware of any changes to it.
 
   * **_LeagueAthletics.com Contact Information._**
 
 You may contact LeagueAthletics.com at either of the following contact points with any inquiry or complaint or to exercise any of the rights and options set forth in this Privacy Policy Statement.
 
-If you have any questions about this Privacy Policy Statement or LeagueAthletics.com’s practices, or if you believe the privacy or security of your information has been compromised in any way, please contact LeagueAthletics.com at the email address below. 
+If you have any questions about this Privacy Policy Statement or LeagueAthletics.com’s practices, or if you believe the privacy or security of your information has been compromised in any way, please contact LeagueAthletics.com at the email address below.
 
 
 
