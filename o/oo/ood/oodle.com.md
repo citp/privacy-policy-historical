@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222185912id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624010153id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
 
 # Oodle Classifieds - Privacy Policy
-
-| 
 
 Privacy Policy
 
@@ -29,7 +27,7 @@ Registration is required to place a listing through our service or to use other 
 
 Registered users may choose to receive a copy of our newsletter or receive other mailings from us regarding our service or the Sites. You may opt-out of receiving future mailings as part of the registration process. 
 
-You can review and change your Personally Identifiable Information or password at any time on the [My Profile Tab](http://www.oodle.com/account/profile/) in the My Classifieds section. 
+You can review and change your Personally Identifiable Information or password at any time on the [My Profile Tab](http://www.oodle.com/account/profile/) in the My Account section. 
 
 ### Cookies
 
@@ -94,6 +92,4 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 ### More Questions?
 
-If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](mailto:abuse@oodle.com).  
-  
----|---
+If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](mailto:abuse@oodle.com).
