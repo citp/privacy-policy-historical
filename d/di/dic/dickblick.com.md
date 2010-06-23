@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222031325id_/http%3A//www.dickblick.com/customerservice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623235425id_/http%3A//www.dickblick.com/customerservice/privacy) for the most accurate reproduction.*
 
 # Security and Privacy - Blick Art Materials
 
@@ -7,6 +7,7 @@
   * What if I don't want e-mail or catalogs?
   * What are cookies, and do you use them?
   * What other information do you collect?
+  * Ecommerce Disclosure
   * Policy Changes
 
   
@@ -101,6 +102,11 @@ As you browse and order on our site, our servers log your activity and your path
 ---  
   
 We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).   
+  
+#####  Ecommerce Disclosure  
+
+
+In accordance with industry practices, our affiliates are compensated for links to our website. [Click here](https://web.archive.org/affiliates/) to learn more about our Affiliates Program.   
   
 #####  Policy Changes  
 
