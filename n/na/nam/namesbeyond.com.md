@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namesbeyond.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213225708id_/http%3A//www.namesbeyond.com/index.php/home/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namesbeyond.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623074516id_/http%3A//www.namesbeyond.com/index.php/home/policy) for the most accurate reproduction.*
 
 # Register your dot .com domains,Register your domain name, Create your web site, Host your web site, Email services
 
