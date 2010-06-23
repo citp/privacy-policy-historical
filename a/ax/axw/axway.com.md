@@ -1,81 +1,104 @@
-> *The following text is extracted and transformed from the axway.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128003347id_/http%3A//www.axway.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axway.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623031919id_/http%3A//www.axway.com/privacy-policy) for the most accurate reproduction.*
 
-# Axway.com | Privacy Policy
+# Privacy Policy | Axway - Global
 
-  
-Privacy Policy  
-  
-**Our Commitment**  
-Axway understands how important it is to keep your personal information confidential, especially online. Our commitment to protecting your privacy is outlined in the policies below. Because our privacy policy may be updated periodically, we encourage you to review these pages on a regular basis. These privacy policies apply to each of the following Axway web sites:
+### 1) Privacy Policy concerns
 
-[http://www.axway.com](http://www.axway.com/)  
-[http://support.axway.com](http://support.axway.com/)
+The Site Publisher endeavours to protect the privacy of the Users by doing its best efforts to comply with the relevant applicable laws. Therefore, the Site Publisher has developed a “Privacy Policy”.
 
-Information Collected and How It's Used
+This Privacy Policy is part of the “Terms of Use” and aims at informing the Users of the policy to which the Site Publisher commits itself in order to protect their Personal Data.
 
-**Your IP Address**  
-An IP (Internet Protocol) address is automatically assigned to your computer every time you establish a connection on the Internet. Axway uses your IP address to help diagnose problems with our server and to administer our web site. Axway does not link your IP address to any identifiable personal information. Your IP address is used to help identify you and to gather broad demographic information.
+This policy describes how the Site Publisher may collect, record and process Personal Data related to the Users, upon consultation or registration by the Users on the Site.
 
-**Cookies**  
-In computer language, a cookie is used to store data on your computer's hard drive. We use cookies to store your e-mail ID or a unique identifier on your computer so that you don't have to re-enter it each time you visit Axway. We never use cookies to capture or contain personal information from your computer. The only personal information Axway has is what you give to us.
+### 2) Processing Personal Data
 
-**Your Account**  
-When establishing an account with Axway, or requesting information from a Axway web site, you will be asked to submit a request with your contact information address. We may also ask you to provide us some technical, commercial or other interest-based information. Providing such information is optional, however, the more we know about you the better we can provide the products and services you want most and service your business needs.
+The Site Publisher undertakes to make its best efforts so that Your Personal Data:
 
-We use your customer contact information to respond to your e-mail requests and to reach you if we need additional information to complete your product request. Any financial information collected is used only for billing products and services you purchase at Axway. We may also contact you about promotional or upcoming events, or to take part in on-line focus groups or surveys. You may opt-out of these mailings as outlined below in the choice/opt-out section.
+  * Are obtained and treated loyally and legally.
+  * Are collected for determined and legitimate purposes, and used in compliance with these purposes; are appropriate, consistent and not excessive in relation to these purposes.
+  * Benefit from an opposition right that You may easily exercise.
+  * Are accessible, and subjected to a right of amendment or deletion following a request issued by post or electronic mail to the Privacy Policy Contact.
+  * Are held in compliance with the targeted purposes.
+  * Are subject to security measures of such nature to guarantee their safeguard and avoid them to be damaged, altered, destroyed or disclosed to unauthorized third parties.
 
-**Additional Information Collected**  
-When you make a purchase at Axway you will be asked to supply your name, address, general business and credit card information. For your protection Axway does not currently retain or store credit card information; if Axway changes this policy in the future it will provide advance notice on this policy page. Axway will store and use other information provided by you to fill your order. If necessary, we may use this information to reach you if we need additional information to complete your order.
 
-Any personal correspondence you send to us, including e-mail and letters, as well as correspondence from other customers or third parties about your activities or postings pertaining to Axway, and all entries made by you onto our site may be collected and stored. Any notes, ideas, suggestions, or other material submitted by guests will be treated as the property of Axway.
 
-Axway may run contests where we ask guests for contact information such as e-mail or physical addresses. We use contact data from our contests to send guests information about Axway, as well as promotional material from some of our partners. You may opt-out of receiving future mailings as outlined below.
+### 3) Collecting and using Personal Data
 
-**Expunging Your Information From Our Records**  
-To discontinue any email solicitation go to [www.axway.com/unsubscribe](https://web.archive.org/unsubscribe). Please send an email [webmaster@us.axway.com](mailto:webmaster@us.axway.com), or use one of the alternate contact methods listed below to remove your contact information from our database provided we have completed all your pending transactions. Please note, however, that information is never completely removed from our history and disaster recovery archives. We also need to retain sale information for tax records.
+When you visit the Site, You may provide the Site Publisher with some Personal Data, in order to fulfil an information request, and improve the awareness of Your needs, as well as to consult the services offered by the Site.
 
-Disclosure of Information to Third Parties
+**i)    ****Personal data Registration**
 
-**Personal Information**  
-Axway defines personal information as your name, e-mail address, mailing address, method of payment, and any other information that identifies you.
+In compliance with the applicable laws, the Personal Data requested which are non optional to the Site Publisher, and potentially to the Companies in the Group and/or their partners, will be identified as such.
 
-Axway, our suppliers and shippers use your personal information to process and ship your orders. Axway does not sell, trade, rent, or release your personal information to third parties. If we were to ever do so, you will have the opportunity to opt-out beforehand.
+The other Personal Data requested, and which are optional, are asked in order to know You better, and therefore to provide better services, albeit guaranteeing the safeguard of such Personal Data.
 
-**Transactional Information**  
-Axway transactional information such as traffic patterns, sales, aggregate data regarding general shopping patterns, and other site information may be shared with vendors and other reputable third parties. This data will never contain any identifiable personal information of Axway guests. For example, we might share statistics on how many customers purchased a specific product, but we will not specifically disclose who purchased the product.
+It is specified that, the Site Publisher may share Your Personal Data with other Companies in the Group or their partners.
 
-**Legal Issues**  
-Axway discloses personal information when required by law or in the good-faith belief that such action is necessary for the following:
+If You are a customer of the Site Publisher and/or of the Companies in the Group and, unless You opposed it (as provided for in Article 5 hereinafter), the Site Publisher may send information to You, by post and/or by e-mail, including newsletters (hereafter “Newsletter”). This information may concern the Products and Services proposed by the Site Publisher and, Products or Services available from the Companies in the Group.
 
-  * To conform to the edict of the law or comply with a legal process served on Axway or its web site. 
-  * To protect and defend the property rights of Axway, the Axway web site, or that of Axway guests. 
-  * Or to act under exigent circumstances to protect the personal safety of Axway guests, employees, or the general public. 
+**ii)    ****Cookies**
 
-**Other Sites' Policies**  
-Axway has no control over, nor does it bear any of the responsibility for the privacy policies and/or content of any sites or advertisers linked to or on our site. Axway also takes no responsibility for the cookies these sites or advertisers might deposit on your hard drive.Public Terms
+Upon Your visit, the Site Publisher may insert a “cookie” in Your computer. A “cookie” allows to register information concerning Your visit on the Site (pages visited, date and time of the consultation, etc.), that the Site Publisher may read on Your following visit, but that does not enable it to identify You directly. Thus, the information You provide to the Site Publisher when filling a form will not be requested from You again.
 
-Axway's web sites may make chat rooms, forums, message boards, and/or news groups available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any personal or sensitive information.
+### 4) Communication of Personal Data
 
-Safety and Security
+Under no circumstances shall the Site Publisher share or disclose Your Personal Data, except in the following cases:
 
-**Credit Card Security**  
-Axway protects such personal information as your name, address, and credit card number by transferring it over a Secure Socket Layer (SSL) line. This protocol ensures your information is encrypted and cannot be read by others as it travels over the Internet. The secure mode begins as soon as you initiate your order. You should see a locked padlock icon at the bottom of your browser window to indicate you are on a Secure Socket Layer Line. You can also verify you are in secure mode by looking at the URL window in your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https."
+  * when You have given Your prior consent to the Site Publisher (for instance for direct marketing offers);
+  * when the Site Publisher have to share Your Personal Data with third party suppliers, service providers – including its technical support providers – in order to provide You with the service or the information You required (for instance: hosting of Your Personal Data registered on our server          );
+  * when the Site Publisher is compelled by a judicial authority or by Law;
+  * to send You promotional offers or inform You about new Products and Services, unless You have opposed it;
+  * to optimise the Site operation and efficiency. For this purpose, an access diary is compiled for statistical needs, in order to measure the Site frequentation, the most visited pages, or to sort the Users by sector of origin. The data stored in the diary do not allow Your personal identification by name, first name or e-mail address. __
 
-For your protection Axway does not currently retain or store credit card information; if Axway changes this policy in the future it will provide advance notice on this policy page. After Axway receives other data from you, it is stored on a secure server behind a firewall and cannot be accessed from outside the company. The Axway employees who process your order are the only people with access to your personal information. All Axway employees sign a privacy/security policy agreement, which provides legal confidentiality protections for all Axway guests. Any violation of this policy results in disciplinary action, including possible termination, criminal prosecution, and civil action.
 
-Your Consent and Contacting Us
 
-**You consent**  
-By using the Axway Web site, you consent to the collection, storage, and dissemination of personal data as described above. We will post any changes to our privacy policy on this page so you can readily review the most current policy. Axway reserves the right to e-mail you regarding changes to our privacy policy or any other matters Axway considers necessary for the administration of the site.
+### 5) Right of Opposition
 
-**How To Contact Us**  
-If you have any questions regarding our privacy policy please contact [webmaster@us.axway.com](mailto:webmaster@us.axway.com). You can also use this e-mail address to:
+**i)    ****Opt-Out**
 
-  * Remove your contact information from our database 
-  * Notify us of updates to any of your personal account information 
+You can opt out of receiving e-mail communications from us whenever you like. You only need to send an email to [webmaster@axway.com](mailto:webmaster@axway.com), or use one of the alternate contact methods listed below in Article 9 to remove your contact information from our database.
 
-You can also contact us by:
+**ii)    ****Cookies**
 
+You can also to turn off cookies on Your computer by setting your browser accordingly.
+
+### 6) Accessing, amending and deleting Personal data
+
+The Site Publisher informs You that You have the right to access, amend and delete all Your Personal Data, which have been collected as part of Your registration or consultation of the Services or Information provided by the Site Publisher. As such, You may at any time contact the Privacy Policy Contact as provided for in article 9 above.
+
+### 7) Storage of Personal Data
+
+The Site Publisher makes its best efforts to process and store Your Personal Data in compliance with the Privacy Policy terms. As such, the Site Publisher defines a storage period depending on the nature of Personal Data collected and the purpose of their collection. _ _
+
+**i)    ****Personal Data update**
+
+If Your Personal Data are not updated by You, they will be automatically deleted from the database of the Site Publisher _6 months_ after the date of their latest update, or if no update has occurred _6 months_ after Your date of registration.
+
+Concerning the Personal Data collected through application forms, the Site Publisher informs You these Personal Data will be automatically deleted 6 months from the date of Your registration.
+
+Do not hesitate to register again once the delay has expired, in order to be sure that the Site Publisher is aware of Your profile in the event of a new offer.
+
+**ii)    ****Cookies**
+
+This information is stored in your computer for _1 month or subject to the settings in your browser._
+
+### 8) Security
+
+The Site Publisher makes its best efforts to protect Your Personal Data against any sort of damage, loss, misappropriation, intrusion, divulgation, alteration or destruction.
+
+The Site Publisher’s employees, who due to their position may have access to Your Personal Data, are sworn to the utmost confidentiality in this respect.
+
+### 9) How To Contact Us
+
+If you have any questions regarding our Privacy Policy please contact [webmaster@axway.com](mailto:webmaster@axway.com). You can also use this e-mail address to:
+
+  * Remove your contact information from our database
+  * Notify us of updates to any of your personal account information
+
+
+
+You can also contact us by:  
 Toll Free US: 1 877 564 7700  
 International: +1 480 627 1800  
 Fax: +1 480 627 1801
