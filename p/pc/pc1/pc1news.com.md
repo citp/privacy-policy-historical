@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pc1news.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411043431id_/http%3A//www.pc1news.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc1news.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623070430id_/http%3A//www.pc1news.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
