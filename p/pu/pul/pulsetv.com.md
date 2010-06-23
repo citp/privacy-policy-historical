@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the pulsetv.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140947id_/http%3A//www2.pulsetv.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulsetv.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624002733id_/http%3A//www2.pulsetv.com/privacy.asp) for the most accurate reproduction.*
 
-# Pulse Direct, Inc.
+# Privacy - Pulse Direct, Inc.
 
-> > Our pledge to you, our customer
+  
+
+
+> > Our pledge to you, our customer 
 > 
-> PulseTV.com respects your privacy. Our Internet site is meant to be a service to you. In order to provide you with the best products, timely information and quality customer service, we record a variety of information from your visit to our site. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+> PulseTV.com respects your privacy. Our Internet site is meant to be a service to you. In order to provide you with the best products, timely information and quality customer service, we record a variety of information from your visit to our site. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 > 
-> Your personal information: what we collect and how we use it:
+> Your personal information: what we collect and how we use it: 
 > 
-> When you enter personal information in to the Shopping Cart, we collect your name, address, telephone number, e-mail address and credit card information. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we share your personal information with outside parties to the extent necessary to fulfill your order. In addition,
+> When you enter personal information in to the Shopping Cart, we collect your name, address, telephone number, e-mail address and credit card information. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we share your personal information with outside parties to the extent necessary to fulfill your order. In addition, 
 > 
 >   1. Our First Use of the Shopping Cart at PulseTV.com - We use the information you provide to: automatically place you on our e-mail list to receive special offers and updates about products and services, unless you edit your subscription profile at the time your order is placed; and make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you.
->   2. Your Subsequent Use of the Shopping Cart at PulseTV.com - If you have purchased a product from a PulseTV.com company before, unless you edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged. 
+>   2. Your Subsequent Use of the Shopping Cart at PulseTV.com - If you have purchased a product from a PulseTV.com company before, unless you edit your subscription profile at the time your order is confirmed, your subscription status will remain unchanged.
 > 
 
 > 
@@ -32,18 +35,16 @@
 > Requests to be unsubscribed will be processed immediately, however you may receive additional newsletters for up to 1 week. Delays may occur if the email address or postal address information you provide us does not match the information in our database. 
 > 
 > **Links to/from Other Sites**  
->  To enhance your shopping experience, the PulseTV.com site may have links to other sites on the Internet that are owned by third party vendors and other third parties (External Sites), or you may come to PulseTV.com from a link from an External Site. These other web sites will have their own rules on privacy that you should review. PulseTV.com is not responsible for the privacy policies of External Sites.
+>  To enhance your shopping experience, the PulseTV.com site may have links to other sites on the Internet that are owned by third party vendors and other third parties (External Sites), or you may come to PulseTV.com from a link from an External Site. These other web sites will have their own rules on privacy that you should review. PulseTV.com is not responsible for the privacy policies of External Sites. 
 > 
-> **Cookies**   
->  PulseTV.com uses a feature of your Internet Web browser called a cookie to assign an identification code to your computer. Cookies are files that your Web browser places on your computer’s hard drive. We do not and cannot use cookies to retrieve personal information about you from your computer unless such information was knowingly and willingly provided by you. Cookies do not provide us with access to any credit card information.
+> **Cookies**  
+>  PulseTV.com uses a feature of your Internet Web browser called a cookie to assign an identification code to your computer. Cookies are files that your Web browser places on your computer’s hard drive. We do not and cannot use cookies to retrieve personal information about you from your computer unless such information was knowingly and willingly provided by you. Cookies do not provide us with access to any credit card information. 
 > 
 > **Third Party Cookies**  
->  In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+>  In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 > 
 > **Our Commitment to Data Security**  
->  To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+>  To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 > 
 > **Notice of Changes**  
->  PulseTV.com’s Privacy Policy is subject to change without notice. At any time, you may visit our website to view the current policy.
-
-> 
+>  PulseTV.com’s Privacy Policy is subject to change without notice. At any time, you may visit our website to view the current policy. 
