@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govteen.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222073507id_/http%3A//www.govteen.com/%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govteen.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623215653id_/http%3A//www.govteen.com/%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # GovTeen.Com :: Welcome to Gov! -- Our Privacy Policy
 
@@ -16,7 +16,7 @@ Security | Special Note about Children and COPPA
 Preferences | Anything Else...?  
 Remove Personally Identifying Info |    
   
-Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time, so please check back periodically. If you have any comments or questions about any of the below, please contact a member of the GovTeen staff [here](https://web.archive.org/web/20091222073507id_/http%3A//www.govteen.com/%3Ftopic%3Dprivacy?topic=staff).  
+Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time, so please check back periodically. If you have any comments or questions about any of the below, please contact a member of the GovTeen staff [here](https://web.archive.org/web/20100623215653id_/http%3A//www.govteen.com/%3Ftopic%3Dprivacy?topic=staff).  
 **Our promise to you...**  
   | All the information we collect from you will be for statistical and demographic purposes only, with the only exceptions to this in the next section.  
 **** We **will not** give out your information or sell it to others, or to third parties. It will be used for non-commercial purposes only.  
@@ -75,7 +75,7 @@ Please read the following policy to understand how your personal information wil
 **** We do not share your preferences with third parties.  
   |   
 **How Can I Remove My Personally Identifying Information?**  
-  | **** You can notify us at any time to remove your registration information from our database by emailing or sending a private message on the forums to any [staff member](https://web.archive.org/web/20091222073507id_/http%3A//www.govteen.com/%3Ftopic%3Dprivacy?topic=staff) who is a forum administrator. Upon termination of your member account, we will not keep any personal records concerning you except as required by law.  
+  | **** You can notify us at any time to remove your registration information from our database by emailing or sending a private message on the forums to any [staff member](https://web.archive.org/web/20100623215653id_/http%3A//www.govteen.com/%3Ftopic%3Dprivacy?topic=staff) who is a forum administrator. Upon termination of your member account, we will not keep any personal records concerning you except as required by law.  
   |   
 **How Can I Change My Personally Identifying Information?**  
   | **** This site gives users the following options for changing and modifying information previously provided.  
@@ -85,7 +85,7 @@ Please read the following policy to understand how your personal information wil
   | **** In your [profile](http://forums.govteen.com/usercp.php?s=) (user control panel) you will find an option _Hide your online status_ , if you switch this on you'll only appear to board administrators or to yourself. You will be counted as a hidden user.  
   |   
 **I keep getting unwanted private messages**  
-  | **** If you keep receiving unwanted private messages from someone inform any [GovTeen Administrator](https://web.archive.org/web/20091222073507id_/http%3A//www.govteen.com/%3Ftopic%3Dprivacy?topic=staff), they have the power to prevent a user from sending private messages at all.  
+  | **** If you keep receiving unwanted private messages from someone inform any [GovTeen Administrator](https://web.archive.org/web/20100623215653id_/http%3A//www.govteen.com/%3Ftopic%3Dprivacy?topic=staff), they have the power to prevent a user from sending private messages at all.  
   |   
 **Preventing others from seeing your information**  
   | **** The forum software we provide allows you to prevent all regular users from seeing your e-mail address.  
@@ -120,7 +120,7 @@ Please read the following policy to understand how your personal information wil
   
   |   
 **Anything Else...?**  
-  | **** Are we forgetting anything? Do you have any other questions we can answer for you and place on this page so others don't have the same questions? Is any part of this Policy, or any other of our site policies, unclear in any way? Please contact us [here](https://web.archive.org/web/20091222073507id_/http%3A//www.govteen.com/%3Ftopic%3Dprivacy?topic=staff).  
+  | **** Are we forgetting anything? Do you have any other questions we can answer for you and place on this page so others don't have the same questions? Is any part of this Policy, or any other of our site policies, unclear in any way? Please contact us [here](https://web.archive.org/web/20100623215653id_/http%3A//www.govteen.com/%3Ftopic%3Dprivacy?topic=staff).  
 ****[Visitor Agreement](http://www.govteen.com/?topic=visitoragree)  
 ****[Terms of Service](http://forums.govteen.com/tos.php)  
 ****[COPPA](http://www.govteen.com/?topic=coppa)  
