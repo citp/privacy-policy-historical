@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the poolexpert.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215094358id_/http%3A//www.poolexpert.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolexpert.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623073400id_/http%3A//www.poolexpert.com/privacy.asp) for the most accurate reproduction.*
 
 # PoolExpert.com - NHL Hockey and MLB Baseball Pool Manager - Free trial
 
   
-Privacy Statement| [](https://web.archive.org/web/20091215094358id_/http%3A//www.poolexpert.com/privacy.asp?ui=pr)  
+Privacy Statement| [](https://web.archive.org/web/20100623073400id_/http%3A//www.poolexpert.com/privacy.asp?ui=pr)  
 ---|---  
   
 PoolExpert has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for all PoolExpert' Web sites. 
