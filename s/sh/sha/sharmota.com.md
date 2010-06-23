@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sharmota.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607082720id_/http%3A//www.sharmota.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharmota.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623064025id_/http%3A//www.sharmota.com/privacy.php) for the most accurate reproduction.*
 
-# Sharmota.com - Flash Porn Videos, Free Sample Pictures and Videos.
+# Sharmota шармута شرموطة: Free Arab Porn Tube & Arab Sex Videos -
 
 #### **Sharmota.com.** ("Sharmota") recognizes that its customers, visitors, users, and others who use [www.Sharmota.com](http://www.sharmota.com/) or other web sites owned or operated by Sharmota (the "Sharmota Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Sharmota Sites. Sharmota provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Sharmota Sites.
 
-#### This Privacy Notice is incorporated into and is subject to the [Sharmota Terms of Use](https://web.archive.org/web/20080607082720id_/http%3A//www.sharmota.com/terms.php). Your use of the Sharmota Sites and any personal information you provide on the Sharmota Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20080607082720id_/http%3A//www.sharmota.com/terms.php).
+#### This Privacy Notice is incorporated into and is subject to the [Sharmota Terms of Use](http://www.sharmota.com/terms.php). Your use of the Sharmota Sites and any personal information you provide on the Sharmota Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](http://www.sharmota.com/terms.php).
 
 #### Please note that any video, image, or other content posted at the direction of Users onto the Sharmota Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
@@ -20,7 +20,7 @@
 
   * If you submit personally identifiable information to us through the Sharmota Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Sharmota Sites.
   * Any personal information or photo/video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the Sharmota Sites and other Users can contact you through messages and comments. Any videos that you submit to the Sharmota Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Sharmota Site changes or for customer service purposes).
+  *  **We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent** or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Sharmota Site changes or for customer service purposes).
   * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, click data, etc.) to improve the quality and design of the Sharmota Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
   * We use cookies and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Sharmota Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
 
@@ -32,17 +32,17 @@
   * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
   * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Sharmota Sites.
   * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  * Sharmota also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Sharmota believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20080607082720id_/http%3A//www.sharmota.com/terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Sharmota, our Users or others. 
+  * Sharmota also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Sharmota believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](http://www.sharmota.com/terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Sharmota, our Users or others. 
 
 
 
 #### **Your Choices:**
 
-#### You may, of course, decline to submit personally identifiable information through the Sharmota Sites, in which case Sharmota may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](https://web.archive.org/my_profile.php). Please note that media files uploaded by Users to the Sharmota Sites remain subject to our [Terms of Use](https://web.archive.org/web/20080607082720id_/http%3A//www.sharmota.com/terms.php).
+#### You may, of course, decline to submit personally identifiable information through the Sharmota Sites, in which case Sharmota may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](http://www.sharmota.com/my_profile.php). Please note that media files uploaded by Users to the Sharmota Sites remain subject to our [Terms of Use](http://www.sharmota.com/terms.php).
 
 #### To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-#### Please contact Sharmota with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact form](https://web.archive.org/contactus.php).
+#### Please contact Sharmota with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact form](http://www.sharmota.com/contactus.php).
 
 #### **Third-party Advertisers, Links to Other Sites:**
 
@@ -56,7 +56,7 @@
 
 #### Sharmota uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Sharmota and you do so at your own risk. Once we receive your transmission of information, Sharmota makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-#### If Sharmota learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Sharmota may post a notice on the Sharmota Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](https://web.archive.org/contactus.php).
+#### If Sharmota learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Sharmota may post a notice on the Sharmota Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](http://www.sharmota.com/contactus.php).
 
 #### **Our Commitment To Children's Privacy:**
 
@@ -64,7 +64,7 @@
 
 #### **Special Note to International Users:**
 
-#### The Sharmota Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Sharmota Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Sharmota Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20080607082720id_/http%3A//www.sharmota.com/terms.php), you are transferring your personal information to the United States and you consent to that transfer.
+#### The Sharmota Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Sharmota Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Sharmota Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](http://www.sharmota.com/terms.php), you are transferring your personal information to the United States and you consent to that transfer.
 
 #### **In the Event of Merger, Sale, or Bankruptcy:**
 
