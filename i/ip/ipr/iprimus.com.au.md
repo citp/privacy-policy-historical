@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221224816id_/http%3A//www.iprimus.com.au/PrimusWeb/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623121437id_/http%3A//www.iprimus.com.au/PrimusWeb/Privacy) for the most accurate reproduction.*
 
 # Privacy - Primus Telecom
 
@@ -79,7 +79,7 @@ Primus will take reasonable steps to ensure that all information we collect, use
 
 ## Access and correction of personal information
 
-You have the right to access the personal information we hold about you. Primus will generally not charge you with a fee for access to your personal information, unless requests are considered unnecessarily numerous, extensive or otherwise vexatious. Also if you wish to have a copy of the personal information, charges that cover Primus’ administrative costs of providing the information to you might apply. To request access to your personal information, please contact Primus Customer Service on 1300 85 11 85 or [email us](http://www.iprimus.com.au/PrimusWeb/ContactUs/ "email us").
+You have the right to access the personal information we hold about you. Primus will generally not charge you with a fee for access to your personal information, unless requests are considered unnecessarily numerous, extensive or otherwise vexatious. Also if you wish to have a copy of the personal information, charges that cover Primus’ administrative costs of providing the information to you might apply. To request access to your personal information, please contact Primus Customer Service on 1300 85 85 85 or [email us](http://www.iprimus.com.au/PrimusWeb/ContactUs/ "email us").
 
 If for any reason Primus refuses to give you access to your personal information, we will provide you with the reasons for our decision. The circumstances in which access to personal information may be limited or denied include where giving you access:
 
@@ -90,7 +90,7 @@ If for any reason Primus refuses to give you access to your personal information
 
 
 
-If you believe that we hold personal information that you consider to be inaccurate, incomplete or not up-to-date, please contact our Customer Service on 1300 85 11 85. In most cases we will amend any inaccurate, incomplete or not up to date information. In the event of an unresolved disagreement, either you or Primus may append an explanatory note to the data in question.
+If you believe that we hold personal information that you consider to be inaccurate, incomplete or not up-to-date, please contact our Customer Service on 1300 85 85 85. In most cases we will amend any inaccurate, incomplete or not up to date information. In the event of an unresolved disagreement, either you or Primus may append an explanatory note to the data in question.
 
 ## Privacy Complaints and Organisational Details
 
@@ -102,6 +102,6 @@ PO Box 631
 Collins Street West  
 Melbourne VICTORIA 8007
 
-Fax: 1300 85 11 58
+Fax: 1300 85 58 58
 
 Or [email us](http://www.iprimus.com.au/PrimusWeb/ContactUs/ "email us").
