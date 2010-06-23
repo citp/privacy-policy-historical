@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the edenproject.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222080405id_/http%3A//www.edenproject.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edenproject.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624010357id_/http%3A//www.edenproject.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy policy
-
-## Privacy Policy
+# Eden Project privacy policy
 
 Eden Project is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our offerings.
 
