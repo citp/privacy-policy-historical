@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221060055id_/http%3A//www.brctv.com/customer_care/customer_news/notifications.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brctv.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623184338id_/http%3A//www.brctv.com/customer_care/customer_news/notifications.php) for the most accurate reproduction.*
 
 # Customer Notifications : Blue Ridge Communications
 
@@ -218,7 +218,7 @@ Phone:(610) 767-6383
 Phone:(570) 724-4516   
 **Hours Sat** : 9am-1pm  
   
-[](http://www.brctv.com/prodserv/digital_cable/)
+[](http://www.pennspeakradio.com/?s=28)
 
 |  |   
 ---
