@@ -1,60 +1,54 @@
-> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221045943id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623055013id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
 
-# Carfolio.com Privacy Policy - Carfolio.com car specifications pages
+# Carfolio.com Privacy Policy
+
+## Four generations of racing-inspired BMW M3 special editions
+
+The [BMW M3](http://www.carfolio.com/search/results/?terms=bmw+m3&num=50) has been the pinnacle of the BMW 3-series range for 4 model series: the [E30](http://www.carfolio.com/search/results/?mf=E30), [E36](http://www.carfolio.com/search/results/?mf=E36), [E46](http://www.carfolio.com/search/results/?mf=E46) and [E90](http://www.carfolio.com/search/results/?mf=E90)/[E92](http://www.carfolio.com/search/results/?mf=E92)/[E93](http://www.carfolio.com/search/results/?mf=E93). Although any BMW M3 is special in its own right, in each of these model series BMW has produced limited edition M3 models that borrow heavily from racing traditions. 
+
+[More...](https://web.archive.org/article/?id=244 "Four generations of racing-inspired BMW M3 special editions")
+
+## Audi's A1 Luxury Baby - Full Details
+
+The long-awaited [2010 Audi A1](http://www.carfolio.com/search/results/?terms=2010+audi+a1) is about to hit the markets, Audi have recently released the specifications of the A1 range at launch date. Sitting on a 2469 mm wheelbase and with an overall length of just 3954 mm, the Audi A1 is the smallest Audi models since the [Audi A2](http://www.carfolio.com/search/results/?terms=audi+a2). 
+
+[More...](https://web.archive.org/article/?id=243 "Audi's A1 Luxury Baby - Full Details")
+
+## Carfolio ID Mix-up fixed
+
+Apologies for the brief mix-up with the Carfolio ID numbers. The issue was caught quickly and fixed quickly. 
+
+[More...](https://web.archive.org/article/?id=242 "Carfolio ID Mix-up fixed")
+
+## 305 km/h BMW M3 GTS given production go-ahead
+
+The most hardcore BMW M3 yet - the [BMW M3 GTS](http://www.carfolio.com/specifications/models/car/?car=213620) \- will be available on the market, BMW has confirmed. With a longer stroke (82.0 mm - up from 75.2 mm on the standard E90 BMW M3), the V8 engine now displaces 4361 cc (E90 M3: 3999 cc). 
+
+[More...](https://web.archive.org/article/?id=240 "305 km/h BMW M3 GTS given production go-ahead")
+
+## New Alfa Romeo Giulietta Launched
+
+The latest Alfa Romeo range to be launched is the new [Alfa Romeo Giulietta](http://www.carfolio.com/search/results/?terms=2010+alfa+romeo+giulietta), which goes on sale from May 2010. The range comprises of 3 petrol and 2 diesel engine options, all equipped with six speed manual gearboxes. 
+
+[More...](https://web.archive.org/article/?id=239 "New Alfa Romeo Giulietta Launched")
+
+## Ferrari reveals latest GTO
+
+The original [Ferrari 250 GTO](http://www.carfolio.com/specifications/models/car/?car=1518) is revered as one of the paragons of racecars homologated for road use. A second GTO, the [Ferrari 288 GTO](http://www.carfolio.com/specifications/models/car/?car=1320), still inspires and enthrals with the performance it gave when introduced in 1984. 
+
+[More...](https://web.archive.org/article/?id=238 "Ferrari reveals latest GTO")
+
+## New Server Operational
+
+After some long delays, the new Carfolio.com server is up and running. Hopefully the new hardware provides a substantial performance increase. 
+
+[More...](https://web.archive.org/article/?id=237 "New Server Operational")
 
 ## Performance issues resolved
 
 Carfolio.com has been struggling under the weight of massive amounts of spam over the last few days. Performance degraded to the point where it was almost unusable. 
 
 [More...](https://web.archive.org/article/?id=236 "Performance issues resolved")
-
-## New details about the Mercedes-Benz SLS AMG Gullwing
-
-The [Mercedes-Benz SLS AMG "Gullwing"](https://web.archive.org/specifications/models/car/?car=195998) is due to debut at the Frankfurt motor show on 15 September 2009. Having released some details about the new coupé some time back, today Mercedes-Benz have given us more details about the car, and a few new pictures too. 
-
-[More...](https://web.archive.org/article/?id=234 "New details about the Mercedes-Benz SLS AMG Gullwing")
-
-## A roundup of updates
-
-A bunch of new manufacturers make their appearance in the Carfolio.com database for the first time. Well, new to the database anyway. 
-
-[More...](https://web.archive.org/article/?id=233 "A roundup of updates")
-
-## Ferrari's new 458 Italia
-
-Ferrari have released some details about their [F430](http://www.carfolio.com/specifications/models/car/?car=121000) replacement, the [Ferrari 458 Italia](http://www.carfolio.com/specifications/models/car/?car=200442). The 458 Italia features direct petrol injection - the first such application in a mid-engined road car for Ferrari, and an enlarged 4499cc V8 that produces 570 PS (419 kW) at 9000 rpm and 540 Nm of torque at 6000 rpm, an impressive 127 PS/litre specific output. 
-
-[More...](https://web.archive.org/article/?id=232 "Ferrari's new 458 Italia")
-
-## Porsche's 4 door Panamera specifications revealed
-
-The eagerly-anticipated Porsche Panamera specifications have been released in full. The Panamera range comprises of three models, the [Panamera S](https://web.archive.org/specifications/models/car/?car=197989), [Panamera 4S](https://web.archive.org/specifications/models/car/?car=197956) and [Panamera Turbo](https://web.archive.org/specifications/models/car/?car=198000). 
-
-[More...](https://web.archive.org/article/?id=231 "Porsche's 4 door Panamera specifications revealed")
-
-## Aston Martin V12 Vantage
-
-Aston Martin have announced details of the new [Aston Martin V12 Vantage](http://www.carfolio.com/specifications/models/car/?car=194854). Here follows part of their official press release for it: Agility and outright performance formed the basis of design for the V12 Vantage to produce the most exciting incarnation of the Vantage model line-up to date. 
-
-[More...](https://web.archive.org/article/?id=230 "Aston Martin V12 Vantage")
-
-## Ferrari Scuderia Spider 16M
-
-Ferrari have released details on a new models that has been produced to celebrate the marque's 16th Formula One Constructors' World Championship, which they won this year. Based on the F430 Spider, the [Ferrari Scuderia Spider 16M](http://www.carfolio.com/specifications/models/car/?car=191136) features upgrades from the 430 Sucderia. 
-
-[More...](https://web.archive.org/article/?id=229 "Ferrari Scuderia Spider 16M")
-
-## Bugatti Veyron 16.4 Grand Sport unveiled at Pebble Beach
-
-Pebble Beach saw the world premier of Bugatti's newest Veyron model, the [Bugatti Veyron 16.4 Grand Sport](http://www.carfolio.com/specifications/models/car/?car=186329). A removable roof adds open top motoring potential to the Veyron's list of capabilities. 
-
-[More...](https://web.archive.org/article/?id=228 "Bugatti Veyron 16.4 Grand Sport unveiled at Pebble Beach")
-
-## Audi RS6 Saloon
-
-The [Audi RS6 Avant](http://www.carfolio.com/specifications/models/car/?car=160644) was launched some time ago already, and Audi have now released some details about the forthcoming [Audi RS6](http://www.carfolio.com/specifications/models/car/?car=185911) saloon. The saloon shares the overall dimensions with the Avant - a 2846 mm wheelbase, 4928 mm length and 1889 mm width. 
-
-[More...](https://web.archive.org/article/?id=227 "Audi RS6 Saloon")
 
 [See all articles](https://web.archive.org/article/ "List of all articles")
 
