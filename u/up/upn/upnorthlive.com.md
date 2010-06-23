@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upnorthlive.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222033001id_/http%3A//www.upnorthlive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upnorthlive.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623034219id_/http%3A//www.upnorthlive.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
 # Privacy Policy : About : WPBN TV 7&4
 
@@ -6,7 +6,7 @@
 
 At Barrington Broadcasting Corporation, "Barrington," we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This privacy policy applies to those Web sites that are part of the Barrington Network.
 
-Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an [e-mail message](mailto:sbernard@barringtontv.com).
+Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an [e-mail message](mailto:info@barringtontv.com).
 
 **Collection of Personal Information**
 
@@ -93,11 +93,11 @@ If we decide to change this privacy policy, we will post those changes here so t
 
 If you have any questions or comments about this policy or our use of personal information, you may send an email or send a letter to the following address:
 
-David Buonfiglio  
+Barrington Interactive  
 Barrington Broadcasting Corporation  
 2500 W. Higgins Road, Suite 155  
 Hoffman Estates, IL 60169  
-[Send an Email Message](mailto:dbuonfiglio@barringtontv.com)
+[Send an Email Message](mailto:info@barringtontv.com)
 
 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
 
