@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsite.co.uk privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222040534id_/http%3A//www.mrsite.co.uk/priv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsite.co.uk privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624012053id_/http%3A//www.mrsite.co.uk/priv.asp) for the most accurate reproduction.*
 
 # Mr Site - Website builder - beginners - standard and professional
 
