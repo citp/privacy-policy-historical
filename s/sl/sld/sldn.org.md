@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sldn.org privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222220351id_/http%3A//www.sldn.org/pages/sldn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sldn.org privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624005015id_/http%3A//www.sldn.org/pages/sldn-privacy-policy) for the most accurate reproduction.*
 
 # Servicemembers Legal Defense Network
 
