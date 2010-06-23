@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the customerhub.net privacy policy that was archived on 2009-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091203125038id_/http%3A//www.customerhub.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the customerhub.net privacy policy that was archived on 2010-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100623063627id_/http%3A//www.customerhub.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 
@@ -12,7 +12,7 @@
 <link rel="stylesheet" type="text/css" href="http://www.customerhub.net/wp-content/themes/eProduct/style.css" media="screen">
 
     <link href="http://www.customerhub.net/wp-content/themes/eProduct/custom.css" rel="stylesheet" type="text/css">
-<link rel="icon" type="image/png" href="/wp-content/uploads/2009/11/customerhub_favicon.ico">
+<link rel="icon" type="image/png" href="/wp-content/uploads/2009/12/favicon1.ico">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.customerhub.net/feed/">
 
 <link rel="pingback" href="http://www.customerhub.net/xmlrpc.php">
@@ -22,208 +22,70 @@
 <![endif]-->
 
 
+<!-- Infusionsoft Form Validator -->
 
+<script language="JavaScript" type="text/javascript">
+  function validateThisForm(form)
+  {
+    var re;
+    re = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,})+$/;
+    var errors = "";
 
-
-<!-- Validator -->
-
-<script type="text/javascript">
-
-function validateAll(formObject) {
-	//check to see if all required fields are filled out
-	if (!formValidate(formObject)) { // call the function which lists all required fields below
-		return false;
-	}
-	// if (!formValidatePayment(formObject)) {
-	// 		return false;
-	// 	}
-
-	// return check_form();
-}
-
-function formValidate(form) {
-	var flds = new Array();
-	var errors = new Array();
-	var you = "The following fields are required: ";
-
-	//All required fields below
-	//(Name_of_field, value_to_display)
-	flds.push(new Array("Contact0FirstName",      			 "First Name"));
-	flds.push(new Array("Contact0LastName",     			 "Last Name"));
-	flds.push(new Array("Contact0Email",        			 "Email Address"));
-	
-	//loop through all the fields
-	for(i=0; i<flds.length; i++) {
-		var ary = flds[i];
-		var field = eval("document.register." + ary[0]);
-		var msg = ary[1];
-		//if any of the default values are in the fields push to error msg
-	        if(field.value == "First Name" || field.value == "Last Name" || field.value == "Email Address"
-	        || field.value == "Street Address" || field.value == "City" || field.value == "State" || field.value == "Postal Code" || field.value == "") {
-	        errors.push(msg);
-	        }
-	}
-	
-	//if errors doesn't have any values then the form is passed
-	if(errors.length>0) {
-		for(i=0; i<errors.length; i++){
-			you += "\n- " + errors[i];
-		}
-		alert(you);
-		return false;
-	}
-	
-	//check to make sure terms and conditions are checked
-	// if (document.register.Terms.checked==false) {
-	// 	alert ('Please read and accept the Terms and Conditions!');
-	// 	return false;
-	// }	
-	
-	
-	//all required fields are met
-	return true;
-}
-
+    if(form.Contact0FirstName && form.Contact0FirstName.value == "")
+    {
+      errors += " - First Name\n";
+    }
+    if(form.Contact0LastName && form.Contact0LastName.value == "")
+    {
+      errors += " - Last Name\n";
+    }
+    if (form.Contact0Email && re.test(form.Contact0Email.value) == false)
+    {
+      errors += " - Email Address\n";
+    }
+    if(form.Contact0Phone1 && form.Contact0Phone1.value == "")
+    {
+      errors += " - Phone\n";
+    }
+    if(form.Contact0StreetAddress1 && form.Contact0StreetAddress1.value == "")
+    {
+      errors += " - Street Address\n";
+    }
+    if(form.Contact0City && form.Contact0City.value == "")
+    {
+      errors += " - City\n";
+    }
+    if(form.Contact0State && form.Contact0State.value == "")
+    {
+      errors += " - State\n";
+    }
+    if(form.Contact0PostalCode && form.Contact0PostalCode.value == "")
+    {
+      errors += " - Postal Code\n";
+    }
+    if(form.Contact0Country && form.Contact0Country.value == "")
+    {
+      errors += " - Country\n";
+    }
+    if(form.Username && form.Username.value == "")
+    {
+      errors += " - Username\n";
+    }
+    if(form.Password && form.Password.value == "")
+    {
+      errors += " - Password\n";
+    }
+    if (errors.length > 0)
+    {
+      alert("The following fields are required: \n\n" + errors);
+      errors = "";
+      return false;
+    }
+    return true;
+ }
 </script>
 
-<!-- End Validator -->
-
-<!-- Affiliate Validator -->
-
-<script type="text/javascript">
-			  function checkForm() {
-			  Contact0FirstName = document.getElementById("Contact0FirstName").value;
-			  Contact0LastName = document.getElementById("Contact0LastName").value;
-			  Contact0StreetAddress1 = document.getElementById("Contact0StreetAddress1").value;
-			  Contact0Email = document.getElementById("Contact0Email").value;
-			  Contact0City = document.getElementById("Contact0City").value;
-			  Contact0Phone1 = document.getElementById("Contact0Phone1").value;
-			  Contact0State = document.getElementById("Contact0State").value;
-			  Contact0PostalCode = document.getElementById("Contact0PostalCode").value;
-			  Username = document.getElementById("Username").value;
-			  Password = document.getElementById("Password").value;
-			  Contact0Country2 = document.getElementById("Contact0Country2").value;
-			  RetypePassword = document.getElementById("RetypePassword").value;
-			  
-			  
-			  if (Contact0FirstName == "") {
-			  hideAllErrors();
-			  document.getElementById("Contact0FirstNameError").style.display = "inline";
-			  document.getElementById("Contact0FirstName").select();
-			  document.getElementById("Contact0FirstName").focus();
-			  return false;			  
-			  } 
-			  
-			  else if (Contact0LastName == "") {
-			  hideAllErrors();
-			  document.getElementById("Contact0LastNameError").style.display = "inline";
-			  document.getElementById("Contact0LastName").select();
-			  document.getElementById("Contact0LastName").focus();
-			  return false;
-			  }
-			  
-			  else if (Contact0StreetAddress1 == "") {
-			  hideAllErrors();
-			  document.getElementById("Contact0StreetAddress1Error").style.display = "inline";
-			  document.getElementById("Contact0StreetAddress1").select();
-			  document.getElementById("Contact0StreetAddress1").focus();
-			  return false;
-			  }
-			  
-			  else if (Contact0Email == "") {
-			  hideAllErrors();
-			  document.getElementById("Contact0EmailError").style.display = "inline";
-			  document.getElementById("Contact0Email").select();
-			  document.getElementById("Contact0Email").focus();
-			  return false;
-			  }
-			  
-			  else if (Contact0City == "") {
-			  hideAllErrors();
-			  document.getElementById("Contact0CityError").style.display = "inline";
-			  document.getElementById("Contact0City").select();
-			  document.getElementById("Contact0City").focus();
-			  return false;
-			  }
-			  
-			  else if (Contact0Phone1 == "") {
-			  hideAllErrors();
-			  document.getElementById("Contact0Phone1Error").style.display = "inline";
-			  document.getElementById("Contact0Phone1").select();
-			  document.getElementById("Contact0Phone1").focus();
-			  return false;
-			  }
-			  
-			  else if (Contact0State == "") {
-			  hideAllErrors();
-			  document.getElementById("Contact0StateError").style.display = "inline";
-			  document.getElementById("Contact0State").select();
-			  document.getElementById("Contact0State").focus();
-			  return false;
-			  }
-			  
-			  else if (Username == "") {
-			  hideAllErrors();
-			  document.getElementById("UsernameError").style.display = "inline";
-			  document.getElementById("Username").select();
-			  document.getElementById("Username").focus();
-			  return false;
-			  }
-			  
-			  else if (Contact0PostalCode == "") {
-			  hideAllErrors();
-			  document.getElementById("Contact0PostalCodeError").style.display = "inline";
-			  document.getElementById("Contact0PostalCode").select();
-			  document.getElementById("Contact0PostalCode").focus();
-			  return false;
-			  }
-			  
-			  else if (Password == "") {
-			  hideAllErrors();
-			  document.getElementById("PasswordError").style.display = "inline";
-			  document.getElementById("Password").select();
-			  document.getElementById("Password").focus();
-			  return false;
-			  }
-			  
-			  else if (Contact0Country2 == "") {
-			  hideAllErrors();
-			  document.getElementById("Contact0Country2Error").style.display = "inline";
-			  document.getElementById("Contact0Country2").select();
-			  document.getElementById("Contact0Country2").focus();
-			  return false;
-			  }
-			  
-			  else if (RetypePassword == "") {
-			  hideAllErrors();
-			  document.getElementById("RetypePasswordError").style.display = "inline";
-			  document.getElementById("RetypePassword").select();
-			  document.getElementById("RetypePassword").focus();
-			  return false;
-			  }
-			  
-			  return true;
-			  }
-			  			  
-			  function hideAllErrors() {
-			  document.getElementById("Contact0FirstNameError").style.display = "none"
-			  document.getElementById("Contact0LastNameError").style.display = "none"
-			  document.getElementById("Contact0StreetAddress1Error").style.display = "none"
-			  document.getElementById("Contact0EmailError").style.display = "none"
-			  document.getElementById("Contact0CityError").style.display = "none"
-			  document.getElementById("Contact0Phone1Error").style.display = "none"
-			  document.getElementById("Contact0StateError").style.display = "none"
-			  document.getElementById("UsernameError").style.display = "none"
-			  document.getElementById("Contact0PostalCodeError").style.display = "none"
-			  document.getElementById("PasswordError").style.display = "none"
-			  document.getElementById("Contact0Country2Error").style.display = "none"
-			  document.getElementById("RetypePasswordError").style.display = "none"
-			  }
-			  
-		</script>
-
-<!-- End Affiliate Validator -->
-
+<!-- End Infusionsoft Form Validator -->
 
 <script type="text/javascript" src="http://www.customerhub.net/wp-content/themes/eProduct/library/js/pngfix.js"></script>
 <script type="text/javascript" src="http://www.customerhub.net/wp-content/themes/eProduct/library/js/pngfix.js"></script>
@@ -235,7 +97,7 @@ function formValidate(form) {
  margin: 10px 0;
  padding:10px;
  border: 1px dotted #dddddd;
- background: #4b9cd6 url(http://test.customerhub.net/wp-content/themes/eProduct/images/formBG.gif) top repeat-x;
+ background: #4b9cd6 url(http://www.customerhub.net/wp-content/themes/eProduct/images/formBG.gif) top repeat-x;
  line-height: 20px;
  color: #fff;
 }
@@ -308,12 +170,12 @@ function formValidate(form) {
 		<ul class="page-menu">
 					
 			<li class="hometab "><a href="http://www.customerhub.net/">Home</a></li>
-				
-		    <li><a href="http://www.customerhub.net/?cat=1" title="Blog">Blog</a></li>								
-		    <li class="page_item page-item-144"><a href="http://www.customerhub.net/demo/" title="Demo">Demo</a></li>
-<li class="page_item page-item-375"><a href="http://www.customerhub.net/features/" title="Features">Features</a></li>
+
+		    <li class="page_item page-item-375"><a href="http://www.customerhub.net/features/" title="Features">Features</a></li>
+<li class="page_item page-item-144"><a href="http://www.customerhub.net/demo/" title="Demo">Demo</a></li>
 <li class="page_item page-item-17"><a href="http://www.customerhub.net/pricing/" title="Pricing">Pricing</a></li>
-            
+		
+		    <li><a href="http://www.customerhub.net/?cat=1" title="Blog">Blog</a></li>            
 											        
 		</ul><!--/page-menu-->
 				                
@@ -326,8 +188,8 @@ function formValidate(form) {
     <div id="page_head" class="container_12">
 								
 	    <h1>Privacy Policy</h1>
-	    <div align="center" style="float:right; margin-top:-35px; margin-right:-20px; padding-bottom: 5px;">
-                  <a href="https://signup.customerhub.net/account/new"><img src="http://test.customerhub.net/wp-content/themes/eProduct/images/activateButton.png" width="248" height="38" border="0"></a>
+	    <div align="center" style="float:right; margin-top:-40px; margin-right:-15px; padding-bottom: 5px;">
+                  <a href="https://signup.customerhub.net/account/new"><img src="http://www.customerhub.net/wp-content/themes/eProduct/images/activateButton.png" width="221" height="48" border="0"></a>
             </div> 					
 	</div>
 	
@@ -368,7 +230,7 @@ function formValidate(form) {
 		
     	        <div class="sidebar-in_bottom">
         	 
-	         <div class="menu"><ul><li><a href="http://www.customerhub.net">Home</a></li><li class="page_item page-item-144"><a href="http://www.customerhub.net/demo/" title="Demo">Demo</a></li><li class="page_item page-item-375"><a href="http://www.customerhub.net/features/" title="Features">Features</a></li><li class="page_item page-item-461"><a href="http://www.customerhub.net/screenshots/" title="Screenshots">Screenshots</a></li><li class="page_item page-item-17"><a href="http://www.customerhub.net/pricing/" title="Pricing">Pricing</a></li><li class="page_item page-item-154"><a href="http://www.customerhub.net/testimonials/" title="Testimonials">Testimonials</a></li><li class="page_item page-item-5"><a href="http://www.customerhub.net/affiliates/" title="Affiliates">Affiliates</a></li><li class="page_item page-item-36 current_page_item"><a href="http://www.customerhub.net/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li><li class="page_item page-item-2"><a href="http://www.customerhub.net/about/" title="About">About</a></li></ul></div>
+	         <div class="menu"><ul><li><a href="http://www.customerhub.net">Home</a></li><li class="page_item page-item-375"><a href="http://www.customerhub.net/features/" title="Features">Features</a></li><li class="page_item page-item-144"><a href="http://www.customerhub.net/demo/" title="Demo">Demo</a></li><li class="page_item page-item-461"><a href="http://www.customerhub.net/screenshots/" title="Screenshots">Screenshots</a></li><li class="page_item page-item-17"><a href="http://www.customerhub.net/pricing/" title="Pricing">Pricing</a></li><li class="page_item page-item-154"><a href="http://www.customerhub.net/testimonials/" title="Testimonials">Testimonials</a></li><li class="page_item page-item-5"><a href="http://www.customerhub.net/affiliates/" title="Affiliates">Affiliates</a></li><li class="page_item page-item-36 current_page_item"><a href="http://www.customerhub.net/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li><li class="page_item page-item-2"><a href="http://www.customerhub.net/about/" title="About">About</a></li></ul></div>
                
         
 		</div> 
@@ -383,7 +245,8 @@ function formValidate(form) {
 				
  <div id="footer" class="container_12">
  	
-    <p class="aleft">© 2009 CustomerHub</p>
+    <p class="aleft">© 2009 CustomerHub<br>
+<span style="font-size:10px;line-height:11px;">A product by <a href="https://www.infusedsystems.com" style="text-decoration:underline;">Infused Systems</a></span></p>
  
  	<div class="aright">
 		
