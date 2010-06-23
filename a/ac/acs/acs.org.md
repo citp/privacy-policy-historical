@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acs.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221192255id_/http%3A//portal.acs.org/portal/PublicWebSite/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs.org privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624015051id_/http%3A//portal.acs.org/portal/PublicWebSite/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy
 
-acs.org recognizes that users may have concerns about privacy issues as they navigate the Internet. ACS is committed to providing users with a safe, secure environment in which to secure information. We recommend visiting the [Federal Trade Commission website](http://www.ftc.gov/) for more information about [general privacy issues](http://www.ftc.gov/privacy/privacyinitiatives/promises_educ.html).
+acs.org recognizes that users may have concerns about privacy issues as they navigate the Internet. ACS is committed to providing users with a safe, secure environment in which to secure information. We recommend visiting the [_Federal Trade Commission website_](http://www.ftc.gov/) for more information about [_general privacy issues_](http://www.ftc.gov/privacy/privacyinitiatives/promises_educ.html).
 
-acs.org will use reasonable efforts to ensure that the information you provide remains private, and is used only for the purposes stated below. Please review the [Terms of Use](http://portal.acs.org/portal/PublicWebSite/terms/index.htm) for the definition of acs.org's relationship to its users.
+acs.org will use reasonable efforts to ensure that the information you provide remains private, and is used only for the purposes stated below. Please review the [_Terms of Use_](http://portal.acs.org/portal/PublicWebSite/terms/index.htm) for the definition of acs.org's relationship to its users.
 
 ## Collected Information
 
@@ -43,7 +43,7 @@ You may disable the cookie function on your browser or erase the contents in you
 
 ## Security
 
-Your account containing your information is password protected and should never be shared with anyone. This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Please visit our page on [security](http://portal.acs.org/portal/PublicWebSite/security/index.htm) for more detailed information
+Your account containing your information is password protected and should never be shared with anyone. This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Please visit our page on [_security_](http://portal.acs.org/portal/PublicWebSite/security/index.htm) for more detailed information
 
 ## Children's Guidelines
 
@@ -57,8 +57,8 @@ acs.org encourages visitors to submit feedback. Any feedback that is submitted b
 
 Any changes to our privacy policy will be posted here so that visitors will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about acs.org's privacy statement, the practices of this site, or your dealings with this Website, contact us at:
 
-[acs.org](http://portal.acs.org/portal/PublicWebSite/index.htm)   
+_[acs.org](http://portal.acs.org/portal/PublicWebSite/index.htm)_   
 American Chemical Society  
 1155 16th Street NW  
-Washington, DC 20036[  
-webmaster@acs.org](mailto:webmaster@acs.org)
+Washington, DC 20036 _[  
+webmaster@acs.org](mailto:webmaster@acs.org)_
