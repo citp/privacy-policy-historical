@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222205532id_/http%3A//macworld.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623124353id_/http%3A//macworld.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Australian Macworld
 
@@ -12,7 +12,7 @@ Niche Media Pty Ltd.
 South Melbourne VIC 3205  
 AUSTRALIA
 
-Or to websupport@niche.com.au
+Or to [austmacworld@niche.com.au](mailto:austmacworld@niche.com.au)
 
 Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.
 
@@ -77,6 +77,6 @@ Postal addresses will be used to promote Australian Macworld and Niche Media Pty
 
 When you provide your e-mail address to us, you agree to receive e-mail from Australian Macworld, and Niche Media Pty Ltd; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link within the boy of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
 
-In addition, you may change your preferences regarding use of personal data by sending an e-mail to [websupport@niche.com.au](mailto:websupport@niche.com.au).
+In addition, you may change your preferences regarding use of personal data by sending an e-mail to [austmacworld@niche.com.au](mailto:austmacworld@niche.com.au).
 
 If Australian Macworld or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
