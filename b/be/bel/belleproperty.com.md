@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221092926id_/http%3A//www.belleproperty.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623123103id_/http%3A//www.belleproperty.com/privacy.asp) for the most accurate reproduction.*
 
 # Belle Property
 
@@ -16,37 +16,37 @@ Belle Property will collect your personal information for its own use in connect
 
 Personal information will be collected from you directly when you express interest in renting, leasing, selling or purchasing a property. This information will be collected in two ways:
 
-  1. Through registering your contact details on line via the Belle Property Web site; 
+  1. Through registering your contact details on line via the Belle Property Web site;
   2. Or when you directly contact one of our representatives via phone, fax or in person.
 
 
 
 ## Storage
 
-We store personal information in a combination of secure computer storage facilities and paper based files and other records. We have taken steps to protect the personal information we hold from misuse, loss and unauthorised access and disclosure. 
+We store personal information in a combination of secure computer storage facilities and paper based files and other records. We have taken steps to protect the personal information we hold from misuse, loss and unauthorised access and disclosure.
 
 ## How Your Personal Information will be used.
 
 Your personal information may be used in connection with property assignments and may include:
 
-  * an actual sale, auction or purchase of a property; 
+  * an actual sale, auction or purchase of a property;
   * a negotiation of a lease & or rental agreement.
 
 
 
 ## Your personal information may be disclosed to:
 
-  * vendors, auctioneers; 
-  * property developers; 
-  * an overseas entity - when doing so, we will use reasonable commercial endeavours to ensure that your personal information is not misused; 
-  * a professional association or registration body that has a proper interest in the disclosure of your personal information; 
+  * vendors, auctioneers;
+  * property developers;
+  * an overseas entity - when doing so, we will use reasonable commercial endeavours to ensure that your personal information is not misused;
+  * a professional association or registration body that has a proper interest in the disclosure of your personal information;
   * any person with a lawful entitlement to obtain the information.
 
 
 
 ## Keeping Up-to-date Records
 
-We will take reasonable steps to make sure that the personal information we collect, use and disclose is correct. If your personal details change, such as contact numbers and address, we would appreciate if you could please advise us so we can update records and continue to be of service to you. 
+We will take reasonable steps to make sure that the personal information we collect, use and disclose is correct. If your personal details change, such as contact numbers and address, we would appreciate if you could please advise us so we can update records and continue to be of service to you.
 
 ## Gaining access to Personal Information
 
@@ -54,4 +54,4 @@ Following a written request we will in accordance with the provision of the Priv
 
 ## How to contact us
 
-If you wish to contact us about your personal information you should contact: Anthony Harris Chief Operating Officer Phone: +61 2 9327 9300 Fax: +61 2 9327 2655 Email: [anthony.harris@belleproperty.com.au](mailto:anthony.harris@belleproperty.com.au) during normal office hours Monday - Friday 9.00am - 5.00pm
+If you wish to contact us about your personal information you should contact: Fiona Biondi Chief Operating Officer Phone: +61 2 8969 2721  Email: [fiona.biondi@belleproperty.com](mailto:fiona.biondi@belleproperty.com) during normal office hours Monday - Friday 9.00am - 5.00pm
