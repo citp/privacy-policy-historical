@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axis.com privacy policy that was archived on 2009-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090724103759id_/http%3A//www.axis.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axis.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623043342id_/http%3A//www.axis.com/privacy.htm) for the most accurate reproduction.*
 
 # Axis Communications - Privacy policy
 
@@ -44,5 +44,5 @@ Cookies
 
 A cookie is a piece of text that a Web site can store on your computer to enable it to recognize you when you return to the site. At Axis, we first ask for your permission to store cookies on your computer. Cookies help us to analyze visiting patterns on our Web site. It also helps us support customer relations by enabling us, for instance, to simplify your login procedure when you want to download software upgrades. Sometimes we use cookies to make your browsing experience easier or to enable us to make Web site usage analysis on an aggregated level (i.e. on a non-personal, collective manner for the purpose of tracking overall movements and visits to certain pages on our Web site, for example). 
 
-If you have any questions regarding this policy, please [contact us](https://web.archive.org/web/20090724103759id_/http%3A//www.axis.com/request/index.php?r=Privacy%20policy).  
+If you have any questions regarding this policy, please [contact us](https://web.archive.org/web/20100623043342id_/http%3A//www.axis.com/request/index.php?r=Privacy%20policy).  
  
