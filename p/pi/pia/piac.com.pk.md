@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piac.com.pk privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808064315id_/http%3A//www.piac.com.pk/PIA_PolicynTerms/pia-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piac.com.pk privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623120751id_/http%3A//www.piac.com.pk/PIA_PolicynTerms/pia-Policy.asp) for the most accurate reproduction.*
 
 # PIA - Privacy Policy
 
@@ -32,7 +32,7 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 
 PIAC and its authorized affiliates will not retain your personal information longer than is necessary for the purposes for which it was collected. 
 
-If for some reason you believe PIAC or its affiliates have not adhered to these principles, please notify us by e-mail at [info@piac.com.pk](mailto:info@piac.com.pk), and we will use commercially reasonable efforts to promptly determine and correct the problem.
+If for some reason you believe PIAC or its affiliates have not adhered to these principles, please notify us by e-mail at [info@piac.aero](mailto:info@piac.aero), and we will use commercially reasonable efforts to promptly determine and correct the problem.
 
 **Your Acceptance of These Terms:**
 
