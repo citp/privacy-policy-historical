@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026201742id_/http%3A//www.gandermountain.com/customer_service/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623110107id_/http%3A//www.gandermountain.com/customer_service/privacy.shtml) for the most accurate reproduction.*
 
 # Gander Mountain™ > Privacy Policy : Customer Service
 
