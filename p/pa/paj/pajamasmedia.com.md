@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221185752id_/http%3A//pajamasmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623215650id_/http%3A//pajamasmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Pajamas Media » Privacy Policy
 
@@ -29,7 +29,7 @@ Google Ads Privacy Policy: [http://www.google.com/privacy_cookies.html](http://w
 
 **Limitations on Disclosures**
 
-Information collected by Pajamas Media about individual visitors that is stored in the ad server database will not be sold or disclosed to any merchant or third party, except when required by law or court order or as set forth in this Policy. PJM does disclose aggregate advertising information, which does not identify individuals or any personally identifiable information, to business partners, advertisers, and other advertising third parties. PJM also reserves the right to use such non-personally identifiable information for promoting PJM products and services or the products and services of PJM advertisers and sponsors.
+Information collected by Pajamas Media about individual visitors that is stored in the ad server database will not be sold or disclosed to any merchant or third party, except when required by law or court order or as set forth in this Policy. PJM does disclose aggregate advertising information, which does not identify individuals or any personally identifiable information, to business partners, advertisers, and other advertising third parties. PJM also reserves the right to use such non-personally identifiable information for promoting PJM products and services or the products and services of PJM advertisers and sponsors. You may additionally “opt-out” of having information used by some third party providers at: <http://www.networkadvertising.org/optout_nonppii.asp>.
 
 **Cookies**
 
@@ -47,9 +47,10 @@ PJM openly volunteers its practices of collecting information, its targeting cap
 
 When you send us a comment via links on our site, we use that information internally to track comments, suggestions, and problems. We do not create mailing lists from the email addresses we receive through the Comments, Feedback and Tips links, although we do retain email addresses, which may or may not include personally identifiable information, when necessary to report back about a technical or other problem.  We do not retain personally identifiable information when you send a message to us unless you request us to do so.
 
-**Mailing List** **– Daily Digest**
+**Mailing List** **– Daily Digest and Registration to Post Comments  
+**
 
-We also invite readers to sign up for our mailing list, which includes our Daily Digest of significant articles from our website.  We may also use our mailing list for any other reason, such as contacting you for editorial purposes, to advise you of changes or special events, and we may send you messages from or about our marketing partners.  We may also share our mailing list with organizations which provide information, services or products from which we believe our readers benefit. 
+We also invite readers to sign up for our mailing list, which includes our Daily Digest of significant articles from our website, or to register to post comments on our website. We may also use our mailing or registration list for any other reason, such as contacting you for editorial purposes, to advise you of changes or special events, and we may send you messages from or about our marketing partners.  We may also share our mailing list and registration list with organizations which provide information, services or products from which we believe our readers benefit. 
 
 **Special Circumstances**
 
@@ -62,4 +63,4 @@ There may be instances when we may disclose PII or email addresses in order to p
 
 This Privacy Policy may be updated from time to time as needed. If PJM decides to change the privacy policy, we will post these changes on this web page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. It is your obligation to review this Privacy Statement periodically, and your continued use of our website after changes have been posted will be deemed to be your acceptance of the revised Privacy Policy.
 
-_Privacy Statement last updated_ _August 6_ _, 2009._
+_Privacy Statement last updated_ _February 15_ _, 2010._
