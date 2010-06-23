@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepeople.com privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023075339id_/http%3A//www.freepeople.com/index.cfm/fuseAction/content.page/nodeID/aa8fb4cf-b2b3-4e74-8fe1-e2abd4a6618f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepeople.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623021047id_/http%3A//www.freepeople.com/help-and-info-privacy-and-security) for the most accurate reproduction.*
 
 # Free People Clothing Boutique > Help and Info > Privacy and Security
 
@@ -22,4 +22,4 @@ If you are under the age of 13, you are not permitted to submit any personal inf
 
 ## SEARCH
 
-You can search FreePeople.com's site by entering keywords in the top right search bar on the homepage. [Click here](http://208.255.148.68/index.cfm/fuseaction/content.page/nodeID/e041d116-6e1d-47c9-9e1a-0030d3ee1542) for some of our top searches... 
+You can search FreePeople.com's site by entering keywords in the top right search bar on the homepage. [Click here](http://208.255.148.68/index.cfm/fuseaction/content.page/nodeID/e041d116-6e1d-47c9-9e1a-0030d3ee1542) for some of our top searches. You can also access current [Free People promo codes](http://www.freepeople.com/free-people-promo-and-coupon-codes/) here. 
