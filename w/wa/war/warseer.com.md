@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warseer.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221185215id_/http%3A//warseer.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warseer.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623222847id_/http%3A//warseer.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - WarSeer
 
@@ -46,7 +46,7 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using the feedback page which can be found [here](http://www.warseer.com/forums/sendmessage.php).  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using the feedback page which can be found [here](http://www.warseer.com/forums/sendmessage.php?s=f581516216f26c4a576ad3e6ba934e14).  
 
 
 Nicholas Blumire,   
