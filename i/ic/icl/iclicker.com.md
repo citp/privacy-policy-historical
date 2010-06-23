@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iclicker.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222080309id_/http%3A//www.iclicker.com/dnn/%3FTabID%3D199) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclicker.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623050124id_/http%3A//www.iclicker.com/dnn/%3FTabID%3D199) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,9 +79,9 @@ We provide links to other Web sites for your convenience. Also, on occasion, we 
 We use administrative, technical and physical safeguards to protect information in our possession and control against foreseeable hazards. Please note, however, that perfect security does not exist on the Internet.
 
 **Your Choices About Marketing**  
-We give you the option of requesting that we not share personal information about you with third parties that are unrelated by common ownership with i>clicker for marketing use. [Click here] if you DO NOT want us to share your personal information with unrelated third parties for their own marketing use.
+We give you the option of requesting that we not share personal information about you with third parties that are unrelated by common ownership with i>clicker for marketing use. Click here if you DO NOT want us to share your personal information with unrelated third parties for their own marketing use.
 
-We also give you the option of requesting that we not share your information with companies related to i>clicker by common ownership for marketing use. However, PLEASE NOTE that, because of the integrated nature of the businesses of i>clicker and some of these companies, if you opt out of sharing with them, you will also automatically be opted out of marketing use by i>clicker. That means that you will not receive information about new products, promotions and services from i>clicker. [Click here] if you do not want us to share your information with related companies for marketing use (or use the information for marketing purposes ourselves). (Keep in mind, however, that some of our related companies may have independently obtained your information, in which case you may continue to receive communications from those companies, unless you opt out directly with them.)
+We also give you the option of requesting that we not share your information with companies related to i>clicker by common ownership for marketing use. However, PLEASE NOTE that, because of the integrated nature of the businesses of i>clicker and some of these companies, if you opt out of sharing with them, you will also automatically be opted out of marketing use by i>clicker. That means that you will not receive information about new products, promotions and services from i>clicker. Click here if you do not want us to share your information with related companies for marketing use (or use the information for marketing purposes ourselves). (Keep in mind, however, that some of our related companies may have independently obtained your information, in which case you may continue to receive communications from those companies, unless you opt out directly with them.)
 
 Please be aware that we are able to effectuate an opt-out only for a specific e-mail address, or for a name and address or other identifying information. For example, we are unable to opt out "John Smith" by name alone, because of the large number of persons by that name in our databases. So, if you have more than one e-mail address, if you move or change jobs, or if the information you provide us when opting out doesn't match the information in our databases, your opt out request may not be effectuated properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under "How to Contact Us", below, and we will endeavor to resolve the issue.
 
@@ -97,6 +97,6 @@ If you have any questions about our information practices or our products or ser
 
 
                 i>clicker                
-                41 Madison Ave., 38th floor  
-                New York, NY  10010  
+                18 W 18th Street, 7th floor  
+                New York, NY  10011  
                 Attention:  Sarah Martin, Director of Sales and Marketing
