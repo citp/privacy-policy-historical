@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixunit.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221021623id_/http%3A//www.mixunit.com/index.asp%3FPageAction%3DCustom%26ID%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixunit.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623234155id_/http%3A//www.mixunit.com/index.asp%3FPageAction%3DCustom%26ID%3D2) for the most accurate reproduction.*
 
 # Privacy -- The Mix Unit Privacy Policy
 
