@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124232252id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623083311id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | ADP
+
+###    
+ADP believes that privacy is important to the success and use of the Internet. This statement sets forth ADP's Privacy Statement for ADP.com and describes the practices that ADP will follow with respect to the privacy of users of this site. From time to time, we may change this Privacy Statement. For example, as we update and improve our service, new features may require modifications to the Privacy Statement. Accordingly, please check back periodically.   
+
 
 **What is personally identifiable information?**   
 "Personally identifiable information" is information about you, such as name, address, e-mail address, user ID, credit card number, social security number, and so on. 
@@ -37,3 +41,27 @@ If you are using an ADP web site for which you registered and chose a password, 
 ADP sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites. 
 
 If you have questions or concerns regarding this statement, you should contact us at [ES_Privacy@adp.com](mailto:ES_Privacy@adp.com). 
+
+**A message for all ADP’s clients and business partners:**
+
+**The ADP Secure Email System**
+
+As part of ADP’s ongoing efforts to strengthen security and to protect sensitive information, we have a Secure Email system. It provides a convenient method for you to receive and reply to secure emails, while continuing to ensure the integrity of the information interchange. 
+
+**Will I have to install new software or register for the new system?**
+
+No new software is required on your system. The first time you use the new secure email system, you will be asked to create a password. You will also select a password recovery question / answer that will allow you to change your password. There are no other registration requirements. 
+
+**How will I receive secure email messages from ADP?**
+
+Secure email messages (and any attached files) from ADP will be encrypted before they are sent, and then delivered directly to your inbox. When you open the message you will be prompted to enter your password, which will decrypt the message (and any attached files). You can then save, reply to, or forward the message and files. 
+
+**Are there reply capabilities? Can I initiate a secure email to an ADP Associate?**
+
+You can respond to ADP secure emails with secure replies, and there is also a method for initiating secure email exchanges with ADP associates. 
+
+**Where can I get more information?**
+
+[Secure Email User Guide](https://web.archive.org/web/20100623083311id_/http%3A//www.adp.com/~/media/PDF/Privacy/Clients%20Secure%20Email%20User%20Guide.ashx)
+
+[Secure Email Quick Reference](https://web.archive.org/web/20100623083311id_/http%3A//www.adp.com/~/media/PDF/Privacy/Clients%20Secure%20Email%20Quick%20Reference.ashx)
