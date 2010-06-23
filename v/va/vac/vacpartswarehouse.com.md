@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacpartswarehouse.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612211623id_/http%3A//www.vacpartswarehouse.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacpartswarehouse.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624000808id_/http%3A//www.vacpartswarehouse.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # VacPartsWarehouse.com
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20090612211623id_/http%3A//www.vacpartswarehouse.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20100624000808id_/http%3A//www.vacpartswarehouse.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
