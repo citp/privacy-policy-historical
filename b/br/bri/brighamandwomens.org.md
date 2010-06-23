@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063042id_/http%3A//www.brighamandwomens.org/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624001058id_/http%3A//www.brighamandwomens.org/general/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,3 +84,8 @@ Any such notice must be in writing, and must include the following information a
 
 
 If you have any questions or concerns about our Privacy Policy, please contact us at <https://www.brighamandwomens.org/forms/contactus.asp>.
+
+  
+
+
+This page was last modified on 3/9/2010 
