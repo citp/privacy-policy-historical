@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prweb.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217051639id_/http%3A//www.prweb.com/pr/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prweb.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623083117id_/http%3A//www.prweb.com/pr/privacy.html) for the most accurate reproduction.*
 
 # Press Release Distribution Online - PRWeb
 
