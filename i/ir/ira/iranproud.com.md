@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the iranproud.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223051210id_/http%3A//forum.iranproud.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranproud.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623040543id_/http%3A//forum.iranproud.com/privacy.php) for the most accurate reproduction.*
 
 # -[IranProud]- -
+
+  
+
 
 **Privacy Policy:**
 
@@ -23,13 +26,13 @@ IranProud lets other companies that show advertisements on some of our pages set
 
 IranProud contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
 
-All times are GMT +1. The time now is 06:12 AM.
+All times are GMT +1. The time now is 05:06 AM.
 
 Powered by vBulletin® Version 3.7.0  
-Copyright ©2000 - 2009, Jelsoft Enterprises Ltd.  
+Copyright ©2000 - 2010, Jelsoft Enterprises Ltd.  
 Proudly Hosted by : [HostDL](http://www.hostdl.com/)
 
-Copyright ©2006-2009 -[IranProud Team]- All rights reserved 
+Copyright ©2006-2010 -[IranProud Team]- All rights reserved 
 
   
 
