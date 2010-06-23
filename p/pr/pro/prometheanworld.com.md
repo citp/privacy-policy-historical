@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prometheanworld.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221173340id_/http%3A//www.prometheanworld.com/server.php%3Fshow%3Dnav.1071) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometheanworld.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623234910id_/http%3A//www.prometheanworld.com/server.php%3Fshow%3Dnav.1071) for the most accurate reproduction.*
 
 # Privacy : Promethean.
 
@@ -75,9 +75,9 @@ Promethean regularly reviews its compliance with this Policy. Please feel free t
 
 ### Changes to this policy 
 
-Please note that this Privacy Policy may change from time to time. If the Policy changes, the changes will be posted on the site and your continued use of the site will then be taken as acceptance of the change.
+Please note that this Privacy Policy may change from time to time. If the Policy changes, the changes will be posted on the site and your continued use of the site will then be taken as acceptance of the change. 
 
- We expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.
+  We expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.
 
   
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or via email to [webmaster@prometheanworld.com](mailto:webmaster@prometheanworld.com) or you can write to Promethean Limited, Promethean House, Lower Philips Road, Blackburn, Lancashire, BB15TH UK.
