@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thompsonpump.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419164530id_/http%3A//www.thompsonpump.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompsonpump.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624080124id_/http%3A//www.thompsonpump.com/privacy.html) for the most accurate reproduction.*
 
-# Thompson Pump -
+# Thompson Pump - Privacy Policy
 
-  
-  
+[Home](https://web.archive.org/index.cfm) : Privacy Policy
+
 Thompson Pump & Manufacturing Co., Inc. (Thompson) is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
 
 Information Collected  
@@ -28,3 +28,6 @@ If you have any questions about this privacy policy, please use the Contact Us p
 
 Changes to this Policy  
 Please check this privacy policy periodically to inform yourself of any change. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change. 
+
+  
+
