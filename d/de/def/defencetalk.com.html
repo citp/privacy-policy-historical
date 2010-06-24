@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the defencetalk.com privacy policy that was archived on 2009-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091223215837id_/http%3A//www.defencetalk.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the defencetalk.com privacy policy that was archived on 2010-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624223055id_/http%3A//www.defencetalk.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 		
@@ -41,21 +41,21 @@ autorotateconfig: [3000, 0]
 	</script>
 	
 <link rel="alternate" type="application/rss+xml" title="DefenceTalk | Defense &amp; Military News - Forums - Pictures - Weapons » Privacy Policy Comments Feed" href="http://www.defencetalk.com/about/privacy-policy/feed/">
-<link rel="stylesheet" id="rssphoto_stylesheet-css" href="http://www.defencetalk.com/wp-content/plugins/rssphoto/rssphoto.css?ver=2.8.6" type="text/css" media="">
+<link rel="stylesheet" id="rssphoto_stylesheet-css" href="http://www.defencetalk.com/wp-content/plugins/rssphoto/rssphoto.css?ver=2.9.1" type="text/css" media="">
 <link rel="stylesheet" id="cute_profiles_css_file-css" href="http://www.defencetalk.com/wp-content/plugins/cute-profiles/css/cute_profiles32.css?ver=1.0.1" type="text/css" media="screen">
-<link rel="stylesheet" id="wp_greet_box_style-css" href="http://www.defencetalk.com/wp-content/plugins/wp-greet-box/css/wp-greet-box.css?ver=2.8.6" type="text/css" media="all">
 <link rel="stylesheet" id="wp-postratings-css" href="http://www.defencetalk.com/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.50" type="text/css" media="all">
 <link rel="stylesheet" id="pagelist-css" href="http://www.defencetalk.com/wp-content/plugins/inline-pagelist/style.css?ver=1.5.7" type="text/css" media="all">
+<link rel="stylesheet" id="sexy-bookmarks-css" href="http://www.defencetalk.com/wp-content/plugins/sexybookmarks/spritegen/shr-custom-sprite.css?ver=3.2.3" type="text/css" media="all">
 <script type="text/javascript" src="http://www.defencetalk.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
-<script type="text/javascript" src="http://www.defencetalk.com/wp-content/plugins/rssphoto/rssphoto.js?ver=2.8.6"></script>
+<script type="text/javascript" src="http://www.defencetalk.com/wp-content/plugins/rssphoto/rssphoto.js?ver=2.9.1"></script>
 <script type="text/javascript" src="http://www.defencetalk.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.defencetalk.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.defencetalk.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="DefenceTalk | Defense &amp; Military News - Forums - Pictures - Weapons" href="http://www.defencetalk.com">
 <link rel="up" title="About us" href="http://www.defencetalk.com/about/">
-<meta name="generator" content="WordPress 2.8.6">
+<meta name="generator" content="WordPress 2.9.1">
 
-<!-- All in One SEO Pack 1.6.6.2 by Michael Torbert of Semper Fi Web Design[238,359] -->
+<!-- All in One SEO Pack 1.6.10.2 by Michael Torbert of Semper Fi Web Design[238,359] -->
 <meta name="description" content="DefenceTalk.com (hereafter referred to as DefenceTalk), is committed to protecting the privacy of its visitors, members and all users of our internet services.">
 <link rel="canonical" href="http://www.defencetalk.com/about/privacy-policy/">
 <!-- /all in one seo pack -->
@@ -67,6 +67,82 @@ left:0px;
 </style>
 
 
+			<script type="text/javascript">
+			var scrolltotop={
+			//startline: Integer. Number of pixels from top of doc scrollbar is scrolled before showing control
+			//scrollto: Keyword (Integer, or "Scroll_to_Element_ID"). How far to scroll document up when control is clicked on (0=top).
+			setting: {startline:600, scrollto: 0, scrollduration:800, fadeduration:[500, 100]},
+			controlHTML: '<img src="http://www.defencetalk.com/wp-content/plugins/scrolltotop/image/up.png" />', //HTML for control, which is auto wrapped in DIV w/ ID="topcontrol"
+			controlattrs: {offsetx:5, offsety:5}, //offset of control relative to right/ bottom of window corner
+			anchorkeyword: '#top', //Enter href value of HTML anchors on the page that should also act as "Scroll Up" links
+
+			state: {isvisible:false, shouldvisible:false},
+
+			scrollup:function(){
+				if (!this.cssfixedsupport) //if control is positioned using JavaScript
+					this.control.css({opacity:0}) //hide control immediately after clicking it
+				var dest=isNaN(this.setting.scrollto)? this.setting.scrollto : parseInt(this.setting.scrollto)
+				if (typeof dest=="string" && jQuery('#'+dest).length==1) //check element set by string exists
+					dest=jQuery('#'+dest).offset().top
+				else
+					dest=0
+				this.body.animate({scrollTop: dest}, this.setting.scrollduration);
+			},
+
+			keepfixed:function(){
+				var window=jQuery(window)
+				var controlx=window.scrollLeft() + window.width() - this.control.width() - this.controlattrs.offsetx
+				var controly=window.scrollTop() + window.height() - this.control.height() - this.controlattrs.offsety
+				this.control.css({left:controlx+'px', top:controly+'px'})
+			},
+
+			togglecontrol:function(){
+				var scrolltop=jQuery(window).scrollTop()
+				if (!this.cssfixedsupport)
+					this.keepfixed()
+				this.state.shouldvisible=(scrolltop>=this.setting.startline)? true : false
+				if (this.state.shouldvisible && !this.state.isvisible){
+					this.control.stop().animate({opacity:1}, this.setting.fadeduration[0])
+					this.state.isvisible=true
+				}
+				else if (this.state.shouldvisible==false && this.state.isvisible){
+					this.control.stop().animate({opacity:0}, this.setting.fadeduration[1])
+					this.state.isvisible=false
+				}
+			},
+			
+			init:function(){
+				jQuery(document).ready(function($){
+					var mainobj=scrolltotop
+					var iebrws=document.all
+					mainobj.cssfixedsupport=!iebrws || iebrws && document.compatMode=="CSS1Compat" && window.XMLHttpRequest //not IE or IE7+ browsers in standards mode
+					mainobj.body=(window.opera)? (document.compatMode=="CSS1Compat"? $('html') : $('body')) : $('html,body')
+					mainobj.control=$('<div id="topcontrol">'+mainobj.controlHTML+'</div>')
+						.css({position:mainobj.cssfixedsupport? 'fixed' : 'absolute', bottom:mainobj.controlattrs.offsety, right:mainobj.controlattrs.offsetx, opacity:0, cursor:'pointer'})
+						.attr({title:'Scroll Back to Top'})
+						.click(function(){mainobj.scrollup(); return false})
+						.appendTo('body')
+					if (document.all && !window.XMLHttpRequest && mainobj.control.text()!='') //loose check for IE6 and below, plus whether control contains any text
+						mainobj.control.css({width:mainobj.control.width()}) //IE6- seems to require an explicit width on a DIV containing text
+					mainobj.togglecontrol()
+					$('a[href="' + mainobj.anchorkeyword +'"]').click(function(){
+						mainobj.scrollup()
+						return false
+					})
+					$(window).bind('scroll resize', function(e){
+						mainobj.togglecontrol()
+					})
+				})
+			}
+		}
+
+		scrolltotop.init()
+
+		</script>
+		
+			<link rel="stylesheet" type="text/css" href="http://www.defencetalk.com/index.php?ak_action=aktt_css">
+			<script type="text/javascript" src="http://www.defencetalk.com/index.php?ak_action=aktt_js"></script>
+		
 <!-- Wordpress Popular Posts v1.5.0 -->
 <link rel="stylesheet" href="http://www.defencetalk.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="screen">
 <!-- Wordpress Popular Posts v1.5.0 -->
@@ -76,9 +152,10 @@ left:0px;
 <!-- END of script generated by WP-RecentComments -->
 <style type="text/css" media="all">
 /* <![CDATA[ */
+@import url("http://www.defencetalk.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.7");
 .wp-table-reloaded {width:100%;}
 /* ]]> */
-</style></head>
+</style><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
 <body>
 	<div id="page-wrap">
     <div id="header">
@@ -114,6 +191,7 @@ var addthis_hover_delay = 200;
 
 <!-- AddThis Button END -->
 <li><a href="http://www.defencetalk.com">Home</a></li>
+<li><a href="http://www.defencetalk.com/jobs/" title="Defense Aerospace Jobs">Jobs</a></li>
 <li class="page_item page-item-2"><a href="http://www.defencetalk.com/about/" title="About us">About us</a></li>
 <li class="page_item page-item-15"><a href="http://www.defencetalk.com/about/advertise-with-us/" title="Advertise with us">Advertise with us</a></li>
 <li class="page_item page-item-16835"><a href="http://www.defencetalk.com/about/rss-feeds/" title="RSS Feeds">RSS Feeds</a></li>
@@ -249,6 +327,8 @@ var addthis_hover_delay = 200;
 </li>
 	<li class="cat-item cat-item-19"><a href="http://www.defencetalk.com/weapons/air-systems/transport-aircraft/" title="View all posts filed under Transport Aircraft">Transport Aircraft</a>
 </li>
+	<li class="cat-item cat-item-23"><a href="http://www.defencetalk.com/weapons/air-systems/uav/" title="View all posts filed under Unmanned Aerial Vehicle">Unmanned Aerial Vehicle</a>
+</li>
 	</ul>
 </li>
 	<li class="cat-item cat-item-6"><a href="http://www.defencetalk.com/weapons/land-systems/" title="View all posts filed under Army Systems">Army Systems</a>
@@ -309,7 +389,7 @@ var addthis_hover_delay = 200;
 <!-- end categ -->
    <div id="content-wrap">
 <!-- START Breadcrumb -->
-<div class="breadcrumb breadcrumbs"><div class="breadcrumb-trail"><strong>You are here</strong> » <a href="http://www.defencetalk.com" title="DefenceTalk | Defense &amp; Military News - Forums - Pictures - Weapons" rel="home" class="trail-begin">Home</a> » <a href="http://www.defencetalk.com/about/" title="About us">About us</a>  » <span class="trail-end">Privacy Policy</span></div></div> 
+<div class="breadcrumb breadcrumbs"><div class="breadcrumb-trail"> <strong>You are here</strong> » <a href="http://www.defencetalk.com" title="DefenceTalk | Defense &amp; Military News - Forums - Pictures - Weapons" rel="home" class="trail-begin">Home</a> <span class="sep">/</span> <a href="http://www.defencetalk.com/about/" title="About us">About us</a> <span class="sep">/</span> Privacy Policy</div></div> 
 <!-- END Breadcrumb -->   <div class="post">
 	
 		<div class="post" id="post-29">
@@ -317,14 +397,14 @@ var addthis_hover_delay = 200;
              	 
 			<h1>Privacy Policy</h1>
     		<small>  </small>
-			<p></p><div id="inline_pagelist"><p><a href="http://www.defencetalk.com/about/"><strong>About us</strong></a></p><ul><li class="page_item page-item-15"><a href="http://www.defencetalk.com/about/advertise-with-us/">Advertise with us</a></li>
-<li class="page_item page-item-23"><a href="http://www.defencetalk.com/about/disclaimer/">Disclaimer</a></li>
-<li class="page_item page-item-18"><a href="http://www.defencetalk.com/about/get-paid-to-write/">Get Paid to Write</a></li>
+			<p></p><div id="inline_pagelist"><p><a href="http://www.defencetalk.com/about/"><strong>About us</strong></a></p><ul><li class="page_item page-item-15"><a href="http://www.defencetalk.com/about/advertise-with-us/" title="Advertise with us">Advertise with us</a></li>
+<li class="page_item page-item-23"><a href="http://www.defencetalk.com/about/disclaimer/" title="Disclaimer">Disclaimer</a></li>
+<li class="page_item page-item-18"><a href="http://www.defencetalk.com/about/get-paid-to-write/" title="Get Paid to Write">Get Paid to Write</a></li>
 <li class="page_item page-item-29 current_page_item">Privacy Policy</li>
-<li class="page_item page-item-16835"><a href="http://www.defencetalk.com/about/rss-feeds/">RSS Feeds</a></li>
-<li class="page_item page-item-27"><a href="http://www.defencetalk.com/about/terms-of-use/">Terms of use</a></li>
+<li class="page_item page-item-16835"><a href="http://www.defencetalk.com/about/rss-feeds/" title="RSS Feeds">RSS Feeds</a></li>
+<li class="page_item page-item-27"><a href="http://www.defencetalk.com/about/terms-of-use/" title="Terms of use">Terms of use</a></li>
 </ul></div>DefenceTalk.com (hereafter referred to as DefenceTalk), is committed to protecting the privacy of its visitors, members and all users of our internet services. The following Privacy Policy outlines how DefenceTalk treats personal information received about you when you visit our web sites.<p></p>
-<p>If you have any requests concerning your personal information or any queries with regard to these practices, please contact us by email at admin@defencetalk.com with the subject heading "Privacy Policy" or visit our <a href="../../forums/sendmessage.php">Feedback form</a>.</p>
+<p>If you have any requests concerning your personal information or any queries with regard to these practices, please contact us by email at admin@defencetalk.com with the subject heading "Privacy Policy" or visit our <a rel="nofollow" href="../../forums/sendmessage.php">Feedback form</a>.</p>
 <p>Partners of DefenceTalk and other websites you may access via DefenceTalk have different privacy policies and are not subject to this Privacy Policy. We recommend that you read the privacy statement of each such website to find out how they treat and protect your personal information.</p>
 <p><strong>Collection and Use of User Details </strong></p>
 <p><strong>Voluntary Information </strong></p>
@@ -352,7 +432,42 @@ var addthis_hover_delay = 200;
 	<div id="sidebar">
 	
 	    
-     <div class="column_right">
+<!-- START F-14 Pictures -->
+
+<!-- Start Military Picture Uploads -->
+
+<ul id="rss-386207481" class="widget">
+	<h3><a class="rsswidget" href="http://feeds2.feedburner.com/military-photos" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="http://www.defencetalk.com/wpress/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.defencetalk.com/pictures/" title="">Latest Military Pictures</a></h3>
+	<ul id="military-pictures"><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39337">C-130</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39337"><img title="4712835318_d0131dd835_b.jpg" border="0" src="http://www.defencetalk.com/pictures/data/3721/thumbs/4712835318_d0131dd835_b.jpg" alt="4712835318_d0131dd835_b.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/3vxJkHM566w" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39336">Otokar Cobra...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39336"><img title="kobra-tanksavar-arac.jpg" border="0" src="http://www.defencetalk.com/pictures/data/3776/thumbs/kobra-tanksavar-arac.jpg" alt="kobra-tanksavar-arac.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/G-IyfCni12M" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39335">Turkish Ligh...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39335"><img title="tara0008-2.jpg" border="0" src="http://www.defencetalk.com/pictures/data/3797/thumbs/tara0008-2.jpg" alt="tara0008-2.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/ni7WGxPHZCw" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39334">USS Independ...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39334"><img title="LCS-2_100402-N-7653W-130.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4869/thumbs/LCS-2_100402-N-7653W-130.jpg" alt="LCS-2_100402-N-7653W-130.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/4eJtxSX2aRc" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39333">USS Independ...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39333"><img title="LCS-2_100329-N-1481K-298.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4869/thumbs/LCS-2_100329-N-1481K-298.jpg" alt="LCS-2_100329-N-1481K-298.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/BafUWyeZn-Y" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39332">USS Independ...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39332"><img title="LCS-2_100329-N-1481K-295.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4869/thumbs/LCS-2_100329-N-1481K-295.jpg" alt="LCS-2_100329-N-1481K-295.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/jmTL5bMdEl4" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39331">USS Independ...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39331"><img title="LCS-2_100329-N-1481K-293.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4869/thumbs/LCS-2_100329-N-1481K-293.jpg" alt="LCS-2_100329-N-1481K-293.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/1BYl-xbAZZQ" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39327">Douglas SBD ...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39327"><img title="POF_10_SBD_IMG_0819.JPG" border="0" src="http://www.defencetalk.com/pictures/data/4936/thumbs/POF_10_SBD_IMG_0819.JPG" alt="POF_10_SBD_IMG_0819.JPG"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/BPR9vAvr_9o" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39328">Douglas SBD ...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=39328"><img title="POF_10_SBD_IMG_0819.JPG" border="0" src="http://www.defencetalk.com/pictures/data/4936/thumbs/POF_10_SBD_IMG_0819.JPG" alt="POF_10_SBD_IMG_0819.JPG"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/1M1EMmwJ_us" height="1" width="1"></li></ul><!-- start siebar Ad -->
+<a href="http://www.invisiontechs.com/ads/www/delivery/ck.php?oaparams=2__bannerid=38__zoneid=0__cb=d9cf201bf3__oadest=http://www.smi-online.co.uk/counter-ied3.asp" target="_blank"><img src="http://www.invisiontechs.com/ads/www/delivery/ai.php?filename=w31_defence_talk_banner-gif.gif&amp;contenttype=gif" width="336" height="280" alt="Counter IED and Force Protection 2010" title="Counter IED and Force Protection 2010" border="0"></a><div id="beacon_d9cf201bf3" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.invisiontechs.com/ads/www/delivery/lg.php?bannerid=38&amp;campaignid=9&amp;zoneid=0&amp;channel_ids=,&amp;cb=d9cf201bf3" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><!-- END siebar Ad -->
+  
+
+
+<!-- start Forum Topics -->
+<ul id="rss-386207481" class="widget">
+<h3><a class="rsswidget" href="http://feeds2.feedburner.com/defenceforum" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="http://www.defencetalk.com/wpress/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.defencetalk.com/forums/" title="">Defense Forum Topics</a></h3> 
+<li><a title="salam" href="http://www.defencetalk.com/forums/intros-off-topic/salam-10405/">salam </a></li><li><a title="Theoretical: Lepoard 2A6 in a Desert (Iraq / Afghanistan)" href="http://www.defencetalk.com/forums/army-security-forces/theoretical-lepoard-2a6-desert-iraq-afghanistan-10404/">Theoretical: Lepoard 2A6 in a Desert (Iraq / Afghanistan) </a></li><li><a title="Bloody Sunday: A Retrospective" href="http://www.defencetalk.com/forums/army-security-forces/bloody-sunday-retrospective-10400/">Bloody Sunday: A Retrospective </a></li><li><a title="Is schooling an issue for the Aus Army?" href="http://www.defencetalk.com/forums/army-security-forces/schooling-issue-aus-army-10399/">Is schooling an issue for the Aus Army? </a></li><li><a title="Query: Argentina Nuclear Powered Jet Engine Scam" href="http://www.defencetalk.com/forums/air-force-aviation/query-argentina-nuclear-powered-jet-engine-scam-10398/">Query: Argentina Nuclear Powered Jet Engine Scam </a></li><li><a title="Has anyone heard any info regarding carrier build cycle" href="http://www.defencetalk.com/forums/navy-maritime/has-anyone-heard-any-info-regarding-carrier-build-cycle-10397/">Has anyone heard any info regarding carrier build cycle </a></li><li><a title="Singapore Army Pictures" href="http://www.defencetalk.com/forums/military-photos-videos/singapore-army-pictures-10396/">Singapore Army Pictures </a></li><li><a title="Flanker Export Thread" href="http://www.defencetalk.com/forums/air-force-aviation/flanker-export-thread-10395/">Flanker Export Thread </a></li></ul><div id="button"><a href="http://www.defencetalk.com/forums/register.php" rel="nofollow"></a></div><strong> 
+DefenceTalk's defense forum</strong> is the leading discussion board for 
+defense and military professionals and enthusiasts to discuss defense 
+and military topics on global security, war on terror, army, land 
+forces, air force, military aviation, navy, naval forces as well as nuclear and 
+missile forces of the world.
+
+
+<!-- Start Sidebar-1 Widgets -->
+<ul id="text-399760241" class="widget">	
+<h3>Recommended Resources</h3>			
+<div class="textwidget">
+<li>Veterans can obtain information regarding <a href="http://www.vamortgagecenter.com/">VA Loans</a> including how to get a <a href="http://www.vamortgagecenter.com/refinance.htm">VA Refinance</a></li>
+<li>
+<a href="http://www.uofa.edu/military.asp?sec=military"><img src="http://www.defencetalk.com/wp-content/uploads/ads/uofa/300x200-university-of-atlanta.jpg" border="0"></a></li>
+</div>
+		
+
+</ul>
+
+		
+ <div class="column_right">
  <div class="tab_menu_container">
 		<ul id="tab_menu">  
 		 
@@ -372,42 +487,56 @@ var addthis_hover_delay = 200;
 			
 			<li>
 								 
-											<img align="left" src="http://www.defencetalk.com/wp-content/themes/dtstyle/scripts/timthumb.php?src=/wp-content/uploads/2009/07/chinook-mk3-helicopter.jpg&amp;w=43&amp;h=36&amp;zc=1" alt="Mk3 Chinook Delivered to UK Royal Air Force">
-								   <a href="http://www.defencetalk.com/mk3-chinook-delivered-to-uk-royal-air-force-23470/" rel="bookmark" title="Permanent Link to Mk3 Chinook Delivered to UK Royal Air Force">Mk3 Chinook Delivered to UK Royal Air Force</a> <div style="clear:right;"></div>	
-			 <small>December 22, 2009 05:12 </small>
+											<img align="left" src="http://www.defencetalk.com/wp-content/themes/dtstyle/scripts/timthumb.php?src=/wp-content/uploads/2010/06/iraqi-army-m-16-rifle-training.jpg&amp;w=43&amp;h=36&amp;zc=1" alt="Iraqi Troops Train on M-16 Rifle, Continue Transition from AK-47">
+								   <a href="http://www.defencetalk.com/iraqi-troops-train-on-m-16-rifle-continue-transition-from-ak-47-27194/" rel="bookmark" title="Permanent Link to Iraqi Troops Train on M-16 Rifle, Continue Transition from AK-47">Iraqi Troops Train on M-16 Rifle, Continue Transition from AK-47</a> <div style="clear:right;"></div>	
+			 <small>June 23, 2010 06:06 </small>
 			</li>
 			
 			<li>
 								 
-											<img align="left" src="http://www.defencetalk.com/wp-content/themes/dtstyle/scripts/timthumb.php?src=/wp-content/uploads/2009/12/type-23-royal-navy-frigate.jpg&amp;w=43&amp;h=36&amp;zc=1" alt="Royal Navy Frigate Back at Sea with Sonar Upgrade">
-								   <a href="http://www.defencetalk.com/royal-navy-type-23-frigate-sonar-upgrade-23465/" rel="bookmark" title="Permanent Link to Royal Navy Frigate Back at Sea with Sonar Upgrade">Royal Navy Frigate Back at Sea with Sonar Upgrade</a> <div style="clear:right;"></div>	
-			 <small>December 22, 2009 04:12 </small>
+											<img align="left" src="http://www.defencetalk.com/wp-content/themes/dtstyle/scripts/timthumb.php?src=/wp-content/uploads/2010/06/taiwan-sky-bow-strike-missile.jpg&amp;w=43&amp;h=36&amp;zc=1" alt="Taiwan Deploys Sky Bow Strike Missile">
+								   <a href="http://www.defencetalk.com/taiwan-deploys-sky-bow-strike-missile-27191/" rel="bookmark" title="Permanent Link to Taiwan Deploys Sky Bow Strike Missile">Taiwan Deploys Sky Bow Strike Missile</a> <div style="clear:right;"></div>	
+			 <small>June 23, 2010 06:06 </small>
 			</li>
 			
 			<li>
 								 
-											<img align="left" src="http://www.defencetalk.com/wp-content/themes/dtstyle/scripts/timthumb.php?src=/wp-content/uploads/2009/09/harpoon-missile-launch.jpg&amp;w=43&amp;h=36&amp;zc=1" alt="Harpoon Block II Anti-Ship Cruise Missiles for Egypt">
-								   <a href="http://www.defencetalk.com/harpoon-block-ii-anti-ship-cruise-missiles-for-egypt-23463/" rel="bookmark" title="Permanent Link to Harpoon Block II Anti-Ship Cruise Missiles for Egypt">Harpoon Block II Anti-Ship Cruise Missiles for Egypt</a> <div style="clear:right;"></div>	
-			 <small>December 22, 2009 04:12 </small>
+											<img align="left" src="http://www.defencetalk.com/wp-content/themes/dtstyle/scripts/timthumb.php?src=/wp-content/uploads/2010/04/B-1B-Bomber-USAF.jpg&amp;w=43&amp;h=36&amp;zc=1" alt="Flight Testing Begins on B-1 with New Link 16 Communications">
+								   <a href="http://www.defencetalk.com/flight-testing-begins-on-b-1-with-new-link-16-communications-27189/" rel="bookmark" title="Permanent Link to Flight Testing Begins on B-1 with New Link 16 Communications">Flight Testing Begins on B-1 with New Link 16 Communications</a> <div style="clear:right;"></div>	
+			 <small>June 23, 2010 06:06 </small>
 			</li>
 			
 			<li>
 								 
-											<img align="left" src="http://www.defencetalk.com/wp-content/themes/dtstyle/scripts/timthumb.php?src=/wp-content/uploads/2009/12/LCS-2-US-navy-littoral-combat-ship.jpg&amp;w=43&amp;h=36&amp;zc=1" alt="Navy Accepts Delivery of Future USS Independence">
-								   <a href="http://www.defencetalk.com/navy-accepts-delivery-of-future-uss-independence-23460/" rel="bookmark" title="Permanent Link to Navy Accepts Delivery of Future USS Independence">Navy Accepts Delivery of Future USS Independence</a> <div style="clear:right;"></div>	
-			 <small>December 22, 2009 04:12 </small>
+											<img align="left" src="http://www.defencetalk.com/wp-content/themes/dtstyle/scripts/timthumb.php?src=/wp-content/uploads/2009/09/UAV-Heron.jpg&amp;w=43&amp;h=36&amp;zc=1" alt="Turkey uses Israeli-made drones against rebels in Iraq: army">
+								   <a href="http://www.defencetalk.com/turkey-uses-israeli-made-drones-against-rebels-in-iraq-army-27204/" rel="bookmark" title="Permanent Link to Turkey uses Israeli-made drones against rebels in Iraq: army">Turkey uses Israeli-made drones against rebels in Iraq: army</a> <div style="clear:right;"></div>	
+			 <small>June 23, 2010 06:06 </small>
 			</li>
 			
 			<li>
 								 
-											<img align="left" src="http://www.defencetalk.com/wp-content/themes/dtstyle/scripts/timthumb.php?src=/wp-content/uploads/2009/06/b1bbomber-khandahar.jpg&amp;w=43&amp;h=36&amp;zc=1" alt="B-1 FIDL Avionics Upgrade Completed">
-								   <a href="http://www.defencetalk.com/b-1-fidl-avionics-upgrade-completed-23468/" rel="bookmark" title="Permanent Link to B-1 FIDL Avionics Upgrade Completed">B-1 FIDL Avionics Upgrade Completed</a> <div style="clear:right;"></div>	
-			 <small>December 22, 2009 01:12 </small>
+											<img align="left" src="http://www.defencetalk.com/wp-content/themes/dtstyle/scripts/timthumb.php?src=/wp-content/uploads/2010/06/S-300-air-defense-missile-systems.jpg&amp;w=43&amp;h=36&amp;zc=1" alt="Iran warns Russia over failure to deliver S-300 missile systems">
+								   <a href="http://www.defencetalk.com/iran-warns-russia-over-failure-to-deliver-s-300-missile-systems-27199/" rel="bookmark" title="Permanent Link to Iran warns Russia over failure to deliver S-300 missile systems">Iran warns Russia over failure to deliver S-300 missile systems</a> <div style="clear:right;"></div>	
+			 <small>June 23, 2010 06:06 </small>
 			</li>
 						</ul> <!-- END -->
 			<ul id="tab_sidebar_comments" class="tab_sidebar_list"> <!-- Latest Comments -->
 				 
 									<li>
+					<div class="tab-comments-avatar"></div>
+					<div class="tab-comments-text">
+						<a href="http://www.defencetalk.com/tradoc-future-leader-development-at-ausa-24541/#comment-8853">Chris:</a>
+						General Dempsey's speech parallels the "Army Leader Development Strategy" recently published at http://cgsc.edu/ALDS/Arm...
+					</div>
+				</li>
+							<li>
+					<div class="tab-comments-avatar"></div>
+					<div class="tab-comments-text">
+						<a href="http://www.defencetalk.com/us-special-forces-step-up-afghan-operations-23515/#comment-5287">mark:</a>
+						i believe those men pictured are australian special forces  with the steyr aug...
+					</div>
+				</li>
+							<li>
 					<div class="tab-comments-avatar"></div>
 					<div class="tab-comments-text">
 						<a href="http://www.defencetalk.com/mod-raf-upgrade-puma-helicopters-22260/#comment-1545">Andy Billhymer:</a>
@@ -428,121 +557,94 @@ var addthis_hover_delay = 200;
 						we can only pray the mod will actually pick at good vehicle like this or the us armies matv...
 					</div>
 				</li>
-							<li>
-					<div class="tab-comments-avatar"></div>
-					<div class="tab-comments-text">
-						<a href="http://www.defencetalk.com/first-made-in-singapore-vehicle-for-british-army-unveiled-22236/#comment-1532">mark:</a>
-						another poor vehicle chosen by the rocket scientists at the mod .body bags to follow...
-					</div>
-				</li>
-							<li>
-					<div class="tab-comments-avatar"></div>
-					<div class="tab-comments-text">
-						<a href="http://www.defencetalk.com/german-eurofighters-intercept-russian-transport-22133/#comment-1305">Hermes Birkin:</a>
-						Recently NATO is bring more pressure to Russia. Those who spoke out in candid terms on the important question usually co...
-					</div>
-				</li>
 						 
 			</ul> <!-- END -->
 			
 			<ul id="tab_sidebar_popular" class="tab_sidebar_list"> <!-- Popular Posts -->
 				<h2 class="widgettitle">Popular Articles</h2>
 <ul><!-- Wordpress Popular Posts Plugin v1.5.0 -->
-<li><a href="http://www.defencetalk.com/present-future-weapons-displayed-on-capitol-hill-15711/" title="Present, Future Weapons Displayed on Capitol Hill"><span class="wpp-post-title">Present, Future Weapons D...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">38883  view(s)</span></span> </li>
-<li><a href="http://www.defencetalk.com/soldiers-trying-new-protective-vests-in-baghdad-14648/" title="Soldiers Trying New Protective Vests in Baghdad"><span class="wpp-post-title">Soldiers Trying New Prote...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">20206  view(s)</span></span> </li>
-<li><a href="http://www.defencetalk.com/boeing-reports-first-quarter-deliveries-17186/" title="Boeing Reports First-Quarter Deliveries"><span class="wpp-post-title">Boeing Reports First-Quar...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">18302  view(s)</span></span> </li>
-<li><a href="http://www.defencetalk.com/about/rss-feeds/" title="RSS Feeds"><span class="wpp-post-title">RSS Feeds...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">13990  view(s)</span></span> </li>
-<li><a href="http://www.defencetalk.com/russian-weapons-idef-2009-defense-show-18313/" title="Best Russian Weapons for IDEF 2009 Defense Show"><span class="wpp-post-title">Best Russian Weapons for ...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">13784  view(s)</span></span> </li>
-<li><a href="http://www.defencetalk.com/death-toll-figures-reveal-high-civilian-casualties-686/" title="Death toll figures reveal high civilian casualties"><span class="wpp-post-title">Death toll figures reveal...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">12336  view(s)</span></span> </li>
-<li><a href="http://www.defencetalk.com/overview-of-the-dod-fiscal-2010-budget-proposal-18684/" title="Overview of the DoD Fiscal 2010 Budget Proposal"><span class="wpp-post-title">Overview of the DoD Fisca...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">11396  view(s)</span></span> </li>
-<li><a href="http://www.defencetalk.com/pictures-british-army-shows-off-its-weapons-firepower-17386/" title="Pictures: British Army shows off its Weapons, Firepower"><span class="wpp-post-title">Pictures: British Army sh...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">11381  view(s)</span></span> </li>
-<li><a href="http://www.defencetalk.com/skorea-to-develop-new-weapon-to-replace-hawk-missiles-4143/" title="SKorea to develop new weapon to replace Hawk missiles"><span class="wpp-post-title">SKorea to develop new wea...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">10599  view(s)</span></span> </li>
-<li><a href="http://www.defencetalk.com/about/" title="About us"><span class="wpp-post-title">About us...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">10192  view(s)</span></span> </li>
+<li><a href="http://www.defencetalk.com/death-toll-figures-reveal-high-civilian-casualties-686/" title="Death toll figures reveal high civilian casualties"><span class="wpp-post-title">Death toll figures reveal...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">52063  view(s)</span></span> </li>
+<li><a href="http://www.defencetalk.com/present-future-weapons-displayed-on-capitol-hill-15711/" title="Present, Future Weapons Displayed on Capitol Hill"><span class="wpp-post-title">Present, Future Weapons D...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">42879  view(s)</span></span> </li>
+<li><a href="http://www.defencetalk.com/about/rss-feeds/" title="RSS Feeds"><span class="wpp-post-title">RSS Feeds...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">27506  view(s)</span></span> </li>
+<li><a href="http://www.defencetalk.com/soldiers-trying-new-protective-vests-in-baghdad-14648/" title="Soldiers Trying New Protective Vests in Baghdad"><span class="wpp-post-title">Soldiers Trying New Prote...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">23316  view(s)</span></span> </li>
+<li><a href="http://www.defencetalk.com/russia-production-mig-35-fighters-for-india-in-2013-21202/" title="Russia aims to start making MiG-35 fighters for India in 2013"><span class="wpp-post-title">Russia aims to start maki...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">23075  view(s)</span></span> </li>
+<li><a href="http://www.defencetalk.com/boeing-reports-first-quarter-deliveries-17186/" title="Boeing Reports First-Quarter Deliveries"><span class="wpp-post-title">Boeing Reports First-Quar...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">21787  view(s)</span></span> </li>
+<li><a href="http://www.defencetalk.com/russian-weapons-idef-2009-defense-show-18313/" title="Best Russian Weapons for IDEF 2009 Defense Show"><span class="wpp-post-title">Best Russian Weapons for ...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">21369  view(s)</span></span> </li>
+<li><a href="http://www.defencetalk.com/about/" title="About us"><span class="wpp-post-title">About us...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">20098  view(s)</span></span> </li>
+<li><a href="http://www.defencetalk.com/pictures-british-army-shows-off-its-weapons-firepower-17386/" title="Pictures: British Army shows off its Weapons, Firepower"><span class="wpp-post-title">Pictures: British Army sh...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">19096  view(s)</span></span> </li>
+<li><a href="http://www.defencetalk.com/overview-of-the-dod-fiscal-2010-budget-proposal-18684/" title="Overview of the DoD Fiscal 2010 Budget Proposal"><span class="wpp-post-title">Overview of the DoD Fisca...</span></a>  <span class="post-stats"><span class="wpp-comments">0  comment(s)</span> | <span class="wpp-views">16762  view(s)</span></span> </li>
 
 </ul><!-- End Wordpress Popular Posts Plugin v1.5.0 -->
 			</ul> <!-- END -->
 			
 			<ul id="tab_sidebar_tags" class="tab_sidebar_list"> <!-- Tagcloud -->
-														<a href="http://www.defencetalk.com/tag/afghanistan/" class="tag-link-200" title="167 topics" rel="tag" style="font-size: 15.0588235294pt;">afghanistan</a>
-<a href="http://www.defencetalk.com/tag/army/" class="tag-link-57" title="71 topics" rel="tag" style="font-size: 8pt;">Army News</a>
-<a href="http://www.defencetalk.com/tag/exercise/" class="tag-link-209" title="77 topics" rel="tag" style="font-size: 8.44117647059pt;">exercise</a>
-<a href="http://www.defencetalk.com/tag/fighter-aircraft/" class="tag-link-9" title="114 topics" rel="tag" style="font-size: 11.1617647059pt;">Fighter Aircraft</a>
-<a href="http://www.defencetalk.com/tag/india/" class="tag-link-42" title="82 topics" rel="tag" style="font-size: 8.80882352941pt;">india</a>
-<a href="http://www.defencetalk.com/tag/nato/" class="tag-link-71" title="92 topics" rel="tag" style="font-size: 9.54411764706pt;">NATO</a>
-<a href="http://www.defencetalk.com/tag/pakistan/" class="tag-link-223" title="128 topics" rel="tag" style="font-size: 12.1911764706pt;">pakistan</a>
-<a href="http://www.defencetalk.com/tag/russia/" class="tag-link-92" title="207 topics" rel="tag" style="font-size: 18pt;">russia</a>
-<a href="http://www.defencetalk.com/tag/security/" class="tag-link-189" title="97 topics" rel="tag" style="font-size: 9.91176470588pt;">security</a>
-<a href="http://www.defencetalk.com/tag/taliban/" class="tag-link-420" title="80 topics" rel="tag" style="font-size: 8.66176470588pt;">taliban</a>
-<a href="http://www.defencetalk.com/tag/training/" class="tag-link-196" title="108 topics" rel="tag" style="font-size: 10.7205882353pt;">training</a>
-<a href="http://www.defencetalk.com/tag/uav/" class="tag-link-23" title="85 topics" rel="tag" style="font-size: 9.02941176471pt;">Unmanned Aerial Vehicle</a>
-<a href="http://www.defencetalk.com/tag/us-navy/" class="tag-link-124" title="76 topics" rel="tag" style="font-size: 8.36764705882pt;">US navy</a>
-<a href="http://www.defencetalk.com/tag/war/" class="tag-link-462" title="75 topics" rel="tag" style="font-size: 8.29411764706pt;">war</a>
-<a href="http://www.defencetalk.com/tag/war-on-terror/" class="tag-link-218" title="130 topics" rel="tag" style="font-size: 12.3382352941pt;">war on terror</a>								</ul> <!-- END -->
+														<a href="http://www.defencetalk.com/tag/afghanistan/" class="tag-link-200" title="259 topics" style="font-size: 16pt;">afghanistan</a>
+<a href="http://www.defencetalk.com/tag/air-force/" class="tag-link-10" title="138 topics" style="font-size: 10.6pt;">air force</a>
+<a href="http://www.defencetalk.com/tag/army/" class="tag-link-57" title="177 topics" style="font-size: 12.8pt;">Army News</a>
+<a href="http://www.defencetalk.com/tag/exercise/" class="tag-link-209" title="103 topics" style="font-size: 8.2pt;">exercise</a>
+<a href="http://www.defencetalk.com/tag/fighter-aircraft/" class="tag-link-9" title="188 topics" style="font-size: 13.4pt;">Fighter Aircraft</a>
+<a href="http://www.defencetalk.com/tag/helicopter/" class="tag-link-263" title="102 topics" style="font-size: 8pt;">helicopter</a>
+<a href="http://www.defencetalk.com/tag/india/" class="tag-link-42" title="143 topics" style="font-size: 11pt;">india</a>
+<a href="http://www.defencetalk.com/tag/nato/" class="tag-link-71" title="134 topics" style="font-size: 10.4pt;">NATO</a>
+<a href="http://www.defencetalk.com/tag/pakistan/" class="tag-link-223" title="180 topics" style="font-size: 13pt;">pakistan</a>
+<a href="http://www.defencetalk.com/tag/russia/" class="tag-link-92" title="320 topics" style="font-size: 18pt;">russia</a>
+<a href="http://www.defencetalk.com/tag/security/" class="tag-link-189" title="145 topics" style="font-size: 11pt;">security</a>
+<a href="http://www.defencetalk.com/tag/taliban/" class="tag-link-420" title="104 topics" style="font-size: 8.2pt;">taliban</a>
+<a href="http://www.defencetalk.com/tag/training/" class="tag-link-196" title="159 topics" style="font-size: 11.8pt;">training</a>
+<a href="http://www.defencetalk.com/tag/uav/" class="tag-link-23" title="136 topics" style="font-size: 10.6pt;">Unmanned Aerial Vehicle</a>
+<a href="http://www.defencetalk.com/tag/war-on-terror/" class="tag-link-218" title="142 topics" style="font-size: 11pt;">war on terror</a>								</ul> <!-- END -->
 			<div class="clear"></div></div>
 	</div>	<div class="clear"></div>
 	</div>
  
 	 
-
-<!-- START F-14 Pictures -->
-
-<!-- Start Military Picture Uploads -->
-
-<ul id="rss-386207481" class="widget">
-	<h3><a class="rsswidget" href="http://feeds2.feedburner.com/military-photos" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="http://www.defencetalk.com/wpress/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.defencetalk.com/pictures/" title="">Latest Military Pictures</a></h3>
-	<ul id="military-pictures"><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37261">USAF Heritag...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37261"><img title="Nellis_09_HF_IMG_4767.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4916/thumbs/Nellis_09_HF_IMG_4767.jpg" alt="Nellis_09_HF_IMG_4767.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/A5o4gdIFRP4" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37260">USAF F-4 Pha...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37260"><img title="Nellis_09_F-4_IMG_4569.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4916/thumbs/Nellis_09_F-4_IMG_4569.jpg" alt="Nellis_09_F-4_IMG_4569.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/J8RGp61MPps" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37258">US Navy F/A-...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37258"><img title="Nellis_09_F-18F_IMG_4307.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4916/thumbs/Nellis_09_F-18F_IMG_4307.jpg" alt="Nellis_09_F-18F_IMG_4307.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/xaiW1EjYNyY" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37259">USAF F-22A R...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37259"><img title="Nellis_09_F-22_IMG_3817a.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4916/thumbs/Nellis_09_F-22_IMG_3817a.jpg" alt="Nellis_09_F-22_IMG_3817a.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/R7r1lapED28" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37256">USAF F-4 Pha...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37256"><img title="Nellis_09_F-4_IMG_4595.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4916/thumbs/Nellis_09_F-4_IMG_4595.jpg" alt="Nellis_09_F-4_IMG_4595.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/HJ6k7571y0c" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37257">USAF Heritag...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37257"><img title="Nellis_09_HF_IMG_4786.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4916/thumbs/Nellis_09_HF_IMG_4786.jpg" alt="Nellis_09_HF_IMG_4786.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/00_JdsUVrMM" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37255">USAF F-22A R...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37255"><img title="Nellis_09_F-22_IMG_3752a.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4916/thumbs/Nellis_09_F-22_IMG_3752a.jpg" alt="Nellis_09_F-22_IMG_3752a.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/6rDteY0ewIo" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37254">US Navy F/A-...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37254"><img title="Nellis_09_F-18F_IMG_4254.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4916/thumbs/Nellis_09_F-18F_IMG_4254.jpg" alt="Nellis_09_F-18F_IMG_4254.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/TWu9teZ2puU" height="1" width="1"></li><li><strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37252">RNAF F-16 Fa...</a></strong><a href="http://www.defencetalk.com/pictures/showphoto.php?photo=37252"><img title="Nellis_09_RNAF_IMG_4447.jpg" border="0" src="http://www.defencetalk.com/pictures/data/4895/thumbs/Nellis_09_RNAF_IMG_4447.jpg" alt="Nellis_09_RNAF_IMG_4447.jpg"></a><br><img src="http://feeds.feedburner.com/~r/military-photos/~4/TE_voC2kRwk" height="1" width="1"></li></ul>
-        
-
-
-<!-- start Forum Topics -->
-<ul id="rss-386207481" class="widget">
-<h3><a class="rsswidget" href="http://feeds2.feedburner.com/defenceforum" title="Syndicate this content"><img style="background: orange; color: white; border: none;" width="14" height="14" src="http://www.defencetalk.com/wpress/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.defencetalk.com/forums/" title="">Defense Forum Topics</a></h3>
-<li><a title="Interesting article-Iran has defense headache" href="http://www.defencetalk.com/forums/military-defense/interesting-article-iran-has-defense-headache-9893/">Interesting article-Iran has defense headache </a></li><li><a title="China NAF in cracks by cauchy3" href="http://www.defencetalk.com/forums/military-defense/china-naf-cracks-cauchy3-9892/">China NAF in cracks by cauchy3 </a></li><li><a title="MiG-29 to Myanmar (Burma)" href="http://www.defencetalk.com/forums/air-force-aviation/mig-29-myanmar-burma-9889/">MiG-29 to Myanmar (Burma) </a></li><li><a title="New American USAF Bomber" href="http://www.defencetalk.com/forums/air-force-aviation/new-american-usaf-bomber-9888/">New American USAF Bomber </a></li><li><a title="Su-27 &amp; Su-30" href="http://www.defencetalk.com/forums/air-force-aviation/su-27-su-30-a-9887/">Su-27 &amp; Su-30 </a></li><li><a title="Spain updates AEGIS destroyers" href="http://www.defencetalk.com/forums/navy-maritime/spain-updates-aegis-destroyers-9883/">Spain updates AEGIS destroyers </a></li><li><a title="US Airforce Drones Hacked!" href="http://www.defencetalk.com/forums/air-force-aviation/us-airforce-drones-hacked-9879/">US Airforce Drones Hacked! </a></li><li><a title="How do you protect yourself" href="http://www.defencetalk.com/forums/military-defense/how-do-you-protect-yourself-9877/">How do you protect yourself </a></li></ul>
-
-
-<!-- Start Sidebar-1 Widgets -->
-<ul id="text-399760241" class="widget">	
-<h3>Recommended Resources</h3>			
-<div class="textwidget">
-<li>Veterans can obtain information regarding <a href="http://www.vamortgagecenter.com/">VA Loans</a> including how to get a <a href="http://www.vamortgagecenter.com/refinance.htm">VA Refinance</a></li>
-</div>
-		</ul>
-		
- 
-	<ul id="random-pages-widget" class="widget"><h3>More Defense News</h3>
-<ul>
-<li><a href="http://www.defencetalk.com/fighter-deals-on-the-way-1586/">Fighter Deals on the Way</a></li>
-<li><a href="http://www.defencetalk.com/analysis-zombie-nato-springs-to-life-4344/">Analysis: 'Zombie' NATO springs to life</a></li>
-<li><a href="http://www.defencetalk.com/thinking-of-tankers-tactically-10674/">Thinking of Tankers Tactically</a></li>
-<li><a href="http://www.defencetalk.com/pogo-sources-report-that-rainfall-has-wiped-out-25-of-us-missile-defense-capability-10757/">POGO Sources Report that Rainfall Has Wiped Out 25% of US Missile Defense Capability</a></li>
-<li><a href="http://www.defencetalk.com/navy-awards-contracts-for-zumwalt-class-destroyers-14938/">Navy Awards Contracts for Zumwalt Class Destroyers</a></li>
-</ul>
-</ul><ul id="search-3" class="widget"><h3>Search Defense Talk</h3><form method="get" id="searchform" action="http://www.defencetalk.com/">
+	<ul id="search-3" class="widget"><h3>Search Defense Talk</h3><form method="get" id="searchform" action="http://www.defencetalk.com/">
  
 	<input type="text" onblur="if (this.value == '') {this.value = 'search...';}" onfocus="if (this.value == 'search...') {this.value = '';}" value="search..." name="s" id="s">
 	<input type="submit" id="searchsubmit" value="Search">
 </form>
-</ul> 
+</ul><ul id="linkcat-2" class="widget"><h3>DT Friends</h3>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.virtualization.net" rel="friend" title="Virtualization and cloud computing portal" target="_blank" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-blogroll/www.virtualization.net']);" "="">Virtualization</a></li>
+
+	</ul>
+</ul>
+<ul id="text-3" class="widget"><h3>Subscribe to our Defense Newsletter</h3>			<div class="textwidget"><!-- begin subscription_form_widget.tmpl --> 
+<form action="http://www.defencetalk.com/cgi-bin/dada/mail.cgi" method="post">
+<br>
+<input type="hidden" name="list" value="defnews">
+Email&nbsp;Address: 
+
+<input type="text" name="email" id="email" value=""> <span class="error">* Required</span>
+<br><br>
+    <strong>Subscribe:</strong> 
+  <input type="radio" name="f" id="f_s" value="subscribe" checked="checked">
+    Unsubscribe: <input type="radio" name="f" id="f_u" value="unsubscribe">
+<br><br>
+<input type="submit" value="Submit Your Information" class="processing"> 
+</form> 
+<!-- end subscription_form_widget.tmpl --> </div>
+		</ul> 
          
  
             
       <div id="sidebar_left">        
-      <ul id="seo-booster-pro" class="widget"><h3>Popular Searches</h3><ul><li><a href="http://www.defencetalk.com/javelin-anti-tank-guided-missile-17080/">javelin missile</a></li><li><a href="http://www.defencetalk.com/x-47b-ucas-validated-for-carrier-operations-20757/">x-47b</a></li><li><a href="http://www.defencetalk.com/russia-production-mig-35-fighters-for-india-in-2013-21202/">mig-35</a></li><li><a href="http://www.defencetalk.com/aviation-nation-2008-22-raptor-demo-21166/">aviation nation 2009</a></li><li><a href="http://www.defencetalk.com/next-generation-crows-ii-increases-soldiers-safety-20942/">crows ii</a></li><li><a href="http://www.defencetalk.com/indian-economy-vs-chinese-india-overtake-china-2020-2025-part-2-21859/">indian economy vs chinese economy</a></li><li><a href="http://www.defencetalk.com/advanced-tactical-laser-aircraft-fires-high-power-laser-in-flight-19988/">advanced tactical laser</a></li><li><a href="http://www.defencetalk.com/first-trinidad-and-tobago-coast-guard-patrol-boat-launched-19049/">trinidad and tobago coast guard</a></li><li><a href="http://www.defencetalk.com/unmanned-baby-submarine-protect-coastal-waters-20359/">unmanned submarine</a></li><li><a href="http://www.defencetalk.com/russian-company-develops-heavy-uav-for-military-use-20919/">russian uav</a></li></ul></ul>	 	  </div>
+      <ul id="seo-booster-pro" class="widget"><h3>Popular Searches</h3><ul><li><a href="http://www.defencetalk.com/chinese-military-parade-video-2-26153/">chinese military parade 2010</a></li><li><a href="http://www.defencetalk.com/multinational-exercise-ends-in-baltic-sea-20034/">baltops 2010</a></li><li><a href="http://www.defencetalk.com/mod-questions-for-strategic-defense-review-24018/">strategic defence review 2010</a></li><li><a href="http://www.defencetalk.com/russia-production-mig-35-fighters-for-india-in-2013-21202/">mig-35</a></li><li><a href="http://www.defencetalk.com/marines-footage-warning-graphic-2-25290/">military videos graphic</a></li><li><a href="http://www.defencetalk.com/russian-air-force-to-acquire-60-su-family-jet-fighters-by-2015-21211/">russian air force</a></li><li><a href="http://www.defencetalk.com/us-army-recruits-immigrants-rewards-them-with-citizenship-17694/">mavni program 2010</a></li><li><a href="http://www.defencetalk.com/india-defence-drive-attracts-global-suppliers-21470/">latest defence news regarding india</a></li><li><a href="http://www.defencetalk.com/boeing-to-offer-newgen-tanker-to-us-air-force-24704/">boeing tanker news</a></li><li><a href="http://www.defencetalk.com/c130-gunship-attack-dramatic-25855/">c130 gunship</a></li></ul></ul>	 	  </div>
 	  
 	  
 	     <div id="sidebar_right">        
       <ul id="pages-3" class="widget"><h3>About us</h3>		<ul>
-			<li class="page_item page-item-2 current_page_ancestor current_page_parent"><a href="http://www.defencetalk.com/about/">About us</a>
+			<li class="page_item page-item-2 current_page_ancestor current_page_parent"><a href="http://www.defencetalk.com/about/" title="About us">About us</a>
 <ul>
-	<li class="page_item page-item-15"><a href="http://www.defencetalk.com/about/advertise-with-us/">Advertise with us</a></li>
-	<li class="page_item page-item-23"><a href="http://www.defencetalk.com/about/disclaimer/">Disclaimer</a></li>
-	<li class="page_item page-item-18"><a href="http://www.defencetalk.com/about/get-paid-to-write/">Get Paid to Write</a></li>
-	<li class="page_item page-item-29 current_page_item"><a href="http://www.defencetalk.com/about/privacy-policy/">Privacy Policy</a></li>
-	<li class="page_item page-item-16835"><a href="http://www.defencetalk.com/about/rss-feeds/">RSS Feeds</a></li>
-	<li class="page_item page-item-27"><a href="http://www.defencetalk.com/about/terms-of-use/">Terms of use</a></li>
+	<li class="page_item page-item-15"><a href="http://www.defencetalk.com/about/advertise-with-us/" title="Advertise with us">Advertise with us</a></li>
+	<li class="page_item page-item-23"><a href="http://www.defencetalk.com/about/disclaimer/" title="Disclaimer">Disclaimer</a></li>
+	<li class="page_item page-item-18"><a href="http://www.defencetalk.com/about/get-paid-to-write/" title="Get Paid to Write">Get Paid to Write</a></li>
+	<li class="page_item page-item-29 current_page_item"><a href="http://www.defencetalk.com/about/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+	<li class="page_item page-item-16835"><a href="http://www.defencetalk.com/about/rss-feeds/" title="RSS Feeds">RSS Feeds</a></li>
+	<li class="page_item page-item-27"><a href="http://www.defencetalk.com/about/terms-of-use/" title="Terms of use">Terms of use</a></li>
 </ul>
 </li>
-<li class="page_item page-item-16817"><a href="http://www.defencetalk.com/store/">Military Store</a></li>
+<li class="page_item page-item-16817"><a href="http://www.defencetalk.com/store/" title="Military Store">Military Store</a></li>
 		</ul>
 		</ul>	     </div>
 
@@ -559,12 +661,13 @@ var addthis_hover_delay = 200;
          
          
          <div id="footer">
+ 
               <div id="subscribe">
               <h4><img src="http://www.defencetalk.com/wp-content/themes/dtstyle/images/feed.png" alt="Subscribe to RSS"> Subscribe</h4>
               <p>Subscribe to <a href="http://www.defencetalk.com/feed/">RSS</a> or enter you email to receive newsletter for news, articles, and updates about what's new.</p>
-<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://feeds2.feedburner.com/defense/', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=defense', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
                 <input type="text" onblur="if (this.value == '') {this.value = 'enter your email...';}" onfocus="if (this.value == 'enter your email...') {this.value = '';}" value="enter your email..." name="semail" id="semail">
-                <input type="hidden" value="http://feeds2.feedburner.com/defense/" name="uri">
+                <input type="hidden" value="defense" name="uri">
                 <input type="hidden" name="loc" value="en_US">
                 <input type="submit" id="submit" value="Subscribe">
                 </form>               </div> 
@@ -588,14 +691,6 @@ Copyright � DefenceTalk 2003-2009. All Rights Reserved.
 
 </div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-211582-2");
-pageTracker._trackPageview();
-} catch(err) {}</script><script type="text/javascript">
 /* <![CDATA[ */
 var ratingsL10n = {
 	plugin_url: "http://www.defencetalk.com/wp-content/plugins/wp-postratings",
@@ -612,6 +707,23 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.defencetalk.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.50"></script>
+<script type="text/javascript" src="http://www.defencetalk.com/wp-content/plugins/sexybookmarks/js/sexy-bookmarks-public.js?ver=3.2.3"></script>
+	<!-- Google Analytics for WordPress - async tracking beta | http://yoast.com/wordpress/google-analytics/ -->
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push( 
+		['_setAccount','UA-211582-2'],
+		['_trackPageview'] 
+	);
+	</script>
+	<script type="text/javascript">
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+	</script>
+	<!-- End of Google Analytics async tracking beta code -->
 <script type="text/javascript">var infolink_pid = 36466;</script>
 <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 
