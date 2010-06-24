@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sagenorthamerica.com privacy policy that was archived on 2009-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620000544id_/http%3A//www.sagenorthamerica.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sagenorthamerica.com privacy policy that was archived on 2010-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624022310id_/http%3A//www.sagenorthamerica.com/privacy) for the most accurate reproduction.-->
 
 <html><head><link type="text/css" href="/imageserver/plumtree/common/public/css/sagena-en.css" rel="StyleSheet" lang="en"><script type="text/javascript" src="/imageserver/sage/cms/global/public/js/panelhelper.js"></script><script type="text/javascript" src="/imageserver/sage/cms/subportals/sagenorthamerica/private/js/searchheader.js"></script><link type="text/css" href="/imageserver/sage/cms/subportals/sagenorthamerica/private/css/searchheader.css" rel="stylesheet" lang="en"><title>Privacy Statement - Sage North America</title><meta content="" name="description"><meta content="" name="keywords"><script type="text/javascript">
 if (!document.getElementById('PTIncluder-js')) {
@@ -34,7 +34,7 @@ PTPortalContext.GET_SESSION_PREFS_URL = 'http://www.sagenorthamerica.com/portal/
 PTPortalContext.SET_SESSION_PREFS_URL = 'http://www.sagenorthamerica.com/portal/server.pt?space=SessionPrefs&control=SessionPrefs&action=setprefs';
 
 PTPortalContext.USER_LOCALE = 'en-us';
-PTPortalContext.USER_LOGIN_NAME = 'SageNorthAmericaGuest';
+PTPortalContext.USER_LOGIN_NAME = 'Guest';
 
 PTPortalContext.PAGE_TYPE = PTPortalPage.TYPE_COMMUNITY_PAGE;
 
@@ -61,7 +61,7 @@ function OpenerAS_GetApplicationBaseURL()
 }
 function OpenerAS_GetCurrentUserID()
 {
-	return "240";
+	return "2";
 }
 function OpenerAS_GetParentSpaceName()
 {
@@ -101,9 +101,9 @@ function getSafeVarWarn(strName) {
 	 if ( arArgs.length > 3) { strCommURL += '&ProfileID='+arArgs[3]; }
 	  return strCommURL;
 	} else if (arArgs[0] == 'M') {
-	 return PTCommonOpener.getOpenerURLOpenObjID(518, 240, '&PageID='+arArgs[1]+'', 2)
+	 return PTCommonOpener.getOpenerURLOpenObjID(518, 2, '&PageID='+arArgs[1]+'', 2)
 	} else if (arArgs[0] == 'SM') {
-	  return 'http://www.sagenorthamerica.com/portal/server.pt?open=space&name=SiteMap&psname=CommunityPage&psid=1&cached=true&in_hi_userid=240&control=SetSiteMap&CommunityID='+arArgs[1]+'&Mode='+arArgs[2]+(eval(arArgs[3]) ? '&Preview=' : '');
+	  return 'http://www.sagenorthamerica.com/portal/server.pt?open=space&name=SiteMap&psname=CommunityPage&psid=1&cached=true&in_hi_userid=2&control=SetSiteMap&CommunityID='+arArgs[1]+'&Mode='+arArgs[2]+(eval(arArgs[3]) ? '&Preview=' : '');
 	} else if (arArgs[0] == 'S') {
 	  return null;
 	} else if (arArgs[0] == 'E') {
@@ -112,7 +112,7 @@ function getSafeVarWarn(strName) {
 	      for ( var i = 2; i < arArgs.length; i++ ) {
 	        params += '&' + arArgs[i];
 	      } }
-	  return 'http://www.sagenorthamerica.com/portal/server.pt?open=space&name='+arArgs[1]+'&psname=CommunityPage&psid=1&cached=true&in_hi_userid=240' + params;
+	  return 'http://www.sagenorthamerica.com/portal/server.pt?open=space&name='+arArgs[1]+'&psname=CommunityPage&psid=1&cached=true&in_hi_userid=2' + params;
 	} else if (arArgs[0] == 'D') {
 	 return PTCommonOpener.getOpenerURLOpenObjID(17, arArgs[2], '&DirMode='+arArgs[1]+'', 2)
 	} else if (arArgs[0] == 'G1') {
@@ -121,7 +121,7 @@ function getSafeVarWarn(strName) {
 	      for ( var i = 2; i < arArgs.length; i++ ) {
 	        params += '&' + arArgs[i];
 	      } }
-	  return 'http://www.sagenorthamerica.com/portal/server.pt?open=space&name='+arArgs[1]+'&psname=CommunityPage&psid=1&cached=true&in_hi_userid=240' + params;
+	  return 'http://www.sagenorthamerica.com/portal/server.pt?open=space&name='+arArgs[1]+'&psname=CommunityPage&psid=1&cached=true&in_hi_userid=2' + params;
 	} else if (arArgs[0] == 'IF') {
 	  return arArgs[1];
 	} else {
@@ -176,8 +176,6 @@ pt_2514 = new PTPortlet('2514', '{7E24AE3C-E735-4B1A-999B-71F3A23A61E6}', 'Body'
 
 
 <body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" class="SAGEPortalBodyStyle" id="pt-page-1800"><div class="products three-col"><div class="portalContent" id="pt-portal-content-1800">
-
-
 <div>
 
 </div>
@@ -239,58 +237,51 @@ function ToggleHover(oElm, bMouseOver)
 	            <li id="util-contactsage"><a href="http://www.sagenorthamerica.com/company/contact">Contact Sage</a></li>
 	            <li id="util-sageworldwide"><a href="http://www.sage.com" target="_blank">Sage Worldwide</a></li>
 	            <li id="util-sagesites"><select name="ctrlGlobalDropDown$ctrlDropDown" id="ctrlGlobalDropDown_ctrlDropDown" onchange="if(this.value!='') self.location.href=this.value;">
-	<option value=" ">Product Web Sites</option>
+	<option value="">Product Web Sites</option>
 	<option value="http://www.sageabra.com">Sage Abra</option>
-	<option value="http://www.sageaccountantsnetwork.com">Sage Accountants Network</option>
 	<option value="http://www.sageaccpac.com">Sage Accpac</option>
+	<option value="http://www.sagepayments.com/Sage-Services/ACH-Processing.aspx">Sage ACH Processing</option>
 	<option value="http://www.act.com">ACT! by Sage</option>
 	<option value="http://www.sagespecialized.com/Products/BudgetingandPlanningSolutions/index.asp">Sage Active Planner</option>
-	<option value="http://www.sagepayments.com/Products/AdvanceFunding.aspx">Sage Advance Funding</option>
 	<option value="http://www.sagebusinessvision.com">Sage BusinessVision</option>
 	<option value="http://www.sagesoftware.com/businessworks">Sage BusinessWorks</option>
-	<option value="http://www.sagepayments.com/Products/BankCard.aspx">Sage Card Processing</option>
+	<option value="http://www.sagepayments.com/Sage-Services/Card-Processing.aspx">Sage Card Processing</option>
 	<option value="http://www.sagespecialized.com/Products/CarpeDiem/index.asp">Sage Carpe Diem</option>
-	<option value="http://www.sagepayments.com/Products/CheckConversion.aspx">Sage Collect Direct</option>
-	<option value="http://www.sagepayments.com/FI.aspx">Sage Community Banking</option>
+	<option value="http://www.sagepayments.com/Sage-Services/Check-Processing.aspx">Sage Check Processing</option>
 	<option value="http://www.sagecomplianceservices.com">Sage Compliance Services</option>
 	<option value="http://www.sagecrmsolutions.com">SageCRM</option>
 	<option value="http://www.sagecrmsolutions.com">SageCRM.com</option>
 	<option value="http://www.daceasy.com">DacEasy by Sage</option>
-	<option value="http://www.sagepayments.com/Products/VirtualCheck.aspx">Sage Electronic Check Services</option>
-	<option value="http://www.sagenonprofit.com">Sage Endowment Management</option>
+	<option value="http://www.sageerpx3.us/">Sage ERP X3</option>
 	<option value="http://www.sagefas.com">Sage FAS Fixed Assets</option>
 	<option value="http://www.sagenonprofit.com">Sage Fundraising</option>
-	<option value="http://www.sagepayments.com/Products/Gateway.aspx">Sage Gateway</option>
-	<option value="http://www.sagepayments.com/Products/GiftAndLoyalty.aspx">Sage Gift Card</option>
-	<option value="http://www.sagehealth.com">HealthPro XL by Sage</option>
-	<option value="http://www.sagepayments.com/Products/IntegratedPayments.aspx">Sage Integrated Payments</option>
-	<option value="http://www.sagehealth.com">Intergy by Sage</option>
-	<option value="http://www.sagehealth.com">Intergy EHR by Sage</option>
-	<option value="http://www.sagehealth.com">Intergy PACS by Sage</option>
-	<option value="http://www.sagehealth.com">Intergy RIS by Sage</option>
+	<option value="http://www.sagenonprofit.com">Sage Fundraising Online</option>
+	<option value="http://www.sagehealth.com">Sage Intergy</option>
+	<option value="http://www.sagehealth.com/products/community_health/intergy_chc/Pages/sage_intergy_chc.aspx?WT.mc_id=SageNA_IntergyCHC">Sage Intergy CHC</option>
+	<option value="http://www.sagehealth.com">Sage Intergy EHR</option>
+	<option value="http://www.sagehealth.com">Sage Intergy PACS</option>
+	<option value="http://www.sagehealth.com">Sage Intergy RIS</option>
 	<option value="http://www.sagemas.com">Sage MAS 90</option>
 	<option value="http://www.sagemas.com">Sage MAS 200</option>
 	<option value="http://www.sagemas.com">Sage MAS 500</option>
 	<option value="http://www.sagecre.com">Sage Master Builder</option>
-	<option value="http://www.sagehealth.com">The Medical Manager by Sage</option>
-	<option value="http://www.sagehealth.com">Medware by Sage</option>
+	<option value="http://www.sagehealth.com">Sage Medical Manager</option>
+	<option value="http://www.sagehealth.com">Sage MedWare</option>
 	<option value="http://www.sagenonprofit.com">Sage MIP Fund Accounting</option>
-	<option value="http://www.sagepayments.com/Products/OnlineReporting.aspx">Sage Online Reporting</option>
 	<option value="http://www.sagepayservices.com">Sage Payroll Services</option>
-	<option value="http://www.peachtree.com">Peachtree by Sage</option>
-	<option value="http://www.sagehealth.com">PCN Health Network by Sage</option>
-	<option value="http://www.sagehealth.com">PCN MENDS by Sage</option>
-	<option value="http://www.sagesoftware.com/pfw">Sage PFW</option>
-	<option value="http://www.sagehealth.com">Practice Analytics by Sage</option>
+	<option value="http://www.peachtree.com">Sage Peachtree</option>
+	<option value="http://www.sagehealth.com">Sage PCN Health Network</option>
+	<option value="http://www.sagehealth.com">Sage PCN MENDS</option>
+	<option value="http://www.sagepfw.com/">Sage PFW</option>
+	<option value="http://www.sagehealth.com/products/reporting/practice_analytics/Pages/practice_analytics.aspx">Sage Practice Analytics</option>
 	<option value="http://www.sageproerp.com">Sage Pro</option>
+	<option value="http://www.sagecre.com/products/project_lifecycle">Sage Project Lifecycle Management</option>
 	<option value="http://www.pvx.com">ProvideX</option>
 	<option value="http://www.sagecrmsolutions.com">Sage SalesLogix</option>
 	<option value="http://www.simplyaccounting.com">Simply Accounting by Sage</option>
-	<option value="http://www.sagecre.com">Sage Timberline Office</option>
-	<option value="http://www.sagetimesheets.com">Sage TimeSheet</option>
-	<option value="http://www.timeslips.com">Timeslips by Sage</option>
-	<option value="http://www.sagepayments.com/Products/vault.aspx">Sage Vault</option>
-	<option value="http://www.sagepayments.com/Products/VirtualTerminal.aspx">Sage Virtual Terminal</option>
+	<option value="http://www.sagecre.com/products/timberline_office">Sage Timberline Office</option>
+	<option value="http://www.sagetimesheet.com">Sage TimeSheet</option>
+	<option value="http://www.sagetimeslips.com">Sage Timeslips</option>
 
 </select></li>
 			</ul>
@@ -350,9 +341,7 @@ function ToggleHover(oElm, bMouseOver)
 	
 			<li><a href="http://www.sagenorthamerica.com/support_training/support_programs">Support Programs</a></li>
 		
-			<li><a href="http://www.sagenorthamerica.com/support_training/knowledgebase">Knowledgebase</a></li>
-		
-			<li><a href="http://www.sagenorthamerica.com/support_training/support_logon">Support Logon</a></li>
+			<li><a href="http://www.sagenorthamerica.com/support_training/support_assistance">Support Assistance</a></li>
 		
 			<li><a href="http://www.sagenorthamerica.com/support_training/customer_training">Customer Training</a></li>
 		
@@ -382,7 +371,9 @@ function ToggleHover(oElm, bMouseOver)
 					<a href="http://www.sagenorthamerica.com/customer_resources"></a>
 <ul class="Secondary">
 	
-			<li><a href="http://www.sagenorthamerica.com/customer_resources/support">Support</a></li>
+			<li><a href="http://www.sagenorthamerica.com/customer_resources/support">Support Programs</a></li>
+		
+			<li><a href="http://www.sagenorthamerica.com/customer_resources/support_assistance">Support Assistance</a></li>
 		
 			<li><a href="http://www.sagenorthamerica.com/customer_resources/training">Training</a></li>
 		
@@ -391,8 +382,6 @@ function ToggleHover(oElm, bMouseOver)
 			<li><a href="http://www.sagenorthamerica.com/customer_resources/compatible_products">End-to-End Solutions</a></li>
 		
 			<li><a href="http://www.sagenorthamerica.com/customer_resources/partner_solutions">Partner Solutions</a></li>
-		
-			<li><a href="http://www.sagenorthamerica.com/customer_resources/customer_referral_program">Customer Referral Program</a></li>
 		
 			<li><a href="http://www.sagenorthamerica.com/customer_resources/customer_awards_program">Customer Awards Program</a></li>
 		
@@ -448,7 +437,7 @@ function ToggleHover(oElm, bMouseOver)
 <div>
 
 	
-</div><table cellpadding="0" cellspacing="10" width="100%" border="0" class="layoutThreeColumn" id="outerTable"><tbody><tr><td align="left" valign="top" colspan="1"><table cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td align="left" valign="top" colspan="1"><div class="GlobalDiv_Custom" id="GlobalDiv_Custom"><table cellpadding="0" cellspacing="0" width="100%" border="0" summary="Portlet layout table."><tbody><tr><td align="center" valign="top" colspan="1" class="columnOne" id="columnOne"><!--Begin Portlet Column 0--><table cellpadding="0" cellspacing="0" width="100%" class="portletBase" id="pt-portlet-2641"><tbody><tr><td colspan="2" class="portletBody"><div class="customappText" id="pt-portlet-content-2641">
+</div><table cellpadding="0" cellspacing="10" width="100%" border="0" class="layoutThreeColumn" id="outerTable"><tbody><tr><td align="left" valign="top" colspan="1"><table cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td align="left" valign="top" colspan="1"><table cellpadding="0" cellspacing="0" width="100%" border="0" summary="Portlet layout table."><tbody><tr><td align="center" valign="top" colspan="1" class="columnOne" id="columnOne"><!--Begin Portlet Column 0--><table cellpadding="0" cellspacing="0" width="100%" class="portletBase" id="pt-portlet-2641"><tbody><tr><td colspan="2" class="portletBody"><div class="customappText" id="pt-portlet-content-2641">
 
 
 <div>
@@ -456,28 +445,8 @@ function ToggleHover(oElm, bMouseOver)
 </div>
 
 
-<style>
-	#util-sagesites-internal {
-		background: none;
-		padding-right: 0;
-		}
+<link href="http://www.sagenorthamerica.com/imageserver/sage/cms/portlets/products/private/css/ProductListingDropDown.css" rel="stylesheet" type="text/css">
 		
-	#util-sagesites-internal a {
-		padding-left: 0; padding-right: 20px;
-		background: url("/imageserver/portal_managed_assets/sagenorthamerica/admin/img/icon_utilityContainer_li_sagesites.gif") no-repeat center right;
-		}
-
-	#util-sagesites-internal select { 
-		width: 158px; 
-		height: 20px; 
-		margin-left: 0px;
-		margin-bottom: 1px;
-		font-size: 11px; line-height: 14px;
-		color: #606060;
-		height: 21px;
-		padding: 1px;
-		}
-</style>
 
 
         
@@ -549,8 +518,8 @@ function ToggleHover(oElm, bMouseOver)
 </tr>
 </tbody></table>
 <!--End Portlet Column 0--></td>
-<td colspan="1" id="horizontalPaddingCell0"><img src="/imageserver/plumtree/portal/public/img/sp.gif" alt="" border="0" align="absmiddle" height="1" width="0"></td>
-<td align="center" valign="top" width="100%" colspan="1" id="columnTwo"><!--Begin Portlet Column -1--><!--End Portlet Column -1--><table cellpadding="0" cellspacing="0" width="100%" border="0" summary="Portlet padding."><tbody><tr><td colspan="1" id="portletVerticalPaddingRow1"><img src="/imageserver/plumtree/portal/public/img/sp.gif" alt="" border="0" align="absmiddle" height="0" width="1"></td>
+<td colspan="1" id="horizontalPaddingCell0"><img src="/imageserver/plumtree/portal/public/img/sp.gif" alt="" border="0" align="absmiddle" height="1" width="10"></td>
+<td align="center" valign="top" width="100%" colspan="1" id="columnTwo"><!--Begin Portlet Column -1--><!--End Portlet Column -1--><table cellpadding="0" cellspacing="0" width="100%" border="0" summary="Portlet padding."><tbody><tr><td colspan="1" id="portletVerticalPaddingRow1"><img src="/imageserver/plumtree/portal/public/img/sp.gif" alt="" border="0" align="absmiddle" height="10" width="1"></td>
 </tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" width="100%" border="0" summary="Portlet layout table."><tbody><tr><td align="center" valign="top" width="100%" colspan="1" class="columnTwo" id="columnTwo"><!--Begin Portlet Column 1--><table cellpadding="0" cellspacing="0" width="100%" class="portletBase" id="pt-portlet-1573"><tbody><tr><td colspan="2" class="portletBody"><div class="customappText" id="pt-portlet-content-1573">
@@ -584,83 +553,71 @@ function ToggleHover(oElm, bMouseOver)
 	
 	
 		<p></p>
-<p>This Site is operated by or on behalf of a company within a group of affiliated companies collectively referred to as “The Sage Companies” with each such affiliated company being directly or indirectly wholly owned by The Sage Group plc. (“The Sage Group”).&nbsp; At Sage user privacy is important to us. We want you to feel confident visiting our Web sites and using our products. This Privacy Statement outlines the privacy practices regarding information collected by Sage at this Web site and other Sage Web sites that link to this Privacy Statement (the "Sites") and will tell you, as of the "Last Revised" date set forth at the end of this Privacy Statement, what information Sage collects at the Sites, how we use that information, what choices you have concerning how such information is used and how we protect your information. We encourage you to read our Privacy Statement so that you will understand both our commitment to you and your privacy and how you can participate in that commitment.</p>
-<p><br>
-The following sections make up our Privacy Statement. For immediate access to specific details, click on the applicable heading.</p>
-<p><br></p>
+<p>This Site is operated by or on behalf of a company within a group of affiliated companies collectively referred to as “The Sage Companies” with each such affiliated company being directly or indirectly wholly owned by The Sage Group plc. (“The Sage Group”). At Sage, user privacy is important to us. We want you to feel confident visiting our websites and using our products. This Privacy Statement outlines the privacy practices regarding information collected by Sage at this website and other Sage websites that link to this Privacy Statement (the "Sites") and will tell you, as of the "Last Revised" date set forth at the end of this Privacy Statement, what information Sage collects at the Sites, how we use that information, what choices you have concerning how such information is used and how we protect your information. We encourage you to read our Privacy Statement so that you will understand both our commitment to you and your privacy and how you can participate in that commitment.</p>
+<p>The following sections make up our Privacy Statement. For immediate access to specific details, click on the applicable heading.</p>
+<p></p>
 <ul>
-<li>Business Information Collection and Use By Sage<br></li>
-<li>Disclosure of Your Business Information<br></li>
-<li>How Sage Protects Your Privacy Internally<br></li>
-<li>Your Privacy Choices<br></li>
-<li>Correcting or Updating Your Business Information and Contacting Sage<br></li>
-<li>Linked Sites<br></li>
-<li>Consent to Transfer<br></li>
-<li>Changes to this Privacy Statement</li>
+<li><a href="#forums">Public Forums</a></li>
+<li><a href="#children">Statement Regarding Children</a></li>
+<li><a href="#infocollection">Business Information Collection and Use By Sage</a></li>
+<li><a href="#disclosure">Disclosure of Your Business Information</a></li>
+<li><a href="#protection">How Sage Protects Your Privacy Internally</a></li>
+<li><a href="#choices">Your Privacy Choices</a></li>
+<li><a href="#updating">Correcting or Updating Your Business Information and Contacting Sage</a></li>
+<li><a href="#linked">Linked Sites</a></li>
+<li><a href="#transfer">Consent to Transfer</a></li>
+<li><a href="#changes">Changes to this Privacy Statement</a></li>
 </ul>
-<p><br><strong>Public Forums.</strong> Please remember that any information (including personal and business information) that you submit, post or otherwise reveal in a public forum (such as a bulletin board, chat room, blog or product discussion forum) is not subject to this Privacy Statement, will be seen by third parties not related to Sage and may be used by them or Sage to contact you for any purpose.</p>
-<p><br><strong>Statement Regarding Children.</strong> Sage's products and services are not designed to appeal to children under the age of 13. As such, the Sites are not directed at children under the age of 13 nor do we knowingly collect or maintain information from children under the age of 13 on the Sites.</p>
-<p><br><strong>Business Information Collection and Use By Sage</strong><br>
-Sage collects the Business Information necessary to enable us to respond to your requests for our products and services and to send you information regarding our products and services from time to time. Since most of the users of our products and Sites are doing so in their capacity as employees or companies, most Business Information we collect will be in that capacity (rather than information about you individually, such as your personal tastes, etc.). For these purposes, we have defined "Business Information" as any information that identifies or may identify a company or an individual contact at a company or that allows others to contact a company or an individual contact at a company. When you visit the Sites, you may be asked to submit information such as e-mail address, company name, address, phone number, your product version and/or areas of interest. We may also ask you where you heard about our company or products, or for other information that will help us understand more about your needs or help us process your requests for information. In addition, we collect credit card and related payment information when you order products, services or support plans online. Our information collection and use practices are described in more detail below.</p>
-<p><br><strong>Product Registration.</strong> You may be asked, on behalf of your company, to complete registration/activation form(s) on the Sites or from within the products, with contact information for use by Sage in accordance with this policy. Registration or activation information may include the name of your company, contact information, product information, customer ID, network and operating system, and other relevant information.</p>
-<p><br><strong>Customer Profile.</strong> We also collect Business Information when you create a customer profile or Passport account on some of the Sites, which is required in order to access certain areas of the Sites, purchase support plans and products, to obtain software downloads and certain online support services and to request information from us about our products and services.. This information includes company name and contact information and other information about your company (for example, size, revenue, and number of employees), the products you may have licensed and other non-Sage products you may currently use. We use this information in accordance with this policy to identify you, process your requests and administer your Sage account(s).</p>
-<p><br><strong>Support.</strong> We offer certain limited online support services at the Sites. If you access online support on any of the Sites, you may be asked for information such as customer ID, product name, product version and other information to help us determine what the technical issues are and how best to help you resolve them. In addition, certain products allow you to submit support-related questions directly from the product. If you access online support services from a product, information about your network, operating system, printer, data and program path, product type, version, customer ID, the product's technical support information sheet, product serial number and other similar information will be automatically pre-populated for submission to our customer support representatives to assist them in answering your questions.</p>
-<p><br><strong>Newsletters.</strong> When you subscribe or sign up to receive newsletters published or offered via the Sites, we will ask you for information necessary to enable us to process your request and to send you information regarding our products and services.</p>
-<p>&nbsp;</p>
-<p><strong>Cookies.</strong> We also use Cookies to enhance the user experience, deliver personalized content and collect information about the use of the Sites.&nbsp; "Cookies" are small computer files that we transfer to your computer's hard drive. Cookies allow us to statistically monitor how many people are using the Sites and for what purposes, how often someone visits the Sites and the length of their stay. This information helps us dynamically generate advertising and information specifically designed for your interests. We also use Cookies to prevent you from having to re-enter your identification and password information each time you visit our Sites. Cookies are not designed to retrieve personal or business data from your hard drive, your e-mail or any other personal information. Most browsers are initially set to accept Cookies, but users can change the setting to refuse Cookies or to be alerted when Cookies are being sent. Although refusal of Cookies will not interfere with the ability to interact with most of the Sites, you will need to accept Cookies in order to access information and use certain functions. For example, Cookies are required to be accepted for access to our Web-based services or desktop products with online features. The Cookies are renewed each time a user logs on to one of the Sites that uses Cookies.<br>
-Product-Related Information Collection. Sage collects certain additional information in connection with your use of our services or desktop products with online features. For instance:</p>
-<ul>
-<li><strong>Product Updates.</strong> Some products provide you with the ability to download and register product and/or tax updates as they become available. During the download and registration process, we collect Business Information, including customer ID number and product version, type and serial number, in order to authorize your access and provide you with the appropriate update, and to update our records as to the product and products updates you have downloaded or installed.</li>
-</ul>
-<p>&nbsp;</p>
-<ul>
-<li><strong>Account Set-Up and Access.</strong> Upon subscribing to our services, Sage collects Business Information, which may include information such as product serial number, customer ID and your customer profile information, in order to identify you and authorize your access and use of the services and provide you with your relevant account information. Certain products provide you with the ability to access your account in order to obtain information such as your support plan status, service subscriptions, registrations and order history.<br>
-Online Product /Account Application. Certain products and services are subject to an application and enrollment process, which may be completed on paper or online. Information requested may include federal ID numbers, bank account, payroll, credit card and contact information. This information is used to process your enrollment request and, if approved, to set up and administer your account</li>
-</ul>
-<p>&nbsp;</p>
-<ul>
-<li><strong>Web-based Services.</strong> In connection with certain of our Web-based services we collect certain additional information, including IP address, browser, connection speed, domain, referring URL and other environment-related information to enable us to provide a secure environment for the use of the services, to pre-populate forms and calculate aggregate statistical information about the customers using these services.</li>
-</ul>
-<p>&nbsp;</p>
-<ul>
-<li><strong>Sage Products &amp; Services.</strong> In addition to the uses set forth above, Sage may use your Business Information to: 1) inform you of product upgrades and updates and subscription renewals; 2) inform you of tax, regulatory and other compliance issues with your software product or service; 3) notify you of products and services that we think may be of interest to you; 4) offer you discounts or other promotions with respect to Sage products and services that we think may interest you; and 5) contact you for survey purposes to determine how we can better service you or provide better products to meet your needs.</li>
-</ul>
-<p>&nbsp;</p>
-<ul>
-<li><strong>Other Sage Company Products &amp; Services.</strong>&nbsp; Your Business Information may be provided to one or more other Sage Companies to enable them to market products and services to you. In that case, the use of your Business Information would be governed by that Sage Company's privacy policy.</li>
-</ul>
-<p>&nbsp;</p>
-<ul>
+<a class="bookmark" id="forums" title="forums" name="forums"></a><p><strong>Public Forums</strong></p>
+<p>Please remember that any information (including personal and business information) that you submit, post, or otherwise reveal in a public forum (such as a bulletin board, chat room, blog, or product discussion forum) is not subject to this Privacy Statement, will be seen by third parties not related to Sage, and may be used by them or Sage to contact you for any purpose.</p>
+<a class="bookmark" id="children" title="children" name="children"></a><p><strong>Statement Regarding Children</strong></p>
+<p>Sage's products and services are not designed to appeal to children under the age of 13. As such, the Sites are not directed at children under the age of 13 nor do we knowingly collect or maintain information from children under the age of 13 on the Sites.</p>
+<a class="bookmark" id="infocollection" title="infocollection" name="infocollection"></a><p><strong>Business Information Collection and Use By Sage</strong></p>
+<p>Sage collects the Business Information necessary to enable us to respond to your requests for our products and services and to send you information regarding our products and services from time to time. Since most of the users of our products and Sites are doing so in their capacity as employees or companies, most Business Information we collect will be in that capacity (rather than information about you individually, such as your personal tastes, etc.). For these purposes, we have defined "Business Information" as any information that identifies or may identify a company or an individual contact at a company or that allows others to contact a company or an individual contact at a company. When you visit the Sites, you may be asked to submit information such as email address, company name, address, phone number, your product version, and/or areas of interest. We may also ask you where you heard about our company or products, or for other information that will help us understand more about your needs or help us process your requests for information. In addition, we collect credit card and related payment information when you order products, services, or support plans online. Our information collection and use practices are described in more detail below:</p>
+<blockquote dir="ltr" style="MARGIN-RIGHT: 0px"><p><strong>Product Registration.</strong> You may be asked, on behalf of your company, to complete registration/activation form(s) on the Sites or from within the products, with contact information for use by Sage in accordance with this policy. Registration or activation information may include the name of your company, contact information, product information, customer ID, network and operating system, and other relevant information.</p>
+<p><strong>Customer Profile.</strong> We also collect Business Information when you create a customer profile or Passport account on some of the Sites, which is required in order to access certain areas of the Sites, purchase support plans and products, to obtain software downloads and certain online support services, and to request information from us about our products and services. This information includes company name and contact information and other information about your company (for example, size, revenue, and number of employees), the products you may have licensed, and other non-Sage products you may currently use. We use this information in accordance with this policy to identify you, process your requests, and administer your Sage account(s).</p>
+<p><strong>Support.</strong> We offer certain limited online support services at the Sites. If you access online support on any of the Sites, you may be asked for information such as customer ID, product name, product version, and other information to help us determine what the technical issues are and how best to help you resolve them. In addition, certain products allow you to submit support-related questions directly from the product. If you access online support services from a product, information about your network, operating system, printer, data and program path, product type, version, customer ID, the product's technical support information sheet, product serial number, and other similar information will be automatically pre-populated for submission to our customer support representatives to assist them in answering your questions.</p>
+<p><strong>Newsletters.</strong> When you subscribe or sign up to receive newsletters published or offered via the Sites, we will ask you for information necessary to enable us to process your request and to send you information regarding our products and services.</p>
+<p><strong>Cookies.</strong> We also use Cookies to enhance the user experience, deliver personalized content, and collect information about the use of the Sites. "Cookies" are small computer files that we transfer to your computer's hard drive. Cookies allow us to statistically monitor how many people are using the Sites and for what purposes, how often someone visits the Sites, and the length of their stay. This information helps us dynamically generate advertising and information specifically designed for your interests. We also use Cookies to prevent you from having to re-enter your identification and password information each time you visit our Sites. Cookies are not designed to retrieve personal or business data from your hard drive, your email, or any other personal information. Most browsers are initially set to accept Cookies, but users can change the setting to refuse Cookies or to be alerted when Cookies are being sent. Although refusal of Cookies will not interfere with the ability to interact with most of the Sites, you will need to accept Cookies in order to access information and use certain functions. For example, Cookies are required to be accepted for access to our web-based services or desktop products with online features. The Cookies are renewed each time a user logs on to one of the Sites that uses Cookies.</p>
+<p><strong>Product-Related Information Collection.</strong> Sage collects certain additional information in connection with your use of our services or desktop products with online features. For instance:</p>
+</blockquote>
+<div style="MARGIN-LEFT: 2em"><ul>
+<li><strong>Product Updates.</strong> Some products provide you with the ability to download and register product and/or tax updates as they become available. During the download and registration process, we collect Business Information, including customer ID number and product version, type, and serial number, in order to authorize your access and provide you with the appropriate update, and to update our records as to the product and products updates you have downloaded or installed.</li>
+<li><strong>Account Set-Up and Access.</strong> Upon subscribing to our services, Sage collects Business Information which may include information such as product serial number, customer ID, and your customer profile information, in order to identify you and authorize your access and use of the services and provide you with your relevant account information. Certain products provide you with the ability to access your account in order to obtain information such as your support plan status, service subscriptions, registrations, and order history.<br>
+Online Product/Account Application. Certain products and services are subject to an application and enrollment process, which may be completed on paper or online. Information requested may include federal ID numbers, bank account, payroll, credit card, and contact information. This information is used to process your enrollment request and, if approved, to set up and administer your account.</li>
+<li><strong>Web-based Services.</strong> In connection with certain of our web-based services we collect certain additional information, including IP address, browser, connection speed, domain, referring URL, and other environment-related information to enable us to provide a secure environment for the use of the services, to pre-populate forms, and calculate aggregate statistical information about the customers using these services.</li>
+<li><strong>Sage Products &amp; Services.</strong> In addition to the uses set forth above, Sage may use your Business Information to: 1) inform you of product upgrades and updates and subscription renewals; 2) inform you of tax, regulatory, and other compliance issues with your software product or service; 3) notify you of products and services that we think may be of interest to you; 4) offer you discounts or other promotions with respect to Sage products and services that we think may interest you; and 5) contact you for survey purposes to determine how we can better service you or provide better products to meet your needs.</li>
+<li><strong>Other Sage Company Products &amp; Services.</strong> Your Business Information may be provided to one or more other Sage Companies to enable them to market products and services to you. In that case, the use of your Business Information would be governed by that Sage Company's privacy policy.</li>
 <li><strong>Third-Party Products.</strong> Sage may also use your Business Information to inform you of special discounts or offers from other companies we have carefully selected and whose products and services may be of interest to you.</li>
 </ul>
-<p>&nbsp;</p>
-<p><br><strong>Disclosure of Your Business Information</strong><br>
-From time to time, Sage may be required to release Business Information: 1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; 2) to enforce or apply the terms of any of our service or license agreements; or 3) in special cases, such as protecting the rights, property or safety of Sage, our customers or others. We may also provide Business Information to government agencies and to our vendors, suppliers, authorized resellers and other business, development and industry partners ("Partners") to enable them to: 1) provide us with products and services to better operate and maintain the Sites; 2) provide you with a product or service requested by you; or 3) enable them to market products or services to you. Sage also may provide information about you that does not allow you to be identified to, or contacted by, ("Aggregate Information") third parties. For example, we might inform third parties regarding the number of users of the Sites and the activities they conduct while on the Sites. Depending on the circumstances, we may or may not charge for this Aggregate Information. We may also use this Aggregate Information as part of products or services that we provide to third parties and to improve our products, services and the Sites.</p>
-<p><br><strong>Partner and Government Services.</strong> Sage may engage Partners to perform functions on our behalf, which may include assisting us in processing your Business Information. Certain Partners and government agencies may collect Business Information (such as business name, address, e-mail address, credit card information and customer ID) directly from you and use of that information and other information provided by you to third parties is not governed by this policy even though those Partners and government agencies may share such information with Sage.</p>
-<p><br><strong>Services and Product Data.</strong> Business Information collected by Sage as set forth above does not include your company's data entered in the course of operating our products ("Product Data") or data provided by you while using our services ("Services Data"). Sage will not access your Product Data or Services Data except in the following limited circumstances: (1) to provide you with technical support, solely at your request and with your permission; (2) on a limited-access basis to install updates, produce regular backups or restore data from backups at your request (3) where the inherent purpose of the product or service requires Sage to provide the Product Data or Services Data to a third party on your behalf (for example where Sage makes tax filings on your behalf or initiates bank transfers on your behalf)&nbsp; and, (4) unless you opt-out, to utilize Aggregate Information derived from Product Data and Services Data to help us improve our products and services and in developing additional offerings. Sage will not provide your Product Data or Services Data to any third party or permit any third party to access your Product Data or Services Data, except by your permission or to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order. In addition, if at any time you decide to discontinue your use of the applicable service, your Services Data will be destroyed and removed from all servers according to terms set forth in your Service Agreement.</p>
-<p><br><strong>Business Transfers.</strong> In the event that all or a portion of Sage or any other Sage Company (or the assets of one of those entities), is bought or sold, Business Information will likely be included among the transferred business assets, but such information remains subject to this Privacy Statement or a Privacy Statement substantially similar to this privacy statement.</p>
-<p><br><strong>How Sage Protects Your Privacy Internally</strong><br>
-Sage wants your Business Information to remain as secure as reasonably possible. We combine industry-standard technical safeguards with a code of conduct for those employees that are permitted to access our customers' Business Information. When you purchase a product or service online, Sage uses SSL encryption to encrypt your credit card information before it is sent to us in order to ensure the integrity and privacy of the credit card information that you provide to us via the Internet.</p>
+</div><a class="bookmark" id="disclosure" title="disclosure" name="disclosure"></a><p><strong>Disclosure of Your Business Information</strong></p>
+<p>From time to time, Sage may be required to release Business Information: 1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order; 2) to enforce or apply the terms of any of our service or license agreements; or 3) in special cases, such as protecting the rights, property, or safety of Sage, our customers, or others. We may also provide Business Information to government agencies and to our vendors, suppliers, authorized resellers, and other business, development, and industry partners ("Partners") to enable them to: 1) provide us with products and services to better operate and maintain the Sites; 2) provide you with a product or service requested by you; or 3) enable them to market products or services to you. Sage also may provide information about you that does not allow you to be identified to, or contacted by, ("Aggregate Information") third parties. For example, we might inform third parties regarding the number of users of the Sites and the activities they conduct while on the Sites. Depending on the circumstances, we may or may not charge for this Aggregate Information. We may also use this Aggregate Information as part of products or services that we provide to third parties and to improve our products, services, and the Sites.</p>
+<blockquote dir="ltr" style="MARGIN-RIGHT: 0px"><p><strong>Partner and Government Services.</strong> Sage may engage Partners to perform functions on our behalf, which may include assisting us in processing your Business Information. Certain Partners and government agencies may collect Business Information (such as business name, address, e-mail address, credit card information, and customer ID) directly from you and use of that information and other information provided by you to third parties is not governed by this policy even though those Partners and government agencies may share such information with Sage.</p>
+<p><strong>Services and Product Data.</strong> Business Information collected by Sage as set forth above does not include your company's data entered in the course of operating our products ("Product Data") or data provided by you while using our services ("Services Data"). Sage will not access your Product Data or Services Data except in the following limited circumstances: (1) to provide you with technical support, solely at your request and with your permission; (2) on a limited-access basis to install updates, produce regular backups, or restore data from backups at your request; (3) where the inherent purpose of the product or service requires Sage to provide the Product Data or Services Data to a third party on your behalf (for example where Sage makes tax filings on your behalf or initiates bank transfers on your behalf) and, (4) unless you opt-out, to utilize Aggregate Information derived from Product Data and Services Data to help us improve our products and services and in developing additional offerings. Sage will not provide your Product Data or Services Data to any third party or permit any third party to access your Product Data or Services Data, except by your permission or to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order. In addition, if at any time you decide to discontinue your use of the applicable service, your Services Data will be destroyed and removed from all servers according to terms set forth in your Service Agreement.</p>
+<p><strong>Business Transfers.</strong> In the event that all or a portion of Sage or any other Sage Company (or the assets of one of those entities), is bought or sold, Business Information will likely be included among the transferred business assets, but such information remains subject to this Privacy Statement or a Privacy Statement substantially similar to this privacy statement.</p>
+</blockquote>
+<a class="bookmark" id="protection" title="protection" name="protection"></a><p><strong>How Sage Protects Your Privacy Internally</strong></p>
+<p>Sage wants your Business Information to remain as secure as reasonably possible. We combine industry-standard technical safeguards with a code of conduct for those employees who are permitted to access our customers' Business Information. When you purchase a product or service online, Sage uses SSL encryption to encrypt your credit card information before it is sent to us in order to ensure the integrity and privacy of the credit card information that you provide to us via the Internet.</p>
+<p>Many of our web-based services are hosted on servers that are co-located at a third-party facility with whom we have a contract providing for security measures. For example, hosted Services Data is submitted via SSL encryption and stored on a server equipped with industry standard firewalls.</p>
+<p>Hosted data may include personally identifiable information and other information that belongs to our customers' own customers, website visitors, or other users. Sage will not review, share, distribute, or reference any such Customer Data except as provided in the service or license agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed by authorized Sage employees, agents or independent contractors only for the purpose of resolving a problem, support issues, or suspected violation of the service or license agreement, or as may be required by law. Sage policy requires that both employees and consultants execute a confidentiality agreement before working for and with Sage. Those employees that violate our Privacy Policy are subject to disciplinary action, up to and including termination.</p>
+<p>Despite these security measures, Sage does not represent or warrant that Business Information will be protected against loss, misuse, attacks, or alteration by third parties. Customers are responsible for maintaining the security and confidentiality of their usernames and passwords.</p>
+<a class="bookmark" id="choices" title="choices" name="choices"></a><p><strong>Your Privacy Choices</strong></p>
+<p>Occasionally, a Sage business unit may send you communications to provide you with information or promotions relating to products and services that may be of interest to you, including notification of important product issues and updates. You may opt out of receiving these communications as indicated below. However, please note that any election not to receive future communications applies only to promotional messages of the particular Sage business unit and you may receive promotional messages from other Sage business units until you make an opt out request with that business unit as indicated below. Additionally, we may still send you relationship or transactional messages in order to notify you of important product issues and updates, such as tax and other compliance-related matters, for the renewal of existing subscription services, to resolve specific questions or requests made by you via phone, fax, email, or the Web and in response to any activity completed on any of the Sites, including but not limited to, registration, ordering, downloads, and requests for information.</p>
+<blockquote dir="ltr" style="MARGIN-RIGHT: 0px"><p><strong>Sage Email Promotions.</strong> Each email we send will contain instructions on how to unsubscribe in the event that you do not wish to receive future promotional emails from the Sage business unit that sent you the email promotion. If you choose to opt out of receiving promotional email communications from any Sage business unit, we may still periodically communicate with you via mail and telephone. Please allow 10 business days to be removed from the promotional email list of a Sage business unit.</p>
+<p><strong>Third-Party Email Promotions.</strong> If you access and/or use any of the other Sage Companies' services or our Partner's services from a link on the Sites, a Sage/Partner co-branded site or by any other means, any information you reveal in connection with such service is submitted to that other Sage Company or to our Partner and is not subject to this Privacy Statement. You should consult the privacy policy of any other Sage Company, Partner, or third-party site with respect to its treatment of any information that you may reveal in connection with such service.</p>
+<a class="bookmark" id="updating" title="updating" name="updating"></a></blockquote>
+<p><strong>Correcting or Updating Your Business Information and Contacting Sage</strong></p>
+<p>You can always update the Business Information that you have provided to us and/or change your preferences with respect to marketing contacts from Sage by contacting the Sage business unit to which you provided your preferences. Please note that it may take up to 4 weeks to be removed from the Sage business unit’s mail lists and 10 days to be removed from email and phone lists.</p>
+<a class="bookmark" id="linked" title="linked" name="linked"></a><p dir="ltr"><strong>Linked Sites</strong></p>
+<p dir="ltr">The Sites may contain links to third-party websites and resources (collectively, "Linked Sites"). These Linked Sites are provided solely as a convenience to you and not as an endorsement by Sage of the content on such Linked Sites. Sage makes no representations or warranties regarding the correctness, accuracy, performance, or quality of any content, software, service, or application found at any Linked Site. Sage is not responsible for the availability of the Linked Sites or the content or activities of such sites. If you decide to access any Linked Site, you do so at your own risk. Your use of any Linked Site is subject to the policies, terms of use, and privacy policies of such Linked Site, if any.</p>
+<a class="bookmark" id="transfer" title="transfer" name="transfer"></a><p><strong>Consent to Transfer</strong></p>
+<p>Users located outside the United States who submit Business Information to Sage via the Sites should be aware that the information they submit will be transferred to our servers located in the United States. Your submission of Business Information to us constitutes your consent to this transfer. Although Sage will collect and use your Business Information only as stated in this Privacy Statement, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions.</p>
+<a class="bookmark" id="changes" title="changes" name="changes"></a><p><strong>Changes to this Privacy Statement</strong></p>
+<p>Sage may change this Privacy Statement at any time by posting the then current policy to the Sites. Your use of the Sites constitutes acceptance of the provisions of this Privacy Statement and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Statement.</p>
+<p><strong>Contacting Us</strong></p>
+<p>Questions regarding this Privacy Statement or the information practices of the Company’s website should be directed to <a href="mailto:privacy@sage.com">privacy@sage.com</a>.</p>
 <p><br>
-Many of our Web-based services are hosted on servers that are co-located at a third party facility with whom we have a contract providing for security measures. For example, hosted Services Data is submitted via SSL encryption and stored on a server equipped with industry standard firewalls.</p>
-<p><br>
-Only authorized Sage employees, agents or independent contractors are permitted to access your Business Information, Product Data or Web Services Data. Those employees that violate our Privacy Statement are subject to disciplinary action, up to and including termination.<br>
-Despite these security measures, Sage does not represent or warrant that Business Information will be protected against loss, misuse, attacks, or alteration by third parties.</p>
-<p><br><strong>Your Privacy Choices<br></strong>Occasionally, a Sage business unit may send you communications to provide you with information or promotions relating to products and services that may be of interest to you, including notification of important product issues and updates. You may opt out of receiving these communications as indicated below. However, please note that any election not to receive future communications applies only to promotional messages of the particular Sage business unit and you may receive promotional messages from other Sage business units until you make an opt out request with that business unit as indicated below. Additionally, we may still send you relationship or transactional messages in order to notify you of important product issues and updates, such as tax and other compliance-related matters, for the renewal of existing subscription services, to resolve specific questions or requests made by you via phone, fax, e-mail or the Web and in response to any activity completed on any of the Sites, including but not limited to, registration, ordering, downloads and requests for information.</p>
-<p><br><strong>Sage E-Mail Promotions.</strong> Each e-mail we send will contain instructions on how to unsubscribe in the event that you do not wish to receive future promotional e-mails from the Sage business unit that sent you the e-mail promotion. If you choose to opt-out of receiving promotional e-mail communications from any Sage business unit, we may still periodically communicate with you via mail and telephone. Please allow 10 business days to be removed from the promotional e-mail list of a Sage business unit.</p>
-<p><br><strong>Third-Party E-Mail Promotions.</strong> If you access and/or use any of the other Sage Companies' services or our Partner's services from a link on the Sites, a Sage/Partner co-branded site or by any other means, any information you reveal in connection with such service is submitted to that other Sage Company or to our Partner and is not subject to this Privacy Statement. You should consult the privacy policy of any other Sage Company, Partner or third-party site with respect to its treatment of any information that you may reveal in connection with such service.</p>
-<p><br><strong>Correcting or Updating Your Business Information and Contacting Sage</strong><br>
-You can always update the Business Information that you have provided to us and/or change your preferences with respect to marketing contacts from Sage by contacting the Sage business unit to which you provided your preferences. Please note that it may take up to 4 weeks to be removed from the Sage business unit’s mail lists and 10 days to be removed from e-mail and phone lists.<br>
-Linked Sites</p>
-<p><br>
-The Sites may contain links to third-party Web sites and resources (collectively, "Linked Sites"). These Linked Sites are provided solely as a convenience to you and not as an endorsement by Sage of the content on such Linked Sites. Sage makes no representations or warranties regarding the correctness, accuracy, performance or quality of any content, software, service or application found at any Linked Site. Sage is not responsible for the availability of the Linked Sites or the content or activities of such sites. If you decide to access any Linked Site, you do so at your own risk. Your use of any Linked Site is subject to the policies, terms of use and privacy policies of such Linked Site, if any.</p>
-<p><br><strong>Consent to Transfer</strong><br>
-Users located outside the United States who submit Business Information to Sage via the Sites should be aware that the information they submit will be transferred to our servers located in the United States. Your submission of Business Information to us constitutes your consent to this transfer. Although Sage will collect and use your Business Information only as stated in this Privacy Statement, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions.</p>
-<p><br><strong>Changes to this Privacy Statement</strong><br>
-Sage may change this Privacy Statement at any time by posting the then current policy to the Sites. Your use of the Sites constitutes acceptance of the provisions of this Privacy Statement and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Statement.</p>
-<p><br>
-Last revised November 17, 2008</p>
-
+Last revised June 1, 2010</p>
 	
 
 
@@ -672,7 +629,7 @@ Last revised November 17, 2008</p>
 </tr>
 </tbody></table>
 <!--End Portlet Column 1--></td>
-<td colspan="1" id="horizontalPaddingCell0"><img src="/imageserver/plumtree/portal/public/img/sp.gif" alt="" border="0" align="absmiddle" height="1" width="0"></td>
+<td colspan="1" id="horizontalPaddingCell0"><img src="/imageserver/plumtree/portal/public/img/sp.gif" alt="" border="0" align="absmiddle" height="1" width="10"></td>
 <td align="center" valign="top" colspan="1" class="columnThree" id="columnThree"><!--Begin Portlet Column 2--><table cellpadding="0" cellspacing="0" width="100%" class="portletBase" id="pt-portlet-2400"><tbody><tr><td colspan="2" class="portletBody"><div class="customappText" id="pt-portlet-content-2400">
 
 
@@ -701,11 +658,11 @@ Last revised November 17, 2008</p>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" width="100%" class="portletBase" id="pt-portlet-2422"><tbody><tr><td colspan="2" class="portletBody"><div class="customappText" id="pt-portlet-content-2422"><form name="frmMain" method="post" action="http://www.sagenorthamerica.com/portal/server.pt/gateway/PTARGS_0_0_2422_1673_0_43/http%3B/portletscms.gs.adinternal.com/sage.cms.portlets/SageSolutionFinder/MiniForm.aspx" id="frmMain">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NjExNTEwNDNkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYdBR5jdHJsQnVzaW5lc3NOZWVkX2Noa2xzdEl0ZW1zJDAFHmN0cmxCdXNpbmVzc05lZWRfY2hrbHN0SXRlbXMkMQUeY3RybEJ1c2luZXNzTmVlZF9jaGtsc3RJdGVtcyQyBR5jdHJsQnVzaW5lc3NOZWVkX2Noa2xzdEl0ZW1zJDMFHmN0cmxCdXNpbmVzc05lZWRfY2hrbHN0SXRlbXMkNAUeY3RybEJ1c2luZXNzTmVlZF9jaGtsc3RJdGVtcyQ1BR5jdHJsQnVzaW5lc3NOZWVkX2Noa2xzdEl0ZW1zJDYFHmN0cmxCdXNpbmVzc05lZWRfY2hrbHN0SXRlbXMkNwUeY3RybEJ1c2luZXNzTmVlZF9jaGtsc3RJdGVtcyQ3BRpjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkMAUaY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDEFGmN0cmxJbmR1c3RyeV9jaGtsc3RJdGVtcyQyBRpjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkMwUaY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDQFGmN0cmxJbmR1c3RyeV9jaGtsc3RJdGVtcyQ1BRpjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkNgUaY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDcFGmN0cmxJbmR1c3RyeV9jaGtsc3RJdGVtcyQ4BRpjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkOQUbY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDEwBRtjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkMTEFG2N0cmxJbmR1c3RyeV9jaGtsc3RJdGVtcyQxMgUbY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDEzBRtjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkMTQFG2N0cmxJbmR1c3RyeV9jaGtsc3RJdGVtcyQxNAUdY3RybENvbXBhbnlTaXplX2Noa2xzdEl0ZW1zJDAFHWN0cmxDb21wYW55U2l6ZV9jaGtsc3RJdGVtcyQxBR1jdHJsQ29tcGFueVNpemVfY2hrbHN0SXRlbXMkMgUdY3RybENvbXBhbnlTaXplX2Noa2xzdEl0ZW1zJDLxm0u5dcO/4T6aPPWbS+M75n0Z6Q==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE1ODUyMzgxMGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFh4FHmN0cmxCdXNpbmVzc05lZWRfY2hrbHN0SXRlbXMkMAUeY3RybEJ1c2luZXNzTmVlZF9jaGtsc3RJdGVtcyQxBR5jdHJsQnVzaW5lc3NOZWVkX2Noa2xzdEl0ZW1zJDIFHmN0cmxCdXNpbmVzc05lZWRfY2hrbHN0SXRlbXMkMwUeY3RybEJ1c2luZXNzTmVlZF9jaGtsc3RJdGVtcyQ0BR5jdHJsQnVzaW5lc3NOZWVkX2Noa2xzdEl0ZW1zJDUFHmN0cmxCdXNpbmVzc05lZWRfY2hrbHN0SXRlbXMkNgUeY3RybEJ1c2luZXNzTmVlZF9jaGtsc3RJdGVtcyQ3BR5jdHJsQnVzaW5lc3NOZWVkX2Noa2xzdEl0ZW1zJDgFHmN0cmxCdXNpbmVzc05lZWRfY2hrbHN0SXRlbXMkOAUaY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDAFGmN0cmxJbmR1c3RyeV9jaGtsc3RJdGVtcyQxBRpjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkMgUaY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDMFGmN0cmxJbmR1c3RyeV9jaGtsc3RJdGVtcyQ0BRpjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkNQUaY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDYFGmN0cmxJbmR1c3RyeV9jaGtsc3RJdGVtcyQ3BRpjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkOAUaY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDkFG2N0cmxJbmR1c3RyeV9jaGtsc3RJdGVtcyQxMAUbY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDExBRtjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkMTIFG2N0cmxJbmR1c3RyeV9jaGtsc3RJdGVtcyQxMwUbY3RybEluZHVzdHJ5X2Noa2xzdEl0ZW1zJDE0BRtjdHJsSW5kdXN0cnlfY2hrbHN0SXRlbXMkMTQFHWN0cmxDb21wYW55U2l6ZV9jaGtsc3RJdGVtcyQwBR1jdHJsQ29tcGFueVNpemVfY2hrbHN0SXRlbXMkMQUdY3RybENvbXBhbnlTaXplX2Noa2xzdEl0ZW1zJDIFHWN0cmxDb21wYW55U2l6ZV9jaGtsc3RJdGVtcyQyPMSuuEa54QibrmKlh4WBClg6s94=">
 </div>
 
 
-<script src="http://www.sagenorthamerica.com/portal/server.pt/gateway/PTARGS_0_0_2422_1673_0_43/http%3B/portletscms.gs.adinternal.com/SAGE.CMS.PORTLETS/SAGESOLUTIONFINDER/WebResource.axd?d=A8iYlxXH67Ldi0z2kd3SA8jiPAweBlEe1tajXV9zRtR1ve1jRC1iVJDQlwPkOa6PNNzo1EHj9mkcxyJiOIFaQFevNZtynDVLLTOIjmSdgus1&amp;t=633789434996339444" type="text/javascript"></script><script> if(document.body) document.body.onclick = function(){if(CurrentDropDownCheckListID != "")window.document.getElementById(CurrentDropDownCheckListID + '_' + 'divMain').style.display = 'none'; CurrentDropDownCheckListID = "";};</script>
+<script src="http://www.sagenorthamerica.com/portal/server.pt/gateway/PTARGS_0_0_2422_1673_0_43/http%3B/portletscms.gs.adinternal.com/SAGE.CMS.PORTLETS/SAGESOLUTIONFINDER/WebResource.axd?d=A8iYlxXH67Ldi0z2kd3SA8jiPAweBlEe1tajXV9zRtR1ve1jRC1iVJDQlwPkOa6PNNzo1EHj9mkcxyJiOIFaQFevNZtynDVLLTOIjmSdgus1&amp;t=634002650758135441" type="text/javascript"></script><script> if(document.body) document.body.onclick = function(){if(CurrentDropDownCheckListID != "")window.document.getElementById(CurrentDropDownCheckListID + '_' + 'divMain').style.display = 'none'; CurrentDropDownCheckListID = "";};</script>
 
 <div id="pnlSageSolutionFinderMiniForm" class="rightContent SageSolutionFinder">
 	
@@ -722,7 +679,7 @@ Last revised November 17, 2008</p>
 		<div id="ctrlBusinessNeed_divTop" class="MultiselectDivTop">
 			<input name="ctrlBusinessNeed_txtMain" type="text" value="Select a Business Need" readonly="readonly" id="ctrlBusinessNeed_txtMain" class="MultiselectTextBoxMain" onclick="CBDDL_ShowHideMultipleSelection('ctrlBusinessNeed')"><img id="ctrlBusinessNeed_imgMain" class="MultiselectDropdownArrow" onclick="CBDDL_ShowHideMultipleSelection('ctrlBusinessNeed', event)" src="http://www.sagenorthamerica.com/imageserver/sage/cms/global/public/img/dropdownarrow.png" style="border-width:0px;">
 		</div><div id="ctrlBusinessNeed_divMain" class="MultiselectDivMain" onblur="CBDDL_HideOnFocusLost();">
-			<span id="ctrlBusinessNeed_chklstItems" class="CheckBoxList " onclick="CBDDL_SetSelection('ctrlBusinessNeed','ctrlBusinessNeed_chklstItems',event);"><input id="ctrlBusinessNeed_chklstItems_0" type="checkbox" name="ctrlBusinessNeed_chklstItems$0"><label for="ctrlBusinessNeed_chklstItems_0">Customer Management</label><br><input id="ctrlBusinessNeed_chklstItems_1" type="checkbox" name="ctrlBusinessNeed_chklstItems$1"><label for="ctrlBusinessNeed_chklstItems_1">Financial Management</label><br><input id="ctrlBusinessNeed_chklstItems_2" type="checkbox" name="ctrlBusinessNeed_chklstItems$2"><label for="ctrlBusinessNeed_chklstItems_2">Industry-Specific Solutions</label><br><input id="ctrlBusinessNeed_chklstItems_3" type="checkbox" name="ctrlBusinessNeed_chklstItems$3"><label for="ctrlBusinessNeed_chklstItems_3">Inventory Management</label><br><input id="ctrlBusinessNeed_chklstItems_4" type="checkbox" name="ctrlBusinessNeed_chklstItems$4"><label for="ctrlBusinessNeed_chklstItems_4">Operational Management</label><br><input id="ctrlBusinessNeed_chklstItems_5" type="checkbox" name="ctrlBusinessNeed_chklstItems$5"><label for="ctrlBusinessNeed_chklstItems_5">Payment Solutions</label><br><input id="ctrlBusinessNeed_chklstItems_6" type="checkbox" name="ctrlBusinessNeed_chklstItems$6"><label for="ctrlBusinessNeed_chklstItems_6">People Management</label><br><input id="ctrlBusinessNeed_chklstItems_7" type="checkbox" name="ctrlBusinessNeed_chklstItems$7"><label for="ctrlBusinessNeed_chklstItems_7">Supplier/Partner Management</label></span>
+			<span id="ctrlBusinessNeed_chklstItems" class="CheckBoxList " onclick="CBDDL_SetSelection('ctrlBusinessNeed','ctrlBusinessNeed_chklstItems',event);"><input id="ctrlBusinessNeed_chklstItems_0" type="checkbox" name="ctrlBusinessNeed_chklstItems$0"><label for="ctrlBusinessNeed_chklstItems_0">Customer Management</label><br><input id="ctrlBusinessNeed_chklstItems_1" type="checkbox" name="ctrlBusinessNeed_chklstItems$1"><label for="ctrlBusinessNeed_chklstItems_1">Financial Management</label><br><input id="ctrlBusinessNeed_chklstItems_2" type="checkbox" name="ctrlBusinessNeed_chklstItems$2"><label for="ctrlBusinessNeed_chklstItems_2">Industry-Specific Solutions</label><br><input id="ctrlBusinessNeed_chklstItems_3" type="checkbox" name="ctrlBusinessNeed_chklstItems$3"><label for="ctrlBusinessNeed_chklstItems_3">Inventory Management</label><br><input id="ctrlBusinessNeed_chklstItems_4" type="checkbox" name="ctrlBusinessNeed_chklstItems$4"><label for="ctrlBusinessNeed_chklstItems_4">Not for Profit</label><br><input id="ctrlBusinessNeed_chklstItems_5" type="checkbox" name="ctrlBusinessNeed_chklstItems$5"><label for="ctrlBusinessNeed_chklstItems_5">Operational Management</label><br><input id="ctrlBusinessNeed_chklstItems_6" type="checkbox" name="ctrlBusinessNeed_chklstItems$6"><label for="ctrlBusinessNeed_chklstItems_6">Payment Solutions</label><br><input id="ctrlBusinessNeed_chklstItems_7" type="checkbox" name="ctrlBusinessNeed_chklstItems$7"><label for="ctrlBusinessNeed_chklstItems_7">People Management</label><br><input id="ctrlBusinessNeed_chklstItems_8" type="checkbox" name="ctrlBusinessNeed_chklstItems$8"><label for="ctrlBusinessNeed_chklstItems_8">Supplier/Partner Management</label></span>
 		</div>
 	</div>
 			
@@ -745,7 +702,11 @@ Last revised November 17, 2008</p>
 		
 		<p class="submit">
 			<img id="cmdGo" class="findgo" name="cmdGo" onclick="SubmitForm('ctrlBusinessNeed_txtMain', 'ctrlIndustry_txtMain', 'ctrlCompanySize_txtMain');" src="http://www.sagenorthamerica.com/imageserver/sage/cms/portlets/SageSolutionFinder/private/img/btn_solutionFinder_find.gif" style="border-width:0px;cursor:hand;">
-		</p>       
+		</p>
+		
+		<p class="advanced">
+		    <a id="hlAdvanced" href="http://www.sagenorthamerica.com/products_services/configurator">Find solutions based on additional criteria&nbsp;»</a>         
+		</p>
         
     </div>
 
@@ -756,7 +717,7 @@ Last revised November 17, 2008</p>
 
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWHgLJh9D1AQK+0pNiAu3vjcUHAu3vicUHAu3vlcUHAu3vkcUHAu3v/cQHAu3v+cQHAu3vhcUHAu3vgcUHAs6u1YEKAuCvgMsBAuCv/MoBAuCviMsBAuCvhMsBAuCv8MoBAuCv7MoBAuCv+MoBAuCv9MoBAuCvoMsBAuCvnMsBAsqD/pkOAuXsm68IApSxwu8JAq+a4IQEAt7ehsUFAv3/t+AMAqDh37wBAqHh37wBAqLh37wBCXAxvLd2EVe5HZU51oi/XBQAMbE=">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWHwK4+bPkAgK+0pNiAu3vjcUHAu3vicUHAu3vlcUHAu3vkcUHAu3v/cQHAu3v+cQHAu3vhcUHAu3vgcUHAu3vrcUHAs6u1YEKAuCvgMsBAuCv/MoBAuCviMsBAuCvhMsBAuCv8MoBAuCv7MoBAuCv+MoBAuCv9MoBAuCvoMsBAuCvnMsBAsqD/pkOAuXsm68IApSxwu8JAq+a4IQEAt7ehsUFAv3/t+AMAqDh37wBAqHh37wBAqLh37wBEP4ctJ3xvqjpOYll9GQvm9crDJg=">
 </div></form>
 </div></td>
 </tr>
@@ -803,7 +764,7 @@ Last revised November 17, 2008</p>
 	var buttonText	="<img src='/imageserver/plumtree/portal/public/img/action_portlet_menu.gif' align='absmiddle' height='13' width='10' border='0' alt='Expand Menu' >" 
 	PTPMSelectMenu.init(menu, strDivID, buttonText);
 }	
-</script><script type="text/javascript"></script></div></td>
+</script><script type="text/javascript"></script></td>
 </tr>
 </tbody></table>
 </td>
@@ -823,9 +784,9 @@ Last revised November 17, 2008</p>
     <div id="footerContainer">
     
 		
-        
-    
-    <script language="javascript">
+
+
+<script language="javascript">
         function OpenEmailAFriend_1564() 
         { 
             var strBase = "http://portletscms.gs.adinternal.com";
@@ -833,16 +794,51 @@ Last revised November 17, 2008</p>
             window.open(pt_1564.transformURL(url),"popup","resizable=no,scrollbars=yes,toolbar=no,width=370,height=475"); 
         }
 
-    </script>
-    <div class="toolbarLinks">
+</script>
+
+<div class="toolbarLinks">
     <ul>
-        <li id="ftr-community"></li>
-        <li id="ftr-rss"></li>
-        <li id="ftr-subscribe"></li>
-        <li id="ftr-email"></li>
-        <li id="ftr-print"></li>
+        <li id="ftr-community">
+            
+        </li>
+        <li id="ftr-rss">
+            
+        </li>
+        <li id="ftr-subscribe">
+            
+        </li>
+        <li id="ftr-email">
+            
+        </li>
+        <li id="ftr-print">
+            
+        </li>
+        <li id="ftr-addthis">
+            <!-- Sage AddThis Large Gray Button BEGIN -->
+
+            <script type="text/javascript">
+                var addthis_pub = "sagenorthamerica";
+                var addthis_brand = "Sage";
+                var addthis_header_color = "#ffffff";
+                var addthis_header_background = "#008065";
+                var addthis_hover_delay = 200;
+                var addthis_offset_top = 15;
+                var addthis_offset_left = 15;
+                var addthis_options = 'aim, bebo, blogmarks, delicious, digg, facebook, favorites, fark, google, linkedin, myaol, myspace, newsvine, reddit, slashdot, stumbleupon, technorati, twitter, yahoobkm, more';
+            </script>
+
+            <a id="Footeroptions1_hlAddThis" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onclick="return addthis_sendto();" onmouseout="addthis_close();" href="http://www.addthis.com/bookmark.php?v=250"><img id="Footeroptions1_imgAddThis" title="Bookmark Or Share This Sage Page With Your Social Network" src="http://www.sagenorthamerica.com/imageserver/portal_managed_assets/sagenorthamerica/Admin/img/icon_sharethis_24x24_orange.gif" alt="Bookmark Or Share This Sage Page With Your Social Network" align="absmiddle" style="border-style:None;border-width:0px;">
+                Bookmark &amp; Share
+            </a>
+
+            <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=sagenorthamerica">
+
+            </script>
+
+            <!-- Sage AddThis Gray Button END -->
+        </li>
     </ul>
-    </div>
+</div>
 
 
         <!--ul>
@@ -856,7 +852,7 @@ Last revised November 17, 2008</p>
         <div id="ftr-mainnav">
         <p id="copyright">© <a href="http://www.sagenorthamerica.com/copyright_trademarks">Copyright / Trademarks</a> <span>|</span> <a href="http://www.sagenorthamerica.com/privacy">Privacy Statement</a></p><a href="http://www.sagenorthamerica.com/privacy">	
         </a><p><a href="http://www.sagenorthamerica.com/privacy"></a><a href="http://www.sagenorthamerica.com/">Home</a> <span>|</span> <a href="http://www.sagenorthamerica.com/products_services">Products &amp; Services</a> <span>|</span> <a href="http://www.sagenorthamerica.com/support_training">Support &amp; Training</a> <span>|</span> <a href="http://www.sagenorthamerica.com/partners">Partners</a> <span>|</span> <a href="http://www.sagenorthamerica.com/customer_resources">Customer Resources</a> <span>|</span> <a href="http://www.sagenorthamerica.com/community">Community</a> <span>|</span> <a href="http://www.sagenorthamerica.com/company">Company</a></p>
-        <p><a href="http://www.sagenorthamerica.com/company/contact">Contact</a> <span>|</span> <a href="http://www.sagenorthamerica.com/company/careers">Careers</a> <span>|</span> <a href="http://www.sagenorthamerica.com/sitemap">Sitemap</a> <span>|</span> <a href="http://www.sage.com" target="_blank">Sage Worldwide</a></p>
+        <p><a href="http://www.sagenorthamerica.com/company/contact">Contact</a> <span>|</span> <a href="http://www.sagenorthamerica.com/company/careers">Careers</a> <span>|</span> <a href="http://www.sagenorthamerica.com/sitemap">Sitemap</a> <span>|</span> <a href="http://www.sage.com" target="_blank">Sage Worldwide</a> <span>|</span> <a href="mailto:webmaster@sagenorthamerica.com?subject=Sage North America Website Feedback Submission&amp;body=Dear Sage,%0d%0aI ran across the following issue on the Sage North America website...%0d%0a%0d%0aIssue Found On The Following Page/URL:%0d%0a%0d%0a%0d%0aDescription of Issue Encountered:">Report Site Issues</a></p>
         </div>
         
         <div id="ftr-related">
@@ -924,6 +920,16 @@ Last revised November 17, 2008</p>
 				_uacct = "UA-2457682-1";
 				urchinTracker();
 			</script>
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-11626031-1");
+			pageTracker._trackPageview();
+			} catch(err) {}</script>
+
 		</div>
 	
 <!-- / END OF FOOTER PORTLET -->
