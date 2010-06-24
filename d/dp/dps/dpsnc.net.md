@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpsnc.net privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620061951id_/http%3A//www.dpsnc.net/about-dps/130/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpsnc.net privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625004442id_/http%3A//www.dpsnc.net/about-dps/130/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy — Durham Public Schools
 
@@ -25,7 +25,7 @@ If you send us an electronic mail message (e-mail), the message will usually con
 
 ### E-mail Lists: 
 
-The information we collect when you subscribe to one of our e-mail lists is used solely to administer these lists and is not shared, disclosed or sold to other organizations. Users who no longer wish to receive our notifications may [opt-out](http://www.dpsnc.net/news/Newsletters/newsletter-sign-up "Newsletter Sign-up") of receiving these communications.
+The information we collect when you subscribe to one of our e-mail lists is used solely to administer these lists and is not shared, disclosed or sold to other organizations. Users who no longer wish to receive our notifications may [opt-out](http://www.dpsnc.net/news/newsletters/newsletter-sign-up "Newsletter Sign-up") of receiving these communications.
 
 ### Links to Other Sites: 
 
