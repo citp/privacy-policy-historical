@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whofish.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223094231id_/http%3A//www.whofish.org/Default.aspx%3Ftabid%3D1%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whofish.org privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624075951id_/http%3A//whofish.org/Default.aspx%3Ftabid%3D1%26action%3Dprivacy) for the most accurate reproduction.*
 
 # WhoFish.org - Home - Local Events and Activities
 
