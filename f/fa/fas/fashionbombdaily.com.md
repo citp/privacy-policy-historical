@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fashionbombdaily.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231070749id_/http%3A//fashionbombdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbombdaily.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624025431id_/http%3A//fashionbombdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « The Fashion Bomb Blog /// All Urban Fashion… All the Time - All Urban Fashion // All the Time
 
 Privacy Policy
 
-At The Fashion Bomb™, we are committed to protecting the privacy of our users and visitors. The following Privacy Policy outlines the information The Fashion Bomb, LLC. (“The Fashion Bomb”) may collect and how we may use that information to better serve visitors and members of The Fashion Bomb.
+At The Fashion Bomb, we are committed to protecting the privacy of our users and visitors. The following Privacy Policy outlines the information The Fashion Bomb, LLC. (The Fashion Bomb) may collect and how we may use that information to better serve visitors and members of The Fashion Bomb.
 
 If you have questions about this Privacy Policy, please contact us at thefashionbomb@gmail.com.
 
@@ -48,13 +48,13 @@ o Cookies
 
 3\. How We Use Your Information
 
-Among our primary goals in collecting information is to provide you with a customized experience when visiting our site and to make our site more valuable to you. We use this information to closely monitor which areas of the site are used most and to determine which areas we need to focus on improving. This information is used exclusively by The Fashion Bomb™ in aggregate form so that we may continue to improve the value of the services and information on The Fashion Bomb for our members as a whole.
+Among our primary goals in collecting information is to provide you with a customized experience when visiting our site and to make our site more valuable to you. We use this information to closely monitor which areas of the site are used most and to determine which areas we need to focus on improving. This information is used exclusively by The Fashion Bomb in aggregate form so that we may continue to improve the value of the services and information on The Fashion Bomb for our members as a whole.
 
 As a valued customer of The Fashion Bomb, we will occasionally contact you, typically by e-mail (or any other way you prefer) in order to notify you of special promotions, and up-to-date news, custom-tailored to your personal interests. Of course, if you do not wish to receive this personalized information, you can remove yourself from receiving such information by changing the appropriate option on your user account.
 
 The Fashion Bomb uses your Internet Protocol (IP) address to help diagnose problems with our computer server, and to administer our web site. Your IP address is used to help identify you, and to gather broad demographic data. Your IP address contains no personal information about you.
 
-Please note that, once you’ve logged on to our servers, we use cookies keep track of your application states and log in status. Cookies are small files that take up minimal room on your computer and cannot, by itself, damage your computer’s files. Cookies work by assigning a number to a user that has no meaning outside of the assigning web site, in this case, The Fashion Bomb. If you do not want information to be collected through the use of cookies, your browser allows you to deny or accept the use of cookies. There may, however, be some features on The Fashion Bomb™ which requires the use of cookies in order to customize the delivery of information and content to you.
+Please note that, once you’ve logged on to our servers, we use cookies keep track of your application states and log in status. Cookies are small files that take up minimal room on your computer and cannot, by itself, damage your computer’s files. Cookies work by assigning a number to a user that has no meaning outside of the assigning web site, in this case, The Fashion Bomb. If you do not want information to be collected through the use of cookies, your browser allows you to deny or accept the use of cookies. There may, however, be some features on The Fashion Bomb„ which requires the use of cookies in order to customize the delivery of information and content to you.
 
 Except as described above, we will not monitor, edit or disclose any personal information about you or your account, without your prior consent unless we have a belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of The Fashion Bomb; (iii) enforce our Terms of Service; (iv) protect the interests of users of our services other than you or any other person; or (v) operate or conduct maintenance and repair of The Fashion Bomb’s services or equipment as authorized by law.
 
@@ -64,7 +64,7 @@ The Fashion Bomb does not sell or rent personal information about its customers 
 
 The Fashion Bomb cooperates with all law enforcement inquires and with all third parties to enforce their intellectual property or other rights.
 
-You should be aware that if you voluntarily disclose personal information in chat areas, on bulletin boards, or in classified areas within The Fashion Bomb™, that information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third-parties. Please understand that any information that is disclosed in these areas becomes public information and this third-party conduct is out of the control of The Fashion Bomb. Please exercise caution when deciding to disclose your personal information.
+You should be aware that if you voluntarily disclose personal information in chat areas, on bulletin boards, or in classified areas within The Fashion Bomb, that information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third-parties. Please understand that any information that is disclosed in these areas becomes public information and this third-party conduct is out of the control of The Fashion Bomb. Please exercise caution when deciding to disclose your personal information.
 
 The Fashion Bomb also contains links to other web sites. The Fashion Bomb is not responsible for the privacy practices or the content of such web sites.
 
