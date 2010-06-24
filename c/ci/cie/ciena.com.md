@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciena.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223001651id_/http%3A//www.ciena.com/corporate/corpinfo_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciena.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624021752id_/http%3A//www.ciena.com/corporate/corpinfo_privacy.htm) for the most accurate reproduction.*
 
 # Ciena - www.Ciena.com privacy policy
 
