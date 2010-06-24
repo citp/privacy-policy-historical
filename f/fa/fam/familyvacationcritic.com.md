@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224211145id_/http%3A//www.familyvacationcritic.com/privacy/art) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624222028id_/http%3A//familyvacationcritic.com/privacy/art) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Family Vacation Critic
 
 The Internet contains a wealth of information and it may also contain personal details about you that you don't want everyone to know. At Family Vacation Critic (familyvacationcritic.com) we strive to assist our participants in protecting their privacy while using our web site. 
 
@@ -25,7 +25,3 @@ For additional information regarding our Principles of Privacy, please contact c
 LauraS  
 Community Manager  
 Family Vacation Critic
-
-© Copyright 2009. The Independent Traveler, Inc.  
-All rights reserved. This file may be downloaded for personal  
-use only. Other copying or reproduction is expressly prohibited. 
