@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnigari.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622171717id_/http%3A//www.apnigari.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnigari.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624021210id_/http%3A//www.apnigari.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Pakistan's best destination for buying and selling cars : ApniGari.com
 
@@ -19,7 +19,7 @@ This privacy statement applies solely to information collected by ApniGari.com w
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal   
 process served on our website.
 
-**Security Statement**  
+ **Security Statement**  
 ApniGari.com sets strict security policies and access rights to protect against loss, misuse, and alteration of messages stored on our servers. To learn more, ask us about a detailed security   
 statement.
 
