@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekashu.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222011555id_/http%3A//www.ekashu.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekashu.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624023038id_/http%3A//www.ekashu.com/privacy.shtml) for the most accurate reproduction.*
 
 # None
 
@@ -55,7 +55,7 @@ If We transfer information about You to another country outside the UK, We will 
 **CreditCall Communications Ltd.   Registered Office: Merchants House South, Wapping Road, Bristol, BS1 4RW.  Registered Number 3295353.**
 
 **IMPORTANT NOTICE**   
-**Before entering this Site please take time to read our[Terms of Use](https://web.archive.org/web/20091222011555id_/http%3A//www.ekashu.com/terms.shtml).  By proceeding further You are deemed to have read and accepted our Copyright, Site Legal Notice and Privacy Policy.**
+**Before entering this Site please take time to read our[Terms of Use](https://web.archive.org/web/20100624023038id_/http%3A//www.ekashu.com/terms.shtml).  By proceeding further You are deemed to have read and accepted our Copyright, Site Legal Notice and Privacy Policy.**
 
 **Using Cookies**
 
@@ -145,6 +145,6 @@ Set your options in the box that says Cookies.
 **CreditCall Communications Ltd.   Registered Office: Merchants House South, Wapping Road, Bristol, BS1 4RW.  Registered Number 3295353.**
 
 **IMPORTANT NOTICE**   
-**Before entering this Site please take time to read our[Terms of Use](https://web.archive.org/web/20091222011555id_/http%3A//www.ekashu.com/terms.shtml).  By proceeding further You are deemed to have read and accepted our Copyright, Site Legal Notice and Privacy Policy.**
+**Before entering this Site please take time to read our[Terms of Use](https://web.archive.org/web/20100624023038id_/http%3A//www.ekashu.com/terms.shtml).  By proceeding further You are deemed to have read and accepted our Copyright, Site Legal Notice and Privacy Policy.**
 
-|  [](https://web.archive.org/web/20091222011555id_/http%3A//www.ekashu.com/apply.php)
+|  [](https://web.archive.org/web/20100624023038id_/http%3A//www.ekashu.com/apply.php)
