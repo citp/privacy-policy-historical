@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesharelifestyle.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223031553id_/http%3A//www.timesharelifestyle.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesharelifestyle.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624024046id_/http%3A//www.timesharelifestyle.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Call 1-800-616-1966
 
@@ -17,9 +17,10 @@ We are the sole owners of the information collected on this site. We only have a
 
 We may share or transfer your personal information to unrelated third parties, if disclosure is required to comply with a law, regulatory requirement, court order, or a subpoena; to cooperate with law enforcement or other governmental investigations; to protect your and our legal rights, property and safety, our employees, agents, other guests.
 
-If you choose not to receive any promotional communications from us or our partners, you must notify us in writing at the address provided at the bottom of this page. Upon receipt of your written request we will not send you purely promotional messages and will not share your personal information with other companies. We may still contact you for customer research or administrative purposes, such as confirming a reservation or transaction you’ve made.
+If you choose not to receive any promotional communications from us or our partners, you must notify us in writing at the email address or mailing address provided at the bottom of this page. Upon receipt of your written request we will not send you purely promotional messages and will not share your personal information with other companies. We may still contact you for customer research or administrative purposes, such as confirming a reservation or transaction you’ve made.
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.  
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+
 Your Access to and Control Over Information  
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us in writing via the email or mailing address given at the bottom of this page:  
 \- See what data we have about you, if any.  
