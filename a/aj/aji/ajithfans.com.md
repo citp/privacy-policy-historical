@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ajithfans.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224072905id_/http%3A//www.ajithfans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajithfans.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625002938id_/http%3A//www.ajithfans.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Ajithfans - Actor Ajith Kumar E-Fans Association
+
+## Privacy
 
 Ajithfans.com is committed to safeguarding your privacy online. 
 
@@ -18,10 +20,10 @@ Yes, you can always choose whether or not to disclose information through Ajithf
 
 Cookies may be used by us to remember users, estimate our audience size, track number of entries in some of our promotions, and contests and measure certain traffic patterns. 
 
-We encourage Ajithfans members to update and edit their personal information and keep it current. You can update your personal information in by clicking the ‘Account Ifo’ link in top of every members page. Users can change their passwords or email addresses any time. 
+We encourage Ajithfans members to update and edit their personal information and keep it current. You can update your personal information in by clicking the ‘Account Info’ link in top of every members page. Users can change their passwords or email addresses any time. 
 
 Ajithfans may use the information to give you very customized experience and deliver targeted advertisements. Ajithfans will not disclose any of your personally identifiable information to anyone in normal cases. 
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you’re online.
 
-In case of any concern about your privacy, please write to us at [admin@ajithfans.com](mailto:adminr@ajithfans.com), we will respond to you immediately. 
+In case of any concern about your privacy, please write to us at [ admin@ajithfans.com](mailto:adminr@ajithfans.com), we will respond to you immediately. 
