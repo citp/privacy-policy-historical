@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorplace.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220121453id_/http%3A//www.investorplace.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorplace.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624020603id_/http%3A//www.investorplace.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # InvestorPlace.com: Privacy Policy
 
