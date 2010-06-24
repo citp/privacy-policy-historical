@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221215429id_/http%3A//www.ingres.com/about/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624060214id_/http%3A//www.ingres.com/about/policies/privacy.php) for the most accurate reproduction.*
 
 # About | Policies | Privacy Policy - Ingres
 
@@ -41,6 +41,3 @@ Portions of this Site make chat rooms, forums, message boards, and/or news group
 ## Children's Privacy
 
 This Site is not intended for children under the age of 13. Ingres does not target its services or this Site to children under 13. Ingres does not knowingly collect personally identifiable information from children under the age of 13. Updating your Information and Contacting Us If you wish to review or correct any information you have provided to us, you may access your account and update it on this Site. If you have any questions or comments about our Privacy Policy or practices, please contact us via email at [info@ingres.com](mailto:info@ingres.com) with the words "PRIVACY POLICY" in the subject line. 
-
-  
-
