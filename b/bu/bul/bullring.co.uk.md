@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullring.co.uk privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422093932id_/http%3A//www.bullring.co.uk/website/ContentInstance.aspx%3FcontentInstanceId%3Da6f2ec0e-96bd-46c9-a068-ddbdfdce759a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullring.co.uk privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624022614id_/http%3A//www.bullring.co.uk/website/ContentInstance.aspx%3FcontentInstanceId%3Da6f2ec0e-96bd-46c9-a068-ddbdfdce759a) for the most accurate reproduction.*
 
 # Bullring Birmingham - Be At The Centre
 
