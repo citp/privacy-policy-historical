@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stormingmedia.us privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222203545id_/http%3A//www.stormingmedia.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stormingmedia.us privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624020752id_/http%3A//www.stormingmedia.us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Storming Media
 
