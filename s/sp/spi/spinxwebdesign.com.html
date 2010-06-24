@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spinxwebdesign.com privacy policy that was archived on 2009-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091204051557id_/http%3A//www.spinxwebdesign.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spinxwebdesign.com privacy policy that was archived on 2010-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624145541id_/http%3A//www.spinxwebdesign.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Privacy Policy | Spinx Best Web Design Company Los Angeles</title>
 
@@ -15,9 +15,10 @@
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://blog.spinxwebdesign.com/rss/">
     <link href="http://www.spinxwebdesign.com/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
     <link href="http://www.spinxwebdesign.com/style/general.css" rel="stylesheet" type="text/css">
-    <link id="mainCSS" href="http://www.spinxwebdesign.com/style/white/colour.css" rel="stylesheet" type="text/css">
+    <link id="mainCSS" href="http://www.spinxwebdesign.com/style/black/colour.css" rel="stylesheet" type="text/css">
 		
 	<script type="text/javascript">var _siteRoot='http://www.spinxwebdesign.com/';</script>
+	<script src="http://www.spinxwebdesign.com/js/common.js" type="text/javascript" language="javascript"></script>
     <script src="http://www.spinxwebdesign.com/js/jquery-1.3.2.js" type="text/javascript" language="javascript"></script>
     <script src="http://www.spinxwebdesign.com/js/jquery.pngFix.js" type="text/javascript" language="javascript"></script>
     <script src="http://www.spinxwebdesign.com/js/jquery.cookie.js" type="text/javascript" language="javascript"></script>
@@ -43,6 +44,99 @@
 		    $('#scrollpanel').jScrollPane();
         });
     </script>
+    <script type="text/javascript">
+        var cnt634129629415375425 = 0;
+        function RefreshCaptcha() {      
+           cnt634129629415375425 = cnt634129629415375425 + 1;            
+            $('#imgCaptcha').attr('src','http://www.spinxwebdesign.com/' + 'captcha.aspx?cnt=' + cnt634129629415375425);            
+        }
+        
+        $(document).ready(function(){
+            RefreshCaptcha();
+            $('#btnSubmit').click(function(evt) {
+            $('#Load-overlay').show();
+            if(validateForm("frmContact")){
+                stripHTML(document.getElementById("txtComments"));
+                var dataString = $("form#frmContact").serialize();
+                //alert(dataString);
+                $.ajax({ type: "POST", url:'http://www.spinxwebdesign.com/' + "index.aspx?mode=addContact&rsp=true", data: dataString,
+                    data: dataString,
+                    success: function(responseText) {
+                        if (responseText == "failure") {
+                            // $('#divMsg').attr('class', 'errormsg');
+                            alert('System is unable to send the message. Please try after some time.');
+                        }
+                        else if (responseText == "invalid") {
+                            //$('#divMsg').attr('class', 'errormsg');
+                            alert('Please enter correct captcha image text for varification.');
+                        }
+                        else if (responseText == "success") {
+                            ClearInputtext(this); 
+                            //$('#divMsg').attr('class', 'successmsg');
+                            //alert('<b>Thank you for contacting . We will get back to you shortly.</b>');
+                            window.location = 'http://www.spinxwebdesign.com/' + "thank-you/contact-us/";
+                        }
+                    }
+                });
+            }
+            $('#Load-overlay').hide();
+            return false;
+        });       
+        
+        var arrPageSizes = ___getPageSize();//alert(arrPageSizes[1]);
+	        var BgDimen = arrPageSizes[1];
+	        if (BgDimen > 650)
+	            BgDimen = arrPageSizes[0]/2 + 'px 200px';
+	            
+            $("#Load-overlay").css({
+		        'background':'#000 url(' + 'http://www.spinxwebdesign.com/' + 'images/loader.gif) no-repeat ' + BgDimen,
+		        opacity:'0.6', width:arrPageSizes[0], height:arrPageSizes[1], position: 'absolute',				
+		        filter:'alpha(opacity=60)', zIndex: '999'
+		     }).hide();
+        });
+       
+        function ClearInputtext(frmObj){
+            if(typeof frmObj != "object"){ frmObj = $('#' + frmObj + ''); }	
+            $(frmObj + ':input:text').each(function() {
+                $(this).val('');
+            });
+            $('#txtComments').val('');
+        }
+        function validateForm(Obj){ //alert($("input[value='']").length);   
+            var msgAlert = '';
+            /* if($("input[value='']").length > 0){
+            alert("You must fill out all fields.");
+            return false;
+            }*/
+            if($("#txtName").val().length <= 0 || $("#txtName").val() == 'Full Name'){
+                msgAlert += "Please enter your name.";
+            }
+            if($("#txtEmail").val().length <= 0 || $("#txtEmail").val() == 'Email Address'){
+                msgAlert += "\nPlease enter your email address.";
+            }
+            else{
+                var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+                var demail=$("#txtEmail").val();
+                if(!regex.test(demail)){
+                    msgAlert += "\nYou must enter a valid e-mail address.";
+                }
+            }
+            if($("#txtMCOUSXvarPno1").val().length <= 0 || $("#txtMCOUSXvarPno1").val() == 'Phone Number'){
+                msgAlert += "\nPlease enter your phone number.";
+            }
+            if($("#txtComments").val().length <= 0 || $("#txtComments").val() == 'Comments'){
+                msgAlert += "\nYou must fill out comments.";
+            }
+            if($("#txtCaptchaText").val().length <= 0){
+                msgAlert += "\nPlease enter correct captcha image text for varification.";
+            }
+            if(msgAlert != ''){
+                alert(msgAlert);
+                return false;
+            }
+            return true;
+        }
+    </script>
 </head>
 <body>
     <div id="core">
@@ -51,8 +145,8 @@
 	<div id="theme-panel">
 	    <div>
             <p class="colors">
-                <a id="black" href="http://www.spinxwebdesign.com/?set_color=black">black</a>
-                <a id="white" href="http://www.spinxwebdesign.com/?set_color=white" class="on">white</a>
+                <a id="black" href="http://www.spinxwebdesign.com/?set_color=black" class="on">black</a>
+                <a id="white" href="http://www.spinxwebdesign.com/?set_color=white">white</a>
             </p>
         </div>
 	</div>
@@ -62,13 +156,14 @@
     <div class="logo">
         <a href="http://www.spinxwebdesign.com/"><img src="http://www.spinxwebdesign.com/images/logo.gif" alt="SPINX- Web Design Company Los Angeles" title="SPINX- Web Design Company Los Angeles" class="changeimage"></a>
     </div>
-    <div class="subline">Professional web site design and web development services in<br> Los Angles - Beverly Hills,Orange County and Bay area.</div>
+    <div class="subline">Professional website design and web development services in<br> Los Angeles - Beverly Hills,Orange County and Bay area.</div>
     <div class="toplink">
         <div align="left">
             <a href="http://www.spinxwebdesign.com/" title="Home Page" class="home">Home</a>
-            <a href="http://careers.spinxwebdesign.com/" title="Careers" class="contactus">Careers</a>
             <a href="http://www.spinxwebdesign.com/sitemap/" title="Sitemap" class="sitemap">Sitemap</a>
-            <a href="javascript:addBookmark('Spinx Web Design - Los Angeles','http://www.spinxwebdesign.com')" class="bookmark">Bookmark us</a>
+            <a href="javascript:addBookmark('SPINX | Web Design Los Angeles','http://www.spinxwebdesign.com/')" class="bookmark">Bookmark us</a>
+            <a href="http://portfolio.spinxwebdesign.com/" title="Portfolio" class="portfolio">Portfolio</a>
+            <a href="http://careers.spinxwebdesign.com/" title="Careers" class="contactus">Careers</a>
         </div>
         <div><img src="http://www.spinxwebdesign.com/images/black/tollfree.gif" style="margin-top: 20px; margin-left:3px;" alt="" class="changeimage"></div>
     </div>
@@ -76,7 +171,7 @@
         <ul>
             <li style="width: 115px;"><a href="http://www.spinxwebdesign.com/about-us/" title="About Us">About Us</a></li>
             <li style="width: 98px;"><a href="http://www.spinxwebdesign.com/services/" title="Services">Services</a></li>
-            <li style="width: 101px;"><a href="http://portfolio.spinxwebdesign.com/" title="Portfolio">Portfolio</a></li>
+            <li style="width: 101px;"><a href="http://portfolio.spinxwebdesign.com/best/" title="Portfolio">Our Work</a></li>
             <li style="width: 130px;"><a href="http://www.spinxwebdesign.com/testimonials/" title="Testimonials">Testimonials</a></li>
             <li style="width: 154px;"><a href="http://www.spinxwebdesign.com/free-evaluation/" title="Free Evaluation">Free Evaluation</a></li>
             <li style="width: 120px;"><a href="http://www.spinxwebdesign.com/request-quote/" title="Get a Free Quote">Free Quote</a></li>
@@ -87,107 +182,79 @@
     </div>
 </div>
 
-<div id="ctl00_header1_divOthers" class="iframecss">
+<div id="ctl00_header2_divOthers" class="iframecss">
 	<div class="infiniteCarousel">
       <div style="overflow: hidden;" class="wrapper">
         <ul>
-                <li class="cloned imgbg"><a href="http://www.physiciansformula.com/" target="_blank" class="slick-toggleWD1" title="Physicians Formula"><img src="http://www.spinxwebdesign.com/source/portfolio-project/4331621physiciansformula-logo.jpg" alt="Physicians Formula" border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.physiciansformula.com/" target="_blank" class="slick-toggleWD1" title="Physicians Formula" rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/4331621physiciansformula-logo.jpg" alt="Physicians Formula" border="0" class="imgbg22"></a></li>
             
-                <li class="cloned imgbg"><a href="http://www.organicwearmakeup.com/" target="_blank" class="slick-toggleWD1" title="Organic wear™"><img src="http://www.spinxwebdesign.com/source/portfolio-project/51201224organicwearmakeup-logo.jpg" alt="Organic wear™" border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.theurbanhangout.com/" target="_blank" class="slick-toggleWD1" title="The Urban Hangout" rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/34172261.jpg" alt="The Urban Hangout" border="0" class="imgbg22"></a></li>
             
-                <li class="cloned imgbg"><a href="http://www.teachmefitness.com/" target="_blank" class="slick-toggleWD1" title="Teach Me Fitness"><img src="http://www.spinxwebdesign.com/source/portfolio-project/15401621teachmefitness-logo.jpg" alt="Teach Me Fitness" border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.lafoodbank.org/" target="_blank" class="slick-toggleWD1" title="Los Angeles Regional Foodbank" rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/15202262.jpg" alt="Los Angeles Regional Foodbank" border="0" class="imgbg22"></a></li>
             
-                <li class="cloned imgbg"><a href="http://www.gesusa.com/" target="_blank" class="slick-toggleWD1" title="Garage Equipment Supply"><img src="http://www.spinxwebdesign.com/source/portfolio-project/30521121gesusa-logo.jpg" alt="Garage Equipment Supply" border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.theravive.com/" target="_blank" class="slick-toggleWD1" title="Theravive Counseling &amp; Therapy" rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/12232263.jpg" alt="Theravive Counseling &amp; Therapy" border="0" class="imgbg22"></a></li>
             
-                <li class="cloned imgbg"><a href="http://www.hlw.com/" target="_blank" class="slick-toggleWD1" title="HLW"><img src="http://www.spinxwebdesign.com/source/portfolio-project/26191221hlw-logo.jpg" alt="HLW" border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.shopkarlascloset.com/" target="_blank" class="slick-toggleWD1" title="Shop Karlas Closet" rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/6252265.jpg" alt="Shop Karlas Closet" border="0" class="imgbg22"></a></li>
             
-                <li class="cloned imgbg"><a href="http://www.mazon.org/" target="_blank" class="slick-toggleWD1" title="MAZON - A Jewish Response to Hunger"><img src="http://www.spinxwebdesign.com/source/portfolio-project/21221521mazon-logo.jpg" alt="MAZON - A Jewish Response to Hunger" border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.twelfthknight.com/" target="_blank" class="slick-toggleWD1" title="TwelfthKnight.com" rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/16262266.jpg" alt="TwelfthKnight.com" border="0" class="imgbg22"></a></li>
             
-                <li class="cloned imgbg"><a href="http://www.dazzlersdiamonds.com/" target="_blank" class="slick-toggleWD1" title="Dazzlers, Inc."><img src="http://www.spinxwebdesign.com/source/portfolio-project/41341121dazzlersdiamonds-logo.jpg" alt="Dazzlers, Inc." border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.collegematchers.com/" target="_blank" class="slick-toggleWD1" title="College Matchers Inc." rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/47282267.jpg" alt="College Matchers Inc." border="0" class="imgbg22"></a></li>
             
-                <li class="cloned imgbg"><a href="http://www.armedforcesloans.com/" target="_blank" class="slick-toggleWD1" title="Armed Forces Loans"><img src="http://www.spinxwebdesign.com/source/portfolio-project/51311420armedforcesloans-logo.jpg" alt="Armed Forces Loans" border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.mazon.org/" target="_blank" class="slick-toggleWD1" title="MAZON - A Jewish Response to Hunger" rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/21221521mazon-logo.jpg" alt="MAZON - A Jewish Response to Hunger" border="0" class="imgbg22"></a></li>
             
-                <li class="cloned imgbg"><a href="http://www.letfilms.com/" target="_blank" class="slick-toggleWD1" title="LetFilms"><img src="http://www.spinxwebdesign.com/source/portfolio-project/29561221letfilms-logo.jpg" alt="LetFilms" border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.facialinstitute.com/" target="_blank" class="slick-toggleWD1" title="facialinstitute.com" rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/38481121facialinstitute-logo.jpg" alt="facialinstitute.com" border="0" class="imgbg22"></a></li>
             
-                <li class="cloned imgbg"><a href="http://www.threefootgiant.com/" target="_blank" class="slick-toggleWD1" title="Three Foot Giant"><img src="http://www.spinxwebdesign.com/source/portfolio-project/33411621threefootgiant-logo.jpg" alt="Three Foot Giant" border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.agent18.com/" target="_blank" class="slick-toggleWD1" title="Agent18" rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/37512214agent18-logo.jpg" alt="Agent18" border="0" class="imgbg22"></a></li>
             
-                <li class="cloned imgbg"><a href="http://www.azarjewelers.com/" target="_blank" class="slick-toggleWD1" title="AZAR Jewelers"><img src="http://www.spinxwebdesign.com/source/portfolio-project/28201022azarjewelers-logo.jpg" alt="AZAR Jewelers" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://www.mightybright.com/" target="_blank" class="slick-toggleWD1" title="Mighty Bright"><img src="http://www.spinxwebdesign.com/source/portfolio-project/19261521mightybright-logo.jpg" alt="Mighty Bright" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://www.facialinstitute.com/" target="_blank" class="slick-toggleWD1" title="facialinstitute.com"><img src="http://www.spinxwebdesign.com/source/portfolio-project/38481121facialinstitute-logo.jpg" alt="facialinstitute.com" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://www.ushorizon.com/" target="_blank" class="slick-toggleWD1" title="US Horizon"><img src="http://www.spinxwebdesign.com/source/portfolio-project/3531621ushorizon-logo.jpg" alt="US Horizon" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://projects.spinxweb.net/yogipoof/" target="_blank" class="slick-toggleWD1" title="Yogipoof"><img src="http://www.spinxwebdesign.com/source/portfolio-project/42351721yogipoof-logo.jpg" alt="Yogipoof" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://www.kiewit.com/" target="_blank" class="slick-toggleWD1" title="Kiewit Corporation"><img src="http://www.spinxwebdesign.com/source/portfolio-project/28321024kiewit-logo.jpg" alt="Kiewit Corporation" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://www.agent18.com/" target="_blank" class="slick-toggleWD1" title="Agent18"><img src="http://www.spinxwebdesign.com/source/portfolio-project/37512214agent18-logo.jpg" alt="Agent18" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://www.bookmatchers.com/" target="_blank" class="slick-toggleWD1" title="www.BookMatchers.com"><img src="http://www.spinxwebdesign.com/source/portfolio-project/838411bookmatchers-logo.jpg" alt="www.BookMatchers.com" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://www.velocityvehiclegroup.com/" target="_blank" class="slick-toggleWD1" title="Velocity Vehicle Group (VVG)"><img src="http://www.spinxwebdesign.com/source/portfolio-project/4841411velocityvehiclegroup-loog.jpg" alt="Velocity Vehicle Group (VVG)" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://www.herpesboy.com/" target="_blank" class="slick-toggleWD1" title="Herpes Boy"><img src="http://www.spinxwebdesign.com/source/portfolio-project/373859hr-logo.jpg" alt="Herpes Boy" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://www.provideoequipment.com/" target="_blank" class="slick-toggleWD1" title="Pro Video Equipment"><img src="http://www.spinxwebdesign.com/source/portfolio-project/125015pro-video-logo.jpg" alt="Pro Video Equipment" border="0" class="imgbg22"></a></li>
-            
-                <li class="cloned imgbg"><a href="http://www.dazzlerscollectibles.com/" target="_blank" class="slick-toggleWD1" title="Dazzlers Collectibles"><img src="http://www.spinxwebdesign.com/source/portfolio-project/30212210dc-logo.gif" alt="Dazzlers Collectibles" border="0" class="imgbg22"></a></li>
+                <li class="cloned imgbg"><a href="http://www.closetfactory.com/" target="_blank" class="slick-toggleWD1" title="Closet Factory" rel="nofollow"><img src="http://www.spinxwebdesign.com/source/portfolio-project/10937closetfactory-logo.jpg" alt="Closet Factory" border="0" class="imgbg22"></a></li>
             </ul>
       </div>
       <a class="arrow back"></a><a class="arrow forward"></a>
     </div>
     <div class="clearboth leftfloat" style="height: 8px;"></div>
-</div>
+</div>		
         <div class="midepart">
-            <form name="aspnetForm" method="post" action="/privacy-policy/" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM4MTM5MDAyNWRk">
-</div>
-
-                <div class="midepart2">
-                    <div id="ctl00_divLeftPart" class="leftpart"><div id="ctl00_LeftControl1_divTelUs" class="margintop">
+            <div class="midepart2">
+                <div id="ctl00_divLeftPart" class="leftpart"><div id="ctl00_LeftControl1_divTelUs" class="hrightside margintop">
     <h1>Tell Us Your Needs</h1>
-    <div class="inrightside">
+    <div class="inrightside" style="width:210px; padding-left:2px;">
+        
+
+<form method="post" name="frmContact" id="frmContact">
+    <div>
         <div>
-           <div>
-                  <b>888.593.2337 (Toll Free)</b> OR<br>
-                  <b>818.334.3500</b><br></div>
-            <div style="text-align: left;">
-                
-            </div>
-            <span id="ctl00_LeftControl1_lblMsg" class="red"></span>
-            <span>
-                <input name="ctl00$LeftControl1$txtName" type="text" value="Full Name" maxlength="100" id="ctl00_LeftControl1_txtName" onclick="textChanger(this, 'Full Name');" onblur="textChanger(this, 'Full Name');" style="width:204px;">
-                
-            </span><br>
-            <span>
-                <input name="ctl00$LeftControl1$txtEmail" type="text" value="Email Address" maxlength="100" id="ctl00_LeftControl1_txtEmail" onclick="textChanger(this, 'Email Address');" onblur="textChanger(this, 'Email Address');" style="width:204px;">
-                
-                
-            </span>
-            <span>
-                <input name="ctl00$LeftControl1$txtMCOUSXvarPno1" type="text" value="Phone Number" id="ctl00_LeftControl1_txtMCOUSXvarPno1" onkeyup="formatPhone(this,'US');" onclick="textChanger(this, 'Phone Number');" onblur="textChanger(this, 'Phone Number');" style="width:204px;">
-                
-            </span><br>
-            <span>
-                <textarea name="ctl00$LeftControl1$txtComments" rows="3" cols="20" id="ctl00_LeftControl1_txtComments" onclick="textChanger(this, 'Comments');" onblur="textChanger(this, 'Comments');" style="width:204px;">Comments</textarea>
-                
-            </span>
-            <br>Enter the code shown below
-            <input name="ctl00$LeftControl1$txtCaptchaText" type="text" id="ctl00_LeftControl1_txtCaptchaText" style="width:46px;">
-            
-            <br><img src="http://www.spinxwebdesign.com/captcha.aspx" id="ctl00_LeftControl1_imgCaptcha" style="border: 1px solid #666666;" alt="Word Verification:" vspace="5"><br>
-            <input type="submit" name="ctl00$LeftControl1$btnSubmit" value="Submit" onclick="stripHTML(document.getElementById('ctl00_LeftControl1_txtComments'));WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LeftControl1$btnSubmit&quot;, &quot;&quot;, true, &quot;leftcont&quot;, &quot;&quot;, false, false))" id="ctl00_LeftControl1_btnSubmit" class="button"><br>&nbsp;
+            <b>888.593.2337 (Toll Free)</b> OR<br>
+            <b>818.660.1980</b><br>
         </div>
+        
+         <span>
+         <input type="text" name="txtName" id="txtName" class="required" value="Full Name" width="205" maxlength="100" onclick="textChanger(this, 'Full Name');" onblur="textChanger(this, 'Full Name');">
+        </span><span>
+        <input type="text" name="txtEmail" id="txtEmail" class="required email" width="205" maxlength="100" value="Email Address" onclick="textChanger(this, 'Email Address');" onblur="textChanger(this, 'Email Address');">
+        </span>
+        <span>
+        <input type="text" name="txtMCOUSXvarPno1" id="txtMCOUSXvarPno1" class="required email" width="205" maxlength="100" onkeyup="formatPhone(this,'US');" onclick="textChanger(this, 'Phone Number');" onblur="textChanger(this, 'Phone Number');" value="Phone Number">                                        
+        </span>
+        <span>
+        <textarea cols="35" rows="3" name="txtComments" id="txtComments" onclick="textChanger(this, 'Comments');" onblur="textChanger(this, 'Comments');" title="Comments">Comments</textarea>
+        </span><br>Enter the code shown below                                    
+        <input class="required" name="txtCaptchaText" style="width: 46px" type="text" id="txtCaptchaText" autocomplete="off">                                        
+        <div align="right">                                    
+        <img style="cursor: pointer;" title="Change Captcha" alt="Change Captcha" id="imgRefresh" onclick="RefreshCaptcha();" src="http://www.spinxwebdesign.com/images/refresh.gif" width="27" height="27">
+            <img src="" style="border: 1px solid #666666;" id="imgCaptcha" alt="Word Verification:" width="100" height="30">
+        </div>                                    
+        <input class="button" id="btnSubmit" type="submit" value="Submit" name="btnSubmit" style="vertical-align: middle;">
     </div>
-</div>
+</form>
+
+    </div>
+</div> <div>&nbsp;</div>
+ <div>&nbsp;</div>
 <div class="leftbuttoun">
-    	<a href="http://www.spinxwebdesign.com/free-evaluation/" title="Free Evaluation" class="leftbut1">Free Evaluation</a>
-        <a href="http://www.spinxwebdesign.com/request-quote/" title="Get a Free Quote" class="leftbut2">Get a Free Quote</a> 
+	<a href="http://www.spinxwebdesign.com/free-evaluation/" title="Free Evaluation" class="leftbut1">Free Evaluation</a>
+    <a href="http://www.spinxwebdesign.com/request-quote/" title="Get a Free Quote" class="leftbut2">Get a Free Quote</a> 
     <a href="http://www.spinxwebdesign.com/contact-us/" title="Contact Us" class="leftbut3">Contact Us</a> 
-    </div>
+</div>
 <div>&nbsp;</div>
 <div id="ctl00_LeftControl1_divBlog" class="bloginn">
     <div style="padding: 8px 0px 0px 80px; clear: both;">
@@ -199,12 +266,17 @@
 <div class="clearboth">
     <h2>Latest Happenings</h2>
     <div>
-        <ul><li><a href="http://news.spinxwebdesign.com/news-detail/google-search-page-gets-a-new-look/">Google Search Page Gets a New Look </a></li><li><a href="http://news.spinxwebdesign.com/news-detail/windows-8-microsoft-shifting-focus-to-next-os-in-july-2010/">Windows 8: Microsoft Shifting Focus To Next OS ...</a></li><li><a href="http://news.spinxwebdesign.com/news-detail/flash-storage-should-be-among-top-data-center-priorities-gartner-says/">Flash storage should be among top data center p...</a></li><li><a href="http://news.spinxwebdesign.com/news-detail/dell-releases-world-s-most-powerful-mobile-workstation/">Dell releases 'world's most powerful mobile wor...</a></li><li><a href="http://news.spinxwebdesign.com/news-detail/it-s-google-friend-connect-vs-facebook-connect/">It's Google Friend Connect vs. Facebook Connect </a></li></ul>
+        <ul><li><a href="http://news.spinxwebdesign.com/news-detail/force-youtube-to-play-hd-videos-every-time/">Force YouTube to Play HD Videos Every Time </a></li><li><a href="http://news.spinxwebdesign.com/news-detail/broadband-experts-all-adoption-is-local/">Broadband experts: All adoption is local </a></li><li><a href="http://news.spinxwebdesign.com/news-detail/facebook-risks-don-t-look-to-your-it-security-group/">Facebook risks? Don't look to your IT security ...</a></li><li><a href="http://news.spinxwebdesign.com/news-detail/mozilla-patches-9-firefox-bugs-adds-plug-in-crash-protection/">Mozilla patches 9 Firefox bugs, adds plug-in cr...</a></li><li><a href="http://news.spinxwebdesign.com/news-detail/google-voice-your-guide-to-getting-started/">Google Voice: Your Guide to Getting Started </a></li></ul>
         <div id="ctl00_LeftControl1_divReadMore" style="text-align: right;" class="clom-leftlink">
             <a href="http://news.spinxwebdesign.com/"><b>All Happenings</b></a>
         </div>
     </div>
 </div></div>
+                <form name="aspnetForm" method="post" action="/privacy-policy" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM4MTM5MDAyNWRk">
+</div>
+
                     <div class="contentpart" id="col-content">
 <div class="textpart">
 <h1>Privacy Policy</h1>
@@ -224,8 +296,8 @@
 
 </div>
                     <div class="clearboth">&nbsp;</div>
-                </div>
-            </form>
+                </form>
+            </div>
         </div>
     </div>
 	
@@ -244,7 +316,7 @@
               <li><a href="http://www.spinxwebdesign.com/testimonials/" title="Testimonials">Testimonials</a></li>
               <li><a href="http://www.spinxwebdesign.com/free-evaluation/" title="Free Evaluation">Free Evaluation</a></li>
               <li><a href="http://www.spinxwebdesign.com/request-quote/" title="Get a Free Quote">Get a Free Quote</a></li>
-              
+              <li><a href="http://www.spinxwebdesign.com/resources/" title="Resources Around the Globe">Resources</a></li>
             </ul>
           </div>
           <div class="leftfloat" style="width:120px;">
@@ -254,12 +326,10 @@
                 <li><a href="http://news.spinxwebdesign.com/" title="News">News</a></li>
                 <li><a href="http://www.spinxwebdesign.com/contact-us/" title="Contact Us">Contact Us</a></li>
                 <li><a href="http://www.spinxwebdesign.com/sitemap/" title="Sitemap">Sitemap</a></li>
+                <li><a href="http://www.spinxwebdesign.com/business-partners/" title="Business Partners">Business Partners</a></li>
                 <li><a href="http://www.spinxwebdesign.com/california-zip-code/" title="California Zip Codes">California Zip Codes</a></li>
             </ul>
           </div>
-            <ul class="firstul3">
-            <li><a href="http://www.spinxwebdesign.com/business-partners/" title="Business Partners">Business Partners</a></li>
-            </ul>
         </li>
         <li class="footermainli2">
             <h3>Websites by Category</h3>
@@ -271,14 +341,12 @@
                 <li><a href="http://portfolio.spinxwebdesign.com/websites-by-category/information-brochure-websites/" title="Information / Brochure Websites">Information / Brochure Websites</a></li>
               
                 <li><a href="http://portfolio.spinxwebdesign.com/websites-by-category/flash-websites/" title="Flash Websites">Flash Websites</a></li>
-              
-                <li><a href="http://portfolio.spinxwebdesign.com/websites-by-category/flash-design/" title="Flash Design">Flash Design</a></li>
               </ul>
         </li>
         <li class="footermainli3">
             <h3>Websites by Industry</h3>
             <div id="scrollpanel" class="scroll-pane">
-                <ul class="firstul"><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/education/" title="Education"> Education</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/beauty/" title="Beauty"> Beauty</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/auto/" title="Auto"> Auto</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/health-fitness/" title="Health/Fitness"> Health/Fitness</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/personal/" title="Personal"> Personal</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/architecture-construction/" title="Architecture/Construction"> Architecture/Construction</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/fashion/" title="Fashion"> Fashion</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/entertainment/" title="Entertainment"> Entertainment</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/gifts-products/" title="Gifts/Products"> Gifts/Products</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/real-estate/" title="Real Estate"> Real Estate</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/portals/" title="Portals"> Portals</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/insurance/" title="Insurance"> Insurance</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/jewelry/" title="Jewelry"> Jewelry</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/business-services/" title="Business/Services"> Business/Services</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/non-profit/" title="Non Profit"> Non Profit</a></li><li><a href="http://portfolio.spinxwebdesign.com/websites-by-industry/others/" title="Others"> Others</a></li></ul>
+                <ul class="firstul"><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/education/" title="Education">Education</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/beauty/" title="Beauty">Beauty</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/health-fitness/" title="Health/Fitness">Health/Fitness</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/personal/" title="Personal">Personal</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/architecture-construction/" title="Architecture/Construction">Architecture/Construction</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/fashion/" title="Fashion">Fashion</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/entertainment/" title="Entertainment">Entertainment</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/gifts-products/" title="Gifts/Products">Gifts/Products</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/insurance/" title="Insurance">Insurance</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/jewelry/" title="Jewelry">Jewelry</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/business-services/" title="Business/Services">Business/Services</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/non-profits/" title="Non Profits">Non Profits</a></li><li><a rel="nofollow" href="http://portfolio.spinxwebdesign.com/websites-by-industry/others/" title="Others">Others</a></li></ul>
             </div>
            
         </li>
@@ -288,19 +356,19 @@
             <div id="ctl00_footer1_colm3">
               
                   <div style=" margin:0px;">
-                    <div style="text-align:justify;"> As a national nonprofit organization it is often a challenge to communicate our message throughout the country and th... </div>
-                    <div style="text-align:right;"> <strong> Heather Wolfson<br>Special Projects Manager </strong> <br>
-                        <a href="http://www.mazon.org/" title="Heather Wolfson - Special Projects Manager" target="_blank">MAZON:  A Jewish Response to Hunger</a>
+                    <div style="text-align:justify;"> I highly recommend SPINX for web design.  They were creative in their design for my site and customized it so it has ... </div>
+                    <div style="text-align:right;"> <strong> Susan Ashley </strong> <br>
+                        <a href="http://www.ashleypsychology.com" rel="nofollow" title="Susan Ashley" target="_blank">www.ashleypsychology.com</a>
                     </div>
                   </div>
                 
             </div>
-            <div align="right"> <a href="http://www.spinxwebdesign.com/testimonials/" title="Read more testimonials"><strong>More</strong></a></div>
+            <div align="right"> <a href="http://www.spinxwebdesign.com/testimonials/" title="Read more testimonials" rel="nofollow"><strong>More</strong></a></div>
           </div>
         </li>
         </ul>
       </div>
-      <div class="footext">© 2009 SPINX Inc. All Rights Reserved.</div>
+      <div class="footext">© 2010 SPINX Inc. All Rights Reserved.</div>
     </div>
     <div class="footssmalltext"> Spinx has emerged as the solution for all your website related problems and your online companion in world wide web. We address web services needs of all types and size of websites and guarantee 100% work satisfaction. Spinx operates exclusively as an Web and Graphic design company from Los Angeles. Major chunk of clients in our Website Design Portfolio and the Graphic Design Portfolio are from the areas like San Diego, San Jose, San Francisco, Santa Monica, West Hollywood, Las Vegas, Pasadena, Santa Barbara, Santa Clara, Irvine, Glendale, Beverly Hills, Orange county and Bay Area and have been served in different Website Development areas like web consulting, search engine optimization, inventory management, website designing, web hosting, logo design, internet marketing, database applications, multimedia services, flash website design, ecommerce web design, content management system, employee management system and website maintenance, thus covering all aspects required for the development of a full-fledged and well equipped website.<br>&nbsp;</div>
 </div>
