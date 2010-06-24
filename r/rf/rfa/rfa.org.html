@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rfa.org privacy policy that was archived on 2009-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226164456id_/http%3A//www.rfa.org/english/about/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rfa.org privacy policy that was archived on 2010-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625014851id_/http%3A//www.rfa.org/english/about/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <base href="http://www.rfa.org/english/about/privacy-policy.html/">
@@ -82,11 +82,15 @@
 
    <div class="borderlessbox">
 
-    <!--
-    <tal:block define="story_title info/title;
+   <!--
+   <iframe tal:define="story_title string:${info/title};
                        url string:${info/url};
                        subsite string:${info/subsite_url};
-                       nothing python:container.storyViewsUpdate(story_title, url, subsite)"> </tal:block> -->
+                       published info/date"
+           tal:attributes="src python:'http://zope05.rfaweb.org/htdocs/rfastories/test.html?subsite=' + subsite + '&title=' + story_title + '&url=' + url" width="0px" 
+    height="0" border="0" marginheight="0" marginwidth="0" frameborder="0" scrolling="no">
+   </iframe> -->
+    
     <h1 class="migratedtitle">Privacy Policy</h1> 
 
     
@@ -126,7 +130,7 @@
     
 
     </div>
-	<p class="storyfootercopyright">Copyright © 1998-2009 Radio Free Asia.  All rights reserved.</p>
+	<p class="storyfootercopyright">Copyright © 1998-2010 Radio Free Asia.  All rights reserved.</p>
     <p class="storyfooter" style="margin-bottom: 10px">
     <img class="icon" src="http://www.rfa.org/english/icon_printer.gif">
     <a href="javascript:this.print()">Print...</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -134,6 +138,7 @@
     <img class="icon" src="http://www.rfa.org/english/icon_email.gif">
     <a href="http://www.rfa.org/english/about/privacy-policy.html/sendto_form">E-Mail this story</a>
     </p>
+
     <!--discussion-->
     
 
@@ -167,17 +172,42 @@
       <td><a href="http://www.rfa.org/english/about/privacy-policy.html/sendto_form">E-mail this story</a></td>
      </tr>
 
-    <!--
+     
+     <tr>
+       <td>
+         <img class="icon" src="http://www.rfa.org/english/icon_storydownload.gif">
+       </td>
+       <td> <a href="http://www.rfa.org/english/about/privacy-policy.html/download_story">Download this story</a> </td>
+     </tr>  
+
+     <!-- 
      <tr>
        <td>
          <img class="icon" src="graphics/icon_email.gif"
          tal:attributes="src string:${info/subsite_url}/icon_storydownload.gif" />
        </td>
-       <td> <a href="sendto_form"
-       tal:attributes="href string:${info/url}/download_story;"
-       i18n:translate="download_story">Download this story</a> </td>
+       <td tal:define="subsite string:${info/subsite_url}"> <a tal:attributes="href python:'popular_stories?span=month&subsite=' + subsite"
+       i18n:translate="download_story">Popular stories - last month</a> </td>
      </tr> 
-    --> 
+
+     <tr>
+       <td>
+         <img class="icon" src="graphics/icon_email.gif"
+         tal:attributes="src string:${info/subsite_url}/icon_storydownload.gif" />
+       </td>
+       <td tal:define="subsite string:${info/subsite_url}"> <a tal:attributes="href python:'popular_stories?span=week&subsite=' + subsite"       
+       i18n:translate="download_story">Popular stories - last week</a> </td>
+     </tr> 
+
+     <tr>
+       <td>
+         <img class="icon" src="graphics/icon_email.gif"
+         tal:attributes="src string:${info/subsite_url}/icon_storydownload.gif" />
+       </td>
+       <td tal:define="subsite string:${info/subsite_url}"> <a tal:attributes="href python:'popular_stories?span=recent&subsite=' + subsite"       
+       i18n:translate="download_story">Recently commented stories </a> </td>
+     </tr> 
+     -->
 
      <tr>
       <td>
@@ -218,39 +248,39 @@
 
    <!-- promo2 -->
 
-   <!-- Most viewed stories box 
-   <div class="mostmailed" 
-        tal:define="subsite info/subsite_url;
-                    most_viewed_stories python:container.getMostViewedStories(subsite=subsite)">
+   <!-- Most viewed stories box  
+   <div class="mostmailed">
     <b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>
     <div class="boxcontent">
      <h4 i18n:translate="most_viewed_stories">
        Most viewed stories
      </h4>
-     <ul>
-       <li tal:repeat="story most_viewed_stories"> <a tal:attributes="href story/url" tal:content="story/story_title"> Most viewed story link </a> </li> 
-     </ul>
+   <iframe tal:define="subsite info/subsite_url"
+           tal:attributes="src python:'http://zope05.rfaweb.org/htdocs/rfastories/test.html?subsite=' + subsite + '&stories=most_viewed'"  width="180px"
+    height="160" border="0" frameborder="0" scrolling="no">
+       <p>Most viewed stories for the week</p>
+   </iframe> 
     </div>
     <b class="b4b"></b><b class="b3b"></b><b class="b2b"></b><b class="b1b"></b>
    </div>
    <br /> -->
 
    <!-- Most Emailed Stories box 
-   <div class="mostmailed" 
-        tal:define="subsite info/subsite_url;
-                    most_emailed_stories python:container.getMostEmailedStories(subsite=subsite)">
+   <div class="mostmailed">
     <b class="b1"></b><b class="b2"></b><b class="b3"></b><b class="b4"></b>
     <div class="boxcontent">
      <h4 i18n:translate="most_emailed_stories">
-       Most e-mailed stories
+       Most emailed stories
      </h4>
-     <ul>
-       <li tal:repeat="story most_emailed_stories"> <a tal:attributes="href story/url" tal:content="story/story_title"> Most emailed story link 1</a> </li>
-     </ul>
+   <iframe tal:define="subsite info/subsite_url"
+           tal:attributes="src python:'http://zope05.rfaweb.org/htdocs/rfastories/test.html?subsite=' + subsite + '&stories=most_emailed'"  width="180px"
+    height="160" border="0" frameborder="0" scrolling="no">
+       <p>Most emailed stories for the week</p>
+   </iframe> 
     </div>
     <b class="b4b"></b><b class="b3b"></b><b class="b2b"></b><b class="b1b"></b>
    </div>
-   <br /> -->
+   <br />  -->
 
   </div><!-- storypagerightcol -->
 
@@ -299,6 +329,10 @@
      </li>
      <li>
           <a href="http://www.rfa.org/english/news">News</a>
+          
+     </li>
+     <li>
+          <a href="http://www.rfa.org/english/video">Video</a>
           
      </li>
      <li>
@@ -377,7 +411,12 @@
 </tbody>
 </table>
 <a href="http://www.rfa.org/english/about/help/live.html">Program schedule</a></div>
-<br>
+<br></div>
+
+</div>
+    <div>
+
+<div class="viewlet">
 <div class="aboutus">
 <ul>
      <li>
@@ -419,7 +458,7 @@
     
  <div class="promo3content">
 
-    
+    <img src="http://www.rfa.org/english/about/help/web_access.html/censorship_75.jpg/image_thumb">
 
      
     
@@ -447,35 +486,25 @@
 
   <h3> </h3>
 
-  <div>
+  <div><div align="center">  <strong>Social Media</strong><br><br>
+  
+<a href="http://www.youtube.com/RFAVideo" target="new"><img src="http://www.rfa.org/english/images/rfa-youtube-20.jpg" alt="rfa-youtube-logo.jpg" border="1"></a>
 
 
 
 
 
+<a href="http://www.rfaunplugged.org/" target="new"><img src="http://www.rfa.org/english/images/rfa-unplugged-20.jpg" alt="RFA Unplugged" border="1"></a>
+  
 
 
+<a href="http://www.rfachina.com/" target="new"><img src="http://www.rfa.org/english/images/rfachina-20.jpg" alt="RFA China blog" border="1"></a>
 
 
+<a href="http://www.facebook.com/pages/Radio-Free-Asia/31744768821?ref=mf" target="new"><img src="http://www.rfa.org/english/images/facebook-20.jpg" alt="Facebook" border="1"></a>
+  
 
-
-
-<div align="center"><br>&nbsp;
-<strong>Social Media</strong><br><br>
-
-<a href="http://www.youtube.com/RFAVideo" target="new"><img src="http://www.rfa.org/english/images/rfa-youtube.jpg" alt="rfa-youtube-logo.jpg" align="center" border="1"></a><br><br>
-
-<a href="http://rfaunplugged.wordpress.com/" target="new"><img src="http://www.rfa.org/english/images/rfa-unplugged.jpg" alt="RFA Unplugged" align="center" border="1"></a><br><br>
-
-
-
-<a href="http://www.rfachina.com/" target="new"><img src="http://www.rfa.org/english/images/rfachina.jpg" alt="RFA China blog" align="center" border="1"></a><br><br>
-
-<a href="http://www.facebook.com/pages/Radio-Free-Asia/31744768821?ref=mf" target="new"><img src="http://www.rfa.org/english/images/facebook.jpg" alt="Facebook" align="center" border="1"></a><br><br>
-
-<a href="https://twitter.com/RadioFreeAsia" target="new"><img src="http://www.rfa.org/english/images/twitter.jpg" alt="Twitter" align="center" border="1"></a><br><br></div>
-
-</div>
+<a href="https://twitter.com/RadioFreeAsia" target="new"><img src="http://www.rfa.org/english/images/twitter-20.jpg" alt="Twitter" border="1"></a><br><br></div></div>
 
  </div>
 
@@ -540,7 +569,6 @@
     <img src="http://rfasiamainprod.122.2O7.net/b/ss/rfasiamainprod/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" /></a>
  </noscript>
 <!-- End SiteCatalyst code version: H.20.3. Section 3 -->
-
 
 
 
