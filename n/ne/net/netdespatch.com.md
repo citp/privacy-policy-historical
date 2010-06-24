@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622221036id_/http%3A//www.netdespatch.com/company/using_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdespatch.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624055819id_/http%3A//www.netdespatch.com/company/using_privacy.html) for the most accurate reproduction.*
 
 # NetDespatch Ltd - Web Services for Transport Companies
 
 * * *
 
-United Kingdom Data Protection Act (1998). Registration PZ 703594X September 2009. | 1
+United Kingdom Data Protection Act (1998). Registration PZ 703594X September 2010. | 1
 
 2
 
