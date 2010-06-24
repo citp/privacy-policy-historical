@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222133754id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624223927id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy - CableWholesale.com
 
