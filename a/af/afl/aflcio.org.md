@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aflcio.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231084602id_/http%3A//www.aflcio.org/siteguides/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aflcio.org privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624153939id_/http%3A//www.aflcio.org/siteguides/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ If your personal information changes (such as your ZIP code), or if you wish to 
  **Disclaimer:  
 ** Opinions expressed here and in any corresponding comments are the personal opinions of the original authors, and do not necessarily reflect the views of the AFL-CIO. All AFL & CIO names and trademarks are the property of the AFL-CIO or its subsidiaries in the United States and other countries.
 
-September 4, 2001
+September 4, 2006
