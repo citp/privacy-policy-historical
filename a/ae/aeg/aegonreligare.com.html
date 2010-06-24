@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aegonreligare.com privacy policy that was archived on 2009-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091222203657id_/http%3A//www.aegonreligare.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aegonreligare.com privacy policy that was archived on 2010-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624021206id_/http%3A//www.aegonreligare.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,10 +7,13 @@
 <link rel="shortcut icon" type="image/ico" href="arli.ico">
 <link href="/style/screen.css" rel="stylesheet" type="text/css">
 <link href="/style/screen-menu.css" rel="stylesheet" type="text/css">
-<link type="text/css" href="/style/jquery-ui-1.7.2.custom.css" rel="stylesheet">	
+<!--<link type="text/css" href="/style/jquery-ui-1.7.2.custom.css" rel="stylesheet" />	
 <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="/js/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.7.2.custom.min.js"></script> -->
 <script type="text/javascript" src="/js/relig.js"></script>
+<script language="JavaScript" src="/js/jquery-1.3.2.min.js"></script>
+<script language="JavaScript" src="/js/jquery-ui-1.7.2.custom_all.min.js"></script>
+<link rel="stylesheet" href="/style/jquery-ui-1.7.2.custom.css" type="text/css">
 <script type="text/javascript">
 	$(function(){
 		// Accordion
@@ -45,15 +48,25 @@
 </script>
 </head>
 
-<body><table width="778" border="0" bordercolor="#CCCCCC" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<body>
+<table width="778" border="0" bordercolor="#CCCCCC" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <!--DWLayoutTable-->
   <tbody><tr>
-    <td height="60" colspan="2" valign="top" style="padding-top:15px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td height="60" colspan="2" valign="top" style="padding-top:15px;"><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4983174-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td width="178">
 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
 	<td>
-		<a href="/index.php"><img src="/images/RELIGARE.gif" border="0" alt="Life Insurance"></a>
+		<a href="/index.php"><img src="/images/RELIGARE.gif" height="53" width="166" border="0" alt="Life Insurance"></a>
 	</td></tr>
 </tbody></table>
 </td>
@@ -63,21 +76,37 @@
 	<tbody><tr>
 		<td>
 			<div class="left">
-				<a href="/life-insurance.php">Life Insurance</a> | <a href="/ulips.php">ULIPs</a> | <a href="/retirement.php">Retirement Plans</a>
+				<a href="/life-insurance.php">Life Insurance</a> | <a href="/ulips.php">ULIPs</a> | <a href="/retirement.php">Retirement Plans</a> | <a href="/life-insurance-plans/health-plans.php"> Health Plan</a>
 			</div>
 		</td>
 		<td>
 			<div class="right">
-				<a href="/index.php">Home</a> <a href="/index.php"><img src="/images/home.gif" style="vertical-align:-4px" alt="" border="0"></a><br>
-	<!--old code			<form name="searchbox" action="/search.php">
-					<input type="text" class="searchField" value="" name="searchField" />&nbsp;<input type="image" class="searchBtn" src="/images/searchBtn.gif" />
-				</form>--->
-                <form name="searchbox" action="/search.php" method="get">
-                   <input type="hidden" name="search" value="1">
-                   
-                   <input type="text" name="query" id="query" value="" class="searchField">
-                   <input type="image" class="searchBtn" src="/images/searchBtn.gif">
-                 </form>
+        <form name="searchbox" action="/search.php" method="get">
+          <input type="hidden" name="search" value="1">
+          <input type="text" name="query" id="query" value="" size="10" class="searchField">
+          <input type="image" class="searchBtn" src="/images/searchBtn.gif">
+  				<a href="/index.php" style="color: #888;">Home</a> <!--<a href="/index.php"><img src="/images/home.gif" style="vertical-align:-4px" alt="" border="0" /></a>-->
+        </form>
+        <script type="text/javascript">
+          $(document).ready(function(){
+            $('#health-buy-main').hover(
+              function() {
+                $('#health-buy-drop').css({'display': 'block'});
+              },
+              function() {
+                $('#health-buy-drop').hover( function() {}, function() { $(this).css({'display': 'none'});} );
+              }
+            );
+          });
+        </script>
+        <div id="health-buy-online">
+          <img id="health-buy-main" src="/images/buy_online.gif" alt="Buy Online" title="Buy Online">
+          <ul id="health-buy-drop">
+            <li><a href="https://buyonline.aegonreligare.com:3443/buyonline/defaullt.htm?key=website" id="health-buy-iterm">iTerm Plan</a></li>
+            <li><a href="http://hpms.aegonreligare.com/Login.aspx?key=Online" id="health-buy-health">Health Plan</a></li>
+          </ul>
+        </div>
+        <!-- old code <form name="searchbox" action="/search.php"><input type="text" class="searchField" value="" name="searchField" />&nbsp;<input type="image" class="searchBtn" src="/images/searchBtn.gif" /></form> -->
 			</div>
 		</td>
 	</tr>
@@ -106,17 +135,20 @@
 						<li><a href="/about_aegon_religare.php">Company Details</a></li>
 						<li><a href="/about_mission.php">Values &amp; Vision</a></li>
 						<li><a href="/leadership.php">Leadership Team</a></li>
+						<li><a href="/financials.php">Financials</a></li>
 						</ul>
 				</li>
 				<li><a href="/life-insurance-plans.php">Life Insurance Plans<span class="arrowdiv">&nbsp;&nbsp;</span></a>
 						<ul class="subnav">
 						<li><a href="/protection-plans.php">Protection Plans</a></li>
 						<li><a href="/child-plans.php">Child Plans</a></li>
-						<li><a href="/saving-plans.php">ULIPs</a></li>
+						<li><a href="/saving-plans.php">ULIPs &amp; Saving Plans</a></li>
 						<li><a href="/retirement-plans.php">Retirement Plans</a></li>
 						</ul>
 				</li>
-				<li><a href=" ">Payment Modes<span class="arrowdiv">&nbsp;&nbsp;</span></a>
+				<li><a href="/life-insurance-plans/health-plans.php">Health Plan</a>
+				</li>
+				<li><a href="/payment-mode.php">Payment Modes<span class="arrowdiv">&nbsp;&nbsp;</span></a>
 					<ul class="subnav">
 						<li><a href="/online-insurance-payment.php">Online Payment</a></li>
 						<li><a href="/IVRhello.php">Pay Via Phone</a></li>
@@ -162,20 +194,35 @@
 				</li>
 				</ul>
 	<div class="wappreaccord">
-	<div id="accordion" class="ui-accordion ui-widget ui-helper-reset" role="tablist">
+	<div id="accordion">
 	<div>
-        <h3 class="ui-accordion-header ui-helper-reset ui-state-active ui-corner-top" role="tab" aria-expanded="true" tabindex="0"><span class="ui-icon ui-icon-triangle-1-s"></span><a href="#">Login</a></h3>
-    <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" role="tabpanel" style="height: 82px;"><a href="http://customer.aegonreligare.com">As a Customer</a><div class="spacer6"><br></div><a href="http://portal.aegonreligare.com"> As a Life Advisor</a></div>
+        <h3><a href="#">Login</a></h3>
+    <div><a href="http://customer.aegonreligare.com">As a Customer</a><div class="spacer6"><br></div><a href="http://portal.aegonreligare.com"> As a Life Advisor</a>
+	<div class="spacer6"><br></div><a href="http://wealthnet.aegonreligare.com/wealthNet/default2.htm">As a WealthNet Partner</a>
+	</div>
     </div>
     <div>
-        <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#">Contact Us</a></h3>
-         <div class="spacer6 ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 82px; display: none;">Call - <font color="#0062C3"><b>1800 209 9090</b></font><div class="spacer6"><br></div>SMS - <font color="#0062C3"><b>ARLI</b></font> to <font color="#0062C3"><b>56677</b></font><div class="spacer6"><br></div><select name="city_name2" class="txtbox" style="width:140px;" onchange="javascript:get_value2(this);"><option value="0" style="width:130px;">Branch Locator</option><option style="width:112px;" value="19"> Ahmedabad </option><option style="width:112px;" value="57"> Amritsar </option><option style="width:112px;" value="38"> Bengaluru - Brigade Road </option><option style="width:112px;" value="50"> Bengaluru - Koramangala </option><option style="width:112px;" value="54"> Bhopal </option><option style="width:112px;" value="24"> Bhubaneshwar </option><option style="width:112px;" value="63"> Chandigarh </option><option style="width:112px;" value="58"> Chennai - Mount Road </option><option style="width:112px;" value="59"> Coimbatore </option><option style="width:112px;" value="31"> Dehradun </option><option style="width:112px;" value="48"> Faridabad </option><option style="width:112px;" value="27"> Gurgaon </option><option style="width:112px;" value="42"> Guwahati </option><option style="width:112px;" value="51"> Hubli </option><option style="width:112px;" value="17"> Hyderabad - Panjagutta </option><option style="width:112px;" value="39"> Hyderabad - Secunderabad </option><option style="width:112px;" value="4"> Indore </option><option style="width:112px;" value="21"> Jaipur </option><option style="width:112px;" value="64"> Jalandhar </option><option style="width:112px;" value="72"> Jamshedpur </option><option style="width:112px;" value="67"> Kanpur </option><option style="width:112px;" value="25"> Kochi </option><option style="width:112px;" value="36"> Kolkata - Dalhousie </option><option style="width:112px;" value="15"> Kolkata - Gariahat </option><option style="width:112px;" value="23"> Lucknow - Sikander Bagh </option><option style="width:112px;" value="61"> Lucknow - Vidhan Sabha Road </option><option style="width:112px;" value="16"> Ludhiana </option><option style="width:112px;" value="52"> Mangalore </option><option style="width:112px;" value="30"> Mumbai - Belapur </option><option style="width:112px;" value="1"> Mumbai - Dadar </option><option style="width:112px;" value="65"> Mumbai - Kandivali  </option><option style="width:112px;" value="2"> Nagpur </option><option style="width:112px;" value="56"> Nasik </option><option style="width:112px;" value="29"> New Delhi - Kailash Colony </option><option style="width:112px;" value="28"> New Delhi - Pitampura </option><option style="width:112px;" value="22"> Noida </option><option style="width:112px;" value="71"> Panipat </option><option style="width:112px;" value="70"> Panjim </option><option style="width:112px;" value="3"> Pune - Koregaon Road </option><option style="width:112px;" value="55"> Pune - Sachapir Street </option><option style="width:112px;" value="34"> Raipur </option><option style="width:112px;" value="66"> Rajkot </option><option style="width:112px;" value="49"> Ranchi </option><option style="width:112px;" value="69"> Salem </option><option style="width:112px;" value="20"> Surat </option><option style="width:112px;" value="26"> Thiruvananthapuram </option><option style="width:112px;" value="68"> Thrissur </option><option style="width:112px;" value="18"> Vadodara </option><option style="width:112px;" value="32"> Varanasi </option><option style="width:112px;" value="40"> Visakhapatnam </option></select><br><div class="spacer6"><br></div><a href="contact_call.php">Meet our <font color="#0062C3"><b>Life Advisor</b></font></a></div>
+        <h3><a href="#">Contact Us</a></h3>
+         <div class="spacer6">Call - <font color="#0062C3"><b>1800 209 9090</b></font><div class="spacer6"><br></div>SMS - <font color="#0062C3"><b>ARLI</b></font> to <font color="#0062C3"><b>56677</b></font><div class="spacer6"><br></div><select name="city_name2" class="txtbox" style="width:140px;" onchange="javascript:get_value2(this);"><option value="0" style="width:130px;">Branch Locator</option><option style="width:112px;" value="19"> Ahmedabad </option><option style="width:112px;" value="73"> Ahmedabad- Navrangpura   </option><option style="width:112px;" value="57"> Amritsar </option><option style="width:112px;" value="38"> Bengaluru - Brigade Road </option><option style="width:112px;" value="50"> Bengaluru - Koramangala </option><option style="width:112px;" value="54"> Bhopal </option><option style="width:112px;" value="24"> Bhubaneshwar </option><option style="width:112px;" value="63"> Chandigarh </option><option style="width:112px;" value="58"> Chennai - Mount Road </option><option style="width:112px;" value="59"> Coimbatore </option><option style="width:112px;" value="31"> Dehradun </option><option style="width:112px;" value="48"> Faridabad </option><option style="width:112px;" value="27"> Gurgaon </option><option style="width:112px;" value="42"> Guwahati </option><option style="width:112px;" value="51"> Hubli </option><option style="width:112px;" value="17"> Hyderabad - Panjagutta </option><option style="width:112px;" value="39"> Hyderabad - Secunderabad </option><option style="width:112px;" value="4"> Indore </option><option style="width:112px;" value="21"> Jaipur </option><option style="width:112px;" value="75"> Jaipur- Mahavir Marg  </option><option style="width:112px;" value="64"> Jalandhar </option><option style="width:112px;" value="72"> Jamshedpur </option><option style="width:112px;" value="67"> Kanpur </option><option style="width:112px;" value="25"> Kochi </option><option style="width:112px;" value="36"> Kolkata - Dalhousie </option><option style="width:112px;" value="15"> Kolkata - Gariahat </option><option style="width:112px;" value="23"> Lucknow - Sikander Bagh </option><option style="width:112px;" value="61"> Lucknow - Vidhan Sabha Road </option><option style="width:112px;" value="16"> Ludhiana </option><option style="width:112px;" value="52"> Mangalore </option><option style="width:112px;" value="30"> Mumbai - Belapur </option><option style="width:112px;" value="1"> Mumbai - Dadar </option><option style="width:112px;" value="65"> Mumbai - Kandivali  </option><option style="width:112px;" value="2"> Nagpur </option><option style="width:112px;" value="56"> Nasik </option><option style="width:112px;" value="77"> Nehru Place </option><option style="width:112px;" value="28"> New Delhi - Pitampura </option><option style="width:112px;" value="76"> New Delhi- Saket District  </option><option style="width:112px;" value="22"> Noida </option><option style="width:112px;" value="71"> Panipat </option><option style="width:112px;" value="70"> Panjim </option><option style="width:112px;" value="3"> Pune - Koregaon Road </option><option style="width:112px;" value="55"> Pune - Sachapir Street </option><option style="width:112px;" value="34"> Raipur </option><option style="width:112px;" value="66"> Rajkot </option><option style="width:112px;" value="49"> Ranchi </option><option style="width:112px;" value="69"> Salem </option><option style="width:112px;" value="20"> Surat </option><option style="width:112px;" value="26"> Thiruvananthapuram </option><option style="width:112px;" value="68"> Thrissur </option><option style="width:112px;" value="18"> Vadodara </option><option style="width:112px;" value="74"> Vadodara- Jetalpur Road </option><option style="width:112px;" value="32"> Varanasi </option><option style="width:112px;" value="40"> Visakhapatnam </option></select><br><div class="spacer6"><br></div><a href="contact_call.php">Meet our <font color="#0062C3"><b>Life Advisor</b></font></a>		 
+		 </div>
     </div>
     <div>
-        <h3 class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span><a href="#">Partner Us</a></h3>
-        <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 82px; display: none;"><a href="career_advisor.php">As a Life Advisor</a><div class="spacer6"><br></div><a href="channelPartner.php">As a Channel parter</a></div>
+        <h3><a href="#">Partner Us</a></h3>
+        <div><a href="career_advisor.php">As a Life Advisor</a><div class="spacer6"><br></div><a href="channelPartner.php">As a Channel Partner</a>
+		</div>
     </div>
-</div></div>
+
+   <div>
+        <h3><a href="#">Connect With Us</a></h3>
+         <div>
+             <div align="center"><img src="/images/twitter.jpg" width="158" height="39" border="0" usemap="#Map">
+			<map name="Map" id="Map"><area shape="rect" coords="97,10,113,25" href="http://www.twitter.com/AEGONReligare" target="_blank" alt="">
+			<area shape="rect" coords="120,9,137,26" href="http://www.facebook.com/home.php?#/group.php?gid=135415816654&amp;ref=ts" target="_blank" alt="">
+			</map></div>
+		</div>
+    </div>
+
+</div></div><br>
 <div class="spacer10"><br></div>
 <div class="news">
     <div class="nhead"><h3>News</h3></div>
@@ -191,13 +238,19 @@
 								var tickercontent=new Array()
 								var i=0;
 												
-																			 tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_release_detail.php?id=54'>AEGON Religare: Child support plan</a>");
+																			 tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_release_detail.php?id=66'>AEGON Religare Life Insurance (ARLI) Infuses Additional Capital of Rs 85 crore </a>");
+											 i++;
+																				 tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_release_detail.php?id=54'>AEGON Religare: Child support plan</a>");
 											 i++;
 																				 tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_release_detail.php?id=55'>AEGON Religare offers ULIP with 4 investment options</a>");
 											 i++;
 																				 tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_release_detail.php?id=58'>AEGON Religare Life Insurance Offers the Cheapest Term Plan in India Exclusively Online</a>");
 											 i++;
 																				 tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_release_detail.php?id=64'>2009 Finalists Announced in Global Awards for Excellence in BPM & Workflow</a>");
+											 i++;
+																				 tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_release_detail.php?id=67'>AEGON Religare Life Insurance (ARLI) ties-up with Asia�s Largest Cooperative Bank</a>");
+											 i++;
+																				 tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_release_detail.php?id=68'>AEGON Religare Life Insurance Appoints Dr Adarsh Kishore as Independent Director</a>");
 											 i++;
 											
 											   tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_coverage_detail.php?id=45'>Invest Maximiser - probably the lowest cost ULIP in market today</a>");											
@@ -225,6 +278,12 @@
 											   i++;
 											
 											   tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_coverage_detail.php?id=55'>Indian markets can't rally amid global correction</a>");											
+											   i++;
+											
+											   tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_coverage_detail.php?id=64'>We expect to collect premium of Rs 210 cr</a>");											
+											   i++;
+											
+											   tickercontent[i+1]=("<a class='newstxt' target='_blank' href='media_coverage_detail.php?id=67'>Increasing existing cover is cheaper</a>");											
 											   i++;
 									 
 
@@ -287,7 +346,7 @@
 							//new domticker(name_of_message_array, CSS_ID, CSS_classname, pause_in_miliseconds, optionalfadeswitch)
 
 								new domticker(tickercontent, "domticker", "someclass", 3000, "fadeit")
-								</script><div id="domticker" class="someclass"><div style="width: 100%; filter:progid:DXImageTransform.Microsoft.alpha(opacity=100); -moz-opacity: 1"><a class="newstxt" target="_blank" href="media_coverage_detail.php?id=55">Indian markets can't rally amid global correction</a></div></div> 				
+								</script><div id="domticker" class="someclass"><div style="width: 100%; filter:progid:DXImageTransform.Microsoft.alpha(opacity=100); -moz-opacity: 1"><a class="newstxt" target="_blank" href="media_coverage_detail.php?id=67">Increasing existing cover is cheaper</a></div></div> 				
 </div>
 </div>
 </div>
