@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the factmonster.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826071034id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factmonster.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624101536id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
 | 
 
-Privacy Statement: (Revised May, 2009) 
+Privacy Statement: (Revised January, 2010) 
 
-Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20090826071034id_/http%3A//fen.com/resources/agreeDisclaim.html) (of which this privacy statement is a part) posted on this site. 
+Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20100624101536id_/http%3A//fen.com/resources/agreeDisclaim.html) (of which this privacy statement is a part) posted on this site. 
 
 We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our site. Please refer to this privacy statement regularly. Family Education Network reserves the right to revise this privacy statement at any time and such revisions shall be effective immediately upon notice thereof. Notice may be given by any means including, but not limited to, posting the revised privacy statement on this site. Any use of our site by you subsequent to such notice shall be deemed to constitute acceptance by you of such revision. 
 
@@ -22,7 +22,7 @@ What Are IP Addresses?
 A Notice About Our Advertisers   
 A Notice About External Links   
 Public Forums   
-Security and Credit Card Use   
+Security, Purchases and Credit Card Use   
 Contacting Family Education Network
 
 Family Education Network is part of Pearson. 
@@ -107,8 +107,10 @@ We specifically recommend that children check with their parents or teachers bef
 Public Forums:   
 Family Education Network makes chat rooms, forums, message boards, web pages, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information. Consequently, you should exercise caution when deciding to disclose your personal information. 
 
-Security and Credit Card Use:   
+Security, Purchases and Credit Card Use:   
 Family Education Network has security measures in place to protect the loss, misuse, and alteration of the information under our control. Essentially, we encrypt all transmission of sensitive data and secure all of our repositories of data. When you use your credit card to shop at Family Education Network, your transaction is secure. Our servers use Secure Sockets Layer (SSL), an advanced encryption technology that works with Netscape Navigator (versions 2.0 and above), Microsoft Internet Explorer (version 3.0 and above), and AOL (AOL 3.0 and above). This technology safeguards your personal information and privacy. However, you should understand that "perfect security" is never guaranteed. 
+
+Certain Family Education Network sites allow users to make purchases by mobile devices. Any such purchases by mobile device are also subject to the terms of service and privacy policy of the purchasers mobile carrier and our third party mobile payment processing service, Zong, and their [terms of use](http://zong.com/zong/terms.gsp) and [privacy policy](http://zong.com/zong/policy.gsp).
 
 Contacting Family Education Network:   
 If you have any questions about this privacy statement, the practices of Family Education Network, or your dealings with Family Education Network, please: 
