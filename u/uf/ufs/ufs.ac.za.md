@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223101237id_/http%3A//www.ufs.ac.za/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624080049id_/http%3A//www.ufs.ac.za/legal/privacy.php) for the most accurate reproduction.*
 
-# A university of excellence, equity and innovation
+# University of the Free State / Universiteit van die Vrystaat / Yunivesithi Ya Freistata
 
 [](https://web.archive.org/index.php) | [](https://web.archive.org/index.php) |  |   
 ---  
