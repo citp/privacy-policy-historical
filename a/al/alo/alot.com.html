@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the alot.com privacy policy that was archived on 2009-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091105045035id_/http%3A//www.alot.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alot.com privacy policy that was archived on 2010-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624021429id_/http%3A//www.alot.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><title>Privacy Policy - ALOT.com</title><link rel="shortcut icon" href="http://files.alot.com/favicon.ico" type="image/x-icon"><link href="/files/4965/bundle:css:lib=xbrowser:list:style:header:footer:featured:narrowpage:sifr:account:related:search" rel="stylesheet" type="text/css"><script type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><title>Privacy Policy - ALOT</title><link rel="shortcut icon" href="http://files.alotimg.com/favicon.ico" type="image/x-icon"><link href="/files/6821/bundle:css:lib=xbrowser:content:footer:header:main:navigation:support:singleColumn:supportSection" rel="stylesheet" type="text/css"><script type="text/javascript">
 var sitepass={
 	'passed':false,
 	'platform':null,
@@ -16,7 +16,7 @@ var sitepass={
 ////////////////////////////////////////////////////////////////////////////////
 
 function sitepassIe(str) {
-	var detail=str.match(/TB;([0-9]+);([.0-9]+)(;([-:0-9]+))?(;([-0-9]+))?/);
+	var detail=str.match(/TB;([0-9]+);([.0-9]+)(;([-:TZ0-9]+))?(;([-0-9]+))?(;([0-9A-F]+))?/);
 	if (!detail || !detail[1]) return;
 	if (detail[1]<10000) return;
 
@@ -25,15 +25,40 @@ function sitepassIe(str) {
 
 	sitepass.src_id=detail[1];
 	sitepass.version=detail[2];
+
 	if (detail[4]) {
 		var its=detail[4];
-		sitepass.install_time=new Date(
-			its.substr(6, 4), (its.substr(3, 2)-1), its.substr(0, 2),
-			its.substr(11, 2), its.substr(14, 2), 0, 0
-		);
+		var iso8601=its.match(/(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})Z/);
+
+		if (iso8601 && 7==iso8601.length) {
+			// As of Version 2.5.8000, the toolbar uses ISO8601:
+			// YYYY-MM-DDThh:mm:ssZ
+			sitepass.install_time=new Date();
+			sitepass.install_time.setUTCFullYear(
+				iso8601[1], // Year (eg. 1999)
+				iso8601[2]-1, // Month (0-11)
+				iso8601[3] // Day (1-31)
+			);
+			sitepass.install_time.setUTCHours(
+				iso8601[4], // Hour (0-23)
+				iso8601[5], // Minute (0-59)
+				iso8601[6] // Second (0-59)
+			);
+		} else {
+			// Previously the toolbar used "DD-MM-YYYY:hh:mm"
+			sitepass.install_time=new Date(
+				its.substr(6, 4), (its.substr(3, 2)-1), its.substr(0, 2),
+				its.substr(11, 2), its.substr(14, 2), 0, 0
+			);
+		}
 	}
+
 	if(detail[6]) {
 		sitepass.camp_id=detail[6];
+	}
+
+	if(detail[8]) {
+		sitepass.client_id=detail[8];
 	}
 }
 
@@ -73,11 +98,7 @@ if ('undefined'!=typeof Alot) {
 ////////////////////////////////////////////////////////////////////////////////
 
 </script>
-<script type="text/javascript" src="http://files.alot.com/widgets/mootools.js"></script>
-			<script type="text/javascript">document.domain='alot.com'</script><script type="text/javascript" src="/files/4965/bundle:js:dispatch:toolbar:home:desktop:locale:search:sifr"></script><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body id="alot"><div id="header"><div id="accountLink"><a href="http://account.alot.com/?rd=http%3A%2F%2Fwww.alot.com%2Fprivacy&amp;name=ALOT.com">Sign In</a> | <a href="http://account.alot.com/create?rd=http%3A%2F%2Fwww.alot.com%2Fprivacy&amp;name=ALOT.com">Create an Account</a> | <form id="locale" method="post" action="http://search.alot.com/preferences"><input type="hidden" name="action" value="save"><input type="hidden" name="origin" value="http://www.alot.com/privacy"><select name="lang"><option value="en" selected="">English</option><option value="en-GB">English (United Kingdom)</option><option value="es">Español</option><option value="zh-CN">简体</option></select> <img src="/files/img/flags/en.png" alt="en"></form></div><div id="top-logo"><a class="logo" href="http://www.alot.com/"><img alt="ALOT.com" src="/files/img/alot-logo.png"></a></div></div><div class="navBar primaryNav"><div class="inner"><ul><li id="nav_products" class=" first pulldownHolder"><a href="http://www.alot.com/products">Products</a><div class="arrow"></div><ul><li id="nav_toolbar" class=" first"><a href="http://www.alot.com/toolbar/">ALOT Toolbar</a></li><li id="nav_home" class=""><a href="http://www.alot.com/home/">ALOT Home</a></li><li id="nav_desktop" class=""><a href="http://www.alot.com/desktop/">ALOT Desktop</a></li></ul></li><li id="nav_categories" class=""><a href="http://www.alot.com/categories/">Categories</a></li><li id="nav_support" class=""><a href="http://www.alot.com/support">Support</a></li></ul></div></div><div id="main"><noscript><div id='noScriptBanner'>Unfortunately it looks like your browser's JavaScript is turned off. Please enable JavaScript, and then <a href="/">refresh this page</a> in order for the site to be fully functional.</div></noscript><p><a href="#site">ALOT Sites Privacy Policy</a></p><p><a href="#toolbar">ALOT Toolbar Privacy Policy</a></p><p><a href="#desktop">ALOT Desktop Privacy Policy</a></p><a name="site"></a><div><h1>alot.com Privacy Policy</h1>
-
-<div class="aligned">
-<h3>Welcome to alot.com!</h3>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="ALOT is a software company dedicated to making the Internet easy by giving users the tools they need to get what they want quickly"><meta name="keywords" content="alot, making the internet easy"><link rel="canonical" href="http://www.alot.com/privacy-policy"></head><body class="mars"><div id="container"><div class="header"><h1><a href="http://www.alot.com/"><img src="http://files.alotimg.com/mars/img/logo.gif" alt="ALOT" width="125" height="70"></a><span>Making the Internet Easy</span></h1><div class="shields"><ul><li class="cnet"><a target="_blank" href="http://download.cnet.com/ALOT-Customizable-News-Toolbar/3000-12512_4-10897159.html">cnet</a></li><li class="truste"><a target="_blank" href="http://www.truste.com/privacy_seals_and_services/enterprise_privacy/trusted_download_whitelist.html">TRUSTe</a></li><li class="mcafee"><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=alot.com"><img width="65" height="37" src="//images.scanalert.com/meter/www.alot.com/31.gif" alt="McAfee Secure shield"></a></li></ul></div><div class="clear">&nbsp;</div></div><div class="navigation"><div class="blueBar"><ul class="primary"><li class="first"><a href="http://www.alot.com/toolbar/">Toolbar</a></li><li><a href="http://www.alot.com/home/">Home</a></li><li><a href="http://www.alot.com/desktop/">Desktop</a></li><li><a href="http://www.alot.com/about-us">About Us</a></li><li><a href="http://www.alot.com/blog/">Blog</a></li></ul><form class="locale" method="get" action="http://www.alot.com/api/setLocale"><div class="en"><input type="hidden" name="redirect" value="http://www.alot.com/privacy-policy"><input type="hidden" name="csrf" value="R4lE4oNc1fuzapQo"><select name="il"><option value="de">Deutsch</option><option value="en" selected="">English</option><option value="en-AU">English (Australia)</option><option value="en-CA">English (Canada)</option><option value="en-IN">English (India)</option><option value="en-NZ">English (New Zealand)</option><option value="en-GB">English (United Kingdom)</option><option value="es">Español</option><option value="es-US">Español (US)</option><option value="fr">Français</option><option value="fr-CA">Français (Canada)</option><option value="pt-BR">Português</option></select></div></form></div><div class="clear">&nbsp;</div></div><div class="singleColumn"><div class="content"><p><a href="#site">ALOT Sites Privacy Policy</a></p><p><a href="#toolbar">ALOT Toolbar Privacy Policy</a></p><p><a href="#desktop">ALOT Desktop Privacy Policy</a></p><hr><h2 id="site">ALOT Sites Privacy Policy</h2><h3>Welcome to alot.com!</h3>
 
 <p>Here at alot.com we deliver highly relevant search results to our users while maintaining the most professional service standards. This means we are dedicated to treating you with care and respect.</p>
 
@@ -94,7 +115,7 @@ if ('undefined'!=typeof Alot) {
 <p><i>Cookies:</i> We do use "cookies." The cookies we place on your computer are very small text files. They are stored on your hard drive and communicate with our servers only when you are visiting our websites. They allow us to monitor aggregate metrics such as total number of visitors and number of pages viewed. We may also use cookies to administer promotion, sweepstakes, or other contests sponsored by alot.com or an affiliate of alot.com. Your web browser is likely already set to accept cookies, yet you may choose to block cookies in your web browser’s settings. Note that blocking cookies may result in some features not being able to function properly.</p>
 <p>We allow third parties that display advertisements, search listings, and other content on portions of our Site to set and access their cookies on your computer and any cookies are subject to the third parties privacy policies and not ours.</p>
 
-<p><i>Search Revenue</i>: We do collect statistical search data. This data does not contain any personally identifying information and is passed through to our search partner for billing purposes.</p>
+<p><i>Search Revenue</i>: We do collect statistical search data. This data does not contain any personally identifying information and is passed through to our search partner for billing purposes. We use a unique ID in order to know how many people use our products and to allow us and third parties to better target advertisements. This ID is not personally identifying; it is a completely random number.&nbsp; We may use and/or share our unique non personally identifying ID with third parties. </p>
 
 <p><i>Children’s Privacy Protection</i>: The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. ALOT does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides personal information through registration or any other means to ALOT represents to us that he or she is 13 years of age or older. If ALOT learns that Personal Information has been collected from a user under 13 years of age on or through ALOT products, then ALOT will take the appropriate steps to cause this information to be deleted.</p>
 
@@ -128,18 +149,15 @@ if ('undefined'!=typeof Alot) {
 
 <p>If you have any questions or concerns about this alot.com Privacy Policy or its implementations please contact us at the following address:</p>
 
-<p>alot.com<br>
-Attention: Privacy Issues<br>
-143 Varick Street<br>
-New York, NY 10013<br>
-<a href="mailto:customerservice@alot.com">customerservice@alot.com</a></p>
+<p>
+	alot.com<br>
+	Attention: Privacy Issues<br>
+	143 Varick Street<br>
+	New York, NY 10013<br>
+	<a href="mailto:customerservice@alot.com">customerservice@alot.com</a>
+</p>
 
-<p><b>Last Updated:</b> April 10, 2009</p>
-
-</div></div><a name="toolbar"></a><div><div class="aligned">
-<h1>ALOT Toolbar Privacy Policy</h1>
-
-<p>At alot.com, we work hard to deliver valuable web tools at no cost to you while driving revenue for creating and improving alot.com products in the future. Your happiness and satisfaction are very important to us and we hope to include you as one of our millions of satisfied users.</p>
+<p><strong>Last Updated:</strong> March 1, 2010</p><h2 id="toolbar">ALOT Toolbar Privacy Policy</h2><p>At alot.com, we work hard to deliver valuable web tools at no cost to you while driving revenue for creating and improving alot.com products in the future. Your happiness and satisfaction are very important to us and we hope to include you as one of our millions of satisfied users.</p>
 
 <h3>POLICY OVERVIEW</h3>
 
@@ -150,13 +168,13 @@ New York, NY 10013<br>
 
 <h3>Practices</h3>
 
-<ul class="withBullets">
-  <li>Our software is installed only with your permission</li>
-  <li>We do not collect or track personal information other than (i) in those cases where you submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Site Metrics feature of our ALOT Toolbar, where personal information is contained in the unsecured http requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration). </li>
-  <li>We allow you to disable certain search features if you feel they are not valuable to you. We allow you to disable the Site Metrics feature of the ALOT Toolbar.</li>
-  <li>We make it easy for you to uninstall our software through the standard Add/Remove interface. If you no longer wish to use our software, simply uninstall it.</li>
-  <li>We brand each of our products and provide you with links to our customer service department.</li>
-  <li>We are proud of our software and our business and are happy to be up front with our users as to what we do.</li>
+<ul>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>Our software is installed only with your permission</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We do not collect or track personal information other than (i) in those cases where you submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com, and (ii) in the event that you opt-in to use the Site Metrics feature of our ALOT Toolbar, where personal information is contained in the unsecured http requests of websites that you visit (for example, personal information in data submitted by you in a search query or in data included in a URL by the operator of a website, such as a username or other information relating to website registration). </li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We allow you to disable certain search features if you feel they are not valuable to you. We allow you to disable the Site Metrics feature of the ALOT Toolbar.</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We make it easy for you to uninstall our software through the standard Add/Remove interface. If you no longer wish to use our software, simply uninstall it.</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We brand each of our products and provide you with links to our customer service department.</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We are proud of our software and our business and are happy to be up front with our users as to what we do.</li>
 </ul>
 
 <h3>Data Collection</h3>
@@ -164,14 +182,14 @@ New York, NY 10013<br>
 <p>When this Privacy Policy uses the term "personal information" we mean information that might help identify a particular individual, such as the individual's name, postal address, e-mail address, and telephone number.</p>
 <p>We do not collect personal information other than personal information that is submitted by a user to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com. In addition, we need to collect some non-personal data to power our products and monitor our performance. Here is exactly what we do:</p>
 
-<ul class="withBullets">
-  <li>We may use personal information that you submit to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an alot.com affiliate to administer the promotion, sweepstakes, or contest. In addition, we may use a third party service provider to administer promotions, sweepstakes, or contests, and we may share your personal information with such third party service provider.</li>
-  <li>We collect information that is already available to every website you visit. Examples include Internet Protocol (IP) address, browser version, language and other browser and connection information.</li>
-  <li>We use a unique ID in order to know how many people use our products. This ID is not personally identifying; it is a completely random number.</li>
-  <li>We track clicks on our toolbars and on our sites in order to optimize the toolbar and our offerings.</li>
-  <li>We collect search data that is not correlated to particular users at our search site and via the ALOT Toolbar which is used to monitor and optimize our business performance. We may also share aggregated information with others.</li>
-  <li>If you opt-in to use the Site Metrics feature of the ALOT Toolbar, we may use and/or share data collected by the Site Metrics feature with third parties. You consent to the use, processing, and/or sharing of this data by us and by such third parties.  If you opt-in to the Site Metrics feature, you may thereafter opt-out of such feature at any time by navigating to the ALOT Toolbar preferences dialogue and deselecting the Site Metrics option. We use reasonable measures to scrub and filter out any personal information collected via the Site Metrics feature. Personal information submitted for promotions, sweepstakes, or other contests is never linked to anonymous data collected via the Site Metrics feature.</li>
-  <li>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.</li>
+<ul>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We may use personal information that you submit to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an alot.com affiliate to administer the promotion, sweepstakes, or contest. In addition, we may use a third party service provider to administer promotions, sweepstakes, or contests, and we may share your personal information with such third party service provider.</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We collect information that is already available to every website you visit. Examples include Internet Protocol (IP) address, browser version, language and other browser and connection information.</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We use a unique ID in order to know how many people use our products and to allow us and third parties to better target advertisements. This ID is not personally identifying; it is a completely random number.&nbsp; We may use and/or share our unique non personally identifying ID with third parties.</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We track clicks on our toolbars and on our sites in order to optimize the toolbar and our offerings.</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We collect search data that is not correlated to particular users at our search site and via the ALOT Toolbar which is used to monitor and optimize our business performance. We may also share aggregated information with others.</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>If you opt-in to use the Site Metrics feature of the ALOT Toolbar, we may use and/or share data collected by the Site Metrics feature with third parties. You consent to the use, processing, and/or sharing of this data by us and by such third parties.&nbsp; If you opt-in to the Site Metrics feature, you may thereafter opt-out of such feature at any time by navigating to the ALOT Toolbar preferences dialogue and deselecting the Site Metrics option. We use reasonable measures to scrub and filter out any personal information collected via the Site Metrics feature. Personal information submitted for promotions, sweepstakes, or other contests is never linked to anonymous data collected via the Site Metrics feature.</li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.</li>
 </ul>
 
 <p>Note that you may choose to provide your zip code or other location information to enable us to present the local weather forecast for your area when using our weather products. You may be required to provide your name and email address when submitting comments or support issues via the support pages of the alot.com site.</p>
@@ -204,41 +222,40 @@ New York, NY 10013<br>
 
 <p>If you have any questions or concerns about this Privacy Policy or its implementations please contact us at the following address:</p>
 
-<p>alot.com<br>
-Attention: Privacy Issues<br>
-143 Varick Street<br>
-New York, NY 10013<br>
-<a href="mailto:customerservice@alot.com">customerservice@alot.com</a></p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; alot.com<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attention: Privacy Issues<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 143 Varick Street<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New York, NY 10013<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:customerservice@alot.com">customerservice@alot.com</a>
+</p>
 
-<p><b>Last Updated:</b> April 10, 2009</p>
-
-</div></div><a name="desktop"></a><div><h1>ALOT Desktop Privacy Policy</h1>
-<p>At alot.com, we work hard to deliver valuable web tools at no cost to you while driving revenue for creating and improving alot.com products in the future. Your happiness and satisfaction are very important to us and we hope to include you as one of our millions of satisfied users.</p>
+<p><b>Last Updated:</b> March 1, 2010</p><h2 id="desktop">ALOT Desktop Privacy Policy</h2><p>At alot.com, we work hard to deliver valuable web tools at no cost to you while driving revenue for creating and improving alot.com products in the future. Your happiness and satisfaction are very important to us and we hope to include you as one of our millions of satisfied users.</p>
 
 <h3>POLICY OVERVIEW</h3>
 <p>We want you to feel comfortable downloading and using our products. We understand that your trust depends on us respecting your privacy and safeguarding any information we may be able to access.</p>
 <p>We encourage anyone using our ALOT Desktop software application (the "ALOT Desktop") to make educated decisions about their online practices. To help you do so, this ALOT Desktop Privacy Policy ("Privacy Policy") details important information that will help answer questions regarding personal privacy in relation to the ALOT Desktop. Also, this Privacy Policy is incorporated with and subject to the <a href="/terms#desktop">ALOT Desktop Terms of Use</a>.</p>
 
 <h3>Practices</h3>
-<ul class="withBullets">
-<li>Our software is installed only with your permission</li>
-<li>We do not collect or track personal information other than in those cases where you submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com.</li>
-<li>We allow you to disable certain features if you feel they are not valuable to you.</li>
-<li>We make it easy for you to uninstall our software through the standard Add/Remove interface. If you no longer wish to use our software, simply uninstall it.</li>
-<li>We brand each of our products and provide you with links to our customer service department.</li>
-<li>We are proud of our software and our business and are happy to be up front with our users as to what we do.</li>
+<ul>
+	<li>Our software is installed only with your permission</li>
+	<li>We do not collect or track personal information other than in those cases where you submit such to participate in a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com.</li>
+	<li>We allow you to disable certain features if you feel they are not valuable to you.</li>
+	<li>We make it easy for you to uninstall our software through the standard Add/Remove interface. If you no longer wish to use our software, simply uninstall it.</li>
+	<li>We brand each of our products and provide you with links to our customer service department.</li>
+	<li>We are proud of our software and our business and are happy to be up front with our users as to what we do.</li>
 </ul>
 
 <h3>Data Collection</h3>
 <p>When this Privacy Policy uses the term "personal information" we mean information that might help identify a particular individual, such as the individual's name, postal address, e-mail address, and telephone number.</p>
 <p>We do not collect personal information other than personal information that is submitted by a user to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an affiliate of alot.com. In addition, we need to collect some non-personal data to power our products and monitor our performance. Here is exactly what we do:</p>
-<ul class="withBullets">
-<li>We may use personal information that you submit to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an alot.com affiliate to administer the promotion, sweepstakes, or contest. In addition, we may use a third party service provider to administer promotions, sweepstakes, or contests, and we may share your personal information with such third party service provider.</li>
-<li>We collect information that is already available to every website you visit. Examples include Internet Protocol (IP) address, browser version, language and other browser and connection information.</li>
-<li>We use a unique ID in order to know how many people use our products. This ID is not personally identifying; it is a completely random number.</li>
-<li>We track clicks on our toolbars, on our sites, and our other software applications in order to optimize the toolbar and our offerings.</li>
-<li>We collect data that is not correlated to particular users via our toolbars, sites and the ALOT Desktop which is used to monitor and optimize our business performance. We may also share aggregated information with others.</li>
-<li>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.</li>
+<ul>
+	<li>We may use personal information that you submit to enter into a promotion, sweepstakes, or other contest sponsored by alot.com or an alot.com affiliate to administer the promotion, sweepstakes, or contest. In addition, we may use a third party service provider to administer promotions, sweepstakes, or contests, and we may share your personal information with such third party service provider.</li>
+	<li>We collect information that is already available to every website you visit. Examples include Internet Protocol (IP) address, browser version, language and other browser and connection information.</li>
+	<li>We use a unique ID in order to know how many people use our products and to allow us and third parties to better target advertisements. This ID is not personally identifying; it is a completely random number.&nbsp; We may use and/or share our unique non personally identifying ID with third parties.</li>
+	<li>We track clicks on our toolbars, on our sites, and our other software applications in order to optimize the toolbar and our offerings.</li>
+	<li>We collect data that is not correlated to particular users via our toolbars, sites and the ALOT Desktop which is used to monitor and optimize our business performance. We may also share aggregated information with others.</li>
+	<li>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.</li>
 </ul>
 <p>Note that you may choose to provide your zip code or other location information to enable us to present the local weather forecast for your area when using our weather products. You may be required to provide your name and email address when submitting comments or support issues via the support pages of the alot.com site.</p>
 <p>The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. ALOT does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides personal information through registration or any other means to ALOT represents to us that he or she is 13 years of age or older. If ALOT learns that Personal Information has been collected from a user under 13 years of age on or through ALOT products, then ALOT will take the appropriate steps to cause this information to be deleted.</p>
@@ -264,38 +281,21 @@ New York, NY 10013<br>
 <p>If you have any questions or concerns about this Privacy Policy or its implementations please contact us at the following address:</p>
 
 <p>
-alot.com<br>
-Attention: Privacy Issues<br>
-143 Varick Street<br>
-New York, NY 10013<br>
-<a href="/support">customerservice@alot.com</a><br>
+	alot.com<br>
+	Attention: Privacy Issues<br>
+	143 Varick Street<br>
+	New York, NY 10013<br>
+	<a href="/support">customerservice@alot.com</a><br>
 </p>
 
-<p>Last Updated: October 17, 2008</p>
-</div><div id="footer"><div class="links"><a href="http://www.alot.com/about/">About ALOT</a> | <a href="http://www.alot.com/support">Support</a> | <a href="http://www.alot.com/partners">Partners</a> | <a href="http://www.alot.com/privacy">Privacy Policy</a> | <a href="http://www.alot.com/terms">Terms of Use</a> | <a href="http://www.alot.com/sitemap">Site Map</a></div><div>© 2009 alot.com</div></div><!-- SiteCatalyst code version: H.17. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript"><!--
-var s_account="mivaalotcom";
-//--></script>
-<script language="JavaScript" type="text/javascript" src="http://www.alot.com/files/js/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-s.linkInternalFilters="javascript:,www.alot.com";
-s.pageName="privacy page";
-s.pageType="";
-s.channel="support pages";
-s.prop1="privacy";
-s.prop2="privacy";
-s.prop3="privacy";
-s.prop7="Logged Out";
-s.hier2="privacy";
-s.prop5="";
-s.prop6="";
-s.prop26="";
-s.prop27="0";
-s.prop34="";
-s.prop35="";
-s.events="";
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.17. --><script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">try {var pageTracker=_gat._getTracker("UA-4224885-6");pageTracker._setDomainName("alot.com");pageTracker._setCampNameKey("camp_id");pageTracker._trackPageview();} catch(e) {}</script></div></body></html>
+<p><b>Last Updated:</b> March 1, 2010</p>
+</div></div><div class="footer"><div class="links"><a href="http://www.alot.com/contact">Contact</a>&nbsp;|&nbsp;<a href="http://www.alot.com/faq">FAQ</a>&nbsp;|&nbsp;<a href="http://www.alot.com/advertise">Advertise</a>&nbsp;|&nbsp;<a href="http://www.alot.com/terms-of-use">Terms of Use</a>&nbsp;|&nbsp;<a href="http://www.alot.com/privacy-policy/">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://www.alot.com/sitemap">Site Map</a></div><div class="copyright vcard">© 2010 <span class="hidden fn org">ALOT</span>alot.com</div></div></div><script type="text/javascript" src="http://media.alotimg.com/lib/js/mootools-1.2.4-core-yc.js"></script><script type="text/javascript" src="/files/6821/bundle:js:Mars:setLocale"></script><script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">try {var pageTracker=_gat._getTracker("UA-4224885-6");pageTracker._setDomainName(".alot.com");pageTracker._setCampNameKey("camp_id");pageTracker._trackPageview();} catch(e) {}</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={ qacct:"p-50NucXFvWxcrI" };
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-50NucXFvWxcrI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag --></body></html>
