@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the counseling.org privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222232254id_/http%3A//www.counseling.org/PressRoom/PressReleases.aspx%3FAGuid%3Db96defea-f794-4e51-820d-2a1717b18808) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counseling.org privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625000649id_/http%3A//www.counseling.org/PressRoom/PressReleases.aspx%3FAGuid%3Db96defea-f794-4e51-820d-2a1717b18808) for the most accurate reproduction.*
 
 # Press Releases
-
-## ACA Privacy Policy
-
-(Press) 01.01.06
 
 ACA developed this privacy statement to demonstrate our firm commitment to your privacy. The following discloses our current information-gathering and dissemination practices for this site.   We reserve the right to change, modify, add, or remove provisions of this Privacy Policy, and any changes will be posted here.  Please refer back to this Privacy Policy regularly because your use of this website signifies that you agree to be bound by this Policy, as might be amended from time to time.
 
