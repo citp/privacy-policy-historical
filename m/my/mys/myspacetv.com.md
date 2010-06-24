@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myspacetv.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224012218id_/http%3A//www.myspace.com/index.cfm%3Ffuseaction%3Dmisc.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspacetv.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624235221id_/http%3A//www.myspace.com/index.cfm%3Ffuseaction%3Dmisc.privacy) for the most accurate reproduction.*
 
 # Privacy - MySpace.com
 
@@ -74,10 +74,7 @@ Whenever possible, MySpace Members may review the Registration PII we maintain 
 
 If you ask MySpace to stop using your PII, MySpace will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.
 
-If you would like to communicate with us about this Privacy Policy or MySpace’s collection and use of your PII please contact MySpace at:
-
-Email:   
-[privacy@myspace.com](mailto:privacy@myspace.com)
+If you would like to communicate with us about this Privacy Policy or MySpace’s collection and use of your PII, please use the Contact MySpace form on our [Help site](http://faq.myspace.com/).
 
 Mail:   
 8391 Beverly Blvd.  
