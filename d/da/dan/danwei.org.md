@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danwei.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620001315id_/http%3A//danwei.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danwei.org privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624030158id_/http%3A//danwei.org/privacy) for the most accurate reproduction.*
 
 # Danwei | Privacy Statement
 
