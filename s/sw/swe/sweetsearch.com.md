@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the sweetsearch.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415231100id_/http%3A//www.sweetsearch.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetsearch.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624095921id_/http%3A//www.sweetsearch.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|   |   |    
+|   |  |    
 ---|---|---  
-  |  |    
 | 
 
 ### www.SweetSearch.com
@@ -55,4 +54,6 @@ If we change our privacy policy, we will post those changes to this privacy stat
 
 We reserve the right to modify this privacy statement at any time. 
 
-| 
+|   
+   
+ 
