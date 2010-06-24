@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anyvan.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210203217id_/http%3A//www.anyvan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyvan.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624133714id_/http%3A//www.anyvan.com/privacy-policy) for the most accurate reproduction.*
 
-# ANYVAN | Privacy Policy
+# 
 
 ### Overview
 
@@ -16,11 +16,11 @@ If you choose to use our Site, we may require you to provide contact and identit
 
 We may track certain information based upon your behaviour on the Site. We use this information to do internal research on our users' demographics, interest, and behaviour to better understand, protect and serve you and the marketplace. This information may include information such as the URL that you came from, which URL you go to next, your computer browser information, and your IP address.
 
-If you choose to list shipments, or bid on shipments on the Site, we collect information about your activity and behaviour. We also collect other users' comments about you in our feedback area.
+If you choose to list deliveries, or bid on deliveries on the Site, we collect information about your activity and behaviour. We also collect other users' comments about you in our feedback area.
 
 If you send us personal correspondence, such as emails or letters, phone calls or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
 
-If you email a shipment listing to a friends, we will ask you for your friend's name and email address. These details will not be stored and will only be used to send the one-time email.
+If you email a delivery listing to a friends, we will ask you for your friend's name and email address. These details will not be stored and will only be used to send the one-time email.
 
 ### Uses of Your Information
 
