@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021041537id_/http%3A//www.ashford.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624022651id_/http%3A//ashford.edu/privacy) for the most accurate reproduction.*
 
 # Ashford University – Privacy Policy
 
 ### Ashford University Privacy Policy
 
-At Ashford University, we take your personal privacy seriously. This document describes the categories of information we gather via the web site and for what purpose, outlines how that information may be shared with others, and identifies the categories of persons with whom it may be shared. By registering with Ashford University or by using the Ashford University Site, you accept and agree to this Privacy Policy and the [Ashford University Terms and Conditions of Usage](https://web.archive.org/web/20091021041537id_/http://www.ashford.edu/privacy/terms.php).
+At Ashford University, we take your personal privacy seriously. This document describes the categories of information we gather via the web site and for what purpose, outlines how that information may be shared with others, and identifies the categories of persons with whom it may be shared. By registering with Ashford University or by using the Ashford University Site, you accept and agree to this Privacy Policy and the [Ashford University Terms and Conditions of Usage](https://web.archive.org/web/20100624022651id_/http://www.ashford.edu/privacy/terms.php).
 
 This Privacy Policy applies to the Internet web site of Ashford University at www.ashford.edu. This Privacy Policy also applies to other affiliated web sites that are owned by Ashford University and made available to students in the matriculation process and after they have enrolled with Ashford University. All such sites will be collectively referred to in this Privacy Policy as the "Ashford University Site" or "Site". 
 
-This Privacy Policy does not apply to information collected at any site that is not owned by Ashford University, including any web site reached through a link on any Ashford University Site. By way of example only, a link on Ashford University Site takes a viewer to an online bookstore that is owned and operated by EdMap, not Ashford University. The name and logo of Ashford University may appear on that online bookstore web site in order to notify students that the bookstore sells certain materials specified for Ashford University's curriculum. Ashford University does not have access to information collected through that online bookstore. This Privacy Policy does not apply to information collected through that online bookstore. The privacy policy for the EdMap online bookstore can be accessed by clicking [here](https://www.shop-edmap.biz/ash/OnlineHelpPages/help_privacypolicy.asp?find%5Fcategory=&find%5Fdescription=&find%5Fpart%5Fdesc=).
+This Privacy Policy does not apply to information collected at any site that is not owned by Ashford University, including any web site reached through a link on any Ashford University Site. By way of example only, a link on Ashford University Site takes a viewer to an online bookstore that is owned and operated by EdMap, not Ashford University. The name and logo of Ashford University may appear on that online bookstore web site in order to notify students that the bookstore sells certain materials specified for Ashford University's curriculum. Ashford University does not have access to information collected through that online bookstore. This Privacy Policy does not apply to information collected through that online bookstore. The privacy policy for the EdMap online bookstore can be accessed by clicking [here](http://www.edmapbookstore.com/storefront/showHelpTopic/ASHSP/7).
 
 ### Effective date
 
@@ -72,7 +72,7 @@ We reserve the right to add to, change, update or modify this Privacy Policy. An
 
 ### Conditions of use
 
-This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California, United States of America. By using our Site, you consent to the collection and use of information described above. Your visit and any dispute over privacy are subject to this Privacy Policy and our [Terms and Conditions of Usage](https://web.archive.org/web/20091021041537id_/http://www.ashford.edu/privacy/terms.php). If you have any concern about privacy related to the Ashford University Site, [please e-mail us](mailto:info@ashford.edu) a thorough description together with information to permit us to contact you, and we will try to resolve your concern. 
+This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California, United States of America. By using our Site, you consent to the collection and use of information described above. Your visit and any dispute over privacy are subject to this Privacy Policy and our [Terms and Conditions of Usage](https://web.archive.org/web/20100624022651id_/http://www.ashford.edu/privacy/terms.php). If you have any concern about privacy related to the Ashford University Site, [please e-mail us](mailto:info@ashford.edu) a thorough description together with information to permit us to contact you, and we will try to resolve your concern. 
 
 ### Links to other sites
 
@@ -88,4 +88,4 @@ During the education process, you may participate in online education sessions. 
 
 ### Effective Date: March 2, 2005 
 
-[Click here to view our Terms and Conditions of usage](https://web.archive.org/web/20091021041537id_/http://www.ashford.edu/privacy/terms.php)
+[Click here to view our Terms and Conditions of usage](https://web.archive.org/web/20100624022651id_/http://www.ashford.edu/privacy/terms.php)
