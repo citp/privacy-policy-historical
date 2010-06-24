@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzdock.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221184430id_/http%3A//www.buzzdock.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzdock.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624074427id_/http%3A//www.buzzdock.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Buzzdock - Realtime Search Engine Results. Realtime Buzz. The Best Search Engine.
 
@@ -14,4 +14,4 @@ Buzzdock reserves the right to modify all or some of this Privacy Policy at any 
 
 This privacy policy is incorporated into and subject to Buzzdock’s Terms of Use. Use of Yontoo Technology, Inc.’s services is subject to your compliance with those terms and conditions, which constitute a legal agreement between you and Buzzdock. THE USE OF THIS WEB SITE AND BUZZDOCK’S APPLICATIONS CONSTITUTES THE ACCEPTANCE OF BOTH TERMS OF USE AND PRIVACY POLICY AGREEMENTS. If you do not agree with the terms and conditions of either document, please discontinue using any of Buzzdock’s services.
 
-If you have any questions about this Privacy Policy you can send an e-mail, in English please, to [support@buzzdock.com](https://web.archive.org/web/20091221184430id_/http%3A//www.buzzdock.com/Support.aspx). 
+If you have any questions about this Privacy Policy you can send an e-mail, in English please, to [support@buzzdock.com](https://web.archive.org/web/20100624074427id_/http%3A//www.buzzdock.com/Support.aspx). 
