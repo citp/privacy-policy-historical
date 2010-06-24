@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141512id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624020036id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,12 +28,10 @@ AllFreeLogo.Com have appropriate security measures in place in our physical faci
 
 If you feel that this site is not following its stated information policy, you may contact us at info[at]allfreelogo.com.
 
-In accordance with the Digital Millennium Copyright Act of 1998 (the text of which may be found on the U.S. Copyright Office website at <http://lcweb.loc.gov/copyright/>, AllFreeLogo will respond expeditiously to claims of copyright infringement that are reported to AllFreeLogo. If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to AllFreeLogo by providing all the necessary information to donyneo {at} yahoo.com. 
+In accordance with the Digital Millennium Copyright Act of 1998 (the text of which may be found on the U.S. Copyright Office website at <http://lcweb.loc.gov/copyright/>, AllFreeLogo will respond expeditiously to claims of copyright infringement that are reported to AllFreeLogo. If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to AllFreeLogo by providing all the necessary information to info[at]allfreelogo.com. 
 
-### [Types in Logo Design](https://web.archive.org/article/types-in-logo-design.html "Types in Logo Design")
+### [Good Logos Make Great Sales Tools](https://web.archive.org/article/good-logos-make-great-sales-tools.html "Good Logos Make Great Sales Tools")
 
-**Harris Jhosta**
+**Chris Smith**
 
-The mainly extensively used of all logo types; the Text-Based design focuses on text and style but can include other elements as well. A Text-Based design may be best suited for corporations whose name successfully portray what they do (TCS Couriers, Home Freight) devoid of graphical essentials to communicate that message, a literal explanation of the words is often necessary. (For example, all of us know it very well that Wal-Mart is a very big mart because its <http://www.logodesignpros.co.uk/> actually explains it all.) {[Read Full Article](https://web.archive.org/article/types-in-logo-design.html "Types in Logo Design")}
-
-advertisement
+A logo is a unique visual image that represents a company or its products. It aims to create a positive and memorable impression in the minds of the people who see it. In addition, a good logo can make a sale by saying something about the company to customers when there is no sales person present. {[Read Full Article](https://web.archive.org/article/good-logos-make-great-sales-tools.html "Good Logos Make Great Sales Tools")}
