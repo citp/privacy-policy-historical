@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasscom.in privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211102745id_/http%3A//www.nasscom.in/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasscom.in privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625012610id_/http%3A//www.nasscom.in/Privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,4 +68,4 @@ NASSCOM has implemented stringent, internationally acceptable standards of techn
 NASSCOM cannot be held responsible for any activity in your account which results from your failure to keep your own password secure 
 
 **Contacting the web site**  
-For questions regarding the privacy statement, practices of the site, or any other transaction issue, please contact [webmaster@nasscom.org](mailto:webmaster@nasscom.org?subject=PrivacyPolicy)
+For questions regarding the privacy statement, practices of the site, or any other transaction issue, please contact [webmaster@nasscom.in](mailto:webmaster@nasscom.in?subject=PrivacyPolicy)
