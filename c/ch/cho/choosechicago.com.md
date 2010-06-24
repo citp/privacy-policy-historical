@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the choosechicago.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202451id_/http%3A//www.choosechicago.com/pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choosechicago.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624235124id_/http%3A//www.choosechicago.com/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Choose Chicago
 
 The Chicago Convention & Tourism Bureau is committed to protecting the privacy of users of the CCTB Web sites. The information we collect is used exclusively to facilitate services that we provide to you. We value your privacy and will take all necessary steps to protect it. 
 
