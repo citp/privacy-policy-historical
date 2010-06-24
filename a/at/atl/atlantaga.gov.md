@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the atlantaga.gov privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222204705id_/http%3A//www.atlantaga.gov/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantaga.gov privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624020832id_/http%3A//atlantaga.gov/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # City of Atlanta Online
 
 |   
 | [](https://web.archive.org/Mayor/Default.aspx)  
 ---  
-[](http://apps.atlantaga.gov/citycouncil/)  
+[](http://citycouncil.atlantaga.gov/)  
 [](https://web.archive.org/Government/Default.aspx)  
 [](https://web.archive.org/government/courts/municipalcourtofatlanta.aspx?section=CourtSystem)  
 [](https://web.archive.org/Government/Boards/brds_comm.aspx)  
