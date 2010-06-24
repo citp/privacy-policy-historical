@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agriya.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222194423id_/http%3A//www.agriya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriya.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624100558id_/http%3A//www.agriya.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
-## This is the Privacy Policy for Agriya Infoway Pvt Ltd. 
+## This is the Privacy Policy for Ahsan Technologies
 
 **Our Contact Information is:**  
 No:16/3, Krishna Street,  
