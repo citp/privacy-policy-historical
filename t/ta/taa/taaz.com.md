@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taaz.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220102952id_/http%3A//www.taaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taaz.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624210236id_/http%3A//www.taaz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: TAAZ
 
