@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucr.edu privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226072837id_/http%3A//www.ucr.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucr.edu privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624224108id_/http%3A//www.ucr.edu/privacy.html) for the most accurate reproduction.*
 
 # UC Riverside: Privacy Policy
 
@@ -28,7 +28,7 @@ UCR will not distribute or sell personal information to third-party organization
 
 ### Individual Choice
 
-Individuals who wish to use methods other than online enrollment may submit requests by email or U.S. mail addressed to the UC Riverside organization responsible for the website. 
+Individuals who wish to use methods other than online enrollment may submit requests by e-mail or U.S. mail addressed to the UC Riverside organization responsible for the website. 
 
 ### Access to Your Own Information
 
