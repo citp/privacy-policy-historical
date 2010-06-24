@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the delhilive.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222081119id_/http%3A//www.delhilive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delhilive.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624023614id_/http%3A//www.delhilive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Delhi Live
-
-Submitted by admin on Sun, 30/04/2006 - 14:13.
 
 **What This Privacy Policy Covers**
 
@@ -13,9 +11,9 @@ Submitted by admin on Sun, 30/04/2006 - 14:13.
 
 
 
-**Information Collection and How it is used**
+ **Information Collection and How it is used**
 
-**General Information**
+ **General Information**
 
   * DelhiLive collects personal information when you register with DelhiLive to use DelhiLive services or to post content on DelhiLive.
 
@@ -30,11 +28,11 @@ Submitted by admin on Sun, 30/04/2006 - 14:13.
 
 
 
-**IP Addresses**
+ **IP Addresses**
 
 IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our user registration databases when you register with DelhiLive.
 
-IP addresses may be used for various purposes, including: 
+IP addresses may be used for various purposes, including:
 
   * To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
 
@@ -49,9 +47,9 @@ IP addresses may be used for various purposes, including:
 
 
 
-**Cookies**
+ **Cookies**
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. 
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
 
   * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
 
@@ -81,7 +79,7 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 
 
-**Information Sharing and Disclosure**
+ **Information Sharing and Disclosure**
 
   * When you post a message, your DelhiLive ID or alias that you are posting under is visible to other users.
 
@@ -117,8 +115,8 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 
 
-**Changes to this Privacy Policy**
+ **Changes to this Privacy Policy**
 
 DelhiLive may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your DelhiLive account or by placing a prominent notice on our site.
 
-If you have questions or suggestions please contact us at adm[...](http://mailhide.recaptcha.net/d?k=01TgaBljWdN1lY_OrJ8qjH0w==&c=LsM_yLn9Wu9rKY75t2JcDkAbIGdFuPc_ylJtGGKN4zg= "Reveal this e-mail address")@DelhiLive.com.
+If you have questions or suggestions please contact us at [admin@DelhiLive.com](mailto:admin@DelhiLive.com).
