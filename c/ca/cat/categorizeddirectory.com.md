@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the categorizeddirectory.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220160800id_/http%3A//categorizeddirectory.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the categorizeddirectory.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624023443id_/http%3A//www.categorizeddirectory.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacy
 
