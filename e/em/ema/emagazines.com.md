@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emagazines.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223173047id_/http%3A//www.emagazines.com/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emagazines.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624021916id_/http%3A//www.emagazines.com/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
 # eMagazines Digital Magazine Marketplace - Privacy
 
