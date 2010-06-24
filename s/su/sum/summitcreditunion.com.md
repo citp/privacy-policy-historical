@@ -1,79 +1,78 @@
-> *The following text is extracted and transformed from the summitcreditunion.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616204022id_/http%3A//www.summitcreditunion.com/summit.php%3Fpage%3D109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitcreditunion.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624100002id_/http%3A//www.summitcreditunion.com/summit.php%3Fpage%3D109) for the most accurate reproduction.*
 
 # Summit Credit Union - Do More. Start Here.
 
-**Summit Credit Union Privacy Policy**
+**PRIVACY NOTICE DISCLOSURE**
 
-Summit Credit Union has always recognized our responsibility to protect your privacy. Working with you to safeguard your personal information is very important to us.
+Summit Credit Union, your member-owned financial institution, is committed to providing you with competitive products and services to meet your financial needs and help you reach your goals. We are equally committed to protecting the privacy of our members. Under federal law, we are required to give you this privacy notice. It describes our credit union's privacy policy and practices concerning the personal information we collect and disclose about our members. It also includes information about the parties who receive personal and sometimes nonpublic information from us as we conduct the business of the credit union.
 
-Below you'll find information on what we do to protect your nonpublic personal information, when and how we share it, as well as what information we collect and for what purpose. You'll receive our privacy policy every year, and if any of the below practices change, we'll send you a revised version. 
+**If after reading this notice you have questions, please contact us at (800) 2365560 or write to:
 
-**Types of information we collect**   
-There are various types of information we collect to perform services, develop products, and comply with federal regulations. 
+Summit Credit Union  
+PO Box 8046  
+Madison, WI 53708-8046
 
-  * To fulfill your requests and perform transactions, we collect information from applications and forms you complete, e.g., address, social security number, date of birth, income and debts, etc. 
-  * We retain personal information when using products and services. For example, our system records your deposits, withdrawals, and other account activity. 
-  * When you apply for loans, membership, or other accounts, we may receive information from consumer reporting agencies to complete your request. 
-  * In order to establish, review and update our information, we gather market research information. For example, we may get information on how many individuals live in a household, home ownership, or a home's market value. This data comes from census reports, public records, market research firms, and surveys. 
-  * We collect e-mail addresses in conjunction with electronic services, and from visitors to our web site who choose to provide their address. 
+**
 
+**INFORMATION WE COLLECT ABOUT YOU**
 
+We collect nonpublic personal information about you from the following sources:
 
-**How we protect your information**   
-Summit Credit Union has always maintained high standards for safeguarding your privacy, and we make conscientious efforts to ensure your protection.
-
-  * Your personal information is accessed only by credit union staff responsible for providing products and services you've requested. We educate our employees about the importance of confidentiality and customer privacy through standard operating procedures, special training programs, and comprehensive ethics policies. 
-  * We shred all personally identifiable documentation. 
-  * We maintain physical, electronic, and procedural safeguards that comply with federal regulations to protect your personally identifiable information. We update and test our technology regularly to improve our protection practices and assure integrity. 
+  * Information we receive from you on applications and other forms
+  * Information about your transactions with us
+  * Information we receive from a consumer reporting agency
+  * Information we receive from Market Research Companies and websites (including email addresses)
 
 
 
-**Sharing your information**  
-Because it's our goal to deliver a wide range of competitive financial products, we establish relationships with various third-party vendors and other affiliates to help deliver high-quality, efficient services.
+We may disclose all of the information we collect, as described above, as permitted by law.
 
-In the examples below, we refer to affiliated and nonaffiliated third parties. Affiliated third parties refers to an entity in which SCU has partial ownership. At this time, we do not have any affiliated third parties. Nonaffiliated third party refers to all of our other relationships.
+**PARTIES WHO RECEIVE INFORMATION FROM US**
 
-  * We may share personal information with our credit union affiliates as allowed by federal law, if that information is required to provide a product or service you request. 
-  * We may report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report. 
-  * We do not share information with non-affiliated third parties concerning your account with us, except: a). to verify the condition and existence of your account for a third party (such as a credit bureau) b). to complete a transaction or perform a service you've requested; c). to comply with any court order or applicable laws or regulations; or d). when you give us your written permission (e.g., verification of deposits.) 
+We may disclose nonpublic personal information about you to the following types of third parties:
 
-Examples of this include: check processing and printing, credit and debit cards, and mortgage and real estate services. We also use third-party vendors to process and mail statements, and handle outgoing mail.
-
-Before establishing these relationships, we ensure that the third-party's privacy protection practices are as stringent as ours. We also require that they use your personal information only to complete the service requested.
-
-  * SCU does not and will not sell or provide your personal information to **any** third party for independent use. Occasionally, we may enter into joint marketing agreements with non-affiliated third parties or other financial institutions to provide you with beneficial products and/or services.
-
-In these instances, your personal information is only used for a specific purpose related to SCU, and never for independent use. And before we enter into any such partnership, we ensure that the non-affiliated party adheres to the same high standards for protecting your privacy as we do.
+  * Financial service providers, such as insurance companies and mortgage service companies
+  * Non-financial companies, such as consumer reporting agencies, data processors, check/share draft printers, financial statement publishers/printers, plastic card processors, government agencies and mailhouses
 
 
 
+**DISCLOSURE OF INFORMATION TO PARTIES THAT PROVIDE SERVICES TO US**
 
-**Disclosure of information about former members**   
-If you end your relationship with SCU, we will not share any information except as permitted or required by law.
+In order for us to conduct the business of the credit union, we may disclose all of the information we collect, as described above, to other financial institutions with whom we have joint marketing agreements, to other companies that perform marketing services on our behalf, or to nonaffiliated third parties for the purposes of processing and servicing transactions that you request or authorize, so that we may provide members competitive products and services.
 
-**Opt-out request**   
-You may request that we not share personal information with certain non-affiliated third parties. However, your request **does not** apply to anything that is sent directly from SCU, disclosures that are legally required or that are required to perform a service you've requested, or to relationships with affiliated third parties.
+We may also disclose nonpublic personal information about you under circumstances as permitted or required by law.
 
-Please note that while at this time, we have not established any relationship that this opt-out will apply toward, there may be an opportunity in the future that we feel is beneficial for you. An example would be special benefits for SCU members with travel clubs or retail stores.
+These disclosures typically include information to process transactions on your behalf, conduct the operations of our credit union, follow your instructions as you authorize, or protect the security of our financial records.
 
-**Joint/Multiple Accounts**
+To protect our members' privacy, we only work with companies that agree to maintain strong confidentialityprotections and limit the use of information we provide. We do not permit these companies to sell the information we provide to other third parties.
+
+**DISCLOSURE OF INFORMATION ABOUT FORMER MEMBERS**
+
+If you terminate your membership with Summit Credit Union, we will not share information we have collected about you, except as may be permitted or required by law.
+
+**OPT OUT REQUEST**
+
+You may request that we not share personal information with certain non-affiliated third parties. However, your request does not apply to anything that is sent directly from Summit Credit Union, disclosures that are legally required or that are required to perform a service you've requested, or to relationships with affiliated third parties. Please note that while at this time, we have not established any relationship that this opt-out will apply toward, there may be an opportunity in the future that we feel is beneficial for you. An example would be specific benefits for Summit Credit Union members with travel clubs or retail stores.
+
+**JOINT/MULTIPLE ACCOUNTS**
 
   * If you have a joint account, your opt out applies to every person on the account.
-  * If you have multiple accounts with us, you must opt out separately for each account.
+  * If you have multiple accounts with us, you must opt out separately for each account. If you still choose to exercise an opt-out request, call (800) 236-5560, or visit our Website at SummitCreditUnion.com and click on "About Summit" then "Privacy Policy." Once we receive your request, we have a reasonable amount of time to stop the disclosures. You can contact the credit union any time to revoke your opt-out election. If you would like clarification of these conditions, please call or visit our website at SummitCreditUnion.com for a list of "Frequently Asked Questions."
 
 
 
-If you still choose to exercise an opt-out request, call 800-236-5560, or [click here](https://web.archive.org/summit.php?page=173) if you have received this electronically.
+**HOW WE PROTECT YOUR INFORMATION**
 
-Once we receive your request, we have a reasonable amount of time to stop the disclosures. You can contact us any time to revoke your opt-out election.
+We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, or procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
-If you would like clarification of these conditions, please call or visit our Web site at www.summitcreditunion.com for a list of [Frequently Asked Questions](https://web.archive.org/summit.php?page=172).
+**WHAT MEMBERS CAN DO TO HELP**
 
-**Here's what you can do to protect your privacy**  
-While we have a large role in safeguarding your personal information, our efforts are futile if you don't take adequate measures to protect your privacy.
+Summit Credit Union is committed to protecting the privacy of its members. Members can help by following these simple guidelines:
 
-  * Do not share account numbers, credit and debit card numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with your debit or credit card in the event that it is lost or stolen. 
-  * Unless you initiate a service request, do not give account numbers, social security numbers, etc. to other persons over the phone or online. Always remember that credit union personnel will only ask for your information for identification purposes if _you call us_. We will never call you and ask for information we have already. 
-  * It is very important that we have ways to reach you if we detect fraudulent activity. Please ensure that we have your current address, telephone number and e-mail address (if applicable). 
+  * Protect your account numbers, plastic card numbers, personal identification numbers (PINs) or passwords. Never keep your PIN with your card. The PIN can provide free access to your accounts if your card is lost or stolen.
+  * Use caution when disclosing your account numbers, social security numbers, etc. to other persons. If someone calls you explaining the call is on behalf of the credit union and asks for your account number, you should beware. Official credit union staff will have access to your information and will not need to ask for it.
+  * Keep your information with us current. If your address or phone number changes, please let us know. It is important that we have current information on how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately.
 
 
+
+Let us know if you have questions. Please do not hesitate to call us -- we are here to serve you!
