@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nudevibes.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222173548id_/http%3A//www.nudevibes.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudevibes.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624051334id_/http%3A//www.nudevibes.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Nudevibes
 
@@ -56,6 +56,8 @@ In the event that Nudevibes is acquired by or merged with a third party entity, 
 Changes and updates to this Privacy Notice
 
 This Privacy Notice may be revised periodically and users are encouraged to review the Notices periodically to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Nudevibes Sites constitutes your agreement to this Privacy Notice and any future revisions. For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+
+[](http://italianfriendfinder.com/go/g1121047-pmem)
 
   
 
