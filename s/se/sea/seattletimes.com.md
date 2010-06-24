@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the seattletimes.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422060409id_/http%3A//www.seattletimescompany.com/notices/notice2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattletimes.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625000823id_/http%3A//www.seattletimescompany.com/notices/notice2.html) for the most accurate reproduction.*
 
 # User Notices of The Seattle Times Company: Privacy Statement
 
 ## Privacy Statement
 
-The following statement explains how the Web sites operated by The Seattle Times Company collect and use your personally identifiable information. These Web sites include: seattletimes.com, NWsource.com, NWjobs.com, NWapartments.com, NWautos.com, NWhomes.com and seattletimescompany.com.
+The following statement explains how the Web sites operated by The Seattle Times Company collect and use your personally identifiable information. These Web sites include: seattletimes.com, NWsource.com, NWjobs.com, NWautos.com, NWhomes.com and seattletimescompany.com.
 
 #### The basic principle
 
-We will never intentionally disclose your personally identifiable information to any third party for their use without first receiving your express permission. We will not send you e-mail unless you have requested it or unless it's in the course of a transaction you have initiated. 
+We will not disclose your personally identifiable information to any third party for their use without a) first receiving your express permission, or b) being compelled to by law-enforcement authorities or for reasons of public safety. We will not send you e-mail unless you have requested it or unless it’s in the course of a transaction you have initiated.
 
 #### Free to use
 
@@ -20,7 +20,7 @@ The people who make it possible for us to provide free content to you are our ad
 
 You must provide some personally identifiable information in order to use some features of our Web sites. Some examples: 
 
-  * Signing up for e-mail services such as seattletimes.com news alerts, NWsource.com newsletters, and e-mail alerts for various types of classified listings
+  * Signing up for e-mail services such as seattletimes.com news alerts, NWsource.com newsletters, and e-mail alerts for various types of classified listings, and special e-mail offers sent on behalf of advertisers.
   * Participating in online sweepstakes, contests and games
   * Participating in online forums
   * Submitting a resume on NWjobs.com
@@ -33,7 +33,7 @@ You must provide some personally identifiable information in order to use some f
 
 #### What personally identifiable information do we collect?
 
-The information we collect for services such as these will vary, but can include your name, address, zip code, gender, user name, password, e-mail address and phone number. We also collect credit card information for purchases. Wherever we collect personally identifiable information, we will make an effort to link to our privacy statement. 
+The information we collect for services such as these will vary, but can include your name, address, zip code, gender, birth year, user name, password, e-mail address and phone number. We also collect credit card information for purchases. Wherever we collect personally identifiable information, we will make an effort to link to our privacy statement. 
 
 #### How do we use your personally identifiable information? 
 
@@ -44,6 +44,8 @@ Please note that some of our online sweepstakes or contests are sponsored by adv
 We will not send you e-mail unless you have requested it, or specifically given us permission to contact you in the future, or unless it's in the course of a transaction you have initiated. 
 
 When you submit a comment about a story or topic on one of our Web sites, an editor or reporter may contact you for clarification or for permission to use your comments in the newspaper or other publications of The Seattle Times Company.
+
+Some demographic information such as zip code, gender and birth year may be used to better target advertising and offers within Seattle Times Company opt-in emails. 
 
 #### Who else has access to your personally identifiable information?
 
