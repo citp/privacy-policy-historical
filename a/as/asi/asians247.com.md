@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asians247.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618052204id_/http%3A//www.asians247.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asians247.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624022224id_/http%3A//asians247.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Asians247.com - Live Video Chat Feeds Direct from their Homes!
 
@@ -60,6 +60,3 @@ Visitors who wish to access or change the information they provided to our web s
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
 
 © Copyright 2007 CamSoft, B.V, All Rights Reserved. 
-
-Toll Free 24 Hour Support Line: **1-702-289-4116**  
-
