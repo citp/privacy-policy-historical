@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackwell.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142145id_/http%3A//bookshop.blackwell.co.uk/jsp/help.jsp%3Fpage%3Dsecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackwell.co.uk privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624022534id_/http%3A//bookshop.blackwell.co.uk/jsp/help.jsp%3Fpage%3Dsecurity.jsp) for the most accurate reproduction.*
 
 # Academic, Educational and Business Books - Blackwell Bookshop Online
 
@@ -59,7 +59,7 @@
 
 **Customer Services**
 
-  1. How do I speak to some-one?
+  1. How do I speak to someone?
   2. When is your customer service team available?
   3. What is your complaints procedure?
 
@@ -109,7 +109,7 @@ If your order was despatched and you could reasonably have expected to have rece
 
 **Can I track my order?**
 
-Yes. Once you have placed your order you will receive e-mail confirmation and your order number. You can then log in to your account and by selecting **order tracker** , you will be able to see whether your order is being processed or has been despatched, as well as its estimated delivery date.
+Yes. Once you have placed your order you will receive e-mail confirmation and your order number. You can then log in to your account and by selecting **order summary** , you will be able to see whether your order is being processed or has been despatched, as well as its estimated delivery date.
 
 **I have only received part of my order**
 
@@ -363,7 +363,7 @@ If you have any questions/comments about privacy, you should email us at [bob.on
   
 
 
-**How do I speak to some-one?**
+**How do I speak to someone?**
 
 We recognise that the most immediate and effective form of communication is over the telephone and welcome your calls. You can call Customer Services on Tel: +44 (0) 1865 333536 between the hours of 08.00 and 18.00 Monday to Friday . Alternatively you can e-mail us by going to the [Customer Care](https://web.archive.org/jsp/contact.jsp) menu to E-mail us. This will give you the option to send us an e-mail message. You can select the type of query and we recommend you state your full name and order number. We aim to respond to your e-mail within 24 hours. However at busier times this may not always be possible.
 
