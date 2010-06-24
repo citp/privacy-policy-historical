@@ -1,13 +1,19 @@
-> *The following text is extracted and transformed from the axishost.com privacy policy that was archived on 2007-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071203082424id_/http%3A//www.axishost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axishost.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624033812id_/http%3A//axishost.com/privacy.php) for the most accurate reproduction.*
 
-# AxisHOST - Fully managed CPanel servers and hosting!
+# AxisHost - Fully Managed Shared Hosting
 
-**AxisHOST.com, Inc.** does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis.
+Effective 09/03/2009 Our Commitment To Privacy
 
-Personally identifiable information on individual users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. Further, AxisHOST.com, Inc. reserves the right to contact a user regarding matters relevant to the underlying service provided and/or the information collected.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Users also should be aware that non personal information and data may automatically be collected through the standard operation of AxisHOST.com, Inc. internet servers or through the use of "cookies." Information about "cookies" is usually available in the help section of most browsers.
+The Information We Collect: This notice applies to all information collected or submitted on the http://www.axishost.com/ website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: Name, Address, Email address, Phone number, Credit/Debit Card Information, etc.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending email message stating you do not want to receive e-mail from our company. Users should be aware it may be impossible to delete all references to a user without some residual information remaining because of backups and deleted records.
+The Way We Use Information: We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order or under the direction of law enforcement.
 
-AxisHOST.com, Inc. reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement outlined herein is not intended to and does not create any contractual or other legal rights in or on behalf of any party. 
+Our Commitment To Data Security To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+Our Commitment To Children's Privacy: Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+How You Can Access Or Correct Your Information You can access all your personally identifiable information that we collect online and maintain via your Client Area login. We use this procedure to better safeguard your information. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+How To Contact Us Should you have other questions or concerns about these privacy policies, please call us at 888-755-HOST (4678) or send us an email at support@axishost.com.
