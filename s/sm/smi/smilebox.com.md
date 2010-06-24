@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228005821id_/http%3A//www.smilebox.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624084604id_/http%3A//www.smilebox.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@
 
 ### [Design Types](http://www.smilebox.com/design-types/ "e-cards")
 
-[Ecards](http://www.smilebox.com/ecards/ "free ecards"), [Scrapbooking](http://www.smilebox.com/scrapbooks/ "scrapbooking"), [Slideshows](http://www.smilebox.com/slideshows/ "slide show"), [Photo albums](http://www.smilebox.com/photo-albums/ "photo album"), [Postcards](http://www.smilebox.com/postcards/ "postcards"), [Recipes](http://www.smilebox.com/recipe-cards/ "recipe cards"), [Invitations](http://www.smilebox.com/invitations/ "invitations")
+[Greetings](http://www.smilebox.com/ecards/ "free greetings"), [Scrapbooks](http://www.smilebox.com/scrapbooks/ "scrapbooks"), [Slideshows](http://www.smilebox.com/slideshows/ "slide show"), [Photo albums](http://www.smilebox.com/photo-albums/ "photo album"), [Collages](http://www.smilebox.com/collage/ "collages"), [Recipes](http://www.smilebox.com/recipe-cards/ "recipe cards"), [Invitations](http://www.smilebox.com/invitations/ "invitations")
 
 ### [Occasions](http://www.smilebox.com/occasions/ "greeting cards for every occasion")
 
