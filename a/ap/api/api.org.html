@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the api.org privacy policy that was archived on 2009-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091025124159id_/http%3A//www.api.org/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the api.org privacy policy that was archived on 2010-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624235605id_/http%3A//www.api.org/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright American Petroleum Institute --><!-- Page generated 2009-10-24 07:37:34 by CommonSpot CommonSpot v4.6.2.50 (2006-06-15 18:07:05) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Privacy Policy</title> <meta name="Description" id="Description" content="API's Website privacy policy.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright American Petroleum Institute --><!-- Page generated 2010-06-14 12:26:29 by CommonSpot CommonSpot v4.6.2.50 (2006-06-15 18:07:05) --><!-- JavaScript & DHTML Code Copyright 1998-2005 PaperThin, Inc.  All rights reserved --><head> <title>Privacy Policy</title> <meta name="Description" id="Description" content="API's Website privacy policy.">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Keywords" id="Keywords" content="privacy policy, website">
 <meta name="Generator" id="Generator" content="CommonSpot Content Server CommonSpot v4.6.2.50">
@@ -33,52 +33,6 @@
 		var intLeft=200;
 		var intHeight=290;
 		var intWidth=480;
-			var cookieStr = document.cookie;
-			var cookieWinRegEx = /CSOFFSCREENPOPUPSALLOWED=\d/i;
-			var rxVal = /\d+/;
-			try
-			{
-				if (cookieStr && cookieStr.match(cookieWinRegEx))
-				{
-					var strVal=cookieStr.match(cookieWinRegEx);
-					if (strVal)
-						blnPopUpsOffScreen=strVal.toString().match(rxVal);
-					else
-						blnPopUpsOffScreen = 0;
-				}
-				else
-					blnPopUpsOffScreen=0;
-			}
-			catch (oErr)
-			{
-				blnPopUpsOffScreen=0;
-			}
-			if(blnPopUpsOffScreen==1)
-			{
-				intTop=window.screen.height - 9;
-				intLeft=window.screen.width - 9;
-				intHeight=1;
-				intWidth=1;
-			}
-			else
-			{
-				intTop=(window.screen.height / 2) - 109;
-				intLeft=(window.screen.width / 2) - 210;
-				intHeight=218;
-				intWidth=421;
-			}
-			if(!url.match(externalLinkRegEx) && url.indexOf('kurrentPageID') == -1)
-			{
-				try
-				{
-					if( url.indexOf ('?') == -1 )
-						url = url + '?kurrentPageID=' + kurrentPageID;
-					else
-						url = url + '&kurrentPageID=' + kurrentPageID;
-				}
-				catch (oErr)
-				{ /* Do Nothing */ }
-			}
 		var re = new RegExp();
 		re = /&amp;/gi;
 		url = url.replace(re,"&");
@@ -118,7 +72,7 @@
 			var strWinOptions = strOptions;
 		}
 		strWinOptions = strWinOptions + ',top='+ intTop + ',left=' + intLeft + ',height=' + intHeight + ',width=' + intWidth;
-			var winWindow=window.open(url,name,strWinOptions);
+			var winWindow=window.open(url,name);
 		if (!winWindow)
 			alert('Unable to open window - please make sure the pop-up blocker is disabled for this site');
 		if(arguments.length==4 && arguments[3]==1 && winWindow)
@@ -152,184 +106,24 @@ function MM_swapImage() { //v3.0
 //-->
 </script>
 <link rel="alternate" type="application/rss+xml" title="API - Newsroom [RSS]" href="http://www.api.org/rss/rss.cfm?ssid=11&amp;section=Newsroom&amp;viewrss=Y">
-<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> </head><body lang="en" class="CS_Document"><script type="text/javascript">
+<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css"> 
+
+<script type="text/javascript">
+<!--
+
+var gShowKeywords = 0;
+var gHaveKeywords = 0;
+
+var js_userID=0;
+
+// -->
+</script>
+<!-- --> </head><body onload="onLoadFinished();" lang="en" class="CS_Document"><script type="text/javascript">
 <!--
 document.CS_StaticURL = "http://www.api.org/";
 document.CS_DynamicURL = "http://www.api.org/";
 // -->
-</script><a name="__topdoc__"></a><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--
-		// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
-bName = navigator.appName;
-bVer = parseInt(navigator.appVersion);
-var bCanRollover=0
-if (bName == "Netscape")
-{
-	if(bVer >= 3)
-		bCanRollover=1;
-}
-else if (bName == "Microsoft Internet Explorer")
-{
-	if(bVer >= 4)
-		bCanRollover=1;
-}
-function ImageSet(imgID,newTarget)
-{
-	if (bCanRollover)
-		document[imgID].src=newTarget;
-}
-function clearStatus()
-{
-	window.status = "";
-}
-function setStatbar(statbar)
-{
-	var strStatbar=unescape(statbar);
-	window.status=strStatbar;
-}
-function onLoadComplete()
-{
-	if( menus_included == 1 )
-		document.onmouseover = document_mouseover;	// defined in menu_ie.js
-}
-function HandleLink(parentID,link,displaylink) 
-{
-	// links are in one of the following formats:
-	// 		cpe_60_0,CP___PAGEID=100
-	// 		CPNEWWIN:WindowName^params@CP___
-	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
-	// displaylink is the server relative URL or fully qualified URL
-	if( jsPageAuthorMode == 0 )
-	{
-		windowname = "";
-		windowparams = "";
-		// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
-		pos = link.indexOf("CPNEWWIN:");
-		if (pos != -1)
-		{
-			pos1 = link.indexOf ("^");
-			windowname = link.substring (pos+9, pos1);
-			pos2 = link.indexOf ("@");
-			windowparams = link.substring (pos1 + 1, pos2);
-			link = link.substring (pos2 + 1, link.length);
-		}
-		
-		if( displaylink && displaylink != "" )
-		{		
-			if (windowname == "")
-				window.location = displaylink;
-			else
-			{
-				windowparams = FormatWindowParams(windowparams);
-				window.open (displaylink, windowname, windowparams);
-			}
-		}
-		else
-		{
-			targetLink = link;
-			if (link.indexOf ("CP___") != -1)
-			{
-				httpPos = -1;
-				commaPos = link.indexOf(",");
-				if (commaPos != -1)
-				{
-					targetUrl = link.substr(commaPos + 1);
-					if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
-					{
-							httpPos = commaPos + 1;
-					}		
-				}
-					
-				if (httpPos != -1)
-				{
-					targetLink = link.substr(httpPos);
-					commaPos = targetLink.indexOf(",");
-					if (commaPos != -1)
-						targetLink = targetLink.substr(0, commaPos);
-				}
-				else
-					targetLink = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
-				
-				if (windowname == "")
-					window.location = targetLink;
-				else
-				{
-					windowparams = FormatWindowParams(windowparams);
-					window.open (targetLink, windowname, windowparams);
-				}
-			}
-			else
-			{
-				//commaPos = link.indexOf(",");
-				//if (commaPos != -1)
-				//	link = link.substr(0, commaPos);
-				if (windowname == "")
-					window.location = link;
-				else
-				{
-					windowparams = FormatWindowParams(windowparams);
-					window.open (link, windowname, windowparams);
-				}
-			}
-		}
-	}
-	else if( jsSessionPreviewON == 1 )
-	{
-		previewLink(link);
-	}
-	else
-	{
-		if( document.all[parentID] )
-			document.all[parentID].click();
-	}
-}
-function doWindowOpen(href,name,params)
-{
-	if (params != '')
-		window.open (href, name, params);
-	else
-		window.open (href, name);	
-}
-// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
-function FormatWindowParams(windowparams)
-{
-	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
-	    windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
-	{
-		windowparams = substringReplace(windowparams,':left=',',left=');
-		windowparams = substringReplace(windowparams,'left=','left=');
-		windowparams = substringReplace(windowparams,':ww=',',width=');
-		windowparams = substringReplace(windowparams,'ww=','width=');		
-		windowparams = substringReplace(windowparams,':hh=',',height=');
-		windowparams = substringReplace(windowparams,'hh=','height=');
-		windowparams = substringReplace(windowparams,':loc=',',location=');
-		windowparams = substringReplace(windowparams,'loc=','location=');
-		windowparams = substringReplace(windowparams,':dir=',',directories=');
-		windowparams = substringReplace(windowparams,'dir=','directories=');
-		windowparams = substringReplace(windowparams,':tb=',',toolbar=');
-		windowparams = substringReplace(windowparams,'tb=','toolbar=');
-		windowparams = substringReplace(windowparams,':stat=',',status=');
-		windowparams = substringReplace(windowparams,':mb=',',menubar=');
-		windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
-		windowparams = substringReplace(windowparams,':rs=',',resizable=');
-	}
-	return windowparams;
-}
-function substringReplace(source,pattern,replacement)
-{
-	var pos = 0;
-	var target="";
-	while ((pos = source.indexOf(pattern)) != (-1))
-	{
-		target = target + source.substring(0,pos) + replacement;
-		source = source.substring(pos+pattern.length);
-		pos = source.indexOf(pattern);
-	}
-	return (target + source);
-}
-// -->
-		</script>
+</script><a name="__topdoc__"></a><script src="/commonspot/ns-resize.js" type="text/javascript"></script><!-- --><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script src="/commonspot/pagemode/always-include-ns.js" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
 	function glblLinkHandler(lobj, attr, val)
@@ -509,9 +303,9 @@ function ImageSet(imgID,newTarget)
                <a href="/meetings/"><img src="/systemimages/common/meetings.gif" width="77" height="21" alt="Related Meeting" border="0"></a><br><br>
                 
                 <span class="RightNavFeatured">
-                  <a href="/meetings/topics/refining/index.cfm" class="RightNavFeatured">Fall Refining and Equipment Standards Meeting</a> - Nov. 9-11, 2009 - Dallas, Texas
+                  <a href="/meetings/topics/explorate/exploration-producti.cfm" class="RightNavFeatured">Exploration &amp; Production Standards Conference on Oilfield Equipment and Materials</a> - Jun. 28-Jul. 2, 2010 - Washington, DC
 <br><br>
-                  <a href="/meetings/topics/technology/it-security.cfm" class="RightNavFeatured">4th Annual IT Security Conference for the Oil and Natural Gas Industry</a> - Nov. 11-12, 2009 - Houston, Texas
+                  <a href="/meetings/topics/tanks/index.cfm" class="RightNavFeatured">API Storage Tank Conference and Safe Tank Entry Workshop</a> - Oct 18-21 - San Francisco, California
 <br><br>
                 </span>
                 <hr class="RightNavFeatured" size="1" color="#999999" noshade=""><br>
@@ -556,7 +350,7 @@ function ImageSet(imgID,newTarget)
       
       <table cellpadding="0" cellspacing="0" border="0" width="750" summary="footer section">
         <tbody><tr>
-          <td class="footer" style="padding: 0px 5px 0px 10px;"><a href="/resources" class="footer">Links and Resources</a> | <a href="/privacy.cfm" class="footer">Privacy Policy</a> | <a href="/terms.cfm" class="footer">Terms and Conditions</a> | <a href="/legal.cfm" class="footer">Legal Notices</a> | <a href="/subscribe.cfm" class="footer">Sign Up for Email Alerts</a> | Copyright 2009 - API. All rights reserved.</td>
+          <td class="footer" style="padding: 0px 5px 0px 10px;"><a href="/resources" class="footer">Links and Resources</a> | <a href="/privacy.cfm" class="footer">Privacy Policy</a> | <a href="/terms.cfm" class="footer">Terms and Conditions</a> | <a href="/legal.cfm" class="footer">Legal Notices</a> | <a href="/subscribe.cfm" class="footer">Sign Up for Email Alerts</a> | Copyright 2010 - API. All rights reserved.</td>
         </tr>
       </tbody></table>
       
@@ -575,4 +369,4 @@ var pageTracker = _gat._getTracker("UA-1277976-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
+<!-- --><div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div></body></html>
