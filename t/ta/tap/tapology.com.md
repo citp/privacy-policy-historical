@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapology.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212194813id_/http%3A//tapology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapology.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625012905id_/http%3A//www.tapology.com/privacy-policy) for the most accurate reproduction.*
 
 # Tapology.com Privacy Policy
 
@@ -10,7 +10,7 @@ User-Provided Information: You provide us information about yourself, such as yo
 
 Cookies Information: When you visit our site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets us log you in faster and enhance your site navigation.  A cookie does not collect personal information about you.  Among these cookies may be the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) which is used by Google as a third party vendor in the ads served on the websites of its partners. Google’s use of the DART cookie enables it and its partners to serve ads to users based on visits to our sites and/or other sites on the internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Log File Information: Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (”IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+Log File Information: Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
 **How We Use Your Information**
 
