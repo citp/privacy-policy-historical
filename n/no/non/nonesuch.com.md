@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonesuch.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063407id_/http%3A//www.nonesuch.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonesuch.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624022008id_/http%3A//www.nonesuch.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nonesuch Records
 
