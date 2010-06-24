@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coolidge.org privacy policy that was archived on 2009-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221182103id_/http%3A//www.coolidge.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolidge.org privacy policy that was archived on 2010-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624022123id_/http%3A//coolidge.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -37,9 +37,124 @@
 <script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js"></script>
 <script type="text/javascript" src="/sites/all/modules/thickbox/thickbox.js"></script>
 <script type="text/javascript" src="/sites/all/modules/ubercart/uc_cart/uc_cart_block.js?40247"></script>
-<script type="text/javascript">Drupal.extend({ settings: { "apture": { "basePath": "/" }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" }, "base_path": "/" } });</script>
+<script type="text/javascript" src="/sites/all/modules/spamspan/spamspan.compressed.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "apture": { "basePath": "/" }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" }, "base_path": "/", "spamspan": { "m": "spamspan", "u": "u", "d": "d", "t": "t" } } });</script>
 <script type="text/javascript">var collapsed_block = true;</script>
 <script type="text/javascript">var uc_cart_path = '/sites/all/modules/ubercart/uc_cart';</script>
+
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="/sites/all/themes/coolidge_2007/ie6-splash.css" />
+<![endif]-->
+<!--[if !IE 6]><!-->
+<link rel="stylesheet" type="text/css" href="/sites/all/themes/coolidge_2007/splash.css">
+<!--<![endif]-->
+
+<!--[if lte IE 6]>
+<script type="text/javascript">
+  var isRunningIE6OrBelow = false;
+</script>
+<![endif]-->
+
+<!--[if !IE 6]><!-->
+<script type="text/javascript">
+  var isRunningIE6OrBelow = false;
+</script>
+<!--<![endif]-->
+
+<script type="text/javascript">
+var curr_lb_div;
+var is_modal = false;
+
+
+(function($) {
+	$.fn.customFadeIn = function(speed, callback) {
+		$(this).fadeIn(speed, function() {
+			if(!$.support.opacity)
+				$(this).get(0).style.removeAttribute('filter');
+			if(callback != undefined)
+				callback();
+		});
+	};
+	$.fn.customFadeOut = function(speed, callback) {
+		$(this).fadeOut(speed, function() {
+			if(!$.support.opacity)
+				$(this).get(0).style.removeAttribute('filter');
+			if(callback != undefined)
+				callback();
+		});
+	};
+	$.fn.customFadeTo = function(speed,to,callback) {
+		return this.animate({opacity: to}, speed, function() {
+			if (to == 1 && jQuery.browser.msie)
+				this.style.removeAttribute('filter');
+			if (jQuery.isFunction(callback))
+				callback();
+		});
+	};
+})(jQuery);
+
+//Return the cookie value
+function getCookie(Name) {
+  //return "false";
+  
+  var search = Name + "=";
+  var returnvalue = "";
+  if (document.cookie.length > 0) {
+    offset = document.cookie.indexOf(search)
+    // if cookie exists
+    if (offset != -1) { 
+      offset += search.length
+      // set index of beginning of value
+      end = document.cookie.indexOf(";", offset);
+      // set index of end of cookie value
+      if (end == -1) end = document.cookie.length;
+      returnvalue=unescape(document.cookie.substring(offset, end))
+      }
+   }
+  return returnvalue;
+}
+
+function ShowLightBox(lb_div, isModal)
+{
+	if(getCookie('coolidge-splash-page') != 'true'){
+		//var ie6 = $.browser.msie&&($.browser.version == "6.0")&&!window.XMLHttpRequest;
+		
+		if(!isRunningIE6OrBelow) {
+			$('#' + lb_div).fadeIn('slow');
+			$('#fade').fadeIn('slow');
+		}
+		else {
+			$('#' + lb_div).css("display" , "inline-block");
+			$('#fade').css("display" , "inline-block");
+		}
+		
+		curr_lb_div = lb_div;
+		if (isModal) {
+			is_modal = true;
+		}    
+		else {
+			is_modal = false;
+		}
+		
+		//set the cookie
+		document.cookie="coolidge-splash-page=true";
+    }
+}
+
+function HideLightBox()
+{
+	$('#' + curr_lb_div).fadeOut('slow');
+	$('#fade').fadeOut('slow');
+	curr_lb_div = '';
+}
+
+ window.onload=function(){
+ ShowLightBox('splash');
+}
+
+
+
+</script>
 
 <link rel="stylesheet" type="text/css" media="print" href="print.css">
 </head>
@@ -52,6 +167,7 @@
      
     <h1><a href="/" title="Home">The Coolidge Corner Theatre</a></h1> 
      
+    <div class="member-sign-in"><a href="http://store.coolidge.org/WebSales/Pages/EntryPoint.aspx?guid=636661f3-c088-4d92-a426-2d5796330296&amp;"><img src="/files/images/member-sign-in.png"></a></div>    
      
     <p class="slogan">Your Not-For-Profit Independent Theatre</p> 
      
@@ -83,14 +199,14 @@
     
     
     <td class="primary">
-	  <!-- <div class="primary_container">     MDG added for sizing purposes -->
+    
        
     
             
                 
 	        <div class="pagetitle"><h2>Privacy, Security, and Return Policies</h2></div> 
-      	 	
-  
+      	 
+        
         <div class="item entry"> 
   
    
@@ -115,7 +231,7 @@ using the latest 128-bit Secure Sockets Layer (SSL) technology for secure Intern
 
 
 </div><br> 
-	  <!-- </div>     MDG added for sizing purposes -->
+
     </td>
     
     
