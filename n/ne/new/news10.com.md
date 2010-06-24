@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news10.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063953id_/http%3A//www.wten.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news10.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624022949id_/http%3A//www.wten.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WTEN: Albany, New York News, Weather, Sports -
 
@@ -63,5 +63,3 @@ We use third-party advertising companies to serve ads when you visit this Web si
 Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
 
 _Effective date: July 1, 2004_
-
-[](http://www.addthis.com/bookmark.php)
