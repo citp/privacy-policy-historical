@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brecorder.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216043447id_/http%3A//www.brecorder.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecorder.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624220308id_/http%3A//www.brecorder.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Business Recorder [Pakistan's First Financial Daily]
 
