@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatsandoutboards.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618135933id_/http%3A//www.boatsandoutboards.co.uk/article/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatsandoutboards.co.uk privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624095055id_/http%3A//www.boatsandoutboards.co.uk/article/privacy_policy) for the most accurate reproduction.*
 
 # BoatsAndOutboards: Help System
 
@@ -8,7 +8,7 @@
 
 1.1 Boatsandoutboards make every attempt to keep any personal data you supply as safe and secure as possible. We are registered under the Data Protection Act in the UK and adhere to the recommendations and principles therein. We do not supply your personal details to any marketing organisations under any circumstances whatsoever however we reserve the right to provide third parties with your personal details in the event of criminal or civil disputes in order to help prevent our privacy system being used as a shelter for suspicious or poor conduct. 
 
-1.2 We will attempt to stop any **phone numbers** provided with your advert from appearing on our web site but due to technical reasons this cannot be guaranteed in all cases, eg, for non UK phone numbers, “personal Numbers” etc. Your phone numbers may appear in printed form in a magazine along with your advert details, as a classified advert, so that people can make direct contact with you. 
+1.2 We will attempt to stop any **phone numbers** provided with your advert from appearing on our web site but due to technical reasons this cannot be guaranteed in all cases, eg, for non UK phone numbers, �personal Numbers� etc. Your phone numbers may appear in printed form in a magazine along with your advert details, as a classified advert, so that people can make direct contact with you. 
 
 1.3 We make every attempt to ensure that your **email address** does not appear on the website nor in printed form. We have security measures to prevent unauthorised access to the limited information you provide, but due to the nature of the internet cannot guarantee that any information we receive or store electronically is totally secure. We do not use cookies  to track your patterns of behaviour. 
 
