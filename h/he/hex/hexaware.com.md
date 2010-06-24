@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexaware.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211065615id_/http%3A//www.hexaware.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexaware.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624111901id_/http%3A//www.hexaware.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Hexaware Technologies | Privacy Policy
 
