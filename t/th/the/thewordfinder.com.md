@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewordfinder.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622194709id_/http%3A//www.thewordfinder.com/Wiki/index.php/TheWordFinder%2521%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewordfinder.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624021528id_/http%3A//thewordfinder.com/Wiki/index.php/TheWordFinder%2521%3APrivacy_policy) for the most accurate reproduction.*
 
 # TheWordFinder!:Privacy policy - Free Word Descrambler
 
@@ -17,7 +17,7 @@ This notice applies to all information collected or submitted on thewordfinder.c
 **The Way We Use Information:**
 
   
-We collect users' IP address and click patterns. This data may be shared with outside parties for consulting and monitoring purposes only. No data is ever sold to outside parties. No information in the form of names, addresses, phone numbers, credit card #s etc is collected. 
+We temporarily and anonymously collect users' IP address and click patterns for a period of time. This data may be shared with outside parties for consulting and monitoring purposes only. No data is ever sold to outside parties. No information in the form of names, addresses, phone numbers, credit card #s etc is collected. 
 
   
 Email addresses that we receive questions or comments from are kept for the purpose of providing a response and updates. Such addresses are not used for any other purpose and are not shared with outside parties. 
