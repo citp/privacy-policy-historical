@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621082502id_/http%3A//www.deliciousmagazine.co.uk/blogs/privacy_223) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624235405id_/http%3A//www.deliciousmagazine.co.uk/blogs/privacy_223) for the most accurate reproduction.*
 
 # Privacy Policy | delicious. Magazine food articles & advice
 
-The publishers of delicious. magazine (Seven Publishing Group Limited) value your privacy. The personal information you provide through the delicious. website will be held by us in accordance with the Data Protection Act 1998 (the Act). For the purposes of the Act, the data controller is Seven Publishing Group Ltd, registration number 04809240 of Sea Containers House, 20 Upper Ground, London, SE1 9PD.
+The publishers of delicious. magazine (Eye to Eye Media Ltd) value your privacy. The personal information you provide through the delicious. website will be held by us in accordance with the Data Protection Act 1998 (the Act). For the purposes of the Act, the data controller is Eye to Eye Media Ltd of Sea Containers House, 20 Upper Ground, London, SE1 9PD.
 
 Please read this Privacy Policy carefully. By visiting this website, you are accepting the terms of this Privacy Policy.
 
-1\.  Information we may collect from you. The information that we may collect from you could be:
+1\.  Information we may collect from you. The information that we may collect from you could be: 
 
 • Information that you provide by filling in forms on our website. This includes information which is provided at the time of registering to use our website, subscribing to receive the delicious. magazine newsletter and posting material (such as your comments or recipes).
 
@@ -15,27 +15,27 @@ We regularly request information from users via competitions and giveaways. Part
 
 • If you contact us, we may keep a record of that correspondence.
 
-• We may ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+• We may ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
 
-• Details of your visits to our website and the resources that you access whilst on the website.
+• Details of your visits to our website and the resources that you access whilst on the website. 
 
 2. Personal information   
 In order to receive the delicious. magazine newsletter, we need your email address. We will not disclose your email or any personal information to any third party without your consent.
 
-When you register to subscribe to purchase the magazine, we will ask you to provide certain personal information. At that point you will be able to opt in to receive communications from us, another company within our group or third parties. You will always have the opportunity to unsubscribe from receiving such communications.
+When you register to subscribe to purchase the magazine, we will ask you to provide certain personal information. At that point you will be able to opt in to receive communications from us, another company within our group or third parties. You will always have the opportunity to unsubscribe from receiving such communications. 
 
-Anti-spam   
+**Anti-spam**  
 Every email sent by us includes links to unsubscribe from receiving further emails from us, allowing users to automatically and immediately remove themselves from subscription lists. The only way to receive the delicious. magazine newsletter is to subscribe and confirming your subscription by following the subscription procedure.
 
-Unsubscribe   
+**Unsubscribe**  
 Users may always automatically opt-out of receiving emails from us by clicking the unsubscribe link at the end of emails you receive from us.
 
-Users with questions or experiencing problems unsubscribing should email to [help@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk).
+Users with questions or experiencing problems unsubscribing should email to [webeditor@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk).
 
 If at any time you wish to be removed from our database, simply send an email to [unsubscribe@deliciousmagazine.co.uk](mailto:unsubscribe@deliciousmagazine.co.uk) with “UNSUBSCRIBE” in the subject line.
 
-Updating your personal information  
-Users may update their records held by us by writing to you at [help@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk).
+**Updating your personal information**  
+Users may update their records held by us by writing to you at [webeditor@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk).
 
 3. Uses made of your information  
 We use information held about you in the following ways:  
@@ -49,18 +49,18 @@ If we have obtained your consent, we may also use your data, or permit selected 
 
 If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-The information you provide is held on a secure database and is used to improve the services to our readers and website users. Information you provide will be disclosed only in an aggregated and anonymised form to our marketing partners. It will not be linked to any personal information that can identify any individual person.
+The information you provide is held on a secure database and is used to improve the services to our readers and website users. Information you provide will be disclosed only in an aggregated and anonymised form to our marketing partners. It will not be linked to any personal information that can identify any individual person. 
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
 
 5. Disclosure of your information  
-We may disclose your personal information to third parties:
+We may disclose your personal information to third parties: 
 
-• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
 
-• If [insert the name of the company that is the data controller] or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+• If delicious. magazine, or substantially all of its assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
 
-• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](http://new.deliciousmagazine.co.uk/blog.aspx?Preview=1&BlogID=217); or to protect the rights, property, or safety of Seven Publishing Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](http://new.deliciousmagazine.co.uk/blog.aspx?Preview=1&BlogID=217); or to protect the rights, property, or safety of Eye to Eye Media Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 6. IP addresses and cookies  
 We may collect information about your computer including, where available, your IP address, operating system and browser type for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
@@ -87,10 +87,15 @@ delicious. magazine takes every precaution to protect users’ information. None
 delicious. magazine reserves the right, at its sole discretion, to change, modify or otherwise alter this Privacy Policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Please review the Privacy Policy periodically. Continued use of delicious. magazine following the posting of changes and/or modifications constitutes acceptance of the revised Privacy Policy.
 
 If you have any questions, please contact us at:  
-[help@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk)
+[webeditor@deliciousmagazine.co.uk](mailto:help@deliciousmagazine.co.uk)
 
-delicious. magazine is part of Seven Publishing Group Ltd.  
-Sea Containers House, 20 Upper Ground, London, SE1 9PD.  
-Registered No. 04809240 England
+delicious. magazine is part of:  
+Eye to Eye Media Ltd  
+Erico House  
+93 - 99 Upper Richmond Road  
+London  
+SW15 2TG
 
-7 Publishing Copyright 2007
+Company number 06870389
+
+Eye to Eye Media Ltd Copyright 2009
