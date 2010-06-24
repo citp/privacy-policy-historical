@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ingres.com privacy policy that was archived on 2009-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221215429id_/http%3A//www.ingres.com/about/policies/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ingres.com privacy policy that was archived on 2010-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100624060214id_/http%3A//www.ingres.com/about/policies/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>About | Policies | Privacy Policy - Ingres</title>
@@ -11,6 +11,9 @@ on development, middleware">
 <!--[if IE 6]>
 		<link rel="STYLESHEET" type="text/css" href="http://www.ingres.com/css/ie6.css">
 		<![endif]-->    
+<!--[if gte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ingres.com/css/r2/ie7.css" />
+<![endif]-->
 <script src="http://gw-services.vtrenz.net/WebCookies/iMAWebCookie.js?EABC3810-B261-4CD7-A397-69B3DB998CA2" type="text/javascript"></script>
 <script src="http://gw-services.vtrenz.net/WebCookies/iMAWebSyncIDAppender.js" type="text/javascript"></script>
 
@@ -68,11 +71,19 @@ $(document).ready(function()
 #sidebox li a,#right li a {display:block;}
 #mid.sub #sidebox { margin-left:6px;}
 </style>
-<![endif]-->   
+<![endif]-->
+<!--[if gte IE 7]>
+<style type="text/css">
+.sf-menu li li a {
+	display: inline-block !important;
+	width: 13em !important;
+}
+</style>
+<![endif]-->
+
 </head>
 <body>
 <div id="container">
-
 <div id="topnav"> <a href="http://www.ingres.com/"><img src="http://www.ingres.com/images/logo.gif" id="logo" alt="ingres open source database"></a>
 <div id="logreg"><a href="http://www.ingres.com/user/login.php">Login</a>|<a href="http://www.ingres.com/user/register.php">Register</a> 
 
@@ -106,10 +117,14 @@ $(document).ready(function()
 	</table></form></div>
     -->
   <div id="searchbox">
-    <form action="http://www.google.com/cse">
-      <input type="hidden" value="016997985552022586131:_ti6mnewgtw" name="cx">
-      <input type="hidden" value="UTF-8" name="ie">
-      <input type="hidden" value="10" name="num">
+      
+       <form method="get" action="http://search.ingres.com/search">
+        <input type="hidden" name="site" value="default_collection">
+        <input type="hidden" name="client" value="ingres_frontend">
+        <input type="hidden" name="proxystylesheet" value="ingres_frontend">
+        <input type="hidden" name="output" value="xml_no_dtd">
+        <input type="hidden" name="num" value="10">
+
       <table cellspacing="0" cellpadding="0">
         <tbody>
           <tr>
@@ -126,14 +141,16 @@ $(document).ready(function()
     <li class="current"><a href="http://www.ingres.com/products/"><span>Products</span></a>
       <ul>
       <li><a href="http://www.ingres.com/products/ingres-database.php">Ingres Database</a></li>
-        <li><a href="http://www.ingres.com/products/icebreaker.php">Ingres Appliances</a>
+        <li><a href="http://www.ingres.com/products/icebreaker.php">Ingres Icebreaker</a></li>
+        <li><a href="http://www.ingres.com/vectorwise/">Ingres VectorWise</a></li>
+        <li><a href="http://www.ingres.com/products/ingres-hvr.php">Ingres High Volumne Replication</a>
           <ul>
-            <li><a href="http://www.ingres.com/products/icebreaker.php">Ingres Icebreaker</a></li>
-            <li><a href="http://www.ingres.com/products/icebreaker-bi-appliance.php">Icebreaker BI</a></li>
-            <li><a href="http://www.ingres.com/products/icebreaker-ecm-appliance.php">Icebreaker ECM</a></li>
+            <li><a href="http://www.ingres.com/products/ingres-hvr/high-availability.php">High Availability</a></li>
+            <li><a href="http://www.ingres.com/products/ingres-hvr/disaster-recovery.php">Disaster Recovery</a></li>
+            <li><a href="http://www.ingres.com/products/ingres-hvr/realtime-bi.php">Realtime BI</a></li>
+            <li><a href="http://www.ingres.com/products/ingres-hvr/realtime-integration.php">Realtime Integration</a></li>
           </ul>
-        </li>
-        <li><a href="http://www.ingres.com/vectorwise/">Ingres VectorWise Project</a></li>
+          </li>
         <li><a href="http://www.ingres.com/about/why-ingres/ingres-development-stack-for-jboss.php">Ingres Development Stack for JBoss</a></li>
         <li><a href="http://www.ingres.com/products/openroad.php">Ingres Development Tools</a>
           <ul>
@@ -150,10 +167,18 @@ $(document).ready(function()
       </ul>
    
     </li>
-    <li> <a href="http://esd.ingres.com/"><span>Downloads</span></a>
+    <li> <a href="http://www.ingres.com/downloads/"><span>Downloads</span></a>
       <ul>
-        <li><a href="http://esd.ingres.com/">Download Software</a></li>
-        <li><a href="http://www.ingres.com/downloads/insights.php">Ingres Insights</a></li>
+	<li><a href="http://www.ingres.com/downloads/ingres-vectorwise.php">Ingres VectorWise</a></li>
+        <li><a href="http://www.ingres.com/downloads/ingres-database.php">Ingres Database</a></li>
+        <li><a href="http://www.ingres.com/downloads/ingres-openroad.php">Ingres OpenROAD</a></li>
+        <li><a href="http://www.ingres.com/downloads/ingres-drivers.php">Drivers &amp; Plug-ins</a></li>
+        <li><a href="http://www.ingres.com/downloads/ingres-bundles.php">Ingres Bundles</a></li>
+        <li><a href="http://www.ingres.com/downloads/ingres-ea.php">Ingres Enterprise Access</a></li>
+        <li><a href="http://www.ingres.com/downloads/ingres-edbc.php">Ingres EDBC</a></li>
+        <li><a href="http://www.ingres.com/downloads/ingres-documentation.php">Documentation</a></li>
+        <li><a href="http://www.ingres.com/downloads/ingres-other.php">Other Downloads</a></li>
+        <li><a href="http://www.ingres.com/downloads/resource-library.php">Resource Library</a></li>
       </ul>
     </li>
     <li> <a href="#"><span>Community</span></a>
@@ -167,7 +192,6 @@ $(document).ready(function()
     </li>
     <li> <a href="http://www.ingres.com/services/"><span>Support &amp; Services</span></a>
       <ul>
-        <li><a href="http://isn.ingres.com">Ingres Service Network</a></li>
         <li><a href="http://www.ingres.com/support/security-center.php">Ingres Security Center</a></li>
         <li><a href="http://www.ingres.com/services/enterprise-support.php">Enterprise Support Services</a></li>
         <li><a href="http://www.ingres.com/services/operational-services.php">Operational Services</a></li>
@@ -178,11 +202,11 @@ $(document).ready(function()
     </li>
     <li><a href="http://www.ingres.com/partners/"><span>Partners</span></a>
       <ul>
-        <li><a href="http://www.ingres.com/partners/partner-benefits.php">Partner Benefits</a></li>
         <li><a href="http://www.ingres.com/partners/partner-programs.php">Partner Programs</a></li>
+        <li><a href="http://www.ingres.com/partners/partner-benefits.php">Partner Benefits</a></li>
         <li><a href="http://www.ingres.com/partners/become-partner.php">Become a Partner</a></li>
         <li><a href="http://www.ingres.com/partners/partner-directory.php">Partner Directory</a>
-            <ul>
+             <ul>
 
         <li><a href="http://www.ingres.com/partners/partner-strategic-alliance.php">Strategic Alliance</a></li>
         <li><a href="http://www.ingres.com/partners/partner-isv-oems.php">ISVs and OEMs</a></li>
@@ -257,12 +281,11 @@ $(document).ready(function()
       <ul style="display:none">
         <li><a href="http://www.ingres.com/about/management/burkhardt.php">Roger Burkhardt</a></li>
         <li><a href="http://www.ingres.com/about/management/gallagher.php">Fred Gallagher</a></li>
-        <li><a href="http://www.ingres.com/about/management/harr.php">Doug Harr</a></li>
         <li><a href="http://www.ingres.com/about/management/karis.php">Ketan Karia</a></li>
         <li><a href="http://www.ingres.com/about/management/maimone.php">Bill Maimone</a></li>
         <li><a href="http://www.ingres.com/about/management/mcgrattan.php">Emma McGrattan</a></li>
         <li><a href="http://www.ingres.com/about/management/shine.php">Steve Shine</a></li>  
-        <li><a href="http://www.ingres.com/about/management/woods.php">Deb Woods</a></li>                                          
+        <li><a href="http://www.ingres.com/about/management/wood.php">Greg Wood</a></li>                                        
       </ul>
     </li>
   </ul>
@@ -321,13 +344,13 @@ $(document).ready(function()
 <h2>Children's Privacy</h2>
 <p>This Site is not intended for children under the age of 13. Ingres does not target its services or this Site to children under 13. Ingres does not knowingly collect personally identifiable information from children under the age of 13.
 Updating your Information and Contacting Us
-If you wish to review or correct any information you have provided to us, you may access your account and update it on this Site. If you have any questions or comments about our Privacy Policy or practices, please contact us via email at <a href="mailto:info@ingres.com">info@ingres.com</a> with the words "PRIVACY POLICY" in the subject line.	</p><br>
+If you wish to review or correct any information you have provided to us, you may access your account and update it on this Site. If you have any questions or comments about our Privacy Policy or practices, please contact us via email at <a href="mailto:info@ingres.com">info@ingres.com</a> with the words "PRIVACY POLICY" in the subject line.	</p><!-- <br />
 <table border="0" width="100%" align="right">
-<tbody><tr>
+<tr>
 <td width="75%">
 </td>
 <td width="25%">
-<!-- AddThis Button BEGIN -->
+
 <div class="addthis_toolbox addthis_default_style">
 <a href="http://addthis.com/bookmark.php?v=250&amp;pub=ingresmarketing" class="addthis_button_compact">Share</a>
 <span class="addthis_separator">|</span>
@@ -336,12 +359,12 @@ If you wish to review or correct any information you have provided to us, you ma
 <a class="addthis_button_twitter"></a>
 </div>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ingresmarketing"></script>
-<!-- AddThis Button END -->
+
 
 </td>
 </tr>
-</tbody></table>
-<br><br>
+</table> -->
+<br><br> 
     </div>
     <!-- // #content -->
      
@@ -354,7 +377,7 @@ If you wish to review or correct any information you have provided to us, you ma
  <!--  <h1>Contact Us</h1> -->
   <div>
     <ul>
-      <li class="title"><strong>Ingres 1-877-346-4737</strong></li>
+      <li class="title"><strong>Ingres 1-888-446-4737</strong></li>
       <li class="globe"><a href="http://www.ingres.com/about/worldwide-offices.php"><strong>Worldwide offices</strong></a><br></li>
       <li class="support"><a href="http://www.ingres.com/support/contacts.php"><strong>Contact support</strong></a><br></li>
     </ul>
@@ -379,7 +402,7 @@ If you wish to review or correct any information you have provided to us, you ma
 	<li>|</li>
 	<li><a href="http://www.ingres.com/about/policies/privacy.php">Privacy Policy</a></li>
 </ul>
-<div class="copyright">© 2009 Ingres Corporation. All Rights Reserved</div>
+<div class="copyright">© 2010 Ingres Corporation. All Rights Reserved</div>
 </div>
 	
 </div>
@@ -401,8 +424,12 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">var pageTracker = _gat._getTracker("UA-2379133-1");pageTracker._initData();
-pageTracker._trackPageview();</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2379133-1");
+pageTracker._setDomainName(".ingres.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 </body></html>
