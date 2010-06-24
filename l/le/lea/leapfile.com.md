@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leapfile.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409123107id_/http%3A//www.leapfile.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapfile.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624104355id_/http%3A//www.leapfile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LeapFILE
 
@@ -10,8 +10,7 @@ This policy describes how we collect and use your personal information. Please r
 There are places on our site where we may ask for personal information that uniquely identifies you. At times we may request your personal information; however, input fields are not normally required unless they are explicitly stated. Personal information may include but is not limited to your first and last name, company, email address, billing address, shipping address, phone number, fax number, credit card number and credit card expiration date.
 
 **Use of Personal Information**  
-Personal information may be used in any of the following ways:   
-
+Personal information may be used in any of the following ways: 
 
   * To ensure that the content, products and services found on our site are relevant and helpful for you
   * To fulfill your orders for services
