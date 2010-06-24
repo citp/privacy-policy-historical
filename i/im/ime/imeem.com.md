@@ -1,103 +1,82 @@
-> *The following text is extracted and transformed from the imeem.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011015824id_/http%3A//www.imeem.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imeem.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624235221id_/http%3A//www.myspace.com/index.cfm%3Ffuseaction%3Dmisc.privacy) for the most accurate reproduction.*
 
-# imeem! - Privacy
+# Privacy - MySpace.com
 
-imeem, inc. operates the imeem service, imeem.com website and distributes imeem software. The imeem service allows you to connect, communicate and collaborate with your friends across the Internet. Friends are people you choose to connect with and who agree to connect with you. Of course, friends can be social friends, business associates, classmates, members of your church, teammates in your softball league or friends you discover on imeem through shared interests.
+**Effective February 28, 2008:**
 
-Your privacy is very important to us. To help you understand how your privacy is protected we provide an explanation of various parts of the system below. By using imeem, you consent to the collection and use of your personal information as outlined in this Privacy Policy.
+MySpace, Inc. (“MySpace” or “we”) operates MySpace.com. This Privacy Policy describes MySpace’s use and sharing of personally identifiable information (“PII”-- your full name, email address, mailing address, telephone number, or credit card number) that [Members](https://web.archive.org/index.cfm?fuseaction=misc.terms&test=tou2#member) voluntarily provide to MySpace when they register (also known as “Registration PII”). The Term “User” refers to a [Visitor](https://web.archive.org/index.cfm?fuseaction=misc.terms&test=tou2#visitor) or a Member. This Privacy Policy applies to the services offered by MySpace, including any MySpace-branded URL (the “MySpace Website”), the MySpace instant messaging service, the MySpace application developer service and other features (for example, music and video embedded players), MySpace mobile services, and any other features, content, or applications offered from time to time by MySpace in connection with the MySpace Website (collectively, the “MySpace Services”). The MySpace Services are hosted in the United States.
 
-Users have the ability to choose who will be able to connect with them on the imeem service, as well as who can invite them to join groups on imeem. Users also have the option to edit their privacy settings.
+The MySpace Website is a general audience site and does not knowingly collect PII from children under 13 years of age. 
 
-Groups are topics that can be shared and discussed within the network. In many cases the groups we choose to connect with help define our personality -- hobbies, favorite artists, current events we are passionate about, and organizations we belong to. The creator of a group may choose to make it open to everyone within the imeem network or to restrict membership to a specific group of people they choose.
+From time to time MySpace may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of the MySpace Services, or technology, and such modifications shall be effective upon posting by MySpace on the MySpace Website. Your continued use of the MySpace Services after MySpace posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If MySpace materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of, and have not objected to, the change. 
 
-## Information Gathered by imeem
+**COLLECTION AND SUBMISSION OF PII AND NON-PII ON MYSPACE**
 
-  * **User Provided Information** : For visitors to our website and registered users, we log standard technical information, such as your IP address. If you choose to register with us, imeem requires you to provide your email address and birth date. You will also be required to select a user ID and password. In addition, imeem may optionally ask you to provide your physical address and other demographic information, such as gender, interests or occupation, as well as credit card information for verification purposes. We may collect other personal information from time to time, such as when you provide feedback or comments, or communicate with others through our systems.
-  * **Cookies Information** : imeem uses cookies - a small text file containing a string of alphanumeric characters - to administer its website and provide a more tailored and user-friendly service to you. For example, we may use cookies to count the number of unique computers accessing our website. imeem uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the imeem service may not function properly if the ability to accept cookies is disabled.
-  * **Log File Information** : When you use the imeem service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, content play information, and one or more cookies that may uniquely identify your browser.
+General. When MySpace collects PII from you it is because you are voluntarily submitting Registration PII to us in order to register as a Member of MySpace. MySpace may also collect PII from you if you choose to participate in MySpace Services activities like sweepstakes, contests, and surveys, because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to MySpace for review. 
 
+In addition, MySpace collects other non-PII including IP address, aggregate user data, and browser type. This data is used to manage and improve the MySpace Services, track usage, and for security purposes. 
 
+MySpace Members may also choose to provide or store non-PII information in their profiles, including but not limited to date of birth, interests, hobbies, lifestyle choices, groups with whom they are affiliated (schools, companies), videos and/or pictures, private messages, bulletins or personal statements (collectively “Profile Information”). The Profile Information in a Member’s profile is provided at his or her sole discretion.
 
-## How imeem Uses Information
+MySpace Members can change their Registration PII and Profile Information at any time and can control how Visitors, other Members and MySpace communicate with them by controlling their account settings, available within the “Edit Profile” portion of their MySpace profile. Link to [Privacy Settings](http://profileedit.myspace.com/index.cfm?fuseaction=accountSettings.privacy).
 
-The information we collect about you in the course of our relationship is used to provide our services to you. For example, even as we endeavor to protect your identity, we may use your demographic information to create a database of user profiles, select advertisements based on your information and for marketing analysis. In addition, we look at technical information to diagnose problems with our server, to administer the imeem.com site, to enhance our products and to provide our service to you.
+Cookies. Cookies are small bits of information that MySpace places on your computer. MySpace uses cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the enabling software needed to access certain material on the MySpace Services. Data in cookies may be read to authenticate user sessions or provide services.
 
-All search results in imeem are personally generated for you based not only on what is popular, but also on what interests you based on your profile, groups you connect to, and what your friends connect to. Data about searches and search results may be maintained by imeem to help in continually improving the service.
+Third party advertisements displayed on MySpace Services may also contain cookies set by Internet advertising companies or advertisers (known as “third party cookies”). MySpace does not control these third party cookies and Users of the MySpace Services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the “Notice” section below for more information on customized advertising on MySpace. A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. MySpace may allow third party pixel tags to be present on MySpace Services for purposes of advertising, providing services or data and statistics collection. 
 
-Invitations and messages are sent via email on your behalf by imeem. If you invite another person to join imeem, we will ask for that person's name and online contact information. We store this information and use it to contact and inform that person that he or she has been invited to join the imeem.com service. We will send reminders only with your express consent.
+You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on the MySpace Services.
 
-When you communicate with a friend in an instant message we endeavor to authenticate both sides to make sure they are who they say they are. imeem enables chat participants to store copies of chat transcripts.
+**NOTICE: MYSPACE WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES**
 
-## How imeem Protects Information
+When you voluntarily provide PII to MySpace, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses MySpace will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy. 
 
-imeem's computers store user account information, and may cache user profile information for backup purposes. imeem employs the following industry standard security measures to protect the loss, misuse and alteration of the information under our control:
+At the time you provide your PII, MySpace will notify you of your options regarding our use of your PII (See “Choice” below). Except as described in this Privacy Policy, MySpace will not share your PII with third parties unless you have given MySpace permission to do so (See “Use” below).
 
-  * Use of secure connections using SSL to safeguard information when transmitted from your Web browser to the imeem service.
-  * Use of security controls to restrict access to databases housing personally identifying information.
-  * Use of encryption for sensitive personal information, such as email addresses and user names.
-  * Restrict employee access to databases containing personal information and impose confidentiality requirements upon employees who do.
-  * Bind subcontractors with contractual, technical and organizational measures to protect your personal information.
+MySpace Services may be linked to Internet sites operated by other companies. MySpace Services may also carry advertisements from other companies. MySpace is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with the MySpace Services or for the privacy practices of third party Internet advertising companies. Once you leave MySpace Services via such a link, access a third party application (such as widgets) or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you.
 
+MySpace Services may also be linked to sites operated by companies affiliated with MySpace (i.e., that are part of the News America Group: “Affiliated Companies”). Although all Affiliated Companies adhere to the News America corporate [Privacy Principles](http://www.newscorp.com/privacy.html), Users who visit those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
 
+MySpace may use cookies and similar tools to customize the content and advertising you receive based on the Profile Information you have provided. Profile Information you provide in structured profile fields or questions (multiple choice questions like “Marital Status,” “Education” and “Children”) (“Structured Profile Information”), information you add to open-ended profile fields and questions (essay questions like “About Me,” “Interests” and “Movies”) (“Non-Structured Profile Information”) and other non-PII about you may also be used to customize the online ads you encounter to those we believe are aligned with your interests. For example, based on your music interests we might display an advertisement to make sure you are advised when your favorite band is coming to town. The information used for this feature does not provide your PII or identify you as an individual to third parties. If you would like to disable advertising customization for Non-Structured Profile Information, please log in and [click here](http://www.myspace.com/index.cfm?fuseaction=accountsettings.profiletargeting). 
 
-## When imeem Discloses Information
+Some of the advertisements that appear on MySpace Services may also be delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII about your visit to or use of MySpace Services, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-We may share personally identifiable information about our users with third parties, including: (1) with your consent or following the opportunity to opt-in or opt-out for specific programs or features, or (2) when we have a good faith belief it is necessary pursuant to a subpoena or other judicial or administrative order; (3) as otherwise stated in this Privacy Policy; (4) where required by law; or (5) at our sole discretion, where we deem necessary to respond to claims, to protect the safety of any individual or the public, or to protect the rights, property or personal safety of imeem or any third party. We also share non-personally-identifiable information (such as anonymous Log File information) with interested third-parties to assist them in understanding the usage patterns for our service.
+Third party applications (such as widgets) created by third party developers may also be available on the MySpace Services. Third party applications are small bits of software, often with interactivity, that can be installed into Members’ profiles or shared with other Users. However, MySpace does not control the third party developers, and cannot dictate their actions. When a Member engages with a third party application, that Member is interacting with the third party developer, not with MySpace. MySpace encourages Members not to provide PII to the third party’s application unless the Member knows the party with whom it is interacting. 
 
-In the event of a change of ownership or a direct merger with or acquisition by another entity, your information may be transferred to the acquiring entity. You have the ability and control to remove or alter your account specific information at any time.
+**CHOICE: MYSPACE WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**
 
-## Third Parties/Advertisers and Your Information
+Except as described in this Privacy Policy, MySpace will get your permission before we use the PII you provide to us in a way that is inconsistent with the purpose for which it was submitted or share your PII with third parties that are not affiliated with MySpace.
 
-imeem may provide links to third party websites or allow other companies, called third-party ad servers, to display advertisements to users. Ad server companies can write and read their own cookies on your computer, just as if you had requested a web page from their website. imeem is not responsible for, and does not have any control over, the privacy practices or the content of such third parties. We encourage users to read the privacy policies of any website visited. For more information about how to “opt-out” of cookies from certain of our ad serving partners, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+**USE: MYSPACE'S USE OF PII**
 
-Please note that information stored or cached on other users' computers is subject to those users security practices, which are beyond imeem's control. Although we make good faith efforts to store information collected or stored by imeem in a secure manner, we cannot guarantee complete security. Information held by imeem will be maintained for a length of time appropriate to our business needs.
+MySpace will only use the PII you provide under this Privacy Policy in a manner that is consistent with this Privacy Policy. If MySpace obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy. 
 
-## User Options and Responsibilities
+In order to locate other MySpace Members that you may already know in the physical world, MySpace allows Users to search for Members using Registration PII (i.e., full name or email address). MySpace also allows Users to browse for certain Profile Information in order to help connect with Members (i.e., schools and/or companies where Users may have attended or worked). MySpace may also enable Members to publicly display some Registration PII as an element of their Profile Information if they choose to do so via a profile setting under “Edit Profile.” Search engines may index the portion of a Member’s profile (including the Profile Information it contains) that is publicly displayed. 
 
-Your user profile contains information about you that you may want to share with others. Protecting the privacy of your profile is your responsibility. We caution you not to share sensitive information (such as social security numbers, credit card numbers, or driver's license numbers) with other users whom you do not know or place such information in your profile.
+If you have consented to receive promotional materials (e.g., newsletters) or notifications from MySpace, MySpace may periodically use your email address to send you such materials related to the MySpace Services, as applicable. If you want to stop receiving such materials from MySpace, you can change your profile settings under “Account Settings,” or follow the unsubscribe instructions at the bottom of each email. 
 
-Any information you choose to display on imeem.com, including your profile, will be viewable by the entire Web (i.e., everyone). For your own safety we caution you not to include home addresses, telephone numbers or any other personal information that could allow strangers to contact you outside of the imeem service.
+MySpace employees, agents and contractors must have a business reason to obtain access to your PII. MySpace may share your PII with those who help us manage or provide MySpace Services’ information activities (for example, message board administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes. 
 
-To maintain privacy it is also important not to share your password with anyone. Selecting a longer password with a mix of letters, numbers and symbols makes it more difficult for others to guess your password. It is also helpful to change passwords on a regular basis.
+These outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your PII to provide MySpace with a specific service and not for any other purpose. MySpace may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. MySpace also may share your PII with Affiliated Companies if it has a business reason to do so. 
 
-Identity theft is a serious concern to all of us. To help protect yourself against identity theft, please remember that imeem will NEVER ask for your password in either a non-secure or unsolicited email communication.
+As described in “Notice” above, MySpace may customize the advertising and marketing messages you receive on the MySpace Website, or may work with outside companies to do so. Your non-PII and/or Profile Information may be shared with these companies so this customization can be accomplished. MySpace prohibits these companies from sharing your non-PII and/or Profile Information with any third party or from using it for any other purpose. Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with MySpace’s advertisers and business partners. 
 
-It is your responsibility to select the desired privacy setting upon creation. Other items may inherit an existing privacy setting. In this case, it is your responsibility to understand the associated privacy setting before creating content to ensure the handling of your information meets your expectations.
+There may be instances when MySpace may access or disclose PII, Profile Information or non-PII without providing you a choice in order to: (i) protect or defend the legal rights or property of MySpace, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of Users of the MySpace Services or members of the public including acting in urgent circumstances; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process. In addition, if MySpace sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, MySpace may transfer your PII to the party or parties involved in the transaction as part of that transaction.
 
-You may choose to correct or update the information you have submitted to us by editing your profile or account information. If you remove your information, it may continue to persist on back-up media.
+When a Member who is located in the European Union chooses to post Profile Information that will be publicly disclosed, that Member is responsible for ensuring that such information conforms to all local data protection laws. MySpace is not responsible under the EU local data protection laws for Member-posted information. 
 
-## Safe Use of imeem
+**SECURITY: MYSPACE PROTECTS THE SECURITY OF PII**
 
-To report violations of the imeem Terms of Use, improper account use, or identity theft please refer to the [Terms of Use](http://www.imeem.com/terms.aspx). For general information for users and parents about staying safe on imeem, here are some websites with valuable information:
+MySpace uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and credit card information in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, MySpace uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. 
 
-  * Wiredsafety.org
-  * Commonsense.com
-  * Ncmec.org
-  * Blogsafety.org
-  * OnguardOnline.gov
+**ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT MYSPACE ABOUT PRIVACY CONCERNS**
 
+Whenever possible, MySpace Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change your Registration PII, Member preferences and Profile Information by logging into your account and accessing features such as “Edit Profile” and “Account Settings.” 
 
+If you ask MySpace to stop using your PII, MySpace will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.
 
-## Children's Privacy
+If you would like to communicate with us about this Privacy Policy or MySpace’s collection and use of your PII, please use the Contact MySpace form on our [Help site](http://faq.myspace.com/).
 
-imeem complies with the Children's Online Privacy Protection Act and will not knowingly collect personally identifiable information from anyone under the age of 13. Please see our [Terms of Use](http://www.imeem.com/terms.aspx) for more information.
-
-## Note to International Users
-
-imeem.com is hosted in the United States and is intended for and directed to users in the United States. If you are a user accessing the imeem service from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the imeem service, which is governed by U.S. law, this Privacy Policy, and our [Terms of Use](http://www.imeem.com/terms.aspx), you are transferring your personal information to the United States and you consent to that transfer.
-
-## Changes and Updates
-
-imeem's Privacy Policy may change from time to time. If we make any substantive changes to our policies, we will notify registered users by posting bulletins on the imeem service, by email at the address provided by you, or by posting notice of changes at [Privacy Policy](http://www.imeem.com/privacy.aspx). Your use of the website or the imeem software after the changes constitutes your agreement with regard to information collected from you in the past and in the future.
-
-## Contacting Us/Enforcement
-
-If you have any questions about this Privacy Policy, the practices of imeem, or your experience with imeem.com, please contact us at:
-
-> imeem, inc.  
->  Customer Service - Privacy Issues  
->  660 4th St., Box 155  
->  San Francisco, CA 94107  
->  [privacy@imeem.com](mailto:privacy@imeem.com)
-
-Revised on May 16, 2007
+Mail:   
+8391 Beverly Blvd.  
+#349  
+Los Angeles, California 90048
