@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webstarts.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026151852id_/http%3A//www.webstarts.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstarts.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624212452id_/http%3A//www.webstarts.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Webstarts Privacy Policy
 
