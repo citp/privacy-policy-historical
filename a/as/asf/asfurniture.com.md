@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asfurniture.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221015131id_/http%3A//www.asfurniture.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FstoreId%3D10101%26catalogId%3D10154%26langId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asfurniture.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624215953id_/http%3A//www.asfurniture.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FstoreId%3D10101%26catalogId%3D10154%26langId%3D-1) for the most accurate reproduction.*
 
 # Privacy Policy for American Signature
 
@@ -46,6 +46,6 @@ Efforts to bring new services, ideas and partners to benefit our customers may m
 
 ##### Your Feedback
 
-To help us improve our Privacy Policy and practice we need your feedback. Please use our [Contact Us](https://web.archive.org/web/20091221015131id_/http%3A//www.asfurniture.com/webapp/wcs/stores/servlet/ContactUsView?storeId=10101&catalogId=10154&langId=-1) page by submitting any comments or questions and we will do our best to answer them.
+To help us improve our Privacy Policy and practice we need your feedback. Please use our [Contact Us](https://web.archive.org/web/20100624215953id_/http%3A//www.asfurniture.com/webapp/wcs/stores/servlet/ContactUsView?storeId=10101&catalogId=10154&langId=-1) page by submitting any comments or questions and we will do our best to answer them.
 
 Last modified: 11.28.07
