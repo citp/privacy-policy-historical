@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultvideoscript.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223065230id_/http%3A//www.adultvideoscript.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultvideoscript.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624223905id_/http%3A//www.adultvideoscript.com/privacy) for the most accurate reproduction.*
 
 # Privacy - AVS | Adult Video Script - Pornhub Clone - Redtube Clone - YouPorn Clone
 
