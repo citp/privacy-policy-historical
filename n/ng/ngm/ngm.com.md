@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngm.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218185914id_/http%3A//ngm.nationalgeographic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngm.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624025314id_/http%3A//ngm.nationalgeographic.com/privacy-policy) for the most accurate reproduction.*
 
 # National Geographic Magazine - NGM.com
 
@@ -16,7 +16,7 @@ Your Privacy Choices
 
 * You may direct us not to send you promotional materials from National Geographic, our affiliates, and our licensees.
 * You may direct us not to share your information with selected other organizations for offers of their products and services.
-* You may subscribe or unsubscribe to e-mail newsletters by going to [nationalgeographic.com/community/register.html](https://web.archive.org/web/20091218185914id_/http%3A//ngm.nationalgeographic.com/www.nationalgeographic.com/community/register.html)
+* You may subscribe or unsubscribe to e-mail newsletters by going to [nationalgeographic.com/community/register.html](https://web.archive.org/web/20100624025314id_/http%3A//ngm.nationalgeographic.com/www.nationalgeographic.com/community/register.html)
 
 Uses of Information
 
