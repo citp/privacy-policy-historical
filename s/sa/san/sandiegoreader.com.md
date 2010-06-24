@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiegoreader.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044758id_/http%3A//www.sandiegoreader.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiegoreader.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624220131id_/http%3A//www.sandiegoreader.com/privacy_policy) for the most accurate reproduction.*
 
 # San Diego Reader | Privacy Policy
 
