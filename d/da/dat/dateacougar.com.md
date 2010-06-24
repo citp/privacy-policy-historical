@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617202302id_/http%3A//www.dateacougar.com/%3Fs%3Dprivacy_pol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624075025id_/http%3A//www.dateacougar.com/%3Fs%3Dprivacy) for the most accurate reproduction.*
 
-# Date a Cougar, Cougar Dating, Dating older women, dating mature ladies @ DateACougar.com!
+# .: Date a Cougar, Cougar Dating, Dating older women, dating mature ladies @ DateACougar.com!
 
 **Privacy Policy**   
 
@@ -20,8 +20,6 @@ This Site does not knowingly seek or collect any personal information or data fr
 Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site. 
 
 **CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.**
-
- ****
 
 **IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE**
 
