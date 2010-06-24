@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ecreativeworks.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226045159id_/http%3A//www.ecreativeworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecreativeworks.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625001521id_/http%3A//www.ecreativeworks.com/privacy.htm) for the most accurate reproduction.*
 
 # About ecreativeworks Minnesota Web Design Firm - Industrial Business Web Site Design - Ecreativeworks, Inc.
+
+[](http://www.ecreativeworks.com/contact.php)
 
 ## Effective: July 1, 2004
 
