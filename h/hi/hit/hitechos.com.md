@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitechos.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204050115id_/http%3A//www.hitechos.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitechos.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624072511id_/http%3A//www.hitechos.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Offshore IT Company
 
