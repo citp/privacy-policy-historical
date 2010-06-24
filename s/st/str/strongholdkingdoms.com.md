@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606063429id_/http%3A//www.fireflyworlds.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D306%26Itemid%3D312) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624021430id_/http%3A//www.fireflyworlds.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D306%26Itemid%3D312) for the most accurate reproduction.*
 
 # Firefly Studios - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 The terms “Firefly” “we”, “us”, “our” and “ours” when used in this Privacy Policy mean FireFly Studios Limited, which includes any subsidiaries, divisions, branches or companies under common ownership or control of FireFly Studios Limited. The terms “you”, “your” and “yours” when used in this Privacy Policy mean any user of this Website. 
 
-Our Website Terms of Use are available here: [Terms of Use](https://web.archive.org/web/20090606063429id_/http%3A//www.fireflyworlds.com/index.php?option=com_content&task=view&id=304&Itemid=312)
+Our Website Terms of Use are available here: [Terms of Use](https://web.archive.org/web/20100624021430id_/http%3A//www.fireflyworlds.com/index.php?option=com_content&task=view&id=304&Itemid=312)
 
 > **1\. Introduction to Privacy Policy**
 
