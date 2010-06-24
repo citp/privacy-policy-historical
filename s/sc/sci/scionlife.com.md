@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scionlife.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175454id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DScionlife.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scionlife.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624042803id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DScionlife.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
