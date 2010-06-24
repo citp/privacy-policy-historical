@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyprusjobs.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107110432id_/http%3A//www.cyprusjobs.com/artcateg_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyprusjobs.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624085019id_/http%3A//cyprusjobs.com/artcateg_privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
