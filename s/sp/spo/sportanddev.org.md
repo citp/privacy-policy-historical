@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportanddev.org privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218004606id_/http%3A//www.sportanddev.org/privacy_policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportanddev.org privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624045818id_/http%3A//www.sportanddev.org/privacy_policy) for the most accurate reproduction.*
 
-# International Platform on Sport and Development :: Privacy policy
+# Privacy policy : International Platform on Sport and Development
 
 1\. About this privacy policy  
 This Privacy Policy covers the International Platform on Sport & Development (the ‘Platform’)’s treatment of personally identifiable information that we collect when you are on the Platform website or when you use the Platform’s services.
