@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperspin.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218100114id_/http%3A//www.hyperspin.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperspin.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624113448id_/http%3A//www.hyperspin.com/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Hyperspin Website Monitoring, Web Server Monitoring Service
 
