@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsmanswarehouse.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821010859id_/http%3A//www.sportsmanswarehouse.com/policies.cfm%3FpolicyID%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmanswarehouse.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625002704id_/http%3A//www.sportsmanswarehouse.com/policy/%3FpolicyID%3D2) for the most accurate reproduction.*
 
-# Sportsman's Warehouse - America's Premier OutfitterT
+# Sportsman's Warehouse - America's Premier Outfitter
 
 Privacy At Sportsman's Warehouse, we believe that the personal information you provide to us must be both kept private, and used in a responsible fashion. At Sportsman's Warehouse, we consistently put our best efforts towards achieving both these objectives. 
 
@@ -18,7 +18,7 @@ If you explicitly approve that a qualified Sportsman's Warehouse reseller is all
 
 Web Site Traffic and Analysis Sportsman's Warehouse gathers and analyzes information from our users routine use of the web site. We use this information to monitor what areas of the site are most active, and to help focus our continuing development efforts. 
 
-User Preferences, Opt Out If at any time you wish to be removed from our database, simply visit our opt-out webpage: http://www.sportsmanswarehouse.com/opt_out.cfm 
+User Preferences, Opt Out If at any time you wish to be removed from our database, simply visit our opt-out webpage: http://www.sportsmanswarehouse.com/email/opt_out_email.cfm 
 
 As a user, Sportsman's Warehouse requires users to provide the information specified in the registration screens for reasons specified and as provided in the user registration agreement. This information is essential to properly service. As greater functionality is added to the site, we will continue to strive to develop mechanisms and policies that best address participants preferences related to information collection and use. 
 
