@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the utshob.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219182058id_/http%3A//utshob.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utshob.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625161958id_/http%3A//www.utshob.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Utshob.com
+# Privacy Policy-utshob,Online Shopping Site,Shop Online for Fruit Baskets
 
-**Privacy** **Statement**
+WWW.UTSHOB.COM, recognizes and respects the importance of maintaining the privacy of our customers, registered members (Members) and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
 
-WWW.UTSHOB.COM, recognizes and respects the importance of maintaining the privacy of our customers, registered members (“Members”) and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
+  * the personal information we may collect from you when you visit our web site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail,
+  * why we gather information from you,
+  * how we collect it,
+  * how we use it, and
+  * the choices you have regarding our use of personal information you have provided.
 
-  * the personal information we may collect from you when you visit our web site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail, 
-  * why we gather information from you, 
-  * how we collect it, 
-  * how we use it, and 
-  * the choices you have regarding our use of personal information you have provided. 
-
-
-
-Note: You must be 18 years or older to use, subscribe or register as a member of WWW.UTSHOB.COM. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children. 
+**Note:** You must be 18 years or older to use, subscribe or register as a member of WWW.UTSHOB.COM. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children. 
 
 **Why do we gather your information?**
 
@@ -24,23 +20,18 @@ WWW.UTSHOB.COM gathers personal information to help improve our products and cus
 
 We collect information through our Web Site, emails, mail, fax, and telephone, including when you: 
 
-  * place an order, 
-  * participate in our forums, surveys, contests, sweepstakes, promotions, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and membership registrations, and 
-  * engage in other activities, services, products and resources we make accessible to our customers, members or users. 
-
-
+  * place an order,
+  * participate in our forums, surveys, contests, sweepstakes, promotions, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and membership registrations, and
+  * engage in other activities, services, products and resources we make accessible to our customers, members or users.
 
 Depending on how you interact with us, we collect some or all of the following types of information: 
-
-  * your name, address, telephone number, email address, 
-  * billing information (credit card number, expiration date and billing address), 
-  * gender and birth date, if you choose to enter such information, 
-  * products purchased and occasion type (for example, Mother’s Day), 
-  * any promotion code and related information (for example, if you are claiming frequent flyer miles), 
-  * Message and gift recipients’ names, addresses, telephone numbers and email addresses, and 
-  * other information you provide to us, including User Submissions (defined in the Terms of Use). 
-
-
+  * your name, address, telephone number, email address,
+  * billing information (credit card number, expiration date and billing address),
+  * gender and birth date, if you choose to enter such information,
+  * products purchased and occasion type (for example, Mothers Day),
+  * any promotion code and related information (for example, if you are claiming frequent flyer miles),
+  * Message and gift recipients names, addresses, telephone numbers and email addresses, and
+  * other information you provide to us, including User Submissions (defined in the Terms of Use).
 
 Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Only Members have the right to view and edit their Address Book entries. 
 
@@ -54,9 +45,9 @@ We have relationships with third parties who may receive non-personal informatio
 
 We use information we collect to communicate with you, to process your orders, to provide an enhanced and more personalized shopping experience, to inform you and your gift and message recipients of offers and discounts from WWW.UTSHOB.COM and our affiliated brands and to enable you to receive credits for purchases under loyalty or buying programs which you have joined. In addition, we may make such information (except for credit card number and expiration date, unless you consent otherwise), including aggregated information, available to selected third parties including, but not limited to, those who share or rent information for direct marketing purposes. 
 
-However, without your consent, we do not make your, or your gift or message recipients’ email addresses, available to third parties. In addition, you may instruct that other personal information about you or your message or gift recipients’ that you have provided to us not be shared with third parties by following the instructions in How to Limit the Use of Personal Information, below. 
+However, without your consent, we do not make your, or your gift or message recipients email addresses, available to third parties. In addition, you may instruct that other personal information about you or your message or gift recipients that you have provided to us not be shared with third parties by following the instructions in How to Limit the Use of Personal Information, below. 
 
-Our Affiliates, subcontractors, and agents, and any successors to our business (if we ever sell some or all of our business), are not considered to be third parties under this Policy. However, in connection with information collected under this Policy, they are required to comply with this Policy. “Affiliates” are persons or entities directly or indirectly controlling, controlled by, or under common control with www.utshob.com. 
+Our Affiliates, subcontractors, and agents, and any successors to our business (if we ever sell some or all of our business), are not considered to be third parties under this Policy. However, in connection with information collected under this Policy, they are required to comply with this Policy. Affiliates are persons or entities directly or indirectly controlling, controlled by, or under common control with www.utshob.com. 
 
 We may combine information we receive from you via our Web Site, emails, mail, fax, and telephone with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy. 
 
@@ -64,11 +55,9 @@ We reserve the right to disclose information you provide to us as required by la
 
 **Please note that any personal information you reveal or post on one our public forums (as defined in the Terms of Use), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk.**
 
- **Consent to Transfer and Submission**
+**Consent to Transfer and Submission**
 
-WWW.UTSHOB.COM is operated in the 
-
-United States. If you are located outside the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Site or otherwise providing us with information, you hereby consent to this transfer. 
+WWW.UTSHOB.COM is operated in the United States. If you are located outside the United States, please be aware that any information you provide to us will be transferred to the United States . By using the Web Site or otherwise providing us with information, you hereby consent to this transfer. 
 
 In addition, if you submit data to us about other individuals (such as your message and gift recipients), you agree that you have obtained consent from each such individual to the submission, transfer and processing of the information. Although personal information collected by us through the Web Site, emails, mail, fax, and telephone is used by us in accordance with this Privacy Policy, laws generally applicable to the protection of personal data in the U.S. may not be as stringent as those in other countries. 
 
@@ -76,12 +65,10 @@ In addition, if you submit data to us about other individuals (such as your mess
 
 WWW.UTSHOB.COM wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party web sites, you will be subject to the privacy policies and terms of use of those web sites, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other web site. 
 
-**Security and Passwords**
+**Security and Passwords**   
+If you place an order on our Web site, it encrypts the credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft\'s Internet Explorer or Netscape Navigator. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive. 
 
-  
-If you place an order on our Web site, it encrypts the credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft's Internet Explorer® or Netscape Navigator®. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive. 
-
-Portions of the Web Site (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the “Password”). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Web Site (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts. 
+Portions of the Web Site (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the Password). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Web Site (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts. 
 
 **How to Limit the Use of Personal Information**
 
@@ -89,10 +76,10 @@ We want to communicate with you only to the extent you want to hear from us. If 
 
 **From our Affiliates**
 
-If you also prefer not to have us provide personal information about you to our Affiliates, please indicate in your email or letter that you wish your instructions to apply to our “Affiliates.” 
+If you also prefer not to have us provide personal information about you to our Affiliates, please indicate in your email or letter that you wish your instructions to apply to our Affiliates. 
 
-Members can modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected “Update Membership” page. 
+Members can modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected Update Membership page. 
 
 **Your Consent and Changes to this Policy**
 
-Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified. 
+Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified.
