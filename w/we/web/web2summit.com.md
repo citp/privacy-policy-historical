@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the web2summit.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122213547id_/http%3A//www.web2summit.com/web2009/public/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2summit.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625233359id_/http%3A//www.web2summit.com/web2010/public/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Web 2.0 Summit 2009 - Co-produced by TechWeb & O'Reilly Conferences, October 20 - 22, 2009, San Francisco, CA
+# Privacy Policy: Web 2.0 Summit 2010 - Co-produced by UBM TechWeb & O'Reilly Conferences, November 15 - 17, 2010, San Francisco, CA
 
 This policy discloses what information we gather about you when you visit any of our Web sites or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses:
 
