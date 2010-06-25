@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622173354id_/http%3A//www.hk-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625081538id_/http%3A//www.hk-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HK-magazine.com
 
