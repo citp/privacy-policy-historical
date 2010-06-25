@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldspot.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620002302id_/http%3A//www.goldspot.com/custPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldspot.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625072745id_/http%3A//www.goldspot.com/custPrivacy.html) for the most accurate reproduction.*
 
 # GOLDSPOT
 
