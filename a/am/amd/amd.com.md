@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the amd.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415220948id_/http%3A//www.amd.com/us-en/Privacy/0%2C%2C1435_1437%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amd.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625083222id_/http%3A//www.amd.com/us/aboutamd/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
-
-**Privacy**  
-
 
 US Based - Last revised October 24, 2006 
 
@@ -70,7 +67,7 @@ We currently operate the web sites www.ati.amd.com and www.shopati.com(the “Si
 
 **Information We Collect From You**
 
-In order to operate the Sites and provide you with information on products and services that may be of interest to you, we may collect contact information (i.e., information that could be used to contact you, such as full name, postal address, phone number and email address, as well as your computer’s unique IP address (if any)), financial information (i.e., passwords, credit card numbers and bank and other financial institution account numbers) and demographic information (e.g., zip code, hometown, gender, purchase history information and age as well as IP addresses that are not unique to your computer) from you. Please note that nowhere on the Sites do we knowingly collect contact information or financial information from children under the age of 13. 
+In order to operate the Sites and provide you with information on products and services that may be of interest to you, we may collect contact information (i.e., information that could be used to contact you, such as full name, postal address, phone number and email address, as well as your computer’s unique IP address (if any), financial information (i.e., passwords, credit card numbers and bank and other financial institution account numbers) and demographic information (e.g., zip code, hometown, gender, purchase history information and age as well as IP addresses that are not unique to your computer) from you. Please note that nowhere on the Sites do we knowingly collect contact information or financial information from children under the age of 13. 
 
 **AMD's Use of Personal Information**
 
@@ -109,7 +106,8 @@ The AMD.com Customer Care portal also makes use of session cookies (also called 
 * Keep count of your return visits to our site or our clients' sites 
 * Accumulate and report anonymous, aggregate, statistical information on web site usage 
 * Deliver content specific to your interests 
-* Save your password so you don't have to re-enter it each time you visit our sites. 
+* Save your password so you don't have to re-enter it each time you visit our sites.   
+****
 
 **Web Beacons**
 
@@ -135,10 +133,10 @@ Once we have obtained parental consent, we only ask the child for information th
 
 A parent who has given AMD permission to collect his or her child's information can, at any time, do the following: (1) confirm, correct or have deleted the child's personal information; (2) discontinue further use of the child's information and/or communication with the child; and/or, (3) revoke his or her earlier consent to collect and use the child's information. To update your child’s profile please complete the following form http://ati.amd.com/companyinfo/legal/consent_form.html and we will review or update your child's information as appropriate. Please be sure to include in your fax or email the email address your child used to register. 
 
-**Enforcement of this Statement **
+**Enforcement of this Statement**
 
 If you have questions regarding this Statement, you should first contact privacy@amd.com. In most cases we respond to your inquiries within a 24-hour time period. 
 
 **Changes to this Statement**
 
-**ati.com** will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. For material changes to this Statement, AMD will notify you by placing prominent notice on the Web site. We encourage you to periodically review this Privacy Statement to be informed of how AMD is helping to protect your information. 
+ati.com will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. For material changes to this Statement, AMD will notify you by placing prominent notice on the Web site. We encourage you to periodically review this Privacy Statement to be informed of how AMD is helping to protect your information. 
