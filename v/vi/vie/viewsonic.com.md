@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewsonic.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217235107id_/http%3A//www.viewsonic.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewsonic.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626011501id_/http%3A//www.viewsonic.com/policy) for the most accurate reproduction.*
 
 # Viewsonic » ViewSonic: Privacy Policy
 
