@@ -1,0 +1,299 @@
+<!--The following is the downloaded HTML source of the whatscheaper.com privacy policy that was archived on 2010-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625153940id_/http%3A//www.whatscheaper.com/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="cheap airline tickets, cheap flights, cheapest fares, cheapest airline ticket">
+<meta name="keyphrases" content="cheap airline tickets, cheap flights, cheapest fares, cheapest airline ticket">
+<meta name="description" content="WhatsCheaper.com is the place to find a cheap Airline ticket and we value your privacy!">
+<title> Whatscheaper.com - Privacy Policy </title>
+<!-- Validation File -->
+<script language="javascript" src="http://www.whatscheaper.com/js/validation.js" type="text/javascript"></script>
+
+<!-- Ajax Request Files -->
+<script language="javascript" src="http://www.whatscheaper.com/js/ajax.js" type="text/javascript"></script>
+<script language="javascript" src="http://www.whatscheaper.com/js/request.js" type="text/javascript"></script>
+<script language="javascript" src="http://www.whatscheaper.com/js/display.js" type="text/javascript"></script>
+
+
+
+
+
+<!--ajax validation include file -->
+	<!--<script src="scriptaculous/lib/prototype.js" type="text/javascript"></script>
+	<script src="scriptaculous/src/effects.js" type="text/javascript"></script>
+	<script type="text/javascript" src="js/validation_ajax.js"></script>-->
+	<link rel="stylesheet" type="text/css" href="http://www.whatscheaper.com/style/style_ajax.css">
+<!--end ajax validation files -->
+
+<!-- Style Sheets Section -->
+
+<link rel="stylesheet" type="text/css" href="http://www.whatscheaper.com/style/style.css">
+<!-- JQuery time slider  -->
+<link rel="stylesheet" href="stylesheets/jslider.css" type="text/css">
+<link rel="stylesheet" href="stylesheets/jslider.blue.css" type="text/css">
+<!--START - Files for Dropdown Airport List -->
+
+<script type="text/javascript">	
+	var url_ew;
+	var mc = new Array();
+	var c = new Array();	
+	var aname = new Array();	
+	var ac = new Array();	
+	var r = new Array();	
+	var fa = new Array();	
+	var co = new Array();	
+	var myflag="1";	
+	var mytextfield;
+</script>
+
+<script language="javascript">
+	function displayAirportDropDown(str,id){
+		mytextfield=id;
+		var newid=document.getElementById(id).value;
+		if(newid.length > 2){
+			ajax_showOptions(document.getElementById(id),'getCountriesByLetters','event');
+		}
+	}
+</script>
+
+<script language="javascript" src="js/cities.js"></script>
+<script type="text/javascript" src="js/ajax-dynamic-list.js"></script>
+<script type="text/javascript" src="js/ajax1_compact.js"></script>
+<script language="javascript" src="http://www.whatscheaper.com/js/common.js" type="text/javascript"></script>
+<!--END - Files for Dropdown Airport List -->
+
+
+<!-- Timer Slide File -->
+	
+<script type="text/javascript" src="javascripts/jquery.core-1.3.2.js"></script>
+<script type="text/javascript" src="javascripts/jquery.dependClass.js"></script>
+<script type="text/javascript" src="javascripts/jquery.slider.js"></script>
+
+
+<!--win widget files-->
+	<link rel="stylesheet" href="winwidget/winwidget-css/alphacube.css" type="text/css" media="all">
+	<link rel="stylesheet" href="winwidget/winwidget-css/default.css" type="text/css" media="all">
+	<script type="text/javascript" src="winwidget/winwidget-js/prototype.js"></script>
+	<script type="text/javascript" src="winwidget/winwidget-js/effects.js"></script>
+	<script type="text/javascript" src="winwidget/winwidget-js/window.js"></script>
+<!--end win widget files-->
+
+
+
+
+</head><body><input id="FDate" type="hidden" value="mm/dd/yyyy" name="FDate">
+<input id="TDate" type="hidden" value="mm/dd/yyyy" name="TDate"> 
+<input id="CalS" name="CalS" value="06/25/2010" type="hidden">
+<input id="CalE" name="CalE" value="" type="hidden">
+
+<script src="js/cal_files/e.js" type="text/javascript"></script>
+<script src="js/cal_files/d.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/cal_files/homw.js"></script>
+<script src="js/cal_files/cal.js" type="text/javascript"></script>
+<iframe id="CalFrame" style="DISPLAY: none; Z-INDEX: 999; VISIBILITY: hidden; WIDTH: 148px; POSITION: absolute; HEIGHT: 194px" name="CalFrame" marginwidth="0" marginheight="0" src="js/cal_files/calx.htm" frameborder="0" noresize="" scrolling="no"></iframe>
+<script language="javascript" src="js/cal_files/calx.js"></script>  
+
+<script type="text/javascript">
+	var interval=setInterval(SI,10);
+	function SI(){
+		if(DE && hw){
+		
+			clearInterval(interval);
+			interval=null;
+			I();
+		}
+	}
+
+</script>
+
+<script language="javascript">
+
+function expMonthChange(year)
+{
+	var str;
+	var mnth=document.getElementById('exp_month').value;
+	
+	if(year == 2010)
+	{
+		str="<select name='exp_month' id='exp_month' class='dropdown dpwidth1'><option value='-'>-</option> <option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option><option value='11'>11</option><option value='12'>12</option> </select>";
+	}
+	else
+	{
+		str="<select name='exp_month' id='exp_month' class='dropdown dpwidth1'><option value='-'>-</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option><option value='11'>11</option><option value='12'>12</option></select>";
+	}
+	document.getElementById('expiryDate').innerHTML = str;
+	document.getElementById('exp_month').value=mnth;
+}
+
+</script>
+
+
+<div align="center">
+	<!-- Outerbody starts -->
+	<div class="outerbody">
+		<div class="header">
+			<div class="logo" onclick="window.location='http://www.whatscheaper.com/index.php'" style="cursor:pointer;"></div>
+<div class="toplinks">
+<a href="http://www.whatscheaper.com/aboutus.php?uid=4c24cdc02da2b">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/help.php?uid=4c24cdc02da2b">Help</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/sitemap.php?uid=4c24cdc02da2b">Sitemap</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/privacypolicy.php?uid=4c24cdc02da2b">Privacy Policy</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/contactus.php?uid=4c24cdc02da2b">Contact us</a>
+</div>		</div>
+		<div class="outerbodytop"></div>
+		<div class="outerbodymid">
+		
+		<!-- Menu Starts -->
+		<div class="menu">
+			
+
+
+
+<div id="header"> 
+<ul>
+	<li id="" class="menulft"></li>
+	<li id="" class="menutxt" style="margin-left:-1px;"><a href="index.php?uid=4c24cdc02da2b">Home</a></li>
+	<li id="" class="menutxt"><a href="flight.php?uid=4c24cdc02da2b">Flights</a></li>
+	<li id="" class="menutxt"><a href="hotel.php?uid=4c24cdc02da2b">Hotels</a></li>
+	<li id="" class="menutxt"><a href="vacationpackage.php?ctype=QUg=&amp;uid=4c24cdc02da2b">Vacation packages</a></li>
+
+	<li id="" class="menutxt"><a href="http://tripreservations.neatgroup.com/tripreservations/CPMerchandisingPage?DD=TRIPRESERVATIONS&amp;referrerId=None&amp;headTemplate=TripreservationsHead&amp;bodyTemplate=TripreservationsBody&amp;isShowFramework=true&amp;wt.mc_id=Tripreservations_PL_FN_Deals_txt_021610">Todays Hot Deals</a></li>
+
+	<li style="width:200px; height:36px;"></li>
+	<li style="margin-left:-1px;"><img src="images/menurgt.png" alt=""></li>
+</ul>
+
+</div>		</div>
+		<!-- Menu Ends -->
+		
+		<!-- Inner Body full Starts -->
+		<div class="innerbodyfull">
+			<div class="innerbdyfull">	
+    <div class="innerbdyfulltop"></div>
+    <div class="innerbdyfullmid">
+    	<div class="bulletb"></div><div class="head4">PRIVACY</div>
+    	<div class="txtblock" style="margin-left:25px; _margin-left:15px;">
+        	<span class="maintxt">
+			<div align="center"><span style="font-size: 10pt; color: rgb(27, 27, 27);"><br>
+<br>
+<strong><a href="/index.php">WHATSCHEAPER.COM</a> has the following Privacy policy. Please read it in its entirety!</strong></span></div>
+<br>
+<div><span style="font-size: 10pt; color: rgb(27, 27, 27);">Your privacy is very important to us ("we" or "us"). This privacy policy ("policy") describes the practices that apply to our site ("site"), including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. </span></div>
+<br>
+<div>
+<div><strong><span style="font-size: 10pt; color: rgb(27, 27, 27);">Simply put:</span></strong><span style="font-size: 10pt; color: rgb(27, 27, 27);"> <br>
+We will not collect personally identifiable information like your name, e-mail and mailing address and telephone number ("Personal Information") without your knowledge and permission. We will not disclose your Personal Information to third parties unless you have authorized us to do so. </span></div>
+<div><span style="font-size: 10pt; color: rgb(27, 27, 27);">We will take reasonable steps to protect the security of the Personal Information we collect from you. The remainder of this policy describes our information handling practices in detail. </span></div>
+<br>
+<div>
+<div><strong><span style="font-size: 10pt; color: rgb(27, 27, 27);">When You Are Just Visiting Us: </span></strong><strong><span style="font-size: 10pt; color: rgb(27, 27, 27);"><br>
+</span></strong><span style="font-size: 10pt; color: rgb(27, 27, 27);">You can always visit our site without revealing who you are or providing any Personal Information. We do collect usage information ("session data"), but it is anonymous and is not linked to you as an individual. We use session data to better understand things like how our site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our site, the variety of searches of our sites database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which our visitors connect to our site. We use this information to improve our site content and ease of use.</span></div>
+<br>
+<div>
+<div><strong><span style="font-size: 10pt; color: rgb(27, 27, 27);">If you decide To fill out one of our subscription or contact forms:</span></strong>&nbsp;</div>
+<ul type="disc">
+    <li style="color: rgb(27, 27, 27);"><strong><u><span style="font-size: 10pt;">a) Personal Information</span></u></strong><span style="font-size: 10pt;"> <br>
+    &nbsp;If you decide to fill out one of our subscription or contact forms, we will collect Personal Information about you that you voluntarily share with us. We collect Personal Information that is necessary for us to provide you with the services offered on our site. As mentioned, this Personal Information includes things like your name, e-mail and mailing address and telephone number. </span></li>
+    <li style="color: rgb(27, 27, 27);"><strong><u><span style="font-size: 10pt;">b) Sharing of Personal Information</span></u></strong><span style="font-size: 10pt;"> <br>
+    &nbsp;Other than as explained in this policy, we will not disclose any Personal Information we collect from you to others without your permission, except in certain limited circumstances: </span>
+    <ol type="1">
+        <li style="color: rgb(27, 27, 27);"><span style="font-size: 10pt;">to protect the security of our site and our rights under our Terms and Conditions of Use; </span></li>
+        <li style="color: rgb(27, 27, 27);"><span style="font-size: 10pt;">to protect ourselves against liability; </span></li>
+        <li style="color: rgb(27, 27, 27);"><span style="font-size: 10pt;">in response to legal process,&nbsp; </span></li>
+        <li style="color: rgb(27, 27, 27);"><span style="font-size: 10pt;">if we believe in good faith that the law requires it; or </span></li>
+        <li style="color: rgb(27, 27, 27);"><span style="font-size: 10pt;">in connection with a sale of our business or company. </span></li>
+    </ol>
+    </li>
+    <li style="color: rgb(27, 27, 27);"><strong><u><span style="font-size: 10pt;">c) Additional Products and Services</span></u></strong><span style="font-size: 10pt;"> <br>
+    &nbsp;We may partner with other companies to offer you additional products or services. If you sign up for any of these additional products or services, such as (but not limited too) "Fare Alerts" (which cover Flight, Car, and Hotels fare notices) we will share your name and any other Personal Information that is necessary for these other companies to provide the products or services you have signed up for. This policy will not cover the use of your Personal Information by these other companies. We encourage you to read each other company privacy policy before signing up for any of these services. </span></li>
+</ul>
+<div><strong><span style="font-size: 10pt; color: rgb(27, 27, 27);">Email Addresses, and Subscriptions:</span></strong><span style="font-size: 10pt; color: rgb(27, 27, 27);"> <br>
+When you subscribe to a farealert using the subscription form, we will share your email address with one of our travel partners, but with nobody else. You can unsubscribe at anytime by using our unsubscribe link found in the same area in which you subscribed (on our subscription page). </span></div>
+<br>
+<div>
+<div><strong><span style="font-size: 10pt; color: rgb(27, 27, 27);">Use of Cookies:</span></strong><span style="font-size: 10pt; color: rgb(27, 27, 27);"> <br>
+To enable features at the Site, we use cookies to collect and maintain aggregated data (such as the number of visitors) to help us see which areas are most popular with our users and improve and update the content on our site. While in the process of browsing our site, you also provide us with information that doesn’t reveal your personal identity what type of destination you’re exploring, for example. We use this aggregated data only as explained in this Privacy Policy. We do not connect aggregated data to any name, address, or other identifying information. <br>
+You may occasionally receive cookies from unaffiliated companies or organizations, to the extent they place advertising on our Site or are linked to the Site. These third-party cookies may collect information about you when you "click" on their advertising or content or link. This practice is standard in the Internet industry. Because of the way in which the Internet operates, we cannot control collection of this information by these third parties, and these cookies are not subject to this Privacy Policy.<br>
+</span></div>
+<br>
+<div>
+<div><strong><span style="font-size: 10pt; color: rgb(27, 27, 27);">Links:</span></strong><span style="font-size: 10pt; color: rgb(27, 27, 27);"> <br>
+Our site provides links to other sites. When you click on one of these links, you are leaving our site and entering another site that we do not control and for which we cannot be responsible. You should carefully review the privacy statements or policies on any other site that you visit because those privacy statements or policies will apply to your visit to that site and may be very different from our policy. </span></div>
+<br>
+<div>
+<div><strong><span style="font-size: 10pt; color: rgb(27, 27, 27);">Google and the DoubleClick Dart cookie</span></strong>
+<ul type="disc">
+    <li>Google, as a third party vendor, uses cookies to serve ads on your site. </li>
+    <li>Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. </li>
+    <li>Users may opt out of the use of the DART cookie by visiting the <a target="_blank" href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>. </li>
+</ul>
+</div>
+<div><strong><span style="font-size: 10pt; color: rgb(27, 27, 27);">Your Consent to this Privacy Policy:</span></strong><span style="font-size: 10pt; color: rgb(27, 27, 27);"> <br>
+Use of the Site signifies your consent, as well as the consent of the company for whom you use the Site and whose information you submit (if any), to this on-line Privacy Policy, including the collection and use of information by us, as described in this statement, and also signifies agreement to the terms of use for the Site. Continued access and use of the Site without acceptance of the terms of this Privacy Policy relieves us from responsibility to the user. </span></div>
+<br>
+<div>
+<div><strong><span style="font-size: 10pt; color: rgb(27, 27, 27);">We Right To change this Policy:</span></strong><span style="font-size: 10pt; color: rgb(27, 27, 27);"> <br>
+We reserve the right to change or update this Privacy Policy, or any of other policies or practice, at any time and will notify users of such changes or updates by posting them on the Site and/or by additional means as determined to be appropriate under the circumstances. Any changes or updates will be effective immediately upon posting to the Site. </span></div>
+<br>
+<br>
+<center><a href="/index.php">HOME</a></center> 				 				 							 							 						</div>
+</div>
+<div class="innerbdyfullbtm" style="width: auto;">&nbsp;</div>
+</div>
+<div> 				</div>
+</div>
+</div>
+</div>
+</div>            </span>
+        </div>
+    </div>
+    <div class="innerbdyfullbtm" style="width:auto"></div>
+</div>		</div>
+		<!-- Inner Body full Ends -->
+		</div>
+		<div class="outerbodybtm"></div>
+		<!-- Outerbody Ends -->
+		<!-- Footer Starts -->
+		<div class="footer">
+			<div class="footlft"><!--Recent Searches<br />-> BOS - DEN    (2/14/2009)--></div>
+<div class="footmid">3843 S. Bristol Street #290. Santa Ana, CA 92704 / Ph: 1-888-474-1232<br><br><br>
+<font color="#A9A9A9">
+Copyright © 2009-2010 Whatscheaper.com. All rights reserved.<br>
+Trip Reservations Online, D/B/A Whatscheaper.com - CST 1001990-10<br>
+<br></font>
+</div>
+<!--<div class="footrgt">Ph: 1-888-474-1232<br>2</div> -->
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12303802-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script language="JavaScript" type="text/javascript">
+<!-- Yahoo! Inc.
+var ysm_accountid  = "1VG0CQ24S710IU1K9MD5UIJ6SI8";
+document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
++ "SRC=//" + "srv3.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
++ "></SCR" + "IPT>");
+// -->
+</script><script language="JavaScript" type="text/javascript" src="//srv3.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1VG0CQ24S710IU1K9MD5UIJ6SI8"></script>		</div>
+	</div>
+</div>
+
+
+</body></html>
