@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the deluxepass.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519020924id_/http%3A//www.deluxepass.com/privacy.php%3Ftpl%3D2%26cat%3Dtn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deluxepass.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625121618id_/http%3A//deluxepass.com/privacy.php%3Ftpl%3D2%26cat%3Dtn) for the most accurate reproduction.*
 
 # Deluxe Pass - Privacy Policy
 
 ---  
-| you are in:[home](https://web.archive.org/web/20090519020924id_/http%3A//www.deluxepass.com/index.php?tpl=2&cat=tn "Home") privacy policy   
+| you are in:[home](https://web.archive.org/web/20100625121618id_/http%3A//deluxepass.com/index.php?tpl=2&cat=tn "Home") privacy policy   
 This Privacy Policy applies to the following websites: (1) [www.deluxepass.com](http://www.deluxepass.com/) (collectively, the “Sites”, or individually, a “Site”).   
    
 We are committed to protecting your privacy. The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Sites. By accessing and using our Sites, you signify your assent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Sites. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting.   
@@ -57,4 +57,4 @@ If we decide to use your personally identifiable information in a manner materia
 Contact Information  
 If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your password, user name and account number so we can service you quicker. 
 
-For [www.deluxepass.com](https://web.archive.org/web/20090519020924id_/http%3A//www.deluxepass.com/www.deluxepass.com) and its related sites, please send your e-mail to: [support@deluxepass.com](mailto:support@deluxepass.com).
+For [www.deluxepass.com](https://web.archive.org/web/20100625121618id_/http%3A//deluxepass.com/www.deluxepass.com) and its related sites, please send your e-mail to: [support@deluxepass.com](mailto:support@deluxepass.com).
