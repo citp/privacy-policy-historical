@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlescoop.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226153215id_/http%3A//www.wrestlescoop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlescoop.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626002006id_/http%3A//www.wrestlescoop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WRESTLESCOOP.COM
 
