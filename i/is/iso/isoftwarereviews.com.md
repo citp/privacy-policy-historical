@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isoftwarereviews.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223185213id_/http%3A//www.isoftwarereviews.com/isoftwarereviews-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isoftwarereviews.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626003609id_/http%3A//www.isoftwarereviews.com/isoftwarereviews-privacy-policy) for the most accurate reproduction.*
 
 # iSoftwareReviews Privacy Policy - iSoftwareReviews
 
@@ -44,7 +44,7 @@ We have use secure hosting with well known hosting company that have spam securi
 
 Since we continued improvement our website and quality and adding new features, we may need to make some change or add some new policy when we necessary. We may not inform to the visitor about change, but we may post about the change for specific period.
 
-| 767 views |
+| |
 
   
 
