@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlesvine.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105085920id_/http%3A//www.articlesvine.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesvine.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625023023id_/http%3A//www.articlesvine.com/static/privacy) for the most accurate reproduction.*
 
-# Articlesvine - Free Content for your Website or Blog - Privacy Policy
+# Articlesvine | Privacy Policy
 
 **General.** ArticlesVine places great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which ArticlesVine collects, uses, and discloses the personal information provided by you as a result of the use of ArticlesVine's Web Site and the content, information and services provided through the Web Site by ArticlesVine.
 
