@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomelibrary.org privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220192514id_/http%3A//www.awesomelibrary.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomelibrary.org privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625115200id_/http%3A//www.awesomelibrary.org/privacy.html) for the most accurate reproduction.*
 
 # About the Awesome Library
 
@@ -42,7 +42,7 @@ Here: [Home](http://www.awesomelibrary.org/) > Privacy **Privacy Policy**
   
 [Russian](http://www.awesomelibrary.org/Russian.html), [Dutch](http://www.awesomelibrary.org/dutch.html), [Greek](http://www.awesomelibrary.org/Greek.html), [Indonesian](http://www.toggletext.com/kataku_trial.php), [Portuguese](http://www.awesomelibrary.org/portuguese.html), [Chinese](http://www.awesomelibrary.org/Chinese.html), [Korean](http://www.awesomelibrary.org/Korean.html), [Japanese](http://www.awesomelibrary.org/Japanese.html),  
 Try [Index](http://www.awesomelibrary.org/ind.html), [ New](http://www.awesomelibrary.org/Office/Main/New_and_Exciting/New_and_Exciting.html), [Search Engines](http://www.awesomelibrary.org/searche.html), [Dictionary](http://www.m-w.com/dictionary.htm), or the [Bookstore](http://www.awesomelibrary.org/books.html), [Licenses](http://www.awesomelibrary.org/licenses.html),  
-[Email Us](https://web.archive.org/web/20091220192514id_/http%3A//www.awesomelibrary.org/%3Ca), [About Us](http://www.awesomelibrary.org/about.html), [Link to Us](http://www.awesomelibrary.org/codes-directories.html), or [Privacy Policy](http://www.awesomelibrary.org/privacy.html).
+[Email Us](https://web.archive.org/web/20100625115200id_/http%3A//www.awesomelibrary.org/%3Ca), [About Us](http://www.awesomelibrary.org/about.html), [Link to Us](http://www.awesomelibrary.org/codes-directories.html), or [Privacy Policy](http://www.awesomelibrary.org/privacy.html).
 
 © 2009 EDI and Dr. R. Jerry Adams  
 
