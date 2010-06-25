@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playunited.com privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310002635id_/http%3A//www.playunited.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playunited.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625151423id_/http%3A//www.playunited.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Play United Casino: Privacy Policy
 
