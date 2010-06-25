@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224134721id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625121459id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.*
 
 # Private Policy | Superior Threads
 
@@ -62,3 +62,5 @@ To protect your privacy and security, we will also take reasonable steps to veri
 **How to Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please call us at (435) 652-1867 or send us an email at info@superiorthreads.com. 
+
+Retail
