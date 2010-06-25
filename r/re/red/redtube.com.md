@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtube.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031012id_/http%3A//www.redtube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtube.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625121854id_/http%3A//redtube.com/privacy) for the most accurate reproduction.*
 
 # RedTube - Home of Porn
 
@@ -18,7 +18,7 @@ RedTube also uses cookies and/or web beacons. (A cookie is a small amount of dat
 
 We may use cookies or web beacons to: (1) determine whether visitors to the Site are unique, or whether the same user is visiting the site on multiple occassions; (2) help deliver advertisements; (3) track usage throughout the Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.); (4) store your agreement to the terms and conditions for entering and using the Site; (5) monitor aggregate metrics such as total number of visitors, pages viewed, etc.
 
-These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. RedTube does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the RedTube [Terms of Service](https://web.archive.org/terms), in the event of a dispute between RedTube and you, or if required by law to do so.
+These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. RedTube does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the RedTube [Terms of Service](http://www.redtube.com/terms), in the event of a dispute between RedTube and you, or if required by law to do so.
 
 ## Content You Submit to or Post on the Site
 
