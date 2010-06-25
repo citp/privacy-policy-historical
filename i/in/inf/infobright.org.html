@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the infobright.org privacy policy that was archived on 2009-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090420233057id_/http%3A//www.infobright.org/Legal/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infobright.org privacy policy that was archived on 2010-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625223415id_/http%3A//www.infobright.org/Legal/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -19,11 +19,12 @@
 <meta name="DC.publisher" content="">
 <meta name="DC.date.created" scheme="DCTERMS.W3CDTF" content="2008-09-05T20:28:16+0000">
 <meta name="DC.date.modified" scheme="DCTERMS.W3CDTF" content="2008-09-12T13:55:16+0000">
-<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2009-04-27T01:30:56+0000">
+<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2010-07-02T00:34:15+0000">
 <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
 <meta name="DC.rights" scheme="DCTERMS.URI" content="">
 <meta name="DC.format" content="text/html">
 <meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.infobright.org/Legal/Privacy-Policy/">
+
 
 
 <meta http-equiv="content-type" content="application/xhtml+xml; charset=iso-8859-1">
@@ -53,6 +54,28 @@
 <script type="text/javascript" src="http://www.infobright.org/js/jquery.js"></script>
 <script type="text/javascript" src="http://www.infobright.org/js/jquery.form.packed.js"></script>
 <script type="text/javascript">
+(function($) {
+    $.extend({ 
+        uiLock: function(){
+            content = '<img src="/images/CircleThickbox.gif" style="position:absolute; top: 50%; left: 50%; z-index: 10001; margin: -16px 0 0 -16px" />';
+            $('<div></div>').attr('id', 'uiLockId').css({
+                'position': 'absolute',
+                'top': 0,
+                'left': 0,
+                'z-index': 1000,
+                'opacity': 0.6,
+                'width':'100%',
+                'height':'150%',
+                'color':'white',
+                'background-color':'black'
+            }).html(content).appendTo('body');
+        },
+        uiUnlock: function(){
+            $('#uiLockId').remove();
+        }
+    });
+})(jQuery);
+
 function submitAjaxRedirectForm( options, theEl )
 {
 	if( options.form != null )
@@ -79,6 +102,7 @@ function submitAjaxRedirectForm( options, theEl )
 				}
 			},
 			success:	function(data, textStatus) {
+                $.uiUnlock();
 				if( opts.iframe == true && opts.link != null) {
 					jQuery("body").append("<iframe src='"+request+"' id='ajax_redirect_iframe' style='display:none;' width='0px' height='0px'></iframe>");
 					data = jQuery('iframe#ajax_redirect_iframe').contents();
@@ -120,7 +144,7 @@ function submitAjaxRedirectForm( options, theEl )
 		jQuery.extend(opts, options);
 		
 		if( opts.form != null )
-			jQuery(opts.form).bind('submit', function() {jQuery(opts.form).ajaxSubmit(opts); return false;});
+			jQuery(opts.form).bind('submit', function() {jQuery(opts.form).ajaxSubmit(opts); $.uiLock(); return false;});
 		else if( opts.link != null )
 			jQuery(opts.link).bind('click', function() {
 				opts = jQuery.extend(opts, {url: jQuery(this).attr('href')});
@@ -184,11 +208,11 @@ var testGroup = '';
 var testName = '';
 var testAction = '';
 
-if(testGroup == '')
+if(testGroup != '')
 	var DOCUMENTGROUP=testGroup;
-if(testName == '')
+if(testName != '')
 	var DOCUMENTNAME=testName;
-if(testAction == '')
+if(testAction != '')
 	var ACTION=testAction;
 </script>
 <!-- End of Customization Code -->
@@ -211,11 +235,19 @@ if(testAction == '')
 	hs.showCredits = false;
 </script>
 
+
+
+
+
 </head>
+
+
+
 
 <body>
 
-	<div id="container">
+
+<div id="container">
 		<div id="top">
 
 	<div class="top-logo">
@@ -244,7 +276,7 @@ if(testAction == '')
 			<div class="highslide-body">
 			<form name="login_form" method="post" action="http://www.infobright.org/">
 <div class="hiddenFields">
-<input type="hidden" name="XID" value="f03f53a763d0bd966a0408bbea75c5947cc5046d">
+<input type="hidden" name="XID" value="046522d733d97c936c73758c5aecdda711592a4e">
 <input type="hidden" name="ACT" value="9">
 <input type="hidden" name="RET" value="http://www.infobright.org/">
 <input type="hidden" name="site_id" value="1">
@@ -285,28 +317,20 @@ if(testAction == '')
 
 <ul class="prodrop4">
 	<li class="top"><a href="http://www.infobright.org" id="home" class="top_link"><span>HOME</span></a></li>
-	<li class="top"><a href="http://www.infobright.org/Downloads/What-is-ICE" id="products" class="top_link"><span>DOWNLOAD</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
+	<li class="top"><a href="http://www.infobright.org/Download/ICE/" id="products" class="top_link"><span>DOWNLOAD</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		
 		<ul class="sub1">
-		<li>
-    		<a href="http://www.infobright.org/Downloads/What-is-ICE/" title="What is ICE?">What is ICE?</a>
-		</li>
-<li>
-    		<a href="http://www.infobright.org/Downloads/join/" title="Join the Infobright Community">Join the Infobright Community</a>
-		</li>
-<li>
-    		<a href="http://www.infobright.org/Downloads/Bug-Report/" title="How to report a bug in ICE">How to report a bug in ICE</a>
-		</li>
-<li>
-    		<a href="http://www.infobright.org/Downloads/contribute/" title="How to contribute to the ICE Project">How to contribute to the ICE Project</a>
-		</li>
-<li>
-    		<a href="http://www.infobright.org/Downloads/ICE/" title="Download ICE">Download ICE</a>
-		</li>
-<li>
-    		<a href="http://www.infobright.org/Downloads/Contributed-Software/" title="Download Contributed Software">Download Contributed Software</a>
-		</li>
+			<li><a href="http://www.infobright.org/Downloads/What-is-ICE/">What is ICE?</a></li>
+			<li><a href="http://www.infobright.org/Downloads/join/">Join the Infobright Community</a></li>
+			<li><a href="http://www.infobright.org/Downloads/Bug-Report/">How to report a bug in ICE</a></li>
+			<li><a href="http://www.infobright.org/Downloads/contribute/">How to contribute to the ICE project</a></li>
+			<li><a href="http://www.infobright.org/Download/ICE/">Download ICE</a></li>
+			<li><a href="http://www.infobright.org/Downloads/Contributed-Software/">Download contributed software</a></li>
+			<li><a href="http://www.infobright.org/Downloads/Pentaho_ICE_VM/">Download the Pentaho &amp; ICE integrated Virtual Machine</a></li>
+			<li><a href="http://www.infobright.org/Downloads/Jaspersoft_ICE_VM/">Download the Jaspersoft &amp; ICE integrated Virtual Machine</a></li>
+			<li><a href="http://www.infobright.org/Downloads/Actuate/">Download the BIRT/Actuate &amp; ICE integrated Virtual Machine</a></li>
+			<li><a href="http://www.infobright.org/Downloads/Talend_VM/">Download the Talend &amp; ICE integrated Virtual Machine</a></li>
 		</ul>
 						
 		
@@ -325,10 +349,15 @@ if(testAction == '')
 	<li class="top"><a href="" id="contacts" class="top_link"><span>BLOGS</span><!--[if gte IE 7]><!--></a><!--<![endif]-->
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul class="sub3">
-			<li><a href="http://www.infobright.org/Open-Source/Blog/Community">Community Blog</a></li>
-			<li><a href="http://www.infobright.org/Open-Source/Blog/Academic">Academic Blog</a></li>
-			<li><a href="http://www.infobright.org/Open-Source/Blog/Data_Warehousing">Data Warehouse Blog</a></li> 
-			<li><a href="http://www.infobright.org/Open-source/Blog/victoria_eastwoods_blog">Victoria Eastwood's Blog</a></li> 
+			<li><a href="http://www.infobright.org/Open-Source/Blog/Community">Infobright Community</a></li>
+			<li><a href="http://www.infobright.org/Open-Source/Blog/Academic">Academia</a></li>
+			<li><a href="http://www.infobright.org/Open-Source/Blog/infobright_blog">Infobright Blog</a></li> 
+			<li><a href="http://www.infobright.org/Open-source/Blog/bob_zureks_blog">Bob Zurek</a></li> 
+			<li><a href="http://www.infobright.org/Open-source/Blog/david_lutz_blog">David Lutz</a></li> 
+			<li><a href="http://www.infobright.org/Open-source/Blog/How_to">Infobright 'How to'</a></li>
+			<li><a href="http://www.infobright.org/Open-source/Blog/MySQL">MySQL</a></li>
+			<li><hr></li>
+			<li><a href="http://www.infobright.com/Blog/ceo_blog">CEO Blog</a></li>
 		</ul>
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 	</li>
@@ -344,6 +373,9 @@ if(testAction == '')
 		</li>
 <li>
     		<a href="http://www.infobright.org/Resources/sites/" title="Suggested DW Sites">Suggested DW Sites</a>
+		</li>
+<li>
+    		<a href="http://www.infobright.org/Resources/product_roadmap/" title="Product Roadmap">Product Roadmap</a>
 		</li>
 		
 			
@@ -379,8 +411,68 @@ if(testAction == '')
 		<div class="clear"></div>
 
 </div>
+
 		
 		<!-- Center Container Hack -->
+
+             <script language="JavaScript" type="text/javascript"><!--
+function formCheck(formobj){
+	// names of mandatory fields
+	var fieldRequired = Array("first_name", "last_name", "company", "title", "email", "phone", "industry", "project" );
+	// field description to appear in the dialog box
+	var fieldDescription = Array("First Name", "Last Name", "Company", "Title", "Email", "Phone Number", "Industry", "Project"  );
+	// dialog message
+	var alertMsg = "Please complete the following fields:\n";
+	
+	var l_Msg = alertMsg.length;
+	
+	for (var i = 0; i < fieldRequired.length; i++){
+		var obj = formobj.elements[fieldRequired[i]];
+		if (obj){
+			if (obj.type == null){
+				var blnchecked = false;
+				for (var j = 0; j < obj.length; j++){
+					if (obj[j].checked){
+						blnchecked = true;
+					}
+				}
+				if (!blnchecked){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				continue;
+			}
+
+			switch(obj.type){
+			case "select-one":
+				if (obj.selectedIndex == -1 || obj.options[obj.selectedIndex].value == ""){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				break;
+			case "select-multiple":
+				if (obj.selectedIndex == -1){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				break;
+			case "text":
+			case "textarea":
+				if (obj.value == "" || obj.value == null){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				break;
+			default:
+			}
+		}
+	}
+
+	if (alertMsg.length == l_Msg){
+		return true;
+	}else{
+		alert(alertMsg);
+		return false;
+	}
+}
+// --></script>
+
 		<div id="center-container">
 			<div id="inner">
 		
@@ -487,17 +579,27 @@ Infobright web site provides links to other third party web sites. Even if the t
 			
 			<div class="sidebar-blogs-container">
 			
-				<a href="http://www.infobright.org/Open-source/Blog/Data_Warehousing">Data Warehousing</a><br>
+				<a href="http://www.infobright.org/Open-source/Blog/Infobright_blog">Infobright Blog</a><br>
 			
 			</div>
 
 			<div class="sidebar-blogs-container">
 			
-				<a href="http://www.infobright.org/Open-source/Blog/victoria_eastwoods_blog">Victoria Eastwood</a><br>
+				<a href="http://www.infobright.org/Open-source/Blog/bob_zureks_blog">Bob Zurek</a><br>
 			
 			</div>			
 
+			<div class="sidebar-blogs-container">
 			
+				<a href="http://www.infobright.org/Open-source/Blog/david_lutz_blog">David Lutz's Blog</a><br>
+			
+			</div>	
+			
+			<div class="sidebar-blogs-container">
+			
+				<a href="http://www.infobright.org/Open-Source/Blog/How_to">How To</a><br>
+			
+			</div>				
 			
 			</div>
 			
@@ -506,25 +608,6 @@ Infobright web site provides links to other third party web sites. Even if the t
 	
 	<div class="sidebar-blogs-inner">
 	
-	<div class="sidebar-categories">
-		
-		<h2>CATEGORIES</h2>
-		
-		<ul>
-		
-			<li><a href="/Open-Source/tag/Blogging">Blogging</a></li>
-			<li><a href="/Open-Source/tag/Data+Warehouse">Data Warehouse</a></li>
-			<li><a href="/Open-Source/tag/ICE">ICE</a></li>
-			<li><a href="/Open-Source/tag/MySQL">MySQL</a></li>
-			<li><a href="/Open-Source/tag/News">News</a></li>
-			<li><a href="/Open-Source/tag/Personal">Personal</a></li>
-			<li><a href="/Open-Source/tag/Schema">Schema</a></li>
-			<li><a href="/Open-Source/tag/SQL">SQL</a></li>
-		
-		
-		</ul>
-		
-	</div>
 	
 	<hr>
 	
@@ -534,16 +617,17 @@ Infobright web site provides links to other third party web sites. Even if the t
 		
 		<h3>News &amp; Events</h3>
 		<ul>
-		<li><a href="http://www.infobright.org/Blog/Archives/News_and_Events/2009/04/">April 2009</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/News_and_Events/2009/03/">March 2009</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/News_and_Events/2009/01/">January 2009</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/News_and_Events/2008/12/">December 2008</a></li>
+		<li><a href="http://www.infobright.org/Blog/Archives/News_and_Events/2010/06/">June 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/News_and_Events/2010/02/">February 2010</a></li>
 
 		</ul>
 		
 		<h3>Community Blog</h3>
 		<ul>
-		<li><a href="http://www.infobright.org/Blog/Archives/Community/2009/04/">April 2009</a></li>
+		<li><a href="http://www.infobright.org/Blog/Archives/Community/2009/12/">December 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/Community/2009/10/">October 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/Community/2009/07/">July 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/Community/2009/04/">April 2009</a></li>
 <li><a href="http://www.infobright.org/Blog/Archives/Community/2009/03/">March 2009</a></li>
 <li><a href="http://www.infobright.org/Blog/Archives/Community/2009/02/">February 2009</a></li>
 <li><a href="http://www.infobright.org/Blog/Archives/Community/2009/01/">January 2009</a></li>
@@ -556,36 +640,80 @@ Infobright web site provides links to other third party web sites. Even if the t
 		
 		<h3>Academic Blog</h3>
 		<ul>
-		<li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/04/">April 2009</a></li>
+		<li><a href="http://www.infobright.org/Blog/Archives/Academic/2010/01/">January 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/12/">December 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/09/">September 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/08/">August 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/07/">July 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/06/">June 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/05/">May 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/04/">April 2009</a></li>
 <li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/03/">March 2009</a></li>
 <li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/02/">February 2009</a></li>
 <li><a href="http://www.infobright.org/Blog/Archives/Academic/2009/01/">January 2009</a></li>
 <li><a href="http://www.infobright.org/Blog/Archives/Academic/2008/12/">December 2008</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/Academic/2008/11/">November 2008</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/Academic/2008/09/">September 2008</a></li>
 
 		</ul>
 		
 		<h3>Data Warehousing Blog</h3>
 		<ul>
-		<li><a href="http://www.infobright.org/Blog/Archives/Data_Warehousing/2009/03/">March 2009</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/Data_Warehousing/2009/02/">February 2009</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/Data_Warehousing/2009/01/">January 2009</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/Data_Warehousing/2008/12/">December 2008</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/Data_Warehousing/2008/11/">November 2008</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/Data_Warehousing/2008/10/">October 2008</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/Data_Warehousing/2008/09/">September 2008</a></li>
+		<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2010/06/">June 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2010/05/">May 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2010/04/">April 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2010/03/">March 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2009/10/">October 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2009/09/">September 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2009/08/">August 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2009/07/">July 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2009/05/">May 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2009/04/">April 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2009/03/">March 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/infobright_blog/2009/02/">February 2009</a></li>
 
 		</ul>
 		
-		<h3>Victoria Eastwood</h3>
+		<h3>Bob Zurek</h3>
 		<ul>
-		<li><a href="http://www.infobright.org/Blog/Archives/victoria_eastwoods_blog/2009/03/">March 2009</a></li>
-<li><a href="http://www.infobright.org/Blog/Archives/victoria_eastwoods_blog/2008/12/">December 2008</a></li>
+		<li><a href="http://www.infobright.org/Blog/Archives/bob_zureks_blog/2010/06/">June 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/bob_zureks_blog/2010/05/">May 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/bob_zureks_blog/2010/04/">April 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/bob_zureks_blog/2010/03/">March 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/bob_zureks_blog/2010/02/">February 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/bob_zureks_blog/2009/12/">December 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/bob_zureks_blog/2009/10/">October 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/bob_zureks_blog/2009/07/">July 2009</a></li>
+
+		</ul>
+		
+
+		<h3>David Lutz</h3>
+		<ul>
+		<li><a href="http://www.infobright.org/Blog/Archives/david_lutz_blog/2010/05/">May 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/david_lutz_blog/2010/04/">April 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/david_lutz_blog/2009/10/">October 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/david_lutz_blog/2009/09/">September 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/david_lutz_blog/2009/05/">May 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/david_lutz_blog/2009/02/">February 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/david_lutz_blog/2009/01/">January 2009</a></li>
 
 		</ul>
 
+		<h3>Infobright 'How to'</h3>
+		<ul>
+		<li><a href="http://www.infobright.org/Blog/Archives/How_to/2010/05/">May 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2010/03/">March 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2010/02/">February 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2010/01/">January 2010</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2009/11/">November 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2009/10/">October 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2009/09/">September 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2009/08/">August 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2009/07/">July 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2009/06/">June 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2009/05/">May 2009</a></li>
+<li><a href="http://www.infobright.org/Blog/Archives/How_to/2009/04/">April 2009</a></li>
 
+		</ul>
 		
 	</div>
 	
@@ -610,51 +738,6 @@ Infobright web site provides links to other third party web sites. Even if the t
 		<div class="sidebar-twitter-middle">
 		
 		
-		<div class="tweet">
-		
-		
-		RT Sun Software Blog:  Infobright and Sun's Unified Storage Systems  http://bit.ly/8rJ4e<hr class="tweet">
-		
-		
-		</div>
-		
-		
-		<div class="tweet">
-		
-		
-		On-Demand BI Provider Chooses End-to-End Open Solution from Jaspersoft and Infobright -  http://bit.ly/SYyQ8<hr class="tweet">
-		
-		
-		</div>
-		
-		
-		<div class="tweet">
-		
-		
-		Jaspersoft and Infobright Partner to Provide Simple, Powerful Open Source Analytics for Everyone -  http://bit.ly/tvdn2<hr class="tweet">
-		
-		
-		</div>
-		
-		
-		<div class="tweet">
-		
-		
-		Infobright 3.1 Extends Knowledge Grid with Enhanced SQL Framework and Adds Support for the Solaris 10 Operating System   http://bit.ly/jYI5K<hr class="tweet">
-		
-		
-		</div>
-		
-		
-		<div class="tweet">
-		
-		
-		MySQL UC 2009 - Today we've announced performance testing results with  SUN's Unified Storage  Sys -  http://bit.ly/zHjmN<hr class="tweet">
-		
-		
-		</div>
-		
-		
 		</div>
 		
 		
@@ -662,45 +745,45 @@ Infobright web site provides links to other third party web sites. Even if the t
 	
 	<div class="tag-cloud">
 
+<a href="http://www.infobright.org/tag/10,000+hours" title="10,000 hours" style="font-size:12px;">10,000 hours</a>
+
+<a href="http://www.infobright.org/tag/aggregate" title="aggregate" style="font-size:12px;">aggregate</a>
+
 <a href="http://www.infobright.org/tag/agile" title="agile" style="font-size:12px;">agile</a>
+
+<a href="http://www.infobright.org/tag/amazon" title="amazon" style="font-size:12px;">amazon</a>
 
 <a href="http://www.infobright.org/tag/amazon+cloud" title="amazon cloud" style="font-size:12px;">amazon cloud</a>
 
-<a href="http://www.infobright.org/tag/bi" title="bi" style="font-size:16px;">bi</a>
+<a href="http://www.infobright.org/tag/analytics" title="analytics" style="font-size:12px;">analytics</a>
+
+<a href="http://www.infobright.org/tag/appliance" title="appliance" style="font-size:12px;">appliance</a>
+
+<a href="http://www.infobright.org/tag/benchmark" title="benchmark" style="font-size:12px;">benchmark</a>
+
+<a href="http://www.infobright.org/tag/bi" title="bi" style="font-size:18px;">bi</a>
 
 <a href="http://www.infobright.org/tag/binary" title="binary" style="font-size:12px;">binary</a>
 
-<a href="http://www.infobright.org/tag/bipi" title="bipi" style="font-size:12px;">bipi</a>
+<a href="http://www.infobright.org/tag/bipi" title="bipi" style="font-size:14px;">bipi</a>
 
-<a href="http://www.infobright.org/tag/challenge" title="challenge" style="font-size:12px;">challenge</a>
+<a href="http://www.infobright.org/tag/challenge" title="challenge" style="font-size:14px;">challenge</a>
 
 <a href="http://www.infobright.org/tag/character" title="character" style="font-size:12px;">character</a>
 
+<a href="http://www.infobright.org/tag/cloud" title="cloud" style="font-size:12px;">cloud</a>
+
+<a href="http://www.infobright.org/tag/collaborative+business+intelligence" title="collaborative business intelligence" style="font-size:12px;">collaborative business intelligence</a>
+
 <a href="http://www.infobright.org/tag/column+oriented+database" title="column oriented database" style="font-size:12px;">column oriented database</a>
 
-<a href="http://www.infobright.org/tag/community" title="community" style="font-size:16px;">community</a>
+<a href="http://www.infobright.org/tag/column+stores" title="column stores" style="font-size:12px;">column stores</a>
 
-<a href="http://www.infobright.org/tag/contest" title="contest" style="font-size:12px;">contest</a>
+<a href="http://www.infobright.org/tag/columnar" title="columnar" style="font-size:12px;">columnar</a>
 
-<a href="http://www.infobright.org/tag/contributed+software" title="contributed software" style="font-size:12px;">contributed software</a>
+<a href="http://www.infobright.org/tag/community" title="community" style="font-size:18px;">community</a>
 
-<a href="http://www.infobright.org/tag/data" title="data" style="font-size:18px;">data</a>
-
-<a href="http://www.infobright.org/tag/data+warehouse" title="data warehouse" style="font-size:16px;">data warehouse</a>
-
-<a href="http://www.infobright.org/tag/data+warehousing" title="data warehousing" style="font-size:12px;">data warehousing</a>
-
-<a href="http://www.infobright.org/tag/database" title="database" style="font-size:12px;">database</a>
-
-<a href="http://www.infobright.org/tag/dba" title="dba" style="font-size:12px;">dba</a>
-
-<a href="http://www.infobright.org/tag/defects" title="defects" style="font-size:12px;">defects</a>
-
-<a href="http://www.infobright.org/tag/design" title="design" style="font-size:12px;">design</a>
-
-<a href="http://www.infobright.org/tag/development" title="development" style="font-size:12px;">development</a>
-
-<a href="http://www.infobright.org/tag/development+process" title="development process" style="font-size:12px;">development process</a>
+<a href="http://www.infobright.org/tag/concentric+sky" title="concentric sky" style="font-size:12px;">concentric sky</a>
 
 </div> 
 	
@@ -718,52 +801,52 @@ Infobright web site provides links to other third party web sites. Even if the t
 			
 			
 			
-			<p>[#440] David Lutz comments on <a href="/Blog/Entry/infobright_feature_requests">Infobright Feature Requests</a></p>
+			<p>[#8595] eonarts comments on <a href="/Blog/Entry/enhanced_logging">Enhanced logging</a></p>
 			
 			<hr>
 			
 			
-			<p>[#437] cvh@LE (Chris) comments on <a href="/Blog/Entry/infobright_feature_requests">Infobright Feature Requests</a></p>
+			<p>[#8593] David Lutz comments on <a href="/Blog/Entry/enhanced_logging">Enhanced logging</a></p>
 			
 			<hr>
 			
 			
-			<p>[#430] uwegeercken comments on <a href="/Blog/Entry/has_the_star_schema_data_models_time_passed">Has the Star Schema data model's time passed?</a></p>
+			<p>[#8592] eonarts comments on <a href="/Blog/Entry/enhanced_logging">Enhanced logging</a></p>
 			
 			<hr>
 			
 			
-			<p>[#420] John Garrett Martin comments on <a href="/Blog/Entry/agile_for_data_warehouse_projects">Agile for Data Warehouse Projects?</a></p>
+			<p>[#8591] msemsel comments on <a href="/Blog/Entry/top_five_1_2_things_you_should_know_about_columnar_databases">Top Five 1/2 Things You Should Know About Columnar Databases</a></p>
 			
 			<hr>
 			
 			
-			<p>[#29] Dominik Slezak comments on <a href="/Blog/Entry/vldb_2008_our_first_publication">VLDB 2008 &amp; our first publication</a></p>
+			<p>[#8588] Alan Musnikow comments on <a href="/Blog/Entry/top_five_1_2_things_you_should_know_about_columnar_databases">Top Five 1/2 Things You Should Know About Columnar Databases</a></p>
 			
 			<hr>
 			
 			
-			<p>[#28] Fan Min comments on <a href="/Blog/Entry/vldb_2008_our_first_publication">VLDB 2008 &amp; our first publication</a></p>
+			<p>[#8586] g.irish comments on <a href="/Blog/Entry/ice_user_tests_ice_vs_innodb">ICE User Tests ICE vs InnoDB</a></p>
 			
 			<hr>
 			
 			
-			<p>[#27] Dominik Slezak comments on <a href="/Blog/Entry/vldb_2008_our_first_publication">VLDB 2008 &amp; our first publication</a></p>
+			<p>[#8577] leilaH comments on <a href="/Blog/Entry/web_analytics_trends">Web Analytics - Trends</a></p>
 			
 			<hr>
 			
 			
-			<p>[#26] Fan Min comments on <a href="/Blog/Entry/vldb_2008_our_first_publication">VLDB 2008 &amp; our first publication</a></p>
+			<p>[#8573] Dominik Slezak comments on <a href="/Blog/Entry/welcome_back_and_introduction_to_the_web_intelligence_conference_in_toronto">Welcome Back and Introduction to the Web Intelligence Conference in Toronto, 2010</a></p>
 			
 			<hr>
 			
 			
-			<p>[#25] John Garrett Martin comments on <a href="/Blog/Entry/should_mysql_users_do_data_warehousing_differently">Should MySQL Users Do Data Warehousing Differently?</a></p>
+			<p>[#8570] jackeichow comments on <a href="/Blog/Entry/caos_open_source_adoption_survey">CAOS Open Source Adoption Survey</a></p>
 			
 			<hr>
 			
 			
-			<p>[#24] John Garrett Martin comments on <a href="/Blog/Entry/extract_transform_load_what_not_to_dofrom_someone_who_has_done_them_all">Extract Transform Load - What Not To Do...From Someone Who has Done Them All!!!</a></p>
+			<p>[#8569] jackeichow comments on <a href="/Blog/Entry/ice_3.3_available_for_download">ICE 3.3 Available for Download</a></p>
 			
 			<hr>
 				
@@ -772,6 +855,7 @@ Infobright web site provides links to other third party web sites. Even if the t
 
 
 </div>
+
 		
 		<!-- Center Container Hack End -->
 			</div> <!-- inner -->
@@ -788,7 +872,7 @@ Infobright web site provides links to other third party web sites. Even if the t
 	
 		<form id="mailinglist_form" method="post" action="http://www.infobright.org/">
 <div class="hiddenFields">
-<input type="hidden" name="XID" value="2952d46fb5178ccf1579f6d94f47fe815a7f3631">
+<input type="hidden" name="XID" value="be8c1a115f028e7cd6eb66bdfbd8cde369597d5f">
 <input type="hidden" name="ACT" value="3">
 <input type="hidden" name="RET" value="http://www.infobright.org/Legal/Privacy-Policy/">
 <input type="hidden" name="list" value="default">
@@ -818,7 +902,7 @@ Infobright web site provides links to other third party web sites. Even if the t
 			</li>
 		
 		<div class="footer-copyright">
-			Copyright © 2009 <a href="http://www.infobright.com" target="_blank">Infobright Inc.</a><a> All rights reserved. | </a><a href="http://www.hccdevelopment.com" target="_blank" rel="nofollow">HCC</a> | <a href="http://www.pixelgroove.com" target="_blank" rel="nofollow"> PG</a> 
+			Copyright © 2010 <a href="http://www.infobright.com" target="_blank">Infobright Inc.</a><a> All rights reserved. | </a><a href="http://www.hccdevelopment.com" target="_blank" rel="nofollow">HCC</a> | <a href="http://www.pixelgroove.com" target="_blank" rel="nofollow"> PG</a> 
 
 <br>
 Open source Column-oriented SQL database management software for data warehousing and business intelligence.
@@ -868,6 +952,23 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-1090625-4");
 pageTracker._trackPageview();
 </script>
+<!--Start Visitor Track Code V3.0-->
+<script type="text/javascript">
+var x, pageurl, tzo, ver, id, rp, prot, imgsrc, bn;
+id = 105557;
+ver = 3.0;
+pageurl = document.URL;
+rp = document.referrer;
+prot = location.protocol;
+bn = navigator.appName + ' v' + navigator.appVersion;
+x = new Date();
+tzo = x.getTimezoneOffset()/60;
+imgsrc = prot + '//www.visitor-track.com/admin/loghit.asp?'
++ 'id=' + id + '&rp=' + escape(rp) + '&sw=' + screen.width + '&sh=' + screen.height
++ '&pa=' + escape(pageurl) + '&bn=' + escape(bn) + '&tz=' + tzo + '&vr=' + ver;
+document.write('<img border="0" alt="" src="' + imgsrc + '">');
+</script><img border="0" alt="" src="https://www.visitor-track.com/admin/loghit.asp?id=105557&amp;rp=&amp;sw=800&amp;sh=600&amp;pa=https%3A//web.archive.org/web/20100625223415id_/http%3A//www.infobright.org/Legal/Privacy-Policy/&amp;bn=Netscape%20v5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;tz=0&amp;vr=3">
+<!--End of Visitor Track Code-->
 
 
 <script type="text/javascript">
@@ -878,6 +979,10 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-1090625-4");
 pageTracker._trackPageview();
 </script>
+
+
+
+
 
 
 </body></html>
