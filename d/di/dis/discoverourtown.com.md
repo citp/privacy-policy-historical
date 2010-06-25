@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverourtown.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419192933id_/http%3A//www.discoverourtown.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverourtown.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625115043id_/http%3A//www.discoverourtown.com/privacypolicy.html) for the most accurate reproduction.*
 
 # DiscoverOurTown Privacy Policy
 
@@ -82,9 +82,9 @@ General**
 
 DiscoverOurTown.com, Inc.
 
-622 Crawford Street
+535 Port Terminal Circle
 
-Vicksburg, MS  39180
+Vicksburg, MS  39183
 
 601-636-4404
 
