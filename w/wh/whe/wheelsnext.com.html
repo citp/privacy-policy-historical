@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the wheelsnext.com privacy policy that was archived on 2009-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213002545id_/http%3A//www.wheelsnext.com/content/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wheelsnext.com privacy policy that was archived on 2010-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625154311id_/http%3A//www.wheelsnext.com/content/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
-<!-- Developeb by: Emanuel Costa - emanuel@wheelsnext.com -->
+<!-- System Analysis, Database Design and Development: Emanuel Costa - emanuel@wheelsnext.com -->
 
 
 <meta name="ROBOTS" content="INDEX, FOLLOW"><title>Privacy Policy - Wheels Rims Tires for Cars Trucks SUVs WheelsNext.com</title>
@@ -36,8 +36,8 @@ function olMouseMove(e) {
 	
 	<script type="/text/javascript" src="/javascript/global.js"></script>
 	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-	
+			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+        
 	<script type="text/javascript" src="/javascript/jquery.simplemodal.js"></script>
     <script type="text/javascript" src="/javascript/basic.js"></script>
 	<script type="text/javascript" src="/javascript/vehicles_select.js"></script>
@@ -60,6 +60,19 @@ function olMouseMove(e) {
 
 <script type="text/javascript">
 <!--
+$(document).ready(function() {
+	$('#facebookFooter,#twitterFooter,#rssFooter').hover(
+	function() {
+		var currentImg = $(this).attr('src');
+		$(this).attr('src', currentImg.replace(".gif","_on.gif"));
+	}, 
+	function() {
+		var currentImg = $(this).attr('src');
+		$(this).attr('src', currentImg.replace("_on.gif",".gif"));
+	});
+});
+
+
 window.onload=montre;
 function montre(id) {
 
@@ -94,18 +107,22 @@ pageTracker._initData();
 pageTracker._trackPageview('/content/privacy_policy.html');
 -->
 </script>
-<h1 id="header_title">Wheels Next carries a huge selection of custom wheels, rims, wheels + tires packages and combos, low prices and top brands</h1>
+<h1 id="header_title">Shop custom wheels, rims, wheel and tire packages, huge selection low, prices and top brands</h1>
 <a name="top"></a>
 <div id="header">
 	<div class="header_content">
     	<div class="topinfo">
             <ul>
+            	<li><a href="http://www.wheelsnext.com/content/carcareone.html">Financing</a></li>
+                <li>|</li>
                 <li><a href="http://www.wheelsnext.com/vehicles-cars-brands-makes-home-packages.html">Vehicles</a></li>  
                 <li>|</li>   
                 <li><a href="http://www.wheelsnext.com/content/customer_service.html">Customer Service</a></li>  
                 <li>|</li>  
                 <!--li><a href="http://www.fedex.com/Tracking?cntry_code=us">Track Orders</a></li>  
                 <li>|</li-->   
+                <li><a href="http://www.wheelsnext.com/content/contact_us_help.html">Contact Us</a> </li>
+                <li>|</li>  
                 <li><a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=wheelsnext" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()" rel="nofollow">Share</a> <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=wheelsnext"></script></li>   
                 <li>|</li>   
                 <li><a href="http://blog.wheelsnext.com">Blog</a></li>  
@@ -367,9 +384,17 @@ google_ad_height = 15;
                 <li>|</li> 
                 <li><a href="http://www.wheelsnext.com/site-map.html" title="Web Site Map">Site Map</a></li>
             </ul>
-        	Copyright 2009 © WheelsNext. All rights reserved
+        	Copyright 2010 © WheelsNext, INC. All rights reserved.
         </div>
-    </div> <!-- End Content -->
+        <div style="text-align:center;margin-top:8px;">
+        <a href="http://www.facebook.com/Wheelsnext"><img src="/images/facebook_footer.gif" id="facebookFooter" alt="Join Wheels Next at Facebook" hspace="2" vspace="2" border="0" title="Join Wheels Next at Facebook"></a> 
+        &nbsp;
+        <a href="http://twitter.com/wheelsnext"><img src="/images/twitter_footer.gif" id="twitterFooter" alt="Follow Wheels Next on Twitter" hspace="2" vspace="2" border="0" title="Follow Wheels Next on Twitter"></a>
+		&nbsp;
+        <a href="http://blog.wheelsnext.com/rss.cfm?mode=full"><img src="/images/rss_footer.gif" id="rssFooter" alt="Read Wheels Next Blog RSS Feed" hspace="2" vspace="2" border="0" title="Read Wheels Next Blog RSS Feed"></a>        </div>
+</div> <!-- End Content -->
+
+
 </div> <!-- End Full -->
 
 
