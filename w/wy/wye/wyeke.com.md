@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyeke.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225122331id_/http%3A//www.wyeke.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyeke.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626000753id_/http%3A//www.wyeke.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
 
 # Wyeke - Privacy Policy
 
