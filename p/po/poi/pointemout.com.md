@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pointemout.com privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023192638id_/http%3A//pointemout.com/blog2/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointemout.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625175056id_/http%3A//pointemout.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | POINTEMOUT.COM
+# Privacy Notice » POINTEMOUT.COM
 
 **Pointemout.com** respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice explains how we collect, use, and safeguard information on this Website. Please read this Privacy Notice carefully. **By visiting Pointemout.com, you are accepting the practices described in this Privacy Notice and agree that any dispute over privacy is governed by this Privacy Notice and Conditions of Use.**
 
@@ -21,7 +21,7 @@ The information we learn from customers helps us personalize and continually imp
 **What About Cookies?**
 
   * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalized greetings and storage of items in your Shopping Cart between visits.
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Pointemout.com’s coolest features, and we recommend that you leave them turned on.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Pointemout.comâ€™s coolest features, and we recommend that you leave them turned on.
 
 
 
