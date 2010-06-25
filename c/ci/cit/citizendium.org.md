@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizendium.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221002421id_/http%3A//en.citizendium.org/wiki/CZ%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizendium.org privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625221313id_/http%3A//en.citizendium.org/wiki/CZ%3APrivacy_policy) for the most accurate reproduction.*
 
 # CZ:Privacy policy - Citizendium
 
@@ -22,4 +22,4 @@ It is impossible for the vast majority of contributors or readers to find out an
 [Home](https://web.archive.org/wiki/CZ:Home "CZ:Home") |  | [Getting Started](https://web.archive.org/wiki/CZ:Getting_Started "CZ:Getting Started") | [Organization](https://web.archive.org/wiki/CZ:Organization "CZ:Organization") | [Technical Help](https://web.archive.org/wiki/CZ:Technical_Help "CZ:Technical Help") | [Content Policy](https://web.archive.org/wiki/CZ:Content_Policy "CZ:Content Policy") | [Article Lists](https://web.archive.org/wiki/CZ:Article_Lists "CZ:Article Lists")  
 ---|---|---|---|---  
 [Initiatives](https://web.archive.org/wiki/CZ:Initiatives "CZ:Initiatives") | [Communication](https://web.archive.org/wiki/CZ:Communication "CZ:Communication") | [Editor Policy](https://web.archive.org/wiki/CZ:Editor_Policy "CZ:Editor Policy") | [Editorial Council](https://web.archive.org/wiki/CZ:Editorial_Council "CZ:Editorial Council") | [Constabulary](https://web.archive.org/wiki/CZ:Constabulary "CZ:Constabulary")  
-[Main Page](https://web.archive.org/wiki/Main_Page "Main Page")
+[Welcome Page](https://web.archive.org/wiki/Welcome_Page "Welcome Page")
