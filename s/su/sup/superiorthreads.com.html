@@ -1,39 +1,49 @@
-<!--The following is the downloaded HTML source of the superiorthreads.com privacy policy that was archived on 2009-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091224134721id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superiorthreads.com privacy policy that was archived on 2010-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625121459id_/http%3A//www.superiorthreads.com/private-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en_US" xmlns="http://www.w3.org/1999/xhtml" lang="en_US"><head>
+    <meta name="google-site-verification" content="DGR5F4aCcLQ8KI7dwLr5PHNlUep6EQVlraOnM84wt5M">  
+    <meta name="google-site-verification" content="bppX_I9kla7IIzMAuuHh1s-5CucEa3nZm_2QjHbfPpc">
+    <meta name="y_key" content="6aa8301bfaea9129">  
+    <meta name="msvalidate.01" content="DA3231FE1E9C5E228EC02A552F5F3E83">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Private Policy | Superior Threads</title>
     <link href="/media/styles/default.css" rel="stylesheet" type="text/css">
     <link href="/media/styles/dropmenu.css" rel="stylesheet" type="text/css">
-    <!-- <link href="/media/styles/superfish.css" rel="stylesheet" type="text/css" /> -->
+    <link href="/media/styles/vert_nav.css" rel="stylesheet" type="text/css">
 
     <!--[if gte IE 5.5000]>
         <link href="/media/styles/ie.css" rel="stylesheet" type="text/css"></link>
     <![endif]-->
-    <!--[if gte IE 7.0000]>
+    <!--[if IE 7]>
         <link href="/media/styles/ie7.css" rel="stylesheet" type="text/css"></link>
     <![endif]-->
     <link rel="shortcut icon" href="/media/images/favicon.ico">
 
     <script type="text/javascript" src="/media/global/js/jquery.js"></script>
-    <!-- <script type="text/javascript" src="/media/scripts/jquery.js"></script> -->
     <script type="text/javascript" src="/media/scripts/jquery.cycle.all.js"></script>
-
     <script type="text/javascript" src="/media/scripts/jquery.cookie.js"></script>
-    <!--[if lte IE 7.0000]>
+
     <script type="text/javascript" src="/media/scripts/superfish.js"></script>
     <script type="text/javascript" src="/media/scripts/jquery.hoverIntent.minified.js"></script>
-
     <script type="text/javascript">
-        // initialise plugins
         $(function(){
             $('ul.sf-menu').superfish({
-                autoArrows: false
+                autoArrows: false,
+                speed: "fast",
+                delay: 4000
+            });
+            $('.menu-link').click(function(evt) {
+                return false;
+            });
+            $(document).click(function() {
+                $('ul.sf-menu ul').hide()
             });
         });
     </script>
-    <![endif]-->
+
     
     
 
@@ -60,7 +70,7 @@
 
 <body>
    <div id="page">
-      <div id="title">
+      <div id="title" class="retail ">
             <div id="login_container">
                 
                 
@@ -181,7 +191,7 @@
             
             </div><!-- login container -->
          <div id="homeLink">
-            <a href="/">&nbsp;</a>
+            <a href="/"><!--&nbsp;--></a>
          </div>
          <div class="name">
              <h1>Superior Threads</h1>
@@ -192,10 +202,10 @@
 
 <div id="nav">
     <div class="menu">
-        <ul class="sf-menu">
+        <ul class="sf-menu sf-js-enabled sf-shadow">
             <li class="top">
-                <a href="/shop/">Products</a>
-                <ul>
+                <a class="menu-link" href="javascript:void(0)">Products</a>
+                <ul style="display: none; visibility: hidden;">
                     <li><a href="/shop/">All Products</a></li>
                     <li><a href="/page/331/">Product Index</a></li>
                     
@@ -206,10 +216,15 @@
                     <li><a href="/">Home</a></li>
                     <li><a href="/page/308/">Order Form</a></li>
                     <li><a href="/page/383/">About Us</a></li>
-                    <li><a href="/media/docs/inventoryList.pdf">Inventory List</a></li>
+                    <li><a href="#">Inventory Lists  ››</a>
+                        <ul class="top-sub-menu" style="display: none; visibility: hidden;">
+                            <li><a href="/media/docs/inventoryList.pdf">Inventory List (PDF)</a></li>
+                            <li><a href="/media/docs/inventoryList.xls">Inventory List (XLS)</a></li>
+                        </ul>
+                    </li>
                     <li><a href="/shop/cart/">Quick Order</a></li>
                     <li><a href="javascript:void(0)" onclick="window.open('/how-to-order/', null, 'location=no,menubar=no,scrollbars=no,status=no,resizable=no,width=400,height=300' )">How to Order</a></li>
-               <li><a href="http://flash-view.com/pub/effce75f9a/view_book.html" target="_blank">eBook Catalog</a></li>
+               <li><a href="/media/flash/ebook1/view.html" target="_blank">eBook Catalog</a></li>
                 </ul>
             </li>
             <li class="top">
@@ -217,15 +232,16 @@
                 
             </li>
             <li class="top">
-                <a href="/education/">Education</a>
+                <a class="menu-link" href="javascript:void(0)">Education</a>
                 
-                <ul id="educationDown">
+                <ul id="educationDown" style="display: none; visibility: hidden;">
 <li><a href="/education/search/">Search Education Topics</a></li>
 <li><a href="/education/">Education Topics</a></li>
 <li><a href="/page/389/">Seminars &amp; Workshops</a></li>
 <li><a href="/what-professionals-say/">What the Pros Say</a></li>
 <li><a href="/page/330/">Reference Guides</a></li>
 <li><a href="/school-of-threadology/">School of Threadology</a></li>
+<li><a href="/videos/">Videos</a></li>
 </ul>
             </li>
             <li class="top">
@@ -243,21 +259,21 @@
                 <a href="/newsletters/">Newsletter</a>
             </li>
             <li class="top">
-                <a href="#" title="Other">Other</a>
-                <ul id="otherDown">
+                <a class="menu-link" href="javascript:void(0)">Other</a>
+                <ul id="otherDown" style="display: none; visibility: hidden;">
                     <li><a href="/jokes/">Bob's Superior Jokes</a></li>
                     <li><a href="/testimonials/">Customer Comments</a></li>
                     <li><a href="/page/309/">For Teachers</a></li>
-                    <li><a href="/page/310/">Contests</a></li>
                     <li><a href="/page/383/">About Us</a></li>
                     <li><a href="/events/">Shows and Events</a></li>
                     <li><a href="/promote/">Link To Us</a></li>
                     <li><a href="/music/quilt-stash-song/">Quilt Stash Song</a></li>
                     <li><a href="/forums/">Forums</a></li>
+                    <li><a href="/quilt_guild_ideas/">Quilt Guild Ideas</a></li>
                 </ul>
             </li>
             <li class="top multi-line">
-                <a href="http://superiorthreads.blogspot.com/"><span>Mother Superior's<br>BLOG</span></a>
+                <a href="/blog/"><span>Mother Superior's<br>BLOG</span></a>
             </li>
         </ul>
     </div>
@@ -367,6 +383,7 @@ you have other questions or concerns about these privacy policies, please call
 us at (435) 652-1867 or send us an email at info@superiorthreads.com. </span></p>
 
 
+    <div style="clear:both;">
 </div><!-- content -->
 
 
@@ -380,18 +397,22 @@ us at (435) 652-1867 or send us an email at info@superiorthreads.com. </span></p
    </div>
 
 
+<div style="font-size: 4pt; color: #CCC;">Retail</div>
 </div>
+
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-2054166-8");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+    try {
+    var pageTracker = _gat._getTracker("UA-16638296-1");
+    pageTracker._trackPageview();
+    } catch(err) {}
+</script>
 
 
 
 
-</body></html>
+
+</div></body></html>
