@@ -1,24 +1,40 @@
-> *The following text is extracted and transformed from the bill.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224210438id_/http%3A//www.bill.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625220325id_/http%3A//www.bill.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Bill.com Product Overview
 
-Bill.com is committed to protecting the security and privacy of your information. We know that information regarding you and your company is extremely important and confidential. This privacy policy applies to the collection, use and disclosure of personal information we receive from users of the Site and services offered through the Site. 
+Bill.com is committed to protecting the security and privacy of your information. We know that information regarding you and your company is extremely important and confidential. This privacy policy applies to the collection, use and disclosure of personal information we receive from users of the Site and services offered through the Site. Bill.com uses the industry's most advanced security and process controls to ensure that your data is safer than it probably is today.
 
-If you have questions or concerns regarding this privacy policy, you should first contact [support@bill.com](mailto:support@bill.com). You can also reach Bill.com Customer Support by telephone at 1.866.989.BILL (2455) or by mail at 3250 Ash Street, Palo Alto, California 94306-2242.
+### Reviewed by Independent Auditors to Ensure Best-in-Class Processes
 
-**Our Security Procedures**
+  * Bill.com is SAS70 Type II Certified by leading national CPA Firm
+  * Indicates that Bill.com's information technology processes and controls have been reviewed and audited by an independent accounting and audit firm and we have completed follow up audits to ensure continued compliance
+
+
+
+### Best-in-Class Data Security
+
+  * Verisign Secured _(Click on logo to verify Verisign certificate)_
+  * Up to 256-bit encryption technology mirroring that of the banks 
+  * Firewalls and intrusion-detection devices prevent unauthorized electronic access to servers 
+  * Production servers are in high-security locked facility with biometric access controls 
+  * Offsite continuous warm backup enables Bill.com to recover from a potential disaster quickly 
+
+|   
+---|---  
+  
+### Truste Web Privacy Seal
+
+Bill.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site Bill.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact [support@bill.com](mailto:support@bill.com). You can also reach Bill.com Customer Support by telephone at 1.866.989.BILL (2455) or by mail at 3250 Ash Street, Palo Alto, California 94306-2242. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=) TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+### Our Security Procedures
 
 We design and maintain security procedures that protect your information on-line and off-line. We support 256-bit Secure Socket Layer (SSL) technology. We encrypt all sensitive data in our database. We use firewalls to prevent unauthorized electronic access to the servers where your information is stored. The servers are in a secure environment to prevent unauthorized physical access. Our employees may access your information only to help us provide you with our service. We educate all of our employees about the importance of keeping our customers' information confidential and secure.
 
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal information to you via email or conspicuous posting on this Site without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
 When you sign up for Bill.com, you provide an email address and password to access our web site. You can help protect your information by keeping your password secret and by changing it from time-to-time.
-
-**Truste Web Privacy Seal**
-
-Bill.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site Bill.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact [support@bill.com](mailto:support@bill.com). You can also reach Bill.com Customer Support by telephone at 1.866.989.BILL (2455) or by mail at 3250 Ash Street, Palo Alto, California 94306-2242. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **What Information Bill.com Collects, and How It Is Used**
 
@@ -72,4 +88,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**Effective date: 01/14/08**
+**Effective date: 06/18/10**
