@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212714id_/http%3A//www.simmonsfirst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625113405id_/http%3A//www.simmonsfirst.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ Features to help you avoid becoming a victim of Mortgage fraud or abusive lendin
 
 _**True Credit** _
 
-True Credit offers access to your personal credit information, credit monitoring for fraudulent activity, Identity Theft Insurance and more. [>>>For More Information Click Here](https://www.truecredit.com/entry/trueCreditEntry.jsp?sourceid=qIasQ@p79gLZAmuKeXC3&siteid=0040602233).
+True Credit offers access to your personal credit information, credit monitoring for fraudulent activity, Identity Theft Insurance and more. [For More Information Click Here](http://www.truecredit.com/entry/trueCreditEntry.jsp).
 
 _**Verified by VISA** _
 
