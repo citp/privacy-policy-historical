@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spyassociates.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219072847id_/http%3A//www.spyassociates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyassociates.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625214505id_/http%3A//www.spyassociates.com/privacy.php) for the most accurate reproduction.*
 
-# Spy surveillance equipment, Mini Cams, Stun gun tasers the best price for you SpyAssociates.com
+# Spy Equipment
 
 At SpyAssociates.com, we are committed to protecting your privacy. We use the information we collect to process orders and provide a more personalized Internet experience. Please read on for more detail about our security policy. 
 
