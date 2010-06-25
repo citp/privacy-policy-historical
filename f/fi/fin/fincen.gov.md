@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fincen.gov privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103061408id_/http%3A//www.fincen.gov/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fincen.gov privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626005357id_/http%3A//www.fincen.gov/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
