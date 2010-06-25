@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the web2summit.com privacy policy that was archived on 2009-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091122213547id_/http%3A//www.web2summit.com/web2009/public/content/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the web2summit.com privacy policy that was archived on 2010-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625233359id_/http%3A//www.web2summit.com/web2010/public/content/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<link href="/stylesheets/general.css?1258423604" media="screen" rel="Stylesheet" type="text/css">
+	<link href="/stylesheets/general.css?1277093680" media="screen" rel="Stylesheet" type="text/css">
 	
 		
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js">                                                                                                  
 	</script>
 		
 	
-	<script src="/javascripts/application.js?1258423604" type="text/javascript"></script>
-<script src="/javascripts/ui/minified/jquery.ui.all.min.js?1258423604" type="text/javascript"></script>
-<script src="/javascripts/ui-ext/ui.bgiframe.min.js?1258423604" type="text/javascript"></script>
-<script src="/javascripts/ui-ext/ui.stars.pack.js?1258423604" type="text/javascript"></script>
-<script src="/javascripts/ui-ext/ui.dimensions.js?1258423604" type="text/javascript"></script>
-<script src="/javascripts/ext/jquery.form.min.js?1258423604" type="text/javascript"></script>
+	<script src="/javascripts/application.js?1277093680" type="text/javascript"></script>
+<script src="/javascripts/ui/minified/jquery.ui.all.min.js?1277093680" type="text/javascript"></script>
+<script src="/javascripts/ui-ext/ui.bgiframe.min.js?1277093680" type="text/javascript"></script>
+<script src="/javascripts/ui-ext/ui.stars.pack.js?1277093680" type="text/javascript"></script>
+<script src="/javascripts/ui-ext/ui.dimensions.js?1277093680" type="text/javascript"></script>
+<script src="/javascripts/ext/jquery.form.min.js?1277093680" type="text/javascript"></script>
 	
 	
 	<script type="text/javascript">
@@ -36,22 +36,19 @@
 
 //-->
 </script>	
-			<link href="/web2009/public/template/css/141/1256143306" media="screen" rel="Stylesheet" type="text/css">
+			<link href="/web2010/public/template/css/197/1272063442" media="screen" rel="Stylesheet" type="text/css">
 	
 	<script src="http://assets.en.oreilly.com/1/eventprovider/1/2008v1_common.js" type="text/javascript"></script>
 
 	
 	<title>
 
-
-
   
   
   
   
 
-Privacy Policy: Web 2.0 Summit 2009 - Co-produced by TechWeb &amp; O'Reilly Conferences, October 20 - 22, 2009, San Francisco, CA
-
+Privacy Policy: Web 2.0 Summit 2010 - Co-produced by UBM TechWeb &amp; O'Reilly Conferences, November 15 - 17, 2010, San Francisco, CA
 
 
 
@@ -63,25 +60,25 @@ Privacy Policy: Web 2.0 Summit 2009 - Co-produced by TechWeb &amp; O'Reilly Conf
 
 
 
-  <link rel="alternate" type="application/rss+xml" title="O'Reilly Conferences: Web 2.0 Summit 2009" href="http://feeds2.feedburner.com/OreillyConferencesWeb20Summit">
+  <link rel="alternate" type="application/rss+xml" title="O'Reilly Conferences: Web 2.0 Summit 2010" href="http://feeds2.feedburner.com/OreillyConferencesWeb20Summit">
 
-<script src="/javascripts/superfish.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--
-jQuery(function(){
-  jQuery('div#top_level_nav ul#nav').superfish();
-  jQuery('div#top_level_nav ul#nav_left').superfish();
-  jQuery('div#top_level_nav ul#nav_right').superfish();
-});
--->
-</script>
+
+
+<link href="http://assets.en.oreilly.com/1/eventprovider/1/2010v1_css.css?02" media="screen" rel="Stylesheet" type="text/css">
+
+
+
+<script src="http://assets.en.oreilly.com/1/eventprovider/1/superfish-nav_1.4.8.js" type="text/javascript"></script>
 
 <script src="http://assets.en.oreilly.com/1/eventprovider/1/live_modalpanel.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 <!--
-	$(document).ready(function() {
-		//Start the modalpanel
+$(document).ready(function() {
+
+  $('div#top_level_nav ul#nav').superfish();
+
+  //Start the modalpanel
 		//$(document).modalPanel();
 	
 		
@@ -102,11 +99,9 @@ jQuery(function(){
 				$(this).parent().siblings("div.content").slideToggle(30);
 			}
 		});
-
-
-
-/* For Video */
-$(".fla_video_click a").toggle(
+		
+		/* Get flash onclick */
+		$(".fla_video_click > a").toggle(
       function () {
       $(this).parent('div.fla_video_click').flash(null, { version: 8 }, function(htmlOptions) {
       var params = $(this).attr('title').split('|'); 
@@ -115,6 +110,7 @@ $(".fla_video_click a").toggle(
       htmlOptions.height = params[2]; 
       if (params[3]) { htmlOptions.wmode = params[3]; }
       if (params[4]) { htmlOptions.allowscriptaccess = params[4]; }
+      htmlOptions.allowfullscreen='true';
       $(this).addClass('flash-replaced').append('<div>' + $.fn.flash.transform(htmlOptions) + '</div>');
     
       var embed_i  = $(this).children('div').children('embed');
@@ -133,36 +129,12 @@ $(".fla_video_click a").toggle(
         $(this).children('span').toggle();
       }
     );
-/* Get flash onclick */
+		
+		
+	});
 
-
-
-
-/* For Pres Files*/
-$(".fla_pres_click a").toggle(
-      function () {
-      $(this).parent('div.fla_pres_click').flash(null, { version: 8 }, function(htmlOptions) {
-      var embed = $(this).attr('title');
-      $(this).append(embed);
-    });
-    $(this).children('span').toggle();
-    return false;
-      },
-      function () {
-        $(this).parent('div.fla_pres_click').children('div').remove();
-        $(this).children('span').toggle();
-      }
-    );
-/* For Pres Files*/
-
-
-
-
-
-});
--->
+//-->
 </script>
-
 
 
 
@@ -174,11 +146,11 @@ $(".fla_pres_click a").toggle(
 
 <script src="http://assets.en.oreilly.com/1/eventprovider/1/jquery_flash.js" type="text/javascript"></script>
 
-<meta name="description" content="Web 2.0 Summit privacy policy">
+<meta name="description" content="Privacy Policy for Web 2.0 Summit 2010, held at the Palace Hotel, San Francisco, CA, November 15-17.">
 <meta name="Category" content="Conferences">
 
 
-<meta name="search_date" content="2009-10-20">
+<meta name="search_date" content="2010-11-15">
 
 
 
@@ -191,106 +163,125 @@ $(".fla_pres_click a").toggle(
 <link rel="image_src" href="http://oreilly.com/images/oreilly/oreilly_large.gif" />
 -->
 
+<!--
+Hello 
+-->
+
 </head>
 <body class="en_c_content en_a_read_content" id="en_content_read_content">
 <div id="en_content">
 <div id="en_main_parts">
-<div id="en_header"><!-- header -->
-<!--The header includes the Conference logo, date and location, and photos. -->
-			<div id="header">							
-			<div class="logo"><a href="/web2009/"> <img src="http://assets.en.oreilly.com/1/event/28/web2009_temp_logo.gif" width="158" height="76" alt="Web 2.0 Summit"></a></div>
+<div id="en_header"><!--div class="logo"><a href="/web2010/"> <img src="http://assets.en.oreilly.com/1/event/39/web2010_logo.gif" width="154" height="75" alt="Web 2.0 Summit" /></a></div-->
 
+<a href="/web2010/" title="Web 2.0 Summit" style="display:block;float:left;width:200px;height:100px;padding:10px 0 0 20px;"></a>
+
+
+<div class="stay_connected">
+   <a href="https://twitter.com/web2summit" class="wtooltip" title="Web 2.0 Summit Twitter" target="_blank"><img src="http://assets.en.oreilly.com/1/eventprovider/1/icon-twitter-trans.png" alt="Web 2.0 Summit Twitter"></a>
+
+<a href="http://www.facebook.com/web2summit" class="wtooltip" title="Web 2.0 Summit Facebook Group" target="_blank"><img src="http://assets.en.oreilly.com/1/eventprovider/1/icon-facebook-trans.png" alt="Web 2.0 Summit Facebook Group"></a>
+
+<a href="http://www.web2summit.com/linkedin" target="_blank" title="Web 2.0 Summit LinkedIn Group" class="wtooltip"><img src="http://assets.en.oreilly.com/1/eventprovider/1/icon-linkedin-trans.png" alt="Web 2.0 Summit LinkedIn Group"></a> 
+
+<a href="http://elists.oreilly.com#conferences" class="wtooltip" title="Sign Up for the Newsletter (login required)" target="_blank"><img src="http://assets.en.oreilly.com/1/eventprovider/1/icon-newsletter-trans.png" alt="Sign Up for the Newsletter (login required)"></a>
+
+<a href="http://web2summit.blip.tv/" class="wtooltip" title="Web 2.0 Summit Video on Blip.tv" target="_blank"><img src="http://assets.en.oreilly.com/1/eventprovider/1/icon-video.png" alt="Web 2.0 Summit Video on Blip.tv"></a>
+
+<a href="/web2009/public/schedule/proceedings" class="wtooltip" title="Speaker Slides &amp; Video" target="_blank"><img src="http://assets.en.oreilly.com/1/eventprovider/1/icon-slides.png" alt="Speaker Slides &amp; Video"></a>
+
+<a href="http://feeds.oreilly.com/OreillyConferencesWeb20Summit" class="wtooltip" title="Web 2.0 Summit RSS Feed" target="_blank"><img src="http://assets.en.oreilly.com/1/eventprovider/1/icon-rss-trans.png" alt="Web 2.0 Summit RSS Feed"></a>
+
+<!--a href="http://dplr.it/web2summit-2009" class="wtooltip" title="Attending? Add to Dopplr" target="_blank"><img src="http://assets.en.oreilly.com/1/eventprovider/1/icon-dopplr-trans.png" alt="Attending? Add to Dopplr" /></a-->
+
+<a href="http://del.icio.us/post" class="wtooltip" title="Tag with del.icio.us" onclick="window.open('http://del.icio.us/post?v=4&amp;partner=orn&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'delicious','toolbar=no,width=700,height=400');return false;"><img src="http://assets.en.oreilly.com/1/eventprovider/1/icon-tag-trans.png" alt="Tag with del.icio.us"></a>
+
+<!--a href="/web2010/public/schedule" class="wtooltip" title="Web 2.0 Summit Schedule"><img src="http://assets.en.oreilly.com/1/eventprovider/1/icon-hcal-trans.png" alt="Web 2.0 Summit Schedule" /></a-->
+
+<!--a class="wtooltip" title="Attendee Directory" href="/web2009/user/network"><img alt="Attendee Directory" src="http://assets.en.oreilly.com/1/eventprovider/1/icon-conflick-trans_sc.png" /></a-->
+</div>
+<div style="clear:both;"></div>
 
 
 <div id="top_level_nav">
-  <ul id="nav">
-    <li><a href="/web2009/" class="level_one">Home</a></li> 
 
-<!--li><a href="/web2009/public/sv/q/102" class="level_one">Invitation</a>
-  <ul class="level_two">
-    <li><a href="/web2009/public/sv/q/102" class="level_two">Web 2.0 Summit Invitation</a></li> 
-  </ul>
-</li-->
+<ul id="nav">
+  <li><a href="/web2010/" class="level_one">Home</a></li> 
 
-<li><a href="/web2009/public/schedule/grid" class="level_one">Conference</a>
+<li><a href="/web2010/public/sv/q/207" class="level_one">Request an Invitation</a></li>
+
+<li><a href="#" class="level_one">Conference</a>
   <ul class="level_two">
-    <li><a href="/web2009/public/schedule/grid" class="level_two">Web 2.0 Summit Schedule</a></li>
-	<li><a href="/web2009/public/schedule/speakers" class="level_two">Speakers</a></li>
-        <li><a href="/web2009/public/schedule/proceedings" class="level_two">Speaker Presentation Files</a></li>
-        <li><a href="/web2009/public/schedule/stype/Event" class="level_two">Events</a></li>
-        <li><a href="/web2009/public/content/sponsored-event-lounges" class="level_two">Sponsored Event Lounges</a></li>
-    <li><a href="/web2009/public/content/websquared-charities" class="level_two">Web Squared Charities</a></li>
-    <li><a href="/web2009/public/content/about" class="level_two">About Web 2.0 Summit</a></li>
-        <li><a href="/web2009/public/content/pricing" class="level_two">Web 2.0 Summit Pricing</a></li>
-	<li><a href="/web2009/public/content/hotel" class="level_two">Hotel &amp; Travel</a></li>
-        <li><a href="/web2009/public/content/onsite" class="level_two">Onsite Information</a></li>
-        <!--li><a href="/web2009/public/content/webcast" class="level_two">Live Webcast: June 25</a></li-->   
+    <!--li><a href="/web2010/public/schedule/grid" class="level_two">Web 2.0 Summit Schedule</a></li-->
+	<li><a href="/web2010/public/schedule/speakers" class="level_two">Speakers</a></li>
+    <!--li><a href="/web2010/public/schedule/proceedings" class="level_two">Speaker Slides &amp; Video</a></li-->
+    <!--li><a href="/web2010/public/schedule/stype/Event" class="level_two">Events</a></li-->
+    <li><a href="/web2010/public/content/about" class="level_two">About Web 2.0 Summit</a></li>
+    <li><a href="/web2010/public/content/pricing" class="level_two">Web 2.0 Summit Pricing</a></li>
+	<li><a href="/web2010/public/content/hotel" class="level_two">Hotel &amp; Travel</a></li>
+    <!--li><a href="/web2010/public/content/onsite" class="level_two">Onsite Information</a></li-->  
    </ul>
 </li>  
 
-<li><a href="/web2009/public/content/sponsors" class="level_one">Sponsors</a>
+<li><a href="/web2010/public/content/sponsors" class="level_one">Sponsors</a>
   <ul class="level_two">
-    <li><a href="/web2009/public/content/sponsors" class="level_two">Web 2.0 Summit Sponsors</a></li>
-	<li><a href="/web2009/public/content/media-sponsors" class="level_two">Media Sponsors</a></li>
-    <li><a href="/web2009/public/content/sponsorship-opportunities" class="level_two">Sponsorship Opportunities</a></li>
-    <li><a href="/web2009/public/content/resource-center" class="level_two" target="_blank">Sponsor Resource Center</a></li>
-	<!--li class="title"><a class="level_two title">External Links</a></li>
-    <li><a href="#" class="level_two" target="_blank">Exhibitor Services Manual</a></li-->
+    <li><a href="/web2010/public/content/sponsors" class="level_two">Web 2.0 Summit Sponsors</a></li>
+	<!--li><a href="/web2010/public/content/media-partners" class="level_two">Media Partners</a></li-->
+    <li><a href="/web2010/public/content/sponsorship-opportunities" class="level_two">Sponsorship Opportunities</a></li>
+    <li><a href="/web2010/public/content/resource-center" class="level_two">Sponsor Resource Center</a></li>
    </ul>
 </li>  
  
-<li><a href="/web2009/public/content/media" class="level_one">Press &amp; Media</a>
+<li><a href="/web2010/public/content/media" class="level_one">Press &amp; Media</a>
   <ul class="level_two">
-    <li><a href="/web2009/public/content/media" class="level_two">Press Info</a></li>
-	<li><a href="/web2009/public/content/pr-opportunities" class="level_two">PR Opportunities</a></li>
-	<li><a href="/web2009/public/content/news-coverage" class="level_two">News &amp; Coverage</a></li>
+    <li><a href="/web2010/public/content/media" class="level_two">Press Info</a></li>
+	<li><a href="/web2010/public/content/pr-opportunities" class="level_two">PR Opportunities</a></li>
+	<li><a href="/web2010/public/content/news-coverage" class="level_two">News &amp; Coverage</a></li>
   </ul>
 </li>
 
-<li><a href="/web2009/" class="level_one" target="_blank">More Web 2.0</a>
+<li><a href="/web2010/" class="level_one">More Web 2.0</a>
   <ul class="level_two">
-    <li><a href="http://tv.web2summit.com/" class="level_two">Web 2.0 Summit Livestream Archive</a></li>
-    <li><a href="http://www.web2summit.com/websquared" class="level_two">Web Squared White Paper</a></li>
     <li class="title"><a class="level_two title">External Links</a></li>
-        <li><a href="http://blog.web2summit.com/" class="level_two" target="_blank">Web 2.0 Summit Blog</a></li>
-        <li><a href="http://www.youtube.com/view_play_list?p=F664D8C553A57C93" class="level_two" target="_blank">Select 2009 Keynote Video</a></li>
-	<li><a href="/web2008/" class="level_two" target="_blank">Web 2.0 Summit 2008</a></li>
-    <li><a href="http://www.youtube.com/view_play_list?p=0EBE5A1ABAC1AEAE" class="level_two" target="_blank">Select 2008 Keynote Video</a></li>
+	<li><a href="http://tv.web2summit.com/" class="level_two" target="_blank">Web 2.0 Summit Livestream Archive</a></li>
+    <li><a href="http://www.web2summit.com/websquared" class="level_two" target="_blank">Web Squared White Paper</a></li>
+    <li><a href="http://blog.web2summit.com/" class="level_two" target="_blank">Web 2.0 Summit Blog</a></li>
+	<li><a href="http://web2summit.com/web2009" class="level_two" target="_blank">Web 2.0 Summit 2009</a></li>
+	<li><a href="http://web2summit.com/web2009/public/content/news-coverage" class="level_two" target="_blank">Web 2.0 Summit 2009 News &amp; Coverage</a></li>
+    <li><a href="http://www.youtube.com/view_play_list?p=F664D8C553A57C93" class="level_two" target="_blank">Select 2009 Keynote Video</a></li>
     <li><a href="http://www.web2expo.com" class="level_two" target="_blank">Web 2.0 Expo</a></li>
-	<li><a href="http://conferences.oreilly.com" class="level_two" target="_blank">O'Reilly Conferences</a></li>
-    <li><a href="http://liveevents.techweb.com/" class="level_two" target="_blank">TechWeb Live Events</a></li>
+	<li><a href="http://blog.web2expo.com/" class="level_two" target="_blank">Web 2.0 Expo Blog</a></li>
+	<li><a href="http://www.oreilly.com" class="level_two" target="_blank">O'Reilly Media</a></li>
+    <li><a href="http://conferences.oreilly.com" class="level_two" target="_blank">O'Reilly Conferences</a></li>
+	<li><a href="http://www.techweb.com/aboutus/" class="level_two" target="_blank">UBM TechWeb</a></li>
+	<li><a href="http://liveevents.techweb.com/" class="level_two" target="_blank">UBM TechWeb Live Events</a></li>
     </ul>
 </li>
 
-<li><a href="/web2009/public/content/contact" class="level_one">Connect</a>
+<li><a href="/web2010/public/content/contact" class="level_one">Connect</a>
   <ul class="level_two">
-    <li><a href="/web2009/public/content/contact" class="level_two">Contact Us</a></li>
-    <li><a href="/web2009/user/network/attending" class="level_two">Attendee Directory</a></li>
+    <li><a href="/web2010/public/content/contact" class="level_two">Contact Us</a></li>
     <li class="title"><a class="level_two title">External Links</a></li>
+	<li><a href="https://twitter.com/web2summit" class="level_two" target="_blank">Follow on Twitter</a></li>
+    <li><a href="http://www.facebook.com/web2summit" class="level_two" target="_blank">Facebook Fan Page</a></li>
+    <li><a href="http://www.linkedin.com/groups?gid=2393936" class="level_two" target="_blank">Join our LinkedIn Group</a></li>
     <li><a href="http://elists.oreilly.com#conferences" class="level_two" target="_blank">Web 2.0 Newsletter (login required)</a></li>
-	<li><a href="http://blog.web2expo.com/" class="level_two" target="_blank">Web 2.0 Expo Blog</a></li>
-	<!--li><a href="#" class="level_two" target="_blank">Web 2.0 Summit Facebook page</a></li-->
 	<li><a href="http://radar.oreilly.com" class="level_two" target="_blank">O'Reilly Radar</a></li>
   </ul>
 </li>
 
 
-<li><a href="/web2009/user/account" class="level_one">Your Account</a>
+<li><a href="/web2010/user/account" class="level_one">Your Account</a>
 <ul class="level_two">
-  <li><a href="/web2009/user/account" class="level_two">Log in</a></li>
-  <li><a href="/web2009/user/network/attending" class="level_two">Attendee Directory</a></li>
+  <li><a href="/web2010/user/account" class="level_two">Log in</a></li>
+
 </ul>
 </li>
 
-  </ul>
-</div>
+</ul>
 
+</div><!-- //top_level_nav -->
 
-
-
-
-</div> <!-- header -->
-</div>
+</div><!-- //en_header -->
 
 
 <div id="en_menubar">
@@ -301,7 +292,6 @@ $(".fla_pres_click a").toggle(
 
 
 <div id="en_main">
-
 	<div id="mid">
 	
 	
@@ -309,13 +299,15 @@ $(".fla_pres_click a").toggle(
 <div class="en_article">
 	
 	
+  
+
 	<div class="en_article_body">
 	<h1>Privacy Policy</h1>
 
 <p>This policy discloses what information we gather about you when you visit any of our Web sites or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses:</p>
 
 <ul>
-  <li><a href="#info">Information we gather and track</a></li>
+  <li><a href="#info-gather">Information we gather and track</a></li>
   <li><a href="#pers-info">Personal information</a></li>
   <li><a href="#tracking">Aggregated tracking information</a></li>
   <li><a href="#cookies">Cookies</a></li>
@@ -325,7 +317,7 @@ $(".fla_pres_click a").toggle(
   <li><a href="#update">How to update, correct, or delete your information</a></li>
 </ul>
 
-<h3 id="info">Information we gather and track</h3>
+<h3 id="info-gather">Information we gather and track</h3>
 
 <p>O'Reilly and TechWeb collect two kinds of information about users: 1) data that users volunteer by signing up to receive news and product information, entering contests, completing surveys, or buying directly from us; and 2) aggregated tracking data we collect when users interact with us. </p>
 
@@ -405,81 +397,56 @@ to receive relevant offers from our sponsors and partners.</li>
 
 	</div>
 
+  
+
+
+
 	<div class="en_article_metadata">
-		<a href="/web2009/public/content/privacy-policy">Link</a>
-	 	| 09/14/2009  4:16pm PDT
+		<a href="/web2010/public/content/privacy-policy">Link</a>
+	 	| 02/04/2010 12:06pm PST
 		
 	</div>
+
+	
+
 </div>
 
 
 </div> <!-- /mid -->
 </div><!-- en_main -->
 
-	
 
-<div id="en_footerwrap">
-<div id="en_footer"><!-- footer -->	
-			
-<p><a href="/web2009/">HOME</a> &nbsp;|&nbsp; 
-<a href="http://conferences.oreilly.com/">O'REILLY CONFERENCES</a>&nbsp;|&nbsp; 
-<a href="http://liveevents.techweb.com">TECHWEB</a> &nbsp;|&nbsp;   
-<a href="/web2009/public/content/privacy-policy">PRIVACY POLICY</a>&nbsp;|&nbsp;  
-<a href="/web2009/public/content/contact">CONTACT US</a>&nbsp;|&nbsp;  
-<a href="/web2009/public/content/sitemap">SITEMAP</a></p>
-<div class="logo"><a href="http://www.oreilly.com"><img src="http://assets.en.oreilly.com/1/event/28/web2009_footer_logo_oreilly.gif" width="111" height="24" alt="O'Reilly Media Logo" style="padding-right:20px;"></a><a href="http://www.techweb.com" target="_blank"><img src="http://assets.en.oreilly.com/1/event/28/web2009_footer_logo_techweb.gif" width="97" height="24" alt="TechWeb Logo"></a></div>
-<p>Co-produced By <a href="http://www.oreilly.com/">O'Reilly Media, Inc.</a> and <a href="http://www.techweb.com/aboutus">TechWeb</a><br>
-© 2009, O'Reilly Media, Inc. and TechWeb<br>
-(707) 827-7000 / (800) 998-9938<br>
-<a href="mailto:conf-webmaster@oreilly.com">conf-webmaster@oreilly.com</a><br>
-Event Software Powered by <a href="http://www.expectnation.com" target="_blank">Expectnation</a></p></div>
-</div>
-</div><!-- en_main_parts -->
 
-<div id="en_extra">
-
-<!-- Below I've include the right rail -->
+<div id="right_col">
 <div id="sponsors">
 
 <div class="sponsor_list_heading">Co-produced By:</div>
 
-<a href="http://www.oreilly.com"><img src="http://assets.en.oreilly.com/1/event/14/web2008_sidebar_logo_oreilly.gif" alt="O'Reilly Media Logo"></a>
+<a href="http://www.oreilly.com"><img src="http://assets.en.oreilly.com/1/eventseries/4/w2s_oreilly_logo.gif" width="120" height="15" alt="O'Reilly Media Logo" style="margin-top:10px;"></a>
 			
-<a href="http://techweb.com"><img src="http://assets.en.oreilly.com/1/event/14/web2008_sidebar_logo_trans_techweb_new.gif" alt="techweb.com"></a>
+<a href="http://techweb.com"><img src="http://assets.en.oreilly.com/1/eventseries/4/w2s_ubm_logo.gif" width="120" height="70" alt="techweb.com"></a>
+
+<div class="sponsor_list_heading" style="font-size:.9em;padding-bottom:4px;">In Association With:</div>
+
+<a href="http://www.federatedmedia.net/"><img src="http://assets.en.oreilly.com/1/eventseries/4/w2s_federated_media_logo.gif" width="120" height="48" alt="Federated Media"></a>
 
 
 
 
 
 
-<div class="sponsor_list_heading">Diamond Sponsor</div><ul class="plain sponsorList"><li><a href="http://www.sap.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/sap.gif" alt="SAP" title="SAP" height="60" width="120" border="0"></a></li></ul>
-
-
-
-
-
-<div class="sponsor_list_heading">Platinum Sponsors</div><ul class="plain sponsorList"><li><a href="http://www.juniper.net" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/juniper_networks.gif" alt="Juniper Networks" title="Juniper Networks" height="28" width="120" border="0"></a></li><li><a href="http://www.microsoft.com/" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/bing_2.gif" alt="Microsoft Corporation" title="Microsoft Corporation" height="43" width="120" border="0"></a></li><li><a href="http://www.ovi.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/ovi-nokia.gif" alt="Ovi by Nokia" title="Ovi by Nokia" height="44" width="120" border="0"></a></li></ul>
 
 
 
 
 
 
-<div class="sponsor_list_heading">Gold Sponsors</div><ul class="plain sponsorList"><li><a href="http://www.Intel.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/intel.gif" alt="Intel" title="Intel" height="79" width="120" border="0"></a></li><li><a href="http://www.myspace.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/myspace_music1.gif" alt="MySpace.com" title="MySpace.com" height="32" width="120" border="0"></a></li><li><a href="http://www.thomsonreuters.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/thomsonreuters.gif" alt="Thomson Reuters" title="Thomson Reuters" height="27" width="120" border="0"></a></li><li><a href="http://pressroom.yahoo.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/yahoo.gif" alt="Yahoo! Inc." title="Yahoo! Inc." height="29" width="140" border="0"></a></li></ul>
+
+<div class="sponsor_list_heading">Silver Sponsors</div><ul class="plain sponsorList"><li><a href="http://www.canaan.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/canaanpartners.gif" alt="Canaan Partners" title="Canaan Partners" height="39" width="120" border="0"></a></li><li><a href="http://quova.com/" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/quova.gif" alt="Quova" title="Quova" height="25" width="120" border="0"></a></li></ul>
 
 
 
-<div class="sponsor_list_heading">Silver Sponsor</div><ul class="plain sponsorList"><li><a href="http://www.nvidia.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/nvidia.gif" alt="mental images" title="mental images" height="19" width="120" border="0"></a></li></ul>
-
-
-
-
-
-<div class="sponsor_list_heading">Bronze Sponsors</div><ul class="plain sponsorList"><li><a href="http://www.answers.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/answers-corp.gif" alt="Answers.com" title="Answers.com" height="18" width="120" border="0"></a></li><li><a href="http://www.atigeo.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/atigeo.gif" alt="Atigeo" title="Atigeo" height="32" width="120" border="0"></a></li><li><a href="http://www.unitymg.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/unity-media-group.gif" alt="Unity Media Group" title="Unity Media Group" height="90" width="120" border="0"></a></li></ul>
-
-
-
-<div class="sponsor_list_heading">High Order Ignite Sponsor</div><ul class="plain sponsorList"><li><a href="http://www.omidyar.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/omidyar.gif" alt="Omidyar Network" title="Omidyar Network" height="32" width="120" border="0"></a></li></ul>
+<div class="sponsor_list_heading">Supporting Sponsor</div><ul class="plain sponsorList"><li><a href="http://www.datranmedia.com/aperture" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/aperture.gif" alt="Aperture" title="Aperture" height="34" width="120" border="0"></a></li></ul>
 
 
 
@@ -495,8 +462,6 @@ Event Software Powered by <a href="http://www.expectnation.com" target="_blank">
 
 
 
-
-<div class="sponsor_list_heading">Media Sponsors</div><ul class="plain sponsorList"><li><a href="http://www.businessinsider.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/bizinsider.gif" alt="The Business Insider" title="The Business Insider" height="70" width="120" border="0"></a></li><li><a href="http://www.govexec.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/govexecutive.gif" alt="Government Executive Media Group" title="Government Executive Media Group" height="41" width="120" border="0"></a></li><li><a href="http://mashable.com/" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/mashable_allthatsnew.gif" alt="Mashable" title="Mashable" height="33" width="120" border="0"></a></li><li><a href="http://www.nextgov.com" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/nextgov.gif" alt="Nextgov" title="Nextgov" height="33" width="120" border="0"></a></li><li><a href="http://www.topix.net" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/topix_4.gif" alt="Topix.net" title="Topix.net" height="63" width="120" border="0"></a></li><li><a href="http://www.venturebeat.com/" target="_blank"><img src="http://conferences.oreillynet.com/images/logos/venturebeat_2.gif" alt="VentureBeat" title="VentureBeat" height="16" width="120" border="0"></a></li></ul>
 
 
 
@@ -505,20 +470,39 @@ Event Software Powered by <a href="http://www.expectnation.com" target="_blank">
 
 				<div class="sponsor_list_heading">Sponsor Opportunities</div>
 				
-<p>Reach business leaders and technology influencers at the Web 2.0 Summit. Call Natalia Dugandzic at (415) 947-6709 or email <a href="mailto:ndugandzic@techweb.com">ndugandzic@techweb.com</a> or download the <a href="http://assets.en.oreilly.com/1/event/28/web2009_prospectus.pdf" target="_blank">Web 2.0 Summit Sponsor Prospectus</a> (PDF).</p>
+<p>Reach business leaders and technology influencers at the Web 2.0 Summit. Call Rob Koziura at (415) 947-6111 or email <a href="mailto:rkoziura@techweb.com">rkoziura@techweb.com</a></p>
 
-
-<!--p><a href="">Download the Sponsor Prospectus</a> (PDF).</p-->
 				
 				<div class="sponsor_list_heading">Contact Us</div>
-<p>View a complete list of <a href="/web2009/public/content/contact">Web 2.0 Summit contacts</a>.</p>
+<p>View a complete list of <a href="/web2010/public/content/contact">Web 2.0 Summit contacts</a>.</p>
 
 </div>
+</div><!-- /#right_col -->
 
-<!-- --></div>
+<div id="en_footerwrap">
+<div id="en_footer"><!-- footer -->	
+			
+<p><a href="/web2010/">HOME</a> &nbsp;|&nbsp; 
+<a href="http://conferences.oreilly.com/">O'REILLY CONFERENCES</a>&nbsp;|&nbsp; 
+<a href="http://liveevents.techweb.com">UBM TECHWEB</a> &nbsp;|&nbsp;   
+<a href="/web2010/public/content/privacy-policy">PRIVACY POLICY</a>&nbsp;|&nbsp;  
+<a href="/web2010/public/content/contact">CONTACT US</a>&nbsp;|&nbsp;  
+<a href="/web2010/public/content/sitemap">SITEMAP</a></p>
+<div class="logo"><a href="http://www.oreilly.com"><img src="http://assets.en.oreilly.com/1/event/28/web2009_footer_logo_oreilly.gif?02" width="111" height="29" alt="O'Reilly Media Logo" style="padding-right:20px;"></a><a href="http://www.techweb.com" target="_blank"><img src="http://assets.en.oreilly.com/1/event/39/web2010_ubm_techweb_footer_logo.gif" width="46" height="73" alt="UBM TechWeb Logo"></a></div>
+<p>Co-produced By <a href="http://www.oreilly.com/">O'Reilly Media, Inc.</a> and <a href="http://www.techweb.com/aboutus">UBM TechWeb</a><br>
+© 2010, O'Reilly Media, Inc. and UBM TechWeb<br>
+(707) 827-7000 / (800) 998-9938<br>
+<a href="mailto:conf-webmaster@oreilly.com">conf-webmaster@oreilly.com</a></p></div>
+</div>
+</div><!-- en_main_parts -->
+
+
 </div><!-- en_content -->
 
 <!-- effects -->
+<script src="http://assets.en.oreilly.com/1/eventprovider/1/twitter.jQuery.js" type="text/javascript"></script>
+<script src="http://assets.en.oreilly.com/1/eventprovider/1/flickr.jQuery.js" type="text/javascript"></script>
+
 <script type="text/javascript">
 <!--
 
@@ -527,16 +511,22 @@ this.wtooltip=function(){xOffset=0;yOffset=0;$("a.wtooltip").hover(function(e){t
 
 /* Show hide of Keynoters Bio and target new windw for flickr imgs*/
 $(document).ready(function () {
-  $(".read_more").click(function () {$(this).next('div.description').slideToggle("slow");});
+  $(".read_more").click(function () {$(this).next('div.en_speaker_bio').slideToggle("slow");});
   $("a.widget_icon").hover(function () {$(this).next('a').addClass("selected");}, function () {$(this).next('a').removeClass("selected");});
   $('div#widgets div.module div.photos p a').attr("target","_blank");
   $('div#widgets div.live_module_set div.photos a').attr("target","_blank");
   
+  /*Initialize Twitter and Flickr */
+  $('.get_twitter').twitter({ content_refresh: 0 });
+  $('.get_flickr').flickr({image_size: 'square', display_count: 3});
+
+
   /* Embed flash video */
   $('div.fla_video').flash(null, { version: 8 }, function(htmlOptions) {
     var params = $(this).attr('title').split('|'); htmlOptions.src = params[0]; htmlOptions.width = params[1]; htmlOptions.height = params[2]; 
     if (params[3]) { htmlOptions.wmode = params[3]; }
     if (params[4]) { htmlOptions.allowscriptaccess = params[4]; }
+    htmlOptions.allowfullscreen='true';
     $(this).addClass('flash-replaced').html($.fn.flash.transform(htmlOptions));
   });
 });
@@ -558,13 +548,15 @@ localScAcct = "orweb2events";
 <script id="s_code_script" type="text/JavaScript" src="https://assets.oreilly.com/js/s_code.js"></script>
 
 <script language="JavaScript" type="text/javascript">
-<!--
+ 
 /* Specify the Report Suite ID(s) to track here */ 
+/* localScAcct is specified in content/scripts/sitecatalyst_cfg */
 //var globalScAcct = "ororeillyglobaldev";
 var globalScAcct = "orglobal";
 
-var s_account    = localScAcct + "," + globalScAcct;
+s_account = localScAcct + "," + globalScAcct;
 
+/*s_code.js must be called via the current protocol to avoid mixed content warnings */
 var s_code_protocol;
 var s_code_url = "assets.oreilly.com/js/s_code.js";
 if (window.location.protocol == "https:"){
@@ -572,46 +564,42 @@ s_code_protocol = "https";
 }else{
 s_code_protocol = "http";
 }
-
 s_code_url = s_code_protocol + "://" + s_code_url;
-
-    document.getElementById('s_code_script').src = s_code_url;
-
-var myChannel, myPageName, myTitle, mySeries, myEvent, myEventTitle, mySection, mySection2, mySection3, myLoggedStatus,myEventPhase,localScAcct,myPubDate;
+document.getElementById('s_code_script').src = s_code_url;
 //!-->
 </script>
+
 <script language="JavaScript" type="text/javascript">
 <!--
+var myChannel, myPageName, myTitle, mySeries, myEvent, myEventTitle, mySection, mySection2, mySection3, myLoggedStatus,myEventPhase,localScAcct,myPubDate;
+
+if(typeof(myTitleAppend) == 'undefined')
+var myTitleAppend = "";
+else myTitleAppend = ": " + myTitleAppend;
+
+
 myChannel = "confs";
-myTitle   = "privacy policy";
-mySection = new Array(myChannel);
-
-
+myTitle       = "privacy policy" + myTitleAppend;
+mySection   = new Array(myChannel);
 mySeries = "web2summit";
-
 
 mySection.push(mySeries);
 mySection2 = mySection.slice(); 
 
+myEventPhase = "registration"; 
 
-
-var myEventStartDate = new Date ("October 20, 2009");
+var myEventStartDate = new Date ("November 15, 2010");
 var today            = new Date();
 if (today > myEventStartDate){
      myEventPhase = "post-conference";
 }
-
-myPubDate = "10/20/2009";
-
-myEventTitle = "Web 2.0 Summit 2009";
-myEvent      = "web2009";
-
+ myPubDate = "11/15/2010"; 
+myEventTitle = "Web 2.0 Summit 2010";
+myEvent      = "web2010";
 mySection2.push(myEvent)
 
 mySection3 = mySection2.slice(); 
-
 mySystemPageType = "article";
-
 
 mySection3.push(mySystemPageType)
 myPageName   = myChannel + ":" + myEvent + " " + myTitle;
@@ -619,13 +607,11 @@ mySection    = mySection.join(":");
 mySection2   = mySection2.join(":");
 mySection3   = mySection3.join(":");
 
-
 myLoggedStatus = "logged out";
 
-
 /* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName = myPageName; 
+the next lines..... */
+s.pageName = myPageName.toLowerCase(); 
 //s.server   = ""; OK TO DELETE THIS LINE?
 s.channel  = myChannel;
 //s.pageType = "";OK TO DELETE THIS LINE?
@@ -651,6 +637,9 @@ s.eVar2="";
 s.eVar3="";
 s.eVar4="";
 s.eVar5="";
+
+
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
@@ -659,12 +648,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 src="http://ororeillyglobaldev.122.2O7.net/b/ss/ororeillyglobaldev/1/H.20.2--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.2. -->
-
-
-<!-- aggregate knowledge -->
-
-
-
 
 
 
