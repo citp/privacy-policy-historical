@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swellpath.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426094703id_/http%3A//www.swellpath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellpath.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626013045id_/http%3A//www.swellpath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SwellPath Interactive
 
@@ -8,7 +8,7 @@ Information Collection and Use
 
 SwellPath receives a variety of “personally identifiable information,” including your email address, IP address, and message content. SwellPath also collects names and mailing addresses (including street, city, state, and zip code) from users that wish to provide that information. We use this personally identifiable information as follows:
 
-SwellPath requires that you provide your email address on the contact us section of the Site so that we are able to respond to your question(s) by email. You have the option of also providing information regarding your name, demographics (such as your state and country of residency), operating system, browser, Internet service provider (”ISP”), connection type and email program that you are using.
+SwellPath requires that you provide your email address on the contact us section of the Site so that we are able to respond to your question(s) by email. You have the option of also providing information regarding your name, demographics (such as your state and country of residency), operating system, browser, Internet service provider (“ISP”), connection type and email program that you are using.
 
 SwellPath also automatically receives and records information on our server logs from your browser, including your IP Address and the page you requested. Your IP address is not linked to your email address or SwellPath.
 
