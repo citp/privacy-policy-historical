@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212513id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625020900id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
 
 # The Article Trunk | is an article directory for free online articles
 
-|   
   
   
   
@@ -37,5 +36,4 @@ With respect to security: When we transfer and receive certain types of sensitiv
 
 If you feel that this site is not following its stated information policy, you may contact us at the above phone number or open a Support Desk ticket. 
 
-|  |   
----|---|---|---
+|  | 
