@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211121924id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625025241id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
 
 # Linking to Utah.gov - Utah.gov
 
@@ -15,7 +15,7 @@ The State of Utah (State) is committed to protecting the privacy of those access
 
 This privacy policy statement applies to all State executive branch agency Web sites except those administered by the State Board of Education, the Board of Regents, institutions of higher education, and except as described below in the section called “State Agency Privacy Policies and How They Relate to This Policy.”
 
-[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20091211121924id_/http%3A//www.utah.gov/hb25.html)
+[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20100625025241id_/http%3A//www.utah.gov/hb25.html)
 
 ### Definition of Personally Identifiable Information
 
@@ -64,7 +64,7 @@ Information collected is subject to the access provisions of GRAMA and other app
 
 All records that are prepared, owned, received, or retained by a governmental entity that may be reproduced by certain means are considered public, unless they are private, controlled or protected as outlined in GRAMA, or are records to which access is restricted according to court rule, other State law, federal law, or federal regulation. Information that is generally considered public record under GRAMA - and not made confidential elsewhere in the Utah Code or by federal law - may be subject to electronic access through Utah.Gov Web sites.
 
-Personally Identifiable Information is used by the governmental entities for the purpose of conducting official state business. A governmental entity may share Personally Identifiable Information with another governmental entity if it is designated as a record that is private, controlled, or protected as described in Section [63-2-206](http://www.le.state.ut.us/~code/TITLE63/htm/63_01014.htm) unless such data sharing is expressly prohibited, authorized or required by federal law, state law, or federal regulation. In some instances a Governor’s directive or executive order may limit or prohibit data sharing even though Section [63-2-206](http://www.le.state.ut.us/~code/TITLE63/htm/63_01014.htm) may permit such data sharing.
+Personally Identifiable Information is used by the governmental entities for the purpose of conducting official state business. A governmental entity may share Personally Identifiable Information with another governmental entity if it is designated as a record that is private, controlled, or protected as described in Section [63-2-206](http://le.utah.gov/~code/TITLE63/htm/63_01014.htm) unless such data sharing is expressly prohibited, authorized or required by federal law, state law, or federal regulation. In some instances a Governor’s directive or executive order may limit or prohibit data sharing even though Section [63-2-206](http://le.utah.gov/~code/TITLE63/htm/63_01014.htm) may permit such data sharing.
 
 ### Data Security and Quality
 
@@ -88,4 +88,4 @@ Visitors may link to various Web sites from State Web pages. The State is not re
 
 ### Changes to and Versions of the Privacy Policy
 
-This privacy policy may be changed at any time; any changes will be posted on this web page. The version number and date the policy was last revised will be noted on the policy. Information collected while a particular version of this policy is in effect will be handled in accordance with that version. If you have questions, comments, or concerns, please [contact us](http://utahn.gov/contact.html).
+This privacy policy may be changed at any time; any changes will be posted on this web page. The version number and date the policy was last revised will be noted on the policy. Information collected while a particular version of this policy is in effect will be handled in accordance with that version. If you have questions, comments, or concerns, please [contact us](http://utah.gov/contact.html).
