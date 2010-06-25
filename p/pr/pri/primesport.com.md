@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primesport.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primesport.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp) for the most accurate reproduction.*
 
 # PrimeSport Privacy Policy
 
@@ -6,13 +6,13 @@ Please read this page carefully and in its entirety as it details important info
 
 ### Main Contents
 
-**[1.0 Agreement; Terms and Conditions](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#1)   
-[2.0 Changes in Terms and Conditions](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#2)   
-[ 3.0 Ticket Purchase Policy](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#3)   
-[ 4.0 Indemnity](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#4)   
-[ 5.0 Privacy Policy](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#5)   
-[6.0 Non-Affiliations](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#6)   
-[7.0 Contacting Us](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#1)**
+**[1.0 Agreement; Terms and Conditions](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#1)   
+[2.0 Changes in Terms and Conditions](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#2)   
+[ 3.0 Ticket Purchase Policy](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#3)   
+[ 4.0 Indemnity](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#4)   
+[ 5.0 Privacy Policy](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#5)   
+[6.0 Non-Affiliations](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#6)   
+[7.0 Contacting Us](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#1)**
 
 #### 1.0 Agreement; Terms and Conditions
 
@@ -42,11 +42,11 @@ All users and visitors of this website agree to indemnify and hold PrimeSport, i
 
 #### 5.0 Privacy Policy
 
-**[a. Overview](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#a)**  
-**[b. What information we gather and track and what we do with it](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#b)**  
-**[c. Cookies](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#c)**  
-**[d. Security of sensitive data](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#d)**  
-**[e. Opt-out policy](https://web.archive.org/web/20090619192916id_/http%3A//www.primesport.com/inc/privacy-policy.asp#e)**
+**[a. Overview](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#a)**  
+**[b. What information we gather and track and what we do with it](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#b)**  
+**[c. Cookies](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#c)**  
+**[d. Security of sensitive data](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#d)**  
+**[e. Opt-out policy](https://web.archive.org/web/20100625144648id_/http%3A//www.primesport.com/inc/privacy-policy.asp#e)**
 
   * **a. Overview**   
 PrimeSport is firmly committed to protecting the privacy of our customers and visitors to our website. This page details how we collect information from customers and visitors, what we do with that information, how secure the information is kept and what alternatives you have available regarding our mailing lists.
