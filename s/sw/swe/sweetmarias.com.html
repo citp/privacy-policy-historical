@@ -1,295 +1,847 @@
-<!--The following is the downloaded HTML source of the sweetmarias.com privacy policy that was archived on 2006-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061115224256id_/http%3A//sweetmarias.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sweetmarias.com privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626015224id_/http%3A//www.sweetmarias.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head>
-   <title>Sweet Maria's Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head><script>
+<!--	
+    function attach_file() {
+		max_dict();
+		if (document.getSelection) {
+    		var str = document.getSelection();
+  		} else if (window.getSelection) {
+    		var str = window.getSelection();
+  		} else if (document.selection && document.selection.createRange) {
+    		var range = document.selection.createRange();
+    		var str = range.text;
+  		}
+		if (str) {
+						str = escape(str);
+						str=str.replace("+", "%2B");
+                        // create new script element, set its relative URL, and load it
+						document.luf.term.value = str;
+                        var script = document.createElement( 'script' );
+                        script.src = 'http://www.sweetmarias.com/define_helper.php?id=' + str;
+                        document.getElementsByTagName( 'head' )[0].appendChild( script );					
+                  }
+	}
+				  
+	function attach_file_link(term) {
+		max_dict();
+    	// create new script element, set its relative URL, and load it
+        var script = document.createElement( 'script' );
+		term = escape(term);
+		term=term.replace("+", "%2B");
+        script.src = 'http://www.sweetmarias.com/define_helper.php?id=' + term;
+        document.getElementsByTagName( 'head' )[0].appendChild( script );	
+	}
+	
+	function lookup_textbox() {
+		var term = document.luf.term.value;
+		if (term) {
+			attach_file_link(term);
+		} else {
+			if (document.getSelection) {
+    			var str = document.getSelection();
+  			} else if (window.getSelection) {
+    			var str = window.getSelection();
+  			} else if (document.selection && document.selection.createRange) {
+    			var range = document.selection.createRange();
+    			var str = range.text;
+  			}
+			if (str) {
+				document.luf.term.value = str;
+				attach_file_link(str);
+			}
+		}
+		return false;
+	}
+	
+	document.onkeydown = checkKeycode
+	function checkKeycode(e) {
+		var keycode;
+		if (window.event) keycode = window.event.keyCode;
+		else if (e) keycode = e.which;
+		if (keycode == 68) {
+			attach_file();
+		}
+	}
+				  
+ 	
+-->
+</script><title>Sweet Maria's Privacy Policy</title>
    <meta name="Author" content="Sweet Maria's Home Coffee Roasting Supplies">
-   <meta name="GENERATOR" content="User-Agent: Mozilla/3.04Gold (Macintosh; I; 68K)">   <link href="defaultfont1.css" rel="stylesheet" type="text/css">
+   <meta name="GENERATOR" content="User-Agent: Mozilla/3.04Gold (Macintosh; I; 68K)">   <link href="sm_general_css.css" rel="stylesheet" type="text/css">
+   <link href="new_style.css" rel="stylesheet" type="text/css">
+   <script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+// cookie functions from quirksmode
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+
+// function to keep sidebar menu state based on cookies
+function show_cook(name) {
+	var x = readCookie(name);
+	if (x != null) {
+		var opener_txt = name+'_open';
+		var y = document.getElementById(name);
+		y.style.display = x;
+		var z;
+		if (z = document.getElementById(opener_txt)) {
+			z.innerHTML = (x == 'none') ? '+' : '-';
+		}
+	}
+}
+
+function showHide_sb(theid){
+    if (document.getElementById) {
+    	var opener_txt = theid+'_open';
+		var switch_id = document.getElementById(theid);
+		var opener_id = document.getElementById(opener_txt);
+		
+		// if currently invisible
+        if(switch_id.style.display == 'none') {
+			// make this visible
+ 	       	switch_id.style.display = 'block';
+			opener_id.innerHTML = '-';
+			createCookie(theid, 'block', 1);		
+		//otherwise, we're hiding the thing
+		} else{
+		   switch_id.style.display = 'none';
+		   opener_id.innerHTML = '+';
+		   createCookie(theid, 'none', 1);
+        }
+    }
+}
+
+function menu_cooks() {
+	show_cook('sub_green_coffee');
+	show_cook('sub_central');
+	show_cook('sub_south');
+	show_cook('sub_africa');
+	show_cook('sub_asia');
+	show_cook('sub_islands');
+	show_cook('sub_products');
+	show_cook('sub_grinders');
+	show_cook('sub_roasters');
+	show_cook('sub_library');
+	show_cook('define_container');
+	show_cook('definebox');
+	show_cook('define_body');
+	show_cook('gloss_min');
+	show_cook('sub_ordering');
+	show_cook('sub_glossary');
+	show_cook('sub_roasted');
+	show_cook('sub_search');
+}
+
+// not for sidebar: function to flip the review to display the spider graph
+function show_spider(ident) {
+	var rev = ident+'rev';
+	var img = ident+'img';
+	var imgtext = ident+'spider';
+	var revtext = ident+'review';
+	var imgtext3 = ident+'spider2';
+	var revtext3 = ident+'review2';
+
+
+	var image = document.getElementById(img);
+	var imgtext2 = document.getElementById(imgtext);
+	var revtext2 = document.getElementById(revtext);
+	var imgtext4 = document.getElementById(imgtext3);
+	var revtext4 = document.getElementById(revtext3);
+	
+	image.style.display = 'block';
+	imgtext2.style.display = 'none';
+	revtext2.style.display = 'block';
+	imgtext4.style.display = 'none';
+	revtext4.style.display = 'block';
+
+}
+function show_review(ident) {
+	var img = ident+'img';
+	var imgtext = ident+'spider';
+	var revtext = ident+'review';
+	var imgtext3 = ident+'spider2';
+	var revtext3 = ident+'review2';
+	
+	var image = document.getElementById(img);
+	var imgtext2 = document.getElementById(imgtext);
+	var revtext2 = document.getElementById(revtext);
+	var imgtext4 = document.getElementById(imgtext3);
+	var revtext4 = document.getElementById(revtext3);
+	
+	image.style.display = 'none';
+	imgtext2.style.display = 'block';
+	revtext2.style.display = 'none';
+	imgtext4.style.display = 'block';
+	revtext4.style.display = 'none';
+}
+
+function min_dict() {
+	var switch_id = document.getElementById('define_body');
+	var x = document.getElementById('gloss_min');
+	if (switch_id.style.display != 'none') {
+		switch_id.style.display = 'none';
+		createCookie('define_body', 'none', 0);
+		
+		x.style.display = 'none';
+		createCookie('gloss_min', 'none', 0);
+	}
+	
+}
+
+function max_dict() {
+	var switch_id = document.getElementById('define_body');
+	var x = document.getElementById('gloss_min');
+	if (switch_id.style.display == 'none') {
+		switch_id.style.display = 'block';
+		createCookie('define_body', 'block', 0);
+		
+		x.style.display = 'inline';
+		createCookie('gloss_min', 'inline', 0);
+	} 	
+}
+
+function show_dict() {
+	var switch_id = document.getElementById('definebox');
+	var dc = document.getElementById('define_container');
+	if (switch_id.style.display == 'none') {
+		switch_id.style.display = 'block';
+		createCookie('definebox', 'block', 0);
+		define_container.style.display = 'block';
+		createCookie('define_container', 'block', 0);
+	} else {
+		switch_id.style.display = 'none';
+		createCookie('definebox', 'none', 0);
+	}
+	
+}
+
+//-->
+</script>
+
+<script language="javascript">
+names = new Array();
+images = new Array();
+urls = new Array();
+<br />
+<b>Warning</b>:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/sm/public_html/privacy.php:3) in <b>/home/sm/public_html/config.php</b> on line <b>14</b><br />
+names.push("Imported Chicory, Roasted and Cut");images.push("http://www.sweetmarias.com/coffee.analysis.images/chicory.jpg");urls.push("coffee.other.chicory.php#ImportedChicoryRoastedandCut2008");names.push("Kenya Murang\'a AA Kangunu  ");images.push("http://www.sweetmarias.com/coffee.analysis.images/KenyaKirinyagaAAKangunu2010.jpg");urls.push("coffee.africa.kenya.php#KenyaKirinyagaAAKangunu2010");names.push("Colombia Finca Buenavista -Carlos Imbachi ");images.push("http://www.sweetmarias.com/coffee.analysis.images/ColombiaFincaBuenavistaCarlosImbachi2010.jpg");urls.push("coffee.southamr.colombia.php#ColombiaFincaBuenavistaCarlosImbachiJUL2010");names.push("Sweet Maria\'s Moka Kadir Blend  ");images.push("http://www.sweetmarias.com/coffee.analysis.images/SweetMariasMokaKadirBlend2010.jpg");urls.push("coffee.other.blends.php#SweetMariasMokaKadirBlend2010");names.push("Sumatra Takengon Classic Mandheling ");images.push("http://www.sweetmarias.com/coffee.analysis.images/SumatraTakengonClassicMandheling2010.jpg");urls.push("coffee.indonesia.sumatra.php#SumatraTakengonClassicMandheling2010");names.push("Guatemala Bourbon -Finca San Diego Buena Vista ");images.push("http://www.sweetmarias.com/coffee.analysis.images/GuatemalaBourbonFincaSanDiegoBuenaVista2010.jpg");urls.push("coffee.central.guatemala.php#GuatemalaBourbonFincaSanDiegoBuenaVista2010");names.push("Sulawesi Wet-Process Toarco Peaberry ");images.push("http://www.sweetmarias.com/coffee.analysis.images/SulawesiWetProcessToarcoPeaberry2010.jpg");urls.push("coffee.indonesia.sulawesi.php#SulawesiWetProcessToarcoPeaberry2010");names.push("Kenya Kirinyaga Peaberry Gakuyu-ini ");images.push("http://www.sweetmarias.com/coffee.analysis.images/KenyaKirinyagaPeaberryGakuyuini2010.jpg");urls.push("coffee.africa.kenya.php#KenyaKirinyagaPeaberryGakuyuini2010-2");names.push("Brazil Joao de Campos Yellow Catuai");images.push("http://www.sweetmarias.com/coffee.analysis.images/BrazilJoaodeCamposYellowCatuai2010.jpg");urls.push("coffee.southamr.brazil.php#BrazilJoaodeCamposYellowCatuai2010-2");names.push("Panama Finca La Camiseta ");images.push("http://www.sweetmarias.com/coffee.analysis.images/PanamaFincaLaCamiseta2010.jpg");urls.push("coffee.central.panama.php#PanamaFincaLaCamiseta2010");names.push("Kenya Kirinyaga Karani Peaberry ");images.push("http://www.sweetmarias.com/coffee.analysis.images/KenyaKirinyagaKaraniPeaberry2010.jpg");urls.push("coffee.africa.kenya.php#KenyaKirinyagaKaraniPeaberry2010");names.push("Brazil Cerrado DP Fazenda Aurea");images.push("http://www.sweetmarias.com/coffee.analysis.images/BrazilCerradoDPFazendaAurea2008.jpg");urls.push("coffee.southamr.brazil.php#BrazilCerradoDPFazendaAurea2009");names.push("Sumatra Lintong Blue Batak ");images.push("http://www.sweetmarias.com/coffee.analysis.images/SumatraLintongBlueBatak2010.jpg");urls.push("coffee.indonesia.sumatra.php#SumatraLintongBlueBatakAPR2010");names.push("Yemen Mokha Sharasi  ");images.push("http://www.sweetmarias.com/coffee.analysis.images/YemenMokhaSharasi2009.jpg");urls.push("coffee.arabia.yemen.php#YemenMokhaSharasi2010");names.push("Sweet Maria\'s Puro Scuro Blend");images.push("http://www.sweetmarias.com/coffee.analysis.images/blend_puroscuro.jpg");urls.push("coffee.other.blends.php#SweetMariasPuroScuroBlend2010");var names_length = images.length;
+//var sidebar_idx = Math.floor(Math.random()*names_length);
+
+function rotate_sidebar() {
+	var sidebar_idx = Math.floor(Math.random()*names_length);
+	var image = images[sidebar_idx];
+	var url = urls[sidebar_idx];
+	var name = names[sidebar_idx];
+	
+	var img = document.getElementById('sidebar_image2');
+	var cap = document.getElementById('sidebar_caption2');
+	var lin = document.getElementById('sidebar_image_link');
+	img.src = image;
+	cap.innerHTML = name;
+	lin.href = url;
+	
+	//sidebar_idx = (sidebar_idx+1) % names_length;
+}
+
+</script>
+
+
+
+
+<script type="text/javascript" src="http://www.sweetmarias.com/niftycube.js"></script> 
+
+<script type="text/javascript">
+NiftyLoad=function(){
+Nifty("div.rounded_white_white_black","big top");
+Nifty("div.coffee_name","normal");
+Nifty("div.coffee_wrap","normal");
+//Nifty("div.tl_title","normal left");
+//Nifty("div.top_level","normal left");
+}
+showDict=function() {
+	show_dict();
+}
+MenuCooks=function(){
+menu_cooks();	
+}
+</script>
+
+
+   <style type="text/css">
+<!--
+.style1 {color: #000000}
+-->
+   </style>
 </head>
-<body text="#000000" bgcolor="#FFFFFF" link="#10591A" vlink="#993C0E" alink="#005688" background="sm.bkgrnd.jpg">
+<body text="#000000" bgcolor="#FFFFFF" link="#10591A" vlink="#993C0E" alink="#005688">
+<div id="wrap">
+<div id="sidebar">
+	<a href="http://www.sweetmarias.com/">
+<img src="http://www.sweetmarias.com/sm_images/sm.beansign.white.smlr.jpg" width="190px" id="sidebar_image">
+</a>
+<div id="navbar">
+<div id="green_coffee" class="top_level">
+<div id="green_title" class="tl_title"><a onclick="showHide_sb('sub_green_coffee'); return false;" href="#"><span id="sub_green_coffee_open" class="opener">-</span> Green Coffee Offerings</a></div>
+<div id="sub_green_coffee" class="tl_menu">
+<div class="second_level">
+<div class="sl_title"><em><a id="green_coffee_list" href="http://www.sweetmarias.com/prod.greencoffee.mvc.php">All Offerings</a></em></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a onclick="showHide_sb('sub_central'); return false;" href="#"><span id="sub_central_open" class="opener">+</span> Central America</a></div>
+<div id="sub_central" class="sl_menu" style="display:none;">
+<div class="third_level"><a id="costa" href="http://www.sweetmarias.com/coffee.central.costarica.php">Costa Rica</a></div>
+<div class="third_level"><a id="guate" href="http://www.sweetmarias.com/coffee.central.guatemala.php">Guatemala</a></div>
+<div class="third_level"><a id="hondu" href="http://www.sweetmarias.com/coffee.central.honduras.php">Honduras</a></div>
+<div class="third_level"><a id="mexic" href="http://www.sweetmarias.com/coffee.central.mexico.php">Mexico</a></div>
+<div class="third_level"><a id="nicar" href="http://www.sweetmarias.com/coffee.central.nicaragua.php">Nicaragua</a></div>
+<div class="third_level"><a id="panam" href="http://www.sweetmarias.com/coffee.central.panama.php">Panama</a></div>
+<div class="third_level"><a id="salva" href="http://www.sweetmarias.com/coffee.central.salvador.php">El Salvador</a></div>
+</div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a onclick="showHide_sb('sub_south'); return false;" href="#"><span id="sub_south_open" class="opener">+</span> South America</a></div>
+<div id="sub_south" class="sl_menu" style="display:none;">
+<div class="third_level"><a id="boliv" href="http://www.sweetmarias.com/coffee.southamr.bolivia.php">Bolivia</a></div>
+<div class="third_level"><a id="brazi" href="http://www.sweetmarias.com/coffee.southamr.brazil.php">Brazil</a></div>
+<div class="third_level"><a id="colom" href="http://www.sweetmarias.com/coffee.southamr.colombia.php">Colombia</a></div>
+<div class="third_level"><a id="ecuad" href="http://www.sweetmarias.com/coffee.southamr.ecuador.php">Ecuador</a></div>
+<div class="third_level"><a id="peru" href="http://www.sweetmarias.com/coffee.southamr.peru.php">Peru</a></div>
+</div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a onclick="showHide_sb('sub_africa'); return false;" href="#"><span id="sub_africa_open" class="opener">+</span> Africa and Arabia</a></div>
+<div id="sub_africa" class="sl_menu" style="display:none;">
+<div class="third_level"><a id="burun" href="http://www.sweetmarias.com/coffee.africa.burundi.php">Burundi</a></div>
+<div class="third_level"><a id="congo" href="http://www.sweetmarias.com/coffee.africa.congo.php">Congo</a></div>
+<div class="third_level"><a id="ethio" href="http://www.sweetmarias.com/coffee.africa.ethiopia.php">Ethiopia</a></div>
+<div class="third_level"><a id="kenya" href="http://www.sweetmarias.com/coffee.africa.kenya.php">Kenya</a></div>
+<div class="third_level"><a id="rwand" href="http://www.sweetmarias.com/coffee.africa.rwanda.php">Rwanda</a></div>
+<div class="third_level"><a id="tanza" href="http://www.sweetmarias.com/coffee.africa.tanzania.php">Tanzania</a></div>
+<div class="third_level"><a id="ugand" href="http://www.sweetmarias.com/coffee.africa.uganda.php">Uganda</a></div>
+<div class="third_level"><a id="yemen" href="http://www.sweetmarias.com/coffee.arabia.yemen.php">Yemen</a></div>
+<div class="third_level"><a id="zambi" href="http://www.sweetmarias.com/coffee.africa.zambia.php">Zambia</a></div>
+<div class="third_level"><a id="zimba" href="http://www.sweetmarias.com/coffee.africa.zimbabwe.php">Zimbabwe</a></div>
+</div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a onclick="showHide_sb('sub_asia'); return false;" href="#"><span id="sub_asia_open" class="opener">+</span> Indonesia and Asia</a></div>
+<div id="sub_asia" class="sl_menu" style="display:none;">
+<div class="third_level"><a id="bali" href="http://www.sweetmarias.com/coffee.indonesia.bali.php">Bali</a></div>
+<div class="third_level"><a id="flore" href="http://www.sweetmarias.com/coffee.indonesia.flores.php">Flores</a></div>
+<div class="third_level"><a id="india" href="http://www.sweetmarias.com/coffee.asia.india.php">India</a></div>
+<div class="third_level"><a id="java" href="http://www.sweetmarias.com/coffee.indonesia.java.php">Java</a></div>
+<div class="third_level"><a id="myanm" href="http://www.sweetmarias.com/coffee.asia.myanmar.php">Myanmar</a></div>
+<div class="third_level"><a id="papua" href="http://www.sweetmarias.com/coffee.indonesia.newguinea.php">Papua New Guinea</a></div>
+<div class="third_level"><a id="sumat" href="http://www.sweetmarias.com/coffee.indonesia.sumatra.php">Sumatra</a></div>
+<div class="third_level"><a id="sulaw" href="http://www.sweetmarias.com/coffee.indonesia.sulawesi.php">Sulawesi</a></div>
+<div class="third_level"><a id="timor" href="http://www.sweetmarias.com/coffee.indonesia.timor.php">Timor</a></div>
+</div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a onclick="showHide_sb('sub_islands'); return false;" href="#"><span id="sub_islands_open" class="opener">+</span> Islands and Others</a></div>
+<div id="sub_islands" class="sl_menu" style="display:none;">
+<div class="third_level"><a id="austr" href="http://www.sweetmarias.com/coffee.islands.australia.php">Australia</a></div>
+<div class="third_level"><a id="domin" href="http://www.sweetmarias.com/coffee.islands.dominican.php">Dominican Republic</a></div>
+<div class="third_level"><a id="hawai" href="http://www.sweetmarias.com/coffee.islands.hawaii.php">Hawaii</a></div>
+<div class="third_level"><a id="jamai" href="http://www.sweetmarias.com/coffee.islands.jamaica.php">Jamaica</a></div>
+<div class="third_level"><a id="puert" href="http://www.sweetmarias.com/coffee.islands.PR.php">Puerto Rico</a></div>
+<div class="third_level"><a id="sthel" href="http://www.sweetmarias.com/coffee.islands.sthelena.php">St Helena</a></div>
+<div class="third_level"><a id="chico" href="http://www.sweetmarias.com/coffee.other.chicory.php">Chicory</a></div>
+</div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="blend" href="http://www.sweetmarias.com/coffee.other.blends.php">Blends</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="decaf" href="http://www.sweetmarias.com/coffee.other.decafs.php">Decafs</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="robus" href="http://www.sweetmarias.com/coffee.other.robusta.php">Robusta</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="sample" href="http://www.sweetmarias.com/sweetmarias/coffee/samplers/green-coffee-sampler.html">Samplers</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="arhived_green" href="http://www.sweetmarias.com/coffee.archive.new.php">Archived Reviews</a></div>
+</div>
+</div>
+</div>
+<div id="products" class="top_level">
+<div id="products_title" class="tl_title"><a onclick="showHide_sb('sub_products'); return false;" href="#"><span id="sub_products_open" class="opener">+</span> Coffee Merch</a></div>
+<div id="sub_products" class="tl_menu" style="display:none;">
+<div class="second_level">
+<div class="sl_title"><a onclick="showHide_sb('sub_roasters'); return false;" href="#"><span id="sub_roasters_open" class="opener">+</span> Roasting Equipment</a></div>
+<div id="sub_roasters" class="sl_menu" style="display:none;">
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters.html">All Roasters</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/air-roasters.html">Air Roasters</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/drum-roasters.html">Drum Roasters</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/stovetop-roasters.html">Stovetop Roasters</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/roasting-supplies.html">Accessories</a></div>
+</div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a onclick="showHide_sb('sub_brewers'); return false;" href="#"><span id="sub_brewers_open" class="opener">+</span>Coffee Brewers</a></div>
+<div id="sub_brewers" class="sl_menu" style="display:none;">
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers.html">All Brewers</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/filtercones.html">Pour-over Brewers</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/vacuum-brewers.html">Vacuum Brewers</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/chemex-drip-brewers.html">Chemex Brewers</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/technivorm-brewers.html">Technivorm</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/french-presses.html">French Presses</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/ibriks.html">Ibriks</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/aeropress.html">Aeropress</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/filters.html">Filters</a></div>
+</div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a onclick="showHide_sb('sub_grinders'); return false;" href="#"><span id="sub_grinders_open" class="opener">+</span>Grinders</a></div>
+<div id="sub_grinders" class="sl_menu" style="display:none;">
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/grinders.html">All Grinders</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/grinders/electric-grinders.html">Electric Grinders</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/grinders/manual-grinders.html">Manual Grinders</a></div>
+</div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a onclick="showHide_sb('sub_espresso'); return false;" href="#"><span id="sub_espresso_open" class="opener">+</span>Espresso</a></div>
+<div id="sub_espresso" class="sl_menu" style="display:none;">
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/espresso.html">All Espresso Gear</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/espresso/espresso-machine.html">Espresso Machines</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/espresso/espresso-accessories.html">Accessories</a></div>
+<div class="third_level"><a href="http://www.sweetmarias.com/sweetmarias/espresso/moka-pots.html">Moka Pots</a></div>
+</div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="books" href="http://www.sweetmarias.com/sweetmarias/miscellaneous/bags.html">Bags</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="misc" href="http://www.sweetmarias.com/sweetmarias/miscellaneous.html">The Rest ...</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="misc" href="http://www.sweetmarias.com/sweetmarias/gift-certificates/sweet-maria-s-gift-certificate.html">Gift Certificates</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="misc" href="http://www.sweetmarias.com/sweetmarias/sale-page.html">Sale Items</a></div>
+</div>
+</div>
+</div>
+<div id="roasted" class="top_level">
+<div id="roasted_title" class="tl_title"><a onclick="showHide_sb('sub_roasted'); return false;" href="http://www.sweetmarias.com/prod.roasted.php"><span id="sub_roasted_open" class="opener">+</span> Roasted Coffee</a></div>
+<div id="sub_roasted" class="tl_menu" style="display:none;">
+<div class="second_level">
+<div class="sl_title"><a id="roasted" href="http://www.sweetmarias.com/prod.roasted.php">Coffee Pairings</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="roastedespresso" href="http://www.sweetmarias.com/prod.roastedespresso.php">Espresso Workshop</a></div>
+</div>
+</div>
+</div>
+<div id="library" class="top_level">
+<div id="library_title" class="tl_title"><a onclick="showHide_sb('sub_library'); return false;" href="#"><span id="sub_library_open" class="opener">+</span> Our Coffee Library</a></div>
+<div id="sub_library" class="tl_menu" style="display:none;">
+<div class="second_level">
+<div class="sl_title"><a id="green_coffee_list" href="http://www.sweetmarias.com/coffee.archive.new.php">Archived Reviews</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="travelogues" href="http://www.sweetmarias.com/articles.php#travels">Coffee Travelogues</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="eval" href="http://www.sweetmarias.com/articles.php#evaluation">Coffee Evaluation</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="spec_roasting" href="http://www.sweetmarias.com/articles.php#hr_faqs">Roaster Tip Sheets</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="gen_roasting" href="http://www.sweetmarias.com/articles.php#hr_faqs">Home Roasting Tips</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="ts_brewing" href="http://www.sweetmarias.com/articles.php#brewing_faq">Brewer Tip Sheets</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="espresso" href="http://www.sweetmarias.com/articles.php#espresso_equipment">Things Espresso</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="tiny_joy" href="http://www.sweetmarias.com/articles.php#tinyjoy">Our Newsletter</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a id="lib" href="http://www.sweetmarias.com/articles.php">Complete Library</a></div>
+</div>
+</div>
+</div>
+<div id="ordering" class="top_level">
+<div id="ordering_title" class="tl_title"><a onclick="showHide_sb('sub_ordering'); return false;" href="#"><span id="sub_ordering_open" class="opener">+</span> Ordering</a></div>
+<div id="sub_ordering" class="tl_menu" style="display:none;">
+<div class="second_level">
+<div class="sl_title"><a href="http://www.sweetmarias.com/sweetmarias/checkout/cart">View Shopping Cart</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a href="http://www.sweetmarias.com/order.php">How to Order</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a href="https://www.sweetmarias.com/sweetmarias/customer/account/login">Log Into Account</a></div>
+</div>
+</div>
+</div>
+<div id="gloss" class="top_level">
+<div id="gloss_title" class="tl_title"><a onclick="showHide_sb('sub_glossary'); return false;" href="#"><span id="sub_glossary_open" class="opener">+</span> Coffee Glossary</a></div>
+<div id="sub_glossary" class="tl_menu" style="display:none;">
+<div class="second_level">
+<div class="sl_title"><a onclick="show_dict(); return false;" href="#">Popup Glossary Window</a></div>
+</div>
+<div class="second_level">
+<div class="sl_title"><a href="dictionary.php">Full Glossary</a></div>
+</div>
+</div>
+</div>
+<div id="site_search" class="top_level">
+<div id="cse" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">// <![CDATA[
+  google.load('search', '1');
+  google.setOnLoadCallback(function(){
+    var customSearchControl = new google.search.CustomSearchControl('003131028998773785122:xl74yykjeam');
+    customSearchControl.setResultSetSize(google.search.Search.SMALL_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+// ]]></script>
+</div>
+</div>
+<a href="http://www.sweetmarias.com/prod.greencoffee.mvc.php" id="sidebar_image_link">
+<img id="sidebar_image2" src="/sm_images/sm.coffeecherry_thumb.jpg" onload="setTimeout('rotate_sidebar()', 20000);">
+<div id="sidebar_caption2">Complete Green Coffee List</div>
+</a>
 
-<h2><font color="#080170"><font size="+1">Sweet Maria's Privacy Policy</font></font></h2>
+<div id="definebox">
+	<span style="font-weight: bold; text-decoration: none; text-align: left;">
+<a id="gloss_x" onclick="show_dict(); return false;" href="#">X</a>
+<a id="gloss_min" onclick="min_dict(); return false;" href="#" style="display:none;">–</a>
+</span>
 
-<p><font color="#080170"><font size="+1">WE DO NOT SELL, TRADE OR SHARE CUSTOMER
-INFORMATION OR MAIL LIST SUBSCRIBER INFORMATION WITH ANYONE ...EVER! </font></font></p>
+<img width="100%" src="http://www.sweetmarias.com/sm_images/sm.glossary.gif" align="left">
+<div style="width: 100%; clear: both;">&nbsp;</div>
+<div id="define_container" style="_width: 140px;">
+<div id="define_text" style="width: 140px;">
+Highlight any word and hit the 'd' key to look up the definition in our new coffee term glossary.  Or, just enter a word in the box below:
+<form method="post" name="luf" id="luf" action="http://www.sweetmarias.com/dictionary.php" onsubmit="lookup_textbox(this.form); return false">
+<input name="term" type="text" id="term" size="19">
+<input type="submit" value="Define term">
+</form>
+</div>
+<div id="define_body" style="width: 135px;%">
+<div id="define_term" style="width: 135px;%">
+</div>
+<div id="define_def" style="width: 135px;%">
+</div>
+<div id="define_rel_title" style="width: 135px;">
+</div>
+<div id="define_rel" style="width: 135px;">
+</div>
+</div>
+</div>
+</div>
+<script>
+<!-- 
+	menu_cooks();
+-->
+</script>
 
-<p><font color="#080170"><font size="+1">WE DO NOT USE COOKIES, OR OTHER
-INFORMATION-GATHERING HTML CODE ON OUR WEB PAGES.</font></font></p>
 
-<p><font color="#080170"><font size="+1">WHEN USING OUR SECURE ORDER FORM,
-ONLY THE INFORMATION YOU ENTER IS RETURNED TO US. IT IS ONLY RETURNED TO
-US, NOBODY ELSE.</font></font></p>
+</div>
+<div id="main_page">
+<link href="sm_general_css.css" rel="stylesheet" type="text/css">
+<div id="topbar">
+	<hr width="95%" align="left" color="#AAAAAA" size="2px">
+	<span class="topbar_item"><a id="l1" class="topbar_link" href="http://www.sweetmarias.com/index.php" style="color: #666666;">Home</a></span>
+    <span class="topbar_divider"> / </span>
+	<span class="topbar_item"><a class="topbar_link" href="http://www.sweetmarias.com/index.php#whats_new" style="color: #666666;">News</a></span>
+	<span class="topbar_divider"> / </span>
+	<span class="topbar_item"><a class="topbar_link" href="http://www.sweetmarias.com/weblog/" style="color: #666666;">Weblog</a></span>
+    <span class="topbar_divider"> / </span>
+	<span class="topbar_item"><a class="topbar_link" href="http://www.sweetmariascoffee.com/forum/" style="color: #666666;">Forum</a></span>
+    <span class="topbar_divider"> / </span>
+	<span class="topbar_item"><a class="topbar_link" href="http://www.sweetmarias.com/sweetmarias/checkout/cart/" style="color: #666666;">Cart</a></span>
+    <span class="topbar_divider"> / </span>
+	<span class="topbar_item"><a class="topbar_link" href="https://www.sweetmarias.com/sweetmarias/customer/account/login/" style="color: #666666;">Log in</a></span>
+</div>
 
-<p><font color="#080170"><font size="+1">(IT DOES TELL ME WHAT WEB BROWSER
-PROGRAM (I.E. ...NETSCAPE) YOU ARE USING WHEN YOU SUBMIT THE FORM, BUT
-ONLY BECAUSE I CAN'T FIGURE OUT HOW TO DELETE THIS PART OF THE CODE.)</font></font></p>
 
-<p><font color="#080170"><font size="+1">WE DO NOT COLLECT TRAFFIC DATA EXCEPT
-THE NUMBER OF HITS TO OUR MAIN PAGE.</font></font></p>
+<h2 class="style1"><font size="+1">Sweet Maria's Privacy Policy</font></h2>
 
-<p><font color="#080170"><font size="+1">Please email Tom at tom@sweetmarias.com 
-  if you have any questions or concerns.</font></font></p>
+<p class="style1">We do not sell, trade, or share customer information or mail list subscriber information with anyone...EVER! </p>
+<p class="style1">When using our secure shopping cart, only the information you enter is returned to us. It is returned only to us, nobody else. Our shopping cart does not store credit card information, just name, address, phone number, etc. </p>
+<p class="style1"><font size="+1">Please email Tom at tom@sweetmarias.com 
+  if you have any questions or concerns.</font></p>
 
-<p>
-</p><hr width="100%"><p></p>
-
-<p><b><font size="+1"><a href="index.htm">BACK</a></font></b></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<!-- #BeginLibraryItem "/Library/info.AND.coffee.desc.links.lbi" -->
-<script language="JavaScript">
+<p><!-- #BeginLibraryItem "/Library/info.AND.coffee.desc.links.lbi" -->
+  <script language="JavaScript">
 <!--
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
   if (restore) selObj.selectedIndex=0;
 }
 //-->
-</script>
-  <hr align="left" width="900">
+  </script>
+  <link href="sm_general_css.css" rel="stylesheet" type="text/css">
+  </p><hr align="left" width="900">
   <table width="900" border="1" bgcolor="#999966" cellpadding="2">
     <tbody><tr bgcolor="#CCCC99">
-      <td rowspan="5" valign="top" width="19%" bgcolor="#CCCC99">
-        <p><font color="#333300" size="4" face="Arial, Helvetica, sans-serif"><b><a href="articles.shtml">The
-                Coffee Library</a></b></font></p>
+      <td rowspan="5" valign="top" width="19%" bgcolor="#CCCC99">        <p><font color="#333300" size="4" face="Arial, Helvetica, sans-serif"><b><a href="articles.php">The
+          Coffee Library</a></b></font></p>
         <p align="center">&nbsp;</p>
-        <p align="center">&nbsp;</p>
-        <p align="center"><a href="articles.shtml"><img src="sm.greenbeanSOLO.jpg" border="0"></a></p></td>
+      <p align="center">&nbsp;</p>        <p align="center"><a href="articles.php"><img src="sm_images/sm.greenbeanSOLO.jpg" border="0"></a></p></td>
       <td valign="top" width="18%" height="139"><font color="#333300" size="3" face="Arial, Helvetica, sans-serif"><b>Sweet
-            Maria's<br>
+        Maria's<br>
         Coffee Roasting<br>
-        Tip Sheets</b></font></td>
-      <td width="63%" height="139">
-        <ul>
-          <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="instruct.basic.html">Roasting
-                Basics Information Sheet</a></font></li>
-          <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="stovepopmethod.html">Stovetop
-                Corn Popper Roasting (Whirley-Pop)</a></font></li>
-          <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="skilletmethod.html">Stovetop
-                Pan or Wok Roasting</a></font></li>
-          <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="ovenmethod.html">Oven
-                Roasting</a></font></li>
-          <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="airpopmethod.html">Air
-                Popper Roasting</a></font> </li>
-          <li><font face="Arial, Helvetica, sans-serif" size="2"><a href="blending.html">Coffee
-                Blending Basics</a></font></li>
-          <li><font face="Arial, Helvetica, sans-serif" size="2"><a href="roasted.pict-guide.html">"Degree
-                of Roast" Pictorial</a></font></li>
-          <li><font face="Arial, Helvetica, sans-serif" size="2"><a href="articles.shtml">Many
-                more information sheets</a>...</font>
-              <form name="form1">
-                <font size="2" face="Arial, Helvetica, sans-serif">Sweet Maria's
-                Roasting Appliance Tip Sheets:</font>
-                <select name="roastertipsheets" onchange="MM_jumpMenu('parent',this,0)">
-                  <option selected="">Select a tip sheet from this list...</option>
-                  <option value="hearthware.iRoasttipsheet.html">Hearthware i-Roast
-                  Tip Sheet</option>
-                  <option value="hottop.tipsheet.html">Hot Top Roasting Tip Sheet</option>
-                  <option value="freshroast.tipsheet.html">FreshRoast Tip Sheet</option>
-                  <option value="hearthware.iRoasttipsheet.html">Hearthware iRoast
-                  Tip Sheet</option>
-                  <option value="cafferosto.tipsheet.html">Caffe Rosto Tip Sheet</option>
-                  <option value="alpenrost.tipsheet.html">SwissMar Alpenrost
-                  Tip Sheet</option>
-                  <option value="zachanddanis.tipsheet.html">Zach &amp; Dani's
-                  Tip Sheet</option>
-                  <option value="hearthware.prec.tipsheet.html">Hearthware Precision
-                  Tip Sheet</option>
-                  <option value="instructions.html">More Roasting Tip Sheets</option>
-</select>
-              </form>
+      Tip Sheets</b></font></td>
+      <td width="63%" height="139">        <ul>
+          <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="instructions.php">Roasting
+          Basics Information Sheet</a></font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="stovepopmethod.php">Stovetop
+           Popper Roasting (Whirley-Pop)</a></font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="sm_images/sm-tomscooter.jpg">Stovetop
+          Pan or Wok Roasting</a></font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="ovenmethod.php">Oven
+          Roasting</a></font></li>
+          <li><font size="2" face="Arial, Helvetica, sans-serif"><a href="airpop/airpopmethod.php">Air
+          Popper Roasting</a></font> </li>
+          <li><font face="Arial, Helvetica, sans-serif" size="2"><a href="blending.php">Coffee
+          Blending Basics</a></font></li>
+          <li><font face="Arial, Helvetica, sans-serif" size="2"><a href="roasting-VisualGuideV2.php">"Degree
+          of Roast" Pictorial</a></font></li>
+        <li><font face="Arial, Helvetica, sans-serif" size="2"><a href="articles.php">Many
+            more information sheets</a>...</font>
+            <form name="form1">
+              <font size="2" face="Arial, Helvetica, sans-serif">Sweet Maria's
+              Roasting Appliance Tip Sheets:</font>
+              <select name="roastertipsheets" onchange="MM_jumpMenu('parent',this,0)">
+                <option selected="">Select a tip sheet from this list...</option>
+                <option value="freshroast.tipsheet.html">FreshRoast Tip Sheet</option>
+                <option value="hearthware/hearthware.iRoasttipsheet.html">Hearthware i-Roast Tip Sheet</option>
+                <option value="Tip-Sheets_PDF_files/NescoCoffeeRoasterTipSheet.pdf">Nesco Coffee Roaster</option>
+                <option value="hottop.tipsheet.html">Hot Top Roasting Tip Sheet</option>
+                <option value="hearthware/hearthware.iRoasttipsheet.html">Hearthware iRoast Tip Sheet</option>
+                <option value="cafferosto.tipsheet.html">Caffe Rosto Tip Sheet</option>
+                <option value="alpenroast/alpenrost.tipsheet.html">SwissMar Alpenrost Tip Sheet</option>
+                <option value="zachanddanis.tipsheet.html">Zach &amp; Dani's Tip Sheet</option>
+                <option value="hearthware/hearthware.prec.tipsheet.html">Hearthware Precision Tip Sheet</option>
+                <option value="instructions.php">More Roasting Tip Sheets</option>
+                <option value="">Behmor Tip Sheet</option>
+              </select>
+            </form>
           </li>
-      </ul></td>
+        </ul></td>
     </tr>
     <tr>
       <td valign="top" width="18%" bgcolor="#CCCC99" height="16"><font color="#333300" size="3" face="Arial, Helvetica, sans-serif"><b>Sweet
-            Maria's<br>
+        Maria's<br>
         Coffee Brewing<br>
-        Tip Sheets</b></font></td>
-      <td width="63%" bgcolor="#CCCC99" height="16">
-        <form name="form2">
+      Tip Sheets</b></font></td>
+      <td width="63%" bgcolor="#CCCC99" height="16">        <form name="form2">
           <font size="2" face="Arial, Helvetica, sans-serif">Jump to: </font>
           <select name="GrindBrewTipsheets" onchange="MM_jumpMenu('parent',this,0)">
             <option selected="">Select a tip sheet from this list...</option>
-            <option value="grind.brew.html">Grinding &amp; Brewing Basics</option>
-            <option value="brewing.inst.cona.html">Vacuum Brewing in the Cona</option>
-            <option value="brewing.inst.yama.html">Vacuum Brewing in the Yama</option>
-            <option value="santosinstructions.html">Vacuum Brewing in the Bodum
-            Santos</option>
-            <option value="brewing.inst.chemex.html">Filter-Drip Brewing in the
-            Chemex</option>
-            <option value="brewinstr.frenchpress.html">French Press Brewing</option>
-            <option value="brew.inst.ibrik.html">Brewing Coffee in an Ibrik</option>
-            <option value="brew.inst.mokapot.html">Moka Pot Brewing (Stovetop
-            Espresso)</option>
+            <option value="brewinstr/grind.brew.php">Grinding &amp; Brewing Basics</option>
+            <option value="brewinstr/brewing.inst.cona.html">Vacuum Brewing in the Cona</option>
+            <option value="brewinstr/brewing.inst.yama.html">Vacuum Brewing in the Yama</option>
+            <option value="santosinstructions.html">Vacuum Brewing in the Bodum Santos</option>
+            <option value="brewinstr/brewing.inst.chemex.html">Filter-Drip Brewing in the Chemex</option>
+            <option value="brewinstr/brewinstr.frenchpress.html">French Press Brewing</option>
+            <option value="brewinstr/brew.inst.ibrik.html">Brewing Coffee in an Ibrik</option>
+            <option value="brewinstr/brew.inst.mokapot.html">Moka Pot Brewing (Stovetop Espresso)</option>
             <option value="zas.instructions.html">Zassenhaus Mill: Care and Use</option>
-</select>
-      </form></td>
+            <option value="roasters-choosingaroaster.php">Choosing a Home Roaster</option>
+            <option value="roastercomparisonchart.php">Roaster Comparison Chart</option>
+          </select>
+        </form></td>
     </tr>
     <tr>
       <td rowspan="3" valign="top" width="18%" bgcolor="#CCCC99"><font face="Arial, Helvetica, sans-serif">&nbsp;</font><font color="#333300" size="3" face="Arial, Helvetica, sans-serif"><b> Further
-            Reading</b></font><font face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
-      <td width="63%" bgcolor="#CCCC99"><font face="Arial, Helvetica, sans-serif"><a href="articles.shtml">The
-            Complete Sweet Maria's Coffee Library Page</a><br>
-                <font size="2">- Coffee Travel Pictorials, New Product Reviews,
-                Roasting Pictorials, Etc! </font></font></td>
+      Reading</b></font><font face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+      <td width="63%" bgcolor="#CCCC99"><font face="Arial, Helvetica, sans-serif"><a href="articles.php">The
+        Complete Sweet Maria's Coffee Library Page</a><br>
+        <font size="2">- Coffee Travel Pictorials, New Product Reviews,
+      Roasting Pictorials, Etc! </font></font></td>
     </tr>
     <tr>
-      <td width="63%" bgcolor="#CCCC99"><font face="Arial, Helvetica, sans-serif"><a href="reading.html">Interesting
-            Coffee and Coffee Roasting Web Sites</a><br>
-                <font size="2">- Links to Home Roasting Web Sites, Coffee Industry
-                Sites, Great Coffee Books, Etc!</font> </font></td>
+      <td width="63%" bgcolor="#CCCC99"><font face="Arial, Helvetica, sans-serif"><a href="reading.php">Interesting
+        Coffee and Coffee Roasting Web Sites</a><br>
+        <font size="2">- Links to Home Roasting Web Sites, Coffee Industry
+      Sites, Great Coffee Books, Etc!</font> </font></td>
     </tr>
     <tr>
-      <td width="63%" bgcolor="#CCCC99"><font face="Arial, Helvetica, sans-serif"><a href="reading.html#books">Coffee
-            Book Recommendations</a></font></td>
+      <td width="63%" bgcolor="#CCCC99"><font face="Arial, Helvetica, sans-serif"><a href="reading.php#books">Coffee
+      Book Recommendations</a></font></td>
     </tr>
     <tr>
-      <td valign="top" width="19%" height="67">
-        <div align="left"><font color="#333300" size="4" face="Arial, Helvetica, sans-serif"><b>Sweet
-              Maria's<br>
+      <td valign="top" width="19%" height="67">        <div align="left"><font color="#333300" size="4" face="Arial, Helvetica, sans-serif"><b>Sweet
+          Maria's<br>
           Coffee Cupping<br>
-          Reviews</b></font></div></td>
-      <td colspan="2" height="67">
-        <dt>
+      Reviews</b></font></div></td>
+      <td colspan="2" height="67">        <dt>
           <div align="left"><b><font color="#400B0B" face="Arial, Helvetica, sans-serif" size="2">Central
-                America:</font></b> <font face="Arial, Helvetica, sans-serif" size="2"><a href="coffee.central.costarica.html">Costa
-                Rica</a> | <a href="coffee.central.guatemala.html">Guatemala</a> | <a href="coffee.central.honduras.html">Honduras</a> | <a href="coffee.central.mexico.html">Mexico</a> | <a href="coffee.central.nicaragua.html">Nicaragua</a> | <a href="coffee.central.panama.html">Panama</a> | <a href="coffee.central.salvador.html">El
-                Salvador</a></font></div>
+            America:</font></b> <font face="Arial, Helvetica, sans-serif" size="2"><a href="coffee.central.costarica.php">Costa
+              Rica</a> | <a href="coffee.central.guatemala.php">Guatemala</a> | <a href="coffee.central.honduras.php">Honduras</a> | <a href="coffee.central.mexico.php">Mexico</a> | <a href="coffee.central.nicaragua.php">Nicaragua</a> | <a href="coffee.central.panama.php">Panama</a> | <a href="coffee.central.salvador.php">El
+          Salvador</a></font></div>
         </dt>
         <dt>
           <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">South
-                  America:</font></b> <a href="coffee.southamr.bolivia.html">Bolivia</a> | <a href="coffee.southamr.brasil.html">Brazil</a> | <a href="coffee.southamr.colombia.html">Colombia</a> | <a href="coffee.southamr.ecuador.html">Ecuador</a> | <a href="coffee.southamr.peru.html">Peru</a></font></div>
+          America:</font></b> <a href="coffee.southamr.bolivia.php">Bolivia</a> | <a href="coffee.southamr.brazil.php">Brazil</a> | <a href="coffee.southamr.colombia.php">Colombia</a> | <a href="coffee.southamr.ecuador.php">Ecuador</a> | <a href="coffee.southamr.peru.php">Peru</a></font></div>
         </dt>
         <dt>
-          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">Africa/Arabia: </font></b><a href="coffee.africa.burundi.html">Burundi</a> | <a href="coffee.africa.congo.html">Congo</a> | <a href="coffee.africa.ethiopia.html">Ethiopia</a> | <a href="coffee.africa.kenya.html">Kenya</a> | <a href="coffee.africa.rwanda.html">Rwanda</a> | <a href="coffee.africa.tanzania.html">Tanzania</a> | <a href="coffee.africa.uganda.html">Uganda</a> | <a href="coffee.africa.zambia.html">Zambia</a> | <a href="coffee.africa.zimbabwe.html">Zimbabwe</a> | <a href="coffee.arabia.yemen.html">Yemen</a></font></div>
+          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">Africa/Arabia: </font></b><a href="coffee.africa.burundi.php">Burundi</a> | <a href="coffee.africa.congo.php">Congo</a> | <a href="coffee.africa.ethiopia.php">Ethiopia</a> | <a href="coffee.africa.kenya.php">Kenya</a> | <a href="coffee.africa.rwanda.php">Rwanda</a> | <a href="coffee.africa.tanzania.php">Tanzania</a> | <a href="coffee.africa.uganda.php">Uganda</a> | <a href="coffee.africa.zambia.php">Zambia</a> | <a href="coffee.africa.zimbabwe.php">Zimbabwe</a> | <a href="coffee.arabia.yemen.php">Yemen</a></font></div>
         </dt>
         <dt>
-          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">Indonesia/Asia:</font></b> <a href="coffee.indonesia.bali.html">Bali</a><b><font color="#400B0B"> | </font></b> <a href="coffee.asia.india.html">India</a> | <a href="coffee.indonesia.java.html">Java</a> | <a href="coffee.indonesia.newguinea.html">Papua
-                New Guinea</a> | <a href="coffee.indonesia.sumatra.html">Sumatra</a> | <a href="coffee.indonesia.sulawesi.html">Sulawesi</a> | <a href="coffee.indonesia.timor.html">Timor</a></font></div>
+          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">Indonesia/Asia:</font></b> <a href="coffee.indonesia.bali.php">Bali</a><b><font color="#400B0B"> | </font></b> <a href="coffee.asia.india.php">India</a> | <a href="coffee.indonesia.java.php">Java</a> | <a href="coffee.indonesia.newguinea.php">Papua
+          New Guinea</a> | <a href="coffee.indonesia.sumatra.php">Sumatra</a> | <a href="coffee.indonesia.sulawesi.php">Sulawesi</a> | <a href="coffee.indonesia.timor.php">Timor</a></font></div>
         </dt>
         <dt>
-          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">Islands/Blends/Others:</font></b> <a href="coffee.islands.hawaii.html">Hawaii </a>| <a href="coffee.islands.PR.html">Puerto
-                Rico</a> | <a href="coffee.islands.jamaica.html">Jamaica</a> | <a href="coffee.islands.dominican.html">Dominican</a> | <a href="coffee.other.chicory.html">Chicory</a> | <a href="coffee.islands.sthelena.html">Saint
-                Helena</a> | <a href="coffee.other.blends.html">Sweet Maria's
-                Blends</a> </font></div>
+          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">Islands/Blends/Others:</font></b> <a href="coffee.islands.hawaii.php">Hawaii </a>| <a href="coffee.islands.PR.php">Puerto
+            Rico</a> | <a href="coffee.islands.jamaica.php">Jamaica</a> | <a href="coffee.islands.dominican.php">Dominican</a> | <a href="coffee.other.chicory.php">Chicory</a> | <a href="coffee.islands.sthelena.php">Saint
+              Helena</a> | <a href="coffee.other.blends.php">Sweet Maria's
+          Blends</a> </font></div>
         </dt>
         <dt>
-          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">Decafs:</font></b> <a href="coffee.others.decafs.html">Water
-                Process, Natural Decafs, MC Decafs, C0-2 Decafs</a></font></div>
-        </dt>
-        <dt>
-          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">Robustas:</font></b> <a href="coffee.robusta.html">India</a> <b> | </b><a href="coffee.robusta.html">Uganda</a><b><font color="#400B0B"> Archives:</font></b> </font><font color="#000099" size="2" face="Arial, Helvetica, sans-serif"><a href="coffee.reviewarchive.a-f.html">A
-                - F</a> </font><font face="Arial, Helvetica, sans-serif" size="2">|</font><font color="#000099" size="2" face="Arial, Helvetica, sans-serif"> <a href="coffee.reviewarchive.g-k.html">G
-                - K</a></font><font face="Arial, Helvetica, sans-serif" size="2"> |</font><font color="#000099" size="2" face="Arial, Helvetica, sans-serif"> <a href="coffee.reviewarchive.l-p.html">L
-                - P</a></font><font face="Arial, Helvetica, sans-serif" size="2"> |</font><font color="#000099" size="2" face="Arial, Helvetica, sans-serif"> <a href="coffee.reviewarchive.r-s.html">R
-                - S</a> </font><font face="Arial, Helvetica, sans-serif" size="2">|</font><font color="#000099" size="2" face="Arial, Helvetica, sans-serif"> <a href="coffee.reviewarchive.t-z.html">T
-                - Z</a> | <a href="coffee.reviewarch.2001-02.html">2001-2002
-                Archive</a> | <a href="coffee.reviewarc.pre-2000.html">Pre-2000
-                Review Archive</a></font></div>
-      </dt></td>
+          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">Decafs:</font></b> <a href="coffee.other.decafs.php">Water
+          Process, Natural Decafs, MC Decafs, C0-2 Decafs</a></font></div>
+        </dt>        <dt>
+          <div align="left"><font face="Arial, Helvetica, sans-serif" size="2"><b><font color="#400B0B">Robustas:</font></b> <a href="coffee.other.robusta.php">India</a> <b> | </b><a href="coffee.other.robusta.php">Uganda</a><b><font color="#400B0B"> Archives:</font></b> </font><font color="#000099" size="2" face="Arial, Helvetica, sans-serif"><a href="coffee.archive.new.php">2008-2009</a> | <a href="coffee.reviewarchive.a-col.php">2007</a> | <a href="coffee.reviewarchive.05-06.a-col.html">2005-2006</a> | <a href="coffee.reviewarc.a-f.03-04.html">2003-2004</a> | <a href="coffee.reviewarch.2001-02.html">2001-2002</a> | <a href="coffee.reviewarc.pre-2000.html">Pre-2000
+          Review Archive</a></font></div>
+        </dt></td>
     </tr>
   </tbody></table>
-
-<center>
-  <dt>&nbsp; </dt>
-<font color="#000000" size="-2">This page is authored by Tom Owen and Sweet Maria's
-Coffee, Inc. and is not to be copied or reproduced without permission.</font><!-- #BeginLibraryItem "/Library/ssi.footer.as.library.item.lbi" -->
+  <dt>&nbsp;</dt>
+  <span class="arial10"><font color="#000000">This page
+is authored by Tom Owen and Sweet Maria's Coffee, Inc. and is not to be copied
+or reproduced without permission.<img src="cs-wh-3d-234x16.gif" width="217" height="14" align="top"></font></span><!-- #BeginLibraryItem "/Library/ssi.footer.as.library.item.lbi" -->
   <hr align="left" width="900" size="10">
-  <table width="900" border="5" align="left" cellpadding="2" cellspacing="1" bgcolor="#FFFFFF">
+  <table width="900" border="5" align="left" cellpadding="2" cellspacing="1" bgcolor="#FFFFFF"><tbody><tr><td width="208"><table width="900" border="5" align="left" cellpadding="2" cellspacing="1" bgcolor="#FFFFFF">
     <tbody><tr>
-      <td colspan="2"><a href="index.htm"><img src="smlogobean.small.horiz89a.gif" width="300" height="37" border="0"></a></td>
-      <td colspan="2"><form action="http://search.freefind.com/find.html" method="GET" target="_self">
-          <font size="1" face="arial,helvetica">
-          <center>
-            <input type="HIDDEN" name="id" size="-1" value="371962">
-            <input type="HIDDEN" name="pid" size="-1" value="r">
-            <input type="HIDDEN" name="mode" size="-1" value="ALL">
-            <input type="HIDDEN" name="n" value="0">
-            <i><font face="Arial, Helvetica, sans-serif" size="2">Search</font></i><font size="2">: </font>
-            <input type="TEXT" name="query" size="20">
-            <input type="SUBMIT" value=" Find! " name="SUBMIT">
-          </center>
-          </font>
-      </form></td>
+      <td colspan="2"><a href="index.php"><img src="sm_images/smlogobean.small.horiz89a.gif" width="300" height="37" border="0"></a></td>
+      <td colspan="2"><form action="http://www.google.com/cse" id="cse-search-box">
+          <div>
+            <input type="hidden" name="cx" value="003131028998773785122:ojwrsiww5eo">
+            <input type="hidden" name="ie" value="UTF-8">
+            <input type="text" name="q" size="31">
+            <input type="submit" name="sa" value="Search">
+          </div>
+      </form>
+          <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script></td>
     </tr>
     <tr>
-      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.greencoffee.mvc.shtml"><b>Green
-              Coffee Beans</b></a></font></td>
-      <td width="223"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.hearthwareiRoast.shtml">Hearthware
-            I-Roast 2</a></font></td>
-      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.freshroast.shtml">Fresh
-            Roast Home Coffee Roaster</a></font></td>
-      <td width="208"><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"><a href="prod.stovetop-popper.shtml"> Stovetop
-            Popper Roasting</a></font></td>
+      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.greencoffee.mvc.php"><b>Green
+        Coffee Beans</b></a> 70+ Selections</font></td>
+      <td width="223"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/air-roasters/iroast2.html">Hearthware
+        I-Roast 2</a></font></td>
+      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/air-roasters.html">Fresh
+        Roast Home Coffee Roasters - </a>Two Models</font></td>
+      <td width="208"><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/drum-roasters/genecafe.html">Gene
+        Caffe Drum Roaster</a><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/roasting-supplies.html"></a><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/stovetop-roasters.html"></a></font></td>
     </tr>
     <tr>
-      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.genecafe.shtml">Gene
-            Caffe 
-      Drum Roaster</a></font></td>
-      <td width="223"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.hottop.shtml">HotTop
-      Drum Roaster</a></font></td>
-      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.roastkits.shtml">Coffee
-      Roasting Accessories</a></font></td>
-      <td width="208"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.espresso.shtml">Espresso
-      Equipment &amp; Accessories</a></font></td>
+      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/drum-roasters/behmor.html">Behmor
+        1600 </a></font></td>
+      <td width="223"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/drum-roasters.html">HotTop
+        Drum Roaster</a></font></td>
+      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/stovetop-roasters.html">Stovetop
+        Popper Roasting</a></font></td>
+      <td width="208"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/espresso.html">Espresso
+        Equipment &amp; Accessories</a></font></td>
     </tr>
     <tr>
-      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"> <a href="prod.electricmills.shtml">Mazzer
-            Mini Espresso Mills</a></font></td>
-      <td width="223"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.technivorm.shtml">Technivorm
-      Electric Brewers</a><font color="#990000"> </font></font></td>
-      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.brewers.shtml">Chemex
-            Coffee Brewers</a> </font></td>
-      <td width="208"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.bags.shtml">Coffee
-            Bags</a>: for green and roasted</font></td>
+      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/coffee-roasters/air-roasters/nesco.html">Nesco
+        Home Coffee Roaster</a> </font></td>
+      <td width="223"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/technivorm-brewers.html">Technivorm
+        Electric Brewers</a><font color="#990000"> </font></font></td>
+      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/chemex-drip-brewers.html">Chemex
+        Coffee Brewers</a> </font></td>
+      <td width="208"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/miscellaneous/bags.html">Coffee
+        Bags</a>: </font><font color="#000000" size="-2" face="Arial, Helvetica, sans-serif">for green and roasted</font></td>
     </tr>
     <tr>
-      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.zas.shtml">Zassenhaus
-            Hand-Crank Mills</a></font></td>
-      <td width="223"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.travelmugs-bottles.shtml">Nissan &amp; Zojirushi
-      Travel Cups/ Bottles</a></font></td>
-      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.brewers.vacuum.shtml">Vacuum
-      Brewers</a>: <font size="1">Cona, Bodum, Yama</font></font></td>
-      <td width="208"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.coffeecleaner.shtml">Coffee
-            Cleaning Supplies-Urnex</a></font></td>
+      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/grinders/manual-grinders.html">Zassenhaus
+        Hand-Crank Mills</a></font></td>
+      <td width="223"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/miscellaneous/thermos.html">Nissan &amp; Zojirushi
+        Travel Cups/ Bottles</a></font></td>
+      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/vacuum-brewers.html">Vacuum
+        Brewers</a>: </font><font color="#000000" size="-2" face="Arial, Helvetica, sans-serif">Cona, Yama</font></td>
+      <td width="208"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/miscellaneous/cleaners.html">Coffee
+        Cleaning Supplies</a></font></td>
     </tr>
     <tr>
       <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"> Espresso
-          Machines: <a href="prod.rancilio.shtml">Rancilio Silvia</a> <a href="prod.quickmill-andreja.shtml">Andreja
-          Premium </a>, <a href="prod.gaggia.shtml">Gaggia</a>, </font></td>
-      <td width="223"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.book.poster.misc.shtml">Coffee
-      Books &amp; Posters</a>, <br>
-      <a href="prod.misc.shtml">Miscellany and our T-Shirts</a> </font></td>
-      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.electricmills.shtml">Electric
-            Coffee Mills</a>: <font size="1">Mazzer Mini, Solis Maestro, Rancilio
-            Rocky, Bodum</font></font></td>
-      <td width="208"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.brewers.shtml">Manual
-            Drip Brewing</a>, <a href="prod.swissgold.shtml">SwissGold Filters</a></font></td>
+        Machines: <a href="http://www.sweetmarias.com/sweetmarias/espresso/espresso-machine.html">Giotto Professional and Premium</a>, <a href="http://www.sweetmarias.com/sweetmarias/espresso/espresso-machine/rancilio-miss-silvia-ss-espresso-machine.html">Rancilio Silvia,</a> <a href="http://www.sweetmarias.com/sweetmarias/espresso/espresso-machine/andreja-espresso-machine-by-quick-mill.html">Andreja
+          Premium </a>, <a href="http://www.sweetmarias.com/sweetmarias/espresso/espresso-machine.html">Gaggia</a>, </font></td>
+      <td width="223"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/miscellaneous/books.html">Coffee
+        Books</a><br>
+          <a href="http://www.sweetmarias.com/sweetmarias/miscellaneous.html">Miscellany </a>and <a href="http://www.sweetmarias.com/sweetmarias/miscellaneous/t-shirts.html">Sweet Maria's T-Shirts</a> </font></td>
+      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/grinders/electric-grinders.html">Electric
+        Coffee Mills</a>:</font><font color="#000000" size="-2" face="Arial, Helvetica, sans-serif"> Mazzer
+          Mini,  Maestro, Rancilio Rocky, Bodum</font></td>
+      <td width="208"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers.html">Manual
+        Drip Brewing</a> </font></td>
     </tr>
     <tr>
-      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.roasted.html">Our
-      Craft-roasted Coffee</a></font></td>
-      <td width="223"><font face="Arial, Helvetica, sans-serif" size="2"><a href="prod.brewers.frenchpress.shtml">French
-            Press Coffee Brewing</a></font></td>
-      <td width="215"><font face="Arial, Helvetica, sans-serif" size="2"><a href="prod.brewers.ibrik.shtml">Ibrik:
-            Turkish Coffee Brewing</a></font></td>
-      <td width="208"><font face="Arial, Helvetica, sans-serif" size="2"><a href="prod.brewers.mokapot.shtml">Mokapot:
-            Stovetop Espresso</a></font></td>
+      <td width="215"><font size="2" face="Arial, Helvetica, sans-serif" color="#000000"><a href="prod.roasted.php">Our
+        Weekly Roasted Coffee</a></font></td>
+      <td width="223"><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/french-presses.html">French
+        Press Coffee Brewing</a></font></td>
+      <td width="215"><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/ibriks.html">Ibrik:
+        Turkish Coffee Brewing</a></font></td>
+      <td width="208"><font face="Arial, Helvetica, sans-serif" size="2"><a href="http://www.sweetmarias.com/sweetmarias/coffee-brewers/moka-pots.html">Mokapot:
+        Stovetop Espresso</a></font></td>
     </tr>
     <tr>
-      <td colspan="2"><div align="center"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif"><a href="articles.shtml" target="_blank">Sweet
-              Maria's <b>Coffee Library</b> (Tip Sheets, FAQs)</a></font></div></td>
-      <td colspan="2"><div align="center"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif"><a href="prod.greencoffee.mvc.shtml#cupping.reviews">Sweet
-              Maria's <b>Coffee Cupping Reviews</b></a></font></div></td>
+      <td colspan="2"><div align="center"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif"><a href="articles.php" target="_blank">Sweet
+        Maria's <b>Coffee Library</b> (Tip Sheets, FAQs)</a></font></div></td>
+      <td colspan="2"><div align="center"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif"><a href="prod.greencoffee.mvc.php#cupping.reviews">Sweet
+        Maria's <b>Coffee Cupping Reviews</b></a></font></div></td>
     </tr>
     <tr>
-      <td colspan="2"><div align="center"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.sweetmarias.com/Merchant2/merchant.mvc" target="_blank">Sweet
-              Maria's <b>Shopping Cart</b> System</a></font></div></td>
-      <td colspan="2"><div align="center"><font size="2" face="arial,helvetica"> <a href="http://search.freefind.com/find.html?id=371962"><b>Search</b> our
-              Site</a></font></div></td>
+      <td colspan="2"><div align="center"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.sweetmarias.com/sweetmarias/" target="_blank">Sweet
+        Maria's <b>Shopping Cart</b> System</a></font></div></td>
+      <td colspan="2"><div align="center"><font size="2" face="arial,helvetica"> <a href="http://www.google.com/search?q=site%3Asweetmarias.com"><b>Search</b> our
+        Site</a></font></div></td>
+    </tr>
+  </tbody></table>    </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
     </tr>
   </tbody></table>
-  <!-- #EndLibraryItem --></center><!-- #EndLibraryItem -->
-
+  <!-- #EndLibraryItem --><!-- #EndLibraryItem --></div>
+</div>
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-11688411-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 </body></html>
