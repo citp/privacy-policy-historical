@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjaforge.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223165427id_/http%3A//ninjaforge.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D195%26Itemid%3D204) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjaforge.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625042516id_/http%3A//ninjaforge.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D195%26Itemid%3D204) for the most accurate reproduction.*
 
 # Joomla NinjaForge - Privacy Policy
 
@@ -55,7 +55,7 @@ Where you submit personal information for publication on our website, we will pu
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. 
 
-All our website financial transactions are handled through our payment services provider, Paypal.  You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at [www.paypal.com](https://web.archive.org/web/20091223165427id_/http%3A//ninjaforge.com/www.paypal.com) ).  We will share information with  Paypal only to the extent necessary for the purposes of processing payments you make via our website. 
+All our website financial transactions are handled through our payment services provider, Paypal.  You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at [www.paypal.com](https://web.archive.org/web/20100625042516id_/http%3A//ninjaforge.com/www.paypal.com) ).  We will share information with  Paypal only to the extent necessary for the purposes of processing payments you make via our website. 
 
 ## Disclosures
 
@@ -116,4 +116,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 ## Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please [contact us via our contact form](https://web.archive.org/web/20091223165427id_/http%3A//ninjaforge.com/index.php?option=com_contact&task=view&contact_id=1&Itemid=174). 
+If you have any questions about this privacy policy or our treatment of your personal data, please [contact us via our contact form](https://web.archive.org/web/20100625042516id_/http%3A//ninjaforge.com/index.php?option=com_contact&task=view&contact_id=1&Itemid=174). 
