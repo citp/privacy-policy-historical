@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the asgames.net privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208110749id_/http%3A//www.asgames.net/option.contact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asgames.net privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625072722id_/http%3A//www.asgames.net/option.privacy_policy) for the most accurate reproduction.*
 
-# AsGames Funny Games For Kids, Fun Games, Two Player Games, 2 Player Games, Car Games, Arcade Games
-
-Privacy Policy
+# Privacy Policy - AsGames.Net, Funny Games For Kids, Fun Games, Free Flash Game Arcade!
 
 At AsGames, we recognize that **privacy** of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit AsGames, and how we safeguard your information.  We never sell your personal information to third parties.
 
@@ -23,7 +21,3 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 * Google, as a third party vendor, uses cookies to serve ads on this site.  
 * Google's use of the **DART** cookie enables it to serve ads to users based on their visit and other sites on the Internet.  
 * Users may opt out of the use of the **DART** cookie by visiting the [Google ad and content network **privacy** **policy**](http://www.google.com/privacy_ads.html). 
-
-Contact Us
-
-Please email us with any questions, comments, and suggestions using the **[info@asgames.net](mailto:info@asgames.net)** e-mail address. 
