@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2shared.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230225728id_/http%3A//2shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2shared.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625142655id_/http%3A//www.2shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 2shared - Privacy Policy
 
@@ -9,7 +9,7 @@ The 2shared takes your personal privacy seriously. We will not disclose any pers
 
 However, we may look through any private information about you that we possess and any files you uploaded to 2shared when we believe the information you posted or uploaded is illegal or does not comply with our 
 
-[_Terms of Use_](https://web.archive.org/web/20091230225728id_/http%3A//2shared.com/terms.jsp) or Privacy Policy.
+[_Terms of Use_](https://web.archive.org/web/20100625142655id_/http%3A//www.2shared.com/terms.jsp) or Privacy Policy.
 
 **Information You Volunteer**
 
