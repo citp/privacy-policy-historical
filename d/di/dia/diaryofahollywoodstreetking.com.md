@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222231829id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625143651id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | Jacky Jasper's Diary of a Hollywood Street King
+# Privacy Notice | Hollywood Street King
 
-[Tweet This Story!](http://twitter.com/home?status=Peep%20This%20%22Privacy%20Notice%22%20http%3A%2F%2Fbit.ly%2FjGyrs "Tweet This Story!")
+[Tweet This Story!](http://twitter.com/home?status=Peep%20This%20%26%20RT%20%23HSK%20-%20%22Privacy%20Notice%22%20http%3A%2F%2Fbit.ly%2FjGyrs "Tweet This Story!")
 
 Last updated: January 31, 2009
 
@@ -40,7 +40,7 @@ The Help portion of the toolbar on most browsers will tell you how to prevent yo
 
 Information about our customers is an important part of our business and we are not in the business of selling it to others. We share customer information only as described below.
 
-  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and [links](http://diaryofahollywoodstreetking.com/category/links/ "links") (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
 
   * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Diaryofahollywoodstreetking.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
