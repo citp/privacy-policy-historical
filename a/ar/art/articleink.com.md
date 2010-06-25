@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articleink.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621175100id_/http%3A//www.articleink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleink.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626003409id_/http%3A//www.articleink.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Article Directory | Privacy Policy - Article Ink
+# Privacy Policy - Article Ink
 
 This is the website of Article Ink. Our goal is to offer you a personal and interactive experience at our website that takes use of the different forms of Internet technology available. To take full advantage of our site's features, we may require that you give different forms of information about yourself. Never will the information you provide to our website be given or sold for use by an unauthorized third party.
 
