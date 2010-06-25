@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223185120id_/http%3A//www.wgme.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626001312id_/http%3A//www.wgme.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WGME 13 News Privacy Policy
 
@@ -24,32 +24,3 @@ All personal information collected by this Website may be disclosed as required 
 
 **Linked Sites**  
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites. 
-
-  
-81 Northport Drive  
-Portland, ME 04103
-
-Tel: 207-797-1313  
-Fax: 207-878-3505  
-Fax News: 207-878-7482
-
-**Email Address:**  
-[tvmail@wgme.com](mailto:tvmail@wgme.com)
-
-General Manager  
-**Tom Humpage**
-
-News Director  
-**Robb Atkinson**
-
-General Sales  
-**Don Barr**
-
-Promotions  
-**Alisa Burris**
-
-Chief Engineer  
-**Craig Clark**
-
-Web Producer  
-**Anthony Donnangelo**
