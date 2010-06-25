@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starcostumes.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207135210id_/http%3A//www.starcostumes.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcostumes.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625145031id_/http%3A//www.starcostumes.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Star Costumes - Privacy Policy
+# Star Costumes | Privacy Policy
 
 For more than 13 years, StarCostumes.com has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history. 
 
