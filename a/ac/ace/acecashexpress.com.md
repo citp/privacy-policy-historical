@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the acecashexpress.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115102944id_/http%3A//www.acecashexpress.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acecashexpress.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625124721id_/http%3A//www.acecashexpress.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# ACE Cash Express: Privacy Policy
-
-  
-PRIVACY NOTICE
+# Privacy Policy
 
 ACE Cash Express, Inc. understands that your privacy is very important to you. We want every customer, associate, and vendor to know how we protect a customer's financial privacy. This policy exists so that everyone can understand what our business practices are in handling the nonpublic personal information that is provided to ACE. ACE has one privacy policy for consumers that applies to all of ACE's brands, locations, companies, and subsidiaries.
 
@@ -14,21 +11,28 @@ ACE depends on a variety of sources of information to meet our obligation of pro
   * information you provide us on new customer cards, applications, and account set-up screens, such as your name, address, telephone number, Social Security number and other information you provide to us; and
   * information about your transactions with us, our affiliates, or other nonaffiliated third parties, including how often you visit our stores, your recent transactions, size of checks, telephone requests, services purchased and other retail transaction information.
 
-  
+
+
 ACE restricts access to nonpublic personal information about you to employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
 In order to provide you with the products or services you request or to make you aware of financial products or services that might be of interest to you, we may disclose the information we collect, as described above, to companies that perform administrative or marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. These companies are not permitted to use or share this information for any other purpose. We may also disclose nonpublic personal information about you to nonaffiliated third parties as permitted by law. We want you to know that we do not sell customers' names, addresses, telephone numbers or any other information to telephone solicitors, sales organizations, mailing lists sellers, database marketers or others.
 
 If you have any questions about our privacy policy, you may write to Vice President of Compliance, ACE Cash Express, Inc., 1231 Greenway Drive Suite 600, Irving, TX 75038 or call 1-866-223-2274.
 
+  
+
+
 * * *
 
-  
 Web and E-Marketing Privacy Policy Statement of ACE Cash Express, Inc.
 
 Our postal address is  
 1231 Greenway Drive, Suite 600  
-Irving, TX 75038
+Irving, TX 75038  
+
+
+  
+
 
 We can be reached via e-mail at [aceonline@acecashexpress.com](mailto:aceonline@acecashexpress.com) or you can reach us by telephone at 888-753-2384
 
