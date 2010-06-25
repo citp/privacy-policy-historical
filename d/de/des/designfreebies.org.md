@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the designfreebies.org privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530154613id_/http%3A//www.designfreebies.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designfreebies.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626010024id_/http%3A//www.designfreebies.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Graphic Design Free Resources
 
-**Privacy Policy**
+* **Privacy Policy**
 
 Your privacy is of utmost importance to us here at _Graphic Design Free Resources_. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
