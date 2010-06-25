@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warcraftrealms.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180438id_/http%3A//www.warcraftrealms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcraftrealms.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625044135id_/http%3A//www.warcraftrealms.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WarcraftRealms.com
 
@@ -15,3 +15,5 @@ WarcraftRealms.com only collects online information and will never try to match 
 ### Information usage
 
 We may use your personal information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We do this to better understand and serve our visitors. Additionally, This information is only to be used by WarcraftRealms.com and not to be sold, or put into the hands of a third party website or company. Please be aware that advertisers or web sites with links to our sites may collect personal information about you. And remember, the WarcraftRealms.com Privacy Policy does not apply to, and cannot control the activities of, those other advertisers or web sites. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/). 
