@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovercard.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223214717id_/http%3A//www.discovercard.com/customer-service/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovercard.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625142839id_/http%3A//www.discovercard.com/customer-service/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies - Providing You With Peace of Mind :: Discover Financial Services
 
