@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howardcc.edu privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224005920id_/http%3A//www.howardcc.edu/about_hcc/privacy_statement/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howardcc.edu privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625214858id_/http%3A//www.howardcc.edu/about_hcc/privacy_statement/privacy.html) for the most accurate reproduction.*
 
 # College Security, Privacy, & Accessibility Policies
 
