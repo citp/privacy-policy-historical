@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224025954id_/http%3A//www.members1st.org/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626000734id_/http%3A//www.members1st.org/Privacy.htm) for the most accurate reproduction.*
 
 # Members 1st Privacy Policy
 
