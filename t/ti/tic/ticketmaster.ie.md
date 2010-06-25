@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.ie privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221235002id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.ie privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625194658id_/http%3A//www.ticketmaster.ie/legal/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster.ie - Privacy
 
@@ -54,7 +54,5 @@ This Site has security measures in place to protect the loss, misuse and alterat
 
 **Your rights with regard to the data we hold**  
 You have the right to obtain a copy of the personal data we hold about you. You also have the right to correct any inaccuracies in such data. If you wish to avail of any of these rights, please contact us via [Customer Services](http://www.ticketmaster.ie/h/customer_serve.html "Click to contact") or at Ticketmaster Ireland Mailing Services, PO BOX 4695, Dublin 2. Your request will be dealt with as soon as possible and will not take more than 40 days to process. 
-
-If you have any questions or concerns about this privacy statement, you can contact us at [legal@ticketmaster.ie](mailto:legal@ticketmaster.ie "Click to contact")
 
 Please note that any customer query regarding a current or past booking cannot be dealt with through this link. Please contact [Customer Services](http://www.ticketmaster.ie/h/customer_serve.html "Click to contact"). 
