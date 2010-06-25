@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webcamclub.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025131616id_/http%3A//www.webcamclub.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamclub.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626002524id_/http%3A//www.webcamclub.com%3Fc2hvdz1wcml2YWN5) for the most accurate reproduction.*
 
-# Live Sex | Webcam Sex | Live Girls | Live on Cam | Sex Webcams | Hot Webcam Girls | WebCamClub
+# WebCamClub.com - Live Sex Web Cam Video Chat - Free Memberships, XXX Live Sex Girls
 
 Privacy Policy for [www.webcamclub.com](http://www.webcamclub.com/) and [www.webcamclub.tv](http://www.webcamclub.tv/)
 
