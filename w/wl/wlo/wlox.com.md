@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wlox.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224180040id_/http%3A//www.wlox.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlox.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625121705id_/http%3A//www.wlox.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
-# Privacy Policy - WLOX-TV and WLOX.com - Building South Mississippi Together |
+# Privacy Policy - WLOX-TV and WLOX.com - The News for South Mississippi
 
 **This Website's Privacy Policy**
 
