@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymail.co.uk privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202080321id_/http%3A//www.dailymail.co.uk/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymail.co.uk privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625060037id_/http%3A//www.dailymail.co.uk/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | Mail Online
 
@@ -13,6 +13,8 @@ We collect personal information from you (such as name, address, telephone numbe
 In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. Most Internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies.
 
 The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the Internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
+
+Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
 
 ## Use Of Your Information
 
