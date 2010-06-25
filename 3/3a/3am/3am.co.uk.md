@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3am.co.uk privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222193959id_/http%3A//www.3am.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3am.co.uk privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625060004id_/http%3A//www.3am.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 3am
 
