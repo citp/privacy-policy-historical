@@ -1,0 +1,576 @@
+<!--The following is the downloaded HTML source of the newsinc.com privacy policy that was archived on 2010-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625233602id_/http%3A//control.newsinc.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link href="../App_Themes/Blue/styles.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Blue/ui.core.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Blue/ui.datepicker.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Blue/ui.theme.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Blue/WidgetManager.css" type="text/css" rel="stylesheet"><title>
+	
+            News Distribution Network, Inc. :: Privacy Policy
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><span>
+        <link rel="shortcut icon" href="http://control.newsinc.com:80/App_Themes/Blue/Images/favicon.ico">
+	    <script src="http://control.newsinc.com:80/Scripts/jquery-1.3.2.min.js" type="text/javascript"></script> 
+	    <script src="http://control.newsinc.com:80/Scripts/jquery.toJSON.js" type="text/javascript"></script> 
+	    <script src="http://control.newsinc.com:80/Scripts/scripts.js" type="text/javascript"></script> 
+	    <script src="http://control.newsinc.com:80/Scripts/div-popup.js" type="text/javascript"></script> 
+	    <script src="http://control.newsinc.com:80/Scripts/userMgt.js" type="text/javascript"></script>
+	    <script src="http://control.newsinc.com:80/Scripts/common.js" type="text/javascript"></script>
+	    <script src="http://control.newsinc.com:80/Scripts/jquery.cookie.min.js" type="text/javascript"></script>
+	    
+	    <script type="text/javascript">
+
+	        var sessionManager = new function()
+	        {
+	            this.intervalId = null;
+	            this.refreshIntervalId = null;
+	            this.isBusy = false;
+	            this.disable = function()
+	            {
+	                clearTimeout(sessionManager.intervalId);
+	                sessionManager.intervalId = null;
+	            };
+
+	            this.enable = function()
+	            {
+	                if (!sessionManager.isBusy)
+	                {
+	                    if (sessionManager.intervalId != null)
+	                        sessionManager.disable();
+	                    sessionManager.disableRefresh();
+	                    sessionManager.intervalId = window.setTimeout("sessionManager.showMessage()", Number('1200000'))
+	                }
+	            };
+	            this.deactivate = function(maintain)
+	            {
+	                if (maintain)
+	                {
+	                    sessionManager.refresh();
+	                    sessionManager.enableRefresh();
+
+	                }
+	                sessionManager.isBusy = true;
+	                sessionManager.disable();
+	            }
+
+	            this.activate = function()
+	            {
+	                sessionManager.isBusy = false;
+	                sessionManager.enable();
+	            }
+	            this.showMessage = function()
+	            {
+	                if (isLoggedIn)
+	                {
+	                    sessionManager.disable();
+	                    updatePopup(messages.sessionexpiry, popupEnum.error, logout);
+	                }
+	            }
+	            this.refresh = function()
+	            {
+	                var voidfunction = function() { return true; };
+	                callAjaxPostBack('', 'http://control.newsinc.com:80/home/refreshsession', voidfunction, voidfunction, true, 'GET');
+	            }
+	            this.disableRefresh = function()
+	            {
+	                if (sessionManager.refreshIntervalId)
+	                    clearInterval(sessionManager.refreshIntervalId);
+	                sessionManager.refreshIntervalId = null;
+	            }
+	            this.enableRefresh = function()
+	            {
+	                if (sessionManager.refreshIntervalId != null)
+	                    sessionManager.disableRefresh();
+	                sessionManager.refreshIntervalId = window.setInterval("sessionManager.refresh()", Number('1080000'))
+
+	            };
+	        };
+
+	        var linkManager = new function()
+	        {
+	            this.cookieKey = 'selected';
+	            this.isMain = false;
+	            this.isTop = false;
+	            this.playlist = 0;
+	            this.isPlayer = false;
+	            this.isVideoAdmin = false;
+	            this.initialize = function()
+	            {
+
+	                linkManager.isMain = setSelection("#toolsmenu li a");
+	                $('#lnkReporting').attr('class', '');
+	                if (!linkManager.isMain)
+	                {
+	                    this.isTop = setSelection("#logoutbar a");
+	                }
+	            };
+	            function setSelection(linksPath)
+	            {
+
+	                var found = false;
+	                var isSubMenu = false;
+	                var subIndex = -1;
+	                var links = $(linksPath);
+	                var url = window.location.href.toLowerCase();
+	                var indexUrl = '';
+	                if (url.lastIndexOf('/') + 1 == url.length)
+	                    indexUrl = url + "index";
+	                else
+	                    indexUrl = url + "/index";
+	                var currentUrl = '';
+	                if (indexUrl.indexOf('help') < 0)
+	                {
+	                    for (var index = 0; index < links.length; index++)
+	                    {
+	                        currentUrl = links[index].href.toLowerCase();
+	                        if (url.indexOf(currentUrl) == 0 || indexUrl.indexOf(currentUrl) == 0)
+	                        {
+
+	                            if (url.indexOf('/admin/content') > 0 || url.indexOf('/admin/report') > 0)
+	                            {
+	                                $('#lnkReporting').attr('class', 'selected');
+	                            }
+	                            $(links[index]).attr('class', 'selected')
+	                            found = true;
+	                            break;
+	                        }
+	                        else if (!isSubMenu)
+	                        {
+	                            var indexPosition = currentUrl.indexOf('/index');
+	                            if (indexPosition < 0)
+	                                indexPosition = currentUrl.indexOf('/playerindex');
+	                            if (indexPosition < 0)
+	                                indexPosition = currentUrl.indexOf('/adminindex');
+	                            if (indexPosition < 0)
+	                                indexPosition = currentUrl.length;
+
+	                            var mainUrl = currentUrl.substring(0, indexPosition);
+	                            if (url.indexOf(mainUrl) == 0 || indexUrl.indexOf(mainUrl) == 0)
+	                            {
+	                                if ((linkManager.isPlayer && currentUrl.indexOf('/playerindex') > 0) || (linkManager.isVideoAdmin && currentUrl.indexOf('/adminindex') > 0) || (!linkManager.isPlayer && !linkManager.isVideoAdmin))
+	                                {
+	                                    isSubMenu = true;
+	                                    subIndex = index;
+	                                }
+	                            }
+	                        }
+	                    }
+	                }
+	                if (!found && isSubMenu)
+	                {
+	                    found = true;
+	                    $(links[subIndex]).attr('class', 'selected')
+	                }
+	                return found;
+	            }
+
+	            this.selectPlaylist = function()
+	            {
+	                var links = $('.playlistsection a');
+	                $(links).parent().attr('class', '')
+	                $('#pl' + linkManager.playlist).parent().attr('class', 'selected');
+	            }
+	        };
+
+	        $.ajaxSetup({
+	            cache: false,
+	            beforeSend: sessionManager.disable,
+	            complete: sessionManager.enable
+	        });
+
+
+	        var messages = {};
+	        var isLoggedIn = 'false' == 'true';
+	        messages.sessionexpiry = 'Your session has expired. Click Ok to return to Login page.';
+	        var serverDate = new Date('6/25/2010');
+	        $(document).ready(function()
+	        {
+	            if ($.browser.msie && $.browser.version != '8.0')
+	            {
+	                $("#report_sub").css("margin", "12px 0px 0px -70px");
+	            }
+	            initilializePopup();
+
+	            //initialize session timer only if user is logged in
+	            if (isLoggedIn)
+	                sessionManager.enable();
+
+	            linkManager.initialize();
+	        });
+
+	        function validateLogin()
+	        {
+	            var button = $("#loginbtn");
+	            var msg = '';
+	            button.disabled = true;
+	            var loginDetails = new Object();
+	            loginDetails.UserName = $.trim($("#username").val());
+	            loginDetails.Password = $.trim($("#password").val());
+	            if (loginDetails.UserName == '')
+	            {
+	                msg = "-Username is required<br/>";
+	            }
+	            if (loginDetails.Password == '')
+	            {
+	                msg = "-Password is required<br/>";
+	            }
+	            if (msg != '')
+	                showWarning(msg);
+	            else
+	            {
+	                var url = 'http://control.newsinc.com:80/Home/Login';
+	                login(loginDetails.UserName, loginDetails.Password, url);
+	            }
+	            return false;
+	        }
+
+	        function reset()
+	        {
+	            showProgress('Resetting impersonation. Please wait...');
+	            var success = function(e) { if (e) window.location = 'http://control.newsinc.com:80/Admin'; else { showError('Unable to reset impersonation. Please try after some time.'); } }
+	            callAjaxPostBack('', 'http://control.newsinc.com:80/Home/UnImpersonate', success, sessionManager.showMessage, true, 'GET');
+
+	        }
+	        function logout()
+	        {
+	            sessionManager.deactivate();
+	            
+	            var voidfunction = function() { return true; };
+	            callAjaxPostBack('', 'http://control.newsinc.com:80/Home/SignOut', voidfunction, voidfunction, true, 'GET');
+
+	            var success = function(e) { if (e) window.location = 'http://control.newsinc.com:80/Home'; else { showError('Unable to logout.'); } }
+	            callAjaxPostBack('', 'http://control.newsinc.com:80/Home/logout', success, function() { window.location = 'http://control.newsinc.com:80/Home' }, true, 'GET');
+	        }
+	</script> 
+	
+    </span>
+
+    
+    <div id="container">
+        <!--Container middle Start-->
+        <div id="containermiddle">
+            <div id="header">
+                <img src="http://control.newsinc.com:80/App_Themes/Blue/Images/ndnlogo.jpg" title="News Distribution Network, Inc." alt="News Distribution Network, Inc.">
+                
+            </div>
+            
+            <!-- Main Content Will Go Here -->
+            
+            <div style="margin: 0px auto 10px auto; width: 954px; height: 10px;">
+                <p class="breadCrumb">
+                    <span title="Privacy Policy">Privacy Policy</span>
+                </p>
+            </div>
+            
+    <div id="maincontent">
+        
+    <div style="margin-top: 18px; text-align: center">
+        <p>
+            </p><h2>
+                Privacy Policy</h2>
+        <p></p>
+    </div>
+    <div style="margin-top: 12px;">
+        <p>
+            This Privacy Policy explains the data collection and use practices of www.politicaliq.com,
+            which is owned and operated by News Distribution Network, Inc. (“NDN”). By using
+            this site, you signify your assent to our Privacy Policy.
+            <br>
+            <br>
+            We are committed to protecting your privacy and honoring the integrity of your personal
+            information. We do not sell any information collected through this site to others
+            except as disclosed in this Privacy Policy. If you have any requests concerning
+            your personal information or any queries with regard to these practices please contact
+            our support team by e-mail at support@politicaliq.com.
+            <br>
+            <br>
+            <b>What this Privacy Policy Covers</b>
+            <br>
+            </p><ul type="disc" style="padding-left: 30px">
+                <li>This Privacy Policy applies to the services offered by NDN, including any NDN-branded
+                    URL websites such as politicaliq.com and other features, content or applications
+                    offered from time to time by NDN in connection with the politicaliq.com website.
+                    The politicaliq.com website is hosted in the United States. </li>
+                <li>This policy covers how NDN collects, uses and shares information, including personally
+                    identifiable information that you provide to us and information we collect automatically
+                    related to your use of the politicaliq.com website and services. </li>
+                <li>This Privacy Policy does not apply to the practices of companies that NDN does not
+                    own or control, to content or information not generated by NDN, or to acts of people
+                    that NDN does not employ or manage. </li>
+            </ul>
+            <br>
+            <b>Information Collection</b>
+            <br>
+            <br>
+            When you visit the politicaliq.com website, you provide us with two types of information:
+            personally identifiable information and other information about you that you knowingly
+            choose to disclose, and other information we collect automatically as you interact
+            with the politicaliq.com website.
+            <br>
+            <br>
+            <b>Information You Provide to PoliticalIQ.com</b>
+            <br>
+            <br>
+            We collect personal information from you when you:
+            <table>
+                <tbody><tr>
+                    <td width="20">
+                    </td>
+                    <td width="20">
+                        (i)
+                    </td>
+                    <td>
+                        submit questions or material to us,
+                    </td>
+                </tr>
+                <tr>
+                    <td width="20">
+                    </td>
+                    <td width="20">
+                        (ii)
+                    </td>
+                    <td>
+                        register on this site
+                    </td>
+                </tr>
+                <tr>
+                    <td width="20">
+                    </td>
+                    <td width="20">
+                        (iii)
+                    </td>
+                    <td>
+                        purchase a product from us,
+                    </td>
+                </tr>
+                <tr>
+                    <td width="20">
+                    </td>
+                    <td width="20">
+                        (iv)<br>
+                        <br>
+                        <br>
+                    </td>
+                    <td>
+                        use our website, such as setting up your personal profile, making connections, sending
+                        messages, performing searches and queries, forming or joining groups, submitting
+                        content, participating in discussions and forums, or sending and receiving information
+                        through various channels,
+                    </td>
+                </tr>
+                <tr>
+                    <td width="20">
+                    </td>
+                    <td width="20">
+                        (v)
+                    </td>
+                    <td>
+                        e-mail us, or
+                    </td>
+                </tr>
+                <tr>
+                    <td width="20">
+                    </td>
+                    <td width="20">
+                        (vi)
+                    </td>
+                    <td>
+                        enter one of our contests or sweepstakes.
+                    </td>
+                </tr>
+            </tbody></table>
+            We use personal information collected through this site to:
+            <ul type="disc" style="padding-left:30px">
+                <li>provide a personalized service,</li>
+                <li>conduct market research surveys,</li>
+                    <li>fulfill product orders,</li>
+                    <li>run features that incorporate submissions to the site,</li>
+                    <li>provide information and services you request or subscribe to, and</li>
+                    <li>provide you with information about, and access to, products and services we offer,
+                        either ourselves or jointly with or on behalf of other organizations. </li>
+            </ul>
+            If you do not wish to receive information about our products or services, or the
+            products or services offered jointly with or on behalf of other organizations, please
+            check the appropriate box on the registration page or other relevant form or page
+            through which the information is collected.
+            <br>
+            <br>
+            <b>Automatically collected information</b>
+            <br>
+            <br>
+            We collect information in the aggregate form through the use of cookies and IP addresses,
+            such as demographic information and browsing patterns, including domain and host
+            from which you access the Internet, your domain name, the Internet protocol (IP)
+            address of the computer you are using, the name of the page that referred you to
+            us, the date and time you access our site, the pages you visited, and the entry
+            and exit times from the politicaliq.com website. We also collect information about
+            your interactions and transactions with us and some of our business partners. Such
+            information does not identify any individual and will not be linked to any personal
+            information. We use such information to:
+            <ul type="disc" style="padding-left:30px">
+                <li>monitor the usage of our website,</li>
+                <li>build up marketing profiles,</li>
+                <li>aid strategic development,</li>
+                <li>manage our relationship with advertisers and content providers, and</li>
+                <li>audit usage of the site.</li>
+            </ul>
+            We may share such information, in the aggregate form only, with our affiliates,
+            partners or advertisers, or other third parties.
+            <br>
+            <br>
+            <b>Use of Information</b>
+            <br>
+            <br>
+            In addition to the uses described above with respect to information you provide
+            and information we automatically collect, we use collected information to customize
+            the advertising and content you see, fulfill your requests for products and services,
+            improve our services, contact you if necessary, conduct research, assist with systems
+            administration, resolve problems, and provide anonymous reporting for internal and
+            external clients. We may occasionally use your name and email address to send you
+            notifications regarding new services we offer that we think you may find valuable.
+            We may combine information about you that we have with information we obtain from
+            business partners or other companies. We may also create compilations of information
+            that are not personally-identifying and provide these compilations to other companies
+            to help them understand the shopping patterns or general interests of visitors to
+            the politicaliq.com website.
+            <br>
+            <br>
+            <b>Use of Cookies</b>
+            <br>
+            <br>
+            We use "cookies" to identify you when you visit this site and to build up a demographic
+            profile. Our use of cookies also allows registered users to be presented with a
+            personalized version of the politicaliq.com website. A cookie is a small piece of
+            information sent by a web server to a web browser, which enables the server to collect
+            information back from the browser. Find out more about the use of cookies on <a href="http://www.cookiecentral.com" target="_blank">http://www.cookiecentral.com</a>. This Privacy Policy covers
+            the use of cookies by NDN only, and does not cover the use of cookies or other tracking
+            technologies by any of our advertisers.
+            <br>
+            <br>
+            <b>Submissions</b>
+            <br>
+            <br>
+            Any personal information you choose to provide to us with your submissions posted
+            to this site may appear on the site, but only to identify you as the author of the
+            submission, unless you expressly authorize us to make further use of the information
+            on the site. If you voluntarily disclose or permit disclosure of personal information,
+            that information can also be collected and used by others. If you submit to the
+            site any comments, photographs, videos, music text or other content, you grant to
+            NDN the unlimited, perpetual, royalty-free right to use your name, voice, likeness
+            and other personal information in connection with such submission in any media,
+            now known or hereafter devised, throughout the world.
+            <br>
+            <br>
+            <b>Privacy Policy for Children Under 13</b>
+            <br>
+            <br>
+            In accordance with the Children's Online Privacy Protection Act (commonly referred
+            to as “COPPA”), we do not require children under the age of 13 to provide us with
+            any more information than is reasonably necessary to participate and make use of
+            this site and under no circumstances do we require children under the age of 13
+            to provide us with any personal information. Children under the age of 13 should
+            not submit or post any personal information without the written consent of their
+            parents or legal guardians. If you are a child under the age of 13 and want to submit
+            your personal information to us, you should ask your parents to send an e-mail to
+            [politicaliqsupport@dave.tv] specifically allowing us to collect your personal information
+            through this site. By doing so, you allow us to alert your parent or guardian about
+            this site's Privacy Policy. We do not intend to sell, license or trade any such
+            information collected to third parties. Parents may review or change the personal
+            information of their children provided to us or further refuse our collection of
+            such information by sending an e-mail to [politicaliqsupport@dave.tv].
+            <br>
+            <br>
+            <b>Partner Sites / Linked Sites</b>
+            <br>
+            <br>
+            Our site features several activities, which are co-sponsored or operated by other
+            sites. These activities will be identifiable by their co-branding. While these activities
+            originate on the politicaliq.com website, they may link to other sites not operated
+            by NDN. We have no control over the privacy practices or the content of any of our
+            co-sponsors and strongly recommend that you check their privacy policies before
+            engaging in these activities. Additionally, our site contains links to other sites,
+            including those of advertisers. We have no control over the privacy practices of
+            advertisers or other sites to which we provide links from this site. For example,
+            if you click on a banner advertisement, the click takes you off this site. These
+            other sites may use cookies, collect data or solicit personal information. We strongly
+            recommend that you check the applicable privacy policy of the site to which you
+            are linking.
+            <br>
+            <br>
+            <b>Security of Information</b>
+            <br>
+            <br>
+            We use commercially reasonable efforts to keep your personally identifiable information
+            secure. Unfortunately, no electronic communication over the Internet can be guaranteed
+            to be 100% secure. While we strive to take care to protect your personally identifiable
+            information, NDN cannot warrant the security of any information that you submit
+            to us, and you do so at your own risk. We do offer secured-server transactions that
+            encrypt your information in transit to thwart someone from intercepting it and misusing
+            it when collecting credit card information for online purchases. We also store any
+            personal information, including credit card numbers, in a secure area to which the
+            general public does not have access.
+            <br>
+            <br>
+            <b>Updating Personal Information</b>
+            <br>
+            <br>
+            If you would like to change any contact or billing information, or if you no longer
+            desire to receive any marketing communications from us or our partners, please email
+            us at [politicaliqsupport@dave.tv].
+            <br>
+            <br>
+            <b>Changes in Privacy Policy</b>
+            <br>
+            <br>
+            We reserve the right to change this policy at any time, and will post any changes
+            to this policy as soon as they go into effect without prior notice to you. Any such
+            changes are effective as of the date such changes are posted on this page. Please
+            check this page periodically to view our most current Privacy Policy.
+        <p></p>
+        <br>
+        <br>
+    </div>
+
+    </div>
+
+        </div>
+        <!--Container middle End -->
+        <!--Container bottom Start-->
+        <!-- End of Main Content -->
+        <div id="footer" style="clear: both; float: left;">
+            © 2010 <a href="http://www.newsinc.com" title="News Distribution Network, Inc.">
+                News Distribution Network, Inc.</a> <a href="http://control.newsinc.com:80/Home/TermsOfUse" title="Terms of Use" target="_blank">Terms of Use</a>
+        </div>
+    </div>
+    <!--end of container div-->
+    <div id="divPopup" class="popup">
+        <div class="pheader">
+            <input type="image" id="close" class="close" alt="Close" title="Close" src="http://control.newsinc.com:80/App_Themes/Blue/Images/pclose.png">
+            <div id="heading" class="heading">
+                News Distribution Network, Inc.</div>
+        </div>
+        <div id="popuptype">
+            <img id="popupimg" alt="" src="http://control.newsinc.com:80/App_Themes/Blue/Images/warning.png" border="0" name="http://control.newsinc.com:80/App_Themes/Blue/Images/" class="popupimg"></div>
+        <div id="content" class="content">
+        </div>
+        <div style="text-align: center; padding: 10px 0px 10px 0px;">
+            <input type="image" id="imgok" src="http://control.newsinc.com:80/App_Themes/Blue/Images/btn_ok.png" alt="Ok" title="Ok"><input type="image" id="imgcancel" src="http://control.newsinc.com:80/App_Themes/Blue/Images/btn_cancel.png" title="Cancel" tabindex="Cancel" style="margin-left: 10px;">
+        </div>
+        <div class="pfooter">
+        </div>
+    </div>
+    <div id="mask" class="mask">
+    </div>
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        try
+        {
+            var pageTracker = _gat._getTracker("UA-10023726-1");
+            pageTracker._trackPageview();
+        } catch (err) { }
+    </script>
+
+
+
+</body></html>
