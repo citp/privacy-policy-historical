@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3-converter.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223004103id_/http%3A//www.mp3-converter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3-converter.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625041544id_/http%3A//www.mp3-converter.com/privacy.htm) for the most accurate reproduction.*
 
 # MP3-Converter.com privacy policy
 
