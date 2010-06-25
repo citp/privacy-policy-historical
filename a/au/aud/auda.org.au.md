@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224212855id_/http%3A//www.auda.org.au/policies/auda-2002-10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625232840id_/http%3A//www.auda.org.au/policies/auda-2002-10) for the most accurate reproduction.*
 
 # auDA > auDA Published Policies > Privacy Policy (2002-10)
-
-This document outlines auDA’s policy on the collection by auDA of personal information, as well as how that information is used, accessed and protected. As this is auDA’s policy, it does not apply to members of the domain name industry operating within the .au domain. They are required to develop their own Privacy Policies in line with the Privacy Act.
-
-For more information about the Privacy Act, go to [www.privacy.gov.au](http://www.privacy.gov.au/) or call the privacy hotline on 1300 363 992.
-
-Read auDA’s Privacy Policy below. 
-
-* * *
 
 [PDF version](https://web.archive.org/pdf/auda-2002-10.pdf)
 
 **Policy No: 2002-10  
 ** Publication Date: 11/06/2002   
-Status: Current 
+Status: Replaced by [Policy No 2010-02](https://web.archive.org/policies/auda-2010-02/ "Privacy Policy \(2010-02\)")
 
 1\. BACKGROUND 
 
@@ -87,3 +79,5 @@ c) we are permitted or required by law, or it is in the interests of public safe
 6\. REVIEW OF POLICY 
 
 6.1 auDA reserves the right to revise this policy at any time and those people who volunteer their personal details to auDA are deemed to acknowledge and be bound by this policy and any changes made to it. This is no way affects the protection afforded under the relevant laws, according to which this policy was developed. 
+
+Last Updated: 25/06/2010 14:00
