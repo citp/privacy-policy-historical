@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the superoffice.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225173754id_/http%3A//www.superoffice.com/Settings/Content/Privcay-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superoffice.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626002707id_/http%3A//www.superoffice.com/Settings/Content/Privcay-Statement) for the most accurate reproduction.*
 
 # Privacy Statement - SuperOffice CRM
 
 “SuperOffice.com” or the “Company” is committed to protecting the privacy of your information. This Privacy Statement describes SuperOffice.com’s information practices 
 
-This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement: [http://www.SuperOffice.com](http://www.superoffice.com/) and [http://www.ejournal.no](http://www.ejournal.no/); (collectively referred to as “SuperOffice.com’s Web sites” or “the Company’s Web sites”). 
+This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement: [http://www.SuperOffice.com](http://www.superoffice.com/), <http://www.superoffice.com/crmonline> and [http://www.ejournal.no](http://www.ejournal.no/); (collectively referred to as “SuperOffice.com’s Web sites” or “the Company’s Web sites”). 
 
 Applications may be posted by SuperOffice.com and third parties. When applications are posted by SuperOffice.com, this Privacy Statement applies. When applications are posted by third parties, the privacy statement of the third party applies, and this Privacy Statement does not apply. 
 
