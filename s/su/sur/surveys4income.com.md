@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surveys4income.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001182658id_/http%3A//www.surveys4income.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveys4income.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625045003id_/http%3A//www.surveys4income.com/privacy.html) for the most accurate reproduction.*
 
-# None
+# Paid Surveys- Earn Real Income From Home
 
 Privacy Policy
 
@@ -65,5 +65,5 @@ Policy Changes
 
 Survey4Income reserves the right to change this privacy policy at any time.
 
-(C)Copyright 2007-2099 Surveys4Income.com,Helen Shilton & Associates  
+(C)Copyright 2007-2099 [Surveys4Income.com](http://www.surveys4income.com/),Helen Shilton & Associates  
 
