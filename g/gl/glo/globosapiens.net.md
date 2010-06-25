@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globosapiens.net privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612193433id_/http%3A//www.globosapiens.net/about/080000.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globosapiens.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626002104id_/http%3A//www.globosapiens.net/about/080000.html) for the most accurate reproduction.*
 
 # GLOBOsapiens - Privacy Policy
 
