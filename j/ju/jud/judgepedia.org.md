@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judgepedia.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202352id_/http%3A//judgepedia.org/index.php/Judgepedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judgepedia.org privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625030036id_/http%3A//judgepedia.org/index.php/Judgepedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Judgepedia:Privacy policy - Judgepedia
 
