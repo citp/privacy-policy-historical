@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobright.org privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420233057id_/http%3A//www.infobright.org/Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobright.org privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625223415id_/http%3A//www.infobright.org/Legal/Privacy-Policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - infobright.org
 
