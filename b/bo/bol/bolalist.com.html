@@ -1,0 +1,384 @@
+<!--The following is the downloaded HTML source of the bolalist.com privacy policy that was archived on 2010-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625140850id_/http%3A//www.bolalist.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>BolaList Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=">
+<meta name="description" content="">
+<meta name="keywords" content="Business Directory, Business Listing, USA Business Directory, USA Business Listing">
+<link href="http://bolalist.com/css/inside.css" rel="stylesheet" type="text/css">
+<!--<link href="css/inside.css" rel="stylesheet" type="text/css">-->
+
+<link href="http://bolalist.com/main.css" rel="stylesheet" type="text/css">  
+<link href="http://bolalist.com/css/searchform.css" rel="stylesheet" type="text/css">
+
+<!--[if lte IE 6]>
+   <link rel="stylesheet" type="text/css" href="http://bolalist.com/css/ie6.css" />
+   <![endif]-->
+
+<link rel="stylesheet" href="http://bolalist.com/css/floating-window.css" media="screen" type="text/css">
+<link rel="stylesheet" href="http://bolalist.com/css/thickbox.css" type="text/css" media="screen">
+
+<script type="text/javascript" src="http://bolalist.com/js/jquery.js"></script>
+<script type="text/javascript" src="http://bolalist.com/js/main.js"></script>
+
+
+</head>
+
+<body>
+
+
+ <!--Themes for captcha -->
+ <script type="text/javascript">
+var RecaptchaOptions = {
+   theme : 'white'
+};
+</script>
+<!--@Themes for captcha --> 
+
+<script language="javascript" type="text/javascript">
+
+// Setting initial size of windows
+// These values could be overridden by cookies.
+windowSizeArray[1] = [200,400];	// Size of first window
+windowPositionArray[1] = [200,200]; // X and Y position of first window
+windowSizeArray[2] = [150,250];	// Size of second window
+windowPositionArray[2] = [500,300]; // X and Y position of first window
+windowSizeArray[3] = [140,100];	// Size of third window
+windowPositionArray[3] = [50,500]; // X and Y position of first window
+
+
+
+
+//Cookies
+
+function createCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/";
+}
+
+
+
+
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+function eraseCookie(name) {
+    createCookie(name,"",-1);
+}
+
+function changeLocation(){  
+  
+    document.form_search.submit();     
+}
+
+
+function checkForm(){
+	search_what = document.form_search.what.value;
+    search_city = document.form_search.form_city.value;
+	if (search_what=="")
+	{
+		alert ("Please enter some value for search");
+		return false;
+	}  
+  // if (search_city=="")
+//    {
+//        alert ("Please select state and city");
+//        return false;
+//    }    
+	//if (search_what!="" && search_city!=""){
+    else{
+	document.form_search.submit();
+	}
+     
+}
+
+
+
+function setSuggest(){   
+    
+    // var radioval = document.getElementById('what_type').value;  
+    var Elm = document.getElementById("what_busdesc");
+    if (Elm.checked){
+       document.getElementById('what').value=""; 
+       var search_what_val = document.getElementById('what'); 
+       search_what_val.onkeyup = function() { searchSuggest2(); }; 
+    }
+    else{
+    // Do something if it is not checked!
+      document.getElementById('what').value="";
+    }       
+}
+function setType(){   
+    
+    // var radioval = document.getElementById('what_type').value;  
+    var Elm1 = document.getElementById("what_busdesc");
+    var Elm2 = document.getElementById("what_name");
+    if (!Elm1.checked && !Elm2.checked){
+        alert("please select type")
+    }
+}
+
+</script>
+<div id="wrapper">
+
+    <div id="top"> 
+    <a class="map-usa-homepage" href="http://www.bolalist.com/" title="USA Business Directory Home Page">&nbsp;</a>
+ 
+    <a class="map-click-here" title="Add Business" href="http://www.bolalist.com/addbiz.php">&nbsp;</a>
+    <a class="map-usa" href="http://www.bolalist.com/" title="USA Business Directory">&nbsp;</a>
+    <a class="map-uk" href="http://www.bolalist.co.uk/" title="UK Business Directory">&nbsp;</a>
+    
+   <span style="padding-left:40px;">
+   <a href="http://www.bolalist.com/login.php" style="font-size:12px;">Login</a> | 
+   <a href="http://www.bolalist.com/addbiz.php" style="font-size:12px;" title="Add Business">Add Business</a> |
+   <a href="http://www.bolalist.com/login.php" style="font-size:12px;" title="Edit Details Of Business">Edit Business</a>
+   </span> 
+  
+	<div id="topCreateBiz">
+
+	Create Your Own <b>USA Free Business Listing</b>
+
+	
+	<!--<a id="hypHome" href="http://www.bolalist.com/addbiz.php" style="text-decoration:none;" title="Add Business" >
+       &nbsp;
+    </a>-->
+	
+	</div>
+	
+	</div>
+    
+   <a href="http://www.rlalighting.com/CrystoramaCollection.aspx"> <img border="0" src="http://www.bolalist.com/images/banners/Crystorama.gif" title="Shop By Crystorama Collections" alt="Shop By Crystorama Collections" width="890" height="25" style="padding-bottom:5px;"></a>
+	<div id="content">  
+
+	<div class="b1"><b></b></div>
+	        <div class="b2"><b><i><q></q></i></b></div>
+	        <div class="b3"><b><i></i></b></div>
+	        <div class="b4"><b></b></div>
+	        <div class="b5"><b></b></div>
+<div class="text">
+<br clear="all">
+ 
+    <!--Content-->    
+	 <div id="secondaryContent"> 
+         
+
+<h1>Privacy</h1>
+
+<p>
+Bolalist USA Business Directory is sensitive to the privacy issues and we are committed to protecting your privacy in a manner that will allow you to use our resources with complete confidence and comfort. 
+
+</p>
+
+<p>
+Only when voluntarily offered, Bolalist collects information that can identify you and uses this information in accordance with its privacy policy. When you sign up for our services Bolalist requests personal information and business information, including your business name,description of your pruducts and service name,Your name, e-mail address, and other information necessary to provide you with personalized service.
+
+</p>
+
+<p>
+Bolalist takes care to respect the privacy of its online visitors guests or members. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. At Bolalist we continuously strive to improve your experience. To do so, we internally use personally identifiable information to personalize the customer experience and to improve our content and product offering, and site design and layout.
+
+</p>
+
+<p>
+   We do not sell or rent any personally identifiable information about you to any third party. We may share non-personal, aggregate information regarding customer demographics, traffic patterns, sales, and site usage with our partners or advertisers. We will never willfully disclose personally identifiable information about our customers to any third party without prior consent.
+
+</p>
+
+<p>
+We do not share personal information provided by site visitors with anyone outside Bolalist, except to the extent necessary to allow you to participate in site activities. In particular, we do not rent or sell mailing lists of site visitors to any third party. We will never post your e-mail address or other identifying information you have provided on our site without your consent. We collect non-personal information from online visitors in order to constantly improve our web site.
+
+</p>
+
+<p>
+Information that can identify a visitor (e.g. name or address) is not collected in this process, nor does Bolalist require disclosure of such information. Information that can identify a visitor is collected only when the visitor provides it voluntarily.
+
+</p>
+
+<p>
+
+You are solely responsible for maintaining the secrecy of your passwords and/or account information. Please be careful and responsible whenever you're online.
+
+</p>
+
+<p>We use advertising companies, third-party ads to show you, when you visit our site. 
+These companies may use information (not including name, address, email address or your phone number) 
+about your visits to this site and other sites in order to provide advertisements for products 
+and services of interest you.</p>
+
+<p>
+If you want additional information regarding this process, 
+and if you want to know how can I avoid these companies use this information, 
+<a href="http://www.doubleclick.com/privacy/faq.aspx">click here</a>.</p>
+
+<p>
+Google as Third-party retailer, uses cookie files to display ads in our site. Assistance in the use 
+of a cookie file DART, Google can display ads based on users visit their sites and other sites on the Internet.
+Users may cancel your use of the file of the DART cookie by visiting the privacy policy of the ad and 
+content network of Google <a href="http://www.google.com/privacy_ads.html">click here</a>.</p>
+
+<p>
+Contacting Us:<br>  <br> 
+  If you have any questions about our site, this privacy policy, or our general procedures, please email us.  
+</p>
+
+<p><a href="http://www.bolalist.com/addbiz.php">Click here</a> to add a business. 
+After approval by our site's admin, your business will appear on our directory.
+</p>
+<br>
+
+
+
+
+
+   
+	</div>
+	<!--End Content--> 
+	   
+<div id="mainContent">
+	  <br clear="both">
+	   
+	   <div class="b1"><b></b></div>
+	        <div class="b2"><b><i><q></q></i></b></div>
+	        <div class="b3"><b><i></i></b></div>
+	        <div class="b4"><b></b></div>
+	        <div class="b5"><b></b></div>
+<div class="textTop">        
+ <br clear="both">	
+
+ 
+  <a class="a2a_dd" href="http://www.addtoany.com/share_save?linkname=&amp;linkurl=http%3A%2F%2Fwww.bolalist.com%2F">
+<img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share/Save/Bookmark"></a>
+<script type="text/javascript">a2a_linkname=document.title;a2a_linkurl="http://www.bolalist.com/";a2a_show_title=1;a2a_color_main="D7E5ED";a2a_color_border="DDDEE3";a2a_color_link_text="F24E11";a2a_color_link_text_hover="cccccc";</script>
+<script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+ 
+ <a href="http://www.bolalist.com/rss.php" title="Rss Feed" target="_blank">
+<img border="0" align="right" title="Rss Feed" alt="Rss Feed" src="http://bolalist.com/images/feed-icon.png" height="14" width="14"> 
+</a>
+<br>
+<!--<br clear="both" /><br /> -->
+
+
+
+  <!-- Search Form --> 
+   
+<br>
+ 
+	<h2 style="font-family: Helvetica;">Recently Added</h2>
+<ul class="last-added"><li>&nbsp;<a href="http://www.bolalist.com/1361/Los_Angeles_Helicopter_Sales.html" title="Los Angeles Helicopter Sales" class="link">Los Angeles Helicopter Sales</a></li><li>&nbsp;<a href="http://www.bolalist.com/1360/The_Seattle_Limo.html" title="The Seattle Limo" class="link">The Seattle Limo</a></li><li>&nbsp;<a href="http://www.bolalist.com/1359/Wedding_Candle_Favors.html" title="Wedding Candle Favors" class="link">Wedding Candle Favors</a></li><li>&nbsp;<a href="http://www.bolalist.com/1358/Geeks_in_Minutes_Computer_Repair_San_Francisco.html" title="Geeks in Minutes - Computer Repair San Francisco" class="link">Geeks in Minutes - Computer Repair San Francisco</a></li><li>&nbsp;<a href="http://www.bolalist.com/1357/Garage_Tech_Inc_.html" title="Garage Tech Inc." class="link">Garage Tech Inc.</a></li></ul>	<br> 
+    
+    <div style="text-align:center;">
+    <script type="text/javascript"><!--
+google_ad_client = "pub-5712346315449942";
+/* 160x600, bola right */
+google_ad_slot = "0706867971";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+    </div>  
+    <br>
+ </div>
+   
+   <div class="b5"><b></b></div>
+        <div class="b4"><b></b></div>
+        <div class="b3"><b><i></i></b></div>
+        <div class="b2"><b><i><q></q></i></b></div>
+        <div class="b1"><b></b></div>
+<br>
+	
+     
+	
+	   </div>
+   <br clear="both">
+   
+ </div>
+   
+   <div class="b5"><b></b></div>
+        <div class="b4"><b></b></div>
+        <div class="b3"><b><i></i></b></div>
+        <div class="b2"><b><i><q></q></i></b></div>
+        <div class="b1"><b></b></div>
+ </div>
+   
+   <br clear="both"><br clear="all">
+<div id="footer">
+
+	<div class="b1"><b></b></div>
+	        <div class="b2"><b><i><q></q></i></b></div>
+	        <div class="b3"><b><i></i></b></div>
+	        <div class="b4"><b></b></div>
+	        <div class="b5"><b></b></div>
+<div class="textFooter">        
+	<br> 
+  <p style="font-size:12px; margin:0px;color:#485969;" class="bottomMenu">
+ Categories:&nbsp;&nbsp;&nbsp;<span class="search"><a href="http://www.bolalist.com/services/A.html">A</a> | <a href="http://www.bolalist.com/services/B.html">B</a> | <a href="http://www.bolalist.com/services/C.html">C</a> | <a href="http://www.bolalist.com/services/D.html">D</a> | <a href="http://www.bolalist.com/services/E.html">E</a> | <a href="http://www.bolalist.com/services/F.html">F</a> | <a href="http://www.bolalist.com/services/G.html">G</a> | <a href="http://www.bolalist.com/services/H.html">H</a> | <a href="http://www.bolalist.com/services/I.html">I</a> | <a href="http://www.bolalist.com/services/J.html">J</a> | <a href="http://www.bolalist.com/services/K.html">K</a> | <a href="http://www.bolalist.com/services/L.html">L</a> | <a href="http://www.bolalist.com/services/M.html">M</a> | <a href="http://www.bolalist.com/services/N.html">N</a> | <a href="http://www.bolalist.com/services/O.html">O</a> | <a href="http://www.bolalist.com/services/P.html">P</a> | <a href="http://www.bolalist.com/services/Q.html">Q</a> | <a href="http://www.bolalist.com/services/R.html">R</a> | <a href="http://www.bolalist.com/services/S.html">S</a> | <a href="http://www.bolalist.com/services/T.html">T</a> | <a href="http://www.bolalist.com/services/U.html">U</a> | <a href="http://www.bolalist.com/services/V.html">V</a> | <a href="http://www.bolalist.com/services/W.html">W</a> | <a href="http://www.bolalist.com/services/X.html">X</a> | <a href="http://www.bolalist.com/services/Y.html">Y</a> | <a href="http://www.bolalist.com/services/Z.html">Z</a> </span><br><br>Companies:&nbsp;&nbsp;&nbsp;<span class="search"><a href="http://www.bolalist.com/company/all.html">#</a> | <a href="http://www.bolalist.com/company/A.html">A</a> | <a href="http://www.bolalist.com/company/B.html">B</a> | <a href="http://www.bolalist.com/company/C.html">C</a> | <a href="http://www.bolalist.com/company/D.html">D</a> | <a href="http://www.bolalist.com/company/E.html">E</a> | <a href="http://www.bolalist.com/company/F.html">F</a> | <a href="http://www.bolalist.com/company/G.html">G</a> | <a href="http://www.bolalist.com/company/H.html">H</a> | <a href="http://www.bolalist.com/company/I.html">I</a> | <a href="http://www.bolalist.com/company/J.html">J</a> | <a href="http://www.bolalist.com/company/K.html">K</a> | <a href="http://www.bolalist.com/company/L.html">L</a> | <a href="http://www.bolalist.com/company/M.html">M</a> | <a href="http://www.bolalist.com/company/N.html">N</a> | <a href="http://www.bolalist.com/company/O.html">O</a> | <a href="http://www.bolalist.com/company/P.html">P</a> | <a href="http://www.bolalist.com/company/Q.html">Q</a> | <a href="http://www.bolalist.com/company/R.html">R</a> | <a href="http://www.bolalist.com/company/S.html">S</a> | <a href="http://www.bolalist.com/company/T.html">T</a> | <a href="http://www.bolalist.com/company/U.html">U</a> | <a href="http://www.bolalist.com/company/V.html">V</a> | <a href="http://www.bolalist.com/company/W.html">W</a> | <a href="http://www.bolalist.com/company/X.html">X</a> | <a href="http://www.bolalist.com/company/Y.html">Y</a> | <a href="http://www.bolalist.com/company/Z.html">Z</a> </span>		  </p>
+    <!-- bottom menu -->
+  <p class="bottomMenu">
+
+<a href="http://www.bolalist.com/about.php" title="About BolaList">About Bolalist</a> | 
+ <a href="http://www.bolalist.com/addbiz.php" title="Add Business">Add My Business</a> | 
+ <a href="http://www.bolalist.com/contacts.php" title="Contact BolaList">Contact Bolalist</a> | 
+ <a href="http://www.bolalist.com/tos.php" title="Terms of Use">Terms Of Use</a> | 
+ <a href="http://www.bolalist.com/privacy-policy.php" title="BolaList Privacy Policy">Privacy Policy</a> | 
+ <a href="http://www.bolalist.com/faq.php" title="Frequently Asked Questions">FAQ</a>
+  </p>
+  <!-- end bottom menu -->
+   <!--<p class="bottomMenu">
+  Bolalist in the world: <a href="http://www.bolalist.co.uk/" title="UK Business Directory">UK Business Directory</a>
+  </p>
+  <br />-->
+    
+ <!--gif from http://siahdesign.com/archives/150 (edited)-->
+  <p class="bottomMenu">
+  Bolalist worldwide: <strong><a href="http://www.bolalist.co.uk/" title="UK Business Directory">UK Business Directory</a></strong> |
+  <a href="http://bolalist.blogspot.com/" title="Blog Business Directory" target="_blank">Blog Business Directory</a> | 
+  <a href="http://twitter.com/bolalist/" title="Follow Us On Twitter" target="_blank">Follow on Twitter</a> | 
+  <a href="http://www.bolalist.com/rss.php/" title="RSS Feed for Services" target="_blank">RSS Feed</a>
+  
+   
+  </p>  
+  <br clear="all">
+    <br clear="all">
+    
+ </div>
+   
+   <div class="b5"><b></b></div>
+        <div class="b4"><b></b></div>
+        <div class="b3"><b><i></i></b></div>
+        <div class="b2"><b><i><q></q></i></b></div>
+        <div class="b1"><b></b></div>
+	
+	</div>
+<br>	
+</div>
+
+<script type="text/javascript" src="http://bolalist.com/ajax_search.js"></script>
+<!-- <!- GZipper_Stats ->-->
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-12004021-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>
+ 
+
+</body></html>
