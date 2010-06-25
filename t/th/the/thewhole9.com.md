@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewhole9.com privacy policy that was archived on 2007-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070611005300id_/http%3A//www.thewhole9.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhole9.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626001357id_/http%3A//www.thewhole9.com/privacy.php) for the most accurate reproduction.*
 
-# THE WHOLE 9
+# Online community for photographers, artists, writers, etc.: The Whole 9
 
 The Whole 9 takes your privacy seriously and urges you to read our privacy policy carefully and to make note of your rights under this policy. 
 
