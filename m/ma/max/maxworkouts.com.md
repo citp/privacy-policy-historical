@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422163502id_/http%3A//www.maxworkouts.com/index.php/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625232737id_/http%3A//www.maxworkouts.com/index.php/site/privacy) for the most accurate reproduction.*
 
-# Max Workouts Privacy Policy
+# MAX WORKOUTS: Privacy Policy
 
-We are committed to protecting your privacy. We take your personal information seriously. We do not sell, trade, or rent your personal information to others for any purpose. Ever.
+We take your personal information very seriously and are committed to protecting your privacy. We do not sell, trade, or rent your personal information to others for any purpose. _Ever._
 
-Information we collect and how we use it: When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status.
+Information we collect and how we use it: When you order, we need to know your name, e-mail address, billing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status.
 
 When you sign up to receive our promotional email newsletters or reports, we need your first name and an e-mail address, which we use to send the information you requested. Our emails always give you the ability to unsubscribe from the email list at any time.
 
 In summary, we use the information we collect on the site to make purchasing products and receiving information from us possible and to enhance your overall experience.
 
-We welcome your suggestions, ideas and opinions about how we can do a better job serving you. Please contact us if you would like to provide feedback.
+We welcome your suggestions, ideas and opinions about how we can do a better job serving you. Please [contact us](http://www.maxworkouts.com/index.php/site/contact/) if you have any questions about the Privacy Policy or if you would like to provide feedback.
 
 This Privacy Policy is subject to change without notice. Please check back often for the most up to date information.
 
-If you have any questions regarding the Privacy Policy, please [contact us](http://www.maxworkouts.com/index.php/site/contact/)
-
 ## About The Author
 
-Shin Ohtake’s unconventional, no-nonsense approach to fitness & fat loss has made him the go-to source for fitness enthusiasts and trainers alike. His popular workout program, MAX Workouts, has transformed and reshaped the bodies of thousands of people across the globe - without requiring hours in the gym.
+Shin Ohtake’s unconventional, no-nonsense approach to fitness & fat loss has made him the go-to source for fitness enthusiasts and trainers alike. His world-famous fitness program, MAX Workouts, has transformed and reshaped the bodies of thousands of people in over 100 countries - _without_ requiring hours in the gym.
 
 ## What People Are Saying...
 
@@ -31,12 +29,8 @@ Shin Ohtake’s unconventional, no-nonsense approach to fitness & fat loss has m
 
 
 
-Download Your FREE Report
+## 10 Ways To Improve Your Workouts And Get Better Results _Now_
 
- **10 Tips To Improve Your Workouts & Get Better Results Today**  
- ****  
+In this free report, I reveal the top 10 workout mistakes that are sabotaging your fitness goals. I'll tell you _exactly_ how to avoid these common pitfalls and show you what to do instead so you can burn more fat and increase your strength - starting with your very next workout...even if you try just a FEW of these tips, you're going to see and feel the difference right away! 
 
-
-In this report, I reveal the top workout myths that are sabotaging your workout efforts. I'll tell you exactly how to avoid these common mistakes so you can start working out more effectively. Implement these tips into your next workout and see the difference right away!
-
-Your free report will be delivered to your email box instantly. Plus you'll get my email newsletter, jam-packed with more fitness tips, articles, exercise tutorials, and much more - totally free. 
+Your report will be emailed to you instantly. Plus, you'll get my e-newsletter, jam-packed with expert tips on fitness, fat-loss & healthy eating - totally _free_. 
