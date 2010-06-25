@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the consumerist.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221215609id_/http%3A//www.consumermediallc.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerist.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625024337id_/http%3A//consumerist.com/privacy-policy) for the most accurate reproduction.*
 
-# Consumer Media LLC: Privacy Policy
+# Consumer Media LLC Privacy Policy - The Consumerist
 
-Effective January 1, 2009
+Last updated on March 25, 2010
 
 This Privacy Policy applies to the Consumerist web site (located at [www.consumerist.com](http://www.consumerist.com/) or www.consumerist.org) and any other web sites (our "Sites" and each individually, a "Site") owned and operated by Consumer Media LLC ("Consumer Media", "we" or "us").
 
 Consumer Media is a non-profit organization and an affiliate of Consumers Union of United States, Inc. ("Consumers Union"), the independent, non-profit consumer advocacy and testing organization, and publisher of Consumer Reports, whose mission is to work for a fair, just and safe marketplace for consumers and to empower consumers. To maintain our independence and impartiality, Consumer Media, like Consumers Union, accepts no outside advertising, no freebies, and has no agenda other than the interests of consumers.
 
-Our Privacy Policy describes how we collect and use the information you provide when you visit our Sites. This Privacy Policy is part of the Consumer Media LLC [User Agreement](https://web.archive.org/web/20090221215609id_/http%3A//www.consumermediallc.org/user.html). Please read this Privacy Policy carefully so that you understand our privacy practices.
+Our Privacy Policy describes how we collect and use the information you provide when you visit our Sites. This Privacy Policy is part of the Consumer Media LLC [User Agreement](https://web.archive.org/web/20100625024337id_/http%3A//consumerist.com/user.html). Please read this Privacy Policy carefully so that you understand our privacy practices.
 
 **INFORMATION WE COLLECT AND HOW WE COLLECT IT**  
 You can visit our Sites and view our content anonymously. For certain activities, we collect information about you.
@@ -16,7 +16,7 @@ You can visit our Sites and view our content anonymously. For certain activities
 The information we collect falls into two main categories: (1) personal information you voluntarily supply to us to take advantage of certain features of our Sites, some of which may identify you personally, and (2) tracking information we collect as you navigate through our Sites.
 
 **Personal Information.  
-** You will need to provide us with personal information if you are interested in obtaining certain information or participating in certain activities. Personal information we collect may include your email address and a user name and password. For example, if you wish to subscribe to a newsletter offered by one of our Sites, we ask you to provide your email address. You may also elect to leave comments on particular blog entries of interest, either as a guest, via your Facebook account or as a registered member. Commenters have the option of commenting anonymously.
+** You will need to provide us with personal information if you are interested in obtaining certain information or participating in certain activities. Personal information we collect may include your email address and a user name and password. For example, if you wish to subscribe to a newsletter offered by one of our Sites, we ask you to provide your email address. You may also elect to register to leave comments on particular blog entries of interest.
 
 If we produce a mailing list for a Site to provide mailing list subscribers with relevant information, for example, breaking news, or weekly or daily news round-ups, then users will have to provide a valid email address to sign up for emails from the list. We may ask mailing list subscribers to provide demographic information, such as geographic location, and to describe their personal interests. Mailing list subscribers will receive regular emails from our Site. Most of the time, these emails will contain solely content from Consumer Media, but we may send emails from an affiliated organization, that is, on behalf of Consumers Union or the Consumers Union Action Fund, a non-profit organization that helps work for pro-consumer legislative reform.
 
@@ -41,7 +41,7 @@ On their own, cookies or Web beacons do not contain or reveal any personally ide
 
 The following vendors provide services to us and may employ Web beacons on our behalf. Because Web beacons utilize a cookie that can only be placed and "read" by the third party provider, you should review the privacy policy of each provider to answer any questions you may have regarding its cookie policy as well as other options available to you, such as opting out of its specific cookies.
 
-**X+1** provides us with ad serving, trafficking and reporting services for our Sites. This visit analysis is facilitated by the use of Web beacons which utilize an X+1 cookie. To view its privacy policy and learn how you can opt out of cookies set to facilitate Web beacon reporting by them, [please click here](http://www.xplusone.com/privacy.html).
+**24/7 Real Media** provides us with ad serving, trafficking and reporting services for our Sites. This visit analysis is facilitated by the use of Web beacons which utilize an 24/7 Real Media cookie. To view its privacy policy and learn how you can opt out of cookies set to facilitate Web beacon reporting by them, [please click here](http://www.247realmedia.com/EN-US/privacy-policy.html).
 
 **Our ads and content on other sites  
 ** Except for our affiliates, we do not allow third-party ads on our Site. We may place ads for products and services provided by our affiliates, which include two non-profit organizations: Consumers Union and its various publications and other products, and Consumers Union Action Fund, Inc., which works to educate the public about consumer rights and consumer safety issues and to advance consumer protection policies, among other advocacy activities.
@@ -68,7 +68,7 @@ From time to time, we may purchase a business or sell one or more of our busines
 
 We reserve the right to share your personally identifiable information with legal authorities if required by law, for example, to comply with a court order or subpoena, or if we determine in our sole discretion that it is necessary to investigate, prevent or take action regarding suspected illegal activities, any violations of our User Agreement, or in connection with any safety or security concerns.
 
-Please be aware that if you register as a commenter on one of our Sites and a third party subsequently complains that one or more of your comments breaches our User Agreement (e.g., libels them or infringes their intellectual property rights), then in accordance with our [User Agreement](https://web.archive.org/web/20090221215609id_/http%3A//www.consumermediallc.org/user.html), we will make reasonable efforts to contact you and alert you to the situation. If we are required to by law to disclose your contact information, we will first attempt to contact you to provide an opportunity to respond to such request.
+Please be aware that if you register as a commenter on one of our Sites and a third party subsequently complains that one or more of your comments breaches our User Agreement (e.g., libels them or infringes their intellectual property rights), then in accordance with our [User Agreement](https://web.archive.org/web/20100625024337id_/http%3A//consumerist.com/user.html), we will make reasonable efforts to contact you and alert you to the situation. If we are required to by law to disclose your contact information, we will first attempt to contact you to provide an opportunity to respond to such request.
 
 **SECURITY  
 ** We work to protect your personal information from loss, misuse or unauthorized alteration. We have put in place appropriate physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
