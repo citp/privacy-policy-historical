@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317094957id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626005658id_/http%3A//tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
+
+[](http://www.tennis-warehouse.com/?from=recruit)
+
+[](http://www.princetennis.com/)
+
+[](http://www.babolat.com/)
+
+[](http://www.itatennis.com/)
+
+[](http://www.tennisoncampus.com/)
+
+[](http://www.tennisrecruiting.net/article.asp?id=618&sessionid=068BEB4E383071DC)
+
+| 
 
 Your privacy is important to Sirius Software, Inc. and TennisRecruiting.net ("TennisRecruiting"). This Privacy Policy defines privacy aspects specific to the TennisRecruiting.net Website and affiliated websites owned by TennisRecruiting and its subsidiaries. TennisRecruiting has created this policy to demonstrate our firm commitment to privacy. This statement describes the information practices at TennisRecruiting websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. 
 
@@ -56,6 +70,8 @@ Also, when we collect personal data from you in a transaction, we may extract so
 
 We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some TennisRecruiting.net pages use cookies, sent by TennisRecruiting.net or its third party vendors, or other technologies to better serve you when you return to the Website. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some websites may not work properly. 
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
+
 **IP ADDRESS**
 
 TennisRecruiting.net uses your IP address to help diagnose problems with our server and to administer our Website. Your IP address is used to help identify you and to gather broad demographic information. 
@@ -107,3 +123,28 @@ TennisRecruiting.net
 P. O. Box 71912   
 Marietta, GA 30007-1912   
 [webmaster@TennisRecruiting.net](mailto:webmaster@TennisRecruiting.net)
+
+| 
+
+RECENT COMMITMENTS 
+
+| [](http://www.tennis-warehouse.com/?from=recruit)|  THE LATEST FROM TENNIS WAREHOUSE  
+---|---  
+  
+  * Kneissl racquets are back at TW. We managed to scoop up the last remaining stock. Get 'em while you can:[Kneissl Tennis Racquets](http://www.tennis-warehouse.com/kneisslracquets.html?from=recruit)  
+ 
+  * We've wrapped up our latest racquet review: Del Potro's Wilson Tennis BLX Pro Tour.[Wilson BLX Pro Tour Tennis Racquet Review](http://www.tennis-warehouse.com/reviews/PTBLX/PTBLXreview.html?from=recruit)  
+ 
+  * We're now carrying Roxy apparel! There's everything from tanks and dresses to wristbands and head bands.[Roxy Women's Tennis Apparel](http://www.tennis-warehouse.com/catpage-WAROXY.html?from=recruit)  
+ 
+
+ 
+
+ITA NEWS
+
+THE LATEST FROM ZOOTENNIS 
+
+ 
+
+[](http://www.tennis-warehouse.com/?from=recruit)|  TALK TENNIS   
+---|---
