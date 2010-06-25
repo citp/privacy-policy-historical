@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the drewaltizer.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428234144id_/http%3A//drewaltizer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drewaltizer.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625220418id_/http%3A//drewaltizer.com/privacy.php) for the most accurate reproduction.*
 
 # Drew Altizer Photography - San Francisco Society Photographs
 
-**PRIVACY POLICY**  
 This is the privacy policy (the "Policy") for the Web site currently located at www.drewaltizer.com (the "Site").  Drew Altizer Photography ("we" or "us") owns and operates the Site. Please carefully review this Policy to learn about how we collect, use and protect any Personal Information (defined below) and Non-Personal Information (defined below) you provide us on or through the Site and your choices for managing your Personal Information. By using the Site, you signify your assent to this Policy. This Policy is subject to the Terms of Use posted on the Site [**TERMS OF USE**](http://drewaltizer.com/terms.php).
 
 **Managing Personal Information**  
