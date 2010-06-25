@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asianbrainfollowup.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624011025id_/http%3A//www.asianbrainfollowup.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianbrainfollowup.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625235724id_/http%3A//www.asianbrainfollowup.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Asian Brain Follow Up
 
-[Home](https://web.archive.org/web/20090624011025id_/http%3A//www.asianbrainfollowup.com/index.htm) > [About Us](https://web.archive.org/web/20090624011025id_/http%3A//www.asianbrainfollowup.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20090624011025id_/http%3A//www.asianbrainfollowup.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20100625235724id_/http%3A//www.asianbrainfollowup.com/index.htm) > [About Us](https://web.archive.org/web/20100625235724id_/http%3A//www.asianbrainfollowup.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20100625235724id_/http%3A//www.asianbrainfollowup.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of Asian Brain Internet Marketing Center/AWeber Systems, Inc.**
 
