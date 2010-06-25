@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographyblogger.net privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911093611id_/http%3A//www.photographyblogger.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographyblogger.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626003005id_/http%3A//www.photographyblogger.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
