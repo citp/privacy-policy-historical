@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 99designs.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224204932id_/http%3A//99designs.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99designs.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625151806id_/http%3A//99designs.com/help/privacy) for the most accurate reproduction.*
 
-# 99designs » Privacy Policy
+# Privacy Policy | 99designs
 
 ### What We Collect
 
@@ -55,4 +55,26 @@ Oh, don't forget that you can control which emails you receive from us through y
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following addresses:
 
+[99designs Pty Ltd](http://99designs.com/)
+
+Postal
+
+PO Box 1516
+
+Collingwood, VIC, 3066
+
+Australia
+
+Postal
+
+1032 Irving Street
+
+PMB 519
+
+San Francisco, CA, 94122-2200
+
+USA
+
 You may [contact us](https://web.archive.org/contact) by email at contact@99designs.com
+  *[VIC]: Victoria
+  *[CA]: California
