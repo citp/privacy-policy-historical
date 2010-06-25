@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henleyglobal.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224154314id_/http%3A//www.henleyglobal.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henleyglobal.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625134324id_/http%3A//www.henleyglobal.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Henley & Partners - Privacy Statement
 
