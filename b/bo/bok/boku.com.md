@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the boku.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223013521id_/http%3A//www.boku.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boku.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625120125id_/http%3A//www.boku.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-BOKU LIMITED  
-(BOKU)  
-PRIVACY POLICY  
+  
+BOKU LIMITED
+
+(BOKU)
+
+PRIVACY POLICY
+
 (06/15/2009)
 
+|   
+[](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.boku.com&sealid=101)  
+---|---  
+  
   
 Boku, Inc. (“Boku”) is committed to respecting and protecting your privacy. We value your trust and want you to understand how we protect, collect, use and disclose the personal information you share with us.  
 
@@ -92,14 +100,16 @@ Boku is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independe
 Should you have further questions regarding our privacy statement or about how your personal information is used, you can [contact us](http://www.boku.com/about/contact "http://www.boku.com/about/contact").  
 
 
-Vidicom Limited
+Boku, Inc.
 
-10a Marsden Street  
-Chesterfield  
-Derbyshire  
-S40 1JY
+MWB Business Exchange  
+8 Duncannon Street  
+Golden Cross House  
+London  
+WC2N 4JF  
 
-Great Britain  
+
+UK  
 
 
-[](http://www.truste.org/ivalidate.php?url=www.boku.com&sealid=101)
+[](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.boku.com&sealid=101)
