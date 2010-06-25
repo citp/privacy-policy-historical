@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elizabetharden.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224224352id_/http%3A//shop.elizabetharden.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elizabetharden.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626001318id_/http%3A//shop.elizabetharden.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Elizabeth Arden Skincare, Fragrance and Cosmetics featuring PREVAGE Anti Aging Treatment line, INTERVENE Skin Care line, Mediterranean perfume, color lip and eye makeup and many other prestige beauty products.
 
