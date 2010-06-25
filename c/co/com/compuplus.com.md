@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuplus.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223032237id_/http%3A//www.compuplus.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuplus.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625065503id_/http%3A//www.compuplus.com/privacy.php3) for the most accurate reproduction.*
 
 # Computer Parts, GPS Navigation, and Digital Cameras @ Comp-U-Plus; 1.800.287.2323
 
