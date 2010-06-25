@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hg.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221090013id_/http%3A//www.hg.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hg.org privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625224853id_/http%3A//www.hg.org/privacy-policy.html) for the most accurate reproduction.*
 
 # HG.org Privacy Policy
 
