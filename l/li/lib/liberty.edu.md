@@ -1,41 +1,95 @@
-> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224113858id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty.edu privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626010235id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
 
 # University Offices - Privacy Policy - Liberty University
 
-Liberty University is committed to protecting your privacy when you visit our Web sites. This privacy policy outlines how we collect information when you visit one of our sites, how we use that information, and how you can update it.
+Liberty University is committed to protecting your privacy when you visit our websites. This privacy policy outlines how we collect information when you visit one of our sites, how we use that information, and how you can update it.
 
-**Information We Collect**  
-We collect various types of information from our visitors so we can adjust our site to meet our users' needs and expectations. Some of this information is collected automatically through cookies and other information is collected when you register for any of our online services.
+##  Information we collect
 
-**Information Collected Automatically**  
-We collect limited, non-personally identifying information your browser makes available when visiting web sites. This log information, which helps us assess the effectiveness of our websites, includes your
+We collect various types of information from our website visitors so we can adjust our websites to meet our users' needs and expectations. Some of this information is collected automatically and other information is provided by site users.
 
-* Internet Protocol address  
-* browser type (Internet Explorer, Navigator, etc.)  
-* computer operating system (Windows, Macintosh, etc.)  
-* Internet domain (AOL, Earthlink, etc.)  
-* URLs of where you come to our site from  
-* the pages of our website that you visit 
+###  Information collected automatically
 
-In some instances, our website uses cookies that uniquely identify your browser so that we may provide content most relevant to your needs.
+We collect limited, non-personal identifying information your browser makes available when visiting websites. This information, which helps us assess the effectiveness of our websites, includes:
 
-**Information You Provide to Us**  
-We also collect information that you provide to us when using sections of our site that require an account. This includes
+  * Your Internet Protocol address
+  * The Browser type (Internet Explorer, Firefox, etc.)
+  * Your computer’s operating system (Windows, Macintosh, etc.)
+  * Your Internet domain (AOL, Earthlink, etc.)
+  * URLs of the websites you come to our websites from
+  * The pages on our website that you visit
+  * Your country, territory, or region
 
-* Admissions Gateway, where prospective students may provide contact information as well as required personal information in our online application  
-* ASIST, where current and former students can log in to update contact information and various data used to serve their needs, such as housing requests and course registration  
-* Online Payment forms, used to pay via credit card for services, deposits, or gifts to the University. Contact and credit card information is required in order to process these payments.
 
-**Our Security Measures**  
-Our University Web sites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. We utilize industry standard SSL encryption when accepting your credit card information during the online ordering process, as well as whenever we ask you to login to any of the University's online student and faculty services.
 
-**How We Use This Information**  
-Release of personal information is governed by FERPA (Family Educational Rights and Privacy Act of 1974).
+In some instances, our websites use cookies that uniquely identify your browser so that we may provide content most relevant to your needs.
 
-**How To Update Your Information**  
-Our student and faculty services sites, including Admissions Gateway and ASIST, provide you with the option of changing and modifying information you have previously provided to us.
+###  Information you provide to us
 
-**Changes to This Policy**  
-The University reserves the right to append or otherwise modify this Privacy Statement at any time. We expect any such changes to be minor, and notification of all changes will be made on this page. Each version of the privacy policy will be dated at the top of the page.
+You provide information to Liberty when you fill out online forms on our websites or use a login-required service. Depending on the type of the service, we use your information in different ways as outlined below.
 
-Latest Update: September 2004
+**_Inquiry and application forms_**
+
+  * Your contact information is used to contact you by phone and/or email in order to provide information about the university.
+  * If you do not wish to provide your contact information online, you may call the university and request that information be sent through the mail.
+
+
+
+_**Purchasing merchandise or donating to the university**_
+
+  * Your contact information is used to send merchandise to you, and to contact you if necessary.
+  * Your financial information is used for billing.
+  * If you do not wish to provide your contact or financial information online, you may call the university to place an order or donate.
+
+
+
+_**Login sites and services**_
+
+  * Various websites and web services of Liberty University require users to log in to gain access to information and tools reserved for students, faculty and staff.
+  * Creation of a login account requires you to provide your student or faculty/staff ID number.
+
+
+
+##    
+Our security measures
+
+Our university websites have security measures in place to protect against the loss, misuse or alteration of the information under our control. We utilize industry standard SSL encryption when accepting your credit card information during the online ordering process, as well as whenever we ask you to log in to any of the university's online student and faculty services.
+
+##  Your Privacy
+
+Liberty University does not sell, rent, or share your personal information to any outside organizations. Liberty will abide by all applicable laws governing the release of personal information.
+
+Collective information about site users – but never individuals’ information – is used in marketing, advertising and other relationships with third parties.
+
+##  COPPA notice
+
+The Children’s Online Privacy Protection Act, or COPPA, applies to the collection of personal information from children under 13. The Liberty University Online Academy ([www.libertyonlineacademy.com](http://www.libertyonlineacademy.com/)) offers programs for students in grades K-12. It collects personal identifying information through its inquiry and application forms. Although the forms ask for the personal information of the parent or guardian, not the child, Liberty University Online Academy realizes that children may occasionally fill out and submit these forms.
+
+Parents may ask to have the child’s personal identifying information deleted by using the contact information below.
+
+Website operator:  
+Liberty University Online Academy  
+1971 University Boulevard  
+Lynchburg, VA 24502  
+(866) 418-8741  
+luoainfo@liberty.edu
+
+Personal information collected on the Liberty University Online Academy website is not shared with third parties.
+
+##  How we use this information
+
+Liberty University uses information collected automatically to better understand the needs of website visitors so that we may improve our websites and services.
+
+Information you provide may be used by the university for marketing purposes. If you do not wish to receive marketing emails or phone calls, you may use the opt-out feature on our emails or call the university at (800) 543-5317 or (800) 424-9595.
+
+##  How to update your information
+
+Our student and faculty services sites, including ASIST, provide you with the option of changing and modifying information you have previously provided to us.
+
+##  Changes to this policy
+
+The university reserves the right to append or otherwise modify this Privacy Policy at any time. We expect any such changes to be minor, and notification of all changes will be made on this page. Each version of the Privacy Policy will be dated at the bottom of the page.
+
+* * *
+
+Latest Update: June 2010
