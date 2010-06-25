@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223095433id_/http%3A//www.discount-supplements.co.uk/shopcontent.asp%3Ftype%3DdsPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discount-supplements.co.uk privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625215137id_/http%3A//www.discount-supplements.co.uk/shopcontent.asp%3Ftype%3DdsPrivacy) for the most accurate reproduction.*
 
 # Supplements | Protein | Creatine | Whey | Privacy Policy
 
 **Who We Are?  
 **  
-In this Privacy Policy references to "we" and "us" are to A1 Sports Ltd, Unit 2 Cooper Drive, Springwood Industrial Estate, Braintree, Essex, CM7 2RF, company number 53190001, registered office A1 Sports Ltd, Unit 2 Cooper Drive, Springwood Industrial Estate, Braintree, Essex, CM7 2RF.
+In this Privacy Policy references to "we" and "us" are to A1 Sports Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG, company number 53190001, registered office A1 Sports Ltd, 2 Anglia Way, Braintree, Essex, CM7 3RG.
 
  **What Information We Collect  
 **  
@@ -43,11 +43,10 @@ Alternatively, you can post your request to the address in (3) below.
 
 Customer Services (Data Subject Request)  
 A1 Sports Limited  
-Unit 2 Cooper Drive  
-Springwood Industrial Estate  
+2 Anglia Way  
 Braintree  
 Essex  
-CM7 2RF
+CM7 3RG
 
  **Other Websites  
 **  
