@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodraw.net privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602004459id_/http%3A//www.prodraw.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodraw.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626011347id_/http%3A//www.prodraw.net/privacy.htm) for the most accurate reproduction.*
 
 # ProDraw Graphics
 
@@ -33,7 +33,7 @@ Unique identifiers (such as social security numbers) are collected from Web site
 This site contains links to other sites. **ProDraw Graphics** is not responsible for the privacy practices or the content of such Web sites.
 
 ******Special Relationships**  
-All graphics on our site may not be redistributed or resold in any form, in any quantity, from any web site(especially on those graphics archive site), CD-ROM, or media of any kind. If you find any pirate use, please [contact us](https://web.archive.org/web/20090602004459id_/http%3A//www.prodraw.net/contact.htm). Thanks.
+All graphics on our site may not be redistributed or resold in any form, in any quantity, from any web site(especially on those graphics archive site), CD-ROM, or media of any kind. If you find any pirate use, please [contact us](https://web.archive.org/web/20100626011347id_/http%3A//www.prodraw.net/contact.htm). Thanks.
 
 ******Public Forums**  
 This site makes public gallery, web site launch pad and guest book available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
