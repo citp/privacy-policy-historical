@@ -1,37 +1,75 @@
-> *The following text is extracted and transformed from the tds.net privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420010838id_/http%3A//www.tdstelecom.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tds.net privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625044823id_/http%3A//www.tdstelecom.com/about/privacy.asp) for the most accurate reproduction.*
 
 # TDS - Privacy Policy
 
-By using our Web site or subscribing to one or more of our "Services," You agree to our collection and use of Your personal information as described in this Privacy Policy. If we change our privacy policy and procedures, we will post these changes on our Web sites: www.tdstelecom.com; www.tdsmetro.com; www.tds.net; www.tdsmetro.net. Your continued use of this site following the posting of any changes to these terms constitutes acceptance of those changes. 
+## TDS Privacy Policy
 
-1\. TDS and its affiliated companies, including TDS Metrocom (TDS), place a high value on personal privacy and are committed to protecting the "Personal Information" collected from users of its Services and its websites. Such Personal Information collected may include name, address, telephone number, personal computer specifications, Web Site Usage (described below), and billing information such as a credit card number if required for service. The Personal Information collected is used to provide a tailored service to You in order to better manage Your account. This may include customizing Your shopping experiences, responding to Your requests, communicating with You electronically, and providing information regarding goods and services that we believe may be of particular interest to You. In addition, TDS may collect information about You from our trusted vendors, such as updated delivery and address information, so that we can correct our records and deliver Your purchases or communicate with You more efficiently.
+Effective Date: August 24, 2009
 
-2\. TDS will not share or sell Your Personal Information collected online, with third parties, other than to TDS subsidiaries or vendors, including payment processors, content providers, shipping vendors, preferred providers that sell products or services to You on our Web site and others who perform similar functions on behalf of TDS. Disclosure of personal information may, however, be necessary or appropriate in special circumstances, such as when TDS in good faith believes that disclosure is required or authorized by law, to investigate possible crimes, to protect TDS’ legal rights, or in connection with a sale, purchase, merger, reorganization, liquidation or dissolution involving TDS. 
+TDS Telecommunications Corporation ("TDS") is dedicated to providing superior customer satisfaction and is committed to protecting customer privacy. We take this responsibility seriously as a key component to earning and maintaining our customers' trust.
 
-3\. Additionally, TDS may provide aggregate information about our customers, sales, Web site patterns and general Web site information to our affiliates and other vendors with whom we do business, but this will not include any Personal Information. For example, TDS has relationships with companies that place advertising on our site. As a result of Your visit to our site, such companies may collect information such as Your domain type, Your IP address and clickstream information. In addition, if You are a customer of TDS Internet Services, then TDS Internet Services may collect statistical information on the performance of Your connection, which allows us to improve the service. 
+### Scope
 
-4\. Customer Proprietary Network Information (CPNI) is information that TDS obtains in connection with providing telecommunications services to You. CPNI includes the types of telecommunications services You currently purchase, how You use those services, and related billing information for those services. CPNI also typically includes the type of information found on Your telephone bill, such as call details and the types of local, long distance and wireless telecommunications services that You have purchased. CPNI does not include Your telephone number, name and address. 
+This overview provides highlights of the full [TDS Privacy Statement](https://web.archive.org/web/20100625044823id_/http%3A//www.tdstelecom.com/about/full_privacy_2009.asp#scope) ("Privacy Statement"). This Privacy Statement applies to TDS and any Third Party with whom we share or collect Confidential Personal Information. Third Party refers to agents, vendors, suppliers, subcontractors, and independent contractors. Confidential Personal Information is information that relates to you and identifies or can be used to identify you. This information includes your name, billing address, social security number, driver's license number, credit card number, bank account number, email address, and credit information. By subscribing to our services or accessing our Web sites, you agree to our collection and use of your information as described in the [Privacy Statement](https://web.archive.org/web/20100625044823id_/http%3A//www.tdstelecom.com/about/full_privacy_2009.asp#scope) as may be amended from time to time.
 
-TDS uses technical and policy measures to safeguard the privacy of CPNI and help protect it from unauthorized access or improper use. TDS does not sell CPNI to third parties and complies with applicable federal and state CPNI rules that apply to telecommunications carriers. 
+### Collection of your Confidential Personal Information
 
-TDS or its authorized representatives may use CPNI information to make suggestions to You and discuss products and services, packages, and promotions that may serve Your communications needs or to let You know about enhancements to services You already use. TDS will not use Your CPNI for any other marketing purpose without Your approval. 
+TDS may collect Confidential Personal Information about you for those purposes specified in this Privacy Statement, or as otherwise permitted by law.
 
-TDS is required to provide directories and directory information (name, address and phone number) to authorized third parties, for example, directory publishers. You can restrict the publication of personal information in phone books, online directories and directory assistance, through services such as "non-published" and "non-listed" numbers. Contact Your customer service representative to discuss options available to You. 
+When you visit a TDS Web site, we automatically collect certain information such as your domain type, your IP address, and clickstream information to gauge the effectiveness of our Web sites, improve our online operations, enhance your online experience with customized content, and focus our marketing efforts to better meet the needs of our customers. 
 
-5\. TDS may monitor the Service and may disclose information regarding Your use of the Service and Personal Information to satisfy laws, regulations or governmental requests; to operate the Service properly; and, to protect itself and its customers. 
+We may store small data files known as cookies, or other technologies, on your computer or mobile browser when you visit certain Web sites. You can disable cookies. However, if you do so your experience on that Web site may be limited.
 
-6\. TDS is not responsible for the practices employed by Web sites linked to or from our Web site nor for the content contained therein. The Web sites and services You are able to access on the Internet are outside the control and limits of this privacy policy. Any information You provide to any such organizations is at Your own risk. 
+[Additional Details](https://web.archive.org/web/20100625044823id_/http%3A//www.tdstelecom.com/about/full_privacy_2009.asp#collection)
 
-7\. TDS makes commercially reasonable efforts to maintain the security of our servers and computer networks in order to help prevent the loss, misuse, and modification of the Personal Information in our possession. TDS protects the security of Your Personal Information by using Secure Sockets Layer (SSL) software during registration or enrollment, while shopping on TDS Web sites or when paying Your monthly TDS statement. Even though we take commercially reasonable steps to maintain information security, and expect our vendors to do likewise, TDS cannot guarantee the security of Personal Information. 
+### Use of your Confidential Personal Information
 
-8\. TDS may store small data files, called cookies, on Your computer when You visit certain Web sites. Cookies allow TDS to personalize Your service by collecting and storing information that will identify You when You visit a site. Cookies also allow TDS to collect ‘Web Site Usage’ information when You visit our websites, including IP address, Web browser and operating system types, Web pages visited on our Web sites, time spent on our Web pages, and return visits to our Web sites. TDS may combine the Web Site Usage information with Your Personal Information in order to provide a more customized online experience to You and to market and provide advertising about goods and services that may be of particular interest to You. 
+We may use your Confidential Personal Information to provide you with and manage the services you request, communicate with you to maintain good customer relations or to suggest new products and services that may be of interest to you, conduct industry or consumer surveys, manage, improve and troubleshoot our network and services, enforce our Terms of Service, or for any purpose otherwise permitted or required by law.
 
-You can disable cookies on Your computer; however if You do so, You will not be able to maximize Your experience on our site, including finding pricing and availability of products and services in Your area. TDS is not responsible for the cookies used by Web sites linked to or from our Web site. 
+[Additional Details](https://web.archive.org/web/20100625044823id_/http%3A//www.tdstelecom.com/about/full_privacy_2009.asp#useof)
 
-9\. It is TDS policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws relating to children’s privacy. In order to respect the privacy of children online, TDS does not knowingly collect, maintain or process Personal Information submitted by children under the age of 13. 
+### Sharing of your Confidential Personal Information
 
-10\. If You do not want TDS to use Your Personal Information to contact You for marketing or solicitation purposes (excluding notices about Your existing account), You may make this request to webcontact@tdstelecom.com or to TDS Telecom, 525 Junction Road, Madison, Wisconsin 53717. If You are a TDS Telecom customer and have subscribed to receive our E-mail Updates, You can unsubscribe by clicking the link provided in our e-mails or by going to tellmemore.tdstelecom.com and clicking the unsubscribe link. 
+We will not disclose your Confidential Personal Information without your express or implied consent outside of TDS, its Affiliates, or its authorized agents other than as described in this Privacy Statement. Affiliates refers to any of the Telephone and Data Systems, Inc. owned companies.
 
-11\. TDS customers who wish to review and/or edit their Personal Information may do so in the following ways: (1) TDS Internet customers may view their account information by logging into the Manage Your Account area of our sites. (2) Customers who view and pay their TDS statements online should log in to www.tds-epay.com. (3) TDS Telecom customers who subscribed to receive our E-mail Updates can edit their information by going to tellmemore.tdstelecom.com and clicking the Edit My Information link. (4) TDS customers can also contact a TDS representative by calling the phone number listed on their monthly statement. 
+TDS may share Confidential Personal Information for purposes permitted by law without your consent such as to help initiate, render, bill, and collect for its products and services.
 
-Last Revised: 9.17.07
+TDS does not sell your Confidential Personal Information to Third Parties for any purpose other than to enforce our rights under the Terms of Service or as expressly stated in this Privacy Statement.
+
+[Additional Details](https://web.archive.org/web/20100625044823id_/http%3A//www.tdstelecom.com/about/full_privacy_2009.asp#sharing)
+
+### Accessing your Confidential Personal Information
+
+Customers who wish to review and/or edit their Confidential Personal Information may do so by contacting us at the number provided on their billing statement.
+
+If you or your Authorized User contacts us via phone, you will be asked to provide your name, the Personal Identification Number ("PIN") (if the account is PIN protected), and the billing address zip code before we are able to assist you. You or your Authorized user will be asked to present a valid photo ID when requesting account information while at a business office.
+
+[Additional Details](https://web.archive.org/web/20100625044823id_/http%3A//www.tdstelecom.com/about/full_privacy_2009.asp#accessing)
+
+### Communication Preferences
+
+If you do not want TDS to use your Confidential Personal Information to contact you for marketing or solicitation purposes (excluding notices about your existing account), you may make this request to webcontact@tdstelecom.com or to TDS Telecom, 525 Junction Road, Madison, Wisconsin 53717.
+
+[Additional Details](https://web.archive.org/web/20100625044823id_/http%3A//www.tdstelecom.com/about/full_privacy_2009.asp#communication)
+
+### Security of your Confidential Personal Information
+
+TDS takes reasonable security safeguards to protect against such risks as loss or unauthorized access, destruction, use, modification, or disclosure of Confidential Personal Information.
+
+[Additional Details](https://web.archive.org/web/20100625044823id_/http%3A//www.tdstelecom.com/about/full_privacy_2009.asp#security)
+
+### Customer Proprietary Network Information ("CPNI")
+
+CPNI refers to and includes information that we have about you by virtue of our relationship with you as your service provider. This includes information about your account usage - such as the type and quantity of the services you subscribe to. Use of CPNI is subject to federal laws and regulations with which TDS is required to comply.
+
+When you become a customer of TDS and no later than every two years thereafter, we will send you a notice in the mail explaining your rights concerning Customer Proprietary Network Information ("CPNI Notice").
+
+[Additional Details](https://web.archive.org/web/20100625044823id_/http%3A//www.tdstelecom.com/about/full_privacy_2009.asp#cpni)
+
+### Contacting Us
+
+TDS welcomes your comments regarding this Privacy Statement. If you have questions about this Privacy Statement or believe that we have not adhered to it, please contact us by writing to us at the following address:
+
+TDS Telecom  
+525 Junction Road  
+Madison, WI 53717
