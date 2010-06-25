@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the promoserviceshosting.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616191632id_/http%3A//www.shawncasey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promoserviceshosting.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625041102id_/http%3A//www.shawncasey.com/privacy-policy) for the most accurate reproduction.*
 
-# Shawn Casey | Internet Marketing - Shawn Casey’s Internet Marketing Blog » Privacy Policy
+# Privacy Policy :: Shawn Casey | Internet Marketing
+
+### Privacy Policy
 
 \- IMPORTANT — PLEASE READ
 
@@ -133,5 +135,3 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 COPYRIGHT AND LICENSE
 
 This “Privacy Policy” is copyrighted © 2003-2006 by Mining Gold Corporation and Nevada Processing Center, Inc.  (888) 214-3349, and is fully licensed for use by this website.  If you wish to lawfully use this Terms of Use on your website, contact support@internetlawcompliance.com for licensing information or this website.
-
-[internet marketing](http://www.shawncasey.com/tag/internet-marketing/)
