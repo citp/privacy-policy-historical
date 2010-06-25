@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the princesspolly.com.au privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203121100id_/http%3A//www.princesspolly.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princesspolly.com.au privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625162429id_/http%3A//www.princesspolly.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy provides information on how Princess Polly manages personal information collected; including personal information collected through their website at <http://www.princesspolly.com.au/>
+This Privacy Policy provides information on how Princess Polly & POLLY100 manages personal information collected; including personal information collected through their website at [http://www.princesspolly.com.au/](https://web.archive.org/)
 
 Princess Polly realises the importance of ensuring that personal information held by the company is treated confidentially and is committed to ensuring that all personal information is only collected, disclosed, used and stored in accordance with the National Privacy Principles set out under the federal Privacy Act 1988.
 
