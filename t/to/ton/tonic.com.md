@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tonic.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615065434id_/http%3A//www.tonic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonic.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625022345id_/http%3A//www.tonic.com/privacy) for the most accurate reproduction.*
 
-# Privacy on Tonic.com
+# Tonic: Privacy and Security
 
 At Tonic, your privacy and security are critical to us. We guard it with our lives. See below for details.
 
