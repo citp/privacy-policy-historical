@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the legavenue.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619101054id_/http%3A//www.legavenue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legavenue.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625025451id_/http%3A//legavenue.com/en/privacy) for the most accurate reproduction.*
 
-# Leg Avenue - Privacy Policy
+# Privacy - Leg Avenue Inc
 
 It is Leg Avenue’s policy to protect and maintain the confidentiality of personal information provided to it by those who visit or use this web site. To that end, we have adopted the following security and privacy provisions. By visiting www.legavenue.com, you are accepting the practices described in this policy notice.
 
