@@ -1,37 +1,161 @@
-<!--The following is the downloaded HTML source of the casinotop10.net privacy policy that was archived on 2009-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090308075748id_/http%3A//www.casinotop10.net/privacy-policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the casinotop10.net privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626010028id_/http%3A//www.casinotop10.net/privacy-policy.shtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="gecko mozilla5 linux js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<meta name="keyword" content="">
+<meta name="keywords" content="">
 <meta name="description" content="To travel the wild territory of online casinos you need a dependable map - CasinoTop10.com provides independent information on online casinos, casino games and casino bonuses - Learn more about online casino games!">
 <link rel="shortcut icon" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/all.php?v=20081117">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/langs/en-us.css?v=3">
-<!--[if lt IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie/ie6.css?v=3" /><![endif]-->
-<!--[if lt IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie/ie7.css?v=3" /><![endif]-->
-<script type="text/javascript" src="/js/head/10_jquery.js"></script>
-<script type="text/javascript" src="/js/head/20_basic.js"></script>
-<script type="text/javascript" src="/js/head/30_thickbox.js"></script>
-<script type="text/javascript" src="/js/head/40_dimensions.js"></script>
-<script type="text/javascript" src="/js/head/50_jqbrowser2.js"></script>
-<script type="text/javascript" src="/js/head/60_toplist.js"></script>
-<script type="text/javascript" src="/js/head/70_conv.js"></script>
-<script type="text/javascript" src="/js/head/80_paymentreviewlisting.js"></script>
-<script type="text/javascript" src="/js/head/payment-review.js"></script>
-<script type="text/javascript" src="/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
-<script type="text/javascript" src="/js/scstats/scstat_click.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RSS Feed Articles" href="http://www.casinotop10.net/rss-feed.shtml">
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.casinotop10.net/rss-editorials-feed.shtml">
+<link rel="stylesheet" type="text/css" media="screen" href="/themes/casinotop10/css/all.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/20100618/langs/en_US.css">
+
+<script type="text/javascript">
+var geoTargeted,
+    geoAjax,
+    geoQueue = [];
+
+var geoReplace = function (id, content) {
+	if (!id || !content) {
+		return;
+	}
+	
+	String.prototype.base64decode = function () {
+		var keyStr = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',
+		    output = '',
+		    input = this.replace(/[^A-Za-z0-9\+\/\=]/g, ''),
+		    chr1, chr2, chr3,
+		    enc1, enc2, enc3, enc4,
+		    i = 0;
+
+		while (i < input.length) {
+			enc1 = keyStr.indexOf(input.charAt(i++));
+			enc2 = keyStr.indexOf(input.charAt(i++));
+			enc3 = keyStr.indexOf(input.charAt(i++));
+			enc4 = keyStr.indexOf(input.charAt(i++));
+
+			chr1 = (enc1 << 2) | (enc2 >> 4);
+			chr2 = ((enc2 & 15) << 4) | (enc3 >> 2);
+			chr3 = ((enc3 & 3) << 6) | enc4;
+
+			output = output + String.fromCharCode(chr1);
+
+			if (enc3 !== 64) {
+				output = output + String.fromCharCode(chr2);
+			}
+			if (enc4 !== 64) {
+				output = output + String.fromCharCode(chr3);
+			}
+		}
+
+		return output;
+	};
+
+	//private method for UTF-8 decoding
+	_utf8_decode = function (utftext) {
+		var string = "";
+		var i = 0;
+		var c = c1 = c2 = 0;
+
+		while ( i < utftext.length ) {
+
+			c = utftext.charCodeAt(i);
+
+			if (c < 128) {
+				string += String.fromCharCode(c);
+				i++;
+			}
+			else if((c > 191) && (c < 224)) {
+				c2 = utftext.charCodeAt(i+1);
+				string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+				i += 2;
+			}
+			else {
+				c2 = utftext.charCodeAt(i+1);
+				c3 = utftext.charCodeAt(i+2);
+				string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+				i += 3;
+			}
+
+		}
+
+		return string;
+	}
+
+	var targetElem = document.getElementById(id);
+	targetElem.innerHTML = _utf8_decode( content.base64decode() );
+	
+	if (typeof(ClickTracker) !== 'undefined') {
+		ClickTracker.init(targetElem);
+	}
+	
+};
+
+var geoProcessQueue = function () {
+	for (var i = 0; i < geoQueue.length; i++) {
+		geoReplace(geoQueue[i].id, geoQueue[i].content);
+	}
+	geoQueue = null;
+};
+
+var geoContent = function (id, content) {
+	if (typeof(geoTargeted) === 'undefined') {
+		geoQueue.push({'id': id, 'content': content});
+	} else if (geoTargeted === 'true') {
+		geoReplace(id, content);
+	}
+};
+
+if (window.XMLHttpRequest) {
+	geoAjax = new XMLHttpRequest();
+} else if (window.ActiveXObject) {
+	geoAjax = new ActiveXObject('Microsoft.XMLHTTP');
+}
+
+geoAjax.onreadystatechange = function () {
+	if (geoAjax.readyState === 4) {
+		geoTargeted = geoAjax.responseText;
+		if (geoTargeted === 'true') {
+			geoProcessQueue();
+		} else {
+			geoQueue = null;
+		}
+	}
+};
+
+geoAjax.open('GET', '/IsGeotargeted.php?getGeoTarget=true', true);
+geoAjax.send(null);
+
+</script>
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/20100618/ie/ie6.css" /><![endif]-->
+<!--[if lt IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/20100618/ie/ie7.css" /><![endif]-->
+<script type="text/javascript" src="/js/20100618/head/10_jquery.js"></script>
+<script type="text/javascript" src="/js/20100618/head/20_basic.js"></script>
+<script type="text/javascript" src="/js/20100618/head/30_thickbox.js"></script>
+<script type="text/javascript" src="/js/20100618/head/40_dimensions.js"></script>
+<script type="text/javascript" src="/js/20100618/head/50_jqbrowser2.js"></script>
+<script type="text/javascript" src="/js/20100618/head/60_toplist.js"></script>
+<script type="text/javascript" src="/js/20100618/head/70_conv.js"></script>
+<script type="text/javascript" src="/js/20100618/conv/conv122.js"></script>
+<script type="text/javascript" src="/js/20100618/head/80_paymentreviewlisting.js"></script>
+<script type="text/javascript" src="/js/20100618/head/90_flashgames.js"></script>
+<script type="text/javascript" src="/js/20100618/head/91_flashgamespromotion.js"></script>
+<script type="text/javascript" src="/js/20100618/head/payment-review.js"></script>
+<script type="text/javascript" src="/js/20100618/mbox.js"></script>
+<script type="text/javascript" src="/js/20100618/scstats/scstat_click.js"></script>
+<base href="http://www.casinotop10.net/">
 </head>
 <body id="pt-textpage" class="js-enabled">
 <script type="text/javascript">document.body.className = 'js-enabled';</script>
 <div id="wrapper">
 <div id="header">
 <strong><a href="/"><span>Casinotop10</span></a></strong>
-<h1>Keno</h1>
+<span>Exclusive Bonus Deals</span>
 </div>
 <div id="locals" class="langs">
-<strong>Your local CasinoTop10</strong>
+<strong>Your Local CasinoTop10</strong>
 <ul class="clearfix">
 <li><a href="http://www.casinotop10.net" class="en-us" title="United States"><span>United States</span></a></li>
 <li><a href="http://www.casinospielen.de" class="de" title="Germany"><span>Germany</span></a></li>
@@ -52,52 +176,40 @@
 <a href="http://www.casinotop10.net/">Casino</a>
  - <a href="/privacy-policy.shtml">Privacy Policy</a>
 </div>
+
 <div id="nav">
 <ul>
-<li class="home"><a href="/">Home</a> </li>
 <li>
-<strong>
-Online Casinos
-</strong>
+<strong>Online Casinos</strong>
 <ul>
-<li class="local"><a href="/us-casino-rooms.shtml">US Casino Rooms</a></li>
-<li class=" new"><a href="/uk-casino-rooms.shtml">UK Casino Rooms</a></li>
-<li class=""><a href="/most-popular-casinos.shtml">Most Popular Casinos</a></li>
-<li class=""><a href="/toplist-overall.shtml">Toplist Best Overall</a></li>
-<li class=""><a href="/top-bonus-casinos.shtml">Best Bonus Casinos</a></li>
-<li class=""><a href="/casino-reviews.shtml">Casino Reviews</a></li>
+<li class="local"><a href="/us-casino-rooms.shtml">US Casinos</a></li>
+<li class="new"><a href="/uk-casino-rooms.shtml">UK Casinos</a></li>
+<li class=""><a href="/most-popular-casinos.shtml">Best Online Casinos</a></li>
+<li class=""><a href="/top-bonus-casinos.shtml">Best Casino Bonus</a></li>
+<li class=""><a href="/casino-reviews.shtml">Online Casino Reviews</a></li>
 <li class=""><a href="/exclusive-bonuses.shtml">Exclusive Bonuses</a></li>
 <li class=""><a href="/no-deposit-casino.shtml">No Deposit Casino</a></li>
-</ul>
-</li>
+</ul></li>
 <li>
-<strong>
-Casino Games
-</strong>
+<strong>Casino Games</strong>
 <ul>
 <li class=""><a href="/casino-games.shtml">Casino Games</a></li>
-<li class=""><a href="/blackjack.shtml">Blackjack</a></li>
-<li class=""><a href="/slots.shtml">Slots</a></li>
-<li class=""><a href="/roulette.shtml">Roulette</a></li>
-<li class=""><a href="/video-poker.shtml">Video Poker</a></li>
-<li class=" new"><a href="/online-keno.shtml">Keno</a></li>
+<li class=""><a href="/blackjack.shtml">Online Blackjack</a></li>
+<li class=""><a href="/slots.shtml">Online Slots</a></li>
+<li class=""><a href="/roulette.shtml">Online Roulette</a></li>
+<li class=""><a href="/video-poker.shtml">Online Video Poker</a></li>
+<li class="new"><a href="/online-keno.shtml">Keno</a></li>
 <li class=""><a href="/tips-when-playing-craps-548.shtml">Craps</a></li>
-<li class=""><a href="/pai-gow.shtml">Pai Gow</a></li>
+<li class=""><a href="/pai-gow.shtml">Online Pai Gow</a></li>
 <li class=""><a href="/baccarat.shtml">Baccarat</a></li>
-</ul>
-</li>
+</ul></li>
 <li>
-<strong>
-Other Games
-</strong>
+<strong>Other Games</strong>
 <ul>
-<li class=""><a href="/bingo.shtml">Bingo</a></li>
-</ul>
-</li>
+<li class=""><a href="/bingo.shtml">Online Bingo</a></li>
+</ul></li>
 <li>
-<strong>
-Free Flash Casino
-</strong>
+<strong>Free Flash Casino</strong>
 <ul>
 <li class=""><a href="/flash-casino/">Free Flash Casino</a></li>
 <li class=""><a href="/flash-casino/free-blackjack.shtml">Free Blackjack</a></li>
@@ -106,105 +218,133 @@ Free Flash Casino
 <li class=""><a href="/flash-casino/free-caribbean-poker.shtml">Free Caribbean Poker</a></li>
 <li class=""><a href="/flash-casino/free-slots.shtml">Free Slots</a></li>
 <li class=""><a href="/flash-casino/free-slot-machines.shtml">Free Slot Machines</a></li>
-</ul>
-</li>
+</ul></li>
 <li>
-<strong>
-Articles
-</strong>
+<strong>Articles</strong>
 <ul>
 <li class=""><a href="/strategy-articles.shtml">Casino Strategy</a></li>
 <li class=""><a href="/other-articles.shtml">Casino Articles</a></li>
-</ul>
-</li>
+<li class="new"><a href="/mobile-casino-games.shtml">Mobile Phone Gambling</a></li>
+<li class="new"><a href="/european-casino-tour.shtml">Euro Casino Tour</a></li>
+</ul></li>
 <li>
-<strong>
-News
-</strong>
+<strong>News</strong>
 <ul>
-<li class=""><a href="/casino-news.shtml">All Casino News</a></li>
-</ul>
-</li>
+<li class=""><a href="/casino-news.shtml">Casino News</a></li>
+</ul></li>
 <li>
 <strong>Misc</strong>
 <ul>
-<li class="new"><a href="/payment-options.shtml">Payment Options</a></li>
-<li class="new"><a href="/black-jack-strategy-trainer.shtml">Black Jack Trainer</a></li>
+<li class="new"><a href="/video/butterfly-chip-trick.shtml">Poker Chip Tricks</a></li>
+<li class="new"><a href="/payment-options.shtml">Payment Options </a></li>
+<li class="new"><a href="/black-jack-strategy-trainer.shtml">Blackjack  Strategy Trainer</a></li>
+<li class="new"><a href="/card-counting-guide.shtml">Guide to Card Counting</a></li>
 <li><a href="/slots-tournaments.shtml">Slots Tournaments</a></li>
 <li><a href="/progressive-jackpots.shtml">Progressive Jackpots</a></li>
 <li><a href="/latest-winners.shtml">Latest Winners</a></li>
 <li><a href="/casino-software.shtml">Casino Software</a></li>
-</ul>
-</li>
-
+<li class="new"><a href="/glossary.shtml">Glossary</a></li>
+</ul></li>
 <li>
 <ul>
-<li class="rss-feed"><a href="/casino-news-rss-feed.shtml" class=""><span>RSS feed</span></a> </li>
+<li class="rss-feed"><a href="/rss-feed.shtml" class=""><span>RSS Feed</span></a> </li>
+<li class="rss-feed"><a href="/rss-editorials-feed.shtml" class=""><span>RSS Feed Articles</span></a> </li>
 </ul>
 </li>
 </ul>
 </div>
 <div id="main">
-<h2>Privacy Policy</h2>
-<p></p><p>
-CasinoTop10 respects your privacy. Any information collected at this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to CasinoTop10 will be kept with the uttermost care and will not be used in way to which you have not consented. 
-<br>
-</p><ul>
-<li>Resale or disclosure of information to third parties:<br>
-CasinoTop10 does not sell, rent, trade, loan, or lease any personal information collected at our site, including membership forms or e-mail lists. 
-</li>
-<li>Browser information collected on the website:<br>
-CasinoTop10 analyses the website logs to improve the value of the material available on the website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
-</li>
-<li>Advertisements:<br>
-We currently have ads served by an in-house program, which follow those privacy guidelines. 
-</li>
-<li>Use of cookies:<br>
-CasinoTop10 does use cookies on its website, mostly in order to track traffic coming from other websites and leaving to other websites. With the cookies, we make no attempt to link them with individuals to make any information personally identifiable. 
-</li>
-
-<li>Updates and changes:<br>
-CasinoTop10 reserves the right to replace this Privacy Policy at any time. We suggest that you regularly check: http://www. CasinoTop10/privacy-policy.html.
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes information entered by visitors in forms, the pages visited, etc. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products are most interesting for our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by clicking <a href="https://www.omniture.com/privacy" target="_blank">here</a>. 
-</li>
+<h1>Privacy Policy</h1>
+<p></p><p>CasinoTop10 respects your privacy. Any information collected at this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to CasinoTop10 will be kept with the uttermost care and will not be used in way to which you have not consented.</p>
+<ul>
+<li>Resale or disclosure of information to third parties:<br> CasinoTop10 does not sell, rent, trade, loan, or lease any personal information collected at our site, including membership forms or e-mail lists. </li>
+<li>Browser information collected on the website:<br> CasinoTop10 analyses the website logs to improve the value of the material available on the website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site. </li>
+<li>Advertisements:<br> We currently have ads served by an in-house program, which follow those privacy guidelines. </li>
+<li>Use of cookies:<br> CasinoTop10 does use cookies on its website, mostly in order to track traffic coming from other websites and leaving to other websites. With the cookies, we make no attempt to link them with individuals to make any information personally identifiable. </li>
+<li>Updates and changes:<br> CasinoTop10 reserves the right to replace this Privacy Policy at any time. We suggest that you regularly check: http://www.CasinoTop10.net/privacy-policy.shtml. We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes information entered by visitors in forms, the pages visited, etc. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products are most interesting for our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by clicking <a href="https://www.omniture.com/privacy" target="_blank">here</a>. </li>
 </ul>
-<br>
-<p>
-Please feel free to e-mail any questions or comments to <a href="mailto:info@casinotop10.net">info@casinotop10.net</a>.
-</p><p></p>
+<p>&nbsp;</p>
+<p>Please feel free to e-mail any questions or comments to <a href="mailto:info@casinotop10.net">info@casinotop10.net</a>.</p><p></p>
 </div>
 <div id="sub">
+<div id="mod-search">
 
 <form method="get" action="/search.shtml">
 <input class="text" type="text" id="searchString" name="searchString">
-<input type="submit" value="Search">
+<input class="submit" type="submit" value="Search">
 </form>
+</div>
+<div class="mod-social-media" id="mod-top10">
+</div>
+<div id="mod-social-media">
+<h3>Follow us on</h3>
+<ul>
+<li><a href="http://twitter.com/casinotop10us" target="_blank" class="twitter">Follow us on Twitter</a></li>
+</ul>
+</div>
+<!-- BEGIN LivePerson Button Code
+<div>
+<table border='0' cellspacing='2' cellpadding='2'>
+<tr>
+<td align="center"></td>
+<td align='center'>
+<a id="_lpChatBtn" href='https://server.iad.liveperson.net/hc/66605299/?cmd=file&file=visitorWantsToChat&site=66605299&byhref=1&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a' target='chat66605299'  onClick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/66605299/?cmd=file&file=visitorWantsToChat&site=66605299&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' && typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat66605299','width=475,height=400,resizable=yes');return false;" ><img src='https://server.iad.liveperson.net/hc/66605299/?cmd=repstate&site=66605299&channel=web&&ver=1&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a' name='hcIcon' border=0></a></td> </tr><tr><td>&nbsp;</td><td align='center'><div style="margin-top:5px;"><span style="font-size:10px; font-family:Arial, Helvetica, sans-serif;"><a href="http://solutions.liveperson.com/live-chat" style="text-decoration:none; color:#000" target="_blank"><b>Live Chat</b></a><span style="color:#000"> by </span><a href="http://solutions.liveperson.com/" style="text-decoration:none; color:#FF9900" target="_blank">LivePerson</a></span></div></td> </tr> <tr><td>&nbsp;</td><td align='center'><a href='http://solutions.liveperson.com/customer-service/?site=66605299&domain=server.iad.liveperson.net&origin=chatbutton' target='_blank'  onClick="javascript:window.open('http://solutions.liveperson.com/customer-service/?site=66605299&domain=server.iad.liveperson.net&origin=chatbutton&referrer='+escape(document.location));return false;" ><img src='https://server.iad.liveperson.net/hc/66605299/?cmd=rating&site=66605299&type=indicator' name='hcRating' alt='Customer Service Rating by LivePerson' border=0></a>
+</td>
+</tr>
+</table>
+</div>
+END LivePerson Button code -->
+<!-- <div id="mod-blog">
+<h3>Casinotop10 Blog</h3>
+<a href="blog.shtml"><img src="/images/blogpush.jpg" alt="casinotop10 blog" /></a>
+</div>  -->
 <div id="mod-review-list" class="mod-2">
 <h3>Casino Reviews</h3>
+<!-- Set US argument for toplist filter -->
+
+
+<div id="CasinoReviewsPush">
+	
 <ul>
 <li>
+<a href="/rome-casino.shtml">Rome Casino</a>
+ <a href="/casino-reviews.shtml" class="local details" title="This is a local casino">(Local)</a> <a href="/casino-reviews.shtml" class="toppick details" title="This casino is a Top Pick">(Top Pick)</a></li>
+<li>
 <a href="/rushmore-casino.shtml">Rushmore Casino</a>
- <span class="local" title="This is a local casino">(Local)</span></li>
+ <a href="/casino-reviews.shtml" class="local details" title="This is a local casino">(Local)</a> <a href="/casino-reviews.shtml" class="toppick details" title="This casino is a Top Pick">(Top Pick)</a></li>
+<li>
+<a href="/black-diamond-casino.shtml">Black Diamond Casino</a>
+ <a href="/casino-reviews.shtml" class="local details" title="This is a local casino">(Local)</a></li>
+<li>
+<a href="/millionaire-casino.shtml">Millionaire Casino</a>
+ <a href="/casino-reviews.shtml" class="local details" title="This is a local casino">(Local)</a> <a href="/casino-reviews.shtml" class="toppick details" title="This casino is a Top Pick">(Top Pick)</a></li>
 <li>
 <a href="/english-harbour-casino.shtml">English Harbour Casino</a>
- <span class="local" title="This is a local casino">(Local)</span> <span class="toppick" title="This casino is a Top Pick">(Top Pick)</span></li>
+ <a href="/casino-reviews.shtml" class="local details" title="This is a local casino">(Local)</a> <a href="/casino-reviews.shtml" class="toppick details" title="This casino is a Top Pick">(Top Pick)</a></li>
 <li>
 <a href="/vip-slots-casino.shtml">VIP Slots Casino</a>
- <span class="local" title="This is a local casino">(Local)</span> <span class="toppick" title="This casino is a Top Pick">(Top Pick)</span></li>
+ <a href="/casino-reviews.shtml" class="local details" title="This is a local casino">(Local)</a> <a href="/casino-reviews.shtml" class="toppick details" title="This casino is a Top Pick">(Top Pick)</a></li>
+<li>
+<a href="/silver-oak-casino.shtml">Silver Oak Casino</a>
+ <a href="/casino-reviews.shtml" class="local details" title="This is a local casino">(Local)</a></li>
 <li>
 <a href="/online-vegas-casino.shtml">Online Vegas Casino</a>
- <span class="local" title="This is a local casino">(Local)</span> <span class="toppick" title="This casino is a Top Pick">(Top Pick)</span></li>
+ <a href="/casino-reviews.shtml" class="local details" title="This is a local casino">(Local)</a> <a href="/casino-reviews.shtml" class="toppick details" title="This casino is a Top Pick">(Top Pick)</a></li>
 <li>
-<a href="/cherry-red-casino.shtml">Cherry Red Casino</a>
- <span class="local" title="This is a local casino">(Local)</span> <span class="toppick" title="This casino is a Top Pick">(Top Pick)</span></li>
+<a href="/pure-vegas-casino.shtml">Pure Vegas Casino</a>
+ <a href="/casino-reviews.shtml" class="local details" title="This is a local casino">(Local)</a></li>
 <li>
-<a href="/sportsbook-casino.shtml">Sportsbook Casino</a>
- <span class="local" title="This is a local casino">(Local)</span> <span class="toppick" title="This casino is a Top Pick">(Top Pick)</span></li>
-<li>
-<a href="/golden-casino.shtml">Golden Casino</a>
- <span class="local" title="This is a local casino">(Local)</span></li>
+<a href="/planet7-casino.shtml">Planet 7 Casino</a>
+ <a href="/casino-reviews.shtml" class="local details" title="This is a local casino">(Local)</a></li>
 </ul>
+</div>
+<!-- Make sure to reset geo filter -->
 
+<!-- Set SV argument for toplist filter -->
+
+<script type="text/javascript">
+			geoContent('CasinoReviewsPush', 'CQ0KPHVsPg0KPGxpPg0KPGEgaHJlZj0iL2V1cm9wYS1jYXNpbm8uc2h0bWwiPkV1cm9wYSBDYXNpbm88L2E+DQogPGEgaHJlZj0iL2Nhc2luby1yZXZpZXdzLnNodG1sIiBjbGFzcz0idG9wcGljayBkZXRhaWxzIiB0aXRsZT0iVGhpcyBjYXNpbm8gaXMgYSBUb3AgUGljayI+KFRvcCBQaWNrKTwvYT48L2xpPg0KPGxpPg0KPGEgaHJlZj0iL2J3aW4tY2FzaW5vLnNodG1sIj5Cd2luIENhc2lubzwvYT4NCjwvbGk+DQo8bGk+DQo8YSBocmVmPSIvODg4LmNvbS1jYXNpbm8uc2h0bWwiPjg4OC5jb20gQ2FzaW5vPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9Ii8yMS1ub3ZhLWNhc2luby5zaHRtbCI+MjEgTm92YSBDYXNpbm88L2E+DQogPGEgaHJlZj0iL2Nhc2luby1yZXZpZXdzLnNodG1sIiBjbGFzcz0idG9wcGljayBkZXRhaWxzIiB0aXRsZT0iVGhpcyBjYXNpbm8gaXMgYSBUb3AgUGljayI+KFRvcCBQaWNrKTwvYT48L2xpPg0KPGxpPg0KPGEgaHJlZj0iL3BhcnR5LWNhc2luby5zaHRtbCI+UGFydHkgQ2FzaW5vPC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9Ii93aWxsaWFtLWhpbGwtY2FzaW5vLnNodG1sIj5XaWxsaWFtIEhpbGwgQ2FzaW5vPC9hPg0KIDxhIGhyZWY9Ii9jYXNpbm8tcmV2aWV3cy5zaHRtbCIgY2xhc3M9InRvcHBpY2sgZGV0YWlscyIgdGl0bGU9IlRoaXMgY2FzaW5vIGlzIGEgVG9wIFBpY2siPihUb3AgUGljayk8L2E+PC9saT4NCjxsaT4NCjxhIGhyZWY9Ii9jYXNpbm8tdHJvcGV6LnNodG1sIj5DYXNpbm8gVHJvcGV6PC9hPg0KPC9saT4NCjxsaT4NCjxhIGhyZWY9Ii9ldXJvZ3JhbmQtY2FzaW5vLnNodG1sIj5FdXJvR3JhbmQgQ2FzaW5vPC9hPg0KIDxhIGhyZWY9Ii9jYXNpbm8tcmV2aWV3cy5zaHRtbCIgY2xhc3M9InRvcHBpY2sgZGV0YWlscyIgdGl0bGU9IlRoaXMgY2FzaW5vIGlzIGEgVG9wIFBpY2siPihUb3AgUGljayk8L2E+PC9saT4NCjxsaT4NCjxhIGhyZWY9Ii9yb21lLWNhc2luby5zaHRtbCI+Um9tZSBDYXNpbm88L2E+DQogPGEgaHJlZj0iL2Nhc2luby1yZXZpZXdzLnNodG1sIiBjbGFzcz0ibG9jYWwgZGV0YWlscyIgdGl0bGU9IlRoaXMgaXMgYSBsb2NhbCBjYXNpbm8iPihMb2NhbCk8L2E+IDxhIGhyZWY9Ii9jYXNpbm8tcmV2aWV3cy5zaHRtbCIgY2xhc3M9InRvcHBpY2sgZGV0YWlscyIgdGl0bGU9IlRoaXMgY2FzaW5vIGlzIGEgVG9wIFBpY2siPihUb3AgUGljayk8L2E+PC9saT4NCjxsaT4NCjxhIGhyZWY9Ii9ydXNobW9yZS1jYXNpbm8uc2h0bWwiPlJ1c2htb3JlIENhc2lubzwvYT4NCiA8YSBocmVmPSIvY2FzaW5vLXJldmlld3Muc2h0bWwiIGNsYXNzPSJsb2NhbCBkZXRhaWxzIiB0aXRsZT0iVGhpcyBpcyBhIGxvY2FsIGNhc2lubyI+KExvY2FsKTwvYT4gPGEgaHJlZj0iL2Nhc2luby1yZXZpZXdzLnNodG1sIiBjbGFzcz0idG9wcGljayBkZXRhaWxzIiB0aXRsZT0iVGhpcyBjYXNpbm8gaXMgYSBUb3AgUGljayI+KFRvcCBQaWNrKTwvYT48L2xpPg0KPC91bD4NCg==');
+		</script>
 </div>
 <div id="mod-quick-guide" class="mod-2">
 <h3>Casino Games Quick Guide</h3>
@@ -212,49 +352,41 @@ Please feel free to e-mail any questions or comments to <a href="mailto:info@cas
 <li class="blackjack">
 <h4><span>Black Jack</span></h4>
 <ul>
-<li><a href="/blackjack.shtml" class="">How to play</a></li>
-<li><a href="/blackjack-rules.shtml" class="">Rules</a></li>
-<li class="l-c"><a href="/blackjack-strategy.shtml" class="">Strategy</a></li>
+<li><a class="" href="/blackjack.shtml">How to play</a></li>
+<li><a class="" href="/blackjack-rules.shtml">Rules</a></li>
+<li class="l-c"><a class="" href="/blackjack-strategy.shtml">Strategy</a></li>
 </ul>
 </li>
 <li class="slots">
 <h4><span>Slots</span></h4>
 <ul>
-<li><a href="/slots.shtml" class="">How to play</a></li>
-<li><a href="/slots-rules-and-variations.shtml" class="">Rules</a></li>
-<li class="l-c"><a href="/slots-strategy-545.shtml" class="">Strategy</a></li>
+<li><a class="" href="/slots.shtml">How to play</a></li>
+<li><a class="" href="/slots-rules-and-variations.shtml">Rules</a></li>
+<li class="l-c"><a class="" href="/slots-strategy-545.shtml">Strategy</a></li>
 </ul>
 </li>
 <li class="video-poker">
 <h4><span>Video Poker</span></h4>
 <ul>
-<li><a href="/video-poker.shtml" class="">How to play</a></li>
-<li><a href="/video-poker-rules-and-game-variation.shtml" class="">Rules</a></li>
-<li class="l-c"><a href="/video-poker-strategy.shtml" class="">Strategy</a></li>
+<li><a class="" href="/video-poker.shtml">How to play</a></li>
+<li><a class="" href="/video-poker-rules-and-game-variation.shtml">Rules</a></li>
+<li class="l-c"><a class="" href="/video-poker-strategy.shtml">Strategy</a></li>
 </ul>
 </li>
 <li class="craps">
 <h4><span>Craps</span></h4>
 <ul>
-<li><a href="/tips-when-playing-craps-548.shtml" class="">How to play</a></li>
-<li><a href="/craps-rules.shtml" class="">Rules</a></li>
-<li class="l-c"><a href="/online-craps-strategy.shtml" class="">Strategy</a></li>
+<li><a class="" href="/tips-when-playing-craps-548.shtml">How to play</a></li>
+<li><a class="" href="/craps-rules.shtml">Rules</a></li>
+<li class="l-c"><a class="" href="/online-craps-strategy.shtml">Strategy</a></li>
 </ul>
 </li>
 <li class="roulette">
 <h4><span>Roulette</span></h4>
 <ul>
-<li><a href="/roulette.shtml" class="">How to play</a></li>
-<li><a href="/how-to-play-online-roulette-roulette-rules.shtml" class="">Rules</a></li>
-<li class="l-c"><a href="/roulette-strategy.shtml" class="">Strategy</a></li>
-</ul>
-</li>
-<li class="bingo">
-<h4><span>Bingo</span></h4>
-<ul>
-<li><a href="/bingo.shtml" class="">How to play</a></li>
-<li> <a href="/bingo-how-to-play.shtml" class="">Rules</a></li>
-<li class="l-c"> <a href="/bingo-strategy.shtml" class="">Strategy</a></li>
+<li><a class="" href="/roulette.shtml">How to play</a></li>
+<li><a class="" href="/how-to-play-online-roulette-roulette-rules.shtml">Rules</a></li>
+<li class="l-c"><a class="" href="/roulette-strategy.shtml">Strategy</a></li>
 </ul>
 </li>
 </ul>
@@ -266,31 +398,36 @@ Please feel free to e-mail any questions or comments to <a href="mailto:info@cas
 <tbody>
 <tr>
 <td class="f-c">1.</td>
-<th scope="row"><a href="/goto/golden-casino_a562.shtml" target="_blank">Golden Casino</a></th>
-<td class="l-c">$1000</td>
+<th scope="row"><a href="/goto/silver-oak-casino.shtml" target="_blank" class="pop-up">Silver Oak Casino</a></th>
+<td class="l-c">$11100aa</td>
 </tr>
 <tr>
 <td class="f-c">2.</td>
-<th scope="row"><a href="/goto/rushmore-casino_a562.shtml" target="_blank">Rushmore Casino</a></th>
-<td class="l-c">$888</td>
+<th scope="row"><a href="/goto/all-slots-casino.shtml" target="_blank" class="pop-up">All Slots Casino</a></th>
+<td class="l-c">$5610aa</td>
 </tr>
 <tr>
 <td class="f-c">3.</td>
-<th scope="row"><a href="/goto/vip-slots-casino_a562.shtml" target="_blank">VIP Slots Casino</a></th>
-<td class="l-c">$777</td>
+<th scope="row"><a href="/goto/rome-casino.shtml" target="_blank" class="pop-up">Rome Casino</a></th>
+<td class="l-c">$5000aa</td>
+</tr>
+<tr>
+<td class="f-c">4.</td>
+<th scope="row"><a href="/goto/millionaire-casino.shtml" target="_blank" class="pop-up">Millionaire Casino</a></th>
+<td class="l-c">$5000aa</td>
+</tr>
+<tr>
+<td class="f-c">5.</td>
+<th scope="row"><a href="/goto/21-nova-casino.shtml" target="_blank" class="pop-up">21 Nova Casino</a></th>
+<td class="l-c">$3250aa</td>
 </tr>
 </tbody>
 </table>
+<a class="more" href="/top-bonus-casinos.shtml">See all Best Casino Bonuses</a>
+</div>
+</div><div id="footer">
+<strong>CasinoTop10</strong> is your definitive guide to online casinos. Be sure to visit us regulary to read up on fresh information and the latest updates. Cram our objective online casino reviews for information about site quality as well as the best sign-up bonuses currently available. Please contact us <a href="/about-casinotop10.shtml">here</a>. <p></p>
 
-<a href="/top-bonus-casinos.shtml" class="more">See all Best Casino Bonuses</a>
-</div>
-</div>
-<div id="footer">
-<p>
-<strong>CasinoTop10</strong> is the experienced player's definite guide to online casinos. Be sure to visit us regularly to read in on fresh information and the latest updates. Cram our objective online casino reviews for information about site quality as well as the best sign-up bonuses currently available. Please contact us <a href="http://www.casinotop10.net/about-casinotop10.shtml">here</a>.
-</p>
-<p>				Copyright © 2009 CasinoTop10.net - All Rights Reserved.
-</p>
 <ul>
 <li class="first-child"><a href="/responsible-gambling.shtml">Responsible gambling</a></li>
 <li><a href="/about-casinotop10.shtml">About us</a></li>
@@ -299,58 +436,73 @@ Please feel free to e-mail any questions or comments to <a href="mailto:info@cas
 <li><a href="/partners.shtml">Partners</a></li>
 <li class="l-c"><a href="/disclaimer.shtml">Disclaimer</a></li>
 </ul>
+
 </div>
 </div>
-<!-- SiteCatalyst code version: H.8.
-Copyright 1997-2006 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script src="/js/scstats/s_code_en-us.js" type="text/javascript"></script>
+<div class="mboxDefault"></div>
+
 <script type="text/javascript">
-	<!--
-		/* You may give each page an identifying name, server, and channel on
-		the next lines. */
-			s.pageName="/privacy-policy.shtml"
-			s.server="us"
-		s.channel="privacy-policy"
-		s.pageType=""
+		mboxCreate('ext-landing-europa-init');
+	</script>
 
-			s.prop1="textpage"
+<script type="text/javascript">var addthis_config = { data_use_flash: false }</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=ct10us"></script>
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1996-2009 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/js/scstats/s_code_en-us.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+   	    	        s.pageName="/privacy-policy.shtml"
+		     
+        s.server="NLAMSSVR002"
+        s.channel="privacy-policy"
+        s.pageType=""
+
+    /* S props */
+    s.prop1="Privacy Policy"
+    
+    
+					
+			if( typeof( conv_29_version ) !== 'undefined' ) {
+				s.prop7 = 'europa-lp-' + conv_29_version;
+				s.eVar7 = 'europa-lp-' + conv_29_version;
+			}
+			
 		
+					
+			if( typeof( conv_027_version ) !== 'undefined' ) {
+				s.prop7 = 'design-' + conv_027_version;
+				s.eVar7 = 'design-' + conv_027_version;
+			}
+			
+		
+		    /* E vars */
+    s.eVar11 = s.pageName;
+    
+    /* E-commerce Variables */
+    s.campaign=""
+    s.state=""
+    s.zip=""
+    s.events="event8"
+    s.products=""
+    s.purchaseID=""
 
-	if( typeof( mbox_toplist_q1_09_version ) !=='undefined' )
-	{
-		s.prop7 = 'toplist-design-' + mbox_toplist_q1_09_version;
-		s.eVar7 = 'toplist-design-' + mbox_toplist_q1_09_version;
-	}
+    /* Hierarchy Variables */
+    s.hier1="index/privacy-policy"
 
-	
-	/* E-commerce Variables */
-	s.campaign=""
-	s.state=""
-	s.zip=""
-	s.events="event8"
-	s.products=""
-	s.purchaseID=""
-
-	
-	/* Hierarchy Variables */
-	s.hier1="index/privacy-policy"
-
-	s_level = "Level 2";
+    s_level = "Level 2";
 
 	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	var s_code=s.t();if(s_code)document.write(s_code)
-//-->
+	var s_code=s.t();if(s_code)document.write(s_code)//-->
 </script>
-<script type="text/javascript">
-<!--
-	if(navigator.appVersion.indexOf('MSIE')>=0)
-		document.write(unescape('%3C')+'\!-'+'-')
-//-->
-</script>
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.8. -->
-<script type="text/javascript" src="http://cetrk.com/pages/scripts/0009/9454.js"> </script>
-
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img
+src="http://omsc.casinotop10.net/b/ss/wcasinotop10us/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. --><script type="text/javascript" src="http://cetrk.com/pages/scripts/0009/9454.js"> </script>
 
 </body></html>
