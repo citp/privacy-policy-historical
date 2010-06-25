@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficcashgold.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225134912id_/http%3A//www.trafficcashgold.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficcashgold.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626003251id_/http%3A//www.trafficcashgold.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Traffic Cash Gold - Adult Affiliate Program
 
