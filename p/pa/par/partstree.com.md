@@ -1,34 +1,9 @@
-> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620000508id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625115943id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
 
-# PartsTree.com Resources
+# Partstree.com Resources
 
-| 
+  
 
-[View/Update your order](http://www.partstree.com/resources/?c=track_order)
-
-If you have placed an order with us and would like to view the current status, cancel, or update your shipping or billing information, click here to find your order.
-
-[Help database](http://www.partstree.com/resources/?c=help_db)
-
-If you have a question or concern regarding the usage of our website, try searching our help database for answers to questions that have been asked before by other customers.
-
-[Privacy Policy](http://www.partstree.com/resources/?c=privacy)
-
-Concerned about the safety of your information or have questions about how we gather and use information on users? Click here to view our privacy policy.
-
-[Terms & Conditions](http://www.partstree.com/resources/?c=terms)
-
-We strongly urge you to read our Terms & Conditions before making a purchase so that you do not encounter any surprises during your shopping experience. The lawn equipment parts industry is not like others with internet stores and some methods of operation you are used to may not be the same.
-
-[Contact Us](http://www.partstree.com/resources/?c=contact_us)
-
-Please be sure to look for your answer in our help database above before sending us questions or concerns. Our customer service representatives will assist you in the best way we can.
-
-| 
-
-### PartsTree.com's Commitment to Privacy
-
-#### Effective December 5th, 2005
 
 ### Our Commitment To Privacy
 
@@ -36,7 +11,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ### Information Collected
 
-This notice applies to all information collected or submitted on the PartsTree.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the Partstree.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 > Name  
 >  Address  
@@ -69,7 +44,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ### How You Can Access or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by PartsTree.com. We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by Partstree.com. We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -77,6 +52,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ### How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 512-288-4355.  
-  
----|---
+Should you have other questions or concerns about these privacy policies, please call us at 512-288-4355.
