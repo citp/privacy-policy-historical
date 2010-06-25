@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the givology.org privacy policy that was archived on 2009-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091223174013id_/http%3A//www.givology.org/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the givology.org privacy policy that was archived on 2010-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625121838id_/http%3A//www.givology.org/policy) for the most accurate reproduction.-->
 
 <html><head>
   <title></title>
@@ -65,9 +65,39 @@
 
 <script type="text/javascript" src="/static/sorttable.js"></script>
 <script type="text/javascript" src="/static/jquery.tools.min.js"></script>
+<script type="text/javascript" src="Simple%20Page%20Peel%20Effect%20with%20jQuery%20&amp;%20CSS_files/jquery-latest.js"></script> 
+<script type="text/javascript"> 
+$(document).ready(function(){
+
+//Challenge page flip on hover
+
+	$("#pageflip").hover(function() {
+		$("#pageflip img , .msg_block").stop()
+			.animate({
+				width: '384px', 
+				height: '415px'
+			}, 500); 
+		} , function() {
+		$("#pageflip img").stop() 
+			.animate({
+				width: '60px', 
+				height: '60px'
+			}, 900);
+		$(".msg_block").stop() 
+			.animate({
+				width: '366px', 
+				height: '291px'
+			}, 900);
+	});
+
+	
+});
+</script> 
+
 </head>
 
 <body class="item0">
+
 
 
 <div id="container">
@@ -210,6 +240,7 @@
 	</div>
 
 	<div class="majorblock">
+      
 	<div style="margin: 10px;">
 
 
@@ -260,8 +291,9 @@
 			© 2008 Givology.
 			Givology does not guarantee any repayment or return on your grant of any kind.
 	</div>
-
 </div>
+
+
 
 
 
