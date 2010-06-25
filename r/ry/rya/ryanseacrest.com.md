@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217091551id_/http%3A//www.ryanseacrest.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625044419id_/http%3A//www.ryanseacrest.com/privacypolicy) for the most accurate reproduction.*
 
 # Ryan Seacrest | Entertainment News, On-Air Recaps & Ryan News
 
