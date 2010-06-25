@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221073722id_/http%3A//freedback.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625045346id_/http%3A//www.freedback.com/privacy_policy.php) for the most accurate reproduction.*
 
-# HTML forms can be as simple as "Copy and Paste"
+# Privacy Policy - Online Form Builder | Freedback
 
-### Privacy Policy
-
-[Wondermill Webworks Inc.](http://www.wondermill.com/) (Freedback's parent company) has created this privacy statement in order to disclose our information gathering and dissemination practices for the Freedback form procesing service. 
+[Wondermill Webworks Inc.](http://www.wondermill.com/) (Freedback's parent company) has created this privacy statement in order to disclose our information gathering and dissemination practices for the Freedback form procesing service.
 
 **Policies for Webmasters (Clients) Using our services:**  
 Our sites' registration forms requires Webmasters  to give us contact information (like their name and email address) and demographic information (like their zipcode, country or language). We use contact information from the registration form to send the Webmaster "Service Mailings", from us only, which include legal notices, new features and valuable tips, as well as promotions about our company and our partners. The Webmaster's contact information is also used to contact them when necessary. Demographic and profile data is also collected at our site. We use this data to tailor the Webmaster's experience, and that of Web Visitors coming to our site through the Webmasters' site, showing the Webmaster and the Web Visitors content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
