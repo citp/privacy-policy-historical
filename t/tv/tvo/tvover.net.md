@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tvover.net privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226233929id_/http%3A//www.tvover.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvover.net privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625224507id_/http%3A//www.tvover.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - TVover.net
 
 TVover.net Privacy Policy
 
-This agreement was last updated on December 29, 2006. 
+This agreement was last updated on March 15, 2009. 
 
 TVover.net ("TVover.net" or "we") understands that your privacy is important to you. TVover.net is strongly committed to protecting your privacy and the personal information that you may provide as you access and use the materials on tvover.net (the "Site"). We are committed to making sure that your personal information is correct, that we use your information responsibly, and that we have strict standards of confidentiality and security for your information. 
 
@@ -26,13 +26,15 @@ Use of cookies may allow TVover.net to provide a higher quality, more relevant, 
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
+Google, as a third party vendor, uses cookies to serve ads on Find Internet TV. Google's use of the DoubleClick DART cookie enables it to serve ads to users like yourself based on your visit to Find Internet TV and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
 **Log Files.** Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
 **Surveys.** From time-to-time our Site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (i.e. such as a name and shipping address), and demographic information (such as postal code). Contact information will be used to notify the winners and award prizes. Anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. User's personally identifiable information is not shared with third parties unless we give prior notice and choice. 
 
 **Forums, Chat Rooms, Instant Messengers, and Online Email.** Please keep in mind that whenever you voluntarily disclose personal information online - for example in forums, chat rooms, through email, or through instant messengers - that information can be collected and used by others. In short, by posting personal information online that is publicly accessibly, you may receive unsolicited messages from other parties in return. 
 
-**Third-Party Advertising.** We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gif's or web beacons) to measure advertising effectiveness. Any information that these parties collect via cookies and action tags is completely anonymous. 
+**Third-Party Advertising.** We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gif's or web beacons) to measure advertising effectiveness or provide advertisements about goods and services that may be of interest to you. Any information that these parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and to know your choices about not having this information used by Google's Adwords and Adsense program, [click here](http://www.google.com/privacy_ads.html). 
 
 **Information Other Web Sites Collect From You.** On the Site, we place links to other web sites operated by other parties. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website. 
 
