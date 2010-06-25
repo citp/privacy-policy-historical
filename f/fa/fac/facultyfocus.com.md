@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facultyfocus.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223185035id_/http%3A//www.facultyfocus.com/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facultyfocus.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626000948id_/http%3A//www.facultyfocus.com/account/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Our postal address is:
 2718 Dryden Drive  
 Madison, WI 53704
 
-We can be reached via e-mail at custserv@magnapubs.com  
+We can be reached via email at [support@magnapubs.com](mailto:support@magnapubs.com),  
 or you can reach us by telephone at 1-800-433-0499.
 
 First, we do not share or sell sensitive customer information obtained from using the Magna website.
