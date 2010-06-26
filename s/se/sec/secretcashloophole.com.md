@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretcashloophole.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231002017id_/http%3A//www.secretcashloophole.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretcashloophole.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626090447id_/http%3A//secretcashloophole.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
