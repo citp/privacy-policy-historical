@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autonlines.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217145022id_/http%3A//www.autonlines.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonlines.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626044542id_/http%3A//www.autonlines.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policye
 
