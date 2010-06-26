@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pearsonschoolsandfecolleges.co.uk privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226181923id_/http%3A//www.pearsonschoolsandfecolleges.co.uk/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonschoolsandfecolleges.co.uk privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626110523id_/http%3A//www.pearsonschoolsandfecolleges.co.uk/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Pearson Education Privacy Policy
 
-Pearson Education Limited (incorporating Heinemann, Rigby, Ginn, Payne Gallway and Raintree) is committed to protecting your privacy.
+Pearson Education Limited (incorporating Heinemann, Longman, Rigby, Ginn, Payne Gallway and Causeway Press) is committed to protecting your privacy.
 
 Pearson Education Limited collects personal information from you (by cookie technology- see below) through the use of order forms and every time you e-mail us your details, post a message to a bulletin board or provide shipping and billing information for an online purchase. 
 
@@ -19,7 +19,7 @@ If you do not agree to this Website's use of cookies you will need to disable co
 
 Any personal information you provide while visiting this Website is confidential, and only used for the purposes described below. We guarantee never to sell Personal Information or share that information with third parties unrelated to Pearson Education Limited (or any associated companies which may be located outside the European Union) without your express permission, except to any third party suppliers we engage to develop or host the site or develop any of our products or services or pursuant to any properly executed court order from a competent jurisdiction or if otherwise required to do so by law.
 
-Personal Information is: your name, phone number, contact details, date of birth, job, course information, recommended text, personal interests, credit card information, e-mail address, shopping selections and data about the pages you visit on this site. This may be used by us to process your online purchases, to inform you about other products and services, to improve the products and services we offer or for other marketing or statistical purposes and otherwise to better meet the needs and preferences of our customers. If you would like to receive any further information on other products and services, please send an e-mail to [websitesupport@pearson.com](mailto:websitesupport@pearson.com) 
+Personal Information is: your name, phone number, contact details, date of birth, job, course information, recommended text, personal interests, credit card information, e-mail address, shopping selections and data about the pages you visit on this site. This may be used by us to process your online purchases, to inform you about other products and services, to improve the products and services we offer or for other marketing or statistical purposes and otherwise to better meet the needs and preferences of our customers. If you would like to receive any further information on other products and services, please send an e-mail to [websitesupport@pearson.com](mailto:websitesupport@pearson.com)  
 
 Users should be reminded that any Personal Information that is voluntarily posted by a user to a public area of the Website, such as a bulletin board, may be collected and used by others. We cannot prevent such uses. 
 
