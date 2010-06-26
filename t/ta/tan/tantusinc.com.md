@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tantusinc.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226152547id_/http%3A//tantusinc.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tantusinc.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626042421id_/http%3A//tantusinc.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tantus Inc.
 
