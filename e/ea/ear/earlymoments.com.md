@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earlymoments.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224120411id_/http%3A//www.earlymoments.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlymoments.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626105952id_/http%3A//www.earlymoments.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ Customers may occasionally receive information on products, services, special de
 
 Choice/Opt-out
 
-Users who no longer wish to receive any marketing or promotional materials from us or our partners may opt-out of receiving these communications by replying to any such promotional e-mail indicating your desire to no longer receive such e-mails, please contact Customer Care at 1-800-353-3140.
+Users who no longer wish to receive any marketing or promotional materials from us or our partners may opt-out of receiving these communications by replying to any such promotional e-mail indicating your desire to no longer receive such e-mails, or by contacting Customer Care at 1-800-353-3140.
 
 Collecting Information from Children Younger than 18
 
