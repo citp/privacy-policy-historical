@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224200905id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626050432id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
 
 # Our privacy policy - Home - from Delia Online
 
