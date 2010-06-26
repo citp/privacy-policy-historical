@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bizo.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901200921id_/http%3A//www.bizo.com/business_audience/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizo.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626050620id_/http%3A//www.bizo.com/business_audience/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Business Audience | Bizo
 
-## Bizo, Inc. Privacy Policy May 1, 2008
+## Bizo, Inc. Privacy Policy as of December 1, 2009
 
 Bizo, Inc. ("Bizo") is a provider of business targeting technologies and services to online marketers and websites and considers the protection of your privacy and full disclosure of the use of your information to be of utmost importance. We operate services relating to the Bizographic Targeting Network (BTN), an online advertising network for business marketers and websites. This Privacy Policy has been created to describe and disclose how we use and collect user data in providing these services. If in reading this document, you have any questions, or become hopelessly bored and are unable to continue, please feel free to contact us at [privacy@bizo.com](mailto:privacy@bizo.com) or at the address listed below.
 
@@ -43,7 +43,7 @@ To make certain that ads served by Bizo are targeted correctly, partner websites
 
 _Customer Information_
 
-Prospective customers (websites and online marketers) can go to [http://www.bizo.com](http://www.bizo.com/ "Bizo - Remarkable Business Targeting") to provide their contact information to learn more and to be contacted by a Bizo representative. Bizo or its partners reserve the right to use this information for business purposes such as responding to the request, marketing and research. Bizo or its partners will not use this information for other purposes or share this information with other companies.
+Prospective customers (websites and online marketers) can go to [http://www.bizo.com](http://www.bizo.com/) to provide their contact information to learn more and to be contacted by a Bizo representative. Bizo or its partners reserve the right to use this information for business purposes such as responding to the request, marketing and research. Bizo or its partners will not use this information for other purposes or share this information with other companies.
 
 _Cookies_
 
@@ -51,11 +51,15 @@ Many websites, including those participating in the BTN, set "cookies" on your c
 
 You are always free to decline cookies, but by doing so you may not be able to use certain features on the websites or take full advantage of all the website offerings and targeted advertising. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set.
 
-Alternatively, you may [click here to opt-out of data collection and targeting cookies from Bizo](https://web.archive.org/web/20090901200921id_/http%3A//www.bizo.com/business_audience/opt_out.html "Out-Out"). This will result in your inability to benefit from many of the Bizo features described above. Note that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.
+Alternatively, you may [click here to opt-out of data collection and targeting cookies from Bizo](https://web.archive.org/web/20100626050620id_/http%3A//www.bizo.com/business_audience/opt_out.html). This will result in your inability to benefit from many of the Bizo features described above. Note that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.
 
 _Disclosure of Information_
 
 Non-personal information may be transferred or disclosed by Bizo to the following entities for the following purposes: (1) to our partner websites to segment and target relevant advertisements to you; (2) to entities authorized to handle data such as our employees, independent contractors, subsidiaries, partners, consultants, acquirers, business associates, service providers and suppliers (though disclosure would be made only to enable these entities to perform a business, professional or technical support function for us); and (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law.
+
+_Compliance with Safe Harbor Frameworks_
+
+Bizo complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Bizo has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Bizo’s certification, please visit <http://www.export.gov/safeharbor>. Furthermore, Bizo (1) will cooperate with the European Union Data Protection Agencies (“DPAs”) in the investigation and resolution of complaints brought under the Safe Harbor, and (2) will comply with any advice given by the DPAs where the DPAs take the view that Bizo needs to take specific action to comply with the Safe Harbor Principles, including remedial or compensatory measures for the benefit of individuals affected by any non-compliance with the Principles, and will provide the DPAs with written confirmation that such action has been taken.
 
 ##### The Right to Change This Policy
 
