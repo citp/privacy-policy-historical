@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itechnews.net privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225185823id_/http%3A//www.itechnews.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itechnews.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626043147id_/http%3A//www.itechnews.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iTech News Net - Gadget News and Reviews
 
