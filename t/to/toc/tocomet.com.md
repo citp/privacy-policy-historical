@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tocomet.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509090910id_/http%3A//www.bitcomet.com/doc/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tocomet.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626131655id_/http%3A//www.bitcomet.com/doc/privacy-policy.htm) for the most accurate reproduction.*
 
 # BitComet Website Privacy Policy - A free C++ BitTorrent/HTTP/FTP Download Client
 
