@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aurora.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604042521id_/http%3A//www.aurorahealthcare.org/misc/privacy-statement/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurora.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626084612id_/http%3A//www.aurorahealthcare.org/misc/privacy-statement/index.asp) for the most accurate reproduction.*
 
 # Notice of Privacy Practices
 
-THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+## THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-[ [View the Spanish version (PDF document)](https://web.archive.org/web/20030604042521id_/http%3A//www.aurorahealthcare.org/misc/privacy-statement/art/Spanish-Notice.pdf) ]
+[ [View the Spanish version (PDF document)](https://web.archive.org/web/20100626084612id_/http%3A//www.aurorahealthcare.org/misc/privacy-statement/art/Spanish-Notice.pdf) ]
 
 ### OUR COMMITMENT
 
@@ -14,7 +14,7 @@ If we change this notice, you can access the revised notice using one of these o
 
   * At any of the registration areas of our hospitals and clinics;
   * From home health, hospice, nursing home, retail pharmacy, or optical staff; or
-  * From this website (www.AuroraHealthCare.org). 
+  * From this website (www.AuroraHealthCare.org).
 
 
 
@@ -26,7 +26,7 @@ We may use your health information and disclose it to appropriate persons, autho
 
 **Payment.** We may use your health information and disclose it to insurance companies or employer health plans, and to others in order to receive payment for your bill. For example, we must submit a bill to your insurance company that states your name, what is wrong with you, how we are treating you, and other information in order for us to receive payment. In certain situations, we may disclose your health information to a collection agency if a bill is not paid.
 
-**Health Care Operations.** We may use the information in your medical record to help us improve the quality or cost of the care we give or to respond to appropriate questions about the care provided. For example, we may study how doctors and nurses manage patient treatment after surgery, to learn the best way to help patients recover. We may use your health information to look at the care you received from doctors, nurses, pharmacists, or other health care professionals. We may disclose your health information to another health care professional that you have seen so they may improve their quality or cost. 
+**Health Care Operations.** We may use the information in your medical record to help us improve the quality or cost of the care we give or to respond to appropriate questions about the care provided. For example, we may study how doctors and nurses manage patient treatment after surgery, to learn the best way to help patients recover. We may use your health information to look at the care you received from doctors, nurses, pharmacists, or other health care professionals. We may disclose your health information to another health care professional that you have seen so they may improve their quality or cost.
 
 **Reminders and Information Sharing.** We may use your health information to remind you of an appointment or to tell you about treatment options or health products and services that may be of interest to you. For example, we may send you a letter telling you about a new health care facility that is opening in your area.
 
@@ -38,7 +38,7 @@ We may also use and disclose your health information without your written permis
 
 **Hospital and Nursing Home Patient Directory.** If you are hospitalized or a resident in a nursing home, we may keep brief information about you in our directory. Unless you tell us otherwise, we may disclose where you are in our facility (for example, your room or phone number) and your general health condition (for example "stable" or "good") to anyone who asks for you by name. We will also disclose your religious affiliation to clergy, even if they do not ask for you by name.
 
-**Family and Friends for Care and Payment.** Unless you request otherwise and in emergency situations, we may disclose information to your family members, relatives, close friends, or others who are helping care for you or helping you pay your medical bills. For example, we may tell these persons where you are and how you are doing. 
+**Family and Friends for Care and Payment.** Unless you request otherwise and in emergency situations, we may disclose information to your family members, relatives, close friends, or others who are helping care for you or helping you pay your medical bills. For example, we may tell these persons where you are and how you are doing.
 
 **Disaster Relief Efforts.** We may disclose your health information to organizations for the purpose of disaster relief efforts.
 
@@ -80,7 +80,7 @@ As a patient or customer who receives health care services from Aurora Health Ca
 
 Read and copy your health information. With a few exceptions, you have the right to read and obtain a copy of your health information. We may charge you a reasonable fee if you want a copy of your health information. If we deny your request to review or obtain a copy, you may submit a written request for a review of that decision.
 
-  * To obtain your health information, contact the Health Information/Medical Record Department of the facility where you were treated. 
+  * To obtain your health information, contact the Health Information/Medical Record Department of the facility where you were treated.
   * To obtain your billing information, contact the Central Business Office.
   * To request information from a retail pharmacy or optical shop, inquire at the counter.
 
