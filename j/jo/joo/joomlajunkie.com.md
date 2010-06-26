@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomlajunkie.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501082944id_/http%3A//www.joomlajunkie.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlajunkie.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626161137id_/http%3A//www.joomlajunkie.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - JoomlaJunkie
+# Privacy Policy - Joomlajunkie
 
 #### Introduction
 
@@ -61,3 +61,5 @@ This includes all public policy definitions.
 All information submitted to us will be used as per the terms and condition of this website. You grant us permission to pass your details over to prospective buyers/sellers for the completion of our services agreement.
 
 All the information contained on this website is copyright of JoomlaJunkie and may not be copied, either in part or in whole. As we respect your privacy, we ask in return that you respect ours.
+
+[](http://digg.com/submit?phase=2&url=http://www.joomlajunkie.com/privacy-policy.html&title=Privacy%20Policy "Digg!")[](http://reddit.com/submit?url=http://www.joomlajunkie.com/privacy-policy.html&title=Privacy%20Policy "Reddit!")[](http://del.icio.us/post?url=http://www.joomlajunkie.com/privacy-policy.html&title=Privacy%20Policy "Del.icio.us!")[](http://www.google.com/bookmarks/mark?op=add&bkmk=http://www.joomlajunkie.com/privacy-policy.html&title=Privacy%20Policy "Google!")[](http://www.facebook.com/share.php?u=http://www.joomlajunkie.com/privacy-policy.html&t=Privacy%20Policy "Facebook!")[](http://slashdot.org/bookmark.pl?url=http://www.joomlajunkie.com/privacy-policy.html&title=Privacy%20Policy "Slashdot!")[](http://technorati.com/faves/?add=http://www.joomlajunkie.com/privacy-policy.html "Technorati!")[](http://www.stumbleupon.com/submit?url=http://www.joomlajunkie.com/privacy-policy.html&title=Privacy%20Policy "StumbleUpon!")[](http://www.newsvine.com/_tools/seed&save?u=http://www.joomlajunkie.com/privacy-policy.html&h=Privacy%20Policy "Newsvine!")[](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.joomlajunkie.com/privacy-policy.html&t=Privacy%20Policy "Yahoo!")[](http://ma.gnolia.com/beta/bookmarklet/add?url=http://www.joomlajunkie.com/privacy-policy.html&title=Privacy%20Policy "Ma.gnolia!")
