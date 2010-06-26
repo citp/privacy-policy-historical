@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theworld.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227180028id_/http%3A//www.theworld.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworld.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626021209id_/http%3A//www.theworld.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | PRI's The World
 
