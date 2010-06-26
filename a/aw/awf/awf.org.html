@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2009-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091223212613id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awf.org privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626111419id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us"><head>
 <title>AWF: Privacy Policy</title>
@@ -8,12 +8,52 @@
 <meta name="Keywords" content="">
 <link type="text/css" href="/style.css" rel="stylesheet">
 <link type="text/css" href="/javascript/jquery.tooltip.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/shadowbox/shadowbox.css">
+<link rel="stylesheet" href="/slider/nivo-slider.css" type="text/css" media="screen">
 <script type="text/javascript" src="/javascript/jquery-1.2.6.pack.js"></script>
 <script type="text/javascript" src="/javascript/jquery.tooltip.pack.js"></script>
 <script type="text/javascript" src="/javascript/jquery.dimensions.js"></script>
 <script type="text/javascript" src="/javascript/swfobject.js"></script>
 <script type="text/javascript" src="/javascript/mainmenu.js"></script>
 <script type="text/javascript" src="/javascript/misc.js"></script>
+<script type="text/javascript" src="/shadowbox/shadowbox.js"></script>
+<script src="/slider/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+Shadowbox.init({
+    overlayOpacity:    "0.8",
+});
+</script>
+
+<script type="text/javascript">
+$(window).load(function() {
+	$('#slider').nivoSlider({
+		effect:'fade', //Specify sets like: 'fold,fade,sliceDown'
+		slices:15,
+		animSpeed:500,
+		pauseTime:4000,
+		startSlide:0, //Set starting Slide (0 index)
+		directionNav:true, //Next & Prev
+		directionNavHide:true, //Only show on hover
+		controlNav:true, //1,2,3...
+		controlNavThumbs:false, //Use thumbnails for Control Nav
+      controlNavThumbsFromRel:false, //Use image rel for thumbs
+		controlNavThumbsSearch: '.jpg', //Replace this with...
+		controlNavThumbsReplace: '_thumb.jpg', //...this in thumb Image src
+		keyboardNav:true, //Use left & right arrows
+		pauseOnHover:true, //Stop animation while hovering
+		manualAdvance:false, //Force manual transitions
+		captionOpacity:0.8, //Universal caption opacity
+		beforeChange: function(){},
+		afterChange: function(){},
+		slideshowEnd: function(){} //Triggers after all slides have been shown
+	});
+});
+</script>
+
+
 <script type="text/javascript">
 function openwin(page) {
     // for example, to insert the 'rangers' popup into a page, type:
@@ -93,14 +133,15 @@ function changeImages() {
 	}
 }
 </script>
+
 </head>
-<body>
+<body onload="initLightbox()">
     <div id="container">
         <div id="leftside"><div id="rightside">
             <div id="header">
                 <div id="headerContent">
                  <a id="homeHeaderLink" href="/"><img alt="" src="/images/invisible.gif"></a>
-                 <a href="/section/wildlife/gallery"><img src="/images/Web_Gall.jpg" style="float:left;padding-left:40px;"></a>
+                 <a href="/section/wildlife/gallery"><img src="/images/Web_Gall.png" style="float:left;padding-left:40px;"></a>
                     <table border="0" cellspacing="0" cellpadding="0" style="height: 59px; float: right;">
                         <tbody><tr>
                             <td style="vertical-align: bottom; text-align: right;" align="right">
@@ -180,6 +221,7 @@ function setCloseEvent() {
 		<a href="/content/heartland/detail/1283">Kilimanjaro</a> |
 		<a href="/content/heartland/detail/1286">Limpopo</a> |
 		<a href="/content/heartland/detail/1282">Maasai Steppe</a> |
+        <a href="/content/heartland/detail/4305">Regional Parc W</a> |
 		<a href="/content/heartland/detail/1281">Samburu</a> |
 		<a href="/content/heartland/detail/1284">Virunga</a> |
 		<a href="/content/heartland/detail/1285">Zambezi</a>
@@ -198,6 +240,7 @@ function setCloseEvent() {
     </div>
     <div class="sub protecting_land">
 		<a href="/section/land">Overview</a> |
+        <a href="/section/land/climatechange">Climate Change</a> |
 		<a href="/section/land/protectedareas">Protected Areas Support</a> |
 		<a href="/section/land/landuse">Local Land Use Planning</a> |
 		<a href="/section/land/landtrusts">Land Trusts</a> |
@@ -238,11 +281,11 @@ function setCloseEvent() {
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
             <tbody><tr>
               <td class="left">
-                    <img src="/files/3564_file_maasaiwomen.jpg" width="544">
+                    <img src="/files/3556_file_oryx.jpg" width="544">
     		      </td>
     		      
         <td class="right" style="width:210px">
-        A group of Maasai women joyfully returning to their village.
+        A group of oryxes feed in the morning light in the Samburu National Reserve.
               </td>
             </tr>
             </tbody></table>
