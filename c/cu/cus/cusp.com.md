@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cusp.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003041456id_/http%3A//www.cusp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cusp.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626042023id_/http%3A//www.cusp.com/privacy.aspx) for the most accurate reproduction.*
 
 # CUSP | Security & Privacy
 
