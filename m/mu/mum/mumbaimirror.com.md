@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumbaimirror.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627102613id_/http%3A//ms.timesofindia.com/ads/Privacypolicy/Mumbaimirror.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbaimirror.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626110144id_/http%3A//ms.timesofindia.com/ads/Privacypolicy/Mumbaimirror.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
