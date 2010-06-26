@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218163305id_/http%3A//www.nature.org/aboutus/misc/%3Fsrc%3Df6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626181303id_/http%3A//www.nature.org/aboutus/misc/%3Fsrc%3Df6) for the most accurate reproduction.*
 
 # About The Nature Conservancy - The Nature Conservancy's Privacy Policy - Online Privacy Statement
 
@@ -36,11 +36,11 @@ The Nature Conservancy processes your information on servers located in the Unit
 
 **Choice** :  The Nature Conservancy may share your name and postal address with organizations that offer products and services that we believe may interest you.  You have the right to [opt-out of such information sharing](http://www.nature.org/aboutus/misc/art5099.html).  The Nature Conservancy may also use your personal information to send you surveys or email messages about Nature Conservancy projects, events, and services.  You may also choose to [opt-out of receiving email](http://support.nature.org/interests) and information from The Nature Conservancy. Finally, you may choose to de-activate your Nature Conservancy membership.  To opt-out or change your preferences at any time, [Click here to send an email to request deactivation of your membership or to make any other change](http://www.nature.org/contactus/). 
 
-If you prefer, you may opt-out by calling our Member Care Team toll-free at (800) 628-6860 Monday through Friday between 9:00 am and 6:00 pm Eastern Time.
+If you prefer, you may opt-out by calling our Member Care Team toll-free at (800) 628-6860 Monday through Friday between 9:00 am and 5:00 pm Eastern Time.
 
 **Your California Privacy Rights** :  If you are a California resident, you are entitled by law to request an Information Sharing Disclosure.  If you provide notice to the address below, we will provide you with a notice of your right to prevent sharing of your personal information as well as a cost-free means of doing so.  To receive such a notice, submit a written request to the address listed in the Access section below, specifying that you seek your "California Customer Choice Notice."  Please allow thirty days for a response.
 
-Access:  If you would like us to update your contact information or any other part of your membership file, please call our Member Care Team toll-free at (800) 628-6860 Monday through Friday between 9:00 am and 6:00pm Eastern Time, [contact us online](http://www.nature.org/contactus/) or write us at:
+Access:  If you would like us to update your contact information or any other part of your membership file, please call our Member Care Team toll-free at (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time, [contact us online](http://www.nature.org/contactus/) or write us at:
 
 > Attn:  Member Care Team  
 >  The Nature Conservancy  
@@ -52,4 +52,4 @@ Access:  If you would like us to update your contact information or any other p
 
   **Emails** :  This privacy policy applies to the Website and is inapplicable to information that you may send to The Nature Conservancy by email or other means of communication.  We may retain your emails or other communications in order to process your inquiries, respond to your requests and improve our services.
 
-**Contacts** :  If you have any questions, concerns, or suggestions regarding this privacy policy, please [contact us online](http://www.nature.org/contactus/) to send us an email or call our Member Care Team toll-free at 1 (800) 628-6860 Monday through Friday between 9:00 am and 6:00pm Eastern Time.
+**Contacts** :  If you have any questions, concerns, or suggestions regarding this privacy policy, please [contact us online](http://www.nature.org/contactus/) to send us an email or call our Member Care Team toll-free at 1 (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time.
