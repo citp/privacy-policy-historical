@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the theadvertiser.com privacy policy that was archived on 2009-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226151232id_/http%3A//www.theadvertiser.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theadvertiser.com privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626044252id_/http%3A//www.theadvertiser.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><!-- 
-
---><head>
-<!-- GO4F Version: 0912.1611 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+<!-- GO4F Version: 1006.1758 -->
 							<title>theadvertiser.com | Lafayette PRIVACY | The Advertiser</title>
 <meta name="keywords" content="theadvertiser.com,Lafayette,Louisiana,News,local news,headlines,stories,world news">
 <meta name="description" content="Lafayette Louisiana News - theadvertiser.com is the home page of Lafayette Louisiana with in depth and updated Lafayette local news. Stay informed with both Lafayette Louisiana news as well as headlines and stories from around the world.">
+<link rel="canonical" href="http://www.theadvertiser.com/section/PRIVACY/PRIVACY">
+<meta name="robots" content="noodp">
+<meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="0">
@@ -17,12 +18,12 @@
 <link href="/gci/gc/p3/GO4Styles-min.css" rel="stylesheet" type="text/css">
 <script src="/GEL/lib/core/core.js"></script>
 <script type="text/javascript"> 
- /*Subsite Redirect*/
+/*Subsite Redirect*/
 var _bodyTimer= new GEL.util.benchmark.Timer("Body Load").start(); 
 GEL.thepage.on("ready", function() { _bodyTimer.end() } ); 
- try{document.domain= GEL.config.domain= "theadvertiser.com"}catch(e){};
- /* GO4 Faster PageInfo */
- 				GEL.config.sitelifeurl= "http://sitelife." + 
+try{document.domain= GEL.config.domain= "theadvertiser.com"}catch(e){};
+/* GO4 Faster PageInfo */
+				GEL.config.sitelifeurl= "http://sitelife." + 
 	"theadvertiser.com/ver1.0/Direct/Process?sid=sitelife"+ 
 	".theadvertiser.com";
 GEL.thepage.pageinfo = { 
@@ -58,32 +59,37 @@ GEL.thepage.pageinfo = {
 	}
 };
 GEL.thepage.pageinfo.siteinstance="";
- /* Banner configuration and Initialization */
- (function(){
+GEL.thepage.pageinfo.videooverlays="on";
+/*GO4 Faster Semantics*/
+	GEL.thepage.pageinfo.semantics={
+	response:{"Url":"http://www.theadvertiser.com/section/PRIVACY/PRIVACY","ContentLength":"","FetchDuration":"","ContentType":"","Id":"","PathIds":"","LanguageId":"","Channels":[{}],"UnconStatus":4},
+	source:'CW',
+	enabled:true,
+	status:'4',
+	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.theadvertiser.com/section/PRIVACY/PRIVACY',
+	uniqueids:[],
+	uniqueidsdesc:[],
+	allids: [],
+	calltime:'5032',
+	cached:true
+};
+/* Banner configuration and Initialization */
+(function(){
 var 
 	_c= GEL.config,
-        _keywords= ''+'&'+location.search.substring(1),
-        _a= _keywords.split("&")
+	_a = [],
+	_SI= GEL.namespace("thepage.pageinfo.semantics"), 
+	_ids= typeof _SI.uniqueids == 'object' ? _SI.uniqueids : [],
+	_keywords
 ; 
+for(var i=0, l= _ids.length,kw= _ids[i]; i < l ; kw= _ids[++i])
+	_a[_a.length]= "CW" + kw; 
+_c.KeyWords= _a.slice(); 
+_c.KeyValues= {cw: _ids.slice()}; 
 _c.AdPage='la-lafayette.theadvertiser.com/news/front.htm';
 _c.AdServer= "gannett.gcion.com"; 
 _c.AdNetworkId= 5111.1;
 _c.PlacementId=parseInt(896088, 10)
-_c.KeyValues= { };
-_c.KeyWords= [];
-for( var i=0,l=_a.length,w=_a[i]; i<l; w= _a[++i] )
-{
-        if(!w) continue;
-        var
-                _t= w.split("="),
-                n= encodeURIComponent(_t[0]),
-                v= _t[1]
-        ;
-        if(v)   
-                _c.KeyValues['kv'+n]=  encodeURIComponent(v);
-        else
-                _c.KeyWords.push(n);
-}
 _c.gcion_section_front = "section"; 
 _c.gdn_section_front = "section"; 
 _c.PDurl = 'search.theadvertiser.com'; /*PDURL*/
@@ -94,7 +100,7 @@ GEL.thepage.initializer.addInitRoutine({
 	callback: bannerFinder, 
 	priority: 25
 }); 
-function bannerFinder(){ 
+function bannerFinder(){
 	var 
 		_t= new GEL.util.benchmark.Timer("Banners").start(), 
 		_bl= GEL.thepage.bannerLoader= 
@@ -103,10 +109,10 @@ function bannerFinder(){
 	; 	
 	_bl.findBanners(); 
 	_bm= _bl.loadBanners(
-			function(){return this.config.loadOnInit;}, 
-			null, 
-			false
-		);
+		function(){return this.config.loadOnInit;},
+		null, 
+		false
+	);
 	_bm.on("ready", _t.getStop()); 
 	this.addElement(_bm); 
 }
@@ -124,7 +130,7 @@ return function OAS_AD(pos, opts) {
         _me.parentNode.insertBefore(_container.getElement(), _me); 
 }
 })(); 
- (function(){ 
+(function(){ 
 var _c= GEL.config.userauth={
 	timeout: 20, 
 	enable_auth_by_division: true, 
@@ -150,7 +156,7 @@ var _c= GEL.config.userauth={
 	persona_url: "/apps/pbcs.dll/section?category=pluckpersona", 
 	blogs_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaBlog", 
 	photos_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaPhotos", 
-	version: "3.4.1",
+	version: "3.4",
 	coppaage: 13, 
 	pp_url: "/pp", 
 	tos_url: "/tos", 
@@ -238,7 +244,7 @@ GEL.thepage.initializer.addInitRoutine({
 	}
 }); 
 })(); 
- /****O4 Faster Omniture******/
+/****O4 Faster Omniture******/
 (function(){
 	var 
 		_PI= GEL.thepage.pageinfo
@@ -297,7 +303,7 @@ GEL.thepage.initializer.addInitRoutine({
 	is maintained within the OMniture JavaScript provider. 
 */
 	GEL.config.bus.properties= {
-		server: 'publicus',
+		server: 'SAXO-GEL',
 		pagetype: '',
 		custom1: '',
 		custom2: '',
@@ -323,11 +329,100 @@ GEL.thepage.initializer.addInitRoutine({
 				return _pdefault;
 		})(),
 		custom8 : '',
+		topstories: (function(){
+			var 
+				_top = {
+					frontpage: (function(){
+						return '';
+					})(),
+					article: (function(){
+						if(GEL.thepage.pageinfo.articleinturl){
+							var 
+								_arturl=GEL.thepage.pageinfo.articleinturl.split("/"),
+								_top
+							;
+							_top = '/article/'+_arturl[2]+"/"+_arturl[3]+"/"+_arturl[4];
+							return _top;
+						}
+					})(),		
+					section: (function(){
+						return '';
+					})(),
+					gallery: (function(){
+						return '';
+					})(),
+					error: (function(){
+						return '';
+					})()
+				},_type=_PI.type
+			;
+			if(_type in _top)
+				return _top[_type];
+		})(),
 		contenttype : 'section',
-		division: 'Newspaper',
+		division: '',
 		location: document.location,
-		marketname: 'Lafayette:theadvertiser',
-		isException : false
+		uri: (function(){
+			var 
+				_uri = {
+					frontpage: (function(){
+						var _uri = "/frontpage"
+						return _uri;
+					})(),
+					article: (function(){
+						if(GEL.thepage.pageinfo.articleinturl){
+							var 
+								_arturl=GEL.thepage.pageinfo.articleinturl.split("/"),
+								_uri
+							;
+							_uri = '/article/'+_arturl[2]+"/"+_arturl[3]+"/"+_arturl[4];
+							return _uri;
+						}
+					})(),		
+					section: (function(){
+						var _uri = "/section/"+_PI.categoryid;
+						return _uri;
+					})(),
+					gallery: (function(){
+						return '/Gallery-TBD';
+					})(),
+					error: (function(){
+						return '/error';
+					})()
+				},_type=_PI.type
+			;
+			if(_type in _uri)
+				return _uri[_type];
+		})(),
+		pagedomain: _PI.url.domainname,
+		marketname: 'gpaper104',
+		isException : false,
+		useraction: (function(){
+			var _p = GEL.env.url.qsv;
+			if(_p.odyssey && _p.template!='printphoto')
+				return _p.odyssey;
+		})(),
+		ecommerceSource: (function(){
+			var 
+				_p = GEL.env.url.qsv
+			;
+			if(_p.source)
+				return _p.source;
+		})(),
+		semantics: (function(){
+			if(typeof(_PI.semantics)!='undefined' && typeof(_PI.semantics.uniqueids)!='undefined'){
+				var 
+					_c = _PI.semantics.uniqueids.join('+'),
+					_t = _PI.type,_u
+				;
+			_u = (_t=='frontpage') ? 'frontpage' : 
+					( (_t=='article') ? _PI.articleinturl.split('/').slice(1,5).join('/') : 
+						( (_t=='section') ? _PI.type +'/'+_PI.categoryid : '' ) )
+			; 
+				if(_c)
+					return 'CW:'+'/'+_u+':'+_PI.ssts.section+':'+_c;
+			}
+		})()
 	}
 })();
 </script> 
@@ -386,111 +481,73 @@ GEL.thepage.initializer.addInitRoutine({
 		<tbody><tr>
 			<td>
 				<div class="masthead">
-					<h1>
-						<a href="http://www.theadvertiser.com"><img src="/graphics/mastlogo.gif" alt="theadvertiser.com"></a>
-					</h1>
+					<a href="http://www.theadvertiser.com"><img src="/graphics/mastlogo.gif" alt="theadvertiser.com"></a>
 				</div>
 			</td>
 			<td>
 				<div class="pd-search">
-					<script>
-	var currentLnk = 'tab0';
-	function changeTabbedAff(aff, tabId, text) {
-		document.tabbedForm.aff.value = aff;
-		document.getElementById(currentLnk).className = "";
-		document.getElementById(tabId).className = "pd-search-section-on";
-		document.getElementById("pd-search-text").innerHTML = "Search<br>" + text;
-		currentLnk = tabId;
-	}
-	function gotoTabbedAff(aff, tabId, text, domain) {
-		window.location=domain.replace(/:9085/,"")+"/sp?aff="+aff;
-	}
-	function changeStyle(tabId, onVal) {
-		if(onVal)
-		    document.getElementById(tabId).className = "pd-searchMore-droplistOn";
-		else
-		document.getElementById(tabId).className = "pd-searchMore-droplist";
-	}
-	var hideId;
-	function showMore() {
-		if(document.getElementById('pd-search-sections-more')!=null) {
-		    coords = getPosition();
-		    document.getElementById('pd-search-sections-more').style.left = (coords.x+50) +'px';
-            document.getElementById('pd-search-sections-more').style.top = coords.y +'px';
-			document.getElementById('pd-search-sections-more').style.display = "block";
+					<div class="searchbox-shift">
+<script>
+var search_default = "Find what you are looking for ...";
+var timer = null;
+function showOptions() {
+	var search_options = document.getElementById("search-options");
+	search_options.style.display = "";
+}
+function HideAllSearchOptions() {
+	var search_options = document.getElementById("search-options");
+	search_options.style.display = "none";
+}
+function submitFormAction() {
+	var keywords = document.getElementById("searchbox").value;
+		if (keywords == search_default){
+			keywords = "";
+		}
+	var search_form = document.getElementById("pd-header-search");
+	var checked_option = "";
+	for(var i = 0; i < search_form.searchoption.length; i++) {
+		if(search_form.searchoption[i].checked) {
+			checked_option = search_form.searchoption[i].value;
 		}
 	}
-	function getPosition() {
-	    var coords =  new Object();
-	      coords.x = 0;
-	      coords.y = 0;
-          try {
-	        targetElement = document.getElementById('tabm');
-		    if(targetElement.x && targetElement.y) {
-		        coords.x = targetElement.x;
-		        coords.y = targetElement.y;
-		    } else {
-		        if(targetElement.offsetParent) {
-			        coords.x += targetElement.offsetLeft;
-				    coords.y += targetElement.offsetTop;
-				    while(targetElement = targetElement.offsetParent) {
-				        coords.x += targetElement.offsetLeft;
-					    coords.y += targetElement.offsetTop;
-				    }
-			    }
-		    }
-	      } catch(error) { }
-          return coords;
-	}
-	function hideMore() {
-		if(document.getElementById('pd-search-sections-more')!=null) {
-			document.getElementById('pd-search-sections-more').style.display = "none";
-		}
-	}
-	function mouseOverShowMore() {
-		clearTimeout(hideId);
-	}
-	function mouseOutHideMore(timeout) {
-		hideId = setTimeout("hideMore()",timeout);
-	}
+	var new_url = "";
+	if(checked_option === "OPTION1") new_url = "http://search.theadvertiser.com/sp?aff=1100&skin=&keywords=";
+	else if(checked_option === "OPTION2") new_url = "http://pqasb.pqarchiver.com/theadvertiser/results.html?st=basic&QryTxt=";
+	else if(checked_option === "OPTION3") new_url = "http://search.theadvertiser.com/sp?aff=1180&keywords=";
+	else if(checked_option === "OPTION4") new_url = "http://search.theadvertiser.com/sp?skin=&aff=1109&keywords=";
+	new_url = new_url + "" + keywords;
+	window.location.href = new_url;
+	return false; 
+}	
+function safeParam( key, def) { 
+    var defval = def|| ""; 
+    var re = new RegExp( "[?&]" + key + "=([^&$]*)", "i" ); 
+    var offset = location.search.search(re); 
+    if ( offset == -1 || RegExp.$1 == '') return defval; 
+    return RegExp.$1; 
+}		
 </script>
-		<div id="isf-search-form">						
-<form action="http://search.theadvertiser.com/sp" method="get" class="tabbed-search-form" id="tabbedForm" name="tabbedForm">
-	<input type="hidden" name="aff" value="1100">
-	<input type="hidden" name="skin" value="100">
-	<div style="float:left;">
-		<span id="pd-search-text" class="pd-search-text">Search<br>All</span>
-	</div>
-	<div style="float:left; width:350px;">
-		<div class="pd-search-sections">
-			<ul>
-								<li id="tab0" class="pd-search-section-on"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tab0','All')">All</a></b><span>&nbsp;</span></li>
-								<li id="tab1"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1101','tab1','Local News')">Local News</a></b><span>&nbsp;</span></li>
-								<li id="tab2"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1174','tab2','Archives')">Archives</a></b><span>&nbsp;</span></li>
-								<li id="tab3"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1001','tab3','Calendar')">Calendar</a></b><span>&nbsp;</span></li>
-								<li id="tabm"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tabm','more');mouseOverShowMore();showMore();" onmouseout="mouseOutHideMore(250);">More&nbsp;»</a></b><span>&nbsp;</span></li></ul></div>
-								<div id="pd-search-sections-more" class="pd-search-sections-more" style="display:none;" onmouseover="mouseOverShowMore();" onmouseout="mouseOutHideMore(250);"><ul>
-								<li id="tab4" class="pd-searchMore-droplist" onmouseover="changeStyle('tab4',true);mouseOverShowMore();" onmouseout="changeStyle('tab4',false);"><a href="javascript:gotoTabbedAff('1114&amp;skin=100','tab4','Jobs','http://search.theadvertiser.com');">Jobs</a></li>
-								<li id="tab5" class="pd-searchMore-droplist" onmouseover="changeStyle('tab5',true);mouseOverShowMore();" onmouseout="changeStyle('tab5',false);"><a href="javascript:gotoTabbedAff('1109&amp;skin=100','tab5','Directory','http://search.theadvertiser.com');">Directory</a></li>
-								<li id="tab6" class="pd-searchMore-droplist" onmouseover="changeStyle('tab6',true);mouseOverShowMore();" onmouseout="changeStyle('tab6',false);"><a href="javascript:gotoTabbedAff('1112&amp;skin=100','tab6','Websites','http://search.theadvertiser.com');">Websites</a></li>
-								<li id="tab7" class="pd-searchMore-droplist" onmouseover="changeStyle('tab7',true);mouseOverShowMore();" onmouseout="changeStyle('tab7',false);"><a href="javascript:gotoTabbedAff('1102&amp;skin=100','tab7','Classifieds','http://search.theadvertiser.com');">Classifieds</a></li>
-								<li id="tab8" class="pd-searchMore-droplist" onmouseover="changeStyle('tab8',true);mouseOverShowMore();" onmouseout="changeStyle('tab8',false);"><a href="javascript:gotoTabbedAff('1113&amp;skin=100','tab8','Cars','http://search.theadvertiser.com');">Cars</a></li>
-								<li id="tab9" class="pd-searchMore-droplist" onmouseover="changeStyle('tab9',true);mouseOverShowMore();" onmouseout="changeStyle('tab9',false);"><a href="javascript:gotoTabbedAff('1180&amp;skin=100','tab9','Coupons &amp; Deals','http://search.theadvertiser.com');">Coupons &amp; Deals</a></li>
-								<li id="tab10" class="pd-searchMore-droplist" onmouseover="changeStyle('tab10',true);mouseOverShowMore();" onmouseout="changeStyle('tab10',false);"><a href="javascript:gotoTabbedAff('1172&amp;skin=100','tab10','Comments','http://search.theadvertiser.com');">Comments</a></li>
-								<li id="tab11" class="pd-searchMore-droplist" onmouseover="changeStyle('tab11',true);mouseOverShowMore();" onmouseout="changeStyle('tab11',false);"><a href="javascript:gotoTabbedAff('1171&amp;skin=100','tab11','People','http://search.theadvertiser.com');">People</a></li>
-								<li id="tab12" class="pd-searchMore-droplist" onmouseover="changeStyle('tab12',true);mouseOverShowMore();" onmouseout="changeStyle('tab12',false);"><a href="javascript:gotoTabbedAff('1108&amp;skin=100','tab12','Shopping','http://search.theadvertiser.com');">Shopping</a></li>
-			</ul>
+<form method="get" id="pd-header-search" class="multi-search" onsubmit="return submitFormAction()" action=" ">
+	<div id="search-wrapper" class="clear">
+		<div id="search_border">
+			<input id="searchbox" type="text" size="34" maxlength="34" onfocus="if(this.value==='Find what you are looking for ...') this.value=''; showOptions();" onblur="if(this.value=='') this.value=safeParam('keywords','Find what you are looking for ...');timer=setTimeout('HideAllSearchOptions()',1500);" onkeydown="showOptions();">
+			<button class="search_btn" type="submit"> Search</button>
 		</div>
-		<div style="clear:both;"></div>
-		<div>
-			<input type="text" name="keywords" class="keyword-input" value="">
-			<input type="image" src="/graphics/search/button_search.gif" class="go-button" align="top">
+		<div id="search-options" style="display:none;" onmouseover="clearTimeout(timer);" onmouseout="timer=setTimeout('HideAllSearchOptions()',1500);">
+			<p>Search in</p>
+			<div class="left">
+				<input class="submit" name="searchoption" type="radio" value="OPTION1" checked="">&nbsp;&nbsp;News<br>
+				<input class="submit" name="searchoption" type="radio" value="OPTION2">&nbsp;&nbsp;Archives
+	     	</div>
+	   		<div class="left">
+				<input class="submit" name="searchoption" type="radio" value="OPTION3">&nbsp;&nbsp;Local Deals<br>
+				<input class="submit" name="searchoption" type="radio" value="OPTION4">&nbsp;&nbsp;Yellow Pages
+		    </div>       
 		</div>
 	</div>
-	<div style="clear:both;"></div>
 </form>
-		</div><!-- #isf-search-form -->			
-
+<script type="text/javascript">document.getElementById("searchbox").value = safeParam('keywords',search_default);</script>
+</div>
 				</div>
 			</td>
 			<td>
@@ -504,7 +561,7 @@ GEL.thepage.initializer.addInitRoutine({
 		</tr>
 		</tbody></table>
 		<div id="navigation-container" class="navigation-container">
-	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-expand" id="node7531"><a href="http://www.theadvertiser.com/apps/pbcs.dll/frontpage">Home</a></span><span class="level1-expand" id="node7532"><a href="http://www.theadvertiser.com/section/NEWSFRONT2">News</a></span><span class="level1-expand" id="node7533"><a href="http://www.theadvertiser.com/section/SPORTS">Sports</a></span><span class="level1-expand" id="node7534"><a href="http://www.theadvertiser.com/section/BUSINESS">Business</a></span><span class="level1-expand" id="node7535"><a href="http://www.theadvertiser.com/section/LIFESTYLE">Accent</a></span><span class="level1-expand" id="node7536"><a href="http://www.theadvertiser.com/section/OPINION">Voices &amp; Views</a></span><span class="level1-expand" id="node7537"><a href="http://www.theadvertiser.com/apps/pbcs.dll/classifieds?category=OBITUARY">Obituaries</a></span><span class="level1-expand" id="node7538"><a href="http://theadvertiser.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Lafayette&amp;state=LA">Weather</a></span><span class="level1-expand" id="node7539"><a href="http://www.theadvertiser.com/section/VIDEONETWORK">Multimedia</a></span><span class="level1-expand" id="node7540"><a href="http://www.theadvertiser.com/section/ENTERTAINMENT">Entertainment</a></span><span class="level1-expand" id="node7541"><a href="http://www.theadvertiser.com/misc/classifiedconnection/index.shtml">Classified</a></span><span class="level1-expand" id="node7542"><a href="http://www.theadvertiser.com/section/CUSTOMERSERVICE">Customer Service</a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
+	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-expand" id="node7531"><a href="http://www.theadvertiser.com/apps/pbcs.dll/frontpage">Home</a></span><span class="level1-expand" id="node7532"><a href="http://www.theadvertiser.com/section/NEWSFRONT2">News</a></span><span class="level1-expand" id="node7533"><a href="http://www.theadvertiser.com/section/SPORTS">Sports</a></span><span class="level1-expand" id="node7534"><a href="http://www.theadvertiser.com/section/BUSINESS">Business</a></span><span class="level1-expand" id="node7535"><a href="http://www.theadvertiser.com/section/LIFESTYLE">Accent</a></span><span class="level1-expand" id="node7536"><a href="http://www.theadvertiser.com/section/OPINION">Voices &amp; Views</a></span><span class="level1-expand" id="node7537"><a href="http://www.theadvertiser.com/apps/pbcs.dll/classifieds?category=OBITUARY">Obituaries</a></span><span class="level1-expand" id="node7538"><a href="http://theadvertiser.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Lafayette&amp;state=LA">Weather</a></span><span class="level1-expand" id="node7539"><a href="http://www.theadvertiser.com/section/VIDEONETWORK">Multimedia</a></span><span class="level1-expand" id="node7541"><a href="http://www.theadvertiser.com/misc/classifiedconnection/index.shtml">Classified</a></span><span class="level1-expand" id="node7542"><a href="http://www.theadvertiser.com/section/CUSTOMERSERVICE">Customer Service</a></span><span class="level1-expand" id="node15252"><a href="http://www.theadvertiser.com/ads">Media Kit</a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
 </div>
 <script type="text/javascript">
 (function(){ 
@@ -525,7 +582,6 @@ function initMenu(){
 }
 })(); 
 </script>
-
 	</div>
 </div>
 <!-- end #header-container -->
@@ -641,6 +697,7 @@ function initMenu(){
 	<a href="/cars"><span class="cars"></span></a>
 	<a href="/jobs"><span class="jobs"></span></a>
 	<a href="http://www.homefinder.com"><span class="homes"></span></a>
+	<a href="http://www.homegain.com"><span class="homegain"></span></a>
 	<a href="/shopping"><span class="shopping"></span></a>
 	<a href="http://www.usaweekend.com"><span class="usaweekend"></span></a>
 </div>
@@ -651,12 +708,12 @@ function initMenu(){
 		<li><a href="/cars">Cars: Cars.com</a></li>
 		<li><a href="/apartments">Apartments: Apartments.com</a></li>
 		<li><a href="/shopping">Shopping: ShopLocal.com</a></li>
-		<li><a href="http://www.homefinder.com">Homes: Homefinder.com</a></li>
+		<li><a href="http://www.homefinder.com">Homes:</a><a href="http://www.homefinder.com"> Homefinder.com</a></li>
 	</ul>
 </div>
 <div class="seo-links">
 <ul>
-<li><a href="http://www.theadvertiser.com/apps/pbcs.dll/frontpage">Home</a> | </li><li><a href="http://www.theadvertiser.com/section/NEWSFRONT2">News</a> | </li><li><a href="http://www.theadvertiser.com/section/SPORTS">Sports</a> | </li><li><a href="http://www.theadvertiser.com/section/BUSINESS">Business</a> | </li><li><a href="http://www.theadvertiser.com/section/LIFESTYLE">Accent</a> | </li><li><a href="http://www.theadvertiser.com/section/OPINION">Voices &amp; Views</a> | </li><li><a href="http://www.theadvertiser.com/apps/pbcs.dll/classifieds?category=OBITUARY">Obituaries</a> | </li><li><a href="http://theadvertiser.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Lafayette&amp;state=LA">Weather</a> | </li><li><a href="http://www.theadvertiser.com/section/VIDEONETWORK">Multimedia</a> | </li><li><a href="http://www.theadvertiser.com/section/ENTERTAINMENT">Entertainment</a> | </li><li><a href="http://www.theadvertiser.com/misc/classifiedconnection/index.shtml">Classified</a> | </li><li><a href="http://www.theadvertiser.com/section/CUSTOMERSERVICE">Customer Service</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
+<li><a href="http://www.theadvertiser.com/apps/pbcs.dll/frontpage">Home</a> | </li><li><a href="http://www.theadvertiser.com/section/NEWSFRONT2">News</a> | </li><li><a href="http://www.theadvertiser.com/section/SPORTS">Sports</a> | </li><li><a href="http://www.theadvertiser.com/section/BUSINESS">Business</a> | </li><li><a href="http://www.theadvertiser.com/section/LIFESTYLE">Accent</a> | </li><li><a href="http://www.theadvertiser.com/section/OPINION">Voices &amp; Views</a> | </li><li><a href="http://www.theadvertiser.com/apps/pbcs.dll/classifieds?category=OBITUARY">Obituaries</a> | </li><li><a href="http://theadvertiser.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Lafayette&amp;state=LA">Weather</a> | </li><li><a href="http://www.theadvertiser.com/section/VIDEONETWORK">Multimedia</a> | </li><li><a href="http://www.theadvertiser.com/misc/classifiedconnection/index.shtml">Classified</a> | </li><li><a href="http://www.theadvertiser.com/section/CUSTOMERSERVICE">Customer Service</a> | </li><li><a href="/ads">Media Kit</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
 <div id="legal" class="legal">
 	<ul>
 		<li><a href="/terms">Terms of Service</a> |</li>
@@ -666,13 +723,14 @@ function initMenu(){
 		<!--li><a href="#">Work for Us</a> |</li-->
 		<li><a href="/customerservice/subscribe.html">Subscribe</a></li>
 	</ul>
-	<p>Copyright ©2009</p>
+	<p>Copyright © 2010</p>
 </div>
 <div class="gannettlegal">
 	<p>	Use of this site signifies your agreement to the <a href="/section/TERMS">Terms of Service</a> and <a href="/section/PRIVACY">Privacy Policy</a> , updated March 2009.	</p>
 </div>
 <!-- macro name="ad_rotate_test" --> 
 <!-- div class="clear"></div -->
+<!--MBox macro -->
 <!--Site Catalyst macro -->
 <!--Sitecatalyst Macro Settings -->
 <script type="text/javascript"> 
@@ -784,6 +842,26 @@ function initMenu(){
 <noscript> 
  <img src="http://gpaper104.112.2O7.net/b/ss/gpaper104,gntbcstglobal/1/H.3--NS/0"	height="1" width="1" border="0" alt="" />
 </noscript> 
+<!--Semantics Agency Trading Desk-->
+<div id="adsdaq"></div>
+<script type="text/javascript">
+(function(){
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "ADSDAQ",
+		namespace: "remoting",
+		callback: function (){ 
+			var 
+				_jscntr= GEL.ement("adsdaq"), 
+				_u= "http://atd.agencytradingdesk.net/WatsonTracker/IMP/A1000138/C1000187/P1003016/cw.jsx?t=1"
+			;
+			_jscntr.setContentUrl(_u, 'script');
+			_jscntr.updateRemoteContent(); 
+			return; 
+		}, 
+		priority: 250
+	});
+})()	
+</script>
 <script type="text/javascript">
 setTimeout(function(){ GEL.thepage.initializer.init();}, 100); 
 </script> 
