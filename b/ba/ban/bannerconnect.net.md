@@ -1,26 +1,39 @@
-> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2008-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080318222304id_/http%3A//www.bannerconnect.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerconnect.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626101723id_/http%3A//www.bannerconnect.net/about/privacy-policy) for the most accurate reproduction.*
 
-# BannerConnect - generating web-traffic
+# Privacy Policy | BannerConnect - Online Advertising
 
-_[home]() > [privacy policy](https://web.archive.org/web/20080318222304id_/http%3A//www.bannerconnect.net/privacy.php) _
+BannerConnect understands and respects the need for the privacy of its users. To keep you informed of our privacy policies, we have provided this document disclosing BannerConnect's intent, purpose and use of possibly private information, and detailing the methods of gathering of such information.
 
-Privacy Policy
+Visitors to BannerConnect and its sites are not subject to involuntary information disclosure of any kind, other than those intrinsic to the operation of the site and the World Wide Web in general. Certain operations and features on BannerConnect may require the use of cookies and/or the propagation of session information. These cookies and sessions facilitate the visitor's experience at BannerConnect, but do not represent any other security or privacy concern outside of isolated, per visit session identification and/or recurring sessions for the purpose of storing and maintaining user submitted site preferences.
 
-Bannerconnect has created the following privacy policy in order to demonstrate our commitment to assuring privacy for publishers, advertisers, and website visitors. 
+BannerConnect and its sites does not collect private information from its users without their knowledge. Generally, users who come to BannerConnect and its sites are not required to disclose personal or private information. However, some special services such as forums and member content may require registration in order to allow full access to features. Further, BannerConnect encourages users to provide cursory private and/or personal information to build the community aspect of the site, and to obtain basic group demographics data for statistical analysis. BannerConnect does NOT sell, lease or rent to third parties, any private information linkable to a particular user and gathered through the registration process, without express consent from its users as indicated through information forms that users voluntarily fill out.
 
-**Collected Information**  
-Bannerconnect, through sign up processes, collects publisher information (name, address, phone, fax, email & URL), which is used solely for billing, payout, and marketing purposes. 
+From time to time, BannerConnect and its sites may offer incentives to users in the form of contests, prizes, and giveaways, and request that users fill out surveys or questionnaires to qualify for participation in these special promotions. Unless explicitly indicated, information from these surveys, and questionnaires are used in group demographics studies and for better audience targeting - surveys and questionnaires related to contests may be subject to third party marketing companies. If you do not want your information subject to third party companies, do not fill out the contest surveys.
 
-**Non-Disclosure**  
-Bannerconnect is committed to protecting the privacy of our publishers, advertisers, and website visitors. Bannerconnect does not disclose any of the gathered information to third parties. While Bannerconnect cannot fully control the actions of their website publishers, Bannerconnect does require full disclosure of each site's privacy guidelines for every site that serves Bannerconnect ads. 
+BannerConnect will take reasonable precautionary measures to protect and safeguard all information gathered from its users for membership purposes. BannerConnect does not, however, take any responsibility for any breach of security, accidental disclosure, theft, or tampering of its users' information.
 
-**Cookies**  
-If a visitor to a website views an ad served by Bannerconnect, they are assigned a unique number, known as a cookie, that is recorded and stored on their computer in their web browser's cookie file. If the visitor then visits another web site that has ads served by Bannerconnect, the cookie is recognized by the computer and may be used to target ads to that web surfer based on his or her past browsing experience. Cookies do not harm visitors' computers. 
+### Third Party Advertising
 
-**Why Use Cookies?**  
-They help to ensure that ads are not repeated to visitors They help advertisers learn how their web site is used They help advertisers gain knowledge to improve the look and feel of their web sites They help advertisers learn which ads are most effective and appealing to website visitors Overall, the cookie helps the ad network, Bannerconnect; determine which advertisements best fit which visitors and which websites. A visitor may choose to opt-out on using cookies at any time by following a simple procedure to manually delete them. Visitors should refer to their respective browser's user manual for instructions. 
+BannerConnect may use other third-party advertising companies to serve ads when you visit our Website. These companies may use information (including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. While BannerConnect will make our best efforts to eliminate or minimize the usage of your information to these companies, please use discretion when giving your information to any advertisements.
 
-**Third Party Advertising**  
-The ads appearing on this Web site are delivered to you by third-party advertisers, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about third-party advertisers, cookies, and how to "opt-out", please click here. 
+### Third Party Cookies
 
-Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+In the course of serving advertisements to BannerConnect, our third-party advertisers may place or recognize a unique "cookies" on your browser.
+
+### Privacy for Children - As per COPA
+
+Although BannerConnect generally targets to an adult audience, we welcome the visitation and participation of young users, with their parents' consent. It is strongly recommended that users under the age of 13 refrain from disclosing any personal and/or private information either through the user registration system, or through participation in questionnaires and surveys, and instead opt to remain anonymous in their participation of site activities.
+
+Please note that as of April 21st, 2000, the Child Online Protection Act of 1998 prohibits BannerConnect from the collection of private information from users under the age of 13 without parental consent. Users under the age of 13 must provide a signed letter from their parents to indicate that they are aware of their child's activities on BannerConnect and consent to these activities. This letter must be mailed or faxed to BannerConnect, using the contact information below, before they can participate in activities requesting the disclosure of private information.
+
+Parents of our younger users may at any time, revoke their consent, and may request to review and edit the private information disclosed by sending a written request to BannerConnect, via postal mail.
+
+Though BannerConnect will take reasonable measures to ensure that users under the age of 13 do not disclose their private information without first obtaining parental consent, the site cannot guarantee the protection of young users who choose not to disclose their age and who do not follow the requirements set forth by COPA.
+
+### Privacy Contact Info:
+
+BannerConnect, a division of TechConnect B.V.  
+Geerweg 11  
+6135KB Sittard, Netherlands  
+Phone: +31 46 7074992  
+Fax: +31 46 4517688
