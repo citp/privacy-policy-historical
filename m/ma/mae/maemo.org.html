@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maemo.org privacy policy that was archived on 2009-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091223165953id_/http%3A//maemo.org/legal/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maemo.org privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626125429id_/http%3A//maemo.org/legal/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
         <title>maemo.org - Privacy Policy: Privacy Policy of maemo.org</title>
@@ -21,25 +21,77 @@
     <link rel="stylesheet" type="text/css" href="http://static.maemo.org/style_maemo2009/css/print.css" media="print">
     <link rel="shortcut icon" href="http://static.maemo.org/style_maemo2009/maemo_favicon.ico" type="image/vnd.microsoft.icon">
     <link rel="icon" href="http://static.maemo.org/style_maemo2009/maemo_favicon.ico" type="image/vnd.microsoft.icon"> 
+
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+
+<script type="text/javascript">
+  google.load('search', '1');
+
+  function searchComplete() {
+      if (   jQuery('#content #main').length > 0
+          && ! jQuery('#content #main #cse').length)
+      {
+          jQuery('#content #main').empty();
+          jQuery('#cse').appendTo('#content #main');
+      }
+      else
+      {
+          jQuery('#cse').siblings().empty();
+      } 
+  }
+  
+  google.setOnLoadCallback(function(){      
+    var cseId = '012414234624903107508:2laarii9gbw';
+    var mSearch = new google.search.SearchControl();
+
+    jQuery('#content').append('<div id="cse"></div>');
+
+    mSearch.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+
+    var options = new google.search.SearcherOptions();
+    options.setRoot(document.getElementById("cse"));
+    options.setExpandMode(google.search.SearchControl.EXPAND_MODE_OPEN);
+      
+    var full = new google.search.WebSearch();
+
+    full.setSiteRestriction(cseId);
+    mSearch.addSearcher(full, options);
+
+    var options = new google.search.DrawOptions();
+    options.setDrawMode(GSearchControl.DRAW_MODE_LINEAR);
+
+    mSearch.draw('cse-search-form', options);
+
+    mSearch.setSearchCompleteCallback(this, searchComplete);
+    mSearch.setNoResultsString('Unfortunately there are no results.');
+
+    jQuery("td.gsc-input input").DefaultValue("Search ");
+  }, true);
+</script>
+
+<link rel="stylesheet" href="/midcom-static/style_maemo2009/css/google_search.css" type="text/css">
+
         
 <script type="text/javascript" src="http://static.maemo.org/jQuery/jquery-1.2.6.js"></script>
 <script type="text/javascript">
 var MIDCOM_STATIC_URL = 'http://static.maemo.org';
 var MIDCOM_PAGE_PREFIX = 'http://maemo.org/';
 </script>
+<link rel="openid2.provider" href="http://maemo.org/openid/">
 <link rel="stylesheet" type="text/css" media="screen" href="http://static.maemo.org/midcom.services.uimessages/simple.css">
 <link rel="bookmark" href="http://maemo.org/midcom-permalink-360d7210b11a11dbaf8e7fbab9d97ad07ad0">
-<meta name="generator" content="Midgard/8.09.4 MidCOM/8.09.4 PHP/5.2.0-8+etch13">
+<link rel="alternate" type="text/html" title="In " hreflang="" href="https://newstyle.maemo.org/midcom-permalink-360d7210b11a11dbaf8e7fbab9d97ad07ad0">
+<meta name="generator" content="Midgard/8.09.7 MidCOM/8.09.7.24896 PHP/5.2.6-1+lenny4">
 <meta name="lastupdated" content="2007-01-31 11:00:07Z">
 <meta name="DC.date" content="2007-01-31">
         <script type="text/javascript" src="http://static.maemo.org/style_maemo2009/js/jquery.mousewheel.js"></script>
         <script type="text/javascript" src="http://static.maemo.org/style_maemo2009/js/jScrollPane.js"></script>
-<script type="text/javascript">
-    jQuery(document).ready(function()
-    {
-        jQuery('#rss-panel').jScrollPane({scrollbarWidth:26, scrollbarMargin:10, dragMinHeight:47, dragMaxHeight:47});
-    });			
-</script>
+        <script type="text/javascript">
+            jQuery(document).ready(function()
+            {
+                jQuery('#rss-panel').jScrollPane({scrollbarWidth:15, scrollbarMargin:10, dragMinHeight:50, dragMaxHeight:50});
+            });			
+        </script>
         <script type="text/javascript" src="http://static.maemo.org/style_maemo2009/js/images.js"></script>
         <script type="text/javascript">
             jQuery(window).load(function() {
@@ -52,10 +104,11 @@ var MIDCOM_PAGE_PREFIX = 'http://maemo.org/';
 		    jQuery(document).ready(function() {
 			    jQuery("#username").DefaultValue("Username");
 			    jQuery("#password").DefaultValue("password");
-			    jQuery("#query").DefaultValue("Search");
+			    jQuery("#query").DefaultValue("Search ");
 			});
 
         </script>
+
         <script type="text/javascript" src="http://static.maemo.org/jQuery/jquery.metadata.js"></script>
 <script type="text/javascript" src="http://static.maemo.org/net.nemein.favourites/net_nemein_favourites.js"></script>
 <link rel="stylesheet" type="text/css" href="http://static.maemo.org/net.nemein.favourites/screen.css" media="screen">
@@ -66,8 +119,59 @@ jQuery('.net_nemein_favourites').net_nemein_favourites({force_ssl: true});
 });
 </script>
 
+
     <link rel="stylesheet" href="http://static.maemo.org/midcom.helper.datamanager2/legacy.css" type="text/css" media="screen">
-    </head>
+
+                <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+
+<script type="text/javascript">
+  google.load('search', '1');
+
+  function searchComplete() {
+      if (   jQuery('#content #main').length > 0
+          && ! jQuery('#content #main #cse').length)
+      {
+          jQuery('#content #main').empty();
+          jQuery('#cse').appendTo('#content #main');
+      }
+      else
+      {
+          jQuery('#cse').siblings().empty();
+      } 
+  }
+  
+  google.setOnLoadCallback(function(){      
+    var cseId = '012414234624903107508:2laarii9gbw';
+    var mSearch = new google.search.SearchControl();
+
+    jQuery('#content').append('<div id="cse"></div>');
+
+    mSearch.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+
+    var options = new google.search.SearcherOptions();
+    options.setRoot(document.getElementById("cse"));
+    options.setExpandMode(google.search.SearchControl.EXPAND_MODE_OPEN);
+      
+    var full = new google.search.WebSearch();
+
+    full.setSiteRestriction(cseId);
+    mSearch.addSearcher(full, options);
+
+    var options = new google.search.DrawOptions();
+    options.setDrawMode(GSearchControl.DRAW_MODE_LINEAR);
+
+    mSearch.draw('cse-search-form', options);
+
+    mSearch.setSearchCompleteCallback(this, searchComplete);
+    mSearch.setNoResultsString('Unfortunately there are no results.');
+
+    jQuery("td.gsc-input input").DefaultValue("Search ");
+  }, true);
+</script>
+
+<link rel="stylesheet" href="/midcom-static/style_maemo2009/css/google_search.css" type="text/css">
+
+            </head>
     <body class="default net_nehmer_static">
         <div id="container">
             <div id="header">
@@ -151,15 +255,11 @@ function resubmit()
 <li><a style="background-image: none;" href="http://talk.maemo.org">TALK</a></li>
 </ul>
                         <div id="search">
-                            <form action="http://search.maemo.org/search" method="get">
-    <input id="query" maxlength="255" name="q" type="text">
-    <input class="submit" value="Search" name="btnG" type="submit">
-    <input value="maemo-org" name="site" type="hidden">
-    <input value="maemo-org" name="client" type="hidden">
-    <input value="maemo-org" name="proxystylesheet" type="hidden">
-    <input value="xml_no_dtd" name="output" type="hidden">
-</form>
-                        </div><!-- search -->
+
+    <div id="cse-search-form"></div>
+
+</div>
+
                     </div>
                 </div>
             </div><!-- /navigation -->
@@ -320,7 +420,6 @@ Site shall constitute your consent to such changes.
 
 
             </div>
-
             <div id="footer">
                 <div id="footer-wrapper-left">
                     <div id="footer-wrapper-right">
@@ -337,4 +436,5 @@ Site shall constitute your consent to such changes.
         </div><!-- container -->
 
             
+
 </body></html>
