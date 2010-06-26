@@ -1,27 +1,29 @@
-> *The following text is extracted and transformed from the linuxtopia.org privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225213459id_/http%3A//www.linuxtopia.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxtopia.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626021010id_/http%3A//www.linuxtopia.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  | 
-
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-**The Way We Use Information:**
+## Information Automatically Logged
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+We use your IP address to gather broad demographic information. This is information such as the country that your domain is from. This type of information helps us determine and serve our visitors needs better. We get this type of information automatically with the server statistics for our site from our hosting company. We look at it along with our other site statistics. 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+## Advertisers
 
-**Our Commitment To Data Security**
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we do not use cookies ourselves, cookies received with banner ads may be collected by our ad company, and we do not have access to this information. 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+## The Way We Use Information
 
-**Our Commitment To Children's Privacy:**
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+## External Links
 
-**How To Contact Us**
+This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
 
-Should you have other questions or concerns about these privacy policies, please send us an email at admin@linuxtopia.org. 
+## Security
 
-|  
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. It is hosted on professionally administered servers in a secure facility. We also have adequate physical security on the computers on which we create the site to protect our data there. The computers on which we create this site are not on any public data network. 
+
+## How To Contact Us
+
+Should you have other questions or concerns about these privacy policies, please send us an email at feedback (at) linuxtopia.org. 
