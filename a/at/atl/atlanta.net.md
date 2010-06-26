@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2007-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070524061541id_/http%3A//www.atlanta.net/ACVB/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626063800id_/http%3A//www.atlanta.net/ACVB/privacy.html) for the most accurate reproduction.*
 
-# Atlanta.net - The Official Travel Portal of Atlanta
+# Atlanta.net - ACVB Privacy Policy
 
-  
 The Atlanta Convention and Visitors Bureau ("ACVB") respects the privacy and confidentiality of individuals who visit the ACVB web site located at www.atlanta.net. The ACVB maintains this Privacy Policy to help you understand the commitment of ACVB to safeguard the privacy of the information you provide to the ACVB on the ACVB Website. This Privacy Policy outlines the information which ACVB will collect from you on the ACVB Website and how ACVB will use that information. 
 
 Collection of Your Personal Information by ACVB  
@@ -25,7 +24,9 @@ Please note that third parties offer goods and services on and through the ACVB 
 Changing and Deleting Your Personal Information  
 You may request the ACVB change or delete your personal information in ACVB systems and databases by submitting a detailed description of the desired action to the following e-mail address: 
 
-[_privacy@atlanta.net_](mailto:privacy@atlanta.net).
+[_privacy@atlanta.net_](mailto:privacy@atlanta.net)
+
+.
 
 Please note that after the ACVB processes a change or deletes your personal information from active ACVB systems and databases, it is possible that non-active residual copies of your information may still exist in ACVB systems and on archive or backup media.
 
@@ -41,9 +42,23 @@ You are required to control the security of your password. We are not responsibl
 Your Questions and Concerns  
 If you have questions or concerns about this Privacy Policy or any of ACVB's use of your information, please contact the ACVB at the following e-mail address: 
 
-[_privacy@atlanta.net_](mailto:privacy@atlanta.net).
+[_privacy@atlanta.net_](mailto:privacy@atlanta.net)
+
+.
 
 Changes to this Privacy Policy  
 On occasion the ACVB may amend or change this Privacy Policy by updating or revising this posting, with the revised terms taking effect as of the date of its posting.
 
 Posted: September 3, 2002
+
+[](http://www.atlanta.net/50funthings/)
+
+### 50 Fun Things
+
+Find 50 fun things to see and do in Atlanta. 
+
+[](http://www.citypass.com/city/atlanta?mv_source=atlantacvb)
+
+### Atlanta CityPass
+
+Atlanta CityPass is your ticket to eight top attractions. 
