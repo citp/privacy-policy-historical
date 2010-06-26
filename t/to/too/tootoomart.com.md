@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tootoomart.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226170459id_/http%3A//www.tootoomart.com/help/security_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tootoomart.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626154452id_/http%3A//www.tootoomart.com/help/security_privacy) for the most accurate reproduction.*
 
 # Security & Privacy -- tootoomart.com
 
 ### Privacy Policy
 
-Welcome to tootoomart.com (“site”), the subsidiary company of Ninetowns Internet Technology Group Company Ltd(NASDAQ: NINE). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice. This declaration will specify our policy regarding the protection of your privacy. If you have visited our website, that will be considered to be your acceptance to this privacy policy.This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details.
+Welcome to tootoomart.com, a B2B online trading platform leading in China. We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice. This declaration will specify our policy regarding the protection of your privacy. If you have visited our website, that will be considered to be your acceptance to this privacy policy.This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details.
 
 #### How can we protect your privacy?
 
