@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the simpleviewinc.com privacy policy that was archived on 2009-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225190114id_/http%3A//www.simpleviewinc.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simpleviewinc.com privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626065517id_/http%3A//www.simpleviewinc.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 	<title>simpleview, inc</title>
@@ -18,6 +18,7 @@
 
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 	<script type="text/javascript" src="..//scripts/swfobject.js"></script>
+	<script type="text/javascript" src="http://platform.twitter.com/anywhere.js?id=2zYWjwDrxWJCrpDz1jA2jg&amp;v=1"></script>
 
 </head>
 <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -119,8 +120,17 @@
 		
 
 		
-        <div class="vSpacer"></div>
+		<br>
+		<div align="center">
+		<div id="follow-twitterBtn"></div>
+		</div>
+
+
+
+		<div class="vSpacer"></div>
 		
+		
+
         
 		<div align="center">
 		<a href="http://blog.simpleviewinc.com/simpleview-named-second-fastest-growing-privately-held-travel-company-by-inc-magazine/" title="Put our innovative vision to work for you"><img src="..//images/inc5000_banner.jpg" width="218" height="245" border="0"></a>
@@ -128,6 +138,13 @@
 		
 		<div class="clearFloat"></div>
 		
+
+		
+		
+		
+		
+		
+
 		
 	</div>
 	
@@ -171,7 +188,7 @@
 	</div>
 	
 	<div id="footer">
-		<div id="left">©2009 SIMPLEVIEW</div>
+		<div id="left">©2010 SIMPLEVIEW</div>
 		<div id="right"><a href="..//privacy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="..//sitemap">Site Map</a></div>
 	</div>
 
@@ -223,6 +240,13 @@
 		}
 	}
 	
+	
+	$(document).ready(function() {				   
+		twttr.anywhere(function(twitter) {
+			if (twitter.isConnected)
+			twitter('#follow-twitterBtn').followButton("simpleview");
+		});
+	});
 //-->
 </script>
 <script type="text/javascript" src="http://cetrk.com/pages/scripts/0009/8179.js"> </script>
