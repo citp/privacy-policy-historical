@@ -1,19 +1,14 @@
-> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502015811id_/http%3A//www.fly.com/CorporateInfo.aspx%3Fcontent%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626110651id_/http%3A//www.fly.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Fly.com
-
-**Privacy Policy**
-
-* * *
+# Fly.com Privacy Policy
 
   
-The Fly.com™ Web site is made available by Travelzoo Inc.
+The Fly.com Web site is made available by Travelzoo Inc.
 
   
 Travelzoo Inc. is committed to protecting your privacy. Please read our privacy policy below to learn more. 
 
-  
-**What This Privacy Policy ("Policy") Covers**
+What This Privacy Policy ("Policy") Covers
 
   * This Policy explains the privacy practices of Travelzoo Inc. and its family of related companies (collectively, "Travelzoo") and applies to your use of Travelzoo's online products and services including various e-mail newsletters published by Travelzoo, the Web sites that link to this policy, and any related information services (collectively, the "Online Services").  
  
@@ -25,9 +20,6 @@ Travelzoo Inc. is committed to protecting your privacy. Please read our privacy 
  
   * Minors \- You must be at least 18 years old to register or subscribe for Travelzoo's Online Services because Travelzoo is available only to individuals who can form legally binding contracts under applicable law. If you are under the age of 18, you can use Travelzoo only in conjunction with, and under the supervision of, your parents or guardians. 
 
-
-
-**Information Collection**
 
   * Travelzoo may collect personal information about you when you visit and use our Web sites, when you register or subscribe for and sign in to our Online Services, when you visit the Web sites of some Travelzoo partners, and when you enter promotions or sweepstakes sponsored by or in connection with Travelzoo.  
  
@@ -41,8 +33,7 @@ Travelzoo Inc. is committed to protecting your privacy. Please read our privacy 
 
 
 
-**Sharing and Disclosing Information  
-**
+Sharing and Disclosing Information
 
   * Travelzoo does not rent or sell personal information about you to third parties, however, we reserve the right to share the personal information we collect about you through our Online Services with third parties when we have your permission or under the circumstances described below.   
  
@@ -72,9 +63,9 @@ Travelzoo Inc. is committed to protecting your privacy. Please read our privacy 
 
 
 
-**Cookies and Other Technologies**
+Cookies and Other Technologies
 
-  * We use cookies and other technologies, such as Web beacons, pixel tags, and clear gifs, to personalize our Online Services to your preferences and to provide an automatic log-in process. For more information about our use of cookies, please [click here](http://www.travelzoo.com/privacy/new/fox/cookies/).   
+  * We use cookies and other technologies, such as Web beacons, pixel tags, and clear gifs, to personalize our Online Services to your preferences and to provide an automatic log-in process.    
  
   * Travelzoo may use Web beacons to access Travelzoo cookies in connection with our Online Services.   
  
@@ -84,7 +75,7 @@ Travelzoo Inc. is committed to protecting your privacy. Please read our privacy 
 
 
 
-**Your Account Information and Preferences**
+Your Account Information and Preferences
 
   * Travelzoo respects your right to control how your personal information is used. Travelzoo may give you the opportunity to request communications from vendors, partners, advertisers, and other service providers. For more information about these opportunities, to edit your personal information, to unsubscribe from receiving Travelzoo services you previously requested, to alter expressed preferences or to terminate your account if you previously created one, please visit your [User Profile](http://www.travelzoo.com/profiles/).  
  
@@ -96,8 +87,7 @@ Travelzoo Inc. is committed to protecting your privacy. Please read our privacy 
 
 
 
-**Confidentiality and Security of Your Personal Information  
-**
+Confidentiality and Security of Your Personal Information
 
   * Travelzoo takes reasonable security measures to protect your user information under our company's control against loss, misuse, or alteration.   
  
@@ -105,21 +95,16 @@ Travelzoo Inc. is committed to protecting your privacy. Please read our privacy 
 
 
 
-**Data Transfer**
-
   
 Please note that the information Travelzoo collects about you may be stored on servers outside your home country - currently on servers in the United States of America. If you are visiting our Web sites from a country other than the United States or your home country, please note that the United States or other countries where we may be hosting servers may not have the same data protection laws as your country or jurisdiction. By providing your personal information to Travelzoo, you are consenting to: (i) the use of your personal information for the uses described in this policy; and (ii) the transfer of your personal information to a country outside your home country - currently the United States.
 
-  
-**Changes to Our Privacy Policy**
+Changes to Our Privacy Policy
 
   * Travelzoo may update this Policy from time to time. We will post any update(s) to this Policy on our Web sites. All update(s) will be effective immediately on posting.  
  
   * If we make any material changes in the way we treat personal information, we will notify you by sending a notice to the primary e-mail address in your Travelzoo account or by placing a prominent notice on our site. 
 
 
-
-**Contact Us**
 
   
 If you have comments about this Privacy Policy, please write to us at: 
@@ -133,3 +118,6 @@ New York, NY 10022
 
   
 _Effective Date for any use of the Fly.com Web site:_ February 2, 2009 
+
+  
+
