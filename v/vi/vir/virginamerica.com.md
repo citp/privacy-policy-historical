@@ -1,127 +1,71 @@
-> *The following text is extracted and transformed from the virginamerica.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229005844id_/http%3A//www.virginamerica.com/va/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginamerica.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626095928id_/http%3A//www.virginamerica.com/va/privacy.do) for the most accurate reproduction.*
 
-# Virgin America
-
-|  |  |   
----  
-| 
-
-|   
----  
-|   
----  
-| 
+# Virgin America | Legal
 
 Effective June 1, 2007
 
 **Goal**  
-Virgin America's primary goal in collecting information is to use such information to assist us in serving you. We also request information in order to provide and improve our web site, services, features and content, and to administer our relationship with you (together, the " **Service** ")
-
-|   
-|  |   
-| 
+Virgin America’s primary goal in collecting information is to use such information to assist us in serving you. We also request information in order to provide and improve our web site, services, features and content, and to administer our relationship with you (together, the “Service”)
 
 **General**  
-This Privacy Policy is provided to inform you of our policies and procedures regarding the collection, use and disclosure of your personal information, whether that information comes from [www.virginamerica.com](http://www.virginamerica.com/) (our " **Site** "), our in-flight entertainment (" **IFE** ") system, purchases you make, travel you book, your registration for our loyalty program, your participation in sweepstakes or promotional activities, or your other communications to us. 
+This Privacy Policy is provided to inform you of our policies and procedures regarding the collection, use and disclosure of your personal information, whether that information comes from [www.virginamerica.com](https://www.virginamerica.com/) (our “ **Sit** e”), our in-flight entertainment (“ **IFE** ”) system, purchases you make, travel you book, your registration for our loyalty program, your participation in sweepstakes or promotional activities, or your other communications to us.
 
-We update this Privacy Policy from time to time, but we will continue to treat information according to the terms of the policy that was in place when the information was collected. We will notify you of any material changes to this policy by posting a new Privacy Policy on our Site and we will provide you with an opportunity to opt out of any new terms. 
+We update this Privacy Policy from time to time, but we will continue to treat information according to the terms of the policy that was in place when the information was collected. We will notify you of any material changes to this policy by posting a new Privacy Policy on our Site and we will provide you with an opportunity to opt out of any new terms.
 
-As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis, and using or touching information in any way, including but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing, and transferring information within the United States or internationally. 
+As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis, and using or touching information in any way, including but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing, and transferring information within the United States or internationally.
 
-**Personally Identifiable Information.**
+Personally Identifiable Information.
 
-  * When you use the Site or the IFE system or when you book a ticket or make a purchase directly through Virgin America, when you participate in our sweepstakes or other promotional activities, and when you register or otherwise communicate with us, we may receive personally identifiable information about you. This refers to information about you that when on its own or in combination with other identifiers can be used to contact or identify you (" **Personal Information** "). Personal Information includes, without limitation, your name, home or other physical address, an e-mail address, phone number or other contact information, your travel details, credit card number, and billing information. We also collect information that you provide that is not itself Personal Information (including, for example and without limitation, your zip code or individual preferences) (" **Non-Identifying Information** "). 
-  * We will use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) to provide the Service, complete your transactions, and administer your inquiries. 
-  * We will also use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) to contact you with Virgin America newsletters, marketing and promotional materials, e-mails, updates, and other information that may be of interest to you. All subscribers will be given the opportunity to opt out of receiving any such communications from us. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See "Changing or Deleting Information" below.) 
-  * Certain Non-Identifying Information will be considered a part of your Personal Information if it is combined with other identifiers (for example, combining your zip code with your street address) in a way that identifies you. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other Non-Identifying Information. We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other users to attempt to provide you with a better experience, to improve the quality and value of the Service, and to analyze and understand how our Site and Service are used. We may also use it combined but not aggregated to serve you specifically, for instance to deliver a meal to you according to your dietary requests. 
+  * When you use the Site or the IFE system or when you book a ticket or make a purchase directly through Virgin America, when you participate in our sweepstakes or other promotional activities, and when you register or otherwise communicate with us, we may receive personally identifiable information about you. This refers to information about you that when on its own or in combination with other identifiers can be used to contact or identify you (“ **Personal Information** ”). Personal Information includes, without limitation, your name, home or other physical address, an e-mail address, phone number or other contact information, your travel details, credit card number, and billing information. We also collect information that you provide that is not itself Personal Information (including, for example and without limitation, your zip code or individual preferences) (“ **Non-Identifying Information** ”).
+  * We will use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) to provide the Service, complete your transactions, and administer your inquiries.
+  * We will also use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) to contact you with Virgin America newsletters, marketing and promotional materials, e-mails, updates, and other information that may be of interest to you. All subscribers will be given the opportunity to opt out of receiving any such communications from us. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See “Changing or Deleting Information” below.)
+  * Certain Non-Identifying Information will be considered a part of your Personal Information if it is combined with other identifiers (for example, combining your zip code with your street address) in a way that identifies you. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other Non-Identifying Information. We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other users to attempt to provide you with a better experience, to improve the quality and value of the Service, and to analyze and understand how our Site and Service are used. We may also use it combined but not aggregated to serve you specifically, for instance to deliver a meal to you according to your dietary requests.
 
 
 
-**Log Data.** When you visit the Site, whether as a subscriber or a non-registered user just browsing (either of these, a " **Virgin America User** "), our servers automatically record information that your browser sends whenever you visit a website (" **Log Data** "). This log data may include information such as your computer's Internet Protocol (IP) address, browser type or the website from which you are visiting, pages of our site that you visit, the time spent on those pages, information you search for, access times and dates, and other statistics. We may use this information to monitor and analyze use of the Site and the Service and for the Site's technical administration, to increase the Site's functionality and user-friendliness, and to better tailor the Site to our visitors' needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you, and serve advertisements and other information appropriate to you and your interests. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. 
-
-|   
-| **Back To Top** |   
-| 
+**Log Data.** When you visit the Site, whether as a subscriber or a non-registered user just browsing (either of these, a “ **Virgin America User** ”), our servers automatically record information that your browser sends whenever you visit a website (“ **Log Data** ”). This log data may include information such as your computer’s Internet Protocol (IP) address, browser type or the website from which you are visiting, pages of our site that you visit, the time spent on those pages, information you search for, access times and dates, and other statistics. We may use this information to monitor and analyze use of the Site and the Service and for the Site’s technical administration, to increase the Site’s functionality and user-friendliness, and to better tailor the Site to our visitors’ needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you, and serve advertisements and other information appropriate to you and your interests. We also use this information to verify that visitors to the Site meet the criteria required to process their requests.
 
 **Cookies**  
-Like many websites, we will use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we will utilize persistent cookies to save your registration ID and login password for future logins to the Site. Second, we will utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site, and to monitor aggregate usage by Virgin America Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you disconnect from the Site and Service and close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser,by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service. 
+Like many websites, we will use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we will utilize persistent cookies to save your registration ID and login password for future logins to the Site. Second, we will utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site, and to monitor aggregate usage by Virgin America Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you disconnect from the Site and Service and close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser,by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
 
-|   
-| **Back To Top** |   
-| **E-mailing**   
+**E-mailing**  
 As part of the Service, we intend to create features to enable you to send e-mails via the Site, the IFE system or our other intermediaries. The e-mail addresses that you provide will be used only for the purpose of sending your e-mails to the recipients. Virgin America will not otherwise e-mail those recipients, unless they have independently opted to receive e-mails from us.
 
-If you would like to continue to receive Virgin America/Elevate marketing and promotion emails and avoid having them be classified as spam, please add info@fly.virginamerica.com to your address book or safe list now. 
+If you would like to continue to receive Virgin America/Elevate marketing and promotion emails and avoid having them be classified as spam, please add info@fly.virginamerica.com to your address book or safe list now.
 
-|   
-| **Back To Top** |   
-| 
+**Unsubscribe**  
+We realize you are a VIP and your email inbox might be quite full. If you would like to stop receiving our marketing and promotion emails, [click here](https://www.virginamerica.com/unsubscribe) to update your preferences and simply enter and confirm your email address or you can send an email to [unsubscribe@virginamerica.com](mailto:unsubscribe@virginamerica.com), or contact us via post at Attn: Virgin America Guest Care, PO Box 4271, Burlingame, CA 94010. We will promptly update your contact preferences. However, please note that any request to update your personal information may take up to 10 days for your electronic request and 6-8 weeks for your postal mail request.
 
-**Unsubscribe  
-**We realize you are a VIP and your email inbox might be quite full. If you would like to stop receiving our marketing and promotion emails, [click here](http://www.virginamerica.com/unsubscribe) to update your preferences and simply enter and confirm your email address or you can send an email to [unsubscribe@virginamerica.com](mailto:unsubscribe@virginamerica.com), or contact us via post at Attn: Virgin America Guest Care, PO Box 4271, Burlingame, CA 94010. We will promptly update your contact preferences. However, please note that any request to update your personal information may take up to 10 days for your electronic request and 6-8 weeks for your postal mail request.
-
-Regardless of your preferences for marketing and promotion emails, when you book a flight on virginamerica.com, you will still receive email notifications of your flight confirmation, schedule changes or other status updates. Please do not reply to the info@fly.virginamerica.com email address because it is an unmonitored alias. If you have web site-related questions, suggestions, or comments, please e-mail us at [webteam@virginamerica.com](mailto:webteam@virginamerica.com). 
-
-|   
-| **Back To Top** |   
-| 
+Regardless of your preferences for marketing and promotion emails, when you book a flight on virginamerica.com, you will still receive email notifications of your flight confirmation, schedule changes or other status updates. Please do not reply to the info@fly.virginamerica.com email address because it is an unmonitored alias. If you have web site-related questions, suggestions, or comments, please e-mail us at [webteam@virginamerica.com](mailto:webteam@virginamerica.com).
 
 **Phishing**  
-Identity theft and the practice currently known as "phishing" are of great concern to Virgin America. Accordingly, safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website. 
+Identity theft and the practice currently known as “phishing” are of great concern to Virgin America. Accordingly, safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
 
-|   
-| **Back To Top** |   
-| 
+Information Sharing and Disclosure
 
-**Information Sharing and Disclosure**
+**Subscribers.** When you register through the Site, contribute to the Site or IFE system, or communicate with other users, Virgin America Users will see your “Screen Name” and sometimes the month and year you first registered with Virgin America (“ **Required Subscriber Identifiers** ”). You can choose what other Personal Information you provide as part of your profile (“ **Other Subscriber Information** ”), and in some cases you can choose whether to share that information publicly on the Site by making selections via the “user preferences” section of your profile webpage. Providing Other Subscriber Information is voluntary and should correlate with the degree of interaction you want to have with Virgin America Users. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your “Screen Name,” since that would allow others to identify you.
 
-**Subscribers.** When you register through the Site, contribute to the Site or IFE system, or communicate with other users, Virgin America Users will see your "Screen Name" and sometimes the month and year you first registered with Virgin America (" **Required Subscriber Identifiers** "). You can choose what other Personal Information you provide as part of your profile (" **Other Subscriber Information** "), and in some cases you can choose whether to share that information publicly on the Site by making selections via the "user preferences" section of your profile webpage. Providing Other Subscriber Information is voluntary and should correlate with the degree of interaction you want to have with Virgin America Users. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your "Screen Name," since that would allow others to identify you.
+Aggregate Information and Non-Identifying Information. We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
 
-**Aggregate Information and Non-Identifying Information.** We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+Service Providers. We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, Web analytics, and improvement of the Site’s features), or to assist us in analyzing the use of our Site and Service. These third parties have access to your Personal Information only to perform these tasks on our behalf and are contractually obligated not to disclose or use it for any other purpose.
 
-**Service Providers.** We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, Web analytics, and improvement of the Site's features), or to assist us in analyzing the use of our Site and Service. These third parties have access to your Personal Information only to perform these tasks on our behalf and are contractually obligated not to disclose or use it for any other purpose.
+Compliance with Laws and Law Enforcement. Virgin America cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose your Personal Information to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas and notice of class certification), to protect the property and rights of Virgin America or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical, or legally actionable activity.
 
-**Compliance with Laws and Law Enforcement.** Virgin America cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose your Personal Information to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas and notice of class certification), to protect the property and rights of Virgin America or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical, or legally actionable activity.
-
-**Business Transfers.** Virgin America may sell, transfer, or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, reorganization, or sale of assets, or in the event of bankruptcy. If the new entity wishes to make additional uses of your information different from those described in this Privacy Policy you will have the opportunity to decline such use at that time.
-
-|   
-| **Back To Top** |   
-| 
+Business Transfers. Virgin America may sell, transfer, or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, reorganization, or sale of assets, or in the event of bankruptcy. If the new entity wishes to make additional uses of your information different from those described in this Privacy Policy you will have the opportunity to decline such use at that time.
 
 **Changing or Deleting Your Information**  
-All subscribers may review, update, correct or delete the Personal Information in their registration profile by logging onto your account.  If you completely delete all such information, then your account may become deactivated.  If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record.  See below for privacy contact information.  **   **  
+All subscribers may review, update, correct or delete the Personal Information in their registration profile by logging onto your account. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
 
-|   
-| **Back To Top** |   
-| 
+**Security & International Transfer**  
+Virgin America is very concerned with safeguarding your information. We employ administrative, physical, procedural, and technological measures designed to protect your information from unauthorized access. This includes utilizing Secure Sockets Layer (SSL) software, which encrypts the information you input, and storing your information behind a firewall designed to block access from outside our network. Your information may be transferred to ? and maintained on ? computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Virgin America transfers Personal Information to the United States and processes it there. Your consent to this policy followed by your submission of Personal Information represents your agreement to that transfer.
 
-**Security & International Transfer **  
-Virgin America is very concerned with safeguarding your information.  We employ administrative, physical, procedural, and technological measures designed to protect your information from unauthorized access.  This includes utilizing Secure Sockets Layer (SSL) software, which encrypts the information you input, and storing your information behind a firewall designed to block access from outside our network.  Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, Virgin America transfers Personal Information to the United States and processes it there.  Your consent to this policy followed by your submission of Personal Information represents your agreement to that transfer.
-
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored Personal Data (as defined in applicable state statutes on security breach notification) to you via e-mail or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. |   
-| **Back To Top** |   
-| 
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored Personal Data (as defined in applicable state statutes on security breach notification) to you via e-mail or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
 **Links to Other Sites**  
-Our Site contains links to other websites.  If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third-party link, you will be directed to that third party's website.  The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.  We do not exercise control over third party websites.  These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you.  Other sites follow different rules regarding the use or disclosure of the personal information you submit to them.  We encourage you to read the privacy policies or statements of the other websites you visit. 
-
-|   
-| **Back To Top** |   
-| 
+Our Site contains links to other websites. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third-party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
 **Our Policy Toward Children**  
-Our Site is not directed to children under 18.  We will not knowingly collect personally identifiable information from children under the age of 13.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@virginamerica.com](mailto:privacy@virginamerica.com).  If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
-
-|   
-| **Back To Top** |   
-| 
+Our Site is not directed to children under 18. We will not knowingly collect personally identifiable information from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@virginamerica.com](mailto:privacy@virginamerica.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 **Contacting Us**  
 If you have any questions about this Privacy Policy, please contact us at [privacy@virginamerica.com](mailto:privacy@virginamerica.com).
-
-|   
-| **Back To Top** |   
-  
-|  |   
----
