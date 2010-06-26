@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7daywealth.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202053639id_/http%3A//www.7daywealth.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7daywealth.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626081250id_/http%3A//www.7daywealth.com/policy.php) for the most accurate reproduction.*
 
 # Welcome to :: 7 Day Wealth :: Your Income Machine!!!
 
