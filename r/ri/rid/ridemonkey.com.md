@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ridemonkey.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221134926id_/http%3A//www.ridemonkey.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridemonkey.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626095110id_/http%3A//www.ridemonkey.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Ridemonkey.com - Privacy Policy
+# Ridemonkey.com - Privacy Policy | mountain biking forums
 
 **General**
 
