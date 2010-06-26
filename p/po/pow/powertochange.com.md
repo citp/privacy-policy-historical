@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the powertochange.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217143049id_/http%3A//powertochange.com/general-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powertochange.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626085630id_/http%3A//powertochange.com/general-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Power to Change « Power to Change
+# Privacy Policy – Power to Change « Christian Women Today
+
+[](http://www.addtoany.com/share_save?linkname=%20%C2%BB%20Privacy%20Policy%20%E2%80%93%20Power%20to%20Change&linkurl=/general-information/privacy-policy/)
 
 **Privacy Statement for PowertoChange.com**
 
