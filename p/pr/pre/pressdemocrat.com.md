@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pressdemocrat.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226151202id_/http%3A//www.pressdemocrat.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressdemocrat.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626201623id_/http%3A//www.pressdemocrat.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | PressDemocrat.com | The Press Democrat
+# privacypolicy | PressDemocrat.com | The Press Democrat
 
 This Privacy Policy discloses the privacy practices for The Press Democrat newspaper and PressDemocrat.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Press Democrat” include PressDemocrat.com and The Press Democrat newspaper. The Press Democrat is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
