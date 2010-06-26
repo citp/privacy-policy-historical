@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226151115id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626214305id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pioneer Europe
 
@@ -8,13 +8,16 @@ Your privacy is important to PIONEER EUROPE NV and its national sales subsidiari
 
 This privacy notice applies to following websites :
 
-[www.pioneer.eu](http://www.pioneer.eu/) | [www.pioneer.dk](http://www.pioneer.dk/) | [www.pioneer.nl](http://www.pioneer.nl/)  
----|---|---  
-[secure.pioneer.eu](http://secure.pioneer.eu/) | [www.pioneer.es](http://www.pioneer.es/) | [www.pioneer.no](http://www.pioneer.no/)  
-[www.pioneer.at](http://www.pioneer.at/) | [www.pioneer.fi](http://www.pioneer.fi/) | [www.pioneer.pt](http://www.pioneer.pt/)  
-[www.pioneer.be](http://www.pioneer.be/) | [www.pioneer.fr](http://www.pioneer.fr/) | [www.pioneer.se](http://www.pioneer.se/)  
-[www.pioneer.co.uk](http://www.pioneer.co.uk/) | [www.pioneer.it](http://www.pioneer.it/) | [www.djsounds.com](http://www.djsounds.com/)  
-[www.pioneer.de](http://www.pioneer.de/) |  |   
+[www.pioneer.eu](http://www.pioneer.eu/) | [www.pioneer.at](http://www.pioneer.at/) | [www.pioneer.be](http://www.pioneer.be/) | [www.pioneer.ch](http://www.pioneer.ch/)  
+---|---|---|---  
+[www.pioneer.de](http://www.pioneer.de/) | [www.pioneer.dk](http://www.pioneer.dk/) | [www.pioneer.es](http://www.pioneer.es/) | [www.pioneer.fi](http://www.pioneer.fi/)  
+[www.pioneer.fr](http://www.pioneer.fr/) | [www.pioneer.it](http://www.pioneer.it/) | [www.pioneer.nl](http://www.pioneer.nl/) | [www.pioneer.no](http://www.pioneer.no/)  
+[www.pioneer.pt](http://www.pioneer.pt/) | [www.pioneer-rus.ru](http://www.pioneer-rus.ru/) | [www.pioneer.se](http://www.pioneer.se/) | [www.pioneer.co.uk](http://www.pioneer.co.uk/)  
+[www.ba.pioneer.eu](http://www.ba.pioneer.eu/) | [www.bg.pioneer.eu](http://www.bg.pioneer.eu/) | [www.pioneer.com.cy](http://www.pioneer.com.cy/) | [www.pioneer-ncy.com](http://www.pioneer-ncy.com/)  
+[www.cz.pioneer.eu](http://www.cz.pioneer.eu/) | [www.pioneer.gr](http://www.pioneer.gr/) | [www.hr.pioneer.eu](http://www.hr.pioneer.eu/) | [www.hu.pioneer.eu](http://www.hu.pioneer.eu/)  
+[www.ie.pioneer.eu](http://www.ie.pioneer.eu/) | [www.mk.pioneer.eu](http://www.mk.pioneer.eu/) | [www.pioneer.com.mt](http://www.pioneer.com.mt/) | [www.ro.pioneer.eu](http://www.ro.pioneer.eu/)  
+[www.rs.pioneer.eu](http://www.rs.pioneer.eu/) | [www.pioneer.si](http://www.pioneer.si/) | [www.sk.pioneer.eu](http://www.sk.pioneer.eu/) | [www.pioneer.com.tr](http://www.pioneer.com.tr/)  
+[www.djsounds.com](http://www.djsounds.com/) | secure.pioneer.eu  
   
 Your use of these websites implies your agreement and acceptance of the clauses of our Privacy Policy. If this is not the case, then we request you not to provide us with any personal information.
 
