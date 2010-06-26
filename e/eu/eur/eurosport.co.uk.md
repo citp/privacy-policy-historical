@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223103659id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626095411id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Centre
 
@@ -67,7 +67,7 @@ Return to Top
 
 ## YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES
 
-You can edit your [ Yahoo Account Information](http://edit.yahoo.com/config/eval_profile), including your [ marketing preferences ](http://edit.yahoo.com/config/eval_profile) at any time. 
+You can edit your [ Yahoo Account Information](http://edit.yahoo.com/config/eval_profile), including your [ marketing preferences ](http://subscribe.yahoo.com/showaccount) at any time. 
 
 New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
 
