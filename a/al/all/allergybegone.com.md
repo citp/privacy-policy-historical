@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allergybegone.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222015642id_/http%3A//www.allergybegone.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allergybegone.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626053505id_/http%3A//www.allergybegone.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
 Our philosophy from day one has always been to treat our customers the same way we would like to be treated as customers. Our sole purpose is to deal with you one on one and we will use any information you provide to us only for that means.
 
@@ -47,7 +45,7 @@ Occasionally, we may ask you to take part in customer surveys. We will use the i
 
 #### How can you access and correct your information?
 
-You may [contact us](https://web.archive.org/web/20091222015642id_/http%3A//www.allergybegone.com/info.html#address) to request access to all your personally identifiable information that we collect online and maintain in our database.
+You may [contact us](https://web.archive.org/web/20100626053505id_/http%3A//www.allergybegone.com/info.html#address) to request access to all your personally identifiable information that we collect online and maintain in our database.
 
 #### Other sites linking to and linked from AllergyBeGone.com
 
