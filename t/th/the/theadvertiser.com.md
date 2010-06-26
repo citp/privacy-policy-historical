@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadvertiser.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226151232id_/http%3A//www.theadvertiser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadvertiser.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626044252id_/http%3A//www.theadvertiser.com/privacy) for the most accurate reproduction.*
 
 # theadvertiser.com | Lafayette PRIVACY | The Advertiser
 
