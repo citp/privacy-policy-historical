@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airproofpacking.com privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725101147id_/http%3A//www.airproofpacking.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airproofpacking.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626194051id_/http%3A//www.airproofpacking.com/privacy.htm) for the most accurate reproduction.*
 
 # Health information web
 
