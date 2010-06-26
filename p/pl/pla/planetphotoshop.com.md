@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetphotoshop.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226155451id_/http%3A//www.planetphotoshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetphotoshop.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626203810id_/http%3A//www.planetphotoshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Planet Photoshop
 
@@ -37,5 +37,5 @@ Executive Assistant
 National Association of Photoshop Professionals, Inc.  
 333 Douglas Road East  
 Oldsmar, FL 34677  
-Tel. 813-433-5000  
+Tel. 813-749-4000  
 **KristenK@photoshopuser.com**
