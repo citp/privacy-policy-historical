@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624035857id_/http%3A//www.urbanthreads.com/content/view/20/35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanthreads.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626214809id_/http%3A//www.urbanthreads.com/content/view/20/35) for the most accurate reproduction.*
 
 # Embroidery Designs at Urban Threads - Privacy Policy
+
+|     
+---  
+  
+  
+[](http://www.urbanthreads.com/pages?id=108)  
+   
+  
+  | 
+
+| 
 
 [](http://www.truste.org/ivalidate.php?url=www.urbanthreads.com&sealid=101)  
   
@@ -11,12 +22,12 @@
   
 **TrustE**
 
-**Urban Threads** is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [http://www.UrbanThreads.com](http://www.urbanthreads.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+**Urban Threads** is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [http://www.UrbanThreads.com](http://www.urbanthreads.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact  
 Niamh at [support@UrbanThreads.com](mailto:support@UrbanThreads.com) (or use the [online Contact Urban Threads form](http://www.urbanthreads.com/form_contact) at [www.UrbanThreads.com](http://www.urbanthreads.com/)). 
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with **Urban Threads** to resolve your concerns.
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=www.urbanthreads.com](http://watchdog.truste.com/pvr.php?page=complaint&url=www.urbanthreads.com) TRUSTe will then serve as a liaison with **Urban Threads** to resolve your concerns.
 
 **Registration**
 
@@ -101,7 +112,7 @@ Complete the Contact Urban Threads form (link on the left side of **UrbanThreads
 Send a letter to:
 
 Urban Threads  
-16305 36th Avenue North #525  
+5000 Cheshire Lane N. #3  
 Minneapolis, MN  55446  
   
 **Legal Disclaimer**
