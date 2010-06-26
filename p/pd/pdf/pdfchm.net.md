@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfchm.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022824id_/http%3A//my.pdfchm.net/account/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfchm.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626045744id_/http%3A//my.pdfchm.net/account/privacy) for the most accurate reproduction.*
 
 # LearnIT - Privacy Policy
 
