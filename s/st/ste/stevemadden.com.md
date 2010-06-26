@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevemadden.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616062922id_/http%3A//www.stevemadden.com/contentDisplay.aspx%3FpageID%3D1033) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevemadden.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626161251id_/http%3A//www.stevemadden.com/contentDisplay.aspx%3FpageID%3D1033) for the most accurate reproduction.*
 
 # Steve Madden - Privacy Policy
 
@@ -79,10 +79,10 @@ No transmission of data over the Internet is guaranteed to be completely secure.
 
 Limitation on Liability
 
-IN NO EVENT SHALL STEVEMADDEN.COM, THE STEVE MADDEN RALPH LAUREN STORES OR ANY OF THEIR AFFILIATED ENTITIES OR SUPPLIERS BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, EVEN IF THESE ENTITIES HAVE BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER IN AN ACTION, UNDER CONTRACT, NEGLIGENCE OR ANY OTHER THEORY, ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO USE OR PERFORMANCE OF THE INFORMATION, SERVICES, PRODUCTS AND MATERIALS AVAILABLE FROM THE SITE. These limitations shall apply notwithstanding any failure of essential purpose or the existence of any limited remedy. Because some jurisdictions do not allow limitations on how long an implied warranty lasts, or the exclusion or limitation of liability for consequential or incidental damages, the above limitations may not apply to you.
+IN NO EVENT SHALL STEVEMADDEN.COM, THE STEVE MADDEN STORES OR ANY OF THEIR AFFILIATED ENTITIES OR SUPPLIERS BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, EVEN IF THESE ENTITIES HAVE BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER IN AN ACTION, UNDER CONTRACT, NEGLIGENCE OR ANY OTHER THEORY, ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO USE OR PERFORMANCE OF THE INFORMATION, SERVICES, PRODUCTS AND MATERIALS AVAILABLE FROM THE SITE. These limitations shall apply notwithstanding any failure of essential purpose or the existence of any limited remedy. Because some jurisdictions do not allow limitations on how long an implied warranty lasts, or the exclusion or limitation of liability for consequential or incidental damages, the above limitations may not apply to you.
 
 Applicable Law
 
 The laws of the State of New York will govern these disclaimers, terms and conditions without giving effect to any principles of conflict of law.
 
-Last modified: November 1, 2008
+Last modified: March 17, 2010
