@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129185824id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626080131id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
 
-# The Luxury Watch Exchange - The World's Central Marketplace for Luxury Watch Enthusiasts and Collectors
+# Luxury Watch Exchange
 
 [ ](http://www.luxurywatchexchange.com/index.asp)
 
-The World's Central Marketplace for Luxury Watch Enthusiasts and Collectors 
+  * [](http://www.luxurywatchexchange.com/index.asp) [ Home ](http://www.luxurywatchexchange.com/index.asp)
+  * [](http://www.luxurywatchexchange.com/browse.asp) [ Browse ](http://www.luxurywatchexchange.com/browse.asp)
+  * [](http://www.luxurywatchexchange.com/register.asp) [ Register ](http://www.luxurywatchexchange.com/register.asp)
+  * [](http://www.luxurywatchexchange.com/myauction.asp) [ My Account ](http://www.luxurywatchexchange.com/myauction.asp)
+  * [](http://www.luxurywatchexchange.com/sellitem.asp?new_item=1) [ Sell ](http://www.luxurywatchexchange.com/sellitem.asp?new_item=1)
+  * [](http://www.luxurywatchexchange.com/stores.asp) [ Stores ](http://www.luxurywatchexchange.com/stores.asp)
+  * [](http://www.luxurywatchexchange.com/helpgeneral.asp) [ Help ](http://www.luxurywatchexchange.com/helpgeneral.asp)
+
+
 
 **PRIVACY POLICY** ** **
 
@@ -25,3 +33,5 @@ Data in relation to credit card payments are processed by Authorize.net and Pay
 **Changes to this Policy:** Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it continues to meet with your approval. **Contacting Us**
 
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [admin@theluxurywatchexchange.com](mailto:admin@theluxurywatchexchange.com).  You can also correct any factual errors in that information or request us to remove your details form any list under our control.
+
+[](http://www.coolwatchsites.com/) [](http://www.connectingwatches.com/watch-top/)
