@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writersdigest.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114409id_/http%3A//writersdigest.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersdigest.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626093343id_/http%3A//writersdigest.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Writer’s Digest - Privacy Policy
 
