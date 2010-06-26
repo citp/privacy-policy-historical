@@ -1,37 +1,122 @@
-> *The following text is extracted and transformed from the healthhype.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004180649id_/http%3A//www.healthhype.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthhype.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626062122id_/http%3A//www.healthhype.com/privacy-policy) for the most accurate reproduction.*
 
-# HealthHype.com Partners | Current Health Articles 2009
+# HealthHype.com Partners | Healthhype.com
 
-**Your Information**
+**HealthHype.com**
 
-We do not share your name, e-mail address, IP address, or any other personal data with third parties.
+**PRIVACY POLICY**
 
-We do not collect data from your computer, except IP address. We do not send cookies or any other scripts to your computer. This also applies to our advertisers and partners of our site.
+Version Date: 2-16-2010
 
-We do not send unsolicited mails.
+**GENERAL**  
+J2Network (“Company” or “we” or “us” or “our”) respects the privacy of its users (“user” or “you”) whether they use our website located at www.HealthHype.com, including other media forms and media channels related or connected thereto (collectively, the “Website”) to search for and read materials on a variety medical topics as well as ask medical and health professionals (the “Experts”) questions on a variety of medical and health-related topics  or simply view the Website. The following Company privacy policy (“Privacy Policy”) is designed to inform you, as a user of the Website, about the types of information that Company may gather about or collect from you in connection with your use of the Website. It also is intended to explain the conditions under which Company uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website.    
+Our Website is hosted in the United States of America and is subject to U.S. state and federal law. If you are accessing our Website from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website, you consent to that transfer and to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website and your agreements with us. Any persons accessing our Website from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the Website in a manner lawful in their jurisdiction. If your use of our Website would be unlawful in your jurisdiction, please do not use the Website.  
+BY USING OR ACCESSING THE WEBSITE, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY.  
+**CHILDREN**
 
-We do not republish our articles on other sites or sell them to third parties.
+The Website is not intended for children under 13 years of age. Company does not knowingly collect personal information from children under 13.
 
-**Current Health Articles 2009** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+**GATHERING, USE AND DISCLOSURE OF NON-PERSONALLY-IDENTIFYING INFORMATION**
 
-## Routine Information Collection
+**_Users of the Website Generally_**
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+“Non-Personally-Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person. “Personally-Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person. Like most website operators, Company gathers from users of the Website Non-Personally-Identifying Information of the sort that Web browsers, depending on their settings, may make available. That information includes the user’s Internet Protocol (IP) address, operating system and browser type, and the locations of the Web pages the user views right before arriving at, while navigating and immediately after leaving the Website. Company analyzes Non-Personally-Identifying Information gathered from users of the Website to help Company better understand how the Website is being used. By identifying patterns and trends in usage, Company is able to better design the Website to improve users’ experiences, both in terms of content and ease of use. From time to time, Company may also release the Non-Personally-Identifying Information gathered from Website users in the aggregate, such as by publishing a report on trends in the usage of the Website.
 
-## Cookies and Web Beacons
+We may also periodically obtain both Personally-Identifying Information and Non-Personally-Identifying Information about you from other Company-affiliated businesses, business partners, contractors and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include: updated address information, purchase history, and additional demographic information.
 
-Where necessary, Current Health Articles 2009 uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+**_Web Cookies_**
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+A “Web Cookie” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the site. Company uses Web Cookies to track the pages that users visit during each Website session, both to help Company improve users’ experiences and to help Company understand how the Website is being used. As with other Non-Personally-Identifying Information gathered from users of the Website, Company analyzes and discloses in aggregated form information gathered using Web Cookies, so as to help Company, its partners and others better understand how the Website is being used. Company does not attempt to link information gathered using Web Cookies to Personally-Identifying Information. COMPANY USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. WEBSITE USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
 
-## Controlling Your Privacy
+**_Third Party Advertisers_**
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+We use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the [Network Advertising Initiative](http://networkadvertising.org/), you can [opt out](http://networkadvertising.org/managing/opt_out.asp) of several third party ad servers’ and networks’ Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following link: <http://networkadvertising.org/managing/opt_out.asp>. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
+
+**_Web Beacons_**
+
+A “Web Beacon” is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page or an email. Company may use Web Beacons on the Website and in emails to count users who have visited particular pages, viewed emails, and to deliver co-branded services. Web Beacons are not used to access users’ Personally-Identifying Information; they are a technique Company may use to compile aggregated statistics about Website usage. Web Beacons collect only a limited set of information including a Web Cookie number, time and date of a page or email view, and a description of the page or email on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all Web Cookies or modifying your browser setting to notify you each time a Web Cookie is tendered and permit you to accept or decline Web Cookies on an individual basis.  
+
+**_Aggregated and Non-Personally-Identifying Information_**
+
+We may share aggregated and Non-Personally Identifying Information we collect under any of the above circumstances. We may also share it with third parties and our affiliate companies to develop and deliver targeted advertising on our Website and on websites of third parties. We may combine Non-Personally Identifying Information we collect with additional Non-Personally Identifying Information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Website and the most popular features or services accessed. This information does not contain any Personally-Identifying Information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising. 
+
+**COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION**
+
+**_Website Registration_**
+
+As defined above, Personally-Identifying Information is information that can be directly associated with a specific person. Company collects a range of Personally-Identifying Information from and about Website users. Much of the Personally-Identifying Information collected by Company about users is information provided by users themselves at the time they register for the Website sign up to submit questions or comments for a Website interactive program. That information may include each user’s name, address, email address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender, age, date of birth, username, hometown and other demographic information, and other relevant information as determined by Company from time to time. Users of the Website are under no obligation to provide Company with Personally-Identifying Information of any kind, with the caveat that a user’s refusal to do so may prevent the user from using certain Website features.
+
+BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFYING INFORMATION AS DESCRIBED IN THIS “COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION” SECTION.
+
+**_Online Forums and Public Postings; Other Collections_**
+
+Certain Personally-Identifying Information collected from users is disclosed as a matter of course as a result of those users’ use of the Website. We provide areas on our Websites where you can post information about yourself and others and communicate with others or upload content. Such postings are governed by our [Terms of Use](http://www.match.com/registration/membagr.aspx). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION.
+
+**_Company Communications_**
+
+We may occasionally use your name and email address to send you notifications regarding new services offered by the Website that we think you may find valuable. We may also send you service-related announcements from time to time through the general operation of the service. Generally, you may opt out of such emails at the time of registration or through your account settings, though we reserve the right to send you notices about your account even if you opt out of all voluntary email notifications.
+
+**_DMCA Infringement Notifications, Notices of Violations of Website Terms of Use and Other Communications Directed to Company_**
+
+By submitting a copyright infringement notification under the Digital Millennium Copyright Act (DMCA) (explained further in our Infringement Policy) or other communication (including communications about content stored on or transmitted through the Website) you consent to have such communication forwarded to the person or entity who stored, transmitted or linked to the content addressed by your communication, in order to facilitate a prompt resolution. For notices of violations of our Terms of Use or other communications (but not DMCA copyright infringement notifications), upon request Company will edit out your name and contact information. However, DMCA copyright infringement notifications (including any personally identifiable information set forth in the notifications) will be forwarded as submitted to Company without any deletions.
+
+**_Company Disclosures_**
+
+Company will disclose Personally-Identifying Information under the following circumstances: 
+
+  * **By Law or to Protect Rights**. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our Company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Terms of Use or other agreements or policies, in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+  * **Direct mail partners.**  From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you may opt-out at the time you register for our Website, or at any time thereafter by going to your account settings or contacting us using the contact information below.
+
+
+  * **Marketing Communications**. Unless users opt-out from receiving Company marketing materials upon registration, Company will email users about products and services that Company believes may be of interest to them and Company also will provide users’ email information to third parties, so that those third parties may directly contact users about additional products and services. If a user wishes to opt-out of receiving marketing materials from Company or having their email information provided to third parties at any time after registration, users may do so by going to your account settings or contacting us using the contact information below. Even after opting-out, a user may continue to receive marketing emails from third parties to whom Company already has provided the user’s email information. Users will be responsible for directly contacting such third parties to request cessation of further marketing emails.
+
+
+  * **Third Party Service Providers**. We may share your Personally-Identifying Information, which may include your name and contact information (including email address) with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our Website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purpose. 
+
+
+  * **Business Transfers; Bankruptcy**. Company reserves the right to transfer all Personally-Identifying Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of Company’s assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and are given an opportunity to affirmatively opt-out of it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization. 
+
+
+
+**_Changing Personally-Identifying Information; Account Termination_**  
+You may at any time review or change your Personally-Identifying Information by going to your account settings or contacting us using the contact information below.  Upon your request, we will deactivate or delete your account and contact information from our active databases. Such information will be deactivated or deleted as soon as practicable based on your account activity and accordance with our deactivation policy and applicable law. To make this request, either go to your account settings or contact us as provided below. We will retain in our files some personal information to prevent fraud, to troubleshoot problems, to assist with any investigations, to enforce our Terms of Use and to comply with legal requirements as is permitted by law. Therefore, you should not expect that all your personal information will be completely removed from our databases in response to your requests. Additionally, we keep a history of changed information to investigate suspected fraud with your account.   
+**_General Use_**
+
+We use the Personally-Identifiable Information in the file we maintain about you, and other information we obtain from your current and past activities on the Website to: deliver the products and services that you have requested, manage your account and provide you with customer support, communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our affiliate companies or other third parties, develop and display content and advertising tailored to your interests on our Website and other sites, resolve disputes, troubleshoot problems, measure consumer interest in our services, reward you for the ads you watch, inform you of updates, customize your experience, detect and protect us against error, fraud and other criminal activity, enforce our Terms of Use, and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems. In particular, we may examine your Personally-Identifiable Information to identify users using multiple user IDs or aliases. We may compare and review your Personally-Identifiable Information for accuracy and to detect errors and omissions. We may use financial information or payment method to process payment for any purchases made on our Website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
+
+**CONTESTS, GIVEAWAYS AND SURVEYS**
+
+From time to time, Company may offer Website users the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with such activities will be treated in accordance with this Privacy Policy. From time to time, Company may also ask Website users to participate in surveys designed to help Company improve the Website. Any Personally-Identifying Information provided to Company in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally-identifying, aggregated form.
+
+**EMAIL TO FRIENDS FEATURE AND REFERRAL PROGRAM**
+
+Company may offer users the ability to send friends emails about the Website. If users choose to use this feature, be assured that Company only uses friends’ email addresses on a one-time basis to send the requested email.
+
+**COLLECTION AND USE OF INFORMATION BY THIRD PARTIES** **GENERALLY**
+
+Company contractually prohibits its contractors, affiliates, vendors and suppliers from disclosing Personally-Identifying Information received from Company, other than in accordance with this Privacy Policy. Third parties are under no obligation to comply with this Privacy Policy, however, with respect to Personally-Identifying Information that users provide directly to those third parties or that those third parties collect for themselves. Company neither owns nor controls the third-party websites accessible through the Website. Thus, this Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. Before visiting a third-party, whether by means of a link on the Website or otherwise, and before providing any Personally-Identifying Information to any third party, users should inform themselves of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in those users’ discretion, protect their privacy.
+
+**SECURITY**
+
+We take security of your Personally-Identifying Information seriously and use reasonable electronic, personnel, and physical measures to protect it from loss, theft, alteration, or misuse.  However, please be advised that even the best security measures cannot fully eliminate all risks.
+
+**PRIVACY POLICY CHANGES**
+
+Company may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to Company’s Privacy Policy will be reflected on this page and the date new versions are posted will be stated at the top of this Privacy Policy. Unless Company obtains your express consent, any revised Privacy Policy will apply only to information collected after such time as the revised Privacy Policy takes effect, and not to information collected under any earlier Privacy Policies. Users should regularly check this page for any changes to its Privacy Policy. Company will always post new versions of the Privacy Policy on the Website. However, Company may, as determined in its discretion, decide to notify users of changes made to this Privacy Policy via email or otherwise. Accordingly, it is important that users always maintain and update their contact information.
 
 ## Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.  
+**CALIFORNIA** **PRIVACY RIGHTS**
 
-## Contact Information
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to our privacy officer as listed below.
 
-Concerns or questions about this privacy policy can be directed to j2network.com@gmail.com for further clarification.
+**CONTACT**
+
+If you have any questions regarding our Privacy Policy, please contact our privacy officer at:
+
+Privacy Officer  
+HealthHype.com  
+1534 plaza lane #323   
+Burlingame, Ca 94010  
+Email: j2network.com@gmail.com ****
