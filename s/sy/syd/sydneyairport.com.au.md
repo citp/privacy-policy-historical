@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125093813id_/http%3A//www.sydneyairport.com.au/Sacl/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626092427id_/http%3A//www.sydneyairport.com.au/Sacl/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ The types of personal information which SACL collects will depend on the circums
 
 Information we collect about you in general dealings could include:
 
-  * your name, address, telephone numbers, date of birth, employment details, and your drivers licence number and details;
+  * your name, address, telephone numbers, date of birth, employment details, flight details and your drivers licence number;
   * a recording of your image on Closed Circuit Television (cctv) footage; and/or
   * a recording of your voice from calls to certain airport operations or security telephone lines. 
 
@@ -27,7 +27,7 @@ In the case of matters relating to security or airfield operations – for examp
 
 
 
-In the case of marketing-related matters, we might collect additional information such as:
+In the case of retail and marketing-related matters, we might collect additional information such as:
 
   * your preferences concerning types of products or services;
   * the frequency of use of certain types of products or services
@@ -44,6 +44,7 @@ Personal information will normally only be collected directly from you when you 
 Other ways in which we collect personal information include:
 
   * through the use of ‘cookies’ on our website.  A cookie is a very small text file which is stored on your computer's hard drive when you first visit our website.  This information may be used to identify repeat visitors to our website and areas of interest on our website;
+  * where you access any of our retail systems;
   * recording your image on cctv footage taken on SACL premises.  SACL’s use of CCTV is part of an ongoing crime prevention initiative, targeting crime and other risks to aviation safety and airport security.  All footage captured by cctv is retained for a specific period, after which time it is erased; and
   * through recording calls to certain airport operations and security telephone lines for security and/or safety purposes. 
 
