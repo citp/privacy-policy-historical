@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223204907id_/http%3A//turnpikeinfo.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626025309id_/http%3A//turnpikeinfo.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Turnpike Info, Tolls, Traffic and Dining | United States and Canada
 
@@ -6,7 +6,7 @@
 
 UPDATED AUGUST 10, 2009
 
-The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor's control. Please take time to read this site's [Terms of use](https://web.archive.org/web/20091223204907id_/http%3A//turnpikeinfo.com/terms/legal.html).
+The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor's control. Please take time to read this site's [Terms of use](https://web.archive.org/web/20100626025309id_/http%3A//turnpikeinfo.com/terms/legal.html).
 
 This website is owned and operated by Rodan Media Group Corporation ("RODAN"), a corporation organized under the laws of the state of Florida, and operated as a for-profit entity that also serves as a public service to users of said website. Use is subject the TERMS AND CONDITIONS statement, which appears on a separate page. Both the Privacy Policy and the Terms and Conditions may be modified at any time, without prior notice to the user. It is your responsibility to check for modifications to the Privacy Policy and the Terms of Use.
 
