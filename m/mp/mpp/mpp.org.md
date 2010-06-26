@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223065009id_/http%3A//www.mpp.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626110515id_/http%3A//www.mpp.org/about/privacy-policy.html) for the most accurate reproduction.*
 
-# MPP's Privacy Policy
+# Privacy Policy
 
 Protecting your privacy is important to the Marijuana Policy Project (MPP). We are committed to keeping your personal information confidential.
 
@@ -39,13 +39,3 @@ MPP does not knowingly solicit personal information from children or send them r
 MPP's Web site contains limited links to other sites. MPP does not share your personal information with those sites, nor is MPP responsible for their privacy practices. We encourage you to learn about the privacy policies of those organizations.
 
 If we are going to use your personal information differently from what is stated here, we will try to contact you via e-mail using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
-
-## Get Updates!
-
-## GET INVOLVED
-
-[](https://secure2.convio.net/mpp/site/Donation2?df_id=1180&1180.donation=form1)
-
-## Get Local
-
-MPP tracks marijuana policy in all 50 states and at the federal level.
