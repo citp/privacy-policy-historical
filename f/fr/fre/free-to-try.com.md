@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-to-try.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620210313id_/http%3A//free-to-try.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-to-try.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626031217id_/http%3A//www.free-to-try.com/privacy.php) for the most accurate reproduction.*
 
 # Free-To-Try.com - Privacy Statement
 
@@ -22,4 +22,4 @@ We allow other companies that are presenting advertisements on Free-To-Try.com s
 
 Free-To-Try.com web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
 
-If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20090620210313id_/http%3A//free-to-try.com/contact.php).
+If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20100626031217id_/http%3A//www.free-to-try.com/contact.php).
