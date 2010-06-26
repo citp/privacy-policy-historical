@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208121109id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626123835id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.*
 
 # Dana-Farber Privacy Statement
 
@@ -53,9 +53,4 @@ E-mail: [jimmyfund_golf@dfci.harvard.edu](mailto:jimmyfund_golf@dfci.harvard.edu
 Phone: (800) 52-JIMMY or (800) 525-4669  
 E-mail: [jimmyfundevents@dfci.harvard.edu](mailto:jimmyfundevents@dfci.harvard.edu)
 
-Updated August 2005
-
-[ ](http://www.hon.ch/HONcode/Conduct.html?HONConduct461196 "Go to http://www.hon.ch/HONcode/Conduct.html?HONConduct461196 \(opens in a new window\)")
-
-**Health on the Net Foundation** – We comply with the [HONcode standard](http://www.hon.ch/HONcode/Conduct.html "Go to http://www.hon.ch/HONcode/Conduct.html \(opens in a new window\)") for trustworthy health information:  
-[verify here](http://www.hon.ch/HONcode/Conduct.html?HONConduct461196 "Go to http://www.hon.ch/HONcode/Conduct.html?HONConduct461196 \(opens in a new window\)"). 
+Updated March 2010
