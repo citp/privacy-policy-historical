@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsfa.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227102723id_/http%3A//www.wsfa.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsfa.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626220714id_/http%3A//www.wsfa.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - WSFA 12 News Montgomery, AL |
 
