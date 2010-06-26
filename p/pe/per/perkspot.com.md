@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509221001id_/http%3A//perkspot.com/site/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626134754id_/http%3A//www.perkspot.com/site/index.php/privacy-policy) for the most accurate reproduction.*
 
 # PerkSpot » Privacy Policy
 
@@ -98,6 +98,6 @@ By Phone: 312.423.7887
 By Mail:  
 ATTN: Customer Service Department  
 12 Interactive LLC  
-4601 N. Ravenswood Ave.  
+4611 N. Ravenswood Ave.  
 Suite 204  
 Chicago, IL 60640
