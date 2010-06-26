@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the racerxonline.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215205958id_/http%3A//www.racerxonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racerxonline.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626135055id_/http%3A//www.racerxonline.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Racer X Online Privacy Policy**
 
-Filter Publications, the owner and operator of this Site ([www.racerxonline.com](https://web.archive.org/web/20091215205958id_/http://www.racerxonline.com/privacy/www.racerxonline.com)), is committed to your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services.
+Filter Publications, the owner and operator of this Site ([www.racerxonline.com](https://web.archive.org/web/20100626135055id_/http%3A//www.racerxonline.com/privacy/www.racerxonline.com)), is committed to your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services.
 
 It is our policy, except as noted below, not to sell, trade, lease, give away or otherwise release personal information from user accounts, which includes your name, physical address (business or home), home or business telephone number and your e-mail address.
 
