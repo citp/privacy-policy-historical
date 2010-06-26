@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webjam.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214013233id_/http%3A//www.webjam.com/webjam/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjam.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626215709id_/http%3A//www.webjam.com/webjam/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ We shall comply with the following restrictions in relation to your personal inf
 7\.     SECURITY OF YOUR PERSONAL INFORMATION
 
 We shall take reasonable steps to ensure that your Registration Data are kept secure whilst it is in our possession.   
-We shall not store your financial data and we use your financial data only for the processing of your purchase of additional webjam Services we may offer you
+We shall not store your financial data and we use your financial data only for the processing of your purchase of additional Webjam Services we may offer you
 
 8\.     OTHER INFORMATION THAT WE COLLECT
 
