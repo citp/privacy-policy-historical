@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy-k9.com privacy policy that was archived on 2009-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090107100425id_/http%3A//www.healthy-k9.com/aboutus/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy-k9.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626135410id_/http%3A//www.healthy-k9.com/aboutus/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,8 @@ City, State, Zip: MIAMI FL 33166-2626
 Country: USA 
 
 Web Sites(s): [http://www.thedogfoodconspiracy.com](http://www.topdogusa.org/)
+
+[](http://www.canine-cancer-secrets.com/code/st.php?s=hkbanner)
 
 **Providing Visitors with Anonymous Access**  
 You can access our Web site home page and browse our site without disclosing your personal data. 
@@ -43,8 +45,9 @@ USA
 
 E-mail address: [sales@thedogfoodconspiracy.com](mailto:info@topdogusa.org?subject=Inquiry%20from%20Website)
 
-May your dog have a long and happy life,  
+May your dog have a long and happy life,
+
   
-Andrew Lewis 
+Andrew
 
 __Back To Top__
