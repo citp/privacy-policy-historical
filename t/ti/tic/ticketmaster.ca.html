@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ticketmaster.ca privacy policy that was archived on 2009-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091223165618id_/http%3A//www.ticketmaster.ca/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketmaster.ca privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626102212id_/http%3A//www.ticketmaster.ca/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Ticketmaster - Help</title>
@@ -9,51 +9,148 @@
     <meta name="keywords" content="tickets, concert tickets, concert listings, concert tour dates, sports tickets, theater tickets, family tickets, hot tickets, buy tickets">
 
 <meta name="rating" content="general">
-<meta name="copyright" content="2009, Ticketmaster">
+<meta name="copyright" content="2010, Ticketmaster">
 <meta name="revisit-after" content="4 Days">
 <meta name="expires" content="never">
 <meta name="distribution" content="global">
 <meta name="robots" content="index">
 <link rel="icon" href="http://www.ticketmaster.ca/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.ticketmaster.ca/favicon.ico" type="image/x-icon">
-<!-- ClickStream MetaTags - Begin -->
 
-    <meta name="DCSext.cntry" id="DCSext.cntry" content="CA">
-    <meta name="DCSext.mkt" id="DCSext.mkt" content="506">
-    <meta name="DCSext.lang" id="DCSext.lang" content="en-ca">
-    <meta name="DCSext.brand" id="DCSext.brand" content="none">
-    <meta name="WT.cg_n" id="WT.cg_n" content="Help">
-    <meta name="DCS.dcsuri" id="DCS.dcsuri" content="Privacy_Policy">
-    <meta name="WT.ti" id="WT.ti" content="Privacy_Policy">    <meta name="DCSext.3rdparty" id="DCSext.3rdparty" content="None">
-
+<meta name="google-site-verification" content="0R-2Qp_TcJ7C_5KYfZuBUYCdV-D_yvZVNEoQhBD2h-A">
 
 <!-- ClickStream MetaTags - End -->
+
 <script language="javascript">
-var global_script_path_foresee = "http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda";
+var global_script_path_foresee = "http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba";
 var global_html_path_foresee = "http://www.ticketmaster.ca";
 </script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/foresee/foresee-alive.js"></script>
-<script language="JavaScript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/tmjs.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/foresee/foresee-alive.js"></script>
+<script language="JavaScript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/tmjs.js" type="text/javascript"></script>
 
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/prototype/prototype.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/prototype/prototype.js"></script>
 
 <script type="text/javascript"><!--
+var tm_omn_account="tm-CAprod,tm-combinedUSprod";
+var isReviews = "";
+
+var omn_domain_owner = "TM_CA:";
+var tm_omni_temp = $H();
+var modules_avail_per_page = $A();
+var market_id = GetCookie('MARKET_ID') ? GetCookie('MARKET_ID') : '101';
+tm_omni_temp.set('omnVID','');
+tm_omni_temp.set('omnAID','');
+tm_omni_temp.set('omnEID','');
+tm_omni_temp.set('omnMID','TM_CA: ' + market_id);
+
+
+
+var omniCustomClick = Class.create({
+  initialize: function(initialData) {
+    this.data = Object.extend({}, initialData);
+  },
+
+  handleClick: function(event) {
+    $H(this.data).each(function(d){
+        tm_omn[d.key] = d.value;
+      });
+       switch(newPage){
+         case true:
+           tm_omn.t();
+         break;
+         case false:
+           tm_omn.tl(true,'o',clickLink);
+         break;
+      }
+        if(tm_omni_temp.get('location_path')){
+           if(newWindow == true){
+               window.open(tm_omni_temp.get('location_path'),'_blank');
+           }else{
+               self.location.replace(tm_omni_temp.get('location_path'));
+           }
+            return false;
+            tm_omni_temp.unset('location_path');
+        }
+        return true;
+  },
+  module_link: function(clickmod,inclusiveLink){
+         this.data = Object.extend({},{
+                    linkTrackVars: 'events,eVar13,prop14,eVar14',
+                  linkTrackEvents: 'event13',
+                           events: 'event13',
+                           prop14: 'TM_CA: ' + clickmod ,
+                           eVar13: 'TM_CA: ' + clickmod
+                  },
+                 clickLink = clickmod,
+                   newPage = false
+                  );
+      if(inclusiveLink){
+         this.data.prop14 = "";
+         this.data.linkTrackVars = this.data.linkTrackVars.gsub(/,prop14,eVar14/,"");
+       }
+      this.handleClick();
+     },
+  navigation_link: function(clicklink,np,nav_url,newWin){
+         if(!np){np= false;}
+         if(newWin != false){newWin = true;}
+         this.data = Object.extend({},{
+                   linkTrackVars: 'prop14,eVar14',
+                   linkTrackEvents: 'event27',
+                          prop14: 'TM_CA: ' + clicklink
+                  },
+                 clickLink = clicklink,
+                   newPage = np,
+                newWindow  = newWin
+                  );
+      tm_omni_temp.set('location_path',nav_url);
+      this.handleClick();
+     },
+ trackomni_favoriteshare: function(lTV,lTE,clicklink){
+         count = 0;
+         $A(lTV).each(function(d){
+            tm_omn[d] = (d=='products' ? ';' : '' ) + lTE[count];
+            count++
+         });
+         this.data = Object.extend({},{
+                   linkTrackVars: 'prop14,eVar14,' + lTV.join(','),
+                 linkTrackEvents: lTE.join(','),
+                          prop14: 'TM_CA: ' + clicklink
+                  },
+                 clickLink = clicklink,
+                   newPage = false
+                  );
+
+        if(!tm_omni_temp.get('shareclickSet')){
+           this.handleClick();
+           tm_omni_temp.set('shareclickSet','1');
+           setTimeout("tm_omni_temp.unset('shareclickSet')",1500);
+         }
+
+ }
+});
+
+
+var omniTracking = new omniCustomClick();
+
+
 TMDebug = {
     gen_tlog: function() {
         return function(){};
     }
 };
+
+
 //-->
 </script>
 <!-- TM_CUSTOM_SCRIPT -->
 
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/prototype/builder.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/prototype/effects.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/prototype/dragdrop.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/prototype/controls.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/prototype/slider.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/carousel.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/prototype/tm/popup.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/prototype/builder.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/prototype/effects.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/prototype/dragdrop.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/prototype/controls.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/prototype/slider.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/carousel.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/prototype/tm/popup.js"></script>
 
 
 
@@ -70,11 +167,12 @@ TMDebug = {
 
 
 
-<script language="JavaScript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/global.js" type="text/javascript"></script>
 
-<script language="JavaScript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/base64.js"></script>
+<script language="JavaScript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/global.js" type="text/javascript"></script>
 
-<script language="JavaScript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/unicode.js"></script>
+<script language="JavaScript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/base64.js"></script>
+
+<script language="JavaScript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/unicode.js"></script>
 
 
         
@@ -155,7 +253,7 @@ function aolcsscheck(){
 }
 
 function grabUrl() {
-   var ticketPath = "http://media.ticketmaster.com/en-ca/img/sys/exchange/"
+   var ticketPath = "http://media.ticketmaster.com/tm/en-ca/img/sys/exchange/"
    TMObject(mName).SetVariable("serverUrl", ticketPath);
 
    var tmPath = "http://www.ticketmaster.ca/"
@@ -172,7 +270,7 @@ function grabUrl() {
 var location_text = 'City or Postal Code';
 location_text = location_text.replace(reg_ex,replaceItem);
 
-var page_context_uri = "L2gvcHJpdmFjeS5odG1sP3RtX2xpbms9dG1faG9tZUFfaV9wcA";
+var page_context_uri = "xn7RNiVQz1eYZp1RAggDCKRAy5Vr3QXiXJp__wpCmCrXalPwyTTQu4tYX00EsIppUFdeojjZDzwGVLQikh1blLU7sGat0Ph8TQ";
 
 
         new CookieTree( '_E' ).remove( 'did' );
@@ -180,13 +278,15 @@ var page_context_uri = "L2gvcHJpdmFjeS5odG1sP3RtX2xpbms9dG1faG9tZUFfaV9wcA";
         new CookieTree( '_E' ).remove( 'pp' );
         new CookieTree( '_E' ).remove( 'pw' );
         new CookieTree( '_E' ).remove( 'cdv' );
+        new CookieTree( '_E' ).remove( 'wad' );
         new CookieTree( '_E' ).remove( 'sl' );
 
 </script>
 
 <!--b4 dc--><!--after dc-->
 
-    <link href="http://media.ticketmaster.com/en-ca/css/282f0f75dd1bb1f8a9a2a33558dd9fda/legacy.css" rel="stylesheet" type="text/css">    <link href="http://media.ticketmaster.com/en-ca/css/282f0f75dd1bb1f8a9a2a33558dd9fda/default.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.com/en-ca/css/1c84b57773d8f594407f0b0b78d67aba/tm/legacy.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.com/en-ca/css/1c84b57773d8f594407f0b0b78d67aba/tm/default.css" rel="stylesheet" type="text/css">
 
 
 
@@ -196,18 +296,17 @@ var page_context_uri = "L2gvcHJpdmFjeS5odG1sP3RtX2xpbms9dG1faG9tZUFfaV9wcA";
 
     
 
-
-    <link href="http://media.ticketmaster.com/en-ca/css/282f0f75dd1bb1f8a9a2a33558dd9fda/carousel.css" rel="stylesheet" type="text/css">
-    <link href="http://media.ticketmaster.com/en-ca/css/282f0f75dd1bb1f8a9a2a33558dd9fda/langoverlay_en-ca.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.com/en-ca/css/1c84b57773d8f594407f0b0b78d67aba/tm/carousel.css" rel="stylesheet" type="text/css">
+    <link href="http://media.ticketmaster.com/en-ca/css/1c84b57773d8f594407f0b0b78d67aba/tm/langoverlay_en-ca.css" rel="stylesheet" type="text/css">
 
 
     
  
         <script type="text/javascript"><!--
                 var major_cat_cookie = GetCookie("MAJOR_CATEGORY");
-    var css_link_href = "http://media.ticketmaster.com/en-ca/css/282f0f75dd1bb1f8a9a2a33558dd9fda/cat_" + major_cat_cookie + ".css";
-    
-    var major_cat_cookie_style = "\n<link href='" + css_link_href + "' rel='stylesheet' type='text/css' />\n";
+    var css_link_href = "http://media.ticketmaster.com/en-ca/css/1c84b57773d8f594407f0b0b78d67aba/tm/cat_" + major_cat_cookie + ".css";
+
+    var major_cat_cookie_style = "\n<li" + "nk href='" + css_link_href + "' rel='stylesheet' type='text/css' />\n";
                       if(major_cat_cookie){
               document.write( major_cat_cookie_style );
               }
@@ -217,68 +316,78 @@ var page_context_uri = "L2gvcHJpdmFjeS5odG1sP3RtX2xpbms9dG1faG9tZUFfaV9wcA";
 
         <!--[if IE 6]>
         <style>
-            .lidExpand_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/corners/lid_sm_left.png'); }
-            .lidExpand_Lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/corners/lid_lg_left.png'); }
-            .lidRt_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/en-ca/img/sys/1000/corners/lid_sm_right.png'); }
-            .lidRt_lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/en-ca/img/sys/1000/corners/lid_lg_right.png'); }
+            .lidExpand_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/corners/lid_sm_left.png'); }
+            .lidExpand_Lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/corners/lid_lg_left.png'); }
+            .lidRt_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/corners/lid_sm_right.png'); }
+            .lidRt_lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/corners/lid_lg_right.png'); }
             #logoBox {
             background-image: none;
-            filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-ca/img/sys/1000/tmLogo.png');
+            filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/tmLogo.png');
             }
             .less #change_location {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/locboxbg_wt.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/locboxbg_wt.png');
             }
             .less #location_button {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-ca/img/sys/1000/locboxbg_wt_rt.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/locboxbg_wt_rt.png');
             }
             #locBoxTop {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-ca/img/sys/1000/locationbox_top.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/locationbox_top.png');
             }
             #locBoxMid {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/locationbox_mid.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/locationbox_mid.png');
             }
             #locBoxBot {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/en-ca/img/sys/1000/locationbox_bot.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/locationbox_bot.png');
             }
             #colLeft .lid {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/corners/lid_left.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/corners/lid_left.png');
             }
             .wrap-myTM .lid {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/corners/lid-mytm.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/corners/lid-mytm.png');
             }
             #seeEvents .lid {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/corners/wrap_top_search.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/corners/wrap_top_search.png');
             }
             #leftCol #seeEvents .lid {
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/corners/wrap_top_search_rt.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/corners/wrap_top_search_rt.png');
             }
             .lid-cat .roundBot {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/corners/lid_browse_bot.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/corners/lid_browse_bot.png');
             }
             .lid-cat .roundTop {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/corners/lid_browse_top.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/corners/lid_browse_top.png');
             }
             .dropdown {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/shad_box.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/shad_box.png');
             }
             .dropdownSm {
                     background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/en-ca/img/sys/1000/shad_box_sm.png');
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/shad_box_sm.png');
             }
-        </style>
+            span.dots {
+                    background-image: none;
+                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/attraction/cal_dot.png');
+            }
 
+            #footerBottom a#bottomLogo { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/logoBottom.png'); }
+            #twitterIcon { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/logoTwit.png'); }
+            #facebookIcon { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-ca/img/sys/1000/logoFB.png'); }
+
+        </style>
     <![endif]-->
+
+
 
 <!--[if IE]>
 <style>
@@ -298,7 +407,8 @@ var page_context_uri = "L2gvcHJpdmFjeS5odG1sP3RtX2xpbms9dG1faG9tZUFfaV9wcA";
 
 
 
-<meta name="DCSext.uri" content="/web/20091223165618id_/http%3A//www.ticketmaster.ca/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp"></head>
+
+</head>
 <body id="body">
 
 <noscript>
@@ -306,6 +416,7 @@ var page_context_uri = "L2gvcHJpdmFjeS5odG1sP3RtX2xpbms9dG1faG9tZUFfaV9wcA";
     You must set your browser to <a href="http://www.ticketmaster.ca/h/cookies.html">accept cookies</a> and to <a href="http://www.ticketmaster.ca/h/javascript.html">enable Javascript</a> in order to access certain functions of this site, including the purchase of tickets.
     </div>
 </noscript>
+
 
 
 <script language="JavaScript">
@@ -352,12 +463,11 @@ function buildLink( myFlag ) {
 </script>
 <div class="color-alt" id="topNavLinks">
     <div class="frame">
-        <div class="mgRt10">                                    <a href="https://www.ticketmaster.ca/member?tm_link=tm_ql_1">My Ticketmaster</a>&nbsp;|&nbsp;                                    <a href="http://www.ticketmaster.ca/event/110041969CB19BC0/?tm_link=tm_ql_2">Gift Cards</a>&nbsp;|&nbsp;                                    <a href="http://www.ticketmaster.ca/h/tcentres/provselect.html?tm_link=tm_ql_3">Retail Outlets</a>&nbsp;|&nbsp;                                    <a href="http://www.ticketmaster.ca/h/help.html?tm_link=tm_ql_4">Help</a>                                &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.ticketmaster.ca/change_language?lang=fr-ca&amp;tm_link=tm_ql_5" title="Français">Français</a>        </div>
+        <div class="mgRt10">                                    <a class="withBar" href="https://www.ticketmaster.ca/member?tm_link=tm_ql_1">My Ticketmaster</a>                                    <a class="withBar" href="http://www.ticketmaster.ca/event/11004381F7C5EB83/?tm_link=tm_ql_2">Gift Cards</a>                                    <a class="withBar" href="http://www.ticketmaster.ca/h/tcentres/provselect.html?tm_link=tm_ql_3">Retail Outlets</a>                                    <a class="withBar" href="http://www.ticketmaster.ca/h/help.html?tm_link=tm_ql_4">Help</a>                                <a href="http://www.ticketmaster.ca/change_language?lang=fr-ca&amp;tm_link=tm_ql_5" title="Français">Français</a>        </div>
     </div>
 </div>
         <div id="topMain">
-            <div class="frame">
-                <a id="logoBox" href="http://www.ticketmaster.ca/section?tm_link=tm_logo" title="Ticketmaster"></a><script language="javascript">
+            <div class="frame"><h2 class="hideContent">Ticketmaster  page</h2>                <a id="logoBox" href="http://www.ticketmaster.ca/section?tm_link=tm_logo" title="Ticketmaster Logo"></a><script language="javascript">
     var reg_ex = new RegExp("&eacute;","g");
     var replaceItem = '\u00E9';
 
@@ -382,17 +492,17 @@ function verifySearchString(form) {
             <input type="hidden" name="tm_link" value="tm_header_search">
             <table border="0" cellpadding="0" cellspacing="5">
                 <tbody><tr>
-                                        <td><input type="text" name="q" value="Enter Artist, Team, or Venue" class="text" maxlength="80" onfocus="if(this.value == search_text)this.value=''; this.style.color='#333';" onblur="if(this.value == ''){this.value=search_text; this.style.color='#898989'; }; ">&nbsp;</td>
-                    <td><input type="image" name="search" alt="search" src="http://media.ticketmaster.com/en-ca/img/sys/1000/blank.gif" class="search" title="Search Ticketmaster by Artist, Team, or Venue">
+                                        <td><label for="q" class="hideContent">Search Ticketmaster by Artist, Team, or Venue</label><input type="text" name="q" title="Enter search term" value="Enter Artist, Team, or Venue" class="text" maxlength="80" onfocus="if(this.value == search_text)this.value=''; this.style.color='#333';" onblur="if(this.value == ''){this.value=search_text; this.style.color='#898989'; }; ">&nbsp;</td>
+                    <td><input type="image" name="search" alt="Enter search term" src="http://media.ticketmaster.com/tm/en-ca/img/sys/1000/blank.gif" class="search" title="Enter search term">
                     </td>
                 </tr>    
             </tbody></table>
         </form>
     </div>
-</div>    <div id="locationBox" onclick="toggleA('locationBox','locationEx'); return false" class="more">
+</div>    <div id="locationBox" title="Change or update your location" onclick="toggleA('locationBox','locationEx'); return false" class="more">
         <script language="javascript">
             <!--
-                var my_market = "Edmonton, Red Deer & Northern Alberta";
+                var my_market = "Canada";
                 var location_box_market_name = GetCookie("MARKET_NAME");
                 if( location_box_market_name ) {
                     location_box_market_name = location_box_market_name.base64decode().stripScripts().stripTags().escapeHTML();
@@ -408,7 +518,7 @@ function verifySearchString(form) {
                 else if( my_market != location_box_market_name ) {
                     var npdma_c = GetCookie("NPDMA");
                     var ndma_c = GetCookie("NDMA");
-                    if( npdma_c == ndma_c && '506' == ndma_c ) {
+                    if( npdma_c == ndma_c && '' == ndma_c ) {
                         document.write( my_market );
                     }
                     else if( location_box_market_name ) {
@@ -436,8 +546,9 @@ function verifySearchString(form) {
             <div id="locBoxMid">                <form action="/find_area" method="get" onsubmit="return verifyLocationString(this);">
                     <h5 class="show">Change Location</h5>
                     <div class="spacer7px"></div>
+                    <label class="hideContent">City or Postal Code</label>
                     <input type="text" name="area" id="location_input" onfocus="this.select(value='');" onblur="if(this.value == '')this.value=location_text;" value="City or Postal Code">
-                    <input type="image" src="http://media.ticketmaster.com/en-ca/img/sys/1000/blank.gif" alt="Go" class="goLg">
+                    <input type="image" src="http://media.ticketmaster.com/tm/en-ca/img/sys/1000/blank.gif" alt="Submit City or Zip Code" title="Submit City or Zip Code" class="goLg">
                     <div class="clear spacer7px"></div>
                                         <div class="error mgBot10 txt11" id="location_eror_blank" style="display: none">Please enter city or postal code or click "See All Cities" below.</div>
                                         <div class="error mgBot10 txt11" id="location_eror_multiple" style="display: none">We found multiple results matching "<div id="location_results" style="display: inline">keyword</div>".
@@ -446,7 +557,7 @@ function verifySearchString(form) {
                         <div class="scrollBox" id="location_multiple_dropdown"></div>
                     </div>
                                         <div class="error mgBot10 txt11" id="location_eror_not_found" style="display: none">We could not find this location.  Please check your entry or click the "See All Cities" link below.</div>
-                    <a href="/find_area?uri=L2gvcHJpdmFjeS5odG1sP3RtX2xpbms9dG1faG9tZUFfaV9wcA&amp;tm_link=tm_changeloc_cities" class="under">See All Cities</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.ticketmaster.ca/international?tm_link=tm_changeloc_intl" class="under">See International</a>
+                    <a href="/find_area?uri=xn7RNiVQz1eYZp1RAggDCKRAy5Vr3QXiXJp__wpCmCrXalPwyTTQu4tYX00EsIppUFdeojjZDzwGVLQikh1blLU7sGat0Ph8TQ&amp;tm_link=tm_changeloc_cities" class="under">See All Cities</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.ticketmaster.ca/international?tm_link=tm_changeloc_intl" class="under">See International</a>
                     <input type="hidden" name="tm_link" value="tm_changeloc_go">
                 </form>            </div><div id="locBoxBot"></div>
         </div>
@@ -457,10 +568,10 @@ function verifySearchString(form) {
     <div class="frame">
         <div id="navButtons">
             <a href="http://www.ticketmaster.ca/section?tm_link=tm_header" id="home">Home</a>
-            <a href="http://www.ticketmaster.ca/section/concerts?tm_link=tm_music_header" id="music">Music</a>
-            <a href="http://www.ticketmaster.ca/section/sports?tm_link=tm_sports_header" id="sports">Sports</a>
-            <a href="http://www.ticketmaster.ca/section/arts_theater?tm_link=tm_arts_header" id="arts">Arts &amp; Theatre</a>
-            <a href="http://www.ticketmaster.ca/section/family?tm_link=tm_family_header" id="family">Family</a>        </div>
+            <a href="http://www.ticketmaster.ca/section/concerts?tm_link=tm_music_header" id="music" title="Main Category Music">Music</a>
+            <a href="http://www.ticketmaster.ca/section/sports?tm_link=tm_sports_header" id="sports" title="Main Category Sports">Sports</a>
+            <a href="http://www.ticketmaster.ca/section/arts_theater?tm_link=tm_arts_header" id="arts" title="Main Category Arts &amp; Theatre">Arts &amp; Theatre</a>
+            <a href="http://www.ticketmaster.ca/section/family?tm_link=tm_family_header" id="family" title="Main Category Family">Family</a>        </div>
         <div class="welcomeText mgRt10" id="welcome_module">
 <script language="JavaScript">
 var member_name = GetCookie("MNAME");
@@ -486,6 +597,7 @@ else {
 </div>            <div id="contentWrap">
             <div class="frame">
                 <div id="mainContent">	
+
 
 
 
@@ -694,11 +806,12 @@ Toronto, Ontario M5V 1J3<br>
 		<div style="padding:0px 0px 8px 8px">
 			<ul class="plain">
                     <li class="selected">- Privacy Policy</li>
-					<li>- <a href="http://www.ticketmaster.ca/h/purchase.html"> Purchase Policy</a></li>
-					<li>- <a href="http://www.ticketmaster.ca/h/terms.html">Terms of Use</a></li>
-					<li>- <a href="http://www.ticketmaster.ca/h/exchangepolicy.html">TicketExchange Selling Policy</a></li>
-					<li>- <a href="http://www.ticketmaster.ca/h/dmca.html">DMCA Notice Guidelines</a></li>
-					<li>- <a href="http://www.ticketmaster.ca/h/customerratings.html">Customer Ratings and Reviews Terms of Use </a></li>
+		    <li>- <a href="http://www.ticketmaster.ca/h/purchase.html">Purchase Policy</a></li>
+		    <li>- <a href="http://www.ticketmaster.ca/h/terms.html">Terms of Use</a></li>
+	            <li>- <a href="http://www.ticketmaster.ca/h/returns.html">Return Policy</a></li>
+		    <li>- <a href="http://www.ticketmaster.ca/h/exchangepolicy.html">TicketExchange Selling Policy</a></li>
+		    <li>- <a href="http://www.ticketmaster.ca/h/dmca.html">DMCA Notice Guidelines</a></li>
+		    <li>- <a href="http://www.ticketmaster.ca/h/customerratings.html">Customer Ratings and Reviews Policy</a></li>
                     <li>- <a href="http://www.ticketmaster.ca/h/cookies.html">Cookies &amp; graphics</a></li>
                     <li>- <a href="http://www.ticketmaster.ca/h/security.html">Security</a></li>
                     <li>- <a href="http://www.ticketmaster.ca/h/error_message.html">Error Messages</a></li>
@@ -728,68 +841,61 @@ Toronto, Ontario M5V 1J3<br>
                 </div>	
             </div>
         </div>
-        <div id="footer">
-            <div class="frame"><table width="100%" cellspacing="0" cellpadding="0" border="0">
-    <tbody><tr>
-        <td width="600" colspan="4"><h3>Ticketmaster</h3></td>
-        <td width="70" rowspan="2"></td>
-        <td width="300" colspan="3"><h3>Partner Sites</h3></td>
-    </tr>
-    <tr>
-        <td width="150">
-            <a href="http://www.ticketmaster.ca/section?tm_link=tm_i_home">Home</a>
-            <a href="http://www.ticketmaster.ca/section/concerts?tm_link=tm_i_concerts">Music</a>
-            <a href="http://www.ticketmaster.ca/section/sports?tm_link=tm_i_sports">Sports</a>
-            <a href="http://www.ticketmaster.ca/section/arts_theater?tm_link=tm_i_arts">Arts &amp; Theatre</a>
-            <a href="http://www.ticketmaster.ca/section/family?tm_link=tm_i_family">Family</a>
-            <a href="http://www.ticketmaster.ca/event/110041969CB19BC0/?tm_link=tm_i_giftcards_footer">Gift Cards</a>
-            <a href="http://www.ticketmaster.ca/sitemap?tm_link=tm_i_sitemap">Site Map</a>
-        </td>
-        <td width="150">
-            <a href="http://www.ticketmaster.ca/h/about_us.html?tm_link=tm_i_abouttm">About Ticketmaster</a>
-            <a href="http://investors.ticketmaster.com/">Investor Relations</a>
-            <a href="http://mediacenter.ticketmaster.com/Extranet/TMPRAbout.aspx">Media Centre</a>
-            <a href="http://www.ticketmaster.ca/h/policies.html?tm_link=tm_i_ourpolicy">Our Policies</a>
-            <a href="http://www.ticketmaster.ca/h/jobs/?tm_link=tm_i_ourpolicy">Job Opportunities</a>
-            <a href="http://www.ticketmaster.ca/h/privacy.html?tm_link=tm_i_pp">Privacy Policy</a>
-            <a href="http://www.ticketmaster.ca/partners/index.html?tm_link=tmpartners_footer">Partner With Us</a>
-        </td>
-        <td width="150">	
-            <a href="http://www.ticketweb.com/tm/ticketyourevent.html">Ticket your Event</a>
-            <a href="http://www.ticketmaster.ca/international?tm_link=tm_i_intl">International</a>
-            <a href="http://www.ticketmaster.ca/media?tm_link=tm_i_advertise">Advertise With Us</a>
-            <a href="http://www.ticketmaster.ca/h/tcentres/provselect.html?tm_link=tm_i_retail">Retail Outlets</a>
-            <a href="http://www.ticketmaster.ca/customtickets">Custom Tickets</a>
-        </td>
-        <td width="150">
+        <div id="footerTop">
+            <div class="frame"><!-- START NEW FOOTER CODE -->
+            <div class="footColumn floatLeft">
+                <div class="h5 allCaps">About Us</div> 
+                <a href="http://www.ticketmaster.ca/h/about_us.html?tm_link=tm_i_abouttm">Who We Are</a> 
+                <a href="http://www.ticketmaster.ca/international?tm_link=tm_i_intl">Across the Globe</a>
+                <a href="http://www.ticketmaster.ca/h/jobs/?tm_link=tm_i_jobs">Careers</a>
+            </div><!-- end column1 -->
+            <div class="vrFloat"></div>
+            <div class="footColumn floatLeft">
+                <div class="h5 allCaps">We're Here To Help</div> 
+                <a href="https://www.ticketmaster.ca/member?tm_link=tm_i_ma">Your Account</a> 
+                <a href="https://www.ticketmaster.ca/member/order_history?tm_link=tm_i_print">Print Tickets</a>
+                <a href="http://www.ticketmaster.ca/h/returns.html?tm_link=tm_i_rp">Return Policy</a>
+                <a href="http://www.ticketmaster.ca/h/shipping.html?tm_link=tm_i_sr">Shipping Options</a> 
+                <a href="http://www.ticketmaster.ca/h/help.html?tm_link=tm_i_help">Help</a>
+            </div><!-- end column2 -->
+            <div class="vrFloat"></div>
+            <div class="footColumn floatLeft">
+                <div class="h5 allCaps">OUR NETWORK</div> 
+                <a href="http://www.livenation.com/">Live Nation</a>
+                <a href="http://www.houseofblues.com/">House of Blues</a><a href="http://www.admission.com/">Admission</a>                <a href="http://www.ticketweb.com/">TicketWeb</a>            </div><!-- end column3 -->
+            <div class="vrFloat"></div>
+            <div class="footColumn floatLeft">
+                <div class="h5 allCaps">BE A PART OF IT</div> 
+                <a href="http://www.ticketmaster.ca/partners/index.html?tm_link=tmpartners_footer">Partner With Us</a>
+                <a href="http://www.ticketweb.com/tm/ticketyourevent.html">Ticket your Event</a>
+                <a href="http://www.ticketmaster.ca/media?tm_link=tm_i_advertise">Advertise With Us</a><a href="http://www.ticketmaster.ca/customtickets">Custom Tickets</a>            </div><!-- end column4 -->
+            <div class="clear"></div>
+        </div><!-- end frame -->
+        </div><!-- end footerTop -->
 
-            <a href="https://www.ticketmaster.ca/member/order_history?tm_link=tm_i_print">Print Your Tickets</a>
-            <a href="https://www.ticketmaster.ca/member?tm_link=tm_i_ma">Your Account</a>
-            <a href="http://www.ticketmaster.ca/h/help.html?tm_link=tm_i_help">Help</a>
-            <a href="http://www.ticketmaster.ca/ticketauctions?tm_link=tm_i_auction">Bid on Auctions</a>
-            <a href="https://www.ticketmaster.ca/member/edit_subscriptions?tm_link=tm_i_email">Your Email Preferences</a>
-        </td>
-        <td width="150">
-        	<a href="http://www.admission.com" target="_blank">Admission</a>
-		<a href="http://www.ticketmaster.ca/americanexpress/?tm_link=amex_footer">American Express</a>
-		<a href="http://www.ticketmaster.ca/blackberry?tm_link=tm_i_bb_foot_a1">BlackBerry</a>
-		<a href="http://www.helloecho.com/" target="_blank">Echo</a>
-		<a href="http://www.ilike.com/" target="_blank">iLike</a>
-		<a href="http://www.apple.com/ca/itunes/store/" target="_blank">iTunes</a>
-                <a href="http://www.livedaily.com/" target="_blank">LiveDaily</a>
-        </td>
-        	<td width="150">
-        	<a href="http://www.nba.com/tickets/tickets.html" target="_blank">NBA</a>
-		<a href="http://www.nfl.com/tickets/exchange" target="_blank">NFL</a>
-		<a href="http://www.nhl.com/tickets/index.html" target="_blank">NHL</a>
-                 <a href="http://www.paciolan.com/" target="_blank">Paciolan</a>
-		<a href="http://www.slotix.com/" target="_blank">SLO VIP Services</a>
-                <a href="http://www.ticketweb.ca" target="_blank">TicketWeb</a>
-        </td>
-    </tr></tbody></table>	
-                        <br><br>        Use of this site is subject to express <a class="under" href="http://www.ticketmaster.ca/h/terms.html?tm_link=tm_i_terms">terms of use</a>, which prohibit commercial use of this site. By continuing past this page, you agree to abide by these terms.<br>    © 2009 Ticketmaster. All rights reserved.<br>                    <div class="clear"></div>
-            </div>
-        </div>
+        <div id="footerBottom">
+        <a href="http://www.ticketmaster.ca/section?tm_link=tm_i_home" id="bottomLogo"><img src="http://media.ticketmaster.com/tm/en-ca/img/sys/1000/logoBottom.png"></a>
+        
+        <span class="allCaps">International:</span><a href="http://www.ticketmaster.com/">United States</a> <a href="http://www.ticketmaster.co.uk/">UK</a> <a href="http://www.ticketmaster.ie/">Ireland</a> <a href="http://www.ticketmaster.es/">Spain</a> <a href="http://www.ticketmaster.com.mx/">Mexico</a> <a href="http://www.ticketmaster.com.au/">Australia</a> <a href="http://www.ticketmaster.ca/international?tm_link=tm_homeA_i_more" class="space">More</a>        
+        <span class="allCaps">PARTNERS:</span>
+        <a href="http://www.ticketmaster.ca/americanexpress/?tm_link=amex_footer">American Express</a>
+        <a href="http://www.ticketmaster.ca/blackberry?tm_link=tm_i_bb_foot_a1">BlackBerry</a>
+        <a href="http://eventful.com/">Eventful</a>
+        <a href="http://www.nba.com/tickets/tickets.html">NBA</a>
+        <a href="http://www.nfl.com/tickets">NFL</a>
+        <a href="http://www.nhl.com/ice/tickets.htm">NHL</a>
+        <a href="http://www.priceline.com/default.asp?refid=PLTICKETMASTER&amp;refclickid=FT_HOMEPAGE">Priceline</a>
+        <a href="http://www.slotix.com/" class="space">SLO VIP Services</a>
+        
+        <span class="allCaps">FOLLOW US:</span>
+        <a href="http://facebook.com/TicketmasterCanada" id="facebookIcon"><img src="http://media.ticketmaster.com/tm/en-ca/img/sys/1000/logoFB.png"></a>
+        <a href="http://twitter.com/ticketmasterCA" id="twitterIcon"><img src="http://media.ticketmaster.com/tm/en-ca/img/sys/1000/logoTwit.png"></a>
+
+        <div class="clear"></div>By continuing past this page, you agree to our <a href="http://www.ticketmaster.ca/h/terms.html?tm_link=tm_i_terms" class="under">terms of use</a>. <a href="http://www.ticketmaster.ca/sitemap?tm_link=tm_i_sitemap" class="left">Site Map</a> <a href="http://www.ticketmaster.ca/h/privacy.html?tm_link=tm_i_pp">Privacy Policy</a>&nbsp;
+
+<!-- END NEW FOOTER CODE --> 
+<!-- end footerBottom -->
+            © 1999-2010 Ticketmaster. All rights reserved.<br>            </div>
         
 <div id="music_menu" style="display:none;"></div>
 <div id="sports_menu" style="display:none;"></div>
@@ -818,13 +924,15 @@ Toronto, Ontario M5V 1J3<br>
             }],
             onShow: cat_hov,
             onHide: cat_off,
-            link_event: 'mouseover',
+            link_event: ['mouseover','focus'],
             autohide_timeout: 1
         });
     }
     $w('music sports arts family').each( function(m){
         $(m).observe( 'mouseover', function(){ $(m).addClassName('hover'); } );
         $(m + '_menu').observe( 'mouseover', function(){ $(m).addClassName('hover'); } );
+        $(m).observe( 'focus', function(){ $(m).addClassName('hover'); } );
+        $(m + '_menu').observe( 'focus', function(){ $(m).addClassName('hover'); } );
         make_menu(m);
     });
 </script>
@@ -839,13 +947,12 @@ var NavMenu = Class.create({
                 "Cabaret" : "764",                    
                 "Classical" : "203",                    
                 "Comedy" : "51",                    
-                "Latin" : "40",                    
                 "Country and Folk" : "2",                    
                 "Dance/Electronic" : "201",                    
-                "Deutsch Rock" : "763",                    
                 "Festivals" : "766",                    
                 "Hard Rock/Metal" : "200",                    
                 "Jazz and Blues" : "4",                    
+                "Latin" : "40",                    
                 "Miscellaneous" : "107",                    
                 "New Age and Spiritual" : "50",                    
                 "R&B/Urban Soul" : "202",                    
@@ -861,18 +968,18 @@ var NavMenu = Class.create({
                 "Boxing" : "33",                    
                 "Bull Riding" : "61",                    
                 "Competitions" : "206",                    
+                "Curling" : "34",                    
                 "Field Sports" : "205",                    
                 "Football" : "8",                    
                 "Golf" : "30",                    
                 "Handball" : "765",                    
                 "Hockey" : "9",                    
+                "Lacrosse" : "35",                    
                 "Mixed Martial Arts" : "830",                    
                 "Motorsports" : "25",                    
                 "Rodeo" : "28",                    
-                "Soccer" : "11",                    
-                "Curling" : "34",                    
                 "Skating" : "36",                    
-                "Lacrosse" : "35",                    
+                "Soccer" : "11",                    
                 "Tennis" : "31",                    
                 "Volleyball" : "204",                    
                 "Wrestling" : "27",                    
@@ -905,6 +1012,7 @@ var NavMenu = Class.create({
                 "root_name" : "All Miscellaneous",
                 "Audio Tours" : "240",                    
                 "Camping" : "211",                    
+                "Casino" : "57",                    
                 "Concession Vouchers" : "239",                    
                 "Cruise and Sightseeing" : "106",                    
                 "Dinner Package" : "238",                    
@@ -915,7 +1023,6 @@ var NavMenu = Class.create({
                 "Lecture/Seminar" : "104",                    
                 "Merchandise" : "108",                    
                 "Merchandise Vouchers" : "242",                    
-                "Casino" : "57",                    
                 "Movies" : "59",                    
                 "Parking" : "103",                    
                 "Restaurants" : "58",                    
@@ -971,7 +1078,7 @@ var NavMenu = Class.create({
     },
     _get_data: function() {
         var dma_id;
-            dma_id = 506;
+            dma_id = 99999;
         getMenu('/json/search/genremenu', menu_data, 'popular_genres', { dma_id : dma_id });
         getMenu('/json/menu', menu_data, 'popular_events', { domain_id: '2', brand: '' });
         new PeriodicalExecuter(
@@ -1039,7 +1146,7 @@ var NavMenu = Class.create({
                     this.popular_genres[cat].popular.each(
                         function(d, idx) {
                             idx += 1;
-                            var link = new Element('a', {href:'http://www.ticketmaster.ca/browse?category=' + this.genres[cat][d] + '&root=' + cat + '&rdc_select=n1095&dma=506&type=selected&tm_link=tm_' + this.popular_genres[cat].track + '_header_l' + idx});
+                            var link = new Element('a', {href:'http://www.ticketmaster.ca/browse?category=' + this.genres[cat][d] + '&root=' + cat + '&rdc_select=n1095&dma=&type=selected&tm_link=tm_' + this.popular_genres[cat].track + '_header_l' + idx});
                             link.update( d );
                             g_cell.appendChild( link );
                         }.bind(this)
@@ -1096,495 +1203,220 @@ document.observe("dom:loaded",makeNav);
 </script>
 
 
-<!-- PART 2 -->
-<script language="JavaScript"><!-- 
-    if (window.location.hostname=="www.ticketmaster.ca"){
-        var chk_meta;
-        if (document.all){
-            chk_meta=document.all.tags("meta");
-        }
-        else if (document.documentElement){
-            chk_meta=document.getElementsByTagName("meta");
-        }
-        if (typeof(chk_meta)=="undefined"){
-            //other bucket
-            var gDcsId="dcsj97m815twkf3961o1cqf6d_1z6s";
-        }
-        else {
-            //tm bucket
-            var gDcsId="dcsxwi2yzvu01e22v8wdjmkkc_8i7u";
-        }
-    }
-    else {
-          //other bucket
-          var gDcsId="dcsj97m815twkf3961o1cqf6d_1z6s";
-    }
-//-->
 
-</script>
 
-<!-- PART 3 -->
-<script language="JavaScript"><!-- 
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
 
-var gDomain="statse.webtrendslive.com";
-var gFpc="WT_FPC";
-var gConvert=true;
 
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
-    document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+
+
+
+
+<script type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/omniture_tracker.js"></script>
+<script type="text/javascript"> 
+var omni_recognized;
+var cookie_id = GetCookie("MID");
+if ( cookie_id == null || cookie_id.length == 0 ) {
+    omni_recognized = "unrecognized";
+}
+else {
+    omni_recognized = "recognized";
 }
 
-//-->
-</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsj97m815twkf3961o1cqf6d_1z6s/wtid.js"></script>
-<script language="JavaScript"><!--
+tm_omn.products = tm_omni_temp.get('omnEID') != '' ? ';' + tm_omni_temp.get('omnEID') : ''
+tm_omn.events=""
+tm_omn.pageName = "h" /* Page Name */
+tm_omn.channel = "h" /* Page Type */
+tm_omn.server = ""  /*  Server */
+tm_omn.pageType = "" /*  Pages Not Found */
+tm_omn.prop1 = ""  /* Sub Page Type  */
+tm_omn.prop2  = ""  /* Level 1 */
+tm_omn.prop3  = ""  /* Level 2 */
+tm_omn.prop4  = ""  /* Previous Page Name      */
+tm_omn.prop5  = ""  /* Internal Search Term    */
+tm_omn.prop6  = ""  /* Total # of Search Results Returned */
+tm_omn.prop7  = ""  /* Search Refinements      */
+tm_omn.prop8  = ""  /* Ticket Insurance        */
+tm_omn.prop9  = "national_" + omni_recognized;  /* Navigation State        */
+tm_omn.prop10  = ""  /* Flash Version   */
+tm_omn.prop11  = ""  /* Set Location Value      */
+tm_omn.prop12  = tm_omni_temp.get('prop12') ? tm_omni_temp.get('prop12') : '';  /* Modules Available       */
+tm_omn.prop13  = ( GetCookie('MID') && !GetCookie('MID').empty() ) ? "Recognized" : "Unrecognized";  /* Logged in status        */
+tm_omn.prop14  = new $H( location.search.toQueryParams() ).get('tm_link'); /* Navigation Link */
+tm_omn.prop15  = "en-ca"  /* Language        */
+tm_omn.prop16  = ""  /* Page Name - Detailed  */  
+tm_omn.prop17  = "TM_CA"  /* which domain  */ 
+tm_omn.eVar2  = ""  /* Level 1 */
+tm_omn.eVar3  = ""  /* Level 2 */   
+tm_omn.eVar7  = "" /* Internal Search Term    */
+tm_omn.eVar8  =  tm_omni_temp.get('omnMID')  /* Entry Market    */
+tm_omn.eVar9  = tm_omn.prop9
+tm_omn.eVar10  = tm_omni_temp.get('omnMID')  /* Merchandising Market    */
+tm_omn.eVar12  = ""  /* Modules Available       */
+tm_omn.eVar13  = ""  /* Module clicked  */
+tm_omn.eVar14  = ""  /* Navigation Link */
+tm_omn.eVar15  = (new $H( location.search.toQueryParams() ).get('tm_link') ? validateTmLink(new $H( location.search.toQueryParams() ).get('tm_link')) : "")  /* Merchandising Link      */
+tm_omn.eVar16  = tm_omni_temp.get('omnVID');   /* Venue ID */       
+tm_omn.eVar17  = tm_omni_temp.get('omnAID');   /* Artist ID  */     
+tm_omn.eVar18  = ""  /* Day of Week     */
+tm_omn.eVar19  = ""  /* Time of Day     */
+tm_omn.eVar20  = ""  /* Payment Methods */
+tm_omn.eVar21  = "none"  /* Brand   */
+tm_omn.eVar22  = "en-ca"  /* Language */ 
+tm_omn.eVar23  = ""  /* EDP Type        */
+tm_omn.eVar24  = ""  /* Checkout Type   */
+tm_omn.eVar25  = ""  /* Promotion ID    */
+tm_omn.eVar26  = ""  /* Visit Number    */
+tm_omn.eVar27  = ""  /* Visit Referral Domain   */
+tm_omn.eVar28  = ""  /* Original Referral Domain        */
+tm_omn.eVar29  = ""  /* Entry Page Name */
+tm_omn.eVar31  = ""  /* Delivery Methods */       
+tm_omn.eVar32  = ""  /* BV rating       */
+tm_omn.eVar33  = ""  /* Ticket Type     */
+tm_omn.eVar34  = ""  /* Inventory Request Type */ 
+tm_omn.eVar35  = ""  /* NTF Distribution        */
+tm_omn.eVar36  = ""  /* Order ID (same as Purchase ID) */ 
+tm_omn.eVar37  = GetCookie("MID") ? GetCookie("MID") : "";  /* CustomerID      */
+tm_omn.eVar38  = "TM_CA";
+tm_omn.eVar40  = "";
+tm_omn.pageType = ""
+tm_omn.purchaseID  = ""  /* Purchase ID     */
+tm_omn.state  = ""  /* User Billing State */     
+tm_omn.zip  = ""  /* User Billing ZIP       */ 
+tm_omn.currencyCode  = ""  /* Currency Code */  
 
+if(tm_omn.prop14){
+   tm_omn.prop14 = "TM_CA: " + tm_omn.prop14;
+   }
 
+     if(!location.href.include('html.ng/site')){
+         tm_omn.t()
+    }
+function initshare(){
+    new PeriodicalExecuter(function(pe) {
+         if( $('at_hover') ) {
+            var shareDivs = $$('div:([onclick*=addthis_sendto])');
+                shareDivs = shareDivs.uniq();
+             shareDivs.each( function(d){
+                var attr =  d.readAttribute('onclick');
+                  if(!attr.include('more')){
+                    d.observe('click',function(){
+                       omniTracking.trackomni_favoriteshare([],[],'Share Event',d);
+                       attr;
+                     });
+                  }
+               });
+         pe.stop();
+         }
+     }, 1);
 
-//==============================================================
-// This section creates a new meta tag to store the uri and tm_link
-var myDocumentHead;
-if (document.all){
-    myDocumentHead=document.all.tags("head")[0];
 }
-else if (document.documentElement){
-    myDocumentHead=document.getElementsByTagName("head")[0];
-}
-
-var newMetaTag = document.createElement("meta");
-newMetaTag.setAttribute('name', 'DCSext.uri');
-newMetaTag.setAttribute('content', window.location.pathname);
-myDocumentHead.appendChild(newMetaTag);
-var ac_link_value = getQry("ac_link");
-if(ac_link_value){
-  newMetaTag = document.createElement("meta");
-  newMetaTag.setAttribute('name', 'DCSext.ac_link');
-    if(ac_link_value.match("rnd=")){
-        newMetaTag.setAttribute('content', "NULL");
-    }else{
-        newMetaTag.setAttribute('content', ac_link_value ? ac_link_value : "NULL");
-    }
-  myDocumentHead.appendChild(newMetaTag);
-}
-
-var CAMEFROM_value = getQry("CAMEFROM") ? getQry("CAMEFROM") : GetCookie("CAMEFROM") ? GetCookie("CAMEFROM") : "";
-if(CAMEFROM_value){
-  newMetaTag = document.createElement("meta");
-  newMetaTag.setAttribute('name', 'DCSext.CFC');
-      if(CAMEFROM_value.match("rnd=")){
-        newMetaTag.setAttribute('content', "NULL");
-    }else{
-        newMetaTag.setAttribute('content', CAMEFROM_value ? CAMEFROM_value : "NULL");
-    }
-  myDocumentHead.appendChild(newMetaTag);
-}
-
-var tm_link_value = getQry("tm_link");
-if(tm_link_value){
-    newMetaTag = document.createElement("meta");
-    newMetaTag.setAttribute('name', 'DCSext.tm_link');
-    // As a result ofpeople monkeying around with our URLs tm_links are coming back as unique and are overloading our reports
-    // If the tm_link value contains bogus entries such as "rnd=" reset it to "NULL"
-    if(tm_link_value.match("rnd=")){
-        newMetaTag.setAttribute('content', "NULL");
-    }else{
-        newMetaTag.setAttribute('content', tm_link_value ? tm_link_value : "NULL");
-    }
-    myDocumentHead.appendChild(newMetaTag);
-}
-var tm_session = GetCookie("SID");
-if (tm_session){
-    newMetaTag = document.createElement("meta");
-    newMetaTag.setAttribute('name', 'DCSext.tm_session');
-    newMetaTag.setAttribute('content', tm_session);
-    myDocumentHead.appendChild(newMetaTag);
-}
-
-
-var mcidStr = document.location.toString().match(/wt.mc_id/i);
-var metaNameVal = mcidStr ? getQry(mcidStr[0]) : "";
-
-/* 
-    Appending a META TAG to the HEAD
-*/
-
-
-    if(metaNameVal){
-        newMetaTag = document.createElement("meta");
-        newMetaTag.setAttribute('name', 'WT.mc_id');
-        newMetaTag.setAttribute('content', metaNameVal ? metaNameVal : "NULL");
-        myDocumentHead.appendChild(newMetaTag);
-    }
-
-
-//==============================================================
-// This will allow WT to recognize the flag set on SEM keyword 
-// links to TM.com. Currently, Sherry and team are appending 
-// "WT.srch=1" flag to the end of the URL for paid search terms.
-// 
-// For example, if you search Google for "Virginia Opera Tickets" 
-// now, and click on the TM link in the sponsored section, you 
-// get directed to: 
-// http://www.ticketmaster.com/artist/804515?WT.srch=1 
-
-var wt_srch_value = getQry("WT.srch");
-if(wt_srch_value){
-  newMetaTag = document.createElement("meta");
-  newMetaTag.setAttribute('name', 'WT.srch');
-  newMetaTag.setAttribute('content', wt_srch_value ? wt_srch_value : "NULL");
-  myDocumentHead.appendChild(newMetaTag);
-}
-//==============================================================
-
-
-var gService = true;
-var gTimeZone = -8;
-// Code section for Enable First-Party Cookie Tracking
-function dcsCookie(){
-    if (typeof(dcsOther)=="function"){
-        dcsOther();
-    }
-    else if (typeof(dcsPlugin)=="function"){
-        dcsPlugin();
-    }
-    else if (typeof(dcsFPC)=="function"){
-        dcsFPC(gTimeZone);
-    }
-}
-function dcsGetCookie(name){
-    var cookies=document.cookie.split("; ");
-    var cmatch=[];
-    var idx=0;
-    var i=0;
-    var namelen=name.length;
-    var clen=cookies.length;
-    for (i=0;i<clen;i++){
-        var c=cookies[i];
-        if ((c.substring(0,namelen+1))==(name+"=")){
-            cmatch[idx++]=c;
-        }
-    }
-    var cmatchCount=cmatch.length;
-    if (cmatchCount>0){
-        idx=0;
-        if ((cmatchCount>1)&&(typeof(gFpc)!="undefined")&&(name==gFpc)){
-            var dLatest=new Date(0);
-            for (i=0;i<cmatchCount;i++){
-                var lv=parseInt(dcsGetCrumb(cmatch[i],"lv"));
-                var dLst=new Date(lv);
-                if (dLst>dLatest){
-                    dLatest.setTime(dLst.getTime());
-                    idx=i;
-                }
-            }
-        }
-        return unescape(cmatch[idx].substring(namelen+1));
-    }
-    else{
-        return null;
-    }
-}
-function dcsGetCrumb(cval,crumb){
-    var aCookie=cval.split(":");
-    for (var i=0;i<aCookie.length;i++){
-        var aCrumb=aCookie[i].split("=");
-        if (crumb==aCrumb[0]){
-            return aCrumb[1];
-        }
-    }
-    return null;
-}
-function dcsGetIdCrumb(cval,crumb){
-    var id=cval.substring(0,cval.indexOf(":lv="));
-    var aCrumb=id.split("=");
-    for (var i=0;i<aCrumb.length;i++){
-        if (crumb==aCrumb[0]){
-            return aCrumb[1];
-        }
-    }
-    return null;
-}
-function dcsIsFpcSet(name,id,lv,ss){
-    var c=dcsGetCookie(name);
-    if (c){
-        return ((id==dcsGetIdCrumb(c,"id"))&&(lv==dcsGetCrumb(c,"lv"))&&(ss==dcsGetCrumb(c,"ss")))?0:3;
-    }
-    return 2;
-}
-function dcsFPC(offset){
-    if (typeof(offset)=="undefined"){
-        return;
-    }
-    if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-        return;
-    }
-    var name=gFpc;
-    var dCur=new Date();
-    var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
-    dCur.setTime(dCur.getTime()+adj);
-    var dExp=new Date(dCur.getTime()+315360000000);
-    var dSes=new Date(dCur.getTime());
-    WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-    if (document.cookie.indexOf(name+"=")==-1){
-        if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-            WT.co_f=gWtId;
-        }
-        else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-            WT.co_f=gTempWtId;
-            WT.vt_f="1";
-        }
-        else{
-            WT.co_f="2";
-            var cur=dCur.getTime().toString();
-            for (var i=2;i<=(32-cur.length);i++){
-                WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-            }
-            WT.co_f+=cur;
-            WT.vt_f="1";
-        }
-        if (typeof(gWtAccountRollup)=="undefined"){
-            WT.vt_f_a="1";
-        }
-        WT.vt_f_s=WT.vt_f_d="1";
-        WT.vt_f_tlh=WT.vt_f_tlv="0";
-    }
-    else{
-        var c=dcsGetCookie(name);
-        var id=dcsGetIdCrumb(c,"id");
-        var lv=parseInt(dcsGetCrumb(c,"lv"));
-        var ss=parseInt(dcsGetCrumb(c,"ss"));
-        if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-            return;
-        }
-        WT.co_f=id;
-        var dLst=new Date(lv);
-        WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
-        dSes.setTime(ss);
-        if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-            WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
-            dSes.setTime(dCur.getTime());
-            WT.vt_f_s="1";
-        }
-        if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-            WT.vt_f_d="1";
-        }
-    }
-    WT.co_f=escape(WT.co_f);
-    WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
-    var expiry="; expires="+dExp.toGMTString();
-    var cur=dCur.getTime().toString();
-    var ses=dSes.getTime().toString();
-    document.cookie=name+"="+"id="+WT.co_f+":lv="+cur+":ss="+ses+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-    var rc=dcsIsFpcSet(name,WT.co_f,cur,ses);
-    if (rc!=0){
-        WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-        WT.vt_f=WT.vt_f_a=rc;
+function wt_stringscrape(passedValue, entryOutcome ){
+var stringedData;
+ try{
+    passedValue = passedValue.stripScripts().stripTags().escapeHTML();
+    passedValue = passedValue.empty() ? "null" : passedValue;
+    passedValue = unescape(passedValue);
+    if(entryOutcome){
+       tm_omn.prop11 = "Success: " + passedValue;
+     }else{
+       tm_omn.prop11 = "Error: " + passedValue;
+          }
+            //if prop14 has value scode populates event. override it.
+                tm_omn.prop14 = "";
+            var changeLocationClick = new omniCustomClick({
+                    linkTrackVars: 'prop11',
+                     prop11: tm_omn.prop11
+                  },
+                 clickLink = 'Change Location',
+                   newPage = false
+                );
+            changeLocationClick.handleClick(changeLocationClick)
+    }catch(err){
+          
     }
 }
 
-// Code section for Use the new first-party cookie generated with this tag.
+            function omniTrack( tag ) {
+                tm_omni_temp.set('override_prop4', tm_omn.pageName);
+                tm_omni_temp.set('pagetype','search') ;
+                new PeriodicalExecuter(function(pe) {
+                    if(tm_omni_temp.get('filterComplete') || tag.include('Pagination') || tag.include('other_matches')) {
+                       if(tm_omni_temp.get('search_results_total') == tm_omni_temp.get('totalDocs_pageload')){
+                             if(tag.include('_Pagination')){
+                                 $w('pageName prop16').each( function(cl){
+                                    tm_omn[cl] = tm_omn[cl].gsub(/: (Filter|Pagination)/,"") + ": Pagination";
+                                 });
+                              }else{
+                                   if(tag.include('_filter')){
+                                       $w('pageName prop16').each( function(cl){
+                                           tm_omn[cl] = tm_omn[cl].gsub(/: (Filter|Pagination)/,'');
+                                           tm_omn[cl] = tm_omn[cl] + ": Filter";
+                                        });
+                                   }else{
+                                       $w('pageName prop16').each( function(cl){
+                                           tm_omn[cl] = tm_omn[cl].gsub(/: (Filter|Pagination)/,'');
+                                        });
+                                   }
+                              }
+                        }else{
+                             var filt_pag = "";
+                             $w('pageName prop16').each( function(cl){
+                                tm_omn[cl] = tm_omn[cl].gsub(/: (Filter|Pagination)/,"");
+                                  if(tag.include('_Pagination')){
+                                    filt_pag = ": Pagination";
+                                  }
+                                tm_omn[cl] = tm_omn[cl] + ": Filter" + filt_pag;
+                             });
+                        }                      
+                             $w('prop14 prop7 eVar14').each( function(cs){
+                                tm_omn[cs] = "TM_CA: " + tag;
+                             });
+                            tm_omn.prop5 = "";
+                            tm_omn.eVar7 = "";
+                            tm_omn.t();
+                            pe.stop();
+                            tm_omni_temp.set('firstFilter', '1')
+                            tm_omni_temp.unset('filterComplete');
+                      }
+                   }, .25);
+                 }
 
-function dcsAdv(){
-    dcsFunc("dcsCookie");
+
+function validateTmLink(val){
+var arrLinkTest = [
+                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)_(ts|c|d|event|g|h|j|k|lv|n|artist)(\d+)$/i,
+                     /^(artist_rc_)(\w+)$/i,
+                     /^(mytm_recommend_image|mytm_recommend_name)(\d+)$/i,
+                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(_rc_)(findtix|image|name|moredates)\d+$/i,
+                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(\w*)_(r|f)(\d+)$/i,
+                     /^(mytm_favEvent_local\w*)|(mytm_favEvent_else_Name)$/i,
+                     /^(tm_homeA_popular)(\d+)$/i,
+                     /^(tm_\w*)(_b_1000)(\d+_\d+)$/i
+                            ]
+
+   for(i=0;i<arrLinkTest.length; i++){
+       if(arrLinkTest[i].test(val)){
+          tm_omn.linkTrackVars = 'events,eVar15';
+          tm_omn.linkTrackEvents = 'event14';
+          tm_omn.events = 'event14';
+          val = 'TM_CA: ' + val;
+          return val;
+          tm_omn.eVar15 = 'TM_CA: ' + tm_omn.getValOnce(tm_omn.eVar15,'s_evar15',0);
+          break;
+        }
+   }
 }
 
-function dcsFunc(func){
-    if (typeof(window[func])=="function"){
-        window[func]();
-    }
+function dcsMultiTrack(){
+try{
+  var dcs_to_omni = $A(arguments).last();
+      omniTracking.navigation_link(dcs_to_omni, false);
+   }catch(err){}
 }
 
-function dcsMultiTrack() {
-    for (var i=0;i<arguments.length;i++) {
-        if (arguments[i].indexOf('WT.')==0) {
-            WT[arguments[i].substring(3)]=arguments[i+1];
-            i++;
-        }
-        if (arguments[i].indexOf('DCS.')==0) {
-            DCS[arguments[i].substring(4)]=arguments[i+1];
-            i++;
-        }
-        if (arguments[i].indexOf('DCSext.')==0) {
-            DCSext[arguments[i].substring(7)]=arguments[i+1];
-            i++;
-        }
-    }
-    var dCurrent=new Date();
-    DCS.dcsdat=dCurrent.getTime();
-    dcsTag();
-}
-// End dcsMultiTrack function
 
-function dcsVar(){
-    var dCurrent=new Date();
-    WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-    if (WT.tz==0){
-        WT.tz="0";
-    }
-    WT.bh=dCurrent.getHours();
-    WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-    if (typeof(screen)=="object"){
-        try {
-            WT.cd=screen.colorDepth;
-            WT.sr=screen.width+"x"+screen.height;
-        }
-        catch(error) {
-        }   
-    }
-    if (typeof(navigator.javaEnabled())=="boolean"){
-        WT.jo=navigator.javaEnabled()?"Yes":"No";
-    }
-    if (document.title){
-// Overriding Webtrends default setting to prevent overflowing the "Page View" Reporting (Bug 49665)
-//        WT.ti=document.title;
-        WT.ti='Miscellaneous';
-    }
-    WT.js="Yes";
-    WT.jv=dcsJV();
-    DCS.dcsdat=dCurrent.getTime();
-    DCS.dcssip=window.location.hostname;
-// Overriding Webtrends default setting to prevent overflowing the "Page View" Reporting (Bug 49665)
-//        DCS.dcsuri=window.location.pathname;
-        DCS.dcsuri='Miscellaneous';
-//    if (window.location.search){
-//        DCS.dcsqry=window.location.search;
-//    }
-    if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-        if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-            DCS.dcsref=window.document.referrer;
-        }
-    }
-}
 
-function dcsJV(){
-    var agt=navigator.userAgent.toLowerCase();
-    var major=parseInt(navigator.appVersion);
-    var mac=(agt.indexOf("mac")!=-1);
-    var ff=(agt.indexOf("firefox")!=-1);
-    var ff0=(agt.indexOf("firefox/0.")!=-1);
-    var ff10=(agt.indexOf("firefox/1.0")!=-1);
-    var ff15=(agt.indexOf("firefox/1.5")!=-1);
-    var ff2up=(ff&&!ff0&&!ff10&!ff15);
-    var nn=(!ff&&(agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
-    var nn4=(nn&&(major==4));
-    var nn6up=(nn&&(major>=5));
-    var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
-    var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
-    var ie5up=(ie&&!ie4);
-    var op=(agt.indexOf("opera")!=-1);
-    var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
-    var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
-    var op7up=(op&&!op5&&!op6);
-    var jv="1.1";
-    if (ff2up){
-        jv="1.7";
-    }
-    else if (ff15){
-        jv="1.6";
-    }
-    else if (ff0||ff10||nn6up||op7up){
-        jv="1.5";
-    }
-    else if ((mac&&ie5up)||op6){
-        jv="1.4";
-    }
-    else if (ie5up||nn4||op5){
-        jv="1.3";
-    }
-    else if (ie4){
-        jv="1.2";
-    }
-    return jv;
-}
-
-function A(N,V){
-    return "&"+N+"="+dcsEscape(V);
-}
-
-function dcsEscape(S){
-    if (typeof(RE)!="undefined"){
-        var retStr = new String(S);
-        for (R in RE){
-            retStr = retStr.replace(RE[R],R);
-        }
-        return retStr;
-    }
-    else{
-        return escape(S);
-    }
-}
-
-function dcsCreateImage(dcsSrc){
-    if (document.images){
-        gImages[gIndex]=new Image;
-        gImages[gIndex].src=dcsSrc;
-        gIndex++;
-    }
-    else{
-        document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-    }
-}
-
-function dcsMeta(){
-    var myDocumentElements;
-    if (document.all){
-        myDocumentElements=document.all.tags("meta");
-    }
-    else if (document.documentElement){
-        myDocumentElements=document.getElementsByTagName("meta");
-    }
-    if (typeof(myDocumentElements)!="undefined"){
-        for (var i=1;i<=myDocumentElements.length;i++){
-            myMeta=myDocumentElements.item(i-1);
-            if (myMeta.name){
-                if (myMeta.name.indexOf('WT.')==0){
-                    WT[myMeta.name.substring(3)]=myMeta.content;
-                }
-                else if (myMeta.name.indexOf('DCSext.')==0){
-                    DCSext[myMeta.name.substring(7)]=myMeta.content;
-                }
-                else if (myMeta.name.indexOf('DCS.')==0){
-                    DCS[myMeta.name.substring(4)]=myMeta.content;
-                }
-            }
-        }
-    }
-}
-
-function dcsTag(){
-    var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-    for (N in DCS){
-        if (DCS[N]) {
-            P+=A(N,DCS[N]);
-        }
-    }
-    for (N in WT){
-        if (WT[N]) {
-            P+=A("WT."+N,WT[N]);
-        }
-    }
-    for (N in DCSext){
-        if (DCSext[N]) {
-            P+=A(N,DCSext[N]);
-        }
-    }
-    if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-        P=P.substring(0,2040)+"&WT.tu=1";
-    }
-    dcsCreateImage(P);
-}
-
-dcsAdv();
-dcsVar();
-dcsMeta();
-dcsTag();
-//-->
-</script>
-<!-- SearchRev beg -->
+</script><!-- SearchRev beg -->
 <!-- SearchRev end -->
 
 
@@ -1609,15 +1441,18 @@ dcsTag();
 
 
 
-
-
-
-
+<script type="text/javascript">
+function cs_rating( page_type,id,rate,appcontext,mid ) {
+}
+</script>
 
 <!-- START - Omniture code TOP -->
 <!-- CODE to paste below BODY tag at top of page -->
 
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/282f0f75dd1bb1f8a9a2a33558dd9fda/foresee/foresee-trigger.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-ca/js/1c84b57773d8f594407f0b0b78d67aba/foresee/foresee-trigger.js"></script>
+
+
 
 
 </body></html>
