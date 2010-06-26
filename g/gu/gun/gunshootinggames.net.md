@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunshootinggames.net privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504155838id_/http%3A//www.gunshootinggames.net/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunshootinggames.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626091513id_/http%3A//www.gunshootinggames.net/page/2.html) for the most accurate reproduction.*
 
 # Privacy Policy - Play Privacy Policy Online
 
@@ -24,6 +24,8 @@ Like many other Web sites, www.gunshootinggames.net makes use of log files. The 
 www.gunshootinggames.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense . 
+
+* Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.gunshootinggames.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
