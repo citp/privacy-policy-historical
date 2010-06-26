@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybaseguide.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231090909id_/http%3A//www.mybaseguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybaseguide.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626053718id_/http%3A//mybaseguide.com/privacy) for the most accurate reproduction.*
 
 # My Base Guide -- Privacy
 
