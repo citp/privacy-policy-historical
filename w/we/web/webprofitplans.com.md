@@ -1,59 +1,86 @@
-> *The following text is extracted and transformed from the webprofitplans.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128163422id_/http%3A//webprofitplans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webprofitplans.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626133500id_/http%3A//www.webprofitplans.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Web Profit Plans » Privacy Policy
+# WebProfitPlans - Privacy Policy
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+**WEBPROFITPLANS.com SITE PRIVACY POLICY**
 
-We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site.
+**BACKGROUND:   **This Policy applies as between you, the User of this and any web site you visit that is owned and operated by MemberSpeed Inc. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
 
-* What Information Do We Collect?  
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+**1\. Definitions and Interpretation**  
+In this Policy the following terms shall have the following meanings: 
 
-* Personal Information You Choose to Provide - Registration Information  
-When you register for any of our products, services or newsletters you will provide us information about yourself.
+"Account" means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;
 
-* Email Information  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+"Content" means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
 
-* Web Site Use Information  
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
+"Cookie" means a small text file placed on your computer by WebProfitPlans.com when you visit certain parts of our Web Sites. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Where e-commerce facilities are provided, Cookies may be used to store your information. Further details are contained in Clause 10 and Schedule 1 of this Policy;
 
-* How Do We Use the Information That You Provide to Us?  
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site’s content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
+"Data" means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
+"WebProfitPlans" means WebProfitPlans.com;
 
-* What Are Cookies?  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
+"Service" means collectively any online facilities, tools, services or information that WebProfitPlans.com makes available through the Web Site either now or in the future;
 
-* How Do We Use Information We Collect from Cookies?  
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+"System" means any online communications infrastructure that WebProfitPlans.com makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
 
-* IP Addresses  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
+"User" / "Users" means any third party that accesses the Web Site and is not employed by WebProfitPlans.com / MemberSpeed Inc. and acting in the course of their employment; 
 
-* Sharing and Selling Information  
-We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
+and "Web Site" means the website that you are currently using and any sub-domains of this site and all sites owned by WebProfitPlans.com MemberSpeed Inc. unless expressly excluded by their own individual terms and conditions.
 
-* How Can You Access and Correct Your Information?  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
+**2\. Data Collected**  
+Without limitation, any of the following Data may be collected:  
+2.1 name;  
+2.2 date of birth;  
+2.3 gender;  
+2.4 job title;  
+2.5 profession;  
+2.6 contact information such as email addresses and telephone numbers;  
+2.7 demographic information such as post code, preferences and interests;  
+2.8 financial information such as credit / debit card numbers;  
+2.9 IP address (automatically collected);  
+2.10 web browser type and version (automatically collected);  
+2.11 operating system (automatically collected);  
+2.12 a list of URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected);   
+2.13 Cookie information (see clause 10 below).
 
-* What About Legally Compelled Disclosure of Information?  
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
+**3\. Our Use of Data**  
+3.1 Any personal Data you submit will be retained by WebProfitPlans.com for as long as you use the Services and Systems provided on the Web Site. Data that you may submit through any communications System that we may provide may be retained for a longer period of up to 6 years.  
+3.2 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. This does not include our affiliates and / or other companies within our group.  
+3.3 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 9 below.  
+3.4 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:  
+3.4.1 internal record keeping;  
+3.4.2 improvement of our products / services;  
+3.4.3 transmission by email of promotional materials that may be of interest to you;  
+3.4.4 contact for market research purposes which may be done using email, telephone, fax or mail. Such information may be used to customise or update the Web Site.
 
-* What About Other Web Sites Linked to Our Web Site?  
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
+**4\. Third Party Web Sites and Services**  
+WebProfitPlans.com may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services may have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that WebProfitPlans.com requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
 
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
+**5\. Changes of Business Ownership and Control**  
+5.1 WebProfitPlans.com may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.  
+5.2 In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
 
-* Your Consent  
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
+**6\. Controlling Access to your Data**  
+6.1 Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:  
+6.1.1 use of Data for direct marketing purposes; and  
+6.1.2 sharing Data with third parties.
 
-* Our Commitment To Data Security:  
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+**7\. Your Right to Withhold Information**  
+7.1 You may access certain areas of the Web Site without providing any Data at all. However, to use all Services and Systems available on the Web Site you may be required to submit Account information or other Data.  
+7.2 You may restrict your internet browser's use of Cookies. For more information see clause 10.4 below.
 
-* A Special Note About Children  
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 16) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
+**8\. Accessing your own Data**  
+8.1 You may request information about your stored data at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.  
+8.2 You have the right to ask for a copy of your personal Data on payment of an administration fee.
 
-* Policy Modifications  
-We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+**9\. Security**  
+9.1 Data security is of great importance to WebProfitPlans.com and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
+
+**10\. Cookies**  
+10.1 WebProfitPlans.com may set and access Cookies on your computer. Cookies that may be placed on your computer are detailed in Schedule 1 to this Policy.  
+10.2 A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.   
+10.3 You may delete Cookies, however you may loose any information that enables you to access the Web Site more quickly.  
+10.4 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
+
+**11\. Changes to this Policy**  
+WebProfitPlans.com reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
