@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interracialdatingcentral.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227031802id_/http%3A//www.interracialdatingcentral.com/interracial_dating/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracialdatingcentral.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626215028id_/http%3A//www.interracialdatingcentral.com/interracial_dating/privacyPolicy.html) for the most accurate reproduction.*
 
 # INTERRACIAL DATING SERVICES - Specialists in INTERRACIAL DATING, interracial relationships, interracial online dating
 
@@ -131,7 +131,7 @@ Suite 209
 Reno, NV, 89502   
 USA 
 
-(C) 2009 Chellaul Corporation. All rights reserved. 
+(C) 2010 Chellaul Corporation. All rights reserved. 
 
 ## Linked information:
 
