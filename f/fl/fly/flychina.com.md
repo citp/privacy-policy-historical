@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225192206id_/http%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626061449id_/http%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.*
 
 # FlyChina Privacy Statement
 
-|  |  |   
-  
-FlyChina Privacy Statement 
-
-  
-|  | 
+ | 
 
 This privacy policy covers the site www.flychina.com. Your privacy is important to us, by visiting the website you are accepting the practices described in the following Privacy Policy. To demonstrate our commitment to our users' privacy, we have agreed to disclose our information practices. This Privacy policy is an integral part of our website and the services offered to you and cannot, in any way, be separated from the User Agreement, usage or transaction process. If you do not agree to our privacy policy in whole, you must not use our website. 
 
@@ -73,12 +68,4 @@ Phone: (561) 477-7000
 Fax: (561) 443-3308  
 E-mail: hqFlyChina.com
 
-Postal Address: 951 Yamato Road, Suite 106, Boca Raton, FL 33431-4425, USA  
-  
----|---  
-  
-  
-  
- 
-
-© 1997-2009   FlyChina Infotek, Inc.
+Postal Address: 951 Yamato Road, Suite 106, Boca Raton, FL 33431-4425, USA
