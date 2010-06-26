@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imlive.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226120016id_/http%3A//imlive.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imlive.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626094354id_/http%3A//imlive.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Live Video Chat at ImLive
 
@@ -39,6 +39,5 @@ You have the following choices to update your information from our database: You
 
 If you have any questions about this Privacy Policy, you can contact us at: [info@ImLive.com](mailto:info@ImLive.com). 
 
-  
   
 
