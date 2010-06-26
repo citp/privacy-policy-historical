@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneymarketing.co.uk privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903004629id_/http%3A//www.moneymarketing.co.uk/help/privacyStatement%28new%29.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymarketing.co.uk privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626095206id_/http%3A//www.moneymarketing.co.uk/privacy-statement) for the most accurate reproduction.*
 
-# Money Marketing
+# Privacy Statement | Money Marketing
 
 1\. At Centaur we take privacy very seriously. Throughout the data collection process, all necessary steps are taken to ensure that data is used only according to the purposes that Centaur has clearly stated.
 
