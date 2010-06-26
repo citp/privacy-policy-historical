@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marriott.co.uk privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224231709id_/http%3A//www.marriott.co.uk/Channels/globalSites/privacyPolicy/default.mi%3Fcountry%3DUK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriott.co.uk privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626180628id_/http%3A//www.marriott.co.uk/Channels/globalSites/privacyPolicy/default.mi%3Fcountry%3DUK) for the most accurate reproduction.*
 
-# Marriott Hotels UK & Ireland: Marriott Internet Privacy Statement
+# Marriott® Hotels UK & Ireland: Marriott Privacy Statement
 
 Marriott has a strong commitment to providing excellent service to all of our customers and visitors of this website, including respecting your concerns about privacy. We understand that you may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern Marriott.com and other Marriott sites included within Marriott.com, which are listed in this privacy statement ("Statement").
 
@@ -8,13 +8,15 @@ This Statement contains numerous general and technical details about the steps w
 
 At Marriott, meeting your needs and expectations form the foundation of everything we do -- including protecting your privacy.
 
- If after reviewing this Statement you have any questions or privacy concerns please send an e-mail to [privacy@marriott.com](mailto:privacy@marriott.com) or send a letter to:
+  If after reviewing this Statement you have any questions or privacy concerns please send an e-mail to [privacy@marriott.com](mailto:privacy@marriott.com) or send a letter to:
 
   Marriott International, Inc  
-Att: Information Protection, Dept. 52.923.26  
+Att: Information Protection, Dept. 52/995.63  
 10400 Fernwood Road  
 Bethesda, MD 20817  
-United States of America  
+United States of America
+
+This Statement was last updated on **April 14, 2010** to describe the new Click to Chat feature and change the department number in the contact address. In the future, we may need to make additional changes. All changes will be highlighted here so that you will always understand our current practices with respect to the information we gather, how we might use that information and disclosure of that information to third parties.  
   
 ---  
 | Information We Collect and How We Use It  
