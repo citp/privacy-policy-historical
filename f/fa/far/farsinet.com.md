@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farsinet.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226043351id_/http%3A//www.farsinet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farsinet.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626111533id_/http%3A//www.farsinet.com/privacy.html) for the most accurate reproduction.*
 
 # FarsiNet Privacy Statement
 
