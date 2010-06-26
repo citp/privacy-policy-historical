@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211205650id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626102905id_/http%3A//www.starwars.com/privacy) for the most accurate reproduction.*
 
 # StarWars.com | Privacy Policy
 
 **Lucas Online** **WELCOME!**
+
+[](http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&sealid=101) [](http://www.truste.org/ivalidate.php?companyName=LucasFilm%20Ltd.&sealid=105&ctv_group=Children)
 
 We are committed to respecting the privacy rights of all visitors to our Web site. This Privacy Policy also explains the choices that you can make about the way your information is collected and used. It is available for you to review on our homepage and at least on every page where we have requested personally identifiable information, including from kids under 13. BY USING THIS WEB SITE, YOU SIGNIFY YOUR ASSENT TO THE TERMS OF THIS PRIVACY POLICY. If you do not agree with any term in this Privacy Policy, do not use this Web site. 
 
@@ -219,7 +221,7 @@ Attn: Webmaster
 (415) 623-1113  
 [webmaster@starwars.com](mailto:webmaster@starwars.com)
 
-Or [click here](https://web.archive.org/webapps/registration/feedback/) to submit your questions online. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the TRUSTe Watchdog Dispute Resolution Program at: <http://www.truste.org/consumers/watchdog_complaint.php>. 
+Or [click here](https://web.archive.org/webapps/registration/feedback/) to submit your questions online. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the TRUSTe Watchdog Dispute Resolution Program at: [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://www.truste.org/consumers/watchdog_complaint.php). 
 
 TRUSTe will serve as a liaison with our Web site to resolve your concerns. For additional information about our Web site, please see our [Terms of Use](https://web.archive.org/welcome/about/copyright.html). To see our third-party service providers and/or partners or operators who may collect cookies from this Web site, please view the Privacy Policy: Appendix A, by [clicking here](https://web.archive.org/privacy/index_a.html). Thanks. Have fun! Back to start of Our Privacy Policy. 
 
