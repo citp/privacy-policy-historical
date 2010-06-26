@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolcity.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505011232id_/http%3A//schoolcity.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolcity.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626152130id_/http%3A//www.schoolcity.com/html/privacy.html) for the most accurate reproduction.*
 
 # SchoolCity
 
@@ -33,7 +33,7 @@ The following list has the names, addresses, and phone numbers of the individual
 
 Division: Corporate  
 Contact: Bashkim Berani  
-Address: 506 Clyde Ave., Mountain View, CA 94043 USA  
+Address: 405 Clyde Ave., Mountain View, CA 94043 USA  
 Phone #: 650 934 6160  
 E-Mail: [bashkim@schoolcity.com](mailto:bashkim@schoolcity.com)
 
