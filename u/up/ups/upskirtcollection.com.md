@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upskirtcollection.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222072950id_/http%3A//www.upskirtcollection.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upskirtcollection.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626050400id_/http%3A//upskirtcollection.com/privacy.html) for the most accurate reproduction.*
 
 # OUR COMMITMENT TO PRIVACY
 
