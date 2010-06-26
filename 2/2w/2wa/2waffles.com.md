@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2waffles.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224085803id_/http%3A//2waffles.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2waffles.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626214239id_/http%3A//www.2waffles.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # 2Waffles // Blah Blah Blah
 
