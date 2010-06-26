@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnebrachhold.de privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223184455id_/http%3A//www.arnebrachhold.de/imprint/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnebrachhold.de privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626104432id_/http%3A//www.arnebrachhold.de/imprint/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
