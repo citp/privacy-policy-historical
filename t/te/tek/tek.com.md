@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tek.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616195746id_/http%3A//www.tek.com/Measurement/privacy/privacy_truste.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tek.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626095900id_/http%3A//www.tek.com/Measurement/privacy) for the most accurate reproduction.*
 
 # Tektronix: Privacy > Privacy Statement
 
-[](http://www.truste.org/ivalidate.php?url=www.tek.com&sealid=101)Tektronix, Inc. has created this Privacy Statement in order to demonstrate our company's commitment to privacy. Your right to privacy and data security is a primary concern. 
-
-To reinforce our commitment, we are a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. We have agreed to disclose our privacy practices and have them reviewed for compliance with TRUSTe. The TRUSTe program covers only information that is collected through the tek.com web site, and does not cover information that may be collected through software downloaded from the site. Questions regarding this statement should first be directed to [privacy@tektronix.com](mailto:privacy@tektronix.com). If you are not satisfied with our response, you may contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.
+Tektronix, Inc. has created this Privacy Statement in order to demonstrate our company's commitment to privacy. Your right to privacy and data security is a primary concern. 
 
 When you visit any Tektronix, Inc. Web site, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet sites.
 
@@ -19,7 +17,7 @@ When you visit any Tektronix, Inc. Web site, we help you maintain control over y
 
 #### Information Gathering and Usage
 
-Tektronix gathers information about you from data that you provide through such things as optional or mandatory registration, online surveys, and contests. The types of personal information collected can include name, mailing address, phone number, email address, and transaction information. We may also ask you to provide us with demographic information such as your job function, industry, application, contact preferences or experience with our products. Tektronix may enhance or merge your information collected on our site with other operational data as well as data from third parties for purposes of marketing products or services to you. Such information enables us to better tailor our content to your needs.
+Tektronix gathers information about you from data that you provide through such things as optional or mandatory registration, online surveys, and contests. The types of personal information collected can include name, mailing address, phone number, email address, transaction and credit card information. We may also ask you to provide us with demographic information such as your job function, industry, application, contact preferences or experience with our products. Tektronix may enhance or merge your information collected on our site with other operational data as well as data from third parties for purposes of marketing products or services to you. Such information enables us to better tailor our content to your needs.
 
 The information you provide will be used to support your professional relationship with Tektronix and our products. Among other things, we want to help you quickly find information on Tektronix, Inc. Web sites and alert you to information on our products, services and programs. We also use this information to help you complete a transaction and in some cases to contact you for market research.
 
@@ -61,7 +59,7 @@ In addition, we use Web beacons in some of our HTML-based emails to let us know 
 
 ##### Information Sharing
 
-Tektronix will not share, sell or rent your personal information for promotional purposes and will not disclose your personal information to outside organizations unless they are affiliated with Tektronix. Distributors, rental partners, affiliates, contractors, or other business partners of Tektronix who have access to your personal information use the information in connection with your customer relationship with Tektronix and our products. Contractors use the information to fulfill Tektronix' requirements for such things as shipping goods to customers, and providing information to potential customers.
+Tektronix will not share, sell or rent your personal information for promotional purposes and will not disclose your personal information to outside organizations unless they are affiliated with Tektronix. Distributors, rental partners, affiliates, contractors, or other business partners of Tektronix who have access to your personal information use the information in connection with your customer relationship with Tektronix and our products. Contractors use the information to fulfill Tektronix' requirements for such things as processing credit card purchases, shipping goods to customers, and providing information to potential customers.
 
 ##### Legal Requirements
 
@@ -83,7 +81,7 @@ Back to top
 
 #### Security
 
-Tektronix operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by you. Any particularly sensitive information is encrypted prior to transmission using secure socket layer (SSL) technology. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, we will strive commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can email us at [privacy@tektronix.com](mailto:privacy@tektronix.com).
+Tektronix operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by you. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission using secure socket layer (SSL) technology. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, we will strive commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can email us at [privacy@tektronix.com](mailto:privacy@tektronix.com).
 
 ##### Children's Privacy Protection
 
