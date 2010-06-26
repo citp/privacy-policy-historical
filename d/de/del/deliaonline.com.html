@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deliaonline.com privacy policy that was archived on 2009-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091224200905id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deliaonline.com privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626050432id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,12 +8,26 @@
 <link rel="shortcut icon" href="/Images/siteimages/deliaonline.ico">
 <title>Our privacy policy  - Home - from Delia Online</title>
 <link type="text/css" href="/Css/site.css" rel="stylesheet">
+
+<script type="text/javascript">
+function trackOutbound(loc) {
+    try {
+        pageTracker._trackPageview(loc);
+    } catch(err){
+    }
+}
+</script>
+
 </head>
 <body>
 <div id="outer">
 	<div id="header">
         <!--Header -->
-	 
+	     
+
+<script type="text/javascript" src="/resources/Lib/javascript/jquery.min.js"></script>
+
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -26,50 +40,88 @@ pageTracker._trackPageview();
 </script>
 
 
+<script type="text/javascript">
+	(function($) {
+		//James Padolsey filter extension
+		jQuery.expr[':'].regex = function(elem, index, match) {
+			var matchParams = match[3].split(','),
+				validLabels = /^(data|css):/,
+				attr = {
+					method: matchParams[0].match(validLabels) ? matchParams[0].split(':')[0] : 'attr',
+					property: matchParams.shift().replace(validLabels, '')
+				},
+				regexFlags = 'ig',
+				regex = new RegExp(matchParams.join('').replace(/^\s+|\s+$/g, ''), regexFlags);
+			return regex.test(jQuery(elem)[attr.method](attr.property));
+		}
+
+		$(document).ready(function() {
+			//if (typeof console !== 'undefined') { console.time('jQuery selecting outbound links'); }
+			$('a:regex(href,http://)').click(function(e) {
+				var $a = $(this);
+				if ($a.attr('href').indexOf('http://www.deliaonline.com') < 0 && $a.attr('href').indexOf('http://storedev.delia.redtechnology.com') < 0) {
+					try {
+						pageTracker._trackEvent('Outbound Links', this.href);
+						setTimeout('document.location = "' + this.href + '"', 100);
+						e.preventDefault();
+					} catch (err) { }
+				}
+			});
+			//if (typeof console !== 'undefined') { console.timeEnd('jQuery selecting outbound links'); }
+		});
+	})(jQuery);
+</script>
 
 
 
+   
+<script type="text/javascript" src="http://content.dl-rms.com/rms/mother/24223/nodetag.js"></script>
+
+       
+            
+           
+              
+       
 
 
 
 <div id="top_banner">
 
 <script type="text/javascript">
-ord=Math.random()*10000000000000000;
-tile=1;
-zones=location.pathname;
-zones=zones.replace(/-/g,"_");
-zones=zones.replace(/%20/g,"_");
-zones=zones.toLowerCase();
-var fzone=zones.substr(0,40);
-if (fzone.indexOf(",")>1){
-var zone=fzone.substr(0,fzone.indexOf(","));}
-else
-{zone=fzone;}
-var rsi_segs = [];
-var segs_beg=document.cookie.indexOf('rsi_segs=');
-if(segs_beg>=0){
-segs_beg=document.cookie.indexOf('=',segs_beg)+1;
-if(segs_beg>0){
-var segs_end=document.cookie.indexOf(';',segs_beg);
-if(segs_end==-1)segs_end=document.cookie.length;
-rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
-}}
-var segQS = rsi_segs.length> 0 ? ";rsi=" + rsi_segs[0] +";" : "";
-for (var i = 1; i <rsi_segs.length && i <20; i++)
-segQS += ("rsi" + "=" + rsi_segs[i] + ";");
+	try {
+		ord=Math.random()*10000000000000000;
+		tile=1;
+		zones=location.pathname;
+		zones=zones.replace(/-/g,"_");
+		zones=zones.replace(/%20/g,"_");
+		zones=zones.toLowerCase();
+		var fzone=zones.substr(0,40);
+		if (fzone.indexOf(",")>1){
+		var zone=fzone.substr(0,fzone.indexOf(","));}
+		else
+		{zone=fzone;}
+		var rsi_segs = [];
+		var segs_beg=document.cookie.indexOf('rsi_segs=');
+		if(segs_beg>=0){
+		segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+		if(segs_beg>0){
+		var segs_end=document.cookie.indexOf(';',segs_beg);
+		if(segs_end==-1)segs_end=document.cookie.length;
+		rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+		}}
+		var segQS = rsi_segs.length> 0 ? ";rsi=" + rsi_segs[0] +";" : "";
+		for (var i = 1; i <rsi_segs.length && i <20; i++)
+		segQS += ("rsi" + "=" + rsi_segs[i] + ";");
+	} catch (err) {}
 </script>
 <!-- begin ad tag (tile='+tile+') -->
-<script language="javascript" type="text/javascript">
-(function(){
-	document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp'+zone+';loc=value;tile='+tile+';dcopt=ist;sz=728x90;'+segQS+'ord=' + ord + '?" type="text/javascript"><\/script>');
+<script language="JavaScript" type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp'+zone+';loc=value;tile='+tile+';dcopt=ist;sz=728x90;'+segQS+'ord=' + ord + '?" type="text/javascript"><\/script>');
 tile++;
-})();
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp/web/20091224200905id_/http%3a//www.deli;loc=value;tile=1;dcopt=ist;sz=728x90;ord=1666141509447907?" type="text/javascript"></script>
-<noscript>
-<a href="http://ad.uk.doubleclick.net/jump/delion.otp'+zone+';loc=value;tile='+tile+';sz=728x90;'+segQS+'ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/delion.otp'+zone+';loc=value;tile='+tile+';sz=728x90;'+segQS+'ord=123456789?" width="728" height="90" border="0" alt="" /></a>
-</noscript>
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp/web/20100626050432id_/http%3a//www.deli;loc=value;tile=1;dcopt=ist;sz=728x90;ord=5220222619040309?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/delion.otp'+zone+';loc=value;tile='+tile+';sz=728x90;'+segQS+'ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/delion.otp'+zone+';loc=value;tile='+tile+';sz=728x90;'+segQS+'ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
 <!-- End ad tag -->
+
+
 
 </div>
 
@@ -136,7 +188,7 @@ tile++;
               
                  
                          
-             <a href="http://www.deliaonline.com/news-and-features/40-years-of-delia_.html" title="Celebrating in 40 years in cooking"> <img class="float_right" src="/Images/SiteImages/banner_celebrate_40y_cooking.gif" alt="Celebrating in 40 years in cooking"></a>
+             <a href="http://www.deliaonline.com/news-and-features/waitrose.html" title="Delia's partnership with Waitrose"> <img class="float_right" src="/Images/SiteImages/DeliaRedImage120x135.jpg" alt="Delia's partnership with Waitrose"></a>
                
              
                        
@@ -144,10 +196,10 @@ tile++;
                    
                         
                 
-                <img class="quicklink-img" src="/Images/DO-Months/DO-12.gif" alt="December">  
+                <img class="quicklink-img" src="/Images/DO-Months/DO-6.gif" alt="June">  
                                   
                   
-                   <ul> <li><a href="/news-and-features/new-features.html" title="Exciting new features for Delia Online: find out more!"> Exciting new features for Delia Online: find out more!</a></li> <li><a href="/news-and-features/all-delias-christmas-recipes.html" title="Christmas recipes from poultry to party food"> Christmas recipes from poultry to party food</a></li> <li><a href="/competitions" title="Cakes, gift sets and more: enter our fantastic free competitions"> Cakes, gift sets and more: enter our fantastic free competitions</a></li> <li><a href="/news-and-features/delia-video.html" title="Watch Delia talking about Christmas..."> Watch Delia talking about Christmas...</a></li></ul>
+                   <ul> <li><a href="http://www.deliaonline.com/home/coupons.html " title="Love a bargain? Visit our coupons page..."> Love a bargain? Visit our coupons page...</a></li> <li><a href="/news-and-features/cheat-summer-menu.html" title="cheat menu"> NEW! Let's cheat: easy summer menu for 4</a></li> <li><a href="/competitions" title="Win a Parma ham recipe book, hampers and a treat from Grand Marnier..."> Win a Parma ham recipe book, hampers and a treat from Grand Marnier...</a></li> <li><a href="/recipes/what-should-you-be-cooking-this-month" title="Ingredients you really should be eating this month..."> Ingredients you really should be eating this month...</a></li></ul>
                 </div>
                	
                 
@@ -208,10 +260,10 @@ function validateSearchBox(SearchBoxID)
                     <!-- Recipes and Ingredients by -->
                     <div id="left_nav">
                    <ul>
-<h4 class="recipes">Recipes by</h4><div class="border">&nbsp;</div><li><a href=" /recipes/cuisine" title="Cuisine">Cuisine</a></li><li><a href=" /recipes/type-of-dish" title="Type of Dish">Type of Dish</a></li><li><a href=" /recipes/main-ingredient" title="Main Ingredient">Main Ingredient</a></li><li><a href=" /recipes/galleries" title="Galleries">Galleries</a></li><li><a href=" /recipes/what-should-you-be-cooking-this-month" title="What should you be cooking this month?">What should you be cooking this month?</a></li></ul>
+<h4 class="recipes">Recipes by</h4><div class="border">&nbsp;</div><li><a href=" /recipes/what-should-you-be-cooking-this-month" title="What should you be cooking this month?">What should you be cooking this month?</a></li><li><a href=" /recipes/cuisine" title="Cuisine">Cuisine</a></li><li><a href=" /recipes/type-of-dish" title="Type of Dish">Type of Dish</a></li><li><a href=" /recipes/main-ingredient" title="Main Ingredient">Main Ingredient</a></li><li><a href=" /recipes/galleries" title="Collection">Collection</a></li></ul>
 
                     <ul>
-<h4 class="ingredients">Ingredients by</h4><div class="border">&nbsp;</div><li><a href=" /ingredients/in-season" title="In Season">In Season</a></li><li><a href=" /ingredients/ingredients-a-z" title="Ingredients A-Z">Ingredients A-Z</a></li></ul>
+<h4 class="ingredients">Ingredients by</h4><div class="border">&nbsp;</div><li><a href=" /ingredients/ingredients-a-z" title="Ingredients A-Z">Ingredients A-Z</a></li><li><a href=" /ingredients/in-season" title="In Season">In Season</a></li></ul>
 
                     </div>
                     <!--Recipes and Ingredients by end -->
@@ -219,16 +271,81 @@ function validateSearchBox(SearchBoxID)
                     
 
 
+ <script language="javascript" type="text/javascript">
+    function validateemail(){
+        if ((document.frm_signup.email.value == "") || (document.frm_signup.email.value == "email address")){
+            alert("Please enter an email address.");
+            return false;
+        }else{
+            return echeck(document.frm_signup.email.value);
+        }
+    }
+ </script>
+ <script language="Javascript">
+/**
+ * DHTML email validation script. Courtesy of SmartWebby.com (http://www.smartwebby.com/dhtml/)
+ */
+
+function echeck(str) {
+
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		   alert("Invalid E-mail Address")
+		   return false
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		   alert("Invalid E-mail Address")
+		   return false
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		    alert("Invalid E-mail Address")
+		    return false
+		}
+
+		 if (str.indexOf(at,(lat+1))!=-1){
+		    alert("Invalid E-mail Address")
+		    return false
+		 }
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		    alert("Invalid E-mail Address")
+		    return false
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+		    alert("Invalid E-mail Address")
+		    return false
+		 }
+		
+		 if (str.indexOf(" ")!=-1){
+		    alert("Invalid E-mail Address")
+		    return false
+		 }
+
+ 		 return true					
+	}
+</script>
 <div id="newsleter_signup">
  
  <p>
- <img src="/Images/ContentPageImages//newsletter%20giveaways/HomepageBottles150.jpg" class="float_right" alt=""></p><p>Win a&nbsp;case of Languedoc wine worth £150 in&nbsp;our 22 Dec newsletter!<strong>&nbsp;</strong>&nbsp;<a href="/news-and-features/receive-our-free-newsletter.html">Click here for details</a></p> <p></p>
-                
+ <a href="/news-and-features/receive-our-free-newsletter.html">
+ <img src="/Images/ContentPageImages//newsletter%20giveaways/Nevella150.jpg" class="float_right" alt="">
+ </a>
+ </p><p>Win a spa pamper day from&nbsp;Nevella® with Probiotics in our&nbsp;6 July&nbsp;newsletter...<strong>&nbsp;</strong>&nbsp;<a href="/news-and-features/receive-our-free-newsletter.html">Click here for details</a></p> 
+ 
+ <p></p>
+
  
 
 
-     <form action="/home/our-privacy-policy.html" method="post" id="frm_signup" name="frm_signup">
-      <input type="hidden" name="action" id="action" value="1">
+     <form action="/register.html" method="post" id="frm_signup" name="frm_signup" onsubmit="return validateemail() ;">
+      <input type="hidden" name="action" id="action" value="0">
       <input type="hidden" name="group" id="group" value="3">
       <p>
       <input type="text" name="email" id="email" value="email address" maxlength="128" onfocus="javascript:this.value=''">
@@ -265,16 +382,18 @@ function validateSearchBox(SearchBoxID)
               
                     <!--Sign up end -->
                      <!---Adds by Google -->
-                    <script type="text/javascript"><!--
-google_ad_client = "pub-7834729564319779";
-/* 120x240, created 17/03/09 */
-google_ad_slot = "4277127203";
-google_ad_width = 120;
-google_ad_height= 240;
+                    <script type="text/javascript">
+<!--
+	try {
+		google_ad_client = "pub-7834729564319779";
+		/* 120x240, created 17/03/09 */
+		google_ad_slot = "4277127203";
+		google_ad_width = 120;
+		google_ad_height= 240;
+	} catch(err) {}
 //-->
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
                     <!--Adds by Google end -->
                     </div> 
                      
@@ -305,29 +424,66 @@ google_ad_height= 240;
                        
                     <div class="right_bar">
                     <!--MPU Advertisement -->
-                    <!-- begin ad tag (tile='+tile+') -->
+                    
+
+<script type="text/javascript">
+	try {
+		ord = Math.random() * 10000000000000000;
+		tile=1;
+
+		//zones = 'www.deliaonline.com';
+
+		zones = location.pathname;
+		zones = zones.replace(/-/g, "_");
+		zones=zones.replace(/%20/g,"_");
+		zones=zones.toLowerCase();
+
+		var fzone=zones.substr(0,40);
+		if (fzone.indexOf(",")>1){
+		var zone=fzone.substr(0,fzone.indexOf(","));}
+		else
+		{zone=fzone;}
+		var rsi_segs = [];
+		var segs_beg=document.cookie.indexOf('rsi_segs=');
+		if(segs_beg>=0){
+		segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+		if(segs_beg>0){
+		var segs_end=document.cookie.indexOf(';',segs_beg);
+		if(segs_end==-1)segs_end=document.cookie.length;
+		rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+		}}
+		var segQS = rsi_segs.length> 0 ? ";rsi=" + rsi_segs[0] +";" : "";
+		for (var i = 1; i <rsi_segs.length && i <20; i++)
+		segQS += ("rsi" + "=" + rsi_segs[i] + ";");
+	} catch (err) { }
+</script>
+
+<!-- begin ad tag (tile='+tile+') -->
 <script language="JavaScript" type="text/javascript">
-(function(){
-	document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp'+zone+';loc=value;tile='+tile+';sz=300x250;'+segQS+'ord=' + ord + '?" type="text/javascript"><\/script>');
-tile++;
-})();
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp/web/20091224200905id_/http%3a//www.deli;loc=value;tile=2;sz=300x250;ord=1666141509447907?" type="text/javascript"></script>
-<noscript><a href="http://ad.uk.doubleclick.net/jump/delion.otp'+zone+';loc=value;tile='+tile+';sz=300x250;'+segQS+'ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/delion.otp'+zone+';loc=value;tile='+tile+';sz=300x250;'+segQS+'ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+	try {
+		document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp' + zone + ';loc=value;tile=' + tile + ';sz=300x250,300x600;' + segQS + 'ord=' + ord + '?" type="text/javascript"><\/script>');
+		tile++;
+	} catch (err) { }
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp/web/20100626050432id_/http%3a//www.deli;loc=value;tile=1;sz=300x250,300x600;ord=1857924184486068.2?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/delion.otp'+zone+';loc=value;tile='+tile+';sz=300x250,300x600;'+segQS+'ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/delion.otp'+zone+';loc=value;tile='+tile+';sz=300x250,300x600;'+segQS+'ord=123456789?" alt=""></a></noscript>
 <!-- End ad tag -->
 
+<script type="text/javascript" language="javascript" src="http://js.revsci.net/gateway/gw.js?csid=D05509" charset="ISO-8859-1"></script>
+<script type="text/javascript">
+	try {
+        DM_tag();
+       } catch (err) { }
+</script>
                     <!--MPU Advertisement -->   
                     <!-- long advert -->
                     
 <div id="sky_scraper">
 <!-- begin ad tag (tile='+tile+') -->
 <script language="JavaScript" type="text/javascript">
-(function(){
-	document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp'+zone+';loc=value;tile='+tile+';sz=120x600;'+segQS+'ord=' + ord + '?" type="text/javascript"><\/script>');
+document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp'+zone+';loc=value;tile='+tile+';sz=120x600;'+segQS+'ord=' + ord + '?" type="text/javascript"><\/script>');
 tile++;
-})();
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp/web/20091224200905id_/http%3a//www.deli;loc=value;tile=3;sz=120x600;ord=1666141509447907?" type="text/javascript"></script>
-<noscript><a href="http://ad.uk.doubleclick.net/jump/delion.otp'+zone+';loc=value;tile='+tile+';sz=120x600;'+segQS+'ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/delion.otp'+zone+';loc=value;tile='+tile+';sz=120x600;'+segQS+'ord=123456789?" width="120" height="600" border="0" alt=""></a></noscript>
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp/web/20100626050432id_/http%3a//www.deli;loc=value;tile=2;sz=120x600;ord=1857924184486068.2?" type="text/javascript"></script><noscript><a href="http://ad.uk.doubleclick.net/jump/delion.otp'+zone+';loc=value;tile='+tile+';sz=120x600;'+segQS+'ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/delion.otp'+zone+';loc=value;tile='+tile+';sz=120x600;'+segQS+'ord=123456789?" width="120" height="600" border="0" alt=""></a></noscript>
 <!-- End ad tag -->
+
 </div>
 
                     <!-- long advert end -->
@@ -370,16 +526,29 @@ tile++;
          
          
          <!-- begin ad tag (tile='+t -->
-<script language="JavaScript" type="text/javascript">
-document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp'+zone+';sz=1x1;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp/web/20091224200905id_/http%3a//www.deli;sz=1x1;ord=1666141509447907?" type="text/javascript"></script>
-<noscript><a href="http://ad.uk.doubleclick.net/jump/delion.otp'+zone+';sz=1x1;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/delion.otp'+zone+';sz=1x1;ord=123456789?" width="1" height="1" border="0" alt=""></a></noscript>
+<script language="javascript" type="text/javascript">
+try {document.write('<script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp'+zone+';sz=1x1;ord=' + ord + '?" type="text/javascript"><\/script>');
+} catch(err) {}</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/delion.otp/web/20100626050432id_/http%3a//www.deli;sz=1x1;ord=1857924184486068.2?" type="text/javascript"></script>
+<noscript><a href="http://ad.uk.doubleclick.net/jump/delion.otp'+zone+';sz=1x1;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/delion.otp'+zone+';sz=1x1;ord=123456789?" width="1" height="1" border="0" alt="" /></a></noscript>
 <!-- End ad tag -->
 
         <!--footerend-->
      
     </div>
       <!-- start Vibrant Media IntelliTXT script section --><script type="text/javascript" src="http://deliaonline.uk.intellitxt.com/intellitxt/front.asp?ipid=9776"></script><!-- end Vibrant Media IntelliTXT script section -->
+   <!--Click density -->
+    
+
+<script type="text/javascript" src="http://j.clickdensity.com/cr.js"></script>
+<script type="text/javascript">
+	//<![CDATA[
+	try {
+		var clickdensity_siteID = 14171;
+		var clickdensity_keyElement = 'kvalue';
+	} catch(err) {}
+	//]]>
+</script>
+
 
 
 
