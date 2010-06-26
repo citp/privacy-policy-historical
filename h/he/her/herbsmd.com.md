@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the herbsmd.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627000305id_/http%3A//www.herbsmd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbsmd.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626134846id_/http%3A//www.herbsmd.com/privacy.asp) for the most accurate reproduction.*
 
-# HerbsMD - Herbal Privacy Policy
+# HerbsMD.com -The Privacy Policy Statement
 
   
 Privacy Policy **Overview**  
 Simply, We do not sell, rent or share personal information with any third party. The information you give us is totally confidential, and will not be sold or given to any individual or company or organization under any circumstances. 
 
-The privacy practices of this statement apply to our services available under the domain and sub-domains of [herbsmd.com](http://www.herbsmd.com/default.asp). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. 
+The privacy practices of this statement apply to our services available under the domain and sub-domains of [herbsmd.com](https://web.archive.org/default.asp). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. 
 
 The HerbsMD Privacy Policy discloses our privacy practices and contains detailed information about the following:
 
-  1. [What information of yours does the HerbsMD collect?](http://www.herbsmd.com/privacy.asp#1)
-  2. [What organization is collecting the information?](http://www.herbsmd.com/privacy.asp#2)
-  3. [What are "cookies" and how does HerbsMD use them?](http://www.herbsmd.com/privacy.asp#3)
-  4. [How can you access or edit your information?](http://www.herbsmd.com/privacy.asp#4)
-  5. [What types of security procedures are in place to protect against the loss, misuse or alteration of your information?](http://www.herbsmd.com/privacy.asp#5)
+  1. [What information of yours does the HerbsMD collect?](https://web.archive.org/privacy.asp#1)
+  2. [What organization is collecting the information?](https://web.archive.org/privacy.asp#2)
+  3. [What are "cookies" and how does HerbsMD use them?](https://web.archive.org/privacy.asp#3)
+  4. [How can you access or edit your information?](https://web.archive.org/privacy.asp#4)
+  5. [What types of security procedures are in place to protect against the loss, misuse or alteration of your information?](https://web.archive.org/privacy.asp#5)
   6. [Notice  
-](http://www.herbsmd.com/privacy.asp#6)
+](https://web.archive.org/privacy.asp#6)
 
 
 
