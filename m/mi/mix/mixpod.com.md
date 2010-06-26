@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixpod.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221234001id_/http%3A//www.mixpod.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixpod.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626074704id_/http%3A//www.mixpod.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MixPod.com
 
@@ -50,4 +50,4 @@ MixPod may contain links to other web sites. These other sites maintain their ow
 
 ####  Security
 
-We use industry standard security measures to protect your information so that it is not made available to unauthorized parties. If you have any questions regarding which measures and techniques we use, feel free to [contact us](https://web.archive.org/web/20091221234001id_/http%3A//www.mixpod.com/contact.php). 
+We use industry standard security measures to protect your information so that it is not made available to unauthorized parties. If you have any questions regarding which measures and techniques we use, feel free to [contact us](https://web.archive.org/web/20100626074704id_/http%3A//www.mixpod.com/contact.php). 
