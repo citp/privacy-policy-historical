@@ -1,92 +1,69 @@
-> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228105833id_/http%3A//yourluckynumbers.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626105541id_/http%3A//www.yourluckynumbers.com/Privacy.asp) for the most accurate reproduction.*
 
-# YourLuckyNumbers.com - Privacy Policy
+# Privacy Policy - YourLuckyNumbers.com
 
-##  YourLuckyNumbers's Privacy Principles 
+**Privacy Policy**
 
-  * Your privacy is protected at YourLuckyNumbers.
-  * You control your personal information. 
-  * You can end your membership at any time. 
-  * We will never disclose your personal information to any third party unless you expressly tell us to. 
+February 12th 2010
 
+Thank you for visiting the yourluckynumbers.com website located at yourluckynumbers.com (the "Website", "we", "us"). We provide this notice in an effort to explain our online information practices and the choices available to you concerning the way that we use the information collected online at this Website.
 
+We collect your personally identifiable information when you sign up to receive products and/or services at the Website. We may also collect your personally identifiable information when you otherwise agree to the terms of this Privacy Policy at this Website, but do not complete the full registration process. The types of personally identifiable information that we may collect at this Website, during registration and when you make a purchase include, without limitation, your name, street address, e-mail address and telephone number. In addition, we may request information about your use of, or interest in, the types of products and services offered by the third-party advertisers with whom we have partnered to offer you the products and services available at this Website.
 
-YourLuckyNumbers is an online media company that brings you strategies to winning the lottery and lottery results. 
+Any personal information that you submit at the Website remains your property. However, by submitting that information to us, you grant to us the right to use your personal information for any legal purpose including, without limitation:
 
-We want to help you win the lotto and provide you with the best strategies to optimize your lottery playing . So, we enter into a voluntary relationship with you where we provide you numbers to play , strategies as well as lottery results so you have a system to follow when playing lottery .We also bring to you lottery related offers and tools related to playing the lottery .Our goal is to help you win as much as possible playing local and national lotteries . We Do not sell lottery tickets or in any way affiliated with any lottery. Questions regarding this statement should be directed to YourLuckyNumbers's Privacy Director at YourLuckyNumbers.com 90 60 E 42nd Street Suite 449 NY NY 10165, .
+a. effectuating a purchase from us that you make at the Website;  
+b. transferring your personal information to a third party to effectuate a purchase from a third party advertiser at the Website;  
+c. marketing purposes such as sharing your information with third party advertisers;  
+d. providing promotional offers to you by means of e-mail advertising, telemarketing, direct mail marketing, pop-ups, pop-unders and/or online banner advertising;  
+e. tracking compliance with our Terms and Conditions;  
+f. for validation, suppression, content improvement and feedback purposes.
 
-## What types of information does YourLuckyNumbers collect?
+You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Website. We also reserve the right to release current or past member information in the event that we believe that this Website is being or has been used to commit unlawful acts, if the information is subpoenaed, if we are sold or acquired or when we otherwise deem it necessary or appropriate in our sole discretion.
 
-Information Collection
+In addition, you agree that by submitting your personal information at the Website, such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the ATSR. Moreover, by registering with, making a purchase from, or requesting information from, a third party advertiser at or through the Website, such action shall constitute a purchase, an inquiry and/or an application with the respective third party advertiser for purposes of the ATSR and you may be contacted via e-mail, direct mail and/or telephone by such third party advertiser in accordance with the ATSR.
 
-  * We collect personal information from you only when you choose to share it with us, such as when you sign up for lottery results or when you order YourLuckyNumbers service.
-  * We may also combine information we have about you with information we receive from business partners or other companies. Our goal is to provide you, the user, with great service and products, and a customer-friendly experience using our service and on our site. This includes online shopping, interactive communications, and many other types of services.
-  * We collect personal information from you as follows: 
-    * When you place an order with us for YourLuckyNumbers service, we ask for your name, email address, home address, and contact information. We also ask for payment information such as your credit card number, expiration date and billing address.
-    * When you subscribe to receive Lottery Results, we ask for your name and email address.
-    * We also collect information from YourLuckyNumbers Customer Service and Affiliate Sign-Up forms and such information is used for the purpose for which it was collected, such as to communicate with you regarding your order.
-  * If you choose to use our referral service to tell a friend about our site, we will ask you for your friends' name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not store this information and it is used for the sole purpose of sending this one-time email. 
-  * Cookies: YourLuckyNumbers automatically receives and records certain non-personal information about your visit through the use of cookies. Cookies are files that your Web browser places on your computer's hard drive. Information collected includes your IP address, your referral source, and the page(s) you request. 
-  * Generally, we use cookies to: 
-    * Fulfill your requests for products and services, and improve our services. 
-    * Remind us of who you are on return visits in order to deliver to you a better and more personalized service. This cookie is set when you first visit our Web site. 
-    * Estimate our audience size and measure traffic patterns regarding usage of YourLuckyNumbers' network of Web sites. Each browser accessing YourLuckyNumbers is given a unique cookie which is then used to determine the extent of repeat usage and usage by a registered user versus by an unregistered user.
-    * Track the number of entries in our promotions. 
-    * Customize the advertising and content you see. 
-  * If you are uncomfortable having a cookie placed on your system, you may elect to turn off the cookie or delete existing cookies in your browser. If you turn off or delete the YourLuckyNumbers cookie, you may not be able to receive special offers or personalized content from YourLuckyNumbers. 
-  * We use a tracking service that uses cookies to track and analyze aggregate user movement. We also use tracking clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+We may share with third party advertisers certain Website usage information of individuals that have received targeted promotional campaigns for the purpose of formatting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we may track some of the pages that you visit on our Website through the use of pixel tags (also called clear gifs). By submitting information at and/or registering at this Website, you agree to allow us to share such Website usage information with third parties. 
 
+**Third Party Links**
 
+We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the third party advertisers that may advertise at this Website. The entities that advertise and/or place banner ads at this Website including, but not limited to, these third party advertisers, are independent third parties and are not affiliated with us. 
 
-## How does YourLuckyNumbers use or disclose my information?
+**Your Choices**
 
-Communications from the Site
+During registration and/or when you submit personally identifiable information to us at the Website, you have opted-in to request that we share your personal information with third parties to receive marketing communications. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out from receiving any additional email communications regarding this website, [contact us](http://yourluckynumbers.com/contactus/). 
 
-  * Welcoming Email:   
-Upon sign up for any YourLuckyNumbers service, we will send you YourLuckyNumbers welcoming email. 
-  * Product Notifications:   
-We will send you information on products you select during sing up (i.e: Lottery Results).
-  * Special Offers and Updates:   
-We will occasionally send you information on special deals, services and promotions. You can select not to receive these types of communications by accessing "My Account" page. We also provide clear instructions on how to opt-out in a welcoming email and in any subsequent correspondence you may receive.
-  * Newsletters:  
-We will use your name and e-mail address to send the newsletters to you. You can select not to receive these types of communications by accessing "My Account" page. We also provide clear instructions on how to opt-out in a welcoming email and in any subsequent correspondence you may receive.
-  * Service-related Announcements:   
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
-  * Customer Service:   
-Based upon the information you provide us, we will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+Some of the services that we provide will result in sending an SMS, wireless or other mobile offering to your cell phone. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier's standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send "STOP", "END", "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third parties. 
 
+**SMS, Wireless and Other Mobile Offerings**
 
+Some of our services use SMS as a channel for live data transferring and different notifications connected with the work of this service. As being registered you agree to get such kind of SMS messages and also promotional SMS messages on the cell number you've entered while registration. You understand that your wireless carrier's rates may apply to these messages. If you would like to stop receiving our our services through SMS you can unsubscribe by sending "STOP", "END", "QUIT" to the SMS text message you have received. 
 
-Information Sharing and Customer Choice
+**Non-Personaly Identifiable Information**
 
-We do not rent, sell, or share personal information about you with other people or nonaffiliated companies except following: 
+We may collect certain non-personally identifiable information about you when you visit many of the pages of this Website. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Netscape, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
-  * We use credit card processors to provide services on our behalf. When you sign up for YourLuckyNumbers and use our services, we will share your credit card and payment data as necessary for our credit card processors to provide that service. YourLuckyNumbers's credit card processors are prohibited from using your personally identifiable information for any other purpose. 
-  * In rare cases we may use third party providers for customer email communications. In such cases your personal information (i.e: Email, FirstName, LastName) will be provided to our trusted partners under confidentiality agreements. These companies are acting on behalf of YourLuckyNumbers, and may not use, sell or share this information for their own purposes. Personal information provided to our trusted partners will never include credit card or payment information. 
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
-  * We share information we believe is needed in order to investigate, prevent, or take action regarding suspected illegal activities, actual fraud, potential threats to the physical safety of any person, violations of our Terms and Conditions, or as otherwise required by law. 
-  * We transfer information about you if YourLuckyNumbers is acquired by or merged with another company. In this event, we will notify you if information about you is transferred and becomes subject to a different privacy policy. 
-  * You may access and update your personal information from the "My Account" page of the YourLuckyNumbers website.
+We use the non-personally identifiable information that we collect to improve the design and content of our Website and to enable us to personalize your Internet experience. We also may use this information to analyze Website usage, as well as to offer you products and services. We also reserve the right to use aggregate or group data about our visitors for lawful purposes. Aggregate or group data is data that describes the demographics, usage and/or characteristics of our visitors as a group. By visiting and/or supplying your personal information at this Website, you agree to allow us to provide such data to third parties.
 
+We also may use "cookies" to enhance your experience in using our Website. Cookies are text files that we place in your computer's browser to store your preferences. We use cookies to understand Website usage, to personalize your experience, and to improve the content and offerings on our Website. 
 
+**Minors**
 
-## Confidentiality and Security
+We do not knowingly collect information from minors under the age of 18. No information should be submitted to, or posted at, this Website by individuals under 18 years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. 
 
-  * We limit access to personal information about you to employees or contractors who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
-  * Your YourLuckyNumbers Account Information is password-protected.
-  * In certain areas YourLuckyNumbers uses industry-standard SSL encryption to protect data transmissions.
+**Security**
 
+We employ industry standard security measures designed to safeguard against unauthorized access to information that we collect online. However, we disclaim all liability for failures of our systems.
 
+California Civil Code Section 1798.83 enables California residents who have provided PII to US, and/or to a third party who has then shared such information with US, to request information regarding our disclosure of such PII information to third parties. Within thirty days of receipt of such a request, we will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. We reserve the right not to honor and/or respond to such requests that are not sent to the address below.
 
-## Changes to this Privacy Policy
+yourluckynumbers.com  
+49 East 41 street  
+Suite 449  
+New York, NY 10165 
 
-  * YourLuckyNumbers may update this policy. If we decide to change our privacy policy, we will post those changes to this privacy policy Web site, the YourLuckyNumbers Web site, and other places we deem appropriate so our customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-  * In the event YourLuckyNumbers materially changes the way it collects or uses personally identifiable information, we will notify users via email or by posting a notice on our Web site for 30 days. Questions and Suggestions
-  * If you have questions or suggestions, please contact us at: YourLuckyNumbers.com Customer Care – Privacy Policy Issues 60 E 42nd Street Suite 449 NY NY 10165 
+**Acceptance**
 
+By using the Website and/or agreeing to receive information via e-mail from us, you agree to this Privacy Policy. We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
 
-
-## What else should I know about my privacy?
-
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. The few YourLuckyNumbers employees who have access to personal data are trained to comply with the above privacy policy and made aware of any updates or modifications. 
+© 2009-2010 yourluckynumbers.com. All rights reserved.
