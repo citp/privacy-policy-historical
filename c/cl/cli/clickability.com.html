@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clickability.com privacy policy that was archived on 2009-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091209033731id_/http%3A//www.clickability.com/Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clickability.com privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626070402id_/http%3A//www.clickability.com/Privacy_Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -13,7 +13,6 @@
 	<link rel="shortcut icon" href="http://media.cmssuccess.com/designimages/favicon.ico">
      
 
-	
 <script type="text/javascript" src="/g/js/prototype.js"></script>
 <script type="text/javascript">
 
@@ -334,8 +333,25 @@
 		},
 		
 		buildComment: function(response){
+						Comment.name = null;
+			Comment.website = null;
+			Comment.title = null;
+			Comment.comment = null;
+			Comment.email = null;
+			Comment.rating = null;
+			Comment.ratingType = null;
+			Comment.commentType = null;
+			Comment.flagged = false;
+			Comment.isAuthor = false;
+			Comment.error = null;
+			Comment.status = null;
+			Comment.level = 0;
+			Comment.parentID = 0;
+			Comment.threadID = 0;
+			Comment.id = 0;
+			Comment.extID = null;		
+		
 			if(response.success == true){
-				Comment.id = response.id;
 				Comment.name = response.name;
 				Comment.comment = response.comment;
 				Comment.email = response.email;
@@ -352,6 +368,11 @@
 				} else if(Comment.status != "APPROVED") {
 					Comment.flagged = true;
 				}
+			    Comment.id = response.id;
+			    Comment.threadID = response.threadID;
+			    Comment.parentID = response.parentID;
+			    Comment.level = response.level;
+			    Comment.extID = response.extID;
 			} else {
 				Comment.error = response.error;
 			}
@@ -359,7 +380,6 @@
 		
 		nullifyComment: function(response){
 			if(response.success == true){
-				Comment.id = response.id;
 				Comment.comment = null;
 				Comment.email = null;
 				Comment.website = null;
@@ -367,16 +387,42 @@
 				Comment.isAuthor = null;
 				Comment.flagged = null;
 				Comment.status = null;
+				Comment.id = 0;
+			    Comment.threadID = 0;
+			    Comment.parentID = 0;
+			    Comment.level = 0;
+			    Comment.extID = null;
 			} else {
 				Comment.error = response.error;
 			}
 		}
 	}	
 	
-	var p;
+	var Clickability = Clickability || {};
+	Clickability.SMTK = {
+		kP : 0,
+		aT : 0,
+		myInterval : null,
+		xPos : -1,
+		yPos : -1,
+		firstX : -1,
+		firstY : -1,
+		intervals : 0,
+		cid :  15376981 ,
+		did :  426684 ,
+		d : 0,
+		mT : 0
+	}
+	Clickability.SMTK.myInterval = window.setInterval(timedMousePos,250);
+	document.onkeypress = lK;
+	window.onload = rAT;
+
+		Clickability.Comment = Comment;
+		
+		var p;
 	var kP = 0;
 	var	aT = 0;
-	var myInterval = window.setInterval(timedMousePos,250);
+	var myInterval = Clickability.SMTK.myInterval;
 	var xPos = -1;
 	var yPos = -1;
 	var firstX = -1;
@@ -384,68 +430,66 @@
 	var intervals = 0;
 	var d = 0;
 	var mT = 0;
-	document.onkeypress = lk;
-	window.onload = rAT;
 	var cid =  15376981 ;
 	var did =  426684 ;	
 	
 	function getMousePos(p) {
 		if(!p)var p = window.event;
 		if (p.pageX || p.pageY) {
-			xPos = p.pageX;
-			yPos = p.pageY;
+			Clickability.SMTK.xPos = p.pageX;
+			Clickability.SMTK.yPos = p.pageY;
 		} else if (p.clientX || p.clientY) {
-			xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
-			yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
+			Clickability.SMTK.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
+			Clickability.SMTK.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
 		}
 	}
 
 	
-	function lk() {	
-		kP++;
+	function lK() {	
+		Clickability.SMTK.kP++;
 	}
 
 	function rAT() {
-		aT = new Date();
+		Clickability.SMTK.aT = new Date();
 	}
 		
 	function timedMousePos() {
 		document.onmousemove = getMousePos;
-		if (xPos >= 0 && yPos >= 0) {
-			var newX = xPos;
-			var newY = yPos;
-			intervals++;
+		if (Clickability.SMTK.xPos >= 0 && Clickability.SMTK.yPos >= 0) {
+			var newX = Clickability.SMTK.xPos;
+			var newY = Clickability.SMTK.yPos;
+			Clickability.SMTK.intervals++;
 		}
-		if (intervals == 1) {
-			firstX = xPos;
-			firstY = yPos;
-		} else if (intervals == 2) {
-			clearInterval(myInterval);
-			calcDistance(firstX,firstY,newX,newY);	
+		if (Clickability.SMTK.intervals == 1) {
+			Clickability.SMTK.firstX = Clickability.SMTK.xPos;
+			Clickability.SMTK.firstY = Clickability.SMTK.yPos;
+		} else if (Clickability.SMTK.intervals == 2) {
+			clearInterval(Clickability.SMTK.myInterval);
+			calcDistance(Clickability.SMTK.firstX,Clickability.SMTK.firstY,newX,newY);	
 		}
 	}
 
 
 	function calcDistance(aX,aY,bX,bY){
-		mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
+		Clickability.SMTK.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
 	}
 	
 	function getFieldsForForm(){
 		var sT = new Date();
-		d = sT - aT;
+		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
 		var queryString = "&";
-		queryString += "mT=" + mT;
-     	queryString += "&d=" + d;
-     	queryString += "&kP=" + kP;
-     	if(cid)queryString += "&cid=" + cid;
-     	if(did)queryString += "&did=" + did;
+		queryString += "mT=" + Clickability.SMTK.mT;
+     	queryString += "&d=" + Clickability.SMTK.d;
+     	queryString += "&kP=" + Clickability.SMTK.kP;
+     	if(Clickability.SMTK.cid)queryString += "&cid=" + Clickability.SMTK.cid;
+     	if(Clickability.SMTK.did)queryString += "&did=" + Clickability.SMTK.did;
      	queryString += "&socialMedia=Y";
 	    return queryString;
 	}
 		
 	function addFieldsToForm(formObj, redirect) {
 		var sT = new Date();
-		d = sT - aT;
+		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
 		var mTField = document.createElement('input');
 		var dField = document.createElement('input');
 		var kPField = document.createElement('input');
@@ -479,11 +523,11 @@
   			pathField.value = redirect;
   			formObj.appendChild(pathField);
   		}
-  		mTField.value = mT;
-		dField.value = d;
-		kPField.value = kP;
-		cidField.value = cid;
-		didField.value = did;
+  		mTField.value = Clickability.SMTK.mT;
+		dField.value = Clickability.SMTK.d;
+		kPField.value = Clickability.SMTK.kP;
+		cidField.value = Clickability.SMTK.cid;
+		didField.value = Clickability.SMTK.did;
 		socialMedia.value = "Y";
 
 		formObj.appendChild(dField);
@@ -1530,146 +1574,18 @@ RegActions = {
 
 	</script>
 
-		<script type="text/javascript" src="/g/js/prototype.js"></script>
-<script type="text/javascript">
-function editContent(oElement, field_title, content_id) {
-
-	var className = oElement.className; 
-	var left;
-	var top;
-	
-	$('form_container').hide();
-
-	oElement.onclick = function() {
-	
-		var text = oElement.innerHTML;
-		$('text_edit').value = text;		
-		$('close_text').innerHTML =  '<input type="button" title="Click to Cancel" onclick="cancelEdit();" value="Cancel"/><input type="button" title="Click to close" class="close" onclick=previewContent("' + oElement.id + '"); return false;" value="Preview"/>';
-		$('cmsedit_field_text').innerHTML = field_title;
-		$('cmsedit_content_id').innerHTML = content_id;
-		if (left < 180) {
-		 left = (left - (left/2));
-		} else {
-		 left = (left - 154);
-		}
-			
-		$('form_container').setStyle({
-		left: left + 'px',
-		top: (top - 20) + 'px'
-		});
-	$('form_container').show();
-
-	return false;
-	
-	}
- 	
-}
-
-
-function previewContent(node_id) {
-	var modified_text = $('text_edit').value;
-	var original_text = $(node_id).innerHTML;
-	if(modified_text != original_text) {
-	
-		$(node_id).innerHTML = modified_text;
-		$(node_id).addClassName('modified');
 		
-		var mod_div = 'modified_' + node_id;
-		
-		$(mod_div).addClassName('display_action_buttons');
-		$(node_id).addClassName('modified_save');
-		
-	}
-	$('text_edit').value = "";
-	$('form_container').hide();
-	$('close_text').innerHTML = "";
-	
-}
-
-function cancelEdit() {
-	$('text_edit').value = "";
-	$('form_container').hide();
-	$('close_text').innerHTML = "";
-}
-
-</script>
-<style type="text/css">
-	html > body div.cmsedit {
-	border: 2px solid #999999;
-	float: none;
-	padding: 2px;
-	margin: 0px;
-	}
-	
-	.save_ready {
-	border: 2px solid #72e766;
-	z-index: 10;
-	}
-
-	.cmsedit:hover {
-	border: 4px solid #999999;
-	opacity: .50;
-	}
-	
-	html > body div.modified {
-	border: 4px solid #7ACC6D;
-	}
-	
-	.modified:hover	{
-		border: 4px solid #7ACC6D;
-		opacity: 1;
-	}
-	
-	#form_container {
-		z-index: 10;
-		position: absolute;
-		padding: 10px;
-		border: 2px solid #666;	
-		background-color: #fff;
-		width: auto;
-		height: auto;
-	}
-
-	#form_container_header {
-		padding: 5px;
-		font-weight: bold;
-	}
-
-	#text_edit {
-		padding: 5px;
-		border: 1px solid #666;
-		background-color: #fff;
-		width: 450px;
-		height: 300px;
-	}
-	
-	#close_text {
-		padding-left: 170px;
-	}
-</style> 
-	</head><body><div id="form_container" style="display:none">
-		<form action="test_submit" method="get" accept-charset="utf-8" onsubmit="previewContent();">
-			<p id="form_container_header">
-				Content ID:<span id="cmsedit_content_id"></span> <br>
-				Field: <span id="cmsedit_field_text"></span>
-			</p>
-			<textarea id="text_edit">			</textarea><br>
-			<span id="close_text"></span>
-		</form>	
-	</div>
-
 		
 	
     					<script type="text/javascript" src="http://www.clickability.com/templates/browser.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/templates/popovers.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/templates/swfobject.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/templates/flash-embedder-imageTrolly.js"></script>
+					<script type="text/javascript" src="http://www.clickability.com/templates/Corp_Scripts_Template.js"></script>
 			
 						<script type="text/javascript" src="http://www.clickability.com/includes/CLICK_CS.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/includes/json.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/includes/effects.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/includes/accordion.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/includes/Corp_Scripts.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/includes/domrequest.js"></script>
 					<script type="text/javascript" src="http://www.clickability.com/includes/functions.js"></script>
 			
@@ -1748,17 +1664,17 @@ function cancelEdit() {
 
                  <script language="javascript">AC_FL_RunContent = 0;</script>
 		<script src="http://www.clickability.com/includes/AC_RunActiveContent.js" language="javascript"></script>
+					 	   					</head>
+  	<body>  		
 		
- 	   					
-  	
-		<script language="javascript1.2">var trkcid=15376981;var partnerID=426689; var _hb=1;</script><script language="javascript1.2" src="http://www.clickability.com/g/g/button/button_1.js"></script>
+<script language="javascript1.2">var trkcid=15376981;var partnerID=426689; var _hb=1;</script><script language="javascript1.2" src="http://www.clickability.com/g/g/button/button_1.js"></script>
 <script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
 var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=15376981";_q+="&7=426689";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
-function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s/s?19=912";_qc+="&6=15376981";_qc+="&7=426689";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=15376981";_qc+="&7=426689";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s/s?19=990&14=0&6=15376981&7=426689&18=0.7626896370415924">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=15376981&7=426689&18=0.8074059259714794">
 </noscript>
 
 
@@ -1767,13 +1683,13 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
     
 
     
-    
-        <div id="headWrapper">
+    <div id="headerBg">
+       <div id="headWrapper">
             <div id="headLeft">
-                <a href="/"><img src="http://media3.clickability.com/designimages/clk_logo.gif" alt="Clickability" width="168" height="37" border="0"></a>
-                <div id="tagLine">
-                    The Global Leader in On-Demand Web Content Management 
-                </div>
+                <a href="/"><img src="http://media3.clickability.com/designimages/logowhite-med.jpg" alt="Clickability" width="280" height="100" border="0"></a>
+            <!--    <div id="tagLine">
+                    Dynamic Websites. Delivered. 
+                </div> -->
             </div>
             <div id="headRight">
                 <div id="headRightTop">
@@ -1786,7 +1702,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
                                             <input name="keywords" type="text" class="searchClk" value="Search" onfocus="clearDefault(this)">
                                         </td>
                                         <td>
-                                            <input name="submit" type="image" class="submitClk" value="submit" src="http://media3.clickability.com/designimages/submitClk.gif">
+                                            <input name="submit2" type="image" class="submitClk" value="submit" src="http://media3.clickability.com/designimages/submitClk.gif">
                                         </td>
                                     </tr>
                                 </tbody></table>
@@ -1795,23 +1711,23 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
                         <div id="headRightTopLinks">
                             <span class="smallLinksWrapper">
-								<a class="headRightTopNav" href="/company">COMPANY</a>
+							<!--	<a class="headRightTopNav" href="/company">COMPANY</a>
 								/
 								<a class="headRightTopNav" href="/news">NEWS &amp; EVENTS</a>
-								/
+								/ -->
 								<a class="headRightTopNav" href="http://community.clickability.com/support" target="_blank">SUPPORT</a>
 								/
 								<a class="headRightTopNav" href="https://cms.clickability.com/index.html" target="_blank">CMS LOGIN</a>
-								
+								<!--
 								<span class="loggedout">
 									/
-									<a class="headRightTopNav" href="/s?action=login&amp;rurl=http%3A%2F%2Fwww.clickability.com%2Fprofiles">RESOURCES PORTFOLIO</a>
+									<a class="headRightTopNav" href="/s?action=login&rurl=http%3A%2F%2Fwww.clickability.com%2Fprofiles">RESOURCES PORTFOLIO</a>
 								</span>
 						
 								<span class="loggedin">
 									/
 									<span id="curUserName"></span>
-								</span>
+								</span> -->
 							</span>
                         </div>
                     </div>
@@ -1824,12 +1740,9 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
   		
 				
 					
-							<div class="navDivider">
-                <img src="http://media3.clickability.com/designimages/nav_divider.gif">
-            </div>
-			<div class="dropMenuBoxWrapper">
+								<div class="dropMenuBoxWrapper">
 				<ul class="ullevel0">
-					<li class="lilevel0">Partners 					<ul class="ullevel1">	
+					<li class="lilevel0">About 					<ul class="ullevel1">	
 	 					<li class="lilevel1Rev">
 	
 																																																										<ul class="ullevel2">
@@ -1837,35 +1750,28 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 																							<li class="lilevel2Rev">	
 																																																																																	
 																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/partners">Partners Overview</a></div></div>	
+																					<div class="navItemsLeft"><a href="/company">Company</a></div></div>	
 																				
 								</li>
 								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
 																																				<li class="lilevel2Rev">	
 																																																																																	
 																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/partners/technology_partners">Technology Partners</a></div></div>	
+																					<div class="navItemsLeft"><a href="/news">News and Events</a></div></div>	
 																				
 								</li>
 								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
 																																				<li class="lilevel2Rev">	
 																																																																																	
 																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/partners/implementation_partners">Implementation Partners</a></div></div>	
+																					<div class="navItemsLeft"><a href="/partners">Partners</a></div></div>	
 																				
 								</li>
 								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
 																																				<li class="lilevel2Rev">	
 																																																																																	
 																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/partners/agency_partners/">Agency Partners</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2Rev">	
-																																																																																	
-																	 	<div class="navItems">
-																					<div class="navItemsLeft"><a href="/partners/partner_with_us">Partner with Us</a></div></div>	
+																					<div class="navItemsLeft"><a href="/resource/whitepapers">Resources</a></div></div>	
 																				
 								</li>
 														
@@ -1877,8 +1783,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 				
   		
 				
-							<div class="navDivider">
-                <img src="http://media3.clickability.com/designimages/nav_divider.gif">
+					 <div class="navDivider">
+                <img src="http://media3.clickability.com/designimages/nav_divider_white.gif">
             </div>
 			<div class="dropMenuBoxWrapper">
 				<ul class="ullevel0">
@@ -1916,8 +1822,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 				
   		
 				
-							<div class="navDivider">
-                <img src="http://media3.clickability.com/designimages/nav_divider.gif">
+					 <div class="navDivider">
+                <img src="http://media3.clickability.com/designimages/nav_divider_white.gif">
             </div>
 			<div class="dropMenuBoxWrapper">
 				<ul class="ullevel0">
@@ -1969,8 +1875,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 				
   		
 				
-							<div class="navDivider">
-                <img src="http://media3.clickability.com/designimages/nav_divider.gif">
+					 <div class="navDivider">
+                <img src="http://media3.clickability.com/designimages/nav_divider_white.gif">
             </div>
 			<div class="dropMenuBoxWrapper">
 				<ul class="ullevel0">
@@ -1989,16 +1895,38 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 																																				<li class="lilevel2">	
 																																																																														<ul class="ullevel3">
 													<li class="liDividers"><div class="navItemsEnd"></div></li>
-																																					<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/corporate/Technology-Solutions.html">High Technology</a> </div></div> </li>
+																																					<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Manage-Content.html">Content Management</a> </div></div> </li>
 													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/corporate/Financial-Services.html">Financial Services</a> </div></div> </li>
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/social-media.html">Social Media</a> </div></div> </li>
 													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/corporate/Government-Solutions.html">Government</a> </div></div> </li>
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Built-In-Analytics.html">Built-In Analytics</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Marketing-and-Campaign-Management.html">Marketing &amp; Campaign Management</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Multi-site-Management.html">Multi-Site Management</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Manage-Workflow.html">Workflow Management</a> </div></div> </li>
+													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
+																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/solutions/wcm/Multilingual-Publishing.html ">Multilingual Publishing</a> </div></div> </li>
 																																													<li class="liDividers"><div class="navItemsEnd"></div></li>										
 												</ul><!-- end of ullevel3 -->
 																										
 																	 	<div class="navItems">
-																					<div class="navItemsLeftArrow"><a href="/solutions/corporate">Corporate Solutions</a></div></div>
+																					<div class="navItemsLeftArrow"><a href="/solutions/wcm">Web Content Management</a></div></div>
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/solutions/express">Website Express Solution</a></div></div>	
+																				
+								</li>
+								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
+																																				<li class="lilevel2">	
+																																																																																	
+																	 	<div class="navItems">
+																					<div class="navItemsLeft"><a href="/solutions/wma">Website Marketing Acceleration</a></div></div>	
 																				
 								</li>
 								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
@@ -2026,8 +1954,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 				
   		
 				
-							<div class="navDivider">
-                <img src="http://media3.clickability.com/designimages/nav_divider.gif">
+					 <div class="navDivider">
+                <img src="http://media3.clickability.com/designimages/nav_divider_white.gif">
             </div>
 			<div class="dropMenuBoxWrapper">
 				<ul class="ullevel0">
@@ -2040,30 +1968,6 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 																																																																																	
 																	 	<div class="navItems">
 																					<div class="navItemsLeft"><a href="/platform">Platform Overview</a></div></div>	
-																				
-								</li>
-								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
-																																				<li class="lilevel2">	
-																																																																														<ul class="ullevel3">
-													<li class="liDividers"><div class="navItemsEnd"></div></li>
-																																					<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Manage-Content.html">Content Management</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Social-Media.html">Social Media</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Built-In-Analytics.html">Built-In Analytics</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Marketing-and-Campaign-Management.html">Marketing &amp; Campaign Management</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Multi-site-Management.html">Multi-Site Management</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Manage-Workflow.html">Workflow Management</a> </div></div> </li>
-													  														<li class="liDividers"><div class="navItemsDivider"></div></li>	
-																																															<li class="lilevel3"><div class="navItems"><div class="navItemsLeft"><a href="/platform/cms/Multilingual-Publishing.html">Multilingual Publishing</a> </div></div> </li>
-																																													<li class="liDividers"><div class="navItemsEnd"></div></li>										
-												</ul><!-- end of ullevel3 -->
-																										
-																	 	<div class="navItems">
-																					<div class="navItemsLeftArrow"><a href="/platform/cms/">On-Demand Content Management</a></div></div>
 																				
 								</li>
 								 									<li class="liDividers"><div class="navItemsDivider"></div></li>		
@@ -2121,7 +2025,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
                 </div>
             </div>
         </div>
-
+</div>
 <div id="mainsectionWrapper">
 
 
@@ -2129,11 +2033,11 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		<div id="content">
 							<div id="contentThree"><div id="nextWrapper" class="loggedout">
 	<div id="nextHeader">
-		<span class="nextsteps">Next Steps</span>
+		<span class="nextsteps">NEXT STEPS</span>
 	</div>
 	<div id="nextBody">
-                 <a class="locked" href="#" name="39639632" id="viewDemoLink"><img class="nextlinks" src="http://media3.clickability.com/designimages/next_viewdemo.gif" alt="View Demo" width="164" height="43" border="0"></a>
-				<br>
+         <a href="/form?uid=39639632" id="viewDemoLink"><img class="nextlinks" src="http://media3.clickability.com/designimages/next_viewdemo.gif" alt="View Demo" width="164" height="43" border="0"></a>
+		<br>
 		<a href="/company/contact_us"><img class="nextlinks" src="http://media3.clickability.com/designimages/next_contact.gif" alt="Contact Us" width="164" height="23" border="0"></a>
 		<br>
 		<a href="/company/contact_us"><img class="nextlinks" src="http://media3.clickability.com/designimages/next_call.gif" alt="888.352.9682" width="164" height="23" border="0"></a>
@@ -2152,7 +2056,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 						<input name="email" id="email" type="text" class="newsletterEmail">
 					</td>
 					<td>
-						<input name="submit" type="image" class="newslettSubmit" value="submit" src="http://media3.clickability.com/designimages/sign_up.gif">
+						<input name="submit2" type="image" class="newslettSubmit" value="submit" src="http://media3.clickability.com/designimages/sign_up.gif">
 					</td>
 				</tr>
 			</tbody></table>
@@ -2282,60 +2186,23 @@ if(CLICK_CS.cookiejar.fetch("viewedItems") && CLICK_CS.cookiejar.fetch("viewedIt
 
 
 
-<div class="rightWrapper">
-   	<div id="vertical_container">
-		<div class="accordion_toggle">News &amp; Events</div>
-		<div class="accordion_content">
-			<div class="thinWrapperFull">
-															<p>
-							<a href="http://www.clickability.com/news/Webinars/Webinar__Frankensite_or_Demand_Gen_Monster.html">“Frankensite” or Demand Gen Monster?</a><br>
-							<span>Webinar Replay | Nov 10</span>
-						</p>
-																				<p>
-							<a href="http://www.localpeaks.com/My_Brush_with_a_CMS_Lynch_Mob_at_the_ASBPE_Digital_Symposium.html">My Brush with a CMS Lynch Mob at the ASBPE Digital Symposium</a><br>
-							<span>Jeff Freund</span>
-						</p>
-																				<p>
-							<a href="http://www.clickability.com/news/press-releases/Clickability_Named_a_Visionary_in_Magic_Quadrant_Report_for_Web_Content_Management.html">Clickability Named a Visionary in Magic Quadrant Report for Web Content Management</a><br>
-							<span>Press Release</span>
-						</p>
-																				<p>
-							<a href="http://www.clickability.com/news/Webinars/Webinar_Next_Generation_WCM_Marketing_Shotgun_to_Sharpshooter.html">Next Generation WCM - Marketing Shotgun to Sharpshooter</a><br>
-							<span>Webinar Replay | Oct 14</span>
-						</p>
-																				<p>
-							<a href="http://www.clickability.com/news/press-releases/Software_Giant_BMC_Selects_Clickabilitys_SaaS_Web_Content_Management_Platform.html">Software Giant BMC Selects Clickability’s SaaS Web Content Management Platform</a><br>
-							<span>Press Release</span>
-						</p>
-																				<p>
-							<a href="http://www.ebizq.net/blogs/connectedweb/2009/10/content_management_moves_to_th.php">Content Management Moves to the Cloud</a><br>
-							<span>Podcast - ebizQ</span>
-						</p>
-																				<p>
-							<a href="http://blog.contentmanagementconnection.com/Home/pages/news/?nid=217">Media Executives Convene at 2009 Clickability Digital Strategies Conference</a><br>
-							<span>Content Management Connection</span>
-						</p>
-												</div>
-		</div>
-		<div class="thinBottom"></div>
-	</div>
-</div>
+
 
 
 	
 
-			<div class="rightWrapper">
+				<div class="rightWrapper">
 		<div class="thinHeaderShort"></div>
 		<div class="pullBody">
 			<div class="pullquoteWrapper">
-				<span class="pullquote"><p>"Our business is highly regulated. There are legal requirements governing how we portray the business, which claims we can and cannot make. On top of that, these differ by country. Between Compliance, Legal and Editorial, we have multiple groups who have to review every update before it can be published."</p></span>
+				<span class="pullquote">"Tribeca Film Festival's experience is an excellent example of the true business value of Web Content Management delivered as a service. The organization needs a WCM solution that not only supports the business, but also scales to meet demand that can be uneven."</span>
 		
 																
 																			
 													
 									<br>
 						<br>
-						<span class="pullquoteSub">Teddy Chamorro, Assistant VP, Interactive Services<br> Cantor Fitzgerald</span>
+						<span class="pullquoteSub">Mary Laplante, Vice President and Senior Analyst<br> The Gilbane Group</span>
 							</div>
 			
 						
@@ -2560,13 +2427,11 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 			<br clear="all">
 			
 						<div id="imageTrolly">
-    <img src="http://media3.clickability.com/designimages/image_trolly.gif" alt="" width="942" height="70" border="0">
+   <a href="/customers/list/"><img src="http://media3.clickability.com/designimages/trollywhite.jpg" alt="" width="942" height="70" border="0"></a>
 </div>
 
-			
-			<div id="poweredBy">
-				<img src="http://media3.clickability.com/designimages/powered_by.gif" alt="" width="138" height="16" border="0">
-			</div>
+			<br>
+		
 		</div> <!-- close content SectionInner -->
 
 			
@@ -2581,9 +2446,6 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 						<p class="footerText">
 																																																
 									<a href="/platform">Platform Overview</a>
-																																										<br>
-																	
-									<a href="/platform/cms/">On-Demand Content Management</a>
 																																										<br>
 																	
 									<a href="/platform/infrastructure">On-Demand Infrastructure</a>
@@ -2609,7 +2471,13 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 									<a href="/solutions">Solutions Overview</a>
 																																										<br>
 																	
-									<a href="/solutions/corporate">Corporate Solutions</a>
+									<a href="/solutions/wcm">Web Content Management</a>
+																																										<br>
+																	
+									<a href="/solutions/express">Website Express Solution</a>
+																																										<br>
+																	
+									<a href="/solutions/wma">Website Marketing Acceleration</a>
 																																										<br>
 																	
 									<a href="/solutions/media/">Media Solutions</a>
@@ -2659,23 +2527,20 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 										
 					<div class="footerCell">
 						<p class="footerHead">
-															<a href="/partners">Partners</a>
+															<a href="/partners">About</a>
 													</p>
 						<p class="footerText">
 																																																
-									<a href="/partners">Partners Overview</a>
+									<a href="/company">Company</a>
 																																										<br>
 																	
-									<a href="/partners/technology_partners">Technology Partners</a>
+									<a href="/news">News and Events</a>
 																																										<br>
 																	
-									<a href="/partners/implementation_partners">Implementation Partners</a>
+									<a href="/partners">Partners</a>
 																																										<br>
 																	
-									<a href="/partners/agency_partners/">Agency Partners</a>
-																																										<br>
-																	
-									<a href="/partners/partner_with_us">Partner with Us</a>
+									<a href="/resource/whitepapers">Resources</a>
 																					</p>
 					</div>
 																
@@ -2766,9 +2631,9 @@ This Privacy Policy is effective as of July 12, 2007.</p><p></p>
 		<div class="clear"></div>
 		<div id="legal">
 			<p>
-				© 2009  Clickability Inc. <a href="Privacy_Policy.html">Privacy Policy</a>
-				| <a href="Terms_of_Use.html">Terms of Use</a>
-				| <a href="Copyright_Policy.html">Copyright Policy</a>
+				© 2010  Clickability Inc. <a href="/Privacy_Policy.html">Privacy Policy</a>
+				| <a href="/Terms_of_Use.html">Terms of Use</a>
+				| <a href="/Copyright_Policy.html">Copyright Policy</a>
 								| <a href="/company/contact_us/">Contact Us</a>
 			</p>
 		</div> <!-- close legal -->
@@ -2807,6 +2672,41 @@ urchinTracker();
 <img src="http://ad.adtegrity.net/pixel?id=557227&amp;t=2" width="1" height="1">	
 <img src="http://ad.doubleclick.net/activity;src=2053556;dcnet=4591;boom=22516;sz=1x1;ord=1?" width="1" height="1" border="0" alt="">
 <!-- End of Retargeter.com Tag -->
+<!-- LeadForce1 -->
+<a href="http://www.leadforce1.com" title="Web analytics" onclick="window.open(this.href);return(false);">
+<script language="javascript" src="http://www.leadforce1.com/bf/bf.js" type="text/javascript"></script>
+<script type="text/javascript">
+	<!--
+	bf_action_name = '';
+	bf_idsite = 5796;
+	bf_url = 'http://www.leadforce1.com/bf/bf.php';
+	bf_log(bf_action_name, bf_idsite, bf_url);
+	//-->
+</script></a>
+<!-- /LeadForce1 -->
+
+
+	<!-- Google Code for Clickability Visitors Remarketing List -->
+	<script type="text/javascript">
+		<!--
+		var google_conversion_id = 1071631310;
+		var google_conversion_language = "en";
+		var google_conversion_format = "3";
+		var google_conversion_color = "666666";
+		var google_conversion_label = "0BcdCInHzAEQzpf__gM";
+		var google_conversion_value = 0;
+		//-->
+	</script>
+	<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1071631310/?label=0BcdCInHzAEQzpf__gM&amp;guid=ON&amp;script=0"/>
+		</div>
+	</noscript>
+
+
+
 
 
 
