@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saabsunited.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170933id_/http%3A//www.saabsunited.com/about/saabs-united-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saabsunited.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626033648id_/http%3A//www.saabsunited.com/about/saabs-united-privacy-policy.html) for the most accurate reproduction.*
 
 # Saabs United Privacy Policy - Saabs United
 
