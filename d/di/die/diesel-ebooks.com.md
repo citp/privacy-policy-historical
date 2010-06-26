@@ -1,187 +1,31 @@
-> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609212505id_/http%3A//www.diesel-ebooks.com/cgi-bin/category/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626062728id_/http%3A//www.diesel-ebooks.com/cgi-bin/category/privacy) for the most accurate reproduction.*
 
-# Download ebooks
+# Download ebooks at Diesel eBook Store
 
   
 | Fiction eBooks  
 ---  
 [General Fiction](http://www.diesel-ebooks.com/cgi-bin/category/FIC000001/General-Fiction-ebooks.html)  
+[NY Times Bestsellers](http://www.diesel-ebooks.com/cgi-bin/category/BST001000/NY-Times-Bestsellers-ebooks.html)  
 [Romance - All](http://www.diesel-ebooks.com/cgi-bin/category/FIC027001/Romance-ebooks.html)  
 [Romance - Harlequin](http://www.diesel-ebooks.com/cgi-bin/category/FIC027120/Harlequin-Romance-ebooks.html)  
-[Erotica](http://www.diesel-ebooks.com/cgi-bin/category/FIC005001/Erotica-ebooks.html)  
+[Erotic](http://www.diesel-ebooks.com/cgi-bin/category/FIC005001/Erotic-ebooks.html)  
 [Fantasy](http://www.diesel-ebooks.com/cgi-bin/category/FIC009001/Fantasy-ebooks.html)  
 [Science Fiction](http://www.diesel-ebooks.com/cgi-bin/category/FIC028001/Science-Fiction-ebooks.html)  
 [Mystery & Detective](http://www.diesel-ebooks.com/cgi-bin/category/FIC022001/Mystery-&-Detective-ebooks.html)  
 [Suspense & Thrillers](http://www.diesel-ebooks.com/cgi-bin/category/FIC032000/Suspense-&-Thrillers-ebooks.html)  
 [Action & Adventure](http://www.diesel-ebooks.com/cgi-bin/category/FIC002001/Action-&-Adventure-ebooks.html)  
 [Children's Fiction](http://www.diesel-ebooks.com/cgi-bin/category/JUV000001/Childrens-Fiction-ebooks.html)  
-[Classics & Drama](http://www.diesel-ebooks.com/cgi-bin/category/DRA000001/Classics-&-Drama-ebooks.html)  
-[Literary & Poetry](http://www.diesel-ebooks.com/cgi-bin/category/POE000001/Literary-&-Poetry-ebooks.html)  
-[Download Free eBooks](http://www.diesel-ebooks.com/cgi-bin/category/free_download)  
+[Classics & Literary](http://www.diesel-ebooks.com/cgi-bin/category/POE000001/Classics-&-Literary-ebooks.html)  
+[Free eBook - Download](http://www.diesel-ebooks.com/cgi-bin/category/free_download)  
   
   
 
 
-[](https://web.archive.org/web/20061010212611/https://www.diesel-ebooks.com/cgi-bin/myhistory.cgi)
-
-| 
-
-My Account
-
-|   
----|---|---  
-  
-| 
-
-My Account
-
-|   
----|---|---  
-  
-[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/support/index.php)
-
-| 
-
-Help
-
-|   
----|---|---  
-  
-| 
-
-Help
-
-|   
----|---|---  
-  
-[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/cgi-bin/category.cgi?category=orderinfo)
-
-| 
-
-About
-
-|   
----|---|---  
-  
-| 
-
-About
-
-|   
----|---|---  
-  
-[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/cgi-bin/category.cgi?category=search&query=^newarrival.sql)
-
-| 
-
-New Arrivals
-
-|   
----|---|---  
-  
-| 
-
-New Arrivals
-
-|   
----|---|---  
-  
-[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/cgi-bin/category.cgi?category=search&query=^sale.sql)
-
-Just Reduced
-
-|   
----|---  
-  
-Just Reduced
-
-|   
----|---  
-  
-[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/support/index.php?d=1&Next=Next&pf=t)
-
-Report problem
-
-|   
----|---  
-  
-Report problem
-
-|   
----|---  
-  
-[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/support/index.php?pf=kb)
-
-Knowledgebase/FAQ's
-
-|   
----|---  
-  
-Knowledgebase/FAQ's
-
-|   
----|---  
-  
-[](https://web.archive.org/web/20061010212611/http://www.diesel-ebooks.com/support/index.php?pf=tr)
-
-Troubleshooter
-
-|   
----|---  
-  
-Troubleshooter
-
-|   
----|---  
-  
-[](https://web.archive.org/web/20061010212611/https://www.diesel-ebooks.com/cgi-bin/myhistory.cgi)
-
-My bookshelf
-
-|   
----|---  
-  
-My bookshelf
-
-|   
----|---  
-  
-[](https://web.archive.org/web/20061010212611/https://www.diesel-ebooks.com/cgi-bin/mywishlist.cgi)
-
-My wishlist
-
-|   
----|---  
-  
-My wishlist
-
-|   
----|---  
-  
-[](https://web.archive.org/web/20061010212611/https://www.diesel-ebooks.com/cgi-bin/update_info.cgi)
-
-Update my info
-
-|   
----|---  
-  
-Update my info
-
-|   
----|---  
-  
 [](http://www.constantcontact.com/safesubscribe.jsp)
 
   
-[ ](http://www.diesel-ebooks.com/cgi-bin/category/testdownload)
-
   
-  
----  
-Talk To Us  
-If you notice any site errors or have an idea for our eBook store, we'd love to hear it no matter how small. 
-
-[ ](http://survey.constantcontact.com/survey/a07e2baiyewfhf4qw0q/start)  
   
 ---  
 Your first time?  
@@ -189,17 +33,11 @@ We recommend you download one of our test eBooks to make sure you have the right
 
 [](https://www.diesel-ebooks.com/cgi-bin/category/testdownload)  
   
-_All ebooks are categorized in an intelligent method and their web site (Diesel eBooks) is just a joy to use._
+_You have great internet customer service, thank you so much! I will definitely use your ebook store again in the future._
 
- **James Kendrick  
-jkOnTheRun**
+ **R. Amslinger  
+Gunzenhausen, Germany **
 
-  
-  
----  
-  
-  
-  
 We Are Serious About Your Privacy & Security
 
 Your privacy is important to Diesel eBooks. We have created this privacy statement to demonstrate our commitment to keep your personal information confidential. By ensuring that you are aware of and understand our Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy.
