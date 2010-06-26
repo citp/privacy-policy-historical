@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestofferbuy.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621173154id_/http%3A//www.bestofferbuy.com/page.html%3Fchapter%3D0%26id%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofferbuy.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626104752id_/http%3A//www.bestofferbuy.com/page.html%3Fchapter%3D0%26id%3D5) for the most accurate reproduction.*
 
 # Privacy Notice : BestOfferBuy.com, Buy DVD, Shop for PC accessories, Discount MP3 Players, Bargain Deal for Surveillance Equipment, Cheap R4 for NDS, X-sim Unlock
 
