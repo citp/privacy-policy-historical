@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esportsea.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223065004id_/http%3A//www.esportsea.com/index.php%3Fs%3Dcontent%26d%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esportsea.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626110336id_/http%3A//www.esportsea.com/index.php%3Fs%3Dcontent%26d%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ESEA - ESEA Privacy Policy
 
