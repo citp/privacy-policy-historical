@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204221250id_/http%3A//hostplus.com.au/system-items/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626221857id_/http%3A//www.hostplus.com.au/system-items/footer/privacy-policy) for the most accurate reproduction.*
 
 # HOSTPLUS - Privacy Policy
 
@@ -144,4 +144,4 @@ We have stringent security systems, practices and procedures in place to safegua
 
 ### More information about us 
 
-We (HOST **PLUS** Pty Ltd ABN 79 008 634 704) are a responsible superannuation entity licensed (RSEL No. L0000093) under the Commonwealth Superannuation Industry (Supervision) Act 1993 and the trustee of the HOST **PLUS** Superannuation Fund. (RSE No R1000054). Superannuation Fund Number (SFN) 268 350 944. Australian Financial Services Licence holder number 244392.
+HOST **PLUS** is a regulated superannuation fund. It complies with the Superannuation Industry (Supervision) Act 1993 (SIS) and meets the requirements of the Australian Prudential Regulation Authority (APRA) and the Australian Securities and Investment Commission (ASIC).
