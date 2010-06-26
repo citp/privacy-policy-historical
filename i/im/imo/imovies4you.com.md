@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the imovies4you.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221164505id_/http%3A//imovies4you.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imovies4you.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626055330id_/http%3A//imovies4you.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# iMovies4You ~ Privacy Policy
+
+****
 
 We respect your privacy and we are committed to safeguarding your privacy while you are using our site [http://www.imovies4you.com](http://www.imovies4you.com/). The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -15,3 +17,9 @@ As many other online services, our webite collects statistics on customers’ IP
 A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site don’t use cookies. However, Some of our business partners (advertisers) use cookies on our site. But, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. Please check their websites for respective privacy policies.
 
 This policy is not intended to be a contractual obligation of any kind. It is intended to set forth imovies4you’s current policy and will take reasonable measures to implement this policy.
+
+**_If you feel that any videos, content  or links on _**[**_www.iMovies4You.com_**](http://www.imovies4you.com/) ** _has objectionable content or violating your copyrights, and If you are a copyright owner or an agent thereof and believe that any links or other content infringes upon your copyrights, Please contact us with the email_**[ ** _imovies4you@gmail.com_**](mailto:imovies4you@gmail.com) ** _. So that those videos/content/links shall be promptly removed from our website._**
+
+[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
+
+****
