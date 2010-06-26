@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komp3.net privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509084239id_/http%3A//www.komp3.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komp3.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626063000id_/http%3A//www.komp3.net/privacy.html) for the most accurate reproduction.*
 
 # KOmp3.net Where Mp3 Downloads Were Born
 
