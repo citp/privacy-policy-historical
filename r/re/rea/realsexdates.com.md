@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realsexdates.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230223034id_/http%3A//www.realsexdates.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsexdates.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626220235id_/http%3A//www.realsexdates.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Real Sex Dates: Join Right Now for FREE. Search through thousands of LOCAL PROFILES on RealSexDates.com
 
