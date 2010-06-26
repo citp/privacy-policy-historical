@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mambate.us privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214135806id_/http%3A//www.mambate.us/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mambate.us privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626074642id_/http%3A//www.mambate.us/terms_privacy.asp) for the most accurate reproduction.*
 
 # Laptop Batteries,cheap Laptop Batteries,Laptop accessories at mambate
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20091214135806id_/http%3A//www.mambate.us/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20100626074642id_/http%3A//www.mambate.us/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
