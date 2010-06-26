@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the topchalks.com privacy policy that was archived on 2009-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090522121308id_/http%3A//www.topchalks.com/tc/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topchalks.com privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626141253id_/http%3A//www.topchalks.com/tc/privacypolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -38,14 +38,45 @@ function submitForm2(userId,inputdata)
 			document.GetAllProductForm.submit();	
 		}
 		
-	}
-	
+}
+
+function submitForm3(userId,inputdata)
+{
+
+   if(userId == 'null')
+		{
+			//alert("inputdata........."+inputdata);
+			document.regForm.inputData.value = inputdata;
+			document.regForm.submit();	
+		}
+		else
+		{
+			document.consumeContentForm.trkey.value = "FREE";
+			document.consumeContentForm.submit();	
+		}
+		
+}
  	
 	function setHeighlighted(id)
     {
 	  document.getElementById(id).className  = "active";
     }
-	
+	function setImage()
+	{
+		 var objj = document.getElementById("forum");
+         var strr = objj.src;
+         var pos=strr.lastIndexOf("/");
+         strr = strr.substring(0,pos+1);
+		document.getElementById("forum").src = strr + "joinforum_2.gif";
+	}
+	function resetImage()
+	{
+		 var objj = document.getElementById("forum");
+         var strr = objj.src;
+         var pos=strr.lastIndexOf("/");
+         strr = strr.substring(0,pos+1);
+		document.getElementById("forum").src = strr + "joinforum.gif";
+	}
 //-->
 </script>
 <form name="regForm" method="post" action="/tc/register.htm">
@@ -59,20 +90,22 @@ function submitForm2(userId,inputdata)
 	  </div>
 	
 		<div class="headerR">
-			<div class="vs15"></div>
-			<p align="right" class="links"><a href="/tc/gotologin.htm" title="Home">Home</a> | <a href="/tc/aboutus.htm" title="About us">About Us</a> | <a href="/tc/news.htm" title="News">News</a> | <a href="/tc/feedback.htm" title="Feedback">Feedback</a> | <a href="/tc/contactus.htm" title="Contact Us">Contact Us</a></p>
-			<div class="vs15"></div>                                        
+			<div class="vs10"></div>
+			<p align="right" class="links"><a href="/tc/gotologin.htm" title="Home">Home</a> | <a href="/tc/aboutus.htm" title="About us">About Us</a>| <a href="/tc/location.htm" title="Our Presence">Our Presence</a> | <a href="/tc/business-opportunity.htm" title="Business Opportunity">Business Opportunity</a> | <a href="http://www.forum.topchalks.com" target="_blank">Forum</a> | <a href="/tc/news.htm" title="News">News</a> | <a href="/tc/feedback.htm" title="Feedback">Feedback</a>|<a href="/tc/contactus.htm" title="Contact Us">Contact Us</a>| <a href="/tc/awards.htm" title="Awards">Awards</a></p>
+			<div class="vs10"></div>                                        
             <!-- sign up -->
           
-          
+            
 						
 						
 					     <div class="hmSignup">
             			<div class="left">
 						<form name="HeaderLoginForm" method="post" action="/tc/headerlogin.htm">
 						<ul class="hform">
-							<li class="field"><input type="text" name="userId" maxlength="20" value="UserID" onclick="this.value=''" style="width:128px;"></li>
-                            <li class="field"><input type="password" name="password" maxlength="20" value="Password" onclick="this.value=''" style="width:128px"></li>
+							<li class="field"><input type="text" name="userId" maxlength="20" value="UserID" onclick="this.value=''" style="width:128px; height:18px;"></li>
+                            <li class="field"><input type="password" name="password" maxlength="20" value="Password" onclick="this.value=''" style="width:128px; height:18px;"></li>
+                            
+                            
                             <li><input type="image" name="" src="images/gobttn.gif" border="0" title="GO" alt="GO"></li>
                         
                         </ul>
@@ -181,37 +214,60 @@ function ddSlide(c,d){
 
 //-->
 </script>
+ 
+
 <div id="navBg">
 	<div id="nav982">
 		<div class="navlinks682">
 	
 
-  <dl class="dropdown">
-          <dt id="iit"><a href="/tc/showiit.htm" title="IIT-JEE">IIT-JEE</a></dt>
+ <dl class="dropdown">
+          <dt id="aieee"><a href="/tc/aieee.htm" title="AIEEE">AIEEE</a></dt>
+ </dl>
+ <dl class="dropdown">
+          <dt id="iit"><a href="/tc/showiit.htm" title="IIT-JEE">IIT-JEE</a></dt>       
+  </dl>
+  
+  
+  
+  
+  <dl class="dropdown1">
+          <dt id="xxclass"><a href="/tc/class10.htm" title="Class-10"><div style="float:left;cursor:pointer"><b>X</b></div></a></dt>
        
   </dl>
- 
  <dl class="dropdown">
-          <dt id="xii" onmouseover="ddMenu('xii',1)" onmouseout="ddMenu('xii',-1)">XII Board</dt>
-          <dd id="xii-ddcontent" onmouseover="cancelHide('xii')" onmouseout="ddMenu('xii',-1)">
-            <ul class="menulist">
-              <li><a href="/tc/showcbse.htm" title="CBSE">CBSE</a></li>
-              <li><a href="/tc/showhseb.htm" title="HBSE">HBSE</a></li>
-              <li><a href="/tc/showpseb.htm" title="PSEB">PSEB</a></li>
-             
-            </ul>
-          </dd>
-        </dl>
+ <dt id="xiclass"><a href="/tc/cbsexi.htm" title="CBSE-XI">XI</a></dt>
+ </dl>
+ <dl class="dropdown">
+          <dt id="xii"><a href="/tc/showcbse.htm" title="XII">XII</a></dt>
+   </dl>	
 
-    <dl class="dropdown1">
+    <dl class="dropdown">
           <dt id="sat"><a href="/tc/showsat.htm" title="SAT">SAT</a></dt>
        
       </dl> 
-	 <dl class="dropdown1">
+	  <dl class="dropdown">
+          <dt id="cat"><a href="/tc/cat.htm" title="Cat">CAT</a></dt>
+       
+      </dl> 
+      
+      <dl class="dropdown1">
+          <dt id="msoffice"><a href="/tc/msoffice.htm" title="MS-OFFICE"><div style="float:left;cursor:pointer"><b>MS-OFFICE</b></div></a></dt>
+       
+  </dl>
+  
+  
+	 <dl class="dropdown">
           <dt id="vocab"><a href="/tc/showVocab.htm" title="Vocabulary">VOCABULARY</a></dt>
        
       </dl> 
-	
+	  <dl class="dropdown">
+          <dt id="cdproduct"><div><div style="float:left;cursor:pointer"><a href="/tc/educational-cds.htm" title="educational-cds"><input type="image" name="" src="images/cdicon.gif" title="CDs" alt="CDs"></a></div><a href="/tc/educational-cds.htm" title="educational-cds"><div style="float:left;">CDs</div></a><div class="cb"></div></div> </dt>
+       
+      </dl> 
+      
+      
+       
 	  </div>
 		
 		<div>
@@ -226,6 +282,37 @@ function ddSlide(c,d){
 		
 		</div>
 </div>
+
+<script language="JavaScript">
+<!--
+function submittestform(channelId)
+		{
+				//alert("1");
+				if(channelId=="aieee")
+			{
+				document.ShowNumberOfTestsFormaieee.channelId.value = channelId;
+				document.ShowNumberOfTestsFormaieee.submit();
+			}else if(channelId=="cbse")
+			{
+				document.ShowNumberOfTestsFormcbse.channelId.value = channelId;
+				document.ShowNumberOfTestsFormcbse.submit();
+			}else if(channelId=="xiclass")
+			{
+				document.ShowNumberOfTestsFormxiclass.channelId.value = channelId;
+				document.ShowNumberOfTestsFormxiclass.submit();
+			}else if(channelId=="cat")
+			{
+				document.ShowNumberOfTestsFormcat.channelId.value = channelId;
+				document.ShowNumberOfTestsFormcat.submit();
+			}else if(channelId=="iit")
+			{
+				document.ShowNumberOfTestsFormiit.channelId.value = channelId;
+				document.ShowNumberOfTestsFormiit.submit();
+			}
+
+		}
+//-->
+</script>
 <!-- navigation -->
 <!-- content display -->
 <div id="mainHolder">
@@ -291,16 +378,7 @@ sub nav -->
 <table width="100%" align="center" border="0">
 <tbody><tr>
 <td>						
-<script type="text/javascript"><!--
-google_ad_client = "pub-1324429285970214";
-/* Consume Page Content Div */
-google_ad_slot = "2684469495";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></td>
+</td>
 </tr>
 </tbody></table>
 
@@ -313,31 +391,40 @@ google_ad_height = 90;
 		<p class="footlink35">
 		</p><div class="fl"><p class="gtxt11_ta"><strong>
 		<a href="/tc/gotologin.htm" title="Home">Home</a>
-			| <a href="/tc/aboutus.htm" title="About us">About Us</a> 
+			| <a href="/tc/aboutus.htm" title="About us">About Us</a>
+			| <a href="/tc/location.htm" title="Our Presence">Our Presence</a>
+			| <a href="/tc/business-opportunity.htm" title="Business Opportunity">Business Opportunity</a> 
 			| <a href="/tc/news.htm" title="News">News</a> 
 			| <a href="/tc/feedback.htm" title="Feedback">Feedback</a> 
-			|<a href="/tc/contactus.htm" title="Contact us">Contact Us</a></strong></p></div>
+			|<a href="/tc/contactus.htm" title="Contact us">Contact Us</a>| <a href="/tc/awards.htm" title="Awards">Awards</a></strong></p></div>
 		<div class="fr"><p align="right" class="gtxt11_ta">By using these services you agree to the<a href="/tc/termsofuse.htm" title="Terms &amp; conditions"><u> <strong> Terms &amp; Conditions 
 		</strong></u></a>&nbsp;,&nbsp;<a href="/tc/privacypolicy.htm" title="Privacy Policy"><u> <strong> Privacy Policy </strong> </u></a> of this Website. </p></div>
 		<br>
 		<br>
 		<div class="fr"><p align="right" class="gtxt11_ta">All Right Reserved by <a href="/tc/gotologin.htm" title="topchalks.com"><u> <strong>TopChalks.com </strong></u></a> 2008-2009.<a href="/tc/copyrightinfo.htm" title="Copyright"><u> <strong> (Copyright) </strong></u></a> Property of <strong>Catura Systems </strong></p></div>
-		<div class="cb"></div>
+		
+		
 		</div>
     </div>
+    
+    <script type="text/javascript">
+                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                try {
+                var pageTracker = _gat._getTracker("UA-1082440-5");
+                pageTracker._trackPageview();
+                } catch(err) {}
+     </script>
+    
+	
+     
+	 
 <!-- footer  -->
 
 
-    <script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-1082440-5");
-	pageTracker._trackPageview();
-	} catch(err) {}
-</script>
+    
 <!-- body specific js to be loaded here-->
 
 
