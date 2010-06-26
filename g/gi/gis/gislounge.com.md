@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231165014id_/http%3A//gislounge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626214237id_/http%3A//gislounge.com/privacy-policy) for the most accurate reproduction.*
 
-# GIS Lounge – Geographic Information Systems | Privacy Policy
+# GIS Lounge | Privacy Policy
 
 This is the web site of **GIS Lounge**.  
 We can be reached via e-mail at [editor@gislounge.com](mailto:editor@gislounge.com)
@@ -37,4 +37,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-[](http://www.addthis.com/bookmark.php?v=20)
+[](http://www.addthis.com/bookmark.php?v=250&username=dmgeo)
