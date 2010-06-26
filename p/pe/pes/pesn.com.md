@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pesn.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619014725id_/http%3A//www.pureenergysystems.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesn.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626173232id_/http%3A//www.pureenergysystems.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Pure Energy Systems
 
@@ -39,11 +39,11 @@ PES websites contains advertisements from third parties. We also use Yahoo Group
 ###
 
 [**Contact  
-**](https://web.archive.org/web/20090619014725id_/http%3A//www.pureenergysystems.com/contact/index.html)**email:** <[legal {at} pureenergysystems.com](mailto:legal@pureenergysystems.com?subject=PES%20Privacy%20Statement) >[  
-](https://web.archive.org/web/20090619014725id_/http%3A//www.pureenergysystems.com/contact/index.html)**PES Network, Inc.**  
+**](https://web.archive.org/web/20100626173232id_/http%3A//www.pureenergysystems.com/contact/index.html)**email:** <[legal {at} pureenergysystems.com](mailto:legal@pureenergysystems.com?subject=PES%20Privacy%20Statement) >[  
+](https://web.archive.org/web/20100626173232id_/http%3A//www.pureenergysystems.com/contact/index.html)**PES Network, Inc.**  
 4157 N. West Pinion Cir., Eagle Mountain UT 840005, USA  
 **Ph:** 801-407-1292  
 **Fax:** 801-880-8322
 
-Posted by [SDA](https://web.archive.org/web/20090619014725id_/http%3A//www.pureenergysystems.com/about/personnel/SterlingDAllan/index.html) June 8, 2004  
+Posted by [SDA](https://web.archive.org/web/20100626173232id_/http%3A//www.pureenergysystems.com/about/personnel/SterlingDAllan/index.html) June 8, 2004  
 Last updated March 12, 2009
