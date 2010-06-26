@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetwisdom.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225175904id_/http%3A//www.planetwisdom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetwisdom.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627001247id_/http%3A//www.planetwisdom.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | PlanetWisdom.com
 
@@ -8,20 +8,20 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This notice applies to all information collected or submitted on the PlanetWisdom.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-> Name  
->  Address  
->  Email address  
->  Phone number  
->  Credit/Debit Card Information  
->  Church Name  
->  (etc.)
+Name  
+Address  
+Email address  
+Phone number  
+Credit/Debit Card Information  
+Church Name  
+(etc.)
 
 On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
 
-> Name  
->  Address  
->  Phone Number  
->  (etc.)
+Name  
+Address  
+Phone Number  
+(etc.)
 
 ### The Way We Use Information:
 
@@ -47,4 +47,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 1-877-947-3660 or [contact us online](http://www.planetwisdom.com/contact).
+Should you have other questions or concerns about these privacy policies, please call us at 1-888-346-4179.
