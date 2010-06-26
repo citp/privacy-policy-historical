@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214142134id_/http%3A//www.surfstitch.com/index.cfm/a/article.show/artid/50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626121825id_/http%3A//www.surfstitch.com/index.cfm/a/article.show/artid/50) for the most accurate reproduction.*
 
-# SurfStitch - Online Surf Gear
+# SurfStitch - Australia's #1 Online Surf Shop | Surf | Snow | Skate | Fashion Store
 
 Your privacy on the Internet is of the utmost importance to us. 
 
@@ -37,7 +37,7 @@ Our online surveys ask visitors for their email address and demographic informat
 We offer a number of free newsletters to share content information about our site with interested users. Users may cancel their free email subscriptions by following the simple instructions at the bottom of each newsletter or email. 
 
 **Online Security**   
-SurfStitch utilizes a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in SurfStitch's secure database, which is also located behind a firewall. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in SurfStitch's databases as stated above.   
+SurfStitch utilizes a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in SurfStitch's secure database, which is also located behind a firewall. When purchasing from Surfstitch your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.  
 If you choose to modify your personal information or you have forgotten your password, you may do so by visiting the SurfStitch member page. You will be required to submit a valid member ID and password for authentication before you will be able to modify your file. Because password and credit card information has been encrypted, it is completely invisible to any employee who accesses it, including our customer service team. If you desire to change your password, the customer service representative will reset to a new one after you have properly identified yourself.   
 SurfStitch's technology department conducts frequent site security audits and employs a third party audit company to perform additional site security audits. 
 
