@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freesfx.co.uk privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223065017id_/http%3A//www.freesfx.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesfx.co.uk privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626110223id_/http%3A//www.freesfx.co.uk/info/privacy) for the most accurate reproduction.*
 
-# freeSFX - Privacy policy
+# freeSFX.co.uk - Privacy policy
 
 We are committed to protecting your privacy and to providing a secure and safe online environment. You can access and browse our Sounds without disclosing your personal data. However, you are required to provide your email address when creating your personal account to download or upload Sounds from our Website. We also require you to provide your email address when subscribing to our 'FreeSFX: Insider' service. 
 
