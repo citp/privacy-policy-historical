@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022521id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626110725id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Pennsylvania College of Technology
+# Privacy - Pennsylvania College of Technology
 
 ###### One College Avenue, Williamsport PA 17701 · (570) 326-3761 or (800) 367-9222
 
@@ -8,11 +8,11 @@
 
 Direct your inquiries regarding privacy to [privacy@pct.edu](https://web.archive.org/cgi-bin/askPCT1.0.asp?accountID=82#theForm "Contact Privacy").
 
-We respect your privacy. Pennsylvania College of Technology is the sole owner of information collected on this Web site. Any and all information collected via the Penn College Web site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Your information will be held with the utmost care, and will not be used in ways that you have not consented to.
+We respect your privacy. Pennsylvania College of Technology is the sole owner of information collected on this website. Any and all information collected via the Penn College website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Your information will be held with the utmost care, and will not be used in ways that you have not consented to.
 
 ### Information Collection
 
-Penn College collects information at several different points on our Web site including, but not limited to:
+Penn College collects information at several different points on our website including, but not limited to:
 
 **Student Information System (SIS) –** In order to use the SIS, you must first be assigned a personal identification number by the Registrar which will be used, along with your student ID number, to log in. Information obtained via the SIS includes personal information such as addresses and home information, student ID number, grades, and account/billing information. You are encouraged to protect the privacy of your PIN and student ID number.
 
@@ -30,9 +30,7 @@ Penn College collects information at several different points on our Web site in
 
 **Alumni Information Update –** In an effort to keep a current listing of our alumni, we provide an Information Update form. This information is used for sending Penn College's award-winning quarterly, "One College Avenue," to all alumni, as well as periodic e-mail newsletters about upcoming events. Alumni may elect to opt out of these mailings.
 
-We have also asked alumni, on occasion, to act as ambassadors for the College, to appear and give testimony for our publications and Web site, and to offer tours during College events such as Open Houses.
-
-Additionally, The College contracts with YourAlumni to provide an online "alumni community." While we do provide our alumni database for this service, Social Security numbers are not provided. Participation in our "alumni community" is strictly voluntary.
+We have also asked alumni, on occasion, to act as ambassadors for the College, to appear and give testimony for our publications and website, and to offer tours during College events such as Open Houses.
 
 **"You're the Chef" –** We request information from the user when the user chooses to ask a question of the Chef, and when the user chooses to submit an entry to our recipe contest. This information is used to determine the demographics of our audience, as well as to respond to questions, and to mail a prize to the winning entry of our recipe contest.
 
@@ -44,7 +42,7 @@ If a user elects to use our "Send this recipe to a friend" option for informing 
 
 **Wildcat Wishes –** We accept online orders for "Wildcat Wishes" student gift packages. Information obtained is used for ordering and delivery purposes only. Neither party's name will be placed on a mailing list. Credit card orders are protected, since the site is secured by VeriSign.
 
-**Employee Directories** **–** While we do not sell or give out e-mail address information, that information is available on our Web site for the convenience of our students and employees. We do not publish a list of e-mail addresses.
+**Employee Directories** **–** While we do not sell or give out e-mail address information, that information is available on our website for the convenience of our students and employees. We do not publish a list of e-mail addresses.
 
 **Student Directories** – Student record information is confidential and private. In accordance with both federal law and College policy, the College does not release student record information without prior written consent. The one exception to this is that the College will release directory-type information, such as name, address, phone number, date and place of birth, major, activity participation, date(s) of attendance, enrollment status, grade level, date of graduation, degrees/honors/awards, sports participation, and most recent educational institution attended. Any student may request that directory information not be released publicly by completing and signing an Authorization to Withhold Directory Information, available from the Registrar's Office.
 
@@ -54,19 +52,19 @@ If a user elects to use our "Send this recipe to a friend" option for informing 
 
 **Log Files/IP Addresses** – We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-**Penn College Student E-mail Addresses (yourname@pct.edu)** – We will not sell or give your Penn College e-mail address to anyone, except in a searchable format on our Web site. If you wish to be removed from our online searchable list, you may log onto Penn College's student e-mail system and remove yourself from the directory.
+**Penn College Student E-mail Addresses (yourname@pct.edu)** – We will not sell or give your Penn College e-mail address to anyone, except in a searchable format on our website. If you wish to be removed from our online searchable list, you may log onto Penn College's student e-mail system and remove yourself from the directory.
 
-**Penn College Employee E-mail Addresses (yourname@pct.edu)** – We will not sell or give your Penn College employee e-mail address to anyone, except in a searchable format on our Web site.
+**Penn College Employee E-mail Addresses (yourname@pct.edu)** – We will not sell or give your Penn College employee e-mail address to anyone, except in a searchable format on our website.
 
 **E-mail Addresses requested on forms** – We request your e-mail address only to allow us to respond to your messages, or to forward a confirmation to you. We do not sell or give your e-mail address to anyone, and will not use it in any manner other than that specified on each form.
 
 ### Links
 
-This Web site contains links to other sites. Pennsylvania College of Technology is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This website contains links to other sites. Pennsylvania College of Technology is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
 ### Copyright
 
-All material included on or available through this Web site is © 1995-Present, Pennsylvania College of Technology, All Rights Reserved. This site is protected by the [Copyright Law of the United States of America and Related Laws Contained in Title 17 of the United States Code](http://www.copyright.gov/title17/).
+All material included on or available through this website is © 1995-Present, Pennsylvania College of Technology, All Rights Reserved. This site is protected by the [Copyright Law of the United States of America and Related Laws Contained in Title 17 of the United States Code](http://www.copyright.gov/title17/).
 
 ### Notification of Change
 
