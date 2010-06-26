@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilly.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212161124id_/http%3A//www.lilly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilly.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626114403id_/http%3A//www.lilly.com/privacy) for the most accurate reproduction.*
 
 # Eli Lilly and Company » Privacy Policy
 
