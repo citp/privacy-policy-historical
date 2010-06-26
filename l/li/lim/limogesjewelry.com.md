@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228065950id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626073035id_/http%3A//www.limogesjewelry.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Limoges Jewelry Privacy Policy
 
