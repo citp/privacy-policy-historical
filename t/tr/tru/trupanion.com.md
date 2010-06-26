@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the trupanion.com privacy policy that was archived on 2008-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081119141133id_/http%3A//www.trupanion.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trupanion.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626020812id_/http%3A//www.trupanionpetinsurance.com/About_Us/Privacy-Policy) for the most accurate reproduction.*
 
-# Trupanion - Pet Insurance Made Easy
+# Privacy Policy | Trupanion Pet Insurance
 
 ## PRIVACY STATEMENT
 
 Effective August 1, 2007  
-IMPORTANT PRIVACY NOTICE REGARDING YOUR NONPUBLIC PERSONAL INFORMATION 
+IMPORTANT PRIVACY NOTICE REGARDING YOUR NONPUBLIC PERSONAL INFORMATION
 
 At Trupanion and American Pet Insurance Company, we know the importance of respecting your privacy and maintaining your trust. When we collect personal information, we keep it private. We have physical, electronic, and procedural security measures in place that comply with legal standards to protect your personal information. 
 
@@ -19,7 +19,7 @@ In order for us to obtain or service the insurance products that you ask for fro
 
 
 
-We collect your personal information from: 
+We collect your personal information from:
 
   * You in person, by telephone, or over the Internet;
   * Forms you submit to us, such as applications, claims, and policy updates
@@ -52,9 +52,8 @@ You have the right to access and to request the correction, amendment, or deleti
 
 **Trupanion**  
 Attn: Compliance Director  
-6505 216th St. SW  
-Building A, Suite 100  
-Mountlake Terrace, WA 98043 
+1148 NW Leary Way  
+Seattle, WA 98107
 
 Include your name, address, telephone number, and policy number and let us know what kind of information you want to see. You may see and copy your information in person, or, if you prefer, we will copy and send you your information. If you see any mistakes, let us know and we will review it. If we agree, we will correct our files. If we disagree, you may file a short statement of dispute with us. Your statement will be included with any data we disclose in the future. We will also send the statement to anyone you ask us to who received your information from us in the past two years. 
 
