@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the listmywebsite.net privacy policy that was archived on 2009-08-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090829204900id_/http%3A//www.listmywebsite.net/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the listmywebsite.net privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626092559id_/http%3A//www.listmywebsite.net/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy of Listmywebsite.net</title>
-<meta name="keywords" content="Listmywebsite.net Privacy Policy">
 <meta name="description" content="Listmywebsite.net Privacy Policy">
+<meta name="keywords" content="Listmywebsite.net Privacy Policy">
 <meta name="Language" content="English">
-<meta name="Author" content="Digital Arakan Infotech - www.digitalarakakn.net">
+<meta name="Author" content="Ecoweb4u Web Solutions - www.ecoweb4u.com.au">
 <meta name="Subject" content="Web Directory">
-<meta name="copyright" content="Copyright 2005 - Digital Arakan Infotech">
-<meta name="Publisher" content="Digital Arakan Infotech">
+<meta name="copyright" content="Copyright 2010 - Ecoweb4u Web Solutions">
+<meta name="Publisher" content="Ecoweb4u Web Solutions">
 <meta name="verify-v1" content="qB7T2kHPQE0y9B6q45XR/uyyis/Mj1ZWGPZvaOhkl7w="> 
 <meta name="robots" content="index, follow">
 <meta name="revisit-after" content="7 days">
@@ -19,9 +19,9 @@
 <meta http-equiv="ImageToolbar" content="No">
 <meta name="MSSmartTagsPreventParsing" content="True">
 <link rel="shortcut icon" href="skins/favicon.ico">
-<link href="mainstyle.css" rel="stylesheet" type="text/css">
-<link href="form.css" rel="stylesheet" type="text/css">
+<link href="css/default.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
+<!--
 if (top != self) top.location = location;
 
 function validateSear()
@@ -36,116 +36,116 @@ else
 document.FreeSearch.submit()
 }
 }
-</script>
-<script>
 
-//Pop-under window- By JavaScript Kit
-//Credit notice must stay intact for use
-//Visit http://javascriptkit.com for this script
+function chkform()
+{
+	var SiteName = document.addsite.SiteName.value;
+	var SiteURL = document.addsite.SiteURL.value;
+	var SiteDescr = document.addsite.SiteDescr.value;
+	var SiteKwds = document.addsite.SiteKwds.value;
+	var UserName = document.addsite.UserName.value;
+	var UserEmail = document.addsite.UserEmail.value;
+	var RcpURL = document.addsite.RcpURL.value;
+	
+	if(SiteName == "")
+	{
+		alert("Please enter your site name.");
+		document.addsite.SiteName.focus();
+		return false;
+	}
+	if(SiteURL == "" || SiteURL == 'http://' || SiteURL.length<=14)
+	{
+		alert("Please enter your site url correctly.");
+		document.addsite.SiteURL.focus();
+		return false;
+	}
+	if(SiteDescr == "" || SiteDescr.length > 150 || SiteDescr.length < 60)
+	{
+		alert("Please enter your site description (60-150 characters).");
+		document.addsite.SiteDescr.focus();
+		return false;
+	}
+	if(SiteKwds == "" || SiteKwds.length > 150 || SiteKwds.length < 60)
+	{
+		alert("Please enter your site keywords (60-150 characters).");
+		document.addsite.SiteKwds.focus();
+		return false;
+	}
+	if(UserName == "")
+	{
+		alert("Please enter your name.");
+		document.addsite.UserName.focus();
+		return false;
+	}
+	if(UserEmail == "" || UserEmail.indexOf('@') == -1 || UserEmail.indexOf('.') == -1 || UserEmail.indexOf('@') != UserEmail.lastIndexOf('@') || UserEmail.indexOf('@') > UserEmail.lastIndexOf('.') || UserEmail.length - UserEmail.lastIndexOf('.') <= 1)
 
-//specify page to pop-under
-var popunder="http://www.rakhapura.com"
-
-//specify popunder window features
-//set 1 to enable a particular feature, 0 to disable
-var winfeatures="width=800,height=510,scrollbars=1,resizable=1,toolbar=1,location=1,menubar=1,status=1,directories=0"
-
-//Pop-under only once per browser session? (0=no, 1=yes)
-//Specifying 0 will cause popunder to load every time page is loaded
-var once_per_session=0
-
-///No editing beyond here required/////
-
-function get_cookie(Name) {
-  var search = Name + "="
-  var returnvalue = "";
-  if (document.cookie.length > 0) {
-    offset = document.cookie.indexOf(search)
-    if (offset != -1) { // if cookie exists
-      offset += search.length
-      // set index of beginning of value
-      end = document.cookie.indexOf(";", offset);
-      // set index of end of cookie value
-      if (end == -1)
-         end = document.cookie.length;
-      returnvalue=unescape(document.cookie.substring(offset, end))
-      }
-   }
-  return returnvalue;
+	{
+		alert("Please enter your email properly.");
+		document.addsite.UserEmail.focus();
+		return false;
+	}
+	if(RcpURL == "" || RcpURL=='http://' || RcpURL.length<=14)
+	{
+		alert("Please enter the reciprocal link url.");
+		document.addsite.RcpURL.focus();
+		return false;
+	}
+	if(SiteURL == RcpURL)
+	{
+		alert("You must not put our link temporarily on your home page.");
+		document.addsite.RcpURL.focus();
+		return false;
+	}
+	if(!document.addsite.Agree.checked)
+	{
+		alert("You must read and agree our Directory Submission Rules");
+		document.addsite.Agree.focus();
+		return false;
+	}
+return true;
 }
 
-function loadornot(){
-if (get_cookie('popunder')==''){
-loadpopunder()
-document.cookie="popunder=yes"
+function limitText(fieldName,maxLength)
+{
+	if(fieldName.value.length > maxLength)
+	{
+		fieldName.value = fieldName.value.substring(0,maxLength);
+	}
 }
-}
-
-function loadpopunder(){
-win2=window.open(popunder,"",winfeatures)
-win2.blur()
-window.focus()
-}
-
-if (once_per_session==0)
-loadpopunder()
-else
-loadornot()
+//-->
 
 </script>
 </head>
 <body>
-<div id="container">
+<div id="containerBody">
 <div id="header">
 <div id="logo"></div><div id="loginholder">
 
-<!--Start Login Form-->
-<form id="login" name="QuickLogin" action="default.asp?a=validate" method="post">
-<input type="hidden" name="RequestUrl" value="/privacy.asp">
-Email: <input type="text" size="14" name="email" class="theInput">
-Password: <input type="password" size="14" name="pass" class="theInput">
-<input class="theSubmit" type="submit" name="SignIn" value="Sign In">
-</form>
-<!--End Login Form-->
-<a href="default.asp?a=register">Register</a> | <a href="default.asp?a=forgotpass">Forgot Pass</a>
+<a href="Register.asp">Register</a> | <a href="Login.asp">Login</a>
 
 </div>
 <div class="menu">
       <ul>
-        <li><a href="http://www.listmywebsite.net">Main Page</a></li>
-        <li><a href="http://www.listmywebsite.net/default.asp?a=newsites">New Sites</a> </li>
-        <li><a href="http://www.listmywebsite.net/default.asp?a=topsites">Top Sites</a></li>
-        <li><a href="http://www.listmywebsite.net/default.asp?a=howtosubmit">How to submit</a></li>
-        <li><a href="http://www.listmywebsite.net/submit.asp?id=0&amp;cid=0&amp;dir=&amp;subdir=">Submit Site</a></li>
-		<li><a href="http://www.listmywebsite.net/default.asp?a=search">Search</a></li>
-        <li><a href="http://www.listmywebsite.net/faq.asp">FAQ</a></li>
-		<li><a href="http://www.listmywebsite.net/contact.asp">Contact</a></li>
+        <li><a href="http://www.listmywebsite.net" title="listmywebsite.net">Home</a></li>
+        <li><a href="http://www.listmywebsite.net/NewWebsiteListing.asp" title="New Website List">New Sites</a> </li>
+        <li><a href="http://www.listmywebsite.net/TopWebsiteListing.asp" title="Most Visited Website List">Top Sites</a></li>
+        <li><a href="http://www.listmywebsite.net/HowToSubmit.asp" title="How to submit your website">How to submit</a></li>
+        <li><a title="Add Your Site Free to ListMyWebsite.Net" href="submit.asp?id=0&amp;cid=0&amp;dir=&amp;subdir=">Submit Site</a></li>
+		<li><a href="http://www.listmywebsite.net/Search.asp" title="Search website">Search</a></li>
+        <li><a href="http://www.listmywebsite.net/advertise.asp" title="Advertise with listmywebsite.net">Advertise</a></li>
+        <li><a href="http://www.listmywebsite.net/faq.asp" title="Frequently Asked Questions">FAQ</a></li>
+		<li><a href="http://www.listmywebsite.net/contact.asp" title="Contact us">Contact</a></li>
       </ul>
     </div>
   </div>
-<div id="adsense-top"><div align="center"><script type="text/javascript"><!--
-google_ad_client = "pub-5627967757615141";
-/* List My Website - Big Banner 728x90, created 3/16/09 */
-google_ad_slot = "8659014642";
-google_ad_width = 700;
-google_ad_height = 70;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
-</div>
+<div id="container">
 <div id="content">
 
 <div id="top">
   <h1>Privacy Policy </h1>
 </div>
 <div id="text">
-<p><b>ListMyWebsite.Net Web Directory</b> do respect the privacy of 
-						individuals who use the services provided on this Site, <a href="http://www.listmywebsite.net">http://www.listmywebsite.net</a>. At the same time, we may 
-						collect the user's information of IP address, Web 
-						Browser and Operating System Versions in order to know 
-						the demographic information of the users. We only 
-						collect these information with the purpose of helping us 
+<p><b>ListMyWebsite.Net Web Directory</b> do respect the privacy of individuals who use the services provided on this Site, <a href="http://www.listmywebsite.net">http://www.listmywebsite.net</a>. At the same time, we may collect the user's information of IP address, Web Browser and Operating System Versions in order to know the demographic information of the users. We only collect these information with the purpose of helping us 
 						in promoting our site's performances and compatibilities 
 						for the various browser versions and operating systems. 
 						This Privacy Policy is provided here to help our users 
@@ -177,60 +177,85 @@ google_ad_height = 70;
 <p>Updated on 07.11.2007</p>
 </div>
 
+<div id="containerRightCol">
+<div class="o">Three Easy Steps to Promote Your Website</div>
+  <p><strong><span>1.</span> Register a free account<br>
+      <span>2.</span> Login to your account<br>
+      <span>3.</span> Submit your website to list in List My Website directory
+  </strong></p>
+  <div class="b">Advertisement</div>
+<div style="text-align:center; padding-top: 5px;">
+ 
 
-<div id="left">
-<h2 class="h2greymidU">NEWS / ANNOUNCEMENTS </h2>
-<p>No new announcements for today. </p></div>
+ <script type="text/javascript"><!--
+google_ad_client = "pub-5627967757615141";
+/* 200x200, created 4/14/10 */
+google_ad_slot = "9685711226";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 
-<div id="middle">
-      <h2 class="h2greymidU">SPONSORED LISTINGS</h2>
+</div>
+   </div>
+<div id="bBoxContainer"><div class="bottomBox">
+<div class="h2greymidU">TECH NEWS</div>
+<p>No News update available for today.</p>
+</div>
+<div class="bottomBox">   
+<div class="h2greymidU">SPONSORED LISTINGS</div>
 <!-- Start Featured Listing -->  
-
-<strong><a href="default.asp?a=go&amp;id=163" target="_blank">EcoWeb4u.com</a></strong> <br>
-We specialize in creating database driven websites <br>
-
-<strong><a href="default.asp?a=go&amp;id=169" target="_blank">Relevant Link Exchange Program</a></strong> <br>
-Relevant Link Exchange Program is a automatic link <br>
-
-<!-- End Featured Listing -->
-    </div>
-    <div id="right">
-    <h2 class="h2greymidU">USEFUL TOOLS </h2>
+<ul>
+  <li>
+    <a href="http://www.ecoweb4u.com" target="_blank">Affordable Web Designing</a></li>
+  <li><a href="http://register.ecoweb4u.com/hosting.php" target="_blank">Cheap Web Hosting</a>
+    <!-- End Featured Listing -->
+  </li>
+  <li><a href="http://register.ecoweb4u.com/domain.php" target="_blank">Cheap Domain Names</a></li>
+  <li><a href="http://www.ecoweb4u.com/austdomains/" target="_blank">Cheap Australian Domains</a></li>
+  <li><a href="http://www.listmywebsite.net">Add Your Link Here</a></li>
+</ul>
+</div>
+<div class="bottomBox"> 
+<div class="h2greymidU">USEFUL TOOLS</div>
     <ul>
       <li><a title="Free Meta Tag Generator Tool" href="http://www.ecoweb4u.com/resources/meta-tags-generator" target="_blank">Meta   Tag Generator Tool</a></li>
       <li><a title="Google Keyword Analysis" href="https://adwords.google.com/select/KeywordToolExternal" target="_blank">Google Keyword Analysis</a></li>
       <li><a title="Overture Keyword Selector Tool" href="http://inventory.overture.com/d/searchinventory/suggestion/" target="_blank">Overture Keyword Selector Tool</a></li>
       <li><a title="Free Stuff" href="freestuff.asp">Free Stuff</a></li>
-      <li><a href="http://www.ecoweb4u.com/resources/free-web-tools/ip-to-location-tool.asp" target="_blank">Free Web Tools</a> </li>
-      <li><a title="Add ListMyWebsite.Net to your Favorite list!" href="javascript:window.external.addFavorite('http://www.listmywebsite.net','A Free Web Directory');">Add   to favorites!</a></li>
-      <li><a title="Make ListMyWebsite.Net as your Homepage!" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.listmywebsite.net');" href="#">Make Homepage</a></li>
-    </ul>
-    </div>
-  
-<div id="text"><script type="text/javascript"><!--
+      <li><a href="http://www.ecoweb4u.com/resources/free-web-tools/ip-to-location-tool.asp" target="_blank">Free Web Tools</a></li>
+</ul>
+</div>
+</div>
+<div id="adsense-bottom"><script type="text/javascript"><!--
 google_ad_client = "pub-5627967757615141";
 /* LMW Bottom 728x90, created 5/28/09 */
 google_ad_slot = "1092223035";
+//google_ad_width = 828;
 google_ad_width = 728;
+
 google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></div>
+</div>
+</div>
 <div id="footer">
 <div id="footer_text">   
-  <a href="http://localhost/flower/index.html#">Home</a>
-|  <a href="http://www.listmywebsite.net/default.asp?a=newsites">New Sites</a> 
-|  <a href="http://www.listmywebsite.net/default.asp?a=topsites">Top Sites</a>
-|  <a href="http://www.listmywebsite.net/default.asp?a=howtosubmit">How to submit</a>
+  <a href="default.asp">Home</a>
+|  <a href="http://www.listmywebsite.net/NewWebsiteListing.asp" title="New Website Listing">New Sites</a> 
+|  <a href="http://www.listmywebsite.net/TopWebsiteListing.asp" title="Top Website Listing">Top Sites</a>
+|  <a href="http://www.listmywebsite.net/HowToSubmit.asp" title="How to submit your website?">How to submit</a>
 |  <a href="http://www.listmywebsite.net/submit.asp?id=0&amp;cid=0&amp;dir=&amp;subdir=">Submit Site</a>
-|  <a href="http://www.listmywebsite.net/default.asp?a=search">Search</a>
+|  <a href="http://www.listmywebsite.net/Search.asp">Search</a>
 |  <a href="http://www.listmywebsite.net/faq.asp">FAQ</a>
 |  <a href="http://www.listmywebsite.net/contact.asp">Contact</a>
 
-| <a href="http://www.listmywebsite.net/privacy.asp">Privacy Policy</a><br>
-Copyright �  2004-2009 by <a href="http://www.ecoweb4u.com">Ecoweb4u Web Solutions</a>, All Rights Reserved. By using this site you agree to its <a href="http://www.listmywebsite.net/terms.asp">Terms and Conditions</a>.<br> 
-<a href="http://www.listmywebsite.net">ListMyWebsite.net</a> and <a href="http://www.relevant-links.net">Relevant Links</a> are trademarks of<a href="http://www.ecoweb4u.com"> Ecoweb4u Web Solutions.</a></div>
+| <a href="http://www.listmywebsite.net/privacy.asp">Privacy Policy</a> | <a href="http://www.listmywebsite.net/terms.asp">Terms and Conditions</a>.<br>
+Copyright ©  2004-2009 by <a href="http://www.ecoweb4u.com">Ecoweb4u Web Solutions</a>, All Rights Reserved. <a href="http://www.listmywebsite.net">ListMyWebsite.net</a> is a project of <a href="http://www.ecoweb4u.com"> Ecoweb4u Web Solutions.</a> | <a href="http://www.thumbshots.com" target="_blank" title="Thumbnails Previews by Thumbshots">Thumbnails powered by Thumbshots</a></div>
 </div>
 </div>
 <!-- Start of StatCounter Code -->
@@ -241,7 +266,7 @@ var sc_partition=23;
 var sc_security="5b58bced"; 
 </script>
 
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c24.statcounter.com/2439388/0/5b58bced/0/" alt="web statistics" /></a></div></noscript>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript></noscript>
 <!-- End of StatCounter Code -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -249,5 +274,6 @@ var sc_security="5b58bced";
 _uacct = "UA-3738173-1";
 urchinTracker();
 </script>
+<script type="text/javascript" src="http://shots.snap.com/ss/e32546d6cd11650ddb117d96f64c8f99/snap_shots.js"></script>
 
-</div></body></html>
+</body></html>
