@@ -1,0 +1,361 @@
+<!--The following is the downloaded HTML source of the wiggio.com privacy policy that was archived on 2010-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626042549id_/http%3A//wiggio.com/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+    <title>Wiggio Privacy Policy - Makes it easy to work in groups.</title>
+    <!-- warning: IE does not like self closing script blocks -->
+    <link rel="stylesheet" type="text/css" href="http://wiggio.com/index.css">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <style type="text/css">
+      #casement_table, #content_div, #content_div div.content_footer {
+        visibility: visible;
+        height: auto;
+        overflow: auto;
+      }
+      #left_menu {
+        display: none;
+      }
+      #footer {
+        display: block;
+      }
+    </style>
+    <script language="javascript" type="text/javascript" src="http://wiggio.com/browser.js">
+    </script>
+    <script type="text/javascript">
+
+      function forgot_password() {
+          // write the user's email (if any) to the forgot form
+          document.getElementById('ff_email').value = document.getElementById('email').value;
+          
+          // submit the forgot form
+          document.forgotForm.submit();
+      }
+      
+      function authenticate() {
+	  // write email, password, and remember from relevant forms into auth form
+	  document.getElementById('af_email').value = document.getElementById('email').value;
+	  document.getElementById('af_password').value = document.getElementById('password').value;
+	  if (document.getElementById('remember').checked == true) {
+	      document.getElementById('af_remember').value = document.getElementById('remember').value;
+	  } else {
+	      document.getElementById('af_remember').value = 'off';
+	  }
+          
+	  // submit the auth form
+          document.authForm.submit();
+      }
+
+      function readCookie(name) {
+          var nameEQ = name + '=';
+          var ca = document.cookie.split(';');
+          for(var i=0;i < ca.length;i++) {
+              var c = ca[i];
+              while (c.charAt(0)==' ') c = c.substring(1,c.length);
+              if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+          }
+          return null;
+      }
+      
+      function get_dimensions(oElement) {
+	  var lx=0, ly=0;
+
+	  if (sBrowserIsIE) {
+
+	      //while (oElement != null) {
+	      if (oElement) {
+		oRect = oElement.getBoundingClientRect();
+
+		lx+=oRect.left;
+		ly+=oRect.top;
+
+	      //alert('in get_dimensions: oElement.id='+ oElement.id +' Left='+ oRect.left +' Top='+ oRect.top);
+
+	      //oElement=oElement.offsetParent;
+	      }
+
+	      // alert('in get_dimensions: Total Left='+ lx +' Total Top='+ ly);
+
+	  } else {
+
+	    while (oElement != null) {
+	      lx+=oElement.offsetLeft;
+	      ly+=oElement.offsetTop;
+
+	      //alert('in get_dimensions: oElement.id='+ oElement.id +' oElement.offsetLeft='+ oElement.offsetLeft +' oElement.offsetTop='+ oElement.offsetTop);
+
+	      oElement=oElement.offsetParent;
+	    }
+
+	  }
+	  return {x:lx,y:ly};
+      }
+
+      function on_load() {
+          var sLoggedIn, oBanner, oBannerCoords, sBannerLeft, eGroupToolsMenu;
+          var sUserEmail = '';
+	  var sPasswordHash = '';
+	  
+          document.getElementById('loading').style.display = 'none';
+          
+          if (1) {
+	      // check for "logged in" cookie
+	      sLoggedIn = readCookie('LoggedIn');
+	      // alert(sLoggedIn);
+	      if (sLoggedIn == 1) {
+		  // show the group controls
+		  oBanner = document.getElementById('banner_table');
+		  oBannerCoords = get_dimensions(oBanner);
+		  sBannerLeft = oBannerCoords.x;
+
+		  eGroupToolsMenu = document.getElementById('group_tools_menu_for_footer');
+		  eGroupToolsMenu.style.left = sBannerLeft + 'px';
+		  eGroupToolsMenu.style.visibility = 'visible';
+	      } else {
+		  // show the left menu
+		  document.getElementById('left_menu').style.display = 'block';
+	          // give the email input the focus
+	          document.getElementById('email').focus();
+		  
+		  // check for 'remember' state
+		  sUserEmail = readCookie('UserEmail');
+		  if (sUserEmail) {
+		      sUserEmail = sUserEmail.replace('%40', '@');  // convert '%40' back to '@'
+
+		      document.emailForm.email.value = sUserEmail;
+		      document.rememberForm.remember.checked = true; // if user had stored login, then check the box
+		  } else {
+		      // else leave them blank
+		  }
+		  // for now we are also remembering the user's password as a hash
+		  sPasswordHash = readCookie('Hash');
+		  if (sPasswordHash) {
+		      document.passwordForm.password.value = sPasswordHash;
+		  }
+	      }
+	  }
+      }
+      
+      // browser version check
+      sBrowserIsIE = 0;
+      sUserAgent = navigator.userAgent.toLowerCase();
+      if (sUserAgent.indexOf('msie') != -1) {
+	sBrowserIsIE = 1;
+      }
+    </script>
+  </head>
+  <body onload="on_load();">
+    <table id="casement_table" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td id="casement_left_top" valign="top">
+          &nbsp;
+        </td>
+        <td id="casement_center" valign="top" rowspan="2" width="900">
+          <div id="page">
+            <table id="banner_table" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td valign="top">
+                  <a id="logo_link" href="/index.html" title="Return to Wiggio">&nbsp;</a>
+                </td>
+                <td valign="top" align="right">
+		  &nbsp;
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center" valign="bottom">
+		  &nbsp;
+                </td>
+              </tr>
+            </tbody></table>
+
+            <table id="content_table" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td id="left_channel" aling="right" valign="top">
+                  <div id="left_menu" style="display: block;">
+                    <div class="left_menu" id="left_menu_login">
+                      <div id="loading" style="display: none;">
+                        <img id="loading_head" src="images/loading.jpg" alt="Loading">
+                        <div id="loading_div">
+                          <img id="loading_anim" src="images/loading_anim.gif" alt="...">
+                        </div>
+                      </div>
+                      <div id="login">
+                        <img id="login_head" src="images/login.gif" alt="Login">
+                        <div id="login_block">
+                          <label for="email">Email</label>
+                          <form method="post" action="index.html" name="emailForm" id="emailForm" onsubmit="return false;">
+                            <input type="text" size="18" name="email" id="email" value="">
+                          </form>
+                          <label for="password">Password</label>
+                          <form method="post" action="index.html" name="passwordForm" id="passwordForm" onsubmit="authenticate(); return false;">
+                            <input type="password" size="18" name="password" id="password" value="">
+                          </form>
+                          <form method="post" action="remote_login.html" name="authForm" id="authForm">
+                            <input type="hidden" name="af_email" id="af_email" value="">
+                            <input type="hidden" name="af_password" id="af_password" value="">
+                            <input type="hidden" name="af_remember" id="af_remember" value="">
+                          </form>
+                          <form method="post" action="remote_forgot.html" name="forgotForm" id="forgotForm">
+                            <input type="hidden" name="ff_email" id="ff_email" value="">
+                          </form>
+
+                          <table id="login_table" border="0" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                              <td nowrap="" valign="middle">
+                                <div id="remember_div">
+                                  <form method="post" action="index.html" name="rememberForm" id="rememberForm" onsubmit="return false;">
+                                    <input type="checkbox" name="remember" id="remember" value="remember">
+                                    <span class="mini_link"><label id="remember_label" for="remember">Remember me</label></span>
+                                  </form>
+                                </div>
+                              </td>
+                              <td align="right">
+                                <a id="login_go_button" href="" onclick="authenticate(0); return false;">&nbsp;</a>
+                              </td>
+                            </tr>
+                          </tbody></table>
+
+                          <div id="forgot_password_div">
+                            <a class="mini_link" id="forgot_password_link" href="" onclick="forgot_password(); return false;">Forgot your password?</a>
+                          </div>
+			</div> <!-- end login_block -->
+                      </div> <!-- end login -->
+                    </div> <!-- end left_menu_login -->
+                  </div> <!-- end left_menu -->
+		  &nbsp;
+                </td>
+                <td id="content_channel" valign="top">
+                  <div id="content_div">
+		    <div class="content_footer">
+		      <div class="wiggioH1">Privacy Policy</div>
+		      <p class="Standard"><span class="wiggioH2">This policy is effective as of March 25, 2008.</span></p>
+		      <p class="P14">Wiggio groups are private spaces and we are committed to maintaining the privacy of each individual group. There is no public directory of Wiggio groups. The only way for someone to join your group is if a member of your group invites that person to join, or if a member of your group gives another person the password to your group. </p>
+		      
+		      <p class="Standard"><span class="T4">Wiggio is committed to providing the utmost in privacy security. We do not sell nor trade any personal information obtained from the site. </span></p>
+		      
+		      <p class="NormalWeb">Wiggio does not collect information from anyone without his/her request. All e-mail correspondence is kept in strict privacy and will not be disclosed to parties other than Wiggio.  </p>
+		      
+		      <p class="NormalWeb">These policies are subject to change, so please make sure to check back periodically.  </p>
+		      <p class="P6"><span class="T1">By using or accessing Wiggio, you are accepting the practices described in this Privacy Policy.</span></p>
+		      
+		      <p class="P3"> </p><p class="wiggioH2">The Information We Collect </p><p class="P6"><span class="T1">When you visit Wiggio you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.</span></p>
+		      
+		      <p class="P6"><span class="T1">When you register with Wiggio, you provide us with certain personal information, such as your name, your email address, your telephone number, school you attend and any other personal or preference information that you provide to us.</span></p>
+		      
+		      <p class="P6"><span class="T1">When you enter Wiggio, we collect your browser type and IP address. This information is gathered for all Wiggio visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Wiggio. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.</span></p>
+		      
+		      <p class="P6"><span class="T1">When you use Wiggio, you may set up your groups and start using the Wiggio functionalities.  You post User Content on the Site at your own risk.  Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.</span></p>
+		      <p class="P6"><span class="T1">Any improper collection or misuse of information provided on Wiggio is a violation of the Wiggio Terms of Services. </span></p>
+		      
+		      <p class="P6"><span class="T1">Wiggio may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Wiggio service through the operation of the service in order to provide you with more useful information and a more personalized experience.</span></p>
+		      
+		      <p class="P6"><span class="T1">By using Wiggio, you are consenting to have your personal data transferred to and processed in the United States.</span></p>
+		      
+		      <p class="wiggioH2">Children Under the Age of 13 </p>
+		      
+		      <p class="P6"><span class="T1">We recommend that minors under the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.</span></p>
+		      
+		      <p class="P11"><span class="wiggioH2">Use of Information Obtained by Wiggio</span></p>
+		      
+		      <p class="P6"><span class="T1">When you register with Wiggio, you create and join groups and set your personal preferences. Your information and the content you generate is displayed to people in the groups you belong to on Wiggio. We may occasionally use your name and email address to send you notifications regarding new services offered by Wiggio that we think you may find valuable.</span></p>
+		      
+		      <p class="P6"><span class="T1">Wiggio may send you service-related announcements from time to time through the general operation of the service. For instance, if a friend sends you a new message or poke, or someone posts on your wall, you may receive an email alerting you to that fact.</span></p>
+		      
+		      <p class="P6"><span class="T1">Wiggio may use information in your profile without identifying you as an individual to third parties. We do this for purposes such as determining how many people are in certain groups for advertisements and promotions. </span></p>
+		      
+		      <p class="wiggioH2">Sharing Your Information with Third Parties </p>
+		      
+		      <p class="P6"><span class="T1">Wiggio is about sharing information with the members of your groups.  We reserve the right to do the following:</span></p>
+		      <ul><li class="P15" style="margin-left:0cm;">
+			  
+			  <p class="P15" style="margin-left:0.25cm;"><span class="T3">We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Wiggio, to remove repetitive information from our user lists, to process payments for products or services, to offer an online job application process, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Wiggio-specified purposes. </span></p></li>
+			
+			<li class="P16" style="margin-left:0cm;"><p class="P16" style="margin-left:0.25cm;"><span class="T3">We occasionally provide demonstration accounts that allow non-users a glimpse into the Wiggio world. Such accounts have only limited capabilities (e.g., messaging is disabled) and passwords are changed regularly to limit possible misuse. </span></p></li>
+			
+			<li class="P16" style="margin-left:0cm;"><p class="P16" style="margin-left:0.25cm;"><span class="T3">We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Wiggio service or using the Wiggio name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies. </span></p></li>
+			
+			<li class="P16" style="margin-left:0cm;"><p class="P16" style="margin-left:0.25cm;"><span class="T3">We may offer services jointly with other companies on Wiggio. You can tell when another company is involved in any store or service provided on Wiggio, and we may share customer information with that company in connection with your use of that store or service. </span></p></li>
+			
+			<li class="P17" style="margin-left:0cm;"><p class="P17" style="margin-left:0.25cm;"><span class="T3">If the ownership of all or substantially all of the Wiggio business, or individual business units owned by Wiggio, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.</span></p></li>
+		      </ul>
+		      
+		      <p class="wiggioH2">Links </p>
+		      
+		      <p class="P6"><span class="T1">Wiggio may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Wiggio.</span></p>
+		      
+		      <p class="wiggioH2">Third Party Advertising </p>
+		      
+		      <p class="P6"><span class="T1">Advertisements that appear on Wiggio are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Wiggio does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Wiggio unless you choose to share it with them.</span></p>
+		      
+		      <p class="P6"><span class="T1">This privacy policy covers the use of cookies by Wiggio and does not cover the use of cookies or other tracking technologies by any of its advertisers.</span></p>
+		      <p class="wiggioH2">Security </p>
+		      
+		      <p class="P6"><span class="T1">Wiggio takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. </span></p>
+		      
+		      <p class="wiggioH2">Terms of Use, Notices and Revisions </p>
+		      
+		      <p class="P6"><span class="T1">Your use of Wiggio, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.</span></p><p class="P3"> 
+		      </p>
+		    </div>
+
+                  </div>
+                </td>
+                <td id="right_channel" valign="top">
+                  &nbsp;
+                </td>
+              </tr>
+            </tbody></table>
+
+            <!-- footer_script -->
+            <div id="footer">
+              <table id="footer_links" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td id="about_wiggio_cell" valign="top">
+                    <a href="about.html" onclick="// load_template('content_div', 'about_wiggio', '', 0); return false;">&nbsp;</a>
+                  </td>
+                  <td id="faq_cell" valign="top">
+                    <a href="faq.html" onclick="// load_template('content_div', 'faq', '', 0); return false;">&nbsp;</a>
+                  </td>
+                  <td id="contact_us_cell" valign="top">
+                    <a href="contact_us.html" onclick="// load_template('content_div', 'contact_us', '', 0); return false;">&nbsp;</a>
+                  </td>
+                  <!--
+                  <td id="help_cell" valign="top">
+                    <a href="help.html" onclick="// load_template('content_div', 'help', '', 0); return false;">&#160;</a>
+                  </td>
+                  <td id="support_cell" valign="top">
+                    <a href="support.html" onclick="// load_template('content_div', 'support', '', 0); return false;">&#160;</a>
+                  </td>
+                  -->
+                  <td id="privacy_policy_cell" valign="top">
+                    <a href="privacy_policy.html" onclick="// load_template('content_div', 'privacy_policy', '', 0); return false;">&nbsp;</a>
+                  </td>
+                  <td id="terms_and_condition_cell" valign="top">
+                    <a href="terms_and_conditions.html" onclick="// load_template('content_div', 'terms_and_conditions', '', 0); return false;">&nbsp;</a>
+                  </td>
+                  <td width="*">
+                    &nbsp;
+                  </td>
+                </tr>
+              </tbody></table>
+            </div>
+          </div>
+        </td>
+        <td id="casement_right_top" valign="top">
+          &nbsp;
+        </td>
+      </tr>
+      <tr>
+        <td id="casement_left_bottom" valign="top">
+          &nbsp;
+        </td>
+        <td id="casement_right_bottom" valign="top">
+          &nbsp;
+        </td>
+      </tr>
+    </tbody></table>
+    <div id="group_tools_menu_for_footer">
+      <a href="/" id="my_groups_link">&nbsp;</a>
+    </div>
+  
+
+</body></html>
