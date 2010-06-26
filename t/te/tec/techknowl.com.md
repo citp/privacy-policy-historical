@@ -1,50 +1,28 @@
-> *The following text is extracted and transformed from the techknowl.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426033715id_/http%3A//www.techknowl.com/2008/11/privacy-policy-for-wwwtechknowlcom.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techknowl.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626131716id_/http%3A//www.techknowl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for www.techknowl.com
+# Privacy
 
-**advertisements**
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-  
-**Privacy Policy for www.techknowl.com**  
-  
-Your privacy is important to us. We are committed to safeguarding your privacy while online at our site www.techknowl.com. The following discloses the information gathering and dissemination practices for this Web site.  
-The Information We Collect
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-**The Information We Collect**
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at [ here](http://www.google.com/privacy_ads.html) Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-We use statcounter, google analytics and other hosting service tools to collect the information. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. The name and website URl are displayed on comments, but email address is secure with us. We do not share it with outside parties  
-Cookies
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, techknowl.com has no access or control over these cookies that may be used by third party advertisers. 
 
-**Cookies**
+**Collection of Personal Information**  
+When visiting techknowl.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Our site don't use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
-Google’s use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  
-Newsletter
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
 
-**Newsletter**  
-** **   
-If a user wishes to subscribe to our newsletter (powered by Feedburner), we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.  
-Links
+If you have any questions regarding the privacy policy of techknowl.com then you may contact us at mobiclue@gmail.com 
 
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+Last updated Sat, 06 Mar 2010 06:20
 
-**Copy Limitations**
-
-Please don't copy the whole post. A short paragraph with content in quotes is acceptable with a link-back to the post at techknowl.com  
-Credit the Source
-
-You need to clearly highlight the fact that the content was derived from techknowl.com  
-**  
-**  
-**Link Back**
-
-You need to link back to the article from which you derived the excerpt.  
-Advertisers
-
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense,  
- Axill,Kontera,Infolinks,chitika, Adbrite etc. Please check their websites for respective privacy policies.
-
-**Contact Information**
-
-If users have any questions or suggestions regarding our privacy policy, please [Contact us](http://www.techknowl.com/2008/10/contact-me.html).
+© 2010 Techknowl.com Wordpress, Blogger SEO tips, themes,templates,free serial codes and genuine license key offers, promo codes and discount coupons, Windows and Linux software download| Theme by [Downhub](http://www.downhub.com/)
