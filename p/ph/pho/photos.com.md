@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117003358id_/http%3A//www.photos.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627085451id_/http%3A//www.photos.com/legal/privacy) for the most accurate reproduction.*
 
 # Photos.com - Privacy Policy
 
@@ -90,6 +90,6 @@ We reserve the right to change the terms of this privacy policy at any time. Whe
 
 ## Contact Information
 
-You can contact Photos.com Sales by emailing [sales@photos.com](mailto:sales@photos.com), or by phone at 800 482 4567, or by postal mail at Photos.com, Sales, 601 N. 34th Street, Seattle, WA 98103./paragraph>
+You can contact Photos.com Sales by emailing [sales@photos.com](mailto:sales@photos.com), or by phone at 800 482 4567, or by postal mail at Photos.com, Sales, 601 N. 34th Street, Seattle, WA 98103.
 
 © 2009 Photos.com. All rights reserved.
