@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the netrition.com privacy policy that was archived on 2009-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227115531id_/http%3A//www6.netrition.com/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netrition.com privacy policy that was archived on 2010-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627132038id_/http%3A//www6.netrition.com/privacy_statement.html) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,6 +10,829 @@
 <script type="text/javascript" src="/js/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="/js/lightbox.js"></script>
 <link rel="stylesheet" href="/Styles/lightbox.css" type="text/css" media="screen">
+<script language="JavaScript">
+<!-- begin script
+document.cookie = "affilnetr=2072_111111_0; domain=.netrition.com; path=/; expires=Tue, 29-Jun-2010 13:20:38 GMT";
+// end script -->
+</script>
+
+
+<script language="JavaScript">
+
+<!-- begin script
+
+function doClear(theText) {
+     if (theText.value == theText.defaultValue) {
+         theText.value = "";
+     }
+ }
+
+// "Internal" function to return the decoded value of a cookie
+function getCookieVal (offset) {
+  var endstr = document.cookie.indexOf (";", offset);
+  if (endstr == -1)
+    endstr = document.cookie.length;
+  return unescape(document.cookie.substring(offset, endstr));
+}
+
+function GetCookie (name) {
+  var arg = name + "=";
+  var alen = arg.length;
+  var clen = document.cookie.length;
+  var i = 0;
+  while (i < clen) {
+    var j = i + alen;
+    if (document.cookie.substring(i, j) == arg)
+      return getCookieVal (j);
+    i = document.cookie.indexOf(" ", i) + 1;
+    if (i == 0) break; 
+  }
+  return null;
+}
+
+function SetCookie (name,value,expires,path,domain,secure) {
+  document.cookie = name + "=" + escape (value) +
+    ((expires) ? "; expires=" + expires : "") +
+    ((path) ? "; path=" + path : "") +
+    ((domain) ? "; domain=" + domain : "") +
+    ((secure) ? "; secure" : "");
+}
+
+function addProductToCart(product_id, desc)
+{
+   cart_cookie = GetCookie('cart');
+   if (cart_cookie == null)
+   {
+      cart_cookie = "";
+   }
+   else
+   {
+      if (cart_cookie == 'clear')
+      {
+         cart_cookie = "";
+      }
+   }
+   cartString = cart_cookie;
+
+   // Find the product id in the cart cookie
+   found = -1;
+   continue_looking = 1;
+   start_at = 0;
+   while (continue_looking == 1)
+   {
+      temp_found = cartString.indexOf(product_id, start_at);
+      // product id not found
+      if (((temp_found == -1) || (temp_found == "")) && (temp_found != "0"))
+      {
+         continue_looking = 0;
+      }
+      // product id found
+      else
+      {
+         if (temp_found == 0)
+         {
+            found = 0;
+            continue_looking = 0;
+         }
+         else
+         {
+            // Make sure the found product id is not just a subset of a larger product id
+            previous_char = cartString.charAt(temp_found - 1);
+            if (previous_char == '/')
+            {
+               found = temp_found;
+               continue_looking = 0;
+            }
+            else
+            {
+               start_at = cartString.indexOf("/", temp_found);
+               if ((start_at == -1) || (start_at == ""))
+               {
+                  continue_looking = 0;
+               }
+            }
+         }
+      }
+   }
+
+   if (found == -1)
+   {
+      init_qty = 1;
+   }
+   else
+   {
+      underscore_at = cartString.indexOf("_", found);
+      slash_at = cartString.indexOf("/", found);
+      if ((slash_at == -1) || (slash_at == ""))
+      {
+         init_qty = cartString.substring(underscore_at+1, cartString.length);
+      }
+      else
+      {
+         init_qty = cartString.substring(underscore_at+1, slash_at);
+      }
+   }
+
+   // Prompt for quantity
+   num_ordered = prompt("Enter the quantity of " + desc + " that you want to order.", init_qty);
+
+   // Cancel was not pressed
+   if (num_ordered != null)
+   {
+      if (num_ordered == "")
+      {
+         num_ordered = 0;
+      }
+
+      // Error checking on quantity - only numbers allowed
+      ok = 1;
+      for (i=0; (i<num_ordered.length) && (ok==1); i++)
+      {
+         char1 = num_ordered.charAt(i);
+         if ((char1 < '0') || (char1 > '9'))
+         {
+            ok = 0;
+            alert("Invalid quantity: " + num_ordered);
+         }
+      }
+
+      // No error
+      if (ok == 1)
+      {
+         // Quantity NOT set to 0
+         if (num_ordered != 0)
+         {
+            // Empty cart
+            if (cart_cookie == "")
+            {
+               cart_cookie = product_id + '_' + num_ordered;
+            }
+            else
+            {
+               // New item in cart
+               if (found == -1)
+               {
+                  cart_cookie = cart_cookie + '/' + product_id + '_' + num_ordered;
+               }
+               else
+               {
+                  // Updating last item in cart cookie
+                  if ((slash_at == -1) || (slash_at == ""))
+                  {
+                     first_part = cartString.substring(0, underscore_at+1);
+                     cart_cookie = first_part + num_ordered; 
+                  }
+                  else
+                  {
+                     first_part = cartString.substring(0, underscore_at+1);
+                     second_part = cartString.substring(slash_at, cartString.length);
+                     cart_cookie = first_part + num_ordered + second_part;
+                  }
+               }
+            }
+         }
+         // Quantity set to zero
+         else
+         {
+            // Not an empty cart
+            if (cart_cookie != "")
+            {
+               // Removing an item in the cart
+               if (found != -1)
+               {
+                  // Updating last item in cart cookie
+                  if ((slash_at == -1) || (slash_at == ""))
+                  {
+                     if (found == 0)
+                     {
+                        cart_cookie = "";
+                     }
+                     else
+                     {
+                        cart_cookie = cartString.substring(0, found-1);
+                     }
+                  }
+                  else
+                  {
+                     if (found > 0)
+                     {
+                        first_part = cartString.substring(0, found-1);
+                        second_part = cartString.substring(slash_at, cartString.length);
+                     }
+                     else
+                     {
+                        first_part = "";
+                        second_part = cartString.substring(slash_at+1, cartString.length);
+                     }
+                     cart_cookie = first_part + second_part;
+                  }
+               }
+            }
+         }
+         if (cart_cookie == "")
+         {
+            cart_cookie = 'clear';
+         }
+         SetCookie('cart', cart_cookie, 'Fri, 25-Dec-2020 00:00:00 GMT', '/', '.netrition.com');
+      }
+   }
+}
+
+function openWindow(url, target_name, width, height, return_value)
+{
+   var attr;
+   var popup;
+   attr = "scrollbars,resizable,height=" + height + ",width=" + width;
+   popup = window.open(url, target_name, attr);
+   return return_value;
+}
+
+function openWindowWithToolbar(url, target_name, width, height, return_value)
+{
+   var attr;
+   var popup;
+   attr = "scrollbars,resizable,menubar,toolbar,height=" + height + ",width=" + width;
+   popup = window.open(url, target_name, attr);
+   return return_value;
+}
+
+function MM_findObj(n, d)
+{
+   var p,i,x;
+   if(!d)
+   {
+      d=document;
+   }
+   if((p=n.indexOf("?"))>0&&parent.frames.length)
+   {
+      d=parent.frames[n.substring(p+1)].document;
+      n=n.substring(0,p);
+   }
+   if(!(x=d[n])&&d.all)
+   {
+      x=d.all[n];
+   }
+   for (i=0;!x&&i<d.forms.length;i++)
+   {
+      x=d.forms[i][n];
+   }
+   for(i=0;!x&&d.layers&&i<d.layers.length;i++)
+   {
+      x=MM_findObj(n,d.layers[i].document);
+   }
+   return x;
+}
+
+// Functions that swaps images.
+function MM_swapImage()
+{
+   var i,j=0,x,a=MM_swapImage.arguments;
+   document.MM_sr=new Array;
+   for(i=0;i<(a.length-2);i+=3)
+   {
+      if ((x=MM_findObj(a[i]))!=null)
+      {
+         document.MM_sr[j++]=x;
+         if(!x.oSrc)
+         {
+            x.oSrc=x.src;
+         }
+         x.src=a[i+2];
+      }
+   }
+}
+
+function MM_swapImgRestore()
+{
+   var i,x,a=document.MM_sr;
+   for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++)
+   {
+      x.src=x.oSrc;
+   }
+}
+
+// Functions that handle preload. 
+function MM_preloadImages()
+{
+   var d=document;
+   if(d.images)
+   {
+      if(!d.MM_p)
+      {
+         d.MM_p=new Array();
+      }
+      var i,j=d.MM_p.length,a=MM_preloadImages.arguments;
+      for(i=0; i<a.length; i++)
+      {
+         if (a[i].indexOf("#")!=0)
+         {
+            d.MM_p[j]=new Image;
+            d.MM_p[j++].src=a[i];
+         }
+      }
+   }
+}
+
+function showJSID(elemId)
+{
+   var rsl_elem = document.getElementById(elemId);
+   rsl_elem.style.display = "inline";
+}
+
+function hideJSID(elemId)
+{
+   var rsl_elem = document.getElementById(elemId);
+   rsl_elem.style.display = "none";
+}
+function setNetrOptionsCookie(option_name, option_value)
+{
+   var netr_options_cookie;
+   var netr_options_cookie_string;
+   var option_names = new Array();
+   var option_values = new Array();
+   var num_options = 0;
+   var i;
+   var more_options;
+   var found_sep;
+   var start_search;
+   var end_search;
+   var option_pair_string;
+   var found_pair_sep;
+   var found_option_in_string;
+
+   netr_options_cookie = GetCookie('netr_options');
+   if (netr_options_cookie == null)
+   {
+      netr_options_cookie = "";
+   }
+   else
+   {
+      if (netr_options_cookie == 'clear')
+      {
+         netr_options_cookie = "";
+      }
+   }
+   netr_options_cookie_string = netr_options_cookie;
+
+   if (netr_options_cookie_string == '')
+   {
+      option_names[num_options] = option_name;
+      option_values[num_options] = option_value;
+      num_options++;
+   }
+   else
+   {
+      more_options = 1;
+      start_search = 0;
+      found_option_in_string = 0;
+      while (more_options == 1)
+      {
+         found_sep = netr_options_cookie_string.indexOf(":", start_search);
+         if ((found_sep > start_search) || (found_sep == -1) || (found_sep == ""))
+         {
+            if ((found_sep == -1) || (found_sep == ""))
+            {
+               more_options = 0;
+               end_search = netr_options_cookie_string.length;
+            }
+            else
+            {
+               end_search = found_sep;
+            }
+
+            option_pair_string = netr_options_cookie_string.substring(start_search, end_search);
+            found_pair_sep = option_pair_string.indexOf(",");
+            if ((found_pair_sep > 0) && (found_pair_sep < (option_pair_string.length - 1)))
+            {
+               option_names[num_options] = option_pair_string.substring(0, found_pair_sep);
+               if (option_names[num_options] == option_name)
+               {
+                  option_values[num_options] = option_value;
+                  found_option_in_string = 1;
+               }
+               else
+               {
+                  option_values[num_options] = option_pair_string.substring(found_pair_sep + 1, option_pair_string.length);
+               }
+               num_options++;
+            }
+         }
+         if ((found_sep != -1) && (found_sep != ""))
+         {
+            start_search = found_sep + 1;
+            if (start_search >= netr_options_cookie_string.length - 1)
+            {
+               more_options = 0;
+            }
+         }
+      }
+      if (found_option_in_string == 0)
+      {
+         option_names[num_options] = option_name;
+         option_values[num_options] = option_value;
+         num_options++;
+      }
+   }
+
+   if (num_options > 0)
+   {
+      netr_options_cookie_string = "";
+      for (i=0; i<num_options; i++)
+      {
+         if (i>0)
+         {
+            netr_options_cookie_string += ':'
+         }
+         netr_options_cookie_string += option_names[i] + ',' + option_values[i];
+      }
+
+      SetCookie('netr_options', netr_options_cookie_string, 'Fri, 25-Dec-2020 00:00:00 GMT', '/', '.netrition.com');
+   }
+}
+
+function getNetrOptionsCookie(option_name)
+{
+   var option_value = null;
+   var netr_options_cookie;
+   var netr_options_cookie_string;
+   var option_name_read;
+   var more_options;
+   var start_search;
+   var found_sep;
+   var more_options;
+   var option_pair_string;
+   var found_pair_sep;
+
+   netr_options_cookie = GetCookie('netr_options');
+   if (netr_options_cookie == null)
+   {
+      netr_options_cookie = "";
+   }
+   else
+   {
+      if (netr_options_cookie == 'clear')
+      {
+         netr_options_cookie = "";
+      }
+   }
+   netr_options_cookie_string = netr_options_cookie;
+
+   if (netr_options_cookie_string != "")
+   {
+      more_options = 1;
+      start_search = 0;
+      while (more_options == 1)
+      {
+         found_sep = netr_options_cookie_string.indexOf(":", start_search);
+         if ((found_sep > start_search) || (found_sep == -1) || (found_sep == ""))
+         {
+            if ((found_sep == -1) || (found_sep == ""))
+            {
+               more_options = 0;
+               end_search = netr_options_cookie_string.length;
+            }
+            else
+            {
+               end_search = found_sep;
+            }
+
+            option_pair_string = netr_options_cookie_string.substring(start_search, end_search);
+            found_pair_sep = option_pair_string.indexOf(",");
+            if ((found_pair_sep > 0) && (found_pair_sep < (option_pair_string.length - 1)))
+            {
+               option_name_read = option_pair_string.substring(0, found_pair_sep);
+               if (option_name_read == option_name)
+               {
+                  option_value = option_pair_string.substring(found_pair_sep + 1, option_pair_string.length);
+                  break;
+               }
+            }
+         }
+         if ((found_sep != -1) && (found_sep != ""))
+         {
+            start_search = found_sep + 1;
+            if (start_search >= netr_options_cookie_string.length - 1)
+            {
+               more_options = 0;
+            }
+         }
+      }
+   }
+
+   return option_value;
+}
+
+function buyPDProduct(product_id)
+{
+   var pd_buy_form_text_qty_elem_id = "pd_buy_form_text_qty_id-" + product_id;
+   var pd_buy_cart_qty_elem_id = "pd_buy_cart_qty_id_prefix-" + product_id;
+   var pd_buy_form_button_elem_id = "pd_buy_form_button_id-" + product_id;
+   var qty_location;
+   var qty_text_node;
+   var qty_text;
+   var num_ordered;
+   var qty_to_buy_string;
+   var ok;
+   var buy_table_data;
+   var return_qty;
+   var new_text_node;
+   var form_button;
+
+   qty_text = document.getElementById(pd_buy_form_text_qty_elem_id);
+   num_ordered = qty_text.value;
+
+   return_qty = addProductAndQtyToCartCookie(product_id, num_ordered);
+
+   if (return_qty >= 0)
+   {
+      if (return_qty == 0)
+      {
+         qty_to_buy_string = "";
+      }
+      else
+      {
+         qty_to_buy_string = return_qty + " in cart";
+      }
+
+      qty_location=document.getElementById(pd_buy_cart_qty_elem_id);
+      if (qty_location.childNodes.length == 0)
+      {
+         new_text_node = document.createTextNode(qty_to_buy_string); 
+         qty_location.appendChild(new_text_node);
+      }
+      else
+      {
+         qty_text_node=qty_location.childNodes[0];
+         qty_text_node.data = qty_to_buy_string;
+      }
+
+      form_button = document.getElementById(pd_buy_form_button_elem_id);
+      if (return_qty > 0)
+      {
+         form_button.value = "Change";
+      }
+      else
+      {
+         form_button.value = "Add";
+      }
+
+      qty_text.value = "";
+   }
+}
+
+// Returns qty (>0) if added to cart
+// Returns 0 if removed from cart
+// Returns -1 if qty is in error
+function addProductAndQtyToCartCookie(product_id, qty)
+{
+   var cart_cookie;
+   var cartString;
+   var found;
+   var continue_looking;
+   var start_at;
+   var temp_found;
+   var previous_char;
+   var underscore_at;
+   var slash_at;
+   var ok;
+   var i;
+   var char1;
+   var first_part;
+   var second_part;
+   var all_blank_qty;
+   var return_qty;
+   var qty_from_cookie;
+
+   cart_cookie = GetCookie('cart');
+   if (cart_cookie == null)
+   {
+      cart_cookie = "";
+   }
+   else
+   {
+      if (cart_cookie == 'clear')
+      {
+         cart_cookie = "";
+      }
+   }
+   cartString = cart_cookie;
+
+   // Find the product id in the cart cookie
+   found = -1;
+   continue_looking = 1;
+   start_at = 0;
+   while (continue_looking == 1)
+   {
+      temp_found = cartString.indexOf(product_id, start_at);
+      // product id not found
+      if (((temp_found == -1) || (temp_found == "")) && (temp_found != "0"))
+      {
+         continue_looking = 0;
+      }
+      // product id found
+      else
+      {
+         if (temp_found == 0)
+         {
+            found = 0;
+            continue_looking = 0;
+         }
+         else
+         {
+            // Make sure the found product id is not just a subset of a larger product id
+            previous_char = cartString.charAt(temp_found - 1);
+            if (previous_char == '/')
+            {
+               found = temp_found;
+               continue_looking = 0;
+            }
+            else
+            {
+               start_at = cartString.indexOf("/", temp_found);
+               if ((start_at == -1) || (start_at == ""))
+               {
+                  continue_looking = 0;
+               }
+            }
+         }
+      }
+   }
+
+   if (found != -1)
+   {
+      underscore_at = cartString.indexOf("_", found);
+      slash_at = cartString.indexOf("/", found);
+      if ((slash_at == -1) || (slash_at == ""))
+      {
+         qty_from_cookie = cartString.substring(underscore_at+1, cartString.length);
+      }
+      else
+      {
+         qty_from_cookie = cartString.substring(underscore_at+1, slash_at);
+      }
+   }
+
+   // If all spaces provided, assume blank
+   all_blank_qty = 1;
+   for (i=0; i<qty.length; i++)
+   {
+      char1 = qty.charAt(i);
+      if (char1 != ' ')
+      {
+         all_blank_qty = 0;
+      }
+   }
+
+   if (all_blank_qty == 1)
+   {
+      qty = "";
+   }
+
+   ok = 1;
+
+   // Error checking on quantity - error if blank and already in cart
+   if ((found != -1) && (qty == ""))
+   {
+      ok = 0;
+      alert(qty_from_cookie + " already in cart.\nEnter a new quantity to change the quantity.\nEnter 0 to remove product from cart.\nPress Change button after entering quantity.");
+   }
+
+   // Error checking on quantity - compare to see if same as what is in cart
+   if (qty == qty_from_cookie)
+   {
+      ok = 0;
+      alert(qty + " already in cart.\nEnter a new quantity to change the quantity.\nEnter 0 to remove product from cart.\nPress Change button after entering quantity.");
+   }
+
+   // Error checking on quantity - only numbers allowed
+   for (i=0; (i<qty.length) && (ok==1); i++)
+   {
+      char1 = qty.charAt(i);
+      if ((char1 < '0') || (char1 > '9'))
+      {
+         ok = 0;
+         alert("Invalid quantity: " + qty);
+      }
+   }
+
+   // Error checking on quantity - must be < 100000
+   if (qty > 99999)
+   {
+      ok = 0;
+      alert("Quantity must be < 100000");
+   }
+
+   // If blank qty, assume add one product to cart
+   if (qty == "")
+   {
+      qty = 1;
+   }
+
+   // No error
+   if (ok == 1)
+   {
+      // Quantity NOT set to 0
+      if (qty != 0)
+      {
+         // Empty cart
+         if (cart_cookie == "")
+         {
+            cart_cookie = product_id + '_' + qty;
+         }
+         else
+         {
+            // New item in cart
+            if (found == -1)
+            {
+               cart_cookie = cart_cookie + '/' + product_id + '_' + qty;
+            }
+            else
+            {
+               // Updating last item in cart cookie
+               if ((slash_at == -1) || (slash_at == ""))
+               {
+                  first_part = cartString.substring(0, underscore_at+1);
+                  cart_cookie = first_part + qty; 
+               }
+               else
+               {
+                  first_part = cartString.substring(0, underscore_at+1);
+                  second_part = cartString.substring(slash_at, cartString.length);
+                  cart_cookie = first_part + qty + second_part;
+               }
+            }
+         }
+      }
+      // Quantity set to zero
+      else
+      {
+         // Not an empty cart
+         if (cart_cookie != "")
+         {
+            // Removing an item in the cart
+            if (found != -1)
+            {
+               // Updating last item in cart cookie
+               if ((slash_at == -1) || (slash_at == ""))
+               {
+                  if (found == 0)
+                  {
+                     cart_cookie = "";
+                  }
+                  else
+                  {
+                     cart_cookie = cartString.substring(0, found-1);
+                  }
+               }
+               else
+               {
+                  if (found > 0)
+                  {
+                     first_part = cartString.substring(0, found-1);
+                     second_part = cartString.substring(slash_at, cartString.length);
+                  }
+                  else
+                  {
+                     first_part = "";
+                     second_part = cartString.substring(slash_at+1, cartString.length);
+                  }
+                  cart_cookie = first_part + second_part;
+               }
+            }
+         }
+      }
+      if (cart_cookie == "")
+      {
+         cart_cookie = 'clear';
+      }
+      SetCookie('cart', cart_cookie, 'Fri, 25-Dec-2020 00:00:00 GMT', '/', '.netrition.com');
+      return_qty = qty;
+   }
+   else
+   {
+      return_qty = -1;
+   }
+
+   return(return_qty);
+}
+
+function GoToURL(s)
+ { 
+      var d = s.options[s.selectedIndex].value;
+      window.top.location.href = "http://www4.netrition.com/" + d;
+//      s.selectedIndex=0;
+ }
+
+function GoToProduct(s)
+ { 
+      var d = s.options[s.selectedIndex].value;
+      window.top.location.href = "http://www4.netrition.com/cgi/redirect_pid.cgi?pid=" + d;
+//      s.selectedIndex=0;
+ }
+// end script -->
+
+</script>
+
 
    <meta name="Description" content="Privacy Statement for Netrition, Inc.">
    <meta name="KeyWords" content="Privacy, Privacy Statement for Netrition">
@@ -22,32 +845,32 @@
 
 
 <map name="nav_map">
-   <area shape="rect" coords="0,0,175,32" href="http://www26.netrition.com/index.html">
-  <area shape="rect" coords="217,0,337,19" href="http://www26.netrition.com/index.html">
-  <area shape="rect" coords="375,0,408,17" href="http://www26.netrition.com/cgi/add_to_cart.cgi?cart_display=true">
-  <area shape="rect" coords="409,1,471,17" href="http://www26.netrition.com/checkout.html">
-  <area shape="rect" coords="472,1,554,17" href="http://www26.netrition.com/myaccount.html">
-  <area shape="rect" coords="555,1,588,17" href="http://www26.netrition.com/policies.html">
+   <area shape="rect" coords="0,0,175,32" href="http://www4.netrition.com/index.html">
+  <area shape="rect" coords="217,0,337,19" href="http://www4.netrition.com/index.html">
+  <area shape="rect" coords="375,0,408,17" href="http://www4.netrition.com/cgi/add_to_cart.cgi?cart_display=true">
+  <area shape="rect" coords="409,1,471,17" href="http://www4.netrition.com/checkout.html">
+  <area shape="rect" coords="472,1,554,17" href="http://www4.netrition.com/myaccount.html">
+  <area shape="rect" coords="555,1,588,17" href="http://www4.netrition.com/policies.html">
 </map>
 
 <map name="nav_map_new">
-  <area shape="rect" coords="0,0,255,57" href="http://www26.netrition.com/index.html">
-  <area shape="rect" coords="424,26,548,41" href="http://www26.netrition.com/index.html">
-  <area shape="rect" coords="375,0,408,17" href="http://www26.netrition.com/cgi/add_to_cart.cgi?cart_display=true">
-  <area shape="rect" coords="409,1,471,17" href="http://www26.netrition.com/checkout.html">
-  <area shape="rect" coords="472,1,554,17" href="http://www26.netrition.com/myaccount.html">
-  <area shape="rect" coords="555,1,588,17" href="http://www26.netrition.com/policies.html">
+  <area shape="rect" coords="0,0,255,57" href="http://www4.netrition.com/index.html">
+  <area shape="rect" coords="424,26,548,41" href="http://www4.netrition.com/index.html">
+  <area shape="rect" coords="375,0,408,17" href="http://www4.netrition.com/cgi/add_to_cart.cgi?cart_display=true">
+  <area shape="rect" coords="409,1,471,17" href="http://www4.netrition.com/checkout.html">
+  <area shape="rect" coords="472,1,554,17" href="http://www4.netrition.com/myaccount.html">
+  <area shape="rect" coords="555,1,588,17" href="http://www4.netrition.com/policies.html">
 </map>
 
 <table align="CENTER" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td rowspan="2" valign="top"><a href="http://www26.netrition.com/"><img src="/header/netrition_logo_header_250.gif" name="header_map_newlo_r1_c1" width="250" height="57" vspace="1" border="0"></a></td>
+    <td rowspan="2" valign="top"><a href="http://www4.netrition.com/"><img src="/header/netrition_logo_header_250.gif" name="header_map_newlo_r1_c1" width="250" height="57" vspace="1" border="0"></a></td>
     <td rowspan="2" valign="top"><img src="/header/header_map_newlo_r1_c2.gif" name="header_map_newlo_r1_c2" width="36" height="58" border="0"></td>
-    <td valign="top"><a href="http://www26.netrition.com/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_map_newlo_r1_c3','','/header/header_map_newlo_r1_c3_f2.gif',1);"><img src="/header/header_map_newlo_r1_c3.gif" name="header_map_newlo_r1_c3" alt="Home Page" width="44" height="31" border="0"></a></td>
-    <td valign="top"><a href="http://www26.netrition.com/cgi/add_to_cart.cgi?cart_display=true" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_map_newlo_r1_c4','','/header/header_map_newlo_r1_c4_f2.gif',1);"><img name="header_map_newlo_r1_c4" src="/header/header_map_newlo_r1_c4.gif" alt="Shopping Cart" width="34" height="31" border="0"></a></td>
-    <td valign="top"><a href="http://www26.netrition.com/checkout.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_map_newlo_r1_c5','','/header/header_map_newlo_r1_c5_f2.gif',1);"><img src="/header/header_map_newlo_r1_c5.gif" name="header_map_newlo_r1_c5" alt="Checkout" width="75" height="31" border="0"></a></td>
-    <td valign="top"><a href="http://www26.netrition.com/myaccount.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_map_newlo_r1_c6','','/header/header_map_newlo_r1_c6_f2.gif',1);"><img src="/header/header_map_newlo_r1_c6.gif" name="header_map_newlo_r1_c6" alt="Account Settings" width="95" height="31" border="0"></a></td>
-    <td valign="top"><a href="http://www26.netrition.com/policies.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_map_newlo_r1_c7','','/header/header_map_newlo_r1_c7_f2.gif',1);"><img src="/header/header_map_newlo_r1_c7.gif" name="header_map_newlo_r1_c7" alt="Ordering Policies" width="51" height="31" border="0"></a></td>
+    <td valign="top"><a href="http://www4.netrition.com/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_map_newlo_r1_c3','','/header/header_map_newlo_r1_c3_f2.gif',1);"><img src="/header/header_map_newlo_r1_c3.gif" name="header_map_newlo_r1_c3" alt="Home Page" width="44" height="31" border="0"></a></td>
+    <td valign="top"><a href="http://www4.netrition.com/cgi/add_to_cart.cgi?cart_display=true" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_map_newlo_r1_c4','','/header/header_map_newlo_r1_c4_f2.gif',1);"><img name="header_map_newlo_r1_c4" src="/header/header_map_newlo_r1_c4.gif" alt="Shopping Cart" width="34" height="31" border="0"></a></td>
+    <td valign="top"><a href="http://www4.netrition.com/checkout.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_map_newlo_r1_c5','','/header/header_map_newlo_r1_c5_f2.gif',1);"><img src="/header/header_map_newlo_r1_c5.gif" name="header_map_newlo_r1_c5" alt="Checkout" width="75" height="31" border="0"></a></td>
+    <td valign="top"><a href="http://www4.netrition.com/myaccount.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_map_newlo_r1_c6','','/header/header_map_newlo_r1_c6_f2.gif',1);"><img src="/header/header_map_newlo_r1_c6.gif" name="header_map_newlo_r1_c6" alt="Account Settings" width="95" height="31" border="0"></a></td>
+    <td valign="top"><a href="http://www4.netrition.com/policies.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_map_newlo_r1_c7','','/header/header_map_newlo_r1_c7_f2.gif',1);"><img src="/header/header_map_newlo_r1_c7.gif" name="header_map_newlo_r1_c7" alt="Ordering Policies" width="51" height="31" border="0"></a></td>
     <td valign="top"><img src="/header/shim.gif" width="1" height="31" border="0"></td>
   </tr>
 
@@ -71,9 +894,10 @@
 
 
 <td class="navbar" nowrap="" align="RIGHT"><font size="-1">
-</font><form name="Company" action="http://www26.netrition.com/cgi/redirect_pid.cgi" method="POST" style="margin: 0px; padding: 0px;"><font size="-1">
+<form name="Company" action="http://www4.netrition.com/cgi/redirect_pid.cgi" method="POST" style="margin: 0px; padding: 0px;">
 <select name="pid" onchange="GoToProduct(this);">
 <option value="prices.html">Select a Brand
+</option><option value="463">4C
 </option><option value="532">4Ever Fit
 </option><option value="27">ABB
 </option><option value="20">Absolute Nutrition
@@ -83,27 +907,35 @@
 </option><option value="467">Advanced Muscle Science
 </option><option value="276">Ageless Foundation Labs
 </option><option value="402">Al Dente
+</option><option value="606">ALBA
 </option><option value="524">All American EFX
 </option><option value="274">Aloha Nu
+</option><option value="619">alpha betic
+</option><option value="601">Alpine Cider
 </option><option value="273">ALRI
 </option><option value="389">American Biosciences
 </option><option value="286">American Health
 </option><option value="243">Amino Vital
 </option><option value="474">Anabolic Xtreme
 </option><option value="194">Andre's Carbo-Save
+</option><option value="groupset:5726,1010,3502,4483,4252,4693,1009,1008,1007,1006,4158,1005,5705,3501,1004,1001,1000,999,998,3500,997,4806">Animal
 </option><option value="486">Applied Nutriceuticals
 </option><option value="542">APS
+</option><option value="625">Asher's Chocolates
+</option><option value="73">ASN
 </option><option value="63">AST
 </option><option value="498">Athletic Body Care
 </option><option value="89">Atkins Nutritionals
 </option><option value="412">Axis Labs
 </option><option value="177">Baja Bob's
+</option><option value="586">Bakery on Main
 </option><option value="54">Balance
 </option><option value="500">Barlean's
 </option><option value="528">Baskin Robbins
 </option><option value="450">Beast Sports Nutrition
 </option><option value="507">Bell Plantation
 </option><option value="192">Bella Vita
+</option><option value="597">Benefit Nutrition
 </option><option value="477">Beverly International
 </option><option value="241">Big Train
 </option><option value="5">Biochem
@@ -112,13 +944,15 @@
 </option><option value="424">Blue Diamond
 </option><option value="272">BNRG
 </option><option value="230">Bob's Red Mill
+</option><option value="626">Body Fx
 </option><option value="468">Body Well Nutrition
+</option><option value="607">Boericke &amp; Tafel
 </option><option value="80">Books
 </option><option value="566">Bora Bora
 </option><option value="497">Boundless Nutrition
 </option><option value="544">BPT
-</option><option value="190">Bran-a-Crisp
 </option><option value="200">BSN
+</option><option value="602">Caffe D'Vita
 </option><option value="147">Carb-BOOM
 </option><option value="516">CarLO CARBiano
 </option><option value="514">Carlson
@@ -126,11 +960,12 @@
 </option><option value="50">Champion Nutrition
 </option><option value="182">Chef Jay's
 </option><option value="555">CherryPharm
-</option><option value="452">Chocolate Dreams and Wishes
 </option><option value="570">Cinnergen
 </option><option value="530">Click
 </option><option value="56">Clif Bar
+</option><option value="633">Colossal Labs
 </option><option value="470">Comstock
+</option><option value="598">Con-Cret
 </option><option value="386">Controlled Labs
 </option><option value="115">Coromega
 </option><option value="411">Costas Foods/Muscle Foods
@@ -139,12 +974,15 @@
 </option><option value="492">Cytogenix
 </option><option value="8">CytoSport
 </option><option value="121">Da Vinci
+</option><option value="599">Deb El
+</option><option value="305">Desert Essence
 </option><option value="537">Detour
 </option><option value="239">Diabetisweet
 </option><option value="275">Dixie Diner
 </option><option value="575">Doctor in the Kitchen
 </option><option value="404">Doctor Kracker
-</option><option value="396">Dr. Fife
+</option><option value="624">Dorian Yates Nutrition
+</option><option value="589">Dr. Bronner
 </option><option value="181">Dream Tan
 </option><option value="212">Dreamfields
 </option><option value="511">DS (Driven Sports)
@@ -155,15 +993,18 @@
 </option><option value="240">Eden Foods
 </option><option value="309">Emerita
 </option><option value="580">Enzymatic Therapy
+</option><option value="585">ErgoGenix
 </option><option value="110">Ergopharm
 </option><option value="545">Essential pH
 </option><option value="392">Essiac International
 </option><option value="105">Expert Foods
 </option><option value="478">Extend Snacks
 </option><option value="520">EZ-Sweetz
+</option><option value="636">Farmers Market Foods
 </option><option value="494">Fiber Gourmet
 </option><option value="508">FiberRich
 </option><option value="521">Fit Foods
+</option><option value="613">FitNutz
 </option><option value="185">Fizogen
 </option><option value="142">Flax-Z-Snax / Naturally Supreme
 </option><option value="100">Flexsports
@@ -172,16 +1013,23 @@
 </option><option value="561">Food For Life
 </option><option value="581">Forge Nutrition
 </option><option value="44">FSI Nutrition/Eight Ball Nutrition
+</option><option value="590">Fullbar
+</option><option value="611">Galeo's
 </option><option value="249">Garden of Life
 </option><option value="270">Gaspari Nutrition
+</option><option value="612">GE Pharma
 </option><option value="24">GeniSoy
 </option><option value="23">German American Technologies
 </option><option value="246">GG Scandinavian
+</option><option value="620">Ghirardelli
 </option><option value="421">Global Sweet
 </option><option value="533">Glutino
 </option><option value="444">Go Lightly
+</option><option value="634">Goliath Labs
 </option><option value="540">Grace Island Foods
+</option><option value="600">Grand Brands
 </option><option value="483">Greens Plus
+</option><option value="628">Hansen's
 </option><option value="77">HDT/Wellements
 </option><option value="58">Health From The Sun
 </option><option value="317">Health Plus
@@ -191,21 +1039,25 @@
 </option><option value="523">Hero Nutritionals
 </option><option value="501">Hershey's
 </option><option value="169">Hi-Tech
+</option><option value="198">Homestyle Fresh / LC Homestyles
+</option><option value="621">Hooter's
 </option><option value="242">Horizon
+</option><option value="603">I.M. Healthy
 </option><option value="128">IDS
 </option><option value="277">iForce Nutrition
 </option><option value="547">Infinite Labs
 </option><option value="556">Inner Armour
 </option><option value="557">Inner Armour - Parisi Approved
-</option><option value="215">Instone
 </option><option value="493">Iovate
 </option><option value="170">Iron Tek
 </option><option value="180">iSatori
 </option><option value="113">ISS Research
 </option><option value="469">J &amp; M Foods, Inc.
+</option><option value="623">J&amp;D's
 </option><option value="415">Jelly Belly
 </option><option value="430">Jennies
 </option><option value="11">Jok n Al
+</option><option value="395">Joseph's Lite Cookies
 </option><option value="464">Joseph's Middle East Bakery
 </option><option value="562">Joyva
 </option><option value="162">Judy's Candy
@@ -227,7 +1079,10 @@
 </option><option value="109">LowCarbolicious
 </option><option value="426">Lowrey's
 </option><option value="143">LW Scientific
+</option><option value="247">MacNut Oil
+</option><option value="435">MacroLife Naturals
 </option><option value="563">Mad Hectic Foods
+</option><option value="595">Madhava Agave
 </option><option value="171">Mama Lupe's
 </option><option value="225">MAN
 </option><option value="256">Maple Grove Farms
@@ -242,11 +1097,15 @@
 </option><option value="447">Monin
 </option><option value="158">MRI
 </option><option value="235">MRM
+</option><option value="605">Mt. Olive
 </option><option value="465">Muscle Asylum Project
+</option><option value="629">Muscle Meds
 </option><option value="577">Muscle Pharm
+</option><option value="615">Muscle Warfare
 </option><option value="31">Muscle-Link
 </option><option value="71">MuscleTech
 </option><option value="536">Myogenix
+</option><option value="616">Native Forest
 </option><option value="69">Natrol
 </option><option value="68">Naturade
 </option><option value="6">Naturally
@@ -262,12 +1121,14 @@
 </option><option value="250">Nutiva
 </option><option value="422">Nutrabolics
 </option><option value="41">Nutraceutics
+</option><option value="631">NutraFusion Nutritionals
 </option><option value="202">Nutragenics
 </option><option value="163">Nutrex
 </option><option value="535">NutriBreads
 </option><option value="391">Nutrition Now
 </option><option value="416">Nutritious Living
 </option><option value="259">NxCare/NxLabs
+</option><option value="groupset:2198,3542,3541,5727,4290">Oh Yeah!
 </option><option value="502">Omega Sports
 </option><option value="471">OptiMale
 </option><option value="84">Optimum Nutrition
@@ -276,12 +1137,15 @@
 </option><option value="76">Ostrim
 </option><option value="66">Pacific Health
 </option><option value="442">Palo Alto Labs
+</option><option value="604">Pappy's
 </option><option value="21">PBL
+</option><option value="591">Peak Wellness BioPharma
 </option><option value="388">Peter Gillham's
 </option><option value="539">PGN
 </option><option value="568">PhytoCeutical Formulations
 </option><option value="61">Power Bar
 </option><option value="209">PowerButter
+</option><option value="83">Premier Nutrition
 </option><option value="234">Primaforce
 </option><option value="59">Pro Tan
 </option><option value="140">ProFibe
@@ -289,7 +1153,9 @@
 </option><option value="187">Promax
 </option><option value="583">Protein Plus
 </option><option value="2">Pumpkorn
+</option><option value="608">Pure Bar
 </option><option value="546">Pure Fit
+</option><option value="622">Purus Labs
 </option><option value="458">PVL
 </option><option value="268">R.W. Garcia
 </option><option value="132">Rault Foods
@@ -301,12 +1167,14 @@
 </option><option value="441">Sans Sucre
 </option><option value="368">Sci-Fit
 </option><option value="210">Scivation
+</option><option value="627">SDC Nutrition
 </option><option value="512">Seal Sama
 </option><option value="550">Seapoint Farms
 </option><option value="505">Sensato
 </option><option value="526">Sequoia Fitness
 </option><option value="473">Sera-Pharma
 </option><option value="280">SGN Nutrition
+</option><option value="592">Smokin' Joe Jones
 </option><option value="245">SnacLite
 </option><option value="168">SNI
 </option><option value="37">Sopharma
@@ -318,6 +1186,7 @@
 </option><option value="79">Sports One
 </option><option value="134">Steel's Gourmet
 </option><option value="446">Stevita
+</option><option value="584">Sun Crystals
 </option><option value="560">Sun Warrior
 </option><option value="573">SunButter
 </option><option value="479">Supreme Protein
@@ -329,7 +1198,7 @@
 </option><option value="510">TeaTech
 </option><option value="558">Teeccino
 </option><option value="574">The Super Juice Bottling Company
-</option><option value="253">Thermolife
+</option><option value="371">Think!
 </option><option value="582">Tinkyada
 </option><option value="525">To Go Brands
 </option><option value="443">Toufayan Bakeries
@@ -339,6 +1208,7 @@
 </option><option value="46">Twinlab
 </option><option value="47">Ultimate Nutrition
 </option><option value="418">UltraLab
+</option><option value="587">Uncle Sam
 </option><option value="52">Universal Nutrition
 </option><option value="504">USP Labs
 </option><option value="455">Valeo
@@ -356,15 +1226,17 @@
 </option><option value="559">Xero Limits
 </option><option value="271">Xyience
 </option><option value="541">Youth Addict
+</option><option value="596">Zevia
 </option><option value="499">Zilch
 </option><option value="55">ZonePerfect
+</option><option value="593">ZSweet
 </option></select>
-<input type="SUBMIT" value="Go"></font></form></td>
+<input type="SUBMIT" value="Go"></form></font></td>
 
 <td class="navbar" width="10"></td>
 
 <td class="navbar" nowrap="" align="CENTER">
-<form name="Product" action="http://www26.netrition.com/cgi/redirect_pid.cgi" method="POST" style="margin: 0px; padding: 0px;">
+<form name="Product" action="http://www4.netrition.com/cgi/redirect_pid.cgi" method="POST" style="margin: 0px; padding: 0px;">
 <font size="-1">
 <select name="pid" onchange="GoToProduct(this);">
 <option value="cat:">Select a Product Category
@@ -374,6 +1246,8 @@
 </option><option value="cat:7KEDH">7-KETO DHEA
 </option><option value="cat:ACAI">Acai
 </option><option value="cat:ALC">Acetyl L-Carnitine
+</option><option value="cat:ADREN">Adrenal Support
+</option><option value="cat:AGAV">Agave Nectar
 </option><option value="cat:ALA">Alpha Lipoic Acid
 </option><option value="cat:AMI">Amino Acids
 </option><option value="cat:AMGN">Aminogen
@@ -386,14 +1260,17 @@
 </option><option value="cat:ARGI">Arginine
 </option><option value="cat:AROM">Aromatherapy
 </option><option value="cat:BAKE">Baking Products
+</option><option value="cat:BARI">Bariatric Approved
 </option><option value="cat:BAR">Bars
 </option><option value="cat:BETAL">Beta-Alanine
+</option><option value="cat:BEV">Beverages
 </option><option value="cat:BONE">Bone Health
 </option><option value="cat:BOOK">Books
 </option><option value="cat:SMART">Brain and Memory
 </option><option value="cat:BCAA">Branched Chain Amino Acids
 </option><option value="cat:BRED">Bread Products
 </option><option value="cat:BFAST">Breakfast Foods
+</option><option value="cat:BREAST">Breast Health
 </option><option value="cat:CAFF">Caffeine
 </option><option value="cat:CALC">Calcium
 </option><option value="cat:CBLOC">Carbohydrate Blocker
@@ -402,13 +1279,14 @@
 </option><option value="cat:CERL">Cereal
 </option><option value="cat:CHIT">Chitosan
 </option><option value="cat:CHOC">Chocolate and Candy
+</option><option value="cat:CHOL">Cholesterol Support
 </option><option value="cat:CHON">Chondroitin
 </option><option value="cat:CHROM">Chromium
 </option><option value="cat:CITR">Citrulline Malate
 </option><option value="cat:CITA">Citrus Aurantium (Bitter Orange)
 </option><option value="cat:CLA">CLA
 </option><option value="cat:COQ10">Co-enzyme Q10
-</option><option value="cat:COCO">Coconut Oil
+</option><option value="cat:COCO">Coconut Products (Oil, Flour, etc.)
 </option><option value="cat:COND">Condiments
 </option><option value="cat:CRE">Creatine
 </option><option value="cat:DETX">Detoxification/Cleansing
@@ -427,6 +1305,7 @@
 </option><option value="cat:FIBR">Fiber
 </option><option value="cat:FISH">Fish Oil (Omega-3)
 </option><option value="cat:FITN">Fitness Accessories
+</option><option value="cat:FLAV">Flavorings
 </option><option value="cat:FLAX">Flax
 </option><option value="cat:GABA">GABA
 </option><option value="cat:GRLC">Garlic
@@ -445,6 +1324,7 @@
 </option><option value="cat:HEART">Heart Health
 </option><option value="cat:HERB">Herbs
 </option><option value="cat:HMB">HMB
+</option><option value="cat:HOME">Homeopathic
 </option><option value="cat:HOOD">Hoodia
 </option><option value="cat:HOR">Hormones
 </option><option value="cat:HGW">Horny Goat Weed
@@ -455,6 +1335,7 @@
 </option><option value="cat:JOI">Joint Support
 </option><option value="cat:KETON">Ketone Test Strips
 </option><option value="cat:KOSH">Kosher
+</option><option value="cat:KRILL">Krill Oil
 </option><option value="cat:CARN">L-Carnitine
 </option><option value="cat:LEUC">Leucine
 </option><option value="cat:LIVER">Liver Health
@@ -474,6 +1355,7 @@
 </option><option value="cat:MUFF">Muffins
 </option><option value="cat:MUL">Multi-vitamins
 </option><option value="cat:MUSC">Muscle Builders
+</option><option value="cat:MYOS">Myostatin Inhibitors
 </option><option value="cat:NAC">N-Acetyl-Cysteine
 </option><option value="cat:NEURO">Neurotransmitter Support
 </option><option value="cat:NITRO">Nitric Oxide Support
@@ -499,6 +1381,7 @@
 </option><option value="cat:PYRU">Pyruvate
 </option><option value="cat:QUER">Quercetin
 </option><option value="cat:RTD">Ready To Drink
+</option><option value="cat:MEAL">Ready-To-Eat Meals
 </option><option value="cat:RELAX">Relaxation
 </option><option value="cat:RESV">Resveratrol
 </option><option value="cat:RHORO">Rhodiola Rosea
@@ -510,6 +1393,7 @@
 </option><option value="cat:SHKR">Shaker Bottles
 </option><option value="cat:SLP">Sleep Aid
 </option><option value="cat:SNACK">Snack Products
+</option><option value="cat:DRINK">Soft Drinks (Ready-to-Drink and Mixes)
 </option><option value="cat:SOY">Soy Products
 </option><option value="cat:STJ">St. Johns Wort
 </option><option value="cat:STEV">Stevia
@@ -519,7 +1403,7 @@
 </option><option value="cat:SYR">Syrups
 </option><option value="cat:TAN">Tanning
 </option><option value="cat:TAUR">Taurine
-</option><option value="cat:TEA">Teas
+</option><option value="cat:TEA">Tea/Coffee
 </option><option value="cat:THYR">Thyroid Boosters
 </option><option value="cat:TOP">Topical
 </option><option value="cat:TORT">Tortilla Wraps
@@ -543,19 +1427,14 @@
 
 <td class="navbar" width="10"></td>
 
-<!-- Google CSE Search Box Begins -->
-<td nowrap="" align="LEFT">
-  <form id="searchbox_015346081251628235304:jekrhbhinmu" action="http://www.netrition.com/search_results.html" style="margin: 0px; padding: 0px;">
-<font size="-1">
-    <input type="hidden" name="cx" value="015346081251628235304:jekrhbhinmu">
-    <input type="hidden" name="cof" value="FORID:11">
-    <input name="q" type="text" size="15">
-    <input type="submit" name="sa" value="Search"></font>
-  </form>
+<td class="navbar" nowrap="" align="LEFT">
+<form method="post" action="http://www4.netrition.com/cgi/advanced_search.cgi" style="margin: 0px; padding: 0px;">
+<input type="text" name="part_product_name" size="15">
+<input type="hidden" name="part_product_search_button" value="true">
+<input type="hidden" name="primary_search_button" value="true">
+<input type="submit" value="Search">
+</form>
 </td>
-  <script type="text/javascript" src="/google_custom_search.js"></script>
-<!--  <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_015346081251628235304%3Ajekrhbhinmu"></script> -->
-<!-- Google CSE Search Box Ends -->
 
 <td></td>
 
@@ -587,66 +1466,66 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/product_categories_display.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/product_categories_display.cgi" target="_top" class="highlight"><b>All Categories</b></a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/product_categories_display.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/product_categories_display.cgi" target="_top" class="highlight"><b>All Categories</b></a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/low_carb_products_page.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/low_carb_products_page.html" target="_top" class="highlight">Low Carb Products</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/low_carb_products_page.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/low_carb_products_page.html" target="_top" class="highlight">Low Carb Products</a></td>
 </tr>
 
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/gluten_free_products_page.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/gluten_free_products_page.html" target="_top" class="highlight">Gluten Free Products</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/gluten_free_products_page.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/gluten_free_products_page.html" target="_top" class="highlight">Gluten Free Products</a></td>
 </tr>
 
 
 <tr>
 <!-- bars_page.html -->
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/product_categories_display.cgi?categories=BAR'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/product_categories_display.cgi?categories=BAR" target="_top" class="highlight">Nutrition Bars</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/product_categories_display.cgi?categories=BAR'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/product_categories_display.cgi?categories=BAR" target="_top" class="highlight">Nutrition Bars</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/product_categories_display.cgi?categories=PRO'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/product_categories_display.cgi?categories=PRO" target="_top" class="highlight">Protein</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/product_categories_display.cgi?categories=PRO'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/product_categories_display.cgi?categories=PRO" target="_top" class="highlight">Protein</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/product_categories_display.cgi?categories=MUSC'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/product_categories_display.cgi?categories=MUSC" target="_top" class="highlight">Muscle Builders</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/product_categories_display.cgi?categories=MUSC'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/product_categories_display.cgi?categories=MUSC" target="_top" class="highlight">Muscle Builders</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/product_categories_display.cgi?categories=DIET'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/product_categories_display.cgi?categories=DIET" target="_top" class="highlight">Diet and Weight Loss</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/product_categories_display.cgi?categories=DIET'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/product_categories_display.cgi?categories=DIET" target="_top" class="highlight">Diet and Weight Loss</a></td>
 </tr>
 <!--
 <TR>
 <td onmouseover="this.bgColor='E5E5E5';" 
-    onclick="self.location='http://www26.netrition.com/lowfat_mrp_page.html'" 
+    onclick="self.location='http://www4.netrition.com/lowfat_mrp_page.html'" 
     onmouseout="this.bgColor='ffffff';" 
-class="highlight">&#149;&nbsp;<a href="http://www26.netrition.com/lowfat_mrp_page.html" TARGET="_top" class="highlight">Drink Mixes</a></td>
+class="highlight">&#149;&nbsp;<a href="http://www4.netrition.com/lowfat_mrp_page.html" TARGET="_top" class="highlight">Drink Mixes</a></td>
 </TR>
 -->
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/product_categories_display.cgi?categories=VIT'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/product_categories_display.cgi?categories=VIT" target="_top" class="highlight">Vitamins</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/product_categories_display.cgi?categories=VIT'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/product_categories_display.cgi?categories=VIT" target="_top" class="highlight">Vitamins</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/product_categories_display.cgi?categories=MIN'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/product_categories_display.cgi?categories=MIN" target="_top" class="highlight">Minerals</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/product_categories_display.cgi?categories=MIN'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/product_categories_display.cgi?categories=MIN" target="_top" class="highlight">Minerals</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/product_categories_display.cgi?categories=HERB'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/product_categories_display.cgi?categories=HERB" target="_top" class="highlight">Herbs</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/product_categories_display.cgi?categories=HERB'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/product_categories_display.cgi?categories=HERB" target="_top" class="highlight">Herbs</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/specials.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/specials.html" target="_top" class="highlight">Sale Items!</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/specials.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/specials.html" target="_top" class="highlight">Sale Items!</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/clearance_display.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/clearance_display.cgi" target="_top" class="highlight">Clearance Sale!</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/clearance_display.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/clearance_display.cgi" target="_top" class="highlight">Clearance Sale!</a></td>
 </tr>
 <!--
 <TR>
 <td onmouseover="this.bgColor='E5E5E5';" 
-    onclick="self.location='http://www26.netrition.com/cgi/product_categories_display.cgi'" 
+    onclick="self.location='http://www4.netrition.com/cgi/product_categories_display.cgi'" 
     onmouseout="this.bgColor='ffffff';" 
-class="highlight">&#149;&nbsp;<a href="http://www26.netrition.com/cgi/product_categories_display.cgi" TARGET="_top" class="highlight">More...</a></td>
+class="highlight">&#149;&nbsp;<a href="http://www4.netrition.com/cgi/product_categories_display.cgi" TARGET="_top" class="highlight">More...</a></td>
 </TR>
 -->
 <tr>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/product_search.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/product_search.cgi" target="_top" class="highlight">Product Analyzer</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/product_search.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/product_search.cgi" target="_top" class="highlight">Product Analyzer</a></td>
 </tr>
 </tbody></table>
 
@@ -659,25 +1538,25 @@ class="highlight">&#149;&nbsp;<a href="http://www26.netrition.com/cgi/product_ca
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/prices.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/prices.html" target="_top" class="highlight"><b>All Brands</b></a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/prices.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/prices.html" target="_top" class="highlight"><b>All Brands</b></a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/prices.cgi?manu_id=89'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/prices.cgi?manu_id=89" target="_top" class="highlight">Atkins</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/prices.cgi?manu_id=89'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/prices.cgi?manu_id=89" target="_top" class="highlight">Atkins</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/prices.cgi?manu_id=200'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/prices.cgi?manu_id=200" target="_top" class="highlight">BSN</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/prices.cgi?manu_id=200'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/prices.cgi?manu_id=200" target="_top" class="highlight">BSN</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/prices.cgi?manu_id=74'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/prices.cgi?manu_id=74" target="_top" class="highlight">EAS</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/prices.cgi?manu_id=74'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/prices.cgi?manu_id=74" target="_top" class="highlight">EAS</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/prices.cgi?manu_id=71'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/prices.cgi?manu_id=71" target="_top" class="highlight">MuscleTech</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/prices.cgi?manu_id=71'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/prices.cgi?manu_id=71" target="_top" class="highlight">MuscleTech</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/prices.cgi?manu_id=153'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/prices.cgi?manu_id=153" target="_top" class="highlight">NOW</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/prices.cgi?manu_id=153'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/prices.cgi?manu_id=153" target="_top" class="highlight">NOW</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/prices.cgi?manu_id=84'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/prices.cgi?manu_id=84" target="_top" class="highlight">Optimum Nutrition</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/prices.cgi?manu_id=84'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/prices.cgi?manu_id=84" target="_top" class="highlight">Optimum Nutrition</a></td>
 </tr>
 
 </tbody></table>
@@ -688,16 +1567,19 @@ class="highlight">&#149;&nbsp;<a href="http://www26.netrition.com/cgi/product_ca
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/advanced_search.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/advanced_search.cgi" target="_top" class="highlight"><b>New Customer Help</b></a></td>
+</tr>
+<tr>
 <td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www.lowcarbfriends.com/bbs/'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www.lowcarbfriends.com/bbs/" target="_top" class="highlight">Message Boards</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/healthnotes.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/healthnotes.html" target="_top" class="highlight">HealthNotes</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/healthnotes.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/healthnotes.html" target="_top" class="highlight">HealthNotes</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/news.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/news.cgi" target="_top" class="highlight">Health News</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/news.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/news.cgi" target="_top" class="highlight">Health News</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cgi/foods.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cgi/foods.cgi" target="_top" class="highlight">Food Nutrients</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cgi/foods.cgi'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cgi/foods.cgi" target="_top" class="highlight">Food Nutrients</a></td>
 </tr>
 </tbody></table>
 
@@ -707,26 +1589,35 @@ class="highlight">&#149;&nbsp;<a href="http://www26.netrition.com/cgi/product_ca
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/myaccount.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/myaccount.html" target="_top" class="highlight">My Account</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/myaccount.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/myaccount.html" target="_top" class="highlight">My Account</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/cart.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/cart.html" target="_top" class="highlight">Shopping Cart</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/cart.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/cart.html" target="_top" class="highlight">Shopping Cart</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/checkout.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/checkout.html" target="_top" class="highlight">Checkout</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/checkout.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/checkout.html" target="_top" class="highlight">Checkout</a></td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/policies.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/policies.html" target="_top" class="highlight">Policies</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/policies.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/policies.html" target="_top" class="highlight">Policies</a></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www26.netrition.com/contact.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www26.netrition.com/contact.html" target="_top" class="highlight">Contact Us</a></td>
+<td onmouseover="this.bgColor='E5E5E5';" onclick="self.location='http://www4.netrition.com/contact.html'" onmouseout="this.bgColor='ffffff';" class="highlight">•&nbsp;<a href="http://www4.netrition.com/contact.html" target="_top" class="highlight">Contact Us</a></td>
 </tr>
 </tbody></table> 
 
-
+<br>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+<a href="http://www.facebook.com/pages/Netritioncom/210889832433?ref=mf" target="_blank">
+<img src="/images/facebook_small.jpg" width="40" height="40" alt="Join Netrition on Facebook!" style="border-style: solid; border-width: 0px; margin: 0px 2px; height: 40px; width: 40px; float: left;">
+<b>Join us on Facebook!</b></a>
+</td>
+</tr>
+</tbody></table>
 
 <br>
 <table width="100%">
@@ -890,7 +1781,7 @@ Or <a href="http://www.netrition.com/cgi/feedback_form.cgi">contact us online</a
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.netrition.com/ads/www/delivery/ajs.php?campaignid=8&amp;block=1&amp;cb=97631990689&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20091227115531id_/http%253A//www6.netrition.com/privacy_statement.html"></script><noscript><a href='http://ads.netrition.com/ads/www/delivery/ck.php?n=a8f646ba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.netrition.com/ads/www/delivery/avw.php?campaignid=8&amp;n=a8f646ba' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ads.netrition.com/ads/www/delivery/ajs.php?campaignid=8&amp;block=1&amp;cb=29344084682&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100627132038id_/http%253A//www6.netrition.com/privacy_statement.html"></script><noscript><a href='http://ads.netrition.com/ads/www/delivery/ck.php?n=a8f646ba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.netrition.com/ads/www/delivery/avw.php?campaignid=8&amp;n=a8f646ba' border='0' alt='' /></a></noscript>
 
      </td>
     </tr>
@@ -921,7 +1812,7 @@ Or <a href="http://www.netrition.com/cgi/feedback_form.cgi">contact us online</a
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.netrition.com/ads/www/delivery/ajs.php?campaignid=8&amp;block=1&amp;cb=390974607&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20091227115531id_/http%253A//www6.netrition.com/privacy_statement.html"></script><noscript><a href='http://ads.netrition.com/ads/www/delivery/ck.php?n=a8f646ba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.netrition.com/ads/www/delivery/avw.php?campaignid=8&amp;n=a8f646ba' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ads.netrition.com/ads/www/delivery/ajs.php?campaignid=8&amp;block=1&amp;cb=67715823711&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100627132038id_/http%253A//www6.netrition.com/privacy_statement.html"></script><noscript><a href='http://ads.netrition.com/ads/www/delivery/ck.php?n=a8f646ba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.netrition.com/ads/www/delivery/avw.php?campaignid=8&amp;n=a8f646ba' border='0' alt='' /></a></noscript>
 
      </td>
     </tr>
@@ -952,7 +1843,7 @@ Or <a href="http://www.netrition.com/cgi/feedback_form.cgi">contact us online</a
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.netrition.com/ads/www/delivery/ajs.php?campaignid=8&amp;block=1&amp;cb=69203605586&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20091227115531id_/http%253A//www6.netrition.com/privacy_statement.html"></script><noscript><a href='http://ads.netrition.com/ads/www/delivery/ck.php?n=a8f646ba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.netrition.com/ads/www/delivery/avw.php?campaignid=8&amp;n=a8f646ba' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ads.netrition.com/ads/www/delivery/ajs.php?campaignid=8&amp;block=1&amp;cb=14474507747&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100627132038id_/http%253A//www6.netrition.com/privacy_statement.html"></script><noscript><a href='http://ads.netrition.com/ads/www/delivery/ck.php?n=a8f646ba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.netrition.com/ads/www/delivery/avw.php?campaignid=8&amp;n=a8f646ba' border='0' alt='' /></a></noscript>
 
      </td>
     </tr>
@@ -982,7 +1873,7 @@ Or <a href="http://www.netrition.com/cgi/feedback_form.cgi">contact us online</a
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.netrition.com/ads/www/delivery/ajs.php?campaignid=8&amp;block=1&amp;cb=87524238887&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20091227115531id_/http%253A//www6.netrition.com/privacy_statement.html"></script><noscript><a href='http://ads.netrition.com/ads/www/delivery/ck.php?n=a8f646ba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.netrition.com/ads/www/delivery/avw.php?campaignid=8&amp;n=a8f646ba' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ads.netrition.com/ads/www/delivery/ajs.php?campaignid=8&amp;block=1&amp;cb=23823736947&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100627132038id_/http%253A//www6.netrition.com/privacy_statement.html"></script><noscript><a href='http://ads.netrition.com/ads/www/delivery/ck.php?n=a8f646ba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.netrition.com/ads/www/delivery/avw.php?campaignid=8&amp;n=a8f646ba' border='0' alt='' /></a></noscript>
 
      </td>
     </tr>
@@ -1035,7 +1926,7 @@ Or <a href="http://www.netrition.com/cgi/feedback_form.cgi">contact us online</a
       <td><table width="100%" height="100%" cellspacing="0" cellpadding="4" border="0" bgcolor="#EEEECC">
        <tbody><tr><td class="tiny">
 Shop quickly using your personal 
-<a href="http://www26.netrition.com/youraccount.html">Order History</a>!
+<a href="http://www4.netrition.com/youraccount.html">Order History</a>!
 View prior purchases to re-order the same products!
 </td></tr></tbody></table>
 </td></tr></tbody></table>
@@ -1060,7 +1951,7 @@ View prior purchases to re-order the same products!
       <td><table width="100%" height="100%" cellspacing="0" cellpadding="4" border="0" bgcolor="#EEEECC">
        <tbody><tr><td class="tiny">
 5% Discount on Orders of $200 or more! 
-Retailers: <a href="http://www26.netrition.com/faq.html">Volume Discounts</a> Available.
+Retailers: <a href="http://www4.netrition.com/faq.html">Volume Discounts</a> Available.
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 </td>
@@ -1071,7 +1962,7 @@ Retailers: <a href="http://www26.netrition.com/faq.html">Volume Discounts</a> Av
      <tbody><tr>
       <td><table width="100%" height="100%" cellspacing="0" cellpadding="4" border="0" bgcolor="#EEEECC">
        <tbody><tr><td class="tiny">
-All Products Are <b>In Stock</b> Unless Marked <a href="http://www26.netrition.com/oos_page.html">Out Of Stock</a>. 
+All Products Are <b>In Stock</b> Unless Marked <a href="http://www4.netrition.com/oos_page.html">Out Of Stock</a>. 
 Really! Don't Settle for Less.
 </td></tr></tbody></table>
 </td></tr></tbody></table>
@@ -1081,11 +1972,7 @@ Really! Don't Settle for Less.
      <tbody><tr>
       <td><table width="100%" height="100%" cellspacing="0" cellpadding="4" border="0" bgcolor="#EEEECC">
        <tbody><tr><td class="tiny">
-Get a FREE 
-Netrition.com 
-<a href="http://www26.netrition.com/netrition_shake_it_up_shaker_cup.html">Shaker Bottle</a> <b>or</b>
-<a href="http://www26.netrition.com/clothing_page.html">T-Shirt</a>
-with a $75 online order (before shipping charge).
+<a href="http://www4.netrition.com/freebies_page.html">Learn how to get FREE stuff!</a> - T-Shirts, Shaker Bottles, and More!
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 </td>
@@ -1111,48 +1998,37 @@ with a $75 online order (before shipping charge).
 <table>
 <tbody><tr valign="TOP">
 <td>
-<a class="highlight" href="http://www26.netrition.com/policies.html">Ordering Instructions</a> 
-<br><a class="highlight" href="http://www26.netrition.com/cart.html">Display Shopping Cart</a> 
-<br><a class="highlight" href="http://www26.netrition.com/checkout.html">Checkout</a> 
-<br><a class="highlight" href="http://www26.netrition.com/youraccount.html">Update Account / Order History</a> 
-<br><a class="highlight" href="http://www26.netrition.com/subscribe.html">Update Email Subscriptions</a> 
-<br><a class="highlight" href="http://www26.netrition.com/prices.html">All Brands/Prices</a> 
-<br><a class="highlight" href="http://www26.netrition.com/links.html">Links To Other Sites</a> 
-<br><a class="highlight" href="http://www26.netrition.com/">Home</a> 
+<a class="highlight" href="http://www4.netrition.com/policies.html">Ordering Instructions</a> 
+<br><a class="highlight" href="http://www4.netrition.com/cart.html">Display Shopping Cart</a> 
+<br><a class="highlight" href="http://www4.netrition.com/checkout.html">Checkout</a> 
+<br><a class="highlight" href="http://www4.netrition.com/youraccount.html">Update Account / Order History</a> 
+<br><a class="highlight" href="http://www4.netrition.com/subscribe.html">Update Email Subscriptions</a> 
+<br><a class="highlight" href="http://www4.netrition.com/prices.html">All Brands/Prices</a> 
+<br><a class="highlight" href="http://www4.netrition.com/links.html">Links To Other Sites</a> 
+<br><a class="highlight" href="http://www4.netrition.com/">Home</a> 
 </td>
 <td width="10">
 </td>
 <td>
-<a class="highlight" href="http://www26.netrition.com/faq.html">Frequently Asked Questions</a> 
-<br><a class="highlight" href="http://www26.netrition.com/contact.html">Contact Us</a> 
-<br><a class="highlight" href="http://www26.netrition.com/cgi/news.cgi">Health News</a> 
-<br><a class="highlight" href="http://www26.netrition.com/healthnotes.html">HealthNotes</a> 
+<a class="highlight" href="http://www4.netrition.com/faq.html">Frequently Asked Questions</a> 
+<br><a class="highlight" href="http://www4.netrition.com/contact.html">Contact Us</a> 
+<br><a class="highlight" href="http://www4.netrition.com/cgi/news.cgi">Health News</a> 
+<br><a class="highlight" href="http://www4.netrition.com/healthnotes.html">HealthNotes</a> 
 <!--
-<BR><A class="highlight" HREF="http://www26.netrition.com/cgi/magazine_display.cgi">Naturally Ripped News</A> 
+<BR><A class="highlight" HREF="http://www4.netrition.com/cgi/magazine_display.cgi">Naturally Ripped News</A> 
 -->
-<br><a class="highlight" href="http://www26.netrition.com/cgi/foods.cgi">Food Nutrients</a>
-<br><a class="highlight" href="http://www26.netrition.com/affiliates_overview.html">Affiliate Program</a> 
-<br><a class="highlight" href="http://www26.netrition.com/netrition_gift_certificates.html">Gift Certificates</a> 
+<br><a class="highlight" href="http://www4.netrition.com/cgi/foods.cgi">Food Nutrients</a>
+<br><a class="highlight" href="http://www4.netrition.com/affiliates_overview.html">Affiliate Program</a> 
+<br><a class="highlight" href="http://www4.netrition.com/netrition_gift_certificates.html">Gift Certificates</a> 
 <br><a class="highlight" href="http://service.netrition.com/cgi/secure_ordering_info.cgi">Secure Ordering</a> 
 </td>
 <td width="10">
 </td>
 <td width="250">
 
-<!-- Google CSE Search Box Begins -->
-  <form id="searchbox_015346081251628235304:jekrhbhinmu" action="http://www.netrition.com/search_results.html">
-    <input type="hidden" name="cx" value="015346081251628235304:jekrhbhinmu">
-    <input type="hidden" name="cof" value="FORID:11">
-    <input name="q" type="text" size="17">
-    <input type="submit" name="sa" value="Search">
-  </form>
-  <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_015346081251628235304%3Ajekrhbhinmu"></script>
-<!-- Google CSE Search Box Ends -->
-
-
 <p>
 <b>If you have a website, join 
-<a href="http://www26.netrition.com/affiliates_overview.html">Netrition's 
+<a href="http://www4.netrition.com/affiliates_overview.html">Netrition's 
 Affiliate Program</a><sup>*</sup> 
 and start earning cash today! 
 Now paying 20%<sup>*</sup></b>
@@ -1166,7 +2042,7 @@ Now paying 20%<sup>*</sup></b>
 <font color="#666666" size="1" face="Arial, Helvetica">Netrition® is a registered mark of Netrition, Inc. 
 Products and companies referred to herein are trademarks or registered trademarks of their respective companies or
 mark holders. 
-Images/Data © Copyright 1996-2009 Netrition, Inc. and/or its content providers. 
+Images/Data © Copyright 1996-2010 Netrition, Inc. and/or its content providers. 
 All rights reserved. The material
 on this site may not be reproduced, distributed, proxy cached or otherwise used, 
 without written permission of content owners.
@@ -1183,8 +2059,8 @@ Prices and information on these pages are subject to change without notice.
 <p>
 </p></a><center><a name="Bottom">
 <font color="#666666" size="-1" face="Arial, Helvetica">
-</font></a><font color="#666666" size="-1" face="Arial, Helvetica"><a href="http://www26.netrition.com/copyright.html">Copyright</a> © 1996-2009 Netrition, Inc. All Rights Reserved. 
-<a href="http://www26.netrition.com/privacy_statement.html">Privacy Statement</a>
+</font></a><font color="#666666" size="-1" face="Arial, Helvetica"><a href="http://www4.netrition.com/copyright.html">Copyright</a> © 1996-2010 Netrition, Inc. All Rights Reserved. 
+<a href="http://www4.netrition.com/privacy_statement.html">Privacy Statement</a>
 
 </font>
 </center>
