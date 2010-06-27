@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the capitalradio.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114222id_/http%3A//www.capitalradio.co.uk/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalradio.co.uk privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627043408id_/http%3A//www.capitalfm.com/general/privacy-policy) for the most accurate reproduction.*
 
-# Global Radio Privacy Policy - 95.8 Capital FM
+# Global Radio Privacy Policy - Capital FM
 
 Any information you provide about yourself to Global Radio UK Limited (“Global Radio”) or our associated companies will only be used in accordance with our Privacy Policy Statement, detailed below. Please note, the Privacy Policy Statement does not apply to websites or text services operated by third parties. 
 
