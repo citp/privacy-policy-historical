@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yipit.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126202937id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yipit.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627043805id_/http%3A//yipit.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
