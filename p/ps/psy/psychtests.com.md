@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychtests.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217102528id_/http%3A//www.psychtests.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychtests.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031449id_/http%3A//www.psychtests.com/privacy) for the most accurate reproduction.*
 
 # Human Researces Testing - Psychtests.com: Psychological Testing for Human Resources departments, employee screening and training, counseling or therapy, and academic research.
 
@@ -20,4 +20,4 @@ PsychTests.com works with a third party that serves ads to this site. PsychTests
 
 PsychTests.com is not responsible for the content or the privacy policies of any of the sites that we link to 
 
-© 2009 Psychtests AIM Inc. All Rights Reserved
+© 2010 Psychtests AIM Inc. All Rights Reserved
