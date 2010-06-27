@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the baltimorecountymd.gov privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226181609id_/http%3A//www.baltimorecountymd.gov/UserGuide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorecountymd.gov privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627153431id_/http%3A//www.baltimorecountymd.gov/UserGuide/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
-|   
-  
----  
-  
 Baltimore County is committed to protecting your privacy in your electronic communications with us.  During your visit to our site, we will collect information from you. This policy describes the information collected and how it is used.
 
 The type of information we collect depends upon the application used and the products or services requested. Our site includes links to other sites not controlled by Baltimore County. This policy does not apply to those sites. Baltimore County reserves the right to change this policy at any time without prior notice.
