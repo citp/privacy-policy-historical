@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the successories.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220034731id_/http%3A//www.successories.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successories.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627202849id_/http%3A//www.successories.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security - Customer Service - Motivational Products from Successories
+# Privacy and Security- Customer Service - Motivational Products from Successories
 
   
 We recognize that many online customers are concerned about the information they must provide, and how that information will be used. We have done our best to ensure the privacy and security of your transactions with us. Your credit card number and other personal data will be treated with the highest standards of security features, safety, and confidentiality.
