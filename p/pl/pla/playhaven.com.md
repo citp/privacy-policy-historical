@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playhaven.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622151758id_/http%3A//playhaven.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playhaven.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627214617id_/http%3A//www.playhaven.com/about/privacy) for the most accurate reproduction.*
 
-# PlayHaven | Privacy Policy
+# Privacy Policy | PlayHaven
 
 PlayHaven Privacy Policy
 
@@ -100,4 +100,4 @@ As part of the Terms of Service, this Privacy Policy is subject to occasional am
 
 Contact Us
 
-If you have any questions or suggestions regarding our Privacy Policy please contact us using our [contact form](http://playhaven.com/about/contact/). 
+If you have any questions or suggestions regarding our Privacy Policy please contact us using our [contact form](http://www.playhaven.com/about/contact/). 
