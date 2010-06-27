@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024429id_/http%3A//www.sydneyoperahouse.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627220839id_/http%3A//www.sydneyoperahouse.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # Sydney Opera House - Customer Privacy Statement
 
@@ -126,6 +126,8 @@ Sydney NSW 2001**
 **Or Email:  **[ **privacy@sydneyoperahouse.com**](mailto:privacy@sydneyoperahouse.com "privacy@sydneyoperahouse.com")
 
 **back to top**
+
+[](http://www.facebook.com/sydneyoperahouse?v=wall)
 
 **BE FIRST IN LINE...**
 
