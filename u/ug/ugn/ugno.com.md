@@ -1,33 +1,42 @@
-> *The following text is extracted and transformed from the ugno.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204092011id_/http%3A//www.ugno.com/info_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugno.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627065234id_/http%3A//ugno.com/privacy.html) for the most accurate reproduction.*
 
-# ugno
+# Cararu
 
-[Home](https://web.archive.org/web/20050204092011id_/http%3A//www.ugno.com/index.php) : Privacy
+Privacy Statement for Cararu
 
-  
-1\. All information collected as a result of your membership in ugno will be controlled by ugno. ugno may transfer and share your information within the ugno group of international affiliated entities ("ugno Group") as part of a transfer of your membership agreement. We will do this to improve the administration of the services. At all times the companies that make up the ugno Group ("We") will follow this privacy policy.
+Cararu has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Cararu, located within the cararu.com domain ( _"the site"_ ).
 
-2\. We give, sell, rent, share, or trade any identifiable personal information regarding our members to third party with your permission, with the exception of third-party contractors and service providers who work with ugno to provide the Software, and other services, and who are strictly prohibited from later use of the information that they may have access to.
+We use your IP address for private statistical purposes only, to analyze how visitors use the site and make enhancements to make using the site easier.
 
-3\. ugno may share non-personal aggregate, or summary, information regarding its members with partners or other third parties. We can - and you authorize us to - disclose personal information to local, state, or federal law enforcement officials when required to do so by public authorities or when we believe in good faith that the law requires it.
+This site contains links to other sites. Cararu is not responsible for the privacy practices or the content of Web sites outside the cararu.com domain.
 
-4\. In our online registration form, we require you to provide us with your full name, full street address, email address, a password, and other demographic information. We will process this information to administer your membership, to provide the Advertisement Service and other services to you and to provide you with the full benefits of membership as detailed below.
+Cookies
 
-5\. Information required for Tax Purposes Related to the Advertisement Service. If You join the Advertisement Service and acquire US $600 in your account we may contact you to request additional information including, for example, the Social Security number of our U.S. Members or confirmation of country of residence for non-US members. We will only use this additional information for legitimate purposes related to complying with applicable tax laws. If You are contacted and fail to provide us with the information we legitimately require, we may refuse to pay You until we receive that information.
+A cookie is a small file stored on _your_ computer that stores information that you have given us, and about your habits of use regarding this site 
 
-6\. In addition to uses of Your information described above, ugno may use Your information in the following ways:
+We use cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit the forums and comments/ratings areas.
 
-  * We may use your email address to verify your identity and protect against fraud and to contact you any time and as many times as it takes. In addition, we may use it to send you updates about your account, new products and services, and company updates. If you participate in the Advertisement Service, we will use the address information for various matters, including for verification of your location for tax purposes. We may use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address may also be used to gather broad demographic information.
-  * We may process the information You provide to us to build a profile of your interests and activities so that we can send you advertisements, offers, benefits and content targeted at your specific interests, and to provide you with the full benefits of membership. As we aggregate this type of information about all of our members, we offer summaries to our advertisers and other interested parties so that they can learn what products and services are most popular to consumers, but we do not disclose our members' names, addresses, or other personally identifiable information (except email addresses with your permission) to these third parties.
-  * ugno maintains its records in the United States as well as countries outside of the United States. Accordingly, ugno may transfer your personal data internationally to other countries. Some of the countries may have laws that protect personal data, some may not. ugno will try to protect your information no matter where we process or store your data by following this privacy statement and by complying with the relevant data protection laws in force in your country. We will also oblige our third party contractors to comply with those laws. By becoming a Member you give your consent to this transfer of your personal data.
-  * ugno may transfer or share your information within the ugno Group as part of a transfer of your membership agreement. It will, for example, do this in order to improve the administration of the ugno services. At all times the ugno Group will follow this privacy policy and ensure the security and confidentiality of personal data.
+We work with a third party to display ads on the site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
+Security
 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control, through password protection and storage of information in locations inaccessible from the world wide web and available only to the webmaster. 
 
-7\. The Software includes the opportunity for You to establish links to other Web sites. ugno is not responsible for the privacy practices or the content of such Web sites.
+Surveys and Contests
 
-8\. ugno Web site will try to protect from the loss, misuse, and alteration of the information under our control. Unfortunately, when you submit information about yourself to ugno over the Internet the information may travel over many systems that are not under the control of ugno. The Internet is not 100% secure and others may intercept the information that you are sending. One easy and important way to protect your personal information is to guard your account password and close your browser when you step away from your computer.
+Our online surveys and contests may ask visitors for contact information (like their e-mail address). We use contact data from our surveys to send the user information news and promotions regarding Cararu and other partners. Visitors' contact information may also be used to contact the visitor when necessary (eg in the event the visitor is the winner of a competition). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-9\. To update your contact or address information, please use the Account Update Form.
+Submitted Essays
 
-10\. ugno wants to help parents protect the privacy of children and will take steps to obtain parental permission before children may begin the Advertisement Service. ugno does not consider our Web site or the Advertisement Service to be directed at children but some children may have signed up as Members. Please contact us!
+Cararu accepts submissions of essays from the general public. When authors submit essays, they have the option of providing personal information (name and e-mail address). If provided, this information will be posted on the submitted essay. 
+
+Public Forums
+
+Cararu makes public forums and the comments system available to visitors. Please remember that any information that is disclosed in these areas becomes public information and visitors should exercise caution when deciding to disclose your personal information. Cararu accepts no responsibility for any information posted on the forums (although we will do our best to keep inappropriate material from the forums) 
+
+Personal information made available by visitors in the forum or in their profile can be updated by visiting the forums or the profile update page
+
+Newsletter
+
+The Cararu Newsletter (aka the Cararu Update) is an opt-in mailing list made available to visitors of the site. Subscribers' e-mail addresses will remain strictly confidential and will not be given or sold to a third party. The Newsletter may contain advertisements from selected partners, but these will form a part of the newsletter and will never be sent as individual e-mail messages.   
+ 
