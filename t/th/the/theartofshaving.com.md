@@ -1,69 +1,72 @@
-> *The following text is extracted and transformed from the theartofshaving.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620164614id_/http%3A//www.theartofshaving.com/taos6/privacy-policy.php%3Ftrk%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartofshaving.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627054514id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
 
-# Privacy Policy - The Art of Shaving
+# Procter & Gamble Privacy Notice
 
-[](https://web.archive.org/web/20090620164614id_/http%3A//www.theartofshaving.com/taos6/group_womens.php?group=26)
+Information We Collect                                                                                                                                                                                                                      [Click here](https://web.archive.org/privacy/english/privacy_statement.html#tab2) for more information 
 
-Privacy Policy
+  * We collect information about you from a variety of sources, including:
 
-Thank you for visiting The Art of Shaving site. Your privacy is very important to us. To protect your privacy, we provide this explanation of our information practices. Your use of this website constitutes your acceptance of this Privacy Statement and your consent to the practices it describes. 
 
-When you make a purchase in The Art of Shaving online store we collect the following basic information that you provide to us by email or through The Art of Shaving online store: name, email address, mailing and billing address, ZIP code, phone, and credit card numbers. This information allows us to process your transactions efficiently, personalize and improve your experience and to give you a high level of customer service. We also collect and track information that is not personally identifiable, such as your Internet service provider’s address, the name of the Web page directing you, your clicks and activity on our site. This statistical information helps us understand how to make our site more available and user-friendly to our customers. If you do not provide this information, you will not be able to make a purchase on The Art of Shaving online store. 
+  * Information we collect from you directly.
+  * Information we collect about you when you visit our site, use our services, or view our online advertisements.
+  * Information we collect about you from other sources, such as commercially available sources.
 
-You can visit and browse The Art of Shaving website without revealing personally identifiable information about yourself. 
 
-You have the choice to opt in to be a registered user. This requires providing to us certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number, areas of interest, product usage, and/or a unique individual password. 
+  * All the information we collect about you may be combined to help us tailor our communications to you and to develop world-class products and services.
 
-If you become a registered user or if you conduct transactions through The Art of Shaving website, information is collected about the transactions you engage in while on the website and your other activity on the site. In addition to information collected when you make or initiate a purchase, this information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount, payment, shipping and billing information as well as the quantity and price of specific goods you purchase. 
+  
+  
+Uses / Information Sharing                                                                                                                                                                                                           [Click here](https://web.archive.org/privacy/english/privacy_statement.html#tab3) for more information 
 
-You may also choose to communicate with The Art of Shaving through email, via our website, by telephone, or in writing. We collect the information that you provide to us in these communications, and such information may be personally identifiable. 
+  * We use the information we collect to provide the products and services you request, to tell you about other products and services offered by P&G, and to manage our sites and services.
+  * In general, we do not share your personal information with third-party marketers, unless we have asked for and obtained your explicit consent. 
+  * We may share your information: 
 
-The Art of Shaving uses the personally identifiable information collected through its website primarily for such purposes as:
 
-· To establish and verify the identity of users.  
-· To open, maintain, administer and service users’ accounts.   
-· To process, service or enforcing transactions and send related communications.  
-· To provide services and support to users.  
-· To improve the website, including customizing it to users’ preferences.  
-· To provide users with product or service updates, promotional notices and offers, and other information about The Art of Shaving.  
-· To respond to questions, inquiries, and comments.  
-· To maintain the security and integrity of its systems.
+  * With our third-party service suppliers, including those who work on behalf of P&G and our business partners to send you joint communications that we hope you find of interest.
+  * If a P&G brand is sold to another company.
+  * To protect and defend the right and property of P&G (including enforcing our Terms and Conditions).
+  * When required by law, and / or public authorities.
 
-The Art of Shaving does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. We share customer information only as described below: 
+  
+  
+Your Choices                                                                                                             [Click here](https://web.archive.org/privacy/english/privacy_statement.html#tab4) for more information 
 
-(1) With your consent. When you purchase items with a credit card, you consent to use transmitting certain personal information to the credit card or banking institutions to process the purchase. 
+  * We give you choices about how we communicate with you.   
 
-(2) Agents. The Art of Shaving may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business (such as include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service), and those companies may receive your personally identifiable information for that purpose only. 
+  * You can stop receiving promotional email or postal communications from a particular P&G brand or program through this Privacy Notice. Please [click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) to select your country and learn how to complete your request.  
 
-(3) Business Transfers: : In the event that Artofshaving.com or the Art of Shaving or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+  * We take steps to keep your personal information accurate. You can view, correct, or update the contact information you provide P&G.   
 
-(4) Court orders: To comply with the law we may be required to release certain personal information or to enforce or apply this Privacy Statement or other agreements with you or others. For example, this may include an exchange of information with other companies and organizations for fraud protection and credit risk reduction. 
+  * [Click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) to select your country and learn how to access and update the contact information you provided P&G. 
 
-This website is directed toward and designed for use by persons aged 16 or older. The Art of Shaving will not approve applications of, or establish or maintain accounts or memberships for, any child known to be under the age of 16. We do not solicit or knowingly collect personally identifiable information from children under the age of 1316. If we receive personally identifiable information from an individual who indicates that he or she is, or whom The Art of Shaving otherwise has reason to believe is, under the age of 16, we will delete such information from its systems. Additionally, a child’s parent or legal guardian may request that the child’s information be corrected or deleted from our files by contacting info@theartofshaving.com.
 
-The Art of Shaving's web servers, or the servers of companies that are used to operate this site, may place a “cookie” on your computer in order to allow you to use the website and to personalize your experience.
 
-A “cookie” is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer’s hard drive. Cookies allow The Art of Shaving to recognize your computer while you are on its website and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users and preserving information between sessions. 
+Important Information
 
-Most web browser applications (such as Microsoft Internet Explorer and Netscape Navigator) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of this website. 
+  * P&G is committed to working with consumers to obtain a fair resolution of any complaint or concern about privacy.
+  * P&G complies with country data protection laws.
+  * We cooperate with country data protection authorities if they believe a privacy problem has occurred.
+  * We participate in the US Council of [Better Business Bureau's (BBB)](https://www.bbb.org/online/consumer/cks.aspx?ID=292000103) Accredited Business Program.
 
-The Art of Shaving maintains physical, electronic, and procedural safeguards to help guard personally identifiable information. If transactions are offered on the site, transaction information is transmitted to and from the site in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception. The Art of Shaving restricts authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception. 
 
-In order to provide service to you, The Art of Shaving may send you communications related to your transactions, security or the administration of its website. By becoming a registered user on The Art of Shaving online store, the Art of Shaving may send you other messages or updates about the site, new products, promotions and other activities. If you would prefer not to receive future email communications from theartofshaving.com an unsubscribe link is provided on every communication you receive, excluding order-related communications. Or you may send an email containing your request to info@theartofshaving.com.
 
-As a registered user, you may change, update, or delete the information you provide in your optional registration. If you would like to change, update, or delete your personal information, please send an email containing your request to info@theartofshaving.com. 
+| 
 
-The Art of Shaving reserves the right to modify or supplement this policy at any time. If a material change to the terms of this policy is made, it will be updated on theartofsahving.com and your use subsequent to any such changes is an expression of your acceptance of such changes. If you do not agree with the terms of this Privacy Statement, do not use The Art of Shaving online store..
+How to Contact Us
 
-If you have questions about this privacy statement, the information practices of theartofshaving.com please contact The Art of Shaving Customer Service, 1301 NW 84th Avenue, Suite 101, Miami, FL 33126 or call Customer Service at 800-493-2212.
+  * To contact us with a question [click here](https://web.archive.org/privacy/contact_us/contact_us/privacy-central-contact-interactive.html?country=canada-english) (for country specific addresses)
+  
 
-In accordance with laws governing literary and artistic property rights or other similar rights, the reproduction or redistribution of the elements that make up The Art of Shaving website, in whole or in part, is strictly prohibited. 
+  * Or write to us at:  
+P&G Global Privacy Team  
+PO Box 599  
+Cincinnati, OH 45202   
+USA
+  
 
-The Art of Shaving is dedicated to the accuracy of the information accessed via the website. However, The Art of Shaving does not guarantee or give any warranty as to the accuracy, timeliness or completeness of any information or material on the website, and declines all responsibility for technical inaccuracies or other errors. The Art of Shaving declines all responsibility for any difficulties encountered in accessing the site or for any communication line failure. 
+  * To read our full Consumer Privacy Statement [click here.](https://web.archive.org/privacy/english/privacy_statement.html)
+  * To read our Global Privacy Policy [click here.](https://web.archive.org/en_US/sustainability/point_of_view/privacy.shtml)
+  * [Click here ](https://web.archive.org/privacy/english/privacy_faq.html) to view Answers to Frequently Asked Questions
 
-All trade marks on The Art of Shaving online store (including but not limited to “THE ART OF SHAVING, PERFECT SHAVE, BARBER SPA, ROYAL SHAVE, ONE PERFECT SHAVE, THE 4 ELEMENTS OF THE PERFECT SHAVE) are the registered or unregistered service marks of The Art of Shaving. All other trademarks reflected are those of The Art of Shavings licensors or suppliers. All rights reserved.
 
-© The Art of Shaving, 2007  
-Effective date: March 2007
-
-[ ](mailto:career@theartofshaving.com%0A%0A%0A%0A)
