@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicproducts.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227033847id_/http%3A//www2.electronicproducts.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicproducts.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628005305id_/http%3A//www2.electronicproducts.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Electronic Products
 
@@ -16,7 +16,7 @@ This privacy policy does not apply to information collected about you by anyone 
 Collection of Personally Identifiable Information  
 HEG generally collects personally identifiable information with your specific knowledge and consent. Certain portions of our sites require registration, and you will be required to provide personal information in order to gain access to those areas. When you enter a sweepstakes or contest, complete a survey, or subscribe to our magazines or newsletters, you will be asked to provide information such as your e-mail address, name, phone number, and sometimes shipping address. Optional demographic information may also be requested. This information may be collected on our behalf by third party service providers who have been instructed to use the information only as directed by HEG. 
 
-HEG uses this information to provide you with the service you have requested. If you subscribe to any of our magazines, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine. Similarly, if you enter online sweepstakes, we will use this information to notify you if you are a winner. We may also use your information to contact you by e-mail or off-line with special offers from HEG or third parties who have asked HEG to market to its users on their behalf. If you don’t want us to send you email messages, you can contact us at [privacy@hearstelectroweb.com](mailto:privacy@hearstelectroweb.com).  
+HEG uses this information to provide you with the service you have requested. If you subscribe to any of our magazines, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine. Similarly, if you enter online sweepstakes, we will use this information to notify you if you are a winner. We may also use your information to contact you by e-mail or off-line with special offers from HEG or third parties who have asked HEG to market to its users on their behalf. If you don’t want us to send you email messages, you can contact us at [EPprivacy@hearst.com](mailto:EPprivacy@hearst.com).  
 
 
 If you make postings to any bulletin boards we may host from time to time, that information will become public and we have no control over how others might use that information. 
@@ -64,12 +64,12 @@ The sites covered by this policy are not intended for use by children, especiall
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should instruct minors on safe Internet usage. 
 
-If you’re worried about your children’s activities or their privacy on our site, we encourage you to e-mail HEG at [privacy@hearstelectroweb.com](mailto:privacy@hearstelectroweb.com). 
+If you’re worried about your children’s activities or their privacy on our site, we encourage you to e-mail HEG at [EPprivacy@hearst.com](mailto:EPprivacy@hearst.com). 
 
 Non-U.S. Users  
 If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this web site, you consent to this transfer. 
 
 Changes to Privacy Policy and Notice  
-HEG may change this policy from time to time in its discretion. Your continued use of our sites indicates your consent to this privacy policy and any amended versions of it. If you have any questions or concerns about use of your personally identifiable information, please contact us at [privacy@hearstelectroweb.com](mailto:privacy@hearstelectroweb.com). 
+HEG may change this policy from time to time in its discretion. Your continued use of our sites indicates your consent to this privacy policy and any amended versions of it. If you have any questions or concerns about use of your personally identifiable information, please contact us at [EPprivacy@hearst.com](mailto:EPprivacy@hearst.com). 
 
 This policy was last updated on January 10, 2008. 
