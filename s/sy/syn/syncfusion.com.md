@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the syncfusion.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110103410id_/http%3A//syncfusion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncfusion.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627124652id_/http%3A//www.syncfusion.com/privacy) for the most accurate reproduction.*
 
-# Privacy : Syncfusion
+# Privacy Policy : Syncfusion
 
-Last Updated on: 09/01/2005
-
-Privacy Guaranteed
+Last Updated on: 03/16/2010
 
 At Syncfusion, Inc., your privacy is very important to us. This document sets forth the Syncfusion Online Privacy Policy (the "Privacy Policy") for this Web site, www.syncfusion.com (the "Site"). If you have objections to the Privacy Policy, you should not access or use this Site. You can browse through most of our website without giving us any information about yourself, but there are certain areas of our site, for example the online technical support area, for which we do need information from you. We, therefore, encourage you take a moment to read our online privacy policy. 
 
@@ -26,7 +24,7 @@ When you visit this Site, you can browse the Site and access important informati
 
 Who collects it 
 
-Personal Information on this Site is collected by Syncfusion, Inc. Syncfusion's address is 9001 Aerial Center Parkway, Suite 110, Morrisville, NC 27560, and its telephone number is (919) 481-1974.
+Personal Information on this Site is collected by Syncfusion, Inc. Syncfusion's address is 2501 Aerial Center Parkway, Suite 200, Morrisville, NC 27560, and its telephone number is (919) 481-1974.
 
 The Site contains links to other Web sites at which Personal Information may be collected. In such instances, unless expressly provided to the contrary, the collection and use of your Personal Information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your Personal Information. 
 
