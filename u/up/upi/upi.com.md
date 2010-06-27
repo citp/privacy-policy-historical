@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upi.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227174537id_/http%3A//about.upi.com/%3Fq%3DSupport/index.php%253FContentID%253D20050929163234-9591) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upi.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628000304id_/http%3A//about.upi.com/%3Fq%3DSupport/index.php%253FContentID%253D20050929163234-9591) for the most accurate reproduction.*
 
 # Privacy Policy | About UPI
 
