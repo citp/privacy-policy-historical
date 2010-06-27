@@ -1,29 +1,39 @@
-<!--The following is the downloaded HTML source of the playfin.com privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231170207id_/http%3A//playfin.com/index.php%3Floadpage%3D./includes/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playfin.com privacy policy that was archived on 2010-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627083422id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=" utf-8"="">
-        <title>Playfin.com - Thousands of free games!</title>
-        
-        <script type="text/javascript" src="http://www.playfin.com/theme/Smarty/playfin/lib/jquery/jquery-1.3.2.js"></script>
-        <script type="text/javascript" src="http://www.playfin.com/theme/Smarty/playfin/lib/easySlider1.7.js"></script>
+
+        <!-- 4a8ea0a8d202e4e11b07d959e1ca862bmochiads.com -->	<!-- mochi leaderboard -->
+                	<title>Playfin.com - Thousands of free games!</title>
+                
+        <script type="text/javascript" src="/theme/Smarty/playfin/lib/jquery/jquery-1.3.2.js"></script>
+        <script type="text/javascript" src="/theme/Smarty/playfin/lib/easySlider1.7.js"></script>
+        <script type="text/javascript" src="/theme/Smarty/playfin/lib/facebooklogin.js"></script>
+        <script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+        <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+
+
         <!--[if lt IE 7]><script type="text/javascript" src="http://www.playfin.com/theme/Smarty/playfin/lib/unitpngfix.js"></script><![endif]-->
         
-        <link rel="stylesheet" href="http://www.playfin.com/theme/Smarty/playfin/css/blueprint/screen.css" type="text/css" media="screen, projection">
-        <link rel="stylesheet" href="http://www.playfin.com/theme/Smarty/playfin/css/blueprint/print.css" type="text/css" media="print">    
-        <!--[if lt IE 8]><link rel="stylesheet" href="http://www.playfin.com/theme/Smarty/playfin/css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+        <link rel="stylesheet" href="/theme/Smarty/playfin/css/blueprint/screen.css" type="text/css" media="screen, projection">
+        <link rel="stylesheet" href="/theme/Smarty/playfin/css/blueprint/print.css" type="text/css" media="print">    
+        <!--[if lt IE 8]><link rel="stylesheet" href="/theme/Smarty/playfin/css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
         
-        <link rel="stylesheet" href="http://www.playfin.com/theme/Smarty/playfin/css/style.css" type="text/css" media="screen, projection">
-        <!--[if lt IE 8]><link rel="stylesheet" href="http://www.playfin.com/theme/Smarty/playfin/css/style.ie.css" type="text/css" media="screen, projection"><![endif]-->
+        <link rel="stylesheet" href="/theme/Smarty/playfin/css/style.css" type="text/css" media="screen, projection">
+        <!--[if lt IE 8]><link rel="stylesheet" href="http://www.playfin.com/dev/css/style.ie.css" type="text/css" media="screen, projection"><![endif]-->
         
         <link rel="shortcut icon" href="http://www.playfin.com/theme/Smarty/playfin/catmenu/images/playfin.ico">
-
-                    <link rel="alternate" type="application/rss+xml" title="Privacy Policy - Playfin.com" href="./rss.php">
+        
+        		 
+				
+		
+                    <link rel="alternate" type="application/rss+xml" title="Privacy Policy - Playfin.com" href="/rss.php">
                 <script type="text/javascript">
 		function amAddReview(element, info) {
 			new Ajax.Request('./includes/rategame.php?gamekey=', {evalScripts:true, method:'get', identity: '', parameters: info});
 			return false;
-		}		
+		}
 	</script>
 	<script type="text/javascript">
 		function fullScreen() {
@@ -38,25 +48,56 @@
 				myWidth = document.body.clientWidth;
 				myHeight = document.body.clientHeight;
 			}
-			var url="./playgame.php?getgame=&width=" + myWidth + "&height=" + myHeight;
+			var url="/playgame.php?getgame=&width=" + myWidth + "&height=" + myHeight;
 			self.location.href=url
 		}
 	</script>
-	<!-- End 2.7 Specific Code -->     
+	<!-- End 2.7 Specific Code -->  
+	
+	<style type="text/css">
+		#login {
+		height: 300px;
+		}
+	
+		#user {
+		border-top:1px solid;
+		clear:both;
+		margin-top:50px;
+		padding:10px;
+		}
+	</style>
+	<script type="text/javascript">
+	function moveToAccount() {
+		$.post("http://www.playfin.com/forum/ucp.php?mode=login", {'login':'Go!', 'login-username':'', 'username':'', 'login-password':'', 'password':'', 'redirect':'/account/', 'external_login':1, 'asfsagrg4':'d76fghhjd'}, function(result){
+						 if(result){
+							 location.href= '/account/';
+						 }else{
+							 alert('ucp.php return nothing!');
+						 }
+					}		
+				 );
+	}
+	</script>
+	
+	
+			
+		                        
+        
     </head>
-    <body>
-        <div id="sun"></div>
+        <body onload="initFB();">
+            <div id="sun"></div>
         <div id="clouds"></div>
         <div id="menubar-container"></div>
         <div class="container">
+        	
             <div id="icons">
-                <div id="disclaimer" style="display:none;">
+            	                <div id="disclaimer" style="display:none;">
 					<a href="#" class="close-button small float-right">Close</a>
                     <h2><a href="#">Free To Use!</a></h2>
                     <ul>
-                        <li>All games are tested and spyware free! See our <a href="http://www.playfin.com/?loadpage=./includes/privacypolicy.php">Privacy Policy</a></li>
-                        <li>Play all of our games free! Visit the <a href="http://www.playfin.com/?loadpage=./includes/termofuse.php">Terms of Use.</a>.</li>
-                        <li>Still have questions? <a href="http://www.playfin.com/?loadpage=./includes/contactus.php">Contact us.</a>.</li>
+                        <li>All games are tested and spyware free! See our <a href="/privacypolicy/">Privacy Policy</a></li>
+                        <li>Play all of our games free! Visit the <a href="/termofuse/">Terms of Use.</a>.</li>
+                        <li>Still have questions? <a href="/contactus/">Contact us.</a>.</li>
                     </ul>
                 </div>
                                     <div id="login" style="display:none;">
@@ -64,183 +105,231 @@
                     <h2><a href="#">Sign In</a></h2>
                     <span style="color:red;"></span>
                     <ul>
-                        <li>Don't have an account? <a href="http://www.playfin.com/?loadpage=./includes/register.php">Sign up now!</a></li>
-                        <li>Having problems logging in? <a href="http://www.playfin.com/?loadpage=./includes/contactus.php">Get help here</a>.</li>
+                        <li>Don't have an account? <a href="/register/">Sign up now!</a></li>
+                        <li>Having problems logging in? <a href="/contactus/">Get help here</a>.</li>
                     </ul>
                                         <div id="login-form">
-                        <form action="http://www.playfin.com/forum/ucp.php?mode=login" method="post" enctype="multipart/form-data">
+                        <form id="loginForm" action="/forum/ucp.php?mode=login" method="post">
                             <!--<input type="hidden" name="asfsagrg4" value="d76fghhjda">-->
-                            <input type="text" name="username" id="login-username" value="Username or Email" onfocus="this.value=''"> <br>
+                            <input type="text" name="username" id="login-username" value="Username" onfocus="this.value=''"> <br>
                             <input type="password" name="password" id="login-password" value="Password" onfocus="this.value=''"> <br>
-                            <input type="hidden" name="redirect" value="http://www.playfin.com">
+                            <input type="hidden" name="redirect" value="/account/">
                             <input type="hidden" name="external_login" value="1">
                             <input type="hidden" value="d76fghhjd" name="asfsagrg4">
                             <input type="submit" value="Go!" id="login-button" name="login">
+         <!--               <div id="user">Or you can login with facebook account:<br />     
+								<iframe src ="/fb_button.php" width="107px" height="25px" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" noresize scrolling="no">
+									<p>Your browser does not support iframes.</p>
+								</iframe>
+				   			</div>    -->            
                         </form>  
+                    </div> <!--login-form ends-->
+                    <div id="forgotpassword">
+                    	<a href="/forgotpassword/">Forgot your password?</a>
+                    </div>
+                    <div id="forgotusername">
+                    	<a href="/forgotusername/">Forgot your username?</a>
                     </div>
                 </div>
                 <div class="clear">
-                                    <a href="http://www.playfin.com/?loadpage=./includes/login.php"><img id="button-signin" src="http://www.playfin.com/theme/Smarty/playfin/img/signin.png" alt="Sign in"></a>
+      
+                                    <img id="button-signin" src="http://i.playfin.com/theme/Smarty/playfin/img/signin.png" alt="Sign in" style="CURSOR:pointer;">
                                 
-                <a href="http://www.playfin.com/?loadpage=./includes/about.php"><img id="button-nospyware" src="http://www.playfin.com/theme/Smarty/playfin/img/nospyware.png" alt="No spyware"></a>
-                </div>                
+                                <div id="button-nospyware" style="margin:0 0 0 0">
+                <iframe src="/fb_button.php" width="107px" height="25px" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" noresize="" scrolling="no">
+					<p>Your browser does not support iframes.</p>
+				</iframe>
+				</div>
+				                </div>     
+                
             </div>
+            	
+            
             <div id="header" class="span-24 last">
                 <div id="logo" class="span-7">
                     <a href="http://www.playfin.com"><h1>Playfin</h1></a>
                 </div>
                 <div class="span-17 last">
-                    <div id="menubar"><span></span></div>
+                    <div id="menubar" style="margin-left: 20px; width: 80px; display: block;"><span></span></div>
                     <ul id="menu">
                                                                             <!-- if is an account and not log in, won't show account tab -->
-                            
-                                                                    <li class="active">
-                                        <a href="index.php">Home</a>
-                                    </li>
-                                                                                    <!-- if is an account and not log in, won't show account tab -->
-                            
-                                                                    <li>
-                                        <a href="index.php?loadpage=./includes/download.php">Top Games</a>
-                                    </li>
-                                                                                    <!-- if is an account and not log in, won't show account tab -->
-                            
-                                                                    <li>
-                                        <a href="index.php?loadpage=./includes/topchatrooms.php">Chat</a>
-                                    </li>
-                                                                                    <!-- if is an account and not log in, won't show account tab -->
-                            
-                                                                    <li>
-                                        <a href="index.php?loadpage=./includes/blog.php">Blog</a>
-                                    </li>
-                                                                                    <!-- if is an account and not log in, won't show account tab -->
-                            
-                                                                    <li>
-                                        <a href="/forum">Forum</a>
-                                    </li>
-                                                                            </ul>
+                            	
+                            								<li class="active">
+								<a href="/index/">Home</a>
+								</li>
+											
+                                                    <!-- if is an account and not log in, won't show account tab -->
+                            	
+                            								<li>
+								<a href="/topchatrooms/">Chat</a>
+								</li>
+											
+                                                    <!-- if is an account and not log in, won't show account tab -->
+                            	
+                            								<li>
+								<a href="/blogs/">Blog</a>
+								</li>
+											
+                                                    <!-- if is an account and not log in, won't show account tab -->
+                            	
+                            								<li>
+								<a href="/forum/">Forum</a>
+								</li>
+											
+                                                    <!-- if is an account and not log in, won't show account tab -->
+                            	
+                            								<li>
+								<a href="/premiumgames/"><img src="http://i.playfin.com/cms/cmsimages/free-games/pregamez.png"></a>
+								</li>
+											
+                                                    <!-- if is an account and not log in, won't show account tab -->
+                                                 </ul>
                 </div>
             </div><!-- /header -->
             <div id="subhead" class="span-24 last">
                 <div class="click-area"><a href="http://www.playfin.com"></a></div>
                 <div id="search">
-                <form action="http://www.playfin.com/index.php" name="searchbox" method="get"> 
-                    <input type="hidden" name="loadpage" value="./includes/search.php">
-                    <input id="search-box" type="text" size="25" name="searchstring" accesskey="/" tabindex="1" value="search..." onfocus="this.value=''"> 
-                    <input id="search-button" type="image" src="http://www.playfin.com/theme/Smarty/playfin/img/search.png" alt="Go"> 
-                </form>
-                <!--<form action="http://www.playfin.com/index.php" name="searchbox" method="get">
-                    <input type="hidden" name="loadpage" value="./includes/search.php" />
-                    <input id ="searchtxt" type="text" name="searchstring" />
-                    <input id="searchbtn" type="submit" value="Search" />
-                </form>-->
-                </div>
-            </div><!-- /subhead -->
+					<form action="/premiumsearch/" name="searchbox" method="post"> 
+													<input id="search-box" type="text" size="25" name="searchstring" accesskey="/" tabindex="1" value="Search..." onfocus="this.value=''" onkeydown="setStyle('search-box', 'color', '#000000')">
+							
+							<script type="text/javascript">
+							function setStyle(objId, style, value){
+								document.getElementById(objId).style[style]= value;
+							}
+							</script>
+							
+												<select name="searchfilter">
+													<option selected="" value="all">All Games</option>
+							<option value="premium">Premium Games</option>
+							<option value="free">Flash Games</option>
+													
+						</select>
+						<input id="search-button" type="image" src="http://i.playfin.com/theme/Smarty/playfin/img/search.png" alt="Go"> 
+					</form>
+               
+                </div><!--search end-->
+            </div><!-- subhead end-->
             
-                        <div id="body" class="span-24 last">
+                                    <div id="body" class="span-24 last">
                                 <div id="body-left" class="span-4">
                     <div id="game-menu">
                         <ul>
                                                         <li>
-                                <div>
-                                    <img class="float-right" src="http://www.playfin.com/theme/Smarty/playfin/img/menu/top.png" alt="Top Games">
-                                    <span>&nbsp;</span>
+                                <div class="purple">
+                                    <img class="float-right" src="http://i.playfin.com/theme/Smarty/playfin/img/menu/top.png" alt="Premium Games">
+                                    <span>Premium Games</span>
                                 </div>
-                                <a href="http://www.playfin.com/index.php?loadpage=./includes/download.php">Top Games</a>
+                                <a href="/premiumgames/">Premium Games</a>
                             </li>
                                  
                                                        
                                 <li>
-                                    <div>
-                                        <img class="float-right" src="http://www.playfin.com/theme/Smarty/playfin/img/menu/Action.png" alt="Action Games">
-                                        <span>&nbsp;</span>
+                                    <div class="blue">
+                                        <img class="float-right" src="http://i.playfin.com/theme/Smarty/playfin/img/menu/Action.png" alt="Action Games">
+                                        <span>Action Games</span>
                                     </div>
-                                    <a href="http://www.playfin.com/index.php?cat=Action">Action Games</a>
+                                    <a href="/category/Action/">Action Games</a>
                                 </li>
                                  
                                                        
                                 <li>
-                                    <div>
-                                        <img class="float-right" src="http://www.playfin.com/theme/Smarty/playfin/img/menu/Adventure.png" alt="Adventure Games">
-                                        <span>&nbsp;</span>
+                                    <div class="teal">
+                                        <img class="float-right" src="http://i.playfin.com/theme/Smarty/playfin/img/menu/Adventure.png" alt="Adventure Games">
+                                        <span>Adventure Games</span>
                                     </div>
-                                    <a href="http://www.playfin.com/index.php?cat=Adventure">Adventure Games</a>
+                                    <a href="/category/Adventure/">Adventure Games</a>
                                 </li>
                                  
                                                        
                                 <li>
-                                    <div>
-                                        <img class="float-right" src="http://www.playfin.com/theme/Smarty/playfin/img/menu/Arcade.png" alt="Arcade Games">
-                                        <span>&nbsp;</span>
+                                    <div class="green">
+                                        <img class="float-right" src="http://i.playfin.com/theme/Smarty/playfin/img/menu/Arcade.png" alt="Arcade Games">
+                                        <span>Arcade Games</span>
                                     </div>
-                                    <a href="http://www.playfin.com/index.php?cat=Arcade">Arcade Games</a>
+                                    <a href="/category/Arcade/">Arcade Games</a>
                                 </li>
                                  
                                                                          
                                                        
                                 <li>
-                                    <div>
-                                        <img class="float-right" src="http://www.playfin.com/theme/Smarty/playfin/img/menu/Puzzle.png" alt="Puzzle Games">
-                                        <span>&nbsp;</span>
+                                    <div class="yellow">
+                                        <img class="float-right" src="http://i.playfin.com/theme/Smarty/playfin/img/menu/Puzzle.png" alt="Puzzle Games">
+                                        <span>Puzzle Games</span>
                                     </div>
-                                    <a href="http://www.playfin.com/index.php?cat=Puzzle">Puzzle Games</a>
+                                    <a href="/category/Puzzle/">Puzzle Games</a>
                                 </li>
                                  
                                                        
                                 <li>
-                                    <div>
-                                        <img class="float-right" src="http://www.playfin.com/theme/Smarty/playfin/img/menu/Shooting.png" alt="Shooting Games">
-                                        <span>&nbsp;</span>
+                                    <div class="orange">
+                                        <img class="float-right" src="http://i.playfin.com/theme/Smarty/playfin/img/menu/Shooting.png" alt="Shooting Games">
+                                        <span>Shooting Games</span>
                                     </div>
-                                    <a href="http://www.playfin.com/index.php?cat=Shooting">Shooting Games</a>
+                                    <a href="/category/Shooting/">Shooting Games</a>
                                 </li>
                                  
                                                        
                                 <li>
-                                    <div>
-                                        <img class="float-right" src="http://www.playfin.com/theme/Smarty/playfin/img/menu/Sports.png" alt="Sports Games">
-                                        <span>&nbsp;</span>
+                                    <div class="redorange">
+                                        <img class="float-right" src="http://i.playfin.com/theme/Smarty/playfin/img/menu/Sports.png" alt="Sports Games">
+                                        <span>Sports Games</span>
                                     </div>
-                                    <a href="http://www.playfin.com/index.php?cat=Sports">Sports Games</a>
+                                    <a href="/category/Sports/">Sports Games</a>
                                 </li>
-                                                        <li>
+                            							<li>
+								<div class="red">
+									<img class="float-right" src="http://i.playfin.com/theme/Smarty/playfin/img/menu/Leaderboard.png" alt="Leaderboard Games">
+									<span>High Score Games</span>
+								</div>
+							<a href="/category/Leaderboard/">High Score Games</a>
+							</li>
+							
+	<!--					<li>
                                 <div>
-                                    <img class="float-right" src="http://www.playfin.com/theme/Smarty/playfin/img/menu/Others.png" alt="Others Games">
+                                    <img class="float-right" src="/theme/Smarty/playfin/img/menu/Iwon.png" alt="Iwon Games" />
                                     <span>&nbsp;</span>
                                 </div>
-                                <a href="http://www.playfin.com/index.php?cat=Other">Other Games</a>
+                                <a href="/download/">Iwon Games</a>
+                            </li>
+	-->	    
+                            <li>
+                                <div class="magenta">
+                                    <img class="float-right" src="http://i.playfin.com/theme/Smarty/playfin/img/menu/Others.png" alt="Others Games">
+                                    <span>Other Games</span>
+                                </div>
+                                <a href="/category/Other/">Other Games</a>
                             </li>
                         </ul>
                     </div>
-                    
                     <div id="left-sidebar" style="text-align:center; padding-top:15px; width:160px;">
-                        <iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="120" height="600" src="http://ad.tradsrvr.com/st?ad_type=iframe&amp;ad_size=120x600&amp;section=737828"></iframe>
+                    <iframe src="http://www.facebook.com/plugins/likebox.php?id=122159134479335&amp;width=150&amp;connections=5&amp;stream=false&amp;header=true&amp;height=220" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:220px;" allowtransparency="false"></iframe>
 
-                        <!--<div id="quick-links">
-                            <h4>Browse...</h4>
-                            <ul>
-                                <li><a href="#">Flash Games</a></li>
-                                <li><a href="#">Downloadable Games</a></li>
-                            </ul>
-                            <ul>
-                                <li><a href="#">Featured Games</a></li>
-                                <li>Browse by
-                                    <ul>
-                                        <li><a href="#">...recent</a></li>
-                                        <li><a href="#">...genre</a></li>
-                                        <li><a href="#">...most favorited</a></li>
-                                        <li><a href="#">...rating</a></li>
-                                        <li><a href="#">...popularity</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li><a href="#">Support</a></li>
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Contact</a></li>
-                            </ul>
-                        </div>-->
-                        <!--/quick-links-->
+                    
+                    
+
+
+<script type="text/javascript"><!--
+
+google_ad_client = "pub-4659644490955201";
+
+/* 120x600, created 3/5/10 */
+
+google_ad_slot = "3970992642";
+
+google_ad_width = 120;
+
+google_ad_height = 600;
+
+//-->
+
+</script>
+
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script>
+
+                    
+
                     </div><!--/left side bar-->
                 </div><!-- /body-left -->                <!--*************right body***************-->
                 <div id="body-right" class="span-20 last">
@@ -253,57 +342,56 @@
                                 <b>Privacy Policy</b>
                             </h3>
                             <p>
-                                             
+                                
                     </p><p style="line-height:normal">Your privacy is very important to us.
-                    Accordingly, we have developed this Policy in order for you to understand how
+                    Accordingly, we have developed this policy in order for you to understand how
                     we collect, use, communicate and disclose and make use of personal information.
                     The following outlines our privacy policy. </p>
-                    
-                    <ul>
-                        <li style="list-style-type:disc;">
-                            Before
-                            or at the time of collecting personal information, we will identify the
-                            purposes for which information is being collected.
-                        </li>
-                        <li style="list-style-type:disc;">
-                            We
-                            will collect and use of personal information solely with the objective of
-                            fulfilling those purposes specified by us and for other compatible purposes,
-                            unless we obtain the consent of the individual concerned or as required by law.
-                            
-                        </li>
-                        <li style="list-style-type:disc;">
-                            We
-                            will only retain personal information as long as necessary for the fulfillment
-                            of those purposes.
-                        </li>
-                        <li style="list-style-type:disc;">
-                            We
-                            will collect personal information by lawful and fair means and, where appropriate,
-                            with the knowledge or consent of the individual concerned.
-                        </li>
-                        <li style="list-style-type:disc;">
-                            Personal
-                            data should be relevant to the purposes for which it is to be used, and, to the
-                            extent necessary for those purposes, should be accurate, complete, and
-                            up-to-date.
-                        </li>
-                        <li style="list-style-type:disc;">
-                            We
-                            will protect personal information by reasonable security safeguards against
-                            loss or theft, as well as unauthorized access, disclosure, copying, use or
-                            modification.
-                        </li>
-                        <li style="list-style-type:disc;">
-                            We
-                            will make readily available to customers information about our policies and
-                            practices relating to the management of personal information.
-                        </li>
-                    </ul>
-                    <p style="line-height:normal"><span style="font-size:12.0pt;
-                    font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">We are committed to conducting our
-                    business in accordance with these principles in order to ensure that the
-                    confidentiality of personal information is protected and maintained. </span></p>
+
+
+
+       <p> <b>1.  </b>		Before or at the time of collecting personal information, we will identify the
+                         purposes for which information is being collected.</p>
+
+
+        <p><b>2.  </b>We will collect and use of personal information solely with the objective of
+                         fulfilling those purposes specified by us and for other compatible purposes,
+                         unless we obtain the consent of the individual concerned or as required by law. </p>
+
+
+      	<p><b>3.  </b>We will only retain personal information as long as necessary for the fulfillment
+                         of those purposes. </p>
+
+
+       <p><b>4.  </b>We will collect personal information by lawful and fair means and, where appropriate,
+                         with the knowledge or consent of the individual concerned.</p>
+
+
+      <p><b>5.  </b>Personal data should be relevant to the purposes for which it is to be used, and, to the
+                         extent necessary for those purposes, should be accurate, complete, and
+                         up-to-date. </p>
+
+
+      <p><b>6.  </b>We will protect personal information by reasonable security safeguards against
+                         loss or theft, as well as unauthorized access, disclosure, copying, use or
+                         modification. </p>
+
+
+      <p><b>7.  </b>We will make readily available to customers information about our policies and
+                         practices relating to the management of personal information. </p>
+
+
+                    <p>We are committed to conducting our business
+					in accordance with these principles in order to ensure that the confidentiality of
+					personal information is protected and maintained.  If you have problem related privacy
+					issues, please contact us through email at <a href="mailto:webmaster@playfin.com">webmaster@playfin.com</a>. We are committed
+					to resolving any issues in a timely manner.</p>
+
+
+			  <p><b>Conditions of Use </b></p>
+				<p>	By using and accessing playfin.com you are agreeing to the Online Privacy Policy set forth.
+					As our business changes and grows, we may change the privacy policy. Any changes will be
+					posted on our site. Please check back often for any updates. </p>
                 
                             <p></p>
                         </div>
@@ -312,18 +400,18 @@
             </div><!--/body-->
                         <div id="footer" class="span-24 last">
                 <ul>
-                    <li><a href="index.php?loadpage=./includes/login.php">Login</a></li> |
-                    <li><a href="index.php?loadpage=./includes/download.php">Top Games</a></li> |
-                    <li><a href="index.php?loadpage=./includes/aboutus.php">About Us</a></li> |
-                    <li><a href="index.php?loadpage=./includes/contactus.php">Contact Us</a></li> |
-                    <li><a href="index.php?loadpage=./includes/privacypolicy.php">Privacy Policy</a></li> |
-                    <li><a href="index.php?loadpage=./includes/termofuse.php">Terms of Use</a></li> 
+                    <li><a href="/aboutus/">About Us</a></li> |
+                    <li><a href="/contactus/">Contact Us</a></li> |
+                    <li><a href="/privacypolicy/">Privacy Policy</a></li> |
+                    <li><a href="/termofuse/">Terms of Use</a></li> |
+                    <li><a href="/help/">Help</a></li>
                 </ul>
-                <p>Copyright (c) 2009 playfin.com. All Rights Reserved.</p>
+                <p>Copyright (c) 2010 playfin.com. All Rights Reserved.</p>
             </div><!-- /footer -->
 
         </div><!--container-->
-        <script type="text/javascript" src="http://www.playfin.com/theme/Smarty/playfin/lib/script.js"></script>
+        		
+		        <script type="text/javascript" src="/theme/Smarty/playfin/lib/script.js"></script>
         <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -334,5 +422,6 @@
     pageTracker._trackPageview();
     } catch(err) {;}
 </script>    
+    
 
 <!--  --></body></html>
