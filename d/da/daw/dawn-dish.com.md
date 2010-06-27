@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawn-dish.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621204803id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawn-dish.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627054514id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
 
 # Procter & Gamble Privacy Notice
 
@@ -55,7 +55,7 @@ Important Information
 
 How to Contact Us
 
-  * To contact us with a question [click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) (for country specific addresses)
+  * To contact us with a question [click here](https://web.archive.org/privacy/contact_us/contact_us/privacy-central-contact-interactive.html?country=canada-english) (for country specific addresses)
   
 
   * Or write to us at:  
@@ -66,7 +66,7 @@ USA
   
 
   * To read our full Consumer Privacy Statement [click here.](https://web.archive.org/privacy/english/privacy_statement.html)
-  * To read our Global Privacy Policy [click here.](https://web.archive.org/company/our_commitment/privacy_policy/privacy_policy.shtml)
+  * To read our Global Privacy Policy [click here.](https://web.archive.org/en_US/sustainability/point_of_view/privacy.shtml)
   * [Click here ](https://web.archive.org/privacy/english/privacy_faq.html) to view Answers to Frequently Asked Questions
 
 
