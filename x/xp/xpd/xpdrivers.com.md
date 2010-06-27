@@ -1,40 +1,59 @@
-> *The following text is extracted and transformed from the xpdrivers.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205220504id_/http%3A//xpdrivers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpdrivers.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627115942id_/http%3A//xpdrivers.com/privacy-policy) for the most accurate reproduction.*
 
-# Internet Privacy Policy from xpBuys.com
+# Privacy Policy | XP Drivers
 
-  
-**Internet Privacy Policy - xpBuys.com**   
+This privacy policy applies to the use of xpdrivers.com.
 
+We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
-###### At xpBuys.com, we respect the privacy of our web site visitors.
+Log Files and Cookies
 
-  
+This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
 
+Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site.
 
-#### Our Commitment
+We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.
 
-We do not gather any personal information about you unless you provide it to us knowingly. We also recognize that this information belongs to you and that we must treat it accordingly. We do gather typical anonymous, non-personal, information to help us improve our website. 
+We have no access to or administration abilities over any cookies that are used by any advertisers on our site.
 
-#### Our Use of Personal and Non-Personal Information 
+Links to Other Websites
 
-We collect two kinds of information about our online visitors, personal and non-personal information. Visitors are not required to register to access the public pages of xpBuys.com. 
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
 
-**Non-personal information**. As you use the Internet, a trail of anonymous information is left at each website you visit and is typically retained by the web server hosting each site. We use this information to track the total number of visitors to xpBuys.com and to guide our efforts to improve our site. The non-personal information we monitor includes the browser type and operating system being used by our visitors; areas of the site visited; date and time of access; host or service-provider information, and identification of the referring site. This information is used exclusively for our internal purposes and is not disclosed to any non-affiliated third parties except our web site developers. 
+Registration and Use of Personal Information
 
-**Personal information** provided by you is kept confidential and is collected only when voluntarily offered by visitors and is used solely for purposes that are clearly identified on our site. 
+Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.
 
-Personal information may include name, title, company, address, phone number and similar information which identifies you. We collect this information so that you may obtain access to members-only portions of our site and/or to receive products and services. We do not sell or rent or transmit personal information to third party organizations, except with those organizations that provide services on behalf of the site in the normal course of business, such as credit card processors. These third parties may only use the data for the purpose for which it was provided. xpBuys.com does not seek personal information from children. 
+If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
 
-#### Our Use Of Cookies
+Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
 
-xpBuys.com may place an electronic "cookie" in the browser files of your computer to facilitate and enhance your communication and interaction with our site. Many web sites use cookies for these purposes. Cookies themselves do not enable us to access any personal information about our visitors; however, they do allow xpBuys.com to analyze visitors' use of our site. This analysis helps us better understand which areas of our sites are most useful and popular so we can plan improvements and updates accordingly. xpBuys.com does not use cookies to retrieve information from a visitor's computer that was not originally sent in a cookie. 
+We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at info@xpdrivers.com.
 
-#### Internet Security
+Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
 
-The security of your personal information is very important to us. We attempt to provide for the secure transmission of your personal information from your computer to our servers by utilizing encryption software. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees who need access to your information in order to perform their duties are allowed access to your personal information. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and xpBuys.com, and xpBuys.com and you, will be free from unauthorized access by third parties such as hackers and your use of this site demonstrates your assumption of this risk. xpBuys.com does not assume any responsibility for any harm, loss, or damage you may experience or incur by the sending of personal or confidential information over the Internet by or to xpBuys.com. 
+Access to Personally Identifiable Information
 
-#### Consent
+If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at info@xpdrivers.com.
 
-By using this site, you signify your consent to the xpBuys.com  Internet Privacy Policy. If you do not agree to this policy, please do not use this web site. We reserve the right, at our discretion, to update, change, modify, add, or remove portions of this policy from time to time. Any changes to this privacy policy will be promptly disclosed in this area. 
+Security
 
-_This policy applies to xpBuys.com and its affiliates._
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
+
+You may submit any questions you may have about our security procedures by emailing us at info@xpdrivers.com.
+
+Links to Other Websites
+
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
+
+Legal Disclaimer
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
+
+Contact Details
+
+If you have any questions or concerns regarding this privacy policy, or you wish to contact us by:
+
+info@xpdrivers.com
+
+This privacy policy was last updated on September 24, 2009.
