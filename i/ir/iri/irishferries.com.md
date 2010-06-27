@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishferries.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622194644id_/http%3A//www.irishferries.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishferries.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627074549id_/http%3A//www.irishferries.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Irish Ferries - Ferries between Britain & Ireland - Car Ferry between France & Ireland
 
