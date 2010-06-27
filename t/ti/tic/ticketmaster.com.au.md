@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227035056id_/http%3A//www.ticketmaster.com.au/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627123626id_/http%3A//www.ticketmaster.com.au/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster - Help
 
@@ -20,7 +20,7 @@ email : [privacy@ticketmaster.com.au](mailto:privacy@ticketmaster.com.au) or via
 
 **Privacy Officer**   
 Ticketmaster   
-GPO Box 762G   
+GPO Box 762   
 Melbourne 3001   
 Please allow 14 days for your request to be processed 
 
