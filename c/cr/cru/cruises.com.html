@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the cruises.com privacy policy that was archived on 2009-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225191219id_/http%3A//www.cruises.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cruises.com privacy policy that was archived on 2010-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627113026id_/http%3A//www.cruises.com/privacy_policy.asp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head profile="http://www.w3.org/2005/10/profile">
 
 
 			<meta name="Description" content="Find the best cruise and vacation deals on the Internet, make cruise and hotel and reservations online, and research vacation destinations online at Cruises.com ">
@@ -21,6 +21,12 @@
 			<meta name="Distribution" content="Global">
 
  
+
+
+
+
+<link rel="shortcut icon" type="image/gif" href="http://www.cruises.com/favicon_cru-16x16.gif">
+
 
 
 
@@ -65,7 +71,22 @@
 			//alert(event_name);
 		return true;
     }
-    
+    function addGATrans(booknumber,bookprice){    
+		try {		  
+		  pageTracker._addTrans(
+		    booknumber,  									// Order ID
+		    "",                            					// Affiliation
+		    bookprice, 										// Total
+		    "",                                    		 // Tax
+		    "",                                          // Shipping
+		    "",                                			 // City
+		    "",                              			 // State
+		    ""                                       	 // Country
+		  );		  
+		
+		  pageTracker._trackTrans();
+		} catch(err) {}
+		}
     
  </script>  
 
@@ -102,10 +123,9 @@
 
 
 <!--
-	server and timestamp info:blweb17:Fri Dec 25 14:11:52 EST 2009
+	server and timestamp info:blweb17:Sun Jun 27 07:30:25 EDT 2010
   -->
 	
-
 
 
 
@@ -224,7 +244,7 @@ else if (myCookie == "Scotland")
 
 
 
-             
+      <div align="center">        
                <div id="header_container_short" style="height:100px;">
 	<div id="header_logo_container_short" style="margin:17px 155px 0px 0px;"><a href="http://www.cruises.com"><img src="/images_unique/crudotcom/logo.gif" width="216" height="52" border="0"></a></div>
 	<div id="header_phone_container" style="width:400px;">
@@ -238,7 +258,7 @@ else if (myCookie == "Scotland")
 
         <div id="UKfl"><img style="margin-left:5px;" id="iphoneUK" onmouseover="flagHighlight('UK');" onmouseout="flagBlur('UK',iflagSelectedUK);" onclick="changeFlag('UK');" src="/images_unique/crudotcom/header/UK_Off.gif"></div>
 
-        <div id="Scotlandfl"><img style="margin-left:5px;" id="iphoneScotland" onmouseover="flagHighlight('Scotland');" onmouseout="flagBlur('Scotland',iflagSelectedScotland);" onclick="changeFlag('Scotland');" src="/images_unique/crudotcom/header/Scotland_Off.gif"></div>
+        <div id="Scotlandfl" style="display:none;"><img style="margin-left:5px;" id="iphoneScotland" onmouseover="flagHighlight('Scotland');" onmouseout="flagBlur('Scotland',iflagSelectedScotland);" onclick="changeFlag('Scotland');" src="/images_unique/crudotcom/header/Scotland_Off.gif"></div>
 
         <div id="Australiafl"><img style="margin-left:5px;" id="iphoneAustralia" onmouseover="flagHighlight('Australia');" onmouseout="flagBlur('Australia',iflagSelectedAustralia);" onclick="changeFlag('Australia');" src="/images_unique/crudotcom/header/Australia_Off.gif"></div>
 </div>
@@ -255,7 +275,7 @@ else if (myCookie == "Scotland")
 		</div>
 </div>
 </div>
-
+</div>
     <div id="navigationWrapper_short">
         
                 <div id="navigation_short">
@@ -271,22 +291,26 @@ else if (myCookie == "Scotland")
                         <li id="navArr"><span id="darr">↓</span></li>
                         <li id="navCruiseDeals"><a href="http://www.cruises.com/promotion/crudotcom/deals/cruise-deals.asp" id="ctl00_Deals">cruise deals</a>
                             <ul>
-                                <li><a id="ctl00_LastMinute" href="http://www.cruises.com/promotion/lastminutecruises/lastminutecruises.asp">
-                                    Last Minute Deals</a></li>
-                                <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/regional/default.asp">
-                                    Close to Home Deals</a></li>
                                 <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/balcony-suite-sale/balcony-suite-cruises.asp">
                                     Balcony &amp; Suite Deals</a></li>
-                                <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/family/family-cruises.asp">
+                            <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/regional/default.asp">
+                                    Close to Home Deals</a></li>
+                            <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/family/family-cruises.asp">
                                     Family Cruises</a></li>
                                  <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/holiday/holiday-cruises.asp">
                                     Holiday Cruises</a></li>
+                                <li><a id="ctl00_LastMinute" href="http://www.cruises.com/promotion/lastminutecruises/lastminutecruises.asp">
+                                    Last Minute Deals</a></li>
+								<li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/luxury/luxury-cruises.asp">
+                                    Luxury Cruises</a></li>
+                                <li><a id="ctl00_Homeland" href="/promotion/crudotcom/newships/new-cruise-ships.asp">
+                                    New Cruise Ships</a></li>
+                                <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/summercruise/summer-cruises.asp">
+                                    Summer Cruises</a></li>
                                 <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/weekend/weekend-cruises.asp">
                                     Weekend Cruises</a></li>
-                                <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/luxury/luxury-cruises.asp">
-                                    Luxury Cruises</a></li>
                                 <li><a id="ctl00_Homeland" href="http://www.cruises.com/promotion/crudotcom/deals/cruise-deals.asp">
-                                    &gt;&gt;See All Cruise Deals</a></li>
+                                    &gt;&gt;See All Cruise Deals</a></li>   
                                 
                                 
                             </ul>
@@ -295,20 +319,20 @@ else if (myCookie == "Scotland")
                         <li id="navArr"><span id="darr">↓</span></li>
                         <li id="navDestinations_short"><a id="ctl00_Destinations" href="http://www.cruises.com/destinations/world.asp">destinations</a>
                             <ul>
-                                <li><a id="ctl00_Caribbean" href="http://www.cruises.com/promotion/crudotcom/caribbean/caribbean-cruises.asp">
-                                    Caribbean Cruises</a></li>
-                                <li><a id="ctl00_Bahamas" href="http://www.cruises.com/promotion/crudotcom/bahamas/bahamas-cruises.asp">
-                                    Bahamas Cruises</a></li>
-                                <li><a id="ctl00_Mexico" href="http://www.cruises.com/promotion/crudotcom/mexico/mexico-cruises.asp">
-                                    Mexico Cruises</a></li>
-                                <li><a id="ctl00_Bermuda" href="http://www.cruises.com/promotion/crudotcom/bermuda/bermuda-cruises.asp">
-                                    Bermuda Cruises</a></li>
                                 <li><a id="ctl00_Alaska" href="http://www.cruises.com/promotion/crudotcom/alaska/alaska-cruises.asp">
                                     Alaska Cruises</a></li>
-                                <li><a id="ctl00_Hawaii" href="http://www.cruises.com/promotion/crudotcom/hawaii/hawaii-cruises.asp">
-                                    Hawaii Cruises</a></li>
-                                <li><a id="ctl00_Europe" href="http://www.cruises.com/promotion/crudotcom/europe/europe-cruises.asp">
-                                    Europe Cruises</a></li>
+                            <li><a id="ctl00_Bahamas" href="http://www.cruises.com/promotion/crudotcom/bahamas/bahamas-cruises.asp">
+                                    Bahamas Cruises</a></li>
+                            <li><a id="ctl00_Bermuda" href="http://www.cruises.com/promotion/crudotcom/bermuda/bermuda-cruises.asp">
+                                    Bermuda Cruises</a></li>
+                            <li><a id="ctl00_Caribbean" href="http://www.cruises.com/promotion/crudotcom/caribbean/caribbean-cruises.asp">
+                                    Caribbean Cruises</a></li>
+                            <li><a id="ctl00_Hawaii" href="http://www.cruises.com/promotion/crudotcom/hawaii/hawaii-cruises.asp">
+                                    Hawaii Cruises</a></li>  
+                            <li><a id="ctl00_Europe" href="http://www.cruises.com/promotion/crudotcom/europe/europe-cruises.asp">
+                                    Europe Cruises</a></li> 
+                            <li><a id="ctl00_Mexico" href="http://www.cruises.com/promotion/crudotcom/mexico/mexico-cruises.asp">
+                                    Mexico Cruises</a></li>
                                 
                             </ul>
                         </li>
@@ -321,10 +345,12 @@ else if (myCookie == "Scotland")
 								<li><a id="ctl00_Carnival" href="http://www.cruises.com/promotion/crudotcom/ccl_ten/carnival-cruises.asp">Carnival Cruise Lines</a></li>
                                 <li><a id="ctl00_Celebrity" href="http://www.cruises.com/promotion/crudotcom/cha_ten/celebrity-cruises.asp">Celebrity Cruises</a></li>
                                 <li><a id="ctl00_Costa" href="http://www.cruises.com/promotion/crudotcom/cos_ten/costa-cruises.asp">Costa Cruises</a></li>
+                                <li><a id="ctl00_Disney" href="http://www.cruises.com/promotion/crudotcom/disney/disney-cruises.asp">Disney Cruises</a></li>
                                 <li><a id="ctl00_Holland" href="http://www.cruises.com/promotion/crudotcom/hal_ten/holland-america-cruises.asp">Holland America Line</a></li>
                                 <li><a id="ctl00_MSC" href="http://www.cruises.com/promotion/crudotcom/msc_ten/msc-cruises.asp">MSC Cruises</a></li>
                                 <li><a id="ctl00_Norwegian" href="http://www.cruises.com/promotion/crudotcom/ncl_ten/norwegian-cruises.asp">Norwegian Cruise Line</a></li>
                                 <li><a id="ctl00_Princess" href="http://www.cruises.com/promotion/crudotcom/pcl_ten/princess-cruises.asp">Princess Cruises</a></li>
+                                <li><a id="ctl00_River" href="http://www.cruises.com/promotion/crudotcom/rivercruising/viking-river-cruises.asp">River Cruising</a></li>
 								<li><a id="ctl00_Royal" href="http://www.cruises.com/promotion/crudotcom/rci_ten/royal-caribbean-cruises.asp">Royal Caribbean</a></li>
                                 
                                 <li><a id="ctl00_AllLines" href="http://www.cruises.com/c/cruisemain.asp">&gt;&gt;See All Cruise Lines</a></li>
@@ -337,11 +363,10 @@ else if (myCookie == "Scotland")
                             
                         </li>
                         
-                        <li id="navCustomerCare"><a id="ctl00_customercare" href="http://www.cruises.com/cs/default.asp" style="font-weight:normal; font-size:11px; text-decoration:underline">
-                            Customer Care</a>
+                        <li id="navCustomerCare">
                             
                         </li>
-                        <li id="customerSeparator"><span id="separator"> | </span> 
+                        <li id="customerSeparator"><span id="separator"></span> 
                         </li>
                          <li id="navSiteMap"><a id="ctl00_sitemap" href="http://www.cruises.com/cruisesdotcom-sitemap.asp" style="font-weight:normal; font-size:11px; text-decoration:underline">Site Map</a>
                             
@@ -556,25 +581,33 @@ document.getElementById("iphoneAustralia").src = iflagAustralia;
 
 
 
+
 <div style="clear:both"></div>
+<br>
+<br>
+
 
 <div id="footerdiv_short"><img src="/images_unique/crudotcom/footerdiv_short.gif" width="780" height="2" border="0"></div>
 
-<div id="footer">
+<br>
+<br>
+
+<div id="footer" style="padding-bottom:0px !important;">
+<center><a href="http://www.cruises.com/cs/default.asp"><img src="/images_unique/cs_v4.gif" alt="Cruise Customer Service" border="0"></a></center>
 
 	<div id="footer_nav">
 	<ul>
-		<li><a href="http://www.cruises.com/cs/default.asp">Customer Care</a><span class="pipe_spacr">|</span></li>
-		<li><a href="http://www.cruises.com/cs/default.asp">Existing Reservations</a><span class="pipe_spacr">|</span></li>
-		<li><a href="http://www.cruises.com/contact/default.asp">Contact Us</a><span class="pipe_spacr">|</span></li>
-		<li><a href="http://www.cruises.com/promotion/crudotcom/guarantee/default.asp">About Us</a><span class="pipe_spacr">|</span></li>
-		<li><a href="http://www.cruises.com/cruisesdotcom-sitemap.asp">Site Map</a><span class="pipe_spacr">|</span></li>
-		<li><a href="http://www.cruises.com/privacy.do">Privacy Policy</a><span class="pipe_spacr">|</span></li>
-		<li><a href="http://www.cruises.com/cs/sellerinfo.asp">Seller of Travel Info</a></li>
+		<li style="margin-left:0px;"><a href="http://www.cruises.com/cs/default.asp">Customer Care</a><span class="pipe_spacr">|</span></li>
+		<li style="margin-left:0px;"><a href="http://www.cruises.com/cs/default.asp">Existing Reservations</a><span class="pipe_spacr">|</span></li>
+		<li style="margin-left:0px;"><a href="http://www.cruises.com/contact/default.asp">Contact Us</a><span class="pipe_spacr">|</span></li>
+		<li style="margin-left:0px;"><a href="http://www.cruises.com/promotion/crudotcom/guarantee/default.asp">About Us</a><span class="pipe_spacr">|</span></li>
+		<li style="margin-left:0px;"><a href="http://www.cruises.com/cruisesdotcom-sitemap.asp">Site Map</a><span class="pipe_spacr">|</span></li>
+		<li style="margin-left:0px;"><a href="http://www.cruises.com/privacy.do">Privacy Policy</a><span class="pipe_spacr">|</span></li>
+		<li style="margin-left:0px;"><a href="http://www.cruises.com/cs/sellerinfo.asp">Seller of Travel Info</a></li>
 	</ul>
 	</div>
 
-	<div id="copyright">© 2008&nbsp; Cruises.com is a registered trademark of NLG. All Rights Reserved.</div>
+	<div id="copyright">© 2010&nbsp; Cruises.com is a registered trademark of NLG. All Rights Reserved.</div>
 	<div id="footer_tnc">
 	<!--<a href="">Best Cruise Deals</a> | <a href="/promotion/crudotcom/last_minute/default.asp">Last Minute Cruises</a> | <a href="/c/cruiseline.asp?lineid=1">Carnival Cruises</a> | <a href="http://http://www.cruises.com" />/c/cruiseline.asp?lineid=11">Celebrity Cruises</a> | 
 <a href="http://http://www.cruises.com/c/cruiseline.asp?lineid=14">Costa Cruises</a> | <a href="/c/cruiseline.asp?lineid=17">Crystal Cruises</a> | <a href="http://http://www.cruises.com/c/cruiseline.asp?lineid=18">Cunard Cruises</a><BR /><a href="http://http://www.cruises.com/c/cruiseline.asp?lineid=20">Disney Cruises</a> | <a href="http://http://www.cruises.com/c/cruiseline.asp?lineid=24">Holland 
@@ -587,7 +620,7 @@ Destinations</a> | <a href="http://http://www.cruises.com/shoretours/default.asp
 Cruise</a><BR /><BR />-->
 
 Cruises.com offers unbeatable cruise deals on 18 top cruise lines - you'll get the lowest price on your cruise vacation - guaranteed.*<br>
-*Offer excludes all bookings made on Princess Cruises. <br> We also offer last minute cruise packages and other cruise specials. <br> Plus you'll get the lowest price on your cruise vacation - guaranteed.*<br>*Offer excludes all bookings made on Pricess Cruises.
+*Offer excludes all bookings made on Princess Cruises. <br> We also offer last minute cruise packages and other cruise specials. <br> Plus, you'll get the lowest price on your cruise vacation — guaranteed.*<br>*Offer excludes all bookings made on Princess Cruises.
 
 	
 	</div>
@@ -596,21 +629,24 @@ Cruises.com offers unbeatable cruise deals on 18 top cruise lines - you'll get t
 
 
 
+
+
+<div style="width:780px;">
+
+
+
+<center>
 <div align="center">
 <div style="text-align:center;">
 
-<div id="crosslinks" style="width:100% !important;"><br>
+<div id="crosslinks" style="width:100% !important;margin-left:0px !important; margin-right:0px !important;"><br>
 <a href="http://www.worldtravelholdings.com/" target="blank" class="smlink">World Travel Holdings</a> Brand Sites <br>
 <!--<a href="http://www.creativeleisure.com" target="blank" class="smlink">CreativeLeisure.com</a> | -->
-	
-  <a href="http://www.cruise411.com" target="blank" class="smlink">Cruise411.com</a>
-	
-	
-	
-| <a href="http://www.cruisesonly.com" target="blank" class="smlink">CruisesOnly.com</a>
 
-| <a href="http://www.rooms.com" target="blank" class="smlink">Rooms.com</a>
-| <a href="http://www.tripsofdistinction.com" class="smlink" target="blank">TripsofDistinction.com</a>
+
+
+<a href="http://www.rooms.com" target="blank" class="smlink">Rooms.com</a>
+
 	
 | <a href="http://www.vacationoutlet.com" target="blank" class="smlink">VacationOutlet.com</a>
 	 
@@ -619,6 +655,9 @@ Cruises.com offers unbeatable cruise deals on 18 top cruise lines - you'll get t
 
 </div>
 </div>
+</div>
+</center>
+
 </div>
 
 
