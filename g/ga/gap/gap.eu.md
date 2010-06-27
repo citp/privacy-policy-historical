@@ -1,271 +1,152 @@
-> *The following text is extracted and transformed from the gap.eu privacy policy that was archived on 2008-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080410192241id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2330) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.eu privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627150345id_/http%3A//gap.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy, Security and Web Info | Gap
+# Privacy Policy | Gap UK
 
-Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Stores, and Piperlime (collectively, "Gap Inc."), value our customers and respect your privacy. We collect information about you in our stores and through our websites in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We do not sell or rent your personal information to third parties. As described in this policy, we may share your information among our brands and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.
+Last Updated: **21st December 2009**
 
-This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears at the end of this policy. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
+## Our Commitment to Privacy
 
-If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?", below.
+Gap Inc. and our affiliates and subsidiaries in the U.S. and the European Union, including GPS (Great Britain) Limited, Gap Netherlands B.V., Gap (France) SAS, and Gap Stores (Ireland) Limited (collectively, "Gap Companies") and our brands, including Gap, Banana Republic, and other Gap Inc. brands (collectively, our “brands”) value our customers and respect your privacy. We collect information about you in our stores and through our websites connected to this policy in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions.
 
-  * What kind of information does Gap Inc. collect?
-  * How does Gap Inc. use my information?
-  * Does Gap Inc. share my information?
-  * How do I access or change my information?
-  * How do I make choices about receiving promotional communications?
-  * How does Gap Inc. protect kids' privacy?
-  * How does Gap Inc. use cookies?
-  * How does Gap Inc. use pixel tags?
-  * How do I know my personal information is secure?
-  * What is "phishing"?
+Personal information collected by Gap companies under this policy is subject to the rules set out in the Data Protection Act 1998 (the “Act”) and any other applicable legislation and rules. For the purposes of the Act, the data processor in the United Kingdom is GPS (Great Britain) Limited t/a Gap and Banana Republic, a company registered in England and Wales (company number 2275771; VAT number GB 676091512) and with its registered office at Berkeley Square House, London W1J 6BS. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. For more information, please visit <http://www.export.gov/safeharbor/>.
+
+This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect, use, and disclose your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the Last Updated date that appears at the top of this policy. You can browse our site without providing any personal information, but if you choose not to provide us with certain personal information, this may result in your being unable to use certain services or features offered by us.
+
+If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?" below.
+
+## Privacy Policy
+
+  * What kind of personal information do Gap Companies collect?
+  * How do Gap Companies use personal information?
+  * Do Gap Companies share personal information about me?
+  * How do I access or change personal information?
+  * How do I make choices about personal information?
+  * What about children’s personal information?
+  * How do Gap Companies collect and use non-personal information?
+  * How do Gap Companies collect and use cookies?
+  * How do Gap Companies collect and use pixel tags and similar technologies?
+  * How do Gap Companies collect and use IP addresses?
+  * How do I know personal information about me is secure?
   * What about links to other websites?
+  * How long do you retain my information?
   * How do I contact you?
-  * Your California Privacy Rights
 
 
 
-We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online or by phone and in our stores. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands.
+## What kind of personal information do Gap Companies collect?
 
-back to top
+We may collect personal information from you, such as your name, email address, postal address, phone number or credit card number, when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase or return, save your information with us online, contact us or participate in a contest, promotion or survey. We may maintain a record of your product interests and the purchases you make online or by phone and in our stores. As detailed below, we may combine all of this personal information with personal information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands.
+
+Personal information about you may be processed or stored on servers hosted in various countries, whether within or outside of the European Economic Area (“EEA”). Accordingly, this means that your personal information may be transferred outside of the EEA to various countries, including the United States. Your personal information may be subject to the laws of the countries in which it is stored or used, and those countries may have a different data protection regime than the country in which you reside. By providing us with any personal information, you consent to such transfer, processing and storage of your personal information. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. For more information, please visit <http://www.export.gov/safeharbor/>.
+
+## How do Gap Companies use personal information?
 
 We may use your personal information in the following ways:
 
-  * To process and fulfill your order, including to send you emails to confirm your order status and shipment
-  * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
-  * To administer and fulfill our contests and other promotions
-  * To help us learn more about your shopping preferences
+  * To process and fulfill your order(s), including to send you emails to confirm your order status and shipment
+  * To process merchandise returns
+  * To administer and fulfill contests, loyalty programs, and other promotions and programs in which you participate
   * To help us address problems with and improve our site design, products and services
   * To enhance your shopping experience
-  * To analyze trends and statistics
+  * To help us learn more about your shopping preferences
+  * To understand your shopping interests and purchasing history so that we can tailor offers and promotions to you
+  * For our internal business purposes, such as to analyze trends and statistics, for audits, to develop new products, to enhance our websites, to improve our services, to identify usage trends and to determine the effectiveness of our promotional campaigns
   * To protect the security or integrity of our websites and our business
-  * To contact you if necessary
+  * To contact you if necessary regarding your transactions with us, changes to our terms, conditions, and policies and/or for other administrative purposes
+  * With your consent when required, to communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
 
 
 
-You always have the choice not to receive marketing information or calls. For instructions on opting out, please see the section entitled, "How do I make choices about receiving promotional communications?", below.
+## Do Gap Companies share personal information about me?
 
-back to top
+We may share your personal information in the following ways: 
 
-We may share your personal information in the following ways:
+  * **Gap Companies.** When you provide personal information to one of our Gap Companies, we may share that information with our other Gap Companies so that they may use and disclose it for the purposes described in this privacy policy.
+  * **Service Providers.** We engage service providers who manage our customer information and perform services on our behalf. We require that our service providers appropriately protect personal information and use it only to provide services to us.
+  * **Third Parties.** We may share your personal information with third party sponsors of contests, promotions, scrip or loyalty programs, or otherwise in accordance with the terms and conditions applicable to any such contests, promotions or programs. You should carefully review any such terms and conditions, as they may contain additional important information about a sponsor's or other third party’s use of your personal information. To the extent that the terms and conditions conflict with this privacy policy, the terms and conditions of such contests, promotions and programs shall control.
+  * **Corporate Transactions.** In the unlikely event of a reorganization, merger, sale, joint venture, assignment, transfer or other disposition of whatsoever nature of all or any portion of the business, assets or stock of the Gap Companies or any of our businesses, personal information about our customers and other information we have collected as described in this policy may be among the transferred business assets and may be shared with other relevant parties. 
+  * **Other Disclosures.** Gap Companies also may disclose personal information about you in order to: (1) protect the legal rights, privacy or safety of Gap Companies or our employees, agents and contractors; (2) protect the safety and security of visitors to our websites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from government or public authorities in any country in which we operate, including the U.S.; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Use of any website we may operate or the terms and conditions applicable to any contest, promotion or program; or (7) comply with the law or legal process.
 
-  * When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, or Piperlime), we may share that information with our other Gap Inc. brands.
-  * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information.
-  * We may share your information when we team up with another company to offer or provide products, services, contests, or promotions to our customers.
 
 
+## How do I access or change personal information?
 
-In addition, if you choose to participate in any scrip, loyalty, or similar program in which a Gap Inc. brand is a participating vendor, and you authorize Gap Inc. or our credit card processor to provide information about your purchases to the company administering the program, we will share your personal information with that program. Scrip programs allow you to instruct us to divert a percentage of the amount you spend on Gap Inc. purchases to participating schools and other non-profit organizations. Loyalty programs allow you to earn "points" on purchases at Gap Inc. brands, which you may then use toward certain rewards offered by the loyalty programs in which you participate. The information you authorize us to disclose to the scrip or loyalty program may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the scrip or loyalty company may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them.
+You can contact us as described in the section entitled “How do I contact you?” to request access to or more information about the use of personal information or to ask us to change, update, delete and/or suppress personal information. Please note that certain personal information may be exempt from such access, correction, deletion or suppression rights pursuant to local data protection laws. We will respond as required by applicable law. Further, if we provide functionality on any of our websites that permits you to set up an account on the site, you may log into your account to access and change your personal information.
 
-In the unlikely event of a sale or merger of Gap Inc. or any of our businesses, our customers' personal information and other information we have collected as described in this policy may be among the transferred business assets.
+In any contact with us in this regard, you must clearly indicate: the information that you wish to have changed; the information that you wish to have suppressed from our database; or the limitations you wish to put on our use of your personal information. We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed. We are not responsible for changing, updating, deleting or suppressing personal information in the databases of third parties with whom we have already shared your personal information, or limiting their use of your personal information.
 
-back to top
+## How do I make choices about personal information?
 
-You can review and change certain personal information related to your use of our online sites (such as your name and contact information). To access your information at a Gap Inc. website, simply sign in to your account using your email address and password, and you will be able to edit your personal information in your account profile.
+Gap Companies and our brands want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below or by following the “opt out” instructions provided in promotional emails sent to you.
 
-You can also ask us to update your personal information by contacting us as described in the section entitled, "How do I contact you?", below. Please note that any request to update your personal information may take up to 10 days for your email request and 6-8 weeks for your postal mail request.
+Please be sure to include your full name and the email address you used when you registered with or made a purchase from our brand(s). If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file in order to honour your request.
 
-back to top
+If you change your mind, you can start receiving promotional communications from us again by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service.
 
-Gap Inc. and our brands, Gap, Banana Republic, Old Navy, and Piperlime, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below.
+## What about children’s personal information?
 
-Please be sure to include your full name and the email address you used when you registered with or made a purchase from the Gap Inc. brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Gap Inc.
+Our websites are not targeted to or intended for use by children. We ask that children under 18 not transmit any personal information to us. Where specifically requested, we welcome the parent or guardian of a child under the age of 18 to provide relevant information about the child.
 
-If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service.
+## How do Gap Companies collect and use non-personal information?
 
-Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
+Non-personal information is information that does not identify you. It may include information you have provided to us such as demographic data, for example, your gender, birthday, and personal interests. Non-personal information also includes aggregate information, for example, using personal information to calculate the percentage of our customers who like a particular brand.
 
-back to top
+When you visit our websites, the Gap Companies collect non-personal information that may include your MAC address, your computer type, screen resolution, OS version, Internet browser, IP address (as further described below), cookies (as further described below), pixel tags, web beacons, and other similar technologies (as further described below) to better serve you with more tailored information and facilitate your ongoing use of our websites.
 
-Gap Inc. is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent. Our websites are general audience sites and are not targeted to or intended for use by children.
+The Gap Companies may use non-personal information and share non-personal information with other third parties for any purpose. The Gap Companies may combine non-personal information with personal information, such as combining your geographic location with your name, but if we do this the information will be treated by us as personal information for so long as it is combined.
 
-back to top
+## How do Gap Companies collect and use cookies?
 
-Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
+Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies may be used in a variety of ways to enhance or personalize your online experience. For example, we may use cookies to enable you to use certain website features, store your preferences, recognize you when you return to our website, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Do Gap Companies share my information?", above.) You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, certain features of our websites may not be available to you. To learn more about cookies, please visit <http://www.allaboutcookies.org/>.
 
-For example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Does Gap Inc. share my information?", above.)
+## How do Gap Companies collect and use pixel tags and similar technologies?
 
-You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
+We use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, and other similar technologies on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information. Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
-back to top
-
-We use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.
-
-Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. We do not otherwise track any information about your use of other websites.
-
-Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
+We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, to understand your preferences and for other internal business purposes.
 
 We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect information about your visits to our websites and your interaction with our advertising and other communications. If you would like more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
+## How do Gap Companies collect and use IP addresses?
 
-back to top
+Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number may be different each time you log onto the Internet or it may remain the same. The IP address is logged automatically in our server log files whenever you visit our websites, along with the time of your visit and the pages that you visited. It is also collected by pixel tags, as described above. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.
 
-We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information.
+We may use IP addresses for the same purposes for which we use personal information, as well as for calculating website usage levels, helping diagnose server problems, and administering our websites and your use of our websites including providing opportunities to you and fulfilling your requests and purchases. Except where otherwise required by law, we treat IP addresses, server log files and related information as non-personal information.
 
-When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https."
+## How do I know personal information about me is secure?
 
-If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?", below. Customer Services representatives at each of our brands are available 24 hours a day, seven days a week, and will be happy to assist you.
+We have in place physical, electronic, contractual, and managerial safeguards to help protect the security and privacy of your personal information from unauthorized access, acquisition or disclosure. When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your personal information as it is transmitted to us.
 
-back to top
+Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. Please do not send us sensitive information through email. If you have reason to believe that your interaction with us is no longer secure, you must immediately notify us of the problem by contacting us as described in the section entitled, "How do I contact you?" below. If you choose to notify us by physical mail this will delay the time it takes for us to respond to the problem.
 
-"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.
+## What about links to other websites?
 
-back to top
+For your convenience and information, our websites may contain links to other sites, which may have privacy practices and policies that differ from our own. We are not responsible for the content or practices of any linked site. We recommend that you review the privacy policy of any site that you access through our sites. The inclusion of a link to a third-party site on our websites does not imply that any of the Gap Companies endorses the site.
 
-For your convenience and information, our websites may contain links to other sites, which may have privacy policies that differ from our own. We are not responsible for the content or practices of any linked site. We recommend that you review the privacy policy of any site that you access through our sites.
+## How long do you retain my information?
 
-back to top
+We will retain your personal information for the period necessary to fulfill the purposes outlined in this policy unless a longer retention period is required or permitted by law.
 
-For questions about our privacy policy, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact any of our Gap Inc. brands by email, telephone, or postal mail:
+## How do I contact you?
 
-  
-5930 Gap Online Drive  
-Groveport, OH 43195-0002  
-1-800-GAPSTYLE (1-800-427-7895)  
-1-888-906-1104 (TDD hearing impaired)  
-[custserv@gap.com](mailto:custserv@gap.com)
+For questions about our privacy policy, to make choices about receiving promotional communications, to update or change personal information about you in our databases or to request that we delete or suppress your personal information, you can contact our brands by email, telephone, or postal mail:
 
-  
-5900 North Meadows Drive  
-Grove City, OH 43123-8476  
-1-888-BR STYLE (1-888-277-8953)   
-1-888-906-1345 (TDD hearing impaired)  
-[custserv@bananarepublic.com](mailto:custserv@bananarepublic.com)
+Email: [uk_queries@gap.com](mailto:uk_queries@gap.com)
 
-  
-200 Old Navy Lane  
-Grove City, OH 43123-8605  
-1-800-OLD-NAVY (1-800-653-6289)  
-1-800-449-4253 (TDD hearing impaired)  
-[custserv@oldnavy.com](mailto:custserv@oldnavy.com)
+**Telephone:**
 
-  
-5900 Piperlime Lane  
-Grove City, OH 43123  
-1-877-PIPERLIME (1-877-747-3754)  
-1-888-906-1345 (TDD hearing impaired)  
-[customercare@piperlime.com](mailto:custserv@piperlime.com)
+0800 0111427 (option 3)
 
-back to top
+**Post:**
 
-California Civil Code Section 1798.83 permits customers of Gap Inc. who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
+CRM Manager
 
-Gap Inc. - California Privacy Rights  
-Legal Department  
-2 Folsom Street  
-San Francisco, CA 94105
+Gap
 
-back to top
+Berkeley Square House
 
-At gap.com we don't just stand behind our merchandise. We also do our best to provide a safe and convenient online shopping experience. 
+Berkeley Square
 
-We safeguard the integrity of our customers' credit card information. If your credit card or debit card ("credit card") is used in an unauthorized manner on our site (as determined by your credit card company), we will cover whatever amount your credit card company doesn't - up to $50.
+London
 
-If you're not quite comfortable shopping online, or would prefer to make your purchase via telephone, just give us a call at 1.800.GAPSTYLE, option 1. Our Customer Service representatives are standing by 24 hours a day, seven days a week. They'll be happy to take your gap.com order right over the phone. 
-
-Protecting the safety of your credit card information is important to us. 
-
-We use Secure Sockets Layer (SSL) technology to protect the security of your credit card information as it is transmitted to us. 
-
-SSL is the gold standard in Internet encryption technology, which is a fancy way of saying that it's a highly sophisticated method of scrambling data as it travels from your computer to our website's servers.
-
-If someone steals your credit card information or uses your credit card in an unauthorized manner on our site (as determined by your credit card company) — through no fault of your own — we'll cover up to $50 of the charges your credit card company doesn't. What's more, we'll do what we can to make the whole process as hassle-free as can be.
-
-In an effort to make your shopping experience as secure as possible, we now require that you to enter your credit card's 3 to 4 digit security code (CVV). Since the code can only be found on the card itself, providing it helps to prevent credit card fraud.
-
-Under the Fair Credit Billing Act, your bank or credit card company cannot hold you liable for more than $50 of unauthorized or fraudulent charges on a credit card. Your liability for unauthorized use of a debit card may be higher, but most debit card issuers voluntarily apply the $50 limit to their cards as well. If your bank does hold you liable for any amount up to $50, gap.com will cover the liability imposed on you, up to $50. Gap.com will cover this amount only if the unauthorized use of your credit card occurred at gap.com and through no fault of your own. 
-
-Remember: If unauthorized use of your credit or debit card does occur, you must notify your card provider, in accordance with the agreement you have with the company. 
-
-To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https." 
-
-Some browser versions and some firewalls don't permit communication through secure servers like the ones we use to process orders at gap.com. If for any reason you cannot access the secure server, please feel free to place your order with us by phone at 1.800.GAPSTYLE, option 1. Our Customer Service representatives will be happy to assist you.
-
-_Effective October 18, 2004_
-
-A cookie is a small data file that Web sites often store on your computer's hard drive when you visit their sites. A cookie may contain information (such as a unique user ID), that is used to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie.
-
-We use cookies in order to improve your shopping experience. When you visit gap.com, your cookie helps us keep track of your order as you shop at our site. If you have saved your information with us, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you saved your information with or order from us, we also use cookies to monitor and maintain information about your use of our site. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our Web site in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.
-
-We also use cookies to track and maintain the identity of the Web site you visited immediately prior to ours to further improve our site design and to fulfill contracts with our business partners. We do not otherwise track any information about your use of other Web sites.
-
-You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order or enable you to make a purchase from our site. Nor will we be able to recognize you as a signed up user to allow you access to your account information.
-
-  * _AOL 5.0:_  
-Select "Preferences"  
-Click on "WWW"  
-Select the "Security" tab  
-Click on "Custom Level"  
-Scroll down to "Cookies"  
-Select "Enable"
-  * _Netscape Navigator / Communicator:_  
-Select "Preferences" from the "Edit" menu  
-Select "Advanced" from the left-hand menu   
-Select "Accept All Cookies"  
-Click "OK"
-  * _Internet Explorer 5.0 for PC:_  
-Select "Internet Options" from the "Tools" menu  
-Click the "Security" tab  
-Click "Custom Level" at the bottom of the window  
-Scroll down to "Cookies"  
-Select "Always accept cookies"  
-Click "OK"
-  * _Internet Explorer 5.0 for Mac:_  
-Select "Preferences" from the "Edit" menu  
-Select "Receiving Files"  
-Select the option "Never ask" under "When receiving cookies"  
-Click "OK"
-  * _Internet Explorer 6.0 for PC:_  
-To change your privacy settings to "Medium":  
-Select "Internet Options" from the "Tools" Menu.  
-Click the "Privacy" Tab.  
-Set the Privacy Slider to "Medium."  
-Click "OK."
-
-
-
-If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify. To do this, select "Internet Options" from the "Tools" menu, and click on the "Edit" button in the "Override cookie handling for individual websites" section. This will open the "Per Site Privacy Actions" dialogue box.
-
-Type "www.gap.com" in the "Address of Website" box. Click the "Allow" button. Click the "OK" button, then close the "Per Site Privacy Actions" dialogue box. Click the "OK" button to close the "Internet Options" dialogue box and apply your changes.
-
-As always, you can also place your order by phone at 1.800.GAPSTYLE.
-
-We're sorry, but you'll need to enable JavaScript in your browser to shop our site. See below for easy-to-follow instructions.
-
-Yes, you cannot shop the gap.com site unless your Web browser supports JavaScript. If your firewall does not allow JavaScript from the Web in general, you will need to ask your network administrator to enable JavaScript for the gap.com site.
-
-If you are using Internet Explorer 6.x, 5.x or 4.x (Windows):
-
-  1. Click the Tools menu
-  2. Click Internet Options ..., to open the Internet Options dialog box
-  3. Click the Security tab
-  4. Click the Internet symbol (a globe)
-  5. Click the Custom Level ... button, to open the Security Settings dialog box
-  6. In the Settings list, scroll down to Scripting
-  7. Under Active Scripting, click Enable, so that a dot appears next to it
-  8. (If you are unsure about the other Security Settings, please check with your Network Administrator)
-  9. Click OK to close the Security Settings dialog box
-  10. Click Yes in the Warning! message box
-  11. Click OK to close the Internet Options dialog box
-
-
-
-If you are using Netscape 6.x:
-
-  1. Click Edit, then click Preferences
-  2. Click on Advanced.
-  3. Check Enable JavaScript for Navigator.
-  4. Click the OK button.
-
-
-
-If you are using Netscape 4.x:
-
-  1. Click Edit, then click Preferences
-  2. Click on Advanced.
-  3. Check Enable JavaScript.
-  4. Click the OK button.
-
-
-
-We are commited to making our Website accessible to customers who use screen readers and other assistive technologies. If you have any questions about our site or our merchandise, or you would like to make a purchase, please call 1.800.GAPSTYLE. Our customer service representatives are standing by to speak with you 24 hours a day, seven days a week.
+W1J 6BS
