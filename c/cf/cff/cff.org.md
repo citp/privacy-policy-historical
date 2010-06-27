@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223073435id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cff.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627025919id_/http%3A//www.cff.org/privacy_policy) for the most accurate reproduction.*
 
 # Cystic Fibrosis Foundation - Privacy Policy
 
@@ -81,7 +81,9 @@ You may request not to be contacted by the CFF in connection with any new servic
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse and alteration of information under our control. However, we cannot guarantee that such security measures will be sufficient, will not be breached, and that your personal information may not be disclosed or otherwise accessed in an unauthorized manner. Certain information may be transmitted to you by electronic mail. Although it is illegal to intercept or disclose these messages under Federal law, these transmissions are not secured.
+This Site has security measures in place to protect against the loss, misuse and alteration of information under our control. The Foundation employs industry-standard SSL encryption software that encrypts all personal information transmitted via its website. Furthermore, all transactional data collected is protected against unauthorized access with the use of digital certificates that are issued by VeriSign, a leader in the field of Internet security and digital certificates.
+
+However, we cannot guarantee that such security measures will be sufficient, will not be breached, and that your personal information may not be disclosed or otherwise accessed in an unauthorized manner. Certain information may be transmitted to you by electronic mail. Although it is illegal to intercept or disclose these messages under Federal law, these transmissions are not secured.
 
 **Online Policy Changes**
 
@@ -167,4 +169,4 @@ If you have any questions about our privacy policy or the information we collect
 
 back to top
 
-**Updated 08/09/07**
+**Updated 05/26/10**
