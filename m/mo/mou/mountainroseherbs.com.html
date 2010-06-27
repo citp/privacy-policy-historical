@@ -1,13 +1,26 @@
-<!--The following is the downloaded HTML source of the mountainroseherbs.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617041331id_/http%3A//www.mountainroseherbs.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mountainroseherbs.com privacy policy that was archived on 2010-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627182215id_/http%3A//www.mountainroseherbs.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="content-type" content="text/html;charset=utf-8">
 		<meta name="keywords" content="bulk herbs,spices,organic,organic herbal tea, aromatherapy,essential oils, natural body care products,bulk tea,carrier oils, herbs,cosmetic containers,herbal extracts,soap making supplies,bulk ingredients">
 		<title>Mountain Rose Herbs | Privacy and Security Policy</title>
 		<link href="http://www.mountainroseherbs.com/css/mrh.css" rel="stylesheet" type="text/css" media="all">
+		<!-- START SCRIPT -->
 		<script type="text/javascript" src="http://www.mountainroseherbs.com/script/jquery.js"></script>
-		<script language="javascript" type="text/javascript">
+
+
+<script language="javascript" type="text/javascript">
+		$('#s2').cycle({ 
+    fx:     'fade', 
+    speed:  'fast', 
+    timeout: 5000,
+    pause:   1, 
+    next:   '#next2', 
+    prev:   '#prev2' 
+});
+
+
 $(function() {
     swapValues = [];
     $(".swap_value").each(function(i){
@@ -24,6 +37,106 @@ $(function() {
     });
 });
 </script>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+  //hide the all of the element with class msg_body
+  $(".msg_body").hide();
+  //toggle the componenet with class msg_body
+  $(".msg_head").click(function()
+  {
+    $(this).next(".msg_body").slideToggle(600);
+  });
+});
+</script>
+
+<script type="text/javascript">
+			function get_select(mySelect)
+			{
+				var optionX=document.getElementById(mySelect).value;
+				if (mySelect.indexOf("ID")>0)
+				{
+					var myInput =  mySelect.substring(0,mySelect.length-2)+"Name";
+					var prod_name = document.getElementById(myInput).value;
+					var prod_url="http://www.mountainroseherbs.com/stockstatus/notification_form.php?account_id=mountainroseherbs&product_id=" + optionX + "&product_name=" + prod_name;
+					window.open(prod_url, "notify", "width=400, height=300");
+				}
+				else
+				{
+					var option_index=document.getElementById(mySelect).selectedIndex;
+					var option_text=document.getElementById(mySelect).options[option_index].text;
+					var end = option_text.indexOf("$");
+					var prod_name = option_text.substring(0,end);
+					var prod_url="http://www.mountainroseherbs.com/stockstatus/notification_form.php?account_id=mountainroseherbs&product_id=" + optionX + "&product_name=" + prod_name;
+					window.open(prod_url, "notify", "width=400, height=300");
+				}
+			}	
+</script>
+
+<script>
+	function submitForm() {
+	
+		if ( document.frm_search.Recordtype.selectedIndex == 0 ) {
+			document.frm_search.refine.disabled = true;
+			document.frm_search.Recordtype.disabled = true;	
+		}	
+
+	}
+</script>
+
+<script language="javascript">
+													window.name="parentWin";
+													// open new window
+													function openWin(file, name) {
+													popupWin = window.open(file, name, 'resizable,width=440,height=350,left=100,top=100');
+													// focus window (only for > Navigator 3.0)
+													if ( (navigator.appName != "Microsoft Internet Explorer") && 	(navigator.appVersion.substring(0,1) == "3") )
+													popupWin.focus();
+													}
+function openWin1(file, name) {
+													popupWin = window.open(file, name, 'resizable,width=620,height=320');
+													// focus window (only for > Navigator 3.0)
+													if ( (navigator.appName != "Microsoft Internet Explorer") && 	(navigator.appVersion.substring(0,1) == "3") )
+													popupWin.focus();
+													}
+													
+													
+
+
+
+</script>
+
+<script language="javascript">
+
+$(function()
+			{
+				// this initialises the demo scollpanes on the page.
+				$('#pane1').jScrollPane();
+				$('#pane2').jScrollPane({showArrows:true});
+				$('#pane3, #pane4').jScrollPane({scrollbarWidth:20, scrollbarMargin:10});
+                
+				// this allows you to click a link to add content to #pane4 and shows how to 
+				// reinitialise the scrollbars when you have done this.
+				$('#add-content').bind(
+					'click',
+					function()
+					{
+						$('#pane4').append($('<p></p>').html($('#intro').html())).jScrollPane({scrollbarWidth:20, scrollbarMargin:10});
+					}
+				);
+				// and this allows you to click the link to reduce the amount of content in
+				// #pane4 and reinitialise the scrollbars.
+				$('#remove-content').bind(
+					'click',
+					function()
+					{
+						$('#pane4').empty().append($('<p></p>').html($('#intro').html())).jScrollPane({scrollbarWidth:20, scrollbarMargin:10});
+					}
+				);
+			});
+</script>
+        <!-- END SCRIPT -->
 
 
 
@@ -44,12 +157,17 @@ $(function() {
 											<td width="494" height="89"><a href="http://www.mountainroseherbs.com"><img src="http://www.mountainroseherbs.com/images/facelift/logoghost.gif" alt="" height="89" width="366" border="0"></a></td>
 											<td align="right" valign="top" width="160" height="89"><br>
 							<!-----START SEARCH---->
-												<div id="search_box">
-  							<form name="frm_search" id="search_form" action="http://www.mountainroseherbs.com/search/search.php" method="get" onsubmit="submitForm()">
-      								  <input name="refine" value="y" type="hidden"> <input name="keywords" type="text" id="s" value="Search" class="swap_value">
-      								  <input value="search" type="image" src="http://www.mountainroseherbs.com/images/facelift/search_go.gif" width="33" height="17" id="go" alt="Search" title="Search">
-   							</form>
-							</div>
+  <div id="search_box">
+
+    <link rel="stylesheet" type="text/css" href="http://www.mountainroseherbs.com/search/yui-autocomplete.css">
+    <form id="search_form" name="frm_search" action="http://www.mountainroseherbs.com/search/search.php" method="get" onsubmit="submitForm()">
+
+      <input name="refine" value="y" type="hidden"> <input name="keywords" type="text" id="s" value="Search" class="swap_value" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search'}">
+      <input value="search" type="image" src="http://www.mountainroseherbs.com/images/facelift/search_go.gif" width="33" height="17" id="go" alt="Search" title="Search">
+
+    </form>
+
+  </div>
 							<!-----END SEARCH---->
 											</td>
 										</tr>
@@ -64,10 +182,16 @@ $(function() {
 							<tbody><tr height="100%">
 								<td valign="top" height="100%" width="139"><img src="http://www.mountainroseherbs.com/images/facelift/sidebar_nav_trans.gif" alt="" height="383" width="139" usemap="#sidebar_nav_trans" border="0"><map name="sidebar_nav_trans"><area shape="rect" coords="8,317,132,369" href="https://smarticon.geotrust.com/smarticonprofile?Referer=http://www.mountainroseherbs.com" alt="Secure Site Verified" target="_new"><area shape="rect" coords="9,254,133,306" href="http://www.mountainroseherbs.com/buyorgan.html" alt="Support Organic Agriculture"><area shape="rect" coords="8,195,132,247" href="http://www.mountainroseherbs.com/herbedu/herbedu.html" alt="Herbal Education"><area shape="rect" coords="8,131,132,183" href="http://www.mountainroseherbs.com/about/otoc.html" alt="Certified Organic"><area shape="rect" coords="8,67,132,119" href="http://www.mountainroseherbs.com/about/guiding.html" alt="Sustainability Projects"><area shape="rect" coords="8,5,132,57" href="http://www.mountainroseherbs.com/feature/featured_products.html" alt="New and Featured Products"></map>
 								<!-- AddThis Button BEGIN -->
-										<center><script type="text/javascript">addthis_pub  = 'mountainroseherbs'; addthis_brand = 'Mountain Rose Herbs'; addthis_options = 'favorites, email,  facebook, twitter, myspace, wordpress, stumbleupon, digg, delicious, more';</script>
-										<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://www.mountainroseherbs.com/images/index/addthis.gif" border="0" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script></center>
+                                <center><a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=mountainroseherbs" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://www.mountainroseherbs.com/images/index/addthis.gif" alt="Bookmark and Share" style="border:0"></a>
+                                 <script type="text/javascript">
+                                  var addthis_disable_flash = true;
+                                  addthis_pub  = 'mountainroseherbs';
+                                  addthis_brand = 'Mountain Rose Herbs';
+                                  addthis_options = 'favorites, email,  facebook, twitter, myspace, wordpress, stumbleupon, digg, delicious, more';
+                                 </script>
+                                 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=mountainroseherbs"></script></center>
                                 <!-- AddThis Button END -->
-								
+
 								</td>		<!--END NAVIGATION-->
 								<td rowspan="2" valign="top" width="561">
 								<!--CONTENT START-->
@@ -132,12 +256,12 @@ $(function() {
 							</tr>
 	   <!--START FOOTER-->					
 		   <tr height="220">
-								<td rowspan="2" valign="bottom" width="139" height="275"><img src="http://www.mountainroseherbs.com/images/facelift/sidebar_joinus_trans.gif" alt="" height="144" width="139" usemap="#sidebar_joinus_trans" border="0"><map name="sidebar_joinus_trans"><area shape="rect" coords="8,98,131,129" href="http://www.youtube.com/user/mountainroseherbs" alt="" target="_new"><area shape="rect" coords="8,55,131,86" href="http://www.myspace.com/mtroseherbs" alt="" target="_new"><area shape="rect" coords="8,8,131,42" href="http://www.facebook.com/pages/Mountain-Rose-Herbs/16352069036" alt="" target="_new"></map>
+								<td rowspan="2" valign="bottom" width="139" height="275"><img src="http://www.mountainroseherbs.com/images/facelift/sidebar_joinus.png" alt="" height="194" width="139" usemap="#sidebar_joinus_trans" border="0"><map name="sidebar_joinus_trans"><area title="Join us on Twitter!" shape="rect" coords="8,145,131,178" href="http://twitter.com/mtnroseherbs" alt="" target="_new"><area title="Join us on YouTube!" shape="rect" coords="8,103,131,136" href="http://www.youtube.com/user/mountainroseherbs" alt="" target="_new"><area title="Join us on Myspace!" shape="rect" coords="8,58,131,91" href="http://www.myspace.com/mtroseherbs" alt="" target="_new"><area title="Join us on Facebook" shape="rect" coords="8,14,131,47" href="http://www.facebook.com/pages/Mountain-Rose-Herbs/16352069036" alt="" target="_new"></map>
 									<img src="http://www.mountainroseherbs.com/images/facelift/sidebar_cert_trans.gif" alt="" height="120" width="139" usemap="#sidebar_cert_trans" border="0"><map name="sidebar_cert_trans"><area shape="rect" coords="20,58,62,105" href="http://www.mountainroseherbs.com/kosher/kosher.html" alt="Kosher Certified"><area shape="rect" coords="75,58,117,105" href="http://www.mountainroseherbs.com/fairtrade.html" alt="Fairtrade Info"><area shape="rect" coords="20,20,117,57" href="http://www.mountainroseherbs.com/about/otoc.html" alt="OTCO Organic Certified"></map></td>
 							</tr>
 							<tr height="65">
-								<td valign="bottom" width="561" height="55"><img src="http://www.mountainroseherbs.com/images/facelift/paperedge.jpg" <="" td="">
-							</td></tr>
+								<td valign="bottom"><img src="http://www.mountainroseherbs.com/images/facelift/agedpaper.jpg"></td>
+							</tr>
 						</tbody></table>
 					</td>
 				</tr>
@@ -150,7 +274,7 @@ $(function() {
 							<a id="footer" href="http://www.mountainroseherbs.com/affiliate/affiliate.html">
 							Affiliate Program</a><br>
 							<a id="footer" href="http://www.mountainroseherbs.com/employ.html">
-							
+
 								Employment</a><br>
 							<a id="footer" href="http://www.mountainroseherbs.com/privacy.html">
 								Privacy &amp; Security</a><br>
@@ -199,9 +323,21 @@ $(function() {
 						try {
 						var pageTracker = _gat._getTracker("UA-7030049-2");
 						pageTracker._trackPageview();
-						} catch(err) {}</script>					
-	   <!---END FOOTER--->
-		</div>
+						} catch(err) {}</script>
+
+
+
+
+
+</div>
+
+<div id="nxt-ac-container"></div>
+<script type="text/javascript"> var nxt_ac_words=new Array(); </script>
+<script type="text/javascript" src="http://www.mountainroseherbs.com/search/cache/ac_wordlist.js"></script>
+<script type="text/javascript" src="http://www.mountainroseherbs.com/search/yui-autocomplete-min.js"></script>
 	
 
-</body></html>
+
+					
+	   <!---END FOOTER--->
+		</body></html>
