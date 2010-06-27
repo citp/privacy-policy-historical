@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the foolzfun.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017012329id_/http%3A//www.foolzfun.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foolzfun.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627091216id_/http%3A//foolzfun.com/privacy.php) for the most accurate reproduction.*
 
-# FoolzFun - FoolzFun Privacy Policy
+# FoolzFun Privacy Policy
 
 **FoolzFun Privacy Policy**
 
-Wow, you are interested? We hope the following information can help answer any questions you might have. And if you still want to know more, please drop us a line at admin@foolzfun.com. 
+Wow, you are interested? We hope the following information can help answer any questions you might have. And if you still want to know more, please drop us a line at admin.foolzfun@gmail.com. 
 
 The following Privacy Statement discloses the information gathering and dissemination practices for FoolzFun.com's Network of Web sites (which we collectively refer to below as the "Site"). 
 
@@ -30,7 +30,7 @@ If you are a minor under 13, you are prohibited from submitting any personal inf
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from FoolzFun.com and our partners. We also provide instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin@foolzfun.com 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin.foolzfun@gmail.com 
 
 By using the Site, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time. 
 
