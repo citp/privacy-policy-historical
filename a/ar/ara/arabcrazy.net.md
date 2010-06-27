@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arabcrazy.net privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213032520id_/http%3A//www.arabcrazy.net/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabcrazy.net privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627154405id_/http%3A//www.arabcrazy.net/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy!
 
