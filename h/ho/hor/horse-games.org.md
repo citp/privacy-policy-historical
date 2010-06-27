@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horse-games.org privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216150449id_/http%3A//www.horse-games.org/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horse-games.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627082548id_/http%3A//www.horse-games.org/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Horse-games.org
 
@@ -33,7 +33,9 @@ This site contains links to other sites. We are not responsible for the privacy 
 Cookies and Web Beacons  
 Horse-Games.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, . 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include **Google Adsense** , 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html). 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.horse-games.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
@@ -42,3 +44,7 @@ www.horse-games.org has no access to or control over these cookies that are used
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.horse-games.oeg's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to **disable** cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
+Important notice to all **game developers** : almost all game hosted on our site are copyrighted by their respective owner . If you are owner to some of games and you won't it appear to our site just write an e-mail with your request and we will remove these games immediately .
+
+Important notice to all **photographers** : If anyone of you think that some picture published in horse-games.org (pictures of Jigsaws Puzzles etc.) is your property , and you won't appear in our site simply send us an e-mail at info@horse-games.org and we will remove that picture (game) within 24 hours . Horse-Games.org neither sold nor published pictures in high resolution and therefore they are not available to download from **horse-games.org** . All of the pictures which are in high resolution (higher than 800x600 pixels) are property of horse-games.org 
