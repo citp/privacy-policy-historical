@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationswithmoms.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215224334id_/http%3A//conversationswithmoms.com/tos-privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationswithmoms.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627091031id_/http%3A//conversationswithmoms.com/tos-privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Conversations With Moms
 
@@ -102,7 +102,7 @@ This Privacy Policy is used under license. The copyright is owned by Mining Gold
 
 **DISPUTES**
 
-As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy (”CLAIM”) of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
+As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy (“CLAIM”) of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
 
 In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator’s decision will final and binding with limited rights of appeal. 
 
