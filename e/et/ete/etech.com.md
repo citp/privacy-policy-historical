@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etech.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212174638id_/http%3A//www.etech.com/help/Privacy-Policy--5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etech.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627100233id_/http%3A//www.etech.com/help/Privacy-Policy--5) for the most accurate reproduction.*
 
 # Privacy Policy : eTech.com
 
@@ -6,6 +6,8 @@ The information we learn from customers helps us personalize and continually imp
 
 **Information Collection**  
 We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.   
+
+
 We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses eTech.com or advertisements and other content served by or on behalf of eTech.com on other Web sites. We might receive information about you from other sources and add it to our account information. 
 
 **Information Use**  
