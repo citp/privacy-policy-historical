@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231141214id_/http%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031258id_/http%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy/index.htm) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
+# Privacy Policy - Legal - Vodafone Australia
 
 Vodafone Australia, as part of the world's largest mobile phone company, is committed to adopting the highest standards to safeguard our customers' personal information.
 
-Vodafone, like other companies operating in Australia, is bound by the National Privacy Principles as set out in the Privacy Act 1988 (Cth) and the Privacy Amendment (Private Sector) Act 2000.
+Vodafone, like other companies operating in Australia, is bound by the National Privacy Principles as set out in the _Privacy Act 1988 (Cth)_ and the _Privacy Amendment (Private Sector) Act 2000_.
 
 Vodafone's collection, use and disclosure of personal information is set out below:
 
@@ -33,7 +30,7 @@ The personal information you provide Vodafone may be used for a number of purpos
 
 
 
-We may also use your personal information for purposes related to those described above which would be reasonably expected by you. For example, we may use your personal information to keep you informed about features of our telecommunications services or conducting analysis in order to provide better service to you. To opt-out of receiving certain Vodafone marketing materials, please **complete and submit this[form](https://web.archive.org/web/20091231141214id_/http%3A//www.vodafone.com.au/help/unsubscribe/index.htm)** or contact **1555 from your Vodafone mobile** or **1300 650 410**. Please note that Vodafone will still need to send you essential information about your account or changes to your service.
+We may also use your personal information for purposes related to those described above which would be reasonably expected by you. For example, we may use your personal information to keep you informed about features of our telecommunications services or conducting analysis in order to provide better service to you. To opt-out of receiving certain Vodafone marketing materials, please **complete and submit this[form](https://web.archive.org/web/20100627031258id_/http%3A//www.vodafone.com.au/help/unsubscribe/index.htm)** or contact **1555 from your Vodafone mobile** or **1300 650 410**. Please note that Vodafone will still need to send you essential information about your account or changes to your service.
 
 We will not use your information for purposes other than described above unless we have your consent or there are specified law enforcement or public health and safety reasons.
 
@@ -53,7 +50,7 @@ Unless you consent, we will not disclose your personal information to third part
 
 We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment protected from unauthorised access, modification or disclosure.
 
-How to access your Personal InformationUpon your request, Vodafone will take reasonable steps to let you know, generally, what sort of personal information we hold, for what purposes and how we collect, use and disclose that information.
+Vodafone will take reasonable steps to let you know, generally, what sort of personal information we hold, for what purposes and how we collect, use and disclose that information.
 
 Upon your request, Vodafone will provide access to your personal information we hold, except in certain prescribed circumstances, including emergency situations, specified business imperatives and law enforcement or other public interests.
 
