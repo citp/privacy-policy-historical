@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226181808id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627044227id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
 
 # COVERITLIVE.COM - Privacy Policy
 
@@ -52,10 +52,10 @@ Information collected by Altcaster Inc. through the use of cookies is maintained
 
  **  
 Access to Information  
-** Individuals may contact Altcaster Inc. to request that their personal information be updated or deleted by writing to [info@altcaster.com](mailto:info@altcaster.com). Altcaster Inc. reserves the right to confirm the identity of the requester.
+** Individuals may contact Altcaster Inc. to request that their personal information be updated or deleted by writing to [info@coveritlive.com](mailto:info@coveritlive.com). Altcaster Inc. reserves the right to confirm the identity of the requester.
 
  **Contact Us  
-** You may contact us if you feel that your personal information is used in a way inconsistent with this policy. Please email comments to [info@altcaster.com](mailto:info@altcaster.com)  
+** You may contact us if you feel that your personal information is used in a way inconsistent with this policy. Please email comments to [info@coveritlive.com](mailto:info@coveritlive.com)  
 You may also contact us via postal mail at: 
 
 Altcaster Inc.  
