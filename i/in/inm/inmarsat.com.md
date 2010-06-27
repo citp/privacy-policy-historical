@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmarsat.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226153250id_/http%3A//www.inmarsat.com/Privacy_policy.aspx%3Flanguage%3DEN%26textonly%3DFalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmarsat.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627115014id_/http%3A//www.inmarsat.com/Privacy_policy.aspx%3Flanguage%3DEN%26textonly%3DFalse) for the most accurate reproduction.*
 
 # Privacy policy - Inmarsat
 
