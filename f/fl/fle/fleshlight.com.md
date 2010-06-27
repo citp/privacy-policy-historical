@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleshlight.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215095434id_/http%3A//www.fleshlight.com/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshlight.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627085820id_/http%3A//www.fleshlight.com/faq-privacy-policy) for the most accurate reproduction.*
 
 # Fleshlight privacy Policy
 
@@ -32,6 +32,11 @@ Once you've placed an order at www.fleshlight.com, you will receive two emails i
 Cookies are very tiny text files that are stored on your computer when you visit certain web pages that record your preferences. We use cookies to keep track of what you have in your shopping cart and to learn more about how our visitors navigate our website. They cannot harm your computer and they do not contain any personal or private information. You must accept cookies to shop at www.Fleshlight.com. For customers concerned about maintaining the confidentiality of credit card purchases over the Internet, we recommend placing your order by phone: call toll-free (888) 804-4453.
   * **IMPORTANT NOTE:**  
 By registering with www.Fleshlight.com, purchasing products from www.Fleshlight.com or providing www.Fleshlight.com with any information, you represent to www.Fleshlight.com that you are 18 years of age or older and that any information you provide to us about a third party is for a third party that is 18 years of age or older.
+  * **FLESHLIGHT FORUM:**  
+All ideas and/or suggestions posted on the Fleshlight Forums become the sole intellectual property of ILF. At any time, ILF may use these suggestions and/or ideas posted by members of this forum without consent or compensation. 
+
+All Fleshlight Forum Members must be over the age of 18. 
+
 
 
 
