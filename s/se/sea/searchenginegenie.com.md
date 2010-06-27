@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginegenie.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622211257id_/http%3A//www.searchenginegenie.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginegenie.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627100139id_/http%3A//www.searchenginegenie.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy search engine optimization SEO marketing search engine genie
 
