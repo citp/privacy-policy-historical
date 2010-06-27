@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the newgamenetwork.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024907id_/http%3A//www.newgamenetwork.com/page/3/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgamenetwork.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031913id_/http%3A//www.newgamenetwork.com/page/3/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - New Game Network
 
 Privacy Statement  
-Last updated on Oct 31, 2009 17:32. Page viewed 142 times.  
+Last updated on May 23, 2010 20:53. Page viewed 547 times.  
 
 
 * * *
 
 We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used at **New Game Network**. We take extraordinary steps to use your personal information only in ways that are compatible with this Privacy Policy.
 
-_Information Collection_
+_Information Collection_  
 
 **New Game Network** is the sole owner of the information collected from our website. We do not, or will not sell, share, or rent this information to others in ways different from what is disclosed in our privacy statement below.
 
-_Cookies_
+_Cookies_  
 
 A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Advertisers connected to **New Game Network** at times require cookies to tract statistics about products and locations, but at no time are these linked to any personal identification. At this time, **New Game Network** uses cookies only for login convenience.
 
