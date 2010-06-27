@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the walkscore.com privacy policy that was archived on 2009-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227032745id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walkscore.com privacy policy that was archived on 2010-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627220644id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="description" content="Walk Score helps people find walkable places to live.  Walk Score calculates the walkability of any address.">
 
 <meta name="keywords" content="walk, walking, walkable, walkable neighborhoods, compact neighborhood, pedestrian friendly design, pedestrian-friendly design, pedestrian centric design, pedestrian-centric design, walking map, urban planning, urban planning walking, urban design, sidewalk design, street design, grid, walking grid">
 <title>Walk Score - Helping homebuyers, renters, and real estate agents find houses and apartments in great neighborhoods.</title>
-<link rel="stylesheet" type="text/css" href="http://www2.walkscore.com/css/main.css?v=2.58">
-<script src="http://www2.walkscore.com/js/util.js?v=2.58" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://www2.walkscore.com/css/main.css?v=2.722">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www2.walkscore.com/js/util.js?v=2.722"></script>
 
 <script type="text/javascript" charset="utf-8">
   var is_ssl = ("https:" == document.location.protocol);
@@ -23,17 +24,32 @@
   feedback_widget_options.style = "idea";
   var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 </script>
-</head>
+
+<!--[if IE]>
+	<style type="text/css">
+  	.address-query input[type="text"] {
+    	padding-top: 4px;
+			height: 21px;
+      margin-top: -1px;
+    }
+  </style>
+<![endif]--></head>
 <body>
-<div id="root-container">
+<div class="root-container">
   <div id="branding">
 	<a href="http://www.walkscore.com/"><h1><span>Walk Score</span></h1></a>
 	<h2>Find a Walkable Place to Live.</h2>
-  <a id="front-seat-logo" href="http://www.frontseat.org/" target="_blank"><img src="http://www2.walkscore.com/images/frontseat-logo.gif" width="126" height="25" border="0" style="position:relative;top:2px;"></a>
 </div>
-  <div id="navigation"><a href="/rankings/">Walkable Neighborhoods</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/walking-matters.shtml">Why Walk?</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/walkable-neighborhoods.shtml">Walkability</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/how-it-works.shtml">How It Works</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/how-it-doesnt-work.shtml">How It Doesn't Work</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/real-estate-services.shtml">Real Estate Services</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blog.walkscore.com/">Blog</a></div>
-  <div id="content-container">
-    <div id="address"><h3>Address:</h3><form name="address-query" method="get" action="/get-score.php"><input type="text" name="street" id="street"><input id="address-go" type="submit" name="go" value="Go"><span id="country-note"></span></form></div>    <div id="content-main" class="content-body">
+  <div id="navigation"><a href="/rankings/">Walkable Neighborhoods</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/walkable-neighborhoods.shtml">Walkability</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/how-it-works.shtml">How It Works</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/services/">Walk Score On Your Site</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blog.walkscore.com/">Blog</a></div>
+  <div class="content-container">
+    
+<div id="address-bar">
+<h3>Type an Address:</h3>
+<form name="address-query" class="address-query" method="get" action="/get-score.php" onsubmit="return addressSubmit(this, 'untracked page');">
+	<div class="text-sizer"><input type="text" name="street" id="street" value=""></div>
+  <input id="address-go" type="image" src="http://www2.walkscore.com/images/button-go.gif" name="go" value="Go" height="27" width="42" alt="Submit">
+</form>
+</div>    <div class="content-main content-body">
       <h1>Walk Score Privacy Policy </h1>
       <p> By using Walk Score, a Front Seat Management, LLC ("FSM") website, you permit the collection and use of your personal information as outlined below in our Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy. </p>
       <h2><strong> 1. Information We Collect </strong></h2>
@@ -55,7 +71,7 @@
       <h2><strong> 8. Terms and Modifications to this Privacy Statement </strong></h2>
       <p> By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. FSM may modify this Privacy Policy at any time. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy. </p>
       <h2><strong> 9. Contacting Walk Score </strong></h2>
-      <p> If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can <a href="contact-us.shtml">contact us</a>.</p>
+      <p> If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can <a href="contact-us.php">contact us</a>.</p>
       <p><em>Last modified 7/17/2008</em><br clear="all">
       </p>
     </div>
@@ -64,10 +80,10 @@
   
 <div id="footer">
   <div id="footer-links">
-    <p><a href="/about.shtml">About Walk Score</a> - <a href="/press-room.shtml">Press</a> - <a href="/advisory-board.shtml">Advisory Board</a> - <a href="/join-list.shtml">Join Our Mailing List</a> - <a href="/iphone">iPhone</a> - <a href="/transit-map.php">Transit Maps</a> - <a href="/privacy-policy.shtml">Privacy</a> - <a href="/terms-of-use.shtml">Terms</a> - <a href="/contact-us.shtml">Contact Us</a> - <a href="/faq.shtml">FAQ</a></p>
+    <p><a href="/about.shtml">About Walk Score</a> - <a href="/join-list.shtml" rel="nofollow">Mailing List</a> - <a href="/iphone">iPhone</a> - <a href="/transit-map.php">Transit Maps</a> - <a href="/privacy-policy.shtml" rel="nofollow">Privacy</a> - <a href="/terms-of-use.shtml" rel="nofollow">Terms</a></p>
   </div>
   <div id="footer-branding">
-    <p>© 2009 <a href="http://www.frontseat.org/" target="_blank">Front Seat</a></p>
+    <p>© 2010 <a href="http://www.frontseat.org/" target="_blank">Front Seat</a></p>
   </div>
 </div>
 <script type="text/javascript">
@@ -77,10 +93,18 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-87185-2");
-pageTracker._setDomainName(".walkscore.com");
 pageTracker._trackPageview();
-} catch(err) {}</script>
-</div>
+} catch(err) {}</script><!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-e0nESeHrFzS1c"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-e0nESeHrFzS1c.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag --></div>
 
 
 </body></html>
