@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626091217id_/http%3A//www.familylife.com/site/c.dnJHKLNnFoG/b.3842865/k.B11E/Privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628005938id_/http%3A//www.familylife.com/site/c.dnJHKLNnFoG/b.3842865/k.B11E/Privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy statement - FamilyLife.com
 
