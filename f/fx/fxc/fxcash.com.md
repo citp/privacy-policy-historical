@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcash.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230034948id_/http%3A//www.fxcash.com/bottom_pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcash.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627122635id_/http%3A//fxcash.com/bottom_pages/privacy.php) for the most accurate reproduction.*
 
 # Forex Affiliate Program
 
