@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224110421id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oc.edu privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627021349id_/http%3A//www.oc.edu/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,6 @@ We may place a cookie on your computer that will allow us to greet you by name w
 
 The latest copy of this privacy policy is always available at: <http://www.oc.edu/privacy.aspx>.
 
-Richard Miller is an Associate Professor of Electrical Engineering. He is a member of the Institute of Electrical and Electronics Engineers and is interested in electromagnetics, radar, antennas, and low observable technology. 
+"I love the arts and see them as important for Christians in seeing the beauty of God's creation," says Professor of Theater, Phil Reagan. He has several hobbies such as acting and directing for OC, Shakespeare in the Park, and elsewhere. He enjoys literature and traveling to foreign countries. 
 
-[Read More](http://blogs.oc.edu/ocpeople/individual/dr_richard_miller/)
+[Read More](http://blogs.oc.edu/ocpeople/individual/phil_reagan/)
