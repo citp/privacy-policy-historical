@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the findtherightschools.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419223232id_/http%3A//www.findtherightschools.com/articles.jsp%3Farticle%3D_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtherightschools.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627072007id_/http%3A//findtherightschools.com/pt2/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**www.findtherightschools.com** is owned and operated by QuinStreet, Inc.
-
-### Company Practices Regarding Your Privacy
+# Find the Right School - Earn a Highly Respected Degree From Premier Schools
 
 We at QuinStreet and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.
 
 QuinStreet has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of QuinStreet regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy does not apply to the practices of companies that QuinStreet does not own or control, or to people that QuinStreet does not employ.
 
-* * *
-
-## Information Collected by QuinStreet
+### Information Collected by QuinStreet
 
 ### Non-Personally Identifiable Consumer Information
 
@@ -28,7 +22,7 @@ In addition, at some of the QuinStreet web sites, we collect information that yo
 
 The non-personally identifiable information that QuinStreet collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
 
-If you elect to provide QuinStreet with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from QuinStreet and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other QuinStreet sales and marketing efforts. 
+If you elect to provide QuinStreet with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from QuinStreet and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other QuinStreet sales and marketing efforts.
 
 ### Sharing Information with Third Parties
 
@@ -36,25 +30,19 @@ All personally identifiable information you provide is maintained in confidence 
 
 Your non-personally identifiable data may be shared with third-party partners of QuinStreet on an anonymous basis.
 
-When you request information from QuinStreet or one or more of our clients, we may transfer that information within QuinStreet or route your information to our client(s), across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on their product or service that you requested. 
+When you request information from QuinStreet or one or more of our clients, we may transfer that information within QuinStreet or route your information to our client(s), across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on their product or service that you requested.
 
-We may also disclose information to a third party who provides substantially similar services as the original service about which you requested more information. In such situations, we will provide you with an opportunity to opt-out of such sharing. Please be aware that QuinStreet is very careful in selecting companies with whom it does business. 
+We may also disclose information to a third party who provides substantially similar services as the original service about which you requested more information. In such situations, we will provide you with an opportunity to opt-out of such sharing. Please be aware that QuinStreet is very careful in selecting companies with whom it does business.
 
 In addition to the above situations where your information may be shared with others, there is also the possibility that QuinStreet, or part(s) of the company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information.
 
 Finally, QuinStreet may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials.
 
-### Our Privacy Policy and Outside Links
-
-This Privacy Policy only applies to this QuinStreet Web site. Once you're outside of this QuinStreet Web site, any information you submit is no longer in our control or governed by this privacy policy. You should be sure that you review the privacy policy of any site to which you link or redirect your browser and should not assume that any such Web site is operated by QuinStreet or governed by this privacy policy.
-
-### Security 
+### Security
 
 Wherever your personally identifiable information may be held within QuinStreet or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while QuinStreet will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure.
 
-* * *
-
-## Choice
+### Choice
 
 ### Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out
 
@@ -64,13 +52,13 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 
 ### Personally Identifiable Consumer Information - Opting-Out
 
-You may choose whether or not to provide personally identifiable information to QuinStreet. If you choose to provide such information to QuinStreet, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by [clicking here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=86782) and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
+You may choose whether or not to provide personally identifiable information to QuinStreet. If you choose to provide such information to QuinStreet, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by [clicking here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
 
-### Access/Accuracy 
+### Access/Accuracy
 
 To the extent that you do provide us with personally identifiable information, QuinStreet wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com) and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.
 
-### Children's Privacy 
+### Children's Privacy
 
 In compliance with the Children's Online Privacy Protection Act (COPPA), QuinStreet.com is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age.
 
@@ -80,26 +68,25 @@ Some of QuinStreet's web sites offer you the opportunity to easily notify a frie
 
 Your friend may contact us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com) to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact.
 
-### Commitment 
+### Commitment
 
-Protecting your privacy online is an evolving area, and QuinStreet's web sites are constantly changing to meet these demands. If you have any comments or questions regarding our Online Privacy Policy, please contact us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.
+Protecting your privacy online is an evolving area, and QuinStreet's web sites are constantly changing to meet these demands.
 
-### Your Consent 
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.
+
+### Your Consent
 
 By using this web site, you consent to the terms of our Online Privacy Policy and to QuinStreet's processing of personally identifiable information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy.
 
 ### Contacting Us
 
 For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com) or you can send correspondence to the following address:
-
-* * *
-
-> Privacy   
->  QuinStreet, Inc.  
->  1051 E. Hillsdale Blvd  
->  Foster City, CA 94404  
->  (650) 578-7700
-
-* * *
+    
+    
+    Privacy   
+    	QuinStreet, Inc.   
+    	1051 E. Hillsdale Blvd   
+    	Foster City, CA 94404   
+    	(650) 578-7700
 
 Thank you for visiting our web site. We hope you have a pleasant experience while you are here.
