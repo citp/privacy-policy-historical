@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatdaygames.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214111831id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdaygames.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627235746id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Help - Play Free Online Games on Great Day Games
 
@@ -7,9 +7,7 @@ Privacy Policy
 **Your privacy matters to us.**   
 As individuals and as a company, GreatDayGames.com ("we" or "us") owned by Arkadium, Inc. is as concerned about privacy protection on GreatDayGames.com (the "Site") as you are. That's why we want you to know exactly how we collect, use, and safeguard your personal information. The statement that follows explains our privacy protection practices in detail. 
 
-We welcome your feedback on our privacy protection practices. If you feel that this company is not abiding by its posted privacy policy, contact our Customer Support department by emailing us at: 
-
-**Support@GreatDayGames.com**
+We welcome your feedback on our privacy protection practices. If you feel that this company is not abiding by its posted privacy policy, contact our Customer Support department by emailing us at: [Contact us](http://www.greatdaygames.com/HelpPages/emailUs.aspx)
 
 **The types of information we collect**   
 GreatDayGames.com collects the following types of information: 
