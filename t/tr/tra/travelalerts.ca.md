@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelalerts.ca privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024623id_/http%3A//www.travelalerts.ca/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1517%26Itemid%3D185) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelalerts.ca privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031837id_/http%3A//www.travelalerts.ca/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1517%26Itemid%3D185) for the most accurate reproduction.*
 
 # Cheap Flights & Travel Deals - Privacy Policy
 
@@ -61,3 +61,6 @@ Travelalerts.ca contains many links to other websites. Please note that we are n
 ## Do you have any questions?
 
 If you have any questions about this Privacy Policy, please contact us via email at administrator @ travelalerts.ca.
+
+|  [](http://www.addthis.com/bookmark.php?v=20) |   
+---|---
