@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024029id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031606id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@
 [Ohm's Law](http://www.the12volt.com/ohm/ohmslaw.asp "Formulas - Pie Chart - Calculators")  
 [Relays](http://www.the12volt.com/relays/relays.asp "Relays, Wiring & Diagrams")  
 [Resistors](http://www.the12volt.com/resistors/resistors.asp "Color Codes - Calculator")  
-[Tools and Equipment](http://www.the12volt.com/caraudio/tools.asp "Tools for the Shop & Installer")  
+[Tools and Equipment](http://www.the12volt.com/tools/tools.asp "Tools for the Shop & Installer")  
 [Glossary of Terms](http://www.the12volt.com/glossary/glossaryofterms/A.html "Mobile Electronics Glossary")  
 Car Audio & Mobile Video  
 [Introduction](http://www.the12volt.com/caraudio/caraudio.asp "Car Audio Introduction")  
@@ -19,10 +19,11 @@ Car Audio & Mobile Video
 [Port Length Calculators](http://www.the12volt.com/caraudio/boxcalcs.asp "Port Length Calculator")  
 [Power & Ground Wire Sizes](http://www.the12volt.com/info/recwirsz.asp "Power and Ground Sizes")  
 [Subwoofer Box Calculators](http://www.the12volt.com/caraudio/boxcalcs.asp "Subwoofer Enclosure Calculators")  
-[Subwoofer Enclosure Types](http://www.the12volt.com/caraudio/boxes.asp "Subwoofer Enclosures")  
+[Subwoofer Enclosure Types](http://www.the12volt.com/caraudio/boxes.asp "Subwoofer Enclosures")  
 [Subwoofer Wiring Options](http://www.the12volt.com/caraudio/woofer_configurations.asp "Subwoofer Wiring Wizard")  
 [Thiele - Small Parameters](http://www.the12volt.com/caraudio/thiele.asp "Thiele - Small Paramaters")  
 [Miscellaneous](http://www.the12volt.com/info/diagrams.asp#cs "Miscellaneous Car Audio Applications")  
+[Relay Diagrams](http://www.the12volt.com/relays/relaydiagrams.asp "Relay Diagrams - Quick Reference - Dozens of diagrams at your fingertips!")  
 [The Application Guide](http://www.the12volt.com/installbay/appguide.asp "the12volt's Application Guide - Dozens of application guides in one!")  
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Car Security & Convenience  
@@ -35,7 +36,8 @@ Car Security & Convenience
 [Light Flash](http://www.the12volt.com/relays/page4.asp "Light Flash")  
 [Power Door Locks](http://www.the12volt.com/doorlocks/doorlocks.asp "Door Locks, Switch Types & Diagrams")  
 [Starter Interrupts](http://www.the12volt.com/relays/page2.asp "Starter Interrupts")  
-[Insurance](http://www.carstereoinsurance.com/index.asp "Comprehensive Car Insurance for Mobile Electronics")  
+[Insurance for Car Stereos](http://www.the12volt.com/insurance/insurance.asp "Insurance for Car Stereos and Accessories")  
+[Relay Diagrams](http://www.the12volt.com/relays/relaydiagrams.asp "Relay Diagrams - Quick Reference - Dozens of diagrams at your fingertips!")  
 [The Application Guide](http://www.the12volt.com/installbay/appguide.asp "the12volt's Application Guide - Dozens of application guides in one!")  
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Cruise Controls  
@@ -76,9 +78,10 @@ General Information
 [Find an Installer](http://www.the12volt.com/installbay/findinstaller.asp "Installer Database - Search and Add Installer Listings")  
 [Forums - Q&A](http://www.the12volt.com/installbay "It´s Free and Easy to Join! Post Questions! - Get Answers!")  
 [Glossary of Terms](http://www.the12volt.com/glossary/glossaryofterms/A.html "Mobile Electronics Glossary")  
-[Insurance](http://www.carstereoinsurance.com/index.asp "Comprehensive Car Insurance for Mobile Electronics")  
+[Insurance for Car Stereos](http://www.the12volt.com/insurance/insurance.asp "Insurance for Car Stereos and Accessories")  
 [Links](http://www.the12volt.com/links/links.asp "Includes Car Audio, Security, & Cruise Control Manufacturers, Web Development Resources, & More!")  
 [Mobile Tech News](http://www.the12volt.com/news/news.asp "Mobile Technology News")  
+[Relay Diagrams](http://www.the12volt.com/relays/relaydiagrams.asp "Relay Diagrams - Quick Reference - Dozens of diagrams at your fingertips!")  
 [The Application Guide](http://www.the12volt.com/installbay/appguide.asp "the12volt's Application Guide - Dozens of application guides in one!")  
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
 Et Cetera  
@@ -86,6 +89,8 @@ Et Cetera
 [Hurricane Katrina](http://www.the12volt.com/index.asp "Hurricane Katrina")  
 [Link to Us](http://www.the12volt.com/links/linktous.asp "Link to the12volt.com")  
 [Support Us](http://www.the12volt.com/installbay/donations.asp "Support the12volt.com. Make a donation and link to us. Help support the free exchange of information for mobile electronics installers and enthusiasts.")  
+  
+  
   
   
   
@@ -144,6 +149,14 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
   
   
 |    
-|  Send [this page](mailto:?SUBJECT=Take%20a%20look%20at%20this%20web%20page%20I%20found%2C%20Privacy%20Policy&BODY=You%20can%20see%20it%20here%3A%20https%3A//web.archive.org/web/20091227024029id_/http%253A//www.the12volt.com/privacy/privacy.asp "Send this page to a friend") to a friend.  
+
+
+| Search the12volt.com  
 ---  
-Saturday, December 26, 2009 | • | Copyright © 1999-2009 the12volt.com | • | [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") | • | [Privacy Policy](http://www.the12volt.com/privacy/privacy.asp) | • | [Advertising](http://www.the12volt.com/adv/default.asp)
+  
+Custom Search   
+  
+  
+Send [this page](mailto:?SUBJECT=Take%20a%20look%20at%20this%20web%20page%20I%20found%2C%20Privacy%20Policy&BODY=You%20can%20see%20it%20here%3A%20https%3A//web.archive.org/web/20100627031606id_/http%253A//www.the12volt.com/privacy/privacy.asp "Send this page to a friend") to a friend.  
+---  
+Saturday, June 26, 2010 | • | Copyright © 1999-2010 the12volt.com | • | [Donate to the12volt.com](https://www.paypal.com/xclick/business=the12volt%40the12volt.com&item_name=Donate+to+the12volt.com&no_note=1&tax=0&currency_code=USD "Make a donation to the12volt.com") | • | [Privacy Policy](http://www.the12volt.com/privacy/privacy.asp) | • | [Advertising](http://www.the12volt.com/adv/default.asp)
