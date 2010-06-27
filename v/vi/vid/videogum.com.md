@@ -1,61 +1,79 @@
-> *The following text is extracted and transformed from the videogum.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627104246id_/http%3A//videogum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogum.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031940id_/http%3A//videogum.com/privacy) for the most accurate reproduction.*
 
-# Videogum: Privacy Policy
+# Privacy Policy | Videogum
 
-## This Is Our Privacy Notice
+**PRIVACY POLICY AND CONSUMER EDUCATION**
 
-Stereogum and Videogum hate spam, and we're not going to spam you.
+**PLEASE READ THIS CAREFULLY (** last modified: 2/22/2010 **)**
 
-So, you want to know what we'll do with your personal information when you visit Stereogum.com or subscribe to something? Stereogum will never, ever, ever give your email address to anyone else. We do ask a couple questions about some generic demographics, but none of that will ever be shared on an individual level. This means we might look at the breakdown of cities and states on our list and say, "Wow, time to start a dedicated email for Scio," but we'll never tell anyone "yourname@gmail.com lives here, and is this old, and so forth and so on." Ever. If we share any of the information we collect with any third party, it'll be aggregate information with no personally identifiable component, unless you're the only person in your zip code, which even our uncredentialed lawyers agree is so preposterous an idea that we can include it here without worrying that we'll be sued one day.
+The site which you linked from (the “Site”) provides a photo and video hosting/blogging service to you (the “Service(s)”), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto. 
 
-We also collect some information on our web traffic, but that's only ever aggregate, too. We use some of this information (say, what version of Safari most of our Safari-using browsers run, and what your screen resolution is) to design the site. Some of this information, such as what search terms are used by people discovering Stereogum for the first time, is used primarily to tempt us into adding a couple choice words in any post involving sexy famous people. In fact, just saying "sexy famous people" in this privacy notice will vault it into our top ten landing pages.
+### THE PERSONAL INFORMATION WE COLLECT
 
-If you ever want to know what information we do have about you, contact us at [privacy@stereogum.com](mailto:privacy@stereogum.com) to find out, and we'll be happy to correct or modify it for you. This information is kept on secure servers.
+It is our policy to respect the privacy of the people who use the Services (each a “User,” collectively the “Users”). Therefore, we will not disclose to any unauthorized third party a User’s name or contact information. We will also not monitor, edit or disclose the contents of a User’s information unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on us; (2) protect and defend our rights or property; (3) act under exigent circumstances to protect the personal safety of Users or the public; (4) to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable; or (5) fix or debug problems with our servers/software/service.
 
-We do set a few cookies- that little "remember me" option on our comment form does that, as does our traffic program. There's nothing dangerous in there, and it's just text. Some of our advertisers may also set cookies.
+When you register to become a member of the Site and in the course of using the Site, you may voluntarily submit personally identifiable information that can be used to contact or identify you and administer your account (“Personal Information”). Personal information may include, but is not limited to, your name, phone number and e-mail address. The Site may also collect Personal Information from you if you choose to opt-in to participate in sweepstakes, surveys, contests or competitions. When you register with the Site, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and photo, are displayed to people you have specified in your privacy settings. Profile information you submit to the Site, and make public via your privacy settings, will also be available to other users via searching our Site, and may be available to third party search engines. This is primarily so your friends can find you and the content you create and store on the Site. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.
 
-Legally, we're also required to remind you that just because we link to another site, we don't endorse anything that appears there, nor are we responsible for it. Yes, everyone knows this, but no one wants some thirteen-year-old's uptight lawyer grandpa bossing us around just because we didn't include this sort of language.
+As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service (“Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.
 
-We might have to change this notice at some point, especially because it wasn't made by shaking a floor of lawyers over a stack of paper, but if we do, we'll notify newsletter subscribers (if it pertains to them) and show you what we changed.
+### HOW WE USE PERSONAL INFORMATION
 
-Get in touch at [privacy@stereogum.com](mailto:privacy@stereogum.com).
+Personal Information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and your account; (iii) to enable users to enjoy and easily navigate the Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time.
 
-[](http://videogum.com/archives/the-hunt-for-the-worst-movie-o/ "The Hunt For The Worst Movie Of All Time")
+**PRIVACY POLICY AND CONSUMER EDUCATION**
 
-After watching Death Sentence, a terrible movie starring Kevin Bacon as a father in search of vigilante justice directed by Saw's James Wan, Gabe embarked on The Hunt For The Worst Movie of All Time. This is his sad journey.
+**Children’s Privacy**
 
-### [The Hunt For The Worst Movie Of All Time: _Margot At The Wedding_](http://videogum.com/archives/the-hunt-for-the-worst-movie-of-all-time/the-hunt-for-the-worst-movie-o-61_075272.html "The Hunt For The Worst Movie Of All Time: Margot At The Wedding")
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [privacy@buzz-media.com](mailto:privacy@buzz-media.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
-Oh, white people. Will we ever tire of complaining about the aches and pains of our petty bourgeois existence? Boo hoo hoo, the line at the iPhone store was too long. Boo hoo hoo, the barista got the ratio of...
+We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
 
-[MORE »](http://videogum.com/archives/the-hunt-for-the-worst-movie-of-all-time/the-hunt-for-the-worst-movie-o-61_075272.html "continue reading 'The Hunt For The Worst Movie Of All Time: Margot At The Wedding'")
+**Consumer Education Related to Social Networking**
 
-[](http://videogum.com/archives/double-dog/ "Double Dog")
+Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
 
-Blogging about TV and movies isn't all fun and videogames. Every week, Lindsay or Gabe will be presented with a physical or mental challenge that tests their bravery,patience, and taste.
+<http://onguardonline.gov/socialnetworking.html>  
+<http://onguardonline.gov/socialnetworking_youth.html>
 
-### [Double Dog: I Took A TV Bus Tour Alone In A "Just Jack" Tshirt](http://videogum.com/archives/double-dog/double-dog-i-took-a-tv-locatio_068881.html "Double Dog: I Took A TV Bus Tour Alone In A "Just Jack" Tshirt")
+**OTHER INFORMATION/LOGGING AND COOKIES**
 
-**The Challenge:** I had to go on a 3.5 hour bus tour of totally random TV and film locations in New York City. Alone, and wearing a specific ridiculous tshirt. And I had to find someone to take my picture...
+Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
 
-[MORE »](http://videogum.com/archives/double-dog/double-dog-i-took-a-tv-locatio_068881.html "continue reading 'Double Dog: I Took A TV Bus Tour Alone In A "Just Jack" Tshirt'")
+We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-[](http://videogum.com/archives/the-videogum-movie-club/ "The Videogum Movie Club")
+### INFORMATION SHARING AND DISCLOSURE
 
-Let's all go to the movies, and let's all see the same movie, and let's discuss it here.
+Members. In addition to your username, any comments or submissions that you post to the Site will be publicly available. You post and share your Personal Information and content on the Site at your own risk. While we go to great lengths to create a safe and enjoyable experience on the Site, we cannot control the actions of other users with whom you may choose to share your content and/or profile information. In addition, we cannot anticipate other users’ ability to circumvent privacy settings. You understand that, even after removal of your Personal Information and content from the Site, copies of your information may remain viewable in cached or archived Web pages or on the local computers of users who may have downloaded or stored your information.
 
-### [The Videogum Movie Club: _Year One_](http://videogum.com/archives/the-videogum-movie-club/videogum-movie-club-year-one_075242.html "The Videogum Movie Club: Year One")
+Even with all the appropriate precautions we take to protect your information, we recommend you refrain from sending private information or Personal Information by e-mail, chat, or other messaging services.
 
-Did you see Year One, the Biblical-times movie starring Jack Black and Michael Cera, this weekend? If so, this is the place to talk about it. Especially because I don't know how it ends because I walked out of the...
+Aggregate Information and Non-Identifying Information. We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services.
 
-[MORE »](http://videogum.com/archives/the-videogum-movie-club/videogum-movie-club-year-one_075242.html "continue reading 'The Videogum Movie Club: Year One'")
+Service Providers. We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-[](http://videogum.com/archives/you-can-make-it-up/ "You Can Make It Up")
+Business Transfers. We may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-Gabe loves fan fiction. You Can Make It Up features his own personal alternate adventures starring some of our favorite characters.
+### Invite-A-Friend
 
-### [You Can Make It Up: A Little Boy Tries To Give Cameron Diaz A Yellow Rose](http://videogum.com/archives/you-can-make-it-up/you-can-make-it-up-a-little-bo_076252.html "You Can Make It Up: A Little Boy Tries To Give Cameron Diaz A Yellow Rose")
+If you choose to invite your friends to use the Site, using our invitation options, we will ask for information such as an e-mail address. We will automatically send your friend(s) a one-time e-mail invitation to visit the Site. We store this information to send this one-time invitation, and to track the success of this referral feature.
 
-The little boy asked his mother if she would take him downtown where they were filming a scene for Cameron Diaz's new movie, The Cougar Trap, and she told him that she would if he finished his homework, and wouldn't...
+### CHANGING OR DELETING YOUR INFORMATION
 
-[MORE »](http://videogum.com/archives/you-can-make-it-up/you-can-make-it-up-a-little-bo_076252.html "continue reading 'You Can Make It Up: A Little Boy Tries To Give Cameron Diaz A Yellow Rose'")
+All members may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+
+### SECURITY
+
+We are concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access.
+
+### INTERNATIONAL TRANSFER
+
+Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+### LINKS TO OTHER SITES
+
+The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. ****
+
+**VIOLATIONS AND COMMENTS**
+
+Please report any violations of this Privacy Policy or make any comments to  
+[**contact@buzz-media.com**](mailto:contact@buzz-media.com). You may also contact us by mail to Buzz Media, 6464 W. Sunset Blvd., #650, Hollywood, California 90028.
