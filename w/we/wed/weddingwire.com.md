@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the weddingwire.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506014120id_/http%3A//www.weddingwire.com/shared/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingwire.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627094543id_/http%3A//www.weddingwire.com/shared/PrivacyPolicy) for the most accurate reproduction.*
 
-# WeddingWire - Privacy Policy - Wedding Venues, Wedding Cakes, Dresses, Invitations, Planning, Advice for Perfect Weddings!
+# Wedding Venues, Wedding Cakes, Dresses, Invitations, Planning, Advice for Perfect Weddings! | WeddingWire - Privacy Policy
 
-Updated:  March 13, 2009
+WeddingWire Privacy Policy
+
+Updated:  July 1, 2009
+
+Your Privacy Rights 
 
 **PRIVACY POLICY**  
 WeddingWire, Inc. ("Company", "us" or "we") respects the privacy of the visitors to its Web site, WeddingWire.com ("Site"). This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information, Automatically Gathered Information" and "Anonymous Information" (each defined below) you submit to us or which we gather when you visit our Site. This Privacy Policy is hereby incorporated in our Terms of Use Agreement, and by registering for a User Account on the Site you accept the terms of this Privacy Policy. This Privacy Policy is effective as of March 13, 2009. 
@@ -12,7 +16,7 @@ This Privacy Policy applies to ALL users, including those just visiting this Sit
 "Personal Information" is information about you that is personally identifiable to you, like your name, address, email address or phone number, as well as other non-public information that is associated with the foregoing. "Automatically Gathered Information" is information we collect as you visit our site. See "Automatically Gathered Information" below for more information. "Anonymous Information" means information that is not associated with or linked to your Personal Information. See "Anonymous Information" below for more information. 
 
 **CONSENT**  
-**By using the Site, you agree to the terms of this Privacy Policy, and you expressly consent to the processing of your Personal Information according to this Privacy Policy by us or by third parties with whom we have a relationship. Your Personal Information may be processed by WeddingWire in the country where it was collected, as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.**
+**By using the Site, you agree to the terms of this Privacy Policy, and you expressly consent to the processing of your Personal Information according to this Privacy Policy by us or by third parties with whom we have a relationship. Your Personal Information may be processed by WeddingWire in the country where it was collected, as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country. In addition, in the event you contact WeddingWire via telephone, you understand, acknowledge and agree that such phone conversations may be recorded.**
 
 **NOTIFICATION OF CHANGES**  
 **We may update this Privacy Policy from time to time as our Services and Site change and expand. If we make changes to this Privacy Policy, we will post notice that this Privacy Policy has changed in the MyHome and MyDashboard (Vendors) area of the Site. Unless otherwise provided, the revised terms will take effect when they are posted. Once any changes that we make to this Privacy Policy become effective, your continued use of the Site after such time will signify your acceptance of the new terms.**
@@ -61,7 +65,7 @@ We may send you email communications including information that we think may be 
 **Co-Branded or Partnered Services**  
 WeddingWire may enter into co-branding or partnering relationships with third-party Web sites and companies to provide products and Services to our Users or to such third parties' users. WeddingWire may share your Personal Information, including User ID and password, with certain co-branded third-party service or product providers as required to provide a specific product or service that you request from a co-branded page or co-branded site. However, these third-party partners may not use this Personal Information for any reason other than to provide the service or product that the User has explicitly signed up for. 
 
-If you join WeddingWire through a co-branded or partnered site (e.g. on a co-branded Registration page), it is WeddingWire’s general policy not to share anything other than summarized or aggregated data with the partner; however, any Personal Information you provide on the co-branded Site may also be received by the co-brand partner that operates the co-branded site and could be stored and used by the co-brand partner according to its privacy policy. Please take the time to review these third-party privacy policies. WeddingWire is not liable to you for any use of your Personal Information by a co-brand partner. 
+If you join WeddingWire through a co-branded or partnered site (e.g. on a co-branded Registration page), it is WeddingWire's general policy not to share anything other than summarized or aggregated data with the partner; however, any Personal Information you provide on the co-branded Site may also be received by the co-brand partner that operates the co-branded site and could be stored and used by the co-brand partner according to its privacy policy. Please take the time to review these third-party privacy policies. WeddingWire is not liable to you for any use of your Personal Information by a co-brand partner. 
 
 **WeddingWire's Contractors**  
 To the extent necessary to provide you with the Services on the Site, we may provide your Personal Information to third party contractors who work on behalf of or with WeddingWire to provide you with such Services, to help us communicate with you or to maintain the Site. However, these contractors do not have any independent right to share your Personal Information. 
@@ -73,7 +77,7 @@ WeddingWire cooperates with all law enforcement inquiries, as well as other thir
 Although we currently do not have a parent company, any subsidiaries, joint ventures or other companies under a common control (collectively, "Affiliates"), we may in the future. We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. 
 
 **Acquisition**  
-If our company or our assets related to the Site are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
+If our company or our assets related to the Site are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. This Privacy Policy inures to the benefit of successors and assigns of WeddingWire. 
 
 **Anonymous Information**  
 We may create Anonymous Information records from Personal Information by excluding information (such as names) that makes the information personally identifiable to you. We may use this Anonymous Information to analyze inquiry, request and usage patterns so that we may enhance Services and the Site. We reserve the right to use and disclose Anonymous Information to third parties in our discretion. "Anonymous Information" means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. 
@@ -87,7 +91,7 @@ We will use commercially reasonable methods to keep Personal Information securel
 **THIS SITE CONTAINS LINKS TO OTHER SITES**  
 WeddingWire is not responsible for the privacy practices or the content of any other Web Sites to which the Site links or which link to the Site. When you click on a link you may be taken to a location on the Internet that is not part of the WeddingWire Site. To check what Internet location you are on, note the URL at the top and/or bottom of your browser. We encourage you to read the posted privacy statement of that Web Site whenever interacting with any Web Site. 
 
-**REGARDING CHILDRENS**  
+**REGARDING CHILDREN**  
 WeddingWire Web sites are designed and intended for use by adults. We do not intentionally gather Personal Information about Visitors who are under the age of 18. 
 
 **TERMINATING YOUR MEMBERSHIP/ACCOUNT**  
