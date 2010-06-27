@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2009-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091012084638id_/http%3A//www.worldwildlife.org/item6628.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627101559id_/http%3A//www.worldwildlife.org/item6628.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ From time to time, we may request information from you via online polls, surveys
  **Conservation Action Network**  
 WWF's Conservation Action Network (CAN) collects and uses personally identifiable information in connection with grassroots outreach and advocacy efforts. In order to use CAN's tools to send emails, faxes, or letters to decision makers, we require a user to provide a name, mailing address, and email address. Participation in CAN is entirely voluntary. Information collected is used for the promotion of WWF and CAN legislative goals, grassroots outreach and policy advocacy.
 
- **Cookies**   
+ **Cookies**  
 A cookie is a piece of data placed on your hard drive when you visit our site. We may use cookies to help us recognize you when you come back to our site. We may also use cookies to help us monitor traffic on our site. This information may be aggregated in an anonymous manner. You can select to have our web site remember your email address and password on your specific computer when you login. This information will be stored in a cookie on your hard drive that will only be used when you return to the site to login again.
 
 We may from time to time link cookie information with personally identifiable information collected from the Conservation Action Network. This will help us better tailor our site and provide you with offers that we think may be of interest to you.
