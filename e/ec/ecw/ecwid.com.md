@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ecwid.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219034742id_/http%3A//www.ecwid.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecwid.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627075433id_/http%3A//www.ecwid.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ecwid: E-Commerce Widgets
 
-This Privacy Policy describes the types of information Creative Development LLC (”we”, “us”) collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use our Products or Services (”Products or Services”) and do not access the our websites located at [http://www.ecwid.com](http://www.ecwid.com/) (”Site”, “Sites”).
+This Privacy Policy describes the types of information Creative Development LLC (“we”, “us”) collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use our Products or Services (“Products or Services”) and do not access the our websites located at [http://www.ecwid.com](http://www.ecwid.com/) (“Site”, “Sites”).
 
 ## Information We Collect
 
