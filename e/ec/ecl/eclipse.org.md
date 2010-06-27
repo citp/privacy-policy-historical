@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclipse.org privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214172848id_/http%3A//www.eclipse.org/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclipse.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627121134id_/http%3A//www.eclipse.org/legal/privacy.php) for the most accurate reproduction.*
 
 # Eclipse.org Privacy Policy
 
@@ -24,7 +24,7 @@ Also, when personal data is collected from you in connection with a transaction 
 
 Some Eclipse.org pages use cookies to better serve you when you return to the site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some areas of some sites may not function properly.
 
-To the extent Contributions and other Material (as defined in the Terms of Use) contain personal information about you, including, but not limited to, you name, We have the right to provide that information to others pursuant to the Term of Use.
+To the extent Contributions and other Material (as defined in the Terms of Use) contain personal information about you, including, but not limited to, your name, we have the right to provide that information to others pursuant to the Term of Use.
 
 **Business Relationships**
 
