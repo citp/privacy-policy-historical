@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usq.edu.au privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227030106id_/https%3A//www.usq.edu.au/aboutsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usq.edu.au privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627032601id_/http%3A//www.usq.edu.au/aboutsite/privacy) for the most accurate reproduction.*
 
 # Privacy
 
