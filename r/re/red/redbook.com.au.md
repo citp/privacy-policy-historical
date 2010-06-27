@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbook.com.au privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227062133id_/http%3A//www.redbook.com.au/DesktopDefault.aspx%3FTabID%3D2607700) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbook.com.au privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627114417id_/http%3A//www.redbook.com.au/DesktopDefault.aspx%3FTabID%3D2607700) for the most accurate reproduction.*
 
 # Redbook
 
