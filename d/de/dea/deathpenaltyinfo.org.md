@@ -1,7 +1,17 @@
-> *The following text is extracted and transformed from the deathpenaltyinfo.org privacy policy that was archived on 2008-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080906021045id_/http%3A//www.deathpenaltyinfo.org/article.php%3Fscid%3D2%26did%3D576) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deathpenaltyinfo.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627114636id_/http%3A//www.deathpenaltyinfo.org/article.php%3Fscid%3D2%26did%3D576) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Death Penalty Information Center
+
+Posted: March 19, 2003 
+
+in 
+
+  * [Contact DPIC](https://web.archive.org/taxonomy/term/13)
+
+
 
 The Death Penalty Information Center does not collect information on individual users of its Web site. On occasion, we have checked with other services that record the number and general types of visitors to our site. We do not obtain any personal information about users, nor do we give permission to others to obtain or share such information. 
 
-* * *
+  * [](http://www.addthis.com/bookmark.php)
+
+
