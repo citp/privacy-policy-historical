@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the montrealgazette.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216155532id_/http%3A//www.canwestglobal.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montrealgazette.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627235040id_/http%3A//www.canwestglobal.com/privacy.asp) for the most accurate reproduction.*
 
 # Canwest - Privacy Statement
 
   
 
 
-[Version français](https://web.archive.org/web/20091216155532id_/http%3A//www.canwestglobal.com/privacy_fr.asp)
+[Version français](https://web.archive.org/web/20100627235040id_/http%3A//www.canwestglobal.com/privacy_fr.asp)
 
 **OUR COMMITMENT TO PRIVACY**  
 Canwest Global Communications Corp. and its subsidiaries (each, a "Canwest Company") are committed to controlling the collection, use and disclosure of the personal information provided by its customers. This Privacy Statement is a simplified version of the Canwest Privacy Policy adopted by each of the Canwest Companies to ensure the accuracy, confidentiality and integrity of your personal information. The Canwest Privacy Policy is modeled after the Canadian Standards Association Model Code for the Protection of Personal Information and is compliant with federal and provincial privacy laws including the federal Personal Information Protection and Electronic Documents Act. A summary of the ten principles of fair information practices adopted in the Canwest Privacy Policy is included at the end of this Privacy Statement. A complete copy of the Canwest Privacy Policy is available on request by contacting your local Privacy Compliance Officer or on the Canwest website at [www.canwestglobal.com](http://www.canwestglobal.com/).   
