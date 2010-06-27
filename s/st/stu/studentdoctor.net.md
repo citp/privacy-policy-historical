@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025855id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627032503id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
 # Student Doctor Network | Privacy Statement
 
@@ -12,7 +12,7 @@ Coastal Research Group is a licensee of the TRUSTe Privacy Program. TRUSTe is an
 
 If you have questions or concerns regarding this statement, you should first contact the SDN Executive Director, Lee Burnett at <http://studentdoctor.net/contact-us/>
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 The Coastal Research Group is the sole owner of the information collected on The Student Doctor Network. The Student Doctor Network collects personally identifiable information from our users at several different points on our Web site.
 
@@ -164,5 +164,6 @@ Student Doctor Network
 16835 Algonquin Street #380  
 Huntington Beach, CA 92649
 
-Or use our contact form at: [  
-http://studentdoctor.net/contact-us/](http://studentdoctor.net/contact-us/)
+Or use our contact form at: [](http://studentdoctor.net/contact-us/)
+
+<http://studentdoctor.net/contact-us/>
