@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technorati.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515082038id_/http%3A//technorati.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technorati.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627140233id_/http%3A//technorati.com/privacy-policy) for the most accurate reproduction.*
 
-# Technorati: Privacy Policy
+# Technorati Privacy Policy - Technorati
 
 Technorati values the privacy of our visitors and our members and takes many steps to protect their privacy. By visiting Technorati’s primary website or related websites that Technorati controls or operates (collectively “Technorati Sites”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
 
@@ -80,6 +80,8 @@ You may opt-out of receiving our newsletter by following the instructions includ
 
 We gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, requested pages, operating system, and the time and date your browser requested our pages. We use this information, which does not identify individual visitors, to analyze trends, to administer the Technorati Sites, to track visitor movements around the Technorati Sites and to gather demographic information about our user base as a whole. We do not link this collected data to Personal Information.
 
+If you wish to opt-out from receiving browser "cookies", please see this page for more information: <http://networkadvertising.org/managing/opt_out.asp>
+
 ### Cookies
 
 We store a small text file called a cookie on your computer to track session data and persist your login for your convenience. A session cookie expires when you exit your browser. A persistent cookie stays on your computer until it is deleted. You can remove persistent cookies by following the directions provided in your browser's "help" files.
@@ -92,6 +94,16 @@ Some of our advertisers may use cookies on the Technorati Sites. We have no acce
 
 The advertisements appearing on Technorati are delivered by a third party. For information about our advertising partner, please visit their website through the link included in the presentation of the advertisements on the Technorati Sites.
 
+About Google and the DoubleClick DART cookie: 
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+
+
+For more information, see: <https://www.google.com/adsense/support/bin/answer.py?answer=100557>
+
 ### Business Transitions
 
 In the event Technorati goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of Technorati may continue to use your Personal Information as set forth in this Privacy Statement. You hereby consent to Technorati sharing your Personal Information under the above circumstances. Technorati will contact you at the email address you provided at registration to communicate such transfer. We will also place a prominent notice on the Technorati home page for 30 days after such transfer of your Personal Information.
@@ -102,4 +114,4 @@ This Privacy Statement is a living document. We will modify this document as we 
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy please[ contact us](https://web.archive.org/about/contact.html).
+If you have any questions or suggestions regarding our privacy policy please[ contact us](https://web.archive.org/contact-us/).
