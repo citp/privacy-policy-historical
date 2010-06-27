@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplestylewatch.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627110727id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplestylewatch.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627032334id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # People Style Watch Privacy Policy
 
@@ -25,7 +25,7 @@
   
 This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/stylewatch?dnp_source=E) or [Canada](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/stylewatch?dnp_source=E). 
 
-Thank you for visiting People Style Watch, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.
+Thank you for visiting People Style Watch, a site within the network of sites of Time Inc. and its subsidiaries, each of which have adopted this Privacy Notice. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice.
 
 |    
   
@@ -96,7 +96,7 @@ We may also use small pieces of code called "web beacons" or "clear gifs" to col
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect. |    
   
 **How You can Access or Correct Information**  
-To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](https://web.archive.org/web/20090627110727id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DE). 
+To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](https://web.archive.org/web/20100627032334id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DE). 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
@@ -108,7 +108,7 @@ The site you are visiting is one of the Time Inc. general audience sites. For mo
 **Changes to this Notice** This Notice may be changed by Time Inc. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.  |    
   
 **How to Contact Us**  
-If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](https://web.archive.org/web/20090627110727id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DE) or at the following address:
+If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](https://web.archive.org/web/20100627032334id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/stylewatch%3Fdnp_source%3DE) or at the following address:
 
 Time Customer Service  
 Attention: Consumer Affairs  
@@ -118,4 +118,4 @@ Tampa, Florida 33612-6408
 <http://www.people.com/stylewatch>
 
 | back to top  
-|  This Privacy Notice was revised 4/13/2009.
+|  This Privacy Notice was revised 6/21/2010.
