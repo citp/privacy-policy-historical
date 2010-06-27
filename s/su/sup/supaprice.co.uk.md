@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supaprice.co.uk privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226113623id_/http%3A//www.supaprice.co.uk/p/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supaprice.co.uk privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627131919id_/http%3A//www.supaprice.co.uk/p/privacy_policy.jsp) for the most accurate reproduction.*
 
 # SupaPrice.co.uk - Privacy Policy
 
