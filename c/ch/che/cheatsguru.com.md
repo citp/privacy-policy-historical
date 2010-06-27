@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatsguru.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603180023id_/http%3A//www.cheatsguru.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatsguru.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627081313id_/http%3A//www.cheatsguru.com/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy @ CheatsGuru.Com
 
@@ -6,9 +6,11 @@
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
+We may use your Personal Information in connection with third-party advertisers who serve ads to you while visiting Cheatsguru.com. These third-party advertisers may use your Personal Information (not including any personally identifying information you may provide) in order to generate advertisements about goods and services that may be of interest to you. If you would like to know more about this practice and to obtain information about how third-party advertisers use your Personal Information to select advertisements please click here ( [www.networkadvertising.org](http://www.networkadvertising.org/) ).
+
 ## Third Party Cookies:
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 ## Personal Information:
 
