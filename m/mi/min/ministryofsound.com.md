@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ministryofsound.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221234050id_/http%3A//www.ministryofsound.com/About/About.aspx%3Fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ministryofsound.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627145334id_/http%3A//www.ministryofsound.com/About/About.aspx%3Fid%3D3) for the most accurate reproduction.*
 
 # Ministry of Sound
 
@@ -106,14 +106,4 @@ For the reasons set out in this Privacy Policy and for technical and operational
 
 **10\. Updating your information  
 **  
-**10.1** If you are registered with us, you may update your personal information at any time via the "My Details"  page for web users. You can get to the "My Details Page" from most pages on our websites if you are logged-on.  In addition if you believe the information we hold about you to be out of date or inaccurate please email us at [customersupport@ministryofsound.com](mailto:customerSupport@ministryofsound.com) or contact us at 020 8867 3219.
-
-**11\. Parents**
-
-**11.1** MSHK is committed to the safety and privacy of children who visit and participate in our services. For those activities that require us to collect personal information (e.g. competitions), we will only collect personal information which is necessary to enable us to administer the relevant activity. We encourage parents and guardians to watch over their children’s online use. Please educate your children to always ask for your permission before they provide personal information.
-
-**12\. Children**
-
-**12.1** Remember to be smart and safe online. Always ask your parent or guardian for permission before you give out any personal information. This could include your name, email address, home address, telephone number, your school or any other information about yourself that would enable someone to contact you either online or offline.
-
-**12.2** From time to time we run online competitions that you may be able to enter. Always remember to ask your parent or guardian for permission before entering any competition.
+**10.1** If you are registered with us, you may update your personal information at any time via the "My Details"  page for web users. You can get to the "My Details Page" from most pages on our websites if you are logged-on.  In addition if you believe the information we hold about you to be out of date or inaccurate please email us at [customersupport@ministryofsound.com](mailto:customerSupport@ministryofsound.com)
