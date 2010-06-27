@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontiersin.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227035119id_/http%3A//frontiersin.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontiersin.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031730id_/http%3A//frontiersin.org/privacypolicy) for the most accurate reproduction.*
 
 # Frontiers in Neuroscience - privacypolicy
 
@@ -22,7 +22,7 @@ The data collected during the registration process is kept for identification pu
 
 ## EXPERT READERS/AUTHORS/EDITORS/REFEREES
 
-Consent to transfer to licensees and subcontractors: If you do not authorise Frontiers to transfer your personal information to Frontiers' licensees or subcontractors, it will not be possible for you to become an expert reader or fulfil any other Frontiers function. You may still visit the site and read articles but your visits will not be counted towards calculating the impact factor for the articles and authors. If you consent, your personal information can be transferred to Frontiers' licensees and subcontractors and may be used for the purposes of managing Frontiers' websites and journals. Frontiers' licensees and subcontractors may be located outside your country of residence. You may withdraw your authorisation at any time, in witch case any Frontiers function you may hold will automatically terminate and your account will be closed (and your profile will be deleted within a reasonable period).
+Consent to transfer to licensees and subcontractors: If you do not authorise Frontiers to transfer your personal information to Frontiers' licensees or subcontractors, it will not be possible for you to become an expert reader or fulfil any other Frontiers function. You may still visit the site and read articles but your visits will not be counted towards calculating the impact factor for the articles and authors. If you consent, your personal information can be transferred to Frontiers' licensees and subcontractors and may be used for the purposes of managing Frontiers' websites and journals. Frontiers' licensees and subcontractors may be located outside your country of residence. You may withdraw your authorisation at any time, in which case any Frontiers function you may hold will automatically terminate and your account will be closed (and your profile will be deleted within a reasonable period).
 
 ## INFORMATION AVAILABLE ONLINE (ON FRONTIERS WEBSITE)
 
