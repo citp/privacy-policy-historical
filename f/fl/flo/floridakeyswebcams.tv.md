@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridakeyswebcams.tv privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009040450id_/http%3A//www.floridakeyswebcams.tv/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridakeyswebcams.tv privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627145054id_/http%3A//www.floridakeyswebcams.tv/privacy.htm) for the most accurate reproduction.*
 
 # Key West web cams- Live Florida Keys beach cams, streaming cam, key west sunset
 
@@ -67,5 +67,7 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+[](http://www.fla-keys.com/)
 
 This site created and maintained by [Floridakeys.com](http://www.floridakeys.com/info) Copyright 2004. All Rights Reserved.
