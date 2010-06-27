@@ -1,14 +1,23 @@
-<!--The following is the downloaded HTML source of the cheatsguru.com privacy policy that was archived on 2009-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090603180023id_/http%3A//www.cheatsguru.com/help/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheatsguru.com privacy policy that was archived on 2010-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627081313id_/http%3A//www.cheatsguru.com/help/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Privacy Policy @ CheatsGuru.Com</title>
 	<link href="/img/style.css" rel="stylesheet" type="text/css" media="screen">
-		<!--[if lte IE 6]> <link rel="stylesheet" href="/img/style_ie6.css" type="text/css" media="screen"> </link> <![endif]-->
+	<link rel="shortcut icon" type="image/ico" href="/img/favicon.ico">
+		<!--[if lte IE 6]> 
+		<link rel="stylesheet" href="/img/style_ie6.css" type="text/css" media="screen"> </link>
+		<script type="text/javascript" src="/img/ddround.js"></script>
+	<![endif]-->
+	<meta http-equiv="X-UA-Compatible" content="IE=7">
+	<!--[if IE 7]><link rel="stylesheet" href="/img/style_ie7.css" type="text/css" media="screen" /><![endif]-->
 	<meta name="description" content="Privacy Policy">
 	<meta name="keywords" content="Privacy Policy cheats hints">
-		<script language="JavaScript" type="text/javascript" src="/img/js/main.js"></script>
+		<script language="JavaScript" type="text/javascript" src="/img/js/jquery.tools.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/img/js/jquery-ui-1.7.2.custom.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/img/js/search_suggest.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/img/js/main.js"></script>
 	<script language="JavaScript" type="text/javascript">
 	if (isLogged) {
 		var	dat		=	new Date;
@@ -18,10 +27,8 @@
 	}
 	</script>
 	
-			
-</head>
+		</head>
 <body id="upprofile">
-
 <!--cgAlert / main.js-->
 <div style="background:#000;visibility:hidden;padding:2px; position:absolute; left:38%; top:55%; z-index:2" id="popUp">
 		<div style="background:#24314a; border:solid 1px #364a6f; padding:10px; font-size:11px" align="center">
@@ -29,16 +36,14 @@
 		<input type="button" value="Close" class="mrgtop5" onclick="hidecgAlert();">
 		</div>
 </div>
+
 <!--cgAlert / main.js-->
 <div align="center">
 	<div class="maxmin" align="left">
 		<div class="blackwrap-h">
-	
 	<div id="header">
 		<a href="/" class="logolink" title="CheatsGuru - 250,000+ cheats, q&amp;a, walkthroughs and hints for PC, Xbox, Xbox360, PS2, GBA, PSP, Sony DS, DVD, WII and PS3." alt="CheatsGuru - 250,000+ cheats, q&amp;a, walkthroughs and hints for PC, Xbox, Xbox360, PS2, GBA, PSP, Sony DS, DVD, WII and PS3.">&nbsp;</a>
-		
 		<div id="AUTH" align="center" class="dn">
-			<div class="xmas"> </div>
 			<div id="upanel_corners" class="upanel_tc">
 				<div id="upanel_tr"></div>
 				<div id="upanel_tl"></div>
@@ -46,12 +51,14 @@
 			Welcome, <b><a href="" id="hrefprofile" style="color:#fff"><span id="username"></span></a></b>
 			<div id="userpanel">
 				<div id="userpanelwrap">
-					<a href="javascript:void(0);" onmouseover="this.href='/?a=logout'" title="Logout"><img src="/img/logout.gif" alt="" style="float:right; margin:5px; 10px 0px 0px; cursor:pointer;"></a>
+					<a href="javascript:void(0);" onmouseover="this.href='/?a=logout'" title="Logout">
+						<span class="logout"></span>
+					</a>
 					<ul> 
-						<li><a href="javascript:void(0);" onmouseover="this.href='/my/messages.php'">Private messages</a><span id="newmsg"></span></li>
-						<li><a href="javascript:void(0);" onmouseover="this.href='/my/forums.php'">My forums</a></li>
-						<li><a href="javascript:void(0);" onmouseover="this.href='/my/cheatsbook.php'">Cheat book</a></li>
-						<li class="goto"><a href="javascript:void(0);" onmouseover="this.href='/my/index.php'">Go to control panel</a></li>
+						<li><span class="userpanelwrapspan"></span><a href="javascript:void(0);" onmouseover="this.href='/my/messages.php'">Private messages</a><span id="newmsg"></span></li>
+						<li><span class="userpanelwrapspan"></span><a href="javascript:void(0);" onmouseover="this.href='/my/forums.php'">My forums</a></li>
+						<li><span class="userpanelwrapspan"></span><a href="javascript:void(0);" onmouseover="this.href='/my/cheatsbook.php'">Cheat book</a></li>
+						<li class="goto"><span></span><a href="javascript:void(0);" onmouseover="this.href='/my/index.php'">Go to control panel</a></li>
 					</ul>
 				</div>
 			</div>
@@ -61,18 +68,32 @@
 			</div>
 		</div>
 		
-		<div id="NOTAUTH" class="logout fs11 dn" style="display: block;">
-			<form action="/?" method="post" style="margin: 0">
-			<input type="hidden" name="ua" value="login">
-			<div class="formrow" style="margin-bottom:0px; height:25px">
-				<div style="width:60px; float:left">Username:</div> <input type="text" name="uname" style="width:100px; font-size:11px">
+		<div id="NOTAUTH" align="center" class="dn" style="display: block;">
+			<div id="upanel_corners" class="upanel_tc">
+				<div id="upanel_tr"></div>
+				<div id="upanel_tl"></div>
 			</div>
-			<div class="formrow" style="margin-bottom:5px; height:auto">
-				<div style="width:60px; float:left">Password:</div> <input type="password" name="upass" style="width:100px; font-size:11px">
+			Please login
+			<div id="userpanel">
+				<div id="userpanelwrap">
+					<div class="loginwr">
+						<form action="/" method="post">
+							<input type="hidden" name="ua" value="login">
+							<label for="uname">Username:</label>
+							<input type="text" name="uname" id="uname" class="loginput">
+							<label for="upass">Password:</label>
+							<input type="password" name="upass" id="upass" class="loginput">
+							<div class="clearfix" style="margin-top:5px">
+								<div class="float_l" style="margin-right:20px"><a href="/register.php" rel="nofollow">Register</a></div> <div class="f-left"><input name="Submit" type="submit" value="Sign-in"></div>
+							</div>
+						</form>
+					</div>
+				</div>
 			</div>
-		
-			<div><input name="Submit" type="submit" value="Sign in">&nbsp;&nbsp;&nbsp;<small><a href="javascript:void(0);" onclick="this.href='/register.php'">Register!</a></small></div>
-			</form>
+			<div id="upanel_corners" class="upanel_bc">
+				<div id="upanel_br"></div>
+				<div id="upanel_bl"></div>
+			</div>
 		</div>
 
 		<div id="NOTACTIVATE" align="center" class="dn">
@@ -84,12 +105,14 @@
 			Welcome, <b><a href="" id="hrefprofile_na" style="color:#fff"><span id="username_na"></span></a></b>
 			<div id="userpanel">
 				<div id="userpanelwrap">
-					<a href="javascript:void(0);" onmouseover="this.href='/?a=logout'" title="Logout"><img src="/img/logout.gif" alt="" style="float:right; margin:5px; 10px 0px 0px; cursor:pointer;"></a>
+					<a href="javascript:void(0);" onmouseover="this.href='/?a=logout'" title="Logout">
+						<span class="logout"></span>
+					</a>
 					<ul> 
 						<li><a href="javascript:void(0);" onmouseover="this.href='/register.php?a=activate'"><span style="color:red">Activate account!</span></a><span id="newmsg"></span></li>
 						<li><a href="javascript:void(0);" onmouseover="this.href='/my/forums.php'">My forums</a></li>
 						<li><a href="javascript:void(0);" onmouseover="this.href='/my/cheatsbook.php'">Cheat book</a></li>
-						<li class="goto"><a href="javascript:void(0);" onmouseover="this.href='/my/index.php'">Go to control panel</a></li>
+						<li class="goto"><span></span><a href="javascript:void(0);" onmouseover="this.href='/my/index.php'">Go to control panel</a></li>
 					</ul>
 				</div>
 			</div>
@@ -105,8 +128,7 @@
 						<div style="height:32px;border:0px solid red;">
 			&nbsp;
 			</div>
-						
-			<div id="menu_corners">
+									<div id="menu_corners">
 				<div id="right_c"></div>
 				<div id="left_c" class="corner_sel"></div>
 			</div>
@@ -114,27 +136,44 @@
 				<div id="supernavwrap">
 					<table border="0" cellpadding="0" cellspacing="0" width="100%">
 						<tbody><tr>
-							
-							<td id="current"><a href="/" title="cheats">Home</a></td>
-							<td><a href="/pc/">PC</a></td>
-							<td><a href="/ps2/">PS2</a></td>
-							<td><a href="/ps3/">PS3</a></td>
-							<td><a href="/xbox/">XBOX</a></td>
-							<td><a href="/xbox360/">X360</a></td>
-							<td><a href="/gamecube/">GCN</a></td>
-							<td><a href="/gba/">GBA</a></td>
-							<td><a href="/nds/">NDS</a></td>
-							<td><a href="/psp/">PSP</a></td>
-							<td><a href="/ngage/">N-GAGE</a></td>
-							<td><a href="/wii/">WII</a></td>
+							<td id="current"><div class="mitwr"><p></p><a href="/" title="cheats">Home</a></div></td>
+							<td><div class="mitwr"><p></p><a class="yellow" href="/pc/"><b>PC</b></a></div></td>
+							<td><div class="mitwr"><p></p><a class="yellow" href="/xbox360/"><b>X360</b></a></div></td>
+							<td><div class="mitwr"><p></p><a class="yellow" href="/ps3/"><b>PS3</b></a></div></td>
+							<td><div class="mitwr"><p></p><a class="yellow" href="/wii/"><b>WII</b></a></div></td>
+							<td><div class="mitwr"><p></p><a href="/nds/">NDS</a></div></td>
+							<td><div class="mitwr"><p></p><a href="/ps2/">PS2</a></div></td>
+							<td><div class="mitwr"><p></p><a href="/psp/">PSP</a></div></td>
+							<td><div class="mitwr"><p></p><a href="/gba/">GBA</a></div></td>
+							<td class="plts_drop_list">
+								<div style="position:relative; height:33px; line-height:31px">
+																		<div class="otherplat" style="display: none;">
+																						<a href="/xbox/">XBOX</a>
+																																	<a href="/iphone/">IPHONE</a>
+																																	<a href="/gamecube/">GCN</a>
+																																	<a href="/nintendo64/">N64</a>
+																																	<a href="/ngage/">NGAGE</a>
+																														</div>
+																			<a href="javascript:void(0);" style="display:inline-block;">Other</a>
+																		<span class="otherarr"></span>
+								</div>
+							</td>
+							<script type="text/javascript">
+								jQuery('#supernavwrap .plts_drop_list').hover(
+									function() {
+										jQuery('#supernavwrap .plts_drop_list .otherplat').show();
+									},
+									function() {
+										jQuery('#supernavwrap .plts_drop_list .otherplat').hide();
+									}
+								);
+							</script>
 						</tr>
 					</tbody></table>
 				</div>
 			</div>
 		</div>
 		</div>
-
-	
 </div>		<table width="99%" height="120" border="0" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr>
 	<td align="center" valign="middle">
@@ -153,10 +192,10 @@
 						<b class="r2"></b>
 						<div>
 							<div>
-								<span><a href="/request/">Request</a></span>
-								<span><a href="/submit/">Cheat &amp; Hint</a></span>
-								<span><a href="/question_ask/">Question</a></span>
-								<span class="last"><a href="/upload/">File</a></span>
+								<span class="last"><a href="/request/" rel="nofollow">Request</a></span>
+								<span><a href="/submit/" rel="nofollow">Cheat &amp; Hint</a></span>
+								<span><a href="/question_ask/" rel="nofollow">Question</a></span>
+								<span><a href="/upload/" rel="nofollow">File</a></span>
 							</div>
 						</div>
 						<b class="r2"></b>
@@ -165,25 +204,66 @@
 				</div>
 			</div>
 			<div id="search">
-				<form action="/search.php" style="margin: 0">
-				<input type="text" name="game" align="absmiddle" class="text" value="">
-				&nbsp;&nbsp;in:
-				<select name="plt">
-					<option value="">All</option>
-					<option value="1">PC</option>
-					<option value="2">PS2</option>
-					<option value="11">PS3</option>
-					<option value="3">XBOX</option>
-					<option value="9">XBOX 360</option>
-					<option value="4">GCN</option>
-					<option value="7">GBA</option>
-					<option value="6">NDS</option>
-					<option value="5">PSP</option>
-					<option value="8">N-GAGE</option>
-					<option value="10">WII</option>
-				</select>
-				<input type="submit" align="absmiddle" class="button" value="Go!">
+				<form action="/search.php" id="search_form">
+					<div class="sitem">
+						<input type="text" id="search_game" name="game" align="absmiddle" class="sinput" value="" autocomplete="off">
+					</div>
+					<div class="sitem s-in">
+						in:
+					</div>
+					<input type="hidden" id="plt_value" name="plt" value="0">
+					<div class="sitem s-select">
+						<div class="s-dropd dn" id="select_list">
+							<a href="javascript: void(0);" onclick="changeSearchPlt(0, this);" class="fedg">All</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(1, this);" class="fedg">PC</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(9, this);" class="fedg">XBOX 360</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(11, this);" class="fedg">PS3</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(10, this);" class="fedg">WII</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(6, this);">NDS</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(2, this);">PS2</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(5, this);">PSP</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(7, this);">GBA</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(3, this);">XBOX</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(12, this);">IPhone</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(4, this);">GCN</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(13, this);">Nintendo64</a>
+															<a href="javascript: void(0);" onclick="changeSearchPlt(8, this);">N-GAGE</a>
+													</div>
+						<div class="s-selected"><span class="dropdarr"></span><var id="plt_name">All</var></div>
+					</div>					<div class="sitem s-btn">
+						<input type="submit" value="GO">
+					</div>
 				</form>
+				<script type="text/javascript">
+					function changeSearchPlt(pltid, elem)
+					{
+						jQuery('#plt_value').val(pltid);
+						jQuery('#plt_name').text(elem.innerHTML);
+						jQuery('.s-dropd').hide();
+					}
+					jQuery('.s-selected').click(function()
+					{
+						jQuery('.s-dropd').hover(
+							function() {},
+							function() {jQuery('.s-dropd').hide();}
+						);
+						jQuery('.s-dropd').toggle();
+						return false;
+					});
+					jQuery('#search_form').submit(function() {
+						if (!jQuery.trim(jQuery('#search_game').val()))
+						{
+							return false;
+						}
+					});
+					//search suggestions
+					$(document).ready(function() {
+						if (typeof(jQuery("#search_game").autocomplete) == 'function')
+						{
+							jQuery("#search_game").autocomplete();
+						}
+					});
+				</script>
 			</div>
 		</div>
 	</div>
@@ -200,20 +280,11 @@
 <table style="padding-left:10px; padding-bottom:10px">
 	<tbody><tr>
 		<td style="padding:4px">
-		Our Partners:
+			<!-- Our Partners: -->
 		</td>
 	</tr>
 	<tr><td>
-	· <a href="http://www.gamepublic.com/" title="Games Search Engine">GamePublic</a>
-	<div style="margin-top:6px">· <a href="http://www.cheatsearcher.com/" target="_blank" title="Fast and easy to use cheat code search engine for hundreds of cheat sites">Cheat Searcher</a></div>
-	<div style="margin-top:6px">· <a href="http://www.cheatcodesclub.com/" target="_blank" title="Cheat Codes Search Engine">Cheat Codes Club</a></div>
-	<div style="margin-top:6px">· <a href="http://www.gamecheats.eu/" target="_blank" title="We serve over 13,000 games">Game Cheats</a></div>
-	<div style="margin-top:6px">· <a href="http://www.cheatoogle.com/" target="_blank" title="The Cheat Code search engine">Cheatoogle</a></div>
-	<div style="margin-top:6px">· <a href="http://www.cheathappens.com/" target="_blank" title="Game Cheats, Codes and Wallpapers">Cheat Happens</a></div>
-	<div style="margin-top:6px">· <a href="http://www.code-crawler.com/" target="_blank">Code Crawler</a></div>
-	<div style="margin-top:6px">· <a href="http://www.cheatingdome.com/" target="_blank" title="We offer cheats, hints, walkthroughs, guides and downloads for all consoles and PC.">CheatingDome</a></div>
-	<div style="margin-top:6px">· <a href="http://www.chaptercheats.com/" target="_blank">ChapterCheats</a></div>
-	<div style="margin-top:6px">· <a href="http://www.videogamesblogger.com/category/cheats" target="_blank" title="Cheats Section on Video Games Blogger">Video Games Blogger</a></div>
+		<!-- Partner links -->
 	</td></tr>
 </tbody></table>
 </div>
@@ -221,15 +292,17 @@
 		
 		<div id="main_content_wrap" style="margin-right:10px; padding-top:10px; margin-left:180px">
 		
-			<div id="page_title" class="work">
-				<h1 class="mrgbottom20" style="display:block">Privacy Policy</h1>
-			</div>
-			
-			<p>
+					<div id="page_title">
+			<span id="h1title" class="work"></span><h1>Privacy Policy</h1>		</div>					<p>
 				</p><h2>Third Party Advertising:</h2><br>
 				We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.<br><br>
+				We may use your Personal Information in connection with third-party
+				advertisers who serve ads to you while visiting Cheatsguru.com. These third-party advertisers may use your Personal Information (not including any
+				personally identifying information you may provide) in order to generate advertisements about goods and services that may be of interest to you. If
+				you would like to know more about this practice and to obtain information about how third-party advertisers use your Personal Information to select
+				advertisements please click here (&nbsp;<a href="http://www.networkadvertising.org/" target="_blank">www.networkadvertising.org</a>&nbsp;).<br><br>
 				<h2>Third Party Cookies:</h2><br>
-				In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.<br><br>
+				In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.<br><br>
 				<h2>Personal Information:</h2><br>
 				This Web site requests non-obligatory personal information from our members. The only required information is your name and e-mail adress. We do not share any personal information with any third parties nor do we use any personal information for any purposes, including selling. You are under no obligation to give your real name when submitting a tab or when becoming a member.<br><br>
 				<h2>External Links:</h2><br>
@@ -240,7 +313,8 @@
 				If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact - cheats[at]cheatsguru.com.
 			<p></p>
 			
-		</div>				
+		</div>
+		<div class="mrgtop20"></div>				
 				<div class="hr2"></div>
 				<div id="seobar">
 									<strong>
@@ -248,18 +322,18 @@
 					<td>
 						<table width="100%" cellspacing="0" cellpadding="0">
 												<tbody><tr>
-												<td> •   <a href="/xbox360/resident_evil_5/">Resident Evil 5 cheats</a></td>
-												<td> •   <a href="/pc/grand_theft_auto_iv/">Grand Theft Auto IV cheats</a></td>
-												<td> •   <a href="/pc/the_sims_3/">The Sims 3 cheats</a></td>
-												<td> •   <a href="/pc/left_4_dead/">Left 4 Dead cheats</a></td>
-												<td> •   <a href="/xbox360/fallout_3/">Fallout 3 cheats</a></td>
+												<td> •   <a href="/xbox360/call_of_duty_modern_warfare_2/">Call of Duty: Modern Warfare 2 cheats</a></td>
+												<td> •   <a href="/pc/assassins_creed_2/">Assassin's Creed 2 cheats</a></td>
+												<td> •   <a href="/wii/super_mario_galaxy_2/">Super Mario Galaxy 2 cheats</a></td>
+												<td> •   <a href="/xbox360/mass_effect_2/">Mass Effect 2 cheats</a></td>
+												<td> •   <a href="/pc/plants_vs_zombies/">Plants vs. Zombies cheats</a></td>
 												</tr>
 												<tr>
-												<td> •   <a href="/pc/need_for_speed_undercover/">Need for Speed Undercover cheats</a></td>
-												<td> •   <a href="/pc/the_godfather_ii/">The Godfather II cheats</a></td>
-												<td> •   <a href="/pc/command_conquer_red_alert_3/">Command &amp; Conquer: Red Alert 3 cheats</a></td>
-												<td> •   <a href="/pc/plants_vs_zombies/">Plants vs. Zombies cheats</a></td>
-												<td> •   <a href="/ps3/infamous/">inFAMOUS cheats</a></td>
+												<td> •   <a href="/xbox360/battlefield_bad_company_2/">Battlefield: Bad Company 2 cheats</a></td>
+												<td> •   <a href="/xbox360/red_dead_redemption/">Red Dead Redemption cheats</a></td>
+												<td> •   <a href="/xbox360/tom_clancys_splinter_cell_conviction/">Tom Clancy's Splinter Cell: Conviction cheats</a></td>
+												<td> •   <a href="/xbox360/ufc_undisputed_2010/">UFC Undisputed 2010 cheats</a></td>
+												<td> •   <a href="/pc/the_sims_3_ambitions/">The Sims 3: Ambitions cheats</a></td>
 												</tr>
 												</tbody></table>
 					</td>
@@ -269,13 +343,19 @@
 				<div class="hr2"></div>
 				<div id="footer">
 					<div id="footerwrap">
-						<div><a href="/pc/cheatsgurucom/">CG Underground</a> | <a href="/pc/cg_community/">CG Community</a> | <a href="/help/about.htm">About</a> | <a href="/help/privacy.htm">Privacy policy</a> | <a href="/help/contact.htm">Contact</a> | <a href="/help/advertising.htm">Advertising info</a> | <a href="/help/links.htm">Links</a></div>
-						<small><b>© 2005-2009 CheatsGuru.com</b></small>
+						<div><a href="/pc/cheatsgurucom/">CG Underground</a> | <a href="/pc/cg_community/">CG Community</a> | <a href="/help/about.htm">About</a> | <a href="/help/privacy.htm">Privacy policy</a> | <a href="/help/contact.htm">Contact</a> | <a href="/help/advertising.htm">Advertising info</a></div>
+						<small><b>© 2010 CheatsGuru.com</b></small>
 					</div>
 				</div>
 			</div>
 		</div>
-				
+						
+		
+		<script type="text/javascript">
+			DD_roundies.addRule('.png, .fadewr b, .fadewr_notype b, .fadewr_users b');
+		</script>
+
+		
 		<!-- ValueClick Media POP-UNDER CODE v1.8 for cheatsguru.com (4 hour) -->
 		<script language="javascript"><!--                                 
 		var dc=document; var date_ob=new Date();
@@ -288,21 +368,54 @@
 		</script>                                                          
 		<!-- ValueClick Media POP-UNDER CODE v1.8 for cheatsguru.com -->
 
-		<!--google a-->
-		<script type="text/javascript">
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">
-			var pageTracker = _gat._getTracker("UA-4467236-1");
-			pageTracker._initData();
-			pageTracker._trackPageview();
-		</script>
-		<!--/google a-->
-
+		
 			</div>
 </div>
+<!--google a-->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-4467236-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+<!--/google a-->
+
+<!-- Begin comScore Tag -->
+	<script>
+		document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ?
+	"https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+	</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+		<script>
+	  COMSCORE.beacon({
+		c1:2,
+		c2:6745264,
+		c3:"",
+		c4:"http://www.cheatsguru.com/help/privacy.htm",
+		c5:"",
+		c6:"",
+		c15:""
+	  });
+	</script>
+
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6745264&c3=&c4=&c5=&c6=&c15=&cj=1" />
+	</noscript>
+<!-- End comScore Tag -->
+
+<!-- Start Quantcast tag -->
+	<script type="text/javascript">
+		_qoptions={
+		qacct:"p-84PgIiyhfAiVo"
+		};
+	</script>
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<noscript>
+		<img src="http://pixel.quantserve.com/pixel/p-84PgIiyhfAiVo.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+	</noscript>
+<!-- End Quantcast tag -->
 
 
-
-</body></html>
+<div class="ac_results" style="display: none; position: absolute;"></div></body></html>
