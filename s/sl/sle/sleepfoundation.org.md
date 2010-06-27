@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sleepfoundation.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619205346id_/http%3A//www.sleepfoundation.org/site-informantion/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepfoundation.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627215232id_/http%3A//www.sleepfoundation.org/site-informantion/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | National Sleep Foundation - The Latest Sleep News and Information
+# Privacy Policy | National Sleep Foundation - Information on Sleep Health and Safety
 
 NSF is dedicated to protecting your personal privacy when you visit our Web site. In responding to requests for information, purchases of educational materials and processing of charitable contributions, you may provide us with your email address and postal address.
 
