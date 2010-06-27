@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227175456id_/http%3A//www.jewishjournal.com/newspaper/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishjournal.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628004917id_/http%3A//www.jewishjournal.com/newspaper/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jewish Journal
 
@@ -74,8 +74,10 @@ This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are
 
 ## IF YOU HAVE A PRIVACY QUESTION
 
-If you have a privacy question about our Site, please email: Dennis Wilen at [webmaster@jewishjournal.com](mailto:webmaster@jewishjournal.com). Or write: Los Angeles Jewish Publications, Inc., Attn: Dennis Wilen, 3580 Wilshire Boulevard, Suite 1510, Los Angeles, California, 90010. Or call us at (213) 368-1661.
+If you have a privacy question about our Site, please email: Jay Firestone at [webmaster@jewishjournal.com](mailto:webmaster@jewishjournal.com). Or write: Tribe Media Corp., Attn: Jay Firestone, 3580 Wilshire Boulevard, Suite 1510, Los Angeles, California, 90010. Or call us at (213) 368-1661.
 
 (end of policy) 
 
 Advertisement
+
+[](http://www.jewishjournal.com/ads/www/delivery/ck.php?oaparams=2__bannerid=707__zoneid=7__source=newspaper__cb=a01a94fad1__oadest=http%3A%2F%2Fgrandperformances.org)
