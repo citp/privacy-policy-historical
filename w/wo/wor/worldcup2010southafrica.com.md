@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldcup2010southafrica.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228005501id_/http%3A//www.worldcup2010southafrica.com/privacy-policy-for-worldcup2010southafricacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcup2010southafrica.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627145212id_/http%3A//www.worldcup2010southafrica.com/privacy-policy-for-worldcup2010southafricacom) for the most accurate reproduction.*
 
-# World Cup 2010 South Africa - Privacy policy of worldcup2010southafrica.com
+# World Cup 2010 | Privacy policy of worldcup2010southafrica.com
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit worldcup2010southafrica.com, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -14,4 +14,7 @@ This is generally used for geotargeting purposes (showing London real estate ads
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
-[Looking for a hotel while visiting South Africa? Click this link to get live prices and availability!](http://www.worldcup2010southafrica.com/world-cup-2010-hotels/)
+  
+
+
+## Next Four World Cup 2010 Matches
