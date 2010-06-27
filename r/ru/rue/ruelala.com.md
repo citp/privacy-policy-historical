@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215094508id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627152428id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
 
 # 
 
@@ -11,7 +11,7 @@ We also collect personal information when you choose to use certain other featur
 
 In addition, through the Site, we automatically gather certain information about the use of the Site, such as how frequently certain areas of the Site are visited, including through the use of cookies, web beacons and other technologies. Most browsers can be set to prevent cookies or to notify you when one is being placed. However, cookies are necessary to access the Site. 
 
-The Site also makes use of a technology designed to enhance your browsing experience and to provide aggregate non-personally identifiable information about the use of the Site to us. If for any reason you do not wish to have this technology enabled while browsing the Site, please click [here](https://web.archive.org/analytics). A cookie will be set on your browser that instructs this technology not to start. If you have disabled this technology and wish to reactivate it, please click [here](https://web.archive.org/analytics). 
+The Site also makes use of a technology designed to enhance your browsing experience and to provide aggregate non-personally identifiable information about the use of the Site to us. If for any reason you do not wish to have this technology enabled while browsing the Site, please click [here](https://web.archive.org/analytics). A cookie will be set on your browser that instructs this technology not to start. If you have disabled this technology and wish to reactivate it, please click [here](https://web.archive.org/analytics). Please note that if you are accessing the Site through the iPhone or iPad applications, these links will not function and this technology will not be disabled. 
 
 If you choose to invite an individual to join Rue La La, you will need to provide his/her name and email address. Rue La La stores this information to confirm qualifying orders attributable to your account and to track the results of the invitation referrals. 
 
@@ -61,4 +61,4 @@ Boston, MA 02210
 [AtYourService@RueLaLa.com](mailto:AtYourService@RueLaLa.com)
 
 Last Updated: June 16, 2009  
-© 2008 - 2009 Retail Convergence.com, LP. All rights reserved. 
+© 2008 - 2010 Retail Convergence.com, LP. All rights reserved. 
