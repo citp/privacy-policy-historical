@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksheetworks.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227175544id_/http%3A//www.worksheetworks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksheetworks.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628012553id_/http%3A//worksheetworks.com/privacy.html) for the most accurate reproduction.*
 
 # WorksheetWorks.com
 
