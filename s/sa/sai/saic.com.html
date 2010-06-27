@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the saic.com privacy policy that was archived on 2009-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091027183327id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saic.com privacy policy that was archived on 2010-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627180225id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-us"><head>
 <title>SAIC: Web Privacy Statement</title>
@@ -8,10 +8,10 @@
 <meta name="keywords" content="terms, conditions, privacy, privacy policy, cookies">
 <meta name="description" content="Your privacy, and the privacy of all users of www.saic.com is of the highest priority. This privacy statement explains what information we gather from you, how it may be used by us and how it is protected.">
 <meta name="owner" content="carlsonam">
-<meta name="developer" content="salamidab">
+<meta name="developer" content="salamidab, barnesam">
 <meta name="objecttype" content="content page">
 <meta name="date" content="2009-04-17">
-<meta name="validated" content="2008-05-13">
+<meta name="validated" content="2009-04-17">
 
 <script type="text/javascript" language="javascript" src="/js/sifr/sifr.js?version=021108"></script>
 <script type="text/javascript" language="javascript" src="/js/sifr/sifr-config-internal.js?version=021108"></script>
@@ -48,6 +48,12 @@
 		}else{
 			return true;
 		}
+	}
+
+	//sitecatalyst link tracking
+	function linkCode(obj, lid) {
+		var s=s_gi('saicprod');
+		s.tl(obj,'o',lid);
 	}
 
 </script>	
@@ -249,15 +255,31 @@ From the <em>Edit</em> menu, select <strong>Preferences</strong> and then select
 <div id="footer">
 <div id="footer_inner">
 
-<ul>
-	<li><a href="/tools/contact.html" name="&amp;lid=Contact+Us&amp;lpos=bottom_page">Contact Us</a></li>
-	<li><a href="/tools/sitemap.asp">Site Map</a></li>
-	<li><a href="/privacy/">Web Privacy Statement</a></li>
-	<li class="none"><a href="/copyright/">Copyright</a></li>
+
+<p class="line1"><a href="/copyright/">Copyright © 2010 SAIC</a>. All rights reserved.<br>
+<a href="/tools/contact.html">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/tools/sitemap.asp">Site Map</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/privacy/">Web Privacy Statement</a>
+</p>
+
+<!-- AddThis Button BEGIN -->
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=saic" class="addthis_button addthis">Share</a>
+<!--[if !(IE 6)]-->
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=saic"></script>
+<!--[endif]-->
+<!-- AddThis Button END -->
+
+<span class="footerDivider">|</span>
+
+Join us on 
+
+<ul id="socialIcons">
+	<li><a href="http://www.facebook.com/SAICinc" target="_blank" class="facebook">&nbsp;</a></li>
+	<li><a href="http://www.flickr.com/photos/ScienceApplications/" target="_blank" class="flickr">&nbsp;</a></li>
+	<li><a href="http://www.linkedin.com/companies/saic" target="_blank" class="linkedin">&nbsp;</a></li>
+	<li><a href="http://www.twitter.com/SAICinc" target="_blank" class="twitter">&nbsp;</a></li>
+	<li><a href="http://www.youtube.com/user/ScienceApplications" target="_blank" class="youtube">&nbsp;</a></li>
 </ul>
 
-<p>Copyright © 2009 SAIC. All rights reserved.</p>
-
+<br clear="all">
 
 </div></div><!-- END: footer -->
 
@@ -298,7 +320,7 @@ s.purchaseID=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!-- End SiteCatalyst code version: H.17. -->
-
+ 
 
 
 </body></html>
