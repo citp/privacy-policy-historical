@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sogotrade.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514081206id_/http%3A//www.sogotrade.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogotrade.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628233859id_/http%3A//www.sogotrade.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -36,7 +36,7 @@ We do not disclose any nonpublic personal information about our customers or for
 We only use information about you and your account to help us better serve your investment needs or to suggest services or educational materials that may be of interest to you. 
 
 **Opt-Out Availability**  
-If you prefer that we do not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures. You may direct us to not make those disclosures (other than those allowed by law). If you wish to opt out of disclosures to nonaffiliated third parties, you may contact Support at (888) 818-7646. 
+If you prefer that we do not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures. You may direct us to not make those disclosures (other than those allowed by law). If you wish to opt out of disclosures to nonaffiliated third parties, you may contact Support at 1(212)668-8686. 
 
 **Confidentiality And Security**  
 We maintain physical, electronic and procedural safeguards to guard your personal account information. We also restrict access to your personal and financial data to authorized SogoTrade associates who have a need for these records. We require all nonaffiliated organizations to conform to our privacy standards and are contractually obligated to keep the information provided confidential and used as requested. Furthermore, we will continue to adhere to the privacy policies and practices described in this notice even after your account is closed or becomes inactive. We will continue to conduct our business in a manner that conforms with our pledge to you, your expectations and all applicable laws. 
