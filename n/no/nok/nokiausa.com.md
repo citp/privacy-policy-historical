@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003152256id_/http%3A//www.nokiausa.com/A4411013) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628121914id_/http%3A//www.nokiausa.com/A4411013) for the most accurate reproduction.*
 
 # 
 
