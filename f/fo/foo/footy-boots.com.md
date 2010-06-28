@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the footy-boots.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228104154id_/http%3A//www.footy-boots.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footy-boots.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628155131id_/http%3A//www.footy-boots.com/privacy-statement) for the most accurate reproduction.*
 
 # Football Boots | Privacy Statement
 
-This Privacy Policy is applicable to any personal information, which is given by You to Us (”User Information”) via the web site located at www.footy-boots.com (”Site”). This Policy is devised to help you feel more confident about the privacy and security of your personal details.
+This Privacy Policy is applicable to any personal information, which is given by You to Us (“User Information”) via the web site located at www.footy-boots.com (“Site”). This Policy is devised to help you feel more confident about the privacy and security of your personal details.
 
 “You” shall mean you, the user of the Site. “We/Us” means TH UK Media Ltd “Users” means the users of the Site collectively and/or individually as the context allows.
 
@@ -33,7 +33,7 @@ Cookies do not attach to Your system and damage Your files. If You do not want i
 
 **Security and Data Retention**
 
-Security is very important to Us. Secure Socket Layer (”SSL”) encryption technology is used for protection of information in transit for any sensitive transactions such as payments. Additional security procedures are in place to protect the confidentiality, integrity and availability of Your User information.
+Security is very important to Us. Secure Socket Layer (“SSL”) encryption technology is used for protection of information in transit for any sensitive transactions such as payments. Additional security procedures are in place to protect the confidentiality, integrity and availability of Your User information.
 
 We will comply with all relevant Data Protection legislation in relation to the period for which We retain any information You disclose to us.
 
