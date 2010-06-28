@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snafu-comics.com privacy policy that was archived on 2008-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080620045332id_/http%3A//www.snafu-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snafu-comics.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629005937id_/http%3A//www.snafu-comics.com/privacy.php) for the most accurate reproduction.*
 
-# Snafu Comics, Updated Mondays
+# SNAFU
 
 **Send a Strip and E-cards**
 
@@ -25,6 +25,8 @@ In the course of serving advertisements to this site, our third-party advertiser
 **Advertisers, Partners and Third Party Content Providers**
 
 Snafu-comics.com, and all its related brands and sites, provide links to other websites, such as those of our advertising partners and Third Party content providers, including but not limited to web search-engine providers, that may have their own information collection practices. These other websites are governed by their own privacy policies or information collection practices, which may be substantially different from ours. We encourage visitors to review the privacy policies and information collection practices of those websites.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
 **Security**
 
