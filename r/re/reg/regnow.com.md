@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726163150id_/http%3A//www.regnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628233048id_/http%3A//www.regnow.com/privacy.html) for the most accurate reproduction.*
 
 # Digital River
 
@@ -110,4 +110,4 @@ Digital River may amend this Privacy Statement from time-to-time. We will notify
 
 If you would like to contact us with questions or comments concerning our Privacy Statement or if you feel your inquiry or request has not been addressed to your satisfaction, please contact Digital River’s Privacy Department via e-mail [privacypolicy@reply.digitalriver.com](mailto:privacypolicy@reply.digitalriver.com) or via mail: Digital River’s Privacy Department, 9625 W. 76th Street, Suite 150, Eden Prairie, MN 55344.
 
-[Printable Version](https://web.archive.org/web/20090716000010id_/http://www.digitalriver.com/corporate/print_privacy.shtml)
+[Printable Version](https://web.archive.org/web/20100527223733id_/http://www.digitalriver.com/corporate/print_privacy.shtml)
