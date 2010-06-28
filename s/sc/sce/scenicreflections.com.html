@@ -1,568 +1,598 @@
-<!--The following is the downloaded HTML source of the scenicreflections.com privacy policy that was archived on 2009-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227232137id_/http%3A//www.scenicreflections.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scenicreflections.com privacy policy that was archived on 2010-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628150947id_/http%3A//www.scenicreflections.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-
-
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-
-
-<title>
-
- Privacy 
-</title>
-
-
-
-<meta name="keywords" content="">
-
-<meta name="description" content="">
-
-
-
+<title> Privacy </title>
+<meta name="keywords" content="download free screensavers, free wallpapers, play free games, send free ecards">
+<meta name="description" content="Download and enjoy thousands of free screensavers, free desktop wallpapers, play free games, send free ecards and much more! No spyware, no adware, no spam, no cost, no kidding.">
 <link rel="stylesheet" type="text/css" href="http://www.scenicreflections.com/templates/frontend/NewSR/stylesheet.css">
-
-
-
 <!--[if lte IE 6]>
+
+
 
 <link rel='stylesheet' type='text/css' href='http://www.scenicreflections.com/templates/frontend/NewSR/stylesheet_ie6.css' />
 
+
+
 <![endif]-->
-
-
-
-
 
 <!--[if IE]>
 
+
+
 <style>
+
+
 
 fieldset {
 
+
+
 position: relative;
 
+
+
 }
+
+
 
 legend {
 
+
+
 position: absolute;
+
+
 
 top: -.5em;
 
+
+
 left: .2em;
 
+
+
 }
+
+
 
 .form_box {
 
+
+
 padding-top:10px;
 
+
+
 }
+
+
 
 form {
 
+
+
    display: inline; 
+
+
 
    margin: 0; 
 
+
+
 }
+
+
 
 </style>
 
+
+
 <![endif]-->
-
-
-
-
 
 <script type="text/javascript">
 
+
+
 	var base_url = "http://www.scenicreflections.com/";
 
+
+
 </script>
-
 <script type="text/javascript" language="JavaScript" src="http://www.scenicreflections.com/js/functions.js"></script>
-
 <script type="text/javascript" language="JavaScript" src="http://www.scenicreflections.com/js/ajax_tabs.js"></script>
-
-
-
-
-
-
 <script type="text/javascript" language="JavaScript" src="http://www.scenicreflections.com/templates/frontend/NewSR/jquery-1.2.6.min.js"></script>
-
-
 
 <script type="text/javascript" language="javascript">
 
+
+
 function popup_tellfriend(location,width,height){
+
+
 
 	var op;
 
+
+
 	var window_top = (screen.height - height) / 2;
+
+
 
 	var window_len = (screen.width - width) / 2;
 
+
+
 	var winprops ='height='+height+',width='+width+',top='+window_top+',left='+window_len+',toolbar=no,menubar=no,location=no,scrollbars=yes';
 
+
+
 	op = window.open(location,'tellfriend',winprops);
+
+
+
+}
+</script>
+
+
+
+
+<style type="text/css">
+
+#informationbar{
+
+position: fixed;
+
+left: 0;
+
+width: 100%;
+
+text-indent: 5px;
+
+padding: 5px 0;
+
+background-color: lightyellow;
+
+border-bottom: 1px solid black;
+
+font: bold 12px Verdana;
+
+}
+
+
+
+* html #informationbar{ /*IE6 hack*/
+
+position: absolute;
+
+width: expression(document.compatMode=="CSS1Compat"? document.documentElement.clientWidth+"px" : body.clientWidth+"px");
+
+}
+
+
+
+</style>
+<script type="text/javascript">
+
+/***********************************************
+
+* Animated Information Bar- by JavaScript Kit (www.javascriptkit.com)
+
+* This notice must stay intact for usage
+
+* Visit JavaScript Kit at http://www.javascriptkit.com/ for this script and 100s more
+
+***********************************************/
+
+function informationbar(){
+
+	this.displayfreq="always"
+
+	this.content='<a href="javascript:informationbar.close()"><img src="http://www.scenicreflections.com/close.gif" style="width: 14px; height: 14px; float: right; border: 0; margin-right: 5px" /></a>'
+
+}
+
+informationbar.prototype.setContent=function(data){
+
+	this.content=this.content+data
+
+	document.write('<div id="informationbar" style="top: -500px">'+this.content+'</div>')
+
+}
+
+informationbar.prototype.animatetoview=function(){
+
+	var barinstance=this
+
+	if (parseInt(this.barref.style.top)<0){
+
+		this.barref.style.top=parseInt(this.barref.style.top)+5+"px"
+
+		setTimeout(function(){barinstance.animatetoview()}, 50)
+
+	}
+
+	else{
+
+		if (document.all && !window.XMLHttpRequest)
+
+		this.barref.style.setExpression("top", 'document.compatMode=="CSS1Compat"? document.documentElement.scrollTop+"px" : body.scrollTop+"px"')
+
+	else
+
+		this.barref.style.top=0
+
+	}
+
+}
+
+informationbar.close=function(){
+
+	document.getElementById("informationbar").style.display="none"
+
+	if (this.displayfreq=="session")
+
+		document.cookie="infobarshown=1;path=/"
+
+}
+
+
+
+informationbar.prototype.setfrequency=function(type){
+
+	this.displayfreq=type
+
+}
+
+informationbar.prototype.initialize=function(){
+
+	if (this.displayfreq=="session" && document.cookie.indexOf("infobarshown")==-1 || this.displayfreq=="always"){
+
+		this.barref=document.getElementById("informationbar")
+
+		this.barheight=parseInt(this.barref.offsetHeight)
+
+		this.barref.style.top=this.barheight*(-1)+"px"
+
+		this.animatetoview()
+
+	}
+
+}
+
+window.onunload=function(){
+
+	this.barref=null
 
 }
 
 </script>
+<script type="text/javascript">
+
+<!--Invocation code-->
+
+var infobar=new informationbar()
+
+infobar.setContent('Keep Scenic Reflections FREE With Just Two Clicks! <a href="http://www.scenicreflections.com/ads/topoffers2.htm" target="_blank">CLICK HERE</a> and then click one of the search results.')
+
+//infobar.setfrequency('session') //Uncomment this line to set information bar to only display once per browser session!
+
+infobar.initialize()
+
+</script><script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=35311086"></script></head><body><div id="informationbar" style="top: 0px;"><a href="javascript:informationbar.close()"><img src="http://www.scenicreflections.com/close.gif" style="width: 14px; height: 14px; float: right; border: 0; margin-right: 5px"></a>Keep Scenic Reflections FREE With Just Two Clicks! <a href="http://www.scenicreflections.com/ads/topoffers2.htm" target="_blank">CLICK HERE</a> and then click one of the search results.</div>
 
 
-
-
-
-<!-- Start Quantcast tag -->
-
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qacct="p-a7s1FNogwk3V-";quantserve();</script>
-
-<noscript><img src="http://pixel.quantserve.com/pixel/p-a7s1FNogwk3V-.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
-
-<!-- End Quantcast tag -->
-
-
-
-<script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=35311086"></script></head>
-
-
-
-<body>
 
 <center>
-
 <div id="main">
-
-				<div id="topimagesbox">
-
-										
-
-						<div class="topimagebox1">
-
-							<div class="topimage"><a href="http://www.scenicreflections.com/media/111780/Halley`s_Comet_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Halleys Comet.jpg" title="The free Halley’s Comet 3D Animated Screensaver by Scenic Reflections offers you a unique view from outer space, a place inhabited by stars, nebulae, asteroids and planets. But among the most beautiful inhabitants of space are comets, traveling around the dark reaches of the universe. Here is one of them, Halley’s Comet. We can see it from the Earth only once in the 76 years. The last time it passed by was in 1986. If you missed it, you definitely don`t want to wait until 2068 to see it again! In the free screensaver, you`ll be able to watch it pass by Earth over and over again! Get a first hand view from our universe with this free animated screensaver. It will amaze you again and again to see this comet pass by as the rest of the universe changes. And now you can optionally add your own music and sound tracks to help enhance the screensaver even further. Download the free Halley`s Comet 3D animated screensaver today!" width="100" height="75" alt=""></a></div>
-
-							<div class="topimagetext"><a href="http://www.scenicreflections.com/media/111780/Halley`s_Comet_3D_Screensaver/">Halley`s Comet 3D Screensaver</a></div>
-
-						</div>
-
-										
-
-						<div class="topimagebox1">
-
-							<div class="topimage"><a href="http://www.scenicreflections.com/media/174620/3D_Butterflies_Over_Waterfalls_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Free_3D_Tropical_Butterflies_Over_Waterfalls_Screensaver_IW.jpg" title="The free 3D Tropical Butterflies Over Waterfalls animated screensaver features 3 majestic waterfall scenes with beautiful waterfalls cascading over a cliff in scenes right out of a paradise island! Watch as the multi-colored tropical butterflies flutter about, over and around exotic tropical flowers and foliage. You`ll never be bored with this colorful, realistic, animated screen saver! Our free 3D Tropical Butterflies screensaver is a treasure of visual delights and ever-changing scenes. This free screensaver features realistic waterfalls cascading over terraced tropical cliffs, multi-colored tropical butterflies dart around tropical flowers, true-to-life tropical plants and foliage, ability to change the number of butterflies, ability to turn the realistic waterfall sounds on or off, an ornate clock that displays the current time in the screensaver, and other user-configurable options. Download and enjoy the free 3D Tropical Butterflies over Waterfalls screensaver today!" width="100" height="75" alt=""></a></div>
-
-							<div class="topimagetext"><a href="http://www.scenicreflections.com/media/174620/3D_Butterflies_Over_Waterfalls_Screensaver/">3D Butterflies Over Waterfalls Screensaver</a></div>
-
-						</div>
-
-										
-
-						<div class="topimagebox1">
-
-							<div class="topimage"><a href="http://www.scenicreflections.com/media/40173/Bald_Eagle_Scenic_Reflections_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/bald-eagle-screensaver.jpg" title="The free Bald Eagle Scenic Reflections Screensaver displays 95 beautiful and majestic images of the American Bald Eagle. Now you can experience their beauty and majesty up close and personal! This free bald eagle screensaver also features three beautiful, full-length, CD-quality musical compositions. Download the free Bald Eagle Scenic Reflections Slideshow Screensaver today." width="100" height="75" alt=""></a></div>
-
-							<div class="topimagetext"><a href="http://www.scenicreflections.com/media/40173/Bald_Eagle_Scenic_Reflections_Screensaver/">Bald Eagle Scenic Reflections Screensaver</a></div>
-
-						</div>
-
-										
-
-						<div class="topimagebox1">
-
-							<div class="topimage"><a href="http://www.scenicreflections.com/media/177724/Two_Towers_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Two Towers 3D Screensaver.jpg" title="The free Two Towers 3D Screensaver features two high towers, the symbol of a town’s might and prosperity, which were built several centuries ago during the times of the knights and crusaders. Much time has passed since then, the knights have already vanished and everything has changed, but the towers still stand and delight the eye with their unique beauty and might. Enjoy the birds flying above and the glowing fairies floating about. The free Two Towers 3D Screensaver features nearly 20 minutes of beautiful, CD quality piano music to help set the mood, and now you can optionally add your own music tracks to help customize the screensaver even further." width="100" height="75" alt=""></a></div>
-
-							<div class="topimagetext"><a href="http://www.scenicreflections.com/media/177724/Two_Towers_3D_Screensaver/">Two Towers 3D Screensaver</a></div>
-
-						</div>
-
-										
-
-						<div class="topimagebox1">
-
-							<div class="topimage"><a href="http://www.scenicreflections.com/media/177678/Forest_Bears_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Forest Bears 3D Screensaver.jpg" title="The free Forest Bears 3D Screensaver lets you watch bears playing together undisturbed by human presence. See their natural habitat and behavior as they frolic around a fallen tree trunk. Their playful and gentle personality will make you see them in a whole new perspective. Download this free amazing 3D animated screensaver from Scenic Reflections seize the opportunity to watch bears enjoying life as they do when no one is watching. The free Forest Bears 3D Screensaver includes nearly 20 minutes of beautiful, CD quality piano music to help enhance the forest mood, and now you can optionally add your own music tracks to help customize the screensaver even further." width="100" height="75" alt=""></a></div>
-
-							<div class="topimagetext"><a href="http://www.scenicreflections.com/media/177678/Forest_Bears_3D_Screensaver/">Forest Bears 3D Screensaver</a></div>
-
-						</div>
-
-					
-				</div>
-
-				
-
-				<!--submain1-start-->
-
-					<div style="width:980px; clear:both">
-
-						<div id="submain1">
-
-							<!--logoandsearchbox-start-->
-
-								<div class="logo_searchbox">
-
-									<div class="logobox_left"></div>
-
-									<div class="logobox_mid">
-
-										<div class="logo_box">
-
-												<div class="logo"><a href="http://www.scenicreflections.com"><img src="http://www.scenicreflections.com/images/frontend/NewSR/logo.gif" alt="www.scenicreflections.com" title="www.scenicreflections.com"></a></div>
-
-												<div class="logotext">Free Screensavers, Free Wallpapers, Free Games, Free eCards and a Whole Lot More!<br>
-
-												No Spyware, No Trojans, No Spam, No Kidding!</div>
-
-										</div>
-
-										<div id="top_search">
-
-											<table align="center" width="250" border="0" cellspacing="0" cellpadding="0">
-
+<div id="topimagesbox">   <div class="topimagebox1">
+    <div class="topimage"><a href="http://www.scenicreflections.com/media/111801/Spring_Forest_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Spring Forest.jpg" title="The free Spring Forest 3D Animated Screensaver by Scenic Reflections celebrates the beginning of Spring by taking a walk in this beautiful Spring Forest. You will enjoy the colorful butterflies as well as the calming sound of trickling water and the chant of the birds. Download this free 3D animated Spring screensaver today and celebrate the arrival of Spring. And now you can optionally add your own music and sound tracks to help enhance the screensaver even further!" width="100" height="75" alt=""></a></div>
+    <div class="topimagetext"><a href="http://www.scenicreflections.com/media/111801/Spring_Forest_3D_Screensaver/">Spring Forest 3D Screensaver</a></div>
+  </div>
+    <div class="topimagebox1">
+    <div class="topimage"><a href="http://www.scenicreflections.com/media/111812/Tree_of_Life_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Tree of Life.jpg" title="The free Tree of Life 3D Animated Screensaver by Scenic Reflections takes you to an African Safari land in the comfort of your own home. Watch as eagles are flying about, wild antelope are grassing around a big, branchy tree and life is going on around it. The sky is covered with dark clouds and there is a spirit of danger in the air. It`s possible that somewhere in the bushes there`s a predatory animal waiting to pounce. Feel free to add your own music or sound tracks to help enhance the screensaver even further!" width="100" height="75" alt=""></a></div>
+    <div class="topimagetext"><a href="http://www.scenicreflections.com/media/111812/Tree_of_Life_3D_Screensaver/">Tree of Life 3D Screensaver</a></div>
+  </div>
+    <div class="topimagebox1">
+    <div class="topimage"><a href="http://www.scenicreflections.com/media/40183/International_Lighthouses_Scenic_Reflections_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/international-lighthouses-screensaver.jpg" title="The Free International Lighthouses Scenic Reflections Screensaver displays 45 beautiful and stunning images of lighthouses from Australia and Greece - some of the most beautiful lighthouse images you may ever see! This free lighthouse screensaver also features three beautiful, full-length, CD-quality musical compositions. Download the free International Lighthouses Scenic Reflections Slideshow Screensaver today." width="100" height="75" alt=""></a></div>
+    <div class="topimagetext"><a href="http://www.scenicreflections.com/media/40183/International_Lighthouses_Scenic_Reflections_Screensaver/">International Lighthouses Scenic Reflections Scre...</a></div>
+  </div>
+    <div class="topimagebox1">
+    <div class="topimage"><a href="http://www.scenicreflections.com/media/177709/Great_River_Canyon_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Great River Canyon 3D Screensaver.jpg" title="The free Great River Canyon 3D Screensaver features a beautiful canyon scene with slopes covered in torrid grass, a river meandering going through it, eagles soaring high in the sky and looking for new prey, and somewhere far away wild horses are running about. The free Great River Canyon 3D Screensaver includes nearly 20 minutes of beautiful, CD quality piano music to help set the mood, and now you can optionally add your own music tracks to help customize the screensaver even further." width="100" height="75" alt=""></a></div>
+    <div class="topimagetext"><a href="http://www.scenicreflections.com/media/177709/Great_River_Canyon_3D_Screensaver/">Great River Canyon 3D Screensaver</a></div>
+  </div>
+    <div class="topimagebox1">
+    <div class="topimage"><a href="http://www.scenicreflections.com/media/177666/3D_Aquarium_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/3D Aquarium Screensaver.jpg" title="The free 3D Aquarium Screensaver features and underwater world that is rich and varied. Enjoy the many multicolored fish in various shapes and sizes. This free aquarium screensaver will delight the eyes and relax the body. We hope you enjoy the exquisite beauty of this free 3D Aquarium Screensaver. The free 3D Aquarium Screensaver also features nearly 20 minutes of beautiful, CD quality piano music to help set the mood, and now you can optionally add your own music tracks to help customize the screensaver even further." width="100" height="75" alt=""></a></div>
+    <div class="topimagetext"><a href="http://www.scenicreflections.com/media/177666/3D_Aquarium_Screensaver/">3D Aquarium Screensaver</a></div>
+  </div>
+   </div>
+<!--submain1-start-->
+<div style="width:980px; clear:both">
+<div id="submain1">
+<!--logoandsearchbox-start-->
+<div class="logo_searchbox">
+  <div class="logobox_left"></div>
+  <div class="logobox_mid">
+    <div class="logo_box">
+      <div class="logo"><a href="http://www.scenicreflections.com"><img src="http://www.scenicreflections.com/images/frontend/NewSR/logo.gif" alt="www.scenicreflections.com" title="www.scenicreflections.com"></a></div>
+      <div class="logotext">Free Screensavers, Free Wallpapers, Free Games, Free eCards and a Whole Lot More!<br>
+        No Spyware, No Trojans, No Spam, No Kidding!</div>
+    </div>
+    <div id="top_search">
+      <table align="center" width="250" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td colspan="3" height="15px"></td>
+        </tr>
+        <tr>
+          <td width="6px" style="background:url(http://www.scenicreflections.com/images/frontend/NewSR/sear-mid1.jpg); background-repeat:repeat-x;"><img src="http://www.scenicreflections.com/images/frontend/NewSR/sear-left1.jpg" width="6" height="89"></td>
+          <td style="background:url(http://www.scenicreflections.com/images/frontend/NewSR/sear-mid1.jpg); background-repeat:repeat-x; width:238px;" valign="middle"><form action="http://www.scenicreflections.com/search/" method="post" enctype="multipart/form-data" style="display: inline; margin: 0;" name="frmsearch">
+              <table align="center" width="230" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
-
-                  <td colspan="3" height="15px"></td>
-
-                 </tr>
-
-                <tr>
-
-                  <td width="6px" style="background:url(http://www.scenicreflections.com/images/frontend/NewSR/sear-mid1.jpg); background-repeat:repeat-x;"><img src="http://www.scenicreflections.com/images/frontend/NewSR/sear-left1.jpg" width="6" height="89"></td>
-
-                  <td style="background:url(http://www.scenicreflections.com/images/frontend/NewSR/sear-mid1.jpg); background-repeat:repeat-x; width:238px;" valign="middle">
-
-				<form action="http://www.scenicreflections.com/search/" method="post" enctype="multipart/form-data" style="display: inline; margin: 0;" name="frmsearch"> 
-
-				  <table align="center" width="230" border="0" cellspacing="0" cellpadding="0">
-
-	               <tbody><tr>
-
-                      <td colspan="2" align="center" height="7px"></td>
-
-                    </tr>
-
-                    <tr>
-
-                      <td colspan="2" align="center" height="22px"><img src="http://www.scenicreflections.com/images/frontend/NewSR/search-caption.jpg" width="166" height="15" alt=""></td>
-
-                      </tr>
-
-                    <tr>
-
-                      <td colspan="2" height="30px" align="center">
-
-					<select name="main_cat" class="input">
-
-						
-						
-						<option value="Select">ScenicReflections.com</option>
-
-						<option value="Free Animated Wallpapers">Free Animated Wallpapers</option>
-
-						<option value="Free Cool Quizzes">Free Cool Quizzes</option>
-
-						<option value="Free Photo Wallpapers">Free Photo Wallpapers</option>
-
-						<option value="Free Ecards">Free Ecards</option>
-
-						<option value="Free Screensavers">Free Screensavers</option>
-
-						<option value="Free Web Games">Free Web Games</option>
-
-					</select>
-
-					  </td>
-
-                      </tr>
-
-                    <tr>
-
-                      <td width="140" align="center" style="padding-bottom:10px;"><input type="hidden" name="submit"><input class="input" name="search" size="15" type="text" value=""></td>
-
-                      <td style="padding-bottom:10px;"><input type="submit" name="submit" value="Search" style="color:#FFFFFF; font-family: arial; font-weight: bold; font-size: 12px; background-image: url(http://www.scenicreflections.com/images/frontend/NewSR/search-button.jpg); background-position: no-repeat 0 50%; width: 79px; height: 19px; border: 0px;"></td>
-
-                    </tr>
-
-                  </tbody></table>
-
-				  </form>
-
-				  </td>
-
-                  <td width="6px"><img src="http://www.scenicreflections.com/images/frontend/NewSR/search-right1.jpg" width="7" height="89" alt=""></td>
-
+                  <td colspan="2" align="center" height="7px"></td>
                 </tr>
+                <tr>
+                  <td colspan="2" align="center" height="22px"><img src="http://www.scenicreflections.com/images/frontend/NewSR/search-caption.jpg" width="166" height="15" alt=""></td>
+                </tr>
+                <tr>
+                  <td colspan="2" height="30px" align="center"><select name="main_cat" class="input">
+                      
 
+
+
+
+
+
+
+						
+
+
+
+
+
+
+						
+
+
+
+
+
+
+						
+                      <option value="Select">ScenicReflections.com</option>
+                      <option value="Free Animated Wallpapers">Free Animated Wallpapers</option>
+                      <option value="Free Cool Quizzes">Free Cool Quizzes</option>
+                      <option value="Free Photo Wallpapers">Free Photo Wallpapers</option>
+                      <option value="Free Ecards">Free Ecards</option>
+                      <option value="Free Screensavers">Free Screensavers</option>
+                      <option value="Free Web Games">Free Web Games</option>
+                    </select>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="140" align="center" style="padding-bottom:10px;"><input type="hidden" name="submit">
+                    <input class="input" name="search" size="15" type="text" value=""></td>
+                  <td style="padding-bottom:10px;"><input type="submit" name="submit" value="Search" style="color:#FFFFFF; font-family: arial; font-weight: bold; font-size: 12px; background-image: url(http://www.scenicreflections.com/images/frontend/NewSR/search-button.jpg); background-position: no-repeat 0 50%; width: 79px; height: 19px; border: 0px;"></td>
+                </tr>
               </tbody></table>
-
-				  						</div>
-
-									</div>
-
-									<div class="logobox_right"></div>
-
-								</div>	
-
-							<!--logoandsearchbox-end-->
-
-							
-
-							<!--toplinks-start-->
-
-								<div class="toplinksbox">
-
-								 			<div class="toplinksleft"></div>
-
-												<div class="toplinksmid">
-
-													<ul class="glossymenu" style="padding-left:35px;">								 
-
-																	<li class="current"><a href="http://www.scenicreflections.com/"><b>Screensavers</b></a></li>
+            </form>
+          </td>
+          <td width="6px"><img src="http://www.scenicreflections.com/images/frontend/NewSR/search-right1.jpg" width="7" height="89" alt=""></td>
+        </tr>
+      </tbody></table>
+    </div>
+  </div>
+  <div class="logobox_right"></div>
+</div>
+<!--logoandsearchbox-end-->
+<!--toplinks-start-->
+<div class="toplinksbox">
+  <div class="toplinksleft"></div>
+  <div class="toplinksmid">
+    <ul class="glossymenu" style="padding-left:20px;">
+      			<li class="current"><a href="http://www.scenicreflections.com/"><b>Screensavers</b></a></li>
 			<li><a href="http://www.scenicreflections.com/c/1/Free_Photo_Wallpapers/"><b>Photo&nbsp;Wallpapers</b></a></li>	
 			<li><a href="http://www.scenicreflections.com/c/637/Free_Animated_Wallpapers/"><b>Animated&nbsp;Wallpapers</b></a></li>
-			<!--<li><a href='http://www.scenicreflections.com/c/302/Free_eCards/'><b>eCards</b></a></li>-->
-			<li><a href="http://www.scenicreflections.com/ecards.php"><b>eCards</b></a></li>
+			<li><a href="http://www.scenicreflections.com/c/302/Free_eCards/"><b>eCards</b></a></li>
+			<!--<li><a href='http://www.scenicreflections.com/ecards.php'><b>eCards</b></a></li>-->
 			<li><a href="http://www.scenicreflections.com/c/9775/Free_Web_Games/"><b>Web&nbsp;Games</b></a></li>
 			<li><a href="http://www.scenicreflections.com/playfreegames/"><b>PC&nbsp;Games</b></a></li>
 			<li><a href="http://www.scenicreflections.com/c/6503/Free_Cool_Quizzes/"><b>Cool&nbsp;Quizzes</b></a></li>
 			<li><a href="http://www.scenicreflections.com/software_store/"><b>Software&nbsp;Store</b></a></li>
+			<li><a href="http://scenicreflections.keycodecoupons.com/"><b>Coupons </b></a></li>			
+			<li><a href="http://www.scenicreflections.com/videos/"><b>Videos</b></a></li>
 			<li><a href="http://www.scenicreflections.com/index.php?view=testimonials"><b>Testimonials</b></a></li>
 			<li style="border-right:1px solid #8bb5d3;"><a href="http://www.scenicreflections.com/index.php?view=help"><b>Help</b></a></li>
 			
-						
-
-													</ul>											
-
-												</div>
-
-											<div class="toplinksright"></div>
-
-							    </div>
-
-							<!--toplinks-end-->
-
-								<div style="width:980px; clear:both;">
-
-									<!--recent-imagebox-start-->
-
-										<div class="recentbox">
-
-											
-
-											<div class="recentviewbox">
-
-												
-
-												<script type="text/javascript" src="http://www.scenicreflections.com/templates/frontend/NewSR/reflection.js"></script>
-
-												
-
-												<script type="text/javascript">
-
-												var $j = jQuery.noConflict();
-
-													 
-
-												$j(document).ready(function(){
-
-													$j(".recently_viewed a").hover(
-
-														function(){
-
-															$j(this).animate({
-
-																top: "4px",
-
-																opacity: 0.7
-
-															}, 250);
-
-														},
-
-														function(){
-
-															$j(this).animate({
-
-																top: "0px",
-
-																opacity: 1
-
-															}, 250);
-
-														}
-
-														);
-
-												});
-
-												
-
-												</script>
-
-												
-
-
-
-												<div class="recently_viewed_con">
-
-													<div class="recently_viewed_text">Recently Viewed</div>
-
-													<div class="recently_viewed">
-
-														
-														
-
-															<a href="http://www.scenicreflections.com/media/173122/Harry_Potter_and_the_Half-Blood_Prince_Wallpaper_1/"><img src="http://www.scenicreflections.com/thumbs/Harry Potter and the Half-Blood Prince Wallpaper 1.jpg" class="reflect rheight50 ropacity70" title="Harry Potter and the Half-Blood Prince Wallpaper 1"></a><a href="http://www.scenicreflections.com/media/175116/3D_White_Christmas_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Free_3D_White_Christmas_Screensaver_IW.jpg" class="reflect rheight50 ropacity70" title="The free 3D White Christmas animated screensaver features 3 beautiful Christmas scenes. Imagine yourself taking a walk on a winter evening, the snow begins to gently fall to the ground and wafts lightly in the early night sky. Decorated Christmas trees flash their holiday lights and warmmly lit cottages and houses looks so warm and inviting. A clock in the corner of this wonderful Christmas screensaver not only shows the time, but also counts down the days left until Christmas day! The free 3d White Christmas is a treasure of visual delights. This free Christmas screensaver also features animated christmas lights on trees, animated snowfall, animated christmas houses, beautiful Christmas scenery, an ornate clock and Christmas countdown, and many other user-configurable options. Download and enjoy the free White Christmas 3D screensaver today!"></a><a href="http://www.scenicreflections.com/media/37001/Huckleberry_Hound_Show_Wallpaper/"><img src="http://www.scenicreflections.com/thumbs/huckleberry_hound_show_wallpaper_100.gif" class="reflect rheight50 ropacity70" title="True and blue, good `ol Huckleberry is a hound of many hats. Cap off your desktop with the beloved cartoon canine with this wallpaper from the animated classic."></a><a href="http://www.scenicreflections.com/media/174253/So_You_Think_You_Can_Dance_-_16_Wallpaper/"><img src="http://www.scenicreflections.com/thumbs/So You Think You Can Dance - 16 Wallpaper.jpg" class="reflect rheight50 ropacity70" title="So You Think You Can Dance - 16 Wallpaper"></a><a href="http://www.scenicreflections.com/media/35968/Ultimate_Muscle_Wallpaper/"><img src="http://www.scenicreflections.com/thumbs/ultimatemuscle_100.gif" class="reflect rheight50 ropacity70" title="Honor the name of the Kinnikuman Legacy with this wallpaper from Ultimate Muscle featuring the new generation of the Muscle League."></a><a href="http://www.scenicreflections.com/media/36239/Paranoia_Agent_-_Lil_Slugger_Wallpaper/"><img src="http://www.scenicreflections.com/thumbs/paranoiaagentslugger_100.jpg" class="reflect rheight50 ropacity70" title="A mysterious boy on roller blades has been attacking people in Tokyo. Is the `Lil Slugger` real or some kind of sinister phantom? Explore the contagious madness of Paranoia Agent and find out with this wallpaper."></a><a href="http://www.scenicreflections.com/media/31898/Looney_Tunes_-_Yosemite_Sam_Wallpaper/"><img src="http://www.scenicreflections.com/thumbs/yosemitesam_100.gif" class="reflect rheight50 ropacity70" title="Say your prayers varmint - the fastest gun north, south, east and west of the Pecos is a-comin` to your desktop. Give a six-gun salute to the short-statured, short-tempered cartoon cowboy, Yosemite Sam."></a><a href="http://www.scenicreflections.com/media/153257/Chris_Evans_Wallpaper_-_11/"><img src="http://www.scenicreflections.com/thumbs/Chris Evans Wallpaper - 11.jpg" class="reflect rheight50 ropacity70" title="Chris Evans Wallpaper - 11"></a><a href="http://www.scenicreflections.com/media/36916/The_Sopranos_-_Bada_Bing_Wallpaper/"><img src="http://www.scenicreflections.com/thumbs/sopranos_bada_bing_wallpaper_100.jpg" class="reflect rheight50 ropacity70" title="You dont have to be a made man to get into the famed Bada Bing. Just download this Sopranos wallpaper, and don`t forget to bring singles!"></a><a href="http://www.scenicreflections.com/media/177702/Christmas_Cottage_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Christmas Cottage Screensaver.jpg" class="reflect rheight50 ropacity70" title="The free Christmas Cottage Screensaver lets you enjoy the common Christmas tradition of sprucing up the houses with Christmas lights inside and outside, decorating a Christmas tree and interchanging gifts and greeting cards. You will feel the joy of this special holiday season with this wonderful Christmas screensaver. The free Christmas Cottage Screensaver includes 17 beautiful, full length CD quality piano Christmas songs to help set the holiday spirit, and now you can optionally add your own music tracks to help customize the screensaver even further."></a><a href="http://www.scenicreflections.com/media/18824/I_Love_Music_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/77_686.jpg" class="reflect rheight50 ropacity70" title="The text is nicely animated to mask the images of musical instruments. A very interesting screensaver and very popular download."></a><a href="http://www.scenicreflections.com/media/152981/Wall-E_-_Movie_Wallpaper_-_09_Wallpaper/"><img src="http://www.scenicreflections.com/thumbs/Wall-E - Movie Wallpaper - 09.jpg" class="reflect rheight50 ropacity70" title="Wall-E - Movie Wallpaper - 09 Wallpaper"></a><a href="http://www.scenicreflections.com/media/177714/Old_Fashioned_Fireplace_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Old Fashioned Fireplace 3D Screensaver.jpg" class="reflect rheight50 ropacity70" title="The free Old Fashioned Fireplace 3D Screensaver features an old time fireplace in a large castle room. It`s warm and cozy in there, and there`s an old familiar grandfather clock to help know what time it is. There`s a beautiful fire roaring in the fireplace keeping you nice and warm. It`s a well known fact that a person can watch a fire in the fireplace for hours on end, relaxing in it`s warm glow, the pressures of the world left far behind them. The free Old Fashioned Fireplace 3D Screensaver includes nearly 20 minutes of beautiful, CD quality piano music to help set the mood, and now you can optionally add your own music tracks to help customize the screensaver even further."></a><a href="http://www.scenicreflections.com/media/167319/3Tang_Tank_2006_Game/"><img src="http://www.scenicreflections.com/thumbs/Web_Games_3Tang_Tank_2006_Game.jpg" class="reflect rheight50 ropacity70" title="THIS IS A TANK GAME"></a><a href="http://www.scenicreflections.com/media/39693/Blue_Man_Group_2_Wallpaper/"><img src="http://www.scenicreflections.com/thumbs/bmgarmsup_100.gif" class="reflect rheight50 ropacity70" title="The Blue Man Group puts on quite a presentation, and with this wallpaper you`ve got front row seats to their show."></a>
-														<br style="clear:both;">
-
-													</div>
-
-												</div>							
-
-												
-
-												
-
-											</div>
-
-										</div>
-
-									<!--recent-imagebox-end-->	
-
-								</div>
-
-								
-
-								
-
+			    </ul>
+  </div>
+  <div class="toplinksright"></div>
+</div>
+<!--toplinks-end-->
+<div style="width:980px; clear:both;"> </div>
 <div style="width:980px; clear:both;">
+<!--container-start-->
+<div id="container">
 
-	<!--container-start-->
-
-		<div id="container">
 
 
 <div id="leftblock">
-				<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Sorting Options</div></div>
-				<div class="leftboxlist">
-						<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=mr" class="lnav_l">Most Recent</a>
-						<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=mv" class="lnav_l">Most Viewed</a>
-						<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=tr" class="lnav_l">Top Rated</a>
-						<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=rf" class="lnav_l">Recently Featured</a>
-						<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=rv" class="lnav_l">Recently Viewed</a>
-						<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=ran" class="lnav_l">Random</a>
-				</div>
-		</div>
-				<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Browse Media</div></div>
-				<div class="leftboxlist">
-					<a href="http://www.scenicreflections.com/c/All/" class="lnav_l"><b>All Media</b></a>
-    				<a href="http://www.scenicreflections.com/c/637/Free_Animated_Wallpapers/" class="lnav_l"> Free Animated Wallpapers</a><a href="http://www.scenicreflections.com/c/6503/Free_Cool_Quizzes/" class="lnav_l"> Free Cool Quizzes</a><a href="http://www.scenicreflections.com/ecards.php" class="lnav_l"> Free eCards</a><a href="http://www.scenicreflections.com/c/1/Free_Photo_Wallpapers/" class="lnav_l"> Free Photo Wallpapers</a><a href="http://www.scenicreflections.com/" class="lnav_l"> <b>Free Screensavers</b></a><a href="http://www.scenicreflections.com/c/22/3D/" class="lnav_l">- 3D</a><a href="http://www.scenicreflections.com/c/29/Animal_World/" class="lnav_l">- Animal World</a><a href="http://www.scenicreflections.com/c/275/Architecture/" class="lnav_l">- Architecture</a><a href="http://www.scenicreflections.com/c/42/Art/" class="lnav_l">- Art</a><a href="http://www.scenicreflections.com/c/6891/Calendar_Screensavers/" class="lnav_l">- Calendar Screensavers</a><a href="http://www.scenicreflections.com/c/43/Calendars/" class="lnav_l">- Calendars</a><a href="http://www.scenicreflections.com/c/44/Celebrities/" class="lnav_l">- Celebrities</a><a href="http://www.scenicreflections.com/c/264/Clocks/" class="lnav_l">- Clocks</a><a href="http://www.scenicreflections.com/c/45/Culture/" class="lnav_l">- Culture</a><a href="http://www.scenicreflections.com/c/633/Games/" class="lnav_l">- Games</a><a href="http://www.scenicreflections.com/c/47/Holidays/" class="lnav_l">- Holidays</a><a href="http://www.scenicreflections.com/c/48/Inspirational/" class="lnav_l">- Inspirational</a><a href="http://www.scenicreflections.com/c/49/Interactive/" class="lnav_l">- Interactive</a><a href="http://www.scenicreflections.com/c/50/Kids/" class="lnav_l">- Kids</a><a href="http://www.scenicreflections.com/c/751/Life_&amp;_Leisure/" class="lnav_l">- Life &amp; Leisure</a><a href="http://www.scenicreflections.com/c/51/Love_&amp;_Romance/" class="lnav_l">- Love &amp; Romance</a><a href="http://www.scenicreflections.com/c/53/Movies/" class="lnav_l">- Movies</a><a href="http://www.scenicreflections.com/c/54/Music/" class="lnav_l">- Music</a><a href="http://www.scenicreflections.com/c/55/Nature/" class="lnav_l">- Nature</a><a href="http://www.scenicreflections.com/c/752/Popular/" class="lnav_l">- Popular</a><a href="http://www.scenicreflections.com/c/56/Religious/" class="lnav_l">- Religious</a><a href="http://www.scenicreflections.com/c/57/Seasons/" class="lnav_l">- Seasons</a><a href="http://www.scenicreflections.com/c/58/Sights_and_Scenes/" class="lnav_l">- Sights and Scenes</a><a href="http://www.scenicreflections.com/c/5810/Space/" class="lnav_l">- Space</a><a href="http://www.scenicreflections.com/c/59/Specialty/" class="lnav_l">- Specialty</a><a href="http://www.scenicreflections.com/c/60/Sports/" class="lnav_l">- Sports</a><a href="http://www.scenicreflections.com/c/753/Thoughts_&amp;_Quotes/" class="lnav_l">- Thoughts &amp; Quotes</a><a href="http://www.scenicreflections.com/c/61/Transportation/" class="lnav_l">- Transportation</a><a href="http://www.scenicreflections.com/c/62/TV/" class="lnav_l">- TV</a><a href="http://www.scenicreflections.com/c/46/Video_Games/" class="lnav_l">- Video Games</a><a href="http://www.scenicreflections.com/c/9775/Free_Web_Games/" class="lnav_l"> Free Web Games</a>
-				</div>
-		</div>
-		
-		<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Featured</div></div>
-			<div class="leftfeaturedbox">
-								<div class="featuredimagebox">
-					<div class="featuredimage"><a href="http://www.scenicreflections.com/media/111814/Tropical_Waterfall_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Tropic Waterfall.jpg" title="The free Tropical Waterfall 3D Animated Screensaver by Scenic Reflections is truly a wonder. Watching this amazing waterfall, you can`t help but think about how marvelous nature is to create something so special. As you look on, you can hear the sounds of a beautiful tropical paradise. You can get a great view of all the tropical butterflies and seagulls and parrots, while you enjoy the peacefulness of the waterfall falling into a beautiful bay. "></a></div>
-					<div class="featuredimagetext"><a href="http://www.scenicreflections.com/media/111814/Tropical_Waterfall_3D_Screensaver/"><b>Tropical Waterfall 3D Screensaver</b></a></div>	
-				</div>
-								<div class="featuredimagebox">
-					<div class="featuredimage"><a href="http://www.scenicreflections.com/media/179891/Old_Rugged_Cross_3D_Christian_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Old Rugged Cross 3D Christian Screensaver.jpg" title="Download and enjoy the free Old Rugged Cross 3D Christian Screensaver featuring some outstanding Christian animated visuals. The free Old Rugged Cross 3D Christian Screensaver includes nearly 30 minutes of beautiful, CD quality Christian piano music, and now you can optionally add your own music tracks to help customize the screensaver even further."></a></div>
-					<div class="featuredimagetext"><a href="http://www.scenicreflections.com/media/179891/Old_Rugged_Cross_3D_Christian_Screensaver/"><b>Old Rugged Cross 3D Christian Screensaver</b></a></div>	
-				</div>
-								<div class="featuredimagebox">
-					<div class="featuredimage"><a href="http://www.scenicreflections.com/media/177702/Christmas_Cottage_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Christmas Cottage Screensaver.jpg" title="The free Christmas Cottage Screensaver lets you enjoy the common Christmas tradition of sprucing up the houses with Christmas lights inside and outside, decorating a Christmas tree and interchanging gifts and greeting cards. You will feel the joy of this special holiday season with this wonderful Christmas screensaver. The free Christmas Cottage Screensaver includes 17 beautiful, full length CD quality piano Christmas songs to help set the holiday spirit, and now you can optionally add your own music tracks to help customize the screensaver even further."></a></div>
-					<div class="featuredimagetext"><a href="http://www.scenicreflections.com/media/177702/Christmas_Cottage_Screensaver/"><b>Christmas Cottage Screensaver</b></a></div>	
-				</div>
-								<div class="featuredimagebox">
-					<div class="featuredimage"><a href="http://www.scenicreflections.com/media/111769/Coral_Island_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Coral Island.jpg" title="The free Coral Island 3D Animated Screensaver by Scenic Reflections is an exceptional screensaver that will transport you to a tropical paradise where you can simultaneously view island and underwater themes. How often have you managed to watch two worlds simultaneously? To watch the underwater world full of beautiful inhabitants and incredibly bright corals? And to watch a tranquil tropical island as well? Move your mouse cursor over the underwater animals to help them swim along faster. And now you can optionally add your own music tracks to help enhance the screensaver even further. Download the free Coral Island 3D Animated Screensaver today!"></a></div>
-					<div class="featuredimagetext"><a href="http://www.scenicreflections.com/media/111769/Coral_Island_3D_Screensaver/"><b>Coral Island 3D Screensaver</b></a></div>	
-				</div>
-															
-			</div>
-		</div>
-		
-		<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Tell A Friend!</div></div>														
-				<div class="leftinnerbox">
-					<div class="featuredimage">
-						<!-- AddThis Button BEGIN -->
-								<div class="addthis_toolbox addthis_default_style" style="margin: 0 auto; width: 170px;">
-								<div class="addthis_custom_images">
-								<a class="addthis_button_email"><img src="http://www.scenicreflections.com/images/tellafriend.gif"></a>
-								<a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=desktopfun"></a>
-								</div>
-								<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=desktopfun">
-								var addthis_test0309 = false;
-								var addthis_brand = "ScenicReflections";
-								</script>
-						<!-- AddThis Button END -->
-								</div>
-					</div>
-				</div>
-		</div>
-		<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Share This Page</div></div>														
-				<div class="leftinnerbox">
-					<div class="featuredimage">
-						
-							<!-- AddThis Button BEGIN -->
-							<script type="text/javascript">
-							var addthis_pub="desktopfun";
-							var addthis_test0309 = false;
-							var addthis_brand = "ScenicReflections";
-							var addthis_options = 'facebook, email, myspace, fark, twitter, digg, google, live, stumbleupon, aim, aolfav, ask, delicious, multiply, myweb, yahoobkm, favorites, more';
-							</script>
-							<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
-							<!-- AddThis Button END --> 
-							
-					</div>
-				</div>
-		</div>
-		<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Subscribe To Feed</div></div>														
-				<div class="leftinnerbox">
-					<div class="featuredimagetext">
-						<p></p><center><a href="http://feeds2.feedburner.com/scenicreflectionsallcontent" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"></a> <a href="http://feeds2.feedburner.com/scenicreflectionsallcontent" rel="alternate" type="application/rss+xml">Subscribe To Our Feed!</a></center><p></p>
-					</div>	
-				</div>
-		</div>
-		
-		<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Live Help</div></div>		
-				
-					<!-- BEGIN LivePerson Button Code -->
-					
-					<div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center"></td><td align="center"><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/35311086/?cmd=file&amp;file=visitorWantsToChat&amp;site=35311086&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a" target="chat35311086" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/35311086/?cmd=file&amp;file=visitorWantsToChat&amp;site=35311086&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat35311086','width=475,height=400,resizable=yes');return false;"><img name="hcIcon" src="http://server.iad.liveperson.net/hc/35311086/?cmd=repstate&amp;site=35311086&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&amp;d=1580497911192" style="border: 0px;"></a><script type="text/javascript"> var img=new Image();img.style.border='0';img.name='hcIcon';img.src='http://server.iad.liveperson.net/hc/35311086/?cmd=repstate&site=35311086&channel=web&&ver=1&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a'+'&d='+((new Date()).getTime());var par=document.getElementById('_lpChatBtn');if(par!=null){par.appendChild(img);}</script></td> </tr><tr><td> </td><td align="center"><div style="margin-top:5px;"><span style="font-size:10px; font-family:Arial, Helvetica, sans-serif;"><a href="http://solutions.liveperson.com/live-chat" style="text-decoration:none; color:#000" target="_blank"><b>Live Chat</b></a><span style="color:#000"> by </span><a href="http://www.liveperson.com/" style="text-decoration:none; color:#FF9900" target="_blank">LivePerson</a></span></div></td> </tr>  </tbody></table> </div>
-					
-					<!-- END LivePerson Button code -->
-		</div>
-		
-		
-		<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Become A Facebook Fan!</div></div>			
-				<br><script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("dcd6c124b258c34c605991a0783bb7b1");</script><fb:fan profile_id="145766767157" stream="1" connections="6" width="190" height="600"></fb:fan><br><div style="font-size:8px; padding-left:10px"><a href="http://www.facebook.com/pages/Scenic-Reflections-Free-Screensavers/145766767157" target="_blank"><font size="1">Scenic Reflections on Facebook!</font></a>  </div><br>				
-		</div>
-		
-		<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Follow Us On Twitter!</div></div>														
-				<br><center>					
-<a href="http://www.twitter.com/screensaverguy" target="_blank"><img src="http://twitter-badges.s3.amazonaws.com/follow_us-b.png" alt="Follow screensaverguy on Twitter"></a>
-				</center><br>				
-		</div>
-		<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Translate</div></div>														
-				<div class="leftinnerbox">
-					<center>
-					<br>
+<!-- <div id="leftbox1"> -->
+<!-- <div class="blueheading"><div class="blueheadingtext">Scenic Reflections Ads</div></div> -->
+<!-- <br> -->
+<!-- <center> -->
+<!-- BEGIN STANDARD TAG - 125 x 125 - scenicreflections.com: Run-of-site - DO NOT MODIFY -->
+<!-- <IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=125 HEIGHT=125 SRC="http://ad.xtendmedia.com/st?ad_type=iframe&ad_size=125x125&section=767703" -->
+<!-- </IFRAME> -->
+<!-- END TAG -->
+<!-- <br><br> -->
+<!-- </center> -->			
+<!-- </div> -->
+<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Sorting Options</div></div>
+
+<div class="leftboxlist">
+<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=mr" class="lnav_l">Most Recent</a>
+
+<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=mv" class="lnav_l">Most Viewed</a>
+
+<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=tr" class="lnav_l">Top Rated</a>
+
+<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=rf" class="lnav_l">Recently Featured</a>
+
+<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=rv" class="lnav_l">Recently Viewed</a>
+
+<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=ran" class="lnav_l">Random</a></div></div>
+
+
+
+
+<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Browse Media</div></div>
+<div class="leftboxlist">
+<a href="http://www.scenicreflections.com/c/All/" class="lnav_l"><b>All Media</b></a>
+<a href="http://www.scenicreflections.com/c/637/Free_Animated_Wallpapers/" class="lnav_l"> Free Animated Wallpapers</a><a href="http://www.scenicreflections.com/c/6503/Free_Cool_Quizzes/" class="lnav_l"> Free Cool Quizzes</a><a href="http://www.scenicreflections.com/c/302/Free_eCards/" class="lnav_l"> Free eCards</a><a href="http://www.scenicreflections.com/c/1/Free_Photo_Wallpapers/" class="lnav_l"> Free Photo Wallpapers</a><a href="http://www.scenicreflections.com/" class="lnav_l"> <b>Free Screensavers</b></a><a href="http://www.scenicreflections.com/c/22/3D/" class="lnav_l">- 3D</a><a href="http://www.scenicreflections.com/c/29/Animal_World/" class="lnav_l">- Animal World</a><a href="http://www.scenicreflections.com/c/275/Architecture/" class="lnav_l">- Architecture</a><a href="http://www.scenicreflections.com/c/42/Art/" class="lnav_l">- Art</a><a href="http://www.scenicreflections.com/c/6891/Calendar_Screensavers/" class="lnav_l">- Calendar Screensavers</a><a href="http://www.scenicreflections.com/c/43/Calendars/" class="lnav_l">- Calendars</a><a href="http://www.scenicreflections.com/c/44/Celebrities/" class="lnav_l">- Celebrities</a><a href="http://www.scenicreflections.com/c/264/Clocks/" class="lnav_l">- Clocks</a><a href="http://www.scenicreflections.com/c/45/Culture/" class="lnav_l">- Culture</a><a href="http://www.scenicreflections.com/c/633/Games/" class="lnav_l">- Games</a><a href="http://www.scenicreflections.com/c/47/Holidays/" class="lnav_l">- Holidays</a><a href="http://www.scenicreflections.com/c/48/Inspirational/" class="lnav_l">- Inspirational</a><a href="http://www.scenicreflections.com/c/49/Interactive/" class="lnav_l">- Interactive</a><a href="http://www.scenicreflections.com/c/50/Kids/" class="lnav_l">- Kids</a><a href="http://www.scenicreflections.com/c/751/Life_&amp;_Leisure/" class="lnav_l">- Life &amp; Leisure</a><a href="http://www.scenicreflections.com/c/51/Love_&amp;_Romance/" class="lnav_l">- Love &amp; Romance</a><a href="http://www.scenicreflections.com/c/53/Movies/" class="lnav_l">- Movies</a><a href="http://www.scenicreflections.com/c/54/Music/" class="lnav_l">- Music</a><a href="http://www.scenicreflections.com/c/55/Nature/" class="lnav_l">- Nature</a><a href="http://www.scenicreflections.com/c/752/Popular/" class="lnav_l">- Popular</a><a href="http://www.scenicreflections.com/c/56/Religious/" class="lnav_l">- Religious</a><a href="http://www.scenicreflections.com/c/57/Seasons/" class="lnav_l">- Seasons</a><a href="http://www.scenicreflections.com/c/58/Sights_and_Scenes/" class="lnav_l">- Sights and Scenes</a><a href="http://www.scenicreflections.com/c/5810/Space/" class="lnav_l">- Space</a><a href="http://www.scenicreflections.com/c/59/Specialty/" class="lnav_l">- Specialty</a><a href="http://www.scenicreflections.com/c/60/Sports/" class="lnav_l">- Sports</a><a href="http://www.scenicreflections.com/c/753/Thoughts_&amp;_Quotes/" class="lnav_l">- Thoughts &amp; Quotes</a><a href="http://www.scenicreflections.com/c/61/Transportation/" class="lnav_l">- Transportation</a><a href="http://www.scenicreflections.com/c/62/TV/" class="lnav_l">- TV</a><a href="http://www.scenicreflections.com/c/46/Video_Games/" class="lnav_l">- Video Games</a><a href="http://www.scenicreflections.com/c/9775/Free_Web_Games/" class="lnav_l"> Free Web Games</a>
+<a href="http://www.scenicreflections.com/videos/" class="lnav_l">Videos</a>
+</div>
+</div>
+
+
+<!-- <div id="leftbox1"> -->
+<!-- <div class="blueheading"> -->
+<!-- <div class="blueheadingtext">Featured -->
+<!-- </div> -->
+<!-- </div> -->
+<!-- <div class="leftfeaturedbox"> -->
+<!--  -->
+<!-- <div class="featuredimagebox"> -->
+<!-- <div class="featuredimage"><a href="http://www.scenicreflections.com/media/111768/Clock_Tower_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Tower Clock.jpg" title="The free Tower Clock 3D Animated Screensaver by Scenic Reflections offers you the perfect view of a real-time tower clock on a quiet street in a country town. It`s like a scene right out of the Middle Ages. Watch the day turn to night and the night back to day in real time! The tower clock is ticking and tells the current, real time on your computer! There`s a prompt at 12.00 p.m., and a knoll can be heard over the houses’ roofs. The tower bell informs the residents when it is noontime. The doves fly about as usual, weaving nests, and do not seem to care about the time as it goes by. Download and install the free Tower Clock 3D Animated Screensaver today and open yourself up to the world where there is no big city fuss and all is calm and peaceful. And now you can optionally add your own music tracks to help enhance the screensaver even further." /></a></div> -->
+<!-- <div class="featuredimagetext"><a href="http://www.scenicreflections.com/media/111768/Clock_Tower_3D_Screensaver/"> -->
+<!-- <b>Clock Tower 3D Screensaver</b></a></div></div> -->
+<!-- <div class="featuredimagebox"> -->
+<!-- <div class="featuredimage"><a href="http://www.scenicreflections.com/media/111791/Mystery_Forest_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Mystery Forest.jpg" title="The free Mystery Forest 3D Animated Screensaver by Scenic Reflections will amaze you with fine details. Fluttering butterflies dance about and one rests on a leaf. Hover your mouse over it and it takes off. During the day, a blue sky bursts through the trees. As your day turns to night, so does the screensaver - in real time! And as morning approaches, your screensaver slowly turns back to day time. Amazing!! Enjoy the sights and sounds of nature`s beauty in this calm place that is the forest. And now you can optionally add your own music and sound tracks to help enhance the screensaver even further." /></a></div> -->
+<!-- <div class="featuredimagetext"><a href="http://www.scenicreflections.com/media/111791/Mystery_Forest_3D_Screensaver/"> -->
+<!-- <b>Mystery Forest 3D Screensaver</b></a></div></div> -->
+<!-- <div class="featuredimagebox"> -->
+<!-- <div class="featuredimage"><a href="http://www.scenicreflections.com/media/40197/East_Coast_Lighthouses_Scenic_Reflections_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/east-coast-lighthouses-screensaver.jpg" title="The Free East Coast Lighthouses Screensaver displays 65 beautiful and calming images of East Coast Lighthouses - some of the most beautiful lighthouse images you may ever see. This free lighthouse screensaver also features three beautiful, full-length, CD-quality musical compositions. Download the Free East Coast Lighthouses Scenic Reflections Screensaver today and enjoy the beauty! " /></a></div> -->
+<!-- <div class="featuredimagetext"><a href="http://www.scenicreflections.com/media/40197/East_Coast_Lighthouses_Scenic_Reflections_Screensaver/"> -->
+<!-- <b>East Coast Lighthouses Scenic Reflections Screensaver</b></a></div></div> -->
+<!-- <div class="featuredimagebox"> -->
+<!-- <div class="featuredimage"><a href="http://www.scenicreflections.com/media/111955/Living_Waterfalls_3D_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/livingwaterfalls.jpg" title="The Free 3D Living Waterfalls 2 Screensaver is a delightful journey deep inside the heart of a forest with the central focus being a breathtaking waterfall. Watch the photographic background as it is enhanced by several animated creatures including fish, squirrels, butterflies and dragonflies. The mood is completed with comforting, soothing music. This free waterfall screensaver features 3 scenes total. Download now and enjoy the sights and sounds!" /></a></div> -->
+<!-- <div class="featuredimagetext"><a href="http://www.scenicreflections.com/media/111955/Living_Waterfalls_3D_Screensaver/"> -->
+<!-- <b>Living Waterfalls 3D Screensaver</b></a></div></div></div></div> -->
+
+
+<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Become A Facebook Fan!</div></div>	
+<br>
+<iframe src="http://www.facebook.com/plugins/likebox.php?id=145766767157&amp;width=190&amp;connections=6&amp;stream=false&amp;header=false&amp;height=305" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:190px; height:305px;" allowtransparency="true"></iframe><br><br>
+<div style="font-size:8px; padding-left:8px" width="190"><a href="http://www.facebook.com/freescreensavers" target="_blank"><font size="1">Scenic Reflections on Facebook!</font></a></div>
+<div style="font-size:8px; padding-left:8px"><a href="http://www.facebook.com/freescreensavers" target="_blank"><font size="1"></font></a></div>
+<br>				
+</div>
+
+
+<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Follow Us!</div></div>			
+<br>
+<!-- <script type="text/javascript" src="http://static.ak.connect.facebook.com/connect.php/en_US"></script> -->
+<!-- <script type="text/javascript">FB.init("dcd6c124b258c34c605991a0783bb7b1");</script> -->
+<!-- <fb:fan profile_id="145766767157" stream="0" connections="6" logobar="0" width="190" height="305">
+</fb:fan> -->
+<!-- <br> -->
+<table width="190" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td><div style="font-size:8px; padding-left:3px"> 
+      <div align="center"><a href="http://www.facebook.com/freescreensavers" target="_blank"><font size="1"><img src="http://www.scenicreflections.com/images/facebook_icon1.png"></font></a></div>
+    </div></td>
+    <td><div style="font-size:8px; padding-right:3px">
+      <div align="center"><a href="http://www.twitter.com/screensaverguy" target="_blank"><img src="http://www.scenicreflections.com/images/twitter_icon1.png" alt="Follow screensaverguy on Twitter"></a>      </div>
+    </div></td>
+  </tr>
+</tbody></table>
+<br>				
+</div>
+
+
+
+
+<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Tell A Friend!</div></div>
+<div class="leftinnerbox">
+<div class="featuredimage">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style" style="margin: 0 auto; width: 170px;">
+<div class="addthis_custom_images">
+<a class="addthis_button_email"><img src="http://www.scenicreflections.com/images/tellafriend.gif"></a>
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=desktopfun"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=desktopfun">
+var addthis_test0309 = false;
+var addthis_brand = "ScenicReflections";
+</script>
+<!-- AddThis Button END -->
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Share This Page</div></div>
+<div class="leftinnerbox">
+<div class="featuredimage">
+
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">
+var addthis_pub="desktopfun";
+var addthis_test0309 = false;
+var addthis_brand = "ScenicReflections";
+var addthis_options = 'facebook, email, myspace, fark, twitter, digg, google, live, stumbleupon, aim, aolfav, ask, delicious, multiply, myweb, yahoobkm, favorites, more';
+</script>
+<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+<!-- AddThis Button END --> 
+
+</div>
+</div>
+</div>
+
+
+<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Subscribe To Feed</div></div>
+<div class="leftinnerbox">
+<div class="featuredimagetext">
+<p></p><center><a href="http://feeds2.feedburner.com/scenicreflectionsallcontent" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"></a> <a href="http://feeds2.feedburner.com/scenicreflectionsallcontent" rel="alternate" type="application/rss+xml">Subscribe To Our Feed!</a></center><p></p>
+</div>	
+</div>
+</div>
+
+
+
+
+<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Live Help</div></div>		
+<!-- BEGIN LivePerson Button Code -->
+
+<div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center"></td><td align="center"><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/35311086/?cmd=file&amp;file=visitorWantsToChat&amp;site=35311086&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a" target="chat35311086" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/35311086/?cmd=file&amp;file=visitorWantsToChat&amp;site=35311086&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat35311086','width=475,height=400,resizable=yes');return false;"><img name="hcIcon" src="http://server.iad.liveperson.net/hc/35311086/?cmd=repstate&amp;site=35311086&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a&amp;d=1580497909746" style="border: 0px;"></a><script type="text/javascript"> var img=new Image();img.style.border='0';img.name='hcIcon';img.src='http://server.iad.liveperson.net/hc/35311086/?cmd=repstate&site=35311086&channel=web&&ver=1&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/3a'+'&d='+((new Date()).getTime());var par=document.getElementById('_lpChatBtn');if(par!=null){par.appendChild(img);}</script></td> </tr><tr><td> </td><td align="center"><div style="margin-top:5px;"><span style="font-size:10px; font-family:Arial, Helvetica, sans-serif;"><a href="http://solutions.liveperson.com/live-chat" style="text-decoration:none; color:#000" target="_blank"><b>Live Chat</b></a><span style="color:#000"> by </span><a href="http://www.liveperson.com/" style="text-decoration:none; color:#FF9900" target="_blank">LivePerson</a></span></div></td> </tr>  </tbody></table> </div>
+
+<!-- END LivePerson Button code -->
+</div>
+
+
+
+
+
+<!--<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Follow Us On Twitter!</div></div>									
+<br /><center>					
+<a href="http://www.twitter.com/screensaverguy" target="_blank"><img src="http://www.scenicreflections.com/images/twitter_icon1.png" alt="Follow screensaverguy on Twitter"/></a>
+</center><br />				
+</div>-->
+<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Translate</div></div>										<div class="leftinnerbox">
+<center>
+<br>
 <div id="google_translate_element"></div>
 
 <script>
@@ -573,99 +603,38 @@ function googleTranslateElementInit() {
 }
 </script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-					<br>
-					</center>
-				</div>
-		</div>
-		
-		<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Newsletter</div></div>														
-				<div class="leftinnerbox">
-					<form action="http://www.getresponse.com/cgi-bin/add.cgi" method="post" id="GRSubscribeForm" accept-charset="UTF-8">
-					<fieldset>
-					<table width="150" height="75" border="0" align="center" cellpadding="0" cellspacing="0" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px;">
-					<tbody><tr>
-					<td>
-					<label for="GRCategory2">
-					<div align="center"><b>First Name:</b></div>
-					</label>
-					<div align="center">
-						<input type="text" name="category2" size="15" id="GRCategory2">
-					</div>
-					<br>
-					</td>
-					</tr>
-					<tr>
-					<td>
-					<label for="GRCategory3">
-					  <div align="center"><b>Your Email Address:</b></div>
-					</label>
-					   <div align="center">
-						  <input type="text" name="category3" size="15" id="GRCategory3">
-						  </div>
-						</td>
-					
-					</tr>
-					</tbody></table>
-					<center>
-					<br><input type="submit" value="Subscribe!">
-					</center>
-					<input type="hidden" name="category1" value="scenicreflections">
-					<input type="hidden" name="ref" value="000">
-					<input type="hidden" name="getpostdata" value="get">
-					</fieldset>
-					</form>
-					
-					<style>
-					<!--
-					/* form box */
-					#GRSubscribeForm fieldset {
-					width: 150px; 
-					border: 0;
-					}
-					
-					/* comment about GetResponse */
-					#GRSubscribeForm p {
-					font-size: x-small;
-					}
-					
-					/* table used to position form elements */
-					#GRSubscribeForm table {
-					border: 0;
-					}
-					-->
-					</style>
-					
-					<div style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px;">
-						<b>Sign up for the Scenic Reflections Newsletter!</b>
-						<br><br>
-						<i>Receive periodic updates on new listings and holiday reminders!!</i>
-						<br><br>
-						<b>We promise not to fill up your inbox with a bunch of useless junk mail!</b>
-						<br><br>
-						<i>Unsubscribe at any time!</i>
-						<br><br>
-						<a href="http://www.getresponse.com/archive/scenicreflections" target="_blank" class="link"><b>Newsletter Archive</b></a>
-					</div>
-				</div>
-		</div>
-		<div id="leftbox1">
-			<div class="blueheading"><div class="blueheadingtext">Friends</div></div>														
-				
-										<a href="http://www.scenicreflections.com/link_out/338/" class="lnav_m" style="vertical-align:top">Click Here For Your Free Gift!</a>
-										<a href="http://www.scenicreflections.com/link_out/283/" class="lnav_m" style="vertical-align:top">CynthiaMusic.com - Beautiful Piano Instrumentals Featured In Many of Our Screensavers</a>
-										<a href="http://www.scenicreflections.com/link_out/337/" class="lnav_m" style="vertical-align:top">Piano Brothers - Beautiful Piano Music Often Featured in Our Screensavers</a>
-										<div style="text-align:right;"><a href="http://www.scenicreflections.com/list_links/" class="link">View All Friends</a></div>
-					<div style="text-align:right;"><a href="http://www.scenicreflections.com/submit_link/" class="link">Submit Link</a></div>
-				
-		</div>
-		
-		<div class="leftblocktext">
-			<a href="http://www.scenicreflections.com/index.php?view=privacy">Privacy Policy</a><br>
-			<a href="http://www.scenicreflections.com/index.php?view=privacy">Terms of Use</a>
-		</div>
-		
-	</div>
+<br>
+</center>
+</div>
+</div>
+
+
+
+<div id="leftbox1">
+<div class="blueheading"><div class="blueheadingtext">Friends</div></div>
+<!--<a href="http://www.scenicreflections.com/link_out/338/" class='lnav_m' style="vertical-align:top">Click Here For Your Free Gift!</a>-->
+<a href="http://www.yourfreegift.org" class="lnav_m" style="vertical-align:top">Click Here For Your Free Gift!</a>
+<!--<a href="http://www.scenicreflections.com/link_out/283/" class='lnav_m' style="vertical-align:top">CynthiaMusic.com - Beautiful Piano Instrumentals Featured In Many of Our Screensavers</a>-->
+<a href="http://www.cynthiamusic.com" class="lnav_m" style="vertical-align:top">CynthiaMusic.com - Beautiful Piano Instrumentals Featured In Many of Our Screensavers</a>
+<!--<a href="http://www.scenicreflections.com/link_out/337/" class='lnav_m' style="vertical-align:top">Piano Brothers - Beautiful Piano Music Often Featured in Our Screensavers</a>-->
+<a href="http://www.pianobrothers.com/cart/shopaff.asp?affid=319" class="lnav_m" style="vertical-align:top">Piano Brothers - Beautiful Piano Music Often Featured in Our Screensavers</a>
+<div style="text-align:right;"><a href="http://www.scenicreflections.com/list_links/" class="link">View All Friends</a></div>
+<div style="text-align:right;"><!--<a href="http://www.scenicreflections.com/submit_link/" class="link">Submit Link</a>--></div>
+</div>
+
+
+<div class="leftblocktext">
+<a href="http://www.alexa.com/siteinfo/www.ScenicReflections.com">
+<script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.ScenicReflections.com"></script></a>
+<br><br><br>
+<a href="http://www.scenicreflections.com/index.php?view=privacy">Privacy Policy</a><br>
+<a href="http://www.scenicreflections.com/index.php?view=privacy">Terms of Use</a><br>
+<a href="http://www.scenicreflections.com/index.php?view=eula">License Agreement</a><br>
+<a href="http://www.scenicreflections.com/index.php?view=DMCA_Notice">DMCA Notice</a><br>
+</div>
+</div>
+
+
 <!--mid-block-start-->
 <div id="midblock">
 	<div id="midblock_border">
@@ -760,50 +729,109 @@ function googleTranslateElementInit() {
 </div>
 <!--mid-block-end--></div>
 
-											<!--mid-block-end-->
 
-										</div>
 
-<!--footer-block-start-->
+	<!--mid-block-end-->
+
+
+
+   </div>
+
+
+
+						<!--footer-block-start-->
+
+
 
 							<div id="footer">
 
+
+
 							<div class="copyright"><!---DO NOT MODIFY---><!---DO NOT MODIFY---></div>
 
-								<a href="http://www.scenicreflections.com">Home</a> I  <a href="http://www.scenicreflections.com/c/3/Free_Screensavers/">Free Screensavers</a>I<a href="http://www.scenicreflections.com/c/1/Free_Photo_Wallpapers/">Free Photo Wallpapers</a>I<a href="http://www.scenicreflections.com/c/637/Free_Animated_Wallpapers/">Free Animated Wallpapers</a>I<a href="http://www.scenicreflections.com/ecards.php"> Free eCards</a> I <a href="http://www.scenicreflections.com/c/9775/Free_Web_Games/">Free Web Games</a> I <a href="http://www.scenicreflections.com/playfreegames/">Free PC Games</a> I<br>
 
-<a href="http://www.scenicreflections.com/c/6503/Free_Cool_Quizzes/">Cool Quizzes</a> I <a href="http://www.scenicreflections.com/software_store/">Software Store</a> I <a href="http://www.scenicreflections.com/index.php?view=testimonials">Testimonials</a> I <a href="http://www.scenicreflections.com/index.php?view=help">Help</a> | <a href="http://www.scenicreflections.com/index.php?view=Links">Links</a> I <a href="http://www.scenicreflections.com/index.php?view=Articles">Articles</a> I <a href="http://www.scenicreflections.com/rss_feeds/">RSS Feeds</a> I <a href="http://www.scenicreflections.com/index.php?view=privacy">Privacy Policy</a> I <a href="http://www.scenicreflections.com/index.php?view=privacy">Terms of Use</a>
+
+								<a href="http://www.scenicreflections.com">Home</a> I <a href="http://www.scenicreflections.com/c/3/Free_Screensavers/">Free Screensavers</a> I <a href="http://www.scenicreflections.com/c/1/Free_Photo_Wallpapers/">Free Photo Wallpapers</a> I <a href="http://www.scenicreflections.com/c/637/Free_Animated_Wallpapers/">Free Animated Wallpapers</a> I <a href="http://www.scenicreflections.com/c/302/Free_eCards/"> Free eCards</a> I <a href="http://www.scenicreflections.com/c/9775/Free_Web_Games/">Free Web Games</a> I <a href="http://www.scenicreflections.com/playfreegames/">Free PC Games</a> I <a href="http://www.scenicreflections.com/c/6503/Free_Cool_Quizzes/">Cool Quizzes</a>
+
+<br>
+
+<a href="http://www.scenicreflections.com/software_store/">Software Store</a> I <a href="http://scenicreflections.keycodecoupons.com/">Coupons </a> I <a href="http://www.scenicreflections.com/videos/">Videos</a> I <a href="http://www.scenicreflections.com/index.php?view=testimonials">Testimonials</a> I <a href="http://www.scenicreflections.com/index.php?view=help">Help</a> I <a href="http://www.scenicreflections.com/index.php?view=Links">Links</a> I <a href="http://www.scenicreflections.com/index.php?view=Articles">Articles</a> I <a href="http://www.scenicreflections.com/rss_feeds/">RSS Feeds</a> I <a href="http://www.scenicreflections.com/index.php?view=privacy">Privacy Policy</a> I <a href="http://www.scenicreflections.com/index.php?view=privacy">Terms of Use</a> I <a href="http://www.scenicreflections.com/index.php?view=eula">License Agreement</a> I <a href="http://www.scenicreflections.com/index.php?view=DMCA_Notice">DMCA Notice</a>
+
+
+
+
 
 							</div>
 
+
+
 						<!--footer-block-end-->
 
-						
+
+
+						  </div>
+
+
 
 </div>
 
-					</div>
 
-				<!--submain1-end-->
 
-				
+
+
+
+
+		<!--submain1-end-->
+
+
 
 <div class="copyrightblock">© 2009 Bit Wise Publishing, LLC</div>
 
-			</div>
+
+
+</div>
+
+
 
 	<!--main-end-->	
 
+
+
 </center>
+
+
 
 <!--########################################################################################################################################################-->
 
+
+
 <!-- Advanced DHTML Popup Linking start -->
+
+
+
 <!-- Please place just after the <body> tag -->
 
+
+
+
+
+
+
 <script language="JavaScript" src="http://www.scenicreflections.com/dhtmlpopup/SR Popup - 20080909_adplib.js"></script>
+
+
+
 <script language="JavaScript" src="http://www.scenicreflections.com/dhtmlpopup/SR Popup - 20080909.js">
+
+
+
 </script>
+
+
+
+
+
+
 
 <!-- Advanced DHTML Popup Linking End -->
 
@@ -811,12 +839,44 @@ function googleTranslateElementInit() {
 
 
 
+
+
+
+
+
+
 <!-- BEGIN LivePerson Monitor. -->
+
+
+
+
+
+
 
 <script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "35311086",'lpProtocol' : "http"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
 
+
+
+
+
+
+
 <!-- END LivePerson Monitor. -->
 
+
+<!-- Start Quantcast tag -->
+
+<script type="text/javascript">
+_qoptions={
+qacct:"p-a7s1FNogwk3V-"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-a7s1FNogwk3V-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
 
 
 
@@ -833,7 +893,11 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
-<!--########################################################################################################################################################-->
+
+
+
+<script src="http://services.picadmedia.com/js/picad.js" type="text/javascript"></script><script type="text/javascript"> picadService.initialize(); </script>
+
 
 
 
