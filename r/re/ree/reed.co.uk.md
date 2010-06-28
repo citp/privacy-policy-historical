@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215013238id_/http%3A//www.reed.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628190951id_/http%3A//www.reed.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # reed.co.uk - Privacy
 
@@ -48,7 +48,7 @@ Under the Employment Agencies Act, reed.co.uk is obliged to hold your data for 1
 
 **Recruitment process** \- the process of gaining employment and recruiting new staff and the ongoing administrative process involved once a user has gained employment or recruited new staff.
 
-**Reed** \- Reed Executive plc and its subsidiary/associated companies.
+**Reed** \- Reed Online Limited, Reed Executive Limited and their subsidiary companies.
 
 **Sensitive personal data** \- personal data consisting of information as to the racial or ethnic origin of the data subject, political opinions, religious beliefs or other beliefs of a similar nature, membership of a trade union, physical or mental health or condition, sexual life, the commission or alleged commission of any offence or any proceedings related to any offence.
 
