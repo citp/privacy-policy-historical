@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revsci.net privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911113359id_/http%3A//revsci.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revsci.net privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628214539id_/http%3A//revsci.net/privacy.asp) for the most accurate reproduction.*
 
 # Online Advertising Network, Audience Targeting Advertising, Advertising Online Services, Online Ad Revenue : AudienceScience
 
@@ -8,7 +8,7 @@ AudienceScience belongs to and conforms to the standards of the [Network Adverti
 
 In the United Kingdom, AudienceScience conforms to the standards of the [IAB UK Good Practice Principles](http://www.youronlinechoices.co.uk/), which enables consumers to opt out of having their behavior tracked by our technology.
 
-To Opt-out of AudienceScience Targeting Marketplace, please **[click here](http://www.networkadvertising.org/managing/opt_out.asp)** **.**
+To Opt-out of AudienceScience Network™, please **[click here](http://www.networkadvertising.org/managing/opt_out.asp)** **.**
 
 Please feel free to view our Privacy Policy in detail below. If you have questions or concerns regarding our stance on privacy, please e-mail [privacy@audiencescience.com](mailto:privacy@audiencescience.com).
 
@@ -30,13 +30,13 @@ We provide data analysis and audience segmentation services based on information
 
 We also provide targeting advertising services using non-personal information that is gathered across multiple, unaffiliated Web sites that use our network. Much like our data analytic services provided for specific Web sites, we create network segments that are used to serve targeted advertisements and profile users in our network. 
 
-### What Information Do We Collect for Our Clients and How Do We Use It for Our Data Analytics Services?
+### What Information Do We Collect for Our Clients, How Do We Use It for Our Data Analytics Services and How Long Do We Retain the Information?
 
 Our Clients collect information about their customer interactions using cookies, action tags, and other methods. Cookies are small text files that identify your computer. Web site owners use cookies to, among other things, monitor site usage, customize site features, identify a user's computer operating system and browser, and complete transactions. An action tag (also known as a "clear gif" or "Web beacon") is a small, graphic image on a Web page that is designed to allow the site owner or a third party to monitor who is visiting a site by collecting the IP address of the computer that the tag is sent to, the URL of the page the tag comes from, and the time it was viewed. Tags also may be associated with cookie information.
 
 A Client may provide information that it collects, including personally identifiable information, to AudienceScience. We also may collect data on behalf of a Client using tags. Information that we collect and compile directly from users includes "clickstream" data such as behavioral data, IP addresses, log files, and other traffic data. We do not collect any personally identifiable information directly from any user, whether using cookies or action tags. As part of our analytics and segmentation services, we may place a cookie on your browser when you visit the Client's Web site or view an advertisement of the Client.
 
-We use data provided by the Client, as well as data that we collect on behalf of the Client, only to create segments and reports for the Client. Additionally, we make information that we collect for or receive from a particular Client available only to that Client.
+We use data provided by the Client, as well as data that we collect on behalf of the Client, only to create segments and reports for the Client. Additionally, we make information that we collect for or receive from a particular Client available only to that Client. Non-personal information collected by AudienceScience for this purpose is retained for no more than two (2) years.
 
 We may provide our analytic or segmentation services to Clients that are network advertisers or service providers. These Clients may use a process whereby data is collected over time and across the Internet to determine or predict user characteristics, behavior, or preferences typically for use in ad delivery (called "Online Preference Marketing" ["OPM"]). On behalf of and at the direction of an OPM Client, we may collect non-personal information that the Client may use for OPM purposes on behalf of its customers, including advertisers and Web site owners. OPM Clients are responsible for notifying you of these collection practices and making opt-out procedures available (if any).
 
@@ -48,9 +48,9 @@ AudienceScience firmly supports and encourages our Clients to adopt privacy poli
 
 We keep all data that we receive from and store for our Clients strictly confidential. We are contractually obligated to maintain such confidentiality and we hold our vendors and subcontractors to the same standards whenever they provide services related to the Client's information. We do not permit access to the information except as directed by our Client.
 
-### What Information Do We Collect and How Do We Use It for Our Network Advertising Services?
+### What Information Do We Collect; and How Do We Use It for Our Network Advertising Services; and How Long Do We Retain the Information?
 
-Separate from our data analytics services, we provide OPM or network advertising services. For these services, we use a process whereby data is collected over time and across the Internet to determine or predict user characteristics, behavior, or preferences typically for use in ad delivery. Our Web tags, beacons, or cookies may collect non-personal information that may used for OPM purposes on behalf of our customers, including advertisers and Web site owners. Our systems are designed not to collect, process, or store personal information.
+Separate from our data analytics services, we provide Online Preference Marketing (OPM) or network advertising services. For these services, we use a process whereby data is anonymously collected over time and across the Internet to determine or predict user characteristics, behavior, or preferences typically for use in ad delivery. Our Web tags, beacons, or cookies may collect non-personal information that may be used for OPM purposes on behalf of our customers, including advertisers and Web site owners. Our systems are designed not to collect, process, or store personal information. Non-personal information collected by AudienceScience for this purpose is retained for no more than two (2) years. As part of these OPM and network advertising services, we also collect ad delivery and reporting data. This limited type of anonymous, advertising performance data is kept indefinitely.
 
 As part of AudienceScience's commitment to respect privacy concerns and implement industry-recognized standards, AudienceScience is a member of the NAI and the IAB UK Good Practice Principles. AudienceScience complies with the NAI and the IAB UKSelf-Regulatory Principles which are designed to inform consumers about data collection and advertising practices across multiple Web sites and provide the ability to opt out. For more information about OPM and network advertising, please visit the NAI Web site at [www.networkadvertising.org](http://www.networkadvertising.org/) in the US and [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) in the UK.
 
