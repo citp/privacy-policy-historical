@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the scu.edu.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204850id_/http%3A//www.scu.edu.au/wwwadmin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scu.edu.au privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628142111id_/http%3A//www.scu.edu.au/wwwadmin/privacy) for the most accurate reproduction.*
 
 # SCU - Legals | Privacy | Copyright - Privacy Statement for Southern Cross University's Websites
 
 Southern Cross University has created this privacy statement to demonstrate its firm commitment to the protection of privacy and personal information.
 
-If you would like more information on the steps taken by the University to comply with its obligations under the NSW Privacy and Personal Information Protection Act, 1998, and the Health Records and Information Privacy Act, 2002, please refer to the University's Privacy Management Plan.
+If you would like more information on the steps taken by the University to comply with its obligations under the NSW Privacy and Personal Information Protection Act, 1998, and the Health Records and Information Privacy Act, 2002, please refer to the University¿s Privacy Management Plan.
 
-[www.scu.edu.au/policy/privacy](http://www.scu.edu.au/policy/privacy)
+[www.scu.edu.au/privacy](http://www.scu.edu.au/privacy)
 
 By using the website and the related resources, you consent to the terms and conditions and the collection, use and disclosures as provided in the statement.
 
@@ -58,4 +58,4 @@ Lismore NSW 2480 AUSTRALIA
 [ellen.kronen@scu.edu.au](mailto:ellen.kronen@scu.edu.au)  
 [www.scu.edu.au/it](http://www.scu.edu.au/it/)
 
-Updated: 10 October 2008
+Updated: 01 June 2010
