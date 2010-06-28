@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybet.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228003419id_/http%3A//help.skybet.com/article.aspx%3Farticle%3D1157%26p%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybet.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628022936id_/http%3A//help.skybet.com/article.aspx%3Farticle%3D1157%26p%3D5) for the most accurate reproduction.*
 
 # Help & Support
 
