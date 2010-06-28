@@ -1,14 +1,32 @@
-> *The following text is extracted and transformed from the shtyle.fm privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711100914id_/http%3A//www.shtyle.fm/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shtyle.fm privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628205232id_/http%3A//www.shtyle.fm/Privacy.jsp) for the most accurate reproduction.*
 
 # Shtyle.fm : Privacy Policy
 
 **What information do we collect?**
 
+**Information you provide to us:**
+
 We collect information from you when you register on our site or fill out a form. 
 
-When registering on our site, as appropriate, you may be asked to enter your: name and e-mail address. You may, however, visit our site anonymously. 
+When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, gender, and date of birth. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. 
+After registration you can also provide information about yourself like your city of residence, country, colleges, employment etc. 
+
+You can share a variety of content using Shtyle. For example you can upload photos, post videos, send messages to other users, and share news with them. 
+
+You can also import your contacts from other services like email providers in order to invite them, send them gifts, or to find them. If you do not want this information to be stored visit: [this page](https://web.archive.org/contactsrm.do). We do not store the password, in case you have provided it to retrieve your contacts. 
+
+**Information we collect:**
+
+Information from web browser & access device: 
+
+We may collect information from the device and browser you use to access Shtyle.fm, such as the IP address, location, and the pages visited on Shtyle. 
+
+Cookies. 
+
+Shtyle uses cookies to enhance your experience. In particular, cookies are used to confirm that you are logged in to Shtyle and identify you when you return to Shtyle. You can remove or block Shtyle.fm cookies from your browser but this may significantly impact your interaction. 
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 **What do we use your information for?**
 
