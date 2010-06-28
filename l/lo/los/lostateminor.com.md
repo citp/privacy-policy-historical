@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230052559id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostateminor.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629013838id_/http%3A//www.lostateminor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Lost At E Minor: For creative people
+# Privacy policy — Lost At E Minor: For creative people
 
 PERSONAL INFORMATION  
 In order to receive Lost At E Minor we need your email address. We also ask you your name in order to personalise the newsletter. Lost At E Minor will not disclose your email or any personal information to any third party without your consent.
@@ -35,3 +35,16 @@ LEGAL DISCLAIMER
 Lost At E Minor may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on us, our partners, sponsors, investors, or affiliates; (b) protect and defend our rights or property or those of our users; and (c) act as immediately necessary in order to protect the personal safety of our users or the public.
 
 If you have any questions, please contact us [using the form on this page](https://web.archive.org/about/ "Contact us").
+
+### T�rk Porno Video izleme
+
+T�rkiye’de porno ve porno video siteleri geli?mekte, her ge�en g�n yeni siki?  
+videolar? yay?nlanmaktad?r.  
+T�rk milleti abazala?m?? olup, kari k?z sikerken bile video seyretmektedir.  
+S�rekli siki?en insanlar bile  
+porno izleme merak?na tutulmu?tur. Porno bir abazalik de?il, yasam?n par�as? haline  
+gelmi?tir.  
+basta gelen porno video kategorileri: am siki?, liseli , etekli t�rk lezbiyen , killi yarak  
+ve t�rk pornosu.  
+Porno Video izlenebilecek g�zel siteler ise;  
+[porno](http://www.qnetix.com/ "Porno, siki?, sex izle") [porno izle](http://www.xxpornoizle.com/ "porno ve sex videolari izle, seks video seyret, porno filmleri, filmi") [porno izle](http://www.pornosuizle.info/ "porno izle, 62, porno, pornosu izle") [porno izle](http://www.porno-izle.biz/ "porno izle, siki?, adult video") [siki?](http://www.becerme.com/ "siki?, siki? izle, siki? video") olarak listelenebilir. 
