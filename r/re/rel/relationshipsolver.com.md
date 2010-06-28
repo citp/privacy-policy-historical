@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relationshipsolver.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228095230id_/http%3A//relationshipsolver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relationshipsolver.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628220504id_/http%3A//relationshipsolver.com/privacy-policy) for the most accurate reproduction.*
 
-# RelationshipSolver Privacy Policy
+# Privacy Policy
 
 Welcome to Your relationshipsolver.com (the “Site”).
 
@@ -65,6 +65,3 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:**
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-
-  
-
