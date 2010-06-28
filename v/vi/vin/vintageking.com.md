@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090849id_/http%3A//www.vintageking.com/site/files/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628151214id_/http%3A//vintageking.com/site/files/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy  
-Information we collect  
-How we use the information we collect  
-Communications from Vintage King to you  
-How we protect your information  
-Remove your name from our lists anytime  
-Correcting and Updating your information  
-Links to other sites   
-Contact Information  
-
+# Privacy Policy | VintageKing.com
 
 Privacy Policy
 
@@ -49,7 +38,7 @@ Top
 
 Remove your name from our lists anytime
 
-To remove your name from the Vintage King email contact list, login to your account on our website, [www.vintageking.com](http://www.vintageking.com/). Once logged in, go to “[My Account](https://checkout.netsuite.com/app/center/nlvisitor.nl/c.360669/sc.6/.f)” and go to the “Campaign Subscription Center” where you can opt out. When you make subsequent purchases at Vintage King Audio, you may provide contact information for customer service only, and request that your name not be forwarded to either our e-mail contact list.
+To remove your name from the Vintage King email contact list, login to your account on our website, [www.vintageking.com](https://web.archive.org/). Once logged in, go to “[My Account](https://checkout.netsuite.com/app/center/nlvisitor.nl/c.360669/sc.6/.f)” and go to the “Campaign Subscription Center” where you can opt out. When you make subsequent purchases at Vintage King Audio, you may provide contact information for customer service only, and request that your name not be forwarded to either our e-mail contact list.
 
 Top
 
