@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.ca privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205035806id_/http%3A//my.monster.ca/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.ca privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629004845id_/http%3A//my.monster.ca/privacy/default.aspx) for the most accurate reproduction.*
 
 # Find Jobs: Search millions of jobs now | Monster.ca
 
@@ -44,11 +44,11 @@ For more information on how to protect yourself online, click [here](https://web
 
 ## How to Contact Us
 
-You may contact us at [notification@monster.ca](mailto:privacystatement@monster.com) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1-800-MONSTER, or write to us at: 
+You may [contact us](http://my.monster.ca/privacy/EmailForm.aspx) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1-800-MONSTER, or write to us at: 
 
-Monster Canada Worldwide Inc.  
-276 Saint-Jacques Street West  
-10th Floor  
+Privacy Office  
+Monster Worldwide Canada, Inc.  
+276 Saint-Jacques Street West, 10th floor  
 Montreal, Quebec, Canada H2Y 1N3
 
 If your question is not properly addressed, you may contact [TRUSTe for assistance in resolving your issue](https://web.archive.org/privacy/fullstatement.aspx#9).
