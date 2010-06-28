@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226155203id_/http%3A//houseofantiquehardware.com/s.nl/it.I/id.8/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628035312id_/http%3A//houseofantiquehardware.com/s.nl/it.I/id.8/.f) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ Because we gather certain types of information about our users, we feel you shou
 House of Antique Hardware, Inc. gathers two types of information about users: 
 
   * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys: 
-  * Information House of Antique Hardware, Inc. gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs. 
+  * Information House of Antique Hardware, Inc. gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content and our advertising to readers' needs. 
 
 
 
@@ -36,6 +36,10 @@ House of Antique Hardware, Inc. may occasionally conduct user surveys to better 
 4\. Alerts
 
 House of Antique Hardware, Inc. may offer the opportunity to subscribe to an email service that provides product recommendations based on each users purchase history and product interest. This service is by request only and can be terminated at any time. Information used to provide this service is subject to the terms of the "Gather and Track" section of our Privacy Policy.
+
+5\. Product Reviews
+
+House of Antique Hardware, Inc. may use an independent service to gather, moderate and publish customer-written reviews of products on our site. Customer review submissions are voluntary and cannot be materially altered by House of Antique Hardware. Any customer information volunteered in the process of submitting a product review is subject to the House of Antique Hardware Privacy Policy and also protected by the following privacy policy, which you can read [here](http://www.powerreviews.com/legal/privacy_policy).
 
 **Children**
 
