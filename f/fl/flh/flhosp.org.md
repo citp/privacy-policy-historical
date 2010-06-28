@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flhosp.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228095114id_/http%3A//www.floridahospital.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flhosp.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628154107id_/http%3A//www.floridahospital.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Florida Hospital | Orlando's Most Preferred Hospital | Privacy Policy
 
@@ -25,7 +25,7 @@ We collect personally identifiable information when you voluntarily provide it w
 
 Protected Health Information
 
-Protected health information, for purposes of this website, refers to the information you provide when, for example, you pay your health care bills online, make an appointment, or pre-register for a health care service, and is further explained under our Notice of Patient Privacy Practices [ADD LINK]. 
+Protected health information, for purposes of this website, refers to the information you provide when, for example, you pay your health care bills online, make an appointment, or pre-register for a health care service, and is further explained under our [Notice of Patient Privacy Practices](https://web.archive.org/Patients/HIPAANoticeofPatientPrivacyPractices.aspx). 
 
 Cookies
 
@@ -49,7 +49,7 @@ We reserve the right to treat anonymous and personally identifiable information 
 
 Protected Health Information
 
-The use and disclosure of protected health information is governed by the terms and conditions of our Notice of Patient Privacy Practices.[ADD LINK] With respect to use of this website, protected health information may be accessed by our management information services team or an affiliated third party providing technical support or maintenance for us. We reserve the right to treat protected health information collected through this website as an asset which may be transferred to a third party in connection with the merger or sale of Adventist Health System, or a portion of our business.
+The use and disclosure of protected health information is governed by the terms and conditions of our [Notice of Patient Privacy Practices](https://web.archive.org/Patients/HIPAANoticeofPatientPrivacyPractices.aspx).  With respect to use of this website, protected health information may be accessed by our management information services team or an affiliated third party providing technical support or maintenance for us. We reserve the right to treat protected health information collected through this website as an asset which may be transferred to a third party in connection with the merger or sale of Adventist Health System, or a portion of our business.
 
 Membership
 
