@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samedaymusic.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801031015id_/http%3A//www.samedaymusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samedaymusic.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628101633id_/http%3A//www.samedaymusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SameDayMusic.com
 
@@ -108,9 +108,3 @@ The one constant is change. As our business continues to evolve, this Notice and
 This Website contains links to other sites. Please note that Same Day Music is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This Privacy Notice applies only to information collected by this Website. 
 
 * * *
-
-### Recently Viewed:
-
-### Your Interests:
-
-[Copyright](http://www.samedaymusic.com/copyright) ©2009. This site is protected by copyright. There are [terms for its use](http://www.samedaymusic.com/terms). Send us Feedback on our site and your experiences. Our descriptions, pictures, and prices are mostly accurate, but cannot be guaranteed. Cookies should be enabled in your web browser for full site functionality ([details](http://www.samedaymusic.com/privacy#cookie)).
