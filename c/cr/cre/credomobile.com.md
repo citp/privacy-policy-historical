@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credomobile.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212164549id_/http%3A//www.credomobile.com/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credomobile.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628101944id_/http%3A//www.credomobile.com/misc/privacy.aspx) for the most accurate reproduction.*
 
 # CREDO Mobile - Security and Privacy
 
@@ -26,7 +26,6 @@ Working Assets, Inc. and its subsidiaries, including CREDO Mobile, Inc. and CRED
 Customer Service Team  
 101 Market Street, Suite 700   
 San Francisco, California 94105  
-1-877-255-9253  
-[crliaison@workingassets.com](mailto:crliaison@workingassets.com)
 
-Effective November 19, 2009
+
+Effective March 31, 2010
