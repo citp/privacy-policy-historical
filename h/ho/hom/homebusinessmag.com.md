@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the homebusinessmag.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228082125id_/http%3A//www.homebusinessmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinessmag.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628152651id_/http%3A//www.homebusinessmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Business - Home Based Business - Work From Home - MLM - Work At Home - Home Business Magazine Online
 
-**Privacy Policy**   
-Effective from 6th of January 2009 to 7th of January 2010.  
+**Privacy Policy**
+
 Home Business Magazine takes your privacy seriously. Please read the following information to learn more about our privacy practices.
 
   * This policy covers what personally identifiable information Home Business Magazine collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the [http://www.homebusinessmag.com](http://www.homebusinessmag.com/ "http://www.homebusinessmag.com") Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.
@@ -23,7 +23,7 @@ Phone: 800-734-7042
 * * *
 
 **Dispute Resolution**   
-Home Business Magazine is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. 
+Home Business Magazine is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently.
 
 * * *
 
