@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubai.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224221246id_/http%3A//www.dubai.com/booking/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubai.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628041127id_/http%3A//www.dubai.com/booking/privacy_policy) for the most accurate reproduction.*
 
 # Dubai City (UAE) - Local Travel Information and City Guide
 
