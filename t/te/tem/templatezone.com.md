@@ -1,29 +1,54 @@
-> *The following text is extracted and transformed from the templatezone.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229232520id_/http%3A//www.templatezone.com/templatezone-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatezone.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628150147id_/http%3A//www.templatezone.com/templatezone-privacy-policy) for the most accurate reproduction.*
 
-# TemplateZone Online Privacy Policy
+# TemplateZone - 30 Day Money-Back Guarantee & Privacy Policy
 
+TemplateZone - 30 Day Money-Back Guarantee & Privacy Policy 
+
+## Privacy & Legal
+
+We value our customers and strive to offer our customers the best service & purchase experience possible.
+
+| 
+
+### **30-Day Money-Back Guarantee**
+
+If you are not pleased with your purchase for any reason, you are entitled to our 30-day, no-hassle money-back guarantee. Your account will be credited promptly.  
   
+---|---  
+| 
 
+### **Secure Shopping**
 
-TemplateZone is committed to protecting the privacy of our members. In order to provide a safe, secure experience, we make every effort to ensure that the information you give us remains private, and is used only for the purposes described below. TemplateZone is VeriSign secured. 
+This site has password security measures to protect against the loss, misuse and alteration of the information under our control. In addition, no personal information is stored on the site.  
+  
+| 
 
-TemplateZone gathers collective information about members, such as which areas of the site are visited most often and what services are most valued. This aggregated and anonymous data helps us determine how we can create a better overall experience for our members. We may share this aggregated, anonymous information with our partners, so that they too may understand how to best serve our members. 
+**The McAfee SECURE™** trustmark only appears when the website has passed McAfee's intensive, daily security scan. We test for possible personal information access, links to dangerous sites, phishing and other online dangers.  
+  
+| 
+
+**Norton Safe Web** has analyzed TemplateZone.com for safety and security problems.
+
+Norton Safe Search provides a Web site’s safety and shopping rating for all your search results, automatically filters out known risky sites and warns you about sites with potentially dangerous downloads. 
+
+[Click here for more info >](http://safeweb.norton.com/report/show?url=http://www.templatezone.com/ "Norton Safe Web")  
+  
+[](http://www.bbb.org/boston/business-reviews/computer-software-publishers-and-developers/kmt-software-inc-in-cambridge-ma-115969/ "Accredited by the Better Business Bureau") | 
+
+### **Commitment To Our Customers**
+
+TemplateZone is accredited by the **Better Business Bureau** to give you peace of mind when making your purchase.
+
+The Better Business Bureau awarded TemplateZone an A+ rating & determined we meet [accreditation standards](http://boston.bbb.org/Business-Accreditation/ "Better Business Bureau Accreditation Standards") which include a commitment to make a good faith effort to resolve any consumer complaints.   
+  
+### **Your Privacy Is Important to Us**
+
+TemplateZone is committed to protecting the privacy of our members. In order to provide a safe, secure experience, we make every effort to ensure that the information you give us remains private, and is used only for the purposes described below.
+
+TemplateZone gathers collective information about members, such as which areas of the site are visited most often and what services are most valued. This aggregated and anonymous data helps us determine how we can create a better overall experience for our members. We may share this aggregated, anonymous information with our partners, so that they too may understand how to best serve our members.
 
 The TemplateZone registration form requires members to give contact information (such as name and email address). We use this information to contact members when necessary (i.e., to send them product updates and offers), as well as to send members promotional material. To opt-out of receiving promotional emails, see the opt-out section below.
 
-## Security
-
-This site has password security measures to protect against the loss, misuse and alteration of the information under our control. In addition, no personal information is stored on the site.
-
-## Opt-Out
+### **Opt-Out**
 
 TemplateZone provides members with the opportunity to opt-out of receiving communications from our partners and us, as well as to unsubscribe from any of our mailings.
-
-## Contact Information
-
-If you have any questions about our services or privacy statement, please contact:
-
-**TemplateZone Customer Support  
-50 Mount Vernon Street  
-Cambridge MA 02140  
-**
