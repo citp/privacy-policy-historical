@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229190709id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628221820id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Qualys
+# Privacy Policy - Qualys, Inc.
 
 This Privacy Statement Highlights provides a high-level summary of Qualys' entire [Privacy Statement](https://web.archive.org/company/privacy/statement/). Qualys provides these highlights as a convenience to you but should not be considered the fully Privacy Statement of Qualys.
 
