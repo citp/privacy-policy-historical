@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsystemsllc.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175353id_/http%3A//www.smartsystemsllc.com/en/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsystemsllc.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628175945id_/http%3A//smartsystemsllc.com/en/main/privacy) for the most accurate reproduction.*
 
 # Smart Systems - Privacy
 
