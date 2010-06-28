@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231133835id_/http%3A//www.knex.com/About_KNEX/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628140429id_/http%3A//www.knex.com/About_KNEX/privacy_policy.php) for the most accurate reproduction.*
 
 # K'NEX | About K'NEX | K'NEX Privacy Policy
 
@@ -9,6 +9,8 @@ K'NEX offers exceptional play value through building and bringing models to life
 The Parents section of www.knex.com is committed to offering you, the parent, helpful and educational information regarding building sets, K'NEX products and the K'NEX website. This section of the site also offers you the opportunity to enter contests and giveaways, and to enroll for email updates that will inform you of new content and offers recently added to the [Parents](https://web.archive.org/Parents/) and [Catalog](https://web.archive.org/Shop/home.php) sections of the site. 
 
 Please know that any information collected in conjunction with any of these opportunities will be strictly used for only the intention it was collected. Never, in any case, do we sell or distribute information gathered to anyone, nor do we make our mailing lists available to anyone. We might, however, use this information in conjunction with a marketing partner, where we control when and how we use the information. Any information used in this specific manner would be in the categorized and generic format, and not individual names, email addresses, etc.
+
+Note, however, that we may share identified and identifiable information (such as names and email addresses) of those over the age of 18 who have entered a K'NEX website contest, etc., and who have specifically _opted in_ to the sharing of that specific information. 
 
 GENERAL PRIVACY POLICY
 
@@ -46,6 +48,8 @@ Other than that, we will use any personal information you or your child give us 
 • If we need to respond to an e-mail inquiry.
 
 • If your child has entered a K'NEX on-line contest and won, we will need an actual address to send the prize; notification will be sent to the parent's e-mail address.
+
+• We may share identified and identifiable information (such as names and email addresses) of those _over the age of 18_ who have entered a K'NEX website contest, etc., and who have specifically _opted_ in to the sharing of that specific information.
 
 If you or your child sign up to receive K'NEX information or product updates, we will send an e-mail notification to the parent's e-mail address, with instructions on how to remove the child's e-mail address from the e-mail list, if you so wish. The surveys and contests, where we may ask for age and gender of the child, tell us things we would like to know about K'NEX users. This information is valuable in developing products we believe you and your child will like. We're always interested in comments from consumers. We use the generic, categorized data to help guide our marketing; too, so we can be certain advertising and information get to the real K'NEX fans.
 
