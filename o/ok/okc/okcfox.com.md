@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the okcfox.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405160845id_/http%3A//okcfox.com/sections/station/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcfox.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628223437id_/http%3A//www.okcfox.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
-# FOX25
+# WEAR ABC 3 :: Privacy Policy
 
+[](https://web.archive.org/sections/station/advertise/)  
+---  
+  
 **General**
 
 The following privacy policy describes what information is collected by www.okcfox.com (the “Website”) and how that information is used. This privacy policy is effective as of February 7, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time.
@@ -27,3 +30,6 @@ All personal information collected by this Website may be disclosed as required 
 **Linked Sites**
 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
+
+[](https://web.archive.org/sections/station/advertise/)  
+---
