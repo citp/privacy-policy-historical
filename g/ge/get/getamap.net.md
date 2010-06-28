@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getamap.net privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107164506id_/http%3A//www.getamap.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getamap.net privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628201109id_/http%3A//www.getamap.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Confidentiality - Map, Gps, Administration, Flag, Countries, State, Travel, Information.
 
