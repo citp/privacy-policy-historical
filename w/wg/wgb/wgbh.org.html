@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the wgbh.org privacy policy that was archived on 2009-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091105180243id_/http%3A//www.wgbh.org/info/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wgbh.org privacy policy that was archived on 2010-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628230947id_/http%3A//www.wgbh.org/info/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript">_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
 _cf_contextpath="";
 _cf_ajaxscriptsrc="/CFIDE/scripts/ajax";
 _cf_jsonprefix='//';
-_cf_clientid='2CCB1871CFE73052A9667AA0C50B209D';</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
+_cf_clientid='8114AEEF611A083A69990126350ECACC';</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfajax.js"></script>
 
 <script type="text/javascript">
@@ -14,6 +14,7 @@ _cf_clientid='2CCB1871CFE73052A9667AA0C50B209D';</script><script type="text/java
 
 <script type="text/javascript">
 	var _cf_convio=ColdFusion.AjaxProxy.init('/convio.cfc','convioObject');
+	_cf_convio.prototype.subscribewcaiCF=function(email) { return ColdFusion.AjaxProxy.invoke(this, "subscribewcaiCF", {email:email});};
 	_cf_convio.prototype.changePasswordCF=function(USERNAME,PASSWORD,THEFORM) { return ColdFusion.AjaxProxy.invoke(this, "changePasswordCF", {USERNAME:USERNAME,PASSWORD:PASSWORD,THEFORM:THEFORM});};
 	_cf_convio.prototype.validateaccountCF=function(USERNAME,USER_NAME,PASSWORD,THEFORM) { return ColdFusion.AjaxProxy.invoke(this, "validateaccountCF", {USERNAME:USERNAME,USER_NAME:USER_NAME,PASSWORD:PASSWORD,THEFORM:THEFORM});};
 	_cf_convio.prototype.subscribeCF=function(email) { return ColdFusion.AjaxProxy.invoke(this, "subscribeCF", {email:email});};
@@ -22,6 +23,7 @@ _cf_clientid='2CCB1871CFE73052A9667AA0C50B209D';</script><script type="text/java
 <script type="text/javascript">
 	var _cf_comments=ColdFusion.AjaxProxy.init('/comments.cfc','wgbhObject');
 	_cf_comments.prototype.postComment=function(status,programId,comment,membername) { return ColdFusion.AjaxProxy.invoke(this, "postComment", {status:status,programId:programId,comment:comment,membername:membername});};
+	_cf_comments.prototype.postPComment=function(status,pageId,comment,membername) { return ColdFusion.AjaxProxy.invoke(this, "postPComment", {status:status,pageId:pageId,comment:comment,membername:membername});};
 	_cf_comments.prototype.setFavorite=function(programID) { return ColdFusion.AjaxProxy.invoke(this, "setFavorite", {programID:programID});};
 	_cf_comments.prototype.postFComment=function(status,featureId,comment,membername) { return ColdFusion.AjaxProxy.invoke(this, "postFComment", {status:status,featureId:featureId,comment:comment,membername:membername});};
 </script>
@@ -35,6 +37,9 @@ _cf_clientid='2CCB1871CFE73052A9667AA0C50B209D';</script><script type="text/java
 	var _cf_ratings=ColdFusion.AjaxProxy.init('/ratings.cfc','ratingObject');
 	_cf_ratings.prototype.setRating=function(myrating,programId) { return ColdFusion.AjaxProxy.invoke(this, "setRating", {myrating:myrating,programId:programId});};
 </script>
+<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/cfformhistory.js"></script>
 
 <script type="text/javascript">
 	var _cf_AdlobTracking=ColdFusion.AjaxProxy.init('/includes/AdlobTracking.cfc','addTrac');
@@ -50,10 +55,14 @@ _cf_clientid='2CCB1871CFE73052A9667AA0C50B209D';</script><script type="text/java
 <meta name="description" content="">
 <meta name="keywords" content="">
 
-<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" title="default">
+<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen, print" title="default">
 <link rel="icon" type="image/gif" href="/images/WGBH_favicon.gif">
 
 
+
+	<link rel="stylesheet" type="text/css" href="/css/subModal.css">
+	<script type="text/javascript" src="/js/common.js"></script>
+	<script type="text/javascript" src="/js/subModal.js"></script>
 
 
 
@@ -61,47 +70,65 @@ _cf_clientid='2CCB1871CFE73052A9667AA0C50B209D';</script><script type="text/java
 <script src="/js/flash_detect.js" type="text/javascript"></script>
 <script src="/js/mouseover-tracker.js" type="text/javascript"></script>
 
-
-
 <!-- for carousel -->
-
 
 <!-- end for carousel -->
 
-
-
-
-
-    
-
-
-
-    
-
-    
-
-
-
-
  
-    
-
-
-    
-
-    
-
-
-
-
-    
-
-
-
-
-
-
-
+ <style>
+.white_content3 {
+            display: none;
+            position: absolute;
+            top: 115px;
+            left: 140px;
+            width: 702px;
+            height: 462px;
+            padding: 0px;
+            margin 0;
+            background-color: white;
+            overflow: hidden;
+            z-index:9999;
+        }
+.loginOverlay {
+            display: none;
+            position: absolute;
+            top: 115px;
+            left: 200px;
+            width: 584px;
+            height: 400px;
+            padding: 0px;
+            margin 0;
+            background-color: white;
+            color:#000;
+            overflow: hidden;
+            z-index:9999;
+        }
+        .black_overlay{
+            display: none;
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            width: 100%;
+            height: 2000px;
+            background-color: black;
+            -moz-opacity: 0.5;
+            opacity:.50;
+            filter: alpha(opacity=50);
+        }
+        .black_overlay2{
+            background-color: black;
+            -moz-opacity: 0.5;
+            opacity:100;
+            filter: alpha(opacity=50);
+        }
+        .clear_overlay{
+            background-color: none;
+            -moz-opacity: 1;
+            opacity:100;
+            filter: alpha(opacity=0);
+        }
+</style>
+ 
 
 <script>
     // The Callback handler puts text in the window.cfm callback div.
@@ -216,6 +243,41 @@ var returnsubscribe = function(results) {
 
 }
 
+
+
+var subscribewcaivar = false;
+var subscribewcai = function(theForm) {
+	var theForm = document.getElementById(theForm);
+	
+	subscribewcaivar = true;
+	var isError = false;
+
+	var e = new convioObject();
+	e.setCallbackHandler(returnsubscribewcai);
+	e.setErrorHandler(subscribewcaiErrorHandler);
+	e.setForm(theForm);
+	e.setHTTPMethod('POST');
+	e.subscribewcaiCF();
+
+}
+var subscribewcaiErrorHandler = function(statusCode, statusMsg)
+{
+	subscribewcaivar = false;
+	alert('Status: ' + statusCode + ', ' + statusMsg);
+}
+
+var returnsubscribewcai = function(results) {
+
+	subscribewcaivar = false;
+    if (results.ERROR == 1)
+
+	alert(results.MESSAGE);
+
+
+
+
+}
+
 </script>
 <script type="text/javascript">
   // this function determines whether the event is the equivalent of the microsoft
@@ -245,6 +307,23 @@ function restoreBox(divObj1,divObj2,pwObj)
 }
 </script>
 
+<!--[if IE]>
+<style stype="text/css">
+#promoLinks .form-submit {height: 27px;}
+.search .form-submit {height: 27px; margin: 0 0 0 0;}
+.videoHolder a.videoItemA { position: static; background: url(/images/bg_thumb_3.gif) no-repeat; }
+.videoHolder a.videoItemA .corner { display: none; }
+#pm1, #pm2 {display: block;}
+.searchKeyword .form-button { margin-top: 1px; }
+</style>
+<![endif]-->
+
+<!--[if IE 6]>
+<style stype="text/css">
+.midColHome {margin-left:5px;}
+</style>
+<![endif]-->
+
 
 
 <style>
@@ -271,28 +350,33 @@ body.sci, body.def {
 
 </style>
 
-<!--[if IE]>
-<style stype="text/css">
-#promoLinks .form-submit {height: 27px;}
-.search .form-submit {height: 27px; margin: 0 0 0 0;}
-.videoHolder a.videoItemA { position: static; background: url(/images/bg_thumb_3.gif) no-repeat; }
-.videoHolder a.videoItemA .corner { display: none; }
-#pm1, #pm2 {display: block;}
+
+<!-- tooltip -->
+<style type="text/css">
+div#tipDiv {
+    color:#000; font-size:11px; line-height:1.2;
+    background-color:#E1E5F1; border:1px solid #667295;
+    width:210px; padding:4px;
+}
 </style>
-<![endif]-->
+<script src="/js/dw_event.js" type="text/javascript"></script>
+<script src="/js/dw_viewport.js" type="text/javascript"></script>
+<script src="/js/dw_tooltip.js" type="text/javascript"></script>
+<script src="/js/dw_tooltip_aux.js" type="text/javascript"></script>
+<script type="text/javascript">
+// dw_Tooltip.content_vars = {
+ //   L1: 'Some text in the tooltip for link 1',
+  //  L2: 'The tooltip can contain <strong><em>Rich HTML</em></strong>'
+// }
+</script>
+<!-- /tooltip -->
 
-<!--[if IE 6]>
-<style stype="text/css">
-.midColHome {margin-left:5px;}
-</style>
-<![endif]-->
 
-
-
+<script type="text/javascript">
+	ColdFusion.Ajax.importTag('CFFORM');
+</script>
 </head>
-<body id="pageBody" class="def"><span></span>
-
-
+<body id="pageBody" class="def" onload="WGBHpageTracker._setVar('G');IMApageTracker._setVar('G');"><span></span>
 <!-- begin Google Analytics Tracking code -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -310,7 +394,6 @@ IMApageTracker._setDomainName("none");
 IMApageTracker._setAllowLinker(true);
 IMApageTracker._initData();
 IMApageTracker._trackPageview();
-
 </script>
 <!-- end Google Analytics Tracking code -->
 
@@ -318,23 +401,24 @@ IMApageTracker._trackPageview();
 <div id="forHome">
 
 
-
  <div id="wrap"> <!-- ends in footer.cfm -->
 
  
- <div id="fade" class="black_overlay" style="z-index:3000;"></div>
+ <div id="fade" class="black_overlay" style="z-index:3000;"></div> 
 
  	<div id="header" style="position:relative;z-index:500;">
-    	<div class="top">
+    	        <div class="top">
         	<div class="left">
                 <form style="display:inline;" name="subscribeForm" id="subscribeForm" onsubmit="subscribe('subscribeForm');return false;" method="post">
                 <input type="hidden" name="theform" id="theform" value="subscribeForm">
                 <table cellspacing="0" cellpadding="0">
                     <tbody><tr>
                         <td>
+                        <span id="headerAuthLine">
                         
                     		<a href="javascript: void(0);" onclick="document.getElementById('logBox').style.display='block';">Sign in</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/support/register.cfm">Register</a>
         				
+        				</span>
                         </td>
                         <td><span>&nbsp;|&nbsp;</span><a href="/support/become_a_member.cfm">Become a member</a><span>&nbsp;|&nbsp;</span></td>
                         <td>
@@ -386,6 +470,7 @@ IMApageTracker._trackPageview();
 				<input type="hidden" name="method" value="login">
 				<input type="hidden" name="sign_redirects" value="true">
 				<input type="hidden" name="remember_me" value="1">
+				        
 				<input type="hidden" name="success_redirect" value="http://www.wgbh.org/info/privacy.cfm?cons_id=${loginResponse/cons_id}">
 				<input type="hidden" name="error_redirect" value="http://www.wgbh.org/support/login.cfm?code=${errorResponse/code}&amp;message=${errorResponse/message}">
 			  
@@ -401,7 +486,6 @@ IMApageTracker._trackPageview();
                 </tbody></table>
 			</form>
 		</div>
-        
         <div class="mid">
         	<a href="/index.cfm" id="logo"><img src="/images/logo2.gif" alt="WGBH.org"></a>
             <div class="left">
@@ -412,7 +496,32 @@ IMApageTracker._trackPageview();
         <div class="bot"><p>Produced in Boston, shared with the world.</p></div>
 	</div>
     
-	<div id="content"> <!-- ends in footer.cfm -->
+	<div id="content"> <!-- ends in footer.cfm --> 
+
+
+	<script type="text/javascript">
+
+	 // Create an instance of the proxy.
+
+	 var recordClick = function(adlobID){
+		 var track = new addTrac();
+		 track.setErrorHandler(myErrorHandler);
+		 track.saveClick(adlobID,'/info/privacy.cfm');
+		 }
+
+
+	// Error handler for the asynchronous functions.
+	var myErrorHandler = function(statusCode, statusMsg)
+		{
+			alert('Status: ' + statusCode + ', ' + statusMsg);
+		}
+
+	</script>
+
+
+	
+
+			
 
 
 <div id="columnLeft" class="left1">
@@ -425,8 +534,6 @@ IMApageTracker._trackPageview();
                         <h1 class="page-header-white">Privacy Policy</h1>
                     </div>
                 
-                
-                    
                         <div class="con1Bg">
                             <p><b>Privacy Policy For WGBH.org Visitors</b></p>
 <p>Thank you for visiting wgbh.org and its associated sub-domains. As an extension of our broadcast mission, we want your visit to wgbh.org to enlighten, inform, and entertain you. We know you don't want the information you provide us shared indiscriminately. Here we explain what information WGBH (and our third-party vendors (collectively “we”) acting on our behalf to help deliver the services and operate and analyze use of the Site), collect, what we do with the information, and what controls you have over the information collected. We're committed to ensuring the privacy of your personally identifiable information, and to protecting your ability to make financial transactions and transmit your personal data with full confidence.</p>
@@ -484,107 +591,28 @@ IMApageTracker._trackPageview();
 <p>Please also make sure to read WGBH.org’s <a href="/info/terms.cfm">Terms of Use</a> to understand the additional terms and conditions which apply to your use of our Site.</p>
                         </div>
                     
-                
-
-                 
             </div>
 
 
 
             
-                
-            
         </div>
-        
-            
-        
-    
-
-
-			
-		    
-
-            
-
-			
-	        
-           	
-
-	
-
-    
-
-
-
-
-
-	<script type="text/javascript">
-
-	 // Create an instance of the proxy.
-
-	 var recordClick = function(adlobID){
-		 var track = new addTrac();
-		 track.setErrorHandler(myErrorHandler);
-		 track.saveClick(adlobID,'/info/privacy.cfm');
-		 }
-
-
-	// Error handler for the asynchronous functions.
-	var myErrorHandler = function(statusCode, statusMsg)
-		{
-			alert('Status: ' + statusCode + ', ' + statusMsg);
-		}
-
-	</script>
-
-
-	
-	
-
-    
-
-    
-    
-    
-    
-    
-
-
-	
-    
-
-	
-    
-
-
-
-
-
-			
-
-
-
-    
         
             <div class="clearfix" style="clear:both;padding-top:10px;">
 
 
 				
-				
-                <a href="http://support.wgbh.org/endgamedvd" onclick="recordClick(146);WGBHpageTracker._trackEvent('Offsite','Clicked','Adlob');"><img class="adLobImage" style="display:block;float:left;padding-right:5px; padding-top:10px;  " src="/imageassets/endgame_dvd_300x250.jpg" alt="Get the Masterpiece Contemporary Endgame DVD" border="0" width="300"></a>
-                <a href="http://www.wgbh.org/support/register.cfm" onclick="recordClick(108);WGBHpageTracker._trackEvent('Offsite','Clicked','Adlob');"><img class="adLobImage" style="display:block;float:left;padding-right:5px;padding-top:10px;" src="/imageassets/my_wgbh_adlob_180x250.gif" alt="My WGBH " border="0" width="180"></a>
-				
+				<a href="/about/studioTours.cfm" onclick="recordClick(85);WGBHpageTracker._trackEvent('Offsite','Clicked','Adlob');"><img class="adLobImage" style="display:block;float:left;padding-right:5px; padding-top:10px;  " src="/imageassets/tour_studios_300x250.jpg" alt="Take a tour of the WGBH studios" border="0" width="300"></a> <a href="http://support.wgbh.org/site/Survey?SURVEY_ID=5560&amp;ACTION_REQUIRED=URI_ACTION_USER_REQUESTS" onclick="recordClick(99);WGBHpageTracker._trackEvent('Offsite','Clicked','Adlob');"><img class="adLobImage" style="display:block;float:left;padding-right:5px;padding-top:10px;" src="/imageassets/car_donation_adlob_180x250.jpg" alt="Donate your car to support WGBH" border="0" width="180"></a> 
 
                 
                 <div style="float:left;width:300px;overflow:hidden;padding-top:10px;">
-                    
- 
+                     
 <!-- begin ad tag 300x250 ad slot size-->
 <script language="JavaScript" type="text/javascript">
 if (typeof dc_tile=='undefined') {dc_tile=1;} else {dc_tile++;}
 if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/p.site147.tmus/general;tile=' + dc_tile +';dcopt=ist;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/p.site147.tmus/general;tile=1;dcopt=ist;sz=300x250;ord=2589080721913876.5?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/p.site147.tmus/general;tile=1;dcopt=ist;sz=300x250;ord=9943683499759212?" type="text/javascript"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/p.site147.tmus/general;sz=300x250;tile=1;ord=123456789?" target="_blank">
 <img src="http://ad.doubleclick.net/ad/p.site147.tmus/general;sz=300x250;tile=1;ord=123456789?" border="0" alt=""></a></noscript>
 <!-- End ad tag 300x250 ad slot size-->
@@ -595,8 +623,14 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 
             </div>
         
-    
-	<div id="footer"><a href="/info/privacy.cfm">Privacy policy</a> <span>|</span> <a href="/info/kidsPolicy.cfm">Kids policy</a> <span>|</span> © 2009 <span>|</span> <a href="/info/media_credits.cfm">Media credits</a> <span>|</span> <a href="/info/terms.cfm">Terms of use</a> <span>|</span> <a href="/info/eCare.cfm">Help</a> <span>|</span> <a href="/about/contact.cfm">Contact</a></div>
+
+<div id="footer">
+    <div style="text-align:center;">&nbsp;<a href="/info/terms.cfm">Privacy and Terms of use</a> <span>|</span> <a href="/info/kidsPolicy.cfm">Kids policy</a> <span>|</span> <a href="/info/commentpolicy.cfm">Comments policy</a> <span>|</span> © 2010 <span>|</span> <a href="/info/media_credits.cfm">Media credits</a> <span>|</span> <a href="/support/index.cfm">Support</a> <span>|</span> <a href="/about/careers.cfm">Careers</a> <span>|</span> <a href="/info/eCare.cfm">Help</a> <span>|</span> <a href="/about/contact.cfm">Contact</a></div>
+
+    <div style="text-align:center;">&nbsp;<a href="/schedule/index.cfm">TV schedule</a> <span>|</span> <a href="/listen/playlist.cfm?guide=1">Radio schedules</a> <span>|</span> <a href="/995/index.cfm">99.5 All Classical</a> <span>|</span> <a href="/897/index.cfm">89.7 WGBH</a> <span>|</span> <a href="/listen/playlist.cfm">Radio playlists</a> <span>|</span> <a href="/programs/index.cfm">TV Programs A-Z</a> <span>|</span> <a href="/support/membership.cfm">Membership</a> <span>|</span> <a href="/info/search.cfm">Search</a> </div>
+</div> 
+
+ 
 </div>
 <div id="columnRight" class="right1">
 
@@ -612,7 +646,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
                 <option value="">Select area of interest</option>
             	<option value="/science/index.cfm">Science</option>
                 <option value="/history/index.cfm">History</option>
-                <option value="/news/index.cfm">News &amp; Public Affairs</option>
+                <option value="/news/wgbhnews.cfm">News &amp; Public Affairs</option>
                 <option value="/musicdrama/index.cfm">Music &amp; Drama</option>
                 <option value="/kids/index.cfm">Kids</option>
                 <option value="/lifeliving/index.cfm">Life &amp; Living</option>
@@ -620,26 +654,9 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
         </div>
     
 
-    
-
 
         <div class="links">
 
-            
-
-    	
-			
-			  
-			
-		   
-			
-
-
-
-    	
-
-
-			  
             
         </div>
     
@@ -647,47 +664,21 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
         <a href="http://www.pbs.org" target="_new" onclick="WGBHpageTracker._trackEvent('Offsite','Clicked','PBS');"><img src="/images/link_1.gif" alt="PBS"></a>&nbsp; &nbsp;
         <a href="http://www.npr.org" target="_new" onclick="WGBHpageTracker._trackEvent('Offsite','Clicked','NPR');"><img src="/images/link_2.gif" alt="NPR"></a>
     </div>
-</div>
-            
-
-             
-				
-                    <a href="http://www.wgbh.org/watch/nationalparks_contest.cfm" onclick="recordClick(135);WGBHpageTracker._trackEvent('Offsite','Clicked','Adlob');" class="ad"><img class="adLobImage" src="/imageassets/win_natl_parks.jpg" alt="National Parks DVD Contest" border="0" width="180"></a><a href="/info/eCare.cfm" onclick="recordClick(104);WGBHpageTracker._trackEvent('Offsite','Clicked','Adlob');" class="ad"><img class="adLobImage" src="/imageassets/help_center_180x250.gif" alt="Visit the Help Center" border="0" width="180"></a><a href="/support/learningtours_nationalparks.cfm" onclick="recordClick(128);WGBHpageTracker._trackEvent('Offsite','Clicked','Adlob');" class="ad"><img class="adLobImage" src="/imageassets/natl_parks_tour_adlob_180x250.jpg" alt="Version 2 National Parks LearningTour" border="0" width="180"></a>
-                
-                
-                    
-                
-            
-
-
-            
-           	    
- 
+</div> <a href="http://www.wgbh.org/support/register.cfm" onclick="recordClick(108);WGBHpageTracker._trackEvent('Offsite','Clicked','Adlob');" class="ad"><img class="adLobImage" src="/imageassets/my_wgbh_adlob_180x250.gif" alt="My WGBH " border="0" width="180"></a><a href="/info/eCare.cfm" onclick="recordClick(104);WGBHpageTracker._trackEvent('Offsite','Clicked','Adlob');" class="ad"><img class="adLobImage" src="/imageassets/help_center_180x250.gif" alt="Visit the Help Center" border="0" width="180"></a><a href="/support/learningtours_berkshires.cfm" onclick="recordClick(382);WGBHpageTracker._trackEvent('Offsite','Clicked','Adlob');" class="ad"><img class="adLobImage" src="/imageassets/berkshires_learningtour_180.jpg" alt="Berkshires 2010 LearningTour" border="0" width="180"></a>  
 <!-- begin ad tag 180x150 ad slot size-->
 <script language="JavaScript" type="text/javascript">
 if (typeof dc_tile=='undefined') {dc_tile=2;} else {dc_tile++;}
 if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/p.site147.tmus/general;tile=' + dc_tile +';sz=180x150;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/p.site147.tmus/general;tile=2;sz=180x150;ord=2589080721913876.5?" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/p.site147.tmus/general;tile=2;sz=180x150;ord=9943683499759212?" type="text/javascript"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/p.site147.tmus/general;sz=180x150;tile=2;ord=123456789?" target="_blank">
 <img src="http://ad.doubleclick.net/ad/p.site147.tmus/general;sz=180x150;tile=2;ord=123456789?" border="0" alt=""></a></noscript>
 <!-- End ad tag 180x150 ad slot size-->
 
 
-            
 
 </div>
-
-
-
-
-
-
-
-	</div> <!-- end content div -->
-
-
-
+    </div> <!-- end content div -->
         <style>
 
 		.splashLeft {
@@ -700,24 +691,25 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 		}
 		</style>
 
-
 		<div id="light2" class="white_content3">
-        
+            
 		</div>
 
-
+        
  </div> <!-- end wrap div -->
 
-
-
 </div> 
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-d9rZqRcDHtMDo"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-d9rZqRcDHtMDo.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
 
 
-
-
-
-
-
-
-
-</body></html>
+ </body></html>
