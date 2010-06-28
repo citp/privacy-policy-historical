@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetness-light.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227181359id_/http%3A//www.sweetness-light.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetness-light.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628030055id_/http%3A//www.sweetness-light.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sweetness & Light
 
@@ -10,7 +10,7 @@
 > 
 > **Posting Comments on Articles**
 > 
-> It is important to remember that when you provide personal information (e.g., last name, address, phone number) in an online post such information is visible to anyone and may be used by someone in a manner unintended by you. For that reason you are discouraged from posting any personal information on this S&L.
+> It is important to remember that when you provide personal information (e.g., last name, address, phone number) in an online post such information is visible to anyone and may be used by someone in a manner unintended by you. For that reason you are discouraged from posting any personal information on this site.
 > 
 > **Cookies**
 > 
