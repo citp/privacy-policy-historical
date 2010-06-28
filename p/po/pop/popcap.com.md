@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the popcap.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215040009id_/http%3A//www.popcap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcap.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628210807id_/http%3A//www.popcap.com/privacy.php) for the most accurate reproduction.*
 
 # PopCap Games - PopCap Privacy Policy
 
-Last updated: September 2009
+Last updated: January 2010
 
 PopCap Games, Inc. is committed to making our website a fun place to visit. We know that you care how information about you is used and shared. And if you're worried about your privacy - or the security of our site - it's hard to have a good time! That's why we work hard to protect your rights.
 
 Please read the following Privacy Policy to understand how we use any information we may collect from you. The Privacy Policy is current as of the effective date set forth above. We reserve the right to change this policy from time to time, so be sure to check back periodically. If the changes we make to our Privacy Policy are significant, we will notify you on our website that our Privacy Policy has been revised.
 
-This Privacy Policy applies to PopCap.com and all websites owned or controlled by PopCap Games, Inc., including the majority of websites operated by subsidiaries or affiliates owned or controlled by PopCap Games, Inc. (the "Sites"). It does not apply to those websites owned or operated by subsidiaries and affiliates of PopCap Games, Inc. who display their own privacy policy. PopCap Games Inc. and its owned or controlled subsidiaries and affiliates to which this Privacy Policy applies may be collectively referred to herein as "PopCap", "we", or "our", as the context requires. 
+This Privacy Policy applies to PopCap.com and all websites owned or controlled by PopCap Games, Inc., including the majority of websites operated by subsidiaries or affiliates owned or controlled by PopCap Games, Inc. (the "Sites"). It does not apply to your use of PopCap’s social networking site applications, which privacy policy may be found [here](http://labs.popcap.com/facebook/bj2/privacy.php), nor does it apply those websites owned or operated by subsidiaries and affiliates of PopCap Games, Inc. who display their own privacy policy. PopCap Games Inc. and its owned or controlled subsidiaries and affiliates to which this Privacy Policy applies may be collectively referred to herein as "PopCap", "we", or "our", as the context requires. 
 
 By visiting any of the Sites, you agree that your personal information will be handled as described in this Privacy Policy, which is incorporated by reference into PopCap’s [Terms of Service](http://www.popcap.com/terms.php).
 
@@ -22,9 +22,9 @@ The information PopCap collects from you helps us personalize and continually im
   * **_Information About Other People:_** On some pages, you can submit information about other people. For example, if you order a gift certificate online and want it sent directly to the recipient, you will need to submit the recipient's name and email address. We use the information you provide about someone else when placing an order only to send the gift certificate and this information may be shared with companies or agents who perform this function on our behalf. We do not otherwise share this information with outside parties.
   
 
-  * **_Information We Collect Automatically:_** We receive and store certain types of information whenever you interact with us. For example, we may automatically send software and other information to your computer and receive non-personally identifiable information from your computer, which we will use to: 1) automatically update (with new features, bug fixes, etc.) our products and services that you have downloaded; 2) perform quality and assurance testing for our products and services; and 3) deliver information about other products and services we offer.   
+  * **_Information We Collect Automatically:_** We receive and store certain types of information whenever you interact with us. For example, we may automatically send software and other information to your computer and receive non-personally identifiable information from your computer, which we will use to: 1) automatically update (with new features, bug fixes, etc.) our products and services that you have downloaded; 2) perform quality and assurance testing for our products and services; and 3) deliver information about other products and services we offer.  
 Like many websites, we also use "cookies," and other automated tools to obtain certain types of information when your Web browser accesses our Sites and through your online interactions with our Sites. Please see the section of this Privacy Policy entitled “What About Cookies” for more information about our use of “cookies”.   
-We may use the information gathered through these methods in anonymous or aggregated form to analyze ways to improve our products and services. In some cases, we may assign a unique anonymous identifier to the PopCap product or service which you have downloaded. By using the non-personally identifiable information that is associated with such identifier, we can personalize your experience, recommend products and services or make special offers to you specifically based on your preferences and usage of our products and services, without personally identifying you. 
+We may use the information gathered through these methods in anonymous or aggregated form to analyze ways to improve our products and services. In some cases, we may assign a unique anonymous identifier to the PopCap product or service which you have downloaded. By using the non-personally identifiable information that is associated with such identifier, we can personalize your experience, recommend products and services or make special offers to you specifically based on your preferences and usage of our products and services, without personally identifying you.
   
 
   * **_E-mail Communications:_** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from our Sites if your computer supports such capabilities. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers, and to comply with best practices and applicable legal authority. If you do not want to receive e-mail or other mail from us, please visit <http://www.popcap.com/unsubscribe.php> or send a written request to the following address:
@@ -84,6 +84,8 @@ Information about our customers is an important part of our business, and we are
   
 
   * **Contractors and Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance (including data concerning marketing and promotional programs), providing search results and links (including paid listings and links), processing credit card payments, providing customer service or for other purposes within the ordinary course of business. These third parties have access to personal information needed to perform their functions on our behalf. We require these companies to agree (1) to provide adequate protections for your personal information that are no less protective than those set out in this Privacy Policy and (2) to use your personal information only for the purposes for which the third party has been engaged by us. We are not liable for the acts or omissions of these third parties, except as provided by applicable law.
+  
+
   * **Promotional Offers; Third Party Advertising; Third Party Sites:** We may send offers to PopCap customers on behalf of other businesses and/or include promotions of third party products and services (with links to third party websites). When we do this, we do not give that business your personal information.
 
 If you do not want to receive such offers, please contact PopCap at [http://www.popcap.com/unsubscribe.php ](http://www.popcap.com/unsubscribe.php). If you respond to such an offer, or if you click on a link that takes you to a third party’s website, you may, at some point, be required to provide personal information to the other business. If so, you will have an opportunity to review that other entity’s privacy policy and decide for yourself whether or not to do business with them. Similarly, third parties that advertise on our site may collect information from you when you navigate away from our site by clicking on another site link or third-party logo.
@@ -127,12 +129,12 @@ While we strive to do business only with other reputable entities, we cannot be 
 
 We will take reasonable steps to ensure that the personal information we collect and store is reliable, accurate, complete and current.
 
-You may access the personal information you have provided us, except where the burden or expense of providing access to you is disproportionate to the risks to your privacy, or where the rights of others may also be violated. To access your information, please send a written request to: 
+You may access the personal information you have provided us, except where the burden or expense of providing access to you is disproportionate to the risks to your privacy, or where the rights of others may also be violated. To access your information, please send a written request to:
 
 PopCap Games  
 Attention: Opt-Out  
 2401 4th Ave, Suite 810  
-Seattle, WA 98121
+Seattle, WA 98121 
 
 
 If the personal information we have about you is inaccurate, you may ask us to correct, amend, or delete your personal information by notifying us at the address above.
@@ -147,6 +149,7 @@ PopCap Games
 Attention: Opt-Out  
 2401 4th Ave, Suite 810  
 Seattle, WA 98121
+  
 
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use such important features as the PopCap store if you do not use cookies.
