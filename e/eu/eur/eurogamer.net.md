@@ -1,31 +1,37 @@
-> *The following text is extracted and transformed from the eurogamer.net privacy policy that was archived on 2003-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030424093314id_/http%3A//eurogamer.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurogamer.net privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628130440id_/http%3A//www.eurogamer.net/privacy-policy.php) for the most accurate reproduction.*
 
-# EuroGamer - serving you a fresh slice of gaming morning, noon and night
+# Eurogamer.net
 
-EuroGamer Privacy Policy
+## Eurogamer will use information collected about you in accordance with the Data Protection Act 1998.
 
-**EuroGamer** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [www.eurogamer.net](http://www.eurogamer.net/). 
+  1. Eurogamer may ask you for certain information and you may submit personal data to Eurogamer.net (such as your name, email address and contact details) when you subscribe or sign up to Eurogamer.net. 
+  2. Eurogamer may also record which parts of Eurogamer.net and services you are interested in as well as user traffic patterns and site use. This information will be kept securely in accordance with an internal security policy and may be used to: 
+    1. process your User Content and your subscription to Eurogamer.net and to enable your use of Eurogamer.net and associated services; 
+    2. open and run your account and provide you with an up to date, efficient and reliable service; 
+    3. administer prize draws; 
+    4. generally run Eurogamer.net;
+    5. send you newsletters and alerts when you sign up for or subscribe to them.
+  3. By subscribing and submitting your data you agree to this use. 
+  4. From time to time Eurogamer also monitor and record telephone calls for training purposes and to improve the service to you. 
+  5. Eurogamer will never collect sensitive information about you without your explicit consent. 
+  6. In accordance with the Data Protection Act 1998, Eurogamer is registered with the Information Commissioner [notification number Z6679757]. 
+  7. If you believe Eurogamer has information about you that you do not want Eurogamer to have or that is incorrect, please contact Eurogamer as described below and Eurogamer shall correct or remove the data as you request as soon as is reasonably practicable. 
+  8. If you have any other concerns over privacy, this privacy policy or this Web Site please contact Eurogamer as described below.
 
-##### Advertisers
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
-##### Personal Information
+## Marketing Communications
 
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. 
+  1. Eurogamer gives you a choice whether or not you want Eurogamer or other reputable companies to contact you about future offers, events and new services or related activities that you may find useful. Eurogamer won't sell or trade personal information to other companies but Eurogamer would like to keep you informed of the developments on Eurogamer.net and certain Content and Eurogamer would like to share data with other reputable companies who may have interesting offers and information for you (inside or outside the EU). 
+  2. Eurogamer will not send you any marketing emails or pass your information on to third parties unless you give your consent or you have given it already.
 
-Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
 
-##### External Links
 
-This site contains links to other sites. **EuroGamer** is not responsible for the privacy practices or the content of such Web sites. 
+## Cookies
 
-##### Public Forums
+  1. Eurogamer uses 'cookies' on Eurogamer.net. Cookies are a way that information such as whether you have visited Eurogamer.net before is recorded on your computer and used by Eurogamer to improve Eurogamer.net and the services available to you. If you do not wish for Eurogamer to use cookies when you use Eurogamer.net please adjust your Internet browser settings to not accept cookies. Your computer's help file should tell you how to do this but please note that this may affect your ability to use Eurogamer.net and the Content. 
+  2. If you don't disable "cookies" Eurogamer.net will ask for and store details including name and email address and may automatically insert certain information on the Content submission forms so that you can use Eurogamer.net with less form filling.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-#### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-
-[contact@eurogamer.net](mailto:contact@eurogamer.net)
+All email and other communications sent by Eurogamer and attachments thereto are intended only for the addressee and/or others authorised to receive them. 
