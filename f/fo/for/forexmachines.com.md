@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forexmachines.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228022427id_/http%3A//www.forexmachines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmachines.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628150724id_/http%3A//www.forexmachines.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Forex Reviews
+# Privacy Policy : Forex Trading Reviews
 
 This site is owned and operated by ForexMachines.com. Your privacy on the Internet is of the utmost importance to us. At ForexMachines.com, we want to make your experience online satisfying and safe.
 
