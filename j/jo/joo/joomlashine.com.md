@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216195850id_/http%3A//www.joomlashine.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D17%26Itemid%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628211911id_/http%3A//www.joomlashine.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D8%26Itemid%3D0) for the most accurate reproduction.*
 
-# Joomla Templates and Joomla 1.5 Templates - Privacy Policy
+# Privacy Policy
 
-In today's world of shared information, We (JoomlaShine) - take great care of protecting your personal information when you are using our Website ([www.joomlashine.com](http://www.joomlashine.com/)) and any products or services provided on the Website. This Privacy Policy details JoomlaShine's policies relating to your personal information. We may periodically update this Privacy Policy. We encourage you to review this Privacy Policy from time to time for any changes.
-
-Please make sure you read following statement till the end. By using our Website or any products or services provided by JoomlaShine, you expressly consent to the use and disclosure of information as described in this Privacy Policy. IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THE WEBSITE OR THE PRODUCTS OR SERVICES OFFERED BY THE WEBSITE.
+This Privacy Policy details JoomlaShine's policies relating to your personal information. Please make sure you read the following statement till the end. By using our Website or any products or services provided by JoomlaShine, you expressly consent to the use and disclosure of information as described in this Privacy Policy. IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THE WEBSITE OR THE PRODUCTS OR SERVICES OFFERED BY THE WEBSITE. We may periodically update this Privacy Policy. We encourage you to review this Privacy Policy from time to time for any changes.
 
 ### We respect your privacy
 
@@ -40,7 +38,7 @@ We and/or our contracted web analytics provider(s) do keep track of the domains 
 
 JoomlaShine will endeavor to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. In addition, our employees and data processors are obliged to respect the confidentiality of any personal information held by us. However, JoomlaShine will not be held responsible for events arising from unauthorized access to your personal information. We encourage you to play an important role in keeping your personal information secure, by maintaining the confidentiality of any passwords and account details used on the Website. 
 
-If you have any questions about the security at our Website, please send an email to [privacy@joomlashine.com.](mailto:privacy@joomlashine.com.)
+If you have any questions about the security at our Website, please send an email to [support@joomlashine.com](mailto:support@joomlashine.com).
 
 ### How do you change/update your information
 
