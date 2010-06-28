@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126023657id_/http%3A//aapt.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628163125id_/http%3A//www.aapt.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -24,7 +24,7 @@ Companies in the private sector, including AAPT are bound by the Privacy Act 198
   * Other websites
   * Website access logs
   * Changes to this Privacy Awareness Policy
-  * Complaints
+  * Privacy Complaints
   * Organisational Details
 
 
@@ -93,7 +93,7 @@ We may tell you about our products and services or bundled offerings via direct 
 
 Unless you tell us that you do not want to receive telemarketing calls from us, we may make telemarketing calls to your telephone numbers, even if your telephone numbers are listed on the National Do Not Call Register.
 
-We may do this during the period you are a customer for AAPT and for a reasonable period after you leave us. You may choose to opt out of receiving direct marketing (including unsolicited telemarketing calls) from us by contacting us at [service@aapt.com.au](mailto:service@aapt.com.au) or by calling 135 005. Business customers can opt out by emailing [information@aapt.com.au](mailto:information@aapt.com.au) and placing `OPT OUT' in the subject line and placing your contact information in the body of the email.  
+We may do this during the period you are a customer for AAPT and for a reasonable period after you leave us. You may choose to opt out of receiving direct marketing (including unsolicited telemarketing calls) from us by contacting us at [optout@aapt.com.au](mailto:optout@aapt.com.au) or by calling 135 005. Business customers can opt out by emailing [information@aapt.com.au](mailto:information@aapt.com.au) and placing `OPT OUT' in the subject line and placing your contact information in the body of the email.  
 
 
 Back to top
@@ -223,7 +223,7 @@ From time to time, it may be necessary for us to review our Privacy Awareness Po
 
 Back to top
 
-### Complaints
+### Privacy Complaints
 
 You can raise any privacy related concern or complaint about breaches of your Privacy in writing or by phone to:
 
@@ -232,9 +232,6 @@ Regulatory
 AAPT Limited   
 GPO Box 7041   
 Sydney NSW 2001
-
-Email Address:   
-[service@aapt.com.au](mailto:service@aapt.com.au)
 
 Back to top
 
@@ -256,7 +253,7 @@ Sydney NSW 2001
 
 Telephone Numbers:
 
-Telephone: (02) 9009 9009   
+Telephone: (02) 8314 1700   
 Fax: (02) 9009 9999
 
 Back to top
