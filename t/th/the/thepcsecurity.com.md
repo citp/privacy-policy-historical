@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepcsecurity.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224212758id_/http%3A//thepcsecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepcsecurity.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628022327id_/http%3A//thepcsecurity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PC Security
+# Privacy Policy
 
 ### We Respect Your Privacy
 
@@ -15,6 +15,8 @@ If you wish to opt out of Advertising companies tracking and tailoring advertise
 Google uses the Doubleclick DART cookie to serve ads across it’s Adsense network and you can get further information regarding the DART cookie at [Doubleclick](http://www.doubleclick.com/privacy/faq.aspx) as well as opt out options at [Google’s Privacy Center](http://www.google.com/privacy_ads.html)
 
 ### RSS Feeds and Email Updates
+
+[](http://webtoolsandtips.com/links.php?go=stopzillaantispyware)
 
 If a user wishes to subscribe to our RSS Feeds or Email Updates (powered by Feedburner), we ask for contact information such as name and email address. Users may opt-out of these communications at any time. Your personal information will never be sold or given to a third party. (You will never be spammed by us – ever).
 
