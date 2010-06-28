@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxitsoftware.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328130703id_/http%3A//www.foxitsoftware.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxitsoftware.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628195021id_/http%3A//www.foxitsoftware.com/privacy.htm) for the most accurate reproduction.*
 
 # Foxit Software
 
@@ -29,7 +29,7 @@ When you visit this site, your visit to each page is recorded in a log file. Thi
 
 We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this from happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-We will never collect sensitive information about you without your explicit consent. We will not pass on your details to third parties. We will not e-mail you in the future unless you have given us your consent.
+We will never collect sensitive information about you without your explicit consent. We will not pass on your details to third parties. 
 
 We do not use single-pixel gifs (also known as 'Web Bugs') to obtain information about visitors to the web site.
 
