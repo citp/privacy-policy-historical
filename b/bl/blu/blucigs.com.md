@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213105607id_/http%3A//www.blucigs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blucigs.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628225751id_/http%3A//www.blucigs.com/privacy-policy) for the most accurate reproduction.*
 
-# Electronic Cigarette by Blu E-Cigarette - Privacy
+# Electronic Cigarette by blu E Cigarette - Privacy Policy
 
-## **blu** privacy policy.
+### Privacy Policy
 
 **blu** has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering practices for all of **blu** websites.
 
@@ -22,7 +22,7 @@ Customer Service Department: 1.888.207.4588
 
 **blu** uses session cookies to make it easier for you to navigate our site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. For more information on cookies click here.
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. For more information on cookies click here.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
@@ -72,7 +72,7 @@ Like many web sites, we collect and analyze standard log file information and Se
 
 **blu** reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site.
 
-The **blu** web site(s) contains links to other sites. **blu** is not responsible for the privacy practices or the content of such web sites. Our site uses a secure online ordering system that enables clients to purchase products online. **blu** collects users financial information, such as account and credit card numbers, for verification purposes only. Financial information that is collected is used to bill the user for products and services, and never for any other reason.
+The **blu** web site(s) contains links to other sites. **blu** is not responsible for the privacy practices or the content of such web sites. Our site uses a secure online ordering system that enables clients to purchase products online. **blu** collects users' financial information, such as account and credit card numbers, for verification purposes only. Financial information that is collected is used to bill the user for products and services, and never for any other reason.
 
 ### Security
 
