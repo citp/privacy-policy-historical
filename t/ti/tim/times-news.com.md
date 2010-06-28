@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217154440id_/http%3A//www.times-news.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628150140id_/http%3A//times-news.com/privacy) for the most accurate reproduction.*
 
-# Cumberland Times-News - Homepage
+# Inside index
 
 ## Effective
 
