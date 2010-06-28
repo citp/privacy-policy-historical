@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623045920id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628113001id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
 
 # AmericanGreetings.com Privacy Policy
 
-Last Revised: April 22, 2008
+Last Revised: August 25, 2009
 
 ## GENERAL MATTERS
 
@@ -80,7 +80,7 @@ AG reserves the right to communicate with you from time to time about important 
 
 ### Information Gathered From Members
 
-If you elect to purchase a Membership on AG, you will be required to provide us with certain personal information, including your name, e-mail address, phone number, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.
+If you elect to purchase a Membership or redeem a promotional membership on AG, you may be required to provide us with certain personal information, including your name, e-mail address, phone number, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.
 
 Additional data may be collected from Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of ecards you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for AG Reminders, which are e-mail alerts to track important dates and occasions they specify. The AG address book feature allows Members to store addresses of friends and family in order to make sending an ecard even easier. AG Membership allows you to store ecards for future delivery, bookmark favorite ecards, and save ecards received in an online scrapbook. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership.
 
@@ -161,7 +161,7 @@ We are committed to protecting the privacy and rights of children online. We bel
 
 Because we know that our AOL-Kidzonks site is frequented by children, we do not collect individually identifiable information from users of that service. When children send ecards from that site, we only maintain their e-mail address long enough to send and have the recipient view the card. After that, all personally identifiable information relating to the transaction is deleted from our system. We only communicate with children once during the card sending process -- to tell them that their ecard has been picked up.
 
-The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children. To learn more about COPPA, [click here](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for the Federal Trade Commission COPPA Web Site.
+The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children. To learn more about COPPA, [click here](http://www.ftc.gov/ogc/coppa1.htm) for the Federal Trade Commission COPPA Web Site.
 
 ### Contests and Promotions
 
