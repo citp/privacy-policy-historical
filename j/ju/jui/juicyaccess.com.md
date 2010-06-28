@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicyaccess.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220151258id_/http%3A//www.juicyaccess.com/privacyPolicy.do%3Fuid%3D0%26a1%3D0%26a2%3D0%26a3%3D0%26a4%3D0%26a5%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicyaccess.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628211309id_/http%3A//www.juicyaccess.com/privacyPolicy.do%3Fuid%3D0%26a1%3D0%26a2%3D0%26a3%3D0%26a4%3D0%26a5%3D0) for the most accurate reproduction.*
 
 # DesktopSmiley.com - Desktop Smiley with 10,000 Free emoticons and Smileys for your E-mail, IM, Blog, Profiles and more!
 
