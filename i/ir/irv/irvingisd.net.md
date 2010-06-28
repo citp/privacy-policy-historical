@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irvingisd.net privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428214745id_/http%3A//www.irvingisd.net/PrivacyNotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irvingisd.net privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628230041id_/http%3A//www.irvingisd.net/PrivacyNotice.htm) for the most accurate reproduction.*
 
 # Privacy Notice (Records and Data Confidentiality Agreement) - Irving ISD - Irving, Texas
 
@@ -34,4 +34,5 @@ Privacy Notice for the Irving ISD Website
 
 **How To Contact Us**
 
-> Should you have other questions or concerns about these privacy policies, please call us at 972-215-5000 or send us an email at  [WebMaster@irvingisd.net](mailto:WebMaster@irvingisd.net). 
+> Should you have other questions or concerns about these privacy policies, please call us at 972-600-5000 or send us an email at  [WebMaster@irvingisd.net](mailto:WebMaster@irvingisd.net).   
+>   
