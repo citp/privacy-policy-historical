@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601015248id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629013359id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
 
 # Catalogs.com Privacy Policy
 
@@ -9,6 +9,8 @@ We at Catalogs.com are firmly committed to protecting your privacy.  We respect
 By viewing our website, we do not collect any personal information about you.  Should you request to receive a catalog, newsletter or savings certificate from our website, we will ask that you voluntarily provide us with certain information about yourself (collectively, your personal information). Your personal information is comprised of the information that you voluntarily fill in on our order form and your Internet Protocol (IP) address. 
 
 **_How Do You Use My Personal Information?_**
+
+Except as stated below, we DO NOT share your personal information nor use it for list rental purposes. 
 
 When you order a catalog, newsletter, magazine or savings certificate through our website, your personal information is provided only to the company(s) from which you ordered.   This helps ensure that your order is processed correctly and timely delivered.
 
@@ -26,7 +28,7 @@ When you order a catalog, newsletter, magazine or savings certificate through ou
 
 Our website provides you with the opportunity to decline or opt-out of receiving information on new products, services, special offers and upcoming events from Catalogs.com.  To opt-out, please visit the following URL: 
 
-[ http://www.catalogs.com/unsubscribe.asp](https://web.archive.org/web/20090601015248id_/http%3A//www.catalogs.com/unsubscribe.asp)
+[ http://www.catalogs.com/unsubscribe.asp](https://web.archive.org/web/20100629013359id_/http%3A//www.catalogs.com/unsubscribe.asp)
 
 **_How Do I Update My Personal Information?_**
 
