@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiforums.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226164909id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DAudiForums.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiforums.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628052648id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DAudiForums.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
