@@ -1,51 +1,59 @@
-> *The following text is extracted and transformed from the motocross.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331053946id_/http%3A//www.motocross.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motocross.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629011004id_/http%3A//www.grindtv.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# GrindTV.com Privacy Policy
 
-We believe your privacy is important. This Privacy Notice explains how we handle information about our users so that you can make an informed decision about whether to use our site. Please read it carefully and visit this page from time to time to check for updates. 
+### General
 
-This Privacy Notice is incorporated into and is subject to our Terms of Use. Content posted on our site is published content and is not subject to this Privacy Notice. 
+#### GrindTV.com collects personal information when you register with or subscribe to GrindTV.com, when you use GrindTV.com services, when you visit GrindTV.com pages or the pages of certain GrindTV.com partners, and when you enter promotions or sweepstakes. GrindTV.com may combine information about you that we have with information we obtain from business partners or other companies. 
 
-Information Provided by You. When you participate in certain activities on our site, you will be asked to provide certain personally identifiable information such as your name or email address. 
+When you register we may ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register with GrindTV.com and sign in to our services, you are not anonymous to us. 
 
-Information Provided by Cookies: When you visit our site we may send a small text file to your computer that uniquely identifies your browser. This file is commonly called a cookie and it may be stored on your computer and accessed whenever you visit our site. Cookies can be rejected or removed by most browsers, but you may not be able to use all the features of our site if you reject or remove cookies. 
+GrindTV.com collects information about your transactions with us and with some of our business partners. 
 
-Information Collected in Log Files: Our servers automatically record log files that contain a variety of information sent by your browser when you access our site. Information collected in these log files may include details about your requests, your hardware, your IP address, your software, page views, time on certain activities, cookies, etc. 
+GrindTV.com automatically receives and records information on our server logs from your browser, including your IP address, GrindTV.com cookie information, and the pages of videos you request. 
 
-Information Provided by Web Beacons: Our servers may also set web beacons on web pages that you view. A web beacon (sometimes called a clear GIF) is a small file placed on a web page that allows a web site to count users who have viewed that page or to access cookies. Web beacons and cookies allow us to personalize your experience and/or gather anonymous information for auditing and reporting purposes. 
+GrindTV.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
-Note: We do not knowingly collect any information from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 please do not use or access our site. 
+### Information Sharing and Disclosure
 
-Any content that you voluntarily disclose online is publicly available and can be collected, used, and redistributed by others via the internet or any other media outlet. 
+#### GrindTV.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-We may use your email address and other personally identifiable information to contact you for site administrative purposes and to operate and maintain various features on our site. We will not use personally identifiable information to send you commercial solicitations or other marketing messages without your consent. 
+We provide the information to trusted partners who work on behalf of or with GrindTV.com under confidentiality agreements. These companies may use your personal information to help GrindTV.com communicate with you about offers from GrindTV.com and our marketing partners. However, these companies do not have any independent right to share this information. 
 
-We use all of the information we collect to improve our services and to create new features, promotions, and functionality by tracking and analyzing your preferences and usage of the site. We use cookies and web beacons to identify you when you visit our site and to personalize the experience based on your usage and preferences. 
+We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
 
-We may provide both personally identifiable information and non-personally identifiable information to our subsidiaries, affiliated companies, or other businesses or persons who provide services to us. We require such third-parties to agree to handle the information consistent with our own practices and we use reasonable confidentiality and security measures to insure compliance with these requirements. 
+We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of GrindTV.com's terms of use, or as otherwise required by law. 
 
-We will not provide your personally identifiable information to unrelated third parties without your consent, or except as part of a specific program or feature which you have opted to participate in or use. 
+We transfer information about you if GrindTV.com is acquired by or merged with another company. In this event, GrindTV.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
-We may share non-personally identifiable information with third-parties for use in understanding demographics and usage patterns for our site, and in connection with various advertising and promotions. 
+GrindTV.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, men ages 18-24 from a particular geographic area. 
 
-We may share your personally identifiable information and non-personally identifiable information as required by law, to respond to a court order, subpoena, search warrant, or other administrative process, or based on our good-faith belief that disclosure is otherwise required. This includes disclosures necessary to enforce our Terms of Service, protect against liability, investigate or defend against third-party claims, assist government enforcement agencies, and to protect our site and the rights of our users. 
+GrindTV.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
 
-You can choose not to submit personally identifiable information to us, and you can set certain preferences on your computer that will limit the nature and/or amount of non-personally identifiable information that we collect by visiting your account profile page. 
+GrindTV.com advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
 
-Third-party advertising services that serve advertisements on our site may also collect information subject to their own privacy policies and terms of service. We do not control what information these third-parties collect or how they use such information. We do not provide any personally identifiable information to such third-parties without your consent. You should consult their respective privacy policies and terms of service for more information regarding their practices. We currently have relationships with the following third-party ad servers or advertising networks: 
+GrindTV.com works with vendors, partners, advertisers, and other service providers in different industries and categories of business. 
 
-Atlas DMT  
-Accipiter Ad Manager  
-Unicast Viewpoint 
+### Cookies
 
-While we use commercially reasonable efforts to protect the security of all of the data we collect, we cannot warrant the security of any information you provide to us. If we learn of a security breach, we may try to notify you and/or post a notice on our site. Certain locations provide a legal right to notification of a security breach. If you wish to receive written notice of any security breaches, please notify us at the following address, [privacyquestions@sportnet.com](mailto:privacyquestions@sportnet.com)
+####  GrindTV.com may set and access GrindTV.com cookies on your computer. 
 
-This site is hosted in and directed to users in the United States of America. 
+GrindTV.com lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to GrindTV.com's cookies. 
 
-If our site is acquired by or merged with a third party we reserve the right to transfer or assign the information we have collected. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
+GrindTV.com may use web beacons to access GrindTV.com cookies inside and outside our network of web sites and in connection with GrindTV.com products and services. 
 
-This Privacy Notice may be updated periodically. We will use reasonable efforts to use your personal information consistent with the version in effect when we collected the data in question. 
+### Confidentiality and Security
 
-Please contact us at [privacyquestions@sportnet.com](mailto:privacyquestions@sportnet.com) if you have any questions regarding this Privacy Notice. 
+#### We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
 
-This Privacy Notice was last modified on June 13, 2007. 
+We have physical and procedural safeguards to protect personal information about you. 
+
+### Changes to this Privacy Policy
+
+#### GrindTV.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your GrindTV.com account or by placing a prominent notice on our site.
+
+### Questions and Suggestions
+
+####  If you have questions or suggestions, please contact us at [help@grindtv.com](mailto:help@grindtv.com "help@grindtv.com")
+
+ _Effective Date: September 1, 2005_
