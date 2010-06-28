@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionwatchesjewelry.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113031829id_/http%3A//www.fashionwatchesjewelry.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionwatchesjewelry.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628225735id_/http%3A//www.fashionwatchesjewelry.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Fall Fashion Trends & History | Home Accessories | Beauty Therapy
+# Privacy Policy - Company Policies
 
 We are committed to protecting your privacy. The privacy, confidence, and trust of individuals who visit our website is important to us. No personal information is collected at this site unless provided voluntarily by an individual while participating in an activity that asks for the information.
 
@@ -10,7 +10,18 @@ We are committed to protecting your privacy. The privacy, confidence, and trust 
 
 **NOTIFICATION and CHANGES** Any modifications to our privacy practices will be reflected here. If we change our Privacy Policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
 
-Permissions to Link or Post Permission is granted for linking to our site, individual pages or articles within the site. **  
-Copyright © 2009 - Fasion Watches Jewelry . Powered by BadTemplate.com. All Rights Reserved.**
+Permissions to Link or Post Permission is granted for linking to our site, individual pages or articles within the site.
 
- ****
+[Tutoring Business](http://www.cloisterstutoring.co.uk/business-opportunity/) Private and Home Tutor at clositerstutoring.co.uk, provides private tuition, , home tutoring, private lessons, tutor agency, tutoring agency, maths tutor, tuition business, tutoring business.
+
+[guitar shop](http://www.playrecord.net/guitars/index.22.html)
+
+[Simply Wigs](http://www.simplywigs.co.uk/) Simply Wigs offer a range of wigs and hairpieces. Ranges include Raquel Welch, Revlon, Tressallure, Rene of Paris, Noriko and Louis Ferre.
+
+[Crystal Healing Wands ](http://www.friendlycrystals.com/) Friendly Crystals offers crystals, stones and minerals for healing, chakra, collectors, zodiac stones, birth stones and more. If you are looking for crystals, stones or minerals, than Friendly Crystals has them.
+
+[Speed Reducers](http://www.rinomechanical.com/worm-gear-speed-reducer.htm)
+
+[Footed Pajamas](http://www.sleepyheads.com/Footed_Pajamas)
+
+Copyright © 2009 - Fasion Watches Jewelry . Powered by BadTemplate.com. All Rights Reserved. 
