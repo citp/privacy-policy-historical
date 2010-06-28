@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004002741id_/http%3A//sescoops.com/%3Fpage_id%3D463) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628112512id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : SEScoops
+# Privacy Policy
 
 SEScoops.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
 
@@ -11,7 +11,7 @@ We use your IP address to help diagnose problems with our server and to administ
 Our Site uses cookies to make sure you don’t see the same ad repeatedly, and, if you are a member, to keep you logged in.
 
 **Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here<<http://www.networkadvertising.org/managing/opt_out.asp>>. 
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
