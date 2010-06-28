@@ -1,18 +1,13 @@
-> *The following text is extracted and transformed from the educationconnection.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117210745id_/http%3A//www.educationconnection.com/global/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationconnection.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629001217id_/http%3A//www.educationconnection.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# Education Connection: Privacy Policy
-
-## Privacy Policy
-
-**ECS PRIVACY POLICY**   
-Last Revised: April 2006 
+# Education Connection Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.educationconnection.com&sealid=101)
 
-  
+**ECS PRIVACY POLICY**   
+Last Revised: April 2009 
 
-
-This is the privacy policy ("Privacy Policy") for the Web site ("Site") for Education Connection Services ("ECS") www.educationconnection.com. This Privacy Policy describes how we treat personal information received about you when you visit our Site. 
+This is the privacy policy ("Privacy Policy") for the Web site ("Site") for Education Connection Services ("ECS") www.educationconnection.com. This Privacy Policy describes how we treat personal information received about you when you visit our Site.
 
 Please read this Privacy Policy carefully, because by visiting or using this Site, you agree to its terms. 
 
@@ -42,9 +37,7 @@ We may combine the information that we collect from you on the Site with informa
 
 We share this personal data with the educational institutions to which we have matched your profile so that these institutions can contact you with information about their educational programs. These educational institutions are not governed by this Privacy Policy. If you want to know more about a partner school’s use of your information, contact the school directly. We share the information you have provided on our matching profile with educational institutions. 
 
-We also share your information with the service providers who help us to run this Site or to fulfill your requests with educational institutions and/or educational marketing providers. We may also need to disclose your personal data to third parties if required by law or to enforce our User Agreement or this Privacy Policy, or when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in the Site.   
-**_  
-_**
+We also share your information with the service providers who help us to run this Site or to fulfill your requests with educational institutions and/or educational marketing providers. We may also need to disclose your personal data to third parties if required by law or to enforce our User Agreement or this Privacy Policy, or when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in the Site.
 
 _If you do not wish to have your personally identifiable information shared, to opt-out from receiving further communications from any third party that is not our agent or service provider. Please contact that marketing partner/affiliate directly._
 
@@ -54,11 +47,9 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
 ## Choice and Opt-out 
 
-You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by [opting out at the time that you submit your Student Matching Profile or by] sending us a written request either by email to [unsubscribe@educationconnection.com](mailto:unsubscribe@educationconnection.com?Subject=Unsubscribe) or via postal mail.  
-****  
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at[optout@educationconnection.com](mailto:optout@educationconnection.com) or via postal mail.
+You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by [opting out at the time that you submit your Student Matching Profile or by] sending us a written request either by email to [unsubscribe@educationconnection.com](mailto:unsubscribe@educationconnection.com?Subject=Unsubscribe) or via postal mail.
 
-When composing your email, please include the word "Unsubscribe" in the subject line. You may also click on the following [link](http://www.educationconnection.com/emailunsubscribe.aspx) to add your email address directly to our Unsubscribe list. Please address postal mail requests to: 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by clicking on the following [link](http://www.educationconnection.com/emailunsubscribe.aspx) to add your email address and/or telephone number directly to our Unsubscribe/Do Not Call lists. Please address postal mail requests to: 
 
   * Attn: Unsubscribe 
   * Education Connection Services 
@@ -151,9 +142,6 @@ We reserve the right to disclose your personally identifiable information as req
 
 ## Truste Privacy
 
-Education Connection  is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site <http://www.educationconnection.com/global/privacyPolicy.aspx>.   Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Education Connection  is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site <http://www.educationconnection.com/privacyPolicy.aspx>.   Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Education Connection at info@educationconnection.com.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-[Education Connection Services P3P Format Privacy Statement (HTML)](https://web.archive.org/w3c/policy.html "Education Connection: P3P Format Privacy Statement \(HTML\)")   
-[Education Connection Services P3P Format Privacy Policy (XML)](https://web.archive.org/w3c/p3p.xml "Education Connection: P3P Format Privacy Policy \(XML\)")
