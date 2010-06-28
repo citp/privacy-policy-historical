@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2007-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071127202422id_/http%3A//www.yodle.com/index.php/v2/legal/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628150712id_/http%3A//www.yodle.com/privacy) for the most accurate reproduction.*
 
-# Yodle Inc. - Legal: Privacy Policy
+# Yodle - Privacy
 
 ### General Statement
 
 Yodle respects your privacy. Across our business, around the world, we will only collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your applications to register as a customer, provide service and support, and share products, for services with you. We do not sell your personal information. At any time you may contact Yodle with any privacy questions or concerns you may have. You also may ask at any time to see the data you have given us and request correction or deletion. We strive to ensure a high level of security and confidentiality. 
+
+  
+
 
 ### Privacy and Data Security
 
@@ -19,9 +22,17 @@ Yodle’s Privacy statement discloses the privacy guidelines for the entire dome
 5\. Participate in a sweepstakes or other promotional offer   
 6\. Request e-mail notification of your order   
 7\. Subscribe to a newsletter or a mailing list   
-9\. Fill out a support request 
+8\. Fill out a support request 
+
+  
+
 
 In each of the instances above, we may ask for your name, e-mail address, phone number, address, type of business, customer preference information, customer number and service tag number, as well as other similar personal information that is needed to register or subscribe you to services or offers. If we ever ask for significantly different information we will inform you. 
+
+To improve the usefulness and quality of our site, we also measure and analyze what is called “non-identifying, aggregate usage and volume statistical information” – basically, the actions visitors take on our website. This is not personal information, but rather general summaries of our visitors’ usage patterns and behaviors. You may opt out of this analysis by [clicking here.](http://www.112.2o7.net/optout.html?omniture=1&popup=1&locale=en_US&optout=1&confirm_change=1)
+
+  
+
 
 ### Internet Commerce
 
@@ -29,25 +40,32 @@ The online payment gateway at Yodle is owned, managed and operated by Authorize.
 
 Yodle.com. Yodle has no desire or intent to infringe on your privacy while using the Yodle site. 
 
+  
+
+
 ### Third-Party Sites
 
 Please be aware that other web sites that may be accessed through our site may collect personally identifiable information about you. The information practices of those third-party web sites linked to Yodle are not covered by this privacy statement. We generally use the “” symbol to mark links that go to third-party sites. You are solely responsible for maintaining the secrecy of your passwords or any account information. Please be careful and responsible whenever you’re online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your personal information, Yodle cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
 
+  
+
+
 ### Other Web sites
 
 Yodle’s Web site contains links to other Web sites that are not operated by Yodle. Yodle is not responsible for the privacy practices of the Web sites that it does not operate. 
+
+  
+
 
 ### Contact Yodle Business Affairs
 
 Yodle Associates is the sole operator of the Yodle Web site. If you would like to contact us for any reason regarding our privacy practices, please write us at the following address: 
 
 Yodle.com   
-589 8th Avenue,   
-9th Floor,   
-NY, NY 10009   
+50W 23rd Street,   
+4th Floor,   
+NY, NY 10010   
 
 
-**Sign up** for our Quarterly Newsletter! 
+  
 
-118,207  Calls to date  
-Clicks Are Great, Calls Are Better.
