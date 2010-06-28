@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendearnings.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207071753id_/http%3A//www.sendearnings.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendearnings.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628055402id_/http%3A//www.sendearnings.com/pages/privacy) for the most accurate reproduction.*
 
 # Get Paid to Read Email | SendEarnings®
 
@@ -30,7 +30,7 @@ User information is used by SendEarnings® in all of the following ways:
       4. Username, E-Mail Address, and Password are used for User protection to restrict access to their account
       5. User information may be sold or disclosed to third parties as described in Sections II.2 and III below
       6. Cookies may be used as described in Section IV below
-      7. Information may be used in additional waysas posted on this Privacy Policy in the future.
+      7. Information may be used in additional ways as posted on this Privacy Policy in the future.
     2. ### Sharing of Information
 
 SendEarnings® does not rent, sell, or share User information, except in the following circumstances: 
@@ -60,7 +60,7 @@ This website may contain links to third party websites. We provide these links f
 
     1. ### About Cookies and Third Party Technology.
 
-A “cookie” is a small data file that may be saved to and stored on your computer when you visit a website or open an email. Cookies permit a website to “remember” whether your computer has visited the website before and helps the website create a more personalized experience for you and records activities taken by you, such as offers completed. US Government Information Bulletin (I-034) contains a good description of cookie technology at: <http://www.ciac.org/ciac/bulletins/i-034.shtml>.
+A “cookie” is a small data file that may be saved to and stored on your computer when you visit a website or open an email. Cookies permit a website to “remember” whether your computer has visited the website before and helps the website create a more personalized experience for you and records activities taken by you, such as offers completed.
 
 In addition to cookie technology, SendEarnings® and our Advertisers use additional third party technology and tracking tools to record offers and activities completed by you, friends referred by you, and to communicate information about you, such as demographic information (e.g., age, gender), in order to target offers and advertisements to specific groups as requested by Advertisers. Cookies and other tracking technology is collectively referred to as “Cookies and Recording Tools.”
 
@@ -86,5 +86,5 @@ Mendota Heights, MN 55120
 
 
 
-© Copyright 2000–2009     SendEarnings®     All Rights Reserved  
+© Copyright 2000–2010     SendEarnings®     All Rights Reserved  
 SendEarnings® is part of: [CotterWeb Enterprises, Inc.](http://www.cotterweb.net/)
