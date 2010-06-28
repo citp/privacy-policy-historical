@@ -1,0 +1,1140 @@
+<!--The following is the downloaded HTML source of the taylormorrison.com privacy policy that was archived on 2010-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628150928id_/http%3A//www.taylormorrison.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><title>
+	Taylor Morrison - Privacy Policies
+</title>
+    <!-- core YUI CSS -->
+    <link rel="stylesheet" type="text/css" href="/js/yui/2.3.1/build/reset-fonts-grids/reset-fonts-grids.css">
+    <!-- core YUI scripts -->
+
+    <script type="text/javascript" src="/WR.ashx?T=JSYUI&amp;F=/js/yui/2.3.1/build/yahoo-dom-event/yahoo-dom-event.js,/js/yui/2.3.1/build/element/element-beta-min.js"></script>
+
+    <script type="text/javascript" src="/WR.ashx?T=JSYUI&amp;F=/js/yui/2.3.1/build/container/container_core-min.js,/js/yui/2.3.1/build/menu/menu-min.js"></script>
+    
+    
+
+    <!-- core site scripts -->
+
+    <script type="text/javascript" src="/WR.ashx?T=JS&amp;F=/js/SiteCommon.js"></script>
+
+    <!-- core site CSS -->
+    <link rel="stylesheet" type="text/css" href="/WR.ashx?T=CSS&amp;F=/css/SiteCore.css,/css/MainSubNav.css">
+
+    <style>
+        .FooterStateName
+        {
+           /* color: #11275E; */
+            font-size: 13px;
+            font-weight:bold;
+        }
+        
+        .FooterDivisionName
+        {
+           /* color: #11275E; */
+            font-size: 11px;
+            line-height: 16px;
+        }
+        
+        .FooterDivisionName A
+        {
+           /* color: #11275E; */
+            font-size: 11px;
+        }
+    </style>
+<!-- Canonical url -->
+    <link rel="canonical" href="http://www.taylormorrison.com/PrivacyPolicy.aspx">
+    <script language="javascript" type="text/javascript">   
+    	
+        var ga_CommID = "";
+        var ga_CommName = "";
+        
+        var current_LocationParanValue;
+        
+        function InitMaster()
+        {
+            TMNavigation_InitMenu("nmTopNav");               
+            
+        }
+        
+        var findHomeMenuBar;
+        YAHOO.util.Event.onContentReady("divFindHome", function () 
+        {
+            findHomeMenuBar = new YAHOO.widget.MenuBar("divFindHome", { 
+                                                            autosubmenudisplay: true, 
+                                                            hidedelay: 100
+                                                            });
+            
+            
+            var aSubmenuData = [
+                {
+                id:"findYourHome", itemdata: [{text:"View Map", url:"/Find/Default.aspx"}, {text:"Austin", url:"/7-new-homes-US-TX-Austin-Division.aspx"}, {text:"Bay Area", url:"/14-new-homes-US-CA-Bay-Area-Division.aspx"}, {text:"Central Valley", url:"/12-new-homes-US-CA-Central-Valley-Division.aspx"}, {text:"Denver", url:"/9-new-homes-US-CO-Denver-Division.aspx"}, {text:"Fort Myers", url:"/5-new-homes-US-FL-Fort-Myers-Division.aspx"}, {text:"Houston", url:"/6-new-homes-US-TX-Houston-Division.aspx"}, {text:"Jacksonville", url:"/4-new-homes-US-FL-Jacksonville-Division.aspx"}, {text:"Orlando", url:"/3-new-homes-US-FL-Orlando-Division.aspx"}, {text:"Palm Beach", url:"/17-new-homes-US-FL-Palm-Beach-Division.aspx"}, {text:"Phoenix", url:"/10-new-homes-US-AZ-Phoenix-Division.aspx"}, {text:"Sacramento", url:"/13-new-homes-US-CA-Sacramento-Division.aspx"}, {text:"Sarasota", url:"/1-new-homes-US-FL-Sarasota-Division.aspx"}, {text:"Southern California", url:"/15-new-homes-US-CA-Southern-California-Division.aspx"}, {text:"Tampa", url:"/2-new-homes-US-FL-Tampa-Division.aspx"}, ]
+                }
+            ];
+            
+           
+            findHomeMenuBar.subscribe("beforeRender", function () {               
+                if (this.getRoot() == this) {
+                    this.getItem(0).cfg.setProperty("submenu", aSubmenuData[0]);  
+                }
+            });            
+           
+            findHomeMenuBar.render();
+            
+            //Set maxheight for the sub-menu
+            findHomeMenuBar.subscribe("show", function () {				
+				if (this.id != "divFindHome") {					
+						this.cfg.setProperty("maxheight", 500);
+				}
+			});
+                        
+            
+            findHomeMenuBar.subscribe("beforeShow", MenuBarShow);
+            findHomeMenuBar.subscribe("beforeHide", MenuBarHide);
+            
+        });
+        
+        
+        function MenuBarShow()
+        {        
+            var menuItem=YAHOO.util.Dom.get("ctl00_ctl00_nmTopNav_find");                        
+            YAHOO.util.Event.removeListener(menuItem,"mouseover");
+            YAHOO.util.Event.removeListener(menuItem,"mouseout"); 
+            TMNavigation_SetItemMouseOver(menuItem);
+            if(YAHOO.util.Dom.hasClass(menuItem, "selected"))
+            {  
+                YAHOO.util.Dom.removeClass(menuItem, "selected")             
+            }                       
+        }
+
+        function MenuBarHide()
+        {
+            var menuItem=YAHOO.util.Dom.get("ctl00_ctl00_nmTopNav_find");            
+            YAHOO.util.Event.addListener(menuItem,"mouseover", TMNavigation_MenuMouseOverHandler);
+            YAHOO.util.Event.addListener(menuItem,"mouseout", TMNavigation_MenuMouseOutHandler); 
+            
+            if(!YAHOO.util.Dom.hasClass(menuItem, "selected"))
+            {
+                TMNavigation_SetItemMouseOut(menuItem);                   
+            }
+        }
+    </script>
+
+    <!-- Start HBX -->
+
+    <script type="text/javascript" src="/js/hbx_page_code_standard.js"></script>
+
+    <script language="javascript" type="text/javascript">
+        hbx.pn = "Taylor Morrison  - PrivacyPolicy";        
+    </script>
+
+    <script type="text/javascript" src="/js/hbx.js"></script>
+
+    <!-- End HBX -->
+    
+    <script language="javascript" type="text/javascript" src="/js/Ads.js"></script>
+  
+    <script language="javascript" type="text/javascript">
+    function InitContentMaster()
+    {
+        TMNavigation_InitMenu("nmSubNav");
+    }
+    </script>
+
+   
+    <style>
+        .mytable td
+        {
+            border: solid 1px #000000;
+            text-align: center;
+            padding: 5px;
+        }
+        .mytable td.title
+        {
+            background-color: #FF0000;
+            color: #FFFFFF;
+            font-weight: bold;
+        }
+        .mytable td.col1
+        {
+            width: 108px;
+        }
+        .mytable td.col2
+        {
+            width: 75px;
+        }
+        .mytable td.col3
+        {
+            width: 126px;
+            text-align: left;
+        }
+        .mytable td.col4
+        {
+        }
+        .mytable td.noBorder
+        {
+            border: none;
+        }
+    </style>
+
+</head>
+<body>
+    <div id="site-doc">
+        <div id="hd">
+            <table id="tblHeader" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                    <td style="width: 204px; vertical-align: bottom;">
+                        <!-- logo and top-left corner -->
+                        <div style="margin-bottom: 8px;">
+                            <a id="ctl00_ctl00_lnkHomepage" href="Default.aspx"><img id="ctl00_ctl00_imgLogo" src="images/core/TM_Logo.gif" alt="Taylor Morrison - New home builders, real estate development, and new homes for sale." height="59" width="192" border="0"></a>
+                        </div>
+                        <div style="width: 100%; height: 10px; background-position: 0px 2px;
+                            background-repeat: no-repeat; background-image: url(/images/core/Border_TopLeftCorner.gif);">
+                        </div>
+                    </td>
+                    <td style="width: auto;">
+                        <table id="tblInnerHeader" cellpadding="0" cellspacing="0">
+                            <tbody><tr id="trTopSubNav">
+                                <td style="text-align: right; padding-bottom: 16px;" colspan="5">
+                                    <a id="ctl00_ctl00_lnkTMAdvancedSearch" href="Search/"><img src="/images/topsubnav/adv_search.jpg"></a>  
+                                    <a id="ctl00_ctl00_lnkTMSubRealtors" href="http://realtors.taylormorrison.com" target="_blank"><img src="/images/rc_logo_ws.gif"></a>  
+                                        
+                                     <!-- AddThis Button BEGIN -->
+			       <a href="http://www.addthis.com/bookmark.php" class="addthis_button" style="text-decoration:none; font-size:8pt;">        <img src="/images/topsubnav/sm-plus.gif" width="21" height="16" border="0" alt="Share"> <img src="/images/topsubnav/share.gif" <="" a="">				      
+
+			       <!-- AddThis Button END -->
+
+				<img src="/images/topsubnav/divider.gif">
+
+				</a><a id="ctl00_ctl00_lnkTMSubParnters" href="Partners/LegacyOfStrength.aspx"><img src="/images/topsubnav/ourpartners_button.gif"></a>
+				<a id="ctl00_ctl00_lnkTMSubNews" href="News.aspx"><img src="/images/topsubnav/news_button.gif"></a>
+                                    <a id="ctl00_ctl00_lnkTMSubContactUs" href="ContactUs/"><img src="/images/topsubnav/contactus_button.gif"></a>
+                                </td>
+                            </tr>
+                            <tr id="trTopNav" style="height: 32px;">
+                                <td id="ctl00_ctl00_nmTopNav_why" class="nmTopNav">
+                                    <a id="ctl00_ctl00_lnkTNwhy" href="WhyTM/TMDifference.aspx"><img id="ctl00_ctl00_imgTNwhy" class="imgMenuItem" src="images/topnav/off/whytaylormorrison.gif" border="0"></a>
+                                </td>
+
+                                <td id="ctl00_ctl00_nmTopNav_find" class="nmTopNav">
+                                    <div class="yui-skin-smenu">
+                                        <div id="divFindHome" style="border: 0px;" class="yuimenubar yuimenubarnav">
+                                            <div class="bd" style="border: 0px;">
+                                                <ul class="first-of-type" style="border: 0px;">
+                                                    <li class="yuimenubaritem first-of-type" style="border: 0px; cursor: hand;"><a class="yuimenubaritemlabel" href="javascript:void(0);" style="cursor: pointer; cursor: hand;">
+                                                        <img id="ctl00_ctl00_imgTNfind" class="imgMenuItem" onclick="event.cancelBubble=true;" src="images/topnav/off/findahome.gif" border="0"></a> </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+
+                                <td id="ctl00_ctl00_nmTopNav_finance" class="nmTopNav">
+                                    <a id="ctl00_ctl00_lnkTNfinance" href="Finance/"><img id="ctl00_ctl00_imgTNfinance" class="imgMenuItem" src="images/topnav/off/financeyourhome.gif" border="0"></a>
+                                </td>
+
+                                <td id="ctl00_ctl00_nmTopNav_build" class="nmTopNav">
+                                    <a id="ctl00_ctl00_lnkTNbuild" href="Build/SignatureTouches.aspx"><img id="ctl00_ctl00_imgTNbuild" class="imgMenuItem" src="images/topnav/off/buildyourhome.gif" border="0"></a>
+                                </td>
+
+                                <td id="ctl00_ctl00_nmTopNav_living" class="nmTopNav">
+                                    <a id="ctl00_ctl00_lnkTNliving" href="Living/"><img id="ctl00_ctl00_imgTNliving" class="imgMenuItem" src="images/topnav/off/livinginyourhome.gif" border="0"></a>
+                                </td>
+
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <div id="bd">
+            <div style="background-image: url(/images/core/Border_Tile.gif);
+                background-repeat: repeat-y; padding-left: 10px; padding-right: 10px;">
+                
+    <div id="divContentPageHeader">
+        
+    <img id="ctl00_ctl00_cphMainBody_cphContentHeader_imgContentHeader" src="images/headers/faq.jpg" border="0">
+
+    </div>
+    <div id="divBreadcrumb">
+        
+    <a id="ctl00_ctl00_cphMainBody_cphBreadcrumb_lnkHomepage" href="./">Home</a>
+    <img id="ctl00_ctl00_cphMainBody_cphBreadcrumb_imgArrow2" src="images/division/breadcrumb_arrow.gif" border="0">Privacy
+    Policy
+
+    </div>
+    <div id="divColContainer">
+        <div id="divLeftCol">
+            
+
+            <div id="divLHSAd1" class="divAdAreaLeft">
+
+                <script language="javascript" type="text/javascript">
+                            ShowAd("GEN_LHS","",202,117, "center", "/AdServer/AdServer.aspx");
+                </script><iframe id="ifrAdGEN_LHS" scrolling="no" margintop="0" marginleft="0" style="visibility:hidden;" src="/AdServer/AdServer.aspx?LocationCode=GEN_LHS&amp;LocationParamValue=undefined&amp;Width=202&amp;Height=117&amp;R=296.3370713744564" frameborder="0" border="0" width="202" height="117&amp;Align=center" align="center"></iframe>
+
+            </div>
+        </div>
+        <div id="divRightColW">
+            <div id="divCenterCol">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td style="vertical-align: top;">
+                            <div id="divContentHeadingImage">
+                                
+    <img id="ctl00_ctl00_cphMainBody_cphContentHeadingImage_imgHeading" src="images/headings/PrivacyPolicy.gif" alt="Terms of Use" border="0">
+
+                            </div>
+                        </td>
+                        <td style="vertical-align: top;">
+                            <a id="ctl00_ctl00_cphMainBody_lnkRequestInfo" href="ContactUs/RequestInformation.aspx"><img id="ctl00_ctl00_cphMainBody_imgRequestInfo" src="images/core/requestinfo_button.gif" alt="Request info" border="0"></a>
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4NjI4NjMxMzgPZBYCZg9kFgJmD2QWAgIYDxYCHgRUZXh0BbsBQWxsIGluY2VudGl2ZXMsIHByaWNpbmcsIGF2YWlsYWJpbGl0eSwgYW1lbml0aWVzIGFuZCBwbGFucyBzdWJqZWN0IHRvIGNoYW5nZSBvciBkZWxheSB3aXRob3V0IG5vdGljZSBhbmQgYXJlIG5vdCBndWFyYW50ZWVkLiAgJmNvcHk7IDIwMDctIDIwMTAsIFRheWxvciBNb3JyaXNvbiwgSW5jLiBBbGwgcmlnaHRzIHJlc2VydmVkLmRkSF2E9kuwXFbGD8J8RrWFB0MnURE=">
+
+    <div class="divContentCopy">
+        <p align="center">
+            <span class="spanCopySectionHeading" style="display: inline;">TAYLOR MORRISON'S WEBSITE
+                PRIVACY POLICY</span>
+        </p>
+        <p style="text-align: justify;">
+            Taylor Morrison, Inc. and its subsidiaries and affiliates (collectively referred
+            to as "<b>Taylor Morrison</b>") provide information to the homebuying
+            public, REALTORS®, other real estate brokers, trade partners and other users
+            of the Internet regarding Taylor Morrison's communities, homes, financial services
+            and other related products and services through the Web Site at www.taylormorrison.com
+            (the "<b>Web Site</b>"). Your privacy is important to us, as well as to
+            our respective subsidiaries and affiliates (collectively, "<b>we</b>,"
+            "<b>us</b>" or "<b>our</b>") and we are committed to protecting
+            the privacy of its customers and potential customers. To demonstrate this commitment,
+            Taylor Morrison has created this Web Site privacy policy (the "<b>Privacy Policy</b>")
+            governing Taylor Morrison's use of the information that is collected through the
+            Web Site. By accessing and viewing the Web Site, you agree to the terms and conditions
+            of this Privacy Policy. This Privacy Policy shall apply only to individual consumers
+            and solely to information collected by this Web site. This Privacy Policy became
+            effective as of March, 2008 ("<b>Effective Date</b>"), applies to personal
+            and financial information submitted on this Web site on or after the Effective Date
+            and remains subject to change in Taylor Morrison’s sole discretion.
+        </p>
+        <p style="text-align: justify;">
+            Please note that Taylor Morrison and/or its affiliates may have separate privacy
+            policies concerning information obtained through means other than the Web Site.
+            In addition, <a href="#TMHFPP">Taylor Morrison Home Funding maintains a separate privacy
+                policy</a>.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Collection of Information:</span> Even if you
+            do nothing during your visit to the Web Site other than browse through the Web Site
+            and read the information contained on the web pages, Taylor Morrison will nevertheless
+            gather certain information about your visit automatically. This information does
+            not identify you personally, but may, for example, reflect how you found or were
+            directed to or used the Web Site. In addition, you may at your option provide personal
+            identification or other information through the Web Site (for example, by way of
+            your explicit request that Taylor Morrison send you requested information via e-mail
+            or regular mail). It is possible, too, that your REALTOR®/Real Estate Agent
+            may provide us with personal information concerning you or the Taylor Morrison communities
+            and homes in which you are interested.
+        </p>
+        <p style="text-align: justify;">
+            Taylor Morrison gathers your IP address when you use any portion of the Web Site.
+            Taylor Morrison also collects the name and URL of the Web Site that you visited
+            immediately preceding your visit to the Web Site. Taylor Morrison uses this information
+            on an aggregate basis to better understand Taylor Morrison's prospective customers
+            and homebuyers, and Taylor Morrison may disclose this information to business and
+            trade partners on an aggregate basis. Taylor Morrison also uses "cookies"
+            to store your preferences in order to make your use of the Web Site more productive.
+            Cookies are small files created by Web Sites that reside on your computer's hard
+            drive and store information about your use of a particular web site.
+        </p>
+        <p style="text-align: justify;">
+            Taylormorrison.com utilizes browser cookies to advertise to our Web Site's prospects
+            across the Internet. We collect Non-Personally Identifiable Information about your
+            visits to our Web Site and your interaction with our products and services. The
+            anonymous information is collected through the use of a pixel tag, which is industry
+            standard technology used by most major web sites. No Personally Identifiable Information
+            is collected during this process. If you do not want taylormorrison.com to collect
+            this information, you may opt out of the service at any time. Opting out will not
+            in any way affect your use of our site. To Opt-out, please
+            <a id="ctl00_ctl00_cphMainBody_cphMainCol_HyperLink4" href="OptOut.aspx">click here</a>.
+            In addition, you may opt out at any time by clicking on the link found in any of
+            our e-mailed communications sent based on your prior request or by contacting our
+            Privacy Administrator as indicated below.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Disclosure and Use of Information:</span> Taylor
+            Morrison uses your contact information to respond to your requests for information
+            or service, for general record-keeping purposes and to otherwise contact you about
+            promotions and available products or services or, in unlikely circumstances, to
+            contact you regarding product recalls. More specifically, Taylor Morrison may use
+            your contact information to mail you Taylor Morrison's newsletter, Neighbor to Neighbor,
+            or other promotional material or notification of special offers. Using your contact
+            information, Taylor Morrison may also send you e-mail messages under the following
+            circumstances, among others:
+        </p>
+        <ul class="copyList">
+            <li>to respond to an inquiry or request for information;</li>
+            <li>to thank you for contacting Taylor Morrison;</li>
+            <li>to welcome you to Taylor Morrison and to its products and services;</li>
+            <li>to explain new product offerings and features of our services;</li>
+            <li>to notify you of special promotions;</li>
+            <li>to communicate with you after the purchase of a home about your home and your use
+                of our related
+                <!--SHIFT RIGHT products and-->
+                services; and</li>
+            <li>to contact you after the purchase of a home regarding warranty services</li>
+        </ul>
+        <p style="text-align: justify;">
+            Taylor Morrison does not sell, rent, share or otherwise disclose mailing lists or
+            other personal information obtained through the Web Site to or with any non-affiliated
+            companies. However, your contact information may be available or provided to third-party
+            service providers and contractors (such as the Web Site developer) that are contractually
+            obligated to protect your information as disclosed in this Privacy Policy. In order
+            to maintain accurate records concerning communications that Taylor Morrison may
+            have received from or sent to you, Taylor Morrison may also indefinitely store any
+            information that you provide to Taylor Morrison through the Web Site.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Requests for Services:</span> You may request
+            information regarding specific Taylor Morrison' communities, homes, financial services
+            and other related products and services through the Web Site by submitting the requested
+            contact information. You may not, however, purchase a home or any service directly
+            through the Web Site. Any home warranty service request submitted through the Web
+            Site is merely a request for a Taylor Morrison representative to contact you regarding
+            such services.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Requests for Mortgage Information:</span> You
+            may request information regarding the availability of home mortgage programs offered
+            by Taylor Morrison Home Funding through the Web Site by submitting the requested
+            contact and financial information. Any information you submit to the Web Site in
+            connection with your request for mortgage information will be forwarded directly
+            to the appropriate Taylor Morrison Home Funding affiliate, which will respond to
+            your request or have a representative of Taylor Morrison Home Funding contact you.
+            Taylor Morrison will not use or disclose the information you submit through the
+            Web Site in connection with a request for mortgage information to any party other
+            than Taylor Morrison Home Funding. <b>Please refer to the separate Privacy Policy for
+                Taylor Morrison Home Funding. </b>
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Third-party Web Sites:</span> The Taylor Morrison
+            Web Site contains references to products of other companies and links to other web
+            sites, including Web Sites that are not maintained or controlled by Taylor Morrison.
+            The links to those other web site are placed for your convenience only, and do not
+            comprise any warranty or endorsement on the part of Taylor Morrison as to the companies,
+            products, services, information or programs associates with these Web Sites. Similarly,
+            Taylor Morrison makes no warranty or endorsement of non-affiliated companies and
+            products that appear on this Web Site. Taylor Morrison is not responsible for the
+            privacy practices of such other web sites, and you are encouraged to review their
+            privacy policies and terms of use. The fact that a link to a third-party web site
+            exists on the Taylor Morrison Web Site does not mean that the third-party site operates
+            under the same or similar privacy practices as set forth in the Taylor Morrison
+            Privacy Policy.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Security Precautions:</span> Taylor Morrison
+            takes precautions to protect data and information under its control from misuse,
+            loss or alteration. Taylor Morrison' security measures include industry-standard
+            technology and equipment to help protect your information, and Taylor Morrison maintains
+            security measures to allow only the appropriate personnel and contractors access
+            to your information. Unfortunately, no system can ensure complete security, and
+            Taylor Morrison disclaims any liability resulting from use of the Web Site.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Notification of Changes:</span> If Taylor Morrison
+            changes its Privacy Policy, the changes will be posted on the Web Site. If at any
+            time Taylor Morrison decides to use or disclose a user's personally identifiable
+            information in a manner different from that stated at the time it was collected,
+            Taylor Morrison will notify affected users by e-mail. Taylor Morrison will otherwise
+            use and disclose a user's personally identifiable information in accordance with
+            the Privacy Policy that was in effect when such information was collected.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Exceptions:</span> Other than as set forth
+            above, Taylor Morrison will not otherwise use or disclose any of your personal information
+            except to the extent reasonably necessary to: (i) process your information and to
+            correct technical problems and malfunctions in the Web Site or the computer systems
+            supporting the Web Site; (ii) protect the security and integrity of the Web Site;
+            (iii) protect the rights and property of Taylor Morrison and others; (iv) take precautions
+            against liability; (v) respond to claims that your information violates the rights
+            and interests of third-parties; (vi) respond to judicial or administrative process
+            or otherwise comply with applicable law; and (vii) to assist law enforcement agencies
+            in connection with investigations or matters related to public safety.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Changes to Your Information:</span> You may
+            change or update information you previously provided to Taylor Morrison by contacting
+            the Taylor Morrison Sales &amp; Marketing Department via e-mail at <a href="mailto:webmaster@taylormorrison.com">
+                webmaster@taylormorrison.com</a> or regular mail at Corporate Office 4900 N.
+            Scottsdale Road, Suite 2000 Scottsdale, AZ 85251 480-840-8100.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Stopping E-mails and Promotional Materials:</span>
+            You may elect to "opt out" of the Taylor Morrison e-mail system by affirmatively
+            choosing to do so at
+            <a id="ctl00_ctl00_cphMainBody_cphMainCol_HyperLink1" href="OptOut.aspx">http://www.taylormorrison.com/OptOut.aspx</a>.
+            You may also stop e-mail messages and other promotional mailings by contacting the
+            Taylor Morrison Privacy Officer by e-mail at <a href="mailto:privacy_officer@taylormorrison.com">
+                privacy_officer@taylormorrison.com</a> or by regular mail addressed to Privacy
+            Officer, Taylor Morrison, 4900 N. Scottsdale Road, Suite 2000 Scottsdale, AZ 85251
+            480-840-8100. Please visit the <a href="#TMHFPP">Taylor Morrison Home
+            Funding's Privacy Policy</a> to opt out of Taylor Morrison Home Funding emails and promotional
+            material.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Questions or Comments:</span> Regarding the
+            Privacy Policy Questions or comments concerning Taylor Morrison' Privacy Policy
+            may be directed to the Taylor Morrison Privacy Officer by e-mail at <a href="mailto:privacy_officer@taylormorrison.com">
+                privacy_officer@taylormorrison.com</a> or by regular mail addressed to Privacy
+            Officer, Taylor Morrison, 4900 N. Scottsdale Road, Suite 2000 Scottsdale, AZ 85251
+            480-840-8100.
+        </p>
+        <p style="text-align: justify;">
+            </p><div style="text-align: center">
+                <div>
+                    <span class="spanCopySectionHeading" style="font-size: 14px;"><a name="#TMHFPP">TAYLOR
+                        MORRISON HOME FUNDING'S PRIVACY POLICY</a></span></div>
+                (Protection of the Privacy of Personal Non-Public Information)<br>
+                (Effective as of 1/1/05 and subject to change.)
+            </div>
+        <p></p>
+        <p style="text-align: justify;">
+            Respecting and protecting customer privacy is vital to Taylor Morrison Home Funding's
+            business. By explaining the Taylor Morrison Home Funding Privacy Policy to you,
+            we trust that you will better understand how we keep our customer information private
+            and secure while using it to serve you better. Keeping customer information secure
+            is a top priority, and we are disclosing our policies to help you understand how
+            we handle the personal information about you that we collect and disclose. This
+            notice of the Taylor Morrison Home Funding Privacy Policy explains how you can limit
+            our disclosing of personal information about you. The provisions of this notice
+            will apply to former customers as well as current customers unless we state otherwise.
+            Please refer to the terms and conditions of the separate Privacy Policy maintained
+            by our affiliate Taylor Morrison, Inc., which is also found on this Web Site.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">The Taylor Morrison Home Funding Privacy Policy
+                explains the Following:</span>
+        </p>
+        <ul class="copyList">
+            <li>Protecting the confidentiality of our customer information.</li>
+            <li>Who is covered by the Taylor Morrison Home Funding Privacy Policy.</li>
+            <li>How we gather information.</li>
+            <li>The types of information we share, why, and with whom.</li>
+            <li>Opting Out - how to instruct us not to share certain information about you or not
+                to contact you.</li>
+        </ul>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Protecting the Confidentiality of Taylor Morrison
+                Home Funding's Customer Information:</span> We take our responsibility to protect
+            the privacy and confidentiality of customer information very seriously. We maintain
+            physical, electronic, and procedural safeguards that comply with federal standards
+            to store and secure information about you from unauthorized access, alteration,
+            and destruction. Our control policies, for example, authorize access to customer
+            information only by individuals who need access to do their work.
+        </p>
+        <p style="text-align: justify;">
+            From time to time, we enter into agreements with other companies to provide services
+            to us or make products and services available to you. Under these agreements, the
+            companies may receive information about you but they must safeguard this information,
+            and they may not use it for any other purposes.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Who is Covered by the Taylor Morrison Home Funding
+                Privacy Policy:</span> We provide our Privacy Policy to customers when they
+            conduct business with our company. If we change our privacy policies to permit us
+            to share additional information we have about you, as described below, or to permit
+            disclosures to additional types of parties, you will be notified in advance. This
+            Privacy Policy applies to consumers who are current customers or former customers.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">How Taylor Morrison Home Funding Gathers Information:</span>
+            As part of providing you with financial products or services, we may obtain information
+            about you from the following sources:
+        </p>
+        <ul class="copyList">
+            <li>Applications, forms, and other information that you provide to us, whether in writing,
+                in person, by telephone, electronically, or by any other means. This information
+                may include your name, address, employment information, income, and credit references;</li>
+            <li>Your transaction with us, our affiliates, or others. This information may include
+                your account balances, payment history, and account usage;</li>
+            <li>Consumer reporting agencies. This information may include account information and
+                information about your credit worthiness;</li>
+            <li>Public sources. This information may include real estate records, employment records,
+                telephone numbers, etc.</li>
+        </ul>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Information Taylor Morrison Home Funding Shares:</span>
+            We may disclose information we have about you as permitted by law. We are required
+            to or we may provide information about you to third-parties without your consent,
+            as permitted by law, such as:
+        </p>
+        <ul class="copyList">
+            <li>To regulatory authorities and law enforcement officials.</li>
+            <li>To protect against or prevent actual or potential fraud, unauthorized transactions,
+                claims, or other liability.</li>
+            <li>To report account activity to credit bureaus.</li>
+            <li>To consumer reporting agencies.</li>
+            <li>To respond to a subpoena or court order, judicial process or regulatory authorities.</li>
+            <li>In connection with a proposed or actual sale, merger, or transfer of all or a portion
+                of a business or an operating unit, etc.</li>
+        </ul>
+        <p style="text-align: justify;">
+            In addition, we may provide information about you to our service providers to help
+            us process your applications or service your accounts. Our service providers may
+            include billing service providers, mail and telephone service companies, lenders,
+            investors, title and escrow companies, appraisal companies, etc.
+        </p>
+        <p style="text-align: justify;">
+            We may also provide information about you to our service providers to help us perform
+            marketing services. This information provided to these service providers may include
+            the categories of information described above under "How We Gather Information"
+            limited to only that which we deem appropriate for these service providers to carry
+            out their functions.
+        </p>
+        <p style="text-align: justify;">
+            We do not provide non-public information about you to any company whose products
+            and services are being marketed unless you authorize us to do so. These companies
+            are not allowed to use this information for purposes beyond your specific authorization.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Opting Out:</span> We also may share information
+            about you within our corporate family of office(s). We may share all of the categories
+            of information we gather about you, including identification information (such as
+            your name and address), credit reports (such as your credit history), application
+            information (such as your income or credit references), your account transactions
+            and experiences with us (such as your payment history), and information from other
+            third parties (such as your employment history).
+        </p>
+        <p style="text-align: justify;">
+            By sharing this information we can better understand your financial needs. We can
+            then send you notification of new products and special promotional offers that you
+            may not otherwise know about. For example, if you originally obtained a mortgage
+            loan with us, we would know that you are a homeowner and may be interested in hearing
+            how a home equity loan may be a better option than an auto loan to finance the purchase
+            of a new car.
+        </p>
+        <p style="text-align: justify;">
+            You may prohibit the sharing of application and third-party credit-related information
+            within our company or any third-party company at any time.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading" style="font-style: italic;">Note for Joint Accounts:
+                Your Opt Out choices will also apply to other individuals who are joint account
+                holders. If these individuals have separate accounts, your Opt Out will not apply
+                to those separate accounts.</span>
+        </p>
+        <p style="text-align: left;">
+            <span class="spanCopySectionHeading">Changes to Your Information:</span> You may
+            change or update information you previously provided to Taylor Morrison Home Funding
+            by contacting us via e-mail at <a href="mailto:tmhfprivacy_officer@taylormorrisonhf.com">
+                tmhfprivacy_officer@taylormorrisonhf.com</a>, or by regular mail at TMHF's Corporate
+            Office at Taylor Morrison Home Funding, 555 Winderley Place, Suite 340, Maitland
+            FL 32751.
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Stopping E-mails and Promotional Materials:</span>
+            You may elect to "opt out" of the Taylor Morrison Home Funding e-mail system by
+            affirmatively choosing to do so at
+            <a id="ctl00_ctl00_cphMainBody_cphMainCol_HyperLink3" href="OptOutTMHF.aspx">http://www.taylormorrison.com/OptOutTMHF.aspx</a>.
+            You may also stop e-mail messages and other promotional mailings by contacting the
+            Taylor Morrison Home Funding Privacy Officer via e-mail at <a href="mailto:tmhfprivacy_officer@taylormorrisonhf.com">
+                tmhfprivacy_officer@taylormorrisonhf.com</a>, regular mail addressed to TMHF
+            Privacy Officer, Taylor Morrison Home Funding, 555 Winderley Place, Suite 340, Maitland,
+            FL 32751 or by calling us at 407-660-0090. 
+        </p>
+        <p>
+            <span class="spanCopySectionHeading">Taylor Morrison Home Funding is licensed in the
+                following states:</span>
+        </p>
+        <table class="mytable" cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+                <td class="col1 title">
+                    ARIZONA
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Taylor Morrison Home Funding, LLC
+                </td>
+                <td class="col2">
+                    555 Winderley Place, Suite 340 Maitland, FL 32751
+                </td>
+                <td class="col3">
+                    Arizona Mortgage Broker
+                </td>
+                <td class="col4">
+                    License # MBBR-0909104 Responsible Individual Barbara Forsyth License #113723
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Taylor Morrison Home Funding, LLC
+                </td>
+                <td class="col2">
+                    9000 E. Pima Center Pkwy; Suite 350A, Scottsdale, AZ 85258
+                </td>
+                <td class="col3">
+                    Arizona Mortgage Broker
+                </td>
+                <td class="col4">
+                    License # (Branch #0113294)
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Taylor Morrison Home Funding, LLC
+                </td>
+                <td class="col2">
+                    3107 S. 99th Street Mesa, AZ 85212
+                </td>
+                <td class="col3">
+                    Mortgage Broker
+                </td>
+                <td class="col4">
+                    (Branch #0113086)
+                </td>
+            </tr>
+        </tbody></table>
+        <p>
+        </p>
+        <table class="mytable" cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+                <td class="col1 title">
+                    CALIFORNIA
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Morrison Home Funding / MHF, Inc. d/b/a Taylor Morrison Home Funding
+                </td>
+                <td class="col2">
+                    1180 Iron Point Road, Suite 140 Folsom, CA 95630
+                </td>
+                <td class="col3">
+                    The license information telephone number of the California Department of Real Estate
+                    is (213) 620-2072.
+                </td>
+                <td class="col4">
+                    California Department of Real Estate License #1808071
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Morrison Home Funding / MHF, Inc. d/b/a Taylor Morrison Home Funding
+                </td>
+                <td class="col2">
+                    1180 Iron Point Road, Suite 140 Folsom, CA 95630
+                </td>
+                <td class="col3">
+                    CA DRE Designated Broker's License
+                </td>
+                <td class="col4">
+                    CA DRE Designated Broker's License #1177636; Stephanie Marie Fuller
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Morrison Home Funding / MHF, Inc. d/b/a Taylor Morrison Home Funding
+                </td>
+                <td class="col2">
+                    15 Cushing, Ste. 101 Irving, CA 92618
+                </td>
+                <td class="col3">
+                    CA Department of Real Estate/ Salesperson
+                </td>
+                <td class="col4">
+                    CA DRE Salesperson's License #1845713
+                </td>
+            </tr>
+        </tbody></table>
+        <p>
+        </p>
+        <table class="mytable" cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+                <td class="col1 title">
+                    COLORADO
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Taylor Morrison Home Funding
+                </td>
+                <td class="col2">
+                    555 Winderley Place, Suite 340 Maitland, FL 32751
+                </td>
+                <td class="col3">
+                    Colorado Supervised Lender's License
+                </td>
+                <td class="col4">
+                    CF-989574
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Ann Custard dba Taylor Morrison Home Funding
+                </td>
+                <td class="col2">
+                    1420 W. Canal Court, Suite 170 Littleton, CO 80120
+                </td>
+                <td class="col3">
+                    Mortgage Broker
+                </td>
+                <td class="col4">
+                    LMB100017625 (MB) CF-989574 Branch 001
+                </td>
+            </tr>
+        </tbody></table>
+        <p>
+        </p>
+        <table class="mytable" cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+                <td class="col1 title">
+                    FLORIDA
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Taylor Morrison Home Funding
+                </td>
+                <td class="col2">
+                    555 Winderley Place, Suite 340 Maitland, FL 32751
+                </td>
+                <td class="col3">
+                    Mortgage Broker Correspondent Mortgage Lender
+                </td>
+                <td class="col4">
+                    MBBR-0113294 CLB0700161
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Taylor Morrison Home Funding
+                </td>
+                <td class="col2">
+                    501 North Cattleman Road, Suite 102, Sarasota, FL 34232
+                </td>
+                <td class="col3">
+                    Correspondent Mortgage Lender; Branch Office
+                </td>
+                <td class="col4">
+                    CLB0700150
+                </td>
+            </tr>
+        </tbody></table>
+        <p>
+        </p>
+        <table class="mytable" cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+                <td class="col1 title">
+                    TEXAS
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+                <td class="noBorder">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Taylor Morrison Home Funding
+                </td>
+                <td class="col2">
+                    555 Winderley Place, Suite 340 Maitland, FL 32751
+                </td>
+                <td class="col3">
+                    Texas Entity Mortgage Broker License
+                </td>
+                <td class="col4">
+                    License # MB #68972 Laura Kunzweiler
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Taylor Morrison Home Funding
+                </td>
+                <td class="col2">
+                    5353 W. Sam Houston Parkway, Suite 190 Houston, TX 77041
+                </td>
+                <td class="col3">
+                    Texas Entity Mortgage Broker License
+                </td>
+                <td class="col4">
+                    License # MB #68972 Laura Kunzweiler
+                </td>
+            </tr>
+            <tr>
+                <td class="col1">
+                    Taylor Morrison Home Funding
+                </td>
+                <td class="col2">
+                    805 Las Cimas Parkway, Suite 350, Austin, TX 78746
+                </td>
+                <td class="col3">
+                    Texas Entity Mortgage Broker License
+                </td>
+                <td class="col4">
+                    License # MB #68972 Laura Kunzweiler
+                </td>
+            </tr>
+        </tbody></table>
+        <p>
+        </p>
+        <p style="text-align: justify;">
+            <span class="spanCopySectionHeading">Questions or Comments:</span> If you have any
+            questions or comments regarding the Taylor Morrison Home Funding Privacy Policy
+            , your questions and comments may be directed to the Taylor Morrison Home Funding
+            Privacy Officer by contacting us via e-mail at <a href="mailto:tmhfprivacy_officer@taylormorrisonhf.com">
+                tmhfprivacy_officer@taylormorrisonhf.com</a>, regular mail addressed to TMHF
+            Privacy Officer, Taylor Morrison Home Funding, 555 Winderley Place, Suite 340, Maitland,
+            FL 32751 or by calling us at 407-660-0090.
+        </p>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+YAHOO.util.Event.addListener(window, "load", InitContentMaster);YAHOO.util.Event.addListener(window, "load", InitMaster);//]]>
+</script>
+</form>
+
+            </div>
+            <div id="divRightCol">
+                <img id="ctl00_ctl00_cphMainBody_imgSpPromo1" src="images/core/special_promotion.jpg" alt="Special Promotion" align="absbottom" border="0">
+                <div id="divRHSAd1" class="divAdArea">
+
+                    <script language="javascript" type="text/javascript">
+                            ShowAd("GEN_RHS1","",202,117, "center", "/AdServer/AdServer.aspx");
+                    </script><iframe id="ifrAdGEN_RHS1" scrolling="no" margintop="0" marginleft="0" style="visibility:hidden;" src="/AdServer/AdServer.aspx?LocationCode=GEN_RHS1&amp;LocationParamValue=undefined&amp;Width=202&amp;Height=117&amp;R=51.908254783258776" frameborder="0" border="0" width="202" height="117&amp;Align=center" align="center"></iframe>
+
+                </div>
+                <div id="divRHSAd2" class="divAdArea">
+
+                    <script language="javascript" type="text/javascript">
+                           ShowAd("GEN_RHS2","",202,117, "center", "/AdServer/AdServer.aspx");
+                    </script><iframe id="ifrAdGEN_RHS2" scrolling="no" margintop="0" marginleft="0" style="visibility:hidden;" src="/AdServer/AdServer.aspx?LocationCode=GEN_RHS2&amp;LocationParamValue=undefined&amp;Width=202&amp;Height=117&amp;R=807.925826402465" frameborder="0" border="0" width="202" height="117&amp;Align=center" align="center"></iframe>
+
+                </div>
+            </div>
+        </div>
+        <div id="divClr" style="clear: both; height: 12px;">
+        </div>
+    </div>
+
+            </div>
+            <div style="clear: both; height: 14px; background-position: -1px 0px; background-image: url(/images/core/Border_Bottom.gif);">
+            </div>
+        </div>
+        <div id="ft" style="margin-bottom: 20px; padding-right: 20px;">
+            <table border="0" style="width: 100%; margin-top: 12px;">
+                <tbody><tr>
+                    <td style="width: 50%; text-align: left; vertical-align: top; padding-left:20px;">
+                        <table width="100%">
+                            <tbody><tr>
+                                <td class="FooterStateName">
+                                    CALIFORNIA
+                                </td>
+                                <td class="FooterStateName">
+                                    FLORIDA
+                                </td>
+                                <td class="FooterStateName">
+                                    ARIZONA
+                                </td>
+                                <td class="FooterStateName">
+                                    COLORADO
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="FooterDivisionName">
+                                   <a href="/14-new-homes-US-CA-Bay-Area-Division.aspx"> Bay Area</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                   <a href="/5-new-homes-US-FL-Fort-Myers-Division.aspx"> Fort Myers</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                   <a href="/10-new-homes-US-AZ-Phoenix-Division.aspx"> Phoenix </a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                   <a href="/9-new-homes-US-CO-Denver-Division.aspx"> Denver </a>
+                                </td>
+                            </tr>
+                             <tr>
+                                <td class="FooterDivisionName">
+                                    <a href="/12-new-homes-US-CA-CentralValley-Division.aspx">Central Valley</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                    <a href="/4-new-homes-US-FL-Jacksonville-Division.aspx">Jacksonville</a>
+                                </td>
+                                <td class="FooterStateName">
+                                    TEXAS
+                                </td>
+                                <td class="FooterStateName">
+                                    &nbsp;
+                                </td>
+                            </tr>
+                             <tr>
+                                <td class="FooterDivisionName">
+                                  <a href="/13-new-homes-US-CA-Sacramento-Division.aspx">Sacramento</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                   <a href="/3-new-homes-US-FL-Orlando-Division.aspx">  Orlando</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                   <a href="/7-new-homes-US-TX-Austin-Division.aspx">  Austin</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                      &nbsp;
+                                </td>
+                            </tr>
+                             <tr>
+                                <td class="FooterDivisionName">
+                                     <a href="/15-new-homes-US-CA-Southern-California-Division.aspx">Southern California</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                    <a href="/17-new-homes-US-FL-Palm-Beach-Gardens-Division.aspx"> Palm Beach</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                    <a href="/6-new-homes-US-TX-Houston-Division.aspx"> Houston</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                    
+                                </td>
+                            </tr>
+                             <tr>
+                                <td class="FooterDivisionName">
+                                    
+                                </td>
+                                <td class="FooterDivisionName">
+                                    <a href="/1-new-homes-US-FL-Sarasota-Division.aspx"> Sarasota</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                   
+                                </td>
+                                <td class="FooterDivisionName">
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="FooterDivisionName">
+                                    
+                                </td>
+                                <td class="FooterDivisionName">
+                                    <a href="/2-new-homes-US-FL-Tampa-Division.aspx"> Tampa</a>
+                                </td>
+                                <td class="FooterDivisionName">
+                                   
+                                </td>
+                                <td class="FooterDivisionName">
+                                    
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td style="width: 50%; text-align: right; vertical-align: top;">
+                        <div id="divFooterNav">
+                            <img id="ctl00_ctl00_imgHousing" src="images/core/house.gif" border="0">
+                            <img id="ctl00_ctl00_imgWheelChair" src="images/core/wheel_chair.gif" border="0">                       
+                            <a id="ctl00_ctl00_lnkContactUs" href="ContactUs/">Contact us</a>
+                            |
+                            <a id="ctl00_ctl00_lnkFAQ" href="GeneralFAQ.aspx">FAQ</a>
+                            |
+                            <a id="ctl00_ctl00_lnkSiteMap" href="SiteMap.aspx">Site Map</a>
+                            |
+                            <a id="ctl00_ctl00_lnkCareers" href="Careers/">Careers</a>
+                        </div>
+                        <div id="divFooterSubs" style="margin: 0px; margin-top: 13px;">
+                            Taylor Morrison is a subsidiary of <a target="_blank" href="http://www.taylorwimpey.com">
+                                Taylor Wimpey, plc.</a>
+                        </div>
+                        <div id="divFooterCopy" style="margin-top: 8px;">
+                            Copyright&nbsp;©2007 - 2010&nbsp;Taylor Morrison, Inc.
+			    All rights reserved. &nbsp;<a id="ctl00_ctl00_lnkTerms" href="Terms.aspx">Terms of Use</a>
+                            &nbsp;<a id="ctl00_ctl00_lnkPrivacyPolicy" href="PrivacyPolicy.aspx">Privacy Policy</a>
+                        </div>
+                        <div style="padding-top: 20px;">
+                            <img id="ctl00_ctl00_imgTMLogo" src="images/core/TaylorMorrison_footerlogo.gif" alt="Taylor Morrison" align="absmiddle" border="0" style="padding-right: 21px;">
+                            <img id="ctl00_ctl00_imgTWLogo" src="images/core/TaylorWoodrow_footerlogo.gif" alt="Taylor Woodrow Communities" height="39" width="111" border="0" style="padding-right: 21px;">
+                            <a href="http://www.monarchgroup.net" target="_blank">
+                                <img id="ctl00_ctl00_imgMonarchLogo" src="images/core/Monarch_footerlogo.gif" alt="Monarch" height="39" width="60" border="0"></a>
+                        </div>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+	<div style="text-align: left; font-size: 11px; padding-left: 20px;text-align:justify;">
+	    All incentives, pricing, availability, amenities and plans subject to change or delay without notice and are not guaranteed.  © 2007- 2010, Taylor Morrison, Inc. All rights reserved.
+    	</div>
+    </div>
+    <iframe id="ifrPrintContainer" name="ifrPrintContainer" style="width: 1px; height: 1px;
+        border: 0px;"></iframe>
+    <!-- Start Google Analytics -->
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));  
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+    <script type="text/javascript" defer="defer">
+        var pageTracker = _gat._getTracker("UA-3623926-1");
+        pageTracker._setLocalRemoteServerMode();
+        pageTracker._initData();
+        if (ga_CommID != '' && ga_CommName != '') {
+            document.cookie = "__utmv=1." + ga_CommID + "-" + ga_CommName;
+        }
+
+        pageTracker._trackPageview();
+
+        var addthis_config = { data_ga_tracker: pageTracker };
+    </script>
+    
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+
+    <!-- End Google Analytics -->
+    <!-- BEGIN Invitation Positioning  -->
+    
+    <!-- End Monitor Tracking Variables  -->
+    
+
+
+</body></html>
