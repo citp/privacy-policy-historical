@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fastcardtech.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620121332id_/http%3A//www.fastcardtech.com/article.php%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcardtech.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628142837id_/http%3A//www.fastcardtech.com/article-2-Privacy%2Bpolicy.html) for the most accurate reproduction.*
 
-# Privacy policy_SHOP INFO_SYSTEM FILE_Fastcardtech the world TOP 1 Digital product seller! - Chinese mobile phone
+# Privacy policy_Security & Privacy_HELP CENTER_SYSTEM FILE_Fastcardtech the world TOP 1 Digital product seller! - Chinese mobile phone
+
+Fastcardtech / 
 
 **Private Information Security**
 
@@ -57,3 +59,5 @@ Minors (those under the age of 18) are not eligible to use fastcardtech unless t
 **Your Responsibilities**
 
 We go to great lengths to protect all of your information on our Site. In order to help us maintain the security of your personal information, we ask that you do not share your password with anybody. Sharing this information could put you and your rating as a buyer/seller at risk. If you lose control of your password or you think that somebody has obtained unauthorized access to your account, immediately change your password. Please contact us if you have any questions.
+
+Next：[Terms of use](https://web.archive.org/web/20100628142837id_/http%3A//www.fastcardtech.com/article.php?id=16)
