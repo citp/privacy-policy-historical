@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201161728id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628182430id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
 
 # NPR Privacy Policy
 
 Privacy Policy  
 Effective Date July 26, 2009
+
+_See related:[NPR Terms of Use](https://web.archive.org/about/termsofuse.html)_
 
 At NPR, we recognize the importance of privacy to visitors of our Web sites and services (the "NPR Web Sites" or "Service"). This Privacy Policy explains what type of information is collected from you when you visit the NPR Web sites and how that information may be used. Please note that this Privacy Policy is separate and distinct from the privacy policies governing the web sites of NPR's member stations, and the web sites that may link to or from the NPR Web Sites.
 
@@ -61,7 +63,7 @@ Under 13: You must be at least 13 years old in order to register for e-mail news
 Please [Contact Us](https://web.archive.org/contact/) to a) correct or update any personal information in the NPR database that you state is erroneous, b) opt-out of future communications from NPR, or c) request NPR to make reasonable efforts to remove your personal information from the NPR Online database, thereby canceling your NPR Community profile, NPR newsletter registration and other NPR registrations. This will not necessarily remove previous public comments and other User Materials Submitted for public display on the NPR Web Sites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.
 
 **Acceptance of Privacy Policy Terms**  
-NPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the NPR Web Sites constitutes consent to any policy then in effect. Please make sure that you read NPR's [Terms of Use](https://web.archive.org/web/20091201161728id_/http%3A//www.npr.org/about/termsofuse.html) to understand additional terms and conditions which apply to the use of the NPR Web Sites.
+NPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the NPR Web Sites constitutes consent to any policy then in effect. Please make sure that you read NPR's [Terms of Use](https://web.archive.org/web/20100628182430id_/http%3A//www.npr.org/about/termsofuse.html) to understand additional terms and conditions which apply to the use of the NPR Web Sites.
 
 **Links to other Sites**  
 It is important to note that the NPR Web Sites contains links to other sites that may not follow the same privacy policies as the NPR Web Sites. For instance, clicking on a sponsorship notice on npr.org will take you to an entirely different site. These sites may use cookies, collect data, and use the data in ways that the NPR Web Sites would not. NPR is not responsible for the privacy practices or any information or materials on these other sites. Please visit these sites if you wish to review their privacy policies.
