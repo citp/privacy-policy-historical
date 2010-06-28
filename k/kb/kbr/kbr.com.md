@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the kbr.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806061931id_/http%3A//www.kbr.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbr.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628213428id_/http%3A//www.kbr.com/Privacy-Policy) for the most accurate reproduction.*
 
-# KBR - Privacy Policy
+# Privacy Policy | KBR: A Global Engineering, Construction and Services Company
 
-### Privacy Statement
+## Privacy Statement
 
-**Important:** Please read the following and the [Terms and Conditions of Use](https://web.archive.org/legal_statement.aspx) before accessing and using this Site.
+**Important:** Please read the following and the [Terms and Conditions of Use](https://web.archive.org/Legal-Statement/) before accessing and using this Site.
 
 Thank you for visiting www.kbr.com. We hope that you will find this website ("Site") helpful and informative.
 
-KBR is strongly committed to respecting the privacy of all persons using this website ("Site"), and the protection of any personal information which we may collect and which you may choose to share with us. Such personal information will be used in accordance with the disclosures in this Privacy Statement, which is part of and incorporated into the Terms and Conditions of Use of this [Site](https://web.archive.org/legal_statement.aspx).
+KBR is strongly committed to respecting the privacy of all persons using this website ("Site"), and the protection of any personal information which we may collect and which you may choose to share with us. Such personal information will be used in accordance with the disclosures in this Privacy Statement, which is part of and incorporated into the Terms and Conditions of Use of this [Site](https://web.archive.org/Legal-Statement/).
 
 **Exclusive Disclosures Pertaining to Use of Personal Information.** Please note that this Privacy Statement pertains exclusively to information which you provide to us in the course of your use and access of the Site, and does not alter or affect the terms and conditions of any other agreement that you may have or enter into with any KBR entity for any given product or service. The latter agreement will continue to govern that specific legal relationship with KBR. However, some pages on this Site or areas of this Site with restricted access ("Secured Sites", including project extranets or sites engaged in e-commerce) or in foreign locations may require the application of additional or special privacy disclosures, which will be posted on the home page of that Site.
 
-**Your Express Consent to Collection and Use of Information.** If you do not agree with any disclosure in this Privacy Statement, or have any questions, please do not access the Site, contact us directly at [kbrwebmeister@kbr.com](https://web.archive.org/contact_us.aspx), and we will be pleased to assist you. BY CHOOSING TO PROCEED AND ACCESS THE SITE, YOU ARE INDICATING YOUR EXPRESS CONSENT AND AGREEMENT TO THE COLLECTION, TRANSFER, HANDLING, PROCESSING, USE AND STORAGE IN ACCORDANCE WITH THIS PRIVACY STATEMENT OF ANY PERSONAL INFORMATION WHICH MAY BE OBTAINED FROM YOU DURING YOUR VISIT TO OUR SITE, ANY OF WHICH MAY OCCUR BOTH INSIDE AND OUTSIDE THE UNITED STATES OR THE EUROPEAN UNION IN JURISDICTIONS WHERE LEGAL PROTECTIONS MAY BE LESS STRINGENT. You grant KBR, its affiliates, and third party providers a non-exclusive, worldwide, royalty-free perpetual license to use your personal information for the purposes disclosed herein.
+**Your Express Consent to Collection and Use of Information.** If you do not agree with any disclosure in this Privacy Statement, or have any questions, please do not access the Site, contact us directly at [kbrwebmeister@kbr.com](https://web.archive.org/Contact/), and we will be pleased to assist you. BY CHOOSING TO PROCEED AND ACCESS THE SITE, YOU ARE INDICATING YOUR EXPRESS CONSENT AND AGREEMENT TO THE COLLECTION, TRANSFER, HANDLING, PROCESSING, USE AND STORAGE IN ACCORDANCE WITH THIS PRIVACY STATEMENT OF ANY PERSONAL INFORMATION WHICH MAY BE OBTAINED FROM YOU DURING YOUR VISIT TO OUR SITE, ANY OF WHICH MAY OCCUR BOTH INSIDE AND OUTSIDE THE UNITED STATES OR THE EUROPEAN UNION IN JURISDICTIONS WHERE LEGAL PROTECTIONS MAY BE LESS STRINGENT. You grant KBR, its affiliates, and third party providers a non-exclusive, worldwide, royalty-free perpetual license to use your personal information for the purposes disclosed herein.
 
 **How We May Obtain Your Personal Information.** When you visit and use this Site, we may obtain various types of information (such as your name and contact information) from you that (1) you may directly provide to us (by inputting information through various interactive features, filling out registrations, submitting inquiries, placing orders, etc.) or (2) that we will automatically collect during your visit to the site (such as your user identification and password, internet domain or IP address) as part of our normal operation.
 
@@ -22,7 +22,7 @@ KBR is strongly committed to respecting the privacy of all persons using this we
 
 You may elect not to accept "cookies" by setting your Internet options on your computer, however, please be advised that in that case, you may not be able to access part or all of this Site, or parts of this Site may not operate effectively.
 
-**How You May Review and Correct Your Collected Personal Information.** At any time you may contact us at [kbrwebmeister@kbr.com](https://web.archive.org/contact_us.aspx), request to review your personal information, if any, which we may have collected, and request that your personal information be corrected, supplemented, or permanently deleted from our systems.
+**How You May Review and Correct Your Collected Personal Information.** At any time you may contact us at [kbrwebmeister@kbr.com](https://web.archive.org/Contact/), request to review your personal information, if any, which we may have collected, and request that your personal information be corrected, supplemented, or permanently deleted from our systems.
 
 **No Warranties.** Due to the numerous technical and operational uncertainties, we cannot make any warranty, guarantee or representation concerning the accuracy, thoroughness, completeness, or currency of your information, nor over our ability to control, correct, access, handle, process, use, store or transfer such information, and all such warranties are hereby disclaimed.
 
@@ -32,6 +32,6 @@ You may elect not to accept "cookies" by setting your Internet options on your c
 
 **Limitation of Liability.** IN NO EVENT WILL KBR, ITS AFFILIATES AND DIVISIONS, AND THEIR RESPECTIVE EMPLOYEES, OFFICERS, DIRECTORS, CONTRACTORS, SUPPLIERS, VENDORS, INSURERS AND AGENTS, BE LIABLE TO YOU OR TO ANY OTHER PERSON FOR ANY COSTS, DAMAGES (INCLUDING ANY SPECIAL, INCIDENTAL, EXEMPLARY, INDIRECT OR CONSEQUENTIAL DAMAGES), OR LIABILITY OF ANY NATURE, ARISING FROM ANY CAUSE, RESULTING FROM THE COLLECTION, USE, TRANSFER, PROCESSING, HANDLING, CONTENT, OR STORAGE OF PERSONAL INFORMATION OBTAINED OR SUBMITTED BY YOU RESULTING FROM YOUR ACCESS AND USE OF THIS SITE.
 
-If you have any questions or comments about this Privacy Statement or the use of your information, please contact us by contacting us at [kbrwebmeister@kbr.com](https://web.archive.org/contact_us.aspx).
+If you have any questions or comments about this Privacy Statement or the use of your information, please contact us by contacting us at [kbrwebmeister@kbr.com](https://web.archive.org/Contact/).
 
 Last Updated: 11/10/2006
