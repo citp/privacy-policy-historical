@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allyou.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228085846id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/allyou%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allyou.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628154353id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/allyou%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # All You Privacy Policy
 
@@ -25,7 +25,7 @@
   
 This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/allyou?dnp_source=E) or [Canada](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/allyou?dnp_source=E). 
 
-Thank you for visiting All You, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.
+Thank you for visiting All You, a site within the network of sites of Time Inc. and its subsidiaries, each of which have adopted this Privacy Notice. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice.
 
 |    
   
@@ -118,4 +118,4 @@ Tampa, Florida 33612-6408
 [http://www.allyou.com](http://www.allyou.com/)
 
 | back to top  
-|  This Privacy Notice was revised 4/13/2009.
+|  This Privacy Notice was revised 6/21/2010.
