@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolfatbestbuy.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105030214id_/http%3A//www.bestbuy.com/site/olspage.jsp%3Ftype%3Dpage%26entryURLType%3D%26entryURLID%3D%26categoryId%3Dcat10011%26contentId%3D1043363533588%26id%3Dcat12098) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfatbestbuy.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628021848id_/http%3A//www.bestbuy.com/site/olspage.jsp%3Ftype%3Dpage%26entryURLType%3D%26entryURLID%3D%26categoryId%3Dcat10011%26contentId%3D1043363533588%26id%3Dcat12098) for the most accurate reproduction.*
 
 # BestBuy.com Help
 
@@ -16,7 +16,7 @@ Personal Information
 Uses of Information  
 
 
-  * **Best Buy does not sell or rent your personal information to third parties**. 
+  * **Best Buy does not sell, rent or trade your personal information to third parties**. 
   * We use information about you to fulfill your requests, administer various programs, provide services, and for other business purposes.
   * Your personal information may be shared with current or future Best Buy entities or subsidiaries.
   * We may also use the information you provide to send you marketing communications. 
@@ -49,7 +49,7 @@ If you have questions about Best Buy's Privacy Policy, contact us by:
 
 **Regular mail:**  
 Best Buy Corporate Campus  
-Attn: Privacy Manager  
+Attn: Customer Care/Privacy  
 7601 Penn Avenue South  
 Richfield, MN 55423-3645  
   
@@ -69,7 +69,7 @@ The Best Buy Companies follow these privacy principles both online and offline i
 
 
 
-Best Buy Co., Inc. is the parent company of the Best Buy Companies, and as such, if you provide information to any of the businesses, stores or Web sites owned or operated by Best Buy, this information may be combined or shared among current or future Best Buy Co., Inc. entities and subsidiaries. The Best Buy Companies operate businesses, retail stores and Web sites under the names Best Buy (BestBuy.com), Best Buy Mobile, (BestBuyMobile.com), Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Speakeasy, (Speakeasy.net), Audio Visions (Avisions.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn), Napster (Napster.com) among others. 
+Best Buy Co., Inc. is the parent company of the Best Buy Companies ("Best Buy"), and as such, if you provide information to any of the businesses, stores or Web sites owned or operated by Best Buy, this information may be combined or shared among current or future Best Buy Co., Inc. entities and subsidiaries. The Best Buy Companies operate businesses, retail stores and Web sites under the names Best Buy (BestBuy.com), Best Buy Mobile, (BestBuyMobile.com), Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Speakeasy, (Speakeasy.net), Audio Visions (Avisions.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn), Napster (Napster.com) among others. 
 
 Each member of the Best Buy Companies, and/or each Web site established by a member of the Best Buy companies, may have its own Privacy Policy which it may modify as needed consistent with these principles. 
 
@@ -104,7 +104,7 @@ As part of your interaction with Best Buy, we may collect personal information s
 
 We may also collect demographic information, including age, personal interests and product preferences. 
 
-While shopping or taking advantage of services available from us, we may ask that you provide personal information. For example, we may request personal information when you: 
+While shopping or taking advantage of services available from us, we may ask that you provide personal information. For example, we may request and/or collect personal information when you: 
 
   * Purchase products or services
   * Set up an account online
@@ -132,7 +132,7 @@ We use the personal information you provide for purposes including, but not limi
   * Improving the effectiveness of our Web sites, our marketing endeavors and our services and offers
   * Conducting research and analysis
   * Sending marketing communications
-  * Performing other business activities as needed
+  * Performing other business activities as needed, or as described elsewhere within this Policy
 
 
 
@@ -142,7 +142,7 @@ PERSONAL INFORMATION **PROVIDED** TO BEST BUY FROM THIRD PARTIES
 
 _**Information From/About Friends or Family**_
 
-If you provide us information about others, or if others give us your information, we will only use that information for the specific reason it was provided. Examples include providing a friend's shipping address, e-mailing our weekly ad to a friend, and e-mailing friends a link to your Wish List. 
+If you provide us information about others, or if others give us your information, we may store that data and will only use that information for the specific reason it was provided. Examples include providing a friend's shipping address, e-mailing our weekly ad to a friend, and e-mailing friends a link to your Wish List. 
 
 **_Information from Third Parties_**
 
@@ -152,7 +152,7 @@ Back to Top
 
 **SHARING OF** PERSONAL INFORMATION
 
-Best Buy does not sell or rent your personal information to third parties. 
+Best Buy does not sell, rent or trade your personal information to third parties. 
 
 We may need to share your personal information within the Best Buy Companies. These companies may use this information to offer you products and services that may be of interest to you. 
 
@@ -168,6 +168,7 @@ In addition, Best Buy may share customer information with certain third parties 
   * Conducting research, analysis or administering surveys
   * Sending regular mail and e-mail on behalf of Best Buy
   * Processing credit card payments 
+  * Providing chat functions
 
 
 
@@ -175,7 +176,11 @@ The third parties with whom we conduct business are authorized to use your infor
 
 We may also share aggregated data with third parties for analysis and research purposes. This data does not contain name, address or other personally identifiable information. 
 
-From time to time, we may be required to share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may share certain personal information when we believe that such release is reasonably necessary to protect the rights, property and safety of others and ourselves. We may also transfer personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event. 
+From time to time, we may be required to share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. We may share certain personal information when we believe that such release is reasonably necessary to protect the rights, property and safety of others and ourselves. We may also transfer personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
+
+Any personally identifiable information you submit on a bulletin board, blog, chat room, comment about a product, or any other public forum on this Web site can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We recommend that you do not provide your name, e-mail address or any other personal information. Please note that if you choose to do so, it is at your own risk and you accept full responsibility for those posts and any consequences that may arise from posting this information.
+
+At times we may partner with a third party to create a site that may look as if you are on a www.bestbuy.com page. These sites may be co-branded or may have the look and feel of being on our site. However, the information collected on these pages may not be covered under the Best Buy Privacy Policy. We will provide notice on these sites and post the privacy policy that is applicable to the information collected on these pages. 
 
 Back to Top
 
@@ -231,7 +236,7 @@ Richfield, MN 55423-3645
 
 
 
-If you send an e-mail or letter request, please be sure to include your current information and the requested changes. 
+If you send an e-mail or letter request, please be sure to include your current information and the requested changes. We will respond to your request within 30 days. 
 
 Back to Top
 
@@ -263,7 +268,7 @@ _**Clickstream Technology**_
 
 Our Web server automatically collects clickstream information such as the address (or URL) of the Web site that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you may have entered on our site, among other things. 
 
-Our Web site may also use other technologies to track which pages our visitors view. This anonymous clickstream data provides our customers with a better shopping experience and helps Best Buy understand how visitors use our Web site. 
+Our Web site may also use other technologies to track which pages our visitors view. This anonymous clickstream data provides our customers with a better, more secure shopping experience and helps Best Buy understand how visitors use our Web site. 
 
 _**Third Party Ad Providers and Interest-Based Advertising**_
 
@@ -282,6 +287,14 @@ Back to Top
 U.S. - **EU SAFE HARBOR** FRAMEWORK
 
 We adhere to the U.S.-EU Safe Harbor Framework ("Safe Harbor Framework") Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the U.S. Department of Commerce's Safe Harbor Program. 
+
+Best Buy Co, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. 
+
+As part of our participation in the Safe Harbor Framework, we have agreed to use TRUSTe to resolve disputes relating to our compliance with the Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url). TRUSTe will then serve as a liaison with us to resolve your concerns. Fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. 
+
+If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. 
+
+For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
 
 Back to Top
 
@@ -304,10 +317,17 @@ Back to Top
 
 PRIVACY POLICY **CHANGES**
 
-As Best Buy continues to improve the services, products and the features we provide, this policy is subject to change. If there are changes or additions to this Privacy Policy, we will post those changes here or in other formats for you to review. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided it, we will give you the opportunity to opt-out of having your information used or shared in that new manner. 
+As Best Buy continues to improve the services, products and the features we provide, this policy is subject to change. We will post significant changes to this Policy here and/or other formats for you to review. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided it, we will give you the opportunity to opt-out of having your information used or shared in that new manner. 
 
-**Changes** : Included additional details concerning the use of third party providers that deliver interest-based advertising, including links to more information about how interest-based advertising works and how to opt-out of receiving such advertising. Provided instructions on how to opt-out of mobile marketing communications.
+Changes as of the last revision date relate primarily to our participation in TRUSTe's Safe Harbor Privacy Program, and include the following clarifications and enhancements:
 
-Last revision date: September 29, 2009 
+  * clarifying purposes for sharing personal information with service providers working on our behalf
+  * confirmation that Best Buy does not sell, rent or trade personal information
+  * additional information related to the use of public forums and the use of co-branded sites
+  * an extended description of Best Buy's participation in the US-EU Safe Harbor Framework
+
+
+
+Last revision date: January 13, 2010 
 
 Back to Top
