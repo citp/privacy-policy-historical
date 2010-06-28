@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yourmusic.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216040849id_/http%3A//www.yourmusic.com/help/index_sub.html%3Ffaq_section%3D8%26sub_section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourmusic.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628160552id_/http%3A//www.yourmusic.com/help/index_sub.html%3Ffaq_section%3D8%26sub_section%3Dprivacy) for the most accurate reproduction.*
 
 # Yourmusic.com
 
 Privacy Policy
 
-This Web site, located at yourmusic.com (this "Site") is operated by yourmusic.com, a subscription music service owned by BMG Columbia House, Inc. (referred to collectively herein, along with its affiliates, as "yourmusic.com" or "we" or "us" or "our"). 
+This Web site, located at yourmusic.com (this "Site") is operated by yourmusic.com, a subscription music service owned by Direct Brands, Inc. (referred to collectively herein, along with its affiliates, as "yourmusic.com" or "we" or "us" or "our"). 
 
 _Your privacy is important._
 
@@ -13,7 +13,7 @@ At yourmusic.com, we know that your privacy is important to you. It's important 
 You're always in control:  
 Except as otherwise provided in this Privacy Policy, the only information that we collect from you is information that you give us when you register and when you make purchases or otherwise use this Site. We use that information, for example, to service your account and to personalize your experience at this Site. Other than as set forth in this Privacy Policy and/or in the Terms and Conditions, we'll never share your e-mail address with third parties interested in e-mailing you, or send you our own promotional e-mails, without your consent (either communicated to us or to a company that we have since acquired), except in connection with your transactions on this site. However, if you became a yourmusic.com subscriber after June 1, 2006 (or if you were a yourmusic.com subscriber before that date but have since opted-in to this Privacy Policy) we may send you promotional messages without your consent, but you may opt-out by visiting Subscription Preferences at yourmusic.com and changing your e-mail preferences. 
 
-To see (or change) your current subscriber information in your user account, click "Your Account." (You will need to do this for each account, if you have more than one account.) If you wish to change information offline, or if there are circumstances in which you wish to have your spouse, relative, or other trusted friend have access to your information, please write to us at yourmusic.com, 6550 East 30th Street, Indianapolis, IN 46291. 
+To see (or change) your current subscriber information in your user account, click "Your Account." (You will need to do this for each account, if you have more than one account.) If you wish to change information offline, or if there are circumstances in which you wish to have your spouse, relative, or other trusted friend have access to your information, please write to us at yourmusic.com, PO Box 91601, Rantoul IL 61866-8601. 
 
 **For information about how you can change your preferences regarding the use and disclosure of your contact information for marketing purposes, see the Your Opt-Out Rights section below.**
 
@@ -64,7 +64,7 @@ E-mail addresses:
 We never sell or rent your name and e-mail address to other online marketers of products or services without your consent. You make the decisions on how you would like to hear from us (in addition to the monthly e-mails and transactional e-mails that are part of your subscription) and if you are interested in receiving valuable offers from other reputable marketers of products and services. You can change your preferences at any time by going to the "Subscription Preferences" section of this Site. In addition, all promotional e-mail that you receive from yourmusic.com (not including service e-mails, such as the monthly e-mails that are part of your subscription) will always allow you to unsubscribe to future e-mail promotions from yourmusic.com if you decide to do so at a later date. 
 
 Postal mailing lists:  
-We make our postal mailing list available to selected companies whose products and services we think you will enjoy. Once again, you have the option of removing your name and address from our mailing list by simply writing to us at yourmusic.com, P.O. Box 1958, Indianapolis, IN 46291-0010. Or you can go to the Customer Service section of this Site and send us an e-mail requesting we remove your name from our mailing list. Please do not forget to include your account number (but not your password or any other sensitive information!). 
+We make our postal mailing list available to selected companies whose products and services we think you will enjoy. Once again, you have the option of removing your name and address from our mailing list by simply writing to us at yourmusic.com, PO Box 91601, Rantoul IL 61866-8601. Or you can go to the Customer Service section of this Site and send us an e-mail requesting we remove your name from our mailing list. Please do not forget to include your account number (but not your password or any other sensitive information!). 
 
 External sites:  
 yourmusic.com may run sweepstakes with select companies or place advertisements or other promotional offers from select companies on our website or in our e-mails. When you choose to participate in these sweepstakes or promotional offers, you may link to these businesses' websites and be asked to give them personal information, or we may send over your personal information if you enter it on this Site. These businesses operate independently from yourmusic.com. Any personal information that is given to them is at your option and is no longer controlled by us or our Privacy Policy. 
@@ -83,4 +83,4 @@ Please note that because a customer information database is customarily consider
 
 Comments: If you have any questions or comments about our Privacy Policy, please send us an e-mail by clicking on Contact Customer Service. 
 
-Date of Last Update to Privacy Policy: 06/01/2006 
+Date of Last Update to Privacy Policy: 11/21/2008 
