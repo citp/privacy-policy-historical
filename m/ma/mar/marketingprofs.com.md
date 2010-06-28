@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904212750id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629001507id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Marketing Profs Privacy Policy
+# MarketingProfs Privacy Policy
 
 **This policy was last updated on June 15, 2008**
 
