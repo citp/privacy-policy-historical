@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoopasia.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227184815id_/http%3A//scoopasia.com/index.php/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoopasia.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628035618id_/http%3A//scoopasia.com/index.php/info/privacy) for the most accurate reproduction.*
 
 # Scoopasia
 
