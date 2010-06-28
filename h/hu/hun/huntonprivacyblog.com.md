@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224233241id_/http%3A//www.huntonprivacyblog.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628044421id_/http%3A//www.huntonprivacyblog.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Privacy & Information Security Law Blog
 
