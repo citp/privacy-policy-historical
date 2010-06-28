@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124210928id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628085659id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # FaucetDirect.com: Security & Privacy
 
@@ -32,7 +32,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 ## Emails and Newsletters
 
-ImprovementDirect uses emails as one of our primary ways to respond and communicate. All emails sent are either a direct response to an inquiry, communication concerning an order (reciept, shipping confirmation, etc) or a newsletter if you have indicated you wish to receive specials on your account information.
+ImprovementDirect uses emails as one of our primary ways to respond and communicate. All emails sent are either a direct response to an inquiry, communication concerning an order (receipt, shipping confirmation, etc) or a newsletter if you have indicated you wish to receive specials on your account information.
 
 From time to time, we may notify you of special offers that take into consideration your historic purchasing activity with us. We do not share or otherwise sell your contact information to unrelated third parties.
 
