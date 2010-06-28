@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the babeland.com privacy policy that was archived on 2009-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416014222id_/http%3A//www.babeland.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the babeland.com privacy policy that was archived on 2010-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628194958id_/http%3A//www.babeland.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -79,10 +79,7 @@
         
     
 
-    <!-- 2004-05-28 jw: javascript for urchin -->
-<!--    <script type="text/javascript"      tal:attributes="src string:$portal_url/__utm.js"></script> -->
-               
-    <!-- Common Plone ECMAScripts -->
+   <!-- Common Plone ECMAScripts -->
 
     <!-- Pull-down ECMAScript menu, only active if logged in -->
     
@@ -101,21 +98,18 @@
     </script>
 
   
-    <script type="text/javascript" src="http://store.babeland.com/javascripts/promorotator2.js">
-   </script>
-
-    <!-- 2005-9-17 gaba: myaffiliateprogram -->
+<!-- 2005-9-17 gaba: myaffiliateprogram -->
 
 <script type="text/javascript" src="http://www.babeland.com/home/referdetect.js">
     </script>
     <script type="text/javascript" src="http://www.babeland.com/swfobject.js">
     </script>
 
-<script type="text/javascript" src="http://www.babeland.com/jquery.js">
+<script type="text/javascript" src="http://www.babeland.com/jquery-1.3.2.min.js">
     </script>
     <script type="text/javascript" src="http://www.babeland.com/jquery.bookmark.js">
     </script>
-	    <script type="text/javascript" src="http://www.babeland.com/jquery.cycle.all.js">
+	    <script type="text/javascript" src="http://www.babeland.com/jquery.cycle.all.min.js">
     </script>
 
 
@@ -125,17 +119,62 @@ $(function () {
     ['myspace', 'twitthis']});
 });
 
-$(function() {
+
+  var stack = []; 
+ 
+    // preload sidebar images into an array;  
+    for (var i = 2; i < 2; i++) { 
+        var img = new Image(125,125); 
+        img.src = '/images/promotional/promo' + i + '.jpg'; 
+        $(img).bind('load', function() { 
+            stack.push(this); 
+        }); 
+    }  
+	
+	// preload bottom banner images into an array;  
+    for (var i = 2; i < 2; i++) { 
+        var img = new Image(748,100); 
+        img.src = '/images/promotional/banner' + i + '.jpg'; 
+        $(img).bind('load', function() { 
+            stack.push(this); 
+        }); 
+    }  
+ 
+    // start sidebar slideshow 
+    $('#promo-sidebar').cycle({ 
+        timeout:  3000, 
+        before:   onBefore 
+    }); 
+	
+	
+ 
+    // start bottom banner slideshow 
+    $('#bottombanner').cycle({ 
+        timeout:  3000, 
+        before:   onBefore 
+    }); 
+ 
+    // add images to slideshow 
+    function onBefore(curr, next, opts) { 
+        if (opts.addSlide) // <-- important! 
+            while(stack.length) 
+                opts.addSlide(stack.pop());  
+    }; 
+	
+	$(function() {
     
 
     $('#slider-image').cycle({
 	fx:    'fade', 
-    speed:  4000 
+    speed:  2000 
 	});
   
 });
-
 </script>
+
+
+<!--fb default image -->
+<link rel="image_src" href="http://www.babeland.com/images/babeland-nav.gif">
 
     
 
@@ -145,7 +184,21 @@ $(function() {
   <script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=67367566"></script></head>
 
 <body>
+<!--GA code-->
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-93861-1");
+pageTracker._setDomainName(".babeland.com");
+pageTracker._setAllowLinker(true);
+pageTracker._setAllowHash(false);
+pageTracker._trackPageview();
 
+} catch(err) {}</script>
+    <!--/GA code-->
 <div id="visual-portal-wrapper">
 
 
@@ -154,18 +207,19 @@ $(function() {
       
 	
 	<div id="portal-top">
-  <p id="babeland-logo"><a href="/">Babeland</a></p>
+  <p id="babeland-logo"><a href="/" rel="home">Babeland</a></p>
    
-   <div id="portal-top-contact">order <a href="/vibrators" alt="babeland's phone">online</a> or by phone <br>
-      <img alt=" " src="http://www.babeland.com/global_images/ico-phone.gif" height="13" width="19"> (800) 658-9119
-	  <p id="hours">M-F 8a-6p PST</p>
+   <div id="portal-top-contact"><!--<img tal:attributes="src phone/absolute_url; width phone/width; height phone/height" alt=" " />--> (800) 658-9119
+	  <p id="hours">M-F 9a-5p PST<br>
+	  <a href="http://www.babeland.com/about/contactus/mailorder">customerservice@babeland.com</a></p>
 	  </div> <br><!--/portal-top-contact-->
 	
 	  <ul id="utilitynav">
-    <li><a href="http://store.babeland.com/cart">Cart </a></li>
+        <li><a href="http://store.babeland.com/cart"> Cart <img src="images/global_images/ico-cart-white.gif" style="padding-bottom: 2px;"></a></li>
 	
 	   
 	  <li><a href="http://www.babeland.com/about/subscribe-briefs">Newsletters</a></li>
+   <li><a href="/sexinfo/funstuff/sex-toy-specials/">Specials</a></li>
     <!-- BEGIN Live Chat -->
 <li id="chat">
 <a id="_lpChatBtn" class="liveperson" href="http://server.iad.liveperson.net/hc/67367566/?cmd=file&amp;file=visitorWantsToChat&amp;site=67367566&amp;byhref=1&amp;imageUrl=http://www.babeland.com/images/livechat/" target="chat67367566" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/67367566/?cmd=file&amp;file=visitorWantsToChat&amp;site=67367566&amp;imageUrl=http://www.babeland.com/images/livechat/&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat67367566','width=475,height=400,resizable=yes');return false;">
@@ -173,6 +227,7 @@ $(function() {
 
 </li>
 <!-- END Live Chat -->
+
 	   
     </ul>
  </div><!--/portal top-->
@@ -190,17 +245,16 @@ $(function() {
 	  
   <ul>
       <li id="nose">&nbsp;</li>
-      <li><a href="/">home</a></li>
+      <li><a href="/" rel="home">home</a></li>
       <li><a href="http://store.babeland.com">shop</a></li>
       <li><a href="/sexinfo/">how to</a></li>
-      <li><a href="/sexy-gifts">gifts</a></li>
+      <li><a href="http://store.babeland.com/sexy-packs">gifts</a></li>
       <li><a href="http://blog.babeland.com">blog</a></li>
       <li><a href="/events/">events</a></li>
       <li><a href="/about/locations">stores</a></li>
 	  <li><a href="/about">about</a></li>
     </ul>
   </div><!--/topnav-->
-
 
 	
 	 
@@ -247,20 +301,25 @@ $(function() {
 </div>
 <!--/breadcrumbs-->
   
-  <div id="share">
+<div id="share">
      
     <!--FACEBOOK-->
 <span class="bookmark_list bookmark_compact ">
 <script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script>
- <a href="http://www.facebook.com/share.php?u=&lt;url&gt;" onclick="return fbs_click()" target="_blank">
+ <a href="http://www.facebook.com/share.php?u=&lt;url&gt;" onclick="return fbs_click()" target="_blank" rel="me">
 <img src="http://b.static.ak.fbcdn.net/images/share/facebook_share_icon.gif?8:26981" alt="post to facebook" title="post to Facebook"></a>
 <!--/FACEBOOK-->
 </span>
 <span id="selectBookmark"></span>
 </div>
-  
+
+
 </div>
-	
+	<div style="clear:both">&nbsp; </div>
+	<!--<p class="maintenance"></p> -->
+
+
+	<div style="clear:both;">&nbsp;</div>
         <!-- start of main content block -->
         <div id="portal-column-content">
 
@@ -398,13 +457,13 @@ call toll-free (800) 658-9119.<br>
 
                 
 				<!--/portal-column-content-->
-
-          
+ 
  <!-- end of content -->
  
-        </div> <!--/content container -omit-tag-->
+         <!--/content container -omit-tag-->
         
 
+          </div>
        
         <div id="portal-column-one">
             
@@ -417,48 +476,51 @@ call toll-free (800) 658-9119.<br>
             
 
 	
-	<div id="helpmechoose">
-<p><a href="http://www.babeland.com/date"> <img src="/images/seasonal/hotdatenight103x118.jpg" border="0" id="promo"></a></p>
- 
-	  
-    </div>
-    <!--/helpmechoose-->
-	
+	<div id="promocontainer">
+	 <div id="promo-sidebar">
+	<a href="/sexinfo/features/moregasm-promo-2010" title="moregasmic sex toys"><img src="/images/promotional/promo1.jpg" alt="choose a sex toy" width="125" height="125"></a>
+	<a href="/babeland-staff-picks" title="staff picks sex toys"><img src="/images/promotional/promo2.jpg" alt="staff picks" width="125" height="125"></a>
+    </div> <!--/promo-sidebar-->
+    </div> <!-- /promocontainer-->
+   
+	<br>
     <div id="best-sellers">
-  <h2><a href="http://store.babeland.com/vibrators-top-picks">Best Sellers</a></h2>
+  <h2><a href="http://store.babeland.com/vibrators-top-picks" title="bestsellers">Bestsellers</a></h2>
     <ol>
-	 <li><a href="http://store.babeland.com/vibrators-premium/gigi">Gigi </a></li>
-	 <li><a href="http://store.babeland.com/vibrators-electric/We-vibe">We Vibe</a></li>
-	 <li><a href="http://store.babeland.com/dildos-g-spot/jupiter-wand">Pure Wand</a></li>
+	<li><a href="http://store.babeland.com/vibrators-premium/gigi" title="gigi vibrator">Gigi</a></li>
+	 <li><a href="http://store.babeland.com/vibrators-premium/jimmyjane-form-2" title="form 2 vibrator">Jimmyjane Form 2</a></li>
+	 <li><a href="http://store.babeland.com/vibrators-electric/we-vibe" title="we vibe vibrator">We Vibe II</a></li>
+	<li><a href="http://store.babeland.com/vibrators-rabbit-style/elastomer-rabbit-habit" title="rabbit vibrator">Rabbit Habit</a></li>
+	 <li><a href="http://store.babeland.com/vibrators-rabbit-style/ina-by-lelo" title="Lelo Ina vibrator">Ina</a></li>
 	 
-	 <li><a href="http://store.babeland.com/vibrators-premium/sasi-vibrator-by-babeland">SaSi</a></li>
-	 <li><a href="http://store.babeland.com/sexy-packs/usual-suspects-kit-iconic">Usual Suspects Kit</a></li>
-	 </ol>
+	
+	</ol>
 	 
-    </div>
+    </div> 
     <!--/best-sellers-->
 	
     <div id="shop-nav">
-        <h2><a href="/vibrators">Shop</a></h2>
+       <h2><a href="/vibrators">Shop</a></h2>
       <ul>
-		<li><a href="/babeland-staff-picks">Staff Picks - Sale</a></li>
-			  
+		
+		<li><a href="http://store.babeland.com/sale">Sale</a></li>	  
         <li><a href="http://store.babeland.com/new">New Sex Toys</a></li>
         <li><a href="/vibrators">Vibrators</a></li>
         <li><a href="/dildos">Dildos</a></li>
-        <li><a href="/mens-toys">Men’s Sex Toys</a></li>
+        <li><a href="http://store.babeland.com/vibrators-couples">Couple's Sex Toys</a></li>
+        <li><a href="/mens-toys">Men's Sex Toys</a></li>
         <li><a href="/butt-toys">Butt Toys - Anal Play</a></li>
         <li><a href="/harnesses">Dildo Harnesses</a></li>
         <li><a href="/bdsm">Bondage Toys</a></li>
         <li><a href="/lube-and-safe-sex">Lube &amp; Safer Sex</a></li>
         <li><a href="/sexy-gifts">Sexy Gifts</a></li>
-        <li><a href="/lotions-and-potions">Lotions &amp; Potions</a></li>
+        <li><a href="/lotions-and-potions">Massage &amp; Body</a></li>
         <li><a href="/videos-and-dvds">Adult DVDs</a></li>
         <li><a href="/books">Sex Books</a></li>
         <li><a href="http://store.babeland.com/deluxe-delights">Deluxe Sex Toys</a></li>
         <li><a href="/brands">Sex Toys by Brand</a></li>
         <li><a href="http://store.babeland.com/under-30">Under $30</a></li>
-        <li><a href="http://store.babeland.com/sale">Sale</a></li>
+        <li><a href="/babeland-staff-picks">Staff Picks</a></li>
       </ul>
   
    
@@ -492,15 +554,16 @@ call toll-free (800) 658-9119.<br>
 
 
 
-     <div id="portal-column-one-ads"> <a href="/about/presskit/babeland-honors"> <img src="/images/global_images/sidenav-zagat.gif" width="98" height="81" alt="Zagat's Award, Best Customer Service 2006"></a><br>
-      <a href="http://www.passionatevod.com/" target="_blank"><img src="/images/global_images/dirtyflirty.jpg" width="98" height="98" alt="dirty flirty"></a>
+     <div id="portal-column-one-ads"> <a href="/about/presskit/babeland-honors"> <img src="/images/global_images/sidenav-zagat.png" width="125" height="125" alt="Zagat's Award, Best Customer Service 2006"></a><br>
+      <a href="http://www.passionatevod.com/" target="_blank"><img src="/images/global_images/dirtyflirty.png" width="125" height="125" alt="dirty flirty"></a>
+
+ <a href="http://store.babeland.com/books-sex-information/moregasm-babeland-s-guide-to-mind-blowing-sex"><img src="/images/global_images/moregasm.jpg" width="125" height="125" alt="moregasm"></a>
+
 	<!-- START SCANALERT CODE -->
 <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.babeland.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.babeland.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
 <!-- END SCANALERT CODE -->
-	   
-	   </div>
+	   </div>	   
 	   <!--/portal-column-one-ads-->
-
 
         
 
@@ -517,8 +580,10 @@ call toll-free (800) 658-9119.<br>
  </div>    <!-- contentwrapper -->
    
     
+	
     <!-- main and left columns -->
-
+	<br>
+<div id="bottombanner" class="center"> <a href="/babeland-staff-picks"><img src="/images/promotional/banner1.jpg" width="728" height="90" alt="staff pick sex toys"></a></div> 
  
 <div id="buyersguides">
 <div id="buyerswrapper">
@@ -533,12 +598,12 @@ call toll-free (800) 658-9119.<br>
     <div class="buyer-guide-item">
       <h4><a href="http://www.babeland.com/sexinfo/howto/choose-sex-toy-gift">Sex Toy Gifts</a></h4>
       
-	  <p><a href="http://www.babeland.com/sexinfo/howto/choose-sex-toy-gift"><img src="/images/global_images/1400800-a_rp.jpg" alt="sex toy gifts" width="35" height="35" border="0"></a>Sex toys make great gifts for any occasion. Choose from romantic gift kits, <a href="http://www.babeland.com/sexinfo/howto/choose-sex-toy-gift">pre-wrapped sexy gifts</a> products, and other sensuals.<a href="http://www.babeland.com/sexinfo/howto/choose-sex-toy-gift">  more</a></p>
+	  <p><a href="http://www.babeland.com/sexinfo/howto/choose-sex-toy-gift"><img src="http://store.babeland.com/photos/1400800-a_rp.jpg" alt="sex toy gifts" width="35" height="35" border="0"></a>Sex toys make great gifts for any occasion. Choose from romantic gift kits, <a href="http://www.babeland.com/sexinfo/howto/choose-sex-toy-gift">pre-wrapped sexy gifts</a> products, and other sensuals.<a href="http://www.babeland.com/sexinfo/howto/choose-sex-toy-gift">  more</a></p>
     </div>
     <!--/buyer-guide-item-->
     <div class="buyer-guide-item">
       <h4> <a href="http://www.babeland.com/sexinfo/howto/choose-a-dildo">Dildos</a></h4>
-      <p><a href="http://www.babeland.com/sexinfo/howto/choose-a-dildo"><img src="/images/global_images/0220000-a_rp.jpg" alt="dildos" width="35" height="35" border="0"></a>Silicone dildos, <a href="http://store.babeland.com/dildos-hard">glass dildos</a> or <a href="http://www.babeland.com/sexinfo/howto/choose-a-dildo">double dildos</a>? Find help with materials, sizes, styles, and harness-compatibility.<a href="http://www.babeland.com/sexinfo/howto/choose-a-dildo">  more</a></p>
+      <p><a href="http://www.babeland.com/sexinfo/howto/choose-a-dildo"><img src="http://store.babeland.com/photos/0220000-a_rp.jpg" alt="dildos" width="35" height="35" border="0"></a>Silicone dildos, <a href="http://store.babeland.com/dildos-hard">glass dildos</a> or <a href="http://www.babeland.com/sexinfo/howto/choose-a-dildo">double dildos</a>? Find help with materials, sizes, styles, and harness-compatibility.<a href="http://www.babeland.com/sexinfo/howto/choose-a-dildo">  more</a></p>
     </div>
     <!--/buyer-guide-item-->
   </div>
@@ -551,7 +616,7 @@ call toll-free (800) 658-9119.<br>
     <!--/buyer-guide-item-->
     <div class="buyer-guide-item">
       <h4><a href="http://www.babeland.com/sexinfo/howto/choose-lube">Lubricant</a></h4>
-      <p><a href="http://www.babeland.com/sexinfo/howto/choose-lube"><img src="/images/global_images/0714300-a_rp.jpg" alt="lubricant" width="35" height="35" border="0"></a>Find the <a href="http://www.babeland.com/sexinfo/howto/choose-lube">personal lubricant</a> that best suits your needs by answering some simple questions in this easy guide. <a href="http://www.babeland.com/sexinfo/howto/choose-lube">  more</a></p>
+      <p><a href="http://www.babeland.com/sexinfo/howto/choose-lube"><img src="http://store.babeland.com/photos/0714300-a_rp.jpg" alt="lubricant" width="35" height="35" border="0"></a>Find the <a href="http://www.babeland.com/sexinfo/howto/choose-lube">personal lubricant</a> that best suits your needs by answering some simple questions in this easy guide. <a href="http://www.babeland.com/sexinfo/howto/choose-lube">  more</a></p>
     </div>
     <!--/buyer-guide-item-->
     <div class="buyer-guide-item">
@@ -601,20 +666,22 @@ call toll-free (800) 658-9119.<br>
     <li><a href="/about/">about</a> |</li>
     <li><a href="http://store.babeland.com/cart">view cart</a> |</li>
     <li><a href="/about/affiliates/">affiliates</a> |</li>
-    <li><a href="/about/presskit/">press kit</a> |</li>
-    <li><a href="http://store.babeland.com/sexy-gear/babeland-gift-card">gift card</a> |</li>
-    <li><a href="/about/privacy-policy">privacy</a> |</li>
+    <li><a href="/about/presskit/">press</a> |</li>
+	<li><a href="/about/babeland-party-details/">private parties</a> |</li>
+    <li><a href="http://store.babeland.com/sexy-gear/babeland-gift-card">gift card</a></li>
+	<li><a href="/about/privacy-policy">privacy</a> |</li>
     <li><a href="/order-info/">order &amp; return info</a> |</li>
     <li><a href="/sitemap/">site map</a> |</li>
     <li><a href="/store_map_TIB.html">store map</a> |</li>
     <li><a href="/about/contactus/">contact</a> |</li>
     <li><a href="/sexinfo/RSSfeed">rss</a> |</li>
-    <li><a href="http://blog.babeland.com">blog</a></li>
-	<li><a href="http://www.babeland.com/about/babeland-wholesale/">wholesale</a></li>
+    <li><a href="http://blog.babeland.com">blog</a> |</li>
+	<li><a href="/about/babeland-wholesale/">wholesale</a></li>
   </ul>
         
         
-          <p>  Content © 2007 <a href="http://www.babeland.com">Babeland</a>, LLC. All Rights Reserved.<br>
+		
+	         <p>  Content © <span>2010</span> <a href="http://www.babeland.com">Babeland</a>, LLC. All Rights Reserved.<br>
             Unauthorized use of these materials is prohibited.<br>
 			Models shown on this site were over 18 years old when photographed</p>
 		<p>Here you'll find a wide selection of <a href="/sex-toys.html">sex toys</a> including <a href="/dildos.html">dildos</a>, <a href="/vibrators.html">vibrators</a>, and other <a href="/sexy-gifts.html">sexy gifts</a> for yourself, a lover or a friend plus <a href="/sex-tips.html">sex tips</a> and <a href="/sex-advice.html">sex advice</a> including tips on <a href="/shoppingadvice/">how to buy an adult toy</a>. If you are looking for a <a href="/vibrators">G-spot</a> <b>vibrator</b>, check our sister web site, <a href="http://www.gspotcenter.com">The G-Spot Center</a>.</p>	
@@ -672,12 +739,20 @@ function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'
 </script>
 <!-- END Live Chat Monitor. -->
 
- 	<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script>
-  _uacct="UA-93861-1";
-  _udn="babeland.com";
-  urchinTracker();
+ 	
+	
+	
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-e3xWUAv9PvI9E"
+};
 </script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-e3xWUAv9PvI9E.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
+</noscript>
+<!-- End Quantcast tag -->
 
 
 
