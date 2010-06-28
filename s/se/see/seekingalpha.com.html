@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seekingalpha.com privacy policy that was archived on 2009-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091222070353id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seekingalpha.com privacy policy that was archived on 2010-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628030042id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy -- Seeking Alpha</title>
@@ -8,37 +8,54 @@
 <link rel="search" type="application/opensearchdescription+xml" href="/javascripts/seeking.xml" title="SeekingAlpha Search">
 
 
-<link href="http://static.seekingalpha.com/stylesheets/print.css?1261314852" media="print" rel="stylesheet" type="text/css">
+<link href="http://static.seekingalpha.com/stylesheets/print.css?1276432807" media="print" rel="stylesheet" type="text/css">
 
 <link rel="shortcut icon" type="image/ico" href="http://static.seekingalpha.com/favicon.ico">
-<link href="http://static.seekingalpha.com/stylesheets/performance_layout_bundle_20090609b.css?1261314903" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.seekingalpha.com/stylesheets/second_performance_layout_bundle_20090609b.css?1261314906" media="screen" rel="stylesheet" type="text/css">
+
+
+<link href="http://static.seekingalpha.com/stylesheets/performance_layout_bundle_20090609b.css?1276433707" media="screen" rel="stylesheet" type="text/css">
+
+<link href="http://static.seekingalpha.com/stylesheets/second_performance_layout_bundle_20090609b.css?1276434591" media="screen" rel="stylesheet" type="text/css">
+
+
+
+
+
 
 <script type="text/javascript">
-var user_cookie={};
+  var users_on_site='489,227';
 
-function readCookie(name) {
+  var user_cookie={};
+
+  function readCookie(name) {
     var cookie = document.cookie.match(new RegExp('(^|;)\\s*' + escape(name) + '=([^;\\s]*)'));
     return (cookie ? unescape(cookie[2]) : null);
-}
+  }
 
-function addToCookie(key,value) {
-	var arr=user_cookie[key].split(',');
-	arr.push(value);
+  function addToCookie(key,value) {
+    var arr=user_cookie[key].split(',');
+    arr.push(value);
 
-	
-	user_cookie[key]=arr.join(',');
-}
+    user_cookie[key]=arr.join(',');
+  }
 
-if (readCookie('user_cookie_key')) {
-  document.write('<scr'+'ipt src="http://static.seekingalpha.com/account/cookie/'+readCookie('user_cookie_key')+'"></scri'+'pt>');
-}
-else if (readCookie('user_id')) {
-  document.write('<scr'+'ipt src="http://seekingalpha.com/account/no_cookie_key"></scri'+'pt>');
-}
+  if (readCookie('user_cookie_key')) {
+    document.write('<scr'+'ipt src="http://static.seekingalpha.com/account/cookie/'+readCookie('user_cookie_key')+'"></scri'+'pt>');
+  } else if (readCookie('user_id')) {
+    document.write('<scr'+'ipt src="http://seekingalpha.com/account/no_cookie_key"></scri'+'pt>');
+  }
+
+  var quantSegs="";
+  function qc_results(result) {
+    for (var i = 0; i < result.segments.length; i++) {
+      quantSegs += "qc=" + result.segments[i].id + ";";
+    }
+  }
 </script>
-<script src="http://static.seekingalpha.com/javascripts/common_bundle_20090609b.js?1261314912" type="text/javascript"></script>
 
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-36Zq38JCUmc3w&amp;callback=qc_results"></script>
+
+<script src="http://static.seekingalpha.com/javascripts/common_bundle_20090609b.js?1276433727" type="text/javascript"></script>
 
 
 
@@ -48,23 +65,8 @@ else if (readCookie('user_id')) {
 
 
 <script type="text/javascript">
-function user_picture(id,picture_size) {
-  string_id = id.rjust(9,"0");
-  return "http://staticorigin.seekingalpha.com/images/users_profile/" + string_id.substr(0,3)+"/"+string_id.substr(3,3)+"/"+string_id.substr(6,3) + "/" + picture_size + "_pic.png?rand=" + Math.random()
-}
-
-function pause(millis) {
-  var date = new Date();
-  var curDate = null;
-  do { curDate = new Date(); }
-  while(curDate-date < millis)
-}
-
-window.onbeforeunload = function() {
-  if ($('hiddenDiv')) pause(300);
-};
-
 if (is_users_cookie_exists()) {
+  eraseCookie("user_author_slug");
   eraseCookie("user_watchlist_slugs");
   eraseCookie("user_non_watchlist_slugs");
   eraseCookie("user_watchlist_authors");
@@ -74,14 +76,37 @@ if (is_users_cookie_exists()) {
 }
 
 
-if (readCookie('user_author_slug')==null) {
-    createCookie('user_author_slug',readCookie('author_slug'),365);
-    eraseCookie('author_slug');
-}
-if (readCookie('user_author_slug') == 'null') createCookie('user_author_slug','');
-
 if (is_users_cookie_exists() && readCookie('user_email').indexOf('@gmail.com')!=-1) {
     createCookie('user_email',(readCookie('user_email').replace('@gmail.com','').replace(/\./gi,'').replace(/\+(.*?)$/,''))+'@gmail.com',365)
+}
+
+if (readCookie('user_info')==null || readCookie('user_info')=='') {
+    var cData = readCookie('user_bio')+"|"+readCookie('user_picture')
+    createCookie('user_info',cData,300)
+    eraseCookie('user_bio');
+    eraseCookie('user_picture');
+}
+eraseCookie('user_vocation');
+eraseCookie('user_mywebsite_url');
+replaceOldCPCookies();
+   
+if (!cookieExists('user_notifications')) {
+    c_count = 0;
+    e_count = 0;
+    new_count = 0;
+    if (cookieExists('user_c_notifications')) {
+        c_count = readCookie('user_c_notifications');
+        eraseCookie('user_c_notifications');
+    }
+    if (cookieExists('user_e_notifications')) {
+        e_count = readCookie('user_e_notifications');
+        eraseCookie('user_e_notifications');
+    }
+    if (cookieExists('user_new_notifications')) {
+        new_count = readCookie('user_new_notifications');
+        eraseCookie('user_new_notifications');
+    }
+    createCookie('user_notifications', c_count + "|" + e_count + "|" + new_count);
 }
 
 var website_cookie = readCookie('user_mywebsite_url');
@@ -90,140 +115,112 @@ if (is_users_cookie_exists() && (website_cookie != null) && website_cookie.index
   createCookie('user_mywebsite_url',my_website,365);
 }
 
-Mone.moneTrackerPost=function(str) {
-  new Ajax.Request('/mone', {
-  asynchronous:true,
-   method:'post',
-    postBody:"mone="+escape(str)
-  });
-}
-
-Authentication.Login=function () {
-	var oLoginForm=$('authentication_login_form'),
-		oError=$('authentication_login_notice'),
-		oResponse;
-	
-	if (bInProcees) return;
-	
-	if (!validate_email('authentication_login_email','authentication_login_notice') ||
-		!validate_password('authentication_login_password','authentication_login_notice','Please enter your password.',1,80)
-	) {
-		$('authentication_notices').setStyle({display:''});
-		
-		return;
-	}
-
-	urchinTracker('event/quickread/logged_out/try_to_login');
-
-	new Ajax.Request("/authentication/login", {
-		asynchronous:true,
-		parameters:Form.serialize(oLoginForm),
-        method:'post',
-		onLoading:function () {
-			bInProcees=true;
-			$('authentication_login_button').addClassName('disabled');
-			$('login_loader').setStyle({ display:'' });
-		},
-		onComplete:function(transport) {
-			if (transport.status==200) {
-
-				eval('oResponse='+transport.responseText);
-				if (oResponse.login) {
-				  if (mone_action) Mone.touch("log_reg_"+mone_action+"_logged");
-					Authentication.Extra=oResponse.extra;
-					setTimeout(function(){eval(oResponse['function']+'("'+oResponse.id+'")');}, 500);
-				}	else {
-					oError.innerHTML=Authentication.Messages[oResponse.message];
-					$('authentication_notices').setStyle({display:''});
-				}
-			}
-		
-			$('authentication_login_button').removeClassName('disabled');
-			$('login_loader').setStyle({ display:'none' });
-			bInProcees=false;
-		},
-		onError:function () {
-			$('authentication_login_button').removeClassName('disabled');
-			$('login_loader').setStyle({ display:'none' });
-			bInProcees=false;
-		}
-	});
-}
+flush_cookies_by_prefix("Hst");
 </script>
 
+<style>
+.snapshot_snippet .default_text{
+  width:489px;
+}
+.article_pages #ads_and_tools .search_quote_transcripts input.text {
+      color:#bcbcbc;
+}
+
+.mini_category ol li {
+      padding-left:10px;
+      text-indent:-10px;
+}
+
+.dashboard_list .mini_category ul li {
+    padding-left:20px;
+    text-indent:-10px;
+ }
+
+.mini_category .latest_article {
+    padding-left:10px;
+    text-indent:-10px;
+}
+
+.shine_search_on {
+    border:2px solid yellow;
+    float:left;
+    color:#000;
+}
+
+.shine_search_off {
+    border:2px solid #f7f7f7;
+    float:left;
+}
+
+.shine_search_off .text {
+    color:#959595;
+}
+
+#block_currents.mini_category li {
+    padding-left:20px;
+    text-indent:-10px;
+}
+
+ .user_latest_comments ol li {
+    padding:0 10px 4px 10px;
+    text-indent:-10px;
+ }
+
+.latest_stocktalks_snippet .user_image {
+   margin:0 9px 10px 5px;
+}
+
+.latest_stocktalks_snippet .user_image.author{
+   padding:2px 3px 2px 8px !important;
+   border:none !important;
+   margin:0 6px 0 0 !important;
+   background:url("/images/article/commenter_images_top.png") no-repeat;
+   background-position:0 -40px;
+}
+
+.latest_stocktalks_snippet ul li .stocktalk_message_plus_time {
+    width:232px;
+}
+
+.latest_stocktalks_snippet ul li .stocktalk_message {
+    width:232px;
+}
+
+.mini_category_gray_background.latest_articles_snippet {
+    background-color:#fff;
+}
+  
+.latest_articles_snippet #content_block_articles {
+    background-color:#F8F8F8;
+    zoom:1;
+}
+.symbol_articles_list .date_on_by {
+    padding:0 0 0 10px !important;
+}
+.symbol_articles_list_with_pics .article_and_info .date_on_by {
+    padding-left:40px !important;
+}
+</style>
 
 
-<!-- GOOGLE ANALYTICS -->
+<!-- ANALYTICS -->
 
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
-  try
-  {
-		_uacct = "UA-1466493-1";
-		_udn = "seekingalpha.com";
-		//analytics_user_tracker();
-		urchinTracker();
-	}
-	catch (e) {}
+  try{
+    var pageTracker = _gat._getTracker("UA-1466493-1");
+    //pageTracker._setDomainName(".seekingalpha.com");
+    pageTracker._trackPageview();
+    urchinTracker = pageTracker._trackPageview;
+  } catch(err) {}
 </script>
 
-
-<!--NAME:Privacy | SLUG:privacy-->
 
 <script type="text/javascript" src="/javascripts/refaeli.js"></script>
-
-<script>
-function show_login_pop() {
-  var aHtml=[];
-
-  aHtml.push('<div class="header_log_in_popup">');
-    aHtml.push('<div class="close_quickread_stretchable" onclick="AlphaBox.Close()"><span class="close_left"></span><span class="close_text">Close</span><span class="close_right"></span></div>');
-    aHtml.push('<div class="header_log_in_popup_content">');
-      aHtml.push('<div class="header_log_in_popup_content_header"><span>Login</span> - for registered users</div>');
-			aHtml.push('<form onsubmit="submit_orthodox_login_form_ajax();return(false)" id="orthodox_login_pop" method="post" style="position:relative;" action="/account/orthodox_login">');
-        aHtml.push("<div id='login_generic_loader' class='generic_login_loader' style='display:none;'><img src='/images/loader.gif' /></div>");
-				aHtml.push('<input type="hidden" value="" name="slugs[]" id="slugs_input_login"/>');
-				aHtml.push('<fieldset>');
-					aHtml.push('<span>Email:</span>');
-					aHtml.push('<input type="text" class="text" id="login_user_email_pop" name="user[email]"/>');
-				aHtml.push('</fieldset>');
-				aHtml.push('<fieldset>');
-					aHtml.push('<span>Password:</span>');
-					aHtml.push('<input type="password" class="text" id="login_user_password_pop" name="user[password]"/>');
-				aHtml.push('</fieldset>');
-				aHtml.push('<div class="notice_message" id="notice_login_pop"></div>');
-				aHtml.push('<span class="header_log_in_popup_login_btn">');
-					aHtml.push('<span class="l"></span><input type="submit" class="c" value="Login"/><span class="r"></span>');
-				aHtml.push('</span>');
-			aHtml.push('</form>');
-			aHtml.push('<div id="forgot_password_area" class="">');
-				aHtml.push('<form id="orthodox_forgot_password" method="post" action="/account/orthodox_forgot_password">');
-					aHtml.push('<div class="header_log_in_popup_forgot_your_password_btn" onclick="$(\'forgot_password_area\').toggleClassName(\'open\');" onmouseover="link_over(this, \'#024999\')" onmouseout="link_out(this, \'#024999\')" style="text-decoration: none; color:#024999">Forgot your password</div>');
-					aHtml.push('<div class="open_or_close">');
-						aHtml.push('<div>Please enter your email address:</div>');
-						aHtml.push('<fieldset class="enter_your_email">');
-							aHtml.push('<input id="user_email" type="text" class="text forget" name="user[email]" />');
-							aHtml.push('<div class="header_log_in_popup_submit_btn">');
-								aHtml.push('<span class="l"></span><input type="button" value="Submit" class="c" onclick="submit_orthodox_forgot_password()" class="submit login" id="submit_btn_id"/><span class="r"></span>');
-							aHtml.push('</div>');
-						aHtml.push('</fieldset>');
-						aHtml.push('<div id="notice_forgot_password" class="notice_message"></div>');
-					aHtml.push('</div>');
-			  aHtml.push('</form>');
-			aHtml.push('</div>');
-		aHtml.push('</div>');	
-		aHtml.push('<div class="register_if_you_dont_have">');
-			aHtml.push('<div>If you don\'t have an account - <a href="/account/login">Register here &raquo;</a></div>');
-		aHtml.push('</div>');
-	aHtml.push('</div>');
-
-  AlphaBox.Loading();
-  AlphaBox.AddHtml(aHtml.join(""));
-
-  setTimeout(function () { $('login_user_email_pop').focus()},1000);
-}
-</script>
-
     
 <script type="text/javascript">
   GS_googleAddAdSenseService("ca-pub-1420150919334552");
@@ -241,18 +238,13 @@ function show_login_pop() {
       <div class="floating_logged_in" id="floating_logged_in" style="display:none;"></div>
       <div class="floating_logged_out" id="floating_logged_out">
         <ul>
-          <li class="the_first_item"><span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('login','')" style="color:#024999 !important;">Login</span></li>
-          <li><span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('portfolio','manage portfolio')" style="color:#024999 !important;">Manage Portfolio</span></li>
-          <li><span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('stocktalk','post a StockTalk')" style="color:#024999 !important;">Post a StockTalk</span></li>
-          <li><span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('write_post','write an instablog')" style="color:#024999 !important;">Write an Instablog</span></li>
-          <li><span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('email','get daily email alert');$('register_to_mail_cont').style.display='none';$('register_to_mail').checked=false;" style="color:#024999 !important;">Get Daily Email Alert</span></li>
-          <li class="last">&nbsp;</li>
-          <li class="floating_sa_logo_li"><a class="floating_sa_logo_a" href="http://seekingalpha.com"></a></li>
+          <li class="logout_wording">See the difference! Customize Seeking Alpha: <span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('login','')" style="color:#024999 !important;">Sign in or join</span></li>
+          <li class="floating_sa_logo_li"><a class="floating_sa_logo_a" href="/"></a></li>
         </ul>
       </div>
     </div>
     
-    <div id="main_container" class="general_page">
+    <div id="main_container" class="show_utility_pages">
   <script>var ord = Math.floor(Math.random()*1000000000);</script>
 <span class="seeking_alpha_site_title">Seeking Alpha</span>
 
@@ -264,10 +256,9 @@ function show_login_pop() {
     <div id="inner_popup"></div>
   </div>
 </div>
-
     <h1><a href="/" title="Seeking Alpha - Home Page"></a></h1>
     <div class="item banner728x90">
-      <script>document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/sek.common/general;sz=728x90;x=x;tile=1;d=common;t=general;'+dart_hp_referrer_and_my_vocation()+'ord='+ord+'?"></scr'+'ipt>');</script>
+      <script>document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/sek.common/general;sz=728x90;x=x;tile=1;d=common;t=general;'+dart_my_vocation_and_profiles()+'ord='+ord+'?"></scr'+'ipt>');</script>
     </div>
     <ul id="primary_navigation">
       <li id="home" class="level_one ">
@@ -276,7 +267,7 @@ function show_login_pop() {
       <li id="us_market" class="level_one">
         <a href="/dashboard/the_macro_view" sasource="headtabs" class="hide">The Macro View</a>
       </li>
-      <li id="sectors" class="level_one">
+      <li id="stocks_sectors" class="level_one">
         <a href="/dashboard/sector" sasource="headtabs">Stocks &amp; Sectors</a>
       </li>
     	<li id="global_markets" class="level_one">
@@ -289,30 +280,50 @@ function show_login_pop() {
     	  <a href="/dashboard/investing_ideas" sasource="headtabs">Investing Ideas</a>
     	</li>
       <li id="market_news" class="level_one">
-         <a href="/news/market_currents" sasource="headtabs">Breaking News</a>
+        <a href="/news/market_currents" sasource="headtabs">News, Data, Transcripts</a>
       </li>
-      <li id="transcript_centers" class="level_one">
-        <a href="/tag/transcripts" sasource="headtabs">Transcripts</a>
-      </li>
-      <li id="business_intelligence" class="level_one">
-        <a href="/searches/business_intelligence" sasource="headtabs">Business Intelligence</a>
-      </li>
+			<li id="sign_in_out_header" class="level_one">
+			</li>
     </ul>
   </div>
+	<script type="text/javascript">
+		if (is_users_cookie_exists()) {
+			var user_id = readCookie('user_id');
+			var user_nick = readCookie('user_nick');
+			if (user_nick == null || user_nick == "") user_nick = "User " + user_id;
+			else user_nick = user_nick.split(' ')[0];
+				
+			tmp_text=[];
+			tmp_text.push('<div class="sign_out"><span class="hi_user">Hi, ');
+			tmp_text.push(user_nick.length <= 11 ? user_nick : user_nick.slice(0,11)+"...");
+			tmp_text.push('</span>');
+			tmp_text.push('<span class="dash">|</span><span class="logout_link" onclick="logout()">Sign out</span></div>');
+			$('sign_in_out_header').innerHTML = tmp_text.join("");;
+		} else {
+			$('sign_in_out_header').innerHTML = "<div class=\"sign_in\" onclick=\"open_header_log_in_popup_lightbox('login','')\">Sign in <span class=\"or\">or</span> Join now</div>"
+		}
+	</script>
   <script type="text/javascript">
   	SeekingAlpha.Initializer.LogAndRun(set_login_and_registration_top_header);
 		SeekingAlpha.Initializer.LogAndRun(InitSASource);
   </script>
 </div>
-  <div id="content_wrapper" style="margin-top:0px;">
-    <div class="page_top" style="margin-bottom:4px;">
-      <div class="page_top_one">
-        <div class="placeholder"></div>
-        <div class="search_box_container_isolated">
+
+  <div id="content_wrapper">
+    <div class="page_top">
+      <div class="title_tab">
+        <div id="breadcrumbs">
+          <a href="/">Home</a> » <span>Privacy</span>
+        </div>
+        <h1>
+          Privacy
+        </h1>  
+      </div>
+      <div class="search_box_container_isolated">
   <div class="search_box">
     <form id="search_box_sa_search" method="get" class="linktosym comp search" action="/search/" onsubmit="return false;">
       <fieldset>
-        <input id="autocomplete_sa_search" class="input_text text" type="text" value="Find quotes, people, expressions, transcripts" size="25" autocomplete="off" onblur="this.style.color=this.value=='' ? '#8D8D8D' : '#000000';handleInput(this,'blur')" onfocus="this.style.color='#000000';handleInput(this,'focus')" afteruploadvalue="eFind quotes, people, expressions, transcripts" title="Find quotes, people, expressions, transcripts">
+        <input id="autocomplete_sa_search" class="input_text text" type="text" value="symbol, author, keyword..." size="25" autocomplete="off" onblur="this.style.color=this.value=='' ? '#8D8D8D' : '#000000';handleInput(this,'blur')" onfocus="this.style.color='#000000';handleInput(this,'focus')" afteruploadvalue="eFind quotes, people, expressions, transcripts" title="symbol, author, keyword...">
         <input type="button" class="search_button" value="Search" onclick="if ($('autocomplete_sa_search').value!=$('autocomplete_sa_search').title) AutoCompleteSAConfig.Packages.search.Find()">
       </fieldset>
       <input type="hidden" name="source" value="search_general">
@@ -324,136 +335,22 @@ function show_login_pop() {
     <xmp id="autocomplete_sa_ad_search" style="display:none;">
       <script type="text/javascript">GA_googleFillSlot_sa("Search_195x45_Dropdown");</script>
     </xmp>
-    <script type="text/javascript">SeekingAlpha.Initializer.LogAndRun(function () { AutoCompleteSAConfig.Load('search', {Ad:true, Symbols:true, IframeCover:true, AfterInsert:function () { this.Find(); }, AfterSubmit:function () { this.Find(); }}) });</script>
-
+    <script type="text/javascript">SeekingAlpha.Initializer.LogAndRun(function () { AutoCompleteSAConfig.Load('search', { Symbols:true, IframeCover:true, AfterInsert:function () { this.Find(); }, AfterSubmit:function () { this.Find(); }}) });</script>
     <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001514237567335583750%3Acdhc2yeo2ko&amp;lang=en"></script>
   </div>
 </div>
-
-
-      </div>
-      <div class="page_top_two">
-        <div id="breadcrumbs">
-          <a href="/">Home</a> » <span>Privacy</span>
-        </div>
-      </div>
     </div>
 
-    <div class="homepage_content_seperator"><!----></div>
+
     <div id="main_content" class="old_article utility">
-      <div id="page_header">
-        <h1>Privacy</h1>
-      </div>
       <div id="article_body">
-        <p>Thank you for visiting <a href="http://seekingalpha.com">http://seekingalpha.com</a> (together with all other websites operated by Seeking Alpha, Ltd., the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at this Web Site. This Privacy Policy forms part of the Terms of Use.</p>
-<ol>
-	<li>
-		<h2>Introduction</h2>
-		<p>We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.</p>
-		<p>Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, personal profile, a home or other physical address and an email address or other contact information, whether at work or at home. Currently, we do not require you to provide Personal Information in order to have access to the free commentary, analysis and news available on our Site. If you would like to receive any email notifications or updates from us, please register to create a profile and provide your email address. At a later time, you may add additional Personal Information to your profile.</p>
-		<p>If
-you choose to provide us with your Personal Information on the Site, we
-may transfer that Personal Information within Seeking Alpha or to Seeking Alpha's third-party service providers, but only to provide services on the Site, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.</p>
-		<p>Seeking
-Alpha strives to comply with all applicable laws around the globe that
-are designed to protect your privacy. Although legal requirements may
-vary from country to country, Seeking Alpha intends to adhere to the
-principles set forth in this Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. Finally, we may disclose your Personal Information if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to i) comply with any applicable law, regulation, legal process or
-governmental request, ii) enforce our Terms of Service including
-investigations of potential violations thereof, iii) detect, prevent, or otherwise address fraud, security or technical issues, or iv) protect against harm to the rights, property or safety of Seeking Alpha, its users, yourself or the public.</p>
-	</li>
-	<li>
-		<h2>Cookies and Other Tracking Technologies</h2>
-		<p>Some of our Site pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Site activity. Some cookies and
-other technologies may serve to recall Personal Information previously
-indicated by a Site user. Most browsers allow you to control cookies,
-including whether or not to accept them and how to remove them.</p>
-		<p>You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter certain identifying information, should we in the future require such information, to gain access to certain parts of the Site.</p>
-		<p>Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. Our use of cookies and other tracking technologies allows us to improve our Site and your web experience.</p>
-		<p>To protect your privacy, we have adopted the following principles:
-		</p><ul>
-			<li>Notice</li>
-			<li>Choice</li>
-			<li>Security</li>
-			<li>Access/Accuracy</li>
-		</ul><p></p>
-	</li>
-	<li>
-		<h2>Notice</h2>
-		<p>We do not currently provide your Personal Information to third parties.</p>
-		<p>Nevertheless, we may at a later time choose to make certain offers or services available to our users from third parties. If we do, during the registration process and
-at certain points thereafter in connection with specific offers we may
-ask you whether your Personal Information may be sent to third parties
-who have products, services and opportunities which may be
-useful to you. If you give your permission to allow third parties to
-contact you, your Personal Information (such as your contact information and
-other information collected during your visit to our Site) may be
-shared with data aggregators, marketers (possibly in the form of list rental), and
-other organizations. Seeking Alpha does not intend to transfer Personal
-Information without your consent to third parties who are not bound to
-act on Seeking Alpha's behalf unless such transfer is legally
-required. Regardless of your decision regarding the sharing of your
-Personal Information, we may share broad aggregate demographic data and
-related usage information with our business partners. This aggregate
-information does not contain any Personal Information that can identify
-an individual user.</p>
-	</li>
-	<li>
-		<h2>Choice</h2>
-		<p>You may choose whether or
-not to provide Personal Information to Seeking Alpha. The notices we
-will provide where Seeking Alpha collects Personal Information on the
-Site should help you to make this choice. If you choose not to
-provide the Personal Information we request, you can still visit most
-of the Site, but you may be unable to access certain options, offers, and services that involve our interaction with you.</p>
-	</li>
-	<li>
-		<h2>Security</h2>
-		<p>We have implemented suitable security policies, rules and technical measures to protect and safeguard the Personal Information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors that have access to, and
-are associated with the processing of your Personal Information, are
-obliged to respect the confidentiality of your information.</p>
-	</li>
-	<li>
-		<h2>Access / Accuracy</h2>
-		<p>To the extent that you do
-provide us with Personal Information, Seeking Alpha wishes to maintain
-accurate Personal Information. You may check your profile and add information, delete information or correct any incorrect information.</p>
-	</li>
-	<li>
-		<h2>Collection of Information by Third-Party Sites</h2>
-		<p>Our Site may use a reputable third party to present or serve the advertisements that you may see at our Site. These third party ad servers may use cookies, web beacons, clear gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.</p>
-	</li>
-	<li>
-		<h2>Links to Other Sites</h2>
-		<p>Our Site may contain links to other sites. Other sites may also reference or link to our site. We are not responsible for the privacy practices or the content of such other sites.</p>
-	</li>
-	<li>
-		<h2>Children's Privacy</h2>
-		<p>The Site is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.</p>
-	</li>
-	<li>
-		<h2>Commitment</h2>
-		<p>We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and Seeking Alpha's Sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at <a href="mailto:privacy@seekingalpha.com">privacy@seekingalpha.com</a>. <em>While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.</em></p>
-	</li>
-	<li>
-		<h2>Your Consent</h2>
-		<p>By using this Site, you consent to the terms of our Privacy Policy and to Seeking Alpha's processing of Personal Information for the purposes given above. If you do not agree to this Privacy Policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.</p>
-	</li>
-	<li>
-		<h2>Your California Privacy Rights</h2>
-		<p>Seeking Alpha's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, Seeking Alpha may provide its business partners with contact details for direct marketing purposes of relevant services, products, and
-programs. If you no longer wish your information to be shared, please
-let us know. If you have further inquires regarding Seeking Alpha's Information Sharing Practices, please let us know.</p><p>
-		</p><p>The designated contact for these queries is <a href="mailto:privacy@seekingalpha.com">privacy@seekingalpha.com</a></p>
-	</li>
-</ol>
-	<p>Updated: July 1, 2008</p>
+        <p>Thank you for visiting <a href="http://seekingalpha.com">http://seekingalpha.com</a> (together with all other websites operated by Seeking Alpha, Ltd., the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at the Site. This Privacy Policy forms part of the <a href="http://seekingalpha.com/page/terms-of-use">Terms of Use</a>.</p>  <h3>1. Introduction</h3>  <p>We are committed to respecting your online privacy, and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.</p>  <p>Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, personal profile, a home or other physical address and an email address or other contact information, whether at work or at home. Currently, we do not require you to provide Personal Information in order to have access to the free commentary, analysis and news available on our Site. However, in order to provide you with some of the Site's services, you must create a profile, register and provide your email address, username, password and other specified information. At a later time, you may add additional Personal Information to your profile.</p>  <p>If you are a registered user, you will have your own Seeking Alpha email account ("Seeking Alpha Email Account").  By using your Seeking Alpha Email Account, you may send messages to and receive messages from other registered users and contributors.  You are strictly prohibited from sending unsolicited or unauthorized advertisements, spam, chain letters, etc.  Any information that you send within such a message is visible only to the message recipients. Please note that some actions you take, such as replying to a topic, posting comments, etc. may subscribe you automatically to getting notifications to your Seeking Alpha email account. Please further note that some notifications, such as a notification for receiving a private message to your Seeking Alpha email account, may be enabled by default.</p>  <p>We may use your email address and Seeking Alpha email account to send updates, a newsletter or news regarding our services, and those of our advertisers who may have relevant offers.</p>  <p>You may choose not to receive email from a particular sender by rolling your mouse over the text of an email in your Seeking Alpha email account and blocking that sender.  If you receive the email from Seeking Alpha in an email account other than your Seeking Alpha email account and wish to block that sender, simply go into your Seeking Alpha email account and block that sender in the same way.  Furthermore, if you do not wish to receive email from one of our advertisers, you may unsubscribe from receiving further email from that advertiser.</p>  <p>If you choose to provide us with your Personal Information on the Site, we may transfer that Personal Information within Seeking Alpha or to Seeking Alpha's third-party service providers, but only to provide services on the Site, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.</p>  <p>Seeking Alpha strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Seeking Alpha intends to adhere to the principles set forth in this Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. Finally, we may disclose your Personal Information or any information you submitted via the Site and its services (including via your Seeking Alpha email account) if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to i) comply with any applicable law, regulation, legal process or governmental request, ii) enforce our Terms of Service including investigations of potential violations thereof, iii) detect, prevent, or otherwise address fraud or security issues, or iv) protect against harm to the rights, property or safety of Seeking Alpha, its users, yourself or the public.</p>  <h3>2. Cookies and Other Tracking Technologies</h3>  <p>Some of our Site pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Site user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.<br> You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter certain identifying information, should we in the future require such information, to gain access to certain parts of the Site.</p>  <p>Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. Our use of cookies and other tracking technologies allows us to improve our Site and your web experience.</p>  <p>To protect your privacy, we have adopted the following principles:</p>  <ul>   <li>Notice</li>   <li>Choice</li>   <li>Security</li>   <li>Access/Accuracy</li> </ul>  <h3>3. Notice</h3>  <p>We do not currently provide your Personal Information to third parties.<br> Nevertheless, we may at a later time choose to make certain offers or services available to our users from third parties. If we do, during the registration process and at certain points thereafter in connection with specific offers we may ask you whether your Personal Information may be sent to third parties who have products, services and opportunities which may be useful to you. If you give your permission to allow third parties to contact you, your Personal Information (such as your contact information and other information collected during your visit to our Site) may be shared with data aggregators, marketers (possibly in the form of list rental), and other organizations. Seeking Alpha does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Seeking Alpha's behalf unless such transfer is legally required. Regardless of your decision regarding the sharing of your Personal Information, we may share broad aggregate demographic data and related usage information with our business partners. This aggregate information does not contain any Personal Information that can identify an individual user.</p>  <h3>4. Choice</h3>  <p>You may choose whether or not to provide Personal Information to Seeking Alpha. The notices we will provide where Seeking Alpha collects Personal Information on the Site should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of the Site, but you may be unable to access certain options, offers, and services that involve our interaction with you.</p>  <h3>5. Security</h3>  <p>We have implemented suitable security policies, rules and technical measures to protect and safeguard the Personal Information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors that have access to, and are associated with the processing of your Personal Information, are obliged to respect the confidentiality of your information.</p>  <h3>6. Access/Accuracy</h3>  <p>To the extent that you do provide us with Personal Information, Seeking Alpha wishes to maintain accurate Personal Information. You may check your profile and add information, delete information or correct any incorrect information.</p>  <h3>7. Collection of Information by Third-Party Sites</h3>  <p>Our Site may use a reputable third party to present or serve the advertisements that you may see at our Site. These third party ad servers may use cookies, web beacons, clear gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.</p>  <h3>8. Links to Other Sites</h3><p><br> Our Site may contain links to other sites. Other sites may also reference or link to our site. We are not responsible for the privacy practices or the content of such other sites.</p><p>&nbsp;</p>  <h3>9. Childrens' Privacy</h3>  <p>The Site is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.</p>  <h3>10. Commitment</h3>  <p>We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and Seeking Alpha's Sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at privacy@seekingalpha.com. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.</p>  <h3>11. Your  Consent</h3>  <p>By using this Site, you consent to the terms of our Privacy Policy and to Seeking Alpha's processing of Personal Information for the purposes given above. If you do not agree to this Privacy Policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.</p>  <h3>12. Your  California  Privacy  Rights</h3>  <p>Seeking Alpha's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, Seeking Alpha may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding Seeking Alpha's Information Sharing Practices, please let us know. The designated contact for these queries is privacy@seekingalpha.com.</p>  <p><i>Updated: January 4, 2010, 5:00 a.m. ET</i></p>
       </div>
     </div>
 
     <div id="ads_and_tools" class="utility">
       <div class="item banner300x250">
-        <script>document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/sek.common/general;sz=300x250,300x600;x=x;tile=2;d=common;t=general;'+dart_hp_referrer_and_my_vocation()+'ord='+ord+'?"></scr'+'ipt>');</script>
+        <script>document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/sek.common/general;sz=300x250,300x600;x=x;tile=2;d=common;t=general;'+dart_my_vocation_and_profiles()+'ord='+ord+'?"></scr'+'ipt>');</script>
       </div>
     </div>
   </div>
@@ -462,76 +359,122 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
   
   <ul class="footer_ratings">
     <li class="the_seekingalpha_100 this_rating">
-      <h5><a href="/leader-board/top-authors" onclick="urchinTracker('event/leader_board/footer_top_authors/badge_link_to_page')">The Seeking Alpha 100</a></h5><div class="badge"><a href="/leader-board/top-authors" onclick="urchinTracker('event/leader_board/footer_top_authors/badge_link_to_page')"></a></div><div class="text"><div>The top 100 stock<br>market authors<br> selected for publication</div></div>
+      <h5><a href="/leader-board/top-authors" onclick="urchinTracker('event/leader_board/footer_top_authors/badge_link_to_page')">The Seeking Alpha 100</a></h5>
+			<div class="badge">
+				<a href="/leader-board/top-authors" onclick="urchinTracker('event/leader_board/footer_top_authors/badge_link_to_page')"></a>
+			</div>
+			<div class="text">
+				<div>The top 100 stock<br>market authors<br> selected for publication in the last week</div>
+			</div>
       <ul class="writers_list">
-        
-          <li>
-            <span class="num">1</span>
-            <div class="pic"><a href="/author/david-fry" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_1')"><img src="/images/users_profile/000/000/290/small_pic.png?1234098635"></a></div>
-            <a class="name" href="/author/david-fry/articles" title="David Fry" onclick="urchinTracker('event/leader_board/footer_top_authors/row_1')">David Fry</a>
-          </li>
-        
-          <li>
-            <span class="num">2</span>
-            <div class="pic"><a href="/author/philip-davis" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_2')"><img src="/images/users_profile/000/006/284/small_pic.png?1236804118"></a></div>
-            <a class="name" href="/author/philip-davis/articles" title="Philip Davis" onclick="urchinTracker('event/leader_board/footer_top_authors/row_2')">Philip Davis</a>
-          </li>
-        
-          <li>
-            <span class="num">3</span>
-            <div class="pic"><a href="/author/peter-schiff" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_3')"><img src="/images/users_profile/000/301/713/small_pic.png?1234098654"></a></div>
-            <a class="name" href="/author/peter-schiff/articles" title="Peter Schiff" onclick="urchinTracker('event/leader_board/footer_top_authors/row_3')">Peter Schiff</a>
-          </li>
-        
-          <li>
-            <span class="num">4</span>
-            <div class="pic"><a href="/author/tradermark" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_4')"><img src="/images/users_profile/000/104/018/small_pic.png?1244479457"></a></div>
-            <a class="name" href="/author/tradermark/articles" title="TraderMark" onclick="urchinTracker('event/leader_board/footer_top_authors/row_4')">TraderMark</a>
-          </li>
-        
-          <li>
-            <span class="num">5</span>
-            <div class="pic"><a href="/author/bespoke-investment-group" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_5')"><img src="/images/users_profile/000/078/933/small_pic.png?1235566973"></a></div>
-            <a class="name" href="/author/bespoke-investment-group/articles" title="Bespoke Investment Group" onclick="urchinTracker('event/leader_board/footer_top_authors/row_5')">Bespoke Inves...</a>
-          </li>
-        
-      </ul>
+      	
+      		<li>
+        		<span class="num">1</span>
+          	<div class="pic">
+							<a href="/author/the-pragmatic-capitalist" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_1')">
+					  		<img src="http://static.seekingalpha.com/images/users_profile/000/324/881/small_pic.png?1263019035">
+							</a>
+						</div>
+          	<a class="name" href="/author/the-pragmatic-capitalist/articles" title="The Pragmatic Capitalist" onclick="urchinTracker('event/leader_board/footer_top_authors/row_1')">The Pragmatic...
+						</a>
+        	</li>
+      	
+      		<li>
+        		<span class="num">2</span>
+          	<div class="pic">
+							<a href="/author/david-white" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_2')">
+					  		<img src="http://static.seekingalpha.com/images/users_profile/000/022/392/small_pic.png?1261657268">
+							</a>
+						</div>
+          	<a class="name" href="/author/david-white/articles" title="David White" onclick="urchinTracker('event/leader_board/footer_top_authors/row_2')">David White
+						</a>
+        	</li>
+      	
+      		<li>
+        		<span class="num">3</span>
+          	<div class="pic">
+							<a href="/author/philip-davis" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_3')">
+					  		<img src="http://static.seekingalpha.com/images/users_profile/000/006/284/small_pic.png?1236804118">
+							</a>
+						</div>
+          	<a class="name" href="/author/philip-davis/articles" title="Philip Davis" onclick="urchinTracker('event/leader_board/footer_top_authors/row_3')">Philip Davis
+						</a>
+        	</li>
+      	
+      		<li>
+        		<span class="num">4</span>
+          	<div class="pic">
+							<a href="/author/richard-shaw" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_4')">
+					  		<img src="http://static.seekingalpha.com/images/users_profile/000/377/194/small_pic.png?1237212918">
+							</a>
+						</div>
+          	<a class="name" href="/author/richard-shaw/articles" title="Richard Shaw" onclick="urchinTracker('event/leader_board/footer_top_authors/row_4')">Richard Shaw
+						</a>
+        	</li>
+      	
+      		<li>
+        		<span class="num">5</span>
+          	<div class="pic">
+							<a href="/author/john-lounsbury" onclick="urchinTracker('event/leader_board/footer_top_authors/image_row_5')">
+					  		<img src="http://static.seekingalpha.com/images/users_profile/000/098/115/small_pic.png?1243641515">
+							</a>
+						</div>
+          	<a class="name" href="/author/john-lounsbury/articles" title="John Lounsbury" onclick="urchinTracker('event/leader_board/footer_top_authors/row_5')">John Lounsbury
+						</a>
+        	</li>
+      	
+     	</ul>
       <a href="/leader-board/top-authors" onclick="urchinTracker('event/leader_board/footer_top_authors/link_to_page')" class="see_all_link">See all<br>Seeking Alpha 100 »</a>
     </li>
   
     <li class="fastest_climbers this_rating">
-      <h5><a href="/leader-board/fastest-climbers" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/badge_link_to_page')">Fastest
-      Climbers</a></h5><div class="badge"><a href="/leader-board/fastest-climbers" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/badge_link_to_page')"></a></div><div class="text">Authors with the largest<br>increase in followers<br>in the last 7 days</div>
+      <h5>
+				<a href="/leader-board/fastest-climbers" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/badge_link_to_page')">Fastest Climbers</a>
+			</h5>
+			<div class="badge">
+				<a href="/leader-board/fastest-climbers" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/badge_link_to_page')"></a>
+			</div>
+			<div class="text">Those with the largest<br>increase in followers<br>in the last week</div>
       <ul class="writers_list">
-        
+      	
           <li>
             <span class="num">1</span>
-            <div class="pic"><a href="/author/daryl-montgomery" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_1')"><img src="/images/users_profile/000/169/827/small_pic.png?1257603151"></a></div>
-            <a class="name" href="/author/daryl-montgomery/articles" title="Daryl Montgomery" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_1')">Daryl Montgomery</a>
+            <div class="pic author">
+							<a href="/author/wall-st-cheat-sheet" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_1')"><img src="http://static.seekingalpha.com/images/users_profile/000/409/453/small_pic.png?1248213360"></a>
+						</div>
+            <a class="name" href="/author/wall-st-cheat-sheet" title="Wall St. Cheat Sheet" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_1')">Wall St. Chea...</a>
           </li>
         
           <li>
             <span class="num">2</span>
-            <div class="pic"><a href="/author/philip-davis" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_2')"><img src="/images/users_profile/000/006/284/small_pic.png?1236804118"></a></div>
-            <a class="name" href="/author/philip-davis/articles" title="Philip Davis" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_2')">Philip Davis</a>
+            <div class="pic author">
+							<a href="/author/dr-kris" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_2')"><img src="http://static.seekingalpha.com/images/users_profile/000/306/707/small_pic.png?1234098657"></a>
+						</div>
+            <a class="name" href="/author/dr-kris" title="Dr. Kris" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_2')">Dr. Kris</a>
           </li>
         
           <li>
             <span class="num">3</span>
-            <div class="pic"><a href="/author/david-fry" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_3')"><img src="/images/users_profile/000/000/290/small_pic.png?1234098635"></a></div>
-            <a class="name" href="/author/david-fry/articles" title="David Fry" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_3')">David Fry</a>
+            <div class="pic author">
+							<a href="/author/jim-van-meerten" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_3')"><img src="http://static.seekingalpha.com/images/users_profile/000/366/229/small_pic.png?1246733821"></a>
+						</div>
+            <a class="name" href="/author/jim-van-meerten" title="Jim Van Meerten" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_3')">Jim Van Meerten</a>
           </li>
         
           <li>
             <span class="num">4</span>
-            <div class="pic"><a href="/author/joseph-l-shaefer" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_4')"><img src="/images/users_profile/000/142/982/small_pic.png?1249252775"></a></div>
-            <a class="name" href="/author/joseph-l-shaefer/articles" title="Joseph L. Shaefer" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_4')">Joseph L. Sha...</a>
+            <div class="pic author">
+							<a href="/author/gary-tanashian" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_4')"><img src="http://static.seekingalpha.com/images/users_profile/000/019/597/small_pic.png?1234268546"></a>
+						</div>
+            <a class="name" href="/author/gary-tanashian" title="Gary Tanashian" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_4')">Gary Tanashian</a>
           </li>
         
           <li>
             <span class="num">5</span>
-            <div class="pic"><a href="/author/paco-ahlgren" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_5')"><img src="/images/users_profile/000/339/627/small_pic.png?1257789875"></a></div>
-            <a class="name" href="/author/paco-ahlgren/articles" title="Paco Ahlgren" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_5')">Paco Ahlgren</a>
+            <div class="pic author">
+							<a href="/author/keith-schaefer" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/image_row_5')"><img src="http://static.seekingalpha.com/images/users_profile/000/365/869/small_pic.png?1239120721"></a>
+						</div>
+            <a class="name" href="/author/keith-schaefer" title="Keith Schaefer" onclick="urchinTracker('event/leader_board/footer_fastest_climbers/row_5')">Keith Schaefer</a>
           </li>
         
       </ul>
@@ -539,95 +482,126 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
     </li>
 
     <li class="top_commenters this_rating">
-      <h5><a href="/leader-board/top-commenters" onclick="urchinTracker('event/leader_board/footer_top_commenters/badge_link_to_page')">Top Commenters</a></h5><div class="badge"><a href="/leader-board/top-commenters" onclick="urchinTracker('event/leader_board/footer_top_commenters/badge_link_to_page')"></a></div><div class="text">Top commenters,<br> as ranked by their peers</div>
+      <h5>
+				<a href="/leader-board/top-commenters" onclick="urchinTracker('event/leader_board/footer_top_commenters/badge_link_to_page')">Top Commenters</a>
+			</h5>
+			<div class="badge">
+				<a href="/leader-board/top-commenters" onclick="urchinTracker('event/leader_board/footer_top_commenters/badge_link_to_page')"></a>
+			</div><div class="text">Top commenters,<br> as ranked by their peers</div>
       <ul class="writers_list">
-        
-          <li>
-            <span class="num">1</span>
-            
-            <div class="pic ">
-              <a href="/user/269895/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_1')"><img src="/images/users_profile/000/269/895/small_pic.png?1238437200"></a>
-            </div>
-            <a class="name" href="/user/269895/comments" title="doubleguns" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_1')">doubleguns</a>
-          </li>
-        
-          <li>
-            <span class="num">2</span>
-            
-            <div class="pic author">
-              <a href="/author/moon-kil-woong" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_2')"><img src="/images/users_profile/000/265/539/small_pic.png?1238953396"></a>
-            </div>
-            <a class="name" href="/author/moon-kil-woong/comments" title="Moon Kil Woong" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_2')">Moon Kil Woong</a>
-          </li>
-        
-          <li>
-            <span class="num">3</span>
-            
-            <div class="pic ">
-              <a href="/user/353732/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_3')"><img src="/images/users_profile/000/353/732/small_pic.png?1240510217"></a>
-            </div>
-            <a class="name" href="/user/353732/comments" title="User 353732" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_3')">User 353732</a>
-          </li>
-        
-          <li>
-            <span class="num">4</span>
-            
-            <div class="pic ">
-              <a href="/user/192595/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_4')"><img src="/images/users_profile/000/192/595/small_pic.png?1254853446"></a>
-            </div>
-            <a class="name" href="/user/192595/comments" title="optionsgirl" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_4')">optionsgirl</a>
-          </li>
-        
-          <li>
-            <span class="num">5</span>
-            
-            <div class="pic ">
-              <a href="/user/343824/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_5')"><img src="/images/users_profile/000/343/824/small_pic.png?1237156321"></a>
-            </div>
-            <a class="name" href="/user/343824/comments" title="yellowhoard" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_5')">yellowhoard</a>
-          </li>
-        
-      </ul>
+      	
+      		<li>
+        		<span class="num">1</span>
+          	<div class="pic">
+          		<a href="/user/353732/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_1')">
+								<img src="http://static.seekingalpha.com/images/users_profile/000/353/732/small_pic.png?1240510217">
+							</a>
+          	</div>
+          	<a class="name" href="/user/353732/comments" title="User 353732" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_1')">User 353732</a>
+      		</li>
+     		
+      		<li>
+        		<span class="num">2</span>
+          	<div class="pic author">
+          		<a href="/author/moon-kil-woong" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_2')">
+								<img src="http://static.seekingalpha.com/images/users_profile/000/265/539/small_pic.png?1238953396">
+							</a>
+          	</div>
+          	<a class="name" href="/author/moon-kil-woong/comments" title="Moon Kil Woong" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_2')">Moon Kil Woong</a>
+      		</li>
+     		
+      		<li>
+        		<span class="num">3</span>
+          	<div class="pic">
+          		<a href="/user/192595/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_3')">
+								<img src="http://static.seekingalpha.com/images/users_profile/000/192/595/small_pic.png?1276318807">
+							</a>
+          	</div>
+          	<a class="name" href="/user/192595/comments" title="optionsgirl" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_3')">optionsgirl</a>
+      		</li>
+     		
+      		<li>
+        		<span class="num">4</span>
+          	<div class="pic">
+          		<a href="/user/480016/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_4')">
+								<img src="http://static.seekingalpha.com/images/users_profile/000/480/016/small_pic.png?1267114925">
+							</a>
+          	</div>
+          	<a class="name" href="/user/480016/comments" title="tripleblack" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_4')">tripleblack</a>
+      		</li>
+     		
+      		<li>
+        		<span class="num">5</span>
+          	<div class="pic">
+          		<a href="/user/228383/profile" onclick="urchinTracker('event/leader_board/footer_top_commenters/image_row_5')">
+								<img src="http://static.seekingalpha.com/images/users_profile/000/228/383/small_pic.png?1250454512">
+							</a>
+          	</div>
+          	<a class="name" href="/user/228383/comments" title="Mayascribe" onclick="urchinTracker('event/leader_board/footer_top_commenters/row_5')">Mayascribe</a>
+      		</li>
+     		
+     	</ul>
       <a href="/leader-board/top-commenters" onclick="urchinTracker('event/leader_board/footer_top_commenters/link_to_page')" class="see_all_link">See all<br>Top Commenters »</a>
     </li>
-  
+
     <li class="top_instabloggers this_rating">
-      <h5><a href="/leader-board/top-instabloggers" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/badge_link_to_page')">Top Instabloggers</a></h5><div class="badge"><a href="/leader-board/top-instabloggers" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/badge_link_to_page')"></a></div><div class="text">The 100 most active<br>Instabloggers.</div>
+   		<h5>
+				<a href="/leader-board/top-instabloggers" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/badge_link_to_page')">Top Instabloggers</a>
+			</h5>
+			<div class="badge">
+				<a href="/leader-board/top-instabloggers" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/badge_link_to_page')"></a>
+			</div>
+			<div class="text">The 100 most active<br>Instabloggers.</div>
       <ul class="writers_list">
-        
-          <li>
-            <span class="num">1</span>
-            
-            <div class="pic author"><a href="/author/david-fry" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_1')"><img src="/images/users_profile/000/000/290/small_pic.png?1234098635"></a></div>
-            <a class="name" href="/author/david-fry/instablog" title="David Fry" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_1')">David Fry</a>
+      	
+        	<li>
+          	<span class="num">1</span>
+            <div class="pic author">
+							<a href="/author/david-white" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_1')">
+								<img src="http://static.seekingalpha.com/images/users_profile/000/022/392/small_pic.png?1261657268">
+							</a>
+						</div>
+            <a class="name" href="/author/david-white/instablog" title="David White" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_1')">David White</a>
           </li>
         
-          <li>
-            <span class="num">2</span>
-            
-            <div class="pic author"><a href="/author/tradermark" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_2')"><img src="/images/users_profile/000/104/018/small_pic.png?1244479457"></a></div>
-            <a class="name" href="/author/tradermark/instablog" title="TraderMark" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_2')">TraderMark</a>
+        	<li>
+          	<span class="num">2</span>
+            <div class="pic author">
+							<a href="/author/philip-davis" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_2')">
+								<img src="http://static.seekingalpha.com/images/users_profile/000/006/284/small_pic.png?1236804118">
+							</a>
+						</div>
+            <a class="name" href="/author/philip-davis/instablog" title="Philip Davis" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_2')">Philip Davis</a>
           </li>
         
-          <li>
-            <span class="num">3</span>
-            
-            <div class="pic author"><a href="/author/don-dion" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_3')"><img src="/images/users_profile/000/114/885/small_pic.png?1236961604"></a></div>
-            <a class="name" href="/author/don-dion/instablog" title="Don Dion" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_3')">Don Dion</a>
+        	<li>
+          	<span class="num">3</span>
+            <div class="pic author">
+							<a href="/author/richard-shaw" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_3')">
+								<img src="http://static.seekingalpha.com/images/users_profile/000/377/194/small_pic.png?1237212918">
+							</a>
+						</div>
+            <a class="name" href="/author/richard-shaw/instablog" title="Richard Shaw" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_3')">Richard Shaw</a>
           </li>
         
-          <li>
-            <span class="num">4</span>
-            
-            <div class="pic author"><a href="/author/cliff-wachtel-cpa" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_4')"><img src="/images/users_profile/000/354/433/small_pic.png?1236510524"></a></div>
-            <a class="name" href="/author/cliff-wachtel-cpa/instablog" title="Cliff Wachtel" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_4')">Cliff Wachtel</a>
+        	<li>
+          	<span class="num">4</span>
+            <div class="pic author">
+							<a href="/author/john-lounsbury" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_4')">
+								<img src="http://static.seekingalpha.com/images/users_profile/000/098/115/small_pic.png?1243641515">
+							</a>
+						</div>
+            <a class="name" href="/author/john-lounsbury/instablog" title="John Lounsbury" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_4')">John Lounsbury</a>
           </li>
         
-          <li>
-            <span class="num">5</span>
-            
-            <div class="pic author"><a href="/author/joseph-l-shaefer" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_5')"><img src="/images/users_profile/000/142/982/small_pic.png?1249252775"></a></div>
-            <a class="name" href="/author/joseph-l-shaefer/instablog" title="Joseph L. Shaefer" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_5')">Joseph L. Sha...</a>
+        	<li>
+          	<span class="num">5</span>
+            <div class="pic author">
+							<a href="/author/jason-schwarz" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/image_row_5')">
+								<img src="http://static.seekingalpha.com/images/users_profile/000/175/064/small_pic.png?1234098647">
+							</a>
+						</div>
+            <a class="name" href="/author/jason-schwarz/instablog" title="Jason Schwarz" onclick="urchinTracker('event/leader_board/footer_top_instabloggers/row_5')">Jason Schwarz</a>
           </li>
         
       </ul>
@@ -635,49 +609,56 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
     </li>
 
     <li class="top_stocktalkers this_rating">
-      <h5><a href="/leader-board/top-stocktalkers" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/badge_link_to_page')">Top StockTalkers</a></h5><div class="badge"><a href="/leader-board/top-stocktalkers" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/badge_link_to_page')"></a></div><div class="text">Top<br>StockTalkers.</div>
+      <h5><a href="/leader-board/top-stocktalkers" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/badge_link_to_page')">Top StockTalkers</a></h5>
+			<div class="badge"><a href="/leader-board/top-stocktalkers" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/badge_link_to_page')"></a>
+			</div>
+			<div class="text">Top<br>StockTalkers.</div>
       <ul class="writers_list">
-        
-          <li>
-            <span class="num">1</span>
-            
-            <div class="pic author"><a href="/author/david-fry" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_1')"><img src="/images/users_profile/000/000/290/small_pic.png?1234098635"></a></div>
-            <a class="name" href="/author/david-fry/stocktalk" title="David Fry" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_1')">David Fry</a>
-          </li>
-        
-          <li>
-            <span class="num">2</span>
-            
-            <div class="pic author"><a href="/author/cliff-wachtel-cpa" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_2')"><img src="/images/users_profile/000/354/433/small_pic.png?1236510524"></a></div>
-            <a class="name" href="/author/cliff-wachtel-cpa/stocktalk" title="Cliff Wachtel" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_2')">Cliff Wachtel</a>
-          </li>
-        
-          <li>
-            <span class="num">3</span>
-            
-            <div class="pic author"><a href="/author/mike-havrilla" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_3')"><img src="/images/users_profile/000/110/813/small_pic.png?1241305530"></a></div>
-            <a class="name" href="/author/mike-havrilla/stocktalk" title="Mike Havrilla" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_3')">Mike Havrilla</a>
-          </li>
-        
-          <li>
-            <span class="num">4</span>
-            
-            <div class="pic author"><a href="/author/paco-ahlgren" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_4')"><img src="/images/users_profile/000/339/627/small_pic.png?1257789875"></a></div>
-            <a class="name" href="/author/paco-ahlgren/stocktalk" title="Paco Ahlgren" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_4')">Paco Ahlgren</a>
-          </li>
-        
-          <li>
-            <span class="num">5</span>
-            
-            <div class="pic author"><a href="/author/david-white" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_5')"><img src="/images/users_profile/000/022/392/small_pic.png?1239161181"></a></div>
-            <a class="name" href="/author/david-white/stocktalk" title="David White" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_5')">David White</a>
-          </li>
-        
+      
+      	<li>
+        	<span class="num">1</span>
+        	<div class="pic author">
+						<a href="/author/david-white" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_1')"><img src="http://static.seekingalpha.com/images/users_profile/000/022/392/small_pic.png?1261657268"></a>
+					</div>
+        	<a class="name" href="/author/david-white/stocktalk" title="David White" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_1')">David White</a>
+       	</li>
+      
+      	<li>
+        	<span class="num">2</span>
+        	<div class="pic author">
+						<a href="/author/john-lounsbury" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_2')"><img src="http://static.seekingalpha.com/images/users_profile/000/098/115/small_pic.png?1243641515"></a>
+					</div>
+        	<a class="name" href="/author/john-lounsbury/stocktalk" title="John Lounsbury" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_2')">John Lounsbury</a>
+       	</li>
+      
+      	<li>
+        	<span class="num">3</span>
+        	<div class="pic author">
+						<a href="/author/wall-st-cheat-sheet" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_3')"><img src="http://static.seekingalpha.com/images/users_profile/000/409/453/small_pic.png?1248213360"></a>
+					</div>
+        	<a class="name" href="/author/wall-st-cheat-sheet/stocktalk" title="Wall St. Cheat Sheet" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_3')">Wall St. Chea...</a>
+       	</li>
+      
+      	<li>
+        	<span class="num">4</span>
+        	<div class="pic author">
+						<a href="/author/jim-van-meerten" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_4')"><img src="http://static.seekingalpha.com/images/users_profile/000/366/229/small_pic.png?1246733821"></a>
+					</div>
+        	<a class="name" href="/author/jim-van-meerten/stocktalk" title="Jim Van Meerten" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_4')">Jim Van Meerten</a>
+       	</li>
+      
+      	<li>
+        	<span class="num">5</span>
+        	<div class="pic author">
+						<a href="/author/dian-l-chu" onclick="urchinTracker('event/leader_board/footer_top_stocktalker/image_row_5')"><img src="http://static.seekingalpha.com/images/users_profile/000/422/282/small_pic.png?1268875401"></a>
+					</div>
+        	<a class="name" href="/author/dian-l-chu/stocktalk" title="Dian L. Chu" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/row_5')">Dian L. Chu</a>
+       	</li>
+      
       </ul>
       <a href="/leader-board/top-stocktalkers" onclick="urchinTracker('event/leader_board/footer_top_stocktalkers/link_to_page')" class="see_all_link">See all<br>Top StockTalkers »</a>
     </li>
   </ul>
-
 
 
   <div id="footernav">
@@ -789,7 +770,7 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
       <dt><a href="/page/who_reads_sa"><strong>Who reads SA</strong></a></dt>
       <dd class="mid_title">SA Team Instablogs</dd>
       <dt><a href="/author/david-jackson/instablog">David (Founder)</a></dt>
-      <dt><a href="/author/mick-weinstein/instablog">Mick (Editor in Chief)</a></dt>
+      <dt><a href="/author/eli-hoffmann/instablog">Eli (Editor in Chief)</a></dt>
       <dt><a href="/author/boaz-berkowitz/instablog">Boaz (Contributor Relations)</a></dt>
     </dl>
     <dl id="tools">
@@ -809,7 +790,7 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
       <dt><a href="/page/submit-an-article">Become a contributor</a></dt>
       <dt><a href="/page/contributor-benefits">Contributor benefits</a></dt>
       <dt><a href="/page/sa_certified">Seeking Alpha Certified</a></dt>
-      <dt><a href="/page/feature-your-company-blog-book">Feature your  business / blog / book</a></dt>
+      <dt><a href="/page/feature-your-company-blog-book">Feature your business / blog / book</a></dt>
       <dt><a href="/page/policy_anonymous_contributors">Policy on anonymous contributors</a></dt>
       <dd class="mid_title">For Journalists</dd>
       <dt><a href="/page/sa_for_journalists">SA for journalists</a></dt>
@@ -829,15 +810,21 @@ let us know. If you have further inquires regarding Seeking Alpha's Information 
   </div>
   <div class="cleaner"></div>
 </div>
+
 </div>
-    <script src="http://static.seekingalpha.com/javascripts/sa.js?1261315077" type="text/javascript"></script>
+    <script src="http://static.seekingalpha.com/javascripts/sa.js?1276433513" type="text/javascript"></script>
 
 <script type="text/javascript">
   SeekingAlpha.Initializer.LogAndRun(InitSASource);
   SeekingAlpha.Initializer.LogAndRun(LightBox.Init);
+  SeekingAlpha.Initializer.LogAndRun(second_page_login_popup);
+
   SeekingAlpha.Initializer.Add(application_init);
-	SeekingAlpha.Initializer.AddAfterLoad(Mone.touch);
-	
+  SeekingAlpha.Initializer.AddAfterLoad(share_add_zero_to_facebook);
+	//SeekingAlpha.Initializer.AddAfterLoad($.jStorage._init);
+  SeekingAlpha.Initializer.AddAfterLoad(user_profiles);
+  SeekingAlpha.Initializer.AddAfterLoad(Mone.touch);
+
   SeekingAlpha.Initializer.Run();
 </script>
 
@@ -856,7 +843,6 @@ qacct:"p-36Zq38JCUmc3w"
 <!-- homepage event/user-guest/refresh-new checker starts -->
 <script>if (/.com\/(\?.+)?$/.test(location.href)) { urchinTracker("event/home_page/" + (is_users_cookie_exists() ? "user" : "guest") + "/" + (isRefresh ? "refresh" : "new")) }</script>
 <!-- homepage event/user-guest/refresh-new checker ends -->
-
 
     <div class="cleaner"></div>
   
