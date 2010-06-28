@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ip2location.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228143725id_/http%3A//www.ip2location.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip2location.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628060747id_/http%3A//www.ip2location.com/privacystatement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement | IP2Location™
+# Privacy Statement
 
 |   
 ---  
-Welcome to ip2location.com website operated by Hexa Software Development Center ("HSDC"). We appreciate your interest in us.  
+Welcome to ip2location.com, a website operated by Hexa Software Development Center ("HSDC"). We appreciate your interest in us.  
    
   
 **Collecting and Using Personal Information**  
@@ -19,7 +19,7 @@ When you visit and navigate our sites and when you communicate with us via our s
   
 **Your E-Mail**  
   
-We welcome your comments or questions about our websites and have provided feedback box for that purpose. We will share your comments and questions with our customer service representatives and those employees most capable of addressing your questions and concerns. Again, HSDC will not sell, license, transmit or disclose your email address to any 3rd parties.  
+We welcome your comments or questions about our websites and have provided a feedback box for that purpose. We will share your comments and questions with our customer service representatives and those employees most capable of addressing your questions and concerns. Again, HSDC will not sell, license, transmit or disclose your email address to any 3rd parties.  
   
    
   
