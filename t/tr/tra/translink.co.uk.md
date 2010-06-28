@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175603id_/http%3A//www.translink.co.uk/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.co.uk privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628210749id_/http%3A//www.translink.co.uk/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement - About this site - About Us - Translink
 
@@ -6,7 +6,7 @@
 
 * * *
 
-[The Data Protection Act](https://web.archive.org/web/20090616175603id_/http%3A//www.translink.co.uk/privacystatement.asp#dpa)  l  [Our use of cookies](https://web.archive.org/web/20090616175603id_/http%3A//www.translink.co.uk/privacystatement.asp#cookies)  l  [Further information about cookies](https://web.archive.org/web/20090616175603id_/http%3A//www.translink.co.uk/privacystatement.asp#further)  l  [Submitting personal information](https://web.archive.org/web/20090616175603id_/http%3A//www.translink.co.uk/privacystatement.asp#personal)  l  [Direct Marketing & user surveys](https://web.archive.org/web/20090616175603id_/http%3A//www.translink.co.uk/privacystatement.asp#dm)  l  [Links to other sites](https://web.archive.org/web/20090616175603id_/http%3A//www.translink.co.uk/privacystatement.asp#links)  l  [Feedback](https://web.archive.org/web/20090616175603id_/http%3A//www.translink.co.uk/privacystatement.asp#feedback)
+[The Data Protection Act](https://web.archive.org/web/20100628210749id_/http%3A//www.translink.co.uk/privacystatement.asp#dpa)  l  [Our use of cookies](https://web.archive.org/web/20100628210749id_/http%3A//www.translink.co.uk/privacystatement.asp#cookies)  l  [Further information about cookies](https://web.archive.org/web/20100628210749id_/http%3A//www.translink.co.uk/privacystatement.asp#further)  l  [Submitting personal information](https://web.archive.org/web/20100628210749id_/http%3A//www.translink.co.uk/privacystatement.asp#personal)  l  [Direct Marketing & user surveys](https://web.archive.org/web/20100628210749id_/http%3A//www.translink.co.uk/privacystatement.asp#dm)  l  [Links to other sites](https://web.archive.org/web/20100628210749id_/http%3A//www.translink.co.uk/privacystatement.asp#links)  l  [Feedback](https://web.archive.org/web/20100628210749id_/http%3A//www.translink.co.uk/privacystatement.asp#feedback)
 
 * * *
 
@@ -38,7 +38,9 @@ From time to time we may send you details of Translink promotions that may be of
  **      
 Links to other sites**
 
-Translink contains links to other websites. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any site that collects personal information.   
+Translink contains links to other websites. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any site that collects personal information. 
+
+In addition, links from this website exist for convenience and information and Translink accepts no responsibility or liability for the products, services or information contained on any such site. The existence of a link to another website does not imply or express endorsement of its provider, product or services by Translink.  
      
 If you don’t find your concern addressed here, please contact us at [feedback@translink.co.uk](mailto:feedback@translink.co.uk). 
 
