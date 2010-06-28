@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910034043id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628235556id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
 
 # None
 
@@ -39,4 +39,4 @@ If you feel that this site is not following its stated information policy, you m
 Your Searchengine and your link to the collection of all iq tests, EQ tests, earning power, health profile and many others.  
 
 
-Copyright © 1999-2009 by Happy Light Bulb BV, all rights reserved. 
+Copyright © 1999-2010 by Happy Light Bulb BV, all rights reserved. 
