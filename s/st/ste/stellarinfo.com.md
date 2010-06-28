@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellarinfo.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414034728id_/http%3A//www.stellarinfo.com/stellar-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellarinfo.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628173935id_/http%3A//www.stellarinfo.com/company/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Stellar Information Systems Ltd. - Privacy Policy, Leaders in Hard Drive Data Recovery Software Tools, Disk Recovery Utilities - Stellar
 
@@ -6,9 +6,9 @@ Stellar Information Systems Ltd. is committed to maintaining the privacy of the 
 
 Please read our Privacy Policy to understand how we protect you and the information you share with us. If you have any questions, please feel free to write to us at [privacy@stellarinfo.com ](mailto:privacy@stellarinfo.com)
 
-This Privacy Policy will explain the following regarding our collection of information: 
+This Privacy Policy will explain the following regarding our collection of information:
 
-Information Collection
+**Information Collection**
 
   * Whenever you make a purchase from our web site, at the time of check-out, we obtain the information we need from you to complete your transaction. To process your order, we require you to supply us with your correct billing, shipping and contact information. The information remains secure and cannot be received or read by others.
   * When you "Login" at our support center, we receive your contact information. We require you to submit your name and email address to be able to respond to your inquiry.
@@ -17,7 +17,7 @@ Information Collection
 
 
 
-Use of Information Collected
+**Use of Information Collected**
 
   * **Online Order**  
 The personal information you supply when placing an online order is used to ship your order and to send you order confirmation email. We may also use it to contact you in case of seeking any clarification on the order or a related correspondence.
@@ -25,8 +25,8 @@ The personal information you supply when placing an online order is used to ship
 We use the personal information you supply when you submit a support question to respond to your question. Your email address is used to send a response from our Technical Support team. 
   * **Email message**  
 
-    1. When you submit permission by subscribing through our newsletter desk, we will send email messages to let you know about changes at our Web site, new releases, promotional offers and special discounts on products and services.
-    2. With every email newsletter, customers are provided an option to remove themselves from receiving future emails. 
+    * When you submit permission by subscribing through our newsletter desk, we will send email messages to let you know about changes at our Web site, new releases, promotional offers and special discounts on products and services.
+    * With every email newsletter, customers are provided an option to remove themselves from receiving future emails. 
   * **Survey & Contest**  
 Stellar may request you for information for a survey or contest. Requested information may include your name, shipping address and demographic information. Contact information will be used to notify contest winners and award prizes 
 
@@ -39,7 +39,7 @@ If you no longer wish to receive email from us, please follow the unsubscribe in
 If you wish to access to your information that we have on our records, please send us an email at [privacy@stellarinfo.com ](mailto:privacy@stellarinfo.com)
 
 **Our use of cookies**  
-We might use cookies, [small pieces of data stored on the user's hard drive] to track time and pages you have visited. If you feel uncomfortable about this you can switch off the acceptance of cookies in your browser options. With cookies switched off, you still can use all features of our web site, including the online order form. 
+We might use cookies, [small pieces of data stored on the user's hard drive] to track time and pages you have visited. If you feel uncomfortable about this you can switch off the acceptance of cookies in your browser options. With cookies switched off, you still can use all features of our web site, including the online order form.
 
 **Notification of changes**  
-If, at some point in the future, there is a change to our Privacy Policy and/or practices that affect your personally identifiable information, we will notify you by email of the relevant changes. 
+If, at some point in the future, there is a change to our Privacy Policy and/or practices that affect your personally identifiable information, we will notify you by email of the relevant changes.
