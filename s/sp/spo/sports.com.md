@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sports.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503084820id_/http%3A//www.sports.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sports.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628144426id_/http%3A//www.sports.com/misc/privacy.php) for the most accurate reproduction.*
 
-# Online Gambling at Sports.com: Sports Betting, Online Betting, Online Sports Betting, Sportsbook
+# None
 
 At Sports.com, we have created this statement in order to demonstrate our firm commitment to privacy.
 
