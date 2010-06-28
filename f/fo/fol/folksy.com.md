@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231170505id_/http%3A//folksy.com/static_pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628114807id_/http%3A//www.folksy.com/static_pages/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Folksy :: Mould, sew, cut, carve, knit, solder, go!
+# Welcome to Folksy :: Solder, sew, cast, knit, sculpt, cut, go!
 
 ## Privacy Policy
 
@@ -26,17 +26,23 @@ Our website uses "cookies" to track use and allow customers to purchase from our
 
 We've tried to abide by the policies set out by the [Campaign for Plain English](http://www.plainenglish.co.uk/). If you have any questions relating to our Privacy Policy please email us at get@folksy.co.uk
 
-#### Featured Seller: [Fee ](https://web.archive.org/users/niche)
+#### Featured Seller: [deebeale](https://web.archive.org/users/deebeale)
 
-[](https://web.archive.org/shops/niche)
+[](https://web.archive.org/shops/deebeale)
 
-Charming handmade necklaces, dolls and gifts from Fee in Scotland. [[more]](https://web.archive.org/users/niche)
+Beautiful, colourful Gocco screen printed images full of prettily folky images of nature and wildlife. Perfect artwork to brighten your space. [[more]](https://web.archive.org/users/deebeale)
 
-##### Rated **positive** by **13** out of **13** people
+##### Rated **positive** by **27** out of **27** people
 
-[Visit Niche Handmade.](https://web.archive.org/shops/niche)
+[Visit deebeale.](https://web.archive.org/shops/deebeale)
 
 #### Your Basket
 
 You have **0 items** in your basket, totalling **£0.00**.   
 [Checkout Now →](https://web.archive.org/cart)
+
+### Recently viewed items
+
+  * [](https://web.archive.org/items/456701-1966-England-Lucky-Sixpence-Glass-Pendant)
+
+
