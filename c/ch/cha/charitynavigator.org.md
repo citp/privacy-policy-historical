@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228004020id_/http%3A//www.charitynavigator.org/index.cfm%3Fbay%3Dcontent.view%26cpid%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628141958id_/http%3A//www.charitynavigator.org/index.cfm%3Fbay%3Dcontent.view%26cpid%3D38) for the most accurate reproduction.*
 
 # Charity Navigator - Privacy
 
@@ -12,9 +12,9 @@ To become a registered user of the Charity Navigator site, we require registrat
 
 Charity Navigator makes every effort to insure the secure collection and transmission of sensitive user information using industry accepted data collection and encryption methodologies.
 
-Charity Navigator does not sell or otherwise disclose user information outside the organization.  This policy has no exceptions.  We do not sell or exchange your information with any other organization, public, private, or non-profit. 
+Except as follows, Charity Navigator does not sell or otherwise disclose user information outside the organization.  This policy has one exception: we do ask that charities we rate become registered users of our site, and we do sell charity contact information to third party vendors.  Otherwise, we do not sell or exchange your information with any other organization, public, private, or non-profit.
 
-**Cookies:  
+ **Cookies:  
 ** Like most websites, Charity Navigator may place a "cookie," or small file, in the browser files of a visitor's computer. We use cookies to save information you give us so you don't have to re-enter it each time you visit our site. This allows us to personalize the site to your taste and provide the best web experience possible to our visitors. We do not use cookies to track your movement among different web sites and do not exchange cookies with other entities.
 
  **Online Ad Serving**  
