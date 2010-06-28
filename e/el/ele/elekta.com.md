@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elekta.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024071114id_/http%3A//www.elekta.com/corporate_international_privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elekta.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628125115id_/http%3A//www.elekta.com/corporate_international_privacy_statement.php) for the most accurate reproduction.*
 
-# Privacy Statement
+# Elekta's Privacy Statement
 
 Elekta is committed to the security of data collected online. Your privacy is important to us and we recognize your need for reasonable control of personally identifiable information that you provide to Elekta. We qualify personally identifiable information as any information that is associated with your name. The information you provide helps Elekta to better understand your needs and provide you with better service.
 
