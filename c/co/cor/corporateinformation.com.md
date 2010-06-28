@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523125521id_/http%3A//www.corporateinformation.com/About-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628151816id_/http%3A//www.corporateinformation.com/About-Privacy.aspx) for the most accurate reproduction.*
 
 # CorporateInformation.com - Privacy Policy
 
@@ -28,4 +28,4 @@ CorporateInformation.com contains thousands of links to other web sites.  Since
 
 Changes
 
-From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy, please [ Contact Us](https://web.archive.org/web/20090523125521id_/http%3A//www.corporateinformation.com/Contact-Feedback.aspx) with your request.
+From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy, please [ Contact Us](https://web.archive.org/web/20100628151816id_/http%3A//www.corporateinformation.com/Contact-Feedback.aspx) with your request.
