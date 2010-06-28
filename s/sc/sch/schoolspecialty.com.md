@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the schoolspecialty.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416195407id_/http%3A//www.schoolspecialty.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolspecialty.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628223802id_/http%3A//www.schoolspecialty.com/privacy.jsp) for the most accurate reproduction.*
 
-# School Specialty - Privacy/Security
-
-Privacy Statement
+# All of the educational products you've come to learn and trust - School Specialty, Inc.
 
 This web site has agreed to notify you of: 
 
