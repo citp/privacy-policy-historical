@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228080057id_/http%3A//www.techsoup.org/about/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628150613id_/http%3A//www.techsoup.org/about/privacy/index.cfm) for the most accurate reproduction.*
 
 # CompuMentor Privacy Policy
 
