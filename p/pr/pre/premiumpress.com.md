@@ -1,73 +1,32 @@
-> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807163210id_/http%3A//premiumpress.com/company/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628142740id_/http%3A//www.premiumpress.com/privacy) for the most accurate reproduction.*
 
-# Premium Press - printing, custom printing, business cards, letterhead, postcards, brochures, flyers, folders
+# PremiumPress - Privacy Policy
 
-At Premium Press we care about your personal information and how it is used and shared. We appreciate your trust, be assured that we take every precaution necessary to ensure privacy of your personal information. This notice describes our privacy policy. By visiting Premium Press, you are accepting the practices described in this Privacy Notice.
+Your privacy is important to us. We want you to feel comfortable using CouponPress services. Because we gather certain types of information about the users of CouponPress services, we feel you should fully understand what information we gather and how we use that information. CouponPress employees are required to familiarize themselves with this privacy policy as a condition of their employment, and any employee violating the policy is subject to disciplinary action. What information does CouponPress gather? 
 
-What Personal Information About Customers Does Premium Press Gather?
+  
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at Premium Press. Here are the types of information we gather.
+  * What information does CouponPress gather? 
+    * When you register for a account on this website, CouponPress obtains contact information, such as your name, address, and phone number. When you use CouponPress service, our systems record information about your session, such as the dates and times of use, and the specific Internet address assigned to you. CouponPress also tracks requests you make for information on CouponPress products and services, and responses you provide to CouponPress surveys. Finally, CouponPress keeps records of your payment history and communications you have with CouponPress support team. Except in extraordinary circumstances (when we receive a court order, to protect the company's rights or property, or in emergencies where someone's safety is at risk), CouponPress does not keep track of what sites you visit when you are using the service.
+  * What does CouponPress do with this information? 
+    * CouponPress uses the information it gathers in order to provide you with the best online experience possible. As you might expect, contact information is used to contact you concerning your account and our company. Payment information is used to validate your identity and to bill you for the services and products you order. Information on your online sessions is used to allocate system resources and to ensure compliance with CouponPress Service Level Agreements (SLA). Information on your communications with CouponPress support team is used to address the issues raised by your communications. In addition, CouponPress regularly sends out mailings regarding the operation of its service and other goods and services that it believes may be of interest to you. You may request that CouponPress not send you mailings relating to other goods and services at the URLs listed in this section or send an e-mail to [privacy@premiumpress.com](mailto:privacy@premiumpress.com). CouponPress reserves the right, however, to send bulletins and other important information regarding the service at its discretion.
+  * Does CouponPress share subscriber information with third parties? 
+    * CouponPress will not share or disclose information regarding its subscribers except (i) when we receive legal process such as a court order; (ii) when reasonably necessary to protect the company's rights or property; or (iii) in emergencies where someone's safety is at risk.
 
-  * **Information You Give Us** : We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features and special offers. We use the information that you provide in order to respond to your requests, customizing future shopping, improving our stores, and communicating with you.
-  * **Automatic Information** : We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Premium Press. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Premium Press if we cannot recognize you, we want you to be aware that these tools exist.
-  * **E-mail Communications** : To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Premium Press if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.
-  * **Information from Other Sources** : We might receive information about you from other sources and add it to our account information. 
+You should be aware, however, that any information that you disclose in a public space such as a chat room, bulletin board, or personal Web site, CouponPress DNR domain registration is freely available to anyone else visiting that space. CouponPress cannot safeguard any personally identifiable information you disclose in these locations, nor can it ensure that information you voluntarily supply to third parties remains private. Please review the privacy policies of third party sites you frequent to ensure that your privacy preferences are respected.
 
-
-
-What About Cookies? 
-
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as 1-Click purchasing, New for You, personalized Amazon Honor System greetings, and storage of items in your Shopping Cart between visits.   
-The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Premium Press's coolest features, and we recommend that you leave them turned on. 
-
-Does Premium Press Share the Information It Receives?
-
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Premium Press, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
-
-  * **Affiliated Businesses We Do Not Control** : We work closely with our affiliated businesses. In some cases, such as Marketplace, zShops, and Auctions sellers, these businesses operate stores at Premium Press or sell offerings to you at Premium Press. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
->
-  * **Agents** : We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * **Promotional Offers** : Sometimes we send offers to selected groups of Premium Press customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Customer Communication Preferences.
-  * **Business Transfers** : As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Premium Press, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-  * **Protection of Premium Press and Others** : We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Premium Press, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
-  * **With Your Consent** : Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+    * CouponPress trial customer email addresses will be added to our newsletter database to help us provide you with the latest information about the products and/or services we offer.
+  * How can I correct or update the information? 
+    * To request a copy of the contact CouponPress has on your account, send an e-mail request to [privacy@premiumpress.com](mailto:privacy@premiumpress.com). You may correct that information as appropriate by returning a message to the same address. Please keep in mind that under CouponPress Service Level Agreements (SLA), subscribers are required to provide CouponPress with current contact and billing information. CouponPress may require a copy of a government issued form of identification before disclosing billing information or before making changes to the billing or contact information on an account.
+  * What happens to the information if I leave CouponPress? 
+    * If you ever leave CouponPress, CouponPress will normally delete your personally identifiable account information twelve months after the account is cancelled, unless we are under a legal obligation to retain it. We preserve account information for this short period of time in the event you wish to reactivate your account and retain your previous e-mail address. However, in the event of any accounting irregularities, CouponPress reserves the right to retain your contact and billing information as necessary to resolve the matter.
+  * Changes to this policy and questions about privacy. 
+    * CouponPress reserves the right to make changes to this policy. Those changes will become effective 30 days after notice of them is posted here. If you have any questions about this privacy policy, please send them via e-mail to: [mark@markfail.com](mailto:mark@markfail.com).
 
 
 
-How Secure Is Information About Me? 
-
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off.
-
-
-
-Which Information Can I Access?
-
-Premium Press gives you access to a broad range of information about your account and your interactions with Premium Press for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves. 
-
-What Choices Do I Have? 
-
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Premium Press features as Your About You Area, Wish Lists, and Customer Reviews.
-  * You can add or update certain information on pages such as those listed in the "Which Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records. 
-  * If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Premium Press, and it is your responsibility to review them for changes.)
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use such important features as 1-Click ordering and New for You if you do not use cookies.
-  * Click here to explore products that offer anonymous browsing. In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, Site Seeing on the Internet. 
-
-
-
-Children
-
-Premium Press does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Premium Press only with the involvement of a parent or guardian. 
-
-Conditions of Use, Notices, and Revisions 
-
-If you choose to visit Premium Press, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Premium Press, please send us a thorough description to [feedback@PremiumPress.com](mailto:feedback@PremiumPress.com), and we will try to resolve it. 
-
-Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
-
-Premium Press is committed to customer satisfaction. We will reprint or refund the cost of any product that fails to meet our customer’s quality expectations. However, we cannot take responsibility for typing, image, or design errors introduced by customers in the document creation process. In an effort to keep costs down and pass those savings along to our customers, Premium Press does not review card documents for content or spelling.
-
-Premium Press guarantees that you will be satisfied with the quality of our products. If you are not satisfied with any product, please use our Return Form in the Customer Service section of the site within 30 days of receiving your order. Please include your order number, e-mail address you used to order, and reason for dissatisfaction. Our Customer Service department will review your request and work with you to meet your expectations.
-
-Top
+> By far the best ecommerce solction for Wordpress!
+> 
+> The customer service is great and the selection of extra shopping cart themes are amazing!
+> 
+> **Iggy Aldana - Santa Clara, Canada** | [femmespy.com](http://femmespy.com/ "By far the best ecommerce solction for Wordpress!")
