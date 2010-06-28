@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901001421id_/http%3A//www.avma.org/termsofuse/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628221530id_/http%3A//www.avma.org/termsofuse/privacy/default.asp) for the most accurate reproduction.*
 
 # AVMA Online Privacy Notice
 
@@ -35,7 +35,7 @@ When you log on to [www.avma.org](http://www.avma.org/) to access our members-on
 **Information for parents of children who may visit the AVMA Web site**  
 We would like you to know that the AVMA cares about the welfare of children and the privacy of our members and has taken steps to ensure that submitting information on our Web sites is a safe and secure experience. In order to safeguard children's privacy, and in keeping with the Children's Online Privacy Protection Act (COPPA), the AVMA does not collect any personally identifying information online from or about children under the age of 13. For any instance in which the AVMA needs to obtain information about children, such information is collected via fax or postal mail rather than online and will be accepted only with a signature indicating parental consent to the collection and specified use. None of the information is shared with any third party, and AVMA use of the information is limited to fulfillment of the requested service.
 
-Upon your request, and after verification of your identity, we will provide you with a description of the information that we maintain about you or your children. We will accommodate all reasonable requests. Please contact us by e-mail at [avmaonline@avma.org](mailto:avmaonline@avma.org) or in writing at the above address.
+Upon your request, and after verification of your identity, we will provide you with a description of the information that we maintain about you or your children. We will accommodate all reasonable requests. Please contact us [by e-mail](http://www.avma.org/contact_us_error.asp) or in writing at the above address.
 
 **Information for AVMA Web site visitors who purchase products or services on our site**  
 When you purchase products or services from the AVMA via the AVMA's Web sites, we collect your name, company name if applicable, contact information, your credit card information, as well as information about your current purchase. This information is used to support your interaction with our site, to deliver your purchases if applicable and to contact you as necessary to fulfill your product or service request.
@@ -43,7 +43,7 @@ When you purchase products or services from the AVMA via the AVMA's Web sites, w
 We collect the e-mail addresses of those who communicate with us by e-mail. The e-mail addresses are used only to fulfill your request or to contact you with information related to your request unless you specify that you would like to receive further communications with us via e-mail.
 
 **Information for those who receive electronic communications from the AVMA**  
-If you no longer wish to receive a specific AVMA electronic communication, please follow the unsubscribe instructions included in that communication or contact our [help desk](mailto:avmaonline@avma.org) and request removal from the mailing list.
+If you no longer wish to receive a specific AVMA electronic communication, please follow the unsubscribe instructions included in that communication or contact our [help desk](http://www.avma.org/contact_us_error.asp) and request removal from the mailing list.
 
 Please see the [AVMA Electronic Communication Terms of Use](http://www.avma.org/termsofuse/electronic_communication/default.asp) for more information.
 
