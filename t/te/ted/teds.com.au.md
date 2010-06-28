@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teds.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044732id_/http%3A//www.teds.com.au/www/6/1001102/displayarticle/1001564.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teds.com.au privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628050047id_/http%3A//www.teds.com.au/www/6/1001102/displayarticle/1001564.html) for the most accurate reproduction.*
 
-# Privacy Information - Ted's Camera Stores Australia
+# Privacy Information | Digital Cameras and Camera Accessories | Video Cameras | Teds Cameras Australia
 
   
 Ted’s Camera Stores (Vic) Pty Ltd Privacy Statement
