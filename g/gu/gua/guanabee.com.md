@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guanabee.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227022953id_/http%3A//guanabee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guanabee.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628061006id_/http%3A//guanabee.com/privacy-policy) for the most accurate reproduction.*
 
 # Guanabee | Privacy Policy
 
@@ -17,8 +17,6 @@ The information we collect is used to improve the content of our Web page, used 
 With respect to cookies: We use cookies to record past activity at a site in order to provide better service when visitors return to our site.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
-
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, writing to us at the above address.
 
 From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, writing to us at the above address.
 
