@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staples.ca privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228080633id_/http%3A//www.staples.ca/ENG/Static/static_pages.asp%3Fpagename%3Dhelp_terms_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.ca privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628150830id_/http%3A//www.staples.ca/ENG/Static/static_pages.asp%3Fpagename%3Dhelp_terms_privacy) for the most accurate reproduction.*
 
 # STAPLES | BUREAU EN GROS
 
