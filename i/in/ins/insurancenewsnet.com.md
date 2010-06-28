@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522115734id_/http%3A//www.insurancenewsnet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancenewsnet.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628022107id_/http%3A//www.insurancenewsnet.com/privacy.aspx) for the most accurate reproduction.*
 
-# Disclaimer and Privacy Information
+# INN : Disclaimer and Privacy Information
 
-[](http://www.truste.org/ivalidate.php?url=www.insurancenewsnet.com&sealid=101)InsuranceNewsNet.com, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site ([www.insurancenewsnet.com](http://www.insurancenewsnet.com/)). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[](http://www.truste.org/ivalidate.php?url=www.insurancenewsnet.com&sealid=101)InsuranceNewsNet.com, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site ([www.insurancenewsnet.com](https://web.archive.org/)). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact Customer Service by calling 717-441-9357 by email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail: InsuranceNewsNet.com, 355 North 21st Street, Suite 211 Camp Hill, PA 17011. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -83,11 +83,11 @@ Choice/Opt-out
   
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com). We offer an opportunity to opt-out of certain communications on our [Subscription Update Page](https://www.insurancenewsnet.com/subscription_update.asp), or you may contact us via...
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com). We offer an opportunity to opt-out of certain communications on our [Subscription Update Page](https://web.archive.org/subscription_update.aspx), or you may contact us via...
 
 **Telephone:** 717-441-9357
 
-**Email:** [info@insurancenewsnet.com](https://web.archive.org/web/20090522115734id_/http%3A//www.insurancenewsnet.com/info@insurancenewsnet.com) or 
+**Email:** [info@insurancenewsnet.com](https://web.archive.org/web/20100628022107id_/http%3A//www.insurancenewsnet.com/info@insurancenewsnet.com) or 
 
 **Postal mail:** InsuranceNewsNet.com,   
 355 North 21st Street, Suite 211   
@@ -130,7 +130,7 @@ Access to Personally Identifiable Information
   
 If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page:
 
-<https://www.insurancenewsnet.com/subscription_update.asp>   
+[https://www.insurancenewsnet.com/subscription_update.aspx](https://web.archive.org/web/20100628022107id_/http%3A//www.insurancenewsnet.com/subscription_update.aspx)   
 or by contacting Customer Service by calling: 717-441-9357, email: [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com) or by mail: 
 
 InsuranceNewsNet.com,   
@@ -168,4 +168,4 @@ InsuranceNewsNet.com, Inc.
 Camp Hill, PA 17011   
 717-441-9357   
 [info@insurancenewsnet.com](mailto:info@insurancenewsnet.com)   
-[http://www.insurancenewsnet.com](http://www.insurancenewsnet.com/)
+[http://www.insurancenewsnet.com](https://web.archive.org/)
