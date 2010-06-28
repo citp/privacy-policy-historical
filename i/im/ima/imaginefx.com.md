@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imaginefx.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622174452id_/http%3A//www.imaginefx.com//-2287754330933336420/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginefx.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628230909id_/http%3A//www.imaginefx.com/-2287754330933336420/default.html) for the most accurate reproduction.*
 
-# ImagineFX | Privacy Policy
+# ImagineFX.com | Privacy Policy
 
 **1\. GENERAL:** This website (the “Website”) and any information obtained through the Website or from other sources is stored on servers operated and maintained by or on behalf of Future Publishing Limited and its group companies (“Future”, “we” or “us”)). 
 
