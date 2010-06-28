@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoupload.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226101723id_/http%3A//neoupload.com/index.php/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoupload.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629003122id_/http%3A//neoupload.com/index.php/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NeoUpload.com
 
