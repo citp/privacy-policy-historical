@@ -1,29 +1,50 @@
-> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617173617id_/http%3A//www.sonicfoundry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628035647id_/http%3A//www.sonicfoundry.com/privacy) for the most accurate reproduction.*
 
 # Sonic Foundry, Inc.
 
-###  Information Collection
+Your privacy is important to us. When using our site, you may give us information so that we can provide enhanced service to you or personalize your experience on our website. 
 
-Sonic Foundry only collects personally identifiable information when you specifically provide this information on a voluntary basis. Sonic Foundry will make every reasonable effort to ensure that whatever information you provide will be maintained in a secure environment. Unfortunately, no data transmission can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Sonic Foundry can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.   
+###  Information Collection 
 
+Sonic Foundry only collects personally identifiable information when you specifically provide this information on a voluntary basis. Sonic Foundry will make every reasonable effort to ensure that whatever information you provide will be maintained in a secure environment. Unfortunately, no data transmission can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Sonic Foundry can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. 
 
-###  Information Sharing
+We will only send you Sonic Foundry email related to the specific topics designated in [your preferences](http://www.mysofo.com/forms/updatepreferences/). New categories of communications may be added from time to time. We reserve the right to send you certain communications relating to our products and services, such as product announcements, best practices and newsletters. You may opt out of receiving these communications, or unsubscribe, at any time by following the instructions in the email footer or [managing your preferences](http://www.mysofo.com/forms/updatepreferences/). 
 
-In its sole discretion, Sonic Foundry **_may_** sell or trade your personally identifiable information to unaffiliated third parties, including successors in interest. If you do not want your information used in this manner, you may contact Sonic Foundry and "opt out" of receiving future marketing information about other products, services, and offerings from Sonic Foundry and/or any third parties. 
+Most of our newsletters are quarterly, with the exception of our customer and partner newsletters, which are monthly and are the primary venue for us to update you on product and service developments. In addition, in accordance with [your preferences](http://www.mysofo.com/forms/updatepreferences/), we may send you occasional invitations to participate in webinars, attend upcoming events or review the results of new research, best practice announcements or case studies. You can [modify your preferences](http://www.mysofo.com/forms/updatepreferences/) at any time to add or remove yourself from these subscriptions. 
 
-However, even if you opt out of receiving any communications from Sonic Foundry, we reserve the right sell your information to a successor in interest or a purchaser of our assets. We also reserve the right to contact you regarding your account status and any other matter that might affect our service to you and/or our records on you. 
+Sonic Foundry only collects personally identifiable information, normally name, email address, physical address, telephone number, organization, when you specifically provide this information on a voluntary basis. We make every reasonable effort, including physical, electronic and procedural safeguards, to ensure that whatever information you provide will be maintained in a secure environment. 
 
-Sonic Foundry may perform statistical analyses of user behavior and characteristics. We may share this information with advertisers. Sonic Foundry may sometimes permit third parties to offer products or services through a Sonic Foundry site. Sonic Foundry is not responsible for any actions or policies of such third parties, and you should check the applicable privacy policy of any third party when providing personally identifiable information. 
+###  Your Email Address 
 
-Sonic Foundry may also disclose your information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Sonic Foundry's rights or property or anyone else that could be harmed by such activities. 
+We only collect and hold your email address in order to fulfill your request for information or services, or contact you as specified in [your preferences](http://www.mysofo.com/forms/updatepreferences/). You can unsubscribe at any time for any reason quickly and easily at our [online preferences center](http://www.mysofo.com/forms/updatepreferences/). You can also change email addresses here or update your information. If you ever have a problem with your preferences, please [contact us](https://web.archive.org/web/20100628035647id_/http://www.sonicfoundry.com/company/contact/website-feedback.aspx). 
 
-###  Cookies
+We never rent email lists. Sonic Foundry will only share your information with other organizations when we have your consent; when we must respond to subpoenas, court orders, legal process; or if we determine that your actions on our website violates our terms of service. 
 
-Non-personal information may be automatically collected through the standard operation of Sonic Foundry's internet servers or through the use of "cookies." Cookies are small text files a Web site can use to recognize repeat users.   
+###  Cookies 
 
+Our website uses cookies so we can recognize you as a return visitor. We use this information to make your visit more efficient, customize your site experience, improve our site functionality and conduct research. Cookies are small text files placed in the 'Cookies' folder on your hard disk and allow our website to remember you as a visitor. The cookie files themselves do not contain any personal information. The Sonic Foundry website sends cookies when you visit, request or personalize information or register yourself for webinars or information. The cookies we place are readable only by us, and they cannot access, read or modify any other data on your computer. All web-browsers offer the option to refuse any cookie, and if you refuse the Sonic Foundry cookie then our website will not gather any information on you or your visit, but doing so will require you to re-enter certain information at each visit, or prevent us from customizing the site's features according to your preferences. You may also delete a cookie manually from your hard drive at any time. 
 
-###  Links to Other Sites
+###  Links to Other Sites 
 
-Sonic Foundry may from time to time offer links to other sites from sites within the Sonic Foundry domain. Sonic Foundry has no control over these external sites or their content, and cannot be held responsible for any actions they may take or any information they might collect. You may arrive at one of these sites through clicking on a banner advertisement, as part of a co-branding arrangement, or simply by selecting a link on a Sonic Foundry web page. These sites might issue their own cookies or collect data or personal information. Use caution when visiting an external site. 
+We may link to other websites from sites within the Sonic Foundry domain. We have no control over these external sites or their content, so we cannot be held responsible for any actions they may take or any information they might collect. 
 
-The foregoing policies are effective as of October 27, 2003. Sonic Foundry reserves the right to change this policy at any time. By using this site, you signify your assent to the Sonic Foundry Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the Sonic Foundry site following the posting of changes to these terms will mean you accept those changes. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+###  Unsubscribing 
+
+Click on the “manage preferences” link at the bottom of any email you’ve received from us, or use this link: http://www.mysofo.com/forms/updatepreferences/. If you would like your snail mail address removed from our distribution lists, please contact us with [this form](https://web.archive.org/web/20100628035647id_/http://www.sonicfoundry.com/company/contact/website-feedback.aspx). 
+
+###  Updates 
+
+These policies are effective as of October 1, 2008. If Sonic Foundry updates its privacy policy, the new information will be posted here 
+
+###  Terms of Service 
+
+By using our website, you signify your assent to the Sonic Foundry Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the Sonic Foundry site following the posting of changes to these terms will mean you accept those changes. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+
+###  Feedback 
+
+Please [contact us](https://web.archive.org/web/20100628035647id_/http://www.sonicfoundry.com/company/contact/website-feedback.aspx) for questions or concerns regarding our privacy policy. You can also write or call us at: 
+
+Sonic Foundry, Inc.  
+222 West Washington Avenue  
+Madison, WI 53703  
+608.443.1600 
