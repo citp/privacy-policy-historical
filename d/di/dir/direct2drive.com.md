@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the direct2drive.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210035828id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct2drive.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628063100id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - IGN Entertainment
 
@@ -98,8 +98,7 @@ If you have any other questions, comments or complaints about this Policy, pleas
 
 IGN Entertainment, Inc.  
 Attn: Legal Department/Privacy Administrator  
-8000 Marina Blvd.  
-4th Floor  
-Brisbane, CA 94005
+625 2nd Street, 3rd Floor  
+San Francisco, CA 94107
 
 *Be sure to include the specific IGN Site to which you are a member and about which you have a question.
