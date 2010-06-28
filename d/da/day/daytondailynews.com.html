@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the daytondailynews.com privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231000719id_/http%3A//www.daytondailynews.com/services/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the daytondailynews.com privacy policy that was archived on 2010-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628141911id_/http%3A//www.daytondailynews.com/services/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -37,7 +37,6 @@
 <script type="text/javascript" src="http://www.daytondailynews.com/js/base/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="http://www.daytondailynews.com/js/base/jquery.tmpl.1.1.1.js"></script>
 <script type="text/javascript" src="http://www.daytondailynews.com/js/base/master.min.js"></script>
-<script type="text/javascript" src="http://jqueryui.com/latest/ui/ui.slider.js"></script>
 <!--[if lt IE 7.]>
 <script type="text/javascript"> var unitPngFixClear="http://www.daytondailynews.com/images/base/transparent.gif" </script>
 <script type="text/javascript" src="http://www.daytondailynews.com/js/base/unitpngfix.js"></script>
@@ -153,11 +152,14 @@ jQuery(window).load(function(){emptyAdCollapse()});
 <div id="cxHeader">
 <div id="cxHeaderTop">
 <div class="subscribe leftFloat">
-<a title="Subscribe to print edition" href="https://customerservice.coxohio.com/subscription.php?pub=ddn/" class="cxSubscribe">Subscribe now</a>
 <a title="Subscribe to print edition" href="https://customerservice.coxohio.com/subscription.php?pub=ddn/">
 <img src="http://www.daytondailynews.com/images/pub/header_paper_image.gif" alt="Subscribe to print edition">
 </a>
-<a href="http://customerservice.coxohio.com/?pub=ddn/">Customer Service</a>
+<a title="Subscribe to print edition" href="https://customerservice.coxohio.com/subscription.php?pub=ddn/" class="cxSubscribe">Subscribe now</a>&nbsp;
+<a title="Subscribe to e-edition" href="http://edition.daytondailynews.com">
+<img src="http://www.daytondailynews.com/images/pub/e_edition.gif" alt="Subscribe to e-edition">
+</a>&nbsp;
+<a href="http://customerservice.coxohio.com/?pub=ddn/">Customer Service</a>    
 </div>
 <div class="userRegistration rightFloat">
 <div id="cxHeaderUserRegistrationContainer">
@@ -169,7 +171,7 @@ var currentURL = new String(window.location);
 var sendBack = "http://www.daytondailynews.com/services/privacy-policy/";
 if(sendBack.length == 0)
 sendBack = encodeURIComponent(document.location);
-var url = "http://www.daytondailynews.com/userreg/userreg/userregclass/escenicwidget.jsp?filename=homepage&ajaxCall=true&SendBackURL=" + sendBack + "&callback=?";
+var url = "http://www.daytondailynews.com/userreg/userreg/userregclass/escenicwidget.jsp?filename=homepage&ajaxCall=true&checkEscenicProtected=notProtected&SendBackURL=" + sendBack + "&callback=?";
 jQuery.getJSON(url, function(jsonDoc){  	
 var urHTML = "";
 urHTML =  "<a href=\"" + jsonDoc.urLinks[0].signUpURL + "\">Register Now</a>&nbsp;|&nbsp;";
@@ -177,9 +179,9 @@ urHTML += "<a href=\"" + jsonDoc.urLinks[0].loginURL + "\">Sign In</a>&nbsp;|&nb
 urHTML += "<a href=\"" + jsonDoc.urLinks[0].emailURL + "\">E-mail preferences</a>";
 if(jsonDoc.trigger == "true") {
 var loginSignupURL = new String(jsonDoc.redirectURL);
-var isProtected = false;
+var isProtected = true;
 var isAllowedReferringURL = false;
-if(currentURL.indexOf("userreg") == -1 && isProtected == true && isAllowedReferringURL == false)
+if(currentURL.indexOf("userreg") == -1 && isProtected == false && isAllowedReferringURL == false)
 document.location = loginSignupURL;
 } else {
 if(jsonDoc.login == "false") {
@@ -265,13 +267,14 @@ so.write("cxWeatherTeaser");
 </ul>
 </li>
 <li class="cxPrimarySubNav"><a href="http://www.legacy.com/dayton">Obituaries</a></li>
-<li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/news/dayton-weather/">Weather</a></li>
+<li class="cxPrimarySubNav"><a href="http://www.whiotv.com/ddnweather">Weather</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/news/crime/">Crime News</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/news/ohio-news/">Ohio News</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/news/nation-world-news/">Nation &amp; World</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/news/">News Summary</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/news/dayton-traffic/">Traffic &amp; Maps</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/services/archive/">Archive - Past Articles</a></li>
+<li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/news/election/">Election</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/news/politics/">Politics</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/news/data/">Local Data</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/news/ohio-lottery/">Ohio Lottery</a></li>
@@ -293,13 +296,13 @@ so.write("cxWeatherTeaser");
 <ul>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/?cxntlid=sports_subnav">Sports Homepage</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/high-school-sports/">High Schools</a></li>
+<li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/cincinnati-reds/">Cincinnati Reds</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/university-of-dayton-flyers/">UD Flyers</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/wright-state-university-raiders/">WSU Raiders</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/cincinnati-bengals/">Cincinnati Bengals</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/cleveland-browns/">Cleveland Browns</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/ohio-state-buckeyes/">OSU Buckeyes</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/miami-university-redhawks/">Miami RedHawks</a></li>
-<li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/cincinnati-reds/">Cincinnati Reds</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/dayton-dragons/">Dayton Dragons</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/hockey/">Dayton Hockey</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/dayton-sports/ohio-auto-racing/">Local Auto Racing</a></li>
@@ -310,7 +313,6 @@ so.write("cxWeatherTeaser");
 <ul>
 <li><a href="/blogs/content/shared-gen/blogs/dayton/cincinnatireds/">Hal McCoy - Reds</a></li>
 <li><a href="/blogs/content/shared-gen/blogs/dayton/daytonflyers/">UD Flyers</a></li>
-<li><a href="/blogs/content/shared-gen/blogs/dayton/chickludwig/">Chick Ludwig</a></li>
 <li><a href="/blogs/content/shared-gen/blogs/dayton/hshuddle/">High School Huddle</a></li>
 <li><a href="/blogs/content/shared-gen/blogs/dayton/throughthearch/">Tom Archdeacon</a></li>
 <li><a href="/blogs/content/shared-gen/blogs/dayton/wrightstatesports/">Wright State</a></li>
@@ -367,7 +369,6 @@ so.write("cxWeatherTeaser");
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/lifestyle/pets/">Pets</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/lifestyle/ohio-health-news/">Health</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/lifestyle/ohio-home-and-garden/">Home &amp; Garden</a></li>
-<li class="cxPrimarySubNav"><a href="http://www.937moms.com">937Moms</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/ohio-recreation/">Recreation</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/lifestyle/technology/">Technology</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/lifestyle/travel/">Travel</a></li>
@@ -410,11 +411,12 @@ so.write("cxWeatherTeaser");
 <li class="cxPrimarySubNav"><a href="https://customerservice.coxohio.com/index.php?pub=ddn">Newspaper Vacation Stop</a></li>
 <li class="cxPrimarySubNav"><a href="https://customerservice.coxohio.com/index.php?pub=ddn">Start Newspaper Delivery</a></li>
 <li class="cxPrimarySubNav"><a href="https://customerservice.coxohio.com/faq.php?pub=ddn">FAQ</a></li>
-<li class="cxPrimarySubNav"><a href="https://customerservice.coxohio.com/index.php?pub=ddnpolicy_index.html">Our Policies</a></li>
+<li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/services/policy-index/">Our Policies</a></li>
 <li class="cxPrimarySubNav"><a href="https://customerservice.coxohio.com/index.php?pub=ddn.html">Contact Us</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/services/reprints/">Photo &amp; Page Reprints</a></li>
 <li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/services/archive/">Archive - Past Articles</a></li>
 <li class="cxPrimarySubNav"><a href="http://classifieds.daytondailynews.com">Legal Notices</a></li>
+<li class="cxPrimarySubNav"><a href="http://www.daytondailynews.com/services/iphone/">iPhone App</a></li>
 </ul>
 </li>
 <li class="cxSecondaryNav"><a href="http://classifieds.daytondailynews.com/employment-jobs/">Jobs</a>
@@ -649,10 +651,6 @@ ifAdExists("top_slot", function(){ classifieds_box.write('myVerticalLinks'); });
 
 
   
-
-
-
-  
   
 
 
@@ -840,7 +838,7 @@ Dayton, Ohio 45409
 937-225-2323 
 </p>
 <p>
-<a href="mailto:rmarcano@coxohio.com">rmarcano@coxohio.com</a> 
+<a href="mailto:Ray.Marcano@cmgdigital.com">Ray.Marcano@cmgdigital.com</a> 
 </p>
 <p>
 <b>User registration:</b> For information regarding user registration, please 
@@ -855,7 +853,7 @@ Phone: 1-877-267-0018
 E-mail: <a href="mailto:ur@coxohio.com">ur@coxohio.com</a> 
 </p>
 <p>
-<a name="children"><b>CHILDREN'S PRIVACY </b></a><b> </b>
+<a name="children"> </a><b>CHILDREN'S PRIVACY</b>
 </p>
 <p>
 Children should always get permission from their parents before sending any 
@@ -867,7 +865,7 @@ Children should always get permission from their parents before sending any
   as your name, your email address or your phone number). 
 </p>
 <p>
-<a name="types"><b>TYPES OF INFORMATION WE COLLECT </b></a>
+<a name="types"> </a><b>TYPES OF INFORMATION WE COLLECT</b>
 </p>
 <p>
 The information we gather falls into two categories: (1) information (for 
@@ -959,7 +957,7 @@ We use cookies to help us tailor our site to your needs, to deliver a better,
   sites that have agreed to share such information with us. 
 </p>
 <p>
-<a name="ads"><b>Browser Level Information and IP Addresses.</b></a> Our web 
+<a name="ads"> </a><b>Browser Level Information and IP Addresses.</b> Our web 
   servers automatically collect limited information about your computer 
   configuration when you visit our site, including the type of browser 
   software you use, the operating system you're running, the resolution of 
@@ -982,7 +980,7 @@ We use cookies to help us tailor our site to your needs, to deliver a better,
 </p>
 <p></p>
 <p>
-<a name="disclosure"><b>DISCLOSURE OF INFORMATION</b></a>
+<a name="disclosure"> </a><b>DISCLOSURE OF INFORMATION</b>
 </p>
 <p>
 <b>Why we want to know.</b> As with any business, it's important for us to 
@@ -1052,7 +1050,7 @@ We use cookies to help us tailor our site to your needs, to deliver a better,
   our visitors would be among the transferred assets. 
 </p>
 <p>
-<a name="shopping"><b>SHOPPING</b></a>
+<a name="shopping"> </a><b>SHOPPING</b>
 </p>
 <p>
 When you are ready to make a purchase on our site, we will ask you to provide 
@@ -1079,7 +1077,7 @@ We will use the information you provide us to process your transaction and to
   promotions, products or services that may be of interest to you. 
 </p>
 <p>
-<a name="optout"><b>OPTING OUT</b></a>
+<a name="optout"> </a><b>OPTING OUT</b>
 </p>
 <p>
 If you register with us, you will have the opportunity to review, update, or 
@@ -1092,7 +1090,7 @@ If you register with us, you will have the opportunity to review, update, or
   our site and to send you administrative notices or any communications 
   relevant to your use of our site. If you do not wish to receive these 
   notices, please email us <a href="http://www.daytondailynews.com/services/privacy-policy-notification-58980.html">using 
-  this form</a> . 
+  this form</a>. 
 </p>
 <p>
 If you have subscribed to one of our email newsletters, you will always have 
@@ -1108,7 +1106,7 @@ If you have submitted your information on a page provided in conjunction with
   request the Provider Partner to remove your information from its database. 
 </p>
 <p>
-<a name="storage"><b>STORAGE OF INFORMATION</b></a>
+<a name="storage"> </a><b>STORAGE OF INFORMATION</b>
 </p>
 <p>
 All information gathered on our site is stored within a database operated by 
@@ -1122,7 +1120,7 @@ All information gathered on our site is stored within a database operated by
   transmitted to us over the Internet. 
 </p>
 <p>
-<a name="changes"><b>CHANGES TO THIS PRIVACY POLICY</b></a>
+<a name="changes"> </a><b>CHANGES TO THIS PRIVACY POLICY</b>
 </p>
 <p>
 A final note: The Web is an evolving medium. If we need to change our privacy 
@@ -1683,7 +1681,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 				  <li class="tab11"><a href="javascript:void(0);" rel="ct11" class="">
 		  		  <div>
 			  		  
-							  <span>Emailed</span>
+							  <span>Commented</span>
 							  
 						  
 					</div>
@@ -1693,7 +1691,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 				  <li class="tab12"><a href="javascript:void(0);" rel="ct12" class="">
 		  		  <div>
 			  		  
-							  <span>Commented</span>
+							  <span>Searched</span>
 							  
 						  
 					</div>
@@ -1746,35 +1744,35 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 			      <li> 
 			       
 			     	   
-			     	 <a href="http://www.daytondailynews.com/news/crime/woman-accused-of-kidnapping-stabbing-husband-over-a-secret-469031.html">Woman accused of kidnapping, stabbing husband over a 'secret'</a>
+			     	 <a href="http://www.daytondailynews.com/news/dayton-news/jobless-ohioans-will-be-cut-off-as-benefits-expire-785266.html">Jobless Ohioans will be cut off as benefits expire</a>
 			     	 
 			        </li>
 			  
 			      <li> 
 			       
 			     	   
-			     	 <a href="http://www.daytondailynews.com/news/dayton-news/autopsy-leaves-questions-unanswered-in-christmas-day-crash-468339.html">Autopsy leaves questions unanswered in Christmas Day crash</a>
+			     	 <a href="http://www.daytondailynews.com/news/dayton-news/2-brookville-high-school-students-killed-in-crash-identified-783875.html">2 Brookville High School students killed in crash identified</a>
 			     	 
 			        </li>
 			  
 			      <li> 
 			       
 			     	   
-			     	 <a href="http://www.daytondailynews.com/news/crime/woman-accused-of-holding-husband-hostage-467818.html">Woman accused of holding husband hostage</a>
+			     	 <a href="http://www.daytondailynews.com/news/dayton-news/australian-gets-first-look-at-dayton-house-bought-on-ebay-782464.html">Australian gets first look at Dayton house bought on eBay</a>
 			     	 
 			        </li>
 			  
 			      <li> 
 			       
 			     	   
-			     	 <a href="http://www.daytondailynews.com/business/jan-1-deadline-looms-in-fox-time-warner-standoff-467216.html">Jan. 1 deadline looms in Fox, Time Warner standoff</a>
+			     	 <a href="http://www.daytondailynews.com/news/crime/man-shot-three-times-in-harrison-twp--785296.html">Man shot three times in Harrison Twp.</a>
 			     	 
 			        </li>
 			  
 			      <li> 
 			       
 			     	   
-			     	 <a href="http://www.daytondailynews.com/news/crime/man-without-legs-drives-to-home-threatens-man-police-report-468857.html">Man without legs drives to home, threatens man, police report</a>
+			     	 <a href="http://www.daytondailynews.com/news/dayton-news/smoke-from-mulch-supplier-fire-blackens-sky-seen-for-miles-786195.html">Smoke from mulch supplier fire blackens sky, seen for miles</a>
 			     	 
 			        </li>
 			  
@@ -1820,27 +1818,52 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 
 
 
-	
 
 
-	  <div class="cxMostPopularChild">
-	  
-		 	<ul class="links12px">
+
+    <div class="cxMostPopularChild">
+    
+     <ul class="links12px">
 		 	
-	      <li><a href="http://www.daytondailynews.com/news/dayton-news/-giving-circle-movement-puts-new-face-on-philanthropy-469642.html?imw=Y">'Giving circle' movement puts new face on philanthropy</a></li>
-	   
-	      <li><a href="http://www.daytondailynews.com/news/crime/police-find-animal-head-in-microwave-at-ikea-470359.html?imw=Y">Police find animal head in microwave at IKEA</a></li>
-	   
-	      <li><a href="http://www.daytondailynews.com/news/dayton-news/robot-lets-local-nurses-talk-remotely-to-patients-469636.html?imw=Y">Robot lets local nurses talk remotely to patients</a></li>
-	   
-	      <li><a href="http://www.daytondailynews.com/business/local-contractors-under-scrutiny-for-using-paid-military-mentors-469417.html?imw=Y">Local contractors under scrutiny for using paid military 'mentors'</a></li>
-	   
-	      <li><a href="http://www.daytondailynews.com/news/crime/woman-accused-of-kidnapping-stabbing-husband-over-a-secret-469031.html?imw=Y">Woman accused of kidnapping, stabbing husband over a 'secret'</a></li>
-	   
-	    </ul>
-		 
-	  </div>
-       
+				<li>
+					
+					
+				 <a href="http://www.daytondailynews.com/news/dayton-news/jobless-ohioans-will-be-cut-off-as-benefits-expire-785266.html">Jobless Ohioans will be cut off as benefits expire</a>
+				 
+			</li>
+			
+				<li>
+					
+					
+				 <a href="http://www.daytondailynews.com/news/dayton-news/democrats-dont-need-to-bash-gop-to-hold-onto-house-786411.html">Democrats don’t need to bash GOP to hold onto House</a>
+				 
+			</li>
+			
+				<li>
+					
+					
+				 <a href="http://www.daytondailynews.com/news/dayton-news/benefits-cutoff-mean-and-stupid-or-tough-love-785311.html">Benefits cutoff: ‘Mean and stupid’ or ‘tough love’</a>
+				 
+			</li>
+			
+				<li>
+					
+					
+				 <a href="http://www.daytondailynews.com/news/dayton-news/new-dayton-schools-chief-sees-a-hard-road-ahead-786287.html">New Dayton schools chief sees ‘a hard road’ ahead</a>
+				 
+			</li>
+			
+				<li>
+					
+					
+				 <a href="http://www.daytondailynews.com/opinion/why-treat-violent-partner-as-victim--783961.html">Why treat violent partner as victim?</a>
+				 
+			</li>
+			
+      </ul>
+		 	
+    </div>
+  
 
 
 
@@ -1880,49 +1903,30 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 
 
 
+  
 
+
+
+     
+ 
+	
 
     <div class="cxMostPopularChild">
     
-     <ul class="links12px">
+		 	<ul class="links12px">
 		 	
-				<li>
-					
-					
-				 <a href="http://www.daytondailynews.com/business/local-contractors-under-scrutiny-for-using-paid-military-mentors-469417.html">Local contractors under scrutiny for using paid military 'mentors'</a>
-				 
-			</li>
-			
-				<li>
-					
-					
-				 <a href="http://www.daytondailynews.com/news/politics/measure-to-reduce-lawmakers-pay-yanked-from-state-budget-469644.html">Measure to reduce lawmakers' pay yanked from state budget</a>
-				 
-			</li>
-			
-				<li>
-					
-					
-				 <a href="http://www.daytondailynews.com/business/-the-last-truck-named-one-of-tvs-top-10-of-2009-470232.html">'The Last Truck' named one of TV’s top 10 of 2009</a>
-				 
-			</li>
-			
-				<li>
-					
-					
-				 <a href="http://www.daytondailynews.com/news/dayton-news/robot-lets-local-nurses-talk-remotely-to-patients-469636.html">Robot lets local nurses talk remotely to patients</a>
-				 
-			</li>
-			
-				<li>
-					
-					
-				 <a href="http://www.daytondailynews.com/news/dayton-news/6-lawsuits-trying-to-stop-sale-of-kings-island-parent-company-470156.html">6 lawsuits trying to stop sale of Kings Island parent company</a>
-				 
-			</li>
-			
+          <li><a href="http://www.daytondailynews.com/yahoo-search/?siteSearch=site&amp;searchType=site&amp;numResults=10&amp;firstResult=0&amp;searchString=Obituary">Obituary</a></li>
+      
+          <li><a href="http://www.daytondailynews.com/yahoo-search/?siteSearch=site&amp;searchType=site&amp;numResults=10&amp;firstResult=0&amp;searchString=Deaths And Obituary">Deaths And Obituary</a></li>
+      
+          <li><a href="http://www.daytondailynews.com/yahoo-search/?siteSearch=site&amp;searchType=site&amp;numResults=10&amp;firstResult=0&amp;searchString=Obit">Obit</a></li>
+      
+          <li><a href="http://www.daytondailynews.com/yahoo-search/?siteSearch=site&amp;searchType=site&amp;numResults=10&amp;firstResult=0&amp;searchString=Touchdown Jesu">Touchdown Jesu</a></li>
+      
+          <li><a href="http://www.daytondailynews.com/yahoo-search/?siteSearch=site&amp;searchType=site&amp;numResults=10&amp;firstResult=0&amp;searchString=Death">Death</a></li>
+      
       </ul>
-		 	
+		
     </div>
   
 
@@ -2430,6 +2434,74 @@ Start your day with top headlines in your inbox and get breaking news e-mail
         
       
     
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
   
 
   
@@ -2497,7 +2569,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
   <div class="clear"></div>
   <div class="multimediaTeaserList fourImageTease">
     <span class="header11px orange">News photos &amp; videos<br></span>
-    <ul id="EtCTmIOl" class="jcarousel-list4 jcarousel-list-horizontal">
+    <ul id="sXouBIcK" class="jcarousel-list4 jcarousel-list-horizontal">
       
       
           
@@ -2555,543 +2627,15 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 							
               <div class="cxListTeaseImgContainer">
                 
-                   	<a href="http://projects.daytondailynews.com/galleries/122909fluclinic/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00622/122909fluclinic_622093ff.jpg" alt="">
+                   	<a href="http://projects.daytondailynews.com/galleries/062710mulchfire/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00718/062710mulchfire_718981ff.jpg" alt="">
      								</a>
                   
               </div>
 							
 							
 								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.daytondailynews.com/galleries/122909fluclinic/">H1N1 clinic held in Centerville</a>
-								</span>
-							
-	          </li>
-	        
-	      
-      
-        
-	        
-	          
-	          
-	          <li>
-	            
-              
-                
-					          
-					            
-					          
-
-
-
-
-
-
-
-
-
-
-    
-  
-					      		
-                  
-              
-	            
-	            
-	              
-	            
-              
-				          
-				            
-				          
-
-
-
-
-
-
-
-
-
-
-    
-  
-				      		
-                
-							
-              <div class="cxListTeaseImgContainer">
-                
-                   	<a href="http://projects.daytondailynews.com/galleries/mostwantedmontgomery/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00590/mostwantedmontgomer_590475ff.jpg" alt="">
-     								</a>
-                  
-              </div>
-							
-							
-								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.daytondailynews.com/galleries/mostwantedmontgomery/">Montgomery County's Most Wanted</a>
-								</span>
-							
-	          </li>
-	        
-	      
-      
-        
-	        
-	          
-	          
-	          <li>
-	            
-              
-                
-					          
-					            
-					          
-
-
-
-
-
-
-
-
-
-
-    
-  
-					      		
-                  
-              
-	            
-	            
-	              
-	            
-              
-				          
-				            
-				          
-
-
-
-
-
-
-
-
-
-
-    
-  
-				      		
-                
-							
-              <div class="cxListTeaseImgContainer">
-                
-                   	<a href="http://projects.daytondailynews.com/galleries/122809bankcrash/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00620/122809bankcrash_620795ff.jpg" alt="">
-     								</a>
-                  
-              </div>
-							
-							
-								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.daytondailynews.com/galleries/122809bankcrash/">Truck crashes into bank</a>
-								</span>
-							
-	          </li>
-	        
-	      
-      
-        
-	        
-	          
-	          
-	          <li>
-	            
-              
-                
-					          
-					            
-					          
-
-
-
-
-
-
-
-
-
-
-    
-  
-					      		
-                  
-              
-	            
-	            
-	              
-	            
-              
-				          
-				            
-				          
-
-
-
-
-
-
-
-
-
-
-    
-  
-				      		
-                
-							
-              <div class="cxListTeaseImgContainer">
-                
-                   	<a href="http://projects.daytondailynews.com/galleries/2009-10winterweather/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00614/2009-10winterweathe_614887ff.jpg" alt="">
-     								</a>
-                  
-              </div>
-							
-							
-								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.daytondailynews.com/galleries/2009-10winterweather/">Winter weather photos</a>
-								</span>
-							
-	          </li>
-	        
-	      
-      
-        
-	        
-	          
-	          
-	          <li>
-	            
-              
-                
-					          
-					            
-					          
-
-
-
-
-
-
-
-
-
-
-    
-  
-					      		
-                  
-              
-	            
-	            
-	              
-	            
-              
-				          
-				            
-				          
-
-
-
-
-
-
-
-
-
-
-    
-  
-				      		
-                
-							
-              <div class="cxListTeaseImgContainer">
-                
-                   	<a href="http://projects.daytondailynews.com/galleries/122609aptfire/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00619/122609aptfire_619626ff.jpg" alt="">
-     								</a>
-                  
-              </div>
-							
-							
-								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.daytondailynews.com/galleries/122609aptfire/">Apartment fire in Kettering</a>
-								</span>
-							
-	          </li>
-	        
-	      
-      
-        
-	        
-	          
-	          
-	          <li>
-	            
-              
-                
-					          
-					            
-					          
-
-
-
-
-
-
-
-
-
-
-    
-  
-					      		
-                  
-              
-	            
-	            
-	              
-	            
-              
-				          
-				            
-				          
-
-
-
-
-
-
-
-
-
-
-    
-  
-				      		
-                
-							
-              <div class="cxListTeaseImgContainer">
-                
-                   	<a href="http://projects.daytondailynews.com/galleries/2009ddnphotosunderwood/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00619/2009ddnphotosunderw_619421ff.jpg" alt="">
-     								</a>
-                  
-              </div>
-							
-							
-								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.daytondailynews.com/galleries/2009ddnphotosunderwood/">Jan Underwood: Best of 2009</a>
-								</span>
-							
-	          </li>
-	        
-	      
-      
-        
-	        
-	          
-	          
-	          <li>
-	            
-              
-                
-					          
-					            
-					          
-
-
-
-
-
-
-
-
-
-
-    
-  
-					      		
-                  
-              
-	            
-	            
-	              
-	            
-              
-				          
-				            
-				          
-
-
-
-
-
-
-
-
-
-
-    
-  
-				      		
-                
-							
-              <div class="cxListTeaseImgContainer">
-                
-                   	<a href="http://projects.daytondailynews.com/galleries/122509airlinerattack/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00618/122509airlinerattac_618930ff.jpg" alt="">
-     								</a>
-                  
-              </div>
-							
-							
-								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.daytondailynews.com/galleries/122509airlinerattack/">Failed attack on airliner</a>
-								</span>
-							
-	          </li>
-	        
-	      
-      
-        
-	        
-	          
-	          
-	          <li>
-	            
-              
-                
-					          
-					            
-					          
-
-
-
-
-
-
-
-
-
-
-    
-  
-					      		
-                  
-              
-	            
-	            
-	              
-	            
-              
-				          
-				            
-				          
-
-
-
-
-
-
-
-
-
-
-    
-  
-				      		
-                
-							
-              <div class="cxListTeaseImgContainer">
-                
-                   	<a href="http://projects.daytondailynews.com/galleries/122509fatalcrash/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00618/122509fatalcrash_618901ff.jpg" alt="">
-     								</a>
-                  
-              </div>
-							
-							
-								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.daytondailynews.com/galleries/122509fatalcrash/">Fatal crash closes I-675</a>
-								</span>
-							
-	          </li>
-	        
-	      
-      
-        
-	        
-	          
-	          
-	          <li>
-	            
-              
-                
-					          
-					            
-					          
-
-
-
-
-
-
-
-
-
-
-    
-  
-					      		
-                  
-              
-	            
-	            
-	              
-	            
-              
-				          
-				            
-				          
-
-
-
-
-
-
-
-
-
-
-    
-  
-				      		
-                
-							
-              <div class="cxListTeaseImgContainer">
-                
-                   	<a href="http://projects.daytondailynews.com/galleries/122509englewoodcrash/">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/archive/00618/122509englewoodcra_618802ff.jpg" alt="">
-     								</a>
-                  
-              </div>
-							
-							
-								<span class="cxListTeaseImgLabel">
-								  <a href="http://projects.daytondailynews.com/galleries/122509englewoodcrash/">Single car crash in Englewood</a>
+								  <a href="http://projects.daytondailynews.com/galleries/062710mulchfire/">Buckeye Resources fire</a>
 								</span>
 							
 	          </li>
@@ -3119,15 +2663,513 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 							
               <div class="cxListTeaseImgContainer">
                 
-                   	<a href="http://www.daytondailynews.com/news/group-works-to-restore-barn-at-carillon-historical-park-464770.html">
-									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00618/Group_works_to_rest_618788ff.jpg" alt="">
+                   	<a href="http://www.daytondailynews.com/news/mulch-supplier-catches-fire-786227.html">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00718/mulchfire_718897ff.jpg" alt="">
      								</a>
                   
               </div>
 							
 							
 								<span class="cxListTeaseImgLabel">
-								  <a href="http://www.daytondailynews.com/news/group-works-to-restore-barn-at-carillon-historical-park-464770.html">Group works to restore barn at Carillon Park</a>
+								  <a href="http://www.daytondailynews.com/news/mulch-supplier-catches-fire-786227.html">Mulch supplier catches fire</a>
+								</span>
+							
+	          </li>
+	        
+	      
+      
+        
+	        
+	          
+	          
+	          <li>
+	            
+              
+                
+					          
+					            
+					          
+
+
+
+
+
+
+
+
+
+
+    
+  
+					      		
+                  
+              
+	            
+	            
+	              
+	            
+              
+				          
+				            
+				          
+
+
+
+
+
+
+
+
+
+
+    
+  
+				      		
+                
+							
+              <div class="cxListTeaseImgContainer">
+                
+                   	<a href="http://projects.daytondailynews.com/galleries/062710dewine/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00719/062710dewine_719017ff.jpg" alt="">
+     								</a>
+                  
+              </div>
+							
+							
+								<span class="cxListTeaseImgLabel">
+								  <a href="http://projects.daytondailynews.com/galleries/062710dewine/">Dewine ice cream social</a>
+								</span>
+							
+	          </li>
+	        
+	      
+      
+        
+	        
+	          
+	          
+	          <li>
+	            
+              
+                
+					          
+					            
+					          
+
+
+
+
+
+
+
+
+
+
+    
+  
+					      		
+                  
+              
+	            
+	            
+	              
+	            
+              
+				          
+				            
+				          
+
+
+
+
+
+
+
+
+
+
+    
+  
+				      		
+                
+							
+              <div class="cxListTeaseImgContainer">
+                
+                   	<a href="http://projects.daytondailynews.com/galleries/062610gunshowprotest/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00718/062610gunshowprotes_718325ff.jpg" alt="">
+     								</a>
+                  
+              </div>
+							
+							
+								<span class="cxListTeaseImgLabel">
+								  <a href="http://projects.daytondailynews.com/galleries/062610gunshowprotest/">Protest at Goodman gun show</a>
+								</span>
+							
+	          </li>
+	        
+	      
+      
+        
+	        
+	          
+	          
+	          <li>
+	            
+              
+                
+					          
+					            
+					          
+
+
+
+
+
+
+
+
+
+
+    
+  
+					      		
+                  
+              
+	            
+	            
+	              
+	            
+              
+				          
+				            
+				          
+
+
+
+
+
+
+
+
+
+
+    
+  
+				      		
+                
+							
+              <div class="cxListTeaseImgContainer">
+                
+                   	<a href="http://projects.daytondailynews.com/galleries/062510prostitutionsting/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00717/062510prostitutions_717723ff.jpg" alt="">
+     								</a>
+                  
+              </div>
+							
+							
+								<span class="cxListTeaseImgLabel">
+								  <a href="http://projects.daytondailynews.com/galleries/062510prostitutionsting/">Prostitution sting nets 5 arrests</a>
+								</span>
+							
+	          </li>
+	        
+	      
+      
+        
+	        
+	          
+	          
+	          <li>
+	            
+              
+                
+					          
+					            
+					          
+
+
+
+
+
+
+
+
+
+
+    
+  
+					      		
+                  
+              
+	            
+	            
+	              
+	            
+              
+				          
+				            
+				          
+
+
+
+
+
+
+
+
+
+
+    
+  
+				      		
+                
+							
+              <div class="cxListTeaseImgContainer">
+                
+                   	<a href="http://projects.daytondailynews.com/galleries/062510homicideweb/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00717/062510homicideweb_717278ff.jpg" alt="">
+     								</a>
+                  
+              </div>
+							
+							
+								<span class="cxListTeaseImgLabel">
+								  <a href="http://projects.daytondailynews.com/galleries/062510homicideweb/">Suspect arrested in shooting </a>
+								</span>
+							
+	          </li>
+	        
+	      
+      
+        
+	        
+	          
+	          
+	          <li>
+	            
+              
+                
+                                      
+                  
+              
+	            
+	            
+	              
+	            
+              
+                  
+                
+							
+              <div class="cxListTeaseImgContainer">
+                
+                   	<a href="http://www.daytondailynews.com/news/dayton-news/celebrating-achievements-in-adult-literacy-782482.html">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00717/MVLC_717046ff.jpg" alt="">
+     								</a>
+                  
+              </div>
+							
+							
+								<span class="cxListTeaseImgLabel">
+								  <a href="http://www.daytondailynews.com/news/dayton-news/celebrating-achievements-in-adult-literacy-782482.html">Celebrating achievements in adult literacy</a>
+								</span>
+							
+	          </li>
+	        
+	      
+      
+        
+	        
+	          
+	          
+	          <li>
+	            
+              
+                
+					          
+					            
+					          
+
+
+
+
+
+
+
+
+
+
+    
+  
+					      		
+                  
+              
+	            
+	            
+	              
+	            
+              
+				          
+				            
+				          
+
+
+
+
+
+
+
+
+
+
+    
+  
+				      		
+                
+							
+              <div class="cxListTeaseImgContainer">
+                
+                   	<a href="http://projects.daytondailynews.com/galleries/062410doublefatality/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00716/062410doublefatalit_716947ff.jpg" alt="">
+     								</a>
+                  
+              </div>
+							
+							
+								<span class="cxListTeaseImgLabel">
+								  <a href="http://projects.daytondailynews.com/galleries/062410doublefatality/">2 die after car hits tree</a>
+								</span>
+							
+	          </li>
+	        
+	      
+      
+        
+	        
+	          
+	          
+	          <li>
+	            
+              
+                
+					          
+					            
+					          
+
+
+
+
+
+
+
+
+
+
+    
+  
+					      		
+                  
+              
+	            
+	            
+	              
+	            
+              
+				          
+				            
+				          
+
+
+
+
+
+
+
+
+
+
+    
+  
+				      		
+                
+							
+              <div class="cxListTeaseImgContainer">
+                
+                   	<a href="http://projects.daytondailynews.com/galleries/062410mvlc/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00717/062410mvlc_717045ff.jpg" alt="">
+     								</a>
+                  
+              </div>
+							
+							
+								<span class="cxListTeaseImgLabel">
+								  <a href="http://projects.daytondailynews.com/galleries/062410mvlc/">Literacy council honors</a>
+								</span>
+							
+	          </li>
+	        
+	      
+      
+        
+	        
+	          
+	          
+	          <li>
+	            
+              
+                
+					          
+					            
+					          
+
+
+
+
+
+
+
+
+
+
+    
+  
+					      		
+                  
+              
+	            
+	            
+	              
+	            
+              
+				          
+				            
+				          
+
+
+
+
+
+
+
+
+
+
+    
+  
+				      		
+                
+							
+              <div class="cxListTeaseImgContainer">
+                
+                   	<a href="http://projects.daytondailynews.com/galleries/070110torchrun/">
+									  	<img src="http://www.ohio-share.coxnewsweb.com/multimedia/dynamic/00716/070110torchrun_716961ff.jpg" alt="">
+     								</a>
+                  
+              </div>
+							
+							
+								<span class="cxListTeaseImgLabel">
+								  <a href="http://projects.daytondailynews.com/galleries/070110torchrun/">Law Enforcement Torch Run</a>
 								</span>
 							
 	          </li>
@@ -3179,7 +3221,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 	/* <![CDATA[ */
 	  if(isIE6){ jQuery(".multimediaTeaser .jcarousel-list4 li .cxListTeaseImgContainer a img").expandThumbImgIE6(4); }
 		jQuery(document).ready(function() {
-	   	jQuery('#EtCTmIOl').jcarousel({
+	   	jQuery('#sXouBIcK').jcarousel({
 		   	visible:4,
 		   	scroll:4
 	    });  
@@ -3474,23 +3516,23 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 	 
 		  
 			  <li>
-			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Fdaytoncrime%2Fentries%2F2009%2F12%2F30%2Fharrison_twp_woman_reporting_m.html%3Fcxtype%3Dfeedbot">Harrison Twp. woman reporting missing</a></span>
+			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Foncampus%2Fentries%2F2010%2F06%2F25%2Fkaplan_cuts_workforce.html%3Fcxtype%3Dfeedbot">Kaplan cuts workforce</a></span>
 			  </li>
 			
 			  <li>
-			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Foncampus%2Fentries%2F2009%2F12%2F30%2Fexhibit_explores_history_of_ud.html%3Fcxtype%3Dfeedbot">Exhibit explores history of UD student neighborhood</a></span>
+			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Ftaste%2Fentries%2F2010%2F06%2F25%2Fnew_restaurant_opens_in_vandal.html%3Fcxtype%3Dfeedbot">New Vandalia restaurant serves dishes from all over the world</a></span>
 			  </li>
 			
 			  <li>
-			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Fdaytoncourts%2Fentries%2F2009%2F12%2F30%2Fdayton_three_suspects_in.html%3Fcxtype%3Dfeedbot">Three plead guilty to federal gun charges in connection with convenience store homicide</a></span>
+			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Fohiopolitics%2Fentries%2F2010%2F06%2F24%2Fvp_biden_to_campaign_raise_buc.html%3Fcxtype%3Dfeedbot">VP Biden to campaign, raise bucks for Fisher</a></span>
 			  </li>
 			
 			  <li>
-			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Fnorthvalleynotebook%2Fentries%2F2009%2F12%2F30%2Fthe_state_lottery_was_never.html%3Fcxtype%3Dfeedbot">You pays your money, you takes your chances</a></span>
+			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Fdaytoncrime%2Fentries%2F2010%2F06%2F24%2Fa_43yearold_woman_is_in.html%3Fcxtype%3Dfeedbot">Kroger employee hit with a bag of stolen steaks</a></span>
 			  </li>
 			
 			  <li>
-			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Fdalehuffman1%2Fentries%2F2009%2F12%2F30%2Fthe_little_childs_gift.html%3Fcxtype%3Dfeedbot">The little child's gift to church is returned</a></span>
+			    <span class="listItem bold"><a href="http://new.feedbotapp.com/dynamic.php?url=http%3A%2F%2Fwww.daytondailynews.com%2Fblogs%2Fcontent%2Fshared-gen%2Fblogs%2Fdayton%2Fohiopolitics%2Fentries%2F2010%2F06%2F24%2Fdem_chairman_redfern_files_com.html%3Fcxtype%3Dfeedbot">Dem Chairman Redfern files complaints against GOP Supreme Court candidates</a></span>
 			  </li>
 			
 	       
@@ -4101,7 +4143,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 	  
 	    
 	   
-    Copyright © Wed Dec 30 19:07:19 EST 2009  
+    Copyright © Mon Jun 28 10:19:11 EDT 2010  
     
       Cox Ohio Publishing, Dayton, Ohio, USA. All rights reserved. 
     
@@ -4124,7 +4166,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
 	</div>
 </div>
 
-<!-- Server name: [app4]  -->
+<!-- Server name: [app17.ddtc.cmgdigital.com]  -->
 
 
 
@@ -4274,7 +4316,7 @@ Start your day with top headlines in your inbox and get breaking news e-mail
           
         
       
-	  
+		
 			
 
 
@@ -4288,7 +4330,7 @@ try {
 var pageTracker = _gat._getTracker("UA-12007193-2");
 pageTracker._setDomainName(".daytondailynews.com");
 pageTracker._trackPageview();
-} catch(err) {}</script>	  
+} catch(err) {}</script>
 	  
       
     
