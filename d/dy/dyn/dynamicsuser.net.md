@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamicsuser.net privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228004021id_/http%3A//dynamicsuser.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicsuser.net privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628142927id_/http%3A//dynamicsuser.net/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dynamics User Group
 
@@ -86,7 +86,7 @@ If there are any questions regarding this privacy policy you may contact us
 
 ### Site Information
 
-Dynamics Experts / Dynamics User Group  
+Dynamics User Group ApS  
 Sophienlund 104  
 Hilleroed 3400  
 Denmark  
