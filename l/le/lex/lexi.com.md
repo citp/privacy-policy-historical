@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831235721id_/http%3A//www.lexi.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628042724id_/http%3A//www.lexi.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Respecting Your Concerns for Privacy - Lexi-Comp
 
@@ -56,4 +56,10 @@ If you have questions about this Privacy Statement, the practices of this site, 
 >  Hudson, Ohio 44236   
 >  [postmaster@lexi.com](mailto:postmaster@lexi.com)
 
-| 
+|   
+  
+© Lexi-Comp, Inc. All Rights Reserved.  
+1100 Terex Road | Hudson, Ohio 44236  
+330.650.6506 (Corporate)  
+800.837.5394 (Toll Free)   
++1.330.650.6506 (International) 
