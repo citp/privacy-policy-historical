@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616141422id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628081130id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ShareGyan.com
 
-Get exclusive research reports based on technical analysis for free.  
-[View Research Reports!](http://www.sharegyan.com/research-reports/)
-
 **Yahoo! ID - sharegyan**  
 (For Paid Subscribers)
+
+[](http://twitter.com/sharegyan)            [](http://www.facebook.com/pages/ShareGyan/116491468395478)
 
 ## Guests
 
@@ -49,14 +48,11 @@ Email (Required)
   
 Mobile Number (Required)
 
-Attention (Choose the right department)  
-
-
 Mail Message  
   
 
 
   
 Please note that all fields marked as _Required_ must be filled.  
-Also this form is not for trial requests visit trial request page if you want to [register for free trial](http://www.sharegyan.com/indian-stock-market/free-trial/).   
+Also this form is not for trial requests visit trial request page if you want to [register for free trial](http://www.sharegyan.com/free-trial/).   
 ---
