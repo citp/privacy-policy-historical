@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215234654id_/http%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628183843id_/http%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of TravelMath.com
 
-This document outlines the type of personal information we collect when you use this site, as well as some of the steps we take to safeguard this information. Our goal is to provide a practical tool for travel-related calculations. We also recognize the importance of protecting your privacy online. This policy applies only to the pages on the TravelMath.comdomain. Other sites which are linked from this site may be governed by different policies.
+This document outlines the type of personal information we collect when you use this site, as well as some of the steps we take to safeguard this information. Our goal is to provide a practical tool for travel-related calculations. We also recognize the importance of protecting your privacy online. This policy applies only to the pages on the TravelMath.com domain. Other sites which are linked from this site may be governed by different policies.
 
   
 
@@ -33,6 +33,13 @@ The use of this site is completely free. We also display links to other sites or
 ## Google ads
 
 Ads displayed by Google may include their system of "interest based targeting" using DoubleClick DART cookies. These ads may take into account your previous browsing history, but they will not track any personally identifiable information. You can read more about their policies at the [Google Privacy Center](http://www.google.com/privacy_ads.html).
+
+  
+
+
+## Website Disclaimer
+
+You can view detailed information on the [website disclaimer](http://www.travelmath.com/disclaimer/) for TravelMath.com. Use of this site is subject to the terms of the disclaimer.
 
   
 
