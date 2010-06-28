@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226085212id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628153559id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.*
 
-# SpiceJet's Fleet - Flying on Boeings was never this cheap.
+# SpiceJet Privacy Policy | SpiceJet Corporate Information | SpiceJet Airlines
 
 We, at SpiceJet, value the relationship we have with our customers and web site visitors, and are committed to responsible information handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web site. 
 
