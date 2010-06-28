@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vivmag.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227190941id_/http%3A//vivmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivmag.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628035258id_/http%3A//vivmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VIVmag
 
 _Last Updated May 30, 2006_
 
-VIV Publishing, LLC (”VIV”) owns and operates the _VIVmag_ website. _VIVmag_ is committed to protecting its users’ privacy. This Privacy Policy applies to personally identifiable information we collect on the _VIVmag_ website located at www.vivold.eroi.com (the “Site”). Your use of the Site is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/vivmagcom-user-agreement/?phpMyAdmin=B3wd7OgCytqf5G95gZAvkzEUZ3a). Please read this Privacy Policy carefully to understand how we treat information collected on this Site. This Privacy Policy may change from time to time, so please check back periodically.
+VIV Publishing, LLC (“VIV”) owns and operates the _VIVmag_ website. _VIVmag_ is committed to protecting its users’ privacy. This Privacy Policy applies to personally identifiable information we collect on the _VIVmag_ website located at www.vivold.eroi.com (the “Site”). Your use of the Site is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/vivmagcom-user-agreement/?phpMyAdmin=B3wd7OgCytqf5G95gZAvkzEUZ3a). Please read this Privacy Policy carefully to understand how we treat information collected on this Site. This Privacy Policy may change from time to time, so please check back periodically.
 
 **Information We Collect**
 
