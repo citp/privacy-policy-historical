@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastbay.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225004741id_/http%3A//www.eastbay.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastbay.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628141802id_/http%3A//www.eastbay.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Eastbay
 
