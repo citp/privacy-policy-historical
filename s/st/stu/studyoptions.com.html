@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the studyoptions.com privacy policy that was archived on 2009-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091121213853id_/http%3A//www.studyoptions.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studyoptions.com privacy policy that was archived on 2010-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628145158id_/http%3A//www.studyoptions.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,27 +11,82 @@
 	<!-- Date: 2008-03-03 -->
 	<!--<link rel="stylesheet" href="css/screen.css" type="text/css" media="screen" title="StudyOptions" charset="utf-8">-->
 	<link rel="stylesheet" type="text/css" href="/css/screen.css">	<!--<script type="text/javascript" src="js/validation.js"></script>-->
+    <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>	
+	<script type="text/javascript">  
+        $(document).ready(function(){  
+   
+
+        $(".rss-popup a").hover(function() {
+        $(this).next("em").stop(true, true).animate({opacity: "show", top: "-40"}, "slow");
+        }, function() {
+        $(this).next("em").animate({opacity: "hide", top: "-70"}, "fast");
+        });
+   
+        });  
+	</script>  
+    
+    
+    <script type="text/javascript" src="/js/lib/jquery.jcarousel.pack.js"></script>
+    <link rel="stylesheet" type="text/css" href="/js/lib/jquery.jcarousel.css">
+    <link rel="stylesheet" type="text/css" href="/skins/tango/skin.css">
+
+    <script type="text/javascript">
+    
+    function init_carousel(carousel) {
+    
+
+      jQuery('#mycarousel-next').bind('click', function() {
+        carousel.next();
+        return false;
+      });
+
+      jQuery('#mycarousel-prev').bind('click', function() {
+        carousel.prev();
+        return false;
+      });
+   
+   
+   };
 
 
+    jQuery(document).ready(function() {
+    jQuery('#mycarousel').jcarousel({
+        vertical: true,
+        size:6,
+         initCallback: init_carousel,
+         buttonNextHTML: null,
+         buttonPrevHTML: null,
+         scroll: 2
+    });
+    });
+
+    </script>
+
+    
+    
 </head>
 <body>
 <div id="header">
 	<div class="headerLogo">
-		<p class="floaterL"><a href="/"><img src="/img/logo.png" alt=""></a></p>
-		<p class="homeIndicator"><small>home</small></p>	</div>
+		<p class="floaterL"><a href="/"><img src="/img/logo.jpg" alt=""></a></p>
+		
+	</div>
 	<div class="headerContact">
-		<p><strong>Call 020 7353 7200</strong><br>159 - 161 Temple Chambers, 3 - 7 Temple Avenue,<br>London EC4Y 0DA.</p>
-		<p class="normalBTN mtop10"><a href="/Contact/">Contact Us</a></p>
+        <p class="normalBTN">
+        <a href="/Contact/" class="contact">Contact Us</a></p>
+        <a href="/colleges" class="visit">Go to colleges site</a>
+		<p style="margin-top:35px;" class="mtop10"><strong>Call 020 7353 7200</strong><br>159 - 161 Temple Chambers, 3 - 7 Temple Avenue,<br>London EC4Y 0DA.</p>
+		
 	</div>
 	<div class="cleaner"></div>
 </div>
 <div id="mainNav">
 	<ul>
+        <li></li><li id="active"><a href="/home/">Home</a></li>
+		<li>•</li>
 		<li><a href="/about_us/">About Us</a></li>
 		<li>•</li>
 		<li><a href="/universities/">Our Universities</a></li>
-		<li>•</li>
-		<li><a href="/colleges/">Colleges</a></li>
 		<li>•</li>
 		<li><a href="/aus_nzs/">Australia &amp; New Zealand</a></li>
 		<li>•</li>
@@ -41,7 +96,7 @@
 		<li>•</li>
 		<li><a href="/money_matters/">Money Matters</a></li>
 		<li>•</li>
-		<li><a href="/student_life/">Student Life</a></li>
+		<li><a href="/student-tv/">Student TV</a></li>
 		<li>•</li>
 		<li><a href="/applies/">How to Apply</a></li>
 		<li>•</li>
@@ -129,12 +184,12 @@
 	</div>
 	<div class="footerContact">
 		<p class="normalBTN"><a href="/subscribers">Subscribe to Newsletter</a></p>
-	</div>
+        <a href="http://www.facebook.com/pages/London-United-Kingdom/Study-Options/10560211318?ref=ts" target="_blank" class="facebook"><img src="/img/icon-facebook.png" alt=""></a>	</div>
 	<div class="cleaner"></div>
 
 </div>
 <div class="final">
-<span class="copy">© 2009 - Study Options</span>  <span class="design"> Design by <a href="http://www.nakedideas.com" target="_blank">naked ideas</a></span></div>
+<span class="copy">© 2010 - Study Options</span>  <span class="design"> Design by <a href="http://www.nakedideas.com" target="_blank">naked ideas</a></span></div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -146,4 +201,4 @@ pageTracker._trackPageview();
 </script>
 
 
-</body></html>
+<!-- 0.4416s --></body></html>
