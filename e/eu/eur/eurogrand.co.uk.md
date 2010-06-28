@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the eurogrand.co.uk privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222074417id_/http%3A//www.eurogrand.co.uk/security-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurogrand.co.uk privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628174427id_/http%3A//www.eurogrand.co.uk/security-privacy.php) for the most accurate reproduction.*
 
 # Security and Privacy with EuroGrand Casino
 
 |  |   
 |  | 
 
-[](https://web.archive.org/web/20091222074417id_/http%3A//www.eurogrand.co.uk/download-casino.php)
+[](https://web.archive.org/web/20100628174427id_/http%3A//www.eurogrand.co.uk/download-casino.php)
 
 [](https://web.archive.org/direct_play.php?creferer=DLB:security-privacy.php;a_b_test:FlashR&_realonly=1)
 
