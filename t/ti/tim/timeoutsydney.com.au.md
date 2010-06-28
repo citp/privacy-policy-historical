@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227231142id_/http%3A//www.timeoutsydney.com.au/Global/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628151848id_/http%3A//www.timeoutsydney.com.au/Global/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Time Out Sydney
 
