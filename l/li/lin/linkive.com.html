@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the linkive.com privacy policy that was archived on 2009-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621000352id_/http%3A//www.linkive.com/home/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linkive.com privacy policy that was archived on 2010-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628235243id_/http%3A//www.linkive.com/home/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta name="Description" content="Most popular and relevant links in . ">
@@ -35,13 +35,12 @@
     <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body class="home-page">
-	
-<link rel="stylesheet" type="text/css" href="http://www.linkive.com/application/widgets/window/css/popup.css">
-<script type="text/javascript" src="http://www.linkive.com/application/widgets/window/js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="http://www.linkive.com/application/widgets/window/js/jquery-ui-1.7.1.custom.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.linkive.com/application/widgets/window/css/popup.css">
+<script type="text/javascript" src="http://www.linkive.com/application/views/templates/linkview/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://www.linkive.com/application/views/templates/linkview/js/jquery-1.5.3-ui.min.js"></script>
 <script type="text/javascript" src="http://www.linkive.com/application/widgets/window/js/popup.js"></script>
 <script type="text/javascript">
-	var site_url = "http://www.linkive.com/";
+  var site_url = "http://www.linkive.com/";
 	var window_url = "http://www.linkive.com/application/widgets/window/";
 </script>
 
@@ -51,7 +50,7 @@
 			<div class="close"><a href="javascript:showHide('dialog');"><img src="http://www.linkive.com/application/widgets/window/images/popup_close.png" alt="close" border="0"></a></div>
 			<div class="top"></div>
 			<div id="dialog-content" class="activity_myfridge">
-				<center><img src="http://www.linkive.com/application/widgets/window/images/ajax-loader.gif" align="middle" alt="loading..."></center>
+				<center>loading...<br><img src="http://www.linkive.com/application/widgets/window/images/ajax-loader.gif" align="middle" alt="loading..."></center>
 			</div>
 			<div class="btm"></div>
 		</div>
@@ -61,6 +60,26 @@
 <!-- Mask div for model window -->
 	<div id="mask" style="display:none;">
   	</div>
+        <script>
+	function restful(){
+		var result = validateme();
+		if(result == true)
+		{
+			var url="http://indian-railways.rediff.com/trains/"+document.getElementById("fld_search_options_name").value+"-TO-"+document.getElementById("fld_search_options2_name").value;
+			
+			if(document.getElementById("document_date2").value != "")
+				{
+				var docdate=document.getElementById("document_date2").value;
+				url = url +"/"+docdate;
+				}
+				if(document.getElementById("tclass").value != "")
+					{
+					url = url +"/"+document.getElementById("tclass").value;}document.track.action=url;document.track.submit();
+					}
+			}
+
+	</script>
+
 	<div id="container">
     	<div id="header">
         	<div id="top-header">
@@ -91,64 +110,65 @@
                     </div>
 					                </div>
             </div>
-            <div id="bottom-header">
-                 <ul id="maintab" class="basictab"><li rel="sports"><a href="http://www.linkive.com/linkive/Sports">Sports</a></li><li rel="cinema"><a href="http://www.linkive.com/linkive/Movies">Cinema</a></li><li rel="politics"><a href="http://www.linkive.com/linkive/Politics">Politics</a></li><li rel="technology"><a href="http://www.linkive.com/linkive/technology">Technology</a></li><li rel="business"><a href="http://www.linkive.com/linkive/Business">Business</a></li><li rel="health"><a href="http://www.linkive.com/linkive/Health">Health</a></li><li rel="Fun Stuff"><a href="http://www.linkive.com/linkive/Fun Stuff">Fun Stuff</a></li></ul>
+                        <div id="bottom-header">
+				<div id="home_icon"><a href="http://www.linkive.com/"><img border="0" src="http://www.linkive.com/application/views/templates/linkview/images/home.png" alt="home"></a></div>
+					<ul id="maintab" class="basictab"><li rel="sports"><a href="http://www.linkive.com/linkive/Sports">Sports</a></li><li rel="cinema"><a href="http://www.linkive.com/linkive/Movies">Cinema</a></li><li rel="politics"><a href="http://www.linkive.com/linkive/Politics">Politics</a></li><li rel="technology"><a href="http://www.linkive.com/linkive/Technology">Technology</a></li><li rel="business"><a href="http://www.linkive.com/linkive/Business">Business</a></li><li rel="health"><a href="http://www.linkive.com/linkive/Health">Health</a></li><li rel="Fun Stuff"><a href="http://www.linkive.com/linkive/Fun Stuff">Fun Stuff</a></li></ul>
     
                  <div id="sports" class="submenustyle no-display">
-		    <a href="http://www.linkive.com/linkive/cricket">Cricket</a>
-                    <a href="http://www.linkive.com/linkive/tennis">Tennis</a>
-                    <a href="http://www.linkive.com/linkive/soccer">Soccer</a>
-                    <a href="http://www.linkive.com/linkive/baseball" style="background:none; margin-bottom:-7px;">Baseball</a>
+					<a href="http://www.linkive.com/linkive/Cricket">Cricket</a>
+                    <a href="http://www.linkive.com/linkive/Tennis">Tennis</a>
+                    <a href="http://www.linkive.com/linkive/Soccer">Soccer</a>
+                    <a href="http://www.linkive.com/linkive/Baseball" style="background:none; margin-bottom:-7px;">Baseball</a>
                </div>
     
     
                 <div id="cinema" class="submenustyle no-display">
-                    <a href="http://www.linkive.com/linkive/hollywood">Hollywood</a>
-                    <a href="http://www.linkive.com/linkive/bollywood">Hindi-Movies</a>
-                    <a href="http://www.linkive.com/linkive/kollywood">Tamil-Movies</a>
-                    <a href="http://www.linkive.com/linkive/tollywood" style="background:none; margin-bottom:-7px;">Telugu-Movies</a>
+                    <a href="http://www.linkive.com/linkive/Hollywood">Hollywood</a>
+                    <a href="http://www.linkive.com/linkive/Bollywood">Hindi-Movies</a>
+                    <a href="http://www.linkive.com/linkive/Kollywood">Tamil-Movies</a>
+                    <a href="http://www.linkive.com/linkive/Tollywood" style="background:none; margin-bottom:-7px;">Telugu-Movies</a>
                 </div>
                 
 
                  <div id="politics" class="submenustyle no-display">
-                    <a href="http://www.linkive.com/linkive/politics-India">India </a>
-                    <a href="http://www.linkive.com/linkive/politics-world">World</a>
-                    <a href="http://www.linkive.com/linkive/politics-usa" style="background:none; margin-bottom:-7px; margin-right:35px;">USA</a>
-
-                </div>
+                    <a href="http://www.linkive.com/linkive/Politics-India">India </a>
+                    <a href="http://www.linkive.com/linkive/Politics-World">World</a>
+                    <a href="http://www.linkive.com/linkive/Politics-USA" style="background:none; margin-bottom:-7px; margin-right:35px;">USA</a>
+		</div>
                 
                 <div id="business" class="submenustyle no-display">
-			       <a href="http://www.linkive.com/linkive/Business-India">India  </a>
+	            <a href="http://www.linkive.com/linkive/Business-India">India  </a>
                     <a href="http://www.linkive.com/linkive/Business-USA">USA</a>
                     <a href="http://www.linkive.com/linkive/Business-World">World</a> 
-		    <a href="http://www.linkive.com/linkive/real estate" style="background:none; margin-bottom:-7px;">Real Estate</a>              
-
-                </div>
+					<a href="http://www.linkive.com/linkive/Real Estate" style="background:none; margin-bottom:-7px;">Real Estate</a>
+				</div>
 
                <div id="health" class="submenustyle no-display">
                     <a href="http://www.linkive.com/linkive/Medical">Medical</a>
                     <a href="http://www.linkive.com/linkive/Food &amp; Drinks">Food &amp; Drinks</a>
-                    <a href="http://www.linkive.com/linkive/fitness" style="background:none; margin-bottom:-7px;">Fitness</a>
+                    <a href="http://www.linkive.com/linkive/Fitness" style="background:none; margin-bottom:-7px;">Fitness</a>
                 </div>
+
 
                 <div id="technology" class="submenustyle no-display">                	
                     <a href="http://www.linkive.com/linkive/Mobile">Mobile </a>                     
                     <a href="http://www.linkive.com/linkive/Gadgets">Gadgets</a>
-		    <a href="http://www.linkive.com/linkive/Computers">Computer</a>
-		    <a href="http://www.linkive.com/linkive/research" style="background:none; margin-bottom:-7px; margin-right:40px;">Automobile</a>
-	      </div> 
+					<a href="http://www.linkive.com/linkive/Computers">Computer</a>
+					<a href="http://www.linkive.com/linkive/Automobile" style="background:none; margin-bottom:-7px; margin-right:40px;">Automobile</a>  
+				</div> 
 
                <div id="Fun Stuff" class="submenustyle no-display">                	
                     <a href="http://www.linkive.com/linkive/Fun Stuff">Weird News</a>
-		    <a href="http://www.linkive.com/linkive/Comedy" style="background:none; margin-bottom:-7px;">Comedy</a>
+					<a href="http://www.linkive.com/linkive/Comedy" style="background:none; margin-bottom:-7px;">Comedy</a>
                 </div>                
+
                 <script type="text/javascript">
                     //initialize tab menu, by passing in ID of UL
                     initalizetab("maintab");
                 </script>
                 
                 <div id="fact-tip" class="no-display">
-                	<img id="fact-close" src="http://www.linkive.com/application/views/templates/linkview/images/close.gif" alt="close">
+                	<img id="fact-close" src="http://www.linkive.com/application/views/templates/linkview/images/close.gif" alt="close" onclick="this.parentNode.className='no-display';">
                     <div id="fact-share" class="no-display">
                     <a href="#"><span class="green">▲</span> Share It</a>&nbsp;&nbsp;&nbsp;
                     <a href="#"><span>◄Previous</span></a> | <a href="#"><span>Next►</span></a>
