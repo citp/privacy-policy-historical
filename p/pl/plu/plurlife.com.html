@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plurlife.com privacy policy that was archived on 2009-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091025175325id_/http%3A//www.plurlife.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plurlife.com privacy policy that was archived on 2010-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629012352id_/http%3A//www.plurlife.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Plurlife : Electronic Music, DJs, Clubs, and Parties!</title>
@@ -16,7 +16,182 @@
 <meta name="Publisher" content="Plurlife">
 <meta name="Author" content="Plurlife">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript">var jQ = jQuery.noConflict();</script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/jquery.checkboxes.min.js"></script>
+<script src="/js/prototype.js" language="JavaScript" type="text/javascript"></script><style type="text/css">
+html {
+	background: url("/images/blank.gif") no-repeat;
+	background-attachment: fixed;
+}
+#cmdiv	{
+	position:fixed;
+	z-index: 1000;
+	padding:0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#cmdiv #cmdiv_p_a_title {
+	color: white;
+	font-weight: bold;
+	font-size: 11px;
+	text-align: left;
+}
+#cmdiv_p_a_title h1 {
+	float:left;
+	margin: 4px;
+	display: inline;
+	font-size: 11px;
+	font-weight: bold;
+}
+#cmdiv_p_a_title h1 a {
+	font-size: 11px;
+	font-weight: bold;
+}
+#cmdiv_p_a_title .cancel {
+	float:right;
+	width: 16px;
+	margin: 3px;
+	display: inline;
+}
+#cmdiv_form {
+	border: 2px solid #CCC;
+	background-color: white;
+	z-index: 1001;
+	position: fixed;
+	font-weight: normal;
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 11px;
+	left: 50%; 
+	top: 35%;
+	padding-bottom: 10px; 
+	margin: -150px 0 0 -330px;
+	width: 660px;   
+}
+#cmdiv form a {
+	color: black;
+	text-decoration: none;
+}
+#cmdiv form a:hover {
+	text-decoration: underline;
+}
+#cmdiv form .button {
+	margin-top: 15px;
+	text-align: center;
+	clear: both;
+}
+#cmdiv form .main {
+	text-align: left;
+	overflow : auto;
+	width: 650px;
+	height: 355px;
+	padding: 5px;
+	background-color: white;
+	font-size: 11px;
+}
+#cmdiv form .main *,
+#cmdiv form .main a:hover {
+	color: black;
+	font-family: inherit;
+	font-size: inherit;
+	letter-spacing: inherit;
+	text-transform: inherit;
+}
+#cmdiv form .alert {
+	margin: 15px;
+	text-align: center;
+	font-weight: bold;
+	padding: 0;
+}
+#cmdiv form .alert img.thumb {
+	float:left; 
+	margin:0 18px 0 15px;
+	display: inline;
+	width: 32px;
+}
+#cmdiv form .alert div {
+	font-weight: bold;
+	width: 508px;
+	float:left; 
+}
+#cmdiv form .info {
+	float:right; 
+	width:480px; 
+	text-align: right;
+}
+#cmdiv form .reply {
+	height: 130px; 
+	border: 1px solid #c5d8eb; 
+	overflow: auto;
+	text-align: left;
+}
+#cmdiv form .reply h1 {
+	font-size: 10px;
+	font-weight: normal;
+	line-height: 10px;
+	display: block;
+	color: #336699;
+	border-bottom: 1px solid #c5d8eb;
+	background-color: #e8f1fa;
+	margin: 0 0 2px 0;
+	padding:1px;
+}
+#cmdiv form .reply div {
+	border-bottom: 1px solid #c5d8eb;
+	padding: 1px 3px 2px 5px;
+}
+#cmdiv form .reply div.last {
+	border-bottom: medium none;
+}
+#cmd_overlay { 
+	background-color:black !important;
+	z-index: 999;
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+}
+.CMDblock {
+	background-color: #666 !important;
+}
+.CMDblock * {
+	color: white !important;
+}
+.CMDapprove {
+	background-color: #A0E887 !important;
+}
+.CMDapprove *,
+.CMDdeny * {
+	color: black !important;
+}
+.CMDdeny {
+	background-color: #F88871 !important;
+}
+
+html .clearfix {
+	display:block;
+}
+.clearfix:after {
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+line-height: 0;
+}
+.clearfix {
+	display:inline-block;
+}  /* for IE/Mac */
+body {
+	background-color: #0071A9;
+	margin: 0;
+}
+li {
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+}
 .formbutton,
 .editor_ok_button{
 cursor:pointer;
@@ -91,9 +266,11 @@ background:url(/images/formbg.gif) repeat-x left top;
 .game_trivia {
 	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #749f98; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
 }
+/*
 .2side {
 	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 0px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 0px solid
 }
+*/
 .box {
 	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
 }
@@ -115,9 +292,11 @@ background:url(/images/formbg.gif) repeat-x left top;
 .box_new {
 	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 10px; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #bfdcfb; TEXT-DECORATION: none
 }
+/*
 .4side {
 	BORDER-RIGHT: #993300 1px solid; BORDER-TOP: #993300 1px solid; BORDER-LEFT: #993300 1px solid; BORDER-BOTTOM: #993300 1px solid
 }
+*/
 .blue_txt {
 	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #0066ff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
 }
@@ -234,14 +413,14 @@ background:url(/images/formbg.gif) repeat-x left top;
 	FONT-WEIGHT: bold;
 	FONT-SIZE: 11px;
 	COLOR: red;
-	FONT-FAMILY: Tahoma;
+	FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif;
 	text-align:center;
 }
 .succ_class {
 	FONT-WEIGHT: bold;
 	FONT-SIZE: 11px;
 	COLOR: green;
-	FONT-FAMILY: Tahoma;
+	FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif;
 	text-align:center;
 }
 .txt_note {
@@ -420,7 +599,9 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_blue {background-color: #e7f2fc;}
-.nav_background_blue {background-color:#8ab6df;background-image: url(/images/tables/blue/back1.gif);}
+.nav_background_blue { 
+	background: #8ab6df url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
 .nav_text_blue
 {
 	FONT-WEIGHT: normal;
@@ -443,7 +624,9 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_red {background-color: #ffe7e7;}
-.nav_background_red {background-color:#dc3b3b;background-image: url(/images/tables/red/back1.gif);}
+.nav_background_red { 
+	background: #dc3b3b url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
 .nav_text_red
 {
 	FONT-SIZE: 11px;
@@ -465,7 +648,10 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_green {background-color: #e7ffe0;}
-.nav_background_green {background-color:#8edf75;background-image: url(/images/tables/green/back1.gif);}
+.nav_background_green { 
+	background: #8edf75 url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
+
 .nav_text_green
 {
 	FONT-WEIGHT: normal;
@@ -488,7 +674,10 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_pink {background-color: #feedf9;}
-.nav_background_pink {background-color:#f59cd9;background-image: url(/images/tables/pink/back1.gif);}
+.nav_background_pink { 
+	background: #f59cd9 url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
+
 .nav_text_pink
 {
 	FONT-WEIGHT: normal;
@@ -498,8 +687,6 @@ a:hover
 	font-weight: bold;
 	text-decoration: none;
 }
-
-
 
 .beveled_top_gray {
 	background-image: url(/images/tables/gray/back1.gif);
@@ -512,7 +699,10 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_gray {background-color: #e2e2e2;}
-.nav_background_gray {background-color:#6a6a6a;background-image: url(/images/tables/gray/back1.gif);}
+.nav_background_gray { 
+	background: #6a6a6a url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
+
 .nav_text_gray
 {
 	FONT-WEIGHT: normal;
@@ -535,7 +725,10 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_purple {background-color: #e8d1f1;}
-.nav_background_purple {background-color:#af66ca;background-image: url(/images/tables/purple/back1.gif);}
+.nav_background_purple { 
+	background: #af66ca url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
+
 .nav_text_purple
 {
 	FONT-WEIGHT: normal;
@@ -559,7 +752,10 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_yellow {background-color: #fffed9;}
-.nav_background_yellow {background-color:#f2ed66;background-image: url(/images/tables/yellow/back1.gif);}
+.nav_background_yellow { 
+	background: #f2ed66 url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
+
 .nav_text_yellow
 {
 	FONT-WEIGHT: normal;
@@ -583,7 +779,10 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_orange {background-color: #f9e7cc;}
-.nav_background_orange {background-color:#ffa92f;background-image: url(/images/tables/orange/back1.gif);}
+.nav_background_orange { 
+	background: #ffa92f url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
+
 .nav_text_orange
 {
 	FONT-WEIGHT: normal;
@@ -606,7 +805,10 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_mac {background-color: #f9f9f9;}
-.nav_background_mac {background-color:#b9b9b9;background-image: url(/images/tables/mac/back1.gif);}
+.nav_background_mac { 
+	background: #f9f9f9 url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
+
 .nav_text_mac
 {
 	FONT-WEIGHT: normal;
@@ -630,7 +832,10 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_brown {background-color: #e9ddcd;}
-.nav_background_brown {background-color:#ad803e;background-image: url(/images/tables/brown/back1.gif);}
+.nav_background_brown { 
+	background: #ad803e url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
+
 .nav_text_brown
 {
 	FONT-WEIGHT: normal;
@@ -640,9 +845,6 @@ a:hover
 	font-weight: bold;
 	text-decoration: none;
 }
-
-
-
 
 .beveled_top_olive {
 	background-image: url(/images/tables/olive/back1.gif);
@@ -655,7 +857,10 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_olive {background-color: #dde6d3;}
-.nav_background_olive {background-color:#81976c;background-image: url(/images/tables/olive/back1.gif);}
+.nav_background_olive { 
+	background: #81976c url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
+
 .nav_text_olive
 {
 	FONT-WEIGHT: normal;
@@ -665,8 +870,6 @@ a:hover
 	font-weight: bold;
 	text-decoration: none;
 }
-
-
 
 .beveled_top_plurlife {
 	background-image: url(/images/tables/plurlife/back1.gif);
@@ -679,7 +882,10 @@ a:hover
 	TEXT-DECORATION: none;
 }
 .beveled_background_plurlife {background-color: #efe9ee;}
-.nav_background_plurlife {background-color:#ededed;background-image: url(/images/tables/plurlife/back1.gif);}
+.nav_background_plurlife { 
+	background: #612759 url(/images/tables/back1.png) repeat-x scroll 0 bottom;
+}
+
 .nav_text_plurlife
 {
 	FONT-WEIGHT: normal;
@@ -1017,7 +1223,6 @@ a:hover
 	margin-left:			44px;
 	font-size:				0.9em;
 	line-height:			20px;
-	clear
 }
 #demo-list li.file .file-remove
 {
@@ -1026,7 +1231,7 @@ a:hover
 	line-height:			18px;
 	margin-right:			6px;
 }
-.hide {display:none;}
+.hide {display:none !important;}
 
 
 .txtsml{
@@ -1046,6 +1251,11 @@ a:hover
 	border:1px solid #000000;
 	padding:6px 12px 6px 12px;
 	background-color: #ffffcd;
+	top: 40px; 
+	left: -50px;
+	width:225px; 
+	position:absolute; 
+	z-index: 100;
 }
 .board {
 	padding:0;	
@@ -1104,12 +1314,9 @@ a:hover.block {
 	display: inline;	
 }
 i.fade {
-	-moz-background-clip:border;
-	-moz-background-inline-policy:continuous;
-	-moz-background-origin:padding;
 	background:transparent url(/images/fade/white.png) repeat-y scroll 100% 0;
 	cursor:pointer;
-	height:22px;
+	height:30px;
 	position:absolute;
 	right:0;
 	top:0;
@@ -1126,10 +1333,13 @@ input.color  {
 	padding: 2px;
 	background-color: lightyellow;
 	visibility: hidden;
-	z-index: 100;
+	z-index: 10000;
 	/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
 	filter: progid : DXImageTransform . Microsoft .
 		Shadow(color = gray, direction = 135);
+}
+#dhtmltooltip * {
+	text-align: center;
 }
 #dhtmltooltip h1 {
 	color: #DDD;
@@ -1150,6 +1360,30 @@ input.color  {
 	font-weight:normal;
 	margin: 5px 0;
 	color: #BBB;
+}
+:focus {
+	outline-color:-moz-use-text-color;
+	outline-style:none;
+	outline-width:0;
+}
+.letters {
+	margin: 10px;
+	text-align: center;
+	font-size: 10px;
+}
+.letters div.friend_selector {
+	display: inline;
+}
+.letters a {
+	background-color: none;
+	font-weight: bold !important;
+	padding: 1px 2px;
+}
+.letters a:hover {
+	padding: 0 1px;
+	border: 1px solid #CCC;
+	text-decoration: none !important;
+	background-color: #FFFFCC;
 }
 .friend_selector {
 	margin: 5px 5px 5px 0;
@@ -1197,6 +1431,34 @@ div.alert a img {
 	width: 16px;
 	height: 16px;
 	margin-right: 2px;
+}
+.alert1 {
+	text-align:center; 
+	background-color: #FFFFCC; 
+	padding: 5px;	
+	margin: 0;
+	border: 1px solid #DDD;
+}
+.alert1 img.thumb {
+	float:left; 
+	margin:5px 0 5px 20px;	
+	width: 32px;
+	height:32px;
+}
+.alert1 div.text {
+	margin-top:7px ; 
+	font-size: 11px;
+	color: #336666; 
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:10px;
+	font-weight:normal;
+}
+.alert1 div.text h1 {
+	color: #CC3333;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 11px;
+	line-height: 11px;
 }
 #p_a_message {
 	margin:0;
@@ -1251,6 +1513,169 @@ div.alert a img {
 	font-size:xx-small; 
 	vertical-align:top;
 	color: red;	
+}
+#status_div {
+	white-space: nowrap;
+}
+div.links {
+	float: right;
+	margin: 0 0 2px 2px;
+	text-align:right;
+}
+div.links a {
+	font-size: smaller;
+	border-left: 1px solid #666;								
+	padding-left: 4px;
+}
+div.links a.first {
+	border: medium none !important;
+}
+.vcard a {
+	display: block;
+	text-align: center;
+}
+.vcard .msOnlineNow {
+	display: block;
+	text-align: center;
+	white-space: normal;
+}
+.vcard a .pilDisplayName {
+	display: block;
+	margin-bottom: 0.3em;
+}
+.m_status {
+	text-align:center;
+	color:#003366;
+	font-size: 11px;
+}
+.msOnlineNow i {
+	display: block;
+	margin-bottom: 3px;
+}
+.a_on {
+	background: transparent url(/images/on.png) no-repeat scroll 0 0;
+	padding-left: 1.8em;
+}
+.a_off {
+	background: transparent url(/images/off.png) no-repeat scroll 0 0;
+	padding-left: 1.8em;
+}
+/* new checkbox */
+label.chb {
+	background-repeat:no-repeat;
+	background-image:url(/images/chb.png);
+	cursor:pointer;
+	padding:2px 2px 2px 22px !important;
+	outline-style:none;
+	outline-width:0;
+	font-family: Tahoma;
+	font-size: 11px !important;
+	font-weight: normal;
+	color: black;
+	text-decoration: none;
+	min-width: 20px;
+	min-height: 13px;
+}
+label.chb input {
+	left:-9999px !important;
+	position:absolute !important;
+}
+label.checked {
+	background-position:0 center;
+}
+label.unchecked {
+	background-position:0 top;
+}
+label.hover {
+	background-position:0 bottom;
+}
+/* end: new checkbox */
+
+/* Popup description */
+.bubbleInfo {
+	position: relative;
+	cursor: pointer;
+	float: right;
+	margin: -3px 18px 0 0 !important;
+}
+.bubbleInfo .trigger {
+	position: absolute;
+}
+.bubbleInfo .popup {
+	text-align: center;
+	position: absolute;
+	display: none;
+	z-index: 50;
+	border-collapse: collapse;
+	border: 1px solid #CCC; 
+	background-color: #FFFFCC; 
+	padding: 3px;
+	width: 250px;
+	height: 55px;
+	opacity: 0; 
+	font-weight: normal;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size: 10px !important;
+	line-height: 12px;
+	color: #333;
+}
+.bubbleInfo .popup h2 {
+	font-weight: bold;
+	margin: 2px 2px 5px 2px;
+	line-height: 10px;
+}
+.bubbleInfo .popup * {
+	text-decoration: none;
+	font-size: 10px !important;
+}
+
+/* TinyMCE */
+.clearlooks2 {
+	height: 409px !important;
+}
+.clearlooks2 iframe {
+	height: 380px !important;
+}
+/* END TinyMCE */
+
+.party, .party * {
+	font-family: Tahoma;
+	text-align: center;
+}
+.party h1, .party h1 a {
+	font-size: 16px; 
+	line-height: 100%;
+	color: #CC6633;
+	font-weight: normal;
+	padding: 1px 5px;
+	border-bottom: 1px solid #999;
+	display: inline;
+	margin: 5px;
+}
+.party h1 {
+	border: medium none;
+}
+.party h2, .party h2 a {
+	font-size: 11px; 
+	line-height: 100%;
+	font-weight: normal;
+	padding: 3px;
+	margin: 0;
+}
+.party h3, .party h3 a {
+	font-size: 12px; 
+	line-height: 100%;
+	color: #999;
+	font-weight: normal;
+	margin: 6px 0;
+	padding: 0;
+}
+.party h3 a {
+	color: #0000FF;
+}
+a.autolink {
+	color: blue;
+	font-size: 100%;
 }
 .w_bold {
 	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; WORD-SPACING: 0.1em; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 25px; BACKGROUND-COLOR: #397594; TEXT-DECORATION: none
@@ -1402,42 +1827,6 @@ div.alert a img {
 .join_black { font-weight:bold; font-size:11px; color: #000000; font-family: arial, Verdana, Arial, Helvetica, sans-serif;}
 
 
-	.section {border:0;}
-    .heading {background:none; color:inherit;}
-
-	#profile_networking .cols th{width:100%;}
-
-    #profile_contact a {display:block;}
-
-	#mainLayout {background:inherit; color:inherit;}
- 	#mainLayout {margin-left:20px;}
-	*html #mainLayout {margin-left:22px;}
-	#mainLayout td {padding-right:15px;}
-
-
-	#mainLayout, #mainLayout td {vertical-align:top;}
-	#mainLayout {border-collapse:separate; margin-top:5px;}
-
-	#profile_schools .cols th, #profile_companies .cols th {width:auto;}
-	#profile_schools .cols td, #profile_companies .cols td {width:50px; text-align:center;}
-
-	#profile_info .heading {font-size:1.55em; font-weight:bold; padding-left:0;}
-    #profile_info_image, #profile_info_content {float:left;}
-    #profile_info_image {width:175px;}
-    #profile_info_content {width:115px;}
-	#profile_info_image img {margin-bottom:20px;}
-
-  	#profile_blog_subjects {list-style:none; margin:0; padding:0;}
-
-	#profile_calendar .cols th {width:125px;}
-	#profile_contact img{vertical-align:middle;}
-	#profile_contact a {float:left; width:49%; font-size:0.8em;}
-	.friend {float:left; width:108px; margin-bottom:10px; text-align:center;}
-	*html .friend {display:inline;}
-	#profile_network {text-align:center; font-weight:bold; padding:5px 0;}
-
-	.advertiserProfile #header {height:auto;}
-
 /* Tag CSS */
 div  { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; line-height1:15px; }
 
@@ -1460,18 +1849,19 @@ div  { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; line-h
 #splashFrame { display: none; left: 0px; position: absolute; top: 0px; filter:progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0); z-index:1001; }
 #overDiv { position:absolute; visibility:hidden; z-index:1000; }
 </style>
-
+<!--[if lte IE 8]>
+   <style type="text/css">
+	#cmdiv form {
+		position: absolute;
+		margin: 0;
+		top: expression(Position.realOffset(document.body)[1] + parseInt(document.documentElement.offsetHeight)/8 + "px");
+		left: expression(parseInt(document.documentElement.offsetWidth)/2 - parseInt(this.offsetWidth)/2 + "px");
+	}
+   </style>
+<![endif]-->
 
 <!-- TinyMCE -->
-<script type="text/javascript" src="/js/tiny_mce/tiny_mce_gzip.js?v=3"></script>
-<script type="text/javascript">
-tinyMCE_GZ.init({
-	//disk_cache: false,
-	plugins: 'inlinepopups,emotions,fullscreen,paste,searchreplace,advimage,images,advlink,media',
-	themes : 'advanced',
-	languages : 'en'
-});
-</script>
+<script type="text/javascript" src="/js/tiny_mce/tiny_mce.js"></script>
 <script type="text/javascript">
 var TinyHookElements = '';
 
@@ -1481,8 +1871,11 @@ var TinyMCE_setCursor_run=null;
 function hooktextarea(){
 	var textareas=document.getElementsByTagName('textarea');
 	xmode = (TinyHookElements != '') ? 'exact' : 'textareas';
-		
-	if(typeof(tinyMCE)!='undefined' && textareas && typeof(textareas[0])!='undefined'){
+	
+	if (xmode == 'exact' && $(TinyHookElements+'_parent')) { TinyMCE_run=true; return false; }
+	
+	if(typeof(tinyMCE)!='undefined' && textareas && typeof(textareas[0])!='undefined')
+	{
 		var eh = window.onerror;
 		window.onerror = function(){
 			return true;
@@ -1490,9 +1883,13 @@ function hooktextarea(){
 		tinyMCE.init({
 			tab_focus : ":prev,:next",
 			convert_urls : false,
+			//extended_valid_elements : "object[declare|classid|codebase|data|type|codetype|archive|standby|height|width|usemap|name|tabindex|align|border|hspace|vspace],param[name|value],embed[src|type|allowfullscreen|allowScriptAccess|declare|classid|codebase|data|type|codetype|archive|standby|height|width|usemap|name|tabindex|align|border|hspace|vspace]",
+			//extended_valid_elements : "object[type|data|width|height|classid|codebase]','param[name|value]','embed[src|type|width|height|flashvars|wmode]",
+			//extended_valid_elements : "embed[width|height|name|flashvars|src|bgcolor|align|play|loop|quality|allowscriptaccess|type|pluginspage]",
 			content_css : "/js/tiny_mce/example.css",
+			media_strict: false,
 			remove_linebreaks : false,
-			convert_newlines_to_brs : true,
+			//convert_newlines_to_brs : true,
 			force_br_newlines : true,
 			force_p_newlines : false,
 			forced_root_block: false,
@@ -1502,20 +1899,32 @@ function hooktextarea(){
 			theme_advanced_buttons2 : "bold,italic,underline,strikethrough,|,justifyleft,justifycenter,justifyright,justifyfull,|,fontselect,fontsizeselect,|,forecolor,backcolor",
 			theme_advanced_buttons3 : "",
 			external_image_list_url : "/js/tiny_mce/image_list.js",
-			plugins: 'inlinepopups,emotions,fullscreen,paste,searchreplace,advimage,images,advlink,media',
+			plugins: 'inlinepopups,emotions,fullscreen,paste,searchreplace,advimage,images,advlink', // media
 			skin : "o2k7",
 			skin_variant : "black",
 			mode : xmode,
 			elements: TinyHookElements,
 			theme : "advanced",
 			handle_event_callback : "TinyMCEHandleEvent",
-			init_instance_callback : "TinyMCEInitInstance"
+			init_instance_callback : "TinyMCEInitInstance",
+			setup : function(ed) {
+				ed.onPaste.add(function(ed, e) {
+					if (jQ('#'+ed.id).parents('#cmdiv').length) not_saved.cmd_ta = true;
+					else if (not_saved.ta == false) not_saved.ta = true;
+				});
+				ed.onKeyPress.add(function(ed, e) {
+					if (jQ('#'+ed.id).parents('#cmdiv').length) not_saved.cmd_ta = true;
+					else if (not_saved.ta == false) not_saved.ta = true;
+				});
+				ed.onSaveContent.add(function(ed, o) {
+					if (jQ('#'+ed.id).parents('#cmdiv').length) not_saved.cmd_ta = false;
+					else not_saved.ta = false;
+				});
+			}
 		});
 		TinyMCE_run=true;
-		//elm.moveTo(10, 10);
-		//window.onerror = eh;
-		
-	}else TinyMCE_timer=setTimeout("hooktextarea()",100);
+	}
+	//else TinyMCE_timer=setTimeout("hooktextarea()",100);
 }
 
 function TinyMCEInitInstance(e)
@@ -1645,11 +2054,11 @@ function TinyMCE_setCursor(){
 		else
 			TinyMCE_setCursor_run=setTimeout("TinyMCE_setCursor()",1000);
 	}
-TinyMCE_timer=setTimeout("hooktextarea()",100);
-window.onload=function(){TinyMCE_timer=null;TinyMCE_setCursor()}
+//TinyMCE_timer=setTimeout("hooktextarea()",100);
+//window.onload=function(){TinyMCE_timer=null;TinyMCE_setCursor()}
 </script>
 <!-- /TinyMCE -->
-<script src="/js/prototype.js" language="JavaScript" type="text/javascript"></script><script type="text/javascript" language="JavaScript">
+<script type="text/javascript" language="JavaScript">
 /**
  * JsHttpRequest: JavaScript "AJAX" data loader
  * Minimized version: see debug directory for the complete one.
@@ -2226,6 +2635,10 @@ return null;
 };
 }};
 
+var frameBusted = (top != self);
+if (frameBusted) top.location.href = self.location.href;
+
+var not_saved = { 'ta': false, 'cmd_ta': false, 'text': 'Are you sure you want to cancel this?' };
 
 if(typeof(OA_show) == 'undefined')
 	OA_show = function(){};
@@ -2234,6 +2647,80 @@ var photo_desc_val=null;
 if (typeof(gMediaType) == 'undefined')
 	var gMediaType = 2;
 
+function CMD(action, step, arr, f_id)
+{
+	if (typeof(cmd_timeout) != 'undefined') 
+		clearTimeout(cmd_timeout); 
+	var cmd_timeout = null;
+	
+	if (typeof(step) == 'undefined') var step = 'start';
+	if (typeof(arr) == 'undefined') var arr = {a:0};
+	if (typeof(f_id) == 'undefined') var f_id = null;
+	if (step == 'end')
+	{
+		if (not_saved.cmd_ta)
+		{
+			if (!confirm(not_saved.text)) return false;
+			else not_saved.cmd_ta = false;
+		}
+		
+		jQ('#cmdiv,#cmd_overlay').animate({opacity: 0},'slow', function(){jQ(this).remove()}); 
+		if (jQ.browser.msie)
+			jQ('body').css({overflow:'auto'});
+		
+		return false;
+	}
+	else if (step == 'do') not_saved.cmd_ta = false;
+	
+	var cmdiv_form = ($('cmdiv_form')) ? $('cmdiv_form') : (($(f_id)) ? $(f_id) : null);
+	
+	var req = new JsHttpRequest();
+	req.onreadystatechange = function()
+	{
+		if (req.readyState != 4) return false;
+		
+		if (step == 'do' && req.responseJS.result && arr.func)
+			eval(arr.func);
+
+		if (!req.responseJS.alert) return false;
+		
+		if (req.responseJS.alert && req.responseJS.result)
+			not_saved.cmd_ta = false;
+		
+		jQ('body').append('<div id="cmdiv"></div><div id="cmd_overlay"></div>');
+		jQ('#cmdiv').css({opacity: 1});
+		jQ('#cmd_overlay').css({opacity: 0.65});
+		if (jQ.browser.msie)
+			jQ('body').css({overflow:'hidden'});
+		jQ('#cmd_overlay').css({width: jQ(document).width(), height:jQ(document).height()});
+		
+		//if (!$('cmdiv_p_a_message') || (req.responseJS.result && req.responseText))
+		if (req.responseText)
+			jQ('#cmdiv').html(req.responseText).show();
+		if (req.responseJS.p_a_message && $('cmdiv_p_a_message'))
+			jQ('#cmdiv_p_a_message').html(req.responseJS.p_a_message);
+		//if (req.responseJS.alert && req.responseJS.result)
+		if (req.responseJS.alert)
+			BubbleTip('#cmdiv');
+		//if (req.responseJS.result && req.responseJS.tinymce)
+		if (req.responseJS.tinymce)
+		{
+			TinyHookElements = req.responseJS.tinymce;
+			hooktextarea();
+		}
+
+		jQ('div#cmdiv textarea').bind('change', function(e){
+			not_saved.cmd_ta = true;
+		});
+
+		if (req.responseJS.result && req.responseJS.auto_hide)
+			cmd_timeout = setTimeout("CMD('"+action+"','end')", 900);
+	}
+	
+	req.open(null, '/ajax_scripts/cmd.php', true);
+	req.send( { 'action': action, 'step': step, 'arr': arr, frm: cmdiv_form } );
+}
+	
 function EditCaption(photo_id, photo_type)
 {
 	if (typeof(photo_type) == 'undefined')
@@ -2303,16 +2790,30 @@ function start_upload_multiple_files(){
 	window.addEvent('load', function() {
 
 		// For testing, showing the user the current Flash version.
+		var upload_result = true;
 		var swiffy = new FancyUpload2($('demo-status'), $('demo-list'), {
 			limitFiles: false,
 			limitSize: 100 * 1024 * 1024,
 			fieldName: 'photoupload',
 			typeFilter: {'All Supported File Types (*.jpg;*.jpeg;*.png;*.tif;*.gif;*.avi;*.mpg;*.mpe;*.mpeg;*.mp4;*.3gp;*.mov;*.wmv;*.flv;*.asf;*.asx)':'*.jpg;*.jpeg;*.png;*.tif;*.gif;*.avi;*.mpg;*.mpe;*.mpeg;*.mp4;*.3gp;*.mov;*.wmv;*.flv;*.asf;*.asx'},
 			path: '/js/Swiff.Uploader.swf',
+			fileComplete: function(file, response) {
+				this.options.processResponse || this;
+				var json = new Hash(JSON.decode(response, true) || {});
+				if (json.get('result') == 'success') {
+					file.element.addClass('file-success');
+					file.info.set('html', json.get('size'));
+				} else {
+					file.element.addClass('file-failed');
+					file.info.set('html', json.get('error') || response);
+					upload_result = false;
+				}
+			},
 			onAllComplete: function(current){
-				window.location = ($('group_id')!=null)
-					? 'edit_group_photos_captions.php?group_id='+$('group_id').value
-					: 'edit_album_captions.php?album_id='+$('alb').value;
+				if (upload_result)
+					window.location = ($('group_id')!=null)
+						? 'edit_group_photos_captions.php?group_id='+$('group_id').value
+						: 'edit_album_captions.php?album_id='+$('alb').value;
 			},
 			// The changed parts!
 			debug: true, // enable logs, uses console.log
@@ -2532,121 +3033,6 @@ function SaveDescriptionFriend(fid){
 		"promptdes","width=275,height=215");//, toolbar=no, location=no, directories=no, status=no, menubar=no");
 }
 
-
-// show tip
-function ShowHelp(obj,field,hide){
-		//Get help object
-		var helpObj;
-		if (document.all){
-			helpObj = document.all[field+"_help"];}
-		else if(document.getElementById){
-				helpObj = document.getElementById(field+"_help");}
-		if(helpObj){
-				//if help object is shown, hide it ; if object hidden, show it
-				if (hide){
-					helpObj.style.display = "none";}
-				else{
-					helpObj.style.display = "";}
-
-				//Get location of mouseover object, move help object to the left if will display off-screen
-				var divWidth = 340;
-				var offsetLeft = getOffsetLeft(obj);
-				var screenWidth = (window.innerWidth) ? window.innerWidth - 25 : document.body.clientWidth;
-				if ((offsetLeft + divWidth) > screenWidth) offsetLeft = screenWidth - divWidth;
-				newX = offsetLeft;
-
-				//Get location of mouseover object, move help object on top if will display off-screen
-				var divHeight = helpObj.offsetHeight;
-				var offsetTop = getOffsetTop(obj) + obj.offsetHeight;
-				var screenHeight = (window.innerHeight) ? window.innerHeight - 25 : document.body.clientHeight;
-				if ((offsetTop + divHeight) > screenHeight + getScrollY()) offsetTop = getOffsetTop(obj) - divHeight;
-				newY = offsetTop;
-
-				helpObj.style.top = newY;
-				helpObj.style.left = newX;
-
-				if (!hide){
-					qh_hideElement("select",helpObj);
-					qh_hideElement("object",helpObj);
-					qh_hideElement("embed",helpObj);  }
-				else{
-					qh_showElement("select");
-					qh_showElement("object");
-					qh_showElement("embed");}
-		}
-}
-function getOffsetTop (elm) {
-		var mOffsetTop = elm.offsetTop;
-		var mOffsetParent = elm.offsetParent;
-		while (mOffsetParent) {
-				mOffsetTop += mOffsetParent.offsetTop;
-				mOffsetParent = mOffsetParent.offsetParent;}
-		return mOffsetTop;
-}
-function getOffsetLeft (elm) {
-		var mOffsetLeft = elm.offsetLeft;
-		var mOffsetParent = elm.offsetParent;
-		while (mOffsetParent) {
-				mOffsetLeft += mOffsetParent.offsetLeft;
-				mOffsetParent = mOffsetParent.offsetParent;}
-		return mOffsetLeft;
-}
-function getScrollY() {
-	var scrOfY = 0;
-	if( typeof( window.pageYOffset ) == 'number' ) {
-		//Netscape
-		scrOfY = window.pageYOffset;}
-	else if( document.body && ( document.body.scrollLeft || document.body.scrollTop ) ) {
-		//DOM
-		scrOfY = document.body.scrollTop;}
-	else if( document.documentElement &&
-			( document.documentElement.scrollLeft || document.documentElement.scrollTop ) ) {
-		//IE6
-		scrOfY = document.documentElement.scrollTop;}
-	return scrOfY;
-}
-
-function qh_hideElement( elmID, overDiv ) {
-	if(document.all) {
-		for(i = 0; i < document.all.tags( elmID ).length; i++) {
-			obj = document.all.tags( elmID )[i];
-			if(!obj || !obj.offsetParent) continue;
-
-			// Find the element's offsetTop and offsetLeft relative to the BODY tag.
-			objLeft   = obj.offsetLeft;
-			objTop    = obj.offsetTop;
-			objParent = obj.offsetParent;
-
-			while(objParent.tagName.toUpperCase() != 'BODY') {
-				objLeft  += objParent.offsetLeft;
-				objTop   += objParent.offsetTop;
-				objParent = objParent.offsetParent;
-			}
-
-			objHeight = obj.offsetHeight;
-			objWidth  = obj.offsetWidth;
-
-			if((overDiv.offsetLeft + overDiv.offsetWidth) <= objLeft);
-			else if((overDiv.offsetTop + overDiv.offsetHeight) <= objTop);
-			else if(overDiv.offsetTop >= (objTop + objHeight));
-			else if(overDiv.offsetLeft >= (objLeft + objWidth));
-			else {
-				obj.style.visibility = 'hidden';
-			}
-		}
-	}
-}
-function qh_showElement(elmID) {
-	if(document.all) {
-		for(i = 0; i < document.all.tags( elmID ).length; i++) {
-			obj = document.all.tags(elmID)[i];
-			if(!obj || !obj.offsetParent) continue;
-			obj.style.visibility = '';
-		}
-	}
-}
-
-
 // AddDescriptionTxt(this)
 function AddDescriptionTxt(fid){
 	$('dfriend'+fid).update('<textarea onblur="SaveDescriptionTxt('+fid+');"></textarea>');
@@ -2746,7 +3132,7 @@ function SaveAwayMessage()
 				document.getElementById('status_div').innerHTML = req.responseText;
 		}
 	}
-	req.open(null, '/ajax1.php?sw=', true);
+	req.open(null, '/ajax1.php', true);
 	req.send( { 'action': 'SaveAwayMessage', 'away_message': message } );
 }
 
@@ -2765,7 +3151,7 @@ function FriendSelector(letter,friend_id)
 			}
 	}
 	req.caching = true;
-	req.open(null, '/ajax1.php?sw=', true);
+	req.open(null, '/ajax1.php', true);
 	req.send( { 'action': 'FriendSelector', 'letter': letter, 'friend_id': friend_id } );
 }
 
@@ -2779,7 +3165,7 @@ function MemberCard(member_id)
 				$('member_card').innerHTML = req.responseJS.result;
 	}
 	req.caching = true;
-	req.open(null, '/ajax1.php?sw=', true);
+	req.open(null, '/ajax1.php', true);
 	req.send( { 'action': 'MemberCard', 'member_id': member_id } );
 }
 
@@ -2796,7 +3182,7 @@ function GetPhotoRank(photo_id, next_url)
 				$('photo_rank_'+photo_id).innerHTML = '<div class="'+req.responseJS.class_name+'">'+req.responseJS.message+'</div>';
 		}
 	}
-	req.open(null, '/ajax1.php?sw=', true);
+	req.open(null, '/ajax1.php', true);
 	req.send( { 'action': 'GetPhotoRank', 'photo_id': photo_id, 'next_url': next_url } );
 }
 
@@ -2819,10 +3205,124 @@ function SetPhotoRank(photo_id, rank, next_url)
 				$('photo_rank_'+photo_id).innerHTML = '<div class="'+req.responseJS.class_name+'">'+req.responseJS.message+'</div>';
 		}
 	}
-	req.open(null, '/ajax1.php?sw=', true);
+	req.open(null, '/ajax1.php', true);
 	req.send( { 'action': 'SetPhotoRank', 'photo_id': photo_id, 'rank': rank } );
 }
-</script>
+
+// own checkbox	
+jQ(document).ready(function(){
+	var l = jQ('label');
+	var chb = l.find(':checkbox');
+	
+	chb.each(function(){
+		var c = (this.checked) ? 'checked' : 'unchecked';
+		jQ(this).parent().addClass(c).append('&nbsp;');
+	});
+
+	chb.click(function(){
+		var p = jQ(this).parent();
+		p.removeClass('hover');
+
+		if (this.checked)
+			p.removeClass('unchecked')
+			.addClass('checked');		
+		else
+			p.removeClass('checked')
+			.addClass('unchecked');
+	});
+
+	l.mouseover(function(){
+		jQ(this).addClass('hover');
+	});
+
+	l.mouseout(function(){
+		jQ(this).removeClass('hover');
+	});
+	
+});
+
+jQ(document).ready(function(){
+	jQ('textarea').live('keypress', function(e){
+		if (jQ(this).parents('#cmdiv').length) not_saved.cmd_ta = true;
+		else not_saved.ta = true;
+	});
+	jQ('form').live('submit', function(e){
+		if (jQ(this).parents('#cmdiv').length) not_saved.cmd_ta = false;
+		else not_saved.ta = false;
+	});
+
+	window.onbeforeunload = function() {
+		if (not_saved.ta || not_saved.cmd_ta) return not_saved.text;
+	}
+	
+/*
+	jQ('form').submit(function(){
+		jQ('input[type=submit]', this).attr('disabled', 'disabled');
+	});
+*/
+	BubbleTip();
+});
+
+// popup description
+function BubbleTip(sel_parent)
+{
+	sel_parent = (typeof(sel_parent) == 'undefined') ? 'div.bubbleInfo' : sel_parent+' div.bubbleInfo'; 
+	
+	if (!jQ(sel_parent).length) return false;
+	
+	jQ(sel_parent).each(function () {
+		var distance = 10;
+		var time = 250;
+		var hideDelay = 500;
+
+		var hideDelayTimer = null;
+
+		var beingShown = false;
+		var shown = false;
+		var trigger = jQ('.trigger', this);
+		var info = jQ('.popup', this).css('opacity', 0);
+
+		jQ([trigger.get(0), info.get(0)]).mouseover(function () {
+			if (hideDelayTimer) clearTimeout(hideDelayTimer);
+			if (beingShown || shown) {
+				// don't trigger the animation again
+				return;
+			} else {
+				// reset position of info box
+				beingShown = true;
+
+				info.css({
+					top: -55,
+					left: -100,
+					display: 'block'
+				}).animate({
+					top: '-=' + distance + 'px',
+					opacity: 1
+				}, time, 'swing', function() {
+					beingShown = false;
+					shown = true;
+				});
+			}
+
+			return false;
+		}).mouseout(function () {
+			if (hideDelayTimer) clearTimeout(hideDelayTimer);
+			hideDelayTimer = setTimeout(function () {
+				hideDelayTimer = null;
+				info.animate({
+					top: '-=' + distance + 'px',
+					opacity: 0
+				}, time, 'swing', function () {
+					shown = false;
+					info.css('display', 'none');
+				});
+
+			}, hideDelay);
+
+			return false;
+		});
+	});	
+}</script>
 
 <script language="javascript" type="text/javascript">
 function lib_bwcheck () {
@@ -3326,13 +3826,9 @@ function swapImage(newImg, mpeg, key, type) {
 	}
 }
 </script></head>
-
-
-<body leftmargin="0" topmargin="0">
-	<!-- Nav.php -->
-	
-
-	<script type="text/javascript" src="http://a.plurlife.com/adman/www/delivery/spcjs.php?id=1&amp;target=_blank&amp;state=&amp;gender=&amp;age=Invalid date!"></script>
+<body>
+<!-- Nav.php -->
+	<script type="text/javascript" src="http://a.plurlife.com/adman/www/delivery/spcjs.php?id=1&amp;target=_blank&amp;state=&amp;gender=&amp;age=&amp;member_id=0"></script>
 	<!-- Background -->
 	<script type="text/javascript"><!--// <![CDATA[ 
 	OA_show(17);
@@ -3368,7 +3864,7 @@ function swapImage(newImg, mpeg, key, type) {
 	
 	var uid=27845220;var menu6=new Array()
 menu6[1]='<div style=padding-top:5px;padding-left:3px;text-align:center;font-size:12px;color:red;>In the chatroom...</div>'
-menu6[2]='<div style=padding-left:10px;>goapsytrance, TreFive, vancel0t, slipsbaby, Bare, t0Ny33, fabulous, Influx</div>'
+menu6[2]='<div style=padding-left:10px;>babyboplove, 205756, Drpeppar, Carebear777, JediSparkie, 215478, waltthizzney, ssttaarrbbuurrsstt, Bonessy, McPokeFUCKYOU, electricInsomniac, kiddaqua</div>'
 	var menuwidth='165px' //default menu width
 	var menubgcolor='#f6f6f6'  //menu bgcolor
 	var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
@@ -3511,12 +4007,8 @@ menu6[2]='<div style=padding-left:10px;>goapsytrance, TreFive, vancel0t, slipsba
 					</td>
 					<td align="center" width="80%">&nbsp;</td>
 	
-					<td align="right" style="padding-right: 7px;" width="10%" nowrap=""> <!--<a class="nav_text_mac"  href="/address_book.php?page=1"><b>Address Book</b></a>-->
-					<!--lehandr-->
-					<nobr>
-						<span id="status_div" class="nav_text_mac"><a class="nav_text_mac" href="#" onclick="StatusSwitch()"><b>Set away</b></a></span> |
-						<a class="nav_text_mac" href="/logout.php"><b>Log Off</b></a>
-					</nobr>
+					<td align="right" style="padding-right: 7px;" width="10%" nowrap=""> 
+					<a href="/join_us.php" class="nav_text_mac">Join Us</a> | <a href="/login.php" class="nav_text_mac">Login</a>
 					</td>
 				</tr>
 			</tbody></table>
@@ -3529,7 +4021,7 @@ menu6[2]='<div style=padding-left:10px;>goapsytrance, TreFive, vancel0t, slipsba
 			<table border="0" cellpadding="0" cellspacing="0" width="830">
 				<tbody><tr>
 					<td width="251">
-					 <a href="/logincomplete.php"><img border="0" src="http://s277698223.onlinehome.us/media/holidays/halloween09/plurlife_logo.gif" alt="Plurlife"></a> 					</td>
+					 <a href="/logincomplete.php"><img border="0" src="http://chat.plurlife.com/media/house/plurlife_logo.gif" alt="Plurlife"></a> 					</td>
 					<td width="575" valign="middle">
 					<div align="center">
 					<!-- 468x60 -->
@@ -3558,7 +4050,7 @@ menu6[2]='<div style=padding-left:10px;>goapsytrance, TreFive, vancel0t, slipsba
 				onMouseout="delayhidemenu()">Chat ()</a> -->
 			  <script language="JavaScript" src="http://chat.plurlife.com/flashcoms/common/js/flashcoms.js">
 			  </script>
-			  				| <a href="/login.php" onclick="clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu6, '350px')" onmouseout="delayhidemenu()" class="nav_text_mac">Chat (8)</a>
+			  				| <a href="/login.php" onclick="clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu6, '350px')" onmouseout="delayhidemenu()" class="nav_text_mac">Chat (12)</a>
 							| <a href="/forum/" class="nav_text_mac">Forum</a> 			| <a href="/groups.php" class="nav_text_mac">Groups</a>
 			| <a href="/events.php" class="nav_text_mac">Events</a>
 			 | <a href="/videos.php" class="nav_text_mac">Videos</a>
@@ -3569,32 +4061,33 @@ menu6[2]='<div style=padding-left:10px;>goapsytrance, TreFive, vancel0t, slipsba
 		</tr>
 		<tr>
 			<td height="21" bgcolor="#FFFFFF">
-			<div align="center"><table width="100%">
-<tbody><tr>
-<td colspan="10">
-<div align="center">
+			<div align="center">
+				<table width="100%">
+	<tbody><tr>
+	<td colspan="10">
+<div>
 <!-- top banner ad code here -->
 	
 <!-- top banner ad code here -->
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-</div></td>
-</tr>
+	</td>
+	</tr>
+	</tbody>
+	</table>
+	</div></td>
+	</tr>
 
-<tr>
-<td>
-<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
-<tbody>
-<tr>
-<td valign="top">
-<table bgcolor="#FFFFFF" align="center" cellspacing="0" cellpadding="0" width="99%" border="0">
-<tbody>
-<tr>
-<td colspan="2" valign="top">
-<div align="center">
+	<tr>
+	<td>
+	<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+	<tbody>
+	<tr>
+	<td valign="top">
+	<table bgcolor="#FFFFFF" align="center" cellspacing="0" cellpadding="0" width="99%" border="0">
+	<tbody>
+	<tr>
+	<td colspan="2" valign="top">
+	<div>
  <!-- Nav.php -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="4" class="dark_b_border2">
@@ -3633,14 +4126,20 @@ or you can reach us by telephone at 1-800-616-1096<br><p>For each visitor to our
 <!-- Middle Text -->
 </div></td></tr>
 <tr><td align="center" bgcolor="#ffffff">
-
+<script>
+	if (typeof(hooktextarea) == 'function') hooktextarea();
+	if (typeof(TinyMCE_setCursor) == 'function') TinyMCE_setCursor();
+</script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2991943-4");
-pageTracker._trackPageview();
+if (typeof(_gat) != 'undefined')
+{
+	var pageTracker = _gat._getTracker("UA-2991943-4");
+	pageTracker._trackPageview();
+}
 </script>
 
 
@@ -3661,11 +4160,14 @@ pageTracker._trackPageview();
 </tr>
 <tr>
 <td height="5" class="txt_label" align="center" style="padding-top:5px;padding-bottom:12px;">
-©2009 Plurlife.com<br>
-Page generated in 0.0931 seconds
+©2010 Plurlife.com<br>
+Page generated in 0.2665 seconds
 </td>
 </tr>
 </tbody></table>
+
+
+
 
 
 
