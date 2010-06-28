@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallworlds.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228004645id_/http%3A//www.smallworlds.com/2009/08/11/smallworlds-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallworlds.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628142433id_/http%3A//www.smallworlds.com/2009/08/11/smallworlds-privacy-policy) for the most accurate reproduction.*
 
 # SmallWorlds
 
@@ -24,6 +24,8 @@ Our server logs automatically record information from your browser, including yo
 
 SmallWorlds does not currently accept registrations from children of the age of 12 or under.
 
+SmallWorlds allows third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
+
 ## Information Sharing
 
 SmallWorlds will not disclose any personal information about you to any third parties without your permission, except under the following circumstances:
@@ -35,7 +37,3 @@ SmallWorlds will not disclose any personal information about you to any third pa
 
 
 For further information, please email us at privacy@smallworlds.com.
-
-SmallWorlds is free to play!
-
-Meet friends, play games, do missions, listen to music, adopt a pet, watch videos and so much more!
