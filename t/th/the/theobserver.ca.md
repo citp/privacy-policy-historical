@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theobserver.ca privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227091145id_/http%3A//www.theobserver.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theobserver.ca privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628222037id_/http%3A//www.theobserver.ca/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -101,8 +101,11 @@ L3R 9R6
 [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
 
 Any rights not expressly granted herein are reserved.  
-© 2009 www.theobserver.ca, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+© 2010 www.theobserver.ca, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
 
 * * *
 
-COPYRIGHT NOTICE.© 1999-2009 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.theobserver.ca ,All rights reserved. 
+COPYRIGHT NOTICE.© 1999-2010 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.theobserver.ca ,All rights reserved. 
+
+  
+
