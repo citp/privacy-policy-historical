@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227210526id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628210651id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
@@ -8,9 +8,9 @@ Partners
 
 Testimonials
 
-**Adam Allen:** "I just have to say WOW!!! I'm so glad that you guys have developed something that is so useful for MySql. I am able to graphically view my tables, and I don't even have to think about my queries because I can visually design them. I just stumbled upon this, and I'm already very excited about it".
+**Kym Harper :** "Beautifully presented tools (and web site) and great service. I will be sending links to many other individuals who should be interested. Wishing you every continued success and thank you again".
 
-**Richard Fallerman:** "The assistance we got from SQL Maestro Group played a major part in helping us to meet our objectives. The quality of software for managing Microsoft SQL data was outstanding".
+**Paolo Benjamin T. Briones:** "I just downloaded the trial and its great! IMHO, its a lot better than the Enterprise Manager from SQL Server".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -71,34 +71,26 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 | 
 
-#### [Christmas Sale](http://www.sqlmaestro.com/purchase/)
-
-|  [](http://www.sqlmaestro.com/purchase/)|  SQL Maestro  
-Group team wishes you **Merry Christmas!**  
----|---  
-  
-We're happy to grant you a [**25% discount**](http://www.sqlmaestro.com/purchase/) for all our products and bundles till **December  31!**
-
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
-Dec 15, 2009
+May 27, 2010
 
-PHP Generators now come with support for updatable queries, master-detail presentations, display partitioning, event-driven content management, and dozens of other new features. Freeware versions are still available!
+Enhanced foreign key support, improved Data Analysis tool, impressive data import abilities, updated BLOB Editor, and a lot of other new features.
 
-Dec 4, 2009
+May 12, 2010
 
-Ben Carigtan, a blogger at Help Desk Geek, posted a review of PHP Generator for MySQL. 
+New version introduces support for key-based authentication and SSH-2 protocol, insert-or-update data import mode, displaying of MySQL warning messages, and some other new features.
 
-Dec 1, 2009
+Apr 20, 2010
 
-Completely redesigned Data Import and Data Export wizards, support for the SSH-2 protocol, Italian translation, and more.
+Features Postgres Plus support, improved Script Runner tool, updated data grids, support for ascending and descending indexes, and some other useful things.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/sql_anywhere/codefactory/screenshots/getting_started/diagram_viewer/)
+[](http://www.sqlmaestro.com/products/sqlite/maestro/screenshots/getting_started/diagram_viewer/)
 
-ASA Code Factory allows you to represent numeric data from a query result as a diagram with a possibility of customizing its appearance and export the diagram to the following formats: BMP, Windows metafile, PDF, JPEG, PNG and more. 
+SQLite Maestro allows you to view SQLite data as charts with a possibility to export it to an image file.
 
-[](http://www.sqlmaestro.com/products/firebird/datawizard/help/06_00_00_data_import_wizard/)
+[](http://www.sqlmaestro.com/products/mysql/maestro/help/01_01_01_filter_panel/)
 
-Firebird Data Wizard: Data Import allows you to import data from several sources in one attempt.
+SQL Maestro for MySQL allows you to filter database explorer content using special panel.
