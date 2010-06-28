@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcardmania.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228091204id_/http%3A//www.postcardmania.com/about-postcardmania/privacy-policy/%3Fhp%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcardmania.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628153456id_/http%3A//www.postcardmania.com/about-postcardmania/privacy-policy/%3Fhp%3D2) for the most accurate reproduction.*
 
 # PostcardMania.com Privacy Policy
 
@@ -75,4 +75,4 @@ Information which you submit via our Web Site or our telephone services is store
 
 Please e-mail any questions, concerns or comments you have about our Privacy Policy to [info@postcardmania.com](mailto:info@postcardmania.com)  or write to us at:
 
-**_2145 Sunnydale BLVD Building 102., Clearwater, FL 33765 |_**
+**_2145 Sunnydale BLVD Building 102., Clearwater, FL 33765 | 1-800-628-1804_**
