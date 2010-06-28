@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valdosta.edu privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228092655id_/http%3A//www.valdosta.edu/it/security/policies/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valdosta.edu privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628160518id_/http%3A//www.valdosta.edu/it/security/policies/privacypolicy.shtml) for the most accurate reproduction.*
 
 # VSU Privacy Policy
 
@@ -8,7 +8,7 @@
 
 Throughout our Web pages, we provide links to other servers which may contain information of interest to our readers. We take no responsibility for, and exercise no control over, the organizations, views, or accuracy of the information contained on other servers.
 
-Creating a text link from your Web site to our site does not require permission. If you have a link you'd like VSU University Relations to consider adding to our Web site, please send an email to [VSU Public Relations](mailto:pr@valdosta.edu) with the subject " **Link request** ".
+Creating a text link from your Web site to our site does not require permission. If you have a link you'd like VSU University Relations to consider adding to our Web site, please send an email to [VSU Public Relations](mailto:news@valdosta.edu) with the subject " **Link request** ".
 
 ## Use of Text and Images
 
