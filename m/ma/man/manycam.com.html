@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the manycam.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230222156id_/http%3A//manycam.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manycam.com privacy policy that was archived on 2010-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628125128id_/http%3A//www.manycam.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -8,6 +8,7 @@
     <meta name="Description" content="ManyCam is free webcam software that allows you to use your webcam with multiple applications at the same time and add cool graphics to your webcam video window. Also, you can set your TV tuner card or any other video source as your video window.">
         <link rel="stylesheet" type="text/css" href="/tpls/img/css/style.css#1">
         <link href="/tpls/img/css/bg.css" type="text/css" rel="stylesheet">
+    <link href="/tpls/img/css/connect.css" type="text/css" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="http://manycam.com/favicon.ico">
     <link rel="shortcut icon" type="image/ico" href="http://manycam.com/favicon.ico">
     <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
@@ -25,6 +26,8 @@
 </head>
 
 <body>
+	<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+        <script type="text/javascript">FB.init("cf41db202a9f4b09b65cf5a2777868cc");</script>
     <script type="text/javascript">
         _uacct = "UA-2413912-1";
         urchinTracker();
@@ -34,23 +37,27 @@
 <tbody><tr><td class="backgroundleft"></td>
 <td valign="top">
    <div id="out">
-
    <!-- ********** header layout ********** -->
-
-   <div id="header"><div class="left"><div class="right">
-      <div id="logo">
-         <div style="position:relative;"><div style="position:absolute; top:-36px; width:440px;">
-             <div><a href="http://www.manycam.com"><img src="/tpls/img/logo.gif" width="62" height="62" alt="ManyCam"></a><br></div>
-             <div><a href="http://www.manycam.com"><img src="/tpls/img/logo_name.gif" width="164" height="38" alt="ManyCam"></a><br>
-             Use your webcam with multiple applications at the same time<br> and add cool graphics to your webcam video window.
-             </div>
-         </div></div>
-         
-<div id="top_menu" style="padding:32px 20px 0px 0px; float:right;">
+        <div id="header">
+            <div class="left">
+                <div class="right">
+                    <div id="logo">
+                        <div style="position:relative;"><div style="position:absolute; top:-36px; width:440px;">
+                            <div><a href="http://www.manycam.com"><img src="/tpls/img/logo.gif" width="62" height="62" alt="ManyCam"></a><br></div>
+                            <div><a href="http://www.manycam.com"><img src="/tpls/img/logo_name.gif" width="164" height="38" alt="ManyCam"></a><br>
+                                Use your webcam with multiple applications at the same time<br> and add cool graphics to your webcam video window.
+                            </div>
+                        </div>
+                    </div>
+					<div id="h" style="position:relative; top:-30px; left: 500px;">
+                        <!--<a id="connectFBButton" href="#" title="Facebook Connect"><img src="/tpls/img/fb/connect_small.gif" /></a>-->
+                        <!--<a id="connectFBButton" href="https://www.manycam.com/login/?tab=facebook" title="Facebook Connect"><img src="/tpls/img/fb/connect_small.gif" /></a>-->
+                        </div>
+                    <div id="top_menu" style="padding:32px 20px 0px 0px; float:right;">
 <table>
 <tbody><tr>
-    <td align="right" style="padding:3px">
-        &nbsp;
+    <td align="right" style="padding:3px">&nbsp;
+        
     </td>
 </tr>
 <tr>
@@ -65,9 +72,8 @@
 </tr>
 </tbody></table>
 </div>
-
-      </div>
-      		<table id="menu">
+                </div>
+                		<table id="menu">
 		<tbody><tr>
 			<td><img src="/tpls/img/menu_border.gif" width="3" height="27" alt=""><br></td>
 		
@@ -104,7 +110,9 @@
 		</tr>
 		</tbody></table>
 
-   </div></div></div>
+            </div>
+        </div>
+    </div>
 
    <!-- ********** center part layout ********** -->
    <div id="center">
@@ -226,6 +234,14 @@ Austin, Texas 78701
 <script defer type="text/javascript" src="/js/pngfix.js"></script>
 <![endif]-->
 
+<script type="text/javascript">
+	var widget_div = document.getElementById("profile_pics");
+	if ( widget_div ) {
+		var markup = '<fb:profile-pic uid="loggedinuser" size="square" facebook-logo="true"></fb:profile-pic>';
+		widget_div.innerHTML = markup;
+//		FB.XFBML.Host.parseDomElement(widget_div);
+	}
+</script>
 
 
 </body></html>
