@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiessentials.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621030749id_/http%3A//www.skiessentials.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiessentials.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628083455id_/http%3A//www.skiessentials.com/privacy.htm) for the most accurate reproduction.*
 
 # Skiessentials.com Privacy Policy
 
