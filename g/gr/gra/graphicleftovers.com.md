@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicleftovers.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227031735id_/http%3A//graphicleftovers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicleftovers.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628031952id_/http%3A//graphicleftovers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Graphic Leftovers
 
@@ -16,7 +16,7 @@ Collection of Personal Information
 When you sign up as an Adopter or Promoter under the relevant agreement, we may ask for your name, your e-mail address, and contact information. The Administrator also uses "Cookies" to collect information about our visitors.
 
 Use and Disclosure of Personal Information  
-We maintain this information for statistical purposes to improve our Site and the Materials (as defined in the “[Site Terms of Use](https://web.archive.org/web/20091227031735id_/http://graphicleftovers.com/privacy/link)”), to administer the Site, and to communicate with users and.The Administrator will not give or sell this information to third parties for any purpose other than to assist us in providing information to you or to manage and improve the Site and Materials. The Administrator will also respond to legal requests for information where required by law to do so.
+We maintain this information for statistical purposes to improve our Site and the Materials (as defined in the “[Site Terms of Use](https://web.archive.org/web/20100628031952id_/http://graphicleftovers.com/privacy/link)”), to administer the Site, and to communicate with users and.The Administrator will not give or sell this information to third parties for any purpose other than to assist us in providing information to you or to manage and improve the Site and Materials. The Administrator will also respond to legal requests for information where required by law to do so.
 
 External Links  
 The Site may contain links to third party sites. Since the Administrator does not control those websites, we encourage you to review the privacy policies of these third party sites.
