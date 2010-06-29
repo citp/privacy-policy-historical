@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the 4shared-china.com privacy policy that was archived on 2009-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090623142553id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4shared-china.com privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630013535id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>4shared.com - free file sharing and storage - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="Description" content="Online file sharing and storage - 5 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download.">
+<meta name="Description" content="Online file sharing and storage - 10 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download.">
 <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, file transfer, file hosting">
-<link rel="stylesheet" type="text/css" href="/css/main.css?ver=6024">
+<link rel="stylesheet" type="text/css" href="http://www.4shared-china.com/css/main.css?ver=8784">
 </head>
 <body>
 
@@ -16,21 +16,32 @@
 
 <table cellpadding="0" cellspacing="0" class="head" align="center">
     <tbody><tr>
-        <td width="90"><a href="/"><img src="/images/spacer.gif" alt="4shared, Free online files sharing" class="logo"></a></td>
+        <td width="90"><a href="http://www.4shared-china.com/"><img src="http://www.4shared-china.com/images/spacer.gif" alt="4shared, Free online files sharing" class="logo"></a></td>
         <td width="150"><h1>Free file sharing</h1></td>
-        <td align="center" valign="bottom"><a href="/premium.jsp?ref=top"><img src="/images/pr.gif" alt="Premium" onmouseover="this.src='/images/pro.gif'" onmouseout="this.src='/images/pr.gif'" height="69" width="175"></a></td>
-        <td align="right" style="font-weight:bold">
+        
+        <td align="center" valign="bottom">
+              
+      <a href="http://www.4shared-china.com/premium.jsp?ref=top"><img src="http://www.4shared-china.com/images/pr.gif" alt="Premium" onmouseover="this.src='http://www.4shared-china.com/images/pro.gif'" onmouseout="this.src='http://www.4shared-china.com/images/pr.gif'" height="69" width="175"></a>
+                
+        </td>
+        
+        <td class="alignRight" style="font-weight:bold;">
+          
 
-          <a href="/signup.jsp">Sign Up</a>
-          &nbsp;|&nbsp;
-          <a href="/login.jsp">Log In</a>
+
+
+
+
+
+
+
+
+<a href="http://www.4shared-china.com/signup.jsp">Sign Up</a>
+&nbsp;&nbsp;
+<a href="http://www.4shared-china.com/login.jsp" onclick="return (typeof showLoginBox == 'function' ? showLoginBox(event) : true);">Log In</a>
 
         </td>
-        <td align="right" width="85" style="padding-top:8px">
-<!-- START SCANALERT CODE -->
-<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.4shared.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.4shared.com/31.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-<!-- END SCANALERT CODE -->
-        </td>
+        
     </tr>
 </tbody></table>
 
@@ -39,18 +50,22 @@
         <td>
             <div class="resheight">
 
-    <img src="/images/spacer.gif" alt="" class="ctr">
-    <img src="/images/spacer.gif" alt="" class="ctl"><br clear="all">
+    <img src="http://www.4shared-china.com/images/spacer.gif" alt="" class="ctr">
+    <img src="http://www.4shared-china.com/images/spacer.gif" alt="" class="ctl"><br clear="all">
     <table cellpadding="0" cellspacing="0" width="801">
         <tbody><tr>
-            <td align="right">
-                <a href="/premium.jsp?ref=header" class="greylink">Premium</a> &nbsp;
-                <a href="/faq.jsp" class="greylink">FAQ</a> &nbsp;
-                <a href="/tutorial/" class="greylink">Quick Tour</a>
+            <td class="alignRight">
+                
+                
+                <a href="http://www.4shared-china.com/premium.jsp?ref=header" class="greylink"><b>Premium</b></a> &nbsp;
+                
+
+                <a href="http://www.4shared-china.com/faq.jsp" class="greylink">FAQ</a> &nbsp;
+                <a href="http://www.4shared-china.com/tutorial/" class="greylink">Quick Tour</a>
             </td>
 
             <td width="180">
-                <div style="position:relative;margin-left:15px">&nbsp;
+                <div class="langbox">&nbsp;
                     
 
 
@@ -58,23 +73,31 @@
 
 
 
+
 <script type="text/javascript">
+  var newLang="www";
   function selectLang(lang){
+    newLang=lang;
     window.langSelectorChangeCalled=true;
-    document.getElementById('iapHiddenFrame').src = "/main/translate/setLang.jsp?silent=true&lang="+lang;
+    document.getElementById('iapHiddenFrame').src = "http://www.4shared-china.com/main/translate/setLang.jsp?silent=true&lang="+lang;
   }
   function iapHiddenFrameOnload(){
     if( window.langSelectorChangeCalled ){
-      top.location.reload();
+      var str=top.location.href;
+      var shortLang= newLang;
+      if(shortLang.length>2){
+          shortLang=shortLang.substr(0,2).toLowerCase();
+      }
+      str=str.replace("en.4shared.com", shortLang+"."+"4shared.com")
+      top.location.href=str;
     }
   }
-</script>
+    document.write('<iframe width="0" height="0" id="iapHiddenFrame" name="iapHiddenFrame" style="display:none;" onload="iapHiddenFrameOnload()" ><'+'/iframe>')
+</script><iframe width="0" height="0" id="iapHiddenFrame" name="iapHiddenFrame" style="display:none;" onload="iapHiddenFrameOnload()"></iframe>
 
 
-<iframe width="0" height="0" id="iapHiddenFrame" name="iapHiddenFrame" style="display:none;" onload="iapHiddenFrameOnload()"></iframe>
-
-<div style="position:absolute;top:0;left:0">
-<table cellpadding="0" cellspacing="0" onmouseover="document.getElementById('lang1').style.display='block'" onmouseout="document.getElementById('lang1').style.display='none'">
+<div class="langboxabs">
+<table cellpadding="0" cellspacing="0" id="langtbl" onmouseover="document.getElementById('lang1').style.display='block'" onmouseout="document.getElementById('lang1').style.display='none'">
 <tbody><tr>
     <td class="langtl"></td>
     <td class="langt"></td>
@@ -93,7 +116,31 @@
               
                 <li><a href="javascript:void(selectLang('es'));"><span>Español</span></a></li>
               
+                <li><a href="javascript:void(selectLang('ar'));"><span>العربية</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('fr'));"><span>Français</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('pl'));"><span>Polski</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('tr'));"><span>Türkçe</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('in'));"><span>Bahasa Indonesia</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('th'));"><span>ไทย</span></a></li>
+              
                 <li><a href="javascript:void(selectLang('it'));"><span>Italiano (beta)</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('zh'));"><span>中文</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('ja'));"><span>日本語</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('ko'));"><span>한국어</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('vi'));"><span>Tiếng Việt</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('ms'));"><span>Bahasa Melayu</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('af'));"><span>Afrikaans</span></a></li>
               
                 <li><a href="javascript:void(selectLang('ru'));"><span>Русский</span></a></li>
               
@@ -147,7 +194,9 @@
                 <b>Access to your information</b><br><br>
                 You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your drive to other persons through folder sharing or providing the download link to your audience.
                 <br><br>
-                If for some reason you cannot access your virtual drive on 4shared or you want to change other information you provided to us, please contact us at <a href="mailto:support@4shared.com">support@4shared.com</a>.
+                If for some reason you cannot access your virtual drive on the 4shared or you want to change other
+                information you provided to us, please contact us at
+                <a href="mailto:support@4shared.com">support@4shared.com</a>.
                 <br><br>
 
                 <b>How we protect your information</b><br><br>
@@ -167,7 +216,9 @@
                 <br><br>
                 4shared will never use or sell these e-mail addresses and files to anyone; any attempt to access your e-mail addresses without your authorization will be prosecuted.
                 <br><br>
-                We will only use your email to send service and support letters. You may address any questions and problems to <a href="mailto:support@4shared.com">support team</a>. We will make sure your request is processed as soon as possible.
+                We will only use your email to send the service and support letters. You may address the
+                <a href="mailto:&lt;%=ServerFacade.getSupportEmail()%&gt;">support team</a>
+                with any questions and problems. We will make sure to process your request as soon as possible.
                 <br><br>
 
                 <b>Anti SPAM Policy</b><br><br>
@@ -186,7 +237,7 @@
 
                 <b>Contact Us</b><br><br>
                 If you have any questions or comments about our Privacy Policy, please contact us at
-                <a href="mailto:support@4shared.com">support@4shared.com</a>.
+                <a href="mailto:&lt;%=ServerFacade.getSupportEmail()%&gt;">support@4shared.com</a>.
             </div>
             <br><br>
 
@@ -197,13 +248,13 @@
 <div class="footer">
     <a href="http://www.4shared-china.com/premium.jsp?ref=footer">Premium</a>&nbsp; |&nbsp;
     <a href="http://www.4shared-china.com/enterprise/">Enterprise</a>&nbsp; |&nbsp;
-    <a href="http://www.4shared-china.com/network/search.jsp">Search</a>&nbsp; |&nbsp;
+    <a href="http://search.4shared-china.com/search.html">Search</a>&nbsp; |&nbsp;
     <a href="http://www.4shared-china.com/file_sharing.jsp">File Sharing</a>&nbsp; |&nbsp;
     <a href="http://www.4shared-china.com/share_music.jsp">Music Sharing</a>&nbsp; |&nbsp;
     <a href="http://www.4shared-china.com/share_photo.jsp">Photo Sharing</a>&nbsp; |&nbsp;
     <a href="http://www.4shared-china.com/share_video.jsp">Video Sharing</a>&nbsp; |&nbsp;
     
-    <a href="http://www.4shared-china.com/uploader/">4shared Desktop</a>&nbsp; |&nbsp;
+    <a href="http://www.4shared-china.com/desktop/">4shared Desktop</a>&nbsp; |&nbsp;
     <a href="http://www.4shared-china.com/tutorial/">Quick Tour</a>&nbsp; |&nbsp;
     <a href="http://www.4shared-china.com/features.jsp">Features</a><br>
     <a href="http://www.4shared-china.com/signup.jsp">Sign Up</a>&nbsp; |&nbsp;
@@ -222,9 +273,9 @@
     <a href="http://blog.4shared.com/" target="_blank">Blog</a>
 </div>
 <div class="copy">
-   Copyright © 2005-2009 4shared.com
+    Copyright <span title="dc209, rev=8784">©</span> 2005-2010 4shared.com 
 </div>
-<!-- www.currDcID=90 -->
+<!-- www.currDcID=209 -->
 </td>
 </tr>
 </tbody></table>
@@ -258,7 +309,7 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 ";"+Math.random()+
-"' width=1 height=1 alt='' style='display:none'>")//--></script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20090623142553id_/http%253A//www.4shared-china.com/privacy.jsp;0.029122971203588977" width="1" height="1" alt="" style="display:none"><!--/LiveInternet-->
+"' width=1 height=1 alt='' style='display:none'>")//--></script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20100630013535id_/http%253A//www.4shared-china.com/privacy.jsp;0.9124450746831632" width="1" height="1" alt="" style="display:none"><!--/LiveInternet-->
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
