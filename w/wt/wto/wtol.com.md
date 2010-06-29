@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wtol.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228084714id_/http%3A//www.wtol.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtol.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629235631id_/http%3A//www.wtol.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
-# Privacy Policy - WTOL.com, Toledo's News Leader, News 11 |
+# Privacy Policy - WTOL.com - Toledo's News Leader |
 
 **This Website's Privacy Policy**
 
