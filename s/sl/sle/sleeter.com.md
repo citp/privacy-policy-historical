@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sleeter.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230021817id_/http%3A//www.sleeter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeter.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629163117id_/http%3A//www.sleeter.com/privacy) for the most accurate reproduction.*
 
-# The Sleeter Group -
+# - The Sleeter Group
 
 This Online Privacy Policy is set forth by The Sleeter Group, Inc. ("The Sleeter Group") as it pertains to the sleeter.com website. For the purposes of this policy, Sleeter.com shall expressly refer to itself and implicitly refer to The Sleeter Group, Inc. By using the Sleeter.com Website, you agree to the terms of The Sleeter Group Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not use this site.
 
