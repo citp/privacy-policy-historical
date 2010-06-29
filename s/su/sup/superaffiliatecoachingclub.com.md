@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superaffiliatecoachingclub.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227180308id_/http%3A//www.superaffiliatecoachingclub.com/site.php/spol/view/_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superaffiliatecoachingclub.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629115944id_/http%3A//www.superaffiliatecoachingclub.com/site.php/spol/view/_privacy_statement) for the most accurate reproduction.*
 
 # Jeff Johnson's Underground Training Lab - Welcome To Our Website! -
 
