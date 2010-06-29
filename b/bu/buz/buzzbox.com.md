@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzbox.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227062233id_/http%3A//www.buzzbox.com/page/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzbox.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629224306id_/http%3A//www.buzzbox.com/page/terms) for the most accurate reproduction.*
 
 # Terms of Service And Privacy Policy
 
@@ -94,5 +94,3 @@ Our Site contains links to other websites. The fact that we link to a website is
 Our Policy Towards Children
 
 The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at privacy at buzzbox dot com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
-
-### Attributions
