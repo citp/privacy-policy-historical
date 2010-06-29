@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixcloud.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927083646id_/http%3A//www.mixcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixcloud.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629080121id_/http%3A//www.mixcloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mixcloud - Re-think radio
 
