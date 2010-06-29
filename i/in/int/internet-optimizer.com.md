@@ -1,20 +1,31 @@
-> *The following text is extracted and transformed from the internet-optimizer.com privacy policy that was archived on 2007-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070628215331id_/http%3A//internet-optimizer.com/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-optimizer.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629070536id_/http%3A//www.internet-optimizer.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Internet Technology I Computers Technology I Internet Software | Internet-Optimizer.com
 
-At our site, we are committed to protecting your privacy. Our site provides a secure environment for internet visitors. We also strive to optimize your online experience.  
-   
-What about "cookies"?  
-When you visit our site, we gather information that does not identify individual users. Our site uses cookies to track your IP address only for the purposes of tracking unique user sessions and providing you with user-requested data. We merely use aggregate information along with other data to make improvements to and update our site for our internet visitors.  
-   
-Will information collected be disclosed to outside parties?  
-We do not sell, trade, or rent your personal information to others. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information. Account information may be released when we believe, in good faith, that such release is reasonably necessary to (1) comply with applicable criminal law and/or valid search warrants or subpoenas, (2) enforce or apply the terms of any of our user agreements, or (3) protect the rights, property or safety of our users and products. 
+Privacy Policy for Internet-Optimizer.com
 
-Our sites contain links to other sites. We are not responsible for the privacy practices, content or lawfulness of the linking sites. Further, our business relationship with these sites does not include any obligations to disclose identifying information about you collected at our sites.  
-  
-   
-Your consent  
-This policy may be updated periodically without notice. Please check this page for changes. By using our website, products and/or services, you are acknowledging your agreement with our Privacy Policy.   
-We cooperate fully with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the exclusive right to report to law enforcement agencies any activities that we reasonably believe to be in violation of any applicable laws. We also reserve the exclusive right to release information about users who we believe, in good faith, are in violation of our guidelines and/or policies, or applicable law. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at s.hartati@hotmail.com.
 
-You are given notice that when you click on links and/or ad banners that take you to third-party web sites, you will be subject to their privacy policies. While we support the protection of privacy on the internet, we cannot be held legally or morally responsible for the actions of these third party websites. We respectfully advise you to carefully read the posted privacy statement when interacting with any web site on the internet.
+At Internet-Optimizer.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Internet-Optimizer.com and how it is used.
+
+Log Files  
+Like many other Web sites, Internet-Optimizer.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+Cookies and Web Beacons  
+Internet-Optimizer.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on checblog.org.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to Internet-Optimizer.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on checblog.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+Internet-Optimizer.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Internet-Optimizer.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
