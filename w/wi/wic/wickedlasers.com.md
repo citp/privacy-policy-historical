@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickedlasers.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227070032id_/http%3A//www.wickedlasers.com/laser-tech/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedlasers.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629164855id_/http%3A//www.wickedlasers.com/laser-tech/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,22 +72,15 @@ If you have any further questions about our Privacy Policy, the information that
 | 
 
 Order Online 24 Hours a Day,  
-7 Days a Week, 365 Days a Year.  
-All personal information you submit is  
-encrypted and 100% secure | 
+7 Days a Week, 365 Days a Year.
+
+All personal information you submit is encrypted and 100% secure
+
+| 
 
 [ ](https://www.scanalert.com/RatingVerify?ref=www.wickedlasers.com)
 
 | [](http://www.wickedlasers.com/laser-tech/privacy.html)  
 ---|---|---  
-|   
-Low Price Guarantee  
-[](http://www.wickedlasers.com/laser-tech/lowprice.html)  
-We guarantee we will not be undersold!  
----  
   
-| **100% Satisfaction Guarantee** \- If for any reason you are not satisfied with any item, return it for either an exchange or a full refund of the purchase price.  
-|  |  **Enter your UPS tracking number below:**  
----|---  
-  
-Copyright© 2008 Wicked Lasers, All rights reserved.   "Wicked Lasers" is a registered trademark of Wicked Lasers. 
+Copyright© 2010 Wicked Lasers, All rights reserved.   "Wicked Lasers" is a registered trademark of Wicked Lasers. 
