@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotbroken.com privacy policy that was archived on 2009-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090816094651id_/http%3A//www.gotbroken.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotbroken.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629072546id_/http%3A//www.gotbroken.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Car News, Pictures and Specification on GotBroken.Com
+# Privacy - Car News, Pictures, Price and Specification on GotBroken.Com
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
