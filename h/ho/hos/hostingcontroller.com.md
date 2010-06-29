@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the hostingcontroller.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229054744id_/http%3A//www.hostingcontroller.com/english/abouthc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingcontroller.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629122655id_/http%3A//www.hostingcontroller.com/english/abouthc/privacy.html) for the most accurate reproduction.*
 
 # Hosting Controller - Privacy Policy - Server Control panel - Dedicated Server Control Panel - Hosting Management Solution - Windows Automation tool
 
+|  | [](http://www.hostingcontroller.com/) |  |    
+---|---|---|---  
 |    
 ---  
   
@@ -12,14 +14,15 @@
   |  |   
 ---  
   
-Hosting Controller is a wholly owned subsidiary of Hosting Controller, Inc., an Ontario Corporation. Hosting Controller is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. Please read the complete HostingController.com privacy statement.   
+Hosting Controller is a wholly owned subsidiary of Hosting Controller, Inc., a Canadian Corporation. Hosting Controller is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. Please read the complete HostingController.com privacy statement.   
 Our corporate postal address is: 
 
 > **Hosting Controller Inc.**  
->  50 Burnhamthorpe Road West, Suite 401  
->  Mississauga, ON L5B 3C2  
->  Canada  
->  Our offices can be reached via e-mail at [sales@hostingcontroller.com](mailto:sales@hostingcontroller.com) or via telephone at +1 (905) 487-7383.   
+>  5811 Cooney Road, Suite 305  
+>  Richmond, BC, V6X 3M1  
+>  Canada
+> 
+> Our offices can be reached via e-mail at [sales@hostingcontroller.com](mailto:sales@hostingcontroller.com) or via telephone at +1 (604) 227-0272.   
   
 **Email Privacy Policy**  
 We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
@@ -50,4 +53,7 @@ Hosting Controller Web site contains links to other web sites. HC does not contr
 |  |   
 |  |   
 |  |   
-|  | 
+|  |   
+|  [Home](https://web.archive.org/english/index.html) | [HC8 Overview](https://web.archive.org/english/products/Hc8/web-hosting-control-panel-overview.html) | [HC Enterprise Modules](https://web.archive.org/english/products/Ms-Exchange-Server/HEMs-Exchange-BlackBerry-SharePoint-Dynamics-CRM-Hosted-Automation-Solution.html) | [HC8 Features](https://web.archive.org/english/products/Hc8/Features-Web-Hosting-Control-Panel.html) | [Privacy Policy](https://web.archive.org/english/abouthc/privacy.html) | [License Agreement](https://web.archive.org/english/AboutHc/EULA.html) | [Site Map](https://web.archive.org/english/control-panel-sitemap.html) | © Hosting Controller 1998 - 2010  
+---|---  
+Hosting Controller is based in Vancouver, Canada with offices in San Diego, Los Angeles, Richmond and Islamabad. Hosting Controller is a wholly owned subsidiary of Hosting Controller, Inc., a Canadian Corporation. Hosting Controller™ is a product of over ten years of software development and consultancy experience tailored to hosts. We provide automation development solutions to hosts of every size, shape and design. Our experience and expertise is equally tailored to suite enterprise provisioning and automation solutions.  Our team is made up of industry veterans; we are and we always have been a leading innovator to the hosting community since 1999 and most recently so with the launch of HC8!
