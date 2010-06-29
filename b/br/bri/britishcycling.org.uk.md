@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the britishcycling.org.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227064308id_/http%3A//new.britishcycling.org.uk/staticcontent/info--Privacy-Policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishcycling.org.uk privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629172739id_/http%3A//new.britishcycling.org.uk/staticcontent/info--Privacy-Policy-0) for the most accurate reproduction.*
 
-# British Cycling / Information / Privacy Policy
+# British Cycling / Information
+
+This site has the following requirements  
+Browser: At least IE7, Opera 9.63, Safari 3, Firefox 3, or a WebKit based browser engine version 523.12.
+
+Both Cookies and Javascript must be enabled.
 
 **Privacy Policy**
 
