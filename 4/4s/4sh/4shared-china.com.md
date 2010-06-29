@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4shared-china.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623142553id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared-china.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630013535id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
@@ -26,7 +26,7 @@ Our website utilizes a non-persistent cookie to track your session with our web 
 
 You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your drive to other persons through folder sharing or providing the download link to your audience. 
 
-If for some reason you cannot access your virtual drive on 4shared or you want to change other information you provided to us, please contact us at [support@4shared.com](mailto:support@4shared.com). 
+If for some reason you cannot access your virtual drive on the 4shared or you want to change other information you provided to us, please contact us at [support@4shared.com](mailto:support@4shared.com). 
 
 **How we protect your information**
 
@@ -44,7 +44,7 @@ Our system stores your e-mail addresses on our server in a secured location. The
 
 4shared will never use or sell these e-mail addresses and files to anyone; any attempt to access your e-mail addresses without your authorization will be prosecuted. 
 
-We will only use your email to send service and support letters. You may address any questions and problems to [support team](mailto:support@4shared.com). We will make sure your request is processed as soon as possible. 
+We will only use your email to send the service and support letters. You may address the [support team](mailto:%3C%=ServerFacade.getSupportEmail\(\)%%3E) with any questions and problems. We will make sure to process your request as soon as possible. 
 
 **Anti SPAM Policy**
 
@@ -62,4 +62,4 @@ To access feedback form use the Feedback link at the top right of the screen of 
 
 **Contact Us**
 
-If you have any questions or comments about our Privacy Policy, please contact us at [support@4shared.com](mailto:support@4shared.com). 
+If you have any questions or comments about our Privacy Policy, please contact us at [support@4shared.com](mailto:%3C%=ServerFacade.getSupportEmail\(\)%%3E). 
