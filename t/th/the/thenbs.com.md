@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230002744id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630013058id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
 
 # NBS | National Building Specification | Privacy Policy
 
