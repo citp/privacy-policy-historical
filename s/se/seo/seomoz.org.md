@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the seomoz.org privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219135948id_/http%3A//www.seomoz.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomoz.org privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629114650id_/http%3A//www.seomoz.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## WELCOME TO SEOMOZ’S PRIVACY POLICY
 
-Your privacy matters to us. We promise to respect your contact-preferences and to guard your private information. This Privacy Policy is intended to describe for you the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
+Your privacy matters to us. We promise to respect your contact preferences and to guard your private information. This Privacy Policy is intended to describe the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
 We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
 ### What Personally Identifying Information Does SEOmoz Collect?
 
-The level of information SEOmoz collect depends on the level of your use. If you sign up to be a free, registered user of SEOMoz, you are required to enter your email address. Entering your name, company, and job title is optional. 
+The level of information SEOmoz collect depends on the level of your use. If you sign up to be a free, registered user of SEOmoz, you are required to enter your email address. Entering your name, company, job title, and other information is optional.
 
 If you sign up to be a PRO Member, we collect your email address, full name, address and credit card information. You can change your information by going to your “My Account” page (you must be logged in to view this page). We use SSL encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
 
@@ -24,21 +24,31 @@ SEOmoz does not share your email address or other personally identifying informa
 
 Your browser installs a cookie on your computer when you visit our site. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Cookies are required to use the SEOmoz Pro services. They facilitate access to our website and personalize your online experience.
 
-We use cookies to record current session information, encrypted users’ login information, provide services, and compile analytics about our users. 
+We use cookies to record current session information, encrypted users’ login information, provide services, and compile analytics about our users.
 
 In addition, our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users’ movements around our site and understand trends.
 
 We also use standard internet tools, such as third-party web beacons from Yahoo!, to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo! click [here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
 
-SEOmoz uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, enforce our Terms of Use, and research. 
+SEOmoz uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, enforce our Terms of Use, and research. We never use this information for the provision of SEO consulting services so you do not need to worry that entering your information will be used against you or your clients by SEOmoz.
 
-### How we store our data
+### What Tool Usage Information Does SEOmoz Collect?
+
+SEOmoz offers a variety of online tools and software. These include, but are not limited to, our free SEO tools, our paid SEO tools, our API, and our tools on OpenSiteExplorer.org. These tools require you to enter a variety of information, such as URLs, domains, keywords, or other items relevant to Internet marketing and link research. We associate this information with your account in order to provide useful features, identify and terminate accounts that violate our Terms of Service, to improve our products, and to provide customer service. We never use this information for the provision of SEO consulting services so you do not need to worry that entering your information will be used against you or your clients by SEOmoz.
+
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
+
+### What Information Does the SEOmoz Toolbar Collect?
+
+We do not store the URLs you visit while surfing or searching with the SEOmoz Firefox Toolbar. We retrieve all link data from our API anonymously. This is something we do not plan to change, but if we ever did have a reason to store any surfing data related to an account, we would include a specific opt-in.
+
+### How We Store our Data
 
 SEOmoz uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run SEOmoz. The technical processing and transmission of the Service, including your content, may involve (a) transmissions over various networks, and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
 
 We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
-### When we will disclose our data
+### When We Will Disclose our Data
 
 SEOmoz may disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, other valid legal processes, or when your actions violate the Terms of Service. In addition, SEOmoz may disclose certain information to our service providers, such as credit-card payment processors, performing services on our behalf. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
@@ -48,9 +58,9 @@ It may be necessary to share information in order to investigate, prevent, or ta
 
 SEOmoz does not share your email information with third parties, except our service providers, such as credit-card payment processors, performing services on our behalf. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-If you sign up for an account, SEOmoz collects your email address. We may occasionally use this email to contact you for site-related issues. If you do not want us to contact you for commercial purposes, you can change your account settings by clicking on the “Edit Profile and Settings” link on your My Account page (you must be logged in to view this page). SEOmoz complies with the Federal Can-Spam Act (15 U.S.C. 7701 et seq.). 
+If you sign up for an account, SEOmoz collects your email address. We may occasionally use this email to contact you for site-related issues. If you do not want us to contact you for commercial purposes, you can change your account settings by clicking on the “Edit Profile and Settings” link on your My Account page (you must be logged in to view this page). SEOmoz complies with the Federal Can-Spam Act (15 U.S.C. 7701 et seq.).
 
-We need your help in discovering illegal or inappropriate email conduct perpetrated by impostors. In the event that you receive an email that you feel is spam and it appears to be sent by or affiliated with SEOmoz, please forward the email to [sitesupport@seomoz.org](mailto:sitesupport@seomoz.org). 
+We need your help in discovering illegal or inappropriate email conduct perpetrated by impostors. In the event that you receive an email that you feel is spam and it appears to be sent by or affiliated with SEOmoz, please forward the email to [sitesupport@seomoz.org](mailto:sitesupport@seomoz.org).
 
 ### Visiting Our Website From Outside the U.S.
 
