@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the option.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627001106id_/http%3A//www.option.com/en/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the option.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629151016id_/http%3A//www.option.com/en/footer/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Option
 
