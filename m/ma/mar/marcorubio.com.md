@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marcorubio.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229171234id_/http%3A//marcorubio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcorubio.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630011915id_/http%3A//www.marcorubio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Marco Rubio 2010
+# Marco Rubio for US Senate
 
 PRIVACY  
 POLICY OF WWW.MARCORUBIO.COM and all related Websites.
@@ -78,7 +78,7 @@ THE INFORMATION COLLECTION, USE AND DISSEMINATION PRACTICES OF COMMITTEE.****
 
 ****1.6 Outside Information.****
 
-**COMMITTEE may receive information about individuals from Third Parties or from other sources of information outside of COMMITTEE including information located in public databases (”Outside Information”).**
+**COMMITTEE may receive information about individuals from Third Parties or from other sources of information outside of COMMITTEE including information located in public databases (“Outside Information”).**
 
 ****1.7 Individual Information.****
 
@@ -88,11 +88,11 @@ THE INFORMATION COLLECTION, USE AND DISSEMINATION PRACTICES OF COMMITTEE.****
 
 **COMMITTEE will never knowingly collect any personal information about children under the age of 13.  If COMMITTEE obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database.**
 
-**Because it does not collect such information, COMMITTEE has no such information to use or to disclose to Third Parties.  COMMITTEE has designed this policy in order to comply with the Children’s Online Privacy Protection Act (”COPPA”).**
+**Because it does not collect such information, COMMITTEE has no such information to use or to disclose to Third Parties.  COMMITTEE has designed this policy in order to comply with the Children’s Online Privacy Protection Act (“COPPA”).**
 
 ****1.9 Credit Card Information.****
 
-**COMMITTEE may in certain cases collect credit card numbers and related information, such as the expiration date of the card (”Credit Card Information”) when an individual places an order from COMMITTEE.  When the Credit Card Information is submitted to COMMITTEE, such information is encrypted and is protected with SSL encryption software. COMMITTEE will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to Third Parties only as necessary to complete the purchase transaction. Contributions are non-refundable. You will receive an email confirmation of your contribution.**
+**COMMITTEE may in certain cases collect credit card numbers and related information, such as the expiration date of the card (“Credit Card Information”) when an individual places an order from COMMITTEE.  When the Credit Card Information is submitted to COMMITTEE, such information is encrypted and is protected with SSL encryption software. COMMITTEE will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to Third Parties only as necessary to complete the purchase transaction. Contributions are non-refundable. You will receive an email confirmation of your contribution.**
 
 ****1.10 Links to External Websites.****
 
@@ -198,3 +198,5 @@ as of: 3/17/2009**
 
 **Last  
 Updated On: 3/17/2009**
+
+[](http://tellafriend.socialtwist.com/)
