@@ -1,25 +1,52 @@
-> *The following text is extracted and transformed from the fenopy.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214052105id_/http%3A//fenopy.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fenopy.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629100858id_/http%3A//fenopy.com/info/privacy) for the most accurate reproduction.*
 
-# Torrent Engine : Fenopy
+# Fast and easy torrent downloads - Fenopy.com
 
-## Fenopy Privacy Policy
+#### Fenopy Privacy Policy
 
-**Privacy Policy**
+**What information do we collect?**
 
- **Your Privacy**
+We collect information from you when you register on our site. 
 
-Fenopy.com is committed to protecting your privacy. Fenopy.com does not sell, trade or rent your personal information to other companies. Fenopy.com will not collect any personal information about you except when you specifically and knowingly provide such information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
-By using our Web site, you consent to the collection and use of this information by Fenopy.com. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Fenopy.com may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
+**What do we use your information for?**
 
-**Third Party Websites**
+Any of the information we collect from you may be used in one of the following ways: 
 
-We usethird-party companies when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide information on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/optout_nonppii.asp)
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**Third Party Cookies**
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
-
-**Modification of Privacy Policy**
-
-Fenopy.com reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+> 
+> **How do we protect your information?**
+> 
+> We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+> 
+> **Do we use cookies?**
+> 
+> Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+> 
+> We use cookies to help us remember, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+> 
+> If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
+> 
+> **Do we disclose any information to outside parties?**
+> 
+> We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+> 
+> **Third party links**
+> 
+> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+> 
+> **Online Privacy Policy Only**
+> 
+> This online privacy policy applies only to information collected through our website and not to information collected offline.
+> 
+> **Terms and Conditions**
+> 
+> Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://fenopy.com/info/tos.html>
+> 
+> **Changes to our Privacy Policy**
+> 
+> If we decide to change our privacy policy, we will post those changes on this page. 
