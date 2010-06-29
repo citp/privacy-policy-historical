@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planningfamily.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231064239id_/http%3A//www.planningfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planningfamily.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629111657id_/http%3A//www.planningfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Planning Family Privacy Policy
 
