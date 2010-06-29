@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the apus.edu privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229064836id_/http%3A//www.apus.edu/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apus.edu privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629185023id_/http%3A//www.apus.edu/privacy/index.htm) for the most accurate reproduction.*
 
 # APUS Privacy Policy
 
 ### Privacy, Security, and Customer Service
 
  **Online Privacy**  
-Online privacy is important to us. As such, it is the policy of American Public University System (APUS) to collect and retain personal information only to the extent necessary to provide necessary services. APUS will collect only the information required to comply with state of West Virginia, North Central Association of Colleges and Schools (NCA), and/or other federal agency reporting requirements to ensure the institution is providing the necessary services required to function as a nationally accredited institution of higher learning.
+Online privacy is important to us. As such, it is the policy of American Public University System (APUS) and its member institutions, American Public University (APU) and American Military University (AMU), to collect and retain personal information only to the extent necessary to provide necessary services. APUS will collect only the information required to comply with state of West Virginia, North Central Association of Colleges and Schools (NCA), and/or other federal agency reporting requirements to ensure the institution is providing the necessary services required to function as a nationally accredited institution of higher learning.
 
 Consistent with this policy, APUS collects information in the following ways:
 
@@ -38,8 +38,8 @@ As part of APUS's commitment to security, the organization has adopted the Core 
 APUS web sites use Secure Sockets Layer (SSL) protocol for financial transactions and where personal information is submitted. APUS is in compliance with Visa's Cardholder Information Security Program (CISP).
 
  **Finance Customer Service and how to Acquire Additional Information  **  
-The APUS Staff is committed to providing every student with prompt, high-quality support at all times. E-mail is the primary form of contact for APUS students and the institution encourages students to e-mail us with their questions, comments and concerns. Each APUS member institution has a [contact page](http://www.apus.edu/APUS/Contact-Us/Contact-Us.htm) listing essential e-mail addresses and fax numbers as a reference for all students. APUS students should always include their full name and student ID in all correspondence so that the APUS staff and faculty can quickly locate their record.
+The APUS Staff is committed to providing every student with prompt, high-quality support at all times. E-mail is the primary form of contact for APUS students and the institution encourages students to e-mail us with their questions, comments and concerns. Each APUS member institution has a [contact page](http://www.apus.edu/contact_us/) listing essential e-mail addresses and fax numbers as a reference for all students. APUS students should always include their full name and student ID in all correspondence so that the APUS staff and faculty can quickly locate their record.
 
-Information on how to contact the APUS Finance office is located [here](http://www.apus.edu/APUS/Contact-Us/Contact-Us.htm).
+Information on how to contact the APUS Finance office is located [here](http://www.apus.edu/contact_us/).
 
-Information on how to contact Student Services and other offices within American Public University System can be found [here](http://www.apus.edu/APUS/Contact-Us/Contact-Us.htm).
+Information on how to contact Student Services and other offices within American Public University System can be found [here](http://www.apus.edu/contact_us/).
