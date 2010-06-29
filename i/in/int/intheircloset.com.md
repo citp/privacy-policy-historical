@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229040525id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheircloset.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629091334id_/http%3A//intheircloset.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ In order to enhance their use of this website, users can choose to leave comment
 
 ### Third Party Cookies
 
-Some of our business partners may use cookies on our site (for example, advertisers). However, InTheirCloset.com has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Celebrians only and does not cover the use of cookies by any advertisers.
+Some of our business partners may use cookies on our site (for example, advertisers). However, InTheirCloset.com has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by InTheirCloset.com only and does not cover the use of cookies by any advertisers.
 
 ### Third Party Advertising
 
