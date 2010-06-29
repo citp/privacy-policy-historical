@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverboating.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031051444id_/http%3A//www.discoverboating.com/info/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverboating.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629231243id_/http%3A//www.discoverboating.com/info/policy.htm) for the most accurate reproduction.*
 
 # Customer Privacy Policy
 
@@ -75,7 +75,7 @@ If, however, we are going to use users' personally identifiable information in a
 If users have any questions or suggestions regarding our privacy policy, please contact us at [support@discoverboating.com](mailto:support@discoverboating.com) or at:
 
 > National Marine Manufacturers Association  
-> 200 E. Randolph Dr. Suite 5100  
-> Chicago, IL 60601  
+> 231 S. LaSalle Street, Suite 2050  
+> Chicago, IL 60604  
 > United States of America  
 > Phone: (312) 946-6200
