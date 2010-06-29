@@ -1,33 +1,44 @@
-> *The following text is extracted and transformed from the gadgetell.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050237id_/http%3A//www.dabbledoo.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetell.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629155931id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
 
-# Dabbledoo Media - Corporate Home to Gadgetell, Appletell, and Gamertell
+# Privacy Policy : NAPCO
 
-This privacy policy covers all Dabbledoo Network sites. Please read this statement before accessing Dabbledoo sites. By using Dabbledooâ€™s sites, you are agreeing to abide by the Terms of this statement. 
+Privacy Policy
 
-### Comments
+This is a Web site of North American Publishing Company, publisher of business-to-business and consumer trade magazines, newsletters, directories and related products. 
 
-Dabbledoo gives readers the option to leave comments on posts. In order to leave a comment, users must leave their name and a valid email address for spam-fighting purposes. In addition, we use your IP address to help diagnose problems with our server and to administer our website. We will not pass on any of this information to any other organization.  
-Mailing Lists
+Our postal address is:  
+1500 Spring Garden Street, 12th Floor  
+Philadelphia, PA 19130 USA
 
-Dabbledoo at times may choose to launch mailing lists for its sites. In order to sign up for these lists, users must submit their email addresses. The mailing lists contain recent articles from Dabbledoo network sites and may eventually contain advertisements. Your personal information will not be shared with any other organization. 
+General inquiries can be directed to [customerservice@napco.com](mailto:customerservice@napco.com). Or you can reach us by telephone at (215) 238-5482 or toll free at (800) 777-8074.
 
-### Third Party Cookies
+We collect the e-mail addresses of those who voluntarily provide them to us. You may receive subscription, editorial and other messages from any North American Publishing Company (NAPCO) publication(s). If you do not want to receive e-mail from us in the future, please let us know at [http://remove.napco.com](http://remove.napco.com/). The e-mail addresses we collect may also be made available to certain third-parties who offer business-related products or services. We use an external vendor for processing these e-mail messages, and they will not be allowed to keep your e-mail address for their future use. We do not provide your e-mail address to any third-party company or advertiser except to comply with a legal or law enforcement process.
 
-From time to time, our business partners (advertisers) may use cookies on Dabbledoo sites. Since they are not our cookies, Dabbledoo has no control over them once we have given permission for them to set cookies for advertising. Therefore, this privacy policy covers only the use of cookies by Dabbledoo and does not cover the use by any of our advertisers. 
+If you do not want to receive business-related third party e-mail offers from NAPCO, please visit [http://remove.napco.com](http://remove.napco.com/). You also will be given an opportunity to stop receiving business-related third party e-mail offers each time an offer is sent to you. Full instructions will appear at the bottom of each e-mail. If you do not receive an e-mail within 48 hours confirming your request you can send an e-mail to [webmaster@napco.com](mailto:webmaster@napco.com?subject=Remove%20from%20Third-PartyE-mails).
 
-### Stats and Log Files
+The Web sites of North American Publishing Company utilize banner advertising serving software which will place a temporary Internet file ("cookie") on your computer's hard drive, which is done in order to properly report advertising impressions to company's who advertise with us on our Web sites. Cookies are also used to display particular content in "pop-up" windows and to set session identifiers for visitors who voluntarily join membership areas. Please note: No personal information (i.e., e-mail adresses, credit card numbers, etc.) is stored with cookies.
 
-Like most standard Web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement. 
+If you register to access the digital edition of any North American Publishing Company magazine, your registration information may be shared with our advertisers when you click on their ads or any other hyperlink that takes you to their Web sites.
 
-### Links
+If you supply us with your postal address you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not want to receive such mailings, please let us know by sending e-mail to us at the above address or writing to us at the above address. Please provide us with your exact name, company name and address. We will be sure your name is removed from the list we use internally which may on a limited basis be shared with other organizations.
 
-The Dabbledoo sites contain links to other sites. Please be aware that Dabbledoo is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Dabbledoo.
+Persons who supply us with their telephone numbers may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not want to receive such telephone calls, please let us know by sending email to us at the above address or writing to us at the above address. Please provide us with your exact name, company name, address and phone number. We will be sure your name is removed from the list we use internally which may on a limited basis be shared with other organizations.
 
-If we decide to change our privacy policy, you will be able to find the updated information on this page (<http://www.dabbledoo.com/privacy>). 
+We collect the mobile phone numbers of those who voluntarily provide them to us. Although any mobile program is complimentary and requires no purchase or fee for participation, standard messaging and data fees may apply. Check your mobile plan for more details. 
 
-### Contact
+Questions & comments about this Web site? E-mail: ryoegel@napco.com.
 
-If you read through our privacy policy and have any questions regarding it please [Contact Us](http://www.dabbledoo.com/home/contact/ "via our Contact page"). 
+_  
+_
+  * Updated June 30, 2009  
+Added information regarding the collection of mobile telephone numbers.
 
-  
+
+  * _Updated: January 20, 2006  
+_ Added information regarding access to NAPCO digital publications.
+
+
+  * _Updated: September 12, 2005:_  
+Modified part of Privacy Policy further explaining the types of e-mails subscribers/customers may receive.
+
 
