@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensbanking.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227230124id_/http%3A//www.citizensbanking.com/privacyStatement.aspx%3Fid%3D598) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensbanking.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629091320id_/http%3A//www.citizensbanking.com/privacyStatement.aspx%3Fid%3D598) for the most accurate reproduction.*
 
 # Citizens Bank: Privacy Statement
 
@@ -6,8 +6,6 @@
 
   * Citizens Bank Wealth Management, N.A.
   * Citizens Bank
-  * F&M Bank-Iowa
-  * F&M Insurance Services
 
 
 
@@ -45,7 +43,7 @@ We are very restrictive with your personal information. There are two primary re
 
 Affiliates are financial service companies that are part of the Citizens Republic Bancorp family through common ownership or control, and are listed at the beginning of this statement. Our affiliates may share, where permitted by law,  nonpublic personal information internally among ourselves so that we can serve you more efficiently, offer you new services, and reduce the amount of information you need to furnish every time you deal with us.
 
-Where permitted by law, weo share with our affiliates, information about your transactions or experiences with us. For example, we may share information about your account history, account balance and payment history. We do not share any other information such as income or credit history with our affiliates.
+Where permitted by law, we share with our affiliates, information about your transactions or experiences with us. For example, we may share information about your account history, account balance and payment history. We do not share any other information such as income or credit history with our affiliates.
 
 ### We provide information to select outside companies in order to service your accounts or help us introduce new services to you.
 
@@ -73,4 +71,4 @@ This policy is designed to comply with the privacy provisions in Title V of the 
 
 In addition, as we establish new affiliates in the future, these privacy standards will apply as well.
 
-Citizens Republic Bancorp © 2009 GLB
+Citizens Republic Bancorp © 2010 GLB
