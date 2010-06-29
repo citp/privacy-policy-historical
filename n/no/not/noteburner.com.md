@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noteburner.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617082654id_/http%3A//www.noteburner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noteburner.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630005032id_/http%3A//www.noteburner.com/privacy.html) for the most accurate reproduction.*
 
-# NoteBurner M4P Converter - M4P to MP3 Converter - Convert iTunes M4P, protected WMA to MP3
+# NoteBurner DRM Media Converter -- M4P to MP3, M4P to AAC, Audiobook to MP3, M4V to MP4, M4V to MOV
 
 Our goal in handling information provided to us in connection with the processing of transactions on our Website is to comply with applicable data privacy laws and to offer users of our Website notice, choice, consent, security, data integrity, access and enforcement with regard to personal information provided to us by individuals in conjunction with those transactions.
 
