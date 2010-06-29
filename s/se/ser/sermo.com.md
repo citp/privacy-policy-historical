@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2008-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080524181403id_/http%3A//www.sermo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629072941id_/http%3A//www.sermo.com/about/privacy) for the most accurate reproduction.*
 
-# Sermo - Know more. Know earlier.
+# Privacy Policy | Sermo.com
 
 ## General Statement
 
-This Privacy Policy ("Privacy Policy") discloses the privacy practices for Sermo, Inc. (collectively "Sermo") with regard to your ("You" or "Your") use of the website (www.sermo.com) (the "Site" or "Sites"). Sermo is committed to Your privacy. Sermo hereby notifies You of the following:
+This Privacy Policy ("Privacy Policy") discloses the privacy practices for Sermo, Inc. (collectively "Sermo") with regard to your ("You" or "Your") use of the website ([www.sermo.com](http://www.sermo.com/ "www.sermo.com")) (the "Site" or "Sites"). Sermo is committed to Your privacy. Sermo hereby notifies You of the following:
 
   1. What personally identifiable information is collected from You through this Site.
   2. How the information is used.
   3. How the information may be shared.
-  4. How Sermo protects Your information. 
+  4. How Sermo protects Your information.
   5. How You can seek to correct any inaccuracies in the information.
   6. What Sermo's contact address is for privacy questions.
 
+  
 
 
 ### 1\. WHAT PERSONALLY IDENTIFIABLE INFORMATION OF YOURS IS COLLECTED
 
 #### a. Information collection and use
 
-Sermo is the sole owner of the information collected on this Site. We will not sell, share, transfer or rent any personal information to others in ways different from what is disclosed in this statement and the [Terms of Use](https://web.archive.org/about/terms). Sermo collects information from You on the Profile and Registration pages ("Profile pages") on our Site. Sermo reserves the right to collect, disseminate, sell or otherwise disclose non-personal information provided by You.
+Sermo is the sole owner of the information collected on this Site. We will not sell, share, transfer or rent any personal information to others in ways different from what is disclosed in this statement and the [Terms of Use](https://web.archive.org/aux/terms). Sermo collects information from You on the Profile and Registration pages ("Profile pages") on our Site. Sermo reserves the right to collect, disseminate, sell or otherwise disclose non-personal information provided by You.
 
 #### b. Registration
 
@@ -45,7 +46,7 @@ Sermo strongly encourages parents and guardians to supervise the online activiti
 
 #### g. Opt Out Procedures
 
-Upon initial communication from Sermo, You may opt-out of receiving further communications from Sermo. To be completely removed from the Sermo mailing list, You may contact admin@sermo.com. If You are using an e-mail forwarding service or other similar service please make sure to include the correct e-mail address or addresses.
+Upon initial communication from Sermo, You may opt-out of receiving further communications from Sermo. To be completely removed from the Sermo mailing list, You may contact [admin@sermo.com](mailto:admin@sermo.com). If You are using an e-mail forwarding service or other similar service please make sure to include the correct e-mail address or addresses.
 
 ### 2\. HOW THE INFORMATION IS USED
 
@@ -97,7 +98,7 @@ Sermo takes all necessary precautions to protect Your personal information both 
 
 #### b. Links
 
-The Sites, www.sermo.com, may contain links to other sites. The linked sites are not necessarily under the control of Sermo. Please be aware that Sermo is not responsible for the privacy practices of such other sites. Sermo encourages You to be aware when You leave this Site and to read the privacy policies of each and every web site that collects personally identifiable information. If You decide to access any of the third-party sites linked to this Site, You do this entirely at Your own risk. Any links to any partner of the Site should be the responsibility of the linking party, and Sermo shall not be responsible for notification of any change in name or location of any information on the Site.
+The Sites, [www.sermo.com](http://www.sermo.com/ "www.sermo.com"), may contain links to other sites. The linked sites are not necessarily under the control of Sermo. Please be aware that Sermo is not responsible for the privacy practices of such other sites. Sermo encourages You to be aware when You leave this Site and to read the privacy policies of each and every web site that collects personally identifiable information. If You decide to access any of the third-party sites linked to this Site, You do this entirely at Your own risk. Any links to any partner of the Site should be the responsibility of the linking party, and Sermo shall not be responsible for notification of any change in name or location of any information on the Site.
 
 ### 5\. CORRECTING INACCURACIES
 
@@ -107,7 +108,7 @@ If Your personally identifiable information changes (such as address or payment 
 
 #### b. Notification of Changes
 
-If Sermo decides to change the Privacy Policy for this Site, Sermo will post those changes on www.sermo.com so You are always aware of what information Sermo collects, how Sermo uses it, and under what circumstances, if any, Sermo discloses it. If at any point Sermo decides to use personally identifiable information in a manner different from that stated at the time it was collected, Sermo will notify users by way of an e-mail. If You have provided personally identifiable information before the changes in Sermo's Privacy Policy, You will have a choice as to whether or not Sermo uses Your information in this different manner. If You choose that Sermo not use Your personally identifiable information in accordance with the new privacy policy, Sermo will use information in accordance with the privacy policy under which the information was originally collected.
+If Sermo decides to change the Privacy Policy for this Site, Sermo will post those changes on [www.sermo.com](http://www.sermo.com/ "www.sermo.com") so You are always aware of what information Sermo collects, how Sermo uses it, and under what circumstances, if any, Sermo discloses it. If at any point Sermo decides to use personally identifiable information in a manner different from that stated at the time it was collected, Sermo will notify users by way of an e-mail. If You have provided personally identifiable information before the changes in Sermo's Privacy Policy, You will have a choice as to whether or not Sermo uses Your information in this different manner. If You choose that Sermo not use Your personally identifiable information in accordance with the new privacy policy, Sermo will use information in accordance with the privacy policy under which the information was originally collected.
 
 #### c. Site and Service Updates
 
@@ -119,9 +120,7 @@ The [Terms of Use](https://web.archive.org/about/terms) Agreement is incorporate
 
 ### 6\. WHAT IS SERMO'S CONTACT ADDRESS FOR PRIVACY QUESTIONS
 
-Should You have questions about this policy or Sermo's information collection, use and disclosure practices, You may contact us at the address www.sermo.com/contact or Sermo, Inc. 215 First Street, Cambridge, MA 02142. We will use reasonable efforts to respond promptly to requests, questions or concerns You may have regarding our use of personal information about You. Except where required by law, Sermo cannot ensure a response to questions or comments regarding topics unrelated to this policy or Sermo's privacy practices. 
-
-v1.4
+Should You have questions about this policy or Sermo's information collection, use and disclosure practices, You may contact us at the address [www.sermo.com/contact](http://www.sermo.com/contact "www.sermo.com/contact") or Sermo, Inc. 215 First Street, Cambridge, MA 02142. We will use reasonable efforts to respond promptly to requests, questions or concerns You may have regarding our use of personal information about You. Except where required by law, Sermo cannot ensure a response to questions or comments regarding topics unrelated to this policy or Sermo's privacy practices.
 
   
 
