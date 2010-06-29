@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registerguard.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113081213id_/http%3A//special.registerguard.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registerguard.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629173659id_/http%3A//special.registerguard.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | The Register-Guard
 
@@ -64,3 +64,35 @@ PO Box 10188
 Eugene, OR 97404  
 E-mail: webmaster@guardnet.com  
 Last updated: August 15, 2005
+
+Advertisement
+
+* * *
+
+### Most Popular
+
+* * *
+
+Advertisement
+
+* * *
+
+[](http://classifieds.registerguard.com/classifieds/topjobs/100/)
+
+* * *
+
+### [Introducing "go" Entertainment](http://go.registerguard.com/entertainment/)
+
+[](http://go.registerguard.com/entertainment/)
+
+Welcome to the Register-Guard's new online event calendar. With concerts, art exhibits, dance, comedy, lectures and more, if it takes place in and around Lane County, you'll know about it here. [We welcome your feedback](http://go.registerguard.com/entertainment/feedback/)!
+
+* * *
+
+[](http://blogs.registerguard.com/cms/index.php/static/advertising/coupons/)
+
+* * *
+
+### Have Fun, Win Tickets
+
+Advertisement
