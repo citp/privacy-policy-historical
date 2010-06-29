@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227185028id_/http%3A//www.samaritanspurse.org/index.php/Who_We_Are/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630011614id_/http%3A//www.samaritanspurse.org/index.php/Who_We_Are/Privacy_Policy) for the most accurate reproduction.*
 
-# Samaritan's Purse
+# None
 
 Our Privacy Policy is to protect and secure the personal information you provide to our ministry online
 
