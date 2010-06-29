@@ -1,178 +1,119 @@
-<!--The following is the downloaded HTML source of the dealspl.us privacy policy that was archived on 2009-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090328131548id_/http%3A//dealspl.us/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealspl.us privacy policy that was archived on 2010-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629143407id_/http%3A//dealspl.us/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-        <title>Our Privacy Policy - DealsPlus</title>
-    	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <title>Our Privacy Policy - dealspl.us</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    	<link rel="shortcut icon" href="/favicon.ico?v=32" type="image/x-icon">
 	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/dealsplus">
-		<link type="text/css" rel="stylesheet" href="/css/loader/236/forms|generic|layout-pages|layout-structure|media|type|plus">
-	<!--[if lte IE 6]>
+		<link type="text/css" rel="stylesheet" href="/css/loader/988/forms|generic|layout-pages|layout-structure|media|type|plus">
+	<!--[if IE 6]>
 	<link href="/css/ie6-cat-menu.css" rel="stylesheet" type="text/css">
 	<link href="/css/ie6-styles.css" rel="stylesheet" type="text/css">
 	<![endif]-->
-	<!--[if gte IE 7]>
+	<!--[if IE 7]>
 	<link href="/css/ie7-styles.css" rel="stylesheet" type="text/css">
 	<![endif]-->
-		<script src="/js/loader/114/lib-prototype|lib-scriptaculous|lib-effects|lib-controls|header|display|globals|signup" type="text/javascript" charset="utf-8"></script>
-    </head>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/loader/989/framework-jquery|lib-jq.ui|lib-jq.ac|lib-jq.easing|framework-Util|header|display|globals|signup" type="text/javascript" charset="utf-8"></script>
+    <style>
+.sAContent {    padding:0 0 20px;}
+h4 { background-color:#dfe4e8; padding:5px; margin:20px 0 10px;}
+</style>
+</head>
 <body>
 
 	
-	<div class="container">
+		<div id="header">
+            <div class="box">
+                <a id="logo" href="/" title="dealspl.us Home"><img src="/images/dp2/logo.png" alt="dealspl.us logo"></a>
+
+                <div id="top-search">
+					<span id="selectDeals" class="iconMap dealOn"><a onclick="switchAuto('deals');">Deals</a></span><span id="selectCoupons" class="iconMap couponOff"><a onclick="switchAuto('coupons');">Coupons</a></span>
+					<form method="get" name="main_search" id="mainSearchBar" action="/search.php"><div>
+						<input type="hidden" name="search_opt" value="deals">
+
+						<div id="search_div">
+							<input type="text" maxlength="128" name="keyword" class="search_input" value="" id="search_auto_bar" disabled="disabled">
+						</div>
+						<input type="submit" id="top_search_bttn" class="iconMap" value="Search"></div>
+					</form>
+                    <div id="topSearchKeywords">
+                        Popular: <a href="/TV_deals" title="TV deals" onclick="trackPage(1,'F_TC2','0');">TV</a> <a href="/Laptop_deals" title="Laptop deals" onclick="trackPage(2,'F_TC2','0');">Laptop</a> <a href="/hp-coupons" title="HP coupons" onclick="trackPage(3,'F_TC2','0');">HP</a> <a href="/dell-coupons" title="Dell coupons" onclick="trackPage(4,'F_TC2','0');">Dell</a> <a href="/snapfish-coupons" title="Snapfish coupons" onclick="trackPage(5,'F_TC2','0');">Snapfish</a>  
+                    </div>
+                    <script type="text/javascript" charset="utf-8">
+                        $(document).ready(function() {
+                            createAutoCompleter('search_auto_bar', '/ajax/ajax.stores_auto.php', { cacheLength : 10, max : 10 }, submitSearch);
+                            $('#search_auto_bar').removeAttr('disabled');
+                        });
+					</script>
+                    <a href="/submit" id="submitButton" class="iconMap">Share</a>
+				</div>
+            </div>
+            
+            
+			<div class="clear"></div>
+        </div>
+
+        <div id="topNavContainer">
+            <div class="box">
+                <ul id="topMenu">
+                    <li><a href="/">Deals</a></li>
+                    <li><a href="/coupons">Coupons</a></li>
+                </ul>
+                <ul id="userMenu">
+                    <li><a href="/login" class="firstMenuLink" onclick="showOverBox('login'); return false;">Sign In</a></li>
+                    <li><a href="/signup"><span>New User?</span> Sign Up!</a></li>
+                </ul>
+                <div class="clear"></div>
+                <div id="over-box" style="display:none;"></div>
+                <div id="dark-overlay" style="display:none;"></div>
+                <div id="image-box" style="display:none;"></div>
+                <div id="video-box" style="display:none;"></div>  
+            </div>
+        </div>
+        <div class="clear"></div>            
+
 	
-		<div class="header" style="background:white;">
-			<div class="head">
-				<div class="logo">
-                    <a href="/"><img src="/images/logo2.gif" alt="DealsPlus"></a>
-                </div>
-                <div class="slogan">
-                    <span class="red bold">Never Pay Retail Again!</span>
-                </div>
-				<div class="usercp">
-					<div class="options">
-    						<a class="o-block" href="/signup" style="border-right:0;"><strong>Sign Up!</strong></a>
-						<a class="o-block" href="/login" onclick="showOverBox('login'); return false;"><span>Sign In</span></a>
-						<a class="o-block" href="/invite" onmouseover="highlight_icon('invite','on');" onmouseout="highlight_icon('invite','off');"><span class="block icon_ucp_green invite" id="invite">Invite Users</span></a>
-						<a class="o-block" href="/submit" onclick="showOverBox('submit'); return false;" onmouseover="highlight_icon('submit','on');" onmouseout="highlight_icon('submit','off');"><span class="block icon_ucp_green submit" id="submit">Submit!</span></a>
-						
-                        <!-- lightweight lightbox divs -->
-                        <div id="over-box" style="display:none;"></div>
-                        <div id="dark-overlay" style="display:none;"></div>
-                        <div id="image-box" style="display:none;"></div>
-						<div id="video-box" style="display:none;"></div>                                            
-						<div class="clear"></div>
-					</div>
-					<div class="clear"></div>
-					<div class="fright mart10">
-						<a href="/dealsplus_giveaway_500_free_mousepads_updated_136573" class="font11 green"><b>Click here for a free mousepad!</b></a>
-					</div>
-					<div class="clear"></div>
-					
-				</div>
-			</div>
-			<div id="top-nav">
-				<div id="menu-top">
-					<a class="tab" href="/">Home</a>
-					<a class="tab" href="/cheap-deals" id="tab-deals">Deals</a>
-					<a class="tab" href="/coupons" id="tab-coupons">Coupons</a>
-					<a class="tab" href="/shopping-list">Lists</a>
-					<a class="tab" href="/community">Community</a>
-				</div>
-				<div id="top-search">
-					<div class="search">
-						<form method="get" style="margin:0;" name="main_search" action="/search.php" onsubmit="return submit_form_search(this); return false;">
-							<div id="search_div">
-								<input type="text" name="keyword" class="search_input" value="" id="search_bar">
-							</div>
-							<div class="inline">
-								<select class="search_type" name="search_opt" id="top_search_select_option" onchange="switchAuto(this.value);">
-	    									<option value="Deals">Deals</option>
-	    									<option value="Coupons">Coupons</option>
-	    									<option value="Community">Community</option>
-	    								</select>
-								<input type="image" name="post" id="top_search_bttn" class="search_button" src="/images/icon/search-button.gif" onmouseover="switchButtonImg(this, '/images/icon/search-button-hover.gif');" onmouseout="switchButtonImg(this, '/images/icon/search-button.gif');">
-							</div>
-						</form>
-						<div id="stores" class="auto_complete" style="display:none;"></div>
-    						</div>
-				</div>
-				<div class="clear"></div>
-			</div>
-		</div>
-	
-		<div class="content_container">
-			<div class="content_bg">
-			
-    				<div class="menu-cat" id="menu-deals" style="display:block">
-                    <script type="text/javascript">
-                        new Ajax.Updater('menu-deals', '/ajax/ajax.submenu.php', {method: 'get', parameters: {option: '', selCatName: ''}});
-                    </script>
-				</div>
-				<div id="main_content" class="content">
+    <div id="container">
+    			<div id="main_content" class="content">
 				
 				<h1>Our Privacy Policy</h1>
 
 				<div class="content_left">
 
-					
-					<div class="module_lg">
-						<div class="top"><!--ie sucks--></div>
-						<div class="content">							
-<h3>Our Privacy Policy</h3>
+<strong>Our Privacy Policy</strong>	<br>
+<br>Here at dealspl.us we recognize that your privacy is very important, and to keep you informed about our privacy practices we ask that you please read the guidelines described below. Keep in mind that because dealspl.us is a growing website and internet technologies are constantly evolving, these guidelines are subject to change and any said changes will be posted on this page. Any material changes from current practices will be posted on the main page of this website to serve as notice. dealspl.us is not responsible for the content or the privacy policies of websites to which it may link.<br>
 
-We here at DealsPlus recognize that your privacy is very important. Please read the following to learn more about our privacy policy guidelines. Since this is a growing website and because Internet technologies are constantly evolving, these guidelines are subject to change and any changes will be posted on this page. Any material changes from current practices will be posted on the main page of this website to serve as notice.
+<br><b>Personal Information</b><br>
+<br>During registration for membership, we may collect personal information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for more information. We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. When you are online, we collect information regarding the pages within our network that you visit. We may also acquire lists from other sources, both from other companies and from other public documents. For each visitor on our website, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We do not collect information on consumers who browse our website.<br>
 
-DealsPlus is not responsible for the content or the privacy policies of websites to which it may link.
+<br><b>Use of Information</b><br>
+<br>We use your information to provide our services to you, to fulfill administrative functions associated with these services, to enter into contracts with you or third parties, and for marketing and client relationship purposes. You may receive e-mails from us to let you know about new products, services, and upcoming events that may interest you. If you do not want to receive e-mails from us or you want to make changes to your e-mail settings, please change your setting under your setting tab.  We will never sell or distribute your e-mail address to other companies or organizations, and your account password will always remain protected.  We may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes, and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check our Privacy Policy periodically.<br>
 
-<br><br><strong>Personal Information</strong>
+<br><b>Cookies</b><br>
+<br>A cookie is a piece of data that a website transfers to an individual's hard drive for record-keeping purposes. Cookies can facilitate a user's ongoing access to and use of a site, and they allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. But you should note that cookies may be necessary to provide you with features such as merchandise transactions or registered services.<br>
 
-<br>During registration for membership, we may collect personal information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for more information.
+<br><b>Children</b><br>
+<br>The Children's Online Privacy Protection Act (COPPA) of 1998 provides safeguards to protect children who use the internet by regulating the online collection of personal information from children under the age of 13. Because of these safeguards, children under the age of 13 are not able to access or use all products and services on dealspl.us. For more information, see our Children's Policy.<br>
 
-We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us.
+<br><b>Use of Aggregate Data</b><br>
+<br>We may collect certain non-personal information to optimize our website for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address, and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our website. dealspl.us may use personally identifiable information in aggregate form to improve our goods and services, including our website, and to make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by dealspl.us, or provided to others as a summary report for marketing, advertising, or research purposes.<br>
 
-When you are online, we collect information regarding the pages within our network that you visit.
+<br><b>Confidentiality and Security</b><br>
+<br>We limit access to personal information about you to employees for whom we reasonably believe it is necessary in order to provide products or services to you. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect against the loss, misuse, or alteration of information that we have collected from you at our website.<br>
 
-We may also acquire lists from other sources, both from other companies and from other public documents.
+<br><ul><b>What else you should know about privacy on the Internet</b>
 
-For each visitor to our website, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We do not collect information on consumers who browse our website.
+<li>Remember to close your browser when you have finished your dealspl.us session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place, like a library or internet cafe. You as an individual are responsible for the security of and access to your own computer.
+</li><li>Whenever you voluntarily disclose personal information over the internet, this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return.
+</li><li>Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information.
+</li><li>Please be careful and responsible whenever you are using the internet. </li></ul>
 
-<br><br><strong>Use of Information</strong>
 
-<br>We use your information to provide our services to you, to fulfill administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes.
-
-You may receive e-mail from us to let you know about new products, services and upcoming events that may interest you. If you do not want to receive an e-mail from us in the future, please let us know by sending us e-mail at the address provided below.
-
-We may make our customer and user e-mail list and other information available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address and/or other information with other companies or organizations, please let us know by e-mailing us at the address provided below. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
-
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at the address provided below. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
-
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by e-mailing us at the address provided below. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
-
-We may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-<br><br><strong>Cookies</strong>
-
-<br>Cookies are data that a website transfers to an individual's hard drive for record-keeping purposes. Cookies can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising.
-
-If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services.
-
-<br><br><strong>Children</strong>
-
-<br>The Children's Online Privacy Protection Act (COPPA) of 1998 provides safeguards to protect children who use the Internet by regulating the online collection of personal information from children under the age of 13. Because of these safeguards, children under the age of 13 are not able to access or use all Products and Services on DealsPlus. For more information, see our Children's Policy.
-
-<br><br><strong>Access or Edit your Information</strong>
-
-<br>Upon request we provide our website visitors with access to a description of information that we maintain about them. Users can access this information by emailing us at the address provided below.
-
-<br><br><strong>Use of Aggregate Data</strong>
-
-<br>We may collect certain non-personal information to optimize our goods and services including our website for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our websites.
-
-DealsPlus may use personally identifiable information in aggregate form to improve our goods and services including our websites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by DealsPlus or provided to others as a summary report for marketing, advertising or research purposes.
-
-<br><br><strong>Confidentiality and Security</strong>
-
-<br>We limit access to personal information about you to employees for whom we reasonably believe it is necessary in order to provide products or services to you. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect against the loss, misuse or alteration of information that we have collected from you at our website.
-
-<br><br><strong>What else you should know about privacy on the Internet</strong>
-
-<ul>
-	<li>Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You as an individual are responsible for the security of and access to your own computer. 
-
-	</li><li>Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. 
-
-	</li><li>Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. 
-
-	</li><li>Please be careful and responsible whenever you are using the Internet. 
-</li></ul>								
-						</div>
-						<div class="bot"><!--ie sucks--></div>
-					</div>	
-					
+<br><i>If you have any questions about our Privacy Policy, or you would like to cancel your account, please contact us at support@dealspl.us  </i>					
 				</div>
 
-				<div class="content_right">
+				<div class="content_right4">
 				
 												
 					<div class="module_sm">
@@ -181,125 +122,118 @@ DealsPlus may use personally identifiable information in aggregate form to impro
 							<h3>Help Categories</h3>
 							<a href="/info/about" class="block-highlight">About Us</a>
 							<a href="/info/contact" class="block-highlight">Contact Us</a>
-							<a href="http://blog.dealspl.us" class="block-highlight">DealsPlus Blog</a>
-							<a href="/info/dp_tools" class="block-highlight">DealsPlus Tools</a>
+							<a href="http://blog.dealspl.us" class="block-highlight">dealspl.us Blog</a>
+							<a href="/info/dp_tools" class="block-highlight">dealspl.us Tools</a>
 							<a href="/info/faqs" class="block-highlight">Frequently Asked Questions (FAQs)</a>
 							<a href="/info/rules" class="block-highlight">Community Rules &amp; Guidelines</a>
 							<a href="/info/tour" class="block-highlight">Getting Started Guide</a>
-							<a href="/info/retailers" class="block-highlight">DealsPlus for Retailers</a>		
+							<a href="/info/retailers" class="block-highlight">dealspl.us for Retailers</a>		
 							<a href="/info/privacy" class="block-highlight-selected">Privacy Policy</a>
 							<a href="/info/tos" class="block-highlight">Terms of Service</a>
 						</div>
 						<div class="bot"><!--ie sucks--></div>
 					</div>
-	
+                    
 				</div>
 
 				<div class="clear"></div>
 			</div>
-		</div>
-		<div class="content_bot"></div>
 	</div>
 
 	<div id="footer">
-		<div class="footer-section">
-			<div class="top"><!--ie sucks--></div>
-			<div class="main">
-				<div class="f_content">
-					<div class="column font11">
-						<h3>Site Links</h3>
-						<a href="/" class="block-highlight-sm">Home</a>
-						<!--a href="javascript:void(0);" class="block-highlight-sm">Search</a-->
-						<a href="/cheap-deals" class="block-highlight-sm">Deals</a>
-						<a href="/coupons" class="block-highlight-sm">Coupons</a>
-						<a href="/shopping-list" class="block-highlight-sm">Lists</a>
-						<a href="/community" class="block-highlight-sm">Community</a>
-						<a href="/feeds.php" class="block-highlight-sm">RSS Feeds</a>
-						<a href="/info/tos" class="block-highlight-sm">Terms of Use</a>
-						<a href="/info/privacy" class="block-highlight-sm" style="border-bottom:1px solid #eee;">Privacy Policy</a>
-					</div>
-	
-					<div class="column font11">
-						<h3>Help</h3>
-						<a href="/info/about" class="block-highlight-sm">About Us</a>
-						<a href="/info/contact" class="block-highlight-sm">Contact Us</a>
-						<a href="http://blog.dealspl.us" class="block-highlight-sm">DealsPlus Blog</a>
-						<a href="/info/dp_tools" class="block-highlight-sm">DealsPlus Tools</a>
-						<a href="/info/faqs" class="block-highlight-sm">Frequently Asked Questions</a>
-						<a href="/info/tour" class="block-highlight-sm">Getting Started Guide</a>
-						<a href="/info/faqs" class="block-highlight-sm">How DealsPlus Works</a>
-						<a href="/info/contact?tid=8" class="block-highlight-sm" style="border-bottom:1px solid #eee;">Report a Bug</a>
-						<a href="/info/retailers" class="block-highlight-sm">For Retailers | Create a Store</a> 
-					</div>
-	
-					<div class="column font11">
-						<h3>RSS</h3>
-						<a href="http://feeds.feedburner.com/dealsplus" rel="alternate" type="application/rss+xml" class="block-highlight-sm"><span class="rss-icon-sm font11 link-color">Deals</span></a>
-						<a href="http://feeds.feedburner.com/dealspl/all" title="Subscribe to my feed, dealsplus-all" rel="alternate" type="application/rss+xml" class="block-highlight-sm"><span class="rss-icon-sm font11 link-color">All Deals</span></a>
-						<a href="http://feeds.feedburner.com/DealsplusPopularCoupons" class="block-highlight-sm"><span class="rss-icon-sm font11 link-color">Coupons</span></a>
-						<a href="/feeds.php" class="block-highlight-sm">More...</a>
-						<a href="http://twitter.com/dealsplus" class="block-highlight-sm">Twitter</a>
-						<a href="http://feeds.feedburner.com/dealsplus" class="block-highlight-sm">Add Daily Deals to Your <strong>Google</strong>, <strong>Yahoo</strong>, and More...</a>
+		<div class="box">
+			<div class="column" style="margin-left:10px; width:150px;">
+				<h3>Site Links</h3>
+				<a href="/" class="block-highlight-sm">Home</a>
+				<a href="/deals/new/newest" class="block-highlight-sm">Deals</a>
+				<a href="/coupons" class="block-highlight-sm">Coupons</a>
+				<a href="/submit" class="block-highlight-sm">Submit</a>
+				<a href="/giveaway/" class="block-highlight-sm">Giveaways</a>
+				<a href="/community" class="block-highlight-sm">Community</a>
+				<a href="http://m.dealspl.us/" class="block-highlight-sm">Mobile</a>
+				<a href="/feeds.php" class="block-highlight-sm">RSS Feeds</a>
+				<a href="/info/tos" class="block-highlight-sm">Terms of Use</a>
+				<a href="/info/privacy" class="block-highlight-sm">Privacy Policy</a>
+			</div>
 
-						
-							<div class="bold dk_grey mart10">Subscribe to Daily Deals</div>
-							<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=dealsplus', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-								<input type="hidden" value="dealsplus" name="uri">
-								<input type="hidden" name="loc" value="en_US">
-							
-								<div>
-									<div style="padding:3px 0 "><input type="text" style="width:150px" class="generic-form font11" name="email" value="Enter Your Email" onfocus="javascript:this.value=''"></div>
-									<input type="submit" value="Subscribe">
-								</div>
-							</form>
-											</div>
+			<div class="column">
+				<h3>Help</h3>
+				<a href="/info/about" class="block-highlight-sm">About Us</a>
+				<a href="/info/contact" class="block-highlight-sm">Contact Us</a>
+				<a href="/info/jobs" class="block-highlight-sm">Jobs</a>
+				<a href="http://blog.dealspl.us" class="block-highlight-sm">dealspl.us Blog</a>
+				<a href="/info/dp_tools" class="block-highlight-sm">dealspl.us Tools</a>
+				<a href="/info/faqs" class="block-highlight-sm">Frequently Asked Questions</a>
+				<a href="/info/tour" class="block-highlight-sm">Getting Started Guide</a>
+				<a href="/info/contact?tid=8" class="block-highlight-sm">Report a Bug</a>
+				<a href="/info/retailers" class="block-highlight-sm">For Retailers | Create a Store</a>
+				<a href="/account/intro.php" class="block-highlight-sm">Money Makers</a>
+				<a href="/invite" class="block-highlight-sm">Invite</a>
+			</div>
+
+			<div class="column">
+				<h3>RSS</h3>
+				<a href="http://feeds.feedburner.com/dealsplus"><img src="http://feeds.feedburner.com/~fc/dealsplus?bg=ccccccc&amp;fg=333333&amp;anim=0" height="26" width="88" style="border:0" alt=""></a>
+				<a href="http://feeds.feedburner.com/dealsplus" rel="alternate" type="application/rss+xml" class="block-highlight-sm"><span class="rss-icon-sm font11 white">Deals</span></a>
+				<a href="http://feeds.feedburner.com/dealspl/all" title="Subscribe to my feed, dealsplus-all" rel="alternate" type="application/rss+xml" class="block-highlight-sm"><span class="rss-icon-sm font11 white">All Deals</span></a>
+				<a href="http://feeds.feedburner.com/DealsplusPopularCoupons" class="block-highlight-sm"><span class="rss-icon-sm font11 white">Coupons</span></a>
+				<a href="/feeds.php" class="block-highlight-sm">More...</a>
+				<a href="http://twitter.com/dealsplus" class="block-highlight-sm">Twitter</a>
+				<a href="http://www.facebook.com/pages/DealsPlus/88570671926" class="block-highlight-sm">Facebook</a>
+				<a href="http://feeds.feedburner.com/dealsplus" class="block-highlight-sm">Add Daily Deals to Your <strong>Google</strong>, <strong>Yahoo</strong>, and More...</a>
+
+				
+					<div class="bold mart10">Subscribe to Daily Deals</div>
+					<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=dealsplus', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" class="inline">
+                        <div>
+						<input type="hidden" value="dealsplus" name="uri">
+						<input type="hidden" name="loc" value="en_US">
 					
-					<div class="column font11" style="width:335px; border:0;">
-						<h3>Recently Shared Coupons</h3>
+						<div>
+							<div style="padding:3px 0 "><input type="text" maxlength="64" style="width:150px;" class="generic-form font11" name="email" value="Enter Your Email" onfocus="javascript:this.value=''"></div>
+							<input type="submit" value="Subscribe">
+						</div>
+                        </div>
+					</form>
+							</div>
+			
+			<div class="column" style="width:335px; border:0;">
+				<h3>Recently Shared Coupons</h3>
 
 
-												<a class="block-highlight-sm" href="/walgreens-coupons">Walgreens Coupons <span class="lt_grey font11">Get $5 off any online purchase of $20...</span></a> 
-												<a class="block-highlight-sm" href="/cellhut-coupons">CellHut Coupons <span class="lt_grey font11">BenQ's newly announced line-up of cell...</span></a> 
-												<a class="block-highlight-sm" href="/gowfb-coupons">Wholesale Furniture Brokers Coupons <span class="lt_grey font11">$100 - $350 OFF!
-FREE SHIPPING</span></a> 
-												<a class="block-highlight-sm" href="/grassrootscomputers-coupons">Grassroots Computers Coupons <span class="lt_grey font11">10% off selected WD hard drives, XFX...</span></a> 
-												<a class="block-highlight-sm" href="/acmoore-coupons">AC Moore Coupons <span class="lt_grey font11">50% off One Item Regular Price </span></a> 
-												<a class="block-highlight-sm" href="/papaginos-coupons">Papaginos Coupons <span class="lt_grey font11">$4 off your online delivery of $20 or...</span></a> 
-												<a class="block-highlight-sm" href="/anntaylor-coupons">Ann Taylor Coupons <span class="lt_grey font11">20% off $100, 30% off $300, 40% off...</span></a> 
-												<a class="block-highlight-sm" href="/mlb-coupons">MLB Coupons <span class="lt_grey font11">15% off your total order</span></a> 
-						
-						<div class="fright"><a href="/coupons?q=recent">View More »</a></div>
-					</div>
-	
-					<div class="clear"></div>
-				</div>
+								<div class="block-highlight-sm"><a href="/dickssportinggoods-coupons/130834">Dicks Sporting Goods Coupons</a> <span class="lt_grey font11">Free shipping on all orders one day only</span></div>
+								<div class="block-highlight-sm"><a href="/beltoutlet-coupons/130833">BeltOutlet Coupons</a> <span class="lt_grey font11">10% off entire order!</span></div>
+								<div class="block-highlight-sm"><a href="/nashbar-coupons/130832">Nashbar Coupons</a> <span class="lt_grey font11">20% off $100 or more!</span></div>
+								<div class="block-highlight-sm"><a href="/legoland-coupons/130831">LEGOLAND Coupons</a> <span class="lt_grey font11">Buy 1 adult ticket &amp; get 1 child...</span></div>
+								<div class="block-highlight-sm"><a href="/teacollection-coupons/130829">Tea Collection Coupons</a> <span class="lt_grey font11">Save 25% +  FREE SHIPPING on your...</span></div>
+								<div class="block-highlight-sm"><a href="/kohls-coupons/130828">Kohls Coupons</a> <span class="lt_grey font11">Extra 15% Off</span></div>
+								<div class="block-highlight-sm"><a href="/fabric-coupons/130827">Fabric Coupons</a> <span class="lt_grey font11">15% off orders online.</span></div>
+								<div class="block-highlight-sm"><a href="/gamestop-coupons/130823">GameStop Coupons</a> <span class="lt_grey font11">Free Overnight Shipping on $75+ Order</span></div>
+				
+				<div class="fright"><a href="/coupons?q=recent">View More »</a></div>
 			</div>
-			<div class="bot"><!--ie sucks--></div>
-		</div>
-		<div class="footer-section">
-			<div class="top"><!--ie sucks--></div>
-			<div class="main">
-				<div class="f_content">
-					<span class="copyright">Copyright © 2009 DealsPlus. All Rights Reserved.</span>
-				</div>
-			</div>
-			<div class="bot"><!--ie sucks--></div>
+
+			<div class="clear"></div>
+    		<div id="copyright">
+			   Copyright © 2010 dealspl.us. All Rights Reserved.
+    		</div>
 		</div>
 	</div>
-	
-</div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-348184-4";
-urchinTracker();
-</script>
-<!--script type='text/javascript' 
-        src='http://getfirebug.com/releases/lite/1.2/firebug-lite-compressed.js'>
-</script-->
-<script type="text/javascript">
-    document.getElementsByTagName('head')[0].appendChild(createElement('style', {type: 'text/css', innerHTML: '#main_content{min-height:0;}'}));
-</script>
+
+
+        <script type="text/javascript">
+        
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-348184-4']);
+          _gaq.push(['_trackPageview']);
+        
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        
+        </script>
 
 
 
