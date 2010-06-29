@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compactappliance.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206172641id_/http%3A//www.compactappliance.com/CS%253a%2520Other%2520Information%253a%2520Privacy%2520Policy/PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compactappliance.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629031053id_/http%3A//www.compactappliance.com/CS%253A%2520Other%2520Information%253A%2520Privacy%2520Policy/PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # CS: Other Information: Privacy Policy
 
