@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethel.tv privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621221623id_/http%3A//www.ibethel.tv/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethel.tv privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629233654id_/http%3A//www.ibethel.tv/pages/privacy-policy) for the most accurate reproduction.*
 
 # iBethel.TV // Bethel Church // Privacy
 
