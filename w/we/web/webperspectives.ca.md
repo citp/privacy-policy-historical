@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webperspectives.ca privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229025858id_/http%3A//www.webperspectives.ca/index.php%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webperspectives.ca privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629141408id_/http%3A//www.webperspectives.ca/index.php%3Fid%3D10) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy - Online surveys - Web Perspectives
 
-Web Perspectives / Research Now Ltd (“Research Now”), company number 03975073, whose registered office is at 8th floor, Elizabeth House 39 York Road, London SE1 7NQ, United Kingdom ("Research Now") owns and operates this website, www.webperspectives.ca.  This website privacy statement outlines how Research Now collects, uses, and discloses personal information through this website. 
+Research Now Inc. (a Canadian Company) (“Research Now”), is a wholly owned subsidiary of Research Now Ltd, company number 03975073, a company incorporated in the United Kingdom whose registered office is at 1st floor, Elizabeth House 39 York Road, London SE1 7NQ, United Kingdom ("Research Now"). Other related companies of Research Now include e-Rewards, Inc. (a US Company), e-Rewards Europe Limited (a UK company), Research Now, Inc. (a US Company), Research Now Limited (a UK company), The Mobile Panel Ltd., The Mobile Channel Ltd., Research Now Pty Ltd. (an Australian Company), , Research Now Consulting Co. Ltd (a Chinese company), Research Now Technology EPE (a Greek Company), Research Now GmbH (a German Company), Research Now PTE  LTD (a Singaporian Company), Research Now Pty Limited (a New Zealand company), Research Now Spain S.L. (a Spanish company) and Research Now SARL (a French Company) (together "Research Now") operate this website, www.webperspectives.ca.  This website privacy statement outlines how Research Now collects, uses, and discloses personal information through this website. 
 
 Research Now is a provider of Internet-based market research services to professional market research organizations and their clients. The objective of this research is to better understand respondents' opinions. We aggregate and de-identify such research before analyzing and sending the results to our clients.  The information gathered helps our clients develop and design products and services for consumers. In addition, certain survey findings might be published on our websites (in a non-identifiable form) so that our survey respondents can be among the first to hear about the concerns and interests of people around the world.  We are committed to maintaining the privacy of our online respondents and panel members. Our contact information appears below. 
 
@@ -48,7 +48,7 @@ You have the right to access, update, and correct inaccuracies in the personal i
 
 You may request access to your personal information by emailing our Research Manager at  [jwhite@webperspectives.ca](mailto:jwhite@webperspectives.ca), or by contacting us by postal mail at the contact information listed below.
 
-If your personal information changes, you may update your information through our website by loging into your account by clicking on [the member login page.](https://web.archive.org/web/20091229025858id_/http%3A//www.webperspectives.ca/index.php?id=15)
+If your personal information changes, you may update your information through our website by loging into your account by clicking on [the member login page.](http://www.webperspectives.ca/member-login/)
 
  **5.     Opting-out of Receiving Future Survey Invitations**
 
@@ -88,4 +88,4 @@ M4N 3N1
 
 If you have questions or concerns regarding this statement, you should first contact our Research Manager, Jennifer White at [ jwhite@webperspectives.ca](mailto:jwhite@webperspectives.ca), or 1-800-599-7938 (ext 499). 
 
-**For more about BBB please[click here](https://www.bbb.org/online/consumer/cks.aspx?ID=1081202142727). **
+**For more about BBB please[click here](https://www.bbb.org/online/consumer/cks.aspx?ID=1081202142727).**
