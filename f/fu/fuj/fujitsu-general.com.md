@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujitsu-general.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229123222id_/http%3A//www.fujitsu-general.com/global/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujitsu-general.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630003957id_/http%3A//www.fujitsu-general.com/global/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy - FUJITSU GENERAL
 
