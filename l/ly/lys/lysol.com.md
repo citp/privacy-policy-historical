@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lysol.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620000250id_/http%3A//www.lysol.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lysol.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629232743id_/http%3A//www.lysol.com/corporate/privacy) for the most accurate reproduction.*
 
 # LYSOL® | Disinfect To Protect | Corporate | Privacy
 
@@ -49,6 +49,12 @@ If you have submitted personally identifiable information through a Reckitt Benc
 * ### How can you Update or Change your Information
 
 If at any time you want to update or change your information, you may contact us by sending an email by [clicking here](mailto:consumer.relations@rbnorthamerica.com?subject=Please%20Update%20My%20Information). If have received an email and you would like to opt-out of receiving future emails, please click on the opt-out link at the bottom of that email. If you would like to be removed from our database and you have not received an email, please click here to opt-out.
+
+* ### U.S.-EU Safe Harbor Framework
+
+Reckitt Benckiser adheres to the U.S. Department of Commerce Safe Harbor Principles concerning the transfer of personal data from the European Union to the U.S., and has committed to handling such personal information in accordance with our [US-EU Safe Harbor Privacy Statement](https://web.archive.org/corporate/privacy-safe-harbor/).
+
+For more information regarding the Safe Harbor Principles, please visit the U.S. Department of Commerce's website at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
 * ### Revisions to this Privacy Policy
 
