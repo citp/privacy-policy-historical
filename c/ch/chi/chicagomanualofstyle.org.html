@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chicagomanualofstyle.org privacy policy that was archived on 2009-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221023839id_/http%3A//www.chicagomanualofstyle.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chicagomanualofstyle.org privacy policy that was archived on 2010-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629182636id_/http%3A//www.chicagomanualofstyle.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>The Chicago Manual of Style Online: Privacy Policy</title>
@@ -23,55 +23,20 @@
 <link rel="shortcut icon" href="http://www.chicagomanualofstyle.org/favicon.gif">
 <link rel="icon" href="http://www.chicagomanualofstyle.org/favicon.gif">
 
-
-<script type="text/javascript">
-
-function getexpirydate( nodays){
-        var UTCstring;
-        Today = new Date();
-        nomilli=Date.parse(Today);
-        Today.setTime(nomilli+nodays*24*60*60*1000);
-        UTCstring = Today.toUTCString();
-        return UTCstring;
-}
-
-function setcookie(name,value,duration){
-        cookiestring=name+"="+escape(value)+"; PATH=/";
-        document.cookie=cookiestring;
-}
-
-function getCookie(name) {
-    var dc = document.cookie;
-    var prefix = name + "=";
-    var begin = dc.indexOf("; " + prefix);
-    if (begin == -1) {
-        begin = dc.indexOf(prefix);
-        if (begin != 0) return null;
-    } else {
-        begin += 2;
-    }
-    var end = document.cookie.indexOf(";", begin);
-    if (end == -1) {
-        end = dc.length;
-    }
-    return unescape(dc.substring(begin + prefix.length, end));
-}
-
-setcookie("CMOS_Session_Id", "29a489e1191a6631ffd2e841977ed7cb", 0);
-
-</script>
-
-
 <div id="header"><a href="http://www.chicagomanualofstyle.org/home.html"><img src="http://www.chicagomanualofstyle.org/images/CMOS_title.gif" alt="The Chicago Manual of Style Online"></a>
   <div id="search">
-      <form action="http://www.chicagomanualofstyle.org/search.epl" method="get">
-        <input name="q" type="text" id="q" size="25">
-	<input type="hidden" name="site" value="cmslive|qalive">
+      <!--<form action="http://www.chicagomanualofstyle.org/search.epl"  method="get">-->
+	<form action="http://www.chicagomanualofstyle.org/search.epl" method="post">
+        <input name="q" type="text" id="q" size="25" value="">
+	<!--<input type="hidden" name="site" value="cmslive|qalive">-->
+	<input type="hidden" name="site" value="all">
 	<input type="hidden" name="client" value="live">
 	<input type="hidden" name="output" value="xml_no_dtd">
-	<input type="hidden" name="proxystylesheet" value="live">
+	<!--<input type="hidden" name="proxystylesheet" value="live">-->
+	<input type="hidden" name="proxystylesheet" value="cmosdev">
         <input type="hidden" name="filter" value="0">
-        <input name="search" type="image" src="http://www.chicagomanualofstyle.org/images/search.gif" alt="Search">
+	<input name="search" type="image" src="http://www.chicagomanualofstyle.org/images/search.gif" alt="Search" value="">
+
       </form>
   </div>
 
@@ -85,13 +50,13 @@ setcookie("CMOS_Session_Id", "29a489e1191a6631ffd2e841977ed7cb", 0);
     <div id="navigation">
     <!-- intentionally empty -->
     </div>
-
 <div id="site_menu">
     <ul>
       <li><a href="http://www.chicagomanualofstyle.org/home.html"><img class="rollover" src="http://www.chicagomanualofstyle.org/images/home_OFF.gif" alt="Home" offsrc="http://www.chicagomanualofstyle.org/images/home_OFF.gif" onsrc="http://www.chicagomanualofstyle.org/images/home_ON.gif"></a></li>
-      <li><a href="http://www.chicagomanualofstyle.org/contents.html"><img class="rollover" src="http://www.chicagomanualofstyle.org/images/manual_OFF.gif" alt="The Manual of Style" offsrc="http://www.chicagomanualofstyle.org/images/manual_OFF.gif" onsrc="http://www.chicagomanualofstyle.org/images/manual_ON.gif"></a></li>
-      <li><a href="http://www.chicagomanualofstyle.org/CMS_FAQ/new/new_questions01.html"><img class="rollover" src="http://www.chicagomanualofstyle.org/images/QA_OFF.gif" alt="Chicago Style QA" offsrc="http://www.chicagomanualofstyle.org/images/QA_OFF.gif" onsrc="http://www.chicagomanualofstyle.org/images/QA_ON.gif"></a></li>
-      <li><a href="http://www.chicagomanualofstyle.org/tools.html"><img class="rollover" src="http://www.chicagomanualofstyle.org/images/tools_OFF.gif" alt="Tools for Editors" offsrc="http://www.chicagomanualofstyle.org/images/tools_OFF.gif" onsrc="http://www.chicagomanualofstyle.org/images/tools_ON.gif"></a></li>
+      <li><a href="http://www.chicagomanualofstyle.org/contents.html"><img class="rollover" src="http://www.chicagomanualofstyle.org/images/manual_OFF.gif" alt="The Chicago Manual of Style" offsrc="http://www.chicagomanualofstyle.org/images/manual_OFF.gif" onsrc="http://www.chicagomanualofstyle.org/images/manual_ON.gif"></a></li>
+      <li><a href="http://www.chicagomanualofstyle.org/CMS_FAQ/new/new_questions01.html"><img class="rollover" src="http://www.chicagomanualofstyle.org/images/QA_OFF.gif" alt="Chicago Style Q&amp;A" offsrc="http://www.chicagomanualofstyle.org/images/QA_OFF.gif" onsrc="http://www.chicagomanualofstyle.org/images/QA_ON.gif"></a></li>
+	<li><a href="http://www.chicagomanualofstyle.org/forum.html"><img class="rollover" src="http://www.chicagomanualofstyle.org/images/forum_OFF.gif" alt="Forum" offsrc="http://www.chicagomanualofstyle.org/images/forum_OFF.gif" onsrc="http://www.chicagomanualofstyle.org/images/forum_ON.gif"></a></li>
+	<li><a href="http://www.chicagomanualofstyle.org/tools.html"><img class="rollover" src="http://www.chicagomanualofstyle.org/images/tools_OFF.gif" alt="Tools" offsrc="http://www.chicagomanualofstyle.org/images/tools_OFF.gif" onsrc="http://www.chicagomanualofstyle.org/images/tools_ON.gif"></a></li>
       <li><a href="http://www.chicagomanualofstyle.org/help.html"><img class="rollover" src="http://www.chicagomanualofstyle.org/images/help_OFF.gif" alt="Help" offsrc="http://www.chicagomanualofstyle.org/images/help_OFF.gif" onsrc="http://www.chicagomanualofstyle.org/images/help_ON.gif"></a></li>
     </ul>
   </div>
@@ -206,8 +171,7 @@ setcookie("CMOS_Session_Id", "29a489e1191a6631ffd2e841977ed7cb", 0);
       <p>Version 1.0<br>
       June 2006</p>
     </div>
-    
-<div class="clear">&nbsp;</div>
+    <div class="clear">&nbsp;</div>
   </div>
   <div id="footer">
     <p class="links"><a href="http://www.chicagomanualofstyle.org/about15.html">About the 15th Edition</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.chicagomanualofstyle.org/press.html">About
@@ -227,9 +191,7 @@ var pageTracker = _gat._getTracker("UA-7684421-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-
 </div>
-
 
 
 </body></html>
