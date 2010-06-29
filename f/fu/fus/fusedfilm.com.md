@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the fusedfilm.com privacy policy that was archived on 2007-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070808103840id_/http%3A//www.fusedfilm.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusedfilm.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630010044id_/http%3A//fusedfilm.com/meet-the-fused-film-bloggers/privacy-statement) for the most accurate reproduction.*
 
-# Fused Film - A Fusion of Media Talent!
+# Privacy Statement || FusedFilm.com
 
-**Privacy Policy  
-**
+**FUSED FILM, PRIVACY POLICY NOTICE**
 
-Fused Film respects your online privacy, and we constantly endeavour to offer a service of the highest standards, however we may wish to collect information about your visit to our site in order to maintain/improve our standards and the quality of service that we deliver to our customers.
+Fused Film, hereinafter (“Fused Film) is dedicated to protecting your privacy on its Internet Websites. You can expect the same standard of privacy protection on our Internet sites that we extend to you in any other interaction with Fused Film. ****
 
-This type of information may consist of (but is not strictly limited to): IP Address, Email Address, Name, Address and/or Telephone number.
+**PERSONALLY VOLUNTEERED INFORMATION** – We only collect personal information from our visitors on a voluntary basis. Personal information may include name, address, e-mail, phone number, credit card information (in the case of electronic commerce only), etc. The personal information you volunteer to us is used to fulfill your request, provide you with information or to market products, events, and/or services which may be of interest to you. These offers may come directly from us, from our affiliates or from other reputable organizations whose privacy policies are in line with our own. Each offer is carefully examined to ensure that it meets our standards. Additionally, we try to make sure that these offers reach only those individuals most likely to be interested in them. If your personal information is to be used in any fashion other than the above mentioned, this intent will be expressly stated. ****
 
-Please be assured that this information is stored in the most secure of environments and will NOT be passed on to any third parties, for the purpose of advertising or SPAM.
+**OTHER PERSONAL INFORMATION** – Our Web server collects the domain names (not the e-mail addresses) of visitors to our Websites. This information is aggregated to measure basic usage data such as the number of visits, average time spent on the site, pages reviewed, etc. which is used by FUSED FILM to improve the content of our Websites. We may use ‘cookies’ on some pages of our Websites to help us serve you better each time you return. A cookie is a small text file which is sent by a Web site, accepted by a Web browser and then placed on your hard drive. The cookies used by FUSED FILM contains only the information that you submit via our Guestbooks, Message Comments, etc. You therefore have control over the information that is stored in the cookie. The cookie expires after six months, so there is little concern about it storing outdated information. You can always set your browser to warn you when a cookie is sent to you. This will give you more control over acceptance of them.  The data collected from these cookies helps us to analyze browsing patterns of our visitors in order to improve the content and design of our Websites. The information collected from these cookies is for the exclusive use of FUSED FILM and its affiliates, and will not be shared with other vendors.
 
-If you do not wish for such information to be stored, please [Contact us](https://web.archive.org/web/20070808103840id_/http%3A//www.fusedfilm.com/contact/index.php) and we will remove all exisitng records.
+Remember: you are always able to alter any personal information that you have already submitted. Please see contact information below. ****
 
-If you are unsure about any of this information or want to know more, please [contact us](https://web.archive.org/web/20070808103840id_/http%3A//www.fusedfilm.com/contact/index.php) and highlight your interest. 
+**OTHER –** The information that you provide to us is not sold to third party data compilation services. From time to time, we may make the postal addresses of our customers available to other reputable organizations whose products or services we think you might find interesting. FUSED FILM attempts to only link to sites which have similarly high respect for your privacy. However, we are not responsible for the content or the privacy practices employed by other sites. Should you have a problem with privacy on any site we link to please let us know by contacting us. ****
 
-Thank you for taking time to read this.
+**SECURITY** – FUSED FILM takes reasonable measures to keep all information about our online visitors secure against unauthorized access and periodically reviews the security measures of all our internet sites. ****
 
-Browse safely!  
-Fused Film 
+**CONTACT INFORMATION** – If you would like to add your name, correct your information or remove your name from our mailing list, please e-mail us at: [website@fusedfilm.com](mailto:website@fusedfilm.com) You will always be able to opt out of any promotional offers or notification of new announcements when personal information is collected.
+
+©2008-2009 Fused Film. All rights reserved.
