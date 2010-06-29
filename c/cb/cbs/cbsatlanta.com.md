@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbsatlanta.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227022451id_/http%3A//www.cbsatlanta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsatlanta.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629104152id_/http%3A//www.cbsatlanta.com/privacy) for the most accurate reproduction.*
 
 # CBSAtlanta.com - Privacy
 
