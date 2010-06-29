@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the articlesfreedom.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627171919id_/http%3A//www.articlesfreedom.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesfreedom.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629160547id_/http%3A//www.articlesfreedom.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Free Articles Directory Help & Support | Submit Articles - Articlesfreedom.com
+# Privacy Policy | ArticlesFreedom.com
 
 **General**. ArticlesFreedom places great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which ArticlesFreedom collects, uses, and discloses the personal information provided by you as a result of the use of ArticlesFreedom's Web Site and the content, information and services provided through the Web Site by ArticlesFreedom.
 
-**Users' Consent**. BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.ARTICLESFREEDOM.COM AND/OR ANY OTHER SITE PROVIDED BY ArticlesFreedom (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. ArticlesFreedom reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by ArticlesFreedom will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please [contact us](http://www.articlesfreedom.com/help/contact-us) if you have any questions about our privacy policy.
+**Users' Consent**. BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.ArticlesFreedom.com AND/OR ANY OTHER SITE PROVIDED BY ArticlesFreedom (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. ArticlesFreedom reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by ArticlesFreedom will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please [**contact us**](http://www.articlesfreedom.com/help/contact-us) if you have any questions about our privacy policy.
 
 **Collection and Use of Information**. In order for you to access certain materials or pages (i.e. author signup, tell a friend, and the like) and to register as a user on this Site, this Site requires that you provide certain personal information, including, but not limited to, your name, phone number and e-mail address. We use this information in order to contact you to provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our Site visitors and potential customers and partners. We may share this information with our authorized partners and/or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors.
 
@@ -27,11 +27,3 @@ In order to assist in protecting the confidentiality of your personal informatio
 
 
 
-
-  
-| 
-
-Submitting articles has become one of the most popular means of generating quality backlinks and targeted traffic to your website. **[Join us today - It's Free!](http://www.articlesfreedom.com/join.php)**
-
-|   
----|---|---
