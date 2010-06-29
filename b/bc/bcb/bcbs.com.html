@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bcbs.com privacy policy that was archived on 2009-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217124926id_/http%3A//www.bcbs.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bcbs.com privacy policy that was archived on 2010-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629025831id_/http%3A//www.bcbs.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
 
@@ -14,12 +14,12 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3282:0';
-CONVIO.pageSessionID = 'mb0iynd3h1.app333b';
+CONVIO.pageSessionID = 'wyhzc1msr2.app331b';
 CONVIO.pageSessionName = 'JServSessionIdr004';
 </script>
 
 <script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1261054166446"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1277780311407"></script>
 
 <script type="text/javascript">
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -31,7 +31,7 @@ deleteCookie("CONVIO.referrer");
 
 
 <!-- Convio's CRM JS library -->
-<script type="text/javascript" src="http://bcbs.convio.net/site/../js/utils.js"></script>
+<script type="text/javascript" src="http://www.bcbsnewsletters.com/js/utils.js"></script>
 
 
 
@@ -44,7 +44,7 @@ deleteCookie("CONVIO.referrer");
 
 
 
-</head><body><div id="convio-content-100910142" style="DISPLAY: inline">
+</head><body><div id="convio-content-152576738" style="DISPLAY: inline">
 
 
 
@@ -54,7 +54,53 @@ deleteCookie("CONVIO.referrer");
 
 
 
-<!-- No renderable content for this component -->
+
+
+<!-- Standard dependencies for embedded COM content -->
+<link rel="stylesheet" type="text/css" href="http://www.bcbsnewsletters.com/css/FunctionalStyles.css">
+<script type="text/javascript" src="http://www.bcbsnewsletters.com/yui3/yui/yui-min.js"></script>
+<script type="text/javascript" src="http://www.bcbsnewsletters.com/js/utils.js"></script>
+<script type="text/javascript" src="http://www.bcbsnewsletters.com/js/convio/modules.js"></script>
+<script type="text/javascript">
+var Y;
+if (!Y) {
+  Y = YUI({
+    base: 'http://www.bcbsnewsletters.com/yui3/',
+    debug: false,
+    modules: getModules('http://www.bcbsnewsletters.com/','convio',false)
+  });
+}
+</script>
+
+<script language="JavaScript">
+<!-- Begin
+function validateZIP(field) {
+var valid = "0123456789-";
+var hyphencount = 0;
+
+if (field.length!=5 && field.length!=10) {
+alert("Please enter your 5 digit or 5 digit+4 zip code.");
+return false;
+}
+for (var i=0; i < field.length; i++) {
+temp = "" + field.substring(i, i+1);
+if (temp == "-") hyphencount++;
+if (valid.indexOf(temp) == "-1") {
+alert("Invalid characters in your zip code.  Please try again.");
+return false;
+}
+if ((hyphencount > 1) || ((field.length==10) && ""+field.charAt(5)!="-")) {
+alert("The hyphen character should be used with a properly formatted 5 digit+four zip code, like '12345-6789'.   Please try again.");
+return false;
+   }
+}
+//if (confirm("You are now leaving bcbs.com and going to the website of the local Blue company you selected.  Information for Blue company members can be found on the website of the Blue company providing the health coverage.\n\nEach Blue company is responsible for the content and experience on its website, including the policies and terms that apply to use of the site."))
+         return true;
+//    else
+//         return false;
+}
+//  End -->
+</script>
 
 
 </div>
@@ -119,12 +165,11 @@ function newWindow(alert) {
 <link href="http://www.bcbs.com/assets/css/bcbs_b.css" rel="stylesheet" type="text/css">
 <link href="/assets/css/print.css" rel="stylesheet" type="text/css" media="print,embossed">
 
-<link rel="alternate" type="application/rss+xml" title="BCBS.com General Headlines" href="http://feeds.bcbs.com/GeneralHeadlines">
-<link rel="alternate" type="application/rss+xml" title="BCBSA Press Releases" href="http://feeds.bcbs.com/BCBSANews">
-<link rel="alternate" type="application/rss+xml" title="BCBSA and Member Company Press Releases" href="http://feeds.bcbs.com/BlueNews">
-<link rel="alternate" type="application/rss+xml" title="Member Company Press Releases" href="http://feeds.bcbs.com/MemberCompanyNews">
-<link rel="alternate" type="application/rss+xml" title="TEC Assessments" href="http://feeds.bcbs.com/TECAssessments">
-
+<link rel="alternate" type="application/rss+xml" title="BCBS.com General Headlines" href="http://feeds2.feedburner.com/BCBS-General-Headlines">
+<link rel="alternate" type="application/rss+xml" title="BCBSA Press Releases" href="http://feeds2.feedburner.com/BCBS-BCBSA-News">
+<link rel="alternate" type="application/rss+xml" title="BCBSA and Member Company Press Releases" href="http://feeds2.feedburner.com/BCBS-Blue-News">
+<link rel="alternate" type="application/rss+xml" title="Member Company Press Releases" href="http://feeds2.feedburner.com/BCBS-Member-Company-News">
+<link rel="alternate" type="application/rss+xml" title="TEC Assessments" href="http://feeds2.feedburner.com/BCBS-TEC-Assessments">
 <style>
 		#medicare_drug_tables h1, #medicare_drug_tables h2 {
 			color: #0093d0;
@@ -178,7 +223,7 @@ function newWindow(alert) {
 <ul>
 <li><a href="http://www.bcbs.com/bluefinder/">Blue Finder for Individuals</a>
 <ul>
-<li><a href="http://www.bcbs.com/healthtravel/finder.html" target="_blank">Doctor Finder</a></li>
+<li><a href="http://provider.bcbs.com" target="_blank" onClick="javascript:pageTracker._trackPageview('/external/provider.bcbs.com');">Doctor Finder</a></li>
 <li><a href="http://www.bcbs.com/coverage/the-blues-and-medicare/">Medicare</a></li>
 <li><a href="http://www.bcbs.com/coverage/bluecard/bluecard-worldwide.html">BlueCard Worldwide&reg;</a></li>
 <li><a href="http://www.bcbs.com/coverage/basics/">Health Insurance Basics</a></li>
@@ -230,7 +275,6 @@ function newWindow(alert) {
 </ul>
 </li>
 <li><a href="http://www.bcbs.com/issues/transparency/">Transparency and Consumerism</a></li>
-<li><a href="http://www.bcbs.com/issues/ahp/">Association Health Plans</a></li>
 <li class="last"><a href="http://www.bcbs.com/issues/medicaid/">Medicaid</a></li>
 </ul>
 </li>
@@ -251,7 +295,7 @@ function newWindow(alert) {
 <li><a href="http://www.bcbs.com/coverage/find/">Find Services</a>
 <ul>
 <li><a href="http://www.bcbs.com/coverage/find/plan/">Find Your Local BCBS Company</a></li>
-<li><a href="http://www.bcbs.com/healthtravel/finder.html" target="_blank">BlueCard® Doctor and Hospital Finder</a></li>
+<li><a href="http://provider.bcbs.com" target="_blank" onclick="javascript:pageTracker._trackPageview('/external/provider.bcbs.com');">BlueCard® Doctor and Hospital Finder</a></li>
 <li class="last"><a href="http://www.bcbs.com/innovations/askblue/">AskBlue</a></li>
 </ul>
 </li>
@@ -263,6 +307,7 @@ function newWindow(alert) {
 <li><a href="http://www.bcbs.com/innovations/blue365/">Blue365 Healthy Discounts</a></li>
 <li><a href="http://www.bcbs.com/innovations/askblue/">AskBlue</a></li>
 <li><a href="http://www.bcbs.com/innovations/bluedistinction/">Blue Distinction</a></li>
+<li><a href="http://www.bcbs.com/innovations/good-health-club/">Good Health Club</a></li>
 <li><a href="http://www.bcbs.com/innovations/doctorhospital-information/">Doctor/Hospital Information</a></li>
 <li><a href="http://www.bcbs.com/innovations/bhi/">Blue Health Intelligence</a></li>
 <li><a href="http://www.bcbs.com/innovations/blueworks/">BlueWorks</a>
@@ -311,7 +356,7 @@ function newWindow(alert) {
 <td colspan="3">
 	<table width="100%" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr valign="top">
-	<td valign="top"><div id="breadcrumb"><div id="breadcrumb-100910143" style="DISPLAY: inline">
+	<td valign="top"><div id="breadcrumb"><div id="breadcrumb-152576739" style="DISPLAY: inline">
 
 
 
@@ -358,7 +403,7 @@ function newWindow(alert) {
 	<tbody><tr valign="top">
 	<td valign="top" class="lnavbg" width="165">
 	<div id="subnav">
-        <div id="sectionNavigation-100910144" style="DISPLAY: inline">
+        <div id="sectionNavigation-152576740" style="DISPLAY: inline">
 
 
 
@@ -498,19 +543,19 @@ function newWindow(alert) {
 <div id="contentDiv">
   <script type="text/javascript" src="/components/form/form.js"></script>
   <script type="text/javascript" src="/components/cookie/cookie.js"></script>
-<table cellspacing="0" cellpadding="0" border="0">
+<table border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
 <td valign="top" width="622">
 <div id="content-area">
-<h1><span>BCBS.com Privacy Policy</span></h1><br>
-<table cellspacing="0" cellpadding="0" border="0" class="print">
+<h1><span>BCBS.com Privacy Policy</span></h1>
+<br>
+<table border="0" cellpadding="0" cellspacing="0" class="print">
 <tbody>
 <tr>
+<td><a class="printerFriendlyLink" href="http://www.bcbs.com/about/privacy/?templateName=template-28719196&amp;print=t">Printer Friendly</a></td>
 <td>
-<a href="http://www.bcbs.com/about/privacy/?templateName=template-28719196&amp;print=t" class="printerFriendlyLink">Printer Friendly</a></td>
-<td>
-<div id="sendtofriend-43168575" style="DISPLAY: inline;">
+<div id="sendtofriend-43168575" style="display: inline;">
 
 
 
@@ -527,7 +572,11 @@ function newWindow(alert) {
 
 
 <span class="sendToFriend"><a title="Send to friend" href="/about/privacy/send-to-friend.jsp?pid=43168575&amp;itemID=43275354">Send to friend</a></span>
-</div></td></tr></tbody></table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Updated May 6, 2005</strong> </p>
 <p><strong>WEB SITE PRIVACY POLICY</strong> </p>
 <p>Your privacy is important to us. The Blue Cross and Blue Shield Association ("BCBSA") maintains high standards for the protection of your privacy at our website. Here is what you can expect when you visit BCBS.com:</p>
@@ -548,10 +597,12 @@ function newWindow(alert) {
 <p>If you choose to use any of the links we provide to our member companies, sponsors, and other third party resources, you will be leaving our web site and going to a new web site. Protection of your privacy at those other sites will be governed by the privacy policy at that site. We've taken special care selecting the companies that appear in the Health and Wellness section of BCBS.com to try to ensure that they respect your privacy as we do, but please take the time to read the privacy policies at their sites.</p>
 <p><strong>Changes to this Policy</strong></p>
 <p>If we make any changes to this policy, we'll let you know the effective date of the changes and you can contact our Webmaster if you'd like to know more about what's new. If you have any questions or comments or receive any unwanted e-mail from this site, please contact our Webmaster via e-mail at <a href="javascript:newWindow('http://www.bcbs.com/about/privacy/alert.html')">Privacy@BCBSA.com</a>.</p>
-<p>&nbsp;</p></div></td>
+<p>&nbsp;</p>
+</div>
+</td>
 <td><img height="1" src="http://www.bcbs.com/assets/images/1pxtrans.gif" width="4"></td>
-<td valign="top" bgcolor="#205268" class="right">
-<div id="include-43168576" style="DISPLAY: inline">
+<td bgcolor="#cde4ef" class="right" valign="top">
+<div id="include-43168576" style="display: inline;">
 
 
 
@@ -569,46 +620,140 @@ function newWindow(alert) {
 
 
 
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-<tbody><!-- temp until fix GA errors -->
+<!-- new sidebar -->
+<style>
+img {
+	border:0px;
+}
+
+table#sidebar {
+	height:100%;
+	background-color:#cde4ef;  /* #d6eaf2 */
+	border-collapse:collapse;
+	width:220px;
+/*	border-left:2px solid #004eac; */
+}
+
+#sidebar td.gradient {
+	background-image:url(http://www.bcbs.com/assets/images/sidebar/sidebar_gradient.gif);
+	background-repeat:repeat-x;
+	background-position:bottom;
+	background-color:#eef6fa;
+	font-family:Verdana, Geneva, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#266d8e;
+
+}
+
+#sidebar h3 {
+	font-family:Verdana, Geneva, sans-serif;
+        margin-bottom:0px;
+font-size:14px;
+margin-bottom:4px; 
+color:#266d8e;
+}
+
+#sidebarfindplan {
+color:#0071c5;
+font-weight:bold;
+text-transform:uppercase;
+font-family:Verdana, Geneva, sans-serif;
+font-size:10px;
+border:0px;
+width:152px;
+text-align:center;
+background-color:transparent;
+background-image:url(http://www.bcbs.com/assets/images/sidebar/sidebar_zipbg.gif);
+background-repeat:no-repeat;
+padding:12px 0px;
+margin-bottom:7px;
+}
+
+#sidebar .findplan h3 {
+margin-top:8px;
+margin-bottom:10px;
+}
+
+#sidebarnews {
+padding:20px;
+}
+
+#sidebarnews a {
+text-decoration:underline;
+}
+
+#sidebar a {
+color:#266d8e;
+}
+
+#sidebar form {
+margin:0px;
+padding:0px;
+}
+
+#sidebar .gradient a:hover, #sidebar .gradient a h3:hover {
+text-decoration:underline;
+}
+
+a#rsslink {
+text-decoration:none;
+color:#26657b;
+font-weight:bold;
+}
+
+a#rsslink img {
+margin-top:-4px;
+}
+</style>
+
+<table id="sidebar" cellspacing="0" cellpadding="0">
+<tbody>
 <tr>
-<td valign="top" background="finder-background.gif" bgcolor="#205268"><img src="http://www.bcbs.com/assets/images/finder-title.gif"><br><img border="0" src="http://www.bcbs.com/assets/images/finder-insurance.gif"><br>
-<form class="planfinder" name="zipcodeform" onsubmit="return validateZIP(this.zipcode.value);" action="http://apps.bcbs.com/cgi-bin/bcbs_com_finder.cgi" method="get" target="_blank"><input class="planfinder" id="findplan" onblur="if (!this.value) this.value=this.defaultValue" onfocus="if (this.value==this.defaultValue) this.value=''; else this.select()" value="Enter Your Zip Code" name="zipcode">&nbsp; <input class="plansubmit" type="image" alt="Submit value=" src="http://www.bcbs.com/assets/images/finder-submit.gif" value="Submit" name="submit"> </form><a title="List of all BCBS companies" href="http://www.bcbs.com/coverage/find/plan/"><img border="0" src="http://www.bcbs.com/assets/images/finder-find2.gif"></a><br><a title="Find a Doctor or Hospital" target="_blank" href="http://www.bcbs.com/healthtravel/finder.html"><img border="0" src="http://www.bcbs.com/assets/images/finder-doctor.gif"></a></td></tr><!--<TR>
-<TD><A target=_blank href="http://www.blueadvocacy.org/plans/"><IMG style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none" alt="See innovative BLUE SOLUTIONS in your state." src="/preview!www.bcbs.com/assets/images/homepage/health-reform/webcast-blue-solutions.jpg"></A> </TD></TR>--><!--<TR>
-<TD><A href="/preview!www.bcbs.com/blueresources/wellness/pbs/"><IMG style="BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px" alt="Watch PBS's Second Opinion" src="/preview!www.bcbs.com/assets/images/better-knowledge/second-opinion/second_opinion-banner.jpg"></A></TD></TR>
-<TR>
-<TD>
-<DIV id=webcastpromoflash><A href="http://bcbs.com/issues/uninsured/"><IMG style="BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px" alt="When you cover one in three Americans, you offer solutions - Learn More" src="/preview!www.bcbs.com/assets/flash/221x121_bcbs.jpg"></A></DIV>
-<SCRIPT type=text/javascript> var so = new SWFObject("http://www.bcbs.com/assets/flash/221x121_bcbs.swf", "mymovie", "221", "121", "7", "#336699");
-   so.write("webcastpromoflash");
-</SCRIPT>
-</TD></TR>-->
+<td height="60"><img height="60" alt="How can we help you?" width="220" src="http://www.bcbs.com/assets/images/sidebar/howcanwehelpyou.gif"></td></tr>
 <tr>
-<td>
-<div id="templatelist-97968919" style="DISPLAY: inline">
+<td class="gradient findplan" valign="center" align="center" height="77">
+<h3>Find Your Blue Company</h3>
+<form class="sidebarplanfinder" name="zipcodeform" onsubmit="return validateZIP(this.zipcode.value);" action="http://apps.bcbs.com/cgi-bin/bcbs_com_finder.cgi" method="get" target="_blank">
+<table>
+<tbody>
+<tr>
+<td valign="center"><input class="homepageplanfinder" id="sidebarfindplan" onblur="if (!this.value) this.value=this.defaultValue" onfocus="if (this.value==this.defaultValue) this.value=''; else this.select()" value="Enter Your Zip Code" name="zipcode"></td>
+<td valin="middle"><input class="plansubmit" type="image" alt="Submit value=" src="http://www.bcbs.com/assets/images/homepage/zip_submit.gif" value="Submit" name="submit"></td></tr></tbody></table></form></td></tr>
+<tr>
+<td class="gradient" valign="center" align="center" height="77"><a onclick="javascript:pageTracker._trackPageview('/external/ic.jellyvision-conversation.com');" target="_blank" href="http://ic.jellyvision-conversation.com/?id=00"><img alt="AskBlue: Interested in learning about health insurance?" src="http://www.bcbs.com/assets/images/sidebar/sidebar_askblue.gif"></a></td></tr>
+<tr>
+<td class="gradient" valign="center" align="center" height="77"><a onclick="javascript:pageTracker._trackPageview('/external/provider.bcbs.com');" target="_blank" href="http://provider.bcbs.com/">
+<h3>Find a Doctor<br>or Hospital</h3></a></td></tr>
+<tr>
+<td valign="top" height="121">
+<div id="templatelist-155716511" style="DISPLAY: inline">
 
 
 
 
   
-<div class="odd"><a href="http://www.bcbs.com/news/bluetvradio/pediatric-obesity-and-diabetes-prevention/"><img src="http://www.bcbs.com/assets/images/news/webcasts/childhood-obesity-and-diabetes.jpg" width="221" height="121" border="0"></a></div></div></td></tr>
+<div class="odd"><a href="http://www.bcbs.com/news/bluetvradio/childhood-obesity-and-diabetes/"><img src="http://www.bcbs.com/assets/images/news/webcasts/2010-06-09-childhood-obesity-diabetes-tools.jpg" width="221" height="121" border="0"></a></div></div></td></tr>
 <tr>
-<td><a href="http://www.bcbs.com/news/bluetvradio/"><img height="36" width="221" border="0" src="http://www.bcbs.com/assets/images/homepage/radio_tv.gif"></a></td></tr>
-<tr>
-<td>
-<div id="newsbox"><a href="http://www.bcbs.com/news/bcbsa/"><img height="17" width="160" border="0" src="http://www.bcbs.com/assets/images/homepage/title_bcbsanews.gif"></a><br>
-<div id="templatelist-97968920" style="DISPLAY: inline">
+<td id="sidebarnews" valign="top">
+<h3>BCBSA News</h3>
+<div id="templatelist-155716512" style="DISPLAY: inline">
 
 
 
 
   
-<div class="odd"><p><span><a href="http://www.bcbs.com/news/bcbsa/updated-bcbsa-statement-on-get-health-reform-right.html">UPDATED BCBSA Statement on Get Health Reform Right Coalition</a></span><br><span class="newsdate"><font color="#999999" size="1"><span>December&nbsp;12,&nbsp;2009</span></font></span></p></div><div class="even"><p><span><a href="http://www.bcbs.com/news/bcbsa/bcbsa-statement-on-get-health-reform-right-coalition.html">BCBSA Statement On Get Health Reform Right Coalition</a></span><br><span class="newsdate"><font color="#999999" size="1"><span>December&nbsp;10,&nbsp;2009</span></font></span></p></div></div>
-<form id="newsjump" name="newsjump"><select class="form_blue" onchange="MM_jumpMenu('parent',this,0)" name="menu1"> <option value="#" selected="">News by Category</option> <option value="http://www.bcbs.com/news/bcbsa/">BCBSA News</option> <option value="http://www.bcbs.com/news/bluetvradio/">BlueTV &amp; BlueRadio</option> <option value="http://www.bcbs.com/news/wellness/">Health &amp; Wellness</option> <option value="http://www.bcbs.com/news/national/">National News</option></select> </form>
-<p><a href="http://bcbs.convio.net/site/PageServer?pagename=Subscribe_to_BCBS_Newsletters">Sign Up for News</a> | <a href="http://www.bcbs.com/news/rss">Get RSS&nbsp;</a> <a href="http://www.bcbs.com/news/rss"><img height="14" alt="XML" width="14" align="absMiddle" border="0" src="http://www.bcbs.com/assets/images/button-rss2.gif"></a> <br></p></div></td></tr></tbody></table>
+<div class="odd">
+<p><span>Statement From Blue Cross And Blue Shield Association President And CEO Scott P. Serota On Today's White House Meeting</span><br><a href="http://www.bcbs.com/news/bcbsa/statement-from-bcbsa-on-today-s-white-house-meeting.html"><span>June&nbsp;22,&nbsp;2010</span></a></p>
+</div><div class="even">
+<p><span>Blue Cross And Blue Shield Companies Expand Pediatric Partnership To Combat Childhood Obesity</span><br><a href="http://www.bcbs.com/news/bcbsa/bcbs-companies-expand-pediatric-partnership-to-combat-childhood-obesity.html"><span>June&nbsp;9,&nbsp;2010</span></a></p>
+</div></div><a id="rsslink" href="http://www.bcbs.com/news/rss"><img height="14" alt="XML" width="14" align="absMiddle" border="0" src="http://www.bcbs.com/assets/images/button-rss2.gif"> Subscribe to RSS feed</a> </td></tr></tbody></table>
 </span>
 </div>
-</td></tr></tbody></table>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 
 
@@ -625,11 +770,15 @@ function newWindow(alert) {
 </tbody></table>
 
 
+<script type="text/javascript" src="/components/form/form.js"></script>
+
+
 
 
 
 
 <script type="text/javascript" src="/system/components/logging/logging.js"></script>
+
 
 
 
