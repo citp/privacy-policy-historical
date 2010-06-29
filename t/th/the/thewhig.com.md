@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhig.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229115829id_/http%3A//www.thewhig.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhig.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629065011id_/http%3A//www.thewhig.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -101,8 +101,11 @@ L3R 9R6
 [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
 
 Any rights not expressly granted herein are reserved.  
-© 2009 www.thewhig.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+© 2010 www.thewhig.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
 
 * * *
 
-COPYRIGHT NOTICE.© 1999-2009 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.thewhig.com ,All rights reserved. 
+COPYRIGHT NOTICE.© 1999-2010 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.thewhig.com ,All rights reserved. 
+
+  
+
