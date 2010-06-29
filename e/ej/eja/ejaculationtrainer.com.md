@@ -1,105 +1,73 @@
-> *The following text is extracted and transformed from the ejaculationtrainer.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413051247id_/http%3A//ejaculationtrainer.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejaculationtrainer.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629041418id_/http%3A//www.ejaculationtrainer.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**[Home](https://web.archive.org/web/20090413051247id_/http%3A//ejaculationtrainer.com/index.htm)    **
+**HOW WE PROTECT YOUR PRIVACY**
 
-**Ejaculationtrainer.com Website Privacy ****Policy**
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
- **We respect your privacy and are committed to protecting it.**
+**MINORS**
 
-This document was last updated on 3/14/08.
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
- **1\. Acknowledgement and acceptance of terms**
+**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
 
-Ejaculationtrainer.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interacts with our website.  By accessing Ejaculationtrainer.com, you acknowledge and fully understand Ejaculationtrainer.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
 
- **2\. Participating Merchant Policies**
+**THE TYPE OF INFORMATION WE COLLECT FROM YOU**
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Ejaculationtrainer.com services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.  We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
- **3. Information We Collect and How We Use It**
+And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-Ejaculationtrainer.com collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features.
 
-a. **Web Server Logs**.
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+**WHAT WE DO WITH YOUR INFORMATION**
 
-  * Your Internet protocol address. 
+We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions.
 
-  * The kind of browser or computer you use. 
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
-  * Number of links you click within the site. 
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
-  * State or country from which you accessed the site. 
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes.
 
-  * Date and time of your visit. 
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
-  * Name of your Internet service provider. 
+**USER NAMES AND PASSWORDS**
 
-  * Web page you linked to our site from. 
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-  * Pages you viewed on the site.
+**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
 
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
 
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
 
+**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
 
-b. **Use of Cookies**
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
-Ejaculationtrainer.com may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
+**AUTORESPONDERS**
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. 
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to contact[at]ejaculationtrainer.com, or sending us mail to the address listed below. 
 
-Ejaculationtrainer.com reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into Ejaculationtrainer.com a site that relies on third-party cookies).
+**POLICY CHANGES**
 
-You have the ability to accept or decline cookies.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website and may cause purchasing problems.
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-  3.  **Personal Information Users**
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to contact[at]ejaculationtrainer.com and providing us with information relating to your concern.
 
+You may also mail your concerns to us at the following address:
 
+**CALIFORNIA PRIVACY RIGHTS**
 
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to contact[at]ejaculationtrainer.com or write us at the following address:
 
-Visitors to our website can register to purchase services.  When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information.  If you are purchasing a service, we will request financial information.  Any financial information we collect is used only to bill you for the services you purchased.  If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+This privacy policy was last updated on 03-12-2010.
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
+Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at www.ejaculationtrainer.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
- To fulfill your service requests for services.
-
-To protect ourselves from liability,
-
-To respond to legal process or comply with law, or
-
-In connection with a merger, acquisition, or liquidation of the company.
-
- **4. Use of Web Beacons or GIF files**
-
-Ejaculationtrainer.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Ejaculationtrainer.com to count users who have visited those pages and to deliver co-branded services.  Ejaculationtrainer.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
-
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These Web beacons may be used by these service providers to place a persistent cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site.  Ejaculationtrainer.com prohibits Web beacons from being used to collect or access your personal information.
-
- **5\. Accessing Web Account Information**
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.  You may review this information by contacting us by sending an email to our support attendant --contact@ejaculationtrainer.com.
-
- **6. Changes to this Statement**
-
-Ejaculationtrainer.com has the discretion to occasionally update this privacy statement.  When we do, we will also revise the “updated” date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
- **7\. Contacting Us**
-
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at contact@ejaculationtrainer.com.
-
-Ejaculationtrainer.com
-
- **Attention:   Privacy Statement Personnel**
-
-Matt Wutzke
-
-P.O. Box 1705
-
-Pendleton, Or 97801
-
-Ejaculationtrainer.com will use commercially reasonable efforts to promptly respond and resolve any problem or question.
-
-[](http://www.copyscape.com/)
+**[Contact](https://web.archive.org/web/20100629041418id_/http%3A//www.ejaculationtrainer.com/contact.html)      [Terms Of Use](https://web.archive.org/web/20100629041418id_/http%3A//www.ejaculationtrainer.com/termsofuse.html)     [Privacy Policy](https://web.archive.org/web/20100629041418id_/http%3A//www.ejaculationtrainer.com/privacypolicy.html)     [Affiliates](https://web.archive.org/web/20100629041418id_/http%3A//www.ejaculationtrainer.com/affiliates.html)**
