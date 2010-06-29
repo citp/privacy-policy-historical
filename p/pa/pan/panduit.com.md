@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panduit.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204028id_/http%3A//www.panduit.com/AboutUs/PrivacyPolicy/046667) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panduit.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629201428id_/http%3A//www.panduit.com/AboutUs/PrivacyPolicy/046667) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,9 +65,10 @@ Here's a quick rundown of what we see as the biggest advantages of cookies:
 If you have any questions about this privacy statement, the practices of this site, or your experiences with this web site, you can contact Panduit at:   
 
 
-Panduit Corp.   
-17301 South Ridgeland Avenue   
-Tinley Park, Illinois 60477   
+Panduit World Headquarters  
+18900 Panduit Drive  
+Tinley Park, IL 60487
+
 800-777-3300 Ext 1599
 
 _[Ask A Question](http://panduit.custhelp.com/cgi-bin/panduit.cfg/php/enduser/ask.php)_
