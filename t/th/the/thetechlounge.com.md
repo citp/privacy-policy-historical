@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechlounge.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228103924id_/http%3A//www.thetechlounge.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechlounge.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629215532id_/http%3A//www.thetechlounge.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - About TheTechLounge
 
@@ -34,4 +34,4 @@ TheTechLounge welcomes your questions and comments about our privacy policy. Ple
 
 | 
 
-[Kotaku](http://kotaku.com/5431094/bioshock-2-preview-maybe-it-was-needed-after-all) Dec. 22, 2009 - 11:38 pm
+[Google](http://www.google.com/hostednews/ap/article/ALeqM5iWnQ4EizNKHmuBQjKn5l7orGUGKQD9GKGO800) Jun. 28, 2010 - 11:55 pm
