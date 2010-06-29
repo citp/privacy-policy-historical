@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the econtentsource.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604081029id_/http%3A//www.econtentsource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econtentsource.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629153809id_/http%3A//www.econtentsource.com/privacy.php) for the most accurate reproduction.*
 
 # eContent Source Article Directory | Submit Articles | Search Find Free Content | Author Submission
 
