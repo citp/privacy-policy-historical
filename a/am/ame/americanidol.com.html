@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the americanidol.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228085102id_/http%3A//www.americanidol.com/legal/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americanidol.com privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630011333id_/http%3A//www.americanidol.com/legal/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,9 +21,10 @@
 	margin: 0;
 	padding: 0;
 }
-p {
+.policyPreface p {
 	padding-left: 20px;
 	line-height: 18px;
+	margin-right:10px;
 }
 .header p {
 	font-size: 16px;
@@ -32,14 +33,14 @@ p {
 	line-height: 16px;
 	padding-left: 0;
 }
-ul {
+ul.privacyPolicy {
 	margin:10px;
 	padding:0;
 }
-ul li {
+ul.privacyPolicy {
 	list-style: none;
 }
-ul li span {
+span.policyHeader1 {
 	display: block;
 	background: #fff;
 	color: #00aeef;
@@ -47,13 +48,13 @@ ul li span {
 	font-weight: bold;
 	text-transform: uppercase;
 	padding: 8px 0 8px 0;
+	margin:5px 0 10px;
 	line-height: 18px;
 }
-ul li p {
+ul.privacyPolicy p {
 	line-height: 18px;
 	color: #333;
-	padding-top: 5px;
-	padding-left: 10px;
+	padding:0 0 0 10px;
 }
 ol li {
 	list-style: decimal;
@@ -69,101 +70,86 @@ margin-right: 18px;
 <script>
 	strDfpZone = 'fbcidol';
 </script>
-</head>
+<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 <body>
 <div id="outermost">
 <div id="header">
-	<!--[if lt IE 7]>
-<link rel="stylesheet" href="/css/png_fix.css" />
+	
+        
+        
 
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="/css/png_fix.css" />
 <style type="text/css">
 form {
 	margin:0;
 	padding:0;
 }
-
 * html, * html body {
-	background: #C8D0D5 url('/media/comps/header/content-bg.png') fixed;
-     behavior:url('/css/ie6/csshover2.htc');
-
+    behavior:url('/css/ie6/csshover2.htc');
 }
-
-#utility-bar-container {
-	position: absolute;
-	top:expression(eval(document.compatMode && document.compatMode=='CSS1Compat') ? documentElement.scrollTop : document.body.scrollTop);
-}
-
-#header-top #leaderboard-tunein {
-	margin:6px 0 0 60px;
-}
-
 </style>
 <![endif]-->
-<script>
+
+<script type="text/javascript">
+
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-6834121-1']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+   var ga = document.createElement('script');
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+       'http://www') + '.google-analytics.com/ga.js';
+   ga.setAttribute('async', 'true');
+   document.documentElement.firstChild.appendChild(ga);
+ })();
+
+ 
 function myHeaderOnSubmit()
 {
+	var aInputWord = $$('input.moocomplete');
+	aInputWord.each(function(inputWord,index)		{
+		inputWord.value = inputWord.value.toLowerCase();
+	});
+	/*
 	var searchField = document.forms['search'].elements['search-input'];
-	searchField.value = searchField.value.toLowerCase();	
+	searchField.value = searchField.value.toLowerCase();	*/
 	return true;
 }
+
+window.addEvent('domready', function() {
+	var aInputWord = $$('input.moocomplete');
+	aInputWord.each(function(inputWord,index)		{
+		new Autocompleter.Request.JSON(inputWord, 'http://www.americanidol.com/search/autofill', {
+			minLength : 1, //how many letters typed before pulling data
+			delay : 300, //in milliseconds
+			overflow : true,
+			'indicatorClass': 'autocompleter-loading',
+			className: 'autocompleter-choices '+inputWord.get('id') + '_autocomplete',
+			width: 'inherit',
+			ajaxOptions:	{
+				'method':'get'
+			}
+		});
+	});
+});
 </script>
+
 	<div id="idol-header">
-	     <div id="utility-bar-container">
-	          <div id="utility-bar">
-	               <div id="search-terms"><form action="http://www.americanidol.com/search/" method="get" name="search" onsubmit="myHeaderOnSubmit();"><p id="search-heading">Search Site <span class="c0c0c0">|</span>  <a href="http://myidol.americanidol.com/go/network/search">Search MyIdol</a></p><span class="input-border"><input type="text" name="q" id="search-input"></span><a class="button" onclick="myHeaderOnSubmit();document.forms['search'].submit()">Search</a></form></div>
-
-               <div class="divider-gray"></div>
-               <div class="divider-white"></div>
-
-
-	               <div id="myidol-menu">
-	                    <p id="myidol-menu-label">MyIDOL COMMUNITY</p>
-                    	<div id="myidol-arrow"></div>
-	               </div>
-								
-						<!-- Logged out -->
-<div id="myidol-login-box">
-<form method="post" action="http://myidol.americanidol.com/tools/login.one" name="tumLoginForm" id="tumLoginForm"><p id="reminder"><a href="http://myidol.americanidol.com/help/forgot_password.one">Forgot your ID/Password?</a></p>
-<input name="services" value="true" type="hidden">
-<input name="failurl" value="http://myidol.americanidol.com/tools/quicklogin.one" type="hidden">
-<input name="origin_url" value="http://myidol.americanidol.com" type="hidden">
-<span class="input-border"><input type="text" name="username" id="myidol-username" value="Username" onkeypress="return submitenter(this.form,event);"></span><span class="input-border"><input type="text" name="myidol-password-holder" id="myidol-password-holder" value="Password"><input type="password" name="password" id="myidol-password" value="" style="display:none" onkeypress="return submitenter(this.form,event);"></span>
-<a class="button" href="http://myidol.americanidol.com/tools/quicklogin.one" onclick="document.forms.tumLoginForm.submit(); return false;" id="tum_login_link_right">Sign In</a></form>
-</div>
-					
-				
-               <div class="divider-gray"></div>
-               <div class="divider-white"></div>
-	               <div id="logos">
-	                    <script type="text/javascript">
-						var loc = window.location.toString()
-						if (strDfpZone == 'fbcidol/home') {
-							document.write('<p>PRESENTED BY:</p><div id="logo-bar"><a href="http://clk.atdmt.com/CNT/go/129522148/direct/01/"><img src="http://view.atdmt.com/CNT/view/129522148/direct/01/" width="1" height="1" border="0" alt="" /><img src="http://www.americanidol.com/media/header/att-logo.png" width="63" height="32" alt="AT&amp;T" id="att-logo" border="0" /></a><a href="http://ad.doubleclick.net/clk;210577895;32234636;m"><img src="http://ad.doubleclick.net/ad/N4390.httpOX2602/B3341370.36;sz=1x1;ord='+Math.random()*100000+'?" width="1" height="1" border="0" alt="Click Here" /><img src="http://www.americanidol.com/media/header/coke-logo.png" width="70" height="32" alt="Coca-Cola" id="coca-cola-logo" border="0" /></a><a href="http://ad.doubleclick.net/click;h=v2|3A7D|0|0|%2a|r;210726208;0-0;0;31918288;31-1|1;29739454|29757331|1;;%3fhttp://www.fordvehicles.com/?bannerid=423424|31918288|210726208|0&referrer=N3016.americanidol.com"><img src="http://ad.doubleclick.net/imp;v1;f;210726208;0-0;0;31918288;1|1;29739454|29757331|1;;cs=e%3fhttp://ad.doubleclick.net/dot.gif?'+Math.random()*100000+'" width="1" height="1" alt="" border="0" /><img src="http://www.americanidol.com/media/header/ford-logo.png" width="67" height="32" alt="Ford" id="ford-logo" border="0" /></a></div>');
-						} else if( loc.indexOf('/mobile') > 0 || strDfpZone == 'fbcidol/mobile') {
-							document.write('<p>PRESENTED BY:</p><div id="logo-bar"><a href="http://clk.atdmt.com/CNT/go/129522148/direct/01/"><img src="http://view.atdmt.com/CNT/view/129522148/direct/01/" width="1" height="1" border="0" alt="" /><img src="http://www.americanidol.com/media/header/att-logo.png" width="63" height="32" alt="AT&amp;T" id="att-logo" border="0" /></a></div>');
-						} else if( loc.indexOf('/contestants') > 0 || loc.indexOf('com/top_36') > 0 || loc.indexOf('/ford/challenge') > 0 || strDfpZone == 'fbcidol/challenge' || strDfpZone == 'fbcidol/contestants/profiles' || strDfpZone == 'fbcidol/contestants') {
-							document.write('<p>PRESENTED BY:</p><div id="logo-bar"><a href="http://ad.doubleclick.net/click;h=v2|3A7D|0|0|%2a|r;210726208;0-0;0;31918288;31-1|1;29739454|29757331|1;;%3fhttp://www.fordvehicles.com/?bannerid=423424|31918288|210726208|0&referrer=N3016.americanidol.com"><img src="http://ad.doubleclick.net/imp;v1;f;210726208;0-0;0;31918288;1|1;29739454|29757331|1;;cs=e%3fhttp://ad.doubleclick.net/dot.gif?'+Math.random()*100000+'" width="1" height="1" alt="" border="0" /><img src="http://www.americanidol.com/media/header/ford-logo.png" width="67" height="32" alt="Ford" id="ford-logo" border="0" /></a></div>');
-						} else if( loc.indexOf('/behind_the_scenes') > 0 || strDfpZone == 'fbcidol/bts' || strDfpZone == 'fbcidol/bts/photos' || strDfpZone == 'fbcidol/bts/videos') {
-							document.write('<p>PRESENTED BY:</p><div id="logo-bar"><a href="http://ad.doubleclick.net/clk;210577895;32234636;m"><img src="http://ad.doubleclick.net/ad/N4390.httpOX2602/B3341370.36;sz=1x1;ord='+Math.random()*100000+'?" width="1" height="1" border="0" alt="Click Here" /><img src="http://www.americanidol.com/media/header/coke-logo.png" width="70" height="32" alt="Coca-Cola" id="coca-cola-logo" border="0" /></a></div>');
-						}
-						</script>
-	          </div>
-	     </div>
-     </div>
-
-	     <div class="clear"></div>
-
 	     <div id="header-top">
-          <div id="logo"><a href="http://www.americanidol.com/"><img src="http://www.americanidol.com/media/header/idol-logo.png" width="197" height="124" alt="American Idol" border="0"></a></div>
+          <div id="logo"><a href="http://www.americanidol.com/"><img src="http://www.americanidol.com/media/ui/global/idol-logo.png" width="195" height="128" alt="American Idol" border="0"></a></div>
 	          <div id="leaderboard-tunein">
 	               <div id="leaderboard">
 					<!-- begin ad tag (leaderboard) -->
 					<script language="javascript" type="text/javascript">
-						//<![CDATA[
-						//alert('Leaderboard:'+ord);
-						document.write('<script language="javascript" type="text/javascript" src="http://ad.doubleclick.net/adj/'+strDfpZone+';tile=1;sz=728x90;ord='+ord+'?"><\/script>');
-						//]]>
-					</script>
+										    	
+				    	        
+					    	        if (window.location.toString().indexOf('/videos/season_9') < 0) {
+										document.write('<script language="javascript" type="text/javascript" src="http://ad.doubleclick.net/adj/'+strDfpZone+';tile=1;sz=728x90;ord='+window.ord+'?"><\/script>');
+							    	}				    	        
+							    
+				    						</script><script language="javascript" type="text/javascript" src="http://ad.doubleclick.net/adj/fbcidol;tile=1;sz=728x90;ord=undefined?"></script>
 					<noscript>
 						<a href="http://ad.doubleclick.net/jump/fbcidol;tile=1;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/fbcidol;tile=1;sz=728x90;ord=123456789?" border="0" alt="" /></a>
 					</noscript>
@@ -171,8 +157,24 @@ function myHeaderOnSubmit()
 
 
 				</div>
-	               <div id="tunein"><p><a href="http://www.americanidol.com">Season Premiere Jan. 12 &amp; 13 8/7c</a></p></div>
+	               <div id="tunein"><p><a href="http://www.americanidol.com">Audition &amp; Tour Sections Coming Soon!</a></p></div>
                <div id="tunein-logo"><img src="http://www.americanidol.com/media/header/fox-logo.png" width="43" height="20" alt="FOX"></div>
+               <div id="sponsor-logos">
+	                    <script type="text/javascript">
+						var loc = window.location.toString()
+						if (strDfpZone == 'fbcidol/home') {
+							document.write('<div id="logo-bar"><a href="http://clk.atdmt.com/CNT/go/196502233/direct;wi.1;hi.1/01/" target="_blank"><img src="http://view.atdmt.com/CNT/view/196502233/direct;wi.1;hi.1/01/" width="1" height="1" border="0" alt="" /><img src="http://www.americanidol.com/media/header/att-logo.png" width="63" height="32" alt="AT&amp;T" id="att-logo" border="0" /></a><a href="http://ad.doubleclick.net/clk;220358591;43810663;f" target="_blank"><img src="http://ad.doubleclick.net/ad/N4390.httpOX2602/B4128063.34;sz=1x1;ord=' + ord + '?" width="1" height="1" border="0" alt="Click Here" /><img src="http://www.americanidol.com/media/header/coke-logo.png" width="70" height="32" alt="Coca-Cola" id="coca-cola-logo" border="0" /></a><a href="http://ad.doubleclick.net/click;h=v2|3BDF|0|0|%2a|m;220757840;0-0;0;40655984;31-1|1;34786391|34804269|1;;%3fhttp://www.fordvehicles.com/?bannerid=423424|40655984|220757840|0&referrer=N3016.americanidol.com" target="_blank"><img src="http://ad.doubleclick.net/imp;v1;f;220757840;0-0;0;40655984;1|1;34786391|34804269|1;;cs=h%3fhttp://ad.doubleclick.net/dot.gif?' + ord + '" width="1" height="1" alt="" border="0" /><img src="http://www.americanidol.com/media/header/ford-logo.png" width="67" height="32" alt="Ford" id="ford-logo" border="0" /></a></div><p>presented by</p>');
+						} else if( loc.indexOf('/mobile') > 0 || strDfpZone == 'fbcidol/mobile') {
+							document.write('<div id="logo-bar"><a href="http://clk.atdmt.com/CNT/go/129522148/direct/01/"><img src="http://view.atdmt.com/CNT/view/129522148/direct/01/" width="1" height="1" border="0" alt="" /><img src="http://www.americanidol.com/media/header/att-logo.png" width="63" height="32" alt="AT&amp;T" id="att-logo" border="0" /></a></div><p>presented by</p>');
+						} else if( loc.indexOf('/contestants') > 0 || loc.indexOf('com/top_36') > 0 || loc.indexOf('/ford/challenge') > 0 || strDfpZone == 'fbcidol/challenge' || strDfpZone == 'fbcidol/contestants/profiles' || strDfpZone == 'fbcidol/contestants') {
+							document.write('<div id="logo-bar"><a href="http://ad.doubleclick.net/click;h=v2|3A7D|0|0|%2a|r;210726208;0-0;0;31918288;31-1|1;29739454|29757331|1;;%3fhttp://www.fordvehicles.com/?bannerid=423424|31918288|210726208|0&referrer=N3016.americanidol.com"><img src="http://ad.doubleclick.net/imp;v1;f;210726208;0-0;0;31918288;1|1;29739454|29757331|1;;cs=e%3fhttp://ad.doubleclick.net/dot.gif?'+Math.random()*100000+'" width="1" height="1" alt="" border="0" /><img src="http://www.americanidol.com/media/header/ford-logo.png" width="67" height="32" alt="Ford" id="ford-logo" border="0" /></a></div><p>presented by</p>');
+						} else if( loc.indexOf('/behind_the_scenes') > 0 || strDfpZone == 'fbcidol/bts' || strDfpZone == 'fbcidol/bts/photos' || strDfpZone == 'fbcidol/bts/videos') {
+							document.write('<div id="logo-bar"><a href="http://ad.doubleclick.net/clk;210577895;32234636;m" target="_blank"><img src="http://ad.doubleclick.net/ad/N4390.httpOX2602/B3341370.36;sz=1x1;ord='+Math.random()*100000+'?" width="1" height="1" border="0" alt="Click Here" /><img src="http://www.americanidol.com/media/header/coke-logo.png" width="70" height="32" alt="Coca-Cola" id="coca-cola-logo" border="0" /></a></div><p>presented by</p>');
+						} else if(strDfpZone == 'fbcidol/video/fordmusic') {
+							document.write('<div id="logo-bar"><a href="http://ad.doubleclick.net/click;h=v2|3BDF|0|0|%2a|v;220757840;0-0;0;40656001;31-1|1;34786391|34804269|1;;%3fhttp://www.fordvehicles.com/?bannerid=423424|40656001|220757840|0&referrer=N3016.americanidol.com"><img src="http://ad.doubleclick.net/imp;v1;f;220757840;0-0;0;40656001;1|1;34786391|34804269|1;;cs=z%3fhttp://ad.doubleclick.net/dot.gif?[timestamp]" width="1" height="1" alt="" border="0" /><img src="http://www.americanidol.com/media/header/ford-logo.png" width="67" height="32" alt="Ford" id="ford-logo" border="0" /></a></div><p>presented by</p>');
+						} 
+						</script>
+	          </div>
           </div>
           <div class="clear"></div>
      </div>
@@ -180,16 +182,15 @@ function myHeaderOnSubmit()
      <div id="menubar-container">
           <div id="menu-image-container">
                <div id="menu-margin">
-                    <div id="menu-image-phase" class="menu-sprite" rel="0"><a href="http://www.americanidol.com/auditions/"></a></div>
-                    <div id="menu-image-spacer"></div>
-                    <div id="menu-image-contestants" class="menu-sprite" rel="1"><a href="http://www.americanidol.com/contestants/season_8/"></a></div>
-                    <div id="menu-image-photos" class="menu-sprite" rel="2"><a href="http://www.americanidol.com/photos/"></a></div>
+               		<div id="menu-image-auditions" class="menu-sprite" rel="0"><a href="http://www.americanidol.com/auditions/"></a></div>
+                    <div id="menu-image-contestants" class="menu-sprite" rel="1"><a href="http://www.americanidol.com/contestants/"></a></div>
+                                        <div id="menu-image-photos" class="menu-sprite" rel="2"><a href="http://www.americanidol.com/photos/"></a></div>
                     <div id="menu-image-videos" class="menu-sprite" rel="3"><a href="http://www.americanidol.com/videos/"></a></div>
-                    <div id="menu-image-downloads" class="menu-sprite" rel="4"><a href="http://www.americanidol.com/downloads/"></a></div>
+                                        <div id="menu-image-downloads" class="menu-sprite" rel="4"><a href="http://www.americanidol.com/downloads/"></a></div>
                     <div id="menu-image-games" class="menu-sprite" rel="5"><a href="http://www.americanidol.com/games/"></a></div>
-                    <div id="menu-image-behind" class="menu-sprite" rel="6"><a href="http://ad.doubleclick.net/clk;210577846;32234623;e"></a></div>
+                    <div id="menu-image-behind" class="menu-sprite" rel="6"><a href="http://www.americanidol.com/behind_the_scenes/"></a></div>
                     <div id="menu-image-mobile" class="menu-sprite" rel="7"><a href="http://www.americanidol.com/mobile/"></a></div>
-                                        <div id="menu-image-info" class="menu-sprite" rel="9"><a href="http://www.americanidol.com/about/"></a></div>
+                                       <div id="menu-image-info" class="menu-sprite" rel="8"><a href="http://www.americanidol.com/about/"></a></div>
                </div>
           </div>
      </div>
@@ -199,27 +200,42 @@ function myHeaderOnSubmit()
           <div id="menu-container">
                <div id="menu0" class="idol-menu">
                     <div class="idol-menu-links">
-                         <ul>
-                         	<li><p><a href="http://www.americanidol.com/auditions/">Auditions Front Page</a></p></li>
-                         	<li><p><a href="http://www.americanidol.com/photos/season_9/auditions/">Audition Photos</a></p></li>
-                         	<li><p><a href="http://www.americanidol.com/videos/season_9/auditions/">Audition Videos</a></p></li>
-                         	<li><p><a href="http://www.americanidol.com/news/">Idol News</a></p></li>
-                         	<li><p><a href="http://www.americanidol.com/calendar/">Idol Calendar</a></p></li>
-                         	<li><p><a href="http://www.americanidol.com/idol_nation/season_9/">Idol Map</a></p></li>
-                         	<li><p><a href="http://www.americanidol.com/tour/">Summer Tour</a></p></li>
-                         </ul>
+                    	<ul>
+							<li><p><a href="http://www.americanidol.com/auditions/">Auditions Front Page</a></p></li>
+							<li><p><a href="http://www.americanidol.com/auditions/season_10/nashville/">Nashville</a></p></li>
+							<li><p><a href="http://www.americanidol.com/auditions/season_10/milwaukee/">Milwaukee</a></p></li>
+							<li><p><a href="http://www.americanidol.com/auditions/season_10/new_orleans/">New Orleans</a></p></li>
+							<li><p><a href="http://www.americanidol.com/auditions/season_10/east_rutherford/">East Rutherford</a></p></li>
+							<li><p><a href="http://www.americanidol.com/auditions/season_10/austin/">Austin</a></p></li>
+							<li><p><a href="http://www.americanidol.com/auditions/season_10/san_francisco/">San Francisco</a></p></li>
+						</ul>
                     </div>
                </div>
                <div id="menu1" class="idol-menu">
                     <div class="idol-menu-links sponsor-ford">
                          <ul>
-                              <li><p><a href="http://www.americanidol.com/contestants/season_8/">Top 13</a></p></li>
-                                                            <li><p><a href="http://www.americanidol.com/archive/">Archive</a></p></li>
+	                         <li><p><a href="http://www.americanidol.com/contestants/">Contestants Front Page</a></p></li>
+							  
+                                                          <li><p><a href="http://www.americanidol.com/downloads/season_9/widgets/aaron_kelly/">Contestant Widget</a></p></li>
+                             <li><p style="color:#1A6EC7; font:14px Arial,sans-serif; margin:0; padding:0;">Past Seasons</p>
+                             	<p class="sponsor">
+                             		<a href="http://www.americanidol.com/contestants/season_8/"> 8 </a>&nbsp;
+                             		<a href="http://www.americanidol.com/contestants/season7/"> 7 </a>&nbsp;
+                             		<a href="http://www.americanidol.com/contestants/season6/"> 6 </a>&nbsp;
+                             		<a href="http://www.americanidol.com/contestants/season5/"> 5 </a>&nbsp;
+                             		<a href="http://www.americanidol.com/contestants/season4/"> 4 </a>&nbsp;
+                             		<a href="http://www.americanidol.com/contestants/season3/"> 3 </a>&nbsp;
+                             		<a href="http://www.americanidol.com/contestants/season2/"> 2 </a>&nbsp;
+                             		<a href="http://www.americanidol.com/contestants/season1/"> 1 </a>
+                             		</p>
+                             </li>
 						
                          </ul>
 						<div id="presented-by-ford">
 							<p class="sponsor">PRESENTED BY</p>
-							<img src="http://www.americanidol.com/media/comps/header/subnav/contestants/ford-logo-large.png" width="100" height="40" border="0" alt="Ford">
+							<a target="_blank" href="http://ad.doubleclick.net/clk;220757770;40655989;w?http://www.fordvehicles.com/?bannerid=220757840|40655989|220757770|0&amp;referrer=N3016.americanidol.com">
+								<img src="http://www.americanidol.com/media/comps/header/subnav/contestants/ford-logo-large.png" width="100" height="40" border="0" alt="Ford">
+							</a>
 						</div>
                     </div>
                </div>
@@ -227,16 +243,15 @@ function myHeaderOnSubmit()
                     <div class="idol-menu-links">
                          <ul>
               				<li><p><a href="http://www.americanidol.com/photos/">Photos Front Page</a></p></li>
-              				<li><p><a href="http://www.americanidol.com/photos/season_9/auditions/">Season 9 Auditions</a></p></li>
-              				<li><p><a href="http://www.americanidol.com/photos/season_8/top_13/">Top 13 Finalists</a></p></li>
-              				<li><p><a href="http://www.americanidol.com/photos/season_8/performances/">Performances</a></p></li>
-              				<li><p><a href="http://www.americanidol.com/photos/season_8/results/">Results</a></p></li>
-                            <li><p><a href="http://www.americanidol.com/photos/season_8/behind_the_scenes/">Behind the Scenes</a></p>
+              				<li><p><a href="http://www.americanidol.com/photos/season_9/contestants/">Top 24 Contestants</a></p></li>
+              				<li><p><a href="http://www.americanidol.com/photos/season_9/top_12_shows/">Top 12 Shows</a></p></li>
+              				<li><p><a href="http://www.americanidol.com/photos/season_9/top_24_shows/">Top 24 Shows</a></p></li>
+              				              				<li><p><a href="http://www.americanidol.com/photos/season_9/recaps/">Photo Recaps</a></p>
+              				</li>
+              				              				                            <li><p><a href="http://www.americanidol.com/photos/season_9/behind_the_scenes/">Behind the Scenes</a></p>
                                 <p class="sponsor">Presented by Coca-Cola</p>
                             </li>
-                            <li><p><a href="http://www.americanidol.com/photos/season_8/hair_style/">Hair Styles That Rock</a></p>
-                                                            </li>
-                            <li><p><a href="http://www.americanidol.com/archive/photos/">Archive</a></p></li>
+                                                        <li><p><a href="http://www.americanidol.com/archive/">Past Season Archives</a></p></li>
                          </ul>
                     </div>
 
@@ -245,27 +260,45 @@ function myHeaderOnSubmit()
                     <div class="idol-menu-links">
                          <ul>
 						<li><p><a href="http://www.americanidol.com/videos/">Video Front Page</a></p></li>
-						<li><p><a href="http://www.americanidol.com/videos/season_9/auditions/">Season 9 Auditions</a></p></li>
-						<li><p><a href="http://www.americanidol.com/videos/season_8/the_top_13_finalists/">Top 13</a></p></li>
-												<li><p><a href="http://www.americanidol.com/videos/season_8/behind_the_scenes/">Behind the Scenes</a></p>
+						<li><p><a href="http://www.americanidol.com/videos/season_9/performances/?ref=ai9_header_videos_itunes_perf">Performances</a></p>
+						</li>
+												<li><p><a href="http://www.americanidol.com/videos/season_9/recaps/">Video Recaps</a></p>
+						</li>
+												<!-- li><p><a href="http://www.americanidol.com/videos/season_9/golden_ticket_interviews/">Golden Ticket Interviews</a></p></li-->
+						<li><p><a href="http://www.americanidol.com/videos/season_9/behind_the_scenes/">Behind the Scenes</a></p>
                                   <p class="sponsor">Presented by Coca-Cola</p>
 						</li>
-
+						<li><p><a href="http://www.americanidol.com/videos/season_9/ford_music_videos/">Ford Music Videos</a></p>
+						</li>
+						<li><p><a href="http://www.americanidol.com/videos/season_9/curtain_call/">Curtain Call Interviews</a></p>
+                                  <p class="sponsor">Presented by Coca-Cola</p>
+						</li>
+						<li><p><a href="http://www.americanidol.com/videos/season_9/finalist_diaries/">Finalist Diaries</a></p>
+						</li>
+						<li><p><a href="http://ad.doubleclick.net/clk;221447536;44263309;e">Shining Moments</a></p>
+                            						</li>
+						<li><p><a href="http://www.americanidol.com/videos/season_9/moments_that_make_you_smile/">Moments That Make You Smile</a></p>
+                                  <p class="sponsor">Presented by Olay</p>
+						</li>
+																		
+						
                          
-                                                            
-												                              <li><p><a href="http://www.americanidol.com/archive/videos/">Archive</a></p></li>
-                         </ul>
+                              												                                                 </ul>
                     </div>
                </div>
-               <div id="menu4" class="idol-menu">
+                              <div id="menu4" class="idol-menu">
                     <div class="idol-menu-links">
-                         <ul>
-						<li><p><a href="http://www.americanidol.com/downloads/">Downloads Front Page</a></p></li>
-						<li><p><a href="http://www.americanidol.com/downloads/season_8/icons/">Badges &amp; Icons</a></p></li>
-						<li><p><a href="http://www.americanidol.com/downloads/season_8/screensavers/">Screensavers</a></p></li>
-						<li><p><a href="http://www.americanidol.com/downloads/season_8/wallpapers/">Wallpapers</a></p></li>
-						<li><p><a href="http://www.americanidol.com/downloads/season_8/widgets/">Widgets</a></p></li>
-					</ul>
+                        <ul>
+							<li><p><a href="http://www.americanidol.com/downloads/">Downloads Front Page</a></p></li>
+														<li><p><a href="http://www.americanidol.com/downloads/season_9/widgets/">Widgets</a></p></li>
+							<li><p><a href="http://www.americanidol.com/downloads/season_9/widgets/aaron_kelly/">Contestant Widget</a></p>
+								<p class="sponsor">Presented by Ford</p>
+							</li>
+							<li><p><a href="http://www.americanidol.com/downloads/season_9/icons/">Badges &amp; Icons</a></p></li>
+							<li><p><a href="http://www.americanidol.com/downloads/season_9/screensavers/">Screensavers</a></p></li>
+							<li><p><a href="http://www.americanidol.com/downloads/season_9/wallpapers/">Wallpapers</a></p></li>
+							
+						</ul>
                     </div>
                </div>
 			<div id="menu5" class="idol-menu">
@@ -275,17 +308,22 @@ function myHeaderOnSubmit()
 														<li><p><a href="http://www.americanidol.com/games/idol_trivia/">Idol Trivia</a></p></li>
 							<li><p><a href="http://www.americanidol.com/games/picture_puzzle/">Picture Puzzle</a></p></li>
 							<li><p><a href="http://www.americanidol.com/games/photo_match/">Photo Match</a></p></li>
+							<li><p><a href="http://www.americanidol.com/games/star_experience/">American Idol Experience</a></p></li>
+							<li><p><a href="http://www.americanidol.com/games/hometown_challenge/">Idol Hometown Challenge</a></p></li>
+							<li><p><a href="http://www.americanidol.com/games/lyric_challenge/">Lyrics Challenge</a></p></li>
 						</ul>
 					</div>
                </div>
                <div id="menu6" class="idol-menu">
                     <div class="idol-menu-links">
-                         <ul>
-						<li><p><a href="http://ad.doubleclick.net/clk;210577846;32234623;e">Behind the Scenes Front Page</a></p></li>
-                              <li><p><a href="http://www.americanidol.com/photos/season_8/behind_the_scenes/">Backstage Photos</a></p></li>
-                              <li><p><a href="http://www.americanidol.com/videos/season_8/behind_the_scenes/">Backstage Videos</a></p></li>
-						<li><p><a href="http://ad.doubleclick.net/clk;213044497;32272232;w">Virtual Set Tours</a></p></li>
-						<li><p><a href="http://www.americanidol.com/downloads/season_8/widgets/" target="_blank">Get the Widget</a></p></li>
+						<ul>
+							<li><p><a href="http://www.americanidol.com/behind_the_scenes/">Behind the Scenes Front Page</a></p></li>
+                        	<li><p><a href="http://www.americanidol.com/photos/season_9/behind_the_scenes/">Backstage Photos</a></p></li>
+                            <li><p><a href="http://www.americanidol.com/videos/season_9/behind_the_scenes/">Backstage Videos</a></p></li>
+                            <li><p><a href="http://www.americanidol.com/videos/season_9/curtain_call/">Curtain Call Videos</a></p></li>
+							<li><p><a href="http://ad.doubleclick.net/clk;213044497;32272232;w">Virtual Set Tours</a></p></li>
+							<li><p><a href="http://www.americanidol.com/downloads/season_9/wallpapers/">Desktop Downloads</a></p></li>
+							<li><p><a href="http://www.americanidol.com/downloads/season_9/widgets/" target="_blank">Get the Widget</a></p></li>
                          </ul>
                          <div id="presented-by">
                               <p class="sponsor">Presented By:</p>
@@ -304,52 +342,221 @@ function myHeaderOnSubmit()
                          </ul>
                     </div>
                </div>
-                              <div id="menu9" class="idol-menu">
+                              <div id="menu8" class="idol-menu">
                     <div class="idol-menu-links">
                     	<ul>
+	                    	<li><p><a href="http://www.americanidol.com/finale/">Finale Coverage</a></p></li>
 							<li><p><a href="http://www.americanidol.com/recaps/">Episode Recaps</a></p></li>
 							<li><p><a href="http://www.americanidol.com/idol_nation/">Idol Nation Map</a></p></li>
 							<li><p><a href="http://www.americanidol.com/about/">About the Show</a></p></li>
-                            <li><p><a href="http://www.americanidol.com/bio/simon_cowell/">Judge &amp; Host Bios</a></p></li>
                             <li><p><a href="http://www.americanidol.com/faq/">Voting Tips &amp; FAQ</a></p></li>
+                            <li><p><a href="http://www.americanidol.com/bio/simon_cowell/">Judge &amp; Host Bios</a></p></li>
                             <li><p><a href="http://www.americanidol.com/calendar/">Calendar</a></p></li>
                             <li><p><a href="http://www.americanidol.com/news/">News</a></p></li>
                             <li><p><a href="http://www.americanidol.com/idolgivesback/">Idol Gives Back</a></p></li>
                             <li><p><a href="http://www.americanidol.com/newsletter/">Newsletter</a></p></li>
-                            <li><p><a href="http://www.twitter.com/americanidol" target="_blank">Idol on Twitter</a></p></li>
-                            <li><p><a href="http://www.americanidol.com/archive/">Past Seasons</a></p></li>
+                                                        <li><p><a href="http://www.americanidol.com/archive/">Past Seasons</a></p></li>
                          </ul>
                     </div>
                </div>
           </div>
 
      </div>
+	
 
+	 <div id="utility-bar-container">
+	     <div id="utility-bar-bg-left"></div>
+	     <div id="utility-bar">
+	     	<div id="sign-in-flow">
+				   
+               		<div id="myidol-menu"></div>
+               		
+               		<div id="sign-in-container">
+		                		                
+												
+								<!-- Logged out testabk -->
+<div id="myidol-login-box">
+<form method="post" action="http://myidol.americanidol.com/tools/login.one" name="tumLoginForm" id="tumLoginForm">
+<input name="services" value="true" type="hidden" style="display:none;">
+<input name="failurl" value="http://myidol.americanidol.com/tools/quicklogin.one" type="hidden" style="display:none;">
+<input name="origin_url" id="origin_url" value="" type="hidden" style="display:none;">
+<span class="input-border">
+<input type="text" name="username" id="myidol-username" value="Username" onkeypress="return submitenter(this.form,event);">
+</span>
+<span class="input-border">
+<input type="text" name="myidol-password-holder" id="myidol-password-holder" value="Password">
+<input type="password" name="password" id="myidol-password" value="" style="display:none" onkeypress="return submitenter(this.form,event);">
+</span>
+<a class="button" onclick="submitMyIdolLoginForm(); return false;" id="tum_login_link_right">Sign In</a>
+</form>
+<div id="community-signin">
+<span href="#">Sign In</span>
+</div>
+<div id="community-forgot">
+<a href="http://myidol.americanidol.com/help/forgot_password.one">Forgot ID/Password?</a>
+</div>
+<div id="community-signup">
+<a href="http://myidol.americanidol.com/signup1/">Sign Up!</a>
+</div>
+</div>
+<script type="text/javascript">
+$('community-signin').addEvent('click', function() {
+	$('community-signin').getFirst('span').set({'styles':{'background':'#fafafa', 'color':'#999'}});
+	var slideOutLink = new Fx.Morph('community-signin', {duration: '600', transition:Fx.Transitions.Sine.easeOut});
+	slideOutLink.start({
+		'width': [62, 0],
+		'opacity': [1, 0]
+	});
+	var slideInForm = new Fx.Morph('tumLoginForm', {duration: '1500', transition:Fx.Transitions.Quad.easeInOut});
+	slideInForm.start({
+		'width': [0, 290],
+		'opacity': [0, 1],
+		'padding-left': [0, 10]
+	});
+});
+
+function submitMyIdolLoginForm() {
+	$('origin_url').value = window.location.href;
+	document.tumLoginForm.submit();
+}
+</script>
+
+							
+						
+						<!-- END sign-in form -->
+						
+						
+
+					</div>
+					
+					<div class="sign-in-flow-endcap"></div> 
+            </div> 
+            <!-- BEGIN idol community dropdown content -->
+            	
+	               <div id="myidol-menu-links">
+						<ul id="myidol-loggedout-links">
+							<li class="sign-up-btn"><a class="button" href="http://myidol.americanidol.com/signup1">Sign Up Now!</a></li>
+							<li><a href="http://myidol.americanidol.com/go/view/blogs">Blogs</a></li>
+							<li><a href="http://myidol.americanidol.com/go/view/photos">Photos</a></li>
+							<li><a href="http://myidol.americanidol.com/go/view/groups">Groups</a></li>
+							<li><a href="http://myidol.americanidol.com/go/forum/viewboard">Forums</a></li>
+							<li><a href="http://myidol.americanidol.com/invite.one">Invite</a></li>
+							<li class="at-foot"><a href="http://myidol.americanidol.com/help/index.one">Help Desk</a>&nbsp; | &nbsp;<a href="http://myidol.americanidol.com/help/tos.one">Terms</a></li>
+						</ul>
+						
+													
+							
+						
+					</div>
+				   <!-- END idol community dropdown content -->
+         	<div id="search-terms">
+         		<form id="header-search-form-global" method="get" name="search" onsubmit="myHeaderOnSubmit();">
+         			<span class="input-border"><input type="text" class="moocomplete" id="search-input" value="Search ..."></span>
+         			<div id="search-between-buttons">
+         				<a class="button" id="search-ai-site">Show Site</a>
+         				<a class="button" id="search-myidol-site">IDOL Community</a>
+         			</div>
+         		</form>
+         	</div>
+         	
+         	<script type="text/javascript">
+			//Utility Bar Search Form
+				var myidoltimer;
+			
+				$('search-input').addEvent('click',removeSearchValue);
+				$('search-input').addEvent('keydown',keysubmitAISearch);
+				Event.Keys.enter = 13;
+
+				function keysubmitAISearch(event) {
+				    if (event.key == "enter") {
+				    	$('search-input').setProperty('name', 'q');
+						$('header-search-form-global').setProperty('action', 'http://www.americanidol.com/search/');
+						myHeaderOnSubmit();
+						document.forms['search'].submit();
+				    }
+				}
+
+				function removeSearchValue() {
+					$('search-input').removeProperty('value');
+				}
+			
+				$('search-ai-site').addEvent('mouseenter',showMyidolSearchBtn);
+				$('search-ai-site').addEvent('mouseleave',delayHide);
+				$('search-ai-site').addEvent('click',submitAISearch);
+				
+				$('search-myidol-site').addEvent('mouseenter',showMyidolSearchBtn);
+				$('search-myidol-site').addEvent('mouseleave',delayHide);
+				$('search-myidol-site').addEvent('click',submitMyidolSearch);
+				
+				
+				
+				function submitAISearch() {
+					$('search-input').setProperty('name', 'q');
+					$('header-search-form-global').setProperty('action', 'http://www.americanidol.com/search/');
+			
+					var SearchInputFieldValue = $('search-input').getProperty('value');	
+					if ($type(SearchInputFieldValue) == 'string' && SearchInputFieldValue == 'Search ...'){
+						removeSearchValue();
+						}
+					
+					myHeaderOnSubmit();
+					document.forms['search'].submit();
+				}
+				function submitMyidolSearch() {
+					$('search-input').setProperty('name', 'terms');
+					$('header-search-form-global').setProperty('action', 'http://myidol.americanidol.com/go/network/search');
+			
+					var SearchInputFieldValue = $('search-input').getProperty('value');	
+					if ($type(SearchInputFieldValue) == 'string' && SearchInputFieldValue == 'Search ...'){
+						removeSearchValue();
+						}
+					
+					myHeaderOnSubmit();
+					document.forms['search'].submit();
+				}
+				function showMyidolSearchBtn() {
+					$('search-myidol-site').show();
+					clearInterval(myidoltimer);
+					$('search-ai-site').addClass("arrow-down");
+					if (!($$('#search-terms .shadow')[0])) {
+						var ds7 = new DropShadow($('search-between-buttons'),0x000000,0,0.8,8,8,0,0.45,'shadow',20);
+						$(ds7).set({'styles': {
+							'top':-5,
+							'left':203
+						}});
+					}
+				}
+				function hideMyidolSearchBtn() {
+					$('search-myidol-site').hide();
+					$('search-ai-site').removeClass("arrow-down");
+					$$('#search-terms .shadow').each(function(el) {
+						el.dispose();						  
+					});
+				}
+				function delayHide() {
+					clearInterval(myidoltimer);
+					myidoltimer = setInterval(function() {
+						clearInterval(myidoltimer);
+						hideMyidolSearchBtn();
+					},10);
+				}
+			
+			</script>
+         	
+	     </div>
+     </div>
+     
+	<!-- end utility-bar-container -->
 
      <div id="spinner-header"></div>
 </div>
 
-<div id="myidol-menu-links">
-	<ul id="myidol-loggedout-links">
-		<li><a href="http://myidol.americanidol.com/go/browse/users">People</a></li>
-		<li><a href="http://myidol.americanidol.com/go/browse/blogs">Blogs</a></li>
-		<li><a href="http://myidol.americanidol.com/go/browse/photos">Photos</a></li>
-		<li><a href="http://myidol.americanidol.com/go/browse/groups">Groups</a></li>
-		<li><a href="http://myidol.americanidol.com/go/forum/viewcategory/86789/Current_Season">Forums</a></li>
-		<li><a href="http://myidol.americanidol.com/invite.one">Invite</a></li>
-		<li><a href="http://myidol.americanidol.com/help/index.one">Help Desk</a></li>
-		<li><a href="http://myidol.americanidol.com/help/tos.one">Terms of Service</a></li>
-		<li><a href="http://myidol.americanidol.com/signup1">Sign Up</a></li>
-	</ul>
 
-		
-	</div>
 
 <script type="text/javascript">
 	headerInit();
 	dropdownInit();
-</script>
-</div>
+</script></div>
 <div id="content-container">
 <div id="content-main">
 <div id="colL">
@@ -357,13 +564,15 @@ function myHeaderOnSubmit()
 	<h1>AMERICANIDOL.COM PRIVACY POLICY</h1>
 	<p>EFFECTIVE AS OF DECEMBER 12, 2008</p>
 </div>
-<p>Fox Digital Media ("Fox Digital"), a division of Fox Entertainment Group, is part of the News America Group, which has adopted a set of Privacy Principles (the "Principles") (<a href="http://www.newscorp.com/privacy.html">http://www.newscorp.com/privacy.html</a>) applicable to all its U.S.-based companies. Fox Digital operates the internet web site located at www.americanidol.com (our "Site"). Fox Digital has implemented those Principles in this Privacy Policy (the "Privacy Policy"), which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. both online and offline.</p>
-<p>The Site is a general audience web site, and Fox Digital does not knowingly
-	collect PII from children under 13 years of age. </p>
-<p>This Privacy Policy applies to "Visitors," which means that you simply browse the Site, "Subscribers," which means that you have subscribed to receive a newsletter, and "Members," which means that you have registered with our Site. The term "User" refers to a Visitor, Subscriber or a Member. By using our Site, you signify your agreement with all the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use our Site.</p>
-<p>From time to time Fox Digital may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our Site or technology. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of such Privacy Policy. Your continued use of the Site after Fox Digital posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. Notwithstanding the foregoing, if Fox Digital materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of and have not objected to the change(s). In the event the last e-mail address you provided to us is not valid or is not capable of delivering the notice to you, Fox Digital's dispatch of an e-mail containing the notice to that e-mail address shall nonetheless constitute effective notice.</p>
-<ul>
-<li><span>&nbsp;&nbsp;&nbsp;&nbsp;<strong>COLLECTION: COLLECTION OF PII BY FOX DIGITAL.</strong></span>
+<div class="policyPreface">
+	<p>Fox Digital Media ("Fox Digital"), a division of Fox Entertainment Group, is part of the News America Group, which has adopted a set of Privacy Principles (the "Principles") (<a href="http://www.newscorp.com/privacy.html">http://www.newscorp.com/privacy.html</a>) applicable to all its U.S.-based companies. Fox Digital operates the internet web site located at www.americanidol.com (our "Site"). Fox Digital has implemented those Principles in this Privacy Policy (the "Privacy Policy"), which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. both online and offline.</p>
+	<p>The Site is a general audience web site, and Fox Digital does not knowingly
+		collect PII from children under 13 years of age. </p>
+	<p>This Privacy Policy applies to "Visitors," which means that you simply browse the Site, "Subscribers," which means that you have subscribed to receive a newsletter, and "Members," which means that you have registered with our Site. The term "User" refers to a Visitor, Subscriber or a Member. By using our Site, you signify your agreement with all the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use our Site.</p>
+	<p>From time to time Fox Digital may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our Site or technology. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of such Privacy Policy. Your continued use of the Site after Fox Digital posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. Notwithstanding the foregoing, if Fox Digital materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of and have not objected to the change(s). In the event the last e-mail address you provided to us is not valid or is not capable of delivering the notice to you, Fox Digital's dispatch of an e-mail containing the notice to that e-mail address shall nonetheless constitute effective notice.</p>
+</div>
+<ul class="privacyPolicy">
+<li><span class="policyHeader1">&nbsp;&nbsp;&nbsp;&nbsp;<strong>COLLECTION: COLLECTION OF PII BY FOX DIGITAL.</strong></span>
 	<p><strong>General</strong>. When Fox Digital collects PII, such as your full
 		name, email address or birth date, from you it is because you are voluntarily
 		submitting the information to us in order to register as a Member ("Registration
@@ -385,8 +594,7 @@ function myHeaderOnSubmit()
 		controlling their account settings, by going to the Your Profile page and
 		clicking on the "Edit Profile &amp; Theme" button.</p>
 	<p>Fox Digital collects information from you at several
-		different points on the Site in the manner set forth below:<br>
-		<br>
+		different points on the Site in the manner set forth below:
 	</p>
 	<p><strong>Member Registration
 		and Profile</strong>: In order to access certain information and services on the
@@ -478,7 +686,7 @@ function myHeaderOnSubmit()
 		addresses to analyze trends, administer our Site, track a User's movement, and
 		gather broad demographic information for aggregate use.</p>
 </li>
-<li><span>&nbsp;&nbsp;&nbsp;&nbsp;NOTICE: FOX DIGITAL WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION
+<li><span class="policyHeader1">&nbsp;&nbsp;&nbsp;&nbsp;NOTICE: FOX DIGITAL WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION
 	PRACTICES</span>
 	<p>When you voluntarily provide PII to Fox Digital, we will make sure you are
 		informed about who is collecting the information, how and why the information
@@ -525,13 +733,13 @@ function myHeaderOnSubmit()
 		own privacy policies, please visit:<br>
 		<a href="http://www.doubleclick.net/privacy_policy">http://www.doubleclick.net/privacy_policy </a><br>
 </p></li>
-<li><span>&nbsp;&nbsp;&nbsp;&nbsp;CHOICE: FOX DIGITAL WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII</span>
+<li><span class="policyHeader1">&nbsp;&nbsp;&nbsp;&nbsp;CHOICE: FOX DIGITAL WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII</span>
 	<p>Fox Digital will not use the PII you provide to us for purposes different
 		from the purpose for which it was submitted, or share your PII with third
 		parties that are not affiliated with Fox Digital (i.e., not part of the News
 		America Group), unless we obtain your permission. </p>
 </li>
-<li><span>&nbsp;&nbsp;&nbsp;&nbsp;USE: FOX DIGITAL'S USE OF PII</span>
+<li><span class="policyHeader1">&nbsp;&nbsp;&nbsp;&nbsp;USE: FOX DIGITAL'S USE OF PII</span>
 	<p>Fox Digital will use your PII provided under this Privacy Policy in a manner
 		that is consistent with this Privacy Policy. If Fox Digital obtains PII from a
 		third party, such as a business partner, our use of that information is
@@ -569,7 +777,7 @@ function myHeaderOnSubmit()
 		merger or business transfer, Fox Digital may transfer your PII to a third party
 		as part of that transaction. </p>
 </li>
-<li><span>&nbsp;&nbsp;&nbsp;&nbsp;SECURITY: FOX DIGITAL PROTECTS THE SECURITY OF PII</span>
+<li><span class="policyHeader1">&nbsp;&nbsp;&nbsp;&nbsp;SECURITY: FOX DIGITAL PROTECTS THE SECURITY OF PII</span>
 	<p>Fox Digital uses reasonable administrative, technical, personnel and
 		physical measures to safeguard PII in its possession against loss, theft and
 		unauthorized use, disclosure or modification. In addition, Fox Digital uses
@@ -579,7 +787,7 @@ function myHeaderOnSubmit()
 		guarantee that information that you supply will not be intercepted while being
 		transmitted to Fox Digital over the Internet.</p>
 </li>
-<li><span>&nbsp;&nbsp;&nbsp;&nbsp;<strong>ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII</strong></span>
+<li><span class="policyHeader1">&nbsp;&nbsp;&nbsp;&nbsp;<strong>ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII</strong></span>
 	<p>Whenever possible, Members and Subscribers may review the
 		PII we maintain about them in our records. We will take reasonable steps to
 		correct any PII a Member or Subscriber informs us of in writing is incorrect.
@@ -609,7 +817,7 @@ function myHeaderOnSubmit()
 		P.O. Box 900<br>
 		Beverly Hills, CA 90213</p>
 </li>
-<li><span>&nbsp;&nbsp;&nbsp;&nbsp;<strong>REMEDIES AND COMPLIANCE: HOW TO CONTACT FOX DIGITAL ABOUT PRIVACY CONCERNS</strong></span>
+<li><span class="policyHeader1">&nbsp;&nbsp;&nbsp;&nbsp;<strong>REMEDIES AND COMPLIANCE: HOW TO CONTACT FOX DIGITAL ABOUT PRIVACY CONCERNS</strong></span>
 	<p>If you have concerns regarding privacy, your use of our Site, or the
 		collection and use of PII, you may contact the following Fox Digital
 		representative:</p>
@@ -621,7 +829,8 @@ function myHeaderOnSubmit()
 		Beverly Hills, CA 90213<br>
 		E-mail: <a href="mailto:idol.privacy@fox.com">idol.privacy@fox.com</a></p>
 </li>
-</ul></div>
+</ul>
+</div>
 <div id="colR">
 	<div id="medrecAd">
 			<!-- begin ad tag (medrec) -->
@@ -633,7 +842,7 @@ function myHeaderOnSubmit()
 				//]]>
 			</script><script language="javascript" type="text/javascript" src="http://ad.doubleclick.net/adj/fbcidol;tile=2;sz=300x250;ord=undefined?"></script>
 			<noscript>
-				<a href="http://ad.doubleclick.net/jump/fbcidol;tile=2;sz=300x250;ord=69103710?" target="_blank" ><img src="http://ad.doubleclick.net/ad/fbcidol;tile=2;sz=300x250;ord=62886152?" border="0" alt="" /></a>
+				<a href="http://ad.doubleclick.net/jump/fbcidol;tile=2;sz=300x250;ord=89446246?" target="_blank" ><img src="http://ad.doubleclick.net/ad/fbcidol;tile=2;sz=300x250;ord=53090041?" border="0" alt="" /></a>
 			</noscript>
 		<!-- end ad tag -->
 	</div>
@@ -645,40 +854,148 @@ function myHeaderOnSubmit()
 <div id="footer-container">
 			<div id="footer-main">
 				<div class="footer-section  left-column">
-					<h4>Season 9 Auditions</h4>
-					<ul>
-						<li><a href="http://www.americanidol.com/photos/season_9/auditions/">Audition Photos</a></li>
-						<li><a href="http://www.americanidol.com/videos/season_9/auditions/">Audition Videos</a></li>
-						<li><a href="http://www.americanidol.com/auditions/season_9/boston/">Boston</a></li>
-						<li><a href="http://www.americanidol.com/auditions/season_9/atlanta/">Atlanta</a></li>
-						<li><a href="http://www.americanidol.com/auditions/season_9/chicago/">Chicago</a></li>
-						<li><a href="http://www.americanidol.com/auditions/season_9/dallas/">Dallas</a></li>
-						<li><a href="http://www.americanidol.com/auditions/season_9/los_angeles/">Los Angeles</a></li>
-						<li><a href="http://www.americanidol.com/auditions/season_9/orlando/">Orlando</a></li>
-						<li><a href="http://www.americanidol.com/auditions/season_9/denver/">Denver</a></li>
+					<h4>Top 12 Contestants</h4>
+					<ul style="float:left; width:100%;">
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/aaron_kelly/">Aaron Kelly</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/aaron_kelly/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/aaron_kelly/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=aaron+kelly&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/andrew_garcia/">Andrew Garcia</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/andrew_garcia/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/andrew_garcia/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=andrew+garcia&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/casey_james/">Casey James</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/casey_james/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/casey_james/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=casey+james&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/crystal_bowersox/">Crystal Bowersox</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/crystal_bowersox/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/crystal_bowersox/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=crystal+bowersox&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/didi_benami/">Didi Benami</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/didi_benami/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/didi_benami/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=didi+benami&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/katie_stevens/">Katie Stevens</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/katie_stevens/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/katie_stevens/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=katie+stevens&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/lacey_brown/">Lacey Brown</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/lacey_brown/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/lacey_brown/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=lacey+brown&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/lee_dewyze/">Lee DeWyze</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/lee_dewyze/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/lee_dewyze/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=lee+dewyze&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/michael_lynche/">Michael Lynche</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/michael_lynche/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/michael_lynche/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=michael+lynche&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/paige_miles/">Paige Miles</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/paige_miles/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/paige_miles/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=paige+miles&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/siobhan_magnus/">Siobhan Magnus</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/siobhan_magnus/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/siobhan_magnus/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=siobhan+magnus&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/contestants/season_9/tim_urban/">Tim Urban</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/tim_urban/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/tim_urban/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?keywords[]=tim+urban&amp;ref=ai9_footer_top12_itunes_perf">Performances</a>
+						</li>
 					</ul>
-				</div>
+									</div>
 				
-				<div class="footer-section">
+				<div class="footer-section left-center-column">
 					<h4>American Idol Essentials</h4>
 					<ul>
-						<li><a class="grey" href="http://www.americanidol.com/photos/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/photos/season_8/top_13/">Top 13</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/photos/season_8/performances/">Performances</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/photos/season_8/results/">Results</a></li>
-						<li><a class="grey" href="http://www.americanidol.com/videos/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/videos/season_8/exit_interviews/">Exit Interviews</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/videos/season_8/performances/">Performances</a></li>
-						<li><a class="grey" href="http://www.americanidol.com/downloads/">Downloads</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/downloads/season_8/wallpapers/">Desktop Extras</a></li>
-						<li><a class="grey" href="http://www.americanidol.com/games/">Games</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/games/idol_trivia/">Idol Trivia</a></li>
-						<li><a class="grey" href="http://www.americanidol.com/behind_the_scenes/">Behind the Scenes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/photos/season_8/behind_the_scenes/behind_the_scenes_with_the_top_11/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/videos/season_8/behind_the_scenes/">Videos</a></li>
-						<li><a class="grey" href="http://www.americanidol.com/mobile/">Mobile</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/mobile/" target="_blank">Vote Reminders</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/mobile/" target="_blank">Ringtones</a></li>
-												<li><a class="grey" href="http://www.americanidol.com/recaps/">Recaps</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/recaps/">Photo</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/videos/season_8/recaps/">Video</a></li>
-						<li><a class="grey" href="http://www.americanidol.com/news/">News</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://myidol.americanidol.com/ai-insider/blog/">Insider Blog</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.americanidol.com/newsletter/">E-mail Registration</a></li>
-						<li><a class="grey" href="http://www.americanidol.com/archive/">Past Season Archives</a></li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/photos/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/contestants/winning_moment/">Contestants</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/recaps/hollywood_week_night_1/">Recaps</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/videos/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/performances/?ref=ai9_footer_itunes_perf">Performances</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/top_24_contestants/">Top 24 Interviews</a><br>
+							<span style="padding-left:38px;">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+							<a href="http://www.americanidol.com/videos/season_9/recaps/">Recaps</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/memorable_auditions/">Memorable Auditions</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/downloads/">Downloads</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/itunes/?ref=ai9_footer_essentials_itunes_landing">Performances</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/downloads/season_8/wallpapers/">Desktop Extras</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/games/">Games</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/games/idol_trivia/">Idol Trivia</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/games/lyric_challenge/">Lyrics Challenge Game</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/behind_the_scenes/">Behind the Scenes</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/behind_the_scenes/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/behind_the_scenes/">Videos</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/mobile/">Mobile</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/mobile/" target="_blank">Vote Reminders</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/mobile/" target="_blank">Ringtones</a>
+						</li>
+												<li>
+							<a class="grey" href="http://www.americanidol.com/recaps/">Recaps</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/recaps/">Photo</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/recaps/">Video</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/recaps/">Text</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/news/">News</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://myidol.americanidol.com/ai-insider/blog/">Insider Blog</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/newsletter/">E-mail Registration</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/news/">Auditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/photos/season_9/auditions/hollywood_week/">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a href="http://www.americanidol.com/videos/season_9/auditions/">Videos</a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/hollywood_week/"><strong>Hollywood Week</strong></a>
+						</li>
+						<li>
+							<a class="grey" href="http://www.americanidol.com/archive/"><strong>Past Season Archives</strong></a>
+						</li>
 					</ul>
 				</div>
 				
-				<div class="footer-section">
+				<div class="footer-section right-center-column">
 					<h4>MyIdol Fan Community</h4>
 					<ul>
 						<li><a href="http://myidol.americanidol.com/">Join MyIdol</a></li>
-						<li><a href="http://myidol.americanidol.com/go/browse/users">People</a></li>
 						<li><a href="http://myidol.americanidol.com/go/browse/blogs">Blogs</a></li>
 						<li><a href="http://myidol.americanidol.com/go/browse/photos">Photos</a></li>
 						<li><a href="http://myidol.americanidol.com/go/browse/groups">Groups</a></li>
@@ -696,23 +1013,23 @@ function myHeaderOnSubmit()
 					<ul>
 						<li><a href="http://www.americanidol.com/about/">About the Show</a></li>
 						<li><a href="http://www.americanidol.com/bio/simon_cowell/">Host &amp; Judges</a></li>
-						<li><a href="http://www.americanidol.com/faq/">Voting Tips &amp; FAQ</a></li>
 						<li><a href="http://www.americanidol.com/idol_nation/">Idol Nation Map</a></li>
 						<li><a href="http://www.americanidol.com/calendar/">Idol Calendar</a></li>
 						<li><a href="http://www.americanidol.com/newsletter/">Newsletter</a></li>
 						<li><a href="http://www.americanidol.com/idolgivesback/">Idol Gives Back</a></li>
 						<li><a href="http://www.ocatv.com/shows/show/9" target="_blank">Show Tickets</a></li>
+						<li><a href="http://www.americanidol.com/faq/">Voting Questions &amp; FAQs</a></li>
 					</ul>
 				</div>
 				
 			  <div style="clear:both;"></div>
 			</div>
 			<div id="footer-secondary-container">
-		<div id="footer-secondary"> <img src="http://www.americanidol.com/media/comps/global/footer-logos.png" alt="Sponsor Logos" border="0" usemap="#footermap" title="Sponsor Logos">
+		<div id="footer-secondary"> <img src="http://www.americanidol.com/media/comps/global/footer-logos.png" alt="Sponsor Logos" width="253" height="53" border="0" usemap="#footermap" title="Sponsor Logos">
 <map name="footermap" id="footermap">
 	<area shape="rect" coords="0,16,67,36" href="http://www.fox.com" target="_blank">
 	<area shape="rect" coords="140,10,255,46" href="http://www.fremantlemedia.com/" target="_blank"><area shape="rect" coords="84,11,123,47" href="http://www.19entertainment.com/" target="_blank">
-</map><span>Trademark and Copyright Notice: ® and © FOX and its related entities. All rights reserved. Use of this Web site assumes acceptance of the <a class="legal-notice" href="http://www.americanidol.com/legal/terms/">Terms of Use</a> and <a class="legal-notice" href="http://www.americanidol.com/legal/privacypolicy/">Privacy Policy</a>. AMERICAN IDOL ® is a registered trademark of 19 TV Ltd. and FremantleMedia North America, Inc. Based on the television program "American Idol" produced by FremantleMedia North America, Inc. and 19 TV Ltd. Licensed by FremantleMedia Licensing Worldwide. Want to <a href="mailto:george.blue@fox.com">advertise on Americanidol.com</a>? Questions: <a href="mailto:idol.web@fox.com">idol.web@fox.com</a></span> </div>
+</map><span>Trademark and Copyright Notice: ® and © FOX and its related entities. All rights reserved. Use of this Web site assumes acceptance of the <a class="legal-notice" href="http://www.americanidol.com/legal/terms/">Terms of Use</a> and <a class="legal-notice" href="http://www.americanidol.com/legal/privacypolicy/">Privacy Policy</a>. American Idol ® 19 TV Ltd &amp; FremantleMedia North America, Inc. Licensed by FremantleMedia Enterprises. <a href="http://www.americanidol.com">www.americanidol.com</a> Want to <a href="mailto:george.blue@fox.com">advertise on Americanidol.com</a>? Questions: <a href="mailto:idol.web@fox.com">idol.web@fox.com</a></span> </div>
 	</div>
 		</div>
 <!-- Begin comScore Tag --> 
@@ -737,16 +1054,8 @@ function myHeaderOnSubmit()
 	 	<img src="http://b.scorecardresearch.com/b?c1=2&c2=3005183&c3=3005183&c4=http://&c5=02021&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" /> 
 	</noscript>
 
+
 <!-- End comScore Tag --> 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-6834121-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
