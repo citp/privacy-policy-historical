@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsideline.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628090442id_/http%3A//www.techsideline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsideline.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629173213id_/http%3A//www.techsideline.com/privacy.htm) for the most accurate reproduction.*
 
 # TechSideline.com: Privacy Policy
 
@@ -40,8 +40,12 @@ Rest assured that we neither rent nor sell your personal information to anyone a
   * Syndication: TechSideline.com allows for the RSS syndication of all of its public content within the TechSideline.com website. 
   * With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-**Children Under 18 Years of Age**
 
+
+**Advertising**   
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+**Children Under 18 Years of Age**   
 You must be 13 years and older to register to use the TechSideline.com website. As a result, TechSideline.com does not specifically collect information about children. If we learn that TechSideline.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using TechSideline.com or sending information about themselves or anyone else over the Internet. 
 
 **Changes to this Privacy Policy**
