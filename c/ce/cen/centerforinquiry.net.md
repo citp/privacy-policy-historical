@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the centerforinquiry.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227064555id_/http%3A//www.centerforinquiry.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerforinquiry.net privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630015718id_/http%3A//www.centerforinquiry.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Center for Inquiry
 
 ## Privacy Policy
 
-This Privacy Policy explains how the Center for Inquiry (CFI) collects and uses the personal information collected on its Web sites. The following applies to the gathering and dissemination of information through all resources hosted at centerforinquiry.net and ga1.org/center_for_inquiry and may be changed by CFI at any time. 
+This Privacy Policy explains how the Center for Inquiry (CFI) collects and uses the personal information collected on its Web sites. The following applies to the gathering and dissemination of information through all resources hosted at centerforinquiry.net and cfi.convio.net and may be changed by CFI at any time. 
 
 ### What We Collect
 
