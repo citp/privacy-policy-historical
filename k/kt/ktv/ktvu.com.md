@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvu.com privacy policy that was archived on 2007-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071205005532id_/http%3A//www.ktvu.com/station/1862830/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvu.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629091407id_/http%3A//www.ktvu.com/station/1862830/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - KTVU News Story - KTVU San Francisco
 
