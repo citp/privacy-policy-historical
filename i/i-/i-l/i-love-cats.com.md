@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315140001id_/http%3A//www.i-love-cats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629135407id_/http%3A//www.i-love-cats.com/privacy.html) for the most accurate reproduction.*
 
 # I-Love-Cats.com Privacy Policy
 
@@ -26,6 +26,8 @@ We use the information you provide about someone else when placing an order only
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. We offer free promotional tools for webmasters, and we reserve the right to update those have have opted to use the free promotional tools via email.
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
