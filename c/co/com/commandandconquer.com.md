@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the commandandconquer.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216072858id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commandandconquer.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629154613id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
 
 # 
-
-**EA respects your privacy and understands the importance of protecting your personal information. We will only collect information we need to fulfill your requests and our legitimate business objectives. We will never send you marketing communications without your consent, and we will never share your personal information with third parties that are not bound by our privacy policy unless you tell us we can.**
 
 By registering for an EA Account, we may transfer and store your account information in the USA. By registering, you agree that EA may process your data in accordance with the following privacy policy and that you will abide by EA's Terms & Conditions.
 
@@ -17,29 +15,34 @@ Information collected will vary depending upon the activity and may include your
   
 
 
-If you sign up to play EA games through a PlayStation®3 system, your PlayStation®Network account information will be provided to EA so that we can establish an EA Online account for you. You need an EA Online account to play EA's titles online. By signing up to play EA's titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your name, email address, PlayStation ID, country, language and date of birth but does not include credit card number or other financial account information.
+If you sign up to play EA games through a PlayStation®3 system, your PlayStation®Network account information will be provided to EA so that we can establish an EA Online account for you. You need an EA Online account to play EA's titles online. By signing up to play EA's titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your name, email address, Online ID, country, language and date of birth but does not include credit card number or other financial account information.
 
 If you sign up to play EA games through Microsoft's Xbox LIVE Service, Microsoft will provide your Xbox LIVE user account information to EA so that we can establish an EA Online account for you. You need an EA account to play EA's Xbox LIVE titles. By signing up to play EA's Xbox LIVE titles, you agree that Microsoft can transfer your user account information to EA. Information transferred from Microsoft to EA includes your name, address, email address and date of birth but does not include credit card number or other financial account information.
 
- **3.**|  **Other Information Collected From Third Parties**  
+ **3.**|  **Other Personal Information Collected From Third Parties**  
 ---|---  
   
 We may also receive other personal information from third parties in connection with the operation and distribution of our products and services as well as market and demographic studies that we use to supplement personal information provided directly by you. As with all other information, we use this data only for purposes consistent with this policy.
 
- **IV.**|  **What Is Non-Personal Information And When Does EA Collect It?**  
+Some third party social networking services such as Twitter and Facebook may also provide us with personal information, including but not limited to your social network account ID, email address, name, gender, birthday, current city as well as information pertaining to your pictures and friends’ lists (if any).
+
+  
+**IV.**|  **What Is Non-Personal Information And When Does EA Collect It?**  
 ---|---  
   
-Non-personal information, alone, cannot be used to identify or contact you. EA collects non-personal information about your use of our online and mobile products and services both on our website and in the course of game play and software usage (on PC, mobile and console platforms).
+Non-personal information, alone, cannot be used to identify or contact you. EA collects non-personal information about your use of our online and mobile products and services both on our website and in the course of game play and software usage (on PC, mobile and game system platforms).
 
  **A.**|  **What Types of Non-Personal Information Does EA Collect?**  
 ---|---  
   
-When you use EA online and mobile products and services or you play our games on your PC or console, we may collect certain non-personal demographic information including gender, zip code, information about your computer, hardware, software, platform, media, mobile device, mobile device ID, console ID, incident data, Internet Protocol (IP) address, network Media Access Control (MAC) address and connection. We also collect other non-personal information such as feature usage, game play statistics and scores, user rankings and click paths as well as other data that you may provide in surveys, via your account preferences and online profiles or through purchases, for instance. We may also receive either non-personal or public information from third parties in connection with market and demographic studies that we use to supplement personal information provided directly by you.
+When you use EA online and mobile products and services or you play our games on your PC or game system, we may collect certain non-personal demographic information including gender, zip code, information about your computer, hardware, software, platform, game system, media, mobile device, including device IDs, incident data, Internet Protocol (IP) address, network Media Access Control (MAC) address and connection. We also collect other non-personal information such as feature usage, game play statistics, scores and achievements, user rankings and click paths as well as other data that you may provide in surveys, via your account preferences and online profiles such as friends lists or purchases, for instance. We may also receive either non-personal or public information from third parties in connection with market and demographic studies that we use to supplement personal information provided directly by you.
 
  **B.**|  **How Does EA Collect Non-Personal Information?**  
 ---|---  
   
 EA collects non-personal information along with personal information when you actively provide it in the context of various online and mobile activities including online and mobile purchases, game registration and marketing surveys, for instance. In addition, we use cookies and other technologies to passively collect non-personal demographic information, personalize your experience on our sites and monitor advertisements and other activities.
+
+Some third party services such as Twitter and Facebook may also provide us with information from your accounts there to enhance and personalize your use of their or our this Site. 
 
 Cookies are small files applied to your Internet browser to track movements within websites. We may link cookie information to personal information. Cookies link to information regarding what items you have selected for purchase at our store, pages you have viewed, or games you have played. This information is used to keep track of your shopping cart and make sure you don't see the same ad repeatedly, for example. Also, we use cookies to deliver content specific to your interest and to monitor website or game usage. We collect information on what games are played, how much time is spent playing the games and which ads or links are clicked. Some of our sites use an outside ad company to display ads. These ads contain cookies. Cookies received with banner ads are applied by our ad companies, and EA does not have access to this information. Most browsers are automatically set to accept cookies whenever you visit a website. You can disable cookies or set your browser to alert you when cookies are being sent. However some areas of our sites will not function properly if you do so. For more information concerning how to disable your cookies, please visit www.support.ea.com.
 
@@ -54,12 +57,12 @@ DoubleClick, the company that serves many of the ads that appear on www.pogo.com
 
 Clear GIFs (a.k.a. web bugs, beacons or tags) are small graphic images placed on a web page, web-based document, or in an email message. Clear GIFs are invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the web page, document or email message. We do not use clear GIFs to collect personal information about you. However, we may use clear GIFs to capture statistical usage information for our web pages, features or other elements on a web page. We correlate this information to a user to personalize user experience and for statistical analysis of user experiences on our web pages.
 
-EA also may maintain log files which contain IP addresses. An IP address is a numeric address that may be assigned to your computer by your Internet Service Provider. In general, we use log files to monitor traffic on our websites, to troubleshoot technical problems and to report aggregate information to our advertisers. In the event of user abuse of our websites, however, we may block certain IP addresses or console IDs provided by our licensed hardware manufacturers. If available, IP addresses and console IDs may be used to personally identify you in order to enforce our Terms of Service.
+EA also may maintain log files which contain IP addresses. An IP address is a numeric address that may be assigned to your computer by your Internet Service Provider. In general, we use log files to monitor traffic on our websites, to troubleshoot technical problems and to report aggregate information to our advertisers. In the event of user abuse of our websites, however, we may block certain IP addresses or game system IDs provided by our licensed hardware manufacturers. If available, IP addresses and game system IDs may be used to personally identify you in order to enforce our Terms of Service.
 
  **5.**|  **Analytic Metrics Tool And Other Technologies**  
 ---|---  
   
-EA also uses its own proprietary analytic metrics tool and other analytics technologies to collect non-personal information when you use our online products and services and/or play our games on your PC, console and/or mobile device. The information collected includes data about your hardware system, mobile device (if applicable), media, Internet and website usage and how your game is used, including your game statistics, feature usage and purchase history, as well as MAC Address, mobile ID (if applicable) and IP address.
+EA also uses its own proprietary analytic metrics tool and other analytics technologies to collect non-personal information when you use our online products and services and/or play our games on your PC, game system and/or mobile device. The information collected includes data about your hardware system, mobile device (if applicable), media, Internet and website usage and how your game is used, including your game statistics, feature usage and purchase history, as well as MAC Address, mobile ID (if applicable) and IP address.
 
  **V.**|  **What Happens To The Information EA Collects?**  
 ---|---  
@@ -67,9 +70,10 @@ EA also uses its own proprietary analytic metrics tool and other analytics techn
  **A.**|  **How EA Uses Your Information**  
 ---|---  
   
-EA uses your information to fulfill your specific requests, purchase orders and to send you purchase confirmation and other account-related information. In addition, if you choose to receive communications from us about EA products and news, the personal information you provide will allow us to send you messages about things including new products, features, enhancements, special offers, upgrade opportunities, contests and events of interest. You may also later opt out of this service from EA.
+EA uses your information to fulfill your specific requests, purchase orders and to send you purchase confirmation and other account-related information. In addition, the personal information you provide will allow us to send you messages about things including new products, features, enhancements, special offers, upgrade opportunities, contests and events of interest. You may also later opt out of this service from EA.
 
-Otherwise, EA uses personal and non-personal information, both individually and combined together, to better understand the behavior and preferences of our customers, to troubleshoot technical problems, to enforce our Terms of Service, to ensure proper functioning of our products and services as well as to help improve them. In addition, we combine non-personal information with personal information, such as an email address, to tailor our offerings, web pages or game play experience to your preferences or interests. We will not, however, send you any such marketing emails you unless you opt in to receive them.
+Otherwise, EA uses personal and non-personal information, both individually and combined together, to better understand the behavior and preferences of our customers, to troubleshoot technical problems, to serve static and dynamic advertising, to enforce our Terms of Service, to ensure proper functioning of our products and services as well as to help improve them. In addition, we combine non-personal information with personal information, such as an email address, to tailor our offerings, web pages or game play experience to your preferences or interests.   
+
 
 If you choose to use our referral service to "tell a friend" about an EA product or site, we will ask you for your friend's name and email address. We will send your friend an email on your behalf inviting him or her to visit the site or check out our product. EA stores your friend's name and email for a short period for the sole purpose of sending this email and for redundancy checking, to be sure that your friend does not receive multiple copies of the same email message. We do not keep or use this information for any other purpose.
 
@@ -78,17 +82,17 @@ Your participation in tournaments or other online game events is also conditiona
  **B.**|  **Will EA Share My Information With Third Parties?**  
 ---|---  
   
-EA will never share your personal information with third parties without your consent. We may, however, share non-personal data in the aggregate (in a form that does not personally identify you) with third parties. You may also opt in to allow EA to share your personal information with companies and organizations that provide products or services that we believe may be of interest to you. To opt out of further communications from a marketing partner or sponsor with whom your information has been shared, please contact that partner or sponsor directly.
+EA will never share your personal information with third parties without your consent. We may, however, share anonymous data in the aggregate (in a form that does not personally identify you) with third parties. You may also opt in to allow EA to share your personal information with companies and organizations that provide products or services that we believe may be of interest to you. To opt out of further communications from a marketing partner or sponsor with whom your information has been shared, please contact that partner or sponsor directly.
 
 EA does not disclose any personal information about children under 18 years of age who have registered on any of our websites to third parties, or share or disclose personal information other than as set forth in this policy, provided however, that in the event of a merger, acquisition, or the unlikely event of bankruptcy, management of EA customer information may be transferred to its successor or assign regardless of age.
 
 From time to time, EA employs third party contractors to collect personal information on our behalf to provide email delivery, product, prize or promotional fulfillment, contest administration, credit card processing, shipping or other services on our sites. When requesting these services, you may be asked to supply your name, mailing address, telephone number and email address to our contractors. We ask some third party contractors, such as credit agencies or market research firms, to supplement personal information that you provide to us for our own marketing and demographic studies, so that we can consistently improve our sites and related advertising to better meet our visitors' needs and preferences. To enrich our understanding of individual customers, we tie this information to the personal information you provide to us.
 
-When our third party contractors collect and/or have access to the personal information you provide to EA, EA requires that they adhere to our stated privacy policies and protect the confidentiality of personal information they collect or have access to in the course of their engagement by EA. These third parties are prohibited from using your personal information for any other purpose without your specific consent.
+When our third party agents or service providers collect and/or have access to any information other than non-personal anonymous data, EA requires that they use data consistently with our stated privacy policies and protect the confidentiality of personal information they collect or have access to in the course of their engagement by EA. These third parties are prohibited from using your personal information for any other purpose without your specific consent.
 
 You will be notified before your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
-We may also disclose personal information to law enforcement, or the appropriate civil authorities to enforce legal rights and comply with the law, or to comply with an order from a government entity or other competent authority, or when we have reason to believe that a disclosure is necessary to address potential or actual injury or interference with our rights, property, operations, users or others who may be harmed or may suffer loss or damage, or when we believe that disclosure is necessary to protect our rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on EA.
+We may also disclose personal information to enforce legal rights and comply with the law, or to comply with an order from a government entity or other competent authority, or when we have reason to believe that a disclosure is necessary to address potential or actual injury or interference with our rights, property, operations, users or others who may be harmed or may suffer loss or damage, or when we believe that disclosure is necessary to protect our rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on EA.
 
  **VI.**|  **Where Is The Information Held?**  
 ---|---  
@@ -107,6 +111,8 @@ You can correct or update your account information at any time by logging on our
 
 Some EA sites or services may collect personal information that is not accessible via our site. However, in such cases, you may be able to access that information through alternative means of access described by the service or by writing your local privacy policy administrator at privacyadmin.ea.com and you will be contacted within 30 days regarding your request.
 
+If you’ve granted EA access to your Facebook account information through a Playfish application, you may request that EA delete your Facebook information by following the directions available at <http://playfish.com/legal/remove>.  For non-Playfish EA applications on Facebook, you can request deletion of your Facebook information by dissociating the EA application from your Facebook account via Facebook’s Application Settings page.
+
  **IX.**|  **A Special Note About Children**  
 ---|---  
   
@@ -114,7 +120,7 @@ EA encourages parents to spend time online with their children. We urge parents 
 
 If children 12 years old and under in such jurisdictions wish to participate in online activities that require or permit the disclosure of personal information, we will request that they provide their parent or guardian's email address to notify the parent, obtain prior permission or other verifiable consent from the parent or guardian as may be necessary to participate in the activities of the site. In some other jurisdictions, notification, prior written permission or other verifiable consent may be required of a parent or guardian for children from 13 to 17 years of age.
 
-Some EA websites are especially targeted to children and may permit children to create a free account for which we collect username, password, date of birth and the parent's email address. Because an email address is necessary to respond to lost password requests and account administration, in some circumstances we may also collect the child's email address. In these instances we will send notice the parent email address to provide an opportunity to opt-out and have the child's email address and any other details removed. Newsletter subscriptions are handled similarly.
+Some EA websites are especially targeted to children and may permit children to create a free account for which we collect username, password, date of birth and the parent's email address. Because an email address is necessary to respond to lost password requests and account administration, in some circumstances we may also collect the child's email address. In these instances we will send notice to the parent email address to provide an opportunity to opt-out and have the child's email address and any other details removed. Newsletter subscriptions are handled similarly.
 
 These websites may also offer parents the opportunity to upgrade their child's account to a paid subscription that permits the child to participate in more activities on the site. These subscription services may also enable parents to manage their child's account and create new player accounts.
 
