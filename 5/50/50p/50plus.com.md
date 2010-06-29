@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228085643id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630013051id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.*
 
 # 50Plus.com Privacy Policy
 
@@ -12,10 +12,10 @@ When you join our online community, we ask for basic contact information (like y
 Our site uses order forms for you to request products and services (ie. CARP memberships). We collect your contact information (like your e-mail address) and financial information (like your credit card number) in order to process your order. 
 
 **Surveys**   
-Our online surveys ask you for demographic information (like your age, sex, province or income level). This information is shared with advertisers on an aggregate basis. 
+Our online surveys ask you for demographic information (like your age, sex, province or income level). This information is shared with advertisers on an aggregate basis. Again - no individual information is _ever_ released. 
 
 **Contests**   
 We run **contests** on our site in partnership with other companies. Please see each contest's privacy statement. 
 
-**A note about our public forums**   
-This site makes net friends, greeting cards and discussion forums available to its users. Please remember that any information that is disclosed in these areas becomes publicly readable information and you should exercise caution when 
+**Our E-mail lists**   
+This site makes e-mail list sign-up available to its users. We do **not** subscribe people to these lists without their consent or sell the e-mail addresses gathered on these lists. We strongly believe that y 
