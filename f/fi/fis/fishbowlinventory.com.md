@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207212544id_/http%3A//www.fishbowlinventory.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629152813id_/http%3A//www.fishbowlinventory.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Fishbowl Inventory
+
+## Fishbowl Privacy Statement
 
 **1\. Site covered by this Privacy Statement**
 
@@ -32,20 +34,15 @@ Fishbowl Inventory is committed to protecting the privacy needs of children and 
 
 **4\. How we use your information**
 
-Fishbowl Inventory uses your personal information to provide you with requested services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits and to personalize promotional offers.
-
-Personal data collected online may also be combined with information you provide Fishbowl Inventory through other sources such as product registration, call centers or public events such as trade shows or seminars.
-
-Personal data given to Fishbowl Inventory may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management.
-
+Fishbowl Inventory uses your personal information to provide you with requested services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits and to personalize promotional offers.  
+Personal data collected online may also be combined with information you provide Fishbowl Inventory through other sources such as product registration, call centers or public events such as trade shows or seminars.  
+Personal data given to Fishbowl Inventory may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management.  
 Non-personal data is aggregated for reporting about Fishbowl Inventory website usability, performance and effectiveness. It is used to improve the customer experience, usability and site content.
 
 **5\. Who we share your information with**
 
-Fishbowl Inventory will not sell, rent or lease your personal information to others. Fishbowl Inventory will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. Fishbowl Inventory shares customer information across Fishbowl Inventory-owned business entities and companies working on our behalf, but only as described above in "How we use your information."
-
-Fishbowl Inventory contracts with third-party service providers and suppliers to deliver complete products, services and customer solutions described in "How we use your information." Suppliers and service providers are required to keep confidential the information received on behalf of Fishbowl Inventory and may not use it for any purpose other than to carry out the services they are performing for Fishbowl Inventory. These service providers may change or we may contract with additional service providers to better accommodate our customers. Fishbowl Inventory will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law.
-
+Fishbowl Inventory will not sell, rent or lease your personal information to others. Fishbowl Inventory will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information. Fishbowl Inventory shares customer information across Fishbowl Inventory-owned business entities and companies working on our behalf, but only as described above in "How we use your information."  
+Fishbowl Inventory contracts with third-party service providers and suppliers to deliver complete products, services and customer solutions described in "How we use your information." Suppliers and service providers are required to keep confidential the information received on behalf of Fishbowl Inventory and may not use it for any purpose other than to carry out the services they are performing for Fishbowl Inventory. These service providers may change or we may contract with additional service providers to better accommodate our customers. Fishbowl Inventory will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law.  
 Fishbowl Inventory or its related entities could merge with or be acquired by another business entity or some or all of their respective assets could be acquired. If such a combination or acquisition occurs, Fishbowl Inventory will make every reasonable effort to notify you in the event we share with the merging or acquiring entity some or all of your personal information to continue serving you.
 
 **6\. Your choices**
