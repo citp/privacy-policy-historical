@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024345id_/http%3A//www.yatra.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630012312id_/http%3A//www.yatra.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Yatra : Online Travel Services Company in India
 
