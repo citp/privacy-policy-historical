@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androticsdirect.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090941id_/http%3A//androticsdirect.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androticsdirect.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629210421id_/http%3A//androticsdirect.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help Zone :: Androtics Direct
 
