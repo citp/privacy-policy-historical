@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227071249id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629223703id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Dublin City Council: Privacy Statement
 
 Dublin City Council will not collect any personal information about you on this website without your permission. Any personal information supplied will be treated as confidential. 
 
-Dublin City Council does not routinely collect personal information about you, except for information you volunteer by e-mailing us or by completing a feedback form. 
+Dublin City Council does not routinely collect personal information about you, except for information you volunteer by e-mailing us, completing a feedback form or by requesting a service.
 
 We will use any personal information supplied only for the intended purpose and we will not pass your personal details on to any third parties.
 
