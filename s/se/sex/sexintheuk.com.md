@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225073801id_/http%3A//www.sexintheuk.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629071225id_/http%3A//www.sexintheuk.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
-# Adult Dating Services Online - SexInTheUK
+# Adult Dating Services with Online Sex Contacts. Adult Chat Rooms - SexInTheUK
 
 **Privacy Policy**
 
-This website is owned and operated by Easy Date Limited (Company Number 4473833) trading as SexInTheUK. Our privacy policy relates only to information that we obtain from you and not to information obtained by third parties or via linked websites.
+This website is owned and operated by Amorix Limited (Company Number 4473833) trading as SexInTheUK. Our privacy policy relates only to information that we obtain from you and not to information obtained by third parties or via linked websites.
 
 **What information will be collected?**
 
@@ -20,6 +20,8 @@ We will never collect sensitive information about you without your explicit writ
 **How will the information be used?**
 
 The information you provide to us when using this website will be used to administer your user account with us (including notifying you of any updates or services, should you consent to this), customise the site according to your interests, ensure that you are complying with the terms and conditions of use and to comply with our statutory and regulatory obligations. By registering a profile you consent to the wider dissemination of the information you provide in that profile to the other users of the site, some of whom may be outside the EEA to achieve your joint objectives. We will keep your personal information confidential except where you have posted it for publication or display, to the extent that we are compelled to disclose it by law or to comply with an instruction of a regulatory body of competent jurisdiction. We adhere to strict security procedures and your personal information will be held securely to ensure no unauthorised disclosure or access. 
+
+By checking the appropriate box on the new account registration form you consent to receive compatible matches, tips, announcements and special offers from SexInTheUK and selected partners from address admin@sexintheuk.com to the e-mail address which you have provided. Should you wish to unsubscribe or reduce the number of e-mails you receive from us you can alter your preferences by visiting the ['My Account'](https://web.archive.org/management.settings.asp) section of this website and select the emails you dont want to receive by ticking the corresponding checkboxes. Also you can unsubscribe from a specific email by using the unsubscribe link from the email you don't want to receive any longer. 
 
 **Your Rights**
 
