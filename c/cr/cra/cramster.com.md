@@ -1,37 +1,97 @@
-> *The following text is extracted and transformed from the cramster.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217070927id_/http%3A//www.cramster.com/cramster-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cramster.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629024101id_/http%3A//www.cramster.com/cramster-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Cramster.com
 
-**1\. Introduction**   
-This Privacy Policy ("Privacy Policy") describes how Cramster, Inc. ("Cramster") collects, uses and discloses information from and about visitors to and users of Cramster.com, including unregistered visitors ("Visitors"), registered subscription members ("Members") and registered non-subscription guests ("Guests"), as each category is further described in the Terms of Use, and what choices Members, Guests and Visitors each have regarding the collection and use of such information. This Privacy Policy also explains procedures for the security and protection of the information collected and how you can access and update your information. 
+By registering with, accessing or using the Website (as described below in Answer A1), you agree to be bound by the terms of this Privacy Policy. Capitalized terms not defined in this Privacy Policy are defined in the Cramster [Terms of Use](http://www.cramster.com/cramster-legal.aspx). 
 
-By registering with the Cramster.com web site ("Web Site") or by using any of the Cramster products or services as a Member or Guest, or by accessing the Web Site as a Visitor, you agree to be bound by the terms of this Privacy Policy, including Cramster's policies with respect to the collection, use and disclosure of personal and non-personal information as described in this Privacy Policy.
+**Q1. Who is Cramster, Inc. and how can we be contacted?**
 
-**2\. Information Collected**   
-Cramster collects and stores certain personally identifiable information about you when you provide it to us during registration (or when you update your account information), when you use or subscribe to Cramster's products and services, including when you respond to Cramster surveys or submit content or materials to Cramster (including through the Message Board or Challenge), or when you otherwise communicate with Cramster, such as through emails. The type of personally identifiable information collected may include your name, address, email address, telephone number, credit card information, school, demographic information, and other personal information, depending upon the particular Cramster product or service, the information requested and provided and the category of user. 
+**Q2. What is our Privacy Policy?**
 
-For example, a Member, as part of the registration process, will provide Cramster with the necessary and correct information to properly collect fees due for the use of the Cramster subscription services. Certain information requested by Cramster during the registration process is optional, including providing demographic information, and for Visitors who may wish to participate in surveys, the requested personal information is optional. For a Visitor wishing to receive the monthly Cramster newsletter, only a valid email address is required.
+**Q3. What types of information do we collect online and how do we collect them?**
 
-Cramster also collects and stores certain non-personally identifiable information about you when you visit and use the Web Site or otherwise interact with Cramster, including using Cramster's products and services, submitting content or materials to Cramster and responding to surveys and email communications. The type of non-personal information collected may include your computer and internet connection information, including IP address and operating system, and your usage history of the Web Site and its web pages.
+**Q4. How do we use and share personally identifiable information that has been collected in connection with the Website?**
 
-This non-personal information may be gathered by using "cookies" and/or "clear GIF" (Graphical Interchange Format) technologies, as well as login file information. "Cookies" are small data files with a unique identifier that we transfer to your computer's hard drive or web browser and that collect and store data about your visit to the Web Site. This allows our systems to identify you when you return to the Web Site and to analyze your Web Site usage. "GIFs" are small graphic files with a unique identifier contained in our Web Site that we use to track Web Site traffic. This allows us to monitor and improve the performance of the Web Site and the related services offered and to collect and use the information as described in this Privacy Policy. This non-personally identifiable information will be treated in the same fashion, and in aggregate to, all information provided by a Member, Guest or Visitor. 
+**Q5. What type of security do we provide?**
 
-**3\. Use of Information**   
-Cramster uses your personal and non-personal information in order to improve and personalize your use of the Web Site and its related products and services, including by tracking and monitoring traffic on the Web Site so as to enhance the performance of the Web Site and to customize your online research. 
+**Q6. How will we notify you of changes in this Privacy Policy?**
 
-Cramster generally does not share your personal information with third parties, except to the extent necessary to process transactions with you, for example, credit card processing companies, however, Cramster may disclose any such information pursuant to law, including subpoena, warrants or other orders; in order to enforce the Terms of Use or other Web Site policies and rules with respect to a particular Cramster product or service, such as the Message Board or Challenge, or any other related agreements between you and Cramster; or as otherwise may be required to protect the rights of Cramster, its directors, officers, representatives and agents, or its Members, Guests or Visitors.
+\------------------------------------------------------------------------------------- \------------------------------------------------------------------------------------- 
 
-In addition, Cramster may share some or all of your personal information with another entity in the event of a change in business structure, including merger or acquisition, as well as with the representatives of the entity to the extent required. 
+**Q1. Who is Cramster, Inc. and how can we be contacted?**
 
-Except as described above, Cramster will not disclose any personal information about you to third parties without your permission. 
+**A1.** Cramster, Inc. (“ **Cramster** ,” “ **we** ,” “ **us** ,” “ **our** ” or “ **ourselves** ”) is responsible for, the operation and maintenance of the Website currently having the URL www.cramster.com and all related products; features; content and materials; tools and software; links; activities; problems, solutions, questions, answers, hints, submissions and other information; and services such as the “Q&A Board”, “Cramster Blog”, “Alternate Solutions”, “Karma Points Program”, “Resources”, “Study Groups” and “CramChat” (collectively, the “ **Website** ”). 
 
-As a Member or Guest, you may access and update your personal information as described in the Terms of Use, however, information originally submitted to Cramster by you may be retained by Cramster for technical, legal or other reasons.
+If you have questions about this Privacy Policy, please contact us at: 
 
-**4\. General; Limitations**   
-This Privacy Policy is part of the Terms of Use. Cramster may revise or amend this Privacy Policy from time to time, and it is your responsibility to regularly review this Privacy Policy for any changes to it. If you have any questions or concerns about privacy at Cramster or about this Privacy Policy, please contact us by email at servicedesk@cramster.com or in writing to Cramster, Inc., at 65 North Raymond Street, Suite 315, Pasadena, CA 91103.
+servicedesk@cramster.com 
 
-Cramster implements reasonable steps to maintain the privacy and security of your information against unauthorized access consistent with industry standards, however, as with all online transactions, "hackers" or other third parties may intercept and misuse your personal information, including during transmission to and from the Web Site. 
+or 
 
-The Web Site and its related products and services are not intended for use by children under 13 years of age and children under 13 may not submit personal information to Cramster. Cramster will not knowingly collect or use personal information of anyone under 13 years of age, and if Cramster is informed or determines that any such information has been submitted, it will be deleted. If you are between the ages of 13-17, you may use Cramster only with your parent's or guardian's supervision and consent with respect to the collection and use of information as described in this Privacy Policy.
+Cramster, Inc.  
+175 S. Lake Ave. Suite 212  
+Pasadena, CA 91101. 
 
-Last Updated: 091605
+\------------------------------------------------------------------------------------- \------------------------------------------------------------------------------------- 
+
+**Q2. What is our Privacy Policy?**
+
+**A2.** This Privacy Policy discloses how we collect, use and share personally identifiable information gathered about you in connection with the Website but specifically excludes personal information collected by third parties (e.g., third party Websites to which a link is provided on the Website). When this Privacy Policy uses the term "personally identifiable information," we mean information that identifies a particular individual, such as the individual's name, postal address, e-mail address or telephone number. When other information, such as, for example, date of birth or school, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Privacy Policy. Personally identifiable information is sometimes referred to in this Privacy Policy as "personal information." The terms of this Privacy Policy are subject to all applicable laws. 
+
+**Kids' Privacy Policy**
+
+The Website and its related products and services are not intended for use by children under 13 years of age and children under 13 may not submit personal information to us. We will not knowingly collect or use personal information of anyone under 13 years of age, and if we are informed or determine that any such information has been submitted, it will be deleted. If you are between the ages of 13-17, you may use the Website only with your parent's or guardian's supervision and consent with respect to the collection and use of information as described in this Privacy Policy. 
+
+\------------------------------------------------------------------------------------- \------------------------------------------------------------------------------------- 
+
+**Q3. What types of information do we collect online and how do we collect them?**
+
+**A3.** **Information You Provide**
+
+Much of the personally identifiable information we collect comes directly from you during your interaction with the Website. For example, we may collect personal information when you register for a membership (or update your membership information), use or subscribe to our products or services, respond to surveys or submit content or materials to us. This may include your name, mailing address, email address, phone number and credit card information. You may access and update your personal information associated with your membership as described in the Terms of Use, however, information previously submitted by you to us may be retained by us for technical, legal or other reasons. 
+
+**Information Collected Through Technology**
+
+We may also collect information through technology to make the Website more useful and for other business purposes. For instance, when you access the Website, we may collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet Service Provider), your company or your university. Standing alone, your IP address is not personally identifiable. At times, we may use IP addresses to collect information regarding the frequency with which our guests visit various parts of the Website. We may combine this information with personally identifiable i nformation. 
+
+We may also use technologies such as “cookies” and/or “web beacons” to track and analyze your use of the Website. "Cookies" are small data files with a unique identifier that we transfer to your computer's hard drive or web browser and that collect and store data about your visit to the Website. This allows our systems to identify you when you return to the Website. "Web beacons" are small graphic files with a unique identifier contained in our Website that we use to track Website traffic. 
+
+\------------------------------------------------------------------------------------- \------------------------------------------------------------------------------------- 
+
+**Q4. How do we use and share personally identifiable information that has been collected on this Application?**
+
+**A4.** We may use and share personally identifiable information as described below. 
+
+**Operation of the Website**
+
+We use your personal and non-personal information in connection the operation of the Website. For example, we may use your information to improve and personalize your use of the Website and its related products and services; track and monitor Website traffic; enhance the performance of the Website and to customize your online research. We may also use your information to protect the rights of our Members and Visitors and the rights of ourselves and our affiliates and their directors, officers, representatives and agents. 
+
+**Companies That Facilitate Communications and Transactions with You**
+
+Sometimes we hire companies to help provide products, services or information, such as a company that helps process credit card transactions. In these situations, there is a need to share your personal information with these companies. We may also work with other companies who help either gather your information or communicate with you. Nonetheless, except as separately permitted by other provisions of this Privacy Policy, these companies are allowed to gather, receive, and use your personal information only for the purposes described in this paragraph or as required by law. In addition, we may disclose your personal information to persons and entities who provide support for the internal operations of our online services (such as technical support services) and who do not disclose or use that information for any other purpose. 
+
+**Non-Personally Identifiable Information**
+
+We may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (e.g., aggregating your information with information about other individuals), or by removing characteristics (such as your full name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of such non-personally identifiable information, we may use and/or share such information without restriction. 
+
+**Disclosures Required by Law and Disclosures To Help Protect the Security and Safety of the Website**
+
+We will disclose personal information when we believe in good faith that such disclosures (a) are required by law (e.g., to comply with a court order or subpoena), or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions and/or game rules and/or protect the safety and security of our members and the Website. 
+
+**Sale of Business**
+
+If we sell all or a part of our business or there is a change in our business structure such as a merger or acquisition, the information collected under this Privacy Policy may be disclosed or transferred as a part of the sale or change. In that event, we will work to ensure that the applicable third party is obligated to treat your personal information in the same manner required by this Privacy Policy. 
+
+\------------------------------------------------------------------------------------- \------------------------------------------------------------------------------------- 
+
+**Q5. What type of security do we provide?**
+
+**A5.** The security and confidentiality of your information is very important to us. We have implemented technical, administrative, and physical security measures to protect your information from unauthorized access and improper use. From time to time, we may review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable. "Hackers" or other third parties may intercept and misuse your personal information, including during transmission to and from the Website. 
+
+\------------------------------------------------------------------------------------- \------------------------------------------------------------------------------------- 
+
+**Q6. How will we notify you of changes in this Privacy Policy?**
+
+**A6.** If we amend or revise this Privacy Policy, we will post the amended version of this policy on the Website. We may also email a copy of the amended version to all Members using the email addresses in our records. However, any revisions or amendments to this Privacy Policy will apply only to personal information collected after the time that the amended or revised policy is posted on the Website. 
+
+Copyright ©2010 Cramster, Inc. All rights reserved. 
