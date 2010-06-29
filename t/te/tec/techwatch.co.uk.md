@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206020607id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629042611id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
 
 # About Techwatch
 
@@ -34,8 +34,8 @@ To contact Brite Media directly about the site, or to raise feedback or complain
 
 _(Please note that Brite Media nor its parent company neither sell nor provide technical support for any satellite, cable, TV, or computer related products)_
 
-**Email:** editors @ britemedia.co.uk  
-**Tel:** +44 (0)845 4306340  
+**Email:** editors @ britemedia.co.uk
+
 **Postal Address:** Brite Media, Second Floor, 145-157 St John Street, London EC1V 4PY, UK
 
 Company details: Registration number: SC289201, VAT no. : 870 2138 42
