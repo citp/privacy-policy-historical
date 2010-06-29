@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnj.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229120612id_/http%3A//www.pnj.com/section/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnj.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629065122id_/http%3A//www.pnj.com/section/PRIVACY) for the most accurate reproduction.*
 
 # pnj.com | Pensacola Privacy Policy | Pensacola News Journal
 
