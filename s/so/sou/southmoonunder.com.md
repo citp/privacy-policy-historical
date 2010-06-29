@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southmoonunder.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228083508id_/http%3A//www.southmoonunder.com/bvc/privacy-security_275.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southmoonunder.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629183622id_/http%3A//www.southmoonunder.com/bvc/privacy-security_275.html) for the most accurate reproduction.*
 
 # Privacy - South Moon Under
 
