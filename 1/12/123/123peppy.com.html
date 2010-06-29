@@ -1,69 +1,252 @@
-<!--The following is the downloaded HTML source of the 123peppy.com privacy policy that was archived on 2009-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091224114819id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 123peppy.com privacy policy that was archived on 2010-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629035056id_/http%3A//www.123peppy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <style type="text/css">
-
-#dhtmltooltip{
-position: absolute;
-/*width: 150px;
-border: 2px solid black;
-padding: 2px;*/
-/*background-color: lightyellow;*/
-visibility: hidden;
-z-index: 100;
-/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
-/*filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);*/
-
+	<script type="text/javascript" src="/themes/123peppy_christmas/dropdown.js"></script>
+		<script type="text/javascript" src="/themes/123peppy_christmas/jquery-1.2.6.min.js"></script>
+		<script type="text/javascript">
+		 $(document).ready(function(){
+			
+				//Store Image paths
+				var toggleMinus = 'minus';
+				var togglePlus = 'plus';
+				
+				var $subHead = $('.children').parent();
+				
+				
+				
+				//By Default put the Menu in collapsed state
+				$('.children').parent().attr('class', 'head ' + togglePlus).children('ul').slideUp('fast');
+				
+				//$('.left-menu-box ul li.head:first-child').attr('class', 'head ' + toggleMinus).children('ul').slideDown('fast');
+				
+				
+				
+				//Expand or Contract one particular Nested ul
+				$('li.head').hover(function(){
+					$(this).attr('class', 'head ' + toggleMinus).children('ul.children').slideDown('fast');
+					
+				}, function(){
+				
+				});
+				$('li.head strong').click(function(){
+					$(this).parent('li.head').attr('class', 'head ' + togglePlus).children('ul.children').slideUp('fast');
+				});
+			});
+		</script>
+<script language="JavaScript" type="text/javascript">
+function peppydoll(str)
+{
+//alert("checking old");
+xmlHttp=GetXmlHttpObject()
+if (xmlHttp==null)
+ {
+ alert ("Browser does not support HTTP Request")
+ return
+ }
+var usr=0; 
+var url=str;
+url=url+"?uid="+usr;
+url=url+"&sid="+Math.random();
+xmlHttp.onreadystatechange=stateChanged; 
+xmlHttp.open("GET",url,true);
+xmlHttp.send(null);
 }
-</style>
+function stateChanged() 
+{ 
+if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+ { 
+ document.getElementById("peppydoll").innerHTML=xmlHttp.responseText ;
+ } 
+}
+function GetXmlHttpObject()
+{
+var xmlHttp=null;
+try
+ {
+ // Firefox, Opera 8.0+, Safari
+ xmlHttp=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ //Internet Explorer
+ try
+  {
+  xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+return xmlHttp;
+}		
 
-    
+
+function peppydollnavigation(str,rtn)
+{
+//alert("checking");
+xmlHttp=GetXmlHttpObject()
+if (xmlHttp==null)
+ {
+ alert ("Browser does not support HTTP Request")
+ return
+ }
+var usr=0; 
+var url=str;
+var rtnurl=rtn;
+url=url+"?uid="+usr+"&from="+rtnurl;
+url=url+"&sid="+Math.random();
+//alert(url);
+xmlHttp.onreadystatechange=stateChanged; 
+xmlHttp.open("GET",url,true);
+xmlHttp.send(null);
+}
+function stateChanged() 
+{ 
+if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+ { 
+ document.getElementById("peppydoll").innerHTML=xmlHttp.responseText ;
+ } 
+}
+function GetXmlHttpObject()
+{
+var xmlHttp=null;
+try
+ {
+ // Firefox, Opera 8.0+, Safari
+ xmlHttp=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ //Internet Explorer
+ try
+  {
+  xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+return xmlHttp;
+}		
+
+// DOWNLOAD PAGE AJAY
+
+	
+function download(str)
+
+{
+//alert("Process");
+xmlHttp=GetXmlHttpObject()
+if (xmlHttp==null)
+ {
+ alert ("Browser does not support HTTP Request")
+ return
+ }
+var url="/themes/123peppy_christmas/showajax.php";
+url=url+"?q="+str;
+url=url+"&sid="+Math.random();
+xmlHttp.onreadystatechange=stateChangedgame; 
+xmlHttp.open("GET",url,true);
+xmlHttp.send(null);
+}
+function stateChangedgame() 
+{ 
+if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+ { 
+ document.getElementById("download").innerHTML=xmlHttp.responseText ;
+ } 
+}
+function GetXmlHttpObject()
+{
+var xmlHttp=null;
+try
+ {
+ // Firefox, Opera 8.0+, Safari
+ xmlHttp=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ //Internet Explorer
+ try
+  {
+  xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+return xmlHttp;
+}
+
+
+ function download1(str,str1)
+
+{
+
+xmlHttp=GetXmlHttpObject()
+if (xmlHttp==null)
+ {
+ alert ("Browser does not support HTTP Request")
+ return
+ }
+var url="/themes/123peppy_christmas/showajax.php";
+url=url+"?q="+str1+"&page="+str;
+url=url+"&sid="+Math.random();
+xmlHttp.onreadystatechange=stateChanged5; 
+xmlHttp.open("GET",url,true);
+xmlHttp.send(null);
+}
+function stateChanged5() 
+{ 
+if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+ { 
+ document.getElementById("download").innerHTML=xmlHttp.responseText ;
+ } 
+}
+function GetXmlHttpObject()
+{
+var xmlHttp=null;
+try
+ {
+ // Firefox, Opera 8.0+, Safari
+ xmlHttp=new XMLHttpRequest();
+ }
+catch (e)
+ {
+ //Internet Explorer
+ try
+  {
+  xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+  }
+ catch (e)
+  {
+  xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+ }
+return xmlHttp;
+}
+
+
+</script>
+
+	<link rel="stylesheet" href="http://www.123peppy.com/themes/123peppy_christmas/123peppy_style.css">
+
 
 <title>Privacy Policy | 123peppy</title>
 
 
  
-<link type="text/css" rel="stylesheet" media="all" href="/modules/views/css/views.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/cck/theme/content-module.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/ctools/css/ctools.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/filefield/filefield.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/friendlist/friendlist_ui/friendlist_ui.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/panels/css/panels.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/cck/modules/fieldgroup/fieldgroup.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/comment/comment.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/quicktabs/css/quicktabs.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/quicktabs/tabstyles/basic/basic.css?5">
-<link type="text/css" rel="stylesheet" media="all" href="/themes/123peppy_christmas/style.css?5">
-	<script type="text/javascript" src="http://www.123peppy.com/themes/123peppy_christmas/dropdown.js"></script>
-<script type="text/javascript" src="/themes/123peppy_christmas/jsscript.js"></script>
-    <script type="text/javascript" src="/misc/jquery.js?5"></script>
-<script type="text/javascript" src="/misc/drupal.js?5"></script>
-<script type="text/javascript" src="/misc/progress.js?5"></script>
-<script type="text/javascript" src="/modules/panels/js/panels.js?5"></script>
-<script type="text/javascript" src="/modules/quicktabs/js/quicktabs.js?5"></script>
-<script type="text/javascript" src="/modules/views/js/base.js?5"></script>
-<script type="text/javascript" src="/modules/views/js/ajax_view.js?5"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, { "basePath": "/", "quicktabs": { "qt_1": { "qtid": "1", "title": "online-tab", "tabs": [ { "nid": "56208", "teaser": 0, "hide_title": 1, "title": "OnlineUser", "weight": "-10", "type": "node" }, { "nid": "56209", "teaser": 0, "hide_title": 1, "title": "RecentUser", "weight": "-9", "type": "node" } ], "ajax": "1", "style": "Basic" } } });
-//--><!]]>
-</script>
-    <!--[if lt IE 7]>
-      <link type="text/css" rel="stylesheet" media="all" href="/themes/123peppy_christmas/fix-ie.css" />    <![endif]-->
   </head>
-  <body class="sidebars"><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 0px; left: 0px; top: 0px;"></div>
-  <!-- ValueClick Media POP-UNDER CODE v1.8 for 123peppy.com (12 hour) -->
+
+
+<body class="sidebar-left en"><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 0px; left: 0px; top: 0px;"></div>
+
+<!-- ValueClick Media POP-UNDER CODE v1.8 for 123peppy.com (12 hour) -->
 <script language="javascript"><!--                                 
 var dc=document; var date_ob=new Date();
 dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
@@ -75,6 +258,445 @@ dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
 </script>                                                          
 <!-- ValueClick Media POP-UNDER CODE v1.8 for 123peppy.com -->
   <div id="dhtmltooltip"></div>
+
+
+<!-- Layout -->
+<div id="main-container">
+<div id="container-wrapper" class="floatfix">
+  <div id="header" class="clear-block"><div class="left-pannel">
+   <div class="left-pannel-top"></div>
+   <div class="left-pannel-mid">   
+         <div id="swf-rotator">          
+                   
+<div id="header">
+				<h1><a href="/"><!--<img src="new-sliced-images/logo.png" alt="123Peppy - Best Girl's Hangout" />-->
+	 	 				<embed wmode="transparent" width="156" height="171" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="/themes/123peppy_christmas/logo/logo.swf">
+					</a>	
+   				 </h1>
+				 
+    	<div class="wrapper-top">
+	  		<div id="top-ban">
+      			<div class="banner-holder">
+				
+				<span><!-- ValueClick Media 728x90 LEADERBOARD CODE for 123peppy.com -->
+					<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;tp=5&amp;d=j&amp;t=n"></script>
+					<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&c=1" target="_blank">
+					<img src="http://media.fastclick.net/w/get.media?sid=43986&tp=5&d=s&c=1" alt="" width="728" height="90" border="1"/>
+                    </a></noscript>
+					<!-- ValueClick Media 728x90 LEADERBOARD CODE for 123peppy.com --></span>
+							</div>
+	  			<div class="right-head-panel">
+	      		<fieldset>
+          		<form action="/search" accept-charset="UTF-8" method="get" id="search-theme-form">
+		   		   <input name="title" type="text" id="search" value="" onblur="if(this.value==''){this.value='Search'}" onfocus="if(this.value=='Search'){this.value=''}" class="search-box">
+		   		<input type="submit" value="" class="search-btn"></form>
+	   			</fieldset>
+                <ul class="upper">
+					
+                 <li> <a href="/invite"> Invite A Friend</a></li>
+				                        <li> <a href="/music"> Music </a> </li>
+								
+        <li> <a href="/blogs/admin"> News </a></li>
+        <li> <a href="/faq"> Help</a> </li>
+	    </ul>
+	  		</div>
+		</div>  
+      <ul id="top-menu">
+        <li class="left"></li>
+        <li class="midtop">
+		
+		        <a href="/" title="Home - 123peppy games" class="top-menu one">Home</a>
+		<a href="/newgames" title="New Games - Online games from 123peppy" class="top-menu two">New Games</a>
+		<a href="/exclusivegames" title="Exclusive Games - Online exclusive games" class="top-menu three">Exclusive Games</a>
+		<a href="/editorpickgames" title="Editor Pick Games - Online editor pick games" class="top-menu four">Editor Pick Games</a>
+        <a href="/graffiti" title="Graffiti Maker - Online graffiti text and symbols generator" class="top-menu five">Graffiti</a>
+        <a href="/facefun" title="Facefun Games - 123peppy games" class="top-menu seven">Facefun</a>
+		<a href="/facefun/greetings" title="Greetings - 123peppy games" class="top-menu eight">Greetings</a>
+        </li>
+        <li class="right"></li>
+      </ul>
+      <ul id="top-panel">
+        <li class="left"></li>
+        <li> 
+               
+          <form action="/user/login" accept-charset="UTF-8" method="post" id="user-login" style=" float: left">
+            <div class="username-box">
+			  <input name="name" type="text" onblur="if(this.value==''){this.value=' UserName '}" onfocus="if(this.value==' UserName '){this.value=''}" id="" value=" UserName " class="input-login">
+			 </div>
+			  <div class="password-box">
+                <input name="pass" type="password" value=" Password " onblur="if(this.value==''){this.value=' Password '}" onfocus="if(this.value==' Password '){this.value=''}" class="input-password">
+			  </div>
+               <input type="hidden" name="form_id" value="user_login">
+			   <input name="op" type="submit" class="login-btn" value="">
+          </form>
+		   <span class="forget"><a href="/user/password">Forgot Password?</a></span>
+		
+         
+		 
+     <span style="padding-top:0px;float:left; margin:0 0 0 10px;"> 
+     <a href="/user/register"><img src="/themes/123peppy6/images/join_free2.png" alt=""></a></span>
+         
+		<span style="padding: 3px 2px 2px;display:block"> 
+        </span></li>
+        <li class="right"></li>
+      </ul>
+    </div>
+	
+  </div>         
+         </div>
+   </div>
+          
+   <div class="left-pannel-bot"></div>
+</div>
+</div>
+   
+   
+
+       <!-- /header -->
+	  
+	   <!-- middle start-->
+
+               
+		   <div id="middle-container">
+		<!--left-panel starts here-->
+         <div id="left-panel"> 	<div class="top"></div>	
+				<div id="language_menu">
+		   <div id="menu_child" style="position: absolute; visibility: hidden;">
+                     <div class="item">
+		   <a class="lang_link" href="/fr"><img src="/themes/123peppy_christmas/flags/fr.png" class="vlag" alt=""> Français</a></div>           <div class="item">
+		   <a class="lang_link" href="/de"><img src="/themes/123peppy_christmas/flags/de.png" class="vlag" alt=""> German</a></div>           <div class="item">
+		   <a class="lang_link" href="/pl"><img src="/themes/123peppy_christmas/flags/pl.png" class="vlag" alt=""> Polish</a></div>           <div class="item">
+		   <a class="lang_link" href="/nl"><img src="/themes/123peppy_christmas/flags/nl.png" class="vlag" alt=""> Dutch</a></div>           <div class="item">
+		   <a class="lang_link" href="/sv"><img src="/themes/123peppy_christmas/flags/sv.png" class="vlag" alt=""> Swedish</a></div>           <div class="item">
+		   <a class="lang_link" href="/pt-br"><img src="/themes/123peppy_christmas/flags/pt-br.png" class="vlag" alt=""> Portuguese</a></div>           <div class="item">
+		   <a class="lang_link" href="/it"><img src="/themes/123peppy_christmas/flags/it.png" class="vlag" alt=""> Italian</a></div>           <div class="item">
+		   <a class="lang_link" href="/es"><img src="/themes/123peppy_christmas/flags/es.png" class="vlag" alt=""> Spanish</a></div>           <div class="item">
+		   <a class="lang_link" href="/tr"><img src="/themes/123peppy_christmas/flags/tr.png" class="vlag" alt=""> Turkish</a></div>           <div class="item">
+		   <a class="lang_link" href="/ru"><img src="/themes/123peppy_christmas/flags/ru.png" class="vlag" alt=""> Russian</a></div>		   
+									
+										
+			</div> 	
+			
+			<div id="language" style="cursor: pointer;"><img src="/themes/123peppy_christmas/flags/en.png" class="vlag_active" alt=""> English</div>
+            <script type="text/javascript">
+				at_attach("language", "menu_child", "hover", "y", "pointer");
+			</script>
+			</div>
+<div id="left-menu2333333">
+	<div class="left-menu-bottom-bg">
+		<div class="left-menu-container">
+					
+               
+			   <div class="left-menu-box">
+			   	
+				<ul>
+                <li class="head1">
+			   			   <strong>Dress up Games</strong> 
+			  		<ul class="">    
+                    <li><a href="/games/girls-dress-games"><span>Girls Dress up Games</span></a></li><li><a href="/games/wedding-dress-games"><span>Wedding Dress up Games</span></a></li><li><a href="/games/couple-dress-games"><span>Couple Dress up Games</span></a></li><li><a href="/games/fantasy-dress-games"><span>Fantasy Dress up Games</span></a></li><li><a href="/games/boy-dress-games"><span>Boy Dress up Games</span></a></li><li><a href="/games/profession-dress"><span>Profession Dress up</span></a></li><li><a href="/games/other-dress-games"><span>Other Dress up Games</span></a></li>					
+        			</ul>
+			   
+			   </li>
+               <li class="head1">
+			   
+			   			   <strong>Girls Games</strong>
+			  		<ul class="">  
+                    <li><a href="/games/girls-makeover"><span>Girls Makeover</span></a></li><li><a href="/games/room-decor"><span>Room Decor</span></a></li><li><a href="/games/skill-games"><span>Skill Games</span></a></li><li><a href="/games/zodiac-girls-0"><span>Zodiac Girls</span></a></li><li><a href="/games/holiday-games"><span>Holiday Games</span></a></li><li><a href="/games/other-games"><span>Other Games</span></a></li>					
+        			</ul>
+			   
+			   </li>
+               <li class="head plus">
+			   
+			   			   <strong>Doll Games</strong>
+			  		<ul class="children" style="display: none;">   
+                    <li><a href="/games/doll-maker"><span>Doll Maker</span></a></li><li><a href="/games/bratz-games"><span>Bratz Games</span></a></li><li><a href="/games/barbie-games"><span>Barbie Games</span></a></li><li><a href="/games/dora-games"><span>Dora Games</span></a></li><li><a href="/games/powerpuff-girls-games"><span>PowerPuff Girls Games</span></a></li><li><a href="/games/sue-games"><span>Sue Games</span></a></li><li><a href="/games/winx-games"><span>Winx Games</span></a></li>					
+        			</ul>
+			   
+			   </li>
+               <li class="head plus">
+			   
+			   			   <strong>Kids Games</strong>
+			  		<ul class="children" style="display: none;">   
+                    <li><a href="/games/cartoons-games"><span>Cartoons Games</span></a></li><li><a href="/games/coloring-pages"><span>Coloring Pages</span></a></li><li><a href="/games/animal-games"><span>Animal Games</span></a></li><li><a href="/games/anime-games"><span>Anime Games</span></a></li><li><a href="/games/baby-games"><span>Baby Games</span></a></li>					
+        			</ul>
+			   
+			   </li>
+               <li class="head plus">
+			   
+			   			   <strong>Celebrity Games</strong>
+			  		<ul class="children" style="display: none;">    
+                    <li><a href="/games/celebrity-dress"><span>Celebrity Dress up</span></a></li><li><a href="/games/celebrity-makeover"><span>Celebrity Makeover</span></a></li><li><a href="/games/beauty-pageants"><span>Beauty Pageants</span></a></li>					
+        			</ul>
+			   
+			  </li>
+               <li class="head plus">
+			    
+			   			   <strong>Fun Games</strong>
+			  		<ul class="children" style="display: none;">   
+                    <li><a href="/games/fun-games"><span>Fun Games</span></a></li><li><a href="/games/love-games"><span>Love Games</span></a></li><li><a href="/games/kissing-games"><span>Kissing Games</span></a></li><li><a href="/games/music-games"><span>Music Games</span></a></li><li><a href="/games/dancing-games"><span>Dancing Games</span></a></li><li><a href="/games/magic-games"><span>Magic Games</span></a></li>					
+        			</ul>
+			   
+			   </li>
+               <li class="head plus">
+			   
+			   								<strong>Cooking Games</strong>
+							  		<ul class="children" style="display: none;">
+                    <li><a href="/games/cooking-games"><span>Cooking Games</span></a></li><li><a href="/games/restaurant-games"><span>Restaurant Games</span></a></li><li><a href="/games/farming-games"><span>Farming Games</span></a></li><li><a href="/games/caring-games"><span>Caring Games</span></a></li><li><a href="/games/guest-service"><span>Guest Service</span></a></li><li><a href="/games/management"><span>Management</span></a></li><li><a href="/games/recipe-games"><span>Recipe games</span></a></li>					
+        			</ul>
+			    </li>
+				<li class="head plus">
+			   
+			   			   <strong>Daily Challenge</strong>
+			  		<ul class="children" style="display: none;">
+                    <li><a href="/games/pixel-patch"><span>Pixel Patch</span></a></li><li><a href="/games/swing-and-set"><span>Swing and Set</span></a></li><li><a href="/games/hidden-object"><span>Hidden Object</span></a></li><li><a href="/games/image-disorder"><span>Image Disorder</span></a></li><li><a href="/games/sort-my-tiles"><span>Sort My Tiles</span></a></li><li><a href="/games/puzzle-mania"><span>Puzzle Mania</span></a></li>					
+        			</ul>
+			    </li>
+				 </ul>
+			   </div>
+		</div>	
+	</div>
+</div>
+<div class="con-container ">
+						   <div class="con-top"></div>
+						   <div class="con-content">
+						      <!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for 123peppy.com -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;m=3&amp;tp=7&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&m=3&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=43986&m=3&tp=7&d=s&c=1"
+width=160 height=600 border=1></a></noscript>
+<!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for 123peppy.com -->
+						   </div>
+						   <div class="con-foot"></div>
+				  		</div>							   	 
+<div class="block poll"> 
+						     <div class="right-panel-mid">
+							     <div class="poll-panel">
+								 <h3>Poll</h3>
+							       <div id="poll">
+                                   								   <div class="game-alert">
+							        
+									  <h4>Who is the most Stylish Female Singer?</h4>
+                                   <form id="poll-view-voting" method="post" accept-charset="UTF-8" action="/poll10" "="">
+                                      									  <fieldset><input type="radio" name="choice" value="0"><label>Miley Cyrus</label></fieldset>
+									  									  <fieldset><input type="radio" name="choice" value="1"><label>Beyonce Knowles</label></fieldset>
+									  									  <fieldset><input type="radio" name="choice" value="2"><label> Jennifer Lopez</label></fieldset>
+									  									  <fieldset><input type="radio" name="choice" value="3"><label>Ciara</label></fieldset>
+									  									 <fieldset>
+                                      <input type="submit" class="ensubmit" value="Vote" id="edit-vote" name="op"><label class="enbtn"><a href="/poll10"><span>See Result</span></a></label></fieldset></form>
+								   </div>
+								   
+								   </div>
+								  
+								    
+							     </div>
+								 
+							 
+							 
+							 
+							 </div>
+						       <div class="right-panel-bottom"></div>	 
+						    
+						 
+						 
+						 </div><div class="con-container affliates-panel">
+    <div class="con-top">
+    </div>
+    <div class="con-content">
+        <div class="affiliates-wrapper">
+            <div class="affiliates games2girls">
+                <a target="_blank" href="http://www.games2girls.com/dressupgames.htm" title="www.games2girls.com"><img src="http://123peppy.com/themes/123peppy_christmas/screenshots/games2girls.jpg" alt=""></a>
+            </div>
+            <div class="affiliates dressupgames">
+                <a target="_blank" href="http://www.dressupgames.com/" title="www.dressupgames.com"><img src="http://123peppy.com/themes/123peppy_christmas/screenshots/3.png" alt=""></a>
+            </div>
+            <div class="affiliates dressupwho">
+                <a target="_blank" href="http://www.dressupwho.com" title="www.dressupwho.com"><img src="http://123peppy.com/themes/123peppy_christmas/screenshots/88x31b.gif" alt=""></a>
+            </div>
+            <div class="affiliates oyunlar1">
+                <a target="_blank" href="http://www.oyunlar1.com/cookinggames.asp" title="www.oyunlar1.com"><img src="http://123peppy.com/themes/123peppy_christmas/screenshots/oyunlar1.jpg" alt=""></a>
+            </div>
+            <div class="affiliates kibagames">
+                <a target="_blank" href="http://www.kibagames.com/" title="www.kibagames.com"><img src="http://123peppy.com/themes/123peppy_christmas/screenshots/affliate5.gif" alt=""></a>
+            </div>
+            <div class="affiliates i-dressup">
+                <a target="_blank" href="http://www.i-dressup.com/" title="www.i-dressup.com"><img src="http://123peppy.com/themes/123peppy_christmas/screenshots/i-dressup.gif" alt=""></a>
+            </div>
+            <div class="affiliates dressupgirl">
+                <a target="_blank" href="http://www.dressupgirl.net/" title="www.dressupgirl.net"><img src="http://123peppy.com/themes/123peppy_christmas/screenshots/dressupgirl.gif" alt=""></a>
+            </div>
+			 <div class="affiliates pets2play">
+                <a target="_blank" href="http://www.pets2play.com/" title="www.pets2play.com"><img src="http://123peppy.com/themes/123peppy_christmas/screenshots/pets2play.png" alt=""></a>
+            </div>
+        </div>
+    </div>
+    <div class="con-foot">
+    </div>
+</div>
+        </div>
+      
+ <div id="right-panel">
+		    
+            <div class="right-content">
+			    			                 <!-- ads-->
+			                 
+                <div class="full-panel">
+			      <div class="full-panel-middle-wrapper">
+				     <div class="full-panel-middle">
+						 <div class="full-panel-heading"><h3><span class="playhead">
+						 Privacy Policy					  
+			  </span> 
+			  
+			  <!-- AddThis Button BEGIN -->
+				<script type="text/javascript">addthis_pub  = 'netaxis';</script>
+				<a class="book-mark-btn" href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt=""></a>
+				<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+				<!-- AddThis Button END --></h3></div>
+						 <div class="full-panel-content">
+													 <div class="play-panel">
+							 							 							 <ul class="tabs primary">
+							 								 								 </ul>
+							 	 
+					  					  					  <div class="tellpanel">
+					  							    <div class="play-left">
+																
+ 	<div class="content " style="margin:0px">
+	<!--<div id="node-870" class="node">
+-->
+
+<!---->
+<!--      <span class="submitted">Tue, 03/11/2008 - 06:37 � <a href="/user/admin" title="View user profile.">admin</a></span>
+  
+-->  
+  <div class="content">
+    <p><b>Registration </b><br>
+In order to register for an account on 123peppy you must supply us with your email address.</p>
+<p><b>How your personal Information is used </b>We use your email address to send you your password. This is also applicable should you use the lost password or lost username feature on the site. We may also from time to time send you emails about offers or updates with 123peppy. You can choose to opt out of this at any time from your My 123peppy Settings area. We do not pass any personal information (including email addresses) to 3rd parties. Information pertaining to the age is of essential value in identifying the minors, who need to obtain permission from parents or from their legal guardian to get registered as a member of 123peppy.com (Minors present in the United States are the children who get categorized under 13, and in the non-US countries, children under the age of 16 years get categorized as minors)</p>
+<p><b>IP address and logging </b><br>
+Your IP address is used to gather broad demographic information and to track your general visiting patterns (how many pages you view while at one website, downloads, etc). </p>
+<p><b>Third Party Advertising </b><br>
+We may use Google Adsense and/or other third-party advertising companies to serve ads when you visit 123peppy.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you </p>
+<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit   www.networkadvertising.org. </p>
+<p><b>Cookies </b>Some ads displayed may come from our servers. Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be shown for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers. </p>
+<p><b>Third Party Cookies </b><br>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. </p>
+<p><b>Parental Rights </b><br>
+As a parent you have the right to request all personal information stored about your child on our servers. At your request we will provide this information to you within 7 working days. </p>
+<p><b>Changes to this Privacy Policy </b><br>
+We reserve the right to change the terms in this policy at any time without notice. It is your responsibility to ensure you are upto date with contents of this privacy policy. </p>
+  </div>
+
+<!--  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+-->
+      
+<!--	</div> -->
+
+<!--</div>-->
+	</div>
+	
+		
+	</div>
+		
+								   
+							    
+                                								  
+							 </div>
+							 							 </div>
+							 							
+						
+					 </div>
+				  </div>
+			      <div class="full-panel-footer"></div>
+			   </div>   </div>
+				 
+				
+						                           
+               <!--end-->
+						 
+         
+			
+			
+			
+			
+			
+		
+             
+          </div>
+		   <div class="right-foot"></div>
+          </div>
+		 </div>	  	  
+		  
+		  
+     </div>
+	  
+  
+  </div>
+  
+  
+  
+  
+<!-- /middle end -->
+<div id="footer">
+    <div class="boxcenbg">
+        <div class="botaddtxt">
+               
+<div id="footer-container">
+		   <div id="footer-top" class="floatfix">
+		    
+					<div id="pink-line"></div>
+													
+						<div class="footer-link">
+						<a href="/free-games-for-your-site">Free Games For Your Site</a>	
+						| 
+						<a href="/terms-of-service">Terms of Service</a> 
+						| 
+						<a href="/privacy-policy">Privacy Policy</a> 
+						| 
+						<a href="/aboutus">About us</a> 
+						| 
+						<a href="/contact">Contact Us</a> 
+						| 
+						<a href="/link-to-us">Link To Us</a> 
+						|
+						<a href="/uploadgames">Upload Your Games</a>
+						
+							<span>© Copyright 2008 - 2010 123peppy.com. All rights reserved.</span> 
+						</div>
+							
+				</div>
+ 
+			</div> 
+        </div>
+    </div>
+    
+
+                            
+                            
+                            
+                            
+                            
+</div>
+    <script type="text/javascript">
+							var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+							document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+							</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+							<script type="text/javascript">
+							try {
+							var pageTracker = _gat._getTracker("UA-185393-12");
+							pageTracker._trackPageview();
+							} catch(err) {}</script>
+<!-- JS AREA : BEGIN -->
+
+
+<script type="text/javascript" src="/themes/123peppy_christmas/jsscript.js"></script>  
+
+<script type="text/javascript" src="/files/js/js_ace340b17853f409b83268a2b7f9c281.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
 
 <script type="text/javascript">
 <!-- Begin 
@@ -134,427 +756,42 @@ tipobj.style.width=''
 document.onmousemove=positiontip
 // End --> 
 
+
+ function refreshPoints(value)
+                        {
+                                points = value;
+                               // alert(points+ "sssss");
+                                document.getElementById("userpoints").innerHTML=points;
+                        }
+						
 </script>
 
   <script type="text/javascript" src="/themes/123peppy_christmas/wz_tooltip.js"></script>
-
-<!-- Layout -->
-<div id="main-container">
-<div id="container-wrapper" class="floatfix">
-  <div id="header" class="clear-block"><div class="left-pannel">
-   <div class="left-pannel-top"></div>
-   <div class="left-pannel-mid">   
-         <div id="swf-rotator">          
-                   
-<div id="header">
-   				 		<h1><a href="/"><!--<img src="new-sliced-images/logo.png" alt="123Peppy - Best Girl's Hangout" />-->
-	 	 				<embed wmode="transparent" width="156" height="171" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="/themes/123peppy_christmas/logo/logo.swf">
-					</a>	
-   				 </h1>
-				 
-    	<div class="wrapper-top">
-	  		<div id="top-ban">
-      			<div class="banner-holder">
-				
-				<span><!-- ValueClick Media 728x90 LEADERBOARD CODE for 123peppy.com -->
-					<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;tp=5&amp;d=j&amp;t=n"></script>
-					<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&c=1" target="_blank">
-					<img src="http://media.fastclick.net/w/get.media?sid=43986&tp=5&d=s&c=1" alt="" width="728" height="90" border="1"/>
-                    </a></noscript>
-					<!-- ValueClick Media 728x90 LEADERBOARD CODE for 123peppy.com --></span>
-							</div>
-	  			<div class="right-head-panel">
-	      		<fieldset>
-          		<form action="/search" accept-charset="UTF-8" method="get" id="search-theme-form">
-		   		   <input name="title" type="text" id="search" value="" onblur="if(this.value==''){this.value='Search'}" onfocus="if(this.value=='Search'){this.value=''}" class="search-box">
-		   		<input type="submit" value="" class="search-btn"></form>
-	   			</fieldset>
-                <ul class="upper">
-					
-                 <li> <a href="/invite"> Invite A Friend</a></li>
-				                        <li> <a href="/music"> Music </a> </li>
-								
-        <li> <a href="/blogs/admin"> News </a></li>
-        <li> <a href="/faq"> Help</a> </li>
-	    </ul>
-	  		</div>
-		</div>  
-      <ul id="top-menu">
-        <li class="left"></li>
-        <li class="midtop">
-		        <a href="/" class="top-menu">Home</a>
-		
-		<a href="/games/shop-n-dress" class="top-menu">Shop N Dress</a>
-		<a href="/games/peppy-color-girls" class="top-menu">Peppy Color Girls</a>
-		
-		<a href="/games/celebrity-dress" class="top-menu">Celebrity</a>
-        <a href="/games/zodiac-girls" class="top-menu">Zodiac Girls</a>
-        <a href="/graffiti" title="Graffiti Maker - Online graffiti text and symbols generator">Graffiti</a>
-        <!--<a href="/chat" class="top-menu">Chat</a>-->
-		<!--<a href="/music" class="top-menu">Music</a>-->
-        <a href="/facefun" class="top-menu">Facefun</a>
-		<a href="/facefun/greetings">Greetings</a>
-        </li>
-        <li class="right"></li>
-      </ul>
-      <ul id="top-panel">
-        <li class="left"></li>
-        <li> 
-               
-          <form action="/user/login" accept-charset="UTF-8" method="post" id="user-login" style=" float: left">
-            <div class="username-box">
-			  <input name="name" type="text" onblur="if(this.value==''){this.value=' UserName '}" onfocus="if(this.value==' UserName '){this.value=''}" id="" value=" UserName " class="input-login">
-			 </div>
-			  <div class="password-box">
-                <input name="pass" type="password" value=" Password " onblur="if(this.value==''){this.value=' Password '}" onfocus="if(this.value==' Password '){this.value=''}" class="input-password">
-			  </div>
-               <input type="hidden" name="form_id" value="user_login">
-			   <input name="op" type="submit" class="login-btn" value="">
-          </form>
-		   <span class="forget"><a href="/user/password">Forgot Password?</a></span>
-		
-         
-		 
-     <span style="padding-top:0px;float:left; margin:0 0 0 10px;"> 
-     <a href="/user/register"><img src="/themes/123peppy6/images/join_free2.png" alt=""></a></span>
-         
-		<span style="padding: 2px;float: right; "> 
-        </span></li>
-        <li class="right"></li>
-      </ul>
-    </div>
-	
-  </div>         
-         </div>
-   </div>
-          
-   <div class="left-pannel-bot"></div>
-</div>
-</div>
-    
-   
-
-       <!-- /header -->
-	  
-	   <!-- middle start-->
-
-               
-		   <div id="middle-container">
-      
-		<!--left-panel starts here-->
-			
-         <div id="left-panel"> 	<div class="top"></div>	
-                    					<div id="language_menu">
-		   <div id="menu_child">
-                     <div class="item">
-		   <a class="lang_link" href="/fr"><img src="/themes/123peppy_christmas/flags/fr.png" class="vlag" alt=""> Français</a></div>           <div class="item">
-		   <a class="lang_link" href="/de"><img src="/themes/123peppy_christmas/flags/de.png" class="vlag" alt=""> German</a></div>           <div class="item">
-		   <a class="lang_link" href="/pl"><img src="/themes/123peppy_christmas/flags/pl.png" class="vlag" alt=""> Polish</a></div>           <div class="item">
-		   <a class="lang_link" href="/nl"><img src="/themes/123peppy_christmas/flags/nl.png" class="vlag" alt=""> Dutch</a></div>           <div class="item">
-		   <a class="lang_link" href="/sv"><img src="/themes/123peppy_christmas/flags/sv.png" class="vlag" alt=""> Swedish</a></div>           <div class="item">
-		   <a class="lang_link" href="/pt-br"><img src="/themes/123peppy_christmas/flags/pt-br.png" class="vlag" alt=""> Portuguese</a></div>           <div class="item">
-		   <a class="lang_link" href="/it"><img src="/themes/123peppy_christmas/flags/it.png" class="vlag" alt=""> Italian</a></div>           <div class="item">
-		   <a class="lang_link" href="/es"><img src="/themes/123peppy_christmas/flags/es.png" class="vlag" alt=""> Spanish</a></div>           <div class="item">
-		   <a class="lang_link" href="/tr"><img src="/themes/123peppy_christmas/flags/tr.png" class="vlag" alt=""> Turkish</a></div>           <div class="item">
-		   <a class="lang_link" href="/ru"><img src="/themes/123peppy_christmas/flags/ru.png" class="vlag" alt=""> Russian</a></div>		   
-									
-										
-								</div> 	
-									<div id="language"><img src="/themes/123peppy_christmas/flags/en.png" class="vlag_active" alt=""> English</div>
-                                    <script type="text/javascript">
-				at_attach("language", "menu_child", "hover", "y", "pointer");
-			</script>
-			</div>
-                    					  
-					  <ul id="left-menu">
-                       <li class="top"><a href="/games/animal-games">Animal Games</a></li>
-					  <li><a href="/games/anime-dress-games"><span>Anime Dress up Games</span></a></li>
-                      <li><a href="/games/barbie-dress-games"><span>Barbie Dress up Games</span></a></li>
-                      <li><a href="/games/baby-dress-games"><span>Baby Dress up games</span></a></li>
-				
-					  <li><a href="/games/beauty-pageants"><span>Beauty Pageants</span></a></li>
-						<li><a href="/games/boy-dress-games"><span>Boy Dress up Games</span></a></li>
-						<li><a href="/games/bratz-games"><span>Bratz Games</span></a></li>
-						<li><a href="/games/cartoons-games"><span>Cartoons Games</span></a></li>
-						<li><a href="/games/celebrity-dress"><span>Celebrity Dress up</span></a></li>
-					<li><a href="/games/coloring-pages"><span>Coloring Pages</span></a></li>
-				<li><a href="/games/cooking-games"><span>Cooking Games</span></a></li>
-					<li><a href="/games/couple-dress-games"><span>Couple Dress up Games</span></a></li>
-
-				<li><a href="/games/doll-maker"><span>Doll Maker</span></a></li>
-				<li><a href="/games/fantasy-dress-games"><span>Fantasy Dress up Games</span></a></li>
-				<li><a href="/games/fashion-games"><span>Fashion Games</span></a></li>
-				<li><a href="/games/girls-dress-games"><span>Girls Dress up Games</span></a></li>
-				<li><a href="/games/girls-makeover"><span>Girls Makeover</span></a></li>
-				<li><a href="/games/gothic-dress-games"><span>Gothic Dress up Games</span></a></li>
-                <li><a href="/games/holiday-games"><span>Holiday Games</span></a></li>
-				<li><a href="/games/powerpuff-girls-games"><span>PowerPuff Girls Games</span></a></li>
-                <li><a href="/games/profession-dress"><span>Profession Dress up</span></a></li>
-                <li><a href="/games/puzzles"><span>Puzzle Games </span></a></li>
-				<li><a href="/games/roiworld-dress-games"><span>Roiworld Dress up Games</span></a></li>
-				<li><a href="/games/room-decor"><span>Room Decor</span></a></li>
-                <li><a href="/games/skill-games"><span>Skill Games</span></a></li>
-				<li><a href="/games/wedding-dress-games"><span>Wedding Dress up Games</span></a></li>
-
-				<li><a href="/games/other-games"><span>Other Games</span></a></li>
-				<li class="bottom"><a href="/games/other-dress-games"><span>Other Dress up Games</span></a></li>
-				
-                
-				
-                
-        		</ul>
-                
-<div class="con-container">
-					   <div class="con-top"></div>
-					   <div class="con-content">
-                       <!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for 123peppy.com -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;m=3&amp;tp=7&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&m=3&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=43986&m=3&tp=7&d=s&c=1"
-width=160 height=600 border=1></a></noscript>
-<!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for 123peppy.com -->
-					   </div>
-					   <div class="con-foot"></div>
-					  </div>
-             </div>
-      
- <div id="right-panel">
-		    
-            <div class="right-content">
-			    	<div id="two-col-wrapper">
-            <div id="left-col"> 
-            <div class="left-panel">
-				           <div class="left-middle">
-                             <div id="swf-rotater">
-                              <div style="width:300px; padding: 0 0 0 10px; float: left">
-                             <script type="text/javascript"><!--
-google_ad_client = "pub-4529211367195218";
-/* 123peppy 300x250, created 3/9/08 */
-google_ad_slot = "0517349586";
-google_ad_width = 300;
-google_ad_height = 250;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-                     	</div>
-                      
-                      <div style="width:300px; margin: 0 0 0 10px; float: left">
-					  <!-- ValueClick Media 300x250 Medium Rectangle CODE for 123peppy.com -->
-<script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=43986&amp;m=6&amp;tp=8&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=43986&m=6&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=43986&m=6&tp=8&d=s&c=1" width="300" height="250" border="1" alt=""/></a></noscript>
-<!-- ValueClick Media 300x250 Medium Rectangle CODE for 123peppy.com -->
-                     </div>
-                             </div>
-                             </div>
-                             <div class="left-footer"></div>
-						 </div></div>
-                         <div id="right-col"> 
-						 	   <div class="right-panel">
-						     <div class="right-panel-mid">
-							     <div class="member-panel">
-								 <h3>Online User</h3>
-							       <div class="member-cont">
-                                    
-			<div class="member-img">
-									   <div class="member"><span class="user-img"><a href="/user/gimhanimangala"><img alt="gimhanimangala yuganahh" src="/useravatar/image/261289_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/gimhanimangala">gimhanimangala</a>&nbsp;<img src="/files/country/Sri-Lanka.gif" alt="Sri" lanka="" title="Sri"></span><span class="user-left">Female,Sri Lanka</span></div></div><div class="member-img">
-									   <div class="member"><span class="user-img"><a href="/user/hersheen"><img alt="hersheen yuganahh" src="/useravatar/image/259146_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/hersheen">hersheen</a>&nbsp;<img src="/files/country/India.gif" alt="India" title="India"></span><span class="user-left">Female,India</span></div></div><div class="member-img">
-									   <div class="member"><span class="user-img"><a href="/user/jayakumar"><img alt="jayakumar yuganahh" src="/useravatar/image/124788_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/jayakumar">jayakumar</a>&nbsp;<img src="/files/country/India.gif" alt="India" title="India"></span><span class="user-left">Male,India</span></div></div><div class="member-img">
-									   <div class="member"><span class="user-img"><a href="/user/nida30"><img alt="Nida30 yuganahh" src="/useravatar/image/252180_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/nida30">Nida30</a>&nbsp;</span><span class="user-left">Female</span></div></div><div class="member-img">
-									   <div class="member"><span class="user-img"><a href="/user/adamdude"><img alt="adamdude yuganahh" src="/useravatar/image/249850_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/adamdude">adamdude</a>&nbsp;<img src="/files/country/United-States.gif" alt="USA" title="USA"></span><span class="user-left">Male,United States</span></div></div><div class="member-img">
-									   <div class="member"><span class="user-img"><a href="/user/admin"><img alt="admin yuganahh" src="/useravatar/image/1_thumb.png" width="22" height="22"></a></span><span class="user-left"><a href="/user/admin">admin</a>&nbsp;<img src="/files/country/United-States.gif" alt="USA" title="USA"></span><span class="user-left">Female,United States</span></div></div>	   
-								</div></div>
-								 </div>
-						<div class="right-panel-bottom"></div>	 
-						    </div>
-	</div></div>
-						
-						
-			  
-               <!-- ads-->
-			                 
-                <div class="full-panel">
-			      <div class="full-panel-middle-wrapper">
-				     <div class="full-panel-middle">
-						 <div class="full-panel-heading"><h3><span class="playhead">
-						 Privacy Policy</span> <!-- AddThis Button BEGIN -->
-				<script type="text/javascript">addthis_pub  = 'netaxis';</script>
-				<a class="book-mark-btn" href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt=""></a>
-				<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-				<!-- AddThis Button END --></h3></div>
-						 <div class="full-panel-content">
-													 <div class="play-panel">
-							 							 <ul class="tabs primary">
-							 								 								 </ul>
-					  					  					  <div class="tellpanel">
-					  							    <div class="play-left">
-																
- <div class="content " style="margin:0px">
-	<!--<div id="node-870" class="node">
--->
-
-<!---->
-<!--      <span class="submitted">Tue, 03/11/2008 - 06:37 � <a href="/user/admin" title="View user profile.">admin</a></span>
   
--->  
-  <div class="content">
-    <p>
-<b>Registration<br>
-</b>
-In order to register for an account on 123peppy you must supply us with your email address.
-</p>
-<p>
-<b>How your personal Information is used<br>
-</b>We use your email address to send you your password. This is also applicable should you use the lost password or lost username feature on the site. We may also from time to time send you emails about offers or updates with 123peppy. You can choose to opt out of this at any time from your My 123peppy Settings area. We do not pass any personal information (including email addresses) to 3rd parties. Information pertaining to the age is of essential value in identifying the minors, who need to obtain permission from parents or from their legal guardian to get registered as a member of 123peppy.com (Minors present in the United States are the children who get categorized under 13, and in the non-US countries, children under the age of 16 years get categorized as minors)
-</p>
-<p>
-<b>IP address and logging<br>
-</b>
-Your IP address is used to gather broad demographic information and to track your general visiting patterns (how many pages you view while at one website, downloads, etc).
-</p>
-<p>
-<b>Third Party Advertising<br>
-</b>
-We may use Google Adsense and/or other third-party advertising companies to serve ads when you visit 123peppy.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you </p>
-<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit   www.networkadvertising.org.
-</p>
-<p>
-<b>Cookies<br>
-</b>Some ads displayed may come from our servers. Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be shown for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers.
-</p>
-<p>
-<b>Third Party Cookies<br>
-</b>
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
-</p>
-<p>
-<b>Parental Rights<br>
-</b>
-As a parent you have the right to request all personal information stored about your child on our servers. At your request we will provide this information to you within 7 working days.
-</p>
-<p>
-<b>Changes to this Privacy Policy<br>
-</b>
-We reserve the right to change the terms in this policy at any time without notice. It is your responsibility to ensure you are upto date with contents of this privacy policy.
-</p>
-  </div>
 
-<!--  <div class="clear-block clear">
-    <div class="meta">
-        </div>
--->
-      
-<!--	</div> -->
+<script type="text/javascript" src="/accordion/jquery.msAccordion.js"></script>
+<script language="javascript" type="text/javascript">
+$(document).ready(function() {
+						   
+						   $("#accordion4").msAccordion({defaultid:1, vertical:true,autodelay:4, event:'mouseover'});
+						   }
+						   )
+</script>  
 
-<!--</div>-->
-</div>	
-	</div>
-								   
-							    
-                                								  
-							 </div>
-							 							 </div>
-							 							
-						
-					 </div>
-				  </div>
-			      <div class="full-panel-footer"></div>
-			   </div>   </div>
-				 
-				
-						                           
-               <!--end-->
-						 
-         
-			
-			
-			
-			
-			
-		
-             
-          </div>
-		   <div class="right-foot"></div>
-          </div>
-		 </div>	  	  
-		  
-		  
-     </div>
-	   
-  
-  </div>
-  
-  
-  
-  
-<!-- /middle end -->
-<div id="footer">
-    <div class="boxcenbg">
-        <div class="botaddtxt">
-               <div id="footer-container">
-		   <div id="footer-top" class="floatfix">
-		     <div class="footclass">
-					 <div class="affiliates">
-					  <a target="_blank" href="http://www.games2girls.com/dressupgames.htm">
-                      <img src="/themes/123peppy_christmas/screenshots/games2girls.jpg" title="www.games2girls.com" alt="www.games2girls.com"></a></div>
-					 
-			     
-				     <div class="affiliates">
-					 <a target="_blank" href="http://www.dressupgames.com/">
-                     <img src="/themes/123peppy_christmas/screenshots/3.png" alt="www.dressupgames.com" title="www.dressupgames.com"></a></div>
-					  <div class="affiliates">
-					 <a target="_blank" href="http://www.dressupwho.com"><img src="/themes/123peppy_christmas/screenshots/88x31b.gif" alt="www.dressupwho.com" title="www.dressupwho.com"></a></div>
-					 
-					 
-					
-					 <div class="affiliates">
-					 <a target="_blank" href="http://www.oyunlar1.com/cookinggames.asp"><img src="/themes/123peppy_christmas/screenshots/oyunlar1.jpg" alt="www.oyunlar1.com" title="www.oyunlar1.com"></a></div>
-					
-					<div class="affiliates">
-					 <a target="_blank" href="http://www.kibagames.com/"><img src="/themes/123peppy_christmas/screenshots/affliate5.gif" alt="www.kibagames.com" title="www.kibagames.com"></a></div>
-					
-					  <div class="affiliates">
-					   <a target="_blank" href="http://www.i-dressup.com/"><img src="/themes/123peppy_christmas/screenshots/i-dressup.gif" alt="www.i-dressup.com" title="www.i-dressup.com"></a></div>
-					   
-					 
-					   <div class="affiliates">
-					 <a target="_blank" href="http://www.123bee.com/"><img src="/themes/123peppy_christmas/screenshots/bee.png" alt="www.123bee.com" title="www.123bee.com"></a></div>
- <div class="affiliates">
-					 <a target="_blank" href="http://www.123peppy.com/uploadgames"><img src="/themes/123peppy_christmas/screenshots/upload_your_games.png" alt="" title="Upload Your Games"></a></div>
-					    
-					 
-				
-			  </div>
-					<div id="pink-line"></div>
-													<div class="footer-link">
-															
-<a href="/free-games-for-your-site">Free Games For Your Site</a>	|<a href="/terms-of-service">Terms of Service</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/aboutus">About us</a> | <a href="/contact">Contact Us</a> | <a href="/link-to-us">Link To Us</a>
-							<span>© Copyright 2008 123peppy.com. All rights reserved.</span> 
-						</div>
-							
-				</div>
+<!-- ValueClick Media POP-UNDER CODE v1.8 for 123peppy.com (12 hour) -->
+<script language="javascript"><!--                                 
+var dc=document; var date_ob=new Date();
+dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
+if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
+dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
+dc.write('/w/pop.cgi?sid=43986&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
+date_ob.setTime(date_ob.getTime()+43200000);
+dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
+</script>                                                          
+<!-- ValueClick Media POP-UNDER CODE v1.8 for 123peppy.com -->
  
-			</div> 
-        </div>
-    </div>
-    
 
-                            
-                            
-                            
-                            
-                            
-</div>
-    <script type="text/javascript">
-							var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-							document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-							</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-							<script type="text/javascript">
-							try {
-							var pageTracker = _gat._getTracker("UA-185393-12");
-							pageTracker._trackPageview();
-							} catch(err) {}</script>
+<!-- JS AREA : END --> 
   
 
 
