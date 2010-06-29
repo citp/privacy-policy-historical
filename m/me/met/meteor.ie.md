@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221082956id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629094253id_/http%3A//www.meteor.ie/privacy_policy) for the most accurate reproduction.*
 
 # Meteor - Privacy Policy
 
@@ -41,7 +41,7 @@ You can contact us at any time to update your preferences by writing to or calli
 
 Data will not be used, disclosed or processed in any manner incompatible with the purposes for which it was obtained.
 
-For the purposes of providing Meteor Services to you it may be necessary for your Personal Data to be passed by Meteor to our partners, associates, agents or subcontractors. Some of these parties may reside outside of the EU. If we do this, we will ensure that your information is processed to the same Irish standards adopted by us.
+For the purposes of providing Meteor Services to you it may be necessary for your Personal Data to be passed by Meteor to our partners, associates, agents or subcontractors. Some of these parties may reside outside of the EU. If we do this, we will seek to ensure in so far as is possible that your information is processed to the same Irish standards adopted by us. Furthermore, please note that when roaming on other third parties networks outside of Ireland, they may have access to, use and process your Personal Data for the purposes of providing such roaming services. 
 
 Where you have agreed to be in included in our directory enquiry list your information will automatically be included in the National Directory Database (NDD) currently hosted by eircom (as nominated by the Commission for Communications Regulation (ComReg)). We will automatically list you as preferring not to receive direct telemarketing from third parties. You may wish to contact us if you would like to amend this preference. Under no circumstances will lists of customer data/information (i.e. mailing lists or database information) be disclosed to a third party for that third party's exploitation or use without your express permission.
 
