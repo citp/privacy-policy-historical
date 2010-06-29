@@ -1,25 +1,53 @@
-> *The following text is extracted and transformed from the totaltele.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413210100id_/http%3A//totaltele.com/Content.aspx%3FContent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltele.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629132012id_/http%3A//www.totaltele.com/privacy) for the most accurate reproduction.*
 
-# Total Telecom - Privacy Statement
+# Total Telecom - Privacy
 
-TOTAL TELECOM takes the privacy of its users seriously and this Privacy Policy Statement explains the privacy and data-protection practices of the leading web site for the global telecommunications business. 
+## Privacy: Protecting your data
 
-It is important for TOTAL TELECOM to safeguard its users' privacy while also providing a personalized and valuable service. The collection of personal information of users is necessary if TOTAL TELECOM is to satisfy the expectations and requirements of these users, for instance by communicating with them and providing an interactive service. 
+Total Telecom and its parent company and group companies (together, "Terrapinn") are committed to safeguarding the privacy of the users of the Total Telecom website, while providing a service which is tailored to suit their needs.  Please take a moment to read our Privacy Policy as it describes what happens to the personal information which you supply to Total Telecom.  Total Telecom reserves the right to change the terms of this Privacy Policy from time to time.
 
-  1. **What Information is compiled?**
+**1\. What information does Total Telecom hold about you and how is it collected?**
 
-In addition to the details on your registration form, information is automatically retrieved, for example on browsing patterns through the site. This is used only in aggregate form; no individual user is identified. The aggregate data allows TOTAL TELECOM to analyze the site traffic and manage its relationship with advertisers and thus provide a more relevant service to its users. 
+If you register on the Total Telecom site, your personal information (including your name, job title, company's name, telephone, fax and mobile numbers, postal and email address) is collected by Total Telecom.  We also collect personal information from you when you contact us (by email or otherwise), or if you utilise certain online services including but not limited to white papers and press release hosting.
 
-  2. **What do we do with the information we collect?**
+In common with many other on-line services, if you have registered on the Total Telecom site, we may use "cookies" to store and sometimes track information about you, but only on an anonymous basis.  A cookie is a small amount of data sent from the server which is stored on your PC's hard drive.  You can set your browser to refuse cookies or ask your browser to show you where cookies have been set up.  Certain services are only activated by the presence of a cookie and, if you choose to reject the cookie, a particular on-line feature may not be available to you.
 
-The personal information you supplied on your TOTAL TELECOM registration form will not be disclosed outside Terrapinn ltd. The email address you provide when you first became an TOTAL TELECOM user allows us to send you information about important changes and improvements to the web site. Each time you receive a message, you have the option to decline to receive further marketing information relating to the activities of other parts of Terrapinn ltd. This can be undertaken by stating as such by reply e-mail. 
+**2\. What does Total Telecom do with your personal information?**
 
-  3. **What is a cookie?**
+All of the personal information described above will be stored on Total Telecom user database and may also be stored on the Terrapinn database (unless you notify us that you no longer wish us to retain such information, in which case it will be deleted).
 
-  
-TOTAL TELECOM uses a "cookie" to save time in allowing access to the site (it saves checking the registration database). A cookie is a small piece of information sent from TOTAL TELECOM to your computer, to help us identify you quickly. If you prefer not to accept a cookie, you can log in fully each time you use TOTAL TELECOM. 
+Total Telecom will only use your personal information in order to contact you (for example by email, mail or telephone) for those purposes to which you have previously consented on the site.  For example, if you register on the site, Total Telecom will email to you Total Telecom's newsletter and, if you wish, contact you about relevant products and services offered by Total Telecom or by reputable third parties.  If you do not wish to receive information about Total Telecom's and/or third parties' products and services, please tick the relevant box on the registration form when you register or, subsequently, via the "edit my profile" button at the top or bottom of the home page.  You may cancel your subscription to Total Telecom's newsletter at any time by clicking on the link at the foot of any edition of the newsletter.
 
+Total Telecom will also use the information which you provide in aggregate form (i.e. so that no individual users are identifiable) to determine demographic profiles and browsing patterns in order to:
 
+1. develop marketing profiles and assist strategic development;   
+2. manage Total Telecom's relationship with its readers, sponsors and advertisers;   
+3. enable site audits to be performed; and   
+4. enable Total Telecom to review, develop and improve the services which it offers.
 
+**3\. To whom is your personal information disclosed?**
 
-[info@totaltele.com](mailto:info@totaltele.com)
+Total Telecom will share your personal information with the other members of its group and (provided that you have not ticked the opt-out box on the registration form) will make your name and postal address available to reputable third parties so that they can send you details of their products and services.  In supplying Total Telecom with your personal information, you agree that Total Telecom may transfer that information (to the extent that it is still held on our database at the relevant time) to a third party who acquires all or substantially all of Total Telecom's assets or stock or our website services whether by merger, acquisition, reorganisation or otherwise.  Total Telecom will not otherwise disclose your personal information to any third parties.
+
+**4\. Transfers of personal information overseas**
+
+As the internet is a global environment, using the internet to collect and process personal information necessarily involves the transmission of that information worldwide.  Total Telecom will also share your personal information with members of its group which are located overseas.  By registering on the Total Telecom site and communicating with us, you acknowledge and agree to our processing of your personal information in this way.
+
+**5\. When does this Privacy Policy not apply?**
+
+This Privacy Policy only applies to the collection and use of data by Total Telecom.  It does not cover third party sites to which we provide links.  Those sites may have their own privacy policies.  
+ If you send to us contributions containing personal information to be posted on the Total Telecom site, this information will be publicly accessible and is not covered by this Privacy Policy.
+
+**6\. How do we protect your information?**
+
+Total Telecom is committed to data security.  If you subscribe to access our premium content (and, accordingly, enter payment details), Total Telecom offers the use of a secure server.  The secure server software encrypts all information which you input before it is sent to Total Telecom. Total Telecom takes steps to guard against unauthorised access to the personal information of the users of its site.  Although it makes every effort to create a secure environment for your personal information, Total Telecom cannot guarantee the safety of any personal information which is transmitted to us on-line.
+
+**7\. Nielsen**
+
+Click [here](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn more information about how we use a third party service to collect and use information on this Web site.
+
+**8\. Contacting us**
+
+If you have any questions or concerns about Total Telecom's use of your personal information, please email Klaudia Gowero at [compliance@terrapinn.com](mailto:compliance@terrapinn.com) or write to her at Terrapinn Holdings Limited, Welken House, 10-11 Charterhouse Square, London EC1M 6EH
+
+|  | 
