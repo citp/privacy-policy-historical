@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228083311id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlservercentral.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629223029id_/http%3A//www.sqlservercentral.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy - SQLServerCentral
 
