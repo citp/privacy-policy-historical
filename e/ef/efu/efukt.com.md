@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the efukt.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227062329id_/http%3A//www.efukt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efukt.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629230711id_/http%3A//www.efukt.com/privacy) for the most accurate reproduction.*
 
-# eFukt.com - porn you wish you never saw -
+# efukt.com - maker of lulz
 
 THIS SITE IS STRICTLY FOR ADULTS. IF YOU ARE NOT 18 THEN GET THE FUCK OUT!
 
@@ -10,7 +10,7 @@ Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") a
 
 Adults Only Service
 
-<b>THIS IS AN ADULTS ONLY SERVICE.</b> We will terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Sites; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.
+ **THIS IS AN ADULTS ONLY SERVICE.** We will terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Sites; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.
 
 Disclosures Made as Necessitated by Law or Safety
 
