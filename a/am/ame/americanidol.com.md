@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanidol.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228085102id_/http%3A//www.americanidol.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanidol.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630011333id_/http%3A//www.americanidol.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy -- American Idol
 
@@ -10,15 +10,13 @@ This Privacy Policy applies to "Visitors," which means that you simply browse th
 
 From time to time Fox Digital may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our Site or technology. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of such Privacy Policy. Your continued use of the Site after Fox Digital posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. Notwithstanding the foregoing, if Fox Digital materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of and have not objected to the change(s). In the event the last e-mail address you provided to us is not valid or is not capable of delivering the notice to you, Fox Digital's dispatch of an e-mail containing the notice to that e-mail address shall nonetheless constitute effective notice.
 
-*      **COLLECTION: COLLECTION OF PII BY FOX DIGITAL.**
-
-**General**. When Fox Digital collects PII, such as your full name, email address or birth date, from you it is because you are voluntarily submitting the information to us in order to register as a Member ("Registration PII"). Fox Digital may also collect PII from you if you choose to participate in activities like sweepstakes, contests, games, surveys, in connection with content or comments you submit to us, in public forums, or because you want us to furnish you with products, services or information. We may also obtain PII from reputable third parties. 
+* **General**. When Fox Digital collects PII, such as your full name, email address or birth date, from you it is because you are voluntarily submitting the information to us in order to register as a Member ("Registration PII"). Fox Digital may also collect PII from you if you choose to participate in activities like sweepstakes, contests, games, surveys, in connection with content or comments you submit to us, in public forums, or because you want us to furnish you with products, services or information. We may also obtain PII from reputable third parties. 
 
 You may also choose to voluntarily provide or store non-PII information in your personal profile ("Your Profile") or on other public forums provided on the Site, including but not limited to, text, files, images, photos, works of authorship, private messages, chats or any other materials (collectively "Content"). Content posted by any User is "User Content". If you choose to make User Content public or provide any User Content on other public forums provided on the Site, you do so at your sole discretion and risk.
 
 Members can change their Your Profile information at any time and can control how other Members and Fox Digital communicate with them by controlling their account settings, by going to the Your Profile page and clicking on the "Edit Profile & Theme" button.
 
-Fox Digital collects information from you at several different points on the Site in the manner set forth below:
+Fox Digital collects information from you at several different points on the Site in the manner set forth below: 
 
 **Member Registration and Profile** : In order to access certain information and services on the Site, you must first become a Member by completing our Member Registration form. During the registration process you will be required to provide registration data, including the Registration PII. Registration PII is not incorporated into "Your Profile" and is made private. **** You have the option of adding certain User Content to Your Profile.
 
@@ -42,9 +40,7 @@ You can program your computer to warn you each time a cookie is being sent or to
 
 Fox Digital also uses web beacons (also known as action tags or single pixel gifs) to access Fox Digital cookies and in connection with the services we offer through our Site. A web beacon is a transparent image placed on a web page that sends a signal when a person visits that page. This enables us to assess the popularity and effectiveness of the materials on our Site. We may also use web beacons in connection with newsletter and other e-mails we send to Users, to let us know whether the e-mail was opened. No PII is transmitted through web beacons. We also collect IP (Internet Protocol) addresses to analyze trends, administer our Site, track a User's movement, and gather broad demographic information for aggregate use.
 
-*     NOTICE: FOX DIGITAL WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES
-
-When you voluntarily provide PII to Fox Digital, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Fox Digital will make of the information. At the time you provide your PII, Fox Digital will notify you of your options regarding our use of your PII, including whether we will share it with outside companies (See "Choice" below). This Privacy Policy describes the types of other companies that may want to send you information about their products and services and therefore may want to share your PII, provided you have given Fox Digital permission to do so (See "Use" below). 
+* When you voluntarily provide PII to Fox Digital, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Fox Digital will make of the information. At the time you provide your PII, Fox Digital will notify you of your options regarding our use of your PII, including whether we will share it with outside companies (See "Choice" below). This Privacy Policy describes the types of other companies that may want to send you information about their products and services and therefore may want to share your PII, provided you have given Fox Digital permission to do so (See "Use" below). 
 
 Sometimes we collect PII from consumers in manual format or off-line, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us. 
 
@@ -58,13 +54,9 @@ Some of the advertisements that appear on our Site are delivered to you by natio
 [http://www.doubleclick.net/privacy_policy ](http://www.doubleclick.net/privacy_policy)  
 
 
-*     CHOICE: FOX DIGITAL WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII
+* Fox Digital will not use the PII you provide to us for purposes different from the purpose for which it was submitted, or share your PII with third parties that are not affiliated with Fox Digital (i.e., not part of the News America Group), unless we obtain your permission. 
 
-Fox Digital will not use the PII you provide to us for purposes different from the purpose for which it was submitted, or share your PII with third parties that are not affiliated with Fox Digital (i.e., not part of the News America Group), unless we obtain your permission. 
-
-*     USE: FOX DIGITAL'S USE OF PII
-
-Fox Digital will use your PII provided under this Privacy Policy in a manner that is consistent with this Privacy Policy. If Fox Digital obtains PII from a third party, such as a business partner, our use of that information is governed by this Privacy Policy. Fox Digital may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies. Provided you have given us permission, Fox Digital may also share your PII with advertisers and business partners that are not affiliated with Fox Digital, but would like to send you information about their products and services. For example, some of the companies who supply prizes for Fox Digital's contests may have special offers or promotions that might be of interest to Fox Digital users. However, you will always have the opportunity to instruct us not to share your information with third parties when PII is collected. 
+* Fox Digital will use your PII provided under this Privacy Policy in a manner that is consistent with this Privacy Policy. If Fox Digital obtains PII from a third party, such as a business partner, our use of that information is governed by this Privacy Policy. Fox Digital may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies. Provided you have given us permission, Fox Digital may also share your PII with advertisers and business partners that are not affiliated with Fox Digital, but would like to send you information about their products and services. For example, some of the companies who supply prizes for Fox Digital's contests may have special offers or promotions that might be of interest to Fox Digital users. However, you will always have the opportunity to instruct us not to share your information with third parties when PII is collected. 
 
 Fox Digital employees, agents and contractors must have a legitimate business reason to obtain access to your PII. Fox Digital may share your PII with outside contractors or agents who help us manage our information activities (e.g., sweepstakes administration, order fulfillment, statistical analyses), but they may only use your PII to provide Fox Digital with a specific service and not for any other purpose. 
 
@@ -72,13 +64,9 @@ Fox Digital may also enter into agreements with outside companies that possess t
 
 There may be instances when Fox Digital may disclose PII without providing you with a choice in order to protect the legal rights of Fox Digital, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our Site; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Fox Digital sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, Fox Digital may transfer your PII to a third party as part of that transaction. 
 
-*     SECURITY: FOX DIGITAL PROTECTS THE SECURITY OF PII
+* Fox Digital uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Fox Digital uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. However, no security system is impenetrable. Fox Digital cannot warrant or guarantee the security of its servers, nor can it guarantee that information that you supply will not be intercepted while being transmitted to Fox Digital over the Internet.
 
-Fox Digital uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Fox Digital uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. However, no security system is impenetrable. Fox Digital cannot warrant or guarantee the security of its servers, nor can it guarantee that information that you supply will not be intercepted while being transmitted to Fox Digital over the Internet.
-
-*      **ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII**
-
-Whenever possible, Members and Subscribers may review the PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member or Subscriber informs us of in writing is incorrect. If you are a Member, you can view and change your Member preferences and Your Profile information by logging into your account and accessing "Edit Profile." Subscribers can unsubscribe to the American Idol newsletter in accordance with the procedure set forth above under "Collection: Collection of PII by Fox Digital – Newsletters".
+* Whenever possible, Members and Subscribers may review the PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member or Subscriber informs us of in writing is incorrect. If you are a Member, you can view and change your Member preferences and Your Profile information by logging into your account and accessing "Edit Profile." Subscribers can unsubscribe to the American Idol newsletter in accordance with the procedure set forth above under "Collection: Collection of PII by Fox Digital – Newsletters".
 
 If for any reason you want Fox Digital to stop using your PII, Fox Digital will honor that request; however, Fox Digital will retain any record of your PII that is necessary to comply with applicable federal, state or local law. Keep in mind, moreover, that there will be residual information that will remain within Fox Digital's databases, access logs, and other records, which may or may not contain such PII. Even after removal of PII and User Content by you or Fox Digital, PII and User Content may still be viewable in cached and archived pages or if another User has stored your User Content.
 
@@ -95,9 +83,7 @@ Attn: Legal Affairs
 P.O. Box 900  
 Beverly Hills, CA 90213
 
-*      **REMEDIES AND COMPLIANCE: HOW TO CONTACT FOX DIGITAL ABOUT PRIVACY CONCERNS**
-
-If you have concerns regarding privacy, your use of our Site, or the collection and use of PII, you may contact the following Fox Digital representative:
+* If you have concerns regarding privacy, your use of our Site, or the collection and use of PII, you may contact the following Fox Digital representative:
 
 Fox Digital Media  
 Attn: Privacy Officer, americanidol.com  
