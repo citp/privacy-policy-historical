@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lssproducts.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621022142id_/http%3A//www.lssproducts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lssproducts.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629232903id_/http%3A//www.lssproducts.com/privacy) for the most accurate reproduction.*
 
 # Low Vision Aids | Hard of Hearing | Magnifiers | Assistive Technology - LS&S Products
 
@@ -31,8 +31,8 @@ CONTACT US:
 LS&S welcomes your comments regarding this privacy statement. Please contact us by e-mail or postal mail. 
 
 LS&S, LLC  
-1808 Janke Dr. Ste G  
-Northbrook IL 60062  
+145 River Rock Drive  
+Buffalo, NY 14207  
 (800) 468-4789  
 (716) 348-3500
 
