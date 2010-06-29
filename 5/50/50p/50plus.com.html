@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 50plus.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228085643id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 50plus.com privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630013051id_/http%3A//www.50plus.com/AboutUs/About50Plus/index.cfm%3FdocumentID%3D8773) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -14,7 +14,9 @@
 <meta content="index, follow" name="robots">
 <link href="http://www.50plus.com/4-STYLES/50plusStyle1.css" rel="stylesheet" type="text/css">
 <link href="http://www.50plus.com/4-STYLES/50plusStyle2.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://www.50plus.com/6-includes/section-tabs.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.50plus.com/6-includes/section-tabs.js"></script>
+<script type="text/javascript" src="http://media.zoomermedia.tv/js/jquery.js"></script>
+
 <script type="text/javascript">	
 	onload=function() {
 		var l_pos=getAbsTop(document.getElementById('l_btm_pos'));
@@ -26,6 +28,71 @@
 
 		document.getElementById('doc_pg').style.height=hgt+"px";
 	}
+	
+	/* Modified by John on 2010-03-16 */
+
+	function move_box(an, box) {
+	  var cleft = 0;
+	  var ctop = 0;
+	  var obj = an;
+	  while (obj.offsetParent) {
+	    cleft += obj.offsetLeft;
+	    ctop += obj.offsetTop;
+	    obj = obj.offsetParent;
+	  }
+	  box.style.left = cleft + 'px';
+	  ctop += an.offsetHeight + 8;
+	  if (document.body.currentStyle &&
+	    document.body.currentStyle['marginTop']) {
+	    ctop += parseInt(
+	      document.body.currentStyle['marginTop']);
+	  }
+	  box.style.top = ctop + 'px';
+	}
+
+	function time_box() {
+		var t = setTimeout("hide_box()",3000);
+	}
+
+	function hide_box() {
+		var x = document.getElementById('tylenol-box-ad');
+		x.parentNode.removeChild(x.parentNode.lastChild);
+	}
+
+	function show_hide_box(an, width, height, borderStyle) {
+	  var href = an.href;
+	  var boxdiv = document.getElementById(href);
+
+	  if (boxdiv != null) {
+	    if (boxdiv.style.display=='none') {
+	      move_box(an, boxdiv);
+	      boxdiv.style.display='block';
+	    } else
+	      boxdiv.style.display='none';
+	    return false;
+	  }
+
+	  boxdiv = document.createElement('div');
+	  boxdiv.setAttribute('id', 'tylenol-box-ad');
+	  boxdiv.style.display = 'block';
+	  boxdiv.style.position = 'absolute';
+	  boxdiv.style.width = width + 'px';
+	  boxdiv.style.height = height + 'px';
+	  boxdiv.style.border = borderStyle;
+	  boxdiv.style.backgroundColor = '#fff';
+
+	  var contents = document.createElement('iframe');
+	  contents.scrolling = 'no';
+	  contents.frameBorder = '0';
+	  contents.style.width = width + 'px';
+	  contents.style.height = height + 'px';
+	  contents.src = 'http://www1.50plus.com/tylenol/advertisement.html';
+
+	  boxdiv.appendChild(contents);
+	  document.body.appendChild(boxdiv);
+	  move_box(an, boxdiv);
+
+	  return false;
 </script>
 
 <meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
@@ -41,8 +108,10 @@
 		
 		OAS_rn = '001234567890';OAS_rns = '1234567890';OAS_rn = new String (Math.random());OAS_rns = OAS_rn.substring (2, 11);
 		function OAS_AD(pos) {
-			document.write('<SCR' + 'IPT type=text/javascript SRC="http://oascentral.'+OAS_site+'/RealMedia/ads/adstream_jx.ads/' + OAS_site + '/' + OAS_page + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '"><\/SCRIPT>');//-->
-		}
+        var s="http://media.zoomermedia.tv/adpush/?page_name="+OAS_page+"&site=50plus.com&pos="+pos;
+        document.write("<scrip"+"t type='text/javascript' src='"+s+"'></scrip"+"t>");
+
+}
 		//-->
 		</script>
 		
@@ -67,16 +136,29 @@
 	//var wpg='http%3A//wwwnew.50plus.com';
 </script>
 
-<script type="text/javascript">
-OAS_AD('Position1');
-</script><script type="text/javascript" src="http://oascentral.50Plus.com/RealMedia/ads/adstream_jx.ads/50Plus.com//1946577098@Position1,Top,Middle,Middle2,Right2,Right1,Right!Position1?"></script></head>
+	<script type="text/javascript">
 
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-621494-1']);
+	  _gaq.push(['_setDomainName', '.50plus.com']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</head>
 
 
 <body>
 <div style="width:100%; background-color:#c8c8c8" align="center">
 <div id="doc_pg" class="document-page" align="center">
-	<script type="text/javascript">
+	<div style="position: absolute; z-index: 10000; width: 92px; height: 50px; margin-left: 78px; margin-top: 240px; display: none;" id="healthAd"><script type="text/javascript">OAS_AD('92x50');</script><script type="text/javascript" src="http://media.zoomermedia.tv/adpush/?page_name=&amp;site=50plus.com&amp;pos=92x50"></script></div>
+
+<script type="text/javascript">
 <!--
 function MM_openBrWindow(theURL,winName,features) { //v2.0
   newwindow=window.open(theURL,winName,features);
@@ -101,8 +183,7 @@ div.zoomer-am-bar{cursor:pointer; cursor:hand; position:relative; top:-5px; heig
 					<option value="http://www.classical963fm.com">Classical963fm.com</option>
 					<option value="http://www.zoomermag.com">ZoomerMag.com</option>
 					<option value="http://www.carp.ca">CARP.ca</option>
-					<option value="http://www.50Plus.com">50Plus.com</option>
-					<option value="http://50plus.lavalifeprime.com/50plus/welcome.act">50plus.Lavalifeprime.com</option>	
+					<option value="http://www.50Plus.com">50Plus.com</option>	
 					<option value="http://www.Zoomers.ca/">Zoomers.ca</option>	
 					<option value="http://www.ZoomerShow.com">ZoomerShow.com</option>
 					<option value="http://www.mzmedia.com">MZmedia.com</option>
@@ -110,9 +191,8 @@ div.zoomer-am-bar{cursor:pointer; cursor:hand; position:relative; top:-5px; heig
 					<option value="http://Mosesznaimer.com/">MosesZnaimer.com</option>
                     <option value="http://www.zoomercard.ca/">ZoomerCard.ca</option>
 					<option value="http://www.Ideacityonline.com">IdeaCityOnline.com</option>
-					<option value="http://www.goldhawk.com/">Goldhawk.com</option>	
-					<option value="http://www.seniors.ca">Seniors.ca</option>
-					<option value="http://Uofz.ca/">UofZ.ca</option>
+					<option value="http://www.goldhawk.com/">Goldhawk.com</option>
+					<option value="http://www.zoomersingles.com">ZoomerSingles.com</option>	
 				</select>
 				</div>			
 			</td>
@@ -126,6 +206,7 @@ div.zoomer-am-bar{cursor:pointer; cursor:hand; position:relative; top:-5px; heig
 		</tr>
 	</tbody></table>
 </div> 
+
 <div style="width:100%; height:28px" align="right"><div style="padding:2px 37px 3px 0"> 
 
 <style type="text/css">
@@ -138,7 +219,7 @@ div.zoomer-am-bar{cursor:pointer; cursor:hand; position:relative; top:-5px; heig
 </style>
 
 	<font class="right-menu-link1"><a href="https://secure.50plus.com/forms/50plus/join_50plus.cfm" class="right-menu-link1"><strong>FREE E-NEWSLETTERS!</strong></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://secure.50plus.com/forms/50plus/join_50plus.cfm" class="right-menu-link1">SIGN UP</a></font>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://50plus.com/Login/disable-login-bar.cfm" class="right-menu-link1">SIGN-IN</a>   
-&nbsp;&nbsp;&nbsp;&nbsp;<font class="right-menu-link1">Monday, December 28, 2009</font> </div></div>
+&nbsp;&nbsp;&nbsp;&nbsp;<font class="right-menu-link1">Tuesday, June 29, 2010</font> </div></div>
 <div class="general-head">
 	<div style="width:100%; height:100px; border:0; ">
 		<div style="width:262px; height:80px; position:relative; float:left;" align="left"></div>
@@ -150,7 +231,7 @@ div.zoomer-am-bar{cursor:pointer; cursor:hand; position:relative; top:-5px; heig
 <!--
 OAS_AD('Top');
 //-->
-</script><script type="text/javascript" src="http://oascentral.50Plus.com/RealMedia/ads/adstream_jx.ads/50Plus.com//1946577098@Position1,Top,Middle,Middle2,Right2,Right1,Right!Top?"></script>
+</script><script type="text/javascript" src="http://media.zoomermedia.tv/adpush/?page_name=&amp;site=50plus.com&amp;pos=Top"></script>
 
 				</div>				
 					
@@ -160,7 +241,7 @@ OAS_AD('Top');
 	<div style="width:100%; border:0; padding:5px 0 0 0; overflow:hidden" align="center">
 		<div style="width:975px; color:#FFFFFF; overflow:hidden;" align="left">
 		<a href="http://www.50plus.com/Entertainment/" class="head-section-topic">+ENTERTAINMENT</a>&nbsp;		
-		<a href="http://www.50plus.com/health/fitness/index.cfm" class="head-section-topic">+FITNESS</a>&nbsp;
+		<a href="http://www.50plus.com/Health/fitness/" class="head-section-topic">+FITNESS</a>&nbsp;
 		<a href="http://www.50plus.com/Contests/" class="head-section-topic">+CONTESTS</a>&nbsp;
 		<a href="http://www.50plus.com/events/" class="head-section-topic">+EVENTS</a>&nbsp;			
 		<a href="http://www.50plus.com/RetirementLiving/" class="head-section-topic">+RETIREMENT LIVING</a>&nbsp;	
@@ -182,7 +263,7 @@ OAS_AD('Top');
 				</div>
 				<div class="tab-health-inact" align="left">
 					
-						<a href="http://www.50plus.com/health/index.cfm"><img src="http://www.50plus.com/1-IMG/Health_static.png" alt="home" title="health" border="0" vspace="0" hspace="0"></a>
+						<a id="healthTab" href="http://www.50plus.com/health/index.cfm" onmouseover="return show_hide_box(this,92,50,'0px')" onmouseout="time_box()"><img src="http://www.50plus.com/1-IMG/Health_static.png" alt="home" title="health" border="0" vspace="0" hspace="0"></a>
 					
 				</div>
 				<div class="tab-life-inact">
@@ -241,6 +322,9 @@ OAS_AD('Top');
             </div>
 		
 	<div class="relatelinkitem"><a href="http://www.zoomers.ca/" class="relalink">Zoomers.ca</a></div>
+	
+		<div class="relatelinkitem"><a href="http://www.zoomersingles.com" class="relalink">ZoomerSingles.com</a></div>
+	
     <div class="relatelinkitem"><a href="https://secure.50plus.com/forms/50plus/join_50plus.cfm" class="relalink">Subscribe</a></div>
     <div class="relatelinkitem"><a href="https://secure.indas.on.ca/care/mbr/index.php?__utma=1.334891328.1254506611.1254506611.1254506611.1&amp;__utmb=1.0.10.1254506611&amp;__utmc=1&amp;__utmx=-&amp;__utmz=-&amp;__utmv=-&amp;__utmk=256007179" class="relalink">Join CARP</a></div>
     <div class="relatelinkitem"><a href="http://www.zoomercard.ca/" class="relalink">Zoomer Rewards Card</a></div>
@@ -258,7 +342,7 @@ OAS_AD('Top');
 <!--
 OAS_AD('Right');
 //-->
-</script><script type="text/javascript" src="http://oascentral.50Plus.com/RealMedia/ads/adstream_jx.ads/50Plus.com//1946577098@Position1,Top,Middle,Middle2,Right2,Right1,Right!Right?"></script>
+</script><script type="text/javascript" src="http://media.zoomermedia.tv/adpush/?page_name=&amp;site=50plus.com&amp;pos=Right"></script>
  
 <br> 
 
@@ -288,7 +372,7 @@ OAS_AD('Right');
 	
 
 
-		<font class="article_text_body"></font></p><p><font class="article_text_body"><em>50plus.com has created this privacy statement in order to                     demonstrate our firm commitment to the privacy of our visitors                     and members. </em>                    </font></p><p><font class="article_text_body"><b>What personal information does 50plus.com collect and                     why?</b> <br><b>Community</b> <br>When you join our online                     community, we ask for basic contact                     information (like your name and e-mail address) and                     demographic information (like your age, province and                     postal code). We use your e-mail address to contact you                     when necessary. Demographic and profile data is also collected                     at our site. We share demographic and profile information with                     advertisers on an aggregate basis (ie. 25% of our visitors are                     from Alberta and have visited 100 times in the last month). We                     do not share personal information with other members or any                     other third parties without your written permission. You can                     cancel your membership by e-mailing <a href="mailto:support@50plus.com?subject=cancel BF membership">support@50plus.com</a>                     </font></p><p><font class="article_text_body"><b>Order forms</b> <br>Our site uses order forms for you to                     request products and services (ie. CARP memberships). We                     collect your contact information (like your e-mail address)                     and financial information (like your credit card number) in                     order to process your order.                     </font></p><p><font class="article_text_body"><b>Surveys</b> <br>Our online surveys ask you for                     demographic information (like your age, sex, province or                     income level). This information is shared with advertisers on                     an aggregate basis.                     </font></p><p><font class="article_text_body"><b>Contests</b> <br>We run <b>contests</b> on our site in                     partnership with other companies. Please see each contest's                     privacy statement.                     </font></p><p><font class="article_text_body"><b>A note about our public forums</b> <br>This site makes                     net friends, greeting cards and discussion forums available to                     its users. Please remember that any information that is                     disclosed in these areas becomes publicly readable information                     and you should exercise caution when  </font></p><p>
+		<font class="article_text_body"></font></p><p><font class="article_text_body"><em>50plus.com has created this privacy statement in order to                     demonstrate our firm commitment to the privacy of our visitors                     and members. </em>                    </font></p><p><font class="article_text_body"><b>What personal information does 50plus.com collect and                     why?</b> <br><b>Community</b> <br>When you join our online                     community, we ask for basic contact                     information (like your name and e-mail address) and                     demographic information (like your age, province and                     postal code). We use your e-mail address to contact you                     when necessary. Demographic and profile data is also collected                     at our site. We share demographic and profile information with                     advertisers on an aggregate basis (ie. 25% of our visitors are                     from Alberta and have visited 100 times in the last month). We                     do not share personal information with other members or any                     other third parties without your written permission. You can                     cancel your membership by e-mailing <a href="mailto:support@50plus.com?subject=cancel BF membership">support@50plus.com</a>                     </font></p><p><font class="article_text_body"><b>Order forms</b> <br>Our site uses order forms for you to                     request products and services (ie. CARP memberships). We                     collect your contact information (like your e-mail address)                     and financial information (like your credit card number) in                     order to process your order.                     </font></p><p><font class="article_text_body"><b>Surveys</b> <br>Our online surveys ask you for                     demographic information (like your age, sex, province or                     income level). This information is shared with advertisers on                     an aggregate basis. Again - no individual information is <u>ever</u> released.                   </font></p><p><font class="article_text_body"><b>Contests</b> <br>We run <b>contests</b> on our site in                     partnership with other companies. Please see each contest's                     privacy statement.                      </font></p><p><font class="article_text_body"><b>Our E-mail lists</b> <br>This site makes e-mail list sign-up                     available to its users. We do <b>not</b> subscribe people to                     these lists without their consent or sell the e-mail addresses                     gathered on these lists. We strongly believe that y </font></p><p>
 
 		
 			</p><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center">
@@ -302,10 +386,6 @@ OAS_AD('Right');
 						<a href="http://50plus.com/display.cfm?t_offset=3&amp;libraryID=109&amp;cabinetID=319&amp;documentID=8773" class="doc_body_page"> 
 					 			
 					<u>3</u></a>
-				
-						<a href="http://50plus.com/display.cfm?t_offset=4&amp;libraryID=109&amp;cabinetID=319&amp;documentID=8773" class="doc_body_page"> 
-					 			
-					<u>4</u></a>
 				
 					<a href="http://50plus.com/display.cfm?t_offset=2&amp;libraryID=109&amp;cabinetID=319&amp;documentID=8773" class="doc_body_page">
 				 		
@@ -483,6 +563,8 @@ div.right-menu-popular-content-bgk {width:300px; overflow:hidden; margin:0; bord
     </form> 
 
 
+
+
 		<div class="tools-section-line" style="padding:0px 0 3px 0"><b class="right-menu-tools-line"></b></div>
         <div><a href="https://secure.50plus.com/forms/50plus/join_50plus_offers.cfm"><img src="http://www.50plus.com/1-img/offers_saving_bttn_45px.png" alt="offers_saving" title="offers_saving" border="0" style="padding-right:5px "></a></div>         
         <div style="padding:2px 0 0 0"><a href="http://www.50plus.com/employment/careerbuilder/"><img src="http://www.50plus.com/1-img/CareerBuilder_button_280x40px.png" alt="CareerBuilder" title="CareerBuilder" border="0" style="padding-right:5px "></a></div>        
@@ -494,16 +576,22 @@ div.right-menu-popular-content-bgk {width:300px; overflow:hidden; margin:0; bord
 
 	<div class="tools-section-line" style="padding-top:4px;"><b class="right-menu-tools-line" style="width:280px;"></b></div>
 	
+
+
     <div align="center" style="padding:15px 0 10px 0;">
 		<a href="http://www.zoomermedia.ca/contact.htm">CLICK HERE TO ADVERTISE WITH 50PLUS.COM</a>
 	</div>
-    
-	
+
 <script type="text/javascript">
 <!--
 OAS_AD('Middle');
 //-->
-</script><script type="text/javascript" src="http://oascentral.50Plus.com/RealMedia/ads/adstream_jx.ads/50Plus.com//1946577098@Position1,Top,Middle,Middle2,Right2,Right1,Right!Middle?"></script>
+</script><script type="text/javascript" src="http://media.zoomermedia.tv/adpush/?page_name=&amp;site=50plus.com&amp;pos=Middle"></script>
+
+
+
+
+
 
 
     <div class="tools-section-line" style="padding-top:4px;"><b class="right-menu-tools-line"></b></div>
@@ -517,7 +605,7 @@ OAS_AD('Middle');
 <!--
 OAS_AD('Right2');
 //-->
-</script><script type="text/javascript" src="http://oascentral.50Plus.com/RealMedia/ads/adstream_jx.ads/50Plus.com//1946577098@Position1,Top,Middle,Middle2,Right2,Right1,Right!Right2?"></script>
+</script><script type="text/javascript" src="http://media.zoomermedia.tv/adpush/?page_name=&amp;site=50plus.com&amp;pos=Right2"></script>
 </div>
 	
     <div align="left" style=" width:300px ">
@@ -525,7 +613,7 @@ OAS_AD('Right2');
 <!--
 OAS_AD('Right1');
 //-->
-</script><script type="text/javascript" src="http://oascentral.50Plus.com/RealMedia/ads/adstream_jx.ads/50Plus.com//1946577098@Position1,Top,Middle,Middle2,Right2,Right1,Right!Right1?"></script>
+</script><script type="text/javascript" src="http://media.zoomermedia.tv/adpush/?page_name=&amp;site=50plus.com&amp;pos=Right1"></script>
 </div>
     
     <div class="tools-section-line" style="padding-top:4px;"><b class="right-menu-tools-line"></b></div>
@@ -536,7 +624,7 @@ OAS_AD('Right1');
 <!--
 OAS_AD('Middle2');
 //-->
-</script><script type="text/javascript" src="http://oascentral.50Plus.com/RealMedia/ads/adstream_jx.ads/50Plus.com//1946577098@Position1,Top,Middle,Middle2,Right2,Right1,Right!Middle2?"></script>
+</script><script type="text/javascript" src="http://media.zoomermedia.tv/adpush/?page_name=&amp;site=50plus.com&amp;pos=Middle2"></script>
 </div>
     <div style="width:300px; height:15px; overflow:hidden ">&nbsp;</div>	
     <div class="tools-section-line" style="padding-top:4px;"><b class="right-menu-tools-line"></b></div>
@@ -585,23 +673,23 @@ OAS_AD('Middle2');
 	<div id="pop_cont" class="popular-content" align="center">
 		<div id="pop1" align="left" class="popular-art"> 				
 	
-	<a href="http://50plus.com/health/BrowseAllArticles/index.cfm?documentID=22534"><u><strong>Can food fight inflammation?</strong></u></a>
+	<a href="http://50plus.com/health/BrowseAllArticles/index.cfm?documentID=18079"><u><strong>Physiotherapy: What to expect</strong></u></a>
 <br>
 				
 	
-	<a href="http://50plus.com/lifestyle/BrowseAllArticles/index.cfm?documentID=22999"><u><strong>Zoomer newsmakers of 2009</strong></u></a>
+	<a href="http://50plus.com/lifestyle/BrowseAllArticles/index.cfm?documentID=23566"><u><strong>The Zoomer Report</strong></u></a>
 <br>
 				
 	
-	<a href="http://50plus.com/money/BrowseAllArticles/index.cfm?documentID=20632"><u><strong>Online budgeting tools</strong></u></a>
+	<a href="http://50plus.com/money/BrowseAllArticles/index.cfm?documentID=23577"><u><strong>The score when it comes to credit</strong></u></a>
 <br>
 				
 	
-	<a href="http://50plus.com/Travel/BrowseAllArticles/index.cfm?documentID=13852"><u><strong>Sun, sea and - surgery?</strong></u></a>
+	<a href="http://50plus.com/Travel/BrowseAllArticles/index.cfm?documentID=23574"><u><strong>Beauty to go: Tips for your trips</strong></u></a>
 <br>
 				
 	
-	<a href="http://50plus.com/relationships/BrowseAllArticles/index.cfm?documentID=21131"><u><strong>State of Independence</strong></u></a>
+	<a href="http://50plus.com/relationships/BrowseAllArticles/index.cfm?documentID=22199"><u><strong>Bring more laughter into your life</strong></u></a>
 </div>
 		<div id="pop2" style="display:none "> 
 
@@ -620,22 +708,22 @@ OAS_AD('Middle2');
 	 <tr> 
       <td class="row2" align="left"><p><a href="http://discuss.50plus.com/ipb/index.php?s=90ce9392da493237ac3ebe9307360f21&amp;showforum=52" target="_blank"><strong><u>Humour</u></strong></a> <br>
           <span class="forumdesc"><img src="http://50plus.com/1-IMG/favicon.gif" hspace="5" vspace="5" align="left">Laughter is the best medicine. Read and post jokes and funny stories here. <br>
-          <font size="1"><strong>Topics:</strong> 1014 <strong>Replies:</strong> 
-          10536</font></span></p></td>
+          <font size="1"><strong>Topics:</strong> 1061 <strong>Replies:</strong> 
+          10923</font></span></p></td>
     </tr>
 	
 	 <tr> 
       <td class="row2" align="left"><p><a href="http://discuss.50plus.com/ipb/index.php?s=90ce9392da493237ac3ebe9307360f21&amp;showforum=59" target="_blank"><strong><u>Thinking of You</u></strong></a> <br>
           <span class="forumdesc"><img src="http://50plus.com/1-IMG/favicon.gif" hspace="5" vspace="5" align="left">A forum for words of support and encouragement! <br>
-          <font size="1"><strong>Topics:</strong> 375 <strong>Replies:</strong> 
-          2647</font></span></p></td>
+          <font size="1"><strong>Topics:</strong> 385 <strong>Replies:</strong> 
+          2877</font></span></p></td>
     </tr>
 	
 	 <tr> 
       <td class="row2" align="left"><p><a href="http://discuss.50plus.com/ipb/index.php?s=90ce9392da493237ac3ebe9307360f21&amp;showforum=23" target="_blank"><strong><u>Writing</u></strong></a> <br>
           <span class="forumdesc"><img src="http://50plus.com/1-IMG/favicon.gif" hspace="5" vspace="5" align="left">For budding writers to post their poetry and prose for others to enjoy tolearn. Writing tips, critiques and advice given on request. Please do not post from published works but only your own work. <br>
-          <font size="1"><strong>Topics:</strong> 674 <strong>Replies:</strong> 
-          3458</font></span></p></td>
+          <font size="1"><strong>Topics:</strong> 692 <strong>Replies:</strong> 
+          3879</font></span></p></td>
     </tr>
 	
   </tbody>
@@ -696,21 +784,25 @@ OAS_AD('Middle2');
 	<a href="http://www.50plus.com/AboutUs/About50Plus/index.cfm?documentID=8773" class="f-about">PRIVACY POLICY</a> | 
 	<a href="http://www.50plus.com/AboutUs/About50Plus/index.cfm?documentID=8774" class="f-about">LEGAL DISCLAIMER</a>
 	</div>
-    <div class="footer-about-rights-reser" align="right">Copyright © 2009 All Rights Reserved - ZoomerMedia Limited</div>
+    <div class="footer-about-rights-reser" align="right">Copyright © 2010 All Rights Reserved - ZoomerMedia Limited</div>
 </div>
 
 </div>
 </div>
 </div>
 </div>
+
+<!-- Start Quantcast tag -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-621494-1");
-pageTracker._trackPageview();
+_qoptions={
+qacct:"p-68QBDK7MfbGwA"
+};
 </script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-68QBDK7MfbGwA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
 
 
 
@@ -728,7 +820,8 @@ pageTracker._trackPageview();
 	document.write("<img id='img1' height='1' width='1'>");
 	document.getElementById("img1").src="http://beacon.securestudies.com/scripts/beacon.dll?C1=2&C2=3005662&C3=3005662&C4=ustrg&C5=cont&C6=cont2&C7=" 
 		+ escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999);
-</script><img id="img1" height="1" width="1" src="http://beacon.securestudies.com/scripts/beacon.dll?C1=2&amp;C2=3005662&amp;C3=3005662&amp;C4=ustrg&amp;C5=cont&amp;C6=cont2&amp;C7=https%3A//web.archive.org/web/20091228085643id_/http%253A//www.50plus.com/AboutUs/About50Plus/index.cfm%253FdocumentID%253D8773&amp;C8=50Plus.com%20Privacy%20Policy&amp;C9=&amp;rn=50378951">
+</script><img id="img1" height="1" width="1" src="http://beacon.securestudies.com/scripts/beacon.dll?C1=2&amp;C2=3005662&amp;C3=3005662&amp;C4=ustrg&amp;C5=cont&amp;C6=cont2&amp;C7=https%3A//web.archive.org/web/20100630013051id_/http%253A//www.50plus.com/AboutUs/About50Plus/index.cfm%253FdocumentID%253D8773&amp;C8=50Plus.com%20Privacy%20Policy&amp;C9=&amp;rn=37678000">
 
 
- </body></html>
+
+</body></html>
