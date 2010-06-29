@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430213320id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantknowledge.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629035756id_/http%3A//www.relevantknowledge.com/RKPrivacy.aspx) for the most accurate reproduction.*
 
 # RelevantKnowledge
 
@@ -40,7 +40,7 @@ When you sign up for this program, we may obtain your contact information and so
 
  _Survey response information:_
 
-Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household.
+Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. The survey opportunities that we provide to you may be related to other information that that we collect. For example, we may provide you with a survey asking you about the quality of your user experience at a particular website.
 
  _Computer hardware, software, and other configuration information:_
 
@@ -48,9 +48,11 @@ Our application may collect general hardware, software, computer configuration a
 
  _Internet usage information:_
 
-Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information. 
+Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. Our application may also collect information regarding the cookies that exist on your computer. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information. 
 
 Our application will review the content of all web pages to determine the language being used in the web site, and the application may review select e-mail header information from web-based e-mails as a way to verify your contact information and your online usage information.
+
+In addition to information collected through our application, we may also collect data about your Internet use from third-parties, including search engines, email providers, social networks and other application service providers whose Internet sites you visit.
 
 How is the information collected? 
 
@@ -61,7 +63,9 @@ This application monitors your Internet usage by transmitting to our servers inf
 
 Consequently, the software may communicate with our servers while you are connected to but not browsing the Internet. Such communications could include the transmission of collected data as outlined in this privacy policy, or it could include incoming instructions for our software. For example, our servers need to tell our software about survey opportunities, so that we can provide you with invitations where you can take a survey in exchange for sweepstake entries, cash, or other prizes. 
 
-In addition, we may ask for information about you using surveys, for which participation is completely voluntary. We may also combine the information that you provide us with information obtained from other sources (such as consumer preference reporting companies, credit reporting agencies and companies that collect TV viewing information) using confidential matching procedures. In these cases, we will: (i) provide a data match processor with only the personal information necessary to perform a match and, infrequently, to assist us performing statistical analyses; (ii) establish procedures and legal obligations that prohibit use of the information received for any other purpose or disclosure of this information to anyone else; and (iii) require destruction of the received information after completion of the match and analysis. The information that we obtain from other sources will not include confidential personally identifiable information such as credit card numbers and account numbers. You further agree that we may use third party service providers to obtain your TV viewing and mobile usage information and that we may integrate such data with the data that you provide us as part of this research community, provided that the acquisition and processing of such information adheres to the privacy principles included in this privacy policy and user license agreement.
+In addition, we may ask for information about you using surveys, for which participation is completely voluntary. We may also combine the information that you provide us with information obtained from other sources (such as consumer preference reporting companies, credit reporting agencies and companies that collect TV viewing information) using confidential matching procedures. In these cases, we will: (i) provide a data match processor with only the personal information necessary to perform a match and, infrequently, to assist us performing statistical analyses; (ii) establish procedures and legal obligations that prohibit use of the information received for any other purpose or disclosure of this information to anyone else; and (iii) require destruction of the received information after completion of the match and analysis. The information that we obtain from other sources will not include confidential personally identifiable information such as credit card numbers and account numbers. You also agree that we may use the information we have collected from you to identify your use of search engines, email providers, social networks and other application service providers whose Internet sites you visit. Your agreement to this policy shall serve as your consent to allow us to request data about your online activities (but not the contents of your email communications) from these third-parties and to combine that information with the information that you provide us directly or through the software.
+
+You further agree that we may use third party service providers to obtain other on-line data, TV viewing, or mobile usage information and that we may integrate such data with the data that you provide us as part of this research community, provided that the acquisition and processing of such information adheres to the privacy principles included in this privacy policy and user license agreement.
 
 The software will collect information on the types of applications you use and general statistics on how you use them. So, for instance, you may open a word processor, and our software would collect information on how the type of word processing software that you are using, and how long the word processor was open, but it would not have any knowledge of what was typed in the word processor.
 
@@ -166,6 +170,7 @@ As a participant, you agree not to:
 
   * Use this program in any way that: (i) harms or harasses others; (ii) violates any federal, state or local laws or ordinances; (iii) violates or infringes on the rights of any third parties including, but not limited to, copyright, trademark, patent, trade secret, rights of privacy or publicity or other proprietary right; or (iv) interferes with or disrupts this program;
   * Attempt to reverse engineer, decompile, or disassemble the program; and
+  * Sign up for more than one account; and 
   * Attempt to defeat or circumvent our application, it being your responsibility to remove this application as instructed in this agreement or expressly by an authorized service representative.
 
   
@@ -196,6 +201,8 @@ Notwithstanding the above, we may apply to any court of competent jurisdiction f
 THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE COMMONWEALTH OF VIRGINIA, WITHOUT REGARD TO CONFLICTS OF LAWS PROVISIONS AND SUCH LAW SHALL BE APPLIED BY THE ARBITRATOR TO THE MERITS OF ANY DISPUTE OR CLAIM. FOR ANY NON-ARBITRAL ACTION OR PROCEEDING ARISING OUT OF OR RELATED TO THIS PROGRAM OR THIS AGREEMENT, SOLE AND EXCLUSIVE JURISDICTION SHALL RESIDE WITH THE APPROPRIATE STATE COURT LOCATED IN FAIRFAX COUNTY, VIRGINIA OR FEDERAL COURT LOCATED IN ALEXANDRIA, VIRGINIA.
 
 While this program is available on the Internet to international users, the program is and remains a U.S. offering and all use of the information collected is and shall remain subject to U.S. law and practice. International users must take this into account and should consult their local laws and independently determine whether participation is desired given these facts.
+
+Fraud: Any attempt by a participant to undermine the legitimate operation of the panel is a violation of criminal and civil laws and should such an attempt be made, TMRG, Inc. reserves the right to seek damages from any such respondent to the fullest extent permitted by law. Multiple accounts are not permitted; participants are limited to signing up for a maximum of one account.
 
 _Third Party Rights:_
 
@@ -231,7 +238,7 @@ _ENTIRE AGREEMENT:_
 
 This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.
 
-This Agreement is effective as of March 4, 2009.
+This Agreement is effective as of May 7, 2010.
 
 Whom can I contact if I have additional questions? 
 
@@ -248,4 +255,4 @@ Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 0910
+LP 1018
