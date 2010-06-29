@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouinsider.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227044605id_/http%3A//www.ouinsider.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouinsider.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629021249id_/http%3A//www.ouinsider.com/privacypolicy) for the most accurate reproduction.*
 
 # OUInsider.com - The Source for Sooner Sports
 
@@ -22,27 +22,43 @@ This Privacy Policy may be modified from time to time; the date of the most rece
 
 ## INFORMATION COLLECTION AND USE
 
-OUInsider does not collect personal information without your specific knowledge and consent.   
+OUInsider _does not_ collect personal information without your specific knowledge and consent.   
 
 
-For instance, when you register for any portion of OUInsider's services, make a purchase, subscribe to our affiliated publication(s), enter a sweepstakes or contest, or complete a survey, you are asked to provide, among other things, information like your e-Mail address, name, telephone number, fax number, credit card information, and information about interest in our services, products, and programs. Optional demographic information may also be requested. The more information you provide, the better we are able to customize our services to suit your needs and preferences.
-
-OUInsider uses the information you supply to provide you with the services that you request. For example, if you subscribe to any of our affiliated publications, we may use your e-Mail address to send you the publication. Similarly, if you enter one of our contests or sweepstakes, we will use the information provided to notify you if you win. We may also use the information supplied to communicate with you about new features, products or services, and/or to improve the services that we offer to you.
-
- **'COOKIES'**  
+For instance, when you register for any portion of OUInsider's services, make a purchase, subscribe to our affiliated publication(s), enter a sweepstakes or contest, or complete a survey, you may be asked to provide, among other things, information like your e-Mail address, name, telephone number and credit card information.   
 
 
-In addition, when you use OUInsiders' website and/or service(s), we may also automatically collect information, ( _'Cookies'_ ), about you or your computer, including without limitation, the internet address that you just came from, the internet address that you go to next, the internet address that referred you, the type of browser software you are using, the domain name of your Internet Service provider, and your Internet Protocol address. This information is collected and used in the aggregate for, among other things, measuring site performance and use.
+OUInsider uses the information you supply to provide you with the services that you request. For example, if you subscribe to any of our affiliated publications, we may use your e-Mail address to send you the publication. We may also use the information supplied to communicate with you about new features, products or services, and/or to improve the services that we offer to you.
 
- _'Cookies'_ on **OU Insider** simply help you get around the site faster, and are used to enable functions such as showing whether or not a thread or forum you are viewing has new posts since your last visit, or to _automatically log you back in_ when you return to the site after being away for a while. 
+## PERSONAL and FINANCIAL SECURITY
+
+OUInsider _does not_ collect personal information without your specific knowledge and consent. 
+
+When you register, or subscribe to our member services, you 
+
+may be asked to provide us with limited information, such as your e-Mail address, name and credit card information. 
+
+For our mutual protection we retain a minimum amount of this information (user name & e-mail) on this site and immediately forward your name, address and credit card information to a locked and secure site at Wells Fargo. 
+
+**We will never disseminate this information** or allow any employee at OUInsider to access your information without your permission, confirmed by personal correspondence with you or your spouse. This restriction applies to anyone requesting information on any of our users, including  businesses, organizations and government agencies. **
+
+'COOKIES'
+
+**  
+
+
+In addition, when you use OUInsiders' website and/or service(s), we may also automatically collect information, ( _Cookies'_ ), about you or your computer, including without limitation, the internet address that you just came from, the internet address that you go to next, the internet address that referred you, the type of browser software you are using, the domain name of your Internet Service provider, and your Internet Protocol address.   
+
+
+This information _('Cookies'_ on **OU Insider** ) simply helps you get around the site faster, and are used to enable functions such as showing whether or not a thread or forum you are viewing has new posts since your last visit, or to _automatically log you back in_ when you return to the site after being away for a while. 
 
 For example, when you Register, you will be given the option to '
 
  _Automatically login'_ when you return to the site. This will save your username and password in a _'cookie,'_ stored on your computer. If you do not check the 'Auto LogIn,' we clear them as you exit. 
 
-Unlike most sites, we 
+**Unlike most sites, we _do not_ collect cookies for 'permission based marketing' or give any personal information to anyone**. Our advertisers do not have any access to your information or 'cookies.' We will not sell any ad to any advertiser who requires that we share _cookies_ or tracking information.
 
-_do not_ collect cookies for 'permission based marketing' or give any personal information to anyone. Our advertisers do not have any access to your information or 'cookies.' We will not sell any ad to any advertiser who requires that we share _cookies_ or tracking information.  
+  
 
 
 ## RESTRICTIONS ON USE OF INFORMATION PROVIDED BY YOU
