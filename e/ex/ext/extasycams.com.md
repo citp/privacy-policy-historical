@@ -1,19 +1,13 @@
-> *The following text is extracted and transformed from the extasycams.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418181946id_/http%3A//extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26Submit%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extasycams.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629223218id_/http%3A//www.extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26Submit%3Dprivacy) for the most accurate reproduction.*
 
 # Live Adult Cams, cheap live girls chat webcam and cam2cam.
 
- 
+How ExtasyCams Protects Your Privacy  
+Summary:
 
-**PRIVACY POLICY**   
-How ExtasyCams Protects Your Privacy
-
-Summary: 
-
-  * We **NEVER** sell, rent or share your personal information or email address with any other party. 
-  * We may send you occasional promotional emails, and every email will contain an unsubscribe option. 
-  * Your personal information is **never** stored on ExtasyCams.com's server, so it cannot be stolen by hackers. 
-
-
+\- We **NEVER** sell, rent or share your personal information or email address with any other party.  
+\- We may send you occasional promotional emails, and every email will contain an unsubscribe option.  
+\- Your personal information is **never** stored on ExtasyCams.com's server, so it cannot be stolen by hackers. 
 
 Below are the complete details of our privacy policy: 
 
