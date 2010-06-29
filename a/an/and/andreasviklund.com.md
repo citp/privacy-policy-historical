@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andreasviklund.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228090448id_/http%3A//andreasviklund.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andreasviklund.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629220904id_/http%3A//andreasviklund.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy – andreasviklund.com
 
