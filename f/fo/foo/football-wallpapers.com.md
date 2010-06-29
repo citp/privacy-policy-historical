@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508165727id_/http%3A//www.football-wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629022209id_/http%3A//www.football-wallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Football Wallpapers, Videos, Myspace Layouts
-
-[ ](http://extremetracking.com/open?login=lbcfootw)
 
 Football-Wallpapers.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -24,21 +22,3 @@ This site contains links to other sites. Football-Wallpapers.com is not responsi
 
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.football-wallpapers.com/contact-us/).
-
-﻿
-
-Football-Wallpapers.com News
-
-All wallpapers containing FC Bayern München logo, The Premier League's clubs' logos and Premier League logo have been removed from the site. [Read more...](http://www.football-wallpapers.com/dmca-letter/)
-
-Advertisement
-
-Mobile Stuff
-
-Are you looking for quality and exclusive downloadable mobile (cell) phone stuff for most mobile (cell) phone models? Then you should visit Football-Wallpapers.com [Mobile Stuff](http://footwalls.ringtone-logo-game.com/0-000/uk_en/home/index.html "Mobile Stuff") site where you can find the largest database of:  
-**Music** : True Tones, Cover Tones, Polyphonic Ringtones, Monophonic Ringtones, Crazy Ringtones, Real Sounds, MP3  
-**Pictures** : Colour Wallpapers, Screensavers, My Own Pic, Motorola Packs, Nokia Packs, Sony-Ericsson Packs, Custom Color Logos, Avatar Logos, Animated, Themes, Clipart  
-**Java** : Java Games, Java Applications  
-**Videos** : Animals, Babes, Car/Moto, Events/Parties, Fun, Love, Movies, Music, Sexy, Space/Scenery, Sports, Tekno Dance, Toons
-
-[Mobile Stuff >>](http://footwalls.ringtone-logo-game.com/0-000/uk_en/home/index.html "Mobile Stuff")
