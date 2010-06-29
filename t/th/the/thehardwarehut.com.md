@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228235118id_/http%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehardwarehut.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629110541id_/http%3A//www.thehardwarehut.com/policy.php) for the most accurate reproduction.*
 
 # The Hardware Hut - Online and Privacy Policy
 
@@ -22,7 +22,7 @@ We also ask that you allow us to share your information in aggregate form for ou
 
 | 
 
-Mon  December 28, 2009 
+Tue  June 29, 2010 
 
 [](https://www.thehardwarehut.com/cart/cart.php) [](https://www.thehardwarehut.com/portfolio.php) [](https://web.archive.org/search-site.php) [](http://www.thehardwarehut.com/trade-login.php)
 
