@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231031537id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglobeandmail.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629144515id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
 
-# globeandmail.com - Privacy Policy
+# The Globe and Mail - Privacy Policy
 
 [](http://www.globeandmail.com/)
 
@@ -58,7 +58,7 @@ Subject to legal and contractual requirements, a Person can refuse to consent to
 
 ### _Internet Aspects:_
 
-Personal Information may be collected when a user conducts activities on or related to all websites of Globe Companies ("Globe Companies Sites") or related to services made available on the Globe Companies Sites ("Globe Companies Services"). Although information collected, used or disclosed on the Internet as described below often does not constitute Personal Information (and to the extent that such is the case, then the obligations under the Globe Privacy Code do not extend to such information), Globe provides the details below about Internet aspects of Globe Companies Services for the purposes of disclosure about Globe Companies Services.
+Personal Information may be collected by Globe or third-party service providers on Globe's behalf. Although information collected, used or disclosed on the Internet as described below often does not constitute Personal Information (and to the extent that such is the case, then the obligations under the Globe Privacy Code do not extend to such information), Globe provides the details below about Internet aspects of Globe Companies Services for the purposes of disclosure about Globe Companies Services.
 
 _Internet Protocol Address (IP Address)_  
 When the user's web browser requests a web page from another computer on the Internet, it automatically gives that computer the address where it should send the information. This address is called the computer's "IP address." For most users accessing the Internet from a dial-up Internet service provider (ISP), the IP address will be different every time the user logs on.
@@ -66,7 +66,7 @@ When the user's web browser requests a web page from another computer on the Int
 Globe Companies may use the user's IP Address to:
 
   * facilitate the diagnosis and remedy of a technical problem reported by the user's or Globe Company's technical team.
-  * display (or allow the display by Third Party advertising providers of) more appropriate and relevant content and advertising, such as content and advertising based on the user's geographic area.
+  * display (or allow the display by Third Party advertising providers of) more appropriate and relevant content and advertising, such as content and advertising based on the user's geographic area, demographic profile and site session behaviour.
   * estimate user traffic from specific countries or organizations. Many IP addresses are commonly associated with Internet service providers, universities, or major corporations in specific regions or localities. Aggregate information derived from IP addresses may also be reported to advertisers.
 
 
