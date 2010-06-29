@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229013128id_/http%3A//www.thedailybell.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailybell.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629074738id_/http%3A//www.thedailybell.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # The Daily Bell
 
 The Daily Bell Newswire - It's FREE!    
 
-Privacy Policy
+Privacy
 
 **Your Information:** Your personal information, including credit card number, will only be requested for purposes of processing an order. The order itself will be protected via a secure connection and you will only be asked for information essential to placing the order itself.
 
@@ -27,11 +27,7 @@ The Daily Bell Newswire - It's FREE!    
 
 | 
 
-**Guarding Your Privacy
-
- _The Story of the  
-Appenzell Bear_
-
+**Guarding Your Privacy  
 **
 
 The symbol of the black bear comes from a 500-year-old Appenzell tradition which upholds the values of power, courage, might and virility. It is no wonder the upright bear with flashing red claws is central to the Appenzell flag and coat of arms. 
@@ -40,7 +36,10 @@ It represents the contrarian who stands alone, if necessary, to protect what is 
 
 It also reflects our reverence for personal responsibility and free-market principles. And in keeping with those principles, we accept the duty to protect your personal information. 
 
-Sincerely,  
+|  |  [](http://www.arbp.ch/) |  [Home](https://web.archive.org/web/20100629074738id_/http%3A//www.thedailybell.com/index.asp) | [About the Bell](https://web.archive.org/web/20100629074738id_/http%3A//www.thedailybell.com/aboutthebell.asp) | [Subscribe](https://web.archive.org/web/20100629074738id_/http%3A//www.thedailybell.com/subscribe.asp) | Whitelist Bell | [RSS](http://feeds2.feedburner.com/wwwthedailybellcom) | [Privacy Policy](https://web.archive.org/web/20100629074738id_/http%3A//www.thedailybell.com/privacypolicy.asp) | [Photo Gallery](https://web.archive.org/web/20100629074738id_/http%3A//www.thedailybell.com/gallery.asp) | [Contact Us](https://web.archive.org/web/20100629074738id_/http%3A//www.thedailybell.com/contact.asp)  
+---|---  
   
-Meinrad Mueller,  
-Chairman, ARBP 
+© Copyright 2008 - 2010 [Appenzeller Business Press AG (ARBP)](http://www.arbp.ch/). All Rights Reserved. The Daily Bell is an informative compendium of independent economic views and analysis, which is published by ARBP. The information contained in the Daily Bell is for informational purposes only, is impersonal and not tailored to the investment needs of any particular person and should not be construed as financial or investment advice. ARBP does not accept any liability or responsibility for, nor does it verify the accurateness of the information being provided in the Daily Bell. Daily Bell articles and interviews may include the contributions of several Daily Bell editors and may require factual editing after their initial post. Readers of the Daily Bell or any affiliated or linked sources or sites must accept the responsibility for performing their own due diligence before acting on any of the information provided within the report regardless of the source. In addition to proprietary, internally generated content, the Daily Bell publishes guest editorials from a selection of free-market thinkers, which may have been reprinted elsewhere and are not necessarily representative of ARBP's editorial views. Copyright is attributed to the author of any guest editorials featured at the Daily Bell, unless noted otherwise. ARBP often uses images licensed from Getty Images on the Swiss Confidential website. To unsubscribe from the Daily Bell, [click here](http://www.listmanagementcentral.com/Unsubscribe.asp?lid=5).   
+  
+  
+
