@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e-onsoftware.com privacy policy that was archived on 2009-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227181416id_/http%3A//www.e-onsoftware.com/about/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e-onsoftware.com privacy policy that was archived on 2010-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100629141907id_/http%3A//www.e-onsoftware.com/about/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -10,44 +10,23 @@
 		<link rel="icon" href="/favicon.ico" type="image/x-icon"> 
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> 
 		<script type="text/javascript">
-			function CallbackManager()
-			{
-				this.process = function()
-				{
-					var params;		var next = '';
-					for(var i = 0; i < p_functions.length; i++){
-						params = "";
-						for(var j = 0; j < p_functions[i].params.length; j++){
-							next = p_functions[i].params[j];
-							if(typeof(next) == "string") 
-								next = '"' + next + '"';
-							else if(typeof(next) == "object") 
-								next = 'new Array(' + next + ')';
-							params += (j > 0 ? ", " : "") + next;
-						}
-						eval("p_functions[i].func(" + params + ");");
-					}
-				}
-				this.addCallback = function(call_back_function /*... params*/)
-				{
-					var parameters = new Array();	var str = "";
-					for(var i = 1; i < arguments.length; i++)
-						parameters.push(arguments[i]);
-					p_functions.push({func:call_back_function, params:parameters});
-				}
-				
-				var p_functions = new Array();
-			}
+			function CallbackFIFO()
+			{this.process=function()
+			{for(var i=0;i<p_functions.length;i++)
+			p_functions[i]();}
+			this.addCallback=function(call_back_function)
+			{p_functions.push(call_back_function);}
+			var p_functions=new Array();}
 			
 			//CallbackManager which process when the page is loading
-			var loadCallBack = new CallbackManager();
+			var loadCallBack = new CallbackFIFO();
 		</script>
 
+
 <title>e-on software - E-on Software</title>
-	<link rel="stylesheet" type="text/css" href="/common/groupFiles.php?type=css&amp;files=%2Fcommon%2Fe-on.css">
-	
-	<script type="text/javascript" src="/common/groupFiles.php?type=js&amp;files=%2Fcommon%2Fe-on.js|%2Fcommon%2Fswfobject.js"></script>
-	
+	<link rel="stylesheet" type="text/css" href="/common/groupFiles.php?key=55786745.571672&amp;type=css">
+
+	<script type="text/javascript" src="/common/groupFiles.php?key=55786745.572344&amp;type=js"></script>
 </head>
 <body onload="loadCallBack.process();">
 
@@ -111,8 +90,8 @@
 							<div id="vmenu1x1" class="submenu"><dl class="submenu">
 							<dd id="smenu1x1" onmouseover="javascript:showmenu('1x1');">
 							<ul>
-								<li><a href="/products/vue/vue_8_xstream">&nbsp; Vue 8 xStream</a></li>
-								<li><a href="/products/vue/vue_8_infinite">&nbsp; Vue 8 Infinite</a></li>
+								<li><a href="/products/vue/vue_8.5_xstream">&nbsp; Vue 8.5 xStream</a></li>
+								<li><a href="/products/vue/vue_8.5_infinite">&nbsp; Vue 8.5 Infinite</a></li>
 								<li class="separator"></li>
 								<li><a href="/products/license_server">&nbsp; License Server</a></li>
 								<li><a href="/products/network.php">&nbsp; Network Rendering</a></li>
@@ -153,17 +132,9 @@
 							</div>
 						
 					</li>
-					<li style="display:inline;">
-						<dt class="submenutitle"><a href="/products/ozone/ozone_4.0" onmouseover="javascript:showmenu('1x4');">&nbsp; Ozone Plugins</a></dt>
-							<div id="vmenu1x4" class="submenu"><dl class="submenu">
-							<dd id="smenu1x4" onmouseover="javascript:showmenu('1x4');">
-							<ul>
-								<li><a href="/products/ozone/ozone_4.0/">&nbsp; Ozone 4.0</a></li>
-							</ul>
-							</dd></dl>
-							</div>
-						
-					</li>
+					<li class="separator"></li>
+					<li><a href="/products/carbon_scatter">&nbsp; Carbon Scatter</a></li>
+					<li><a href="/products/ozone/ozone_4.0">&nbsp; Ozone 4.0</a></li>
 					<li class="separator"></li>
 					<li><a href="/products/?page=try">&nbsp; Trial Versions</a></li>
 				</ul>
@@ -198,7 +169,7 @@
 		<dt onmouseover="javascript:showmenu('3');" onmouseout="javascript:hidemenu('3');"><a href="/showcase" title="Showcase">Showcase</a></dt>
 			<dd id="smenu3" onmouseover="javascript:showmenu('3');" onmouseout="javascript:hidemenu('3');">
 				<ul>
-					<li><a href="/showcase/competition/2009/">&nbsp; Competition 2009</a></li>
+					<li><a href="/showcase/competition/2010/">&nbsp; Competition 2010</a></li>
 					<li><a href="/showcase/spotlights">&nbsp; Spotlights</a></li>
 					<li><a href="/showcase/projects">&nbsp; User Projects</a></li>
 					<li class="separator"></li>
@@ -215,6 +186,8 @@
 		<dt onmouseover="javascript:showmenu('4');" onmouseout="javascript:hidemenu('4');"><a href="/resources" title="Resources">Resources</a></dt>
 			<dd id="smenu4" onmouseover="javascript:showmenu('4');" onmouseout="javascript:hidemenu('4');">
 				<ul>
+					<li><a href="/ATC/">&nbsp; ATC Program</a></li>
+					<li class="separator"></li>
 					<li><a href="/resources/?page=1">&nbsp; Demos and Tutorials</a></li>
 					<li><a href="/try">&nbsp; Trial Versions</a></li>
 					<li><a href="/resources/?page=updates">&nbsp; Software Updates</a></li>
@@ -249,7 +222,7 @@
 <table cellpadding="0" cellspacing="0" width="764">
 <tbody><tr>
 	<td valign="top">
-		<a href="http://www.e-onsoftware.com"><img src="/common/top/eonlogo.jpg" border="0"></a><img src="/common/top/center/top_20090820-74.jpg">	</td>
+		<a href="http://www.e-onsoftware.com"><img src="http://www.e-onsoftware.net/common/top/eonlogo.jpg" border="0"></a></td><td valign="top"><img src="http://static3.e-onsoftware.net/common/top/center/top_2904.jpg">	</td>
 	<td valign="top" align="right">
 		<ul id="smalllinks">
 			<li style="padding-top:9px; text-align:right; margin:0;"><a href="https://secure.e-onsoftware.com/support/account.php">Login</a></li>
@@ -258,49 +231,84 @@
 		</ul>
 	</td>
 </tr>
-</tbody></table>
-<div style="margin-top:24px;" align="right" id="hierarchy">
+</tbody></table><div style="margin-top:24px;" align="right" id="hierarchy">
 <a href="/">Home</a> &gt; <a href="/about">About</a>&nbsp;</div>
 
-<table cellpadding="0" cellspacing="0" id="sidebar" height="400">
+<table cellpadding="0" cellspacing="0" id="sidebar" height="400" border="0">
 <tbody><tr>
 <td valign="top">
-	<table cellpadding="0" cellspacing="0" width="146">
-				<tbody><tr><td>
-			<div id="menu">
-				<dl><dt class="maintitle"><div><a href="?page=0">E-on Software </a></div></dt></dl>
-<dl><dt><a href="/about?page=1">Corporate Information</a></dt></dl><dl><dt><a href="/about?page=2">Contact</a></dt></dl><dl><dt><a href="newsletter">Latest Newsletter</a></dt></dl><dl><dt><a href="/about?page=4">Products &amp; Technology</a></dt></dl><dl><dt><a href="/about?page=5">Customers</a></dt></dl><dl><dt><a href="/about?page=6">Partners</a></dt></dl><dl><dt><a class="current" href="/about?page=7"><img src="/common/menu/current.gif" style="margin-right:3px;" border="0">Privacy Policy</a></dt></dl><dl><dt><a href="/about?page=8">Press Materials</a></dt></dl><dl><dt><a href="/about?page=9">Press Releases</a></dt></dl><dl><dt><a class="main" href="/about?page=10">Search</a></dt></dl>			</div>
-		</td></tr>
-		<tr><td id="postits">
-			<img src="/common/menu/end.jpg"><br>
-					<img src="/common/cell/top.jpg">
-			<a href="/products/vue"><img src="/common/cell/postits/Award_3DWorld59.jpg" border="0"></a><br><br><br><br>
-<div id="postitstyle"><br><img src="/showcase/projects/_Postits/IntroUserProjects.jpg" border="0"><br><br>
-<a href="/showcase/projects/?page=chippwalters"><img src="/showcase/projects/_Postits/chippwalters.jpg" border="0"><br>
+	<table cellpadding="0" cellspacing="0" width="146" height="100%" border="0">
+		<tbody><tr>
+			<td valign="top" style="height:10px">
+				<div id="menu">
+					<dl><dt class="maintitle"><div><a href="?page=0">E-on Software </a></div></dt></dl>
+<dl><dt><a href="/about?page=1">Corporate Information</a></dt></dl><dl><dt><a href="/about?page=2">Contact</a></dt></dl><dl><dt><a href="newsletter">Latest Newsletter</a></dt></dl><dl><dt><a href="/about?page=4">Products &amp; Technology</a></dt></dl><dl><dt><a href="/about?page=5">Customers</a></dt></dl><dl><dt><a href="/about?page=6">Partners</a></dt></dl><dl><dt><a class="current" href="/about?page=7"><img src="/common/menu/current.gif" style="margin-right:3px;" border="0">Privacy Policy</a></dt></dl><dl><dt><a href="/about?page=8">Press Materials</a></dt></dl><dl><dt><a href="/about?page=9">Press Releases</a></dt></dl><dl><dt><a class="main" href="/about?page=10">Search</a></dt></dl>				</div>
+			</td>
+		</tr>
+		<tr>
+			<td id="postits" valign="top">
+				<img src="http://static.e-onsoftware.net/common/menu/end.jpg"><br>
+			<img src="http://static2.e-onsoftware.net/common/cell/top.jpg">
+<a href="/products/vue"><img src="/common/cell/postits/Award_3DWorld59.jpg" border="0"></a><br><br><br><br>
+<div id="postitstyle"><br><img src="http://static.e-onsoftware.net/showcase/projects/_Postits/IntroUserProjects.jpg" border="0"><br><br>
+<a href="/showcase/projects/?page=kerembeyit"><img src="http://static4.e-onsoftware.net/showcase/projects/_Postits/KeremBeyit.jpg" border="0"><br>
 <table border="0" align="center" cellspacing="0" cellpadding="10" width="100%">
 	<tbody><tr><td align="center" border="0">
-		<b>Vue Tools</b><br> by Chipp Walters <b>»</b>
+		<b>3D Painting</b><br>by Kerem Beyit <b>»</b>
 	</td></tr>
 </tbody></table></a>
-<br><img src="/showcase/projects/_Postits/separatorspotlight.gif" border="0"><br><br><br>
-<a href="/showcase/projects/?page=terranova"><img src="/showcase/projects/_Postits/dragosjieanu.jpg" border="0"><br>
+<br><img src="http://static2.e-onsoftware.net/showcase/projects/_Postits/separatorspotlight.gif" border="0"><br><br><br>
+<a href="/showcase/projects/?page=RichardLyall"><img src="http://static2.e-onsoftware.net/showcase/projects/_Postits/RichardLyall.jpg" border="0"><br>
 <table border="0" align="center" cellspacing="0" cellpadding="10" width="100%">
 	<tbody><tr><td align="center" border="0">
-		<b>TerraNova</b><br> by Dragos Jieanu <b>»</b>
+		<b>Le Bisou</b><br>by Richard Lyall <b>»</b>
 	</td></tr>
 </tbody></table></a>
-<br><img src="/showcase/projects/_Postits/separatorspotlight.gif" border="0"><br><br><br>
-<a href="/showcase/projects/?page=mikeyenco"><img src="/showcase/projects/_Postits/MikeYenco.jpg" border="0"><br>
+<br><img src="http://static2.e-onsoftware.net/showcase/projects/_Postits/separatorspotlight.gif" border="0"><br><br><br>
+<a href="/showcase/projects/?page=Hills"><img src="http://static.e-onsoftware.net/showcase/projects/_Postits/GregCombs_Hill.jpg" border="0"><br>
 <table border="0" align="center" cellspacing="0" cellpadding="10" width="100%">
 	<tbody><tr><td align="center" border="0">
-		<b>Agenda 4</b><br>by Mike Yenco <b>»</b>
+		<b>Hills</b><br>by ASLA Students <b>»</b>
 	</td></tr>
 </tbody></table></a>
-<br><img src="/showcase/projects/_Postits/separatorspotlight.gif" border="0"><br><br><br></div>		</td></tr>
+<br><img src="http://static2.e-onsoftware.net/showcase/projects/_Postits/separatorspotlight.gif" border="0"><br><br><br></div>			</td>
+		</tr>
+		<tr valign="bottom">
+			<td valign="bottom">
+				<a href="http://www.e-onsoftware.com/about/newsletter" title="e-on newsletter">
+					<img src="http://static3.e-onsoftware.net/common/cell/stayintouch.gif" border="0">
+				</a>
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td>
+							<a href="http://www.e-onsoftware.com/about/newsletter" title="e-on newsletter">
+								<img src="http://static.e-onsoftware.net/common/cell/lnk_e-onNewsletter.jpg" border="0">
+							</a>
+						</td>
+						<td>
+							<a href="http://www.facebook.com/pages/e-on-software-Vue/464420735645" title="Facebook">
+								<img src="http://static2.e-onsoftware.net/common/cell/lnk_Facebook.jpg" border="0">
+							</a>
+						</td>
+						<td>
+							<a href="http://www.youtube.com/user/eonsoftware" title="YouTube">
+								<img src="http://static3.e-onsoftware.net/common/cell/lnk_YouTube.jpg" border="0">
+							</a>
+						</td>
+						<td>
+							<a href="http://www.cornucopia3d.com" title="Cornucopia3D">
+								<img src="http://static4.e-onsoftware.net/common/cell/lnk_Cornucopia3D.jpg" border="0">
+							</a>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
 	</tbody></table>
 </td>
-<td id="main">
-	<div id="maindiv"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h1>E-on Software - Privacy Policy</h1></td>
+<td id="main" rowspan="2">
+	<div id="maindiv">
+		<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top"><h1>E-on Software - Privacy Policy</h1></td>
 </tr></tbody></table><p>E-on software is committed to protecting your privacy.  This Privacy Policy summarizes the policies of e-on software regarding the collection, transfer, and use of personal information on this Site, and regarding security measures e-on software employs to protect such personal information. Please read this Privacy Policy carefully to understand how your personal information will be treated as you make full use of this Site.</p>
 <p>Please be aware that this Site may contain links to third-party web sites that may or may not have similar privacy policies, that this Privacy Policy does not apply to such web sites, and that e-on software is not responsible for the privacy practices, content, or conduct of or on such web sites. By using this Site, our services, or purchasing our products you agree to the terms and conditions of this Privacy Policy.</p>
 <br>
@@ -364,21 +372,20 @@
 </tbody></table>
 
 <table cellpadding="0" cellspacing="0" id="footer" border="0">
-<tbody><tr>
-	<td id="menubottom" colspan="5"><img src="/common/cell/bottom.jpg"><br><br></td>
-</tr>
+	<tbody><tr>
+		<td id="menubottom" colspan="5"><img src="http://static.e-onsoftware.net/common/cell/bottom.jpg"><br><br></td>
+	</tr>
 <tr>
-<td><img src="/common/footer/left.jpg" width="20"></td>
+<td><img src="http://static2.e-onsoftware.net/common/footer/left.jpg" width="20"></td>
 <td align="left" class="smalllink">e-on software: <a href="/about/?page=2">beyond inspiration!</a> &nbsp; <a href="/about/?page=privacypolicy">privacy policy</a> &nbsp; <a href="/about/?page=contact">contact us</a> &nbsp; <a href="/resellercenter/">resellers</a></td>
-<td align="right" class="smalllink"><i>©2009 e-on software, inc.</i></td>
+<td align="right" class="smalllink"><i>©2010 e-on software, inc.</i></td>
 
-<td><img src="/common/footer/right.jpg" width="20"></td>
+<td><img src="http://static3.e-onsoftware.net/common/footer/right.jpg" width="20"></td>
 
 </tr>
 </tbody></table>
 
 
 </div>
-
 
 </center></body></html>
