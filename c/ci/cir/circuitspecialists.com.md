@@ -1,8 +1,50 @@
-> *The following text is extracted and transformed from the circuitspecialists.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228084914id_/http%3A//www.circuitspecialists.com/level.itml/icOid/7122) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuitspecialists.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629201115id_/http%3A//www.circuitspecialists.com/level.itml/icOid/7122) for the most accurate reproduction.*
 
 # Circuit Specialists Inc. - Privacy Policy / Returns/ Customer Satisfaction
 
-(etc.)
+**Circuit Specialists has been in business  for over 37 years!  
+**  
+**Circuit Specialists Inc.  
+220 South Country Club Drive #2  
+Mesa, AZ 85210  
+**  
+Phone: (800) 528-1417 +1-480-464-2485  
+Fax: +1-480-464-5824  
+Telephone Hours: 8AM - 5PM MST Arizona Time Monday-Friday  
+servicedesk@cir.com
+
+Shipping and handling charges are calculated online. Please call if you have additional questions
+
+For placing orders outside USA, Canada, and Puerto Rico see our [**WEB-TRONICS.COM**](http://web-tronics.com/) web site.
+
+**Privacy Statement:**   
+Effective 04/23/2008 
+
+**Our Commitment To Privacy**
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage.
+
+**The Information We Collect:**   
+This notice applies to all information collected or submitted on the _circuitspecialists.com_ and _web-tronics.com_ websites. The types of personal information collected at these pages are
+
+  * Name
+  * Address
+  * Email address 
+  * Phone number 
+  * Credit/Debit Card Information 
+  * (etc.)   
+
+
+
+
+On some pages, you can submit information about other people. For example, if you order something online and want it sent directly to another recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
+
+  * Name
+  * Address 
+  * Phone Number 
+  * (etc.)
+
+
 
 **The Way We Use Information:**  
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.   
