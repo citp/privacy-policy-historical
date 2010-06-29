@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turningtechnologies.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229065754id_/http%3A//www.turningtechnologies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turningtechnologies.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630005031id_/http%3A//www.turningtechnologies.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
