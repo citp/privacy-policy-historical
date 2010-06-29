@@ -1,54 +1,50 @@
-> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221005345id_/http%3A//www.immihelp.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immihelp.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629152325id_/http%3A//www.immihelp.com/misc/privacy.html) for the most accurate reproduction.*
 
 # Immihelp Privacy Policy
 
-|   Popular  
+|  Popular  
   
 ---  
  [Medical Insurance](http://www.insubuy.com/)  
  [Directory](https://web.archive.org/directory/)  
  [Discussion Forums](https://web.archive.org/forum/)  
  [Fillable Forms](https://web.archive.org/forms/)  
- [Read Experiences](https://web.archive.org/experience/)  
+ [Read/Post Experiences](https://web.archive.org/experience/)  
  [Sample Documents](https://web.archive.org/forms/sample.html)  
  [GC/Visa Tracker](https://web.archive.org/tracker/)  
   
   
- Visas  
+Visas  
   
 ---  
+ [Business Visa - B1](https://web.archive.org/business-visa/)  
  [Extend Visitor Visa](https://web.archive.org/visas/extend.html)  
+ [Fiancè Visa - K1, K3](https://web.archive.org/visas/kvisa/)  
  [H1B, H4 Visa](https://web.archive.org/visas/h1b/)  
+ [L1, L2 Visa](https://web.archive.org/visas/l1/)  
+ [Schengen Visa](https://web.archive.org/visas/schengenvisa/)  
  [Student Visa(F, J, M)](https://web.archive.org/visas/studentvisa/)  
- [Visitor Visa](https://web.archive.org/visas/visitor/)  
+ [Visitor Visa](https://web.archive.org/visitor-visa/)  
      [More...](https://web.archive.org/visas/)  
-  
- Processing Timings  
-  
----  
- [USCIS - CSC(California)](https://web.archive.org/timings/california.jsp)  
- [USCIS - NSC(Nebraska)](https://web.archive.org/timings/nebraska.jsp)  
- [USCIS - Missouri](https://web.archive.org/timings/missouri.jsp)  
- [USCIS - TSC(Texas)](https://web.archive.org/timings/texas.jsp)  
- [USCIS - VSC(Vermont)](https://web.archive.org/timings/vermont.jsp)  
- [USCIS- Local Offices](https://web.archive.org/timings/local.jsp)  
- [Labor Certification](https://web.archive.org/timings/laborcertification.jsp)  
-  
-  
- Green card  
+Green card  
   
 ---  
- [Adjust. of Status(I-485)](https://web.archive.org/greencard/adjustmentofstatus/index.html)  
- [Consular Processing](https://web.archive.org/gc/consular/)  
+ [Adjust. of Status(I-485)](https://web.archive.org/greencard/adjustmentofstatus/)  
+ [Advance Parole](https://web.archive.org/greencard/adjustmentofstatus/advance-parole.html)  
+ [EAD (Work Permit)](https://web.archive.org/immigration/employment-authorization-document.html)  
  [Employment Green Card](https://web.archive.org/greencard/employmentbasedimmigration/)  
+ [Family Based Greencard](https://web.archive.org/greencard/familybasedimmigration/)  
+ [Immigrant Visa](https://web.archive.org/immigrant-visa/)  
  [Labor Certification](https://web.archive.org/gc/employment/labor/)  
+ [Processing Times](https://web.archive.org/processing-times/)  
      [More...](https://web.archive.org/greencard/)  
   
- USA Guide  
+USA Guide  
   
 ---  
  [Tips, Newcomer to USA](https://web.archive.org/newcomer/)  
  [Travel to USA](https://web.archive.org/travel/)  
+ [Insurance Resources](https://web.archive.org/insurance/resources.jsp)  
      [More...](https://web.archive.org/newcomer/)  
 |  Printer Friendly    [Send to Friend](https://web.archive.org/script/referfriend.jsp) Privacy Policy
 
