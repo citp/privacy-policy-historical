@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628162814id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629130919id_/http%3A//www.crutchfield.com/ISEO-ralscspd/privacy.html) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
-For more than 35 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
+For more than 36 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
 
 If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1-888-955-6000; e-mail us at [webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to: Privacy, 1 Crutchfield Park, Charlottesville, Virginia 22911.
 
-## Crutchfield.com, CrutchfieldAdvisor.com and Crutchfieldenespanol.com Privacy Notice
+## Crutchfield.com Privacy Notice
 
-By visiting Crutchfield.com, CrutchfieldAdvisor.com or Crutchfieldenespanol.com you agree to accept the practices described in this Privacy Notice.
+By visiting Crutchfield.com you agree to accept the practices described in this Privacy Notice.
 
 ## Changes to this Privacy Notice, Conditions of Use and Notices:
 
-This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on November 6, 2008. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/web/20090628162814id_/http%3A//www.crutchfield.com/ISEO-ralscspd/termsofuse.html), including the application of the laws of the Commonwealth of Virginia.
+This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on July 21, 2009. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our [Terms of Use](https://web.archive.org/web/20100629130919id_/http%3A//www.crutchfield.com/ISEO-ralscspd/termsofuse.html), including the application of the laws of the Commonwealth of Virginia.
 
 ## Personal Information Collected By Crutchfield:
 
-Crutchfield uses information that we collect from our visitors to personalize and improve your visit at Crutchfield.com and CrutchfieldAdvisor.com. We gather the following types of information:
+Crutchfield uses information that we collect from our visitors to personalize and improve your visit at Crutchfield.com. We gather the following types of information:
 
 Information you give us: Crutchfield collects any information which you enter on our Web site. This information is normally provided when you search, buy, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through our Web site, telephone, mail or fax. You also provide information when you establish an account with us. Examples of the type of information you may supply us with include your name, address, telephone number, credit card information, e-mail addresses, and financial information such as your Social Security number.
 
@@ -24,7 +24,7 @@ Automatic Information collected by us: Whenever you visit our Web site we collec
 
 Orders: If you place an order we use a secure order form which requires you to provide contact, billing, and financial information. This information is transmitted to your credit card company to authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.
 
-Action Tags: Crutchfield's web pages may contain action tags set by third party firms for the purpose of collecting anonymous information about the usage of our site by customers. Action tags are also known as web beacons or 1 pixel gifs. Action tags are a technique used to compile aggregated statistics about the effectiveness of our web site. They do not use personally identifiable information, such as names or addresses, and do not link online actions to an identifiable person.
+Action Tags: Crutchfield's web pages may contain action tags set by third party firms for the purpose of collecting anonymous information about the usage of our site by customers. Action tags are also known as web beacons or 1 pixel gifs. Action tags are a technique used to compile aggregated statistics about the effectiveness of our web site. They do not use personally identifiable information, such as names or addresses, and do not link online actions to an identifiable person. Should you wish to opt-out of providing this anonymous information you may do so by visiting the Network Advertising Initiative’s consumer opt-out page located at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp#)
 
 ## Sharing of Information with third-parties:
 
@@ -60,7 +60,7 @@ We will release personally identifiable information to third parties and organiz
 
 ## Business Transfer:
 
-Crutchfield has been in business independently for years, and our intent is to continue for at least another 35 years. However, in the unlikely event that Crutchfield is sold, has substantially all of its assets acquired or merges or becomes affiliated with any other individual or entity any customer information owned or under the control of Crutchfield may be one of the transferred assets.
+Crutchfield has been in business independently for years, and our intent is to continue for at least another 36 years. However, in the unlikely event that Crutchfield is sold, has substantially all of its assets acquired or merges or becomes affiliated with any other individual or entity any customer information owned or under the control of Crutchfield may be one of the transferred assets.
 
 ## Security:
 
