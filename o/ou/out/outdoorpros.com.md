@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2008-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081206071801id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629155758id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - OutdoorPros.com
+# Privacy Policy at OutdoorPros.com
 
-[Home](https://web.archive.org/) > Privacy Policy 
+[](https://web.archive.org/Advanced-Elements/922)
 
-[](https://web.archive.org/2008-Holiday-Promotion.aspx "Save $5 off $30!")
+[Home](https://web.archive.org/) > **Privacy Policy**
 
 #### Overview
 
