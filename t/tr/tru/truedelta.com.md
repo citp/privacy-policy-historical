@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truedelta.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628090851id_/http%3A//www.truedelta.com/privacy.php%3Fsession_code%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truedelta.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629180350id_/http%3A//truedelta.com/privacy.php%3Fsession_code%3D) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,8 @@ Panel members also provide information about themselves and their vehicles, both
 
 For example, while responses to the fuel economy and repair history surveys are posted directly to the site, the posted results include no way to identify the specific vehicle they pertain to or the person who provided the data.
 
+TrueDelta does not provide data to Carfax, Autocheck, or any other such services that provide information on individual cars.
+
 There is one exception to this policy. As stated on the panel registration form, TrueDelta reserves the right to contact the appropriate department of motor vehicles (DMV) or equivalent to verify the existence of a vehicle in the panel. Even in this case no information will be provided to the DMV that the DMV does not already possess.
 
 ## What This Policy Covers
@@ -26,10 +28,14 @@ This policy does not apply to any of the websites or companies that TrueDelta li
 
 Once you have submitted information and it is received in TrueDelta's database, all submitted information becomes the property of TrueDelta.
 
+## Advertisers
+
+Some advertisers use cookies and other means to track your Internet use in compliance with Internet browser security rules. Information includes clickstream data, browswer type, time and date, subject of ads clicked on or ignored. They use this information to decide which ads to present to you. The Network Advertising Initiative has an opt out page [here](http://www.networkadvertising.org/managing/opt_out.asp).
+
 ## Acceptance of These Terms
 
 By using the TrueDelta site and providing us with your information, you agree to the TrueDelta Privacy Policy. If you do not accept this policy, please do not use this site.
 
 ## Policy Changes
 
-TrueDelta reserves the right to modify this policy at any time. When a substantial change is made (i.e. beyond wording such that the meaning of the policy is altered), the change will be communicated in the email periodically sent to panel members (generally once per month). Please periodically check this page for changes. Your continued use of the site means you accept any changes.
+TrueDelta reserves the right to modify this policy at any time. Please periodically check this page for changes. Continued use of the site implied that you accept any changes.
