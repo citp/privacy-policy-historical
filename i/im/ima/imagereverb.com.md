@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the imagereverb.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224090521id_/http%3A//www.imagereverb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagereverb.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630012732id_/http%3A//www.imagereverb.com/index.php%3Fsubpage%3Dprivacy) for the most accurate reproduction.*
 
 # ImageREVERB
 
 Privacy Notice  
 ---  
   
-**ImageReverb** (�ImageReverb�) recognizes that its customers, visitors, users, and others who use www.ImageReverb.com or other web sites owned or operated by Evil Sheep Entertainment (the �Evil Sheep Entertainment Sites�) (collectively or individually �Users�) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the ImageReverb Sites. ImageReverb provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Evil Sheep Entertainment Sites. This Privacy Notice is incorporated into and is subject to the ImageReverb Terms of Use. Your use of the ImageReverb Sites and any personal information you provide on the ImageReverb Sites remains subject to the terms of this Privacy Notice and our Terms of Use. Please note that any video, image, or other content posted at the direction of Users onto the ImageReverb Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.   
+**ImageReverb** (ImageReverb) recognizes that its customers, visitors, users, and others who use www.ImageReverb.com or other web sites owned or operated by Evil Sheep Entertainment (the 'Evil Sheep Entertainment Sites') (collectively or individually 'Users') value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the ImageReverb Sites. ImageReverb provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Evil Sheep Entertainment Sites. This Privacy Notice is incorporated into and is subject to the ImageReverb Terms of Use. Your use of the ImageReverb Sites and any personal information you provide on the ImageReverb Sites remains subject to the terms of this Privacy Notice and our Terms of Use. Please note that any video, image, or other content posted at the direction of Users onto the ImageReverb Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.   
   
 The Information ImageReverb Collects  
   
 **User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to ImageReverb when choosing to participate in various activities on the ImageReverb Sites such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.  
   
-  * **Cookies Information:** When you visit the ImageReverb Sites, we may send one or more cookies � a small text file containing a string of alphanumeric characters � to your computer that uniquely identifies your browser. ImageReverb uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the ImageReverb Sites may not function properly if the ability to accept cookies is disabled.
+  * **Cookies Information:** When you visit the ImageReverb Sites, we may send one or more cookies ' a small text file containing a string of alphanumeric characters ' to your computer that uniquely identifies your browser. ImageReverb uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the ImageReverb Sites may not function properly if the ability to accept cookies is disabled.
 
-  * **Log File Information:** When you use the ImageReverb Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (�IP�) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+  * **Log File Information:** When you use the ImageReverb Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ('IP') address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
 
   
 The Way ImageReverb Retains Information  
   
-  * To preserve the integrity of website databases ImageReverb�s procedure is to retain information submitted by members for an indefinite length of time. By submitting information to ImageReverb you are consenting to store that information indefinitely.
+  * To preserve the integrity of website databases ImageReverb's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to ImageReverb you are consenting to store that information indefinitely.
 
-  * If required by law, such as the Children�s Online Privacy Protection Act (COPPA,) ImageReverb will scramble and/or encrypt that information to make it unrecognizable. ImageReverb will also respond to written member requests to scramble account information.
+  * If required by law, such as the Children's Online Privacy Protection Act (COPPA,) ImageReverb will scramble and/or encrypt that information to make it unrecognizable. ImageReverb will also respond to written member requests to scramble account information.
 
 
   
@@ -67,7 +67,7 @@ ImageReverb allows other companies, called third-party ad servers or ad networks
   
 ImageReverb does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks ImageReverb to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.  
   
-You should consult the respective privacy policies of these third-party ad servers or ad networks. ImageReverb�s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
+You should consult the respective privacy policies of these third-party ad servers or ad networks. ImageReverb's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
   
 Currently, ImageReverb has relationships with the following third-party ad servers or ad networks:  
   
@@ -98,7 +98,7 @@ The ImageReverb Sites are hosted in the United States and are intended for and d
   
 In the Event of Merger, Sale, or Bankruptcy  
   
-In the event that ImageReverb is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors� rights generally, we may not be able to control how your personal information is treated, transferred, or used.  
+In the event that ImageReverb is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.  
   
 Changes and updates to this Privacy Notice  
   
