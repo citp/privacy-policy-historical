@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontier.co.uk privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621192757id_/http%3A//www.frontier.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontier.co.uk privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630022054id_/http%3A//www.frontier.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Frontier Developments
 
@@ -10,9 +10,12 @@ To protect your privacy, we have voluntarily undertaken this privacy initiative.
 
 **What does this Privacy Policy apply to?**
 
-This Privacy Policy currently applies to the following websites operated by Frontier:   
+This Privacy Policy currently applies to the following websites operated by Frontier: 
+
+www.frontier.co.uk  
 forums.frontier.co.uk   
-www.frontier.co.uk
+lostwinds.frontier.co.uk  
+elite.frontier.co.uk
 
 In addition, Frontier may also own several other domain names that point to the websites listed above, and we may from time to time add new sites.   
 Please note that this Privacy Policy applies only to information submitted and collected online through the websites listed above, and does not apply to information that may be collected by Frontier offline. In addition, this Privacy Policy applies only to sites listed above and not to websites maintained by other companies or organizations to which we link, including our international affiliates. Frontier cannot and does not guarantee the security of any personal information disclosed on those sites. In addition, please note that we may hire vendors (agents or contractors) to collect personal information on our behalf and in such cases such vendors will be instructed to comply with our Online Privacy Statement as set forth herein.
