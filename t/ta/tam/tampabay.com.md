@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202121025id_/http%3A//www.tampabay.com/universal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampabay.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630071527id_/http%3A//www.tampabay.com/universal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | tampabay.com - St. Petersburg Times and tbt*
 
