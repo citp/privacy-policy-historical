@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229002200id_/http%3A//www.agaccess.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630155523id_/http%3A//www.agaccess.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Online Business Directory AgAccess - - Privacy Statement
 
