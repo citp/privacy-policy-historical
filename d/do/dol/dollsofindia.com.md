@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624145414id_/http%3A//www.dollsofindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630075743id_/http%3A//www.dollsofindia.com/privacy.php) for the most accurate reproduction.*
 
 # Indian Art Store : Privacy Policy
 
@@ -17,10 +17,10 @@ DollsOfIndia is committed to respecting and protecting your personal privacy. Ou
 
 **INFORMATION REMOVAL OR UPDATION**
 
-  * Users, whose email/contact information are with us, may choose not to receive any future mailings/services from us by either visiting <http://www.dollsofindia.com/unsubscribe.php> or by writing to [**optout@dollsofindia.com**](mailto:optout@dollsofindia.com). You may also contact us at our address or phone number provided below. By writing in to us you can:
+  * Users, whose email/contact information are with us, may choose not to receive any future mailings/services from us by either visiting <http://www.dollsofindia.com/unsubscribe.php> or by writing to [**unsubscribe@dollsofindia.com**](mailto:unsubscribe@dollsofindia.com). You may also contact us at our address or phone number provided below. By writing in to us you can:
     * Request us to remove any personally identifiable information with us. This also implies that there cannot be any form of checking from our side to any future subscriptions to our services/mailings to contact addresses (physical or email) which points to you.
     * Request us to block any future mailings to your contact addresses (physical or email).
-  * Users, whose email/contact information are with us, may choose to update their contact information with us by writing to [**update@dollsofindia.com**](mailto:update@dollsofindia.com). You may also contact us at our address or phone number provided below.
+  * Users, whose email/contact information are with us, may choose to update their contact information with us by writing to [**info@dollsofindia.com**](mailto:info@dollsofindia.com). You may also contact us at our address or phone number provided below.
 
 **PRIVACY OF INFORMATION**
 
@@ -36,9 +36,9 @@ DollsOfIndia is committed to respecting and protecting your personal privacy. Ou
 **PRIVACY POLICY MODIFICATIONS**
 * DollsOfIndia may modify its privacy policy from time to time. The responsibility of updating your knowledge about the same rests with you and the same can be done by visiting this page at regular intervals.
 **DOLLSOFINDIA CONTACT INFORMATION REGARDING CONCERNS**
-* To request for unsubscription OR removal from our customer database: [**optout@dollsofindia.com**](mailto:optout@dollsofindia.com)
-* To request for modification or updation of customer information: [**update@dollsofindia.com**](mailto:update@dollsofindia.com)
-* To request for clarifications on our privacy policy: [**privacy@dollsofindia.com**](mailto:privacy@dollsofindia.com)
+* To request for unsubscription OR removal from our customer database: [**unsubscribe@dollsofindia.com**](mailto:unsubscribe@dollsofindia.com)
+* To request for modification or updation of customer information: [**info@dollsofindia.com**](mailto:info@dollsofindia.com)
+* To request for clarifications on our privacy policy: [**info@dollsofindia.com**](mailto:info@dollsofindia.com)
 * You may write to our physical address with any of the requests above. Write to:  
 **Madhuri Guin  
 P3B-085, Princeton Estate  
@@ -46,22 +46,12 @@ DLF City Phase V
 Gurgaon  
 Haryana 122 009  
 INDIA**
-* You may contact us on our phone number : **+91-9810045075**.  
-  
----  
-| [Click here](http://www.dollsofindia.com/library/) **for list of archives**
+* You may contact us on our phone number : **+91-9810045075**.
+
+#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Cowrie Shell Jewelry](http://www.dollsofindia.com/read/cowrie_shell_jewelry.htm) - [Brass Sculptures](http://www.dollsofindia.com/read/brass_sculptures.htm) - [Indian Ivory Sculpture](http://www.dollsofindia.com/read/indian_ivory_sculpture.htm) - [Terracotta Earrings](http://www.ornamentsofindia.com/read/terracotta_earrings.htm) - [Asian Statues](http://www.dollsofindia.com/read/asian_statues.htm) - [Papier-Mache Masks from India](http://www.dollsofindia.com/read/papier_mache_masks.htm) - [Ghagra Choli](http://www.dollsofindia.com/read/ghagra_choli.htm) - [Tribal Masks](http://www.artandcraftsofindia.com/read/tribal_masks.htm) - [Parvati Painting](http://www.dollsofindia.com/read/parvati_painting.htm) - [Indian Wood Statues](http://www.artandcraftsofindia.com/read/indian_wood_statues.htm) 
 
   
-[](http://www.dollsofindia.com/krishna.htm) | Krishna manifested himself in order to reinstate Dharma (righteousness) and re-establish justice. In his avatar, Krishna took on the mantle of a king, an ace diplomat and a politician par excellence, who thoroughly knew the ins and outs of the field... The Mahabharata was akin to what we know today as a World War... Though Lord Krishna's side attained victory, he was never pleased by the terrible outcome of it all... The cycle of Karma had demanded for this to happen and so, the war finally took place, in spite of Krishna's best efforts to stop it. Krishna, veritably the Prema Avatar (the avatar of love), is vastly known for his dalliances with the Gopis and the Brajbalas... The Radha-Krishna romance epitomizes real love, their lovemaking going beyond barriers of all kinds... Though Radha and Krishna never married, they are revered as a divine couple and stand for pure Love in all its glory...  
----  
-[» Read this article](http://www.dollsofindia.com/krishna.htm)  
-  
-|   
-  
-#### [Random Art Pages](http://www.dollsofindia.com/allpages.htm): [Lord Ganesha](http://www.dollsofindia.com/read/lord_ganesha.htm) - [Thermocol Crafts](http://www.dollsofindia.com/read/thermocolcrafts.htm) - [Dhokra Jewelry](http://www.dollsofindia.com/read/dhokra_jewelry.htm) - [Costume Dolls](http://www.dollsofindia.com/read/costume_dolls.htm) - [Wood Statues](http://www.artandcraftsofindia.com/read/wood_statues.htm) - [PapierMache Sculptures from India](http://www.dollsofindia.com/read/papiermachesculptures.htm) - [Indian Ivory Dolls](http://www.dollsofindia.com/read/indianivorydolls.htm) - [Hindu Mask](http://www.dollsofindia.com/read/hindu_mask.htm) - [Lost Wax Casting](http://www.dollsofindia.com/read/lost_wax_casting.htm) - [Terracotta Earrings](http://www.ornamentsofindia.com/read/terracotta_earrings.htm) 
-
-  
-**Copyright © 2009,[Dolls Of India](http://www.dollsofindia.com/)  
+**Copyright © 2010,[Dolls Of India](http://www.dollsofindia.com/)  
 Site designed and maintained by [UnlimitedFX](http://www.unlimitedfx.com/)**
 
   
