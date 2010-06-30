@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playboytv.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235105id_/http%3A//www.playboytv.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboytv.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630090536id_/http%3A//www.playboytv.com/Privacy-Policy) for the most accurate reproduction.*
 
-# PlayboyTV
+# Playboy TV
 
 **  
 The following “Privacy Policy” is dated as of December 17, 2007 and is incorporated into the Terms of Service found on[http://playboytv.com/Terms-of-Service](https://web.archive.org/Terms-of-Service). Please review them carefully before accessing any of the “Sites” (defined below).   
