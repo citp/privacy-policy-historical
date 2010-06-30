@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregonwebweavers.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307112412id_/http%3A//www.oregonwebweavers.com/privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonwebweavers.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630195849id_/http%3A//www.oregonwebweavers.com/privacy_statement.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -40,4 +40,4 @@ Oregon Web Weavers will not, except for reasons stated below, disclose to third 
 
 
 
-If you have questions regarding this information please call us at 1-800-568-8909 or send an email to us at [info@oregonwebweavers.com](mailto:info@OregonWebWeavers.com).
+If you have questions regarding this information please call us at 541-520-0552 or send an email to us at [info@oregonwebweavers.com](mailto:info@OregonWebWeavers.com).
