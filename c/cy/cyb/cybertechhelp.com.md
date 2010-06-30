@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cybertechhelp.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229194520id_/http%3A//www.cybertechhelp.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybertechhelp.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630192208id_/http%3A//www.cybertechhelp.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Cyber Tech Help
 
 Please note: if you have any questions about the Cyber Tech Help™ Privacy Policy please [contact us](https://web.archive.org/contact/enquiry/legal "Contact Us").
 
