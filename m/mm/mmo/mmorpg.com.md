@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmorpg.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312053218id_/http%3A//www.mmorpg.com/disclaimers.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpg.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630215113id_/http%3A//www.mmorpg.com/disclaimers.cfm%23privacy) for the most accurate reproduction.*
 
 # MMORPG.com - Your Headquarters for Online Multiplayer Games, RPG Online Games, Online Role Playing Free Games!
 
@@ -71,7 +71,7 @@ At the discretion of the moderator and/or the Community Manager, the following i
     * If a thread has previously been deleted or locked by a moderator, it is against our rules to start another thread on the same topic. This rule applies if a participant in a locked or deleted thread re-starts the thread, a warning and 1 day ban will be issued. If this happens twice, the member will be permanently banned, no exceptions.
   * Unofficial Servers 
     * Discussing or advertising unofficial servers or emulators for MMOs is not permitted on the MMORPG.com forums. These servers are against the Terms of Service of the original game, and violate the intellectual propriety rights of the game's publisher and developer.
-  * 3rd Pary Programs 
+  * 3rd Party Programs 
     * MMORPG.com does not allow forum discussion concerning programs that go against a game's EULA. This includes, but is not limited to, third party programs to automate gameplay or gain an unfair advantage over other players. Please check with your specific game's EULA for more details on what is or isn't allowed.
 
 
@@ -150,4 +150,4 @@ This web site is the exclusive property of Cyber Creations Inc. and may not be c
 
 All game logos, or game-specific designs are used by permission by the individual publishing company. These images are copyrighted by their respective owners. These images may not be copied or reproduced without permission from their respective owners.
 
-**Copyright © Cyber Creations Inc. 2002-2009**
+**Copyright © Cyber Creations Inc. 2002-2010**
