@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.ar.us privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224224755id_/http%3A//portal.arkansas.gov/Pages/policy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.ar.us privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630190657id_/http%3A//portal.arkansas.gov/Pages/policy.aspx%23privacy) for the most accurate reproduction.*
 
 # Internet Policies
 
@@ -82,5 +82,33 @@ Arkansas.gov GovPay
 An Arkansas.gov GovPay account provides convenient, secure storage of banking and credit card information for online purchase of goods and services with participating state/local government entities.  Arkansas.gov GovPay uses advanced encryption methods to protect identity and private information of all transactions.  No stored account information will be released to any outside source. All account holders have immediate access to stored information with the ability to add, edit or delete accounts at any time.  Unless otherwise indicated, Arkansas.gov GovPay accounts are optional and not are required to complete online transactions.  
   
    
+  
+Legal Notices  
+  
+Any trademarks that appear on this site are the property of their respective owners who may or may not be affiliated with, connected to, or sponsored by Arkansas.gov. 
+
+Arkansas.gov respects the rights of all copyright holders, and therefore, Arkansas.gov has adopted and implemented a policy that provides for the termination in appropriate circumstances of users and account holders who infringe the rights of copyright holders. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Arkansas.gov's Copyright Agent the following information required by the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. 512: 
+
+1 . A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; 
+
+2\. Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site; 
+
+3\. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; 
+
+4\. Information reasonably sufficient to permit us to contact the complaining party; 
+
+5\. A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and 
+
+6\. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. 
+
+For copyright inquiries please contact:   
+Arkansas Information Consortium, LLC  
+[copyrightagent@egov.com](mailto:copyrightagent@egov.com)  
+  
+Child Online Privacy Protection Act  
+  
+Children under the age of 13 are not eligible to use services that require submission of personal information and should not submit any personal information to us. This includes submitting personal information to the website as part of a user profile or personalization profile. If you are a child under the age of 13, you can use these services only if used together with your parents or guardians. Seek guidance from your parents or guardians if you are under the age of 13.
+
+If we decide to begin collecting personal information from children under the age of 13, we will notify parents that it is being requested, disclose the reasons for collecting it, and disclose our intended use of it. We will seek verifiable parental consent before collecting any personally identifiable information. If we do collect such information, parents may request information on the type of data being collected, view their child's information, and, if they choose, prohibit us from making further use of their child's information. We will not provide personal information about children to third parties.  
   
 Any additional questions, concerns or statements regarding confidentiality and data usage may be directed to the Information Network of Arkansas at [info@ark.org](mailto:info@ark.org).
