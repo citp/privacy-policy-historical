@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pfaw.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219225348id_/http%3A//site.pfaw.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfaw.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630174352id_/http%3A//www.pfaw.org/privacypolicy) for the most accurate reproduction.*
 
-# People For the American Way: Privacy Policy
+# Privacy Policy | People For the American Way
 
 People for the American Way is committed to protecting the privacy and security of visitors to our websites. Outlined below is our online privacy policy for information collected through this website and email lists. If you have any questions about these policies, we encourage you to talk to us either by:
 
