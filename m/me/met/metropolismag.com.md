@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627000332id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630082740id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### [Information](https://web.archive.org/cda/)
-
-Posted December 6, 2006
+# Privacy Policy | Metropolis Magazine
 
 Bellerophon Publications, Inc., is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  
 
@@ -77,9 +73,7 @@ New York, NY 10010
 
 USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY POLICY
 
-|  |    
+[](http://www.addthis.com/bookmark.php?v=250&pub=metshare)
 
+  
 
-[](http://www.metropolismag.com/phpAdsNew/www/delivery/ck.php?oaparams=2__bannerid=611__zoneid=10__cb=75823dc370__maxdest=http://www.metropolismag.com/see_what_youre_missing)
-
-[](http://www.metropolismag.com/phpAdsNew/www/delivery/ck.php?oaparams=2__bannerid=540__zoneid=11__cb=065360dc84__maxdest=http://www.metropolismag.com/ce)
