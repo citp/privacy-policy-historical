@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mmohub.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153614id_/http%3A//mmohub.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmohub.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630084653id_/http%3A//mmohub.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MMO HUB.org
+# Privacy Policy | MMO Hub.org
 
-This privacy policy (hereinafter the "Privacy Policy") is applicable to this website and to all games and other activities that are offered by MMO LIFE BV. with its offices at Herengracht 574, 1017 CJ Amsterdam, The Netherlands, (hereinafter referred to as "MMO LIFE") on or through this website (this website and such games and activities hereinafter collectively referred to as the "Website"). MMO LIFE is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). MMO LIFE may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Website.
+This privacy policy (hereinafter the "Privacy Policy") is applicable to this website and to all games and other activities that are offered by MMO LIFE BV. with its offices at Kenaupark 2, 2011 MS Haarlem, The Netherlands, (hereinafter referred to as "MMO LIFE") on or through this website (this website and such games and activities hereinafter collectively referred to as the "Website"). MMO LIFE is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). MMO LIFE may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Website.
 
   1. ## General data of visitors of the Website
 
@@ -30,7 +30,7 @@ For optimizing our services and the Website and for the purposes mentioned in th
 
   5. ## Access to the information we collected about you
 
-If you wish to have access to the information that we collect about you, please send a written request thereto to MMO LIFE GAMES BV, Herengracht 574 1017 CJ Amsterdam,The Netherlands, together with a copy of your passport (to prevent misuse of requests for information).
+If you wish to have access to the information that we collect about you, please send a written request thereto to MMO LIFE GAMES BV, Kenaupark 2, 2011 MS Haarlem, The Netherlands, together with a copy of your passport (to prevent misuse of requests for information).
 
   6. ## Miscellaneous
 
