@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitepronews.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228195652id_/http%3A//www.sitepronews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepronews.com privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809100615id_/http%3A//www.sitepronews.com/privacy.html) for the most accurate reproduction.*
 
 # SiteProNews: Privacy Statement
 
