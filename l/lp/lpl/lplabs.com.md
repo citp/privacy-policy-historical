@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lplabs.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218222608id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lplabs.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630200801id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Information - Lonely Planet
 
-## Lonley Planet Privacy policy
+## Lonely Planet Privacy policy
 
 At Lonely Planet, we understand that privacy is really important. So we have prepared this privacy policy to fill you in on who we are, our objectives in handling personal information that we collect, and how you can find out more about our privacy philosophy and the personal information that we collect about you. 
 
