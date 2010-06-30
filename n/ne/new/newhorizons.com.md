@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newhorizons.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230130258id_/http%3A//www.newhorizons.com/content/terms.aspx%3Fid%3D307) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhorizons.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630085433id_/http%3A//www.newhorizons.com/content/terms.aspx%3Fid%3D307) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 This statement discloses the privacy practices for the New Horizons Computer Learning Centers, Inc. websites and informs you about: 
 
@@ -16,15 +16,15 @@ This statement discloses the privacy practices for the New Horizons Computer Lea
 
 “Personal information” is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone number or email address.
 
-This Privacy Policy is incorporated into and subject to the terms of our Terms of Use at <http://www.newhorizons.com/termsofuse> and you agree to be bound by its terms and conditions.  This policy only addresses our activities from our servers.  Other sites (including those that we link to and third party sites or services which we co-brand, such as email) may have their own policies, which we do not control, and thus are not addressed by this policy.
+This Privacy Policy is incorporated into and subject to the terms of our Terms of Use at [http://www.newhorizons.com/termsofuse](https://web.archive.org/termsofuse "blocked::http://www.newhorizons.com/termsofuse") and you agree to be bound by its terms and conditions.  This policy only addresses our activities from our servers.  Other sites (including those that we link to and third party sites or services which we co-brand, such as email) may have their own policies, which we do not control, and thus are not addressed by this policy.
 
 ## Introduction
 
-To provide you with the best possible service, New Horizons from time to time may ask for personal information. You may update or access the personal information you provide for your profile at any time on [_www.newhorizons.com_](http://www.newhorizons.com/) and [www.nhenglish.com](http://www.nhenglish.com/) (the "New Horizons English Learning Centers Website"), (collectively, with the E-Tips site (defined below), the "NH Website"). This can be done by logging on to any NH Website and selecting either "Edit Your Profile", "Change my Profile" or "Edit Your User Information." For security measures, in order to protect your information, you must first enter your user name and password before you can make any changes to your user profile. When you update your user profile, your new information will update our records that day.
+To provide you with the best possible service, New Horizons from time to time may ask for personal information. You may update or access the personal information you provide for your profile at any time on [_www.newhorizons.com_](https://web.archive.org/) and [www.nhenglish.com](http://www.nhenglish.com/) (the "New Horizons English Learning Centers Website"), (collectively, with the E-Tips site (defined below), the "NH Website"). This can be done by logging on to any NH Website and selecting either "Edit Your Profile", "Change my Profile" or "Edit Your User Information." For security measures, in order to protect your information, you must first enter your user name and password before you can make any changes to your user profile. When you update your user profile, your new information will update our records that day.
 
 This policy is to make you aware as to who is collecting the information, what type of information is gathered and tracked, what the information is for, and with whom the information is shared.
 
-Attention: [_www.newhorizons.com_](http://www.newhorizons.com/) is the main home page to New Horizons Computer Learning Centers, Inc., which has the general privacy policy for the NH Website. This policy illustrates customer information that could be collected throughout the [_www.newhorizons.com_](http://www.newhorizons.com/) Website. It is possible that not all personal information outlined in this policy will be used, but we want you to be aware of our policy and understand our procedures.
+Attention: [_www.newhorizons.com_](https://web.archive.org/) is the main home page to New Horizons Computer Learning Centers, Inc., which has the general privacy policy for the NH Website. This policy illustrates customer information that could be collected throughout the [_www.newhorizons.com_](https://web.archive.org/) Website. It is possible that not all personal information outlined in this policy will be used, but we want you to be aware of our policy and understand our procedures.
 
 ## Information Gathered and How it is Used
 
@@ -66,13 +66,13 @@ If you decide to submit an Information Request Form, you will occasionally recei
 
 ## Compliance with US-EU Safe Harbor Privacy Principles.
 
-To the extent that the NH Website is used to collect, process or store personal data belonging to individuals located in, or employed by entities located in, the European Union (“EU Parties”), our handling of that data adheres to the US-EU Safe Harbor Principles (“Safe Harbor”).  Although we use reasonable efforts to verify the accuracy of data submitted by users of the NH Website, users are expected to update their personal information by going to [_http://www.newhorizons.com_](http://www.newhorizons.com/) when necessary to ensure that their personal data is accurate, complete and current.  We are committed to cooperating with data protection authorities located in Europe to resolve and remedy any disputes that arise regarding data connected to individuals located in (or employed by entities located in) Europe.
+To the extent that the NH Website is used to collect, process or store personal data belonging to individuals located in, or employed by entities located in, the European Union (“EU Parties”), our handling of that data adheres to the US-EU Safe Harbor Principles (“Safe Harbor”).  Although we use reasonable efforts to verify the accuracy of data submitted by users of the NH Website, users are expected to update their personal information by going to [_http://www.newhorizons.com_](https://web.archive.org/) when necessary to ensure that their personal data is accurate, complete and current.  We are committed to cooperating with data protection authorities located in Europe to resolve and remedy any disputes that arise regarding data connected to individuals located in (or employed by entities located in) Europe.
 
 ## Links
 
 We occasionally place links to relevant, outside resources within the NH Website. Be aware New Horizons is not responsible for the privacy practices or the content of such other sites. We encourage you to investigate and ask questions before disclosing information to third parties.  If you do not want your information to be used, do not share your information with those sites. Third party links include learning centers outside the United States on the NH Website.
 
-On the [_http://www.newhorizons.com_](http://www.newhorizons.com/) website, under "Company," the investor relations and career centers, and under "Student Resources", the Exam Prep and Learning Port, are hosted by a third party. New Horizons is not responsible for the privacy practices of these third parties.
+On the [_http://www.newhorizons.com_](https://web.archive.org/) website, under "Company," the investor relations and career centers, and under "Student Resources", the Exam Prep and Learning Port, are hosted by a third party. New Horizons is not responsible for the privacy practices of these third parties.
 
 ## Security
 
