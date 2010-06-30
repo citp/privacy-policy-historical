@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227230220id_/http%3A//www.aza.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630044959id_/http%3A//aza.org/privacy) for the most accurate reproduction.*
 
 # Association of Zoos and Aquariums - Privacy Statement for www.aza.org
 
