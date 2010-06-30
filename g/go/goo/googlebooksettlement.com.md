@@ -1,23 +1,16 @@
-> *The following text is extracted and transformed from the googlebooksettlement.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230062911id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py%3Fanswer%3D128055%26hl%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlebooksettlement.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630062103id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py%3Fanswer%3D128055%26hl%3Den) for the most accurate reproduction.*
 
 # Google Book Settlement
 
-﻿ 
-
-  * [Help Center Home](https://web.archive.org/web/20091230062911id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=134644&hl=en)
-  * [FAQs](https://web.archive.org/web/20091230062911id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118704&hl=en)
-  * [Glossary](https://web.archive.org/web/20091230062911id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118722&hl=en)
-  * [Contact Us](https://web.archive.org/web/20091230062911id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118721&hl=en)
-  * [Settlement Home  
-](http://www.googlebooksettlement.com/intl/en/)
-
-| 
-
+  
+**Google Book Settlement**  
+****  
 **PRIVACY POLICY** Last Updated December 31, 2008
 
-  1. _**General**_
+    » 
 
-This Privacy Policy applies to the [Google Book Search Settlement Website](http://www.googlebooksettlement.com/) (the "Settlement Website"), which has been established by Rust Consulting, Inc. (the "Settlement Administrator") to provide information about, and to receive and process claims for, the Google Book Settlement (the "Settlement"). The Settlement Administrator maintains the Settlement Website, which, in the future, will be maintained by the [Book Rights Registry](https://web.archive.org/web/20091230062911id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118704#q34) (the "Registry"). For purposes of this Privacy Policy, we refer to the Settlement Administrator, the Registry and Class Counsel as "we" or "us." Google Inc. is providing technical support and hosting services to us.
+_**General**_   
+This Privacy Policy applies to the [Google Book Search Settlement Website](http://www.googlebooksettlement.com/) (the "Settlement Website"), which has been established by Rust Consulting, Inc. (the "Settlement Administrator") to provide information about, and to receive and process claims for, the Google Book Settlement (the "Settlement"). The Settlement Administrator maintains the Settlement Website, which, in the future, will be maintained by the [Book Rights Registry](https://web.archive.org/web/20100630062103id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118704#q34) (the "Registry"). For purposes of this Privacy Policy, we refer to the Settlement Administrator, the Registry and Class Counsel as "we" or "us." Google Inc. is providing technical support and hosting services to us.
 
 This Privacy Policy applies to information that you submit through the Settlement Website, on paper Claim Forms, or otherwise. This Privacy Policy does not apply to any information that is publicly available, that is lawfully obtained from outside sources or that you may submit to other websites or in connection with other programs, including the Google Book Search Partner Program.
 
@@ -29,29 +22,35 @@ We recommend that you review this Privacy Policy regularly to ensure that you ar
 
 If we use a capitalized term in this Privacy Policy, that term has the same meaning as in the [Settlement Agreement](http://www.googlebooksettlement.com/agreement.html), unless we define it otherwise in this Privacy Policy.
 
-  
+    » 
 
-  2. _**Information Collected**_
-    1. **Personally Identifiable Information**
+_**Information Collected**_
 
+    » **Personally Identifiable Information**   
 "Personally Identifiable Information" as used in this Privacy Policy is information that identifies you or can be used to identify or contact you, including your name, street address, email address, telephone number, social security number, taxpayer identification number, and your computer’s unique identifier information. We collect Personally Identifiable Information in a variety of places on the Settlement Website, such as when you:
 
-      * Sign up to receive the Notice of Class Action Settlement and other information about the Settlement;
-      * Open a Registry account or edit your Registry account details;
-      * Contact us through the Settlement Website to request information from us or for other purposes relating to the Settlement;
-      * Claim your Books and Inserts to participate in the Settlement;
-      * Manage your Books and Inserts, including Removing your Books, requesting that your Books not be digitized, excluding your Books or Inserts from Display Uses and including your Books in Display Uses; and
-      * Opt out of the Settlement.
-    2. **Other Information**
+    » Sign up to receive the Notice of Class Action Settlement and other information about the Settlement;
 
+    » Open a Registry account or edit your Registry account details;
+
+    » Contact us through the Settlement Website to request information from us or for other purposes relating to the Settlement;
+
+    » Claim your Books and Inserts to participate in the Settlement;
+
+    » Manage your Books and Inserts, including Removing your Books, requesting that your Books not be digitized, excluding your Books or Inserts from Display Uses and including your Books in Display Uses; and
+
+    » Opt out of the Settlement.
+
+    » **Other Information**   
 We may receive data sent by your browser or as a result of the Settlement Website’s use of "cookies."
 
 When you visit the Settlement Website, we send one or more cookies – a small file containing a string of characters – to your computer. We use cookies for various reasons, including to enable us to recognize when you are logged in to the Settlement Website and to provide access to your account while you are logged in, to store your language preferences and to facilitate your use of the Settlement Website. You may be able to control how cookies are used by consulting your Internet browser software.
 
 In addition, your browser may send us information, such as your requests to the Settlement Website, Internet Protocol address, browser type, browser language and the date and time of your request.
 
-  3. _**Use of Information**_
+    » 
 
+_**Use of Information**_   
 We will only use or disclose your information in accordance with this Privacy Policy or as authorized by you. We may use your information to administer the Settlement, including to respond to your inquiries, directions and requests regarding the Settlement, for the processing and administration of claims and payments (e.g., to send you amounts due under the Settlement), to effectuate the Settlement (including to use your content in accordance with the Settlement), and to improve our Settlement administration services. We also may use your information to communicate with you about the status of the Settlement, the uses of your Books and Inserts as provided by the Settlement or otherwise, the benefits available under the Settlement, and matters relating to the Registry.
 
 We will not associate Personally Identifiable Information collected from you through the Settlement Website with any of your Personally Identifiable Information that we obtain from sources other than you or other than through the Settlement Website except for the uses specified by this Privacy Policy, unless such information is public or as authorized by you.
@@ -74,8 +73,9 @@ We may use independent contractors, vendors and suppliers ("Outside Contractors"
 
 We and our Outside Contractors may process your information on servers in the United States of America and in other countries. We may process your information on servers outside your own country.
 
-  4. _**Google**_
+    » 
 
+_**Google**_   
 Google will receive your information either (1) in its capacity as host of the Settlement Website or (2) pursuant to the Settlement Agreement.
 
 **Google as Settlement Website Host**
@@ -86,15 +86,16 @@ When you provide information through the Settlement Website, Google, in its capa
 
 Pursuant to the Settlement Agreement we will share with Google certain information. The Settlement Agreement requires that Google maintain and keep in strict confidence any Personally Identifiable Information we provide to Google and that Google not use or disclose any such information for any purpose other than to effectuate the Settlement Agreement. The only two exceptions to these restrictions are (a) if the Personally Identifiable Information is publicly available or legally obtained by Google from other sources; or, (b) if the use or disclosure is authorized by you or the disclosure is required by law.
 
-  5. _**Access to and Removal of Information**_
+    » 
 
+_**Access to and Removal of Information**_   
 At any time, you may request access to our copy of your Personally Identifiable Information by contacting us at the email or postal addresses below. You may also modify our copy of your Personally Identifiable Information by editing your account information on the Settlement Website.
 
 You may request that we delete your Personally Identifiable Information stored by us in electronic form. We will honor your request but we are unable to guarantee that all such information will be deleted because some residual information may remain on back-up storage and other media. Please note that deletion of some or all of your Personally Identifiable Information may affect your ability to participate in the Settlement, including your right to claim a Book or Insert.
 
 If you have questions about this Privacy Policy or wish to contact us, please contact us by email at [privacy@rustconsulting.com](mailto:privacy@rustconsulting.com) or by postal mail at Settlement Administrator, c/o Rust Consulting, Inc., P.O. Box 9364, Minneapolis, MN 55440-9364.
 
-
-
-
-| 
+[Help articles](https://web.archive.org/help/bin/topic.py?hl=en&topic=13526)   
+[Terms of Service](http://www.google.com/m/terms)  
+[Google Home](http://www.google.com/m)  
+©2010 Google 
