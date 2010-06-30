@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zipform.com privacy policy that was archived on 2009-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090429205624id_/http%3A//www.zipform.com/company/privacystatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zipform.com privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630123526id_/http%3A//zipform.com/company/privacystatement.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Statement</title>
@@ -54,7 +54,7 @@ if (!ver4) event = null;
 if (isMenu) {
   menuVersion = 3;
   menuWidth = 90; 
-  childOverlap = 1; 
+  childOverlap = -1; 
   childOffset = -1; 
   perCentOver = null; 
   secondsVisible = .1; 
@@ -122,7 +122,7 @@ function learnSomething(){
 //============================================================================
 //global variable to keep all menus the same height from the top of the document.
 
-var mnuHeight = 101
+var mnuHeight = 100
 
 // COMPANY MAINMENU MENU  ================================================
 var arMenu1 = new Array(
@@ -146,110 +146,64 @@ var arMenu2 = new Array(
 "","",
 "","",
 "","",
-"ZipFormOnline","/products/zipformonline/index.asp",1,
-"ZipFormOnline Plus","/products/zipformonlineplus/productdetails.asp",1,
-"ZipFormDesktop","/products/zipformdesktop/index.asp",1,
-"RELAY","/tms/index.asp",1,
-"ZipFormMobile","/products/zipformmobile/productdetails.asp",1,
-"ZipFormMac-Connect","/products/zipformmac/productdetails.asp",1,
+"zipForm 6","/zipForm6/index.asp",1,
+"zipOfficePro","/zipofficepro/index.asp",0,
+"relay - TMS","/relay/index.asp",1,
+"zipLogix Digital Ink","/digitalink/index.asp",0,
+"zipForm Mobile","/zfmobile/index.asp",1,
 "Forms Advisor","/products/formsadvisor/index.asp",0,
-"realPING","/products/realping/productdetails.asp",1,
-"ZipFormSafeCall","/products/safecall/index.asp",1,
+"zipForm SafeCall","/products/safecall/index.asp",1,
 "Interactive Training CD","/products/trainingCD/index.asp",1,
-"ZipFormMLS-Connect","/products/mlsconnect/productdetails.asp",1,
-"Available Form Libraries","/products/zipformdesktop/availablelibraries.asp",0
+"zipForm MLS-Connect","/products/mlsconnect/productdetails.asp",1
 )
 
-// PRODUCTS-Online SUBMENU MENU  ================================================
+// PRODUCTS-zipForm6 SUBMENU MENU  ================================================
 var arMenu2_1 = new Array(
-"Buy Now","/order/order.asp?promocode=W384",0,
-"Product Details","/products/zipformonline/productdetails.asp",0,
-"Live Online Demonstration","/sales/democalendar.asp",0,
-"Product FAQ","/products/zipformonline/faq.asp",0,
-"Existing User Login","/products/zipformonline/login.asp",0,
-"Server Status","/products/zipformonline/ZFOStatus.asp",0
+"zipForm 6 Standard","/zipForm6/zf6standard.asp",0,
+"zipForm 6 Professional","/zipForm6/zf6professional.asp",0,
+"zipForm 6 Elite","/zipForm6/zf6elite.asp",0,
+"Available Form Libraries","/zipForm6/availablelibraries.asp",0
 )
 
-// PRODUCTS-OnlinePlus SUBMENU MENU  ================================================
-var arMenu2_2 = new Array(
-"Buy Now","/order/order.asp?promocode=",0,
-"Product Details","/products/zipformonlineplus/productdetails.asp",0,
-"Live Online Demonstration","/sales/democalendar.asp",0,
-"Features","/products/zipformonlineplus/features.asp",0
-)
-
-// PRODUCTS-Desktop SUBMENU MENU  ================================================
+// PRODUCTS-relay SUBMENU MENU  ================================================
 var arMenu2_3 = new Array(
-"Buy Now","/order/order.asp?promocode=",0,
-"Product Details","/products/zipformdesktop/productdetails.asp",0,
-"Live Online Demonstration","/sales/democalendar.asp",0,
-"Available Libraries","/products/zipformdesktop/availablelibraries.asp",0,
-"Product FAQ","/products/zipformdesktop/faq.asp",0,
-"Download the<br>Latest Forms","/support/updates.asp",0,
-"Download a Demo","/products/zipformdesktop/demodownload.asp",0
-)
-
-// PRODUCTS-RELAY SUBMENU MENU  ================================================
-var arMenu2_4 = new Array(
-"Buy Now","https://www.zipform.com/ecommerce/relayorder/order.aspx?pr=relay&pc=W383",0,
-"Product Details","/tms/index.asp",0,
-"Live Online Demonstration","/sales/democalendar.asp",0,
-"Features","/tms/features.asp",0,
-"Support","http://ww9.aitsafe.com/go.htm?go=www.rebt.com/Supportrequest.asp&afid=11775&tm=0&im=1",0,
-"Information Request","/tms/relay_contact.asp",0,
-"My Member Benefit","/tms/member_benefit.asp",0
+"Buy Now","https://www.zipform.com/ecommerce/relayorder/order.aspx",0,
+"Product Details","/relay/index.asp",0,
+"Live Online Demonstration","/relay/livedemo.asp",0,
+"Features","/relay/features.asp",0,
+"Support","http://support.zipform.com/relay/relaysupport.asp",0,
+"Information Request","/relay/relay_contact.asp",0,
+"My Member Benefit","/relay/member_benefit.asp",0
 )
 
 // PRODUCTS-Mobile SUBMENU MENU  ================================================
 var arMenu2_5 = new Array(
-"Buy Now","/order/order.asp?pr=mobile",0,
-"Product Details","/products/zipformmobile/productdetails.asp",0,
-"Product FAQ","http://support.zipform.com/zfm/zfmfaq.asp",0,
-"System Requirements","/products/zipformmobile/requirements.asp",0
-)
-
-// PRODUCTS-MacConnect SUBMENU MENU  ================================================
-var arMenu2_6 = new Array(
-"Buy Now","/order/order.asp?pr=zipformmac",0,
-"Product Details","/products/zipformmac/productdetails.asp",0,
-"System Requirements","/products/zipformmac/requirements.asp",0,
-"User Login","http://mac.zipform.com",0
-)
-
-// PRODUCTS-realPING SUBMENU MENU  ================================================
-var arMenu2_8 = new Array(
-"Buy Now","/ecommerce/realPingorder/order.aspx",0,
-"Product Details","/products/realping/productdetails.asp",0,
-"FAQ","/products/realping/faq.asp",0,
-"How It Works","/products/realping/howitworks.asp",0,
-"Custom Branding","/products/realping/custombranding.asp",0,
-"realPING Support","http://support.zipform.com/realping/support.asp",0,
-"realPING Login","http://www.realping.com/myrealping/index.cfm",0
+"for the Treo","/zfmobile/zfm_treo.asp",0,
+"for the iPhone","/zfmobile/zfm_iphone.asp",0
 )
 
 // PRODUCTS-Safe Call SUBMENU MENU  ================================================
-var arMenu2_9 = new Array(
+var arMenu2_7 = new Array(
 "Web Based Solution","/products/safecall/webapp/index.asp",0,
 "Do-Not-Call FAQ","/products/safecall/faq.asp",0
 )
 
 // PRODUCTS-Training CD SUBMENU MENU  ================================================
-var arMenu2_10 = new Array(
-"Buy Now","/order/zipdelivery/trainingCDorder.asp",0,
-"Product Details","/products/trainingCD/productdetails.asp",0
+var arMenu2_8 = new Array(
+"Buy Now","/order/add_products.asp",0,
+"Product Details","/products/trainingCD/index.asp",0
 )
 
 // PRODUCTS-MLS Connect SUBMENU MENU  ================================================
-var arMenu2_11 = new Array(
-"Buy Now","https://www.zipform.com/order/zipdelivery/secure/MLSOrder.asp",0,
+var arMenu2_9 = new Array(
+"Buy Now","https://www.zipform.com/products/mlsconnect/mls_list.asp",0,
 "Product Details","/products/mlsconnect/productdetails.asp",0,
-"Available MLS's","/products/mlsconnect/mls_list.asp",0,
 "Information Request","/products/mlsconnect/getinfo.asp",0,
 "Tutorial","/tutorials/mlsconnect.asp",0
 )
 
 // PRODUCTS-ZipFormConcierge SUBMENU MENU  ================================================
-var arMenu2_12 = new Array(
+var arMenu2_10 = new Array(
 "Product Details","/products/concierge/index.asp",0,
 "REALTOR® FAQ","/products/concierge/realtor_faq.asp",0,
 "Consumer Information","http://www.zipformconcierge.com/faqs.pl",0,
@@ -265,36 +219,28 @@ var arMenu3 = new Array(
 "","",
 "","",
 "","",
-"Software Updates","/support/softwareupdates.asp",0,
 "Form Updates","/support/updates.asp",0,
-"Company Info Change","/products/zipformdesktop/BrokerValidation.asp",0,
-"Viewers","/support/viewers.asp",0,
 "Support & FAQ's","/support/contact.asp",0,
 "How-To Videos","http://support.zipform.com/videos.asp",0,
 "Live Online Training","/training/trainingcalendar.asp",0,
-"Documentation","/support/#manuals",0
+"Documentation","http://support.zipform.com/documentation.asp",0
 )
 
 // PURCHASE MAINMENU MENU  ================================================
 var arMenu4 = new Array(
-165,
+185,
 238,mnuHeight,
 "","",
 "","",
 "","",
-"Buy ZipFormOnline","/order/order.asp?promocode=W384",0,
-"Buy ZipFormOnline Plus","/order/order.asp?promocode=",0,
-"Buy ZipFormDesktop","/order/order.asp?promocode=",0,
-"Buy RELAY","https://www.zipform.com/ecommerce/relayorder/order.aspx?pr=relay&pc=W383",0,
-"Buy ZipFormMobile","/order/order.asp?pr=mobile",0,
-"Buy ZipFormMac-Connect","/order/order.asp?pr=mac",0,
-"Buy realPING","/ecommerce/realPingorder/order.aspx",0,
-"Buy Interactive Training CD","/order/zipdelivery/trainingCDorder.asp",0,
-"Buy ZipFormMLS-Connect","https://www.zipform.com/order/zipdelivery/secure/MLSOrder.asp",0,
-"Renew","/order/renewalinstructions.asp",0,
+"zipForm 6","http://www.zipform.com/order/order.asp",0,
+"relay","https://www.zipform.com/ecommerce/e-commerce/order.aspx",0,
+"zipLogix Digital Ink Credits","/digitalink/available.asp",0,
+"zipForm Mobile","/order/add_products_zfp.asp",0,
+"Interactive Training CD","/order/add_products.asp",0,
+"zipForm MLS-Connect","https://www.zipform.com/products/mlsconnect/mls_list.asp",0,
 "Order a Custom Logo","/order/customlogo.asp",0,
-"Download Additional Copies","/order/DownloadAdditionalCopies.asp",0,
-"Activate ZipFormDesktop","/order/activate.asp",0
+"Download zipForm 6 Standard","http://support.zipform.com/zf6/KBA-01464.asp",0
 )
 
 // BROKERS MAINMENU MENU  ================================================
@@ -319,10 +265,9 @@ var arMenu6 = new Array(
 "","",
 "","",
 "Live Online Training","/training/trainingcalendar.asp",0,
-"Available Training","/training/trainers_list.asp",1,
-"Become a Trainer","/training/become.asp",1,
-"Trainers Toolbox","/training/toolbox.asp",1,
-"Interactive Training CD","/products/trainingCD/index.asp",0
+"Find a Trainer","/training/trainers_list.asp",0,
+"Become a Trainer","/training/become.asp",0,
+"Trainer Information","/training/information.asp",0
 )
 
 // TRAINING SUBMENU MENU  ================================================
@@ -343,7 +288,6 @@ var arMenu6_3 = new Array(
 // TRAINING SUBMENU MENU  ================================================
 var arMenu6_4 = new Array(
 "Submit Your Class","/training/submit_class.asp",0,
-"Pledge","/training/pledge.asp",0,
 "Contact Us","/training/contact_us.asp",0
 )
 
@@ -465,39 +409,42 @@ function theLinks(arrName){
 
 </script>
 
-	<table border="0" cellpadding="0" cellspacing="0" width="798" id="Table1" height="102">
-	  <tbody><tr>
-		<td width="332" height="67" align="left" valign="top" bgcolor="white"><a href="/"><img src="/images/ziplogix_phase1/ziplogix_top.gif" height="67" alt="Real Estate Software" width="798" border="0"></a></td>
+	<table border="0" cellpadding="0" cellspacing="0" width="798" id="Table1">
+	  <tbody><tr height="68">
+		<td width="332" height="68" align="left" valign="top" bgcolor="white"><a href="/"><img src="/images/ziplogix_phase1/ziplogix_top.gif" height="68" alt="Real Estate Software" width="798" border="0"></a></td>
 	</tr>
-			<tr>
-		<td width="332" height="35" align="left" valign="top">
+	<tr height="32">
+		<td width="332" height="32" align="left" valign="top">
   <table width="505" border="0" cellspacing="0" cellpadding="0" id="Table2">
 					<tbody><tr>
 						<td align="left" valign="top" width="89">
-<a href="/company/" class="topMenu" onmouseover="popUp('elMenu1',event); mouseIt('buttoncompany','companyon');" onmouseout="popDown('elMenu1'); mouseIt('buttoncompany','companyoff');"><img src="/images/ziplogix_phase1/main_company.gif" alt="Company" width="89" height="35" border="0" name="buttoncompany"></a></td>
+<a href="/company/" class="topMenu" onmouseover="popUp('elMenu1',event); mouseIt('buttoncompany','companyon');" onmouseout="popDown('elMenu1'); mouseIt('buttoncompany','companyoff');"><img src="/images/ziplogix_phase1/main_company.gif" alt="Company" width="89" height="32" border="0" name="buttoncompany"></a></td>
 
 
-					  <td align="left" valign="top" width="68"><a href="/products/" class="topMenu" onmouseover="popUp('elMenu2',event); mouseIt('buttonproducts','productson');" onmouseout="popDown('elMenu2'); mouseIt('buttonproducts','productsoff');"><img src="/images/ziplogix_phase1/main_products.gif" width="79" height="35" border="0" name="buttonproducts" alt="Products"></a></td>
+					  <td align="left" valign="top" width="68"><a href="/products/" class="topMenu" onmouseover="popUp('elMenu2',event); mouseIt('buttonproducts','productson');" onmouseout="popDown('elMenu2'); mouseIt('buttonproducts','productsoff');"><img src="/images/ziplogix_phase1/main_products.gif" width="79" height="32" border="0" name="buttonproducts" alt="Products"></a></td>
                         
                         
-					  <td align="left" valign="top" width="71"><a href="http://support.zipform.com" class="topMenu" onmouseover="popUp('elMenu3',event); mouseIt('buttonsupport','supporton');" onmouseout="popDown('elMenu3'); mouseIt('buttonsupport','supportoff');"><img src="/images/ziplogix_phase1/main_support.gif" alt="Support" width="70" height="35" border="0" name="buttonsupport"></a></td>
+					  <td align="left" valign="top" width="71"><a href="http://support.zipform.com" class="topMenu" onmouseover="popUp('elMenu3',event); mouseIt('buttonsupport','supporton');" onmouseout="popDown('elMenu3'); mouseIt('buttonsupport','supportoff');"><img src="/images/ziplogix_phase1/main_support.gif" alt="Support" width="70" height="32" border="0" name="buttonsupport"></a></td>
                         
                         
-					  <td align="left" valign="top" width="65"><a href="/order/" class="topMenu" onmouseover="popUp('elMenu4',event); mouseIt('buttonpurchase','purchaseon');" onmouseout="popDown('elMenu4'); mouseIt('buttonpurchase','purchaseoff');"><img src="/images/ziplogix_phase1/main_purchase.gif" width="81" height="35" border="0" name="buttonpurchase" alt="Purchase"></a></td>
+					  <td align="left" valign="top" width="65"><a href="/order/" class="topMenu" onmouseover="popUp('elMenu4',event); mouseIt('buttonpurchase','purchaseon');" onmouseout="popDown('elMenu4'); mouseIt('buttonpurchase','purchaseoff');"><img src="/images/ziplogix_phase1/main_purchase.gif" width="81" height="32" border="0" name="buttonpurchase" alt="Purchase"></a></td>
                         
                         
-					  <td align="left" valign="top" width="72"><a href="/brokers/" class="topMenu" onmouseover="popUp('elMenu5',event); mouseIt('buttonbrokers','brokerson');" onmouseout="popDown('elMenu5'); mouseIt('buttonbrokers','brokersoff');"><img src="/images/ziplogix_phase1/main_brokers.gif" alt="Brokers" width="75" height="35" border="0" name="buttonbrokers"></a></td>
+					  <td align="left" valign="top" width="72"><a href="/brokers/" class="topMenu" onmouseover="popUp('elMenu5',event); mouseIt('buttonbrokers','brokerson');" onmouseout="popDown('elMenu5'); mouseIt('buttonbrokers','brokersoff');"><img src="/images/ziplogix_phase1/main_brokers.gif" alt="Brokers" width="75" height="32" border="0" name="buttonbrokers"></a></td>
                         
                         
-					  <td align="left" valign="top" width="65"><a href="/training/" class="topMenu" onmouseover="popUp('elMenu6',event); mouseIt('buttontraining','trainingon');" onmouseout="popDown('elMenu6'); mouseIt('buttontraining','trainingoff');"><img src="/images/ziplogix_phase1/main_training.gif" alt="Training" width="75" height="35" border="0" name="buttontraining"></a></td>
+					  <td align="left" valign="top" width="65"><a href="/training/" class="topMenu" onmouseover="popUp('elMenu6',event); mouseIt('buttontraining','trainingon');" onmouseout="popDown('elMenu6'); mouseIt('buttontraining','trainingoff');"><img src="/images/ziplogix_phase1/main_training.gif" alt="Training" width="75" height="32" border="0" name="buttontraining"></a></td>
                         
                         
-					<td align="left" valign="top" width="65"><img src="/images/ziplogix_phase1/menubar_right.gif" alt="" height="35" width="329" border="0"></td>
+					<td align="left" valign="top" width="65"><img src="/images/ziplogix_phase1/menubar_right.gif" alt="" height="32" width="329" border="0"></td>
 		</tr>
 				</tbody></table>
 		</td>
 	</tr>
-		</tbody></table>
+	<tr>
+		<td width="332" align="left" valign="top"><img src="../images/holiday/july4.gif" alt="" height="28" width="798" border="0"></td>
+	</tr>
+</tbody></table>
 	<!-- NEW MENUBAR -->
 
 
@@ -645,51 +592,75 @@ RE FormsNet welcomes your comments regarding its products and this Statement of 
 					<div align="left">
 						<table width="781" align="center" border="0" cellpadding="0" cellspacing="0">
 							<tbody><tr height="5">
-								<td align="left" valign="top" width="80" height="5"></td>
-								<td align="left" valign="top" width="595" height="5"></td>
-								<td valign="top" align="left" width="105" height="5"><img src="/images/spacer.gif" alt="" height="5" width="78" border="0"></td>
+								<td align="left" valign="top" width="167" height="5"></td>
+								<td align="left" valign="top" width="453" height="5"></td>
+								<td valign="top" align="left" width="160" height="5"><img src="/images/spacer.gif" alt="" height="5" width="78" border="0"></td>
 								<td valign="top" align="left" width="1" height="5"></td>
 							</tr>
 							<tr height="43">
-								<td align="left" valign="top" width="80" height="43">
+								<td align="left" valign="top" width="167" height="43">
 									<div align="left">
-										<img src="/images/footer/re_secure.gif" border="0" alt="REALTOR Secure;reg; sites follow best practices." onclick="javascript:window.open('http://www.crt.realtors.org:7103/REALTORSecureVerify?id=100201', '100201', 'location=no,toolbar=no,scrollbars=no,resizable=yes,directories=no,status=no,width=600,height=385'); return false;"></div>								</td>
-						  <td valign="top" align="left" width="595" height="43"><table width="594" border="0" cellspacing="0" cellpadding="0">
-                            <tbody><tr height="5">
-                              <td width="594" height="5"><img src="/images/spacer.gif" alt="spacer" height="5" width="78" border="0"></td>
-                            </tr>
-                            <tr>
-                              <td><div align="center">
-                                  <table width="332" align="center" border="0" cellpadding="0" cellspacing="0">
-                                    <tbody><tr height="20">
-                                      <td valign="middle" align="left" width="102" height="20"><div align="center"> <a class="footAnchor" href="http://www.zipform.com/company/termsofuse.asp">TERMS OF USE</a></div></td>
-                                      <td valign="middle" align="left" bgcolor="#dedede" width="1" height="20"><img src="/images/spacer.gif" alt="spacer" height="8" width="1" border="0"></td>
-                                      <td valign="middle" align="left" width="74" height="20"><div align="center"> <a class="footAnchor" href="http://www.zipform.com/company/privacystatement.asp">PRIVACY</a></div></td>
-                                      <td valign="middle" align="left" bgcolor="#dedede" width="1" height="20"><img src="/images/spacer.gif" alt="spacer" height="8" width="1" border="0"></td>
-                                      <td valign="middle" align="left" width="85" height="20"><div align="center"> <a class="footAnchor" href="http://www.zipform.com/company/contacts.asp">CONTACT US</a></div></td>
-                                      <td valign="middle" align="left" bgcolor="#dedede" width="1" height="20"><img src="/images/spacer.gif" alt="spacer" height="8" width="1" border="0"></td>
-                                      <td valign="middle" align="left" width="68" height="20"><div align="center"> <a class="footAnchor" href="http://support.zipform.com">SUPPORT</a></div></td>
-                                    </tr>
-                                  </tbody></table>
-                                <font size="1"><br>
-                              </font><span class="footer"> ©Copyright 2009, zipLogix. All Rights Reserved</span></div></td>
-                            </tr>
-                          </tbody></table></td>
-								<td valign="top" align="left" width="105" height="43">
-									<div align="right"><script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=w6oj3&#10;BiUhZxla6RNVXaQ7Nc3X2IqDb"></script><noscript><a
-href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6oj3B
-iUhZxla6RNVXaQ7Nc3X2IqDb" target="hATW"><img
-src="https://sealserver.trustkeeper.net/compliance/seal.php?code=w6oj3BiU
-hZxla6RNVXaQ7Nc3X2IqDb" border="0" alt="Trusted
-Commerce"/></a></noscript>
-										</div>								</td>
+										<img src="/images/footer/re_secure.gif" border="0" alt="REALTOR Secure;reg; sites follow best practices." onclick="javascript:window.open('http://www.crt.realtors.org:7103/REALTORSecureVerify?id=100201', '100201', 'location=no,toolbar=no,scrollbars=no,resizable=yes,directories=no,status=no,width=600,height=385'); return false;"> </div>
+								</td>
+								<td valign="top" align="left" width="453" height="43">
+									<div align="center">
+										<table width="336" border="0" cellspacing="0" cellpadding="0">
+											<tbody><tr height="5">
+												<td width="336" height="5"><img src="/images/spacer.gif" alt="spacer" height="5" width="78" border="0"></td>
+											</tr>
+											<tr>
+												<td width="336">
+													<div align="center">
+														<table width="332" align="center" border="0" cellpadding="0" cellspacing="0">
+															<tbody><tr height="20">
+																<td valign="middle" align="left" width="102" height="20">
+																	<div align="center">
+																		<a class="footAnchor" href="http://www.zipform.com/company/termsofuse.asp">TERMS OF USE</a></div>
+																</td>
+																<td valign="middle" align="left" bgcolor="#dedede" width="1" height="20"><img src="/images/spacer.gif" alt="spacer" height="8" width="1" border="0"></td>
+																<td valign="middle" align="left" width="74" height="20">
+																	<div align="center">
+																		<a class="footAnchor" href="http://www.zipform.com/company/privacystatement.asp">PRIVACY</a></div>
+																</td>
+																<td valign="middle" align="left" bgcolor="#dedede" width="1" height="20"><img src="/images/spacer.gif" alt="spacer" height="8" width="1" border="0"></td>
+																<td valign="middle" align="left" width="85" height="20">
+																	<div align="center">
+																		<a class="footAnchor" href="http://www.zipform.com/company/contacts.asp">CONTACT US</a></div>
+																</td>
+																<td valign="middle" align="left" bgcolor="#dedede" width="1" height="20"><img src="/images/spacer.gif" alt="spacer" height="8" width="1" border="0"></td>
+																<td valign="middle" align="left" width="68" height="20">
+																	<div align="center">
+																		<a class="footAnchor" href="http://support.zipform.com">SUPPORT</a></div>
+																</td>
+															</tr>
+														</tbody></table>
+														<font size="1"><br>
+														</font><span class="footer">©Copyright 2010, zipLogix. All Rights Reserved</span></div>
+												</td>
+											</tr>
+										</tbody></table>
+									</div>
+								</td>
+								<td valign="top" align="left" width="160" height="43">
+									<div align="right">
+										<script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=w6oj3&#10;BiUhZxla6RNVXaQ7Nc3X2IqDb"></script>
+										<noscript>
+											<a
+href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6oj3B iUhZxla6RNVXaQ7Nc3X2IqDb" target="hATW"><img
+src="https://sealserver.trustkeeper.net/compliance/seal.php?code=w6oj3BiU hZxla6RNVXaQ7Nc3X2IqDb" border="0" alt="Trusted
+Commerce"/></a>
+										</noscript>
+									</div>
+								</td>
 							</tr>
 						</tbody></table>
-				  </div>
+					</div>
 				</div>
 			</td>
 		</tr>
 	</tbody></table>
+
+
 
 	
 
