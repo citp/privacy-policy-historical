@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227183516id_/http%3A//www.usatoday.com/marketing/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630084212id_/http%3A//www.usatoday.com/marketing/privacy-policy.htm) for the most accurate reproduction.*
 
 # USATODAY.com
 
 USATODAY.com Privacy Policy
 
-Last Updated: April 1, 2009
+Last Updated: March 1, 2010
+
+We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Policy.
 
 This Privacy Policy discloses the privacy practices of the USATODAY.com website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). In addition, this Privacy Policy does not apply to any activities (online or otherwise) of the USA TODAY print newspaper.
 
@@ -16,6 +18,7 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 Kim Jaske  
 Online Privacy Coordinator  
+[USATODAY.com](http://www.usatoday.com/)  
 Gannett Law Department   
 7950 Jones Branch Drive  
 McLean, VA 22107
@@ -32,21 +35,23 @@ We may collect and store information, including personally-identifiable informat
 
 We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open our HTML-formatted e-mail messages.
 
+If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable cookies. To disable cookies using Internet Explorer, select “Internet Options” under the Tools menu and click on “Privacy.” Select “High” or “Block All Cookies.” To disable cookies using Mozilla Firefox, select “Options” under the “Tools” menu. If you choose to disable cookies, you may not be able to use or participate in some or all of the features offered through the Site.
+
 **How is this Information Used?**
 
 We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site. 
 
-We reserve the right to use and to disclose to third parties any or all of the information that we collect online about you and other visitors in any way and for any purpose, with one important exception. We will not use the information that we collect online from you while you are using the Site, nor will we authorize third parties to use such information, to mail or e-mail promotional offers directly to you unless you have specifically informed us that you would like to receive promotional offers from us and/or from third parties. If you choose to receive these promotional offers, then your information may be used for direct mail or e-mail marketing. You may view or update your preference to receive these promotional offers by visiting [registration.usatoday.com](http://registration.usatoday.com/).
+We will not use the information that we collect while you are using the Site, nor will we authorize third parties to use such information, to mail or e-mail promotional offers directly to you unless you have specifically informed us that you would like to receive such promotional offers. If you wish to receive such promotional offers or view or update your preferences you may do so at [registration.usatoday.com](http://registration.usatoday.com/).
+
+Otherwise, we may share information we collect while you are using the Site with our affiliates and with trusted third-party service providers who assist us in providing services. If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Policy. 
+
+For information about use of your information by us and by third-party advertising service providers for advertising and by , see the section “Data Collected in Connection with Ad Serving and Targeting.”
 
 Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third party Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services. 
 
-We also make some content, products and services available through our Site through cooperative relationships with third party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly; in which cases the privacy policy of the provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. 
+We also make some content, products and services available through our Site through cooperative relationships with third party providers. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly; in which cases the privacy policy of the provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. 
 
 In addition, certain affiliated USA TODAY divisions, such as the USA TODAY print newspaper, provide online services that are separate from our Site and may be subject to privacy policies that are different from ours. If you have any question about the privacy policy that applies to the online service you are using, you should click on the relevant link on the page of the service that you are using.
-
-We are an affiliate of the CareerBuilder online careers service. Through our cooperative relationship with CareerBuilder, we are able to provide you with access to the CareerBuilder products and services through a co-branded CareerBuilder site. When you provide information through the co-branded CareerBuilder site, we may use that information in a manner consistent with this Privacy Policy, and CareerBuilder may use the information consistent with its own privacy policy (available at[ www.careerbuilder.com](https://web.archive.org/web/20091227183516id_/http%3A//www.usatoday.com/marketing/www.careerbuilder.com)).
-
-Likewise, we are an affiliate of the Topix online news service, which enables us to provide you with access to Topix products and services through a co-branded Topix site. When you provide information through the co-branded Topix site, we may use that information in a manner consistent with this Privacy Policy, and Topix may use the information consistent with its own privacy policy (available at [www.topix.com](https://web.archive.org/web/20091227183516id_/http%3A//www.usatoday.com/marketing/www.topix.com)).
 
 Please be aware that we may occasionally release information about visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](http://www.usatoday.com/marketing/tos.htm); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
@@ -54,9 +59,9 @@ Please also note that as our business grows, we may buy or sell various assets. 
 
 **_Data Collected in Connection with Ad Serving and Targeting_**
 
-We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertsements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users. 
+We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users. 
 
-We also may use third-party service providers to target and serve some of the advertisements you see on the pages of our Site, and these providers likewise may use their own cookies, web beacons and similar technologies to collect non-personally identifable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. This information also may be used to help measure and research an advertisement’s effectiveness, or for other purposes. 
+We also may use third-party service providers to target and serve some of the advertisements you see on the pages of our Site, and these providers likewise may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. This information also may be used to help measure and research an advertisement’s effectiveness, or for other purposes. 
 
 The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, e-mail address or telephone number, but it may include the IP address of your computer.
 
@@ -86,7 +91,7 @@ If you are a registered member of our Site, you can make changes to your account
 
 **_Storage of Information_**
 
-All information gathered on our Site is stored within a database to which only we and our hosting services provider are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet
+All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet
 
 **Questions Regarding Privacy**
 
@@ -94,6 +99,7 @@ If you have questions or concerns about this Privacy Policy, our privacy practic
 
 Kim Jaske  
 Online Privacy Coordinator  
+[USATODAY.com](http://www.usatoday.com/)  
 Gannett Law Department   
 7950 Jones Branch Drive  
 McLean, VA 22107
