@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citybizlist.com privacy policy that was archived on 2009-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226222427id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citybizlist.com privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630041759id_/http%3A//www.citybizlist.com/privacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="_ctl0_head"><meta name="keywords" content="Local B to B Network,Local Business Services,Local Office Space,Local Commercial Real Estate,Local Business,Barter Business,Local Classifieds,Business Listings,Local Business Listing"><meta name="description" content="citybizlist is a city-based network that includes classifieds, news, press releases, events, announcements/community, business services, jobs, blogs, barter, consulting, marketplace/for sale and sponsored links."><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	Citybizlist Baltimore Privacy Policy
@@ -10,7 +10,7 @@
 <script type="text/javascript" src="/js/200910/jquery.twitter.js"></script>
 <script type="text/javascript" src="/js/200910/utils.js"></script>
 <script type="text/javascript" src="/js/200910/sub.js"></script>
-<link href="/css/200910/shared.css" type="text/css" rel="stylesheet" media="screen"><link href="/css/200910/sub.css" type="text/css" rel="stylesheet" media="screen"><link href="/css/200910/print.css" type="text/css" rel="stylesheet" media="print"><link rel="alternate" title="Citybizlist RSS" href="/rss/rss.aspx" type="application/rss+xml">
+<link href="/css/200910/shared.css" type="text/css" rel="stylesheet" media="screen"><link href="/css/200910/sub.css" type="text/css" rel="stylesheet" media="screen"><link href="/css/200910/print.css" type="text/css" rel="stylesheet" media="print"><link href="/css/200910/gigya.css" type="text/css" rel="stylesheet" media="screen"><link rel="alternate" title="Citybizlist RSS" href="/rss/rss.aspx" type="application/rss+xml">
 
 <!--[if IE 6]>
     <script type="text/javascript" src="/js/200910/DD_belatedPNG_0.0.8a-min.js"></script>
@@ -26,20 +26,277 @@ $(function(){
 	twitterThis("citybizbmore");
 });
 </script>
+<!-- Gigya Script -->
 
-</head>
+<script src="http://cdn.gigya.com/js/socialize.js?apiKey=2_69L0zzTQANdISbhw59vSSK3j6-MqK33yGQLq9a8twxu0rIAbAxsp0i5d34fAp3wJ" type="text/javascript"></script>
+
+	<script type="text/javascript">
+		var conf =
+{
+	APIKey: '2_69L0zzTQANdISbhw59vSSK3j6-MqK33yGQLq9a8twxu0rIAbAxsp0i5d34fAp3wJ'
+	, enabledProviders: 'linkedin,facebook,twitter,yahoo,google,messenger'
+	, shortURLs: 'whenRequired'
+}
+
+	</script>
+
+	<script type="text/javascript">
+
+		gigya.services.socialize.addEventHandlers(conf, {
+			onLogin: DisplayWidgets,
+			onConnect: DisplayWidgets,
+			onDisconnect: UnDisplayWidgets
+		}
+ );
+
+		// When Connected load other components
+		function DisplayWidgets(Response) {
+			gigya.services.socialize.getUserInfo(conf, getStatus_param);
+			//gigya.services.socialize.showNewsfeedUI(conf, newsfeed_params);
+			document.getElementById('gigyaUser').setAttribute('style', 'display:block;');
+			//document.getElementById('NewsfeedWidgetDiv').setAttribute('style', 'display:block;');
+			document.getElementById('gigyaUser').style.display = "block";
+			//document.getElementById('NewsfeedWidgetDiv').style.display = "block";
+			document.getElementById('gigyaLogin').setAttribute('style', 'display:none');
+			document.getElementById('gigyaLogin').style.display = "none";
+			gigya.services.socialize.showConnectUI(conf, minilogin_params);
+			if (window.location.pathname.indexOf('submitnews', 0) != -1) {
+				checkImportConnect();
+			}
+		}
+
+		// When disconnected turn off other components
+		function UnDisplayWidgets(Response) {
+			document.getElementById('gigyaUser').setAttribute('style', 'display:none;');
+			document.getElementById('gigyaUser').style.display = "none";
+			//document.getElementById('NewsfeedWidgetDiv').style.display = "none";
+			//document.getElementById('NewsfeedWidgetDiv').setAttribute('style', 'display:none;');
+			document.getElementById('gigyaLogin').setAttribute('style', 'display:block');
+			document.getElementById('gigyaLogin').style.display = "block";
+			if (window.location.pathname.indexOf('submitnews', 0) != -1) {
+				checkImportConnect();
+			}
+		}
+
+		// Params for connect Object
+		var connect_params =
+			{
+				useHTML: true
+				, showTermsLink: false
+				, height: 30
+				, width: 200
+				, containerID: 'GigyaDiv'
+				, UIConfig: '<config><body><controls><snbuttons buttonsize="20"></snbuttons></controls></body></config>'
+				, useFacebookConnect: true
+				, headerText: 'Social Sharing'
+				, captionText: 'Connect to update your status and update your activity on citybizlist.com'
+				, showCaption: true
+				, hideGigyaLink: true
+				, onLoad: checkConnect
+			};
+
+			//Params for UserMiniLogin Object
+			var minilogin_params =
+			{
+				useHTML: true
+				, showTermsLink: false
+				, height: 20
+				, width: 110
+				, containerID: 'gigyaUserMiniLogin'
+				, UIConfig: '<config><body><controls><snbuttons buttonsize="12"></snbuttons></controls></body></config>'
+				, useFacebookConnect: true
+				//, headerText: 'Social Sharing'
+				, showCaption: false
+				//, captionText: 'Connect to update your status and update your activity on citybizlist.com'
+				, hideGigyaLink: true
+			};
+
+			//Params for Edit Connections Object
+			var editconnect_param =
+			{
+				showCaption: true,
+				captionText: 'Edit Your Citybizlist Connections',
+				showTermsLink: false
+			}
+			
+		//Params for Newsfeed Object
+		var newsfeed_params = {
+			//General parameters  
+			containerID: 'NewsfeedWidgetDiv'
+			, width: '180' 
+			, height: '200'  
+     , siteName: 'Citybizlist' //site name  
+     , updateFreq: 60   //update frequency in seconds  
+     , tabOrder: 'everyone,friends,me'  
+     , initialTab: 'everyone'  
+     , borderColor: '#aaaaaa'
+     , separatorColor: '#000000'
+			, defaultBackgroundColor: 'white'
+			//Inner widget config  
+     //, enabledProviders: 'linkedin,facebook,twitter,yahoo,myspace'   
+     , loginUI: 'default'  
+     , loginUIConfig: '<config><body><captions background-color="#52A4DA" color="#FFFFFF"></captions><texts color="#353535"><links color="#0000FF"></links></texts><controls><snbuttons color="#000000"></snbuttons><scrollingarrow color="#BBE4FF"></scrollingarrow></controls><background frame-color="Transparent"></background></body></config>' //UI XML  
+     , friendSelectorUIConfig: '<config><body><texts color="#2B2B2B"></texts><background background-color="Transparent" frame-color="#AAAAAA"></background></body></config>' //UI XML
+     , invitationText: "Come See CityBizList" //invitation text  
+     , invitationURL: window.location.href //link back URL in invitation  
+          , cid: 'newsfeed' //context id to tag data
+		};
+
+		// Params for getting User Info & Status
+		var getStatus_param = {
+			callback: printResponse
+		};
+
+		// Process User Info & Display
+		function printResponse(response) {
+			if (response.errorCode == 0) {
+				var user = response['user'];
+				var txt = document.getElementById('gigyaUserGreeting');
+				txt.textContent = "Welcome " + user['firstName'];
+				txt.innerText = "Welcome " + user['firstName'];
+				document.getElementById('gigyaUserImage').setAttribute('src', user['thumbnailURL']);
+			}
+			else {
+				alert('Error :' + response.errorMessage);
+			}
+		}
+
+		//Set New Status
+		function setStatus() {
+			gigya.services.socialize.setStatus(conf, { status: document.getElementById('newstatustext').value });
+			closeUpdateBox();
+		}
+
+		function editConnections() {
+			gigya.services.socialize.showEditConnectionsUI(conf, editconnect_param);
+		}
+
+		//Check Status When Page Loads
+		function checkConnect(Response) {
+			var checkParams = { callback: checkResponse };
+			gigya.services.socialize.getUserInfo(conf, checkParams);
+		}
+
+		//If already Logged In - display other widgets
+		function checkResponse(Response) {
+			if (Response.errorCode == 0) {
+				var user = Response['user'];
+				if (user['isConnected'] == true) {
+					DisplayWidgets();
+
+				}
+				if (window.location.pathname.indexOf('submitnews', 0) != -1) {
+					populateImportInfo(Response);
+				}
+			}
+		}
+
+		// Enable update status
+		function openUpdateBox() {
+			var panel = document.getElementById('updatepanel');
+			var openUpdate = document.getElementById('updateOpen');
+			var closeUpdate = document.getElementById('updateClose');
+			var updateMessage = document.getElementById('updateMessage');
+
+			panel.style.display = "block";
+			openUpdate.style.display = "none";
+			closeUpdate.style.display = "block";
+			updateMessage.style.display = "none";
+
+		}
+
+		//Disable update status
+		function closeUpdateBox() {
+			var panel = document.getElementById('updatepanel');
+			var openUpdate = document.getElementById('updateOpen');
+			var closeUpdate = document.getElementById('updateClose');
+			var updateMessage = document.getElementById('updateMessage');
+
+			panel.style.display = "none";
+			openUpdate.style.display = "block";
+			closeUpdate.style.display = "none";
+			updateMessage.style.display = "none";
+		}
+	</script>
+	
+	<script type="text/javascript">
+
+		// Create and Publish User's Action
+		function showShareUI() {
+
+			if (document.all) {
+				title = document.getElementsByTagName('h1')[0].innerText;
+				//title = document.getElementById('ititle').innerText;
+			}
+			else {
+				title = document.getElementsByTagName('h1')[0].textContent;
+				//title = document.getElementById('ititle').textContent;
+			}
+
+			var act = new gigya.services.socialize.UserAction();
+			act.setUserMessage("");
+
+			act.setTitle(title);
+
+			act.setLinkBack(window.location.href);
+			var image = {
+				src: 'http://a3.twimg.com/profile_images/178700859/cbl_bigger.gif',
+				href: window.location.href,
+				type: 'image'
+			}
+			act.addMediaItem(image);
+
+			// Parameters for the showShareUI method, including the UserAction object
+			var share_params =
+			{
+				userAction: act,
+				onError: onError,
+				onSendDone: onSendDone,
+				showEmailButton: true,
+				showMoreButton: true,
+				enabledProviders: 'linkedin,facebook,twitter,yahoo,google,messenger',
+				scope: 'both',
+				privacy: 'public'
+			};
+
+			// Show the "Share" dialog
+			gigya.services.socialize.showShareUI(conf, share_params);
+
+		}
+
+		// onError event handler
+		function onError(event) {
+			alert('An error has occured' + ': ' + event.status + '; ' + event.statusMessage);
+		}
+
+		// onSendDone event handler. 
+		function onSendDone(event) {
+			document.getElementById('status').style.color = "green";
+			document.getElementById('status').innerHTML =
+                            'The Social Network has been posted to: '
+		            + event.providers;
+		}
+</script>
+
+ </head>
 <body>
     <form name="aspnetForm" method="post" action="privacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxMw9kFgJmDw8WAh4HQ0JMQ2l0eTLiAgABAAAA/////wEAAAAAAAAADAIAAABIQXBwX0NvZGUuZHZiZmQ1cmgsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAASY2l0eWJpei5DQkxDaXR5XzA5CQAAAAhfaW50Q2l0eQxfc3RyQ2l0eU5hbWUNX2lzUmVhbEVzdGF0ZRJfYXBwbGljYXRpb25TdGF0dXMKX3N0cllCQ2l0eQhfc3RyUGF0aAdzdHJSb290FF9zdHJUYWdsaW5lSW1hZ2VOYW1lE19zdHJCYW5uZXJJbWFnZU5hbWUAAQABAQEBAQEIAQIAAAABAAAABgMAAAAJQmFsdGltb3JlAAYEAAAABGxpdmUJAwAAAAYGAAAAAAYHAAAAFGh0dHA6Ly8yMDcuMjIuNjYuMzcvBggAAAANYmFsdGltb3JlLmpwZwkIAAAAC2QWBAIBD2QWAgIQDxYCHgRUZXh0BQxjaXR5Yml6Ym1vcmVkAgMPZBYGAgEPZBYCZg8WAh4FY2xhc3MFCUJhbHRpbW9yZRYEZg9kFgQCAQ8WAh4LXyFJdGVtQ291bnQCChYUZg9kFgJmDxUCH2h0dHA6Ly9hdGxhbnRhLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCIWh0dHA6Ly9iYWx0aW1vcmUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAh5odHRwOi8vYm9zdG9uLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIoaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2guY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCHmh0dHA6Ly9kYWxsYXMuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAh9odHRwOi8vaG91c3Rvbi5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAh5odHRwOi8vcGhpbGx5LmNpdHliaXpsaXN0LmNvbS8MUGhpbGFkZWxwaGlhZAIHD2QWAmYPFQIiaHR0cDovL3BpdHRzYnVyZ2guY2l0eWJpemxpc3QuY29tLwpQaXR0c2J1cmdoZAIID2QWAmYPFQIkaHR0cDovL3NvdXRoZmxvcmlkYS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgkPZBYCZg8VAhpodHRwOi8vZGMuY2l0eWJpemxpc3QuY29tLw1XYXNoaW5ndG9uIERDZAIDDxYCHwMCChYUZg9kFgJmDxUCKWh0dHA6Ly9hdGxhbnRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vB0F0bGFudGFkAgEPZBYCZg8VAitodHRwOi8vYmFsdGltb3JlUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vCUJhbHRpbW9yZWQCAg9kFgJmDxUCKGh0dHA6Ly9ib3N0b25SZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIyaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2hSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8RQ2hhcmxvdHRlIFJhbGVpZ2hkAgQPZBYCZg8VAihodHRwOi8vZGFsbGFzUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkRhbGxhc2QCBQ9kFgJmDxUCKWh0dHA6Ly9ob3VzdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAihodHRwOi8vcGhpbGx5UmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCBw9kFgJmDxUCLGh0dHA6Ly9waXR0c2J1cmdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAggPZBYCZg8VAi5odHRwOi8vc291dGhmbG9yaWRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgkPZBYCZg8VAiRodHRwOi8vZGNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCAw8WAh4HVmlzaWJsZWhkAgMPDxYCHwRoZBYCZg8WAh8CBRNCYWx0aW1vcmVSZWFsZXN0YXRlFgJmD2QWBAIBDxYCHwMCChYUZg9kFgJmDxUCH2h0dHA6Ly9hdGxhbnRhLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCIWh0dHA6Ly9iYWx0aW1vcmUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAh5odHRwOi8vYm9zdG9uLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIoaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2guY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCHmh0dHA6Ly9kYWxsYXMuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAh9odHRwOi8vaG91c3Rvbi5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAh5odHRwOi8vcGhpbGx5LmNpdHliaXpsaXN0LmNvbS8MUGhpbGFkZWxwaGlhZAIHD2QWAmYPFQIiaHR0cDovL3BpdHRzYnVyZ2guY2l0eWJpemxpc3QuY29tLwpQaXR0c2J1cmdoZAIID2QWAmYPFQIkaHR0cDovL3NvdXRoZmxvcmlkYS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgkPZBYCZg8VAhpodHRwOi8vZGMuY2l0eWJpemxpc3QuY29tLw1XYXNoaW5ndG9uIERDZAIDDxYCHwMCChYUZg9kFgJmDxUCKWh0dHA6Ly9hdGxhbnRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vB0F0bGFudGFkAgEPZBYCZg8VAitodHRwOi8vYmFsdGltb3JlUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vCUJhbHRpbW9yZWQCAg9kFgJmDxUCKGh0dHA6Ly9ib3N0b25SZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIyaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2hSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8RQ2hhcmxvdHRlIFJhbGVpZ2hkAgQPZBYCZg8VAihodHRwOi8vZGFsbGFzUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkRhbGxhc2QCBQ9kFgJmDxUCKWh0dHA6Ly9ob3VzdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAihodHRwOi8vcGhpbGx5UmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCBw9kFgJmDxUCLGh0dHA6Ly9waXR0c2J1cmdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAggPZBYCZg8VAi5odHRwOi8vc291dGhmbG9yaWRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgkPZBYCZg8VAiRodHRwOi8vZGNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCCQ8PFgIfBGhkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUWX2N0bDA6aGVhZGVyOmJ0blNlYXJjaJQgU2jm+nyeRxGoT0GZnH1LiwLG">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxMw9kFgJmDw8WAh4HQ0JMQ2l0eTLiAgABAAAA/////wEAAAAAAAAADAIAAABIQXBwX0NvZGUuaS1iM29uN3csIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAASY2l0eWJpei5DQkxDaXR5XzA5CQAAAAhfaW50Q2l0eQxfc3RyQ2l0eU5hbWUNX2lzUmVhbEVzdGF0ZRJfYXBwbGljYXRpb25TdGF0dXMKX3N0cllCQ2l0eQhfc3RyUGF0aAdzdHJSb290FF9zdHJUYWdsaW5lSW1hZ2VOYW1lE19zdHJCYW5uZXJJbWFnZU5hbWUAAQABAQEBAQEIAQIAAAABAAAABgMAAAAJQmFsdGltb3JlAAYEAAAABGxpdmUJAwAAAAYGAAAAAAYHAAAAFGh0dHA6Ly8yMDcuMjIuNjYuMzcvBggAAAANYmFsdGltb3JlLmpwZwkIAAAAC2QWBAIBD2QWBgIRDxYCHgRUZXh0BQxjaXR5Yml6Ym1vcmVkAhMPFgIfAQVCMl82OUwwenpUUUFOZElTYmh3NTl2U1NLM2o2LU1xSzMzeUdRTHE5YTh0d3h1MHJJQWJBeHNwMGk1ZDM0ZkFwM3dKZAIVDxYCHwEFQjJfNjlMMHp6VFFBTmRJU2JodzU5dlNTSzNqNi1NcUszM3lHUUxxOWE4dHd4dTBySUFiQXhzcDBpNWQzNGZBcDN3SmQCAw9kFggCAQ9kFgJmDxYCHgVjbGFzcwUJQmFsdGltb3JlFgpmDxYCHgdWaXNpYmxlaGQCAQ9kFgJmDxYCHwEF7AE8aWZyYW1lIHNyYz0naHR0cDovL3RoaXMuY29udGVudC5zZXJ2ZWQuYnkuYWRzaHVmZmxlLmNvbS9wL2tsLzQ2Lzc5OS9yLzEyLzQvOC9hc3QwazNuL2VYd3kzWmVrMmN0NkxzN1laYlNiNmc9PS92aWV3Lmh0bWwnIGhlaWdodD0nOTAnIHdpZHRoPSc3MjgnIHNjcm9sbGluZz1ubyBmcmFtZWJvcmRlcj0wIGFsbG93dHJhbnNwYXJlbmN5PSd0cnVlJyBtYXJnaW53aWR0aD0wIG1hcmdpbmhlaWdodD0wPjwvaWZyYW1lPmQCAg8WAh4LXyFJdGVtQ291bnQCFBYoZg9kFgJmDxUCATEQQWNjb3VudGluZyBGaXJtc2QCAQ9kFgJmDxUCATIUQWR2ZXJ0aXNpbmcgQWdlbmNpZXNkAgIPZBYCZg8VAgEzEkFyY2hpdGVjdHVyZSBGaXJtc2QCAw9kFgJmDxUCATQMQXNzb2NpYXRpb25zZAIED2QWAmYPFQICMTYHQ2FwaXRhbGQCBQ9kFgJmDxUCAjE5CUNFTy9Cb2FyZGQCBg9kFgJmDxUCATUOSGVhbHRoIFN5c3RlbXNkAgcPZBYCZg8VAgE2EEludmVzdG1lbnQgRmlybXNkAggPZBYCZg8VAgE3CUxhdyBGaXJtc2QCCQ9kFgJmDxUCAjE3Fk1lcmdlcnMgJiBBY3F1aXNpdGlvbnNkAgoPZBYCZg8VAgE4GU1pbm9yaXR5LU93bmVkIEJ1c2luZXNzZXNkAgsPZBYCZg8VAgE5Dk1vbmV5IE1hbmFnZXJzZAIMD2QWAmYPFQICMTAYTm9uLVByb2ZpdCBPcmdhbml6YXRpb25zZAIND2QWAmYPFQICMTERUHJpdmF0ZSBDb21wYW5pZXNkAg4PZBYCZg8VAgIxMhBQdWJsaWMgQ29tcGFuaWVzZAIPD2QWAmYPFQICMTMMU2VhcmNoIEZpcm1zZAIQD2QWAmYPFQICMjALVGhlIEQgTGlzdCBkAhEPZBYCZg8VAgIxOA9WZW50dXJlIENhcGl0YWxkAhIPZBYCZg8VAgIxNBVWZW50dXJlIENhcGl0YWwgRmlybXNkAhMPZBYCZg8VAgIxNRZXb21hbi1Pd25lZCBCdXNpbmVzc2VzZAIDD2QWBAIBDxYCHwQCCxYWZg9kFgJmDxUCH2h0dHA6Ly9hdGxhbnRhLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCIWh0dHA6Ly9iYWx0aW1vcmUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAh5odHRwOi8vYm9zdG9uLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIoaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2guY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCHmh0dHA6Ly9kYWxsYXMuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAh9odHRwOi8vaG91c3Rvbi5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAh9odHRwOi8vbmV3eW9yay5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIeaHR0cDovL3BoaWxseS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCImh0dHA6Ly9waXR0c2J1cmdoLmNpdHliaXpsaXN0LmNvbS8KUGl0dHNidXJnaGQCCQ9kFgJmDxUCJGh0dHA6Ly9zb3V0aGZsb3JpZGEuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIaaHR0cDovL2RjLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCAw8WAh8EAgsWFmYPZBYCZg8VAilodHRwOi8vYXRsYW50YVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdBdGxhbnRhZAIBD2QWAmYPFQIraHR0cDovL2JhbHRpbW9yZVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAihodHRwOi8vYm9zdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkJvc3RvbmQCAw9kFgJmDxUCMmh0dHA6Ly9jaGFybG90dGVSYWxlaWdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vEUNoYXJsb3R0ZSBSYWxlaWdoZAIED2QWAmYPFQIoaHR0cDovL2RhbGxhc1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAilodHRwOi8vaG91c3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdIb3VzdG9uZAIGD2QWAmYPFQIpaHR0cDovL25ld3lvcmtSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8ITmV3IFlvcmtkAgcPZBYCZg8VAihodHRwOi8vcGhpbGx5UmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCLGh0dHA6Ly9waXR0c2J1cmdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAgkPZBYCZg8VAi5odHRwOi8vc291dGhmbG9yaWRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgoPZBYCZg8VAiRodHRwOi8vZGNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCBg8WAh8DaBYCAgMPFgIfBAILFhZmD2QWAmYPFQIpaHR0cDovL2F0bGFudGFSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCK2h0dHA6Ly9iYWx0aW1vcmVSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8JQmFsdGltb3JlZAICD2QWAmYPFQIoaHR0cDovL2Jvc3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZCb3N0b25kAgMPZBYCZg8VAjJodHRwOi8vY2hhcmxvdHRlUmFsZWlnaFJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCKGh0dHA6Ly9kYWxsYXNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8GRGFsbGFzZAIFD2QWAmYPFQIpaHR0cDovL2hvdXN0b25SZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8HSG91c3RvbmQCBg9kFgJmDxUCKWh0dHA6Ly9uZXd5b3JrUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIoaHR0cDovL3BoaWxseVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwxQaGlsYWRlbHBoaWFkAggPZBYCZg8VAixodHRwOi8vcGl0dHNidXJnaFJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwpQaXR0c2J1cmdoZAIJD2QWAmYPFQIuaHR0cDovL3NvdXRoZmxvcmlkYVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIkaHR0cDovL2RjUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVdhc2hpbmd0b24gRENkAgMPDxYCHwNoZBYCZg8WAh8CBRNCYWx0aW1vcmVSZWFsZXN0YXRlFgJmD2QWBAIBDxYCHwQCCxYWZg9kFgJmDxUCH2h0dHA6Ly9hdGxhbnRhLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCIWh0dHA6Ly9iYWx0aW1vcmUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAh5odHRwOi8vYm9zdG9uLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIoaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2guY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCHmh0dHA6Ly9kYWxsYXMuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAh9odHRwOi8vaG91c3Rvbi5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAh9odHRwOi8vbmV3eW9yay5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIeaHR0cDovL3BoaWxseS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCImh0dHA6Ly9waXR0c2J1cmdoLmNpdHliaXpsaXN0LmNvbS8KUGl0dHNidXJnaGQCCQ9kFgJmDxUCJGh0dHA6Ly9zb3V0aGZsb3JpZGEuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIaaHR0cDovL2RjLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCAw8WAh8EAgsWFmYPZBYCZg8VAilodHRwOi8vYXRsYW50YVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdBdGxhbnRhZAIBD2QWAmYPFQIraHR0cDovL2JhbHRpbW9yZVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAihodHRwOi8vYm9zdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkJvc3RvbmQCAw9kFgJmDxUCMmh0dHA6Ly9jaGFybG90dGVSYWxlaWdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vEUNoYXJsb3R0ZSBSYWxlaWdoZAIED2QWAmYPFQIoaHR0cDovL2RhbGxhc1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAilodHRwOi8vaG91c3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdIb3VzdG9uZAIGD2QWAmYPFQIpaHR0cDovL25ld3lvcmtSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8ITmV3IFlvcmtkAgcPZBYCZg8VAihodHRwOi8vcGhpbGx5UmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCLGh0dHA6Ly9waXR0c2J1cmdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAgkPZBYCZg8VAi5odHRwOi8vc291dGhmbG9yaWRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgoPZBYCZg8VAiRodHRwOi8vZGNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCCQ9kFgICAQ8PFgIfA2hkZAILDw8WAh8DaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRZfY3RsMDpoZWFkZXI6YnRuU2VhcmNovEX7dU8DJBRq3gSfxfhcQZoN0ck=">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLDodCNCQL/7a7WDwKT7fiPBkvptqI0OWC8RNpTAd78CkT/asFY">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK+hpPACQL/7a7WDwKT7fiPBpkbn7u4EJ60U6A92dQ+oOSRF/4P">
         <div id="top">
             <div id="_ctl0_header_headerWrapper" class="Baltimore">
-     <div id="header">
-        <a href="/" id="logo">CityBizList</a>
-        <div id="banner-728">        
-            <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2ct6Ls7YZbSb6g==/view.html" height="90" width="728" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
-        </div>
+     <div id="header">			
+			
+		        <a href="/" id="logo">CityBizList</a>
+		        <div id="banner-728">
+				
+					
+										
+					<iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2ct6Ls7YZbSb6g==/view.html" height="90" width="728" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>		
+            
+				</div>
+				
         <ul id="nav">
             <li id="nav1" class="current"><a href="#">Latest News</a>
             <div class="bottom">
@@ -49,7 +306,7 @@ $(function(){
                                 <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Accounting">Accounting</a></li>
                                 <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Financial">Financial</a></li>
                                 <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Biotech">Biotech</a></li>
-                                <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Commercial Real Estate%2fConstruction">Commercial Real Estate/Construction</a></li>
+                                
                                 <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Healthcare">Healthcare</a></li>
                                 <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Internet%2fTechnology">Internet/Technology</a></li>
                                 <li><a href="/yourcitybiznews/catindex.aspx?cat=7&amp;sub=Industrials+%26+Materials">Industrials &amp; Materials</a></li>
@@ -80,6 +337,137 @@ $(function(){
                     </div>
                 </div>
             </li>
+            <li id="nav8" class="single"><a href="#">Topics</a>
+              <div class="bottom">
+                	<div class="top">
+                    	<div class="menus">
+                            <ul>
+															
+																	<li>
+																		<a href="/topics/index.aspx?t=1">
+																			Accounting Firms
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=2">
+																			Advertising Agencies
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=3">
+																			Architecture Firms
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=4">
+																			Associations
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=16">
+																			Capital
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=19">
+																			CEO/Board
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=5">
+																			Health Systems
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=6">
+																			Investment Firms
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=7">
+																			Law Firms
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=17">
+																			Mergers &amp; Acquisitions
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=8">
+																			Minority-Owned Businesses
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=9">
+																			Money Managers
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=10">
+																			Non-Profit Organizations
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=11">
+																			Private Companies
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=12">
+																			Public Companies
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=13">
+																			Search Firms
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=20">
+																			The D List 
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=18">
+																			Venture Capital
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=14">
+																			Venture Capital Firms
+																		</a>
+																	</li>
+																
+																	<li>
+																		<a href="/topics/index.aspx?t=15">
+																			Woman-Owned Businesses
+																		</a>
+																	</li>
+																
+                            </ul>
+                         </div>
+                    </div>
+                </div>
+            </li>            
             <li id="nav2"><a href="#">Business Resources</a>
             <div class="bottom">
     	            <div class="top">
@@ -87,6 +475,7 @@ $(function(){
                             <ul class="first">
                                 <li><a href="/newhome.aspx#resources">Stock Quotes</a></li>
                                 <li><a href="/newhome.aspx#resources">Top Baltimore Lawyers</a></li>
+																<li><a href="/clips.aspx">Citybiz Clips</a></li>
                             </ul>
                             <ul>
                                 <li><a href="/newhome.aspx#resources">Citybiz Topics</a></li>
@@ -103,19 +492,24 @@ $(function(){
       	            <div class="menus">
                       <ul class="first">
                         <li><a href="http://www.citybizjobs.personforce.com/job-board.php">Citybiz Jobs</a></li>
-												<li>Find a job or find employees</li>
+						<li>Find a job or find employees</li>
 
                         <li><a href="http://citybizlist.collectivex.com/main/summary">Citybiz Network</a></li>                                            
                         <li>Powered by collectiveX</li>												
                         
                         <li><a href="http://citybizmarketplace.com/">Citybiz Marketplace</a></li>                                                
-                        <li>Buy, sell and trade locally</li>
-                         
+                        <li>Buy, sell and trade locally</li>						                   
                       </ul>
                       <ul>    
 												
                         <li><a href="/citybizB2B.aspx">Citybiz B2B</a></li>
-                        <li>Advertise on citybizB2B</li>                       
+                        <li>Advertise on citybizB2B</li>  
+						
+						<li><a href="/widget/detail.aspx">Citybiz Widget</a></li>
+                        <li>Citybiz News on your site</li>  
+						
+						<li><a href="/rss/index.aspx">Citybiz RSS Feeds</a></li>
+                        <li>Subscribe to Citybizlist RSS feeds</li>  						                
                       </ul>
                     </div>
                   </div>
@@ -164,6 +558,12 @@ $(function(){
 																			<li>
 																				<a href="http://houston.citybizlist.com/">
 																					Houston
+																				</a>
+																			</li>
+																		
+																			<li>
+																				<a href="http://newyork.citybizlist.com/">
+																					New York
 																				</a>
 																			</li>
 																		
@@ -232,6 +632,12 @@ $(function(){
 																			</li>
 																		
 																			<li>
+																				<a href="http://newyorkRealestate.citybizlist.com/">
+																					New York
+																				</a>
+																			</li>
+																		
+																			<li>
 																				<a href="http://phillyRealestate.citybizlist.com/">
 																					Philadelphia
 																				</a>
@@ -281,6 +687,8 @@ $(function(){
             	    
                 </ul>	
                 <ul id="text-sizer">
+									<li id="_ctl0_gigyaTopShare" class="gigyaTool"><a href="javascript:showShareUI()">Share</a></li>
+									
             	    <li class="print"><a href="#" onclick="window.print();">Print this page</a></li>
                     <li class="text-size">Text Size:</li>
                     <li><a href="#" class="smallFont">A</a></li>
@@ -305,7 +713,10 @@ $(function(){
 	</ul>  
 	<div id="twitter-text">
   
-	</div>                  	
+	</div>
+	
+	
+	                 	
 </div>
 									
                   <div id="main-content">
@@ -363,39 +774,82 @@ $(function(){
     <ul id="twitter-rss">
 	    <li><a href="/multCityEmail.aspx" id="newsletter" title="Get Email Newsletter">Get Email Newsletter</a></li>
         <li><a href="http://www.citybizquicks.com/follow" id="twitter" title="Follow Us On Twitter">Follow Us On Twitter</a></li>
-        <li><a href="/rss/rss.aspx" id="rss-feeds" title="RSS Feeds">RSS Feeds</a></li>
+        <li><a href="/rss/index.aspx" id="rss-feeds" title="RSS Feeds">RSS Feeds</a></li>
     </ul>
+        
+    <div id="gigya" class="sub">
+			<div id="gigyaBottom">
+				<h1>
+					Recent Activity</h1>
+					
+				<div id="gigyaLogin">
+					<p class="connect">
+						Sign-in with your network to connect with your friends on Citybizlist</p>
+					<div id="GigyaDiv">
+					</div>
+				</div>
+				
+				<div id="gigyaContent">
+					<div id="NewsfeedWidgetDiv">
+					</div>
+				</div>
+				
+				<div id="gigyaUser" style="display: none;">
+					
+					<div id="welcomewrapper">
+						<span id="gigyaUserGreeting" class="greeting"></span>
+					</div>
+					<img id="gigyaUserImage" src="">
+					<span id="updateMessage" style="display: none;">Update your Status</span> <a id="updateOpen" href="javascript:openUpdateBox()">Update Your Status</a> <a id="updateClose" href="javascript:closeUpdateBox()" style="display: none;">Hide Status Box</a>
+					<br>
+					
+					<div id="updatepanel" style="display: none;">
+						<p id="gigyaUserStatus">
+							<textarea id="newstatustext" cols="16" rows="4">&nbsp;</textarea>
+							<input type="button" id="setGigyaStatus" onclick="javascript:setStatus()" value="Update">
+						</p>
+					</div>
+					
+					<div id="gigyaUserMiniLogin">
+					</div>
+					<span id="editConnections"><a href="javascript:editConnections()">Edit Connections</a> </span>
+				</div>
+			</div>
+
+		</div>
+    
     <div class="content-bottom">
         <div class="content-top">
-            <div class="ad">
-                <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2csCP48tpfTSXA==/view.html" height="150" width="180" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
-            </div>
-            <div class="ad">
-                <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2ctBldFXEZWCUw==/view.html" height="150" width="180" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>   
-            </div>
-            <div class="ad">
-                <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2ctwUHY7m8n5oQ==/view.html" height="150" width="180" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>   
-            </div>
-            <div class="ad">
-                <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2cv4JOVM7nfi~sl~g==/view.html" height="150" width="180" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>   
-            </div>
-            <div class="ad">
-                <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2cvQ~sl~cJj6Gq4dA==/view.html" height="600" width="160" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>   
-            </div>
-         </div>
+        
+        
+			
+      <div class="ad">
+          <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2cvQ~sl~cJj6Gq4dA==/view.html" height="600" width="160" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>   
+      </div>
+       
+      <div class="ad">
+        <iframe src="http://this.content.served.by.adshuffle.com/p/kl/46/799/r/12/4/8/ast0k3n/eXwy3Zek2cuT~sl~MwReRMg9w==/view.html" height="600" width="160" scrolling="no" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>   
+      </div>
+       
     </div>
+  </div>
    
 </div> <!-- end sponsors -->
+
+			<script type="text/javascript">
+				$(document).ready(function() { gigya.services.socialize.showLoginUI(conf, connect_params); })
+			</script>
+			<!--gigya.services.socialize.showNewsfeedUI(conf, newsfeed_params); -->
             </div> <!-- end container -->
 						
 
 <div id="footer">
   <ul>
-	    <li class="copyright">© 2009 citybizlist | </li>
+	    <li class="copyright">© 2010 citybizlist | </li>
         <li><a href="/aboutus.aspx">About Citybizlist</a> | </li>
         <li><a href="/terms.aspx">Terms</a> | </li>
         <li><a href="/privacyPolicy.aspx">Privacy Policy</a> |</li>
-        <li>Web Site Design and Develoment by <a href="http://www.berndtgroup.net">The Berndt Group</a></li>
+        <li>Web Site Design and Development by <a href="http://www.berndtgroup.net">The Berndt Group</a></li>
     </ul>
 </div> <!-- end footer -->
         </div><!-- end top -->
@@ -420,6 +874,24 @@ $(function(){
         pageTracker._trackPageview();
         } catch(err) {}</script>
         <!-- End Google Analytics Code -->		
+        
+	<script type="text/javascript">
+		_bizo_data_partner_id = "285"
+	</script>
+	<script type="text/javascript">
+		var _bizo_p = (("https:" == document.location.protocol) ? "https://sjs." : "http://js.");
+		document.write(unescape("%3Cscript src='" + _bizo_p + "bizographics.com/convert_data.js?partner_id=" + _bizo_data_partner_id + "' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://sjs.bizographics.com/convert_data.js?partner_id=285" type="text/javascript"></script>
+				
+	<!-- Start of HubSpot Logging Code  -->
+	<script type="text/javascript" language="javascript">
+	var hs_portalid=57871;
+	var hs_salog_version = "2.00";
+	var hs_ppa = "citybizlist.app5.hubspot.com";
+	document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://citybizlist.app5.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+	<!-- End of HubSpot Logging Code -->				
+				        
     </form>
 
 </body></html>
