@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tut.com privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231021215id_/http%3A//www.tut.com/other/%3Faction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tut.com privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630155545id_/http%3A//www.tut.com/other/%3Faction%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -29,11 +29,11 @@ img, div, a, li, input, p { behavior: url(../iepngfix.htc) }
 <!--<link href="../css/main.css" rel="stylesheet" type="text/css" />-->
 <script language="javascript">AC_FL_RunContent = 0;</script>
 <script src="/js/AC_RunActiveContent.js" language="javascript"></script>
-<script type="text/javascript" src="../js/jquery.js"></script>
-<script type="text/javascript" src="../js/jtip.js"></script>
-<script type="text/javascript" src="../js/ui/jquery.ui.all.js"></script>
-<script type="text/javascript" src="../js/functions.inc.js"></script>
-<script type="text/javascript" src="../js/thickbox.js"></script>
+<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.custom.min.js"></script>
+<script type="text/javascript" src="/js/jquery-plugins.js"></script>
+<script type="text/javascript" src="/js/functions.inc.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
 
 <title>TUTs Adventurers Club: Explore the power of thought &amp; creative visualization to manifest dreams!</title>
 
@@ -50,20 +50,26 @@ pageTracker._trackPageview();
 <div id="wrapper">
 	<div id="header">
 	<div style="clear:both;"></div>
-	<a href="http://www.tut.com/theclub/"><img src="/images/img_top_logo.gif" style="float:left;margin-top: 5px;margin-left: 10px;" alt="TUT's Adventureres Club"></a><img src="/images/img_top_xmas.gif" style="float:left;margin-left: 10px;" alt="TUT's Adventureres Club">
+	<a href="http://www.tut.com/theclub/"><img src="/images/img_top_logo.gif" style="float:left;margin-top: 5px;margin-left: 10px;" alt="TUT's Adventureres Club"></a>
+	<a href="http://www.facebook.com/pages/Mike-Dooley/124545280124" target="_blank"><img src="/images/md_fb.gif" style="float:left; margin:18px 0 0 150px; padding-left:5px;" alt="Follow Mike Dooley on Facebook!"></a>
+    <a href="http://twitter.com/mikedooley" target="_blank"><img src="/images/md_twitter.gif" style="float:left; margin:18px 0 0 0; padding-left:5px;" alt="Follow Mike Dooley on Twitter!"></a> 
+    <a href="http://www.flickr.com/photos/tutadventureresclub/sets/" target="_blank"><img src="/images/md_flickr.gif" style="float:left; margin:18px 0 0 0; padding-left:5px;" alt="See The TUT Adventurers Club's photostream!"></a> 
+    <a href="http://www.youtube.com/user/mdbk77" target="_blank"><img src="/images/md_youtube.gif" style="float:left; margin:18px 0 0 0; padding-left:5px;" alt="Watch Mike Dooley on Youtube!"></a>
 	<img src="/images/img_tbt_logo.gif" style="float:right" alt="Thoughts Become Things">
 	<div style="clear:both;"></div>
 	<div id="header_bottom">
 		<div id="nav">
 			<ul>
-				<li class="selected"><a href="/theclub">THE CLUB</a></li>
-				<li><a href="/events">EVENTS</a></li>
-				<li><a href="/resources">RESOURCES</a></li>
-				<li><a href="/shop">SHOP</a></li>
+				<li class="selected"><a href="http://www.tut.com/theclub">THE CLUB</a></li>
+				<li><a href="http://www.tut.com/events">TOURS</a></li>
+				<li><a href="http://www.tut.com/resources">RESOURCES</a></li>
+				<li><a href="http://www.tut.com/shop">SHOP</a></li>
 			</ul>
 		</div>
 		<div id="search">
-			<form id="google" onsubmit="return google_q();" action="http://www.google.com/search" method="get" name="google_search">
+			<form id="google" name="search_full" method="post" action="/theclub/index.php">
+				<input type="hidden" name="handler" value="search">
+				<input type="hidden" name="action" value="site_search">
 				<table style="margin-top: 12px" cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
 						<td style="vertical-align:middle;"><input onfocus="this.value = '';" value="Search TUT" name="q" class="query"></td>
@@ -71,11 +77,10 @@ pageTracker._trackPageview();
 						<td style="vertical-align:middle;"><input type="image" src="/images/button_search.jpg"></td>
 					</tr>
 				</tbody></table>
-				<input type="hidden" name="sitesearch" value="tut.com">
 			</form>
 		</div>
 		<div id="myTUT">
-											<p align="right"><a href="javascript:toggle_login();">login</a> | <a href="/theclub/index.php?page=join">sign up</a></p>
+											<div align="right"><a href="javascript:toggle_login();">login</a> | <a href="/theclub/index.php?page=join">sign up</a></div>
 									</div>
 	</div>
 </div>
@@ -84,14 +89,13 @@ pageTracker._trackPageview();
 	<img src="/images/button_close.jpg" align="right" height="10" width="10" onclick="toggle_login();">
 	<div class="clear"></div>
 	<div class="login">
-	<h1 style="color: #853200; float: right; margin: 0 5px 2px 16px; font-size: 14px;">Get <em>Notes from the Universe!</em></h1>
+	<h3 class="red" style="color: #853200; font-size: 1.1em; font-weight: bold; margin: 0 5px 2px 16px; text-align:right;"><em>Get Notes from the Universe<br>
+	&amp; Join the Club</em>!</h3>
 	<div style="clear:both"></div>
 	<form class="login_form" name="login" method="post" action="https://www.tut.com/theclub/index.php">
 		<input type="hidden" value="login" name="handler">
 		<input type="hidden" value="do_login" name="action">
-		<input type="hidden" value="<br />
-<b>Notice</b>:  Undefined index:  password in <b>/var/www/html/tut.com/templates/login.php</b> on line <b>7</b><br />
-0" name="encry">
+		<input type="hidden" value="0" name="encry">
         <p>(If you only receive the NOTES, you <br>
         are not yet a member. <a href="/theclub/index.php?page=premember">Join Here</a>!)</p>
 	  <p style="font-size: 9px; padding-bottom: 5px;">Email: <input class="text" type="text" name="email"></p>
@@ -112,15 +116,7 @@ pageTracker._trackPageview();
 		<p class="red">Not registered yet? <a href="/theclub/index.php?page=join">Sign up for the NOTES!</a></p>
 	</form>
 	<!--<p style="vertical-align: middle"><img src="/images/img_facebook_logo.jpg" width="57" height="18" style="vertical-align: bottom;" /> Integrated</p>-->
-</div></div>
-
-<script>
-<!--
-function toggle_login() {
-	$("#login_popup").toggle("slide", {direction:"right"}, 200);
-}
--->
-</script>	<div id="content">
+</div></div>	<div id="content">
 		<div class="padded">
 	<div class="white_letter_header"></div>
 	<div class="white_letter_body">
@@ -181,19 +177,25 @@ function toggle_login() {
 	<div id="bottom_box">
 		<img src="/images/bg_footer.jpg">	</div>
 	<div id="bottom_nav">
-		<a href="/">Home</a> | <a href="/about/">Our Story</a> | <a href="/events/">Events</a> | <a href="/resources/">Resources</a> | <a href="/shop/">Shop</a> | <a href="/resources/affiliates/">Affiliates</a> | <a href="/contact/">Contact Us</a> | <a href="/other/?action=faq">FAQ</a> | <a href="/other/?action=privacy">Privacy Policy</a> | <a href="/other/?action=dmca">DMCA Notification</a><br><br>
-					<a href="#" onclick="javascript:window.open('http://www.tut.com/make_homepage.php','popup','width=400,height=500,resizalbe=no,scrollbars=yes,toolbar=no,location=no,directories=no,status=no,menubar=no,copyhistory=no');">Make TUT Your Homepage</a>
+		<a href="http://www.tut.com/theclub/">Home</a> | <a href="http://www.tut.com/about/">Our Story</a> | <a href="http://www.tut.com/events/">Events</a> | <a href="http://www.tut.com/resources/">Resources</a> | <a href="http://www.tut.com/shop/">Shop</a> | <a href="http://www.tut.com/resources/affiliates/">Affiliates</a> | <a href="http://www.tut.com/contact/">Contact Us</a> | <a href="http://www.tut.com/other/?action=faq">FAQ</a> | <a href="http://www.tut.com/other/?action=privacy">Privacy Policy</a> | <a href="http://www.tut.com/other/?action=dmca">DMCA Notification</a><br><br>
+		<a href="http://www.tut.com/events/photos/">Photo Album</a> | <a href="/invite/">Invite A Friend</a> | 			<a href="#" onclick="javascript:window.open('http://www.tut.com/make_homepage.php','popup','width=400,height=500,resizalbe=no,scrollbars=yes,toolbar=no,location=no,directories=no,status=no,menubar=no,copyhistory=no');">Make TUT Your Homepage</a>
 			</div>
 	<div id="copyright">
-		1995 - 2009 Copyright © TUT Enterprises, Inc.
+		1995 - 2010 Copyright © TUT Enterprises, Inc.
 	</div>
 	<p align="center">
-		<a href="https://www.securitymetrics.com/site_certificate.adp?s=66%2e90%2e62%2e18&amp;i=350081" target="_blank">
-		<img src="https://www.securitymetrics.com/images/sm_ccsafe_whborder.gif" alt="TUT.com is PCI Compliant" border="0">
+		<a href="https://www.securitymetrics.com/site_certificate.adp?s=209%2e208%2e80%2e66&amp;i=402978" target="_blank">
+		<img src="/images/img_pci_compliance.gif" alt="TUT.com is PCI Compliant" border="0">
 		</a>
 	</p>
 </div>
-</div>
+<script>
+<!--
+function toggle_login() {
+	$("#login_popup").toggle("slide", {direction:"right"}, 200);
+}
+-->
+</script></div>
 <script type="text/javascript">
 var protocal = (("https:" == document.location.protocol) ? "https://" : "http://");
 document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + protocal + "www.tut.com/affiliates/scripts/track.js' type='text/javascript'%3E%3C/script%3E"));
@@ -205,7 +207,7 @@ papTrack();
 </script>
 <script type="text/javascript">
 <!--
-globals("300,000","189");
+globals("350,000","189");
 //-->
 </script>
 
