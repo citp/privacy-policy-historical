@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesoleil.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230040250id_/http%3A//www.bluesoleil.com/support/Intro.aspx%3FTID%3D81) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesoleil.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630113747id_/http%3A//www.bluesoleil.com/support/Intro.aspx%3FTID%3D81) for the most accurate reproduction.*
 
 # BlueSoleil - Support
 
