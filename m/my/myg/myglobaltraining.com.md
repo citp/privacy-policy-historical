@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myglobaltraining.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924211913id_/http%3A//www.myglobaltraining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myglobaltraining.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630214916id_/http%3A//www.myglobaltraining.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -66,12 +66,13 @@ By using our site, you consent to our privacy policy.
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 09/13/2009
+This policy was last modified on 10/14/2009
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.MyGlobalTraining.com  
-16202 West 144th Street  
-Olathe, KS 66062  
-admin@MyGlobalTraining.com
+www.MyGlobalTraining.com & Hoverson Inc.  
+1310 Western Drive  
+Manvel, ND 58256  
+email: Jenny@MyGlobalTraining.com  
+phone: Theresa Moss (215) 933-9286 
