@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brijj.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110063916id_/http%3A//www.brijj.com/aboutus/Privacy%3Ffooter%3DPrivacy_user_Login) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brijj.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630035725id_/http%3A//www.brijj.com/aboutus/Privacy%3Fsrc%3Dnnlhp) for the most accurate reproduction.*
 
 # brijj.com
 
