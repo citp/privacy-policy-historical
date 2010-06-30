@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the prochoiceamerica.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231083113id_/http%3A//www.prochoiceamerica.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prochoiceamerica.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630193244id_/http%3A//www.prochoiceamerica.org/privacy-policy.html) for the most accurate reproduction.*
 
 # NARAL Pro-Choice America's Online Privacy Policy
-
-#### NARAL Pro-Choice America's Online Privacy Policy
 
 At NARAL Pro-Choice America, the NARAL Pro-Choice America Foundation and NARAL Pro-Choice America PAC, we are committed to protecting your privacy online. Our privacy policy explains the information practices NARAL Pro-Choice America uses related to: 
 
