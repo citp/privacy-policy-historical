@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralpartnership.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628093909id_/http%3A//viralpartnership.com/v2/%3Fview%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralpartnership.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630090418id_/http%3A//viralpartnership.com/v2/%3Fview%3Dpp) for the most accurate reproduction.*
 
 # ViralPartnership™ - Affiliate Network | Affiliate Programs | Affiliate Marketing | Email Marketing | Search Marketing | Social Network
 
