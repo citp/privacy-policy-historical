@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strengthsfinder.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027184446id_/http%3A//strengths.gallup.com/922/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strengthsfinder.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630231358id_/http%3A//strengths.gallup.com/922/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -47,6 +47,10 @@ Gallup Web sites may contain links to sites owned and/or operated by other organ
 **_Transfer of Information to the United States_**
 
 In accessing Gallup Web sites, you may be transferring personal data that is used by Gallup for statistical, administration, or marketing purposes. As a worldwide organization, Gallup collects data that may be transferred internationally throughout Gallup offices worldwide. In using any Gallup site you consent to having your information transferred to and processed in the United States or any other country in which Gallup is located. If Gallup seeks to collect any additional personal data, you will be informed of the proposed uses of that data and asked for your consent.
+
+**_Safe Harbor Provisions_**
+
+Gallup complies with the U.S. - European Union Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Gallup certifies that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Gallup's certification, please visit <http://www.export.gov/safeharbor/>.
 
 **_Policy Updates_**
 
