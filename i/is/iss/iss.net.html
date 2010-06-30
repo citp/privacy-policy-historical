@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iss.net privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228015009id_/http%3A//www.iss.net/ibm_privacy_practices.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iss.net privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630233251id_/http%3A//www.iss.net/ibm_privacy_practices.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -28,36 +28,60 @@
 
 <body>
 	<div id="main">
-            		<div id="header">
-			<div id="headerRight">
-				<ul id="headerNav">
-					<li id="hnavSignIn"><a href="http://www.iss.net/issEn/MYISS/login.jhtml">Sign In</a></li>
-					<li id="hnavISSWorldwide"><a href="/about/locations/index.html">ISS Worldwide</a></li>
-					<li id="hnavDownload"><a href="/download/index.html">Downloads</a></li>
-					<li id="hnavInvestorRelations"><a href="http://www.ibm.com/investor/">Investor Relations</a></li>
-					<li id="hnavCareers"><a href="http://www-03.ibm.com/employment/?cm_re=iss-dot-net">Careers</a></li>
-				</ul>
-				<form action="http://webapp.iss.net/Search.do" method="GET">
-				<div id="searchFormContainer">
-					 <input type="hidden" name="searchType" value="keywd">
-					 <input id="searchButton" type="image" src="/Display/images/go_btn.gif" alt="Search"><input title="keyword" id="searchBox" value="" name="keyword" type="text">
-				</div>
-				</form>
-				<!-- careful with spaces here, ie will put a linebreak in if the tags aren't right next to eachother -->
-			</div><a href="index.html"><img id="headerLogo" src="/Display/images/logo.gif" width="320" height="77" alt="Internet Security Systems.  Ahead of the threat"></a></div>
-
-		<div id="navigation">
-			<ul> 
-				<li id="navAboutUs" class="first"><a href="http://www-935.ibm.com/services/us/index.wss/itservice/iss/a1030786/?cm_re=iss-dot-net">About Us</a></li>
-				<li id="navProducts"><a href="/products/index.html">Products</a></li>
-				<li id="navServices"><a href="/services/index.html">Services</a></li>
-				<li id="navResearch"><a href="http://xforce.iss.net">Research</a></li>
-				<li id="navSupport"><a href="support/index.html">Support</a></li>
-				<li id="navTraining"><a href="/training/index.html">Training</a></li>
-				<li id="navPartners"><a href="/partners/index.html">Partners</a></li>
-				<li id="navContactUs"><a href="/about/locations/index.html">Contact Us</a></li>
+            <script type="text/javascript" src="http://www.iss.net/Display/cookies_javascript.js"></script> 
+	<div id="header">
+		<div id="headerRight">
+			<ul id="headerNav">
+				<li id="hnavSignIn"><a href="http://www.iss.net">Home</a></li>
+                <li id="hnavDownload">
+                    <script>
+					if(Get_Cookie('ISS-SID')){
+                    	document.write('<a href="https://webapp.iss.net/myiss/">Sign Out</a>');
+             
+                    }
+                    else{
+                    	document.write('<a href="https://webapp.iss.net/myiss/">Sign In</a>');
+                    	
+                    }
+					</script>
+				</li>
+				<li id="hnavISSWorldwide"><a href="/about/locations/index.html">ISS Worldwide</a></li>
+				<li id="hnavDownload">
+					<script>
+					var loc = window.location.pathname;	
+                    if(loc.indexOf('myiss2')!=-1){
+                    	document.write('<a href="https://webapp.iss.net/manualdlc2/">Downloads</a>');
+                    } else if(loc.indexOf('manualdlc2')!=-1){
+                    	document.write('<a href="https://webapp.iss.net/myiss2/">MyIss</a>');
+                    } else {
+						document.write('<a href="/download/index.html">Downloads</a>');
+					}
+					</script><a href="/download/index.html">Downloads</a>
+				</li>
+				<li id="hnavInvestorRelations"><a href="http://www.ibm.com/investor/">Investor Relations</a></li>
+				<li id="hnavCareers"><a href="http://www-03.ibm.com/employment/?cm_re=iss-dot-net">Careers</a></li>
 			</ul>
-		</div>
+			<form action="http://webapp.iss.net/Search.do" method="GET">
+			<div id="searchFormContainer">
+				 <input type="hidden" name="searchType" value="keywd">
+				 <input id="searchButton" type="image" src="http://www.iss.net/Display/images/go_btn.gif" alt="Search"><input title="keyword" id="searchBox" value="" name="keyword" type="text">
+			</div>
+			</form>
+			<!-- careful with spaces here, ie will put a linebreak in if the tags aren't right next to eachother -->
+		</div><a href="index.html"><img id="headerLogo" src="http://www.iss.net/Display/images/logo.gif" width="320" height="77" alt="Internet Security Systems.  Ahead of the threat"></a></div>
+	<div id="navigation">
+		<ul> 
+			<li id="navAboutUs" class="first"><a href="http://www-935.ibm.com/services/us/index.wss/itservice/iss/a1030786/?cm_re=iss-dot-net">About Us</a></li>
+			<li id="navProducts"><a href="/products/index.html">Products</a></li>
+			<li id="navServices"><a href="/services/index.html">Services</a></li>
+			<li id="navResearch"><a href="http://xforce.iss.net">Research</a></li>
+			<li id="navSupport"><a href="support/index.html">Support</a></li>
+			<li id="navTraining"><a href="/training/index.html">Training</a></li>
+			<li id="navPartners"><a href="/partners/index.html">Partners</a></li>
+			<li id="navContactUs"><a href="/about/locations/index.html">Contact Us</a></li>
+		</ul>
+	</div>
+
 		
 				<div id="lowerHalf">
 					<div id="leftNav">
