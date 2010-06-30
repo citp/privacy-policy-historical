@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226222427id_/http%3A//www.citybizlist.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybizlist.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630041759id_/http%3A//www.citybizlist.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Citybizlist Baltimore Privacy Policy
 
