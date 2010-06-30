@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231075949id_/http%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630195821id_/http%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
 
 # EurekAlert! Disclaimer
 
@@ -60,6 +60,8 @@ Press Releases
 Science Agencies  
 on EurekAlert!
 
+[US Department of Agriculture](http://www.eurekalert.org/usda)
+
 [US Department of Energy](http://www.eurekalert.org/doe)
 
 [US National Institutes of Health](http://www.eurekalert.org/nih)
@@ -111,7 +113,7 @@ on EurekAlert!
 |  |   
 | 
 
-[Accessibility Option On](http://www.eurekalert.org/ada.php)
+[Accessibility Option Off](http://www.eurekalert.org/ada.php)
 
 |   
 |  |   
