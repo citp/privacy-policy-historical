@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229154627id_/http%3A//www.europeanvoice.com/page/european-voice-privacy-policy/9.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeanvoice.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630075351id_/http%3A//www.europeanvoice.com/page/european-voice-privacy-policy/9.aspx) for the most accurate reproduction.*
 
 # European Voice | Privacy policy
 
@@ -9,11 +9,10 @@
 "The Economist Group" comprises The Economist Newspaper Limited and its subsidiaries, which together operate a number of businesses, including the following:
 
   * The Economist 
-  * Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network 
-  * CFO 
+  * Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network 
   * European Voice 
   * EuroFinance Conferences 
-  * CQ-Roll Call Group (including Briefing Room, Capitol Advantage, Congressional Quarterly, congressNow, Congress.org, GalleryWatch, Knowlegis and Roll Call)
+  * CQ-Roll Call Group (including, Capitol Advantage, Congressional Quarterly and Roll Call)
 
 
 
