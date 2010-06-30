@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyatt.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224113533id_/http%3A//www.hyatt.com/hyatt/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyatt.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630200916id_/http%3A//www.hyatt.com/hyatt/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Global Privacy Policy for Guests
 
