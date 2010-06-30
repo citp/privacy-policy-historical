@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the realnetworks.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229215909id_/http%3A//www.realnetworks.com/about-us/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realnetworks.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630103827id_/http%3A//www.realnetworks.com/about-us/legal/privacy.aspx) for the most accurate reproduction.*
 
-# RealNetworks.com > Privacy Policy
+# Privacy Policy | RealNetworks
 
 ## REALNETWORKS, INC., AND AFFILIATED ENTITIES
 
-_This document was last updated January 28, 2009._
+_This document was last updated March 31, 2010._
 
-This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and subsidiaries, including Rhapsody America, and RealNetworks' divisions operating under different trade names, including RealArcade, GameHouse and Listen.com (collectively, "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes your personal information when you use our products and services, including consumer software, such as the RealPlayer, RealArcade and Rhapsody, subscriptions products such as SuperPass, GameHouse FunPass and Rhapsody Unlimited, and commercial online services such as the Real Music Store. Details regarding specific topics may be found via the topic index below. For a printable pdf file version of this policy, click [here](http://docs.real.com/docs/company/realnetworks_privacy_policy.pdf "here").
+This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and subsidiaries, and RealNetworks' divisions operating under different trade names, including RealArcade and GameHouse (collectively, "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes your personal information when you use our products and services, including consumer software, such as the RealPlayer and RealArcade, subscriptions products such as SuperPass and GameHouse FunPass, and commercial online services such as the Real Music Store. Details regarding specific topics may be found via the topic index below. For a printable pdf file version of this policy, click [here](https://web.archive.org/uploadedFiles/company/legal/privacy/eng_privacy.pdf "here").
 
 ##  If you are in Europe, please click [here](https://web.archive.org/about-us/legal/privacy_eu.aspx "here") to read our European Privacy Policy.
 
@@ -87,9 +87,9 @@ Registering for a product or service allows you to tell us how or whether you wa
 
 ## HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION
 
-To access your account information and preferences, select "Manage My Account" from the menus on either the RealPlayer (in most versions of the RealPlayer, under the "Help" menu), RealArcade, Rhapsody or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
+To access your account information and preferences, select "Manage My Account" from the menus on either the RealPlayer (in most versions of the RealPlayer, under the "Help" menu), RealArcade or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
 
-You may also review and update your account on the web at [www.real.com](http://www.real.com/ "www.real.com") or [www.rhapsody.com](http://www.rhapsody.com/ "www.rhapsody.com") by selecting "My Account," and logging in using your name and password.
+You may also review and update your account on the web at [www.real.com](http://www.real.com/ "www.real.com") or by selecting "My Account," and logging in using your name and password.
 
 When you access your account by logging in, you can update and/or make sure that your account information is accurate.  You can also manage your preferences concerning receipt of newsletters and promotional emails.
 
@@ -105,6 +105,17 @@ RealNetworks does not require that you accept cookies, however, some functionali
 ## CHANGES TO OUR PRIVACY POLICY
 
 We frequently revise this Privacy Policy to keep it up to date with RealNetworks products, services and Web pages. "Updated" may be used to alert users to recent changes and to the date of the last update. We also post FAQ's from time to time on specific products.
+
+## SAFE HARBOR
+
+RealNetworks has certified its personal information practices with the U.S. Department of Commerce under the Safe Harbor Program to ensure that your personal information is protected adequately in the event that your data is processed for the purposes of your agreement with us by a RealNetworks company in the United States. Should you want more information on the Safe Harbor principles, please go to: <http://www.export.gov/safeharbor/>.  If your data privacy complaint was not satisfactorily addressed by RealNetworks, we suggest that you contact the Direct Marketing Association at:
+
+**Safe Harbor Line**   
+Direct Marketing Association  
+1111 19th Street, NW - Suite 1100  
+Washington, DC 20036  
+E-mail: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)   
+Web: <http://www.the-dma.org/safeharbor/consumers.shtml>
 
 ## NON-US CUSTOMER INFORMATION
 
