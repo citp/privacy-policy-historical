@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tothepc.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229154506id_/http%3A//www.tothepc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tothepc.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630111841id_/http%3A//www.tothepc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Techno Life @ tothepc.com
+# Privacy Policy | Techno Life @ tothepc
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.tothepc.com](http://www.tothepc.com/) . The following discloses the information gathering and dissemination practices for this Web site.
 
