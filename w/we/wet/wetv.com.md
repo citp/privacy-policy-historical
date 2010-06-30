@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230024844id_/http%3A//www.wetv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630104133id_/http%3A//www.wetv.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WEtv.com
 
