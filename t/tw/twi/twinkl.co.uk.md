@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twinkl.co.uk privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529231000id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkl.co.uk privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701004548id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Foundation Stage, KS1 and EYFS (Early Years Foundation Stage) Teaching Resources | twinkl
+# Free Foundation Stage, KS1 and EYFS Teaching Resources | twinkl
 
 We collect different types of information about our users for the following main reasons:
 
