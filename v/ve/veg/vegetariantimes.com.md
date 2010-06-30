@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vegetariantimes.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229235236id_/http%3A//www.vegetariantimes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetariantimes.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630023448id_/http%3A//www.vegetariantimes.com/privacy_policy) for the most accurate reproduction.*
 
-# Vegetarian Times - Great Food, Good Health, Smart Living
+# Privacy Policy
 
 Thank you for visiting VegetarianTimes.com, an Active Interest Media site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Active Interest Media site. 
 
