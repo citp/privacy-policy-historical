@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aauw.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231074606id_/http%3A//www.aauw.org/policies.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aauw.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630194120id_/http%3A//aauw.org/policies.cfm) for the most accurate reproduction.*
 
-# AAUW Website Policies - AAUW
+# Website and Online Guidelines | AAUW
 
 The AAUW website, www.aauw.org, and online communications provide information and services in furtherance of AAUW's mission to advance equity for women and girls through advocacy, education and research. Content focuses on all aspects of AAUW including:
 
