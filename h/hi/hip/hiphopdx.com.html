@@ -1,737 +1,1060 @@
-<!--The following is the downloaded HTML source of the hiphopdx.com privacy policy that was archived on 2009-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091007224353id_/http%3A//www.hiphopdx.com/index/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hiphopdx.com privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630195215id_/http%3A//www.hiphopdx.com/index/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/ulD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Privacy Policy &gt; HipHopDX.com</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+	<title>Privacy Policy | HipHopDX</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="keywords" content="">
+	<meta name="description" content="HipHopDX.com Privacy Policy">
+	<meta name="msvalidate.01" content="50B24B718AE573733DD59A933E7D3DAC">
+	<meta name="tweetmeme-title" content="">
+	
+		<link rel="canonical" href="http://www.hiphopdx.com/index/privacy">
+		<link rel="alternate" href="http://feeds.feedburner.com/hiphopdx/news" type="application/rss+xml" title="HipHopDX News Feed">
+	<link rel="icon" type="image/gif" href="http://cdn.hiphopdx.com/favicon.gif">
+	<link rel="stylesheet" href="http://cdn.hiphopdx.com/css/style-3.2.css" type="text/css" media="screen">
+	<style type="text/css" media="screen">
+	
+		#shopBtnLi { height: 50px;}
+		html>/**/body #shopBtnLi, x:-moz-any-link, x:default { height:51px;}
+	
+	</style>
+	<script type="text/javascript" src="http://cdn.hiphopdx.com/js/master-2.1.js"></script> 
+			
+	<script type="text/javascript">
+		if (typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000;
+		
+		
+		var is_ajx = 0;
 
-<meta name="robots" content="index,follow,noodp">
+		(function($) {
+		  var cache = [];
+		  $.preLoadImages = function() {
+		    var args_len = arguments.length;
+		    for (var i = args_len; i--;) {
+		      var cacheImage = document.createElement('img');
+		      cacheImage.src = arguments[i];
+		      cache.push(cacheImage);
+		    }
+		  }
+		})(jQuery)
+		
+		
+		var contentX = 1006;
+		var screenX = screen.width;
+		var screenY = screen.height;
+		var gutterX = 0;
+		if(screenX > contentX + 200) {
+		    var gutterX = (screenX - contentX)/2; 
+		var rightMarg = gutterX+contentX; 
+		}
 
-<link rel="shortcut icon" href="http://cdn.hiphopdx.com/inc/html/default/img/favicon.ico">
-<link rel="stylesheet" href="http://cdn.hiphopdx.com/inc/html/default/css/global.css?0810" type="text/css" media="screen">
-<link rel="stylesheet" href="http://cdn.hiphopdx.com/inc/html/default/css/header.css?20080619" type="text/css" media="screen">
-<link rel="stylesheet" href="http://cdn.hiphopdx.com/inc/app/article/html/comment/comments.css?070928" type="text/css" media="screen">
-<link rel="stylesheet" href="http://cdn.hiphopdx.com/inc/html/default/css/printer.css" type="text/css" media="print">
-<link rel="stylesheet" href="http://cdn.hiphopdx.com/inc/html/default/css/search.css" type="text/css" media="screen">
+		if(!is_ajx) if(window.location.pathname == '/'){if(window.location.hash != '') {window.location.href = window.location.hash.substr(1);}}
 
-<script type="text/javascript" src="http://cdn.hiphopdx.com/js/HHDXfunc.js"></script>
-<script src="http://cdn.hiphopdx.com/js/sau/lib/prototype.js" type="text/javascript"></script>
-<script src="http://cdn.hiphopdx.com/js/sau/src/scriptaculous.js?load=effects" type="text/javascript"></script>
-<meta name="generator" content="Sitellite Content Server 4.2.1-stable">
+		$(document).ready(function(){
+			activateSlider(); 
+			
+			$('#paginator-page').val('2');
+			
+/*
+			if(is_ajx){
+					updateHref();
+				
+					var firstLn = true;
+					var lh = '';
+					function pollHash() {
+						if(window.location.pathname == '/'){
+							if(window.location.hash == '' && firstLn){
+								doU('#/index');
+								firstLn = false;
+							}
+							if(lh !== window.location.hash) {
+									lh = window.location.hash;
+									doU(lh);
+							}
+						}
+					}
+					setInterval(pollHash, 100);
+			}
+*/
+			// buttons
+			//$('#audiobar .select').hover(function(){$('.playlistmenu').show();},function(){$('.playlistmenu').hide();});
+			$('input#share-box-link').focus(function() { this.select(); });
+			$("input, textarea").focus(function() {if(this.value == this.defaultValue && this.id != 'share-box-link'){ this.value = '';}});
+			$('.to-top > a').click(function() { $('html,body').scrollTo(0,800,{easing:"easeInOutExpo"}) });
+			
+			//slider-mouse-actions
+			$('.slider-img-thumbs-img img').mouseover(function() { $(this).css('border','2px solid #ff5115');} );
+			$('.slider-img-thumbs-img img').mouseout(function() { $(this).css('border','2px solid #000000');} );
+			
+			var checkForFlash = function (version){
+				var flashIsInstalled = false;
+				var flash;
+				if(window.ActiveXObject){
+					try{
+						flash = new ActiveXObject(("ShockwaveFlash.ShockwaveFlash." + version));
+						flashIsInstalled = true;
+					}
+					catch(e){
+						// Throws an error if the version isn't available			
+					}
+				}
+				else if(navigator.plugins && navigator.mimeTypes.length > 0){
+					flash = navigator.plugins["Shockwave Flash"];
+					if(flash){
+						var flashVersion = navigator.plugins["Shockwave Flash"].description.replace(/.*\s(\d+\.\d+).*/, "$1");
+						if(flashVersion >= version){
+							flashIsInstalled = true;
+						}
+					}
+				}
+				return flashIsInstalled;
+			};
+			
+			if(!checkForFlash(8)){ 
+				$('#flashmsg').html('<h2>Flash is required for audio playback on HipHopDX. <a href="http://get.adobe.com/flashplayer">Get Flash!</a></h2>');
+				$('#flashmsg').show();
+			}
+			
+			$.preLoadImages('http://www1.hiphopdx.com/images/nav.dxshop.on.gif');
+			$('#shopBtnLi').mouseover(function() { $('#shopBtn').attr('src','http://www1.hiphopdx.com/images/nav.dxshop.on.gif'); });
+			$('#shopBtnLi').mouseout(function() {$('#shopBtn').attr('src','http://www1.hiphopdx.com/images/nav.dxshop.off.gif'); });
+			
+/*			
+			$(document).click (function(e){
+					if (!e) { var e = window.event; }
+					var targ;
+					if (e.target) { targ = e.target; }
+					else if (e.srcElement) { targ = e.srcElement; }
+					if (targ.tagName.toLowerCase() == 'body' || targ.tagName.toLowerCase() == 'html' || targ.id == 'mainBody') {
+						location.href= 'http://cli.gs/dxtakeover042910';
+					}
+			});
+		
+			$(document).mousemove(function(e){
+				if (!e) { var e = window.event; }
+				var targ;
+				if (e.target) { targ = e.target; }
+				else if (e.srcElement) { targ = e.srcElement; }
+				var bodyElem = document.getElementsByTagName('html');
+				if(eval(targ.tagName.toLowerCase() == 'body' || targ.tagName.toLowerCase() == 'html' || targ.id == 'mainBody')) { 
+					if (bodyElem[0].style.cursor != 'pointer') {
+						bodyElem[0].style.cursor = 'pointer'; 
+					}
+				} else {
+					if (bodyElem[0].style.cursor != targ.style.cursor) {
+						bodyElem[0].style.cursor = targ.style.cursor; 
+					}
+				}  
+			});
+*/		
+			
+		});
+
+			</script>
+	        <!--[if IE 6]>
+	        	<link rel="stylesheet" href="css/ie6.css" type="text/css" media="screen" />
+	            <script src="/js/pngFix.js"></script>
+	            <script>
+	              DD_belatedPNG.fix('#mainBody, .logo, .list-play, a.cirle-page, .search, ul.links, .play, #footer, .info-bar, #ctrl_prev, #player_play, #ctrl_next, #song_rating, #player_volume_bar');
+	            </script>
+			<![endif]-->   
+
+	        <!--[if IE 7]>	
+				<link rel="stylesheet" href="/css/ie7.css" type="text/css" media="screen" />
+	        <![endif]-->
+
+
+	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+	<script type="text/javascript">GS_googleAddAdSenseService("ca-pub-1598907917871807");GS_googleEnableAllServices();</script>
+	<script type="text/javascript">GA_googleAddSlot("ca-pub-1598907917871807", "hhdx_hp_top_398x55");</script>
+	<script type="text/javascript">GA_googleFetchAds();</script>
+	
+	<!-- BEGIN SITE ANALYTICS //-->
+	<script type="text/javascript">
+	
+	if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+	siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+	siteanalytics.website_id = 970;
+	siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+	
+	</script>
+	<script type="text/javascript" src="http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js"></script>
+	<!-- END SITE ANALYTICS //-->
+
+	<!-- BEGIN TRIGGER TAG INITIALIZATION -->
+	<script type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
+	<script type="text/javascript">getTrigger('970');</script>
+	<!-- END TRIGGER TAG INITIALIZATION -->	
+
+
+<script type="text/javascript"><!--//<![CDATA[
+ var m3_u = (location.protocol=='https:'?'https://optimize.indieclick.com/www/delivery/ajs.php':'http://optimize.indieclick.com/www/delivery/ajs.php');
+ var m3_r = Math.floor(Math.random()*99999999999);
+ if (!document.MAX_used) document.MAX_used = ',';
+ document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+ document.write ("?zoneid=279901");
+ document.write ('&amp;cb=' + m3_r);
+ if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+ document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+ document.write ("&amp;loc=" + escape(window.location));
+ if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+ if (document.context) document.write ("&context=" + escape(document.context));
+ if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+ document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=279901&amp;cb=57617941617&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100630195215id_/http%253A//www.hiphopdx.com/index/privacy"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=aa5a2b39&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=279901&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa5a2b39' border='0' alt='' /></a></noscript>
+
 </head>
-<body>
-<div id="container">
-	<div>
+<body style="background:#000">
+  <!--[if lt IE 7]>
+  <div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;'>
+    <div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a></div>
+    <div style='width: 640px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'>
+      <div style='width: 75px; float: left;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-warning.jpg' alt='Warning!'/></div>
+      <div style='width: 275px; float: left; font-family: Arial, sans-serif;'>
+        <div style='font-size: 14px; font-weight: bold; margin-top: 12px;'>You are using an outdated browser</div>
+        <div style='font-size: 12px; margin-top: 6px; line-height: 12px;'>For a better experience using this site, please upgrade to a modern web browser.</div>
+      </div>
+      <div style='width: 75px; float: left;'><a href='http://www.firefox.com' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-firefox.jpg' style='border: none;' alt='Get Firefox 3.5'/></a></div>
+      <div style='width: 75px; float: left;'><a href='http://www.browserforthebetter.com/download.html' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-ie8.jpg' style='border: none;' alt='Get Internet Explorer 8'/></a></div>
+      <div style='width: 73px; float: left;'><a href='http://www.apple.com/safari/download/' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-safari.jpg' style='border: none;' alt='Get Safari 4'/></a></div>
+      <div style='float: left;'><a href='http://www.google.com/chrome' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-chrome.jpg' style='border: none;' alt='Get Google Chrome'/></a></div>
+    </div>
+  </div>
+  <![endif]-->
+
+	<noscript><div style="background-color: #f00; padding:4px"><h2>HipHopDX requires Javascript for the full experience. Enable Javascript.</div></noscript>
+	<div id="flashmsg" style="background-color: #f00;display:none"></div>
+	<div id="follow"> 
+    <div class="div-center">
+    	<div class="sm-follow">Follow</div>
+        <ul id="connect">
+        	<a href="http://www.twitter.com/hiphopdx" target="_blank"><li id="f-twitter">&nbsp;</li></a>
+            <a href="http://www.facebook.com/pages/HipHopDXcom/6217682005" target="_blank"><li id="f-facebook">&nbsp;</li></a>
+            <a href="http://www.myspace.com/hiphopdx" target="_blank"><li id="f-myspace">&nbsp;</li></a>
+            <!--li id="f-other"><a href="#"></a></li-->
+            <a href="http://feeds.feedburner.com/hiphopdx/news" target="_blank"><li id="f-rss">&nbsp;</li></a>
+        </ul>
+        <div class="newsletter"><a href="/index/newsletter">Signup for the Newsletter</a></div>
+        <div id="signedin">
+			<div class="vert-line"></div>
+        </div>
+        
+        <div id="signup">
+        	<div class="vert-line"></div>
+			            <div style="margin-top:12px; font-size:12px; font-weight:bold; text-transform:uppercase; padding-left:15px; color:#FFFFFF; float:left;">
+        		Members
+        	</div>
+            <form action="/index/users/mode.login" id="sup" method="post">
+            	<input type="text" name="username" id="username" value="USERNAME">
+                <input type="password" name="password" id="password" value="PASSWORD">
+                <button type="submit" id="fsub">Sign In</button>
+            </form>
+            
+            <div class="newsletter" style="margin-top:7px;">
+        		<a href="/index/users/mode.register">Become a member</a><br>
+				<small style="font-size: 9px;text-transform:none"><a href="/index/users/mode.resetpassword">Forgot Password?</a></small>
+        	</div>
+
+			        </div>
+    </div>     
+    </div>
+	
+	<div id="mainBody" style="background: none">
+	    <div id="takeover" style="text-align:center">
+	    	<div id="takeover-ad">
+
+	        </div>    
+	    </div>
+		<div id="loading" style="background:#ff5115;color:#fff;position:absolute;padding:5px;display:none"><h1>Loading...</h1></div>
+	<div id="layout"> 
+		<div id="main-content">
+	    	<div id="header"> 
+	        	<div id="logo"><h1><a class="logo" href="/">HipHopDX.com</a></h1></div>
+	        	<div id="last-update">
+	            	<div class="title">Last Update</div>
+	                <div class="date">June 30 | 14:52 PM</div>
+	            </div>
+	            <div id="header-ad-other" style="position:absolute; right:0px;width:398px;">
+	            	<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT hhdx_hp_top_398x55 -->
+					<script type="text/javascript">
+					  GA_googleFillSlot("hhdx_hp_top_398x55");
+					</script>
+					<!-- END OF TAG FOR SLOT hhdx_hp_top_398x55 -->
+	            </div>
+	            <div id="header-search">
+	            	<form method="get" action="/index/search/" id="search">
+    	            	<input type="hidden" value="000613828212854000441:2akcqgxqwwc" name="cx">
+                        <input type="hidden" value="FORID:11;NB:1" name="cof">
+                        <input type="hidden" value="UTF-8" name="ie">
+	                <div class="searchbox">
+	                	<input type="text" name="q" value="Search the DX Vault">
+	                </div>
+	            	<div class="select">
+	                	<select name="eshop_status" id="eshop_status">
+							<option label="All" value="all">All</option>
+<option label="News" value="news">News</option>
+<option label="Videos" value="videos">Videos</option>
+<option label="Audio" value="audio">Audio</option>
+<option label="Reviews" value="reviews">Reviews</option>
+<option label="Features" value="features">Features</option>
+<option label="Lyrics" value="lyrics">Lyrics</option>
+
+	                   	</select>
+	                </div>
+	                <button type="submit" class="search">Search</button>                    
+	                </form>
+	            </div>
+					            <div id="header-ads">
+	                <div class="larger" style="float:left;margin-left:20px;margin-right:0"><iframe src="/adframe/global.ad.728x90.html" style="margin:0;padding:0;width:728px;height:90px" framespacing="0" frameborder="no" scrolling="no" align="center"></iframe></div>     
+	            	<div class="smaller" style="float:right;margin-right:20px;margin-left:0"><iframe src="/adframe/global.ad.228x90.html" style="margin:0;padding:0;width:228px;height:90px" framespacing="0" frameborder="no" scrolling="no" align="center"></iframe></div>
+	            </div>
+	           	<div id="nav">
+	            	<ul class="sf-menu">
+	                	<li><a href="/" title="Home">Home</a><div class="sf-menu-line"></div></li>
+	                    <li><a href="/index/news" title="News">News</a><div class="sf-menu-line"></div></li>
+						<li><a href="/index/videos" title="Videos">Videos</a><div class="sf-menu-line"></div></li>
+						<li><a href="javascript:void(null);" rel="nofollow">Audio<span class="sf-sub-indicator"> </span></a><div class="sf-menu-line"></div>
+							<ul>
+								<li><a href="/index/audio" class="submenu">Singles</a></li>
+								<li style="height:36px"><a href="/index/mixtape" class="submenu">Mixtapes</a></li>
+							</ul>
+						</li>
+						<li><a href="javascript:void(null);" rel="nofollow">Reviews<span class="sf-sub-indicator"> </span></a><div class="sf-menu-line"></div>
+							<ul>
+								<li style="height:48px"><a href="/index/reviews" class="submenu" style="height:32px">Album Reviews</a></li>
+								<li><a href="/index/movies" class="submenu">Movies &amp; TV</a></li>
+								<li style="height:36px"><a href="/index/videogames" class="submenu">Video Games</a></li>
+							</ul>
+						</li>
+						<li><a href="javascript:void(null);" rel="nofollow">Features<span class="sf-sub-indicator"> </span></a><div class="sf-menu-line"></div>
+							<ul>
+								<li><a href="/index/interviews" class="submenu">Interviews</a></li>
+								<li><a href="/index/editorials" class="submenu">Editorials</a></li>
+								<li><a href="/index/dxnext" class="submenu">DX Next</a></li>
+								<li style="height:48px;"><a href="/index/brains-beauty" class="submenu" style="height:32px;">Brains &amp; Beauty</a></li>
+                                <li style="height:48px;"><a href="/index/release-dates" class="submenu" style="height:32px;">Release Dates</a>
+								</li><li><a href="/index/hitlist" class="submenu">Hitlists</a></li>
+                                <li><a href="/index/contests" class="submenu">Contests</a></li>
+								<li style="height:36px;"><a href="http://www.hiphopdx.com/messageboard/" class="submenu" style="font-size:13px">Messageboard</a></li>
+							</ul>
+						</li>
+                        <li id="shopBtnLi" style="height:51px"><a href="http://shop.hiphopdx.com/?utm_source=hiphopdx&amp;utm_medium=web&amp;utm_content=navlink&amp;utm_campaign=clicktrack" title="DX Shop" style="margin:0;padding-top:11px;padding-bottom:0;border:0;height:40p"><img src="http://www1.hiphopdx.com/images/nav.dxshop.off.gif" alt="DX Shop" id="shopBtn"></a></li>
+	                </ul>
+	            </div> <!-- nav -->
+	        </div> <!-- header -->
+			<div id="contentWrapper"><div id="page">	
+	<!-- ===   FW BILLBOARD  - HOME === -->
+	<!--   begin ad tag (tile=6) -->
+	<style>
+	#fw_promo {display: none;margin-bottom:5px;}
+	</style>
+	<div id="fw_promo" class="fw_hiphopdx">
+	<script language="JavaScript" type="text/javascript">
+	ord=Math.random()*10000000000000000;
+	document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/cmn_hiphopdx/home;s=a;tile=6;sz=1020x400;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/cmn_hiphopdx/home;s=a;tile=6;sz=1020x400;ord=7391413923776409?" type="text/javascript"></script>
+	</div> 
+	<!-- End ad tag -->		<div id="bread"><a href="/">Home</a> &gt; <div class="last-crumb">Privacy Policy</div> </div>
+    
+    <div id="left-ad">
+        <div class="long-ad"><iframe src="/adframe/global.ad.160x600.html" style="margin:0;padding:0;width:160px;height:600px" framespacing="0" frameborder="no" scrolling="no" align="center"></iframe></div>
+    </div>
+    
+
+    
+    <div id="lyric-body">
+    	<div id="left-body" style="padding-top:0">
+
+            <div id="dx-comments" style="margin-top:0;">
+	            <div class="hdr">
+					<div class="hdr-txt"><img src="/images/hdr.dx.jpg" alt="DX" style="width:38px;height:35px"><h2>Privacy Policy</h2></div>
+				</div>
+				<div id="dx-post-body-area">
 
 
-<div style="width: 960px; position: absolute; top: 214px; z-index: 1099;">
-	<div id="menu1" class="menus" onmouseout="hideMenu('menu1');">
-		
-		<a href="/index/news?nav">HIP HOP NEWS</a>
-		<a href="/index/features?nav">FEATURES</a>
-		<a href="/index/columns-editorials?nav">COLUMNS &amp; EDITORIALS</a>
-		<a href="/index/hitlist?nav">HITLIST</a>
-		<a href="/index/release-dates?nav">RELEASE DATES</a>
-		<a href="/index/reviews?nav">ALBUM REVIEWS</a>
-		<a href="/index/lyrics?nav" style="border: none;">LYRICS</a>
-		
+					<p style="margin-bottom:5px">The information
+					Cheri Media Group, HipHopDX.com and its affiliated persons and
+					entities ("Cheri Media Group") collects about you at
+					<a href="http://www.hiphopdx.com">http://www.HipHopDX.com</a>
+					("HipHopDX.com"), is used to provide you with a more
+					personalized and rich experience while visiting HipHopDX.com.
+					HipHopDX.com is intended for viewing solely in the United States.
+					Your use of HipHopDX.com is expressly conditioned on your acceptance
+					of and agreement to this Privacy Policy. This Privacy Policy sets
+					forth the terms and conditions that apply to your use of
+					HipHopDX.com. By using HipHopDX.com, you agree to abide by this
+					Privacy Policy. In addition, when using specific services or entering
+					contests or sweepstakes, you agree to abide by any guidelines or
+					rules posted in connection with such services, contests or
+					sweepstakes, all of which are hereby incorporated by reference into
+					this Privacy Policy. <strong>If you do not agree with any posted
+					guidelines or rules, or with any part of this Privacy Policy, you
+					must not use HipHopDX.com.</strong> If you do not comply with this
+					Privacy Policy at all times when using HipHopDX.com, Cheri Media
+					Group reserves the right to deny or restrict your access. The terms
+					and conditions of this Privacy Policy shall apply regardless of the
+					means by which HipHopDX.com was accessed, including but not limited
+					to through the URL, electronic mail or links from other sites. Please
+					read on for details.</p>
+
+					<p style="margin-bottom:5px">
+					<strong>What Does This Privacy Policy Cover?</strong> <br>
+
+					This
+					Privacy Policy covers how Cheri Media Group treats information that
+					Cheri Media Group collects and receives about you via HipHopDX.com,
+					including information related to your past use of HipHopDX.com. Cheri
+					Media Group has prepared a detailed policy in order for you to know
+					as much as possible about Cheri Media Group's practices so that you
+					can make informed decisions. By using HipHopDX.com and thereby
+					agreeing to this Privacy Policy, you expressly consent to Cheri Media
+					Group's use and disclosure of automatic and personal information
+					provided to Cheri Media Group when you interact with HipHopDX.com, as
+					described in this Privacy Policy. This Privacy Policy does not apply
+					to: (i) the practices of companies or other third parties that Cheri
+					Media Group does not own or control, or people that Cheri Media Group
+					does not employ or manage; or (ii) any offline matters, activities or
+					information that Cheri Media Group or any affiliate collects about
+					you or anybody else.</p>
+
+					<p style="margin-bottom:5px">
+					<strong>YOUR CALIFORNIA PRIVACY RIGHTS </strong>
+					</p>
+
+					<p style="margin-bottom:5px">
+					Residents of the State of California, under a provision of the
+					California Civil Code, have the right to request from companies
+					conducting business in California a list of all third parties to
+					which the company has disclosed personal information during the
+					preceding year for direct marketing purposes. Alternatively, the law
+					provides that if the company has a privacy policy that gives either
+					an opt-out or opt-in choice for use of your personal information by
+					third parties (such as advertisers or affiliated companies) for
+					marketing purposes, the company may instead provide you with
+					information on how to exercise your disclosure choice options. 
+					</p>
+
+					<p style="margin-bottom:5px">
+					HipHopDX.com qualifies for the alternative option by allowing you to
+					opt-out or opt in to the use of your personal information by third
+					parties for direct marketing purposes as described below. Therefore,
+					we are not required to maintain or disclose a list of the third
+					parties that received your personal information for marketing
+					purposes during the preceding year. 
+					</p>
+
+					<p style="margin-bottom:5px">
+					If you are a California resident and request information about how to
+					exercise your third party disclosure choices you must send an email
+					request to admin@cherimediagroup.com with the phrase â€œYour
+					California Privacy Rightsâ€ in the subject line. The response will
+					be sent to the email address from which the request was received.  We
+					will not accept requests via postal mail, the telephone or by
+					facsimile. We are not responsible for notices that are not labeled or
+					sent properly, or do not have complete information.</p>
+
+					<p style="margin-bottom:5px">
+					<strong>How Does Cheri Media Group Collect and Use Information About
+					You?</strong><br>
+
+					The information learned from HipHopDX.com's users,
+					members and customers helps Cheri Media Group personalize and
+					continually improve your experience at HipHopDX.com. Here are the
+					types of information Cheri Media Group gathers and how this
+					information is used:</p>
+
+					<p style="margin-bottom:5px">
+					Automatic Information: Cheri Media Group
+					receives and stores certain types of Automatic Information whenever
+					you interact with HipHopDX.com. Here are the types of Automatic
+					Information Cheri Media Group gathers and how it is used:</p>
+
+					<p style="margin-bottom:5px">
+					IP Address: Your Internet Protocol
+					("IP") address is a unique identifier used to connect your
+					computer to the Internet. Your IP address also is stored in
+					HipHopDX.comâ€™s user registration databases when you register with
+					HipHopDX.com.</p>
+
+					<p style="margin-bottom:5px">
+					IP addresses may be used for various purposes, including to:</p>
+
+					<ul><li><p style="margin-bottom:5px">
+						Help Cheri Media Group identify you and your shopping cart and to
+						gather broad demographic information. 
+						</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Diagnose
+						service or technology problems reported by HipHopDX.com users or
+						engineers that are associated with the IP addresses controlled by a
+						specific Web company or ISP. 
+						</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Estimate the
+						total number of users visiting HipHopDX.com from specific countries
+						or regions of the world.</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Track visits
+						to and business at HipHopDX.com's stores.</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Help
+						determine which users have access privileges to certain content that
+						HipHopDX.com hosts. 
+						</p>
+
+					</li>
+
+					</ul>
+
+					<p style="margin-bottom:5px">
+					Cookies: HipHopDX.com uses a feature of
+					your Internet Web browser called a "cookie," a small piece
+					of information stored on your hard drive that uniquely identifies
+					your intra- and inter-requests on HipHopDX.com. Cookies may be used
+					for various purposes, including to keep track of preferences you
+					specify while you are using HipHopDX.com. Other companies that are
+					presenting advertisements on some of HipHopDX.comâ€™s pages may set
+					and access cookies on your computer. Cheri Media Group does not
+					control cookies from third-party advertisers. Other companies' use of
+					their cookies is subject to their own privacy policies and not the
+					privacy policy of Cheri Media Group The use of advertising cookies
+					sent by third-party servers is standard in the Internet industry.</p>
+
+					<p style="margin-bottom:5px">
+					Web Beacons: Web pages may contain
+					electronic images (called a "single-pixel GIF" or "Web
+					beacon") that allow a website to count users who have visited
+					that page or to access certain cookies. Cheri Media Group uses Web
+					beacons in the following ways:</p>
+
+					<ul><li><p style="margin-bottom:5px">
+						Within HipHopDX.com in order to count users and to recognize users
+						by accessing HipHopDX.com cookies. 
+						</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">To
+						personalize your experience when you visit HipHopDX.com. 
+						</p>
+
+					</li>
+
+					</ul>
+
+					<p style="margin-bottom:5px">
+					Mobile Device Unique Identifier:
+					HipHopDX.com may from time to time provide services that allow users
+					to access and customize Internet content through mobile phones, PDAs
+					and other alternative devices. These devices may collect different
+					information than what is collected by computers.</p>
+
+					<ul><li><p style="margin-bottom:5px">
+						When connecting to HipHopDX.com using a mobile device that provides
+						Internet access, if the mobile device service provider uniquely
+						identifies the device, Cheri Media Group will receive this
+						information. 
+						</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Cheri Media
+						Group may use this unique mobile device identification information
+						to offer extended services and/or functionality. 
+						</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Certain
+						HipHopDX.com services may require collection of the phone number for
+						your device. Cheri Media Group may associate that phone number to
+						the mobile device identification information. 
+						</p>
+
+					</li>
+
+					</ul>
+
+					<p style="margin-bottom:5px">
+					Physical Location 
+					</p>
+
+					<ul><li><p style="margin-bottom:5px">
+						Some mobile phone service providers in the United States are
+						required to operate a system that will pinpoint the physical
+						location of devices that use their service. 
+						</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Depending on
+						the provider and if you are located in the United States, Cheri
+						Media Group may automatically receive this information. 
+						</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Cheri
+						Media Group may use and store this information to provide enhanced
+						location-based services as well as to serve location-targeted
+						advertising. 
+						</p>
+
+					</li>
+
+					</ul>
+
+					<p style="margin-bottom:5px">
+					Personal Information: Cheri Media Group
+					also receives and stores information that personally identifies you.
+					The types of personally identifiable information that may be
+					collected at HipHopDX.com include: name, address, email address,
+					phone number, fax number, billing address, shipping address, product
+					selections, order number, referring URL, IP address, password,
+					username, how you got to know about HipHopDX.com, gender, occupation,
+					personal interests, your age and information about your interests in
+					and use of various products, programs and services. You voluntarily
+					provide this personally identifiable information when you enter it on
+					HipHopDX.com to sign up as a member of HipHopDX.com, whether in
+					connection with a newsletter subscription, when you enter a
+					sweepstakes, promotion or contest and/or other special benefits. 
+					</p>
+
+					<p style="margin-bottom:5px">
+					At HipHopDX.com, you can submit personally identifiable information
+					about other people. For example, you might submit a person's name and
+					email address to email a HipHopDX.com news story and, if you are
+					located in the United States, order a gift on HipHopDX.com and want
+					it sent directly to the recipient, you might submit the recipient's
+					name and address. The types of personally identifiable information
+					that may be collected and stored about other people at HipHopDX.com
+					include: recipient's name, address, email address and telephone
+					number. Cheri Media Group does not knowingly share with, rent,
+					transfer or sell personally identifiable information that you submit
+					about other people to any third parties or nonaffiliated entities.</p>
+
+					<p style="margin-bottom:5px">
+					If you would like to update the information you provide in your
+					membership account or unsubscribe to newsletters, please visit
+					[INSERT LINK TO MEMBER LOGIN PAGE].
+					New categories of marketing communications may be added to the
+					account preferences page
+					from time to time. Users who visit this page can opt out of receiving
+					future marketing communications from these new categories or they can
+					unsubscribe by following instructions contained in the messages they
+					receive. Cheri Media Group reserves the right to send you certain
+					communications relating to Cheri Media Group services, such as
+					service announcements, administrative messages and the HipHopDX.com
+					newsletter without offering you the opportunity to opt-out of
+					receiving them. 
+					</p>
+
+					<p style="margin-bottom:5px">
+					If you are located in the United States and make a purchase on
+					HipHopDX.com, Cheri Media Group will collect and store your
+					personally identifiable information. When processing an order on
+					HipHopDX.com, Cheri Media Group needs to know your name, mailing
+					address, billing address, email address, telephone number, product
+					selection, order number, credit card number, security code and
+					expiration date. This information is necessary to process your order
+					and to keep you updated on your shipping status. Cheri Media Group
+					may share such information with companies that help us process
+					information, extend credit, fulfill customer orders, deliver products
+					to you, manage and enhance customer data, provide customer service,
+					assess your interest in our products and services, or conduct
+					customer research or satisfaction surveys. These companies are also
+					obligated to protect your personal information in accordance with
+					Cheri Media Groupâ€™s policies.</p>
+
+					<p style="margin-bottom:5px">
+					<strong>Does Cheri Media Group Ever Share Information with Other
+					Parties?</strong></p>
+
+					<p style="margin-bottom:5px">
+					<strong>Disclosure of Information to Outside Parties:</strong> Cheri
+					Media Group does not rent, sell, or share personal information about
+					you with other people or nonaffiliated companies except to provide
+					products or services you've requested, when we have your permission,
+					or under the following circumstances. Cheri Media Group may disclose
+					information about you to those whose practices are not covered by
+					this Privacy Policy under certain circumstances including, but not
+					limited to:</p>
+
+					<ul><li><p style="margin-bottom:5px">
+						Cheri Media Group provides the information to trusted partners who
+						work on behalf of or with Cheri Media Group and under
+						confidentiality arrangements. These companies may use your personal
+						information to help Cheri Media Group communicate with you about
+						offers from Cheri Media Group and our marketing partners. 
+						</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Cheri Media
+						Group responds to subpoenas, court orders, or legal process, or to
+						establish or exercise Cheri Media Group's legal rights or defend
+						against legal claims. 
+						</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Cheri Media
+						Group shares information in order to investigate, prevent or take
+						action regarding illegal activities, suspected fraud, situations
+						involving potential threats to the physical safety of any person,
+						violations of Cheri Media Group's terms of use or as otherwise
+						allowed by law. 
+						</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Cheri Media
+						Group may also disclose information about you if it determines that
+						for national security, law enforcement, or other issues of public
+						importance, disclosure is necessary.</p>
+
+						</li>
+
+					<li><p style="margin-bottom:5px">Cheri
+						Media Group displays targeted advertisements based on personal
+						information. Advertisers (including ad serving companies) may assume
+						that people who interact with, view or click on targeted ads meet
+						the targeting criteria (for example, women ages 18-24 from a
+						particular geographic area). By interacting with or viewing an ad
+						you are consenting to the possibility that the advertiser will make
+						the assumption that you meet the targeting criteria used to display
+						the ad. 
+						</p>
+
+					</li>
+
+					</ul>
+
+					<p style="margin-bottom:5px">
+					Due to the existing regulatory environment, Cheri Media Group cannot
+					ensure that all of your private communications and other personal
+					information will never be disclosed in ways not otherwise described
+					in this Privacy Policy. By way of example (without limiting the
+					foregoing), third parties may unlawfully intercept or access
+					transmissions or private communications. 
+					</p>
+
+					<p style="margin-bottom:5px">
+					<strong>Links to Outside Third Parties:</strong> Cheri Media Group
+					may establish relationships with business partners by creating a link
+					between their sites and HipHopDX.com. Cheri Media Group is not,
+					however, responsible for the content, maintenance or privacy policies
+					of those sites. Once you click over to a third party site, Cheri
+					Media Group encourages you to check its privacy policy.</p>
+
+					<p style="margin-bottom:5px">
+					HipHopDX.com may contain links to other sites whose information
+					practices may be different than the information practices of Cheri
+					Media Group. Users who click over to a third party site from a link
+					on HipHopDX.com must be aware that Cheri Media Group makes no
+					warranties with regard to that site's policies or business practices.
+					Cheri Media Group is not responsible for any transactions that occur
+					between the user and the third party site. Please consult the other
+					sites' privacy policies, as Cheri Media Group has no control over
+					information that is submitted to or collected by these third parties.
+					Should a user purchase any products or services from that third party
+					site, the user must contact the third party site directly regarding
+					any disputes that might occur, including but not limited to delayed
+					shipping, missing products, damaged goods or pricing and billing
+					discrepancies. Cheri Media Group is not responsible for the actions
+					of any third-party site.</p>
+
+					<p style="margin-bottom:5px">
+					<strong>Business Transfers:</strong> As Cheri Media Group continues
+					to develop its business, it might sell or buy assets. In such
+					transactions, customer information generally is one of the
+					transferred business assets. Also, in the event that Cheri Media
+					Group or substantially all of its assets are acquired, customer
+					information will be one of the transferred assets.</p>
+
+					<p style="margin-bottom:5px">
+					<strong>Children's Guidelines:</strong> Cheri Media Group does not
+					knowingly collect personally identifiable information from children
+					under the age of 13, nor does it contact children under the age of 13
+					about special offers or for marketing purposes without a parent's
+					permission. Cheri Media Group encourages parents and legal guardians
+					to monitor their children's Internet use. Also, Cheri Media Group
+					strongly encourages parents to help Cheri Media Group enforce its
+					Privacy Policy by instructing their children never to provide
+					personal information on HipHopDX.com without permission.</p>
+
+					<p style="margin-bottom:5px">
+					It is possible that due to fraud or deception by others, Cheri Media
+					Group may unknowingly receive information pertaining to children
+					under the age of 13. If Cheri Media Group is notified of this, once
+					Cheri Media Group has verified the information, Cheri Media Group
+					will promptly delete the information from its servers or otherwise
+					obtain parental consent. 
+					</p>
+
+					<p style="margin-bottom:5px">
+					<strong>Public Forums:</strong> HipHopDX.com has chat rooms, forums,
+					message boards and newsgroups available to its users. Please remember
+					that any information disclosed in these areas becomes public
+					information. Exercise caution when deciding to disclose your personal
+					information, personally identifiable information you submit to one of
+					these forums can be read, collected, or used by other individuals to
+					send you unsolicited messages. Cheri Media Group is not responsible
+					for the personally identifiable information you choose to submit in
+					these forums. As these forums are public and open for users to
+					interact with each other, Cheri Media Group expects all its users to
+					respect the rights of others. 
+					</p>
+
+					<p style="margin-bottom:5px">
+					<strong>Consent to International Information Transfers:</strong>
+					HipHopDX.com is operated in the United States and is intended for
+					viewing solely in the United States. While Cheri Media Group is
+					committed to providing your information with a high level of privacy
+					protection, you should know that the general level of protection for
+					personal information in the United States may not be the same as that
+					provided in other countries. If you are located outside of the United
+					States, please be aware that any information you provide to Cheri
+					Media Group will be transferred to the United States. By using
+					HipHopDX.com, participating in any HipHopDX.com services and/or
+					providing Cheri Media Group with personally identifiable information,
+					you fully understand and unambiguously consent to this transfer and
+					the collection and processing of information in the United States.</p>
+
+					<p style="margin-bottom:5px">
+					<strong>Changes to This Privacy Policy:</strong> Cheri Media Group
+					will occasionally update this Privacy Policy at Cheri Media Group's
+					sole discretion. Please check HipHopDX.com frequently to see recent
+					changes. Such changes and/or modifications shall become effective
+					immediately upon posting thereof. When Cheri Media Group changes the
+					policy in a material way a notice will be posted on our website along
+					with the updated Privacy Policy. Your continued use of HipHopDX.com
+					constitutes your agreement to this Privacy Policy, as it may be
+					amended from time to time, and all of the terms and conditions set
+					forth therein.</p>
+                </div>
+			</div>	
+		</div>
+        <div id="sidebar">
+        	<div class="side-elem-desc">
+	<div class="header">
+	    <h2>Editorial Staff</h2>
 	</div>
-	<div id="menu2" class="menus" onmouseout="hideMenu('menu2');">
-		
-		<a href="/blogs/">BLOGS</a>
-		<a href="/messageboard/?nav">MESSAGE BOARD</a>
-		<a href="/index/chatroom?nav">CHAT ROOM</a>
-		<a href="/index/dxnext?nav">DXNEXT</a>
-		<a href="/index/contests?nav" style="border: none;">CONTESTS</a>
-		
-	</div>
-	<div id="menu3" class="menus" onmouseout="hideMenu('menu3');">
-		
-		<a href="/index/audio?nav">AUDIO</a>
-		<a href="/index/videos?nav">VIDEO</a>
-		<a href="/index/mixtape?nav" style="border: none;">MIXTAPES</a>
-	</div>
-	<div id="menu4" class="menus" onmouseout="hideMenu('menu4');">
-		
-		<a href="/index/lifestyle-features?nav">FEATURES</a>
-		<a href="/index/parties-pix?nav">PARTIES &amp; PICS</a>
-		<a href="/index/brains-beauty?nav">BEAUTY &amp; BRAINS</a>
-		<a href="/index/movies?nav">MOVIES</a>
-		<a href="/index/boondocks?nav">THE BOONDOCKS</a>
-		<a href="/index/videogames?nav">VIDEO GAMES</a>
-		<a href="/index/television?nav" style="border: none;">TELEVISION</a>
-	</div>
-	<div id="menu5" class="menus" onmouseout="hideMenu('menu5');">
-		
-		<a href="http://www.theevilcollector.com/index/category/features/?nav">FEATURES</a>
-		<a href="http://www.theevilcollector.com/index/category/men/?nav">MEN</a>
-		<a href="http://www.theevilcollector.com/index/category/women/?nav">WOMEN</a>
-		<a href="http://www.theevilcollector.com/index/category/toys/?nav">TOYS</a>
-		<a href="http://www.theevilcollector.com/index/category/store-watch/?nav" style="border: none;">STOREWATCH</a>
+	<div class="feature-box">	
+	    <div class="side-elem-list">
+			<div class="side-elem-list-holder">
+            	<div class="staff-name">
+					<h3>Jake Paine</h3>
+				</div>
+				<div class="staff-pos">
+					Editor-In-Chief
+				</div>
+			</div>
+			<div class="side-elem-list-holder">
+            	<div class="staff-name">
+					<h3>Omar Burgess</h3>
+				</div>
+				<div class="staff-pos">
+					Editor
+				</div>
+			</div>
+			<div class="side-elem-list-holder">
+            	<div class="staff-name">
+					<h3>Kathy Iandoli</h3>
+				</div>
+				<div class="staff-pos">
+					Media Editor
+				</div>
+			</div>
+			<div class="side-elem-list-holder">
+            	<div class="staff-name" style="line-height:1.5em">
+					Tanisha Alston, Paul W. Arnold, Amanda Bassa, Alvin aqua Blanco,
+					Melanie Cornish, Michael Cusenza, Sylvia Dedeyan, A.L. Dre, Jeff
+					Effendi, Tanya Fowlow, Kevin S. Gary, Luke Gibson, Quinton Hatfield,
+					Danielle Harling, Haaron Hines, Edwyn Huang, Krysten Hughes, Allen
+					Jacobs, Mina Jasarevic, Sha'Linda Jeanine, Andrew Kameka, Slav
+					Kandyba, William E. Ketchum, Salima Koroma, Slava Kuperstein, Rohit
+					Loomba, Andrew Noz, Edwin Ortiz, Rashad Phillips, Remco Semaun, Brian
+					Sims, Danielle Stolich, Andres Tardio, Adam Thomas, Chris Thomas, Alex
+					Thornton, Sudaara White, DeMarco Williams.
+				</div>
+				<div class="staff-pos">
+					Contributors
+				</div>
+			</div>
+
+		</div>
 	</div>
 </div>
 
-<div id="header">
-	<div id="signin">
-		<table width="710">
-	<tbody><tr>
-	<td style="width: 412px; text-align: right; color: #fff;">
-		<form method="post" action="/messageboard/login.php" style="width: 478px; margin: 0; padding: 0;" id="hhdx_signin">
-			<input type="hidden" style="padding: 0px;" value="true" name="login">
-			<input type="hidden" style="padding: 0pt;" value="../index/privacy" name="redirect">
-			<a href="/index/register">BECOME A MEMBER</a>&nbsp;
-			<input id="username" class="text" style="vertical-align: middle; left: 490px" type="text" onfocus="clearTxt(this)" value="Username" name="username">
-			<input id="password" class="text" style="vertical-align: middle; left: 604px" type="password" onfocus="clearTxt(this)" value="Password" name="password"> 
-			<input type="checkbox" name="autologin" style="padding: 0; margin:0; vertical-align: middle;"> 
-			 SAVE INFO &nbsp; <a href="javascript:document.getElementById('hhdx_signin').submit();">SIGN IN</a>
-		</form>
-	</td>
-	<td style="padding: 0; margin: 0;"><span style="color: #4D2703; padding: 0 2px 0 0;"> | </span></td>
-	<td>
-		<!-- Google CSE Search Box Begins  -->
-		<form action=" /index/search" id="cse-search-box;NB:1">
-		  <div>
-		    <input type="hidden" name="cx" value="000613828212854000441:2akcqgxqwwc">
-		    <input type="hidden" name="cof" value="FORID:11;NB:1">
-		    <input type="hidden" name="ie" value="UTF-8">
-		    <input type="text" name="q" size="31" style="width:135px;">
-		    <input type="submit" name="sa" value="Search" style="border:1px;">
-		  </div>
-		</form>
-		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>		
-		<!-- Google CSE Search Box Ends -->
-	</td>
-	</tr>
-</tbody></table>
-
+<div class="side-elem-desc">
+	<div class="header">
+	    <h2>The Publisher</h2>
 	</div>
-	<div id="logorow">
-		<div id="logo">
-			<a href="/"><img src="http://cdn.hiphopdx.com/inc/html/default/img/skin/header/logo.gif" border="0" alt="HipHopDX.com"></a><br>
-			
-				<script language="JavaScript">
-				d = new Date();
-				str = "ISSUE " + d.formatDate("F j Y")
-				document.write(str.toUpperCase()); 
-				</script>
-			
-		</div>
-		<div id="ad">	
-			<iframe style="margin: 0; padding: 0;" width="728" height="90" framespacing="0" frameborder="no" scrolling="no" align="center" src="/inc/app/misc/html/sidebars/ads/DART-ad-728x90-ROS-iframe.html"></iframe>
-		</div>
-	</div>
-	<div id="newsletter">
-		<form method="post" action="/index/newsletter" name="ccoptin">
-			<img style="padding: 2px 6px 0 0;" src="http://cdn.hiphopdx.com/inc/html/default/img/skin/header/txt-join_newsletter.gif" alt="Join Newsletter">				
-			<input id="fname" class="text" type="text" style="padding: 0 0 0 0; width: 120px;" onfocus="clearTxt(this)" value="Full Name" name="fname">&nbsp;
-			<input id="ea" class="text" type="text" style="padding: 0 0 0 0; width: 120px;" onfocus="clearTxt(this)" value="Email Address" name="ea">
-			<input type="image" style="padding: 2px 0 0 6px" alt="Subscribe" onmouseout="javascript:this.src='http://cdn.hiphopdx.com/inc/html/default/img/skin/header/btn-submit.gif';" onmouseover="javascript:this.src='http://cdn.hiphopdx.com/inc/html/default/img/skin/header/btn-submit_on.gif';" src="http://cdn.hiphopdx.com/inc/html/default/img/skin/header/btn-submit.gif" value="go" name="go">
-		</form>
-	</div>
-
-	<div id="navrow" style="float: left; background: #984F09; width: 960px;">
-		<div id="nav">
-			<a style="float: left" href="/?nav"><img src="http://cdn.hiphopdx.com/inc/html/default/img/skin/header/btn-menu-home.gif" alt="Home" border="0" onmouseover="this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-home_on.gif';" onmouseout="this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-home.gif';"></a>
-			<a style="float: left" href="/index/hip-hop?nav"><img src="http://cdn.hiphopdx.com/inc/html/default/img/skin/header/btn-menu-hiphop.gif" alt="Hip Hop" border="0" onmouseover="showMenu('menu1');this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-hiphop_on.gif';" onmouseout="hideMenu('menu1');this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-hiphop.gif';"></a>
-			<a style="float: left" href="/index/community?nav"><img src="http://cdn.hiphopdx.com/inc/html/default/img/skin/header/btn-menu-community.gif" alt="Community" border="0" onmouseover="showMenu('menu2');this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-community_on.gif';" onmouseout="hideMenu('menu2');this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-community.gif';"></a>
-			<a style="float: left" href="/index/media?nav"><img src="http://cdn.hiphopdx.com/inc/html/default/img/skin/header/btn-menu-media.gif" alt="Media" border="0" onmouseover="showMenu('menu3');this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-media_on.gif';" onmouseout="hideMenu('menu3');this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-media.gif';"></a>
-			<a style="float: left" href="/index/lifestyle?nav"><img src="http://cdn.hiphopdx.com/inc/html/default/img/skin/header/btn-menu-lifestyle.gif" alt="Lifestyle" border="0" onmouseover="showMenu('menu4');this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-lifestyle_on.gif';" onmouseout="hideMenu('menu4');this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-lifestyle.gif';"></a>
-			<a style="float: left" href="http://www.theevilcollector.com/?nav"><img src="http://cdn.hiphopdx.com/inc/html/default/img/skin/header/btn-menu-fashion.gif" alt="Fashion" border="0" onmouseover="showMenu('menu5');this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-fashion_on.gif';" onmouseout="hideMenu('menu5');this.src='http://cdn.hiphopdx.com'+imgPath+'btn-menu-fashion.gif';"></a>
-		</div>
-		<div id="navright">
-            <a href="http://twitter.com/hiphopdx" target="_blank"><img src="/inc/html/default/img/twitter-follow.jpg" alt="follow hiphopdx on twitter" border="0"></a>
+	<div class="feature-box">	
+	    <div class="side-elem-list">
+			<div class="side-elem-list-holder">
+				<div class="staff-name">
+		            <h3>Sharath "Tommy C" Cherian</h3>
+				</div>
+				<div class="staff-pos">
+		            PRESIDENT/FOUNDER
+				</div>
+			</div>
+			<div class="side-elem-list-holder">
+				<div class="staff-name">
+		            <h3>Jeff "J-23" Ryce</h3>
+				</div>
+				<div class="staff-pos">
+					Marketing Director
+				</div>
+			</div>
+			<div class="side-elem-list-holder">
+				<div class="staff-name">
+		            <h3>Jonathan Weinberg</h3>
+				</div>
+				<div class="staff-pos">
+					Sales Representative
+				</div>
+			</div>
+			<div class="side-elem-list-holder">
+				<div class="staff-name">
+		            <h3>Michael Trampe</h3>
+				</div>
+				<div class="staff-pos">
+					Marketing Associate / Intern Manager
+				</div>
+			</div>
+			<div class="side-elem-list-holder">
+				<div class="staff-name">
+		            <h3>Karam Debly</h3>
+				</div>
+				<div class="staff-pos">
+					Technology Chief
+				</div>
+			</div>
+			<div class="side-elem-list-holder">
+				<div class="staff-name">
+		            <h3>Ryan Neudorf</h3>
+				</div>
+				<div class="staff-pos">
+					Internet Ninja
+				</div>
+			</div>
 		</div>
 	</div>
-	<img src="http://cdn.hiphopdx.com/inc/html/default/img/skin/header/bottom-dirt.jpg" alt="">
-
-</div>
-</div>
-	<div id="sidebar-container">
-		<div class="padding">
-		<form action="/index/misc-contactus-action/" name="contactform" method="post">
-<img src="http://cdn.hiphopdx.com/inc/html/default/img/skin/sidebar/hdr-sendquickemail.gif">
-<table cellspan="0" colspan="0" width="98%">
-	<tbody><tr>
-		<td align="right">To:</td>
-		<td>
-			<select name="to" style="width: 250px;" class="text">
-			<option value="businessdev@hiphopdx.com">Founder/President</option>
-			<option value="editor@hiphopdx.com">Editor-N-Chief</option>
-			<option value="news@hiphopdx.com">News Editor</option>
-			<option value="music@hiphopdx.com">Music Editor</option>
-			<option value="lifestyle@hiphopdx.com">Lifestyle Editor</option>			
-			<option value="marketing@hiphopdx.com">Marketing Director</option>
-			<option value="tech@hiphopdx.com">IT Director</option>
-			<option value="myspace@hiphopdx.com">Myspace Artist</option>
-			<option value="fashion@hiphopdx.com">Fashion Editor</option>
-			</select>
-		</td>
-	</tr>
-	<tr>
-		<td align="right">Your Email:</td>
-		<td align="left"><input type="text" name="from" value="" style="width: 250px;" class="text"></td>
-	</tr>
-	<tr>
-		<td align="right">Subject:</td>
-		<td align="left"><input type="text" name="subject" value="" style="width: 250px;" class="text"></td>
-	</tr>
-	<tr>
-		<td colspan="2" align="left">
-		<textarea name="msg" style="width: 298px; height: 80px;" class="text"></textarea>
-		</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td align="right"><input type="image" name="submit" src="http://cdn.hiphopdx.com/inc/html/default/img/skin/sidebar/btn-submit.gif">
-	</td></tr>
-</tbody></table>
-</form>
-		<div id="advert" style="text-align: center;">
-<iframe style="margin: 0; padding: 0;" width="300" height="260" framespacing="0" frameborder="no" scrolling="no" align="center" src="/inc/app/misc/html/sidebars/ads/DART-ad-300x250-ROS-iframe.html"></iframe>
-</div>
+</div>            
+        </div> <!-- side bar -->
+                        
+    </div> <!-- lyric body -->               
+</div> <!-- page content -->
 		</div>
-	</div>	
-	<div id="content-container">
-		<h1 class="section">Privacy Policy</h1>
-		<div id="sidebar-media">
-		<img src="http://cdn.hiphopdx.com/inc/html/default/img/skin/sidebar/hdr-learnmore.gif">
-		<a href="/index/advertise#banners">Banner Campaign</a><br>
-		<hr>
-		<a href="/index/advertise#cobranding">Site Co-Branding</a><br>
-		<hr>
-		<a href="/index/advertise#prestitals">Pre-Stitials</a><br>
-		<hr>
-		<a href="/index/advertise#listeningParty">Listening Party</a><br>
-		<hr>
-		<a href="/index/advertise#hottrax">Audio</a><br>
-		<hr>
-		<a href="/index/advertise#newsletter">Newsletter</a><br>
-		<hr>
-		<a href="/index/advertise#mobile">News Alerts</a><br>
-		<hr>
-		<a href="/index/advertise#bulk">Bulk Packages &amp; Prices</a>
-		<br><br>
-		<iframe style="margin: 0; padding: 0;" width="160" height="625" framespacing="0" frameborder="no" scrolling="no" align="center" valign="top" src="/inc/app/misc/html/sidebars/ads/DART-ad-120x600-ROS-iframe.html"></iframe>
-		</div>
-		<div id="body">
-		
-<p>The information
-Cheri Media Group, HipHopDX.com and its affiliated persons and
-entities ("Cheri Media Group") collects about you at
-<a href="http://www.hiphopdx.com">http://www.HipHopDX.com</a>
-("HipHopDX.com"), is used to provide you with a more
-personalized and rich experience while visiting HipHopDX.com.
-HipHopDX.com is intended for viewing solely in the United States.
-Your use of HipHopDX.com is expressly conditioned on your acceptance
-of and agreement to this Privacy Policy. This Privacy Policy sets
-forth the terms and conditions that apply to your use of
-HipHopDX.com. By using HipHopDX.com, you agree to abide by this
-Privacy Policy. In addition, when using specific services or entering
-contests or sweepstakes, you agree to abide by any guidelines or
-rules posted in connection with such services, contests or
-sweepstakes, all of which are hereby incorporated by reference into
-this Privacy Policy. <strong>If you do not agree with any posted
-guidelines or rules, or with any part of this Privacy Policy, you
-must not use HipHopDX.com.</strong> If you do not comply with this
-Privacy Policy at all times when using HipHopDX.com, Cheri Media
-Group reserves the right to deny or restrict your access. The terms
-and conditions of this Privacy Policy shall apply regardless of the
-means by which HipHopDX.com was accessed, including but not limited
-to through the URL, electronic mail or links from other sites. Please
-read on for details.</p>
+		<div id="footer"> 
+            	<div id="copy-logo">
+                	<div id="footer-logo">HipHopDX.com</div>
+                    <div id="copyright">© 2009 CHERI MEDIA GROUP<br>All Rights Reserved</div>
+                </div>
+                <div id="footer-sep">&nbsp;</div>
+                <div id="links-base">
+                	<div class="link"><a href="/index/news">News</a></div>
+                    <div class="link"><a href="/index/videos">Video</a></div>
+                    <div class="link"><a href="/index/audio">Audio</a></div>
+                    <div class="link">Reviews</div>
+                    <div class="link">Features</div>
+                    <div class="link">Community</div>
+                    <div class="link"><a href="/index/contactus">Contact Us</a></div>
+                </div>
+                <div id="links-pages">
+                	<div class="link"><a href="/index/news">Hip Hop News</a></div>
+                    <div class="link"><a href="/index/videos">Hip Hop Videos</a></div>
+					<div class="link"><a href="/index/audio">Hip Hop Singles</a> | <a href="/index/mixtape">Hip Hop Mixtapes</a></div>
+                    <div class="link"><a href="/index/reviews">Albums</a> | <a href="/index/movies">Movies &amp; TV</a> | <a href="/index/videogames/">Video Games</a></div>
+                    <div class="link"><a href="/index/interviews">Interviews</a> | <a href="/index/editorials">Editorials</a> | <a href="/index/dxnext">DX Next</a> | <a href="/index/brains-beauty">Brains &amp; Beauty</a> | <a href="/index/release-dates">Release Dates</a> | <a href="/index/hitlist">Hitlist</a> | <a href="/index/contests">Contests</a></div>
+                	<div class="link"><a href="/index/login">Login</a> | <a href="/messageboard">Messageboard</a>| <a href="http://www.myspace.com/hiphopdx">MySpace</a> | <a href="http://www.facebook.com/pages/HipHopDXcom/6217682005">Facebook</a> | <a href="http://www.twitter.com/hiphopdx">Twitter</a></div>
+                	<div class="link"><a href="/index/contactus">Contact Us</a> | <a href="/index/internship">Internship</a> | <a href="/index/advertising">Advertising</a>| <a href="/index/sitemap">Site Map</a> | <a href="/index/tos">Terms of Use</a> | <a href="/index/privacy">Privacy Policy</a></div>
+                </div>
+                
+                			
+            </div> <!-- footer -->
+		</div> <!-- main content -->
+	</div> <!-- layout -->
+	<div id="jquery_jplayer"><!-- this is used for the player --></div>    
+    <div id="audiobar" style="display:none;padding-left:100px">
+    <div class="div-center">
+    
+    	<div id="audio-ad120" style="display:none;">
+    		
+    	</div> 
+
+    	<div class="logo"></div>
+		        
+    	<div id="player_container">
+        	<ul id="player_controls">
+                              <li id="player_play">play</li>
+                <li id="player_pause">pause</li>
+			            </ul>
+            
+            <div id="song_holder">
+                <div id="song_details">
+                    <div id="song_artist">&nbsp;</div>
+                    <div id="song_title">&nbsp;</div>
+                    <div id="song_comments" style="color:#ccc;">Loading...</div>
+                </div>
+                
+                <div id="song_rating">
+                </div>
+                
+                <div id="play_time">00:00</div>
+            
+                <div id="player_progress">
+                    <div id="player_progress_load_bar">
+                        <div id="player_progress_play_bar"></div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div id="player_volume_bar">
+            	<a href="javascript:void(null)"><div id="volume-base"></div></a>
+                
+                <div id="volume-bars">
+                <ul class="volume-level">
+                    <li class="current-rating" id="current-volume" style="width:16px"></li>
+                    <li><a href="javascript:void(null)" title="25 Volume" class="one-volume">1</a></li>
+                    <li><a href="javascript:void(null)" title="50 Volume" class="two-volume">2</a></li>
+                    <li><a href="javascript:void(null)" title="75 Volume" class="three-volume">3</a></li>
+                    <li><a href="javascript:void(null)" title="100 Volume" class="four-volume">4</a></li>
+                </ul> 
+                </div>           
+            </div>
+		</div><!-- player container -->
+            </div>   
+    </div> <!-- audiobar -->
+</div> <!-- mainBody -->
 
-<p>
-<strong>What Does This Privacy Policy Cover?</strong> <br>
-
-This
-Privacy Policy covers how Cheri Media Group treats information that
-Cheri Media Group collects and receives about you via HipHopDX.com,
-including information related to your past use of HipHopDX.com. Cheri
-Media Group has prepared a detailed policy in order for you to know
-as much as possible about Cheri Media Group's practices so that you
-can make informed decisions. By using HipHopDX.com and thereby
-agreeing to this Privacy Policy, you expressly consent to Cheri Media
-Group's use and disclosure of automatic and personal information
-provided to Cheri Media Group when you interact with HipHopDX.com, as
-described in this Privacy Policy. This Privacy Policy does not apply
-to: (i) the practices of companies or other third parties that Cheri
-Media Group does not own or control, or people that Cheri Media Group
-does not employ or manage; or (ii) any offline matters, activities or
-information that Cheri Media Group or any affiliate collects about
-you or anybody else.</p>
-
-<p>
-<strong>YOUR CALIFORNIA PRIVACY RIGHTS </strong>
-</p>
-
-<p>
-Residents of the State of California, under a provision of the
-California Civil Code, have the right to request from companies
-conducting business in California a list of all third parties to
-which the company has disclosed personal information during the
-preceding year for direct marketing purposes. Alternatively, the law
-provides that if the company has a privacy policy that gives either
-an opt-out or opt-in choice for use of your personal information by
-third parties (such as advertisers or affiliated companies) for
-marketing purposes, the company may instead provide you with
-information on how to exercise your disclosure choice options. 
-</p>
-
-<p>
-HipHopDX.com qualifies for the alternative option by allowing you to
-opt-out or opt in to the use of your personal information by third
-parties for direct marketing purposes as described below. Therefore,
-we are not required to maintain or disclose a list of the third
-parties that received your personal information for marketing
-purposes during the preceding year. 
-</p>
-
-<p>
-If you are a California resident and request information about how to
-exercise your third party disclosure choices you must send an email
-request to admin@cherimediagroup.com with the phrase “Your
-California Privacy Rights” in the subject line. The response will
-be sent to the email address from which the request was received.  We
-will not accept requests via postal mail, the telephone or by
-facsimile. We are not responsible for notices that are not labeled or
-sent properly, or do not have complete information.</p>
-
-<p>
-<strong>How Does Cheri Media Group Collect and Use Information About
-You?</strong><br>
-
-The information learned from HipHopDX.com's users,
-members and customers helps Cheri Media Group personalize and
-continually improve your experience at HipHopDX.com. Here are the
-types of information Cheri Media Group gathers and how this
-information is used:</p>
-
-<p>
-Automatic Information: Cheri Media Group
-receives and stores certain types of Automatic Information whenever
-you interact with HipHopDX.com. Here are the types of Automatic
-Information Cheri Media Group gathers and how it is used:</p>
-
-<p>
-IP Address: Your Internet Protocol
-("IP") address is a unique identifier used to connect your
-computer to the Internet. Your IP address also is stored in
-HipHopDX.com’s user registration databases when you register with
-HipHopDX.com.</p>
-
-<p>
-IP addresses may be used for various purposes, including to:</p>
-
-<ul><li><p>
-	Help Cheri Media Group identify you and your shopping cart and to
-	gather broad demographic information. 
-	</p>
-
-	</li>
-
-<li><p>Diagnose
-	service or technology problems reported by HipHopDX.com users or
-	engineers that are associated with the IP addresses controlled by a
-	specific Web company or ISP. 
-	</p>
-
-	</li>
-
-<li><p>Estimate the
-	total number of users visiting HipHopDX.com from specific countries
-	or regions of the world.</p>
-
-	</li>
-
-<li><p>Track visits
-	to and business at HipHopDX.com's stores.</p>
-
-	</li>
-
-<li><p>Help
-	determine which users have access privileges to certain content that
-	HipHopDX.com hosts. 
-	</p>
-
-</li>
-
-</ul>
-
-<p>
-Cookies: HipHopDX.com uses a feature of
-your Internet Web browser called a "cookie," a small piece
-of information stored on your hard drive that uniquely identifies
-your intra- and inter-requests on HipHopDX.com. Cookies may be used
-for various purposes, including to keep track of preferences you
-specify while you are using HipHopDX.com. Other companies that are
-presenting advertisements on some of HipHopDX.com’s pages may set
-and access cookies on your computer. Cheri Media Group does not
-control cookies from third-party advertisers. Other companies' use of
-their cookies is subject to their own privacy policies and not the
-privacy policy of Cheri Media Group The use of advertising cookies
-sent by third-party servers is standard in the Internet industry.</p>
-
-<p>
-Web Beacons: Web pages may contain
-electronic images (called a "single-pixel GIF" or "Web
-beacon") that allow a website to count users who have visited
-that page or to access certain cookies. Cheri Media Group uses Web
-beacons in the following ways:</p>
-
-<ul><li><p>
-	Within HipHopDX.com in order to count users and to recognize users
-	by accessing HipHopDX.com cookies. 
-	</p>
-
-	</li>
-
-<li><p>To
-	personalize your experience when you visit HipHopDX.com. 
-	</p>
-
-</li>
-
-</ul>
-
-<p>
-Mobile Device Unique Identifier:
-HipHopDX.com may from time to time provide services that allow users
-to access and customize Internet content through mobile phones, PDAs
-and other alternative devices. These devices may collect different
-information than what is collected by computers.</p>
-
-<ul><li><p>
-	When connecting to HipHopDX.com using a mobile device that provides
-	Internet access, if the mobile device service provider uniquely
-	identifies the device, Cheri Media Group will receive this
-	information. 
-	</p>
-
-	</li>
-
-<li><p>Cheri Media
-	Group may use this unique mobile device identification information
-	to offer extended services and/or functionality. 
-	</p>
-
-	</li>
-
-<li><p>Certain
-	HipHopDX.com services may require collection of the phone number for
-	your device. Cheri Media Group may associate that phone number to
-	the mobile device identification information. 
-	</p>
-
-</li>
-
-</ul>
-
-<p>
-Physical Location 
-</p>
-
-<ul><li><p>
-	Some mobile phone service providers in the United States are
-	required to operate a system that will pinpoint the physical
-	location of devices that use their service. 
-	</p>
-
-	</li>
-
-<li><p>Depending on
-	the provider and if you are located in the United States, Cheri
-	Media Group may automatically receive this information. 
-	</p>
-
-	</li>
-
-<li><p>Cheri
-	Media Group may use and store this information to provide enhanced
-	location-based services as well as to serve location-targeted
-	advertising. 
-	</p>
-
-</li>
-
-</ul>
-
-<p>
-Personal Information: Cheri Media Group
-also receives and stores information that personally identifies you.
-The types of personally identifiable information that may be
-collected at HipHopDX.com include: name, address, email address,
-phone number, fax number, billing address, shipping address, product
-selections, order number, referring URL, IP address, password,
-username, how you got to know about HipHopDX.com, gender, occupation,
-personal interests, your age and information about your interests in
-and use of various products, programs and services. You voluntarily
-provide this personally identifiable information when you enter it on
-HipHopDX.com to sign up as a member of HipHopDX.com, whether in
-connection with a newsletter subscription, when you enter a
-sweepstakes, promotion or contest and/or other special benefits. 
-</p>
-
-<p>
-At HipHopDX.com, you can submit personally identifiable information
-about other people. For example, you might submit a person's name and
-email address to email a HipHopDX.com news story and, if you are
-located in the United States, order a gift on HipHopDX.com and want
-it sent directly to the recipient, you might submit the recipient's
-name and address. The types of personally identifiable information
-that may be collected and stored about other people at HipHopDX.com
-include: recipient's name, address, email address and telephone
-number. Cheri Media Group does not knowingly share with, rent,
-transfer or sell personally identifiable information that you submit
-about other people to any third parties or nonaffiliated entities.</p>
-
-<p>
-If you would like to update the information you provide in your
-membership account or unsubscribe to newsletters, please visit
-[INSERT LINK TO MEMBER LOGIN PAGE].
-New categories of marketing communications may be added to the
-account preferences page
-from time to time. Users who visit this page can opt out of receiving
-future marketing communications from these new categories or they can
-unsubscribe by following instructions contained in the messages they
-receive. Cheri Media Group reserves the right to send you certain
-communications relating to Cheri Media Group services, such as
-service announcements, administrative messages and the HipHopDX.com
-newsletter without offering you the opportunity to opt-out of
-receiving them. 
-</p>
-
-<p>
-If you are located in the United States and make a purchase on
-HipHopDX.com, Cheri Media Group will collect and store your
-personally identifiable information. When processing an order on
-HipHopDX.com, Cheri Media Group needs to know your name, mailing
-address, billing address, email address, telephone number, product
-selection, order number, credit card number, security code and
-expiration date. This information is necessary to process your order
-and to keep you updated on your shipping status. Cheri Media Group
-may share such information with companies that help us process
-information, extend credit, fulfill customer orders, deliver products
-to you, manage and enhance customer data, provide customer service,
-assess your interest in our products and services, or conduct
-customer research or satisfaction surveys. These companies are also
-obligated to protect your personal information in accordance with
-Cheri Media Group’s policies.</p>
-
-<p>
-<strong>Does Cheri Media Group Ever Share Information with Other
-Parties?</strong></p>
-
-<p>
-<strong>Disclosure of Information to Outside Parties:</strong> Cheri
-Media Group does not rent, sell, or share personal information about
-you with other people or nonaffiliated companies except to provide
-products or services you've requested, when we have your permission,
-or under the following circumstances. Cheri Media Group may disclose
-information about you to those whose practices are not covered by
-this Privacy Policy under certain circumstances including, but not
-limited to:</p>
-
-<ul><li><p>
-	Cheri Media Group provides the information to trusted partners who
-	work on behalf of or with Cheri Media Group and under
-	confidentiality arrangements. These companies may use your personal
-	information to help Cheri Media Group communicate with you about
-	offers from Cheri Media Group and our marketing partners. 
-	</p>
-
-	</li>
-
-<li><p>Cheri Media
-	Group responds to subpoenas, court orders, or legal process, or to
-	establish or exercise Cheri Media Group's legal rights or defend
-	against legal claims. 
-	</p>
-
-	</li>
-
-<li><p>Cheri Media
-	Group shares information in order to investigate, prevent or take
-	action regarding illegal activities, suspected fraud, situations
-	involving potential threats to the physical safety of any person,
-	violations of Cheri Media Group's terms of use or as otherwise
-	allowed by law. 
-	</p>
-
-	</li>
-
-<li><p>Cheri Media
-	Group may also disclose information about you if it determines that
-	for national security, law enforcement, or other issues of public
-	importance, disclosure is necessary.</p>
-
-	</li>
-
-<li><p>Cheri
-	Media Group displays targeted advertisements based on personal
-	information. Advertisers (including ad serving companies) may assume
-	that people who interact with, view or click on targeted ads meet
-	the targeting criteria (for example, women ages 18-24 from a
-	particular geographic area). By interacting with or viewing an ad
-	you are consenting to the possibility that the advertiser will make
-	the assumption that you meet the targeting criteria used to display
-	the ad. 
-	</p>
-
-</li>
-
-</ul>
-
-<p>
-Due to the existing regulatory environment, Cheri Media Group cannot
-ensure that all of your private communications and other personal
-information will never be disclosed in ways not otherwise described
-in this Privacy Policy. By way of example (without limiting the
-foregoing), third parties may unlawfully intercept or access
-transmissions or private communications. 
-</p>
-
-<p>
-<strong>Links to Outside Third Parties:</strong> Cheri Media Group
-may establish relationships with business partners by creating a link
-between their sites and HipHopDX.com. Cheri Media Group is not,
-however, responsible for the content, maintenance or privacy policies
-of those sites. Once you click over to a third party site, Cheri
-Media Group encourages you to check its privacy policy.</p>
-
-<p>
-HipHopDX.com may contain links to other sites whose information
-practices may be different than the information practices of Cheri
-Media Group. Users who click over to a third party site from a link
-on HipHopDX.com must be aware that Cheri Media Group makes no
-warranties with regard to that site's policies or business practices.
-Cheri Media Group is not responsible for any transactions that occur
-between the user and the third party site. Please consult the other
-sites' privacy policies, as Cheri Media Group has no control over
-information that is submitted to or collected by these third parties.
-Should a user purchase any products or services from that third party
-site, the user must contact the third party site directly regarding
-any disputes that might occur, including but not limited to delayed
-shipping, missing products, damaged goods or pricing and billing
-discrepancies. Cheri Media Group is not responsible for the actions
-of any third-party site.</p>
-
-<p>
-<strong>Business Transfers:</strong> As Cheri Media Group continues
-to develop its business, it might sell or buy assets. In such
-transactions, customer information generally is one of the
-transferred business assets. Also, in the event that Cheri Media
-Group or substantially all of its assets are acquired, customer
-information will be one of the transferred assets.</p>
-
-<p>
-<strong>Children's Guidelines:</strong> Cheri Media Group does not
-knowingly collect personally identifiable information from children
-under the age of 13, nor does it contact children under the age of 13
-about special offers or for marketing purposes without a parent's
-permission. Cheri Media Group encourages parents and legal guardians
-to monitor their children's Internet use. Also, Cheri Media Group
-strongly encourages parents to help Cheri Media Group enforce its
-Privacy Policy by instructing their children never to provide
-personal information on HipHopDX.com without permission.</p>
-
-<p>
-It is possible that due to fraud or deception by others, Cheri Media
-Group may unknowingly receive information pertaining to children
-under the age of 13. If Cheri Media Group is notified of this, once
-Cheri Media Group has verified the information, Cheri Media Group
-will promptly delete the information from its servers or otherwise
-obtain parental consent. 
-</p>
-
-<p>
-<strong>Public Forums:</strong> HipHopDX.com has chat rooms, forums,
-message boards and newsgroups available to its users. Please remember
-that any information disclosed in these areas becomes public
-information. Exercise caution when deciding to disclose your personal
-information, personally identifiable information you submit to one of
-these forums can be read, collected, or used by other individuals to
-send you unsolicited messages. Cheri Media Group is not responsible
-for the personally identifiable information you choose to submit in
-these forums. As these forums are public and open for users to
-interact with each other, Cheri Media Group expects all its users to
-respect the rights of others. 
-</p>
-
-<p>
-<strong>Consent to International Information Transfers:</strong>
-HipHopDX.com is operated in the United States and is intended for
-viewing solely in the United States. While Cheri Media Group is
-committed to providing your information with a high level of privacy
-protection, you should know that the general level of protection for
-personal information in the United States may not be the same as that
-provided in other countries. If you are located outside of the United
-States, please be aware that any information you provide to Cheri
-Media Group will be transferred to the United States. By using
-HipHopDX.com, participating in any HipHopDX.com services and/or
-providing Cheri Media Group with personally identifiable information,
-you fully understand and unambiguously consent to this transfer and
-the collection and processing of information in the United States.</p>
-
-<p>
-<strong>Changes to This Privacy Policy:</strong> Cheri Media Group
-will occasionally update this Privacy Policy at Cheri Media Group's
-sole discretion. Please check HipHopDX.com frequently to see recent
-changes. Such changes and/or modifications shall become effective
-immediately upon posting thereof. When Cheri Media Group changes the
-policy in a material way a notice will be posted on our website along
-with the updated Privacy Policy. Your continued use of HipHopDX.com
-constitutes your agreement to this Privacy Policy, as it may be
-amended from time to time, and all of the terms and conditions set
-forth therein.</p>
-
-<p><br>
-
-</p>
-
-
-
-<!-- Template Error: Invalid character (81, 52) -->
-		</div>
-	</div>
-	<div id="footer">
-            <div id="text-nav">
-			<table cellpadding="0" cellspacing="0" border="0" style="width: 750px;">
-			<tbody><tr><td rowspan="7" valign="top" width="170" class="bottom" style="color: #fff; font-size: 10px; text-align: right; padding: 8px 10px 0 10px;">
-			<a href="/index">
-			<img id="footer-logo" alt="Hip Hop News From HipHopDX.com" style="visibility: hidden; border: 0; padding-bottom: 5px;">
-			</a><br>
-			© <script type="text/javascript">var ct = new Date();document.write(ct.getFullYear());</script>2020 CHERI MEDIA GROUP<br>
-			All Rights Reserved
-			</td></tr>
-			<tr><td><a href="/index/hip-hop" style="color: #f90;">Hip Hop</a></td><td>&nbsp;&nbsp;&nbsp;<a href="/index/news">Hip Hop News</a>&nbsp;&nbsp;&nbsp;<a href="/index/columns-editorials">C &amp; E</a>&nbsp;&nbsp;&nbsp;<a href="/index/dxnext">DXNext</a>&nbsp;&nbsp;&nbsp;<a href="/index/features">Features</a>&nbsp;&nbsp;&nbsp;<a href="/index/hitlist">Hitlist</a>&nbsp;&nbsp;&nbsp;<a href="/index/release-dates">Release Dates</a>&nbsp;&nbsp;&nbsp;<a href="/index/reviews">Album Reviews</a>&nbsp;&nbsp;&nbsp;<a href="/index/lyrics">Lyrics</a></td></tr>
-			<tr><td><a href="/index/community" style="color: #f90;">Community</a></td><td>&nbsp;&nbsp;&nbsp;<a href="http://blogs.hiphopdx.com/">Blogs</a>&nbsp;&nbsp;&nbsp;<a href="/messageboard">Message Board</a>&nbsp;&nbsp;&nbsp;<a href="/index/chatroom">Chat Room</a>&nbsp;&nbsp;&nbsp;<a href="/index/contests">Contests</a></td></tr>
-			<tr><td><a href="/index/media" style="color: #f90;">Media</a></td><td>&nbsp;&nbsp;&nbsp;<a href="/index/audio">Audio</a>&nbsp;&nbsp;&nbsp;<a href="/index/videos">Videos</a>&nbsp;&nbsp;&nbsp;<a href="/index/mixtape">Mixtapes</a></td></tr>
-			<tr><td valign="middle"><a href="/index/lifestyle" style="color: #f90;">Lifestyle</a></td><td width="500">&nbsp;&nbsp;&nbsp;<a href="/index/lifestyle-features">Features</a>&nbsp;&nbsp;&nbsp;<a href="/index/parties-pix">Parties &amp; Pics</a>&nbsp;&nbsp;&nbsp;<a href="/index/brains-beauty">Beauty &amp; Brains</a>&nbsp;&nbsp;&nbsp;<a href="/index/movies">Movies</a>&nbsp;&nbsp;&nbsp;
-			<a href="/index/boondocks">The Boondocks</a>&nbsp;&nbsp;&nbsp;<a href="/index/videogames">Video Games</a>&nbsp;&nbsp;&nbsp;<a href="/index/television">Television</a></td></tr>
-			<tr><td valing="middle"><a href="http://www.theevilcollector.com/" style="color: #f90;">Fashion</a></td><td>&nbsp;&nbsp;&nbsp;<a href="http://www.theevilcollector.com/index/category/features/">Features</a>&nbsp;&nbsp;&nbsp;<a href="http://www.theevilcollector.com/index/category/men/">Men</a>&nbsp;&nbsp;&nbsp;<a href="http://www.theevilcollector.com/index/category/women/">Women</a>&nbsp;&nbsp;&nbsp;<a href="http://www.theevilcollector.com/index/category/toys/">Toys</a>&nbsp;&nbsp;&nbsp;<a href="http://www.theevilcollector.com/index/category/store-watch/">Store Watch</a></td></tr>
-			<tr><td class="bottom" colspan="2"><a href="/index/contactus">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/index/internship">Internship</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/index/advertise">Advertising</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:addEngine('hiphopdx','gif','News',0)">Search Plugin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/index/sitemap">Site Map</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/index/tos">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/index/privacy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/index/rss">
-			<img id="rss-logo" style="visibility: hidden;" border="0"></a></td></tr>
-			</tbody></table>
-		</div>
-		<script type="text/javascript">
-		var footerScrollGroup = new YAHOO.util.ImageLoader.group(window, 'scroll'); 
-		footerScrollGroup.className = 'footer';
-		var footerLogo = footerScrollGroup.registerSrcImage('footer-logo', 'http://cdn.hiphopdx.com/inc/html/default/img/skin/footer/logo.gif'); 
-		var rssLogo = footerScrollGroup.registerSrcImage('rss-logo', 'http://cdn.hiphopdx.com/inc/html/default/img/skin/icon-rss.gif'); 
-		var bdLogo = footerScrollGroup.registerSrcImage('bd-logo', 'http://cdn.hiphopdx.com/inc/html/default/img/skin/icon-boondocks.gif'); 
-		rssLogo.setVisible = true;
-		bdLogo.setVisible = true;
-		footerLogo.setVisible = true; 	
-		</script>	
-	</div>
-</div>
-<script type="text/javascript" src="http://hiphopdx.us.intellitxt.com/intellitxt/front.asp?ipid=3647"></script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-481301-1";
-_userv=2; 
-urchinTracker();
-</script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-481301-1");
+//var locationHash = window.location.hash;
+//if(locationHash){
+//	pageTracker._trackPageview(locationHash.substr(1));
+//}else{
+	pageTracker._trackPageview();
+//}
+} catch(err) {}</script>
 <script src="/__utm.js" type="text/javascript"></script>
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
@@ -745,6 +1068,6 @@ qacct:"p-04JAhcp5WsteE"
 </noscript>
 <!-- End Quantcast tag -->
 
-
+<script type="text/javascript" src="http://hiphopdx.us.intellitxt.com/intellitxt/front.asp?ipid=3647"></script>
 
 </body></html>
