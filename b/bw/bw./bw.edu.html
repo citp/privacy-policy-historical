@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the bw.edu privacy policy that was archived on 2009-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229154548id_/http%3A//www.bw.edu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bw.edu privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630103913id_/http%3A//www.bw.edu/privacy) for the most accurate reproduction.-->
 
 <html><head>
 
 <title>B-W: Privacy Policy</title>
+<script src="/jquery.js"></script>
 
 
 
@@ -103,11 +104,39 @@
 <td width="150" valign="top" bgcolor="#faecb6">
 <div id="left_nav">
 <a href="/"><img src="/images/newlook/bw_corner_logo.gif" width="150" height="140" alt="Baldwin-Wallace College" border="0"></a>
+<script>
+function showNav(aEl) {
+	var thisli = $(aEl).parents("li:first");
+	var div = thisli.find("div");
+	var height = div.data("originalHeight")
+	if(!height) {
+		div.css({ height: 1}).show();
+		height = div[0].scrollHeight;
+		div.data("originalHeight", height).css({height: 1});
+	}
+	//thisli.find("div").height(thisli.find("div").height());
+	//console.log(height);
+	$(aEl).parents("ul:first").find("li.expanded").not(thisli).removeClass("expanded")
+		.addClass("collapsed").find("div").animate({height: 1}, {duration: 300, complete:function (){
+        $(this).hide();
+      }
+    });
 
+	if(thisli.hasClass("collapsed")) {
+		thisli.removeClass("collapsed").addClass("expanded").find("div")
+			.show().animate({height: height}, {duration: 300})
+	} else {
+		thisli.removeClass("expanded")
+			.addClass("collapsed").find("div").animate({height: 1}, {duration: 300, complete:function (){
+       		 $(this).hide();
+     		 }
+    	});
+	}
+}	
+</script>
 <!--INSERT SECTION LINKS HERE... remove placeholders.... cannot be longer than 19consecutive characters without a space or template breaks-->
 
-<a href="http://www.surveymonkey.com/s.aspx?sm=A_2bKpKIHlpTQid_2fd8z5AX8g_3d_3d"><img border="0" style="margin-left:5px;" src="/images/newlook/survey_button.png"></a>
-<script src="http://www.surveymonkey.com/jsPop.aspx?sm=EmIRNvDMw2o_2bqbfURlBpZA_3d_3d"> </script>
+
 <hr>
 
 <!-- END SECTION LINKS-->
@@ -186,6 +215,99 @@
 <br>
 
 
+<!-- PageWiz links to staged news stories -->
+<script type="text/javascript">
+function xmlUnescape(str) {
+	str = str.replace(/\&amp\;/g, "&").replace(/\&lt\;/g, "<").replace(/\&gt\;/g,">").replace(/\&quot\;/g, '"').replace(/\&apos\;/g, "'");
+	return str;
+}
+function getNews(qryStr) {
+	var parent = document.getElementById("shownews");
+	function doreq(url, callbackFunction, isAsync) {
+		if(typeof arguments[2] == "undefined")
+			isAsync = true;
+			
+		function xmlReq(url) {
+			var req;
+			if (window.XMLHttpRequest) {
+				req = new XMLHttpRequest();
+			// branch for IE/Windows ActiveX version
+			} else if (window.ActiveXObject) {
+				req = new ActiveXObject("Microsoft.XMLHTTP");  
+			}
+			return req;
+		}
+		var req = new xmlReq;
+		var fn = callbackFunction;
+		if(isAsync) {
+			req.onreadystatechange = function() {
+				if (req.readyState == 4) {
+					if (req.status == 200) {
+						fn(req.responseXML, req.responseText);
+					}
+				}
+			}
+		}
+		req.open("GET",url, isAsync);  // false means synchronous, so no resulthandler function
+		req.send("");
+		if(!isAsync)
+			fn(req.responseXML, req.responseText);
+	}
+	function drawNews(xml, text) {
+		if(typeof showNews == "function") {
+			showNews(xml, parent);
+		} else {
+			var news = xml.getElementsByTagName("news");
+			var outStr = "";
+			for(var i=0; i < news.length; i++) {
+				var curr = news[i];
+				var path = curr.getAttribute("path");
+				var title = "";
+				var desc = "";
+				var graphic = "";
+				var href = path;
+				for(var j=0; j < curr.childNodes.length; j++) {
+					var child = curr.childNodes[j];
+					if(child.hasChildNodes()) {
+						switch(child.tagName.toLowerCase()) {
+							case "title":
+								title = xmlUnescape(child.firstChild.data);
+								break;
+							case "description":
+								desc = xmlUnescape(child.firstChild.data);
+								break;
+							case "graphic":
+								graphic = child.firstChild.data;
+								break;
+							case "href":
+								href = child.firstChild.data;
+								break;
+						}
+					}
+				}
+				outStr += '<div class="newsitem">';
+				if(graphic.length)
+					outStr += '<img class="eventimg" src="' + graphic + '" align="left" />';
+				outStr += '<div class="newstitle"><a href="' + href + '">' + title + '</a></div>';
+				outStr += desc + '<br /><a class="newsmore" href="' + href + '">Read more...</a>';
+				outStr += '<div style="height: 1px; clear: both;"></div></div>'
+			}
+			parent.innerHTML = outStr;
+		}
+	}
+	var ribbiturl = "/ribbit/index.exe";
+	if(ribbiturl.indexOf("%") != -1 || ribbiturl == "")
+		ribbiturl = "/ribbit/index.cgi";
+	var url = ribbiturl + "?format=xml&page=getnews.rjs&" + qryStr;
+	doreq(url, drawNews);
+	//console.log(url);
+}
+</script>
+
+<div class="shownews" id="shownews">
+
+<!-- regular news stories -->
+</div>
 
 <!--END PAGEWIZ CONTENT-->
 
@@ -199,7 +321,7 @@
 
 <tr><td colspan="2" bgcolor="#c5ba8e" height="38" class="footer">
 <div id="footer">
-© 2005-6 Baldwin-Wallace College <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle"> 275 Eastland Rd. <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle"> Berea, Ohio 44017-2088  <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle"> 440-826-2900 <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle">  email: <a href="mailto:info@bw.edu">info@bw.edu</a>  <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle"> <a href="/privacy/">Privacy</a>  <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle"> <a href="/legal/">Legal</a>
+© 2005-6 Baldwin-Wallace College <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle"> 275 Eastland Rd. <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle"> Berea, Ohio 44017-2005  <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle"> 440-826-2900 <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle">  email: <a href="mailto:info@bw.edu">info@bw.edu</a>  <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle"> <a href="/privacy/">Privacy</a>  <img src="/images/newlook/footer_bullet.gif" width="19" height="16" alt="" border="0" align="absmiddle"> <a href="/legal/">Legal</a>
 
 </div>
 </td>
