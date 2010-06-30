@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627000842id_/http%3A//jumpbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630082606id_/http%3A//jumpbox.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JumpBox Inc.
-
-**Privacy Policy**
+# Privacy Policy | JumpBox Virtual Appliances and Applications for Cloud Computing
 
 JumpBox, Inc. ("JumpBox") values the privacy of our Users, users, members, and others who use [www.jumpbox.com](http://www.jumpbox.com/ "www.jumpbox.com") (the "JumpBox Service") (collectively or individually "Users"). This statement governs information you provide to us or that we learn from your use of the JumpBox Service and tells you how we may collect, use, and in some instances share this information.
 
@@ -15,7 +13,8 @@ JumpBox, Inc. ("JumpBox") values the privacy of our Users, users, members, and o
 
 
   
-**The Way JumpBox Uses Information**
+**The Way JumpBox Uses Information**  
+
 
 JumpBox uses the information that we collect to provide to you all of the features and services found on the JumpBox Service. We will use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major site updates, or for customer service. 
 
@@ -68,7 +67,8 @@ The JumpBox Service is hosted in the United States. If you are a User accessing 
 
 
   
-**In the Event of Merger or Sale**
+**In the Event of Merger or Sale**  
+
 
 If JumpBox should ever file for bankruptcy or have its assets sold to or merge with another entity, information JumpBox receives from you through the JumpBox Service is a JumpBox asset and may be transferred. 
 
@@ -79,7 +79,7 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 Contacting JumpBox**
 
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at support -at- jumpbox -dot- com.  
-Postal Mail Address: 420 W. 1st St. #108 Tempe, AZ 85281
+Postal Mail Address: PO Box 15265 Phoenix, AZ 85060
 
 If you have a privacy concern regarding the JumpBox Service or this Policy and if you cannot satisfactorily resolve it through the use of the JumpBox Service you should write to support -at- jumpbox -dot- com. You may also leave a comment on the relevant [FAQ](https://web.archive.org/faq). In the event that we are still unable to resolve your concerns JumpBox is committed to cooperating to achieve a proper resolution of your privacy concerns.  
 Effective Date: 4/19/07
