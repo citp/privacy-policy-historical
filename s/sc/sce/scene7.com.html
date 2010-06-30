@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scene7.com privacy policy that was archived on 2009-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229134925id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scene7.com privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630103706id_/http%3A//www.adobe.com/misc/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/master.dwt" codeOutsideHTMLIsLocked="true" --><head>
 
@@ -33,19 +33,21 @@ document.observe('dom:loaded', function() {
 <script type="text/javascript">adobe.Dwt.require("user","swf","dropdown","pod");</script>
 
 <!-- InstanceBeginEditable name="head" -->
+ <!-- necessary for ForeSee Survey. Do Not remove-->
+
 <title>Adobe - Online Privacy Policy</title>
 <!-- InstanceEndEditable -->
 </head>
 <body>
 <!--googleoff: all--><a href="/help/accessibility.html" tabindex="1" id="accesslink">Accessibility</a><!--googleon: all-->
 <!--googleoff: index-->
-<!--$Revision: 1.101.4.2 $-->
+<!--$Revision: 1.114 $-->
 <form id="globalnav-search" class="en" name="globalnav-search" method="get" action="/go/gnav_search" accept-charset="utf-8">
 	<dl id="globalnav" class="clear-after">
 		<dt id="adobe-logo"><a href="/go/gn_home_logo"><img id="adobe-logo-lq" src="/ubi/globalnav/include/adobe-lq.png" alt="Adobe" width="43" height="72"><img id="adobe-logo-hq" src="/ubi/globalnav/include/adobe-hq.png" alt="Adobe" width="55" height="67"></a></dt>
 		<dd id="site-search">
 			<input type="hidden" name="loc" value="en_us">
-			<input title="Search Adobe.com..." type="text" id="search-input" name="term" autocomplete="off">
+			<input title="Search" type="text" id="search-input" name="term" autocomplete="off" maxlength="1000">
 			<button type="submit" id="search-submit" class="icon-replace search"><span class="zero">Search</span></button>
 			<script type="text/javascript">
 				adobe.InputTitleOverlay.init("search-input");
@@ -71,7 +73,7 @@ if (greeting && signout && screenName) {
 	rememberMe = adobe.Cookie.get('RMID'),
 	authenticAdobeId = adobe.Cookie.get('AUID');
 	
-	if (screenNameValue) {
+	if( screenNameValue) {
 		registerOnReady(function() {
 			screenName.innerHTML = screenNameValue;
 		});
@@ -119,19 +121,20 @@ if (greeting && signout && screenName) {
 				</li>
 				<li><a class="dropdown-tab" href="/go/gn_prod">Products</a>
 					<ul class="dropdown-pane">
-						<li><a href="/go/gntray_prod_acrobat_connect_pro_home">Acrobat Connect Pro</a></li>
 						<li><a href="/go/gntray_prod_acrobat_family_home">Acrobat</a></li>
 						<li><a href="/go/gntray_prod_air_home">Adobe AIR</a></li>
 						<li><a href="/go/gntray_prod_after_effects_home">After Effects</a></li>
 						<li><a href="/go/gntray_prod_coldfusion_home">ColdFusion</a></li>
+						<li><a href="/go/gntray_prod_acrobat_connect_pro_home">Adobe Connect</a></li>
 						<li><a href="/go/gntray_prod_creative_suite_family_home">Creative Suite family</a></li>
 						<li><a href="/go/gntray_prod_dreamweaver_home">Dreamweaver</a></li>
+						<li><a href="/go/gntray_prod_flashbuilder_home">Flash Builder</a></li>
 						<li><a href="/go/gntray_prod_flash_platform_home">Flash Platform</a></li>
 						<li><a href="/go/gntray_prod_flash_home">Flash Professional</a></li>
 						<li><a href="/go/gntray_prod_flex_home">Flex</a></li>
 						<li><a href="/go/gntray_prod_illustrator_home">Illustrator</a></li>
 						<li><a href="/go/gntray_prod_indesign_home">InDesign</a></li>
-						<li><a href="/go/gntray_prod_livecycle_home">LiveCycle ES</a></li>
+						<li><a href="/go/gntray_prod_livecycle_home">LiveCycle Enterprise Suite</a></li>
 						<li><a href="/go/gntray_prod_mobile_devices_home">Mobile products</a></li>
 						<li><a href="/go/gntray_prod_omniture_home">Omniture</a></li>
 						<li><a href="/go/gntray_prod_online_services">Online services</a></li>
@@ -153,7 +156,6 @@ if (greeting && signout && screenName) {
 						<li><a href="/go/gntray_supp_programs">Support programs</a></li>
 						<li><a href="/go/gntray_supp_forums_home">Forums</a></li>
 						<li><a href="/go/gntray_supp_updates">Updates</a></li>
-						<li class="divide"><a href="/go/gntray_supp_more">More ›</a></li>
 					</ul>
 				</li>
 				<li><a class="dropdown-tab" href="/go/gn_comm">Communities</a>
@@ -185,12 +187,10 @@ if (greeting && signout && screenName) {
 						<li><a href="/go/gntray_comp_events">Events</a></li>
 						<li><a href="/go/gntray_comp_contact_adobe">Contact Adobe</a></li>
 						<li><a href="/go/gntray_comp_become_affiliate">Become an affiliate</a></li>
-						<li class="divide"><a href="/go/gntray_comp_company_more">More ›</a></li>
 					</ul>
 				</li>
 				<li><a class="dropdown-tab" href="/go/gn_dl">Downloads</a>
 					<dl class="dropdown-pane">
-						<dd><a href="/go/gntray_dl_downloads">Downloads home</a></dd>
 						<dd><a href="/go/gntray_dl_trialdownloads">Trial downloads</a></dd>
 						<dd><a href="/go/gntray_dl_updates">Updates</a></dd>
 						<dd><a href="/go/gntray_dl_exchange">Exchange/Marketplace</a></dd>
@@ -205,20 +205,26 @@ if (greeting && signout && screenName) {
 				</li>
 				<li><a href="/go/gn_store" class="dropdown-tab">Store</a>
 					<dl class="dropdown-pane">
-						<dd><a href="/go/gntray_store">Store home</a></dd>
-						<dd><a href="/go/gntray_store_software">Software</a></dd>
-						<dd><a href="/go/gntray_store_fonts">Fonts</a></dd>
-						<dd><a href="/go/gntray_store_books">Books</a></dd>
-						<dd><a href="/go/gntray_store_programs">Support programs</a></dd>
-						<dd><a href="/go/gntray_store_your_hist">Your account</a></dd>
+                        <dt>Shop by store</dt>
+                        <dd class="divide"><a href="/go/gntray_store"><strong>Adobe Store</strong><br>Home/home office users</a></dd>
+                        <dd class="divide"><a href="/go/gntray_store_mvlp_buy"><strong>Business</strong><br>Small/medium businesses</a></dd>
+                        <dd class="divide"><a href="/go/gntray_store_edu"><strong>Education</strong><br>Students, educators, and staff</a></dd>
+						<dd class="divide"><a href="/go/gntray_store_purchase_options">Other ways to buy</a></dd>
+                        <dt class="divide">Popular software</dt>
+						<dd><a href="/go/gntray_store_designpremium">Creative Suite Design Premium</a></dd>
+						<dd><a href="/go/gntray_store_acrobat_pro">Acrobat</a></dd>
+						<dd><a href="/go/gntray_store_photoshop">Photoshop</a></dd>
+						<dd><a href="/go/gntray_store_lightroom">Photoshop Lightroom</a></dd>
+						<dd><a href="/go/gntray_store_webpremium">Creative Suite Web Premium</a></dd>
+						<dd><a href="/go/gntray_store_software">View all software ›</a></dd>
+                        <dt class="divide">Special offers</dt>
+						<dd><a href="/go/gntray_store_offers">Adobe product discounts</a></dd>
+                        <dt class="divide">Your purchases</dt>
+						<dd><a href="/go/gntray_store_your_hist">Order history, downloads, and subscriptions</a></dd>
 						<dd><a href="/go/gntray_store_check_order_status">Check order status</a></dd>
-                        <dd><a href="/go/gntray_store_offers">Store offers</a></dd>
-						<dt class="divide"><a href="/go/gntray_store_mvlp">Volume licensing</a></dt>
-                        <dd><a href="/go/gntray_store_vl_options">Licensing options</a></dd>
-                        <dd><a href="/go/gntray_store_vl_howtobuy">How to buy</a></dd>
-                        <dd><a href="/go/gntray_store_vl_licensees">Current licensees</a></dd>
-						<dd class="divide"><a href="/go/gntray_store_purchase_options">Other ways to buy ›</a></dd>
-					</dl>
+						<dt class="divide">Volume licensing</dt>
+                        <dd><a href="/go/gntray_store_mvlp">Save by purchasing Adobe software in volume</a></dd>
+  					</dl>
 				</li>
 			</ul>
 		</dd>
@@ -228,7 +234,6 @@ if (greeting && signout && screenName) {
 </noscript>
 </form>
 <!--googleon: index-->
-
 
 <div id="layoutLogic" class="L0">
 	<div id="L0C1" class="pod p0 nw columns-1-A-A"><div class="ne"><div class="se"><div class="sw"><div class="n"><div class="s"><div class="w"><div id="L0C1-body" class="pod-body e"><!-- InstanceBeginEditable name="c1 content" -->
@@ -428,7 +433,7 @@ if (greeting && signout && screenName) {
 	<!-- InstanceEndEditable --></div>
 	</div></div></div></div></div></div></div>
 </div>
-<!--googleoff: index--><!-- global footer $Revision: 1.61 $ -->
+<!--googleoff: index--><!-- global footer $Revision: 1.62 $ -->
 <div id="globalfooter">
 	<ul class="pipe menu">
 		<li><a href="/go/gftray_foot_careers">Careers</a></li>
@@ -443,7 +448,7 @@ if (greeting && signout && screenName) {
 	</ul>
 	<div class="pullout-right right-125">
 		<p id="privacy" class="pullout-item"><a href="/go/gftray_foot_truste" target="_blank"><img src="/images/globalnav/truste_seal_eu.gif" alt="Reviewed by TRUSTe: site privacy statement" width="116" height="33" id="trustelogo"></a></p>
-		<p id="copyright">Copyright © 2009 Adobe Systems Incorporated. <a href="/go/gftray_all_rights_reserved">All rights reserved</a>.</p>
+		<p id="copyright">Copyright © 2010 Adobe Systems Incorporated. <a href="/go/gftray_all_rights_reserved">All rights reserved</a>.</p>
 		<p id="terms">Use of this website signifies your agreement to the <a href="/go/gftray_foot_terms">Terms of Use</a> and <a href="/go/gftray_foot_privacy_security">Online Privacy Policy (updated 07-14-2009)</a>.</p>
 		<p id="searchengine">Search powered by <a href="http://www.google.com/" target="new">Google™</a></p>
 	</div>
@@ -458,18 +463,19 @@ if (greeting && signout && screenName) {
 http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript"><!--
 var s_code=' ';
+var s_docHost = window.location.hostname.toLowerCase();
+var s_docURL = window.location.pathname.toLowerCase();
 var scJsHost = (("https:" == document.location.protocol) ? "https://www.adobe.com" : "http://wwwimages.adobe.com");
+if (s_docHost.indexOf(".corp.adobe") != -1 || s_docHost.indexOf("stage.") != -1 || s_docHost.indexOf(".dev.adobe") != -1 || s_docHost.indexOf("staging.") != -1) scJsHost="";
 document.write(unescape("%3Cscript src='" + scJsHost + "/uber/js/omniture_s_code.js' type='text/javascript'%3E%3C/script%3E"));
 //--></script><script src="https://www.adobe.com/uber/js/omniture_s_code.js" type="text/javascript"></script>
 <script type="text/javascript"><!--
 var s_accountName;
-var s_docHost = window.location.hostname.toLowerCase();
-var s_docURL = window.location.pathname.toLowerCase();
-
+s_server="www.adobe.com static content pages";
 if (!window.s_account) s_accountName="mxmacromedia";
 else s_accountName=window.s_account;
 
-if (s_docURL.indexOf("/devnet/") != -1) {
+if (window.s_docURL.indexOf("/devnet/") != -1) {
   s_channel="DevNet";
   // Track Tabs as Pages when targeted directly
   if (document.URL.indexOf("navID=") != -1) {
@@ -481,27 +487,16 @@ if (s_docURL.indexOf("/devnet/") != -1) {
 	}
   }
 }
-else if (s_docURL.indexOf("/designcenter/") != -1) {
+else if (window.s_docURL.indexOf("/designcenter/") != -1)
   s_channel="Adobe Design Center";	
-}
-else if ((s_docHost.indexOf("labs.adobe") != -1) ||
-(s_docHost.indexOf("labs-staging.") != -1)) {
-  s_channel="Labs";        
-}
-else if (s_docHost.indexOf("help.adobe.com") != -1) {
-  // Tracking Learning Resources help.adobe.com
+else if ((window.s_docHost.indexOf("labs.adobe") != -1) ||
+(window.s_docHost.indexOf("labs-staging.") != -1))
+  s_channel="Labs";
+else if (window.s_docHost.indexOf("help.adobe.com") != -1)
   s_channel="Support Help.adobe.com";
-  var s_title=document.title;
-  if (s_title.indexOf("*") != -1) { 
-    s_title=document.title.substring(0,document.title.indexOf("*"));
-  }
-  s_pageName="Support help.adobe.com: " + s_title;
-  s_prop23=document.URL;
-}
-else if (s_docHost.indexOf("kb2.adobe.com") != -1) {
-  // Tracking Support Knowledgebase
+else if (window.s_docHost.indexOf("kb2.adobe.com") != -1)
   s_channel="Support Knowledgebase";
-}
+
 if (!window.scMMInclude) {
 	var s_wd=window,s_tm=new Date;
 	if(s_code!=' '){
@@ -535,12 +530,17 @@ if(searchForm) {
 	Element.insert(searchForm, s_pageName_input ).insert(s_channel_input);
 }
 //--></script>
-<noscript><img src="http://stats.adobe.com/b/ss/mxmacromedia/1/G.9-XELvs" height="1" width="1" border="0" alt="" /></noscript>
-<!-- End SiteCatalyst code version: H.15.2. -->
+<noscript><img src="http://stats.adobe.com/b/ss/mxmacromedia/1/H.15-XELvs" height="1" width="1" border="0" alt="" /></noscript>
+<!-- End SiteCatalyst code -->
 </div>
 
 
- 
+
+ <script type="text/javascript">
+	if(isDesktop()) { 
+ 		adobe.Loader.requireAsset("http://wwwimages.adobe.com/www.adobe.com/js/foresee/foresee-trigger.js");
+ 	}
+</script>  
 
 
 
