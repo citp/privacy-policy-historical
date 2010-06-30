@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the mammothmountain.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228104739id_/http%3A//www.mammothmountain.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mammothmountain.com privacy policy that was archived on 2010-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100630131132id_/http%3A//www.mammothmountain.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- internal --><head>
-
+	
 	<title>Mammoth Mountain - Privacy</title>
 	
 	<meta name="description" content="">
@@ -17,16 +17,19 @@
 
 	
 	<script type="text/javascript">
+		
 		var ecomm = {},
 			cachedCartTemplate,
 			_ajaxLocation		= 'http' + ( document.location.protocol.toString().indexOf('https') >= 0 ? 's' : '' ) + '://www.mammothmountain.com/_API/',
-			currDate			= new Date('12/28/2009'),
-			advDate				= new Date( ( new Date('12/28/2009') ).setDate( (new Date('12/28/2009')).getDate() + 1 ) ),
+			currDate			= new Date('06/30/2010'),
+			advDate				= new Date( ( new Date('06/30/2010') ).setDate( (new Date('06/30/2010')).getDate() + 1 ) ),
 			onCartLoad			= null,
 			__throbber			= '<embed width="60" height="60" wmode="transparent" type="application/x-shockwave-flash" src="/_ecomm/images/throbber.swf" pluginspage="" flashvars="" />',
 			cartReady			= [];
 	</script>
 	
+	<!--revised using proto ht2-->
+    <script type="text/javascript" src="http://us2.resorts-interactive.com/tools/swf.js"></script>
 	
 
 	
@@ -35,168 +38,130 @@
    	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script> 
 	
 	
-	
-		<script type="text/javascript" src="http://mammoth.s3.amazonaws.com/ui/js/mergedyui.js.gz"></script>
-		<script type="text/javascript" src="http://mammoth.s3.amazonaws.com/_ecomm/js/mergedecomyui.js.gz"></script> 
+        
+		<script type="text/javascript" src="/ui/js/mergedyui.js"></script> 
+		<script type="text/javascript" src="/_ecomm/js/mergedecomyui.js"></script>
+		
 		<style type="text/css" media="all">
 			<!--
-			@import url("http://mammoth.s3.amazonaws.com/ui/css/merged.css.gz");
-			
-			@import url("http://mammoth.s3.amazonaws.com/_ecomm/css/mergedecomyui.css.gz"); 
+			@import url("/ui/css/mergedyui.css");
+			@import url("/_ecomm/css/mergedecomyui.css"); 
 			-->
-		</style>
+		</style>		
  		<style type="text/css" media="print">
 			<!--		
-			@import url("http://mammoth.s3.amazonaws.com/ui/css/printyui.css.gz");		
+			@import url("/ui/css/printyui.css");		
 			-->
 		</style>
-		<link rel="shortcut icon" href="http://mammoth.s3.amazonaws.com/ui/images/favicon.ico">      
-	
-	
-
-
+		<link rel="shortcut icon" href="/ui/images/favicon.ico">          
+		
+    
 
 	<script type="text/javascript" src="/_ecomm/js/jquery-jtemplates.js"></script> <!--jquery plugin for ecomm-->
-
-
-
-
-
 	
-
-
+	<script type="text/javascript" src="/_ecomm/mvp/mvp.js"></script>
+	<script type="text/javascript" src="/_ecomm/aspx/dataservices.js"></script>
+	<script type="text/javascript" src="/_ecomm/js/checkout.js"></script>
+	
+	<script type="text/javascript" src="/_ecomm/shadowbox/src/adapter/shadowbox-base.js"></script>
+    <script type="text/javascript" src="/_ecomm/shadowbox/src/shadowbox.js"></script>
 	<script type="text/javascript">
-	var pageTracker; // google analytics tracker
-	var mmsaTracker;
-	var isIE6 = false;
+		
+		Shadowbox.loadSkin('classic', '/_ecomm/shadowbox/src/skin');
+        Shadowbox.loadLanguage('en', '/_ecomm/shadowbox/src/lang');
+        Shadowbox.loadPlayer(['html','iframe'], '/_ecomm/shadowbox/src/player');
+        
+		var pageTracker; // google analytics tracker
+		var mmsaTracker;
+		var isIE6 = false;
 	
-	
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
+		
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		
 
 		// set jquery-jhistory handler
-		$.history._cache = '/_ecomm/cache.html';
+		$.history._cache = '/_ecomm/cache.html'; // this needs to remain in dev, causes the page to be reloaded if its not
 
-		
 		$(function () {
 			
-		
-
-
-			
-			try {
-				pageTracker = _gat._getTracker("UA-80155-1");
-				pageTracker._setDomainName("none");
-				pageTracker._setAllowLinker(true);
-				pageTracker._initData();
-				pageTracker._setSessionTimeout("2400");
-				pageTracker._trackPageview();
-				
-				
-				mmsaTracker = new MmsaGAUserEventTracking(pageTracker);
-				// init event tracking if this page is a category we want to track
-				mmsaTracker.InitTracking('Mammoth Mountain - Privacy');
-				mmsaTracker.updateCartAbandondmentTracker();
-				// production /VacationPlanning/Deals/99DollarHotel/ 
-				// development /VacationPlanning/Deals/Slopeside/
-				$("a[href='/VacationPlanning/Deals/99DollarHotel/']").click(function(){
-					mmsaTracker.Track99SlopesideClickedEvent();
-				});
-				$("#ticketFormGO").click(function(){
-					mmsaTracker.TrackLuggageTagClickedEvent();
-				});
-				
-				
-			} catch(e) { /* fail gracefully */ }
-
-
-			
-			$.ajax({
-				url: 			'http' + ( document.location.protocol.toString().toLowerCase().indexOf('https') >= 0 ? 's' : '' ) + '://www.mammothmountain.com/_ecomm/getClientCart.cfm',
-				dataType:		'json',
-				cache:			false,
-				contentType:	'application/json; charset=utf-8',
-				success: 		function( result, textStatus ) {
-
-					// reinstate cart
-					if ( typeof result.products != 'undefined' )
-						_cart = result;
-					
-					
-					if(typeof _cart != 'undefined' && _cart.products.length == cartInfo.maxProducts)
-						cartInfo.isFull = true;
-					
-						
-					recalculate();
-					$.autoSave.object = $.extend( $.autoSave.object, {'_cart':'/_ecomm/saveHandler.cfm'});
-					initCartSave();
-
+			// get session cart on load
+			dataservices.getSessionCart(
+				function(data){ 
+					// success, do gui binding to dataservices.cart model
+					initCartWithJsonSessionCart();
 				},
-				error:			function ( XMLHttpRequest, textStatus, errorThrown ) {
-					initCartSave();
+				function(textStatus){
+					
 				}
-			});
-
-			// setup the autosave to watch variables
-			$.autoSave.object = $.extend( $.autoSave.object, {'$.history.stack':'/_ecomm/saveStack.cfm'});
+			);
 			
 			
-			$.ajax({
-				url: 			'http' + ( document.location.protocol.toString().toLowerCase().indexOf('https') >= 0 ? 's' : '' ) + '://www.mammothmountain.com/_ecomm/getHistory.cfm',
-				dataType:		'json',
-				cache:			false,
-				contentType:	'application/json; charset=utf-8',
-				success: 		function( result, textStatus ) {
-					// reinstate history
-					$.history.stack = $.extend( $.history.stack, result );
-				}
-			});
-
-			// handle cart history
-			$.history.callback = function ( reinstate, cursor ) {
-
-				if ( reinstate && typeof(eval('(' + reinstate.f + ')')) == 'function' ) {
-					eval('(' + reinstate.f + ')').apply(this, (reinstate.a || []));
-				} else if ( window.location.toString().indexOf('/checkout/') == -1 ) {
-					$.unblockUI({ fadeOut:0 });
-				}
-				
-			};
-
+			
+				try {
+					pageTracker = _gat._getTracker("UA-80155-1");
+					pageTracker._setDomainName("none");
+					pageTracker._setAllowLinker(true);
+					pageTracker._initData();
+					pageTracker._setSessionTimeout("2400");
+					if(window.location.pathname !== '/checkout/'){
+						pageTracker._trackPageview();
+					}
+					mmsaTracker = new MmsaGAUserEventTracking(pageTracker);
+					// init event tracking if this page is a category we want to track
+					mmsaTracker.InitTracking('Mammoth Mountain - Privacy');
+					mmsaTracker.updateCartAbandondmentTracker();
+					$("#ticketFormGO").click(function(){
+						mmsaTracker.TrackLuggageTagClickedEvent();
+					});
+						
+				} catch(e) { /* fail gracefully */ }
+			
+			
 			// capture errors
-
-			window.onerror = logException;
-
-
+			
+				window.onerror = logException;
+			
+			
+			Shadowbox.init();
 			// replacement for target="_blank" to conform to xhtml strict marc
 			$('a[rel=external]').click(function(){ window.open(this.href); return false; });
-
 			initLinks();
-			
 			hs.graphicsDir = '/_ecomm/highslide/graphics/'; 
 			hs.showCredits = false; 
 			hs.zIndexCounter = 1250; 
 			hs.outlineType = 'rounded-white';
 			hs.allowSizeReduction = false;
 			
+			// handle jquery history callback event
+			$.history.callback = function ( reinstate, cursor ) {
+				if ( reinstate && typeof(eval('(' + reinstate.f + ')')) == 'function' ) {
+					eval('(' + reinstate.f + ')').apply(this, (reinstate.a || []));
+				} else if ( window.location.toString().indexOf('/checkout/') == -1 ) {
+					$.unblockUI({ fadeOut:0 });
+				}
+			};
+
+			
 		});
-
-		function initCartSave () {
-
+		
+		function consoleLog(str){
+			if(typeof console !== 'undefined'){
+				console.log(str);		
+			}
+		}
+		
+		function consoleDir(obj){
+			if(typeof console !== 'undefined'){
+				console.dir(obj);		
+			}
+		}
+		
+		// to replace initCartSave 
+		function initCartWithJsonSessionCart(){
 			// call queued function to happen after the shopping cart is loaded - this is important for /checkout/
 			if ( typeof onCartLoad == 'function' )
 				onCartLoad();
-
-			// configure this to the globally available function you would like to be called upon save - must be a function
-			$.autoSave.callback = function ( newObj ) {
-				// redraw the mini cart
-				$('#_minicart').html( 'cart: ' + _cart.products.length + ' item(s) ' + '$' + (parseFloat( _cart.totalprice )).toFixed(2) + ' total');
-				// draw the authenticated user text
-				if ( cart.purchaser.guest_no )
-					$('#_login').html( 'Welcome, ' + cart.purchaser.first_name.charAt(0) + '. ' + cart.purchaser.last_name + '' );
-				return true;
-			};
 
 			// run through the cartReady faux queue
 			for ( var fCall in cartReady )
@@ -206,42 +171,20 @@
 						$(this).dequeue();
 					}
 				);
-
 		}
-
 
 		function initLinks () {
-
-			// reformat all buttons
-
-			// rebranded links <span class="gLink"> with rollovers
+			// rebranded links span class="gLink" with rollovers
 			$('.gLink').bind('mouseover mouseout', function () { $(this).toggleClass('gLink').toggleClass('gLinkOver'); });
-			
 			// button rollovers
 			$('.btn').unbind('mouseover mouseout').bind('mouseover mouseout', function () {	$(this).find('.c').toggleClass('btnOver'); });
-
 		}
-		
 		
 		
 		function logException ( message, url, line ) {
 
 			try {
-
-				// XXX - ignore xpopup.js exceptions - jim@11/4/2008
-				if ( url.toString().indexOf('xpopup.js') >= 0 )
-					return false;
-
-				// XXX - ignore cyclic proto exceptions - jim@11/4/2008
-				// {"arg1":"cyclic __proto__ value","arg2":"http://www.mammothmountain.com/_ecomm/js/jquery.js","arg3":25,"arguments":["cyclic __proto__ value","http://www.mammothmountain.com/_ecomm/js/jquery.js",25],"arguments.caller":null,"window.onerror.arguments":["cyclic __proto__ value","http://www.mammothmountain.com/_ecomm/js/jquery.js",25],"window.onerror.caller":null}
-				if ( message.toString().indexOf('cyclic') >= 0 )
-					return false;
-
-				// XXX - ignore location exceptions - jim@11/4/2008
-				// {"arg1":"Permission denied to call method Location.toString","arg2":"","arg3":0,"arguments":["Permission denied to call method Location.toString","",0],"arguments.caller":null,"window.onerror.arguments":["Permission denied to call method Location.toString","",0],"window.onerror.caller":null}
-				if ( message.toString().indexOf('Permission denied to call method Location.toString') >= 0 )
-					return false;
-
+				
 				errStr = $.toJSON({
 					"arg1":( (typeof(message) != 'undefined') ? message : ''),
 					"arg2":( (typeof(url) != 'undefined') ? url : ''),
@@ -252,19 +195,23 @@
 					"window.onerror.arguments":(typeof(window.onerror.arguments) != 'undefined') ? window.onerror.arguments : null,
 					"window.onerror.caller":(typeof(window.onerror.caller) != 'undefined') ? window.onerror.caller : null
 					});
-
-				// copy cart
-				var safeCart = $.extend( {}, _cart );
-				safeCart._ct = {};
-				// log the exception
-				$.ajax({
-					url: 			'http' + ( document.location.protocol.toString().indexOf('https') >= 0 ? 's' : '' ) + '://www.mammothmountain.com/_ecomm/logException.cfm',
-					data:			$.toJSON({ _error:errStr, _cart:$.toJSON(safeCart) }),
-					dataType:		'json',
-					cache:			false,
-					type:			'POST',
-					contentType:	'application/json; charset=utf-8'
-				});
+				
+				if (errStr.indexOf('processSale') >= 0) {
+					
+					// copy cart
+					var safeCart = $.extend( {}, _cart );
+					safeCart._ct = {};
+					// log the exception
+					$.ajax({
+						url: 			'http' + ( document.location.protocol.toString().indexOf('https') >= 0 ? 's' : '' ) + '://www.mammothmountain.com/_ecomm/logException.cfm',
+						data:			$.toJSON({ _error:errStr, _cart:$.toJSON(safeCart) }),
+						dataType:		'json',
+						cache:			false,
+						type:			'POST',
+						contentType:	'application/json; charset=utf-8'
+					});
+					
+				}
 
 			} catch (e) {
 				// do nothing
@@ -307,35 +254,39 @@
         	zIndex:			1205
     	};
 
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	</script><link rel="stylesheet" type="text/css" href="/_ecomm/shadowbox/src/skin/classic/skin.css"><script type="text/javascript" src="/_ecomm/shadowbox/src/skin/classic/skin.js"></script><script type="text/javascript" src="/_ecomm/shadowbox/src/lang/shadowbox-en.js"></script><script type="text/javascript" src="/_ecomm/shadowbox/src/player/shadowbox-html.js"></script><script type="text/javascript" src="/_ecomm/shadowbox/src/player/shadowbox-iframe.js"></script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 	
 	
 
 	<style type="text/css">
+		
 		.hidden { display:none; }
 	  
 	     	
+			
+			
 			.esmimgright {
 				margin: 0 0 15px 15px;
 			}
 			body.home {
-				background:#ffffff url(http://mammoth.s3.amazonaws.com/ui/images/winterhomebg.jpg) top no-repeat;
+				background:#ffffff url(http://mammoth.s3.amazonaws.com/ui/images/summerhomebg.jpg) top no-repeat;
 			}
 			body.home div.container {
-				background:url(http://mammoth.s3.amazonaws.com/ui/images/winterhomebgcenter.jpg) top no-repeat;
+				background:url(http://mammoth.s3.amazonaws.com/ui/images/summerhomebgcenter.jpg) top no-repeat;
 			}
 			body {
-				background:#ffffff url(/ui/images/winterinternalbg.jpg) top no-repeat;
+				background:#ffffff url(/ui/images/summerinternalbg.jpg) top no-repeat;
 			}
 			div.container {
-				background:url(/ui/images/winterinternalbgcenter.jpg) top no-repeat;
+				background:url(/ui/images/summerinternalbgcenter.jpg) top no-repeat;
 			}
+			
 	    
 	</style>
 	
 
 
-</head>
+<style type="text/css">.highslide img {cursor: url(highslide/graphics/zoomin.cur), pointer !important;}</style></head>
 
 
 <body class="internal">
@@ -354,6 +305,7 @@
 		<li style="margin:10px 10px 0px 0px;"><a href="http://forums.mammothmountain.com" rel="external">forums</a></li>
 		<li style="margin:10px 10px 0px 0px;"><a href="/MyMammoth/?section=weather">weather</a></li>
 		<li style="margin:10px 10px 0px 0px;"><a href="/ResortActivities/SpecialEvents/">events</a></li>
+		<li style="margin:10px 10px 0px 0px;"><a rel="shadowbox;height=422;width=800" href="http://mammoth.govtour.com/vtour_mammoth.html?pid=157118&amp;lid=T1000156045">VTOUR</a></li>        
 		<li style="margin:10px 10px 0px 0px;"><span id="_minicart" onclick="showCart( this )" class="spanLink" onmouseover="$(this).addClass('topNavSpanLinkHover')" onmouseout="$(this).removeClass('topNavSpanLinkHover')">loading shopping cart...</span></li>
 	</ul>
 	</div>
@@ -371,7 +323,8 @@
 			<div id="flashMenu">
 				  
 					
-                    <img src="http://mammoth.s3.amazonaws.com/ui/images/menupresubwinter.jpg" width="969" usemap="#Map" alt="">
+                    	
+					<img src="http://mammoth.s3.amazonaws.com/ui/images/menupresubsummer.jpg" width="969" usemap="#Map" alt="">
                                       
 				<map name="Map" id="Map">
 
@@ -393,7 +346,7 @@
 				
 				var flashvars = {};
 				
-				flashvars.backgroundimgs = "/docs/winterbgimages/default/4.jpg,/docs/winterbgimages/default/5.jpg";
+				flashvars.backgroundimgs = "/docs/winterbgimages/default/1.jpg,/docs/winterbgimages/default/2.jpg";
 				
 				flashvars.imagetime = 10;
 				var params = {};
@@ -463,7 +416,7 @@
 <script type="text/javascript" src="/ui/js/hashmap.js"></script>
 <script type="text/javascript" src="/_ecomm/js/filterSettings.js"></script>
 
-<div id="widgetDiv">
+<div id="widgetDivTicketForm">
 
 </div>
 
@@ -479,8 +432,8 @@ $(document).ready(function () {
 				// set the startDate to date chosen for all products
 				for ( var i=0, sec=['AIRFARE','LODGING','TICKETS','RENTALS','LESSONS','DEAL','PACKAGE'], iE=sec.length; i < iE; i++ ) {
 					var secSet = filterSettings.getSettings(sec[i]);
-					secSet.put('#daysSelection', $('#daysSelection').val());
-					secSet.put('#startDate', $('#startDate').val());
+					secSet.put('#daysSelectionTicketForm', $('#daysSelectionTicketForm').val());
+					secSet.put('#startDateTicketForm', $('#startDateTicketForm').val());
 					filterSettings.setSettings(sec[i], secSet)
 				}
 				// old for radio buttons
@@ -515,11 +468,11 @@ $(document).ready(function () {
 			search: searchFunc,
 			filter: null,
 			postrender: function () {
-				if ( new Date($('#startDate').val()) < new Date(currDate) )
-					$('#startDate').val((currDate.getMonth() + 1 ) + '/' + currDate.getDate() + '/' + currDate.getFullYear());
-				$('#startDate').click(function () {
-					$('#arriveCal').data('day', ( new Date($('#startDate').val()) || new Date() ));
-					$('#arriveCal').data('days', $('#daysSelection').val());
+				if ( new Date($('#startDateTicketForm').val()) < new Date(currDate) )
+					$('#startDateTicketForm').val((currDate.getMonth() + 1 ) + '/' + currDate.getDate() + '/' + currDate.getFullYear());
+				$('#startDateTicketForm').click(function () {
+					$('#arriveCal').data('day', ( new Date($('#startDateTicketForm').val()) || new Date() ));
+					$('#arriveCal').data('days', $('#daysSelectionTicketForm').val());
 					showCalPickerX($(this), 'arriveCal', {
 							day: $('#arriveCal').data('day'),
 							dCheck: function (day) {
@@ -531,9 +484,28 @@ $(document).ready(function () {
 						});
 				});
 				$('#searchButton').click(searchFunc);
+				
+				var path = window.location.pathname;
+				if(path.search(/lodging/i) > -1){
+					$('#link').val('lodging');
+				} else if(path.search(/deals/i) > -1){
+					$('#link').val('packages');
+				} else if(path.search(/tickets/i) > -1){
+					$('#link').val('tickets');
+				} else if(path.search(/gettinghere/i) > -1){
+					$('#link').val('airfare');
+				} else if(path.search(/rentals/i) > -1){
+					$('#link').val('rentals');
+				} else if(path.search(/school/i) > -1){
+					$('#link').val('lessons');
+				} else{
+					// default to deals
+					$('#link').val('packages');
+				}
+				
 			}
 		};
-	$('#widgetDiv').ecommwidget(entranceOptions);
+	$('#widgetDivTicketForm').ecommwidget(entranceOptions);
 		
 });
 
@@ -723,7 +695,7 @@ regarding your use of this site:</p>
 		
     <div id="footer">
         <ul class="line1">
-            <li class="first">©2009 Mammoth Mountain Ski Area</li>
+            <li class="first">©2010 Mammoth Mountain Ski Area</li>
         </ul>
         <ul class="line2">
             <li class="first"><a href="/ContactUs/">Contact Us</a></li>
@@ -740,7 +712,8 @@ regarding your use of this site:</p>
             <li><a href="http://www.facebook.com/MammothMTN" target="_blank" id="fb_icon"><span>Facebook</span></a></li>
             <li><a href="http://twitter.com/MammothMountain" target="_blank" id="twit_icon"><span>Twitter</span></a></li>
             <li><a href="http://www.youtube.com/themammothmountain" target="_blank" id="yt_icon"><span>YouTube</span></a></li>
-            <li><a href="http://livevibe.mammothmountain.com/?feed=rss2" target="_blank" id="blog_icon"><span>RSS Feed</span></a></li>
+            <li><a href="http://livevibe.mammothmountain.com/" target="_blank" id="blog_icon"><span>RSS Feed</span></a></li>
+            <li><a href="http://www.mammoth2go.com/" target="_blank" id="mobile_icon"><span>Mobile</span></a></li>
         </ul>
 		<!--
 		
@@ -751,5 +724,4 @@ regarding your use of this site:</p>
     <div id="doneLoading"></div>
 
 
-<!--*path=/Privacy/&*-->
- </body></html>
+ <div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="drop-shadow highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="highslide/graphics/outlines/drop-shadow.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"></div></body></html>
