@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agropages.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228114734id_/http%3A//www.agropages.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agropages.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630020441id_/http%3A//www.agropages.com/policy.htm) for the most accurate reproduction.*
 
 # Agropages.com, agrochemical online B2B marketplace!
 
