@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626154633id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630201143id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
 
 # eRenterPlan - Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.erenterplan.com&sealid=101)
 
-LeasingDesk Insurance Services is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This Privacy Policy covers the www.eRenterPlan.com website.  Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+LeasingDesk Insurance Services is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This Privacy Policy covers the www.eRenterPlan.com website.  Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 This website is operated by Multifamily Internet Ventures, LCC (“MIV”), d/b/a LeasingDesk Insurance Services (“LDIS”).  This privacy policy (“Privacy Policy”) applies to the information that you provide to LDIS via the www.eRenterPlan.com Website where this Privacy Policy appears in the footer, and/or by use of other services (collectively, the “Services”) that may be provided by other means or media, including as set forth below.
 
@@ -39,6 +39,8 @@ The personal information LDIS collects is not shared with non-affiliated third-p
 
 When you visit this website, we may store some information on your computer.  This information will be in the form of a “cookie” or similar file and can help us maintain and improve this website in many ways.  A “cookie” is a small amount of data that is transferred to your web browser by a web server and can only be read by the server that gave it to you.  It functions as your identification card, recording such things as Internet address, passwords, and preferences.  It cannot be executed as code or deliver viruses.  This is all done without LDIS knowing your name or other personal information.  When you visit any LDIS website you are anonymous, unless you chose to identify yourself to us.  Some of our business partners may use cookies on our site.  We have no access to or control over these cookies.  This Privacy Policy covers the use of cookies by the www.eRenterPlan.com website only and does not cover the use of cookies by any of our business partners.  With most web browsers, you can erase “cookies” from your computer hard drive, block all “cookies”, or receive a warning before a “cookie” is stored.  Please refer to the “Help” portion of the browser toolbar to learn more about these functions.
 
+We may use web beacons (also known as clear gifs) on the Website in conjunction with cookies to compile statistics about website usage. Web beacons are small pieces of data that are embedded in images on the Website. We use these technical methods to analyze the traffic patterns on the Website, such as the frequency with which users visit various parts of the Website and to measure Website effectiveness. Web beacons do not contain or reveal any personal information. However, if you choose to provide us with personal information, this information may be linked to the data stored in the cookies or web beacons. These technical methods may involve the transmission of information either directly to us or to other parties authorized by us to collect information on our behalf.
+
 LDIS reserves the right to retain personal information collected through its website, and other means, for the length of our business relationship with you.  In some cases, however, LDIS will retain the information for a longer period if required to do so by law or regulation.  
 
 LDIS may disclose information you provide to third-parties in order to complete a transaction that you have requested, including, but not limited to, processing credit or debit card payments.  Finally, please note that LDIS may disclose personal information when required by law or in the good faith belief that such action is necessary in order to comply with the law or legal process.  This includes:
@@ -63,9 +65,10 @@ LDIS takes its customers’ privacy seriously.  If you have questions or concer
 LeasingDesk Insurance Services  
 Attention:  Legal – Privacy Policy  
 36 Discovery, Suite 220  
-Irvine, CA  92618  
+Irvine, CA  92618  
+[privacy@realpage.com](mailto:privacy@realpage.com)  
 
-If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php).  TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url).  TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 We may amend this Privacy Policy from time to time.  All amended terms will automatically take effect thirty (30) days after they are initially made and will be made available on the LDIS website.  In addition, we may notify you by email of amended terms to this Privacy Policy if:  (i) you have provided your email address to us; and (ii) you have consented to receive electronic communications from us.
 
