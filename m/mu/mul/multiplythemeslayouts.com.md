@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiplythemeslayouts.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230051034id_/http%3A//multiplythemeslayouts.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplythemeslayouts.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630160747id_/http%3A//multiplythemeslayouts.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MultiplyThemesLayouts
 
@@ -17,5 +17,3 @@ We also use third party advertisements on multiplythemeslayouts.com to support o
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Google’s use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-Categories: [Multiply Themes](http://multiplythemeslayouts.com/category/multiply-themes/ "View all posts in Multiply Themes")   Tags: 
