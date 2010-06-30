@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reviewsaurus.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626004943id_/http%3A//www.reviewsaurus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewsaurus.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630070440id_/http%3A//www.reviewsaurus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ReviewSaurus - Windows software download
+# Privacy Policy | ReviewSaurus - Technology Rocks!
 
 Privacy Policy Statement  
 This is the web site of Mayank Gupta.
@@ -21,7 +21,8 @@ If you do not want to receive e-mail from us in the future, please let us know b
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations  
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+
 http://www.google.com/privacypolicy.htm
 
 ‘We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please refer to these websites.’
