@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtreemhost.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430100708id_/http%3A//xtreemhost.com/%3Fpage_id%3D99) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtreemhost.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630190502id_/http%3A//xtreemhost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | XtreemHost
 
