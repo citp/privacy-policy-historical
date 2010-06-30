@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229154918id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljfox.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630143147id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - The Michael J. Fox Foundation for Parkinson's Research
 
@@ -13,6 +13,9 @@ Other than the specific instances outlined in this policy, the Foundation does n
 The Foundation collects the following information through our secure online financial-transaction pages: name, address, e-mail address, phone number, and credit card information. This personally identifiable information is used to acknowledge receipt of your donation for tax purposes and to include you on the Foundation's mailing list if you choose to join it.
 
 When you send a donation in honor or in memory of someone and request that an acknowledgement be sent to another individual or a family, we will use the name and address of that individual or family for acknowledgement purposes only.
+
+**Security**  
+We care about the security of your transactions and apply industry-standard practices and technologies to safeguard your credit card information. We use high-grade encryption and the secure https protocol to communicate with your browser software, which guards against interception of the credit card information you give us. We also employ several different security techniques to protect your personally identifiable information from unauthorized access by users inside and outside the organization. The Web servers for the Foundation are located in a locked, secure environment, and computer systems are maintained in accordance with industry standards to secure information.You should be aware, however, that “perfect security” does not exist on the Internet, and third parties may unlawfully intercept or access transmissions or private communications.
 
 **Mailing List**  
 The Foundation provides a separate online form to join our mailing list. The information we collect includes: name, address, e-mail address, and phone number. This information is securely stored internally and accessed only when we correspond with our mailing list periodically during the year, either via e-mail or regular mail.
