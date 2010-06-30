@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221045746id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630164700id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Journal
 
@@ -16,7 +16,7 @@ All information collected is intended for creating and maintaining an account on
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), your operating system (such as Windows Vista or Mac OSX), the time you visited our site and which pages you visited throughout our site. 
 
-We also use third party advertisements on digitaljournal.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Toronto real estate ads to someone in Toronto, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
@@ -57,5 +57,9 @@ In order to see what information of yours is available to other users, ensure yo
 Conditions of Use 
 
 If you decide to visit and/or use DigitalJournal.com, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Ontario law. 
+
+We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on the Site. Your use of the Site following any such change constitutes your agreement that all Personal Information collected from or about you through the Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy Policy" at the bottom of each page of our Site. 
+
+This Privacy Policy is effective as of Oct. 1, 2006 
 
 |  | 
