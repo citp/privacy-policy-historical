@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugrehabcenter.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828211123id_/http%3A//www.drugrehabcenter.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugrehabcenter.com privacy policy that was archived on 2010-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100801040832id_/http%3A//www.drugrehabcenter.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
