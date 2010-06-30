@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automateexcel.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219161519id_/http%3A//www.automateexcel.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automateexcel.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630083835id_/http%3A//www.automateexcel.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Automate Excel » Privacy Policy
 
 Cookies  
 AutomateExcel.com uses cookies to store session information so you will not see the same advertisement repeatedly.
