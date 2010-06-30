@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the appmodo.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229005233id_/http%3A//appmodo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmodo.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630165250id_/http%3A//appmodo.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Appmodo
-
-## Privacy
-
-* * *
 
 Appmodo is committed to the right to privacy.
 
