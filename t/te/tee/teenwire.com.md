@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenwire.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209231334id_/http%3A//www.plannedparenthood.org/privacy-policy-5500.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenwire.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630200231id_/http%3A//www.plannedparenthood.org/privacy-policy-5500.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Planned Parenthood
 
