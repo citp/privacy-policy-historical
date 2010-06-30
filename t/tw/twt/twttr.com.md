@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twttr.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230422id_/http%3A//twitter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twttr.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630211957id_/http%3A//twitter.com/privacy) for the most accurate reproduction.*
 
 # Twitter / Twitter Privacy Policy
 
@@ -8,27 +8,29 @@ If you have any questions or comments about this Privacy Policy, please contact 
 
 ### Information Collection and Use
 
-TipTip: We collect and use your information to provide our Services and improve them over time.
+Tip We collect and use your information to provide our Services and improve them over time. 
 
 **Information Collected Upon Registration:** When you create or reconfigure a Twitter account, you provide some personal information, such as your name, username, password, and email address. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results. Some Services, such as search, public user profiles and viewing lists, do not require registration.
 
 **Additional Information:** You may provide us with additional information to make public, such as a short biography, your location, or a picture. You may customize your account with information such as a cell phone number for the delivery of SMS messages or your address book so that we can help you find Twitter users you know. We may use your contact information to send you information about our Services or to market to you. You may unsubscribe from these messages by following the instructions contained within the messages or the instructions on our web site. If you email us, we may keep your message, email address and contact information to respond to your request. Providing the additional information described in this section is entirely optional.
 
-**Tweets, Following, Lists and other Public Information:** Our Services are primarily designed to help you share information with the world. Most of the information you provide to us is information you are asking us to make public. This includes not only the messages you Tweet and the metadata provided with Tweets, such as when you Tweeted, but also the lists you create, the people you follow, the Tweets you mark as favorites or Retweet and many other bits of information. Our default is almost always to make the information you provide public but we generally give you [settings](https://web.archive.org/account/settings) to make the information more private if you want. Your public information is broadly and instantly disseminated. For example, your public Tweets are searchable by many search engines and are immediately delivered via SMS and our [APIs](http://apiwiki.twitter.com/FAQ) to a wide range of users and services. You should be careful about all information that will be made public by Twitter, not just your Tweets.
+**Tweets, Following, Lists and other Public Information:** Our Services are primarily designed to help you share information with the world. Most of the information you provide to us is information you are asking us to make public. This includes not only the messages you Tweet and the metadata provided with Tweets, such as when you Tweeted, but also the lists you create, the people you follow, the Tweets you mark as favorites or Retweet and many other bits of information. Our default is almost always to make the information you provide public but we generally give you [settings](http://twitter.com/account/settings) to make the information more private if you want. Your public information is broadly and instantly disseminated. For example, your public Tweets are searchable by many search engines and are immediately delivered via SMS and our [APIs](http://apiwiki.twitter.com/FAQ) to a wide range of users and services. You should be careful about all information that will be made public by Twitter, not just your Tweets.
 
-TipTip: What you say on Twitter may be viewed all around the world instantly.
+Tip What you say on Twitter may be viewed all around the world instantly. 
 
-**Location Information:** You may choose to note your location in your Tweets and in your Twitter profile. You can control your location information in your [account settings](https://web.archive.org/account/settings).
+**Location Information:** You may choose to note your location in your Tweets and in your Twitter profile. If you turn on Tweeting with your location, we may also save exact coordinates to help improve our service. You can control your location information settings in your [account settings](http://twitter.com/settings/account).
 
 **Log Data:** Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data.
 
+**Links:** Twitter may keep track of how you interact with links in Tweets by redirecting clicks or through other means. We do this to help improve our Services, including advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
+
 **Cookies:** Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. Twitter may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
 
-**Third Party Services:** Twitter uses [Google Analytics](http://www.google.com/analytics/) to help understand use of our Services. Through Google, Analytics collects the information sent by your browser as part of a web page request, including cookies and your IP address. Google also receives this information and their use of it is governed by their [Privacy Policy](http://www.google.com/intl/en/privacy.html).
+**Third Party Services:** Twitter uses a variety of services hosted by third parties to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
 
 ### Information Sharing and Disclosure
 
-TipTip: We do not disclose your private information except in the limited circumstances described here.
+Tip We do not disclose your private information except in the limited circumstances described here. 
 
 **Your Consent:** We may share or disclose your information with your consent, such as when you use a third party web client to access your Twitter account.
 
@@ -52,6 +54,6 @@ Our Services are not directed to people under 13. If you become aware that your 
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [http://twitter.com/privacy](https://web.archive.org/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Twitter update or e-mail to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-_This Privacy Policy is effective as of November 18, 2009.  
-[Archive of Previous Privacy Policies](https://web.archive.org/privacy/previous)  
-Thoughts or questions about this Privacy Policy? Please, [let us know](mailto:privacy@twitter.com)._
+_This Privacy Policy is effective as of June 08, 2010.  
+[Archive of Previous Privacy Policies](https://web.archive.org/privacy/previous)   
+Thoughts or questions about this Privacy Policy? Please, [let us know](mailto:privacy@twitter.com). _
