@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammoland.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229042013id_/http%3A//www.ammoland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoland.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630174847id_/http%3A//www.ammoland.com/privacy-policy) for the most accurate reproduction.*
 
 # AmmoLand Privacy Policy | AmmoLand.com
 
@@ -38,5 +38,7 @@ If you received an email from Ammoland, that means that your email address is li
 We reserve the right to change this policy at any time by notifying guests of the existence of a new privacy policy.
 
 © 2008 AmmoLand.com – All Rights Reserved.
+
+No tags for this post.
 
 Filed under: [Uncategorized](http://www.ammoland.com/category/uncategorized/ "View all posts in Uncategorized") by AmmoLand [No Comments »](http://www.ammoland.com/privacy-policy/#respond "Comment on Privacy Policy")
