@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231025026id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iht.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630103103id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # The New York Times > Member Center > Site Help > The New York Times Privacy Policy Highlights
 
