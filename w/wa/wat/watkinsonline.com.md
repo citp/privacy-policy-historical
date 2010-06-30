@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watkinsonline.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227131947id_/http%3A//www.watkinsonline.com/privacy.cfm%3FgCatalogLocale%3DUsa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watkinsonline.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630080433id_/http%3A//www.watkinsonline.com/privacy.cfm%3FgCatalogLocale%3DUsa) for the most accurate reproduction.*
 
 # Watkins Official Home Business Opportunity Web Site | Privacy Statement
 
