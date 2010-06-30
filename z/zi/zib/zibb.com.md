@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zibb.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627021344id_/http%3A//www.zibb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zibb.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630090811id_/http%3A//www.zibb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Zibb.com
 
