@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209213954id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630223305id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
 > ### Fark Frequently Asked Questions (FAQ): Legal Stuff
 > 
-> [Back to top of FAQ](https://web.archive.org/web/20091209213954id_/http%3A//www.fark.com/farq/index.shtml)  
+> [Back to top of FAQ](https://web.archive.org/web/20100630223305id_/http%3A//www.fark.com/farq/index.shtml)  
 > 
 > 
->   * [ Legal Stuff](https://web.archive.org/web/20091209213954id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
->     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20091209213954id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
+>   * [ Legal Stuff](https://web.archive.org/web/20100630223305id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
+>     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20100630223305id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
 > 
 
 > 
@@ -21,6 +21,8 @@
 > #####  Terms Of Service 
 > 
 > Text comments, AudioEdit submissions, and Photoshopped images posted on Fark by registered users may not be reposted or broadcast without the express written permission or license from Fark.com, and must attribute Fark.com as the source. 
+> 
+> By using Fark, You agree that you will not use any robot, harvesting bots, spider, scraper, or other automated means to access the site for any purpose without our express written permission. You further agree that You will not take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure or interfere or attempt to interfere with the proper working of the site or any activities conducted on the site. 
 > 
 > #####  Copyright Notice 
 > 
@@ -39,7 +41,7 @@
 > 
 > Our Copyright Agent for notice of claims of copyright infringement on Fark.com is Drew Curtis, who can be reached through farkback at: <http://www.fark.com/cgi/feedback.pl?type=legal>
 > 
-> Fark, TotalFark, Foobies, and the Fark, TotalFark, and Foobies logos, are registered trademarks of Fark, Inc. 
+> Fark, TotalFark, Foobies, Fark This, and the Fark, TotalFark, and Foobies logos, are registered trademarks of Fark, Inc. Farked is a trademark of Fark, Inc. 
 > 
 > #####  Fark's Privacy Policy 
 > 
