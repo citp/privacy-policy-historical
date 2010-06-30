@@ -1,49 +1,49 @@
-> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2008-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080227130654id_/http%3A//www.printerinks.com/stAntispam.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printerinks.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630104532id_/http%3A//www.printerinks.com/privacy-Policy.html) for the most accurate reproduction.*
 
-# Discount Inkjet cartridges suitable for Epson Canon HP and Lexmark Printers - Printerinks.com
+# Discount Inkjet cartridges suitable for Epson Canon HP and Lexmark Printers - PrinterInks.com
 
-|   
-| Printerinks.com's Anti-Spam Policy  
----  
-   
-|  | **Printerinks.com does not tolerate spamming of any nature and has a zero tolerance policy regarding the transmission of "spam" e-mail.**
+Your privacy is important to us. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
-If you feel that you have received spam e-mail, please e-mail us with the details (the e-mail address on the "from" line and any "opt-out e-mail address at the bottom of the e-mail") to [abuse@Printerinks.com](mailto:abuse@Printerinks.com). We want to assure you that your complaint will be taken very seriously. We need your help to insure that no one is sending unauthorized e-mails.  
-  
----|---  
-   
-Privacy and Data Protection Policy  
-   
-**We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.**
+We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. This may include passing your details to our vendors for them to send your order to you, and also passing your details to delivery companies so that they can deliver your parcel. 
 
-Printerinks.com does not collect any card numbers or any credit card information. All payments are handled by Barclays Merchant Services. No financial details you give will ever be stored on this site. This is why you need to re-enter your card details every time you make a purchase with Printerinks.com.
+The type of information we will collect about you includes: 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+  * your name
+  * address
+  * phone number
+  * e-mail address
+  * credit/debit card details
 
-All our customer records are encrypted and our servers our highly password protected. We even go a step further by employing an independent external agency, SquareTrade, to test our servers each day to ensure they are hacker safe. 
 
-We use return email addresses to answer the email we receive. Such addresses are not shared with outside parties.  
-  
-   
-Our Commitment To Children's Protection  
-   
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  
-   
-How To Contact Us  
-   
-Should you have other questions or concerns about these privacy policies, please call us at [020 8845 0661] or send us an [ email](mailto:contactus@printerinks.com).  
-   
-| Our Commitment to Your Security  
----  
-|  |   
----|---  
-| Our Commitment to Your Security   
----  
-    |  |  | Our Commitment to Your Satisfaction  
----  
-|    
----  
-Printerinks, 4 Victoria Road, Ruislip, Middlesex, HA4 0AA, United Kingdom   
-Tel: 0870 042 3737 | Fax: 020 8845 3659  
-  
-*****Apple®, HP®, IBM®, Lexmark®, Canon®, Epson®, Xerox® and other manufacturer brand names and logos are registered trademarks of their respective owners. Any use of a brand name or model designation for a non-OEM" cartridge is made solely for purposes of demonstrating compatibility.
+
+We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by visiting our "Accounts Settings" page once you login or by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information which we hold will be held securely in accordance with our internal security policy and the law and the Safebuy Code of Practice. If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. 
+
+We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way cannot be used to identify you. If you have any questions/comments about privacy, you should e-mail us at [contactus@printerinks.com](mailto:contactus@printerinks.com). 
+
+**UNSOLICITED COMMERCIAL EMAIL / SPAM**
+
+We will not send any unsolicited commercial email (also known as spam) to personal email addresses and all marketing emails will include details of how to opt-out / unsubscribe. You may also send e-mails to contactus@printerinks.com with a request to be removed. 
+
+**SECURITY**
+
+Printerinks.com takes precautions to protect its customers' information. When you submit sensitive information via the website, your information is protected both online and offline. 
+
+When our registration/order form asks you to enter sensitive information (such as your credit card number), that information is encrypted and is protected with the best encryption software currently available in the industry - SSL. Printerinks.com uses the most advanced form of SSL software available: 128-bit encryption by VeriSign. To learn more about SSL, follow this link www.verisign.com. 
+
+Access to all of our users' information is restricted. Printerinks.com operates in a secured and locked facility that requires all employees to check in and wear valid ID badges. Security cameras are positioned throughout the building in conjunction with multiple alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We do not store your financial information in our system so for future transactions, you will be required to re-enter your information. 
+
+All Printerinks.com servers, including web servers and database servers, are housed and maintained in secure locations. Access to the database is strictly monitored and protected from outside access. Internet access is restricted and protected by multiple Checkpoint and Cisco firewalls and password protection. The servers on which we store personally identifiable information are kept in a secured environment, inside a secured and locked room. All backups are stored and locked in a high-level security room. Only personnel with proper security clearance have access to these restricted areas. Tape backups are not permitted to leave the premises without prior authorization. 
+
+All employees are kept up-to-date on our security and privacy practices. Every quarter, in addition to any time a new policy is added, Printerinks.com employees are notified and/or reminded about the importance of privacy and what they can do to ensure that customers' information remains protected at all times. 
+
+If you have any questions or concerns about Printerinks.com's security practices, you can send us an email at contactus@printerinks.com. 
+
+**LAST UPDATE**
+
+The Privacy Policy contained herein became officially effective March 1, 2004.   
+Address  
+Printerinks.com  
+Unit 5 Stonefield Way  
+Ruislip  
+Middlesex   
+HA4 0JS 
