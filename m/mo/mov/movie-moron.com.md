@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movie-moron.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623182201id_/http%3A//www.movie-moron.com/%3Fpage_id%3D472) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movie-moron.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630020120id_/http%3A//www.movie-moron.com/%3Fpage_id%3D472) for the most accurate reproduction.*
 
-# Movie Moron » » Privacy Policy
+# Movie Moron » Privacy Policy
 
 Effective 1st December 2007.
 
@@ -23,6 +23,10 @@ We use return email addresses to answer the email we receive. Such addresses are
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
+**Cookies**
+
+Your Internet browser has the in-built facility for storing small files “cookies” that hold information which allows a website to recognise your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired.
+
 **Our Commitment To Data Security**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
@@ -30,6 +34,10 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 **Our Commitment To Children’s Privacy:**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+**Third Party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and the ability to opt-out of 3rd party data collection, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **How To Contact Us**
 
