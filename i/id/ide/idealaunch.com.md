@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idealaunch.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229234558id_/http%3A//www.idealaunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealaunch.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630171049id_/http%3A//www.idealaunch.com/privacy-policy) for the most accurate reproduction.*
 
-# ideaLaunch.com
+# ideaLaunch.com | Privacy Policy
 
 _Effective 3/1/2009_
 
