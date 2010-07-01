@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523060246id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701142611id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # MoneySupermarket – Legal Services
 
@@ -94,4 +94,4 @@ Any electronic communications we send you will include clear and concise instruc
 
  
 
-[](https://web.archive.org/web/20100523060246id_/http%3A//www.moneysupermarket.com/)
+[](https://web.archive.org/web/20100701142611id_/http%3A//www.moneysupermarket.com/)
