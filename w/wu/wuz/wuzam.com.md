@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wuzam.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610191004id_/http%3A//www.wuzam.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wuzam.com privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701184026id_/http%3A//www.wuzam.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
