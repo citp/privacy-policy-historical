@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldsplanet.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530020121id_/http%3A//www.ldsplanet.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldsplanet.com privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701050112id_/http%3A//www.ldsplanet.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # LDSPlanet.com - Privacy Policy
 
