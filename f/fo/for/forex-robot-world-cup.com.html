@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forex-robot-world-cup.com privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231010914id_/http%3A//www.forex-robot-world-cup.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forex-robot-world-cup.com privacy policy that was archived on 2010-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100701164459id_/http%3A//www.forex-robot-world-cup.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Expires" content="0">
@@ -11,114 +11,117 @@
 <link href="css/forex.css" rel="stylesheet" type="text/css">
 
 <script>
-  function time()
+function time()
+{
+  // Enter the month, day, and year below you want to use as
+  // the starting point for the date calculation
+  var amonth = 12
+  var aday = 1
+  var ayear = 2009
+
+  var x = new Date()
+  var dyear
+  var dmonth
+  var dday
+  var tyear = x.getFullYear()
+  var tmonth = x.getMonth() + 1
+  var tday = x.getDate()
+  var y = 1
+  var mm = 1 
+  var d = 1 
+  var a2 = 0 
+  var a1 = 0
+  var f = 28
+
+  if ((tyear / 4) - parseInt(tyear / 4) == 0)
   {
-    // Enter the month, day, and year below you want to use as
-    // the starting point for the date calculation
-    var amonth = 12
-    var aday = 1
-    var ayear = 2009
+    f = 29
+  }
 
-    var x = new Date()
-    var dyear
-    var dmonth
-    var dday
-    var tyear = x.getFullYear()
-    var tmonth = x.getMonth()+1
-    var tday = x.getDate()
-    var y=1
-    var mm=1 
-    var d=1 
-    var a2=0 
-    var a1=0
-    var f=28
+  m = new Array(31, f, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31)
 
-    if ((tyear/4)-parseInt(tyear/4)==0)
+  dyear = tyear - (ayear)
+
+  dmonth = tmonth - amonth
+  if (dmonth < 0)
+  {
+    dmonth = dmonth + 12
+    dyear--
+  }
+
+  dday = tday - aday
+  if (dday < 0)
+  {
+    var ma = amonth + tmonth
+    if (ma > 12) { ma = ma - 12 }
+    if (ma = 0) { ma = ma + 12 }
+    dday = dday + m[ma]
+    dmonth--
+  }
+
+  if (dyear == 0) { y = 0 }
+
+  if (dmonth == 0) { mm = 0 }
+
+  if (dday == 0) { d = 0 }
+
+  if ((y == 1) && (mm == 1)) { a1 = 1 }
+
+  if ((y == 1) && (d == 1)) { a1 = 1 }
+
+  if ((mm == 1) && (d == 1)) { a2 = 1 }
+
+  if (y == 1)
+  {
+    if (dyear == 1)
     {
-      f=29
+      document.write(dyear + " year")
     }
-
-    m = new Array(31, f, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31)
-
-    dyear = tyear-(ayear)
-
-    dmonth = tmonth-amonth
-    if (dmonth<0)
+    else
     {
-      dmonth = dmonth+12
-      dyear--
-    }
-
-    dday = tday-aday
-    if (dday<0)
-    {
-      var ma = amonth+tmonth
-      if (ma>12) {ma = ma-12}
-      if (ma=0) {ma = ma+12}
-      dday = dday+m[ma]
-      dmonth--
-    }
-
-    if (dyear==0)
-    {
-      y=0
-    }
-
-    if (dmonth==0)
-    {
-      mm=0
-    }
-
-    if (dday==0)
-    {
-      d=0
-    }
-
-    if ((y==1) && (mm==1))
-    {
-      a1=1
-    }
-
-    if ((y==1) && (d==1))
-    {
-      a1=1
-    }
-
-    if ((mm==1) && (d==1))
-    {
-      a2=1
-    }
-
-    if (y==1)
-    {
-      document.write(+dyear+" years")
-    }
-
-    if ((a1==1) && (a2==0))
-    {
-      document.write(" and ")
-    }
-
-    if ((a1==1) && (a2==1))
-    {
-      document.write(", ")
-    }
-
-    if (mm==1)
-    {
-      document.write(dmonth+" months")
-    }
-
-    if (a2==1)
-    {
-      document.write(" and ")
-    }
-
-    if (d==1)
-    {
-      document.write(+dday+" days")
+      document.write(dyear + " years")
     }
   }
+
+  if ((a1 == 1) && (a2 == 0))
+  {
+    document.write(" and ")
+  }
+
+  if ((a1 == 1) && (a2 == 1))
+  {
+    document.write(", ")
+  }
+
+  if (mm == 1)
+  {
+    if (dmonth == 1)
+    {
+      document.write(dmonth + " month")
+    }
+    else
+    {
+      document.write(dmonth + " months")
+    }
+  }
+
+  if (a2 == 1)
+  {
+    document.write(" and ")
+  }
+
+  if (d == 1)
+  {
+    if (dday == 1)
+    {
+      document.write(dday + " day")
+    }
+    else
+    {
+      document.write(dday + " days")
+    }
+  }
+}
 </script>
 </head>
 
@@ -127,24 +130,25 @@
   <div id="navbar">
     <table width="100%" height="59" border="0">
       <tbody><tr>
-              <td><a href="index.php">Home</a></td>
-      <td><a href="about.php">About Us</a></td>
-      <td><a href="results.php">Results</a></td>
-      <td><a href="news.php">News</a></td>
-<!--  <td><a href="register.php">Join</a></td> -->
-      <td><a href="faq.php">F.A.Q.</a></td>
-      <td><a href="login.php">EA Developers</a></td>
-      <td><a href="rules.php">Rules</a></td>
-      <td><a href="terms.php">Terms</a></td>
-      <td><a href="privacy.php">Privacy</a></td>
-      <td><a href="contact.php">Contact</a></td>
+              <td><a href="/main.php">Home</a></td>
+      <td><a href="/about.php">About Us</a></td>
+      <td><a href="/news.php">News</a></td>
+<!--  <td><a href="/register.php">Join</a></td> -->
+      <td><a href="/faq.php">F.A.Q.</a></td>
+      <td><a href="/login.php">EA Developers</a></td>
+      <td><a href="/members/login.php">FRWC I Client Login</a></td>
+      <td><a href="/rules.php">Rules</a></td>
+      <td><a href="/terms.php">Terms</a></td>
+      <td><a href="/privacy.php">Privacy</a></td>
+<!--  <td><a href="/partner.php">Affiliates</a></td> -->
+      <td><a href="/contact.php">Contact</a></td>
 
       </tr>
     </tbody></table>
   </div>
   <div id="login">
-    <h2>THE FOREX ROBOT WORLD CUP COMPETITION ROBOTS WILL BE AVAILABLE FOR SALE IN JUST...</h2>
 <!--
+    <h2>THE FOREX ROBOT WORLD CUP COMPETITION ROBOTS WILL BE AVAILABLE FOR SALE IN JUST...</h2>
     <h2>MEMBERS AREA LOGIN</h2>
     <form name="loginform" action="login.php" method="post" enctype="multipart/form-data" id="loginform" onsubmit="return verifyDetails();">
       <input type="hidden" name="login_member" value="">
@@ -196,13 +200,14 @@
       </label>
       <a href="javascript: logMeIn();" class="login-btn">Login</a>
     </form>
--->
     <p></p>
+-->
   </div>
   <div id="next-competition">
+<!--
     <br>
     <div class="counter">
-      <div id="counter" class="counters" style="display: none;">
+      <div id="counter" class="counters">
         <ul class="countdown">
           <li><div class="countdown_num" id="countdown_day"></div><div style="font-size:11px;">Days</div></li>
           <li><div class="countdown_num" id="countdown_hour"></div><div style="font-size:11px;">Hours</div></li>
@@ -210,7 +215,8 @@
           <li><div class="countdown_num" id="countdown_sec"></div><div style="font-size:11px;">Seconds</div></li>
         </ul>
       </div>
-      <div class="general" id="expired" style="display: block;">THE ROBOTS ARE AVAILABLE<br>NOW!!!</div>
+      <div class="general" id="expired" style="display:none;">THE ROBOTS ARE AVAILABLE<br>NOW!!!</div>
+-->
     </div>
 <!--
     <h2>LIVE TRADING BEGINS IN:</h2>
@@ -228,7 +234,7 @@
 -->
   </div>
   <h1 class="hide">The Forex Robot World Cup</h1>
-</div>
+
 
 <div class="container" id="content">
 
@@ -241,62 +247,63 @@
     </div>
 -->
     <div id="panel">
-      <h2><u>FREQUENTLY ASKED<br>
-        QUESTIONS</u></h2>
+      <h2>FREQUENTLY ASKED<br>
+        QUESTIONS</h2>
       <div id="faqs">
-        &nbsp;&nbsp;&nbsp;- <a href="faq.php#1" title="View Frequently Asked Questions">When will the robots be</a><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="faq.php#1" title="View Frequently Asked Questions">available for sale?</a>
-<p>
-        &nbsp;&nbsp;&nbsp;- <a href="faq.php#12" title="View Frequently Asked Questions">Why are the FRWC robots</a><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="faq.php#12" title="View Frequently Asked Questions">the best in the world?</a>
-</p>
-        &nbsp;&nbsp;&nbsp;- <a href="faq.php#10" title="View Frequently Asked Questions">How many robots were</a><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="faq.php#10" title="View Frequently Asked Questions">submitted to the</a><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="faq.php#10" title="View Frequently Asked Questions">competition?</a>
+        &nbsp;&nbsp;&nbsp;- <a href="faq.php#Q3" title="View Frequently Asked Questions">How do you qualify or</a><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="faq.php#Q3" title="View Frequently Asked Questions">disqualify robots?</a>
+        <p>
+          &nbsp;&nbsp;&nbsp;- <a href="faq.php#Q4" title="View Frequently Asked Questions">How often will the live</a><br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="faq.php#Q4" title="View Frequently Asked Questions">trading results / rankings</a><br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="faq.php#Q4" title="View Frequently Asked Questions">be updated?</a>
+        </p>
+          &nbsp;&nbsp;&nbsp;- <a href="faq.php#Q8" title="View Frequently Asked Questions">Why are the FRWC robots</a><br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="faq.php#Q8" title="View Frequently Asked Questions">the best in the world?</a>
       </div>
       <div align="right">
         <a href="faq.php" title="View Frequently Asked Questions"><h4><sup>Click to view answers</sup></h4></a>
       </div>
     </div>
+<!--
     <div id="ranking">
-      <h2>TOP 3 RANKED ROBOTS</h2>
+      <h2>FINAL TOP 3 ROBOTS</h2>
       
 
 
 
 <script language="JavaScript" src="./results/graphs/charts/FusionCharts.js"></script>
  
-<table width="96%" align="center" border="0" cellspacing="0" cellpadding="1">
-<tbody><tr><td align="center" valign="center"><b>
-&nbsp;#&nbsp;</b>
-</td><td align="center" valign="center">
-<b>&nbsp;Name&nbsp;</b>
-</td><td align="center" valign="center">
-<b>Net<br>P/L
-</b></td></tr>
-<tr><td align="center" valign="center">
+<Table width=96% align=center border=0 cellspacing=0 cellpadding=1>
+<Tr><Td align='center' valign='center'><B>
+&nbsp;#&nbsp;</B>
+</Td><Td align='center' valign='center'>
+<B>&nbsp;Name&nbsp;</B>
+</Td><Td align='center' valign='center'>
+<B>Net<BR>P/L
+</Td></Tr>
+<Tr><Td align='center' valign='center'>
 1
-</td><td align="center" valign="center">
-<b>&nbsp;LMD-Multicurrency&nbsp;
-</b></td><td align="center" valign="center">
-&nbsp;92.24%&nbsp;
-</td></tr>
-<tr><td align="center" valign="center">
+</Td><Td align='center' valign='center'>
+<B>&nbsp;LMD-Multicurrency&nbsp;
+</Td><Td align='center' valign='center'>
+&nbsp;145.60%&nbsp;
+</Td></Tr>
+<Tr><Td align='center' valign='center'>
 2
-</td><td align="center" valign="center">
-<b>&nbsp;HiRIDER&nbsp;
-</b></td><td align="center" valign="center">
-&nbsp;36.52%&nbsp;
-</td></tr>
-<tr><td align="center" valign="center">
+</Td><Td align='center' valign='center'>
+<B>&nbsp;HiRIDER&nbsp;
+</Td><Td align='center' valign='center'>
+&nbsp;88.11%&nbsp;
+</Td></Tr>
+<Tr><Td align='center' valign='center'>
 3
-</td><td align="center" valign="center">
-<b>&nbsp;SuperVolcano&nbsp;
-</b></td><td align="center" valign="center">
-&nbsp;21.23%&nbsp;
-</td></tr>
-</tbody></table>
-<!--
+</Td><Td align='center' valign='center'>
+<B>&nbsp;SuperVolcano&nbsp;
+</Td><Td align='center' valign='center'>
+&nbsp;36.25%&nbsp;
+</Td></Tr>
+</Table>
+
       <table width="92%" align="center">
         <tr>
           <td>
@@ -318,21 +325,21 @@
 </Td><Td align='center' valign='center'>
 <B>&nbsp;LMD-Multicurrency&nbsp;
 </Td><Td align='center' valign='center'>
-&nbsp;92.24%&nbsp;
+&nbsp;145.60%&nbsp;
 </Td></Tr>
 <Tr><Td align='center' valign='center'>
 2
 </Td><Td align='center' valign='center'>
 <B>&nbsp;HiRIDER&nbsp;
 </Td><Td align='center' valign='center'>
-&nbsp;36.52%&nbsp;
+&nbsp;88.11%&nbsp;
 </Td></Tr>
 <Tr><Td align='center' valign='center'>
 3
 </Td><Td align='center' valign='center'>
 <B>&nbsp;SuperVolcano&nbsp;
 </Td><Td align='center' valign='center'>
-&nbsp;21.23%&nbsp;
+&nbsp;36.25%&nbsp;
 </Td></Tr>
 </Table></td>
         </tr>
@@ -357,11 +364,64 @@
           <td>%</td>
           <td>Growth</td>
         </tr>
--->
-      
+
+      </table>
       <p></p>
       <p><a href="results.php" class="view-rankings" title="View all Rankings">view all rankings</a></p>
       <p></p>
+    </div>
+-->
+    <div id="panel">
+      <h2>OFFICIAL FRWC I<br>
+        MATERIAL</h2>
+      <div id="faqs">
+        <table>
+<!--
+          <tr height="35">
+            <td width="20" align="right">-&nbsp;</td>
+            <td>
+              <a href="walkthru.php" title="A walk through time">A Walk Through Time</a><br>
+              <a href="walkthru.php" title="A walk through time">(video)</a>
+            </td>
+          </tr>
+          <tr height="35">
+            <td width="20" align="right">-&nbsp;</td>
+            <td>
+              <a href="interview.php" title="Interview with FXCM">The FXCM Interview</a><br>
+              <a href="interview.php" title="Interview with FXCM">(audio)</a>
+            </td>
+          </tr>
+          <tr height="35">
+            <td width="20" align="right">-&nbsp;</td>
+            <td>
+              <a href="report.php" title="The FRWC 'Insider' report">The FRWC's 'Insider' Report</a><br>
+              <a href="report.php" title="The FRWC 'Insider' report">(PDF)</a>
+            </td>
+          </tr>
+-->
+          <tbody><tr height="35">
+            <td width="20" align="right">-&nbsp;</td>
+            <td>
+              <a href="results.php" title="FRWC I Final Robot Performance">FRWC I Final Robot</a><br>
+              <a href="results.php" title="FRWC I Final Robot Performance">Performance</a><br>
+            </td>
+          </tr>
+          <tr height="35">
+            <td width="20" align="right">-&nbsp;</td>
+            <td>
+              <a href="winners.php" title="FRWC I Final Rankings And Prizes">FRWC I Final Rankings And</a><br>
+              <a href="winners.php" title="FRWC I Final Rankings And Prizes">Prizes</a><br>
+            </td>
+          </tr>
+          <tr height="35">
+            <td width="20" align="right">-&nbsp;</td>
+            <td>
+              <a href="champion.php" title="Meet the FRWC champion">Meet The FRWC I Champion</a><br>
+              <a href="champion.php" title="Meet the FRWC champion">(video)</a>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
     </div>
   </div>
 
@@ -551,8 +611,8 @@
 
     <div id="rightsidebar">
     <img src="images/cash-prize.jpg" alt="$150,000 in Cash Prizes" width="265" height="160">
-    <div id="suscribe"><span class="right-title">FREE!</span> SUBSCRIBE NOW FOR A CHANCE TO<br>
-      WIN A SET OF THE <u>TOP 3</u> FRWC ROBOTS
+    <div id="suscribe"><span class="right-title">FREE!</span> SUBSCRIBE NOW TO THE OFFICIAL<br>
+      FOREX ROBOT WORLD CUP NEWSLETTER
       <form action="https://app.icontact.com/icp/signup.php" method="post" enctype="multipart/form-data" name="subscribe" id="subscribe" accept-charset="UTF-8" onsubmit="return verifyRequired();">
         <input type="hidden" name="redirect" value="http://www.forex-robot-world-cup.com/subscribed.php">
         <input type="hidden" name="errorredirect" value="http://www.forex-robot-world-cup.com/subscribed.php">
@@ -882,12 +942,64 @@
 
   <div class="clear"></div>
 </div>
+<!--
 <div class="container" id="sponsors"> 
-  Official Sponsors Of The Forex Robot World Cup:
-  <p><img src="images/logo-FXCM.png" alt="Forex Capital Markets" width="251" height="95"><img src="images/logo-BT.png" alt="Boston Technologies" width="298" height="95"></p>
+  <div align="center">
+    <table>
+      <tr>
+        <td>Platform provider:</td>
+        <td>Technology provider:</td>
+      </tr>
+      <tr>
+        <td><a href="http://www.fxcm.co.uk" target="_blank"><img src="images/logo-FXCM.png" alt="Forex Capital Markets" width="251" height="95"></a></td>
+        <td><a href="http://www.bostontechnologies.com" target="_blank"><img src="images/logo-BT.png" alt="Boston Technologies" width="298" height="95"></a></td>
+      </tr>
+    </table>
+  </div>
 </div>
+-->
 <div class="clear"></div>
-<div class="container" id="footer">Copyright © 2009. ALL RIGHTS RESERVED.</div>
+<div class="container" id="footer">Copyright © 2009, 2010 - The Forex Robot World Cup. ALL RIGHTS RESERVED.</div>
+<div class="container" id="spacer" style="height: 175px"></div>
+<div class="container" id="disclaimer">
+  <font color="white">
+    <p align="justify">
+      <small><small>The views and opinions provided by The Forex Robot World Cup are not endorsed nor controlled by our 
+      preferred Forex brokers. Further, Forex brokers are not responsible for their availability, content, or delivery 
+      of services and will not accept liability for any loss or damage, including without limitation to, any loss of 
+      profit, which may arise directly or indirectly from use of or reliance on such information. </small></small>
+    </p>
+    <p align="justify">
+      <small><small>Hypothetical performance results have many inherent limitations, some of which are described 
+      below. No representation is being made that any account will or is likely to achieve profits or losses similar 
+      to those shown. In fact, there are frequently sharp differences between hypothetical performance results and 
+      the actual results subsequently achieved by any particular trading program. One of the limitations of 
+      hypothetical performance results is that they are generally prepared with the benefit of hindsight. In 
+      addition, hypothetical trading does not involve financial risk, and no hypothetical trading record can 
+      completely account for the impact of financial risk in actual trading. For example, the ability to withstand 
+      losses or to adhere to a particular trading program in spite of trading losses are material points which 
+      can also adversely affect trading results. There are numerous other factors related to the markets in general 
+      or to the implementation of any specific trading program which cannot be fully accounted for in the preparation 
+      of hypothetical performance results and all of which can adversely affect actual trading results.</small></small>
+    </p>
+    <p align="justify">
+      <small><small>At all times you must note that you shall not and cannot assume, nor do we provide, any assurance 
+      that any prior successes, or past results, as to income earnings, can be used as an indication of your future 
+      success or results. By relying on or using any of our products, services or written materials or information, 
+      you acknowledge unequivocally, that we make no claim, nor do we make any guarantee or warrantee or representation 
+      of any kind, in terms of the correctness, accuracy, reliability, currency or otherwise thereof. The entire risk 
+      as to the results and outcome and performance of the products and services and use of any information or product 
+      or material provided by ourselves, are assumed by you.</small></small>
+    </p><p>
+    </p><p align="justify">
+      <small><small>The Forex Robot World Cup (FRWC) is neither licensed nor regulated in any country and we cannot 
+      give investment advice on any matter. If you are unsure about anything on this website, please seek independent 
+      financial advice. Your use of the website is your acceptance of our full terms and conditions located on our 
+      website and you acknowledge that you will not use the website or purchase any product from the FRWC that would 
+      require the FRWC to be registered or regulated in your country.</small></small>
+    </p>
+  </font>
+</div>
 <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -955,7 +1067,7 @@
     }
   }
 
-  countdown(2010, 2, 9, 14, 0, 0);
+  countdown(2010, 2, 16, 14, 0, 0);
 </script>
 
  </body></html>
