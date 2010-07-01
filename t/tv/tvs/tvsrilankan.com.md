@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvsrilankan.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501223519id_/http%3A//www.tvsrilankan.com/%3Fnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvsrilankan.com privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701081821id_/http%3A//www.tvsrilankan.com/%3Fnav%3Dprivacy) for the most accurate reproduction.*
 
 # TVSrilakan.com | The People's Channel
 
