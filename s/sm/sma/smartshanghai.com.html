@@ -1,297 +1,66 @@
-<!--The following is the downloaded HTML source of the smartshanghai.com privacy policy that was archived on 2010-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100601190133id_/http%3A//www.smartshanghai.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartshanghai.com privacy policy that was archived on 2010-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100702213919id_/http%3A//www.smartshanghai.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<script type="text/javascript" src="http://www.smartshanghai.com/js/jquery-1.4.1.js"></script>
+<script type="text/javascript" src="http://www.smartshanghai.com/js/smsh_java_v5-8.js"></script>
+<script type="text/javascript" src="http://www.smartshanghai.com/js/jquery.autocomplete_smsh.js"></script>
+<script type="text/javascript" src="http://www.smartshanghai.com/js/swfobject.js"></script>
+<script type="text/javascript" src="http://www.smartshanghai.com/js/ui.core.js"></script>
+<script type="text/javascript" src="http://www.smartshanghai.com/js/ui.tabs.js"></script>
 
-<script type="text/javascript" src="http://www.smartshanghai.com/smsh_java_v5-7.js"></script>
-  <script type="text/javascript" src="http://www.smartshanghai.com/jquery-1.3.1.js"></script>
-  <script type="text/javascript" src="http://www.smartshanghai.com/swfobject.js"></script>
-  <script type="text/javascript" src="http://www.smartshanghai.com/ui.core.js"></script>
-  <script type="text/javascript" src="http://www.smartshanghai.com/ui.tabs.js"></script>
-
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="google-site-verification" content="LwSv_h1ssJeOiY8lJqRIqcCkpfsjZ26Ci8cXcGdJVn0">
-<title>SmartShanghai.com | Shanghai_nightlife - Shanghai's most popular weekly nightlife newsletter</title>
-<link href="http://www.smartshanghai.com/CSS2/smsh_css_v5-48-general.css" rel="stylesheet" type="text/css">
-
-<link href="http://www.smartshanghai.com/CSS2/smsh_css_v5-01-privacy.css" rel="stylesheet" type="text/css">
-
- <script type="text/JavaScript">
- 
- 
-	$(document).ready(function(){
-		$("a.showmap").click(function() {
-			$("#map").toggle(400); 
-		});
-	});
-
-
- 	 	$(document).ready(function(){
-			$("a.dp_showdetails").click(function() {
-				$("#dpbar_alloptions").toggle(400); 
-			});
-		});
-		
- 	
-	 	$(document).ready(function(){
-	  $("#diningslide1").click(function() {
-		 $("#dining_blogs_ajax").load("http://www.smartshanghai.com/diningmain_blogslide.php?page=1");
-		});
-	 });
-	 
-	
-	$(document).ready(function(){
-	  $("#diningslide-2").click(function() {
-		 $("#dining_blogs_ajax").load("http://www.smartshanghai.com/diningmain_blogslide.php?page=2");
-		});
-	 });
-	 
-	 
-	$(document).ready(function(){
-	  $("#diningslide-3").click(function() {
-		 $("#dining_blogs_ajax").load("http://www.smartshanghai.com/diningmain_blogslide.php?page=3");
-		});
-	 });
-	 
-	$(document).ready(function(){
-	  $("#diningslide-4").click(function() {
-		 $("#dining_blogs_ajax").load("http://www.smartshanghai.com/diningmain_blogslide.php?page=4");
-		});
-	 });
-	 
-	 
-	//homepage, blogcontent slider
-	$(document).ready(function(){
-	  $("#home_blogslide").click(function() {
-		 $("#blog2 p").load("home_followblogs.php");
-		});
-	 });
-	
-	
-	
-	$(document).ready(function(){
-    $("#tabs").tabs();
-  });
-  
-
-
-	 function diningslider(id) {
-		
-		//first hide all the dropdowns
-		hidediv('followblog2_arrow_1');
-		hidediv('followblog2_arrow_2');
-		hidediv('followblog2_arrow_3');
-		hidediv('followblog2_arrow_4');
-	
-			  
-		if (document.getElementById) { // DOM3 = IE5, NS6
-			document.getElementById(id).style.display = 'block';
-		}
-		else {
-			if (document.layers) { // Netscape 4
-				document.id.display = 'block';
-			}
-			else { // IE 4
-				document.all.id.style.display = 'block';
-			}
-		}
-	}
-	
-	
-	
-	 $(document).ready(function(){
-	  $("#dining_slidearticles").click(function() {
-	  
-		 $("#dining_blogs").load("diningmain_blogslide.php?sd=r");
-	   });
-	 });
- 
- 
-	 $(document).ready(function(){
-	  $("#alllistings_droplink").click(function() {
-		 $("#dropdown_alllistings p").load("http://www.smartshanghai.com/loaddropdowns.php?sd=a");
-	   });
-	 });
-	 
-	 
-	 $(document).ready(function(){
-	  $("#res_droplink").click(function() {
-		 $("#dropdown_restaurants p").load("http://www.smartshanghai.com/loaddropdowns.php?sd=r");
-	   });
-	 });
-	 
-	 $(document).ready(function(){
-	  $("#clubs_droplink").click(function() {
-		 $("#dropdown_clubs p").load("http://www.smartshanghai.com/loaddropdowns.php?sd=c");
-	   });
-	 });
-	 
-	 $(document).ready(function(){
-	  $("#events_droplink").click(function() {
-		 $("#dropdown_events p").load("http://www.smartshanghai.com/loaddropdowns.php?sd=e");
-	   });
-	 });
-	 
-	 $(document).ready(function(){
-	  $("#columns_droplink").click(function() {
-		 $("#dropdown_columns p").load("http://www.smartshanghai.com/loaddropdowns.php?sd=cl");
-	   });
-	 });
-	 
-	 
-	 $(document).ready(function(){
-	  $("#maps_droplink").click(function() {
-		 $("#dropdown_maps p").load("http://www.smartshanghai.com/loaddropdowns.php?sd=map");
-	   });
-	 });
- 
-  
- 
-	 function showdropdowns(id) {
-		//safe function to show an element with a specified id
-		
-		//first hide all the dropdowns
-		hidediv('dropdown_clubs');
-		hidediv('dropdown_restaurants');
-		hidediv('dropdown_events');
-		hidediv('dropdown_alllistings');
-		hidediv('dropdown_maps');
-		hidediv('dropdown_columns');
-
-		
-			  
-		if (document.getElementById) { // DOM3 = IE5, NS6
-			document.getElementById(id).style.display = 'block';
-		}
-		else {
-			if (document.layers) { // Netscape 4
-				document.id.display = 'block';
-			}
-			else { // IE 4
-				document.all.id.style.display = 'block';
-			}
-		}
-	}
-	
-	
-	
-	
-	
-	
-		$(document).ready(function(){
-  		$("div.dr_row2").mouseover(function(){
-    		$(this).removeClass().addClass("dr_row2-hover");
-				
-			var id = this.id.replace('drrow-', "");
-			var thisdrfooter = 'p.drrow_footer-'+id;
-	
-			$(thisdrfooter).show("");
-    	}).mouseout(function(){
-    		$(this).removeClass().addClass("dr_row2");	
-			
-			var id = this.id.replace('drrow-', "");
-			var thisdrfooter = 'p.drrow_footer-'+id;
-			
-			$(thisdrfooter).hide("");
-    	});
-	});
-	
-	
-	
-	$(document).ready(function(){
-		$("a.drmaplink").click(function() {
-			$("#dr_map").toggle(400); 
-		});
-	});
+<script type="text/JavaScript">
 
 
 
 
-  	
-	$(document).ready(function(){
-		$("#housingagencyterms").click(function() {
-			$("#agency_terms").show(400); 
-			$("#housingagencyterms").hide(); 
-		});
-	});
-
-
-
+// Worldcup Game
 
 	$(document).ready(function(){
- 	 $(".addusfbtn").click(function() {
-	
-		var thisrev = this.id.replace('addusfbtn_', "");
-	
-		var currentusf = $("#currentusf_"+thisrev).val(); 
-		
-		var newusf = Number(currentusf)+1;
-		
-		var dataString = 'thisrev='+ thisrev;
-
-		$.ajax({type: "POST",
-		url: "{LOCALPATH}/js/addusv.php", data: dataString, success: function() {
-			$('#revusfdiv'+thisrev).html("<span class='revusfdivup'><b>"+newusf+"</b> User found This Review Useful</span>")
-		}
-     });
-    return false;
-	});
-});
-
-
-
-
-
- /* Add a Vote on the WC GAme */
-		
-	$(document).ready(function(){
-	
-	  $(".chbtn").click(function() {
-								 
+							   
+		$(".chbtn").click(function() {
+								   
 			var myid = $(".mysmshid").val();
-			
 			var thisgame = this.id.replace('chbtnid-', "");
-		
 			var thisdrop = ".cht-"+thisgame;
 			var myvote = $(thisdrop).val();
-			 
-				
 			var thisarea = ".votearea-"+thisgame;
-				
 			var dataString = 'thisgame='+ thisgame + '&myvote=' + myvote;
-				
-				
 			
 			if (myid.length == 0) {
 				
 				$(thisarea).html("<span style='color: #65AB20; display: block; padding: 4px 0 0 0; font-size: 10px;'><b>Please <a href='http://www.smartshanghai.com/mySmSh/'>Sign in</a> or <a href='http://www.smartshanghai.com/join.php'>register</a> first</b></span>"); 	
-				
+						
 			} else {
-		
-					
-				$(thisarea).html("<span style='color: silver; display: block; padding: 4px 0 0 0; font-size: 10px;'><b>Please wait ...</b></span>"); 	
-				
-					$.ajax({
-					   type: "POST",
-					   url: "wcajax.php",
-					   data: dataString,
-					   success: function(data) {
-						 
-							$(thisarea).html("<span style='color: #65AB20; display: block; padding: 4px 0 0 0; font-size: 10px;'><b>Saved your bet</b></span>"); 	
-	
-						 }
-					});
+			
+			$(thisarea).html("<span style='color: silver; display: block; padding: 4px 0 0 0; font-size: 10px;'><b>Please wait ...</b></span>"); 	
+			$.ajax({
+				   
+				type: "POST",
+				url: "wcajax.php",
+				data: dataString,
+				success: function(data) {
+								 
+				$(thisarea).html("<span style='color: #65AB20; display: block; padding: 4px 0 0 0; font-size: 10px;'><b>Saved your vote</b></span>"); 	
 			
 			}
-					
-			
-				
-	});
+			});
+			}
+		});
+		
+	}); 
 	  
-	});
-  
+	  
+</script> 
 
- </script> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>SmartShanghai.com | Shanghai_nightlife - Shanghai's most popular weekly nightlife newsletter</title>
+<link href="http://www.smartshanghai.com/CSS2/smsh_css_v5-49-general.css" rel="stylesheet" type="text/css">
+<link href="http://www.smartshanghai.com/CSS2/smsh_css_v5-01-privacy.css" rel="stylesheet" type="text/css">
+
+
+
+
 
 
 <meta name="version" content="SmSh V5.2 - for Walli and Chicco"><meta name="author" content="SmartShanghai.com - Shanghai, China"><meta name="copyright" content="SmartShanghai.com - Shanghai, China"><meta name="keywords" content="SmartShanghai, Shanghai, Nightlife, Dining, Art, Stage, Events, Party Pictures, Party videos, Map, Streetmap, Metromap, Property Listings, Lifestyle, Music"></head>
@@ -302,14 +71,17 @@
 
 
 
-<body style="background: #ffffff url(http://www.smartshanghai.com/CSS2/img/sitebg2.gif);" onload="MM_preloadImages('http://www.smartshanghai.com/img2/nav5-2/nav_restaurants_active.png','http://www.smartshanghai.com/img2/nav5-2/nav_clubs_over.png','http://www.smartshanghai.com/img2/nav5-2/nav_alllistings_over.png','http://www.smartshanghai.com/img2/nav5-2/nav_events_over.png','http://www.smartshanghai.com/img2/nav5-2/nav_maps_over.png','http://www.smartshanghai.com/img2/nav5-2/nav_dating_over.png','http://www.smartshanghai.com/img2/nav5-2/nav_pictures_over.png','http://www.smartshanghai.com/img2/nav5-2/nav_videos_over.png','http://www.smartshanghai.com/img2/nav5-2/nav_columns_over.png','http://www.smartshanghai.com/img2/nav5-2/nav_housing_over.png','http://www.smartshanghai.com/img2/nav5-2/nav_tickets_over.png')">
-
+<body style="background: #ffffff url(http://www.smartshanghai.com/CSS2/img/sitebg2.gif);">
 
 
 <div id="container"> <!-- SmSh Container 980px -->
-
-
    
+   
+<div id="wcpromo" style="padding: 5px 0 5px 0;">
+<a href="http://www.smartshanghai.com/worldcup"><img src="http://www.smartshanghai.com/img3/worldcup/2010worldcup.png" border="0"></a>
+</div>
+
+
 <div id="topbar">
 
 
@@ -333,7 +105,7 @@
 
     <div id="topbar_search_venues">
     <form action="http://www.smartshanghai.com/search/" style="margin: 0px; padding: 39px 0 0 0px;">
-    <img src="http://www.smartshanghai.com/img2/search_venues_active.png" border="0"><a href="javascript:null();" onclick="switchsearchtabs('topbar_search_events');"><img src="http://www.smartshanghai.com/img2/search_events.png" border="0"></a><a href="javascript:null();" onclick="switchsearchtabs('topbar_search_articles');"><img src="http://www.smartshanghai.com/img2/search_articles.png" border="0"></a><input name="q" type="text" style="background: none; font-size: 15px; color: #000000; width: 340px; margin: 3px 0 0 0; padding: 0px; height: 18px; border: 0px;"><input type="submit" value="" style="background: none; height: 20px; width: 70px; border: 0px; padding: 0px; margin: 0px;"><p style="margin: 0px; padding: 8px 0 0 0; font-size: 9px; color: #1eaad6;"><a href="http://www.smartshanghai.com/dining/" title="Restaurants in Shanghai">757 Restaurants</a>, <a href="http://www.smartshanghai.com/search/article/clubs" title="Clubs in Shanghai">32 Clubs</a>, <a href="http://www.smartshanghai.com/search/article/bars" title="Bars in Shanghai">132 Bars</a>, <a href="http://www.smartshanghai.com/search/article/Art_Galleries" title="Art Galleries in Shanghai">49 Art Galleries</a>, <a href="http://www.smartshanghai.com/search/article/hotels" title="Hotels in Shanghai">54 Hotels</a> .... »<b><a href="http://www.smartshanghai.com/search/">Advanced Search</a></b></p></form>
+    <img src="http://www.smartshanghai.com/img2/search_venues_active.png" border="0"><a href="javascript:null();" onclick="switchsearchtabs('topbar_search_events');"><img src="http://www.smartshanghai.com/img2/search_events.png" border="0"></a><a href="javascript:null();" onclick="switchsearchtabs('topbar_search_articles');"><img src="http://www.smartshanghai.com/img2/search_articles.png" border="0"></a><input name="q" type="text" id="query" autocomplete="off" style="background: none; font-size: 15px; color: #000000; width: 340px; margin: 3px 0 0 0; padding: 0px; height: 18px; border: 0px;"><input type="submit" value="" style="background: none; height: 20px; width: 70px; border: 0px; padding: 0px; margin: 0px;"><p style="margin: 0px; padding: 8px 0 0 0; font-size: 9px; color: #1eaad6;"><a href="http://www.smartshanghai.com/dining/" title="Restaurants in Shanghai">757 Restaurants</a>, <a href="http://www.smartshanghai.com/search/article/clubs" title="Clubs in Shanghai">32 Clubs</a>, <a href="http://www.smartshanghai.com/search/article/bars" title="Bars in Shanghai">132 Bars</a>, <a href="http://www.smartshanghai.com/search/article/Art_Galleries" title="Art Galleries in Shanghai">49 Art Galleries</a>, <a href="http://www.smartshanghai.com/search/article/hotels" title="Hotels in Shanghai">54 Hotels</a> .... »<b><a href="http://www.smartshanghai.com/search/">Advanced Search</a></b></p></form>
       
 
     </div>
