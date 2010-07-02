@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164530id_/http%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2010-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100702024609id_/http%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
 
 # Free Business, Computer, Engineering and Trade Magazine Subscriptions and Free White Papers
 
