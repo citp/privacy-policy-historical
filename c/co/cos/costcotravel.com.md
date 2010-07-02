@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costcotravel.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608130000id_/http%3A//www.costco.com/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084%26lang%3Den-US%26topnav%3D%26whse%3DBC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costcotravel.com privacy policy that was archived on 2010-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100702082713id_/http%3A//www.costco.com/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084%26lang%3Den-US%26topnav%3D%26whse%3DBC) for the most accurate reproduction.*
 
 # Costco Wholesale Corporation Privacy Statement
 
