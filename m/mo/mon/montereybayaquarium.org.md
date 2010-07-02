@@ -1,28 +1,11 @@
-> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509162351id_/http%3A//www.montereybayaquarium.org/sg/sg_policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montereybayaquarium.org privacy policy that was archived on 2010-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100702232117id_/http%3A//www.montereybayaquarium.org/sg/sg_policies.aspx) for the most accurate reproduction.*
 
-# Monterey Bay Aquarium: About Us - Web Site Info - Privacy Policy
+# About Us - Web Site Info - Privacy Policy | Monterey Bay Aquarium
 
+  
   
   
   
-  
-
-
-Regular Hours  
-10 a.m.-6 p.m. Daily  
-Closed Dec. 25  
-
-
-Holidays  
-9:30 a.m.-6 p.m. 
-
-  
-
-
-E-MAIL NEWSLETTER
-
-Stay connected by signing up for our e-mail newsletter. Example
-
 |  The Monterey Bay Aquarium is dedicated to protecting your privacy as you use our web site. Our policy is that no personal information will be collected about you unless you choose to provide it and that any personal information which you provide us will be safeguarded and not shared with others for any reason.
 
 If during your visit to our site you only browse, read pages or download material, we can not collect any information that will identify you personally, or determine your e-mail address. Our Web server automatically recognizes the domain name and Internet Protocol (IP) address of each visitor to our site. An IP address is a code that identifies a particular computer on the Internet. Every computer or network that's connected to the Internet has an IP address.
