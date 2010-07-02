@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the medindia.net privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818144456id_/http%3A//www.medindia.net/includes/medindiaprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medindia.net privacy policy that was archived on 2010-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100702223446id_/http%3A//www.medindia.net/includes/medindiaprivacy.asp) for the most accurate reproduction.*
 
 # Medindia Privacy Policy
+
+  | 
 
 Medindia.com / Medindia.net / Medindia.org (Collectively Medindia, "we" or ,"our" or "us") is totally committed to respecting your privacy. We fully appreciate the sensitivity and personal nature of the data such as a person's demographic, health issues, health interests, and health care. We are fully aware of your concerns about sharing this information with us This Privacy statement is made by us to answer some of these concerns.We take reasonable steps to see that it is followed.
 
@@ -14,4 +16,4 @@ If there is any change in our privacy policy we will place an updated version on
 
 If you have comments or questions about our privacy policy, please send them to [education@medindia.net](mailto:privacy@medindia.net)
 
- 
+|  
