@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vampal.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416082945id_/http%3A//www.vampal.com/Topic/4-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vampal.com privacy policy that was archived on 2010-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100702153912id_/http%3A//www.vampal.com/Topic/4-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy. Vampal
 
