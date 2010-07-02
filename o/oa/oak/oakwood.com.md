@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523182943id_/http%3A//www.oakwood.com/cms/oakwood-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2010-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100702123657id_/http%3A//www.oakwood.com/cms/oakwood-privacy.html) for the most accurate reproduction.*
 
 # Oakwood Corporate Housing - Privacy
 
-|  | |  |  | |   
----|---  
-| 
+|  | |  | | 
 
 |   
 ---  
