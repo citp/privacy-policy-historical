@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megashare.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523190344id_/http%3A//www.megashare.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megashare.com privacy policy that was archived on 2010-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100702222215id_/http%3A//www.megashare.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# MegaShare.com PRIVACY DETAILS
 
 Agreement regarding confidentiality
 
