@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaleclothing-china.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513073058id_/http%3A//www.wholesaleclothing-china.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleclothing-china.com privacy policy that was archived on 2010-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100703123550id_/http%3A//www.wholesaleclothing-china.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - Leevisia Fashion
 
@@ -32,11 +32,7 @@ The information you can get easily from
 
 containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
 
-Copyright © 2006-2010 [LeeVisia.com](http://www.leevisia.com/) Ltd. All Rights Reserved.
-
-Navigation: [Buy wholesale](http://www.wholesaleclothing-china.com/) clothing at [wholesale](http://www.wholesaleclothing-china.com/) price from leading Chinese [wholesalers](http://www.wholesaleclothing-china.com/), enjoy [online wholesale](http://www.wholesaleclothing-china.com/) and become a [wholesaler](http://www.wholesaleclothing-china.com/) now!  
-[Wholesale Wedding Dresses](http://www.wholesaleclothing-china.com/),[Fashion Dress](http://www.wholesaleclothing-china.com/),[Womens Clothing](http://www.wholesaleclothing-china.com/),[Men Clothing](http://www.wholesaleclothing-china.com/),[Jeans](http://www.wholesaleclothing-china.com/)[China Clothing Wholesale](http://www.wholesaleclothing-china.com/),[Chinese Wholesale Clothing](http://www.wholesaleclothing-china.com/),[Apparel](http://www.wholesaleclothing-china.com/),[Accessories](http://www.wholesaleclothing-china.com/),[Tops or Blouses](http://www.wholesaleclothing-china.com/)  
-[Guangzhou](http://www.wholesaleclothing-china.com/),[Clothing manufacturers](http://www.wholesaleclothing-china.com/),[Lady s Shopping Plaza](http://www.wholesaleclothing-china.com/),[Flower Girl Dress](http://www.wholesaleclothing-china.com/),[Evening Gown Wedding Accessories](http://www.wholesaleclothing-china.com/)[Junior Apparel Wholesalers](http://www.wholesaleclothing-china.com/),[Wholesale Clothing provider](http://www.wholesaleclothing-china.com/),[Designer wedding dresses](http://www.wholesaleclothing-china.com/),[Wedding Gown](http://www.wholesaleclothing-china.com/),[Bridesmaid dresses](http://www.wholesaleclothing-china.com/)
+Copyright © 2006-2010 [LeeVisia.com](http://www.leevisia.com/) Ltd. All Rights Reserved. [](http://www.www.wholesaleclothing-china.com/sitemap/index.html)
 
   
 
