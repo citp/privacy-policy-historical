@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401073214id_/http%3A//www.nccn.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2010-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100703090726id_/http%3A//www.nccn.org/about/privacy.asp) for the most accurate reproduction.*
 
 # NCCN Privacy Policy
 
@@ -12,9 +12,11 @@ The National Comprehensive Cancer Network, Inc., (NCCN) is issuing this privacy 
 
 NCCN is the sole owner of the information collected on [NCCN.org](http://www.nccn.org/). NCCN collects information from our users at several different points on this website. 
 
-**NCCN Clinical Practice Guidelines in Oncology™, NCCN Drugs and Biologics Compendium™, and NCCN Chemotherapy Order Templates™ Registration**
+NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines™), NCCN Drugs and Biologics Compendium (NCCN Compendium™), and NCCN Chemotherapy Order Templates (NCCN Templates™)
 
-NCCN requests information from users of its NCCN Clinical Practice Guidelines in Oncology™, NCCN Drugs & Biologics Compendium™, and NCCN Chemotherapy Order Templates™. NCCN uses this information to contact the user about safety updates and/or services on our site for which they have expressed interest and to advise users about future updates to this site. It is required for the user to provide demographic information (such as specialty or year of graduation), so NCCN can provide a more personalized experience on its site. 
+**Registration**
+
+NCCN requests information from users of its NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines™), NCCN Drugs & Biologics Compendium (NCCN Compendium™), and NCCN Chemotherapy Order Templates (NCCN Templates™). NCCN uses this information to contact the user about safety updates and/or services on our site for which they have expressed interest and to advise users about future updates to this site. It is required for the user to provide demographic information (such as specialty or year of graduation), so NCCN can provide a more personalized experience on its site. 
 
 **NCCN Programs, Services and Resources Registration**
 
@@ -32,9 +34,9 @@ NCCN requires visitors to register to use NCCN Interactive CME/CE archived prese
 
 NCCN requires information from users who order NCCN informational resources through our on-line ordering system, Nice Lines Direct Mail. Required information includes first and last name, shipping address, and e-mail address. This information is used to fill requesters’ orders. If NCCN or Nice Lines Direct Mail cannot process an order, the information is used to contact the user. 
 
-**NCCN Online Surveys**
+**NCCN On-line Surveys**
 
-From time-to-time, NCCN may provide you the opportunity to participate in surveys on our website. NCCN does not require information from users to complete these periodic online surveys about NCCN programs, services, and resources. For these surveys, it is optional for the user to provide demographic information (such as specialty or year of graduation), but encouraged so NCCN can enhance its programs, services and resources. You will have the option to opt-out of these surveys in your user profile. 
+From time-to-time, NCCN may provide you the opportunity to participate in surveys on our website. NCCN does not require information from users to complete these periodic on-line surveys about NCCN programs, services, and resources. For these surveys, it is optional for the user to provide demographic information (such as specialty or year of graduation), but encouraged so NCCN can enhance its programs, services and resources. You will have the option to opt-out of these surveys in your user profile. 
 
 NCCN often uses a third party service provider to conduct these surveys; that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
 
@@ -76,7 +78,7 @@ NCCN shares aggregated demographic information with our partners and advertisers
 
 _Third Party Intermediaries_
 
-NCCN uses an outside fulfillment company to process and ship orders for NCCN products; an e-mail broadcast company to send e-mail announcements about NCCN events and resources; a web hosting company to provide online access to NCCN presentations; an online survey vendor to periodically survey groups of NCCN users; and a credit card processing company to bill users for registration. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes. Registration for NCCN’s educational events consists of a link to a site hosted byiPlan; to view their privacy policy statement, go toTBD URL. Registration for NCCN Interactive Learning consists of links to sites hosted by e-City interactive, Medscape and Discovery Health; to view these privacy statements, go to [http://nccn.cmeport.com](http://nccn.cmeport.com/), [http://www.medscape.com/pjsp/public/privacy.html](http://www.medscape.com/pjsp/public/privacy.html), or http://health.discovery.com/utilities/about/privacypolicy.html, respectively . Registration to order NCCN resources online consists of a link to a site hosted by Nice Lines Direct Mail; to view this privacy statement, go to [http://pdf.nicelines.com/nccn/web%20privacy%20policy.pdf](http://pdf.nicelines.com/nccn/web%20privacy%20policy.pdf). Registration to access NCCN surveys is hosted on a site by Survey Monkey; to view this privacy statement, go to [http://www.surveymonkey.com/](http://www.surveymonkey.com/)
+NCCN uses an outside fulfillment company to process and ship orders for NCCN products; an e-mail broadcast company to send e-mail announcements about NCCN events and resources; a web hosting company to provide online access to NCCN presentations; an on-line survey vendor to periodically survey groups of NCCN users; and a credit card processing company to bill users for registration. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes. Registration for NCCN’s educational events consists of a link to a site hosted by iPlan; to view their privacy policy statement, go to <http://www.eventready.com/erSite/>. Registration for NCCN Interactive Learning consists of links to sites hosted by e-City interactive, Medscape and Discovery Health; to view these privacy statements, go to [http://nccn.cmeport.com](http://nccn.cmeport.com/), [http://www.medscape.com/pjsp/public/privacy.html](http://www.medscape.com/pjsp/public/privacy.html), or http://health.discovery.com/utilities/about/privacypolicy.html, respectively . Registration to order NCCN resources on-line consists of a link to a site hosted by Nice Lines Direct Mail; to view this privacy statement, go to [http://pdf.nicelines.com/nccn/web%20privacy%20policy.pdf](http://pdf.nicelines.com/nccn/web%20privacy%20policy.pdf). Registration to access NCCN surveys is hosted on a site by Survey Monkey; to view this privacy statement, go to [http://www.surveymonkey.com/](http://www.surveymonkey.com/)
 
 **Links**
 
@@ -84,13 +86,13 @@ This website contains links to other sites. Please be aware that the National Co
 
 #### Security
 
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the web site, their information is protected both online and off-line. 
+This website takes every precaution to protect our users’ information. When users submit sensitive information via the web site, their information is protected both on-line and off-line. 
 
 When NCCN’s registration forms ask users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the industry-standard encryption software - Secure Sockets Layer (SSL). While on a secure page, such as a registration form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just “surfing.” 
 
 NCCN will reveal only the last four digits of your credit card number on confirmation web pages and/or e-mails, but will transmit your entire credit card number to third party companies used to process your orders and to your credit card company. 
 
-While NCCN uses SSL encryption to protect sensitive information online, NCCN also does everything in its power to protect user information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. The servers that store personally identifiable information are in a secure, locked environment. 
+While NCCN uses SSL encryption to protect sensitive information on-line, NCCN also does everything in its power to protect user information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. The servers that store personally identifiable information are in a secure, locked environment. 
 
 If users have any questions about the security at [NCCN.org](http://www.nccn.org/), they can [send an e-mail](http://www.nccn.org/about/emailform.asp?ID=4). 
 
