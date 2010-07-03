@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonext.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619081035id_/http%3A//www.dragonext.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonext.com privacy policy that was archived on 2010-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100703122332id_/http%3A//www.dragonext.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
