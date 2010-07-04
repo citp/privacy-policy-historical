@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveandseek.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315013757id_/http%3A//www.loveandseek.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandseek.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704193712id_/http%3A//www.loveandseek.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # LoveAndSeek.com - Privacy Policy
 
