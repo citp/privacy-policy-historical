@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102143939id_/http%3A//www.rocklandtrust.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704080009id_/http%3A//www.rocklandtrust.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Welcome to Rockland Trust
+# Privacy Policy - Rockland Trust
 
 This page includes Rockland Trust's Privacy Notice, Website Privacy Statement, and Privacy Frequently Asked Questions.
 
-## Privacy Notice
+### Privacy Notice
 
 **Rockland Trust - Guardian Of Your Privacy**  
 Rockland Trust Company is devoted to protecting your privacy. We have prepared this notice to outline the measures we take to protect your privacy.
@@ -12,10 +12,10 @@ Rockland Trust Company is devoted to protecting your privacy. We have prepared t
 **The Information We Have About You**  
 In the normal course of business we receive information about you ("Your Information"), some of which may not be publicly available. Your Information may include:
 
-  * Your name and address, Social Security number, and information about your job, income, other debt, credit references, and other information which we receive from you on applications, forms, in person, by telephone, electronically, or by other means;
-  * Information about your transactions, including information about your account balances with us and other institutions, payment history, and account usage;
+  * Your name and address, Social Security number, and information about your job, income, other debt, credit references, and other information which we receive from you on applications, forms, in person, by telephone, electronically, or by other means; 
+  * Information about your transactions, including information about your account balances with us and other institutions, payment history, and account usage; 
   * Information we receive from consumer reporting agencies, including information about your creditworthiness; and 
-  * Information from public sources, such as real estate records and telephone numbers.
+  * Information from public sources, such as real estate records and telephone numbers. 
 
 
 
@@ -37,22 +37,26 @@ We do not otherwise disclose your information, or nonpublic information about ou
 **Protect Your Privacy**  
 We restrict access to Your Information to only those employees who need it to provide products or services to you. All of our employees must adhere to strict policies designed to prevent any misuse of Your Information. We maintain physical, electronic, and procedural safeguards to guard Your Information.
 
-:: Top of the page ::
-
-## Website Privacy
+### Website Privacy
 
 We invite you to review this statement so you'll know exactly how we handle any information we learn about you as a result of your visit to our Web site:
 
-  * We will not collect identifying information about visitors to our site unless they volunteer that information. We may use standard usage-tracking software to collect non-identifying information about our visitors, such as date and time our site was accessed, IP address of dial-up servers (the numeric address given to servers connected to the Internet), web browser used, as well as city, state, and country. Rockland Trust uses this information to create summary statistics and to determine the level of interest in information available on our site.
-  * Visitors to our Web site may elect to provide us with personal information via e-mail, on-line application forms, or our guest book. This information is used internally, as appropriate, to handle the sender's request. It is never disseminated or sold to other organizations.
+  * We will not collect identifying information about visitors to our site unless they volunteer that information. We may use standard usage-tracking software to collect non-identifying information about our visitors, such as date and time our site was accessed, IP address of dial-up servers (the numeric address given to servers connected to the Internet), web browser used, as well as city, state, and country. Rockland Trust uses this information to create summary statistics and to determine the level of interest in information available on our site. 
+  * Visitors to our Web site may elect to provide us with personal information via e-mail, on-line application forms, or our guest book. This information is used internally, as appropriate, to handle the sender's request. It is never disseminated or sold to other organizations. 
 
 
 
 We thank you for visiting our Web site and assure you we are committed to protecting your privacy.
 
-:: Top of the page ::
+### Rockland Trust Company's Statement of Compliance with Federal and State Laws and Regulations Regarding Protection of Non-Public Personal Information 
 
-## Privacy: Frequently Asked Questions
+Rockland Trust is required by law to protect customers' non-public personal information. The laws that Rockland Trust must comply with include the Graham-Leach-Bliley Act (15 United States Code, Sec. 6801 et seq.) and Massachusetts General Laws, Chapter 93H and the regulations thereunder (201 Code of Massachusetts Regulations Sec. 17.00 et seq.). 
+
+Any private information given us is kept confidential. We collect only the information required to provide the information, services, and/or products that our customers request. Only our employees and vendors that have an actual need to access this information to fulfill their required duties have access to this information. Access to customers' personal information is restricted and safeguarded by physical, electronic, and procedural policies and controls. 
+
+Rockland Trust has a comprehensive Written Information Security Program in place that addresses all applicable federal and state laws and regulations. We are required to review our Information Security Program at least annually, and revise it in light of new products or services, any discovered or anticipated weaknesses, or new technology that becomes available. Our Board of Directors reviews and approves the Information Security Program annually. The Information Security Program, in conjunction with our technology and security policies, standards, and guidelines, not only describes the procedures, electronic, and physical controls we require, but also addresses the responsibility of our employees and imposes disciplinary action for any security or bank policy violation. Mandatory annual security awareness training is in place for all employees. A vendor management program is in place for the evaluation of third-party service providers. Rockland Trust's internal auditors regularly evaluate the effectiveness of internal controls and procedures regarding our Information Security Program. Further, independent auditors and bank examiners regularly examine and review our compliance with applicable laws, including those regarding the protection of non-public personal information on an ongoing basis. 
+
+### Privacy: Frequently Asked Questions
 
 These questions and answers are designed to prepare our employees to answer questions regarding our Privacy Notice and to otherwise assist customers who express privacy concerns.
 
@@ -127,6 +131,4 @@ DMA Telephone Preference Service
 P.O.Box 9014  
 Farmingdale, NY 11735-9014 
 
-For more information visit: [www.the-dma.org](https://web.archive.org/web/20100102143939id_/http%3A//www.rocklandtrust.com/pop/Disclaimer.aspx?Value=57).
-
-:: Top of the page ::
+For more information visit: [www.the-dma.org](http://www.the-dma.org/ "<h1>You are leaving the Rockland Trust Web Site.</h1><br>Rockland Trust does not control or warrant the content of any external web site. We advise you to explore the security and privacy information of any linked site. ").
