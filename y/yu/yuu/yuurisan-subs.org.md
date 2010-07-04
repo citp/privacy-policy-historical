@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yuurisan-subs.org privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209022605id_/http%3A//www.yuurisan-subs.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuurisan-subs.org privacy policy that was archived on 2010-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100705015355id_/http%3A//www.yuurisan-subs.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yuurisan-Subs
-
-You are herePrivacy Policy
 
 **Privacy Policy for[www.yuurisan-subs.org](http://www.yuurisan-subs.org/)**
 
