@@ -1,33 +1,43 @@
-> *The following text is extracted and transformed from the greymatterindia.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402090046id_/http%3A//www.greymatterindia.com/it-company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greymatterindia.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704201345id_/http%3A//www.idhasoft.com/privacy-statement.php) for the most accurate reproduction.*
 
-# GMI It Company-Privacy
+# Idhasoft Vision Packaged. Delivered
 
-In general, you can visit www.greymatterindia.com without telling us who you are and without revealing any information about yourself. There are times, however, when we may need information from you.
+### Privacy Statement
 
-Grey Matter India does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+Idhasoft has created this Privacy Statement to demonstrate its commitment to upholding the privacy of visitors to its Web sites, amongst other contacts.
 
-We provide the information to trusted partners who work on behalf of or with Grey Matter India under extremely strict confidentiality agreements. These companies may use your personal information to help Grey Matter India communicate with you about offers from Grey Matter India and our marketing partners. However, these companies do not have any independent right to share this information.
+In this section of the Privacy Statement, Idhasoft describes the type of information it collects and how and why it collects such information.
 
-We have a parent's permission to share the information if the user is a child under age 13.
+#### Registration
 
-We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+During registration, users are required to provide their contact information (such as name, e-mail id, country), which Idhasoft uses to provide requested services for its Web site visitors, to help make surfing these sites easier, and provide a more personalized experience on these Web sites. Idhasoft uses such information to improve its services, or to market solutions and/or for industry reporting purposes. 
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.
+#### Subscription to Newsletters
 
-We transfer information about you if Grey Matter India is acquired by or merged with another company.
+Users who wish to subscribe to Idhasoft's e-mail newsletters are requested to provide their contact information (such as e-mail address, among other details) on the Web site.
 
-You may choose to give us personal information, such as your name and address or e-mail id that may be needed, for example, to correspond with you, to download our software, articles, white papers or to provide you with a subscription. If you tell us that you do not want us to use this information as a basis for further contact with you, we will respect your wishes. We intend to protect the quality and integrity of your personally identifiable information.
+#### Contact Us
 
-We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies in your personal information. To correct inaccuracies in your personal information please return the message containing the inaccuracies to the sender with details of the correction requested.
+The Web site has features where Idhasoft's customers and investors can submit information to Idhasoft by using the 'Contact Us' facility. Such submissions include queries, feedback, or other information needed to best respond to specific requests. In addition, Idhasoft may retain e-mails and other information sent to it for its internal administrative purposes to help it serve you better.
 
-Cookies, and other technologies
+#### Automatic data collection
 
-We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on Grey Matter India web site, but we do so in ways that keep the information anonymous. Grey Matter India or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We maintain the highest levels of confidentiality for this information; our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the download or request page.
+Idhasoft gathers details such as date, time, browser type, navigation history and IP addresses of all visitors to its web sites. It uses this information for its internal security audit log, analyzing trends, for system administration purposes and, also, to gather visitor behavior and usage patterns on the site. Idhasoft may combine information supplied by an investor/customer during the registration process on the Web site with usage data to learn more about users and their preferences about the content available on the site. Idhasoft may use this information to tailor services to specific interests of visitors, or to contact visitors about offers from its business associates, which may be of interest to them. Idhasoft does not disclose this information to third parties.
 
-Mailers
+#### Sharing information
 
-Grey Matter India may, if you so choose, send direct mailers to you at the address given by you. You have the option to 'opt-out' of this direct mailer by way of links provided at the bottom of each mailer. We respect your privacy and in the event that you choose to not receive such mailers, we will take all steps to remove you from the list.
+Idhasoft does not sell, rent, or lease its customer and investor information, and registration lists to third parties.
 
-The User's right to privacy is of paramount importance to Grey Matter India. Any information provided by the User will not be shared with any third party. Grey Matter India reserves the right to use the information to provide the User a more personalized online experience.
+Idhasoft does not share personally identifiable information with third parties apart from parent, subsidiary and affiliate companies. Information may be shared with third parties who are acting as Idhasoft's agents in providing its product(s)/service(s), and who agree to use it only for that purpose and keep the information secure and confidential.
 
-The Site provides links to web sites and access to content, products and services from third parties, including users, advertisers, affiliates and sponsors of the Site. You agree that Grey Matter India is not responsible for the availability of, and content provided on, third party web sites. The User is requested to peruse the policies posted by other web sites regarding privacy and other topics before use. Grey Matter India is not responsible for third party content accessible through the Site, including opinions, advice, statements and advertisements, and User shall bear all risks associated with the use of such content. Grey Matter India is not responsible for any loss or damage of any sort User may incur from dealing with any third party. 
+Idhasoft will also disclose information that it maintains when required to do so by law or, in special cases, when Idhasoft has reason to believe that disclosing this information is necessary to identify, contact or take legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) its rights or property. Idhasoft may share aggregate information, which is not personally identifiable, with others.
+
+#### Safeguarding Security
+
+Idhasoft will take appropriate steps to ensure that personal data is protected from unauthorized access and disclosure, including limiting access to such data only to those employees with a business need to know.
+
+Users should check this policy frequently to keep abreast of any changes.
+
+For questions about this Privacy Statement, contact:
+
+[info@Idhasoft.com](mailto:info@Idhasoft.com)
