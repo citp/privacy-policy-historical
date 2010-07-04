@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvbeurope.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527184432id_/http%3A//privacypolicy.ubm.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvbeurope.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704203415id_/http%3A//privacypolicy.ubm.com) for the most accurate reproduction.*
 
 # UBMi Privacy Policy
 
@@ -36,7 +36,7 @@ If you wish to change your contact preferences with an individual exhibitor/spon
 
 **EMAIL CAPTURE**
 
-UBM Information Ltd may from time to time send updates about this product and other relevant UBM Information products and services. Your email address will not be given to 3rd parties accept where outlined in the privacy policy. By providing your email address you consent to being contacted for direct marketing purposes by UBM Information Ltd. 
+UBM Information Ltd may from time to time send updates about this product and other relevant UBM Information products and services. Your email address will not be given to 3rd parties except where outlined in the privacy policy. By providing your email address you consent to being contacted for direct marketing purposes by UBM Information Ltd. 
 
 **MOBILE PHONE CAPTURE**
 
