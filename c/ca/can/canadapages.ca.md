@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadapages.ca privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523211717id_/http%3A//www.canadapages.ca/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadapages.ca privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704201446id_/http%3A//www.canadapages.ca/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy, Canada Pages
 
