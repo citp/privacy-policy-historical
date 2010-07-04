@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jivesoftware.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516082153id_/http%3A//www.jivesoftware.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jivesoftware.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704165919id_/http%3A//www.jivesoftware.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Jive Software Privacy Policy
 
