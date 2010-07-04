@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgialottery.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504153049id_/http%3A//www.georgialottery.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgialottery.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704211830id_/http%3A//www.georgialottery.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
