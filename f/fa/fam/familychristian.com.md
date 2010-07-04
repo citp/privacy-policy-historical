@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118150445id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704193440id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy & Security - FamilyChristian.com
 
@@ -49,7 +49,7 @@ While we at FamilyChristian.com consider online security a priority, we cannot p
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  1. You can send email to [info@fcsdirect.familychristian.com](mailto:info@fcsdirect.familychristian.com). 
+  1. You can send email to [customerservice@familychristian.com](mailto:customerservice@familychristian.com). 
 
   2. You can call the following telephone number: 616-554-8700 
 
@@ -58,7 +58,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 Correct/ Update This site gives users the following options for changing and modifying information previously provided.
 
-  1. Email [info@fcsdirect.familychristian.com](mailto:info@fcsdirect.familychristian.com). 
+  1. Email [customerservice@familychristian.com](mailto:customerservice@familychristian.com). 
 
   2. Call the following telephone number: 616-554-8700 
 
@@ -72,7 +72,7 @@ If you have any questions about this Privacy and Security Statement, the practic
 > Familychristian.com   
 >  5300 Patterson Ave SE - A3  
 >  Grand Rapids, MI 49530  
->  [info@fcsdirect.familychristian.com](mailto:info@fcsdirect.familychristian.com)
+>  [customerservice@familychristian.com](mailto:customerservice@familychristian.com)
 
 ## Use of Web Site
 
