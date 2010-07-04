@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsgames24.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526102604id_/http%3A//www.girlsgames24.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames24.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704204735id_/http%3A//www.girlsgames24.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Girls Games 24
 
