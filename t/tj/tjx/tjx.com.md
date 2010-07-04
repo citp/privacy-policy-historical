@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tjx.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523221756id_/http%3A//www.tjx.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjx.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704190444id_/http%3A//www.tjx.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Notice
 
