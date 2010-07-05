@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunpartscorp.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628151535id_/http%3A//www.gunpartscorp.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunpartscorp.com privacy policy that was archived on 2010-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100705143854id_/http%3A//www.gunpartscorp.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
