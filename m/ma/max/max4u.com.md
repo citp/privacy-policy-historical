@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the max4u.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415064148id_/http%3A//mxl.myvoffice.com/pdf/en/max_privacy_policy_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the max4u.com privacy policy that was archived on 2010-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100705094654id_/http%3A//mxl.myvoffice.com/pdf/en/max_privacy_policy_en.pdf) for the most accurate reproduction.*
 
 # 
 
