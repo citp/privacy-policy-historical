@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybestclick.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626130011id_/http%3A//www.mybestclick.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybestclick.net privacy policy that was archived on 2010-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100705115753id_/http%3A//mybestclick.net/privacy.php) for the most accurate reproduction.*
 
 # MyBestClick - Quality PPC
 
