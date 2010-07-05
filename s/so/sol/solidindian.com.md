@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solidindian.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611073649id_/http%3A//www.solidindian.com/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidindian.com privacy policy that was archived on 2010-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100705105015id_/http%3A//www.solidindian.com/terms.htm) for the most accurate reproduction.*
 
-# 
+# Terms and Conditions
 
 Privacy Policy for http://www.solidindian.com
 
