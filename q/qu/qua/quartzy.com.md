@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quartzy.com privacy policy that was archived on 2009-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090120084647id_/http%3A//quartzy.com/default/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quartzy.com privacy policy that was archived on 2010-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100705223102id_/http%3A//www.quartzy.com/privacy-policy) for the most accurate reproduction.*
 
-# Quartzy: Research Quickly!
+# Quartzy privacy policies
 
 ## Privacy Policy
 
@@ -8,7 +8,7 @@ Date of Last Revision: December 23rd, 2008
 
 #### Introduction:
 
-Welcome to Quartzy, a networking site for life-scientists that connects you to you other scientists and provides tools enabling you to be more efficient in your lab. The Quartzy service and network (collectively, "Quartzy" or "the Service" or "the Company") are operated by Quartzy, LLC. By accessing or using our web site at [www.quartzy.com](http://www.quartzy.com/ "www.quartzy.com"), you (the "User") signify that you have read, understand and agree to be bound by the (1) Terms of Use ("Terms of Use" or "Agreement") and (2) The Quartzy Privacy Policy, whether or not you are a registered member of Quartzy. This document explains how Quartzy uses the information you as a Quartzy Member ("user") provide. 
+Welcome to Quartzy, a networking site for life-scientists that connects you to you other scientists and provides tools enabling you to be more efficient in your lab. The Quartzy service and network (collectively, "Quartzy" or "the Service" or "the Company") are operated by Quartzy, LLC. By accessing or using our web site at [www.quartzy.com](https://www.quartzy.com/ "www.quartzy.com"), you (the "User") signify that you have read, understand and agree to be bound by the (1) Terms of Use ("Terms of Use" or "Agreement") and (2) The Quartzy Privacy Policy, whether or not you are a registered member of Quartzy. This document explains how Quartzy uses the information you as a Quartzy Member ("user") provide. 
 
 We at Quartzy are committed to respecting your privacy, while providing you with a platform to share information with your colleagues. In this document we also explain the safeguards that have been put into place to protect the information you provide us. If you do not accept either the Terms of Use or the Privacy Policy you should not become a Quartzy member and you should not access the website. 
 
