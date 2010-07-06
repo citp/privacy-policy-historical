@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604093854id_/http%3A//www.techweb.com/privacy-highlights.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706214737id_/http%3A//www.techweb.com/privacy-highlights.htm) for the most accurate reproduction.*
 
 # Privacy Highlights
 
