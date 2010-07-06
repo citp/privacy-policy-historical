@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbusinesswebs.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506233856id_/http%3A//www.topbusinesswebs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbusinesswebs.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706063440id_/http%3A//www.topbusinesswebs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Small Business Web Design - St. Louis by Top Business Webs
 
@@ -9,7 +9,7 @@ Top Business Webs
 Fenton, MO 63026  
 USA
 
-You may contact us by email at  [support@topwebsnetwork.com](mailto:support@topwebsnetwork.com) .
+You may contact us by email at  [support@topwebsnetwork.com](mailto:support@topwebsnetwork.com).
 
 Whenever you request a page through your browser, navigation and clickstream data such as:
 
@@ -61,6 +61,6 @@ Information collected in this process can also be used to prevent banned users f
 
 Top Business Webs complies with all law enforcement agency requests for information
 
-If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact [support@topwebsnetwork.com](mailto:support@topwebsnetwork.com) .
+If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact [support@topwebsnetwork.com](mailto:support@topwebsnetwork.com).
 
 Date: February 15, 2010
