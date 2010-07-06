@@ -1,61 +1,124 @@
-<!--The following is the downloaded HTML source of the schools.org privacy policy that was archived on 2007-01-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070107054600id_/http%3A//schools.org/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schools.org privacy policy that was archived on 2010-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100706115549id_/https%3A//www.schools.org/legal/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>Schools Financial Credit Union | 1-916-569-5400</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<link rel="stylesheet" href="/sfcu.css" type="text/css">
-
+	<link rel="shortcut icon" href="/favicon.ico" type="image/icon">
 	
 	
 	<script language="JavaScript" type="text/javascript">
-	<!--
+
 		var the_timeout;
 		
 		function ampShowMenu(command) {
 			clearTimeout(the_timeout);
 			the_timeout = setTimeout(command,500);
 		}
-	//-->
+		
+		// Gets called by the onload method of body
+		// Pops up the javascript confirm for 3rd party
+		// links.  
+		function initLinks()
+        {
+             var a = document.getElementsByTagName("a");
+             for( var i=0, limit = a.length; i < limit; ++i )
+             {      
+             //Any exceptions to the confirm dialog should be
+             //placed inside this if statement.       
+               if( a[i].href && !a[i].href.match(/^mailto\:/) 
+                    && a[i].hostname != location.hostname 
+                    && a[i].hostname != 'pb.schools.org' 
+                    && a[i].hostname != 'www.clickvue.com' 
+                    && a[i].hostname != 'www.schoolsmortgagemart.org' )
+                {                    
+                    a[i].onclick = function(){return LeavingSchools();}
+                }
+             }
+        }
+
+		function LeavingSchools()
+		{
+			return confirm("You are about to leave Schools Financial Credit Union's website\n\n Schools Financial Credit Union is not responsible for, nor is it endorsing or guaranteeing the products, information or recommendations provided by linked websites. The Credit Union is not liable for any failure of products or services advertised on linked websites. Schools' Privacy Policy does not apply to third parties. Please review the Credit Union's Privacy Policy by clicking on Your PRIVACY below.");
+		}
+
+		if (document.images) 
+		{
+			var onef = new Image();
+			onef.src = "/images/icons/view_demo_flash.gif";
+			var oneo = new Image();
+			oneo.src = "/images/icons/view_demo_flash_over.gif";
+			var twof = new Image();
+			twof.src = "/images/icons/view_demo_html.gif";
+			var twoo = new Image();
+			twoo.src = "/images/icons/view_demo_html_over.gif";
+		}
+		
+		function act(imgName) 
+		{
+			if (document.images) 
+			document[imgName].src = eval(imgName+"o.src");
+		}
+		
+		function inact(imgName) 
+		{
+			if (document.images)
+			document[imgName].src = eval(imgName+"f.src");
+		}
+		
+
 	</script>
 	<script language="JavaScript1.2" src="/mm_menu.js" type="text/javascript" charset="utf-8"></script>
 	<script language="JavaScript1.2" src="/mm_menuinit.js" type="text/javascript" charset="utf-8"></script>
 	<script language="JavaScript1.2" src="/include/siteUtils.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" src="/include/swfobject.js"></script>
+		
 </head>
-<body bgcolor="#ffffff">
+<body bgcolor="#ffffff" onload="initLinks();">
 	<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script>
 	<table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
 		<tbody><tr valign="bottom"> 
 			<td colspan="3">
 				<table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
 					<tbody><tr> 
-						<td>&nbsp;</td>
-						<td>&nbsp;</td>
-						<td align="right" class="medium-text"><a class="small-url" href="/index.asp">Home</a> | <a class="small-url" href="/about_us/contact_us.asp">Contact Us</a> | <a class="small-url" href="https://pb.schools.org/cgi-bin/mcw000.cgi?MCWSTART">Login</a> | <a class="small-url" href="/help_browser.asp">Help</a></td>
+						<td colspan="2" align="right" class="medium-text">
+						    <a class="small-url" href="/index.asp">Home</a> | 
+						    <a class="small-url" href="/about_us/locations.asp">Locations</a> | 
+						    <a class="small-url" href="/about_us/contact_us.asp">Contact Us</a> | 
+						    <a class="small-url" href="/careers/">Careers</a> | 
+						    <a class="small-url" href="https://pb.schools.org/cgi-bin/mcw000.cgi?MCWSTART">Login</a></td>
 					</tr>
 					<tr> 
-						<td rowspan="2"><a href="/index.asp"><img src="/images/nav/logo-prpl.jpg" width="202" height="65" border="0" alt="Schools logo"></a></td>
-						<td rowspan="2"><img src="/images/nav/schools_10a_02.jpg" width="254" height="65" alt=""></td>
-						<td><img src="/images/nav/schools_10a_03.jpg" width="244" height="33" alt=""></td>
-					</tr>
-					<tr>
-						<td><img src="/images/nav/schools_10a_04.jpg" width="244" height="32" alt=""></td>
+						<td height="68"><a href="/index.asp"><img src="/images/nav_new/banner_left.jpg" height="68" border="0" alt="Schools logo"></a></td>
+						<td><img src="/images/nav_new/banner_right.jpg" border="0" height="68" alt=""></td>
 					</tr>
 				</tbody></table>
 				<table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
-					<!-- fwtable fwsrc="menu_bar.png" fwbase="hdr_nav.jpg" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
 					<tbody><tr>
-						<td colspan="8"><img src="/templates/spacer.gif" width="700" height="1" border="0" alt=""></td>
+						<td colspan="14"><img src="/templates/spacer.gif" width="700" height="1" border="0" alt=""></td>
 					</tr>
 					<tr>
-						<td><a href="/about_us/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pAboutSchools,6,25,null,&quot;hdr_nav_r1_c1&quot;);');"><img name="hdr_nav_r1_c1" src="/images/nav/hdr_nav_r1_c1.jpg" width="110" height="27" border="0" alt=""></a></td>
-						<td><a href="/banking/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pBankingServices,10,25,null,&quot;hdr_nav_r1_c2&quot;);');"><img name="hdr_nav_r1_c2" src="/images/nav/hdr_nav_r1_c2.jpg" width="128" height="27" border="0" alt=""></a></td>
-						<td><a href="/rates/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pRatesMenu,11,25,null,&quot;hdr_nav_r1_c3&quot;);');"><img name="hdr_nav_r1_c3" src="/images/nav/hdr_nav_r1_c3.jpg" width="60" height="27" border="0" alt=""></a></td>
-						<td><a href="/loans/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pLoansAndCredit,6,25,null,&quot;hdr_nav_r1_c4&quot;);');"><img name="hdr_nav_r1_c4" src="/images/nav/hdr_nav_r1_c4.jpg" width="116" height="27" border="0" alt=""></a></td>
-						<td><a href="/investments/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pInvestments,8,25,null,&quot;hdr_nav_r1_c5&quot;);');"><img name="hdr_nav_r1_c5" src="/images/nav/hdr_nav_r1_c5.jpg" width="97" height="27" border="0" alt=""></a></td>
-						<td><a href="/insurance/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();"><!-- onmouseover="ampShowMenu('MM_showMenu(window.pInsurance,7,25,null,&quot;hdr_nav_r1_c6&quot;);');" --><img name="hdr_nav_r1_c6" src="/images/nav/hdr_nav_r1_c6.jpg" width="82" height="27" border="0" alt=""></a></td>
-						<td><a href="/info/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pNewsAndInfo,11,25,null,&quot;hdr_nav_r1_c7&quot;);');"><img name="hdr_nav_r1_c7" src="/images/nav/hdr_nav_r1_c7.jpg" width="107" height="27" border="0" alt=""></a></td>
+						<td align="center"><a href="/about_us/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pAboutSchools,6,25,null,&quot;hdr_nav_r1_c1&quot;);');"><img name="hdr_nav_r1_c1" src="/images/nav_new/about_schools.gif" height="19" border="0" alt="About Schools"></a></td>
+						<td align="center"><img src="/images/nav_new/bullets1.gif" border="0" alt=""></td>
+						<td align="center"><a href="/banking/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pBankingServices,10,25,null,&quot;hdr_nav_r1_c2&quot;);');"><img name="hdr_nav_r1_c2" src="/images/nav_new/banking_services.gif" height="19" border="0" alt="Banking Services"></a></td>
+						<td align="center"><img src="/images/nav_new/bullets1.gif" border="0" alt=""></td>
+						<td align="center"><a href="/rates/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pRatesMenu,11,25,null,&quot;hdr_nav_r1_c3&quot;);');"><img name="hdr_nav_r1_c3" src="/images/nav_new/rates.gif" height="19" border="0" alt="Rates"></a></td>
+						<td align="center"><img src="/images/nav_new/bullets1.gif" border="0" alt=""></td>
+						<td align="center"><a href="/loans/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pLoansAndCredit,6,25,null,&quot;hdr_nav_r1_c4&quot;);');"><img name="hdr_nav_r1_c4" src="/images/nav_new/loans_credits.gif" height="19" border="0" alt="Loans and Credits"></a></td>
+						<td align="center"><img src="/images/nav_new/bullets1.gif" border="0" alt=""></td>
+						<td align="center"><a href="/investments/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pInvestments,8,25,null,&quot;hdr_nav_r1_c5&quot;);');"><img name="hdr_nav_r1_c5" src="/images/nav_new/investments.gif" height="19" border="0" alt="Investments"></a></td>
+						<td align="center"><img src="/images/nav_new/bullets1.gif" border="0" alt=""></td>
+						<!--<td align="center"><a href="/insurance/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" >onmouseover="ampShowMenu('MM_showMenu(window.pInsurance,7,25,null,&quot;hdr_nav_r1_c6&quot;);');"<img name="hdr_nav_r1_c6" src="/images/nav_new/insurance.gif" height="19" border="0" alt="Insurance" /></a></td>-->
+						<!--<td align="center"><a href="/investments/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" > onmouseover="ampShowMenu('MM_showMenu(window.pInsurance,7,25,null,&quot;hdr_nav_r1_c6&quot;);');" <img name="hdr_nav_r1_c6" src="/images/nav_new/insurance.gif" height="19" border="0" alt="Insurance" /></a></td>-->
+						<td align="center"><a href="/loans/educator_rewards/rewards.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();"><img name="hdr_nav_r1_c6" src="/images/nav_new/ed_rewards.gif" height="19" border="0" alt="Educator Rewards"></a></td>
+						
+						<td align="center"><img src="/images/nav_new/bullets1.gif" border="0" alt=""></td>
+						<td align="center"><a href="/info/index.asp" onmouseout="clearTimeout(the_timeout); MM_startTimeout();" onmouseover="ampShowMenu('MM_showMenu(window.pNewsAndInfo,11,25,null,&quot;hdr_nav_r1_c7&quot;);');"><img name="hdr_nav_r1_c7" src="/images/nav_new/news_info.gif" height="19" border="0" alt="News and Info"></a></td>
 						<td><img src="/templates/spacer.gif" width="1" height="27" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td colspan="14"><img src="/images/nav_new/underline.gif" border="0" alt=""></td>
 					</tr>
 				</tbody></table>
 			</td>
@@ -63,31 +126,15 @@
 
 <tr><td colspan="3" valign="top"><div class="main-content">
 	
-<h3>Privacy Notice</h3>
-
+<h3>PRIVACY POLICY</h3>
 <p>
-	Schools Financial Credit Union is a member-owned financial cooperative dedicated to serving 
-	the financial needs of our members. You joined the Credit Union with the expectation that 
-	we act in the best interest of our membership and make available the financial products 
-	and services that enable you to meet your financial goals. Trust is the foundation of our 
-	relationship with you, and the preservation of that trust is of the highest importance to us. 
-	It is with that purpose in mind that we have formulated our privacy policy.
+	Schools Financial Credit Union (“Credit Union”) understands the importance of protecting the privacy of our members. We are committed to maintaining the confidentiality of each member’s financial records consistent with state and federal laws. This policy explains how the Credit Union collects and shares your nonpublic personal information (information that is not available publicly) and further describes your rights to limit what information we may share about you.
 </p>
 <p>
-	Schools Financial Credit Union ("Credit Union") understands the importance of protecting the 
-	privacy of our members. We are committed to maintaining the confidentiality of each member's 
-	financial records consistent with state and federal laws. This policy explains how the Credit 
-	Union collects and shares your nonpublic personal information (information that is not available 
-	publicly) and further describes your rights to limit what information we may share about you.
+	This privacy policy replaces any previous privacy notices from us. We reserve the right to revise our privacy notice as our business needs and practices change or as the law requires. If we revise our policies, we will provide our active members with copies of our new policies at that time.
 </p>
 <p>
-	This privacy policy replaces any previous privacy notices from us. We reserve the right to revise 
-	our privacy notice as our business needs and practices change or as the law requires. If we 
-	revise our policies, we will provide our active members with copies of our new policies at that time.
-</p>
-<p>
-	<strong>What Information We Collect</strong><br>
-	During the course of business, we collect nonpublic personal information ("information") about you from the following sources:
+	<strong>What Information We Collect</strong><br>During the course of business, we collect nonpublic personal information (“information”) about you from the following sources:
 </p>
 <ul>
 	<li>Information obtained from you in person, in writing or through the Internet.</li>
@@ -95,108 +142,92 @@
 	<li>Information we receive from nonaffiliated third parties about their transactions and experiences with you.</li>
 	<li>Information provided by credit reporting agencies and similar companies.</li>
 </ul>
-
 <p>
-	We collect this information about you to complete your transactions and to maintain your accounts 
-	and related records. In the course of conducting our business, we may share any of the information 
-	we collect about you with third parties if: 1) you request or authorize it; 2) the information is 
-	provided to help complete a transaction initiated by you; 3) the information is provided to a third 
-	party providing services to us, such as data processing, printing services, mailing services and 
-	marketing services; 4) the information is provided to a consumer reporting agency in accordance 
-	with the Fair Credit Reporting Act; or 5) the disclosure is otherwise lawfully required or permitted.
-	Furthermore, we may also disclose information about you to other nonaffiliated and affiliated third 
-	parties not described in this notice as permitted by law.	
+	We collect this information about you to complete your transactions and to maintain your accounts and related records. In the course of conducting our business, we may share any of the information we collect about you with third parties if: 1) you request or authorize it; 2) the information is provided to help complete a transaction initiated by you; 3) the information is provided to a third party providing services to us, such as data processing, printing services, mailing services and marketing services; 4) the information is provided to a consumer reporting agency in accordance with the Fair Credit Reporting Act; or 5) the disclosure is otherwise lawfully required or permitted. Furthermore, we may also disclose information about you to other nonaffiliated and affiliated third parties not described in this notice as permitted by law.
 </p>
 <p>
-	<strong>Information Shared With Non-Financial Service Providers</strong><br>
-	We sometimes share any of the information we collect about you with outside companies that perform 
-	services for us. For example, to maintain and service your accounts or to fulfill your transaction 
-	requests, we share information with non-financial companies that provide services to us, such as 
-	data-processing companies, printing companies, mailing companies and marketing companies. Prior to 
-	sharing any information with such entities, we require them to agree to safeguard our members' 
-	information and to comply with all applicable privacy laws.
+	<strong>Information Shared With Non-Financial Service Providers</strong>
+	<br>We sometimes share any of the information we collect about you with outside companies that perform services for us. For example, to maintain and service your accounts or to fulfill your transaction requests, we share information with non-financial companies that provide services to us, such as data-processing companies, printing companies, mailing companies and marketing companies. Prior to sharing any information with such entities, we require them to agree to safeguard our members’ information and to comply with all applicable privacy laws.
 </p>
 <p>
 	<strong>Information Sharing in the Event of Termination of Membership</strong><br>
-	If you terminate your membership or become an inactive member, we will adhere to the privacy 
-	policies and practices as described in this notice.
+	If you terminate your membership or become an inactive member, we will adhere to the privacy policies and practices as described in this notice.
 </p>
 <p>
-	<strong>How We Protect Your Information</strong>
-	We maintain physical, electronic and procedural controls that comply with federal regulations to 
-	guard your information. We restrict access to your personal information to those employees who 
-	need it in order to provide products and services to you. Where appropriate, we use security-encoding 
-	techniques to protect against unauthorized access to personal records, ensure accuracy and integrity 
-	of data and protect your confidentiality. We provide training to educate employees on the purpose 
-	and implementation of procedures related to privacy and the confidentiality of member data.
+	<strong>How We Protect Your Information</strong><br>
+	We maintain physical, electronic and procedural controls that comply with federal regulations to guard your information. We restrict access to your personal information to those employees who need it in order to provide products and services to you. Where appropriate, we use security-encoding techniques to protect against unauthorized access to personal records, ensure accuracy and integrity of data and protect your confidentiality. We provide training to educate employees on the purpose and implementation of procedures related to privacy and the confidentiality of member data. 
 </p>
 <p>
 	<strong>Changes to Our Policy</strong><br>
-	We reserve the right to revise our policy as our business needs change or as the law requires. If 
-	we revise our policies, we will provide our members with copies of our new policies at that time.
+	We reserve the right to revise our policy as our business needs change or as the law requires. If we revise our policies, we will provide our members with copies of our new policies at that time.
 </p>
 <p>
 	<strong>Restricting Credit Offers, Direct Mail and Telemarketing Solicitations</strong><br>
-	Businesses can obtain information about you from public records, such as those available at County 
-	Recorders. They may use this information to market their services and sometimes make reference to 
-	your Credit Union. Schools cannot control or restrict the use of publicly available information 
-	about you, and we do not authorize these businesses to use our name. However, there are steps you 
-	can take to minimize these and other types of direct mail solicitations.
+	Businesses can obtain information about you from public records, such as those available at County Recorders. They may use this information to market their services and sometimes make reference to your Credit Union. Schools cannot control or restrict the use of publicly available information about you, and we do not authorize these businesses to use our name. However, there are steps you can take to minimize these and other types of direct mail solicitations.
 </p>
 <p>
 	<strong>Credit Solicitations</strong><br>
-	You may contact credit reporting agencies directly and ask that your name be removed from unsolicited 
-	credit offers. By doing this, you will no longer receive credit offers from credit card companies 
-	and financial institutions, including Schools. You may call 888-5OPT-OUT or write to:
+	You may contact credit reporting agencies directly and ask that your name be removed from unsolicited credit offers. By doing this, you will no longer receive credit offers from credit card companies and financial institutions, including Schools. You may call 888-5OPT-OUT or write to:
 </p>
 <p>
-	<strong>Experian Credit Marketing</strong><br>
+	<strong>Experian Credit Marketing</strong><br> 
 	Opt Out<br>
 	PO Box 919<br>
-	Allen, TX 75013<br>
+	Allen, TX 75013
 </p>
 <p>
-	<strong>Equifax</strong><br>
+	<strong>Equifax</strong><br> 
 	PO Box 740241<br>
-	Atlanta, GA 30374<br>
+	Atlanta, GA 30374
 </p>
 <p>
 	<strong>TransUnion</strong><br>
 	PO Box 505<br>
-	Woodlyn, PA 19094<br>
+	Woodlyn, PA 19094
 </p>
 <p>
 	<strong>Direct Mail and Telemarketing Solicitations</strong><br>
 	You may contact the Direct Marketing Association (DMA) and ask that your name be removed from lists used for direct mail and telephone solicitations. This will only eliminate advertising from companies that subscribe to these services. To remove your name from the lists of companies not subscribing to DMA services, you must contact them directly.
 </p>
 <p>
-	<strong>Mail Preference Service<br>Direct Marketing Association</strong><br>
+	<strong>
+		Mail Preference Service<br>
+		Direct Marketing Association
+	</strong><br>
 	PO Box 1559<br>
-	Carmel, NY 10512<br>
+	Carmel, NY 10512
 </p>
 <p>
-	<strong>Telephone Preference Service<br>Direct Marketing Association</strong><br>
+	<strong>
+		Telephone Preference Service<br>
+		Direct Marketing Association
+	</strong><br>
 	PO Box 1559<br>
-	Carmel, NY 10512<br>
+	Carmel, NY 10512
 </p>
 <p>
-	<strong>Consumer Information About Telemarketing</strong><br>
-	Federal and State agencies publish information designed to educate you about telemarketing. You may 
-	request copies of this information by contacting them directly. Agencies include: 
+	<strong>Consumer Information About Telemarketing</strong><br> 
+	Federal and State agencies publish information designed to educate you about telemarketing. You may request copies of this information by contacting them directly. Agencies include: 
 </p>
 <p>
-	<strong>Federal Trade Commission:</strong><br>
-	"Straight Talk About Telemarketing," toll-free 877-382-4357; Web site: <a href="http://ftc.gov/bcp/conline/pubs/tmarkg/straight.htm" target="_newWin">ftc.gov/bcp/conline/pubs/tmarkg/straight.htm</a>
+	<strong>Federal Trade Commission:</strong><br> 
+	<a href="http://www.ftc.gov/bcp/edu/pubs/consumer/telemarketing/tel15.shtm" onclick="LeavingSchools()" ;="" target="_newWin">"Straight Talk About Telemarketing</a>,"<br>
+	toll-free 877-382-4357
 </p>
 <p>
-	<strong>Federal Communications Commission:</strong><br>
-	"Unwanted Telephone Marketing Calls," toll-free 888-225-5322; Web site: <a href="http://www.fcc.gov/cgb/consumerfacts/tcpa.html" target="_newWin">fcc.gov/cgb/consumerfacts/tcpa.html</a>
+	<strong>Federal Communications Commission:</strong><br> 
+	<a href="http://www.fcc.gov/cgb/consumerfacts/tcpa.html" onclick="LeavingSchools()" ;="" target="_newWin">"Unwanted Telephone Marketing Calls</a>,"<br>
+	toll-free 888-225-5322
 </p>
 <p>
 	<strong>California Department of Consumer Affairs:</strong><br>
-	"Basic Facts About Telemarketing," toll-free 800-952-5210; Web site: <a href="http://dca.ca.gov/r_r/telemarket.htm" target="_newWin">dca.ca.gov/r_r/telemarket.htm</a>
+	<a href="http://www.dca.ca.gov/publications/telemarket.shtml" onclick="LeavingSchools()" ;="" target="_newWin">"Basic Facts About Telemarketing</a>,"<br>
+	toll-free 800-952-5210
 </p>
-<p>For questions about our Privacy Policy, call <strong>916-569-5400</strong> (Sacramento area) or <strong>800-962-0990</strong>.</p>
+<p>
+	For questions about our Privacy Policy, call <strong>916-569-5400</strong> (Sacramento area) or <strong>800-962-0990</strong>.
+</p>
+
 
 <br><br>
 
@@ -205,6 +236,7 @@
 	</tr>
 </tbody></table>
 
+<br>
 <table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr> 
 		<td valign="top">
@@ -212,19 +244,31 @@
 				<table width="700" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr> 
 						<!-- <td><img src="/templates/spacer.gif" width="207" height="3" border="0" alt="" /></td> -->
-						<td width="700" align="right"><img src="/images/nav/schools_10a_13.gif" width="493" height="13" alt=""></td>
-					</tr>
+						<!--<td width="700" align="right"><img src="/images/nav/schools_10a_13.gif" width="493" height="13" alt="" /></td> -->
+						<td width="700" align="right"><img src="/images/icons/footer_bar.jpg" alt="">
+					</td></tr>
 				</tbody></table>
 				<table width="700" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						<td colspan="3">
-							<br>
+							<!-- <br /> -->
 						</td>
 					</tr>
-					<tr> 
-						<td class="small-text" align="left">©1933-2007 Schools Financial Credit Union</td>
-						<td class="small-text" align="left"><img src="/images/icons/small_house.gif" width="21" height="18" alt="" align="middle">&nbsp;<a href="http://www.hud.gov/" target="_blank">Equal Housing Lender</a>&nbsp;&nbsp;&nbsp;</td>
-						<td class="small-text" align="right"><!-- <span style="background:#000000;font-weight:bold;color:#FFFFFF;padding-left:2px;padding-right:2px">NCUA</span> --><img src="/images/icons/ncua_new.gif" width="45" height="18" alt="" align="middle">&nbsp;<a href="http://www.ncua.gov/" target="_blank">Federally insured by NCUA</a></td>
+					<tr> 	
+						<!--
+						<td class="small-text" align="left">&copy;1933-2010 Schools Financial Credit Union</td>
+						<td class="small-text" align="left"><img src="/images/icons/small_house.gif" width="21" height="18" alt=""  align="middle" />&nbsp;<a href="http://www.hud.gov/"  onclick="LeavingSchools();"  target="_blank">Equal Housing Lender</a>&nbsp;&nbsp;&nbsp;</td>
+						<td class="small-text" align="right">
+							<span style="background:#000000;font-weight:bold;color:#FFFFFF;padding-left:2px;padding-right:2px">NCUA</span>
+							<img src="/images/icons/ncua_blue.gif" width="45" height="21" alt="Federally insured by NCUA" align="middle" />&nbsp;
+							<a href="http://www.ncua.gov/"  onclick="LeavingSchools();"  target="_blank">Federally insured by NCUA</a>
+						</td>
+						-->
+						
+						<td align="left"><img src="/images/icons/footer_sfcu.jpg" alt="" align="top"></td>
+						<td align="left"><a href="http://www.hud.gov/" onclick="LeavingSchools();" target="_blank"><img src="/images/icons/ehousing_lender.jpg" alt="" align="top" border="0"></a></td>
+						<td align="right"><a href="http://www.ncua.gov/" onclick="LeavingSchools();" target="_blank"><img src="/images/icons/footer_ncua.jpg" alt="Federally insured by NCUA" align="top" border="0"></a></td>
+
 					</tr>
 				</tbody></table>
 				<br>	
@@ -234,6 +278,15 @@
 	</tr>
 </tbody></table>
 <br><br>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8327674-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 
