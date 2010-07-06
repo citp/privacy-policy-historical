@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidestar.org privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530004040id_/http%3A//www2.guidestar.org/rxg/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidestar.org privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706023237id_/http%3A//www2.guidestar.org/rxg/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
