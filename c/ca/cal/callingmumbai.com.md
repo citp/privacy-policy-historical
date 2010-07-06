@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callingmumbai.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819080722id_/http%3A//www.callingmumbai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callingmumbai.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706213201id_/http%3A//www.callingmumbai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Call Mumbai, India
 
