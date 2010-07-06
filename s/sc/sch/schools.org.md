@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2007-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070107054600id_/http%3A//schools.org/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706115549id_/https%3A//www.schools.org/legal/privacy.asp) for the most accurate reproduction.*
 
 # Schools Financial Credit Union | 1-916-569-5400
 
-### Privacy Notice
+### PRIVACY POLICY
 
-Schools Financial Credit Union is a member-owned financial cooperative dedicated to serving the financial needs of our members. You joined the Credit Union with the expectation that we act in the best interest of our membership and make available the financial products and services that enable you to meet your financial goals. Trust is the foundation of our relationship with you, and the preservation of that trust is of the highest importance to us. It is with that purpose in mind that we have formulated our privacy policy. 
-
-Schools Financial Credit Union ("Credit Union") understands the importance of protecting the privacy of our members. We are committed to maintaining the confidentiality of each member's financial records consistent with state and federal laws. This policy explains how the Credit Union collects and shares your nonpublic personal information (information that is not available publicly) and further describes your rights to limit what information we may share about you. 
+Schools Financial Credit Union (“Credit Union”) understands the importance of protecting the privacy of our members. We are committed to maintaining the confidentiality of each member’s financial records consistent with state and federal laws. This policy explains how the Credit Union collects and shares your nonpublic personal information (information that is not available publicly) and further describes your rights to limit what information we may share about you. 
 
 This privacy policy replaces any previous privacy notices from us. We reserve the right to revise our privacy notice as our business needs and practices change or as the law requires. If we revise our policies, we will provide our active members with copies of our new policies at that time. 
 
 **What Information We Collect**  
-During the course of business, we collect nonpublic personal information ("information") about you from the following sources: 
+During the course of business, we collect nonpublic personal information (“information”) about you from the following sources: 
 
   * Information obtained from you in person, in writing or through the Internet.
   * Information obtained through your transactions and experiences with us and our affiliates.
@@ -22,13 +20,14 @@ During the course of business, we collect nonpublic personal information ("infor
 
 We collect this information about you to complete your transactions and to maintain your accounts and related records. In the course of conducting our business, we may share any of the information we collect about you with third parties if: 1) you request or authorize it; 2) the information is provided to help complete a transaction initiated by you; 3) the information is provided to a third party providing services to us, such as data processing, printing services, mailing services and marketing services; 4) the information is provided to a consumer reporting agency in accordance with the Fair Credit Reporting Act; or 5) the disclosure is otherwise lawfully required or permitted. Furthermore, we may also disclose information about you to other nonaffiliated and affiliated third parties not described in this notice as permitted by law. 
 
-**Information Shared With Non-Financial Service Providers**  
-We sometimes share any of the information we collect about you with outside companies that perform services for us. For example, to maintain and service your accounts or to fulfill your transaction requests, we share information with non-financial companies that provide services to us, such as data-processing companies, printing companies, mailing companies and marketing companies. Prior to sharing any information with such entities, we require them to agree to safeguard our members' information and to comply with all applicable privacy laws. 
+**Information Shared With Non-Financial Service Providers**   
+We sometimes share any of the information we collect about you with outside companies that perform services for us. For example, to maintain and service your accounts or to fulfill your transaction requests, we share information with non-financial companies that provide services to us, such as data-processing companies, printing companies, mailing companies and marketing companies. Prior to sharing any information with such entities, we require them to agree to safeguard our members’ information and to comply with all applicable privacy laws. 
 
 **Information Sharing in the Event of Termination of Membership**  
 If you terminate your membership or become an inactive member, we will adhere to the privacy policies and practices as described in this notice. 
 
-**How We Protect Your Information** We maintain physical, electronic and procedural controls that comply with federal regulations to guard your information. We restrict access to your personal information to those employees who need it in order to provide products and services to you. Where appropriate, we use security-encoding techniques to protect against unauthorized access to personal records, ensure accuracy and integrity of data and protect your confidentiality. We provide training to educate employees on the purpose and implementation of procedures related to privacy and the confidentiality of member data. 
+**How We Protect Your Information**  
+We maintain physical, electronic and procedural controls that comply with federal regulations to guard your information. We restrict access to your personal information to those employees who need it in order to provide products and services to you. Where appropriate, we use security-encoding techniques to protect against unauthorized access to personal records, ensure accuracy and integrity of data and protect your confidentiality. We provide training to educate employees on the purpose and implementation of procedures related to privacy and the confidentiality of member data. 
 
 **Changes to Our Policy**  
 We reserve the right to revise our policy as our business needs change or as the law requires. If we revise our policies, we will provide our members with copies of our new policies at that time. 
@@ -42,44 +41,42 @@ You may contact credit reporting agencies directly and ask that your name be rem
 **Experian Credit Marketing**  
 Opt Out  
 PO Box 919  
-Allen, TX 75013  
-
+Allen, TX 75013 
 
 **Equifax**  
 PO Box 740241  
-Atlanta, GA 30374  
-
+Atlanta, GA 30374 
 
 **TransUnion**  
 PO Box 505  
-Woodlyn, PA 19094  
-
+Woodlyn, PA 19094 
 
 **Direct Mail and Telemarketing Solicitations**  
 You may contact the Direct Marketing Association (DMA) and ask that your name be removed from lists used for direct mail and telephone solicitations. This will only eliminate advertising from companies that subscribe to these services. To remove your name from the lists of companies not subscribing to DMA services, you must contact them directly. 
 
 **Mail Preference Service  
-Direct Marketing Association**  
+Direct Marketing Association **  
 PO Box 1559  
-Carmel, NY 10512  
-
+Carmel, NY 10512 
 
 **Telephone Preference Service  
-Direct Marketing Association**  
+Direct Marketing Association **  
 PO Box 1559  
-Carmel, NY 10512  
-
+Carmel, NY 10512 
 
 **Consumer Information About Telemarketing**  
 Federal and State agencies publish information designed to educate you about telemarketing. You may request copies of this information by contacting them directly. Agencies include: 
 
 **Federal Trade Commission:**  
-"Straight Talk About Telemarketing," toll-free 877-382-4357; Web site: [ftc.gov/bcp/conline/pubs/tmarkg/straight.htm](http://ftc.gov/bcp/conline/pubs/tmarkg/straight.htm)
+["Straight Talk About Telemarketing](http://www.ftc.gov/bcp/edu/pubs/consumer/telemarketing/tel15.shtm),"  
+toll-free 877-382-4357 
 
 **Federal Communications Commission:**  
-"Unwanted Telephone Marketing Calls," toll-free 888-225-5322; Web site: [fcc.gov/cgb/consumerfacts/tcpa.html](http://www.fcc.gov/cgb/consumerfacts/tcpa.html)
+["Unwanted Telephone Marketing Calls](http://www.fcc.gov/cgb/consumerfacts/tcpa.html),"  
+toll-free 888-225-5322 
 
 **California Department of Consumer Affairs:**  
-"Basic Facts About Telemarketing," toll-free 800-952-5210; Web site: [dca.ca.gov/r_r/telemarket.htm](http://dca.ca.gov/r_r/telemarket.htm)
+["Basic Facts About Telemarketing](http://www.dca.ca.gov/publications/telemarket.shtml),"  
+toll-free 800-952-5210 
 
-For questions about our Privacy Policy, call **916-569-5400** (Sacramento area) or **800-962-0990**.
+For questions about our Privacy Policy, call **916-569-5400** (Sacramento area) or **800-962-0990**. 
