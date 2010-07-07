@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morungexpress.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525231918id_/http%3A//www.morungexpress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morungexpress.com privacy policy that was archived on 2010-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100708003859id_/http%3A//www.morungexpress.com/privacy-policy.html) for the most accurate reproduction.*
 
 # The Morung Express :: Nagaland News | Current News | Latest News | Breaking News - Privacy Policy
 
