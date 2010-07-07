@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the excelfunctions.net privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122232126id_/http%3A//www.excelfunctions.net/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excelfunctions.net privacy policy that was archived on 2010-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100707220747id_/http%3A//www.excelfunctions.net/Privacy-Policy.html) for the most accurate reproduction.*
 
 # ExcelFunctions.net Privacy Policy
+
+[Home](http://www.excelfunctions.net/) » [Privacy-Policy](http://www.excelfunctions.net/Privacy-Policy.html)
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use ExcelFunctions.net, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
@@ -29,6 +31,8 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 **Non-Personal Information**
 
 In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html). 
 
 **Release of Information**
 
