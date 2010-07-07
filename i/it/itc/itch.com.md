@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itch.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606084629id_/http%3A//www.itch.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itch.com privacy policy that was archived on 2010-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100707125136id_/http%3A//www.itch.com/privacy.cfm) for the most accurate reproduction.*
 
 # Multiplayer Online Games and Entertainment @ itch.com
 
