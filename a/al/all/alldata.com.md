@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldata.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514091735id_/http%3A//www.alldata.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldata.com privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709012907id_/http%3A//www.alldata.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALLDATA
 
