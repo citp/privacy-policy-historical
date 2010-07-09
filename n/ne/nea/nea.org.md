@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nea.org privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324234243id_/http%3A//www.nea.org/home/829.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nea.org privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709205349id_/http%3A//www.nea.org/home/829.htm) for the most accurate reproduction.*
 
 # NEA - Privacy Statement
 
@@ -7,7 +7,7 @@
 
 ### I. Introduction
 
-The National Education Association ("NEA") values the trust and privacy of its members and other supporters. This Privacy Policy sets forth NEA's practices regarding: (1) what personal information we collect about you - both online via the NEA website and NEA Intranet and offline via traditional, hard copy forms; (2) how we use that information; (3) under what circumstances we disclose it; (4) what choices are available to you regarding such information collection; and, (5) what security we use to protect such information. This Privacy Policy also provides some additional information for users of the NEA website and NEA Intranet.
+The National Education Association ("NEA") values the trust and privacy of its members and other supporters. This Privacy Policy sets forth NEA's practices regarding: (1) what personal information we collect about you — both online via the NEA website and NEA Intranet and offline via traditional, hard copy forms; (2) how we use that information; (3) under what circumstances we disclose it; (4) what choices are available to you regarding such information collection; and, (5) what security we use to protect such information. This Privacy Policy also provides some additional information for users of the NEA website and NEA Intranet.
 
 ### II. Definitions
 
@@ -38,7 +38,7 @@ The term "we" or "us" means NEA.
 
 We may collect personal information about you from the following sources:
 
-  1. Personal Information that you voluntarily provide to us on your membership application and other NEA forms - whether online via the NEA website or NEA Intranet or offline via traditional, hard copy forms (such as your name, postal address, telephone number, e-mail address, social security number, etc.).  
+  1. Personal Information that you voluntarily provide to us on your membership application and other NEA forms — whether online via the NEA website or NEA Intranet or offline via traditional, hard copy forms (such as your name, postal address, telephone number, e-mail address, social security number, etc.).  
 
   2. Other Personal Information that you voluntarily provide to us via the NEA website or NEA Intranet (such as an e-mail address if you subscribe to an NEA-produced electronic newsletter or other personal information contained in an e-mail that you send to us via the feedback feature of the NEA website).  
 
@@ -66,7 +66,7 @@ If you subscribe to any NEA-produced electronic newsletter, you may cancel your 
 
 ### VII. Your California Privacy Rights
 
-California residents have a right under state law to ask entities with whom they have an established business relationship to provide certain information regarding the sharing of personal information for direct marketing purposes during the past year. NEA will honor such a request coming from any current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service-whether residing in California or not. Simply submit a request to us at one of the following addresses: [www-registration@list.nea.org](mailto:www-registration@list.nea.org) or NEA Office of General Counsel, 1201 16th Street, N.W., Washington DC 20036, and we will respond within thirty days of receiving your request.
+California residents have a right under state law to ask entities with whom they have an established business relationship to provide certain information regarding the sharing of personal information for direct marketing purposes during the past year. NEA will honor such a request coming from any current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA product or service—whether residing in California or not. Simply submit a request to us at one of the following addresses: [www-registration@list.nea.org](mailto:www-registration@list.nea.org) or NEA Office of General Counsel, 1201 16th Street, N.W., Washington DC 20036, and we will respond within thirty days of receiving your request.
 
 ### VIII. Information Security
 
