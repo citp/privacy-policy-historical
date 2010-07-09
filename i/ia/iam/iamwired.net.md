@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamwired.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612044249id_/http%3A//www3.iamwired.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamwired.net privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709130352id_/http%3A//iamwired.net/privacy) for the most accurate reproduction.*
 
 # I Am Wired Start - Privacy Policy
 
