@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodtherapy.org privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517063151id_/http%3A//www.goodtherapy.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodtherapy.org privacy policy that was archived on 2010-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100710011332id_/http%3A//www.goodtherapy.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
