@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usopen.org privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528145222id_/http%3A//www.usopen.org/USOpen/Global/News/About_Us/Privacy.aspx%3Fusot%3DSF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usopen.org privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709201813id_/http%3A//www.usopen.org/privacy_policy) for the most accurate reproduction.*
 
-# 2010 US Open Official Site - Privacy
+# privacy policy | US OPEN
 
 ### Privacy
 
@@ -77,7 +77,7 @@ You should be aware that when you are on the Site you could be directed to other
 
 **Other Terms**
 
-Your use of this Site is subject to the [Terms of Use](https://web.archive.org/USOpen/Global/News/About_Us/Terms_of_Use.aspx). If you choose to use this Site, your visit and any dispute over privacy and data collection is subject to this Privacy Policy and our Terms of Use including limitations on damages and application of the law of the State of New York. 
+Your use of this Site is subject to the [Terms of Use](https://web.archive.org/News/About_Us/Terms_of_Use/). If you choose to use this Site, your visit and any dispute over privacy and data collection is subject to this Privacy Policy and our Terms of Use including limitations on damages and application of the law of the State of New York. 
 
 **How to Contact Us**
 
@@ -89,7 +89,7 @@ Attention: Advanced Media Dept.
 (914) 696-7000  
 [feedback@usta.com](mailto:feedback@usta.com)
 
- **California Privacy Rights**
+**California Privacy Rights**
 
 Pursuant to Section 1798.83 of the California Civil Code, our customers who are California residents have the right to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact the following with such request: 
 
