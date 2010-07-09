@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728165044id_/http%3A//www.naa.org/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709202947id_/http%3A//www.naa.org/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Newspaper Association of America: Advancing Newspaper Media for the 21st Century
-
-Join your industry colleagues and NAA experts in the new NAA Community, a tool that allows you and your colleagues the opportunity to share best practices, resources and success stories and to stay on top of the important industry issues that matter to you. Read the [NAA Community FAQs](http://www.naa.org/Resources/Articles/NAA-Community-FAQs.aspx) to learn more.
-
-Already participating in NAA Community? [Sign in](http://community.naa.org/) now.     |    
-
-Ready to join the Community? [Get started](http://community.naa.org/) today!
 
 | 
 
