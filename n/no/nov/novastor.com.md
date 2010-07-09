@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the novastor.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527232849id_/http%3A//www.novastor.com/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novastor.com privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709061808id_/http%3A//www.novastor.com/shop/policy.php) for the most accurate reproduction.*
 
-# NovaStor privacy statement
+# NovaStor Privacy Policy
+
+(Last updated September 2008)
 
 NovaStor is committed to protecting your privacy. This Privacy Statement applies to data collected by NovaStor through its websites and product registration forms. 
 
@@ -87,6 +89,4 @@ We will occasionally update this privacy statement to reflect changes in our ser
 
 Contacting Us
 
-NovaStor welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by using our [web form](http://www.novastor.com/misc/contact/general-comments-form.html). For further Information on NovaStor offices, please go to our [contact page. ](http://www.novastor.com/contact/contact.php)
-
-> 
+NovaStor welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](http://www.novastor.com/contact/). For further Information on NovaStor offices, please go to our [contact page. ](http://www.novastor.com/contact/)
