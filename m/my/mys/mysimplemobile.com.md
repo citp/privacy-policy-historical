@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mysimplemobile.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608185536id_/http%3A//www.mysimplemobile.com/Simple-Mobile-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysimplemobile.com privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709231001id_/http%3A//www.mysimplemobile.com/Simple-Mobile-Privacy.aspx) for the most accurate reproduction.*
 
 # OMG! Simple Mobile
 
-This Privacy Policy identifies and describes the way Simple Mobile uses and protects the information we collect about you, including Customer Proprietary Network Information (“CPNI”). All use of Simple Mobile’s products and services, including visits to our web site, are subject to this Privacy Policy, so please read it carefully and contact us with any questions pursuant to the directions in the section titled [How to Contact Us](https://web.archive.org/web/20100608185536id_/http%3A//www.mysimplemobile.com/Simple-Mobile-Contact-Us.aspx).
+This Privacy Policy identifies and describes the way Simple Mobile uses and protects the information we collect about you, including Customer Proprietary Network Information (“CPNI”). All use of Simple Mobile’s products and services, including visits to our web site, are subject to this Privacy Policy, so please read it carefully and contact us with any questions pursuant to the directions in the section titled [How to Contact Us](https://web.archive.org/web/20100709231001id_/http%3A//www.mysimplemobile.com/Simple-Mobile-Contact-Us.aspx).
 
 **PERSONAL INFORMATION**
 
