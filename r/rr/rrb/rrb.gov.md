@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825005209id_/http%3A//www.rrb.gov/IRM/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2010-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100710214057id_/http%3A//www.rrb.gov/IRM/privacy_policy.asp) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
@@ -11,7 +11,8 @@ This is our notice to you about why we collect your personal information, how we
 |  Why We Collect Your Personal Information |  How We Will Use Your Personal Information |  Who We Will Share Your Personal Information With  
 ---|---|---  
 Your Choice About Who We Share Your Personal Information With |  Your Access to the Information We Collect about You  |  How We Protect the Security of the Information We Collect  
-Our Concern about Sending Personal Information Via Email |  Our Use of "Cookies" and How It Affects Your Visit to Our Website |  If You Visit Other Websites  
+Our Concern about Sending Personal Information Via Email |  Our Use of "Cookies" and How It Affects Your Visit to Our Website |  Our Use of Third Party Applications if You Opt-In to Receive Updates from the RRB  
+  If You Visit Other Websites |     
   
 Why We Collect Your Personal Information
 
@@ -40,7 +41,7 @@ If Federal laws (e.g., Privacy Act, Railroad Retirement Act, or the Railroad Une
 
 Your Access to the Information We Collect About You
 
-You may have access to any of the information we collect about you at this site. We’ll correct any errors you may find. If you need to get or correct information about you, see [ How to Obtain Records about Yourself](https://web.archive.org/web/20090825005209id_/http%3A//www.rrb.gov/bis/privacy_act/obtain_records.asp).
+You may have access to any of the information we collect about you at this site. We’ll correct any errors you may find. If you need to get or correct information about you, see [ How to Obtain Records about Yourself](https://web.archive.org/web/20100710214057id_/http%3A//www.rrb.gov/bis/privacy_act/obtain_records.asp).
 
 How We Protect the Security of the Information We Collect
 
@@ -61,6 +62,15 @@ Our Use of "Cookies" and How It Affects Your Visit to Our Website
   * What is a “cookie”? A cookie is a small piece of text that is sent to your computer along with a web page when you visit a website. Your computer will give the information in the cookie only to the computer that sent it, and no other website can request it. There are three types of cookies—persistent, third party, and session. We never use persistent or third party cookies, but sometimes we use session cookies. 
   * We use session cookies only in some places where you can transact business. We store the cookie on your computer only during your visit. The session cookie keeps you from losing information you’ve entered for a business transaction with us if, during your visit, you leave our website and return. 
   * Once you turn off your computer or stop using the Internet, the cookie is erased. 
+
+
+
+Our Use of Third Party Applications if You Opt-In to Receive Updates from the RRB
+
+You have the option to receive RRB information updates via either electronic mail (email) or by Really Simple Syndication (RSS) newsfeed. You must explicitly provide your email address in order to subscribe (Opt-in) for these updates. We use two different third party applications (FeedBlitz and FeedBurner) to assist us in providing this service to you. Both of these applications require your email address and may collect non-identifying statistical information from you. We may analyze and use this information to help us provide better service to you. In no case is personal information collected or stored about you.
+
+  * FeedBlitz is the application we use when you want to subscribe for automatic email updates on RRB benefits. The complete FeedBlitz Privacy Policy can be found  [ here](http://www.feedblitz.com/f/?Privacy).
+  * FeedBurner is the application we use when you want to subscribe to RSS newsfeeds provided by the RRB. FeedBurner is an application provided by Google and you can find it's Privacy Policy  [ here](http://www.google.com/intl/en/privacypolicy.html). 
 
 If You Visit Other Websites 
 
