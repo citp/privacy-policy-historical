@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigelectronics.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609090030id_/http%3A//www.sigelectronics.com/SIG-Electronics-Privacy-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigelectronics.com privacy policy that was archived on 2010-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100710061040id_/http%3A//www.sigelectronics.com/SIG-Electronics-Privacy-Policies) for the most accurate reproduction.*
 
 # SIG Electronics, Privacy Policies
 
