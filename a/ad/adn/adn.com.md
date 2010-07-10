@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adn.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031319id_/http%3A//www.adn.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adn.com privacy policy that was archived on 2010-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100710082201id_/http%3A//www.adn.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | adn.com
 
