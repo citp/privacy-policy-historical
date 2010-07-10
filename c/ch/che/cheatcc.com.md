@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatcc.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606085600id_/http%3A//www.cheatcc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcc.com privacy policy that was archived on 2010-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100710082246id_/http%3A//www.cheatcc.com/privacy.html) for the most accurate reproduction.*
 
 # Cheat Code Central's Privacy Policy
 
