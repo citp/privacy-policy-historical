@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourgreatestmoms.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404041152id_/http%3A//www.yourgreatestmoms.com/page/3/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourgreatestmoms.com privacy policy that was archived on 2010-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100711160020id_/http%3A//www.yourgreatestmoms.com/page/3/privacy_policy) for the most accurate reproduction.*
 
 # Your Greatest Moms - Your Greatest Moms - Privacy Policy
 
