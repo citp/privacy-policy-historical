@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betphoenix.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523032902id_/http%3A//www.betphoenix.com/rules/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betphoenix.com privacy policy that was archived on 2010-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100711140158id_/http%3A//www.betphoenix.com/rules/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BetPhoenix Entertainment
 
