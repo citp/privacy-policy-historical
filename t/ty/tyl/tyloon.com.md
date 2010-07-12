@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyloon.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628015521id_/http%3A//www.tyloon.com/tyloon_about/about_tyloon_us/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyloon.com privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712180857id_/http%3A//www.tyloon.com/tyloon_about/about_tyloon_us/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
