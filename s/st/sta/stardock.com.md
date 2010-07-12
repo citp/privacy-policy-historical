@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617013455id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712074020id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
 
 # Stardock.com - Your Edge In Software
 
