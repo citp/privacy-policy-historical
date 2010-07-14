@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415154639id_/http%3A//www.baynews9.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2010-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100714041456id_/http%3A//www.baynews9.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Station Information - Privacy Policy - Bay News 9
+# Bay News 9 - Privacy Policy - About Us
 
-## Privacy Policy 
-
-In addition to reviewing this privacy policy, please read our [User Agreement](http://www.baynews9.com/UserAgreement.html). Your use of **BayNews9.com** constitutes agreement to its terms and conditions.  
-
+In addition to reviewing this privacy policy, please read our User Agreement. Your use of **BayNews9.com** constitutes agreement to its terms and conditions.
 
 **BayNews9.com** is brought to you by Bright House Networks, LLC. This policy does not cover information collected on sites linked to from **BayNews9.com**.
 
@@ -15,11 +12,11 @@ It is the goal of **BayNews9.com** to bring you information that is tailored to 
 
 **The type of information BayNews9.com collects:**
 
- **BayNews9.com** generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, take part in our Viewer Center, make a purchase, or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
+**BayNews9.com** generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, take part in our Viewer Center, make a purchase, or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
 
 **How BayNews9.com uses information provided by you:**
 
- **BayNews9.com** uses this information to provide you with the service you have requested. For example, if you subscribe to our breaking news alerts, we may use your e-mail address to send you a confirmation notice. Similarly, if you enter an online contest we may require your mailing address; we may use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, pro ducts or services, or to improve the services that we offer by tailoring them to your needs.
+**BayNews9.com** uses this information to provide you with the service you have requested. For example, if you subscribe to our breaking news alerts, we may use your e-mail address to send you a confirmation notice. Similarly, if you enter an online contest we may require your mailing address; we may use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, pro ducts or services, or to improve the services that we offer by tailoring them to your needs.
 
 Bay News 9 believes in the privacy rights of our web users. Bay News 9 does not sell or share our users’ e-mail addresses; however we do retain the right to do so in the future. If you do not wish to have your information shared, please contact us. If you do not wish to receive communication from us, simply follow the unsubscribe instructions contained within the e-mail you received. If you've registered on any part of **BayNews9.com** , you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
 
@@ -41,14 +38,14 @@ While your individual information is protected as outlined above, we reserve the
 
 Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our web site.
 
- **Kids and Parents:**
+**Kids and Parents:**
 
- **BayNews9.com** is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
+**BayNews9.com** is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.  
 If you're worried about your children's activities or their privacy on our site, we encourage you to please click here to contact our web master.
 
-If you have other concerns or questions about any aspect of this policy, you may also [e-mail our web master](http://www.baynews9.com/ContactUs.html). We welcome your feedback. You can also send us regular mail at the following address: 
+If you have other concerns or questions about any aspect of this policy, you may also e-mail our web master. We welcome your feedback. You can also send us regular mail at the following address: 
 
 Webmaster  
 BayNews9.com   
