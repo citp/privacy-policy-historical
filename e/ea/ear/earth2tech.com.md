@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earth2tech.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526163405id_/http%3A//earth2tech.com/privacy-policy/%3Futm_source%3Dearth2tech%26utm_medium%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth2tech.com privacy policy that was archived on 2010-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100714030249id_/http%3A//earth2tech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Earth2Tech
 
