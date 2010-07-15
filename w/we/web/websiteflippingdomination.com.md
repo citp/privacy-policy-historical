@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteflippingdomination.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614063236id_/http%3A//www.websiteflippingdomination.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteflippingdomination.com privacy policy that was archived on 2010-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100715203816id_/http%3A//www.websiteflippingdomination.com/privacy.htm) for the most accurate reproduction.*
 
 # index4
 
@@ -17,7 +17,7 @@ Copyright © 2010. > DMG  Flipping Enterprises L.L.C  "Results Not Typical"
 .    
 
 
-[ Contact us](https://web.archive.org/web/20100614063236id_/http%3A//www.websiteflippingdomination.com/contactus.htm)  [Disclaimer ](https://web.archive.org/web/20100614063236id_/http%3A//www.websiteflippingdomination.com/disclaimer.htm)   [ Earnings](https://web.archive.org/web/20100614063236id_/http%3A//www.websiteflippingdomination.com/earnings.htm)    [ Privacy](https://web.archive.org/web/20100614063236id_/http%3A//www.websiteflippingdomination.com/privacy.htm)  [ Anti Spam Policy](https://web.archive.org/web/20100614063236id_/http%3A//www.websiteflippingdomination.com/antispam.htm)
+[ Contact us](https://web.archive.org/web/20100715203816id_/http%3A//www.websiteflippingdomination.com/contactus.htm)  [Disclaimer ](https://web.archive.org/web/20100715203816id_/http%3A//www.websiteflippingdomination.com/disclaimer.htm)   [ Earnings](https://web.archive.org/web/20100715203816id_/http%3A//www.websiteflippingdomination.com/earnings.htm)    [ Privacy](https://web.archive.org/web/20100715203816id_/http%3A//www.websiteflippingdomination.com/privacy.htm)  [ Anti Spam Policy](https://web.archive.org/web/20100715203816id_/http%3A//www.websiteflippingdomination.com/antispam.htm)
 
 EVERY EFFORT HAS BEEN MADE TO ACCURATELY REPRESENT THIS PRODUCT AND IT'S POTENTIAL. EVEN THOUGH THIS INDUSTRY IS ONE OF THE FEW WHERE ONE CAN WRITE THEIR OWN CHECK IN TERMS OF EARNINGS, THERE IS NO GUARANTEE THAT YOU WILL EARN ANY MONEY USING THE TECHNIQUES AND IDEAS IN THESE MATERIALS. EXAMPLES IN THESE MATERIALS ARE NOT TO BE INTERPRETED AS A PROMISE OR GUARANTEE OF EARNINGS. EARNING POTENTIAL IS ENTIRELY DEPENDENT ON THE PERSON USING OUR PRODUCT, IDEAS AND TECHNIQUES. WE DO NOT PURPORT THIS AS A “GET RICH SCHEME.”
 
