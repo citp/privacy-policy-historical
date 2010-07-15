@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dota-utilities.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526174627id_/http%3A//www.dota-utilities.com/2008/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dota-utilities.com privacy policy that was archived on 2010-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100715084811id_/http%3A//www.dota-utilities.com/2008/02/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dota-Utilities
+
+[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1695673&afsid=1)
 
 DotA Utilities Privacy Policy  
   
@@ -41,3 +43,10 @@ If you have any questions or suggestions regarding the[ Dota-Utilities.com](http
 
   
 
+
+* * *
+
+**Get Updates via Email!**
+
+[ Connect on Facebook](http://www.facebook.com/DotAUtilities)  
+[ Follow us on Twitter](http://www.twitter.com/DotAUtilities)
