@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystudio21.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608073034id_/http%3A//www.mystudio21.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystudio21.com privacy policy that was archived on 2010-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100715180819id_/http%3A//www.mystudio21.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mystudio21.com - Free Download PDF Ebook Site
 
