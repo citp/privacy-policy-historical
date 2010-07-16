@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615084039id_/http%3A//www.dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2010-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100716105736id_/http%3A//www.dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Dedicated Webserver or Not
 
@@ -35,11 +35,11 @@ E-mail:
 A **dedicated hosting service** , dedicated server, or managed hosting service is a type of Internet hosting where the client leases an entire server not shared with anyone. This is more flexible than shared hosting, as organizations have full control over the server(s), including choice of operating system, hardware, etc. Server administration can usually be provided by the hosting company as an add-on service. __
 
 Recent Queries:  
-[66.84.99.179](https://web.archive.org/sites/66.84.99.179)  
-[www.formatex.hu](https://web.archive.org/sites/www.formatex.hu)  
-[videos.whatiswrongwiththeworldtoday.com](https://web.archive.org/sites/videos.whatiswrongwiththeworldtoday.com)  
-[www.at.dk](https://web.archive.org/sites/www.at.dk)  
-[shanghai.58rencai.cn](https://web.archive.org/sites/shanghai.58rencai.cn)  
+[41.225.56.41](https://web.archive.org/sites/41.225.56.41)  
+[195.177.121.153](https://web.archive.org/sites/195.177.121.153)  
+[www3.cannondale.com](https://web.archive.org/sites/www3.cannondale.com)  
+[93.187.142.139](https://web.archive.org/sites/93.187.142.139)  
+[195.224.123.130](https://web.archive.org/sites/195.224.123.130)  
   
   
 ---|---
