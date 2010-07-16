@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonearena.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615082420id_/http%3A//www.fonearena.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonearena.com privacy policy that was archived on 2010-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100716073401id_/http%3A//www.fonearena.com/privacy.php) for the most accurate reproduction.*
 
 # FoneArena | Privacy Policy
 
