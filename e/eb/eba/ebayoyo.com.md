@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebayoyo.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616072447id_/http%3A//www.ebayoyo.com/message_99.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebayoyo.com privacy policy that was archived on 2010-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100718003945id_/http%3A//www.ebayoyo.com/message_99.html) for the most accurate reproduction.*
 
 # Privacy notice_Service Center_Discount for golf clubs
 
