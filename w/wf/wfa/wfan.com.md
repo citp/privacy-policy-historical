@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wfan.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616063805id_/http%3A//www.wfan.com/pages/119962.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfan.com privacy policy that was archived on 2010-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100717091319id_/http%3A//www.wfan.com/pages/119962.php) for the most accurate reproduction.*
 
 # WFAN Privacy Policy - WFAN - The Fan
 
@@ -33,12 +33,12 @@ Residents of the State of California, under a new provision of the California Ci
 
 This Station qualifies for the alternative option; it has a comprehensive privacy policy and provides you with details on how you may Opt-out or Opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information during the preceding year for marketing purposes.
 
-If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). You may contact us in two ways. Send email to [Privacy Administrator](mailto:wfanpromotions@wfan.com). Alternatively, you may contact the Station at:
-
-Sports Radio 66 WFAN  
-WFAN.com  
-34-12 36th Street  
-Astoria, NY 11106  
+If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). You may contact us in two ways. Send email to [Privacy Administrator](mailto:wfanpromotions@wfan.com). Alternatively, you may contact the Station at:  
+**  
+WFAN-AM  
+345 Hudson Street  
+10th Floor  
+New York, New York 10014**  
 Attn: Your California Privacy Rights  
 c/o Privacy Administrator
 
@@ -46,10 +46,10 @@ For requests sent via email, you must put the statement “Your California Priva
 
 To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at the following email address: wfanpromotions@wfan.com or:
 
-Sports Radio 66 WFAN  
-WFAN.com  
-34-12 36th Street  
-Astoria, NY 11106  
+**WFAN-AM  
+345 Hudson Street  
+10th Floor  
+New York, New York 10014**  
 Attn: Privacy Administrator
 
 Unless specified otherwise on the Site, all users must be at least 18 years of age and a legal resident of the United States to participate in any activity that requires the submission of Personal Information. This Site is designed and targeted to United States (U.S.) audiences and is governed by and operated in accordance with the laws of the United States. We make no representation that this Site is operated in accordance with the laws or governed by other nations. By your participation in our Site activities, you certify that you are at least 18 years of age and located in the U.S. If you are located in the European Union or elsewhere outside of the U.S. and you participate in activities on this Site contrary to our policy that only U.S. residents are eligible for certain activities, you do so at your own risk and initiative, and are responsible for compliance with any applicable local laws. Please be aware that any Personal Information you transfer to us will be transferred to the U.S and subject to U.S. law. By using this Site, participating in any Site activities, and/or providing us with your Personal Information, you consent to this transfer of Personal Information to the U.S., and waive any claims that may arise under your own national laws. All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy. 
@@ -125,10 +125,10 @@ You may review, update or delete your Personal Information collected by the Site
 
 If you have any questions about this privacy policy, please contact our Privacy Administrator at the following email address: [wfanpromotions@wfan.com](mailto:wfanpromotions@wfan.com) or:
 
-WFAN.com  
-34-12 36th Street  
-Astoria, NY 11106  
-718-706-7690  
+ **WFAN-AM  
+345 Hudson Street  
+10th Floor  
+New York, New York 10014**  
 attn: Privacy Administrator
 
 This Privacy Policy was last updated on December 20, 2005..   
