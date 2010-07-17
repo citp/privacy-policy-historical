@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uleth.ca privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616183521id_/http%3A//www.uleth.ca/it/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uleth.ca privacy policy that was archived on 2010-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100717193229id_/http%3A//www.uleth.ca/it/privacystatement.html) for the most accurate reproduction.*
 
 # U of L Web Privacy Statement
 
