@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articleshome.org privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518085032id_/http%3A//articleshome.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleshome.org privacy policy that was archived on 2010-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100718093734id_/http%3A//articleshome.org/privacy.php) for the most accurate reproduction.*
 
-# ahmet hocama selamlar :)
+# Fucked By Leqend06
 
 ArticlesHome.org Privacy Policy
 
