@@ -1,0 +1,216 @@
+<!--The following is the downloaded HTML source of the society.me privacy policy that was archived on 2010-07-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100718063556id_/http%3A//www.society.me/jsp/privacy.jsp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+  <title>Society: Privacy Policy</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="google-site-verification" content="65_4u0Gh1BmF4Uqohf87QoP4Bzw-vss4G4GhWvMAST0">
+  <meta name="y_key" content="ff0c5a45fcf13773">
+  <link href="/css/style.css" rel="stylesheet" type="text/css">
+  <link href="/css/jquery-ui/jquery-ui-1.8rc3.custom.css" rel="stylesheet" type="text/css">
+  <link href="/css/misc.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script type="text/javascript" src="/script/jquery-ui-1.8rc3.custom.min.js"></script>
+  <script type="text/javascript" src="/script/login.js"></script>
+  <script type="text/javascript">
+   function loginDialog(url) {
+    window.showModalDialog(url, "", "dialogHeight=370px;dialogWidth=770px");
+    }
+
+  </script>
+</head>
+
+  
+  
+   <body>
+  
+
+    
+<center>
+
+  
+    <div class="header-table">
+    <table width="100%">
+      <tbody><tr>
+        <td align="left">
+          <a href="/" class="header"><img src="/images/society_logo_s.gif" width="72" height="26" alt="Society home" title="Society home"></a></td>
+        <td width="100%"></td>
+        <td align="right" nowrap="" class="link">
+        
+          
+          
+            <a href="/society/create" class="header">Sign up</a></td>
+            <td class="link" nowrap=""><a href="/voice" class="header">Voice wall</a></td>
+            <td class="link" nowrap=""><a href="/fb140" class="header">Fb140</a></td>
+            <td nowrap="" class="link"><a id="sign_in" href="#" class="header" onclick="clickSignIn()">Sign in</a>
+            
+          
+        
+        </td>
+      </tr>
+    </tbody></table>
+    </div>
+  
+  
+
+<div id="sign_dialog" style="display:none">
+  Got Facebook or Twitter? Please sign up or sign in.
+  <div class="ptop10">
+  <a href="javascript:;;" onclick="headerSignIn(false);"><img src="/images/twitterIcon_16x16.gif" class="icon"> Sign in</a>
+  &nbsp;
+  <a href="javascript:;;" onclick="headerFbLogin();"><img src="/images/icon_fb_small.png" class="icon"> Sign in</a>
+  </div>
+  <div class="ptop10 smalltext"><input type="checkbox" id="rememberMe" value="1"> Remember me</div>
+</div>
+<script type="text/javascript">
+
+  function createDialog() {
+    var $dialog = $('#sign_dialog').dialog({
+        autoOpen: false,
+        dialogClass: 'signin',
+        title: 'Sign in',
+        position: ['right','top'],
+        buttons: { "Close": function() { $(this).dialog("close");}
+        }
+      });
+    return $dialog;
+  }
+
+$(document).ready(function(){
+  var $dialog = createDialog();
+    $("#sign_in").click(
+      function () {
+        var pos = $("#sign_in").position();
+        $dialog.dialog('option', 'position', ['right',pos.top+20]);
+        $dialog.dialog('open');
+      },
+      function () {
+      }
+    );
+ });
+ 
+  function clickSignIn() {
+    var $dialog = createDialog();
+
+    $dialog.dialog('open');
+  }
+
+  function headerFbLogin() {
+    FB.login(function(response) {
+        if (response.session) {
+        var url = location.href;
+        if (url.indexOf('?') > 0) {
+          url+='&rememberMe='+$('#rememberMe').attr('checked');
+        } else {
+          url+='?rememberMe='+$('#rememberMe').attr('checked');
+        }
+        document.location = url;
+      } else {
+        // user cancelled login
+      }
+    });
+  }
+
+  function headerSignIn(fb) {
+    var href = location.href;
+    href.replace("?", "%3F");
+    href.replace("&", "%26");
+    var url;
+    if (fb) {
+      url = "/fbsignin=";
+    } else {
+      url = "/signin";
+    }
+    url+='?rememberMe='+$('#rememberMe').attr('checked');
+    url+='&from=';
+    url+=href
+    document.location = url;
+  }
+</script>
+
+
+<div class="main-body">
+  <div class="outer-wrapper">
+    <div class="wrapper">
+        <div><h2>Privacy Policy</h2></div>
+        <div class="ptop10">Your privacy is critically important to us. At Joonto we have a few fundamental principles:</div>
+        <ul class="tos">
+          <li>We don't ask you for personal information unless we truly need it.</li>
+          <li>We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
+          <li>We don't store personal information on our servers unless required for the on-going operation of one of our services.</li>
+        </ul>
+        <div class="ptop10">Below is our privacy policy which incorporates these goals:</div>
+
+        <div class="ptop5">Joonto Inc. ("Joonto") operates several websites including Society.me. It is Joonto's policy to respect your privacy regarding any information we may collect while operating our websites.</div>
+
+        <div class="ptop20"><h3>Website Visitors</h3></div>
+
+        <div class="ptop5">Like most website operators, Joonto collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Joonto's purpose in collecting non-personally identifying information is to better understand how Joonto's visitors use its website. From time to time, Joonto may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</div>
+
+        <div class="ptop5">Joonto also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Joonto does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.</div>
+
+        <div class="ptop20"><h3>Gathering of Personally-Identifying Information</h3></div>
+
+        <div class="ptop5">Certain visitors to Joonto's websites choose to interact with Joonto in ways that require Joonto to gather personally-identifying information. The amount and type of information that Joonto gathers depends on the nature of the interaction.  Joonto does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.  Most activities on the Joonto site require users to provide information such as Name, Picture, and their answers to questions.  All of this information will be publicly available unless specifically noted otherwise.  All content that you contribute to the site may also be republished to third party sites such as Facebook and Twitter as part of the services we provide.  Usage of those third party services to connect with our site (for example, Twitter OAuth or Facebook Connect) grants us the rights to republish any data you share with us from those services.</div>
+
+        <div class="ptop20"><h3>Aggregated Statistics</h3></div>
+
+        <div class="ptop5">Joonto may collect statistics about the behavior of visitors to its websites. For instance, Joonto may monitor the most popular Societies on the site. Joonto may display this information publicly or provide it to others. However, Joonto does not disclose personally-identifying information other than as described below.
+
+        <div class="ptop20"><h3>Protection of Certain Personally-Identifying Information</h3></div>
+
+        <div class="ptop5">Joonto discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Joonto's behalf or to provide services available at Joonto's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Joonto's websites, you consent to the transfer of such information to them. Joonto will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Joonto discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Joonto believes in good faith that disclosure is reasonably necessary to protect the property or rights of Joonto, third parties or the public at large. If you are a registered user of an Joonto website and have supplied your email address, Joonto may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Joonto and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Joonto takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</div>
+
+        <div class="ptop20"><h3>Cookies</h3></div>
+
+        <div class="ptop5">A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Joonto uses cookies to help Joonto identify and track visitors, their usage of Joonto website, and their website access preferences. Joonto visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Joonto's websites, with the drawback that certain features of Joonto's websites may not function properly without the aid of cookies.</div>
+
+        <div class="ptop20"><h3>Ads</h3></div>
+
+        <div class="ptop5">Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Joonto and does not cover the use of cookies by any advertisers.</div>
+
+        <div class="ptop20"><h3>Privacy Policy Changes</h3></div>
+
+        <div class="ptop5">Although most changes are likely to be minor, Joonto may change its Privacy Policy from time to time, and in Joonto's sole discretion. Joonto encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Society account, you should also check your blog's dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</div>
+      
+        
+  
+  <div class="footer "><a href="/jsp/aboutus.jsp" rel="nofollow">About Us</a> | <a href="/jsp/tos.jsp" rel="nofollow">Terms of Service</a> | <a href="/jsp/privacy.jsp" rel="nofollow">Privacy Policy</a> | <a href="/opt" title="communication preferences" rel="nofollow">Communication Preferences</a><br>
+    Copyright © 2010 Joonto, Inc.
+  </div>
+  
+  
+
+  </div></div></div></div></center>
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script type="text/javascript">
+    FB.init({appId: '75ac22a97a707abb01a25054a4a54b16', status: true, cookie: true, xfbml: true});
+</script>
+  
+  
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+  try { 
+    var pageTracker = _gat._getTracker("UA-12080024-1"); 
+    pageTracker._trackPageview(); 
+  } catch(err) {}
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+  _qoptions={ qacct:"p-f65ueyakBEy56" };
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript> <img src="http://pixel.quantserve.com/pixel/p-f65ueyakBEy56.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/> </noscript>
+<!-- End Quantcast tag -->
+
+          
+        
+      
+    
+  
+
+</body></html>
