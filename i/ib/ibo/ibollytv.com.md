@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibollytv.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516042018id_/http%3A//www.ibollytv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibollytv.com privacy policy that was archived on 2010-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100719010221id_/http%3A//www.ibollytv.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ibollytv.com
 
@@ -46,4 +46,4 @@ CONTACT US ABOUT PRIVACY If you have questions about the privacy aspects of our 
 Privacy Policy Group  
 ibollytv.com
 
-Copyright © 2009 ibollytv.com.
+Copyright © 2008-2010 ibollytv.com.
