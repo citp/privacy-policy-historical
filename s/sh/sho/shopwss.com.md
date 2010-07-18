@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shopwss.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221204423id_/http%3A//www.shopwss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwss.com privacy policy that was archived on 2010-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100718065351id_/http%3A//www.shopwss.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ShopWSS.com
+
+## **Privacy Policy**
 
 ShopWss is committed to protecting your privacy. The following statement provides details about our privacy policy.
 
