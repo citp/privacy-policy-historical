@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webworkerdaily.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530213154id_/http%3A//webworkerdaily.com/privacy-policy/%3Futm_source%3Dwebworkerdaily%26utm_medium%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webworkerdaily.com privacy policy that was archived on 2010-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100719130820id_/http%3A//webworkerdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – WebWorkerDaily
 
