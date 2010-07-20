@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickfire.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520125206id_/http%3A//www.kickfire.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickfire.com privacy policy that was archived on 2010-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100720214614id_/http%3A//www.kickfire.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Kickfire
 
