@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justrentalsdubai.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085507id_/http%3A//www.justrentalsdubai.com/privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justrentalsdubai.com privacy policy that was archived on 2010-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100720143722id_/http%3A//www.justrentalsdubai.com/privacy-policy-statement.html) for the most accurate reproduction.*
 
 # Just Rentals Dubai - Privacy Policy Statement
 
