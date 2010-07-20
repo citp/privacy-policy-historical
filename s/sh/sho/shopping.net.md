@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopping.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612173648id_/http%3A//www.shopping.net/help/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping.net privacy policy that was archived on 2010-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100720202208id_/http%3A//www.shopping.net/help/Privacy%2520Policy) for the most accurate reproduction.*
 
 # 
 
