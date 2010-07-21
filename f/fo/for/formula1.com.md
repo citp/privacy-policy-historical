@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formula1.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618071129id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formula1.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722012641id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Formula 1™ - The Official F1™ Website
 
