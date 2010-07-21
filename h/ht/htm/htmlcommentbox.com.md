@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlcommentbox.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528015101id_/http%3A//www.countable.ca/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcommentbox.com privacy policy that was archived on 2010-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100721124110id_/http%3A//www.countable.ca/privacy-policy.html) for the most accurate reproduction.*
 
 # Countable Web Productions - Privacy Policy
 
