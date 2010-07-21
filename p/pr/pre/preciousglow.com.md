@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preciousglow.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621021704id_/http%3A//www.preciousglow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preciousglow.com privacy policy that was archived on 2010-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100721233812id_/http%3A//www.preciousglow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wedding Rings, Anniversary Bands, Diamond Jewelry, Engagement Ring
 
