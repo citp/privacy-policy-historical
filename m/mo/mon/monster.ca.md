@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.ca privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629004845id_/http%3A//my.monster.ca/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.ca privacy policy that was archived on 2010-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100721235142id_/http%3A//my.monster.ca/privacy/default.aspx) for the most accurate reproduction.*
 
 # Find Jobs: Search millions of jobs now | Monster.ca
 
