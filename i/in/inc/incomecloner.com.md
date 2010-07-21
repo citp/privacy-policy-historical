@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomecloner.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618050719id_/http%3A//incomecloner.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomecloner.com privacy policy that was archived on 2010-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100721101316id_/http%3A//incomecloner.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
