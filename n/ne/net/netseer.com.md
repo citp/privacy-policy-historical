@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netseer.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621023421id_/http%3A//netseer.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netseer.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722000623id_/http%3A//netseer.com/privacypolicy.html) for the most accurate reproduction.*
 
 # NetSeer - A new vision of the Web
 
