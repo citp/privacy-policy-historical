@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picxlovers.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522153811id_/http%3A//picxlovers.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picxlovers.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722041843id_/http%3A//picxlovers.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # WEB Hosting Provider <# REAL_FILENAME #>
 
