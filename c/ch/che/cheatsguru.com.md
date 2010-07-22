@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatsguru.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627081313id_/http%3A//www.cheatsguru.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatsguru.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722213726id_/http%3A//www.cheatsguru.com/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy @ CheatsGuru.Com
 
