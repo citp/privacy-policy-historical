@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517100222id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722110517id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for BatteriesPlus.com
 
@@ -79,7 +79,7 @@ You may edit your account information at anytime by signing in to your account a
 
 ##### How can I give you feedback or contact you?
 
-You may contact us through the [Contact Us](https://web.archive.org/web/20100517100222id_/http%3A//www.batteriesplus.com/t-contact.aspx) section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate:
+You may contact us through the [Contact Us](https://web.archive.org/web/20100722110517id_/http%3A//www.batteriesplus.com/t-contact.aspx) section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate:
 
 Batteries Plus  
 925 Walnut Ridge Drive  
