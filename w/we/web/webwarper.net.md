@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwarper.net privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615170153id_/http%3A//www.webwarper.net/ww/0/wwgz/priv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwarper.net privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722125116id_/http%3A//webwarper.net/ww/0/wwgz/priv.htm) for the most accurate reproduction.*
 
 # WebWarper: Privacy Policy
 
