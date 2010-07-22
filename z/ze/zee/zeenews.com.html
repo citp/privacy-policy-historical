@@ -1,370 +1,343 @@
-<!--The following is the downloaded HTML source of the zeenews.com privacy policy that was archived on 2009-08-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090808083156id_/http%3A//www.zeenews.com/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zeenews.com privacy policy that was archived on 2010-07-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100722142913id_/http%3A//www.zeenews.com/privacypolicy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
-	Privacy Policy : Zee News
-</title><meta name="verify-v1" content="90soTS2GMMKllaVY8vtJNQKzGSgcoEhkVtoFlmAwpOw="><meta name="robots" content="noodp"><meta name="robots" content="noydir"><link href="/styles/style3.css" rel="stylesheet" type="text/css"><link href="/styles/style2.css" rel="stylesheet" type="text/css"><link href="/styles/style4.css" rel="stylesheet" type="text/css"><link href="/styles/style5.css" rel="stylesheet" type="text/css"><link href="/styles/style6.css" rel="stylesheet" type="text/css"><link href="/styles/style1.css" rel="stylesheet" type="text/css"><link href="/css/video-clss.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 
-<script language="javascript" src="/scripts/newscript.js" type="text/javascript"></script>
-<script language="javascript" src="/scripts/spice.js" type="text/javascript"></script>
-<script type="text/javascript" src="/scripts/Gallery.js"></script>
-<script type="text/javascript" src="/scripts/validation.js"></script>
-<script type="text/javascript" src="/scripts/optionfor.js"></script>
+</title><meta name="verify-v1" content="90soTS2GMMKllaVY8vtJNQKzGSgcoEhkVtoFlmAwpOw="><meta name="robots" content="noodp"><meta name="robots" content="noydir"><link rel="shortcut icon" href="/favicon.ico"><link href="/style.css" rel="stylesheet" type="text/css"><link href="/style_js.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/vdo.js"></script>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="/js/JScript.js"></script>
+<script type="text/javascript" src="/js/validation.js"></script>
 <script type="text/javascript" language="javascript">
-function check_field()
-   {
-
-     if(document.getElementById("ctl00_zeenews").value.length == 0 && document.getElementById("ctl00_google").value.length == 0)
-     {
-       alert('Please select the search for.');
-       document.getElementById("ctl00_searchtop").focus();
-       return false;
-     }
-     else if (document.getElementById("ctl00_searchtop").value =="News|Pics|Videos")
-     {
-		alert('Enter your text to search');
-		document.getElementById("ctl00_searchtop").focus();
-		return false;
-     } 
-     else
-	 {
-		if(document.getElementById("ctl00_google").checked)
-			{
-			document.aspnetForm.q.value=document.getElementById("ctl00_searchtop").value;
-			document.aspnetForm.method='get';
-			//alert(document.aspnetForm.method);
-			//document.location.href = '/googlesearchresult.html?q='+ document.getElementById("ctl00_searchtop").value +'&cx=partner-pub-1960815752144391:kcmbxh-m78z&cof=cof&ie=ISO-8859-1';
-			//document.aspnetForm.action="/google.aspx"
-			//document.aspnetForm.submit();
-			document.location.href = '/google.aspx?q=' + document.aspnetForm.q.value + '\&cx=' + document.aspnetForm.cx.value + '\&cof=' + document.aspnetForm.cof.value;
-			return false;	
-			}   		
-       return true;
-	  }
-   }
-</script>
-
-<link rel="shortcut icon" href="/favicon.ico"><link rel="shortcut icon" href="/favicon.ico">
-
-<style>
-	.link-f-cov-ab-nw{
-color:#5f5f5f; text-decoration:none; font-size:13px; padding-right:21px;
-}
-
-.top-txt{
-	width:677px; height:31px; background:url(/image/bg-f-c-nw.gif) repeat-x; font-size:12px;
-	margin:15px 2px 0px 2px;
-	color:#5f5f5f;
-	padding:5px 10px 0px 8px;
-	}
-
-.criclink{color:#3f577d;    text-decoration:none; font-size:13px; font-weight:bold;
-}
-.spicelink {color: #3f577d;text-decoration: none;font-size: 13px;font-weight: bold;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 30px;}
-.gry-google-link{
-color:#7c7c7c; text-decoration:none; font-weight:bold;
-}
-#header-link{
-font-family:Verdana, Arial, Helvetica, sans-serif;    width:100%;      height:24px;      background:url(/homeimages/buttons-new.gif) repeat-x;padding-top:2px;
-}
-
-.header-link-up{
-            font-size:10px;   height:24px;      float:left;            color:#FFFFFF; text-align:center;
+    function check_field() {
+        if (document.getElementById("ctl00_searchtop").value == '') {
+            document.getElementById("ctl00_searchtop").focus();
+            return false;
+        }
+        else {
+            if (document.getElementById("ctl00_google").checked) {
+                document.aspnetForm.q.value = document.getElementById("ctl00_searchtop").value;
+                document.aspnetForm.method = 'get';
+                document.location.href = '/google.aspx?sa=Search\&q=' + document.aspnetForm.q.value + '\&cx=' + document.aspnetForm.cx.value + '\&cof=' + document.aspnetForm.cof.value;
+                return false;
             }
-
-</style>
-<meta name="description"></head>
-<body>
-    <form name="aspnetForm" method="post" action="/privacypolicy.htm" id="aspnetForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk2OTQwMzIyNWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFDWN0bDAwJHplZW5ld3MFDGN0bDAwJGdvb2dsZQUMY3RsMDAkZ29vZ2xlBQtjdGwwMCRnb2J0bjXXZdW2vqsQ7FF6iVJkVUJRpx5G">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
+            else {
+                document.aspnetForm.q.value = document.getElementById("ctl00_searchtop").value;
+                document.aspnetForm.method = 'get';
+                //search.html/
+                document.location.href = '/search.html/' + document.aspnetForm.q.value; // + '\&cx=' + document.form1.cx.value + '\&cof=' + document.form1.cof.value;
+                return false;
+                //&engine=Google
+            }
+            return true;
+        }
     }
-}
-//]]>
+
 </script>
-
-
-<script src="/WebResource.axd?d=QDw8WtrK8-L_8rVI8X7FGA2&amp;t=633778474050937500" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20100922020356/http://serve.vdopia.com/adserver/adserver.php?api_key=119f01a8671595ec09cc8261a657f919&amp;video_file=http%3A%2F%2Fimg.zeenews.com%2F%2F2010%2F7%2F22%2F220710_MURLI_4_PM.flv&amp;ad_format=preroll|postroll|overlay&amp;video_category=NE&amp;video_title=Shahrukh Khan Interview&amp;video_summary=&amp;video_storyurl=undefined&amp;ad_format=preroll|postroll|overlay&amp;numberOfMidrolls=undefined&amp;isDefault=undefined&amp;api_test=false&amp;ref_url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100722142913id_%2Fhttp%253A%2F%2Fwww.zeenews.com%2Fprivacypolicy.htm&amp;runtime=110&amp;video_streamname=&amp;video_quality=&amp;format=js&amp;video_image=http://www.zeenews.com/Img/2010/7/22/Murali-big.jpg" type="text/javascript"></script></head>
+<body>
+<form name="aspnetForm" method="post" action="/privacypolicy.htm" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDA1MTgyNjk5D2QWAmYPZBYCAgMQZGQWBAIGDxYCHgtfIUl0ZW1Db3VudGZkAgcPZBYCAgEPZBYCAgMPFgIfAAIBFgJmD2QWAmYPFQIgLzIwMTAvNy8yMi8yMjA3MTBfTVVSTElfNF9QTS5mbHYcSW1nLzIwMTAvNy8yMi9NdXJhbGktYmlnLmpwZ2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFDGN0bDAwJGdvb2dsZQUMY3RsMDAkZ29vZ2xlBQ1jdGwwMCR6ZWVuZXdzBQtjdGwwMCRnb2J0bho9Slg4K6a1V6fzBT/RtuQCpeGB">
+</div>
 
 
 <script src="/ScriptResource.axd?d=DbN2VB7A-815ublePjT2807FM6Y3XwakZxR2cWcHJ6OiRe_Q3WtDpcuPDpFObiTHXJxY2JRs-EyhFrbQrRraoVrIY-QRQNYeRlIIpu7_KrU1&amp;t=4082d493" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=DbN2VB7A-815ublePjT2807FM6Y3XwakZxR2cWcHJ6OiRe_Q3WtDpcuPDpFObiTH4uFkCaL8yRJwqVSuc2_Tl7dITdLu_x9H8QKkFVVsyQI1&amp;t=4082d493" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKpsJWbAwLPucf1DALOucf1DAKo5JbuBwKL7+eyAg2MRLyDrvln/2+wo2LijHFoEIk9">
-</div> 
-    <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', document.getElementById('aspnetForm'));
-Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
-//]]>
-</script>
-
-<div id="container">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKxxoSLAQLOucf1DALPucf1DAKo5JbuBwKL7+eyAl2YHJ5IDvvARYhg8kwbCYt/wyBq">
+</div>
+    
+        
+<!-- ******** BEGIN ALLWEBMENUS CODE FOR menu ******** -->
+<script type="text/javascript">    var MenuLinkedBy = "AllWebMenus [4]", awmMenuName = "menu", awmBN = "766"; awmAltUrl = "";</script>
+<script charset="UTF-8" src="/menu.js" type="text/javascript"></script><script type="text/javascript">                                                                          awmBuildMenu();</script>
+<!-- ******** END ALLWEBMENUS CODE FOR menu ******** -->
+<table cellpadding="0" cellspacing="0" border="0" width="1000px" align="center">
+<tbody><tr><td>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script> 
 <script type="text/javascript"> 
 _uacct = "UA-2069755-1";
 urchinTracker(); 
 </script>
 
-  <div id="header-main">
-    <div id="header-left">
-      <div id="header-left-up"><a href="/"><img src="/homeimages/logo-zee-news.jpg" alt="Zee News" width="240" height="37" border="0"></a></div>
+<div class="container">
+
+<div>
+
+<div>
+  <div class="flt-lft"><a href="/"><img src="/images/zee-logo.jpg" alt="ZeeNews"></a></div>
+<div class="hedr-lft">
+<div><!-- begin ZEDO for channel:  News Story Leader Board 1 , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+<script language="JavaScript">
+    var zflag_nid = "371"; var zflag_cid = "38/28"; var zflag_sid = "0"; var zflag_width = "728"; var zflag_height = "90"; var zflag_sz = "14";
+</script>
+<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
+<!-- end ZEDO for channel:  News Story Leader Board 1 , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+
+<br>
+<span class="arl-10-wte" style="float:right;"><img src="/images/spacer.gif" alt="" width="1" height="15">July&nbsp;22,&nbsp;2010</span></div>
+
+</div>
+
+</div>
+<!--end of logo and Top banner div-->
+
+<div class="nav">
+<div class="flt-lft"><img src="/images/nav-left.gif" alt="search"></div>
+<div class="flt-lft" style="width:967px;">
+
+<div style="width:977px; height:36px;">
+<ul>
+<li><a href="/">HOME</a> </li>
+<li><a href="/nation/index.html">NATION     </a></li>
+<li><a href="#"><span id="awmAnchor-menu" style="width:40px;height:22px;border:solid 0px red;margin-top:3px;float:left;"></span></a></li>
+<li><a href="/world/index.html">WORLD     </a></li>
+<li><a href="/southasia/index.html">SOUTH ASIA     </a></li>
+<li><a href="http://biz.zeenews.com" target="_blank">BIZ    </a></li>
+<li><a href="/sports/index.html">SPORTS     </a></li>
+<li><a href="http://cricket.zeenews.com" target="_blank">CRICKET     </a></li>
+<li><a href="/sci-tech/index.html">SCI-TECH    </a></li>
+<li><a href="http://spicezee.zeenews.com" target="_blank">SHOWBIZ     </a></li>
+<li><a href="/health/index.html">HEALTH</a></li>
+<li><a href="/exclusive/index.html">EXCLUSIVE     </a></li>
+<li><a href="/videos/default.html">VIDEOS     </a></li>
+<li><a href="/blog/allblog.html">BLOGS     </a></li>
+<li><a href="/photogallery.html">PICS</a></li>
+<li><a href="/nri/index.html">NRI</a></li>
+<li style="background:none; padding-right:0px;"><a href="/FIFAWC2010/" target="_blank" style="padding:1px 3px 1px 3px;color:Black;background-color:#ebbd39;">FIFA</a></li>
+</ul>
+</div>
+
+<div class="scrol-nw">
+
+<div class="search-js">
+
+<div style="width:225px; float:left">
+<span class="radio-bttn"><input id="ctl00_google" type="radio" name="ctl00$radiosearch" value="2"></span>
+Google
+<input id="ctl00_zeenews" type="radio" name="ctl00$radiosearch" value="1" checked="checked">Zee
+<input name="ctl00$searchtop" type="text" value="News | Video | Pic" maxlength="20" id="ctl00_searchtop" class="in-spe-lnk-js" onclick="this.value='';return false;" style="width:105px;">
+</div>
+<div style="width:25px; float:left; padding-top:1px;">
+<input type="image" name="ctl00$gobtn" id="ctl00_gobtn" border="0" src="/images/go-button-js.gif" alt="Go" onclick="javascript: return check_field();" style="height:18px;width:25px;border-width:0px;"></div>
+
+</div>
+<div class="lat-mar-js">
+<iframe name="zeeticker" src="/Ticker/index.html" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="420" height="18"></iframe>
+</div>
+
+<input type="hidden" name="cx" value="partner-pub-1960815752144391:kcmbxh-m78z"><input type="hidden" name="cof" value="FORID:11">
+<input type="hidden" name="ie" value="ISO-8859-1"><input type="hidden" name="q">
+<input type="hidden" name="sa" value="Search">
+
+
+<div class="rss-area">
+<a href="/rss.html"><img src="/images/rss-bttn.gif" alt="RSS " align="absmiddle"></a> 
+|<a href="/jobs.htm"> Career with us</a> | <a href="/sitemap.htm">Site map</a> | <a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.zeenews.com');">Make Homepage</a></div>
+
+</div>
+
+</div>
+
+<div class="flt-rgt"><img src="/images/nav-right.gif" alt="search" width="13" height="71"></div>
+
+</div>
+
+</div>
+<!--end of header part div-->
+
+
+
+
+
+<div class="centr-prt">
+
+<div class="goole-add-ab">
+    <div class="googleabb-ab-in"><img src="images/google-ad.png" alt="s" width="78" height="16" align="absmiddle"> <img src="images/spacer.gif" alt="a" width="30" height="1"><a href="#" class="gry-google-link">Add Link here</a> <img src="images/spacer.gif" alt="a" width="40" height="1"><a href="#" class="gry-google-link">Add Link here</a> <img src="images/spacer.gif" alt="a" width="40" height="1"><a href="#" class="gry-google-link">Add Link here</a> <img src="images/spacer.gif" alt="a" width="40" height="1"><a href="#" class="gry-google-link">Add Link here</a> <img src="images/spacer.gif" alt="a" width="40" height="1"><a href="#" class="gry-google-link">Add Link here</a></div>
+    <div style="float:right; padding-top:3px;border:solid 0px red"><img src="images/LogoGoogleSingle.gif" border="0" usemap="#GoogleMap">
+      <map name="GoogleMap" id="GoogleMap2">
+        <area shape="rect" coords="1,1,70,17" href="http://cricket.zeenews.com/" target="_blank">
+        <area shape="rect" coords="74,1,134,34" href="http://spicezee.zeenews.com/" target="_blank">
+        <area shape="rect" coords="139,0,193,27" href="/states/upnews.html">
+        <area shape="rect" coords="196,1,253,25" href="/states/apnews.html">
+      </map>
+    </div>
+  </div>
+
+<div class="cntr-lft-excl">
+
+<div class="tp-bar-tree"><strong><a href="/" class="arl-12-blk">Home</a> »</strong> <span class="blu-12-"><strong>Privacy Policy</strong></span></div>
+
+<div class="l-des-prt">
+
+<span class="cntr-heading-ble"><strong>Privacy Policy </strong></span><img src="images/spacer.gif" alt="a" width="25" height="25" align="middle"><br>
+<p><a href="http://www.zeenews.com" class="link-blog"><strong>http://www.zeenews.com</strong></a> wants to make your experience online satisfying and safe. Our data collection  policies allow you to choose how much information to provide us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.<br>
+  <br>
+</p>
+<p>Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like. On other occasions when we provide items for purchase online, we may request your credit card number to conclude the transaction or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you - a personalized online experience. Customer's who personalize our service come back more often - and it's the customers that visit us often who make us successful - so we do everything we can to make <a href="http://www.zeenews.com" class="link-blog"><strong>http://www.zeenews.com</strong></a> your service with your name all over it and give you just the content you need.<br>
+  <br>
+</p>
+<p>Information collected online is often defined as being either anonymous or personally identifiable:<br>
+</p>
+<ul>
+	<li>
     
-      <div id="header-left-down">India Edition |<a href="http://international.zeenews.com">International Edition</a></div>
-      <div id="date"> August&nbsp;8,&nbsp;2009</div>
+    Anonymous Information: Refers to information that cannot be tied back to a specific individual. For instance, we may know that ten thousand people visit this Privacy Policy today, but we do not necessarily know their names, where they live or their date of birth - they are "anonymous" to us, much like how your hometown's bus service knows how many people take a given route - but don't necessarily know who those people are. Many of the individuals who access our services use none of the personalization features which are available to them and are therefore anonymous to us.
+
+    <br>
+    <br>
+    </li><li> Personally Identifiable Information: Refers to information that lets us know the specifics of who you are such as your name, email address, or postal address. With this information, <a href="http://www.zeenews.com" class="link-blog"><strong>http://www.zeenews.co</strong>m</a> can provide a variety of personalized and enhanced services that are not available to anonymous users. Examples would be the award-winning "My <a href="http://www.zeenews.com" class="link-blog"><strong>http://www.zeenews.com</strong></a> Start Page," which uses your mailing address to customize TV schedules, weather reports and sports scores; our commerce-enabled services which use this same address information to allow our partners to ship to you the products that you buy; or our free Zee Next Mail email service which uses your name as part of a security mechanism to protect you from having others read messages addressed to you. We hope that, like many of our customers, you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you.
+    
+    </li>
+
+</ul>
+</div>
+
+
+</div>
+<!--end of cntr-lft div-->
+
+
+<div class="flt-rgt" style="margin-right:0px; width:330px; display:inline;">
+
   
-    </div>
-
-    <div style="width:735px;padding:3px 2px 0px 0px;float:left">
-<!-- begin ZEDO for channel:  Story LB1 , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+<div class="tp-add-bg">
+<img src="/images/add-rgt-tp.gif" alt="a">
+<!-- begin ZEDO for channel:  Home page Island 2 , publisher: default , Ad Dimension: Medium Rectangle - 300 x 250 -->
 <script language="JavaScript">
-var zflag_nid="371"; var zflag_cid="38/28"; var zflag_sid="0"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+    var zflag_nid = "371"; var zflag_cid = "43/28"; var zflag_sid = "0"; var zflag_width = "300"; var zflag_height = "250"; var zflag_sz = "9";
 </script>
-<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
-<!-- end ZEDO for channel:  Story LB1 , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+<script language="JavaScript" src=" http://c2.zedo.com/jsc/c2/fo.js"></script>
+<!-- end ZEDO for channel:  Home page Island 2 , publisher: default , Ad Dimension: Medium Rectangle - 300 x 250 -->
+<img src="/images/add-rgt-dwn.gif" alt="s" class="mar-3tp"></div>
+
+<div class="tp-add-bg" style="margin-top:5px;">
+<img src="/images/add-rgt-tp-one.gif" alt="" class="mar-3dwn">
+
+
+
+<div id="player"></div>
+<script type="text/javascript">
+function loadVideo() {
+	if(typeof(window['Vdopia']) == 'function' ) {
+		/*All the parameters in this call need to be replaced*/
+		/*Please refer to VdopiaAdSpecification.pdf for detailed understanding of the call*/
+		Vdopia({api_key:'119f01a8671595ec09cc8261a657f919', 
+				video_fileurl: "http://img.zeenews.com//2010/7/22/220710_MURLI_4_PM.flv", 
+				video_image: "http://www.zeenews.com/Img/2010/7/22/Murali-big.jpg", 
+				video_runtime: "110", 
+				video_title:"Shahrukh Khan Interview",
+				video_category:"NE",
+				ad_format:"preroll|postroll|overlay",
+				api_test:"false",
+				player_allowfullscreen:true,
+				player_width:"300",
+				player_height:"250",
+				userParams:"volume=0",
+				autostart:"false"
+				},"player", "2.0");
+		
+	} 
+}
+loadVideo();
+</script>
+
+
+
+
+<img src="/images/add-rgt-dwn.gif" alt="s" class="mar-3tp"></div>
+
+
+</div>
+<!--end of centr right part div-->
+
+
+
 </div>
 
-  </div>
-  <div id="search-part">
-    <div id="search-main">
-      <div class="nor-txt" id="search-form1" style="width: 120px;"> <span class="radio-bttn"><span class="radio-bttn"><input id="ctl00_zeenews" type="radio" name="ctl00$radiosearch" value="1" checked="checked"></span></span>Zee
-        <span class="radio-bttn"><input id="ctl00_google" type="radio" name="ctl00$radiosearch" value="2"></span>Google </div>
-      <div id="search-part-left">
-      <input name="ctl00$searchtop" type="text" value="News|Pics|Videos" id="ctl00_searchtop" class="field-a" onclick="this.value='';return false;" size="18">
-      </div>
-      <div id="search-part-rgt">
-        <label><input type="image" name="ctl00$gobtn" id="ctl00_gobtn" border="0" align="top" class="padding-a" src="/homeimages/GO-button-blue.gif" alt="Go" onclick="javascript: return check_field(); document.form1.action='';" style="height:15px;width:26px;border-width:0px;"></label>
-        <input type="hidden" name="cx" value="partner-pub-4239019703469519:9xtktrx15k1"><input type="hidden" name="cof" value="FORID:10"><input type="hidden" name="ie" value="ISO-8859-1"><input type="hidden" name="q">
-      </div>
-      <div class="nor-txt" id="search-form"><a class="nor-txt"><iframe name="zeeticker" src="/Ticker/index.html" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="400" height="15"></iframe></a></div>
-      <div id="xml-rss"> <a href="/rss.html"><img src="/homeimages/RSS-button.gif" alt=" " width="28" height="13" border="0" align="absmiddle"></a> | <a href="/jobs.html" class="gray_bar_rss">Career with us </a>| <a href="/sitemap.htm" class="gray_bar_rss">Site map</a> |<a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.zeenews.com');" class="gray_bar_rss"> Make Homepage</a></div>
-    </div>
-  </div>
-  <div id="header-link">
-    <div class="header-link-up"> 
-<a href="/">HOME</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle">
- <a href="/nation/index.html">NATION</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" align="absmiddle"> 
-<a href="/states/index.html">STATES</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle"> 
-<a href="/world/index.html">WORLD</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle">
- <a href="/southasia/index.html">S ASIA</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle">
- <a href="/business/index.html">BIZ</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle"> 
-<a href="/sports/index.html">SPORTS</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle"> 
-<a href="http://cricket.zeenews.com" target="_blank">CRICKET</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle"> 
-<a href="/sci-tech/index.html">SCI-TECH</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle"> 
-<a href="/health/index.html">HEALTH</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle"> 
-<a href="http://spicezee.zeenews.com" target="_blank">SHOWBIZ</a><img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle">
-<a href="/lifestyle/index.html">LIFESTYLE</a><img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle"> 
-<a href="/exclusive/index.html">EXCLUSIVE</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle">
-<a href="/blog/allblog.html">BLOGS</a><img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle">
-<a href="/photogallery.html">PICS</a> <img src="/homeimages/buttons-new-rgt.gif" alt="" width="2" height="22" align="absmiddle">
- <a href="/newspapers/index.html">NEWSPAPERS</a>
 
-</div>
-  </div>
-
- <div style="height:25px; border:1px solid #d1d2d3;width:1002; margin-top:2px;">
-      <div style="width:730px; margin:5px 0px 0px 5px;  float:left; background:#F5F5F5">
-<script type="text/javascript"><!--
-google_ad_client = "pub-4239019703469519";
-/* 728x15, created 7/21/09 */
-google_ad_slot = "4459954280";
-google_ad_width = 728;
-google_ad_height = 15;
-//-->
-</script>
+<!--end of centr-prt div-->
+<div class="ban-720-container" style="margin-bottom:1px;align:center;margin:0 auto;">
+<div class="ban-720-left"><script type="text/javascript"><!-- google_ad_client = "pub-4239019703469519";                             /* 728x90, created 6/23/09 */                                google_ad_slot = "5559343097";                                google_ad_width = 728;                                google_ad_height = 90;//--></script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
+  <div class="hot-deals" style="border:0px solid red;">
+  <a href="http://shopping.zeenews.com/v1/index.php" target="_blank"><img src="/images/in-banner-gift-js.jpg" alt="" width="200" height="90" border="0"></a>
 
-      <div style="width:250px; float:right; padding-top:3px;"><a href="http://cricket.zeenews.com/" target="_blank"><img src="/homeimages/ZeeCricLogo-Google.gif" width="100" height="20" border="0" style="margin-right:10px;"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://spicezee.zeenews.com/" target="_blank"><img src="/homeimages/SpiceLogo-Google.gif" width="82" height="20" border="0"></a></div>
-      
-      </div>
-
-
-<div id="center-container-j">
-	<div id="left-container-j">
-	  <div id="story-area-j">
-		
-			<div id="path-j"><a href="/" class="path-link-j">Home</a><a class="path-link-j"></a> » <a class="path-link-active-j">Privacy Policy</a></div>
-			<!--end of path-j-->
-			
-			<div id="all-story-j">
-			
-			<div class="fullstory-text-j">
-			
-			  <br>
-			  <span class="story-heading-j">Privacy Policy</span> <br> <br>
-			  <a href="http://www.zeenews.com" class="marron-txt">http://www.zeenews.com</a>  wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.<br>
-			  <br>
-
-Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like. On other occasions when we provide items for purchase online, we may request your credit card number to conclude the transaction or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you - a personalized online experience. Customer's who personalize our service come back more often - and it's the customers that visit us often who make us successful - so we do everything we can to make <a href="http://www.zeenews.com" class="marron-txt">http://www.zeenews.com </a>your service with your name all over it and give you just the content you need.<br>
-<br>
-
-Information collected online is often defined as being either anonymous or personally identifiable:<br>
-<br>
-1. Anonymous Information: Refers to information that cannot be tied back to a specific individual. For instance, we may know that ten thousand people visit this Privacy Policy today, but we do not necessarily know their names, where they live or their date of birth - they are "anonymous" to us, much like how your hometown's bus service knows how many people take a given route - but don't necessarily know who those people are. Many of the individuals who access our services use none of the personalization features which are available to them and are therefore anonymous to us.<br>
-<br>
-
-2. Personally Identifiable Information: Refers to information that lets us know the specifics of who you are such as your name, email address, or postal address. With this information, <a href="http://www.zeenews.com" class="marron-txt">http://www.zeenews.com</a> can provide a variety of personalized and enhanced services that are not available to anonymous users. Examples would be the award-winning "My <a href="http://www.zeenews.com" class="marron-txt">http://www.zeenews.com</a> Start Page," which uses your mailing address to customize TV schedules, weather reports and sports scores; our commerce-enabled services which use this same address information to allow our partners to ship to you the products that you buy; or our free Zee Next Mail email service which uses your name as part of a security mechanism to protect you from having others read messages addressed to you. We hope that, like many of our customers, you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you.</div>
-			
-
-			</div>
-			<!--end of all-story-j-->
-			
-      </div><!--end of story-area-j-->
-		
-			<div id="more-news-container-j">
-			  
-				
-				  <div id="add-links-j">
-            <div class="add-link-head-j">Ad Links</div>
-            <div class="add_links_bg_j"><a href="javascript:addhitscount('call')" class="more-liner-link-j">Call More Save More</a></div>
-            <div class="add_links_bg_j"><a href="http://cricket.zeenews.com/commentary.asp" target="_blank" class="more-liner-link-j">Live Cricket Scores</a></div>
-            <div class="add_links_bg_j"><a href="http://cricket.zeenews.com" target="_blank" class="more-liner-link-j">SMS CRIC TO 57575</a></div>
-            <div class="add_links_bg_j"><a href="http://shopping.zeenews.com" target="_blank" class="more-liner-link-j">Express Gifts -Delivery in 24 Hrs.</a></div>
-            <div class="add_links_bg_j"><a href="http://cricket.zeenews.com" target="_blank" class="more-liner-link-j">Latest Cricket News</a></div>
-            <div class="add_links_bg_j"><a href="javascript:addhitscount('Send1')" class="more-liner-link-j">Send Flowers All Across India</a></div>
-	    <div class="add_links_bg_j"><a href="http://www.spicezee.com" target="_blank" class="more-liner-link-j">Latest Bollywood News</a></div>
-          </div>
-
-
-<!--end of add-links-j-->
-				
-				<br><br>
-				
-				<div id="ad-google-j">
-                <iframe src="http://ads.zeenews.com/ad_Google_innerpage.html" style="border:0px;width:172px;height:472px" scrolling="no" frameborder="0" noresize="noresize" allowtransparency="true"></iframe>
-		      </div><!--end of ad-google-j-->
-				
-	  </div><!--end of more-news-container-j-->
-			
-		
-	</div><!--end of left-container-j-->
-	
-	<div id="center-rgt">
-      <script language="javascript" src="/js/spice.js" type="text/javascript"></script>
-<!-- begin ZEDO for channel:  Story Island , publisher: default , Ad Dimension: Medium Rectangle - 300 x 250 -->
-<script language="JavaScript">
-var zflag_nid="371"; var zflag_cid="43/28"; var zflag_sid="0"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";
-</script>
-<script language="JavaScript" src="http://c2.zedo.com/jsc/c2/fo.js"></script>
-<br><br>
-<!-- end ZEDO for channel:  Story Island , publisher: default , Ad Dimension: Medium Rectangle - 300 x 250 -->
-      <div id="newvideos" style="border:solid 0px #999999">
-<iframe src="/getVideoAds.aspx" width="300" height="290" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
-
-      </div>
-<br>
-<iframe src="/ads/ad_120X600Inner.html" name="date" width="295" marginwidth="0" height="700" marginheight="0" scrolling="no" frameborder="0" hspace="0" vspace="0" id="Iframe3" allowtransparency="true"></iframe>
-	</div>
-	<!--end of center-rgt-->
-
-<div class="footer-link-spice-dow"></div>
-
-
-
-</div>
-
-
-
-
-
-  <div class="ban-720-container" style="margin-bottom:1px">
-    <div class="ban-720-left">
-<script type="text/javascript"><!--
-google_ad_client = "pub-4239019703469519";
-/* 728x90, created 6/23/09 */
-google_ad_slot = "5559343097";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-    
-    </div>
-    <div class="hot-deals" style="border:solid 0px red;">
-&nbsp;&nbsp;<a href="http://shopping.zeenews.com/v1/index.php" target="_blank"><img src="/ads/Shopping.gif" border="0"></a>
-      <!--end of news-sec-sub-head-->
-    </div>
-    <!--end of hot-deals-->
   </div>
-  <div style="margin-top:10px; float:left; width:1000px; text-align:center"><img src="/homeimages/buqe-bttm.jpg" alt="" width="1004" height="61" border="0" usemap="#Map">
-<map name="Map" id="Map">
-  <area shape="rect" coords="3,-5,156,50" href="http://www.zeenews.com/">
-<area shape="rect" coords="243,2,345,50" href="http://cricket.zeenews.com/" target="_blank">
-<area shape="rect" coords="389,17,505,50" href="http://spicezee.zeenews.com/" target="_blank">
-<area shape="rect" coords="550,13,674,50" href="http://shopping.zeenews.com/v1/index.php" target="_blank">
-<area shape="rect" coords="727,16,843,52" href="http://ayurveda.zeenews.com/" target="_blank">
-<area shape="rect" coords="880,12,964,51" href="http://investors.zeenews.com/" target="_blank">
-</map>  </div>
-  <div class="foter-cont-new-ab">
-    <div class="footer-link-spice"> <a href="/contactus.htm" class="footer-text-j">Contact   Us</a> : <a href="/privacypolicy.htm" class="footer-text-j">Privacy   Policy</a> : <a href="/disclaimer.htm" class="footer-text-j">Legal   Disclaimer</a> : <a href="/sms.html" class="footer-text-j">SMS to 57575</a> : <a href="/register/index.html" class="footer-text-j">Register</a> : <a href="/on-the-channel/mustwatch.html" class="footer-text-j">On The Channel </a> : <a href="/jobs.htm" class="footer-text-j">Jobs With Us</a></div>
-    <!-- end of footer-link-->
-    <div class="footer-link-spice-dow">
+</div>
+<div class="fotr-contr"> 
+
+<div><img src="/images/zee-buqe-bttm-ra.jpg" alt="" border="0" usemap="#Map7">
+    <map name="Map7" id="Map72">
+<area shape="rect" coords="880,17,980,49" href="http://investors.zeenews.com/" target="_blank">
+
+           <area shape="rect" coords="755,21,870,45" href="http://ayurveda.zeenews.com/" target="_blank">
+      <area shape="rect" coords="604,20,733,46" href="http://shopping.zeenews.com/v1/index.php" target="_blank">
+      <area shape="rect" coords="454,19,578,47" href="http://biz.zeenews.com/" target="_blank">
+      <area shape="rect" coords="320,19,431,47" href="http://spicezee.zeenews.com/" target="_blank">
+      <area shape="rect" coords="171,19,307,48" href="http://cricket.zeenews.com/" target="_blank">
+</map>
+  </div>
+  
+    <div class="footer-link-spice"> 
+``<a href="/contactus.htm" class="footer-text-j">Contact   Us</a> : 
+  <a href="/privacypolicy.htm" class="footer-text-j">Privacy   Policy</a> : 
+  <a href="/disclaimer.htm" class="footer-text-j">Legal   Disclaimer</a> : 
+  <a href="/sms.html" class="footer-text-j">SMS to 57575</a> : 
+  <a href="/register/index.html" class="footer-text-j">Register</a> : 
+  <a href="/on-the-channel/mustwatch.html" class="footer-text-j">On The Channel </a> : 
+  <a href="/jobs.htm" class="footer-text-j">Jobs With Us</a> :
+ <a href="/Disputes.htm" class="footer-text-j">Complaint Redressal</a>
+</div> 
+<div class="footer-link-spice-dow">
       <div align="center">Copyright © Zee News Limited. All rights reserved.</div>
     </div>
-  </div>
-</div> 
 
+</div>
+<!--end of centr-prt div-->
 
-       
+</div>
+</td></tr>
+</tbody></table>
+        
 
-<div style="display: none;">
-<iframe width="0" height="0" src="http://www.zeenews.com/addnew.htm"></iframe>
- <script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.zeenews.com"></script>
-
-<!-- vzSense -->
- 
-<script type="text/javascript" src="http://vizisense.net/pixel.js"></script>
-<script type="text/javascript">_vz_accountID="1edg1g2re12RhWu1CA7PsQ=="; if(typeof(_vz_sense) == "function") _vz_sense();</script>
- 
-<noscript>
-  <img src="http://vizisense.net/cgi-bin/trail.fcgi?accountID=1edg1g2re12RhWu1CA7PsQ==&isScript=false" style="display: none;" border="0" height="1" width="1" alt="vzSense"/>
-</noscript>
-<!-- /vzSense --> 
-
-<!-- Kontera ContentLink(TM);-->
-<script type="text/javascript">
-var dc_AdLinkColor = '#f8941d' ;
-var dc_PublisherID = 67539 ;
-</script>
-<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js">
-</script>
-<!-- Kontera ContentLink(TM) -->
     
+
 
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
 //]]>
 </script>
+</form>
+<map name="Map" id="Map">
+  <area shape="rect" coords="78,3,92,17" href="#">
+  <area shape="rect" coords="53,3,67,17" href="#">
+  <area shape="rect" coords="21,3,35,17" href="#">
+  <area shape="rect" coords="2,3,16,17" href="#">
+</map> 
 
-<script type="text/javascript"><!--
- e9 = new Object();
- e9.noAd = 1;
- e9.popOnly = 1;
-//--></script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/ZeeNews/ROS/tags.js"></script>
- 
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2069755-1']);
+  _gaq.push(['_setDomainName', '.zeenews.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript" src="http://www.google.co.in/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
 
-</div></form></body></html>
+
+
+
+
+</body></html>
