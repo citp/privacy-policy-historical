@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speed-downloading.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523023305id_/http%3A//speed-downloading.com/privacy.php%3Flg%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speed-downloading.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722173028id_/http%3A//www.speed-downloading.com/privacy.php%3Flg%3DEN) for the most accurate reproduction.*
 
 # Speed Downloading
 
