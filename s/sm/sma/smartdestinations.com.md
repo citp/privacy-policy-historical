@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartdestinations.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205532id_/http%3A//www.smartdestinations.com/dialog/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdestinations.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722071158id_/http%3A//www.smartdestinations.com/dialog/privacy.html) for the most accurate reproduction.*
 
 # None
 
