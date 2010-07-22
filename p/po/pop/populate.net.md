@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the populate.net privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622004445id_/http%3A//www.populate.net/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the populate.net privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722203857id_/http%3A//www.populate.net/Privacy.html) for the most accurate reproduction.*
 
 # Populate.NET Article Directory
 
