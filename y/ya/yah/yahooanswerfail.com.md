@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yahooanswerfail.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507002110id_/http%3A//www.yahooanswerfail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahooanswerfail.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722134534id_/http%3A//www.yahooanswerfail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yahoo! Answer Fail
 
