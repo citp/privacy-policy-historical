@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redzee.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609033802id_/http%3A//www.redz.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redzee.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722163119id_/http%3A//www.redz.com/privacypolicy.html) for the most accurate reproduction.*
 
 # RedZ Privacy Policy
 
