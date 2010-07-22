@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231170209id_/http%3A//www.sacentral.sa.gov.au/site/page.cfm%3Fu%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722122356id_/http%3A//sa.gov.au/static/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Government of South Australia
 
