@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grazr.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627211251id_/http%3A//www.grazr.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grazr.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722213041id_/http%3A//grazr.com/info/privacy.html) for the most accurate reproduction.*
 
 # Grazr - Publish Widgets
 
