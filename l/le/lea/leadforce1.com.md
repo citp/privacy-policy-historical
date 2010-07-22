@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the leadforce1.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614111535id_/http%3A//www.leadforce1.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D151%26Itemid%3D237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadforce1.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722160314id_/http%3A//www.leadforce1.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D151%26Itemid%3D237) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We help marketers better target their audience and avoid pricing models designed to increase the volume of communications. While MarketForceOne's (MarketForceOne Inc. owns LeadForce1) solutions are focused on improving marketing results and lowering costs, we are also reducing unwanted email, phone, and postal communications by as much as 50%.
 
+EmailForce1 is a product of MarketForceOne, Inc. This Privacy Policy includes activity related to MarketForceOne, including, without limitation, its products LeadForce1 and EmailForce1.
+
 **Anti-Abuse**
 
-If you suspect a client of abusing our services, please contact us at [ ](mailto://%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy60661%20=%20'abuse'%20+%20'@';%20addy60661%20=%20addy60661%20+%20'leadforce1'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy60661%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy60661%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[abuse@leadforce1.com](mailto:abuse@leadforce1.com) . All complaints are investigated, and you will receive a response on the action we will take to resolve the issue.
+If you suspect a client of abusing our services, please contact us at [abuse@leadforce1.com](mailto:abuse@leadforce1.com) . All complaints are investigated, and you will receive a response detailing the action that we will take to resolve the issue.
 
-**This policy describes how LeadForce1 uses and protects your personal information.**
+**This policy describes how LeadForce1 and EmailForce1 uses and protects your personal information.**
 
 **Scope**
 
-This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through [www.leadforce1.com,](https://web.archive.org/index.php) or any MarketForceOne Inc. web sites (the "Sites") and applies generally to any affiliated web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through [www.leadforce1.com,](https://web.archive.org/index.php) or any MarketForceOne Inc. web sites including the EmailForce1 product and applies generally to any affiliated web sites (the "Sites"). By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 This Privacy Policy is effective on September 5, 2008 for any current users, and upon acceptance for all new users.
 
 **Collection**
 
-You can browse the Sites without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers located in the United States.
+You can browse the Sites without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are no longer anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers located in the United States.
 
 We may collect and store the following personal information:
 
-  * email address, physical contact information, and (depending on the service used) sometimes financial information, such as credit card;
-  * transactional information based on your activities on the Sites (such as purchases you make, purchase content, and searches conducted, all as they relate to your account or purchases);
-  * billing and other information you provide;
-  * correspondence through the Sites, and correspondence sent to us;
-  * computer sign-on data, statistics on page views, traffic to and from the Sites, and ad data, other information, including IP address and standard Web log information; and supplemental information from third parties.
+  * Email address(es), physical contact information, and (depending on the service used) sometimes financial information, such as credit card related information;
+  * Transactional information based on your activities on the Sites (such as purchases you make, purchase content, and searches conducted, as they relate to your account or purchases);
+  * Billing and other information you provide or is provided on your behalf by a third party;
+  * Correspondence through the Sites, and correspondence sent to us;
+  * Computer sign-on data, statistics on page views, traffic to and from the Sites, and ad data, other information, including IP address and standard Web log information; and supplemental information from third parties.
 
 
 
@@ -38,23 +40,89 @@ We don't sell or rent the personal information we collect from your using our Si
 
 Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to:
 
-  * provide the services and customer support you request;
-  * resolve disputes, collect fees, and troubleshoot problems;
-  * prevent potentially prohibited or illegal activities, and enforce our User Agreement;
-  * customize, measure, and improve our services and the Sites’ content and layout;
-  * share service updates, and promotional offers based on your communication preferences;
+  * Provide the services and customer support you request;
+  * Resolve disputes, collect fees, and troubleshoot problems;
+  * Prevent potentially prohibited or illegal activities, and enforce our User Agreement;
+  * Customize, measure, and improve our services and the Sites’ content and layout;
+  * Share service updates, and promotional offers based on your communication preferences;
   * Our Disclosure of Your Information
   * We may disclose personal information to respond to legal requirements, enforce our policies, or protect anyone's rights, property, or safety.
   * We may also share your personal information with:
   * Employees and agents of MarketForceOne Inc. in order to help detect and prevent potentially illegal acts;
-  * service providers under contract who help with our business operations;
-  * other third parties to whom you explicitly ask us to send your information;
-  * those serving apparently valid subpoenas;
-  * other business entities, should we plan to merge with, or be acquired by that business entity.
+  * Service providers under contract with us who help with our business operations;
+  * Other third parties to whom you explicitly ask us to send your information;
+  * Those serving subpoenas;
+  * Other business entities, should we plan to merge with, or be acquired by that business entity.
 
 
 
 Without limiting the above, in an effort to respect your privacy we will not otherwise disclose your personal information without your consent except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+
+#### EmailForce1 - Responding to Unsolicited Email Complaints
+
+If a complaint is received regarding unsolicited emails being sent from EmailForce1, an immediate investigation is undertaken by us. The following are our standard responses to complaints:
+
+Initial Warning - The user of EmailForce1 is first notified that an unsolicited email complaint has been lodged against them and: (a) Reminded of the terms they previously accepted. (b) Reminded that the complainant's email address will automatically be flagged for suppression if the complainant did unsubscribe. (c) Requested to manually remove the complainant's email address from their subscriber list if the address was not automatically suppressed because the complainant did not unsubscribe.
+
+Follow-up Warning - If the complainant persists, or if there are multiple complaints, a second warning is issued. The user is again reminded of the terms they previously accepted. Additionally, the user is advised that if they are unable to abide by these terms, they should discontinue using EmailForce1.
+
+Final Notice - If notifications of unsolicited emails continue and remain unaddressed after the follow-up warning, the user's account privileges will be suspended and eventually terminated.
+
+**EmailForce1 – Prohibited Content**
+
+Do not use EmailForce1 to send anything offensive, to promote anything illegal, or to harass anyone.
+
+  * No Pornography
+  * No campaigns selling illegal substances
+  * No campaigns that violate the FTC's CAN-SPAM Law
+
+
+
+Also, there are some industries that send certain types of content that result in higher than normal bounce rates and abuse complaints, which in turn jeopardizes the deliverability of our entire system. No offense intended, but because we must ensure the highest delivery rates possible for all our customers, we do not allow businesses that offer these types of services, products, or content:
+
+  * Illegal goods or services
+  * Escort and dating services
+  * Pharmaceutical products
+  * Get-rich-quick or work-at-home schemes
+  * Online trading, day trading tips, or stock market related content
+  * Gambling services or products
+  * Multi-level marketing
+  * Affiliate marketing
+  * Credit repair, get-out-of-debt content
+  * Mortgages
+
+
+
+Generally speaking, if you're in an industry that is frequently associated with spam, we make no judgments about your line of business, but we cannot afford to risk our deliverability. You will most likely need to look into setting up your own mail servers.
+
+**Bulk or Commercial E-Mail**
+
+User agrees to comply with the regulations as prescribed under the CAN- SPAM Act. User agrees to not send unsolicited email to people other than:
+
+1) Individuals who have signed on to receive this communication and have indicated their consent by providing their email address
+
+2) Individuals who have shown interest in the product
+
+3) Individuals with whom the user is having existing business
+
+User also agrees to have in place a system to unsubscribe or opt out so that any individual who wants to discontinue receiving emails, can do so. User will have unsubscribe options in every email and mention the timeframe by which the individual will stop receiving emails. User must have a privacy policy describing the use of the collected data (like email) and also a way to handle abuse and complaints.
+
+We also reserve the right to unsubscribe individuals if they flag an email as Spam. User also agrees to cooperate with Leadforce1 in case there is an abuse complaint and User will provide documentation to determine the consent for sending the emails.
+
+**Email bounce**
+
+Leadforce1 will provide reports on the deliverability of email campaigns. The user is expected to go through the results and if there are too many hard bounces (non-existent or unavailable email addresses), Leadforce1 may block certain campaigns if they are found to have a high proportion of bounces to prevent loss of reputation of the service. The hard bounced emails need to be removed from the system to improve the deliverability.
+
+**Copyright content**
+
+User agrees not to send emails that contain
+
+  * Material that is proprietary and is not permitted for the user to copy or distribute
+  * Material that may be defamatory, threatening, malicious code (viruses, Trojans) and is violating any privacy or proprietary rights
+  * Send cContent which may be construed to be deceitful and deliberately inaccurate and/or falsified information
+  * Leadforce1 reserves the right to terminate the contracts of offenders.
+
+
 
 **Cookies**
 
