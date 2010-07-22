@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch-onepiece.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619233850id_/http%3A//www.watch-onepiece.com/page/5-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-onepiece.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722123413id_/http%3A//www.watch-onepiece.com/page/5-privacy) for the most accurate reproduction.*
 
 # Watch-OnePiece.com - Privacy
 
