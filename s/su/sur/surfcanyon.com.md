@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210094734id_/http%3A//www.surfcanyon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723161341id_/http%3A//www.surfcanyon.com/privacy) for the most accurate reproduction.*
 
 # Surf Canyon Privacy Policy
 
@@ -24,11 +24,15 @@ Surf Canyon is not directed towards children 13 years of age or under and we do 
 
 ### 1.3 Uses of Information
 
-Surf Canyon uses information for the following general purposes: to customize the search results on selected search engines (currently Google, Yahoo!, Bing and Craigslist), to customize sponsored results (which are always clearly labeled as such) on selected search engines (currently Google and Yahoo!), to improve our services, and to provide anonymous reporting for internal and external clients.
+Surf Canyon uses information for the following general purposes: to customize the search results on selected search engines (currently Surf Canyon, Google, Yahoo!, Bing and Craigslist), to customize sponsored results (which are always clearly labeled as such) on Surf Canyon's search engine, to improve our services, and to provide anonymous, aggregate reporting for internal and external clients.
 
 ### 1.4 Profile
 
-We store information that we collect through client-side cookies and server-side log files to create a "profile" of your preferences. We tie your personally identifiable information to information in the profile in order to provide tailored search results and sponsored results for you. We share your profile with other third parties in aggregate form only.
+We store information that we collect through client-side cookies and server-side log files to create a "profile" of your preferences. We tie your personally identifiable information to information in the profile in order to provide tailored search results and sponsored results for you. We share your profile with other third parties in aggregate form only. We do NOT share your profile with any third parties.
+
+### 1.5 Refinement Links
+
+Specifically with respect to Refinement Links, as described in [http://blog.surfcanyon.com/2009/04/30/v204-further-refinements](http://blog.surfcanyon.com/2009/04/30/v204-further-refinements/), and as delivered by either Surf Canyon's browser extension or any of our partner browser extensions, the functionality requires that the user's query and IP address be sent to Surf Canyon's server. Neither the query nor the IP address are ever sent to any third party. Furthermore, this data is never stored and is immediately discarded once the server responds with the Refinement information.
 
 ## 2\. Information Sharing and Disclosure
 
@@ -46,17 +50,19 @@ We reserve the right to disclose your personally identifiable information as req
 
 ### 3.1 Log Files
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), operating system, date/time stamp, and clickstream data. 
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), operating system, date/time stamp, and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
 
+With respect specifically to the Refinement Links, as discussed in section 2.2 above, all information is immediately discarded and no information is stored in any log files.
+
 ### 3.2 Cookies
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. Cookies enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but the ability for our service to provide accurate personaliztion for you will be limited. 
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. Cookies enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but the ability for our service to provide accurate personaliztion for you will be limited.
 
 ### 3.3 Third Party Search Engines
 
-When you execute a query on selected search engines (currently Google, Yahoo, Bing and Craigslist), the Surf Canyon browser extension makes additional network connections to the search engine and execute additional queries. The additional network connections may cause you to exceed a search engine's bandwidth limit more quickly. The additional search engine queries may affect the search engine's own personalization algorithms.
+When you execute a query on selected search engines (currently Google, Yahoo, Bing and Craigslist), the Surf Canyon browser extension may make additional network connections to the search engine and execute additional queries. The additional network connections may cause you to exceed a search engine's bandwidth limit more quickly. The additional search engine queries may affect the search engine's own personalization algorithms.
 
 ### 3.4 Third Party Advertisers
 
@@ -73,6 +79,10 @@ In the event Surf Canyon goes through a business transition, such as a merger, a
 ### 4.2 Changes in this Privacy Statement
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our home page.
+
+### 4.3 Exception to this Privacy Statement
+
+Users who download a version of our application offered as part of the MyPersonality research project conducted by the University of Cambridge should refer to the [MyPersonality Privacy Policy](http://apps.facebook.com/mypersonality/disclaimer.php), which, for those specific users only, will take priority over this Privacy Policy in cases of conflict.
 
 ## 5\. Contact Us
 
