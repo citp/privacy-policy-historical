@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-house.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522222514id_/http%3A//helpdesk.the-house.com/index.php%3Fpage%3Dour_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-house.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723192337id_/http%3A//helpdesk.the-house.com/index.php%3Fpage%3Dour_privacy_policy) for the most accurate reproduction.*
 
 # The House Helpdesk - Our Privacy Policy
 
@@ -58,8 +58,8 @@ October-February
 12PM-4PM (Sun)
 
 March-September   
-10AM -6PM (M-F)  
-9AM - 4PM (Sat)  
-Closed (Sun)
+10AM -7PM (M-F)  
+9AM - 5PM (Sat)  
+12PM - 4PM (Sun)
 
 All times based on Central Time Zone (daytime adjusted)
