@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slingmedia.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610230042id_/http%3A//www.slingmedia.com/get/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingmedia.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723042810id_/http%3A//www.slingmedia.com/get/privacy) for the most accurate reproduction.*
 
 # Sling Media - Privacy Policy
 
