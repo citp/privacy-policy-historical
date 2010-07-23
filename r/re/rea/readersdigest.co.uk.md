@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.co.uk privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106070630id_/http%3A//www.readersdigest.co.uk/privacy-policy-i-19.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.uk privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723173126id_/http%3A//www.readersdigest.co.uk/privacy-policy-i-19.html) for the most accurate reproduction.*
 
 # Magazines, Books, DVDs and CD's | Reader's Digest UK
 
@@ -15,7 +15,7 @@ In over 80 years in the Direct Marketing business, Reader's Digest has adhered t
 
 Individuals may obtain details of their own data from Reader's Digest. For details of how to inspect your own data, for which a charge will be made, please **[click here](http://www.readersdigest.co.uk/contact-us-i-6.html)** to contact us. 
 
-The Reader's Digest Association Ltd (RD) may pass your customer information to other RD companies and tell you about other RD products and services, by post, telephone or email. We may also pass your information to other carefully selected companies whose offers may be of interest to you. If you do not wish to receive offers from either RD or other companies, please [click here](http://www.readersdigest.co.uk/contact-us-i-6.html) to contact us.
+Vivat Direct Limited (t/a Reader's Digest) (RD) may pass your customer information to other RD companies and tell you about other RD products and services, by post, telephone or email. We may also pass your information to other carefully selected companies whose offers may be of interest to you. If you do not wish to receive offers from either RD or other companies, please [click here](http://www.readersdigest.co.uk/contact-us-i-6.html) to contact us.
 
  **THIRD PARTY ADVERTISEMENTS AND COOKIES**
 
