@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413140342id_/http%3A//www.confirmit.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723202059id_/http%3A//www.confirmit.com/privacy-statement.aspx) for the most accurate reproduction.*
 
-# Confirmit - Software for Customer Feedback, Employee Feedback, Market Research Applications
+# Privacy Statement
 
 Your privacy is important to Confirmit. This statement discloses the information practices for Confirmit Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
