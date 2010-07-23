@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelclub.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328030759id_/http%3A//www.hotelclub.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelclub.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723162906id_/http%3A//www.hotelclub.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,5 +34,4 @@ This policy may be revised from time to time, as new features are added to the s
 
 **CUSTOMERS** \- Please **DO NOT** submit booking enquiries to the above email address, as they will not be answered. If you have a question about an existing or new booking, please go our [Customer Service Center](https://web.archive.org/CustService.asp). 
 
-  
-
+Partner Sites: Away.com| Gorp.com| Outsideonline.com| Cheaptickets.com| Ebookers.com| Neatgroup.com| Orbitz.com| Trip.com| Lodging.com| RatesToGo.com
