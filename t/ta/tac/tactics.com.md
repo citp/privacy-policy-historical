@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tactics.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526225326id_/http%3A//www.tactics.com/info/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactics.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723135231id_/http%3A//www.tactics.com/info/security-privacy) for the most accurate reproduction.*
 
 # Secure Shopping
 
