@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iqnavigator.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523180348id_/http%3A//iqnavigator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqnavigator.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723113830id_/http%3A//iqnavigator.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « IQNavigator – Gain Visibility and Control over Contingent Labor and Outside Services
+# Privacy Policy | IQNavigator - Gain Visibility and Control over Contingent Labor and Outside Services
 
 ## Background
 
