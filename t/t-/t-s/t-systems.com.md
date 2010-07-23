@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-systems.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526185319id_/http%3A//www.t-systems.com/tsi/en/28650/Metanavigation/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-systems.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723161813id_/http%3A//www.t-systems.com/tsi/en/28650/Metanavigation/PrivacyPolicy) for the most accurate reproduction.*
 
 # T-Systems: Privacy Policy
 
@@ -33,7 +33,7 @@ To protect your personal data saved by us against unauthorized access and misuse
 Please direct any questions, suggestions or specific requests to change, freeze or delete your personal data to T-Systems or, if known, directly to the company concerned. 
 
 Data Protection Officer:  
-Telekom Deutschland GmbH   
+Deutsche Telekom AG  
 Konzerndatenschutz / Group Privacy   
 Konzernbeauftragter für den Datenschutz / CPO   
 Dr. Claus-Dieter Ulmer  
