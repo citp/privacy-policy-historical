@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2010-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100313003829id_/http%3A//www.hotelclub.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723162906id_/http%3A//www.hotelclub.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Unless otherwise prohibited by law or our contractual obligations, we may disclo
 Like most web sites, there is certain information we automatically track, including the URL that you just came from, the browser you are using and your IP address. This data is utilised to improve the services of HotelClub and does not include any personally identifying information.
 
 **How to access or correct your information**  
-At any time, HotelClub members can view and/or update all the information in their member profile. To do so, login on the [Membership Homepage](https://web.archive.org/membership.asp) and click on "Update Profile" to view and/or make the required changes. Should you wish to cancel your membership with HotelClub, simply notify us by sending an email to [customer_service@HotelClub.net](mailto:customer_service@HotelClub.net?subject=Request%20to%20Cancel%20Membership). 
+At any time, HotelClub members can view and/or update all the information in their member profile. To do so, login on the [Membership Homepage](https://web.archive.org/membership.asp) and click on "Update Profile" to view and/or make the required changes. Should you wish to cancel your membership with HotelClub, simply notify us by sending an email to [customer_service@HotelClub.com](mailto:customer_service@HotelClub.com?subject=Request%20to%20Cancel%20Membership). 
 
 **Our commitment to data security**  
 While being transmitted over the Internet, your credit card details are protected using SSL (Secure Socket Layer) encryption. Credit card details are only used to pay for accommodation booked through our service. These details are stored securely at all times, are not used for any other purpose and will never be provided to any unauthorised third parties.
@@ -30,9 +30,8 @@ We may, from time to time, use "cookies" to store your preferences, record sessi
 We at HotelClub work hard to provide our clients with the best possible rates in all our hotels. From time to time, we will send our members newsletters, updates and specials for hotels in certain areas. You will only receive this correspondence if you have chosen to do so and we hope that you will find these items informative and useful. However, should you choose to not receive them in the future, you will have the ability to unsubscribe from the mail database by clicking on the Unsubscribe link at the bottom of each email.
 
 **How to contact us**  
-This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of HotelClub or would like more information, please contact us on [privacy@HotelClub.net](mailto:privacy@HotelClub.net). We will attempt to respond to all reasonable concerns or inquiries within three business days of receipt. 
+This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of HotelClub or would like more information, please contact us on [privacy@HotelClub.com](mailto:privacy@HotelClub.com). We will attempt to respond to all reasonable concerns or inquiries within three business days of receipt. 
 
 **CUSTOMERS** \- Please **DO NOT** submit booking enquiries to the above email address, as they will not be answered. If you have a question about an existing or new booking, please go our [Customer Service Center](https://web.archive.org/CustService.asp). 
 
-  
-
+Partner Sites: Away.com| Gorp.com| Outsideonline.com| Cheaptickets.com| Ebookers.com| Neatgroup.com| Orbitz.com| Trip.com| Lodging.com| RatesToGo.com
