@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payscroll.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523161515id_/http%3A//www.payscroll.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscroll.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723134116id_/http%3A//www.payscroll.com/static/privacy_policy) for the most accurate reproduction.*
 
 # PayScroll.com - Discover Your Worth!
 
