@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230072046id_/http%3A//www.nuvox.com/Legal/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvox.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723140514id_/http%3A//business.windstream.com/Legal/privacyPolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Legal | NuVox
+# Privacy Policy | Legal | Windstream
+
+NuVox is now part of Windstream 
 
 **Effective Date: October 22, 2009**
 
@@ -39,7 +41,7 @@ NuVox is committed to your privacy. This Privacy Policy describes the types of i
 
   * Subject to any legal restrictions on our use of CPNI and your instructions to us, NuVox or its Service Providers may use the information we collect from and about you for any of the following purposes:  (1) to fulfill orders, provide service and communicate with customers; (2) to develop new products or services; (3) to respond to your inquiries; (4) to provide you with targeted offers and advertising on the Site; (5) to contact you with information and promotional materials from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (6) to contact you when necessary; (7) to review the usage and operations of our Site and services; (8) to address problems with the Site, our business or our products and services; and (9) to protect the security or integrity of the Site and our business.  We may also use your information as described to you at the point of collection, with your opt-in or opt-out consent.  If you would like to restrict the use of your personal information for marketing purposes, you may the unsubscribe function included in every marketing email.
   * We use and disclose your credit card information only to process payments and prevent fraud.
-  * NuVox may use your CPNI to offer you additional services of the type you already purchase from NuVox.  We may also use your CPNI to offer you other NuVox products and services, packages, discounts and promotions, which may be different from the types of services you already purchase.  If you would like to restrict the use of your CPNI for the marketing of certain products and services, you may contact us my phone or in writing.  Our contact information is available at <http://www.nuvox.com/Support/index.php>.  When making such a request, please be sure to reference the customer name as shown in the billing invoice, the account number(s) you wish restricted and the billing address(es) associated with the account(s) in question.  Restricting use will not eliminate all NuVox marketing contacts.
+  * NuVox may use your CPNI to offer you additional services of the type you already purchase from NuVox.  We may also use your CPNI to offer you other NuVox products and services, packages, discounts and promotions, which may be different from the types of services you already purchase.  If you would like to restrict the use of your CPNI for the marketing of certain products and services, you may contact us my phone or in writing.  Our contact information is available at <http://business.windstream.com/Support/index.php>.  When making such a request, please be sure to reference the customer name as shown in the billing invoice, the account number(s) you wish restricted and the billing address(es) associated with the account(s) in question.  Restricting use will not eliminate all NuVox marketing contacts.
 
 
 
