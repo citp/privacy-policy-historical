@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eshipglobal.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523022359id_/http%3A//www.eshipglobal.com/Home/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eshipglobal.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724150147id_/http%3A//www.eshipglobal.com/Home/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Welcome To eShipGlobal
 
