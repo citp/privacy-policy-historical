@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funslol.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524004011id_/http%3A//funslol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funslol.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724095027id_/http%3A//www.funslol.com/privacy) for the most accurate reproduction.*
 
 # funslol.com Privacy Policy
 
