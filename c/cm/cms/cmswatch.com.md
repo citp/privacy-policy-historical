@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmswatch.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623010324id_/http%3A//www.cmswatch.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmswatch.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724201139id_/http%3A//www.cmswatch.com/Privacy) for the most accurate reproduction.*
 
 # CMS Watch > Privacy Policy
 
