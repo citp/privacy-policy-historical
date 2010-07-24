@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpbb88.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328042639id_/http%3A//www.phpbb88.com/free-forums-hosting-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbb88.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724055130id_/http%3A//www.phpbb88.com/free-forums-hosting-privacy-statement.html) for the most accurate reproduction.*
 
 # Discussion Forum - Free Forums Hosting
 
