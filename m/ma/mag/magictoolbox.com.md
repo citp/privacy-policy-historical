@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magictoolbox.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828044525id_/http%3A//www.magictoolbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magictoolbox.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724175617id_/http%3A//www.magictoolbox.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Magic Toolbox
+# Magic Toolbox - Privacy Policy
 
 Magic Toolbox takes your privacy seriously. This Privacy Policy explains what we do with the information collected through your use of this website.
 
@@ -47,3 +47,15 @@ Upon your request, we will provide you with a summary of the information we coll
 ### Contact Us
 
 If you have any questions about this policy or our site in general, please [contact us](https://web.archive.org/contact/).
+
+### Payment
+
+Pay by credit card or bank transfer, then download your product.
+
+### 100% Support
+
+30 minutes free technical [support](https://web.archive.org/support/).
+
+### Guarantee
+
+30 day money-back [guarantee](https://web.archive.org/guarantee/).
