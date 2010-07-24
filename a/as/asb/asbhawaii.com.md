@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asbhawaii.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615172147id_/http%3A//www.asbhawaii.com/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asbhawaii.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724063141id_/http%3A//www.asbhawaii.com/global/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | American Savings Bank
 
@@ -7,7 +7,7 @@
 At American Savings Bank, we value your business and the trust you placed in us to protect personal information about you and your finances. To help you better understand how we protect your personal information, we provide the following Privacy Policies. They describe the privacy protection and policies with respect to your personal information pursuant to the Federal Financial Privacy Law.
 
   * American Savings Bank Privacy Policy†
-  * To get information about what you can do to protect your privacy, [click here](https://web.archive.org/web/20100615172147id_/http%3A//www.asbhawaii.com/global/security-safety)
+  * To get information about what you can do to protect your privacy, [click here](https://web.archive.org/web/20100724063141id_/http%3A//www.asbhawaii.com/global/security-safety)
 
 
 
@@ -19,7 +19,7 @@ It is our policy that all personal information about you will be held in the str
 
 
 
-If you have any questions about how we protect your privacy, feel free to [contact us](https://web.archive.org/web/20100615172147id_/http%3A//www.asbhawaii.com/about-asb/contact-us).
+If you have any questions about how we protect your privacy, feel free to [contact us](https://web.archive.org/web/20100724063141id_/http%3A//www.asbhawaii.com/about-asb/contact-us).
 
 ### Privacy Policy
 
