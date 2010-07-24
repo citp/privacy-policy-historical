@@ -1,61 +1,57 @@
-> *The following text is extracted and transformed from the xtendmedia.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821105843id_/http%3A//www.xtendmedia.com/about-xtend/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtendmedia.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724071628id_/http%3A//www.xtendmedia.com/index.php/About-XTEND/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Xtend Media, Inc., ("we", "us" or "XTEND MEDIA") has created this Privacy Policy in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering, use and dissemination practices solely for XTEND MEDIA’s Web Site located at www.xtendmedia.com (the "Web Site") BY USING THE WEB SITE, YOU SIGNIFY YOUR ASSENT TO OUR PRIVACY POLICY. 
+Xtend Global Media G.M. Ltd. (the " **Company** " or " **We** ") is committed to protect the privacy of its users. This Privacy Policy Statement (the " **Privacy Policy** ") explains the types of information We gather and/or process directly or on behalf of our, advertisers and publishers who use our services (our " **Clients** "). 
 
-**This Privacy Policy does not apply to any other web sites, products or services that are provided by or through XTEND MEDIA or its affiliates, including any such web sites, products or services that you may be linked to from this Web Site. You are strongly encouraged to read the privacy policies of each and every web site you visit.**
+**COLLECTING PERSONALLY IDENTIFIABLE INFORMATION**  
+" **Personally Identifiable Information** " means any information obtained by us directly or on behalf of our Clients in connection with your use of our services which might reasonably be used to specifically identify you and may include, among other, your name, title, company, address, email. To the extent Personally Identifiable Information has been collected from you, you acknowledge such collection is done on a voluntary basis to enable the Company to provide you efficient access to features, functions, promotions, products and services. 
 
-**TYPES OF PERSONAL AND NON-PERSONAL INFORMATION:**
+In addition, We collect information from you for the purpose of opening an account, billing payment and payment instruments from you for products and services you order or purchase from the Company. 
 
-We only collect Personally Identifiable Information ("Personal Information") on this Web Site when you voluntarily provide such information to XTEND MEDIA. Personal Information can be directly associated with a specific person or entity, such as name, title, company name, address, telephone number or email address. 
+**NON-PERSONAL INFORMATION**  
+We automatically, directly or on behalf of our Clients in connection with your use of our services, collect non-personal information such as IP addresses during your access and use of the Site to help diagnose problems with our server, and to identify ways of making our Site better. This information is not linked to anything personal. 
 
-When using the Web Site you may choose to send to us certain Personal Information about yourself in an email or by completing an online form. Visitors to the Web Site typically send us Personal Information when inquiring about our products or services, when asking a question about the Web Site, or when inquiring about potential job opportunities within XTEND MEDIA. 
+**USE OF GIDITAL IDENTIFIERS**  
+A digital identifier is information that a site puts on your hard disk so that it can remember something about you at a later time (more technically, it is information for future use that is stored by the server on the client side of a client/server communication, such as "cookies"). We automatically use 'digital identifiers' for tracking transactions, identification, security and the user characteristics as set forth herein. No Personally Identifiable Information is collected by use of digital identifier and We use the information collected through the use of such digital identifier to analyze trends, track movements and transactions, retargeting and behavioral targeting for example, in providing you with advertisements that are more relevant to your interests and in order to gather aggregate demographic information and to produce statistical analysis and reports for our benefit and for the benefit of our Clients (collectively the " **Non PII Purposes** "). 
 
-If you choose to send us certain Personal Information about yourself by submitting your resume, you authorize XTEND MEDIA to store your information and resume in the XTEND MEDIA recruitment database, currently located in the USA, for the purpose of assessing your suitability for current and future vacancies. If you do not want us to store your resume and/or your Personal Information, please indicate your preference clearly in the body of the email when sending your resume. 
+In addition We use various third party ad serving technology to serve ads (. As part of the ad delivery process, the third party ad serving party may a digital identifier on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other web sites to track how many people have seen it. These digital identifiers cannot be used to identify an individual; they can only be used for Non PII Purposes. 
 
-We also collect non-personally identifiable information ("Non-Personal Information") of visitors to this Web Site. Non-Personal Information cannot be used to identify anyone individually, and may include an individual’s IP host address, pages viewed, browser type, clickstream data, Internet Service Provider, and other non-personally identifiable information data. 
+**HOW DO WE USE THE COLLECTED INFORMATION**  
+We use the information collected by us or provided to us by the Client, as well as data that we collect on behalf of the Client, only for Non PII Purposes and do not include any Personally Identifiable Information. 
 
-We use cookies in connection with this Web Site. "Cookies" are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our Web Site, but it may interfere with some of its functionality. We do not use cookies to retrieve Personal Information from your computer. 
+**HOE DO WE STORE THE INFORMATION COLLECTED BY US**  
+All information collected by us or that that is provided by our Clients is stored in a database unique to each Client or website as may be applicable. We do not share data between or among our Clients. 
 
-We also use invisible tracking or counting devices known as "web bugs" to register that a particular web page has been viewed. A "web bug" is an electronic image, also known as a clear GIF or a single-pixel (1x1) that can recognize certain types of information on an individual's computer, such as an individual's cookie number, the time and date of a page view, and a description of the page where the web bug is placed. 
+**OPT OUT**  
+If you would like to disable the digital identifiers used by us or "third party" please follow the instructions detailed at [ http://xtendmedia.com/opt-out](http://xtendmedia.com/opt-out) Should you wish to disable the digital identifiers generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website provided such sites have instructions on how to do this or disable such digital identifiers manually in your browser. 
 
-**USAGE OF PERSONAL INFORMATION AND NON-PERSONAL INFORMATION:**
+**SECURITY**  
+We employ industry standard security measures to ensure the security of all data. Any data that is stored on our servers is treated as proprietary and confidential and is not available to the public. We maintain an internal security policy with respect to the confidentiality of your data, allowing access only to those employees or third parties who have a need to know such information. While We take measures to protect your information, please know that (i) no computer system is immune from intrusion; and (ii) information transmitted to the Site may need to pass through many systems in order to process such information. Therefore, We cannot guarantee the absolute security or confidentiality of information held by us. 
 
-If you send us your Personal Information when asking us a question about this Web Site and/or our products and services, we will use that Personal Information only for the purposes of answering your question. 
+**INFORMATION SHARING**  
+We may use the collected Personally Identifiable Information and non-personal information for any legally permissible purpose in our sole discretion, including but not limited to those detailed below: 
 
-If you send us your Personal Information when inquiring about potential job opportunities within XTEND MEDIA, you authorize us to store your information in the XTEND MEDIA recruitment database, currently located in the USA, for the purpose of assessing your suitability for current and future vacancies. If you do not want us to store your resume and/or your Personal Information, please indicate your preference clearly in the body of the email or web form when submitting your resume. 
+* We may share information We collect or provided to us with affiliated companies and Clients, for use in their ad serving and marketing programs as aforesaid on an individual basis with each Client and without sharing data and information between or among our various different Clients. 
+* We may share your information with various third party vendors that are not part of the Company. 
+* We may use third party service providers to enhance our database with additional elements of our services. 
 
-Unless disclosed otherwise at the time of collection or in this policy, we do not share any Personal Information you submit through our Web Site with any third party other than our employees and contractors, unless it is necessary to respond to your specific inquiry or request or to comply with applicable law. We will never sell your Personal Information to any third party not affiliated with XTEND MEDIA without your consent, except in connection with the sale or merger of XTEND MEDIA or a division of XTEND MEDIA. 
+**THIRD PARTY LINKS**  
+Other websites have their own terms of use and privacy and security policies. If you choose to visit or interact with any such sites, you should review the policies that govern that particular site. We assume no liability for the policies of any such site. 
 
-We may use and share Non-Personal Information to improve and enhance your experience on the Web Site and for our market research activities. For example, we may share Non-Personal Information with unaffiliated third parties, such as business partners, advertisers, distributors and resellers, in an aggregate, anonymous form, which means that the shared information will not contain nor be linked to any Personal Information. 
+**PERMITTED DISCLOSURES**  
+Other than as described in this Privacy Policy or as otherwise specifically communicated to you by Company, Company does not provide information supplied by users to any third parties, except where law, court order, or governmental authority requires or based upon the good faith belief that disclosure is necessary including, without limitation, to protect the rights of Company when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or causing harm to third parties. 
 
-**CHANGES TO THIS POLICY:**
+**REVISION**  
+Company may alter, update or otherwise change this Privacy Policy at any time to reflect material changes in the way Company uses your information. Any such changes will be posted on this page. You should periodically check this Privacy Policy to review the current terms and guidelines applicable to your use. Your continued use of the Site following the posting of such changes will indicate your full acceptance of those changes. 
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. We will post such changes at www.xtendiamedia.com/privacy. Your continued use of this Web Site following the posting of any changes to this policy means you accept such changes. 
+**UPDATING YOUR PERSONAL INFORMATION**  
+At any time, you can access and correct your personal information and privacy preferences by sending an e-mail to displayEmail() [info@xtendmedia.com](mailto:info@xtendmedia.com). To the extent permissible under the applicable law, you may occasionally receive e-mail messages from us as described in Section 1 above. If you would prefer not to receive these messages you may opt out by following the instructions within the e-mail message or by contacting us. **ISRAELI LAW REQUIRES PRIOR APPROVAL TO EMAIL SPAMMING.**
 
-**PROTECTION FOR CHILDREN:**
+**CONTACT US**  
+If you have questions about this Privacy Policy, please send an e-mail to displayEmail() [info@xtendmedia.com](mailto:info@xtendmedia.com). If you believe that we have not complied with this Privacy Policy with respect to your personal information or you have other related inquiries or concerns, you may write to Company at the following address:  
+YOU ACKNOWLEDGE AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE GENERAL TERMS AND CONDITIONS BETWEEN YOU AND THE COMPANY AND THIS SITE (INCLUDING LIMITATIONS ON DAMAGES). 
 
-We have no intention of collecting Personal Information from children under the age of 13. When we become aware that personal information from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such information from our database. 
+**EFFECTIVE DATE:**
 
-**COMMUNICATIONS WITH XTEND MEDIA; REMOVAL OF PERSONAL INFORMATION:**
-
-If you voluntarily choose to provide your email address to XTEND MEDIA, we may use your email address to respond to your specific question or request. If you receive an unwanted email from us, you can simply reply and ask not to receive future emails or send us an email at [info@xtendmedia.com](mailto:info@xtendmedia.com) and request that your email address not be retained. We are not responsible for removing your Personal Information from the lists of any third party who has previously been provided your information in accordance with this policy. 
-
-**SECURITY:**
-
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
-
-If you have any questions about security on our XTEND MEDIA Site, you can email our Privacy Officer at [info@xtendmedia.com](mailto:info@xtendmedia.com). 
-
-**DISCLOSURE**
-
-We reserve the right to disclose your Personal Information as required by law, when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order, or legal process served on XTEND MEDIA. 
-
-**UNITED STATES OF AMERICA** **:**
-
-Our Web Site is maintained in the United States of America. By using the Web Site, you authorize the export of personal information to the USA and its storage and use as specified in this policy. 
-
-**CONTACT:**
-
-If you have a question or concern relating to your privacy on this Web Site, please see our contact information below: 
+This privacy policy is effective and was last updated on March 10, 2010 
