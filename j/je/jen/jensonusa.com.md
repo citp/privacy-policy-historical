@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209225143id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725075543id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
 
 # JensonUSA.com - Your Mountain & Road Bike online parts supplier!
 
