@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotterywest.wa.gov.au privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304122629id_/http%3A//www.lotterywest.wa.gov.au/about-us/contact-us/743) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterywest.wa.gov.au privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725223716id_/http%3A//www.lotterywest.wa.gov.au/about-us/contact-us/743) for the most accurate reproduction.*
 
 # Legal — Lotterywest
 
