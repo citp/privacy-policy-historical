@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getads.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623145203id_/http%3A//www.getads.com/index-5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getads.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725111109id_/http%3A//www.getads.com/index-5.html) for the most accurate reproduction.*
 
 # GetAds Affiliate Sign Up
 
