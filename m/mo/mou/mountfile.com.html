@@ -1,0 +1,334 @@
+<!--The following is the downloaded HTML source of the mountfile.com privacy policy that was archived on 2010-07-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100726010332id_/http%3A//www.mountfile.com/user/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>MountFile.com - Free File Hosting and Sharing, Permanently Save </title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="description" content="File Hosting, Free File Hosting, Forever Profit Share, Free 20GB Storage, Permanently Save, Downloading Earn, Unlimited Downloading Speed and Bandwith ">
+	<meta name="keywords" content="File Hosting | Free File Hosting | Permanently Save | Unlimited Downloading Speed and Bandwidth | Netdrive | Internet Drive | Earn from Internet Dive | Internet Earn | Download and Earn | Forever Profit Share ">
+
+
+	<style type="text/css">@import url( /templates/default/styles/main.css );</style>
+	<script type="text/javascript" src="/templates/default/js/jquery.js"></script>
+	
+</head>
+
+<body class="body">
+<!--<script language="javascript">
+	if(navigator.userAgent.indexOf('linux') != -1)
+	{
+		if($.browser.mozilla)
+			$("body").append('<style type="text/css">'@import url( /templates/default/styles/linux_firefox.css );'</style>');
+		else if($.browser.opera)
+			$("body").append('<style type="text/css">'@import url( /templates/default/styles/linux_opera.css );'</style>');
+	}
+</script>-->
+
+<div id="header">
+	<a href="http://www.mountfile.com/"><img src="/images/mountfile.jpg" class="logo" alt="MountFile.com"></a> 
+
+	<div id="login_box">
+		<form action="http://www.mountfile.com/view?module=user&amp;action=validateLogin" class="login" method="post" id="login_form">
+			<table class="tform">
+				<tbody><tr>
+					<td class="tright"><label>
+					Email:
+					</label></td>
+					<td colspan="2"><div class="pre_input"><input type="text" class="text" name="username" id="login_userid"></div></td>
+				</tr>
+				<tr>
+					<td class="tright" style="padding-bottom:3px; padding-top:0px;"><label>Password:</label></td>
+					<td colspan="2" style="padding-bottom:3px; padding-top:0px;"><div class="pre_input"><input type="password" class="text" name="password" id="login_password"></div></td>
+			  </tr>
+                <tr>
+              		 <td style="padding-bottom:3px; padding-top:0px;"></td>
+					<td style="padding-bottom:3px; padding-top:0px; line-height:10px;"><input name="remember" id="remember_checkbox" type="checkbox" class="check" checked="checked"> Remember me &nbsp;&nbsp;</td>
+					<td style="padding-bottom:3px; padding-top:0px;"><a href="/user/lostPassword.html" target="_blank">Lost Passward</a></td>
+                </tr>
+				<tr>
+					<td></td>
+					<td><button type="button" onclick="javascript:window.location.href='/user/insert/.html'">Register </button></td>
+					<td class="tright"><button type="submit">Sign in </button></td>
+				</tr>
+			</tbody></table>
+	  </form>
+	</div>
+	
+<!--zhu ye  cai dan -->
+	<div class="menu">
+		<div>
+		<ul id="main_menu">
+					<li class=" active first"><a href="http://www.mountfile.com/">Upload File</a></li>
+			<li class=""><a href="http://www.mountfile.com/user/insert.html">Register</a></li>
+			<li class=""><a href="http://www.mountfile.com/lasted/files/all.html">Latest Uploaded</a></li>
+			<li class=""><a href="http://www.mountfile.com/user/forPartners.html">For Partners</a></li>
+			<!--
+			<li class=""><a href="http://www.mountfile.com/user/top100.html">Top 100</a></li>
+			-->
+		</ul>
+			
+			<!--zhu ye sou suo kai shi  -->
+			<!--
+			<div id="lang" class="lang" >
+			   <div class="searchbox" ><span class="outline"></span>
+				   <form action="#" method="get" id="srchfrm" name="srchfrm">
+					  <input type="text" value="" class="f1" name="q" accesskey="S" title="ؼ">
+					  <input type="hidden" value="searchresults" name="page">
+					  <button title="" class ="srbbutton" type="submit"> </button>
+					</form>
+				</div>
+		   </div>
+		   -->
+
+<script language="javascript">
+
+	function change_language(language_id,refresh)
+	{
+		if(language_id==15){
+			document.getElementById("language_img").style.backgroundPosition="-1px -148px";
+			setCookie("language","zh_cn");
+			if(refresh){
+				window.location.reload();			
+			}
+
+
+		}else{
+			document.getElementById("language_img").style.backgroundPosition="-1px -1px";
+			setCookie("language","en_us");
+			if(refresh){
+				window.location.reload();			
+			}
+		}
+	
+	}
+
+
+function language_img_onclick (){
+
+	var lang = $('#lang');
+	if (lang.hasClass('show_lang'))
+			lang.removeClass('show_lang');
+	else
+		lang.addClass('show_lang');
+
+	document.onmouseup = function (e)
+	{
+		$('#lang').removeClass('show_lang')
+	}
+
+}
+var oldActiveMenu;
+
+function active_menu(url){
+	var mainMenu = document.getElementById("main_menu");
+	var menus = mainMenu.getElementsByTagName("a");
+	var menu;
+	if(!url) url = window.location.href;
+	var currUrl = url;
+	oldActiveMenu = menus[0];
+	for (var i=0; i<menus.length; i++) {
+		menu = menus[i];
+		if(currUrl==menu.href){
+			menu.parentNode.className = "active";
+			if(i==0) 
+				menu.parentNode.className = "active first";
+			if(menu!=oldActiveMenu){
+				oldActiveMenu.parentNode.className = "";
+				if(menus && oldActiveMenu==menus[0])
+					oldActiveMenu.parentNode.className = "first";
+			}
+			oldActiveMenu = menu;
+			break;
+		}
+	}
+}
+var oldActiveSubMenu;
+function active_submenu(){
+	var subMenu = document.getElementById("sub_menu");
+	if(!subMenu) return;
+	var menus = subMenu.getElementsByTagName("a");
+	var menu;
+	var currUrl = window.location.href;
+	oldActiveSubMenu = menus[0];
+	for (var i=0; i<menus.length; i++) {
+		menu = menus[i];
+		if(currUrl==menu.href){
+			menu.parentNode.className = "active";
+			if(i==0) 
+				menu.parentNode.className = "active first";
+			if(menu!=oldActiveSubMenu){
+				oldActiveSubMenu.parentNode.className = "";
+				if(oldActiveSubMenu==menus[0])
+					oldActiveSubMenu.parentNode.className = "first";
+			}
+			oldActiveSubMenu = menu;
+			break;
+		}
+	}
+}
+active_menu();
+</script>
+
+<!--
+		<div class="lang" id="lang">
+		<img id="language_img" onclick ="language_img_onclick();" alt="" class="lngen" src="/templates/default/images/blank.gif">
+
+	
+
+			<div id="lang_list">
+			
+			<p onclick="change_language(1,true)" class="lngen"></p>
+			<p onclick="change_language(2,true)" class="lngde"></p>
+			<p onclick="change_language(3,true)" class="lngfr"></p>
+			<p onclick="change_language(18,true)" class="lngpt"></p>
+			<p onclick="change_language(19,true)" class="lngbr"></p>
+			<p onclick="change_language(4,true)" class="lnges"></p>
+			<p onclick="change_language(5,true)" class="lngno"></p>
+			<p onclick="change_language(6,true)" class="lngnl"></p>
+			<p onclick="change_language(7,true)" class="lnggr"></p>
+			<p onclick="change_language(8,true)" class="lngfi"></p>
+			<p onclick="change_language(9,true)" class="lngit"></p>
+			<p onclick="change_language(10,true)" class="lngcz"></p>
+			<p onclick="change_language(11,true)" class="lngpl"></p>
+			<p onclick="change_language(12,true)" class="lngru"></p>
+			<p onclick="change_language(20,true)" class="lnghr"></p>
+			<p onclick="change_language(16,true)" class="lngsk"></p>
+			<p onclick="change_language(13,true)" class="lngtr"></p>
+			<p onclick="change_language(14,true)" class="lngjp"></p>
+			
+			<p onclick="change_language(15,true)" class="lngcn"></p>			
+
+			</div>
+		</div>-->
+		</div>
+	</div>
+
+
+<script language="javascript">
+function setCookie(name,value)
+{
+    var Days = 30;
+	var exp  = new Date();
+    exp.setTime(exp.getTime() + Days*24*60*60*1000);
+    document.cookie = name + "="+ escape (value) + ";path=/;domain=mountfile.com;expires=" + exp.toGMTString();
+	
+
+}
+
+function getCookie(name)
+{
+    var arr = document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
+     if(arr != null) return unescape(arr[2]); return null;
+
+}
+function delCookie(name)
+{
+    var exp = new Date();
+	var Days = 90;
+    exp.setTime(exp.getTime() - Days*24*60*60*1000);
+    var cval=getCookie(name);
+    if(cval!=null) document.cookie= name + "="+cval+";expires="+exp.toGMTString();
+}
+
+function loadUserLanguage(){
+	var language =  "en_us";
+	if(language =="zh_cn"){
+		change_language(15,false);
+	}else{
+		change_language(1,false);
+	}
+}
+//loadUserLanguage();
+</script>
+<!--
+<div class="gonggao">
+	<p   class="dongtai">
+	Message:
+	</p>
+</div>
+<br>
+-->
+
+</div>
+<div id="main">
+	<div class="bb"><div class="lt"><div class="rb"><div class="rt"><div class="lb">
+<div class="page">
+	
+
+
+<h2>MountFile.com Privacy policy </h2>
+<br>
+
+<h3>Commitment</h3>
+MountFile.com provider of online storage and web hosting services offering free and affordable premium online storage capacity. This Privacy Policy is intended to inform you of MountFile.com's policies and practices regarding the collection, use and disclosure of any Personal Information you submit to us through our website.
+
+MountFile.com ("us" or "we") respects the privacy of the visitors to its website. MountFile.com may update this policy from time to time. We will notify you about significant changes by placing a prominent notice on this page and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+<h3>Registering IP addresses</h3>
+For each visitor, our web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used identify our visitors.
+
+<h3>Collecting e-mail addresses</h3>
+Our service collects email addresses belonging to senders and receivers for the purpose of logging and measuring usage. MountFile.com does not rent, sell, or share personal information about you with nonaffiliated companies.
+
+<h3>Certain exceptional disclosures</h3>
+We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. The disclosure of personal information may be required by court or law enforcement officials.
+
+<h3>Using cookies</h3>
+MountFile.com uses cookies to store the preferences and tracking trends of users. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie.
+
+<h3>File transfer security</h3>
+We accept all the possible security measures on our servers in order to prevent the loss of data, inaccurate use of information, as well as file damage. Files saved for transferring are available for viewing only to MountFile.com representatives or via the link that is given to the user who uploaded the file. Files saved on our server are deleted automatically after a certain period of time.
+
+<h3>Credit card security</h3>
+All purchases on MountFile.com are handled by a third party payment systems: PayPal.com, Plimus.com, SegPay.com. MountFile.com does not arrange and/or save numbers or any information from your credit cards.
+
+<h3>Advertising through intermediaries</h3>
+Ads on our website are presented by advertising intermediaries. These companies may use information concerning your visiting our website and other web pages (excluding your personal info, such as name, address, email address and phone number) with the purpose of advertising products and services that would interest you most as a perspective customer.
+
+<h3>Third party cookies</h3>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+<h3>External links</h3>
+If any part of the MountFile.com website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information.
+
+<h3>Contact information</h3>
+Should you have any questions or concerns regarding this Privacy Policy, please contact us. 	</div>
+
+	</div></div></div></div></div>
+</div>
+
+<!--zhu ye di bu  -->
+<div id="footer">
+	<span class="copy">@ 2009-2012 MountFile.com. Copyrights Reserved.</span>
+	<ul>
+		<li><a href="http://www.mountfile.com/user/terms.html">Terms &amp; Conditions</a></li>
+		<li><a href="http://www.mountfile.com/user/privacy.html">Privacy Policy</a></li>
+<!--		<li><a href="http://www.mountfile.com/user/sla.html">SLA</a></li>-->
+		<li><a href="http://www.mountfile.com/user/copyright.html">Copyright</a></li>
+<!--		<li><a href="http://www.mountfile.com/user/faq.html">F&Q</a></li> -->
+		<li><a href="http://www.mountfile.com/user/support.html">Support</a></li>
+	</ul>
+</div>
+<div style="display: none;">
+<script language="javascript" src="http://count43.51yes.com/click.aspx?id=436266960&amp;logo=1" charset="gb2312"></script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=6047153; 
+var sc_invisible=1; 
+var sc_security="1d193e14"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="joomla counter"
+href="http://www.statcounter.com/joomla/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/6047153/0/1d193e14/1/"
+alt="joomla counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+</div>
+
+
+
+<script>
+	active_submenu();
+</script></body></html>
