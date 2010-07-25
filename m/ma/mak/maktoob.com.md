@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maktoob.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522002411id_/http%3A//www.maktoob.com/privacy_e.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maktoob.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725023110id_/http%3A//www.maktoob.com/privacy_e.php) for the most accurate reproduction.*
 
 # Privacy Policy -Yahoo! Maktoob
 
