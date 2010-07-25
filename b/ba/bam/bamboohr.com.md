@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bamboohr.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623081137id_/http%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamboohr.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725103435id_/http%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | BambooHR
 
