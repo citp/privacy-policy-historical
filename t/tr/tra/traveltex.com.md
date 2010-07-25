@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425052444id_/http%3A//www.traveltex.com/privacy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725202050id_/http%3A//www.traveltex.com/privacy-terms-of-use) for the most accurate reproduction.*
 
 # Privacy & Terms of Use - TravelTex.com
 
-[](https://web.archive.org/web/20100425052444id_/http%3A//www.traveltex.com/downloads/travel-guide/order-travel-guide)
+[](https://web.archive.org/web/20100725202050id_/http%3A//www.traveltex.com/downloads/travel-guide/order-travel-guide)
+
+[](https://web.archive.org/web/20100725202050id_/http%3A//www.traveltex.com/newsletter-signup)
 
 [](http://addthis.com/bookmark.php?v=250&pub=traveltex)
 
