@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2010-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100405233402id_/http%3A//onefinestay.com/doc/Privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725223640id_/http%3A//www.onefinestay.com/doc/13/%3Fref%3Dfoot) for the most accurate reproduction.*
 
 # onefinestay - the unhotel
 
