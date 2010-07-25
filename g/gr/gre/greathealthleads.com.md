@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greathealthleads.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126020349id_/http%3A//www.greathealthleads.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greathealthleads.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725210303id_/http%3A//www.greathealthleads.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Secure & Believable Privacy Policy Of Great Health Leads
 
