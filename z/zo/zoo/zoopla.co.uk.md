@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zoopla.co.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610063119id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoopla.co.uk privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725142758id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
-# Zoopla! Privacy policy
+# Zoopla Privacy policy
 
 ## Our commitment to you
 
-Zoopla Ltd ('Zoopla!') respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Ltd.
+Zoopla Ltd ('Zoopla') respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Ltd.
 
 ## Information we collect
 
@@ -27,7 +27,7 @@ We may share with third parties aggregate information or information that does n
 
 ## Communicating with you
 
-If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyZoopla!](https://web.archive.org/myzoopla/).
+If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyZoopla](https://web.archive.org/myzoopla/).
 
 ## Third parties
 
