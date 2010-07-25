@@ -1,104 +1,61 @@
-> *The following text is extracted and transformed from the newsmaxhealth.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131055941id_/http%3A//www.newsmax.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmaxhealth.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725055842id_/http%3A//www.newsmax.com/PrivacyStatement) for the most accurate reproduction.*
 
-# Newsmaxhealth.com - Health, fitness and medical advice
+# Newsmax - Newsmax.com - Privacy Statement
 
-|  |  |  |  |  |   
----|---|---  
-  |  |   
----  
-  
-If you have questions or concerns regarding this statement, you should first contact our Webmaster by email by [clicking here](http://w3.newsmax.com/emailform.cfm?recipient=Webmaster).
+**August 1, 2009**
 
-Newsmax.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website, Newsmax.com. 
+This Privacy Policy (the "Privacy Policy") and other policies which may be posted on this website (the "Site"), such as Terms and Conditions of Use ("Terms and Conditions") and, if you purchase, enroll in or subscribe to any of the services, products or materials provided by Newsmax Media, Inc., Newsmax.com or any of our affiliates on this Site ("Newsmax"), those purchase, enrollment or subscription terms (the "Other Agreements"), together govern your use of this Site. ALL OF THE AFORE-MENTIONED GOVERN YOUR USE OF THE SITE EVEN IN THE EVENT YOU ARE ACTING AS AN EMPLOYEE, AGENT, REPRESENTATIVE OR CONTRACTOR ON BEHALF OF ANY OTHER ENTITY OR PERSON. BY USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF OUR PROCESSING YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE SITE. YOUR CONTINUED USE OF THE SITE INDICATES TO US THAT YOU HAVE READ AND AGREE WITH OUR PRIVACY POLICY AND THAT YOU ACCEPT ANY CHANGES THERETO, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED EITHER THE POLICY OR ANY CHANGES THERETO. If you have any questions or concerns regarding this Privacy Policy, please contact: 800-485-4350.
 
-Newsmax.com offers a "Send to Friend" feature that allows readers to forward articles to their friends. This utility does not retain or store the e-mail addresses users enter into the form. Use of this feature is completely anonymous.
+This Privacy Policy explains how we collect your Personal Data (as defined below) on the Site, how we protect such data, and the choices you have concerning our use of such data. Please read this Privacy Policy carefully. This Privacy Policy represents our current (as of the date first written above) data collection and usage practices. Newsmax will from time to time review and revise these practices. We will post any changes to this Privacy Policy here. Please refer back to this Privacy Policy on a regular basis. For the purposes of this Privacy Policy, "Newsmax", "we", "us", and "our" means Newsmax and its affiliates.
 
-From time to time Newsmax.com will offer a survey in regards to a current news topic. We may request your email address, but this is only used to limit multiple same user entries. These email addresses are not utilized in any other way nor can your vote be matched with your email address or any other user data.
+This Privacy Policy applies only to information collected by the Site. We are not responsible for the privacy of any information (i) that you reveal or post in any public forum that may be or in the future become available on the Site (e.g., message board or chat room), (ii) that is available now to the general public through no action or fault of Newsmax, or (iii) that Newsmax receives from any third party reasonably known to have a legal right to transmit such information and under no obligation to keep such information confidential. We are also not responsible for the privacy practices of websites that are operated or owned by third parties.
 
-Newsmax.com gathers information about users from data that is provided through optional, voluntary registrations, order forms, occasional online surveys, certain contests and sweepstakes, and data Newsmax.com gathers through aggregating tracking information derived mainly by tallying page views and hits throughout our site. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our audience. Because Newsmax.com derives much of its revenues from advertising, providing such aggregated demographic data is essential to keeping our service free to users. 
+**Collection of Personal Data**  
+Personal data is information that identifies you or can be used to identify or contact you, e.g. your name, e-mail address, postal address, or phone number ("Personal Data"). Newsmax requests Personal Data from you when you register for news alerts on the Site. The registration process requests that you provide your name and e-mail address, and agree to the terms and conditions and, should there be any, the Other Agreements, presented at the time of registration. Newsmax requests additional Personal Data from you when you enroll in, subscribe to or agree to purchase any of our paid goods and services, or register for news alerts on the Site. That process requests that you provide your name, e-mail address, postal address, phone number, credit or bank card or other form of payment, and agree to the terms and conditions and, should there be any, the Other Agreements, presented at the time of enrollment, subscription or purchase. In addition to information collected during registration, enrollment, subscription or purchase, Newsmax may collect Personal Data knowingly provided by you in e-mails to the Site, online forms, order and registration forms, surveys, and contest entries. Providing this information is always at your option, although your failure to provide Personal Data in such instances may limit your ability to use such features of the Site.
 
-Newsmax.com does not rent to third parties our opt-in email lists. We do allow advertising, however, in our news emails. Newsmax Media does offer for rent postal files to third parties lists. These lists are comprised of both online and offline customers of Newsmax products. Customers may opt-out of such list offerings by [Clicking Here](http://w3.newsmax.com/emailform.cfm?recipient=Opt%20Out%20Request). 
+In all of these cases, we will collect Personal Data from you only if you voluntarily submit such information to us. Unless you give us permission to do so, we will not sell, share, license, trade or rent your Personal Data other than as specified in this Privacy Policy. We may, from time to time in emails, alerts or other mailings you have agreed to accept from us, include advertisements or offers from or information about third parties. This does not and will not mean that Newsmax endorses any specific products or services available from such third parties. Such materials from those third parties, regardless of their relationship with us, are provided merely for information purposes and users should make their own judgments and evaluation of any services or products available on any other web sites.
 
-This site contains links to other sites. Newsmax.com is not responsible for the privacy practices or the content of such Web sites. We encourage you to read the privacy statements of each and every web site that collects your personally identifiable information. 
+You do not have to provide us with any Personal Data to visit the Site. However, if you choose to withhold requested information, you may not be able to visit all sections or use all features of the Site.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good -faith that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+**Collection of Monitoring Data and Use of Tracking Tools**  
+In addition to Personal Data, Newsmax may collect and/or track information that by itself is not used to identify you personally or to contact you, e.g., demographic information, domain names, computer type, browser types, screen resolution, and other anonymous statistical data involving the use of the Site ("Monitoring Data"). We use Monitoring Data to help us understand who uses the Site and to improve and market it and Newsmax's other web sites.
 
-Newsmax.com gathers user information in the following processes: 
+To enhance the Internet experience on the Site, Newsmax may use various Internet technologies such as, without limitation, ‘cookies,' ‘action tags,' ‘web bug,' ‘.gif tags,' and ‘JavaScript' (together, "Tracking Tools"). Tracking Tools are files or tools that are placed on your computer in order to identify your Web browser and the activities of your computer on the Site. Newsmax uses these technologies to customize and enhance the Internet experience of individual users. When you revisit the Site, Newsmax may recognize you by a Tracking Tool and customize your experience accordingly. For example, once you have completed the registration process, a cookie will be used to avoid having you register again. You may decline Internet cookies, if any, by using the appropriate feature of your Web browser software, if available. If cookies are disabled, however, all features of the Site may not operate as intended. Information about the procedure you are required to follow in order to disable cookies can be found on your Internet browser provider's website.
 
-  * **Order forms**
-    * Our site uses an order form for customers to request information, products, and services. We collect visitor contact information and financial information (i.e. credit card numbers). 
-    * Newsmax.com has partnered with several affiliates to provide a wide range of products and services to our visitors. These include GTC.com. Please be aware when you make a purchase from these affiliates you link to their site. However they do collect all the users credit card and billing address for their purchase to be shipped by them. They are the sole collectors of this information, Newsmax does not have access to any personally identifiable information.
+We believe Tracking Tool technologies add value to the user experience, and the information obtained through these technologies is not sold or otherwise made available to third parties by Newsmax, other than as may from time to time be specified in this Privacy Policy.
 
+**Use of Data Collected**  
+Newsmax may use Personal Data and Monitoring Data it collects for editorial and feedback purposes, marketing and promotion, statistical analysis of users' behavior, product development, delivering products and services, providing customer support, customizing and improving the content and layout of the Site or other web sites of Newsmax, completing business transactions, administering individual accounts and meeting government regulatory requirements such as sales tax collection. Monitoring Data may be used for internal or external purposes such as researching and identifying market segments and needs. Newsmax may disclose your Personal Data to unaffiliated third parties if we believe in good faith that such disclosure is necessary (a) to comply with applicable laws, rules, or regulations, or to preserve Newsmax's legal rights in the Site's content, whether the same arises from contract or through force of law; (b) to provide you with any services, information, special offers, promotions or products you requested or consented to and to allow us to perform other activities related to such services and products; or (c) to operate this Site and other of Newsmax's systems properly. Newsmax may also share your Personal Data with a sponsor or other third party that is interested in serving you ("Third-Party Providers"). You may instruct us at any time not to share your Personal Data with such Third-Party Providers by contacting us in the manner provided under "Your Choices Regarding Personal Data Collection and Use". Please note that [this process may take up to [number of] days to complete][Newsmax makes no representation regarding the length of time this process may take, only that we will perform the update as soon as reasonably practicable].
 
-  * **Online surveys**
-    * Our occasional online surveys may ask visitors for contact information (i.e. email address) and demographic information (i.e. zip codes, age, income level, etc.) to better target our content to our audience. We sometimes share the aggregated demographic information with our advertisers and partners. 
+Newsmax is not responsible for any further use or disclosure of your Personal Data by Third-Party Providers; such use or disclosure is governed by the Third-Party Providers' privacy policies.
 
+Newsmax reserves the right to transfer Personal Data and Monitoring Data it collects to successors to the relevant portion of any of Newsmax's businesses, or to independent contractors it engages to assist with or perform on Newsmax's behalf any of the foregoing activities. Also, if Newsmax's assets are subject to a claim in bankruptcy, Personal Data and Monitoring Data may be an asset subject to the claims of a trustee in bankruptcy and may be available to Newsmax's creditors. In addition, Newsmax reserves the right to use Personal Data to contact you regarding your account status and changes to this Privacy Policy, the Terms and Conditions, Other Agreements (if applicable) or any other policies, agreements or transactions relevant to your use of the Site. Newsmax will take reasonable steps to maintain the integrity of the collected data so that it is reliable and appropriate for the foregoing uses.
 
-  * **Contests**
-    * We occasionally run contests and/or sweepstakes on our site in which we may ask visitors for contact information. The customer's contact information is used to contact the visitor when necessary. 
+**Your Choices Regarding Personal Data Collection and Use**  
+You may "opt-in" to having your Personal Data used by Newsmax to send promotional correspondence to you by checking the appropriate box when you register or by contacting Newsmax via telephone at the number above. Newsmax will not share any Personal Data with a third party without giving you the opportunity to "opt-in" and to give or deny us permission to share such Data. You may modify, correct, change or update Personal Data that Newsmax has collected via the Site or request that your Personal Data be removed from Newsmax's database by contacting Newsmax via the telephone number indicated above. If you have purchased products, including subscriptions, from us in the past, you may also request that your Personal Data be removed from Newsmax's database by contacting Newsmax via e-mail at customerservice@Newsmax.com, in addition to the telephone number. In any instance, our removal of such information may require you to register again with Newsmax in the event you later wish full access to the Site.
 
+You should be aware that it may not be technologically possible to remove or verify each and every record of information you have provided to us from our system. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personal Data may exist in archived systems. However, promptly after receiving your request, all Personal Data stored in databases we actively use and other readily searchable media will be updated, corrected, changed, deleted or confirmed to you, as appropriate, as soon as reasonably practicable.
 
-  * **Email alerts**
-    * Newsmax.com offers electronic newsletters to users. Newsmax.com gathers the email addresses of users who voluntarily subscribe. You may opt-out of receiving future electronic newsletters by sending an email to the address provided in each mailer. 
-    * Newsmax.com delivers newsletters, marketing and product offerings via email to registered recipients from our subscription center. 
+**Links**  
+The Site may contain links to other Internet websites maintained by third parties ("Other Sites"), either as a hyperlink or through a direct data feed accessed by you. Newsmax does not endorse, and is not responsible for, the privacy practices or the content of these websites. You should review the applicable privacy policies in connection with your use of such third party websites.
 
+BY ACCESSING OTHER SITES, YOU MAY SIGNIFY YOUR ACCEPTANCE OF THOSE SITES' PRIVACY POLICIES, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED THEM AND WHETHER OR NOT THEY DIFFER FROM THOSE OF NEWSMAX. IF YOU DO NOT AGREE TO THOSE PRIVACY POLICIES, YOU SHOULD NOT ACCESS THE LINK OR THE OTHER SITE. WE WILL NOT BE LIABLE TO YOU SHOULD ANY OTHER SITE VIOLATE ANY UNDERSTANDING WITH YOU CONTAINED THEREIN OR IN THIS AGREEMENT. YOUR CONTINUED USE OF THE OTHER SITE WILL MEAN THAT YOU AGREE THAT YOU SHALL HOLD US HARMLESS IN THE EVENT SUCH OTHER SITE VIOLATES ANY UNDERSTANDING WITH YOU CONTAINED THEREIN OR IN THIS AGREEMENT. 
 
-  * **Agents**
-    * **We use an outside fulfillment company to ship our magazine subscription, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.**
-  * **Security**
-    * This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-    * When our registration/order form asks you to enter your sensitive information (credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry, SSL. When you are on a secure page, such as our order form, you should notice that the lock icon on the bottom of your browser (Netscape Navigator and Microsoft Internet Explorer) becomes locked, as opposed to un-locked, or open, when you are just â€˜surfingâ€™. 
-    * While we use SSL encryption to protect your sensitive information online, we also do everything in our power to protect your information off-line. 
+**Security Measures**  
+Newsmax has established reasonable precautions to protect collected Personal Data from loss, misuse, unauthorized access, disclosure, alteration or destruction, which include contractual, administrative, physical, and technical steps. Technical measures include use of firewall protection and encryption technology where appropriate. Although Newsmax takes reasonable precautions to assess the reliability of such technology, it relies on the statements of the vendors of those products and services as part of its security evaluation. BY USING THE SITE, YOU ACKNOWLEDGE AND CONSENT TO THE FACT THAT NEWSMAX SHALL HAVE NO LIABILITY FOR FAILURES OF SUCH PRODUCTS AND SERVICES AND THAT YOU SHALL HAVE RECOURSE SOLELY AGAINST THE MANUFACTURERS OR VENDORS THEREOF. Please note that while Newsmax has endeavored to create a secure and reliable site for users, the confidentiality of any communication or material transmitted to/from Newsmax or the Site or via e-mail cannot be guaranteed.
 
-All of our customers' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform their job (for example, our billing clerk or a customer service representative) are granted access to your information. Each filing cabinet has a lock, and keys to the cabinets are themselves locked up at night.
+**Export of Personal Data**  
+By using the Site, you acknowledge and consent to the fact that Personal Data provided by you or collected by us through your use of the Site is stored and processed by us in the United States where data protection laws may not afford the same level of protection as those of the country in which you are located (this is the case for users located in the European Economic Area ("EEA")). You also acknowledge and consent to the fact that we may, at our discretion, store and process such data in other countries (including countries outside the EEA) where data protection laws or law enforcement systems, policies or professionals may not afford the same level of protection as those of the country in which you are located.
 
-Also, our employees must use password protected screen-savers, so that in the event they are away from their desks, no unauthorized personnel have access.
+Privacy Protections for Children Using the Internet
 
-Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected.
+Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide Personal Data or any other any personally identifiable information. If we discover that a child under 13 has provided us with Personal Data or any other personally identifiable information, we will delete that child's Personal Data or any other personally identifiable information from our records.
 
-If you have any questions about the security at our website, you can send an email to our [Webmaster](http://w3.newsmax.com/emailform.cfm?recipient=Webmaster).
+**Contact Information for Newsmax**  
 
 
+Questions or concerns regarding Newsmax's data protection practices should be addressed to: [**customerservice@newsmax.com**](mailto:customerservice@newsmax.com)
 
-  * **Usage tracking**
-    * Newsmax.com tracks user traffic patterns throughout our entire site. 
+If you choose to contact Newsmax via e-mail about this policy, please mark the subject heading of your e-mail "Privacy Inquiry."
 
-
-  * **Cookies**
-    * Newsmax.com uses cookies in some areas to allow access to registered users. The cookies are used only to store information to identify the user. Information is not web accessible and access to the information is restricted. If the user has cookies disabled in their browser, will we identify that user by their IP number.  
-
-    * Newsmax uses cookies as "shopping carts" in its online store at [http://www.newsmaxstore.com](http://www.newsmaxstore.com/). These cookies are used strictly to keep track of items selected for purchase. Without cookies enabled users will not be able to keep track of multiple purchases but may purchase items individually. These cookies are not tied to a user's personally identifiable information.  
-
-    * We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
-
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
-
-    * Newsmax.com works with various third parties to serve ads on our site. These ads may contain cookies. This policy only covers the use of cookies by Newsmax.com and does not cover the use of cookies by any advertisers. Newsmax.com does not have control over, nor access to the information contained in its advertisers' cookies To find out more about how our ad agencies manage the privacy of information in conjunction with serving ads on this site go to. 
-      * [Mamma.com](http://www.mamma.com/info/privacy.html)
-
-
-  * **Choice / Opt-out  
-**Our site provides users the opportunity to opt-out of receiving direct mail and/or electronic communications from us and our partners at the point where we request information about the visitor. This site gives the users the following options for removing their information from our database to not receive future electronic communications: 
-    * Follow the unsubscribe instructions included with each e-mail or [ **go here**](http://w3.newsmax.com/emails/profile/) and enter your email address to pull up your account info. You can then modify your settings or unsubscribe.
-    * To modify or unsubscribe from paid subscriptions, please contact our Customer Service Department by using the link in the email or [**go here**](http://www.newsmax.com/contact/). We ask that these requests go through Customer Service to ensure that we also cancel your billing.
-  * **Correct / Update**
-    * This site gives users the option for changing and modifying information previously provided. To do so, send an email to our [Webmaster](http://w3.newsmax.com/emailform.cfm?recipient=Webmaster).
-
-
-  * **Notification of Changes**
-    * This policy may be revised over time as new features are added to the web site. We will post those material changes prominently on our Web site so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If we are going to use usersâ€™ personally identifiable information in a manner different from that stated at the time of collection we will provide users with a choice as to whether or not we use their information in this different manner. Please check this site for information about revisions to our privacy policy.  
-
-  * **Contacting the Website**
-    * If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-
-Paula Pradines  
-Newsmax.com  
-PO Box 20989  
-West Palm Beach, FL 33416  
-[E-mail](http://w3.newsmax.com/emailform.cfm?recipient=Paula%20Pradines)
-
-
-  
-  
-   
-|  | 
+We shall keep a copy of this Privacy Policy and if, at any time, you would like to see a copy of it, you should write to the address above. 
