@@ -1,645 +1,553 @@
-<!--The following is the downloaded HTML source of the miningaustralia.com.au privacy policy that was archived on 2006-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618191034id_/http%3A//www.ferret.com.au/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miningaustralia.com.au privacy policy that was archived on 2010-07-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100725212544id_/http%3A//www.miningaustralia.com.au/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-		<title>ferret.com.au : Privacy Policy</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<link rel="stylesheet" type="text/css" href="style/newUI.css">
-	<script language="javascript">
-<!--
-	// SUBMITS SEARCH FROM LEFT HAND SIDE
-	function SubmitSearch()
-	{
-		var sURL;
-		var squ;
-		squ = document.frmSearch.txtSearchTerm.value;
-		sURL = '/search.asp?qu=' + escape(squ);
-		
-		if (squ.length >= 2)
-		{
-			window.location.href = sURL;
-		}
-		else
-		{
-			alert('Please enter a valid term to search on');
-			document.frmSearch.txtSearchTerm.focus();
-		}
-		return false;
-	}
-	
-	function SubmitInfoSearch()
-	{
-		var sURL;
-		var squ;
-		squ = document.frmSearchInfo.txtSearchInfoTerm.value;
-		sURL = '/searchinfo.asp?in=' + escape(squ);
-		
-		if (squ.length >= 2)
-		{
-			window.location.href = sURL;
-		}
-		else
-		{
-			alert('Please enter a valid term to search on');
-			document.frmSearchInfo.txtSearchInfoTerm.focus();
-		}
-		return false;
-	}
-	
-	function SubmitHomePageSearch()
-	{
-		var sURL;
-		var squ;
-		squ = document.frmHomePageSearch.txtSearchTerm.value;
-		sURL = '/search.asp?advanced=true&qu=' + escape(squ);
-		sURL = sURL + '&chkCompanyNames=' + document.frmHomePageSearch.chkCompanyNames.checked;
-		sURL = sURL + '&chkBrandNames=' + document.frmHomePageSearch.chkBrandNames.checked;
-		sURL = sURL + '&chkProductTypes=' + document.frmHomePageSearch.chkProductTypes.checked;
-		sURL = sURL + '&chkProductNews=' + document.frmHomePageSearch.chkProductNews.checked;
-		sURL = sURL + '&chkIndustryNews=' + document.frmHomePageSearch.chkIndustryNews.checked;
-		sURL = sURL + '&chkCompanyServices=' + document.frmHomePageSearch.chkCompanyServices.checked;
-		
-		if (squ.length >= 2)
-		{
-			window.location.href = sURL;
-		}
-		else
-		{
-			alert('Please enter a valid term to search on');
-			document.frmHomePageSearch.txtSearchTerm.focus();
-		}
-		return false;
-	}
-	
-	
-	// SUBMITS ENEWSLETTER FROM RIGHT HAND SIDE
-	function SubmitENewsletter()
-	{
-		var sEmailAddress;
-		var sURL;
-		sEmailAddress = frmENewsletter.strEmailAddress.value;
-		sURL = '/Enewsletter2.asp?action=2&strEmailAddress=' + sEmailAddress;
-	
-		if (isEmailAddress(sEmailAddress))
-		{
-			window.location.href = sURL;
-		}
-		else
-		{
-			alert('You must enter a valid email address');
-			frmENewsletter.strEmailAddress.focus();
-		}
-		return false;
-	}
-	
-	
-	function isEmailAddress(sIn) 
-	{
-		return (sIn.search(/\S@\S+\.\w/) > 0)
-	}
-	
-	
-	function EnewsletterSubmit()
-	{
-		var strEmailAddress;
-		strEmailAddress = document.frmENewsletter.strEmailAddress.value;
-		
-		if (isEmailAddress(strEmailAddress))
-		{
-			OpenWindow=window.open("/eNewsletter/EmailLink.asp?txtEmail=" + strEmailAddress + "&RegType=1","newwin","toolbar=no,location=no,directories=no,menubar=no,scrollbars=yes,resizable=1,width=650,height=250");
-		}
-		else
-		{
-			alert("You must enter a valid email address first.");
-		}
-		
-		return false;
-	}
-	
-	function CheckEmailAddressWithAlert(sIn) 
-	{
-		var blnReturnValue;
-		blnReturnValue = (sIn.search(/\S@\S+\.\w/) > 0)
-		
-		if (blnReturnValue == false) {alert('You must enter a valid email address');}
-		
-		return blnReturnValue
-	}
-	
-	function  WebsiteRedirect(url) 
-	{
-		window.open (url);
-		return false;
-	}
-//-->
-</script><script language="javascript">
-<!--
-	function LogMailToClick(intListingID,strRedirect) 
-	{
-		var strURL = "/clickthrough.asp?" + intListingID + "&redirect=" + strRedirect + "&referrer=" + escape(document.location.href);
-		window.open(strURL,"CLICKTHROUGH","toolbar=no,status=no,location=no,directories=no,menubar=no,width=1,height=1");
-	}
-	
-	function OpenInfoPage(strHead, PubElemID)
-	{
-		var strURL = "/correct_details.asp?strHeadingText=" + strHead + '&pubelemid=' + PubElemID;
-		var newwindow = window.open(strURL,"Details","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=400,height=380");
-	}
-//-->
-</script></head>	
-	
-	
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
-<!--include file="functions.asp"-->
+<title>
+	Privacy policy | Australian Mining
+</title><meta name="description" content="Reed Business Information Australia's privacy policy."> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+<meta http-equiv="pragma" content="no-cache"> 
+<meta http-equiv="content-style-type" content="text/css"> 
+<meta http-equiv="content-script-type" content="text/javascript"> 
+<link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=Empty"> 
+<link rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=ME" type="text/css">
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=Penguin_ie" type="text/css" />
+<![endif]-->
 
-	
+<script type="text/javascript" src="http://static.rbi.com.au/common/penguin/js/jquery.tools.min.js"></script>
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#cccccc">
-	<table width="780" border="0" cellspacing="0" cellpadding="0" id="Table1" align="center" bgcolor="white">
-		<!--Header-->
-		<tbody><tr>
-			<td width="7" valign="top" background="/images/back_03.jpg"><img src="/images/ferret_head_01aa.jpg" width="7" height="63" hspace="0" vspace="0"></td>
-			<td valign="top">
-				<table width="100%" border="0" cellpadding="0" cellspacing="0" background="/images/back_01.jpg" id="Table2">
-					<tbody><tr valign="top">
-						<td width="253"><a href="/default.asp"><img src="/images/ferret_head_01a.jpg" width="253" height="63" hspace="0" vspace="0" border="0"></a></td>
-						<td width="250" align="right"><img src="/images/ferret_head_02a.gif" width="216" height="63"></td>
-						<td background="/images/back_04.jpg"><img src="/images/ferret_head_01b.jpg" width="150" height="63"></td>
-					</tr>
-					<tr valign="top">
-						<td width="253" background="/images/back_05.jpg"><a href="/default.asp"><img src="/images/ferret_head_01c.jpg" width="253" height="32" hspace="0" vspace="0" border="0"></a></td>
-						<td align="right" background="/images/back_05.jpg">
-						<!--searchbox-->
-							<table width="250" border="0" cellspacing="0" cellpadding="0">
-								<form name="frmSearch" onsubmit="return SubmitSearch();" action="/search.asp?qu=" method="POST"></form>
-								<tbody><tr valign="top">
-								<td align="right">
-								<input type="text" name="txtSearchTerm"></td>
-								<td width="59"><input type="image" src="/images/go_01.gif" width="59" height="24" hspace="0" vspace="0" border="0" id="image1" name="image1"></td>
-								</tr>
-																
-							</tbody></table>
-						<!--end searchbox-->
-						</td>
-						<td background="/images/back_05.jpg">&nbsp;</td>
-					</tr>
-				</tbody></table>
-			</td>
-			<td width="6" valign="top" background="/images/back_02.jpg"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
-		</tr>
-		<!--End Header-->
-		<!--Body Content-->
-		<!--Main-->
-		<tr>
-			<td width="7" valign="top" background="/images/back_03.jpg"><img src="/images/spacer.gif" width="7" height="7" hspace="0" vspace="0"></td>
-			<td valign="top">
-				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr valign="top">
-						<td width="127" bgcolor="EDEDE8" valign="top">
-							<!--Left Main Menu-->
-							<table width="127" border="0" cellspacing="0" cellpadding="0" id="Table5">
-	<tbody><tr>
-		<td valign="top"><img src="/images/subhead_01a.jpg" width="127" height="23"></td>
-	</tr>
-	<tr>
-		<td align="center" valign="top">
-			<table width="115" border="0" cellspacing="0" cellpadding="3" id="Table6">
-				<tbody><tr>
-					<td valign="top"><a href="/default.asp" class="navlink"><b>Home</b></a></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td align="center" valign="top">
-			<table width="115" border="0" cellspacing="0" cellpadding="2" id="Table7">
-				<tbody><tr>
-					<td valign="top"><b><font class="ferrettext">Suppliers</font></b>
-							<br>
-							<a href="/Directory/" class="navlink">By Product Type</a>
-							<br>
-							<a href="/Companies/A" class="navlink">By Name</a></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td align="center" valign="top">
-			<table width="115" border="0" cellspacing="0" cellpadding="2" id="Table8">
-				<tbody><tr>
-					<td valign="top"><font class="ferrettext"><b>Products</b></font>
-							<br>
-							<a href="/product.asp" class="navlink">By Product Type</a></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td align="center" valign="top">
-			<table width="115" border="0" cellspacing="0" cellpadding="2" id="Table8">
-				<tbody><tr>
-					<td valign="top">
-						
-							<a href="/careers.asp" class="ferrettext"><b>Careers</b></a>
-							
-							
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" valign="top"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td align="center" valign="top"><img src="/images/subhead_01b.jpg" width="127" height="23"></td>
-	</tr>
-</tbody></table>
-								
-<table border="0" cellpadding="0" cellspacing="0" id="Table1" width="100%">
-	<tbody><tr>
-		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/electronics/">Electronics</a></td>
-	</tr>
+<style type="text/css">
+.leadhead, h2.leadhead {background-color:#0A2248; border:none;}
+.leadhead a, h2.leadhead a {color:#FFF;}
+#newsletter h2, #menubar, #search, .sf-menu li li {background-color:#0A2248;}
+</style>
+<meta name="y_key" content="435eda57da2de178">
+<meta name="msvalidate.01" content="ECE9CEA684579210BCCBA5F01E87F696">
+<meta name="google-site-verification" content="pRsDgGv6n_GLfGaB_HMUXpmOo1Mk8DxxQbUtpFwR5dE"> 
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" href="/favicon.ico"></head>
+<body class="LTR ENAU">
+    <form name="form1" method="post" action="/privacypolicy.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTg2MzA2MjY5D2QWAgIBEGRkFgICAw9kFgJmD2QWAmYPZBYIAgsPZBYCZg9kFgICAg9kFgJmD2QWAmYPZBYCAgMPZBYCAgUPZBYCZg9kFgZmD2QWAmYPZBYCZg8VAw5NaWNoYWVsIEZveG1hbhtQcmV2ZW50aW5nLWRpZ2dlci1kb3dudGltZXOSAUdyZWF0IGFydGljbGUgYWJvdXQgZG93bnRpbWUuICANCg0KVGhlcmUgYXJlIGEgbnVtYmVyIG9mIHByb3RvY29scyB3aGljaCBjYW4gYmUgYXBwbGllZCB0byBmb3JtIHByb2R1Y3Rpdml0eSBlbmhhbmNlbWVudHMgYW5kIHRoZXNlIGluY2x1ZGUmIzAxMzM7ZAIBD2QWAmYPZBYCZg8VAwpKZW5ueSBXYXJkIVdvcmstcmVzdW1lcy1hZnRlci1taW5lcnMtaW5qdXJlZJEBV29yayByZXN1bWVzIGFmdGVyIG1pbmVycyBpbmp1cmVkIC4uLi4gd2h5IGRvIHlvdSBhc3N1bWUgZXZlcnlvbmUga25vd3Mgd2hlcmUgdGhpcyBtaW5lIGlzPyBTdXJlbHkgeW91IGNvdWxkIGF0IGxlYXN0IGFkZCB3aGljaCBTdGF0ZSBpdCdzJiMwMTMzO2QCAg9kFgJmD2QWAmYPFQMGZnJpZW5kF01pc3NpbmctbWluZXJzLWFsbC1kZWFkY3RoaXMgaXMgcmVhbGx5IHRlcnJpYmxlLCBJIGFtIGEgY2xvc2UgZnJpZW5kIG9mIGRvbiBsZXdpcy4gb25lIG9mIHRoZSBtZW4gbWlzc2luZyBpbiB0aGUgYWNjaWRlbnQuIGQCDQ9kFgJmD2QWAgICD2QWJmYPZBYCZg9kFgJmDxUCGGFjY29tbW9kYXRpb24tLS1zZXJ2aWNlcxhBY2NvbW1vZGF0aW9uICYgU2VydmljZXNkAgEPZBYCZg9kFgJmDxUCF2J1bGstbWF0ZXJpYWxzLWhhbmRsaW5nF0J1bGsgTWF0ZXJpYWxzIEhhbmRsaW5nZAICD2QWAmYPZBYCZg8VAh5jb21wdXRlcnMsLXNvZnR3YXJlLS0tc2VydmljZXMeQ29tcHV0ZXJzLCBTb2Z0d2FyZSAmIFNlcnZpY2VzZAIDD2QWAmYPZBYCZg8VAg9jb250cmFjdC1taW5lcnMPQ29udHJhY3QgTWluZXJzZAIED2QWAmYPZBYCZg8VAiJkcmlsbGluZywtYm9yaW5nLS0tYmxhc3QtZXF1aXBtZW50IkRyaWxsaW5nLCBCb3JpbmcgJiBCbGFzdCBFcXVpcG1lbnRkAgUPZBYCZg9kFgJmDxUCFWVhcnRobW92aW5nLWVxdWlwbWVudBVFYXJ0aG1vdmluZyBFcXVpcG1lbnRkAgYPZBYCZg9kFgJmDxUCGGVudmlyb25tZW50YWwtbWFuYWdlbWVudBhFbnZpcm9ubWVudGFsIE1hbmFnZW1lbnRkAgcPZBYCZg9kFgJmDxUCHGluZHVzdHJ5LWRhdGEtLS1pbnRlbGxpZ2VuY2UcSW5kdXN0cnkgRGF0YSAmIEludGVsbGlnZW5jZWQCCA9kFgJmD2QWAmYPFQIdbWFpbnRlbmFuY2UtLS1yZXBhaXItc2VydmljZXMdTWFpbnRlbmFuY2UgJiBSZXBhaXIgU2VydmljZXNkAgkPZBYCZg9kFgJmDxUCFG1pbmUtaGVhbHRoLS0tc2FmZXR5FE1pbmUgSGVhbHRoICYgU2FmZXR5ZAIKD2QWAmYPZBYCZg8VAhNtaW5lcmFscy1wcm9jZXNzaW5nE01pbmVyYWxzIFByb2Nlc3NpbmdkAgsPZBYCZg9kFgJmDxUCJW1pbmluZy0tLWluZHVzdHJ5LWRhdGEtLS1pbnRlbGxpZ2VuY2UlTWluaW5nIC0gSW5kdXN0cnkgRGF0YSAmIEludGVsbGlnZW5jZWQCDA9kFgJmD2QWAmYPFQIcbWluaW5nLS0tcG9saWN5LS0tcmVndWxhdGlvbhxNaW5pbmcgLSBQb2xpY3kgJiBSZWd1bGF0aW9uZAIND2QWAmYPZBYCZg8VAhRtaW5pbmctYmVzdC1wcmFjdGljZRRNaW5pbmcgQmVzdCBQcmFjdGljZWQCDg9kFgJmD2QWAmYPFQIebW90b3JzLC1kcml2ZXMtLS10cmFuc21pc3Npb25zHk1vdG9ycywgRHJpdmVzICYgVHJhbnNtaXNzaW9uc2QCDw9kFgJmD2QWAmYPFQIXcG5ldW1hdGljcy0tLWh5ZHJhdWxpY3MXUG5ldW1hdGljcyAmIEh5ZHJhdWxpY3NkAhAPZBYCZg9kFgJmDxUCH3Bvd2VyLWdlbmVyYXRpb24tLS1kaXN0cmlidXRpb24fUG93ZXIgR2VuZXJhdGlvbiAmIERpc3RyaWJ1dGlvbmQCEQ9kFgJmD2QWAmYPFQIicHJvY2VzcywtY29udHJvbC0tLWluc3RydW1lbnRhdGlvbiJQcm9jZXNzLCBDb250cm9sICYgSW5zdHJ1bWVudGF0aW9uZAISD2QWAmYPZBYCZg8VAiJwdW1wcywtcGlwZXMsLXZhbHZlcy0tLWNvbXByZXNzb3JzIlB1bXBzLCBQaXBlcywgVmFsdmVzICYgQ29tcHJlc3NvcnNkAg8PZBYCZg9kFgJmD2QWFGYPZBYCZg9kFgJmDxUCEi1lcm5lc3QtaGVucnktbWluZRIgRXJuZXN0IEhlbnJ5IG1pbmVkAgEPZBYCZg9kFgJmDxUCDy14c3RyYXRhLWNvcHBlcg8gWHN0cmF0YSBjb3BwZXJkAgIPZBYCZg9kFgJmDxUCDi1jb3BwZXItbWluaW5nDiBjb3BwZXIgbWluaW5nZAIDD2QWAmYPZBYCZg8VAhMtbWFnbmV0aXRlLWlyb24tb3JlEyBtYWduZXRpdGUgaXJvbiBvcmVkAgQPZBYCZg9kFgJmDxUCDC16aW5jLW1pbmluZwwgemluYyBtaW5pbmdkAgUPZBYCZg9kFgJmDxUCDmZseS1pbi1mbHktb3V0DmZseSBpbiBmbHkgb3V0ZAIGD2QWAmYPZBYCZg8VAgRmaWZvBEZJRk9kAgcPZBYCZg9kFgJmDxUCGS1ub3J0aGVybi10ZXJyaXRvcnktbWluZXMZIE5vcnRoZXJuIFRlcnJpdG9yeSBtaW5lc2QCCA9kFgJmD2QWAmYPFQINLW1pbGxpbmctb3Jlcw0gbWlsbGluZyBvcmVzZAIJD2QWAmYPZBYCZg8VAhktbWV0YWxsdXJpZ2NhbC1wcm9jZXNzaW5nGSBtZXRhbGx1cmlnY2FsIHByb2Nlc3NpbmdkAhMPZBYCZg9kFgJmD2QWCmYPZBYCZg9kFgJmDxUDHGh0dHA6Ly93d3cuZHJpbGxibGFzdC5jb20uYXUTRHJpbGxpbmcgJiBCbGFzdGluZxxodHRwOi8vd3d3LmRyaWxsYmxhc3QuY29tLmF1ZAIBD2QWAmYPZBYCZg8VAx5odHRwOi8vd3d3Lm1pbmV2ZWhpY2xlcy5jb20uYXUNTWluZSBWZWhpY2xlcx5odHRwOi8vd3d3Lm1pbmV2ZWhpY2xlcy5jb20uYXVkAgIPZBYCZg9kFgJmDxUDJGh0dHA6Ly93d3cubWluZXJhbHNwcm9jZXNzaW5nLmNvbS5hdRNNaW5lcmFscyBQcm9jZXNzaW5nJGh0dHA6Ly93d3cubWluZXJhbHNwcm9jZXNzaW5nLmNvbS5hdWQCAw9kFgJmD2QWAmYPFQMcaHR0cDovL3d3dy5taW5pbmdjb2FsLmNvbS5hdQtNaW5pbmcgQ29hbB5odHRwOi8vd3d3Lm1pbmluZ2NvYWwuY29tLmF1DQpkAgQPZBYCZg9kFgJmDxUDHGh0dHA6Ly93d3cuc2FmZW1pbmluZy5jb20uYXUNTWluaW5nIFNhZmV0eRxodHRwOi8vd3d3LnNhZmVtaW5pbmcuY29tLmF1ZBgDBR1kYmdFbGVtJFZpZXdTdGF0ZTEkZ3JpZFN0YXRlcw9nZAUbZGJnRWxlbSRDYWNoZUxvZzEkZ3JpZENhY2hlD2dkBR1kYmdFbGVtJFF1ZXJ5TG9nMSRncmlkUXVlcmllcw9nZAodQcjxWLEqVkojWIUkpdUnpoc9">
+</div>
 
-	<tr>
-		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td valign="middle" height="17">&nbsp;&nbsp;<a class="ferrettext" href="/mining/">Mining</a></td>
-	</tr>
-	<tr>
-		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/food/">Food</a></td>
-	</tr>
+<div><input type="hidden" name="lng" id="lng" value="en-AU">
+</div>
+<script src="/ScriptResource.axd?d=Yytyk9vp6F_JV72qQezpf6ckYLeYvgRVx5hCqkxNUot9mBUxb0bmGo1cBmC_ERLp4WyGZcBkGGpKH3uUwzf0wQ04Iv1Db6wmsJslKlQMKsw1&amp;t=ffffffffec2d9970" type="text/javascript"></script>
+        <div id="manPortal">
 
-	<tr>
-		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/metal-working/">Metal Working</a></td>
-	</tr>
-
-	<tr>
-		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/process-control/">Process &amp; Control</a></td>
-	</tr>
-
-	<tr>
-		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/packaging/">Packaging</a></td>
-	</tr>
-
-	<tr>
-		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/health-safety/">Health &amp; Safety</a></td>
-	</tr>
-	<tr>
-		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>
-	<tr>
-		<td valign="middle" height="17">&nbsp;&nbsp;<a class="navlink" href="/logistics/">Logistics</a></td>
-	</tr>
-	<tr>
-		<td align="center" valign="top" bgcolor="CFCFCF"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-	</tr>																																			
-</tbody></table>
-								
-<table width="127" border="0" cellspacing="0" cellpadding="0" id="Table5">
-	<tbody><tr>
-		<td align="center" valign="top"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
-	</tr>								
-	<tr>
-		<td valign="top"><img src="/images/subhead_01c.jpg" width="127" height="23"></td>
-	</tr>
-</tbody></table>								
-
-<table width="127" border="0" cellspacing="0" cellpadding="1" bgcolor="" align="center" id="Table1">
-	<tbody><tr>
-		<td>
-			<table width="100%" border="0" cellspacing="0" cellpadding="3" bgcolor="" id="Table3">
-				<tbody><tr align="center" valign="middle">
-					<form name="frmSearchInfo" method="POST" action="/search.asp?qu=" onsubmit="return SubmitInfoSearch();" id="Form1"></form>
-						<td colspan="2" class="defaulttext">
-							<table cellpadding="0" cellspacing="0" width="100%" id="Table4">
-								<tbody><tr>
-									<td valign="middle"><input type="text" name="txtSearchInfoTerm" class="defaulttext" size="8" style="width:80" value="" id="Text1"></td>
-									<td valign="middle"><input type="image" src="/images/go_02.gif" name="imgSearch" width="30" id="Image1"></td>
-								</tr>
-								<tr>
-									<td colspan="2"><img src="/images/clear.gif" height="5" width="1" border="0"></td>
-								</tr>
-								<tr>
-									<td colspan="2" align="right"><a href="/searchinfo_about.asp" class="ferrettext"><u>What's 
-												this?</u></a></td>
-								</tr>
-								<tr>
-									<td colspan="2"><img src="/images/clear.gif" height="5" width="1" border="0"></td>
-								</tr>
-							<tr>
-								<td align="center" valign="top" bgcolor="CFCFCF" colspan="2"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-							</tr>										
-										
-							</tbody></table>
-						</td>
-					
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-								
-<table width="127" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr valign="top"> 
-		<td colspan="2"><img src="/images/clear.gif" width="125" height="7"></td>
-	</tr>
-	<tr valign="top"> 
-		<td colspan="2" valign="center" align="center"><p> 
-			<table border="0" cellspacing="0" cellpadding="0" bgcolor="E9E9E9">
-				<tbody><tr>
-					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
-					
-				<tr> 
-					<td> 
-						
-					</td>
-				</tr>
-			</tbody></table></p>
-		</td>
-	</tr>
-	<tr valign="top"> 
-		<td colspan="2" valign="center" align="center"><p> 
-			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr>
-					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
-					
-				<tr> 
-					<td> 
-						
-					</td>
-				</tr>
-			</tbody></table></p>
-		</td>
-	</tr>
-	<tr valign="top"> 
-		<td colspan="2" valign="center" align="center"><p> 
-			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr>
-					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
-					
-				<tr> 
-					<td> 
-						
-					</td>
-				</tr>
-			</tbody></table></p>
-		</td>
-	</tr>
-	<tr valign="top"> 
-		<td colspan="2" valign="center" align="center"><p> 
-			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr>
-					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
-					
-				<tr> 
-					<td> 
-						
-					</td>
-				</tr>
-			</tbody></table></p>
-		</td>
-	</tr>
-	<tr valign="top"> 
-		<td colspan="2" valign="center" align="center"> <p>
-			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr>
-					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
-					
-				<tr> 
-					<td> 
-						<table width="100%" cellpaccing="0" cellspacing="0"><tbody><tr><td width="100%" align="center"><a href="/common/clickthrough2.asp?intType=2&amp;strTarget=http%3A%2F%2Fwww%2Engclark%2Ecom%2Eau&amp;intOrigin=5&amp;strID=430&amp;strReferer=%2Fprivacypolicy%2Easp%3F" target="_blank"><img src="/common/AdClickSystem/placead.asp?Type=1&amp;strImage=332710_button2.gif&amp;intPosID=22&amp;AdID=430&amp;AdPlacementID=2783&amp;z=2006%2D06%2D19%3A5%3A10%3A33" border="0" alt="" width="120" height="60"></a></td></tr></tbody></table>
-					</td>
-				</tr>
-			</tbody></table></p>
-		</td>
-	</tr>
-	<tr valign="top"> 
-		<td colspan="2" valign="center" align="center"> <p>
-			<table border="0" cellspacing="0" cellpadding="1" bgcolor="E9E9E9">
-				<tbody><tr>
-					<td height="1"><img src="/images/clear.gif" width="1" height="5"></td></tr>
-					
-				<tr> 
-					<td> 
-						<iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="/common/adclicksystem/placead.asp?Type=2&amp;AdID=2339&amp;AdPlacementID=3949&amp;ad=Hotfrog_fert_tile3.swf&amp;altAd=&amp;URL=%2Fcommon%2Fclickthrough2%2Easp%3FintType%3D2%26strTarget%3Dhttp%253A%252F%252Fwww%252Ehotfrog%252Ecom%252Eau%252FAddCompany%252Easpx%253Fstep%253D1%2526utm%255Fsource%253DFerret%252Ecom%252Eau%2526utm%255Fmedium%253DAdd%25252BBusiness%25252BButton%26intOrigin%3D5%26strID%3D2339%26strReferer%3D%252Fprivacypolicy%252Easp%253F&amp;width=125&amp;height=125&amp;z=2006%2D06%2D19%3A5%3A10%3A33" width="125" height="125"><SCRIPT LANGUAGE="JavaScript1.1" SRC="/common/adclicksystem/placead.asp?Type=2&AdID=2339&AdPlacementID=3949&ad=Hotfrog_fert_tile3.swf&altAd=&URL=%2Fcommon%2Fclickthrough2%2Easp%3FintType%3D2%26strTarget%3Dhttp%253A%252F%252Fwww%252Ehotfrog%252Ecom%252Eau%252FAddCompany%252Easpx%253Fstep%253D1%2526utm%255Fsource%253DFerret%252Ecom%252Eau%2526utm%255Fmedium%253DAdd%25252BBusiness%25252BButton%26intOrigin%3D5%26strID%3D2339%26strReferer%3D%252Fprivacypolicy%252Easp%253F&width=125&height=125&z=2006%2D06%2D19%3A5%3A10%3A33"></SCRIPT><NOSCRIPT><A HREF="/common/clickthrough2.asp?intType=2&strTarget=http%3A%2F%2Fwww%2Ehotfrog%2Ecom%2Eau%2FAddCompany%2Easpx%3Fstep%3D1%26utm%5Fsource%3DFerret%2Ecom%2Eau%26utm%5Fmedium%3DAdd%252BBusiness%252BButton&intOrigin=5&strID=2339&strReferer=%2Fprivacypolicy%2Easp%3F" target="_blank"><IMG SRC="/common/adclicksystem/ads/" BORDER="0" width="125" height="125&z=2006%2D06%2D19%3A5%3A10%3A33"></A></NOSCRIPT></iframe>
-					</td>
-				</tr>
-			</tbody></table></p>
-		</td>
-	</tr>
-</tbody></table>
-							<!--End Left Menu-->
-						</td>
-						<td width="1" bgcolor="757475" valign="top"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-						<td valign="top">							
-							<table width="100%" border="0" cellspacing="0" cellpadding="0">
-								<tbody><tr>
-									<td valign="top">
-										<!--Start Display Banner-->
-										<table width="100%" border="0" cellspacing="0" cellpadding="6" id="Table16" valign="top">
-											<tbody><tr>
-												<td valign="top" align="center"><iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="/common/adclicksystem/placead.asp?Type=3&amp;strImage=420457_banner.html&amp;AdID=2387&amp;AdPlacementID=4029&amp;URL=%2Fcommon%2Fclickthrough2%2Easp%3FintType%3D2%26strTarget%3D%26intOrigin%3D5%26strID%3D2387%26strReferer%3D%252Fprivacypolicy%252Easp%253F&amp;width=468&amp;height=90&amp;z=2006%2D06%2D19%3A5%3A10%3A33" width="468" height="90"></iframe></td>
-											</tr>
-										</tbody></table>
-										<!--End Display Banner-->
-										<!--Start Page Content-->
-										<table width="100%" border="0" cellpadding="6" cellspacing="0" bordercolor="yellow">
-											<tbody><tr>
-												<td>
-													<!-- Start Page Content -->
-													
-													<table width="100%" border="0" cellpadding="0" cellspacing="0">
-														<!--Start Page Heading-->
-														<tbody><tr>		
-															<td colspan="5" valign="top">	
-																
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td colspan="2" valign="top" bgcolor="9A9997"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-		</tr>
-		<tr height="15">
-			<td height="15" valign="top" bgcolor="EDEDE8" align="left">
-			  <font class="redtext">&nbsp;&nbsp;<strong>Privacy Policy</strong></font>
-			</td>
-			<td height="15" valign="top" bgcolor="EDEDE8" align="right">
-			  <font class="redtext"><strong></strong>&nbsp;&nbsp;</font>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" valign="top" bgcolor="9A9997"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0"></td>
-		</tr>
-	</tbody></table>
-	
-															</td>
-														</tr>
-														<tr height="5" colspan="5"><td></td></tr>
-														<!--End Page Heading-->
-														
-	
-	<!--Start Page Content-->
-		<tr>
-			<td>
-
-<meta http-equiv="Content-Type" content="text/html; charset=unicode">
-<meta content="MSHTML 6.00.2800.1400" name="GENERATOR">
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
-  <tbody><tr> 
-    <td>
-<font class="defaulttext">
-			<p>Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which took effect in December 2001.</p>
-			<p>This privacy policy covers all personal information that we hold.</p>
-			<p><font class="subheading">Collection of information</font></p>
-			<p>Whenever we collect personal information from you we will do so in a lawful and fair way. We will also advise you how and where to contact us.</p>
-			<p>If we collect the information from a third party we will take reasonable steps to advise you of that collection promptly.</p>
-			<p>We will tell you why we are collecting the information and the third parties to whom we usually disclose that information.</p>
-			<p>If you do not wish to provide the information we request, we will tell you what impact this will have.</p>
-			<p><font class="subheading">Disclosing information </font></p>
-			<p>We will only disclose personal information in accordance with the Act. This means that it will be disclosed if:</p>
-			<ul type="square">
-				<li>we told you when collecting it that it would be 
-        disclosed for that purpose or for a related purpose that you would 
-        reasonably expect; 
+</div>
+         
+<script type="text/javascript" src="/Includes/Penguin/Common/js/rbi_common_library.js"></script>   
+<script type="text/javascript">
+	var globalAdArray = [{"id":"0", "src":""}]
+</script>
+<div id="wrap">
+    <div id="header">
+      <div class="container">
+      <div id="logo"><p><a href="/"><img src="http://static.rbi.com.au/common/penguin/img/logos/MiningAustralia_logo.png" style="width: 200px; height: 90px;" alt="Mining Australia"></a></p></div>
+      <div class="leaderboard">
         
-				</li><li>we have your consent; 
-        
-				</li><li>it is part of business assets which we are 
-        selling; 
-        
-				</li><li>we are required by law to disclose it; or 
-        
-				</li><li>it is otherwise permitted under the Act</li>
-			</ul>
-			<p><font class="subheading">Opt Out</font></p>
-			<p>We will provide you with a low cost way of contacting us if you wish to opt out from receiving further marketing offers. </p>
-			<p>In accordance with the Act, direct marketing offers will contain an opportunity to opt out.</p>
-			<p><font class="subheading">Quality of information </font></p>
-			<p>We will take reasonable steps to ensure that the information that we collect, use and disclose is accurate, complete and up to date.</p>
-			<p><font class="subheading">Security</font></p>
-			<p>We are committed to protecting your privacy and will take reasonable steps to ensure that the information we collect is protected from loss and misuse and from unauthorised access, modification and disclosure.  </p>
-			<p><font class="subheading">Access to the information we hold</font></p>
-			<p>You can access your personal information upon request. However, there are occasions when this access may be denied under the exemptions contained in the Act.</p>
-			<p><font class="subheading">Availability of policy</font></p>
-			<p>This policy is available upon request. It will be reviewed from time to time and any  amendments will be included in the updated policy.</p>
-			<p><font class="subheading">Privacy inquiries </font></p>
-			<p>If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact:</p>
-			<p>Mary Alice Bannister
-				<br>Reed Elsevier Australia Pty Limited
-				<br>Tower 2, 475 Victoria Avenue or Locked Bag 2001 Chatswood Delivery Centre
-				<br>CHATSWOOD NSW 2067
-				<br>AUSTRALIA</p>
-			<p>Phone 02 9422 2002
-				<br>Fax 02 9422 2682</p>
 
-			</font>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-		</tr>
-	</tbody></table>
-	
-														<!-- End Page Content -->
-												</td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>	
-						</td>
-						<!--Right Column-->
-						
-			<!--No right Content-->
-			
-						<!--end Right Column-->
-					</tr>
-				</tbody></table>
-			</td>
-			<td width="6" valign="top" background="/images/back_02.jpg"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
-		</tr>
-		<!--End Main-->	
-					
-		<!--Footer-->
-		<tr>
-			<td width="7" valign="top" background="/images/back_03.jpg"><img src="/images/spacer.gif" width="7" height="7" hspace="0" vspace="0"></td>
-			<td valign="top"><img src="/images/dots_02.gif" width="100%" height="1" hspace="0" vspace="0" border="0"></td>
-			<td width="6" valign="top" background="/images/back_02.jpg"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
-		</tr>
-		<tr>
-			<td width="7" valign="top" background="/images/back_03.jpg"><img src="/images/spacer.gif" width="7" height="7" hspace="0" vspace="0"></td>
-			<!--<td width="7" valign="top"><img src="/images/bottom_01.gif" width="7" height="1" hspace="0" vspace="0"></td>-->
-			<td valign="top">
-				<table width="100%" border="0" cellspacing="4" cellpadding="4">
-					<tbody><tr>
-						<td><center>
-	<a href="/default.asp" class="ferrettext">Home</a>&nbsp;|&nbsp;
-	<a href="/affiliate.asp" class="ferrettext">Affiliate</a>&nbsp;|&nbsp;
-	<a href="/articlelist.asp" class="ferrettext">News Archive</a>&nbsp;|&nbsp;
-	<a href="/newsletter.asp" class="ferrettext">Email Alerts</a>&nbsp;|&nbsp;	
-	<a href="/listing.asp" class="ferrettext">Free Listing</a>&nbsp;|&nbsp;
-	<a href="/publications.asp" class="ferrettext">Publications</a>&nbsp;|&nbsp;
-	<a href="/advertisers.asp" class="ferrettext">Advertising</a>&nbsp;|&nbsp;
-	<a href="/forms/" class="ferrettext">Online Forms</a>&nbsp;|&nbsp;		
-	<a href="http://www.reedbusiness.com.au/default.asp?sect=10" class="ferrettext">Disclaimer</a>&nbsp;|&nbsp;
-	<a href="/contacts.asp" class="ferrettext">Contact Us</a>&nbsp;|&nbsp;
-	<a href="/about.asp" class="ferrettext">About Us</a>&nbsp;|&nbsp;
-	<a href="/privacypolicy.asp" class="ferrettext">Privacy Policy</a>&nbsp;|&nbsp;
-	<a href="/FerretAwards/AwardsDefault.asp" class="ferrettext">Industry Awards</a>&nbsp;|&nbsp;
-	<a href="/podcast/" class="ferrettext">Podcasts</a>
-</center>
-<p align="justify">
-	<font class="ferrettext">
-	Copyright © Reed Business Information. All material on this site is subject to copyright. All rights reserved.
-	No part of this material may be reproduced, translated, transmitted, framed or stored in a retrieval system for public or private use without the written permission of the publisher.
-	</font>
-</p></td>
-					</tr>
-				</tbody></table>
-			</td>
-			<!--<td width="6" valign="top"><img src="/images/bottom_02.gif" width="6" height="1" hspace="0" vspace="0"></td>-->
-			<td width="6" valign="top" background="/images/back_02.jpg"><img src="/images/spacer.gif" width="6" height="6" hspace="0" vspace="0"></td>
-		</tr>
-		<!--End Footer-->
-	</tbody></table>
-	
-	<!--Google Analytics block-->
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<div class="adblockgroup clear">
+    <div id="plc_lt_zoneLeaderboard_DoubleClickDynamic_doubleclick1" class="adblock">
+	<noscript> <a href="http://ad.au.doubleclick.net/jump/miningau/other;kw=;tile=1;pos=top;cat=;aid=;sz=728x90,468x60;nl=;mk=;ord=123456789?" target="_blank" > <img src="http://ad.au.doubleclick.net/ad/miningau/other;kw=;tile=1;pos=top;cat=;aid=;sz=728x90,468x60;nl=;mk=;ord=123456789?" border="0" alt="" /> </a> </noscript><script language="javascript" type="text/javascript">
+    //<![CDATA[ 
+       ord = window.ord || Math.floor(Math.random()*1E16);       document.write('<script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=1;pos=top;cat=;aid=;sz=728x90,468x60;nl=;mk=;ord=' + ord + '?"><\/script>');    //]]>
+</script><script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=1;pos=top;cat=;aid=;sz=728x90,468x60;nl=;mk=;ord=1409006218636492?"></script>
+
+</div>
+</div>
+      </div>
+      </div>
+    </div> <!-- /header -->
+
+      <div id="menubar" class="clear">
+	<ul id="mainnav" class="sf-menu">
+<li class="menuhome"> <a href="/"><img src="http://static.rbi.com.au/common/penguin/img/home_icon.gif" alt="Home"></a> </li>
+<li> <a class="sf-with-ul" href="/newslist.aspx">News<span class="sf-sub-indicator"> »</span></a>
+   <ul class="hide">
+       <li> <a href="/newslist.aspx">Latest</a> </li>
+       <li> <a href="/popularlist.aspx">Popular</a> </li>
+       <li> <a href="/topicindex/a">By topic</a> </li>
+       <li> <a href="/newsarchive/">By date</a> </li>
+       <li class="add"> <a href="/newnews.aspx">Post news</a> </li>
+   </ul>
+</li>
+<li> <a class="sf-with-ul" href="/productlist.aspx">Products<span class="sf-sub-indicator"> »</span></a>
+   <ul class="hide">
+     <li> <a href="/productlist.aspx">Latest</a> </li>
+     <li> <a href="/popularlist.aspx">Popular</a> </li>
+     <li> <a href="/topicindex/a">By topic</a> </li>
+     <li> <a href="/productsarchive/">By date</a> </li>
+     <li class="add"> <a href="/newproduct.aspx">List a product</a> </li>
+   </ul>
+</li><li> <a class="sf-with-ul" href="/companylist.aspx">Companies<span class="sf-sub-indicator"> »</span></a>
+   <ul class="hide">
+     <li> <a href="/companylist.aspx">Latest</a> </li>
+     <li> <a href="/popularlist.aspx">Popular</a> </li>
+     <li> <a href="/topicindex/a">By topic</a> </li>
+     <li class="add"> <a href="/newcompany.aspx">Add a company</a> </li>
+   </ul>
+</li><li> <a class="sf-with-ul" href="/joblist.aspx">Jobs<span class="sf-sub-indicator"> »</span></a>
+   <ul class="hide">
+     <li> <a href="/joblist.aspx">Latest</a> </li>
+     <li> <a href="/popularlist.aspx">Popular</a> </li>
+     <li> <a href="/training-education.aspx">Training &amp; Education</a> </li>
+     <li class="add"> <a href="/newjob.aspx">Post a job</a> </li>
+   </ul>
+</li><li> <a class="sf-with-ul" href="/eventlist.aspx">Events<span class="sf-sub-indicator"> »</span></a>
+   <ul class="hide">
+     <li> <a href="/eventlist.aspx">Latest</a> </li>
+     <li> <a href="/popularlist.aspx">Popular</a> </li>
+     <li class="add"><a href="/newevent.aspx">List an event</a> </li>
+   </ul>
+</li></ul>
+
+        <!-- /mainnav -->
+        <div id="search">
+           <input type="text" name="searchtext" id="searchtext" class="textbox" title="Search here">
+	   <input id="search-submit" type="submit" value="" onclick="javascript:window.location.href='/search.aspx?searchtext='+ $('#searchtext').val(); return false;">
+        </div> <!-- /search -->
+      </div> <!-- /menubar -->
+
+	<div id="secondnav" class="clear">
+	<ul>
+    <li><a href="/features?category=features">Features</a></li>
+    <li><a href="/awards.aspx">Awards</a></li>
+    <li><a href="/nextissue.aspx">In the next issue</a></li>
+    <li><a href="/subscribe.aspx">Subscribe</a></li>
+</ul>
+         <script type="text/javascript">
+	var nodeId = '429748';
+</script>
+
+<script language="javascript" type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    
+<div id="join">
+    <div id="plc_lt_Membership_PenguinUserStatusBar_divLogin" class="divLogin" style="display:none;">
+        <a href="/login.aspx"><span class="color02">Sign up</span></a> | <a href="/login.aspx">
+            <span class="color02">Login</span></a>
+    </div>
+    <div id="plc_lt_Membership_PenguinUserStatusBar_divLogout" class="divLogout" style="display:none;">
+        <a href="/Dashboard.aspx">Dashboard</a> |
+        <a id="plc_lt_Membership_PenguinUserStatusBar_lnkSignOut" href="javascript:__doPostBack('plc$lt$Membership$PenguinUserStatusBar$lnkSignOut','')">Sign out</a>
+    </div>
+</div>
+
+        <script type="text/javascript">
+function GetRandomNumber() {
+    var today = new Date();
+    var rtnValue = 'date:' + today.getFullYear() + today.getMonth() + today.getDate() + today.getHours() + today.getMinutes() + today.getSeconds() + today.getMilliseconds() + '_' + Math.floor(Math.random() * 1000);
+    return rtnValue;    
+}
+            var randomNumber = GetRandomNumber();
+            $.ajax({
+                url: "/AjaxCall.aspx",
+                cache: false,
+                data: ({ nodeId: nodeId, refresh: randomNumber }),
+                dataType: "json",
+                success: function(data) {
+                    if (data.Login == 1) {
+                        $('.divLogin:first').hide();
+                        $('.divLogout:first').show();
+                    }
+                    else {
+                        $('.divLogout:first').hide();
+                        $('.divLogin:first').show();
+                    }
+var pageTracker1 = _gat._getTracker("UA-251822-39");
+pageTracker1._trackPageview();
+if (data.Login == 1) {pageTracker1._setVar("LoggedIn") ; }
+var pageTracker2 = _gat._getTracker("UA-3606740-33");
+pageTracker2._trackPageview();
+if (data.Login == 1) {pageTracker2._setVar("LoggedIn") ; }
+var pageTracker3 = _gat._getTracker("UA-3606740-21");
+pageTracker3._trackPageview();
+if (data.Login == 1) {pageTracker3._setVar("LoggedIn") ; }
+var pageTracker4 = _gat._getTracker("UA-3688704-1");
+pageTracker4._trackPageview();
+if (data.Login == 1) {pageTracker4._setVar("LoggedIn") ; }
+var pageTracker5 = _gat._getTracker("UA-3688704-2");
+pageTracker5._trackPageview();
+if (data.Login == 1) {pageTracker5._setVar("LoggedIn") ; }
+                }
+            });
+        </script>
+
+
+	</div>
+	<!-- /secondnav -->
+
+  <div id="main" class="container">
+
 		
+ 
+    <div id="col1" class="span-12">
+        
+ 
+<h1 class="leadhead c5 fm">Privacy Policy</h1>
+
+<div class="body">
+<p>Reed Elsevier Australia Pty Limited and its related companies (“the Reed Group”) have a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which took effect in December 2001.</p>
+<p>This privacy policy covers all personal information that we hold.</p>
+<h3>Collection of information</h3>
+<p>Whenever we collect personal information from you we will do so in a lawful and fair way. We will also advise you how and where to contact us.</p>
+<p>If we collect the information from a third party we will take reasonable steps to advise you of that collection promptly.</p>
+<p>We will tell you why we are collecting the information and the third parties to whom we usually disclose that information.</p>
+<p>If you do not wish to provide the information we request, we will tell you what impact this will have.</p>
+<h3>Disclosing information</h3>
+<p>We will only disclose personal information in accordance with the Act. This means that it will be disclosed if:</p>
+<ul>
+    <li>we told you when collecting it that it would be disclosed for that purpose or for a related purpose that you would reasonably expect;</li>
+    <li>we have your consent;</li>
+    <li>it is part of business assets which we are selling;</li>
+    <li>we are required by law to disclose it; or</li>
+    <li>it is otherwise permitted under the Act</li>
+</ul>
+<h3>Opt Out</h3>
+<p>We will provide you with a low cost way of contacting us if you wish to opt out from receiving further marketing offers. In accordance with the Act, direct marketing offers will contain an opportunity to opt out.</p>
+<h3>Quality of information</h3>
+<p>We will take reasonable steps to ensure that the information that we collect, use and disclose is accurate, complete and up to date.</p>
+<h3>Security</h3>
+<p>We are committed to protecting your privacy and will take reasonable steps to ensure that the information we collect is protected from loss and misuse and from unauthorised access, modification and disclosure.</p>
+<h3>Access to the information we hold</h3>
+<p>You can access your personal information upon request. However, there are occasions when this access may be denied under the exemptions contained in the Act.</p>
+<h3>Availability of policy</h3>
+<p>This policy is available upon request. It will be reviewed from time to time and any amendments will be included in the updated policy.</p>
+<h3>Privacy inquiries</h3>
+<p>If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact:</p>
+<p>The Privacy Officer<br>
+Reed Elsevier Australia Pty Limited<br>
+Tower 2, 475 Victoria Avenue or Locked Bag 2999 Chatswood DC<br>
+CHATSWOOD NSW 2067<br>
+AUSTRALIA</p>
+</div>
+
+    </div>
+      <div id="col2" class="span-6 last">
+        <div class="tooltip"> </div>
+
+<div id="community"> 
+
+	<div id="msg">to get Mining Australia <br>delivered to your inbox</div>
+
+	<div id="email">
+	  <script type="text/javascript">
+	    //<![CDATA[
+	    function Subscribe() {
+	        if ($('#txtEmail').val() != "") {
+	            var url = "/Newsletter-Sign-Up.aspx?Email=" + $('#txtEmail').val();
+	            window.location = url;
+	        }        
+	    }
+	//]]>
 	</script>
+	<input id="txtEmail" type="text" class="newsletter blur" title="Enter your email address ..">
+	<input id="Button" type="button" class="button fg-button ui-state-default ui-corner-all" value="Submit" onclick="return Subscribe();">
+	</div>
 
-	<script type="text/javascript">
+	<div id="social">
+            <a href="/newsletter-sign-up.aspx" tooltip="Subscribe via email"><img src="http://static.rbi.com.au/common/penguin/img/62x62/email32.png" alt=""></a>
+            <a href="/siterss.aspx" tooltip="Subscribe via RSS"><img src="http://static.rbi.com.au/common/penguin/img/62x62/rss32.png" alt=""></a>
+            <a href="http://twitter.com/ozmining" target="_blank" tooltip="Follow us on Twitter"><img src="http://static.rbi.com.au/common/penguin/img/62x62/twitter32.png" alt=""></a>
+            
+            <a class="addthis_button_facebook" tooltip="Add us on Facebook"><img src="http://static.rbi.com.au/common/penguin/img/62x62/facebook32.png" alt=""></a>
+            
+    	</div>
+    	<div id="submit">
+		<p><a href="/takethetour.aspx">Submit your content to Mining Australia</a></p>
+	</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() { 
+    try{
+    $("img[title]").tooltip({tip:'.tooltip', relative:true}); 
+    } catch(err) { }
+});
+</script>
 
-		_uacct = "UA-251822-2";
+<div class="adblockgroup clear">
+    <div id="plc_lt_Content_pageplaceholder_pageplaceholder_lt_zoneRightColumn_DoubleClickDynamic_doubleclick3" class="adblock">
+	<noscript> <a href="http://ad.au.doubleclick.net/jump/miningau/other;kw=;tile=3;pos=right;cat=;aid=;sz=300x100,300x250,300x600;nl=;mk=;ord=123456789?" target="_blank" > <img src="http://ad.au.doubleclick.net/ad/miningau/other;kw=;tile=3;pos=right;cat=;aid=;sz=300x100,300x250,300x600;nl=;mk=;ord=123456789?" border="0" alt="" /> </a> </noscript><script language="javascript" type="text/javascript">
+    //<![CDATA[ 
+       ord = window.ord || Math.floor(Math.random()*1E16);       document.write('<script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=3;pos=right;cat=;aid=;sz=300x100,300x250,300x600;nl=;mk=;ord=' + ord + '?"><\/script>');    //]]>
+</script><script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=3;pos=right;cat=;aid=;sz=300x100,300x250,300x600;nl=;mk=;ord=1409006218636492?"></script>
 
-		urchinTracker();
+</div>
+</div>
 
-	</script>
+<div class="adblockgroup clear">
+    <div id="plc_lt_Content_pageplaceholder_pageplaceholder_lt_zoneRightColumn_DoubleClickDynamic1_doubleclick4" class="adblocktile">
+	<noscript> <a href="http://ad.au.doubleclick.net/jump/miningau/other;kw=;tile=4;pos=t1;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" target="_blank" > <img src="http://ad.au.doubleclick.net/ad/miningau/other;kw=;tile=4;pos=t1;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" border="0" alt="" /> </a> </noscript><script language="javascript" type="text/javascript">
+    //<![CDATA[ 
+       ord = window.ord || Math.floor(Math.random()*1E16);       document.write('<script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=4;pos=t1;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=' + ord + '?"><\/script>');    //]]>
+</script><script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=4;pos=t1;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=1409006218636492?"></script>
 
+</div><div id="plc_lt_Content_pageplaceholder_pageplaceholder_lt_zoneRightColumn_DoubleClickDynamic1_doubleclick5" class="adblocktile">
+	<noscript> <a href="http://ad.au.doubleclick.net/jump/miningau/other;kw=;tile=5;pos=t2;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" target="_blank" > <img src="http://ad.au.doubleclick.net/ad/miningau/other;kw=;tile=5;pos=t2;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" border="0" alt="" /> </a> </noscript><script language="javascript" type="text/javascript">
+    //<![CDATA[ 
+       ord = window.ord || Math.floor(Math.random()*1E16);       document.write('<script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=5;pos=t2;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=' + ord + '?"><\/script>');    //]]>
+</script><script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=5;pos=t2;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=1409006218636492?"></script>
+
+</div><div id="plc_lt_Content_pageplaceholder_pageplaceholder_lt_zoneRightColumn_DoubleClickDynamic1_doubleclick6" class="adblocktile">
+	<noscript> <a href="http://ad.au.doubleclick.net/jump/miningau/other;kw=;tile=6;pos=t3;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" target="_blank" > <img src="http://ad.au.doubleclick.net/ad/miningau/other;kw=;tile=6;pos=t3;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" border="0" alt="" /> </a> </noscript><script language="javascript" type="text/javascript">
+    //<![CDATA[ 
+       ord = window.ord || Math.floor(Math.random()*1E16);       document.write('<script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=6;pos=t3;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=' + ord + '?"><\/script>');    //]]>
+</script><script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=6;pos=t3;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=1409006218636492?"></script>
+
+</div><div id="plc_lt_Content_pageplaceholder_pageplaceholder_lt_zoneRightColumn_DoubleClickDynamic1_doubleclick7" class="adblocktile">
+	<noscript> <a href="http://ad.au.doubleclick.net/jump/miningau/other;kw=;tile=7;pos=t4;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" target="_blank" > <img src="http://ad.au.doubleclick.net/ad/miningau/other;kw=;tile=7;pos=t4;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" border="0" alt="" /> </a> </noscript><script language="javascript" type="text/javascript">
+    //<![CDATA[ 
+       ord = window.ord || Math.floor(Math.random()*1E16);       document.write('<script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=7;pos=t4;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=' + ord + '?"><\/script>');    //]]>
+</script><script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=7;pos=t4;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=1409006218636492?"></script>
+
+</div><div id="plc_lt_Content_pageplaceholder_pageplaceholder_lt_zoneRightColumn_DoubleClickDynamic1_doubleclick8" class="adblocktile">
+	<noscript> <a href="http://ad.au.doubleclick.net/jump/miningau/other;kw=;tile=8;pos=t5;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" target="_blank" > <img src="http://ad.au.doubleclick.net/ad/miningau/other;kw=;tile=8;pos=t5;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" border="0" alt="" /> </a> </noscript><script language="javascript" type="text/javascript">
+    //<![CDATA[ 
+       ord = window.ord || Math.floor(Math.random()*1E16);       document.write('<script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=8;pos=t5;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=' + ord + '?"><\/script>');    //]]>
+</script><script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=8;pos=t5;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=1409006218636492?"></script>
+
+</div><div id="plc_lt_Content_pageplaceholder_pageplaceholder_lt_zoneRightColumn_DoubleClickDynamic1_doubleclick9" class="adblocktile">
+	<noscript> <a href="http://ad.au.doubleclick.net/jump/miningau/other;kw=;tile=9;pos=t6;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" target="_blank" > <img src="http://ad.au.doubleclick.net/ad/miningau/other;kw=;tile=9;pos=t6;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=123456789?" border="0" alt="" /> </a> </noscript><script language="javascript" type="text/javascript">
+    //<![CDATA[ 
+       ord = window.ord || Math.floor(Math.random()*1E16);       document.write('<script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=9;pos=t6;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=' + ord + '?"><\/script>');    //]]>
+</script><script type="text/javascript" src="http://ad.au.doubleclick.net/adj/miningau/other;kw=;tile=9;pos=t6;cat=;aid=;sz=125x125,125x250;nl=;mk=;ord=1409006218636492?"></script>
+
+</div>
+</div><h4 class="leadhead">Recent comments</h4>
+<div class="fade fm bbottom">
+   <ul class="list">
+<li><p><span class="small">Michael Foxman said:</span><br>
+<a href="/news/Preventing-digger-downtimes#comments">Great article about downtime.  
+
+There are a number of protocols which can be applied to form productivity enhancements and these include…</a></p>
+</li>
+
+<li><p><span class="small">Jenny Ward said:</span><br>
+<a href="/news/Work-resumes-after-miners-injured#comments">Work resumes after miners injured .... why do you assume everyone knows where this mine is? Surely you could at least add which State it's…</a></p>
+</li>
+
+<li><p><span class="small">friend said:</span><br>
+<a href="/news/Missing-miners-all-dead#comments">this is really terrible, I am a close friend of don lewis. one of the men missing in the accident. </a></p>
+</li>
+ </ul>
+</div>
+<h4 class="leadhead">Latest from Twitter</h4>
+<div class="fade grey">
+<ul id="posts" class="list hm">Getting your tweets...</ul>
+
+<script type="text/javascript">
+    var username = 'ozmining';
+    var count = '5';
+    $(document).ready(function() {
+       $.jTwitter(username, count, function(data) {
+            $('#posts').empty();
+            $.each(data, function(i, post) {
+                $('#posts').append(
+                '<li class="post">'
+                + ' <p class="txt">'
+                 + post.text
+                + ' </p>'
+                + '</li>'
+                );
+            });
+        });
+    });
+
+</script>
+
+</div>
+<div class="ffoot"><span id="follow-twitterapi">&nbsp;</span> 
+<script type="text/javascript">
+    $(function() {
+        twttr.anywhere(function(T) {
+        T('#follow-twitterapi').followButton(username);
+        });
+    });
+</script>
+</div>
+
+    </div>
+
+</div>  <!-- end /main -->
+
+<div id="directory" class="clearfix">
+  <div class="container">
+    <div class="span-6">
+      <h4>Categories</h4>
+      <ul>
+        
+
+<li><a href="/categories/accommodation---services">Accommodation &amp; Services</a></li>
+<li><a href="/categories/bulk-materials-handling">Bulk Materials Handling</a></li>
+<li><a href="/categories/computers,-software---services">Computers, Software &amp; Services</a></li>
+<li><a href="/categories/contract-miners">Contract Miners</a></li>
+<li><a href="/categories/drilling,-boring---blast-equipment">Drilling, Boring &amp; Blast Equipment</a></li>
+<li><a href="/categories/earthmoving-equipment">Earthmoving Equipment</a></li>
+<li><a href="/categories/environmental-management">Environmental Management</a></li>
+<li><a href="/categories/industry-data---intelligence">Industry Data &amp; Intelligence</a></li>
+<li><a href="/categories/maintenance---repair-services">Maintenance &amp; Repair Services</a></li>
+<li><a href="/categories/mine-health---safety">Mine Health &amp; Safety</a></li>
+<li><a href="/categories/minerals-processing">Minerals Processing</a></li>
+<li><a href="/categories/mining---industry-data---intelligence">Mining - Industry Data &amp; Intelligence</a></li>
+<li><a href="/categories/mining---policy---regulation">Mining - Policy &amp; Regulation</a></li>
+<li><a href="/categories/mining-best-practice">Mining Best Practice</a></li>
+<li><a href="/categories/motors,-drives---transmissions">Motors, Drives &amp; Transmissions</a></li>
+<li><a href="/categories/pneumatics---hydraulics">Pneumatics &amp; Hydraulics</a></li>
+<li><a href="/categories/power-generation---distribution">Power Generation &amp; Distribution</a></li>
+<li><a href="/categories/process,-control---instrumentation">Process, Control &amp; Instrumentation</a></li>
+<li><a href="/categories/pumps,-pipes,-valves---compressors">Pumps, Pipes, Valves &amp; Compressors</a></li>
+
+      </ul>
+    </div>
+    <div class="span-6">
+      <h4>Browse topics</h4>
+      <ul class="letters clearfix">
+        <li> <a href="/topicindex/a">A</a></li>
+        <li> <a href="/topicindex/b">B</a></li>
+        <li> <a href="/topicindex/c">C</a></li>
+        <li> <a href="/topicindex/d">D</a></li>
+        <li> <a href="/topicindex/e">E</a></li>
+        <li> <a href="/topicindex/f">F</a></li>
+        <li> <a href="/topicindex/g">G</a></li>
+        <li> <a href="/topicindex/h">H</a></li>
+        <li> <a href="/topicindex/i">I</a></li>
+        <li> <a href="/topicindex/j">J</a></li>
+        <li> <a href="/topicindex/k">K</a></li>
+        <li> <a href="/topicindex/l">L</a></li>
+        <li> <a href="/topicindex/m">M</a></li>
+        <li> <a href="/topicindex/n">N</a></li>
+        <li> <a href="/topicindex/o">O</a></li>
+        <li> <a href="/topicindex/p">P</a></li>
+        <li> <a href="/topicindex/q">Q</a></li>
+        <li> <a href="/topicindex/r">R</a></li>
+        <li> <a href="/topicindex/s">S</a></li>
+        <li> <a href="/topicindex/t">T</a></li>
+        <li> <a href="/topicindex/u">U</a></li>
+        <li> <a href="/topicindex/v">V</a></li>
+        <li> <a href="/topicindex/w">W</a></li>
+        <li> <a href="/topicindex/x">X</a></li>
+        <li> <a href="/topicindex/y">Y</a></li>
+        <li> <a href="/topicindex/z">Z</a></li>
+        <li> <a href="/topicindex/_">#</a></li>
+      </ul>
+      <h4>Recently added topics</h4>
+      <ul class="tags">
+<li><a href="/tags/-ernest-henry-mine"> Ernest Henry mine</a></li>
+
+
+<li><a href="/tags/-xstrata-copper"> Xstrata copper</a></li>
+
+
+<li><a href="/tags/-copper-mining"> copper mining</a></li>
+
+
+<li><a href="/tags/-magnetite-iron-ore"> magnetite iron ore</a></li>
+
+
+<li><a href="/tags/-zinc-mining"> zinc mining</a></li>
+
+
+<li><a href="/tags/fly-in-fly-out">fly in fly out</a></li>
+
+
+<li><a href="/tags/fifo">FIFO</a></li>
+
+
+<li><a href="/tags/-northern-territory-mines"> Northern Territory mines</a></li>
+
+
+<li><a href="/tags/-milling-ores"> milling ores</a></li>
+
+
+<li><a href="/tags/-metallurigcal-processing"> metallurigcal processing</a></li>
+
+ </ul>
+    </div>
+    <div class="span-5">
+      <h4>About</h4>
+      <p>MiningAustralia.com.au complements <i>Australian Mining</i> magazine and provides an online space where the mining community can share ideas and upload news, products, company profiles and events information. <a href="/login.aspx">Register</a> today and start contributing.</p>
+<ul><!--<li><a href="/taketour.aspx">Take the Tour</a></li>-->
+    <li><a href="/contactus.aspx">Contact Us</a></li>
+    <li><a href="/advertisewithus.aspx">Advertise with us</a></li>
+    <li><a href="http://static.rbi.com.au/common/contentmanagement/mediakits/miningconstruction_core.pdf">Media kit</a></li>
+    <li><a href="/termsofuse.aspx">Terms of Use</a></li>
+    <li><a href="/privacypolicy.aspx">Privacy Policy</a></li>
+</ul>
+      <h4>Related sites</h4>
+      <ul>
+        
+<li>
+	<a href="http://www.drillblast.com.au" target="_blank">Drilling &amp; Blasting</a>
+	<!-- <p>http://www.drillblast.com.au</p> -->
+</li>
+
+<li>
+	<a href="http://www.minevehicles.com.au" target="_blank">Mine Vehicles</a>
+	<!-- <p>http://www.minevehicles.com.au</p> -->
+</li>
+
+<li>
+	<a href="http://www.mineralsprocessing.com.au" target="_blank">Minerals Processing</a>
+	<!-- <p>http://www.mineralsprocessing.com.au</p> -->
+</li>
+
+<li>
+	<a href="http://www.miningcoal.com.au" target="_blank">Mining Coal</a>
+	<!-- <p>http://www.miningcoal.com.au
+</p> -->
+</li>
+
+<li>
+	<a href="http://www.safemining.com.au" target="_blank">Mining Safety</a>
+	<!-- <p>http://www.safemining.com.au</p> -->
+</li>
+ 
+        <li><a href="/links.aspx">View all our sites</a></li>
+      </ul>
+    </div> <!-- /about -->
+  </div>
+</div> <!-- /directory -->
+</div> <!-- end /wrap -->
+<div id="footer" class="container">
+  <p id="gotop" class="right"><a href="#header">Top</a></p>
+  <p>© Reed Business Information 2010</p>
+</div>
+
+<script type="text/javascript" src="http://static.rbi.com.au/common/penguin/js/jquery.wizard.min.js"></script>
+<script type="text/javascript" src="http://static.rbi.com.au/common/penguin/js/jquery.tablesorter-2.0.3.min.js"></script>
+<script type="text/javascript" src="http://static.rbi.com.au/common/penguin/js/jquery.tablesorter.filter.min.js"></script>	
+<script type="text/javascript" src="http://static.rbi.com.au/common/penguin/js/hint.jquery.js"></script>
+<script type="text/javascript" src="http://static.rbi.com.au/common/penguin/js/superfish.min.js"></script>
+<script type="text/javascript" src="http://static.rbi.com.au/common/penguin/js/jquery.jtwitter.min.js"></script> 
+<script type="text/javascript" src="http://static.rbi.com.au/common/penguin/js/utility_v2.js"></script>
+<script type="text/javascript" src="http://static.rbi.com.au/common/penguin/js/addthis_widget.js"></script>
+<script src="http://platform.twitter.com/anywhere.js?id=bEEhZcsY5ePepDYh8puA&amp;v=1" type="text/javascript"></script>
+<script type="text/javascript" src="/Includes/Penguin/Common/js/writeCapture.js"></script> 
+<script type="text/javascript" src="/Includes/Penguin/Common/js/adload_footer.js"></script>    
+
+<script type="text/javascript">
+$(function(){
+$('.bottom').defaultButton('.button');
+}); 
+</script>
+
+        
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
 
 
 </body></html>
