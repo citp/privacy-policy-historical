@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulletcashmethod.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608122814id_/http%3A//www.bulletcashmethod.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulletcashmethod.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725154516id_/http%3A//www.bulletcashmethod.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
