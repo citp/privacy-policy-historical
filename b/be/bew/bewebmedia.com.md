@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bewebmedia.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314064919id_/http%3A//www.bewebmedia.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bewebmedia.com privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726103956id_/http%3A//www.bewebmedia.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
