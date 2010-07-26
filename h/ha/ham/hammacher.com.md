@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606083154id_/http%3A//www.hammacher.com/Editorial/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727004341id_/http%3A//www.hammacher.com/Editorial/Privacy) for the most accurate reproduction.*
 
 # Privacy - Hammacher Schlemmer
 
@@ -17,7 +17,7 @@ Please note that email is not encrypted and is not considered a secure means of 
 
 We are committed to ensuring your privacy when you shop online with Hammacher Schlemmer. In an effort to improve the online shopping experience at hammacher.com, we do gather information about our visitors' shopping behavior, but we maintain sole ownership over this information and do not share, sell or rent our findings to third parties, except in the few cases described below.
 
-Hammacher Schlemmer contracts with Omniture and Coremetrics for data collection, storage, and reporting services that help us improve your shopping experience. These reporting services use cookies (explained in detail below) to collect information about your usage of Hammacher.com. Both Omniture and Coremetrics are contractually restricted from using your information in any way, other than to help us make our site more useful for you. For more information, including how to opt out of the collection process, please click here: [http://www.coremetrics.com/info_eluminate2.html](http://www.coremetrics.com/info_eluminate2.html.)  
+Hammacher Schlemmer contracts with Omniture and Coremetrics for data collection, storage, and reporting services that help us improve your shopping experience. These reporting services use cookies (explained in detail below) to collect information about your usage of Hammacher.com. Both Omniture and Coremetrics are contractually restricted from using your information in any way, other than to help us make our site more useful for you. For more information, including how to opt out of the collection process, please click here: <http://www.coremetrics.com/company/privacy.php#optout>  
 <http://www.omniture.com/en/privacy/product#optout>
 
 "Cookies" are small bits of information that your Web browser stores on your computer's hard drive. In order to purchase products from the Hammacher Schlemmer web site, your Web browser must be enabled to accept cookies. We also use cookies to give credit to those web sites that direct traffic to hammacher.com for marketing purposes. Hammacher Schlemmer does not use cookies to store or collect personal information such as full names, addresses, or payment information.
