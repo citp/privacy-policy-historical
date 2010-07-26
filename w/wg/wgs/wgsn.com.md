@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgsn.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619015649id_/http%3A//www.wgsn.com/en/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgsn.com privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726104751id_/http%3A//www.wgsn.com/en/Privacy-Policy.html) for the most accurate reproduction.*
 
 # WGSN › Privacy Policy
 
