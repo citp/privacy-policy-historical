@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spbsoftwarehouse.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171811id_/http%3A//www.spbsoftwarehouse.com/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spbsoftwarehouse.com privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726124840id_/http%3A//www.spbsoftwarehouse.com/about/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » SPB Software
 
