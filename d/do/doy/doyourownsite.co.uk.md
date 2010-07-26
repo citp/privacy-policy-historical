@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the doyourownsite.co.uk privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527021145id_/http%3A//www.doyourownsite.co.uk/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyourownsite.co.uk privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726091908id_/http%3A//www.doyourownsite.co.uk/privacy.phtml) for the most accurate reproduction.*
 
 # DoYourOwnSite! - Privacy Policy
 
 **Purpose and Scope**
 
-The privacy of our customers, and the information that they choose to provide to us, is of the utmost importance to us. This privacy policy has been created by DoYourOwnSite! Ltd. to show that we are committed to the protection and privacy of all information given to us. 
+The privacy of our customers, and the information that they choose to provide to us, is of the utmost importance to us. This privacy policy has been created by Create Internet Ltd. to show that we are committed to the protection and privacy of all information given to us. 
 
 This policy discloses what information we gather about you when you visit our website and use our services. It describes how we use that information and how you can control it. Our privacy policy addresses: 
 
-  * Information DoYourOwnSite! Ltd. gathers and tracks
+  * Information Create Internet Ltd. gathers and tracks
   * Personal information
   * Aggregated tracking information
   * Cookies
@@ -18,9 +18,9 @@ This policy discloses what information we gather about you when you visit our we
 
 
   
-**Information DoYourOwnSite! Ltd. gathers and tracks**
+**Information Create Internet Ltd. gathers and tracks**
 
-DoYourOwnSite! Ltd. collects two kinds of information about users: 1) data that users volunteer by signing up to use our services; and 2) aggregated tracking data we collect when users interact with us. 
+Create Internet Ltd. collects two kinds of information about users: 1) data that users volunteer by signing up to use our services; and 2) aggregated tracking data we collect when users interact with us. 
 
   
 **Personal Information**
@@ -29,7 +29,7 @@ In order to sign-up to the services we offer, users are required to give us cont
 
 The contact information given to us is used only by us to contact our customers in connection with their accounts. It can also be displayed on the website that a customer creates if, and only if, that customer chooses so in their online administration area. 
 
-We never sell, rent or pass on our customers' personal information, such as email address or any other personally identifiable information you provide when signing up to our services, to any other company, organisation or person outside DoYourOwnSite! Ltd. unless expressly instructed by the customer to do so. 
+We never sell, rent or pass on our customers' personal information, such as email address or any other personally identifiable information you provide when signing up to our services, to any other company, organisation or person outside Create Internet Ltd. unless expressly instructed by the customer to do so. 
 
   
 **Aggregated tracking information**
