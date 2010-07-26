@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfdigest.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205804id_/http%3A//www.golfdigest.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfdigest.com privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726130314id_/http%3A//www.golfdigest.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: Golf Digest
 
