@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rc-fever.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606230802id_/http%3A//www.rc-fever.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rc-fever.com privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726124856id_/http%3A//www.rc-fever.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Buy Align, ESky, Walkera, Skyartec RC Toys at RC-Fever.com
 
@@ -68,6 +68,6 @@
 **Questions and Suggestions**  
 
 
-  * If you have questions or suggestions, please complete a [feedback form](http://www.rc-fever.com/index.php?main_page=contact_us) or you can contact us at: 
+  * If you have questions or suggestions, please complete a [feedback form](http://www.rc-fever.com/contact_us.html) or you can contact us at: 
 
 
