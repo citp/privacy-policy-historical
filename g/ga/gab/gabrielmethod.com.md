@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabrielmethod.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609051647id_/http%3A//www.gabrielmethod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabrielmethod.com privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726122011id_/http%3A//www.gabrielmethod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Gabriel Method - Lose Weight Without Dieting
 
