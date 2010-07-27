@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914145731id_/http%3A//www.stevespanglerscience.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727165432id_/http%3A//www.stevespanglerscience.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy & Security Policy at Steve Spangler Science
+# Privacy & Security Policy
 
 Any personal information you provide to Steve Spangler Science will only be used to notify you of Steve Spangler Science news, services and activities. Steve Spangler Science will hold the information securely and will not disclose it except for this purpose or when required by law. You have the right to inspect and update your details at any time. If you do not wish to hear from us any longer, please email us at [info@stevespanglerscience.com](mailto:info@stevespanglerscience.com).
 
@@ -14,7 +14,7 @@ When you place an order with Steve Spangler Science through the web site, your i
 
 When you browse the Steve Spangler Science web site you do so anonymously. When you order we need to know your name, email address, mailing address, credit card number and expiry date. This allows us to process and fulfill your order and to notify you of your order status.
 
-We do not collect personal or business information on Steve Spangler Science visitors unless it is voluntarily provided. Steve Spangler Science, to gain a better understanding of products and the services our customers are interested in, may use any information collected from you with your permission. We use this information to help us serve you better.
+We do not collect personal or business information on Steve Spangler Science visitors unless it is voluntarily provided. Steve Spangler Science, to gain a better understanding of the products and the services our customers are interested in, may use any information collected from you with your permission. We use this information to help us serve you better.
 
 We may use this information to occasionally notify you about updates to Steve Spangler Science. If you wish to be removed from our mailing list, please email us at [info@stevespanglerscience.com](mailto:info@stevespanglerscience.com).
 
