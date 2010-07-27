@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lagalaxy.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626073113id_/http%3A//www.mlssoccer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagalaxy.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727164059id_/http%3A//www.mlssoccer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Major League Soccer
 
