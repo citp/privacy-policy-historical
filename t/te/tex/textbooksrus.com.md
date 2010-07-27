@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textbooksrus.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526073607id_/http%3A//textbooksrus.com/service/policy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbooksrus.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727064059id_/http%3A//www.textbooksrus.com/service/policy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # TextbooksRus.com Privacy Policy
 
