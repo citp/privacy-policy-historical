@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weedtracker.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417154004id_/http%3A//www.weedtracker.com/forums/view.php%3Fpg%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weedtracker.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727032929id_/http%3A//www.weedtracker.com/forums/view.php%3Fpg%3Dprivacy_policy) for the most accurate reproduction.*
 
 # WeedTRACKER Privacy Policy
 
