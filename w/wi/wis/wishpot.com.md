@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishpot.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205060113id_/http%3A//www.wishpot.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishpot.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727183832id_/http%3A//www.wishpot.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Wishpot
 
@@ -6,33 +6,29 @@
 
 This privacy policy ("Policy") explains when and how personal information is collected, used, and disclosed with respect to our web site located at [www.wishpot.com](https://web.archive.org/) (the "Site"). By using the Site, you consent to the privacy practices described in this Policy, as modified from time to time by us. **We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices.** Please carefully review this policy whenever you visit our Site so you understand our data privacy practices and can make an informed decision about using our Site.
 
-##  What is Personal Information?
+## What is Personal Information?
 
 As used herein, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, e-mail address, or other account number), and information about that individual's activities, such as information about his or her use of the Site, when directly linked to personally identifiable information. Personal information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. Personal information does not include "aggregate" information. Aggregate information is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users' needs so that we can better consider new features or otherwise tailor our Site. This policy in no way restricts or limits our collection and use of aggregate information.
 
-##  Personal Information We Collect
+## Personal Information We Collect
 
 We collect personal information in a number of ways when you visit our Site. At several places on our Site, we may collect certain information you voluntarily provide to us which may contain personal information. For example, we collect personal information, such as your name, address, photograph and other contact and demographic information when you: (1) register and set up an account; (2) sign up for any of our e-mail newsletters; (3) post an entry or (4) contact us by e-mail for any reason. Personal information may also be collected if you provide such information in connection with creating a profile, leaving comments, providing a review, inviting a friend, sending an email or message to another user or participating in any interactive forums or features on the site. In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities on the Site.
 
 When you visit our web site, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring web site, and the time and date of your visit and purchases. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only. We may also automatically collect certain information through the use of "cookies". For more information on how we use cookies and other information that we automatically collect, please see the section below entitled "Cookies, IP Addresses and URLs"
 
-##  How We Use Personal Information
+## How We Use Personal Information
 
 In general, we use personal information we collect to process your requests or transactions, to provide you with information, products or services you request, and to facilitate your use of the Site and our administration and operation of the Site. We may also use personal information for our internal marketing such as to inform you about other products, services, events, information, and promotions we think will be of interest. For example, we may use the information we collection:
 
-l to send you a welcoming email and to contact you about your use of the Site, such as for administrative purposes or to provide you with customer service;
+  * to send you a welcoming email and to contact you about your use of the Site, such as for administrative purposes or to provide you with customer service;
+  * to provide you with the services, products or information you requested and to complete any transactions in connection therewith;
+  * to respond to your emails, submissions, comments, requests or complaints;
+  * to request feedback and to enable us to develop, customize and improve the Site and our publications, products and services;
+  * to contact you about our services, products, training, activities or special events or offers and for other internal marketing, informational, product development and promotional purposes;
+  * to notify contest winners; and
+  * for the specific purpose for which the information was provided.
 
-l to provide you with the services, products or information you requested and to complete any transactions in connection therewith;
 
-l to respond to your emails, submissions, comments, requests or complaints;
-
-l to request feedback and to enable us to develop, customize and improve the Site and our publications, products and services;
-
-l to contact you about our services, products, training, activities or special events or offers and for other internal marketing, informational, product development and promotional purposes;
-
-l to notify contest winners; and
-
-for the specific purpose for which the information was provided.
 
 Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information.
 
@@ -75,18 +71,18 @@ In addition, we may disclose personal information in the good faith belief that 
   
 
 
-##  Use of our Web Site by Children Under 13
+## Use of our Web Site by Children Under 13
 
 This Site is not intended for use by children under 13, and we do not intend to collect any personal information from children who are under 13 years of age, except as may be permitted by law. Wish lists for children under 13 are solely intended to be created on their behalf by a parents, guardian or other user 13 years of age or over, and no personal information regarding such child should be submitted directly by a child under 13\. If children under 13 wish to create a wish list, they should ask their parent or guardian to open an account and create one on their behalf. If you are under 13, do not attempt to create an Wishpot account and do not provide any personal information on our web site.
 
-##  Links to Other Web Sites
+## Links to Other Web Sites
 
 Our web site contains links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. We are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from our web site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
 
-##  Your Comments or Concerns
+## Your Comments or Concerns
 
 We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at[privacy@wishpot.com](mailto:privacy@wishpot.com), or by mail at Wishpot Inc., 911 Western Ave Suite 420, Seattle, WA 98104.
 
-##  Data Changes
+## Data Changes
 
 If you terminate your account or delete/change your data or content, we usually update our live databases immediately. However, some data may update more slowly, and some old data may remain in our archives and records. Also, we may be unable to propagate changes to partners who receive your data or content. If your account is being terminated or suspended, we may maintain some data to prevent re-registration.
