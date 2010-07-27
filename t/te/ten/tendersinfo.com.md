@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tendersinfo.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617131032id_/http%3A//www.tendersinfo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendersinfo.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727070619id_/http%3A//www.tendersinfo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy - Tenders Info
 
