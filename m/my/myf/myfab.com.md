@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfab.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415220132id_/http%3A//www.myfab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfab.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727172619id_/http%3A//www.myfab.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
