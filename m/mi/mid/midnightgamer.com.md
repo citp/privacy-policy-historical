@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midnightgamer.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225170641id_/http%3A//midnightgamer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midnightgamer.com privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728121429id_/http%3A//midnightgamer.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
