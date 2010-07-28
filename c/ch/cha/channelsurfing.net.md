@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelsurfing.net privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627132830id_/http%3A//www.channelsurfing.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelsurfing.net privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728132803id_/http%3A//www.channelsurfing.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - http://www.channelsurfing.net/
 
