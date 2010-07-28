@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakenamegenerator.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526105606id_/http%3A//www.fakenamegenerator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakenamegenerator.com privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728075727id_/http%3A//www.fakenamegenerator.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fake Name Generator
 
@@ -44,3 +44,5 @@ Fake Name Generator has no access to or control over these cookies that are used
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Fake Name Generator's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
