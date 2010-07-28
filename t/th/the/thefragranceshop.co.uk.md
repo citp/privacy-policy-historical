@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221061744id_/http%3A//www.thefragranceshop.co.uk/c24/privacy-policy-the-fragrance-shop.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefragranceshop.co.uk privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728101134id_/http%3A//www.thefragranceshop.co.uk/c24/privacy-policy-the-fragrance-shop.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Fragrance Shop
-
-[](https://web.archive.org/c622/dr-nose-perfume-finder.html)
-
-  * [](https://web.archive.org/c25/member-benefits-loyalty-discounts-from-the-fragrance-shop.html)
-  * [](https://web.archive.org/store/app/Custquotesview.asp)
-  * [](https://web.archive.org/store/app/gift_reminder_list.asp)
-
-
-
-The Fragrance Shop has over 100 retail outlets throughout the UK 
-
-[Find a store](https://web.archive.org/store_locator.asp)
-
-  
-
 
 The Fragrance Shop makes a commitment to protecting your privacy and promises only to use information collected about you in accordance with the Data Protection Act 1998.
 
@@ -66,6 +51,48 @@ The Fragrance Shop makes a commitment to protecting your privacy and promises o
   
 
 
-  * If you have any questions or comments about privacy or The Fragrance Shop privacy policy, or if you already have submitted information that you do not wish us to have or if you think that www.thefragranceshop.co.uk has cookies or data about you that you don't want us to use or that is incorrect please contact us on the details available on our [Contact Us](https://web.archive.org/web/20091221061744id_/http%3A//www.thefragranceshop.co.uk/c24/contact.html) page and the information will be corrected as soon as possible or removed from our database as you request. 
+  * If you have any questions or comments about privacy or The Fragrance Shop privacy policy, or if you already have submitted information that you do not wish us to have or if you think that www.thefragranceshop.co.uk has cookies or data about you that you don't want us to use or that is incorrect please contact us on the details available on our [Contact Us](https://web.archive.org/web/20100728101134id_/http%3A//www.thefragranceshop.co.uk/c24/contact.html) page and the information will be corrected as soon as possible or removed from our database as you request. 
+
+
+
+### The Fragrance Shop Ratings & Review Guidlines
+
+  
+
+
+  * These Terms of Use govern your conduct associated with the Customer Ratings and Review service offered by The Fragrance Shop Ltd. By submitting any content to The Fragrance Shop Ltd, you represent and warrant that: 
+
+•             you are the sole author and owner of the intellectual property rights thereto; 
+
+•             all "moral rights" that you may have in such content have been voluntarily waived by you; 
+
+•             all content that you post is accurate; 
+
+•             you are at least 13 years old; and that use of the content you supply does not violate these Terms of Use and will not cause injury to any person or entity. 
+
+You further agree and warrant that you shall not submit any content: 
+
+•             that is known by you to be false, inaccurate or misleading; 
+
+•             that infringes any third party's copyright, patent, trademark, trade secret or other proprietary rights or rights of publicity or privacy; 
+
+•             that violates any law, statute, ordinance or regulation (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising); 
+
+•             that is, or may reasonably be considered to be, defamatory, libelous, hateful, racially or religiously biased or offensive, unlawfully threatening or unlawfully harassing to any individual, partnership or corporation; 
+
+•             for which you were compensated or granted any consideration by any third party; 
+
+•             that includes any information that references other websites, addresses, email addresses, contact information or phone numbers; or 
+
+•             that contains any computer viruses, worms or other potentially damaging computer programs or files. 
+
+You agree to indemnify and hold The Fragrance Shop Ltd (and its officers, directors, agents, subsidiaries, joint ventures, employees and third-party service providers), harmless from all claims, demands, and damages (actual and consequential) of every kind and nature, known and unknown including reasonable attorneys' fees, arising out of a breach of your representations and warranties set forth above, or your violation of any law or the rights of a third party. 
+
+For any content that you submit, you grant The Fragrance Shop Ltd and their third-party suppliers a, perpetual, irrevocable, royalty-free, transferable right and license to use, copy, modify, delete in its entirety, adapt, publish, translate, create derivative works from and/or sell and/or distribute such content and/or incorporate such content into any form, medium or technology throughout the world without compensation to you. 
+
+All content that you submit may be used at The Fragrance Shop Ltd's sole discretion. The Fragrance Shop Ltd reserves the right to change, condense or delete any content on its website that The Fragrance Shop Ltd deems, in its sole discretion, to violate the content guidelines or any other provision of these Terms of Use. The Fragrance Shop Ltd does not guarantee that you will have any recourse through TheFragranceShop.co.uk to edit or delete any content you have submitted. Ratings and written comments are generally posted within two to four business days. However, The Fragrance Shop Ltd reserves the right to remove or to refuse to post any submission for any reason. You acknowledge that you, not The Fragrance Shop Ltd, are responsible for the contents of your submission. None of the content that you submit shall be subject to any obligation of confidence on the part of The Fragrance Shop Ltd, its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees. 
+
+By submitting your email address in connection with your rating and review, you agree that The Fragrance Shop Ltd and its third party service providers may use your email address to contact you about the status of your review and other administrative purposes
+
 
 
