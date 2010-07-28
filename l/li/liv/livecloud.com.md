@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecloud.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414200050id_/http%3A//socialstrata.com/docs/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecloud.com privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728081719id_/http%3A//socialstrata.com/docs/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Social Strata Privacy Policy
 
