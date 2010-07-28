@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coventry.ac.uk privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630003000id_/http%3A//www.coventry.ac.uk/home-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventry.ac.uk privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728091337id_/http%3A//www.coventry.ac.uk/home-links/privacy) for the most accurate reproduction.*
 
 # Privacy at Coventry University
 
