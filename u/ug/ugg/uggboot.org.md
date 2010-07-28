@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uggboot.org privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522140558id_/http%3A//www.uggboot.org/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uggboot.org privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729010530id_/http%3A//www.uggboot.org/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Ugg,Ugg Boots sale,Ugg Classic Boots,Cheap Ugg Boots,Uggs on sale,40% OFF!
 
