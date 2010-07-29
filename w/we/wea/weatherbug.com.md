@@ -1,40 +1,18 @@
-> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628214548id_/http%3A//weather.weatherbug.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729171951id_/http%3A//weather.weatherbug.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# USA weather and forecast information on WeatherBug.com
-
-[](http://www.truste.org/ivalidate.php?url=www.weatherbug.com&sealid=101)
+# Rock Springs, WY weather and forecast information on WeatherBug.com
 
 This statement discloses the privacy practices of AWS Convergence Technologies, Inc. and its WeatherBug properties. These include the weatherbug.com, and aws.com, top level domains, including the websites [http://www.weatherbug.com](http://www.weatherbug.com/), [http://www.aws.com](http://www.aws.com/), and the WeatherBug, WeatherBug Plus and WeatherBug Alert desktop applications. When you visit an AWS website, you can expect to be notified of:
 
-**What is our Privacy Philosophy?**
+What is our Privacy Philosophy?
+    
 
-**What Personally Identifiable information is collected?**
+The Internet is rapidly changing the way all of us communicate and interact with each other. While the Internet allows each of us access to more information and services than ever before, these new online activities raise new challenges, such as the privacy issues addressed in this policy. WeatherBug.com is committed to working with public policy organizations, industry groups, and government institutions to understand and address these challenges as they arise. Most importantly, we believe that having a relationship with our customers that is founded on trust is good business. Any feedback you would like to provide to help us better meet your expectations in this area is welcomed. Read our [ Bill of Rights](http://weather.weatherbug.com/about-us/bill-of-rights.html?region=8&region_name=North+America&country=US&country_name=USA&state_code=WY&state_name=Wyoming&dma=770&zip=82901&city_name=Rock+Springs&units=1&stat=KRKS). 
 
-**What is the Privacy Policy for minors?**
+What Personally Identifiable information is collected?
+    
 
-**What organization is collecting the information?**
-
-**How is the information used?**
-
-**With whom may the information be shared?**
-
-**What choices are available to you regarding collection, use, and distribution of the information?**
-
-**What kind of security procedures are in place to protect against the loss, misuse, or alteration of information under the company's control?**
-
-AWS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.weatherbug.com and www.aws.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-Questions regarding this statement should be directed, via e-mail, to [privacy@weatherbugsupport.com](mailto:privacy@weatherbugsupport.com) If we have not responded to your inquiry in a timely manner, or your inquiry has not been satisfactorily addressed, please contact us at 1-800-544-4429. [ 12410 Milestone Center Drive, Suite 300, Germantown, Maryland 20876.] If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns. To return to the WeatherBug home page, please use the "Back" button on your browser. 
-
-**What is our Privacy Philosophy? **
-
-The Internet is rapidly changing the way all of us communicate and interact with each other. While the Internet allows each of us access to more information and services than ever before, these new online activities raise new challenges, such as the privacy issues addressed in this policy. WeatherBug.com is committed to working with public policy organizations, industry groups, and government institutions to understand and address these challenges as they arise. Most importantly, we believe that having a relationship with our customers that is founded on trust is good business. Any feedback you would like to provide to help us better meet your expectations in this area is welcomed. Read our [Bill of Rights](http://weather.weatherbug.com/about-us/bill-of-rights.html). 
-
-Back to Top
-
-**What Personal Identification information is collected? **
-
-WeatherBug.com wants to make your online experience satisfying and safe. Our data collection policies allow you to choose how much personal information to provide to us, and to control how we use that information. Our goal is to provide you with a satisfying online experience while allowing you to control your privacy. WeatherBug.com collects information online primarily to make it easier and more rewarding for you to use our services. When you register, you will be asked at various times to provide information such as your name, email address, and/or information about what you like and do not like. We request this information to provide our strongest value to you - a personalized online experience. Customers who personalize our service come back more often - and it's the customers that visit us often who make us successful - so we do everything we can to make WeatherBug.com your service with your name on it and to give you just the content you want.
+WeatherBug.com wants to make your online experience satisfying and safe. Our data collection policies allow you to choose how much personal information to provide to us, and to control how we use that information. Our goal is to provide you with a satisfying online experience while allowing you to control your privacy. WeatherBug.com collects information online primarily to make it easier and more rewarding for you to use our services. When you register, you will be asked at various times to provide information such as your name, email address, and/or information about what you like and do not like. We request this information to provide our strongest value to you - a personalized online experience. Customers who personalize our service come back more often - and it's the customers that visit us often who make us successful \- so we do everything we can to make WeatherBug.com your service with your name on it and to give you just the content you want.
 
 Information collected online is often defined as being either **_anonymous_** or **_personally identifiable_** :
 
@@ -62,7 +40,7 @@ In general, the downloadable WeatherBug desktop application:
 
 
 
-To enable many of the features available within the AWS sites, we will assign "cookies" to your Internet browser (such as Netscape Navigator or Microsoft Internet Explorer). A cookie is a small text file that contains a unique identification number stored on your computer. Cookies by themselves cannot be used to find out the identity of any user. This unique identification number automatically identifies your browser - but not you - to our server computers whenever you interact on one of our Internet domains. When you visit our site, a cookie is read by our server computers. Every Web page that you access that includes advertising or content served from WeatherBug.com will have the contents of your cookie reported in our server logs. But only when you agree to provide Personally Identifiable Information directly to a AWS branded service, such as through registration, will we be able to know anything about you other than the random number that our server computers originally assign to your browser.
+To enable many of the features available within the AWS sites, we will assign "cookies" to your Internet browser (such as Netscape Navigator or Microsoft Internet Explorer). A cookie is a small text file that contains a unique identification number stored on your computer. Cookies by themselves cannot be used to find out the identity of any user. This unique identification number automatically identifies your browser \- but not you - to our server computers whenever you interact on one of our Internet domains. When you visit our site, a cookie is read by our server computers. Every Web page that you access that includes advertising or content served from WeatherBug.com will have the contents of your cookie reported in our server logs. But only when you agree to provide Personally Identifiable Information directly to a AWS branded service, such as through registration, will we be able to know anything about you other than the random number that our server computers originally assign to your browser.
 
 There is a lot of confusion about cookies, how they are used, and what they can do. Cookies only contain information that the server computer "knew" in the first place, and can only be read by the serving domain that placed them. For instance, Yahoo! utilizes cookies, but AWS servers can't read their contents nor can Yahoo!'s servers read ours. Cookies are an essential part of how the Internet works today, and allow server computers to recognize your computer's browser when you return. If you have ever gone to a Web page that automatically provides personalized content without you having to "sign in," such as your own stock portfolio, this is almost certainly being accomplished with a cookie. Since cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information, or transmit it to anyone.
 
@@ -78,23 +56,20 @@ For Microsoft, please visit:
 
 We employ a software technology called clear gifs (a.k.a. Web Beacons or tracking pixels), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please contact us at [privacy@weatherbugsupport.com](mailto:privacy@weatherbugsupport.com).
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please contact us at [ privacy@weatherbugsupport.com](mailto:privacy@weatherbugsupport.com).
 
-Back to Top
-
-**What is the Privacy Policy for minors?**
+What is the Privacy Policy for minors?
+    
 
 We will never knowingly request Personally Identifiable Information from anyone under the age of 13.
 
-Back to Top
-
-**What organization is collecting the information?**
+What organization is collecting the information?
+    
 
 The data you provide WeatherBug.com is collected by **AWS Convergence Technologies, Inc**. WeatherBug.com is a wholly owned-subsidiary of this corporation. [Click here](http://www.aws.com/) to find information about **AWS Convergence Technologies, Inc.** [http://www.aws.com](http://www.aws.com/)
 
-Back to Top
-
-**How is the information used?**
+How is the information used?
+    
 
 Our services have been designed to enable WeatherBug.com to provide hyper-local, personally relevant weather related content to those customers who wish to receive it. The majority of the services that are provided for free through WeatherBug.com are the result of advertising revenues. Our ability to provide enhanced services and content to our customers is dependent on our ability to provide venues for our advertising partners that reach specific demographic segments of our customer base. Generally, advertisers have little interest in reaching a specific customer of our services - and as a matter of policy we provide no mechanism for an advertiser to reach you or any other specific customer. Instead, our advertising partners have the need to reach customers who share common demographic characteristics such as a specific gender or age range. For instance, certain products, such as sporting goods, may be purchased more often by men then by women, and therefore when advertising those types of products, the advertiser would prefer to target their messages just to men. The better job WeatherBug.com does in providing a mechanism for advertisers to reach specific sub-segments of our users, the more revenue we can generate from advertising and that, ultimately, is what allows you to get the free content that is available from WeatherBug.com.
 
@@ -108,9 +83,8 @@ WeatherBug.com never matches "Who you are" with "Where you've been" on the Inter
 
 We develop summary - but not individual - reports for our advertisers. An example of a summary report might be "12,000 people clicked on Advertisement 'X' today, and of those people, 35% had previously indicated they had an interest in sports." Our advertisers, who make it possible for you to use WeatherBug.com for free, need this information to determine how effective their advertising investments are. We never tell our advertisers who it was that saw or clicked on their advertisements, unless you have specifically told us it is acceptable to do so.
 
-Back to Top
-
-**With whom may the information be shared?**
+With whom may the information be shared?
+    
 
 If you are providing us Personally Identifiable Information, it will only be used within the AWS, Inc Internet domains unless you choose to allow third party data sharing (by opting in for such distribution during the registration process). Should you choose to provide your information to third parties, WeatherBug.com will share aspects of your information with our valued partners. All of our partners help contribute towards many of the free services available on the WeatherBug.com. 
 
@@ -124,13 +98,12 @@ On occasion, WeatherBug.com may offer affiliates the opportunity to host the Wea
 
 Finally, AWS does not control the information collection and distribution policies on Internet domains other than AWS Internet domains.
 
-If you choose to upload photograph(s), participate in blogs, chat rooms or other forums, on the WeatherBug community section, we will collect the Personally Identifiable Information that you wish to share with us. This may include: name, location where the photo was taken and ZIP Code where the photo was taken. If you have participated in the WeatherBug Community and wish to have a photo removed, please send your request to [ support@weatherbugsupport.com](mailto:support@weatherbugsupport.com).
+If you choose to upload photograph(s), participate in blogs, chat rooms or other forums, on the WeatherBug community section, we will collect the Personally Identifiable Information that you wish to share with us. This may include: name, location where the photo was taken and ZIP Code where the photo was taken. If you have participated in the WeatherBug Community and wish to have a photo removed, please send your request to [support@weatherbugsupport.com](mailto:support@weatherbugsupport.com).
 
 Information provided within the community section of the site that is Personally Identifiable Information can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the Personally Identifiable Information you choose to submit in these forums.
 
-Back to Top
-
-**What choices are available regarding collection, use, and distribution of the information?**
+What choices are available to you regarding collection, use, and distribution of the information?
+    
 
 WeatherBug.com does offer you the ability to control the email communications we make to you. It is our intention to give you as much control over our relationship as possible. First, as mentioned earlier, the consumer always has the final word on whether WeatherBug.com - or any Internet company - knows who you are. It is your choice to share Personally Identifiable Information with WeatherBug.com, and we encourage you to consider only sharing information with any site on the Internet in which you feel you receive true value in exchange for that information transfer and if you respect the privacy practices of the firm.
 
@@ -142,13 +115,12 @@ At times, WeatherBug.com may enter into co-branding arrangements with other comp
 
 WeatherBug.com does reserve the right to send a one-time registration confirmation email, and infrequent Service Alert messages to its customers to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status. We may also periodically contact you regarding new or upgraded services or product offerings. We also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of our Terms of Service. WeatherBug.com is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters that will be important to you.
 
-If your personally identifiable information changes you may contact us at [privacy@weatherbugsupport.com](mailto:privacy@weatherbugsupport.com) with the necessary changes. 
+If your personally identifiable information changes you may contact us at [ privacy@weatherbugsupport.com](mailto:privacy@weatherbugsupport.com) with the necessary changes. 
 
-If you no longer desire our service, or wish to delete/deactivate our service please do the following: (1) uninstall the application and (2) send an email to [privacy@weatherbugsupport.com](mailto:privacy@weatherbugsupport.com) requesting full removal from all AWS databases. 
+If you no longer desire our service, or wish to delete/deactivate our service please do the following: (1) uninstall the application and (2) send an email to [ privacy@weatherbugsupport.com](mailto:privacy@weatherbugsupport.com) requesting full removal from all AWS databases. 
 
-Back to Top
-
-**What kind of security procedures are in place to protect against the loss, misuse, or alteration of information under the company's control?**
+What kind of security procedures are in place to protect against the loss, misuse, or alteration of information under the company's control? 
+    
 
 WeatherBug.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers. Secure Socket Layer or SSL encryption is used to transmit sensitive data such as credit card information. 
 
@@ -156,7 +128,9 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-Back to Top
+AWS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.weatherbug.com and www.aws.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+Questions regarding this statement should be directed, via e-mail, to [ privacy@weatherbugsupport.com](mailto:privacy@weatherbugsupport.com) If we have not responded to your inquiry in a timely manner, or your inquiry has not been satisfactorily addressed, please contact us at 1-800-544-4429. [ 12410 Milestone Center Drive, Suite 300, Germantown, Maryland 20876.] If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns. To return to the WeatherBuga home page, please use the "Back" button on your browser. 
 
 WeatherBug.com  
 Customer Information Privacy Policy, last updated March 13, 2007   
