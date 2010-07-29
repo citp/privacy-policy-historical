@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vlacs.org privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208134423id_/http%3A//vlacs.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D72%26Itemid%3D126) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vlacs.org privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729054642id_/http%3A//www.vlacs.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D72%26Itemid%3D126) for the most accurate reproduction.*
 
 # Right to Privacy Policy
 
   * Virtual Learning Academy Charter School will abide by the student privacy guidelines set forth by the Family Educational Rights and Privacy Act (FERPA). The following persons have access to student records:
   * VLACS Board of Trustee members
-  * President and CEO. administrative team, and professional staff of the school (teachers, guidance counselor, the General Counsel)
+  * President and CEO. administrative team, and professional staff of the school (instructors, guidance counselor, the General Counsel)
   * Appropriate administrative support staff members and other professionals who have a legitimate educational or legal interest in student records as designated by the CEO.
 
 
