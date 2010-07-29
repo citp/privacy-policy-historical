@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtoad.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528124900id_/http%3A//playtoad.boonty.com/howitworks.php%3FintMode%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtoad.com privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729033102id_/http%3A//playtoad.boonty.com/howitworks.php%3FintMode%3D5) for the most accurate reproduction.*
 
 # Download games with PlayToad
 
