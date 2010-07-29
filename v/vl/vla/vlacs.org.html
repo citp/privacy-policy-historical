@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vlacs.org privacy policy that was archived on 2009-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090208134423id_/http%3A//vlacs.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D72%26Itemid%3D126) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vlacs.org privacy policy that was archived on 2010-07-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100729054642id_/http%3A//www.vlacs.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D72%26Itemid%3D126) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	  <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -8,6 +8,14 @@
 charter school application, 
 virtual learning academy nh, 
 virtual school administrator, 
+online learning,
+extended learning opportunities,
+competencies,
+competency recovery,
+estart,
+personalized pathways,
+personalized learning,
+customized learning
 virtual learning school, 
 design a virtual school, 
 virtual learning nh, 
@@ -34,12 +42,21 @@ rhode island">
   <meta name="description" content="The Virtual Learning Academy Charter School - VLACS - is New Hampshire's first statewide, on-line high school that is available, free of charge, to all high school students who live in New Hampshire. Out-of-state students may attend on a tuition basis.">
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Right to Privacy Policy</title>
+  <link rel="stylesheet" href="/plugins/system/jceutilities/css/jceutilities-217.css" type="text/css">
+  <link rel="stylesheet" href="/plugins/system/jceutilities/themes/standard/css/style.css" type="text/css">
+  <script type="text/javascript" src="http://www.vlacs.org/plugins/system/mediaobject/js/mediaobject-150.js"></script>
+  <script type="text/javascript" src="/plugins/system/jceutilities/js/jquery-126.js"></script>
+  <script type="text/javascript" src="/plugins/system/jceutilities/js/jceutilities-217.js"></script>
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/silverlight.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/wmvplayer.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/swfobject.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/avreloaded.js"></script>
+  <script type="text/javascript">
+	MediaObject.init({'flash':"9,0,124,0",'windowmedia':"5,1,52,701",'quicktime':"6,0,2,0",'realmedia':"7,0,0,0",'shockwave':"8,5,1,0"});
+	jQuery(document).ready(function(){jceutilities({'popup':{'legacy':0,'resize':1,'icons':1,'overlay':1,'overlayopacity':0.8,'overlaycolor':"#000000",'fadespeed':500,'scalespeed':500,'width':640,'height':480,'hideobjects':1,'scrollpopup':1,'theme':"standard",'themecustom':"",'themepath':"plugins/system/jceutilities/themes"},'tootlip':{'classname':"tooltip",'opacity':1,'speed':150,'position':"br",'offsets':"{'x': 16, 'y': 16}"},'imgpath':"plugins/system/jceutilities/img",'pngfix':1,'wmode':0});});
+  </script>
 
 	
 <link rel="shortcut icon" href="/images/favicon.ico">
@@ -72,6 +89,8 @@ window.addEvent('domready', function() {
 	});
 });
 </script>    <link type="text/css" rel="stylesheet" href="/templates/rt_hivemind_j15/css/menustyle4-small-light.css">
+	<link type="text/css" rel="stylesheet" href="/templates/rt_hivemind_j15/css/calendar.css"> 
+	<script language="JavaScript" src="/templates/rt_hivemind_j15/js/calendar_us.js"></script> 
     <script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -81,6 +100,32 @@ window.addEvent('domready', function() {
 	var pageTracker = _gat._getTracker("UA-6910490-1");
 	pageTracker._trackPageview();
 	} catch(err) {}</script>
+	<script language="JavaScript">
+		function search(search_id, search_val)
+		{
+			var iframe = document.getElementById('report_viewer');
+			var role = document.getElementById('role');
+			var server = 'http://p2db.vlacs.org:8180/birt/';
+			var reportViewerparams = '&__parameterpage=false&__showtitle=false&__toolbar=true';
+			var competencyRadio = document.getElementById('competency_radio');
+			var viewBy = '';
+
+			if (competencyRadio.checked && search_id != 'course_search') {
+				viewBy = '_by_gle';
+			}
+
+			if (role.value != null && role.value != '1') {
+				search_id = 'staff_' + search_id;
+			}
+
+			if (iframe && iframe.src) {
+				var url = server + 'frameset?__report=report/' + search_id + viewBy + '.rptdesign' + reportViewerparams + '&keyword=' + escape(search_val);
+				iframe.src = url;
+		        return false;
+		    }
+		    return true;						
+		}
+	</script> 
 	</head>
 	<body id="ff-optima" class="f-default light">
 		<!-- begin wrapper -->
@@ -94,6 +139,7 @@ window.addEvent('domready', function() {
 		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';">	</div>
 	<input type="hidden" name="task" value="search">
 	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="126">
 </form>		</div>
 	
 					</div>
@@ -112,20 +158,20 @@ window.addEvent('domready', function() {
 					<a href="/" class="nounder"><img src="/images/blank.png" border="0" alt="" id="logo"></a>
 					<div id="horiz-menu-small" class="moomenu menustyle1">
 						<div id="horiz-menu-small2">
-							<ul class="menu"><li class="item132"><a href="http://vsa.vlacs.org"><span>Login</span></a></li><li class="item152"><a href="/index.php?option=com_jcafe&amp;Itemid=152"><span>Store</span></a></li><li class="item151"><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=151"><span>Course Catalog</span></a></li><li class="item37"><a href="http://helpdesk.vlacs.org/" target="_blank"><span>HelpDesk</span></a></li><li class="item41"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=41"><span>Contact Us</span></a></li></ul>
+							<ul class="menu"><li class="item132"><a href="https://vsa2.vlacs.org/"><span>Login</span></a></li><li class="item152"><a href="http://www.cafepress.com/7782500"><span>Store</span></a></li><li class="item151"><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=151"><span>Course Catalog</span></a></li><li class="item37"><a href="http://helpdesk.vlacs.org/" target="_blank"><span>HelpDesk</span></a></li><li class="item41"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=41"><span>Contact Us</span></a></li></ul>
 						</div>
 					</div>
 					<div style="clear:both"></div>
 					<div id="horiz-menu" class="moomenu menustyle3">
 						<div id="horiz-menu2">
-															<ul class="menutop"><li class="item1"><a href="http://www.vlacs.org/"><span>Home</span></a></li><li class="parent item27"><a href="/index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=27" class="topdaddy"><span>About Us</span></a><ul><li class="item61"><a href="/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=61"><span>History of Virtual Schools</span></a></li><li class="item58"><a href="/index.php?option=com_content&amp;view=article&amp;id=57&amp;Itemid=58"><span>Teaching Staff</span></a></li><li class="item84"><a href="http://www.schoolspring.com/jobs?employer=10907" target="_blank"><span>Employment</span></a></li><li class="item55"><a href="/index.php?option=com_content&amp;view=article&amp;id=54&amp;Itemid=55"><span>Funding</span></a></li><li class="item53"><a href="/index.php?option=com_content&amp;view=article&amp;id=51&amp;Itemid=53"><span>Board Meeting Info</span></a></li><li class="item54"><a href="/index.php?option=com_content&amp;view=article&amp;id=53&amp;Itemid=54"><span>Policy Manual</span></a></li></ul></li><li class="parent item102"><a href="/index.php?option=com_content&amp;view=article&amp;id=65&amp;Itemid=102" class="topdaddy"><span>Student &amp; Parents</span></a><ul><li class="parent item103"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=103" class="daddy"><span>Students</span></a><ul><li class="item104"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=104"><span>Online Self Assessment</span></a></li><li class="item105"><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=105"><span>VLACS Course Catalog</span></a></li><li class="item106"><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=106"><span>Registration Steps</span></a></li><li class="item107"><a href="/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=107"><span>Registration Checklist</span></a></li><li class="item108"><a href="/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=108"><span>Technology Requirements</span></a></li><li class="item109"><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=109"><span>Student Code of Conduct</span></a></li><li class="item110"><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=110"><span>Academic Integrity Policy</span></a></li><li class="item111"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=111"><span>Right to Privacy Policy</span></a></li><li class="item112"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=112"><span>Student &amp; Parent FAQs</span></a></li></ul></li><li class="parent item113"><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=113" class="daddy"><span>Parents</span></a><ul><li class="item114"><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=114"><span>Learning at VLACS</span></a></li><li class="item116"><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=116"><span>Access to Student Info</span></a></li><li class="item117"><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=117"><span>Tips for Parents</span></a></li><li class="item118"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=118"><span>Student &amp; Parent FAQs</span></a></li></ul></li></ul></li><li class="parent item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=2" class="topdaddy"><span>Educators</span></a><ul><li class="item96"><a href="/index.php?option=com_content&amp;view=article&amp;id=62&amp;Itemid=96"><span>Educator FAQs</span></a></li><li class="item97"><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=97"><span>Student Code of Conduct</span></a></li></ul></li><li class="parent item133"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=39&amp;Itemid=133" class="topdaddy"><span>News &amp; Media</span></a><ul><li class="item134"><a href="/pdf/press_kit/Fact Sheet_VLCAS.pdf" target="_blank"><span>Fact sheet</span></a></li><li class="item135"><a href="/pdf/press_kit/FAQ_MediaLegis_VLACS.pdf" target="_blank"><span>FAQ's for media</span></a></li><li class="item136"><a href="/pdf/press_kit/FAQ_StudentsParents_VLACS.pdf" target="_blank"><span>FAQ's for students &amp; parents</span></a></li><li class="item137"><a href="/pdf/press_kit/funding.pdf" target="_blank"><span>Funding chart</span></a></li><li class="item149"><a href="/index.php?option=com_content&amp;view=article&amp;id=88&amp;Itemid=149"><span>Commercials</span></a></li></ul></li><li class="parent item101"><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=101" class="topdaddy"><span>Admissions</span></a><ul><li class="item154"><a href="/index.php?option=com_content&amp;view=article&amp;id=85&amp;Itemid=154"><span>eStart</span></a></li><li class="item155"><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=155"><span>Part-time/Full-time Students</span></a></li></ul></li></ul>								
+															<ul class="menutop"><li class="item1"><a href="http://www.vlacs.org/"><span>Home</span></a></li><li class="parent item27"><a href="/index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=27" class="topdaddy"><span>About Us</span></a><ul><li class="item61"><a href="/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=61"><span>History of Virtual Schools</span></a></li><li class="item58"><a href="/index.php?option=com_content&amp;view=article&amp;id=57&amp;Itemid=58"><span>Teaching Staff</span></a></li><li class="item84"><a href="http://www.schoolspring.com/jobs?employer=10907" target="_blank"><span>Employment</span></a></li><li class="item55"><a href="/index.php?option=com_content&amp;view=article&amp;id=54&amp;Itemid=55"><span>Funding</span></a></li><li class="item53"><a href="/index.php?option=com_content&amp;view=article&amp;id=51&amp;Itemid=53"><span>Board Meeting Info</span></a></li><li class="item54"><a href="/index.php?option=com_content&amp;view=article&amp;id=53&amp;Itemid=54"><span>Policy Manual</span></a></li></ul></li><li class="parent item102"><a href="/index.php?option=com_content&amp;view=article&amp;id=65&amp;Itemid=102" class="topdaddy"><span>Student &amp; Parents</span></a><ul><li class="parent item103"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=103" class="daddy"><span>Students</span></a><ul><li class="item104"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=104"><span>Online Self Assessment</span></a></li><li class="item105"><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=105"><span>VLACS Course Catalog</span></a></li><li class="item106"><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=106"><span>Registration Steps</span></a></li><li class="item107"><a href="/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=107"><span>Registration Checklist</span></a></li><li class="item108"><a href="/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=108"><span>Technology Requirements</span></a></li><li class="item109"><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=109"><span>Student Code of Conduct</span></a></li><li class="item110"><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=110"><span>Academic Integrity Policy</span></a></li><li class="item111"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=111"><span>Right to Privacy Policy</span></a></li><li class="item112"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=112"><span>Student &amp; Parent FAQs</span></a></li></ul></li><li class="parent item113"><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=113" class="daddy"><span>Parents</span></a><ul><li class="item114"><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=114"><span>Learning at VLACS</span></a></li><li class="item116"><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=116"><span>Access to Student Info</span></a></li><li class="item117"><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=117"><span>Tips for Parents</span></a></li><li class="item118"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=118"><span>Student &amp; Parent FAQs</span></a></li></ul></li></ul></li><li class="parent item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=2" class="topdaddy"><span>Educators</span></a><ul><li class="item96"><a href="/index.php?option=com_content&amp;view=article&amp;id=62&amp;Itemid=96"><span>Educator FAQs</span></a></li><li class="item97"><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=97"><span>Student Code of Conduct</span></a></li><li class="item164"><a href="/index.php?option=com_content&amp;view=article&amp;id=196&amp;Itemid=164"><span>Partnership</span></a></li><li class="item166"><a href="/index.php?option=com_content&amp;view=article&amp;id=218&amp;Itemid=166"><span>Competency Recovery</span></a></li><li class="item172"><a href="/index.php?option=com_content&amp;view=article&amp;id=218&amp;Itemid=172"><span>Extended Learning Opportunities</span></a></li></ul></li><li class="parent item133"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=39&amp;Itemid=133" class="topdaddy"><span>News &amp; Media</span></a><ul><li class="item134"><a href="/pdf/press_kit/Fact Sheet_VLCAS.pdf" target="_blank"><span>Fact sheet</span></a></li><li class="item136"><a href="/pdf/press_kit/FAQ_StudentsParents_VLACS.pdf" target="_blank"><span>FAQ's for students &amp; parents</span></a></li><li class="item137"><a href="http://vlacs.org/images/stories/funding.jpg" target="_blank"><span>Funding chart</span></a></li><li class="item149"><a href="/index.php?option=com_content&amp;view=article&amp;id=88&amp;Itemid=149"><span>Commercials</span></a></li></ul></li><li class="parent item101"><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=101" class="topdaddy"><span>Admissions</span></a><ul><li class="item154"><a href="http://www.ccsnh.edu/estart/" target="_blank"><span>eStart</span></a></li><li class="item155"><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=155"><span>Part-time/Full-time Students</span></a></li></ul></li></ul>								
 						</div>
 					</div>
 				</div>
 				<!-- end header -->
 									<div id="pathway">
 						<span class="breadcrumbs pathway">
-<a href="http://vlacs.org/" class="pathway">Home</a> <img src="/templates/rt_hivemind_j15/images/arrow.png" alt=""> Right to Privacy Policy</span>
+<a href="http://www.vlacs.org/" class="pathway">Home</a> <img src="/templates/rt_hivemind_j15/images/arrow.png" alt=""> Right to Privacy Policy</span>
 
 					</div>
 								<div id="mainbody-padding">
@@ -140,10 +186,10 @@ window.addEvent('domready', function() {
 					Right to Privacy Policy			</td>
 				
 				<td align="right" width="100%" class="buttonheading">
-		<a href="/index.php?view=article&amp;catid=38%3Astudents-a-parents&amp;id=72%3Aright-to-privacy-policy&amp;tmpl=component&amp;print=1&amp;page=&amp;option=com_content&amp;Itemid=126" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/rt_hivemind_j15/images/printButton.png" alt="Print"></a>		</td>
+		<a href="/index.php?view=article&amp;catid=38%3Astudents-a-parents&amp;id=72%3Aright-to-privacy-policy&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=126" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/rt_hivemind_j15/images/printButton.png" alt="Print"></a>		</td>
 		
 				<td align="right" width="100%" class="buttonheading">
-		<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL3ZsYWNzLm9yZy9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD03MjpyaWdodC10by1wcml2YWN5LXBvbGljeSZjYXRpZD0zODpzdHVkZW50cy1hLXBhcmVudHMmSXRlbWlkPTEyNg==" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=300,menubar=yes,resizable=yes'); return false;"><img src="/templates/rt_hivemind_j15/images/emailButton.png" alt="E-mail"></a>		</td>
+		<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL3d3dy52bGFjcy5vcmcvaW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9NzI6cmlnaHQtdG8tcHJpdmFjeS1wb2xpY3kmY2F0aWQ9Mzg6c3R1ZGVudHMtYS1wYXJlbnRzJkl0ZW1pZD0xMjY=" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/rt_hivemind_j15/images/emailButton.png" alt="E-mail"></a>		</td>
 					</tr>
 </tbody></table>
 
@@ -156,7 +202,7 @@ window.addEvent('domready', function() {
 <ul type="disc">
 <li class="style1">Virtual Learning Academy Charter School will abide by the student privacy guidelines set forth by the Family Educational Rights and Privacy Act (FERPA). The following persons have access to student records:</li>
 <li class="style1">VLACS Board of Trustee members</li>
-<li class="style1">President and CEO. administrative team, and professional staff of the school (teachers, guidance counselor, the General Counsel)</li>
+<li class="style1">President and CEO. administrative team, and professional staff of the school (instructors, guidance counselor, the General Counsel)</li>
 <li class="style1">Appropriate administrative support staff members and other professionals who have a legitimate educational or legal interest in student records as designated by the CEO.</li>
 </ul>
 <p class="style1">Virtual Learning Academy Charter School provides an academic transcript to the student's primary school of record upon completion of the online course(s), or upon any request of the primary school and/or student's legal guardian.</p>
@@ -190,9 +236,10 @@ window.addEvent('domready', function() {
 											<!-- AllVideos Reloaded Plugin (v1.2.4.1054) starts here
 --><ins><noscript><div style="background-color:red;color:white;width:160px"><strong>JavaScript is disabled!</strong><br/>To display this content, you need a JavaScript capable browser.</div></noscript></ins><span id="avreloaded0" class="allvideos"><ins><div id="warnflashavreloaded0" style="background-color:red;color:white;width:160px;visibility:hidden"><strong>Adobe Flash Player not installed or older than 9.0.115!</strong><br><a href="http://www.adobe.com/go/getflashplayer" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;"><img src="/plugins/content/avreloaded/160x41_Get_Flash_Player.jpg" alt="Get Adobe Flash Player here" style="border:0"></a></div></ins></span><script type="text/javascript">
 swfobject.embedSWF('/plugins/content/avreloaded/mediaplayer.swf','avreloaded0','230','185','9.0.115','/plugins/content/avreloaded/expressinstall.swf',
-{file:'http://vlacs.org/images/stories/videos/VLACS.flv',width:'230',height:'185',image:'http://vlacs.org/images/stories/video_thumb.jpg',
-showeq:'false',searchbar:'false',enablejs:'false',autostart:'false',showicons:'true',showstop:'false',showdigits:'true',
-showdownload:'false',usefullscreen:'false',backcolor:'0xFFFFFF',frontcolor:'0x000000',
+{file:'http://www.vlacs.org/images/stories/videos/VLACS.flv',width:'230',height:'185',javascriptid:'p_avreloaded0',
+image:'http://www.vlacs.org/images/stories/video_thumb.jpg',
+showeq:'false',searchbar:'false',enablejs:'true',autostart:'false',showicons:'true',showstop:'false',showdigits:'true',
+showdownload:'false',usefullscreen:'true',backcolor:'0xFFFFFF',frontcolor:'0x000000',
 lightcolor:'0x000000',screencolor:'0x000000',overstretch:'false'}
 ,{allowscriptaccess:'always',seamlesstabbing:'true',allowfullscreen:'true',wmode:'transparent',bgcolor:'#FFFFFF',menu:'true'},
 {id:'p_avreloaded0',styleclass:'allvideos'});
@@ -206,7 +253,7 @@ AllVideos Reloaded Plugin (v1.2.4.1054) ends here -->					</div>
 				<div>
 					<div>
 													<h3>Students and Parents</h3>
-											<ul class="menu"><li class="item119"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=119"><span>Online Self Assessment</span></a></li><li class="item120"><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=120"><span>VLACS Course Catalog</span></a></li><li class="item121"><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=121"><span>Registration Steps</span></a></li><li class="item122"><a href="/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=122"><span>Registration Checklist</span></a></li><li class="item123"><a href="/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=123"><span>Technology Requirements</span></a></li><li class="item124"><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=124"><span>Student Code of Conduct</span></a></li><li class="item125"><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=125"><span>Academic Integrity Policy</span></a></li><li id="current" class="active item126"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=126"><span>Right to Privacy Policy</span></a></li><li class="item127"><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=127"><span>Learning at VLACS</span></a></li><li class="item129"><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=129"><span>Access to Student Info</span></a></li><li class="item130"><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=130"><span>Tips for Parents</span></a></li><li class="item131"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=131"><span>Student &amp; Parent FAQs</span></a></li></ul>					</div>
+											<ul class="menu"><li class="item119"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=119"><span>Online Self Assessment</span></a></li><li class="item120"><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=120"><span>VLACS Course Catalog</span></a></li><li class="item121"><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=121"><span>Registration Steps</span></a></li><li class="item122"><a href="/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=122"><span>Registration Checklist</span></a></li><li class="item123"><a href="/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=123"><span>Technology Requirements</span></a></li><li class="item124"><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=124"><span>Student Code of Conduct</span></a></li><li class="item125"><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=125"><span>Academic Integrity Policy</span></a></li><li id="current" class="active item126"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=126"><span>Right to Privacy Policy</span></a></li><li class="item127"><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=127"><span>Learning at VLACS</span></a></li><li class="item129"><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=129"><span>Access to Student Info</span></a></li><li class="item130"><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=130"><span>Tips for Parents</span></a></li><li class="item131"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=131"><span>Student &amp; Parent FAQs</span></a></li><li class="item169"><a href="/index.php?option=com_user&amp;view=login&amp;Itemid=169"><span>Student Login</span></a></li></ul>					</div>
 				</div>
 			</div>
 		</div>
@@ -238,7 +285,7 @@ AllVideos Reloaded Plugin (v1.2.4.1054) ends here -->					</div>
 				<div>
 					<div>
 													<h3>Students and Parents</h3>
-											<ul id="mainlevel-nav"><li><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=119" class="mainlevel-nav">Online Self Assessment</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=120" class="mainlevel-nav">VLACS Course Catalog</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=121" class="mainlevel-nav">Registration Steps</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=122" class="mainlevel-nav">Registration Checklist</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=123" class="mainlevel-nav">Technology Requirements</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=124" class="mainlevel-nav">Student Code of Conduct</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=125" class="mainlevel-nav">Academic Integrity Policy</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=126" class="mainlevel-nav">Right to Privacy Policy</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=127" class="mainlevel-nav">Learning at VLACS</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=129" class="mainlevel-nav">Access to Student Info</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=130" class="mainlevel-nav">Tips for Parents</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=131" class="mainlevel-nav">Student &amp; Parent FAQs</a></li></ul>					</div>
+											<ul id="mainlevel-nav"><li><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=119" class="mainlevel-nav">Online Self Assessment</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=120" class="mainlevel-nav">VLACS Course Catalog</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=121" class="mainlevel-nav">Registration Steps</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=122" class="mainlevel-nav">Registration Checklist</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=123" class="mainlevel-nav">Technology Requirements</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=124" class="mainlevel-nav">Student Code of Conduct</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=125" class="mainlevel-nav">Academic Integrity Policy</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=126" class="mainlevel-nav" id="active_menu-nav">Right to Privacy Policy</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=127" class="mainlevel-nav">Learning at VLACS</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=129" class="mainlevel-nav">Access to Student Info</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=130" class="mainlevel-nav">Tips for Parents</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=131" class="mainlevel-nav">Student &amp; Parent FAQs</a></li><li><a href="/index.php?option=com_user&amp;view=login&amp;Itemid=169" class="mainlevel-nav">Student Login</a></li></ul>					</div>
 				</div>
 			</div>
 		</div>
@@ -250,7 +297,7 @@ AllVideos Reloaded Plugin (v1.2.4.1054) ends here -->					</div>
 				<div>
 					<div>
 													<h3>Educators</h3>
-											<ul id="mainlevel-nav"><li><a href="/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=98" class="mainlevel-nav">Educators</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=62&amp;Itemid=99" class="mainlevel-nav">Educator FAQs</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=100" class="mainlevel-nav">Student Code of Conduct</a></li></ul>					</div>
+											<ul id="mainlevel-nav"><li><a href="/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=98" class="mainlevel-nav">Educators</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=62&amp;Itemid=99" class="mainlevel-nav">Educator FAQs</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=100" class="mainlevel-nav">Student Code of Conduct</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=196&amp;Itemid=163" class="mainlevel-nav">Partnership</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=218&amp;Itemid=167" class="mainlevel-nav">Competency Recovery</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=218&amp;Itemid=171" class="mainlevel-nav">Extended Learning Opportunities</a></li></ul>					</div>
 				</div>
 			</div>
 		</div>
@@ -259,7 +306,7 @@ AllVideos Reloaded Plugin (v1.2.4.1054) ends here -->					</div>
 				<div>
 					<div>
 													<h3>eStart</h3>
-											<ul id="mainlevel-nav"><li><a href="/index.php?option=com_content&amp;view=article&amp;id=85&amp;Itemid=145" class="mainlevel-nav">eStart</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=86&amp;Itemid=146" class="mainlevel-nav">eStart Registration</a></li></ul>					</div>
+											<ul id="mainlevel-nav"><li><a href="http://www.ccsnh.edu/estart/" target="_blank" class="mainlevel-nav">Dual Credit for High School and College</a></li></ul>					</div>
 				</div>
 			</div>
 		</div>
@@ -271,7 +318,7 @@ AllVideos Reloaded Plugin (v1.2.4.1054) ends here -->					</div>
 				<div>
 					<div>
 													<h3>News and Media</h3>
-											<ul id="mainlevel-nav"><li><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=39&amp;Itemid=139" class="mainlevel-nav">Press Releases</a></li><li><a href="/pdf/press_kit/Fact Sheet_VLCAS.pdf" target="_blank" class="mainlevel-nav">Fact sheet</a></li><li><a href="/pdf/press_kit/FAQ_MediaLegis_VLACS.pdf" target="_blank" class="mainlevel-nav">FAQ's for media</a></li><li><a href="/pdf/press_kit/FAQ_StudentsParents_VLACS.pdf" target="_blank" class="mainlevel-nav">FAQ's for students &amp; parents</a></li><li><a href="/pdf/press_kit/funding.pdf" target="_blank" class="mainlevel-nav">Funding chart</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=88&amp;Itemid=150" class="mainlevel-nav">Commercials</a></li></ul>					</div>
+											<ul id="mainlevel-nav"><li><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=39&amp;Itemid=139" class="mainlevel-nav">Press Releases</a></li><li><a href="/pdf/press_kit/Fact Sheet_VLCAS.pdf" target="_blank" class="mainlevel-nav">Fact sheet</a></li><li><a href="/pdf/press_kit/FAQ_StudentsParents_VLACS.pdf" target="_blank" class="mainlevel-nav">FAQ's for students &amp; parents</a></li><li><a href="/var/www/virtual-hosts/vlacs.org/public_html/images/stories/funding.jpg" target="_blank" class="mainlevel-nav">Funding chart</a></li><li><a href="/index.php?option=com_content&amp;view=article&amp;id=88&amp;Itemid=150" class="mainlevel-nav">Commercials</a></li></ul>					</div>
 				</div>
 			</div>
 		</div>
