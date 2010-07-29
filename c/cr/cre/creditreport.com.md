@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the creditreport.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501071841id_/http%3A//www.creditreport.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditreport.com privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729064631id_/http%3A//www.creditreport.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Check your Credit Report Online at Creditreport.com!
 
-Last updated: July 30th, 2009. To see what has changed, [click here]().
+Last updated: July 30th, 2009. View any changes to our [Privacy Policy]() since the last update.
 
 Welcome! We are committed to maintaining the privacy and security of your personal information. This Privacy Policy provides information about our privacy practices and applies to all information collected on this site. Our Privacy Policy may change periodically as we respond to evolving technology, changes in our products or services and/or consumer needs and expectations.
 
 ## Types of information we collect
 
-Anonymous Information
+### Anonymous Information
 
 Anonymous information refers to information that cannot be linked to a specific individual. Anonymous information is analyzed and used to make general improvements to our web site and the services we provide. We may collect anonymous information either directly or from a third-party. The anonymous information we collect may include, but is not limited to:
 
@@ -22,7 +22,7 @@ Anonymous information refers to information that cannot be linked to a specific 
 
 Additionally, we may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals or by removing items such as your name or address that make the resulting information personally identifiable to you. Once information is de-personalized in this manner, there are no restrictions under this Privacy Policy upon our rights to aggregate or de-personalize your personal information, and we may use and/or share the resulting non-personally identifiable information with third-parties in any manner.
 
-Personally Identifiable Information
+### Personally Identifiable Information
 
 Personally identifiable information refers to information that can be linked to a specific individual. We collect your personal information only if you decide to register for, log on, or visit our web sites, purchase one of our products or services, participate in a free trial or other promotional program, participate in our affiliate program, subscribe to our newsletter, participate in one or more of our contests or surveys, request further information related to promotional offers on our site, or transact other business with us. Personally identifiable information may be collected on applications, forms and in correspondence (written or oral). Personally identifiable information may include, but is not limited to:
 
@@ -43,7 +43,7 @@ In general, personally identifiable information is used for the purpose for whic
 
 Our web sites may also use a variety of technical methods for tracking purposes, including tracking pixels. Tracking pixels are small pieces of data that are embedded in images on the pages of web sites. These technical methods are used to analyze the traffic patterns on our web sites, such as how often our users visit various parts of our web sites. These technical methods may involve the communication of information either directly to us or to another party authorized by us to collect information on our behalf. We may also use these technical methods in HTML emails that we send our visitors to determine whether they have opened those emails and/or clicked on links in those emails. The information obtained from the use of these technical methods may be collected in a form that is personally identifiable.
 
-How We Share Your Information
+### How We Share Your Information
 
 When you order a product or service through us, we must share some of your personally identifiable information with third-parties in order to fulfill your order. We cannot, for example, retrieve your credit report or credit score without sharing your personal information with the provider of that service. We cannot process your order payment without sharing personal information with our credit card payment processor. These third-parties are not permitted to use your personal information for any purpose other than to provide the requested service.
 
@@ -65,7 +65,7 @@ Consumers who use our web sites and services can further enhance the security of
 
 ## Cookies
 
-What Is A Cookie?
+### What Is A Cookie?
 
 We use cookies to enhance the navigation of our site and delivery of our services. Examples of how we use cookies include, but are not limited to:
 
@@ -91,6 +91,6 @@ In the event we go through a business transition, such as a merger, acquisition 
 
 ## Contact us
 
-You may contact us with comments or questions regarding our Privacy Policy at [support@creditreport.com](mailto:support@creditreport.com?). Or, write to us at:
+You may contact us with comments or questions regarding our Privacy Policy at [support@creditreport.com](mailto:support@creditreport.com). Or, write to us at:
 
 RE: Privacy Policy Mighty Net, Inc. P.O. Box 1829 Agoura Hills, CA 91376-1829
