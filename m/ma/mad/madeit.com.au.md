@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madeit.com.au privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926181547id_/http%3A//www.madeit.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madeit.com.au privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729175349id_/http%3A//www.madeit.com.au/privacy.asp) for the most accurate reproduction.*
 
-# madeit - buy & sell handmade goods :: 100% Australian handmade & independent
+# madeit - the handmade market open all day every day :: buy & sell australian handmade :: art :: craft :: design
 
 The security of your personal information is important to us and we are committed to maintaining the privacy of our customers and securing any details you provide us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However no method of transmission over the internet or method of electronic storage is 100% secure.
 
@@ -20,7 +20,7 @@ We will only permit your personal information to be accessed by authorised madei
 
 To protect your personal information, madeit uses international grade SSL encryption where appropriate to protect any information you have requested and any information you send against access by a third party. If your browser does not support SSL, or if you are connecting to the Internet from behind a firewall, pages may not display correctly. If that is the case, please note that you may not be able to use this website.
 
-If at anytime you would like to remove your personal details from our database, or you have any queries regarding our Terms of Use or Privacy Policy, please contact us using the “[Contact Us](https://web.archive.org/web/20090926181547id_/http%3A//contact.asp)” link.
+If at anytime you would like to remove your personal details from our database, or you have any queries regarding our Terms of Use or Privacy Policy, please contact us using the “[Contact Us](https://web.archive.org/web/20100729175349id_/http%3A//contact.asp)” link.
 
   
 
