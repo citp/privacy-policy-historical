@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wtfast.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327055734id_/http%3A//www.wtfast.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtfast.com privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729222252id_/http%3A//www.wtfast.com/privacy.aspx) for the most accurate reproduction.*
 
-# WTFast.com - Make WOW Faster, Improve your Ping, Latency and Response time.
+# WTFast.com (What The Fast) - Make WOW Faster, Improve your Ping, Latency and Response time.
 
 Privacy Policy Statement
 
