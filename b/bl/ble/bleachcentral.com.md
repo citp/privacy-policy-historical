@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachcentral.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529161837id_/http%3A//www.bleachcentral.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachcentral.com privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729213137id_/http%3A//www.bleachcentral.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Bleach Central | Privacy Policy
 
