@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430140319id_/http%3A//www.humanservices.gov.au/generic/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanservices.gov.au privacy policy that was archived on 2010-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100730043546id_/http%3A//www.humanservices.gov.au/generic/privacy.php) for the most accurate reproduction.*
 
-# Human Services Portfolio
+# Department of Human Services | Privacy
 
 When you look at this website, we keep a record of your visit and log the following information for statistical purposes - the user's server address, the date and time of visit to the site, the pages accessed and documents downloaded, the previous site visited, and the type of browser used. No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise its authority to inspect the Internet Service Provider's logs.
 
@@ -16,10 +16,4 @@ You should be aware that information sent via the internet, especially if it is 
 
 For further information contact:
 
-**Media and Communication  
-Department of Human Services  
-** PO Box 3959  
-MANUKA ACT 2603  
-
-
-Top of page
+**Marketing and Communication Department of Human Services** PO Box 3959 MANUKA ACT 2603 Fax: 02 6233 0289 Tel: 1300 55 44 79
