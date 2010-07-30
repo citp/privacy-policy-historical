@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armedforcesloans.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530101850id_/http%3A//www.armedforcesloans.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armedforcesloans.com privacy policy that was archived on 2010-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100730221816id_/https%3A//www.armedforcesloans.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Armed Forces Loans of Nevada Inc.
 
