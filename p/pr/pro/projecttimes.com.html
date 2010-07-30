@@ -1,68 +1,37 @@
-<!--The following is the downloaded HTML source of the projecttimes.com privacy policy that was archived on 2010-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100428053855id_/http%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the projecttimes.com privacy policy that was archived on 2010-07-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100730041951id_/http%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://www.projecttimes.com/privacy-policy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="keywords" content="Project Times Privacy Policy">
-  <meta name="title" content="Privacy Policy">
-  <meta name="author" content="Administrator">
-  <meta name="meta_description" content="Project Times and Your PrivacyIn order to ensure that we at">
-  <meta name="meta_keywords" content="project, information, times, privacy, projectworld, Administrator">
   <meta name="robots" content="index, follow">
-  <meta name="description" content="Project Times Privacy Policy">
-  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
-  <title>Project Times Privacy Policy</title>
+  <meta name="keywords" content="project, information, times, privacy, projectworld, Administrator">
+  
+  <meta name="author" content="Administrator">
+  <meta name="description" content="Project Times and Your PrivacyIn order to ensure that we at">
+  
+  <title>Project Management | ProjectTimes Privacy Policy</title>
   <link href="/templates/ja_teline_iii/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="http://www.projecttimes.com/plugins/system/yoo_effects/lightbox/shadowbox.css" type="text/css">
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_jabulletin/assets/style.css" type="text/css">
   <link rel="stylesheet" href="/templates/ja_teline_iii/css/mod_jabulletin.css" type="text/css">
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
   <script type="text/javascript">
-window.addEvent("domready", function() {
-	 					/// Get all redirect links
-						var links = $$("a[href*=ijoomla_seo]");
-	 					
-						//links.each(function(link){
-	 				    //	alert(link.innerHTML);
-	 					//});
-	 					
-	 					links.addEvents({
-	 						'click' : function (ev){
-	 							ev = new Event(ev).stop();
-	 							hr = this.href;
-	 							/// Get the seo redirect id from link url
-	 							if(hr.contains("id=")){
-	 								arr = hr.split("id=");
-	 								var id = arr[1];
-	 							}
-								
-	 							if(hr.contains("/id,")){
-	 								arr = hr.split("/id,");
-	 								var id = arr[1].charAt(0);	 								
-	 							}
-	 							obj = this;
-	 							var url = "administrator/components/com_ijoomla_seo/ajax.php?tasks=redirect&id="+id;
-	 							new Ajax(url, {
-									method: 'post',									
-									onComplete: function(resp){		 									
-					 					changeURL(obj, resp)
-					 				}.bind(this) 
-								}).request();
-									 							
-	 						   }
-	 					    });
-	 					    
-	 					    function changeURL(obj, resp){	 							
-	 							var prop = resp.split(",");	 							
-	 							if(prop[1] == "_blank")	 									 							
-	 					    			window.open(prop[0], "name");
-	 					    		else 
-	 					    			window.location = prop[0];
-	 						}
-	 					
-					}); 
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});
   </script>
   <script type="text/javascript">
 /*<![CDATA[*/
@@ -129,9 +98,9 @@ var tmplurl='http://www.projecttimes.com/templates/ja_teline_iii';
 <link href="http://www.projecttimes.com/templates/ja_teline_iii/css/colors/theme.css" rel="stylesheet" type="text/css">
 
 
-<script type="text/javascript">var CurrentFontSize=parseInt('3');</script></head>
+<script type="text/javascript">var CurrentFontSize=parseInt('4');</script><meta http-equiv="Content-Language" content="en"></head>
 
-<body id="bd" class="fs3 Others">
+<body id="bd" class="fs4 Others">
 
 <div id="ja-wrapper">
 	<a name="Top" id="Top"></a>
@@ -141,9 +110,7 @@ var tmplurl='http://www.projecttimes.com/templates/ja_teline_iii';
 <div class="main">
 <div class="inner clearfix">
 
-		<h1 class="logo">
-		<a href="/index.php" title="Project Management | Project Managers"><span>Project Management | Project Managers</span></a>
-	</h1>
+		
 	    <div id="ja-header-right">
 	
         	<div id="ja-search">
@@ -163,14 +130,14 @@ var tmplurl='http://www.projecttimes.com/templates/ja_teline_iii';
 	<div id="ja-mainnav" class="wrap">
 <div class="main clearfix">
 	<div id="ja-splitmenu" class="mainlevel clearfix">
-<ul><li class="menu-item0 active first-item"><a href="http://www.projecttimes.com/" class="menu-item0 active first-item" id="menu1" title="Home"><span class="menu-title">Home</span></a></li><li class="menu-item1"><a href="/articles/" class="menu-item1" id="menu176" title="Articles"><span class="menu-title">Articles</span></a></li><li class="menu-item2"><a href="/blogs/" class="menu-item2" id="menu177" title="Blogs"><span class="menu-title">Blogs</span></a></li><li class="menu-item3"><a href="/webinars-training/" class="menu-item3" id="menu178" title="Webinars - Training"><span class="menu-title">Webinars - Training</span></a></li><li class="menu-item4"><a href="/software/" class="menu-item4" id="menu294" title="Software"><span class="menu-title">Software</span></a></li><li class="menu-item5"><a href="/project-management-books.html" class="menu-item5" id="menu255" title="Books"><span class="menu-title">Books</span></a></li><li class="menu-item6"><a href="/community.html" class="menu-item6" id="menu301" title="Community"><span class="menu-title">Community</span></a></li><li class="menu-item7"><a href="/project-management-whitepapers/" class="menu-item7" id="menu293" title="Whitepapers"><span class="menu-title">Whitepapers</span></a></li><li class="menu-item8"><a href="/events/" class="menu-item8" id="menu158" title="Events"><span class="menu-title">Events</span></a></li><li class="menu-item9"><a href="/register.html" class="menu-item9" id="menu157" title="Register"><span class="menu-title">Register</span></a></li><li class="menu-item10 last-item"><a href="/login.html" class="menu-item10 last-item" id="menu180" title="Login"><span class="menu-title">Login</span></a></li></ul>
+<ul><li class="menu-item0 active first-item"><a href="http://www.projecttimes.com/" class="menu-item0 active first-item" id="menu1" title="Home"><span class="menu-title">Home</span></a></li><li class="menu-item1"><a href="/articles/" class="menu-item1" id="menu176" title="Articles"><span class="menu-title">Articles</span></a></li><li class="menu-item2"><a href="/blogs/" class="menu-item2" id="menu177" title="Blogs"><span class="menu-title">Blogs</span></a></li><li class="menu-item3"><a href="/webinars-training/" class="menu-item3" id="menu178" title="Training"><span class="menu-title">Training</span></a></li><li class="menu-item4"><a href="/software/" class="menu-item4" id="menu294" title="Software"><span class="menu-title">Software</span></a></li><li class="menu-item5"><a href="/project-management-whitepapers/" class="menu-item5" id="menu293" title="White Papers"><span class="menu-title">White Papers</span></a></li><li class="menu-item6"><a href="/project-management-books.html" class="menu-item6" id="menu255" title="Books"><span class="menu-title">Books</span></a></li><li class="menu-item7"><a href="/events/" class="menu-item7" id="menu158" title="Events"><span class="menu-title">Events</span></a></li><li class="menu-item8"><a href="/community.html" class="menu-item8" id="menu301" title="Community"><span class="menu-title">Community</span></a></li><li class="menu-item9"><a href="/register.html" class="menu-item9" id="menu157" title="Register"><span class="menu-title">Register</span></a></li><li class="menu-item10"><a href="/login.html" class="menu-item10" id="menu180" title="Login"><span class="menu-title">Login</span></a></li><li class="menu-item11 last-item"><a href="/my-profile.html" class="menu-item11 last-item" id="menu315" title="Profile"><span class="menu-title">Profile</span></a></li></ul>
 </div></div>
 </div>
 
 <div id="ja-subnav" class="wrap">
 <div class="main clearfix">
 	<div class="sublevel">
-<ul class="active"><li class=" first-item"><a href="/about-project-times.html" class=" first-item" id="menu237" title="About Us"><span class="menu-title">About Us</span></a></li><li><a href="/contact-us/projecttimes-contact-info.html" id="menu236" title="Contact Us"><span class="menu-title">Contact Us</span></a></li><li class=" active"><a href="/privacy-policy.html" class=" active" id="menu239" title="Privacy"><span class="menu-title">Privacy</span></a></li><li><a href="/contributing-to-projecttimes.html" id="menu240" title="Contribute"><span class="menu-title">Contribute</span></a></li><li><a href="/component/option,com_recommendfriends/Itemid,241/" id="menu241" title="Refer a Colleague"><span class="menu-title">Refer a Colleague</span></a></li><li class=" last-item"><a href="/component/option,com_jmrgsearch/Itemid,291/view,search/" class=" last-item" id="menu291" title="Search"><span class="menu-title">Search</span></a></li></ul>
+<ul class="active"><li class=" first-item"><a href="/about-project-times.html" class=" first-item" id="menu237" title="About Us"><span class="menu-title">About Us</span></a></li><li><a href="/contact-us.html?eventid=PROJECTTIMES&amp;email_sent_to=info@projecttimes.com" id="menu236" title="Contact Us"><span class="menu-title">Contact Us</span></a></li><li class=" active"><a href="/privacy-policy.html" class=" active" id="menu239" title="Privacy"><span class="menu-title">Privacy</span></a></li><li><a href="/contributing-to-projecttimes.html" id="menu240" title="Contribute"><span class="menu-title">Contribute</span></a></li><li><a href="/component/option,com_recommendfriends/Itemid,241/" id="menu241" title="Refer a Colleague"><span class="menu-title">Refer a Colleague</span></a></li><li class=" last-item"><a href="/component/option,com_jmrgsearch/Itemid,291/view,search/" class=" last-item" id="menu291" title="Search"><span class="menu-title">Search</span></a></li></ul>
 </div></div>
 </div>
 
@@ -221,7 +188,7 @@ var addthis_pub = 'mmorton_ca';
 
 <h2 class="contentheading clearfix">
 		<a href="/privacy-policy.html" class="contentpagetitle">
-		Privacy Policy	</a>
+		ProjectTimes Privacy Policy	</a>
 	</h2>
 
 
@@ -234,15 +201,14 @@ tweetmeme_url = 'http://www.projecttimes.com/privacy-policy.html';
 tweetmeme_source = 'projecttimes';
 tweetmeme_service = 'ow.ly';
 tweetme_window = 'new';
-tweetme_bgcolor = '#ffffff';
+tweetmeme_style = 'compact';
 tweetmeme_source = 'projecttimes';
 tweetmeme_service = 'ow.ly';
-tweetme_title = 'Privacy Policy';
+tweetme_title = 'ProjectTimes Privacy Policy';
 </script>
 <script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
-</div><h1 class="style1">ProjectTimes Privacy Policy</h1>
-<p align="left" class="style1"><strong>Privacy Policy</strong><br>ProjectTimes is sensitive to the privacy needs of its website visitors and members (“you” or “users”).&nbsp; This privacy policy applies to any personal information collected through this ProjectTimes.com website (the “Site”) and discloses the privacy practices for all products and services of ProjectTimes, a Diversified Business Communications company (the “Company” or “we”).</p>
-<p align="left" class="style1">This privacy policy does not apply to other websites, including those that may be accessed through links contained on this Site.&nbsp; This privacy policy does not apply to other online or offline activities of Advertisers, Sponsors, Partners, and/or Affiliates and does not apply to any information you supply to Company through any means other than this Site.</p>
+</div>ProjectTimes is sensitive to the privacy needs of its website visitors and members (“you” or “users”).&nbsp; This privacy policy applies to any personal information collected through this ProjectTimes.com website (the “Site”) and discloses the privacy practices for all products and services of ProjectTimes, a Diversified Business Communications company (the “Company” or “we”).
+<p class="style1" align="left">This privacy policy does not apply to other websites, including those that may be accessed through links contained on this Site.&nbsp; This privacy policy does not apply to other online or offline activities of Advertisers, Sponsors, Partners, and/or Affiliates and does not apply to any information you supply to Company through any means other than this Site.</p>
 <p class="style1"><strong>Collection of Personal Information</strong><br>The Company requires users to register for access to, or participation in certain parts of the Site, or to subscribe to certain products of the website such as email newsletters, online events, contests, polls, forums, blogs, jobs, comments, and tell-a-friend, etc.&nbsp; Company collects personal information such as your name, e-mail address, mailing address, phone number to send notifications related to the Company’s services.&nbsp;</p>
 <p class="style1"><strong>Consent and Security</strong><br>It is your choice whether or not you provide your registration information to the Company but registration information is required in order for the Company to provide you with services, namely, access to and/or participation in the Site.</p>
 <p class="style1">Company also collects certain profile information in connection with the use of and participation in the social networking features of the Site.&nbsp; This information includes, but is not limited to your company name, your title, your business interests and your geographic location, and is used for the purpose of assisting users in communicating with each other.</p>
@@ -259,21 +225,9 @@ tweetme_title = 'Privacy Policy';
 <p class="style1">This Privacy Policy applies only to the Site operated by the Company, and not to any other websites to which the Site may link.</p>
 <p class="style1"><strong>Surveys and Contests</strong><br>The Company may invite users to participate in surveys or contests.&nbsp; User’s participation in these surveys or contests is completely voluntary.&nbsp; The information collected from surveys and contests may be used to identify aggregate demographic characteristics of users to improve our services, for marketing purposes, for industry reporting purposes, and/or to notify the winners and award prizes.&nbsp;&nbsp;Subject to the user’s preferences, such information also may be shared with third-party sponsors of such surveys or contests.</p>
 <p class="style1"><strong>Effective Date</strong><br>This Privacy Policy is effective as of March, 2007 and will remain in effect unless changed.&nbsp; The Company may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy on the Site.</p>
-<p class="style1"><strong>Questions</strong><br>You can get answers to your questions about our privacy policy, review your personal information, and correct inaccuracies by contacting Company through the ProjectTimes website or by writing to: <br></p>
+<p class="style1"><strong>Questions</strong><br>You can get answers to your questions about our privacy policy, review your personal information, and correct inaccuracies by contacting Company through the ProjectTimes website or by writing to:</p>
 
-			<table align="center" class="pagenav">
-			<tbody><tr>
-				<th class="pagenav_prev">
-					<a href="/advertise-with-us.html">&lt; Prev</a>
-				</th>
-				<td width="50">
-					&nbsp;
-				</td>
-				<th class="pagenav_next">
-					<a href="/about-project-times.html">Next &gt;</a>
-				</th>
-			</tr>
-			</tbody></table></div>
+</div>
 
 
 
@@ -297,100 +251,123 @@ tweetme_title = 'Privacy Policy';
 		<div class="ja-mass ja-mass-top clearfix">
 			<div class="ja-moduletable moduletable_tabs  clearfix" id="Mod88">
 						<div class="ja-box-ct clearfix">
-		<div class="ja-tabswrap teline_iii" style="width:100%;">	<div id="myTab-2122308481" class="container">	<div class="ja-tabs-title-top" style="">			
-								<ul class="ja-tabs-title"><li title="Latest Comments"><h3><span>Latest Comments</span></h3></li><li title="Most Popular"><h3><span>Most Popular</span></h3></li><li title="Most Recent"><h3><span>Most Recent</span></h3></li></ul>
+		<div class="ja-tabswrap teline_iii" style="width:100%;">	<div id="myTab-2097960929" class="container">	<div class="ja-tabs-title-top" style="">			
+								<ul class="ja-tabs-title"><li title="Top 5 Articles"><h3><span>Top 5 Articles</span></h3></li><li title="White Papers"><h3><span>White Papers</span></h3></li><li title="Comments"><h3><span>Comments</span></h3></li></ul>
 							</div>						
 							<div class="ja-tab-panels-top"><div class="ja-tab-content">
+							<div class="ja-tab-subcontent"><ul class="ja-bullettin clearfix">
+	<li>
+                
+			<div>  
+
+		<a href="/articles/anatomy-of-an-effective-project-manager.html" class="mostread">
+			Anatomy of an Effective Project Manager</a>
+                          </div>
+	</li>
+	<li>
+                
+			<div>  
+
+		<a href="/articles/meet-your-new-best-friend-the-project-charter.html" class="mostread">
+			Meet Your New Best Friend; the Project Charter</a>
+                          </div>
+	</li>
+	<li>
+                
+			<div>  
+
+		<a href="/elizabeth-larson/scrum-vs-waterfall-round-2-the-fight-continues.html" class="mostread">
+			Scrum vs. Waterfall Round 2; The Fight Continues</a>
+                          </div>
+	</li>
+	<li>
+                
+			<div>  
+
+		<a href="/articles/top-10-pitfalls-to-avoid-when-implementing.html" class="mostread">
+			Top 10 Pitfalls to Avoid when Implementing Project Management Software</a>
+                          </div>
+	</li>
+	<li>
+                
+			<div>  
+
+		<a href="/articles/minimizing-sme-bias-of-subject-matter-experts-through-eeffective-project-management.html" class="mostread">
+			Minimizing SME Bias of Subject Matter Experts through effective Project Management</a>
+                          </div>
+	</li>
+</ul>  </div>
+						 </div><div class="ja-tab-content">
+							<div class="ja-tab-subcontent"><ul class="ja-bullettin clearfix">
+	<li>
+						<div>
+			<a href="/project-management-whitepapers/tips-and-tricks-getting-the-most-from-toadr-for-data-analysts-25.html" class="mostread">Tips and Tricks Getting the Most from Toad® for Data Analysts 2.5</a>
+						</div>
+
+	</li>
+	<li>
+						<div>
+			<a href="/project-management-whitepapers/executive-guide-to-business-and-software-requirements.html" class="mostread">Executive Guide to Business and Software Requirements</a>
+						</div>
+
+	</li>
+	<li>
+						<div>
+			<a href="/project-management-whitepapers/getting-consensus-on-business-requirement-tips-and-traps.html" class="mostread">Getting Consensus on Business Requirement: Tips and Traps</a>
+						</div>
+
+	</li>
+	<li>
+						<div>
+			<a href="/project-management-whitepapers/requirements-discovery-and-elicitation-tactics-for-tomorrow.html" class="mostread">Requirements discovery and elicitation: Tactics for Tomorrow</a>
+						</div>
+
+	</li>
+	<li>
+						<div>
+			<a href="/project-management-whitepapers/diagnosing-requirements-failure.html" class="mostread">Diagnosing Requirements Failure</a>
+						</div>
+
+	</li>
+</ul>  </div>
+						 </div><div class="ja-tab-content">
 							<div class="ja-tab-subcontent"><ul style="overflow: hidden" class="jomlatest">
 	<li class="jomlatest">
-		<a href="/articles/common-mistakes-of-new-project-teams.html" class="jomlatest">
-			Common Mistakes of New Project Teams</a>
+		<a href="/portfolio-management/the-rise-of-saas-portfolio-and-project-management-solutions.html" class="jomlatest">
+			The Rise of SaaS Portfolio and Project Management Solutions</a>
 		<br>
-		<i>Nice read, but understanding cultural influence is also one ...</i>
+		<i>Saas is really the best way to cut back on IT cost...</i>
 	</li>
 	<li class="jomlatest">
-		<a href="/elizabeth-larson/who-should-define-the-business-need.html" class="jomlatest">
-			Who Should Define the Business Need?</a>
+		<a href="/portfolio-management/the-rise-of-saas-portfolio-and-project-management-solutions.html" class="jomlatest">
+			The Rise of SaaS Portfolio and Project Management Solutions</a>
 		<br>
-		<i>We've been following the practice of  "the person or group r...</i>
+		<i>This is a great overview, Cynthia.  I particularly...</i>
 	</li>
 	<li class="jomlatest">
-		<a href="/claude-emond/the-tale-of-the-bow-learning-from-gabriel.html" class="jomlatest">
-			The Tale of the Bow; Learning from Gabriel</a>
+		<a href="/george-pitagorsky/time-to-value-and-the-value-of-time.html" class="jomlatest">
+			Time-to-Value and the Value of Time</a>
 		<br>
-		<i>Hello Mr. Emond, I am Xianghui Liu, I am your Chinese Profes...</i>
+		<i>Hi Christine,
+Thanks for your comment.  I agree sl...</i>
 	</li>
 	<li class="jomlatest">
-		<a href="/claude-emond/the-tale-of-the-bow-learning-from-gabriel.html" class="jomlatest">
-			The Tale of the Bow; Learning from Gabriel</a>
+		<a href="/portfolio-management/the-rise-of-saas-portfolio-and-project-management-solutions.html" class="jomlatest">
+			The Rise of SaaS Portfolio and Project Management Solutions</a>
 		<br>
-		<i>Thanks Stephane
+		<i>Good afternoon Cynthia.
 
-I learned many this from you too, particula...</i>
+So pleased to see an arti...</i>
 	</li>
 </ul>
   </div>
-						 </div><div class="ja-tab-content">
-							<div class="ja-tab-subcontent"><ul class="ja-bullettin clearfix">
-	<li>
-						<div style="padding-left:10px">
-			<a href="/articles/10-steps-to-creating-a-project-plan.html" class="mostread">10 Steps to Creating a Project Plan</a>
-						</div>
-
-	</li>
-	<li>
-												<div style="padding-left:10px">
-			<a href="/articles/how-and-why-do-we-write-project-charters.html" class="mostread">How And Why Do We Write Project Charters?</a>
-						</div>
-
-	</li>
-	<li>
-												<div style="padding-left:10px">
-			<a href="/articles/are-we-supposed-to-negotiate.html" class="mostread">Are We Supposed To Negotiate On Projects?</a>
-						</div>
-
-	</li>
-	<li>
-												<div style="padding-left:10px">
-			<a href="/scope-management/kick-starting-your-projects-what-you-should-you-know-about-defining-scope.html" class="mostread">Kick-Starting Your Projects; What You Should Know about Defining Scope</a>
-						</div>
-
-	</li>
-</ul>  </div>
-						 </div><div class="ja-tab-content">
-							<div class="ja-tab-subcontent"><ul class="ja-bullettin clearfix">
-	<li>
-						<div>
-			<a href="/project-teams/the-project-managers-collaborating-conundrum.html" class="mostread">The Project Manager’s Collaborating Conundrum</a>
-						</div>
-
-	</li>
-	<li>
-						<div>
-			<a href="/claude-emond/the-tale-of-the-bow-learning-from-gabriel.html" class="mostread">The Tale of the Bow; Learning from Gabriel</a>
-						</div>
-
-	</li>
-	<li>
-						<div>
-			<a href="/elizabeth-larson/who-should-define-the-business-need.html" class="mostread">Who Should Define the Business Need?</a>
-						</div>
-
-	</li>
-	<li>
-						<div>
-			<a href="/articles/common-mistakes-of-new-project-teams.html" class="mostread">Common Mistakes of New Project Teams</a>
-						</div>
-
-	</li>
-</ul>  </div>
 						 </div></div>	</div>
 					</div><script type="text/javascript" charset="utf-8">
 						window.addEvent("load", init);
 						function init() {
-							myTabs1 = new JATabs("myTab-2122308481", {animType:'animNone',style:'teline_iii',position:'top',width:'100%',height:'auto',mouseType:'click',duration:1000,colors:5,useAjax:false,skipAnim:false});							
+							myTabs1 = new JATabs("myTab-2097960929", {animType:'animNone',style:'teline_iii',position:'top',width:'100%',height:'auto',mouseType:'click',duration:1000,colors:5,useAjax:false,skipAnim:false});							
 						}
-						//new JATabs("myTab-2122308481", {animType:'animNone',style:'teline_iii',position:'top',width:'100%',height:'auto',mouseType:'click',duration:1000,colors:5,useAjax:false,skipAnim:false});													
+						//new JATabs("myTab-2097960929", {animType:'animNone',style:'teline_iii',position:'top',width:'100%',height:'auto',mouseType:'click',duration:1000,colors:5,useAjax:false,skipAnim:false});													
 				     </script>		</div>
     </div>
 		<div class="ja-moduletable moduletable  clearfix" id="Mod140">
@@ -403,22 +380,18 @@ I learned many this from you too, particula...</i>
 		<div class="ja-colswrap clearfix ja-r2">
 
 			<div class="ja-col ja-right1 column">
-				<div class="ja-moduletable moduletable-blank  clearfix" id="Mod65">
+				<div class="ja-moduletable moduletable-blank  clearfix" id="Mod173">
 						<div class="ja-box-ct clearfix">
-		<!-- BEGIN ADVERTPRO CODE BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/view/banner/javascript/zone?zid=59&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
+		<script type="text/javascript"><!--
+google_ad_client = "pub-9519437716719983";
+/* 200x90, created 7/21/10 */
+google_ad_slot = "0835799881";
+google_ad_width = 200;
+google_ad_height = 90;
 //-->
-</script><script src="http://dbcc.advertserve.com/advertpro/servlet/view/banner/javascript/zone?zid=59&amp;pid=0&amp;random=39047116&amp;millis=1580390712394&amp;referrer=https%3A//web.archive.org/web/20100428053855id_/http%253A//www.projecttimes.com/privacy-policy.html" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://dbcc.advertserve.com/advertpro/servlet/click/zone?zid=59&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://dbcc.advertserve.com/advertpro/servlet/view/banner/image/zone?zid=59&pid=0&position=1" height="150" width="180" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END ADVERTPRO CODE BLOCK -->		</div>
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
     </div>
 		<div class="ja-moduletable moduletable  clearfix" id="Mod48">
 						<div class="ja-box-ct clearfix">
@@ -435,7 +408,7 @@ document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/vi
 <!--
 document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=57&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
 //-->
-</script><script src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=57&amp;pid=0&amp;random=60791128&amp;millis=1580390712397&amp;referrer=https%3A//web.archive.org/web/20100428053855id_/http%253A//www.projecttimes.com/privacy-policy.html" language="JavaScript" type="text/javascript"></script>
+</script><script src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=57&amp;pid=0&amp;random=37305860&amp;millis=1580390713895&amp;referrer=https%3A//web.archive.org/web/20100730041951id_/http%253A//www.projecttimes.com/privacy-policy.html" language="JavaScript" type="text/javascript"></script>
 
 <!-- END ADVERTPRO CODE BLOCK -->		</div>
     </div>
@@ -447,7 +420,7 @@ document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/vi
 <!--
 document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=62&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
 //-->
-</script><script src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=62&amp;pid=0&amp;random=66210695&amp;millis=1580390712399&amp;referrer=https%3A//web.archive.org/web/20100428053855id_/http%253A//www.projecttimes.com/privacy-policy.html" language="JavaScript" type="text/javascript"></script>
+</script><script src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=62&amp;pid=0&amp;random=12698149&amp;millis=1580390713901&amp;referrer=https%3A//web.archive.org/web/20100730041951id_/http%253A//www.projecttimes.com/privacy-policy.html" language="JavaScript" type="text/javascript"></script>
 
 <!-- END ADVERTPRO CODE BLOCK -->		</div>
     </div>
@@ -455,34 +428,9 @@ document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/vi
 		</div>
 	
 			<div class="ja-col ja-right2 column">
-				<div class="ja-moduletable moduletable-blank  clearfix" id="Mod75">
+				<div class="ja-moduletable moduletable  clearfix" id="Mod170">
 						<div class="ja-box-ct clearfix">
-		<!-- BEGIN ADVERTPRO CODE BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/view/banner/javascript/zone?zid=72&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://dbcc.advertserve.com/advertpro/servlet/view/banner/javascript/zone?zid=72&amp;pid=0&amp;random=20615721&amp;millis=1580390712401&amp;referrer=https%3A//web.archive.org/web/20100428053855id_/http%253A//www.projecttimes.com/privacy-policy.html" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://dbcc.advertserve.com/advertpro/servlet/click/zone?zid=72&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://dbcc.advertserve.com/advertpro/servlet/view/banner/image/zone?zid=72&pid=0&position=1" height="150" width="180" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END ADVERTPRO CODE BLOCK -->		</div>
-    </div>
-		<div class="ja-moduletable moduletable  clearfix" id="Mod64">
-						<div class="ja-box-ct clearfix">
-		<!-- BEGIN ADVERTPRO CODE BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=58&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=58&amp;pid=0&amp;random=76015442&amp;millis=1580390712403&amp;referrer=https%3A//web.archive.org/web/20100428053855id_/http%253A//www.projecttimes.com/privacy-policy.html" language="JavaScript" type="text/javascript"></script>
-
-<!-- END ADVERTPRO CODE BLOCK -->		</div>
+		<a href="/project-management-whitepapers/"><img style="border-width: 0px;" src="/images/stories/free-whitepapers.png" alt="free-whitepapers" width="180" height="150"></a>		</div>
     </div>
 		<div class="ja-moduletable moduletable-blank  clearfix" id="Mod70">
 						<div class="ja-box-ct clearfix">
@@ -492,7 +440,7 @@ document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/vi
 <!--
 document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=63&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
 //-->
-</script><script src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=63&amp;pid=0&amp;random=43156509&amp;millis=1580390712405&amp;referrer=https%3A//web.archive.org/web/20100428053855id_/http%253A//www.projecttimes.com/privacy-policy.html" language="JavaScript" type="text/javascript"></script>
+</script><script src="http://dbcc.advertserve.com/advertpro/servlet/view/text/javascript/zone?zid=63&amp;pid=0&amp;random=41388651&amp;millis=1580390713912&amp;referrer=https%3A//web.archive.org/web/20100730041951id_/http%253A//www.projecttimes.com/privacy-policy.html" language="JavaScript" type="text/javascript"></script>
 
 <!-- END ADVERTPRO CODE BLOCK -->		</div>
     </div>
@@ -501,6 +449,35 @@ document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/vi
 	
 	</div>
 	
+		<div class="ja-mass ja-mass-bottom clearfix">
+			<div class="ja-moduletable moduletable  clearfix" id="Mod174">
+						<div class="ja-box-ct clearfix">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-9519437716719983";
+/* 300x250, created 7/21/10 */
+google_ad_slot = "3138026392";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod172">
+						<div class="ja-box-ct clearfix">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-9519437716719983";
+/* 300x250, created 6/21/10 */
+google_ad_slot = "0788063693";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+    </div>
+	
+	</div>
 	
 </div>
 <!-- RIGHT COLUMN--> 
@@ -558,7 +535,7 @@ document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/vi
 
 <div class="ja-footnav clearfix">
 	<span style="color: #ffffff;">
-<div style="text-align: center;">© ProjectTimes.com 2010 | <a href="/sitemap.html"><span style="color: #ffffff;">Sitemap</span></a> | <a href="/Terms_and_Conditions.html"><span style="color: #ffffff;">Terms of Use</span></a><br><a href="http://www.batimes.com"><span style="color: #ffffff;"> Business Analyst Times</span></a><span style="color: #ffffff;"> | </span><a href="http://www.projectworldcanada.com"><span style="color: #ffffff;">Project Management World</span></a><span style="color: #ffffff;"> | </span><a href="http://www.projectsummit.com" title="Project Management Summit"><span style="color: #ffffff;">Project Management Summit</span></a><span style="color: #ffffff;"> | </span><a href="http://www.businessanalystworld.com"><span style="color: #ffffff;">Business Analyst World</span></a></div>
+<div style="text-align: center;">© ProjectTimes.com 2010 | <a href="/sitemap.html"><span style="color: #ffffff;">Sitemap</span></a> | <a href="/Terms_and_Conditions.html"><span style="color: #ffffff;">Terms of Use</span></a><br><a href="http://www.batimes.com"><span style="color: #ffffff;"> Business Analyst</span></a><span style="color: #ffffff;"> | </span><a href="http://www.projectworldcanada.com"><span style="color: #ffffff;">Project Management World</span></a><span style="color: #ffffff;"> | </span><a title="Project Management Summit" href="http://www.projectsummit.com"><span style="color: #ffffff;">Project Management Summit</span></a><span style="color: #ffffff;"> | </span><a href="http://www.businessanalystworld.com"><span style="color: #ffffff;">Business Analyst World</span></a></div>
 </span>
 	<ul class="ja-links">
 		<li class="layout-switcher"></li>
@@ -569,17 +546,7 @@ document.write('<SCR'+'IPT src="http://dbcc.advertserve.com/advertpro/servlet/vi
 	
 <div class="inner">
 	<div class="ja-copyright">
-		<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-853056-10");
-pageTracker._setDomainName("projecttimes.com");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
+		
 	</div>
 </div>
 
@@ -593,6 +560,17 @@ pageTracker._trackPageview();
 
 
 
+<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/9526.js"> </script>
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-853056-10");
+			pageTracker._trackPageview();
+			} catch(err) {}</script>
+			
 
 
 
