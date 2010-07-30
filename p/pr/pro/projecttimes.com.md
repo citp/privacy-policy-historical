@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the projecttimes.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428053855id_/http%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projecttimes.com privacy policy that was archived on 2010-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100730041951id_/http%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Project Times Privacy Policy
+# Project Management | ProjectTimes Privacy Policy
 
-**Privacy Policy**  
-ProjectTimes is sensitive to the privacy needs of its website visitors and members (“you” or “users”).  This privacy policy applies to any personal information collected through this ProjectTimes.com website (the “Site”) and discloses the privacy practices for all products and services of ProjectTimes, a Diversified Business Communications company (the “Company” or “we”).
+ProjectTimes is sensitive to the privacy needs of its website visitors and members (“you” or “users”).  This privacy policy applies to any personal information collected through this ProjectTimes.com website (the “Site”) and discloses the privacy practices for all products and services of ProjectTimes, a Diversified Business Communications company (the “Company” or “we”). 
 
 This privacy policy does not apply to other websites, including those that may be accessed through links contained on this Site.  This privacy policy does not apply to other online or offline activities of Advertisers, Sponsors, Partners, and/or Affiliates and does not apply to any information you supply to Company through any means other than this Site.
 
@@ -52,8 +51,4 @@ The Company may invite users to participate in surveys or contests.  User’s p
 This Privacy Policy is effective as of March, 2007 and will remain in effect unless changed.  The Company may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy on the Site.
 
 **Questions**  
-You can get answers to your questions about our privacy policy, review your personal information, and correct inaccuracies by contacting Company through the ProjectTimes website or by writing to:   
-
-
-[< Prev](http://www.projecttimes.com/advertise-with-us.html) |    |  [Next >](http://www.projecttimes.com/about-project-times.html)  
----|---|---
+You can get answers to your questions about our privacy policy, review your personal information, and correct inaccuracies by contacting Company through the ProjectTimes website or by writing to:
