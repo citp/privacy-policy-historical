@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktoplinux.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627033051id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktoplinux.com privacy policy that was archived on 2010-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100731080502id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Ziff Davis Enterprise - Where Tech Buyers Get Results
 
