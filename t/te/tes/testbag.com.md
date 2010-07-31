@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the testbag.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503084845id_/http%3A//www.testbag.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testbag.com privacy policy that was archived on 2010-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100731163624id_/http%3A//us.testbag.com/privacy_policy.php) for the most accurate reproduction.*
 
-# TestBag
+# Untitled Document
 
-|  |   
----|---  
+|   
+---  
   
-|  | 
+|  |  | 
 
 #### PRIVACY POLICY  
   
@@ -37,5 +37,6 @@ Kindly note that other Internet sites to which you link from www.testbag.com may
   
    
    
-   
- 
+  
+  
+
