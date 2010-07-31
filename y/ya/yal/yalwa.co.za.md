@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yalwa.co.za privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203071457id_/http%3A//www.yalwa.co.za/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yalwa.co.za privacy policy that was archived on 2010-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100731081845id_/http%3A//www.yalwa.co.za/info/privacy) for the most accurate reproduction.*
 
 # Yalwa Info pages
 
