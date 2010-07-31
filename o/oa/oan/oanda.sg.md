@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oanda.sg privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618005801id_/http%3A//www.oanda.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oanda.sg privacy policy that was archived on 2010-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100731074309id_/http%3A//www.oanda.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OANDA Asia Pacific
 
