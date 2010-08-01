@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techenclave.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215231356id_/http%3A//www.techenclave.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techenclave.com privacy policy that was archived on 2010-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100801050242id_/http%3A//www.techenclave.com/privacy.php) for the most accurate reproduction.*
 
-# TechEnclave
+# Privacy Policy - TechEnclave
 
 **Publication Date: May01, 2005**  
 _Revised: August 14, 2006_  
