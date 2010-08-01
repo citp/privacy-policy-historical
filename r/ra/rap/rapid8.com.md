@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapid8.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629001359id_/http%3A//www.rapid8.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid8.com privacy policy that was archived on 2010-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100801110846id_/http%3A//www.rapid8.com/pp.php) for the most accurate reproduction.*
 
 # Rapid8.Com | MegaUpload RapidShare Premium Link Generator. Direct Download
 
