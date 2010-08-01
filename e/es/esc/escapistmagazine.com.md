@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapistmagazine.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628230654id_/http%3A//www.themis-media.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapistmagazine.com privacy policy that was archived on 2010-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100801063606id_/http%3A//www.themis-media.com/content/privacy) for the most accurate reproduction.*
 
 # Themis Media : Privacy Policy
 
