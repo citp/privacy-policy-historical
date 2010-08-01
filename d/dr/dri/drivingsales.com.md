@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivingsales.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502031613id_/http%3A//www.drivingsales.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivingsales.com privacy policy that was archived on 2010-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100801211239id_/http%3A//www.drivingsales.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DrivingSales
 
@@ -8,13 +8,13 @@ This privacy policy was last modified on 15th august 2008
 
 RECENT UPDATES TO THIS PRIVACY POLICY
 
-DrivingSales, Inc. ("Company," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use drivingsales.com and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
+DrivingSales, Inc. ("Company," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use drivingsales.com and related services (the â€œServiceâ€), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 ### Information We Collect
 
 **User-Provided Information:** You provide us information about yourself, such as your name and e-mail address, when you register with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
-**Cookies Information:** When you visit drivingsales.com, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+**Cookies Information:** When you visit drivingsales.com, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browserâ€™s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
 **Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
@@ -36,9 +36,9 @@ We use cookies, clear gifs, and log file information to: (a) remember informatio
 
 ### How We Share Your Information
 
-**Personally Identifiable Information:** Company will not rent or sell your personally identifiable information to others. Company may share your personally identifiable information with third parties for the purpose of providing services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
+**Personally Identifiable Information:** Company will not rent or sell your personally identifiable information to others. Company may share your personally identifiable information with third parties for the purpose of providing services to you. If we do this, such third partiesâ€™ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
 
-You may elect to share your personal information (or authorize Company to do so) with other users of the Service.  In such event, Company maintains no further control over and accepts no liability for how such personal information is used.
+You may elect to share your personal information (or authorize Company to do so) with other users of the Service.Â  In such event, Company maintains no further control over and accepts no liability for how such personal information is used.
 
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution. 
 
