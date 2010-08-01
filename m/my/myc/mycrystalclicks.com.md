@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycrystalclicks.com privacy policy that was archived on 2009-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090120095412id_/http%3A//www.mycrystalclicks.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycrystalclicks.com privacy policy that was archived on 2010-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100801185224id_/http%3A//mycrystalclicks.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Advertise FREE with MyTrafficX
 
