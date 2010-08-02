@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleresources.net privacy policy that was archived on 2008-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081118200941id_/http%3A//www.articleresources.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleresources.net privacy policy that was archived on 2010-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100802115322id_/http%3A//www.articleresources.net/privacy.php) for the most accurate reproduction.*
 
 # Article Resources - Free Article Directory | Privacy Statement
 
