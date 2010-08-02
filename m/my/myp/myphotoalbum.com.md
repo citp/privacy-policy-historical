@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myphotoalbum.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528181616id_/http%3A//www.myphotoalbum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myphotoalbum.com privacy policy that was archived on 2010-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100803004452id_/http%3A//www.myphotoalbum.com/privacy.php) for the most accurate reproduction.*
 
 # MyPhotoAlbum :: Photo Sharing and Online Photo Album :: Privacy Policy
 
