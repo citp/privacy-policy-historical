@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartvideochannel.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531174306id_/http%3A//smartvideochannel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartvideochannel.com privacy policy that was archived on 2010-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100802230514id_/http%3A//smartvideochannel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SmartVideoChannel - Privacy Policy
 
