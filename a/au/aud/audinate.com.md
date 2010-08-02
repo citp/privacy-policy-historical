@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audinate.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407064606id_/http%3A//www.audinate.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D80) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audinate.com privacy policy that was archived on 2010-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100802074446id_/http%3A//www.audinate.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D80) for the most accurate reproduction.*
 
 # Privacy Policy
 
