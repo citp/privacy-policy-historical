@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the blackrock.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624221419id_/http%3A//www.blackrock.com/global/home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackrock.com privacy policy that was archived on 2010-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100804010132id_/http%3A//www.blackrock.com/global/home/PrivacyPolicy) for the most accurate reproduction.*
 
 # BlackRock - Privacy Policy
 
 BlackRock recognizes the importance of protecting your personal and financial information when you visit our website located at [www.blackrock.com](http://www.blackrock.com/) (“Website”). The following information is designed to help you understand the information collection practices at this Website.
 
 By visiting this Website, you are accepting the practices described in this Privacy Policy. If you do not agree to this policy, please do not use this Website. Please review the [Terms and Conditions](http://www2.blackrock.com/global/home/TermsandConditions/index.htm) to learn of other terms and conditions applicable to your use of this Website.
+
+To view the BlackRock CollegeAdvantage 529 Plan's Privacy Policy, [click here](http://estudio.blackrock.com/publicServices/commonservice.asp?venue=PUB_IND&source=CONTENT&serviceName=PublicServiceView&ContentID=1111093882).
 
 Changes to this Privacy Policy
 
@@ -51,7 +53,3 @@ Contact Us
 If you have any questions about this Privacy Policy or our privacy related practices, or if you would like a copy of BlackRock’s Regulation S-P privacy policy, please contact us.
 
 BlackRock is a trademark of BlackRock, Inc. BlackRock is an equal opportunity employer committed to diversity in the workplace.
-
-Copyright ©1998-2008 BlackRock, Inc. All rights reserved.
-
-.
