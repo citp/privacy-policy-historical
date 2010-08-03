@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofa.gov.bd privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815011823id_/http%3A//www.mofa.gov.bd/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D394%26Itemid%3D440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofa.gov.bd privacy policy that was archived on 2010-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100803231924id_/http%3A//www.mofa.gov.bd/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D394%26Itemid%3D440) for the most accurate reproduction.*
 
 # Ministry of Foreign Affairs, Dhaka, Bangladesh - Privacy Policy
 
@@ -29,6 +29,4 @@ This website includes links to websites operated by other government agencies, n
 
 **Policy Revision and Notification of Changes**
 
-Ministry of Foreign Affairs of Bangladesh may at any time revise or update this policy without notice. We may inform our users about policy changes through notices on this page containing a version number and date. Any information collected under the current policy will remain subject to these terms. Information collected after any changes take effect will be subject to the revised privacy policy.   
-  
-Last Updated ( Wednesday, 10 June 2009 ) 
+Ministry of Foreign Affairs of Bangladesh may at any time revise or update this policy without notice. We may inform our users about policy changes through notices on this page containing a version number and date. Any information collected under the current policy will remain subject to these terms. Information collected after any changes take effect will be subject to the revised privacy policy. 
