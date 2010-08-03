@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshershome.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218123649id_/http%3A//www.freshershome.com/jobs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshershome.com privacy policy that was archived on 2010-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100803055718id_/http%3A//www.freshershome.com/jobs/privacy.php) for the most accurate reproduction.*
 
 # Freshershome.com - Privacy Policy!
 
@@ -11,7 +11,7 @@ Freshershome.com, is committed to safeguarding your privacy online. We will use 
 
 A Job Seeker is entitled to access to his/her own personal data kept with FreshersHome.com and may edit or amend such personal data at any time. 
 
-Retention of Personal Details Subject to legal requirements, the personal data of the Job Seeker will be retained by FreshersHome.com after deactivation of the Service until the Job Seeker formally requests FreshersHome.com to erase his/her own personal data from FreshersHome.com's database. 
+Retention of Personal Details Subject to legal requirements, the personal data of the Job Seeker will be retained by FreshersHome.com after deactivation of the Service until the Job Seeker formally requests FreshersHome.com to erase his/her own personal data from FreshersHome.com's database.
 
 The Job Seeker can delete his or her own personal data at any time via the Resume profile section of our website. 
 
@@ -53,22 +53,33 @@ Freshershome.com does not **rent, sell, or share personal information** about yo
 
 
 
-**We At FreshersHome.com,** we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit FreshersHome.com, and how we safeguard your information.  We never sell your personal information to third parties.
+**We At FreshersHome.com,** we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit FreshersHome.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 **Log Files**  
-As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
-**Cookies and Web Beacons**  
-We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+**Cookies and Web Beacons**
 
-We also use third party advertisements on FreshersHome.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+  * Google, as a third party vendor, uses cookies to serve ads on FreshersHome.com Website. 
+  * Google's use of the DART cookie enables it to serve ads to FreshersHome.com users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
+
+We also use third party advertisements on FreshersHome.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Bangalore real estate ads to someone in Bangalore, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 **Other Provisions**
 
-_Acceptance of Terms/Changes to Privacy Policy_ \-- Your use of this site [FreshersHome.com] indicates an acceptance of the terms of the **Privacy Policy**. Freshershome.com reserves the right to update or amend this Privacy Policy at any time. 
+ _Acceptance of Terms/Changes to Privacy Policy_ \-- Your use of this site [FreshersHome.com] indicates an acceptance of the terms of the **Privacy Policy**. Freshershome.com reserves the right to update or amend this Privacy Policy at any time. 
 
 **Contacting the FreshersHome.com**
 
 If you have any questions about this Privacy Statement, the practices of our site, or your dealings with our site, please [Contact Us](http://www.freshershome.com/jobs/contact-us.php "Contact us").
+
+[Support](http://www.freshershome.com/jobs/support.php) | [FAQ](http://www.freshershome.com/jobs/faq.php) | [Why Register](http://www.freshershome.com/jobs/why-reg.php "Why Register") | [New Jobs ](https://web.archive.org/web/20100803055718id_/http%3A//www.freshershome.com/jobs/index.php?action=search) | [Contact US](http://www.freshershome.com/jobs/contact-us.php) | [Advertising](http://www.freshershome.com/advertise.php) | [Terms](http://www.freshershome.com/jobs/terms.php "Terms and Conditions") | [Privacy](http://www.freshershome.com/jobs/privacy.php "Privacy Statement")  
+---|---|---|---|---|---|---|---  
+  
+[Latest Jobs](http://www.freshershome.com/it-jobs-for-freshers/index.php) \- [Accounting Jobs](http://www.freshershome.com/jobs/category/accounting.html) \- [Engineering Jobs](http://www.freshershome.com/jobs/category/engineering.html) \- [IT Jobs](http://www.freshershome.com/jobs/category/i-t-software.html) \- [Walkins](http://www.freshershome.com/jobs/category/premium-fresher-openings-walk-ins.html) \- [How to Face Interview](http://www.freshershome.com/hr-interview-questions-and-tips.php) \- [HR Round Tips](http://www.freshershome.com/hr-interview-collective-tips.php) \- [Career Info](http://www.freshershome.com/careers/careers.php) \- [Guide For Freshers](http://www.freshershome.com/getting-started/freshers-guide.php) \- [Apply for Jobs](http://www.freshershome.com/jobs/fresher/index.php) \- [Future Studies](http://www.freshershome.com/careers/studies.php) \- [Jobs Forums](http://www.freshershome.com/discuss/index.php) \- [Freshers IT Software Salary Details](http://www.freshershome.com/freshers-it-software-salary-details.php) \- [GRE ](http://www.freshershome.com/careers/abroad/gre/gre.php) \- [Eligibility](http://www.freshershome.com/careers/abroad/gre/gre-eligibility.php) \- [Internation Exams](http://www.freshershome.com/careers/int-exams.php) \- [Further Studies](http://www.freshershome.com/careers/studies.php) \- [TOFEL](http://www.freshershome.com/careers/abroad/toefl/TOEFL.php) \- [United Kingdom](http://www.freshershome.com/careers/abroad/uk.php) \- [MTech](http://www.freshershome.com/careers/gate.php "Gate") \- [New zealand](http://www.freshershome.com/careers/abroad/new-zealand.php) \- [MBA](http://www.freshershome.com/careers/mba/MBA.php "MBA in India") \- [IELTS](http://www.freshershome.com/careers/abroad/ielts/ielts.php)
