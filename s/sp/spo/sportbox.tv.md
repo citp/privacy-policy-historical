@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportbox.tv privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129185922id_/http%3A//www.sportbox.tv/inc/cobrand/sportbox/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportbox.tv privacy policy that was archived on 2010-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100803052556id_/http%3A//www.sportbox.tv/inc/cobrand/sportbox/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SPORTBOX.tv - Nothing Inside But Sport
 
