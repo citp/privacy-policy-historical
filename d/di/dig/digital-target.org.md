@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digital-target.org privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601084438id_/http%3A//www.digital-target.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital-target.org privacy policy that was archived on 2010-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100804070936id_/http%3A//www.digital-target.org/privacy.php) for the most accurate reproduction.*
 
 # Digital Traget Best Deal Dish Network And Satellite Upload Center
 
