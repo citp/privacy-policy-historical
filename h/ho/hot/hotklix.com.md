@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hotklix.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217055035id_/http%3A//www.hotklix.com/%3Fref%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotklix.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805235209id_/http%3A//www.hotklix.com/privacy_policy) for the most accurate reproduction.*
 
-# hotklix | Home Page
+# All about Entertainment, News, Lifestyle, Fun, Sports and Gaming at Hotklix.com.
 
-Hotklix located at http://hotklix.com is a website of Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman & Co. Limited. 
+Hotklix located at [http://hotklix.com](http://hotklix.com/) is a website of Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman & Co. Limited. 
 
-TIL respects the privacy of it's users and is committed to protect it in all respects.With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about TIL at http://info.hotklix.com/terms/aboutus.html. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'Hotklix' in detail. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information). 
+TIL respects the privacy of it's users and is committed to protect it in all respects.With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. You may read ['About Us'](https://web.archive.org/aboutus) to know more about TIL. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'Hotklix' in detail. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information). 
 
 To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code etc., and / or your occupation, interests, and the like. (All required information is Service Dependent). The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. 
 
@@ -20,9 +20,11 @@ All information gathered on TIL is securely stored within the TIL controlled dat
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://www.advertising.com/Privacy.html) 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.advertising.com/Privacy.html). 
 
-  
-Any questions or clarifications with respect to this Policy can be sent to TIL at : 
+Any questions or clarifications with respect to this Policy can be sent to:
 
-hotklix@indiatimes.com or by snail mail addressed to TIL (Privacy Policy) "I World" Tower, DLF City Phase 5 opp DLF Golf Course ,Gurgaon (Haryana) - or by calling our number at (0124) 4187000. 
+Times Internet Limited (Privacy Policy)  
+"I World" Tower, DLF City Phase 5  
+Opp DLF Golf Course ,Gurgaon (Haryana)  
+Tel: +91 124 4187000 
