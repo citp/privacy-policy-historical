@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfuncards.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208034302id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuncards.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805230343id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
 
 # Privacy Policy Summary
 
@@ -6,9 +6,9 @@
 
 Mindspark Interactive Network, Inc. (MINDSPARK) is a part of the IAC family of businesses ([www.iac.com](http://www.iac.com/)), which includes Ask.com, iWon.com, Girlsense.com, Life123.com, Vimeo.com, Citysearch, Evite, Match.com, ServiceMagic, Gifts.com, Pronto, Shoebuy, College Humor, and many others.
 
-At MINDSPARK, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Webfetti.com, SmileyCentral.com, CursorMania.com, Kazulah.com, PopularScreensavers.com and MyFunCards.com websites and related applications/services (each, an “FWP Product” and collectively, the “FWP Products”). To read the entire Privacy Policy applicable to the FWP Products, please [click here](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml). The Privacy Policy applicable to Zwinky may be found [here](http://info.zwinky.com/zwinkyinfo/privacy.jhtml). The Privacy Policy applicable to IWon may be found [here](http://www.iwon.com/home/modules/pages/support/privacypolicy.jhtml).
+At MINDSPARK, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Webfetti.com, SmileyCentral.com, Smiley Creator, CursorMania.com, Kazulah.com, PopularScreensavers.com and MyFunCards.com websites and related applications/services (each, an “FWP Product” and collectively, the “FWP Products”). To read the entire Privacy Policy applicable to the FWP Products, please [click here](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml). The Privacy Policy applicable to Zwinky may be found [here](http://info.zwinky.com/zwinkyinfo/privacy.jhtml). The Privacy Policy applicable to IWon may be found [here](http://www.iwon.com/home/modules/pages/support/privacypolicy.jhtml).
 
-### The FWP Products′ Privacy Policy was last updated on: January 22, 2009.
+### The FWP Products′ Privacy Policy was last updated on: November 4, 2009.
 
 ### INFORMATION WE MAY COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section1)
 
