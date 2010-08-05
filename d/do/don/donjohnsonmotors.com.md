@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donjohnsonmotors.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620071837id_/http%3A//www.donjohnsonmotors.com/PrivacyPolicy%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donjohnsonmotors.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806014019id_/http%3A//www.donjohnsonmotors.com/PrivacyPolicy%23privacyPolicy) for the most accurate reproduction.*
 
 # Don Johnson Motors is a Rice Lake Buick, Chevrolet, GMC dealer and a new car and used car Rice Lake WI Buick, Chevrolet, GMC dealership.
 
