@@ -1,82 +1,119 @@
-> *The following text is extracted and transformed from the screensaversandwallpapersfree.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417145503id_/http%3A//www.screensaversandwallpapersfree.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screensaversandwallpapersfree.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805230343id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
 
-# Cupid-Screensavers & Wallpapers
+# Privacy Policy Summary
 
-> **Privacy Policy**
-> 
-> **ScreensaversandWallpapersFree.com**
-> 
-> Welcome to the ScreensaversandWallpapersFree.com website. We understand that your trust depends on how we respect your privacy and how we safeguard information you provide us. We want you to feel comfortable using our website, products and services and encourage you to read this Privacy Policy, detailing the online practices for ScreensaversandWallpapersFree.com ("Screensavers").
-> 
-> **Screensaversandwallpapersfree's Offers**
-> 
-> On ScreensaversandWallpapersFree.com, you can download software and content, order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in online forums or communities. In exchange for Screensavers content or services the user may decide to pay a fee, download software, share personal information or view upfront advertising; it's up to the user. A variety of products and services are available at Screensavers and Screensavers may collect different types and levels of personal information for each model, product or service.
-> 
-> **The Information We Collect**
-> 
-> The types of personally identifiable information that may be collected include: name, address, email address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
-> 
-> There are also times when you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card, or to refer them to our website or content (e.g., Tell-A-Friend). The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
-> 
-> We also may collect certain non-personally identifiable information when you visit many of our web pages, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
-> 
-> **How We Use the Information**
-> 
-> We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
-> 
-> We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
-> 
-> We use the information that you provide about others to enable us to send them your electronic greeting cards or referrals. From time to time, we also may use this information to offer our products, programs, or services to them.
-> 
-> If you choose to submit content for publication (e.g., a review of a screensaver) we may publish your screen name and other information you have provided to us.
-> 
-> The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
-> 
-> We sometimes use non-personally identifiable information to improve the design and content of our site and to enable us to personalize your internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
-> 
-> We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
-> 
-> Agents and contractors of ScreensaversandWallpapersFree.com who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for ScreensaversandWallpapersFree.com.
-> 
-> **Informed Consent**
-> 
-> ScreensaversandWallpapersFree.com will not disclose personally identifiable information to companies not owned by us who want to market products or services to you without your prior informed consent.
-> 
-> **Collection of Information by Third-Party Sites and Sponsors**
-> 
-> ScreensaversandWallpapersFree.com contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies, as we have no control over information that is submitted to or collected by websites that are not our own.
-> 
-> From time to time ScreensaversandWallpapersFree.com may offer contests, sweepstakes, promotions or deals that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit. After such submissions, ScreensaversandWallpapersFree.com has no control over third-party sponsors' use of this information.
-> 
-> ScreensaversandWallpapersFree.com will provide notice if third-party sponsors will so obtain such information. ScreensaversandWallpapersFree.com may use reputable third parties to present or serve the advertisements that you may see at our web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information by such third parties or the methods by which third-parties collect that information (e.g., cookies, web beacons and clear gifs).
-> 
-> **Third-party Ad Serving**
-> 
-> We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visit to ScreensaversandWallpapersFree.com in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the ScreensaversandWallpapersFree.com website, our third-party advertising companies may place or recognize a unique "cookie" on your browser.
-> 
-> **Cookies**
-> 
-> To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our websites. However, once you choose to furnish ScreensaversandWallpapersFree.com with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings at ScreensaversandWallpapersFree.com. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Small pieces of code called "web beacons" or "clear gifs" may be used to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy.
-> 
-> **Our Commitment to Security**
-> 
-> We have put in place appropriate physical, electronic, and managerial procedures to safeguard and prevent unauthorized access, to maintain data security, and correctly use the information we collect online.
-> 
-> **Special Note for Parents**
-> 
-> In an effort to be compliant with the Children's Online Protection Privacy Act (COPPA) it is our policy to collect no personally identifiable information from children. Therefore, all individuals are required to be 14 years and older to submit any personal information.
-> 
-> **How to Contact Us**
-> 
-> If you have any questions or concerns about this ScreensaversandWallpapersFree.com Privacy Policy or its implementation please contact us via email at the following address:
-> 
-> ScreensaversandWallpapersFree.com  
->  150 South Pine Island Rd., Suite 520  
->  Plantation, FL 33324  
->  [questions@ScreensaversandWallpapersFree.com](mailto:questions@ScreensaversandWallpapersFree.com)
-> 
-> Updated January 12, 2007  
->  ©2007 ScreensaversandWallpapersFree.com. All rights reserved.
+### CONSUMER PRIVACY AND THE FUNWEBPRODUCTS™ SUITE OF WEBSITES AND RELATED SERVICES
 
-  
+Mindspark Interactive Network, Inc. (MINDSPARK) is a part of the IAC family of businesses ([www.iac.com](http://www.iac.com/)), which includes Ask.com, iWon.com, Girlsense.com, Life123.com, Vimeo.com, Citysearch, Evite, Match.com, ServiceMagic, Gifts.com, Pronto, Shoebuy, College Humor, and many others.
 
+At MINDSPARK, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Webfetti.com, SmileyCentral.com, Smiley Creator, CursorMania.com, Kazulah.com, PopularScreensavers.com and MyFunCards.com websites and related applications/services (each, an “FWP Product” and collectively, the “FWP Products”). To read the entire Privacy Policy applicable to the FWP Products, please [click here](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml). The Privacy Policy applicable to Zwinky may be found [here](http://info.zwinky.com/zwinkyinfo/privacy.jhtml). The Privacy Policy applicable to IWon may be found [here](http://www.iwon.com/home/modules/pages/support/privacypolicy.jhtml).
+
+### The FWP Products′ Privacy Policy was last updated on: November 4, 2009.
+
+### INFORMATION WE MAY COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section1)
+
+We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using any FWP Product or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
+
+We also may collect other types of information in the following ways when you visit any FWP Product website:
+
+  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users′ movements around our site and understand trends.
+  * We may assign your computer one or more cookies which may collect information to facilitate access to a FWP Product website and to personalize your online experience.
+  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our FWP Product websites and enables us to customize our services and advertisements.
+
+
+
+We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children′s Online Privacy Protection Act.
+
+### INFORMATION OTHERS MAY COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section1)
+
+We may allow third-party advertising companies or ad networks to display advertisements or place ad tags on our FWP Products′ websites.
+
+  * We do not provide any personal information to these companies.
+  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
+  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
+
+
+
+If you post information about yourself or others, or communicate with others using any FWP Product, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
+
+### HOW WE MAY USE INFORMATION WE COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section2)
+
+We may use information to:
+
+  * Fulfill your requests for products and services;
+  * Offer products and services that may be of interest to you;
+  * Process payment for products or services you order via a FWP Product website;
+  * Customize the advertising and content that you see on any FWP Product website;
+  * Facilitate use of our FWP Product websites;
+  * Manage your account and your preferences;
+  * Analyze use of and improve our websites, products and services;
+  * Identify and protect against fraudulent transactions and other misuses of our websites; and
+  * Enforce any EULA, terms of use, terms of service or other terms/policies governing your use of the FWP Products.
+
+
+
+### WITH WHOM WE MAY SHARE INFORMATION WE COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section3)
+
+We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
+
+  * Service providers, such as credit-card payment processors, performing services on our behalf;
+  * Other IAC businesses;
+  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our FWP Products or offline; and
+  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
+
+
+
+We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
+
+### YOUR CHOICES[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section8)
+
+You may choose:
+
+  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of the FWP Products;
+  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by clicking [here](http://www.mailunsubscribe.com/optout.jsp?pid=FWP001);
+  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of the FWP Products may not function properly;
+  * To review and update your personal information by contacting us at the email address below or, if you have an online account on any FWP Product website, by logging into that account.
+
+
+
+### SECURITY[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section9)
+
+We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
+
+### CHANGES TO OUR PRIVACY POLICY
+
+We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our FWP Products′ websites.
+
+### HOW TO CONTACT US
+
+If you have any questions about this summary, our [Privacy Policy](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml), or our information practices, please contact us by email or postal mail below:
+
+Mindspark Interactive Network, Inc.  
+One North Lexington, 9th Floor  
+White Plains, NY, 10601  
+ATTN: Privacy Officer/Legal Dept.  
+[privacy[at]mindspark.com](mailto:privacy@mindspark.com)
+
+END OF DOCUMENT.
+
+© 2010 Mindspark Interactive Network, Inc. All rights reserved.
+
+### GLOSSARY:
+
+Cookies:
+    
+
+A cookie is a small text file that is stored on a user′s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
+
+Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. When you sign in to your account on our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
+
+You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
+
+We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party′s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
+
+Web Beacons:
+    
+
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user′s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
+
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional [or other] e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
