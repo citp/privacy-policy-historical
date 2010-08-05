@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myplick.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317132656id_/http%3A//www.myplick.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplick.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805062743id_/http%3A//www.myplick.com/privacy.do) for the most accurate reproduction.*
 
 # myPlick - Privacy Policy
 
