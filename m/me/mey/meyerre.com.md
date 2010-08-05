@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meyerre.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602191252id_/http%3A//www.meyerre.com/company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meyerre.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805090228id_/http%3A//www.meyerre.com/company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Meyer Real Estate Company Privacy Policy | Website Use of Information Privacy Statement | Meyer Real Estate
 
