@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the police.gov.sg privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603042247id_/http%3A//www.police.gov.sg/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the police.gov.sg privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805031409id_/http%3A//www.police.gov.sg/privacy.htm) for the most accurate reproduction.*
 
 # Singapore Police Force - Privacy Statement
 
 |  |  | 
 
-> [Home](https://web.archive.org/web/20100603042247id_/http%3A//www.police.gov.sg/index.html) > Privacy Statement  
+> [Home](https://web.archive.org/web/20100805031409id_/http%3A//www.police.gov.sg/index.html) > Privacy Statement  
   
 ---|---  
   |   
