@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dellfinancialservices.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323151738id_/http%3A//dfs.us.dell.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dellfinancialservices.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805235202id_/http%3A//dfs.us.dell.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Consumer Privacy Policies
 
