@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disturbed1.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626000049id_/http%3A//warnerbrosrecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disturbed1.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806170312id_/http%3A//www.disturbed1.com/privacy-policy/box) for the most accurate reproduction.*
 
-# Privacy Policy | Warner Bros. + Reprise Records
+# Privacy Policy | Disturbed
 
 **LAST UPDATED:   **August 18, 2009
 
@@ -84,14 +84,10 @@ Additionally, if you would like to opt-out of receiving marketing-related e-mail
 
 **               g.         ** **Contacting Us.   **If you have any questions regarding this Policy, please contact us by e-mail at [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com), or please write to the following address: 
 
-Warner Music Group 
-
-Legal Department 
-
-75 Rockefeller Plaza
-
-New York, NY 10019 
-
-Attn: Privacy Coordinator 
+> Warner Music Group  
+>  Legal Department  
+>  75 Rockefeller Plaza  
+>  New York, NY 10019  
+>  Attn: Privacy Coordinator 
 
 Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. 
