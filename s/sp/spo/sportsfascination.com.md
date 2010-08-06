@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsfascination.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209200300id_/http%3A//www.sportsfascination.com/page/3/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsfascination.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806155806id_/http%3A//www.sportsfascination.com/page/3/privacy_policy) for the most accurate reproduction.*
 
 # Sports Fascination - Sports Fascination - Privacy Policy
 
