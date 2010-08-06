@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the twenty19.com privacy policy that was archived on 2010-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605011846id_/http%3A//www.twenty19.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twenty19.com privacy policy that was archived on 2010-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100806040638id_/http%3A//www.twenty19.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js_active"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -88,527 +88,2505 @@ var pageTracker = _gat._getTracker("UA-11620622-1");
 pageTracker._trackPageview();
 
 } catch(err) {}</script>
+ <style type="text/css">
+
+	
+
+	/* START CSS NEEDED ONLY IN DEMO */
+
+	
+
+		#formContent{
+
+		padding:5px;
+
+		border:0;
+
+	}
+
+	/* END CSS ONLY NEEDED IN DEMO */
+
+	
+
+	
+
+	/* Big box with list of options */
+
+	#ajax_listOfOptions{	
+
+		position:absolute;	/* Never change this one */
+
+		width:175px;	/* Width of box */
+
+		overflow:auto;	/* Scrolling features */
+
+		background-color:#FFF;	/* White background color */
+
+		text-align:left;
+
+		z-index:100;
+
+		border:0;
+
+	}
+
+	#ajax_listOfOptions div{	/* General rule for both .optionDiv and .optionDivSelected */
+
+		margin:1px;		
+
+		padding:1px;
+
+		cursor:pointer;
+
+			}
+
+	#ajax_listOfOptions .optionDiv{	/* Div for each item in list */
+
+		
+
+	}
+
+	#ajax_listOfOptions .optionDivSelected{ /* Selected item in the list */
+
+		background-color:#a4be05;
+
+		color:#FFF;
+
+		text-shadow:none;
+
+	}
+
+	#ajax_listOfOptions_iframe{
+
+		background-color:#F00;
+
+		position:absolute;
+
+		z-index:5;
+
+	}
+
+	
+
+		.style1 {color: #FF0000}
+
+</style>
+
+	<script type="text/javascript" src="scripts/ajax.js"></script>
+
+	<script type="text/javascript" src="scripts/ajax-dynamic-list.js"></script>
+
  <script>
+
 function changedrop(val)
+
 {
+
 var frmName = document.searchre;
+
 var val;
+
 if(val==1)
+
 {
+
 document.getElementById('categories1').style.display="inline";
+
+document.getElementById("inlabel").setAttribute("class", "highlight");
+
+document.getElementById("opplabel").setAttribute("class", "");
+
+document.getElementById("coulabel").setAttribute("class", "");
+
 document.getElementById('categories2').style.display="none";
+
 document.getElementById('categories6').style.display="none";
+
 document.getElementById('location').style.display="inline";
+
+document.getElementById('location1').style.display="none";
+
+document.getElementById('other_city').style.display="none";
+
+document.getElementById('location2').style.display="none";
+
+document.getElementById('formContent').style.display="none";
+
+document.getElementById('frmrefer').value="0";
+
 frmName.action = "internships.php";
+
 }
+
 else if(val==2)
+
 {
+
 document.getElementById('categories1').style.display="none";
+
 document.getElementById('categories2').style.display="inline";
+
 document.getElementById('categories6').style.display="inline";
+
 document.getElementById('location').style.display="none";
+
+document.getElementById('location1').style.display="none";
+
+document.getElementById('location2').style.display="none";
+
+document.getElementById('other_city').style.display="none";
+
+document.getElementById("opplabel").setAttribute("class", "highlight");
+
+document.getElementById("inlabel").setAttribute("class", "");
+
+document.getElementById("coulabel").setAttribute("class", "");
+
+document.getElementById('formContent').style.display="none";
+
+document.getElementById('frmrefer').value="0";
+
 frmName.action = "opportunity.php";
+
 }
+
 else if(val==3)
+
 {
+
 document.getElementById('categories1').style.display="none";
+
 document.getElementById('categories2').style.display="none";
+
 document.getElementById('categories6').style.display="none";
-document.getElementById('location').style.display="inline";
-frmName.action = "generlinternship.php";
+
+document.getElementById('location').style.display="none";
+
+document.getElementById('formContent').style.display="inline";
+
+document.getElementById("opplabel").setAttribute("class", "");
+
+document.getElementById("inlabel").setAttribute("class", "");
+
+document.getElementById("coulabel").setAttribute("class", "highlight");
+
+
+document.getElementById('location1').style.display="inline";
+
+document.getElementById('location2').style.display="inline";
+
+document.getElementById('key1').value="Enter the course you are looking for (ex: Java)";
+
+document.getElementById('frmrefer').value="1";
+
+frmName.action = "courses.php";
+
 }
+
 }
+
 function clear1(val)
+
 {
+
 var val;
+
 if(val=="Enter a keyword (optional)"){
+
 document.getElementById('keyword').value="";
+
 }
+
 }
+
+function clear2(val)
+
+{
+
+var val;
+
+if(val=="Enter the course you are looking for (ex: Java)")
+
+{
+
+document.getElementById('key1').value="";
+
+}
+
+}
+
+
+
 function restore(val1,val2)
+
 {
+
 var val1;
+
 var val2;
+
 if(document.getElementById(val2).value=="")
+
 {
+
 document.getElementById(val2).value=val1;
+
 }
+
 }
+
+
+
+
+
+function show_other1(val)
+
+{
+
+var val;
+
+if(val=="other")
+
+{
+
+document.getElementById('other_area').style.display="inline";
+
+}else
+
+{
+
+document.getElementById('other_area').style.display="none";
+
+}
+
+}
+
+
+
+function valid()
+
+{
+
+var frmName = document.searchre;
+
+var frmc=document.getElementById('frmrefer').value;
+
+var frmk=document.getElementById('key1').value;
+
+if(frmc==1)
+
+{
+
+if((frmk=="Enter the course you are looking for (ex: Java)")||(frmk==""))
+
+{
+
+alert("Please enter the Course you are looking for");
+
+frmName.key1.focus();
+
+return false;
+
+}
+
+}
+
+}
+
+function handler61() 
+
+	{
+
+		if(http_app_check.readyState == 4 && http_app_check.status == 200)
+
+		{
+
+			var response = http_app_check.responseText;			
+
+document.getElementById('area_change').innerHTML=response;
+//alert(response);
+
+		   }
+
+	}
+
+	function get_consultants61(val){ 		 
+var val;
+if(val=="other")
+{
+document.getElementById('other_city').style.display="inline";
+}	else
+{
+document.getElementById('other_city').style.display="none";
+}		
+		myrand = parseInt(Math.random() * 1000);		
+		http_app_check.open('get', 'areas.php?search='+val);
+		http_app_check.onreadystatechange=handler61;
+		http_app_check.send(null);
+		return true;
+		//width=" + width + "&height=" + height;
+}
+
+
 
 </script>
- <br>
- <div class="searchBar">
 
-      <form method="post" action="internships.php" id="searchre" name="searchre">
-        <p>Search <strong>Twenty19.com</strong> for:
-          <select id="txt_section" name="txt_section" onchange="changedrop(this.value)">
-            <option value="1">Internships</option>
-            <option value="2">Opportunities</option>
-            <option value="3">Round-the-year Internships</option>
-          </select>
+
+
+ <div class="searchBar searchBarAlt">
+          <form method="post" action="internships.php" id="searchre" name="searchre" onsubmit="return valid()" autocomplete="off/">
           
-          <select id="categories1" name="categories1" style="display:">
+        <p style="margin-bottom: 8px;"><strong class="title">Search Twenty19.com for <span class="arrow">»</span></strong>
+        
+          <input name="txt_section" type="radio" id="internships" onclick="changedrop(this.value)" value="1" checked="checked">
+          <label for="internships" id="inlabel" style="margin-right: 20px;" class="highlight"><strong>Internships</strong></label>
+          <input name="txt_section" type="radio" id="opportunities" onclick="changedrop(this.value)" value="2">
+          <label for="opportunities" id="opplabel" style="margin-right: 20px;"><strong>Opportunities</strong></label>
+          <input name="txt_section" type="radio" id="trainingCourses" onclick="changedrop(this.value)" value="3">
+          <label for="trainingCourses" id="coulabel" style="margin-right: 20px;"><strong>Training Courses</strong></label></p>
+                  <hr>
+        <p style="margin-top: 10px;">
+         
+             <select id="categories1" name="categories1" style="display:inline; width:350px;">
+
             <option value="0" selected="selected">All Categories</option>
+
                              
+
             <option value="1"> Analytics </option>
+
                             
+
             <option value="2"> Architect </option>
+
                             
+
             <option value="3"> Articleship </option>
+
                             
+
             <option value="4"> Biotechnology </option>
+
                             
+
             <option value="5"> Business development </option>
+
                             
+
             <option value="6"> Client Servicing </option>
+
                             
+
             <option value="7"> Communications </option>
+
                             
+
             <option value="8"> Content Writing </option>
+
                             
+
             <option value="9"> Corporate Strategy </option>
+
                             
+
             <option value="10"> Data Entry </option>
+
                             
+
+            <option value="55"> Education </option>
+
+                            
+
             <option value="50"> Embedded, Robotics, Ethical Hacking, Cyber Security </option>
+
                             
+
             <option value="11"> Engineering </option>
+
                             
+
+            <option value="56"> Entrepreneurship </option>
+
+                            
+
             <option value="40"> Estimator </option>
+
                             
+
             <option value="12"> Fashion </option>
+
                             
+
             <option value="13"> Finance </option>
+
                             
+
             <option value="39"> Graphic design / Art work </option>
+
                             
+
             <option value="14"> Green Technology/ Environmental </option>
+
                             
+
             <option value="15"> HR/ Recruitment </option>
+
                             
+
             <option value="49"> Instructional Design </option>
+
                             
+
             <option value="16"> Insurance </option>
+
                             
+
             <option value="17"> Law </option>
+
                             
+
             <option value="44"> Legal Research </option>
+
                             
+
             <option value="48"> management </option>
+
                             
+
             <option value="18"> Market Research </option>
+
                             
+
             <option value="19"> Marketing / Sales </option>
+
                             
+
             <option value="20"> Media </option>
+
                             
+
+            <option value="52"> Mobile platform </option>
+
+                            
+
             <option value="21"> Multimedia/graphics </option>
+
                             
+
             <option value="22"> NGO/Volunteer </option>
+
                             
+
             <option value="23"> Operations </option>
+
                             
+
             <option value="24"> Part-time Jobs </option>
+
                             
+
             <option value="43"> Patent </option>
+
                             
+
             <option value="46"> Patent Analytics </option>
+
                             
+
             <option value="47"> Patent Drafting </option>
+
                             
+
+            <option value="53"> Photography </option>
+
+                            
+
             <option value="25"> Product Development </option>
+
                             
+
             <option value="26"> Public Relations </option>
+
                             
+
             <option value="41"> Quality </option>
+
                             
+
             <option value="51"> Research </option>
+
                             
+
             <option value="27"> Research and Development </option>
+
                             
+
             <option value="28"> SEO </option>
+
                             
+
             <option value="29"> Social Media </option>
+
                             
+
             <option value="30"> Software/ Programmer </option>
+
                             
+
             <option value="31"> Telemarketing </option>
+
                             
+
             <option value="32"> Theatre </option>
+
                             
+
             <option value="45"> Trademark </option>
+
                             
+
+            <option value="54"> Training/Development </option>
+
+                            
+
+            <option value="57"> Web Designing </option>
+
+                            
+
             <option value="33"> Web development </option>
+
                             
+
             <option value="34"> Writing &amp; Translation </option>
-                      </select>
-          <select id="categories2" name="categories2" style="display:none">
+
+            
+          </select>
+           <select id="categories2" name="categories2" style="display:none; width:350px;">
+
             <option value="All Categories" selected="selected">All Students</option>
-                          <option value="1">Architechture </option>
-                        <option value="2">Arts/Commerce </option>
-                        <option value="8">Engineering/Technology </option>
-                        <option value="10">Law </option>
-                        <option value="12">MBA </option>
-                        <option value="13">Media </option>
-                        <option value="14">Medicine </option>
-                        <option value="17">Science </option>
-                        <option value="23">All students </option>
-                              </select>
-                  <select id="categories6" name="categories6" style="display:none">
+
+              
+            <option value="1">Architechture </option>
+
+            
+            <option value="2">Arts/Commerce </option>
+
+            
+            <option value="8">Engineering/Technology </option>
+
+            
+            <option value="10">Law </option>
+
+            
+            <option value="12">MBA </option>
+
+            
+            <option value="13">Media </option>
+
+            
+            <option value="14">Medicine </option>
+
+            
+            <option value="17">Science </option>
+
+            
+            <option value="23">All students </option>
+
+            
+                  </select>
+
+                  <select id="categories6" name="categories6" style="display:none;width:350px;">
+
             <option value="All Categories" selected="selected">All Categories</option>
-                           <option value="3">Business Plan/ Entrepreneurship </option>
-                         <option value="4">Conference </option>
-                         <option value="6">Contest/Competition </option>
-                         <option value="7">Culturals </option>
-                         <option value="9">Festival </option>
-                         <option value="11">Management Festival </option>
-                         <option value="15">Programme /Course </option>
-                         <option value="18">Scholarship/ Awards </option>
-                         <option value="19">Social Entrepreneurship </option>
-                         <option value="20">Tech Fest / Symposium </option>
-                         <option value="21">Workshop/ Training </option>
-                         <option value="22">Internships </option>
-                              </select>
-                    <select id="location" name="location" style="display:; width:150px;">
+
+              
+             <option value="3">Business Plan/ Entrepreneurship </option>
+
+            
+             <option value="4">Conference </option>
+
+            
+             <option value="6">Contest/Competition </option>
+
+            
+             <option value="7">Culturals </option>
+
+            
+             <option value="9">Festival </option>
+
+            
+             <option value="11">Management Festival </option>
+
+            
+             <option value="15">Programme /Course </option>
+
+            
+             <option value="18">Scholarship/ Awards </option>
+
+            
+             <option value="19">Social Entrepreneurship </option>
+
+            
+             <option value="20">Tech Fest / Symposium </option>
+
+            
+             <option value="21">Workshop/ Training </option>
+
+            
+             <option value="22">Internships </option>
+
+            
+                  </select>
+
+                    <select id="location" name="location" style="display:inline; width:350px;">
+
             <option value="">All Locations</option>
+
             <option value="any">Work from home/campus</option>
-                             <option value="196"> Asansol</option>
+
+                 
+            <option value="196"> Asansol</option>
+
             
-                        <option value="195"> Bardhaman</option>
+
             
-                        <option value="193"> Kalimpong</option>
+            <option value="195"> Bardhaman</option>
+
             
-                        <option value="158">Agartala</option>
+
             
-                        <option value="165">Agra</option>
+            <option value="193"> Kalimpong</option>
+
             
-                        <option value="29">Ahmedabad</option>
+
             
-                        <option value="99">Ahmednagar</option>
+            <option value="158">Agartala</option>
+
             
-                        <option value="115">Aizawal</option>
+
             
-                        <option value="134">Ajmer</option>
+            <option value="165">Agra</option>
+
             
-                        <option value="166">Aligarh</option>
+
             
-                        <option value="167">Allahabad</option>
+            <option value="29">Ahmedabad</option>
+
             
-                        <option value="46">Ambala</option>
+
             
-                        <option value="125">Amritsar</option>
+            <option value="99">Ahmednagar</option>
+
             
-                        <option value="30">Anand</option>
+
             
-                        <option value="1">Anantapur</option>
+            <option value="115">Aizawal</option>
+
             
-                        <option value="31">Ankleshwar</option>
+
             
-                        <option value="183">Asansol</option>
+            <option value="134">Ajmer</option>
+
             
-                        <option value="100">Aurangabad</option>
+
             
-                        <option value="168">Bareilly</option>
+            <option value="166">Aligarh</option>
+
             
-                        <option value="126">Bathinda</option>
+
             
-                        <option value="70">Belgaum</option>
+            <option value="167">Allahabad</option>
+
             
-                        <option value="71">Bellary</option>
+
             
-                        <option value="69">Bengaluru / Bangalore</option>
+            <option value="46">Ambala</option>
+
             
-                        <option value="19">Bhagalpur</option>
+
             
-                        <option value="32">Bharuch</option>
+            <option value="125">Amritsar</option>
+
             
-                        <option value="33">Bhavnagar</option>
+
             
-                        <option value="22">Bhillai</option>
+            <option value="30">Anand</option>
+
             
-                        <option value="93">Bhopal</option>
+
             
-                        <option value="119">Bhubaneshwar</option>
+            <option value="1">Anantapur</option>
+
             
-                        <option value="34">Bhuj</option>
+
             
-                        <option value="72">Bidar</option>
+            <option value="31">Ankleshwar</option>
+
             
-                        <option value="23">Bilaspur</option>
+
             
-                        <option value="64">Bokaro</option>
+            <option value="183">Asansol</option>
+
             
-                        <option value="80">Calicut</option>
+
             
-                        <option value="47">Chandigarh</option>
+            <option value="100">Aurangabad</option>
+
             
-                        <option value="143">Chennai</option>
+
             
-                        <option value="81">Cochin</option>
+            <option value="168">Bareilly</option>
+
             
-                        <option value="144">Coimbatore</option>
+
             
-                        <option value="145">Cuddalore</option>
+            <option value="126">Bathinda</option>
+
             
-                        <option value="120">Cuttack</option>
+
             
-                        <option value="161">Dadra &amp; Nagar Haveli - Silvassa</option>
+            <option value="70">Belgaum</option>
+
             
-                        <option value="56">Dalhousie</option>
+
             
-                        <option value="162">Daman &amp; Diu</option>
+            <option value="71">Bellary</option>
+
             
-                        <option value="192">Darjeeling</option>
+
             
-                        <option value="180">Dehradun</option>
+            <option value="69">Bengaluru / Bangalore</option>
+
             
-                        <option value="163">Delhi</option>
+
             
-                        <option value="65">Dhanbad</option>
+            <option value="19">Bhagalpur</option>
+
             
-                        <option value="57">Dharmasala</option>
+
             
-                        <option value="73">Dharwad</option>
+            <option value="32">Bharuch</option>
+
             
-                        <option value="117">Dimapur</option>
+
             
-                        <option value="184">Durgapur</option>
+            <option value="33">Bhavnagar</option>
+
             
-                        <option value="82">Ernakulam</option>
+
             
-                        <option value="146">Erode</option>
+            <option value="22">Bhillai</option>
+
             
-                        <option value="169">Faizabad</option>
+
             
-                        <option value="48">Faridabad</option>
+            <option value="93">Bhopal</option>
+
             
-                        <option value="35">Gandhinagar</option>
+
             
-                        <option value="141">Gangtok</option>
+            <option value="119">Bhubaneshwar</option>
+
             
-                        <option value="170">Ghaziabad</option>
+
             
-                        <option value="36">Gir</option>
+            <option value="34">Bhuj</option>
+
             
-                        <option value="171">Gorakhpur</option>
+
             
-                        <option value="74">Gulbarga</option>
+            <option value="72">Bidar</option>
+
             
-                        <option value="2">Guntakal</option>
+
             
-                        <option value="3">Guntur</option>
+            <option value="23">Bilaspur</option>
+
             
-                        <option value="49">Gurgaon</option>
+
             
-                        <option value="16">Guwahati</option>
+            <option value="64">Bokaro</option>
+
             
-                        <option value="94">Gwalior</option>
+
             
-                        <option value="185">Haldia</option>
+            <option value="80">Calicut</option>
+
             
-                        <option value="50">Hisar</option>
+
             
-                        <option value="147">Hosur</option>
+            <option value="47">Chandigarh</option>
+
             
-                        <option value="190">Howrah </option>
+
             
-                        <option value="75">Hubli</option>
+            <option value="143">Chennai</option>
+
             
-                        <option value="4">Hyderabad / Secunderabad</option>
+
             
-                        <option value="111">Imphal</option>
+            <option value="81">Cochin</option>
+
             
-                        <option value="95">Indore</option>
+
             
-                        <option value="14">Itanagar</option>
+            <option value="144">Coimbatore</option>
+
             
-                        <option value="96">Jabalpur</option>
+
             
-                        <option value="135">Jaipur</option>
+            <option value="145">Cuddalore</option>
+
             
-                        <option value="136">Jaisalmer</option>
+
             
-                        <option value="128">Jalandhar</option>
+            <option value="120">Cuttack</option>
+
             
-                        <option value="101">Jalgaon</option>
+
             
-                        <option value="61">Jammu</option>
+            <option value="161">Dadra &amp; Nagar Haveli - Silvassa</option>
+
             
-                        <option value="37">Jamnagar</option>
+
             
-                        <option value="66">Jamshedpur</option>
+            <option value="56">Dalhousie</option>
+
             
-                        <option value="137">Jodhpur</option>
+
             
-                        <option value="5">Kakinada</option>
+            <option value="162">Daman &amp; Diu</option>
+
             
-                        <option value="38">Kandla</option>
+
             
-                        <option value="83">Kannur</option>
+            <option value="192">Darjeeling</option>
+
             
-                        <option value="172">Kanpur</option>
+
             
-                        <option value="194">Kharagpur</option>
+            <option value="180">Dehradun</option>
+
             
-                        <option value="186">Kharagpur</option>
+
             
-                        <option value="84">Kochi</option>
+            <option value="163">Delhi</option>
+
             
-                        <option value="76">Kolar</option>
+
             
-                        <option value="102">Kolhapur</option>
+            <option value="65">Dhanbad</option>
+
             
-                        <option value="187">Kolkata</option>
+
             
-                        <option value="189">Kolkata</option>
+            <option value="57">Dharmasala</option>
+
             
-                        <option value="85">Kollam</option>
+
             
-                        <option value="138">Kota</option>
+            <option value="73">Dharwad</option>
+
             
-                        <option value="86">Kottayam</option>
+
             
-                        <option value="87">Kozhikode</option>
+            <option value="117">Dimapur</option>
+
             
-                        <option value="58">Kulu/Manali</option>
+
             
-                        <option value="6">Kurnool</option>
+            <option value="184">Durgapur</option>
+
             
-                        <option value="52">Kurukshetra</option>
+
             
-                        <option value="173">Lucknow</option>
+            <option value="82">Ernakulam</option>
+
             
-                        <option value="129">Ludhiana</option>
+
             
-                        <option value="148">Madurai</option>
+            <option value="146">Erode</option>
+
             
-                        <option value="77">Mangalore</option>
+
             
-                        <option value="174">Mathura</option>
+            <option value="169">Faizabad</option>
+
             
-                        <option value="175">Meerut</option>
+
             
-                        <option value="130">Mohali</option>
+            <option value="48">Faridabad</option>
+
             
-                        <option value="176">Moradabad</option>
+
             
-                        <option value="103">Mumbai</option>
+            <option value="35">Gandhinagar</option>
+
             
-                        <option value="104">Mumbai Suburbs</option>
+
             
-                        <option value="78">Mysoru / Mysore</option>
+            <option value="141">Gangtok</option>
+
             
-                        <option value="149">Nagercoil</option>
+
             
-                        <option value="105">Nagpur</option>
+            <option value="170">Ghaziabad</option>
+
             
-                        <option value="106">Nasik</option>
+
             
-                        <option value="107">Navi Mumbai</option>
+            <option value="36">Gir</option>
+
             
-                        <option value="7">Nellore</option>
+
             
-                        <option value="8">Nizamabad</option>
+            <option value="171">Gorakhpur</option>
+
             
-                        <option value="177">Noida</option>
+
             
-                        <option value="150">Ooty</option>
+            <option value="74">Gulbarga</option>
+
             
-                        <option value="88">Palakkad</option>
+
             
-                        <option value="89">Palghat</option>
+            <option value="2">Guntakal</option>
+
             
-                        <option value="53">Panipat</option>
+
             
-                        <option value="26">Panjim / Panaji</option>
+            <option value="3">Guntur</option>
+
             
-                        <option value="121">Paradeep</option>
+
             
-                        <option value="131">Pathankot</option>
+            <option value="49">Gurgaon</option>
+
             
-                        <option value="132">Patiala</option>
+
             
-                        <option value="20">Patna</option>
+            <option value="16">Guwahati</option>
+
             
-                        <option value="164">Pondicherry</option>
+
             
-                        <option value="39">Porbandar</option>
+            <option value="94">Gwalior</option>
+
             
-                        <option value="108">Pune</option>
+
             
-                        <option value="122">Puri</option>
+            <option value="185">Haldia</option>
+
             
-                        <option value="24">Raipur</option>
+
             
-                        <option value="40">Rajkot</option>
+            <option value="50">Hisar</option>
+
             
-                        <option value="67">Ranchi</option>
+
             
-                        <option value="54">Rohtak</option>
+            <option value="147">Hosur</option>
+
             
-                        <option value="181">Roorkee</option>
+
             
-                        <option value="123">Rourkela</option>
+            <option value="190">Howrah </option>
+
             
-                        <option value="151">Salem</option>
+
             
-                        <option value="113">Shillong</option>
+            <option value="75">Hubli</option>
+
             
-                        <option value="59">Shimla</option>
+
             
-                        <option value="17">Silchar</option>
+            <option value="4">Hyderabad / Secunderabad</option>
+
             
-                        <option value="188">Siliguri</option>
+
             
-                        <option value="109">Solapur</option>
+            <option value="111">Imphal</option>
+
             
-                        <option value="62">Srinagar</option>
+
             
-                        <option value="41">Surat</option>
+            <option value="95">Indore</option>
+
             
-                        <option value="152">Thanjavur</option>
+
             
-                        <option value="90">Thrissur</option>
+            <option value="14">Itanagar</option>
+
             
-                        <option value="153">Tirunalveli</option>
+
             
-                        <option value="9">Tirupati</option>
+            <option value="96">Jabalpur</option>
+
             
-                        <option value="154">Trichy</option>
+
             
-                        <option value="91">Trivandrum</option>
+            <option value="135">Jaipur</option>
+
             
-                        <option value="155">Tuticorin</option>
+
             
-                        <option value="139">Udaipur</option>
+            <option value="136">Jaisalmer</option>
+
             
-                        <option value="97">Ujjain</option>
+
             
-                        <option value="42">Vadodara / Baroda</option>
+            <option value="128">Jalandhar</option>
+
             
-                        <option value="43">Valsad</option>
+
             
-                        <option value="44">Vapi</option>
+            <option value="101">Jalgaon</option>
+
             
-                        <option value="178">Varanasi / Banaras</option>
+
             
-                        <option value="27">Vasco Da Gama</option>
+            <option value="61">Jammu</option>
+
             
-                        <option value="156">Vellore</option>
+
             
-                        <option value="10">Vijayawada</option>
+            <option value="37">Jamnagar</option>
+
             
-                        <option value="11">Visakhapatnam</option>
+
             
-                        <option value="12">Warangal</option>
+            <option value="66">Jamshedpur</option>
+
             
+
+            
+            <option value="137">Jodhpur</option>
+
+            
+
+            
+            <option value="5">Kakinada</option>
+
+            
+
+            
+            <option value="38">Kandla</option>
+
+            
+
+            
+            <option value="83">Kannur</option>
+
+            
+
+            
+            <option value="172">Kanpur</option>
+
+            
+
+            
+            <option value="194">Kharagpur</option>
+
+            
+
+            
+            <option value="186">Kharagpur</option>
+
+            
+
+            
+            <option value="84">Kochi</option>
+
+            
+
+            
+            <option value="76">Kolar</option>
+
+            
+
+            
+            <option value="102">Kolhapur</option>
+
+            
+
+            
+            <option value="187">Kolkata</option>
+
+            
+
+            
+            <option value="189">Kolkata</option>
+
+            
+
+            
+            <option value="85">Kollam</option>
+
+            
+
+            
+            <option value="138">Kota</option>
+
+            
+
+            
+            <option value="86">Kottayam</option>
+
+            
+
+            
+            <option value="87">Kozhikode</option>
+
+            
+
+            
+            <option value="58">Kulu/Manali</option>
+
+            
+
+            
+            <option value="6">Kurnool</option>
+
+            
+
+            
+            <option value="52">Kurukshetra</option>
+
+            
+
+            
+            <option value="173">Lucknow</option>
+
+            
+
+            
+            <option value="129">Ludhiana</option>
+
+            
+
+            
+            <option value="148">Madurai</option>
+
+            
+
+            
+            <option value="77">Mangalore</option>
+
+            
+
+            
+            <option value="174">Mathura</option>
+
+            
+
+            
+            <option value="175">Meerut</option>
+
+            
+
+            
+            <option value="130">Mohali</option>
+
+            
+
+            
+            <option value="176">Moradabad</option>
+
+            
+
+            
+            <option value="103">Mumbai</option>
+
+            
+
+            
+            <option value="104">Mumbai Suburbs</option>
+
+            
+
+            
+            <option value="78">Mysoru / Mysore</option>
+
+            
+
+            
+            <option value="149">Nagercoil</option>
+
+            
+
+            
+            <option value="105">Nagpur</option>
+
+            
+
+            
+            <option value="106">Nasik</option>
+
+            
+
+            
+            <option value="107">Navi Mumbai</option>
+
+            
+
+            
+            <option value="7">Nellore</option>
+
+            
+
+            
+            <option value="8">Nizamabad</option>
+
+            
+
+            
+            <option value="177">Noida</option>
+
+            
+
+            
+            <option value="150">Ooty</option>
+
+            
+
+            
+            <option value="88">Palakkad</option>
+
+            
+
+            
+            <option value="89">Palghat</option>
+
+            
+
+            
+            <option value="53">Panipat</option>
+
+            
+
+            
+            <option value="26">Panjim / Panaji</option>
+
+            
+
+            
+            <option value="121">Paradeep</option>
+
+            
+
+            
+            <option value="131">Pathankot</option>
+
+            
+
+            
+            <option value="132">Patiala</option>
+
+            
+
+            
+            <option value="20">Patna</option>
+
+            
+
+            
+            <option value="164">Pondicherry</option>
+
+            
+
+            
+            <option value="39">Porbandar</option>
+
+            
+
+            
+            <option value="108">Pune</option>
+
+            
+
+            
+            <option value="122">Puri</option>
+
+            
+
+            
+            <option value="24">Raipur</option>
+
+            
+
+            
+            <option value="40">Rajkot</option>
+
+            
+
+            
+            <option value="67">Ranchi</option>
+
+            
+
+            
+            <option value="54">Rohtak</option>
+
+            
+
+            
+            <option value="181">Roorkee</option>
+
+            
+
+            
+            <option value="123">Rourkela</option>
+
+            
+
+            
+            <option value="151">Salem</option>
+
+            
+
+            
+            <option value="113">Shillong</option>
+
+            
+
+            
+            <option value="59">Shimla</option>
+
+            
+
+            
+            <option value="17">Silchar</option>
+
+            
+
+            
+            <option value="188">Siliguri</option>
+
+            
+
+            
+            <option value="109">Solapur</option>
+
+            
+
+            
+            <option value="62">Srinagar</option>
+
+            
+
+            
+            <option value="41">Surat</option>
+
+            
+
+            
+            <option value="152">Thanjavur</option>
+
+            
+
+            
+            <option value="90">Thrissur</option>
+
+            
+
+            
+            <option value="153">Tirunalveli</option>
+
+            
+
+            
+            <option value="9">Tirupati</option>
+
+            
+
+            
+            <option value="154">Trichy</option>
+
+            
+
+            
+            <option value="91">Trivandrum</option>
+
+            
+
+            
+            <option value="155">Tuticorin</option>
+
+            
+
+            
+            <option value="139">Udaipur</option>
+
+            
+
+            
+            <option value="97">Ujjain</option>
+
+            
+
+            
+            <option value="42">Vadodara / Baroda</option>
+
+            
+
+            
+            <option value="43">Valsad</option>
+
+            
+
+            
+            <option value="44">Vapi</option>
+
+            
+
+            
+            <option value="178">Varanasi / Banaras</option>
+
+            
+
+            
+            <option value="27">Vasco Da Gama</option>
+
+            
+
+            
+            <option value="156">Vellore</option>
+
+            
+
+            
+            <option value="10">Vijayawada</option>
+
+            
+
+            
+            <option value="11">Visakhapatnam</option>
+
+            
+
+            
+            <option value="12">Warangal</option>
+
+            
+
+            
+          </select>
+
+                     <select id="location1" name="location1" style="display: none; width:250px;" onchange="get_consultants61(this.value)">
+                                  
+
+            <option value="Bangalore">Bangalore</option>            
+
+                            
+
+            <option value="Chennai">Chennai</option>            
+
+                            
+
+            <option value="Coimbatore">Coimbatore</option>            
+
+                            
+
+            <option value="Delhi NCR">Delhi NCR</option>            
+
+                            
+
+            <option value="Hyderabad">Hyderabad</option>            
+
+                            
+
+            <option value="Jaipur">Jaipur</option>            
+
+                            
+
+            <option value="Kolkata">Kolkata</option>            
+
+                            
+
+            <option value="Mumbai">Mumbai</option>            
+
+                            
+
+            <option value="Pune">Pune</option>            
+
+                            
+
+            <option value="Vijayawada">Vijayawada</option>            
+
+            
+     
+
                       </select>
-          <input type="text" id="keyword" name="keyword" class="text" value="Enter a keyword (optional)" maxlength="75" onblur="restore('Enter a keyword (optional)',this.id)" onfocus="clear1(this.value)" onclick="clear1(this.value)">
-          <input type="submit" name="search" value="Search" class="submit">
+
+                      
+
+                      <input type="text" class="text" name="other_city" id="other_city" value="" style="display:none;">
+
+                            <span id="formContent" style="display:none">
+
+	    <input type="text" autocomplete="off" onclick="clear2(this.value)" onfocus="clear2(this.value)" onblur="restore('Enter the course you are looking for (ex: Java)',this.id)" onkeyup="ajax_showOptions(this,'getKeyByLetters',event)" value="Enter a keyword (optional)" name="key1" class="text text_large" id="key1" style="width:250px">
+
+<input type="hidden" name="frmrefer" id="frmrefer" value="0">
+
+					<input type="hidden" id="country_hidden" name="country_ID"><!-- THE ID OF the country will be inserted into this hidden input -->
+
+				
+
+		
+
+	</span> 
+                    
+                        
+
+           <span id="area_change">
+            <select id="location2" name="location2" style="display: none; width:250px;" onchange="show_other1(this.value)">
+
+                         <option value="">Select area</option>
+
+           
+
+             
+                
+
+            <option value="Bangalore City">Bangalore City</option>
+
+            
+
+            
+                
+
+            <option value="Banaswadi">Banaswadi</option>
+
+            
+
+            
+                
+
+            <option value="Banashankari 3rd Stage">Banashankari 3rd Stage</option>
+
+            
+
+            
+                
+
+            <option value="Banashankari 2nd Stage">Banashankari 2nd Stage</option>
+
+            
+
+            
+                
+
+            <option value="Banashankari 1st Stage">Banashankari 1st Stage</option>
+
+            
+
+            
+                
+
+            <option value="Banashankari">Banashankari</option>
+
+            
+
+            
+                
+
+            <option value="Austin Town">Austin Town</option>
+
+            
+
+            
+                
+
+            <option value="Anand Nagar">Anand Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Airport Road">Airport Road</option>
+
+            
+
+            
+                
+
+            <option value="Bangalore G.P.O.">Bangalore G.P.O.</option>
+
+            
+
+            
+                
+
+            <option value="Bannerghatta Road">Bannerghatta Road</option>
+
+            
+
+            
+                
+
+            <option value="Basavanagudi">Basavanagudi</option>
+
+            
+
+            
+                
+
+            <option value="Basaveswara Nagar">Basaveswara Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Benson Town">Benson Town</option>
+
+            
+
+            
+                
+
+            <option value="Bilekahalli">Bilekahalli</option>
+
+            
+
+            
+                
+
+            <option value="Bommanahalli">Bommanahalli</option>
+
+            
+
+            
+                
+
+            <option value="Brigade Road">Brigade Road</option>
+
+            
+
+            
+                
+
+            <option value="Brooke Fields">Brooke Fields</option>
+
+            
+
+            
+                
+
+            <option value="BTM 1st Stage">BTM 1st Stage</option>
+
+            
+
+            
+                
+
+            <option value="BTM 2nd Stage">BTM 2nd Stage</option>
+
+            
+
+            
+                
+
+            <option value="BTM Layout">BTM Layout</option>
+
+            
+
+            
+                
+
+            <option value="Byatarayanapura">Byatarayanapura</option>
+
+            
+
+            
+                
+
+            <option value="C.V. Raman Nagar">C.V. Raman Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Chamrajpet">Chamrajpet</option>
+
+            
+
+            
+                
+
+            <option value="Commercial Street">Commercial Street</option>
+
+            
+
+            
+                
+
+            <option value="Cubbonpet">Cubbonpet</option>
+
+            
+
+            
+                
+
+            <option value="Cunningham Road">Cunningham Road</option>
+
+            
+
+            
+                
+
+            <option value="Dharmaram College">Dharmaram College</option>
+
+            
+
+            
+                
+
+            <option value="Doddaballapur">Doddaballapur</option>
+
+            
+
+            
+                
+
+            <option value="Doddabommasandra">Doddabommasandra</option>
+
+            
+
+            
+                
+
+            <option value="Domlur">Domlur</option>
+
+            
+
+            
+                
+
+            <option value="Dooravani Nagar">Dooravani Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Electronic City">Electronic City</option>
+
+            
+
+            
+                
+
+            <option value="Frazer Town">Frazer Town</option>
+
+            
+
+            
+                
+
+            <option value="G.E.F.">G.E.F.</option>
+
+            
+
+            
+                
+
+            <option value="Gandhi Nagar">Gandhi Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Gavipuram Extension">Gavipuram Extension</option>
+
+            
+
+            
+                
+
+            <option value="H.A.L. II Stage">H.A.L. II Stage</option>
+
+            
+
+            
+                
+
+            <option value="H.A.L. III Stage">H.A.L. III Stage</option>
+
+            
+
+            
+                
+
+            <option value="H.S.R. Layout">H.S.R. Layout</option>
+
+            
+
+            
+                
+
+            <option value="Hanumantha Nagar">Hanumantha Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Hongasandra">Hongasandra</option>
+
+            
+
+            
+                
+
+            <option value="Hosur Road">Hosur Road</option>
+
+            
+
+            
+                
+
+            <option value="Indira Nagar">Indira Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Indira Nagar 1st Stage">Indira Nagar 1st Stage</option>
+
+            
+
+            
+                
+
+            <option value="Indira Nagar 2nd Stage">Indira Nagar 2nd Stage</option>
+
+            
+
+            
+                
+
+            <option value="Industrial Estate">Industrial Estate</option>
+
+            
+
+            
+                
+
+            <option value="J.C. Colony">J.C. Colony</option>
+
+            
+
+            
+                
+
+            <option value="J.P. Nagar">J.P. Nagar</option>
+
+            
+
+            
+                
+
+            <option value="J.P. Nagar 5th Phase">J.P. Nagar 5th Phase</option>
+
+            
+
+            
+                
+
+            <option value="J.P. Nagar 6th Phase">J.P. Nagar 6th Phase</option>
+
+            
+
+            
+                
+
+            <option value="Jalahalli">Jalahalli</option>
+
+            
+
+            
+                
+
+            <option value="Jalahalli West">Jalahalli West</option>
+
+            
+
+            
+                
+
+            <option value="Jaya Nagar">Jaya Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Jaya Nagar 1st Block">Jaya Nagar 1st Block</option>
+
+            
+
+            
+                
+
+            <option value="Jaya Nagar 2nd Block">Jaya Nagar 2nd Block</option>
+
+            
+
+            
+                
+
+            <option value="Jaya Nagar 3rd Block">Jaya Nagar 3rd Block</option>
+
+            
+
+            
+                
+
+            <option value="Jaya Nagar 4th Block">Jaya Nagar 4th Block</option>
+
+            
+
+            
+                
+
+            <option value="Jaya Nagar 4th T Block">Jaya Nagar 4th T Block</option>
+
+            
+
+            
+                
+
+            <option value="Jaya Nagar 8th Block">Jaya Nagar 8th Block</option>
+
+            
+
+            
+                
+
+            <option value="Jaya Nagar East">Jaya Nagar East</option>
+
+            
+
+            
+                
+
+            <option value="Jaya Nagar South">Jaya Nagar South</option>
+
+            
+
+            
+                
+
+            <option value="Jaya Nagar West">Jaya Nagar West</option>
+
+            
+
+            
+                
+
+            <option value="Jayamahal Extension">Jayamahal Extension</option>
+
+            
+
+            
+                
+
+            <option value="Jayanagar">Jayanagar</option>
+
+            
+
+            
+                
+
+            <option value="Jeevan Bhima Nagar">Jeevan Bhima Nagar</option>
+
+            
+
+            
+                
+
+            <option value="K Kamaraj Road">K Kamaraj Road</option>
+
+            
+
+            
+                
+
+            <option value="Kadugodi">Kadugodi</option>
+
+            
+
+            
+                
+
+            <option value="Kalyan Nagar">Kalyan Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Kamakshipalya">Kamakshipalya</option>
+
+            
+
+            
+                
+
+            <option value="Kamanahalli">Kamanahalli</option>
+
+            
+
+            
+                
+
+            <option value="Kammanahalli">Kammanahalli</option>
+
+            
+
+            
+                
+
+            <option value="Kanakapura Road">Kanakapura Road</option>
+
+            
+
+            
+                
+
+            <option value="Kasavanahalli">Kasavanahalli</option>
+
+            
+
+            
+                
+
+            <option value="Koramangala">Koramangala</option>
+
+            
+
+            
+                
+
+            <option value="Koramangala 5th Block">Koramangala 5th Block</option>
+
+            
+
+            
+                
+
+            <option value="Koramangala 6th Block">Koramangala 6th Block</option>
+
+            
+
+            
+                
+
+            <option value="Koramangala 7th Block">Koramangala 7th Block</option>
+
+            
+
+            
+                
+
+            <option value="Koramangala Layout">Koramangala Layout</option>
+
+            
+
+            
+                
+
+            <option value="Krishnarajapuram">Krishnarajapuram</option>
+
+            
+
+            
+                
+
+            <option value="Kumaraswamy Layout">Kumaraswamy Layout</option>
+
+            
+
+            
+                
+
+            <option value="Lingarajapuram">Lingarajapuram</option>
+
+            
+
+            
+                
+
+            <option value="M.G. Road">M.G. Road</option>
+
+            
+
+            
+                
+
+            <option value="Madivala">Madivala</option>
+
+            
+
+            
+                
+
+            <option value="Magadi Road">Magadi Road</option>
+
+            
+
+            
+                
+
+            <option value="Mahalakshmipuram">Mahalakshmipuram</option>
+
+            
+
+            
+                
+
+            <option value="Mahalakshmipuram Layout">Mahalakshmipuram Layout</option>
+
+            
+
+            
+                
+
+            <option value="Malleswaram">Malleswaram</option>
+
+            
+
+            
+                
+
+            <option value="Malleswaram West">Malleswaram West</option>
+
+            
+
+            
+                
+
+            <option value="Marathahalli">Marathahalli</option>
+
+            
+
+            
+                
+
+            <option value="Marathahalli Colony">Marathahalli Colony</option>
+
+            
+
+            
+                
+
+            <option value="Maruthi Nagar">Maruthi Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Maruthiseva Nagar">Maruthiseva Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Mathikere">Mathikere</option>
+
+            
+
+            
+                
+
+            <option value="Nagarabhavi">Nagarabhavi</option>
+
+            
+
+            
+                
+
+            <option value="Nagasandra">Nagasandra</option>
+
+            
+
+            
+                
+
+            <option value="Nagavara">Nagavara</option>
+
+            
+
+            
+                
+
+            <option value="Nelamangala">Nelamangala</option>
+
+            
+
+            
+                
+
+            <option value="New Tippasandra">New Tippasandra</option>
+
+            
+
+            
+                
+
+            <option value="Peenya">Peenya</option>
+
+            
+
+            
+                
+
+            <option value="Peenya S.I.">Peenya S.I.</option>
+
+            
+
+            
+                
+
+            <option value="R.T. Nagar">R.T. Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Rajaji Nagar">Rajaji Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Rajarajeswari Nagar">Rajarajeswari Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Ramamurthy Nagar">Ramamurthy Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Richmond Circle">Richmond Circle</option>
+
+            
+
+            
+                
+
+            <option value="Richmond Town">Richmond Town</option>
+
+            
+
+            
+                
+
+            <option value="S.J.P. Road">S.J.P. Road</option>
+
+            
+
+            
+                
+
+            <option value="S.P. Road">S.P. Road</option>
+
+            
+
+            
+                
+
+            <option value="Sadashiva Nagar">Sadashiva Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Seshadripuram">Seshadripuram</option>
+
+            
+
+            
+                
+
+            <option value="Shanthi Nagar">Shanthi Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Shivaji Nagar">Shivaji Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Sivanchetty Garden">Sivanchetty Garden</option>
+
+            
+
+            
+                
+
+            <option value="Srirampuram">Srirampuram</option>
+
+            
+
+            
+                
+
+            <option value="St. Thomas Town">St. Thomas Town</option>
+
+            
+
+            
+                
+
+            <option value="Thyagaraja Nagar">Thyagaraja Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Ulsoor">Ulsoor</option>
+
+            
+
+            
+                
+
+            <option value="Uttarahalli">Uttarahalli</option>
+
+            
+
+            
+                
+
+            <option value="Varthur">Varthur</option>
+
+            
+
+            
+                
+
+            <option value="Vasantha Nagar">Vasantha Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Vidyaranyapura">Vidyaranyapura</option>
+
+            
+
+            
+                
+
+            <option value="Vijaya Nagar">Vijaya Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Vimanapura">Vimanapura</option>
+
+            
+
+            
+                
+
+            <option value="Virgo Nagar">Virgo Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Viswaneedam">Viswaneedam</option>
+
+            
+
+            
+                
+
+            <option value="Vivek Nagar">Vivek Nagar</option>
+
+            
+
+            
+                
+
+            <option value="Vivekananda Nagar">Vivekananda Nagar</option>
+
+            
+
+            
+                
+
+            <option value="White Field">White Field</option>
+
+            
+
+            
+                
+
+            <option value="Wilson Garden">Wilson Garden</option>
+
+            
+
+            
+                
+
+            <option value="Yelahanka">Yelahanka</option>
+
+            
+
+            
+                
+
+            <option value="Yelahanka Bazaar">Yelahanka Bazaar</option>
+
+            
+
+            
+                      
+
+                      </select>
+                      </span>
+                      
+                       
+                      
+
+                      <input type="text" class="text" name="other_area" id="other_area" value="" style="display:none;">
+ 
+    
+            <input type="submit" class="submit" value="Search" name="search">
         </p>
       </form>
       <!-- End .searchBar -->
     </div>
+
      <div class="columnHolder">
       <h1>Privacy Policy</h1>
       <h2>Overview</h2>
@@ -664,9 +2642,8 @@ while(x=eval(x));
     <p>Copyright © 2010 Twenty19.com. All rights reserved.</p>
     <ul class="navFooter clearfix">
       <li><a href="privacy-policy.php">Privacy Policy</a></li>
-      <li><a href="#">Sitemap</a></li>
+      <!--<li><a href="#">Sitemap</a></li>-->
       <li class="last"><a href="accessibility.php">Accessibility</a></li>
-      
     </ul>
     <p>By using this site, you agree to Twenty19.com's <a href="terms-of-use.php">terms of use</a>. Commercial use of this site without express authorization is prohibited. </p>
     <p class="top"><a href="javascript:scroll(0,0)">Back to Top ▲</a></p>
@@ -696,22 +2673,25 @@ while(x=eval(x));
     <div id="testimonials">
       <h2>Testimonials</h2>
             <blockquote>
-        <p>Twenty19 is a very innovative concept that effectively connects companies to internship aspirants. This is especially useful for start-ups such as ours. We have been able to make offers to some excellent interns thanks to Twenty19.</p>
+        <p>I am glad that I am connected to Twenty19 as I have a got more options for my internships now.  Thanks a lot for providing such a wonderful platform to find interns! :)</p>
       </blockquote>
-      <cite><strong>Aarthi Srinath</strong><br>
-      <em>Director</em><br>
-      Carpe Diem Pvt Ltd</cite>
+      <cite><strong>Priyanka Sharma</strong><br>
+      <em>B.E. Electronics and Communication</em><br>
+      Banasthali University, Jaipur</cite>
       
             <!-- End #endorsements -->
     </div>
     <!-- End #footerCol2 -->
   </div>
   <!-- End #footer -->
-  <script type="text/javascript" src="scripts/jquery-1.4.1.min.js"></script>
+</div>
+<div id="announcement">
+   	Twenty19 is inviting applications for "Campus Ambassadors" to be a part of the team! <a target="_blank" href="ambassadors.php">Click here for details</a>.
+</div>
+<script type="text/javascript" src="scripts/jquery-1.4.1.min.js"></script>
 <script type="text/javascript" src="scripts/jquery-ui-custom.js"></script>
 <script type="text/javascript" src="scripts/jquery.prettyPhoto.js"></script>
 <script type="text/javascript" src="scripts/main.js"></script>
-</div>
 <input type="hidden" value="" name="user" id="user">
 <input type="hidden" value="" name="pass" id="pass">
 <div id="studentLoginContent" class="hide" style="display: none;">
@@ -721,15 +2701,15 @@ while(x=eval(x));
     <form method="post" action=" " name="student">
          <div class="field">
         <label for="txt_stu_username">Email-id</label>
-        <input type="text" id="in_username" name="in_username" class="text" onchange="dump(this.value,'user');">
+        <input type="text" id="in_username" name="in_username" class="text" onchange="dump(this.value,'user');" onkeypress="checkSubmitAction(event, this.form, 'stu_submit');">
       </div>
       <div class="field">
         <label for="txt_stu_password">Password</label>
-        <input type="password" id="in_password" name="in_password" class="text" onchange="dump(this.value,'pass');">
+        <input type="password" id="in_password" name="in_password" class="text" onchange="dump(this.value,'pass');" onkeypress="checkSubmitAction(event, this.form, 'stu_submit');">
         <br>
         <a href="forgotpassword.php" class="forgotPassword">Forgot Password?</a> </div>
       <div class="buttons">
-        <input type="button" name="stu_submit" value="Login and go to My Page" class="submit" onclick="get_consultants15()">
+        <input type="button" name="stu_submit" value="Login and go to My Page" class="submit" onclick="get_consultants15(this.form)">
       </div>
     </form>
   </div>
@@ -743,6 +2723,7 @@ Register for free now to:<br>
   </div>
   <!-- End #studentLoginContent -->
 </div>
+
 <input type="hidden" value="" name="user1" id="user1">
 <input type="hidden" value="" name="pass1" id="pass1">
 <div id="companyLoginContent" class="hide" style="display: none;">
@@ -751,15 +2732,15 @@ Register for free now to:<br>
             <form method="post" action=" ">
               <div class="field">
                 <label for="txt_emp_username">Username / Email-id</label>
-                <input type="text" id="emp_username" name="emp_username" class="text" onchange="dump(this.value,'user1');">
+                <input type="text" id="emp_username" name="emp_username" class="text" onchange="dump(this.value,'user1');" onkeypress="checkSubmitAction(event, this.form, 'emp_submit')">
               </div>
               <div class="field">
                 <label for="txt_emp_password">Password</label>
-                <input type="password" id="emp_password" name="emp_password" class="text" onchange="dump(this.value,'pass1');">
+                <input type="password" id="emp_password" name="emp_password" class="text" onchange="dump(this.value,'pass1');" onkeypress="checkSubmitAction(event, this.form, 'emp_submit')">
                 <br>
                 <a href="compforgotpassword.php" class="forgotPassword">Forgot Password?</a> </div>
               <div class="buttons">
-                <input type="button" name="emp_submit" value="Login and go to My Page" class="submit" onclick="get_consultants12()">
+                <input type="button" name="emp_submit" value="Login and go to My Page" class="submit" onclick="get_consultants12(this.form)">
               </div>
             </form>
   </div>
@@ -769,7 +2750,11 @@ Register for free now to:<br>
   </div>
   <!-- End #companyLoginContent -->
 </div>
+<div id="pageEnd">
+    <!-- End #pageEnd -->
+</div>
+
 
  
 
-<div class="pp_pic_holder facebook" style="top: 344px; left: 633px;">       <div class="pp_top">        <div class="pp_left"></div>        <div class="pp_middle"></div>        <div class="pp_right"></div>       </div>       <div class="pp_content_container">        <div class="pp_left">        <div class="pp_right">         <div class="pp_content">          <div class="pp_loaderIcon"></div>          <div class="pp_fade">           <a href="#" class="pp_expand" title="Expand the image">Expand</a>           <div class="pp_hoverContainer">            <a class="pp_next" href="#">next</a>            <a class="pp_previous" href="#">previous</a>           </div>           <div id="pp_full_res"></div>           <div class="pp_details clearfix">            <a class="pp_close" href="#">Close</a>            <p class="pp_description"></p>            <div class="pp_nav">             <a href="#" class="pp_arrow_previous">Previous</a>             <p class="currentTextHolder">0/0</p>             <a href="#" class="pp_arrow_next">Next</a>            </div>           </div>          </div>         </div>        </div>        </div>       </div>       <div class="pp_bottom">        <div class="pp_left"></div>        <div class="pp_middle"></div>        <div class="pp_right"></div>       </div>      </div>      <div class="pp_overlay" style="opacity: 0; height: 1566px;"></div>      <div class="ppt" style="top: 344px; left: 653px;"></div></body></html>
+<div class="pp_pic_holder facebook" style="top: 344px; left: 633px;">       <div class="pp_top">        <div class="pp_left"></div>        <div class="pp_middle"></div>        <div class="pp_right"></div>       </div>       <div class="pp_content_container">        <div class="pp_left">        <div class="pp_right">         <div class="pp_content">          <div class="pp_loaderIcon"></div>          <div class="pp_fade">           <a href="#" class="pp_expand" title="Expand the image">Expand</a>           <div class="pp_hoverContainer">            <a class="pp_next" href="#">next</a>            <a class="pp_previous" href="#">previous</a>           </div>           <div id="pp_full_res"></div>           <div class="pp_details clearfix">            <a class="pp_close" href="#">Close</a>            <p class="pp_description"></p>            <div class="pp_nav">             <a href="#" class="pp_arrow_previous">Previous</a>             <p class="currentTextHolder">0/0</p>             <a href="#" class="pp_arrow_next">Next</a>            </div>           </div>          </div>         </div>        </div>        </div>       </div>       <div class="pp_bottom">        <div class="pp_left"></div>        <div class="pp_middle"></div>        <div class="pp_right"></div>       </div>      </div>      <div class="pp_overlay" style="opacity: 0; height: 1563px;"></div>      <div class="ppt" style="top: 344px; left: 653px;"></div></body></html>
