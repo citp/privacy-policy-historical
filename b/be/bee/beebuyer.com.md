@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beebuyer.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304124028id_/http%3A//www.beebuyer.com/help/privacy-33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beebuyer.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806132807id_/http%3A//www.beebuyer.com/help/215-Security-Privacy) for the most accurate reproduction.*
 
 # Security & Privacy - BeeBuyer.com
 
