@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joke.co.uk privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606174423id_/http%3A//www.joke.co.uk/storefront/publish%3Fwhat%3Dprivacy%26page%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joke.co.uk privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806182135id_/http%3A//www.joke.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JOKERS MASQUERADE
 
