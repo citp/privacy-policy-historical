@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502092433id_/http%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806191330id_/http%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
 
 # PaymentWall - The All-in-One Monetization Suite
 
