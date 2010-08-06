@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winhelponline.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610205629id_/http%3A//www.winhelponline.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winhelponline.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806155420id_/http%3A//www.winhelponline.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
