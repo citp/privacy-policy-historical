@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620005538id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/System%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2010-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100807010551id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/System%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
 
-# FAQ - Sulit.com.ph System Rules and Policies Philippines - Sulit.com.ph Online Classified Ads
+# FAQ - Sulit.com.ph System Rules and Policies Philippines
 
 **Introduction**   
 **Sulit.com.ph** respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at **Sulit.com.ph** ’s Web site.
