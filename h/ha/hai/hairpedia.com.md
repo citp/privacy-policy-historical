@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairpedia.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621045823id_/http%3A//www.hairpedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairpedia.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806123617id_/http%3A//www.hairpedia.com/privacy.php) for the most accurate reproduction.*
 
 # Hairstyles, Privacy Policy
 
