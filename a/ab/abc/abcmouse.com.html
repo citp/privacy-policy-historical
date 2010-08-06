@@ -1,0 +1,664 @@
+<!--The following is the downloaded HTML source of the abcmouse.com privacy policy that was archived on 2010-08-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100806174442id_/http%3A//www.abcmouse.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy</title>
+<script type="text/javascript" src="http://img.abcmouse.com/js/scroll.js"></script>
+<script type="text/javascript" src="http://img.abcmouse.com/js/md5.js"></script>
+<script type="text/javascript" src="http://img.abcmouse.com/js/ajaxloader.js"></script>
+<script language="javascript" type="text/javascript">
+function showHtmlPage() {
+  document.getElementById("header1").style.display = '';
+  document.getElementById("header2").style.display = '';
+  document.getElementById("mainpage").style.display = '';
+  document.getElementById("toplogo").style.display = '';
+  document.getElementById("loginlink").style.display = '';
+  var mouse = document.getElementById("logo");
+  if(mouse) mouse.style.display = 'none';
+  var alphaWelcome = '/artwork/snd/home/alphatest/welcometoabcalphatest.mp3';
+
+  if (navigator.appName.indexOf("Microsoft") != -1) var player = window['rolloverplayer'];
+  else var player = document['rolloverplayer'];
+		player.playSound(alphaWelcome);
+
+
+}
+function showLoginBox() {
+  document.getElementById("popbox").style.display = '';
+  document.getElementById("popbox").src = '/loginbox';
+}
+function closeLoginBox() {
+  document.getElementById("popbox").style.display = 'none';
+  document.getElementById("popbox").src = '';
+}
+function gotoReg() {
+  document.getElementById("popbox").style.display = 'none';
+	document.location.href = '/betastart';
+}
+function showFeedback() {
+  document.getElementById("fbbox").style.display = '';
+  document.getElementById("fbbox").src = '/feedback';
+}
+function closeFeedback() {
+  document.getElementById("fbbox").style.display = 'none';
+  document.getElementById("fbbox").src = '';
+}
+function showRefer() {
+  document.getElementById("referbox").style.display = '';
+  document.getElementById("referbox").src = '/new_referral';
+}
+function closeRefer() {
+  document.getElementById("referbox").style.display = 'none';
+  document.getElementById("referbox").src = '';
+}
+function loginuser(id,reqpwd) {
+	if(reqpwd) {
+	  document.getElementById("pwdboxid").value = id;
+	  document.getElementById("pwdbox").style.display = '';
+	}
+	else {
+		document.location.href = '/quicklogin/'+id;
+	}
+}
+function cancelPwdbox() {
+  document.getElementById("pwdbox").style.display = 'none';
+}
+function submitPwdbox() {
+  document.getElementById("pwdbox").style.display = 'none';
+	var id = document.getElementById("pwdboxid").value;
+	var pwd = document.getElementById("pwdboxpwd").value;
+	document.location.href = '/quicklogin/'+id+'/'+MD5(pwd);
+}
+
+function logoutbox() {
+	var box = document.getElementById('logoutlist');
+	if(box.style.display == 'none')
+		box.style.display = '';
+	else
+		box.style.display = 'none';
+
+	var trackImg = document.createElement('img');
+	trackImg.src = 'track/changeUser?'+Math.round(Math.random()*10000+1000);
+	trackImg.id = 'trackChangeUserClick';
+	trackImg.width = 1+'px';
+	trackImg.height = 1+'px';
+	trackImg.style.backgroundColor = "#012B54";
+}
+function logout() {
+  document.location.href = '/logout';
+}
+function setlimit() {
+  var sel = document.getElementById('speed');
+  var limit = sel.options[sel.selectedIndex].value;
+  var exdate=new Date();
+  exdate.setDate(exdate.getDate()+30);
+  document.cookie='throttlespeed'+'='+escape(limit)+';expires='+exdate.toGMTString()+';path=/;domain=abcmouse.com;';
+}
+function setHoverSound(item, soundurl) {
+	item.setPropertyValue('soundurl', soundurl);
+}
+function track(trackItem){
+		var trackImg = document.createElement('img');
+		trackImg.src = 'track/'+trackItem+'?'+Math.round(Math.random()*10000+1000);
+		trackImg.id = 'track'+trackItem;
+		trackImg.width = 1+'px';
+		trackImg.height = 1+'px';
+		trackImg.style.backgroundColor = "#012B54";
+}
+function infobox() {
+	var helplocation = location.href.replace(/^.*\.com\/?/, "");
+	var infoicon = document.getElementById("infoicon");
+	var isOpen = infoicon.src.search("open") != -1;
+	if(isOpen){
+		infoicon.src = infoicon.src.replace("open", "closed");
+		infoicon.style.top = "-13px";
+	}else{
+		infoicon.src = infoicon.src.replace("closed", "open");
+		infoicon.style.top = "-47px";
+	}
+	helplocation = helplocation == "" ? "index" : helplocation;
+	if(isOpen && infobox.popup != null) {
+		infobox.popup.scroll.parentNode.removeChild(infobox.popup.scroll);
+		infobox.popup.parentNode.removeChild(infobox.popup);
+	}else if(!isOpen) {
+		var closebtn = document.createElement("div");
+		var header = document.createElement("div");
+		var body = document.createElement("div");
+		var snd = document.createElement("div");
+		infobox.popup = document.createElement("div");
+		infobox.popup.scroll = document.createElement("div");
+		document.body.appendChild(infobox.popup);
+		infobox.popup.style.position = "absolute";
+		infobox.popup.style.top = "110px";
+		infobox.popup.style.left = "360px";
+		infobox.popup.style.width = "600px";
+		infobox.popup.style.height = "382px";
+		infobox.popup.style.backgroundRepeat = "no-repeat";
+		infobox.popup.style.backgroundImage = "url('/artwork/home/info_popup.png')";
+		infobox.popup.style.zIndex = "5";
+		infobox.popup.appendChild(closebtn);
+		closebtn.style.position = "absolute";
+		closebtn.style.top = "8px";
+		closebtn.style.left = "572px";
+		closebtn.style.cursor = "pointer";
+		closebtn.style.width = "20px";
+		closebtn.style.height = "20px";
+		closebtn.onclick = infobox;
+		infobox.popup.appendChild(header);
+		header.style.textAlign = "center";
+		header.style.position = "absolute";
+		header.style.top = "12px";
+		header.style.left = "52px";
+		header.style.width = "152px";
+		header.style.height = "25px";
+		header.style.overflow = "hidden";
+		header.style.fontSize = "16px";
+		header.innerHTML = "Information";
+		infobox.popup.appendChild(snd);
+		snd.style.position = "absolute";
+		snd.style.top = "43px";
+		snd.style.left = "22px";
+		infobox.popup.appendChild(body);
+		body.style.position = "absolute";
+		body.style.top = "80px";
+		body.style.left = "22px";
+		body.style.width = "530px";
+		body.style.height = "290px";
+		infobox.popup.scroll.id = "infoscrollbar"
+		infobox.popup.scroll.style.zIndex = "6";
+		ajax("/xml/help.php?topic=@infotab:0:"+helplocation+'.php', null, function(data){
+			header.innerHTML = data.title;
+			body.innerHTML = data.smabouttext + "<br /><br />" + data.mdabouttext;
+			body.appendChild(infobox.popup.scroll);
+			if(body.offsetHeight > 290)
+				ABCScroll.setup("infoscrollbar", {style: 'infoyellow', content_height: 290, bg_margin: "0px 0px 0px 12x"});
+			snd.innerHTML =
+			'<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="gsminiplayer" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="152" height="25" align="top">' +
+				'<param name="allowScriptAccess" value="always" />' +
+				'<param name="movie" value="/artwork/home/miniplayer.swf" />' +
+				'<param name="quality" value="high" />' +
+				'<param name="width" value="152" />' +
+				'<param name="height" value="25" />' +
+				'<param name="scale" value="showall" />' +
+				'<param name="bgcolor" value="#ffffff" />' +
+				'<param name="FlashVars" value="sndfile=/'+data.sound+'&color=1&srcurl=/privacy" />' +
+				'<param name="wmode" value="transparent" />' +
+				'<embed src="/artwork/home/miniplayer.swf" wmode="transparent" quality="high" bgcolor="#ffffff" name="gsminiplayer" width="152" height="25" FlashVars="sndfile=/'+data.sound+'&color=1&srcurl=/privacy" align="top" scale="showall" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />' +
+			'</object>';
+		});
+	}
+}
+</script>
+<style type="text/css">
+body {
+  background-color: #012B54;
+  font-family: Century Gothic, "Arial Narrow", Geneva, san-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #444444;
+  margin-top:0px;
+}
+a {
+	color: #383838;
+  text-decoration: none;
+  font-weight: bold;
+}
+.hand {
+  cursor: pointer;
+  cursor: hand;
+  color: #000099;
+}
+#overview {
+  margin-top: 30px;
+}
+.footer {
+  text-decoration: none;
+  color: #383838;
+  font-size: 7pt;
+  font-weight: bold;
+}
+.btnlink {
+  text-decoration: none;
+  color: #383838;
+  font-size: 12pt;
+  font-weight: bold;
+  cursor: pointer;
+}
+.itemlink {
+  text-decoration: none;
+  color: #383838;
+  font-size: 8pt;
+  font-weight: bold;
+}
+.cicon {
+	height: 100px;
+	position: relative;
+	border-top: 0px;
+	border-left: 0px;
+	border-right:2px solid #666;
+	border-bottom:2px solid #666;
+}
+h1 {
+  color: #99FFFF;
+  font-weight: bold;
+  font-size: 16px;
+}
+.Section1 {
+  font-family: Century Gothic, Geneva, san-serif;
+  font-weight: bold;
+  color: #383838;
+  margin:0px 20px 0px 20px;
+	text-indent: 20px;
+	overflow: hidden;
+	width: 860px;
+}
+</style>
+</head>
+<body>
+
+<div style="width:975px; height:597px; margin: 7px auto;background-color: #FEF667;">
+ <div style="width:982px; height:606px; position:relative; top:-7px; left:-4px;background-image: url('http://img.abcmouse.com/home/homepage.png'); background-repeat:no-repeat;">
+  <div onclick="track('topRightLogo-Click')"><a href="/" style="padding: 5px 80px 4px 85px; margin-left: 712px; text-decoration: none;"></a></div>
+  <div class="headerBox" style="width:970px; height:100px;">
+
+    <a href="/"><img src="http://img.abcmouse.com/home/mouselogo.png" id="toplogo" border="0" align="left" style="position:absolute; left:50px; top:5px;"></a>
+
+
+	<div id="header1" style="position:relative;left:420px;margin-top: 30px;font-size:19px;width: 420px;">Welcome to ABCmouse.com</div>
+	<div id="header2" style="position:relative;left:420px;font-size:12px;font-weight:normal;width:400px;">Please visit the Parents Section, as well as the Information Tabs and Buttons throughout the site, for site help.</div>
+
+    <div id="loginlink" style="float:right; margin: -75px 14px 0px 0px;">
+
+      <img src="http://img.abcmouse.com/home/login.png" border="0" onclick="showLoginBox()">
+
+  
+    </div>
+   </div>
+   <!--[if lt IE 8]>
+	<style type="text/css">
+	   .headerBox{ margin-top: 20px; }
+	</style>
+	<![endif]-->
+
+   <div style="position:absolute; left:25px;top:129px; width:860px;">
+
+<style type="text/css">
+
+	#alphaTerms {
+		text-indent: 0;
+	}
+
+	#alphaTerms .mainTitle {
+		text-align: center; font-size: 15px; font-weight: bold; /*margin-bottom: 10px;*/ text-decoration: underline; /*margin-top: 50px;*/
+	}
+
+	#alphaTerms .letterTitle {
+		/*margin-left: 40px;*/ font-weight: bold;
+	}
+
+	#alphaTerms .title {
+		margin-left: 25px; font-size: 15px; font-weight: bold; text-decoration: underline;
+	}
+
+	#alphaTerms p {
+		/*margin-bottom: 10px;*/ /*margin-bottom: 25px;*/ font-family: 'Century Gothic', Calibri; line-height: 1.2em; /*font-weight: normal;*/ text-align: justify;
+	}
+
+	#alphaTerms .romanNumber {
+		margin-left: 60px; font-weight: bold;
+	}
+
+	#alphaTerms .number {
+		text-align: left; font-size: 15px; font-weight: bold; /*margin-bottom: 10px;*/ /*margin-bottom: 25px; margin-top: 25px;*/
+	}
+
+	#alphaTerms .highlight {
+		font-weight: bold;
+	}
+
+	#alphaTerms a {
+		color: #0062C4; text-decoration: underline; font-weight: bold;
+	}
+
+	#alphaTerms li {
+		font-family: 'Century Gothic', Calibri; font-size: 15px; /*font-weight: normal;*/
+	}
+
+</style>
+
+<div class="Section1">
+
+<div id="alphaTerms" style="width: 850px; font-size: 15px;">
+
+<p class="mainTitle" style="margin-top: 20px;">PRIVACY POLICY</p>
+<p style="text-align: center;">Effective Date: 17 March, 2010</p>
+<p class="mainTitle">Introduction</p>
+
+<p>Welcome to ABCmouse.com ("<span class="highlight">Site</span>"), which is owned and operated by Age of Learning, Inc. We are committed to providing children with a learning environment where every activity is just as fun as it is educational. Parents and legal guardians ("<span class="highlight">Parents</span>"), as well as teachers, can monitor children’s&nbsp; progress as they participate in the entertaining and educational games and activities the Site offers. Our Privacy Policy applies to this Site, and to any downloadable applications made available through the Site or that interact with the Site and post this Privacy Policy.&nbsp;</p>
+
+<p>We will never send marketing messages to children, and children won’t see any advertisements or links to other websites on our Site. Children cannot communicate with anyone through the Site without express parental permission, and even then only to those Site members that the Parent selects. We will never ask your child to provide any Personal Information to us. Parents and teachers provide us only with a child’s first name, birth date and gender.</p>
+
+<p class="mainTitle">Summary
+of Key Points</p>
+
+
+<p>You should read our entire Privacy Policy and also our <a href="/tandc">Terms of Use</a>, but here
+are some key points we want to draw to your attention:</p>
+
+<p>
+    </p><ul>
+        <li>The Site is closed, meaning it is password protected and accessible only to registered members. </li>
+        <li>Children cannot communicate with anyone on the Site absent Parental permission.</li>
+        <li>Only Parents, teachers and other Site members authorized by the Parent can see how children are progressing on the Site.</li>
+        <li>The Site may allow children to post certain content, such as in an art gallery, but a child’s Parent must give permission before the child can publicly post anything on the Site.</li>
+    </ul>
+<p></p>
+
+<p class="mainTitle">Table of Contents</p>
+
+<p>
+    </p><ol>
+        <li><a href="#section1">Account Types</a></li>
+        <ol style="list-style: none">
+            <li>(a) <a href="#section1a">Family Accounts</a></li>
+            <li>(b) <a href="#section1b">Classroom Accounts</a></li>
+        </ol>
+        <li><a href="#section2">Types of Information We Collect</a></li>
+        <ol style="list-style: none">
+            <li>(a) <a href="#section2a">Account Registration Information</a></li>
+            <li>(b) <a href="#section2b">Send-To-A-Friend</a></li>
+        </ol>
+        <li><a href="#section3">Tracking and Technology</a></li>
+        <li><a href="#section4">How We Use The Information Collected</a></li>
+        <li><a href="#section5">How Account Administrators Can Access, Change Or Delete Information Provided To The Site</a></li>
+        <li><a href="#section6">When We Might Disclose Information To Third Parties</a></li>
+        <li><a href="#section7">Communications To or From Us</a></li>
+        <li><a href="#section8">Children's Privacy Notice</a></li>
+        <li><a href="#section9">Links to Other Sites</a></li>
+        <li><a href="#section10">Consent To Transfer Information To The United States</a></li>
+        <li><a href="#section11">Security</a></li>
+        <li><a href="#section12">Changes To Our Privacy Policy</a></li>
+    </ol>
+<p></p>
+
+<a id="section1"></a>
+<p class="number">1.  <span class="title">Account Types.</span></p>
+
+<p>The Site currently offers "<span class="highlight">Family
+Accounts</span>" and two different types of "<span class="highlight">Classroom Accounts</span>"
+(collectively, "<span class="highlight">Accounts</span>"):</p>
+
+<a id="section1a"></a>
+<p style="margin-left: 60px;"><span class="letterTitle">(a)</span> <span class="title">Family
+Accounts.</span> A Family Account has a maximum of four
+members, which includes the Parent, their child(ren) and other extended family
+members and friends designated by the Parent.&nbsp; Each of these four members has
+their own login, and their Site progress, messaging, music, and artwork is
+separately tracked and saved.&nbsp; The Parent may also add their child’s teacher to
+the Family Account, which does not count against the four-member limit.&nbsp; (Please
+note that the teacher’s status as a public or private school professional
+educator must be independently verifiable through their school’s
+domain-specific email address as listed with Market Data Retrieval in order to
+be added to a Family Account free of charge.)&nbsp; Only the Parent can determine
+whether, and with whom, their child(ren) can communicate on the Site, as well
+as who, if anyone, within their Family Account or within other linked Family
+Accounts can view their child(ren)’s progress on the Site.</p>
+
+<a id="section1b"></a>
+<p style="margin-left: 60px;"><span class="letterTitle">(b)</span> <span class="title">Classroom Accounts.</span> We offer two types of Classroom Accounts:
+Free Classroom Accounts and Paid Classroom Accounts.&nbsp; Our Free Classroom
+Accounts allow up to four users to be on the Site simultaneously.&nbsp; Because
+these are not four <i>individual</i> accounts, however, the users do not have
+separate logins, and their Site progress, music, and artwork is not tracked and
+cannot be saved. To be eligible for a Free Classroom Account, please note that
+the teacher’s status as a public or private school professional educator must
+be independently verifiable through their school’s domain-specific email address
+as listed with Market Data Retrieval.&nbsp; Our Paid Classroom Accounts allow for
+individual memberships to be assigned to specific students, and just like with
+a Family Account, each student’s progress, music, and artwork is tracked and
+saved. &nbsp;Additionally, our paid Classroom Accounts enable teachers to provide each
+of their students with individualized assignments. Teachers can also link Paid
+Classroom Accounts to a student’s Family Account via Parental consent, and
+Parents will have the opportunity to view their own child’s in-class progess on
+the Site (but not that of other children).&nbsp; Please note that students cannot
+communicate with anyone or post or display any content while using either type
+of Classroom Account. &nbsp;Both types of Classroom Accounts can only be established
+and managed by a teacher.</p>
+
+<a id="section2"></a>
+<p class="number">2. <span class="title">Types of Information We Collect.</span></p>
+
+<a id="section2a"></a>
+<p style="margin-left: 60px;"><span class="letterTitle">(a)</span> <span class="title">Account Registration
+Information.</span> When you register for an Account, we may ask you for
+certain personal identifying information, such as first and last name, e-mail
+address, credit card number, and physical address ("<b>Personal
+Information</b>"), as well as other demographic information, such as zip
+code.&nbsp; For Family Accounts, the Parent provides us with the first name, gender
+and birth date of each child enrolled, and for other members they add to the
+Family Account, the individual’s first and last name, e-mail address and
+relationship to the child.&nbsp; For paid Classroom Accounts, the teacher provides
+us with the first name, birth date and gender of each student enrolled.&nbsp; Because
+there are no individual users in Free Classroom Accounts, we do not collect any
+information about the children using them.&nbsp; In any event, please do not submit
+Personal Information for any person other than yourself and your own child(ren)
+without such person's permission to do so.</p>
+
+<a id="section2b"></a>
+<p style="margin-left: 60px;"><span class="letterTitle">(b)</span> <span class="title">Send-to-a-Friend.</span> You
+may use our Site tools to invite friends to join our Site; we use the names and
+email addresses you provide to send the invitation.</p>
+
+<a id="section3"></a>
+<p class="number">3. <span class="title">Tracking and Technology.</span></p>
+
+
+<p>To create your best Site experience
+and deliver customized content, we use a variety of technologies, such as
+cookies, that automatically collect certain Site usage information, such as
+browser type, operating system, the page served and your IP address.&nbsp; If you
+disable certain technologies, parts of the Site, such as the ability to track
+your child’s and student’s progress, may not work.</p>
+
+<a id="section4"></a>
+<p class="number">4. <span class="title">How We Use the
+Information We Collect.</span></p>
+
+
+<p>We may use the information we collect on the Site for
+our administrative and internal business purposes (such as Account registration
+and maintenance), to enhance the Site and your experience (such as to enable
+you to see how your child or student is progressing through the Site activities),
+for other purposes we may tell you about when you provide the information, and
+as set forth in this Privacy Policy.</p>
+
+<a id="section5"></a>
+<p class="number">5. <span class="title">How Account Administrators Can Access,
+Change or Delete Information Provided to the Site.</span></p>
+
+<p>Every
+Account has one designated Account Administrator.&nbsp; For Family Accounts, a
+Parent must always be the Account Administrator when children are added.&nbsp; For
+Classroom Accounts, a teacher must always be the Account Administrator.&nbsp; All
+Accounts have management tools that permit an Account Administer to access,
+change or delete information provided to the Site through an Account, which are
+accessible via the “My Account” link on the Site.&nbsp; For Family Accounts, the
+Account Administrator may add and remove Account members, as well as link and unlink
+their Account to other Family Accounts and to the Account Administrator of their
+child’s Classroom Account.&nbsp; For paid Classroom Accounts, the teacher who is the
+Account Administrator may add and remove their individual students, although
+they should not provide any Personal Information for students.&nbsp; We will make
+good faith efforts to make requested changes in our then- active databases as
+soon as reasonably practicable.&nbsp;When
+you edit or delete your information, such information may nonetheless persist internally for our
+administrative purposes.&nbsp; Changing
+setting options may not result in immediate changes to the settings, which are
+subject to our operations and maintenance schedules. If a Parent believes that Personal Information of his
+or her child is on the Site in a manner that the Parent has not authorized, the
+Parent may contact us as set forth below in <a href="#section8">Section 8</a>.</p>
+
+<a id="section6"></a>
+<p class="number">6. <span class="title">When
+We Might Disclose Information to Third Parties.</span></p>
+
+<p>We
+never share any Personal Information collected on the Site with third parties
+for their marketing purposes.&nbsp;We may share
+non-personally identifiable information, such as aggregated user statistics,
+with third parties, such as our business partners.&nbsp; We may share your
+information, including Personal Information with third
+parties who perform certain services for us relating to the Site, such as to
+process credit cards.&nbsp; We may also share your information, including Personal
+Information, with law enforcement agencies in response to a subpoena, to
+governmental agencies conducting an investigation, or if otherwise needed to
+protect the personal safety or property rights of any individual or our Site.
+We may share and transfer your Personal Information if all or a portion of our
+assets are sold or transferred to another company or entity.</p>
+
+<a id="section7"></a>
+<p class="number">7. <span class="title">Communications To or From Us.</span></p>
+
+<p>While we will do our best to respond to emails
+submitted to the Site via a "contact us" or other similar method, we
+may not always be able to respond to them immediately. On occasion, we may
+send&nbsp; commercial messages to adult members about Site offerings or products or
+services designed to enhance their Site experience. Of course, you may always
+choose to stop receiving these messages by following the instructions contained
+in the message. We may invite adult members to receive updates and information about ABCmouse.com through a social networking mobile application or website.&nbsp;We may also send you certain Account-related communications, such
+as information about your child’s progress on the Site, a reminder that your
+Account is about to expire, or information about updated Site’s policies.
+However, you may not stop receiving these Account-related messages as long as
+you are a Site member.&nbsp; While it is not our intention to send any messages to
+children, if you are a Parent that believes his or her child may have received
+such a message, please contact us as set forth below in <a href="#section8">Section 8</a>.</p>
+
+<a id="section8"></a>
+<p class="number">8. <span class="title">Children's
+Privacy Notice.</span></p>
+
+<p>We
+do not ask children to provide any Personal Information while using the Site. In compliance with the Children's Online Privacy Protection
+Act, however, we obtain the consent of Parents in order for children under 13
+years of age ("<span class="highlight">Children</span>" or "<span class="highlight">Child</span>") to use
+the Site in any manner that could result in the Child submitting Personal
+Information.&nbsp; For example, when a Parent authorizes their Child to use our
+messaging tools to communicate with another Site member, the Child could
+disclose their Personal Information to others. Thus, Parents authorize us to
+collect, store and distribute the Child’s Personal Information to Site members
+as expressly designated by the Parent.&nbsp; Additionally, we may link certain
+information collected through a variety of technologies that automatically
+collect certain information whenever a Child interacts with the Site, as
+described in&nbsp;<a href="#section3">Section 3</a>.&nbsp; We may also share a
+Child’s information as set forth in <a href="#section6">Section 6</a>.&nbsp; Age
+of Learning, Inc. is the operator of this Site.&nbsp; Questions regarding this
+Privacy Policy and issues related to your Children’s Personal Information
+should be directed to us via any of the following methods:</p>
+
+<p>
+    </p><ul>
+     <li><span style="font-size:11.0pt">Mailing
+         address: Age of Learning, Inc., PO Box 230, Glendale, CA 91209: Attention:
+         General Counsel</span></li>
+     <li><span style="font-size:11.0pt">Telephone
+         number: <b>(818) 246-2223 (General Counsel)</b></span></li>
+     <li><span style="font-size:11.0pt;">E-mail address: </span><span style="font-size:11.0pt"><a href="mailto:support@abcmouse.com">support@abcmouse.com</a></span></li>
+    </ul>
+<p></p>
+
+<a id="section9"></a>
+<p class="number">9. <span class="title">Links
+to Other Sites.</span></p>
+
+<p>Areas
+of the Site open to children will never have links to third party web sites.
+In the separately password-protected parents and teachers section of the Site we
+may include links to other websites that relate to the Site experience.&nbsp; Linked
+websites are governed by their own privacy policies or information collection
+practices, which may be substantially different from ours.&nbsp; We encourage you to
+review the privacy policies and information collection practices of those
+linked websites.</p>
+
+<a id="section10"></a>
+<p class="number">10. <span class="title">Consent
+to Transfer Information to the United States.</span></p>
+
+
+<p>The Site is operated in the United States.&nbsp; If you are located in
+the European Union, Canada or anywhere else outside of the United States, the
+information we collect from you will be transferred to and processed in the
+United States.&nbsp;The U.S. data
+protection laws may differ from those of the country in which you are located,
+and your Personal Information may be subject to access requests from
+governments, courts, or law enforcement in the United States, according to laws
+of the United States.&nbsp; When you use our
+Site or provide any information to us,
+you consent to the transfer, processing and storage
+of your information in the United States. </p>
+
+<a id="section11"></a>
+<p class="number">11. <span class="title">Security.</span></p>
+
+
+<p>We
+incorporate commercially reasonable safeguards to help protect and secure your
+Personal Information.&nbsp;Please be aware that no data
+transmission or storage can be guaranteed to be 100% secure.&nbsp; We cannot warrant
+the security of information you transmit to us, and you use our Site and
+provide us with your information at your own risk.</p>
+
+<a id="section12"></a>
+<p class="number">12. <span class="title">Changes
+to Our Privacy Policy.</span></p>
+
+
+<p>We
+may change this Privacy Policy at any time and such
+changes will come into effect when we post the revised Privacy Policy. We will
+not use Personal Information collected on this Site in a manner materially
+different than what was stated at the time it was collected without your
+consent.</p><br><br>
+
+<div id="abcscroll"></div>
+</div>
+</div>
+<script type="text/javascript">ABCScroll.setup("abcscroll", {imgurl: "http://img.abcmouse.com", style: 'bigyellow', content_height: 430, bg_margin: "0px 0px 0px 25px"});</script>
+
+   </div>
+   <div style="position:absolute;left:268px;top:565px; ">
+	<map name="navmap">
+		<area shape="rect" coords="0,0,44,29" href="javascript: history.go(-1);">
+		<area shape="rect" coords="50,0,91,19" href="/school#parents/subjects">
+		<area shape="rect" coords="107,0,173,19" href="javascript: showRefer();">
+		<area shape="rect" coords="187,0,242,19" href="/print">
+		<!-- <area shape="rect" coords="254,0,308,19" href="/glossary" /> -->
+		<area shape="rect" coords="320,0,381,19" href="javascript: showFeedback();">
+		<area shape="rect" coords="392,0,470,19" href="javascript: logoutbox();">
+	</map>
+	<img src="http://img.abcmouse.com/home/nav.png" border="0" style="position:absolute; left: -15px;margin-top: -6px;" usemap="#navmap">
+	<img id="infoicon" src="http://img.abcmouse.com/home/info_tab_closed.png" border="0" style="position:absolute;left:540px;top:-13px;cursor:pointer;" onclick="infobox();">
+   <div class="footer" style="position:absolute; top:25px; left: 0px; width: 700px;">© 2009-2010 Age of Learning Inc. |
+   <a href="/">Home</a> |
+   <a href="/tandc">Terms of Use</a> |
+   <a href="/privacy">Privacy Policy</a> |
+   About Us |
+   <span class="hand" onclick="showFeedback()" style="color:red;">Feedback</span>
+   </div>
+	</div>
+
+	<div id="pwdbox" style="display:none;width:305px; height:130px; position:relative; left:500px;background-image: url('http://img.abcmouse.com/home/password_box.png');z-index:51;">
+		<input type="hidden" id="pwdboxid" value="0">
+		<input type="password" id="pwdboxpwd" value="" size="40" style="position:relative;left:18px;top:40px;">
+		<img class="hand" src="http://img.abcmouse.com/home/pwd_done.png" style="position:relative;left:30px;top:50px;" onclick="submitPwdbox()">
+		<img class="hand" src="http://img.abcmouse.com/home/pwd_cancel.png" style="position:relative;left:60px;top:50px;" onclick="cancelPwdbox()">
+	</div>
+
+
+  <iframe id="popbox" src="" width="379px" height="150px" marginwidth="15" marginheight="15" frameborder="0" scrolling="no" allowtransparency="true" style="position: absolute; left: 275px; top: 50px; display: none; background-color:transparent;z-index:51;"></iframe>
+  <iframe id="fbbox" src="" width="403px" height="403px" marginwidth="15" marginheight="15" frameborder="0" scrolling="no" allowtransparency="true" style="position: absolute; left: 250px; top: 50px; display: none; background-color:transparent;z-index:55;"></iframe>
+  <iframe id="referbox" src="" width="530px" height="463px" marginwidth="15" marginheight="15" frameborder="0" scrolling="no" allowtransparency="true" style="position: absolute; left: 250px; top: 50px; display: none; background-color:transparent;z-index:55;"></iframe>
+ </div>
+</div>
+<img src="http://img.abcmouse.com/home/loginback.png" width="0" height="0">
+<img src="" id="trackimage" width="1" height="1" style="background-color: #012B54;">
+
+</body></html>
