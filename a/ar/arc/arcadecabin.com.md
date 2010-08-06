@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadecabin.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623022505id_/http%3A//arcadecabin.com/page-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadecabin.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806165556id_/http%3A//www.arcadecabin.com/page-privacypolicy.html) for the most accurate reproduction.*
 
 # Free Games, Free Online Games
 
