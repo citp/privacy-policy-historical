@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webaffair.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523222521id_/http%3A//www.webaffair.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webaffair.com privacy policy that was archived on 2010-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100807145141id_/http%3A//webaffair.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Dating : Free Online Dating at WebAffair.com
 
-Webaffair.com ("Website")is committed to respecting and safeguarding your privacy online as set forth in this Privacy Policy. This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding users of this Website.
+WebAffair.com ("Website")is committed to respecting and safeguarding your privacy online as set forth in this Privacy Policy. This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding users of this Website.
 
 **VISITOR INFORMATION**
 
@@ -28,13 +28,13 @@ All Members, visitors and Users of this Website should consider any information 
 
 **DISCLOSURE**
 
-Webaffair.com will not disclose any of your personally identifiable information except in accordance with this Privacy Policy or when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating any of our Terms and Conditions.
+WebAffair.com will not disclose any of your personally identifiable information except in accordance with this Privacy Policy or when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating any of our Terms and Conditions.
 
 **E-MAIL COMMUNICATIONS**
 
 When you purchase goods or services from this website we may send you e-mailed transactional communications regarding you purchase such as order, billing and shipping information, customer service communications such as product updates, etc.).
 
-Webaffair.com is committed to respecting and safeguarding your privacy online. We do not sell or rent your e-mail address to others. On occasion we may send you e-mail communications describing special offers, discounts and new products either from the operators of the Website, its agents, affiliates or other third-parties (collectively referred to as "Offers"). If you prefer not to receive such Offers, or subsequently choose to revoke or withdraw any consent to receive such Offers in the future you may Opt-Out sending an e-mail to cs@webaffair.com.
+WebAffair.com is committed to respecting and safeguarding your privacy online. We do not sell or rent your e-mail address to others. On occasion we may send you e-mail communications describing special offers, discounts and new products either from the operators of the Website, its agents, affiliates or other third-parties (collectively referred to as "Offers"). If you prefer not to receive such Offers, or subsequently choose to revoke or withdraw any consent to receive such Offers in the future you may Opt-Out sending an e-mail to cs@WebAffair.com.
 
 **REVISIONS TO THIS PRIVACY POLICY**
 
