@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lnt.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529231748id_/https%3A//www.lnt.com/content/4/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnt.com privacy policy that was archived on 2010-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100807205944id_/https%3A//www.lnt.com/content/4/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
