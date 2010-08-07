@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animesave.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605000448id_/http%3A//www.animesave.com/2010/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animesave.com privacy policy that was archived on 2010-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100807232906id_/http%3A//www.animesave.com/2010/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Free Anime Downloads | Anime Episodes Download
 
