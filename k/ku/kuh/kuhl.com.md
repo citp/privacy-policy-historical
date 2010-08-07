@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuhl.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605071729id_/https%3A//www.kuhl.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuhl.com privacy policy that was archived on 2010-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100807171806id_/http%3A//www.kuhl.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
