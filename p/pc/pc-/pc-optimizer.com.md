@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pc-optimizer.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609040627id_/http%3A//www.pc-optimizer.com/privacy.php%3Flg%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc-optimizer.com privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809013703id_/http%3A//www.pc-optimizer.com/privacy.php%3Flg%3DEN) for the most accurate reproduction.*
 
 # Privacy Policy
 
