@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutsongs.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605013623id_/http%3A//www.scoutsongs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutsongs.com privacy policy that was archived on 2010-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100808082456id_/http%3A//www.scoutsongs.com/privacy.html) for the most accurate reproduction.*
 
 # ScoutSongs.com Privacy Statement
 
