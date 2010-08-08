@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilspider.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607030239id_/http%3A//www.tamilspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilspider.com privacy policy that was archived on 2010-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100808141253id_/http%3A//www.tamilspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # TamilSpider.com privacy policy
 
