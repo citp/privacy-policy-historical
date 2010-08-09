@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the short-funny-jokes.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526133120id_/http%3A//short-funny-jokes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-funny-jokes.com privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809122135id_/http%3A//short-funny-jokes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,3 +23,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to info@short-funny-jokes.com for further clarification.
+
+[ ](http://www.gdstarrating.com/ "GD Star Rating: a WordPress rating system")
