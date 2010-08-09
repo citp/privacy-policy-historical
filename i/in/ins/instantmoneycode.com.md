@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantmoneycode.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625020919id_/http%3A//www.instantmoneycode.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantmoneycode.com privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809120543id_/http%3A//www.instantmoneycode.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
