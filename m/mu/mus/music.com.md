@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418173844id_/http%3A//www.music.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music.com privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809045623id_/http%3A//www.music.com/privacypolicy) for the most accurate reproduction.*
 
 # Music.com
 
