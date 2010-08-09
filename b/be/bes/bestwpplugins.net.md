@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestwpplugins.net privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608054449id_/http%3A//www.bestwpplugins.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwpplugins.net privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809214247id_/http%3A//www.bestwpplugins.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best WordPress Plugins
 
