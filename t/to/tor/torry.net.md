@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torry.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611214534id_/http%3A//www.torry.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torry.net privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809223310id_/http%3A//www.torry.net/privacy.php) for the most accurate reproduction.*
 
 # Torry's Delphi Pages
 
@@ -37,27 +37,23 @@ We reserve the right to update privacy statement from time to time. If we change
 ---  
   
   
-  [Add instant Desktop Publishing functionality to your Delphi application!](http://torry.net/advtxt/adclick.php?bannerid=71&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D7)  
-With the DtpDocuments component suite, you, the developer, can instantly add professional-quality document editing capabilities to your VCL applications.   
-It is not the next reporting component that can only output square, unblended shapes and text blocks. This component can handle virtually every graphical aspect, including native free rotation and alpha blending on pixel and shape level.   
-Develop your own Photo editors, Word-processors, Desktop Publishing and home publishing applications, Multipage print previews, Process visualisation, Reporting engines, CAD/GIS editors (2D) - also eCAD, ODB++, Charting and organising applications (e.g. VISIO-alike), the sky is the limit!  [ more...](http://torry.net/advtxt/adclick.php?bannerid=71&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D7)
+  [Easy data compression solution!](http://www.torry.net/advtxt/adclick.php?bannerid=118&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D15)  
+Easy Compression Library is a very easy-to-use replacement of TFileStream, TMemoryStream and other TStream descendants to their analogues with compression/decompression and encryption. Compression is transparent, all the methods, properties and behavior of TFileStream and TMemoryStream are supported, so it is very simple to replace them in the application code. Save up to $500 by ordering at Torry's Showcase!  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=118&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D15)
 
   
-  [Do you know that you can save 10% on LMD products?](http://torry.net/advtxt/adclick.php?bannerid=67&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D9)  
-LMD-Tools covers almost 370 components (Relase 7.0 CE, + about 30 labeled controls) for any task you can imagine. Following component groups are only examples for the broad range of available components: LMD Tools includes controls for superior interface design, system programming, file controls, database applications, internet-/web-components, multimedia, text/data input (RichEdit), display of formatted text, and many more.   
-_Only for Torry's visitors!_ [ more...](http://torry.net/advtxt/adclick.php?bannerid=67&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D9)
-
-  
-  [Power tools for MySQL and PostgreSQL are calling you!](http://torry.net/advtxt/adclick.php?bannerid=68&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D6)  
- **Database Designer** product family allows you to solve database structure modeling, generation and modification tasks easy. For PostgreSQL and MySQL, choose your favorite!   
-Don't forget to check **DBACentral for MySQL** as well - GUI solution for database administration and data management, which provides you with Microsoft Access like interface paradigm for executing all database operations over database structure and table data. Now with PHP web pages and SSH tunneling.   
-And get 10% off!  [ more...](http://torry.net/advtxt/adclick.php?bannerid=68&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D6)
-
-  
-  [Tired of common actions? Try SweetControls, they will help...](http://torry.net/advtxt/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D12)  
+  [Tired of common actions? Try SweetControls, they will help...](http://www.torry.net/advtxt/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D12)  
 CodeAccelerate’s Delphi VCL controls are native, not derived from a standard control. So the power behind them are not hidden from you and whenever you need, you will find the answers to "howto" questions in seconds.   
 With CodeAccelerate’s Suite (over 50 rich, unique, high-quality, fully customizable, stable, fast controls controls, which are designed carefully to cover all your requirements), give power and profession to your Delphi applications which they desire and let others admire.   
-With SweetControls leave your doubts behind! And, of course, get 10% off as Torry's visitor!  [ more...](http://torry.net/advtxt/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D12)  
+With SweetControls leave your doubts behind! And, of course, get 10% off as Torry's visitor!  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D12)
+
+  
+  [Do you know that you can save 10% on LMD products?](http://www.torry.net/advtxt/adclick.php?bannerid=67&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D9)  
+LMD-Tools covers almost 370 components (Relase 7.0 CE, + about 30 labeled controls) for any task you can imagine. Following component groups are only examples for the broad range of available components: LMD Tools includes controls for superior interface design, system programming, file controls, database applications, internet-/web-components, multimedia, text/data input (RichEdit), display of formatted text, and many more.   
+_Only for Torry's visitors!_ [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=67&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D9)
+
+  
+  [Bring fresh look to your applications!](http://www.torry.net/advtxt/adclick.php?bannerid=69&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D13)  
+ThemeEngine is a library of components which allows to change visual appearance and behavior of your application with use of the powerful set of tools including visual components, convenient designers, easy-to-use non-visual components, the optimized graphic algorithms and a set of ready themes. ThemeEngine can add themes to forms, to the menu and to the elements of the management. 150+ stable easy to use components and 1000+ free skins.  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=69&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D13)  
   
 [Advertising on Torry's Delphi Pages](http://www.torry.net/adv.htm)
 
@@ -67,8 +63,6 @@ With SweetControls leave your doubts behind! And, of course, get 10% off as Torr
 |  |  | 
 
 [Advertising on Torry's Delphi Pages](http://www.torry.net/adv.htm)
-
-[](http://www.delphideveloperdays.com/)
 
 [](http://www.anyplace-control.com/)
 
