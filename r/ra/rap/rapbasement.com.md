@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapbasement.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607135256id_/http%3A//www.rapbasement.com/features/features/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapbasement.com privacy policy that was archived on 2010-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100810015905id_/http%3A//www.rapbasement.com/features/features/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Features | Rap Basement
 
