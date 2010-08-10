@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the google.in privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421231144id_/http%3A//www.google.co.in/intl/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google.in privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811010130id_/http%3A//www.google.co.in/intl/en/privacy.html) for the most accurate reproduction.*
 
 # Google Privacy Center
 
@@ -6,7 +6,7 @@
 
 At Google, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our products and services, why we collect it and how we use it to improve your experience. 
 
-We have 5 [privacy principles](https://web.archive.org/web/20100421231144id_/http%3A//www.google.co.in/intl/en/corporate/privacy_principles.html) that describe how we approach privacy and user information across all of our products: 
+We have 5 [privacy principles](https://web.archive.org/web/20100811010130id_/http%3A//www.google.co.in/intl/en/corporate/privacy_principles.html) that describe how we approach privacy and user information across all of our products: 
 
   1. Use information to provide our users with valuable products and services. 
   2. Develop products that reflect strong privacy standards and practices. 
