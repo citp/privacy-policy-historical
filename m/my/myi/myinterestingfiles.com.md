@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myinterestingfiles.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128222812id_/http%3A//www.myinterestingfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinterestingfiles.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811010747id_/http%3A//www.myinterestingfiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
