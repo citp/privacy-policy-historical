@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the bluelaguna.net privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629152222id_/http%3A//valueclickmedia.com/webuser_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluelaguna.net privacy policy that was archived on 2010-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100810043913id_/http%3A//valueclickmedia.com/webuser_privacy.shtml) for the most accurate reproduction.*
 
 # ValueClick Media - Privacy Statement
+
+[Display Member Privacy Policy](https://web.archive.org/member_privacy.shtml)
 
 Welcome to ValueClickMedia.com, a division of ValueClick, Inc. (hereinafter "ValueClick Media", “we” or “us”). All references to “ValueClick Media”, “we” or “us” in this Privacy Policy shall refer only to ValueClick Media excluding Lead Generation (as defined below). 
 
 At ValueClick Media, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us. ValueClick Media is an advertising network which means we may deliver advertisements to the websites you visit. 
 
-Please note that this Privacy Policy applies solely to ValueClick Media, excluding ValueClick Media’s lead generation component (“Lead Generation”) which is addressed in a separate privacy policy linked as follows: [Click Here for Lead Generation’s privacy policy](https://web.archive.org/web/20100629152222id_/http%3A//valueclickmedia.com/lead_web_privacy.shtml). All other ValueClick, Inc. entities are governed by separate privacy policies found on such entities’ websites. 
+Please note that this Privacy Policy applies solely to ValueClick Media, excluding ValueClick Media’s lead generation component (“Lead Generation”) which is addressed in a separate privacy policy linked as follows: [Click Here for Lead Generation’s privacy policy](https://web.archive.org/lead_web_privacy.shtml). All other ValueClick, Inc. entities are governed by separate privacy policies found on such entities’ websites. 
 
-ValueClick Media is a member of the Network Advertising Initiative which works to address important privacy and consumer protection issues in emerging media. For more information, please click here. 
+ValueClick Media is a member of the Network Advertising Initiative which works to address important privacy and consumer protection issues in emerging media. For more information, please [click here](https://web.archive.org/webuser_privacy.shtml#nai). 
 
 **INTRODUCTION**
 
@@ -18,7 +20,7 @@ Please read this policy carefully since by visiting this website (“Website”)
 **Summary.**   
 We have included a table summarizing our practices solely for your convenience and reference purposes. This table, however, is not an exhaustive description of our privacy practices and should not be construed to define, limit, or describe the scope or extent of our Privacy Policy. As a result, we urge you to read the entire document. 
 
-**INFORMATION WE COLLECT**
+**INFORMATION WE COLLECT                               **
 
 **Non-Personally Identifiable Information.**   
 As part of our on-going efforts to ensure the best possible experience for all recipients of ValueClick Media advertising, we may use log files, web beacons and cookies to collect data from browsers, advertiser and third party sites (“Sites”) to aggregate Information. The Information collected is used for marketing purposes, enables us to determine which advertisements perform well, allows us to more effectively match advertisements and website content to your interests, assists us in improving the operation of our services, helps us to maintain the quality of our services, enhances our services to our business partners and clients and enables us to provide general statistics to our business partners and clients regarding use of ValueClick Media’s services. 
@@ -35,6 +37,7 @@ There are many misconceptions about Cookies, some of which we will try to addres
 
 A useful resource on understanding Cookies may be found at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
+****  
 **SHARING YOUR INFORMATION**
 
 **Information Shared by ValueClick Media.**   
@@ -70,7 +73,9 @@ ValueClick Media employs appropriate measures to ensure the security of all Info
 
 As the standards governing Internet privacy continue to evolve, ValueClick Media may find it appropriate or necessary to update this Privacy Policy from time to time. As a result, we reserve the right to change this privacy policy at any time and shall post such changes on the Website. Our Website will state the date the Privacy Policy was last updated. We encourage you to review the Privacy Policy whenever you use this Website to make sure you understand how your information will be used. If we materially change how we use your Information, we will notify via a prominent notice on the Website prior to implementing the change 
 
-**MISCELLANEOUS**
+**RETENTION**
+
+We retain Non-PII for use to more effectively match advertisements and website content to your interests for no more than eighteen (18) months.  Aggregate reports generated from such data may be retained for a longer period.
 
 **Children’s Privacy.**  
 ValueClick Media is very sensitive to the issue of the privacy rights or children. ValueClick Media Websites and services generally are neither developed for, nor directed at, children. 
