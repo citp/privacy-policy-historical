@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takeonegetone.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603082229id_/http%3A//takeonegetone.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takeonegetone.com privacy policy that was archived on 2010-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100810225232id_/http%3A//takeonegetone.com/legal/privacy) for the most accurate reproduction.*
 
 # TakeOneGetOne.com
 
