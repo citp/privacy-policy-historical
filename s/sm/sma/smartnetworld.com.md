@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartnetworld.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124043541id_/http%3A//www.smartnetworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartnetworld.com privacy policy that was archived on 2010-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100810201512id_/http%3A//www.smartnetworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Home Based Business Opportunity | Smart Business Solutions - Profitable Business Opportunities
+# Privacy Policy | Online Home Based Business Smart Business Solutions
 
 ## Privacy Policy
 
