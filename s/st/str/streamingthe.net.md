@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626064108id_/http%3A//www.streamingthe.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2010-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100810025556id_/http%3A//www.streamingthe.net/privacy.php) for the most accurate reproduction.*
 
 # Watch Live Online TV and Radio Streaming
 
