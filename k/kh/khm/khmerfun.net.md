@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khmerfun.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620223630id_/http%3A//www.khmerfun.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khmerfun.net privacy policy that was archived on 2010-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100810150403id_/http%3A//www.khmerfun.net/privacy-policy.html) for the most accurate reproduction.*
 
 # KhmerFun.NET - User Privacy Policy
 
