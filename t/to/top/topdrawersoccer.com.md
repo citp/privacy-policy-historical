@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608070808id_/http%3A//www.topdrawersoccer.com/content/nid-2835) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811005915id_/http%3A//www.topdrawersoccer.com/content/nid-2835) for the most accurate reproduction.*
 
 # TopDrawerSoccer.com, Articles
 
