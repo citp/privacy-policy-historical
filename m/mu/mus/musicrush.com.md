@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicrush.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608114747id_/http%3A//www.musicrush.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicrush.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811084619id_/http%3A//www.musicrush.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # MusicRush: Privacy policy
 
