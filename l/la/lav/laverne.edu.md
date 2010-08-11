@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laverne.edu privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612012555id_/http%3A//laverne.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laverne.edu privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812014120id_/http%3A//laverne.edu/privacy-policy) for the most accurate reproduction.*
 
 # University Privacy Policy - University of La Verne
 
