@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the influenster.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601111433id_/http%3A//www.influenster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influenster.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811062735id_/http%3A//www.influenster.com/privacy) for the most accurate reproduction.*
 
-# Influenster - Community of Influencers Getting Goody Bags Filled With The Latest Products
+# Influenster - Community of Influencers Getting VoxBoxes Filled With The Latest Products
 
 This web site is a property of Vox Pop Communities.
 
