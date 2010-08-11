@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commi.sh privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611001508id_/http%3A//commi.sh/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commi.sh privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811041745id_/http%3A//commi.sh/privacy) for the most accurate reproduction.*
 
 # Commi.sh - Social League Management
 
