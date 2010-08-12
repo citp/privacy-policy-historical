@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpertravels.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609224525id_/http%3A//www.xpertravels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpertravels.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812092148id_/http%3A//www.xpertravels.com/privacy.html) for the most accurate reproduction.*
 
 # XperTravels.com - Privacy Policy
 
