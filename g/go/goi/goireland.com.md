@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612152302id_/http%3A//www.goireland.com/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812121002id_/http%3A//www.goireland.com/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - GoIreland.com
 
