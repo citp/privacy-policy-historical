@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipodtouchfans.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610003857id_/http%3A//www.ipodtouchfans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipodtouchfans.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812072130id_/http%3A//www.ipodtouchfans.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – iPod touch, iPhone, and iPad news – Multi-Touch Fans
 
