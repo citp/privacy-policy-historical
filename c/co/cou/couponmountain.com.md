@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526093956id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812102723id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Offer Online Coupons & Coupon Codes at Coupon Mountain
 
 ### COUPONMOUNTAIN.COM
 
-**Last Updated: February 25, 2010**
+**Last Updated: August 6, 2010**
 
 _**Privacy Policy**_
 
@@ -32,7 +32,7 @@ There are many misconceptions about Cookies, some of which we will try to addres
 
 A useful resource on understanding Cookies may be found at [http://www.allaboutcookies.org ](http://www.allaboutcookies.org/).
 
-(c) Third Party Advertising. We have relationships with third-party advertising companies to drive traffic to and to serve ads on our Site. We share Clickstream Data and Non-PII with such advertising companies. Such companies may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.
+(c) Advertising and Third Party Advertising. We have relationships with our affiliated companies and with third-party advertising companies to drive traffic to and to serve ads on our Site. We share Clickstream Data and Non-PII with such advertising companies. Such companies may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. The Non-PII collected by such parties on our Site and other websites may be used in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, please click on the following link: [NAI Website](http://www.networkadvertising.org/managing/opt_out.asp). Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.
 
 (d) Contact Information or Personally Identifying Information. We have access to your PII after such PII has been submitted to us by: (i) becoming a registered user of our Site, (ii) subscribing to any of our newsletters, (iii) contacting us by submitting a comment, problem, or request for information, (iv) submitting PII in connection with special offers or contests, and/or by (v) signing up as one of our advertisers, merchants or business partners. 
 
