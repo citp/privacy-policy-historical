@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3par.com privacy policy that was archived on 2008-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081114002553id_/http%3A//www.3par.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3par.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812215237id_/http%3A//www.3par.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 3PAR Privacy Policy
 
@@ -14,7 +14,7 @@ Fremont, CA 94538
 
   For each visitor to our website, our web server automatically recognizes only the consumer's domain name, but not their e-mail addresses (where possible).
 
-We collect only the domain names (but not the e-mail addresses) of visitors to our website, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our website or to customize the content and/or layout of our site for each individual visitor. We do not set any cookies.
+We collect only the domain names (but not the e-mail addresses) of visitors to our website, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our website or to customize the content and/or layout of our site for each individual visitor. 
 
 If you do not want to receive e-mail from 3PAR in the future, please let us know by sending email to [unsubscribe@3PAR.com](mailto:unsubscribe@3PAR.com).
 
