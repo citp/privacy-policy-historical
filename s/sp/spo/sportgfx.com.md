@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportgfx.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612170929id_/http%3A//sportgfx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportgfx.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812115049id_/http%3A//sportgfx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Sport GFX Forum
 
