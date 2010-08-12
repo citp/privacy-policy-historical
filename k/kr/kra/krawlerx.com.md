@@ -1,51 +1,61 @@
-> *The following text is extracted and transformed from the krawlerx.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011043831id_/http%3A//krawlerx.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krawlerx.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812053452id_/http%3A//www.krawler.com/privacy-statement) for the most accurate reproduction.*
 
-# Krawler[x] - Privacy policy
+# Krawler's Privacy Commitment | We value your trust
 
-Welcome to the Krawler Network, a personal online networking service operated by Krawler Inc and/or wholly-owned subsidiaries ("Krawler") which includes Krawler software, content, related documentation, information on the Krawler domain, and information made available by users to each other on the Internet through the Krawler Software (collectively, the Service) . Your privacy is important to us and we have designed the Service to give you choices about the personal information available. This Privacy Policy explains how we collect, use and share your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us.
+**General**
 
-By using the Service, you consent to the collection and use of your personal information as outlined in the Privacy Policy. From time to time, we may update the Privacy Policy and we will post a notice of significant changes on the web site [www.Krawlerx.com](http://www.krawlerx.com/ "Krawler\[x\] home"). You should visit this page periodically to review any such changes to the Privacy Policy.
+At Krawler we respect your need for online privacy and protect any information that you may share with us, in an appropriate manner. Our practice as regards use of your information is as set forth below. As a condition to use of our services, you consent to the terms of the Krawler Privacy Policy as it may be updated from time to time. 
 
-## What We Collect
+**Children’s Online Privacy Protection**
 
-When you register to become a member of the Service, we collect your name, email address and other personal identifying information that you submit. Also, as part of your personal profile, you may choose to make available additional personal information such as gender, age, occupation, hobbies, interests, etc. and other content, such as photos, titles in your content library and blogs (web logs). This additional information is voluntary and can be made available to other members.
+In compliance with the Children's Online Privacy Protection Act of 1998, Krawler does not collect Personal Information from users who are under 13 years of age. Since it is necessary to provide Personal Information for creating a Krawler Account, we do not provide our services to persons below 13 years of age. 
 
-When you invite new members into your network or send messages through the Krawler service, we collect and maintain the information associated with those messages, including email addresses and content on secure servers. As with any social networking service, you should use care when disclosing your personal information to strangers. Be advised that if you send messages or post material containing personal information, that information may be collected and used by others. In order to provide the best possible service and fulfill our reporting obligations on web casting of music, we collect aggregate information about your use of the Service.
+**Demo Login**
 
-## How We Use Your Information
+Since we understand that you may wish not to disclose your Personal Information for trying out our services, we provide you the option of Demo Login for all Krawler services. The contents created by you using the Demo Login will be accessible to all persons using the Demo Login. Hence we specifically request you not to store your personal and sensitive information, files and documents while using the Demo Login.
 
-We make your profile and other user information available to other users according to the privacy settings you set for yourself. When you send messages through the Service, your user name will be identified in the message. We also use your name and email address to notify you of new product releases, service notifications, and to solicit your feedback and input. We NO NOT sell, rent, or share your email address and profile information with anyone.
+##  Information Recorded and Use: 
 
-You understand and agree that Krawler may access, preserve, and disclose your personal information and the contents of your account if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect the rights and property of Krawler, its affiliates or the public.
+  * Personal Information During the Registration Process for creating a Krawler Account, we request for your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your Krawler Account. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this privacy policy.
+  * Account Usage Details Your Account Usage Details such as time, frequency, duration and pattern of use, features used and the amount of storage used will be recorded by us in order to enhance your experience of the services and to help us provide you the best possible service.
+  * Contents of your Account We store and maintain files, documents, to-do lists, emails and other data stored in your Account at our facilities in the United States or any other country. Use of Krawler Services signifies your consent to such transfer of your data outside of your country. In order to prevent loss of data due to errors or system failures, we also keep backup copies of data including the contents of your Account. Hence your files and data may remain on our servers even after deletion or termination of your Account. We assure you that the contents of your Account will not be disclosed to anyone and will not be accessible to employees of Krawler. Neither do we process the contents of your Account for serving targeted advertisements.
+  * Financial Information In case of services requiring payment, we request credit card or other payment Account information, which will be used solely for processing payments. Your Financial Information will not be stored by us. Subject to your prior consent and where necessary for processing future payments, your Financial Information will be stored in encrypted form on secure servers of reputed Payment Gateway Service Provider.
+  * Visitor Details We use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in our log files to analyze the trends, administer the websites, track visitor's movements and to improve our website. 
 
-We use the non-personally identifiable information and certain technical information about your computer in order to operate, maintain and manage the Service.
 
-## Controlling Your Personal Information
 
-The Service provides a number of tools for you to control your profile and other personal information. You can edit your profile and other information at any time through the Krawler client software. You can also adjust your privacy settings using the Krawler client to limit viewing certain information to yourself, your friends, friends of friends or make the information available to everyone.
+**Cookies**
 
-At any time, you can terminate your account which will remove your profile and other personal information from view. Contact Krawler to terminate your account or for any other questions about your personal information.
+We use temporary and permanent cookies to enhance your experience of our services. Temporary cookies will be removed from your computer each time you close your browser. By selecting ‘keep me signed-in’ option in Krawler services, a permanent cookie will be stored in your computer and you will not be required to sign-in by providing complete login information each time you return to our website. If you have turned cookies off, you may not be able to use registered areas of the websites. 
 
-## Transfer of Information
+**Links from our website**
 
-We reserve the right to transfer your personal information in the event of a transfer of ownership of Krawler, such as acquisition by or merger with another company. In such an event, Krawler will notify you before information about you is transferred and becomes subject to a different privacy policy.
+Some pages of our websites contain external links. You are advised to verify the privacy practices of such other websites. We are not responsible for the manner of use or misuse of information made available by you at such other websites. We encourage you not to provide Personal Information, without assuring yourselves of the privacy policy of other websites. 
 
-## Others' Information
+**With whom we share Information**
 
-If you invite another person to join Krawler, we will ask for that person's name and email address. We use this information to contact and, if necessary, remind that person that he or she has been invited to join Krawler. All invitees are provided with the option not to receive further invitations from Krawler. We may disclose such information if required to do so in order to comply with valid legal process.
+We will obtain your prior specific consent before we share or disclose your personally identifiable information to any person outside Krawler. We may share generic aggregated demographic information not linked to any Personal Information regarding visitors and users with our business partners and advertisers. Please be aware that as an Internet Service Provider, laws in various jurisdictions in which we operate may obligate us to disclose user information and the contents of the Accounts to the local law enforcement authorities under specifically defined circumstances. 
 
-## Cookies
+**How secure is your Information**
 
-We send "cookies" to your computer and use such cookies as described here. A cookie is a piece of data that identifies you as a unique user. We use cookies to improve the quality of our service and make the service easier to use for our members. We do this by storing information about a particular login session in cookies in order to provide you a seamless experience during a particular login session. When you logout of the Service and exit the application your session cookie information is removed.
+We adopt appropriate data collection, storage and processing practices and security measures, as well as physical security measures to protect against unauthorized access, alteration, disclosure or destruction of your Personal Information, username, password, transaction information and data stored in your Account. Access to your name and email address is restricted to our employees who need to know such information in connection with our services and are bound by confidentiality obligations. 
 
-## Links to Other Sites
+**Your Choice in Information Use**
 
-Krawler may contain links to other web sites. These other sites maintain their own policies regarding cookies and the collection and use of personal information.
+You will be required to register for our services by providing Personal Information. If you choose not to provide your Personal Information, we will be unable to provide you the services. We do provide you with the option of not choosing a secret question and the answer to it; however, we may not be able to reset your password for you. We also provide you with the option of opting out from receiving mails from us; however, you will not be able to receive email notifications of new services, releases, upcoming events and changes to the Krawler Privacy Policy. In the event we decide to use your Personal Information for any purpose other than as stated in this Privacy Policy, we will offer you an effective way to opt out of the use of your Personal Information for those other purposes. 
 
-## Security
+**Accessing, Updating and Removing Personal Information**
 
-We use industry standard security measures to protect your information so that it is not made available to unauthorized parties. If you have any questions regarding which measures and techniques we use, feel free to contact us.
+We provide users with access to their personally identifiable information. Users may correct, update or remove any such personally identifiable information either through their Krawler Account or by contacting Krawler Customer Support Services. Such changes may take up to 48 hours to take effect. 
 
-## Additional Questions
+**Enforcement of Privacy Policy**
 
-Again, feel free to contact us any time, if you have further questions about Krawler. Click here to contact us.
+We make every effort including periodic reviews to ensure that Personal Information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which Personal Information is used for the purpose of providing the services, kindly contact Krawler Customer Support Services at [support@ikrawler.com](mailto:support@ikrawler.com) . We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard if needed. 
+
+**Notification of Changes**
+
+Any changes to the Krawler Privacy Policy will be posted on our websites in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving email notifications from us. You will not receive email notification of minor changes to the Krawler Privacy Policy. If you are concerned about how your information is used, you should check back at http://www.ikrawler.com/privacy-statement periodically. 
+
+**END OF PRIVACY POLICY**
+
+If you have any questions or concerns regarding this privacy policy, please contact us at [legal@ikrawler.com](mailto:leagal@ikrawler.com) . 
