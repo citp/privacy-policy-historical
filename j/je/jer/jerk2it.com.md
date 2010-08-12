@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerk2it.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802084200id_/http%3A//www.jerk2it.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerk2it.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812103756id_/http%3A//www.jerk2it.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jerk2It
 
