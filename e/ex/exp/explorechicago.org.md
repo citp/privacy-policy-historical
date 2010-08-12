@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorechicago.org privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630175429id_/http%3A//www.explorechicago.org/city/en/special_pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorechicago.org privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812112522id_/http%3A//www.explorechicago.org/city/en/special_pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
