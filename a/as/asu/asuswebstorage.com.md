@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asuswebstorage.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627115106id_/http%3A//www.asuswebstorage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asuswebstorage.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812024420id_/http%3A//www.asuswebstorage.com/privacy) for the most accurate reproduction.*
 
 # Welcome To ASUS WebStorage
 
