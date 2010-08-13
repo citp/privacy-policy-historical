@@ -1,12 +1,33 @@
-<!--The following is the downloaded HTML source of the advent.com privacy policy that was archived on 2009-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091202090057id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advent.com privacy policy that was archived on 2010-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100813093136id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctlHead">
-    <script src="/Javascript/quickmenu.js" type="text/javascript"></script><style type="text/css">.qm-is{border-style:none;display:block;}</style>
-    <script src="/Javascript/scripts.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="/Javascript/quickmenu.js"></script><style type="text/css">.qm-is{border-style:none;display:block;}</style>
+
+    <script type="text/javascript" src="/Javascript/scripts.js"></script>
+
+    <script type="text/javascript" src="/Javascript/jquery-1.3.2.min.js"></script>
+
+    <script type="text/javascript" src="/Javascript/jquery.url.packed.js"></script>
+
+    <script type="text/javascript" src="/Javascript/jquery.ceebox.js"></script>
+
+    <script type="text/javascript" src="/Javascript/jquery.color.js"></script>
+
+    <script type="text/javascript" src="/Javascript/jquery.easing.js"></script>
+
+    <script type="text/javascript" src="/Javascript/jquery.metadata.js"></script>
+
+    <script type="text/javascript" src="/Javascript/jquery.swfobject.js"></script>
+
+    <script type="text/javascript" src="/Javascript/mbox.js"></script>
+
+    <script type="text/javascript" src="/Javascript/autodemo.js"></script>
+
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
-    <script src="/Javascript/jquery-1.3.2.min.js" type="text/javascript"></script>
-    <script src="/Javascript/jquery.url.packed.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.js"></script>
 
     <!--[if lt IE 7]>
     <script src="/Javascript/DD_belatedPNG_0.0.8a-min.js" type="text/javascript"></script>
@@ -45,6 +66,12 @@
                 default:
                     break;
             }
+
+            //* CeeBox (lightbox) */
+            $.fn.ceebox.videos.base.param.allowScriptAccess = "sameDomain" //added to kill the permissions problem
+            $(".ceebox").ceebox({ borderColor: '#dcdcdc', boxColor: "#fff" });
+            $(".ceebox2").ceebox({ unload: function() { $("body").css({ background: "#ddf" }) } });
+            //* END CeeBox */
 
             $(".executivesPanel").hover(
 		    function() { $(this).next().show("normal"); },
@@ -103,26 +130,80 @@
                 $(this).toggleClass("active");
             });
 
-		    $("table.listTable tr").addClass("listTableRow");
-		    $("table.listTable tr:nth-child(odd)").addClass("oddTableRow");
-            
+            $("table.listTable tr").addClass("listTableRow");
+            $("table.listTable tr:nth-child(odd)").addClass("oddTableRow");
+
+            $(".fauxDropdown").click(function() {
+                $(".fauxDropdownList").slideToggle(100);
+                $(this).toggleClass("active");
+            });
+            $(".fauxDropdownList").mouseleave(function() {
+                $(this).hide();
+            });
+
+            $(function() {
+                $(".apxMiniCubeImage").hover(
+		        function() {
+		            $(this).attr("src", $(this).attr("src").replace(/.jpg/, "_over.jpg"));
+		        },
+		        function() {
+		            $(this).attr("src", $(this).attr("src").replace(/_over.jpg/, ".jpg"));
+		        }
+	        );
+            });
+
+            $(function() {
+                $(".imgSwapJpgOver").hover(
+		        function() {
+		            $(this).attr("src", $(this).attr("src").replace(/.jpg/, "-over.jpg"));
+		        },
+		        function() {
+		            $(this).attr("src", $(this).attr("src").replace(/-over.jpg/, ".jpg"));
+		        }
+	            );
+            });
+
+            $(function() {
+                $(".imgSwapGifOver").hover(
+		        function() {
+		            $(this).attr("src", $(this).attr("src").replace(/.gif/, "-over.gif"));
+		        },
+		        function() {
+		            $(this).attr("src", $(this).attr("src").replace(/-over.gif/, ".gif"));
+		        }
+	            );
+            });
         });
     </script>
-    <meta name="description" content=""><meta name="keywords" content=""><link href="../App_Themes/default/blueprint.css" type="text/css" rel="stylesheet"><link href="../App_Themes/default/StyleSheet.css" type="text/css" rel="stylesheet"><title>
+
+    <script type="text/javascript">
+        $(function() {
+            $("#onDemandToggleWrapper").accordion({
+                event: "mouseenter",
+                autoHeight: false,
+                active: false,
+                header: 'dt'
+            });
+        });
+    </script>
+
+    <meta name="description"><meta name="keywords"><link href="../App_Themes/default/blueprint.css" type="text/css" rel="stylesheet"><link href="../App_Themes/default/ceebox.css" type="text/css" rel="stylesheet"><link href="../App_Themes/default/StyleSheet.css" type="text/css" rel="stylesheet"><link href="../App_Themes/default/ui.dropdownchecklist.css" type="text/css" rel="stylesheet"><title>
 	Email Publication and Website Privacy Policy
 </title></head>
 <body>
+    
     <form name="aspnetForm" method="post" action="/about/website_policy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhjYzQxMDIwYTRjZGJiMRgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUWY3RsMDAkaW1nYnRuU2l0ZVNlYXJjaE6z1B7Ld/nrbN8yrGWu7mTKb2jw">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhjZDA4YTZjNjM3ZTczNhgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUWY3RsMDAkaW1nYnRuU2l0ZVNlYXJjaGg7ZAFxDZONJKYdLHen77/TsOge">
 
 
-<script src="/ScriptResource.axd?d=MU1LW06w1GQ0yTWQ6CCtuix1benUSmlAcEAwTanQk45QqbSfBl7068dy4f3KUqbTjbQG9zpk7LkTNd9PV80JGsuB9s-LmhVsb9GP6_OvcDI1&amp;t=ffffffff8e99fd4b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=fg01_0z_qH6JUQiDwAo6zyQtiXWzy7hcU4TzISSzydNB3aS2HvTuoGZEehkX5Y_lZeeoTnjyBX2VRMETHnXuixU8_4LzIwYMh4PePZWyRW01&amp;t=ffffffff8e99fd4b" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
+    <img src="/images/advent-facebook-logo.png" id="ctl00_Img_10" name="imgCorpLogoBigHidden" style="display: none;">
     
     
     <div class="header_nav_wrapper">
@@ -150,8 +231,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                         History</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/overview/executives">
                                         Executive Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/overview/board_directors">
                                         Board of Directors</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/overview/offices">
-                                        Offices</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/overview/charitable-giving">
-                                        Charitable Giving</a></div><a href="/about/news/" class="qmparent">Press Room</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/news/press_releases">
+                                        Offices</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/overview/community-involvement">Community Involvement</a></div><a href="/about/news/" class="qmparent">Press Room</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/news/press_releases">
                                         Press Releases</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/news/executives">
                                         Executive Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="http://investor.advent.com/phoenix.zhtml?c=96626&amp;p=irol-IRHome">
                                         Financial Information</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/news/coverage">
@@ -161,23 +241,23 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                         Tradeshows</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/events/conferences">
                                         Conferences</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/events/live_events">
                                         Live Events</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/events/ondemand_webseminars">
-                                        On Demand Web Seminars</a></div><a href="/about/investor_relations/">Investor Relations</a><a href="/about/partners/" class="qmparent">Alliance Partners</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/partners/axys">
+                                        Recorded Web Seminar</a></div><a href="/about/investor_relations/">Investor Relations</a><a href="/about/partners/" class="qmparent">Alliance Partners</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/partners/axys">
                                             Axys</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/partners/portfolio-exchange">
                                             Advent Portfolio Exchange</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/partners/geneva">
                                             Geneva</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/partners/moxy">
                                             Moxy</a></div><a href="/about/careers/" class="qmparent">Careers</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/why_advent">
                                             Why Advent</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/who_we_are">
-                                            Who We Are</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/charitable-giving">
-                                            Charitable Giving</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/meetadvent">
+                                            Who We Are</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/community-involvement">
+                                            Community Involvement</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/meetadvent">
                                             Meet Advent</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/location">
                                             Location &amp; Size</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/benefits">
                                             Benefits</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/training">
                                             Training</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/apply">
                                             Apply Online</a></div></div><a class="qmparent" href="/solutions">
                         <img id="menuSolutions" class="qm-is qm-ia" src="/Images/solutions.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover qmparent" href="/solutions/by-product">
-                                By Product</a><div id="" style="margin-top: -10px; padding: 0px !important; border: 0px !important; z-index: 31;"><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Research Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/tamale-rms">Tamale RMS</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Trading &amp; Order Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/moxy">Moxy</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Portfolio Management &amp;
+                                By Product</a><div id="" style="margin-top: -10px; padding: 0px !important; border: 0px !important; z-index: 31;"><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Research Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/tamale-rms">Tamale RMS</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Trading &amp; Order Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/moxy">Moxy</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Fund Distribution</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/advent-tradex">Advent Tradex</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Portfolio Management &amp;
                                         Accounting</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/geneva">Geneva</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/apx">Advent Portfolio Exchange</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/axys">Axys</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Partnership Accounting</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/partner">Advent Partner</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Compliance</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/rules-manager">Advent Rules Manager</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Billing &amp; Fee Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/revenue-center">Advent Revenue Center</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem byProductLink">Custodial
-                                        and Market Data</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/aca">Advent Corporate Actions</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/acd">Advent Custodial Data</a></div><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover qmparent" href="/solutions/by-firm-type">
+                                        and Market Data</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/aca">Advent Corporate Action</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/acd">Advent Custodial Data</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/index-data">Advent Index Data</a></div><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover qmparent" href="/solutions/by-firm-type">
                                 By Firm Type</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-firm-type/asset-managers-software">
                                         Asset Managers</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-firm-type/broker-dealers-software">
                                         Broker Dealers</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-firm-type/endowments-and-foundations">
@@ -195,7 +275,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                         Reconciliation/Settlement</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/portfolio-accounting-management">
                                         Portfolio Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/performance-measurement-analytics">
                                         Performance Analytics</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/customer-relationship-management">
-                                        CRM</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/trade-order-management">
+                                        CRM</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/fund-distribution">
+                                        Fund Distribution</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/trade-order-management">
                                         Trade Order Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/compliance">
                                         Compliance</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/revenue-management">
                                         Revenue Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/investor-accounting">
@@ -206,7 +287,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 By Role</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-role/revenue-fee-management">
                                         Revenue Fee Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-role/executive">
                                             Executive</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-role/portfolio-management-connectivity">
-                                            Portfolio Management Connectivity</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-role/research">
+                                            Portfolio Management Connectivity</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-role/client-advisor">
+                                            Client Advisor</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-role/research">
                                             Research</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-role/portfolio-management">
                                             Portfolio Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-role/client-billing">
                                             Client Billing</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-role/client-reporting">
@@ -220,23 +302,23 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 By Geography</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-geography/north-america">
                                         North America</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-geography/emea">
                                         EMEA</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-geography/asia-pacific">
-                                        Asia Pacific</a></div><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover qmparent" href="/solutions/by-deployment-option">
-                                By Deployment Option</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-deployment-option/abos">
-                                        Outsourcing Services</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-deployment-option/installed">
+                                        Asia Pacific</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-geography/latin-america">
+                                        Latin America</a></div><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover qmparent" href="/solutions/by-deployment-option">
+                                By Deployment Option</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-deployment-option/advent-ondemand">
+                                        Advent OnDemand</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-deployment-option/installed">
                                         Locally Installed</a></div></div><a class="qmparent" href="/services/overview">
                         <img id="menuServices" class="qm-is qm-ia" src="/Images/services.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/services/overview">Overview</a><a href="/services/outsourcing-services">Outsourcing Services</a><a href="/services/consulting" class="qmparent">Consulting Services</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/consulting/implementation">
                                         Implementation Services</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/consulting/custom">
                                         Custom Services</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/consulting/project_management">
                                         Project Management</a></div><a href="/services/advent-university" class="qmparent">Advent University</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/advent-university/by-product-family">
-                                        Training By Product Family</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/advent-university/advent-connection">
-                                        Advent Certification Program</a></div><a href="/services/support" class="qmparent">Support</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/support/maintenance">
+                                        Training By Product Family</a></div><a href="/services/support" class="qmparent">Support</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/support/maintenance">
                                         Maintenance</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/support/client-support">
                                         Client Support</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/support/operations-advisory-service">
                                         Operations Advisory Services</a></div><a href="/services/client-community" class="qmparent">Client Community</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/advent-connection">
                                         Advent Connection</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/client-community/user-group">
                                         Advent User Groups</a></div></div><a class="qmparent" href="/clients/overview" style="padding: 0px;">
                         <img id="menuClients" class="qm-is qm-ia" src="/Images/clients.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/clients/overview">Overview</a><a href="/clients/client_list/">Client List</a><a href="/clients/case_studies/">Case Studies</a><a href="/clients/videos/">Client Videos</a><a href="/clients/testimonials/">Testimonials</a></div><a href="/resources/overview" style="padding: 0px;" class="qmparent">
-                        <img id="menuResources" class="qm-is qm-ia" src="/Images/resources.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/resources/overview">Overview</a><a href="/resources/advent-videos">Video Blogs</a><a href="/resources/brochures">Brochures</a><a href="/resources/case-studies">Case Studies</a><a href="/resources/client-videos">Client Videos</a><a href="/resources/demos">Demos</a><a href="/resources/industry-reports">Industry Reports</a><a href="/resources/information-kits">Information Kits</a><a href="/resources/interactive-calculators">Interactive Calculators</a><a href="/resources/podcasts">Podcasts</a><a href="/resources/product-briefs">Product Briefs</a><a href="/resources/sample-reports">Sample Reports</a><a href="/resources/web-seminars">Web Seminars</a><a href="/resources/white-papers">White Papers</a></div><a href="https://secure.advent.com/contact/contact_us" style="padding: 0px;" class="qmparent">
+                        <img id="menuResources" class="qm-is qm-ia" src="/Images/resources.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/resources/overview">Overview</a><a href="/resources/brochures">Brochures</a><a href="/resources/case-studies">Case Studies</a><a href="/resources/client-videos">Client Videos</a><a href="/resources/demos">Demos</a><a href="/resources/industry-intelligence">Industry Intelligence</a><a href="/resources/industry-reports">Industry Reports</a><a href="/resources/information-kits">Information Kits</a><a href="/resources/interactive-calculators">Interactive Calculators</a><a href="/resources/podcasts">Podcasts</a><a href="/resources/product-briefs">Product Briefs</a><a href="/resources/web-seminars">Recorded Web Seminars</a><a href="/resources/sample-reports">Sample Reports</a><a href="/resources/trend-monitors/">Trend Monitors</a><a href="/resources/advent-videos">Video Blogs</a><a href="/resources/white-papers">White Papers</a></div><a href="https://secure.advent.com/contact/contact_us" style="padding: 0px;" class="qmparent">
                         <img class="qm-is qm-ih" src="/Images/contact-us.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/about/overview/offices/">Worldwide Offices</a><a href="https://secure.advent.com/contact/contact_us">Request More Info</a></div><span class="qmclear">&nbsp;</span></div>
                 <!-- Create Menu Settings: (Menu ID, Is Vertical, Show Timer, Hide Timer, On Click (options: 'all' * 'all-always-open' * 'main' * 'lev2'), Right to Left, Horizontal Subs, Flush Left, Flush Top) -->
 
@@ -422,11 +504,20 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <p>If you prefer not to receive email information from us in the future, you can request to be removed from our e-mail lists at any time by 'unsubscribing' in accordance with the instructions on our emails to you.</p>
 <p><strong>Collection of Personal Information in Forms:</strong> Certain pages of Advent Software, Inc.'s corporate website contain forms that allow you to request information about our services and solutions. In completing a form, you may be required to provide contact information, such as your name, phone number and email address. Please note that any information you submit implies consent for use of the information, and Advent Software, Inc. may use the information from these forms to respond to your request and send you the information you need.</p>
 <p><strong>Terms of Use:</strong> Click <a href="/about/terms_of_use">here</a> for Advent Software, Inc.'s Terms of Use regarding the <a href="http://www.advent.com/">http://www.advent.com/</a> website.</p>
-<p><strong>Internet users:</strong> Advent records and stores information provided by users when browsing our website. Advent Software, Inc. uses cookie technology to assist in making decisions about changes to our website on an ongoing basis. Cookies help us determine, without collecting personal information, which information on our websites appeals to our consumers by tracking which of our Web pages are visited and what features are most often used. You may refuse cookies by turning off that feature on your Web browser, but we do not recommend doing so.</p>
+<p><strong>Internet users:</strong> Advent records and stores information provided by users when browsing our website. Advent Software, Inc. uses cookie technology to assist in making decisions about changes to our website on an ongoing basis. Cookies help us determine, without collecting personal information, which information on our websites appeals to our consumers by tracking which of our Web pages are visited and what features are most often used. You may refuse cookies by turning off that feature on your Web browser, but we do not recommend doing so.&nbsp;&nbsp;Advent also uses technology, such as web beacons, to track the navigation paths used by visitors to our website and transmits that information to third-party service providers who assist Advent in improving the relevance of the information that we display to our visitors when they seek additional detail about a product or service.&nbsp; This technology does not collect non-public personal information.&nbsp; You are under no obligation to have your browsing paths tracked and may opt out by using a different method to obtain the information you are looking for: contacting your sales representative, relationship manager, or our direct response group.</p>
 <p><strong>Links:</strong> Advent Software, Inc.'s Web site may contain "links" to other Web sites. We recommend that you check the specific privacy policy of any site before providing any personal information.</p>
-<p><strong>Changes to this Privacy Policy:</strong> Any changes to Advent Software, Inc.'s website privacy policy will be posted in this section.<br><br><strong>Adherence to Safe Harbor (data transfers from the European Union and Switzerland to the United States of America)<br></strong>Advent Software confirms that it adheres to the Safe Harbor privacy framework when handling personal information that is transferred from member states of the European Union to locations in the United States of America. The European Commission and the US Department of Commerce have agreed to a data protection framework called the “Safe Harbor” that consists of a set of privacy principle documents and related FAQs. These documents describe how organizations that receive personal data from the European Union should provide information about purpose of collection (Notice), participation (Choice), Onward Transfer, Security, Data Integrity, Access, and Enforcement. A discussion of these data handling issues can be found at the Commerce Department’s Safe Harbor website <a href="http://export.gov/safeharbor/eg_main_018236.asp"><strong>http://export.gov/safeharbor/eg_main_018236.asp</strong></a> and a comprehensive Safe Harbor document set is currently at <a href="http://export.gov/safeharbor/eg_main_018237.asp"><strong>http://export.gov/safeharbor/eg_main_018237.asp</strong></a>.&nbsp;&nbsp; Advent’s adherence to the Safe Harbor principles also extends to the handling of personal information that is received from Switzerland.&nbsp; A description of the Swiss program can be found at <a href="http://export.gov/safeharbor/swiss/index.asp"><strong>http://export.gov/safeharbor/swiss/index.asp</strong></a> and a comprehensive document set at <a href="http://export.gov/safeharbor/swiss/eg_main_018532.asp"><strong>http://export.gov/safeharbor/swiss/eg_main_018532.asp</strong></a>.<br><br>Communications relating to Advent Software’s Safe Harbor data privacy program can be sent to the company’s Safe Harbor compliance administrator or to the company’s legal department:</p>
-<ul>
-<li>Safe Harbor compliance administrator:&nbsp; Richard Pugh&nbsp; (415) 645-1025&nbsp;<a href="mailto:rpugh@advent.com">rpugh@advent.com</a>&nbsp;<br>Advent Software legal department:&nbsp;<a href="mailto:legal@advent.com">legal@advent.com</a><br></li></ul></span>
+<p><strong>Changes to this Website Privacy Policy:</strong> Any changes to Advent Software, Inc.'s website privacy policy will be posted in this section.<br><br><strong>Adherence to Safe Harbor (data transfers from the European Union and Switzerland to the United States of America)</strong><br>Advent Software confirms that it adheres to the Safe Harbor privacy framework when handling personal information that is transferred from member states of the European Union to locations in the United States of America.<br><br>The European Commission and the US Department of Commerce have agreed to a data protection framework called the “Safe Harbor” that consists of a set of privacy principle documents and related FAQs. These documents describe how organizations that receive personal data from the European Union should provide information about purpose of collection (Notice), participation (Choice), Onward Transfer, Security, Data Integrity, Access, and Enforcement. A discussion of these data handling issues can be found at the Commerce Department’s Safe Harbor website <a href="http://export.gov/safeharbor/eg_main_018236.asp">http://export.gov/safeharbor/eg_main_018236.asp</a> and a comprehensive Safe Harbor document set is currently at <a href="http://export.gov/safeharbor/eg_main_018237.asp">http://export.gov/safeharbor/eg_main_018237.asp</a>.&nbsp;&nbsp; Advent’s adherence to the Safe Harbor principles also extends to the handling of personal information that is received from Switzerland.&nbsp;A description of the Swiss program can be found at <a href="http://export.gov/safeharbor/swiss/index.asp">http://export.gov/safeharbor/swiss/index.asp</a> and a comprehensive document set at <a href="http://export.gov/safeharbor/swiss/eg_main_018532.asp">http://export.gov/safeharbor/swiss/eg_main_018532.asp</a>.<br><br>Communications relating to Advent Software’s Safe Harbor data privacy program can be sent to the company’s Safe Harbor compliance administrator or to the company’s legal department.<br><br><strong>Corporate Privacy Policy:</strong> Copies of Advent’s corporate Privacy Policy are available upon request:&nbsp; please contact the Safe Harbor compliance administrator.<br><br><strong>Contacts:</strong>&nbsp; Safe Harbor compliance administrator:&nbsp; Richard Pugh&nbsp; (415) 645-1025 <a href="mailto:rpugh@advent.com">rpugh@advent.com</a> <br>Advent Software legal department: <a href="mailto:legal@advent.com">legal@advent.com</a><br></p></span>
+    
+<table class="wrapper" border="0" cellspacing="0" cellpadding="0"> 
+    <tbody><tr>
+        <td style="width:360px;" valign="top">
+            
+        </td>
+        <td style="width:360px;" valign="top">
+            
+        </td>
+    </tr>
+</tbody></table>
 
                                     
                                     
@@ -447,89 +538,6 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <td class="contentCellPromo">
                         
                         
-<map name="LivePerson" id="LivePerson">
-    <!--<area shape="rect" coords="0,39,170,38" />-->
-    <area shape="rect" coords="0,0,170,87" href="http://server.iad.liveperson.net/hc/12261377/?cmd=file&amp;file=visitorWantsToChat&amp;site=12261377&amp;byhref=1&amp;imageUrl=http://www.advent.com/Images" target="chat12261377" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/12261377/?cmd=file&amp;file=visitorWantsToChat&amp;site=12261377&amp;imageUrl=http://www.advent.com/Images&amp;referrer='+escape(document.location),'chat12261377','width=472,height=320');return false;" title="Chat Now" alt="Chat Now">
-    <!--<area shape="rect" coords="0,89,170,140"
-	    href="http://server.iad.liveperson.net/hc/12261377/?cmd=file&file=visitorWantsToTalk&site=12261377&byhref=1&imageUrl=http://www.advent.com/Images" target='chat12261377' onclick="javascript:window.open('http://server.iad.liveperson.net/hc/12261377/?cmd=file&file=visitorWantsToTalk&site=12261377&imageUrl=http://www.advent.com/Images&referrer='+escape(document.location),'chat12261377','width=472,height=320');return false;"
-	    title="Call Now" alt="Call Now"/>-->
-</map>
-<map name="multiLinkPromo1" id="multiLinkPromo1">
-    <!--coords - left,top,right,bottom -->
-    <area shape="rect" coords="15,70,167,88" href="http://www.advent.com/clients/case_studies" title="Case Studies" alt="Case Studies">
-    <area shape="rect" coords="15,88,167,106" href="http://www.advent.com/clients/videos" title="Client Videos" alt="Client Videos">
-    <area shape="rect" coords="15,106,167,124" href="http://www.advent.com/about/resources/demos" title="Demos" alt="Demos">
-    <area shape="rect" coords="15,124,167,142" href="http://www.advent.com/about/resources/industry_reports" title="Industry Reports" alt="Industry Reports">
-    <area shape="rect" coords="15,142,167,160" href="http://www.advent.com/about/resources/info_kits" title="Information Kits" alt="Information Kits">
-    <area shape="rect" coords="15,160,167,178" href="http://www.advent.com/about/resources/product_briefs" title="Product Briefs" alt="Product Briefs">
-    <area shape="rect" coords="15,178,167,196" href="http://www.advent.com/about/resources/white_papers" title="White Papers" alt="White Papers">
-</map>
-<!--Map 1-->
-<map name="3OffersPromoMoxy" id="3OffersPromoMoxy">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/info/livedemo_moxy" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_moxy" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
-<!--Map 2-->
-<map name="3OffersPromoSTP" id="3OffersPromoSTP">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/Contact/stp" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_stp" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
-<!--Map 3-->
-<map name="3OffersPromoABOS" id="3OffersPromoABOS">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/info/livedemo_abos" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_abos" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
-<!--Map 4-->
-<map name="3OffersPromoMoxyApx" id="3OffersPromoAPX">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/info/livedemo_apx" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_apx" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
-<!--Map 5-->
-<map name="3OffersPromoGeneva" id="3OffersPromoGeneva">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/info/geneva_livedemo" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_geneva" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
-<!--Map 6-->
-<map name="3OffersPromoAxys" id="3OffersPromoAxys">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/info/livedemo_axys" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_axys" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
-<!--Map 7-->
-<map name="3OffersPromoPartner" id="3OffersPromoPartner">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/info/livedemo_partner" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_partner" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
-<!--Map 8-->
-<map name="3OffersPromoRevCenter" id="3OffersPromoRevCenter">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/info/revcenter_livedemo" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_revcenter" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
-<!--Map 9-->
-<map name="3OffersPromoRulesMgr" id="3OffersPromoRulesMgr">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/info/livedemo_rulesmgr" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_rulesmgr" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
-<!--Map 10-->
-<map name="3OffersPromoSolutionsGen" id="3OffersPromoSolutionsGen">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/info/livedemo_am" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_request" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
-<!--Map 11-->
-<map name="3OffersPromoTamale" id="3OffersPromoTamale">
-    <area shape="rect" coords="0,30,182,85" href="https://secure.advent.com/info/livedemo_rms" title="Live Demo" alt="Live Demo">
-    <area shape="rect" coords="0,85,182,140" href="https://secure.advent.com/info/client_reference" title="Customer Reference" alt="Customer Reference">
-    <area shape="rect" coords="0,140,182,195" href="https://secure.advent.com/info/competitivecomp_rms" title="Competitive Comparison" alt="Competitive Comparison">
-</map>
 
 
 
@@ -548,19 +556,17 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         terms of use</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/website_policy">
                             privacy policy</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/trademark_notice ">
                                 trademarks</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/site_map">
-                                    site map</a></span>
-                    <span style="text-align: right; margin-left: 150px;">
-                <span><a href="http://www.facebook.com/pages/San-Francisco-CA/Advent-Software/251414225401">
-                    <img src="../Images/facebook_icon.gif" id="ctl00_Img2"></a></span>
-                <span><a href="http://www.twitter.com/adventsoftware">
-                    <img src="../Images/twitter_icon.gif" id="ctl00_Img3"></a></span>
-                <span><a href="http://www.linkedin.com/companies/advent-software">
-                    <img src="../Images/linkedin_icon.gif" id="ctl00_Img4"></a></span>
-            </span>
+                                    site map</a></span> <span style="text-align: right; margin-left: 150px;"><span><a href="http://www.facebook.com/pages/San-Francisco-CA/Advent-Software/251414225401">
+                                        <img src="../Images/facebook_icon.gif" id="ctl00_Img2"></a></span> <span>
+                                            <a href="http://www.twitter.com/adventsoftware">
+                                                <img src="../Images/twitter_icon.gif" id="ctl00_Img3"></a></span>
+                                        <span><a href="http://www.linkedin.com/groups?gid=2618490">
+                                            <img src="../Images/linkedin_icon.gif" id="ctl00_Img4"></a></span>
+                                    </span>
         </div>
         <div class="footerAddressLine">
-            ©2009 Advent Software, Inc.&nbsp;&nbsp;600 Townsend Street&nbsp;&nbsp;San Francisco,
-            CA 94103&nbsp;&nbsp;US: (800)685-7688&nbsp;&nbsp;London: +44(0)20 7631 9240</div>
+            ©2010 Advent Software, Inc.&nbsp;&nbsp;600 Townsend Street&nbsp;&nbsp;San Francisco,
+            CA 94103&nbsp;&nbsp;US: +1 800 727 0605&nbsp;&nbsp;London: +44 20 7631 9240</div>
     </div>
     
 
@@ -571,10 +577,12 @@ Sys.Application.initialize();
 </script>
 </form>
     <!--Google Analytics Script -->
+
     <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
     <script type="text/javascript">
         try {
             var pageTracker = _gat._getTracker("UA-8228967-1");
@@ -584,20 +592,15 @@ Sys.Application.initialize();
     </script>
 
     <!--LeadLander Script-->
-    <script type="text/javascript" language="javascript">llactid = 11153</script>
+
+    <script type="text/javascript" language="javascript">        llactid = 11153</script>
+
     <script type="text/javascript" language="javascript" src="http://t4.trackalyzer.com/trackalyze.js"></script>
 
     <!--Genius Script -->
-    <script type="text/javascript" language="javascript">if (self == top) { document.write("<scr" + "ipt type='text/javascript' language='JavaScript' id='GeniusCode' src='" + location.protocol + '//ffgje.rsvpgenius.com/mgTrack1.js?mgcid=bc6fepO' + "'><\/scr" + "ipt>"); }</script><script type="text/javascript" language="JavaScript" id="GeniusCode" src="https://ffgje.rsvpgenius.com/mgTrack1.js?mgcid=bc6fepO"></script>
 
-    <!-- Start of HubSpot Logging Code  -->
-    <script type="text/javascript" language="javascript">
-        var hs_portalid = 55821;
-        var hs_salog_version = "2.00";
-        var hs_ppa = "advent.app5.hubspot.com"
-        document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://advent.app5.hubspot.com/salog.js.aspx" type="text/javascript"></script>
-    <!-- End of HubSpot Logging Code -->
+    <script type="text/javascript" language="javascript">        if (self == top) { document.write("<scr" + "ipt type='text/javascript' language='JavaScript' id='GeniusCode' src='" + location.protocol + '//ffgje.rsvpgenius.com/mgTrack1.js?mgcid=bc6fepO' + "'><\/scr" + "ipt>"); }</script><script type="text/javascript" language="JavaScript" id="GeniusCode" src="https://ffgje.rsvpgenius.com/mgTrack1.js?mgcid=bc6fepO"></script>
+
 
 
 </body></html>
