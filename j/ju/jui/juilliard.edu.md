@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527111202id_/http%3A//www.juilliard.edu/utilities/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813233814id_/http%3A//www.juilliard.edu/utilities/privacy.html) for the most accurate reproduction.*
 
 # The Juilliard School - Juilliard School Web Site Privacy Statement
 
@@ -6,7 +6,7 @@ Juilliard School Web Site Privacy Statement
 
 Thank you for visiting The Juilliard School Web site. We have a firm commitment to your privacy. The policies outlined herein pertain to the Juilliard Web site (www.juilliard.edu) and the Juilliard Alumni Online Community.
 
-Please note: Juilliard's online application form is hosted by the Princeton Review and is governed by that organization's own privacy policies, which may be read online at [www.princetonreview.com/privacy.aspx](http://www.princetonreview.com/privacy.aspx).
+Please note: Juilliard's online application form is hosted by the Embark Corp. and is governed by that organization's own privacy policies, which may be read online at [www.embark.com/Pages/PrivacyPolicy.aspx](http://www.embark.com/Pages/PrivacyPolicy.aspx).
 
 The Juilliard School has taken considerable precautions to ensure security for our online visitors. However, since data transmission over the Internet cannot be guaranteed to be 100 percent secure, we cannot ensure the absolute security of the information that you transmit or provide to us.
 
