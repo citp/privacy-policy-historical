@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the mophie.com privacy policy that was archived on 2010-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611205343id_/http%3A//www.mophie.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mophie.com privacy policy that was archived on 2010-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100813024700id_/http%3A//www.mophie.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Description" content=" ">
-<meta name="Keywords" content=" ">
-<title>mophie - iPhone Battery, iPod Cases, iPhone accessories and more!</title>
+<meta name="Keywords" content=" iphone, battery, case, batterycase, charger, mophie, mophy, mophi, phone, smartphone, ipod, cases, batteries">
+<title>Terms: Privacy</title>
 <meta name="robots" content="index,follow">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
 <script type="text/javascript" src="/a/j/javascripts.js"></script>
 
 
+<meta name="google-site-verification" content="jpyf3yq2tTYL39rJBsCIeyoVLngGz9m9rbl_sILaxKw">
 <!-- 
 DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
 DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
@@ -103,7 +105,9 @@ if (location.pathname == "/" || location.pathname == "default.asp") {
                 <li id="navBar-products">
                     <a href="/"><img src="/v/vspfiles/templates/mophie/images/layout/trans.gif" width="90" height="35" alt="" border="0"></a>
                     <ul>
-                    <li><a href="/SearchResults.asp?Cat=1">iPhone 3G &amp; 3GS</a></li>
+                    <li><a href="/SearchResults.asp?Cat=46">iPad</a></li>
+                        <li><a href="/SearchResults.asp?Cat=47">iPhone 4</a></li>
+                        <li><a href="/SearchResults.asp?Cat=1">iPhone 3G &amp; 3GS</a></li>
                         <li><a href="/SearchResults.asp?Cat=2">iPhone</a></li>
                         <li><a href="/SearchResults.asp?Cat=3">iPod touch 2G</a></li>
                         <li><a href="/SearchResults.asp?Cat=4">iPod touch</a></li>
@@ -126,9 +130,12 @@ if (location.pathname == "/" || location.pathname == "default.asp") {
                 	<img src="/v/vspfiles/templates/mophie/images/layout/trans.gif" width="34" height="35" alt="" border="0">
                 </li>
                 <li id="navBar-twitter">
-                    <a href="http://www.twitter.com/mophielovesyou" target="_blank"><img src="/v/vspfiles/templates/mophie/images/layout/trans.gif" width="66" height="35" alt="" border="0"></a>
-                </li>
-            	<li>
+                    <a href="#"><img src="/v/vspfiles/templates/mophie/images/layout/trans.gif" width="110" height="35" alt="" border="0"></a>
+                    <ul>
+                        <li><a href="http://twitter.com/mophielovesyou">twitter</a></li>
+                        <li><a href="http://facebook.com/mophielovesyou">facebook</a></li>
+                    </ul>
+            	</li><li>
                 	<img src="/v/vspfiles/templates/mophie/images/layout/trans.gif" width="34" height="35" alt="" border="0">
                 </li>
                 <li id="navBar-downloads">
@@ -181,32 +188,36 @@ if (location.pathname == "/" || location.pathname == "default.asp") {
             </div>
             <div style="clear: both;"></div>
         </div>
-    	<div id="headerBar">
-            <div id="header-banner">
-            	<a href="http://get.adobe.com/flashplayer/" target="_blank"><img src="/v/flash-header.jpg" width="883" height="378" alt="" border="0"></a>
-          <!-- end #header-banner --></div>
-            <script type="text/javascript">
-            //<![CDATA[
-					   
-				var so = new FlashObject("/v/flash-header.swf", "flash-header-banner", "883", "378", "6", "#FFFFFF");
-				
+    	<script type="text/javascript">
+            //<![CDATA[   
+				// check to see if this is the home page
 				if (location.pathname == "/" || location.pathname == "default.asp" || location.pathname == "Default.asp?Redirected=Y") {
-					
-					so.addVariable("showRandom", "false");
-					
-				} else {
-					
-					so.addVariable("showRandom", "true");
-					
-				}
 				
+				// write out the non-flash header banner and close the div
+				document.writeln("\n<div id=\"headerBar\">\n<div id=\"header-banner\">\n<a href=\"http://get.adobe.com/flashplayer/\" target=\"_blank\"><img src=\"/v/flash-header.jpg\" width=\"883\" height=\"378\" alt=\"mophie juice pack reserve and boost - ipohone and iPod\" border=\"0\" /></a>\n</div>\n");	
+				
+				// write out the home flash banner
+				var so = new FlashObject("/v/flash-header.swf", "flash-header-banner", "883", "378", "6", "#FFFFFF");
+				so.addVariable("showRandom", "false");
 				so.addParam("menu", "false");
 				so.addParam("wmode", "opaque");
 				so.write("header-banner");
+				
+				// close the div
+				document.writeln("</div>");	
+				
+				}
+				else {
+					
+					document.writeln("\n<img src=\"http://www.killersites.com/killerSites/resources/dot_clear.gif\" width=\"883\" height=\"1\" alt=\"\" border=\"0\" />\n");
+					
+				}
     
             //]]>
             </script>
-        </div>
+<img src="http://www.killersites.com/killerSites/resources/dot_clear.gif" width="883" height="1" alt="" border="0">
+
+
     	<script type="text/javascript">
 			//<![CDATA[
 			if (location.pathname == "/SearchResults.asp" || location.pathname == "/searchresults.asp" || location.pathname.indexOf("-s/") != -1 || location.pathname.indexOf("_s/") != -1) {
@@ -282,6 +293,8 @@ if (location.pathname == "/" || location.pathname == "default.asp") {
                 </ul>
                 <div id="title">products</div>
                 <ul>
+                    <li><a href="/SearchResults.asp?Cat=46">iPad</a></li>
+                    <li><a href="/SearchResults.asp?Cat=47">iPhone 4</a></li>
                     <li><a href="/SearchResults.asp?Cat=1">iPhone 3G &amp; 3GS</a></li>
                     <li><a href="/SearchResults.asp?Cat=2">iPhone</a></li>
                     <li><a href="/SearchResults.asp?Cat=3">iPod touch 2G</a></li>
@@ -362,28 +375,52 @@ if (location.pathname == "/" || location.pathname == "default.asp") {
         </div>
     </div>
 </div>
-<script type="text/javascript">
-
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-
-	try {
-		
-		var pageTracker = _gat._getTracker("UA-4189850-1");
-		pageTracker._trackPageview();
-		
-	}
-	
-	catch(err) {}
+<script type="text/javascript" language="Javascript1.2">
+var gaJsHost = (("https:" == document.location.protocol) ?
+ " https://ssl." : "http://www.");
+ document.write("<" + "script type='text/javascript' src='" +
+ gaJsHost + "google-analytics.com/ga.js'><" + "/script>");
+</script><script type="text/javascript" src=" https://ssl.google-analytics.com/ga.js"></script> 
+<script type="text/javascript" language="Javascript" name="Google Analytics">
+function v_ga_track(ga_account, trackDomainName, theDomainName) {
+ var domainNameTracking = trackDomainName ? true : false; 
+ var gapageTracker = _gat._getTracker(ga_account); 
+ gapageTracker._initData();
+ 
+ if (domainNameTracking) {
+  if (!theDomainName) {
+   theDomainName = 
+    "http://www.mophie.com/".replace("https:","").replace("http:","");    
+   theDomainName = 
+    theDomainName.substring(2,theDomainName.length - 1); 
+   } 
+   gapageTracker._setDomainName(theDomainName); 
+   } 
+  gapageTracker._trackPageview(); 
+  try {
+   if( typeof Order != 'undefined' ) 
+    { 
+    gapageTracker._addTrans(Order[0], "", Order[2], Order[4], Order[5], 
+      Order[6], Order[7], Order[8]);
+    for (var i=0; i < OrderDetails.length; i++) 
+     gapageTracker._addItem(OrderDetails[i][0], OrderDetails[i][2], 
+      OrderDetails[i][3], OrderDetails[i][4], OrderDetails[i][5], 
+      OrderDetails[i][6]); 
+     gapageTracker._trackTrans(); 
+     } 
+    } 
+   catch(e) {} 
+  } 
+v_ga_track("UA-4189850-1"); 
 </script>
+
+
 
 
 <script type="text/javascript">function store_init(event){protect_images1();} AttachEvent(window, 'load', store_init);</script>
 
 <script language="JavaScript" type="text/javascript">
+	function_protect_images2_msg = 'Sorry, our images are copyrighted.'
 	protect_images1();
 </script>
 
