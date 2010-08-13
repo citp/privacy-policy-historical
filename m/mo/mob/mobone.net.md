@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobone.net privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614060341id_/http%3A//www.mobone.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobone.net privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813233958id_/http%3A//www.mobone.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - mobone.net
+# Privacy Policy - www.mobone.net
 
-Privacy Policy for mobone.net 
+Privacy Policy for www.mobone.net 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@biddingwebdirectory.org. 
 
