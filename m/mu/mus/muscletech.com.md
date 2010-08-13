@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the muscletech.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516040937id_/http%3A//www.muscletech.com/global/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscletech.com privacy policy that was archived on 2010-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100814004004id_/http%3A//www.muscletech.com/global/privacy.shtml) for the most accurate reproduction.*
 
 # MuscleTech - Privacy Statement
 
 ## Introduction
 
-Iovate Health Sciences Inc. ("Iovate") respects and understands consumers' concerns about the privacy of their personal information. Iovate is a leading company that understands the need to treat consumers' information in a responsible manner. This Privacy Statement explains Iovate's commitment not only to your privacy, but to you as a valued customer. To that end, we have created this Privacy Statement to explain the types of personal and non-personal information we collect through the website MuscleTech.com. We will discuss how we use this information and to whom and under what circumstances we disclose such information.
+Iovate respects and understands consumers' concerns about the privacy of their personal information. Iovate is a leading company that understands the need to treat consumers' information in a responsible manner. This Privacy Statement explains Iovate's commitment not only to your privacy, but to you as a valued customer. To that end, we have created this Privacy Statement to explain the types of personal and non-personal information we collect through the website MuscleTech.com. We will discuss how we use this information and to whom and under what circumstances we disclose such information.
 
 By using this Site, you agree, without limitation, to the practices described in this Privacy Statement and the Site's Terms of Use. If you do not agree to the terms of this Privacy Statement or our Site's Terms of Use, please do not visit our Site.
 
@@ -56,4 +56,4 @@ We maintain physical, electronic, and procedural safeguards to protect the perso
 
 ## Contact Us
 
-If you have any questions about this Privacy Statement or the practices or activities associated with our Site, or if you'd like to have access to or correct your personal information in our database(s) or remove yourself from our database(s), please contact us at 1-800-246-3261.
+If you have any questions about this Privacy Statement or the practices or activities associated with our Site, or if you'd like to have access to or correct your personal information in our database(s) or remove yourself from our database(s), please contact us at 381 North Service Road West, Oakville, ON L6M 0H4, Canada. 
