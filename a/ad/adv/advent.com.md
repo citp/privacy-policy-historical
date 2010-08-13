@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the advent.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202090057id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advent.com privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813093136id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.*
 
 # Email Publication and Website Privacy Policy
-
-Print This Page
-
-Email This Page
-
-Bookmark This Page
-
-Provide Feedback
-
-|  | 
 
 **This Email Publication and Website Privacy Policy applies exclusively to:** (i) Advent Software, Inc.'s website located at <http://www.advent.com/>; and (ii) Advent Software, Inc.'s email publications. Advent Software, Inc. adheres to the highest standards of ethical practices in all of its operations and is dedicated to protecting the privacy of all visitors to our website and those participants in our email marketing campaigns in accordance with the following terms and conditions.
 
@@ -26,22 +16,20 @@ If you prefer not to receive email information from us in the future, you can re
 
 **Terms of Use:** Click [here](https://web.archive.org/about/terms_of_use) for Advent Software, Inc.'s Terms of Use regarding the <http://www.advent.com/> website.
 
-**Internet users:** Advent records and stores information provided by users when browsing our website. Advent Software, Inc. uses cookie technology to assist in making decisions about changes to our website on an ongoing basis. Cookies help us determine, without collecting personal information, which information on our websites appeals to our consumers by tracking which of our Web pages are visited and what features are most often used. You may refuse cookies by turning off that feature on your Web browser, but we do not recommend doing so.
+**Internet users:** Advent records and stores information provided by users when browsing our website. Advent Software, Inc. uses cookie technology to assist in making decisions about changes to our website on an ongoing basis. Cookies help us determine, without collecting personal information, which information on our websites appeals to our consumers by tracking which of our Web pages are visited and what features are most often used. You may refuse cookies by turning off that feature on your Web browser, but we do not recommend doing so.  Advent also uses technology, such as web beacons, to track the navigation paths used by visitors to our website and transmits that information to third-party service providers who assist Advent in improving the relevance of the information that we display to our visitors when they seek additional detail about a product or service.  This technology does not collect non-public personal information.  You are under no obligation to have your browsing paths tracked and may opt out by using a different method to obtain the information you are looking for: contacting your sales representative, relationship manager, or our direct response group.
 
 **Links:** Advent Software, Inc.'s Web site may contain "links" to other Web sites. We recommend that you check the specific privacy policy of any site before providing any personal information.
 
-**Changes to this Privacy Policy:** Any changes to Advent Software, Inc.'s website privacy policy will be posted in this section.
+**Changes to this Website Privacy Policy:** Any changes to Advent Software, Inc.'s website privacy policy will be posted in this section.
 
- **Adherence to Safe Harbor (data transfers from the European Union and Switzerland to the United States of America)  
-** Advent Software confirms that it adheres to the Safe Harbor privacy framework when handling personal information that is transferred from member states of the European Union to locations in the United States of America. The European Commission and the US Department of Commerce have agreed to a data protection framework called the “Safe Harbor” that consists of a set of privacy principle documents and related FAQs. These documents describe how organizations that receive personal data from the European Union should provide information about purpose of collection (Notice), participation (Choice), Onward Transfer, Security, Data Integrity, Access, and Enforcement. A discussion of these data handling issues can be found at the Commerce Department’s Safe Harbor website [**http://export.gov/safeharbor/eg_main_018236.asp**](http://export.gov/safeharbor/eg_main_018236.asp) and a comprehensive Safe Harbor document set is currently at [**http://export.gov/safeharbor/eg_main_018237.asp**](http://export.gov/safeharbor/eg_main_018237.asp).   Advent’s adherence to the Safe Harbor principles also extends to the handling of personal information that is received from Switzerland.  A description of the Swiss program can be found at [**http://export.gov/safeharbor/swiss/index.asp**](http://export.gov/safeharbor/swiss/index.asp) and a comprehensive document set at [**http://export.gov/safeharbor/swiss/eg_main_018532.asp**](http://export.gov/safeharbor/swiss/eg_main_018532.asp).
+ **Adherence to Safe Harbor (data transfers from the European Union and Switzerland to the United States of America)**  
+Advent Software confirms that it adheres to the Safe Harbor privacy framework when handling personal information that is transferred from member states of the European Union to locations in the United States of America.
 
-Communications relating to Advent Software’s Safe Harbor data privacy program can be sent to the company’s Safe Harbor compliance administrator or to the company’s legal department:
+The European Commission and the US Department of Commerce have agreed to a data protection framework called the “Safe Harbor” that consists of a set of privacy principle documents and related FAQs. These documents describe how organizations that receive personal data from the European Union should provide information about purpose of collection (Notice), participation (Choice), Onward Transfer, Security, Data Integrity, Access, and Enforcement. A discussion of these data handling issues can be found at the Commerce Department’s Safe Harbor website <http://export.gov/safeharbor/eg_main_018236.asp> and a comprehensive Safe Harbor document set is currently at <http://export.gov/safeharbor/eg_main_018237.asp>.   Advent’s adherence to the Safe Harbor principles also extends to the handling of personal information that is received from Switzerland. A description of the Swiss program can be found at <http://export.gov/safeharbor/swiss/index.asp> and a comprehensive document set at <http://export.gov/safeharbor/swiss/eg_main_018532.asp>.
 
-  * Safe Harbor compliance administrator:  Richard Pugh  (415) 645-1025 [rpugh@advent.com](mailto:rpugh@advent.com)   
-Advent Software legal department: [legal@advent.com](mailto:legal@advent.com)  
+Communications relating to Advent Software’s Safe Harbor data privacy program can be sent to the company’s Safe Harbor compliance administrator or to the company’s legal department.
 
+ **Corporate Privacy Policy:** Copies of Advent’s corporate Privacy Policy are available upon request:  please contact the Safe Harbor compliance administrator.
 
-
-
-|  |   
----|---|---|---|---
+ **Contacts:**   Safe Harbor compliance administrator:  Richard Pugh  (415) 645-1025 [rpugh@advent.com](mailto:rpugh@advent.com)   
+Advent Software legal department: [legal@advent.com](mailto:legal@advent.com)
