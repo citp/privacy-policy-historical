@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poken.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609042326id_/http%3A//www.poken.com/web/guest/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poken.com privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813133204id_/http%3A//www.poken.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Poken
 
-### Updated: March 23, 2009
+### Updated: July 2, 2010
 
 ### Poken's Commitment to You
 
@@ -56,7 +56,7 @@ Any information provided to third parties through such cookies will not be perso
 
 ### You Control with Whom You Share Your Information
 
-Your Poken Identity information will only be shared with people with whom you have specifically agreed to share such information. You specify who can view certain personal information, such as email addresses and phone numbers in the « Manage Identities » and « Manage Modes » sections of your Poken acount, and of course, when you choose to poken with someone.
+Your Poken Identity information will only be shared with people with whom you have specifically agreed to share such information. You specify who can view certain personal information, such as email addresses and phone numbers in the « Cards » and « Devices » sections of your Poken acount, and of course, when you choose to poken with someone.
 
 ### Managing Your Poken Identity(ies)
 
@@ -64,13 +64,17 @@ You can view, delete, and modify your Poken Identity(ies) and view and delete yo
 
 ### Security
 
-The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people. Poken gives you the option of logging in automatically when you insert your poken’s USB connector into a computer’s USB port. Should you select this option, you should be aware that any person inserting your poken into their USB port will gain access to your account. We offer this option for your convenience if you use poken in a safe environment, but strongly encourage you secure your poken account with a password, and siable auto-login, if there is any chance that a third party may get their hands on your poken or use it without your approval.
+The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people.
 
 Poken uses industry standard technology designed to help keep your personal information safe. Please bear in mind though, that it is impossible for Poken to guarantee that impenetrable security measures are in place. For example, we cannot control any illegal and/or unforeseen activity of other users that may allow them to get around the privacy or security settings on the Poken website. Consequently, you acknowledge that there are circumstances in which your personal information may be accessed by unauthorised persons.
 
 We limit access to your personal information only to employees who we believe need to come into contact with that information in order to do their jobs in connection with the Poken service.
 
 If you become aware of any breach of data security or have any other questions about the security of our website, please contact us via the Contact Us page.
+
+### Co-Branding
+
+Your Poken account may be co-branded with advertisers through whom you may have received a poken for free. Having been provided a poken by an advertiser, you will be asked to accept a separate Privacy Policy as proposed by our advertising partner.  The advertising partner's Privacy Policy will supersede this general Policy. If you do not wish to abide by the Privacy Policy of the advertising partner, then you should not use the poken they provided to you.
 
 ### Changes in Privacy Policy
 
@@ -82,10 +86,4 @@ Additionally, we may send registered users an email notifying you of the change.
 
 ### Canceling membership
 
-You always have the option to cancel your membership at any time. If you are a member and no longer wish to participate in Poken you can sign in to the site and click on the My Account at the top of the page; then select cancel membership and follow the simple instructions.
-
-### Co-Branding
-
-Your Poken account may be co-branded with advertisers through whom you may have received a poken for free. Having been provided a poken by an advertiser you, will be asked to accept a separate Privacy Policy as proposed by our advertising partner, which supersedes this general Policy. If you do not wish to abide by the Privacy Policy of the advertising partner, then you should not use the poken they provided to you.
-
-### Effective Date and Last Revision Date : September 17, 2008
+You always have the option to cancel your membership at any time. If you are a member and no longer wish to participate in Poken you can sign in to the site and click on the « Settings » at the top of the page; then select cancel membership and follow the simple instructions.
