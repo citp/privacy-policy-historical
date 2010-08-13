@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cafepress.co.uk privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630143358id_/http%3A//www.cafepress.co.uk/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.co.uk privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813155704id_/http%3A//www.cafepress.co.uk/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Customer Service : Privacy Policy
+
+[Audio Visual Emporium](https://web.archive.org/cp/store.aspx?s=AudioVisual.3688565) > **Customer Service**
 
 **Effective Date: September 1, 2009**
 
