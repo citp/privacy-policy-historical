@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jingproject.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514081429id_/http%3A//www.jingproject.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jingproject.com privacy policy that was archived on 2010-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100814152534id_/http%3A//www.jingproject.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use for Jing
 
