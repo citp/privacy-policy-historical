@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hanger94.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529154817id_/http%3A//www.hanger94.com/content-id-6.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hanger94.com privacy policy that was archived on 2010-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100814103400id_/http%3A//www.hanger94.com/content-id-6.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
