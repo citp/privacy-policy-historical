@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edsm.net privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505051004id_/http%3A//edsm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsm.net privacy policy that was archived on 2010-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100814172646id_/http%3A//edsm.net/privacy) for the most accurate reproduction.*
 
 # EDSM, The benchmark of business.
 
