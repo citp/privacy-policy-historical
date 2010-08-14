@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supply.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302142204id_/http%3A//supply.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supply.com privacy policy that was archived on 2010-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100814231140id_/http%3A//supply.com/privacy.htm) for the most accurate reproduction.*
 
 # Supply Technology_Privacy Statement
 
