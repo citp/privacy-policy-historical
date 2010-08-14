@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakeside.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611065623id_/http%3A//www.lakeside.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakeside.com privacy policy that was archived on 2010-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100814151351id_/http%3A//www.lakeside.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Lakeside Collection
 
@@ -49,6 +49,4 @@ In the event that lakeside.com amends its Privacy Policy in the future, these ch
 
 [turn it off](https://web.archive.org/privacy.asp?RY=N&)
 
-Browsing History is meant to help you keep track of some of the items you've recently viewed or searches you've recently made.
-
-If you do not enjoy this feature and want to turn it off, simply click "turn it off" above. Turning this feature off will turn it off for anyone who uses your Web browser.
+You have no recently viewed products or searches.
