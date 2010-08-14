@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digistore.co.nz privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602072335id_/http%3A//www.digistore.co.nz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digistore.co.nz privacy policy that was archived on 2010-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100814173953id_/http%3A//www.digistore.co.nz/privacy.php) for the most accurate reproduction.*
 
 # Digistore's Privacy Policy | Digistore, New Zealand
 
-[](https://web.archive.org/web/20100602072335id_/http%3A//www.digistore.co.nz/download.php)
+[](https://web.archive.org/web/20100814173953id_/http%3A//www.digistore.co.nz/download.php)
 
 This notice applies to all information collected on the Digistore Web site or submitted to Digistore at any time through any Service Pages.
 
@@ -24,7 +24,7 @@ We use SSL (Secure Socket Layer) encryption through [Paypal](http://www.paypal.c
 
 Should you have other questions or concerns about this privacy policy, 
 
-please [contact us](https://web.archive.org/web/20100602072335id_/http%3A//www.digistore.co.nz/contact.php) through our form, or email us [info@digistore.co.nz](mailto:info@digistore.co.nz) or through: 
+please [contact us](https://web.archive.org/web/20100814173953id_/http%3A//www.digistore.co.nz/contact.php) through our form, or email us [info@digistore.co.nz](mailto:info@digistore.co.nz) or through: 
 
 **Digistore**
 
@@ -43,4 +43,4 @@ Make a donation to the Digistore project. Your support means we can continue to 
 ## Digistore Advertising
 
 Advertise with Digistore! Receive a link from any of our website pages to your website.  
-[Advertise with Digistore](https://web.archive.org/web/20100602072335id_/http%3A//www.digistore.co.nz/link-request.php)
+[Advertise with Digistore](https://web.archive.org/web/20100814173953id_/http%3A//www.digistore.co.nz/link-request.php)
