@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostcow.co.za privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611114123id_/http%3A//www.hostcow.co.za/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostcow.co.za privacy policy that was archived on 2010-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100814211733id_/http%3A//www.hostcow.co.za/privacy-policy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY? HostCow
 
