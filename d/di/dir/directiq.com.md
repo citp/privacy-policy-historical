@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directiq.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616085459id_/http%3A//www.directiq.com/us/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directiq.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815212729id_/http%3A//www.directiq.com/us/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Intelligent Email Marketing by DirectIQ
 
