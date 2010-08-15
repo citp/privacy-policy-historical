@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edrawsoft.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410195833id_/http%3A//www.edrawsoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edrawsoft.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815071117id_/http%3A//www.edrawsoft.com/privacy.php) for the most accurate reproduction.*
 
 # Edraw Privacy
 
-[Home](https://web.archive.org/web/20100410195833id_/http%3A//www.edrawsoft.com/index.php) > [Purchase](https://web.archive.org/web/20100410195833id_/http%3A//www.edrawsoft.com/order.php) > Privacy
+[Home](https://web.archive.org/web/20100815071117id_/http%3A//www.edrawsoft.com/index.php) > [Purchase](https://web.archive.org/web/20100815071117id_/http%3A//www.edrawsoft.com/order.php) > Privacy
 
-[](https://web.archive.org/web/20100410195833id_/http%3A//www.edrawsoft.com/products.php)
+[](https://web.archive.org/web/20100815071117id_/http%3A//www.edrawsoft.com/products.php)
 
 ### Privacy
 
