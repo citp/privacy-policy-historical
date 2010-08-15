@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcap.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628210807id_/http%3A//www.popcap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcap.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815120903id_/http%3A//www.popcap.com/privacy.php) for the most accurate reproduction.*
 
 # PopCap Games - PopCap Privacy Policy
 
