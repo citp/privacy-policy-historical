@@ -1,30 +1,25 @@
-> *The following text is extracted and transformed from the myfitnesspal.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206141552id_/http%3A//www.myfitnesspal.com/welcome/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfitnesspal.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815093336id_/http%3A//www.myfitnesspal.com/welcome/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyFitnessPal.com
+# Privacy Policy | MyFitnessPal.com
 
 **What's our policy?**  
 MyFitnessPal.com takes your privacy seriously. We are committed to ensuring that the personal information we gather from you is secure and confidential. We do not sell, rent or trade our customers' personal data. 
 
 **What type of information do we collect when you create a MyFitnessPal.com account?**  
-The information we collect in order to create your MyFitnessPal.com account includes data such as your name and email address. The email address may be used to contact you with matters regarding MyFitnessPal, such as a newsletter, or an announcement about a new product or service. We also collect some personal fitness information so that we can provide you with a personalized plan for successful weight loss. 
+The information we collect in order to create your MyFitnessPal.com account includes data such as your name and email address. The email address may be used to contact you with matters regarding MyFitnessPal, such as a newsletter, notifications of new messages from other MyFitnessPal members, or an announcement about a new product or service. We also collect some personal fitness information so that we can provide you with a personalized plan for successful weight loss. 
 
 **What about other data?**  
 By entering foods into your food diary or activities into your exercise log, you allow MyFitnessPal.com to provide you with a comprehensive analysis of your aggregate nutrition intake and fitness activity levels. It also allows us to plot for you charts of your weight, calorie intake and individual nutrient intake. ****
 
-This information is not shared with anyone EXCEPT, from time to time; MyFitnessPal may create statistics based on users' diary entries, for example to determine what meal patterns have been most effective at losing weight among certain types of people. Your individual information will NEVER be shared with anybody else unless you provide your explicit consent (for instance, agreeing to become a “FitnessPal” with another MyFitnessPal.com member to jointly lose weight and offer support to one another). As a condition to the consummation of a change in control or sale of substantially all the assets of MyFitnessPal to a third party, such third party shall agree to abide by the MyFitnessPal Privacy Statement. 
+This information is not shared with anyone EXCEPT, from time to time; MyFitnessPal may create statistics based on users' diary entries, for example to determine what meal patterns have been most effective at losing weight among certain types of people. Your individual information will NEVER be shared with anybody else unless you provide your explicit consent (for instance, agreeing to become a “Friend” with another MyFitnessPal.com member to jointly lose weight and offer support to one another). As a condition to the consummation of a change in control or sale of substantially all the assets of MyFitnessPal to a third party, such third party shall agree to abide by the MyFitnessPal Privacy Statement. 
 
 **What about MyFitnessPal.com's e-newsletter?**  
-Our MyFitnessPal.com e-newsletter allows us to update you on new products, special offers and more. We collect some basic information, such as your name, email address and interests so that we can better tailor our e-newsletters. We may use selected partners to send and process the emails containing the e-newsletter, but they do not own any of the data and may only use the data for the processing e-newsletter itself. You can unsubscribe from the e-newsletter at any time by following the instructions at the bottom of the email. 
-
-**How about special offers, surveys and promotions?**  
-We may occasionally offer special offers, promotions, contests, surveys and accessories. Any personal data you give us in connection with these is also kept secure and confidential. Selected outside firms may be used to help process certain offers, but those firms may only use personal data for the processing service itself. We may publish aggregate anonymous results for things like surveys, but we do not publish, sell, rent or trade any personally identifiable information. 
+Our MyFitnessPal.com e-newsletter allows us to update you on new products, special offers and more. You can unsubscribe from the e-newsletter at any time by following the instructions at the bottom of the email. 
 
 **Will MyFitnessPal.com share any of your personal information?**  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
+We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
 
-We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes and our agreements with such providers restrict the use of this information. 
-
-From time to time, we may partner with outside parties in order to provide specific products and services and, as mentioned above, to assist in processing our newsletter or in connection with the processing of special offers, contests, surveys and promotions. In these instances, we may share names, or other contact information that is necessary for the third party to provide these services. However, these selected firms and partners can only use your personal data for the processing purposes for which it is provided. MyFitnessPal.com will not trade, sell or rent your personal data. We also protect your privacy by limiting employee access to and use of customers' personal data. While we may provide statistics to outside companies about our customers, including sales and related site information, it will not include any personally identifiable information. 
+MyFitnessPal.com will not trade, sell or rent your personal data. We also protect your privacy by limiting employee access to and use of customers' personal data. While we may provide statistics to outside companies about our customers, including sales and related site information, it will not include any personally identifiable information. 
 
 Except for the transfers outlined above, we will only share your personal data with third parties if: 
 
@@ -44,6 +39,8 @@ Yes. We use log file analysis tools, IP addresses, and outside services to colle
 
 **Do we use "cookies"?**  
 Cookies are small bites of information that are sent to your browser from a web site's computers and stored by your browser on your computer's hard drive. In addition to helping us analyze our web traffic patterns, MyFitnessPal.com uses cookies to allow us to recognize you as a returning customer and to access your relevant information automatically. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. We do not place any personally identifiable information in your cookies. 
+
+We use third-party advertising companies such as Google to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) If you reject all cookies, you will have to re-login each time you wish to use our website and you may not be able to take full advantage of all offerings or services available. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
 
