@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610111046id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815025101id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.*
 
 # Fatwallet Privacy Policy Statement
 
