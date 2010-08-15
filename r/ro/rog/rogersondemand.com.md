@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogersondemand.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614003237id_/http%3A//www.rogersondemand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogersondemand.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815030326id_/http%3A//www.rogersondemand.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rogers On Demand Online
 
