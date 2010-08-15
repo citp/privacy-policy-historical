@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527184532id_/http%3A//www.travel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815070313id_/http%3A//www.travel.com/privacy.html) for the most accurate reproduction.*
 
 # TRAVEL.com ® - About Us
 
