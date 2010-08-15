@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infor.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512084732id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infor.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815072406id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -15,6 +15,8 @@ When you register to receive a product or information through the Company Websit
 Every Registered User has a unique Personal Profile. Each Personal Profile is assigned a unique personal identification number, which helps ensure that only you can access your profile. 
 
 **PRIVACY**
+
+**U.S. - EU Safe Harbor Privacy Statement** For personal information of employees, and customers that Infor receives from the European Economic Area, Infor has committed to handling such personal information in accordance with the Safe Harbor Principles.   Infor’s Safe Harbor certification can be found at http:// web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list. For more information about the Safe Harbor Principles and the FAQs, please visit the U.S. Department of Commerce’s Website at http://export.gov/safeharbor/.
 
 To protect your privacy when you browse and/or make use of the services provided through the Company Website, the Company follows certain basic rules: 
 
