@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeksmack.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620090706id_/http%3A//www.geeksmack.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksmack.net privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815092819id_/http%3A//www.geeksmack.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GeekSmack
 
