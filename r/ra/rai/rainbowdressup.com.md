@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbowdressup.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612071607id_/http%3A//www.rainbowdressup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbowdressup.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815090755id_/http%3A//www.rainbowdressup.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
