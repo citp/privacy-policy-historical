@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integrationmarketing.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416233223id_/http%3A//www.integrationmarketing.com/html/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integrationmarketing.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815033605id_/http%3A//www.integrationmarketing.com/html/privacypolicy) for the most accurate reproduction.*
 
 # Integration Marketing
 
@@ -6,7 +6,7 @@
 
 _Last Updated_ : 16 June 2008 
 
-This privacy statement covers the site [ www.integrationmarketing.com](https://web.archive.org/web/20090416233223id_/http%3A//www.integrationmarketing.com/html/www.integrationmarketing.com).
+This privacy statement covers the site [ www.integrationmarketing.com](https://web.archive.org/web/20100815033605id_/http%3A//www.integrationmarketing.com/html/www.integrationmarketing.com).
 
 This policy contains additional clauses for California residents in order to comply with California privacy protection requirements. For more information, see **"Notice of Compliance to California Residents"** below. 
 
@@ -107,7 +107,7 @@ _Aggregate Information (non-personally identifiable):_ Mark Joyner, Inc may shar
 
 **Links**
 
-This web site contains some links to other web sites.  Please be aware that Mark Joyner, Inc is not responsible for the privacy practices of such other sites, and encourages members to be aware when they leave [ www.integrationmarketing.com](https://web.archive.org/web/20090416233223id_/http%3A//www.integrationmarketing.com/html/www.integrationmarketing.com) and to read the privacy statements of each and every site web site that collects personally identifiable information. This privacy statement applies solely to the information collected by [](http://www.markjoyner.name/)[ www.integrationmarketing.com](https://web.archive.org/web/20090416233223id_/http%3A//www.integrationmarketing.com/html/www.integrationmarketing.com). 
+This web site contains some links to other web sites.  Please be aware that Mark Joyner, Inc is not responsible for the privacy practices of such other sites, and encourages members to be aware when they leave [ www.integrationmarketing.com](https://web.archive.org/web/20100815033605id_/http%3A//www.integrationmarketing.com/html/www.integrationmarketing.com) and to read the privacy statements of each and every site web site that collects personally identifiable information. This privacy statement applies solely to the information collected by [](http://www.markjoyner.name/)[ www.integrationmarketing.com](https://web.archive.org/web/20100815033605id_/http%3A//www.integrationmarketing.com/html/www.integrationmarketing.com). 
 
 **How To Unsubscribe**
 
@@ -140,7 +140,7 @@ This information is logged beside your account profile in our system and stored 
 
 **Surveys or Contests**
 
-From time-to-time [www.integrationmarketing.com](https://web.archive.org/web/20090416233223id_/http%3A//www.integrationmarketing.com/html/www.integrationmarketing.com) may provide you the opportunity to participate in contests or surveys.  If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and therefore you have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name, email and/or shipping address), and demographic information (such as zip code). 
+From time-to-time [www.integrationmarketing.com](https://web.archive.org/web/20100815033605id_/http%3A//www.integrationmarketing.com/html/www.integrationmarketing.com) may provide you the opportunity to participate in contests or surveys.  If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and therefore you have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name, email and/or shipping address), and demographic information (such as zip code). 
 
 We use this information to notify contest winners and award prizes. 
 
