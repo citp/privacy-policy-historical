@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rezgo.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526093626id_/http%3A//www.rezgo.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rezgo.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815081034id_/http%3A//www.rezgo.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rezgo Tour & Activity Booking System
+# Privacy Policy | Rezgo
 
 Rezgo is committed to protecting the privacy of its clients, employees and other individuals served by or providing services to Rezgo. The proper safeguarding of all personal information collected in the course of Rezgo’s day-to-day activities is the cornerstone of this commitment. Personal information is any information that identifies and individual, or by which an individual’s identity could be deduced.
 
