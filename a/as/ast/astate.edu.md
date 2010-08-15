@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astate.edu privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526093445id_/http%3A//www2.astate.edu/info/general/privacy-policy.dot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astate.edu privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815070031id_/http%3A//www2.astate.edu/info/general/privacy-policy.dot) for the most accurate reproduction.*
 
 # ASU-Jonesboro - Privacy Policy
 
