@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the7figuresecrets.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102143515id_/http%3A//the7figuresecrets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the7figuresecrets.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815043501id_/http%3A//the7figuresecrets.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
