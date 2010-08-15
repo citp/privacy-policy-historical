@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubspot.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603023602id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubspot.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815071125id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
