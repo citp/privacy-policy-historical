@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harpersbazaar.co.uk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002048id_/http%3A//www.harpersbazaar.co.uk/Privacy/v1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpersbazaar.co.uk privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817014228id_/http%3A//www.harpersbazaar.co.uk/Privacy/v1) for the most accurate reproduction.*
 
 # Privacy :: Harper's Bazaar
 
