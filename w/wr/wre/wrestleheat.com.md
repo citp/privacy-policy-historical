@@ -1,23 +1,29 @@
-> *The following text is extracted and transformed from the wrestleheat.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413150838id_/http%3A//wrestleheat.com/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestleheat.com privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816071528id_/http%3A//wrestleheat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WrestleHeat.com
 
-**WrestleHeat.com has developed the following privacy policy to demonstrate our firm commitment to privacy. All information below represents the privacy policies followed by WrestleHeat.com**
+* * *
+
+****WrestleHeat.com has developed the following privacy policy to demonstrate our firm commitment to privacy. All information below represents the privacy policies followed by WrestleHeat.com.
 
 WrestleHeat.com is a site open to general audiences and all site-content is filtered (where possible) to ensure the privacy of users remains intact, and the site remains appropriate for all audiences.
 
 On a general basis, any information sent to WrestleHeat.com will be kept private and stored securely. WrestleHeat.com will never sell, rent, loan, trade, lease, or freely distribute any personal information collected.
 
-**Advertisements** :  
-WrestleHeat.com serves ads for an array of different sponsors and third-party organizations. Such advertisements are not developed or monitored by the WrestleHeat.com staff and may collect information about users’ visits (not including name, address, telephone number and e-mail address – unless the user voluntarily submits such information to the advertiser). No advertisements fall under the WrestleHeat.com privacy policy, therefore exempting WH from any issues with such advertisers.
+**Advertisements:**
 
-**Cookies** :  
-WrestleHeat.com does not use any cookies to collect information from users, although the SMF discussion forums may use cookies to make navigation easier for users, depending on their choices during registration. Third-party advertisers, as well, may use cookies, but such advertisers do not fall under the terms of this privacy policy.
+WrestleHeat.com serves ads for an array of different sponsors and third-party organizations. Such advertisements are not developed or monitored by the WrestleHeat.com staff and may collect information about users’ visits (not including name, address, telephone number and e-mail address – unless the user voluntarily submits such information to the advertiser). No advertisements fall under the WrestleHeat.com privacy policy, therefore exempting WF from any issues with such advertisers.
 
-**External Links** :  
+**Cookies:**
+
+WrestleHeat.com does not use any cookies to collect information from users, although the eNz Network discussion forums may use cookies to make navigation easier for users, depending on their choices during registration. Third-party advertisers, as well, may use cookies, but such advertisers do not fall under the terms of this privacy policy.
+
+**External Links:**
+
 In the course of one’s visit to WrestleHeat.com, he/she may have the opportunity to click a link and be taken to a third-party website. WrestleHeat.com is in no way associated with such websites and is not responsible for their privacy practices and policies.
 
-**Policies for Children** :  
+**Policies for Children:**
+
 WrestleHeat.com understands that children under thirteen have very special and important privacy needs.
 
 We will not knowingly collect and/or distribute any personal, identifiable information from children without parental consent.
@@ -30,13 +36,14 @@ Any first-party links to content that may be inappropriate for children will be 
 
 We, as often as possible, will encourage children to get parental consent before submitting information to the website.
 
-**E-Mail Lists** :  
+**E-Mail Lists:**
+
 At a certain point in time, WrestleHeat.com may develop an e-mail list, in which specialized sports content will be delivered to one’s e-mail inbox. No visitors will be forced to receive such information and no personal data will be collected from those who opt-in to our list.
 
-**Contests/Giveaways** :  
+**Contests/Giveaways:**
+
 WrestleHeat.com may, from time to time, have contests or giveaways. In such a case, users will have the complete choice of entering such an event, and if so, will then have to submit personal information, used in transferring of prizes. No personal information will be used for any other purposes.
 
-Questions/Concerns:  
-Anyone who has a question regarding the privacy practices of WrestleHeat.com should submit an inquiry to webmaster@wrestleheat.com
+**Questions/Concerns:**
 
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Anyone who has a question regarding the privacy practices of WrestleHeat.com should submit an inquiry to webmaster@wrestleheat.com.
