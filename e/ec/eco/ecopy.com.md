@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecopy.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618021815id_/http%3A//www.nuance.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecopy.com privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816022629id_/http%3A//www.nuance.com/company/privacy) for the most accurate reproduction.*
 
 # Nuance - Company - Privacy Policy
 
