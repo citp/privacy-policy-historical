@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318064238id_/http%3A//www.emp-online.co.uk/terms/terms.php%3Ftag%3Ddataprotection%26pu%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816190834id_/http%3A//www.emp-online.co.uk/terms/terms.php%3Ftag%3Ddataprotection%26pu%3D1) for the most accurate reproduction.*
 
 # Allgemeine Geschäftsbedingungen
 
