@@ -1,44 +1,74 @@
-> *The following text is extracted and transformed from the themillionaireleague.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104052123id_/http%3A//themillionaireleague.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themillionaireleague.com privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816150757id_/http%3A//www.themillionaireleague.com/privacy) for the most accurate reproduction.*
 
-# The Millionaire League.com :: Home
+# The Millionaire League 2.0
 
-  
+Privacy Policy
+
+Last modified: August 1st, 2010
+
+We recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by TheMillionaireLeague.com & this website as well as its subsidiaries or affiliated companies.
+
+**Information we collect and how we use it**  
 
 
-TheMillionaireLeague.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
+All our services require you to register for an account or provide personal information to us. In order to provide our full range of services, we may collect the following types of information:
 
-How we gather information from users
+_Information you provide_ \- When you sign up for an Account that requires registration, we ask you for personal information (such as your name, email address and an account password). For some services, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from our other services or third parties in order to provide you with a better experience and to improve the quality of our services.  
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, our company also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
 
-What we do with the information we collect
+_Cookies_ \- When you visit our websites, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people use our website. We may set one or more cookies in your browser when you visit our websites.  
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+_Log information_ \- When you access your account, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.  
 
-We may use Personally Identifiable Information collected on TheMillionaireLeague.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by TheMillionaireLeague.com and other topics we think you might find of interest. 
 
-Personally Identifiable Information collected by TheMillionaireLeague.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+_User communications_ \- When you send email or other communications to us or your customers, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.  
 
-Affiliated sites, linked sites and advertisements
 
-TheMillionaireLeague.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame of content that is actually created or hosted by a third party. Also, through our company web sites you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. TheMillionaireLeague.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+_Affiliated Services and partner sites_ \- We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to us in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites mention above may have different privacy practices and we encourage you to read their privacy policies.  
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. TheMillionaireLeague.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of TheMillionaireLeague.com and this policy.
+_Gadgets_ \- We may make available third party applications through its services. The information collected by us when you enable a gadget or other application is processed under this Privacy Policy. Information collected by the application or gadget provider is governed by their privacy policies.  
 
-Children
 
-TheMillionaireLeague.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 18 except as permitted by law. If we discover we have received any information from a child under 18 in violation of this policy, we will delete that information immediately. If you believe TheMillionaireLeague.com has any information from or about anyone under 18, please contact us using the link contact link below.
+_Links_ \- We may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.  
 
-TheMillionaireLeague.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-Governing law
+_Other sites_ \- This Privacy Policy applies to our services only. We do not exercise control over websites and applications, products or services, or links from within our various services & websites. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.  
 
-This policy and the use of this Site are governed by the law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+TheMillionaireLeague.com processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our affiliated partners.  
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+**Information sharing**  
+
+
+There is no guarantee that we won’t share your basic contact details such as, but not limited to full name, email address and telephone number.  
+
+
+**Information security**  
+
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.  
+
+
+We restrict access to personal information our employees, contractors and agents who need to know that information in order to operate, develop or improve our services.  
+
+
+**Data integrity**  
+
+
+TheMillionaireLeague.com processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.  
+
+
+**Accessing and updating personal information**
+
+When you use our services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing this type of request, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information  
+
+
+**Changes to this Privacy Policy**  
+
+
+Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and it is your responsibility to view this page and update yourself with any changes we might make. Each version of this Privacy Policy will be identified at the top of the page by its effective date.
+
+[Home](http://www.themillionaireleague.com/) | [FAQ](http://www.themillionaireleague.com/faq) | [Contact](http://www.themillionaireleague.com/contact) | [Member Login](http://www.themillionaireleague.com/login.php) | [Affiliates](http://www.themillionaireleague.com/affiliates) [|](http://www.themillionaireleague.com/affiliates) [Terms Of Use](http://www.themillionaireleague.com/terms) | [Earnings Disclaimer](http://www.themillionaireleague.com/disclaimer) | [Privacy Policy](http://www.themillionaireleague.com/privacy)
