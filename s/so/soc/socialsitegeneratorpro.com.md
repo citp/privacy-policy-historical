@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsitegeneratorpro.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630101110id_/http%3A//socialsitegeneratorpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsitegeneratorpro.com privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816161249id_/http%3A//socialsitegeneratorpro.com/privacy.html) for the most accurate reproduction.*
 
 # Money Making Opportunity | Easy Money Secrets | Software Ultimatum
 
