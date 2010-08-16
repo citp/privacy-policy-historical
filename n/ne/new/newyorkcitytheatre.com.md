@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkcitytheatre.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617023307id_/http%3A//www.newyorkcitytheatre.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkcitytheatre.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817001437id_/http%3A//www.newyorkcitytheatre.com/privacy.php) for the most accurate reproduction.*
 
 # New York City Theatre: Links.
 
@@ -36,8 +36,8 @@ You may choose to opt-out of receiving future communications from newyorkcitythe
 
 If you have any questions about this privacy statement or the security practices of this site, please contact: [help@newyorkcitytheatre.com](mailto:help@newyorkcitytheatre)
 
-[](http://www.newyorkcitytheatre.com/theaters/stjamestheater/theater.php)
+[](http://www.newyorkcitytheatre.com/theaters/broadhursttheater/theater.php)
 
-"Kristin Chenoweth and Sean Hayes star in a revival of **_Promises, Promises_** , the Burt Bacharach, Hal David, Neil Simon musical based on the Billy Wilder film, The Apartment"
+**_Al Pacino_** stars in Shakespeare's **The Merchant of Venice** after its hugely successful run at this Summer's Shakespeare In The Park. Described as one of the best ever productions of the play, this will be the hot ticket for Fall 2010.
 
-[More »](http://www.newyorkcitytheatre.com/theaters/broadwaytheater/theater.php)
+[More »](http://www.newyorkcitytheatre.com/theaters/broadhursttheater/theater.php)
