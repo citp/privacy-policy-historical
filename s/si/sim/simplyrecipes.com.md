@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyrecipes.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327123717id_/http%3A//www.elise.com/recipes/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyrecipes.com privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818011636id_/http%3A//simplyrecipes.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Simply Recipes
 
@@ -24,7 +24,7 @@ In operating the Site, Simply Recipes may include registration, comment forms, o
 
 **IP Addresses.** Each user's IP address is logged with each visit and each action performed on Simply Recipes. This information is never provided to the third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. IP address information is linked to personal information and may be used in an effort to block a "banned" user from accessing the Site.
 
-**Advertising.** If there is advertising on Simply Recipes, such advertising may employ the use of cookies or other methods to track hits and click-throughs. We are not responsible for advertiser cookies or how the information gathered through their use might be used.
+**Advertising.** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third-party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Participation on a Public Website.** You should be aware that any personal information you submit on Simply Recipes in the comments may be read, collected, or used by other users of this Site, including anonymous visitors.
 
