@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxforexonline.biz privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614094957id_/http%3A//www.maxforexonline.biz/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxforexonline.biz privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817134016id_/http%3A//www.maxforexonline.biz/privacy-policy.htm) for the most accurate reproduction.*
 
 # Welcome to MaxForex Online
 
