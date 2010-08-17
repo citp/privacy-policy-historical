@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsd38.ab.ca privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609155640id_/http%3A//www.fsd38.ab.ca/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D158%26Itemid%3D193) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsd38.ab.ca privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817121917id_/http%3A//www.fsd38.ab.ca/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D158%26Itemid%3D193) for the most accurate reproduction.*
 
 # Privacy Policy
 
