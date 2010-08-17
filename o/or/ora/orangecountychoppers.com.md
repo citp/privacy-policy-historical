@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orangecountychoppers.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524114047id_/http%3A//www.orangecountychoppers.com/companyInfo/index.cfm%3FcontentID%3D3669D7DC-9539-A3E1-A1629BE85F82CDBA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangecountychoppers.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817201848id_/http%3A//shop.orangecountychoppers.com/companyInfo/index.cfm%3FcontentID%3D3669D7DC-9539-A3E1-A1629BE85F82CDBA) for the most accurate reproduction.*
 
-# Orange County Choppers: Shop Now for official OCC apparel, collectible bikes and accessories or just check in to see what's new with OCC.
+# Orange County Choppers: Shop Now for official OCC apparel, collectible bikes and accessories or just check in to see what's new with the Teutuls.
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. Orange County Choppers Retail, LLC, is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
 
