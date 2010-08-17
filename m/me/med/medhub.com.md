@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the medhub.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117234242id_/http%3A//www.medhub.com/notice.mh%3FpageID%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhub.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817055750id_/http%3A//www.medhub.com/notice.mh%3FpageID%3D27) for the most accurate reproduction.*
 
 # MedHub - Privacy Policy
 
 Privacy Policy
 
-The following statement discloses Medhub, Inc.�s consumer privacy practices for the Medhub, Inc. Web Site. We do update our policy from time to time without notice so please check back periodically. All updates will be published at this site. 
+ **NOTE: The information below defines the privacy policy of the MedHub PUBLIC website. Terms of use of the MedHub Residency Management System are stipulated in the MedHub client contract.**
+
+The following statement discloses Medhub, Inc.'s consumer privacy practices for the Medhub, Inc. PUBLIC Web Site. We do update our policy from time to time without notice so please check back periodically. All updates will be published at this site. 
 
 Medhub, Inc. understands your desire to protect personal information. We intend to inform you how your personal information will be gathered, tracked or used, and to give you choices. If choices are not offered on web pages where your personal information is obtained, please select one of the communication channels at the bottom of this statement to indicate your communication preferences. 
 
 **What information we gather and track**  
   
-We sometimes request personal information when you request a service, answer a survey or correspond with us or engage in certain other activities on our website. For example: If you request technical support online, we will ask you for information necessary to address the issue � such as your name address and information about your computer hardware, software and the nature of the problem you are experiencing. 
+We sometimes request personal information when you request a service, answer a survey or correspond with us or engage in certain other activities on our website. For example: If you request technical support online, we will ask you for information necessary to address the issue  such as your name address and information about your computer hardware, software and the nature of the problem you are experiencing. 
 
 You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction. 
 
@@ -43,7 +45,7 @@ Medhub, Inc. utilizes cookies for better performence. A cookie is a unique text 
 
 Medhub, Inc. may also use cookies to track your visit to our Web site. While our Web servers may automatically log your IP address, this information does not identify you and you remain anonymous. 
 
-We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout Medhub, Inc.�s Web site. Such information is not correlated with any personal information. 
+We may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout Medhub, Inc.'s Web site. Such information is not correlated with any personal information. 
 
 Please remember that information you submit in a discussion group or forum, or PortalHub communication, will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online. 
 
