@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetsand.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615082350id_/http%3A//www.wetsand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetsand.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817142427id_/http%3A//www.wetsand.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wetsand.com
 
