@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164854id_/http%3A//www.icis.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818011245id_/http%3A//www.icis.com/StaticPages/privacy.htm) for the most accurate reproduction.*
 
 # Chemical Industry News & Intelligence | ICIS.com
 
@@ -52,8 +52,8 @@ Bluestreak, the third party company which handles our user database, also uses c
 
 [Insight](http://www.icis.com/News/News.aspx?Category=Article+Types&CategoryItemId=3&Label=Insight)
 
- **INSIGHT: Forecasting hurricanes so easy a chimp can do it - sources**  
-"Predicting the weather, production hiccups, volume requirements and consumer demand are so easy a caveman could do it, right?" [more](http://www.icis.com/Articles/2010/05/25/9362491/insight-forecasting-hurricanes-so-easy-a-chimp-can-do-it.html)
+ **INSIGHT: US SBR producers see flat margins despite higher tyre sales**  
+"But the better earnings and tyre numbers don't necessary translate into jubilation for US SBR producers." [more](http://www.icis.com/Articles/2010/08/17/9385530/insight-us-sbr-producers-see-flat-margins-despite-higher-tyre.html)
 
 ## [Feedback](http://www.icis.com/Feedback/Feedback.aspx)
 
