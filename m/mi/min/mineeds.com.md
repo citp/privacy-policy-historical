@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mineeds.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224192704id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mineeds.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817133908id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.*
 
 # MiNeeds Privacy Policy | MiNeeds
 
