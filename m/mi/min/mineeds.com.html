@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mineeds.com privacy policy that was archived on 2009-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091224192704id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mineeds.com privacy policy that was archived on 2010-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100817133908id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
   <title>MiNeeds Privacy Policy | MiNeeds</title>
@@ -19,15 +19,17 @@
 <style type="text/css" media="all">@import "/pages/modules/user/user.css";</style>
 <style type="text/css" media="all">@import "/pages/themes/mineeds/style.css";</style>
     <link rel="P3Pv1" href="http://www.mineeds.com/w3c/p3p.xml">
-  <script type="text/javascript" src="/pages/misc/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/js.js"></script>
   <script type="text/javascript">
-    JQ = $;  //rename $ function
+    //JQ = $;  //rename $ function
   </script>
   <script type="text/javascript" src="js/prototype.js"></script>
   <script type="text/javascript" src="js/modalwindow.js"></script>
   <script type="text/javascript" src="js/infomessage.js"></script>
   <script type="text/javascript" src="js/signup.js?21022008"></script>
   <script type="text/javascript" src="js/scriptaculous/scriptaculous.js"></script>
+  <script type="text/javascript" src="js/fc.js"></script>
 
   <script type="text/javascript" src="js/yui/yahoo-dom-event.js"></script>
   <script type="text/javascript" src="js/yui/element-min.js"></script>
@@ -306,16 +308,22 @@ var signupFormLoaded = 0;
 
 function showSignupEndUser(force, loginMessage) {
 
-	if ($('backgroundOverlay') == null) {
+	/*if ($('backgroundOverlay') == null) {
 		var arrayPageSize = getPageSize();//[document.body.offsetWidth+document.documentElement.scrollLeft, brHeight+document.documentElement.scrollTop];
+                var loaderTop  = 260;
+                var loaderLeft = (arrayPageSize[0]-220)/2;
 		var html = '<div id="backgroundOverlay" style="position: absolute; top: 0px; left: 0px; z-index: 190;';
-		html += 'width: '+arrayPageSize[0]+'px; height: '+arrayPageSize[1]+'px; background-color: rgb(0, 0, 0); display:none;"/>';
+		html += 'width: '+arrayPageSize[0]+'px; height: '+arrayPageSize[1]+'px; background-color: rgb(0, 0, 0); display:none;"></div>';
+                html += '<img id="ajax-loader-big" src="/images/ajax-loader-big.gif" style="position:absolute;top:'+loaderTop+'px;left:'+loaderLeft+'px;z-index:191;display:none;" />';
 		new Insertion.Bottom(document.body, html);
 		$('backgroundOverlay').show();
+                $('ajax-loader-big').show();
 		new Effect.Appear('backgroundOverlay', { duration: 0.3, from: 0.0, to: 0.5 });
 	} else {
 		$('backgroundOverlay').show();
-	}
+                $('ajax-loader-big').show();
+	}*/
+        light_box();
 
 	if (typeof(force) == 'undefined')
 		var force = false;
@@ -553,8 +561,8 @@ function showForgotPassword() {
 	</div>
 <div id="header-bottom-guest">
 	<div class="header-stats-large">
-		<div>23,374 Providers online</div>
-		<div>11,926 Customers served</div>
+		<div>29,602 Providers online</div>
+		<div>25,281 Customers served</div>
 	</div>
 	<form id="post_need_form" action="post_need/2" method="post" style="padding: 16px 0 0 45px;width: 322px;">
 		<input class="" type="hidden" name="auction[title]" value="I need a ...">
@@ -589,13 +597,30 @@ function showForgotPassword() {
 		<a href="http://www.mineeds.com/">Home</a>
 	</li>
 	<li class="header-menu-li ">
-		<a href="http://www.mineeds.com/services">Find Professionals</a>
+		<a href="http://www.mineeds.com/Seattle-Washington-Services">Find Professionals</a>
+		<ul>
+			<li><a href="http://www.mineeds.com/Seattle-Washington-Services">Search Professionals</a></li>
+			<li class="last"><a href="http://www.mineeds.com/create_offering">Create a Profile</a></li>
+		</ul>		
 	</li>
 	<li class="header-menu-li ">
-		<a href="http://www.mineeds.com/needs">Needs</a>
+		<a href="http://www.mineeds.com/Seattle-Washington-Needs">Needs</a>
+		<ul>
+			<li><a href="http://www.mineeds.com/Seattle-Washington-Needs">Search Needs</a></li>
+			<li class="last"><a href="http://www.mineeds.com/post_need/1">Post a Need</a></li>
+		</ul>		
 	</li>
 	<li class="header-menu-li ">
 		<a href="http://www.mineeds.com/ask_experts">Ask the Experts</a>
+		<ul>
+			<li><a href="http://www.mineeds.com/ask_experts">Articles</a></li>
+			<li><a href="http://www.mineeds.com/Ask-The-Experts/Questions_Answers">Questions &amp; Answers</a></li>
+            <li><a href="http://www.mineeds.com/forums">Forums</a></li>
+			<li class="tools">Tools</li>
+			<li><a class="indented" href="http://www.mineeds.com/Ask-a-Question">Post a Question</a></li>
+			<li><a class="indented" href="http://www.mineeds.com/write-an-article">Write an Article</a></li>
+            <li class="last"><a class="indented" href="http://www.mineeds.com/add-forum-topic">Start a Discussion</a></li>
+		</ul>
 	</li>
 </ul>
 		<div style="clear:both;"></div>
@@ -918,10 +943,10 @@ function showForgotPassword() {
 
 	<div id="footer">
 				<div class="footerdiv">
-			<div class="copyright"> © 2009 miNeeds.com. All rights reserved<br>
+			<div class="copyright"> © 2010 MiNeeds.com. All rights reserved<br>
 		    	<a href="pages/privacy.html">Privacy policy</a> | <a href="pages/terms-use">Terms of Use</a>
 		    </div>
-			<div style="clear:both"></div>
+			<div style="float:left;">
 			
 <div id="block-block-11" class="clear-block block block-block">
 
@@ -933,8 +958,14 @@ function showForgotPassword() {
 				<a href="pages/press">Press</a>
 			</div></div>
 </div>
+			</div>
+			<div style="float:left;margin-left: 10px;padding-top:10px;">
+				<strong>Partners:</strong>
+				<a href="/pages/affiliates">Affiliates</a> |
+				<a href="/tools/widget">Widgets</a> |
+				<a href="/tools/api">Data &amp; APIs</a>
+			</div>
 			<div style="clear:both"></div>
-
 			<div style="font-size:10px;padding-top:10px;">
 				<span style="font-size:12px;"><b>Categories: </b></span>
 				<a href="/Seattle-Washington-Services/Auto-Repair-Services" style="font-size:10px;">Auto Repair &amp; Services</a>&nbsp;| <a href="/Seattle-Washington-Services/Auto-Detailing-Services" style="font-size:10px;">Auto Detailing Services</a>&nbsp;| <a href="/Seattle-Washington-Services/Art-Painting-Drawing" style="font-size:10px;">Art Painting &amp; Drawing</a>&nbsp;| <a href="/Seattle-Washington-Services/Body-Art" style="font-size:10px;">Body Art</a>&nbsp;| <a href="/Seattle-Washington-Services/Collage" style="font-size:10px;">Collage</a>&nbsp;| <a href="/Seattle-Washington-Services/Craft" style="font-size:10px;">Craft</a>&nbsp;| <a href="/Seattle-Washington-Services/Digital" style="font-size:10px;">Digital</a>&nbsp;| <a href="/Seattle-Washington-Services/Glass" style="font-size:10px;">Glass</a>&nbsp;| <a href="/Seattle-Washington-Services/Pottery" style="font-size:10px;">Pottery</a>&nbsp;| <a href="/Seattle-Washington-Services/Sculpting" style="font-size:10px;">Sculpting</a>&nbsp;| <a href="/Seattle-Washington-Services/Fashion" style="font-size:10px;">Fashion</a>&nbsp;| <a href="/Seattle-Washington-Services/Graphic" style="font-size:10px;">Graphic</a>&nbsp;| <a href="/Seattle-Washington-Services/Jewelry" style="font-size:10px;">Jewelry</a>&nbsp;| 	<a href="all_categories" style="font-size:10px;">All Categories</a>
@@ -959,54 +990,8 @@ function showForgotPassword() {
 </div>
 <script type="text/javascript">  FB.init("603f517b71a1c02528fa7eb92d83573d", "/fb_connect"); </script>
 <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
+<script type="text/javascript" src="/js/ga.js"></script>
 
-<script type="text/javascript">
-	function _uGC(l,n,s) {
-	   // used to obtain a value form a string of key=value pairs
-	   if (!l || l=="" || !n || n=="" || !s || s=="") return "";
-	   var i,i2,i3,c="";
-	   i=l.indexOf(n);
-	   i3=n.indexOf("=")+1;
-	   if (i > -1) {
-		  i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
-		  c=l.substring((i+i3),i2);
-	   }
-	   return c;
-	}
-
-	function checkFirst(){
-	   // check if this is a first time visitor
-	   newVisitor = 0;
-	   var myCookie = "" + document.cookie + ";";
-	   var searchName = "__utma=";
-	   var startOfCookie = myCookie.indexOf(searchName)
-	   if (startOfCookie == -1) {   // i.e. first time visitor
-		  newVisitor = 1;
-	   }
-	}
-
-	function grabReferrer(){
-		// grab campaign and referrer info from the _utmz cookie
-		if (newVisitor) {
-			var z = _uGC(document.cookie, "__utmz=", ";");
-			urchin_source = _uGC(z,"utmcsr=", "|");
-			urchin_medium = _uGC(z,"utmcmd=", "|");
-			urchin_keyword = _uGC(z,"utmctr=", "|");
-			urchin_campaign = _uGC(z,"utmccn=", "|");
-			// add a goolge to the variables-LaryS
-			var gclid = _uGC(z,"utmgclid=","|");
-				pageTracker._setVar("utmcsr=" + urchin_source + "|utmccn=" + urchin_campaign+ "|utmcmd=" + urchin_medium + "|utmctr=" +urchin_keyword); // expand initial referrer data to capture med,term, and source- LaryS
-			}
-	}
-</script>
-
-<script type="text/javascript">
-	checkFirst();        // checks if this is a new visitor// Moved to execute befire the _getTracker function- LaryS
-	var pageTracker = _gat._getTracker("UA-2472393-1");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-	grabReferrer();      // Grab referrer info
-</script>
 
 
 <script type="text/javascript">
@@ -1051,26 +1036,26 @@ function validate_input() {
 	new Ajax.Request('post_need_prepare', opt);
 }
 
-JQ(document).ready(function() {
-	JQ('#block-menu-63 li').find(":contains("+JQ('li.expanded a').html()+")").addClass('active');
+$j(document).ready(function() {
+	$j('#block-menu-63 li').find(":contains("+$j('li.expanded a').html()+")").addClass('active');
 
-	if(JQ('.logout-link').html() == '' || JQ('.logout-link').html() == null) {
-		JQ('#basic').attr('href','/create_offering');
-		JQ('#unlimited').attr('href','/create_offering');
+	if($j('.logout-link').html() == '' || $j('.logout-link').html() == null) {
+		$j('#basic').attr('href','/create_offering');
+		$j('#unlimited').attr('href','/create_offering');
 	} else {
-		JQ('#basic').attr('href','/subscribe/1/basic');
-		JQ('#unlimited').attr('href','/subscribe/1/unlimited');
+		$j('#basic').attr('href','/subscribe/1/basic');
+		$j('#unlimited').attr('href','/subscribe/1/unlimited');
 	}
 
-	JQ('.bg').click(function(){
-		JQ('.bg').css('background','none');
+	$j('.bg').click(function(){
+		$j('.bg').css('background','none');
 	});
 
-	JQ('.bg').blur(function(){
-		if(JQ('.bg').val() != '') {
-			JQ('.bg').val(JQ('.bg').val());
+	$j('.bg').blur(function(){
+		if($j('.bg').val() != '') {
+			$j('.bg').val($j('.bg').val());
 		} else {
-			JQ('.bg').css('background','url(/cms/themes/mineeds/img/desc-ur-need1.gif) no-repeat center');
+			$j('.bg').css('background','url(/cms/themes/mineeds/img/desc-ur-need1.gif) no-repeat center');
 		}
 	});
 });
