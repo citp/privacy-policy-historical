@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabsheaven.net privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182953id_/http%3A//www.tabsheaven.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabsheaven.net privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817175203id_/http%3A//www.tabsheaven.net/privacy-policy) for the most accurate reproduction.*
 
 # tabsHeaven.net - free Guitar PRO tabs
 
