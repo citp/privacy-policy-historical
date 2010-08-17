@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefastlanetomillions.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618064626id_/http%3A//www.thefastlanetomillions.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefastlanetomillions.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817180849id_/http%3A//www.thefastlanetomillions.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # theFastlaneToMillions.com » Privacy
 
