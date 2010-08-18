@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinelistformula.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420032759id_/http%3A//www.craigslistformula.com/policies/privacy-agreement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinelistformula.com privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818065434id_/http%3A//www.onlinelistformula.com/policies/privacy-agreement.html) for the most accurate reproduction.*
 
-# The Craigslist Formula - Privacy Agreement
+# Privacy Agreement
 
 **PRIVACY POLICY**
 
@@ -119,7 +119,7 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 **JURISDICTION AND VENUE**
 
 If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified.    
-P.O. Box 624, Wagner, SD 57380   In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+2840 S 70th Street 233 Suite 7 Lincoln, NE 68506   In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
 
 **APPLICABLE LAW**
 
