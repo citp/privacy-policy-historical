@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiguruonline.info privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617185840id_/http%3A//desiguruonline.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiguruonline.info privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818034703id_/http%3A//www.desiguruonline.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Desiguruonline.info - Free Adult Image Host
 
