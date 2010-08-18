@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writersheaven.net privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618013346id_/http%3A//www.writersheaven.net/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersheaven.net privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818140358id_/http%3A//www.writersheaven.net/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
