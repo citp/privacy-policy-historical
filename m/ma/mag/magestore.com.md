@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magestore.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323163319id_/http%3A//www.magestore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magestore.com privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818041817id_/http%3A//www.magestore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Magento Templates and Extensions Store
 
 ### Privacy Policy
 
