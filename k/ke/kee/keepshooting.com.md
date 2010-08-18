@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepshooting.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209231154id_/http%3A//www.keepshooting.com/other/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepshooting.com privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818204123id_/http%3A//www.keepshooting.com/other/privacy.htm) for the most accurate reproduction.*
 
 # Keepshooting.com : Home (a division of BTP Arms)
 
