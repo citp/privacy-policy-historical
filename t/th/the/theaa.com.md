@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615071046id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818224425id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The AA
 
