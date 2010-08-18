@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vombashots.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616070643id_/http%3A//www.vombanetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vombashots.com privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818141604id_/http%3A//www.vombanetwork.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to vombanetwork.com
 
