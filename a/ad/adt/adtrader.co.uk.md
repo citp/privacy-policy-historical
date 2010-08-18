@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614095337id_/http%3A//www.adtrader.co.uk/siteinfo.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818064119id_/http%3A//www.adtrader.co.uk/siteinfo.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Ad Trader classifieds, Free local classified ads with images ads online now.
 
@@ -90,3 +90,7 @@ When you visit the Ad Trader website we issue a "cookie" or unique identificatio
 
 
 Please note you need to enable cookies in your browser in order to place an advert. For further information on cookies or for details on how to delete them or refuse their installation on your computer, please visit [www.aboutcookies.org](http://www.aboutcookies.org/). 
+
+### Automatic Logging of Session Data
+
+We automatically log generic information about your computer and your computer’s connection to the Internet which we call “session data”. Session data consists of things such as device information, IP address, operating system and browser software information, and the activities conducted by you while on our site. An IP address is a number that lets computers attached to the Internet, such as our web servers, know where to send data back to the user, such as the pages of the site the user wishes to view. We collect session data because it helps us to anaylse such things as what items visitors are likely to click on most, the way visitors are clicking through the site, how many visitors are surfing to various pages on the site, how long visitors to the site are staying and how often they are visiting. It also helps us diagnose problems with our servers and lets us better administer our systems. It is possible to determine from an IP address a visitor’s Internet Service provider (ISP) and the approximate geographical location of his or her point of connectivity. We may also use some session data, such as the pages you have visited on our site, to send you e-mail messages focused on matters that you may be interested in, unless you have previously opted out of receiving such messages. We also use session data to help prevent fraud and unauthorised use of our site. 
