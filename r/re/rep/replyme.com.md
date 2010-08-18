@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replyme.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220094423id_/http%3A//replyme.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replyme.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819013852id_/http%3A//replyme.com/privacy.php) for the most accurate reproduction.*
 
 # Replyme.com
 
@@ -23,25 +23,25 @@ Our commitment to the privacy protection of our clients, both online and offline
 
 ## [Holiday Out](https://web.archive.org/search.php?q=Holiday%20out)
 
-[By Region](https://web.archive.org/search.php?q=by%20region), [Home And Garden](https://web.archive.org/search.php?q=home%20and%20garden), [Sports](https://web.archive.org/search.php?q=sports), [Entertainment](https://web.archive.org/search.php?q=entertainment), [Toys And Games](https://web.archive.org/search.php?q=toys%20and%20games)...   
+[Home And Garden](https://web.archive.org/search.php?q=home%20and%20garden), [By Region](https://web.archive.org/search.php?q=by%20region), [Sports](https://web.archive.org/search.php?q=sports), [General Merchandise](https://web.archive.org/search.php?q=general%20merchandise), [Niche](https://web.archive.org/search.php?q=niche)...   
 
 
 ## [New Types Of Art](https://web.archive.org/search.php?q=New%20types%20of%20Art)
 
-[Periods And Movements](https://web.archive.org/search.php?q=periods%20and%20movements), [People](https://web.archive.org/search.php?q=people), [Comics](https://web.archive.org/search.php?q=comics), [Music](https://web.archive.org/search.php?q=music), [Entertainment](https://web.archive.org/search.php?q=entertainment)...   
+[Visual Arts](https://web.archive.org/search.php?q=visual%20arts), [Directories](https://web.archive.org/search.php?q=directories), [Genres](https://web.archive.org/search.php?q=genres), [Illustration](https://web.archive.org/search.php?q=illustration), [Design](https://web.archive.org/search.php?q=design)...   
 
 
 ## [Latest Inventions](https://web.archive.org/search.php?q=Latest%20Inventions)
 
-[Home Automation](https://web.archive.org/search.php?q=home%20automation), [Programming](https://web.archive.org/search.php?q=programming), [History](https://web.archive.org/search.php?q=history)...   
+[Systems](https://web.archive.org/search.php?q=systems), [Usenet](https://web.archive.org/search.php?q=usenet), [Performance And Capacity](https://web.archive.org/search.php?q=performance%20and%20capacity)...   
 
 
 ## [World Trading](https://web.archive.org/search.php?q=World%20Trading)
 
-[Automotive](https://web.archive.org/search.php?q=automotive), [Information Technology](https://web.archive.org/search.php?q=information%20technology), [Real Estate](https://web.archive.org/search.php?q=real%20estate), [Resources](https://web.archive.org/search.php?q=resources), [Textiles And Nonwovens](https://web.archive.org/search.php?q=textiles%20and%20nonwovens)...   
+[Consumer Goods And Services](https://web.archive.org/search.php?q=consumer%20goods%20and%20services), [Management](https://web.archive.org/search.php?q=management), [Information Technology](https://web.archive.org/search.php?q=information%20technology), [Resources](https://web.archive.org/search.php?q=resources), [Industrial Goods And Services](https://web.archive.org/search.php?q=industrial%20goods%20and%20services)...   
 
 
 ## [Active Life](https://web.archive.org/search.php?q=Active%20life)
 
-[Dentistry](https://web.archive.org/search.php?q=dentistry), [Professions](https://web.archive.org/search.php?q=professions), [Nutrition](https://web.archive.org/search.php?q=nutrition), [Search Engines](https://web.archive.org/search.php?q=search%20engines), [Fitness](https://web.archive.org/search.php?q=fitness), [Addictions](https://web.archive.org/search.php?q=addictions)...   
+[Home Health](https://web.archive.org/search.php?q=home%20health), [Fitness](https://web.archive.org/search.php?q=fitness), [Animal](https://web.archive.org/search.php?q=animal), [Services](https://web.archive.org/search.php?q=services), [Nursing](https://web.archive.org/search.php?q=nursing), [Support Groups](https://web.archive.org/search.php?q=support%20groups)...   
 
