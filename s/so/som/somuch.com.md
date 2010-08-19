@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somuch.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608114025id_/http%3A//www.somuch.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somuch.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819110431id_/http%3A//www.somuch.com/Privacy.asp) for the most accurate reproduction.*
 
 # SoMuch.com Privacy Policy
 
@@ -12,4 +12,4 @@ In most cases the mundane details of your unremarkable life will prove to be of 
 
 Any feature that requires you to enter information will also give you the ability to opt out in the future - your record will be deleted at that time - no information will be saved anywhere.
 
-|   |  [](https://web.archive.org/web/20100608114025id_/http%3A//www.somuch.com/ThisDay.asp)
+|   |  [](https://web.archive.org/web/20100819110431id_/http%3A//www.somuch.com/ThisDay.asp)
