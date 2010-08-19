@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wordflood.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526063952id_/http%3A//www.wordflood.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordflood.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819124151id_/http%3A//www.wordflood.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # 
 
 * * *
 
-Copyright 2009 by Brandon Tanner and Real Slick Software. All Rights Reserved.
+Copyright 2010 by Brandon Tanner and Real Slick Software. All Rights Reserved.
 
 _Privacy Policy_
 
