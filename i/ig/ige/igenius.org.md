@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igenius.org privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525001822id_/http%3A//igenius.org/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igenius.org privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819130707id_/http%3A//www.igenius.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # igenius
 
