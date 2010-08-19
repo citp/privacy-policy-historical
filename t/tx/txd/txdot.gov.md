@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txdot.gov privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528034151id_/http%3A//www.txdot.gov/about_us/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txdot.gov privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820012837id_/https%3A//www.txdot.gov/about_us/privacy_security.htm) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
