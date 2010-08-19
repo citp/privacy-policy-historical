@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the supergreenhosting.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619195345id_/http%3A//www.supergreenhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supergreenhosting.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819153709id_/http%3A//www.supergreenhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Super Green Hosting
 
-This is the web site of Super Green Hosting Limited. (supergreenhosting.com)
+This is the web site of Super Green Hosting. (supergreenhosting.com)
 
 For legal and privacy issues, our UK address is:  
 Super Green Hosting.  
