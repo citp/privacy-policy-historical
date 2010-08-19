@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamemew.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527195828id_/http%3A//www.gamemew.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamemew.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819162032id_/http%3A//www.gamemew.com/Privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY--www.gamemew.com
 
