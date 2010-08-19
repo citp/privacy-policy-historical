@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondspin.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130193637id_/http%3A//www.secondspin.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondspin.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819123139id_/http%3A//www.secondspin.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # SecondSpin.com
 
@@ -16,8 +16,8 @@ We reserve the right to refuse service, terminate accounts or cancel orders at o
 
 Trans World Entertainmenet Corporation  
 Attn: SecondSpin.com  
-2230 E. Carson Street  
-Carson, CA 90810  
+900 N. Rohlwing Rd.  
+Itasca, IL 60143  
 [customerservice@secondspin.com](mailto:customerservice@secondspin.com)
 
 **SecondSpin.com's Personal Information Gathering Practices**
