@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrorcx.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612083443id_/http%3A//www.nitrorcx.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrorcx.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819024501id_/http%3A//www.nitrorcx.com/privacypolicy.html) for the most accurate reproduction.*
 
 # NitroRCX.com - Lowest Price for the Newest Nitro RC Cars, Gas RC Buggies and Trucks - Brushless Electric & Nitro Gas Powered RC
 
