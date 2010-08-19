@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mashape.com privacy policy that was archived on 2010-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615060555id_/http%3A//mashape.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mashape.com privacy policy that was archived on 2010-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100819092004id_/http%3A//mashape.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 		<title>Mashape | Privacy</title> 
@@ -10,60 +10,59 @@
 
 
 
-<meta name="description" content="A Dead Simple Mashup Engine that enables people to create and spread new apps by assembling parts of different programs and services">
+<meta name="description" content="Platform for a rapid development of small apps, mashups, toy apps, business apps, widgets, OSS projects, and prototyping. Create, combine and publish instantly!">
 <meta name="keywords" content="apps creation, development platform, platform as a service, paas,saas, software as a service, cloud computing, free cloud computing, apps creation as a service, mashup, mashup engine, web application, web applications, web app, web apps, applications, application, app, apps, free cloud, php, ruby, python, fast development environment, software interoperability, oss, open source, rapid software creation, fast software creation, rapid deployment, fast integration environment, web development platform, fast import, third party applications, developers, API, services, market place">
 <meta name="author" content="Mashape Inc.">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <script type="text/javascript">
 	var BASE_URL = "";
 </script>
-<script type="text/javascript" src="/js/lib/jquery-1.4.1.min.js"></script>
+
+<!-- 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src=" http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
+ -->
+
+<script type="text/javascript" src="/js/lib/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/js/lib/jquery-ui-1.8.4.custom.min.js"></script>
+
 <script type="text/javascript" src="/js/logo.js"></script>
-<script type="text/javascript" src="/js/subheader.js"></script>
 <script type="text/javascript" src="/js/base.js"></script>
+<script type="text/javascript" src="/js/queryString.js"></script>
 <script type="text/javascript" src="/js/lib/jquery.simplemodal-1.3.3.min.js"></script>
-<script type="text/javascript" src="/js/lib/jquery-ui-1.8rc1.custom.min.js"></script>
-<script type="text/javascript" src="/js/lib/jquery-autocomplete/lib/jquery.bgiframe.min.js"></script>
-<script type="text/javascript" src="/js/lib/jquery-autocomplete/jquery.autocomplete.min.js"></script>
 <script type="text/javascript" src="/js/lib/jquery.filestyle.js"></script>
+<script type="text/javascript" src="/js/lib/jquery.cookie.js"></script>
 <script type="text/javascript" src="/js/lib/jquery.cycle.all.min.js"></script>
 <script type="text/javascript" src="/js/modal.js"></script>
 <script type="text/javascript" src="/js/account/menu-account.js"></script>
 <script type="text/javascript" src="/js/lib/jquery.hoverIntent.min.js"></script>
+<script type="text/javascript" src="/js/lib/jquery.codabubble.js"></script>
 <link rel="stylesheet" href="/css/main.css" type="text/css">
 <link rel="stylesheet" href="/css/lib/jquery-ui/jquery-ui-1.8rc1.custom.css" type="text/css">
 <link rel="stylesheet" href="/css/lib/autocomplete/jquery.autocomplete.css" type="text/css">
-
+<link rel="stylesheet" href="/css/lib/coda-bubble/bubble.css" type="text/css">
 <link rel="shortcut icon" href="/images/favicon.ico">
 
+<!--[if IE]>
+	<link rel="stylesheet" href="/css/ie.css" type="text/css" />
+<![endif]-->
+
 <script type="text/javascript">
-
-
-function searchAlpha() {
-	if(isAlphaQuery($('#search-bar').val())) {
-		return true;
-	}
-	$(".modal").html('<div class="title"><span>Oops!</span></div>' +
-			'<div class="content" style=\"text-align:center\"><span class="text">' +
-			' This query is not allowed to unlogged visitors!<br/><br/>' +
-			' Try with the suggested query or <a href="#" class="js-link" onclick="getAlphaInvite();return false;">get an alpha invite</a></span></div>');
-	
-	showModal();
-	return false;
-}
-
-function isAlphaQuery(query) {
-	queryT = /.*travel.*/;
-	queryG = /.*google\ maps.*/;
-	queryF = /.*flickr.*/;
-	return queryT.test(query) && 
-		queryG.test(query) && 
-		queryF.test(query);
-}
- 
-
-
-
+	$(document).ready(function() {
+		$(function(){
+			   opts = {
+			      distances : [0],
+			      leftShifts : [-80],
+			      bubbleTimes : [400],
+			      hideDelays : [0],
+			      bubbleWidths : [200],
+			      bubbleImagesPath : BASE_URL +"/css/lib/coda-bubble/images/skins/classic",
+			      msieFix : true
+			   };
+			   $('.coda_bubble').codaBubble(opts);
+			});
+	});
 </script>
 		<link rel="stylesheet" href="/css/footer-pages/footer-pages-components.css" type="text/css">
 	<script src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
@@ -81,9 +80,9 @@ function isAlphaQuery(query) {
 
 <div class="logo"></div>
 <div class="links">
-<ul>
+
+<ul style="float:left;">
 	
-	
 
 
 
@@ -92,24 +91,24 @@ function isAlphaQuery(query) {
 
 
 
-<li id="menu-tour">
-	<a href="/tour/">Tour</a>
-</li>
-
-<li id="menu-search">
-	<a href="/search/?devmode=false">Search</a>
+<li id="menu-howitworks">
+	<a href="/howitworks/">How It Works</a>
 </li>
 
 <li id="menu-explore">
-	<a class="js-link" onclick="exploreAlpha()">Explore</a>
+	
+	
+	
+		<a href="#" onclick="getAlphaInvite()">Explore</a>
+	
 </li>
 
-<li>
+<li id="menu-developer">
 	<a target="_blank" href="http://developer.mashape.com">Developer</a>
 </li>
 
 <li id="menu-help">
-	<a href="/help/">Help</a>
+	<a href="/faq/">FAQ</a>
 </li>
 
 <script type="text/javascript">
@@ -119,7 +118,8 @@ function isAlphaQuery(query) {
 	});
 
 </script>
-	<li class="separator"></li>
+</ul>
+<ul style="float:right;">
 	
 
 
@@ -129,7 +129,7 @@ function isAlphaQuery(query) {
 
 
 
-	<li class="button"><a id="signup" href="#"><img src="/images/sign-up.png"></a></li>
+	<li class="button"><a id="signup" href="#">Sign Up</a></li>
 	<li><a id="login" href="#">Login</a></li>
 
 
@@ -165,8 +165,13 @@ function isAlphaQuery(query) {
 </script>
 
 <div class="subheader">
+	<!--[if IE]>
+	<img src="/images/icons/warning20x20.png" /> 
+	<b class="content">If you're using Internet Explorer you may experience some difficulties. We're working to fix it, sorry! :)</b>
+	<br /><br />
+	<![endif]-->
 	<img src="/images/icons/feedback20x20.png"> 
-	<a href="#" onclick="UserVoice.Popin.show(uservoiceOptions); return false;"><b>If you're stuck somewhere or you feel to give us a feedback, we would be happy! Please click here.</b></a>
+	<a class="content" href="#" onclick="UserVoice.Popin.show(uservoiceOptions); return false;"><b>If you're stuck somewhere or you feel to give us a feedback, we would be happy! Please click here.</b></a>
 </div>
 				</div>
 			</div>
@@ -350,21 +355,21 @@ function isAlphaQuery(query) {
 			</div>
 			<div id="layout-footer" class="clearfix">
 	        	<div id="social-networks">
-	<a href="http://www.facebook.com/pages/Mashape/196706675453">
+	<a href="http://www.facebook.com/pages/Mashape/196706675453" target="_blank">
 		<img src="/images/home/facebook-logo.png">&nbsp;
 	</a>
-	<a href="http://twitter.com/mashape">
+	<a href="http://twitter.com/mashape" target="_blank">
 		<img src="/images/home/twitter-logo.png">
 	</a>
 </div>
 
 <ul>
 	<li class="footer-link"><a href="/about">ABOUT</a></li>
-	<li class="footer-link"><a href="http://developer.mashape.com/">DEVELOPER</a></li>
+	<li class="footer-link"><a target="_blank" href="http://developer.mashape.com/">DEVELOPER</a></li>
 	<li class="footer-link"><a href="/privacy">PRIVACY</a></li>
 	<li class="footer-link"><a href="/tos">TERMS</a></li>
-	<li class="footer-link"><a href="http://blog.mashape.com">BLOG</a></li>
-	<li class="footer-link"><a href="/help/">HELP</a></li>
+	<li class="footer-link"><a target="_blank" href="http://blog.mashape.com">BLOG</a></li>
+	<li class="footer-link"><a href="/faq/">FAQ</a></li>
 	<li class="footer-link"><a href="/contact">CONTACT</a></li>
 </ul>
 
