@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dolidoli.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617124146id_/http%3A//www.dolidoli.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolidoli.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819120404id_/http%3A//www.dolidoli.com/privacy-policy.html) for the most accurate reproduction.*
 
-# DoliDoli
+# Girl Games Online - Doli Doli Games
 
 DoliDoli.com Privacy Policy  
 We respect the privacy concerns of visitors to DoliDoli.com. Here are a few details about the information we collect and how we use it  
