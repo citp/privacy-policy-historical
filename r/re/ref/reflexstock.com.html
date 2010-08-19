@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reflexstock.com privacy policy that was archived on 2010-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100505044341id_/http%3A//www.reflexstock.com/page/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reflexstock.com privacy policy that was archived on 2010-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100819113608id_/http%3A//www.reflexstock.com/page/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Stock Photos privacy policy, Royalty Free Images &amp; Rights Managed Stock Photography | Reflex Stock </title> <meta name="description" content="Stock photography and royalty free images. Search 12 million royalty free stock images, photos and footage. Download stock photography. Purchase royalty free stock photos and rights managed images from reflex stock.">
@@ -7,7 +7,6 @@
 <meta name="language" content="en">
 <meta name="google-site-verification" content="eNE2uU7nz5S5u9iHPm_m3267lolukINMew8JtCgQrxw">
 <meta name="y_key" content="730b4f3536c1282d">
-<meta name="googlebot" content="NOODP,NOYDIR">
 <meta name="distribution" content="global">
 <meta name="rating" content="General">
 <meta name="ABSTRACT" content="Stock Photos, illustrations and stock photography all in one image library. With the largest collection of royalty free, subscription, microstock and rights managed stock photos and images.">
@@ -19,15 +18,125 @@
 <link href="Reflexstock/inc/default.css" type="text/css" rel="stylesheet">
 <link rel="shortcut icon" href="Reflexstock/img/backgrounds/favicon.ico">
 
-	<script language="javascript" src="Reflexstock/inc/reflexstock.js" type="text/javascript"></script>
 
 
-<script src="http://www.reflexstock.com/_snippets/jquery-1.3.2.min.js" type="text/javascript"></script>
 
-	<script src="http://www.reflexstock.com/Reflexstock/inc/slide.js" type="text/javascript"></script>
+<!-- BEGIN all JS -->
+<script src="http://www.reflexstock.com/_snippets/jquery-1.3.2.min.js" type="text/javascript"></script> <script src="http://www.reflexstock.com/Reflexstock/inc/slide.js" type="text/javascript"></script> <script src="http://www.reflexstock.com/Reflexstock/inc/domtab/domtab.js" type="text/javascript"></script> <script src="popupscript.js" type="text/javascript"></script> <script language="javascript" src="http://www.reflexstock.com/Reflexstock/inc/reflexstock.js" type="text/javascript"></script> <script language="javascript" src="http://www.reflexstock.com/Reflexstock/inc/reflexstockJs.cfm?currentpage.alias=&amp;currentpage.template=Default.cfm&amp;lang=en&amp;settings.baseurl=www.reflexstock.com&amp;projectname=Reflexstock" type="text/javascript"></script> 
+<script language="javascript" type="text/javascript">
+var suppliers = new Array(); // don't change this
 
-<script src="http://www.reflexstock.com/Reflexstock/inc/domtab/domtab.js" type="text/javascript"></script>
-<script src="http://www.reflexstock.com/popupscript.js" type="text/javascript"></script>
+function only_editorial() {
+	if(document.getElementById("rf_checkbox").checked)
+	{
+		document.getElementById("doAllSupChecker").checked=false;
+		document.getElementById("use_modelfilter").value='1'
+	
+		for(x=0;x<document.searchForm.elements.length; x++)
+		{
+			if	(document.searchForm.elements[x].name=='brandlist')
+			{
+				var selRef  = document.getElementById("selRef");
+				for(i=0 ; i<selRef.options.length ; i++)
+					{
+						selRef.options[i].selected=false;
+						var currentvalue = selRef.options[i].value
+						for(z in suppliers)	
+							{
+							if (suppliers[z]==currentvalue)	
+								{
+									selRef.options[i].selected=true;
+								}
+							}
+					}
+			}
+		}
+	}
+	else {
+		document.getElementById("use_modelfilter").value=''
+		document.getElementById("alamy_mr").value=''
+		document.getElementById("doAllSupChecker").checked;
+		handleAllSup();		
+	}		
+}
+</script>
+<script language="javascript" src="http://www.reflexstock.com/Reflexstock/inc/SMSJS.cfm?currentpage.alias=&amp;currentpage.template=Default.cfm&amp;lang=en&amp;settings.baseurl=www.reflexstock.com&amp;projectname=Reflexstock" type="text/javascript"></script> 
+<script>
+	function checksupplierdiv(){
+		if (document.getElementById("allcollections").checked){
+		document.getElementById("supplier_div").style.display='none';
+//		document.getElementById("brandFilter").value=0;
+		
+		}
+		else{
+		document.getElementById("doAllSupChecker").checked;
+		handleAllSup_newstyle();
+		document.getElementById("supplier_div").style.display='block';
+//		document.getElementById("brandFilter").value=1;
+		}
+	}
+	
+	var suppliers = new Array(); // don't change this
+	
+	function only_editorial() {
+	f = document.searchForm;
+	document.getElementById("doAllSupChecker").checked=false;
+	document.getElementById("use_modelfilter").value='1'
+	document.getElementById("alamy_mr").value='1'
+
+	for(x=0 ; x<f.brandlist.length ; x++){
+	f.brandlist[x].checked=false;
+	}
+	for(x=0 ; x<f.brandlist.length ; x++){			
+	currentvalue = f.brandlist[x].value;					
+	for(z in suppliers)	
+				{
+				
+				if (suppliers[z]==currentvalue)	
+					{
+						f.brandlist[x].checked=true;
+						//selRef.options[i].selected=true;
+					}
+				else	 {
+					//alert('niet'+suppliers[z])
+					}	
+				}
+		}
+	}		
+	/*
+	else {
+		document.getElementById("use_modelfilter").value=''
+		document.getElementById("alamy_mr").value=''
+	
+		document.getElementById("doAllSupChecker").checked;
+		handleAllSup();
+		
+	}	
+	*/	
+	function handleAllSup_newstyle(){//triggered when clicking checkbox for all suppliers
+		f = document.searchForm;
+		allbrands = 1;
+		brandsToFilter='';
+		for(x=0 ; x<f.brandlist.length ; x++){
+			if(f.brandlist[x].checked==1){
+				brandsToFilter = brandsToFilter + f.brandlist[x].value + ',';
+			}
+			else{
+				allbrands = 0;
+			}
+		}
+		newval=allbrands==1?0:1;
+		for(x=0 ; x<f.brandlist.length ; x++){
+			f.brandlist[x].checked=newval;
+		}
+		f.doAllSup.checked = newval;	
+	}	
+
+</script>
+
+<!-- END all JS -->
+
+
 
 <style type="text/css">
 	@import "reflexstock/inc/domtab/domtab.css";
@@ -43,640 +152,6 @@
 	</style>
 <![endif]-->
 
-<script type="text/javascript">
-	document.write('<style type="text/css">');    
-	document.write('div.domtab div{display:none;}<');
-	document.write('/s'+'tyle>');    
-</script><style type="text/css">div.domtab div{display:none;}</style>
-
-
-	<script language="JavaScript">
-	
-	$(document).ready(function() {
-
-		var arr = new Array();
-		arr = document.getElementsByTagName( "IMG" );
-		for(var i=0; i < arr.length; i++){
-			var tagName = document.getElementsByTagName( "IMG" ).item(i).nodeName;
-			var tagObj = document.getElementsByTagName( "IMG" ).item(i);
-			if(tagObj.src != ''){
-				window['img' + i] = new Image();
-				window['img' + i].src = tagObj.src;
-			}
-		}
-	
-		var obj = new Array();
-		obj = document.getElementsByTagName( "*" );
-		for(var i=0; i < obj.length; i++){
-			var tagObj = document.getElementsByTagName( "*" ).item(i);
-			var bkimg;
-			if(tagObj.getAttribute('onmouseover') != null){
-				if(tagObj.getAttribute('onmouseover').toString().toLowerCase().indexOf('this.src') != '-1'){
-					classimg = tagObj.getAttribute('onmouseover').toString().toLowerCase().replace(/function anonymous\(\)/g, '');
-					classimg = classimg.replace(/function onmouseover\(\)/g, '');
-					classimg = classimg.replace(/(\r|\n)/g, "");
-					classimg = classimg.replace(/\{/g, '');
-					classimg = classimg.replace(/\}/g, '');
-					classimg = classimg.replace(/\"/g, '');
-					classimg = classimg.replace(/\'/g, '');
-					classimg = classimg.replace(/this\.src\=/g, '');
-					classimg = 'http://www.reflexstock.com/' + classimg;
-					//alert(classimg);
-					window['imgsrcover' + i] = new Image();
-					window['imgsrcover' + i].src = classimg;
-				}
-				if(tagObj.getAttribute('onmouseover').toString().toLowerCase().indexOf('this.classname') != '-1'){
-					classstr = tagObj.getAttribute('onmouseover').toString().toLowerCase().replace(/function anonymous\(\)/g, '');
-					classstr = classstr.replace(/function onmouseover\(\)/g, '');
-					classstr = classstr.replace(/(\r|\n)/g, "");
-					classstr = classstr.replace(/\{/g, '');
-					classstr = classstr.replace(/\}/g, '');
-					classstr = classstr.replace(/\"/g, '');
-					classstr = classstr.replace(/\'/g, '');
-					classstr = classstr.replace(/this\.classname\=/g, '');
-					classstr = getStyleClass(classstr).style.backgroundImage.replace(/url\(/g, '');
-					classstr = classstr.replace(/URL\(/g, '');
-					classstr = classstr.replace(/\)/g, '');
-					classstr = classstr.replace(/\"/g, '');
-					classstr = classstr.replace(/\'/g, '');
-					classstr = classstr.replace(/\.\./g, 'http://www.reflexstock.com/Reflexstock');
-					//alert(classstr);
-					window['imgclsover' + i] = new Image();
-					window['imgclsover' + i].src = classstr;
-				}
-			}
-			if(tagObj.currentStyle) {	//IE Opera 
-				bkimg = tagObj.currentStyle.backgroundImage; 
-			} else { //Firefox needs the full css code to work 
-				bkimg = getComputedStyle(tagObj,'').getPropertyValue('background-image'); 
-			} 
-			if(bkimg){
-				if(bkimg !== 'none'){
-					bckgrndimg = bkimg.replace(/url\(/g, '');
-					bckgrndimg = bckgrndimg.replace(/URL\(/g, '');
-					bckgrndimg = bckgrndimg.replace(/\)/g, '');
-					bckgrndimg = bckgrndimg.replace(/\"/g, '');
-					bckgrndimg = bckgrndimg.replace(/\'/g, '');
-					//alert(bckgrndimg);
-					window['imgbck' + i] = new Image();
-					window['imgbck' + i].src = bckgrndimg;
-				}
-			}
-			if(tagObj.getAttribute('compimgsrc') != null){
-				if(tagObj.getAttribute('compimgsrc') != ''){
-					zoomimg = tagObj.getAttribute('compimgsrc');
-					//alert("imgzoom"+i+"='"+tagObj.getAttribute('compimgsrc'));
-					// soort vaan img http request moet het plaatje nog terug kunnen krijgen
-					window['imgzoom' + i] = new Image();
-					window['imgzoom' + i].src = zoomimg;
-				}
-			}
-		}
-		//Manual added images
-		//var imgbcksub = new Image();
-		//imgbcksub.src = 'logo.jpg';
-	});
-	
-	//get a style from the stylesheet
-	function getStyleClass (className) { 
-		if (document.styleSheets.length < 1) { 
-			return null; 
-		} 
-		if (document.styleSheets[0].cssRules) { 
-			var cssRules = 'cssRules'; 
-		} else { 
-			var cssRules = 'rules'; 
-		} 
-		for (var s = 0; s < document.styleSheets.length; s++) { 
-			for (var r = 0; r < document.styleSheets[s][cssRules].length; r++) { 
-				if (document.styleSheets[s][cssRules][r].selectorText == '.' + className) { 
-					return document.styleSheets[s][cssRules][r]; 
-				} 
-			} 
-		} 
-		return null; 
-	} 
-	
-	
-	var advSearchIsOpen = 0;
-	
-	//bookmark function
-	function bookmark(url, description)
-	{
-	netscape="Netscape User's hit CTRL+D to add a bookmark to this site."
-	if (navigator.appName=='Microsoft Internet Explorer')
-	{
-	window.external.AddFavorite(url, description);
-	}
-	else if (navigator.appName=='Netscape')
-	{
-	alert(netscape);
-	}
-	}
-	
-	function showHelp(){
-		theref = 'http:\/\/www.reflexstock.com/index.cfm?/Downloadproblems_en';
-		opts = 'width = ' + (screen.availWidth - 50) + ', height = ' + (screen.availHeight - 100) + ', resizable, status=yes, left=10, top=10, X=10, Y=10 scrollbars';
-		helpwin = window.open(theref, 'helpwin', opts);
-		helpwin.focus();
-	}
-	
-	function putImg(imgid, puttype, arttype, extIntCode, xtra){//put image into lightbox or shoppingbasket
-
-		extIntCode = (extIntCode==null)?0:extIntCode;
-		if(puttype=='1'){//lighbox
-			
-				alert("You need to be logged in in order to use lightboxes.");
-			
-		}
-		else{//add to basket
-			location = 'http:\/\/www.reflexstock.com/index.cfm?/basket_en&basketact=add&basketid='+imgid+'&baskettype='+arttype+'&extIntCode='+extIntCode+'&'+xtra;
-		}
-	}
-	
-	
-	function downloadCreditimage(imgid, extIntCode, size){//put image into lightbox or shoppingbasket		
-		extIntCode = (extIntCode==null)?0:extIntCode;
-		
-		
-			//alert("You need to be logged in to download images");
-			//location = 'index.cfm?/Login_en&followalias=&imgid='+imgid+'&extIntCode='+extIntCode;
-			showLogin();
-		
-	}
-	//shoppingbasket functions
-	function removeImg(imgid, puttype, arttype){
-		if(puttype==2)
-			location = 'index.cfm?/basket_en&basketact=remove&basketid='+imgid+'&baskettype='+arttype;
-	}
-	
-	function recalcPrice(){//called from basket upon changing the size of an image
-		document.basketform.submit();
-	}
-	
-	function calcprice(idx, imgid, extintcode){
-		opts = 'width=550, height=600, scrollbars=1, resizable';
-		theurl = 'http:\/\/www.reflexstock.com/_snippets/SMS/priceCalculator/index.cfm?bidx='+idx+'&imgid='+imgid+'&extintcode='+extintcode;
-		calcwin = window.open(theurl, 'calcwin', opts);
-		calcwin.focus();
-	}
-	
-	function confirmOrder(){
-		if(checkOrder()){
-			document.basketform.subact.value = 'confirm';
-			document.basketform.submit();
-		}
-	}
-	
-	function checkOrder(){
-		if(document.basketform.rmimagelist.value!=''){
-			rm_a = document.basketform.rmimagelist.value.split(",");
-			for(x=0;x<rm_a.length;x++){
-				if(document.basketform.elements['rmprice_'+rm_a[x]].value=='0'){
-					alert("You have not performed a price calculation for every rights managed image yet.");//You haven\'t calculated a price for all rights managed images yet.
-					return false;			
-				}
-			}
-		}
-		return true;
-	}
-	
-	imgclicked = 0;
-	function noContext(tp){
-		if(tp=='img'){
-			//do nothing, it's ok
-			imgclicked = 1;
-		}
-		else{
-			if(imgclicked==1)
-				imgclicked = 0;
-			else
-				return false;
-		}
-	}
-	
-	
-	//=============================== Form handling functions ==========================================
-	function checkformOnSubmit(frmname){
-		cd = getFormCheckData(frmname);
-		
-		for(x=0;x<cd.length;x++){
-			checker = getChecker(cd[x]);
-			check_a = checker.check_a;
-			for(c=0;c<check_a.length;c++){
-				chkRes = checkFldOnSubmit(frmname, fn, ft, check_a[c]);
-				if(chkRes != 'ok'){
-					alert(chkRes);
-					document.forms[frmname].elements[fn].focus();
-					window.returnValue = false;
-					return false;
-				}
-			}
-		}
-	}
-	
-	function checkFormFldChange(frmname, fldname, act){
-		cd = getFormCheckData(frmname);
-		for(x=0;x<cd.length;x++){
-			checker = getChecker(cd[x]);
-			if(checker.fn==fldname){
-				check_a = checker.check_a;
-				for(c=0;c<check_a.length;c++){
-					chkRes = checkFldOnChange(frmname, fn, ft, check_a[c]);
-					if(chkRes != 'ok'){
-						alert(chkRes);
-						document.forms[frmname].elements[fn].focus();
-						window.returnValue = false;
-						return false;
-					}
-				}
-				//fld.focus();
-				return true;
-			}		
-		}
-	}
-	
-	function getFormCheckData(frmname){
-		if(typeof(document.forms[frmname].formCheckData) != 'undefined'){
-			cd = document.forms[frmname].formCheckData.value;
-			cd_a = cd.split(';');
-			return cd_a;
-		}
-		else{
-			return new Array();
-		}
-	}
-	
-	function getChecker(ck){
-		chk = cd[x].indexOf('_CK:')!=-1?cd[x].substring(cd[x].indexOf('_CK:')+4, cd[x].length):'';
-		ft = '';
-		fn = '';
-		if(chk != ''){
-			ft = cd[x].indexOf('_FT:')!=-1?cd[x].substring(cd[x].indexOf('_FT:')+4,cd[x].indexOf('_CK:')):'';
-		}
-		if(( chk != '') && (ft != '')){
-			fn = cd[x].indexOf('_FN:')!=-1?cd[x].substring(cd[x].indexOf('_FN:')+4,cd[x].indexOf('_FT:')):'';
-		}
-		ret = new Object();
-		ret.check_a = chk.toLowerCase().split(',');
-		ret.ft = ft.toLowerCase();
-		ret.fn = fn;
-		return ret;
-	}
-	
-	function checkFldOnSubmit(frmname, fldname, fldtype, check){
-		fld = document.forms[frmname].elements[fldname];
-		switch(check) {		
-			case 'mandatory':
-				if((typeof(fld.tagName)!='undefined')&&(fld.tagName=='INPUT')){				
-					if(fldtype=='checkbox'){
-						if(!fld.checked){
-							msg = 'b.1';
-							return msg;
-						}
-					}
-					else if(fld.value==''){
-						msg = 'You did not enter all mandatory fields. \nFields with a * are mandatory.';
-						return msg;
-					}				
-				}
-				break;
-			case 'copytext':
-				ae_editsourceinline(1, false);//first put back on normal view in case of HTML view.
-				theTxt = DHTMLSafe.DOM.body.innerText;
-				document.forms[frmname].elements['HTMLtext_retainer_'+fldname].value = theTxt;
-				break;
-			case 'email':
-				val = fld.value;
-				if( (val!='') && ( (val.length<8) || (val.indexOf('@')<2) || (val.indexOf('@')>val.lastIndexOf('.')) || (val.lastIndexOf('.')>val.length-3))){
-					msg = "The email address you entered is invalid.";
-					return msg;
-				}
-				break;
-			case 'bankaccount':
-				val = fld.value;
-				if(val.substring(0,1).toLowerCase() != 'p'){
-					gotall=0;
-					pos=0;
-					cntpos=0;
-					total=0;
-					do{
-						thenum = val.substring(pos, pos+1);
-						if(thenum!='.'){
-							thenum = parseInt(thenum);
-							multiplier = 9-cntpos;
-							theval = thenum * multiplier;
-							total = total + theval;
-							cntpos++;
-						}
-						pos++;
-					}
-					while( (cntpos<9) && (pos < val.length))
-					
-					if( (total%11!=0) || (cntpos!=9) ){
-						msg = 'The entered bankaccountnumber is invalid.';
-						return msg;
-					}				
-				}
-				break;
-		}	
-		if(fldtype=='date'){
-			//check valid dates		
-			val = fld.value;
-			if(val!=''){
-				dv = val.substring(0,2);
-				mv = val.substring(3,5);
-				yv = val.substring(6,10);
-				
-				days_a=(new String("31,28,31,30,31,30,31,31,30,31,30,31")).split(',');
-				
-				if(mv<1 || mv>12){
-					msg = 'The entered date is invalid.';
-					return msg;
-				}
-				maxday=((yv%4==0)&(mv==2))?29:days_a[mv-1];
-				dv = parseInt(dv);
-				maxday = parseInt(maxday);					
-				if(dv<1 || dv>maxday){
-					msg = 'The entered date is invalid.';
-					return msg;
-				}
-			}
-		}
-		return 'ok';
-	}
-		
-	function checkFldOnChange(frmname, fldname, fldtype, check){
-		fld = document.forms[frmname].elements[fldname];	
-		switch(fldtype.toLowerCase()) {		
-			case 'date':
-				if(fld.value!=''){		
-					val = fld.value;
-					newval = '';
-					q=0;
-					do{
-						chr = val.substring(q,q+1);
-						RE = "0,1,2,3,4,5,6,7,8,9,-";
-						res = RE.indexOf(chr);
-						if(res!=-1){
-							if((q==1)&&(chr=='-')){
-								val = '0' + val;
-								newval = '0' + newval;
-								q++;
-							}
-							if((q==2)&&(chr!='-')){
-								val = '-' + val;
-								newval = newval + '-';
-								q++;
-							}
-							if((q==4)&&(chr=='-')){
-								val = '0' + val;
-								newval = newval.substring(0,3) + '0' + newval.substring(3,4);
-								q++;
-							}
-							if((q==5)&&(chr!='-')){
-								val = '-' + val;
-								newval = newval + '-';
-								q++;
-							}						
-							if( ((chr=='-') && ((q==2) || (q==5))) || (chr!='-')){
-								newval += chr;
-							}
-						}
-						q++;					
-					}
-					while(q<val.length&&q<10)
-	
-					fld.value = newval;
-				}
-				break;
-			case '':
-				break;
-		}
-		if(check.indexOf('maxlength') ==0){
-			if(check.indexOf('=') != -1){
-				ml = check.substring(check.indexOf('=')+1, check.length);
-				if(fld.value.length > parseInt(ml)){
-					fld.value = fld.value.substring(0, ml);
-				}
-			}
-		}
-		else if(check=='reloadonchange'){
-			formReload(frmname);
-		}
-		else if(check=='alias'){
-			newval = '';
-			for(q=0;q<fld.value.length;q++){
-				chr = fld.value.substring(q,q+1);
-				RE = /[^\w|\s|\0,9]/i;	// at least one non word character
-				res = chr.match(RE);
-				//alert('res op match('+chr+') is '+res);
-				if((res==null)&&(chr!=' ')){
-					newval += chr;
-				}
-			}
-			fld.value = newval;
-		}	
-		return 'ok';
-	}
-	
-	function checkDate(frmname, fldname){
-		checkFldOnChange(frmname, fldname, 'date', 'date');
-		
-		fld = document.forms[frmname].elements[fldname];
-		val = fld.value;
-		if((val.length!=10)&&(val.length!=0)){
-			if(val.split('-').length==3){
-				//autocorrect yyyy value
-				if(val.length>6){
-					yyyy = parseInt(val.substring(6,val.length));
-					if(yyyy<40){
-						yyyy = 2000 + yyyy;
-					}
-					else if((yyyy>39) && (yyyy<100)){
-						yyyy = 1900 + yyyy
-					}
-					else if(yyyy>99){
-						yyyy = 1800 + yyyy;
-					}
-					else{
-						alert("The entered date is invalid.");
-						fld.focus();
-						window.returnValue = false;
-						return false;					
-					}				
-				}
-				else{
-					yyyy = new Date().getYear();
-				}
-				fld.value = fld.value.substring(0,6) + yyyy;
-			}
-			else{
-				alert("The entered date is invalid.");
-				fld.focus();
-				window.returnValue = false;
-				return false;					
-			}
-		}
-		if(val.length!=0){
-			if(val.split('-').length==3){
-				//verify correct input
-				val = fld.value;
-				dv = val.substring(0,2);
-				mv = val.substring(3,5);
-				yv = val.substring(6,val.length);
-				
-				days_a=(new String("31,28,31,30,31,30,31,31,30,31,30,31")).split(',');
-				
-				if(mv<1 || mv>12)
-				{
-					alert("The entered date is invalid.");
-					fld.focus();
-					window.returnValue = false;
-					return false;	
-				}
-				maxday=((yv%4==0)&(mv==2))?29:days_a[mv-1];
-				dv = parseInt(dv);
-				maxday = parseInt(maxday);					
-				if(dv<1 || dv>maxday)
-				{
-					alert("The entered date is invalid.");
-					fld.focus();
-					window.returnValue = false;
-					return false;	
-				}
-			}
-			else{
-				alert("The entered date is invalid.");
-				fld.focus();
-				window.returnValue = false;
-				return false;					
-			}
-		}
-	}
-	
-	function doMaxrows(){
-		noRows = document.searchInRes.maxrows.options[document.searchInRes.maxrows.options.selectedIndex].value;
-		document.searchForm.maxros.value = noRows;
-		if(checkSearchForm)
-			document.searchForm.submit();
-	}
-	
-	function doThdir(sel){
-		document.searchForm.thdir.value = sel.options[sel.options.selectedIndex].value;
-		document.searchForm.startpos.value = '1';
-		if(checkSearchForm)
-			document.searchForm.submit();
-	}
-	
-	function hiresdownload(imgid,extintcode){
-		opts = 'width=550, height=600, resizable, status=yes, scrollbars=yes';
-		theurl = 'http:\/\/www.reflexstock.com/index.cfm?/hiresdownload&imguuid='+imgid+'&extIntCode='+extintcode;
-	
-		xlcompwin = window.open(theurl, 'xlcompwin', opts);
-		xlcompwin.focus();
-
-	}
-	
-	function hideadvanced(todo){
-		todo2='none';
-		
-		if (todo=='none'){ // hide
-			todo2='block';
-			advSearchIsOpen = 0;
-			document.getElementById("showlink").style.display='block';
-			document.getElementById("adv_search_lnk_2").style.display='none';
-			document.getElementById("refine_holder").style.display='none';
-			document.getElementById("advanced_search_tracker").value='0';		
-			document.getElementById("searchShowAdvanced").value='0';
-			document.getElementById("mustcontain").value='';
-			
-			document.getElementById("orientation").checked = 'checked';
-			document.getElementById("people").checked = 'checked';
-			document.getElementById("viewpoint").checked = 'checked';
-			document.getElementById("allcollections").checked = 'checked';
-			document.getElementById("supplier_div").style.display='none';
-			document.getElementById("color").checked = 'checked';
-
-			document.getElementById("ethnicity").checked = 'checked';
-			document.getElementById("mrfilter").checked = 'checked';
-			document.getElementById("copyspace").checked = 'checked';
-						
-			
-			
-		}
-		else {
-			advSearchIsOpen = 1;
-			document.getElementById("refine_holder").style.display='block';
-			document.getElementById("nav_user").style.clear='none';
-			document.getElementById("advanced_formx").style.display='block';
-			document.getElementById("showlink").style.display='none'; 
-			document.getElementById("adv_search").style.display='none';
-			document.getElementById("advanced_search_tracker").value='1';
-			document.getElementById("searchShowAdvanced").value='1';
-			document.getElementById("adv_search_lnk_2").style.display='block';
-		}
-		
-		if (document.getElementById("srch_middle_holder") !=null){
-			document.getElementById("adv_search").style.display=todo;
-			if (document.getElementById("dropper") !=null){
-				document.getElementById("dropper").style.display=todo2;
-			}
-	
-			if (todo=='none'){
-
-				document.getElementById("compIframe2").src='http:\/\/www.reflexstock.com/reflexstock/scripts/setadvancedsearch.cfm?show=none';
-			}
-			else {
-				
-				document.getElementById("compIframe2").src='http:\/\/www.reflexstock.com/reflexstock/scripts/setadvancedsearch.cfm?show=block';
-				if (document.getElementById("showadvancedlink2")!=null){
-					document.getElementById("showadvancedlink2").style.display='none'
-				}
-			}
-		}
-	}
-	
-	function chkAdvFeaturesUsed(){
-		f = document.Searchform;
-		if(!f.orientation[0].checked)
-			return 1;
-			
-		else if(!f.color[0].checked)
-			return 1;
-			
-		else if(!f.people[0].checked)
-			return 1;
-			
-		else if(!f.ethnicity[0].checked)
-			return 1;
-		
-		
-	}
-	
-	function resetAdvFeatures(){
-		
-	}
-
-	function setCur(cur){
-		document.userCountryForm.usercountry.options[cur].selected = 1;
-		document.userCountryForm.submit();
-	}
-	
-	function setCurid(curid){
-		location = 'index.cfm?dynURLmode=page&page=privacy-policy&clearImEx=1&usercountry='+curid;
-	}
-	
-	function buyCredits(noCredits){
-		noCredits = noCredits==null?0:noCredits;
-		
-		opts = 'width=500,height=570,status=1,resizable,scrollbars';
-		href = 'http://www.reflexstock.com/Reflexstock/scripts/buycredits/index.cfm?cp=03C30FEE-1D09-6D43-CB1021EF6E8EEFE2&nocredits='+noCredits;
-		creditwin = window.open(href, 'creditwin', opts);
-		creditwin.focus();
-	}
-	</script>
-
 
 </head>
 <body>
@@ -685,190 +160,39 @@
     	
 	
 	<div class="logo_nav">
-		<div class="logo_click" onclick="location='http://www.reflexstock.com'" title="Stock Photography: Photographs, Images, Illustrations, Video, Royalty Free &amp; Rights Managed from Reflex Stock" style="cursor: hand;">
+		<div class="logo_click" onclick="location='http://www.reflexstock.com'" title="Stock Photography: License Stock Photos, stock images &amp; illustrations from Reflex Stock" style="cursor: hand;">
 			<div class="top_logo_mid">
-				<h2 style="font-family: 'trebuchet ms', verdana, arial; font-size: 9pt; font-weight: bold; font-style:italic;">Stock Photography: Royalty Free Stock Photos and Rights Managed Images</h2>
-				<font style="font-family: 'trebuchet ms', verdana, arial; font-size:10px; font-weight: bold; color:#7E7E7E;">Stock photography to suit all budgets. Search stock images &amp; photos by price!</font> <br>
-				<p style="font-family: 'trebuchet ms', verdana, arial; font-size:10px; color:#7E7E7E; padding-top:5px;">
+				<h2 style="font-family: 'trebuchet ms', verdana, arial; font-size: 10pt; font-weight: bold; font-style:italic; margin-top:10px;">Stock Photos: License Stock Photography, stock images &amp; illustrations</h2>
+				<p style="font-family: 'trebuchet ms', verdana, arial; font-size:12px; color:#7E7E7E; padding-top:5px;">
 					Featured: 
 					
-						<a href="http://www.reflexstock.com/cd/52254/Featured-Royalty-Free-CD.html" style="font-size:10px; color:#7E7E7E; font-weight:normal; text-decoration:underline">Royalty Free CD</a> | 
+						<a href="http://www.reflexstock.com/cd/53157/Featured-Royalty-Free-CD.html" title="Featured Royalty Free CD" style="font-size:11px; color:#3b97f3; font-weight:normal; text-decoration:underline">Royalty Free CD</a> | 
 					
-						<a href="http://www.reflexstock.com/featured-supplier/Corbis/Featured-Stock-Photo-Collection.html" style="font-size:10px; color:#7E7E7E; font-weight:normal; text-decoration:underline">Stock Photo Collection</a> | 
+					<a href="http://www.reflexstock.com/page/cdstore.html" title="Go to Royalty Free CD Store" style="font-size:11px; color:#3b97f3; font-weight:normal; text-decoration:underline">CD Store</a> |
+					<a href="http://www.reflexstock.com/page/sitemap.html" title="Stock Photography Sitemap" style="font-size:11px; color:#3b97f3; font-weight:normal; text-decoration:underline">Sitemap</a> 
 					
-					<a href="http://www.reflexstock.com/page/sitemap.html" style="font-size:10px; color:#7E7E7E; font-weight:normal; text-decoration:underline">Sitemap</a> | 
-					<a href="http://www.reflexstock.com/page/cdstore.html" style="font-size:10px; color:#7E7E7E; font-weight:normal; text-decoration:underline">CD Store</a>
 				</p>
 			</div>
 		</div>
 		<div class="logo_nav_right">
 				<div style="padding: 0px 0px 30px 0px"> 
-<script language="JavaScript" type="text/javascript">
-<!--
-var listisopen = 0;
-function showcountries(){
 
-}
-
-$(document).ready(function(){
-	$("#countryseldown").click(function(){
-		$("#countryselectorlist").slideToggle(300);
-	});
-});
-//-->
-</script>
 
 <div class="countryselector">
 	<table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 	
-		<td class="selcountrytxt">Please select country:</td>
-	
 	
 	<td class="selcountryflag"><img src="Reflexstock/img/united-states-USA.jpg" border="0" title="USD"></td>
 	<td class="selcountrycode"><div class="selcountrycodebox">USD</div></td>
 	
-		<td class="selcountrybtn"><a href="javascript:showcountries()" id="countryseldown"><img src="Reflexstock/img/backgrounds/countryseldown.jpg" border="0"></a></td>
 	
 	</tr>
 	</tbody></table>
 </div>
 
 
-		<div id="countryselectorlist" class="countryselectorlist" style="display: none;">
-		<table>
-		
-			<tbody><tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:4CCB7863-3D19-45CA-AC19B15E3B61CC16" rel="nofollow"><img src="Reflexstock/img/united-kingdom-GBR.jpg" border="0" title="GBP"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:4CCB7863-3D19-45CA-AC19B15E3B61CC16" rel="nofollow">GBP</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:55C53F57-4586-4115-B24607324D340731" rel="nofollow"><img src="Reflexstock/img/united-states-USA.jpg" border="0" title="USD"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:55C53F57-4586-4115-B24607324D340731" rel="nofollow">USD</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:5D4C20C0-7912-479D-A918DF268AE57D65" rel="nofollow"><img src="Reflexstock/img/canada-CAN.jpg" border="0" title="CAN"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:5D4C20C0-7912-479D-A918DF268AE57D65" rel="nofollow">CAN</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:7967B45F-2BB0-4CE7-8A0E29E302EAE4DE" rel="nofollow"><img src="Reflexstock/img/European_Union-_E.U.jpg" border="0" title="EUR"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:7967B45F-2BB0-4CE7-8A0E29E302EAE4DE" rel="nofollow">EUR</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:0E50B6DC-DF4A-4AB0-B3441F8D52F2C5D5" rel="nofollow"><img src="Reflexstock/img/germany-DEU1.jpg" border="0" title="DEU"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:0E50B6DC-DF4A-4AB0-B3441F8D52F2C5D5" rel="nofollow">DEU</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:023CA222-B02F-4195-A601A5682635DF94" rel="nofollow"><img src="Reflexstock/img/Ireland-_IRL.jpg" border="0" title="IRL"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:023CA222-B02F-4195-A601A5682635DF94" rel="nofollow">IRL</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:AAB4282B-1AA3-45DD-B104DCCC23B8801A" rel="nofollow"><img src="Reflexstock/img/france-FRA1.jpg" border="0" title="FRA"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:AAB4282B-1AA3-45DD-B104DCCC23B8801A" rel="nofollow">FRA</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:8E910496-A162-46CB-88ED8E298251C0BC" rel="nofollow"><img src="Reflexstock/img/italy-ITA.jpg" border="0" title="ITA"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:8E910496-A162-46CB-88ED8E298251C0BC" rel="nofollow">ITA</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:FA8923A4-53F6-4B6B-8241FC17B9643090" rel="nofollow"><img src="Reflexstock/img/spain-ESP.jpg" border="0" title="ESP"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:FA8923A4-53F6-4B6B-8241FC17B9643090" rel="nofollow">ESP</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:E8CCDAE0-7D1B-49CE-B88328E76CA95A9D" rel="nofollow"><img src="Reflexstock/img/netherlands-NLD.jpg" border="0" title="NLD"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:E8CCDAE0-7D1B-49CE-B88328E76CA95A9D" rel="nofollow">NLD</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:28B9911B-AEEB-42F3-A539F31D4E63DB62" rel="nofollow"><img src="Reflexstock/img/australia-AUS.jpg" border="0" title="AUS"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:28B9911B-AEEB-42F3-A539F31D4E63DB62" rel="nofollow">AUS</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:AB14DED6-6D4C-456B-844C0F3E69082923" rel="nofollow"><img src="Reflexstock/img/south-africa-ZAF.jpg" border="0" title="ZAF"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:AB14DED6-6D4C-456B-844C0F3E69082923" rel="nofollow">ZAF</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:1651C1FA-0245-43F6-A6C43695CF5BF76F" rel="nofollow"><img src="Reflexstock/img/thailand-THA.jpg" border="0" title="THA"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:1651C1FA-0245-43F6-A6C43695CF5BF76F" rel="nofollow">THA</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:A2CB1C63-2F59-4075-902BE29224EE8B18" rel="nofollow"><img src="Reflexstock/img/russia-RUS.jpg" border="0" title="RUS"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:A2CB1C63-2F59-4075-902BE29224EE8B18" rel="nofollow">RUS</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:88789C7A-E880-4557-9780BEA7F6F2C812" rel="nofollow"><img src="Reflexstock/img/india-IND.jpg" border="0" title="IND"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:88789C7A-E880-4557-9780BEA7F6F2C812" rel="nofollow">IND</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:1AF38459-3E12-4710-A4151DE514D18838" rel="nofollow"><img src="Reflexstock/img/china-CHN1.jpg" border="0" title="CHN"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:1AF38459-3E12-4710-A4151DE514D18838" rel="nofollow">CHN</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:20F23E88-267D-464F-9D1F3DF97BE583CD" rel="nofollow"><img src="Reflexstock/img/brazil-BRA.jpg" border="0" title="BRA"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:20F23E88-267D-464F-9D1F3DF97BE583CD" rel="nofollow">BRA</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:E844D584-0EAB-4979-9866AC84B95E297C" rel="nofollow"><img src="Reflexstock/img/belgium-BEL.jpg" border="0" title="BEL"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:E844D584-0EAB-4979-9866AC84B95E297C" rel="nofollow">BEL</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:1360BCE8-6744-40D7-B48DA9188E3EDC0B" rel="nofollow"><img src="Reflexstock/img/argentina-ARG.jpg" border="0" title="ARG"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:1360BCE8-6744-40D7-B48DA9188E3EDC0B" rel="nofollow">ARG</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:5C7A892B-3B5A-461D-95E6C5A1ADBB7D0D" rel="nofollow"><img src="Reflexstock/img/Switzerland-_CHE.jpg" border="0" title="SWZ"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:5C7A892B-3B5A-461D-95E6C5A1ADBB7D0D" rel="nofollow">SWZ</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:178D3224-FE74-4037-9C47B6DAC76FBAB8" rel="nofollow"><img src="Reflexstock/img/United_Arab_Nations-_U.A.E.jpg" border="0" title="UAE"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:178D3224-FE74-4037-9C47B6DAC76FBAB8" rel="nofollow">UAE</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:F38012C2-3A80-4EF9-B9D3D14102B7BC88" rel="nofollow"><img src="Reflexstock/img/mexico-MEX.jpg" border="0" title="MEX"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:F38012C2-3A80-4EF9-B9D3D14102B7BC88" rel="nofollow">MEX</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:222156B1-40EB-4FFC-949ED8D22D1DF26B" rel="nofollow"><img src="Reflexstock/img/czech-republic-CZE.jpg" border="0" title="CZE"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:222156B1-40EB-4FFC-949ED8D22D1DF26B" rel="nofollow">CZE</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:D9A1EA18-88FD-4C33-A8A5F2031940144B" rel="nofollow"><img src="Reflexstock/img/Turkey-_TUR.jpg" border="0" title="TRY"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:D9A1EA18-88FD-4C33-A8A5F2031940144B" rel="nofollow">TRY</a></td>
-			</tr>
-		
-			<tr>
-				<td class="countrylistflag"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:BB8A20B8-6EDA-4EA0-8164756630B3F860" rel="nofollow"><img src="Reflexstock/img/World-_Other.jpg" border="0" title="Other"></a></td>
-				<td class="countrylistcode"><a href="index.cfm?...744-40d7-b48da9188e3edc0b%20%20/&amp;reload=1&amp;clearimex=1&amp;usercountry=IMSCOUNTRY:BB8A20B8-6EDA-4EA0-8164756630B3F860" rel="nofollow">Other</a></td>
-			</tr>
-		
-		<tr>
-			
-		</tr>
-		</tbody></table>
-		</div>
-	</div> 
+</div> 
 			<br>
 			<div style="float: right;">
 			
@@ -897,14 +221,14 @@ $(document).ready(function(){
 					<td align="left">
 						<table cellpadding="0" cellspacing="0" border="0">
 						<tbody><tr>
-							<td class="nav_menu"><a href="http://www.reflexstock.com/" target="_top" class="activemain">all images<span> Stock Photos: Search our whole image database then refine your choice by price category.
+							<td class="nav_menu"><a href="http://www.reflexstock.com/" target="_top">all images<span> Stock Photos: Search our whole image database then refine your choice by price category.
 </span></a></td>
 							<td class="nav_menu"><a href="http://www.reflexstock.com/rights-managed-images/index.html" target="_top">rights managed<span> Rights Managed stock Photos, images and illustrations, customize the license. Editorial rates available. Click here to go to our Rights Managed collections.
 </span></a></td>
 							<td class="nav_menu"><a href="http://www.reflexstock.com/premium-stock-photography/index.html" target="_top">premium<span> PREMIUM Royalty Free stock photos, images &amp; illustrations start from only $49. To browse our world class premium stock photography images click here &gt;&gt; </span></a></td>
 							<td class="nav_menu"><a href="http://www.reflexstock.com/budget-stock-photos/index.html" target="_top">budget<span> Budget Royalty Free stock photos, illustrations and images at very cheap prices, from only $3.97. To browse this collection click here&gt;&gt; </span></a></td>
-							<td class="nav_menu"><table cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://www.reflexstock.com/microstock-images/index.html" target="_top" class="micromain">microprice<span> MicroPrice Royalty Free stock images, photos and vectors - from only $0.85 per image. Buy using Credits, click here to browse these images&gt;&gt; </span></a></td><td><img src="Reflexstock/img/backgrounds/top_icon_new.jpg" border="0" class="newimage"></td></tr></tbody></table></td>
-							<td class="nav_menu"><table cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://www.reflexstock.com/subscription-images/index.html" target="_top">subscription<span> SUBSCRIPTION - Royalty Free stock photos &amp; illustrations by subscription. Prices start from only $0.14 cents. Click Here to view our subscritption products. </span></a></td><td><img src="Reflexstock/img/backgrounds/top_icon_new.jpg" border="0" class="newimage"></td></tr></tbody></table></td>
+							<td class="nav_menu"><a href="http://www.reflexstock.com/microstock-images/index.html" target="_top" class="activemain">microprice<span> MicroPrice Royalty Free stock images, photos and vectors - from only $0.85 per image. Buy using Credits, click here to browse these images&gt;&gt; </span></a></td>
+							<td class="nav_menu"><a href="http://www.reflexstock.com/subscription-images/index.html" target="_top">subscription<span> SUBSCRIPTION - Royalty Free stock photos &amp; illustrations by subscription. Prices start from only $0.14 cents. Click Here to view our subscritption products. </span></a></td>
 						</tr>
 						</tbody></table>
 					</td>
@@ -923,492 +247,7 @@ $(document).ready(function(){
 <div class="search_nav" id="search_nav">
     <div id="search_form">
      <div style=""> 
-<script language="javascript" type="text/javascript">
-top.searchSubmitted = 0;
 
-function dosearch(tp){
-	if(checkSearchForm(tp))
-		document.searchForm.submit();
-}
-
-function setAdvanced(val){
-	val = val==null?1:val;
-	document.searchForm.searchShowAdvanced.value = val;
-	document.searchForm.searchWasSet.value = 1;
-	document.searchForm.submit();
-}
-
-function checkSearchForm(tp){
-	f = document.searchForm;
-	
-	var crit = f.criteriaView.value;
-	if(crit == ""){
-		alert("Please enter at least one search keyword.");
-		return false;	
-	}
-	
-	
-	if(top.searchSubmitted==1){
-		return false;
-	}
-	
-/*	if (typeof(document.getElementById("thdirsel")) !=undefined){
-		document.getElementById("thdirhidden").value= get_radio_value('thdirsel','0');
-	}*/
-	
-	setSearch();
-	
-	if ( (f.criteria.value=='') && (f.imgnr.value=='') && (f.criteriaAll.value=='') && (f.cdtitle.value=='')){
-		return false;
-	}
-	top.searchSubmitted = 1;
-	return true;
-}
-
-function setSearch(){//sets the hidden fields for advanced properties
-	f = document.searchForm;
-
-	if(f.criteriaView.value == 'Keywords or image #')
-		f.criteriaView.value = '';
-		
-	if(f.criteriaView.value != ''){
-		f.criteriaAll.value = f.criteriaView.value;
-	}
-	
-	getType();
-	extraConditions();
-
-	if (document.getElementById("advanced_search_tracker").value==1){
-		//get new script for getting orientation, colortype etc
-		getnewFilters();
-		
-		if(f.imagecolor_C.value==0 && f.imagecolor_BW.value==0){
-			f.imagecolor_C.value=1;
-			f.imagecolor_BW.value=1;
-		}
-		if(f.imageOrient_P.value==0 && f.imageOrient_L.value==0 && f.imageOrient_S.value==0){
-			f.imageOrient_P.value=1;
-			f.imageOrient_L.value=1;
-			f.imageOrient_S.value=1;
-		}
-	}
-	
-	getBrandFilter();
-	
-	f.startpos.value = 1;
-}
-
-function getType(){//upon submit, check the type radiobuttons
-	f = document.searchForm.elements;
-	
-	tp = 'RF';
-	bud = 0;
-
-	//collectiefilters worden hier uitgezet obv type. Later in brandfilter() wordt alsnog een eventuele specifieke selectie toegepast.
-	f.brandsToFilter.value='';
-	f.brandFilter.value='0';
-	
-	if(bud==2){
-		f.imagetype.value = 'RF';
-		f.budgetimages.value = 2;
-	}
-	else if(tp=='all' || tp=='RF,RM'){
-		f.imagetype.value = 'RF,RM';
-		f.budgetimages.value = 1;
-	}
-	else if(tp=='RF'){
-		f.imagetype.value = 'RF';
-		if(bud==0){
-		f.budgetimages.value = 0;
-		}
-	}
-	else if(tp=='RM'){
-		f.imagetype.value = 'RM';
-		f.budgetimages.value = 0;
-	}
-	else if(tp=='CD'){
-		f.imagetype.value = 'CD';
-		f.budgetimages.value = 0;
-	}
-	else if(tp=='EDITORIAL'){
-		f.imagetype.value = 'editorial';
-		f.budgetimages.value = 0;
-		
-		f.brandsToFilter.value='IMSSUPPLIER:B1624ADF-EFB7-4088-8F545FADA0ACB115,IMSSUPPLIER:82863110-AC8A-498E-A0D62458DE4A22D7,IMSSUPPLIER:CA582F64-09C7-43CB-DDDC207061708D3B,IMSSUPPLIER:86487CD8-4CD1-4A08-839F0B4E68E379F1,IMSSUPPLIER:F2150EBD-15C5-8747-F6E6D55FE26A4344,IMSSUPPLIER:B77F1FDF-0533-468A-839F288E73356006,IMSSUPPLIER:79F1B07D-FD4A-4E95-B2098503FB6198F1,IMSSUPPLIER:391AA475-0299-DEE4-BACF55F78A38140F,IMSSUPPLIER:0DEFCB1F-F5FF-EAB4-97CB661F7D2046C9,IMSSUPPLIER:81043F15-A764-4D86-A5711704DEA853A3,IMSSUPPLIER:43997782-C8A5-CBDD-CCF1438407B4A624,IMSSUPPLIER:43985578-E2A5-9C1C-66469C001A5F5D6C,IMSSUPPLIER:F69C659C-9070-4D95-8CAD372E8D07AEF6,IMSSUPPLIER:2B950ADA-3533-42C6-8F474911DA3B0249,IMSSUPPLIER:0392B780-CA9E-1E4B-E9545938E200E214,IMSSUPPLIER:6FE04138-9FB7-C4DD-49965287F9AB7530,IMSSUPPLIER:06A56405-5257-478C-9D0B00C37F1E8E83,IMSSUPPLIER:24AE09D7-B0FF-3E25-21401F17E31BBDFD,IMSSUPPLIER:E63AC8BB-94F7-404C-9A55F368BEF4B79C,IMSSUPPLIER:B0C5B8BF-689F-4A22-B506DC47473E7654,IMSSUPPLIER:27CA0A5C-0D9E-4BBD-A3850AC33D0FB85B,IMSSUPPLIER:706941AC-C81F-40D0-A89C0BA47BF4C1F4,IMSSUPPLIER:B5D58436-47CF-4248-A49FFF3C77C8CA82,IMSSUPPLIER:E0D6CF72-D038-4EED-AD3E974858F3A220,IMSSUPPLIER:1000B527-3C53-46B8-AFAD2DE41B503097,IMSSUPPLIER:6202C141-DA5D-49D0-83385CB7D97005CA,IMSSUPPLIER:069A8A9E-ED84-4B0E-BA363F2F41F9E7CB,IMSSUPPLIER:3221DA0D-B976-40F4-85F5E34B6A6649E0,IMSSUPPLIER:4A9E06A1-7491-4330-86E297E6EDD0A762,IMSSUPPLIER:C151B061-0D2D-4812-B2B516321439B247,IMSSUPPLIER:2053DE93-66C8-4775-902D2CC26AA03D55,IMSSUPPLIER:BF75E3B3-CD12-4E89-8F5886A669A793F1,IMSSUPPLIER:CD75910E-EE47-4135-AF6D6EBFC3435E98,IMSSUPPLIER:F6B91AF6-88DA-43A2-8B19EB0243D13ADE,IMSSUPPLIER:E28BC1B7-15C5-8747-F670AF31D59CA7D3,IMSSUPPLIER:5E0A3DB1-BBEF-4F6B-A6CDF8A1B79E6548,IMSSUPPLIER:8DDB8081-D75F-45AD-A5327CD5CC9D353C,IMSSUPPLIER:8156EA33-F48C-A40C-7105213F3C999C4E,IMSSUPPLIER:906DB333-15C5-8747-F6CE791E2D348FDE,IMSSUPPLIER:998E2540-84EB-45B5-B62EC24A95C8F55A,IMSSUPPLIER:7C0D7D55-9B28-401B-B75838072A38F60C,IMSSUPPLIER:4369393A-15C5-8747-F6E0CC10D2673527,IMSSUPPLIER:5EE8BA21-15C5-8747-F69CF7558F738E47,IMSSUPPLIER:823903FA-15C5-8747-F6056B019AD702BB,IMSSUPPLIER:8112D824-BF73-4E96-B6A2E6957C11EB3B,IMSSUPPLIER:28162D2E-D50F-9A78-0E7348972669DE82,IMSSUPPLIER:B7FD57A6-15C5-8747-F603A168AE195BF1,IMSSUPPLIER:27FEBB98-0007-1F7B-9EAB851C1C90F6D1,IMSSUPPLIER:65579E01-5298-42F2-866B634AA0EB7E11,IMSSUPPLIER:8A10D2CE-7A5E-46D4-B3332D3BE7A378B7,IMSSUPPLIER:5EF1A318-6855-4A31-9B650DC906BEF91C,IMSSUPPLIER:957D6005-ABB2-A86B-1A057F42CB02D0E7,IMSSUPPLIER:465F4C28-74D4-4E81-A9116451972FA66B,IMSSUPPLIER:953B13CE-82BB-455C-A0103370CAF66BED,IMSSUPPLIER:3BB037D2-15C5-8747-F6FB447BFC053B6F,IMSSUPPLIER:B8D495CB-E691-446A-AAC856EB3E9774E6,IMSSUPPLIER:6344051C-9D9D-4B3E-2B5B6EB5395074A5,IMSSUPPLIER:2B950ADA-3533-42C6-8F474911DA3B0249,IMSSUPPLIER:7AC8AE45-FC7D-BDED-296259D1F84148D3,IMSSUPPLIER:A8B8ED35-BA3B-4458-9951273F8F55422B,IMSSUPPLIER:2803DBAA-D7AB-63FE-ECD26BCB2F4CF16D,IMSSUPPLIER:4D25B0EB-15C5-8747-F629E46E3851DA0E,IMSSUPPLIER:C2F4F3D3-064C-8FE1-7A3D7D6174AD0996,IMSSUPPLIER:1FBF816A-0FDB-D822-605ACE8187B0567A,IMSSUPPLIER:1EA5A058-AA91-8CBE-8581B709331AD8C7,IMSSUPPLIER:4FE1DB54-CCC1-7269-49AEBD35D40C2594,IMSSUPPLIER:BB70873F-C74A-778F-5954F92ED8E04BD9,IMSSUPPLIER:7F21407E-93E1-01CA-BE0AC6C90849E92E,IMSSUPPLIER:7AC973A8-021C-B491-8B48524E3A2A7082,IMSSUPPLIER:F02197C5-ABCE-8B46-96BF0C2A552208A9,IMSSUPPLIER:D7B53A45-CCC9-05EB-F81BEF94E37D0D3E,IMSSUPPLIER:32DFC08D-E416-44AB-BEB0EBBAC8DE7243,IMSSUPPLIER:84AA529C-CB31-4D92-8DD4734453D64699,IMSSUPPLIER:7CA2E96B-57B7-4D06-B9A196320353FF69,IMSSUPPLIER:7688CCC9-0889-4583-BD8A197792EE109C,IMSSUPPLIER:00C0D940-FB6B-4BA8-92206AEBCCEFBC14,IMSSUPPLIER:51096E76-1D9C-4BA5-B709681C466D9670,IMSSUPPLIER:D09EC0B0-0C9F-44DC-9677AA2DFF2F687A,IMSSUPPLIER:1C7470C6-707A-459D-89145E0A0D848870,IMSSUPPLIER:15026988-2935-48A9-B7C30504F198C6CF,IMSSUPPLIER:CD644B4F-96BF-4D64-9D2B1F06747335BA,IMSSUPPLIER:C254B570-A18C-4C0C-AA599840DFC51B13,IMSSUPPLIER:AA22A5EC-917B-4045-8652B66275BBBBE3,IMSSUPPLIER:11BF417A-4B4A-48FD-8AD9B02E6A4E6C30,IMSSUPPLIER:0F55C8B2-15C5-8747-F6C0E35341517499,IMSSUPPLIER:318E6182-ECB4-5693-C79F35CA29F6816C,IMSSUPPLIER:4CB7538F-5C15-40F2-A888B3996FE913FB';
-		f.brandFilter.value='1';
-		f.alamy_mr.value=0;
-		f.imagetype.value ='editorial'
-	}
-	else if(tp=='ILLUSTRATION'){
-		f.imagetype.value = 'illustration';
-		f.budgetimages.value = 1;
-	}
-}
-
-function extraConditions(){
-	f = document.searchForm;
-	
-	if(f.newInres_extra[0].checked){
-		mustcontain = f.mustcontain.value;
-		extracontain = mustcontain.replace(' ','+')
-		f.criteriaAll.value = f.criteriaAll.value + ' ' + extracontain;
-		//f.criteriaView.value = f.criteriaView.value + ' ' + extracontain;
-		//alert(f.criteriaAll.value);
-	}
-	
-	if(f.newInres_extra[1].checked){
-		f.criteriaNot.value = f.criteriaNot.value + ' ' + f.mustcontain.value;
-	}
-	else {
-		f.criteriaNot.value = ''
-	}
-	
-	/* criteriaView = f.criteriaAll.value;
-	
-	res = processInput(criteriaView);
-
-	f.criteria.value = res.criteria.replace(/  /g, ' ');
-	f.criteriaAll.value = res.criteriaAll.replace(/  /g, ' ');
-	f.criteriaNot.value = res.criteriaNot.replace(/  /g, ' ');
-	
-	f.criteriaView.value = criteriaView; */
-	//if(f.criteriaNot.value != '' && f.criteriaNot.value != ' '){
-	//	f.searchShowAdvanced.value = res.AdvOpen;
-	//}
-	
-}
-
-function getnewFilters(){
-	document.getElementById("customfilter").value ='';
-	get_radio_value('people','1');
-	get_radio_value('ethnicity','1');
-	get_radio_value('viewpoint','1');
-	get_radio_value('copyspace','1');
-	f = document.searchForm;
-	
-	if(get_radio_value('orientation','0')=='p'){
-
-	f.imageOrient_P.value = 1;
-	f.imageOrient_L.value = 0;
-	f.imageOrient_S.value = 0;
-	}
-	else if(get_radio_value('orientation','0')=='l'){
-	f.imageOrient_P.value = 0;
-	f.imageOrient_L.value = 1;
-	f.imageOrient_S.value = 0;
-	}
-	else if(get_radio_value('orientation' ,'0')=='s'){
-	f.imageOrient_P.value = 0;
-	f.imageOrient_L.value = 0;
-	f.imageOrient_S.value = 1;
-	}
-	else{
-
-	f.imageOrient_P.value = 1;
-	f.imageOrient_L.value = 1;
-	f.imageOrient_S.value = 1;
-	}
-
-	if(get_radio_value('color','0')=='color'){
-	f.imagecolor_C.value = 1;
-	f.imagecolor_BW.value = 0;
-	}
-	else if (get_radio_value('color','0')=='bw'){
-	f.imagecolor_C.value = 0;
-	f.imagecolor_BW.value = 1;
-	}
-	else{
-	f.imagecolor_C.value = 1;
-	f.imagecolor_BW.value = 1;
-	}
-	if (get_radio_value('mrfilter','0')=='1'){
-	only_editorial();
-	}
-	else {
-	document.getElementById("use_modelfilter").value='0'
-	}
-}
-
-function getBrandFilter(){//upon submit, check the brandlist for selected brands.
-	f = document.searchForm;
-	brandsToFilter = '';
-	allbrands = 1;
-	hasbeen=0;
-	
-	//alert('brandfilter 1: advIsOpen='+advSearchIsOpen);
-	
-	allSupChk = document.getElementById("allcollections");
-	
-	//vanuit editorial filter (gettype), kunnen al merken gefilterd zijn. Als expliciet collecties zijn gekozen, filter dan deze lijst obv de editorial selectie. Anders gewoon alle geselecteerde
-	if(typeof(allSupChk)!='undefined' && !allSupChk.checked  && advSearchIsOpen==1){
-		//alert('brandfilter 2: check collections');
-		
-		for(x=0 ; x<f.brandlist.length ; x++){
-			if(f.brandlist[x].checked==1){;
-				bruuid = f.brandlist[x].value;
-				if(f.brandsToFilter.value=='' || f.brandsToFilter.value.toLowerCase().indexOf(bruuid.toLowerCase())!=-1){
-					brandsToFilter = brandsToFilter + bruuid + ',';
-				}
-			}
-			else{
-				allbrands = 0;
-			}
-		}
-	}
-	
-	//alert('brandfilter 3: allbrands='+allbrands);
-	
-	if(allbrands==1 && f.brandsToFilter.value!=''){
-		//editorial filter was al aangezet
-		//alert('brandfilter 4a: was al gezet, doe verder niets');
-	}
-	else if(brandsToFilter==''){
-		f.brandFilter.value = 0;
-		f.brandsToFilter.value = '';
-		//alert('brandfilter 4b: brand filter is uit');
-	}
-	else{
-		f.brandFilter.value = allbrands==1?0:1;
-		f.brandsToFilter.value = allbrands==1?'':brandsToFilter;
-		
-		//alert('brandfilter 4c: merken selectie actief');
-	}
-}
-
-//===================================== misc functions, not used upon submit of search ===========================
-function get_radio_value(fieldname,addkeyword){
-	f = document.searchForm;
-	usefield = f.elements[fieldname];
-	for (var i=0; i < usefield.length; i++){
-		if (usefield[i].checked){
-			var rad_val = usefield[i].value;
-			if (rad_val.length > 2 && fieldname !='color' && addkeyword ==1){
-				addtocustom(rad_val)
-			}
-			return rad_val;		 
-		}
-   }
-}
-
-function addtocustom(fieldvalue){
-	var targetfield = document.getElementById("criteriaAll").value;
-	if (targetfield.indexOf(fieldvalue,0)==-1){
-		document.getElementById("criteriaAll").value = targetfield + ' ' + fieldvalue
-		// targetfield = targetfield + ' ' + fieldvalue;
-	}
-}
-
-
-
-function uncheckCD(){//called upon clicking the RM type checkbox
-	
-}
-
-function checkCreteriaLength(val){
-	return true;
-}
-
-function showBrandlist(){
-	opts = 'width=500, height=550, resizable=yes';
-	theurl = 'Reflexstock/scripts/supplierchooser/index.cfm';
-	brandwin = window.open(theurl, 'brandwin', opts);
-	brandwin.focus();
-}
-
-function setType(type, budget){//called from Tab titles to change searchtype
-	
-	if(type != document.searchForm.imagetype.value || budget != document.searchForm.budgetimages.value){
-		f = document.searchForm.elements;
-
-		old = f.criteriaView
-		nieuwes =  f.criteriaView.value
-		f.criteriaAll.value = nieuwes.replace("illustration","");
-	
-		f.alamy_mr.value=1;
-		f.imagetype.value = type;
-		f.budgetimages.value = budget;
-		
-		if(f.imagetype.value!='CD' && f.cdtitle.value!=''){
-			f.criteriaAll.value = f.cdtitle.value;
-			f.cdtitle.value = '';
-		}
-		if (type=='editorial'){
-			f.brandsToFilter.value='IMSSUPPLIER:B1624ADF-EFB7-4088-8F545FADA0ACB115,IMSSUPPLIER:82863110-AC8A-498E-A0D62458DE4A22D7,IMSSUPPLIER:CA582F64-09C7-43CB-DDDC207061708D3B,IMSSUPPLIER:86487CD8-4CD1-4A08-839F0B4E68E379F1,IMSSUPPLIER:F2150EBD-15C5-8747-F6E6D55FE26A4344,IMSSUPPLIER:B77F1FDF-0533-468A-839F288E73356006,IMSSUPPLIER:79F1B07D-FD4A-4E95-B2098503FB6198F1,IMSSUPPLIER:391AA475-0299-DEE4-BACF55F78A38140F,IMSSUPPLIER:0DEFCB1F-F5FF-EAB4-97CB661F7D2046C9,IMSSUPPLIER:81043F15-A764-4D86-A5711704DEA853A3,IMSSUPPLIER:43997782-C8A5-CBDD-CCF1438407B4A624,IMSSUPPLIER:43985578-E2A5-9C1C-66469C001A5F5D6C,IMSSUPPLIER:F69C659C-9070-4D95-8CAD372E8D07AEF6,IMSSUPPLIER:2B950ADA-3533-42C6-8F474911DA3B0249,IMSSUPPLIER:0392B780-CA9E-1E4B-E9545938E200E214,IMSSUPPLIER:6FE04138-9FB7-C4DD-49965287F9AB7530,IMSSUPPLIER:06A56405-5257-478C-9D0B00C37F1E8E83,IMSSUPPLIER:24AE09D7-B0FF-3E25-21401F17E31BBDFD,IMSSUPPLIER:E63AC8BB-94F7-404C-9A55F368BEF4B79C,IMSSUPPLIER:B0C5B8BF-689F-4A22-B506DC47473E7654,IMSSUPPLIER:27CA0A5C-0D9E-4BBD-A3850AC33D0FB85B,IMSSUPPLIER:706941AC-C81F-40D0-A89C0BA47BF4C1F4,IMSSUPPLIER:B5D58436-47CF-4248-A49FFF3C77C8CA82,IMSSUPPLIER:E0D6CF72-D038-4EED-AD3E974858F3A220,IMSSUPPLIER:1000B527-3C53-46B8-AFAD2DE41B503097,IMSSUPPLIER:6202C141-DA5D-49D0-83385CB7D97005CA,IMSSUPPLIER:069A8A9E-ED84-4B0E-BA363F2F41F9E7CB,IMSSUPPLIER:3221DA0D-B976-40F4-85F5E34B6A6649E0,IMSSUPPLIER:4A9E06A1-7491-4330-86E297E6EDD0A762,IMSSUPPLIER:C151B061-0D2D-4812-B2B516321439B247,IMSSUPPLIER:2053DE93-66C8-4775-902D2CC26AA03D55,IMSSUPPLIER:BF75E3B3-CD12-4E89-8F5886A669A793F1,IMSSUPPLIER:CD75910E-EE47-4135-AF6D6EBFC3435E98,IMSSUPPLIER:F6B91AF6-88DA-43A2-8B19EB0243D13ADE,IMSSUPPLIER:E28BC1B7-15C5-8747-F670AF31D59CA7D3,IMSSUPPLIER:5E0A3DB1-BBEF-4F6B-A6CDF8A1B79E6548,IMSSUPPLIER:8DDB8081-D75F-45AD-A5327CD5CC9D353C,IMSSUPPLIER:8156EA33-F48C-A40C-7105213F3C999C4E,IMSSUPPLIER:906DB333-15C5-8747-F6CE791E2D348FDE,IMSSUPPLIER:998E2540-84EB-45B5-B62EC24A95C8F55A,IMSSUPPLIER:7C0D7D55-9B28-401B-B75838072A38F60C,IMSSUPPLIER:4369393A-15C5-8747-F6E0CC10D2673527,IMSSUPPLIER:5EE8BA21-15C5-8747-F69CF7558F738E47,IMSSUPPLIER:823903FA-15C5-8747-F6056B019AD702BB,IMSSUPPLIER:8112D824-BF73-4E96-B6A2E6957C11EB3B,IMSSUPPLIER:28162D2E-D50F-9A78-0E7348972669DE82,IMSSUPPLIER:B7FD57A6-15C5-8747-F603A168AE195BF1,IMSSUPPLIER:27FEBB98-0007-1F7B-9EAB851C1C90F6D1,IMSSUPPLIER:65579E01-5298-42F2-866B634AA0EB7E11,IMSSUPPLIER:8A10D2CE-7A5E-46D4-B3332D3BE7A378B7,IMSSUPPLIER:5EF1A318-6855-4A31-9B650DC906BEF91C,IMSSUPPLIER:957D6005-ABB2-A86B-1A057F42CB02D0E7,IMSSUPPLIER:465F4C28-74D4-4E81-A9116451972FA66B,IMSSUPPLIER:953B13CE-82BB-455C-A0103370CAF66BED,IMSSUPPLIER:3BB037D2-15C5-8747-F6FB447BFC053B6F,IMSSUPPLIER:B8D495CB-E691-446A-AAC856EB3E9774E6,IMSSUPPLIER:6344051C-9D9D-4B3E-2B5B6EB5395074A5,IMSSUPPLIER:2B950ADA-3533-42C6-8F474911DA3B0249,IMSSUPPLIER:7AC8AE45-FC7D-BDED-296259D1F84148D3,IMSSUPPLIER:A8B8ED35-BA3B-4458-9951273F8F55422B,IMSSUPPLIER:2803DBAA-D7AB-63FE-ECD26BCB2F4CF16D,IMSSUPPLIER:4D25B0EB-15C5-8747-F629E46E3851DA0E,IMSSUPPLIER:C2F4F3D3-064C-8FE1-7A3D7D6174AD0996,IMSSUPPLIER:1FBF816A-0FDB-D822-605ACE8187B0567A,IMSSUPPLIER:1EA5A058-AA91-8CBE-8581B709331AD8C7,IMSSUPPLIER:4FE1DB54-CCC1-7269-49AEBD35D40C2594,IMSSUPPLIER:BB70873F-C74A-778F-5954F92ED8E04BD9,IMSSUPPLIER:7F21407E-93E1-01CA-BE0AC6C90849E92E,IMSSUPPLIER:7AC973A8-021C-B491-8B48524E3A2A7082,IMSSUPPLIER:F02197C5-ABCE-8B46-96BF0C2A552208A9,IMSSUPPLIER:D7B53A45-CCC9-05EB-F81BEF94E37D0D3E,IMSSUPPLIER:32DFC08D-E416-44AB-BEB0EBBAC8DE7243,IMSSUPPLIER:84AA529C-CB31-4D92-8DD4734453D64699,IMSSUPPLIER:7CA2E96B-57B7-4D06-B9A196320353FF69,IMSSUPPLIER:7688CCC9-0889-4583-BD8A197792EE109C,IMSSUPPLIER:00C0D940-FB6B-4BA8-92206AEBCCEFBC14,IMSSUPPLIER:51096E76-1D9C-4BA5-B709681C466D9670,IMSSUPPLIER:D09EC0B0-0C9F-44DC-9677AA2DFF2F687A,IMSSUPPLIER:1C7470C6-707A-459D-89145E0A0D848870,IMSSUPPLIER:15026988-2935-48A9-B7C30504F198C6CF,IMSSUPPLIER:CD644B4F-96BF-4D64-9D2B1F06747335BA,IMSSUPPLIER:C254B570-A18C-4C0C-AA599840DFC51B13,IMSSUPPLIER:AA22A5EC-917B-4045-8652B66275BBBBE3,IMSSUPPLIER:11BF417A-4B4A-48FD-8AD9B02E6A4E6C30,IMSSUPPLIER:0F55C8B2-15C5-8747-F6C0E35341517499,IMSSUPPLIER:318E6182-ECB4-5693-C79F35CA29F6816C,IMSSUPPLIER:4CB7538F-5C15-40F2-A888B3996FE913FB';
-			f.brandFilter.value='1';
-			f.alamy_mr.value=0;
-			f.imagetype.value ='editorial'
-			document.getElementById("tabtype").value='editorial';
-		}
-		else if(type=='illustration'){
-			f.imagetype.value = 'illustration';
-		}
-		else{
-			f.brandsToFilter.value='';
-			f.brandFilter.value='0';
-		}
-		extraConditions();
-		
-		document.searchForm.startpos.value = 1;
-		document.searchForm.submit();
-	}		
-}
-
-function goSearchInRes(kw){//search within results
-	document.searchForm.criteriaAll.value = document.searchForm.criteriaAll.value + ' ' + kw;
-	document.searchForm.startpos.value = 1;
-	document.searchForm.submit();
-}
-
-function gotoPage(strt){
-	if(checkSearchForm(1)){
-		document.searchForm.startpos.value = strt;
-		document.searchForm.submit();
-	}
-}
-
-function setKW(kw){
-	document.searchForm.criteriaAll.value = kw;
-	document.searchForm.criteriaAll.imgnr = '';
-	
-	if(checkSearchForm()){
-		document.searchForm.submit();
-	}
-}
-
-function setSup(supid){
-	f = document.searchForm;
-	f.brandFilter.value = 1;
-	f.brandsToFilter.value = supid;
-	f.imagecolor_BW.value = 1;
-	f.imageOrient_P.value = 1;
-	f.imageOrient_L.value = 1;
-	f.imageOrient_S.value = 1;
-	f.imageAvail_CD.value = 1;
-	f.imageAvail_S.value = 1;
-	f.startpos.value = 1;
-	f.searchmode.value = 2;
-	
-	
-	f.criteriaAll.value = '';
-	f.criteria.value = '';
-	f.criteriaNot.value = '';
-	f.imgnr.value = '';
-	
-	
-	f.submit();
-}
-
-function doMaxrows(){
-	noRows = document.searchInRes.maxrows.options[document.searchInRes.maxrows.options.selectedIndex].value;
-	document.searchForm.maxros.value = noRows;
-	document.searchForm.startpos.value = 1;
-	if(checkSearchForm)
-		document.searchForm.submit();
-}
-
-
-function handleAllSup(){//triggered when clicking checkbox for all suppliers
-	f = document.searchForm;
-	allSel = 1;
-	for(x=0 ; x<f.brandlist.options.length ; x++){
-		if(f.brandlist.options[x].selected==0)
-			allSel = 0;
-	}
-	newval = allSel==1?0:1;
-	for(x=0 ; x<f.brandlist.options.length ; x++){
-		f.brandlist.options[x].selected=newval;
-	}
-	f.doAllSup.checked = newval;	
-}
-
-function checkAllSup(){//triggered when changing the supplier selection
-	f = document.searchForm;
-	allset = 1;
-	for(x=0 ; x<f.brandlist.options.length ; x++){
-		if(f.brandlist.options[x].selected==0)
-			allset = 0;
-	}
-	f.doAllSup.checked = allset;
-}
-
-function hint(){
-	window.open('index.cfm?/hint','hint','width=500,height=300,resizable,scrollbars')
-}
-
-function showLogin(){
-	//alert('this is showLogin');
-	opts = 'width=500,height=300,statusbar=1';
-	theurl = 'http:\/\/www.reflexstock.com/Reflexstock/scripts/login/index.cfm?lang=en';
-	loginwin = window.open(theurl, 'loginwin', opts);
-	loginwin.focus();
-}
-
-function trim(value) {
-  value = value.replace(/^\s+/,''); 
-  value = value.replace(/\s+$/,'');
-  return value;
-}
-
-function processInput(str){
-	var words = str.toLowerCase().split(' ');
-	var f = document.searchForm;
-	
-	var lastoperator = '';
-	
-	var wordsNoOp = '';
-	var wordsAND = '';
-	var wordsOR = '';
-	var wordsNOT = '';
-	
-	for(x=0; x<words.length; x++){
-		w = words[x];
-		
-		if(w=='and'){
-			lastoperator = w;
-			if(wordsNoOp!=''){wordsAND = wordsAND + ' ' + wordsNoOp;wordsNoOp='';}
-		}
-		else if(w=='or'){
-			lastoperator = w;
-			if(wordsNoOp!=''){wordsOR = wordsOR + ' ' + wordsNoOp;wordsNoOp='';}
-		}
-		else if(w=='not'){
-			lastoperator = w;
-			if(wordsNoOp!=''){wordsAND = wordsAND + ' ' + wordsNoOp;wordsNoOp='';}
-		}
-		else{//normal keyword
-			if(lastoperator=='and'){
-				wordsAND = wordsAND + ' ' + w;
-			}
-			else if(lastoperator=='or'){
-				wordsOR = wordsOR + ' ' + w;
-			}
-			else if(lastoperator=='not'){
-				wordsNOT = wordsNOT + ' ' + w;
-			}
-			else{
-				wordsNoOp = wordsNoOp + ' ' + w;
-			}
-		}
-		
-		//alert('end of word '+w+', lastoperator='+lastoperator+'\nwordsNoOp='+wordsNoOp+'\nwordsAND='+wordsAND+'\nwordsOR='+wordsOR+'\nwordsNOT='+wordsNOT);
-	}
-	if(wordsNoOp!=''){wordsAND = wordsAND + ' ' + wordsNoOp;}
-	
-	res = new Object();
-	res.criteria = wordsOR + ' ' + f.criteria.value;
-	res.criteriaAll = wordsAND;
-	res.criteriaNot = wordsNOT + ' ' + f.criteriaNot.value;
-	
-	if(wordsNOT.length == 0){
-		res.AdvOpen = 1;	
-	}else{
-		res.AdvOpen = 1;
-	}	
-	
-	return res;
-}
-
-</script>
 
 
 <form name="searchForm" id="searchFormhome" action="index.cfm?/search_en" onsubmit="return checkSearchForm(0);" method="post">
@@ -1418,7 +257,7 @@ function processInput(str){
 			<!-- BEGIN ProvideSupport.com Pass Information Chat Button Code --> 
 			<div id="ciTuCL" style="z-index:100; position:absolute;"></div>
 			<div id="scTuCL" style="display:inline"></div>
-			<div id="sdTuCL" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/reflexstock/safe-standard.js?ps_h=TuCL&amp;ps_t=1580378456636"></script></div>
+			<div id="sdTuCL" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/reflexstock/safe-standard.js?ps_h=TuCL&amp;ps_t=1580378458086"></script></div>
 			<script type="text/javascript">
 				var seTuCL=document.createElement("script");
 				seTuCL.type="text/javascript";
@@ -1437,7 +276,6 @@ function processInput(str){
             
             <div id="thmbnl_pp" style="display:none;">
                 <div id="thmbnl_pp_label">
-                    Thumbnails per page:
                 </div>			
                 <input type="radio" name="maxros" value="23" checked="">24x
                 <input type="radio" name="maxros" value="99">100x
@@ -1467,11 +305,11 @@ function processInput(str){
 			
             <input type="hidden" name="refinekeywords" value="">
 			<div id="searchtabtype">
-			<input type="Radio" name="tabtype" value="0" checked=""> all images
+			<input type="Radio" name="tabtype" value="0"> all images
 			<input type="Radio" name="tabtype" value="RM"> rights managed
 			<input type="Radio" name="tabtype" value="RF"> premium
 			<input type="Radio" name="tabtype" value="budget"> budget
-			<input type="Radio" name="tabtype" value="micro"> microprice
+			<input type="Radio" name="tabtype" value="micro" checked=""> microprice
 			<input type="Radio" name="tabtype" value="subscriptions"> subscription
 			</div>
         </div>
@@ -1493,7 +331,7 @@ function processInput(str){
 		<tbody><tr>
 			<td colspan="3" height="1" style="height:1px;">
 			
-<div id="advanced_formx" style="display:none;width:100%;float:left;" class="advscfm">
+<div id="search_formx" style="width:100%;float:left;" class="advscfm">
 
 
 
@@ -1505,12 +343,15 @@ function processInput(str){
 			</td>
 		</tr>
 		<tr>
+		
+			
 			<td width="200" valign="bottom" height="10" style="height:10px;">
 	        <div class="link_adv" id="showlink" style="">
-	    	  	<a href="javascript:hideadvanced('block');" class="adv_lnk">Advanced search</a> <img class="adv_lnk_imgx" src="Reflexstock/img/backgrounds/arrow_down.gif" alt="" title="">
+	    	  	<a href="http://www.reflexstock.com/index.cfm?dynURLmode=page&amp;page=privacy-policy&amp;showAdvanced=1" class="adv_lnk" rel="nofollow">Advanced search</a> <img class="adv_lnk_imgx" src="Reflexstock/img/backgrounds/arrow_down.gif" alt="" title="">
 	        </div>
+			
 			<div id="adv_search_lnk_2" style="display:none;">
-		        &nbsp;&nbsp;&nbsp;<a href="javascript:hideadvanced('none');" class="adv_lnk">Advanced search</a> <img class="adv_lnk_imgx" src="Reflexstock/img/backgrounds/arrow_up.jpg" alt="" title=""><br>
+		        &nbsp;&nbsp;&nbsp;<a href="http://www.reflexstock.com/index.cfm?dynURLmode=page&amp;page=privacy-policy&amp;showAdvanced=1" class="adv_lnk">Advanced search</a> <img class="adv_lnk_imgx" src="Reflexstock/img/backgrounds/arrow_up.jpg" alt="" title=""><br>
 	        </div>
 		</td>
 		<td style="height:10px;">&nbsp;</td>
@@ -1573,6 +414,8 @@ function processInput(str){
 	<div style="width: 100%; padding: 0px; float: left;"> 
 
 <div id="textbox">
+	
+	
 	<strong><span style="FONT-WEIGHT: normal; COLOR: windowtext; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold">
 <p><strong><span style="FONT-WEIGHT: normal; COLOR: windowtext; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold">Privacy Policy Statement:<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></span></strong></p>
 <p><span style="COLOR: black">Reflex Stock Limited (“Reflex Stock”) adheres to the following policy about the information that is collected about you (“Privacy Policy”) and is subsequently used and disclosed by Reflex Stock in the course of its normal business activities. This includes but is not limited to the information about you that is collected on the</span><span style="COLOR: gray"> <span style="mso-bidi-font-weight: bold"><a href="http://www.reflexstock.com/"><b><span style="COLOR: gray">www.reflexstock.com</span></b></a></span></span><span style="COLOR: windowtext"> </span><span style="COLOR: black">web site (the “Web Site”) and during conversations with staff at Reflex Stock.<o:p></o:p></span></p>
@@ -1619,12 +462,14 @@ function processInput(str){
 <p><span style="COLOR: black">You may contact Reflex Stock Limited on +44 (0) 288 77 89229, or by e-mail at </span><span style="mso-bidi-font-weight: bold"><a href="mailto:info@reflexstock.com"><b>info@reflexstock.com</b></a></span><o:p></o:p></p>
 </span></strong><p><strong>Postal Address: Reflex Stock Limited, The Loft Business Centre, 6a <st1:street w:st="on"><st1:address w:st="on">Derrycaw Road</st1:address></st1:street>, Moy, <st1:place w:st="on"><st1:city w:st="on">Dungannon</st1:city>, <st1:postalcode w:st="on">BT71 6NA</st1:postalcode>, <st1:country-region w:st="on">United Kingdom</st1:country-region></st1:place></strong></p> 
 </div>
-
+<br>
+<p><a href="http://www.reflexstock.com/page/special-offers.html" style="font-size:16px; color:#3b97f3; font-weight:bold;">Special Offers</a> | <a href="http://www.reflexstock.com/page/cdstore.html" style="font-size:16px; color:#3b97f3; font-weight:bold;">Royalty Free CD Store</a></p>
 </div> 
 	</td>
 	</tr>
 	</tbody></table>
 </div>
+
 
 
 
@@ -1637,17 +482,17 @@ function processInput(str){
 
 	<div id="footer_nav">
               <div id="column1_title">cd store</div>
-              <div id="column2_title">galleries</div>
-              <div id="column3_title">services</div>
-              <div id="column4_title">news</div>
-              <div id="column5_title">legals</div>
-              <div id="column6_title">contact</div>
-              <div id="column7_title">specials</div>        
+              <div id="column2_title">image galleries</div>
+              <div id="column3_title">our services</div>
+              <div id="column4_title">news &amp; views</div>
+              <div id="column5_title">legal info</div>
+              <div id="column6_title">contact details</div>
+              <div id="column7_title">special offers</div>        
           </div>
 
       </div>
    
-       <div id="footer_content" style="">
+       <div id="footer_content" style="background-color: #e6e6e6;">
           <div id="linkjes" style="width:930px;float:center;text-align:center;margin:auto;">   
               <div id="column1">
 				
@@ -1693,8 +538,6 @@ function processInput(str){
 					
 						<a href="http://www.reflexstock.com/page/rights-clearance.html" rel="nofollow">rights clearance</a>
 					
-						<a href="http://www.reflexstock.com/page/reflex-rewards.html" rel="nofollow">rewards</a>
-					
 						<a href="http://www.reflexstock.com/page/image-submissions.html" rel="nofollow">image submissions</a>
 					
 						<a href="http://www.reflexstock.com/page/help.html" rel="nofollow">help</a>
@@ -1720,7 +563,7 @@ function processInput(str){
               <div id="column7">            
 						
 				
-					<a href="cd/52254/Green-Family.html">Featured cd</a>
+					<a href="cd/53157/Travel-in-Style.html">Featured cd</a>
 					<a href="page/cdstore.html"> Cd store</a>
 				
               </div>            
@@ -1729,22 +572,24 @@ function processInput(str){
      		</div>
 		
 
-	<div style="clear:both;text-valign:center;padding-top:20px;float:center;width:100%;text-align:center;">
+	<div style="clear:both;text-valign:center;padding-top:0px;float:center;width:100%;text-align:center; background-color: #e6e6e6;">
 		<div style="width:930px;float:center;text-align:center;margin:auto;">
 		<table border="0" cellspacing="0" cellpadding="0" align="center">
 			<tbody><tr>
-			<td width="255"><img src="reflexstock/img/payment_icons.jpg" alt="" title=""></td>
-			<td width="775"><strong>Email:</strong><a href="mailto:sales@reflexstock.com" class="std">sales@reflexstock.com</a>&nbsp;&nbsp;<strong>USA:</strong>1800 356 5131&nbsp;&nbsp;<strong>UK:</strong>0800 389 7244&nbsp;&nbsp;<strong>Brazil:</strong>(11) 2371 9000&nbsp;&nbsp;<strong>Intl:</strong>+44 28 877 89 229</td>
+			<td width="170" rowspan="2" align="left"><a href="http://www.facebook.com/reflexstockphotos" border="0" target="_blank"><img src="http://www.reflexstock.com/reflexstock/img/facebook-icon.png" border="0" width="45px" height="45px" style="padding-right:5px;" alt="Follow us on Facebook"></a><a href="http://feeds.feedburner.com/ReflexStockBlog" border="0" target="_blank"><img src="http://www.reflexstock.com/reflexstock/img/feed-icon.png" border="0" width="45px" height="45px" style="padding-right:5px;" alt="RSS Feed"></a><a href="http://twitter.com/ReflexStock" border="0" target="_blank"><img src="http://www.reflexstock.com/reflexstock/img/twitter-icon.png" border="0" width="45px" height="45px" style="padding-right:5px;" alt="Read our Tweets"></a> 
+			<br><br><img src="reflexstock/img/payment_icons.jpg" alt="payment options" title="payment options">
+			</td>
+			<td width="775" align="left" height="48px"><strong>Email:</strong><a href="mailto:sales@reflexstock.com" class="std">sales@reflexstock.com</a>&nbsp;&nbsp;<strong>USA:</strong>1800 356 5131&nbsp;&nbsp;<strong>UK:</strong>0800 389 7244&nbsp;&nbsp;<strong>Brazil:</strong>(11) 2371 9000&nbsp;&nbsp;<strong>Intl:</strong>+44 28 877 89 229</td>
 			</tr>
 			<tr>
-			<td colspan="2" width="930" align="left"><br>
-			<a href="http://www.reflexstock.com">Stock Photography</a> / <a href="http://www.reflexstock.com/premium-stock-photography/index.html">Royalty Free Stock Photos</a> and <a href="http://www.reflexstock.com/rights-managed-images/index.html">Rights Managed Images</a> are authorised for license by Reflex <a href="http://www.reflexstock.com/">Stock Photo</a> Limited. The Reflex <a href="http://www.reflexstock.com">Stock Photo</a> / <a href="http://www.reflexstock.com">image library</a> provides access to one of the worlds largest collections of <a href="http://www.reflexstock.com/microstock-images/index.html">royalty free</a> / <a href="http://www.reflexstock.com/rights-managed-images/index.html">rights managed</a> <a href="http://www.reflexstock.com/">stock photography</a>, stock footage and creative <a href="http://www.reflexstock.com/microstock-images/index.html">stock image</a> collections. © 2005-2009 Reflex <a href="http://www.reflexstock.com/microstock-images/index.html">Stock Photography</a> Limited All rights reserved.<br><br>
+			<td width="775" align="left"><br>
+			<a href="http://www.reflexstock.com">Stock Photography</a> / <a href="http://www.reflexstock.com/premium-stock-photography/index.html">Royalty Free Stock Photos</a> and <a href="http://www.reflexstock.com/rights-managed-images/index.html">Rights Managed Images</a> are authorised for license by Reflex <a href="http://www.reflexstock.com/">Stock Photo</a> Limited. The Reflex <a href="http://www.reflexstock.com">Stock Photo</a> / <a href="http://www.reflexstock.com">image library</a> provides access to one of the worlds largest collections of <a href="http://www.reflexstock.com/microstock-images/index.html">royalty free</a> / <a href="http://www.reflexstock.com/rights-managed-images/index.html">rights managed</a> <a href="http://www.reflexstock.com/">stock photography</a>, stock footage and creative <a href="http://www.reflexstock.com/microstock-images/index.html">stock image</a> collections. © 2005-2010 Reflex <a href="http://www.reflexstock.com/microstock-images/index.html">Stock Photography</a> Limited All rights reserved.<br><br>
 			</td>
 			</tr>
 		</tbody></table>
 		</div>                                	
 	</div>
-
+<br>
 	
 </div>
 
@@ -1829,8 +674,11 @@ function getViewPort(){
 <div id="overlay" onclick="overlayclick()"></div>
 <iframe src="" name="floatframe" id="floatingFrame" frameborder="0"></iframe>
 
-	<div id="compDIV" onmousemove="mousemove(event)" style="display:none; position:absolute; left:0px; top:0px; overflow:hidden; background-color: white; border: solid gray 1px;">
-		<img id="compIMG" onmouseover="unresetComp()" onmouseout="clearComp()" style="display:none; float: left; clear: both;border: none;">
+	<div id="compDIV" onmousemove="mousemove(event)" style="display:none; position:absolute; left:0px; top:0px; overflow:hidden;">
+		
+				<div id="wmDIV" style="display:none; visibility:hidden;"></div>
+			
+		<img id="compIMG" onmouseover="unresetComp()" onmouseout="clearComp()" style="display:none; z-index:998; float:left; clear:both; border:none;">
 		<img id="thIMG" style="display:none; float: left; clear: both; cursor:pointer; border: none;">
 		<br>
 		<div id="captionDiv" style="text-align: center; clear: both; float:left; width:10px; overflow: hidden; font-family: verdana; font-size: 9px; color: black; background-color: #ffffff; Z-index:60;"></div>
@@ -1848,6 +696,7 @@ try {
 var pageTracker = _gat._getTracker("UA-896546-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
 
 
 
