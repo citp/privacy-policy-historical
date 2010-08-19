@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalbeauty.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529032656id_/http%3A//totalbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbeauty.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819170527id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for TotalBeauty.com
 
