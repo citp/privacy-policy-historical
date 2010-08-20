@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611182932id_/http%3A//www.rapleaf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820154302id_/http%3A//www.rapleaf.com/privacy) for the most accurate reproduction.*
 
 # Rapleaf Privacy - We respect and protect all information
 
@@ -28,4 +28,4 @@ We work closely with our business customers to protect personal information agai
 
 We provide our business customers with the means to access, review, and/or update information they have submitted to Rapleaf. The information we obtain for our business customers may be provided again to other business customers requesting information on their consumers, if there is overlap in consumer data.
 
-For more consumer-centric privacy information, please see our [Privacy Policy](https://web.archive.org/web/20100611182932id_/http%3A//www.rapleaf.com/privacy_policy).
+For more consumer-centric privacy information, please see our [Privacy Policy](https://web.archive.org/web/20100820154302id_/http%3A//www.rapleaf.com/privacy_policy).
