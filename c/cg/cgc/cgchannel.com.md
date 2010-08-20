@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgchannel.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415211827id_/http%3A//www.cgchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgchannel.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820083316id_/http%3A//www.cgchannel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CG Channel
 
