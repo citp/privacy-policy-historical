@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the blazingpc.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820075711id_/http%3A//www.blazingpc.com/forum/privacy.php) for the most accurate reproduction.*
+
+# BlazingPC.com - Privacy Policy
+
+**Collection and Use of Non-personal Information:** We collect the domain name, referring URLs, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The statistical data we collect is used for internal review, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor. We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads. 
+
+**With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, search queries, and clickstream information. If you would like to learn more about these practices and your choices not to have this information used to target advertisements to you, [please click here](http://www.networkadvertising.org/consumer/opt_out.asp). 
+
+**Information Sharing:** In the event that this site shares non-personal information with third parties, third parties must agree in writing that they will instate similar privacy policies to ensure this information is not shared with any other entities. 
+
+**Changes to Policy:** From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
