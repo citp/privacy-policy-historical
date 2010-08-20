@@ -1,28 +1,8 @@
-> *The following text is extracted and transformed from the platogo.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616133709id_/http%3A//www.platogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platogo.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820060118id_/http%3A//www.platogo.com/privacy-policy) for the most accurate reproduction.*
 
-# Platogo Privacy Policy
+# Platogo – Play together online
 
-#### Information We Collect
-
-In order that you may register on Platogo's website(s) and access the games and services provided, we collect the following personal data from you: your date of birth, gender and contact details including your country of residence and the email address that you provide.
-
-If you visit Platogo.com from certain other websites, such as facebook.com, we may also record your ID for those websites.
-
-We may also record details of any purchases that you make on our website(s). In order to process any purchases you wish to make, we may need to collect your bank account or credit card details from you.
-
-back to top
-
-#### Children Under the Age of 14
-
-Platogo does not knowingly collect or solicit personal information from anyone under the age of 14 or knowingly allow such persons to register.
-
-If you are under 14, you should neither attempt to register on Platogo nor send us any information about yourself, including your name, address, telephone number, or email address. No one under the age of 14 may provide any personal information to or on Platogo.
-
-In the event that we discover that we have collected personal information from a child under the age of 14, we will delete that information as quickly as possible. If you believe that we might have collected any information from or about a child under 14, please contact us at [privacy@platogo.com](mailto:privacy@platogo.com).
-
-back to top
-
-#### How We Use This Information and With Whom We Share Your Information
+## How We Use This Information and With Whom We Share Your Information
 
 Your personal information is used to manage your registration, and to personalize your visits to our website(s) and the games that you access. Where you have asked to receive information from us, we will use your personal information to send you newsletters or other information about us.
 
@@ -34,13 +14,7 @@ We may also display targeted advertisements on our websites based upon your pers
 
 back to top
 
-#### Links and Third Parties
-
-Our websites contain links to other websites over which we have no control. Such third party websites are operated by companies that are also outside of our control, and your activities on those websites will therefore be governed by the policies and practices of those third parties.
-
-back to top
-
-#### Cookies
+## Cookies
 
 A cookie is a small string of text stored on a user's computer by a web browser. A cookie consists of one or more name-value pairs containing bits of information such as user preferences, shopping cart contents, the identifier for a server-based session, and other data used by websites.
 
@@ -55,13 +29,7 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 back to top
 
-#### Security
-
-We use standard and reasonable technological and procedural measures to protect the information you provide. However, the Internet is an open system and we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
-
-back to top
-
-#### Changes to this Privacy Policy
+## Changes to this Privacy Policy
 
 If our privacy policy changes in any way, we will place an updated version on our websites. Review this policy regularly to ensure that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
