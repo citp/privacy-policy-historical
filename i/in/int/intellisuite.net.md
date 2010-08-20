@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellisuite.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210117id_/http%3A//intellisuite.net/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellisuite.net privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820135227id_/http%3A//www.intellisuite.net/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # IntelliSuite Technologies > Home
 
