@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the astrology.com privacy policy that was archived on 2009-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091227125908id_/http%3A//www.ivillage.com/about/0%2C%2Cqqzh%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astrology.com privacy policy that was archived on 2010-08-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100821051043id_/http%3A//www.ivillage.com/about/0%2C%2Cqqzh%2C00.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -61,7 +61,7 @@ if (document.addEventListener){
       function checkExpiration() {
           // -- Date Information --
           
-          currentDateArray = "2009/12/27";
+          currentDateArray = "2010/08/21";
           currentDateArray = currentDateArray.split("/");
           currentDate = new Date(currentDateArray[0], currentDateArray[1] - 1, currentDateArray[2]);
 
@@ -108,6 +108,7 @@ iv_dartStyle = "default";
 </head>
 
 <body>
+
 <div id="interstad" style="postion:absolute; height:1px; width:100%; display:block; top:0px; left:0px;"></div>
 
 <div id="container2">
@@ -117,6 +118,16 @@ iv_dartStyle = "default";
 		@import "http://www.ivillage.com/css/uni/nd/header/element/0,,,00.css";
 		@import "http://www.ivillage.com/css/uni/nd/header/global/0,,,00.css";
     </style>
+	
+	<!--Script for Google Chrome-->
+	
+	<script type="text/javascript">  var toolbarConfig = {title:"iVillage",link:"http://bit.ly/9uhkTM",hide:"noIVExtToolbar",slide:true};
+    document.write('<scr'+'ipt type="text/javascript" src="http://assets.idiomag.com/ext/toolbar/tb_iv.js?'+Math.random()+'"></scr'+'ipt>');
+    </script><script type="text/javascript" src="http://assets.idiomag.com/ext/toolbar/tb_iv.js?0.537400160179913"></script>
+	
+	<!--End-->
+	
+	
 	<script type="text/javascript">
 	if(window.location.href.toLowerCase().indexOf("video.ivillage.com") == -1) {
 		document.write('<scr'+'ipt type="text/javascript" src="http://www.ivillage.com/stc/newhomepageJS/jquery-1.31.js"></scr'+'ipt>');
@@ -131,10 +142,13 @@ iv_dartStyle = "default";
 	  <style type="text/css">
 		@import "http://www.ivillage.com/css/uni/nd/header/ie/0,,,00.css";
     </style>
-    <![endif]-->				
+    <!-[endif]-->				
 <script language="javascript" type="text/javascript">
 		//<![CDATA[
-	
+	    if (jlinkdd == null || typeof jlinkdd == "undefined") {
+            var jlinkdd = document.URL.split("dd").shift();
+	        var joinLinkdd = "https://subscriber.ivillage.com/funnels/10?vrt=iv&dd=" + jlinkdd;	
+        }
 		if (linkdd == null || typeof linkdd == "undefined") {		
 			var linkdd = document.URL;
 		}
@@ -205,19 +219,19 @@ iv_dartStyle = "default";
 		}
 		
 		var loginTxt ='<div id="iv_home_login_section" style="position:relative;"><div id="iv_home_loginForm"><div id="iv_home_loginForm_inputs"><form onsubmit="return iv_submitLogin(document.loginForm);" name="loginForm" id="loginForm" action="' + loginLinkdd + '"  method="post"><input type="hidden" name="txtRequiredInputs" value="login password"><label for="firstname">Username</label><input id="iv_home_username_input" type="text" name="login"/><label for="iv_home_password_input">Password</label><input id="iv_home_password_input" type="password" name="password"/><button id="sign_in_button" type="submit" ><span>Sign In</span></button></div><div id="iv_home_loginForm_secondary"><a name="" href="https://subscriber.ivillage.com/password/action/index" class="iv_home_link_general iv_home_link_emphisized">Forgot your username or password?</a><input id="iv_home_rememberme"type="checkbox" name="savePassword"/><label for="iv_home_rememberme">Remember me</label></div></form></div>';
-		var topLoginFormTxt = '<div id="iv_home_loginForm_description"><span class="iv_home_loginForm_leadtext">Not yet a member?</span> Meet & share countless ideas on over 1,000 message boards with women just like you. <a  href="https://subscriber.ivillage.com/funnels/10?vrt=iv&dd=http://www.ivillage.com" class="iv_home_link_general iv_home_link_emphisized">Join Now!</a></div><img id="iv_home_login_close" src="http://i.ivillage.com/ivillage/newdesign/login_section_close.png" /></div>';
+		var topLoginFormTxt = '<div id="iv_home_loginForm_description"><span class="iv_home_loginForm_leadtext">Not yet a member?</span> Meet & share countless ideas on over 1,000 message boards with women just like you. <a  href="' + joinLinkdd + '" class="iv_home_link_general iv_home_link_emphisized">Join Now!</a></div><img id="iv_home_login_close" src="http://i.ivillage.com/ivillage/newdesign/login_section_close.png" /></div>';
 		var memberTxt;
 		var login = false;
 		iv_getLoginDate();
 		if (iv_getLoginTkt() != undefined && iv_getLoginTkt() != "" && iv_getLoginTkt() != 'NA'){
 			if (iv_getLogin() != undefined && iv_getLogin() != "") {
-				memberTxt = '<div id="iv_home_welcome_signed_in"><div id="iv_home_member_avatar"><img src="http://i.ivillage.com/ivillage/newdesign/red_avatar_default.jpg" alt=""/></div><div id="iv_home_welcome_signed_in_welcome"><a  href="https://subscriber.ivillage.com/profile" ><h3>Hello ' + unescape(iv_getLogin()) + '</h3></a></div><div id="iv_home_welcome_signed_in_signout"><a name="" href="https://subscriber.ivillage.com/login/logout/?url=' + document.URL + '" id="iv_home_signout" class="iv_home_link_general iv_home_link_emphisized">(Sign Out)</a></div><div class="iv_home_welcome_links iv_home_welcome_links_signedin"><a name="iv::tnv:mb" href="http://www.ivillage.com/messageboards" class="iv_home_link_general">Message Boards</a><span>&bull;</span><a name="iv::tnv:nl" href="https://subscriber.ivillage.com/funnels/5" class="iv_home_link_general">Newsletter Sign Up</a></div></div>';			
+				memberTxt = '<div id="iv_home_welcome_signed_in"><div id="iv_home_member_avatar"><img src="http://i.ivillage.com/ivillage/newdesign/red_avatar_default.jpg" alt=""/></div><div id="iv_home_welcome_signed_in_welcome"><a  href="https://subscriber.ivillage.com/profile" ><h3>Hello ' + unescape(iv_getLogin()) + '</h3></a></div><div id="iv_home_welcome_signed_in_signout"><a name="" href="https://subscriber.ivillage.com/login/logout/?url=' + document.URL + '" id="iv_home_signout" class="iv_home_link_general iv_home_link_emphisized">(Sign Out)</a></div><div class="iv_home_welcome_links iv_home_welcome_links_signedin"><a name="iv::tnv:mb" href="http://www.ivillage.com/messageboards" class="iv_home_link_general">Message Boards</a><span>&bull;</span><a name="iv::tnv:nl" href="https://subscriber.ivillage.com/funnels/5?ice=newsletters_ivillage" class="iv_home_link_general">Newsletter Sign Up</a></div></div>';			
 			} else {
-            	memberTxt = '<div id="iv_home_welcome_signed_in"><div id="iv_home_member_avatar"><img src="http://i.ivillage.com/ivillage/newdesign/red_avatar_default.jpg" alt=""/></div><div id="iv_home_welcome_signed_in_welcome"><a  href="https://subscriber.ivillage.com/profile" ><h3>Hello Your Profile</h3></a></div><div id="iv_home_welcome_signed_in_signout"><a name="" href="https://subscriber.ivillage.com/login/logout/?url=' + document.URL + '" id="iv_home_signout" class="iv_home_link_general iv_home_link_emphisized">(Sign Out)</a></div><div class="iv_home_welcome_links iv_home_welcome_links_signedin"><a name="iv::tnv:mb" href="http://www.ivillage.com/messageboards" class="iv_home_link_general">Message Boards</a><span>&bull;</span><a name="iv::tnv:nl" href="https://subscriber.ivillage.com/funnels/5" class="iv_home_link_general">Newsletter Sign Up</a></div></div>';
+            	memberTxt = '<div id="iv_home_welcome_signed_in"><div id="iv_home_member_avatar"><img src="http://i.ivillage.com/ivillage/newdesign/red_avatar_default.jpg" alt=""/></div><div id="iv_home_welcome_signed_in_welcome"><a  href="https://subscriber.ivillage.com/profile" ><h3>Hello Your Profile</h3></a></div><div id="iv_home_welcome_signed_in_signout"><a name="" href="https://subscriber.ivillage.com/login/logout/?url=' + document.URL + '" id="iv_home_signout" class="iv_home_link_general iv_home_link_emphisized">(Sign Out)</a></div><div class="iv_home_welcome_links iv_home_welcome_links_signedin"><a name="iv::tnv:mb" href="http://www.ivillage.com/messageboards" class="iv_home_link_general">Message Boards</a><span>&bull;</span><a name="iv::tnv:nl" href="https://subscriber.ivillage.com/funnels/5?ice=newsletters_ivillage" class="iv_home_link_general">Newsletter Sign Up</a></div></div>';
 			}
 			login = true;
 		} else {			
-			memberTxt = '<div id="iv_home_welcome"><h3>Welcome!</h3><div id="iv_home_login_open_container"><a id="iv_home_login_open">Sign In</a></div><div style="float: left;">or <a  href="https://subscriber.ivillage.com/funnels/10?vrt=iv&dd=http://www.ivillage.com"  class="iv_home_link_general iv_home_link_emphisized">Join Now!</a></div><div class="iv_home_welcome_links"><a name="iv::tnv:mb" href="http://www.ivillage.com/messageboards" class="iv_home_link_general">Message Boards</a><span>&bull;</span><a name="iv::tnv:nl" href="https://subscriber.ivillage.com/funnels/5" class="iv_home_link_general">Newsletters</a><span>&bull;</span><a name="iv::tnv:ct" href="http://ivillageofficial.ourtoolbar.com/" class="iv_home_link_general">iVillage Toolbar</a></div></div>';	
+			memberTxt = '<div id="iv_home_welcome"><h3>Welcome!</h3><div id="iv_home_login_open_container"><a id="iv_home_login_open">Sign In</a></div><div style="float: left;">or <a  href="' + joinLinkdd + '"  class="iv_home_link_general iv_home_link_emphisized">Join Now!</a></div><div class="iv_home_welcome_links"><a name="iv::tnv:mb" href="http://www.ivillage.com/messageboards" class="iv_home_link_general">Message Boards</a><span>&bull;</span><a name="iv::tnv:nl" href="https://subscriber.ivillage.com/funnels/5?ice=newsletters_ivillage" class="iv_home_link_general">Newsletters</a><span>&bull;</span><a name="iv::tnv:ct" href="http://ivillageofficial.ourtoolbar.com/" class="iv_home_link_general">iVillage Toolbar</a></div></div>';	
 		}
 		//]]>
 		var welcomeLoginForm = loginTxt + topLoginFormTxt;
@@ -243,8 +257,8 @@ iv_dartStyle = "default";
 
 
 </script>
-	<!--<div id="iv_home_logo" style="position:relative;"><a name="" href="http://www.ivillage.com/"><h1>ivillage</h1></a></div>-->
 <div id="iv_home_logo" style="position:relative;"><a name="" href="http://www.ivillage.com/"><h1>ivillage</h1></a></div>
+
  
 				
 		<script language="javascript" type="text/javascript">
@@ -296,20 +310,20 @@ iv_dartStyle = "default";
 				<div id="iv_home_main_navigationWrapper" style="position:absolute;top:101px;left:0px;">   	  	
 	
 			   	  	<ul id="iv_home_main_navigation">
-					  <li><a name="iv::tnv:pp" href="http://parenting.ivillage.com" class="first">pregnancy &amp; parenting</a></li>
-					  <li><a name="iv::tnv:bs" href="http://beauty.ivillage.com">beauty &amp; style</a></li>
+					  <li><a name="iv::tnv:pp" href="http://www.ivillage.com/pregnancy-parenting" class="first">pregnancy &amp; parenting</a></li>
+					  <li><a name="iv::tnv:bs" href="http://www.ivillage.com/beauty-style">beauty &amp; style</a></li>
 					  <li><a name="iv::tnv:hh" href="http://home.ivillage.com">home &amp; garden</a></li>
 					  <li><a name="iv::tnv:en" href="http://www.ivillage.com/entertainment">entertainment</a></li>
 					  <li><a href="http://www.ivillage.com/green">go green</a></li>
 					  <li><a name="iv::tnv:fd" href="http://www.ivillage.com/food">food</a></li>
-					  <li><a name="iv::tnv:th" href="http://yourtotalhealth.ivillage.com">health &amp; Diet</a></li>
+					  <li><a name="iv::tnv:th" href="http://www.ivillage.com/health">health &amp; Diet</a></li>
 					  <li class="last"><a href="#">more ivillage<img class="more-toggle-idle" src="http://i.ivillage.com/ivillage/newdesign/main-nav-more-toggle-idle.gif" alt="more idle" width="12" height="16" border="0"></a> 
 					  	<ul id="iv_home_main_navigation_more">
 						 <li>
 						  	<ul>
 							  <li><a name="iv::tnv:ls" href="http://love.ivillage.com">Love</a></li>
 							  <li><a name="iv::tnv:wd" href="http://weddings.ivillage.com">Wedding</a></li>
-							  <li><a name="iv::tnv:nl" href="https://subscriber.ivillage.com/funnels/5">Newsletters</a></li>
+							  <li><a name="iv::tnv:nl" href="https://subscriber.ivillage.com/funnels/5?ice=newsletters_ivillage">Newsletters</a></li>
 							  <li><a name="iv::tnv:le" href="http://www.ivillage.com/promotions">Free Stuff</a></li>                                            
 							 <li class="last_more"><a name="iv::tnv:cp" href="http://www.ivillagecoupons.com/">Coupons</a></li> 
 						  	</ul>
@@ -318,10 +332,8 @@ iv_dartStyle = "default";
 						  	<ul>
 							  <li><a name="iv::tnv:as" href="http://www.astrology.com">Astrology</a></li>
 							  <li><a name="iv::tnv:mt" href="http://www.momtourage.com">Momtourage</a></li>
-  							  <li><a name="iv::tnv:nsd" href="http://www.neversaydiet.com">NeverSayDiet</a></li>
 							  <li><a name="iv::tnv:uk" href="http://www.ivillage.co.uk">iVillage UK</a></li>
 							  <li class="last_more"><a name="iv::tnv:gw" href="http://www.gardenweb.com/">GardenWeb</a></li>
-
 							</ul>
 						  </li>
 						  <li class="more-toggle-active"><img src="http://i.ivillage.com/ivillage/newdesign/main-nav-more-toggle-active.gif" alt="" width="17" height="37" border="0"></li>
@@ -394,17 +406,17 @@ iv_dartStyle = "default";
 
 			var suppArrLyr = getQueryParamValue('suppArrLyr');
 			if (!suppArrLyr) {
-                document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=970x66,728x90;pos=1;tile=1;dcopt=ist;'+(top.__nbcudigitaladops_dtparams||'')+'ord=590612?"><\/scr'+'ipt>');
+                document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=970x66,728x90;pos=1;tile=1;dcopt=ist;'+(top.__nbcudigitaladops_dtparams||'')+'ord=100405?"><\/scr'+'ipt>');
 				//end - this comment is for parsing in standard article
 			} else {
-                 document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=970x66,728x90;pos=1;tile=1;'+(top.__nbcudigitaladops_dtparams||'')+'ord=590612?"><\/scr'+'ipt>');
+                 document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=970x66,728x90;pos=1;tile=1;'+(top.__nbcudigitaladops_dtparams||'')+'ord=100405?"><\/scr'+'ipt>');
 			}
  			    //]]>
-                </script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=none;sz=970x66,728x90;pos=1;tile=1;dcopt=ist;ord=590612?"></script>
+                </script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=none;sz=970x66,728x90;pos=1;tile=1;dcopt=ist;ord=100405?"></script>
 				<noscript>
 		
-			<a href="http://iv.doubleclick.net/jump/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=970x66,728x90;pos=1;tile=1;dcopt=ist;ord=590612?">
-                    <img src="http://iv.doubleclick.net/ad/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=970x66,728x90;pos=1;tile=1;dcopt=ist;ord=590612?" 
+			<a href="http://iv.doubleclick.net/jump/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=970x66,728x90;pos=1;tile=1;dcopt=ist;ord=100405?">
+                    <img src="http://iv.doubleclick.net/ad/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=970x66,728x90;pos=1;tile=1;dcopt=ist;ord=100405?" 
                          border="0" alt="Click Here!" /></a>
 
 		</noscript>                <!-- End DART Tag --> 
@@ -497,17 +509,17 @@ iv_dartStyle = "default";
 	              
 			var suppArrLyr = getQueryParamValue('suppArrLyr');
 			if (!suppArrLyr) {
-                document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=120x600,160x600,3x3;pos=12;tile=12;'+(top.__nbcudigitaladops_dtparams||'')+'ord=590612?"><\/scr'+'ipt>');
+                document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=120x600,160x600,3x3;pos=12;tile=12;'+(top.__nbcudigitaladops_dtparams||'')+'ord=100405?"><\/scr'+'ipt>');
 				//end - this comment is for parsing in standard article
 			} else {
-                 document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=120x600,160x600,3x3;pos=12;tile=12;'+(top.__nbcudigitaladops_dtparams||'')+'ord=590612?"><\/scr'+'ipt>');
+                 document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=120x600,160x600,3x3;pos=12;tile=12;'+(top.__nbcudigitaladops_dtparams||'')+'ord=100405?"><\/scr'+'ipt>');
 			}
  			    //]]>
-                </script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=none;sz=120x600,160x600,3x3;pos=12;tile=12;ord=590612?"></script>
+                </script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=none;sz=120x600,160x600,3x3;pos=12;tile=12;ord=100405?"></script>
 				<noscript>
 		
-			<a href="http://iv.doubleclick.net/jump/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=120x600,160x600,3x3;pos=12;tile=12;ord=590612?">
-                    <img src="http://iv.doubleclick.net/ad/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=120x600,160x600,3x3;pos=12;tile=12;ord=590612?" 
+			<a href="http://iv.doubleclick.net/jump/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=120x600,160x600,3x3;pos=12;tile=12;ord=100405?">
+                    <img src="http://iv.doubleclick.net/ad/nbcu.ivillage/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=120x600,160x600,3x3;pos=12;tile=12;ord=100405?" 
                          border="0" alt="Click Here!" /></a>
 
 		</noscript>                <!-- End DART Tag --> 
@@ -614,7 +626,7 @@ Please remember that any information you disclose in these public forum areas be
 	var msnRandom = Math.floor(Math.random()*99999999999);	
 	
 			document.write('<scr'+'ipt type="text/javascript" src="http://www.ivillage.com/adsync/serveMSNbox/0,,,00.js?' + msnRandom + '"></scr'+'ipt>');
-</script><script type="text/javascript" src="http://www.ivillage.com/adsync/serveMSNbox/0,,,00.js?33543781220"></script><!-- <script language="javascript" type="text/javascript">iv_drawCTA2();</script> --> </div>
+</script><script type="text/javascript" src="http://www.ivillage.com/adsync/serveMSNbox/0,,,00.js?93396392753"></script><!-- <script language="javascript" type="text/javascript">iv_drawCTA2();</script> --> </div>
 			<!--Start of PAW tags-->
 			  <!--End of PAW tags-->
 
@@ -631,17 +643,17 @@ Please remember that any information you disclose in these public forum areas be
 <div id="sideContent">
 	<div class="todayOn">Today on iVillage</div>
 	<div id="sideContentPad"><script language="javascript" type="text/javascript">setImp('iv,'+iv_verticalID+',4thclmn'); iv_set4thImp(); var iv_sunsign=iv_getCookie("iv_sunsign"); if (!iv_sunsign) { iv_sunsign = ""; }</script>
-<div id="flashcontent__3160014_1"><span style="font-family: Verdana, sans-serif; font-size:10px;">You need the newest version of Macromedia Flash Player to view this feature. Download the Flash plug-in at <a href="http://www.macromedia.com/go/getflashplayer/">http://www.macromedia.com</a>.</span><br>
+<div id="flashcontent__2251809_1"><span style="font-family: Verdana, sans-serif; font-size:10px;">You need the newest version of Macromedia Flash Player to view this feature. Download the Flash plug-in at <a href="http://www.macromedia.com/go/getflashplayer/">http://www.macromedia.com</a>.</span><br>
 </div>
 <script type="text/javascript" language="javascript">
 // <![CDATA[
-    var iv_flashObj__3160014_1 = new iv_FlashObject("http://i.ivillage.com/rightcol/rightcol_uni.swf", "noID", "205", "900", 8, "");
-    iv_flashObj__3160014_1.addParam("wmode", "opaque");
-iv_flashObj__3160014_1.addParam("salign", "t");
-iv_flashObj__3160014_1.addParam("allowScriptAccess", "always");
-iv_flashObj__3160014_1.addVariable("xmlpath", "http://www.ivillage.com/shared/rcol/xmldata/0,,17-1,00.html?g_LiveDate=&hid");
+    var iv_flashObj__2251809_1 = new iv_FlashObject("http://i.ivillage.com/rightcol/rightcol_uni.swf", "noID", "205", "900", 8, "");
+    iv_flashObj__2251809_1.addParam("wmode", "opaque");
+iv_flashObj__2251809_1.addParam("salign", "t");
+iv_flashObj__2251809_1.addParam("allowScriptAccess", "always");
+iv_flashObj__2251809_1.addVariable("xmlpath", "http://www.ivillage.com/shared/rcol/xmldata/0,,17-1,00.html?g_LiveDate=&hid");
 
-    iv_flashObj__3160014_1.write("flashcontent__3160014_1");
+    iv_flashObj__2251809_1.write("flashcontent__2251809_1");
 // ]]>
 </script> 
 <script language="javascript" type="text/javascript" src="http://oimg.nbcuni.com/b/ss/nbcuivsites,nbcuivprod/1/H.8/987654?pe=lnk_o&amp;pev2=RightColumn&amp;v13=iv:4thcolumn:iVillage"></script></div>
@@ -670,17 +682,17 @@ iv_flashObj__3160014_1.addVariable("xmlpath", "http://www.ivillage.com/shared/rc
 	              
 			var suppArrLyr = getQueryParamValue('suppArrLyr');
 			if (!suppArrLyr) {
-                document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage.b/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=468x60,728x90;pos=11;tile=11;'+(top.__nbcudigitaladops_dtparams||'')+'ord=590612?"><\/scr'+'ipt>');
+                document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage.b/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=468x60,728x90;pos=11;tile=11;'+(top.__nbcudigitaladops_dtparams||'')+'ord=100405?"><\/scr'+'ipt>');
 				//end - this comment is for parsing in standard article
 			} else {
-                 document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage.b/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=468x60,728x90;pos=11;tile=11;'+(top.__nbcudigitaladops_dtparams||'')+'ord=590612?"><\/scr'+'ipt>');
+                 document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage.b/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad='+eTandomAd+';sz=468x60,728x90;pos=11;tile=11;'+(top.__nbcudigitaladops_dtparams||'')+'ord=100405?"><\/scr'+'ipt>');
 			}
  			    //]]>
-                </script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage.b/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=none;sz=468x60,728x90;pos=11;tile=11;ord=590612?"></script>
+                </script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcu.ivillage.b/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=none;sz=468x60,728x90;pos=11;tile=11;ord=100405?"></script>
 				<noscript>
 		
-			<a href="http://iv.doubleclick.net/jump/nbcu.ivillage.b/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=468x60,728x90;pos=11;tile=11;ord=590612?">
-                    <img src="http://iv.doubleclick.net/ad/nbcu.ivillage.b/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=468x60,728x90;pos=11;tile=11;ord=590612?" 
+			<a href="http://iv.doubleclick.net/jump/nbcu.ivillage.b/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=468x60,728x90;pos=11;tile=11;ord=100405?">
+                    <img src="http://iv.doubleclick.net/ad/nbcu.ivillage.b/ivillage_about;chan=ivillage;sect=about;pageid=qqzh;cont=63;tandomad=;sz=468x60,728x90;pos=11;tile=11;ord=100405?" 
                          border="0" alt="Click Here!" /></a>
 
 		</noscript>                <!-- End DART Tag --> 
@@ -705,7 +717,7 @@ iv_flashObj__3160014_1.addVariable("xmlpath", "http://www.ivillage.com/shared/rc
 					   <li><a name="Newsletters" href="https://subscriber.ivillage.com/funnels/5">Newsletters</a></li>
 					   <li><a name="Shopping" href="http://products.ivillage.com/mrdr.php?url=http%3A%2F%2Fproducts.ivillage.com%2Findex.php&amp;mode=ivg_iv_ftr">Shopping</a></li>
 					   <li><a name="Free &amp; Fun Stuff" href="http://www.ivillage.com/promotions?ice=ivil,freestuff,footer">Free &amp; Fun Stuff</a></li>
-					   <li><a name="Coupons" href="http://www.ivillage.com/0,,78pxnkds,00.html">Coupons</a></li>
+					   <li><a name="Coupons" href="http://ivillagecoupons.com">Coupons</a></li>
 					   <li><a name="iLearn" href="http://ilearn.ivillage.com/">iLearn</a></li>
 				   </ul>		  
 				   <ul>
@@ -719,7 +731,7 @@ iv_flashObj__3160014_1.addVariable("xmlpath", "http://www.ivillage.com/shared/rc
 				   <ul>
 					   <li><a name="iVillage UK" href="http://www.ivillage.co.uk/" target="_new">iVillage UK</a></li>
 					   <li><a name="iVillage on Telemundo" href="http://msnlatino.telemundo.com/Mujer_De_Hoy/" target="_new">iVillage on Telemundo</a></li>
-					   <li><a name="Your Total Health" href="http://yourtotalhealth.ivillage.com/" target="_new">Your Total Health</a></li>
+					   <li><a name="Your Total Health" href="http://www.ivillage.com/health" target="_new">Your Total Health</a></li>
 					   <li><a name="Never Say Diet" href="http://www.neversaydiet.com/?ice=nsd,iv,footer" target="_new">Never Say Diet</a></li>
 					   <li><a name="Momtourage" href="http://www.momtourage.com/" target="_new">Momtourage</a></li>
 					   <li><a name="Kalimocho" href="http://www.kalimocho.co.uk/" target="_new">Kalimocho</a></li>
@@ -754,7 +766,7 @@ iv_flashObj__3160014_1.addVariable("xmlpath", "http://www.ivillage.com/shared/rc
 				</div>			
 				<div id="iv_home_footer_ivillage_network">
 					<img src="http://a820.g.akamai.net/f/820/822/1d/i.ivillage.com/ivillage/newdesign/the_ivillage_network.png" alt="the ivillage network" width="134" height="12" border="0">
-					<a name="your total health" href="http://yourtotalhealth.ivillage.com/" target="_new" id="iv_home_footer_logo_yourtotalhealth">your total health</a>
+					<a name="your total health" href="http://www.ivillage.com/health" target="_new" id="iv_home_footer_logo_yourtotalhealth">your total health</a>
 					<a name="never say diet" href="http://www.neversaydiet.com/?ice=nsd,iv,footer" target="_new" id="iv_home_footer_logo_neversaydiet">never say diet</a>
 					<a name="momtourage" href="http://www.momtourage.com/" target="_new" id="iv_home_footer_logo_momtourage">momtourage</a>
 					<a name="astrology" href="http://www.astrology.com/" target="_new" id="iv_home_footer_logo_astrology">astrology</a>
@@ -763,16 +775,17 @@ iv_flashObj__3160014_1.addVariable("xmlpath", "http://www.ivillage.com/shared/rc
 				<div id="iv_home_footer_copy_right_nbc_universal_credit">
 				   <div id="iv_home_footer_copy_right" class="chanel">
 				   <span id="channelnetwork"></span>
-					   © 2000-2009 iVillage Inc. All rights reserved. <a name="" href="http://www.ivillage.com/about/0,,qr4p,00.html">Terms of Service</a> | <a name="" href="http://www.ivillage.com/about/0,,qqzh,00.html">Privacy Policy</a>
+					   © 2010 iVillage Inc. All rights reserved. <a name="" href="http://www.ivillage.com/about/0,,qr4p,00.html">Terms of Service</a> | <a name="" href="http://www.ivillage.com/about/0,,qqzh,00.html">Privacy Policy</a>
                      	
 				   </div>
 				   <div id="iv_home_footer_nbc_universal_credit">
 					   <a name="An NBC Universal Company" href="http://www.nbcuni.com/">An NBC Universal Company</a>
-				   </div>
+    			   </div>				   
 				</div>
-				</div>
+				 </div>
 			</div>
 		<script type="text/javascript">
+		
 		if(window.location.href.toLowerCase().indexOf("video.ivillage.com") == -1) {
 			$(document).ready(function(){		
 			if(!$('body').attr('id')) {
@@ -841,28 +854,24 @@ iv_flashObj__3160014_1.addVariable("xmlpath", "http://www.ivillage.com/shared/rc
 
 
 	
-		<!-- start of skimlinks js file include -->
-		<script src="http://ivillagecom.skimlinks.com/api/skimlinks.js" type="text/javascript"></script>
-		<script type="text/javascript">
-			var skimlinks_pub_id = "661X1243";
-			var skimlinks_domain = "skimlinks.ivillage.com";
-			var skimlinks_exclude = new Array("products.ivillage.com","parenting.ivillage.com","beauty.ivillage.com","home.ivillage.com","entertainment.ivillage.com","food.ivillage.com","love.ivillage.com","weddings.ivillage.com","www.ivillage.com","www.gardenweb.com","voices.gardenweb.com","www.astrology.com","messageboards.ivillage.com","subscriber.ivillage.com","slideshow.ivillage.com","choosers.ivillage.com","www.neversaydiet.com","yourtotalhealth.ivillage.com","healthbeat.ivillage.com","madelynfernstrom.ivillage.com","video.ivillage.com","photos.ivillage.com","solver.ivillage.com","www.healthylivingonline.com","dftools.ivillage.com","quiz.ivillage.com","video.health.ivillage.com","ilearn.ivillage.com","beehive.ivillage.com","foodrush.ivillage.com","ido.ivillage.com","greenmoms.ivillage.com","louislicari.ivillage.com","housecalls.ivillage.com","isaacmizrahi.ivillage.com","ivillageindex.ivillage.com","jamespatterson.ivillage.com","janetshamlian.ivillage.com","meredithtoday.ivillage.com","micheleborba.ivillage.com","gailsaltz.ivillage.com","weddingstress.ivillage.com","secretsauce.ivillage.com","sexonmydesk.ivillage.com","simply-green-with-emme.ivillage.com","stealsanddeals.ivillage.com","supermarketguru.ivillage.com","thefashionator.ivillage.com","thisfish.ivillage.com","traceycox.ivillage.com","momtourage.com");
-			skimlinks();
-		</script>	
-		<!--  end of skimlinks js file include -->
-	
-	
 			<script language="javascript">
 				var chkUrl = String(window.location);
 				var chkPaths = chkUrl.split("/");
 				var chksubdomn = chkPaths[3];
 				if(chksubdomn == "green") {				
 					 <!-- start of Tynt js file include for green channel -->
-				document.write('<scr'+'ipt type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cAHfRML-yr3Pv6ab7jrHtB&s=23">'+'</scr'+'ipt>');
+				tyntVariables = {"spt":"Sign up for","spid":19,"ap":"Read More","sp":"iVillage Special Offers"};	 
+				document.write('<scr'+'ipt type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cAHfRML-yr3Pv6ab7jrHtB&amp;s=23">'+'</scr'+'ipt>');
 					 <!--  end of Tynt js file include for green channel  -->				
 				}
 		</script>
-		   </div><!-- End: containerPad -->
+		   <!-- start tynt speedsearch -->
+<script type="text/javascript"> tyntSSVariables={"logo":" http://asc.tynt.com/iVillage.png","logoHeight":32,"logoWidth":70}
+</script>
+
+<script type="text/javascript" src=" http://asa.tynt.com/javascripts/TyntSpeedSearch.js"></script>
+<!-- end tynt -->
+ </div><!-- End: containerPad -->
 </div><!-- End: container -->
 
 
