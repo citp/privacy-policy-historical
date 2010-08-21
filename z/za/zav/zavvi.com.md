@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zavvi.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621070952id_/http%3A//www.zavvi.com/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zavvi.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821072052id_/http%3A//www.zavvi.com/privacy-policy.info) for the most accurate reproduction.*
 
-# zavvi.com - Privacy Policy
+# Privacy Policy | Zavvi.com
 
 **This is a Secure Website**
 
@@ -14,7 +14,7 @@ Additionally, we will look at the products you buy, together with the way you vi
 
 We collect information about our customers via server logs, cookies, order forms and competitions. A cookie is a file that your web browser places on your computers hard disk for record keeping purposes. The information collected in this way can be used to identify you unless you modify your browser settings. The cookie does not store any credit/debit card information nor password details.
 
-zavvi operates an opt out mail system. This gives you the choice of whether or not you wish to receive marketing information. Replying to the 'unsubscribe' link in promotional mail will also ensure that your name is removed from our mailing list.
+zavvi operates an opt out mail system. This gives you the choice of whether or not you wish to receive marketing information. Replying to the 'unsubscribe' link in promotional mail will also ensure that your name is removed from our mailing list. You are automatically opted-in to all promotional emails from The Hut Group brands. You can unsubscribe from any of these emails at any time.
 
 zavvi website employs VeriSign and industry-standard SSL to provide secure credit card transactions. SSL is a communications protocol for transmitting private information over the internet. It works by encrypting data that is transmitted over the SSL connection. When you place an order, your credit/debit card information is encrypted and then sent over the internet using an SSL connection. No one can read or access the data that is being transmitted.
 
