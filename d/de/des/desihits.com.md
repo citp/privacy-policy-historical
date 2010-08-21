@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desihits.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620080918id_/http%3A//www.desihits.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihits.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821192318id_/http%3A//www.desihits.com/privacy_policy) for the most accurate reproduction.*
 
 # Desi Radio, Videos and MP3s, Bollywood Hindi Songs, Bhangra Music and Podcasts at Desi Hits.com
 
