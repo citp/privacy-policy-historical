@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themresort.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630113722id_/http%3A//www.themresort.com/visitorinfo/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themresort.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821202950id_/http%3A//www.themresort.com/visitorinfo/policy.html) for the most accurate reproduction.*
 
 # The M Resort Spa Casino Las Vegas • Privacy Policy
 
