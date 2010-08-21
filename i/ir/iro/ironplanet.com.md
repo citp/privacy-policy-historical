@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619123732id_/http%3A//www.ironplanet.com/main/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821192452id_/http%3A//www.ironplanet.com/main/privacy.jsp) for the most accurate reproduction.*
 
 # IronPlanet - Privacy Statement
 
