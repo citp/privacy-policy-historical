@@ -1,658 +1,762 @@
-<!--The following is the downloaded HTML source of the tbotech.com privacy policy that was archived on 2010-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100608220959id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tbotech.com privacy policy that was archived on 2010-08-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100821231537id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<!-- InstanceBeginEditable name="doctitle" -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Privacy Policy</title>
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="description" -->
-<meta name="Description" content="Be assured that your shopping experience is completely safe. The order site is secured using a Thawte SSL Web Server Certificate which encrypts all data to and from the site. You can be assured of the security of your information.">
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="keywords" -->
-<meta name="Keywords" content="privacy policy">
-<!-- InstanceEndEditable -->
-<link type="text/css" rel="stylesheet" href="xsp_styles.css">
-<link type="text/css" rel="stylesheet" href="LEFT_MENU.css">
-<link type="text/css" rel="stylesheet" href="RIGHT_MENU.css">
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
-<!-- InstanceParam name="Optional Above Footer" type="boolean" value="true" -->
-<!-- InstanceParam name="Right Side Copy" type="boolean" value="true" -->
-<!-- InstanceParam name="OptionalRegion3" type="boolean" value="true" -->
-</head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
+<meta name="description" content="Be assured that your shopping experience is completely safe. The order site is secured using a Web Server Certificate which encrypts all data to and from the site. You can be assured of the security of your information.">
+<meta name="keywords" content="privacy policy">
+
+
+<base href="http://www.tbotech.com/">
+<link href="/skins/basic/customer/images/icons/favicon.ico" rel="shortcut icon">
+
+<link href="/skins/basic/customer/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/print.css" rel="stylesheet" media="print" type="text/css">
+<link href="/skins/basic/customer/dropdown.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link href="/skins/basic/customer/styles_ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="/skins/basic/customer/addons/buy_together/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="/js/core.js"></script>
+<script type="text/javascript" src="/js/ajax.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+var index_script = 'index.php';
+
+var lang = {
+	cannot_buy: 'You cannot buy the product with these option variants ',
+	no_products_selected: 'No products selected',
+	error_no_items_selected: 'No items selected! At least one checkbox must be ticked off to perform this action.',
+	delete_confirmation: 'Are you sure you want to delete the selected items?',
+	text_out_of_stock: 'Out of stock',
+	in_stock: 'In stock',
+	items: 'item(s)',
+	text_required_group_product: 'Please select a product for the required group [group_name]',
+	notice: 'Notice',
+	warning: 'Warning',
+	loading: 'Loading...',
+	none: 'None',
+	text_are_you_sure_to_proceed: 'Are you sure you want to proceed? ',
+	text_invalid_url: 'You have entered an invalid URL',
+	text_cart_changed: 'Items in the shopping cart have been changed. Please press \"OK\" to save changes or \"Cancel\" to leave items unchanged.',
+	error_validator_email: 'The e-mail address in the <b>[field]<\/b> field is invalid.',
+	error_validator_confirm_email: 'The e-mail addresses in the <b>[field]<\/b> and confirmation fields do not match.',
+	error_validator_phone: 'The phone number in the <b>[field]<\/b> field is invalid. The correct format is (555) 555-55-55 or 55 55 555 5555.',
+	error_validator_integer: 'The value of the <b>[field]<\/b> field is invalid. It should be integer.',
+	error_validator_multiple: 'The <b>[field]<\/b> field does not have selected options.',
+	error_validator_password: 'The passwords in the <b>[field2]<\/b> and <b>[field1]<\/b> fields do not match.',
+	error_validator_required: 'The <b>[field]<\/b> field is mandatory.',
+	error_validator_zipcode: 'The ZIP / Postal code in the <b>[field]<\/b> field is incorrect. The correct format is [extra].',
+	error_validator_message: 'The value of the <b>[field]<\/b> field is invalid.',
+	text_page_loading: 'Loading... Your request is being processed, please wait.',
+	view_cart: 'View cart',
+	checkout: 'Checkout',
+	product_added_to_cart: 'Product added to your cart',
+	products_added_to_cart: 'Products added to your cart',
+	product_added_to_wl: 'Product added to your Wish list',
+	product_added_to_cl: 'Product added to your Compare list',
+	close: 'Close'
+}
+
+var warning_mark = "&lt;&lt;";
+
+var currencies = {
+	'primary': {
+		'decimals_separator': '.',
+		'thousands_separator': ',',
+		'decimals': '2',
+		'coefficient': '1.00000'
+	},
+	'secondary': {
+		'decimals_separator': '.',
+		'thousands_separator': ',',
+		'decimals': '2',
+		'coefficient': '1.00000'
+	}
+};
+
+var cart_language = 'EN';
+var images_dir = '/skins/basic/customer/images';
+var notice_displaying_time = 5;
+var cart_prices_w_taxes = false;
+var translate_mode = false;
+var iframe_urls = new Array();
+var iframe_extra = new Array();
+var regexp = new Array();
+$(document).ready(function(){
+	jQuery.runCart('C');
+});
+
+document.write('<style>.cm-noscript { display:none }</style>'); // hide noscript tags
+//]]>
+</script>
+
+<!--[if lt IE 8]>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	$('ul.dropdown li').hover(function(){
+		$(this).addClass('hover');
+		$('> .dir',this).addClass('open');
+		$('ul:first',this).css('display', 'block');
+	},function(){
+		$(this).removeClass('hover');
+		$('.open',this).removeClass('open');
+		$('ul:first',this).css('display', 'none');
+	});
+});
+//]]>
+</script>
+<![endif]-->
+
+<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 <body>
+<div class="helper-container">
+	<a name="top"></a>
+	
+<div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
+	
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-696846-2");
-pageTracker._setDomainName("none");
-pageTracker._setAllowLinker(true);
-pageTracker._initData();
-pageTracker._trackPageview();
-} catch(err) {}</script>
+<div class="cm-notification-container">
 
-
-<table class="XSP_OUTLINE" align="center" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td colspan="3" class="XSP_HEADER_PANEL"><table cellspacing="0" cellpadding="0" width="1010" border="0">
-    <tbody>
-        <tr>
-            <td valign="top" rowspan="2"><img src="images/self-defense-products-logo.jpg" width="250" height="170" alt="Self Defense Products"></td>
-
-            <td valign="top" height="40"><a href="index.htm"><img style="WIDTH: 115px; HEIGHT: 40px" src="images/home.gif" border="0"></a></td>
-
-            <td valign="top" height="40"><a href="http://www.tbotech.com/cmd.asp?cmd=signup" target="_blank"><img style="WIDTH: 95px; HEIGHT: 40px" src="images/affiliateprogram.gif" border="0"></a></td>
-
-            <td valign="top" height="40"><a href="blog/index.php"><img style="WIDTH: 95px; HEIGHT: 40px" src="images/blog.gif" border="0"></a></td>
-
-            <td valign="top" height="40"><a href="forum/index.php"><img style="WIDTH: 95px; HEIGHT: 40px" src="images/discussiongroup2.gif" border="0"></a></td>
-
-            <td valign="top" height="40"><a href="aboutus.htm"><img style="WIDTH: 110px; HEIGHT: 40px" src="images/aboutus.gif" border="0"></a></td>
-
-            <td valign="top" rowspan="2"><img src="images/selfdefenseright.jpg" width="250" height="170"></td>
-        </tr>
-
-        <tr>
-            <td valign="top" width="510" colspan="5" height="130">
-                <div align="center">
-                    <h3><u>Self Defense Weapons and Security
-                    Products</u><br>
-                    <font color="#CC0000">Stun Guns - Pepper
-                    Sprays - TASER® Devices</font></h3>
-
-                    <p><font face="arial,helvetica,verdana" size="3"><b>Phone 910-878-5722 - FAX
-                          910-878-5708</b><br>
-                    <b><font size="2">224 Lindsay Road,
-                    Raeford, NC 28376<br>
-                    <a href="mailto:customerservice@tbotech.com">customerservice@tbotech.com</a></font></b></font></p>
-                </div>
-            </td>
-        </tr>
-    </tbody>
-</table></td>
-</tr>
-<tr>
-<td colspan="3" class="XSP_INFO_BAR"><table style="WIDTH: 1010px; COLOR: #ffffff; BACKGROUND-COLOR: #6163ea" bordercolor="#000000" cellspacing="1" cellpadding="0" border="0">
-    <tbody>
-        <tr>
-            <td valign="top" align="left">
-                <p align="center"><strong> Ground Shipping is covered on
-                orders over $100.00. Orders placed by 4pm
-                Eastern are shipped the same business
-                day.</strong></p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td class="XSP_LEFT_PANEL_SPC" id="XSP_LEFT_PANEL"><div class="XSP_LEFT_PANEL"><div align="center" bgcolor="#6163EA">
-    <form id="searchbox_007846363847958623036:uf0o9l_kewu" action="http://www.tbotech.com/search.htm">
-        <input type="hidden" value="007846363847958623036:uf0o9l_kewu" name="cx"> <input type="hidden" value="FORID:11" name="cof"> <input size="22" name="q"> <input type="submit" value="Search" name="sa">
-    </form>
 </div>
 
-<div align="center" bgcolor="#6163EA">
-    <script type="text/javascript" src="http://google.com/coop/cse/brand?form=searchbox_007846363847958623036%3Auf0o9l_kewu"></script>
+		
+<div id="container" class="container">
+		<div id="header"><div class="header-helper-container">
+<!--	<div class="logo-image">
+		<a href="/"><img src="/skins/basic/customer/images/logo.jpg" width="212" height="35" border="0" alt="Self Defense Products" /></a>
+	</div>-->
+<table width="983" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td align="left" valign="top" class="headerbg" style="padding:0px 0 0 47px;"><table width="500" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td align="left" valign="top" class="headertxt1">&nbsp;<!--Self defense Weapons and Security Products--></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top"><table width="453" border="0" align="left" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td width="212" align="left" valign="top" style="padding:23px 0 0 8px;"><a href="/"><img src="/skins/basic/customer/images/logo.jpg" width="212" height="35" border="0" alt="Self Defense Products"></a>
+                <!--<a href="#"><img src="images/logo.jpg" width="212" height="35" border="0" /></a>--></td>
+                <td width="241" align="left" valign="middle" class="headertxt2" nowrap="">Self Defense Products<!--self defence products--></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="headertxt3">224 Lindsay Road,&nbsp;Raeford,&nbsp;NC&nbsp;28376
+            <!--Lindsay Road, Raeford, NC 28376--></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" class="headertxt4">Phone 910.878.5722 - FAX 910.878.5708</td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="27" align="left" valign="top" class="topnav">
+        			<a href="/">Home</a>
+			<a href="/shipping.htm">Shipping</a>
+			<a href="/contact-us.htm">Contact Us</a>
+			<a href="blog/">Blog</a>
+			<a href="forum/">Discussion Forum</a>
+			<a href="/aboutus.htm">About Us</a>
+	        <!--
+<div id="top_menu">
+<ul class="top-menu dropdown"><li class="first-level "><span><a href="/">Home</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=categories.catalog">Catalog</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=profiles.update">My Account</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=checkout.cart">View cart</a></span></li><li class="first-level cm-active"><span><a href="/aboutus.htm">Company</a></span>
+<ul class="dropdown-vertical-rtl">
+			<li >
+		<a href="/aboutus.htm">About our company</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li >
+		<a href="/contact-us.htm">Contact us</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li >
+		<a href="/poll-of-the-week.htm">Poll of the week</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li >
+		<a href="/privacy.htm">Privacy Policy</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li >
+		<a href="/return.htm">Return Policy</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li >
+		<a href="/shipping.htm">Shipping Policy</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li >
+		<a href="/distributor.htm">Wholesale Self Defense Products</a>
+			</li>
+		</ul>
+</li></ul>
+
 </div>
-
-<div align="center">
-    <p><table><tbody><tr><td> <table class="mainLEFT_MENU" cellpadding="0px" cellspacing="0px"> 
- <tbody> 
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="stun-guns.htm" target="">Stun Guns</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="runt-stun-gun.htm" target="">The Runt Stun Guns</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="small-fry-stun-gun.htm" target="">Small Fry Stun Guns</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="hot-shot-stun-gun.htm" target="">Hot Shot Stun Gun</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="cellphonestungun.htm" target="">Cell Phone Stun Guns</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="double-trouble-stun-gun.htm" target="">Double Trouble Stunner</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="stun-pen.htm" target="">Lightning Rod Stun Pen</a>  
-</td></tr><tr>
-  <td>
-<a class="sublinksLEFT_MENU" href="knuckleblasterstungun.htm" target="">Knuckle Blaster</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="mini-stun-gun.htm" target="">Mini Stun Gun</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="stunbaton.htm" target="">Stun Batons</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="stun-master-stun-gun.htm" target="">4 in 1 Stun Gun</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="stunmaster.htm" target="">Stun Master Stun Guns</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="stunflashlights.htm" target="">Stun Alarm Flashlights</a>  
-</td></tr><tr>
-  <td>
-<a class="sublinksLEFT_MENU" href="talon-stun-guns.htm" target="">TALON Stun
-Gun</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="zforce.htm" target="">Z-Force Stun Guns</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="pepper-spray.htm" target="">Pepper Sprays</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="pepper-shot-pepper-spray.htm" target="">Pepper Shot</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="wildfire-pepper-spray.htm" target="">Wildfire Pepper Spray</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="mace-pepper-spray.htm" target="">Mace Pepper Spray</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="pepperspraybook.htm" target="">Pepper Spray Book</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="pepper-pen.htm" target="">Pepper Pens</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="lipstick-pepper-spray.htm" target="">Lipstick Pepper Spray</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="pepperfoam.htm" target="">Mace Pepper Foam</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="mace-pepper-gel.htm" target="">Mace Pepper Gel</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="michigan-pepper-spray.htm" target="">Michigan Approved</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="mace-batons.htm" target="">Mace Batons</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="pepper-spray-walking-weights.htm" target="">Mace Walking Weights</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="pepper-gun.htm" target="">Pepper Gun</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="animal-repellents.htm" target="">Animal Repellents</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="bearspray.htm" target="">Bear Spray</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="dogrepellent.htm" target="">Dog Pepper Spray</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="dogchaser.htm" target="">Electronic Dog Repeller</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr>
-  <td>
-<a class="mainlinksLEFT_MENU" href="taser-devices.htm" target="">TASER® Devices</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr>
-  <td>
-<a class="sublinksLEFT_MENU" href="advancedtaser.htm" target="">M-26C Series</a>  
-</td></tr><tr>
-  <td>
-<a class="sublinksLEFT_MENU" href="c2-taser.htm" target="">TASER C2</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="taser-cartridges.htm" target="">Extra Cartridges</a>  
-</td></tr><tr>
-  <td>
-<a class="sublinksLEFT_MENU" href="taser-holsters.htm" target="">TASER Holsters</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="spy-surveillance.htm" target="">Spy &amp; Surveillance</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="hidden-cameras.htm" target="">Wireless Nanny Cams</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="wiredcamera.htm" target="">Wired Hidden Camera</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="sunglasses-hidden-camera.htm" target="">Sunglasses Video Cam</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="rear-view-mirror-camera.htm" target="">Rearview Mirror Cam</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="spyglasses.htm" target="">Spy Glasses</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="telespy-motion-sensor-phone.htm" target="">Motion Sensor Phone</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="fake-surveillance-camera.htm" target="">Dummy Cameras</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="invisible-ink-pen.htm" target="">Invisible Ink Pen</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="money-tester-pen.htm" target="">Money Tester Pen</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="computer-monitoring-software.htm" target="">Keyboard Recorder</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="phonerecorders.htm" target="">Digital Phone Recorder</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="keychain-digital-camera.htm" target="">Keychain Mini Camera</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="desk-clock-dvr-hidden-cam.htm" target="">Desk Clock Camera</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="pen-camera.htm" target="">Pen Camera</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="knifes.htm" target="">Knives</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="foldingknives.htm" target="">Folding Knives</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="throwing-knives.htm" target="">Throwing Knives</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="penknives.htm" target="">Pen Knives</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="keychain-knife.htm" target="">Keychain Knife</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="survival-knife.htm" target="">Survival Knife</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="ninjagear.htm" target="">Ninja Gear</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="throwing-stars.htm" target="">Throwing Stars</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="throwing-spikes.htm" target="">Throwing Spikes</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="ninja-grappling-hook.htm" target="">Ninja Grappling Hook</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="ninja-gear.htm" target="">Ninja Climbing Gear</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="target-board.htm" target="">Target Board</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="martial-arts.htm" target="">Martial Arts</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="kubotans.htm" target="">Kubotans</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="tonfa.htm" target="">Tonfa - Police Batons</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="martialartsvideos.htm" target="">Martial Arts DVDs</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="weapons.htm" target="">Weapons</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="telescopicbaton.htm" target="">Telescopic Batons</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="sap-gloves.htm" target="">SAP Gloves</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="carry-alarms.htm" target="">Carry Alarms</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="personal-alarms.htm" target="">Personal Alarms</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="electronic-whistle.htm" target="">Electronic Whistle</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="keychain-alarm.htm" target="">Keychain Alarms</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="child-guard.htm" target="">Child Guard Monitor</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="napzapper.htm" target="">Driver Alarm</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="home-safety.htm" target="">Home Safety</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="wireless-home-security-system.htm" target="">Home Security System</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="homeprotection.htm" target="">Wireless Home Alarms</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="door-brace.htm" target="">Door Brace</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="doorstopalarm.htm" target="">Door Stop Alarm</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="window-alarm.htm" target="">Window Alarm</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="door-window-alarm.htm" target="">Door &amp; Window Alarm</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="auto-dialer-security-alarm.htm" target="">Auto Dialer Alarm</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="electronicwatchdog.htm" target="">Electronic Watch Dog</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="voice-alert.htm" target="">Driveway Alert Alarm</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="infrared-motion-alarms.htm" target="">Infrared Motion Alarms</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="fake-tv.htm" target="">Fake TV</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="diversionsafes.htm" target="">Hidden Safes</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="key-hider.htm" target="">Key Hider</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="fingerprint-storage-safe.htm" target="">Fingerprint Safe</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="protect-yourself-from-crime-ira-lipman.htm" target="">How To Protect - Book</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="safety-lights.htm" target="">Safety Lights</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="mini-led-flashlight.htm" target="">Mini LED Flashlight</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="night-light.htm" target="">Safety Night Light</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="safetylights.htm" target="">Flashing Safety Light</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="pet-safety-light.htm" target="">Pet Safety Light</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="police.htm" target="">Police</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="handcuffs.htm" target="">Handcuffs - Legcuffs</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="thumbcuffs.htm" target="">Thumb Cuffs</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="metaldetectors.htm" target="">Wand Metal Detectors</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="security-guard-package.htm" target="">Security Guard Package</a>  
-</td></tr></tbody></table>
-</td></tr>
-<tr><td>
-<a class="mainlinksLEFT_MENU" href="sporting-goods.htm" target="">Sporting Goods</a> 
- </td></tr>
-<tr><td>
- <table class="subLEFT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksLEFT_MENU" href="blow-gun.htm" target="">Blowguns</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="blowgun-accessories.htm" target="">Blowgun Accessories</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="slingshot.htm" target="">Sling Shot</a>  
-</td></tr><tr><td>
-<a class="sublinksLEFT_MENU" href="ammo.htm" target="">Ammo</a>  
-</td></tr></tbody></table>
-</td></tr>
-</tbody></table>
-</td></tr></tbody></table>
-
-</p></div>
-
-</div></td>
-<td class="XSP_CENTER_PANEL"><table class="XSP_CENTER_PANEL" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
-<td class="XSP_MAIN_PANEL_HEADER"><!-- InstanceBeginEditable name="Main Panel Header" -->
-  <h2 align="center">Privacy Policy</h2>
-<!-- InstanceEndEditable -->
-</td>
-</tr>
-<tr><td class="XSP_MAIN_PANEL"><table border="0">
-    <tbody>
-        <tr>
-            <td width="100%"><!-- InstanceBeginEditable name="Main Panel Body" -->
-
-<p>For each
-visitor to our Web page, our Web server automatically
-recognizes only the consumer's IP address, but not the e-mail
-address.</p>
-
-<p>We collect
-e-mail address of those who purchase from us and from those who
-opt-in to our e-mail list. The information we collect is used
-by us to contact consumers for marketing purposes. If you do
-not want to receive e-mail from us in the future, you simply
-click the unsubscribe link.</p>
-
-<p>With respect to
-cookies: We use cookies to record session information, such as
-items that consumers add to their shopping
-cart.</p>
-
-<p>Your telephone
-number we will only be used if we have questions regarding an
-order you have placed on-line.</p>
-
-<p><b>We do
-<u>not</u> share
-      your information with anyone. This includes your e-mail
-      address.</b></p>
-
-<p>With respect to
-security: We always use industry-standard encryption
-technologies when transferring and receiving consumer data
-exchanged with our site.</p>
-
-<p>We have
-appropriate security measures in place in our physical
-facilities to protect against the loss, misuse or alteration of
-information that we have collected from you at our
-site.</p>
-
-<p>If you feel
-that this site is not following its stated privacy policy, you
-may contact us at the above address or phone
-number.</p><!-- InstanceEndEditable --></td>
-        </tr>
-    </tbody>
-</table>
-
-
-
-
-
-<table width="100%" border="0">
-    <tbody>
-        <tr>
-            <td colspan="4">
-                <form action="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=2B7895D3-D1F1-4C49-AAED-C3C71705890E" method="post">
-                    <div align="center">
-                        <input type="submit" value="View Shopping Cart">
-                    </div>
-                </form>
-            </td>
-        </tr>
-
-        <tr>
-            <td>
-                <div align="center">
-                    <img style="WIDTH: 60px; HEIGHT: 38px" src="http://www.tbotech.com/images/visa.gif">
-                </div>
-            </td>
-
-            <td>
-                <div align="center">
-                    <img style="WIDTH: 57px; HEIGHT: 36px" src="http://www.tbotech.com/images/mastercard.gif">
-                    </div>
-            </td>
-
-            <td>
-                <div align="center">
-                    <img style="WIDTH: 95px; HEIGHT: 39px" src="http://www.tbotech.com/images/amex.gif">
-                </div>
-            </td>
-
-            <td>
-                <div align="center">
-                    <img style="WIDTH: 59px; HEIGHT: 38px" src="http://www.tbotech.com/images/discover.gif">
-                    </div>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table border="0">
-    <tbody>
-        <tr>
-            <td>&nbsp;</td>
-        </tr>
-    </tbody>
-</table>
-
-<table width="100%" border="0">
-    <tbody>
-        <tr>
-            <td id="ups"><img style="WIDTH: 41px; HEIGHT: 48px" src="http://www.tbotech.com/images/upslogo.gif" align="left">All orders are shipped the same
-                 day or within 24 hours via UPS ground. Please
-                 provide a physical address and not a PO Box
-                 since UPS can not deliver to a PO Box. If you
-                 would like to mail or fax your order in,
-                 please use our <a href="http://www.tbotech.com/orderform.htm"><b>order
-                 form</b></a>.</td>
-        </tr>
-    </tbody>
-</table>
-
-<table width="100%" border="0">
-    <tbody>
-        <tr>
-            <td height="68" id="fntsm">Be assured that your shopping
-            experience is completely safe. The order site is
-            secured using a SSL Web Server Certificate
-            which encrypts all data to and from the site. You
-            can be assured of the security of your
-            information.</td>
-
-            <td width="110">
-                <span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=IpJDqvS5luNJb1vp38tsqnSuXeMw3cpZH1kyJ3KM2zviRWgxsR"></script></span>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<span class="smalltext">TASER® is a registered trademark of TASER International,
-INC.</span>
-<hr>
-<!-- InstanceBeginEditable name="EditRegion7" --><!-- InstanceEndEditable --></td></tr>
-
-<tr><td class="XSP_MAIN_PANEL_FOOTER"><p align="center"><font face="Arial, Helvetica, sans-serif" color="#000000" size="2"><b>TBO-TECH INC. - Self Defense Products</b><br>
-© 2000-2010 All Rights Reserved</font><br>
-</p>
-</td></tr></tbody></table></td>
-
-<td class="XSP_RIGHT_PANEL_SPC" id="XSP_RIGHT_PANEL"><div class="XSP_RIGHT_PANEL">
-  <div align="center">
-  <table width="155" border="0" align="center" bgcolor="#FFFFCC">
-    <tbody>
-      <tr align="center" bordercolor="#0">
-        <td>
-  <center>
-    <u>Free Report!</u>
-    <div align="left">
-      <p class="smalltext" align="center"><span class="deepred"><strong>How
-        to Choose the<br>Right Pepper Spray!</strong></span></p>
-      <p class="smalltext"><span class="smalltext">Gain
-        immediate access to this beneficial report.</span></p>
-      <p class="smalltext"><span class="smalltext"> Enter your name and email
-          below. You'll also receive a $5.00 coupon code that you can use
-          right away.</span></p>
-      </div>
-    </center>
-  <form name="form1" method="post" action="https://www.mcssl.com/app/contactsave.asp">
-  <input name="merchantid" type="hidden" id="merchantid" value="166856">
-  <input name="ARThankyouURL" type="hidden" id="ARThankyouURL" value="http://www.tbotech.com/thankyou-newsletter.htm">
-  <input name="copyarresponse" type="hidden" id="copyarresponse" value="1">
-  <input name="custom" type="hidden" id="custom" value="0">
-  <input name="defaultar" type="hidden" id="defaultar" value="496525">
-  <input name="allowmulti" type="hidden" id="allowmulti" value="0">
-  <input name="visiblefields" type="hidden" id="visiblefields" value="Name,Email1">
-  <input name="requiredfields" type="hidden" id="requiredfields" value="Name,Email1">
-  <table>
-  <tbody><tr><td class="smalltext" style="background-color:#000000;color:#FFFFFF" colspan="2">Contact Information</td></tr>
-    <tr>
-      <td><span class="smalltext">First Name*</span><br><input name="Name" type="text" size="20"></td>
-      </tr>
-    <tr>
-      <td><span class="smalltext">Email*</span><br><input name="Email1" type="text" size="20"></td>
-      </tr>
-    <tr align="center">
-      <td colspan="2">
-        <input type="Submit" name="cmdSubmit" value="Sign Up Now!">
-        </td>
+<span class="helper-block">&nbsp;</span>
+-->
+        <!--<a href="/">Home</a>           <a href="index.php?dispatch=pages.view&page_id=14">Shopping policy</a>           <a href="index.php?dispatch=pages.view&page_id=15">Blog</a>            <a href="index.php?dispatch=pages.view&page_id=16">Discussion forum</a>            <a href="index.php?dispatch=pages.view&page_id=3">About us</a>--></td>
       </tr>
     </tbody></table>
-  </form>
-  </td></tr>
-      </tbody>
-    </table>
+    </div></div>
+		
+	<div id="content">
+		<div class="content-helper clear">
+						
+						<div class="central-column">
+				<div class="central-content">
+
+             <!--<table width="585" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr><td align="left" valign="top" class="middletopbox" style="padding:4px 0 0 0px;">
+          
+                <table width="576" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="left" valign="top" class="middletopheadingbg">The Tools You Need To Protect Yourself Are Right Here!</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" class="middletopboxtxt1">Self defense Products give you hard hitting leverage over an attacker. Crimes occur everyday. Now is the time to arm yourself with effective non lethal weapons and crime preventing home.. </td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="568" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td align="left" valign="top" class="middletopboxtxt2">Gain the Advantage against an assailant by arming yourself with non lethal self defense weapons.</td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><p class="middletopboxtxt3">These self defense weapons such as stun guns,  pepper sprays, and TASERR devices help you defend and protect yourself when you need it most.</p>
+                  <p class="middletopboxtxt3">You will find a large inventory of quality self defense items, wireless home and personal alarms, nanny cams, hidden safes, spy gear, even martial arts weapons.</p></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" class="middletopboxborder"></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" style="padding:12px 0 12px 0px;"><table width="444" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td align="left" valign="top" class="loginboxbg"><table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td align="left" valign="top" class="loginboxtxt1">Login:</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top" style="padding:7px 0 0 0px;">
+                          <input name="textfield" type="text" id="textfield" value="E-mail" size="28" />
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top" style="padding:7px 0 0 0px;">
+                          <input name="textfield" type="text" id="textfield" value="Password" size="28" />
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" style="padding:5px 0 0 0px;"><table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td width="103" align="left" valign="top"><table width="100" border="0" align="left" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td align="left" valign="top" class="loginboxtxt2"><a href="#">Not Register yet</a></td>
+                              </tr>
+                              <tr>
+                                <td align="left" valign="top" class="loginboxtxt2"><a href="#">Forget password</a></td>
+                              </tr>
+                            </table></td>
+                            <td width="77" align="right" valign="middle"><a href="#"><img src="images/login-button.jpg" width="77" height="18" border="0" /></a></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table></td>
+                    <td align="left" valign="top">&nbsp;</td>
+                    <td align="left" valign="top" class="loginboxbg"><table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td colspan="2" align="left" valign="top" class="loginboxtxt1">Search:</td>
+                      </tr>
+                      <tr>
+                        <td width="150" align="left" valign="top" style="padding:15px 0 0 0px;">
+                          <input name="textfield" type="text" id="textfield" value="Search your product" size="22" />                        </td>
+                        <td width="40" align="left" valign="top" style="padding:15px 0 0 0px;"><a href="#"><img src="images/go.jpg" width="27" height="22" border="0" /></a></td>
+                      </tr>
+                      <tr>
+                        <td colspan="2" align="left" valign="top" style="padding:12px 0 0 0px;"><form id="form1" name="form1" method="post" action="">
+                          <label>
+                          <select name="select" id="select">
+                            <option>--------- All Categories --------</option>
+                            <option>Animal Repellents</option>
+                            <option>Spy &amp; Surveillance</option>
+                            <option>- All Categories -</option>
+                                      </select>
+                          </label>
+                        </form>                        </td>
+                      </tr>
+                     </table></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table>
+            
+            </td></tr></table>-->
+       
+              <!--  sougata-->
+					
+	<div class="breadcrumbs">
+		<a href="/">Home</a><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
+	</div>
+					<div class="mainbox-container">
+		<h1 class="mainbox-title"><span>Privacy Policy</span></h1>
+		<div class="mainbox-body">
+<div class="wysiwyg-content">
+		<p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's IP address, but not the e-mail address.</p>
+<p>We collect e-mail address of those who purchase from us and from those who opt-in to our e-mail list. The information we collect is used by us to contact consumers for customer service and for marketing purposes. If you do not want to receive e-mail from us in the future, you simply click the unsubscribe link.</p>
+<p>With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart. This allows your computer to remember what you added to your shopping cart.</p>
+<p>Your telephone number we will only be used if we have questions regarding an order you have placed on-line.</p>
+<p><strong>We do <span style="text-decoration: underline;">not</span> share       your information with anyone. This includes your e-mail       address.</strong></p>
+<p>With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.</p>
+<p>We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
+<p>If you feel that this site is not following its stated privacy policy, you may contact us at our address or phone number.</p>
+		
+		
+	</div>
+	
+
+
+
+</div>
+</div>
+				</div>
+			</div>
+		
+						<div class="left-column">
+				<div class="mainbox-container">
+	<!--	<h1 class="mainbox-title"><span>Categories</span></h1>
+	-->
+	<div class="mainbox-category">
+					<ul class="menu-root-categories">
+			<li><a href="/stun-guns.htm" class="underlined-bold">Stun Guns</a></li>
+		</ul>
+								<ul class="menu-subcategories">
+								<li style="padding-left: 13px;"><a href="/stun-guns/high-voltage-stun-guns.htm" class="subcategories-link">High Voltage Stun Guns</a></li>
+							<li style="padding-left: 13px;"><a href="/stun-guns/low-voltage-stun-gun.htm" class="subcategories-link">Low Voltage Stun Gun</a></li>
+							<li style="padding-left: 13px;"><a href="/stun-guns/small-stun-guns.htm" class="subcategories-link">Small Stun Guns</a></li>
+							<li style="padding-left: 13px;"><a href="/stun-guns/stun-guns-for-women.htm" class="subcategories-link">Stun Guns for Women</a></li>
+							<li style="padding-left: 13px;"><a href="/stun-guns/disguised-stun-guns.htm" class="subcategories-link">Disguised Stun Guns</a></li>
+							<li style="padding-left: 13px;"><a href="/stun-guns/flashlight-stun-guns.htm" class="subcategories-link">Flashlight Stun Guns</a></li>
+							<li style="padding-left: 13px;"><a href="/stun-guns/stun-guns-with-alarms.htm" class="subcategories-link">Stun Guns with Alarms</a></li>
+							<li style="padding-left: 13px;"><a href="/stun-guns/rechargeable-stun-guns.htm" class="subcategories-link">Rechargeble Stun Guns</a></li>
+								</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/stunbaton.htm" class="underlined-bold">Stun Batons</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/cellphonestungun.htm" class="underlined-bold">Cell Phone Stun Guns</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/taser-devices.htm" class="underlined-bold">TASER® Devices</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/peppershotpeppersprays.htm" class="underlined-bold">Pepper Shot Pepper Sprays</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/wildfire-pepper-spray.htm" class="underlined-bold">Wildfire Pepper Spray</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/mace-pepper-spray.htm" class="underlined-bold">Mace Pepper Spray</a></li>
+		</ul>
+								<ul class="menu-subcategories">
+								<li style="padding-left: 13px;"><a href="/mace-pepper-spray/mace-peppergard-pepperspray.htm" class="subcategories-link">Mace PepperGard</a></li>
+							<li style="padding-left: 13px;"><a href="/mace-pepper-spray/michigan-pepper-spray.htm" class="subcategories-link">Michigan Approved Sprays</a></li>
+							<li style="padding-left: 13px;"><a href="/mace-pepper-spray/triple-action-pepper-spray.htm" class="subcategories-link">Triple Action Pepper Spray</a></li>
+								</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/animal-repellents.htm" class="underlined-bold">Animal Repellents</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/police.htm" class="underlined-bold">Police Supplies</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/spy-surveillance.htm" class="underlined-bold">Spy &amp; Surveillance</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/hidden-cameras.htm" class="underlined-bold">Wireless Nanny Cams</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/fake-surveillance-camera.htm" class="underlined-bold">Fake Surveillance Cameras</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/personal-alarms.htm" class="underlined-bold">Personal Alarms</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/homeprotection.htm" class="underlined-bold">Wireless Home Alarms</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/infrared-motion-alarms.htm" class="underlined-bold">Infrared Motion Alarms</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/safe-family-life.htm" class="underlined-bold">SafeFamilyLife™ Kits</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/college-safety-kits.htm" class="underlined-bold">College Safety Kits</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/home-safety.htm" class="underlined-bold">Other Home Safety Items</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/diversionsafes.htm" class="underlined-bold">Diversion Safes</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/key-hider.htm" class="underlined-bold">Key Hiders</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/safety-lights.htm" class="underlined-bold">Safety Lights</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/weapons.htm" class="underlined-bold">Weapons</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/foldingknives.htm" class="underlined-bold">Folding Knives</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/knives.htm" class="underlined-bold">Knives</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/throwing-knives.htm" class="underlined-bold">Throwing Knives</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/throwing-stars.htm" class="underlined-bold">Throwing Star Sets</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/ninja-star.htm" class="underlined-bold">Single Ninja Stars</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/ninjagear.htm" class="underlined-bold">Ninja Gear</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/martialartsvideos.htm" class="underlined-bold">Instructional Fighting DVDs</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/sporting-goods.htm" class="underlined-bold">Sporting Goods</a></li>
+		</ul>
+							<ul class="menu-root-categories">
+			<li><a href="/blowgun-accessories.htm" class="underlined-bold">Blowgun Accessories</a></li>
+		</ul>
+								<ul class="menu-subcategories">
+								<li style="padding-left: 13px;"><a href="/blowgun-accessories/blowgun-and-slingshot-ammunition.htm" class="subcategories-link">Blowgun and Slingshot Ammunition</a></li>
+				</ul>
+	</div>
+</div>
+
+			</div>
+						
+						<div class="right-column">
+             <div id="cart_status">
+<!--dynamic:cart_status-->
+
+<table width="192" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td align="left" valign="top" class="shoppingcartbg-box"><table width="180" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td width="129" align="center" valign="middle" class="shoppingcarttxt1" style="padding:8px 0 0 0px;">Shopping Cart</td>
+                <td width="51" align="right" valign="top" style="padding:8px 0 0 0px;"><a href="index.php?dispatch=checkout.cart"><img src="/skins/basic/customer/images/cart-icon.png" width="51" height="52" alt="shopping bag icon" border="0"></a></td>
+              </tr>
+ <tr>
+<td colspan="2" align="center" valign="top" class="shoppingcarttxt2">
+<span>0 items</span> in your cart
+</td></tr>
+
+              <tr>
+                <td colspan="2" align="center" valign="top" class="shoppingcarttxt2">
+ </td>
+              </tr>
+            </tbody></table></td>
+</tr>
+<tr><td style="line-height:6px;">&nbsp;</td></tr>
+</tbody></table>
+
+
+<!--<div id="ship_c">
+<div class="pro_back"><div style="float:left; color:#333333; font-size:11px; font-weight:bold; padding:5px 0 0px 17px;">Shopping Cart</div>
+<div class="ship_back"><div style="float:left">
+<a href="index.php?dispatch=checkout.cart"><img src="/skins/basic/customer/images/cart-icon.png" width="86" height="66" alt="shopping bag icon" border="0" /></a>
+</div>
+<div style="float:left; width:80px; padding-top:8px; font-size:11px; line-height:12px;">
+You have no <br />items in your<br />shopping cart. </div>
+ 
+		
+</div>
+	</div>
+</div>-->
+<!--/dynamic-->
+
+<!--cart_status--></div>
+				<div class="sidebox-wrapper ">
+	<h3 class="sidebox-title"><span>Search</span></h3>
+	<div class="sidebox-body"><form action="index.php" name="search_form" method="get">
+<input type="hidden" name="subcats" value="Y">
+<input type="hidden" name="type" value="extended">
+<input type="hidden" name="status" value="A">
+<input type="hidden" name="pshort" value="Y">
+<input type="hidden" name="pfull" value="Y">
+<input type="hidden" name="pname" value="Y">
+<input type="hidden" name="pkeywords" value="Y">
+<input type="hidden" name="search_performed" value="Y">
+ 
+
+Search:
+<p>
+<input type="text" name="q" value="" onfocus="this.select();" class="input-text"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search">
+</p>
+</form>
+</div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div>
+<p align="center"><a href="http://www.bbbonline.org/cks.asp?id=106101710321430" target="_blank"><img title="Click to verify BBB accreditation and to see a BBB report." src="images/bbbsealh1.gif" border="0" alt="Click to verify BBB accreditation and to see a BBB report."></a><br><br></p>
+
+
+
+<div class="sidebox-wrapper ">
+	<h3 class="sidebox-title"><span>My account</span></h3>
+	<div class="sidebox-body"><!--dynamic:my_account-->
+
+<ul class="arrows-list">
+			<li><a href="index.php?dispatch=auth.login_form&amp;return_url=%2Fprivacy.htm" class="underlined">Sign in</a> / <a href="index.php?dispatch=profiles.add" class="underlined">Register</a></li>
+		<li><a href="index.php?dispatch=orders.search" class="underlined">Orders</a></li>
+
+</ul>
+
+<div class="updates-wrapper">
+
+<form action="index.php" method="get" name="track_order_quick">
+
+<p>Track my order(s):</p>
+
+<div class="form-field">
+<label for="track_order_item" class="cm-required hidden">Track my order(s):</label>
+<input type="hidden" name="redirect_url" value="/privacy.htm"><input type="text" size="20" class="input-text cm-hint" id="track_order_item" name="track_data" value="Order ID/E-mail"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Go" title="Go" class="go-button"><input type="hidden" name="dispatch" value="orders.track_request"></div>
+
+</form>
+
+</div>
+<!--/dynamic--></div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
 </div>
 
 
-<p align="center"><a target="_blank" href="http://www.bbbonline.org/cks.asp?id=106101710321430"><img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="images/bbbsealh1.gif" alt="Click to verify BBB accreditation and to see a BBB report." oncontextmenu="alert('Use without permission is prohibited. The BBB Accreditation seal is a trademark of the Council of Better Business Bureaus, Inc.'); return false;"></a> 
-              </p>
 
-    <!-- InstanceBeginEditable name="EditRegion8" --><!-- InstanceEndEditable -->
-    <table><tbody><tr><td> <table class="mainRIGHT_MENU" cellpadding="0px" cellspacing="0px"> 
- <tbody> 
+
+<div class="sidebox-wrapper ">
+	<h3 class="sidebox-title"><span>Information</span></h3>
+	<div class="sidebox-body"><ul>
+
+							
+	
+	<li class=""><a href="/aboutus.htm">About our company</a>
+</li>
+<li class="delim"></li>	
+	<li class=""><a href="/contact-us.htm">Contact us</a>
+</li>
+<li class="delim"></li>	
+	<li class=""><a href="/poll-of-the-week.htm">Poll of the week</a>
+</li>
+<li class="delim"></li>	
+	<li class=""><a href="/privacy.htm">Privacy Policy</a>
+</li>
+<li class="delim"></li>	
+	<li class=""><a href="/return.htm">Return Policy</a>
+</li>
+<li class="delim"></li>	
+	<li class=""><a href="/shipping.htm">Shipping Policy</a>
+</li>
+<li class="delim"></li>	
+	<li class=""><a href="/distributor.htm">Wholesale Self Defense Products</a>
+</li>
+
+</ul>
+</div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div>
+<div class="sidebox-wrapper ">
+	<h3 class="sidebox-title"><span>Bestsellers</span></h3>
+	<div class="sidebox-body"><ul class="bullets-list">
+
+	<li>
+		<a href="/pretender-cellphone-stungun.htm" title="Pretender Cellphone Stungun">Pretender Cellphone Stungun</a>
+	</li>
+	<li>
+		<a href="/mini-stun-gun.htm" title="Mini Stun Gun">Mini Stun Gun</a>
+	</li>
+	<li>
+		<a href="/stun-master-stun-gun.htm" title="Stun Master Stun Gun">Stun Master Stun Gun</a>
+	</li>
+
+</ul>
+</div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div>
+			</div>
+								</div>
+	</div>
+	
+	<div id="footer">
+		<div class="footer-helper-container">
+						<div>
+				<table style="width: 991px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
 <tr>
-  <td>
-  <strong>Policies and Other</strong></td></tr>
-<tr><td>
- <table class="subRIGHT_MENU"> 
- <tbody> 
-<tr><td>
-<a class="sublinksRIGHT_MENU" href="return.htm">Return Policy</a>   
-</td></tr><tr><td>
-<a class="sublinksRIGHT_MENU" href="privacy.htm">Privacy Policy</a>   
-</td></tr><tr><td>
-<a class="sublinksRIGHT_MENU" href="shipping.htm">Shipping Policy</a>   
-</td></tr><tr><td>
-<a class="sublinksRIGHT_MENU" href="catalog.htm">Download Catalog</a>   
-</td></tr><tr><td>
-<a class="sublinksRIGHT_MENU" href="distributor.htm">Wholesale Accounts</a>   
-</td></tr><tr><td>
-<a class="sublinksRIGHT_MENU" href="http://www.tbotech.com/cmd.asp?cmd=login">Affiliate Login</a>   
-</td></tr></tbody></table>
-</td></tr>
-</tbody></table>
-            <!-- InstanceBeginEditable name="EditRegion9" --><!-- InstanceEndEditable -->
-            
-            </td></tr></tbody></table>
+<td class="bottomyellowbox" align="left" valign="middle">
+<table style="width: 985px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="bottomyellowboxtxt1" align="left" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td class="bottomyellowboxtxt2" align="center" valign="top">Are you prepared for an emergency? Learn about <a href="http://www.tbotech.com/bug-out-bags.htm">bug out bags</a> or go directly to our sister website: <a href="http://www.survival-gear.com/" target="_blank">Survival-Gear.com</a></td>
+</tr>
+<tr>
+<td class="bottomyellowboxtxt3" align="left" valign="top">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+			</div>
+						<table width="991" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td align="left" valign="middle" class="footer"><table width="920" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td align="left" valign="top" style="padding:-1px 0 0 0px;"><img src="/skins/basic/customer/images/payment-icons.jpg" width="293" height="41" border="0"></td>
+            <td align="left" valign="top" class="footertxt1">TBO-TECH INC. - Self Defense Products<br>
+             © 2000-2010 All Rights Reserved</td>
+            <td align="left" valign="top" class="footertxt2">
+            Phone 910.878.5722 - FAX 910.878.5708<br>
+            224 Lindsay Road,&nbsp;Raeford,&nbsp;NC&nbsp;28376
+            <!--Phone 910-878-5722 - FAX 910-878-5708<br />
+              224 Lindsay Road, Raeford, NC 28376--></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table>
+<!--<div class="bottom-search center">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	<form action="index.php" name="search_form" method="get">
+<input type="hidden" name="subcats" value="Y" />
+<input type="hidden" name="type" value="extended" />
+<input type="hidden" name="status" value="A" />
+<input type="hidden" name="pshort" value="Y" />
+<input type="hidden" name="pfull" value="Y" />
+<input type="hidden" name="pname" value="Y" />
+<input type="hidden" name="pkeywords" value="Y" />
+<input type="hidden" name="search_performed" value="Y" />
+ 
+
+<span class="search-products-text">Search:</span>
+
+<select	name="cid" class="search-selectbox">
+	<option	value="0">- All categories -</option>
+		<option	value="1" >Stun Guns</option>
+		<option	value="42" >Stun Batons</option>
+		<option	value="25" >Cell Phone Stun Guns</option>
+		<option	value="6" >TASER® Devices</option>
+		<option	value="4" >Pepper Shot Pepper Sprays</option>
+		<option	value="47" >Wildfire Pepper Spray</option>
+		<option	value="34" >Mace Pepper Spray</option>
+		<option	value="5" >Animal Repellents</option>
+		<option	value="16" >Police Supplies</option>
+		<option	value="7" >Spy &amp; Surveillance</option>
+		<option	value="29" >Wireless Nanny Cams</option>
+		<option	value="24" >Fake Surveillance Cameras</option>
+		<option	value="12" >Personal Alarms</option>
+		<option	value="30" >Wireless Home Alarms</option>
+		<option	value="31" >Infrared Motion Alarms</option>
+		<option	value="20" >SafeFamilyLife™ Kits</option>
+		<option	value="26" >College Safety Kits</option>
+		<option	value="14" >Other Home Safety Items</option>
+		<option	value="23" >Diversion Safes</option>
+		<option	value="32" >Key Hiders</option>
+		<option	value="15" >Safety Lights</option>
+		<option	value="11" >Weapons</option>
+		<option	value="9" >Folding Knives</option>
+		<option	value="8" >Knives</option>
+		<option	value="44" >Throwing Knives</option>
+		<option	value="37" >Throwing Star Sets</option>
+		<option	value="38" >Single Ninja Stars</option>
+		<option	value="13" >Ninja Gear</option>
+		<option	value="18" >Instructional Fighting DVDs</option>
+		<option	value="17" >Sporting Goods</option>
+		<option	value="22" >Blowgun Accessories</option>
+	</select>
+
+<input type="text" name="q" value="" onfocus="this.select();" class="search-input" /><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button" /><input type="hidden" name="dispatch" value="products.search" />
+
+</form>
+</div>
+<p class="quick-links">
+			<a href="/">Home</a>
+			<a href="/shipping.htm">Shipping</a>
+			<a href="/contact-us.htm">Contact Us</a>
+			<a href="blog/">Blog</a>
+			<a href="forum/">Discussion Forum</a>
+			<a href="/aboutus.htm">About Us</a>
+	</p>
+<p class="bottom-copyright class">Copyright &copy; 2000-2010 Self Defense Products. &nbsp;Powered by <a href="http://www.cs-cart.com" target="_blank" class="underlined">Ecommerce shop</a>
+</p>
 
 
 
-</div></td></tr>
+-->		</div>
+	</div>
+</div>
+			</div>
 
-</tbody></table>
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	jQuery.ajaxRequest('index.php?dispatch=statistics.collect', {
+		method: 'post',
+		data: {
+			've[url]': location.href,
+			've[title]': document.title,
+			've[browser_version]': jQuery.ua.version,
+			've[browser]': jQuery.ua.browser,
+			've[os]': jQuery.ua.os,
+			've[client_language]': jQuery.ua.language,
+			've[referrer]': document.referrer,
+			've[screen_x]': (screen.width || null),
+			've[screen_y]': (screen.height || null),
+			've[color]': (screen.colorDepth || screen.pixelDepth || null),
+			've[time_begin]': 1282432539.38
+		},
+		hidden: true
+	});
+});
+//]]>
+</script>
+
+<noscript>
+<object data="index.php?dispatch=statistics.collect&amp;ve[url]=http%3A%2F%2Fwww.tbotech.com%2Fprivacy.htm&amp;ve[title]=Privacy%20Policy&amp;ve[referrer]=&amp;ve[time_begin]=1282432539.38" width="0" height="0"></object>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+	var _gaq = _gaq || [];
+	_gaq.push(["_setAccount", "UA-696846-2"]);
+	_gaq.push(["_trackPageview"]);
+	
+	(function() {
+		var ga = document.createElement("script");
+		ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+		ga.setAttribute("async", "true");
+		document.documentElement.firstChild.appendChild(ga);
+	})();
+//]]>
+</script>
 
 
 
-<!-- InstanceEnd -->
 </body></html>
