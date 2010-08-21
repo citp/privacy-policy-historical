@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pgimprovinglife.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622041107id_/http%3A//www.pgimprovinglife.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgimprovinglife.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821234512id_/http%3A//www.pgimprovinglife.com/privacypolicy.php) for the most accurate reproduction.*
 
 # P & G Improving life Great values, Expert advice and Free samples.
+
+Privacy Policy Privacy Policy [Home](http://www.pgimprovinglife.com/index.php) You are here :
 
 **P &G Privacy Notice** **Scope  
 **This Privacy Notice applies to information, including personal information, collected about you by **P &G (The Procter & Gamble Company and its affiliated companies and subsidiaries)**
@@ -67,6 +69,6 @@
   * To contact us with a question [click here](http://www.pgimprovinglife.com/write_to_us/write_to_us.php)
   * To read our full Consumer Privacy Statement [click here.](http://www.pg.com/privacy/english/privacy_statement.html)
   * To read our Global Privacy Policy [click here.](http://www.pg.com/en_US/sustainability/point_of_view/privacy.shtml)
-  * [Click here ](https://web.archive.org/web/20100622041107id_/http%3A//www.pgimprovinglife.com/privacy_faq.php)to view Answers to Frequently Asked Questions
+  * [Click here ](https://web.archive.org/web/20100821234512id_/http%3A//www.pgimprovinglife.com/privacy_faq.php)to view Answers to Frequently Asked Questions
 
 
