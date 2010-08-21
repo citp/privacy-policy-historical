@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemoneysystem.net privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516041611id_/http%3A//freemoneysystem.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemoneysystem.net privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821085906id_/http%3A//freemoneysystem.net/privacy.html) for the most accurate reproduction.*
 
 # Free Money System Privacy Policy
 
