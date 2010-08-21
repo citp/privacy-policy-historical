@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecomom.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607215224id_/http%3A//store.ecomom.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecomom.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821103838id_/http%3A//store.ecomom.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Organic Baby Food | Natural Baby Food | Eco-friendly Baby Care Products - EcoMom
+# Terms: Privacy
 
 Where do we collect information from you and how do we use it?
 
