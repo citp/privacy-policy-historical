@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testo.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829120953id_/http%3A//www.testo.com/online/abaxx-%3F%24part%3DPORTAL.USA.SimpleContentDesk%26%24event%3Dshow-from-menu%26categoryid%3D2735720) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testo.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822082919id_/http%3A//www.testo.com/online/abaxx-%3Bjsessionid%3D4BE4F7F6C883D4604BEE6270473F0F19%3F%24part%3DPORTAL.USA.SimpleContentDesk%26%24event%3Dshow-from-menu%26categoryid%3D2735720) for the most accurate reproduction.*
 
 # Testo, USA - Privacy Policy
 
