@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124032122id_/http%3A//www.sonicbids.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822135158id_/http%3A//www.sonicbids.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Get a Gig. Book a Band. - Sonicbids
 
@@ -100,9 +100,13 @@ Our security systems are therefore structured to deter and prevent hackers and o
 
 If we detect, despite the safeguards set out above, an intrusion or other unauthorized access to or use of personally identifiable information (an " **Intrusion** "), we will (i) notify effected users of the Intrusion if the information at issue is sensitive, in our discretion, (ii) deliver this notice by the means we deem most efficient under the circumstances (such as, for example, first class mail or email); (iii) use contact information for each effected user that is current in our files; and (iv) use commercially reasonable efforts to accomplish these steps and effect this notice in a timely manner. To the extent applicable law requires steps in addition to those specified above, we will under all circumstances comply with applicable law. 
 
-**10\. Participation by Children and Teens; Advisory**
+**10\. Privacy Policy regarding children under 13 years-of-age**
 
-Due to federal law (as reflected in the Children's Online Privacy Protection Act), WE DO NOT ALLOW INDIVIDUALS WHO WE KNOW ARE UNDER 13 TO PARTICIPATE IN OUR SITE OR SERVICES. YOU MUST BE AT LEAST 13 YEARS OLD TO USE OUR SITE AND SERVICES. IF YOU ARE BETWEEN 13 AND THE APPLICABLE AGE OF MAJORITY, PLEASE REVIEW THIS AGREEMENT WITH YOUR PARENT OR GUARDIAN. Please understand that we cannot necessarily tell if a user is providing us with his or her true age. 
+Nothing on [www.sonicbids.com](http://www.sonicbids.com/) ("this website") is directed to children under 13 years-of-age. Sonicbids does not knowingly collect or maintain personally identifiable information on this website from children under 13 years-of-age. 
+
+If Sonicbids learns that personally identifiable information from children under 13 years-of-age has been collected and/or is maintained on this website without verifiable parental consent, Sonicbids will take appropriate steps to delete such data. If you are a parent or guardian and find out that your child under 13 years-of-age has registered with [www.sonicbids.com](http://www.sonicbids.com/) and has provided personally identifiable information on this website, you may inform Sonicbids at [needhelp@sonicbids.com](mailto:needhelp@sonicbids.com) and request that Sonicbids delete your child's personally identifiable information from its systems. After notice, Sonicbids will delete all such information. 
+
+Please feel free to send an email to [needhelp@sonicbids.com](mailto:needhelp@sonicbids.com) should you wish to share any comments, questions or advice regarding these privacy guidelines. 
 
 **11\. Notification of Changes**
 
