@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottagesmallholder.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506235208id_/http%3A//www.cottagesmallholder.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottagesmallholder.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822134250id_/http%3A//www.cottagesmallholder.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # The Cottage Smallholder » Privacy Policy
 
@@ -36,7 +36,7 @@ All computers have the ability to decline cookies.  This can be done by activat
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you.
 
-We do not send unsolicited emails to registered users or visitors who have left comments of the blog or forum. The sole exception may be an occasional seasonal electronic greeting card sent to regular contributors of the site.
+We do not send unsolicited emails to registered users or visitors who have left comments on the blog or forum. The sole exception may be an occasional seasonal electronic greeting card sent to regular contributors of the site.
 
 We never reveal your personal data to third parties unless legally forced to do so by a court or government agency.
 
