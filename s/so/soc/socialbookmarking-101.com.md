@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbookmarking-101.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524023811id_/http%3A//www.socialbookmarking-101.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbookmarking-101.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822185201id_/http%3A//www.socialbookmarking-101.com/privacy.htm) for the most accurate reproduction.*
 
 # Social Bookmarking 101 Privacy Policy
 
