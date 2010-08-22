@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kontain.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528022006id_/http%3A//www.kontain.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontain.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822063514id_/http%3A//www.kontain.com/legal/privacy) for the most accurate reproduction.*
 
 # Kontain | Privacy Policy
 
@@ -44,7 +44,7 @@ Kontain is committed to taking appropriate measures to protect your privacy agai
 
 ### Young Children
 
-We do not knowingly collect any personal information from children under the age of 13. To best protect your child's privacy, we suggest that you carefully supervise your child's access to the Internet and our website. For more information on how to protect your child's privacy, you can visit the Federal Trade Commission's Kidzprivacy page, accessible via [www.ftc.gov](https://web.archive.org/web/20100528022006id_/http%3A/www.ftc.gov).
+We do not knowingly collect any personal information from children under the age of 13. To best protect your child's privacy, we suggest that you carefully supervise your child's access to the Internet and our website. For more information on how to protect your child's privacy, you can visit the Federal Trade Commission's Kidzprivacy page, accessible via [www.ftc.gov](https://web.archive.org/web/20100822063514id_/http%3A/www.ftc.gov).
 
 ### Notice for Users Outside of the United States
 
