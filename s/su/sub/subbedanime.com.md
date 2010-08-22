@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subbedanime.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416103318id_/http%3A//subbedanime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subbedanime.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822181045id_/http%3A//subbedanime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of subbedanime.com
 
