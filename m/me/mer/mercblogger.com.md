@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mercblogger.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017223444id_/http%3A//www.mercblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercblogger.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822150958id_/http%3A//www.mercblogger.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mercenary Blogger
+# Mercenary Blogger | Privacy Policy
+
+## Privacy Policy
 
   
 This privacy notice discloses the privacy practices for this website. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
