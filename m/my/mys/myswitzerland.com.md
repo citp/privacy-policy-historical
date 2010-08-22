@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myswitzerland.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502180031id_/http%3A//www.myswitzerland.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myswitzerland.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822160800id_/http%3A//www.myswitzerland.com/en/privacy.html) for the most accurate reproduction.*
 
 # Terms of Use / Exclusion of Liability / Privacy Statement of Switzerland Tourism - Switzerland Tourism
 
