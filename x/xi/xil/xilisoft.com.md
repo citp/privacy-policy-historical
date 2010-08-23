@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xilisoft.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621010903id_/http%3A//www.xilisoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xilisoft.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823023720id_/http%3A//www.xilisoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Xilisoft Corporation - Privacy Policy
 
