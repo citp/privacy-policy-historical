@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatingwell.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617092144id_/http%3A//www.eatingwell.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatingwell.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823203313id_/http%3A//www.eatingwell.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eating Well
 
@@ -6,7 +6,7 @@
 
 The following Privacy Policy summarizes the various ways that **EatingWell Media Group, Inc.** ("EatingWell," "we" or "our") treats the information you provide while using **www.EatingWell.com** ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at <http://www.eatingwell.com/content/privacy_policy>. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at <http://www.eatingwell.com/privacy_policy>. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
 In addition to reviewing this Privacy Policy, please read our [User Agreement](http://www.eatingwell.com/user_agreement).
 
