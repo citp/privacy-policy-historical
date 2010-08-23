@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowbot.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530031507id_/http%3A//www.yellowbot.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowbot.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823070001id_/http%3A//www.yellowbot.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - YellowBot
 
@@ -65,4 +65,4 @@ Mailing address:
       Burbank, California 91503   
 
 
-Telephone: (866) 810-8484 Monday through Friday 9:30a to 4:30p Pacific Standard (California) Time
+Telephone: (888) 902-0903 / (818) 338-0203 Monday through Friday 9:30a to 4:30p Pacific Standard (California) Time
