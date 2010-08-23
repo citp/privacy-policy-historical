@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pheedo.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522223432id_/http%3A//www.pheedo.com/site/corp_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheedo.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823035334id_/http%3A//www.pheedo.com/site/corp_privacy.php) for the most accurate reproduction.*
 
 # Pheedo :: Privacy
 
@@ -82,7 +82,7 @@ If you choose to visit Pheedo, your visit and any dispute over privacy is subjec
 
 ### Questions and Suggestions
 
-If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20100522223432id_/http%3A//www.pheedo.com/site/corp_contact.php) or you can contact us at:
+If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20100823035334id_/http%3A//www.pheedo.com/site/corp_contact.php) or you can contact us at:
 
 Pheedo Customer Care - Privacy Policy Issues 469 Ninth Street, Suite 210 Oakland, CA 94607
 
