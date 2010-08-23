@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the find-fm.com privacy policy that was archived on 2008-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081227164101id_/http%3A//find-fm.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the find-fm.com privacy policy that was archived on 2010-08-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100823070214id_/http%3A//find-fm.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
-<title>Search results for: </title>
+<title>Search results for: &lt;? echo $keyword; ?&gt;</title>
 <link href="common.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" src="/js.js"></script>
 <meta http-equiv="refresh" content="600">
@@ -16,9 +16,9 @@
 		<td valign="top">
 <table width="100%" border="0" cellspacing="0" cellpadding="0" background="images/header/2.gif">
 	<tbody><tr>
-		<td width="206"><a href="http://www.find.fm/"><img src="images/header/1.gif" width="206" height="68" border="0"></a></td>	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		<td width="206"><a href="http://www.find.fm/&lt;? echo $aidHTML.$sidHTML; ?&gt;"><img src="images/header/1.gif" width="206" height="68" border="0"></a></td>	<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 		
-		<td background="images/header/3.gif" height="68" style="padding-right:5px; padding-top:30px; background-repeat:no-repeat; background-position:top right; font-size:10px;" valign="top" align="right">Today is Saturday, 27 Dec 2008</td>
+		<td background="images/header/3.gif" height="68" style="padding-right:5px; padding-top:30px; background-repeat:no-repeat; background-position:top right; font-size:10px;" valign="top" align="right">Today is <!--? echo date("l, d M Y"); ?--></td>
 	</tr>
 </tbody></table>
 
@@ -27,12 +27,24 @@
 		<td height="83" valign="top" style="padding-top:23px;">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<form action="/search.php" method="get"></form>
+<!--?
+if ( $aid ) {
+?-->
+	<input type="hidden" name="aid" value="<? echo $aid; ?>">
+<!--?
+}
+if ( $sid ) {
+?-->
+	<input type="hidden" name="sid" value="<? echo $sid; ?>">
+<!--?
+}
+?-->
 	<tbody><tr>
 		<td style="padding-right:7px;"><img src="images/magn.gif" width="11" height="11"></td>
 		<td style="color:#FFFFFF; font-weight:bold; text-transform:uppercase; padding-right:10px;">SEARCH THE WEB </td>
-		<td><input type="text" name="keyword" class="text_field" value=""></td>
+		<td><input type="text" name="keyword" class="text_field" value="<? echo $keyword; ?>"></td>
 		<td style="padding-right:5px; padding-left:5px;"><input type="image" src="images/find_it.gif" width="83" height="31" border="0"></td>
-		<td align="right" style="padding-right:10px;"><a href="javascript:sahp('http://')"><img src="images/boomark.gif" name="Image21" width="185" height="37" border="0"></a></td>
+		<td align="right" style="padding-right:10px;"><a href="javascript:sahp('http://<? echo $AddToFavURL; ?>')"><img src="images/boomark.gif" name="Image21" width="185" height="37" border="0"></a></td>
 	</tr>
 	
 </tbody></table>
