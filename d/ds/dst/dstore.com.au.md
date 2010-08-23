@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dstore.com.au privacy policy that was archived on 2009-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090709040711id_/http%3A//dstore.com.au/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstore.com.au privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823070137id_/http%3A//dstore.com.au/help/privacy_policy.html) for the most accurate reproduction.*
 
 # dStore Help: dStore.com.au Privacy Policy
 
@@ -178,4 +178,4 @@ Contacting dStore**
 If you require further information regarding dStore's Privacy Policy, you can contact dStore Customer Service Centre by clicking [**here.**](http://dstore.com.au/contact/)
 
 Alternatively you can call toll-free on 1800 378 673;  
-or international +61 7 3223 6111.[](mailto:privacy@dstore.com.au)
+or international +61 7 3846 4141.[](mailto:privacy@dstore.com.au)
