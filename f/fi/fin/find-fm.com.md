@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the find-fm.com privacy policy that was archived on 2008-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081227164101id_/http%3A//find-fm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-fm.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823070214id_/http%3A//find-fm.com/privacy.html) for the most accurate reproduction.*
 
-# Search results for:
+# Search results for: <? echo $keyword; ?>
 
 Find.FM respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not wilfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children.
 
