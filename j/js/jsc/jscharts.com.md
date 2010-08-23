@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jscharts.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301213928id_/http%3A//www.jumpeyecomponents.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jscharts.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823100840id_/http%3A//www.jumpeyecomponents.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Web site privacy policy
 
@@ -45,4 +45,4 @@ This Privacy Policy constitutes a contract made under and shall be governed by a
 
 ### 9. Contact Information
 
-Questions or comments regarding the Web Site should be sent by e-mail to jumpeyecomponents.com support or by U.S. mail to Smartketer LLC, 6665 Vernmoor, Troy, Mi. 48098 - USA 
+Questions or comments regarding the Web Site should be sent by email to jumpeyecomponents.com support or by U.S. mail to Smartketer LLC, 6665 Vernmoor, Troy, Mi. 48098 - USA 
