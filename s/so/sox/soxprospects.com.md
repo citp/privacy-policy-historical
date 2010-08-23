@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soxprospects.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soxprospects.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823212349id_/http%3A//soxprospects.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | SoxProspects.com
 
-| [](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/index.html) |    
+| [](https://web.archive.org/web/20100823212349id_/http%3A//soxprospects.com/index.html) |    
 ---|---  
   
   |   |   |    
@@ -68,7 +68,8 @@ Need football tickets? Visit [ SecureYourSeat.com](http://secureyourseat.com/)!�
    
   
    
-[ Red Sox Tickets](http://events.ticketsplus.com/boston_red_sox_tickets.htm), [ Yankees tickets](http://www.ticketliquidator.com/tix/new-york-yankees-tickets.aspx), [ Mets Tickets](http://www.ticketliquidator.com/tix/new-york-mets-tickets.aspx), and other [ Baseball Tickets](http://www.ticketliquidator.com/MLB.aspx). Premium [ NFL Tickets](http://www.ticketliquidator.com/NFL.aspx): [ Steelers Tickets](http://www.ticketliquidator.com/tix/pittsburgh-steelers-tickets.aspx), [ Cowboys Tickets](http://www.ticketliquidator.com/tix/dallas-cowboys-tickets.aspx), and [ Patriots Tickets](http://www.ticketliquidator.com/tix/new-england-patriots-tickets.aspx).   
+Find  [ Red Sox seats](http://www.ticketliquidator.com/tix/boton-red-sox-tickets.aspx),  [ NFL tickets](http://www.ticketliquidator.com/nfl.aspx),  [ Steeler football tickets](http://www.ticketliquidator.com/tix/pittsburgh-steelers-tickets.aspx),  [ Florida football tickets](http://www.ticketliquidator.com/tix/florida-gators-cf-tickets.aspx), the  [ NY Yankees schedule](http://www.ticketliquidator.com/tix/new-york-yankees-tickets.aspx),  [ NCAA football tickets](http://www.ticketliquidator.com/collegefootball.aspx),  [ MLB playoff tickets](http://www.ticketliquidator.com/mlb.aspx)   
+and [ Philly Eagles tickets](http://www.ticketliquidator.com/tix/philadelphia-eagles-tickets.aspx).   
    
   
    
@@ -80,12 +81,11 @@ Order [ F](http://www.livefootballtickets.com/)[ootball tickets](http://www.live
 [ Champions League tickets](http://www.livefootballtickets.com/champions-league-tickets.html), [ Community Shield tickets](http://www.livefootballtickets.com/community-shield-tickets.html), [ English FA Cup tickets](http://www.livefootballtickets.com/fa-cup-tickets.html), [ Liverpool tickets](http://www.livefootballtickets.com/english-premiership/liverpool-tickets.html), and [ Chelsea tickets](http://www.livefootballtickets.com/english-premiership/fc-chelsea-tickets.html)   
    
   
-** [ SoxProspects Mailbag](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/mailbag.htm)**  
    
 Rankings updated every Friday  
 during the season  
    
-[** Prospect Grading Legend**](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/about.htm#Grades)  
+[** Prospect Grading Legend**](https://web.archive.org/web/20100823212349id_/http%3A//soxprospects.com/about.htm#Grades)  
    
   
    
@@ -117,14 +117,14 @@ to get [ Fenway Park Tickets](http://www.fenwayticketking.com/) for events such 
   |   |   |   |   |    
   |  |  **Copyright © 2003-2010 SoxProspects, LLC**  
 All Rights Reserved.  
-**Last Updated** : Wednesday, May 05, 2010 08:39 AM   
+**Last Updated** : Friday, July 09, 2010 11:31 AM   
 **email** : [ info@soxprospects.com](mailto:info@soxprospects.com) | 
 
-[Site Map](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/sitemap.htm)  
+[Site Map](https://web.archive.org/web/20100823212349id_/http%3A//soxprospects.com/sitemap.htm)  
     
 [ RSS Feed](http://www.blogger.com/feeds/13579837/posts/default)  
     
-[Privacy Policy](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/privacypolicy.htm)
+[Privacy Policy](https://web.archive.org/web/20100823212349id_/http%3A//soxprospects.com/privacypolicy.htm)
 
 | 
 
