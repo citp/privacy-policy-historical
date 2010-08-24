@@ -1,0 +1,21 @@
+> *The following text is extracted and transformed from the moviesklix.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824041716id_/http%3A//www.moviesklix.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Moviesklix | MoviesKlix
+
+## Privacy Policy
+
+You can contact us at admin@moviesklix.com
+
+Contact Person : Tesur Rajan
+
+For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+
+We collect no information on consumers who browse our Web page.
+
+The information we collect is :
+
+With respect to cookies: We do not set any cookies.
+
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Google Adsense.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or e-mail.
