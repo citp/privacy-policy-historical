@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plexihost.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507194513id_/http%3A//www.plexihost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plexihost.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824032443id_/http%3A//www.plexihost.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Plexihost - Affordable Unlimited Web Hosting Services
+# Privacy Policy - Affordable Web Hosting - $2.49 a month - Cheap Linux Hosting - Reliable Cheap Hosting
 
 This document is intended to inform consumers how Plexihost.com collects, maintains and processes information we collect in the delivery of our network advertising services.
 
