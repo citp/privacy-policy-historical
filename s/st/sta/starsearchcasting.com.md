@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624014205id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824171935id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Find Teen Casting Calls - Become a Model or Actor
+# Jonathan Parker - StarSearchCasting.com Talent Search for Acting, Modeling, Singing, Dancing
 
 ## Our Commitment To Privacy
 
