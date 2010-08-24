@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlsguides.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330020725id_/http%3A//www.carlsguides.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlsguides.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824153628id_/http%3A//www.carlsguides.com/privacy.php) for the most accurate reproduction.*
 
 # Carl's Guides - Privacy
 
