@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfish.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218180246id_/http%3A//www3.snapfish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824034427id_/http%3A//www.snapfish.com/snapfish/privacy) for the most accurate reproduction.*
 
 # Snapfish: Privacy Policy
 
