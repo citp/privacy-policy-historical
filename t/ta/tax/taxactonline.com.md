@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxactonline.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615083635id_/http%3A//www.taxactonline.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxactonline.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824173711id_/http%3A//www.taxactonline.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # TaxACT Online Truste Privacy Policy Statement
 
