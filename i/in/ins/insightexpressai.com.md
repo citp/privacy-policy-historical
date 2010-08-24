@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the insightexpressai.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202044802id_/http%3A//www.insightexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpressai.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824213232id_/http%3A//insightexpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
   
-InsightExpress, LLC (http://www.InsightExpress.com) abides by the principles set forth in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. InsightExpress is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+InsightExpress, LLC (http://www.InsightExpress.com) abides by the principles set forth in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. InsightExpress is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
 [ ](http://www.truste.org/ivalidate.php?url=www.insightexpress.com&sealid=102)
 
@@ -18,7 +18,7 @@ Personal Information
 In the course of responding to our surveys or using our service, you may have the opportunity to voluntarily submit personally identifiable information (e.g., providing profile information, e-mail address or mobile phone number). InsightExpress maintains this information in a database, and may use this information to invite you to participate in future surveys, subject to agreement with the authoring and the respondent-providing client and your explicit opt-in to receive e-mail or mobile communications. Your decision to participate in future surveys is completely at your discretion. That is, you have no obligation to complete this or any future survey. By participating in a survey or in visiting our Web site, you understand and consent to this policy. 
 
 Notice to Children and Young People  
-InsightExpress does not knowingly collect personally identifiable information from anyone under the age of 13. Parental consent is requested and obtained prior to participation in our surveys for anyone under the age of 13. 
+InsightExpress does not knowingly collect personally identifiable information from anyone under the age of 13. 
 
 Notice regarding health related topics/surveys   
 Because facts about a persons demographic, health, health interest, and health care are private and sensitive, we know that you may have concerns about sharing information with us. This Privacy statement is designed to answer your important questions about privacy.
@@ -87,4 +87,4 @@ Phone: 1.203.359.4174
 Fax: 1.203.359.4718  
 E-Mail: [support@insightexpress.com](mailto:support@insightexpress.com)
 
-If users have questions or concerns regarding this statement, they should first contact our Privacy Department by e-mailing us at [privacy@insightexpress.com](mailto:privacy@insightexpress.com) or calling us at 1.203.406.3202. If they do not receive an acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process. <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If users have questions or concerns regarding this statement, they should first contact our Privacy Department by e-mailing us at [privacy@insightexpress.com](mailto:privacy@insightexpress.com) or calling us at 1.203.406.3202. If they do not receive an acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process. [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
