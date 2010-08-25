@@ -1,38 +1,30 @@
-> *The following text is extracted and transformed from the seonitro.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222042017id_/http%3A//www.seonitro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seonitro.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825211706id_/http%3A//www.seonitro.com/privacy-policy) for the most accurate reproduction.*
 
-# OUR PRIVACY POLICY
+# Privacy Policy
 
-**Privacy Policy - Revised and Effective 23 June 2006**
+##  Privacy Policy 
 
-By visiting this web site you are accepting the practices described in ****SEONITRO.COM BY Dori Friend / SEONitro, LLC**** Privacy Policy.
+**Privacy**
 
-All websites operated by **SEONITRO.COM BY Dori Friend / SEONitro, LLC**. is committed to protecting the privacy of our online visitors.
+SEO NITRO, LLC wants to make your online experience satisfying and safe. We want to provide you with the means to control your privacy and give you a way to voice questions or concerns you may have.
 
-Please be aware that we appreciate the trust you place in us by providing information on this web site, and our commitment to you is to use this information with both care and sensitivity. The information we collect from visitors to our web site helps us continually improve the products we offer to our valued customers. Types of information collected are outlined as follows:
+We sometimes collect non identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on SEO NITRO, LLC Web sites, but we do so in ways that keep the information non identifiable.
 
-  * Any information you voluntarily enter on our web site, which may include your name, mailing and e-mail addresses, telephone numbers and other personal information, is maintained and may be utilized by ****SEONITRO.COM BY Dori Friend / SEONitro, LLC**** to help us improve our web site and to identify, improve and promote products and services in which you may have an interest. This information may be shared with 3rd parties for marketing purposes. 
-  * In addition, we use cookies (as do the vast majority of other companies that do business on the World Wide Web) when you visit our site, which are alphanumeric identifiers that we transfer to your computers hard drive through your web browser. Information we collect and analyze via cookies includes the Internet Protocol (IP) address used to connect your computer to the Internet, computer and connection information such as browser type and version, operating system and platform, date and time of your visit, and cookie number. If you do not wish to have cookies placed on your computer, please review the options listed in the Help portion of the toolbar on your computer. The toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+Also, when we collect personal data from you in a transaction, we may extract some information about that transaction in an non identifiable format and combine it with other non identifiable information such as clickstream data. This information is used and analyzed only at an aggregate level to help us understand trends and patterns. This information is not reviewed at an individual level. If you do not want your transaction details used in this manner you can disable your cookies.
 
+We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some SEO NITRO, LLC pages use cookies, sent by SEO NITRO, LLC or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
 
+If you turn off cookies, other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non identifiable cookie information and are disregarded.
 
-**Children's Privacy**
+ **Information Distribution**
 
-We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Blog-Power.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
+It is our strict policy not to share your personal information or preferences with any third party, except as is necessary to operate and improve our website, or to provide any service requested by you on our website.
 
-Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc.
+Although unlikely, we may be required by law enforcement or judicial authorities to provide personally identifiable information to the appropriate governmental authorities. If requested as part of a legal proceeding, we will provide this information upon receipt of the appropriate documentation.
 
-Know the sites your kids are visiting and which sites are appropriate.
+It is not our usual policy but from time to time we may permit other companies to place advertising on our website, and these companies may collect information about you through the use of cookies when you view or click on their advertising or content (using the same techniques described above). Due to the way the Internet operates, we cannot control this collection of information. You should contact these advertisers or content providers if you have any questions about their use of the information they collect.
 
-Look for Web site privacy policies. Know how your child's information is treated.
+There may be links that will let you leave our website. Except for Web sites directly related to SEO NITRO, LLC programs and services, we cannot control the links or their Web sites and we are not responsible for the contents of any linked website or any link contained in a linked website. The inclusion of any link does not imply endorsement of the website. The use and/or privacy provided by a linked website as to any information you provide in accessing that website is in no way subject to our privacy policy. Any linked website may have its own policy that could differ considerably from our policy, or the linked website may not display any privacy policy at all. In any case, even though a linked website is accessed through our website, we cannot be responsible for any use that a linked website may make of your information.  
+Your Acceptance of These Terms.
 
-Check out the FTC's website:
-
-<http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html> for more tips on protecting children's privacy online.
-
-****SEONITRO.COM BY Dori Friend / SEONitro, LLC**** periodically sends email offers, or authorizes others to send e-mail offers, to its web site visitors on behalf of other vendors and advertisers with whom we have a business association or relationship. By providing information on this web site, you are agreeing to receive these periodic e-mail offers, which ****SEONITRO.COM BY Dori Friend / SEONitro, LLC**** believes may be of interest to you as a consumer. If you do not wish to receive e-mail offers from us, please be sure to scroll down to the bottom of the first e-mail you receive and click on the opt-out link provided, which will remove your e-mail address from our database. You will then receive no further e-mail communications from us. If you do not scroll down to the bottom of the first e-mail you receive (or any e-mails thereafter), you will continue to receive e-mail offers from ****SEONITRO.COM BY Dori Friend / SEONitro, LLC**** until you choose to click on the opt-out link that will be provided in each e-mail you receive from us.
-
-We will release account and other personal information when such release is necessary to comply with any state, federal or international laws, or when, in our judgment, we determine it to be necessary to protect the rights, property or safety of ****SEONITRO.COM BY Dori Friend / SEONitro, LLC**** or our valued customers. This includes exchanging information with other companies and organizations for fraud protection.
-
-Please note that ****SEONITRO.COM BY Dori Friend / SEONitro, LLC**** web site uses secure payment processing software that encrypts all financial information you input when you place an order. Any and all financial transactions you make through our payment systems will be protected while you are doing business on our web site. If you have any concern about privacy at ****SEONITRO.COM BY Dori Friend / SEONitro, LLC**** web site, please contact us at [support @ seonitronetwork.com](mailto:support%20@%20seonitro.com) (note to customer: please remove spaces before e-mailing), and we will make every effort to address your inquiry in a timely manner.
-
-****SEONITRO.COM BY Dori Friend / SEONitro, LLC**** reserves the right to add to, delete from or in any other way modify any or all of this Privacy Policy without prior notification. Changes to this Privacy Policy shall be noticed by posting a revised Privacy Policy and its effective date on our web site.
+By using this site, you agree to our Privacy Policy. We may also change the policy from time to time, so please be sure to visit this site often to see if anything has changed. If we post changes and you continue to use the site, you will be deemed to have agreed to the changes. 
