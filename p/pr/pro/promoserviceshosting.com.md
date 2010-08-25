@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promoserviceshosting.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625041102id_/http%3A//www.shawncasey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promoserviceshosting.com privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826014434id_/http%3A//www.shawncasey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Shawn Casey | Internet Marketing
 
