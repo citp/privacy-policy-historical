@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakvacancy.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329024820id_/http%3A//www.pakvacancy.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakvacancy.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825192913id_/http%3A//www.pakvacancy.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pakistan Jobs - Dawn - Jang Newspapers Job Ads.
 
