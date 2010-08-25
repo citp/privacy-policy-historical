@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightystudents.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527215131id_/http%3A//www.mightystudents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightystudents.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825220143id_/http%3A//www.mightystudents.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,15 +36,17 @@ All the transactions are handled by a secure server and discarded once the trans
 **Changes to the present privacy statement**  
 MightyStudents.com may amend the present privacy statement once in a while. Please visit regularly the current page to follow any changes in our privacy policy If you have any questions or comments about our privacy statement or practices, please contact us via email at [info AT mightystudents.com](mailto:info@mightystudents.com)
 
-[ ](http://www.besttermpaper.com/services/editing-and-proofreading.html?utm_source=mightystudents&utm_medium=banner&utm_campaign=editing)
+[ ](https://web.archive.org/customer/registration)
+
+[ ](http://www.college-paper.org/order/?doctype=3)
 
 Testimonials
 
-Scott, Florida  
-I was searching online for sample essays on a pretty obscure topic when I found your site an... 
+Thomas, Vancouver  
+Your site is my one stop shop for all of my reference papers and I use it frequently. Your da... 
 
-Michael, Florida  
-I am pretty impressed at the range of papers you have here. There has not been a single time when I ... 
+Antonio, Bologna, Italy  
+I am from Italy and have problems writing in good English and do not know how to write the many kind... 
 
 [Read more](https://web.archive.org/testimonials)
 
