@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621021828id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825020534id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
 
-# InsWeb.com - Privacy & Security
+# Privacy and Security | InsWeb
 
 (Last updated: May 6, 2010)
 
