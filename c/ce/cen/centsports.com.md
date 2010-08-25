@@ -1,0 +1,47 @@
+> *The following text is extracted and transformed from the centsports.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825103140id_/http%3A//www.centsports.com/privacy) for the most accurate reproduction.*
+
+# 
+
+Last revised: June 16, 2010
+
+This statement discloses the privacy policies of CentSports.com. ("CentSports") for the CentSports.com website ("the Site").  
+Your privacy is very important to us. By visiting this web site (the "Site"), you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree to be bound by its terms and conditions, please do not use or access our Site. If you feel that CentSports does not abide by its posted privacy policy, or if you wish to modify information previously given, or have any questions regarding this Privacy Policy, please contact us via e-mail at [privacy@centsports.com](mailto:privacy@centsports.com).
+
+**MINORS**  
+CentSports does not knowingly collect personally identifiable information from children under 15 years of age. Our recommended minimum age is 15 years. 
+
+**INFORMATION COLLECTION AND USE**  
+The Site provides incentives to members for watching ads in the form of various modifiers to user bets. An essential aspect of the performance of this function is the collection and use of information from our members. CentSports is the sole owner of the information collected on this Site. We collect information from users at several points on our Site, and will not sell, share or rent this information to others in ways different from those disclosed in this Privacy Policy. We use customer contact information to send users information about our company and to contact them when necessary. Demographic and profile data is also collected at our Site, and may be shared with advertisers on an aggregate basis. We do not disclose any information that could be used to identify you personally to these entities without your prior consent.
+
+If you send us personal correspondence such as an e-mail or a letter, we may collect such information into a file specific to you. We use the personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes, troubleshoot problems, measure consumer interest in our services, reward you for the ads you watch, inform you of offers, products, services, and updates, customize your experience, detect and protect us against error, fraud and other criminal activity, enforce our User Agreement, and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems. In particular, we may examine your personal information to identify users using multiple User IDs or aliases. We may compare and review your personal information for accuracy and to detect errors and omissions.
+
+You agree that we may use your personal information to improve our marketing and promotional efforts, to analyze Site usage, to improve our content and offerings, and to customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using it.
+
+Under some circumstances, such as when awarding cash-outs, we may provide some of your information to a third party verification service to verify the accuracy of your name, address, and other information. These third parties will be bound by a confidentiality agreement. Pursuant to such confidentiality agreement, any data we provide them should be used only to verify your information, and should then be destroyed.
+
+Under some circumstances we may use the personal information of sweepstakes winners in order to promote the site. We will limit that information to combinations that do not explicitly reveal the identity of the winner(s) (such as using first name or first name and last name initials, state of residence, and prizes awarded). You may request that such personal information not be shown to the public (after it has been posted) by sending a note to [privacy@centsports.com](mailto:privacy@centsports.com) including your user name. By accepting the Privacy Policy, you expressly agree to allow the posting of this information.
+
+We automatically collect certain information about your computer hardware and software based upon your behavior on this Site. We use this information to conduct internal research on our users' demographics, interests, and behavior so as to better understand and serve them. This information may include the referring URL, the URL you next go to, the browser you use, your IP address and your access times. It is used by CentSports to maintain and improve the quality of its service and to generate statistics regarding the use of our Site, and may be shared with third parties whose services are used to analyze traffic.
+
+**CHANGING USER INFORMATION**  
+We offer you the ability to automatically review and change the information you submit to us by logging into our Site and entering the new information yourself. You can change your e-mail address and home address by going to the "Account" section of the Site. You must promptly update your personal information if it changes or if it is inaccurate. Upon your request, we will deactivate or delete your account and contact information from our active databases. Such information will be deactivated or deleted as soon as practicable based on your account activity and accordance with our deactivation policy and applicable law. To make this request, e-mail us at [privacy@centsports.com](mailto:privacy@centsports.com).
+
+We will retain in our files some personal information to prevent fraud, to troubleshoot problems, to assist with any investigations, to enforce our User Agreement and to comply with legal requirements as is permitted by law. Therefore, you should not expect that all your personal information will be completely removed from our databases in response to your requests.
+
+**OTHER INFORMATION COLLECTORS AND LINKS**  
+Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. This Site may contain links to other sites. Please be aware that CentSports is not responsible for the privacy practices of such other sites. To the extent that you disclose your information to other parties such as advertisers on our Site, or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. We encourage our users to be aware when they leave our Site and to read the privacy policies of each and every site that collects personally identifiable information before disclosing any personal information to them.
+
+**DISCLOSURE**  
+We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Agreement. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, and third parties may unlawfully intercept or access transmissions or private communications.
+
+**ACCOUNT ESTABLISHMENT**  
+Users are allowed to maintain one (1) active membership account. Upon signing up for our membership, the Site will send an e-mail to the e-mail address you provided during registration to establish that the new account is valid. Accounts with invalid e-mail addresses will not be able to use all of the Site's features. In addition, we reserve the right to withhold activity on the Site until verification has been completed. We may also verify the information you provide with third party verification services. If any of the information you have provided is shown to be inaccurate, we reserve the right to de-activate your account and withhold all past and current earnings.
+
+**SITE AND SERVICE UPDATES**  
+We will send users site and service announcement updates. Members cannot un-subscribe from service announcements, which contain important information about the service. We communicate with users via e-mail to provide requested services and in regards to issues relating to the account.
+
+**NOTIFICATION OF CHANGES**  
+CentSports will occasionally modify the privacy statement and such updates will be evidenced by a change in the "last updated" date, appearing on the top of the Privacy Policy page. For material changes to the policy, CentSports will notify members by placing a prominent link on the website to the new Privacy Policy.
+
+**SECURITY**  
+We treat data as an asset that must be protected against loss and unauthorized access, and employ many different security techniques to protect such data from unauthorized access by users, both inside and outside the company. Your information is stored on CentSports servers, which are located in the United States. We use procedural and technical safeguards including encryption, "firewalls" and Secure Socket Layers to protect your personal information against loss or theft as well as against unauthorized access and disclosure. Although we have taken significant precautions to protect your information, it is impossible to provide 'perfect' security.
