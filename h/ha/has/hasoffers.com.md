@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hasoffers.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325172240id_/http%3A//www.hasoffers.com/hasoffers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasoffers.com privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826040530id_/http%3A//www.hasoffers.com/hasoffers-privacy-policy) for the most accurate reproduction.*
 
 # HasOffers Privacy Policy | HasOffers
 
