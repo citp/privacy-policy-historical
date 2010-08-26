@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627020053id_/http%3A//www.psyche.co.uk/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2010-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100827010507id_/http%3A//www.psyche.co.uk/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# The Psyche Online Privacy Policy | Designer Clothes & Fashion Brands
+# Psyche Privacy Policy | Designer Clothing | Designer Fashion Brands
 
 Your credit card information is encrypted which means that ONLY the receiver of the information (i.e. Psyche.co.uk Ltd.) can read this information. To do this we use the industry standard Secure Socket Layer (SSL) 128 bit encryption technology (when in use you will see the padlock at the bottom of the browser) which is the recognised standard for secure transactions.We have the Internationally renowned WorldPay Secure Server certificate which ensures the strongest encryption currently available used by all reputable e-commerce stores. 
 
