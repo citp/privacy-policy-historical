@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveycompare.net privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523154743id_/http%3A//www.surveycompare.net/node/11%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D600%26width%3D800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveycompare.net privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826061945id_/http%3A//www.surveycompare.net/node/11) for the most accurate reproduction.*
 
 # 
 
@@ -53,4 +53,4 @@ Our site links to other web sites and we are not responsible for the content on 
 
 ### Data Protection
 
-SurveyCompare is a trading name of Moodia Ltd. which is registered under the 1998 Data Protection Act, ref Z6116006.
+SurveyCompare is a trading name of Marketing VF Ltd. which is registered under the 1998 Data Protection Act, ref PZ1995728.
