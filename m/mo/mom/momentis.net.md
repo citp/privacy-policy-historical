@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momentis.net privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414201223id_/http%3A//www.momentis.net/pdfs/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentis.net privacy policy that was archived on 2010-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100827015614id_/http%3A//momentis.net/pdfs/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # MOMENTIS ONLINE PRIVACY STATEMENT
 
