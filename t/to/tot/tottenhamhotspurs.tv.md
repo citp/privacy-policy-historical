@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tottenhamhotspurs.tv privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626140930id_/http%3A//www.tottenhamhotspurs.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tottenhamhotspurs.tv privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826020658id_/http%3A//www.tottenhamhotspurs.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
