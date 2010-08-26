@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618190340id_/http%3A//www.usagold.com/shop/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826091840id_/http%3A//www.usagold.com/shop/terms.html) for the most accurate reproduction.*
 
 # Privacy Policy / Terms and Conditions (for online buying of gold coins)
 
@@ -36,7 +36,7 @@ This web site contains links to other sites. Please be aware that we are not res
 
 1\. $10,000 max payment accepted per client by credit card -- Visa, Mastercard, AmEx and Discover. (Applicable to **US _online_ orders.**) To read our guidelines **[for international orders, please click here](http://www.usagold.com/international-gold/how-to-buy.html)**.
 
-*2. We will pay shipping and insurance expenses for online coin orders larger than $2000. For coin orders totalling less than $2000 a $25 shipping and handling fee will be charged to the customer. **Gold bullion** is available by phone only; free shipping on bullion applies to minimum orders of five ounces or more.
+*2. We will pay shipping and insurance expenses for online coin orders meeting our qualifying minimum of five ounces. For smaller orders a $25 shipping and handling fee will be applied to the order. **Gold bullion** is available by _phone only_ ; free shipping on bullion applies to minimum orders of five ounces or more.
 
 3\. Discount pricing available on volume orders and on payment by check or bankwire. To inquire, call our trading desk at **1-800-869-5115**.
 
