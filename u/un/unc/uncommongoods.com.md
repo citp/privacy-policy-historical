@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncommongoods.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031825id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncommongoods.com privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826234555id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
 # UncommonGoods | Help
 
