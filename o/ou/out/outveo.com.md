@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outveo.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626214729id_/http%3A//www.outveo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outveo.com privacy policy that was archived on 2010-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100827081530id_/http%3A//outveo.com/privacy.html) for the most accurate reproduction.*
 
 # OutVeo | Outsourcing Projects Made Easy
 
