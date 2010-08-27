@@ -1,95 +1,70 @@
-> *The following text is extracted and transformed from the mastineedz.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410195309id_/http%3A//www.mastineedz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastineedz.com privacy policy that was archived on 2010-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100827162932id_/http%3A//www.mastineedz.com/pp.php) for the most accurate reproduction.*
 
-# Mastineedz Privacy Policy
+# MastiNeedz Privacy Policy
 
-Last modified: August 2, 2008
+**MastiNeedz Privacy Policy**
 
-At MastiNeedZ we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by MastiNeedZ Inc. or its subsidiaries or affiliated companies (collectively, MastiNeedZ's "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
+**Last Modified: 09 August, 2010**
 
-If you have any questions about this Policy, please feel free to [ contact us](http://www.mastineedz.com/sendmessage.php) through our website or write to us at Privacy Matters, c/o MastiNeedZ Inc., #112, 1st Floor, Sector 35-A, Bangalore - India. Fax: 3198567156
+MastiNeedz (see "[TOS](http://www.mastineedz.com/tos.php)") considers that respect of privacy on the Internet is of utmost importance. This statement presents the rules applied by MastiNeedz for the collection and dissemination of personal information given by users on the site. They apply to all "MastiNeedz Sites", i.e. all sites within the "MastiNeedz.com” domain.
 
-## Information we collect and how we use it
+**What information is collected by MastiNeedz?**
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as MastiNeedZ Search. In order to provide our full range of services, we may collect the following types of information:
+**Standard use of the Site**
 
-Information you provide \- When you sign up for a MastiNeedZ Account or other MastiNeedZ service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other MastiNeedZ services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. 
+In general, you can browse the Site without telling us who you are or revealing any personal information. The only information we gather during a general navigation on the Site is the information intended for the server logs: IP (Internet Protocol) address, domain name, browser type, operating system and information such as the site from which you are connected, pages visited, and the dates and times of those visits.
 
-MastiNeedZ cookies \- When you visit MastiNeedZ, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some MastiNeedZ features and services may not function properly if your cookies are disabled. 
+**Collect of Personal Information**
 
-Log information \- When you use MastiNeedZ services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+If you subscribe to a newsletter, log on to certain MastiNeedz sites, request information, send any comments or if you join a discussion group or electronic mailing list, you will need to provide some personal information : name and e-mail address, for example. Such information is collected only with your permission and is stored in different databases and mailing lists belonging to MastiNeedz. If you make a purchase over the Internet, you may be asked to provide your credit card information. These data are transferred to a secure payment online, hosted outside MastiNeedz. MastiNeedz does not keep credit card information.
 
-User communications \- When you send email or other communication to MastiNeedZ, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+The registration of personal information leads to the submission of a cookie* on certain sites of MastiNeedz. By setting this cookie, MastiNeedz will remember your personal details at the next visit so you do not have to re-enter the same information. This helps us to improve the quality of services that we offer.
 
-Affiliated sites \- We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to MastiNeedZ in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
+Participation in electronic discussion groups means that other participants in the group that you have chosen (including those who are not Site Administrators) will be aware of any personal information that you choose to disclose. In some open discussion groups the information is public.
 
-Links \- MastiNeedZ may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. For more information about links and redirected URLs, please see our [ FAQs](http://www.mastineedz.com/faq.php). 
+**What does MastiNeedz do with the information it collects?**
 
-Other sites \- This Privacy Policy applies to web sites and services that are owned and operated by MastiNeedZ. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+**Standard use of the Site**
 
-MastiNeedZ only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
+The information collected during the navigation in the "MastiNeedz.com" area is used to analyze trends and the use of the site in order to improve its usefulness. No personal information is attached there.
 
-  * Providing our products and services to users, including the display of customized content and advertising; 
-  * Auditing, research and analysis in order to maintain, protect and improve our services; 
-  * Ensuring the technical functioning of our network; and 
-  * Developing new services. 
+**Personal Information**
 
+MastiNeedz may use such information to:
 
+* Contact you - either in response to a request or a suggestion, or to send you news, documents, publications, and so on;
 
-You can find more information about how we process personal information by referring to the privacy notices for particular services. 
+* Confirm your entries on the site;
 
-MastiNeedZ processes personal information on our servers in India and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+* "Remember" your online profile and preferences;
 
-## Choices for personal information 
+* Statistical analysis performing.
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. 
+**What will happen if I do not want to provide personal information?**
 
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. 
+Providing personal information on the Site is optional. If you do not want to deliver information of this kind, you can always surf the Site, but you will not be able to access the entire Service and its Information.
 
-You can decline to submit personal information to any of our services, in which case MastiNeedZ may not be able to provide those services to you. 
+**Removal or modification of information** **  
+**  
+You can delete or modify your personal information at any time by returning to the page where you registered them or by contacting the coordinator of the page. If the page in question does not provide any information on this subject, you can contact privacy(at)MastiNeedz(dot)com for more information. 
 
-## Information sharing 
+If you are not the issuer of personal information that concerns you and want to have it removed, you can send your request to privacy(at)MastiNeedz(dot)com
 
-MastiNeedZ only shares personal information with other companies or individuals outside of MastiNeedZ in the following limited circumstances: 
+**Security**
 
-We have your consent. We require opt-in consent for the sharing of any sensitive personal information. 
+The personal data entrusted to the Site will not be sold or transferred to any third party. Any information provided to MastiNeedz by users of the Site is preserved with the utmost care and maximum safety. It will be used only in the manner described in this privacy policy, or according to the special rules of visited sites or in a manner to which you have explicitly consented. MastiNeedz uses techniques and a variety of measures to ensure the safety of information stored in its systems and protects them from loss, misuse, unauthorized access, disclosure, alteration, or destruction.
 
-We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. 
+All our volunteers (see "Moderators" - TOS) who have access to personal information or are associated with the processing of these data, are obliged to respect the confidentiality of every user of the Site, which covers the personal information. 
 
-We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of MastiNeedZ, its users or the public as required or permitted by law. 
+The Site provides links to sites outside the "MastiNeedz.com" area and could not be held responsible for the privacy practices or the content located on them.
 
-If MastiNeedZ becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
+**Modifications**
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
+Any modification of these terms can be made at any time without prior publication or announcement.
 
-Please contact us at the address below for any additional questions about the management or use of personal data. 
+**Contact**
 
-## Information security 
+For any questions or inquiries about our privacy policy, you can contact us at privacy(at)MastiNeedz(dot)com
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
-
-We restrict access to personal information to MastiNeedZ employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
-
-## Data integrity 
-
-MastiNeedZ processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
-
-## Accessing and updating personal information 
-
-When you use MastiNeedZ services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services. 
-
-## Enforcement 
-
-MastiNeedZ regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or MastiNeedZ's treatment of personal information by [ contacting us](http://www.mastineedz.com/sendmessage.php) through this web site or by writing to us at Privacy Matters, c/o MastiNeedZ Inc., #112, 1st Floor, Sector 35-A, Bangalore - India. Fax: 3198567156
-
-When we receive formal written complaints at this address, it is MastiNeedZ's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between MastiNeedZ and an individual. 
-
-## Changes to this policy 
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep [ prior versions of this Privacy Policy](http://www.mastineedz.com/intl/en/privacy_archive.html) in an archive for your review. 
-
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o MastiNeedZ Inc., #112, 1st Floor, Sector 35-A, Bangalore - India. Fax: 3198567156
-
-All times are GMT +5.5. 
-
-Copyright © 2008 MastiNeedZ Design Lab. All rights reserved.  
-
+_*Cookie  
+A cookie is a small file that a Web server sends to your browser. It is normally used to assign your computer a unique identification and securely store information: identity of the user, passwords, preferences, online profiles. It is stored on the hard drive of your computer. You can refuse to have cookies delivered by MastiNeedz sites by changing the settings of your browser. Cookies installed in your computer can come from many Internet sites. To protect the confidentiality of data, your browser allows Web sites to access cookies they themselves have sent, not to those that others have sent. _
