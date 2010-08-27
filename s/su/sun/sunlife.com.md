@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunlife.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427080730id_/http%3A//www.sunlife.com/global/v/index.jsp%3Fvgnextoid%3Dca0156e4674bc110VgnVCM1000009b80d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlife.com privacy policy that was archived on 2010-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100827163013id_/http%3A//www.sunlife.com/Global/Privacy%3FvgnLocale%3Den_CA) for the most accurate reproduction.*
 
 # Sun Life Financial - Privacy
 
@@ -7,7 +7,7 @@ Cookies
 
 **Sun Life Financial's worldwide privacy commitment**
 
-At the [Sun Life Financial group of companies](https://web.archive.org/global/v/index.jsp?vgnextoid=5e48d284bf80e110VgnVCM100000abd2d09fRCRD&vgnextfmt=default&vgnLocale=en_CA), we are committed to protecting your personal information. As a customer, we can best serve you when we have a complete understanding of your financial needs and can offer you products and services tailored to meet them. Managing the information you provide to us as part of that process is at the root of our successful operations. We have a long history of protecting that information in a professional and appropriate manner.
+At the [Sun Life Financial group of companies](https://web.archive.org/Global/Privacy/Sun+Life+Financial+group+of+companies?vgnLocale=en_CA), we are committed to protecting your personal information. As a customer, we can best serve you when we have a complete understanding of your financial needs and can offer you products and services tailored to meet them. Managing the information you provide to us as part of that process is at the root of our successful operations. We have a long history of protecting that information in a professional and appropriate manner.
 
 We are in the business of maintaining long-term relationships with our customers. We recognize that an important aspect of our relationship is having comprehensive knowledge of our customers and their needs, which is why we are committed to protecting the confidentiality of our customers' personal information. To that end, we are pleased to share with you the following principles which reflect our commitment to safeguarding our customers' personal information.
 
