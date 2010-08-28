@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsfwftw.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603025906id_/http%3A//www.nsfwftw.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsfwftw.com privacy policy that was archived on 2010-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100828145512id_/http%3A//www.nsfwftw.com/static/privacy) for the most accurate reproduction.*
 
 # Porn Videos, Brianna Frost Videos, Cam Slut Videos, Sex Videos, Amateur Sex Videos, Cam Babes, Gisele Videos, Cam With Carmen Videos - NSFWFTW.com updates daily with free porn videos
 
