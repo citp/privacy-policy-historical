@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evetech.co.za privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510030737id_/http%3A//www.evetech.co.za/Company/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evetech.co.za privacy policy that was archived on 2010-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100828085218id_/http%3A//www.evetech.co.za/Company/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Custom built Computers - Buy cheap computers & discount gaming PCs
 
