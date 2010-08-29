@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yuku.com privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204182835id_/http%3A//www.yuku.com/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuku.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829060604id_/http%3A//www.yuku.com/portal/privacy) for the most accurate reproduction.*
 
-# Yuku Privacy Policy | Free forums, social networks, communities, chat rooms Yuku
+# Yuku Privacy Policy | Free forums, social networks, communities, chat rooms
 
 ## Introduction
 
@@ -95,7 +95,7 @@ If Yuku learns of a security systems breach we may attempt to notify you electro
 
 Yuku uses cookies to store visitors' preferences and to record session information for purposes including: ensuring that visitors are not repeatedly offered the same advertisements; to customize advertising and Web page content based on browser type and user profile information; to estimate and report our total audience size and traffic; and to conduct research to improve our content and services. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set-each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences-however, you must enable cookies from Yuku in order to use most functions on the site.
 
-Please note that we permit third party advertisers who present advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the Yuku Privacy Policy. For more information about their separate privacy policies, you should contact the third-party advertising network directly.
+Please note that we permit third party advertisers who present advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the Yuku Privacy Policy. You can choose not to receive tailored online advertising on other websites, based on your travel-related searches on this website, by clicking [here](http://www.networkadvertising.org/).
 
 Yuku uses web beacons to research certain usage and activities on its and our website. The information collected through these web beacons is used to find out more about our users; for more accurate reporting; and to improve the effectiveness of our marketing. No personally identifiable information about you is shared by Yuku as a result of this research.
 
