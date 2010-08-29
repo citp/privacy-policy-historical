@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webassist.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628171256id_/http%3A//www.webassist.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webassist.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829040829id_/http%3A//www.webassist.com/company/privacy.php) for the most accurate reproduction.*
 
 # WebAssist - Privacy Policy
 
