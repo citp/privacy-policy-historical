@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yardit.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113141745id_/http%3A//www.yardit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardit.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829190538id_/http%3A//www.yardit.com/privacy.php) for the most accurate reproduction.*
 
 # Yardit.com - Privacy Policy
 
