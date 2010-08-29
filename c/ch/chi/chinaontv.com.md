@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chinaontv.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102015527id_/http%3A//chinaontv.com/others/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaontv.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829080444id_/http%3A//www.chinaontv.com/others/privacy_policy.php) for the most accurate reproduction.*
 
-# ChinaOnTV
+# ChinaOnTV recipes culture learn chinese
 
 Online Privacy Policy
 
