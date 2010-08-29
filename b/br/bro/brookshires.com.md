@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620005203id_/http%3A//www.brookshires.com/brookshire_cnt/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829214910id_/http%3A//www.brookshires.com/brookshire_cnt/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ _What This Privacy Policy Covers_
 
 This Privacy Policy describes how Brookshire treats personal information that Brookshire collects and receives, including information related to your past use of Brookshire products and services. Personal information is information about you that is personally identifiable like your name, address, email address, telephone number, credit card and checking account information, and any information that can be linked to you that is not otherwise publicly available. 
 
-This policy does not apply to the practices of companies that Brookshire does not own or control or to people that Brookshire does not employ or manage. In addition, certain Brookshire associated companies such as MyWebGrocer.com have their own Privacy Policies which can be viewed by going to [http://www.mywebgrocer.com/Privacy-Policy.aspx. ](http://www.mywebgrocer.com/Privacy-Policy.aspx)Brookshire is not responsible for the content or the privacy and security policies or practices of any such companies or people.
+This policy does not apply to the practices of companies that Brookshire does not own or control or to people that Brookshire does not employ or manage. In addition, certain Brookshire associated companies such as MyWebGrocer.com have their own Privacy Policies which can be viewed by going to <http://www.mywebgrocer.com/privacypolicy.aspx>. Brookshire is not responsible for the content or the privacy and security policies or practices of any such companies or people.
 
 _Information Sharing and Disclosure_
 
