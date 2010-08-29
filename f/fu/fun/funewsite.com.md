@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funewsite.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103003457id_/http%3A//funewsite.com/%3Fpage_id%3D1653) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funewsite.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829161026id_/http%3A//funewsite.com/%3Fpage_id%3D1653) for the most accurate reproduction.*
 
 # Privacy Policy | FUNEWSITE
 
@@ -56,3 +56,5 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 Links:  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://www.valueclickmedia.com/member_privacy.shtml 
