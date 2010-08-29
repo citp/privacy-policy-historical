@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theclassifieds.co.za privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610193746id_/http%3A//www.theclassifieds.co.za/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclassifieds.co.za privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829131423id_/http%3A//www.theclassifieds.co.za/content/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - TheClassifieds - South Africa - Free Classifieds in South Africa - TheClassifieds, South Africa's Classifieds Website - Post or Search for Free Ads in South Africa
+# Privacy Policy - TheClassifieds - South Africa - Free Classifieds in South Africa - TheClassifieds, South Africa's Classifieds Website - Post Free Ads in South Africa
 
 1\. Introduction
 
