@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthypetnet.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629232538id_/http%3A//www.healthypetnet.com/HealthyPetNet/General/Privacy.aspx%3Frealname%3D%26cat%3D0%26hdr%3D%26Ath%3DFalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypetnet.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829210530id_/http%3A//www.healthypetnet.com/HealthyPetNet/General/Privacy.aspx%3Frealname%3D%26cat%3D0%26hdr%3D%26Ath%3DFalse) for the most accurate reproduction.*
 
 # HealthyPet's Privacy Policy
 
