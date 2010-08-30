@@ -1,26 +1,51 @@
-> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630144641id_/http%3A//www.frightcatalog.com/Site/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830142012id_/http%3A//www.frightcatalog.com/Site/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Policy as of 6/30/2010
+Policy as of 8/30/2010
 
-The Fright Catalog values its customers and respects their privacy. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. When you visit any website, your computer exchanges information with other computers. The Fright Catalog recognizes that it must maintain and use customer information responsibly. Therefore, we support your right to decide what information you share and how it is used. If you ever have a question about your privacy please email us at [service@frightcatalog.com](mailto:service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs).
+## PRIVACY STATEMENT
 
-## Security
+FrightCatalog.com values its customer and respects their privacy. Any time you visit a website on the Internet, your computer exchanges information with other computers. FrightCatalog.com recognizes that it must maintain and use customer information responsibly. This privacy policy explains what personal information is collected through this web site, how that information is used, and how it is kept safe. This policy only applies to FrightCatalog.com and no other web site. If you ever have a question about this policy or information that it shared with FrightCatalog.com, please email us at [service@frightcatalog.com](mailto:service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs/).
 
-The Fright Catalog team takes your security very personally. We must log into a secure administration site with a username and password to view any customer/sales information. In order to transfer sensitive information such as credit card accounts, we rely on Verisign's secure encryption technology. This notice applies to all information collected or submitted on the frightcatalog.com Web site. On some pages you may order products, make requests and register to receive materials. The type of information collected on these pages are: 
+## PERSONAL INFORMATION COLLECTED
 
-Name  
-Address  
-Email  
-Phone Number  
-Credit / Debit Card Information  
+As is typical with online commerce web sites, we collect information directly from you. Examples of this type of information include, but are not limited to: name, address, telephone number, email address, credit card number, purchase and ordering information, demographical information, and sizing information.
+
+This information may be collected at various places throughout our web site such as completing your order, contacting our customer service through our online contact form, email newsletter subscription, contests, or subscribing to other special offers and programs.
+
+## INFORMATION COLLECTED INDIRECTLY
+
+When you visit FrightCatalog.com, we collect technical information such as the web browser you are using and its version, service provider information, IP address, and the web site from which you came (Google.com, Bing.com, etc.). This information is typically anonymous in the sense that it does not contain any of your personal information, such as your name, address, email address, or telephone number. However, at times, we may associate this technical information with your personal information if you provide it.
+
+To better understand how you use our web site, we use a browser feature known as a cookie. A cookie is a small data file that is stored by your web browser on your computer. It is used to do things like see how you navigate our web site, and remember you and your online purchases when you return. This helps us to improve our web site, provide better customer service, personalize your online experience, and personalize offers to you based on your unique purchase history.
+
+## LIMITING INFORMATION WE CAN USE
+
+There are steps you can take to limit the information that we collect and use. If at any time you have questions about your personal information and how it is collected, please email our customer service department at [service@frightcatalog.com](mailto:service@frightcatalog.com) or fill our online [contact form](https://web.archive.org/Assistance/ContactUs).
+
+If you would like to stop the future delivery of our email offers, simply follow the removal instructions located at the bottom of every email message or complete our online unsubscribe form. This will stop any email offers from us; however, we may still contact you via email for operation or transactional messages such as order confirmations or customer service communications. We also may occasionally provide you with the opportunity to opt back in to our email offers.
+
+If you would like to prevent us from collecting technical information from you, you may turn off cookies or clear your cookies from your web browser. Follow the instructions provided by the web browser’s developer to do this. Please note that by doing this, not all cookies may be blocked and some information may be transferred to us.
+
+## UPDATING MY INFORMATION
+
+If you would like to update your personal information with us, you may modify your information by logging into your FrightCatalog.com account. You may also modify your information by contacting our customer service department.
+
+## HOW IS YOUR INFORMATION SECURED?
+
+FrightCatalog.com has the following types of security measures: limited access data-centers, firewall technology, and secure-socket-layer (SSL) certificate authentication. SSL is encryption technology that provides security for information that is transmitted over the Internet. This site will only accept an order from a web browser that supports communication through SSL technology.
+
+## WILL WE SHARE YOUR INFORMATION?
+
+FrightCatalog.com takes the security of your personal information very seriously. At no time will FrightCatalog.com share personal information you have provided to us with any 3rd party. This information includes the following:
+
+  * Your Name
+  * Address
+  * Email Address
+  * Telephone Number
+  * Credit / Debit Card Information
 
 
-## How do we use this information?
 
-We use information you provide about yourself when placing an order only to complete that order. We do not share this billing information with outside parties, except to the extent necessary to complete that order. We use return email addresses to reply to the email that we receive. You can signup online to receive our newsletter that contains updates regarding new products, special offers or services. We may use names in conjunction with an address to send notices and to rent to qualified third parties for their use. Anyone may remove themselves from receiving Fright Catalog and third party advertisements in the mail simply by emailing [service@frightcatalog.com](mailto:service@frightcatalog.com), fill out our online [contact form](https://web.archive.org/Assistance/ContactUs) or by calling 508-970-4575.
-
-## Corrections and Removal
-
-Please contact our customer service representatives at 508-970-4575 or email at [service@frightcatalog.com](https://web.archive.org/web/20100630144641id_/http://www.frightcatalog.com/Site/PrivacyPolicy/service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs) if corrections are necessary or you wish not to receive advertisements in the mail. If you have subscribed to our email newsletter and would like to be removed, please go to our [unsubscribe page](https://web.archive.org/Assistance/Unsubscribe?emsrc=mm).
+Information collected indirectly through technology such as web browser cookies may be shared with 3rd party sites and companies to help us improve our web site. This information is kept confidential as well, however, if you have any questions regarding how this information is shared, please contact our customer service department.
