@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621034713id_/http%3A//valspar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830190419id_/http%3A//www.valspar.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Valspar
 
