@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roiworld.com privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406051938id_/http%3A//www.roiworld.com/site/privacy.rwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roiworld.com privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830145945id_/http%3A//www.roiworld.com/site/privacy.rwp) for the most accurate reproduction.*
 
-# Privacy Policy | Roiworld.com
+# Privacy Policy | Roiworld.com - roiworld
 
 Last Updated: January 15, 2010
 
