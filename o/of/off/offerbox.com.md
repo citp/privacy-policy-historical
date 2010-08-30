@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offerbox.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525091427id_/http%3A//www.offerbox.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerbox.com privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830060114id_/http%3A//www.offerbox.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for OfferBox and its discount codes.
+# OfferBox - Privacy Policy
 
 ##### Privacy Policy for Offer-Box
 
