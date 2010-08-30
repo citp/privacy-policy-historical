@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineteachers.co.in privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630233326id_/http%3A//onlineteachers.co.in/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineteachers.co.in privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830134942id_/http%3A//onlineteachers.co.in/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D3) for the most accurate reproduction.*
 
 # CBSE Board - Syllabus, Sample Papers, Guess Papers, CBSE Datesheet, Result, Notes
 
