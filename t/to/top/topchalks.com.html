@@ -1,18 +1,510 @@
-<!--The following is the downloaded HTML source of the topchalks.com privacy policy that was archived on 2010-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626141253id_/http%3A//www.topchalks.com/tc/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topchalks.com privacy policy that was archived on 2010-08-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100830071132id_/http%3A//www.topchalks.com/tc/privacypolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="robots" content="all">
     <title>TopChalks: Privacy Policy</title>
  	<link type="text/css" rel="stylesheet" href="css/commoncss.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1082440-5']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+	
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+
 </head>
-<body>
+<body id="closed">
+<script type="text/javascript" src="js/jquery.tools.min.js"> </script>
+<script type="text/javascript" src="js/objectposition.js"> </script>
+<link type="text/css" rel="stylesheet" href="css/global-0.25.css">
+<link type="text/css" rel="stylesheet" href="css/signinbox.css">
+
+ 
+
+
+ <script language="JavaScript">
+ <!--
+ var action="userlogin.htm"
+var videostatus = "NA"
+
+
+
+function showhidevideo(id,type)
+	{
+		//alert(type)
+			removeVideo(videostatus)
+		if(type=="text")
+		{
+			addVideo(id,id)
+			//alert(type+(type=="text"))
+			document.getElementById(id+"_text").style.display="none";
+			document.getElementById(id+"_video").style.display="block";
+
+		}else if(type=="video")
+		{
+			removeVideo(id);
+			document.getElementById(id+"_text").style.display="block";
+			document.getElementById(id+"_video").style.display="none";
+		
+		}
+		
+	}
+ function checkClose()
+ {
+	 //alert("checkClose::"+videostatus);
+		if(videostatus!="NA")
+	 {
+			removeVideo(videostatus)
+	 }
+
+		showOrHideAllDropDowns("visible");	
+ }
+
+ function removeVideo(videoId)
+ {
+	 	if(videostatus!="NA")
+	 {
+			document.getElementById(videoId).innerHTML="";
+	 }
+	 
+ }
+ function addVideo(videoId,videoname)
+{
+		document.getElementById(videoId+"_center").innerHTML='<a   href='+videoname+ '.flv style="display:block;width:595px;height:350px" id="'+videoId+'"> </a>';
+		videostatus = videoId;
+		flowplayer(videoId, "flowplayer-3.1.5.swf");
+		//alert(document.getElementById(videoId+"_center").innerHTML);
+
+ }
+
+ function showOrHideAllDropDowns(newState) {
+
+//alert(navigator.appName);
+
+var elements = document.documentElement.getElementsByTagName('select');
+
+for (var i=0; i<elements.length; i++) {
+			elements[i].style.visibility = newState;
+	}
+}
+function submitheaderLoginForm()
+{
+		CheckLoginState(document.LoginForm);
+		return false;
+}
+
+
+ function setDesabled(logonsource){
+     document.body.style.overflow="hidden";
+	 document.getElementById("disablingdivOuter").style.display="block";
+	 document.getElementById("disablingdivInner").style.display="block";
+	 document.getElementById("loadingdiv").style.display="block";
+	
+	 //alert("logonsource"+logonsource);
+	 if(logonsource=="navlogin")
+	 {
+	// alert(document.getElementById('outerloadingdiv'));
+	 sb_windowTools.centerElementOnScreen(document.getElementById('outerloadingdiv'));
+	 document.getElementById("outerloadingdiv").style.display="block";
+	 }
+ }
+  function setEnabled(logonsource){
+	document.body.style.overflow="auto";
+	 document.getElementById("disablingdivOuter").style.display="none";
+	 document.getElementById("disablingdivInner").style.display="none";
+	 document.getElementById("loadingdiv").style.display="none";
+	 //alert("logonsource"+logonsource);
+	 if(logonsource=="navlogin")
+	  {
+	 document.getElementById("outerloadingdiv").style.display="none";
+	  }
+ }
+ //-->
+ </script>
+
+ <script language="JavaScript">
+<!--
+// START OF MESSAGE SCRIPT //
+
+var MSGTIMER = 20;
+var MSGSPEED = 5;
+var MSGOFFSET = 3;
+var MSGHIDE = 3;
+
+// build out the divs, set attributes and call the fade function //
+function inlineMsg(target,string,autohide) {
+	//alert("22222222");
+  var msg;
+  var msgcontent;
+  if(!document.getElementById('msg')) {
+    msg = document.createElement('div');
+    msg.id = 'msg';
+    msgcontent = document.createElement('div');
+    msgcontent.id = 'msgcontent';
+    document.body.appendChild(msg);
+    msg.appendChild(msgcontent);
+    msg.style.filter = 'alpha(opacity=0)';
+    msg.style.opacity = 0;
+    msg.alpha = 0;
+  } else {
+    msg = document.getElementById('msg');
+    msgcontent = document.getElementById('msgcontent');
+  }
+  msgcontent.innerHTML = string;
+  msg.style.display = 'block';
+  var msgheight = msg.offsetHeight;
+  //alert(target)
+	  
+  var targetdiv = target;
+ // alert(targetdiv)
+  targetdiv.focus();
+  var targetheight = targetdiv.offsetHeight;
+  var targetwidth = targetdiv.offsetWidth;
+  var topposition = topPosition(targetdiv) - ((msgheight - targetheight) / 2);
+  var leftposition = leftPosition(targetdiv) + targetwidth + MSGOFFSET;
+  msg.style.top = topposition + 'px';
+  msg.style.left = leftposition + 'px';
+  clearInterval(msg.timer);
+  msg.timer = setInterval("fadeMsg(1)", MSGTIMER);
+  if(!autohide) {
+    autohide = MSGHIDE;  
+  }
+  window.setTimeout("hideMsg()", (autohide * 1000));
+}
+
+// hide the form alert //
+function hideMsg(msg) {
+  var msg = document.getElementById('msg');
+  if(!msg.timer) {
+    msg.timer = setInterval("fadeMsg(0)", MSGTIMER);
+  }
+}
+
+// face the message box //
+function fadeMsg(flag) {
+  if(flag == null) {
+    flag = 1;
+  }
+  var msg = document.getElementById('msg');
+  var value;
+  if(flag == 1) {
+    value = msg.alpha + MSGSPEED;
+  } else {
+    value = msg.alpha - MSGSPEED;
+  }
+  msg.alpha = value;
+  msg.style.opacity = (value / 100);
+  msg.style.filter = 'alpha(opacity=' + value + ')';
+  if(value >= 99) {
+    clearInterval(msg.timer);
+    msg.timer = null;
+  } else if(value <= 1) {
+    msg.style.display = "none";
+    clearInterval(msg.timer);
+  }
+}
+
+// calculate the position of the element in relation to the left of the browser //
+function leftPosition(target) {
+  var left = 0;
+  if(target.offsetParent) {
+    while(1) {
+      left += target.offsetLeft;
+      if(!target.offsetParent) {
+        break;
+      }
+      target = target.offsetParent;
+    }
+  } else if(target.x) {
+    left += target.x;
+  }
+  return left;
+}
+
+// calculate the position of the element in relation to the top of the browser window //
+function topPosition(target) {
+  var top = 0;
+  if(target.offsetParent) {
+    while(1) {
+      top += target.offsetTop;
+      if(!target.offsetParent) {
+        break;
+      }
+      target = target.offsetParent;
+    }
+  } else if(target.y) {
+    top += target.y;
+  }
+  return top;
+}
+
+// preload the arrow //
+if(document.images) {
+  arrow = new Image(7,80); 
+  arrow.src = "images/msg_arrow.gif"; 
+}
+//-->
+</script>
+ <style type="text/css">
+#disablingdivOuter
+{
+    
+/* Do not display it on entry */
+    
+display: none; 
+  
+/* Display it on the layer with index 1001.
+       
+Make sure this is the highest z-index value
+      
+used by layers on that page */
+    
+z-index:100;
+    
+/* make it cover the whole screen */
+    
+position: absolute; 
+    
+left:0px;
+
+top:0px;
+    
+width: 100%; 
+    
+height:1200px; 
+   
+/* make it white but fully transparent */
+   
+
+    
+opacity:.30; 
+    
+filter: alpha(opacity=30); 
+}
+#outerloadingdiv
+{
+
+display: none; 
+  
+/* Display it on the layer with index 1001.
+       
+Make sure this is the highest z-index value
+      
+used by layers on that page */
+    
+z-index:10000;
+    
+/* make it cover the whole screen */
+ 
+
+
+width: 180px; 
+    
+height: 70px; 
+   
+
+}
+
+#loadingdiv
+{
+
+display: none; 
+  
+/* Display it on the layer with index 1001.
+       
+Make sure this is the highest z-index value
+      
+used by layers on that page */
+    
+z-index:10000;
+    
+/* make it cover the whole screen */
+    
+position: absolute; 
+left:270px;
+
+top:250px;
+
+width: 200px; 
+    
+height: 100px; 
+   
+
+}
+#disablingdivInner
+{
+    
+/* Do not display it on entry */
+    
+display: none; 
+  
+/* Display it on the layer with index 1001.
+       
+Make sure this is the highest z-index value
+      
+used by layers on that page */
+    
+z-index:100;
+    
+/* make it cover the whole screen */
+    
+position: absolute; 
+    
+left:0px;
+
+top:0px;
+    
+width: 100%; 
+    
+height: 100%; 
+   
+/* make it white but fully transparent */
+   
+
+    
+opacity:.30; 
+    
+filter: alpha(opacity=30); 
+}
+
+</style>
+
+<style>
+	
+#msg {display:none; position:absolute; z-index:10000; background:url(images/msg_arrow.gif) left center no-repeat; padding-left:7px}
+#msgcontent {display:block; background:#fff; border:2px solid #924949; border-left:none; padding:5px; min-width:100px; max-width:200px}
+	</style>
 
 <link rel="shortcut icon" href="images/favicon.ico">
 <link rel="icon" type="image/gif" href="images/animated_favicon1.gif">
+<div id="1" style="display:block">
+<div id="outerloadingdiv" style="background-image:url(images/loading12.gif);background-repeat:no-repeat"></div>
+<iframe id="disablingdivOuter" src="pages/topchalks/dtest/loginopacity.jsp"></iframe>
+
+<div class="apple_overlay" id="photo2"><div class="close" id="exit"></div>
+<div id="loadingdiv" style="background-image:url(images/loading12.gif);background-repeat:no-repeat"></div>
+<iframe id="disablingdivInner" src="pages/topchalks/dtest/loginopacity.jsp"></iframe>
+
+<div id="login_msg" style="font-size:24px;color:red;font-weight:bold;"></div>
+
+	<div class="signregisterBox" style="margin-left:10px; ">
+		
+		
+	
+	
+<div class="whitebox" style="border:1px solid green">
+	<div style="float:left;width:230px">
+	<form name="LoginForm" method="post" action="/tc/login.htm" onsubmit="return submitheaderLoginForm()" style="text-align:left">
+	<table border="0" width="100%">
+	<tbody><tr style="background-color:#FFF">
+        <td><p class="wtxt16"><strong>Sign In!</strong></p></td>
+	</tr>
+	
+	
+	<tr><td height="5px"><div style="font-size:12px;font-weight:bold;text-align:left;padding-left:10px;" id="invalidUser"></div></td></tr>
+ 	<tr>	
+	<td><p style="font-size:12px; color:#000;padding-left:10px;"><b>User-Id/ E-mail</b></p></td>
+		
+	</tr>	
+	<tr><td>
+	<p>
+			<input type="text" name="userId" value="" style="width:150px;">
+		</p></td>
+		</tr>
+	<tr>
+	<td>	<p style="font-size:12px; color:#000;padding-left:10px;"><b>Password</b></p></td>
+	</tr>	
+	<tr>	
+		<td><p>
+		<input type="password" name="password" value="" style="width:150px;">
+		</p></td>
+	</tr>
+	
+
+
+<tr><td><p style="cursor:pointer" align="center"><input type="image" name="" src="images/signin.gif" border="0" onclick="CheckLoginState(document.LoginForm)" title="Sign In" alt="Sign In"></p></td></tr>
+</tbody></table>
+<input type="hidden" name="inputData" value="">
+<input type="hidden" name="channelId" value="">
+</form>
+</div>
+
+<div style="float:right;width:330px;border-left:1px solid black;height:430px;">
+    <p class="wtxt16" style="margin-left:25px;"><strong>Register Now</strong></p>
+<script type="text/javascript" src="js/login/loginregistration.js"> </script>
+ <div id="stylized" class="myform">
+
+ <div id="Msg_new" align="center" style="display:block">[ All fields are mandatory ]</div> 
+ 
+ 
+ <div class="fl" id="erMsg_new" style="font-size:12px;font-weight:bold; width:280px; padding-top:10px;"></div>
+ 
+ 
+<form name="loginRegistrationForm" method="post" action="/tc/loginuserregistration.htm" onsubmit="return loginSignUpForm()">
+
+<p></p>
+<label>E-mail</label>
+<input type="text" name="userId" maxlength="50" value="" style="width:140px;">
+<label>&nbsp;</label><input type="button" value="Check" onclick="checkRegForm()" style="background-color:#2a2a2a;color:#FFFFFF;font-weight:bold;font-size:12px;">
+
+
+<label>Password</label>
+<input type="password" name="userPwd" maxlength="20" value="" style="width:140px;">
+
+<label>Full Name</label>
+<input type="text" name="fullName" maxlength="30" value="" style="width:140px;">
+<label>Contact-No</label>
+<input type="text" name="mobileNo" maxlength="15" value="" style="width:140px;">
+
+
+
+<input type="hidden" name="intrestedIn" value="General">
+<input type="hidden" name="inputData" value="bychannel">
+<input type="hidden" name="channelId" value="General">
+
+
+			<label><img id="capImg2" src="Captcha.jeg?token=2Rs46" alt="Click on [Refresh Image] Button  to view text" border="0" width="90px" height="30px" style="margin-left:10px"></label>
+			<input type="button" value="Refresh Image" onclick="showimage()" style="cursor:pointer;width:120px;background-color:#2a2a2a;color:#FFFFFF;font-weight:bold;font-size:12px;">			  
+			 <div style="clear:both;font-size:11px;text-align:center"> Type the characters you see in the picture.</div>
+			 <label>Word Verification</label> 
+			  <input type="text" name="seq" maxlength="255" size="15" value="" style="width:140px;">
+
+<input type="image" name="" src="images/signup.gif" style="border:1px solid white">
+ </form>
+ 
+</div>
+
+</div>
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+</div>
+<!-- sign in -->
+
+
+
 <script language="JavaScript">
+
 <!--
+var userId="NA";
 function setLogOut()
 {
 	document.LogoutForm.submit();
@@ -84,204 +576,250 @@ function submitForm3(userId,inputdata)
 <input type="hidden" name="inputData" value="">
 <input type="hidden" name="coupon" value="">
 </form>
-<div id="headerbg" style="background-color:#000000; height:87px;">
-	<div id="header982">
-		<div class="logo370"><p id="divfoc"><a href="/tc/gotologin.htm"><img src="images/topchalk_logomarch.gif" alt="Topchalks" title="Topchalks" border="0"></a></p>
-	  </div>
-	
-		<div class="headerR">
-			<div class="vs10"></div>
-			<p align="right" class="links"><a href="/tc/gotologin.htm" title="Home">Home</a> | <a href="/tc/aboutus.htm" title="About us">About Us</a>| <a href="/tc/location.htm" title="Our Presence">Our Presence</a> | <a href="/tc/business-opportunity.htm" title="Business Opportunity">Business Opportunity</a> | <a href="http://www.forum.topchalks.com" target="_blank">Forum</a> | <a href="/tc/news.htm" title="News">News</a> | <a href="/tc/feedback.htm" title="Feedback">Feedback</a>|<a href="/tc/contactus.htm" title="Contact Us">Contact Us</a>| <a href="/tc/awards.htm" title="Awards">Awards</a></p>
-			<div class="vs10"></div>                                        
-            <!-- sign up -->
-          
-            
-						
-						
-					     <div class="hmSignup">
-            			<div class="left">
-						<form name="HeaderLoginForm" method="post" action="/tc/headerlogin.htm">
-						<ul class="hform">
-							<li class="field"><input type="text" name="userId" maxlength="20" value="UserID" onclick="this.value=''" style="width:128px; height:18px;"></li>
-                            <li class="field"><input type="password" name="password" maxlength="20" value="Password" onclick="this.value=''" style="width:128px; height:18px;"></li>
-                            
-                            
-                            <li><input type="image" name="" src="images/gobttn.gif" border="0" title="GO" alt="GO"></li>
-                        
-                        </ul>
+<div id="headerbg" style="border:0px solid black;">
+<div id="header982">
+			<div class="logo370"><p id="divfoc"><a href="/tc/gotologin.htm"><img src="images/topchalk_logomarch.gif" alt="Topchalks" title="Topchalks" border="0"></a></p>
+		    </div>
+<div class="headerR">
+			<p class="links"><a href="/tc/gotologin.htm" title="Home">Home</a> | <b><a href="/tc/business-opportunity.htm" title="Business Opportunity">Business Opportunity</a></b> | <a href="/tc/location.htm" title="Our Presence">Our Presence</a> | <a href="/tc/aboutus.htm" title="About us">About Us</a> | <a href="javascript:setAboutUsPage('Contact')">Contact Us</a></p>
 
-						<input type="hidden" name="inputData" value="">
-						<input type="hidden" name="channelId" value="">
-						</form>
-								<div class="cb"></div>          		
-								
-								</div>
-								
-								<div class="right"><p><a href="javascript:submitForm();" title="Not a member, Join Now"><strong>NOT A MEMBER? JOIN NOW!</strong></a></p>
-								<p class="pt5" align="right"><a href="/tc/gotoforgotpassword.htm" style="color:#80afc5; font-size:10px;" title="Forgot Password">FORGOT PASSWORD?</a></p>
-								</div>
-								<div class="cb"></div>          		
-                
-							 </div>
-            
+			<div class="vs5"></div>
+            <!-- sign up -->
+
+<div id="notmember">
+
 						
-								
-    					
+							<div class="hmSignup">
+								<div class="right" style="display:block">
+                                    <p> </p><div id="apple" class="member">
+                                        <a href="#" rel="#photo2" onclick="setval('headerlogin');javascript: pageTracker._trackPageview('/header/notamember');" id="loginwindow">Not a member? <b style="color:#FF0000;">JOIN NOW</b></a>
+                                        </div><p></p>
+                                    </div>
+								<div class="cb"></div>
+  						  </div>
+
+						
+</div>
+
                 <div class="cb"></div>
-            
-            </div>
-            
-            
-            <!-- sign up -->
-		
-			
-			
-		</div>
-	<div class="cb"></div>
-	</div>
-	
 
-<!-- header -->
+            </div>
+
+
+            <!-- sign up -->
+
+
+
+		</div>
+	
+	</div>
+	<div class="cb"></div>
 <!-- Navigation -->
 
+
+<!--Navigator code starts here -->
 <script language="JavaScript">
 <!--
-
-
-//Drop down menu function starts here
-var DDSPEED = 10;
-var DDTIMER = 15;
-
-// main function to handle the mouse events //
-function ddMenu(id,d){
-  var h = document.getElementById(id);
-  var c = document.getElementById(id + '-ddcontent');
-  clearInterval(c.timer);
-  if(d == 1){
-    clearTimeout(h.timer);
-    if(c.maxh && c.maxh <= c.offsetHeight){return}
-    else if(!c.maxh){
-      c.style.display = 'block';
-      c.style.height = 'auto';
-      c.maxh = c.offsetHeight;
-      c.style.height = '0px';
-    }
-    c.timer = setInterval(function(){ddSlide(c,1)},DDTIMER);
-  }else{
-    h.timer = setTimeout(function(){ddCollapse(c)},50);
-  }
+function setHeighlited(id)
+{
+		//alert("1111111"+id);
+		document.getElementById(id).className = 'active';
 }
-
-// collapse the menu //
-function ddCollapse(c){
-  c.timer = setInterval(function(){ddSlide(c,-1)},DDTIMER);
+function submitNavigationForm()
+{
+		setHeaderLogin('navlogin',document.HeaderLoginForm);
+		return false;
 }
-
-// cancel the collapse if a user rolls over the dropdown //
-function cancelHide(id){
-  var h = document.getElementById(id);
-  var c = document.getElementById(id + '-ddcontent');
-  clearTimeout(h.timer);
-  clearInterval(c.timer);
-  if(c.offsetHeight < c.maxh){
-    c.timer = setInterval(function(){ddSlide(c,1)},DDTIMER);
-  }
-}
-
-// incrementally expand/contract the dropdown and change the opacity //
-function ddSlide(c,d){
-  var currh = c.offsetHeight;
-  var dist;
-  if(d == 1){
-    dist = (Math.round((c.maxh - currh) / DDSPEED));
-  }else{
-    dist = (Math.round(currh / DDSPEED));
-  }
-  if(dist <= 1 && d == 1){
-    dist = 1;
-  }
-  c.style.height = currh + (dist * d) + 'px';
-  c.style.opacity = currh / c.maxh;
-  c.style.filter = 'alpha(opacity=' + (currh * 100 / c.maxh) + ')';
-  if((currh < 2 && d != 1) || (currh > (c.maxh - 2) && d == 1)){
-    clearInterval(c.timer);
-  }
-}
-
-//Drop down menu function end here
-
-
-
 //-->
 </script>
- 
 
-<div id="navBg">
-	<div id="nav982">
-		<div class="navlinks682">
-	
 
- <dl class="dropdown">
-          <dt id="aieee"><a href="/tc/aieee.htm" title="AIEEE">AIEEE</a></dt>
- </dl>
- <dl class="dropdown">
-          <dt id="iit"><a href="/tc/showiit.htm" title="IIT-JEE">IIT-JEE</a></dt>       
-  </dl>
-  
-  
-  
-  
-  <dl class="dropdown1">
-          <dt id="xxclass"><a href="/tc/class10.htm" title="Class-10"><div style="float:left;cursor:pointer"><b>X</b></div></a></dt>
-       
-  </dl>
- <dl class="dropdown">
- <dt id="xiclass"><a href="/tc/cbsexi.htm" title="CBSE-XI">XI</a></dt>
- </dl>
- <dl class="dropdown">
-          <dt id="xii"><a href="/tc/showcbse.htm" title="XII">XII</a></dt>
-   </dl>	
-
-    <dl class="dropdown">
-          <dt id="sat"><a href="/tc/showsat.htm" title="SAT">SAT</a></dt>
-       
-      </dl> 
-	  <dl class="dropdown">
-          <dt id="cat"><a href="/tc/cat.htm" title="Cat">CAT</a></dt>
-       
-      </dl> 
-      
-      <dl class="dropdown1">
-          <dt id="msoffice"><a href="/tc/msoffice.htm" title="MS-OFFICE"><div style="float:left;cursor:pointer"><b>MS-OFFICE</b></div></a></dt>
-       
-  </dl>
-  
-  
-	 <dl class="dropdown">
-          <dt id="vocab"><a href="/tc/showVocab.htm" title="Vocabulary">VOCABULARY</a></dt>
-       
-      </dl> 
-	  <dl class="dropdown">
-          <dt id="cdproduct"><div><div style="float:left;cursor:pointer"><a href="/tc/educational-cds.htm" title="educational-cds"><input type="image" name="" src="images/cdicon.gif" title="CDs" alt="CDs"></a></div><a href="/tc/educational-cds.htm" title="educational-cds"><div style="float:left;">CDs</div></a><div class="cb"></div></div> </dt>
-       
-      </dl> 
-      
-      
-       
-	  </div>
-		
-		<div>
-			<div style="height:3px; overflow:hidden"></div>
-		<p class="gtxt11_ta pt5" align="right"><strong>
-		
-		
-		
-		</strong></p>
+<div id="mainHolder_2">
+<ul class="sectionDisplay">
+<li>
+<div class="sectionContent">
+<div>
+<!-- /rbcontent --><div class="rbroundbox">
+	<div class="rbtop"><div style="padding-top:2px;_padding-top:5px;font-size:16px;text-align:center;">&nbsp;&nbsp;&nbsp;SCHOOL PREP</div></div>
+		<div class="rbcontent">
+			Classes -  <a href="/tc/showcbse.htm" id="classxii" title="Class XII">XII</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tc/cbsexi.htm" id="classxi" title="Class XI">XI</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tc/class10.htm" id="classx" title="Class X">X</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tc/classIX.htm" id="classix" title="Class IX">IX</a>
 		</div>
-		<div class="cb"></div>
-		
-		</div>
+	<div class="rbbot"><div></div></div>
+</div><!-- /rbroundbox -->
+
 </div>
+</div>
+ </li>
+ <li>
+<div class="sectionContent" style="margin-left:8px;margin-right:8px;">
+<div>
+<!-- /rbcontent --><div class="rbroundbox">
+	<div class="rbtop"><div style="padding-top:2px;_padding-top:5px;font-size:16px;text-align:center;">&nbsp;&nbsp;&nbsp;TEST PREP</div></div>
+		<div class="rbcontent">
+			<a href="/tc/showiit.htm" id="iit" title="IIT-JEE">IIT-JEE</a>  <a href="/tc/aieee.htm" id="aieee" title="AIEEE">AIEEE</a>  <a href="/tc/cat.htm" id="cat" title="Cat">CAT</a>  <a href="/tc/showsat.htm" id="sat" title="SAT">SAT</a>
+		</div>
+	<div class="rbbot"><div></div></div>
+</div><!-- /rbroundbox -->
+
+</div>
+</div>
+ </li><li>
+<div class="sectionContent">
+<div style="overflow:hidden;">
+<!-- /rbcontent --><div class="rbroundbox1">
+
+	<div class="rbtop1">
+		
+	
+		<div style="padding-top:5px;_padding-top:5px;color:#ffffff;float:left">
+			<table border="0" width="100%">
+			<tbody><tr>
+				<td width="20%" style="padding-left:4px">Sign in</td>
+				<td id="naverror" width="30%" style="color:red">&nbsp;</td>
+				<td id="apple" width="50%" align="right" style="padding-right:4px"><a href="#" rel="#forgotpwd" style="color:#ffffff" onclick="javascript: pageTracker._trackPageview('/navigator/forgotpassword');">Forgot Password</a></td>
+			</tr>
+			</tbody></table>
+		
+		</div>
+
+		
+		
+		</div>
+		<div class="rbcontent1">
+
+			
+		<div class="form2" id="userContainer">
+							<form name="HeaderLoginForm" method="post" action="/tc/headerlogin.htm" onsubmit="return submitNavigationForm()">
+						
+
+							<div class="fl"><input type="text" name="userId" maxlength="50" value="UserID" onclick="this.value=''" style="width:120px; height:18px;"><input type="password" name="password" maxlength="20" value="Password" onclick="this.value=''" style="margin-left:10px;width:120px; height:18px;"></div>
+                           
+                            
+                         
+                      <input type="hidden" name="inputData" value="">
+						<input type="hidden" name="channelId" value="">
+						<div class="fl"><input type="image" name="" src="images/gobttn.gif" border="0" onclick="javascript: pageTracker._trackPageview('/navigator/login');" style="height:25px;margin-left:10px;" title="GO" alt="GO"></div> 
+						</form>
+						  
+
+		
+</div>
+		</div>
+	<div class="rbbot1"><div></div></div>
+</div><!-- /rbroundbox -->
+
+</div>
+</div>
+ </li>
+</ul>
+
+</div>
+
+<div class="cb"></div>
+
+
+<div id="mainHolder_2">
+<div style="height:5px;border:0px solid black"></div>
+
+
+<!--Navigator code ends here -->
+<script type="text/javascript" src="js/swfobject1.js"></script>
+		
+		<script type="text/javascript">
+			
+			// JAVASCRIPT VARS
+			// cache buster
+			var cacheBuster = "?t=" + Date.parse(new Date());
+			// stage dimensions		
+			var stageW = "644";//"100%";
+			var stageH = "40";//"100%";
+			
+			
+			// ATTRIBUTES
+			var attributes = {};
+			attributes.id = 'FlabellComponent';
+			attributes.name = 'FlabellComponent';
+
+			// PARAMS
+			var params = {};
+			params.bgcolor = "#ffffff";
+		    params.menu = "false";
+		    params.scale = 'noScale';
+		    params.wmode = "opaque";
+		    params.allowfullscreen = "true";
+		    params.allowScriptAccess = "always";			
+			
+			
+			/* FLASH VARS */
+			var flashvars = {};
+			
+			/// if commented / delete these lines, the component will take the stage dimensions defined 
+			/// above in "JAVASCRIPT SECTIONS" section or those defined in the settings xml
+		    flashvars.componentWidth = stageW;
+			flashvars.componentHeight = stageH;
+			
+			/// path to the content folder(where the xml files, images or video are nested)
+			/// if you want to use absolute paths(like "http://domain.com/images/....") then leave it empty("")			
+			flashvars.pathToFiles = "banner/";
+			
+			// path to content XML
+			flashvars.xmlPath = "xml/banner.xml";
+			
+			
+			/** EMBED THE SWF**/
+			swfobject.embedSWF("preview.swf"+cacheBuster, attributes.id, stageW, stageH, "9.0.124", "js/expressInstall.swf", flashvars, params, attributes);
+			
+		</script>
+		
+	<div style="border:0px solid black;width:644px;float:left">
+		<table width="100%" height="100%" cellpadding="0" cellspacing="0">
+			<tbody><tr><td align="center">
+				
+				<!-- this div will be overwritten by SWF object -->		
+				<div id="FlabellComponent">
+					<p>In order to view this object you need Flash Player 9+ support!</p>
+					<a href="http://www.adobe.com/go/getflashplayer">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
+					</a>
+				</div>
+			
+			</td>
+		</tr></tbody></table>
+		
+
+</div>
+
+
+
+
+<div style="border:0px solid black;float:right">
+<img src="images/number.gif"><span id="craftysyntax">
+<script type="text/javascript" src="http://support.topchalks.com/livehelp_js.php?eo=1&amp;department=1&amp;serversession=1&amp;pingtimes=15"></script>
+</span>
+</div>
+<div class="cb"></div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <script language="JavaScript">
 <!--
@@ -314,6 +852,31 @@ function submittestform(channelId)
 //-->
 </script>
 <!-- navigation -->
+<div class="apple_overlay" id="forgotpwd"><div class="close" id="exit"></div>
+
+<br><br>
+<form name="forgotPasswordForm" onsubmit="return checkForgotPwd()">
+<table>
+<tbody><tr>
+<td> <img src="images/forgotpassword.gif" width="283px" height="273px"></td><td>
+
+
+<table border="0" align="center" width="250px;">
+<tbody><tr>
+<td height="15px"><div style="font-family:arial;font-size:16px;font-weight:bold;">Please enter your registered e-mail address </div><br></td>
+</tr>
+<tr>
+<td><input type="text" name="userId" style="width:300px;height:30px;font-size:18px;font-weight:bold;color:grey"></td>
+</tr>
+</tbody></table>
+<br><br>
+<input type="submit" value=" " style="background:url(images/submit2.gif) no-repeat;height:45px;width:96px;border:0px">
+</td>
+</tr>
+</tbody></table>
+
+</form>
+</div>
 <!-- content display -->
 <div id="mainHolder">
 	<!-- section head 
@@ -383,44 +946,94 @@ sub nav -->
 </tbody></table>
 
 
+<script>
+//alert("1111111")
+$(function() {
+	$("#apple a[rel]").overlay({effect: 'apple'});
+});
+</script>
+<script language="JavaScript">
+<!--
+var isdemo = false;
+var demopath ="NA";
+var chId ="NA";
+function showdemo(demopath,chId)
+  {
+	 //alert("demopath"+demopath);
+	if(demopath != "NA")
+	  {
+		//alert(userId)
+		if(userId=="true")
+		  {
+			
+			fireEvent(document.getElementById("democont2"),'click')
+				
+			fireEvent(document.getElementById("demoplay"),'click')
+		  }
+
+	}
+  }
+
+function setAboutUsPage(type)
+{
+	document.aboutUsForm.type.value = type;
+	document.aboutUsForm.submit();
+
+}
+// setEnabled('navlogin');
+
+//-->
+</script>
 
 <!-- footer -->
-<div class="vs10"></div>
+<form name="aboutUsForm" action="aboutus.htm" method="post">
+<input type="hidden" name="type">
+</form>
 <div id="footerCon">
 	<div id="footerHolder">
-		<p class="footlink35">
-		</p><div class="fl"><p class="gtxt11_ta"><strong>
-		<a href="/tc/gotologin.htm" title="Home">Home</a>
-			| <a href="/tc/aboutus.htm" title="About us">About Us</a>
-			| <a href="/tc/location.htm" title="Our Presence">Our Presence</a>
-			| <a href="/tc/business-opportunity.htm" title="Business Opportunity">Business Opportunity</a> 
-			| <a href="/tc/news.htm" title="News">News</a> 
-			| <a href="/tc/feedback.htm" title="Feedback">Feedback</a> 
-			|<a href="/tc/contactus.htm" title="Contact us">Contact Us</a>| <a href="/tc/awards.htm" title="Awards">Awards</a></strong></p></div>
-		<div class="fr"><p align="right" class="gtxt11_ta">By using these services you agree to the<a href="/tc/termsofuse.htm" title="Terms &amp; conditions"><u> <strong> Terms &amp; Conditions 
-		</strong></u></a>&nbsp;,&nbsp;<a href="/tc/privacypolicy.htm" title="Privacy Policy"><u> <strong> Privacy Policy </strong> </u></a> of this Website. </p></div>
-		<br>
-		<br>
-		<div class="fr"><p align="right" class="gtxt11_ta">All Right Reserved by <a href="/tc/gotologin.htm" title="topchalks.com"><u> <strong>TopChalks.com </strong></u></a> 2008-2009.<a href="/tc/copyrightinfo.htm" title="Copyright"><u> <strong> (Copyright) </strong></u></a> Property of <strong>Catura Systems </strong></p></div>
-		
-		
-		</div>
-    </div>
+	<a href="/tc/gotologin.htm" title="Home">Home</a> | <a href="/tc/location.htm" title="Our Presence">Our Presence</a> | <a href="/tc/business-opportunity.htm" title="Business Opportunity">Business Opportunity</a> | 
+<a href="javascript:setAboutUsPage('News')">News</a> | <a href="/tc/feedback.htm" title="Feedback">Feedback</a> | <a href="javascript:setAboutUsPage('Awards')">Awards</a> | <a href="/tc/aboutus.htm" title="About us">About Us</a> | <a href="javascript:setAboutUsPage('Contact')">Contact Us</a>
+<br>        
+            
+<a href="/tc/aieee-course-details.htm" title="Home">AIEEE Course Details</a> | 
+<a href="/tc/iit-course-details.htm" title="Home">IIT Course Details</a> | <a href="/tc/cat-course-details.htm" title="Home">CAT Course Details</a> | <a href="/tc/class-xii-course-details.htm" title="Home">CLASS-XII Course Details</a> | <a href="/tc/class-xi-course-details.htm" title="Home">CLASS-XI Course Details</a> <br> <a href="/tc/class-x-course-details.htm" title="Home">CLASS-X Course Details</a> | <a href="/tc/class-ix-course-details.htm" title="Home">CLASS-IX Course Details</a> | <a href="/tc/showsat.htm" title="Home">SAT Course Details</a><p></p>
+</div>
+        <br>
+        
+<div class="fl"><p align="right" class="gtxt11_ta">By using these services you agree to the<a href="/tc/termsofuse.htm" title="Terms &amp; conditions"><u> <strong> Terms &amp; Conditions 
+		</strong></u></a>&nbsp;,&nbsp;<a href="/tc/privacypolicy.htm" title="Privacy Policy"><u> <strong> Privacy Policy </strong> </u></a> of this Website. </p>
+</div>
+<div class="fr"><p align="right" class="gtxt11_ta">All Right Reserved by <a href="/tc/gotologin.htm" title="topchalks.com"><u> <strong>TopChalks.com </strong></u></a> 2008-2009.<a href="/tc/copyrightinfo.htm" title="Copyright"><u> <strong> (Copyright) </strong></u></a> Property of <strong>Catura Systems </strong></p></div>
+</div>
+</div>
+
+<div id="2" style="display:none;margin-top:300px;">
+<center>
+<object width="75" height="75">
+<param name="movie" value="indicator_g.swf">
+<embed src="indicator_g.swf" width="75" height="75">
+
+</object>
+<p style="width:600px;font-size:16px;font-weight:bold">
+Redirecting to product page...</p>
+
+
+
+</center>
+</div>
     
-    <script type="text/javascript">
-                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-            </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-            <script type="text/javascript">
-                try {
-                var pageTracker = _gat._getTracker("UA-1082440-5");
-                pageTracker._trackPageview();
-                } catch(err) {}
-     </script>
-    
-	
-     
-	 
+
+<script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            try {
+            var pageTracker = _gat._getTracker("UA-1082440-5");
+            pageTracker._trackPageview();
+            } catch(err) {}
+        </script>
+
 <!-- footer  -->
 
 
