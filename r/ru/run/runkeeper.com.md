@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the runkeeper.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428075158id_/http%3A//runkeeper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runkeeper.com privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830183329id_/http%3A//runkeeper.com/privacypolicy) for the most accurate reproduction.*
 
-# RunKeeper | Privacy Policy
+# RunKeeper
+
+(Last updated May 20, 2009)
 
 ### Our Policy
 
