@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horse.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609152025id_/http%3A//www.horse.com/cs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horse.com privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831042433id_/http%3A//www.horse.com/cs/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Horse.com
 
