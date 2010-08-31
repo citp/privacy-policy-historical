@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218123402id_/http%3A//www.shape.com/subscribe/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831163204id_/http%3A//www.shape.com/subscribe/legal/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy : Legal : Shape.com: Diet, Fitness, Recipes, Healthy Eating Expertise
+# Privacy Policy : Shape.com: Diet, Fitness, Recipes, Healthy Eating Expertise
 
 **SHAPE.com Privacy Policy**
 
