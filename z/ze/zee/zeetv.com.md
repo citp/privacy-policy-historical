@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeetv.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612124911id_/http%3A//www.zeetv.com/about-zeetv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeetv.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901004526id_/http%3A//www.zeetv.com/about-zeetv/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - zeetv.com
 
