@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531055331id_/http%3A//www1.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831173047id_/http%3A//www1.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
 
 # Customer Service - Getting Started - Safe Shopping - Privacy Policy - Macy's
 
@@ -122,7 +122,7 @@ You also may use the address and phone number above to request that we not discl
 
 If you are a registered user of macys.com, you can update your information in [My Account](https://www.macys.com/myinfo/index.ognc "My Account").
 
-If you have questions about your order, you may check your order status online in [My Order](https://www.macys.com/service/contact/index.ognc "My Order").
+If you have questions about your order, you may check your order status online in [My Order](https://www.macys.com/service/order/index.ognc "My Order").
 
 If you would like, you may also [email our Customer Service Department](http://www1.macys.com/service/contactus/index.jsp "email our Customer Service Department").
 
