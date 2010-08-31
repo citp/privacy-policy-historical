@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macys.com privacy policy that was archived on 2010-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100531055331id_/http%3A//www1.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macys.com privacy policy that was archived on 2010-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100831173047id_/http%3A//www1.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-us"><head xmlns:jsp="http://java.sun.com/products/jsp/dtd/jsp_1_0.dtd"><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Customer Service - Getting Started - Safe Shopping - Privacy Policy - Macy's</title>
@@ -53,9 +53,17 @@
 			<script src="http://assets.macys.com/javascript/coremetrics.techprops.js" type="text/javascript" language="JavaScript"></script>
 			<script src="http://assets.macys.com/javascript/coremetrics.io_v4.js" type="text/javascript" language="JavaScript"></script>
 			<script src="http://assets.macys.com/javascript/coremetrics.cmdatatagutils.js" type="text/javascript" language="JavaScript"></script>
+			<script type="text/javascript" src="http://assets.macys.com/web20/assets/script/macys/base/cmFunctions.js"></script>
 			<script xmlns:c="http://java.sun.com/jstl/core" type="text/javascript" language="JavaScript">
-<!--
-					cmSetProduction();
+					cmSetProduction();	
+		       var pageViewExploreAttributes = "-_-";
+		       
+		       var countryName	= getCookie("shippingCountry");
+		       if(countryName && countryName != 'US'){
+		       	   countryName = 'International_'+countryName;
+			       pageViewExploreAttributes += countryName;
+			   }	
+    
 		cmCreatePageviewTag(	
 					"Privacy Policy (sv-gs-ss-xx.privacy)",
 					"sv-gs-ss-xx.privacy",
@@ -67,10 +75,10 @@
 			getMMCItem(),
 			getLinkShareID(),
 			thisUser.getMachID(),
-			getReferrerURL()
-			);
-	
-				//--></script>
+			getReferrerURL(),			
+		    pageViewExploreAttributes
+		    );
+	</script>
 			
 			<div class="errorTrackingPixel" id="errorTrackingPixel"></div>
 <a name="top"></a><div class="skip">
@@ -86,6 +94,11 @@
 		    <script type="text/javascript" src="http://assets.macys.com/web20/assets/script/macys/util/urlUtility-min.js"></script>
 		    <script type="text/javascript" src="http://assets.macys.com/web20/assets/script/macys/util/globalCart-min.js"></script>
 		    <script type="text/javascript" src="http://assets.macys.com/web20/assets/script/macys/util/globalHeaderPool.js"></script>
+		    
+		    
+            
+            
+            
              
                     
 
@@ -100,26 +113,35 @@
 
     
 
-    
 
+
+  
+	
 	<div id="globalMastheadContainer">
 		<div id="globalMastheadBranding">
 			<div id="globalMastheadBox">
 				<div id="globalMastheadLogo">
-					<a target="_top" href="/index.ognc"><img src="/img/nav/co_macysLogo2.gif" width="181" height="70" alt="Macy's" title="Macy's" border="0"></a>
+					<a target="_top" href="http://www1.macys.com/index.ognc"><img src="http://assets.macys.com/img/nav/co_macysLogo2.gif" width="181" height="70" alt="Macy's" title="Macy's" border="0"></a>
 				</div>
                 <div id="globalMastheadMiniCart">
+					<div id="countryFlagInfo">
+						<ul><li class="changeCountryLink"><a href="http://www1.macys.com/internationalContext/index.ognc" title="change selection">change selection</a></li>
+							<li class="headerCountryFlag"><img id="headerCountryFlag" src="http://assets.macys.com"></li>
+						</ul>
+					</div>
                     <p>
                         <a target="_top" href="http://www1.macys.com/bag/index.ognc" class="globalMiniCartShoppingBag">shopping bag:</a>
-                        <a target="_top" href="http://www1.macys.com/bag/index.ognc" class="globalMiniCartItems">0</a><a target="_top" href="http://www1.macys.com/bag/index.ognc"><img border="0" alt="shopping bag" src="/img/nav/co_topnav_bag_small.gif" class="shoppingBagSmall"></a>
+                        <a target="_top" href="http://www1.macys.com/bag/index.ognc" class="globalMiniCartItems">0</a><a target="_top" href="http://www1.macys.com/bag/index.ognc"><img border="0" alt="shopping bag" src="http://assets.macys.com/img/nav/co_topnav_bag_small.gif" class="shoppingBagSmall"></a>
                     </p>
-                    <p>
-                        <a href="https://www.macys.com/signin/index.ognc" target="_top" class="globalMiniCartSignIn">sign in</a>
-                        <span>|</span>
-                        <a href="https://www.macys.com/myinfo/register/index.ognc" target="_top" class="globalMiniCartRegister">create profile</a>
-                        <span>|</span>
-                        <a class="noTextDecoration" target="_top" href="https://www.macys.com/myinfo/index.ognc">my account</a>
-                    </p>
+                    
+	                    <p id="signInProfileInfo">
+	                        <a href="https://www.macys.com/signin/index.ognc" target="_top" class="globalMiniCartSignIn">sign in</a>
+	                        <span>|</span>
+	                        <a href="https://www.macys.com/myinfo/register/index.ognc" target="_top" class="globalMiniCartRegister">create profile</a>
+	                        <span>|</span>
+	                        <a class="noTextDecoration" target="_top" href="https://www.macys.com/myinfo/index.ognc">my account</a>
+	                    </p>
+                    
                 </div>
 				<div id="globalMastheadPool">
 					
@@ -157,6 +179,7 @@
 
 
 
+<!-- not cat suppress start -->
  
 
  
@@ -172,11 +195,11 @@
                     
                     	
                     	
-                    	<a href="javascript:pop('/popup.ognc?popupID=513328','myDynaPop','width=365,scrollbars=yes,height=600')"> 
+                    	<a href="javascript:pop('/popup.ognc?popupID=515481','myDynaPop','width=365,scrollbars=yes,height=600')"> 
                             
                                 
                                 
-                                    <img src="/dyn_img/site_ads/0526_fs_gna_1002788.gif" alt="" border="0">
+                                    <img src="http://assets.macys.com/dyn_img/site_ads/083010_freeship_gna_1004900.gif" alt="" border="0">
                                 
                             
                         </a>
@@ -187,7 +210,8 @@
             
         
     
-	
+
+<!-- not cat suppress end -->	
 			</div>			
 			
 		
@@ -206,6 +230,7 @@
 
 
 
+<!-- not cat suppress start -->
  
 
  
@@ -221,11 +246,11 @@
                     
                     	
                     	
-                    	<a href="/catalog/index.ognc?CategoryID=3536&amp;cm_sp=GNA-_-2DaySpecials-_-n"> 
+                    	<a href="/registry/wedding/registryhome?cm_sp=GNA-_-RegistryHome-_-n"> 
                             
                                 
                                 
-                                    <img src="/dyn_img/site_ads/0526_specials_gna_1002790.gif" alt="" border="0">
+                                    <img src="http://assets.macys.com/dyn_img/site_ads/072910_mreg_gna_1003993.gif" alt="" border="0">
                                 
                             
                         </a>
@@ -236,7 +261,8 @@
             
         
     
-	
+
+<!-- not cat suppress end -->	
 			</div>			
 			
 		
@@ -255,6 +281,7 @@
 
 
 
+<!-- not cat suppress start -->
  
 
  
@@ -270,11 +297,11 @@
                     
                     	
                     	
-                    	<a href="http://social.macys.com/fashiondirector/#/home?cm_sp=GNA-_-FashionDirector-_-n"> 
+                    	<a href="javascript:pop('http://www1.macys.com/campaign/social?campaign_id=61&amp;channel_id=1&amp;cm_sp=GNA-_-DealSite-_-n','MacysDeals','width=930,scrollbars=yes,height=750')"> 
                             
                                 
                                 
-                                    <img src="/dyn_img/site_ads/0506_Lux_sale_hpbb5c2_03_1002347.jpg" alt="" border="0">
+                                    <img src="http://assets.macys.com/dyn_img/site_ads/072709_deals_gna.gif" alt="" border="0">
                                 
                             
                         </a>
@@ -285,7 +312,8 @@
             
         
     
-	
+
+<!-- not cat suppress end -->	
 			</div>			
 			
 		
@@ -304,6 +332,7 @@
 
 
 
+<!-- not cat suppress start -->
  
 
  
@@ -319,11 +348,11 @@
                     
                     	
                     	
-                    	<a href="/campaign/social?campaign_id=149&amp;channel_id=1&amp;cm_sp=GNA-_-DadGiftGuide-_-n"> 
+                    	<a href="/campaign/bazaarvoicereview.jsp?cm_sp=GNA-_-RantRaveWin-_-n"> 
                             
                                 
                                 
-                                    <img src="/dyn_img/site_ads/0528_gift_guide_gna_1002791.gif" alt="" border="0">
+                                    <img src="http://assets.macys.com/dyn_img/site_ads/072110_review_gna_1003942.gif" alt="" border="0">
                                 
                             
                         </a>
@@ -334,7 +363,8 @@
             
         
     
-	
+
+<!-- not cat suppress end -->	
 			</div>			
 			
 				
@@ -363,52 +393,56 @@
                 
 
 
+
 <ul class="globalNavigationBar">
     
     
      
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=22672&amp;PageID=97377585080956"><img src="/web20/assets/img/nav/co_topnav_wide_01c_off.gif" border="0" alt="home furnishings"></a></li>
+
+    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=22672&amp;PageID=97377585080956"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_01c_off.gif" border="0" alt="home furnishings"></a></li>
 
     
     
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=7495&amp;PageID=32191767802297"><img src="/web20/assets/img/nav/co_topnav_wide_02c_off.gif" border="0" alt="bed and bath"></a></li>
+    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=7495&amp;PageID=32191767802297"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_02c_off.gif" border="0" alt="bed and bath"></a></li>
 
     
     
     
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=118&amp;PageID=511008961712"><img src="/web20/assets/img/nav/co_topnav_wide_03c_off.gif" border="0" alt="women"></a></li>
+    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=118&amp;PageID=511008961712"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_03c_off.gif" border="0" alt="women"></a></li>
 
     
     
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=1&amp;PageID=7253815988"><img src="/web20/assets/img/nav/co_topnav_wide_04c_off.gif" border="0" alt="men"></a></li>
+    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=1&amp;PageID=7253815988"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_04c_off.gif" border="0" alt="men"></a></li>
 
     
     
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=16904&amp;PageID=72605613835255"><img src="/web20/assets/img/nav/co_topnav_wide_05c_off.gif" border="0" alt="juniors sizes"></a></li>
+    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=16904&amp;PageID=72605613835255"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_05c_off.gif" border="0" alt="juniors sizes"></a></li>
 
     
     
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=5991&amp;PageID=25731895217224"><img src="/web20/assets/img/nav/co_topnav_wide_06c_off.gif" border="0" alt="kids clothing"></a></li>
+    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=5991&amp;PageID=25731895217224"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_06c_off.gif" border="0" alt="kids clothing"></a></li>
 
     
     
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=669&amp;PageID=2874186973265"><img src="/web20/assets/img/nav/co_topnav_wide_07c_off.gif" border="0" alt="beauty and cosmetics"></a></li>
+    
+    	<li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=669&amp;PageID=2874186973265"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_07c_off.gif" border="0" alt="beauty and cosmetics"></a></li>
+    
 
     
     
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=13247&amp;PageID=56896343760185"><img src="/web20/assets/img/nav/co_topnav_wide_08c_off.gif" border="0" alt="shoes"></a></li>
+    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=13247&amp;PageID=56896343760185"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_08c_off.gif" border="0" alt="shoes"></a></li>
 
     
     
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=26846&amp;PageID=115304173873033"><img src="/web20/assets/img/nav/co_topnav_wide_09c_off.gif" border="0" alt="handbags and accessories"></a></li>
+    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=26846&amp;PageID=115304173873033"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_09c_off.gif" border="0" alt="handbags and accessories"></a></li>
 
     
     
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=544&amp;PageID=2339289265821"><img src="/web20/assets/img/nav/co_topnav_wide_10c_off.gif" border="0" alt="jewelry and watches"></a></li>
+    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=544&amp;PageID=2339289265821"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_10c_off.gif" border="0" alt="jewelry and watches"></a></li>
 
     
     
-    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=3536&amp;PageID=15189370820889"><img src="/web20/assets/img/nav/co_topnav_wide_11c_off.gif" border="0" alt="macys sale"></a></li>
+    <li><a href="http://www1.macys.com/catalog/index.ognc?CategoryID=3536&amp;PageID=15189370820889"><img src="http://assets.macys.com/web20/assets/img/nav/co_topnav_wide_11c_off.gif" border="0" alt="macys sale"></a></li>
 </ul>
 <div class="clearFloats"></div>				
 		</div>
@@ -426,12 +460,19 @@
 
 
 <form onsubmit="javascript: return isValidSubmit(this.name);" target="_top" name="keywordSearch" method="GET" action="http://www1.macys.com/search/index.ognc">
-<input value="*" name="SearchTarget" type="hidden"><img alt="Search" border="0" src="/img/nav/co_topnav_a_search.gif"><input size="9" maxlength="50" type="text" class="globalSearchInputField" name="Keyword" value=""><input alt="Search Now" value="KEYWORD_GO_BUTTON" type="image" name="KEYWORD_GO_BUTTON" border="0" src="/img/nav/co_topnav_a_gogo.gif"></form>
+<input value="*" name="SearchTarget" type="hidden"><img alt="Search" border="0" src="http://assets.macys.com/img/nav/co_topnav_a_search.gif"><input size="9" maxlength="50" type="text" class="globalSearchInputField" name="Keyword" value=""><input alt="Search Now" value="KEYWORD_GO_BUTTON" type="image" name="KEYWORD_GO_BUTTON" border="0" src="http://assets.macys.com/img/nav/co_topnav_a_gogo.gif"></form>
 <div class="subNavImageMap">	
-	<a href="http://www1.macys.com/campaign/om/toprated.jsp?cm_sp=toprated-_-n-_-n"><img alt="customers top rated" border="0" src="/web20/assets/img/nav/co_topnav_c_sub_toprated.gif"></a>	
-	<a href="http://www1.macys.com/store/index.ognc?cm_sp=global_nav_reg-_-stores-_-n"><img alt="store locations" border="0" src="/web20/assets/img/nav/co_topnav_c_sub_stores.gif"></a>
-	<a href="http://www1.macys.com/catalog/index.ognc?CategoryID=1405&amp;PageID=6036169698215&amp;cm_sp=global_nav_reg-_-gifts_&amp;_gift_cards-_-n"><img alt="Gifts &amp; Giftcards" border="0" src="/web20/assets/img/nav/co_topnav_c_sub_giftCards.gif"></a>
-	<a href="http://www1.macys.com/registry/wedding/registryhome?cm_sp=global_nav_reg-_-wedding_registry-_-n"><img alt="Wedding Registry" border="0" src="/web20/assets/img/nav/co_topnav_c_sub_weddingChannel.gif" usemap="#topnav_sub_weddingChannel"></a>
+	<a href="http://www1.macys.com/campaign/om/toprated.jsp?cm_sp=toprated-_-n-_-n"><img alt="customers top rated" border="0" src="http://assets.macys.com/web20/assets/img/nav/co_topnav_c_sub_toprated.gif"></a>	
+	<a id="stores" href="http://www1.macys.com/store/index.ognc?cm_sp=global_nav_reg-_-stores-_-n"><img alt="store locations" border="0" src="http://assets.macys.com/web20/assets/img/nav/co_topnav_c_sub_stores.gif"></a>
+	
+		<a id="giftCards" href="http://www1.macys.com/catalog/index.ognc?CategoryID=1405&amp;PageID=6036169698215&amp;cm_sp=global_nav_reg-_-gifts_&amp;_gift_cards-_-n"><img alt="Gifts &amp; Giftcards" border="0" src="http://assets.macys.com/web20/assets/img/nav/co_topnav_c_sub_giftCards.gif"></a>
+	
+	
+		
+			<a id="weddingRegistry" href="http://www1.macys.com/registry/wedding/registryhome?cm_sp=global_nav_reg-_-wedding_registry-_-n"><img alt="Wedding Registry" border="0" src="http://assets.macys.com/web20/assets/img/nav/co_topnav_c_sub_weddingChannel.gif"></a>
+		
+		
+	
 </div>
 						
 			</div>
@@ -451,98 +492,102 @@
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='https://www.macys.com/service/contact/index.ognc';">
-<td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="https://www.macys.com/service/contact/index.ognc" class="menu_parent_normal" target="_self">My Order</a></td><td align="right">&nbsp;</td>
+<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="" onclick="javascript:window.location.href='https://www.macys.com/service/order/index.ognc';">
+<td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="https://www.macys.com/service/order/index.ognc" class="menu_parent_normal" target="_self">My Order</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='http://www1.macys.com/service/shipping/index.jsp';">
+<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="" onclick="javascript:window.location.href='http://www1.macys.com/service/shipping/index.jsp';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="http://www1.macys.com/service/shipping/index.jsp" class="menu_parent_normal" target="_self">Shipping Information</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='http://www1.macys.com/service/returns/index.jsp';">
+<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="" onclick="javascript:window.location.href='http://www1.macys.com/service/returns/index.jsp';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="http://www1.macys.com/service/returns/index.jsp" class="menu_parent_normal" target="_self">Returns &amp; Exchanges</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='https://www.macys.com/myinfo/index.ognc';">
+			
+		<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="myAccountNav" onclick="javascript:window.location.href='https://www.macys.com/myinfo/index.ognc';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="https://www.macys.com/myinfo/index.ognc" class="menu_parent_normal" target="_self">My Account</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='https://www.macys.com/service/credit/index.ognc';">
+<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="macysCreditCardNav" onclick="javascript:window.location.href='https://www.macys.com/service/credit/index.ognc';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="https://www.macys.com/service/credit/index.ognc" class="menu_parent_normal" target="_self">Macy's Credit Card</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='https://www.macys.com/service/gift/index.ognc';">
+<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="" onclick="javascript:window.location.href='https://www.macys.com/service/gift/index.ognc';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="https://www.macys.com/service/gift/index.ognc" class="menu_parent_normal" target="_self">Gifts &amp; Gift Cards</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='https://www.macys.com/service/furniture/index.ognc';">
+						
+					<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="" onclick="javascript:window.location.href='https://www.macys.com/service/furniture/index.ognc';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="https://www.macys.com/service/furniture/index.ognc" class="menu_parent_normal" target="_self">Furniture &amp; Mattress Delivery</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='http://www1.macys.com/service/mobile.jsp';">
+<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="" onclick="javascript:window.location.href='http://www1.macys.com/service/mobile.jsp';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="http://www1.macys.com/service/mobile.jsp" class="menu_parent_normal" target="_self">Macy's Mobile Help</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='http://www1.macys.com/service/merchandise.ognc';">
+<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="" onclick="javascript:window.location.href='http://www1.macys.com/service/merchandise.ognc';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="http://www1.macys.com/service/merchandise.ognc" class="menu_parent_normal" target="_self">Our Products</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='https://www.macys.com/myinfo/register/index.ognc';">
+			
+		<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="createProfileNav" onclick="javascript:window.location.href='https://www.macys.com/myinfo/register/index.ognc';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="https://www.macys.com/myinfo/register/index.ognc" class="menu_parent_normal" target="_self">Create Profile</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='http://www1.macys.com/service/faqs/credit.jsp';">
+			
+		<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="faq" onclick="javascript:window.location.href='http://www1.macys.com/service/faqs/credit.jsp';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="http://www1.macys.com/service/faqs/credit.jsp" class="menu_parent_normal" target="_self">FAQs</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='http://www1.macys.com/service/contactus/index.jsp';">
+<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="" onclick="javascript:window.location.href='http://www1.macys.com/service/contactus/index.jsp';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="http://www1.macys.com/service/contactus/index.jsp" class="menu_parent_normal" target="_self">Contact Us</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='http://www1.macys.com/service/start/index.jsp';">
+<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="" onclick="javascript:window.location.href='http://www1.macys.com/service/start/index.jsp';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="http://www1.macys.com/service/start/index.jsp" class="menu_parent_normal" target="_self">Getting Started</a></td><td align="right">&nbsp;</td>
 </tr>
 
 <tr class="menu_spacer">
 <td colspan="6" class="menu_spacer"><img alt="" height="1" width="1" src="http://assets.macys.com/img/spacer.gif"></td>
 </tr>
-<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" onclick="javascript:window.location.href='http://www1.macys.com/service/index_es.jsp';">
+<tr class="menu_parent_normal" onmouseout="this.bgColor='#FFFFFF';" onmouseover="this.bgColor='#E9E7E8';" id="" onclick="javascript:window.location.href='http://www1.macys.com/service/index_es.jsp';">
 <td height="18">&nbsp;</td><td colspan="4"><a onclick="window.event.cancelBubble=true;" href="http://www1.macys.com/service/index_es.jsp" class="menu_parent_normal" target="_self">Para Ayuda</a></td><td align="right">&nbsp;</td>
 </tr>
 
@@ -645,7 +690,7 @@
 <li>"NO MAIL OFFERS" (if you don't want to receive offers by mail);</li>
 <li>"NO PHONE OFFERS" (if you don't want to receive offers by phone); or</li>
 <li>"NO PHONE OR MAIL OFFERS" (if you don't want to receive either).</li>
-</ul><p>Because customer lists often are prepared well in advance of an offering (sometimes 3-4 months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request.</p><span class="simpleHeader">Third Party Sharing</span><br><p>You also may use the address and phone number above to request that we not disclose your personal information to unrelated third parties for marketing purposes. If you choose to write to us, please include your name, address and Macy’s credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request.</p><span class="simpleHeader">Can I Access My Information?</span><br><p>If you are a registered user of macys.com, you can update your information in <a href="https://www.macys.com/myinfo/index.ognc" title="My Account" class="standard">My Account</a>.</p><p>If you have questions about your order, you may check your order status online in <a href="https://www.macys.com/service/contact/index.ognc" title="My Order" class="standard">My Order</a>.</p><p>If you would like, you may also <a href="http://www1.macys.com/service/contactus/index.jsp" title="email our Customer Service Department" class="standard">email our Customer Service Department</a>.</p><p>Questions regarding your charge account may be forwarded to our Credit Customer Service Department. Please use the Contact Us Form and select the appropriate subject line from the drop down menu.</p><span class="simpleHeader">Is My Information Secure?</span><br>
+</ul><p>Because customer lists often are prepared well in advance of an offering (sometimes 3-4 months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request.</p><span class="simpleHeader">Third Party Sharing</span><br><p>You also may use the address and phone number above to request that we not disclose your personal information to unrelated third parties for marketing purposes. If you choose to write to us, please include your name, address and Macy’s credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request.</p><span class="simpleHeader">Can I Access My Information?</span><br><p>If you are a registered user of macys.com, you can update your information in <a href="https://www.macys.com/myinfo/index.ognc" title="My Account" class="standard">My Account</a>.</p><p>If you have questions about your order, you may check your order status online in <a href="https://www.macys.com/service/order/index.ognc" title="My Order" class="standard">My Order</a>.</p><p>If you would like, you may also <a href="http://www1.macys.com/service/contactus/index.jsp" title="email our Customer Service Department" class="standard">email our Customer Service Department</a>.</p><p>Questions regarding your charge account may be forwarded to our Credit Customer Service Department. Please use the Contact Us Form and select the appropriate subject line from the drop down menu.</p><span class="simpleHeader">Is My Information Secure?</span><br>
 			macys.com has put in place various physical, electronic and managerial procedures to try to safeguard and secure the information we collect online . For example, private account and customer information is located on a secured server behind a firewall; it is not directly connected to the Internet. Encryption is a process by which a message or information is scrambled while it is in transit to macys.com. It is based on a key that has two different parts, public and private. The public part of the key is distributed to those with whom you want to communicate. The private part is for the recipient's use only. So long as you use a browser that allows for encryption, when you send personal information to us, you use a public key to encrypt your personal information. If your information is intercepted during the transmission, it is scrambled and very difficult to decrypt. Once we receive your encrypted personal information, we use the private part of our key to decode it.
 			<p>Please note however that while we implement many security measures on this site, 100% security cannot be guaranteed.</p><span class="simpleHeader">What About Information About Children?</span><br>
 			The Children's Online Privacy Protection Act took effect on April 21, 2000 and imposes certain requirements on websites directed toward children under 13 that collect information on those children, or on websites that know they are collecting information on children under the age of 13. We want to let you know that it currently is macys.com's policy not to collect personal information on any person under 13. For this reason, our online sweepstakes, email and mobile sign ups are restricted to entrants who, at a minimum, are at least 13.
@@ -655,14 +700,14 @@
 					Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information Macy's and Macys.com share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes.  That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses.  If you are a California resident and would like a copy of this notice, please submit a written request to the following address:  Macy's Customer Service, P.O. Box 8067, Mason, OH  45040.  In your request, please specify that you want a "Your Macy's California Privacy Rights Notice." Please allow 30 days for a response.
 				</p><p>Thank you for shopping with macys.com. If you have any questions or comments about this policy, please <a href="http://www1.macys.com/service/contactus/index.jsp" title="email us" class="standard">email us</a> or call our Privacy Hotline at 1-888-529-2254.</p>
 <!--
-   Content Build Date: Wed May 19 02:24:17 PDT 2010
+   Content Build Date: Fri Jun 11 19:12:05 PDT 2010
    JSP rendered by: mcywas
-   Content Version: 65.1.17   Revision: 76961
+   Content Version: trunk   Revision: 83674
    Pagecode: sv-po-xx-xx.privacy_component
    Secure: false
    Request URI: /service/start/safeshopping/privacy.jsp
-   Server Physical Name: fsgwws083Node_B
-   Server Clone Name: macys_B_c01_s083_m04
+   Server Physical Name: fsgwws094Node_A
+   Server Clone Name: macys_A_c01_s094_m03
    JSP Page Encoding: ISO-8859-1
 -->
 <br><br></div>
@@ -681,6 +726,25 @@
 
 
 
+<script>MACYS.namespace("MACYS.IntlShipping");</script>
+	<div id="globalBodyFooterBannerContent">
+		
+			
+
+<div><img src="http://assets.macys.com/dyn_img/banners/assets/global_footer/r65x25_global_footer_banner_1.gif" alt="Join us on Facebook; Follow us on Twitter" title="Join us on Facebook; Follow us on Twitter" width="137" height="74" border="0" usemap="#r65x25_global_footer_banner_1"><img src="http://assets.macys.com/dyn_img/banners/assets/global_footer/r65x25_global_footer_banner_2.jpg" alt="The Wedding Shop" title="Macy's Wedding Registry" width="164" height="74" border="0"><img src="http://assets.macys.com/dyn_img/banners/assets/global_footer/r65x25_global_footer_banner_3.gif" alt="The Wedding Shop - clothing, accessories and gifts for the entire wedding party - all in one place!  check it out" title="going to a wedding? find the perfect gifts at prices to match!" width="599" height="74" border="0" usemap="#r65x25_global_footer_banner_3"></div>
+
+<map name="r65x25_global_footer_banner_1">
+	<area shape="rect" coords="4,9,134,36" href="http://www.facebook.com/macys" target="_blank" alt="Join us on Facebook">
+	<area shape="rect" coords="3,39,133,66" href="http://www.twitter.com/macysinc" target="_blank" alt="Follow us on Twitter">
+</map>
+
+<map name="r65x25_global_footer_banner_3">
+	<area shape="rect" coords="488,45,571,69" href="http://www1.macys.com/registry/wedding/m/wedding-shop" alt="check it out">
+</map>
+
+
+		
+	</div>
 
 	<div id="globalBodyFooterContent">
 	    
@@ -692,21 +756,30 @@
 			var contentVersion = 1;
 			contentVersion = 1; 
         </script>
-		<div id="customerServiceLinks">
-			<a href="http://www1.macys.com/service/index.jsp" class="myFooter" title="Customer Service"><h3>Customer Service <img alt="" src="/img/nav/gray_arrow.gif"></h3></a>
-			<table>
-				<tbody><tr></tr>
-				<tr><td><a href="https://www.macys.com/service/contact/index.ognc" title="order tracking" class="myFooter">order tracking</a></td>
-				    <td><a href="http://www1.macys.com/service/returns/index.jsp" title="returns" class="myFooter">returns</a></td></tr>
-				<tr><td><a href="http://www1.macys.com/service/shipping/index.jsp" title="shipping info" class="myFooter">shipping info</a></td>
-				    <td><a href="http://www1.macys.com/service/contactus/index.jsp" title="contact us" class="myFooter">contact us</a></td></tr>
-				<tr><td><a href="http://www1.macys.com/service/start/safeshopping/index.jsp" title="secure shopping" class="myFooter">secure shopping</a></td>
-				    <td><a href="http://www1.macys.com/service/index_es.jsp" title="para ayuda" class="myFooter">para ayuda</a></td>
-			    </tr>
-			</tbody></table>
-		</div>
+		
+		
+    		
+    	    
+    		<div id="customerServiceLinks">
+				<a href="http://www1.macys.com/service/index.jsp" class="myFooter" title="Customer Service"><h3>Customer Service <img alt="" src="http://assets.macys.com/img/nav/gray_arrow.gif"></h3></a>
+				<table>
+					<tbody><tr></tr>
+	    			    	<tr><td><a href="https://www.macys.com/service/contact/index.ognc" title="order tracking" class="myFooter">order tracking</a></td>
+							    <td><a href="http://www1.macys.com/service/returns/index.jsp" title="returns" class="myFooter">returns</a></td></tr>
+							<tr><td><a href="http://www1.macys.com/service/shipping/index.jsp" title="shipping info" class="myFooter">shipping info</a></td>
+							    <td><a href="http://www1.macys.com/service/contactus/index.jsp" title="contact us" class="myFooter">contact us</a></td></tr>
+							<tr><td><a href="http://www1.macys.com/service/start/safeshopping/index.jsp" title="secure shopping" class="myFooter">secure shopping</a></td>
+							    <td><a href="http://www1.macys.com/service/index_es.jsp" title="para ayuda" class="myFooter">para ayuda</a></td>
+						    </tr>
+				</tbody></table>
+			 </div>
+    		
+    		
+				
+			
+		
 		<div id="creditLinks">
-			<a href="http://www1.macys.com/service/credit/index.ognc" class="myFooter" title="Macy's Credit Card"><h3>Macy's Credit Card <img alt="" src="/img/nav/gray_arrow.gif"></h3></a>
+			<a href="http://www1.macys.com/service/credit/index.ognc" class="myFooter" title="Macy's Credit Card"><h3>Macy's Credit Card <img alt="" src="http://assets.macys.com/img/nav/gray_arrow.gif"></h3></a>
 				<table>
 					<tbody><tr><td><a href="http://www1.macys.com/service/credit/paybill/index.ognc" title="pay your bill" class="myFooter">pay your bill</a></td></tr>
 					<tr><td><a href="http://www1.macys.com/service/credit/account.ognc" title="view credit account" class="myFooter">view credit account</a></td></tr>
@@ -714,7 +787,7 @@
 				</tbody></table>
 		</div>
 		<div id="storeLinks">
-			<a href="http://www1.macys.com/store/index.ognc" class="myFooter" title="Our Stores"><h3>Our Stores <img alt="" src="/img/nav/gray_arrow.gif"></h3></a>
+			<a href="http://www1.macys.com/store/index.ognc" class="myFooter" title="Our Stores"><h3>Our Stores <img alt="" src="http://assets.macys.com/img/nav/gray_arrow.gif"></h3></a>
 				<table>
 					<tbody><tr></tr>
 					<tr><td><a href="http://www1.macys.com/store/locator/index.ognc" title="store locations &amp; hours " class="myFooter">store locations &amp; hours </a></td><td><a href="http://www1.macys.com/store/catalog/index.ognc" title="catalogs" class="myFooter">catalogs</a></td></tr>
@@ -722,10 +795,16 @@
 					<tr><td><a href="http://www1.macys.com/service/contactus/tellus.jsp" title="tell us what you think" class="myFooter">tell us what you think</a></td></tr>
 					</tbody></table>
 		</div>
+		
 		<div id="corporateLinks">
-			<a title="Macy's Inc" target="_new" href="http://www.macysinc.com/" class="myFooter"><h3>Macy's Inc <img alt="" src="/img/nav/gray_arrow.gif"></h3></a>
+			<a title="Macy's Inc" target="_new" href="http://www.macysinc.com/" class="myFooter"><h3>Macy's Inc <img alt="" src="http://assets.macys.com/img/nav/gray_arrow.gif"></h3></a>
 			<table>
-				<tbody><tr><td><a href="javascript:pop('http://www.macysjobs.com/macys/index_flash.asp')" title="macysJOBS" class="myFooter myFooterMacysJobs">macysJOBS</a></td></tr>
+				
+				
+				
+				<tbody><tr><td><a href="javascript:pop('http://www.macysjobs.com/macys/index_flash.asp')" title="macysJOBS" class="myFooter myFooterMacysJobs" id="macysJobs">macysJOBS</a></td></tr>
+				
+				
 				<tr><td><a href="javascript:pop('http://www.macysinc.com/pressroom/')" title="press room" class="myFooter">press room</a></td></tr>
 				<tr><td><a href="javascript:pop('http://www.macysinc.com/ir/')" title="investors" class="myFooter">investors</a></td></tr>
 			</tbody></table>
@@ -758,6 +837,7 @@
 
 
 
+<!-- not cat suppress start -->
  
 
  
@@ -773,11 +853,11 @@
                     
                     	
                     	
-                    	<a href="/registry/wedding/registryhome?cm_sp=GFA-_-RegistryHome-_-n"> 
+                    	<a href="/campaign/social?campaign_id=168&amp;channel_id=1&amp;cm_sp=GFA-_-FashionNight-_-n"> 
                             
                                 
                                 
-                                    <img src="/dyn_img/site_ads/0526_events_ad_1002793.gif" alt="" border="0">
+                                    <img src="http://assets.macys.com/dyn_img/site_ads/083010_eventbox_1004901.gif" alt="" border="0">
                                 
                             
                         </a>
@@ -789,6 +869,7 @@
         
     
 
+<!-- not cat suppress end -->
 	
 						
 		</div>
@@ -797,6 +878,13 @@
 	<div id="globalFooterContainer">
 		<div id="globalFooterBox">
 			<div id="footerContent">
+<!--
+				<div id="intlFooterContent">
+					<ul class="standard"><li id="footerCountryFlag"><img id="footerFlag" src="http://assets.macys.com">
+					</li><li><a href="http://www1.macys.com/internationalContext/index.ognc" class="changeCountryLink" title="change selection">change selection</a></li>
+					</ul>
+				</div>
+-->
 				<p class="footer1 standard">Visually impaired customers: 
 					<a href="http://www1.macys.com/accessibility/start_en.html" id="" class="standard">download our new user assistance tool</a></p>
 				<p class="footer2">©2010 macys.com is a registered trademark. All rights reserved. <a href="http://www1.macys.com/service/start/safeshopping/legal.jsp" class="standard" title="Legal Notice">Legal Notice</a>, <a href="http://www1.macys.com/service/start/safeshopping/privacy.jsp" class="standard" title="Privacy Policy">Privacy Policy</a>, <a href="http://www1.macys.com/service/start/safeshopping/pricing.jsp" class="standard" title="Pricing Policy">Pricing Policy</a>, <a href="http://www1.macys.com/service/start/safeshopping/privacy.jsp#california" class="standard" title="Your California Privacy Rights">Your California Privacy Rights</a>, <a href="http://www1.macys.com/service/products/product_recall.jsp" title="Recalls" class="standard">Recalls</a></p>
@@ -804,16 +892,22 @@
 					<a href="https://www.macys.com/service/contact/index.ognc?defaultSubject=MAIN&amp;DefaultRegarding=ADDRESS#formstart" id="" class="standard">corporate name and address by email</a>.</p>
 				<p class="footer2">Macy's Credit and Customer Service, PO Box 8113, Mason, Ohio 45040.</p>
 			</div>
-		    <div id="macysTV" style="text-align:right">
-		    	<a href="http://www1.macys.com/campaign/social?campaign_id=21&amp;channel_id=1" title="Macy's TV"><img title="Macy's TV" alt="Macy's TV" border="0" src="/img/nav/co_bottomnav_macystv.gif"></a>
+		    <div id="macysTV" style="text-align:right">	
+		    	<a href="http://www1.macys.com/campaign/social?campaign_id=21&amp;channel_id=1" title="Macy's TV"><img title="Macy's TV" alt="Macy's TV" border="0" src="http://assets.macys.com/img/nav/co_bottomnav_macystv.gif"></a>
 		    	<br>
-				<a title="Macy's Earth Week" href="http://www1.macys.com/campaign/earthday/index.jsp"><img title="Macy's Earth Week" alt="Macy's Earth Week" border="0" src="/img/nav/co_bottomnav_newleaf.gif"></a>
+				<a title="Macy's Earth Week" href="http://www1.macys.com/campaign/earthday/index.jsp"><img title="Macy's Earth Week" alt="Macy's Earth Week" border="0" src="http://assets.macys.com/img/nav/co_bottomnav_newleaf.gif"></a>
 		    </div>
 		    <br class="clearboth">
 		</div>
 		<br class="clearboth">
 	</div>
-
+<script>
+	MACYS.IntlShipping.baseUrl=YAHOO.util.Dom.get("MACYS_baseHostName")!=null?YAHOO.util.Dom.get("MACYS_baseHostName").value:"";
+	MACYS.IntlShipping.baseUrlSecure=YAHOO.util.Dom.get("MACYS_secureHostName")!=null?YAHOO.util.Dom.get("MACYS_secureHostName").value:"";
+	MACYS.IntlShipping.baseUrlAssets=YAHOO.util.Dom.get("MACYS_assetsHostName")!=null?YAHOO.util.Dom.get("MACYS_assetsHostName").value:"";
+</script>
+<script src="http://assets.macys.com/web20/assets/script/macys/internationalshipping/min-version/intlNavigation-min.js" type="text/javascript"></script>
+            
             </div>
 </div>
 
@@ -821,8 +915,8 @@
    Pagecode: sv-gs-ss-xx.privacy
    Secure: false
    Request URI: /service/start/safeshopping/privacy.jsp
-   Server Physical Name: fsgwws083Node_B
-   Server Clone Name: macys_B_c01_s083_m04
+   Server Physical Name: fsgwws094Node_A
+   Server Clone Name: macys_A_c01_s094_m03
    JSP Page Encoding: ISO-8859-1
 -->
 </body></html>
