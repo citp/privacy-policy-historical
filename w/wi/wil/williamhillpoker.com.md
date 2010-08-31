@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamhillpoker.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522022653id_/http%3A//www.williamhillpoker.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamhillpoker.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901005312id_/http%3A//www.williamhillpoker.com/privacy.htm) for the most accurate reproduction.*
 
 # The William Hill Poker Privacy Policy
 
