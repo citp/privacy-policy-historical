@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the muziic.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410072400id_/http%3A//www.muziic.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muziic.com privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831233039id_/http%3A//www.muziic.com/privacypolicy) for the most accurate reproduction.*
 
 # Muziic - Privacy Policy
 
-**Privacy Policy - Your privacy is important to us!
+**Your privacy is important to us!
 
 * * *
 
@@ -16,4 +16,6 @@ We may use the email address provided by you to contact you from time to time ab
 
 The Muziic service may display links to third party sites. We advise you to check their terms of use and privacy policies before submitting your personal information to them.
 
-Google, a third party vendor, uses cookies to serve advertisements on the Muziic site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, a third party vendor, may use cookies to serve advertisements on the Muziic site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/member_privacy.shtml>
