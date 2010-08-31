@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqlo.co.uk privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616081457id_/http%3A//www.uniqlo.com/uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqlo.co.uk privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831174522id_/http%3A//www.uniqlo.com/uk/privacypolicy) for the most accurate reproduction.*
 
 # Uniqlo privacy policy - UNIQLO UK
 
