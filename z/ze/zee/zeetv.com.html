@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zeetv.com privacy policy that was archived on 2010-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612124911id_/http%3A//www.zeetv.com/about-zeetv/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zeetv.com privacy policy that was archived on 2010-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100901004526id_/http%3A//www.zeetv.com/about-zeetv/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>Privacy Policy - zeetv.com</title>
@@ -22,10 +22,9 @@
 
 	<link rel="stylesheet" href="http://www.zeetv.com/ext/lightbox/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="http://www.zeetv.com/ext/lightbox/css/stylesheet.css" type="text/css" media="screen" charset="utf-8">
-	<script src="http://www.zeetv.com/ext/lightbox/js/jquery-1.2.3.pack.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 	<script src="http://www.zeetv.com/ext/lightbox/js/prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
 
-	<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
 	<script language="javascript" src="http://www.zeetv.com/gui/js/header.js"></script>
 		<script language="javascript" src="http://www.zeetv.com/gui/js/DD_belatedPNG_0.0.7a.js"></script>
 		<script language="javascript" src="http://www.zeetv.com/gui/js/featuredcontentglider.js"></script>
@@ -40,13 +39,14 @@ $(document).ready(function()
 	$("#frm_login").submit(function()
 	{
 		$("#msgbox").removeClass().addClass('messagebox').text('Validating....').fadeIn(1000);
-		$.post("http://www.zeetv.com/ajaxrequest/login.html",{ loginid:$('#loginid').val(),loginpass:$('#loginpass').val(),script_url:$('#script_url').val()} ,function(data)
+		$.post("http://www.zeetv.com/ajaxrequest/login.html",{ loginid:$('#loginid').val(),loginpass:$('#loginpass').val(),script_url:$('#script_url').val(),logintype:$('#login_type').val(),topic_id:$('#topic_id').val()} ,function(data)
 				{					
 				  if(data!='false') {				 
 					$("#msgbox").fadeTo(200,0.1,function() { 
 					  $(this).html('Logging in.....').addClass('messageboxok').fadeTo(900,1,
 					  function() { 
-						document.location=data;
+							var redir	= $('#script_url').val() ;							  
+							document.location=redir;							
 					  });
 					});
 				  } else {				  
@@ -68,6 +68,28 @@ $(document).ready(function()
 					  $(this).html('Logging in.....').addClass('messageboxok').fadeTo(900,1,
 					  function() { 						
 						document.location=data;
+					  });
+					});
+				  } else {	
+					$("#fan_msgbox").fadeTo(200,0.1,function() {
+					  $(this).html('Invalid Login ID or Password').addClass('fan_msgerror').fadeTo(900,1);
+					});		
+				  }
+		});
+
+		return false;
+	});
+	$("#fan_pcmm_login").submit(function()
+	{		
+		$("#fan_msgbox").removeClass().addClass('messagebox').text('Validating....').fadeIn(1000);
+		$.post("http://www.zeetv.com/ajaxrequest/login.html",{ loginid:$('#fancomm_loginid').val(),loginpass:$('#fancomm_loginpass').val(),script_url:$('#fan_script_url').val()} ,function(data)
+				{					
+				  if(data!='false') {
+					$("#fan_msgbox").fadeTo(200,0.1,function() { 
+					  $(this).html('Logging in.....').addClass('messageboxok').fadeTo(900,1,
+					  function() { 
+						document.getElementById('pcomm_login').style.display = 'none';
+						$('#post_comment').fadeIn('slow');
 					  });
 					});
 				  } else {	
@@ -183,6 +205,7 @@ var zflag_nid="871"; var zflag_cid="32/1"; var zflag_sid="0"; var zflag_width="1
 <!-- end ZEDO for channel:  Zee TV , publisher: default , Ad Dimension: Pixel/Popup - 1 x 1 -->
 
 
+
 <div id="shadowwrapper">
 	<div class="BannerAd" id="topbannerad" style="height:88px;">
 		<!-- Javascript tag  -->
@@ -207,12 +230,12 @@ var zflag_nid="871"; var zflag_cid="32/1"; var zflag_sid="0"; var zflag_width="1
 					<div id="MainNav">	
 						<ul>
 							<li><a href="http://www.zeetv.com/" border="0" id="example-nav-home-selected" onmouseover="javascript: hide_menu(); hide_group_websites(); hide_mygeemenu();" alt="HOME" title="HOME">HOME</a></li>
-							<li><a href="http://www.zeetv.com/shows.html" border="0" id="example-nav-shows" onmouseover="javascript: hide_group_websites(); show_menu(); hide_mediamenu(); hide_mygeemenu();" alt="SHOWS" title="SHOWS">SHOWS</a></li>
-							<li><a href="http://www.zeetv.com/schedule.html" border="0" id="example-nav-schedule" onmouseover="javascript: hide_menu(); hide_group_websites(); hide_mygeemenu();" alt="SCHEDULE" title="SCHEDULE">SCHEDULE</a></li>
+							<li><a href="http://www.zeetv.com/shows/" border="0" id="example-nav-shows" onmouseover="javascript: hide_group_websites(); show_menu(); hide_mediamenu(); hide_mygeemenu();" alt="SHOWS" title="SHOWS">SHOWS</a></li>
+							<li><a href="http://www.zeetv.com/schedule/" border="0" id="example-nav-schedule" onmouseover="javascript: hide_menu(); hide_group_websites(); hide_mygeemenu();" alt="SCHEDULE" title="SCHEDULE">SCHEDULE</a></li>
 							<li><a href="http://www.zeetv.com/myzee.html" border="0" id="example-nav-myzee" onmouseover="javascript: hide_menu(); hide_group_websites(); hide_mediamenu(); show_mygeemenu() ;" alt="MY ZEE" title="MY ZEE">MY ZEE</a></li>
 							<li><a href="javascript:void(0)" border="0" id="example-nav-news" onmouseover="javascript: hide_menu(); hide_group_websites(); hide_mygeemenu(); show_mediamenu();" alt="MEDIA" title="MEDIA">MEDIA</a></li>
 							<li><a href="http://www.zeetv.com/syndication.html" border="0" id="example-nav-syndication" onmouseover="javascript: hide_menu(); hide_group_websites(); hide_mediamenu(); hide_mygeemenu();" alt="SYNDICATION" title="SYNDICATION">SYNDICATION</a></li>
-							<li><a href="http://www.zeetv.com/feedback.html" border="0" id="example-nav-syndication" onmouseover="javascript: hide_menu(); hide_group_websites(); hide_mediamenu(); hide_mygeemenu();" alt="FEEDBACK" title="FEEDBACK">FEEDBACK</a></li>
+							<li><a href="http://www.zeetv.com/feedback/" border="0" id="example-nav-syndication" onmouseover="javascript: hide_menu(); hide_group_websites(); hide_mediamenu(); hide_mygeemenu();" alt="FEEDBACK" title="FEEDBACK">FEEDBACK</a></li>
 							<li><a href="http://www.zeetv.com/archives/" border="0" id="example-nav-syndication" onmouseover="javascript: hide_menu(); hide_group_websites(); hide_mediamenu(); hide_mygeemenu();" alt="ARCHIVES" title="ARCHIVES">ARCHIVES</a></li>
 							<!-- <li><a href="http://www.zeetv.com/group-websites.html" border="0" onmouseover="javascript: hide_menu(); show_group_websites();" alt="GROUP WEBSITES" title="GROUP WEBSITES">GROUP WEBSITES</a></li> -->
 						</ul>
@@ -231,8 +254,8 @@ var zflag_nid="871"; var zflag_cid="32/1"; var zflag_sid="0"; var zflag_width="1
 					<div id="my_gee" name="my_gee" style="display:none" onmouseover="javascript: hide_group_websites(); show_mygeemenu();" onmouseout="javascript: hide_mygeemenu();">
 						<div id="leftlist">							
 								 <div class="whtetitle">
-										<a href="http://www.zeetv.com/discussion.html">Discussion Board</a>
-										<br>										
+									<a href="http://www.zeetv.com/fan-club/">Fan Club</a><br>
+									<a href="http://www.zeetv.com/discussion.html">Discussion Board</a><br>									
 								</div>
 						</div>						
 					</div>
@@ -246,27 +269,32 @@ var zflag_nid="871"; var zflag_cid="32/1"; var zflag_sid="0"; var zflag_width="1
 									<a href="http://www.zeetv.com/shows/pavitra-rishta.html">Pavitra Rishta</a><br>
 									<a href="http://www.zeetv.com/shows/agle-janam-mohe-bitiya-hi-kijo.html">Agle Janam Mohe Bitiya Hi Kijo</a><br>
 									<a href="http://www.zeetv.com/shows/12-24-karol-bagh.html">12 / 24 Karol Bagh</a><br>
-									<a href="http://www.zeetv.com/shows/do-saheliyaan-kismat-ki-kathputaliyaan.html">Do Saheliyaan... Kismat ki kathputaliyaan</a><br>
-									<a href="http://www.zeetv.com/shows/keshav-pandit.html">Keshav Pandit... Insaaf ka ek Rakshak</a><br>
+									<a href="http://sangini.zeetv.com/" target="_blank">Sanjog Se Bani Sangini</a><br>
+									<a href="http://www.zeetv.com/shows/mera-naam-karegi-roshan.html">Mera Naam Karegi Roshan</a><br>
 								</div>
 						</div>
 						<div id="rightlist">
-							<!-- <div class="ylwtitle">NON-FICTION</div> -->
-							<!-- <div class="whtetitle">
-								<a href="http://www.zeetv.com/shows/ladies-special.html">Hasne Aur Hasane ka Tonic Ladies Special</a>
-							</div> -->
-							<div class="ylwtitle">NON-FICTION</div>
-								<div class="whtetitle">
-								<a href="http://didlilmasters.zeetv.com/" target="_blank">Surf Excel DID L'il Masters</a>
-							</div>
-							<div class="ylwtitle">GAME SHOWS</div>
-							<div class="whtetitle">
-								<a href="http://www.zeetv.com/shows/ghar-ghar-mein.html">Ghar Ghar Mein</a>
-							</div>
 							<div class="ylwtitle">GOOD LIVING</div>
 								<div class="whtetitle">
 								<a href="http://www.zeetv.com/shows/khana-khazana.html">Khana Khazana</a>
 							</div>
+							<!-- <div class="ylwtitle">NON-FICTION</div> -->
+							<!-- <div class="whtetitle">
+								<a href="http://www.zeetv.com/shows/ladies-special.html">Hasne Aur Hasane ka Tonic Ladies Special</a>
+							</div> -->
+							<!-- <div class="ylwtitle">NON-FICTION</div>
+								<div class="whtetitle">
+								<a href="http://didlilmasters.zeetv.com/" target="_blank">Surf Excel DID L'il Masters</a>
+							</div> -->
+							<div class="ylwtitle">NON-FICTION</div>
+								<div class="whtetitle">
+								<a href="http://srgmpss.zeetv.com/" target="_blank">Hero Honda Sa Re Ga Ma Pa Singing Superstar</a>
+							</div>
+							<div class="ylwtitle"></div>
+							<div class="whtetitle">
+								<!--<a href="http://www.zeetv.com/shows/ghar-ghar-mein.html">Ghar Ghar Mein</a>-->
+							</div>
+							
 						</div>
 						<div id="group_websites" name="group_websites" style="display:none" onmouseover="javascript: hide_menu(); show_group_websites();" onmouseout="javascript: hide_group_websites();">
 							<div class="ylwtitle-group-websites">ZEE TV GROUP WEBSITES</div>
@@ -376,13 +404,8 @@ var zflag_nid="871"; var zflag_cid="32/1"; var zflag_sid="0"; var zflag_width="1
 			<div class="header-rt-bot">
 				<div class="marquee left clear">
 					<script type="text/javascript" charset="utf-8">
-							
-							//var marqueecontent='<nobr>Music Album of "Yahaaan Main Ghar Ghar Kheli" available in stores now (Planet M, Music World, Landmark, Cross Word, Rhythm House, Music Land)</nobr>' ;
-
-							//var marqueecontent='<nobr>Watch the performances and the grand awards nite of Dove Zee Rishtey Awards 2010. <a href="http://zra.zeetv.com/videos/" target="_blank">Click here for videos</a></nobr>' ;
-
-							var marqueecontent='<nobr><b>For details about Sa Re Ga Ma Pa auditions in your city, <a href="http://www.zeetv.com/auditions/sa-re-ga-ma-pa-2010/">click here</a></b></nobr>';
-											</script>
+						var marqueecontent='<nobr><b>To check your compatibility on mobile, SMS SANGINI &lt;your sun sign&gt; &lt;partners sun sign&gt; and send it to 57575</b></nobr>';
+					</script>
 					<script src="http://www.zeetv.com/gui/js/scroller.js" type="text/javascript" charset="utf-8"></script>
 				</div>
 				<div class="signin-div right">
@@ -411,6 +434,8 @@ var zflag_nid="871"; var zflag_cid="32/1"; var zflag_sid="0"; var zflag_width="1
 					</ul>
 				</fieldset>
 				<input type="hidden" name="script_url" id="script_url" value="/about-zeetv/privacy-policy.html">
+				<input type="hidden" name="login_type" id="login_type" value="">
+				<input type="hidden" name="topic_id" id="topic_id" value="">
 			</form>
 		</div>
 	</div>
