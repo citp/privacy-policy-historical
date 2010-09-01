@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lauramercier.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324200057id_/http%3A//www.lauramercier.com/store/content/htmlTemplate.jsp%3FitemCat%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauramercier.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901083607id_/http%3A//www.lauramercier.com/store/content/htmlTemplate.jsp%3FitemCat%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Laura Mercier
 
