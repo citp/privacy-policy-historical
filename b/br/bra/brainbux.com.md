@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbux.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615014759id_/http%3A//brainbux.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbux.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901140730id_/http%3A//brainbux.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Brain Bux
 
