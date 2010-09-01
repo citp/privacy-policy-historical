@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafarazzi.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323030036id_/http%3A//www.fafarazzi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafarazzi.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901030522id_/http%3A//www.fafarazzi.com/privacy.php) for the most accurate reproduction.*
 
 # About Fafarazzi.com - Privacy Policy
 
@@ -19,7 +19,12 @@ The information we collect is used to improve the quality of our service, and is
 **COOKIES**
 
 * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a site's server and stored on your computer's hard drive.  
-* Fafarazzi does not require cookies for usage of the service. Cookies are used only voluntarily through the login page. 
+* Fafarazzi does not require cookies for usage of the service. Cookies are used only voluntarily through the login page.  
+* Fafarazzi will access your information when you "sign in" so we can provide you with customized content or remember the last page you visited in a Fafarazzi product or service.  
+* We deliver advertisements relevant to your interests when you visit Fafarazzi, using a cookie that gathers anonymous information based on visits & activity to Fafarazzi.  
+* If you would rather not receive customized advertising off of Fafarazzi, you can [opt-out](http://www.networkadvertising.org/managing/opt_out.asp) of this service or disable cookies through your browser.  
+* **If you want to control which cookies you accept:** You can order your browser to accept all cookies or to alert you every time a cookie is offered. Then you can decide whether to accept one or not.  
+* **[Opting out](http://www.networkadvertising.org/managing/opt_out.asp) of a network** does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. 
 
 **DISCLOSURE**
 
