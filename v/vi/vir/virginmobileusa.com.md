@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923000839id_/http%3A//www.virginmobileusa.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901134340id_/http%3A//www.virginmobileusa.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Virgin Mobile USA
 
