@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the indigo.ca privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218093436id_/http%3A//www.chapters.indigo.ca/Privacy-Policy/priv-art.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigo.ca privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901104511id_/http%3A//www.chapters.indigo.ca/Privacy-Policy/priv-art.html) for the most accurate reproduction.*
 
 # chapters.indigo.ca: Privacy Policy: Article
 
 **Privacy Policy**  
 _Last updated on September 10, 2007._
 
-At Indigo Books & Music Inc. (operating Indigo, Chapters, Coles, Smithbooks, World’s Biggest Bookstore and chapters.indigo.ca) the protection of your personal information has always been a top priority. Indigo's Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA"). See [Personal Information](https://web.archive.org/Privacy-Policy-Personal-Information/priv_persinfo-art.html?artcode=priv_persinfo&Section=home&ArtType=RS) for a list of the types of personal information which we collect from you subject to this Policy when you do business with us.
+At Indigo Books & Music Inc. (operating Indigo, Chapters, Coles, Smithbooks, World’s Biggest Bookstore and chapters.indigo.ca) the protection of your personal information has always been a top priority. Indigo's Policy regarding the collection, use and disclosure, if any, of personal information can be broken down into the 10 principles covered in Canada's Personal Information Protection and Electronic Documents Act ("PIPEDA"). See [Personal Information](https://web.archive.org/article.asp?artcode=priv_persinfo) for a list of the types of personal information which we collect from you subject to this Policy when you do business with us.
 
 **1\. Accountability**
 
@@ -13,7 +13,7 @@ At Indigo Books & Music Inc. (operating Indigo, Chapters, Coles, Smithbooks, Wor
   * We have designated a Privacy Officer who is accountable for our compliance with this Policy and all applicable privacy laws.
   * All Indigo employees are responsible for day-to-day compliance.
   * When we use trusted third parties to act on our behalf by performing such functions as fulfilling orders, delivering packages, processing credit card payments or providing customer service, contractual or other appropriate means are used to ensure compliance by such third parties with this Policy and all applicable privacy laws.
-  * Our website may contain links to other websites. We are not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Indigo. Please review the [Terms of Use](https://web.archive.org/Legal-Statement/legal-art.html) for more information.
+  * Our website may contain links to other websites. We are not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Indigo. Please review the [Terms of Use](https://web.archive.org/article.asp?artcode=legal) for more information.
 
 
 
@@ -22,7 +22,7 @@ At Indigo Books & Music Inc. (operating Indigo, Chapters, Coles, Smithbooks, Wor
   * Unless the purpose is self-evident due to the nature of the transaction in question, Indigo will identify the purposes for which personal information is collected at or before the time the information is collected.
   * The proposed purposes will be described in a reasonably understandable manner.
   * An example of a self-evident purpose is requesting the name and address of the person placing an order in order to ensure proper delivery.
-  * If you become a Registered User (as that term is defined in the [Terms of Use](https://web.archive.org/Legal-Statement/legal-art.html) then You choose what information you put in your profile, including contact and personal information, pictures, interests and groups you join. And you control the users with whom you share that information through the privacy settings in your profile.
+  * If you become a Registered User (as that term is defined in the [Terms of Use](https://web.archive.org/article.asp?artcode=legal) then You choose what information you put in your profile, including contact and personal information, pictures, interests and groups you join. And you control the users with whom you share that information through the privacy settings in your profile.
 
 
 
@@ -32,7 +32,7 @@ At Indigo Books & Music Inc. (operating Indigo, Chapters, Coles, Smithbooks, Wor
   * Indigo will not make your consent a requirement to the supply of a product or a service other than required to be able to supply the product or service.
   * Consent can be express or, in some circumstances, implied, and given in writing, by using or not using a check-off box, electronically, orally (in person or by telephone), or by your conduct, such as use of a product or service.
   * In determining the type of consent to obtain, Indigo will consider all relevant factors, including the sensitivity of the information and your reasonable expectations.
-  * You may withdraw your consent at any time, on reasonable notice, subject to legal or contractual restrictions. Indigo will inform you of the implications of doing so. See [Technology and Security](https://web.archive.org/article.asp?artcode=priv_techsec&Section=home)
+  * You may withdraw your consent at any time, on reasonable notice, subject to legal or contractual restrictions. Indigo will inform you of the implications of doing so. See [Technology and Security](https://web.archive.org/article.asp?artcode=priv_techsec)
 
 
 
