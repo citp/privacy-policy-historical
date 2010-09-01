@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teva.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616173609id_/http%3A//www.teva.com/customerservice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teva.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901214616id_/http%3A//www.teva.com/customerservice/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policies – Sandals & Shoes by Teva – Buy Award Winning Sport Sandals Women’s Sandals Leather Sandals Men’s Flip Flops Water Shoes Casual Shoes Trail Running Shoes Hats & more
 
@@ -83,3 +83,11 @@ Deckers respects internationally recognized human rights and environmental stand
 ## Restricted Substances Policy
 
 Deckers is committed to assuring that all of the materials used in its products are safe for workers, consumers and the environment alike. Deckers has established a Restricted Substances Policy that mandates compliance with all international directives, laws and regulations that restrict the type and concentration of potentially hazardous substances. Consistent with our company values, the Restricted Substances Policy goes beyond mandated restrictions and includes some substances such as PVC that are not restricted by law, but that are a cause of concern for many consumers and some Non–Governmental Organizations (NGOs).[ Click here for more information.](http://www.deckers.com/about/CorporateSocialResponsibility.aspx)
+
+### Current Agents:
+
+We employ other firms to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but are contractually obligated to protect personal information.
+
+### *REQUIRED: Agents :
+
+We employ other firms to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but are contractually obligated to protect personal information. We may pass your personal information to credit referencing agencies (who may keep a record of your information) for the purposes of carrying out identity verification checks.
