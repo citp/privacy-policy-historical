@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darrelconceptsghana.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624114305id_/http%3A//www.darrelconceptsghana.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darrelconceptsghana.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901042904id_/http%3A//www.darrelconceptsghana.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy- Darrel Technologies Ghana- www.darrelconceptsghana.com
 
