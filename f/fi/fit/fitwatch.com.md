@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitwatch.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626110800id_/http%3A//www.fitwatch.com/about/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitwatch.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901115146id_/http%3A//www.fitwatch.com/about/policies.html) for the most accurate reproduction.*
 
 # FitWatch Website Privacy Policy
 
