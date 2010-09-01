@@ -1,155 +1,116 @@
-> *The following text is extracted and transformed from the helio.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630192938id_/http%3A//www.helio.com/page%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helio.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901134340id_/http%3A//www.virginmobileusa.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Helio Privacy Policy for Cell Phones and Wireless Plans
+# Virgin Mobile USA
 
-  
+### Privacy Policy
 
+#### Virgin Mobile USA Privacy Policy
 
-#### HELIO, INC. PRIVACY POLICY
+At Virgin Mobile USA, L.P. ("Virgin Mobile," or "we," "us," "our") we understand that privacy is important, and we are strongly committed to protecting the privacy of our customers and visitors to our websites at www.virginmobileusa.com, www.virginmobileusarecycle.com, http://studiov.virginmobileusa.com, www.homelessyouthamongus.com, and www.vmcustomerpulse.com (collectively, "our websites"). 
 
-Your privacy is very important to us. We want to make your wireless experience as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
+The following information is designed to help you better understand the information we gather from our websites, how we handle the information once we gather it, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct the information we gather on our websites. Please note that this Privacy Policy applies only to our websites and not to other companies' or organizations' services or websites to which we may link, even if they market our products or use the Virgin Mobile name. By visiting our websites or using the services provided there, you accept the practices described in this Privacy Policy. 
 
-Helio created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Helio collects information from users ("Users") of Helio services (the "Services") and visitors ("Visitors") to our website, how we use the information we collect and the choices you have concerning the collection and use of such information. Please read this Privacy Policy carefully.
+NOTE: Some of our websites and services may involve features or practices not common to our other websites or services. You should carefully read this entire policy to understand the provisions applicable to our websites and services you are using. 
 
-  
+#### What Information Do We Collect?
 
+Our primary goal in collecting personal information is to provide you with a smooth, efficient and customized experience. This allows us to provide features that are most likely to meet your needs, and to customize our service to make your experience easier. 
 
-#### Collection and Use of Information
+##### Aggregate Data
 
-Users are asked to provide certain information when they sign up for our Services such as name, address, telephone number, billing information (such as a credit card number), and the type of personal computer or wireless product being used to access the Services. The personal information collected from Users during the registration process is used to manage each User's account (such as billing and collections).
+We gather certain usage information like the number and frequency of visitors to our websites. This information may include which URL you just came from, which URL you next go to, what browser you are using, and your IP address. We use such data only in the aggregate. This collective data help us determine how much our customers use parts of our websites, and do internal research on our customers' demographics, interests, and behavior to better understand and serve you. 
 
-In order to better understand its Users, Helio collects consumer data such as ZIP code, demographics and other publicly available information from third-parties. Helio uses this data to provide product and service offers. We use data in aggregate to develop products and offers to better serve its Users.
+This type of aggregated, non-personally identifiable information may also be collected and/or used by third parties that support our services. In addition, we aggregate data and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. 
 
-Helio collects information from Visitors and Users who use the various parts of our Services. We use this information primarily to provide a customized experience as you use our Services. Helio collects consumer information about its Users through surveys or preference pages. You may request that Helio not collect consumer data by opting out.
+##### Personally Identifiable Information
 
-Helio may share personal information with select affiliates in order to provide Helio services to our Users. Helio does not share identifying information (such as name and address) with such affiliates for their use in delivering product and service offers to Users. Affiliates will not be allowed to use any information provided in serving our customers to be sold, rented, or given to any other company. Affiliates are not allowed to use Helio data for any other purpose other than Helio approved programs designed to better serve Users.
+Users are asked to provide certain information when they sign up for our services such as name, address, phone number, birth date, gender, credit card information, and email address (collectively "personally identifiable information"). The personally identifiable information collected from our customers during the registration process is used to manage each customer's account. We also seek such information to provide products and/or services that more closely reflect your preferences. In addition, we may use such personally identifiable information to improve our marketing and promotional efforts, to analyze website usage, improve our content and product offerings, and customize our website's content, layout and services. 
 
-In instances where Helio and an affiliate jointly promote the Services, Helio may provide the affiliate certain personal information, as a result of the joint promotion. In this instance, the information may not be used by the affiliate for any other purpose. Helio may also generate aggregate profiles from information provided during registration (such as the total number, but not the names, of Users). We may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+##### Personal Identification Number for Your Account
 
-We use registration information to contact you in a variety of ways. We may send you offers through email, phone or regular mail of Helio products and services or offers on behalf of selected affiliates. If you order products directly from Helio, we will use your information to continue to provide you products that you are interested in. You may exercise your options to not receive any marketing from Helio by opting out through any marketing email sent to you or via Helio's opt-out website when it becomes available. Customers will still receive administrative emails from Helio.
+To activate and manage your account and obtain access to certain services, we require you to provide a secret code (your "Account PIN"). When using your account or providing your Account PIN, you must provide accurate and complete information to Virgin Mobile. You are entirely responsible for maintaining the confidentiality of your Account PIN and are solely responsible for any activity conducted using your Account PIN. You agree not to use the account, customer name, or Account PIN of another customer at any time unless that customer is under 18 and you are the parent or guardian of that customer. 
 
-  
+##### Voluntary Surveys
 
+We may periodically conduct surveys of our customers and/or users of our websites ("survey participants"). We encourage you to participate in these voluntary surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain confidential, even if the survey is conducted by a third-party.
 
-#### Helio Affiliates and Sponsors
+We take the information we receive from individuals responding to our surveys and combine (or aggregate) it with the responses of other survey participants to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third-party affiliates. 
 
-Some Helio products and services are offered to Users in conjunction with a third-party vendor. To provide these products and services, the vendor may need to collect and maintain your personal information. Helio may share non-identifying and aggregate consumer information with such affiliates in order to more effectively market our co-branded products or services offered to our customers.
+#### How Do We Use Your Information?
 
-  
+Unless you specifically decline, we may use personally identifiable information to contact you and deliver information to you via your home phone, address, email, voice or text messages on your mobile phone if you are a Virgin Mobile customer. We may also share personally identifiable information with certain third parties so that these third parties can share information with you about new products, services and promotions that we believe will interest you. By accepting this Privacy Policy or by purchasing or using our products or our jointly-branded products, you expressly agree to such usage and sharing of information. In addition, Virgin Mobile may use non-personally identifiable information in aggregate form for demographic marketing purposes, and may disclose this information to third parties, including advertisers. 
 
+If you are a Virgin Mobile customer, in certain special circumstances, we may contact you to deliver service-oriented messages, even if you have asked that we not contact you about special airtime events or promotions. These messages will be limited and only for this purpose. 
 
-#### Online Shopping
+We may use third party service providers to facilitate our services, and therefore, we may provide some of your personally identifiable information directly to them. In addition, we employ other companies and individuals to perform functions on our behalf. Some examples include fulfilling orders, providing mobile content, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments and providing customer service. These service providers have access to personally identifiable information and may use it as needed to perform their functions, but may not use it for any other purpose, except that they may aggregate your personally identifiable information with similar information from other customers in a manner that does not personally identify you. 
 
-At some websites, you can purchase products and services or register to receive materials, such as a catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Helio has no control over third-party websites and their use of any personal information you provide when placing such an order. Please exercise care when doing so.
+Virgin Mobile cooperates with law enforcement inquiries, as well as other third parties, to enforce laws, such as protecting intellectual property rights and preventing fraud. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, to respond to claims or legal process, to protect the property of Virgin Mobile or the safety of its employees or others, to investigate fraud, intellectual property infringements, or other activity that is or may be illegal or expose us or you to liability. 
 
-  
+It is possible that Virgin Mobile or its partners could be acquired by or merged with another business entity. Should such a combination occur, you should expect that Virgin Mobile or its partners will share some or all of your personally identifiable information to continue to provide service. You will receive notice of such event (to the extent that it occurs), and we will request that the new combined entity follow the practices disclosed in this Privacy Policy or notify you of any changes. 
 
+#### What Are Your Choices About Your Privacy?
 
-#### Online Advertisements
+If you are a Virgin Mobile customer, you may change the personal information you have elected to share with us. You also have choices in the types of communications you wish to receive from us. When you activated your device, your notification preferences were set to receive notices about special offers, events and promotions from Virgin Mobile and special offers from our partners.
 
-Helio may share aggregated and non-identifying information about our Visitors and Users collected through the registration process as well as through online surveys and promotions with select advertisers. In some instances, we use this information to deliver tailored advertisements. Based upon the information we have collected, we may then display advertisements to specific audiences. Helio does not share personal information about its Users with these advertisers.
+If you are a Virgin Mobile customer with a No Annual Contract account, to change your notification settings, or to change any of your personal information, click [here](https://www.virginmobileusa.com/myvirginmobile/home.do) to log in to your Virgin Mobile account and go to the "My Account" page (then select Account Info and then Contact Info).
 
-We may use DoubleClick and other third-party advertising companies to serve ads when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [www.networkadvertising.org.](http://www.networkadvertising.org/)
+If you are a Virgin Mobile customer with a Contract account, to change your notification settings, or to change any of your personal information call 888-884-3546.
 
-  
+#### What About Cookies?
 
+"Cookies" are small files placed on your hard drive; each website can send its own cookie to your browser if your browser preferences allow it. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our websites and you may be required to re-enter your Account PIN more frequently during a session. In addition, a number of companies not related to Virgin Mobile offer utilities designed to help you visit websites anonymously. 
 
-#### Voluntary Surveys
+Cookies assist us in providing customized services and can also help us provide information that is targeted to your interests. Virgin Mobile uses cookies to tell us how and when pages in our websites are visited, and by how many people. Virgin Mobile also uses cookies to remember you when you "sign in" to our websites, so that we can provide you with customized content, such as your balance, VirginXL and VirginXtras targeted specifically for your phone, and other helpful services. Virgin Mobile cookies do not combine information collected through cookies with other personally identifiable information. Virgin Mobile uses two kinds of cookies. Each time you log on to any of our websites, Virgin Mobile uses a "session cookie," to help us to remember you until the earlier of approximately 30 minutes or the closing of your browser and to help make sure that you remain logged in to our website. Session cookies are automatically deleted from your hard drive at the end of a session. We also use "persistent cookies," which enable us to remember what is in your shopping cart for approximately two hours and to aggregate certain non-personally identifiable usage data in ways that help us improve our services. Additionally, you may encounter cookies or other similar devices on our websites that are placed by third parties. We do not control the use of cookies by third parties, including third party websites to which we may link. 
 
-We may periodically conduct both business and individual surveys. We encourage Users to participate in these voluntary surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain confidential, even if the survey is conducted by a third-party.
+We use Google Analytics and SiteCatalyst to help analyze how customers use our websites through the use of cookies. The information generated by the cookie about your use of our website (including your IP address) is transmitted to and stored by these analytical partners. This information is used for the purpose of evaluating your use of our websites, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. These analytical partners may transfer this information to third parties where required to do so by law, or to third parties that process information on its behalf. Neither partner will associate your IP address with any other data held regarding you. 
 
-We take the information we receive from individuals responding to our surveys and combine (or aggregate) it with the responses of other Users to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third-party affiliates.
+#### What Is Our Policy Toward Children?
 
-  
+Virgin Mobile is concerned about the safety and privacy of children who use the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly collect personally identifiable information from anyone under the age of 13 without prior verifiable parental consent and may limit participation in certain services we provide to individuals over 13 years of age. At various places on our websites, we may request that customers provide a year of birth. If a child under 13 responds to that request, we will direct him or her to have a parent or guardian call a live customer care agent at 1-888-322-1122, where a parent will be permitted to purchase a Virgin Mobile device, establish an account and activate the on behalf of a child under 13. In these circumstances, activation can be made only by phone with a live customer care agent, and the account must be in the parent's name. A customer must be 18 in order to establish an account for a contract phone. 
 
+If we become aware that a child under 13 has or has attempted to provide us with personally identifiable information, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that his or her child has done this, he or she should contact the following customer care agent to remove this information: 
 
-#### Special Cases
-
-It is Helio's policy not to use or share the personal information in ways unrelated to the ones described above without also providing an opportunity to opt out or otherwise prohibit such unrelated uses. However, Helio may disclose personal information or information regarding use of the Services if, for any reason, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, regulations or other legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our Acceptable Use Policy or other policies; to operate the Services properly; or to protect Helio, our Services, our employees or our Users.
-
-  
-
-
-#### "Cookies" and How Helio Uses Them
-
-A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. Helio may use cookies to collect, store, and sometimes track information for statistical purposes to operate and improve the products and services we provide and to manage our network and property. If you are using an EarthLink Wireless Personal Start Page, we will use a cookie to save your settings and to provide customizable and personalized services. Additionally, be aware that if you visit non-Helio websites where you are prompted to log in or that are customizable, you may be required to accept cookies.
-
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
-
-  
-
-
-#### Helio's Commitment to Children's Privacy
-
-Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and other applicable laws. You must be 18 to use the Services. Helio does not attempt to ask or collect information from any person under the age of 18.
-
-Helio may have products and web pages designed especially for younger users under the direct supervision of an adult Member. While we make every effort to ensure that these Services are fun and age-appropriate for a younger audience, we believe that there is no substitute for proper parental supervision. For further information about tips, tools, age-appropriate or kid-friendly websites and how to report online trouble, please visit www.getnetwise.org.
-
-Helio recommends that children ask a parent for permission before sending any personal information anywhere using the Internet.
+  * Customer Resolutions
+  * Virgin Mobile USA, L.P.
+  * 10 Independence Blvd.
+  * Warren, NJ 07059
+  * Telephone: (866) 794-8049 (toll-free)
+  * Fax: (908) 607-4121
+  * [execescalations@virginmobileusa.com](mailto:execescalations@virginmobileusa.com)
 
   
 
 
-#### Public Forums
+#### What Is Our Policy Regarding Location-Based Information?
 
-Any information that you disclose in public areas of our websites or the Internet may become public information. You should exercise caution when deciding to disclose personal information in these areas.
+Location-based information is information that indicates the location of your Virgin Mobile phone. When you turn on your mobile phone and use any of our location-based services, your device automatically communicates with our network and relays its current location. The accuracy of location services may be affected by circumstances beyond our control, including atmospheric, geographic or topographic conditions. We do not warrant or guarantee that location services will be available at any specific time or geographic location, or that service will be provided without interruption. 
 
-  
+By using our location-based services, you consent to have us electronically collect, monitor and track your physical location and the location of your handset. We collect and disclose your location information only to provide you with the location-based services you have requested, or in emergency situations as prescribed by law. If you allow other users to use your handset, you are responsible for informing these users that their location information may be collected or disclosed. We will not provide your location information to third parties other than as prescribed by law without your consent. 
 
+If you are a Virgin Mobile customer with a No Annual Contract account, and you wish to change your privacy options for the use of your location information, or if you no longer wish to use our location-based services, please change the settings on your mobile phone by going to either 1) Menu->Settings->Network->Location or 2) Menu->Tools&Settings->Others->Location depending on your mobile phone. Changing your privacy options or terminating our location-based services will not affect the status of any other services you receive from us. Any information that is collected, monitored or tracked regarding your physical location or the location of your handset will not be retained longer than is necessary to provide the location-based services you have selected.
 
-#### Helio's Commitment to Data Security
+#### What About Other Information Collectors?
 
-Helio has security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. We will never sell your information to a third party.
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information that we or our partners collect from you. To the extent that you disclose your information to other parties, different rules may apply to their use or disclosure of your information. We encourage you to ask questions before you disclose your personal information to others. 
 
-  
+#### Is My Information Secure?
 
+Virgin Mobile uses standard industry practices to safeguard the confidentiality of your personally identifiable information. Virgin Mobile treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. 
 
-#### How to Access or Modify Your Information
+Unfortunately, perfect security does not exist on the Internet, and therefore, Virgin Mobile makes no representations or warranties with regard to the sufficiency of our security measures. Virgin Mobile shall not be responsible for any damages that result from a lapse in compliance with this Privacy Policy because of a security breach, technical malfunction or similar problem. Always be careful and responsible regarding your personal information. 
 
-Helio offers Users the opportunity to access or modify information provided during registration. To access or modify such information, MyAccount at www.helio.com.
+We are not responsible for, and cannot control, the use by others of any information which you provide to them via our wireless services. Similarly, we cannot assume any responsibility for the content of any personal information or communication you receive from other customers through our wireless services. 
 
-  
+#### What Law Applies?
 
+Personally identifiable information that is submitted to our websites will be collected, processed, stored, disclosed and disposed of in accordance with applicable U.S. law. If you are a non-U.S. customer, you acknowledge and agree that we may collect and use your personally identifiable information outside your resident jurisdiction. 
 
-#### Questions About Helio's Privacy Policy
+In addition, such personally identifiable information may be stored on servers located outside your resident jurisdiction. U.S. law may not provide the degree of protection for your information that is available in other countries. BY PROVIDING US WITH YOUR INFORMATION, YOU ACKNOWLEDGE THAT YOUR HAVE READ THIS PRIVACY POLICY, UNDERSTAND IT, AGREE TO ITS TERMS AND CONSENT TO THE TRANSFER OF SUCH INFORMATION OUTSIDE YOUR RESIDENT JURISDICTION. If you do not consent to the terms of this Privacy Policy, please do not use our websites. 
 
-If you have any additional questions about this Privacy Policy or the practices described herein, you may contact:
+#### Will This Privacy Policy Change?
 
-Legal Department   
-Helio LLC   
-10960 Wilshire Blvd., Suite 700   
-Los Angeles, CA 90024   
+Virgin Mobile may, from time to time, make changes to this policy based on your comments and our need to accurately reflect our legal obligations and our data collection and disclosure practices. By continuing to use our websites and services or by calling Virgin Mobile At Your Service at 1-888-322-1122, you agree to be bound by the latest version of this policy, which may be viewed anytime by clicking on the "Privacy Policy" link at the foot of the each of our websites. 
 
+#### Want To Know More?
 
-  
-
-
-#### Revisions to This Policy
-
-Helio reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our website: [www.helio.com.](http://www.helio.com/)
-
-  
-
-
-#### Helio's Privacy Policy
-
-Even though Helio connects our members to just about anything and everything, sometimes, everyone needs their own private space. Helio deeply respects preserving your space, which is why Helio complies with the National Do Not Call Registry, state registries and maintains its own internal Do Not Call list. Helio does not contact non-customers with sales and marketing-related phone calls. If you receive a call from someone purporting to sell you Helio products, and you have already placed yourself on the national, state or Helio lists, please let us know at 888-88-HELIO so that we can investigate the problem.
-
-  
-
-
-#### Helio’s Do Not Call List
-
-In addition to observing the federal and state registries, Helio maintains its own Do Not Call list. To be added to this list, simply let us know in writing at:
-
-HELIO   
-Attn: HELIO Privacy Policy   
-Suite 700   
-10960 Wilshire Blvd   
-Los Angeles, CA 90025 
-
-or by telephone at 888-88-HELIO. Please be sure to inform us of your name, address, and all the telephone numbers you want added to the list. It will take up to 30 days for the system to be updated but don’t forget to let us know of new numbers and addresses when your information changes. Residential customers will remain on our list for 2 years, unless you request to be removed from the list. Business customers will remain on our list for 1 year.
-
-If you are a Helio customer, were a customer at one point, or provided us your information because you thought about becoming a customer, you may be contacted by Helio even though you are on the national, state or Helio Do Not Call lists. Many state regulations and the National Do Not Call Registry permit companies to contact their own customers, former customers or people who provided information to be contacted.
-
-Please note that being listed on the National Do Not Call Registry and/or the Helio Do Not Call list does not prevent Helio from contacting you for non-solicitation purposes, such as surveys, billing or service-related questions.
+For questions or concerns about Virgin Mobile or our websites, please contact customer care at [ourteam@virginmobileusa.com](mailto:ourteam@virginmobileusa.com) or call Virgin Mobile At Your Service at 1-888-322-1122. Calls to Virgin Mobile At Your Service may be monitored for quality assurance. 
