@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610095729id_/http%3A//www.cardomain.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901233231id_/http%3A//www.cardomain.net/privacy-policy) for the most accurate reproduction.*
 
 # CarDomain Network, Inc. – Privacy Policy
 
@@ -6,12 +6,12 @@
 
 CarDomain wants to make it easy for you to understand its information collection practices. You are probably sick of the legalese that companies put in their privacy policies. We are too. So we decided to revise our privacy policy to be in plain English.
 
-  * [What Categories of Information Does CarDomain Collect and How Does it Typically Use This Information?](https://web.archive.org/web/20100610095729id_/http%3A//privacy-policy/#what)
-  * [Can I Control How CarDomain Uses the Information It Collects?](https://web.archive.org/web/20100610095729id_/http%3A//privacy-policy/#uses)
-  * [Do CarDomain’s Advertisers, Vendors, or Business Partners Collect Information About Me?](https://web.archive.org/web/20100610095729id_/http%3A//privacy-policy/#collect)
-  * [Does CarDomain Share the Information it Collects With Others?](https://web.archive.org/web/20100610095729id_/http%3A//privacy-policy/#share)
-  * [How Secure Is My Personal Information?](https://web.archive.org/web/20100610095729id_/http%3A//privacy-policy/#secure)
-  * [What About The Children?](https://web.archive.org/web/20100610095729id_/http%3A//privacy-policy/#children)
+  * [What Categories of Information Does CarDomain Collect and How Does it Typically Use This Information?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#what)
+  * [Can I Control How CarDomain Uses the Information It Collects?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#uses)
+  * [Do CarDomain’s Advertisers, Vendors, or Business Partners Collect Information About Me?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#collect)
+  * [Does CarDomain Share the Information it Collects With Others?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#share)
+  * [How Secure Is My Personal Information?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#secure)
+  * [What About The Children?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#children)
 
 
 
