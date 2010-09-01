@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmoabc.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616190021id_/http%3A//www.mmoabc.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmoabc.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901210620id_/http%3A//www.mmoabc.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MMOABC
 
@@ -25,7 +25,8 @@ MMOABC collects certain information from and about its users three ways: directl
 **  
 Web Server Logs**
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:  
+
 
   * Your Internet protocol address.
   * The kind of browser or computer you use.
@@ -54,7 +55,8 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
-We may disclose at our discretion personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
+We may disclose at our discretion personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:  
+
 
   * To fulfill your service requests for services.
   * To sell and advertise related services to you in the form of emails, mailings and verbal communication.
