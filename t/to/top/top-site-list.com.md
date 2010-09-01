@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-site-list.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623150200id_/http%3A//support.top-site-list.com/support-post-1526.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-site-list.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902002159id_/http%3A//support.top-site-list.com/support-post-1526.html) for the most accurate reproduction.*
 
 # Top Site List Planet View topic - Privacy Policy
 
