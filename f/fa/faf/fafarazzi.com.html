@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the fafarazzi.com privacy policy that was archived on 2009-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090323030036id_/http%3A//www.fafarazzi.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fafarazzi.com privacy policy that was archived on 2010-09-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100901030522id_/http%3A//www.fafarazzi.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <title>	About Fafarazzi.com - Privacy Policy</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <meta name="keywords" content="fantasy celebrity league, celebrity fantasy league, celebrity gossip league, tabloid fantasy league, reality TV game">
 <meta name="description" content="Fafarazzi.com provides entertainment games for you and friends. Compete in Fantasy Celebrity Leagues and Reality TV Games. Read all your gossip blogs in one place.">
 
@@ -27,6 +28,10 @@
 	$(document).ready(function(){
 		$('input[title!=""]').hint(); // find all the input elements with title attributes
 	})
+	$(function() {
+	    $('img:not([alt])').attr('alt','');
+	});
+
 })(jQuery);
 </script>
 
@@ -44,11 +49,25 @@
 	    $('#nav-mygroups').bgiframe();
 	})
 })(jQuery);
-</script>
-<!-- END GENERAL JS -->
+</script>    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  try {
+	_gaq.push(['_setAccount', 'UA-97778-5']);
+	_gaq.push(['_trackPageview']);
+    } catch(err) {}
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+
+</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script><!-- END GENERAL JS -->
 
 	
-
 <!-- ------ Tabs ------- -->
 <link rel="stylesheet" type="text/css" href="http://www.fafarazzi.com/css/tabs.css">
 <script type="text/javascript" src="http://www.fafarazzi.com/js/ui.tabs.js"></script>
@@ -78,7 +97,7 @@ $(document).ready(function(){
             <!-- ------- AD BANNER ------- -->
 <div id="leaderboard">
 
-                <iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://www.fafarazzi.com/iframe_ad728x90.php?p=privacy.php"></iframe>
+                <iframe frameborder="0" wmode="transparent" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://www.fafarazzi.com/iframe_ad728x90.php?p=privacy.php"></iframe>
     
 </div><!-- /leaderboard -->
 
@@ -122,17 +141,26 @@ $(document).ready(function(){
                     <div id="nav-news2" class="topNav2">
                     	<div class="topCorners"></div>
                         <div class="contentBox">
-                            <ul>
-                                <li><a href="http://www.fafarazzi.com/headlines.php">Top Headlines</a></li>
-                                <li><a href="http://www.fafarazzi.com/headlines.php?sort=new">Breaking News</a></li>
-                                <li><a href="http://www.fafarazzi.com/headlines.php?sort=vids">Today's Video</a></li>
-                                <li><a href="http://www.fafarazzi.com/celeb_directory.php">Celebrity Directory</a></li>
-                                <li><a href="http://www.fafarazzi.com/tv_directory.php">TV Show Directory</a></li>
-                                <li class="last"><a href="http://www.fafarazzi.com/blog_directory.php">Blog Directory</a></li>
-                            </ul>
-                            <div class="clear"></div>
+			        <ul class="mainNavList">
+                                	<li class="first"><strong>ENTERTAINMENT NEWS</strong></li>
+					<li><a href="http://www.fafarazzi.com/headlines.php">					    <img src="http://static.fafarazzi.com/images/img_parse/201008/75_S/879480_22203507635.png" width="75">Top Headlines
+					    <div class="clear"></div></a>					</li>
+					<li class="last"><a href="http://www.fafarazzi.com/headlines.php?sort=vids">  
+					    <div style="background: url('http://i4.ytimg.com/vi/IkDsibRAzkI?fs=1/default.jpg'); width: 75px; overflow:hidden;" class="left">
+						<img src="http://static2.fafarazzi.com/images/play_button_trans.gif" width="75">
+					    </div><div class="left" style="padding-left: 9px;">Today's Videos</div>
+					    <div class="clear"></div></a></li>
+                                </ul>
+                                
+                                <ul class="secondNavList">
+	                                <li class="first"><strong>FIND &amp; BROWSE</strong></li>
+                                    <li><a href="http://www.fafarazzi.com/celeb_directory.php">Celebrity Directory</a></li>
+    	                            <li><a href="http://www.fafarazzi.com/tv_directory.php">TV Show Directory</a></li>
+        	                        <li class="last"><a href="http://www.fafarazzi.com/blog_directory.php">Blog Directory</a></li>
+            	                </ul>
+			    <div class="clear"></div>
                         </div><!-- /contentBox -->
-                        <div class="bottomCorners"></div>
+			<div class="bottomCorners"></div>
                     </div><!-- /topNav2 -->
                 </li><!-- /nav-news -->
                 
@@ -141,58 +169,112 @@ $(document).ready(function(){
                     <div id="nav-games2" class="topNav2 wide">
                     	<div class="topCorners"></div>
                         <div class="contentBox">
-                            <ul>
-                                <li><a rel="nofollow" href="http://www.fafarazzi.com/game_landing.php">All Games</a></li>
-                                <li><a rel="nofollow" href="http://www.fafarazzi.com/leagues.php">Fantasy Celebrity Leagues</a></li>
-				<li><a rel="nofollow" href="http://www.fafarazzi.com/realitytv">Reality TV Fantasy Games</a></li>
-                                <li><a rel="nofollow" href="http://www.fafarazzi.com/duels.php">Fafa DUELS</a></li>
-                                <li><a rel="nofollow" href="http://www.fafarazzi.com/leaderboards.php">Game Leaderboards</a></li>
-                                <li class="last"><a href="http://www.fafarazzi.com/bracket"><strong>NEW!</strong> Celeb March Mayhem</a></li>
-                                <!--<li class="last"><a href="#">ImageTainter</a></li>-->
-                            </ul>
-                            
-                            <div class="col2">
-                                <h5>Current Reality TV Games:</h5>
-                                <ul>
-                                                                        <li><a href="http://www.fafarazzi.com/tv_pick_team.php?slug=The-Office">The Office</a></li>
-                                                                        <li><a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Gossip-Girl">Gossip Girl</a></li>
-                                                                        <li><a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Rock-of-Love-Bus">Rock of Love 3</a></li>
-                                                                        <li><a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Hells-Kitchen">Hells Kitchen</a></li>
-                                                                        <li><a href="http://www.fafarazzi.com/tv_pick_team.php?slug=American-Idol">American Idol</a></li>
-                                                                        <li><a href="http://www.fafarazzi.com/tv_pick_team.php?slug=I-Love-Money">I Love Money 2</a></li>
-                                                                        <li><a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Survivor">Survivor</a></li>
-                                                                        <li><a href="http://www.fafarazzi.com/tv_pick_team.php?slug=The-Amazing-Race">Amazing Race</a></li>
-                                                                        <li><a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Americas-Next-Top-Model">Next Top Model</a></li>
-                                                                        <li><a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Dancing-with-the-Stars">DWTS</a></li>
+                            <div class="col1">
+                                <ul id="gamesList">
+                                    <li class="first"><strong>Fantasy Reality TV Games</strong></li>
+                                                                        										 										                                    
+                                    
+                                    <li>
+                                    
+                                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Americas-Next-Top-Model">
+				    <img src="http://static.fafarazzi.com/images/americas-next-top-model-15/tm5_mini.gif" align="absmiddle">
+				    Next Top Model</a></li>
+                                                                                                            
+                                    
+                                    <li>
+                                    
+                                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Big-Brother">
+				    <img src="http://static.fafarazzi.com/images/big-brother-12/bb2_mini.gif" align="absmiddle">
+				    Big Brother</a></li>
+                                                                                                            
+                                    
+                                    <li>
+                                    
+                                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Dancing-with-the-Stars">
+				    <img src="http://static.fafarazzi.com/images/dancing-with-the-stars-11/ds1_mini.gif" align="absmiddle">
+				    Dancing with the Stars</a></li>
+                                                                        										 	<li style="border-top:1px dotted #dfdfdf; padding-top:2px; margin-top:7px; padding-bottom:0px; margin-bottom:0px;">
+                                        			
+											</li>									                                    
+                                    
+                                    <li>
+                                    
+                                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Jersey-Shore">
+				    <img src="http://static.fafarazzi.com/images/jersey-shore/jsh_mini.gif" align="absmiddle">
+				    Jersey Shore</a></li>
+                                                                                                            
+                                    
+                                    <li>
+                                    
+                                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Project-Runway">
+				    <img src="http://static.fafarazzi.com/images/project-runway-8/pr8_mini.gif" align="absmiddle">
+				    Project Runway</a></li>
+                                                                                                            
+                                    
+                                    <li>
+                                    
+                                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Survivor">
+				    <img src="http://static.fafarazzi.com/images/survivor-nicaragua/svn_mini.gif" align="absmiddle">
+				    Survivor</a></li>
                                                                     
+                                
+                                    										 										                                    
+                                    
+                                    <li>
+<br>
+<br>
+
+                                    Playable on <i>FOX:</i><br>
+                                    <a href="http://www.fox.com/hellskitchen/fantasygame/" target="_blank">
+				    <img src="http://static.fafarazzi.com/images/hells-kitchen-7/hk7_mini.gif" align="absmiddle">
+				    Hells Kitchen</a></li>
+                                    
+									                                                                        
+                                    
+                                    <li>
+<br>
+<br>
+
+                                    Playable on <i>BravoTV.com:</i><br>
+                                    <a href="http://www.bravotv.com/top-chef/games/fantasy-game/" target="_blank">
+				    <img src="http://static.fafarazzi.com/images/top-chef-7/tc7_mini.gif" align="absmiddle">
+				    Top Chef</a></li>
+                                    
+									                                
+                                
+                                
                                 </ul>
+                            </div><!-- /col1 -->
+                            <div class="games-center">
+				<ul class="mainNavList">							    <li><a href="http://www.fafarazzi.com/fcl_step1.php"><img src="http://static2.fafarazzi.com/images/navIcon_fcl.gif" height="40" width="40">Fantasy Celebrity Leagues</a></li>    				    <li><a href="http://www.fafarazzi.com/duels"><img src="http://static2.fafarazzi.com/images/navIcon_duel.gif" height="40" width="40">FaFa Duels</a></li>
+				    <li><a href="http://www.fafarazzi.com/typerocker"><img src="http://static2.fafarazzi.com/images/navIcon_typerocker.gif" height="40" width="40">Type Rocker</a></li>
+				    <li><a href="http://www.fafarazzi.com/polls"><img src="http://static2.fafarazzi.com/images/polls_icon.gif" height="40" width="40">Polls</a></li>
+				    <!--<li class="last"><a href="http://www.fafarazzi.com/cmm"><img src="http://static2.fafarazzi.com/images/cmm_square50x50.gif" height="40" width="40"  />March Mayhem</a></li>-->
+				</ul>
                             </div><!-- /col2 -->
-                            <div class="clear"></div>
+			    <ul class="secondNavList">
+				<li class="first"><strong>MORE GAMES</strong></li>
+                                <li><a href="http://www.fafarazzi.com/game_landing.php">See All Games</a></li>
+				<li class="last"><a href="http://www.fafarazzi.com/leaderboards.php">Game Leaderboards</a></li>
+                            </ul>
+                            <div class="clear">&nbsp;</div>&nbsp;
                         </div><!-- /contentBox -->
                         <div class="bottomCorners"></div>
+                            <div class="clear">&nbsp;</div>&nbsp;
                     </div><!-- /topNav2 -->
                 </li><!-- /nav-games -->
 
                 <li id="nav-community">
                     <a rel="nofollow" href="http://www.fafarazzi.com/discuss.php"><span>Community</span></a>
-                    <div id="nav-community2" class="topNav2 wide">
+                    <div id="nav-community2" class="topNav2">
                     	<div class="topCorners"></div>
                         <div class="contentBox">
-                            <ul>
-                                <li><a rel="nofollow" href="http://www.fafarazzi.com/gp_groups.php">Groups</a></li>
-                                <li><a rel="nofollow" href="http://www.fafarazzi.com/discuss.php">Fafa Forums</a></li>
-                                <li><a rel="nofollow" href="http://www.fafarazzi.com/blog/fafablog/">Fafa Blog</a></li>
-                            </ul>
-                            
-                            <div class="col2">
-                                <h5>Vote:</h5>
-                                <ul>
-                                    <li><a rel="nofollow" href="http://www.fafarazzi.com/top_icons.php">Best Icons</a></li>
-                                    <li><a rel="nofollow" href="http://www.fafarazzi.com/top_profiles.php">Best Profiles</a></li>
-                                    <li><a rel="nofollow" href="http://www.fafarazzi.com/top_teamnames.php">Best Names</a></li>
-                                </ul>
-                            </div><!-- /col2 -->
-                            <div class="clear"></div>
+			    <ul class="mainNavList">
+                                <li><a rel="nofollow" class="first" href="http://www.fafarazzi.com/discuss.php"><img src="http://static2.fafarazzi.com/images/navIcon_forums.gif">Fafa Forums</a></li>	
+                                <li><a rel="nofollow" href="http://www.fafarazzi.com/gp_groups.php"><img src="http://static2.fafarazzi.com/images/navIcon_groups.gif">Groups</a></li>
+				<li class="last"><a rel="nofollow" href="http://www.fafarazzi.com/top_icons.php"><img src="http://static2.fafarazzi.com/images/navIcon_contests.gif">Community Contests</a></li>                                
+                            </ul>  
+			    <div class="clear"></div>
                         </div><!-- /contentBox -->
                         <div class="bottomCorners"></div>
                     </div><!-- /topNav2 -->
@@ -203,9 +285,10 @@ $(document).ready(function(){
                     <div id="nav-more2" class="topNav2">
                     	<div class="topCorners"></div>
                         <div class="contentBox">
-                            <ul>
-                                <li><a rel="nofollow" href="http://www.fafarazzi.com/about.php">About Fafa</a></li>
+                            <ul class="mainNavList">
+                                <li><a rel="nofollow" id="nav-more-first" href="http://www.fafarazzi.com/about.php">About Fafa</a></li>
                                 <li><a rel="nofollow" href="http://www.fafarazzi.com/contact.php">Contact</a></li>
+                                <li><a rel="nofollow" href="http://www.fafarazzi.com/blog/fafablog/">Blog</a></li>
                                 <li><a rel="nofollow" href="http://www.fafarazzi.com/tour.php">Site Tour</a></li>
                                 <li class="last"><a rel="nofollow" href="http://www.fafarazzi.com/help.php">Help/FAQ</a></li>
                             </ul>
@@ -213,7 +296,7 @@ $(document).ready(function(){
                         </div><!-- /contentBox -->
                         <div class="bottomCorners"></div>
                     </div><!-- /topNav2 -->
-                </li><!-- /nav-more -->
+                </li><!-- /nav-community -->
                 
             </ul><!-- topNav1 -->            
 
@@ -289,7 +372,12 @@ The information we collect is used to improve the quality of our service, and is
 <strong>COOKIES</strong><br><br>
 
 * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a site's server and stored on your computer's hard drive.<br>
-* Fafarazzi does not require cookies for usage of the service. Cookies are used only voluntarily through the login page.
+* Fafarazzi does not require cookies for usage of the service. Cookies are used only voluntarily through the login page.<br>
+* Fafarazzi will access your information when you "sign in" so we can provide you with customized content or remember the last page you visited in a Fafarazzi product or service.<br>
+* We deliver advertisements relevant to your interests when you visit Fafarazzi, using a cookie that gathers anonymous information based on visits &amp; activity to Fafarazzi.<br>
+* If you would rather not receive customized advertising off of Fafarazzi, you can <a href="http://www.networkadvertising.org/managing/opt_out.asp">opt-out</a> of this service or disable cookies through your browser.<br>
+* <b>If you want to control which cookies you accept:</b> You can order your browser to accept all cookies or to alert you every time a cookie is offered. Then you can decide whether to accept one or not.<br>
+* <b><a href="http://www.networkadvertising.org/managing/opt_out.asp">Opting out</a> of a network</b> does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.
 <br><br>
 <strong>DISCLOSURE</strong>
 <br><br>
@@ -375,16 +463,14 @@ Any questions about this Privacy Policy should be addressed to info@fafarazzi.co
 
                     <div class="box1020 howTo">
             
-                <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=American-Idol" class="linkArrow">American Idol</a></div>
-                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Americas-Next-Top-Model" class="linkArrow">Next Top Model</a></div>
-                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Dancing-with-the-Stars" class="linkArrow">DWTS</a></div>
-                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Gossip-Girl" class="linkArrow">Gossip Girl</a></div>
+                <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Americas-Next-Top-Model" class="linkArrow">Next Top Model</a></div>
+                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Big-Brother" class="linkArrow">Big Brother</a></div>
+                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Dancing-with-the-Stars" class="linkArrow">Dancing with the Stars</a></div>
                                         <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Hells-Kitchen" class="linkArrow">Hells Kitchen</a></div>
-                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=I-Love-Money" class="linkArrow">I Love Money 2</a></div>
-                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Rock-of-Love-Bus" class="linkArrow">Rock of Love 3</a></div>
+                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Jersey-Shore" class="linkArrow">Jersey Shore</a></div>
+                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Project-Runway" class="linkArrow">Project Runway</a></div>
                                         <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Survivor" class="linkArrow">Survivor</a></div>
-                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=The-Amazing-Race" class="linkArrow">Amazing Race</a></div>
-                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=The-Office" class="linkArrow">The Office</a></div>
+                                        <div style="float:left; width:115px; margin:4px;"><a href="http://www.fafarazzi.com/tv_pick_team?slug=Top-Chef" class="linkArrow">Top Chef</a></div>
                             
 
 <div class="clear"></div>
@@ -400,11 +486,11 @@ Any questions about this Privacy Policy should be addressed to info@fafarazzi.co
 				 	<div class="box1020">
 
 <h1 class="medium">
-    <a href="http://www.fafarazzi.com/blog/fafablog/361/FafaCon---09--Where-The-Party-At-">
-   FafaCon '09: Where The Party At?</a></h1>
-   <div class="datePosted">Posted 4d ago </div>
-<p class="textBlock">You all know the date,August 15th will mark the second annual FafaCon.  So we've picked the location for our Saturday night, August 15th, festivities! When: August 15th at 8:00pm - 11:00pm Where: The 1914 Room in Red Ivy at 3525 N. Clark St What: We'll be playing a reality type survivor/big brother </p>
-<div class="right"><a href="http://www.fafarazzi.com/blog/fafablog/361/FafaCon---09--Where-The-Party-At-" class="linkArrow">Read more</a></div>
+    <a href="http://www.fafarazzi.com/blog/fafablog/404/Hell--s-Kitchen-Fantasy-Game-on-FOX-com">
+   Hell's Kitchen Fantasy Game on FOX.com</a></h1>
+   <div class="datePosted">Posted Jun 9, 10</div>
+<p class="textBlock">The new Hell's Kitchen Fantasy Game will be playable exclusively on FOX.com You can sign in with Facebook Connect which will make gameplay possible. The gameplay and private groups will be the same that you're used to on Fafarazzi - with some new scoring items for this season.&nbsp;   To recap... What's </p>
+<div class="right"><a href="http://www.fafarazzi.com/blog/fafablog/404/Hell--s-Kitchen-Fantasy-Game-on-FOX-com" class="linkArrow">Read more</a></div>
 <div class="clear"></div>
 
                     </div>
@@ -426,22 +512,20 @@ Any questions about this Privacy Policy should be addressed to info@fafarazzi.co
             FOOTER
          =================================================== -->
 		
-
+<!--
 <div style="clear:both" class="module">
     <a href="http://www.fafarazzi.com/cmm_overview.php?utm_content=footer_promo">
-	    <img src="http://static2.fafarazzi.com/images/cmm_promo_footer_976.gif" width="976" height="192">
+	    <img src="http://static2.fafarazzi.com/images/cmm_promo_footer_976.gif" width="976" height="192" />
     </a>
-</div>    
-  
+</div>
+  -->
     <div id="footer_reality_tv" class="module" style="background: url(http://static2.fafarazzi.com/images/realitytv_footer_bg.gif) top left no-repeat; padding-left:100px; padding-right:10px; padding-top:62px; height:130px;">
         <div>
-                     <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Survivor&amp;utm_content=footer_promo"><img src="http://www.fafarazzi.com/images/svt_bottom.gif"></a>
-                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Americas-Next-Top-Model&amp;utm_content=footer_promo"><img src="http://www.fafarazzi.com/images/tm2_bottom.gif"></a>
-                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Dancing-with-the-Stars&amp;utm_content=footer_promo"><img src="http://www.fafarazzi.com/images/ds7_bottom.gif"></a>
-                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=The-Amazing-Race&amp;utm_content=footer_promo"><img src="http://www.fafarazzi.com/images/a14_bottom.gif"></a>
-                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=American-Idol&amp;utm_content=footer_promo"><img src="http://www.fafarazzi.com/images/ai8_bottom.gif"></a>
-                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=I-Love-Money&amp;utm_content=footer_promo"><img src="http://www.fafarazzi.com/images/il2_bottom.gif"></a>
-                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Hells-Kitchen&amp;utm_content=footer_promo"><img src="http://www.fafarazzi.com/images/hlk_bottom.gif"></a>
+                     <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Americas-Next-Top-Model&amp;utm_content=footer_promo"><img src="http://static.fafarazzi.com/images/tm5_bottom.gif"></a>
+                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Survivor&amp;utm_content=footer_promo"><img src="http://static.fafarazzi.com/images/svn_bottom.gif"></a>
+                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Project-Runway&amp;utm_content=footer_promo"><img src="http://static.fafarazzi.com/images/pr8_bottom.gif"></a>
+                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Big-Brother&amp;utm_content=footer_promo"><img src="http://static.fafarazzi.com/images/bb2_bottom.gif"></a>
+                    <a href="http://www.fafarazzi.com/tv_pick_team.php?slug=Jersey-Shore&amp;utm_content=footer_promo"><img src="http://static.fafarazzi.com/images/jsh_bottom.gif"></a>
                 </div>
     </div><!-- /tvHeader -->
 
@@ -532,14 +616,23 @@ Any questions about this Privacy Policy should be addressed to info@fafarazzi.co
            	<!-- ------- FOOTER BOTTOM ------- -->
         	<div id="footerBottom">
                 <a rel="nofollow" href="http://www.fafarazzi.com"><img id="logo-footer" src="http://static.fafarazzi.com/images/logo-fafarazzi-footer.png" width="129" height="28" alt="Fafarazzi"></a>
-                <span id="copyright">© 2006-2009 Fafarazzi.com</span>
+                <span id="copyright">© 2006-2010 Fafarazzi.com</span>
                 <a rel="nofollow" href="http://www.fafarazzi.com/blog/fafablog/">Fafa Blog</a> |
                 <a rel="nofollow" href="http://www.fafarazzi.com/terms.php">Terms</a> |
                 <a rel="nofollow" href="http://www.fafarazzi.com/privacy.php">Privacy</a> |
                 <a rel="nofollow" href="http://www.fafarazzi.com/about.php">About</a> |
                 <a rel="nofollow" href="http://www.fafarazzi.com/contact.php">Contact</a>
         	
-            &nbsp;&nbsp;&nbsp;&nbsp;Advertising Partner: <a rel="nofollow" href="http://www2.glam.com/app/site/affiliate/viewNetworkHome.act?affiliateId=120145177"><img src="http://fileserver.glam.com/app/site/images/blog/GlamBlogNetwork.gif" align="absmiddle" border="0"></a>
+            &nbsp;&nbsp;&nbsp;&nbsp;Advertising Partner: <script type="text/javascript" language="JavaScript">
+glam_affiliate_id = '120145177';
+glam_logo_type = 'GEnter';
+glam_logo_size = '160x24';
+color_or_grayscale_flag ='';
+glam_logo_color = 'wht';
+glam_gs_logo_color = 'wht';
+glam_logo_country = 'US';
+</script>
+<script src="http://www8.glam.com/js/widgets/glam_logo.js"></script>
             
             </div><!-- /footerBottom -->
         </div><!-- /footer -->   <div class="bottomCorners"><div class="lCorner"><div class="rCorner"><div class="btwCorners"></div></div></div></div><div class="box1010"></div>
@@ -548,17 +641,26 @@ Any questions about this Privacy Policy should be addressed to info@fafarazzi.co
 </div><!-- /container-bg -->
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-    _uacct = "UA-97778-5";urchinTracker();
-</script>
-<!-- MC_OUT_LOAD=footer_reality_tv -->
 
-<!-- MC_LOAD(1) MC_OUT_LOAD(1)  -->
+<!-- 
+MC_OUT_LOAD=footer_reality_tv [0.00017]
+-->
+
+<!-- MC_LOAD(4)[0.0006] MC_OUT_LOAD(1)[0.0002]  -->
 
 <!-- q:4 -->
-<!-- qt:0.016 -->
-<!-- t:0.06 -->
+<!-- qt:0.028 -->
+<!-- mc:0.0008 -->
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+	try {
+	    _gaq.push(['_setAccount', 'UA-97778-5']);
+	    var loadTime = 650;
+	    _gaq.push(['_trackEvent', 'Debug', 'Load time (milliseconds)', '/privacy.php', loadTime]);
+	    	} catch(err) {
+	    alert(err);
+	}
+	</script><!-- t:0.65 -->
 
 
 </body></html>
