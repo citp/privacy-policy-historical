@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infochimps.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502153337id_/http%3A//help.infochimps.org/help/published/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infochimps.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902031843id_/http%3A//help.infochimps.org/help/published/Privacy) for the most accurate reproduction.*
 
 # Privacy in infochimps.org - help
 
