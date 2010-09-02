@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615051227id_/http%3A//www.bittorrent.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902043430id_/http%3A//www.bittorrent.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BitTorrent
 
@@ -19,6 +19,8 @@ Each time a visitor comes to a Site, we collect some limited information that yo
 In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Sites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.
 
 In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users' answers to such questions.
+
+We also aggregate some data from our software applications (including BitTorrent) regarding total traffic flows and content delivery performance of our Applications as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of Bittorrent and HTTP protocols on the public internet. End users may opt out of providing this information using a Preferences setting.
 
   * #### Gathering and Use of Personally Identifiable Information
 
@@ -78,13 +80,18 @@ By visiting the Site or using the Services, you consent to the collection and us
 ### Questions? Contact us.
 
 If you have any questions about our privacy practices, please do not hesitate to contact:
-    
-    
-    BitTorrent, Inc.
-    201 Mission St. Suite 900
-    San Francisco, California 94105
-    
+
+BitTorrent, Inc.
+
+612 Howard St.
+
+Suite 400
+
+San Francisco, CA 94105-3944
+
+USA
 
 ### Terms and Conditions.
 
 Please also read the Terms of Service establishing the use, disclaimers, and limitations of liability governing the use of the Site, the Services and the other BitTorrent services and applications.
+  *[CA]: California
