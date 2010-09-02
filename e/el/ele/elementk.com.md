@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elementk.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501164631id_/http%3A//www.elementk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementk.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902024719id_/http%3A//www.elementk.com/privacy-policy) for the most accurate reproduction.*
 
 # Element K - Privacy Policy
 
@@ -52,7 +52,6 @@ Element K
 500 Canal View Blvd.  
 Rochester, NY 14623
 
-e-mail:[ Privacy@elementk.com](mailto:Privacy@elementk.com)  
-phone: 1-800-250-5013, and select option #4.
+e-mail:[ Privacy@elementk.com](mailto:Privacy@elementk.com)
 
 Effective as of: October 10, 2008
