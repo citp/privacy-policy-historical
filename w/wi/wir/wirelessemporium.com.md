@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615081916id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902075615id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
 
 # Buy Cell Phone Accessories from WirelessEmporium – Cell phone Covers, Faceplates, Charms, Chargers, Batteries - Deep Discounts and Free Shipping
 
