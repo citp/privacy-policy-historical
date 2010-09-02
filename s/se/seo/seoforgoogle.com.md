@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoforgoogle.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616133308id_/http%3A//www.seoforgoogle.com/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoforgoogle.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902101051id_/http%3A//www.seoforgoogle.com/policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - SEOforGoogle
 
