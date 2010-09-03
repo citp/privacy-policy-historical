@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamwidth.org privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621064725id_/http%3A//www.dreamwidth.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamwidth.org privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904002916id_/http%3A//www.dreamwidth.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
