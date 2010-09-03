@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hyperxlocal.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609110406id_/http%3A//www.hyperxlocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperxlocal.com privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903161523id_/http%3A//www.hyperxmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# HyperX Local
+# HyperX Media
 
 **Privacy Policy**
 
-HyperX Local Privacy Policy Effective Date: January 27, 2006 HyperX Local (HXL) believes that privacy and security are of major concern to online users. Therefore, we have adopted the policy below, which discloses the privacy and security practices for our site. This privacy policy is applicable to www.HyperXLocal.com and other sites on the World Wide Web owned and operated by HyperX Local. The policy is designed to inform you of:
+HyperX Media Privacy Policy Effective Date: January 27, 2006 HyperX Media (HXL) believes that privacy and security are of major concern to online users. Therefore, we have adopted the policy below, which discloses the privacy and security practices for our site. This privacy policy is applicable to www.HyperXLocal.com and other sites on the World Wide Web owned and operated by HyperX Media. The policy is designed to inform you of:
 
   * What information we might gather from you
   * What we will do with that information
@@ -19,7 +19,7 @@ Because we want to demonstrate our commitment to your privacy, our site has agre
 
 **Our Privacy Vow**
 
-We at HyperX Local (HXL) believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service and as a commercial, educational, and entertainment medium. However, we do need to understand user behavior in order to serve you better. To achieve this goal, we need to understand what differentiates you from other unique users of the site. We may collect information about our Members in two ways: at registration and with cookies. ****
+We at HyperX Media (HXL) believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service and as a commercial, educational, and entertainment medium. However, we do need to understand user behavior in order to serve you better. To achieve this goal, we need to understand what differentiates you from other unique users of the site. We may collect information about our Members in two ways: at registration and with cookies. ****
 
 **Information We May Ask You to Provide at Registration**
 
@@ -43,7 +43,7 @@ HXL will never will fully disclose individually identifiable information about y
 
 CALIFORNIA RESIDENTS: Your Privacy Rights
 
-Starting January 1, 2005, companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either provide a list detailing the categories of information shared and the entities to which such information was provided – or provide a mechanism by which a consumer may opt-out of having their information shared with third parties. You may request that your information not be shared by sending a written letter including your full name and email address to: HyperX Local 102 West 12200 South | Draper, UT 84020. Please contact us with any questions or concerns about your privacy rights. ****
+Starting January 1, 2005, companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either provide a list detailing the categories of information shared and the entities to which such information was provided – or provide a mechanism by which a consumer may opt-out of having their information shared with third parties. You may request that your information not be shared by sending a written letter including your full name and email address to: HyperX Media 102 West 12200 South | Draper, UT 84020. Please contact us with any questions or concerns about your privacy rights. ****
 
 **Opt-Out Features**
 
@@ -51,7 +51,7 @@ HXL believes the users of the site should control the communications directed to
 
 **Conclusion**
 
-HyperX Local fully respects your privacy and security concerns. We reserve the right to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the HXL Site following the posting of changes to these Terms of Service will mean that you accept those changes. If you have any questions or concerns about the HyperX Local Privacy Policy, please email support@HyperXLocal.com, or call 801-566-0670.  
+HyperX Media fully respects your privacy and security concerns. We reserve the right to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the HXL Site following the posting of changes to these Terms of Service will mean that you accept those changes. If you have any questions or concerns about the HyperX Media Privacy Policy, please email support@HyperXLocal.com, or call 801-566-0670.  
 Updated 1/27/2006
 
 Simply fill out the form below to get a customized quote in no time.
