@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527102654id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903183228id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guerilla Stock Trading.com
+
+[](http://aecb7bbco0zyerdv3cweu1unpg.hop.clickbank.net/)
 
 At http://www.guerillastocktrading.com we recognize that privacy is important. 
 
