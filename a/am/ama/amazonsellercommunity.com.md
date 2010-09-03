@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazonsellercommunity.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628061151id_/http%3A//www.amazon.com/exec/obidos/tg/browse/-/468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonsellercommunity.com privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903030803id_/http%3A//www.amazon.com/exec/obidos/tg/browse/-/468496) for the most accurate reproduction.*
 
 # Amazon.com Help: Privacy Notice
 
