@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igcar.gov.in privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504052831id_/http%3A//www.igcar.gov.in/igc2004/private.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igcar.gov.in privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903192951id_/http%3A//www.igcar.gov.in/igc2004/private.htm) for the most accurate reproduction.*
 
 # Private Policy
 
@@ -11,6 +11,8 @@ We do not collect personal information for any purpose other than to respond to 
 Our website never collects information or creates individual profiles for commercial marketing. While you must provide an e-mail address for a localised response to any incoming questions or comments to us, we recommend that you do NOT include any other personal information.
 
 * * *
+
+[Back to Home](http://www.igcar.gov.in/)
 
 _Site Owned & Maintained by:   
 Indira Gandhi Centre for Atomic Research,   
