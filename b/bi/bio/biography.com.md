@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biography.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630132400id_/http%3A//www.biography.com/footer/privacy-statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biography.com privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903115935id_/http%3A//www.biography.com/footer/privacy-statement.jsp) for the most accurate reproduction.*
 
 # Privacy Statement
 
