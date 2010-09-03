@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kinowear.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609235629id_/http%3A//www.kinowear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinowear.com privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903173212id_/http%3A//www.kinowear.com/privacy.html) for the most accurate reproduction.*
 
-# Kinowear.com: Men's Fashion, Style, Peacocking, Consultant, Grooming, Image Advice - Privacy Policy
+# Kinowear.com - Privacy Policy
 
 ## Privacy Policy
 
