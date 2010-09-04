@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfas.mil privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111024948id_/http%3A//www.dfas.mil/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfas.mil privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904083304id_/http%3A//www.dfas.mil/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
@@ -12,4 +12,4 @@ Thank you for visiting the Defense Finance and Accounting Service website and re
 
 **Policy Statements:**
 
-[ Out of Service Debt Privacy Act Statement](https://web.archive.org/more/out-of-servicedebt/outofservicedebtprivacyactstatement.html)
+Out of Service Debt Privacy Act Statement 
