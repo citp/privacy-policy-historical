@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantfood.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227092715id_/http%3A//www.giantfood.com/customer_service/privacy_policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantfood.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904121312id_/http%3A//www.giantfood.com/customer_service/privacy_policy/index.htm%3Flinkid%3DF) for the most accurate reproduction.*
 
 # Customer Service - Giant
 
