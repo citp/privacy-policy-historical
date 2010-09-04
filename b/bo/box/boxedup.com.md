@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxedup.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619093108id_/http%3A//www.boxedup.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxedup.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904165047id_/http%3A//www.boxedup.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # boxedup.com - universal social wish list (wishlist), gift list and shopping list
 
