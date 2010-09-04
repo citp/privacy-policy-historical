@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectinnerspace.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620141830id_/http%3A//www.projectinnerspace.org/wp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectinnerspace.org privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905003240id_/http%3A//www.projectinnerspace.org/wp/privacy-policy) for the most accurate reproduction.*
 
 # Project Inner Space - Privacy Policy
 
