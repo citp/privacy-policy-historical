@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129094116id_/http%3A//www.eway.com.au/about/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904182225id_/http%3A//www.eway.com.au/about-eway-payment-service-provider/company/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | eWAY Internet Payment Gateway
 
@@ -6,7 +6,7 @@ eWAY regards customer privacy as an important part of our relationship with our 
 
 [ ](http://www.truste.org/ivalidate.php?url=www.eway.com.au&sealid=101)
 
-**Last Updated:** 18th January 2010 
+**Last Updated:** 28th June 2010 
 
 eWAY is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.eway.com.au](http://www.eway.com.au/) Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -38,7 +38,7 @@ We use cookies in the following ways:
 
 When you register for any of eWAY's services, we use cookies to make it easier for you to navigate through and complete the registration form. 
 
-When you login to your eWAY [Business Centre](https://www.eway.com.au/join/), we use cookies to easily authorise your credentials as you navigate through our secure pages. 
+When you login to your eWAY [Business Centre](https://www.eway.com.au/bc/login.aspx), we use cookies to easily authorise your credentials as you navigate through our secure pages. 
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as our administration area, may be limited. 
 
@@ -67,8 +67,6 @@ eWAY does not share any information with third parties for any unknown or unrela
 Our third party advertising partner, Google Adwords, employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
 To learn more about our advertising company's use of clear gifs, please go to [https://adwords.google.com](https://adwords.google.com/ "Google Adwords")
-
-eWAY is a member of clixGalore, an affiliate program run by a third party on behalf of eWAY.  Affiliates that join this program receive monetary compensation for any new eWAY merchants that they refer.  Any information collected by these affiliates or clixGalore is outside the scope of this privacy policy.  Please refer to [clixGalore](http://www.clixgalore.com/privacy.asp "ClixGalore") for more information regarding their own privacy policy.
 
 If you use the eWAY forum on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
