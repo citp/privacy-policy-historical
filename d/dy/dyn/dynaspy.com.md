@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dynaspy.com privacy policy that was archived on 2008-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080404182421id_/http%3A//www.dynaspy.com/privacy.php%3FosCsid%3Dtciev1b0k5gi7jjlp7qf6a4v97) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynaspy.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904144341id_/http%3A//www.dynaspy.com/privacy.php%3FosCsid%3D9iruum2jm957pgtpsvnv84vho1) for the most accurate reproduction.*
 
-# Welcome to DynaSpy. We offer spy camera, nanny cam, covert cameras, hidden camera, and more at DynaSpy.com
+# Spy Equipment | Spy Cameras | Spy Gear | Spy Store
 
 **DynaSpy.com** takes your privacy seriously! We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
