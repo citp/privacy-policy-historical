@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10bestdatingsites.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410050553id_/http%3A//www.top10bestdatingsites.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10bestdatingsites.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904165209id_/http%3A//www.top10bestdatingsites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ The information we collect is used for review and then removed and discarded. It
 
 In regards to cookies: We use cookies to ensure visitors are not repeatedly shown the same information and to direct visitors to the correct location.
 
-If you don't want to receive e-mails from us now or in the future, please contact us via [contact@TheTop10BestOnlineDating.com](mailto:contact@TheTop10BestOnlineDating.com)
+If you don't want to receive e-mails from us now or in the future, please contact us via [contact@Top10BestDatingSites.com](mailto:contact@Top10BestDatingSites.com)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
@@ -18,4 +18,4 @@ Upon request we provide site visitors with access to all information [including 
 
 In regards to security: We always use industry standard encryption technology when transferring and receiving consumer data exchanged with our site.
 
-If you believe that this website is not following its stated privacy policy, please contact us at [contact@TheTop10BestOnlineDating.com](mailto:contact@TheTop10BestOnlineDating.com)
+If you believe that this website is not following its stated privacy policy, please contact us at [contact@Top10BestDatingSites.com](mailto:contact@Top10BestDatingSites.com)
