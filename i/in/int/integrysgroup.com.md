@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integrysgroup.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608114803id_/http%3A//www.integrysgroup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integrysgroup.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904235008id_/http%3A//www.integrysgroup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy (Integrys Energy Group)
 
