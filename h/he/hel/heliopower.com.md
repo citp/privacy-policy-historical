@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heliopower.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505003828id_/http%3A//www.heliopower.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heliopower.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904160053id_/http%3A//www.heliopower.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HelioPower
 
