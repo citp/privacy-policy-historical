@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117071457id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905184428id_/http%3A//www.media-match.com/usa/privacy.php) for the most accurate reproduction.*
 
 # Directory Of Film And Tv Jobs In The Usa Updated Daily | Register Online Profile | Post Jobs | Www.media-match.com
 
