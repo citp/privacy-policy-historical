@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thrifty.co.uk privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608103708id_/http%3A//www.thrifty.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.co.uk privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905055235id_/http%3A//www.thrifty.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Thrifty Car Rental
 
 **Collection of your Personal Information**
 
-The collection of personal data is necessary to rent a car. We ask for your name, address, telephone number and email address. This helps us to process your booking, to contact you if we have any problems with your request or to send you an electronic confirmation of the booking. We gather this information from our Web Site and share this with our Licensees who will provide you the vehicle. 
+The collection of personal data is necessary to rent a car. We ask for your name, address, telephone number and email address. This helps us to process your booking, to contact you if we have any problems with your request or to send you an electronic confirmation of the booking. We gather this information from our Web Site and share this with our Locations who will provide you the vehicle. 
 
 **Use of your Personal Information**
 
@@ -24,8 +24,7 @@ Customers are welcome to see the personal details records held about them at any
 
 The Marketing Department,  
 Thrifty Car Rental  
-Scot Group Ltd  
-Flightform House  
+Scot House  
 Halifax Road  
 Cressex Business Park  
 High Wycombe  
@@ -33,7 +32,7 @@ HP12 3SN
 
 **Your Consent**
 
-By accessing the Web Site or by entering into a rental agreement with us, or with our Licensees, and by giving us your personal details, you are agreeing to the collection, storage and processing of your personal information by Thrifty. 
+By accessing the Web Site or by entering into a rental agreement with us and by giving us your personal details, you are agreeing to the collection, storage and processing of your personal information by Thrifty. 
 
 **Policy Changes**
 
