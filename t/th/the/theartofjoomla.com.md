@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartofjoomla.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627220621id_/http%3A//www.theartofjoomla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartofjoomla.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905044514id_/http%3A//theartofjoomla.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,12 +8,10 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect**
 
-This notice applies to all information collected or submitted on this website. On some pages, you can contact us or subscribe to email list. The types of personal information collected at these pages includes:
+This notice applies to all information collected or submitted on this website. On some pages, you can contact us. The types of personal information collected at these pages includes:
 
 Name  
-Address  
-Email address  
-Phone number
+Email address
 
 **The Way We Use Information**
 
