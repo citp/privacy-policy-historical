@@ -1,55 +1,45 @@
-> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530080605id_/http%3A//www.wowko.com/page.html%3Fid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905184608id_/http%3A//www.wowko.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Wowko.com, Buy wow gold,world of warcraft gold,Lineage II Adena,EverQuest II,EvE Online,FFXI Gil,Star Wars,Diablo II Items and more.....
+# Privacy Policy | Wowko.com
 
-### ACCEPTANCE OF TERMS
-
-By using this Site, you signify your acceptance of the terms of Wowko's Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit the Site immediately. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes.
-
-### INFORMATION SUBMITTED AND COLLECTED; USE OF INFORMATION
-
-#### Personal Information
-
-When you use Wowko.com (the "Site"), we will ask you when we need information that personally identifies you (personal information) or allows us to contact you, such as your name, address, telephone numbers, and email address. Generally this information is requested when you make an online purchase,equest technical support, or submit ideas or suggestions. When making online purchases or when establishing a credit line account with us, we will also collect financial information, such as your credit card number and expiration date, bank and credit references.
-
-#### Use Of Personal Information
-
-We use your personal information for the following primary purposes:
-
-  * to make the Site easier for you to use by not having to enter information more than once;
-  * to complete online purchase transactions and process applications for a credit line account; 
-  * to respond to your technical support requests; 
-  * to remember the contents of your shopping cart from session to session so that you may continue shopping where you left off;
-  * to evaluate and respond to your ideas or suggestions;
-  * to analyze your use of the Site and purchases of our products to make our marketing efforts more effective and improve our product offerings to you;
-  * From time to time, we may also alert you to product upgrades, special offers, updated information and other new services from Wowko, unless you request otherwise.
+  * About Privacy
+  * WOWKO.COM Privacy Policy
+  * INFORMATION COLLECTION AND USE
+  * DATA SECURITY
 
 
 
-Unless otherwise stated on the Site, Wowko will not share your personal information with other companies except for associated financial institutions in order to verify credit information for an online purchase or establishment of an account. Wowko will disclose your personal information only in special cases, such as (i) to comply with valid legal requirements, such as a law, regulation; or (ii) when Wowko has reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who, intentionally or unintentionally, may be causing injury or harm to Wowko.com users or other persons or violating the Terms and Conditions of Use for this Site.
+About Privacy
+    Wowko respects your privacy and secures your online safety seriously. In order to provide you with the best products, efficient customer service, and fast updates, we record a variety of information from your visit to our site. To better protect your privacy, we’d like to explain our online information practices and the way your information is collected and used.
+WOWKO.COM Privacy Policy
+    Thank you for accessing the website of WOWKO (site address: [www.wowko.com](http://www.wowko.com/)). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice
+    This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
+    This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non- wowko.com website to which this Site links to or that links to our site.
+INFORMATION COLLECTION AND USE
+    1\. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:   
 
-In the event that Wowko, or any component of Wowko's operations, is merged with, or is acquired by, another entity, then any such successor or acquiring entity may become the successor to our obligations with respect to the personal information that you have provided to Wowko, which would be necessary for the entity to effectively continue Wowko's business. By using this Site, you consent to any such use of your personal information by such an entity assuming control of Wowko's operations as a result of a merger, purchase of Wowko assets, or liquidation of Wowko in bankruptcy or insolvency.
 
-You can use most of the Site without providing personal information; however, you will need to provide personal information in order to make online purchases, request literature or technical support, or see product price and availability information.
+  * Help make this Site easier for you to use by not having to enter information once again.
+  * Help you quickly find information, products, and services.
+  * Help us create content on this Site that is most relevant to you.
+  * Alert you to new information, products, and services that we offer.
 
-If you do not want Wowko to communicate with you about other offers regarding Wowko products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option when prompted stating that you do not wish to receive marketing messages from Wowko.
 
-### Non-Personally Identifiable Information
+  * (a) Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete online registration. During registration, you will be prompted to provide us with certain personal information, including your name, living address, gender, phone number, email address. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we may use the personal information you provide to contact you.
+  * (b) Email Addresses. Several locations of the Site permit you to enter your email address for purposes including: free promotional notices; to answer your request to inform you with a new product; to sign up for our email newsletter.
+  * (c) Cookies and Other Technology. Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
+  * (d) Log Files. As is true of most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
+  * (e) Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
 
-#### Cookies
 
-When you enter the Site, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code (a few kilobytes) that contains no personal information. This code is uniquely yours and allows you to navigate the Site without having to fill out registration forms with information you have already provided as long as you are using the same computer from which you initially supplied the information. Two other cookies are also written to your hard disk at various times you are navigating our Site that allow us to remember what is in your on-line shopping cart and provide you with the proper pricing for your location. Additionally, if you are interrupted before finalizing an on-line purchase, your order contents will be preserved for up to two weeks. Your credit card number is not retained in our database. Should you delete these cookies from your computer, you would simply have to provide your contact information again where a form is presented and you would lose the contents of your shopping cart. Should you decide to set your browser to reject cookies, you can still browse the Site, but on-line ordering and item prices will not be available.
+     2\. Information Use and Disclosure.   
 
-We do not engage in list selling or "cookie swapping" with other companies.
 
-### lINKS
+  * (a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site. 
+  * (b) Communications with You: We will use your personal information to communicate with you about our site, and your orders and deliveries. Also, we may send you a confirmation email when you register with us.
+  * (c) External Use. We want to provide you with excellent service and to offer you a great selection — we primarily sell merchandise, not information. We do not sell, rent, trade, license, or otherwise disclose your specific personal information or financial information to anyone.
 
-This Site contains hyperlinks to other sites. Wowko is not responsible for the privacy practices or the content of such sites, including any sites that may indicate a special relationship or partnership with Wowko. The linked sites may collect personal information from you when you link to the site. This collecting of information is not subject to Wowko's control. To ensure protection of your privacy, always review the privacy policy of the sites you visit by linking from our Site.
 
-### SECURITY
-
-Wowko has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. During online ordering, sensitive information.
-
-### NOTIFICATION OF CHANGES
-
-This Privacy Policy may be revised over time as new features are added to the Site or as Internet security and privacy standards evolve. We will post those changes prominently so you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Policy each time you use the Site, in case you missed our notice of changes to the Privacy Policy.
+DATA SECURITY
+    This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
+    While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
