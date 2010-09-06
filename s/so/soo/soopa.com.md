@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soopa.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413180120id_/http%3A//www.soopa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soopa.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906100829id_/http%3A//www.soopa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
