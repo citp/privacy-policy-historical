@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iboats.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531034107id_/http%3A//www.iboats.com/aboutus_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iboats.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906094735id_/http%3A//www.iboats.com/aboutus_privacy.html) for the most accurate reproduction.*
 
 # About iboats.com - Privacy Policies
 
