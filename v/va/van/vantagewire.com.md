@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vantagewire.com privacy policy that was archived on 2010-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100509020355id_/http%3A//www.vantagewire.com%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagewire.com privacy policy that was archived on 2010-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100907003814id_/http%3A//www.vantagewire.com%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # VantageWire - Free Realtime Stock Quotes for TSX, TSX-V, NYSE, Nasdaq, Amex and OTCBB - Privacy Policy
 
