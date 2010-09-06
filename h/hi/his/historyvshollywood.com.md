@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historyvshollywood.com privacy policy that was archived on 2005-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050517025751id_/http%3A//www.historyvshollywood.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyvshollywood.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906123056id_/http%3A//www.historyvshollywood.com/privacy.htm) for the most accurate reproduction.*
 
 # ChasingtheFrog.com PRIVACY POLICY
 
