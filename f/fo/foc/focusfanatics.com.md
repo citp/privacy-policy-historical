@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focusfanatics.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528140441id_/http%3A//www.focusfanatics.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusfanatics.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906020529id_/http%3A//www.focusfanatics.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Focus Fanatics - Privacy Policy
 
