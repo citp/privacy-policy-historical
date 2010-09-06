@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessknowledgesource.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630182716id_/http%3A//www.businessknowledgesource.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessknowledgesource.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906112803id_/http%3A//www.businessknowledgesource.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy-BusinessKnowledgeSource
 
