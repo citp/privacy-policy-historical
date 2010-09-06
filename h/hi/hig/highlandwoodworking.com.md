@@ -1,7 +1,25 @@
-> *The following text is extracted and transformed from the highlandwoodworking.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526020037id_/http%3A//www.highlandwoodworking.com/highland-woodworkings-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlandwoodworking.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906144913id_/http%3A//www.highlandwoodworking.com/highland-woodworkings-privacy-statement.aspx) for the most accurate reproduction.*
 
 # Highland Woodworking's Privacy Statement
 
+|  [ tips on searching...](https://web.archive.org/search-help-page.aspx)
+
+search for articles and information... 
+
+|   
+---  
+[   
+](https://web.archive.org/cart.aspx)  
+---  
+  
+**HIGHLAND WOODWORKING** has been a dependable source for woodworking tools, books, supplies and education for over 30 years, and is family owned and operated. We invite you to visit our Highland [**Woodworking Tool Blog**](http://www.highlandwoodworking-blog.com/weblog).
+
+[**Highland Affiliate Program**](https://www.highlandwoodworking.com/index.asp?PageAction=Custom&ID=131)  
+Highland Woodworking Tools Affiliate Program! Give your visitors access to one of woodworking's most experienced and trusted tool retailers.   
+[**Become an affiliate member**](https://www.highlandwoodworking.com/index.asp?PageAction=Custom&ID=131) of our woodworking team and earn sale commissions while establishing name recognition for your own site.
+
+| | |   
+---|---|---  
 | 
 
 Your Privacy
@@ -41,4 +59,26 @@ or you can reach us by telephone at 800-241-6748
 
 
 
-| 
+|   
+| |   
+[](https://www.mcafeesecure.com/RatingVerify?ref=highlandwoodworking.com)   
+|   
+---  
+  
+
+[ ](https://web.archive.org/festool-power-tools.aspx)
+
+[   
+](https://web.archive.org/fein-power-tools.aspx) [   
+](https://web.archive.org/spax-unidrive-wood-screws.aspx)
+
+[ ](https://web.archive.org/steel-city-power-tools.aspx)
+
+[   
+](https://web.archive.org/login.aspx?list&id=1061319)  
+---  
+     
+
+[ ](https://web.archive.org/web/20100906144913id_/http%3A//www.highlandwoodworking.com/saw-sharpening-service.aspx)
+
+[ ](http://www.youtube.com/user/highland1045 "Highland Woodworking Videos")
