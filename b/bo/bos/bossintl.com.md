@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bossintl.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310193333id_/http%3A//www.bossintl.com/privacy_policy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossintl.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906141329id_/http%3A//www.bossintl.com/privacy_policy_statement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
