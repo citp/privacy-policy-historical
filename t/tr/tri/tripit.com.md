@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607034113id_/http%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906085744id_/http%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
 
 # TripIt | Online travel itinerary and trip planner
 
@@ -43,8 +43,6 @@ We utilize an import contacts feature to help you keep in touch with your contac
 _Facebook Connect_
 
 The TripIt Site allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends' News Feeds. If you are already logged into TripIt and Facebook, when you click on "Connect with Facebook" you will be prompted to merge your profiles. If you are already logged into TripIt but not logged into Facebook, when you click on "Connect with Facebook" you will be prompted to enter your Facebook credentials or to "Sign up for Facebook." By proceeding, you are allowing the TripIt Site to access your information and you are agreeing to the Facebook Terms of Use in your use of TripIt Sites. 
-
-Conversely, if you are not currently registered as a TripIt user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join TripIt. Once you register on the TripIt site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into your account and going to settings, "About Me", “Linked Accounts” and then unselecting "Facebook" Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect your TripIt activity stream by visiting the Facebook Application Settings page. 
 
 Conversely, if you are not currently registered as a TripIt user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join TripIt. Once you register on the TripIt site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into your account and going to settings, "About Me", “Linked Accounts” and then unselecting "Facebook" Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect your TripIt activity stream by visiting the Facebook Application Settings page. 
 
