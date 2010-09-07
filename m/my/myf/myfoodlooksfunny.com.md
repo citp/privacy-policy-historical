@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the myfoodlooksfunny.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629013824id_/http%3A//icanhascheezburger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoodlooksfunny.com privacy policy that was archived on 2010-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100908005103id_/http%3A//corp.cheezburger.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice - Lolcats 'n' Funny Pictures of Cats - I Can Has Cheezburger?
-
-  
-
+# Privacy Notice « Cheezburger Network
 
 Last Updated: September 21, 2009
 
@@ -37,8 +34,4 @@ We use cookies, clear gifs, and log file information to: (a) store information s
 
 2\. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies in the browser settings if you prefer. If you choose to decline cookies, you may not be able to sign in or use other Website features or services that depend on cookies. If you choose to accept cookies, your browser may allow you to delete cookies that you have accepted at a later date. 
 
-3\. We may allow third-party advertising companies and networks to serve cookies on the Website and to serve ads to you when you visit the Websites. These companies and networks may use the log file information and/or information collected by cookies, Web beacons and similar technologies to provide advertisements about goods and services that they believe may be of interest to you. If you would like to prevent certain third parties from collecting and using such information (i.e., opt-out), or would like more information about these practices and to understand your choices regarding use of this information by these companies, you may visit http://www.networkadvertising.org/managing/opt_out.asp. 
-
-[Incorrect source or offensive?](mailto:icanhascheezburger+copyright+icanhascheezburger@gmail.com?subject=Correction%20regarding%20icanhascheezburger%20Post%20ID:10257&body=http://icanhascheezburger.com/privacy-policy/)
-
-This lolcat or funny picture was posted on Wednesday, September 26th, 2007 at 12:52 pm. Comments r currently, closed. Sry. 
+3\. We may allow third-party advertising companies and networks to serve cookies on the Website and to serve ads to you when you visit the Websites. These companies and networks may use the log file information and/or information collected by cookies, Web beacons and similar technologies to provide advertisements about goods and services that they believe may be of interest to you. If you would like to prevent certain third parties from collecting and using such information (i.e., opt-out), or would like more information about these practices and to understand your choices regarding use of this information by these companies, you may visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
