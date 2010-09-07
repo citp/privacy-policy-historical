@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301031336id_/http%3A//www.frontrush.com/web/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2010-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100907205322id_/http%3A//www.frontrush.com/web/company/privacypolicy/index.html) for the most accurate reproduction.*
 
-# Front Rush : Privacy Policy
+# Privacy Policy: Front Rush
 
 **Front Rush Privacy Statement**  
 Front Rush LLC ("Front Rush") respects your privacy and has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. This policy governs web sites owned and operated by Front Rush, including www.frontrush.com. We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address. By using this Site, you agree to this Privacy Policy.
@@ -18,8 +18,6 @@ Customers of the Service will be using the Site to host data and information ("D
 Front Rush will not sell or rent your personal information, or Data, including customer e-mail addresses, to anyone. Front Rush may disclose and transfer the information obtained from you through this Site or the Service as part of a merger, acquisition or other sale of its assets or business.
 
 We may be legally obligated to disclose information to the government or to third parties under certain circumstances, such as illegal activity on our Site. Front Rush reserves the right to release personal information to its service providers, law enforcement or other government officials or in response to a formal request in a civil action, as Front Rush, in our sole and absolute discretion, deems necessary or appropriate.
-
-We may also provide Aggregated Information to third parties. Such information will not include personal information of any customer or visitor.
 
 Front Rush reserves the right to send customers certain communications relating to the Service, such as service announcements and administrative messages, that are considered part of your account, without offering you the opportunity to opt-out of receiving them.
 
@@ -41,8 +39,8 @@ The security of your personal information and Data is important to us. When you 
 
 Front Rush uses small gif images within emails to recover information about the e-mails sent by our customers. Front Rush uses these items to record and store information such as the date and time the recipient viewed the e-mail message and other logging information. Front Rush uses this information to provide information to customers with respect to e-mails they send through the Front Rush tool.
 
-**Changes to this Statement**
+**Changes to this Statement**  
+Front Rush may update this Statement at any time, so please review it frequently. If we make material changes to this Statement, we will notify you in this Statement, by email or by a notice posted on the home page of the Site.
 
-Front Rush may update this Statement at any time, so please review it frequently. If we make material changes to this Statement, we will notify you in this Statement, by email or by a notice posted on the home page of the Site. Questions?
-
+**Questions?**  
 If you have any questions about this Statement or the practices of this Site, please contact us at info@frontrush.com. You may also write to us at Front Rush LLC, 350 S Main St Ste 215 Doylestown PA 18901 or call 866.634.1186. 
