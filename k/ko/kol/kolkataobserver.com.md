@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kolkataobserver.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505194801id_/http%3A//kolkataobserver.com/%3Fpage_id%3D1372) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolkataobserver.com privacy policy that was archived on 2010-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100907025200id_/http%3A//kolkataobserver.com/privacy-policy) for the most accurate reproduction.*
 
 # kolkataObserver » Privacy Policy
 
