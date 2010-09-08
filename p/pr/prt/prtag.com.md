@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prtag.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605130449id_/http%3A//www.prtag.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prtag.com privacy policy that was archived on 2010-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100908082847id_/http%3A//www.prtag.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy: Domains With Pagerank
 
