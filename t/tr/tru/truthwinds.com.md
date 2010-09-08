@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthwinds.com privacy policy that was archived on 2009-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090810181211id_/http%3A//truthwinds.com/siterun_static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthwinds.com privacy policy that was archived on 2010-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100908030643id_/http%3A//www.truthwinds.com/siterun_static/privacy) for the most accurate reproduction.*
 
 # Privacy >> Four Winds 10 - fourwinds10.com
 
