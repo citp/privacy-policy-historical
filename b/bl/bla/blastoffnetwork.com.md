@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastoffnetwork.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606091601id_/http%3A//blastoffnetwork.com%3Fpage_id%3D509) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastoffnetwork.com privacy policy that was archived on 2010-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100908082447id_/http%3A//blastoffnetwork.com%3Fpage_id%3D509) for the most accurate reproduction.*
 
 # Privacy Policy « Blastoff Network
 
