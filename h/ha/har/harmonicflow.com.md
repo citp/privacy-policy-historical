@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harmonicflow.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131085124id_/http%3A//www.harmonicflow.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonicflow.com privacy policy that was archived on 2010-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100909015121id_/http%3A//www.harmonicflow.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Harmonic Flow - Privacy Policy
 
