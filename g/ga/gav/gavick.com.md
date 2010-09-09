@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610183225id_/http%3A//www.gavick.com/component/content/article/126.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2010-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100909204115id_/http%3A//www.gavick.com/component/content/article/126.html) for the most accurate reproduction.*
 
 # Privacy Policy - GavickPro - Professional Joomla Templates, Themes
 
