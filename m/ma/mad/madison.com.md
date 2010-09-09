@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madison.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511011214id_/http%3A//host.madison.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madison.com privacy policy that was archived on 2010-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100910005159id_/http%3A//host.madison.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
