@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techvibes.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526093644id_/http%3A//www.techvibes.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techvibes.com privacy policy that was archived on 2010-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100910014215id_/http%3A//www.techvibes.com/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techvibes.com
 
