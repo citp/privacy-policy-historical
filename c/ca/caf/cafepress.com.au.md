@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cafepress.com.au privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628100759id_/http%3A//www.cafepress.com.au/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.com.au privacy policy that was archived on 2010-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100909234722id_/http%3A//www.cafepress.com.au/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Customer Service : Privacy Policy
 
-[RetroGod.com - T-shirts that don't suck!](https://web.archive.org/cp/store.aspx?s=retrogod.0) > **Customer Service**
+[Austin Animal Art & Photography](https://web.archive.org/cp/store.aspx?s=aaap.0) > **Customer Service**
 
 **Effective Date: September 1, 2009**
 
