@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrs2be.ie privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308021226id_/http%3A//www.mrs2be.ie/site/messages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrs2be.ie privacy policy that was archived on 2010-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100910131807id_/http%3A//www.mrs2be.ie/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | messages | site
+# Privacy Policy
 
 **Our Commitment to User Privacy**  
 At Mrs2be.ie, we take user privacy protection very seriously. Our privacy policy was developed as part of our commitment to deliver a quality service while maintaining integrity in all our dealings with our users.
