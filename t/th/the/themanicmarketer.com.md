@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themanicmarketer.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610180153id_/http%3A//www.themanicmarketer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themanicmarketer.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912002647id_/http%3A//themanicmarketer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,3 +71,5 @@ Please send any questions about TheManicMarketer’s Privacy Policy to: mailto: 
 Please note that your use of the TheManicMarketer network is governed by our terms and conditions.
 
 (Revised December 10th, 2008)
+
+\---
