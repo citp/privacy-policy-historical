@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the jcrew.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527025705id_/http%3A//www.jcrew.com/AST/FooterNavigation/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcrew.com privacy policy that was archived on 2010-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100911083005id_/http%3A//www.jcrew.com/footer/privacy.jsp) for the most accurate reproduction.*
 
 # Help-Privacy Policy
 
-PLEASE NOTE that our privacy policy has changed, effective February 25, 2010.
+PLEASE NOTE that our privacy policy has changed, effective June 23, 2010.
 
-J. Crew Group, Inc. and our family of brands, which include, but are not limited to J. Crew, crewcuts and Madewell (collectively, "J. Crew") collect customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting any of our websites, or providing your information to us, you are accepting the practices described in this privacy policy.
+J.Crew Group, Inc. and our family of brands, which include, but are not limited to J.Crew, crewcuts and Madewell (collectively, "J.Crew") collect customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting any of our websites, or providing your information to us, you are accepting the practices described in this privacy policy.
 
   * information we collect about you
-  * customized advertising (behavioral marketing)
+  * your California rights
   * how we use this information
+  * customized advertising (behavioral marketing)
   * marketing email communications
   * changing address or catalog preferences
   * your online account
@@ -24,13 +25,13 @@ J. Crew Group, Inc. and our family of brands, which include, but are not limited
 
 ## information we collect about you
 
-Any personal information you provide to us is maintained on secure servers and our internal systems. We collect information when you register online or update your account, log-in, place an order, opt-in to receive our emails, shop online, request a catalog, participate in a sweepstakes, contest, promotion or survey, join our social networking sites, or apply for a J. Crew credit card. We may also collect information from you in our stores or through our catalogs or other marketing material. This information may include, but is not limited to, your contact information (for example, your name, email address, billing and shipping addresses and phone number) and your credit card information. If you create an online account, you also have the option of providing your product preferences and demographic information. If you use our "email this style to a friend" functionality found on all product pages, or if you choose to send an email from our site to a friend, we will also collect your friend's name and email address. Your friend’s information is only used to send the forwarding email and is not saved in our customer or marketing databases.
+Any personal information you provide to us is maintained on secure servers and our internal systems. We collect information when you register online or update your account, log-in, place an order, communicate online with our customer service representatives, opt-in to receive our emails, shop online, request a catalog, participate in a sweepstakes, contest, promotion or survey, join our social networking sites, or apply for a J.Crew credit card. We may also collect information from you in our stores or through our catalogs or other marketing material. This information may include, but is not limited to, your contact information (for example, your name, email address, billing and shipping addresses and phone number) and your credit card information. If you create an online account, you also have the option of providing your product preferences and demographic information. If you use our "email this style to a friend" functionality found on all product pages, or if you choose to send an email from our site to a friend, we will also collect your friend's name and email address. Your friend’s information is only used to send the forwarding email and is not saved in our customer or marketing databases.
 
-## customized advertising (behavioral marketing)
+## your California rights
 
-J. Crew collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of J. Crew who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
+J.Crew collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of J.Crew who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
-J. Crew Customer Relations  
+J.Crew Customer Relations  
 One Ivy Crescent  
 Lynchburg, VA 24513-1001
 
@@ -41,7 +42,7 @@ Alternatively, you may send us an email at [contactus@jcrew.com ](mailto:contact
 When you supply your postal address, either when requesting a catalog or placing an order, you may receive catalogs by mail from us. We also occasionally make our postal list available for limited use by unaffiliated third parties.  
 When you place an order on any of our websites, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order confirmation and shipping status emails. 
 
-We also maintain a record of your purchases made on any of our websites and combine this with information you have provided in our retail stores or over the phone in order to serve you better. We may combine information you provide with demographic information and information that is publicly available. We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience. 
+We also maintain a record of your purchases made on any of our websites and combine this with information you have provided in our retail stores or over the phone in order to serve you better. We may combine information you provide with demographic information and information that is publicly available. We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience. If you communicate online with our customer service representatives, we will use the information you convey to respond to your requests and serve you better.
 
 When we offer sweepstakes, contests, promotions or surveys, you may be required to provide certain personal information so we can notify winners and/or fulfill promotional obligations. In these instances, you have the option to receive emails or other communications from us regarding our products, services, contests, and promotions. Even if you have previously chosen not to receive email or postal mail from us, you may still receive information as it relates to the sweepstakes, contest, promotion or survey in which you have participated.   
 We may also share your information, including, without limitation, your email address (but not your credit card information) with unaffiliated third parties that would enable them to contact you about products or services you may be interested in.
@@ -50,17 +51,17 @@ In the unlikely event of a sale of some or all of our business, J.Crew may discl
 
 You should also be aware that we may disclose specific information about you if required to do so by law, governmental request, process or court order or based on our good faith belief that it is necessary to conform or comply with such law, request or court order or to protect the users of our websites or the public. 
 
-## your California rights
+## customized advertising (behavioral marketing)
 
 Advertisements displayed to you on our websites and elsewhere on the Web may be customized to your interests and preferences, based on information learned about you as you use our websites and the Web in general. If you do not want to participate in this, please visit <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out. 
 
 ## marketing email communications
 
-At various points on our websites, you have the option to join our email list and receive information about our products, services and offers. Also, if you provide us with your email address when you register online or update your account, log-in, place an order, opt-in to receive our emails, shop online, request a catalog, participate in a sweepstakes, contest, promotion or survey, or apply for a J. Crew credit card, you may automatically be added to our email list and receive marketing or promotional information from us. 
+At various points on our websites, you have the option to join our email list and receive information about our products, services and offers. Also, if you provide us with your email address when you register online or update your account, log-in, place an order, make a customer service inquiry, opt-in to receive our emails, shop online, request a catalog, participate in a sweepstakes, contest, promotion or survey, or apply for a J.Crew credit card, you may automatically be added to our email list and receive marketing or promotional information from us. 
 
 If you do not wish to receive J.Crew or crewcuts marketing emails, you may opt out by clicking on the unsubscribe link found at the bottom of all J.Crew or crewcuts marketing emails, or you may email customer service at [contactus@jcrew.com](mailto:contactus@jcrew.com) with the following:
 
-  * The phrase "no J. Crew email" in the subject line
+  * The phrase "no J.Crew email" in the subject line
   * Your name and email address
 
 
@@ -93,7 +94,7 @@ Please be aware that it can take up to 10 business days to remove you from our m
 
 If you do not want to receive J.Crew catalogs, please send an email to [contactus@jcrew.com](mailto:contactus@jcrew.com) with the following:
 
-  * The phrase "no J. Crew catalog" in the subject line 
+  * The phrase "no J.Crew catalog" in the subject line 
   * Your name and your complete mailing address as it appears on your catalog
 
 
@@ -173,7 +174,7 @@ While we implement these and other security measures on our sites, please note t
 
 ## accessing our web sites from outside the US
 
-If you are visiting jcrew.com or madewell1937.com from a location outside of the United States, you will be connected through and to servers located within the United States. All online orders will be accepted and fully processed in and shipped from the United States and all information you provide will be securely maintained on web servers and our internal systems located within the United States. By providing your information to us, you agree that all personal information will be used in accordance with this privacy policy and pursuant to U.S. law. 
+If you are visiting jcrew.com or madewell.com from a location outside of the United States, you will be connected through and to servers located within the United States. All online orders will be accepted and fully processed in and shipped from the United States and all information you provide will be securely maintained on web servers and our internal systems located within the United States. By providing your information to us, you agree that all personal information will be used in accordance with this privacy policy and pursuant to U.S. law. 
 
 ## privacy policy updates
 
@@ -190,4 +191,4 @@ We may update our privacy policy from time to time. Whenever we make a change, w
 
 
 
-Effective as of February 25, 2010.
+Effective as of June 23, 2010.
