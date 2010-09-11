@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409111953id_/http%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2010-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100911050926id_/http%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
 
-# Vouchercloud
+# vouchercloud
 
 Vouchercloud values your privacy and is dedicated to safeguarding and preserving your privacy when using our application, visiting our website or communicating electronically with us.
 
