@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affportal.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503150318id_/http%3A//www.affportal.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affportal.com privacy policy that was archived on 2010-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100911224212id_/http%3A//www.affportal.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # AffPortal.com - Privacy Policy
 
