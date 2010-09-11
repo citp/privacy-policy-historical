@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172857id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2010-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100911104908id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement | National Library of Australia
 
@@ -21,7 +21,7 @@ When you look at this web site, we make a record of your visit and log the follo
 
 No attempt will be made to identify individual users or their browsing activities except in the event that it is reasonably necessary for the enforcement of criminal law. In the case of the latter, we will comply with the Privacy Principles of the _Privacy Act 1988_ (Cth) regarding the limits and protocols associated with disclosure of personal information.
 
-Some sites use "cookies" to track a particular user's access to a site. Cookies are not used on this site to gather information about users interact with this website with two exceptions:
+Some sites use "cookies" to track a particular user's access to a site. Cookies are not used on this site to gather information about users interactions with this website with two exceptions:
 
 1\. Within specific web-based applications, such as our online surveys, where they are used for session management purposes only.
 
@@ -51,6 +51,6 @@ We will only publish personal information on this site if it has been collected 
 
 ## Feedback
 
-We welcome [feedback](https://web.archive.org/web/20100526172857id_/http%3A//www.nla.gov.au/contact/) from users of this web site in relation to the site's design and practices, and to this Privacy Statement.
+We welcome [feedback](https://web.archive.org/web/20100911104908id_/http%3A//www.nla.gov.au/contact/) from users of this web site in relation to the site's design and practices, and to this Privacy Statement.
 
 Back to the top 
