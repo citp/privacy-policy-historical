@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreammanifesto.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531090535id_/http%3A//www.dreammanifesto.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammanifesto.com privacy policy that was archived on 2010-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100911055047id_/http%3A//www.dreammanifesto.com/privacy-statement) for the most accurate reproduction.*
 
 # Dream Manifesto - Privacy Statement
 
