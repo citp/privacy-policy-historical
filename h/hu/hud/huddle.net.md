@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612014241id_/http%3A//www.huddle.net/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913010401id_/http%3A//www.huddle.net/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement ~ About ~ Huddle
 
-Ninian Solutions Limited trading as Huddle is committed to preserving the privacy of all visitors to huddle.net. Please read the following privacy policy to understand how We use and protect the information that You provide to Us. Please also ensure that You have read and understood Our Terms of Use which You can find [here](https://web.archive.org/terms-and-conditions). Capitalized terms used in this Privacy Policy are defined in the [Terms of Use](https://web.archive.org/terms-and-conditions).
+Ninian Solutions Limited trading as Huddle is committed to preserving the privacy of all visitors to huddle.net. Please read the following privacy policy to understand how We use and protect the information that You provide to Us. Please also ensure that You have read and understood Our Terms of Use which You can find [here](https://web.archive.org/about/terms-and-conditions/). Capitalized terms used in this Privacy Policy are defined in the [Terms of Use](https://web.archive.org/about/terms-and-conditions/).
 
 **1.Information that we collect from  you**
 
