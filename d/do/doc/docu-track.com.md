@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the docu-track.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411202331id_/http%3A//www.docu-track.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docu-track.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912173345id_/http%3A//www.tracker-software.com/privacy) for the most accurate reproduction.*
 
-# Tracker Software Products :: Privacy
+# Tracker Software Products :: Privacy Policy Statement
 
 This is the web site of **Tracker Software Products (Canada) Ltd.**.
 
