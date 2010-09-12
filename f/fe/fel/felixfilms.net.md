@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the felixfilms.net privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619142535id_/http%3A//www.felixfilms.net/default/off/page/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the felixfilms.net privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912180348id_/http%3A//www.felixfilms.net/default/off/page/Privacy.html) for the most accurate reproduction.*
 
 # Felix Films Ltd - Privacy
 
@@ -22,9 +22,9 @@ Products
   | 
 
 Customer Accounts  
-[Customer Login](http://www.felixfilms.net/ingenii.cgi?session_login=yes&secure=yes&cart_id=iG1vLf.a7925)   
-[Lost Password](http://www.felixfilms.net/ingenii.cgi?lost_password=yes&secure=yes&cart_id=iG1vLf.a7925)   
-[Create an Account](http://www.felixfilms.net/ingenii.cgi?customer_register=yes&secure=yes&cart_id=iG1vLf.a7925)   
+[Customer Login](http://www.felixfilms.net/ingenii.cgi?session_login=yes&secure=yes&cart_id=zL2FGj.a7925)   
+[Lost Password](http://www.felixfilms.net/ingenii.cgi?lost_password=yes&secure=yes&cart_id=zL2FGj.a7925)   
+[Create an Account](http://www.felixfilms.net/ingenii.cgi?customer_register=yes&secure=yes&cart_id=zL2FGj.a7925)   
 [Benefits of Registering](https://web.archive.org/ingenii.cgi?page=Benefits_of_Registering.html)
 
 |    
@@ -35,8 +35,8 @@ Customer Accounts
 We Recommend
 
 [  
- **Stoke on film 1950's**  
-£ 9.99](https://web.archive.org/more/on/details/0115)
+ **North Wales Ghosts**  
+£ 9.99](https://web.archive.org/more/on/details/0048)
 
 |    
 |  |   
