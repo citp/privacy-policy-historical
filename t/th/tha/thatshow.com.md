@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thatshow.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530041138id_/http%3A//www.thatshow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatshow.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912203815id_/http%3A//www.thatshow.com/privacy) for the most accurate reproduction.*
 
 # ThatsHow.com How To Videos DIY Tutorials Video Tips Solutions Education Thats How!
 
-  
-ThatsHow.com is a Rated G website. All Content is reviewed daily. All Inappropriate material/content will be DELETED immediately. Please help thatshow keep it clean. Thank You   
-ThatsHow.com has created this policy to demonstrate our commitment to privacy. This site was designed so that no personal identifying information is displayed online or is accessibleto others unless designated by the user.
+ThatsHow.com is a Rated G website. All Content is reviewed daily. All Inappropriate material/content will be DELETED immediately. Please help thatshow keep it clean. Thank You ThatsHow.com has created this policy to demonstrate our commitment to privacy. This site was designed so that no personal identifying information is displayed online or is accessibleto others unless designated by the user. 
 
 Information Automatically Logged
 
@@ -36,4 +34,6 @@ We may use third-party advertising companies to serve ads when you visit our Web
 
 Disclaimer
 
-The content (videos, pics ect.) of this site is understood to be in the public domain unless it is explicitly stated to be copyrighted by ThatsHow.com. The non-copyrighted content is gathered from all over the world, most of which has been passed along by our visitors. ThatsHow.com is not responsible for copyright infringements. If you believe you hold the copyright to any material on this site, please contact us and we will remove it immediately. webmail@thatsHow.com
+The content (videos, pics ect.) of this site is understood to be in the public domain unless it is explicitly stated to be copyrighted by ThatsHow.com. The non-copyrighted content is gathered from all over the world, most of which has been passed along by our visitors. ThatsHow.com is not responsible for copyright infringements. If you believe you hold the copyright to any material on this site, please contact us and we will remove it immediately. All content must be appropriate for this site all inappropriate content will be removed. webmail@thatsHow.com
+
+Copyright (c) 2006-2009 ThatsHow.com How To Videos DIY Tutorials Video Tips Solutions Education Thats How!. All rights reserved. 
