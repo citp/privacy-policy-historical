@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidemdsports.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513211418id_/http%3A//www.insidemdsports.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D644%26Itemid%3D101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidemdsports.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913003151id_/http%3A//www.insidemdsports.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D644%26Itemid%3D101) for the most accurate reproduction.*
 
 # Privacy Policy
 
