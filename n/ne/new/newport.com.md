@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429004500id_/http%3A//www.newport.com/store/help.aspx%3Fid%3D215%26lang%3D1033) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912121846id_/http%3A//www.newport.com/content/default.aspx%3Fid%3D848) for the most accurate reproduction.*
 
-# Newport Corporation | store | help
+# Newport Corporation | Privacy Policy
 
-PRIVACY POLICY / INFORMATION SUBMITTED AND COLLECTED / USE OF INFORMATION
+**Privacy Policy / Information Submitted and Collected / Use of Information**
 
 It's important to Newport Corporation to help our customers and visitors to our web site retain their privacy when they take advantage of all the Internet has to offer.
 
 For more than 30 years, Newport has been an established manufacturer and market-leading supplier of test, measurement and inspection equipment. Our success is based upon being able to provide superior products at a fair price and in building long-term trust-based relationships with our customers. Newport's policies reflect these ideals to the extent that it's simply the way we do business. We've been protecting sensitive customer information for many more years than the Internet has been around. And while the Internet makes it easier to collect some of this information, it in no way diminishes our ability to protect it.
 
- **ACCEPTANCE OF TERMS**
+**Acceptance of Terms**
 
 By using this Site, you signify your acceptance of the terms of Newport's Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit the Site immediately. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes.
 
- **INFORMATION SUBMITTED AND COLLECTED; USE OF INFORMATION**
+Information Submitted and Collected; Use of Information
 
- _ **Personal Information**_
+**Personal Information**
 
 When you use Newport.com (the "Site"), we will ask you when we need information that personally identifies you (personal information) or allows us to contact you, such as your name, title, company affiliation, address, telephone numbers, and email address. Generally this information is requested when you make an online purchase, request literature, request a product return material authorization number (RMA#), request technical support, or submit ideas or suggestions. When making online purchases or when establishing a credit line account with us, we will also collect financial information, such as your credit card number and expiration date, bank and credit references.
 
- _Use of Personal Information_
+**Use of Personal Information**
 
 We use your personal information for the following primary purposes:
 
@@ -41,43 +41,37 @@ You can use most of the Site without providing personal information; however, yo
 
 If you do not want Newport to communicate with you about other offers regarding Newport products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option when prompted stating that you do not wish to receive marketing messages from Newport.
 
- _ **Non-Personally Identifiable Information**_
+**Non-Personally Identifiable Information**
 
- _Internet Protocol (IP) Address_
+**Internet Protocol (IP) Address**
 
 Every computer on the Internet is identified by a unique number called an Internet Protocol (IP) address. Each time you connect to the Internet, your machine is assigned an IP address. We use your IP address to help diagnose problems with the Site, more efficiently administer the Site and better tailor our Site to your needs, and analyze trends by gathering broad demographic information.
 
- _Cookies_
+**Cookies**
 
 When you enter the Site, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code (a few kilobytes) that contains no personal information. This code is uniquely yours and allows you to navigate the Site without having to fill out registration forms with information you have already provided as long as you are using the same computer from which you initially supplied the information. Two other cookies are also written to your hard disk at various times you are navigating our Site that allow us to remember what is in your on-line shopping cart and provide you with the proper pricing for your location. Additionally, if you are interrupted before finalizing an on-line purchase, your order contents will be preserved for up to two weeks. Your credit card number is not retained in our database. Should you delete these cookies from your computer, you would simply have to provide your contact information again where a form is presented and you would lose the contents of your shopping cart. Should you decide to set your browser to reject cookies, you can still browse the Site, but on-line ordering and item prices will not be available.
 
 We do not engage in list selling or "cookie swapping" with other companies.
 
- **LINKS**
+**Links**
 
 This Site contains hyperlinks to other sites. Newport is not responsible for the privacy practices or the content of such sites, including any sites that may indicate a special relationship or partnership with Newport. The linked sites may collect personal information from you when you link to the site. This collecting of information is not subject to Newport's control. To ensure protection of your privacy, always review the privacy policy of the sites you visit by linking from our Site.
 
- **SECURITY**
+**Security**
 
 Newport has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. During online ordering, sensitive information, such as your credit card number, is encrypted and protected during transmission using the latest SSL security technology.
 
- **NOTIFICATION OF CHANGES**
+**Notification of Changes**
 
 This Privacy Policy may be revised over time as new features are added to the Site or as Internet security and privacy standards evolve. We will post those changes prominently so you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Policy each time you use the Site, in case you missed our notice of changes to the Privacy Policy.
 
- **CONTACTING US**
+**Contacting Us**
 
 If for some reason you believe Newport has not adhered to this Privacy Policy, or if you have questions regarding this Privacy Policy, please contact Newport at:
 
-> Newport Corporation  
->  1791 Deere Avenue  
->  Irvine, California 92606  
->  Attention: Legal Department  
->  (949) 863-3144  
-> [legal@newport.com](mailto:legal@newport.com)  
-> 
+Newport Corporation  
+1791 Deere Avenue  
+Irvine, CA 92606  
+Attention: Legal Department  
+(949) 863-3144  
 
-We will do our best to promptly respond to your concerns and correct any problems.
-
-  
- _Last Updated: October 30, 2001_
