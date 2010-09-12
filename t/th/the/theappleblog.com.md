@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theappleblog.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528114322id_/http%3A//theappleblog.com/privacy-policy/%3Futm_source%3Dtheappleblog%26utm_medium%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theappleblog.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912144954id_/http%3A//theappleblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TheAppleBlog
 
