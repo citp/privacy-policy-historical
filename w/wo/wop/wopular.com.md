@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wopular.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607123907id_/http%3A//www.wopular.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wopular.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912175310id_/http%3A//www.wopular.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WOPULAR
 
@@ -25,5 +25,3 @@ From time to time we may make changes to our privacy policy. If we make changes,
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](http://www.wopular.com/contact).
-
-SPONSORS
