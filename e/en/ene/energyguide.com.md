@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyguide.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504172325id_/http%3A//www.energyguide.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyguide.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913112142id_/https%3A//www.energyguide.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policies: ENERGYguide.com - Lower Your Energy Bills
 
