@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playboy.co.uk privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501194527id_/http%3A//www.playboy.co.uk/utilities/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboy.co.uk privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913085908id_/http%3A//www.playboy.co.uk/utilities/privacy) for the most accurate reproduction.*
 
 # Playboy - Privacy
 
