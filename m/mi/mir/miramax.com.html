@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the miramax.com privacy policy that was archived on 2010-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100308140824id_/http%3A//miramax.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miramax.com privacy policy that was archived on 2010-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100913055159id_/http%3A//www.miramax.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -94,6 +94,139 @@
     <div id="bg-top"></div>
 	<div class="bg-grad" id="grad"></div>
 	
+		<div class="searchMXBox">
+	<form id="MFinder-wrapper" action="">
+		<input type="text" onfocus="if(this.value =='Search for Films and More...')this.value ='';this.style.color='#FFFFFF'" autocomplete="off" onblur="resetCountBlur();" value="Search for Films and More..." name="Mfinder" id="Mfinder" class="findTextbox" style="color: rgb(255, 255, 255);">
+		<input type="image" onclick="goToSearchPage(0);return false;" value="Go" name="op" src="http://media.miramax.com/managed/searchButton.jpg" class="findButton">   
+	</form>
+	<!-- Search Suggest Overlay -->
+	<div id="suggestBox" class="search_suggest_overlay" style="display:none;">
+		<div class="hdr">Movie Title Matches:</div>
+		<div id="suggestResultsDiv"></div>
+		<div class="ftr">&nbsp;</div>
+	</div>
+		</div>
+		
+	<script type="text/javascript">
+	//<![CDATA[
+	
+	var prog = 3;
+	var progBlur = 4;
+	var suggestResult = "";
+	
+	var currentIdSuggestion = -1;
+	var suggestResponses = 0;
+	var tempStyle = "";
+	var ssTitles = new Array();
+			  
+	
+	function navStyle(val){
+		if(currentIdSuggestion ==-1){
+			currentIdSuggestion = 0;
+			tempStyle = "";
+		}else if(currentIdSuggestion >= suggestResponses-1 && val > 0){
+			currentIdSuggestion = currentIdSuggestion;
+		}else{
+			$("#sR"+currentIdSuggestion).css("background","");
+			currentIdSuggestion = currentIdSuggestion + (val);
+			tempStyle = "";
+		}
+		$("#sR"+currentIdSuggestion).css("background","#036AC7");
+	}
+	
+	function overSSLink(isOver, cId){
+		if(currentIdSuggestion != -1){
+			$("#sR"+currentIdSuggestion).css("background","");		
+		}
+		if(isOver == 1)
+			tempStyle = "";
+			$("#sR"+cId).css("background","#036AC7");
+		if(isOver == 0)
+			$("#sR"+cId).css("background","");
+	}
+	
+	function resetCount(){
+		prog = 0;
+		currentIdSuggestion = -1;
+		suggestResponses = 0;
+	}
+	
+	function resetCountBlur(){
+		progBlur =0;
+	}
+	
+	function countProgress(){
+		prog ++;
+		progBlur++;
+		search();
+	}
+	
+	function search(){
+		var valSearchBox = $("#Mfinder").val();
+	
+		if(valSearchBox == " ") return false;	
+		if(valSearchBox == "Search for Films and More...") return false;	
+		var suggestResults = "";
+		if (prog == 1 && valSearchBox!=""){		
+		valSearchBox = jQuery.trim(valSearchBox);
+		if(valSearchBox.substring(0,1) == "?" ||  valSearchBox.substring(0,1) == "*" || valSearchBox.substring(0,1) == " "){
+			valSearchBox = valSearchBox.substring(1);		
+		}
+		$("#suggestResultsDiv").html("<ul><li>searching for suggestions...</li></ul>");
+		$.Tache.Get({
+			type: "GET",
+			url:"/ajax/searchSuggest.action?searchText="+valSearchBox+"&fieldList=name,uriName",
+			dataType:"json",
+			success: function(responseObject){
+						suggestResults += "<ul>";
+						suggestResponses = responseObject.response.docs.length;
+						currentIdSuggestion = -1;
+						if(suggestResponses > 0){
+							for(i=0; i<responseObject.response.docs.length; i++){
+								ssTitles[i] = responseObject.response.docs[i].uriName;
+								suggestResults += "<a href=\"/"+responseObject.response.docs[i].uriName.replace(/-/g, '')+"/\"><div id='suggestion"+i+"' onclick=\"topHide('suggestBox');\" style='cursor:pointer;'>";					
+								if(i%2==0){
+									suggestResults +="<li class='odd' id='sR"+i+"' onmouseover='overSSLink(1,"+i+")' onmouseout='overSSLink(0,"+i+")'>";
+								}else{
+									suggestResults += "<li id='sR"+i+"' onmouseover='overSSLink(1,"+i+")' onmouseout='overSSLink(0,"+i+")'>";
+								}
+								suggestResults +="";
+								suggestResults += "<div style='width:90%;' id='suggestionR"+i+"'>"+responseObject.response.docs[i].name + "</div></li></div></a>";	
+							}
+					}else{
+						suggestResults += "<li>Click GO to perform your search!</li>";
+					}
+					suggestResults += "</ul>";
+					$("#suggestResultsDiv").html(suggestResults);
+					//alert(suggestResults);
+					return responseObject;
+	   		     }
+			});
+		//topShow("suggestBox");
+		$("#suggestBox").slideDown("slow");
+	
+		}
+		if(progBlur == 1){
+			$("#suggestBox").slideUp("slow");
+		}
+	}
+	
+	function goToSearchPage(isEnter){
+		if(currentIdSuggestion != -1 && isEnter == 1 ){
+			window.location = "/"+ssTitles[currentIdSuggestion]+".html";	
+		}else{
+			var valSearchBox = $("#Mfinder").val();
+			if(valSearchBox != "" && valSearchBox != " " && valSearchBox != "Search for Films and More...") {
+				window.location = "/search.html?q="+valSearchBox+"&rows=10&start=0&sort=closest";
+			} else {
+				return false;
+			}
+		}
+	}
+	
+	// Initialization of search module is done in the MainDecorator template because it relies on jQuery
+	//]]>
+	</script>
 
 	<!-- #content : start -->
 	<div id="content">
@@ -128,6 +261,12 @@
 
 
 
+     
+
+
+
+
+
 <div class="flyoutCurrent">
 			<a class="tabCurrent" href="/current.html"></a>
 			
@@ -135,6 +274,7 @@
 				<h3>Coming soon:</h3>
 				<ul>
 
+       <li><a href="/theswitch/">The Switch</a></li>
        <li><a href="/lastnight/">Last Night</a></li>
        <li><a href="/thedebt/">The Debt</a></li>
        <li><a href="/dontbeafraidofthedark/">Don't Be Afraid Of The Dark</a></li>
@@ -243,7 +383,7 @@ DVD
 				Adventureland
 			
 			</a> - 
-				Blu-ray &amp; DVD
+Blu-ray
 			</li>
 
 
@@ -256,15 +396,6 @@ DVD
 Blu-ray
 			</li>
 
-
-		
-
-			<li><a name="lid=header_module/top/AMERICAN SON/080929" href="/americanson/">
-				American Son
-			
-			</a> - 
-				Blu-ray &amp; DVD
-			</li>
 
 		</ul>
 	</div>
@@ -625,79 +756,70 @@ text-transform:uppercase;
 </style>
 
 <br>
-<a href="#a1" style="font-size:12px;">Q1 Miramax Privacy Policy</a><br>
-<a href="#a2" style="font-size:12px;">Q2 What types of information are Miramax sites collecting, and how are the sites collecting it?</a><br>
-<a href="#a3" style="font-size:12px;">Q3 How does Miramax use the personally identifiable information that has been collected?</a><br>
-<a href="#a4" style="font-size:12px;">Q4 Does Miramax share information with companies or other organizations that are not part of the Miramax family of sites?</a><br>
-<a href="#a5" style="font-size:12px;">Q5 What choices do I have about Miramax collecting, using, and sharing my information?</a><br>
-<a href="#a6" style="font-size:12px;">Q6 What type of security does Miramax provide?</a><br>
-<a href="#a7" style="font-size:12px;">Q7 How can I access my account information?</a><br>
-<a href="#a8" style="font-size:12px;">Q8 Whom do I contact with questions or concerns about this privacy policy?</a><br>
+<a href="#q1" style="font-size:12px;">Q1 Who is Miramax?</a><br>
+<a href="#q2" style="font-size:12px;">Q2 What is our Privacy Policy?</a><br>
+<a href="#q3" style="font-size:12px;">Q3 What types of information are we collecting online and how are we collecting it?</a><br>
+<a href="#q4" style="font-size:12px;">Q4 How do we use and share information collected on our website?</a><br>
+<a href="#q5" style="font-size:12px;">Q5 What choices do you have about our collecting, using, and sharing your information?</a><br>
+<a href="#q6" style="font-size:12px;">Q6 What type of security do we provide?</a><br>
+<a href="#q7" style="font-size:12px;">Q7 How will we notify you of changes in this Privacy Policy?</a><br>
+<a href="#q8" style="font-size:12px;">Q8 How can you ask questions about this Privacy Policy?</a><br>
 <hr><br>
-<h3><a name="a1">A1 Miramax Privacy Policy</a></h3><br>
-Miramax is committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use, and share information gathered about you. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet. <br>
+<h3><a name="q1">Q1 Who is Miramax?</a></h3><br>
+Miramax Films is a motion picture production company committed to its mission of providing audiences with high quality, innovative and risk-taking films from the world's best filmmakers, established and emerging.
+<br><br>
+Miramax Films is an indirect wholly owned subsidiary of The Walt Disney Company, the world's preeminent media &amp; entertainment company in the field of family entertainment.
+ <br>
 <a href="#" class="c-link">Back to Top</a> <br>
 <hr>
-<h3><a name="a2">A2 What types of information are Miramax sites collecting, and how are the sites collecting it? </a></h3><br>
-The majority of great products and services on our sites are offered without our collecting any personally identifiable information from you. You can surf Miramax Web sites and view much of our terrific content anonymously. 
-Information You Provide
-There are a few activities on our sites where the collection of personally identifiable information is necessary. Those activities include things like entering a contest or sweepstakes, signing up for a free e-mail account, making a purchase, or contacting us. When personally identifiable information is collected, you will know because you will have to fill out a form. For most activities, we collect only your name, e-mail address, birth date, gender, and zip code. When you make a purchase, we also collect your street and billing addresses, your phone number, and credit card information. Depending on what you purchase, we may also need to collect other personal information, like your clothing size. 
-Information Collected from You with Technology
-Miramax sites collect some information about you using technology, so it may not be readily apparent to you that it is being collected. For instance, when you come to our site your IP address is collected so that we know where to send information you are requesting. An IP address is often associated with the place from which you enter the Internet like your ISP (Internet Service Provider), your company, or your university. This information is not personally identifiable. Miramax sites use information collected through technology to make our sites more interesting and useful to you. This includes helping advertisers on our site design advertisements our Guests might like. We normally don't combine this type of information with personally identifiable information. However, we will combine this information with personally identifiable information to identify a visitor in order to enforce compliance with our house rules or terms of service or to protect our service, site, Guests, or others. 
-What Are Cookies, and How Does Miramax Use Them?
-Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web site to remember important information that will make your use of that site more useful. Miramax and other Internet companies use cookies for a variety of purposes. 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many Miramax features that make your Web experience more efficient -- like the features mentioned above -- and some of our services will not function properly. <br>
+<h3><a name="q2">Q2 What is our Privacy Policy? </a></h3><br>
+This Privacy Policy discloses how we collect, use, and share information gathered about you online on Miramax.com. When this Privacy Policy uses the terms "personal information" and  "personally identifiable information," we mean information that identifies a particular individual, such as the individual's name, postal address, e-mail address, and telephone number.  When other information is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this policy.  This Privacy Policy applies only to personal information collected on the website(s) where this Privacy Policy is posted. The terms of this Privacy Policy do not govern any other collection, use or sharing of data about you by us.
+<br><br>
+<b>Kids' Privacy Policy</b><br>
+We do not knowingly collect personally identifiable information online from kids under the age of 13 under this Privacy Policy.
+ <br>
 <a href="#" class="c-link">Back to Top</a><br>
 <hr>
 <br>
-<h3><a name="a3">A3 How does Miramax use the personally identifiable information that has been collected?</a></h3><br>
-Miramax uses personally identifiable information in a limited number of ways. We use the information to complete transactions. For instance, if you contact us for help we will use the information to contact you. We use information collected to notify you if you've won a game or contest. Information we collect is used to send you e-mail updates and newsletters about our sites. We also use the information you provide to send you Miramax e-mail promotions and special offers from our third-party sponsors. 
+<h3><a name="q3">Q3 What types of information are we collecting online and how are we collecting it?</a></h3><br>
+<b>Information You Provide</b><br>
+We do not collect personal information.    
+ 
+<br><br>
+<b>Information Collected Through Technology </b><br>
+We may collect information through technology to make our Web site more useful.  For instance, when you come to the Web site, we may collect your IP address.  An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider) or your company.  Standing alone, your IP address is not personally identifiable.  At times, we may also use IP addresses to collect information regarding the frequency with which our users visit various parts of the Web site.
+<br><br>
+Our Web sites collect information through a variety of technical methods, including cookies and Web beacons. Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf.
+<br><br>
+Please keep in mind that if you click on an advertisement on our Web site and link to a third party's Web site, then our Privacy Policy will not apply to your personally identifiable information collected on that third party's Web site and you must read the privacy policy posted on that site to see how your information will be handled.
 <br><a href="#" class="c-link">Back to Top</a><br>
 <hr>
 <br>
-<h3><a name="a4">A4 Does Miramax share information with companies or other organizations that are not part of the Miramax family of sites?</a></h3><br>
-One of the most valuable assets of our business is you. We aren't in the business of selling information about our Guests. However, if there is a value for our Guests, we will share your information or send you messages on behalf of another company as described below. We will also share information for security reasons. 
-Companies That Are "Standing in the Shoes" of Miramax
-Sometimes we hire companies to help us deliver products or services, like a shipping company that delivers a package. In those instances, we need to share your information with them. These companies are basically "standing in the shoes" of Miramax, and they are allowed to use the information only to deliver the product or service. 
-Companies Offering Promotions, Products, or Services
-On occasion, we offer promotions -- like sweepstakes or free subscriptions -- in conjunction with a sponsor. We will share your information with the sponsors if they need it to send you a product, such as a magazine subscription. We may share your information with those sponsors so that they can send you other special promotions they offer, but only if you give us your permission to do so, and we will share it only with that specific sponsor. In addition, Miramax occasionally sends e-mail promotions out to our Guests on behalf of third-party sponsors. In this instance, we don't share your name with the third party -- we do the mailing for them. Again, we only send these promotions to you if you've given your permission. 
-Content Partners
-On some of our sites, we provide content that is created by a third-party partner Web site. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected is shared between Miramax and our third-party sponsors. 
-Third-Party Advertisers and Network Advertisers
-To help increase privacy protections for our Guests, Miramax allows advertising on our sites from only those companies that have their own privacy policy. Once you've clicked on an advertisement and have left Miramax sites, our privacy policy no longer applies. You must read the privacy policy of the advertiser to see how your personal information will be handled on their site. 
-In addition, many business advertisements are managed and placed on our site by third-party companies. These companies are called "network advertisers." Network advertisers collect non-personally identifiable information when you click on or scan one of their banner advertisements. The information is collected using technology, so you may not realize it's being collected. The network advertisers collect this information so that they can show you ads that are more relevant and interesting to you. If you would like to read more about network advertisers or do not want network advertisers to collect this non-personally identifiable information about you, click here. 
-Purchase or Sale of Businesses
-Online business is still in a very early stage and is changing and evolving rapidly. As Miramax continually looks for ways to improve our business, we may buy or sell a company. If we buy or sell a business, the names collected will likely be transferred as a part of the sale. Information about registrants will be used in the aggregate. However, if we buy a business, we will honor the requests that customers made of that business regarding e-mail communications. In the event that we sell a business, we will do everything in our power to ensure that the e-mail communications requests you made of us are honored. 
-Organizations That Help Protect the Security and Safety of our Guests and our Sites 
-We will give out personal information as required by law, for example, to comply with a court order or subpoena; to enforce our Terms of Service, or site or game rules; or to protect the safety and security of Guests and our sites. <br>
+<h3><a name="q4">Q4 How do we use and share information that has been collected on our website?</a></h3><br>
+We may use and share information as described below.
+ <br> <br>
+<b>Non-Personally Identifiable Information</b> <br>
+We may use and/or share such information without restriction.
+ <br>
 <a href="#" class="c-link">Back to Top</a><br>
 <hr><br>
-<h3><a name="a5">A5 What choices do I have about Miramax collecting, using, and sharing my information?</a></h3><br>
-It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity -- at the time we collect your information -- to limit e-mail communications from Miramax and from our third-party partners. You can request at any time that Miramax not send future e-mail to you by unsubscribing from the communication. Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our features won't work if you decide to do this. <br>
+<h3><a name="q5">Q5 What choices do you have about our collecting, using, and sharing your information?</a></h3><br>
+If you do not wish us to collect the information described in this Privacy Policy, you may set your browser settings to block cookies and Web beacons.  Please be advised, however, that if you do so, some aspects of our Web site may not function optimally. <br>
 <a href="#" class="c-link">Back to Top</a><br>
 <hr>
 <br>
-<h3><a name="a6">A6 What type of security does Miramax provide?</a></h3><br>
-The importance of security for all personally identifiable information associated with our Guests is of utmost concern to us. Miramax takes technical, contractual, administrative, and physical security steps to protect all visitors' information. When you provide credit card information, we use secure socket layer (SSL) encryption to protect it. There are some things that you can do to help protect the security of your information as well. For instance, never give out your password, since this is what is used to access all of your account information. Also remember to sign out of your account and close your browser window when you finish surfing the Web, so that other people using the same computer won't have access to your information. <br>
+<h3><a name="q6">Q6 What type of security do we provide?</a></h3><br>
+The security and confidentiality of your information is important to us.  We have implemented technical, administrative, and physical security measures to protect your information from unauthorized access and improper use.  From time to time, we may review our security procedures in order to consider appropriate new technology and methods.  Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable. <br>
 <a href="#" class="c-link">Back to Top</a><br>
 <hr>
 <br>
-<h3><a name="a7">A7 How can I access my account information?</a></h3><br>
-You can access the personally identifiable information you gave us during registration at our member services center. Simply click on this link and then log-in with your e-mail address and password. There are instructions on the start page to help you recover your password if you've forgotten it. <br>
+<h3><a name="q7">Q7 How will we notify you of changes in this Privacy Policy?</a></h3><br>
+We may amend this Privacy Policy at any time.  If we do so, we will prominently post notice of the amendment on the Web site covered by this Privacy Policy. <br>
 <a href="#" class="c-link">Back to Top</a><br>
 <hr>
 <br>
-<h3><a name="a8">A8 Whom do I contact with questions or concerns about this privacy policy?</a></h3><br>
-If you need further assistance, please: <br>
-?	send an e-mail with your questions or comments to 
-mmx.info@miramax.com <br>
-?	write us at: 
-Miramax Films 
-c/o Marketing
-161 Avenue of the Americas, 15th Floor
-New York, NY 10013 <br>
-?	call us at: (917) 606-5500 <br>
-**You must be 18 or have the permission of your parent or guardian to dial this number. 
+<h3><a name="q8">Q8 How can you ask questions about this Privacy Policy?</a></h3><br>
+If you have questions about this Privacy Policy, please send an email with your question to <a href="mailto:ms_support@help.go.com">ms_support@help.go.com</a>.
 <br>
 <a href="#" class="c-link">Back to Top</a><br>
 <br>
@@ -739,6 +861,15 @@ so1.write("signature");
 <div style="float:left; width: 100%;"><ul>
 		
 			<li>
+				<a class="c-link" name="lid=bottomleft_module/bottom/The Switch/080929" href="http://www.miramax.com/theswitch/">
+				The Switch
+				</a>
+			</li>
+
+
+
+		
+			<li>
 				<a class="c-link" name="lid=bottomleft_module/bottom/Last Night/080929" href="http://www.miramax.com/lastnight/">
 				Last Night
 				</a>
@@ -761,9 +892,9 @@ so1.write("signature");
 				Don't Be Afraid Of The Dark
 				</a>
 			</li>
-
-
 </ul></div>
+
+
 		
                 </div>
 	<div class="col" style="border:none;border-right:1px solid #2D345C;width:376px;">
@@ -779,43 +910,6 @@ so1.write("signature");
 <div style="float:left; width:185px"><ul>
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/My Left Foot Special Edition/080929" href="http://www.miramax.com/myleftfootspecialedition/">
-				My Left Foot Special Edition
-				</a>
-			</li>
-
-		
-			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Emma/080929" href="http://www.miramax.com/emma/">
-				Emma
-				</a>
-			</li>
-
-		
-			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Kill Bill Volume 1/080929" href="http://www.miramax.com/killbillvolume1/">
-				Kill Bill Volume 1
-				</a>
-			</li>
-
-		
-			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Pulp Fiction/080929" href="http://www.miramax.com/pulpfiction/">
-				Pulp Fiction
-				</a>
-			</li>
-</ul></div>
-
-<div style="float:left; width:185px"><ul>
-		
-			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/The Station Agent/080929" href="http://www.miramax.com/thestationagent/">
-				The Station Agent
-				</a>
-			</li>
-
-		
-			<li>
 				<a class="c-link" name="lid=bottommiddle_module/bottom/City Of God/080929" href="http://www.miramax.com/cityofgod/">
 				City Of God
 				</a>
@@ -823,15 +917,52 @@ so1.write("signature");
 
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Swingers/080929" href="http://www.miramax.com/swingers/">
-				Swingers
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Good Will Hunting/080929" href="http://www.miramax.com/goodwillhunting/">
+				Good Will Hunting
 				</a>
 			</li>
 
 		
 			<li>
-				<a class="c-link" name="lid=bottommiddle_module/bottom/Bridget Joness Diary/080929" href="http://www.miramax.com/bridgetjonessdiary/">
-				Bridget Jones's Diary
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Trainspotting/080929" href="http://www.miramax.com/trainspotting/">
+				Trainspotting
+				</a>
+			</li>
+
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Frida/080929" href="http://www.miramax.com/frida/">
+				Frida
+				</a>
+			</li>
+</ul></div>
+
+<div style="float:left; width:185px"><ul>
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/The Importance Of Being Earnest/080929" href="http://www.miramax.com/theimportanceofbeingearnest/">
+				The Importance Of Being Earnest
+				</a>
+			</li>
+
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/Trainspotting Collectors Series/080929" href="http://www.miramax.com/trainspottingcollectorsseries/">
+				Trainspotting Collector's Series
+				</a>
+			</li>
+
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/The Cider House Rules/080929" href="http://www.miramax.com/theciderhouserules/">
+				The Cider House Rules
+				</a>
+			</li>
+
+		
+			<li>
+				<a class="c-link" name="lid=bottommiddle_module/bottom/An Ideal Husband/080929" href="http://www.miramax.com/anidealhusband/">
+				An Ideal Husband
 				</a>
 			</li>
 </ul></div>
@@ -870,9 +1001,9 @@ so1.write("signature");
 <div class="container_footer" id="cont_footer">
 <ul id="footer">
 <li class="logo"><a name="lid=footer_Module/footer/home_page/080929" href="/index.html" title="Miramax Films">Miramax Films</a></li>
-<li class="about"><a name="lid=footer_Module/footer/about_us/080929" href="/about-us.html">About Us</a></li>
-<li class="privacy"><a name="lid=footer_Module/footer/privacy_policy/080929" href="/privacy-policy.html">Privacy Policy</a></li>
-<li class="terms"><a name="lid=footer_Module/footer/terms_use/080929" href="/terms-of-use.html">Terms Of Use</a></li>
+<li class="about"><a name="lid=footer_Module/footer/about_us/080929" href="//about-us.html">About Us</a></li>
+<li class="privacy"><a name="lid=footer_Module/footer/privacy_policy/080929" href="//privacy-policy.html">Privacy Policy</a></li>
+<li class="terms"><a name="lid=footer_Module/footer/terms_use/080929" href="/http://corporate.disney.go.com/corporate/terms.html">Terms Of Use</a></li>
 
 <li class="copyright" style="font-size:11px;">© Copyright 2010 Miramax Films. All rights reserved.</li>
 </ul>
@@ -884,11 +1015,12 @@ so1.write("signature");
 <li class="logo"><a name="lid=footer_Module/footer/home_page/080929" href="/index.html" title="Miramax Films">Miramax Films</a></li>
 <li class="about"><a name="lid=footer_Module/footer/about_us/080929" href="/about-us.html">About Us</a></li>
 <li class="privacy"><a name="lid=footer_Module/footer/privacy_policy/080929" href="/privacy-policy.html">Privacy Policy</a></li>
-<li class="terms"><a name="lid=footer_Module/footer/terms_use/080929" href="/terms-of-use.html">Terms Of Use</a></li>
+<li class="terms"><a name="lid=footer_Module/footer/terms_use/080929" href="http://corporate.disney.go.com/corporate/terms.html">Terms Of Use</a></li>
 
 <li class="copyright" style="font-size:11px;">© Copyright 2010 Miramax Films and Buena Vista Home Entertainment. All rights reserved.</li>
 </ul>
 </div>
+<!-- new test test comment -->
 </div>
 <div id="preload" style="display:none">
    <img src="http://media.miramax.com/managed/home-on.png" width="1" height="1" alt="">
