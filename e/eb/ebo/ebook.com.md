@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebook.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329200249id_/http%3A//www.sharewareebooks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebook.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913054817id_/http%3A//www.ebook.com/privacy) for the most accurate reproduction.*
 
-# SharewareeBooks.com - ebooks, ebook, shareware-ebooks
+# eBook - ebooks
 
 Privacy Policy  
 
