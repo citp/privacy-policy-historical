@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixable.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329104401id_/http%3A//www.pixable.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixable.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913231622id_/http%3A//www.pixable.com/privacy_policy) for the most accurate reproduction.*
 
 # Pixable, print your Facebook content!
 
@@ -71,7 +71,7 @@ Use of Information Obtained by Pixable
 
 In general, information you submit to us is used either to respond to requests that you make or to aid us in serving you better, including to fix technical problems, provide administrative services, and monitor traffic, the number of visitors, and the effectiveness of programs.  We may use aggregated user data to market the Web Site to others.  We may provide these services ourselves or share the information with partners who will provide the services for us.
 
-We may use your Personal Information to provide you with newsletters and surveys and to notify you of important changes to the Web Site, new services, and special offers.  If you do not want to receive such email notices, you may login to your account at the Web Site and opt out of receiving such email or send email to [ _privacy@Pixable.com_](mailto:privacy@pixable.com) or mail to Privacy, Pixable, 2306 Zanker Road, San Jose, CA 95131. Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers.  If we have provided any third party with your information, you will have to contact the third-party directly with any opt-out request. 
+We may use your Personal Information to provide you with newsletters and surveys and to notify you of important changes to the Web Site, new services, and special offers.  If you do not want to receive such email notices, you may login to your account at the Web Site and opt out of receiving such email or send email to [ _privacy@Pixable.com_](mailto:privacy@pixable.com) or mail to Privacy, Pixable, 12th Floor, 160 Varick Sreet, New York, NY 10013. Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers.  If we have provided any third party with your information, you will have to contact the third-party directly with any opt-out request. 
 
 Profile information is used by Pixable primarily to be presented back to and edited by you when you access Pixable and to be presented to others you permit to view that information.
 
