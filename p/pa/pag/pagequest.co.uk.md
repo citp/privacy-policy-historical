@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagequest.co.uk privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501174724id_/http%3A//www.pagequest.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagequest.co.uk privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913171645id_/http%3A//www.pagequest.co.uk/privacy.php) for the most accurate reproduction.*
 
 # pagequest.co.uk - Internet Marketing articles, Article internet Marketing,Free Article, Free article Directory, UK Article Directory, Article Marketing,search engine optimization seo, SEO tactics, Search Engine Optimization, Internet Marketing Article, Article Submission
 
@@ -66,8 +66,7 @@ This statement and the policies outlined herein are not intended to and do not c
 
 | 
 
-[](http://www.fulltiltpoker.com/?key=MDAwMTIyMzIwMDAyRjI3NTIwQzE0MDUxMDAwMDAwMDA-)  
-[**Play Online Poker**](http://www.fulltiltpoker.com/?key=MDAwMTIyMzIwMDAyRjI3NTIwQzE0MDUxMDAwMDAwMDA- "Play Online Poker")
+[](http://bit.ly/dngB2q)
 
 [ ](http://affiliate.a4dtracker.com/rd/r.php?sid=758&pub=452494&bid=2939&c1=&c2=&c3=)
 
