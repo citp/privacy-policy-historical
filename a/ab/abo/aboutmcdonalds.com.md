@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutmcdonalds.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329083514id_/http%3A//www.aboutmcdonalds.com/mcd/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutmcdonalds.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913112050id_/http%3A//www.aboutmcdonalds.com/mcd/privacy_policy.html) for the most accurate reproduction.*
 
 # McDonald's Internet Privacy Policy - About McDonald's
 
