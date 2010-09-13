@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107020804id_/http%3A//www.kingolotto.co.uk/mentions.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913023101id_/http%3A//www.kingolotto.co.uk/mentions.php) for the most accurate reproduction.*
 
 # Kingolotto - 100% Free Game - Win: Vouchers, prizes, DVD, mobiles, video games, holidays, Nintendo DS, PSP, digital camera, PS3, MP3 players !
 
@@ -7,21 +7,21 @@
 ### Purpose of this Privacy Policy
 
 Mediastay Ltd is registered with The Information Commissioner's Office under the Data Protection Act 1998 (ICO Registration No. Z962923X).   
-This Privacy Policy relates to the KINGOLOTTO website accessible at [www.kingolotto.co.uk](http://www.kingolotto.co.uk/) (the “Website”) which is owned by and operated by the proprietor : Mediastay Limited Natixis Pramex International Cannon Bridge House 25, Dowgate Hill London EC4T 2YA England. Company Registration No. 5958600.
+This Privacy Policy relates to the KINGOLOTTO website accessible at [www.kingolotto.co.uk](http://www.kingolotto.co.uk/) (the "Website") which is owned by and operated by the proprietor : Mediastay Limited C/O SPAIN BROTHERS & CO 29 Manor Road Folkestone, Kent CT20 2SE ENGLAND. Company Registration No. 5958600.
 
-Mediastay respects your privacy and is committed to protecting it. Mediastay also has obligations under the Data Protection Act 1998 regarding the collection, use and storage of personal information relating to individuals which Mediastay receives via the Website. Mediastay provides this Privacy Policy to inform you of Mediastay’s policy and practices and of the choices you can make about the way your information is collected and used. Mediastay have structured the Website so that, if you are simply visiting the Website and not playing Kingolotto, you can do so without identifying yourself or revealing any personal information.
+Mediastay respects your privacy and is committed to protecting it. Mediastay also has obligations under the Data Protection Act 1998 regarding the collection, use and storage of personal information relating to individuals which Mediastay receives via the Website. Mediastay provides this Privacy Policy to inform you of Mediastay's policy and practices and of the choices you can make about the way your information is collected and used. Mediastay have structured the Website so that, if you are simply visiting the Website and not playing Kingolotto, you can do so without identifying yourself or revealing any personal information.
 
-Mediastay ensures that any data about individuals received via the Site will be processed in accordance with the eight principles of the Data Protection Act 1998 (the “Act”) and the policy set out below.
+Mediastay ensures that any data about individuals received via the Site will be processed in accordance with the eight principles of the Data Protection Act 1998 (the "Act") and the policy set out below.
 
 ### Data Collection and Purpose Specification
 
 The types of personal data you may provide to us via the Website may include name, address, phone, e-mail address, User IDs and passwords, contact preferences and other similar information.
 
-Mediastay collects your personal data in order to organise, administer and run a free game with prizes called “Kingolotto” which is accessible via the Website. More specifically, Mediastay uses your information to communicate with you via e-mail and otherwise regarding your entry into such games of Kingolotto and to update you on winning games and prizes. 
+Mediastay collects your personal data in order to organise, administer and run a free game with prizes called "Kingolotto" which is accessible via the Website. More specifically, Mediastay uses your information to communicate with you via e-mail and otherwise regarding your entry into such games of Kingolotto and to update you on winning games and prizes. 
 
 Mediastay may also from time to time use your personal data to inform you of special games being organised by Mediastay or other services and benefits Mediastay may offer. Mediastay may also use your personal data to gain a better understanding regarding who uses Kingolotto Website and how they use it, including the web pages they access so as to be able to improve the Website. 
 
-Occasionally, Mediastay may also use your information to contact you for market research regarding Mediastay’s products and services. Mediastay will give you the opportunity to opt-out of market research and customers surveys.
+Occasionally, Mediastay may also use your information to contact you for market research regarding Mediastay's products and services. Mediastay will give you the opportunity to opt-out of market research and customers surveys.
 
 By providing your personal data via the Website you consent to such use of your personal data.
 
@@ -31,7 +31,7 @@ Unless Mediastay has your consent including that given below, Mediastay will not
 
 Sometimes Mediastay may need to give information to agents and sub-contractors for the purpose of administering your participation in Kingolotto. In these circumstances, Mediastay always ensure that the information is safe and secure.
 
-Mediastay may also transfer your personal data to certain selected third party partner service providers with whom Mediastay have a commercial relationship so that they can inform you of offers which you may be interested in. Unless you indicate otherwise, your consent to such use and transfer of your personal data is given to us for this. You may indicate your refusal to authorize the publication of personal information to third parties in this way by simply ticking the “No” check box on the registration form following the text: "I’d like to receive great offers from our partners (competitions, great ideas, great prizes...)" when you register with Kingolotto and provide personal data. If you have previously expressed a desire to receive offers from partners of Mediastay, you may also remove such consent at any time in the “My Account” section, available on the Kingolotto homepage or by clicking on the “Unsubscribe” link in each promotional e-mail received. You agree that if Mediastay transfers ownership or management of the Website to a third party Mediastay may also transfer your personal data to such third party, provided such third party agrees to observe this Privacy Policy.
+Mediastay may also transfer your personal data to certain selected third party partner service providers with whom Mediastay have a commercial relationship so that they can inform you of offers which you may be interested in. Unless you indicate otherwise, your consent to such use and transfer of your personal data is given to us for this. You may indicate your refusal to authorize the publication of personal information to third parties in this way by simply ticking the "No" check box on the registration form following the text: "I'd like to receive great offers from our partners (competitions, great ideas, great prizes...)" when you register with Kingolotto and provide personal data. If you have previously expressed a desire to receive offers from partners of Mediastay, you may also remove such consent at any time in the "My Account" section, available on the Kingolotto homepage or by clicking on the "Unsubscribe" link in each promotional e-mail received. You agree that if Mediastay transfers ownership or management of the Website to a third party Mediastay may also transfer your personal data to such third party, provided such third party agrees to observe this Privacy Policy.
 
 Mediastay does not collect extra information about its visitors from other sources, such as public records or bodies, or private organisations. 
 
@@ -47,22 +47,23 @@ Mediastay does not give visitors to Kingolotto Website the option of using a sec
 
 To prevent unauthorized access, maintain accuracy, and ensure proper use of information, Mediastay has employed physical, electronic, and managerial processes to safeguard and secure the information Mediastay collects online.
 
-All Mediastay’s employees and data processors who have access to and are associated with the processing of personal data, are obliged to respect the confidentiality of such personal data.
+All Mediastay's employees and data processors who have access to and are associated with the processing of personal data, are obliged to respect the confidentiality of such personal data.
 
 ### Your Rights to Access Personal Data
 
-You have rights in relation to your personal data held by Mediastay under the Act, including a right to have it modified and to request access to it. For any enquiry or concern about your personal data, or to request access to your personal data please contact Mediastay’s Data Compliance Officer as set out below: 
+You have rights in relation to your personal data held by Mediastay under the Act, including a right to have it modified and to request access to it. For any enquiry or concern about your personal data, or to request access to your personal data please contact Mediastay's Data Compliance Officer as set out below: 
 
 Data Compliance Officer :  
 **MEDIASTAY Limited**  
-Pramex/ Capital House   
-85 King William Street   
-London   
-EC4N 7BL ****
+C/O SPAIN BROTHERS & CO  
+29 Manor Road  
+Folkestone, Kent CT20 2SE   
+ENGLAND   
+****
 
-Requests may also be made directly on the Website in the "My Account" section, accessible from the homepage. Mediastay must provide you with a readable copy of the personal data which it holds about you within 40 days of receiving your written request. The Act allows us to charge a fee of £10 pounds for this service. Evidence or proof of your identity (for example, a passport, driver’s licence or current bills) will be required.
+Requests may also be made directly on the Website in the "My Account" section, accessible from the homepage. Mediastay must provide you with a readable copy of the personal data which it holds about you within 40 days of receiving your written request. The Act allows us to charge a fee of £10 pounds for this service. Evidence or proof of your identity (for example, a passport, driver's licence or current bills) will be required.
 
-It is in Mediastay’s and your interest that Mediastay holds accurate data about you. If you believe the personal data Mediastay holds about you is inaccurate in any way please contact us on the above address. 
+It is in Mediastay's and your interest that Mediastay holds accurate data about you. If you believe the personal data Mediastay holds about you is inaccurate in any way please contact us on the above address. 
 
 Where appropriate, you may have your personal data: 
 
