@@ -1,34 +1,59 @@
-> *The following text is extracted and transformed from the ultimatecoupons.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014022820id_/http%3A//www.ultimatecoupons.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatecoupons.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913050639id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.ultimatecoupons.com) for the most accurate reproduction.*
 
-# Privacy Statement and Disclaimer
+# Site Privacy Policy
 
-**Privacy Policy and Disclaimer**  
-for UltimateCoupons.com
+www.ultimatecoupons.com ("Site")
 
-**Privacy Policy**
+Privacy Statement
 
-UltimateCoupons.com, LLC. respects your privacy. We don't collect any information from our visitors except for your e-mail address if you choose to sign up for our free newsletter and your name and e-mail address if you enter one of our contests. (If you win one of our contests we'll need to ask you for additional information.). And don't worry -- if you do sign up for our newsletter or enter our contests, you can be sure we will NEVER sell or rent your name or e-mail address to anyone else.
+We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
 
-UltimateCoupons.com may also look at the IP address and browser type of people signing up for our newsletter, entering our contests, or sending us comments, questions or suggestions through our fill-in forms. This is to prevent fraud and abuse.
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-Also, please be aware that third party links on our site, such as the advertising banners and our affiliate program links, often track which of their ads or links you view or click on.
+This Site contains links to other sites. These include links to resources in related topics and third-party sites that offer other related products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
 
-Cookies: UltimateCoupons makes limited use of new windows which open automatically upon visiting certain pages. Cookies are used so the new window opens only once per person even if the page that opened the new window is reloaded.
+Browsing the Site
 
-**Disclaimer**
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site.
 
-The information provided on UltimateCoupons.com is for informational and entertainment purposes only. Before making any decisions based on anything within UltimateCoupons.com, please verify the information yourself. UltimateCoupons.com disclaims all liability related to the use of this site. The coupons, discounts, offers, and promotions listed or linked to on UltimateCoupons.com may change or become invalid at any time. We do our best to keep this information current and remove invalid offers, but since we are usually not notified about the changes, there may be a delay before we can correct this information. UltimateCoupons.com links to many, many other Websites and is not responsible for the content of those sites. UltimateCoupons.com does not sell anything. If you have a problem with an online store that we link to, please contact that store. 
+Information Collected
 
-Questions, comments, or suggestions? You can send us a message [here](https://web.archive.org/contact.htm) or you can fill out our [Feedback Form](https://web.archive.org/feedback.htm). **Members of the media, please click[here](https://web.archive.org/press.htm).** If you'd like to suggest a site to add to UltimateCoupons.com, please click [ here](https://web.archive.org/listinginfo.htm) for information.
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email.
 
-* * *
+Any information provided by consumers becomes our property once received by us and may be used and disclosed as permitted in this Policy.
 
-[Homepage](https://web.archive.org/) | [Search](https://web.archive.org/search.htm) | [Coupon Directory](https://web.archive.org/coupons/) | [Deals of the Day](https://web.archive.org/deal_of_the_day.htm) | [Clearance & Specials](https://web.archive.org/clearance.htm) | [Comparison Shopping](https://web.archive.org/comparison_shopping.htm) | [Cash Back Shopping](https://web.archive.org/cash_back.htm) | [Mail-In Rebates](https://web.archive.org/rebates.htm) | [Buying Guides](https://web.archive.org/buying_guides.htm) | [Product Reviews](https://web.archive.org/product_reviews.htm) | [Grocery and Local Coupons](https://web.archive.org/coupons/offline_coupons.htm) | [Online Shopping Guide](https://web.archive.org/guide/) | [Cool and Useful Shopping Sites](https://web.archive.org/useful_sites.htm) | [Travel Deals](https://web.archive.org/travel.htm) | [Free Stuff](https://web.archive.org/free/) | [Useful Links](https://web.archive.org/useful_links.htm) | [Coupon and Deal Newsletter](https://web.archive.org/newsletter.htm) | [Press](https://web.archive.org/press.htm) | [About This Site](https://web.archive.org/about.htm)
+We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [information@internetbrands.com](mailto:information@internetbrands.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-* * *
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [information@internetbrands.com](mailto:information@internetbrands.com).
 
-[](http://click.linksynergy.com/fs-bin/stat?id=OEu024dtHXs&offerid=13541.10000537&type=4&subid=0)
+Use of Forums
 
-* * *
+If you choose to transmit, submit or post information through the Site's chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to our Terms of Use.
 
-Copyright 1999-2002 UltimateCoupons.com, LLC. All rights reserved. "Your Gateway to Online Savings" is a trademark of UltimateCoupons.com, LLC. Penguin artwork is copyright 2000 UltimateCoupons.com, LLC. No portion of this site may be reproduced without permission. Please read our [privacy policy and disclaimer](https://web.archive.org/privacy.htm).
+Cookies
+
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies, it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
+
+Security
+
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+Third Party Advertising 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google´s use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
+
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
+
+To learn more about these practices and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+
+Contacting the Web Site
+
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
+
+www.ultimatecoupons.com
+
+March 24, 2009
