@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcentral.com.au privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430222718id_/http%3A//www.webcentral.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcentral.com.au privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913162719id_/http%3A//www.webcentral.com.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Updated 19 July 2005 - WebCentral
 
