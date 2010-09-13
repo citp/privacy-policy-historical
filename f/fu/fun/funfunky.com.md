@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the funfunky.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324043720id_/http%3A//funfunky.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funfunky.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913084429id_/http%3A//funfunky.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FunFunky.com
+
+  
+
 
 **FunFunky.com** has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: www.FunFunky.com
 
@@ -32,35 +35,47 @@ We work with various third party advertising networks. These ads may contain coo
 
 To find out more about how the ad network manages the privacy of information in conjunction with serving ads on this site, please go to :
 
-[Google](https://www.google.com/adsense/premium-login)  
+[Google](http://www.google.co.uk/privacy_ads.html) and [Doubleclick Dart Cookies](http://www.doubleclick.com/privacy/faq.aspx)
+
+  * Google, as a third-party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
+
+
+
 [Adbrite](https://www.adbrite.com/mb/privacy.php)  
 [Kontera](http://www.kontera.com/kontera-privacy-policy)  
 [Rich Media](http://content.yieldmanager.com/privacy.html)
 
-**External Links  
+You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
+
+ **External Links  
 **  
 This site contains links to other sites. FunFunky.com is not responsible for the privacy practices or the content of such Web sites.
 
-**Public Forums  
+ **Public Forums  
 **  
 This site makes chat rooms, message boards, and/or other news available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**Security  
+ **Security  
 **  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-**Postings on Message Boards  
+ **Postings on Message Boards  
 **  
 It is important for you to remain aware that when you provide personal information (e.g., last name, address, phone number) in a posting on any message board, that information is available to any other person or user having access and use of that message board, and may be used by someone in a manner unintended by you. For that reason, we discourage you from offering any personally identifying information within a posting to any message board.
 
-**Data Quality/Access  
+ **Data Quality/Access  
 **  
 This site gives users the option of changing and modifying information previously provided. Visit your profile to change information.
 
-**Your Consent to this Policy  
+ **Your Consent to this Policy  
 **  
 By using our Site, you agree to this Policy. This document supersedes any prior communication on this topic and reflects the entire and exclusive Privacy Policy for this Site. We may change our Policy by posting a new version of it on our Site at any time.
 
-**Contacting the Web Site  
+ **Contacting the Web Site  
 **  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can reach us through email - admin@FunFunky.com
+
+  
+
