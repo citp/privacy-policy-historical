@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finditt.com privacy policy that was archived on 2010-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100622042736id_/http%3A//www.wooeb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finditt.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914235453id_/http%3A//www.wooeb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Advertising Marketing News Networking
 
@@ -12,7 +12,7 @@ TransWorldNews collects, distributes, and publishes a wide variety of informatio
 > 
 > 2\. TransWorldNews operates the TransWorldNews profiles section and the Finditt search directory, which consist of published information submitted by or on behalf of the originating entity. All information contained in the TransWorldNews profiles section and the Finditt search directory is either public knowledge or explicitly approved for dissemination by our registered users. 
 > 
-> 3\. TransWorldNews may be required to provide information to a law enforcement agency, but only as the result of a request relating to a specific legal proceeding. Users that have questions or concerns regarding this statement should contact TransWorldNews Support by calling 404-352-4949 or emailing [ support@yourfindit.com](mailto:support@yourfindit.com). 
+> 3\. TransWorldNews may be required to provide information to a law enforcement agency, but only as the result of a request relating to a specific legal proceeding. Users that have questions or concerns regarding this statement should contact TransWorldNews Support by calling 404-352-4949 or emailing [ support@wooeb.com](mailto:support@wooeb.com). 
 
 The information we collect during your account registration process is used to notify users about updates to our service and to inform users of developments or changes in company policy or procedure. This information is not shared with other organizations for any purpose. 
 
