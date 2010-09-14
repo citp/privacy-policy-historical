@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103003141id_/http%3A//www.cacert.org/index.php%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914172039id_/http%3A//www.cacert.org/index.php%3Fid%3D10) for the most accurate reproduction.*
 
-# Welcome to CAcert.org
+# CAcert.org'a hogeldiniz
 
-### Privacy Policy
+### Gizlilik Politikas
 
 This policy discloses what information we gather about you when you visit any of our Web site, and when you issue or use our certificates. It describes how we use that information and how you can control it.
 
@@ -10,17 +10,17 @@ This policy discloses what information we gather about you when you visit any of
 
 We collect two kinds of information about website users: 1) data that users volunteer by signing up to our website or when you send us an email via our contact form; and 2) aggregated tracking data we collect when users interact with our site.
 
-#### 2\. Personal information
+#### 2\. Kiisel bilgi
 
 When you post to the contact form, you must provide your name and email address. When you sign up to the website, you must provide your name, email address, date of birth and some lost pass phrase question and answers.
 
 We only share your information with any other organisation when so instructed by a CAcert arbitrator.
 
-#### 3\. Aggregated tracking information
+#### 3\. Kmelenmi izleme bilgisi
 
 We analyse visitors' use of our sites by tracking information such as page views, traffic flow, search terms, and click through. We use this information to improve our sites. We also share this anonymous traffic and demographic information in aggregate form with advertisers and other business partners. We do not share any information with advertisers that can identify an individual user.
 
-#### 4\. Cookies
+#### 4\. Cookie'ler
 
 Some of our advertisers use a third-party ad server to display ads. These ads may contain cookies. The ad server receives these cookies, and we don't have access to them.
 
@@ -30,7 +30,7 @@ We don't use cookies to store personal information, we do use sessions, and if c
 
 If we change our Privacy Policy, we will post those changes on www.CAcert.org. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
 
-#### 6\. How to update, correct, or delete your information
+#### 6\. Nasl bilginizi gnceller, dzeltir ve silersiniz
 
 You are able to update, add and remove your information at any time via our web interface, log into the 'My Account' and then click on the 'My Details' section, and then click the relevant link
 
@@ -50,7 +50,7 @@ A CAcert arbitrator may override this policy in a dispute.To obtain access to co
 
 CAcert adopts the Australian privacy regulations.Please see <http://www.privacy.gov.au/> for further details.Governmental warrants and civil supoenas will be processed through the dispute resolution system, which ensures that valid authority is given to whoever complies with the supoena or the warrant.
 
-If you need to contact us in writing, address your mail to:
+Eğer bize yazılı olarak kontak kurmak isterseniz, mektubuzu şu adrese gönderiniz:
 
 CAcert Inc.  
 P.O. Box 4107  
