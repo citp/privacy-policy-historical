@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingpreacher.org privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514092421id_/http%3A//www.luthersem.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingpreacher.org privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914094507id_/http%3A//www.luthersem.edu/privacy) for the most accurate reproduction.*
 
 # Luther Seminary - Privacy Policy
 
