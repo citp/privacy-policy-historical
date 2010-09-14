@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycgi.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608030950id_/http%3A//www.easycgi.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycgi.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914112936id_/http%3A//www.easycgi.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # EasyCGI's Privacy Policy
 
@@ -93,7 +93,7 @@ Please note: EasyCGI reserves the right to send e-mail communications relating d
   20. **Revisions to This Policy.** EasyCGI reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
   
 
-Revised: January 2020   
+Page updated 01/30/2020    
   
   
 ---|---|---
