@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tube8sexpersonals.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403091156id_/http%3A//tube8sexpersonals.com/go/page/privacy.html%3Fm%3D%26site%3Dffadult%26dcb%3Dtube8sexpersonals.com%26who%3Dr%2CLMBtAu8DRfX0sYDtjc9lwhphmuP9/lJFCtECYh4ELTQRJ9/Rw23g4C8Sf46SWxou2gXQysOfD0xf8jPLi46TSgqEC_/GehraG2WA4stxtDptIgecCISQ1PLKvalXYl1pOc6JVLXFwy00obo0_H7A5Lr8FPQwP0gQmAUEgqtKFYk-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tube8sexpersonals.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914082649id_/http%3A//www.tube8sexpersonals.com/go/page/privacy.html%3Fdcb%3Dtube8sexpersonals.com) for the most accurate reproduction.*
 
 # Tube8 Sex Personals - Tube8 Sex Personals PRIVACY POLICY
 
