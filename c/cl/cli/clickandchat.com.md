@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickandchat.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213123741id_/http%3A//clickandchat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickandchat.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914114257id_/http%3A//www.clickandchat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ClickAndChat Privacy Policy
 
@@ -99,4 +99,4 @@ ClickAndChat
 
 Last Updated 03/02/2009   
   
-Copyright © 2009, ClickAndChat.com. All rights reserved.
+Copyright © 2010, ClickAndChat.com. All rights reserved.
