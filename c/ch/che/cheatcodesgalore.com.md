@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the cheatcodesgalore.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328131853id_/http%3A//www.cheatcodesgalore.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodesgalore.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914231634id_/http%3A//www.cheatcodesgalore.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Galore
+
+## Privacy Policy
+
+* * *
 
 Cheat Codes Galore reserves the right, within our discretion and without any obligation, to make changes to any portion of the website www.cheatcodesgalore.com and any files under it.
 
@@ -18,7 +22,6 @@ If you have any questions, you can Send an email to  for more info.
 
 ## Google Advertising Cookie and Privacy Policies
 
-  
 * Google, as a third party vendor, uses cookies to serve ads on your site.   
 * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
 * Users may opt out of the use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
