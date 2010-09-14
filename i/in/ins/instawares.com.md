@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instawares.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531162852id_/http%3A//www.instawares.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instawares.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914232758id_/http%3A//www.instawares.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
