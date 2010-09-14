@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the departmentofgoods.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111072125id_/http%3A//www.departmentofgoods.com/sales/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the departmentofgoods.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914110553id_/http%3A//www.departmentofgoods.com/sales/privacy.html) for the most accurate reproduction.*
 
 # Departmentofgoods.com | Privacy Policy from Departmentofgoods.com
 
