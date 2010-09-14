@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the strands.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316174152id_/http%3A//www.strands.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strands.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914080119id_/http%3A//www.strands.com/privacy) for the most accurate reproduction.*
 
 # Support - Privacy Policy on Strands
 
-### Strands Privacy Policy
+## Strands Privacy Policy
 
 Strands Labs, Inc. and its affiliates (“Strands”) respect your privacy. This Privacy Policy (“Policy”) is effective as of September 16, 2008. It explains how we collect and use the personal information you may provide to us, and it will help you make informed decisions when using our websites and services. It applies to all the websites and services offered by Strands, including strands.com, mystrands.com, musicstrands.com, money.strands.com, bizsolutions.strands.com, partystrands.com, indie.mystrands.com, labs.mystrands.com and mystrands.tv (collectively, Strands’ “Sites” or “Services”). Some of our Services have additional privacy terms made available to you in connection with your use of those Services. If a Service has additional privacy terms, they supercede any conflicting terms in this Policy.
 
