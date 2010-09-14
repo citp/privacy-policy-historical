@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608123405id_/http%3A//www.transworldnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914214241id_/http%3A//www.transworldnews.com/Privacy.aspx) for the most accurate reproduction.*
 
 # TransWorldNews - www.transworldnews.com/privacy.aspx
 
-The privacy policy and statement below cover all websites owned and operated by TransWorldNews, Inc. ("TransWorldNews"). Websites included under "TransWorldNews" include Finditt.com, StockENews.com, StockFiling.com and TWNKeys.com. 
+The privacy policy and statement below cover all websites owned and operated by TransWorldNews, Inc. ("TransWorldNews"). Websites included under "TransWorldNews" include [StockENews.com](http://stockenews.com/), [StockFiling.com](http://stockfiling.com/) and [TWNKeys.com](http://twnkeys.com/). 
 
 TransWorldNews is committed to protecting your privacy. Below you will find our information practices regarding the collection and use of information that may uniquely identify an individual, business, organization, or other entity. 
 
@@ -12,9 +12,9 @@ TransWorldNews collects, distributes, and publishes a wide variety of informatio
 
 > 1\. TransWorldNews operates a newswire service that disseminates the content of press releases submitted by our registered users to a wide variety of third parties. This information is limited to the text of the press release, the graphic associated with the release, and category information, all of which are submitted by or on behalf of the originating entity. TransWorldNews is not responsible for personal information that is entered, submitted, or uploaded to be included with a press release intended for distribution. Entering, submitting, or uploading any information to be included with a press release indicates consent with this policy. 
 > 
-> 2\. TransWorldNews operates the TransWorldNews profiles section and the Finditt search directory, which consist of published information submitted by or on behalf of the originating entity. All information contained in the TransWorldNews profiles section and the Finditt search directory is either public knowledge or explicitly approved for dissemination by our registered users. 
+> 2\. TransWorldNews operates the TransWorldNews profiles section which consist of published information submitted by or on behalf of the originating entity. All information contained in the TransWorldNews profiles section is either public knowledge or explicitly approved for dissemination by our registered users. 
 > 
-> 3\. TransWorldNews may be required to provide information to a law enforcement agency, but only as the result of a request relating to a specific legal proceeding. Users that have questions or concerns regarding this statement should contact TransWorldNews Support by calling 404-352-4949 or emailing [support@transworldnews.com](mailto:support@transworldnews.com). 
+> 3\. TransWorldNews may be required to provide information to a law enforcement agency, but only as the result of a request relating to a specific legal proceeding. Users that have questions or concerns regarding this statement should contact TransWorldNews Support by calling 404-352-4949 or emailing support@transworldnews.com. 
 
 ****
 
