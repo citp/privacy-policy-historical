@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinemarketingcenter.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112044506id_/http%3A//www.ezinemarketingcenter.com/drmani_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinemarketingcenter.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914211704id_/http%3A//www.ezinemarketingcenter.com/drmani_privacy.htm) for the most accurate reproduction.*
 
 # 
 
