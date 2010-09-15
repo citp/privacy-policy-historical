@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the buywithme.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629130107id_/http%3A//www.buywithme.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buywithme.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915171746id_/http%3A//www.buywithme.com/pages/privacy) for the most accurate reproduction.*
 
 # BuyWithMe - Group Buying, Big Discounts from Local Businesses
-
-## Privacy Policy
 
 #### Last Updated: March 8, 2010
 
@@ -32,7 +30,7 @@
 
 ### Section 4. Cookies, GIF Images and Unique URLs
 
-  * **4.1 Cookies.** Like most sites, BuyWithMe makes use of browser "cookies." Cookies are small text files placed on your computer's hard disk by our server. They allow us to quickly check your status as a subscriber and facilitate access to your preferences. BuyWithMe does not use cookies to retrieve or track information that is unrelated to the Site or services.
+  * **4.1 Cookies.** Like most sites, BuyWithMe makes use of browser “cookies.” Cookies are small text files placed on your computer’s hard disk by our server. They allow us to quickly check your status as a subscriber and facilitate access to your preferences. BuyWithMe does not use cookies to retrieve or track information that is unrelated to the Site or services.
   * **4.2 GIF Images.** BuyWithMe may also use transparent GIF images in emails we send to you. We use these images to track the viewership of emails we send.
   * **4.3 Unique URLs.** BuyWithMe may also create unique links in emails that enable us to track on which emails you click.
 
@@ -63,7 +61,7 @@
 
 ### Section 7. Usage Information
 
-  * **7.1** BuyWithMe may also collect non-personally identifying, aggregated information about subscribers' use of our site. This information is not personally identifiable and will only be used to find out how visitors to our site use our service. For example, we may view how much time users spend on our site, from which other sites users came, and which links to external sites have been used, among other things. We may share this data with third parties in an aggregated, non- personally identifying form. Such information does not identify you individually.
+  * **7.1** BuyWithMe may also collect non-personally identifying, aggregated information about subscribers’ use of our site. This information is not personally identifiable and will only be used to find out how visitors to our site use our service. For example, we may view how much time users spend on our site, from which other sites users came, and which links to external sites have been used, among other things. We may share this data with third parties in an aggregated, non- personally identifying form. Such information does not identify you individually.
 
 
 
@@ -91,7 +89,7 @@
 
 
 
-_If you have any questions about this Privacy Policy, please feel free to contact us through our website by clicking the "contact us" link._
+_If you have any questions about this Privacy Policy, please feel free to contact us through our website by clicking the “contact us” link._
 
 **BuyWithMe, Inc**   
 P.O. Box 990749   
