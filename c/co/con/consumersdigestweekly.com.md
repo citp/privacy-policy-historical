@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersdigestweekly.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605161603id_/http%3A//www.consumersdigestweekly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersdigestweekly.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915120500id_/http%3A//www.consumersdigestweekly.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
