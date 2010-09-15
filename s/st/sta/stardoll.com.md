@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stardoll.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621032258id_/http%3A//www.stardoll.com/en/help/termsOfUse.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardoll.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915142318id_/http%3A//www.stardoll.com/en/help/termsOfUse.php%23privacy) for the most accurate reproduction.*
 
-# Stardoll - Fame, fashion and friends
+# Terms Of Use - Stardoll
 
 #### MEMBERSHIP TERMS
 
