@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goedekers.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516173133id_/http%3A//www.number1direct.com/category.jhtm%3Fcid%3D96) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goedekers.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915215446id_/http%3A//www.number1direct.com/category.jhtm%3Fcid%3D96) for the most accurate reproduction.*
 
-# Privacy Policy - About Us Privacy Policy - Number1Direct by Goedeker's: Clearance Prices on Top Brands since 1951
+# Privacy Policy - Home Appliances, Mattresses and Electronics from Number1Direct.
 
 **Privacy Policy**
 
