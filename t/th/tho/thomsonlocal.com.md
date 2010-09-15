@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thomsonlocal.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415214614id_/http%3A//www.thomsonlocal.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomsonlocal.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915140638id_/http%3A//www.thomsonlocal.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Thomsonlocal.com website privacy policy.
 
 Thomson Directories Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20100415214614id_/http%3A//www.thomsonlocal.com/legalnotice.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, via our ThomsonLocal.com site ( **our site** ) will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/web/20100915140638id_/http%3A//www.thomsonlocal.com/legalnotice.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, via our ThomsonLocal.com site ( **our site** ) will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ## Information We May Collect From You
 
