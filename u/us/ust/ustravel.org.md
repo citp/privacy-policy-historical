@@ -1,39 +1,47 @@
-> *The following text is extracted and transformed from the ustravel.org privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605132950id_/http%3A//www.ustravel.org/about-us-travel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustravel.org privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915093942id_/http%3A//www.ustravel.org/about-us-travel/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Travel Association
 
-U.S. Travel Association Privacy Policy and Practices  
-This statement outlines the policies and practices of the U.S. Travel Association ("U.S. Travel") regarding the collection and use of your personal information from your visit to our Website. It includes our policies for U.S. Travel members and non-members. If after reviewing our privacy policy you have any questions or concerns please send an email to [privacy@USTravel.org](mailto:privacy@USTravel.org) or send a letter to the following address. We welcome your recommendations, suggestions and feedback.
+## U.S. Travel Association Privacy Policy and Practices
+
+This statement outlines the policies and practices of the U.S. Travel Association ("U.S. Travel") regarding the collection and use of your personal information from your visit to our Website. It includes our policies for U.S. Travel members and non-members. If after reviewing our privacy policy you have any questions or concerns please send an email to [weboperations@USTravel.org](mailto:weboperations@USTravel.org) or send a letter to the following address. We welcome your recommendations, suggestions and feedback.
 
 U.S. Travel Association  
 1100 New York Avenue, NW, Suite 450  
 Washington, DC 20005  
 United States of America
 
-Browsing  
+### Browsing
+
 This Web site does not collect personally identifiable information about you unless you voluntarily provide it to us. This means that we will not know your name, your email address, or any other personally identifiable information just because you browse the Web site unless you have created an account and log-in when you access the Web site or access the Web site from a link in an email that we sent to you.
 
 Information We Collect, How We Use It and How You Can Update/Delete it  
 When we need to collect personally identifiable information from you to provide you with a particular service, we will ask you to voluntarily supply us with the information we need.
 
-General Information Collected  
+### General Information Collected
+
 To monitor site usage and improve the quality of our website, we gather general information about the use of our site. We use web server logs and industry-standard website statistics software to count the number of users who visit our website and to count the number of views of particular pages, as well as to track other general statistics about our website. We do not track individual users' visits to our website. At times U.S. Travel may share with third parties the aggregate, anonymous information about overall usage of our website and other Internet services that we collect, in order to provide general information about our Internet services, sell advertising, or establish sponsorships or other business relationships. We do not share any information about specific users.
 
-Information Collected from Surveys  
+### Information Collected from Surveys
+
 We may conduct online surveys via pop-up windows on our website. Participation in such surveys is voluntary and you may decline to participate. In general, the data collected in such surveys will be used by U.S. Travel and not shared with any third parties. 
 
-Information Collected to Process a Transaction  
+### Information Collected to Process a Transaction
+
 In order to conduct a transaction on the U.S. Travel website, visitors must create login. Non-members will need to create an account to generate a unique user name and password; Members of U.S. Travel will use their member login and password (more information on Members is detailed below). Information collected from non-members may include your name, address, telephone and fax numbers, email address, and credit card number or other payment information. The personal information you provide is encrypted and sent to us using a secure method, in order to assure that your personal information is securely and safely transmitted. However, please understand that no one can give an absolute assurance that information intended to be maintained as private, whether transmitted via the Internet or otherwise, cannot be accessed inappropriately or unlawfully by third parties. We have taken and will continue to take reasonable steps to ensure the secure and safe transmission of your personal information.
 
-Information Payment Method   
+### Information Payment Method
+
 Payment information, such as your credit card details, is collected only to process a transaction and is stored in an encrypted format. While being used to process the transaction, your payment information is stored in an encrypted format and reasonable measures are taken to ensure your payment information is not vulnerable to theft or interception. We will not store or distribute your payment information in a manner that is not necessary for processing a transaction.
 
-Members' Information  
+### Members' Information
+
 U.S. Travel offers members certain services through the restricted-access "Members Only" section of our website. In the Members Only section, members can access and update their Member Profiles, which include personal information we have collected from each member as part of their membership application. Member Profiles are maintained for the Main and Associate member contacts in our main membership database. This information includes information such as member ID number, name, firm/organization, address, telephone and fax numbers, and email address.
 
 The Member Profiles are used by U.S. Travel to distribute marketing materials by mail, fax or email. If you are a member and wish to elect not to be included in any of these communications, please contact us using the methods listed below.
 
-Information Collected to Access Members Only Section  
+### Information Collected to Access Members Only Section
+
 U.S. Travel collects a password for each member who uses the online Members Section. This information is used to verify members' identities in order to prevent unauthorized access to the Members Only section and members' personal information. Only a small number of U.S. Travel employees and employees at our third-party software vendor have access to this information. It is accessed only when necessary to provide members with online account-related information, provide technical support, or diagnose or repair problems with the Members Only section. 
 
 Emails/Newsletters  
