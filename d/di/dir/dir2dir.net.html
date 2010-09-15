@@ -1,15 +1,152 @@
-<!--The following is the downloaded HTML source of the dir2dir.net privacy policy that was archived on 2010-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100625042939id_/http%3A//www.dir2dir.net/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dir2dir.net privacy policy that was archived on 2010-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100915130905id_/http%3A//www.dir2dir.net/privacy_policy.php) for the most accurate reproduction.-->
 
-<html><head>
-<title>Directory Services Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Dir2Dir.Net  - Web &amp; Articles Directory  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="http://css.yslow.us/templates/DMOZ_Chrome/style/main.css">
+<meta name="keywords" content="Dir2Dir.Net - Web &amp; Articles Directory,Arts,Blogs,Business,Computers &amp; Internet,Games,Government,Health,Home,Industrial,Kids &amp; Teens,News,Real Estate,Recreation &amp; Sports,Reference,Regional,Shopping,Society,Travel &amp; Tourism">
+<meta name="description" content="Dir2Dir.Net - Web &amp; Articles Directory - Arts,Blogs,Business,Computers &amp; Internet,Games,Government,Health,Home,Industrial,Kids &amp; Teens,News,Real Estate,Recreation &amp; Sports,Reference,Regional,Shopping,Society,Travel &amp; Tourism">
+<meta name="author" content="Dir2Dir.Net - Web &amp; Articles Directory Services">
+<meta name="copyright" content="Copyright (c) 2009 by Dir2Dir.Net - Web &amp; Articles Directory. All rights reserved!">
+<meta name="robots" content="robots.txt">
+<meta name="generator" content="Dir2Dir.Net - Web &amp; Articles Directory Services">
+<meta name="W3C CSS Validator" content="This document validates as CSS level 2.1 ! ">
+<meta name="revisit-after" content="7 days">
+<meta http-equiv="content-language" content="EN">
+<link rel="shortcut icon" href="/templates/favicon.ico">
+<link href="http://css.yslow.us/templates/DMOZ_Chrome/style/clip_styles.css" rel="Stylesheet" type="text/css">    
+<!--[if IE]>
+<link rel="stylesheet" href="http://css.yslow.us/templates/DMOZ_Chrome/style/ie.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if IE 8.000]><!-->
+<link rel="stylesheet" href="http://css.yslow.us/templates/DMOZ_Chrome/style/main.css" type="text/css" media="all">
+<!--<![endif]-->
 </head>
-
-<body><img src="templates/DMOZ_Chrome/images/logo.gif" alt="Logo">
-
-<p style="padding-left: 60px;"><strong>Directory Services Privacy Policy</strong><br><br>The privacy of our clients is of utmost importance to Directory Services.<br><br>If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please email us on directory@gmx.us. This e-mail address is being protected from spambots.<br><br><br><strong>Types of Personal Information we collect</strong><br><br>The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.<br><br>For the directory service order, we would generally require your name, address, telephone number etc., which would be stored in your individual profile. In some instances we will also require your credit card details and other information.<br><strong><br>Why we collect personal information</strong><br><br>Generally we collect, update and use personal information about you to allow us to transact business on your behalf.<br><br>We may choose to add your details to our database for the purpose of directing opportunities to your attention. At any time, if you do not wish to continue receiving this information, you can inform us by the email and your details will be removed.<br><br><strong>How we collect personal information</strong><br><br>Generally, we collect personal information directly from you. We may collect and update that information over the Internet by correspondence.<br><br><strong>How we store information</strong><br><br>We store personal information in a combination of secure computer storage facilities. We have taken a number of steps to protect the personal information we hold from misuse, loss and unauthorised access, modification or disclosure.<br><br>We also take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.<br><strong><br>When we may disclose your personal information</strong><br><br>Because your privacy is important we will not disclose your personal information without your consent.<br><br>However we may disclose personal information about you in the following circumstances:<br><br>* Where our business partners need to provide you with information and offers about products and services.<br><br><strong>Access to personal information</strong><br><br>We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date. If your personal details change, please contact us so that we can continue to provide you with our products and services.<br><br>We undertake to promptly acknowledge and investigate any complaints about the way we manage personal information.<br><br><strong>About this Privacy Policy Statement</strong><br><br>We may update our policies and this Privacy Policy Statement from time to time.<br><strong><br>Contact us</strong><br><br>If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please email us on directory@gmx.us.</p>
+<body><script type="text/javascript">
 
 
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height &lt; 110) {
+      document.getElementById('slide').style.marginTop = eval(height+7)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
 
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-7)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
 
-</body></html>
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.dir2dir.net/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+<div id="wrapperall">
+<div id="wrapperBg">
+<div id="wrapperBottom">
+<div id="wrapperTop">
+<div id="wrapperLeft">
+<div id="wrapperRight">	
+<div id="search">
+<label> </label>
+<form action="/index.php" method="get" style="float: left; margin: 0px; padding: 0px">
+<div id="inputleft"></div><input type="text" value="" name="search"><div id="inputright"></div>
+<button type="submit"></button>
+</form>
+<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced<br>Search</a>
+<p align="MIDDLE"><font color="BLUE">
+<script language="Javascript">
+<!--
+/*
+Today's date script
+Visit java-scripts.net or 
+http://wsabstract.com for this script
+*/
+
+ var dayName = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
+
+ var monName = new Array ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
+
+ var now = new Date
+
+ document.write("" + dayName[now.getDay()] + ", " + monName[now.getMonth()] + " "+now.getDate() +"")
+
+//-->
+</script>Friday, January 31</font></p>
+<div id="loginsplit"></div>
+</div>
+<div id="header">
+<a href="/"><img src="/templates/DMOZ_Chrome/images/logo.gif" width="970" height="100" alt="logo"></a>
+</div>
+<script type="text/javascript">
+
+var view1 = 0;
+var view2 = 0;
+
+</script><div id="menu"><ul><li><div class="split"></div></li><li><a href="/" title="Home">Home</a></li>		 <li><div class="split"></div></li> 	<li><a href="" onclick="return false;" onmouseover="document.getElementById('bar1').style.display='block';" onmouseout="if(view1==0) document.getElementById('bar1').style.display='none';"><span class="dropdown">Submit</span></a><div id="bar1" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/submit.php">»&nbsp;&nbsp;Site</a><a href="/submit_article.php" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Article</a></div></li><li><div class="split"></div></li><li><a href="/contact.php">Contact</a></li><li><div class="split"></div></li></ul></div><div id="content"><div id="sideleft" style="width: 215px;">
+</div>
+<div id="main">
+<p align="right"><img src="http://css.yslow.us/templates/images/privacy_policy.jpg" width="800" height="86" alt="privacy policy"></p><p style="padding-left: 60px;"><font color="blue"><strong>Directory Services Privacy Policy</strong></font><br><br>The privacy of our clients is of utmost importance to Directory Services.<br><br>If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please <a href="contact.php" title="contact webmaster" target="_blank">contact webmaster</a>. <br><br><br><font color="blue"><strong>Types of Personal Information we collect</strong></font><br><br>The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.<br><br>For the directory service order, we would generally require your name, address, telephone number etc., which would be stored in your individual profile. In some instances we will also require your credit card details and other information.<br><font color="blue"><strong><br>Why we collect personal information</strong></font><br><br>Generally we collect, update and use personal information about you to allow us to transact business on your behalf.<br><br>We may choose to add your details to our database for the purpose of directing opportunities to your attention. At any time, if you do not wish to continue receiving this information, you can inform us by the email and your details will be removed.<br><br><font color="blue"><strong>How we collect personal information</strong></font><br><br>Generally, we collect personal information directly from you. We may collect and update that information over the Internet by correspondence.<br><br><font color="blue"><strong>How we store information</strong></font><br><br>We store personal information in a combination of secure computer storage facilities. We have taken a number of steps to protect the personal information we hold from misuse, loss and unauthorised access, modification or disclosure.<br><br>We also take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.<br><font color="blue"><strong><br>When we may disclose your personal information</strong></font><br><br>Because your privacy is important we will not disclose your personal information without your consent.<br><br>However we may disclose personal information about you in the following circumstances:<br><br>* Where our business partners need to provide you with information and offers about products and services.<br><br><font color="blue"><strong>Access to personal information</strong></font><br><br>We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date. If your personal details change, please contact us so that we can continue to provide you with our products and services.<br><br>We undertake to promptly acknowledge and investigate any complaints about the way we manage personal information.<br><br><font color="blue"><strong>About this Privacy Policy Statement</strong></font><br><br>We may update our policies and this Privacy Policy Statement from time to time.<br><font color="blue"><strong><br>Contact us</strong></font><br><br>If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please <a href="contact.php" title="contact webmaster" target="_blank">contact webmaster</a>.</p><p></p><p></p><table border="0" class="formPage"></table><div style="clear: both"></div></div><div id="sideright" style="width: 215px;">
+</div>
+</div><div id="footer" style="margin-top: 20px;"><div id="footercontent"><a rel="nofollow" href="http://www.phplinkdirectory.com" title="PHP Link Directory" target="_blank">PHPLD</a>,<a href="http://www.usadir.org/" title="USA Directory" target="_blank">USADIR</a>,<a href="http://www.f2cont.com/" title="F2CONT Directory" target="_blank">F2</a>,<a href="http://www.helpdesksys.com/" title="HelpDeskSys" target="_blank">HD</a>,<a href="http://www.dir2dir.org/" title="Dir2DirOrg Directory" target="_blank">Do</a>,<a href="http://da.ngero.us/" title="Dangerous Directory" target="_blank">Da</a>,<a href="http://directory.goldenlandpages.com/" title="Goldenlandpages Directory" target="_blank">Go</a>,<a href="http://www.emyanmar.org/" title="eMyanmar Directory" target="_blank">e</a>,<a href="http://www.explorermyanmar.com/" title="Explorer Myanmar Directory" target="_blank">Em</a><div align="center"><a rel="nofollow" href="/privacy_policy.php" target="_blank">Privacy Policy</a>|<a rel="nofollow" href="/disclaimer.php" target="_blank">Disclaimer</a>|<a rel="nofollow" href="/terms_conditions.php" target="_blank">Terms and Conditions</a></div><div>Copyright © 2009-2010 DIR2DIRNET Directory.  All Rights Reserved.</div></div><a href="http://www.facebook.com/pages/Webs-Directory/148218085212301?ref=ts" target="_blank"><img src="http://css.yslow.us/templates/images/facebook.png" align="right" width="35" height="35" alt="facebook"></a><a href="http://twitter.com/webs_directory/" target="_blank"><img src="http://css.yslow.us/templates/images/twitter.png" align="right" width="35" height="35" alt="twitter"></a></div></div></div></div></div></div></div></body></html>
