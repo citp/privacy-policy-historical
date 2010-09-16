@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628113001id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2010-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100916074347id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.*
 
 # AmericanGreetings.com Privacy Policy
-
-Last Revised: August 25, 2009
-
-## GENERAL MATTERS
-
-### Overview
 
 At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of our use of your personal information online and your choices regarding that use. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.
 
@@ -82,7 +76,7 @@ AG reserves the right to communicate with you from time to time about important 
 
 If you elect to purchase a Membership or redeem a promotional membership on AG, you may be required to provide us with certain personal information, including your name, e-mail address, phone number, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.
 
-Additional data may be collected from Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of ecards you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for AG Reminders, which are e-mail alerts to track important dates and occasions they specify. The AG address book feature allows Members to store addresses of friends and family in order to make sending an ecard even easier. AG Membership allows you to store ecards for future delivery, bookmark favorite ecards, and save ecards received in an online scrapbook. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership.
+Additional data may be collected from Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of ecards you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for AG Reminders, which are e-mail alerts to track important dates and occasions they specify. The AG address book feature allows Members to store addresses of friends and family in order to make sending an ecard even easier. AG Membership allows you to store ecards for future delivery, bookmark favorite ecards, and save ecards received in an online scrapbook. The terms that govern the AG Toolbar, including what information it gathers and how we use it, can be found here [Terms of Service](http://www.americangreetings.com/legal.pd). The terms that govern the AG Reminders Widget, including what information it gathers and how we use it, can be found here [EULA](http://www.americangreetings.com/cardcalendar/eula.pd). By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership.
 
 If you become a Member of AG from one of our co-branded sites, we may share your registration information with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted. 
 
@@ -151,7 +145,7 @@ As of January 1, 2005, California Civil Code Section 1798.83 permits visitors to
 
 ### Canadian Customers.
 
-Carlton Cards complies with the Canadian Personal Information Protection and Electronic Documents Act. For more information about our Canadian privacy policy and the contact information for our Privacy Officer for Canada, please visit: (English) http://www.carltoncards.ca/english/privacy.html (Francais) http://www.carltoncards.ca/french/privacy.html
+Carlton Cards complies with the Canadian Personal Information Protection and Electronic Documents Act. For more information about our Canadian privacy policy and the contact information for our Privacy Officer for Canada, please visit: (English) <http://www.carltoncards.ca/privacypolicy.html> (Francais) <http://www.carltoncards.ca/french/fr_privacypolicy.html>
 
 ## OTHER MATTERS
 
