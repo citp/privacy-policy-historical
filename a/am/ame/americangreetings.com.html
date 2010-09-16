@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the americangreetings.com privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628113001id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americangreetings.com privacy policy that was archived on 2010-09-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100916074347id_/http%3A//www.americangreetings.com/warrants.pd) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<meta name="agmips" content="ag-web5">
+<meta name="agmips" content="ag3-web6">
 
 	<title>AmericanGreetings.com Privacy Policy</title>
 	<link rel="stylesheet" type="text/css" href="http://ak.imgag.com/imgag/css/agbeta/agi_base.css">
@@ -16,10 +16,10 @@ if(!djConfig){var djConfig = {locale: "en-us",useXDomain: true,dojoIframeHistory
 if(!agx){var agx = {};} ;if(!agx.currentPage){agx.currentPage = {};} agx.already_landed = function(evt){var mod = evt.replace(/\/(.*)\/.*\//, '$1');;if(dojo._loadedModules[mod]){return true;}return false;}; agx.wait_for_events = function(events, callback){;if(djConfig.isDebug && !xd){return callback();};for(var i=0; i<events.length; i++){;if(!agx.already_landed(events[i])){return new agx.WaitAll(events, callback);}}return callback();}; agx.WaitAll = function(events, callback){_this = this;this.events = events;this.callback = callback;this.events_called = {};this.meta_cb = function(evt){_this.events_called[evt] = true;var fire_callback = true;;for(var i=0; i<_this.events.length; i++){;if(!_this.events_called[_this.events[i]]){fire_callback = false;}};if(fire_callback){_this.callback();}};this.subscribe = function(evt){dojo.subscribe(evt, null,function(){_this.meta_cb(evt);});};dojo.forEach(events, this.subscribe, this);};
 //]]>
 </script>
-<script type="text/javascript" src="http://ak.imgag.com/imgag/js/built/1.3.2ag/dojo/dojo.xd.js"></script>
-<script type="text/javascript" src="http://ak.imgag.com/imgag/js/built/1.3.2ag/ag/layers/core.js"></script>
-<script type="text/javascript" src="http://ak.imgag.com/imgag/js/built/1.3.2ag/ag/layers/ext.js"></script>
-<script type="text/javascript" src="http://ak.imgag.com/imgag/js/built/1.3.2ag/ag/layers/storage.js"></script>
+<script type="text/javascript" src="http://ak.imgag.com/imgag/js/built/1.5.0/dojo/dojo.xd.js"></script>
+<script type="text/javascript" src="http://ak.imgag.com/imgag/js/built/1.5.0/ag/layers/core.js"></script>
+<script type="text/javascript" src="http://ak.imgag.com/imgag/js/built/1.5.0/ag/layers/ext.js"></script>
+<script type="text/javascript" src="http://ak.imgag.com/imgag/js/built/1.5.0/ag/layers/storage.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 var regtrigger = null; agx.wait_for_events(['/ag.layers.core/loaded/'],function(){var d = dojo;d.require('ag.permissions');d.require('ag.pile.shim');d.addOnLoad(function(){;if (location.pathname == '/screensavers/display.pd' || location.pathname == '/wallpapers/display.pd'){regtrigger = new RegistrationTrigger('/register/begin.pd');}else{regtrigger = new RegistrationTrigger();}});d.addOnLoad(function(){ag.permissions.hide_signup(ag.permissions.newsletter);});try{d.doc.execCommand("BackgroundImageCache", false, true);}catch(e){}});
@@ -108,6 +108,55 @@ Membership or to register your account and hit the "submit" button.</p>
 </div>
 <!-- End signin module -->
 <ul id="agi-links"><li class="agi-firstitem"><a class="agi-talkicon" href="JavaScript:OpenNewWindow('http://www.surveymonkey.com/s.aspx?sm=Zc0U8J2anQs408mUig0F2A_3d_3d','500','520','yes')">feedback</a></li><li><a href="http://www.americangreetings.com/help/index.pd">help</a></li></ul>
+<div id="agi-fbheader-in">
+    <ul id="agi-fbuser">   
+    </ul>
+</div>
+<div id="agi-fbheader-out">
+    <ul>
+        <li id="agi-fbheader-logo">
+            <a href="#" onclick="FB.login(); return false"><img alt="" src="http://ak.imgag.com/imgag/agbeta/facebook/fbsmall.png"></a>
+        </li>
+        <li id="agi-fbheader-login">
+            <a href="#" onclick="FB.login(); return false">Login to Facebook</a>
+        </li>
+    </ul>
+</div>
+<script type="text/javascript" src="http://ak.imgag.com/imgag/js/OOP.js"></script>
+<script type="text/javascript" src="http://ak.imgag.com/imgag/js/facebook/graph/base.js"></script>
+<script type="text/javascript" src="http://ak.imgag.com/imgag/js/facebook/graph/clients.js"></script>
+<script type="text/javascript" src="http://ak.imgag.com/imgag/js/facebook/graph/headers.js"></script>
+<script type="text/javascript">
+    // Create + init FB Headers
+    function initFacebookAndApps() {
+        
+        facebookHeader = AGI_FB.AG.Header(
+                { pageIds: {
+                        signedIn: 'agi-fbheader-in',
+                        signedOut: 'agi-fbheader-out',
+                        userContainer: 'agi-fbuser' } },
+                { perms: 'friends_birthday'}
+        );
+
+        facebookHeader.initFacebook('15d51841427b327a85faf3d42e626a11');
+
+    }
+</script>
+<!-- Load up Facebook SDK/environ (asynchronously) -->
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+    window.fbAsyncInit = function() {
+        try {
+            initFacebookAndApps();
+        } catch(err) { console.error(err); }
+    };
+    (function() {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol +
+              '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    }());
+</script>
 </div>
 
 <ul id="agi-tabs">
@@ -116,7 +165,6 @@ Membership or to register your account and hit the "submit" button.</p>
 <div id="agi-ecards-tablinks">
    <div class="agi-tablinks1">
     <ul>
-     <li><a href="http://www.americangreetings.com/ecards/category.pd/Occasions-Holidays-July-4th-of-July/_/N-8114Z80r6/Ne-81c4?navtype=dropdown">4th of July ecards</a></li>
      <li><a href="http://www.americangreetings.com/ecards/category.pd/Occasions-Special-Occasions-Anniversary/_/N-8154Z80r6/Ne-81c4?navtype=dropdown">Anniversary ecards</a></li>
      <li><a href="http://www.americangreetings.com/ecards/category.pd/Occasions-Special-Occasions-Baby/_/N-8150Z80r6/Ne-81c4?navtype=dropdown">Baby ecards</a></li>
      <li><a href="http://www.americangreetings.com/ecards/birthday?navtype=dropdown">Birthday ecards</a></li>
@@ -156,6 +204,7 @@ Membership or to register your account and hit the "submit" button.</p>
    <li class="listlast"><a href="http://www.americangreetings.com/ecards/taylorswift/index.pd?navtype=dropdown">Taylor Swift</a></li>
    <li class="listlast"><a href="http://www.americangreetings.com/ecards/jimbrickman?navtype=dropdown">Jim Brickman</a></li>
    <li class="listlast"><a href="http://www.americangreetings.com/momsconnection?navtype=dropdown">Mom's Connection</a></li>
+   <li class="listlast"><a href="http://ad.doubleclick.net/clk;228200289;12590889;o?http://www.americangreetings.com/connection/backtoschool/?navtype=dropdown">Back-to-School Giveaway</a></li>
    </ul>
   </div>
 </div>
@@ -166,7 +215,6 @@ Membership or to register your account and hit the "submit" button.</p>
 <div id="agi-printables-tablinks">
    <div class="agi-tablinks1">
     <ul>
-     <li><a href="http://www.americangreetings.com/printables/category.pd/Occasions-Holidays-July/_/N-5ybz7Z88cv/Ne-81c4?navtype=dropdown">4th of July</a></li>
      <li><a href="http://www.americangreetings.com/printables/category.pd/Occasions-Special-Occasions-Anniversary/_/N-8154Z88cv/Ne-81c4?navtype=dropdown">Anniversary</a></li>
      <li><a href="http://www.americangreetings.com/printables/category.pd/Occasions-Special-Occasions-Baby/_/N-8150Z88cv/Ne-81c4?navtype=dropdown">Baby</a></li>
      <li><a href="http://www.americangreetings.com/printables/birthday?navtype=dropdown">Birthday</a></li>
@@ -325,10 +373,6 @@ Membership or to register your account and hit the "submit" button.</p>
 <!--CONTENT-->
 <div id="agi-content">
 
-<h1>AmericanGreetings.com Privacy Policy</h1>
-<p>Last Revised: August 25, 2009</p>
-<h2>GENERAL MATTERS</h2>
-<h3>Overview</h3>
 <p>At AmericanGreetings.com ("AG"), protecting our users' privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of our use of your personal information online and your choices regarding that use. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.</p>
 <h3>Scope of Policy</h3>
 <p>This Policy applies to AG as well as our co-branded sites including AG-AOL sites, Kidzonks, and the AG-MSN sites.  This Policy does not apply to other companies' or organizations' web sites to which we link. You should carefully review the privacy policies of those web sites in order to determine how they treat your personal information.</p>
@@ -368,7 +412,7 @@ Membership or to register your account and hit the "submit" button.</p>
 <p>AG reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our <a href="http://www.americangreetings.com/legal.pd" target="_blank">Terms of Service</a>. These communications are mandatory. </p>
 <h3>Information Gathered From Members</h3>
 <p>If you elect to purchase a Membership or redeem a promotional membership on AG, you may be required to provide us with certain personal information, including your name, e-mail address, phone number, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.</p>
-<p>Additional data may be collected from Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of ecards you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for AG Reminders, which are e-mail alerts to track important dates and occasions they specify. The AG address book feature allows Members to store addresses of friends and family in order to make sending an ecard even easier. AG Membership allows you to store ecards for future delivery, bookmark favorite ecards, and save ecards received in an online scrapbook. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership.</p>
+<p>Additional data may be collected from Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of ecards you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for AG Reminders, which are e-mail alerts to track important dates and occasions they specify. The AG address book feature allows Members to store addresses of friends and family in order to make sending an ecard even easier. AG Membership allows you to store ecards for future delivery, bookmark favorite ecards, and save ecards received in an online scrapbook. The terms that govern the AG Toolbar, including what information it gathers and how we use it, can be found here <a href="http://www.americangreetings.com/legal.pd">Terms of Service</a>. The terms that govern the AG Reminders Widget, including what information it gathers and how we use it, can be found here <a href="http://www.americangreetings.com/cardcalendar/eula.pd">EULA</a>. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership.</p>
 <p>If you become a Member of AG from one of our co-branded sites, we may share your registration information with the co-branded partner. In such instances, the site will be clearly labeled with the branding information of our partner and links to its privacy policy will be conspicuously posted. </p>
 <h2>AG's USES OF PERSONAL INFORMATION</h2>
 <p>If you have provided us your consent, we will use the information we have collected about you in five ways:</p>
@@ -408,7 +452,7 @@ Membership or to register your account and hit the "submit" button.</p>
 <h3>California Residents.</h3>
 <p>As of January 1, 2005, California Civil Code Section 1798.83 permits visitors to this Site who are residents of California to request information regarding AG's disclosure of their information to third parties for direct marketing purposes. To make such a request, please contact our <a href="http://www.americangreetings.com/help/help_email.pd?Category=Security%20and%20Privacy&amp;SubCat=Privacy%20Policy&amp;QuestionID=223&amp;ResponseID=0">Customer Support Department</a>.</p>
 <h3>Canadian Customers.</h3>
-<p>Carlton Cards complies with the Canadian Personal Information Protection and Electronic Documents Act. For more information about our Canadian privacy policy and the contact information for our Privacy Officer for Canada, please visit: (English) http://www.carltoncards.ca/english/privacy.html (Francais) http://www.carltoncards.ca/french/privacy.html</p>
+<p>Carlton Cards complies with the Canadian Personal Information Protection and Electronic Documents Act. For more information about our Canadian privacy policy and the contact information for our Privacy Officer for Canada, please visit: (English) <a href="http://www.carltoncards.ca/privacypolicy.html" target="_blank">http://www.carltoncards.ca/privacypolicy.html</a> (Francais) <a href="http://www.carltoncards.ca/french/fr_privacypolicy.html" target="_blank">http://www.carltoncards.ca/french/fr_privacypolicy.html</a></p>
 <h2>OTHER MATTERS</h2>
 <h3>Protection For Children - COPPA Compliance</h3>
 <p>We are committed to protecting the privacy and rights of children online. We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information. To that end, we have made it our policy to not collect any individually identifiable information from users whom we know are under the age of 13. Our registration process blocks the registration of users under 13 years old and will automatically delete all individually identifiable information collected from such users.</p>
@@ -457,13 +501,13 @@ Membership or to register your account and hit the "submit" button.</p>
 <li><a href="http://investors.americangreetings.com/" target="_blank">Investor Relations</a></li>
 <li><a href="http://pressroom.americangreetings.com/" target="_blank">Press Room</a></li>
 <li><a href="http://corporate.americangreetings.com/media/corporatenews/2007/cn_11_22_07.html" target="_blank">Recalls</a></li>
-<li><a href="JavaScript:OpenNewWindow('http://www.americangreetings.com/advertise.pd','500','300','no')">Advertise with Us</a></li>
-<li><a href="http://americangreetings.affiliatetraction.com/">Affiliate Program</a></li>
+<li><a href="http://advertising.americangreetings.com">Advertise with Us</a></li>
+<li><a href="http://www.PaulsonManagementGroup.com/AmericanGreetings">Affiliate Program</a></li>
 </ul>
 <ul id="agi-corpinfo2">
 <li><a href="http://www.americangreetings.com/help/index.pd">Help Center</a></li>
 <li><a href="http://www.americangreetings.com/warrants.pd">Privacy Policy</a></li>
-<li><a href="http://www.americangreetings.com/legal.pd#top">Terms of Service</a></li>
+<li><a href="http://www.americangreetings.com/legal.pd">Terms of Service</a></li>
 <li><a href="http://www.americangreetings.com/retailers/index.pd">Find a Retailer</a></li>
 </ul>
 </div>
@@ -504,6 +548,7 @@ Membership or to register your account and hit the "submit" button.</p>
 </div>
 <span id="agi-copyright">AmericanGreetings.com is a service of <a class="agi-interactiveimg" href="http://www.aginteractive.com/" target="_blank"></a> a subsidiary of <a href="http://corporate.americangreetings.com/" class="agi-corporateimg" target="_blank"></a>, Copyright © 1997-2010 AG.com, Inc. all rights reserved.</span>
 
+<iframe src="http://tags.mediaforge.com/if/122" frameborder="0" scrolling="no" width="0" height="0"></iframe>
 </div>
 <!--END FOOTER-->
 
@@ -511,7 +556,7 @@ Membership or to register your account and hit the "submit" button.</p>
 </div>
 <!--END PAGE-->
 
-<!-- page generated: Mon Jun 28 07:29:11 2010 -->
+<!-- page generated: Thu Sep 16 03:44:19 2010 -->
 
 
 <script type="text/javascript" src="http://ak.imgag.com/imgag/js/omniture/extras.js"></script>
@@ -521,7 +566,7 @@ http://www.omniture.com -->
 <script type="text/javascript" language="JavaScript">//<!--
 var ingroup=omniture.inTrackingSample();
 var s_pageName="/warrants.pd";
-var s_server="ag-web5";
+var s_server="ag3-web6";
 var s_channel="Main";
 var s_pageType="";
 var s_prop1="";
@@ -594,7 +639,7 @@ function do_omniture() {
 //--></script><script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
-src="http://agamgreetingscom.112.2O7.net/b/ss/agamgreetingscom/1/G.7--NS/0?pageName=%2Fwarrants.pd%7Cnst&ch=Main&server=ag-web5&c10=ag&c3=W"
+src="http://agamgreetingscom.112.2O7.net/b/ss/agamgreetingscom/1/G.7--NS/0?pageName=%2Fwarrants.pd%7Cnst&ch=Main&server=ag3-web6&c10=ag&c3=W"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: G.7. -->
 
