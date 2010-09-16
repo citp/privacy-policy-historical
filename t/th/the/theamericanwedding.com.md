@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020183040id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2010-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100916094002id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy Is Important | Customer Service | The American Wedding
 
@@ -9,7 +9,10 @@ American Stationery Company, Inc. (the Company), as owner and operator of severa
   * [www.americanstationery.com](http://www.americanstationery.com/)
   * [www.theamericanwedding.com](http://www.theamericanwedding.com/)
 
-is committed to your online security and privacy. We believe that your online shopping experience should be safe, secure and enjoyable. We take measures to make that happen. This statement provides details concerning our policies and procedures to protect your online security and privacy. This privacy statement does not apply to information we may gather through sources other than our web sites, including, but not limited to, orders that are transmitted by telephone, fax or mail. 
+
+
+is committed to your online security and privacy. We believe that your online shopping experience should be safe, secure and enjoyable. We take measures to make that happen. This statement provides details concerning our policies and procedures to protect your online security and privacy. This privacy statement does not apply to information we may gather through sources other than our web sites, including, but not limited to, orders that are transmitted by telephone, fax or mail.
+
   * Information Collection and Use
     * Information Collection 
       * Registration
@@ -57,7 +60,7 @@ We believe in helping others. We believe that our customers may wish to share th
 
 ### Information Use
 
-**Cookies**  
+ **Cookies**  
 A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies and persistent cookies. Once users close the browser, the session ID cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
 
 By allowing a cookie from our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in some marketing promotions that may be offered from time to time, to users matching a specific profile. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
@@ -91,7 +94,6 @@ In the event the Company goes through a business transition, such as a merger, b
 **Opt-in/out & Update**  
 By using our web site, our users agree to the uses of information described in this statement, and are "opting-in" to receive communications as herein described. Our users always have a choice. They are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site. Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by following the opt-out instructions contained in the email or clicking [here](https://web.archive.org/optoutdb.asp). Our users may update their information in "My Account" at any time.
 
-  
 **Links**  
 This web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
