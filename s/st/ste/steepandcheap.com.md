@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steepandcheap.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106111745id_/http%3A//www.steepandcheap.com/steepcheap/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steepandcheap.com privacy policy that was archived on 2010-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100916150808id_/http%3A//www.steepandcheap.com/steepcheap/privacy.html) for the most accurate reproduction.*
 
 # Steepandcheap.com | Privacy Policy from Steepandcheap.com
 
@@ -50,4 +50,4 @@ The answer is one simple word: Passion. We share your passion for the outdoors, 
 
 ## One Deal at a Time
 
-At Steep and Cheap, we sell premium, core outdoor gear and clothing at prices that are downright criminal. Here’s how it works: Steep and Cheap sells one screamin’ deal at a time until it’s gone. The deals are fat (up to 80% off and no less than 50% off), so they sell out fast. You have to act fast or you’ll miss it, but don’t stress—as soon as one deal sells out, we kick off another. It’s back-to-back deals all day long. [Learn more](http://www.steepandcheap.com/steepcheap/help/227/One-Deal-at-a-Time.html). 
+At Steep and Cheap, we sell premium, core outdoor gear and clothing at prices that are downright criminal. Here’s how it works: Steep and Cheap sells one screamin’ deal at a time until it’s gone. The deals are fat, so they sell out fast. You have to act fast or you’ll miss it, but don’t stress—as soon as one deal sells out, we kick off another. It’s back-to-back deals all day long. [Learn more](http://sales.liveperson.net/hc/s-9551721/cmd/kbresource/kb-3432330500148897931/view_question!PAGETYPE?sc=490&sp=101&sf=101133&documentid=340727&action=view&VisitorProfile=SAC&MESSAGEVAR!home=yes&MESSAGEVAR!cookie=no&MESSAGEVAR!docid=340727). 
