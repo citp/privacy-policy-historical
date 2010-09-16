@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xhtmljunction.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623033348id_/http%3A//www.xhtmljunction.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xhtmljunction.com privacy policy that was archived on 2010-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100916051126id_/http%3A//www.xhtmljunction.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: XHTML Junction
 
