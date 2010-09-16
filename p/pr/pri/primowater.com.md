@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primowater.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516180708id_/http%3A//www.primowater.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primowater.com privacy policy that was archived on 2010-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100916021022id_/http%3A//www.primowater.com/privacy-policy.php) for the most accurate reproduction.*
 
 # A better tasting drinking water, better for the environment. Primo Water Taste Perfection. Privacy Policy.
 
