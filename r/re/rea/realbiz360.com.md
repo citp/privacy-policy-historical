@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbiz360.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518072202id_/http%3A//www.realbiz360.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbiz360.com privacy policy that was archived on 2010-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100916231045id_/http%3A//www.realbiz360.com/footer/privacy) for the most accurate reproduction.*
 
 # RealBiz360 Virtual Tour Web Marketing - Privacy Policy
 
