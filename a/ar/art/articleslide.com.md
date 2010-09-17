@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleslide.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113193104id_/http%3A//www.articleslide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleslide.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917081519id_/http%3A//www.articleslide.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleSlide.com | Privacy Statement
 
