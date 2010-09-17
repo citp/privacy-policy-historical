@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the article-content-king.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410180936id_/http%3A//www.article-content-king.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-content-king.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917082331id_/http%3A//article-content-king.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# privacy Quality Website Articles | Submit Articles Here
+# privacy Free Article Directory | Submit Articles
 
 Article-Content-King.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
