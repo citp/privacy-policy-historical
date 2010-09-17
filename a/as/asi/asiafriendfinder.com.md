@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asiafriendfinder.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324190627id_/http%3A//asiafriendfinder.com/go/page/privacy.html%3Fm%3D%26site%3Dffz%26od%3Dasiafriendfinder%26who%3Dr%2CWLyLLcbmKsn/xX5oJCTdWvT/bUkv4VvMSeivY_YRfrQ7zcjTwYQLCilLieuhER7J5JlPE6uQCc_16FkVEIuJOpF0Lb4Zk_IFDudAzsphpHt6s7cNH0ZBQfGf3R8RLp7hf0krHL5YvsNaDbGCWbwYZg--) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiafriendfinder.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917133041id_/http%3A//asiafriendfinder.com/go/page/privacy.html%3Fod%3Dasiafriendfinder%26who%3Dr%2C6baQ80le4Rxq_4blV6u/Pu8WPu6VY7yOCWfG8hadUotfUJX/uZnHoSmhGnTmUB7b1A_LPXNiM5R15n1VlvczqjV3VVgFmwCP6nRtVWXIFSAw2Z7r8mzZE_zJFn91k/AdgvOAem4YB0GJ9CcbfPfkZQ--) for the most accurate reproduction.*
 
-# Asia FriendFinder PRIVACY POLICY
+# Asia Friendfinder PRIVACY POLICY
 
 ### FRIENDFINDER NETWORKS INC. PRIVACY POLICY
 
