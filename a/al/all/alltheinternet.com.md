@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624025600id_/http%3A//www.alltheinternet.com/texis/open/allthru%3Farea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917053859id_/http%3A//www.alltheinternet.com/texis/open/allthru%3Farea%3Dprivacy) for the most accurate reproduction.*
 
 # All the Internet - Privacy Policy
 
-  
 We at All the Internet take your privacy seriously. Please read the following to learn more about our privacy policy. 
 
 **Privacy Policy**  
@@ -27,4 +26,4 @@ Some of the search engines listed in the All the Internet may pay a listing fee 
 All the Internet may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
 **Questions and Suggestions**  
-If you have questions or suggestions, please [Contact Us](https://web.archive.org/texis/open/allthru?area=contactus&c=)
+If you have questions or suggestions, please [Contact Us](https://web.archive.org/texis/open/allthru?area=contactus)
