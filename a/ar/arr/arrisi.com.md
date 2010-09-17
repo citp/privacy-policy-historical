@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrisi.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103162649id_/http%3A//www.arrisi.com/privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrisi.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917072247id_/http%3A//arrisi.com/privacy_policy/index.asp) for the most accurate reproduction.*
 
 # ARRIS : Privacy Policy
 
@@ -73,6 +73,6 @@ Unless otherwise stated, all shipments within United States (Domestic) are made 
 Returns  
 Purchaser must obtain Seller's prior authorization for returns, which authorization Seller may grant at its sole discretion. Returns must be (a) made in original cartons and in resalable condition, (b) within ninety (90) days of receipt, and (c) subject to a restocking charge of not less than 20% of the stated invoice price.  
   
-[Privacy Policy](https://web.archive.org/privacy_policy/index.asp) | [Feedback](https://web.archive.org/about_us/contact_us/_feedback/index.asp) | © 1995 - 2009 ARRIS Group, Inc. All Rights Reserved   
+[Privacy Policy](https://web.archive.org/privacy_policy/index.asp) | [Feedback](https://web.archive.org/about_us/contact_us/_feedback/index.asp) | © 1995 - 2010 ARRIS Group, Inc. All Rights Reserved   
   
  
