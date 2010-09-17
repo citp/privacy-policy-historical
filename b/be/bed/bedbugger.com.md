@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bedbugger.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102054430id_/http%3A//bedbugger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedbugger.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917224153id_/http%3A//bedbugger.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Got bed bugs? Bedbugger.com
 
 **Privacy Policy for Bedbugger.com**
 
@@ -38,7 +38,4 @@ Contact Form
 We use a secure contact form. If you choose to send a message via the contact form, it will go to nobugsonme, the site owner.
 
 _  
-*This statement was based in part on a template by[JenSense.](http://www.jensense.com/2008/03/05/adsense-friendly-privacy-policy-sample-for-adsense-publishers-to-use/ "jensense") Thanks JenSense!_  
-
-
-### Similar Posts:
+*This statement was based in part on a template by[JenSense.](http://www.jensense.com/2008/03/05/adsense-friendly-privacy-policy-sample-for-adsense-publishers-to-use/ "jensense") Thanks JenSense!_
