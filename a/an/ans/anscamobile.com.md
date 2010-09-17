@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anscamobile.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129032941id_/http%3A//www.anscamobile.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anscamobile.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917232805id_/http%3A//www.anscamobile.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Ansca | Unlock your imagination...
 
