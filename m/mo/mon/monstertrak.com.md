@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstertrak.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227160040id_/http%3A//my.monster.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstertrak.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918024658id_/http%3A//my.monster.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Find Jobs: Search millions of jobs now | Monster.com
 
@@ -44,7 +44,7 @@ For more information on how to protect yourself online, click [here](https://web
 
 ## How to Contact Us
 
-You may [contact us](http://about.monster.com/privacy/emailform/) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1-800-MONSTER, or write to us at: 
+You may [contact us](http://my.monster.com/privacy/EmailForm.aspx) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1-800-MONSTER, or write to us at: 
 
 Privacy Office  
 Monster Worldwide, Inc.  
