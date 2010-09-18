@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slack-time.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218130549id_/http%3A//www.slack-time.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slack-time.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918034712id_/http%3A//www.slack-time.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Stement
 
