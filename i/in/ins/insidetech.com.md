@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidetech.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618071710id_/http%3A//my.monster.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetech.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918024658id_/http%3A//my.monster.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Find Jobs: Search millions of jobs now | Monster.com
 
