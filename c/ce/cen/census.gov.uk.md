@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the census.gov.uk privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505211910id_/http%3A//comms.census.gov.uk/en/controller.php%3Fcontent_id%3D900) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the census.gov.uk privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918064352id_/http%3A//2011.census.gov.uk/en/index.php%3Fcontent_id%3D900) for the most accurate reproduction.*
 
 # Privacy Statement
 
