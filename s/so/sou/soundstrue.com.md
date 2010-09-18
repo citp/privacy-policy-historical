@@ -1,64 +1,46 @@
-> *The following text is extracted and transformed from the soundstrue.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216204058id_/http%3A//store.soundstrue.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundstrue.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919010416id_/http%3A//www.soundstrue.com/pages/popup_privacy.php) for the most accurate reproduction.*
 
-# Sounds True Privacy Policy
+# Privacy Statement of Sounds True Inc.
 
-**
+| Information about our Organization and Website |   
+---|---|---  
+| 
 
-Privacy Statement of Sounds True Inc.   
+Modern information and communication technologies play a fundamental role in the activities of an organization like Sounds True, Inc. 
 
+Our principal activity is publishing. Our privacy policy covers Sounds True, Inc., and its website: 
 
-**   
+Organization Name:Sounds True, Inc. Country:USA Controller:Information Systems Dept. Website(s):www.soundstrue.com
 
+|   
+|  |   
+| Providing Visitors with Anonymous Access |   
+---|---|---  
+| 
 
-**
+You can access our website home page and browse our site without disclosing your personal data. 
 
-**Information about our Organization and Web site**  
+|   
+|  |   
+| Services and Links |   
+---|---|---  
+| 
 
+Our website does not enable our visitors to communicate with other visitors or to post information to be accessed by others. 
 
-**
-
-Modern information and communication technologies play a fundamental role in the activities of an organization like Sounds True Inc.  
-Our principal activity is: Publishing  
-Our privacy policy covers Sounds True Inc. and its Web site:  ** Organization Name: |  Sounds True Inc.   
----|---  
-Country: |  USA   
-Controller: |  Information Systems Dept.   
-Web Sites(s): |  www.soundstrue.com   
-**  
-
-
-**
-
-**Providing Visitors with Anonymous Access**  
-
-
-**
-
-You can access our Web site home page and browse our site without disclosing your personal data. 
-
-**
-
-**The services and links of our Web site**  
-
-
-**
-
-Our Web site does not enable our visitors to communicate with other visitors or to post information to be accessed by others.
-
-**
-
-Automatic Collection of Information
-
-**
+|   
+|  |   
+| Automatic Collection of Information |   
+---|---|---  
+| 
 
 We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals. 
 
-**
-
-Data Collection and Purpose Specification  
-
-
-**
+|   
+|  |   
+| Data Collection and Purpose Specification |   
+---|---|---  
+| 
 
 We collect the personal data that you may volunteer while using our services. 
 
@@ -66,100 +48,108 @@ We do not collect information about our visitors from other sources, such as pub
 
 If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes: 
 
-  * by indicating in a box at the point on the site where personal data is collected. 
+  * By indicating in a box at the point on the site where personal data is collected. 
 
-
-
-**
-
-Children's Privacy  
-
-
-**
+|   
+|  |   
+| Children's Privacy |   
+---|---|---  
+| 
 
 We do not knowingly collect personal data from children. 
 
-We will provide information about our personal data practices in relation to children wherever we knowingly collect personnal data from children on our Web site. 
+We will provide information about our personal data practices in relation to children wherever we knowingly collect personal data from children on our website. 
 
-**
+|   
+|  |   
+| Disclosure and Visitor Choice |   
+---|---|---  
+| 
 
-Disclosure and Visitor Choice  
+Where we disclose your personal data for the same purposes as those indicated in the list below, we provide you with the means to opt-out of disclosure: 
 
-
-**
-
-We disclose our visitors' personal data to our subsidiaries or other organizations. 
-
-Where we disclose your personal data for the same purposes as those indicated in the table below, we provide you with the means to opt-out of disclosure: 
-
-  * by indicating in a box at the point on the site where personal data is collected 
-  * by sending postal mail to this address ( Sounds True, 413 S Arthur Ave, Louisville, CO 80027 ) 
-  * by calling this telephone number (800-333-9185) 
+  * By indicating in a box at the point on the site where personal data is collected
+  * By sending postal mail to this address: Sounds True, 413 S. Arthur Ave, Louisville, CO 80027
+  * By calling Customer Service at 800-333-9185
 
 
 
-Where we disclose your personal data for purposes which are different from those indicated in the table mentioned above, we offer you the opportunity to consent to disclosure: 
+Where we disclose your personal data for purposes which are different from those indicated in the list mentioned above, we offer you the opportunity to consent to disclosure: 
 
-  * by indicating in a box at the point on the site where personal data is collected 
+  * By indicating in a box at the point on the site where personal data is collected
 
-
-
-**
-
-Confidentiality / Security  
-
-
-**
+|   
+|  |   
+| Confidentiality / Security |   
+---|---|---  
+| 
 
 We provide a secure transmission method to send us the following types of personal data: 
 
-  * identifiers (such as credit card details, Web site password)   
-
-  * Name, address, phone number, and email are all transmitted securely. 
-
+  * Identifiers (such as credit card details, Web site password)
+  * Name, address, phone number, and email are all transmitted securely
 
 
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
 
-  * unauthorised access 
-  * improper use or disclosure 
-  * unauthorised modification 
-  * unlawful destruction or accidental loss 
+We have implemented security policies, rules, and technical measures to protect the personal data that we have under our control from: 
+
+  * Unauthorized access
+  * Improper use or disclosure
+  * Unauthorized modification
+  * Unlawful destruction or accidental loss
 
 
 
 All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. 
 
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. 
+We ensure that your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation. 
 
-**
+|   
+|  |   
+| Access to the Personal Data We May Hold About You |   
+---|---|---  
+| 
 
-Access to the personal data we may hold about you 
+You can ask us by:
 
-** You can ask us, by: 
+  * Sending an email (customerrelations@soundstrue.com)
+  * Calling Customer Service at 800-333-9185
 
-  * sending an email (customerrelations@soundstrue.com) 
-  * calling this telephone number (800-333-9185) 
 
-whether we are keeping personal data about you. 
 
 Upon request, which you can indicate by: 
 
-  * sending an email ( customerrelations@soundstrue.com ) 
-  * calling this telephone number (800-333-9185) 
+  * Sending an email at [customerrelations@soundstrue.com](mailto:customerrelations@soundstrue.com)
+  * Calling Customer Service at 800-333-9185
 
 
 
-We will provide you with a readable copy of the personal data which we keep about you, within a week - although we may before require proof of your identity. We will provide the information without any charge. 
+We will provide you with a readable copy of the personal data which we keep about you, within a week — although we may require proof of your identity beforehand. We will provide the information without any charge.
 
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
+We allow you to challenge the data that we hold about you and, where appropriate, you may have the data:
 
-  * erased 
-  * rectified or amended 
-  * completed 
+  * Erased
+  * Rectified or amended
+  * Completed
 
 
 
-We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal. 
+We reserve the right to refuse providing our visitors with a copy of their personal data, but will give reasons for our refusal.
 
-We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. 
+We do, however, allow you to challenge our decision to refuse providing you with a copy of your personal data.
+
+|   
+|  |   
+| Privacy Support |   
+---|---|---  
+| 
+
+If you have an inquiry or concern about our privacy policy, please contact: 
+
+Sounds True Customer Relations  
+413 S. Arthur Ave., Louisville, CO 80027  
+800-333-9185  
+[customerrelations@soundstrue.com](mailto:customerrelations@soundstrue.com)
+
+|   
+|  | 
