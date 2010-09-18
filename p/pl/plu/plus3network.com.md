@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plus3network.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630112613id_/http%3A//www.plus3network.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus3network.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918092604id_/http%3A//www.plus3network.com/user/privacy) for the most accurate reproduction.*
 
 # Plus 3 Network
 
