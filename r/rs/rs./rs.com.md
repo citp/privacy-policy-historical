@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623085224id_/http%3A//www.rocketsoftware.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918231457id_/http%3A//www.rocketsoftware.com/about/privacy) for the most accurate reproduction.*
 
 # Rocket Software
 
