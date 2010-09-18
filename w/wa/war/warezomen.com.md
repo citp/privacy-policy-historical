@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warezomen.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526163438id_/http%3A//www.warezomen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warezomen.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918105638id_/http%3A//www.warezomen.com/privacy.html) for the most accurate reproduction.*
 
 # WarezOmen - Privacy Policy
 
