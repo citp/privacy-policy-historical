@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620000725id_/http%3A//www.efinancialcareers.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919074551id_/http%3A//www.efinancialcareers.com/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Finance jobs, banking jobs, recruitment in investment banking & in the financial markets
 
