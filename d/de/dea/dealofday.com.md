@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealofday.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329155024id_/http%3A//dealofday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealofday.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919070456id_/http%3A//dealofday.com/privacy.php) for the most accurate reproduction.*
 
 # DealofDay.com - Deal of the Day, Deals, Coupons, Sales & Discounts
 
