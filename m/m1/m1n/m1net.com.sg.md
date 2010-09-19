@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m1net.com.sg privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427005441id_/http%3A//www.m1net.com.sg/wireless-sg/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m1net.com.sg privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919144957id_/http%3A//www.m1net.com.sg/wireless-sg/footer/privacy.html) for the most accurate reproduction.*
 
 # M1Net Ltd
 
