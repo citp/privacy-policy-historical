@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khou.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603052514id_/http%3A//www.khou.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khou.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919114812id_/http%3A//www.khou.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # khou.com | Houston News, Local News, Breaking News, Weather | Privacy Policy
 
