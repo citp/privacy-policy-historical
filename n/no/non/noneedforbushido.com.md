@@ -1,28 +1,48 @@
-> *The following text is extracted and transformed from the noneedforbushido.com privacy policy that was archived on 2009-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090722023457id_/http%3A//www.keenspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noneedforbushido.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919234538id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
 
-# Keenspot.com: Privacy Policy
+# Generic Privacy Policy
 
-PRIVACY POLICY  
-Keenspot does not collect information from its visitors without their knowledge. Keenspot may request demographic and poll information from its visitors, but participation is completely optional. Whatever the case, the personal information you supply, if you choose to do so, will not be given out or sold under any circumstances.
+**Generic Privacy Policy**
 
-Occasionally we will ask you for personal information, such as your name, email address, address, etc. when you sign up for various services such as 
+(last updated March 2009)
 
-[Keenspot PREMIUM](https://premium/), or an account on our [Forums](http://forums.keenspot.com/) or when you buy items from our Store. This information is only used for your security to identify you and protect your account access and information. It is never shared or sold to any other company.Keenspot works with a number of third party companies that serve ads to our network of sites. To find out more about how these companies manage the privacy of information in conjunction with serving ads on this site, please go to:  
-[Burst Media's Privacy Policy](http://www.burstmedia.com/release/privacy.asp)  
-[L90's Privacy Policy](http://www.l90.com/corporate/privacy_policy/index.html)  
-[Doubleclick's Privacy Policy](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)  
-[Adtegrity's Privacy Policy](http://www.adtegrity.com/privacy.asp)
+Websites linking to this page have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below.
 
-We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers, and we do not have access to this information. These companies may use the information (which does not include your name, address, email, or telephone number) collected in these cookies to provide you advertisements for goods and services which most appropriately suit your interests. You may choose not to have your information shared through these cookies to third party advertisers through their various opt-out programs. For information on opting out of the Doubleclick program, go to their [Opt Out](http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&) webpage.
+## Information that is gathered from visitors
 
-This site contains links to other sites. 
+In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
 
-Keenspot is not responsible for the privacy practices or the content of such Web sites. Contacting the Web Site - If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [keenspot @keenspot.com](mailto:keenspot@keenspot.com "email us.")
+Cookies may be used to remember visitor preferences when interacting with the website.
 
-**3/19/2002 ADDENDUM:** In the interests of meeting Doubleclick's and/or MaxWorldWide's privacy policy policies more expediently, we have inserted the following required verbiage, which may be highly redundant with the information above: 
+Where registration is required, the visitor's email and a username will be stored on the server.
 
-**Third Party Advertising:** We use MaxWorldWide, DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [Here.](http://www.networkadvertising.org/optout_nonppii.asp)
+## How the Information is used
 
-**Third Party Cookies:** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
 
-Keenspot.com welcomes your questions and comments about privacy. Please send e-mail to [privacy @keenspot.com](mailto:privacy@keenspot.com "email us.")
+E-mail addresses will not be sold, rented or leased to 3rd parties.
+
+E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+
+## Visitor Options
+
+If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+
+You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+
+## Cookies
+
+Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+
+3rd party advertising companies may also use cookies for tracking purposes.
+
+## Google Ads
+
+Google, as a third party vendor, uses cookies to serve ads.
+
+Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+
+Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+  
+
