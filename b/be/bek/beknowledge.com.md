@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beknowledge.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617043118id_/http%3A//www.beknowledge.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beknowledge.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919150745id_/http%3A//www.beknowledge.com/%3Fpage_id%3D34) for the most accurate reproduction.*
 
-# BEKNOWLEDGE.COM : Fixed and Variable , personal selling, Economic reforms, ERP, CPC, Agriculture Productivity, Benefits of IMC, HERZBERG’S MOTIVATION HYGEINE THEORY, PLC patterns, Price discrimination, SWOT indian railways, CRM's Evolution, Green marketing, Kaoru Ishikawa, Six Sigma DMADV, Triggers, Embedded SQL, Transportation Problem, CPU,Code , C, JDBC, OODBMS, Poission distribution, capital expenditures
-
-** Privacy Policy**
+# Privacy Policy « Balaji eKnowledge
 
 Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Beknowledge.com without telling us who you are or revealing any Personal Information about yourself.
 
@@ -15,3 +13,6 @@ At no point in time will Beknowledge.com working under any of its products and/o
 Beknowledge.com occasionally ties up with generic partners for hosting their media content or for strategic purposes. These partners might occasionally be given a privileged status in our ecosystem. Under such a scheme, specific parts of user information might be shared with these partners to provide the user with enhanced services. This will always be kept completely transparent and will not take place without user consent.
 
 This privacy policy is intended to be a generic guideline while using our website Beknowledge.com.Beknowledge.com reserves the right to change certain aspects of this policy as and when it deems fit. The users will always be notified of such changes and will be given an option to opt-out if they disagree with the revised policies.
+
+  
+
