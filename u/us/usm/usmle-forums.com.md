@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usmle-forums.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111065321id_/http%3A//www.usmle-forums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usmle-forums.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919215406id_/http%3A//www.usmle-forums.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of USMLE Forums Website
 
@@ -33,4 +33,12 @@ As with most of the websites in the Internet we collect visitors information as 
 
 USMLE Forums users have complete control over which information they'd like to share with other users and visitors to the USMLE Forums website. Our users email database is stored in a secure server and is only used to relay communications when users opt in and we don't share it with any third parties outside USMLE Forums. Users email address is not revealed to other users and visitors in the user profile even when the respective user opted to receive emails from other users and visitors. Please refer to our [public profile FAQ page](https://web.archive.org/faq.php?faq=vb3_user_profile#faq_vb3_public_profile) for more information.
 
-If you require any more information or have any questions about our privacy policy, please feel free to [Contact us](https://web.archive.org/sendmessage.php).
+**Promotional Emails**
+
+If checked YES to "USMLE News & Promotional Emails" upon registration you will be receiving these emails. However, please note that even if the email is promoting third party products or services, it was not sent from these advertisers. Our members emails are strictly stored in our database and is not shared with advertisers. You can always opt out of these emails by going to your User control panel and check the No answer.
+
+**Monthly Contest Winners**
+
+Currently we provide free USMLE Consult subscription to our [Monthly Contest](https://web.archive.org/monthly-contest.php) winners. USMLE Consult requires the following information before they can provide us with the activation codes; Full Name, Country of Residence, and a Valid Email Address. Please note that this information is intended solely for the activation of your USMLE Consult subscription.
+
+**If you require any more information or have any questions about our privacy policy, please feel free to[Contact us](https://web.archive.org/sendmessage.php).**
