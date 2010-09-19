@@ -1,257 +1,293 @@
-<!--The following is the downloaded HTML source of the veeam.com privacy policy that was archived on 2007-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071011132046id_/http%3A//www.veeam.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veeam.com privacy policy that was archived on 2010-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100919163326id_/http%3A//www.veeam.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Veeam: Privacy Policy- safeguarding your privacy online.</title>
+<meta name="Description" content="How we use your personal information, use of third party services, cookies.">
+<meta name="robots" content="noindex,nofollow"><meta name="verify-v1" content="q2FV3ij89lrCnlOdXh9tTiQ9OpXP2DRTyDJWg6ode+Q=">
+<link rel="stylesheet" type="text/css" href="/main_current_1507.css">
+<!--[if gt IE 5]>
+<link rel="stylesheet" type="text/css" href="/main_ie7_1507.css" />
+<![endif]-->
+<!--[if gt IE 7]>
+<link rel="stylesheet" type="text/css" href="/main_ie8.css" />
+<![endif]-->
 
-<title>Veeam - tools for VMware virtual machines management</title>
+<link rel="stylesheet" href="/css/nyroModal.css" type="text/css" media="screen">
+<script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/jquery-1.2.7.js"></script>
+<script type="text/javascript" src="/js/forms.js"></script>
+<script type="text/javascript" src="/js/jquery.history.js"></script>
 
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-<link href="/main.css" rel="stylesheet" type="text/css">
-<link href="/menu.css" rel="stylesheet" type="text/css">
-<link href="/engine/dropdowntab.css" rel="stylesheet" type="text/css"> <!-- DROPDOWN CSS INCLUDE HERE -->
-<script type="text/javascript" src="/engine/dropdowntab.js"></script>    <!-- DROPDOWN SCRIPT INCLUDE HERE -->
-
-<script type="text/JavaScript">
-<!--
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_validateForm() { //v4.0
-  var i,p,q,nm,test,Label,num,min,max,errors='',args=MM_validateForm.arguments;
-  for (i=0; i<(args.length-2); i+=4) { test=args[i+2]; Label=args[i+3]; val=MM_findObj(args[i]);
-    if (val) { nm=val.name; if ((val=val.value)!="") {
-      if (test.indexOf('isEmail')!=-1) {
-      	if(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(val)!= true){
- 			errors+='- '+Label+' invalid email address.\n';
-		}
-      }
-      else if (test.indexOf('isPhone')!=-1) {
-			  if (val == "") {
-				   errors += '- '+Label+' is required.\n';
-				}
-			  var stripped = val.replace(/[\(\)\+\-\ ]/g, '');
-		    if (/^\d+$/.test(stripped)!= true) {
-		       errors += '- '+Label+' contains illegal character(s).\n';
-		    }
-		    if (stripped.length <= 10) {
-					errors += '- '+Label+' format is invalid (e.g.:+1-440-555-5555).\n';
-		    } 
-		}      
-       else if (test!='R') { num = parseFloat(val);
-        if (isNaN(val)) errors+='- '+Label+' must contain a number.\n';
-        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
-          min=test.substring(8,p); max=test.substring(p+1);
-          if (num<min || max<num) errors+='- '+Label+' must contain a number between '+min+' and '+max+'.\n';
-    	}
-	 }
+<script type="text/javascript" src="/js/preloadmenu.js"></script><script type="text/javascript">
+$(document).ready(function(){
+	if($.browser.msie){}else{
+		$("#menu li a").css('height','1.9em');
 	}
-	else if (test.charAt(0) == 'R')
-		if (test.indexOf('isZip')!=-1) {
-			  var iCountry = "document.step2.country";
-			  eval("var iSel = "+iCountry+".selectedIndex;");
-			  if(iSel == "1" || iSel == "2" || iSel == "39")
-			errors += '- '+Label+' is required.\n';
-		}
-		
-		else{
-			errors += '- '+Label+' is required.\n';
-		}
-	}
-  } if (errors) alert('The following error(s) occurred:\n'+errors);
-  document.MM_returnValue = (errors == '');
-}
+	$('#menu li ul li').hover(function(){
+//			$(this).parent().parent().toggleClass("top_menu_on");
+			$(this).parent().parent().css('background','#0BB40B url(/images/menu_hover_bg.png) repeat-x');
+		},
+		function () {
+//			$(this).parent().parent().removeClass();
+			$(this).parent().parent().css('background','none');
+		});
+});
 
 
-
-//-->
-</script></head>
-
-<body onload="javascript:tabdropdown.initializetabmenu('shademenu');">
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
-<script type="text/javascript">
-_uacct = "UA-154008-5";
-urchinTracker();
-</script>
+<script type="text/javascript" src="/js/jquery.nyroModal-1.4.2.js"></script>
 
-<table cellpadding="0" cellspacing="0" class="main" height="100%" border="0">
-  <tbody><tr class="main">
-	<td class="ear">&nbsp;</td>
-    <td class="main" style="width:50%;"><div align="center">
-		<div id="dropmenuProducts" class="dropmenudiv">
-<!--	<a class="diver">Products for ESX</a> -->
-	<a href="/veeam-backup-solution-esx-vi3.asp">Veeam Backup</a>
-	<a href="/veeam_monitor_vi.asp">Veeam Monitor</a>
-	<a href="/veeam_configurator.asp">Veeam Configurator</a>
-	<a href="/veeam_reporter.asp">Veeam Reporter</a>
-<!--	<a href="/veeam_monitor.asp">Veeam Monitor</a>-->
-<!--	<a class="diver">Free utilities</a> -->
-   <a href="/veeam_fast_scp.asp">Veeam FastSCP <small>(free)</small></a>
-	<a href="/root_access/">Veeam RootAccess <small>(free)</small></a>
-	<a href="/veeam_reporter_stencil.asp">Veeam Stencils <small>(free)</small></a>
-<!--	<div></div>-->
-</div><div id="dropmenuSupport" class="dropmenudiv">
-	<a href="/support.asp">Support &amp; feedback form</a>
-	<a href="/download/veeam_discussion_forums_support_vmware.asp">Forum</a>
-</div><div id="dropmenuPartners" class="dropmenudiv">
-	<a href="/partners/lic_forall.asp">Consultants</a>
-	<a href="/partners/Default.asp?act=reg">Registration</a>
-	<a href="/partners/">Partner login</a>
-</div><div id="dropmenuCompany" class="dropmenudiv">
-	<a href="/Company.asp">About</a>
-	<a href="/management.asp">Management Team</a>
-	<a href="/press.asp">Press coverage</a>
-	<a href="/release.asp">News release</a>
-	<a href="/contacts.asp">Contacts</a>
-</div><table cellpadding="0" cellspacing="0" class="content" bgcolor="#FFFFFF" border="0" style="margin:0px 30px 0px 30px;">
-		  <tbody><tr>
-		  		<td height="12"><img src="/images/veeam.gif" width="1" height="12"></td>
-		  </tr>
-		  <tr>
-			<td>
-				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				  <tbody><tr>
-					<td rowspan="2" width="126" height="29"><a href="/default.asp"><img src="/images/logo.gif" alt="Logo" width="126" height="29" border="0"></a></td>
-					<td rowspan="2"><div align="center" style=" width:505px; height:30px;"><h1 class="topslogan">Best-of-breed Solutions for VM Infrastructure Management</h1></div></td>
-					<td height="4"><img src="/images/veeam.gif" width="1" height="4"></td>
-				  </tr>
-				  <tr>
-					<td>
-						<div align="right"><a href="/download/download_free_trial_veeam_products.asp" title="Download"><img src="/images/download.gif" alt="Download" width="64" height="19" border="0"></a>&nbsp;<a href="/buy.asp" title="Buy"><img src="/images/buy.gif" alt="Buy" width="45" height="19" border="0"></a></div>
-						</td>
-				  </tr>
-				</tbody></table>
-			</td>
-		  </tr>
-		  <tr>
-			<td height="10"><img src="/images/veeam.gif" width="1" height="10"></td>
-		  </tr>
-		  <tr>
-			<td class="menu">
-			  	<div id="shademenu" class="shadetabs">
-			  		<ul>
-						<li width="100px"><a class="menu" href="/default.asp" title="">Home</a></li>
-						<li width="100px"><a class="menu" href="/products.asp" rel="dropmenuProducts" title="">Products</a></li>
-						<li width="100px"><a class="menu" href="/support.asp" rel="dropmenuSupport" title="">Support</a></li>
-						<li width="100px"><a class="menu" href="/partners/lic_forall.asp" rel="dropmenuPartners" title="">Partners</a></li>
-						<li width="100px"><a class="menu" href="/company.asp" rel="dropmenuCompany" title="">Company</a></li>
-					</ul>
-				</div>
-			</td>
-		  </tr>
-		  <tr>
-			<td height="13"><img src="/images/veeam.gif" width="1" height="13"></td>
-		  </tr>
+</head>
+<body>
+<div id="mastercontainer">
+<div id="masthead">
+<div id="top_section">
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+	<tbody><tr>
+		<td align="left"><a rel="nofollow" href="/"><img class="top_logo" src="/images/veeam.png" alt="VMware ESX/ESXi Management" border="0"></a></td>
+		<td>
+		<h1 style="color: #0bb40b; font-size: 16px; font-weight: normal; text-align: center;">
+				<img src="/images/management_and_data_protection.png" style="margin:0px; padding:0px;">				</h1>
+		</td>
+		<td align="right" width="370px">
+		<div id="premenu"></div>
+		</td>
 
-<!--Product drop down menu -->
-
-
-<!--Support drop down menu -->
-
-
-<!--Partners drop down menu -->
-
-
-<!--Company drop down menu -->
-
-		  <tr>
-			<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="535" height="40"><img src="images/ins.jpg" alt="people" width="550" height="40"></td>
-                <td class="page_header" height="40" width="534">Privacy Policy</td>
-              </tr>
-            </tbody></table></td>
-		  </tr>
-		  <tr>
-			<td height="8"><img src="images/veeam.gif" width="1" height="8"></td>
-		  </tr>
-		  <tr>
-			<td class="site_path">home &gt; contacts</td>
-		  </tr>
-		  <tr>
-			<td height="5"><img src="images/veeam.gif" width="1" height="5"></td>
-		  </tr>
-		   <tr>
-			<td height="1" class="hr_green"><img src="images/veeam.gif" width="1" height="1"></td>
-		  </tr>
-		  <tr>
-			<td height="19"><img src="images/veeam.gif" width="1" height="19"></td>
-		  </tr>		  
-		  <tr>
-			<td>
-				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				  <tbody><tr>
-					<td width="155">
-
-					</td>
-					<td>
-					  <h2 class="prodname">Privacy Policy</h2>
-
-
-
-
-
-<p>Veeam Ltd. is recognizing the importance of protecting your personal information and is committed to safeguarding your privacy online.</p>
-<p>By accessing or using the Veeam Web site, you agree to the terms of this Veeam Privacy Policy. If you do not agree to these terms, you must not access or use this site.</p>
-
-<h3>Personal Information, Gathering</h3>
-<p>We will ask your permission to give away any information that we would need to personally identify you or contact you directly ("Personal Information"). Generally this is required when you subscribe for our newsletters or register your copies of our products.</p>
-<ul>
-<li>When you place an order you are redirected to a secure site, <a href="https://www.regnow.com" target="_blank">https://www.regnow.com</a> where you are asked for your name, e-mail, shipping and billing addresses, telephone number, and credit card information.</li>
-<li>When you subscribe for our newsletter or information letter about product updates, you are asked for your name and e-mail address.</li>
-<li>We will use your IP address to help identify you and your navigation history on our site. This helps us see which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means, for instance, that a user's session will be tracked, but the user will remain anonymous. We do not use it for any other purposes.</li>
-</ul>
-<p>When you submit personal information, it is kept in a secure database to ensure that is not subject to any unauthorized data usage.</p>
-<h3>Personal Information, Use of</h3>
-<p>Veeam Ltd. may share non-personal, summary information regarding its customers with partners or other third parties. However, any individual customer's information provided for partners or third parties under contract with Veeam Ltd. shall be used only to perform or complete a necessary transaction or function related to the customer's purchase. These transactions or functions shall be in accordance with the terms of this Privacy Policy Statement. Veeam Ltd. will not share any individual customer's information with anyone except the contracted partners and third parties mentioned above, without first receiving the individual's prior written approval. In some cases, Veeam Ltd. may use a visitor's personal information to understand overall patterns for web site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc.</p>
-
-<h3>Online Purchases</h3>
-<p>When you place orders, we redirect you to the RegNow site, hosted by "Digital River" services. Information about their privacy policy can be found at <a href="http://www.regnow.com" target="_blank">www.regnow.com</a>.</p>
-
-<h3>Links to Other Sites</h3>
-<p>The <a href="http://www.regnow.com" target="_blank">www.regnow.com</a> site contains links to other sites. Be aware that Veeam Ltd. is not responsible for the privacy practices or content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware of this when you leave our site, and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to <a href="http://www.veeam.com" target="_blank">www.veeam.com</a>.</p>
-
-<h3>Cookies</h3>
-<p>A cookie is a small piece of information that a web site stores on your computer. When you revisit the web site, your browser sends the information back to that site. A cookie does not contain any Personal Information. The use of cookies is not required to browse through our site but it does enable us to better serve you when you return to our site by recording how and when you use it. You can set your browser to refuse cookies, but if you do, you might not be able to take full advantage of our site.</p>
- 
-<hr size="1" noshade="">
-To help us improve our privacy policy, please <a href="/support.asp">give us</a> your feedback, comments and suggestions.
- 
- 
-		
-</td>
-				  </tr>
-				</tbody></table>
-
-			</td>
-		  </tr>			  <tr>
-			<td height="19" style="border-bottom: 1px #a5a698 solid;"><img src="/images/veeam.gif" width="1" height="19"></td>
-			  </tr>
-					</tbody></table></div>
-
-			</td>
-		    <td class="ear">&nbsp;</td></tr>
-		  <tr>
-			<td class="bottom_line">&nbsp;</td>
-			<td class="bottom_line">
-			
-			<table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
-			<td width="15px" height="7px"><img width="15" height="7" src="/images/bottom.png"></td>
-			<td bgcolor="#FFFFFF" width="100%"></td>
-			<td width="15px" height="7px"><img width="15" height="7" src="/images/bottom_r.png"></td></tr></tbody></table>
-			
-			<a class="menu" style="background-color:#737373; font-size:11px;margin-top:9px">All rights reserved. © 2007 Veeam. </a>&nbsp;
-			<a class="menu" style="background-color:#737373; font-size:11px;margin-top:9px" href="privacy.asp">Read Privacy Policy.</a>&nbsp;&nbsp;
-</td>
-<td class="bottom_line">&nbsp;</td>
-		  </tr>
-
+	</tr>
 </tbody></table>
 
-</body></html>
+</div>
+<!--//top_section//-->
+<table width="100%" cellpadding="0" cellspacing="0" class="topmenu_td">
+	<tbody><tr>
+		<td id="topmenu"></td>
+		<td id="middle"><img src="/images/spacer.gif" height="24" width="8"></td>
+		<td width="8"><img src="/images/topmenu_ending.gif" width="8"></td>
+	</tr>
+</tbody></table>
+				</div>
+<div style="clear: both;"></div>
+<div id="navBar"></div>
+<!--end navBar div -->
+<div id="content">
+			<div class="feature">			<div id="product_banner" style="background-image: none">
+<div id="buy">
+<h1 style="font-size: 20px">Privacy Policy</h1>
+</div>
+</div>
+<div>
+<p>Veeam Ltd. is recognizing the importance of protecting your personal information and is committed to safeguarding your privacy online.</p>
+<p>By accessing or using the Veeam Web site, you agree to the terms of this Veeam Privacy Policy. If you do not agree to these terms, you must not access or use this site.</p>
+<h2>Personal Information, Gathering</h2>
+<p>We will ask your permission to give away any information that we would need to personally identify you or contact you directly ("Personal Information"). Generally this is required when you subscribe for our newsletters or register your copies of our products.</p>
+<ul>
+    <li>When you place an order you are redirected to a secure site, <a target="_blank" href="https://www.regnow.com">https://www.regnow.com</a> where you are asked for your name, e-mail, shipping and billing addresses, telephone number, and credit card information.</li>
+    <li>When you subscribe for our newsletter or information letter about product updates, you are asked for your name and e-mail address.</li>
+    <li>We will use your IP address to help identify you and your navigation history on our site. This helps us see which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means, for instance, that a user's session will be tracked, but the user will remain anonymous. We do not use it for any other purposes.</li>
+</ul>
+<p>When you submit personal information, it is kept in a secure database to ensure that is not subject to any unauthorized data usage.</p>
+<h2>Personal Information, Use of</h2>
+<p>Veeam Ltd. may share non-personal, summary information regarding its customers with partners or other third parties. However, any individual customer's information provided for partners or third parties under contract with Veeam Ltd. shall be used only to perform or complete a necessary transaction or function related to the customer's purchase. These transactions or functions shall be in accordance with the terms of this Privacy Policy Statement. Veeam Ltd. will not share any individual customer's information with anyone except the contracted partners and third parties mentioned above, without first receiving the individual's prior written approval. In some cases, Veeam Ltd. may use a visitor's personal information to understand overall patterns for web site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc.</p>
+<h2>Online Purchases</h2>
+<p>When you place orders, we redirect you to the RegNow site, hosted by "Digital River" services. Information about their privacy policy can be found at <a target="_blank" href="http://www.regnow.com">www.regnow.com</a>.</p>
+<h2>Links to Other Sites</h2>
+<p>The <a target="_blank" href="http://www.regnow.com">www.regnow.com</a> site contains links to other sites. Be aware that Veeam Ltd. is not responsible for the privacy practices or content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware of this when you leave our site, and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to <a target="_blank" href="http://www.veeam.com">www.veeam.com</a>.</p>
+<h2>Cookies</h2>
+<p>A cookie is a small piece of information that a web site stores on your computer. When you revisit the web site, your browser sends the information back to that site. A cookie does not contain any Personal Information. The use of cookies is not required to browse through our site but it does enable us to better serve you when you return to our site by recording how and when you use it. You can set your browser to refuse cookies, but if you do, you might not be able to take full advantage of our site.</p>
+<hr noshade="noshade" size="1">
+<p>To help us improve our privacy policy, please <a href="/support.html">give us</a> your feedback, comments and suggestions.</p>
+</div></div>
+
+	<!---->
+
+	
+</div>
+
+<!--end content -->
+<div id="siteInfo" style="text-align:left;">
+	<div id="bottomline"></div>
+
+<table id="copyright"><tbody><tr>
+	<td width="33%">Copyright © 2010 Veeam Software.  <a rel="nofollow" href="/privacy_policy.html">Privacy policy</a><img src="/images/spacer.gif" width="20"></td>
+<td style="text-align:center;"><a href="/" rel="nofollow">Home</a> <span class="separator">|</span> <a href="/products.html" rel="nofollow">Products</a> <span class="separator">|</span> <a href="/support.html" rel="nofollow">Support</a>  <span class="separator">|</span> <a href="/salesinc.html" rel="nofollow">Contact Sales</a><span class="separator">|</span> <a href="/eula.html" rel="nofollow">EULA</a></td>
+	<td width="33%" align="right"><img src="/images/tap_footer.png" width="206" height="52" border="0"></td></tr></tbody></table>
+<center><a href="/communities.html" rel="nofollow"><img src="/images/social.png" width="274" height="40" border="0"></a></center>
+<center>Veeam is #1 for <a href="/vmware-esx-backup.html">VMware backup</a></center>
+
+<br></div>
+
+
+<div id="preload_menu" style="display:none;">
+<ul id="menu" style="background-image: url(/images/top_menu_bg_left.gif); background-repeat: no-repeat; background-position: top left;">
+	<li><a rel="nofollow" href="/products.html" style="margin-left: 0px; height: 1.9em;">Products<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tbody><tr><td><![endif]-->
+	<ul class="products">
+		<a name="products" style="display: none; height: 1.9em;"></a>
+			<li>
+	<h3 style="padding: 5px 0px 0px 20px; color: #096011;"><nobr>VEEAM
+	PRODUCT SUITES</nobr></h3>
+	</li>
+	<li><a href="/suite.html" style="height: 1.9em;">Veeam Management Suite</a></li>
+	<li><a href="/smb.html" style="height: 1.9em;">Veeam Essentials</a></li>
+	<li>
+	<h3 style="padding: 5px 0px 0px 20px; color: #096011;"><nobr>TRY VEEAM
+	PRODUCTS</nobr></h3>
+	</li>
+		<li><a href="/vmware-esx-backup.html" class="menusize1" style="height: 1.9em;">Veeam&nbsp;Backup&nbsp;&amp;&nbsp;Replication</a></li>
+		<li><a href="/one-vmware-management.html" class="menusize1" style="height: 1.9em;">Veeam&nbsp;ONE</a></li>
+		<li><a href="/vmware-esx-reporter.html" class="menusize1" style="height: 1.9em;">Veeam&nbsp;Reporter</a></li>
+		<li><a href="/vmware-esx-monitoring.html" class="menusize1" style="height: 1.9em;">Veeam&nbsp;Monitor</a></li>
+		<li><a href="/vmware-microsoft-esx-monitoring.html" class="menusize1" style="height: 1.9em;">nworks&nbsp;MP&nbsp;Microsoft&nbsp;Ops&nbsp;Mgr</a></li>
+		<li><a href="/vmware-esx-monitoring-hp-operations.html" class="menusize1" style="height: 1.9em;">nworks&nbsp;SPI&nbsp;HP&nbsp;Operations&nbsp;Mgr</a></li>
+		<li>
+	<h3 style="padding: 5px 0px 0px 20px; color: #096011;"><nobr>FREE VEEAM
+	PRODUCTS</nobr></h3>
+	</li>
+		<li><a href="/vmware-business-view.html" class="menusize1" style="height: 1.9em;">Veeam&nbsp;Business&nbsp;View</a></li>
+		<li><a href="/vmware-esx-reporter-free.html" class="menusize1" style="height: 1.9em;">Veeam&nbsp;Reporter&nbsp;Free&nbsp;Edition</a></li>
+		<li><a href="/esxi-monitoring-free.html" class="menusize1" style="height: 1.9em;">Veeam&nbsp;Monitor&nbsp;Free&nbsp;Edition</a></li>
+		<li><a href="/vmware-esxi-fastscp.html" class="menusize1" style="height: 1.9em;">Veeam&nbsp;FastSCP&nbsp;(free)</a></li>
+		<li><a href="/root_access.html" class="menusize1" style="height: 1.9em;">Veeam&nbsp;RootAccess&nbsp;(free)</a></li>
+		<li><a href="/vmware-esx-stencils.html" class="menusize1" style="height: 1.9em;">Veeam&nbsp;Stencils&nbsp;for&nbsp;Microsoft&nbsp;Visio</a></li>
+		</ul>
+	<!--[if lte IE 6]></td></tr></tbody></table></a><![endif]--></li>
+
+	<li><a rel="nofollow" href="/buy-end-user.html" style="height: 1.9em;">Buy<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tbody><tr><td><![endif]-->
+	<ul>
+		<li><a rel="nofollow" href="/buy-end-user.html" class="menusize2" style="height: 1.9em;"><nobr>Find&nbsp;a&nbsp;Reseller</nobr></a></li>
+		<!--//<li><a href="/buy-online.html" class="menusize2">Buy&nbsp;On-line</a></li>//-->
+		<li><a rel="nofollow" href="/federal.html#t4" class="menusize2" style="height: 1.9em;">U.S.&nbsp;Federal&nbsp;Government</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></tbody></table></a><![endif]--></li>
+	<li><a rel="nofollow" href="/communities.html" style="height: 1.9em;">Community<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tbody><tr><td><![endif]-->
+	<!--[if lte IE 6]></td></tr></tbody></table></a><![endif]--></li>
+	<li><a rel="nofollow" href="/propartner.html" style="height: 1.9em;">Partners<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tbody><tr><td><![endif]-->
+	<ul>
+		<li><a rel="nofollow" href="/propartner.html" style="width: 150px; height: 1.9em;">ProPartner
+		Program</a></li>
+		<li><a rel="nofollow" style="width: 150px; height: 1.9em;" href="/service-providers.html" class="menusize2">Service Provider
+		Program</a></li>
+		<li><a rel="nofollow" style="width: 150px; height: 1.9em;" target="_blank" href="http://propartner.veeam.com" class="menusize2">ProPartner
+		Portal</a></li>
+		<li><a rel="nofollow" style="width: 150px; height: 1.9em;" href="/partners/techpartners.html" class="menusize2">Technology
+		Partners</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></tbody></table></a><![endif]--></li>
+	<li><a rel="nofollow" href="/company/about.html" style="height: 1.9em;">Company<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tbody><tr><td><![endif]-->
+	<ul>
+		<li><a rel="nofollow" href="/company/about.html" class="menusize2" style="height: 1.9em;">About</a></li>
+		<li><a rel="nofollow" href="/company/management-team.html" class="menusize2" style="height: 1.9em;">Management&nbsp;Team</a></li>
+
+		<li><a rel="nofollow" href="/press.html" class="menusize2" style="height: 1.9em;">Press&nbsp;Coverage</a></li>
+		<li><a rel="nofollow" href="/news.html" class="menusize2" style="height: 1.9em;">News&nbsp;Releases</a></li>
+		<li><a rel="nofollow" href="/webinars.html" class="menusize2" style="height: 1.9em;">Webinars</a></li>
+		<li><a rel="nofollow" href="/events.html" class="menusize2" style="height: 1.9em;">Events</a></li>
+		<li><a rel="nofollow" href="/careers/" class="menusize2" style="height: 1.9em;">Careers</a></li>
+		<li><a rel="nofollow" href="/contacts.html" class="menusize2" style="height: 1.9em;">Contacts</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></tbody></table></a><![endif]--></li>
+	<li><a rel="nofollow" href="/federal.html" style="height: 1.9em;">Public Sector<!--[if IE 7]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tbody><tr><td><![endif]-->
+	<ul>
+		<li><a rel="nofollow" href="/federal.html" class="menusize4" style="height: 1.9em;">U.S.
+		Federal</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></tbody></table></a><![endif]--></li>
+	
+	<li><a rel="nofollow" href="/go/hosting" style="width: 130px; height: 1.9em;"><img src="/images/cloud_ico.png" alt="" border="0"><span style="position:absolute;">Service&nbsp;Provider</span></a></li>
+</ul>
+		</div>
+<div id="preload_menu_lng" style="display:none;"><ul id="menu_l">
+	<li style="padding: 0px 0px 0px 25px; width: 50px"><a rel="nofollow" href="/support.html">Support<!--[if gt IE 6]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tbody><tr><td><![endif]--> <!--[if lte IE 6]></td></tr></tbody></table></a><![endif]-->
+
+	</li>
+	<li style="padding: 0px 0px 0px 25px;"><a rel="nofollow" href="/downloads/">Downloads<!--[if gt IE 6]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tbody><tr><td><![endif]--> <!--[if lte IE 6]></td></tr></tbody></table></a><![endif]-->
+
+	</li>
+	<li style="padding: 0px 0px 0px 25px;"><a rel="nofollow" href="/buy-end-user.html">How to buy&nbsp;<!--[if gt IE 6]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tbody><tr><td><![endif]--> <!--[if lte IE 6]></td></tr></tbody></table></a><![endif]-->
+
+	</li>
+	<li style="padding: 0px 0px 0px 25px;"><a rel="nofollow" href=""><img src="/images/us_flag.gif"> English <img src="/images/dropdown.gif"><!--[if gt IE 6]><!--></a><!--<![endif]-->
+	<!--[if lte IE 6]><table><tbody><tr><td><![endif]-->
+	<ul>
+		<li><a rel="nofollow" href="/" style="width: 95px;"><img src="/images/us_flag.gif"> English</a></li>
+		<li><a rel="nofollow" href="/de/" style="width: 95px;"><img src="/images/de_flag.gif"> Deutsch</a></li>
+		<li><a rel="nofollow" href="/fr/" style="width: 95px;"><img src="/images/fr_flag.gif"> Français</a></li>
+		<li><a rel="nofollow" href="/ru/" style="width: 95px;"><img src="/images/ru_flag.gif"> Русский</a></li>
+		<li><a rel="nofollow" href="/it/" style="width: 95px;"><img src="/images/it_flag.gif"> Italiano</a></li>
+		<li><a rel="nofollow" href="/es/" style="width: 95px;"><img src="/images/es_flag.gif"> Español</a></li>
+		<li><a rel="nofollow" href="/nl/" style="width: 95px;"><img src="/images/nl_flag.gif"> Nederlands</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></tbody></table></a><![endif]--></li>
+</ul>
+	</div>
+
+
+
+<div id="preload_prod_menu" style="display:none;"><div id="sectionLinks">
+
+<h2 class="bullet">Veeam Product Suites</h2>
+<a href="/suite.html">Veeam Management Suite</a>
+<a href="/smb.html">Veeam Essentials</a>
+<a href="/buy-end-user.html">Find a reseller</a>     <h2 class="bullet" style="padding-top:10px;">Veeam Products</h2>
+     <ul>
+    	<li><a href="/vmware-esx-backup.html" class="menusize1">Veeam&nbsp;Backup&nbsp;&amp;&nbsp;Replication</a></li>
+	<li><a href="/one-vmware-management.html" class="menusize1">Veeam&nbsp;ONE<em><span class="new">new</span></em></a></li>
+	<li><a href="/vmware-esx-reporter.html" class="menusize1">Veeam&nbsp;Reporter<em><span class="new">new</span></em></a></li>
+	<li><a href="/vmware-esx-monitoring.html" class="menusize1">Veeam&nbsp;Monitor</a></li>
+	<li><a href="/vmware-microsoft-esx-monitoring.html" class="menusize1">nworks&nbsp;MP&nbsp;Microsoft&nbsp;Ops&nbsp;Mgr<em><span class="new">new</span></em></a></li>
+	<li><a href="/vmware-esx-monitoring-hp-operations.html" class="menusize1">nworks&nbsp;SPI&nbsp;HP&nbsp;Operations&nbsp;Mgr<em><span class="new">new</span></em></a></li>
+	</ul>
+<h2 class="bullet" style="padding-top: 0px;">Free Veeam Products</h2>
+<ul>
+	<li><a href="/vmware-business-view.html" class="menusize1">Veeam&nbsp;Business&nbsp;View</a></li>
+		<li><a href="/vmware-esx-reporter-free.html" class="menusize1">Veeam&nbsp;Reporter&nbsp;Free&nbsp;Edition<em><span class="new">new</span></em></a></li>
+		<li><a href="/esxi-monitoring-free.html" class="menusize1">Veeam&nbsp;Monitor&nbsp;Free&nbsp;Edition</a></li>
+		<li><a href="/vmware-esxi-fastscp.html" class="menusize1">Veeam&nbsp;FastSCP&nbsp;(free)</a></li>
+		<li><a href="/root_access.html" class="menusize1">Veeam&nbsp;RootAccess&nbsp;(free)</a></li>
+		<li><a href="/vmware-esx-stencils.html" class="menusize1">Veeam&nbsp;Stencils&nbsp;for&nbsp;Microsoft&nbsp;Visio</a></li>
+	  	 </ul>
+    <h2 class="bullet">Free Virtualization Resources</h2>
+    <ul class="last">
+    <li><a class="menusize1" href="/whitepapers.html">Virtualization White Papers</a></li><li><a class="menusize1" href="/forums/">Community Forums</a></li>
+    <li><a class="menusize1" href="/blog/">Veeam Blog</a></li>    
+    <li><a class="menusize1" href="/support.html">Veeam Support</a></li></ul>
+		  </div></div>
+<script type="text/javascript">
+try{
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+}catch(e){}
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-154008-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script type="text/javascript">
+var piProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + piProtocol + "pi.pardot.com/pi.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script><script src="https://pi.pardot.com/pi.js" type="text/javascript"></script>
+<script type="text/javascript">
+        <!--
+               piAId = "2962";
+               piCId = "2357";
+               piHostname = "pi.pardot.com";
+
+               piTracker();
+        -->
+</script>
+
+
+</div></body></html>
