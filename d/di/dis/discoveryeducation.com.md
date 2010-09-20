@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoveryeducation.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329130908id_/http%3A//www.discoveryeducation.com/aboutus/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveryeducation.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921011311id_/http%3A//www.discoveryeducation.com/aboutus/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Discovery Education Privacy Policy
 
@@ -80,8 +80,8 @@ Below are some examples of instances in which we may collect the first name and 
   * If the child wants to enter a sweepstakes, contest or other promotion; and 
   * If the child wants to receive newsletters on a recurring basis. 
 
-For children participating in Discovery’s Student Access program, all personally identifiable information will be provided by the school district or individual school. Each school/school district will be asked to provide a parent’s email address with all p. If a school/school district fails to provide Discovery with a parent’s email address, upon the first login of all defined student users using the school provided usernames, they will be challenged to verify if they are over / under 13 years of age.
-  * If the student user verifies that he/she is under 13 years of age, the user will be asked to enter his/her parent’s e-mail address. Upon entering the e-mail address, an e-mail will be sent to the parents notifying them that their child has access to the Student Access program and details on how to access, change or delete the child’s personally indentifiable information and disable their child’s account. If the student’s parents do not have an e-mail address, the student will be provided with a PDF copy of the e-mail and instructed to print out and give the e-mail to their parents for review.
+For children participating in Discovery�s Student Access program, all personally identifiable information will be provided by the school district or individual school. Each school/school district will be asked to provide a parent�s email address with all p. If a school/school district fails to provide Discovery with a parent�s email address, upon the first login of all defined student users using the school provided usernames, they will be challenged to verify if they are over / under 13 years of age.
+  * If the student user verifies that he/she is under 13 years of age, the user will be asked to enter his/her parent�s e-mail address. Upon entering the e-mail address, an e-mail will be sent to the parents notifying them that their child has access to the Student Access program and details on how to access, change or delete the child�s personally indentifiable information and disable their child�s account. If the student�s parents do not have an e-mail address, the student will be provided with a PDF copy of the e-mail and instructed to print out and give the e-mail to their parents for review.
 
 **(2) Use of Personally Identifiable Information Collected from Kids**  
 When we collect personally identifiable information from kids, we will only use that information for the express purpose for which it was collected. For example, if a child enters a sweepstakes, we will request the parent's information (as described in Section D(1)) and will only use the child's email address to enter the child into the sweepstakes, to notify the parent of the child's entry, and to identify and notify the child if he or she is a potential winner. The personally identifiable information will not be used for any other purpose, and the personally identifiable information will not be used after the promotion is complete. 
@@ -153,7 +153,7 @@ If we become aware that we have inadvertently received personally identifiable i
 If you have any questions about this privacy policy or our privacy practices, please contact us at [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com). All information you provide in any written communication will also be covered by this policy. 
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**  
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Discovery’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us: 
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Discovery�s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us: 
 
 Discovery Communications, LLC  
 1 Discovery Place  
