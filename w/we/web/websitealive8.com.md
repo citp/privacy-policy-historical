@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitealive8.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612183954id_/http%3A//www.websitealive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitealive8.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920205724id_/http%3A//www.websitealive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
