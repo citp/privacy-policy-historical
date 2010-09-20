@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssm-einfo.my privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527202421id_/http%3A//www.ssm-einfo.my/page.php%3Fac%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssm-einfo.my privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921000409id_/http%3A//www.ssm-einfo.my/page.php%3Fac%3D10) for the most accurate reproduction.*
 
 # e-Info Ver 2.7 - Home (Best viewed with IE7 & Mozilla Firefox)
 
