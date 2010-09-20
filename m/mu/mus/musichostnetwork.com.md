@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musichostnetwork.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505153243id_/http%3A//www.musichostnetwork.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musichostnetwork.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921001030id_/http%3A//www.musichostnetwork.com/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Music Host Network | The music community for lovers of indie music.
+# Music Host Network | Buy,Sell,Listen To, and Download Free Indie Music.Search For Music Events.Battle Rappers/Bands/Models.
 
 ## Music Host Network  
 Privacy Policy
