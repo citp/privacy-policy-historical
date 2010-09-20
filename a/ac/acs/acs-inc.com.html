@@ -1,21 +1,37 @@
-<!--The following is the downloaded HTML source of the acs-inc.com privacy policy that was archived on 2010-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100609205852id_/http%3A//www.acs-inc.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acs-inc.com privacy policy that was archived on 2010-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100920194052id_/http%3A//www.acs-inc.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="ctl00_Head1"><title>Affiliated Computer Services</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="ctl00_Head1"><title>Affiliated Computer Services: ACS Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script id="EktronFlexMenuJS" type="text/javascript" src="/WorkArea/java/ek_flexmenu.js"></script>
 <script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script>
-<script id="EktronDmsMenuJS" type="text/javascript" src="/WorkArea/DmsMenu/DmsMenu.js"></script>
 
-
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <style type="text/css" media="screen">
         @import "/css/nav.css";
     </style>
+
     <style type="text/css" media="screen">
         @import "/css/main.css";
-    </style>
+    </style>    
+
     <style type="text/css" media="print">
-        @import "/css/print.css";
+        @import "/css/printmain.css";
     </style>
+
+    <style type="text/css" media="print">
+        @import "/css/printnav.css";
+    </style>
+
+
+    
+    <style type="text/css">
+        @import "/css/follow_us.css";
+    </style>
+      <style type="text/css">
+        @import "/css/rounded_corners.css";
+    </style>
+    
+    
 
     <script type="text/javascript" src="/js/acs.js"></script>
 
@@ -27,22 +43,44 @@
 
     <script src="/js/SearchHighlight.js" type="text/javascript"></script>
 
-    <script type="text/javascript" language="javascript">
-    sfHover = function() 
-    {
-     var sfEls = document.getElementById("nav").getElementsByTagName("LI");     
-     for (var i=0; i<sfEls.length; i++) {         
-        sfEls[i].onmouseover=function() {             
-            this.className+=" sfhover";         
-        }         
-        sfEls[i].onmouseout=function() {             
-            this.className=this.className.replace(new RegExp(" sfhover\\b"), "");         
-            
-        }     
-      } 
-    } 
-    if (window.attachEvent) window.attachEvent("onload", sfHover); 
-    
+    <script type="text/javascript">
+      $(document).ready(function() {
+
+          //Add bindings for expand/collapse content
+          $("p.slide").toggle(function() {
+              $(this).parent().addClass("panel-down");
+          }, function() {
+              $(this).parent().removeClass("panel-down");
+          });
+
+
+          //Add bindings for expand/collapse content
+          $("p#showall").toggle(function() {
+              $(this).text("Hide All");
+              $(this).addClass("panel-down");
+              $(".panel_example").next().css("display", "none");
+              $(".panel_example").addClass("panel-down");
+          }, function() {
+              $(this).text("Show All");
+              $(this).removeClass("panel-down");
+              $(".panel_example").removeClass("panel-down");
+              $(".panel_example").next().css("display", "block");
+          });
+
+          $("p.slide").bind("click", function() {
+              $(this).parent().next().toggle();
+              return false;
+          });
+
+          $("p#showall").bind("click", function() { $(".panel_example").next().toggle(); return false; });
+          //Greenpage visible
+          $("#greenpage").hover(function() {
+              $("#greenpage_image").css("visibility", "");
+          }, function() {
+              $("#greenpage_image").css("visibility", "hidden");
+          });
+
+      });
     </script>
 
     <!--[if lte IE 7]>
@@ -52,345 +90,285 @@
 <noscript><link rel="STYLESHEET" type="text/css" href="/css/ie6.css" /></noscript> 
 <![endif]-->
 
-    <script type="text/javascript">
-$(document).ready(function() {
 
-//Add bindings for expand/collapse content
- $("p.slide").toggle(function(){
-   $(this).parent().addClass("panel-down");
- },function(){
-   $(this).parent().removeClass("panel-down");
- });
 
-$("p#closeall").bind("click", function () {$(".panel_example").next().css("display","none");
-$(".panel_example").removeClass("panel-down");});
-$("p#openall").bind("click", function () {$(".panel_example").next().css("display","block");
-$(".panel_example").addClass("panel-down");});
-$("p.slide").bind("click", function () {$(this).parent().next().toggle();
-return false;});
-//Greenpage visible
-  $("#greenpage").hover(function(){
-  $("#greenpage_image").css("visibility", ""); 
- }, function(){  
-  $("#greenpage_image").css("visibility", "hidden");   
-});
-
-});
-    </script>
+    <script src="js/roundedcorners.js" type="text/javascript"></script>
     <script type="text/javascript" src="swfobject.js"></script>
-    <script type="text/javascript">
-    function LoadVideoPlayerPages(iMage,iMovie,iwidth, iheight)
-        {     
-            var s1 = new SWFObject("player.swf","ply",iwidth,iheight,"3","#FFFFFF");
-  	        s1.addParam("allowfullscreen","true");
- 	        s1.addParam("allownetworking","all");
- 	        s1.addParam("allowscriptaccess","always");
- 	        s1.addVariable("repeat","true");
-		    s1.addParam("wmode", "transparent");	   
-	        s1.addParam("flashvars","&file="+iMovie+"&image="+iMage+"&viral.callout=none&viral.onpause=false&viral.functions=none");	   	    
-	        s1.write("PagesDiv");
-    	   
-	    }
-    </script>  
+
+   <link rel="stylesheet" type="text/css" href="css/homepage.css">
+<script src="js/jquery.js" type="text/javascript">
+</script> <script type="text/javascript" src="js/acs.js"></script>
+<script type="text/javascript" src="js/jquery.vticker.js"></script>
+<script type="text/javascript" src="js/roundedcorners.js"></script>
+<script type="text/javascript" src="js/opb_pre.js"></script>
+<!--[if lte IE 7]>
+<link rel="STYLESHEET" type="text/css" href="css/ie7.css" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="css/ie6.css" />
+<![endif]-->
+	<link rel="stylesheet" type="text/css" href="css/modal.css"><link rel="stylesheet" type="text/css" href="css/rounded_corners.css">
+<script type="text/javascript" src="js/jquery.simplemodal-1.1.1_p.js"></script><script type="text/javascript" src="js/jquery.xrx_extend_simplemodal-1.1.1.js"></script><script type="text/javascript">
+<!--	
+function checkProfile() {
+    var offset = 0;
+    // identify browser
+    if (navigator.appVersion) {
+        // var ieFakeout = navigator.appVersion.indexOf("MSIE",0);
+        // var browserVer = parseFloat(navigator.appVersion);
+        var ieFakeout = navigator.userAgent.indexOf("MSIE", 0);
+        var browserVer = parseInt(navigator.appVersion.substring(0, 1));
+        return (browserVer);
+    }
+}
+var is_refresh = false;
+//-->
+
+</script> <script type="text/javascript">
+<!--	
+jQuery(document).ready(function () {
+    jQuery('#video_link').click(function (e) {
+        e.preventDefault();
+       jQuery('#video_modal').modal({
+            close: false,
+            onOpen: function (dialog) {
+                scroll(0, 0);
+                this.dialog.overlay.show();
+                this.dialog.container.show();
+                this.dialog.data.show();
+                if (jQuery.browser.msie) {
+                    if (document.getElementById("modalOverlay")) {
+                        document.getElementById("modalOverlay").style.height = document.body.scrollHeight + 'px';
+                    }
+                }
+            }
+        });
+    });
+});
+//-->
+
+</script> <script type="text/javascript" src="js/swfobject.js"></script> <script type="text/javascript">
+<!--
+function LoadVideoPlayer(iMage, iMovie) {
+    //iMage="Images/Bigimage7.jpg";  
+    //iMovie="Video/Tom-Blogdett-Clip-1.flv";
+    // video is 720x450, add 20px height for controlle
+    // new SWFObject(swf, id, width, height, version, background-color [, quality, xiRedirectUrl, redirectUrl, detectKey]);
+    var s1 = new SWFObject("player.swf", "ply", "720", "470", "8", "#FFFFFF");
+    s1.addParam("allowfullscreen", "true");
+    s1.addParam("allownetworking", "all");
+    s1.addParam("allowscriptaccess", "always");
+    s1.addVariable("repeat", "true");
+    s1.addParam("wmode", "transparent");
+    s1.addParam("flashvars", "&file=" + iMovie + "&image=" + iMage + "&viral.callout=none&viral.onpause=false&viral.functions=none");
+    s1.write("videoplayer");
+}
+//-->
+
+    </script>
 
     <!--[if lt IE 7]>
 <style type="text/css" media="screen">
 body{behavior:url(csshover.htc);}
 </style>
 <![endif]-->
+    <!-- added as per Pappas guidance begin -->
+
+    <script type="text/javascript" src="http://www.xerox.com/assets/js/opb_pre.js"></script>
+    
+    
+
+    <!-- added end -->
 
 <link id="EktronModalCss" href="/WorkArea/java/plugins/modal/ektron.modal.css" type="text/css" rel="stylesheet">
-
-<link id="_css_acsTopMenu.css" href="/css/acsTopMenu.css" type="text/css" rel="stylesheet">
-
-<link id="_css_slaveexpand.css" href="/css/slaveexpand.css" type="text/css" rel="stylesheet">
-<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-8395445-8");pageTracker._trackPageview();} catch(err) {} </script><title>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); setTimeout('startGA();', 100);function startGA(){  try {var pageTracker = _gat._getTracker("UA-8395445-8");pageTracker._trackPageview();} catch(err) {}} function recordOutboundLink(link, category, action) {  try {   var pageTracker=_gat._getTracker("UA-8395445-8");    pageTracker._trackEvent(category, action); var obj = link; obj.target="_blank" ;  setTimeout(window.open(obj), 100) }catch(err){}}</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><title>
 	Untitled Page
 </title></head>
-<body>
+<body id="ctl00_body">
+<script type="text/javascript">
+$(function(){
+	$('.casestudies').vTicker({
+            speed: 700,
+            pause: 10000,
+            showItems: 4,
+            animation: "",
+            mousePause: true,
+            isPaused: false,
+            direction: "up",
+            height: 0
+        });
+        
+});
+</script>
     <form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm" title="">
 <div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA1NzM1Mzk0NA9kFgJmD2QWAgIDEGRkFgYCBQ8WAh4EaHJlZgUUaHR0cDovL3d3dy54ZXJveC5jb21kAhEPFgIeBFRleHQFTDxoMT5Qcml2YWN5PC9oMT48aW1nIGFsdD0iZ3JlZW5wYWdlYmFubmVyIiBzcmM9L2ltYWdlcy9iYW5uZXJwYWdlLmpwZz48L2ltZz5kAhMPZBYGAgEPZBYCZg8PFgIeB1Zpc2libGVoZGQCAw9kFgJmDxYCHwFlZAIFD2QWAmYPFgIfAWVkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRJjdGwwMCRzZWFyY2hidXR0b25uGQ+/tBAIc1VNb5tfYI42W0ud6A==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQxNzQwNzUwMA9kFgJmD2QWAgIDD2QWAgIBEGRkFgICCQ9kFgZmDxYCHgdWaXNpYmxlaGQCAQ8WAh4EVGV4dAUQPGgxPlByaXZhY3k8L2gxPmQCAg8WAh8BZWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEmN0bDAwJHNlYXJjaGJ1dHRvbr8BWhlKeqvLzkAHu0gi9yTT7vya">
 </div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
 
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLioMr/CwKw3+eXDAK0i8miDETaddHbaZEOmU2Nz7SJM6xEbgGm">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLPsJbyAQKw3+eXDAK0i8miDPEDoozYC5dXqqQ/gPac2s2GoD5A">
 </div>
+    <div id="clang">
+        &gt;&nbsp;<a href="http://www.xerox.com/" onclick="recordOutboundLink(this, 'Outbound Links', 'http://www.xerox.com/');return false;">Xerox.com</a>
+    </div>
+    <div class="top_cap" id="top_cap">
+    </div>
+    <div id="wrap">
         <div id="container">
             <!-- Header -->
             <div id="header">
-                <div id="logo">
-                    <a href="/">
-                        <img src="/images/newlogo.jpg" style="width: 202px; height: 103px;" alt="ACS" usemap="#Image-Maps"></a>
-                         <map id="_Image-Maps" name="Image-Maps">
-<area shape="rect" coords="10,10,219,54" href="/" alt="" title="">
-<area shape="rect" coords="5,69,219,103" href="http://www.xerox.com/" alt="" title="" target="_blank"></map>
-                        </div>
+              <div id="logo">
+                <div id="acslogo">
+                    <a href="/"><img src="/images/logo_acs.gif" alt="ACS"></a>                    
+                </div>
+                <div id="xeroxlogo">
+						<a href="http://www.xerox.com" onclick="recordOutboundLink(this, 'Outbound Links', 'http://www.xerox.com/');return false;"><img src="images/logo_xerox.gif" alt="A Xerox Company"></a> 
+					</div>
+
+                </div> 
                 <div id="search">
-                    <label for="lblsearchqueryfield">
-                        Search</label>
                     <input name="ctl00$searchqueryfield" type="text" id="ctl00_searchqueryfield">
                     <label for="lblsearchbutton">
                     </label>
-                    <input src="/images/submit_arrow.gif" name="ctl00$searchbutton" type="image" id="ctl00_searchbutton"><br><br><br>
-                       <a href="http://www.xerox.com" id="ctl00_XeroxAnnmnt" target="_blank"><img src="images/XeroxAnnmnt_header.gif" alt="Acs is now a Xerox Company"></a>
+                    <input src="/images/submit_arrow.gif" name="ctl00$searchbutton" type="image" id="ctl00_searchbutton">
                 </div>
                 <div id="nav">
-                    <link type="text/css" rel="stylesheet" href="/css/acsTopMenu.css"><div class="acstopmenu"><div class="ekflexmenu" id="e0fa05764_142_
-	0_ekflexmenu
-						"><div class="
-								ekflexmenu_menu_level_0 ekflexmenu_submenu
-							"><ul class="ekflexmenu_submenu_items" id="e0fa05764_142_
-	0_submenu_items
-								"><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05764_142_143"><a id="e0fa05764_142_143_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=224">About ACS</a><input type="hidden" id="e0fa05764_142_143_parentid
-			" value="e0fa05764_142_
-	142"><ul id="e0fa05764_142_143_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=504" target="_self">ACS Overview</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=226" target="_self">Philosophy</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=508" target="_self">Community</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=510" target="_self">Recognition</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=512" target="_self">History</a></li><li class="
-				ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e0fa05764_142_159"><a id="e0fa05764_142_159_button
-				" tabindex="0" class="ekflexmenu_button" href="/collection.aspx?id=506&amp;colid=6">Leadership</a><input type="hidden" id="e0fa05764_142_159_parentid
-			" value="e0fa05764_142_
-	143"><ul id="e0fa05764_142_159_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/bios.aspx?id=60" target="_self">Lynn Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1191" target="_self">Kevin Kyser</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=62" target="_self">Tom Burlin</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=74" target="_self">Tom Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=70" target="_self">Lora Villarreal</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=66" target="_self">John Rexford</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418331" target="_self">Tracy Tolbert</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1551" target="_self">Joseph Doherty</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2009" target="_self">Dave Amoriell</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=72" target="_self">Ann Vezina</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2297" target="_self">Connie Harvey</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1257" target="_self">Derrell James</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418262" target="_self">Chris Tranquill</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418321" target="_self">Chad Harris</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2393" target="_self">Mark Boxer</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418311" target="_self">David Bywater</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418391" target="_self">Richard Schnacker</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2105" target="_self">Rebecca Scholl</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=76" target="_self">Chris Leach</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1577" target="_self">Tasos Tsolakis</a></li></ul></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05764_142_144"><a id="e0fa05764_142_144_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=198">Services</a><input type="hidden" id="e0fa05764_142_144_parentid
-			" value="e0fa05764_142_
-	142"><ul id="e0fa05764_142_144_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=202" target="_self">Customer Care</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=204" target="_self">Document &amp; Data Management</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=206" target="_self">Finance &amp; Accounting</a></li><li><a class="ekflexmenu_link" href="/HCMS.aspx" target="_self">Human Capital Management</a></li><li><a class="ekflexmenu_link" href="/it_infrastructure_outsourcing_and_services.aspx" target="_self">IT Outsourcing</a></li><li><a class="ekflexmenu_link" href="/ApplicationServices.aspx" target="_self">Application Services</a></li><li class="
-				ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e0fa05764_142_147"><a id="e0fa05764_142_147_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=492">Public Sector</a><input type="hidden" id="e0fa05764_142_147_parentid
-			" value="e0fa05764_142_
-	144"><ul id="e0fa05764_142_147_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/adminandfinance.aspx" target="_self">Administration and Finance</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=494" target="_self">Energy and Environment</a></li><li class="
-				ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e0fa05764_142_10737418238"><a id="e0fa05764_142_10737418238_button
-				" tabindex="0" class="ekflexmenu_button" href="/federal.aspx">Federal - US</a><input type="hidden" id="e0fa05764_142_10737418238_parentid
-			" value="e0fa05764_142_
-	147"><ul id="e0fa05764_142_10737418238_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/GovernmentContractVehicles.aspx" target="_self">Government Contract Vehicles</a></li></ul></li><li><a class="ekflexmenu_link" href="/healthcare.aspx" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/humanservices.aspx" target="_self">Human Services</a></li><li><a class="ekflexmenu_link" href="/publicsafetyandjustice.aspx" target="_self">Public Safety and Justice</a></li><li><a class="ekflexmenu_link" href="/transportation.aspx" target="_self">Transportation</a></li></ul></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05764_142_148"><a id="e0fa05764_142_148_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=536">Industries</a><input type="hidden" id="e0fa05764_142_148_parentid
-			" value="e0fa05764_142_
-	142"><ul id="e0fa05764_142_148_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li class="
-				ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e0fa05764_142_149"><a id="e0fa05764_142_149_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=564">Commercial</a><input type="hidden" id="e0fa05764_142_149_parentid
-			" value="e0fa05764_142_
-	148"><ul id="e0fa05764_142_149_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/communications_providers.aspx" target="_self">Communications Providers</a></li><li><a class="ekflexmenu_link" href="/advanced_financial_solutions.aspx" target="_self">Financial Solutions</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=212" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=262" target="_self">Higher Education Institutions</a></li><li><a class="ekflexmenu_link" href="/insurance_industry_solutions.aspx" target="_self">Insurance Solutions</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=638" target="_self">Manufacturers</a></li><li><a class="ekflexmenu_link" href="/retail_industry_consultants.aspx" target="_self">Retail Industry</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=640" target="_self">Transportation: Shipping &amp; Logistics</a></li><li><a class="ekflexmenu_link" href="/travel_industry_services.aspx" target="_self">Travel Industry Services</a></li></ul></li><li class="
-				ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e0fa05764_142_150"><a id="e0fa05764_142_150_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=492">Public Sector</a><input type="hidden" id="e0fa05764_142_150_parentid
-			" value="e0fa05764_142_
-	148"><ul id="e0fa05764_142_150_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/adminandfinance.aspx" target="_self">Administration and Finance</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=494" target="_self">Energy and Environment</a></li><li class="
-				ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e0fa05764_142_10737418239"><a id="e0fa05764_142_10737418239_button
-				" tabindex="0" class="ekflexmenu_button" href="/federal.aspx">Federal - US</a><input type="hidden" id="e0fa05764_142_10737418239_parentid
-			" value="e0fa05764_142_
-	150"><ul id="e0fa05764_142_10737418239_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/GovernmentContractVehicles.aspx" target="_self">Government Contract Vehicles</a></li></ul></li><li><a class="ekflexmenu_link" href="/healthcare.aspx" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/humanservices.aspx" target="_self">Human Services</a></li><li><a class="ekflexmenu_link" href="/publicsafetyandjustice.aspx" target="_self">Public Safety and Justice</a></li><li><a class="ekflexmenu_link" href="/transportation.aspx" target="_self">Transportation</a></li></ul></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05764_142_151"><a id="e0fa05764_142_151_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=526">News &amp; Events</a><input type="hidden" id="e0fa05764_142_151_parentid
-			" value="e0fa05764_142_
-	142"></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05764_142_152"><a id="e0fa05764_142_152_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=524">Resource Library</a><input type="hidden" id="e0fa05764_142_152_parentid
-			" value="e0fa05764_142_
-	142"></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05764_142_153"><a id="e0fa05764_142_153_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=518">Analyst Relations</a><input type="hidden" id="e0fa05764_142_153_parentid
-			" value="e0fa05764_142_
-	142"></li><li><a class="ekflexmenu_link" href="http://www.xerox.com/go/xrx/template/inv_rel_newsroom.jsp?app=InvestorRelations&amp;format=landing&amp;view=Main&amp;Xcntry=USA&amp;Xlang=enUS" target="_blank"><img border="0" src="/uploadedImages/spacer.gif">Investor Relations</a></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05764_142_154"><a id="e0fa05764_142_154_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=528">Media Relations</a><input type="hidden" id="e0fa05764_142_154_parentid
-			" value="e0fa05764_142_
-	142"><ul id="e0fa05764_142_154_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li class="
-				ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e0fa05764_142_158"><a id="e0fa05764_142_158_button
-				" tabindex="0" class="ekflexmenu_button" href="/collection.aspx?id=568&amp;colid=16">Subject Matter Experts</a><input type="hidden" id="e0fa05764_142_158_parentid
-			" value="e0fa05764_142_
-	154"><ul id="e0fa05764_142_158_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/bios.aspx?id=2398" target="_self">Caroline Avey</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2399" target="_self">Chad Harris</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1643" target="_self">Chantel Sheaks</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1367" target="_self">Chris Engle</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1727" target="_self">Chris Leach</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1605" target="_self">Chris Tranquill</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1739" target="_self">Connie Harvey</a></li><li><a class="ekflexmenu_link" href="/DavidCummins.aspx" target="_self">David Cummins</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1050" target="_self">Jeffrey C. (Jeff) Bauer, Ph.D.</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1811" target="_self">John Polk</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2337" target="_self">Kevin Kelley</a></li><li><a class="ekflexmenu_link" href="/LouisSchiavone.aspx" target="_self">Louis Schiavone</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1841" target="_self">Parker Williams</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2071" target="_self">Raymond Hennings</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2355" target="_self">Richard Klingshirn</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1835" target="_self">Richard Williams</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1965" target="_self">Robert Blondin</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2357" target="_self">Rohail Khan</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2401" target="_self">Sherri Z. Heller</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1579" target="_self">Tasos Tsolakis</a></li><li><a class="ekflexmenu_link" href="/TimConway.aspx" target="_self">Tim Conway</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1753" target="_self">Tom Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1447" target="_self">Will Saunders</a></li></ul></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05764_142_155"><a id="e0fa05764_142_155_button
-				" tabindex="0" class="ekflexmenu_button" href="/contentnav.aspx?id=520">Careers</a><input type="hidden" id="e0fa05764_142_155_parentid
-			" value="e0fa05764_142_
-	142"><ul id="e0fa05764_142_155_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="https://infobank.acs-inc.com/login.asp" target="_blank">ACS Employee Portal</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=1573" target="_self">Career Opportunities</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=226" target="_self">Philosophy</a></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05764_142_156"><a id="e0fa05764_142_156_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=522">Locations</a><input type="hidden" id="e0fa05764_142_156_parentid
-			" value="e0fa05764_142_
-	142"><ul id="e0fa05764_142_156_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Asia Pacific</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Caribbean &amp; Latin America</a></li><li><a class="ekflexmenu_link" href="/ACS_Europe.aspx" target="_self">Europe</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Middle East &amp; Africa</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">North America</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">South America</a></li></ul></li><li id="e0fa05764_142_157" class="endtopnav"><a id="e0fa05764_142_157_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=570">ACS Links</a><input type="hidden" id="e0fa05764_142_157_parentid
-			" value="e0fa05764_142_
-	142"></li></ul></div></div></div>
-                    
+                    <div id="util_search">
+                        <ul><li class="first"><a onclick="recordOutboundLink(this, 'Outbound Links', 'http://news.xerox.com/pr/xerox/investor-relations.aspx');return false;
+            " href="http://news.xerox.com/pr/xerox/investor-relations.aspx" target="_blank">Investor Relations</a></li><li><a onclick="recordOutboundLink(this, 'Outbound Links', 'http://news.xerox.com/pr/xerox/news.aspx?ncid=23112');return false;
+            " href="http://news.xerox.com/pr/xerox/news.aspx?ncid=23112" target="_blank">Newsroom</a></li><li><a id="e0fa05763_10737418240_10737418273_button
+				" tabindex="0" class="ekflexmenu_button" href="/careers.aspx">Careers</a><input type="hidden" id="e0fa05763_10737418240_10737418273_parentid
+			" value="e0fa05763_10737418240_
+	10737418240"></li><li><a href="/acs_links.aspx" target="_self">ACS Links</a></li><li><a href="/resource_library.aspx" target="_self">Resource Library</a></li></ul>
+                    </div>
+                    <ul id="cn_pnav">
+                        
+                        <li class="cn_pnav_link" style="display: block;" onmouseover="if(cnPrimaryNavMenuManager)cnPrimaryNavMenuManager.toggleMenu(this);" id="acs_drop1_nav"><a href=""><img src="images/nav1off.gif" width="249" height="31" alt="Services" border="0"></a></li><li id="acs_drop1_nav_menu" style="display: none;"><div class="cn_pnav_link_hover"><a href="/services.aspx"><img height="31" border="0" width="249" src="images/nav1on.gif" alt="Services"></a></div><div class="cn_pnav_fmenu"><div class="cn_pnav_fmenu_hdr"></div><ol class="cn_pnav_fmenu"><li class="dropshadow"><img src="images/shadow.png" width="242" height="7" border="0"></li><li class="suppress_divider"><a class="subheading" href="/customercare.aspx" target="_self">Customer Care</a></li><li><a class="subheading" href="/documentanddatamanagement.aspx" target="_self">Document and Data Management</a></li><li><a class="subheading" href="/finance_and_accounting_outsourcing.aspx" target="_self">Finance and Accounting Outsourcing</a></li><li><a class="subheading" href="/it_infrastructure_outsourcing_and_services.aspx" target="_self">IT Outsourcing</a></li><li><a class="subheading" href="/hcms.aspx" target="_self">Human Resource Services</a></li><li><a class="subheading" href="/applicationservices.aspx" target="_self">Application Services</a></li></ol><div class="bottom"><img src="images/acs_menu_bottom.png" width="242" height="5" border="0"></div></div></li><li class="cn_pnav_link" style="display: block;" onmouseover="if(cnPrimaryNavMenuManager)cnPrimaryNavMenuManager.toggleMenu(this);" id="acs_drop2_nav"><a href=""><img src="images/nav2off.gif" width="242" height="31" alt="Industries" border="0"></a></li><li id="acs_drop2_nav_menu" style="display: none;"><div class="cn_pnav_link_hover"><a href="/industrieshome.aspx"><img height="31" border="0" width="242" src="images/nav2on.gif" alt="Industries"></a></div><div class="cn_pnav_fmenu"><div class="cn_pnav_fmenu_hdr"></div><ol class="cn_pnav_fmenu"><li class="dropshadow"><img src="images/shadow.png" width="242" height="7" border="0"></li><li class="suppress_divider"><a class="subheading" href="/communications_providers.aspx" target="_self">Communications Providers</a></li><li><a class="subheading" href="/advanced_financial_solutions.aspx" target="_self">Financial Services</a></li><li><a class="subheading" href="/healthcare_industry.aspx" target="_self">Healthcare</a></li><li><a class="subheading" href="/higher_education.aspx" target="_self">Higher Education Institutions</a></li><li><a class="subheading" href="/insurance_industry_solutions.aspx" target="_self">Insurance Solutions</a></li><li><a class="subheading" href="/manufacturers.aspx" target="_self">Manufacturers</a></li><li><a class="subheading" href="/retail_industry_consultants.aspx" target="_self">Retail Industry</a></li><li><a class="subheading" href="/transportation_shipping_and_logistics.aspx" target="_self">Transportation: Shipping and Logistics</a></li><li><a class="subheading" href="/travel_industry_services.aspx" target="_self">Travel Industry Services</a></li></ol><div class="bottom"><img src="images/acs_menu_bottom.png" width="242" height="5" border="0"></div></div></li><li class="cn_pnav_link" style="display: block;" onmouseover="if(cnPrimaryNavMenuManager)cnPrimaryNavMenuManager.toggleMenu(this);" id="acs_drop3_nav"><a href=""><img src="images/nav3off.gif" width="249" height="31" alt="Public Sector" border="0"></a></li><li id="acs_drop3_nav_menu" style="display: none;"><div class="cn_pnav_link_hover"><a href="/publicsector.aspx"><img height="31" border="0" width="249" src="images/nav3on.gif" alt="Public Sector"></a></div><div class="cn_pnav_fmenu"><div class="cn_pnav_fmenu_hdr"></div><ol class="cn_pnav_fmenu"><li class="dropshadow"><img src="images/shadow.png" width="242" height="7" border="0"></li><li class="suppress_divider"><a class="subheading" href="/adminandfinance.aspx" target="_self">Administration and Finance</a></li><li><a class="subheading" href="/energy_and_environment.aspx" target="_self">Energy and Environment</a></li><li><a class="subheading" href="/federal.aspx">Federal – U.S.</a></li><li><a class="subheading" href="/healthcare.aspx" target="_self">Healthcare</a></li><li><a class="subheading" href="/humanservices.aspx" target="_self">Human Services</a></li><li><a class="subheading" href="/publicsafetyandjustice.aspx" target="_self">Public Safety and Justice</a></li><li><a class="subheading" href="/transportation.aspx" target="_self">Transportation</a></li></ol><div class="bottom"><img src="images/acs_menu_bottom.png" width="242" height="5" border="0"></div></div></li>
+                        
+                    </ul>
                 </div>
             </div>
             <!-- End of Header -->
             <div id="contentholder">
-                <div id="subnav">
+               
+               
+              
                     
-    <link type="text/css" rel="stylesheet" href="/css/slaveexpand.css"><div class="slaveexpand"><div class="ekflexmenu" id="e0fa05763_142_
-	0_ekflexmenu
-						"><div class="
-								ekflexmenu_menu_level_0 ekflexmenu_submenu
-							"><ul class="ekflexmenu_submenu_items" id="e0fa05763_142_
-	0_submenu_items
-								"><li class="
-				ekflexmenu_menu_level_0 ekflexmenu_submenu" id="e0fa05763_142_142"><input type="hidden" id="e0fa05763_142_142_parentid
-			" value="e0fa05763_142_
-	0"><ul id="e0fa05763_142_142_submenu_items
-				" class="
-							ekflexmenu_submenu_items ekflexmenu_slavecontainer
-						"><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_143"><input type="hidden" id="e0fa05763_142_143_parentid
-			" value="e0fa05764_142_142"><ul id="e0fa05763_142_143_submenu_items
-				" class="ekflexmenu_submenu_items"><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=504" target="_self">ACS Overview</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=226" target="_self">Philosophy</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=508" target="_self">Community</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=510" target="_self">Recognition</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=512" target="_self">History</a></li><li class="
-				ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05763_142_159"><a id="e0fa05763_142_159_button
-				" tabindex="0" class="ekflexmenu_button" href="/collection.aspx?id=506&amp;colid=6">Leadership</a><input type="hidden" id="e0fa05763_142_159_parentid
-			" value="e0fa05763_142_
-	143"><ul id="e0fa05763_142_159_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/bios.aspx?id=60" target="_self">Lynn Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1191" target="_self">Kevin Kyser</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=62" target="_self">Tom Burlin</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=74" target="_self">Tom Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=70" target="_self">Lora Villarreal</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=66" target="_self">John Rexford</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418331" target="_self">Tracy Tolbert</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1551" target="_self">Joseph Doherty</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2009" target="_self">Dave Amoriell</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=72" target="_self">Ann Vezina</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2297" target="_self">Connie Harvey</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1257" target="_self">Derrell James</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418262" target="_self">Chris Tranquill</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418321" target="_self">Chad Harris</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2393" target="_self">Mark Boxer</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418311" target="_self">David Bywater</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418391" target="_self">Richard Schnacker</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2105" target="_self">Rebecca Scholl</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=76" target="_self">Chris Leach</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1577" target="_self">Tasos Tsolakis</a></li></ul></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_144"><input type="hidden" id="e0fa05763_142_144_parentid
-			" value="e0fa05764_142_142"><ul id="e0fa05763_142_144_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=202" target="_self">Customer Care</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=204" target="_self">Document &amp; Data Management</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=206" target="_self">Finance &amp; Accounting</a></li><li><a class="ekflexmenu_link" href="/HCMS.aspx" target="_self">Human Capital Management</a></li><li><a class="ekflexmenu_link" href="/it_infrastructure_outsourcing_and_services.aspx" target="_self">IT Outsourcing</a></li><li><a class="ekflexmenu_link" href="/ApplicationServices.aspx" target="_self">Application Services</a></li><li class="
-				ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05763_142_147"><a id="e0fa05763_142_147_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=492">Public Sector</a><input type="hidden" id="e0fa05763_142_147_parentid
-			" value="e0fa05763_142_
-	144"><ul id="e0fa05763_142_147_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/adminandfinance.aspx" target="_self">Administration and Finance</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=494" target="_self">Energy and Environment</a></li><li class="
-				ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e0fa05763_142_10737418238"><a id="e0fa05763_142_10737418238_button
-				" tabindex="0" class="ekflexmenu_button" href="/federal.aspx">Federal - US</a><input type="hidden" id="e0fa05763_142_10737418238_parentid
-			" value="e0fa05763_142_
-	147"><ul id="e0fa05763_142_10737418238_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/GovernmentContractVehicles.aspx" target="_self">Government Contract Vehicles</a></li></ul></li><li><a class="ekflexmenu_link" href="/healthcare.aspx" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/humanservices.aspx" target="_self">Human Services</a></li><li><a class="ekflexmenu_link" href="/publicsafetyandjustice.aspx" target="_self">Public Safety and Justice</a></li><li><a class="ekflexmenu_link" href="/transportation.aspx" target="_self">Transportation</a></li></ul></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_148"><input type="hidden" id="e0fa05763_142_148_parentid
-			" value="e0fa05764_142_142"><ul id="e0fa05763_142_148_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li class="
-				ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05763_142_149"><a id="e0fa05763_142_149_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=564">Commercial</a><input type="hidden" id="e0fa05763_142_149_parentid
-			" value="e0fa05763_142_
-	148"><ul id="e0fa05763_142_149_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/communications_providers.aspx" target="_self">Communications Providers</a></li><li><a class="ekflexmenu_link" href="/advanced_financial_solutions.aspx" target="_self">Financial Solutions</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=212" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=262" target="_self">Higher Education Institutions</a></li><li><a class="ekflexmenu_link" href="/insurance_industry_solutions.aspx" target="_self">Insurance Solutions</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=638" target="_self">Manufacturers</a></li><li><a class="ekflexmenu_link" href="/retail_industry_consultants.aspx" target="_self">Retail Industry</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=640" target="_self">Transportation: Shipping &amp; Logistics</a></li><li><a class="ekflexmenu_link" href="/travel_industry_services.aspx" target="_self">Travel Industry Services</a></li></ul></li><li class="
-				ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05763_142_150"><a id="e0fa05763_142_150_button
-				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=492">Public Sector</a><input type="hidden" id="e0fa05763_142_150_parentid
-			" value="e0fa05763_142_
-	148"><ul id="e0fa05763_142_150_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/adminandfinance.aspx" target="_self">Administration and Finance</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=494" target="_self">Energy and Environment</a></li><li class="
-				ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e0fa05763_142_10737418239"><a id="e0fa05763_142_10737418239_button
-				" tabindex="0" class="ekflexmenu_button" href="/federal.aspx">Federal - US</a><input type="hidden" id="e0fa05763_142_10737418239_parentid
-			" value="e0fa05763_142_
-	150"><ul id="e0fa05763_142_10737418239_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/GovernmentContractVehicles.aspx" target="_self">Government Contract Vehicles</a></li></ul></li><li><a class="ekflexmenu_link" href="/healthcare.aspx" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/humanservices.aspx" target="_self">Human Services</a></li><li><a class="ekflexmenu_link" href="/publicsafetyandjustice.aspx" target="_self">Public Safety and Justice</a></li><li><a class="ekflexmenu_link" href="/transportation.aspx" target="_self">Transportation</a></li></ul></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_151"><input type="hidden" id="e0fa05763_142_151_parentid
-			" value="e0fa05764_142_142"></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_152"><input type="hidden" id="e0fa05763_142_152_parentid
-			" value="e0fa05764_142_142"></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_153"><input type="hidden" id="e0fa05763_142_153_parentid
-			" value="e0fa05764_142_142"></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_154"><input type="hidden" id="e0fa05763_142_154_parentid
-			" value="e0fa05764_142_142"><ul id="e0fa05763_142_154_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li class="
-				ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel
-				" id="e0fa05763_142_158"><a id="e0fa05763_142_158_button
-				" tabindex="0" class="ekflexmenu_button" href="/collection.aspx?id=568&amp;colid=16">Subject Matter Experts</a><input type="hidden" id="e0fa05763_142_158_parentid
-			" value="e0fa05763_142_
-	154"><ul id="e0fa05763_142_158_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/bios.aspx?id=2398" target="_self">Caroline Avey</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2399" target="_self">Chad Harris</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1643" target="_self">Chantel Sheaks</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1367" target="_self">Chris Engle</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1727" target="_self">Chris Leach</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1605" target="_self">Chris Tranquill</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1739" target="_self">Connie Harvey</a></li><li><a class="ekflexmenu_link" href="/DavidCummins.aspx" target="_self">David Cummins</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1050" target="_self">Jeffrey C. (Jeff) Bauer, Ph.D.</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1811" target="_self">John Polk</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2337" target="_self">Kevin Kelley</a></li><li><a class="ekflexmenu_link" href="/LouisSchiavone.aspx" target="_self">Louis Schiavone</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1841" target="_self">Parker Williams</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2071" target="_self">Raymond Hennings</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2355" target="_self">Richard Klingshirn</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1835" target="_self">Richard Williams</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1965" target="_self">Robert Blondin</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2357" target="_self">Rohail Khan</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2401" target="_self">Sherri Z. Heller</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1579" target="_self">Tasos Tsolakis</a></li><li><a class="ekflexmenu_link" href="/TimConway.aspx" target="_self">Tim Conway</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1753" target="_self">Tom Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1447" target="_self">Will Saunders</a></li></ul></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_155"><input type="hidden" id="e0fa05763_142_155_parentid
-			" value="e0fa05764_142_142"><ul id="e0fa05763_142_155_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="https://infobank.acs-inc.com/login.asp" target="_blank">ACS Employee Portal</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=1573" target="_self">Career Opportunities</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=226" target="_self">Philosophy</a></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_156"><input type="hidden" id="e0fa05763_142_156_parentid
-			" value="e0fa05764_142_142"><ul id="e0fa05763_142_156_submenu_items
-				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Asia Pacific</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Caribbean &amp; Latin America</a></li><li><a class="ekflexmenu_link" href="/ACS_Europe.aspx" target="_self">Europe</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Middle East &amp; Africa</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">North America</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">South America</a></li></ul></li><li class="
-				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_157"><input type="hidden" id="e0fa05763_142_157_parentid
-			" value="e0fa05764_142_142"></li></ul></li></ul></div></div></div>
-
-                    <div id="greenpage_image" style="visibility: hidden;">
-                    </div>
-                    <div id="greenpage" style="visibility: visible;">
-                        <div class="greenpageblock_left">
-                            
-                        </div>
-                    </div>
-                    <p style="margin-top: 130px;">
+    <div id="content">
+      <div id="bodycontent" style="padding:0px 5px 0px 5px;">
                         
-                    </p>
-                    <div class="PublicSectorblock_left">
-                        
-                    </div>
-                </div>
-                <div id="banner">
-                    <h1>Privacy</h1><img alt="greenpagebanner" src="/images/bannerpage.jpg">
-                </div>
-                <div id="content">
-                    
-    <div id="sidebar">
+        <h1>Privacy</h1>
+        <div id="banner" style="width: 740px; ">
+            
+        </div>
+         <h1></h1>
+        <div id="ctl00_cphMainContent_ContentBlock1">
+	<div class="EktronAjaxLoading" align="left"><img src="/WorkArea/images/application/loading_big.gif" alt="Loading..."></div><simplecontent>
+<p>
+<strong>General<br>
+<br>
+</strong>This Privacy Statement (“Statement”) describes the online privacy practices for ACS websites maintained by Affiliated Computer Services, Inc. and its subsidiaries (“ACS”). It also describes our privacy practices related to certain personal information that ACS receives in the United States from the European Union and Switzerland (see the “Safe Harbor” section below).<br>
+<br>
+By using our sites you agree that your use is subject to the terms of this Statement and you consent to the collection, use and storage of your information by ACS in accordance with this Statement and as may be more specifically explained on each website. ACS may change this Statement at any time and will display the changes here in the form of a new Statement. Because your use of this website after changes have been posted indicates your agreement with those changes, we encourage you to visit this Statement on a regular basis. If you are not comfortable with using this website in accordance with this Statement, please exit immediately.<br>
+<br>
+You may have accessed this ACS website as a result of a link from another ACS site. This Statement applies to all ACS websites linked to this site except where more specific information is provided on the linked site with respect to the collection, use and storage of personal information.</p>
+<p class="content">
+<b>What Personal Information May Be Collected</b>
+<br>
+<br>
+ACS may collect personal information about you when you use our websites; place orders for products or services; request information such as quotes, newsletters, promotional materials or services from ACS; participate in surveys or promotional activities; seek information about employment opportunities or apply for a position; or participate in other activities on our sites. The personal information we collect may include name, physical address, telephone number, email address and other personal information that you choose to provide. For certain activities, such as when you order a product or service, we may ask for your payment card information, driver’s license number, social security number or equivalent national identification number and date of birth. If you express an interest in employment with ACS, we may ask you to provide your resume/CV and other relevant information.<br>
+<br>
+When you visit our site we may collect information through the use of a "cookie". A cookie is a small file that a website can send to your browser and then is stored on your computer. This type of technology is designed to tell us when you reenter our site, where you visit within our site, and the type of browser you use. You are not required to accept any cookie we might use, although some areas of a site may not be operational without the use of cookies. You can disable cookies on your computer by changing the settings in your browser. The information collected helps us identify data relating to usage and trends, address any problems with site administration, and to further improve this site. We also may automatically collect certain information relating to you, such as your Internet Protocol (IP) address, Internet service provider, type of operating system, the time and date you accessed the Site, the Uniform Resource Locator (URL) from which you arrived at our site and, if you browse away from our site by clicking on a link on our site, the URL you click on.<br>
+<br>
+We do not require you to provide your Social Security Number on our site unless a secure connection is used or the SSN is encrypted. We also do not require you to enter your SSN to access our sites without requiring additional authentication.</p>
+<p class="content">
+<b>How Personal Information May Be Used</b>
+<br>
+<br>
+The information we collect may be used to facilitate your use of our site and improve the operation of the site; respond to and fulfill any requests you make for products, services or other support from ACS; communicate with you about the products, services and promotional offers available from ACS or our business partners. We also may use the information to implement terms and restrictions associated with purchases you make or separate contracts you enter into with ACS, if any. Finally, if you express an interest in employment opportunities with ACS we will use any information submitted, such as a resume/CV, to evaluate candidates for employment purposes. Other uses of information may be evident from the particular site or point at which we collect the information.<br>
+<br>
+ACS will retain personal information collected for as long as it is needed to fulfill the purpose for which the information was collected or as required by applicable law.</p>
+<p class="content">
+<b>Sharing of Personal Information with Third Parties</b>
+<br>
+<br>
+ACS will not sell or give your personal information to third parties for their use for purposes unrelated to ACS without your permission, except as noted in this Statement or on our websites.<br>
+<br>
+ACS may share personal information about you with our subsidiaries and affiliated companies. We also may share personal information with our suppliers, contractors and agents who perform functions on our behalf, with other third party business partners, or in connection with products and services offered by ACS or a request made by you. On occasion when ACS transfers personal information to one of those third parties for purposes of responding to a request from you, that third party may need to furnish the information to an unaffiliated party for further assistance.<br>
+<br>
+ACS may disclose your personal information as we consider necessary to comply with the law or requests by governmental authorities, in connection with litigation, dispute resolution, or administration of this Statement or a possible violation of this site's Terms of Use or the rights of ACS or a third party. In addition, ACS may disclose or receive personal information in connection with a possible sale, purchase, merger or other reorganization of a business.</p>
+<p class="content">
+<b>Communications</b>
+<br>
+<br>
+From time to time ACS or our business partners may send you marketing communications regarding products and services that can be purchased directly from ACS. For some communications you can choose to receive them or opt-out by using the checkbox on the web form. If you receive marketing communications from ACS and wish to discontinue them, please contact the sender as identified in the email or you may contact ACS through the ACS website.</p>
+<p class="content">
+<b>Security</b>
+<br>
+<br>
+To protect the personal information we receive, ACS uses certain security measures designed to guard against the loss, misuse and alteration of that information. It should be recognized, however, that we cannot guarantee that transmission of data over the Internet will be absolutely secure. Due to the open nature of the Internet the information you provide may be in environments that do not have adequate security measures and may be accessed and used by persons other than those intended. As a result, while protection of your personal information is important to us, ACS is not able to ensure the security of information you transmit to us and you assume the risk of any third party obtaining that information. Upon receipt of your information ACS will strive to ensure its security on our systems.<br>
+<br>
+ACS may use Social Security Numbers in connection with the sale or licensing of products and services. We use security measures designed to protect the confidentiality of the SSNs while in ACS’ possession and control. No unlawful disclosure of SSNs is permitted. Contracts with clients, suppliers or other third parties may contain additional requirements relating to the protection of SSNs. ACS will comply with all applicable laws relating to the use, access and disclosure of SSNs.</p>
+<p class="content">
+<b>Links to Other Websites</b>
+<br>
+<br>
+Our websites may contain links to other sites, not maintained by ACS. If you choose to access those sites, please review the privacy statement applicable to each site. The links to other sites are made available as a convenience to you and ACS is not responsible for the privacy policies and information collection practices of those sites.</p>
+<p class="content">
+<b>ACS Client Web Sites</b>
+<br>
+<br>
+In the course of providing services to its clients, ACS may operate websites for certain clients that involve the collection, use and retention of personal information. For example, if you are a health plan member, health plan provider, a patient or other individual who does business with an ACS client, ACS may collect, use and maintain personal information in order to provide you with services on behalf of the ACS client. Those activities are conducted by ACS under a contract between ACS and the client. This Statement is not intended to modify the terms of the contract between ACS and the client. If you have questions about the handling of your personal information that are not addressed on the specific website through which ACS conducts those activities on behalf of the client, please use the contact information listed on that site or communicate with the ACS client.</p>
+<p class="content">
+<b>Global Presence</b>
+<br>
+<br>
+ACS has employees, clients and suppliers in many countries around the world. The management, operational and technical processes and systems used by ACS may involve transfer of information across borders. For example, personal information that ACS obtains may be sent to systems outside the country in which you initially provided the information, and it may be processed and stored in a different country, including jurisdictions that may not have data privacy laws that provide protection equivalent to such laws in the country in which you reside. By your use of this site you consent to the transfer of your personal information outside of your country to any other country. Regardless of the location from which you provide your personal information to ACS through its websites, ACS will take steps to handle it in a secure manner in accordance with this Statement and all applicable laws.</p>
+<p class="content">
+<b>Children</b>
+<br>
+<br>
+ACS does not market its products or services to children under thirteen years of age and does not wish to collect personal information from children.</p>
+<p class="content">
+<b>Contact Information</b>
+<br>
+<br>
+Please direct any questions you might have about this Statement to the ACS Chief Information Security Officer at <a href="mailto:ciso@acs-inc.com">ciso@acs-inc.com</a> or you may direct your communications to:&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ACS Chief Information Security Officer<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2828 N. Haskell Avenue, Bldg. 5<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dallas, Texas 75204</p>
+<p class="content">
+<b>Safe Harbor</b>
+<br>
+<br>
+ACS adheres to the requirements of the Safe Harbor Program developed by the U.S. Department of Commerce and the European Commission with respect to certain personal information that ACS receives in the United States about individuals in the EU and Switzerland (“European Personal Information”). Specifically, ACS may receive and process European Personal Information about client contacts and other visitors to this website who purchase, or may purchase, products or services from ACS on behalf of their companies (“Client Contact Data”). ACS handles such Client Contact Data in accordance with the purposes of use and other descriptions in this Privacy Statement.<br>
+<br>
+ACS also receives certain European Personal Information about client employees, beneficiaries, dependents, customers and others in connection with the provision of information technology, business process management, and related services to our clients (“Client Controlled Data”). ACS acts as a data processor with respect to the handling and processing of the Client Controlled Data, and in accordance with our client’s instructions. ACS has no contractual relationship with the individuals concerned.<br>
+<br>
+Individuals with questions about ACS’s handling of their Client Controlled Data should first contact the ACS client involved. Questions about Client Contact Data or other concerns may be directed to ACS as per the Contact Information in the section above. Or, if the individual’s questions cannot be answered directly, such persons may contact their local data protection authority for further information. More information about the U.S. Department of Commerce Safe Harbor Program can also be found at <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.<br>
+<br>
+This Privacy Statement was last updated on June 29, 2010.</p>
+</simplecontent><div style="position: relative; padding-top: 0px; margin-top: -5px;"></div>
+</div>
         
-
-        
-        
-    </div>
-    <div id="bodycontent" style="width: 500px;">
-        
-        <!--?xml version="1.0" encoding="utf-8"?--><simplecontent><p><strong>General<br><br></strong>ACS is committed to the privacy and security of personal information you provide to us through the use of ACS Web Sites. This Online Privacy Statement ("Statement") informs you of the information practices for ACS Web Sites, including the type of personal information we collect from your use of ACS Web Sites, how the information is used, and with whom the information is shared.<br><br>
-By using our Site, you agree that your use is subject to the terms of this Statement and you consent to the collection, use and storage of your information by ACS in accordance with this Statement and as may be more specifically explained on each Site. ACS may change this Statement at any time and will display the changes here on this Site. Because your use of this Site after changes have been posted indicates your agreement with those changes, we encourage you to visit this Statement on a regular basis. If you are not comfortable with using this Site in accordance with this Statement, please exit the Site immediately.<br><br>
-You may have accessed this Site as a result of a link from another ACS Site. This Statement applies to all ACS Sites linked to this Site except where more specific information is provided on the linked Site with respect to the collection, use and storage of personal information.<br><br>
-This Statement is effective June 2, 2004.</p><p class="content"><b>Collection and Use of Information</b><br><br>
-You may visit this Site and certain other ACS Sites without registering or disclosing personally identifiable information, although some areas of this Site or other Sites may require a password. ACS may ask you to provide personal information, such as when you are asked to complete an online form or a request with regard to a product or service from ACS. This information may include name, physical address, phone number, email address and other personal information that you choose to provide. ACS uses this information for purposes of communications with you, to respond to requests you may have, and for marketing purposes. If you wish to update information you provided through this Site in connection with regular mailings or you wish to have your name removed from a mailing list, you may do so by sending an email or by submitting an updated form through the same communication channel you initially submitted the information.<br><br>
-Certain ACS Sites allow for the electronic submission of resumes if you are interested in employment opportunities with ACS. Resumes received by ACS are used only for employment purposes or such other purpose you may request. If you wish to delete or update employment-related information you submitted through this Site, you may do so by using the profile management function that is available or contact ACS Human Resources.<br><br>
-When you visit this Site, we may automatically collect certain information relating to you, such as your Internet address, Internet service provider, type of operating system, the time and date you accessed the Site, and the Internet address from which you arrived at our Site. Also, when you visit our Site we may collect information through the use of a "cookie". A cookie is a small file that a web site can send to your browser and then is stored on your computer. This type of technology is designed to tell us when you reenter our Site, where you visit within our Site, and the type of browser you use. You are not required to accept any cookie we might use, although some areas of a Site may not be operational without the use of cookies. You can disable cookies on your computer by changing the settings in your browser. The information collected helps us identify data relating to usage and trends, address any problems with Site administration, and to further improve this Site.</p><p class="content"><b>Sharing of Information with Third Parties</b><br><br>
-ACS will not sell or give your personal information to third parties for their use for purposes unrelated to ACS without your permission.<br><br>
-ACS may share personal information about you with our subsidiaries and affiliated companies. We also may share personal information with our suppliers, contractors and agents who perform functions on our behalf, or in connection with products and services offered by ACS or a request made by you. ACS may disclose your personal information as we consider necessary to comply with the law or governmental authorities, in connection with litigation, dispute resolution, or administration of this Statement or a possible violation of this Site's Terms of Use or the rights of ACS or a third party. In addition, ACS may disclose or receive personal information in connection with a possible sale, purchase, merger or other reorganization of a business.</p><p class="content"><b>Retention</b><br><br>
-ACS will retain personal information collected by a Site for as long as it is needed to fulfill the purpose for which the information was provided, to maintain a record of communications with you, or as required by applicable law.</p><p class="content"><b>Security</b><br><br>
-To protect the personal information we receive ACS uses certain security measures designed to guard against the loss, misuse and alteration of that information. It should be recognized, however, that we cannot guarantee that transmission of data over the Internet will be absolutely secure. Due to the open nature of the Internet the information you provide may be in environments that do not have adequate security measures and may be accessed and used by persons other than those intended. As a result, while protection of your personal information is important to us, ACS is not able to ensure the security of information you transmit to us and you assume the risk of any third party obtaining that information. Upon receipt of your information ACS will strive to ensure its security on our systems.</p><p class="content"><b>Links to Other Web Sites</b><br><br>
-This Site may contain links to other web sites, not maintained by ACS. If you choose to access those sites, please review the privacy Statement applicable to each site. The links to other sites are made available as a convenience to you and ACS is not responsible for the privacy policies and information collection practices of those sites.</p><p class="content"><b>ACS Client Web Sites</b><br><br>
-In the course of providing services to its clients, ACS may operate web sites for certain clients that involve the collection, use and retention of personal information. For example, if you are a health plan member, health plan provider, a patient or other individual who does business with an ACS client, ACS may collect, use and maintain personal information in order to provide you with services on behalf of the client. Those activities are conducted by ACS under a contract between ACS and the client. This Statement is not intended to modify the terms of the contract between ACS and the client. If you have questions about the handling of your personal information that are not addressed on the specific web site through which ACS conducts those activities on behalf of the client, please use the contact information listed on that site or communicate with the ACS client.</p><p class="content"><b>Global Presence</b><br><br>
-ACS has employees, customers and suppliers in many countries around the world. The management, operational and technical processes and systems used by ACS may involve transfer of information across borders. For example, personal information you give to ACS may be sent to systems outside the country in which you initially provided the information, and it may be processed and stored in a different country. Regardless of where you provide your personal information, ACS will take steps to handle it in a secure manner in accordance with this Statement and all applicable laws.</p><p class="content"><b>Children</b><br><br>
-ACS does not market its products or services to children under thirteen years of age. We do not intend to collect personal information from children and request that children do not submit personal information to us.</p><p class="content"><b>Scope of Statement</b><br><br>
-This Statement describes the online privacy practices for ACS Web Sites maintained by Affiliated Computer Services, Inc. and its subsidiaries ("ACS"). It does not modify any agreements ACS may have with our customers, suppliers or other third parties.</p><p class="content"><b>Contact Information</b><br><br>
-Please direct any questions you might have about this Statement to the ACS Privacy Office.</p></simplecontent><div style="position: relative; padding-top: 10px; margin-top: 40px;"><p id="closeall">Close All</p><p id="openall">Expand All</p><div class="panel_example panel-up"><p class="slide"><span>Social Security Number Protection Policy</span></p></div><div style="display: none;"><div><p><strong>Purpose</strong></p><p>ACS uses Social Security Numbers in our role as an employer and as a service provider to our clients.&nbsp; This Social Security Number Protection Policy (“Policy”) is intended to protect the confidentiality of and limit access to Social Security Numbers in the possession and control of ACS and prohibit unlawful disclosure of those Numbers.&nbsp; As used in this Policy, a Social Security Number (SSN) is a 9-digit number issued to individuals by the Social Security Administration, an agency of the U.S. Federal Government.</p><p><strong>Scope</strong></p><p>For purposes of this Policy, “ACS” means Affiliated Computer Services, Inc, its affiliates and subsidiaries.&nbsp; This Policy applies to all ACS employees, independent contractors, consultants, temporary employees and all other individuals or entities (“Workers”) that access, use or process SSNs in the performance of job duties or the delivery of services on behalf of ACS.&nbsp; Contracts with clients, suppliers or other third parties may contain additional requirements relating to the protection of SSNs.&nbsp; In all cases, such contractual requirements will control to the extent they are more stringent than the standards set forth in this Policy and associated procedures.&nbsp; This Policy does not attempt to address the variety of specific legal or regulatory requirements that may be in effect in every jurisdiction.&nbsp; Such requirements may be addressed in related ACS privacy guidance and communications.</p><p><strong>Protection of SSNs</strong></p><p>ACS will establish and maintain reasonable procedures and safeguards designed to protect the confidentiality of SSNs while in ACS’ possession and control, whether collected by ACS in connection with employment activities or furnished to ACS in connection with the performance of services for a client.&nbsp; No unlawful disclosure of SSNs is permitted.&nbsp; Access to SSNs will be limited to those Workers with a need-to-know and to the minimum amount reasonably necessary for a Worker to perform the assigned task.</p><p><strong>Compliance with Laws</strong></p><p>ACS will comply with all applicable laws relating to the use, access and disclosure of SSNs.&nbsp;&nbsp;</p><p><strong>Integration with Security Policies</strong></p><p>This Policy is intended to be interpreted and construed in a manner consistent with ACS Information Security and Physical Security policies and other relevant policies or procedures.</p><p><strong>Sanctions</strong></p><p>Violations of this Policy may result in immediate disciplinary action up to and including termination of employment, contract termination, or other actions as ACS deems appropriate.</p><p><strong>Suppliers, vendors and contractors</strong></p><p>ACS will take reasonable steps to select suppliers, vendors and contractors who maintain appropriate safeguards to protect SSNs.<br></p><div align="right"><a href="javascript:window.scrollTo(0,0)"><u>Back to Top</u></a></div></div></div></div>
-    </div>
-
-                </div>
+      </div>
+     </div>
+    
+               
                 <div style="clear: both; font-size: 1px;">
                 </div>
             </div>
             <div id="footer">
-                <ul>
+                 <ul>
+                    <li><a href="/">ACS Home</a></li>
+                    <li>|</li>
+                    <li><a href="/about_acs.aspx">About ACS</a></li>
+                    <li>|</li>
+                    <li><a href="http://www.xerox.com/about-xerox/enus.html" onclick="recordOutboundLink(this, 'Outbound Links', 'http://www.xerox.com/about-xerox/enus.html');return false;">About Xerox</a></li>
+                    <li>|</li>
+                    <li><a href="/acs_locations.aspx">Locations</a></li>
+                    <li>|</li>                    
                     <li><a href="/contactus.aspx">Contact Us</a></li>
                     <li>|</li>
                     <li><a href="/sitemap.aspx">Site Map</a></li>
@@ -404,7 +382,10 @@ Please direct any questions you might have about this Statement to the ACS Priva
                 </div>
             </div>
         </div>
+    </div>
+    <div class="bottom_cap" id="bottom_cap"></div> 
     </form>
+
 
 
 </body></html>
