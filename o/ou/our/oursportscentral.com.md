@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417152430id_/http%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920042340id_/http%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
 
 # Minor League Sports News on OurSports Central
 
-Effective 9/28/01
+Effective 9/16/10
 
 Privacy Notice Table Of Contents:   
 
@@ -30,7 +30,7 @@ Your privacy is important to us. To better protect your privacy OurSports Centra
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the OurSports Central website. At this time, we collect no personal or demographic information from our visitors. Should we request such information in the future, the intended use of it will be clearly marked.
+This notice applies to all information collected or submitted on the OurSports Central website. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html)
 
  **The Way We Use Information:**
 
@@ -47,6 +47,8 @@ Protecting the privacy of the very young is especially important. For that reaso
 **How You Can Access Or Correct Your Information**
 
 Because we do not collect any personal information, there is nothing that will need to be corrected.
+
+To learn more about behavioral advertising practices or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/).
 
  **How To Contact Us**
 
