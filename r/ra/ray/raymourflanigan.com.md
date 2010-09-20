@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616232011id_/http%3A//www.raymourflanigan.com/catalog/pop_up-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920064649id_/http%3A//www.raymourflanigan.com/catalog/pop_up-privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
