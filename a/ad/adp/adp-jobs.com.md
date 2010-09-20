@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adp-jobs.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602034443id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp-jobs.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920151847id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
 
 # Jobs2Web - Career Website Optimization & Job SEO
 
