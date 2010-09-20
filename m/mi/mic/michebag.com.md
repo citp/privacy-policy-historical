@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the michebag.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501074658id_/http%3A//www.michebag.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michebag.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920120142id_/http%3A//www.michebag.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Miche Bag - Official Miche Bag - Our Privacy Policy
+# Our Privacy Policy | Official Miche Bag
+
+  * Shop:
+  * [The Miche Base Bag](http://www.michebag.com/category/bags)
+  * •
+  * [Small Shells](http://www.michebag.com/category/shells)
+  * •
+  * [Big Shells](http://www.michebag.com/category/miche-big-bag)
+  * •
+  * [Accessories](http://www.michebag.com/category/accessories)
+  * •
+  * [Custom Miche](http://www.custommiche.com/)
+  * •
+  * [Help!](http://www.michebag.com/pages/how-to#howto-order)
+
+
 
 ## Privacy
 
