@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbizz.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803175447id_/http%3A//searchbizz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbizz.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921011412id_/http%3A//searchbizz.com/privacy.html) for the most accurate reproduction.*
 
 # Shopping
 
