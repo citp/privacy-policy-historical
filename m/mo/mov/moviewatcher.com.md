@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviewatcher.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502010659id_/http%3A//www.amcentertainment.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviewatcher.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920182337id_/http%3A//www.amcentertainment.com/Privacypolicy) for the most accurate reproduction.*
 
 # AMC Entertainment | Privacy Policy
 
