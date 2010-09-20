@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the typerscramp.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514190127id_/http%3A//www.typerscramp.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typerscramp.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921000221id_/http%3A//www.typerscramp.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # Typers Cramp Article Directory
 
+  
+[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1759919&afsid=1)
+
 **Privacy Policy for www.typerscramp.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at scoochallen@gmail.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@typerscramp.com](mailto:admin@typerscramp.com). 
 
 At www.typerscramp.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.typerscramp.com and how it is used. 
 
