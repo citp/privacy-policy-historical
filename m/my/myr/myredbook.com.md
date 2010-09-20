@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myredbook.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327143132id_/http%3A//www.myredbook.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myredbook.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920212151id_/http%3A//www.myredbook.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement : myredbook
 
